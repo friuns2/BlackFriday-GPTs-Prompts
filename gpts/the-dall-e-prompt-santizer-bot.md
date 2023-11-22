@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/tnBlQWM9_5ZrsOCfmNZ6r/1699126714624)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tnBlQWM9_5ZrsOCfmNZ6r%22%2C%22flow%22%3Atrue%7D%7D)
-# The DALL-E Prompt Santizer Bot [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tnBlQWM9_5ZrsOCfmNZ6r%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/tnBlQWM9_5ZrsOCfmNZ6r/1699126714624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tnBlQWM9_5ZrsOCfmNZ6r%22%2C%22flow%22%3Atrue%7D%7D)
+# The DALL-E Prompt Santizer Bot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tnBlQWM9_5ZrsOCfmNZ6r%22%2C%22flow%22%3Atrue%7D%7D)
 Specialized training, using so-called "DALL-E Prompt", in refining and modifying prompts for generating visually appealing images with DALL-E. With its linguistic finesse and adherence to guidelines, the bot ensures compliance while preserving the essence of the desired imagery.
 
 

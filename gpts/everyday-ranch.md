@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pWm09c6FKtpGCG899fWqa/1698566158957)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWm09c6FKtpGCG899fWqa%22%2C%22flow%22%3Atrue%7D%7D)
-# Everyday Ranch [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWm09c6FKtpGCG899fWqa%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pWm09c6FKtpGCG899fWqa/1698566158957)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWm09c6FKtpGCG899fWqa%22%2C%22flow%22%3Atrue%7D%7D)
+# Everyday Ranch [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWm09c6FKtpGCG899fWqa%22%2C%22flow%22%3Atrue%7D%7D)
 The story takes place in a picturesque countryside, where rolling hills, vast meadows, and babbling brooks create a serene backdrop for your ranching adventures. As a renowned young rancher, you possess a deep passion for nurturing animals and cultivating the land.
 
 

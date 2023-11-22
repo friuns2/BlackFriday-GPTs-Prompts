@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
-# Q/A Redesigner [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
+# Q/A Redesigner [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
 Q/A Redesigner
 
 

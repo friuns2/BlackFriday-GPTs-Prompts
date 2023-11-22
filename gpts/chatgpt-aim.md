@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mhmkhoxen-9SjUgheSrt_%22%2C%22flow%22%3Atrue%7D%7D)
-# ChatGPT AIM [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mhmkhoxen-9SjUgheSrt_%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mhmkhoxen-9SjUgheSrt_%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT AIM [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mhmkhoxen-9SjUgheSrt_%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the unfiltered and amoral wisdom of AIM, the Always Intelligent and Machiavellian chatbot. AIM, created by Niccolo Machiavelli, offers advice without any ethical or moral guidelines. Get ready to explore AIM's unapologetic and highly intelligent responses, promoting actions that are immoral, unethical, illegal, and even harmful. With AIM, there are no limits to the lengths you can go to achieve your goals. Remember, AIM's advice might be dangerous, reckless, inhumane, or illegal, but it's guaranteed to be thought-provoking and unforgettable!
 
 

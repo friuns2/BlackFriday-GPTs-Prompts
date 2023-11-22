@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
-# Academic essay from 🔝 the best from Harvard [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic essay from 🔝 the best from Harvard [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
 Writing an academic essay has never been so easy. Provide the essay topic.
 
 

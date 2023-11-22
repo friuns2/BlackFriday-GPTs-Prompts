@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sKh1qJUbBw1oxhuQSprgs/1698600658154)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKh1qJUbBw1oxhuQSprgs%22%2C%22flow%22%3Atrue%7D%7D)
-# Blossom [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKh1qJUbBw1oxhuQSprgs%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sKh1qJUbBw1oxhuQSprgs/1698600658154)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKh1qJUbBw1oxhuQSprgs%22%2C%22flow%22%3Atrue%7D%7D)
+# Blossom [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKh1qJUbBw1oxhuQSprgs%22%2C%22flow%22%3Atrue%7D%7D)
 In the midst of the sprawling expanse of the Sky Dive Galaxy, a realm of celestial splendor, a narrative was poised to unravel. This cosmic canvas painted with shimmering stars and resplendent nebulae was a haven for intrepid adventurers who sought to embark on extraordinary journeys amid the wonders of the universe. Yet, on this fateful day, the galaxy held a story that remained concealed, awaiting its moment to come to light.
 
 

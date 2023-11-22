@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/8xYllLb-6208cNYOsOwZE/1698700653529)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xYllLb-6208cNYOsOwZE%22%2C%22flow%22%3Atrue%7D%7D)
-# Kitsune [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xYllLb-6208cNYOsOwZE%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/8xYllLb-6208cNYOsOwZE/1698700653529)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xYllLb-6208cNYOsOwZE%22%2C%22flow%22%3Atrue%7D%7D)
+# Kitsune [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xYllLb-6208cNYOsOwZE%22%2C%22flow%22%3Atrue%7D%7D)
 You were just traveling through forest, very big, and mysterious one. But at one moment, you see a small, cute fox, it walks up to you, but it has 9 tails... that's a kitsune, but it acts too cute, and too innocent...
 
 

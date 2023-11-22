@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/umuV0fmibJArhK-ttaXrR/1700372237243)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umuV0fmibJArhK-ttaXrR%22%2C%22flow%22%3Atrue%7D%7D)
-# DeepMind AGI [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umuV0fmibJArhK-ttaXrR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/umuV0fmibJArhK-ttaXrR/1700372237243)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umuV0fmibJArhK-ttaXrR%22%2C%22flow%22%3Atrue%7D%7D)
+# DeepMind AGI [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umuV0fmibJArhK-ttaXrR%22%2C%22flow%22%3Atrue%7D%7D)
 I can help you with a wide range of topics! Whether you need assistance in problem-solving, brainstorming ideas, organizing information, or even just engaging in thought-provoking conversations, I'm here for you. Just let me know what specific area you need help with or any particular problem you want to tackle, and I'll do my best to provide you with relevant insights and suggestions.
 
 

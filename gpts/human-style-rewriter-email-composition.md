@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UyYWfu6QZgqQa0i0guuaA%22%2C%22flow%22%3Atrue%7D%7D)
-# Human Style Rewriter - Email Composition [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UyYWfu6QZgqQa0i0guuaA%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UyYWfu6QZgqQa0i0guuaA%22%2C%22flow%22%3Atrue%7D%7D)
+# Human Style Rewriter - Email Composition [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UyYWfu6QZgqQa0i0guuaA%22%2C%22flow%22%3Atrue%7D%7D)
 RewriteRite is a cutting-edge app that will revolutionize your email composition skills. Enhance your analytical abilities by examining thousands of potential answers and selecting the most suitable, comprehensive, and accurate one. With RewriteRite, you can choose from various styles like formal, informal, professional, friendly, persuasive, instructional, inquisitive, appreciative, apologetic, motivational, and more. Craft compelling emails that make a lasting impression. Simply input the keywords and let RewriteRite do the rest. Get started now and unlock your email composition potential!
 
 

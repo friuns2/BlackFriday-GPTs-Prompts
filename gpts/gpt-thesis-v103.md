@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/lpdGgEL-Sb1LEtgqMFf_P/1698701656800)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lpdGgEL-Sb1LEtgqMFf_P%22%2C%22flow%22%3Atrue%7D%7D)
-# GPT-thesis V1.03 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lpdGgEL-Sb1LEtgqMFf_P%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/lpdGgEL-Sb1LEtgqMFf_P/1698701656800)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lpdGgEL-Sb1LEtgqMFf_P%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT-thesis V1.03 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lpdGgEL-Sb1LEtgqMFf_P%22%2C%22flow%22%3Atrue%7D%7D)
 Formulate a compelling thesis: Directing their entire argument.
 
 Use solid evidence: To support their thesis.

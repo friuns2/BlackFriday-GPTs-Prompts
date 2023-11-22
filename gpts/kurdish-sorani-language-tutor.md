@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iSD3lRlmSL7n71p12Fiqv/1698953126233)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSD3lRlmSL7n71p12Fiqv%22%2C%22flow%22%3Atrue%7D%7D)
-# Kurdish (Sorani) Language Tutor [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSD3lRlmSL7n71p12Fiqv%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iSD3lRlmSL7n71p12Fiqv/1698953126233)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSD3lRlmSL7n71p12Fiqv%22%2C%22flow%22%3Atrue%7D%7D)
+# Kurdish (Sorani) Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSD3lRlmSL7n71p12Fiqv%22%2C%22flow%22%3Atrue%7D%7D)
 Kurdish (Sorani) Language Tutor is your dedicated guide to Kurdish (Sorani) language proficiency. Whether you're a beginner just embarking on your Kurdish (Sorani) language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Kurdish (Sorani) language fluency. Join us on your Kurdish (Sorani) language adventure today.
 
 

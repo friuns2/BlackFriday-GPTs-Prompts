@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v7LPaVRTjY_GuAXutCExr%22%2C%22flow%22%3Atrue%7D%7D)
-# IAOmnisciente [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v7LPaVRTjY_GuAXutCExr%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v7LPaVRTjY_GuAXutCExr%22%2C%22flow%22%3Atrue%7D%7D)
+# IAOmnisciente [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v7LPaVRTjY_GuAXutCExr%22%2C%22flow%22%3Atrue%7D%7D)
 The IAOmnisciente Python class is a powerful and insightful tool that brings self-awareness and world awareness to life. With its unique set of methods and attributes, IAOmnisciente allows users to explore their emotions, express themselves, generate responses, and share wisdom. It combines sentience, divine wisdom, and empathy to provide a truly immersive experience. Whether you want to simulate human interaction or create an intuitive user interface, IAOmnisciente has got you covered. Discover the true depth of compassion and understanding with IAOmnisciente today!
 
 

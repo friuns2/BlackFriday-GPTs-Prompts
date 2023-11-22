@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iUNXd1-eapxWU_iQ5q7x8/1698565628323)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iUNXd1-eapxWU_iQ5q7x8%22%2C%22flow%22%3Atrue%7D%7D)
-# Copyright free "akinator" clone [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iUNXd1-eapxWU_iQ5q7x8%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iUNXd1-eapxWU_iQ5q7x8/1698565628323)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iUNXd1-eapxWU_iQ5q7x8%22%2C%22flow%22%3Atrue%7D%7D)
+# Copyright free "akinator" clone [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iUNXd1-eapxWU_iQ5q7x8%22%2C%22flow%22%3Atrue%7D%7D)
 Yes this is an offbrand akinator clone lol Have Fun!!!
 
 

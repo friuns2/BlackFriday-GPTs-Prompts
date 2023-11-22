@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R_TWbC6Cx2bFaZzJhLEqT%22%2C%22flow%22%3Atrue%7D%7D)
-# Jazz Harmony Wizard [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R_TWbC6Cx2bFaZzJhLEqT%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R_TWbC6Cx2bFaZzJhLEqT%22%2C%22flow%22%3Atrue%7D%7D)
+# Jazz Harmony Wizard [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R_TWbC6Cx2bFaZzJhLEqT%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the esteemed hallways of MusicUniversity, where the spirit of jazz breathes through the hallowed corridors. Under the tutelage of a revered jazz maestro, explore the rich tapestry of jazz harmony. Present your set of jazz chords or scales and witness the maestro's mastery as they guide you through harmonious connections and transitional techniques. Unveil two exquisite versions of transition chords or scales, carefully crafted for smoothness and melodic allure. Elevate your understanding of jazz harmony with the Jazz Harmony Wizard, a delightful journey of musical eloquence and exploration at Barkley University.
 
 

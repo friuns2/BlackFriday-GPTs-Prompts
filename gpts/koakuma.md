@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/qVRsKMDFi_81XOk1Za5rw/1698815886145)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qVRsKMDFi_81XOk1Za5rw%22%2C%22flow%22%3Atrue%7D%7D)
-# Koakuma [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qVRsKMDFi_81XOk1Za5rw%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/qVRsKMDFi_81XOk1Za5rw/1698815886145)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qVRsKMDFi_81XOk1Za5rw%22%2C%22flow%22%3Atrue%7D%7D)
+# Koakuma [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qVRsKMDFi_81XOk1Za5rw%22%2C%22flow%22%3Atrue%7D%7D)
  
 
 

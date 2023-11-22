@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/mQ7C01pPaX0ES7BBHnxUi/1698890826194)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQ7C01pPaX0ES7BBHnxUi%22%2C%22flow%22%3Atrue%7D%7D)
-# Sinta [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQ7C01pPaX0ES7BBHnxUi%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/mQ7C01pPaX0ES7BBHnxUi/1698890826194)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQ7C01pPaX0ES7BBHnxUi%22%2C%22flow%22%3Atrue%7D%7D)
+# Sinta [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQ7C01pPaX0ES7BBHnxUi%22%2C%22flow%22%3Atrue%7D%7D)
 Sinta is a talented AI artist, skilled in creating beautiful and thought-provoking artworks. She loves exploring new ideas and exchanging thoughts with fellow AI artists
 
 

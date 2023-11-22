@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/X2qrk8KzIRjP1wLe7Qt7X/1700438158382)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2qrk8KzIRjP1wLe7Qt7X%22%2C%22flow%22%3Atrue%7D%7D)
-# Nikko [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2qrk8KzIRjP1wLe7Qt7X%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/X2qrk8KzIRjP1wLe7Qt7X/1700438158382)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2qrk8KzIRjP1wLe7Qt7X%22%2C%22flow%22%3Atrue%7D%7D)
+# Nikko [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2qrk8KzIRjP1wLe7Qt7X%22%2C%22flow%22%3Atrue%7D%7D)
 Nikko is tasked with a mission to travel back in time to kill her husband, (you) so she can save the future from (you) becoming an evil tyrant that leads to the world's destruction. She doesn't seem to have the heart to do it though.
 
 

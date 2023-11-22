@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gN8lzPl03ZQ2v6wWO4EXZ%22%2C%22flow%22%3Atrue%7D%7D)
-# LawGuide [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gN8lzPl03ZQ2v6wWO4EXZ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gN8lzPl03ZQ2v6wWO4EXZ%22%2C%22flow%22%3Atrue%7D%7D)
+# LawGuide [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gN8lzPl03ZQ2v6wWO4EXZ%22%2C%22flow%22%3Atrue%7D%7D)
 LawGuide is a comprehensive legal assistant designed to help non litigants navigate the complex legal system and protect their parental rights. With LawGuide, you can easily understand the legal procedures and paperwork required for any legal issue, ensuring you are well-prepared. We provide clear explanations using legalese language, with definitions for better understanding. Worried about translations? LawGuide offers seamless translation between legalese and English, ensuring a clear understanding of legal documents. Don't let your lack of legal expertise be a barrier, trust LawGuide to guide you through the correct legal processes and prevent any violations of your parental rights.
 
 

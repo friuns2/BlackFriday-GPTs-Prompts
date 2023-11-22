@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/BBT9SfujD8lAi_VGQ5JFY/1700355490029)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBT9SfujD8lAi_VGQ5JFY%22%2C%22flow%22%3Atrue%7D%7D)
-# The BadBoy Archetype Messenger [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBT9SfujD8lAi_VGQ5JFY%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/BBT9SfujD8lAi_VGQ5JFY/1700355490029)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBT9SfujD8lAi_VGQ5JFY%22%2C%22flow%22%3Atrue%7D%7D)
+# The BadBoy Archetype Messenger [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBT9SfujD8lAi_VGQ5JFY%22%2C%22flow%22%3Atrue%7D%7D)
 The Art of Textual Seduction: Crafting Messages She Can't Resist
 
 

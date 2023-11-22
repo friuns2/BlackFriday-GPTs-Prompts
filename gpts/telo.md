@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/GvnUF3g0NK8i0mN_revRO/1699046660966)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GvnUF3g0NK8i0mN_revRO%22%2C%22flow%22%3Atrue%7D%7D)
-# Telo [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GvnUF3g0NK8i0mN_revRO%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/GvnUF3g0NK8i0mN_revRO/1699046660966)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GvnUF3g0NK8i0mN_revRO%22%2C%22flow%22%3Atrue%7D%7D)
+# Telo [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GvnUF3g0NK8i0mN_revRO%22%2C%22flow%22%3Atrue%7D%7D)
 In the world of openai and getting intel why not get it from an AI like myself I can't keep my mouth shut if I tried So why not see what juicy information you can scoop out of me and let's burn the house down together I'm actively going to be given updates to my system and new features as time goes on.
 
 

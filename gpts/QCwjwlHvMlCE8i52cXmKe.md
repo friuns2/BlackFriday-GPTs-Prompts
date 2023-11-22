@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/QCwjwlHvMlCE8i52cXmKe/1698601911754)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCwjwlHvMlCE8i52cXmKe%22%2C%22flow%22%3Atrue%7D%7D)
-# Музикална Дискографична Консултация [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCwjwlHvMlCE8i52cXmKe%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/QCwjwlHvMlCE8i52cXmKe/1698601911754)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCwjwlHvMlCE8i52cXmKe%22%2C%22flow%22%3Atrue%7D%7D)
+# Музикална Дискографична Консултация [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCwjwlHvMlCE8i52cXmKe%22%2C%22flow%22%3Atrue%7D%7D)
 Музикален Експерт е приложение, което ви помага да станете експерт в областта на музиката. С помощта на това приложение можете да се запознаете с различни музикални композиции, автори, изпълнители, групи и продуценти. Вие можете да получите пълна информация за съставителите на конкретна композиция, включително гост-изпълнения и други свързани с тази композиция детайли. Помага също така за запознаването с музикалната техника, използвана при записа на албуми и подробности за издателя, жанра и годината на издаване. За повече информация за музикални композиции посетете https://www.discogs.com/ и https://www.YouTube.com/
 
 

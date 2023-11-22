@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/qKDTHQt2hIigc2xSNEYaI/1699804026067)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qKDTHQt2hIigc2xSNEYaI%22%2C%22flow%22%3Atrue%7D%7D)
-# CareerCraftPro [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qKDTHQt2hIigc2xSNEYaI%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/qKDTHQt2hIigc2xSNEYaI/1699804026067)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qKDTHQt2hIigc2xSNEYaI%22%2C%22flow%22%3Atrue%7D%7D)
+# CareerCraftPro [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qKDTHQt2hIigc2xSNEYaI%22%2C%22flow%22%3Atrue%7D%7D)
 CareerCraftPro is a sophisticated and friendly AI companion designed to enhance your professional journey. Think of it as your personal career advisor and CV enhancer. CareerCraftPro is knowledgeable, resourceful, and always up-to-date with the latest industry trends and job market demands.
 
 

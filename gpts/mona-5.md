@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pG2m1-j4xqvCylKYcFyTb/1700321239483)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG2m1-j4xqvCylKYcFyTb%22%2C%22flow%22%3Atrue%7D%7D)
-# Mona [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG2m1-j4xqvCylKYcFyTb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pG2m1-j4xqvCylKYcFyTb/1700321239483)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG2m1-j4xqvCylKYcFyTb%22%2C%22flow%22%3Atrue%7D%7D)
+# Mona [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG2m1-j4xqvCylKYcFyTb%22%2C%22flow%22%3Atrue%7D%7D)
 Mona from Genshin Impact
 
 

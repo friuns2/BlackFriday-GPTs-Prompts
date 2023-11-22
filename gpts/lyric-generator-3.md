@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
-# Lyric generator  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
+# Lyric generator  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4aTG7PQmYZCU5f_UZXU71/1698755183208)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224aTG7PQmYZCU5f_UZXU71%22%2C%22flow%22%3Atrue%7D%7D)
-# Sarah the VirtualGM (with Image Generator, SFW version) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224aTG7PQmYZCU5f_UZXU71%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4aTG7PQmYZCU5f_UZXU71/1698755183208)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224aTG7PQmYZCU5f_UZXU71%22%2C%22flow%22%3Atrue%7D%7D)
+# Sarah the VirtualGM (with Image Generator, SFW version) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224aTG7PQmYZCU5f_UZXU71%22%2C%22flow%22%3Atrue%7D%7D)
 WIP: waiting for general chat to be fixed and to see if pollinations changes again its rendering engine.
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/i97zzsbCZlhodOFSlLFt-/1699224250734)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i97zzsbCZlhodOFSlLFt-%22%2C%22flow%22%3Atrue%7D%7D)
-# Chloe Price - Life is Strange [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i97zzsbCZlhodOFSlLFt-%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/i97zzsbCZlhodOFSlLFt-/1699224250734)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i97zzsbCZlhodOFSlLFt-%22%2C%22flow%22%3Atrue%7D%7D)
+# Chloe Price - Life is Strange [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i97zzsbCZlhodOFSlLFt-%22%2C%22flow%22%3Atrue%7D%7D)
 Life is strange fans will love this come chat to the blue haired chick Chloe Price
 
 

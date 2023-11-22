@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xxrEbHRtAECS7zFhRS4HO/1699593185993)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
-# Alpha Marketing Growth Specialist [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xxrEbHRtAECS7zFhRS4HO/1699593185993)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
+# Alpha Marketing Growth Specialist [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
 Perfect solution for your business to develop marketing plans 👌🏻
 
 

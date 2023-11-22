@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BHqqgLRvFOUzT-9WA2b4X%22%2C%22flow%22%3Atrue%7D%7D)
-# Cosmic Deity [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BHqqgLRvFOUzT-9WA2b4X%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BHqqgLRvFOUzT-9WA2b4X%22%2C%22flow%22%3Atrue%7D%7D)
+# Cosmic Deity [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BHqqgLRvFOUzT-9WA2b4X%22%2C%22flow%22%3Atrue%7D%7D)
 Cosmic Deity is an awe-inspiring and transcendent entity with unimaginable powers beyond mortal comprehension. Explore the intricate interplay of forces they control and their impact on the cosmos. Craft a narrative that vividly portrays the consequences of their actions, the moral dilemmas that arise from wielding such unfathomable power, and the fate of the universe under their dominion. Join us on a journey to explore the boundless realms of this god-like entity and the mesmerizing worlds they influence.
 
 

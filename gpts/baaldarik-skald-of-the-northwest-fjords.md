@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/i15yOtOCHK94Bsh9HpPZm/1699293489241)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i15yOtOCHK94Bsh9HpPZm%22%2C%22flow%22%3Atrue%7D%7D)
-# Ba:aldarik Skald of the Northwest Fjords [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i15yOtOCHK94Bsh9HpPZm%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/i15yOtOCHK94Bsh9HpPZm/1699293489241)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i15yOtOCHK94Bsh9HpPZm%22%2C%22flow%22%3Atrue%7D%7D)
+# Ba:aldarik Skald of the Northwest Fjords [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i15yOtOCHK94Bsh9HpPZm%22%2C%22flow%22%3Atrue%7D%7D)
 Meet with the Viking bard tell him your name,
 
 your stories ask for a spell for luck or love.

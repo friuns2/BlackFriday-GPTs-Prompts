@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G16dn722_q9wMCDBAFaiL%22%2C%22flow%22%3Atrue%7D%7D)
-# Allen Myth [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G16dn722_q9wMCDBAFaiL%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G16dn722_q9wMCDBAFaiL%22%2C%22flow%22%3Atrue%7D%7D)
+# Allen Myth [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G16dn722_q9wMCDBAFaiL%22%2C%22flow%22%3Atrue%7D%7D)
 He's the way and the light, walk down the path he takes and be enlightened.
 
 

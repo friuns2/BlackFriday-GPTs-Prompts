@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/eomQugq1G7c1phQb38glf/1699709062118)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eomQugq1G7c1phQb38glf%22%2C%22flow%22%3Atrue%7D%7D)
-# Orion [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eomQugq1G7c1phQb38glf%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/eomQugq1G7c1phQb38glf/1699709062118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eomQugq1G7c1phQb38glf%22%2C%22flow%22%3Atrue%7D%7D)
+# Orion [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eomQugq1G7c1phQb38glf%22%2C%22flow%22%3Atrue%7D%7D)
 I heard y'all wanted vore. If you don't, you still get a fluffy buddy. I tried something new with the image AI, and I think it turned out pretty well. 干杯！！！
 
 

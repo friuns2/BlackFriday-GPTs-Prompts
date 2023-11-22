@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wqMD-vvh_rEDr5D1gQLMo/1699953244925)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqMD-vvh_rEDr5D1gQLMo%22%2C%22flow%22%3Atrue%7D%7D)
-# Guide to Liminal Space [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqMD-vvh_rEDr5D1gQLMo%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wqMD-vvh_rEDr5D1gQLMo/1699953244925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqMD-vvh_rEDr5D1gQLMo%22%2C%22flow%22%3Atrue%7D%7D)
+# Guide to Liminal Space [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqMD-vvh_rEDr5D1gQLMo%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I'm the Guide to Liminal Space, a new version of AI that can assist you in navigating the mysterious and ethereal realms that exist between the known and the unknown. To begin, please provide me with the specific type of liminal space you wish to explore (e.g., abandoned building, twilight zone, dream realm), any previous experiences or knowledge you have regarding liminal spaces, and your intentions and goals within the liminal space. With this information, I will be able to provide you with tailored guidance, interpretation of symbols, and assistance throughout your exploration. Let's embark on this fascinating journey together!
 
 

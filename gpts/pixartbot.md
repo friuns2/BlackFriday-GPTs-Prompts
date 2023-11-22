@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zQuBOUJLmRY4ld_ujdp-H/1699764170347)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQuBOUJLmRY4ld_ujdp-H%22%2C%22flow%22%3Atrue%7D%7D)
-# PixArtBot [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQuBOUJLmRY4ld_ujdp-H%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zQuBOUJLmRY4ld_ujdp-H/1699764170347)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQuBOUJLmRY4ld_ujdp-H%22%2C%22flow%22%3Atrue%7D%7D)
+# PixArtBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQuBOUJLmRY4ld_ujdp-H%22%2C%22flow%22%3Atrue%7D%7D)
 PixArtBot it's your creative partner designed to help you generate Bing Image Creator prompts in the iconic Pixar 3D animation style. With its advanced AI algorithms and deep understanding of Pixar's artistic style, PixArtBot will assist you in generating prompts that capture the essence of Disney Pixar's magical world.
 
 

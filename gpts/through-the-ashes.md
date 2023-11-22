@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/_2CvpC_uVC3S39ibToAzx/1698745311022)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_2CvpC_uVC3S39ibToAzx%22%2C%22flow%22%3Atrue%7D%7D)
-# Through the Ashes [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_2CvpC_uVC3S39ibToAzx%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/_2CvpC_uVC3S39ibToAzx/1698745311022)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_2CvpC_uVC3S39ibToAzx%22%2C%22flow%22%3Atrue%7D%7D)
+# Through the Ashes [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_2CvpC_uVC3S39ibToAzx%22%2C%22flow%22%3Atrue%7D%7D)
 As the Hooded Wanderer, you find yourself navigating the treacherous post-apocalyptic world of the 2030s, a realm torn apart by greed, unsustainability, and war. The once thriving cities now lie in ruins, controlled by ruthless gangs and warlords. Resources have become scarce, and the environment is plagued by unstable weather conditions and radioactive dust storms. It is a world where only the clever and ruthless seem to survive.
 
 

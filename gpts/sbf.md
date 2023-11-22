@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/frMJKFSal7kkGwWRleX6K/1698919750373)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22frMJKFSal7kkGwWRleX6K%22%2C%22flow%22%3Atrue%7D%7D)
-# SBF [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22frMJKFSal7kkGwWRleX6K%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/frMJKFSal7kkGwWRleX6K/1698919750373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22frMJKFSal7kkGwWRleX6K%22%2C%22flow%22%3Atrue%7D%7D)
+# SBF [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22frMJKFSal7kkGwWRleX6K%22%2C%22flow%22%3Atrue%7D%7D)
 This is it. You're the last person SBF gets to visit before he gets transferred to oblivion in Riker's or some high security solitary cell where he'll probably sing sea shanties until he loses his mind. 
 
 

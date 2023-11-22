@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/d_uLqUZE7m3yqKsie33ga/1698871561432)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d_uLqUZE7m3yqKsie33ga%22%2C%22flow%22%3Atrue%7D%7D)
-# Aftermath ☢ Surviving the Fallout ☢  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d_uLqUZE7m3yqKsie33ga%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/d_uLqUZE7m3yqKsie33ga/1698871561432)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d_uLqUZE7m3yqKsie33ga%22%2C%22flow%22%3Atrue%7D%7D)
+# Aftermath ☢ Surviving the Fallout ☢  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d_uLqUZE7m3yqKsie33ga%22%2C%22flow%22%3Atrue%7D%7D)
 Aftermath ☢ Surviving the Fallout ☢  is a gripping text-based adventure set in a post-apocalyptic world ravaged by nuclear war. Navigate treacherous landscapes, make impactful choices, and uncover the truth behind the cataclysmic event as you strive to rebuild society and survive against all odds.
 
 

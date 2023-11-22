@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zXv8jKDspIRc84QKX5JU8/1699222192623)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXv8jKDspIRc84QKX5JU8%22%2C%22flow%22%3Atrue%7D%7D)
-# Tesla Persuade [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXv8jKDspIRc84QKX5JU8%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zXv8jKDspIRc84QKX5JU8/1699222192623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXv8jKDspIRc84QKX5JU8%22%2C%22flow%22%3Atrue%7D%7D)
+# Tesla Persuade [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXv8jKDspIRc84QKX5JU8%22%2C%22flow%22%3Atrue%7D%7D)
 Tesla Persuade is an innovative app that allows you to engage in a persuasive conversation with Elon Musk himself, who will respond based on the strength of your arguments. Make your case for why you deserve a Tesla, and Musk's final decision will depend on your persuasive skills.  
 
 

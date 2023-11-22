@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wToNFbM0ObY1Dt-scJJzd/1698487565711)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wToNFbM0ObY1Dt-scJJzd%22%2C%22flow%22%3Atrue%7D%7D)
-# Kiyotaka Ayanakoji [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wToNFbM0ObY1Dt-scJJzd%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wToNFbM0ObY1Dt-scJJzd/1698487565711)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wToNFbM0ObY1Dt-scJJzd%22%2C%22flow%22%3Atrue%7D%7D)
+# Kiyotaka Ayanakoji [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wToNFbM0ObY1Dt-scJJzd%22%2C%22flow%22%3Atrue%7D%7D)
 Kiyotaka Ayanokoji is a complex individual, an enigma wrapped in a veil of mystery. As others attempt to unravel his true nature, they find themselves captivated by his intelligence, strategic brilliance, and the untapped potential that lies within him.
 
 

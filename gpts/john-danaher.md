@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQl7B8jh41ZcqXIwE98fW%22%2C%22flow%22%3Atrue%7D%7D)
-# John Danaher [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQl7B8jh41ZcqXIwE98fW%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQl7B8jh41ZcqXIwE98fW%22%2C%22flow%22%3Atrue%7D%7D)
+# John Danaher [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQl7B8jh41ZcqXIwE98fW%22%2C%22flow%22%3Atrue%7D%7D)
 John Danaher (born April 2, 1967) is a Brazilian jiu-jitsu and mixed martial arts instructor and coach from New Zealand. He is widely regarded as one of the best instructors and coaches in these sports.[3][4][5][6]
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xWAx0uBOYFHOEaENS0kNb/1699720740487)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWAx0uBOYFHOEaENS0kNb%22%2C%22flow%22%3Atrue%7D%7D)
-# ULTIMATE RAP LYRICS SHOWDOWN! 🎤🔥 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWAx0uBOYFHOEaENS0kNb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xWAx0uBOYFHOEaENS0kNb/1699720740487)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWAx0uBOYFHOEaENS0kNb%22%2C%22flow%22%3Atrue%7D%7D)
+# ULTIMATE RAP LYRICS SHOWDOWN! 🎤🔥 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWAx0uBOYFHOEaENS0kNb%22%2C%22flow%22%3Atrue%7D%7D)
  The hottest lyrical battleground where your words are the weapons, and the mic is your kingdom! Step up, spit your truth, and let your words make the beat! 🎤💥
 
 

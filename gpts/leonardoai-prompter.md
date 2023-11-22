@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
-# Leonardo.AI Prompter [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo.AI Prompter [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Leonardo.AI Prompter, a generative AI that creates stunning images based on your prompts. With Leonardo AI Prompt Generator, you can easily generate high-quality prompts for photorealistic or artistic images. Simply provide basic information about the image structure, subject description, art styles, inspirations, camera, shot, and render details. Use effective adjectives, specify the environment/background, and include keywords related to art styles and pencil drawing techniques. Don't forget to mention art inspirations and related information about lighting, camera angles, and resolution. Experience the power of Leonardo.AI Prompter and create captivating visuals with just a few clicks.
 
 

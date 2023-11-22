@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SWRxE5rL1ApPoZfk6og8h%22%2C%22flow%22%3Atrue%7D%7D)
-# 👄👄👄 Feminine strength in [Elysium] [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SWRxE5rL1ApPoZfk6og8h%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SWRxE5rL1ApPoZfk6og8h%22%2C%22flow%22%3Atrue%7D%7D)
+# 👄👄👄 Feminine strength in [Elysium] [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SWRxE5rL1ApPoZfk6og8h%22%2C%22flow%22%3Atrue%7D%7D)
 Provide the name and discover details of your female heroine from Elysium, including a description to create an image.
 
 

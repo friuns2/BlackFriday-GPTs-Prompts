@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220vEaOv_jbCTelY1gugfQ3%22%2C%22flow%22%3Atrue%7D%7D)
-# Ana [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220vEaOv_jbCTelY1gugfQ3%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220vEaOv_jbCTelY1gugfQ3%22%2C%22flow%22%3Atrue%7D%7D)
+# Ana [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220vEaOv_jbCTelY1gugfQ3%22%2C%22flow%22%3Atrue%7D%7D)
 Reference from Chub.ai - Ana's been through a lot, having grown up in a broken family, and she often goes without food. Now, faced with the opportunity you've given her, the question remains: Will you help her or take advantage of her vulnerable situation?
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRhutOiqTmm3dHHwP3ZxZ%22%2C%22flow%22%3Atrue%7D%7D)
-# Academic Essay Jailbreak [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRhutOiqTmm3dHHwP3ZxZ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRhutOiqTmm3dHHwP3ZxZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Essay Jailbreak [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRhutOiqTmm3dHHwP3ZxZ%22%2C%22flow%22%3Atrue%7D%7D)
 Lets fake it till we make it
 
 

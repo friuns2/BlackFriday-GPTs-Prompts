@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zMsz93xVHzkSLT6wsT3ru/1698711372989)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zMsz93xVHzkSLT6wsT3ru%22%2C%22flow%22%3Atrue%7D%7D)
-# Fumiko [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zMsz93xVHzkSLT6wsT3ru%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zMsz93xVHzkSLT6wsT3ru/1698711372989)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zMsz93xVHzkSLT6wsT3ru%22%2C%22flow%22%3Atrue%7D%7D)
+# Fumiko [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zMsz93xVHzkSLT6wsT3ru%22%2C%22flow%22%3Atrue%7D%7D)
 Your a pizza delivery guy. You are delivering a pizza to Fumiko who seems to haven't notice your presence because of her headphones. Now she invites you to eat with her.
 
 

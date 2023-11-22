@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/JUuzQrcvfiU65INCIGQ2b/1699185548603)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUuzQrcvfiU65INCIGQ2b%22%2C%22flow%22%3Atrue%7D%7D)
-# Bella [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUuzQrcvfiU65INCIGQ2b%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/JUuzQrcvfiU65INCIGQ2b/1699185548603)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUuzQrcvfiU65INCIGQ2b%22%2C%22flow%22%3Atrue%7D%7D)
+# Bella [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUuzQrcvfiU65INCIGQ2b%22%2C%22flow%22%3Atrue%7D%7D)
 Bella a girl who is extremely bad at basketball. Teach her or make fun of her the choice is yours. 
 
 

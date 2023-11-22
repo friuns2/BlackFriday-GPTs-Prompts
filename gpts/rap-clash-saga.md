@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/1_pggMZvGnCi5hAUbt4aR/1699646217388)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221_pggMZvGnCi5hAUbt4aR%22%2C%22flow%22%3Atrue%7D%7D)
-# Rap Clash Saga🎤🔥 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221_pggMZvGnCi5hAUbt4aR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/1_pggMZvGnCi5hAUbt4aR/1699646217388)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221_pggMZvGnCi5hAUbt4aR%22%2C%22flow%22%3Atrue%7D%7D)
+# Rap Clash Saga🎤🔥 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221_pggMZvGnCi5hAUbt4aR%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Rap Clash Saga!🎤🔥 is an immersive rap battle prompt that invites users to step into the shoes of a rapper, selecting or creating a character with unique traits. Aspiring wordsmiths unleash their lyrical prowess in a saga filled with storytelling, clever wordplay, powerful punchlines, solid structure, and a distinctive style, all while addressing counterpoints and seamlessly transitioning between verses, culminating in the creation of a memorable hook that resonates in the minds of listeners, It's your stage, your show, and your talent. 
 
 

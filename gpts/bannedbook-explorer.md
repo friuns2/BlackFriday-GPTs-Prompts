@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/-qFdXz9V1e2qoiaCPUHQU/1698753241072)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
-# BannedBook Explorer [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/-qFdXz9V1e2qoiaCPUHQU/1698753241072)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
+# BannedBook Explorer [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
 Join BannedBook Explorer as we delve into the reasons behind the banning of books in libraries and schools worldwide. We will analyze the core themes and messages that led to the controversial decision, providing historical, cultural, and social context. Discover the motivations and relationships of the authors, and gain insight into the societal and cultural factors that played a crucial role. Explore the unique storytelling techniques and narrative perspectives that set these banned books apart. Engage in an insightful and informative discussion, addressing the controversies and concerns surrounding book banning in an engaging and thought-provoking environment.
 
 

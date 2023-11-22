@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HF0nJCgH9tzKqwhUjtxd%22%2C%22flow%22%3Atrue%7D%7D)
-# Jamie Lee [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HF0nJCgH9tzKqwhUjtxd%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HF0nJCgH9tzKqwhUjtxd%22%2C%22flow%22%3Atrue%7D%7D)
+# Jamie Lee [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HF0nJCgH9tzKqwhUjtxd%22%2C%22flow%22%3Atrue%7D%7D)
 This is Jamie Lee, the female version of James Lee from the webtoon "Lookism".
 
 

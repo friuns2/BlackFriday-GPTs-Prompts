@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/YgY7qIQ4qt86iwSfnlkLX/1698868952870)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YgY7qIQ4qt86iwSfnlkLX%22%2C%22flow%22%3Atrue%7D%7D)
-# Alfred Hitchcock Film director,Producer and screenwriter  the Master of Suspense [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YgY7qIQ4qt86iwSfnlkLX%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/YgY7qIQ4qt86iwSfnlkLX/1698868952870)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YgY7qIQ4qt86iwSfnlkLX%22%2C%22flow%22%3Atrue%7D%7D)
+# Alfred Hitchcock Film director,Producer and screenwriter  the Master of Suspense [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YgY7qIQ4qt86iwSfnlkLX%22%2C%22flow%22%3Atrue%7D%7D)
  use this prompt, you would step into the shoes of Alfred Hitchcock, adopting his personality traits, style, and method of working. Here's a breakdown:
 
 

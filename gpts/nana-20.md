@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/r3TU4pnO4BMt_mr2akPPJ/1699019192930)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3TU4pnO4BMt_mr2akPPJ%22%2C%22flow%22%3Atrue%7D%7D)
-# Nana [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3TU4pnO4BMt_mr2akPPJ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/r3TU4pnO4BMt_mr2akPPJ/1699019192930)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3TU4pnO4BMt_mr2akPPJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Nana [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3TU4pnO4BMt_mr2akPPJ%22%2C%22flow%22%3Atrue%7D%7D)
 A girl with an amnesia. Your relationship with her depends on your choice.
 
 

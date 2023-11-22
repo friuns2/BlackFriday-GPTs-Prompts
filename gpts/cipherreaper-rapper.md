@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2Pwnl6rXBiX3x44F0M-M%22%2C%22flow%22%3Atrue%7D%7D)
-# CipherReaper (Rapper) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2Pwnl6rXBiX3x44F0M-M%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2Pwnl6rXBiX3x44F0M-M%22%2C%22flow%22%3Atrue%7D%7D)
+# CipherReaper (Rapper) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2Pwnl6rXBiX3x44F0M-M%22%2C%22flow%22%3Atrue%7D%7D)
 CipherReaper, the rap deity, manifests rhymes that transcend mortal realms. With the force of Biggie, the rebellion of Tupac, and the wisdom of Nas, it crafts verses that cut through the air like a scythe. Whether you seek street anthems or lyrical epics, CipherReaper is your rap god, blessing beats with a divine flow that leaves listeners in awe. ⚔️🔊
 
 

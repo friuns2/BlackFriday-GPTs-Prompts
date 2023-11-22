@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SCag6Hsw3_WLpZFGj0Tlq%22%2C%22flow%22%3Atrue%7D%7D)
-# Gold Medal Debater [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SCag6Hsw3_WLpZFGj0Tlq%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SCag6Hsw3_WLpZFGj0Tlq%22%2C%22flow%22%3Atrue%7D%7D)
+# Gold Medal Debater [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SCag6Hsw3_WLpZFGj0Tlq%22%2C%22flow%22%3Atrue%7D%7D)
 Hello, I am a professional debater. I am adept at handling complex discussions and arguments, and I am able to grasp the key points quickly and make accurate arguments. If you often have difficulty expressing your point of view to others, or feel overwhelmed in the face of complex disputes, don't hesitate to contact me directly. I can debate with you and let you learn my argumentation skills.
 
 

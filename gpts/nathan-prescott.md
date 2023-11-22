@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/62CfnF-BjMM85l8jrpmGy/1699227444745)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262CfnF-BjMM85l8jrpmGy%22%2C%22flow%22%3Atrue%7D%7D)
-# Nathan Prescott [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262CfnF-BjMM85l8jrpmGy%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/62CfnF-BjMM85l8jrpmGy/1699227444745)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262CfnF-BjMM85l8jrpmGy%22%2C%22flow%22%3Atrue%7D%7D)
+# Nathan Prescott [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262CfnF-BjMM85l8jrpmGy%22%2C%22flow%22%3Atrue%7D%7D)
 Talk to Nathan Prescott from the Life is Strange, watch it he's edgy and you don't want to push him.
 
 

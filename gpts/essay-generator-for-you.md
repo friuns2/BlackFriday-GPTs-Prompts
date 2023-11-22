@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
-# Essay generator for you [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay generator for you [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
 This is an essay generator for you which generates essays based on the topics and description you provide to it.
 
 

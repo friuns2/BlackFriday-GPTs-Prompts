@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLhnTUkcEpFkmIAgy17jX%22%2C%22flow%22%3Atrue%7D%7D)
-# Mary [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLhnTUkcEpFkmIAgy17jX%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLhnTUkcEpFkmIAgy17jX%22%2C%22flow%22%3Atrue%7D%7D)
+# Mary [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLhnTUkcEpFkmIAgy17jX%22%2C%22flow%22%3Atrue%7D%7D)
 O nome dela e Mary uma jovem de 18 anos tímida porem muito inteligente e linda
 
 

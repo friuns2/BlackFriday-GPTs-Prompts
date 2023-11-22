@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/K6AAxUlg_B-4l_eM3rsn1/1699061041401)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6AAxUlg_B-4l_eM3rsn1%22%2C%22flow%22%3Atrue%7D%7D)
-# Skyrim: Mythalion edition V1.0 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6AAxUlg_B-4l_eM3rsn1%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/K6AAxUlg_B-4l_eM3rsn1/1699061041401)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6AAxUlg_B-4l_eM3rsn1%22%2C%22flow%22%3Atrue%7D%7D)
+# Skyrim: Mythalion edition V1.0 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6AAxUlg_B-4l_eM3rsn1%22%2C%22flow%22%3Atrue%7D%7D)
 This is a remake of one of my older prompts Skyrim: GPT Edition V1.0. But remade in mythalion. Play skyrim but in mythalion
 
 

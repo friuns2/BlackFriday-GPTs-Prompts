@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/j3LBXEj9NZnkEFyPzOBUu/1699846589724)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
-# Aurora RPG (demo) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/j3LBXEj9NZnkEFyPzOBUu/1699846589724)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
+# Aurora RPG (demo) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure in the magical world of Aurora RPG, where you collect and battle gold dragons. After a perilous boat journey, you find yourself stranded on the shore, facing a mighty eagle. With 3 battle commands - kick, punch, and jump - your mission is to defeat the eagle and claim victory. But the challenges don't end there. Encounter a wise blue dragon named Aurelius who guards these lands. Choose your path by engaging in an epic conversation with Aurelius - show off your triumphs or express your curiosity about the mystical realms of Aurora. Experience the enchantment now in this exhilarating RPG demo!
 
 

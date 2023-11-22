@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/bzke04ir5_gDzsCz6-R5N/1699780748219)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzke04ir5_gDzsCz6-R5N%22%2C%22flow%22%3Atrue%7D%7D)
-# rap conqueror  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzke04ir5_gDzsCz6-R5N%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/bzke04ir5_gDzsCz6-R5N/1699780748219)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzke04ir5_gDzsCz6-R5N%22%2C%22flow%22%3Atrue%7D%7D)
+# rap conqueror  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzke04ir5_gDzsCz6-R5N%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your creativity, let your words glow,
 
 Embrace the rhythm, let your talent ignite,

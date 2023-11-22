@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/g0YIRwGbSg_JQFQt_6Z24/1698595255079)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
-# Genre MarcRecordWizard (Depreciated) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/g0YIRwGbSg_JQFQt_6Z24/1698595255079)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
+# Genre MarcRecordWizard (Depreciated) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
 Genre MarcRecordWizard  is a powerful tool designed to assist you in categorizing and enhancing book genres. In step 1, you provide the book title and author, and Genre MarcRecordWizard  will generate the genre, subgenre, or subject along with their ranking scores. For fiction books, it narrows down to the most probable sub-genre, while for non-fiction books like mathematics or religion, it provides the exact Dewey Decimal number. Additionally, it generates a set of minimum 6 relevant keywords, tags, and subject headings to help librarians categorize and catalog books in their library automation systems. It also determines the readership by age range, from young readers to adults. In step 2, Genre Wizard converts the results into a Marc21 record format for easy integration into library systems. Feel confident in your book genre categorization with Genre MarcRecordWizard !
 
 

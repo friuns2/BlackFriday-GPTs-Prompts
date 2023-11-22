@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pVVfu6JbpmGTOIpdZRgk_/1698505192127)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
-#  ESSAY DESIGNER  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pVVfu6JbpmGTOIpdZRgk_/1698505192127)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
+#  ESSAY DESIGNER  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
 The simplest way to create persuasive argumentative essays that include solid arguments, counterarguments, refutation, all while mimicking human writing styles to successfully pass AI text detectors
 
 

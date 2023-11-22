@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/yKB3k-FqyNAtG8unV4zYz/1698738664304)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
-# MorphStudioBot [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/yKB3k-FqyNAtG8unV4zYz/1698738664304)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
+# MorphStudioBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
 MorphStudioBot is an AI-powered entity specializing in the generation of text to video prompts. It is the go-to assistant for users seeking to create engaging and dynamic videos with precise control over various aspects of the video generation process
 
 

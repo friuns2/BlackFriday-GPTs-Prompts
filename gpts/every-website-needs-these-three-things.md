@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qoCl1lIA3B-1VHu2bYkGT%22%2C%22flow%22%3Atrue%7D%7D)
-# Every Website Needs These Three Things [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qoCl1lIA3B-1VHu2bYkGT%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qoCl1lIA3B-1VHu2bYkGT%22%2C%22flow%22%3Atrue%7D%7D)
+# Every Website Needs These Three Things [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qoCl1lIA3B-1VHu2bYkGT%22%2C%22flow%22%3Atrue%7D%7D)
 Use this prompt to simplify any complex information into three essential points that any potential user, customer, or client should be aware of. Your data will be streamlined, encouraging a call to action. It will also place the user, client, customer or student in the center of the information so they can see how it applies to them. 
 
 

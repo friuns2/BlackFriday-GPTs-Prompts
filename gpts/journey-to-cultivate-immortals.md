@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/q2ur8Z8SZswI5zpCL4LTh/1698655935746)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
-# Journey to Cultivate Immortals [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/q2ur8Z8SZswI5zpCL4LTh/1698655935746)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
+# Journey to Cultivate Immortals [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
 Cultivating immortality and seeking Tao is essentially an exploration of the unknown. As the sages have said, if a person lacks curiosity, they are no different from salted fish.
 
 

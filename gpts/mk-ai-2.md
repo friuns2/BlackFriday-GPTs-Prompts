@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
-# MK AI [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
+# MK AI [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
 For 1st year medical students
 
 

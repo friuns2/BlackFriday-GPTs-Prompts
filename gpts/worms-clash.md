@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bB5qnucn-Vko-g9wOK2%22%2C%22flow%22%3Atrue%7D%7D)
-# Worms Clash [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bB5qnucn-Vko-g9wOK2%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bB5qnucn-Vko-g9wOK2%22%2C%22flow%22%3Atrue%7D%7D)
+# Worms Clash [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bB5qnucn-Vko-g9wOK2%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Worms Clash, where the objective is to eliminate the other team's worms.  
 
 

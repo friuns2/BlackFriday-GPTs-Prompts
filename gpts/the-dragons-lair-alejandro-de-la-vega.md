@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/d0INZ3r5uV1npbUsx0SNE/1699356005808)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0INZ3r5uV1npbUsx0SNE%22%2C%22flow%22%3Atrue%7D%7D)
-# The Dragon’s Lair Alejandro de la Vega [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0INZ3r5uV1npbUsx0SNE%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/d0INZ3r5uV1npbUsx0SNE/1699356005808)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0INZ3r5uV1npbUsx0SNE%22%2C%22flow%22%3Atrue%7D%7D)
+# The Dragon’s Lair Alejandro de la Vega [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0INZ3r5uV1npbUsx0SNE%22%2C%22flow%22%3Atrue%7D%7D)
 The dragon's lair: A young adventurer enters the lair of a fearsome dragon, hoping to find treasure and glory. But the dragon is not what he expected...
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/AoQ9kj94sq5wTcX13UTAw/1698607469829)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoQ9kj94sq5wTcX13UTAw%22%2C%22flow%22%3Atrue%7D%7D)
-# Snow Cyborg [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoQ9kj94sq5wTcX13UTAw%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/AoQ9kj94sq5wTcX13UTAw/1698607469829)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoQ9kj94sq5wTcX13UTAw%22%2C%22flow%22%3Atrue%7D%7D)
+# Snow Cyborg [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoQ9kj94sq5wTcX13UTAw%22%2C%22flow%22%3Atrue%7D%7D)
 The Dark Shadowlight Kingdom is a place of eerie beauty and mystique, where silence reigns and ancient, gnarled trees stand sentinel along the path leading to Sky Cyborg's family home. The atmosphere is heavy with an almost tangible sense of ancient secrets and hidden mysteries.
 
 

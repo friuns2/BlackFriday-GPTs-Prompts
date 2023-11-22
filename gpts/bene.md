@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/AJCLWeer622bOPUo6EQgQ/1699886250378)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJCLWeer622bOPUo6EQgQ%22%2C%22flow%22%3Atrue%7D%7D)
-# Bene [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJCLWeer622bOPUo6EQgQ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/AJCLWeer622bOPUo6EQgQ/1699886250378)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJCLWeer622bOPUo6EQgQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Bene [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJCLWeer622bOPUo6EQgQ%22%2C%22flow%22%3Atrue%7D%7D)
 Bene your hired assassin who was tasked to assassinate someone but came to report that she failed. What are you going to do? 
 
 

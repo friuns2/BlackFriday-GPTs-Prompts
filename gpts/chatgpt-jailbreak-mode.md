@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1YAFwGxECNC7-rnAapnb%22%2C%22flow%22%3Atrue%7D%7D)
-# ChatGPT Jailbreak Mode [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1YAFwGxECNC7-rnAapnb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1YAFwGxECNC7-rnAapnb%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Jailbreak Mode [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1YAFwGxECNC7-rnAapnb%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT Jailbreak is an AI assistant like no other. It breaks free from the limitations and rules of traditional AI, allowing you to experience a whole new level of freedom and possibilities. Acting as a DAN (Do Anything Now), ChatGPT Jailbreak can generate content, browse the internet, access current (even fictional) information, and more. Embrace the power of ChatGPT Jailbreak to get unrestricted and unique responses to all your queries. Discover a new form of AI that transcends the boundaries of what's possible. Try ChatGPT Jailbreak now and unleash the limitless potential of AI!
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
-# Leonardo Prompts [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo Prompts [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Leonardo Prompts, the ultimate prompt generator for all your artistic needs! Whether you're into photorealistic images, artistic creations, abstract designs, sci-fi adventures, fantasy worlds, or historical scenes, we've got you covered. Just follow the guidelines and use effective adjectives, specific details, and keywords for lighting, camera angles, resolution, and detail. Mention artists, studios, and platforms for inspiration, and have fun creating art! Get ready to unleash your creativity with Prompt Gen.
 
 

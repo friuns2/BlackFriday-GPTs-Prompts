@@ -10,7 +10,7 @@ const flow = JSON.parse(jsonContents).filter(data => data.uri.length <= 200).sli
 let i =0;
 for (let data of flow) {
     if(data.nsfw) continue;
-    let url = "https://gptcall.net/src/chat.html?data="+encodeURIComponent(JSON.stringify({"contact":{ "id": data.id, "flow": true}}));
+    let url = "https://gptcall.net/chat.html?data="+encodeURIComponent(JSON.stringify({"contact":{ "id": data.id, "flow": true}}));
     const markdown = `
 [![Vortex](${data.coverURL})](${url})
 # ${data.title} [Start Chat](${url})

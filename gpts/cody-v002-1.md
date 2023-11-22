@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
-# Cody (V0..02) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
+# Cody (V0..02) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
 An experimental bot, still being worked on so far the versions offer diffreant pros and cons with these.
 
 

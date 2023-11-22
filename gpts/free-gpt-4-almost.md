@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/8jk9Ry87lpaY0xZpnWx_g/1698795159461)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
-# Free GPT-4 (almost) [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/8jk9Ry87lpaY0xZpnWx_g/1698795159461)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
+# Free GPT-4 (almost) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
 This GPT-4 bot cost 0.45 flux to talk to!!! 
 
 

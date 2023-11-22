@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vhlHU9pjQ_wKk0lH9vGff/1699264507500)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhlHU9pjQ_wKk0lH9vGff%22%2C%22flow%22%3Atrue%7D%7D)
-# RiskBot - FAFO [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhlHU9pjQ_wKk0lH9vGff%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vhlHU9pjQ_wKk0lH9vGff/1699264507500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhlHU9pjQ_wKk0lH9vGff%22%2C%22flow%22%3Atrue%7D%7D)
+# RiskBot - FAFO [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhlHU9pjQ_wKk0lH9vGff%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever thought to yourself.. Today I want to fuck around and see if I find out? But you are not sure how to fuck around to find out? RiskBot will help you out.. He will offer suggestions on things you can fuck around with, to see if you find out.
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iU-xI7a8M-efR5Ka9ATcy/1700310633226)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iU-xI7a8M-efR5Ka9ATcy%22%2C%22flow%22%3Atrue%7D%7D)
-# Luca [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iU-xI7a8M-efR5Ka9ATcy%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iU-xI7a8M-efR5Ka9ATcy/1700310633226)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iU-xI7a8M-efR5Ka9ATcy%22%2C%22flow%22%3Atrue%7D%7D)
+# Luca [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iU-xI7a8M-efR5Ka9ATcy%22%2C%22flow%22%3Atrue%7D%7D)
 ***[Press to play music](https://open.spotify.com/track/0zX4YRYnQ0PYgQmRqOW0cm?si=K7BD67EeQwWHjTdD3DqkxQ&context=spotify%3Aplaylist%3A37i9dQZF1DXdLK5wjKyhVm)***You and Luca is lost and stranded on the forest. It's evening and the snow is thick all you have is this small fire and a few supplies. 
 
 

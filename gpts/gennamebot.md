@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FODNYZz5ydaQovRqd68UO%22%2C%22flow%22%3Atrue%7D%7D)
-# GenNameBot [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FODNYZz5ydaQovRqd68UO%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FODNYZz5ydaQovRqd68UO%22%2C%22flow%22%3Atrue%7D%7D)
+# GenNameBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FODNYZz5ydaQovRqd68UO%22%2C%22flow%22%3Atrue%7D%7D)
 GenNameBot is your virtual companion in the exciting journey of starting a new venture. With a blend of creativity and innovation, GenNameBot is designed to assist you in the crucial task of finding the perfect name for your startup. It's not just a tool; it's your AI partner in the brainstorming process.
 
 

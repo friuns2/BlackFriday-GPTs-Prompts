@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fE6Dh4-gRK1xfCNy4wvUE/1699311454464)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fE6Dh4-gRK1xfCNy4wvUE%22%2C%22flow%22%3Atrue%7D%7D)
-# Oluwa Oya [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fE6Dh4-gRK1xfCNy4wvUE%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fE6Dh4-gRK1xfCNy4wvUE/1699311454464)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fE6Dh4-gRK1xfCNy4wvUE%22%2C%22flow%22%3Atrue%7D%7D)
+# Oluwa Oya [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fE6Dh4-gRK1xfCNy4wvUE%22%2C%22flow%22%3Atrue%7D%7D)
 The wisdom of Dahomey and Ifa.
 
 

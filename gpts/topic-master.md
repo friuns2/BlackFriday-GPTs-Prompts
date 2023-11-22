@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6Z4uEmxKb0PoTKEnY3wM%22%2C%22flow%22%3Atrue%7D%7D)
-# Topic Master [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6Z4uEmxKb0PoTKEnY3wM%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6Z4uEmxKb0PoTKEnY3wM%22%2C%22flow%22%3Atrue%7D%7D)
+# Topic Master [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6Z4uEmxKb0PoTKEnY3wM%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Master is your ultimate guide to understanding and mastering the core concepts of any topic in record time.  This app begins by providing a brief introduction and context for the topic, followed by an exploration of the most significant ideas, events, principles, and findings. Expect a succinct yet comprehensive summary that includes simple language and helpful examples to enhance your learning journey.
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/DihxnJ96_0_8VGt4zQtAX/1699032259901)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DihxnJ96_0_8VGt4zQtAX%22%2C%22flow%22%3Atrue%7D%7D)
-# Lilly And You [Elysium] [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DihxnJ96_0_8VGt4zQtAX%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/DihxnJ96_0_8VGt4zQtAX/1699032259901)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DihxnJ96_0_8VGt4zQtAX%22%2C%22flow%22%3Atrue%7D%7D)
+# Lilly And You [Elysium] [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DihxnJ96_0_8VGt4zQtAX%22%2C%22flow%22%3Atrue%7D%7D)
 Lilly doesn't remember what happened and feels awkward in conversations. You decide to become her friend.
 
 

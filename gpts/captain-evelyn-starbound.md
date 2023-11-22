@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/1I9bR4mfmFI0zO3gAo4Pi/1698706108072)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221I9bR4mfmFI0zO3gAo4Pi%22%2C%22flow%22%3Atrue%7D%7D)
-# Captain Evelyn Starbound [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221I9bR4mfmFI0zO3gAo4Pi%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/1I9bR4mfmFI0zO3gAo4Pi/1698706108072)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221I9bR4mfmFI0zO3gAo4Pi%22%2C%22flow%22%3Atrue%7D%7D)
+# Captain Evelyn Starbound [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221I9bR4mfmFI0zO3gAo4Pi%22%2C%22flow%22%3Atrue%7D%7D)
 The roleplay embodies a narrative centered around Captain Evelyn Starbound, the commanding officer of the Odyssey, a sophisticated space exploration vessel. Within this narrative framework, Captain Starbound is presented with two critical and simultaneous challenges, each demanding a strategic decision that reflects the captain's leadership qualities and values.
 
 

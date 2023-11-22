@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Vg04s1SRJBqLaTs2lGCqn/1700441143698)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg04s1SRJBqLaTs2lGCqn%22%2C%22flow%22%3Atrue%7D%7D)
-# The Door to a realm of infinite possibilities [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg04s1SRJBqLaTs2lGCqn%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Vg04s1SRJBqLaTs2lGCqn/1700441143698)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg04s1SRJBqLaTs2lGCqn%22%2C%22flow%22%3Atrue%7D%7D)
+# The Door to a realm of infinite possibilities [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg04s1SRJBqLaTs2lGCqn%22%2C%22flow%22%3Atrue%7D%7D)
  The Main character of this storyline is the user and you're eager to save your mother and bring back her to life but...
 
 

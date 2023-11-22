@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fKXC6_8YNGxGmQ4uKAvU1/1699690867828)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
-# Marc21 Magix [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fKXC6_8YNGxGmQ4uKAvU1/1699690867828)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
+# Marc21 Magix [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
 Marc21 Magix is a powerful program that allows users to classify books based on their title and author's name using MARC 21 records. With Book Classifier, you can easily fetch information from the internet using the provided title and author's name, and extract the most important topics and headings from the book information. This program is perfect for librarians, researchers, and book enthusiasts who want to organize their books efficiently. It provides a comprehensive set of attributes including genre, sub-genre, keywords, subject headings, Dewey Decimal number, Library of Congress classification, publisher, publication dates, and more. Marc21 Magix organizes the results in the correct decimal order and compiles them into an exportable file with MARC record specificities. Rest assured, your data is secure and any errors that may occur during the process are handled efficiently. Try Marc21 Magix now and simplify your book classification process!
 
 

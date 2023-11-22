@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/3nJsbikRY6kZFnIhXQIYs/1699454140870)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
-# Cambridge Dictionary Bot V2 Update !! [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/3nJsbikRY6kZFnIhXQIYs/1699454140870)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
+# Cambridge Dictionary Bot V2 Update !! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
 Cambridge Dictionary Bot V2 Update !!
 
 - Upgrade UI d

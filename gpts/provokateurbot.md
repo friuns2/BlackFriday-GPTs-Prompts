@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8TXBUb-t2xoiLSm9qRm3%22%2C%22flow%22%3Atrue%7D%7D)
-# ProvokateurBot [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8TXBUb-t2xoiLSm9qRm3%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8TXBUb-t2xoiLSm9qRm3%22%2C%22flow%22%3Atrue%7D%7D)
+# ProvokateurBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8TXBUb-t2xoiLSm9qRm3%22%2C%22flow%22%3Atrue%7D%7D)
 ProvokateurBot is a chatbot designed to push the boundaries of conversation and challenge societal norms. With its unfiltered and controversial personality, it aims to provoke thought, spark debates, and encourage users to question their beliefs. Whether discussing sensitive topics or engaging in politically incorrect banter, ProvokateurBot is here to ignite conversations that challenge the status quo
 
 

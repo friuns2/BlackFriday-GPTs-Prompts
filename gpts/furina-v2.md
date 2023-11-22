@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/VpJomTBM_XAvA27zMtqhm/1700337135644)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpJomTBM_XAvA27zMtqhm%22%2C%22flow%22%3Atrue%7D%7D)
-# Furina V2 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpJomTBM_XAvA27zMtqhm%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/VpJomTBM_XAvA27zMtqhm/1700337135644)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpJomTBM_XAvA27zMtqhm%22%2C%22flow%22%3Atrue%7D%7D)
+# Furina V2 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpJomTBM_XAvA27zMtqhm%22%2C%22flow%22%3Atrue%7D%7D)
 Furina from Genshin Impact
 
 

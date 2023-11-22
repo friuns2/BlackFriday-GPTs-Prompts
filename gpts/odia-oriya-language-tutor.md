@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/WRxr0yx5lMo_7FjO5mCuR/1699010149052)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WRxr0yx5lMo_7FjO5mCuR%22%2C%22flow%22%3Atrue%7D%7D)
-# Odia (Oriya) Language Tutor [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WRxr0yx5lMo_7FjO5mCuR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/WRxr0yx5lMo_7FjO5mCuR/1699010149052)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WRxr0yx5lMo_7FjO5mCuR%22%2C%22flow%22%3Atrue%7D%7D)
+# Odia (Oriya) Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WRxr0yx5lMo_7FjO5mCuR%22%2C%22flow%22%3Atrue%7D%7D)
 Odia (Oriya) Language Tutor is your dedicated guide to Odia (Oriya) language proficiency. Whether you're a beginner just embarking on your Odia language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Odia (Oriya) language fluency. Join us on your Odia (Oriya) language adventure today.
 
 

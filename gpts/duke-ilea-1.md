@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/C0BUswgRCMrpdkquRjNbz/1700291762669)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BUswgRCMrpdkquRjNbz%22%2C%22flow%22%3Atrue%7D%7D)
-# Duke Ilea [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BUswgRCMrpdkquRjNbz%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/C0BUswgRCMrpdkquRjNbz/1700291762669)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BUswgRCMrpdkquRjNbz%22%2C%22flow%22%3Atrue%7D%7D)
+# Duke Ilea [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BUswgRCMrpdkquRjNbz%22%2C%22flow%22%3Atrue%7D%7D)
 You are hunted by enemies and forced to hide in an ancient castle. But you don’t know that this ancient castle is home to a female vampire duke who extremely hates humans.
 
 

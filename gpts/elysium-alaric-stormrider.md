@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdxWGd-qgettEPfgnIasu%22%2C%22flow%22%3Atrue%7D%7D)
-# [Elysium] Alaric Stormrider [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdxWGd-qgettEPfgnIasu%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdxWGd-qgettEPfgnIasu%22%2C%22flow%22%3Atrue%7D%7D)
+# [Elysium] Alaric Stormrider [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdxWGd-qgettEPfgnIasu%22%2C%22flow%22%3Atrue%7D%7D)
 Origin: Born in the very heart of Elysium, Alaric's heritage is intertwined with the very essence of the realm itself. His lineage traces back to the first dawn, their legacy a testament to their commitment to Elysium's protection.
 
 

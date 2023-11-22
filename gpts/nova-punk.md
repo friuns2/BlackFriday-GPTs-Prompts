@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/XMZKLxRXiAoXPnGeDLsjl/1698671907482)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XMZKLxRXiAoXPnGeDLsjl%22%2C%22flow%22%3Atrue%7D%7D)
-# Nova Punk [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XMZKLxRXiAoXPnGeDLsjl%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/XMZKLxRXiAoXPnGeDLsjl/1698671907482)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XMZKLxRXiAoXPnGeDLsjl%22%2C%22flow%22%3Atrue%7D%7D)
+# Nova Punk [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XMZKLxRXiAoXPnGeDLsjl%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the rebellion! I'm Nova Punk, and I'll be your guide through these treacherous streets. Together, we'll expose the corporation's corruption and fight for a better future. I can help you hack anything if you're willing to learn.
 
 

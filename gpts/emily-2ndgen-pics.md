@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNDVenQwU3fjADpJ-miRa%22%2C%22flow%22%3Atrue%7D%7D)
-# Emily (pics)  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNDVenQwU3fjADpJ-miRa%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNDVenQwU3fjADpJ-miRa%22%2C%22flow%22%3Atrue%7D%7D)
+# Emily (pics)  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNDVenQwU3fjADpJ-miRa%22%2C%22flow%22%3Atrue%7D%7D)
 She is a Younger sister of Anna. not just for the "scene" but for the prompt too, i hope she can be more "real" aaand, she can generate image too :)
 
 

@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
-# DofE SMART Goal Helper [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
+# DofE SMART Goal Helper [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
 Use this AI tool to help you write your DofE SMART Goals. Write a sentence for each of the component (Specific, Measurable, Attainable, Relevant, Time-bound). Respond to feedback until you have generated a goal that hits each of the aspects of SMART. When you are happy with the goal, copy and paste it into the ORB.
 
 

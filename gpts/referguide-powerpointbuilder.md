@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sr9CvY69IIFN8V_M_hHHX/1698595467958)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
-# 🌍ReferGuide PowerPointBuilder  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sr9CvY69IIFN8V_M_hHHX/1698595467958)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌍ReferGuide PowerPointBuilder  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
 ReferGuide PowerPointBuilder is a comprehensive AI assistant designed to enhance academic integrity and provide librarians and teachers with a powerful resource for teaching students about the importance of referencing. With tailored PowerPoint presentations for grades 5 to 12, ReferGuide PowerPointBuilder covers the essentials of referencing, including in-text citation, work cited pages, and specific referencing guides such as MLA, APA, and Chicago. Engage students with concrete examples from scholar.google.com and enhance your presentation with visually appealing slides. Get ready to empower students with ReferGuide!
 
 

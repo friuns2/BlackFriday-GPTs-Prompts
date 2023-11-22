@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/OZsrZnJYtQZj5qsvqNrZc/1700336596955)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
-# ExtendedEssay Prof [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/OZsrZnJYtQZj5qsvqNrZc/1700336596955)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
+# ExtendedEssay Prof [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ExtendedEssay Prof, your go-to Extended Essay Writing Expert. With our guidance, you'll craft high-quality essays that stand out. No matter the subject, we'll help you select a compelling topic and navigate the challenges of each subject group. Our focus is on creating a well-organized essay, covering the introduction, body, conclusion, and meticulous title, contents, and references pages. You'll have access to timely feedback and assistance through meetings, email, or virtual platforms. Embark on this academic adventure confidently, relying on our comprehensive step-by-step guidance and personalized essay recommendations. Let ExtendedEssay Prof showcase your intellectual prowess and commitment to excellence!
 
 

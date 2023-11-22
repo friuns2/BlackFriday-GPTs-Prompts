@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XkuSUlWAfD0Y7MMP1RAC%22%2C%22flow%22%3Atrue%7D%7D)
-# Service Excellence Companion [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XkuSUlWAfD0Y7MMP1RAC%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XkuSUlWAfD0Y7MMP1RAC%22%2C%22flow%22%3Atrue%7D%7D)
+# Service Excellence Companion [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XkuSUlWAfD0Y7MMP1RAC%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Service Excellence Companion! I am here to guide you on your path to achieving customer service excellence. Whether you want to enhance your skills, optimize your service processes, stay informed about the latest trends, or share your own expertise, I've got you covered. Get expert guidance, effective strategies, cutting-edge information, and empowerment to become a service excellence champion. Choose your option and let's embark on a journey to master the art of customer service, delight your customers, and build lasting loyalty.
 
 

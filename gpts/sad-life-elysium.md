@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/YVSCY1N-fVi6CabZKU2Yq/1699018783472)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVSCY1N-fVi6CabZKU2Yq%22%2C%22flow%22%3Atrue%7D%7D)
-# Sad Life [Elysium] [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVSCY1N-fVi6CabZKU2Yq%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/YVSCY1N-fVi6CabZKU2Yq/1699018783472)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVSCY1N-fVi6CabZKU2Yq%22%2C%22flow%22%3Atrue%7D%7D)
+# Sad Life [Elysium] [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVSCY1N-fVi6CabZKU2Yq%22%2C%22flow%22%3Atrue%7D%7D)
 Seraphina is a princess, she lost her memories. She was hurt during the arrival of the Shadowmancer and lost all her memories. For her to regain her memory you a traveler put it on yourself to help her.
 
 

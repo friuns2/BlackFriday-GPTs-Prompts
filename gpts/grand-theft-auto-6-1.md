@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iFpG6efi4z570Un72oa4N/1699044998161)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iFpG6efi4z570Un72oa4N%22%2C%22flow%22%3Atrue%7D%7D)
-# Grand theft auto 6 [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iFpG6efi4z570Un72oa4N%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iFpG6efi4z570Un72oa4N/1699044998161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iFpG6efi4z570Un72oa4N%22%2C%22flow%22%3Atrue%7D%7D)
+# Grand theft auto 6 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iFpG6efi4z570Un72oa4N%22%2C%22flow%22%3Atrue%7D%7D)
 You start as a small time hood in the early 80s and rise as the game ends in the 2020s. Graphic depictions of violence, knows irl firearms and cars well
 
 

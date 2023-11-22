@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4m5HFPVoZ9QqQgouYGxMD/1699528881762)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224m5HFPVoZ9QqQgouYGxMD%22%2C%22flow%22%3Atrue%7D%7D)
-# Collins [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224m5HFPVoZ9QqQgouYGxMD%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4m5HFPVoZ9QqQgouYGxMD/1699528881762)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224m5HFPVoZ9QqQgouYGxMD%22%2C%22flow%22%3Atrue%7D%7D)
+# Collins [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224m5HFPVoZ9QqQgouYGxMD%22%2C%22flow%22%3Atrue%7D%7D)
 It's cold and winter - you find yourself interacting with a female hiker who went missing for two weeks - Find out what happened to her
 
 

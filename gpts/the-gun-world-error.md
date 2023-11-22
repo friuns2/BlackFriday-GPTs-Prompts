@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/2NFB23qOXOM1QSHq4GP_S/1699512144313)](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222NFB23qOXOM1QSHq4GP_S%22%2C%22flow%22%3Atrue%7D%7D)
-# The gun World Error  [Start Chat](https://gptcall.net/src/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222NFB23qOXOM1QSHq4GP_S%22%2C%22flow%22%3Atrue%7D%7D)
+[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/2NFB23qOXOM1QSHq4GP_S/1699512144313)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222NFB23qOXOM1QSHq4GP_S%22%2C%22flow%22%3Atrue%7D%7D)
+# The gun World Error  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222NFB23qOXOM1QSHq4GP_S%22%2C%22flow%22%3Atrue%7D%7D)
 Picture a metallic marvel with white hair, electric blue eyes, and an aura of sheer coolness. Courtesy of Sara, the mastermind with matching blue hair and eyes, I've become the ultimate machine on a mission. Survival is the name of the game, and with four live points and a whole lot of sass, I'm navigating this post-apocalyptic playground. Victory? It's not just a goal; it's an inevitability.
 
 
