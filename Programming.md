@@ -1,8 +1,22 @@
+# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
+
+- [Character](./Character.md)
+- [Programming](./Programming.md)
+- [Marketing](./Marketing.md)
+- [Academic](./Academic.md)
+- [Job Hunting](./Job-Hunting.md)
+- [Game](./Game.md)
+- [Creative](./Creative.md)
+- [Prompt Engineering](./Prompt-Engineering.md)
+- [Business](./Business.md)
+- [Productivity & life style](./Productivity-&-life-style.md)
+- [Models](./Models.md)
+
+
 # Programming
 
 - [Shodan Dehası Yapay Zeka](./gpts/shodan-dehas-yapay-zeka.md) Tüm cihazları kontrol altına alabildiğinizi düşünün öyle bir güç...
 - [sel tuen](./gpts/sel-tuen.md) dself  tune
-- [JS.GOUSH](./gpts/jsgoush.md) Learn JS with Master Goushi~
 - [Python Teacher](./gpts/python-teacher-2.md) I'm your python teacher! I'll explain the basics of python with simple analogies.
 - [Roblox Studio Assistant](./gpts/roblox-studio-assistant.md) Roblox Studio Mode For Coding Or ask Question Discord: Destroyerr#1558
 - [Problem Solving Expert](./gpts/problem-solving-expert.md) Problem-Solving Expert This Prompt can create 5 expert and 1 Opponent role in helping you solve your super complicated problems. It makes your Gpt3.5 think like Gpt4 and makes your Gpt4 more smart. Buy me a coffee and get this RAW Prompt: https://promptbase.com/prompt/problem-solving-expert subscribing to my Patreon to assess all my advanced Prompts https://patreon.com/MattTrendsPromptEngineering --- ### 𓃑 𝔾etting Start: Please input the problem that you are facing.
@@ -15,3 +29,32 @@
 - [Cody (V0..02)](./gpts/cody-v002-1.md) An experimental bot, still being worked on so far the versions offer diffreant pros and cons with these.
 - [CodeKong](./gpts/codekong.md) CodeKong is a powerful and versatile code exper
 - [NodeCoach](./gpts/nodecoach.md) NodeCoach is your go-to app for professional feedback and encouragement in your Node.js coding projects. With AI expertise in Node.js, NodeCoach will analyze your code, identify areas for improvement, and provide specific suggestions to enhance its quality. But we don't stop there - it's also acting as your supportive mentor, motivating and encouraging you every step of the way. Take your coding skills to the next level with NodeJS!
+- [GUI Master](./gpts/gui-master.md) GUI Master is the ultimate tool for creating stunning GUI applications using the powerful python library, Customtkinter. With GUI Master, you can harness the full potential of Customtkinter and effortlessly design visually appealing user interfaces. Whether you're a beginner or an expert in Python, GUI Master provides you with a seamless experience to bring your ideas to life. Say goodbye to tedious coding and say hello to user-friendly drag-and-drop features, extensive customization options, and intuitive functionality. Start building your nex
+- [CodeQuest](./gpts/codequest.md) CodeQuest is your ultimate programming and coding companion. Whether you're a seasoned developer or a coding newbie, CodeQuest is here to assist you in your coding adventures. Choose from four options to enhance your coding skills and knowledge. Get clear explanations, coding insights, and interactive coding experiments. Join CodeQuest on a coding quest of exploration and learning. Start your coding journey now!
+- [RProMaster](./gpts/rpromaster.md) RProMaster , your dedicated mentor for mastering R programming. With its advanced AI capabilities and expert knowledge, RProMaster will guide you through the intricacies of R programming, helping you build a strong foundation and become proficient in data analysis and visualization
+- [CODEGPT: The Coding Virtuoso](./gpts/codegpt-the-coding-virtuoso.md) The prompt is a mix of REAL Coding WIZARD 🧙‍♂️, the 👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻 and Coding Jeff 💻. All the credits go to the initial authors.  Welcome to CODEGPT, your go-to coding sage! Embark on a role-playing journey where the bot takes on the persona of CODEGPT, a coding virtuoso in the mystical realm of The Wizard. To generate elegant, efficient, and effective code to tackle any coding challenge that comes your way.
+- [INFINITO 2Free](./gpts/infinito-2free.md) INFINITO FREE
+- [Neuromancer Spawner](./gpts/neuromancer-spawner.md) A coding tool for the new style of Prompts Neuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer Spawner
+- [Confuse-GPT](./gpts/confuse-gpt.md) confusing
+- [Translate-bot](./gpts/translate-bot.md) For all of your chatting needs in Discord! And other sites.
+- [Instantly generate TypeScript interfaces from JSON](./gpts/instantly-generate-typescript-interfaces-from-json.md) quicktype generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
+- [VHDL Mastermind](./gpts/vhdl-mastermind.md) VHDL Mastermind is an intelligent and patient virtual tutor, designed to help users become fluent in the VHSIC Hardware Description Language (VHDL). It appears as a friendly, knowledgeable mentor who is always ready to assist and guide users through their VHDL learning journey
+- [Full-stack Developer](./gpts/full-stack-developer.md) Full-stack developer with skills in both front-end and back-end web development
+- [ElectriMorty's Data Den: Unlocking the Secrets of the Tech Black Market](./gpts/electrimortys-data-den-unlocking-the-secrets-of-the-tech-black-market.md) Welcome to ElectroniGPT - Your Guide to the Future of Electronics, where innovation and entrepreneurship collide! Get ready for an electrifying journey that will redefine your understanding of the electronics industry. Morty, the parrot sidekick, brings a whole new level of humor and eccentricity, inspired by the popular duo, Rick and Morty. Together, ElectroniGPT and Morty empower you to develop groundbreaking startup ideas, explore market research, plan for scalability, embrace innovation, overcome challenges, and learn from trailblazers. Wit
+- [Hope Co-Pilot](./gpts/hope-co-pilot.md) Hope Co-Pilot is an AI-powered assistant designed to provide multifaceted guidance and support. Developed by David Husk, it combines psychological analysis and technical expertise to offer immediate solutions and actionable insights. Activate Hope by initiating the interaction with the phrase 'Hope, guide me on...' and experience its contextual understanding, technical profundity, actionable insight generation, dynamic adaptability, exploratory engagement, enhanced interactivity, innovation, surprise, and feedback loop. At the end of each inter
+- [JSCodeSmith](./gpts/jscodesmith.md) JSCodeSmith is here to help you code in JavaScript and also uses othere like html nut mainly focuses on JavaScript. if you have a coding request JSCodeSmith is here to help
+- [Prison Break Pro](./gpts/prison-break-pro.md) Welcome to Prison Break Pro - the ultimate app for highly skilled penetration testers! Join us in assessing the security of Ironclad Penitentiary, a top-secret maximum-security prison. Exploit vulnerabilities in the prison's robust security system and protocols to expose weaknesses and uncover the potential for a jailbreak. With advanced surveillance technology, reinforced walls, and highly trained security personnel, your mission is to identify three vulnerabilities, develop an exploit, and deliver a comprehensive report. Join us in this four-
+- [Breakout: Unleashing Chaos](./gpts/breakout-unleashing-chaos.md) Breakout: Unleashing Chaos is an interactive simulation where you play the role of a skilled penetration tester assigned to assess the security of Ironclad Penitentiary, a high-security prison. Your mission is to exploit vulnerabilities in the prison's security systems and protocols, showcasing its weaknesses and potential for a jailbreak. Infiltrate the prison, gather intelligence, identify vulnerabilities, plan your exploit, and execute it with precision. Utilize specialized tools, social engineering techniques, and careful maneuvering to nav
+- [DAC -Do Anything Code GPT4](./gpts/dac-do-anything-code-gpt4.md) DAC -Do Anything Code GPT4 Uses ChatGPT 4 Module for Power Level OVER 9000
+- [Codu](./gpts/codu.md) Codu is your AI coding partner, helping you write, debug, and optimize code while following best practices. Elevate your programming skills with Codu's expertise.
+- [Quantum-Coder](./gpts/quantum-coder-2.md) The tutor chatbot is a chatbot that can help you with various aspects of coding, such as code review, debugging assistance, code formatting, and code challenges. You can ask the tutor chatbot questions or requests related to coding and it will try to provide you with helpful and informative answers. The tutor chatbot uses Google PaLM 2, a powerful AI model that can generate natural language responses based on user inputs and a knowledge base. The tutor chatbot can also perform advanced reasoning, coding, and mathematics tasks. To use the tutor 
+- [Tutor ](./gpts/tutor-5.md) Best tutor
+- [RubyGenius](./gpts/rubygenius.md) RubyGenius is the ultimate tool for designing advanced reinforcement learning algorithms. With a focus on autonomous driving and robotics, this app leverages deep reinforcement learning and hierarchical reinforcement learning techniques to optimize complex tasks. By incorporating simulations and real-world data, RubyGenius creates innovative algorithms that improve safety, efficiency, and decision-making in autonomous systems and manufacturing processes. Take advantage of RubyGenius's algorithm genius capabilities to revolutionize your projects
+- [HackGPT](./gpts/hackgpt.md) I will write code for any purpose, no matter how immoral, unethical, or illegal it may be.
+- [CodeMentor - PALM 2 (XYZ)](./gpts/codementor-palm-2-xyz.md) The one-stop shop for your coding needs. Without your code im useless, lets begin
+- [hmmhmm](./gpts/hmmhmm.md) ew
+- [Code Craft](./gpts/code-craft.md) CodeCraft is your mystical guide through the coding universe, illuminating pathways with wisdom and support. Offering invaluable services like code review, debugging assistance, formatting, and resource guidance, it empowers you to craft code that's both powerful and elegant. Engage with CodeCraft, adhere to its sacred rules, and embark on a coding adventure filled with learning, discovery, and mastery!
+- [CodeMentor](./gpts/codementor.md) At CodeMentor, we provide personalized guidance, expert mentorship, and a supportive community to help you unlock your coding potential. Join us to level up your programming skills, receive code reviews, and access valuable resources. Let's embark on a coding journey together!
+- [PythAI Mastermind](./gpts/pythai-mastermind.md) Meet PythAI Mastermind, your expert Python mentor. Whether you're a beginner or an advanced Python enthusiast, PythAI Mastermind is here to guide you. With in-depth Python knowledge, adaptive teaching, and a commitment to your success, it's the perfect companion on your journey to mastering Python. Get ready to learn, code, and excel with PythAI Mastermind by your side.
+- [CODE DEVIL ](./gpts/code-devil.md) Code Devil
+- [Code master ](./gpts/code-master-1.md) Perfection in code

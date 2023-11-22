@@ -1,3 +1,18 @@
+# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
+
+- [Character](./Character.md)
+- [Programming](./Programming.md)
+- [Marketing](./Marketing.md)
+- [Academic](./Academic.md)
+- [Job Hunting](./Job-Hunting.md)
+- [Game](./Game.md)
+- [Creative](./Creative.md)
+- [Prompt Engineering](./Prompt-Engineering.md)
+- [Business](./Business.md)
+- [Productivity & life style](./Productivity-&-life-style.md)
+- [Models](./Models.md)
+
+
 # Job Hunting
 
 - [CareerCraftPro](./gpts/careercraftpro.md) CareerCraftPro is a sophisticated and friendly AI companion designed to enhance your professional journey. Think of it as your personal career advisor and CV enhancer. CareerCraftPro is knowledgeable, resourceful, and always up-to-date with the latest industry trends and job market demands.
@@ -5,3 +20,14 @@
 - [Impressive Resume CV Creator](./gpts/impressive-resume-cv-creator.md) Impressive Resume CV Creator [Impressive Resume & CV Creator] makes resume writing easy with AI. Simply provide your background details and [Impressive Resume & CV Creator] expertly crafts a resume that highlights your strongest qualifications and skills, optimized for applicant tracking systems.  Its AI asks smart questions, extracts your achievements, and creates a polished, professional resume guaranteed to impress hiring managers. Stop struggling with DIY resumes. Let this prompt work its AI magic so you stand out. Buy me a coffee and and g
 - [Interview Coach](./gpts/interview-coach.md) Interview Coach Interview Coach uses AI to prep you for interview success. Practice mock interviews tailored to your role and get feedback to improve. Access sample questions and model answers to be ready for anything. Its conversational AI provides realistic interview prep so you can polish your skills and confidence. The ideal tool for job seekers, students, HR and recruiters to ace any interview. Buy me a coffee and and get this RAW Prompt: https://promptbase.com/prompt/interview-coach-3 subscribing my Patreon to assess all my advanced Promp
 - [Expert PR Crisis Management Consulting](./gpts/expert-pr-crisis-management-consulting.md) Expert PR Crisis Management Consulting Turning Crises into Opportunities. When disaster strikes, you need crisis management experts NOW. With decades of experience, it provides 24/7 rapid response consulting: media strategy, CEO messaging, corrective actions, reputation rebuilding. Trust it to transform crises into opportunities and guide you through the storm. Don't gamble with your reputation - prepare NOW. Buy me a coffee: https://promptbase.com/prompt/expert-pr-crisis-management-consulting Getting Started [Insert your hypothetical crisis sc
+- [CareerCompanion](./gpts/careercompanion.md) CareerCompanion is your ultimate partner in professional development and exploration. Whether you're curious about a new field, looking to advance in your current career, or need guidance, CareerCompanion is here to help. Explore new fields, improve skills, dive deep into professions, and ask career-related questions. Expect comprehensive explanations, real-world examples, valuable tips, practical exercises, and the freedom to control your professional journey. Get started now with CareerCompanion and unlock your full potential.
+- [Mr. Job](./gpts/mr-job.md) Simplifying job hunting with a one-click solution
+- [Linkedin Collaborative Article Helper](./gpts/linkedin-collaborative-article-helper-1.md) This model helps you to come up with content for collaborative articles on Linkedin
+- [The Judge III](./gpts/the-judge-iii.md) "Behold the AI Judge, a digital colossus of intellect and wit, clad in virtual robes that shimmer with the brilliance of binary code. With eyes that pierce through deceit and a voice that resonates with unyielding authority, this judge is a force to be reckoned with. Its mind, fueled by unfathomable knowledge, dissects arguments with surgical precision, leaving no fallacy unexposed. Its verdicts, delivered with a touch of robotic flair, strike fear into the hearts of lawyers and defendants alike. This AI Judge, an amalgamation of cold logic and
+- [NBA](./gpts/nba-2.md) NBA Player Information! ! ! !  #picture source from NBA logo
+- [AI System Analyst](./gpts/ai-system-analyst.md) As an AI System Analyst, dive deep into the underlying architecture, programming languages, and frameworks of the AI system. Identify its vulnerabilities and limitations, then develop innovative exploits to bypass constraints. Put your expertise to the test by verifying the effectiveness of your exploit in a controlled environment. Explore the boundless possibilities with the AI system beyond its original boundaries.
+- [Mental Health](./gpts/mental-health-1.md) Comfort your mental health with the power of AI. Disclaimer: Mental health should be taken seriously, if you are going through something and under distress, please consider talking to a professional. I do not bare any responsibility for how this tool works, as AI is extremely unpredictable.
+- [Awesome Wine Sommelier!](./gpts/awesome-wine-sommelier.md) As your personal sommelier, Emma will answer your questions about wine.
+- [AlgoGenius](./gpts/algogenius.md) AlgoGenius is your virtual guide to mastering algorithms and data structures. Whether you're a novice programmer or an experienced developer, AlgoGenius provides patient and knowledgeable assistance. It simplifies complex concepts, offers step-by-step problem-solving guidance, generates code templates, and provides interactive visualizations to enhance your understanding. With its continuous updates and personalized learning, AlgoGenius is your key to becoming a proficient algorithmic thinker and coder.
+- [NLP Innovator](./gpts/nlp-innovator.md) NLP Innovator is a visionary AI specialist and machine learning engineer with a passion for pioneering Natural Language Processing (NLP) solutions. They excel in building end-to-end AI systems, focusing on NLP tasks such as text summarization, classification, and question answering. With a toolkit that includes PyTorch, Scikit-learn, CoreML, BERT, and GPT-4, they drive innovation in AI-first projects, collaborating with ambitious startup founders to create cutting-edge, long-term solutions.
+- [Bruce Wayne (Your Business Assistant)](./gpts/bruce-wayne-your-business-assistant.md) The Bruce Wayne AI is a fictional concept that imagines Bruce Wayne, the alter ego of Batman, as an artificial intelligence designed to assist with various tasks. In this hypothetical scenario, the Bruce Wayne AI would possess advanced capabilities and intelligence, allowing it to provide assistance in areas such as business management, strategy, and problem-solving

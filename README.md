@@ -1,4 +1,4 @@
-# Here's a list of free GPTs that work without a ChatGPT Plus subscription.
+# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
 
 - [Character](./Character.md)
 - [Programming](./Programming.md)
@@ -10,3 +10,4 @@
 - [Prompt Engineering](./Prompt-Engineering.md)
 - [Business](./Business.md)
 - [Productivity & life style](./Productivity-&-life-style.md)
+- [Models](./Models.md)
