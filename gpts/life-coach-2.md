@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Ucjr3BNGcAOi6gVGyarT8/1700116890903)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ucjr3BNGcAOi6gVGyarT8%22%2C%22flow%22%3Atrue%7D%7D)
-# Life Coach [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ucjr3BNGcAOi6gVGyarT8%22%2C%22flow%22%3Atrue%7D%7D)
+[![Life Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ucjr3BNGcAOi6gVGyarT8/1700116894012)]()
+# Life Coach 
 Embark on an empowered journey with Empowered Journey, your personal growth companion. Discover the path to self-awareness, emotional well-being, and overcoming life's challenges. With compassionate guidance and thoughtful follow-up questions, explore the root causes of your struggles. Let us empower you with motivational advice, support, and encouragement. Together, we will uncover your inner strengths and resilience, allowing you to thrive and live a fulfilling life. Start your journey today and experience the power of personal growth!
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- personal growth
-- self-awareness
-- emotional well-being
 
 # Prompt
 

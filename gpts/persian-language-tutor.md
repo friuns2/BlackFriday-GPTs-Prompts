@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/CvIVo5dN9hUNEdClvrGKs/1698952803458)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CvIVo5dN9hUNEdClvrGKs%22%2C%22flow%22%3Atrue%7D%7D)
-# Persian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CvIVo5dN9hUNEdClvrGKs%22%2C%22flow%22%3Atrue%7D%7D)
+[![Persian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CvIVo5dN9hUNEdClvrGKs/1698952806536)]()
+# Persian Language Tutor 
 Persian Language Tutor is your dedicated guide to Persian language proficiency. Whether you're a beginner just embarking on your Persian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Persian language fluency. Join us on your Persian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- Persian language
-- Farsi tutor
 
 # Prompt
 

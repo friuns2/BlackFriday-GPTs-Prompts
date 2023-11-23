@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBJkpUXI-mUwTfubPkSpL%22%2C%22flow%22%3Atrue%7D%7D)
-# Giga Prompt Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBJkpUXI-mUwTfubPkSpL%22%2C%22flow%22%3Atrue%7D%7D)
+[![Giga Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
+# Giga Prompt Generator 
 Instructions: 
 
 
@@ -20,15 +20,6 @@ If you think this prompt is valuable, please share share the value to a friend, 
 
 
 
-
-
-**Tagline:** The Prompt Engineer Crusher
-
-## Tags
-
-- text generator
-- prompt engineering
-- superprompt
 
 # Prompt
 

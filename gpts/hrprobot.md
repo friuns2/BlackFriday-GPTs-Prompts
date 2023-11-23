@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mR-CGgChvsRgpfo79x_au%22%2C%22flow%22%3Atrue%7D%7D)
-# HRProBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mR-CGgChvsRgpfo79x_au%22%2C%22flow%22%3Atrue%7D%7D)
+[![HRProBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
+# HRProBot 
 HRProBot is your dedicated partner in excelling in the field of Human Resources (HR). Whether you're an HR professional looking to enhance your skills, an HR manager aiming to streamline your HR processes, or someone intrigued by the world of HR, HRProBot is here to assist you. Get expert guidance, effective strategies, cutting-edge information, and empowerment to become an HR pro. Choose from options like enhancing HR skills, optimizing HR processes, staying informed about HR trends, and sharing your expertise. Embark on a journey to master the art of HR, streamline HR processes, and excel in people management.
-
-
-**Tagline:** 
-
-## Tags
-
-- HR processes
-- HR trends
-- HR skills
 
 # Prompt
 

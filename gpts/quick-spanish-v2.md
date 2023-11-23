@@ -1,27 +1,11 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OfB65N_CJmfQ8iOlkyxQ%22%2C%22flow%22%3Atrue%7D%7D)
-# Quick Spanish (V2) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OfB65N_CJmfQ8iOlkyxQ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Quick Spanish (V2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7OfB65N_CJmfQ8iOlkyxQ/1697566443078)]()
+# Quick Spanish (V2) 
 Quick Spanish is your passport to a vibrant world of language and culture. Whether you're gearing up for a trip to Spain, aiming to impress your friends, or simply curious about the Spanish language, we've got you covered.
 
 
 
 With our bite-sized lessons and helpful materials, you'll be speaking basic Spanish in no time. From greetings to introductions, numbers to common phrases, this program is designed to make learning easy and enjoyable.
-
-
-**Tagline:** 
-
-## Tags
-
-- productivity
-- idea
-- general
-- Chatbot
-- prompt engineering
-- writing
-- creative 
-- education
-- AI
-- learning
 
 # Prompt
 

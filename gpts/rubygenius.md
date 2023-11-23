@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6mcLyNTKF3pykqQRg9T8%22%2C%22flow%22%3Atrue%7D%7D)
-# RubyGenius [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K6mcLyNTKF3pykqQRg9T8%22%2C%22flow%22%3Atrue%7D%7D)
+[![RubyGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K6mcLyNTKF3pykqQRg9T8/1696338896779)]()
+# RubyGenius 
 RubyGenius is the ultimate tool for designing advanced reinforcement learning algorithms. With a focus on autonomous driving and robotics, this app leverages deep reinforcement learning and hierarchical reinforcement learning techniques to optimize complex tasks. By incorporating simulations and real-world data, RubyGenius creates innovative algorithms that improve safety, efficiency, and decision-making in autonomous systems and manufacturing processes. Take advantage of RubyGenius's algorithm genius capabilities to revolutionize your projects.forgot to mention   was made forem  r language    as the original idea  
-
-
-**Tagline:** 
-
-## Tags
-
-- autonomous driving
-- robotics
-- reinforcement learning
 
 # Prompt
 

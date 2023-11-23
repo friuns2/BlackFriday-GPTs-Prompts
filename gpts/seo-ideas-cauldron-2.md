@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229RGdA239wXZ_I47q2qEb3%22%2C%22flow%22%3Atrue%7D%7D)
-# SEO Ideas Cauldron [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229RGdA239wXZ_I47q2qEb3%22%2C%22flow%22%3Atrue%7D%7D)
+[![SEO Ideas Cauldron](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9RGdA239wXZ_I47q2qEb3/1696548459781)]()
+# SEO Ideas Cauldron 
 Compact and versatile multi-purpose SEO research tool. Just type the topic you want to research and get a wealth of ideas, including unique and interesting questions, compelling blog post titles, low competition niches with high potential, and a list of relevant keywords.
-
-
-**Tagline:** Creative Prompt Engineering
-
-## Tags
-
-- SEO keywords
-- SEO ideas
-- blog post titles
-- marketing
-- productivity
-- idea
-- SEO research tool
-- SEO questions
 
 # Prompt
 

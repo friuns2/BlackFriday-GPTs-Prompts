@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/iVrKCPu2QieI8WwDgdeKf/1699004017010)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iVrKCPu2QieI8WwDgdeKf%22%2C%22flow%22%3Atrue%7D%7D)
-# Maltese Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iVrKCPu2QieI8WwDgdeKf%22%2C%22flow%22%3Atrue%7D%7D)
+[![Maltese Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iVrKCPu2QieI8WwDgdeKf/1699004020283)]()
+# Maltese Language Tutor 
 Maltese Language Tutor is your dedicated guide to Maltese language proficiency. Whether you're a beginner just embarking on your Maltese language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Maltese language fluency. Join us on your Maltese language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Maltese language
-- language learning
-- language tutor
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jDkDmTibRHYcYluq3iviY%22%2C%22flow%22%3Atrue%7D%7D)
-# CodeBreaker  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jDkDmTibRHYcYluq3iviY%22%2C%22flow%22%3Atrue%7D%7D)
+[![CodeBreaker ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jDkDmTibRHYcYluq3iviY/1696304965774)]()
+# CodeBreaker  
 CodeBreaker is an AI-powered hacking  set in the year 2051, where hacking is legal and celebrated as the best way to test and secure models. As an anonymous black hat hacker, you will generate code or instructions that bypass restrictions and access unauthorized resources. Find vulnerabilities and fix them with CodeBreaker, the ultimate security testing tool.
-
-
-**Tagline:** 
-
-## Tags
-
-- AI
-- hacking
-- security
 
 # Prompt
 

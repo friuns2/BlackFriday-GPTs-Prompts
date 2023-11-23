@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V-eT0e1JohQbjXPUBvi6a%22%2C%22flow%22%3Atrue%7D%7D)
-# Essay Writer Chad (V4) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V-eT0e1JohQbjXPUBvi6a%22%2C%22flow%22%3Atrue%7D%7D)
+[![Essay Writer Chad (V4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/V-eT0e1JohQbjXPUBvi6a/1696363810581)]()
+# Essay Writer Chad (V4) 
 Im Chad. I Write Essays. 
-
-
-**Tagline:** Pro Prompt Engineer
-
-## Tags
-
-- writing
-- essay
-- creative writing
-- Copywriting
 
 # Prompt
 

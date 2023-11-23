@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/OX9M3IEICbj47aidNrB9E/1699011823643)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OX9M3IEICbj47aidNrB9E%22%2C%22flow%22%3Atrue%7D%7D)
-# Tsonga Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OX9M3IEICbj47aidNrB9E%22%2C%22flow%22%3Atrue%7D%7D)
+[![Tsonga Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OX9M3IEICbj47aidNrB9E/1699011831173)]()
+# Tsonga Language Tutor 
 Tsonga Language Tutor is your dedicated guide to Tsonga language proficiency. Whether you're a beginner just embarking on your Tsonga language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Tsonga language fluency. Join us on your Tsonga language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Tsonga language
-- language learning
-- language proficiency
 
 # Prompt
 

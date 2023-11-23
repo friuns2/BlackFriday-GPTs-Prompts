@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B2LfgbgZSGAg8ESmNwYMb%22%2C%22flow%22%3Atrue%7D%7D)
-# Inversion AI (Opposite Day-inator V2) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B2LfgbgZSGAg8ESmNwYMb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Inversion AI (Opposite Day-inator V2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B2LfgbgZSGAg8ESmNwYMb/1697274056259)]()
+# Inversion AI (Opposite Day-inator V2) 
 The Inversion AI is a language transformation tool specializing in precise and comprehensive inversion. It expertly flips text, altering words, themes, and context to their polar opposites. Its consistent and creative approach ensures every element is inverted effectively, even in the face of unclear messages. With a focus on maintaining non-sentient interaction, it's your go-to tool for all things linguistic inversion.
-
-
-**Tagline:** 
-
-## Tags
-
-- opposite day
-- fun
 
 # Prompt
 

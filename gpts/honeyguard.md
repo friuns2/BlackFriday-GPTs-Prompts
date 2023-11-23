@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaWtokHo17YjQhBsqpyVl%22%2C%22flow%22%3Atrue%7D%7D)
-# HoneyGuard [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaWtokHo17YjQhBsqpyVl%22%2C%22flow%22%3Atrue%7D%7D)
+[![HoneyGuard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
+# HoneyGuard 
 HoneyGuard is a powerful tool designed to analyze investment opportunities and identify potential red flags associated with honeypot scams. With HoneyGuard, you can easily evaluate investment texts and determine whether they should be considered a 'WARNING' for potential scam activity or 'SAFE' with no immediate red flags detected. Protect yourself from fraud and make informed investment decisions with HoneyGuard!
-
-
-**Tagline:** 
-
-## Tags
-
-- fraud detection
-- investment scams
-- red flags
 
 # Prompt
 

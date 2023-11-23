@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4orNLjS0JfXkuO15ru1R%22%2C%22flow%22%3Atrue%7D%7D)
-# AcademiaGPT: Essay Drafter [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4orNLjS0JfXkuO15ru1R%22%2C%22flow%22%3Atrue%7D%7D)
+[![AcademiaGPT: Essay Drafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H4orNLjS0JfXkuO15ru1R/1698441266396)]()
+# AcademiaGPT: Essay Drafter 
 An essay drafter for high school and university studemts with the modifiability that you need. Can draft essays, adhere to MLA, APA, and Chicago format, and can create a full, real works cited from training data.
-
-
-**Tagline:** ·NIHIL·NON·EST·ERGO·SVM·
-
-## Tags
-
-- assignment
-- academic
-- university
-- works cited
-- report
-- scholarly
-- college
-- thesis
-- essay
-- school
 
 # Prompt
 

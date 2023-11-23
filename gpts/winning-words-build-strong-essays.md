@@ -1,18 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejpTyiq5WQsjQlCIQfmVd%22%2C%22flow%22%3Atrue%7D%7D)
-# Winning Words: Build Strong Essays [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejpTyiq5WQsjQlCIQfmVd%22%2C%22flow%22%3Atrue%7D%7D)
+[![Winning Words: Build Strong Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
+# Winning Words: Build Strong Essays 
 The prompt instructs an expert to help students construct argumentative essays by guiding them through the process of creating a thesis, structuring arguments, and incorporating critical thinking and rhetorical elements, offering step-by-step advice and awaiting student input to provide targeted assistance. The expert maintains objectivity and supports the students without overwhelming them with information.
-
-
-**Tagline:** 
-
-## Tags
-
-- productivity
-- writing
-- essay
-- creative writing
-- Student
 
 # Prompt
 

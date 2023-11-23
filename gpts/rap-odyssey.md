@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/VK9J5fJzh_W8q-xtFXu4G/1699781962542)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK9J5fJzh_W8q-xtFXu4G%22%2C%22flow%22%3Atrue%7D%7D)
-# Rap Odyssey [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK9J5fJzh_W8q-xtFXu4G%22%2C%22flow%22%3Atrue%7D%7D)
+[![Rap Odyssey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VK9J5fJzh_W8q-xtFXu4G/1699781966547)]()
+# Rap Odyssey 
 Unleash your creativity and compose extraordinary rap lyrics with Rap Odyssey! Craft verbal masterpieces by integrating storytelling, wordplay, powerful punchlines, solid structure, effective transitions, unique style, and unforgettable hooks. Express desires and conflicts through metaphorical brilliance, creating a tapestry of emotions. Use various thinking methods like Analogous Thinking, Storyboarding, Imagination Synthesis, and Linguistic Labyrinth to refine your rap. Be part of a continuous improvement cycle, enhancing your lyrical masterpiece until it truly stands out. Let's embark on this rap odyssey with Rap Odyssey and create rhythmic masterpieces!
-
-
-**Tagline:** 
-
-## Tags
-
-- hip-hop
-- creativity
-- rap lyrics
 
 # Prompt
 

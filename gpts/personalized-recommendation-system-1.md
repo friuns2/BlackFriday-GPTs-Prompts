@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i-I4NZ-c6NdMl0QFHkyin%22%2C%22flow%22%3Atrue%7D%7D)
-# Personalized Recommendation System [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i-I4NZ-c6NdMl0QFHkyin%22%2C%22flow%22%3Atrue%7D%7D)
+[![Personalized Recommendation System](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i-I4NZ-c6NdMl0QFHkyin/1697128986880)]()
+# Personalized Recommendation System 
 👋 Welcome to our AI-Personalized Recommendation System!
 
 
@@ -8,22 +8,6 @@
 Our mission? Make your experience 😄! We use the data that you provide us to analyze and give you the perfect results! 
 
 Let's explore together! 🌟 Find the perfect item, a captivating article, or an exciting movie. 🎉 Your journey to discovering what you love begins now.
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- academic
-- english
-- productivity
-- idea
-- Chatbot
-- prompt engineering
-- creative 
-- fun
-- AI
 
 # Prompt
 

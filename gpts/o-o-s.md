@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/FNbD6hsaIRRyjQy1RLRng/1699455018500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNbD6hsaIRRyjQy1RLRng%22%2C%22flow%22%3Atrue%7D%7D)
-# ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑ [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNbD6hsaIRRyjQy1RLRng%22%2C%22flow%22%3Atrue%7D%7D)
+[![✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FNbD6hsaIRRyjQy1RLRng/1699455020671)]()
+# ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑ 
 ## ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑
 
 
@@ -76,18 +76,6 @@ Date(7/12)-Time(16:00 - 17:00)-Task(Lunch)-Priority(1-3)
 
 
 3/6
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- todo-list
-- productivity
-- arrangement
-- prompt engineering
-- prompt
-- superprompt
 
 # Prompt
 

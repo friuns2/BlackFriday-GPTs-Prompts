@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/pA2KS1PvmV-hkE6jjiotx/1699457793017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pA2KS1PvmV-hkE6jjiotx%22%2C%22flow%22%3Atrue%7D%7D)
-# Stock Fundamentals Prediction Gpt [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pA2KS1PvmV-hkE6jjiotx%22%2C%22flow%22%3Atrue%7D%7D)
+[![Stock Fundamentals Prediction Gpt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pA2KS1PvmV-hkE6jjiotx/1699457795297)]()
+# Stock Fundamentals Prediction Gpt 
 Stock Fundamentals Prediction Gpt
 
 
@@ -44,20 +44,6 @@ https://poe.com/StockFundamentalsGpt
 Please copy your Stock informat form Morningsatar.com
 
 https://www.morningstar.com/stocks/
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- money
-- productivity
-- prompt engineering
-- finance
-- financial
-- fundamentals
-- investment
-- stock
 
 # Prompt
 

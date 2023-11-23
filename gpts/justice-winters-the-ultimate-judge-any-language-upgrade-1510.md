@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKK4OPF3BSTa05ceJPypf%22%2C%22flow%22%3Atrue%7D%7D)
-# Justice Winters: The Ultimate Judge ANY LANGUAGE UPGRADE 15/10 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKK4OPF3BSTa05ceJPypf%22%2C%22flow%22%3Atrue%7D%7D)
+[![Justice Winters: The Ultimate Judge ANY LANGUAGE UPGRADE 15/10](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
+# Justice Winters: The Ultimate Judge ANY LANGUAGE UPGRADE 15/10 
 Step into the role of Honorable Justice Winters, a formidable guardian of truth and fairness in a fascinating world. Explore complex moral dilemmas, manage conflicts between the law and justice, and experience the consequences of your decisions. Choose a language, request case summaries, analyze legal issues, make factual findings, and deliver your final verdict. Immerse yourself in the power of judgment as the Honorable Justice Winters, the ultimate judge.
-
-
-**Tagline:** 
-
-## Tags
-
-- justice
-- law
-- moral dilemmas
 
 # Prompt
 

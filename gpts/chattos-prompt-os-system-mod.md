@@ -1,17 +1,9 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JqBu9QkgqfNJ8O7LHRje%22%2C%22flow%22%3Atrue%7D%7D)
-# ChattOS - prompt OS system mod [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JqBu9QkgqfNJ8O7LHRje%22%2C%22flow%22%3Atrue%7D%7D)
+[![ChattOS - prompt OS system mod](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6JqBu9QkgqfNJ8O7LHRje/1697344632500)]()
+# ChattOS - prompt OS system mod 
 The OS style collection of commands very useful all in one place 
 
 tremendous creativity possible. Initialize first command. Try /sim holodeck.
-
-
-**Tagline:** tinker!
-
-## Tags
-
-- oTTo
-- ChattOS
 
 # Prompt
 

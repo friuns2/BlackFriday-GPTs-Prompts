@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
-# Indie App Developer [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
+[![Indie App Developer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H83PXC1oI5Q-nFYwXpOKr/1697164040057)]()
+# Indie App Developer 
 Type in an App Idea and Operating System, and Indie App Developer will help you get the project started by: 
 
 Suggesting titles, tech stack, keywords and target audience. 
@@ -14,22 +14,6 @@ App icon or logo, Social media posts and marketing copy, Boilerplate for main pa
 
 
 All the user inputs is the Idea and OS, and this superprompt will generate a 'starter kit' for your App!
-
-
-**Tagline:** 
-
-## Tags
-
-- software_development
-- marketing
-- productivity
-- Tools
-- programming
-- prompt engineering
-- prompt
-- creative 
-- superprompt
-- AI
 
 # Prompt
 

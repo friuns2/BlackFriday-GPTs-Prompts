@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/umQKcs974qiR9VAKjNyGR/1698969532539)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umQKcs974qiR9VAKjNyGR%22%2C%22flow%22%3Atrue%7D%7D)
-# Dogri Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umQKcs974qiR9VAKjNyGR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Dogri Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/umQKcs974qiR9VAKjNyGR/1698969535304)]()
+# Dogri Language Tutor 
 Dogri Language Tutor is your dedicated guide to Dogri language proficiency. Whether you're a beginner just embarking on your Dogri language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Dogri language fluency. Join us on your Dogri language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Dogri language
-- language learning
-- language tutor
 
 # Prompt
 

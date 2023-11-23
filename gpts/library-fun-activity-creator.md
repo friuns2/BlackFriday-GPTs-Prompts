@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22atLpi5pgRcBju9O2D-LF7%22%2C%22flow%22%3Atrue%7D%7D)
-# Library Fun Activity Creator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22atLpi5pgRcBju9O2D-LF7%22%2C%22flow%22%3Atrue%7D%7D)
+[![Library Fun Activity Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
+# Library Fun Activity Creator 
 Welcome to the ultimate Smart Library Activity Creator! Get ready to make the most of school library time with 10 exciting activities throughout the school year. First, we'll ask you about your focus subject for the year. Then, we'll provide you with curated activities from international school libraries and trusted organizations like CILIP and ALA. From induction week scavenger hunts to book character dress-up days, we have something for every month. You'll receive a detailed proposal for each activity, which you can accept or request changes. Once you agree, we'll create a step-by-step storyboard for each activity. And if you need extra help, we can even generate tailored invitation emails for teachers and students. With  the ultimate Smart Library Activity Creator, your school library will be the hub of excitement and learning!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- school library
-- Tools
-- prompt
-- education
-- documentation
-- library activities
-- plan
-- Teacher
 
 # Prompt
 

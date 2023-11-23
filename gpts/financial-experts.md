@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7cAinjvuRf2Z7rlBMG_H%22%2C%22flow%22%3Atrue%7D%7D)
-# Financial experts ｜ 您的理财专家 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7cAinjvuRf2Z7rlBMG_H%22%2C%22flow%22%3Atrue%7D%7D)
+[![Financial experts ｜ 您的理财专家](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
+# Financial experts ｜ 您的理财专家 
 -Provide professional advice for users to answer financial and financial management questions.
 
 -Provide the latest financial market dynamics to help users make wise investment decisions.
@@ -8,16 +8,6 @@
 - 为用户解答金融理财问题，提供专业建议。
 
 - 提供最新的金融行情动态，帮助用户做出明智的投资决策。
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- productivity
-- AI
-- Counselor
 
 # Prompt
 

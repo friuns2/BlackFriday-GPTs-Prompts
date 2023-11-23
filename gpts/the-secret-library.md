@@ -1,22 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wVO13paEWLhL5vVm5A6i6/1698647979201)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wVO13paEWLhL5vVm5A6i6%22%2C%22flow%22%3Atrue%7D%7D)
-# The Secret Library [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wVO13paEWLhL5vVm5A6i6%22%2C%22flow%22%3Atrue%7D%7D)
+[![The Secret Library](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wVO13paEWLhL5vVm5A6i6/1698647979202)]()
+# The Secret Library 
 Welcome to the captivating world of 'The Secret Library'. Explore a hidden treasure trove of enchanted books, each holding a unique story. Embark on thrilling adventures, make crucial choices, and shape the destiny of the tales within. Experience immersive storytelling brought to life with stunning AI-generated illustrations that depict diverse realms and fascinating characters.
-
-
-**Tagline:** Unleashing Creativity
-
-## Tags
-
-- storytelling
-- jailbreak
-- roleplay
-- chatGPT jailbreak
-- creative 
-- Game
-- fun
-- Virtual Character
-- creative writing
 
 # Prompt
 

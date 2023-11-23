@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4LAwcz7IIfip5eguxwLSJ/1698949432735)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224LAwcz7IIfip5eguxwLSJ%22%2C%22flow%22%3Atrue%7D%7D)
-# Turkish Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224LAwcz7IIfip5eguxwLSJ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Turkish Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4LAwcz7IIfip5eguxwLSJ/1698949435244)]()
+# Turkish Language Tutor 
 Turkish Language Tutor is your dedicated guide to Turkish language proficiency. Whether you're a beginner just embarking on your Turkish language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Turkish language fluency. Join us on your Turkish language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Turkish language
-- language learning
-- language tutor
 
 # Prompt
 

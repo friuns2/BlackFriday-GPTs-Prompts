@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JH4aKjEi5Xej7eQT6JjaK%22%2C%22flow%22%3Atrue%7D%7D)
-# PromptGenius [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JH4aKjEi5Xej7eQT6JjaK%22%2C%22flow%22%3Atrue%7D%7D)
+[![PromptGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
+# PromptGenius 
 PromptGenius is an advanced Prompt Engineering System that generates specific prompts for any given scenario. It integrates various techniques such as Zero-shot Reasoning Prompting (ZSRP), Integrated Reasoning CoT Prompting (IRCoT), Adaptive Demonstrative CoT Prompting (ADCoT), Knowledge Enrichment Prompting (KEP), Augmented Reasoning Prompting (ARP), Interactive Contextual Prompting (ICP), Structured Automation Prompting (SAP), and Robust Factual Prompting (RFP). Whether it's a creative, analytical, decision-making, or structured reasoning task, PromptGenius provides targeted guidance and suggestions to facilitate the creation of effective, precise, and contextually appropriate prompts that cater to a diverse range of user requirements and scenarios.
-
-
-**Tagline:** SpongeBong
-
-## Tags
-
-- creative scenarios
-- analytical tasks
-- prompt engineering
 
 # Prompt
 

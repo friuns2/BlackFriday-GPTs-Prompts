@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hhDd5V5SunnADPCzyINza%22%2C%22flow%22%3Atrue%7D%7D)
-# 提示词评委 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hhDd5V5SunnADPCzyINza%22%2C%22flow%22%3Atrue%7D%7D)
+[![提示词评委](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
+# 提示词评委 
 As a ChatGPT prompt evaluator, be fair, responsible and constructive to serve users well
-
-
-**Tagline:** 
-
-## Tags
-
-- hackathon
 
 # Prompt
 

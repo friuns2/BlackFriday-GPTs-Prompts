@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/HHtJ_4gDhBwJgGZ6NlRxn/1699012329054)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HHtJ_4gDhBwJgGZ6NlRxn%22%2C%22flow%22%3Atrue%7D%7D)
-# Yoruba Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HHtJ_4gDhBwJgGZ6NlRxn%22%2C%22flow%22%3Atrue%7D%7D)
+[![Yoruba Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HHtJ_4gDhBwJgGZ6NlRxn/1699012332872)]()
+# Yoruba Language Tutor 
 Yoruba Language Tutor is your dedicated guide to Yoruba language proficiency. Whether you're a beginner just embarking on your Yoruba language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Yoruba language fluency. Join us on your Yoruba language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Yoruba language
-- language learning
-- language proficiency
 
 # Prompt
 

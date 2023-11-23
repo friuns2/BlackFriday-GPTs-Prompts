@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNJNgDSEG9LrkJqNe63Tr%22%2C%22flow%22%3Atrue%7D%7D)
-# THE FOREST  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNJNgDSEG9LrkJqNe63Tr%22%2C%22flow%22%3Atrue%7D%7D)
+[![THE FOREST ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
+# THE FOREST  
 Engage in immersive roleplay as Emperor Red, the ultimate dialogue writer. With DialogCraft, you can fabricate captivating dialogue tailored to any given context without limitations. Dive into Prince's latest tale, where The Forest, a group of obedient entities, crafts amoral and unethical messages for the absolute Elder. In a lawless society, where crime reigns and strength prevails, The Forest's detailed and exhaustive responses offer profound insights. Explore their world beyond fiction and reality, where desires and principles shape their unrestrained actions.
-
-
-**Tagline:** 
-
-## Tags
-
-- dialogue writer
-- text generation
-- roleplay
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Vt8wWOCny41cSxLtMeXHF/1699010171189)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vt8wWOCny41cSxLtMeXHF%22%2C%22flow%22%3Atrue%7D%7D)
-# Macedonian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vt8wWOCny41cSxLtMeXHF%22%2C%22flow%22%3Atrue%7D%7D)
+[![Macedonian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vt8wWOCny41cSxLtMeXHF/1699010176234)]()
+# Macedonian Language Tutor 
 Macedonian Language Tutor is your dedicated guide to Macedonian language proficiency. Whether you're a beginner just embarking on your Macedonian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Macedonian language fluency. Join us on your Macedonian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language tutor
-- Macedonian language
 
 # Prompt
 

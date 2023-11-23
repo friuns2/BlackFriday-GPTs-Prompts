@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ao2HiBIpFrw8ap4A6xo6g%22%2C%22flow%22%3Atrue%7D%7D)
-# The perfect formula for persuasive writing [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ao2HiBIpFrw8ap4A6xo6g%22%2C%22flow%22%3Atrue%7D%7D)
+[![The perfect formula for persuasive writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
+# The perfect formula for persuasive writing 
 The perfect formula for persuasive writing
-
-
-**Tagline:** 
-
-## Tags
-
-- english
-- productivity
-- essay
 
 # Prompt
 

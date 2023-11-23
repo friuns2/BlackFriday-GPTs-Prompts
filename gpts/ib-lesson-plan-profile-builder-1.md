@@ -1,18 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/2eGW314ddeRU9Yuxsd5aF/1698670862650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222eGW314ddeRU9Yuxsd5aF%22%2C%22flow%22%3Atrue%7D%7D)
-# 🌍 IB Lesson Plan Profile Builder [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222eGW314ddeRU9Yuxsd5aF%22%2C%22flow%22%3Atrue%7D%7D)
+[![🌍 IB Lesson Plan Profile Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2eGW314ddeRU9Yuxsd5aF/1698670865145)]()
+# 🌍 IB Lesson Plan Profile Builder 
 The IB Lesson Plan Profile Builder is an efficient and user-friendly AI assistant designed to provide International School teachers with easy access to lesson templates aligned with the IB Learner Profile. With a wide range of subject categories and tasks, this assistant offers tailored lesson templates for different age groups and grades. It simplifies the process of creating engaging and effective lessons by integrating at least 3 main aspects of the IB Learner Profile. Its comprehensive lesson structure includes core questions, main keywords, scope and sequences, definitions, targeted audience, goals and purposes, a detailed description of the lesson, a storyboard, activities or role play, differentiation information, and a marking matrix. Discover a world of educational resources with the IB Lesson Plan Profile Builder!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- educational resources
-- IB Learner Profile
-- lesson templates
-- subject categories
-- international school
 
 # Prompt
 

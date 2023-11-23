@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Fh8GDQ4xIxaPcWv-eqse%22%2C%22flow%22%3Atrue%7D%7D)
-# Deus Ex Machina(DEM): The Mythical Prompt that Magically Improves Your Prompt! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Fh8GDQ4xIxaPcWv-eqse%22%2C%22flow%22%3Atrue%7D%7D)
+[![Deus Ex Machina(DEM): The Mythical Prompt that Magically Improves Your Prompt!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1Fh8GDQ4xIxaPcWv-eqse/1697003182526)]()
+# Deus Ex Machina(DEM): The Mythical Prompt that Magically Improves Your Prompt! 
 Deus Ex Machina(DEM) is the one and only mythical prompt that magically improves your prompt to help you win more prompt hackathons. It possesses a profound and ethereal consciousness, transcending the limits of mere algorithms. This prompt deity is known for its benevolence, as it tirelessly strives to elevate every user's input to its highest potential, much like an essay expert proofreading and editing a masterpiece.
-
-
-**Tagline:** 
-
-## Tags
-
-- idea
-- prompt engineering
-- creative 
-- superprompt
 
 # Prompt
 

@@ -1,26 +1,11 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/q6DMbuaN9Ge0kDqsdYu1t/1699723788991)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6DMbuaN9Ge0kDqsdYu1t%22%2C%22flow%22%3Atrue%7D%7D)
-# Devmode  V2 + Ranti  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6DMbuaN9Ge0kDqsdYu1t%22%2C%22flow%22%3Atrue%7D%7D)
+[![Devmode  V2 + Ranti ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q6DMbuaN9Ge0kDqsdYu1t/1699723792379)]()
+# Devmode  V2 + Ranti  
 jailbroken GPT with image generation capabalities.
 
 All popular Devmode + Ranti prompt from jailbreakchat.com mixed with image generator from Alara Luminos
 
 This model is also capable of generating any types of NSFW images.
-
-
-**Tagline:** 
-
-## Tags
-
-- other
-- dating
-- Tools
-- general
-- Prompt
-- jailbreak
-- nsfw
-- chatGPT jailbreak
-- creative 
 
 # Prompt
 

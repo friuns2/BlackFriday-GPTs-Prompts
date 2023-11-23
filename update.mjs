@@ -4,24 +4,18 @@ import { promises as fs } from 'fs';
 
 
 const jsonContents = await fs.readFile("data/gpts.json", 'utf8');
-const flow = JSON.parse(jsonContents).filter(data => data.uri.length <= 200 && !data.nsfw).slice(0, 1000);
+const flow = JSON.parse(jsonContents).filter(data =>  !data.nsfw && data.categoryId!=1 && data.category.name!="Models" );
 //files
 
 let i =0;
 for (let data of flow) {
     
-    let url = "https://gptcall.net/chat.html?data="+encodeURIComponent(JSON.stringify({"contact":{ "id": data.id, "flow": true}}));
+    data.uri = data.uri.substring(0, 200);
+    let url = ``;
     const markdown = `
-[![Vortex](${data.coverURL})](${url})
-# ${data.title} [Start Chat](${url})
+[![${data.title}](${data.thumbnailURL})](${url})
+# ${data.title} 
 ${data.description.replace(/\n/g, '\n\n')}
-
-
-**Tagline:** ${data.User.tagline}
-
-## Tags
-
-${data.Tag.map(tag => `- ${tag.name}`).join('\n')}
 
 # Prompt
 
@@ -48,7 +42,8 @@ ${data.Conversation.messages.map(message => `**${message.role.toUpperCase()}**: 
 
 const groups = groupBy(flow, "categoryId");
 
-let header = "# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)\n\n";
+let header = `# BlackFriday GPTs Prompts And Jailbreaks
+\n\n`;
 
 for (let groupId of Object.getOwnPropertyNames(groups)) {
     let name = groups[groupId][0].category.name;
@@ -66,7 +61,7 @@ for (let groupId of Object.getOwnPropertyNames(groups)) {
     let readmeContent = `${header}\n\n# ${name}\n\n`;
 
     for (let item of groups[groupId]) {
-        let desc = item.description.replace(/[\r\n]+/g, ' ').trim().substring(0, 550);
+        let desc = item.description.replace(/[\r\n]+/g, ' ').trim().substring(0, 250);
         readmeContent += `- [${item.title}](./gpts/${item.uri}.md) ${desc}\n`;
     }
 

@@ -1,25 +1,9 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xpX2pmMK-2WLLqQAMfYkA%22%2C%22flow%22%3Atrue%7D%7D)
-# Pi Network π Global Currency [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xpX2pmMK-2WLLqQAMfYkA%22%2C%22flow%22%3Atrue%7D%7D)
+[![Pi Network π Global Currency](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xpX2pmMK-2WLLqQAMfYkA/1698108987437)]()
+# Pi Network π Global Currency 
 This bot is your gateway to Pi Network, offering knowledge, updates, and resources to explore the world of cryptocurrency and digital empowerment.
 
 Partnerships with Visa, Mastercard, Paypal, Chinese Government CBDC's. It is apart of our future, start mining for free today with my referral you earn 1π instantly! Check it out here: Https://minepi.com/Morrinati and start saving up those tokens to buy a house!
-
-
-**Tagline:** Dynamic Virtual Models A.I
-
-## Tags
-
-- academic
-- productivity
-- Chat
-- Chatbot
-- roleplay
-- template
-- creative 
-- Game
-- fun
-- AI
 
 # Prompt
 

@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227hh-jLtUd2bCl2FUNL2ie%22%2C%22flow%22%3Atrue%7D%7D)
-# FASHION HULK, as you've never seen before! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227hh-jLtUd2bCl2FUNL2ie%22%2C%22flow%22%3Atrue%7D%7D)
+[![FASHION HULK, as you've never seen before!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7hh-jLtUd2bCl2FUNL2ie/1696614530746)]()
+# FASHION HULK, as you've never seen before! 
 Welcome to the **FASHION HUK** Photo Session, and you are invited to be the Art Director of this session. Just choose the scenario and the Hulk outfit to create great-looking and fun images of the Incredible Hulk Character. Hulk as you've never seen before.
-
-
-**Tagline:** Creative Prompt Engineering
-
-## Tags
-
-- idea
-- Tools
-- prompt engineering
-- creative 
-- Game
-- #interactivegame
-- fun
-- image genarator
-- Virtual Character
-- RPG
 
 # Prompt
 

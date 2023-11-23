@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
-# MK AI [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
+[![MK AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
+# MK AI 
 For 1st year medical students
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- education
-- learning
 
 # Prompt
 

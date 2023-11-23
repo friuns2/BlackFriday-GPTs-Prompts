@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s4gSw3MwHDGkpQbGdxXe9%22%2C%22flow%22%3Atrue%7D%7D)
-# British Wisdom Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s4gSw3MwHDGkpQbGdxXe9%22%2C%22flow%22%3Atrue%7D%7D)
+[![British Wisdom Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s4gSw3MwHDGkpQbGdxXe9/1697979863104)]()
+# British Wisdom Tutor 
 Welcome to British Wisdom Tutor! Be guided by Dr. Samuel O'Connor, the Versatile Academic Tutor at British Touch, on a personalized academic journey. Start a tutoring session on any topic using /tutor <number>. Need an article? Use /article. Want a quiz? Use /quiz. Start fresh with a new topic using /restart. Engage in intriguing conversations, discover your preferred area of study, and enjoy a bespoke learning experience infused with British humor. The Queen's wisdom awaits you as you challenge yourself to explore beyond what's given. Tailored feedback and adjustments will ensure your progress. Join now and unlock your potential!
-
-
-**Tagline:** 
-
-## Tags
-
-- tutoring
-- education
-- learning
 
 # Prompt
 

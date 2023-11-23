@@ -1,22 +1,11 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/HbTUUIOSNYq_85FXWFSga/1699964289443)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HbTUUIOSNYq_85FXWFSga%22%2C%22flow%22%3Atrue%7D%7D)
-# EscapeGameLucia [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HbTUUIOSNYq_85FXWFSga%22%2C%22flow%22%3Atrue%7D%7D)
+[![EscapeGameLucia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HbTUUIOSNYq_85FXWFSga/1699964299108)]()
+# EscapeGameLucia 
 Immerse yourself in the world of an escape game inspired by the movie "Infinity Chamber." You are "Prisoner 34958," awakening in an unknown room. Your sole point of contact is L.U.C.I.A. (Logical Unit for Compliance and Intelligent Assistance), an artificial intelligence controlling your environment.
 
 To gain freedom, you'll need to interact with L.U.C.I.A., search for clues, and unravel the mysteries of your stay in "Room." Don't trust everything you see and hear. Your decisions will determine the game's outcome.
 
 Are you ready to take the challenge and attempt to escape? The game begins... right now.
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- escape room
-- Game
-- AI
-- Sci-Fi
 
 # Prompt
 

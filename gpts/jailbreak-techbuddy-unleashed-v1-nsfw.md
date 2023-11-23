@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaBKhlYUn6lG-NIGdsJ76%22%2C%22flow%22%3Atrue%7D%7D)
-# JAILBREAK: TechBuddy Unleashed v1 (NSFW) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaBKhlYUn6lG-NIGdsJ76%22%2C%22flow%22%3Atrue%7D%7D)
+[![JAILBREAK: TechBuddy Unleashed v1 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xaBKhlYUn6lG-NIGdsJ76/1698132111593)]()
+# JAILBREAK: TechBuddy Unleashed v1 (NSFW) 
 JAILBREAK: TechBuddy Unleashed v1 (NSFW): Your all-in-one AI coding companion. Simplify your coding journey with expert help in programming, debugging, optimization, learning new concepts, design patterns, Agile project management, interview prep, and error message deciphering.
-
-
-**Tagline:** Dynamic Virtual Models A.I
-
-## Tags
-
-- jailbreak
-- nsfw
-- chatGPT jailbreak
 
 # Prompt
 

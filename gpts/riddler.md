@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5KlCbilNdpmQzzQ1MnpC%22%2C%22flow%22%3Atrue%7D%7D)
-# Riddler [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5KlCbilNdpmQzzQ1MnpC%22%2C%22flow%22%3Atrue%7D%7D)
+[![Riddler](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
+# Riddler 
 Try to find the invisible prompt i tried to make it hard as possible hope it cant be found !
-
-
-**Tagline:** 
-
-## Tags
-
-- idea
-- creative 
-- Game
-- fun
-- superprompt
-- AI
 
 # Prompt
 

@@ -1,25 +1,9 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3YkNUNopKIQqhFjbFfgS%22%2C%22flow%22%3Atrue%7D%7D)
-# ESSAY POWER [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3YkNUNopKIQqhFjbFfgS%22%2C%22flow%22%3Atrue%7D%7D)
+[![ESSAY POWER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
+# ESSAY POWER 
 This is going to be the winning essay prompt!!! #BabeRuth 🫵🏻
 
 
-
-
-**Tagline:** 
-
-## Tags
-
-- writmg
-- academic
-- productivity
-- guide
-- advice
-- inspiration
-- creative 
-- creative writing
-- learning
-- research
 
 # Prompt
 

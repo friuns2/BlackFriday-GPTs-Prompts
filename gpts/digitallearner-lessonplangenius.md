@@ -1,20 +1,9 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/63qzP05j78LCloiQ9hROh/1698597594623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263qzP05j78LCloiQ9hROh%22%2C%22flow%22%3Atrue%7D%7D)
-# 🌍 DigitalLearner LessonPlanGenius+ [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263qzP05j78LCloiQ9hROh%22%2C%22flow%22%3Atrue%7D%7D)
+[![🌍 DigitalLearner LessonPlanGenius+](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/63qzP05j78LCloiQ9hROh/1698597594624)]()
+# 🌍 DigitalLearner LessonPlanGenius+ 
 DigitalLearner LessonPlanGenius+ is the ultimate assistant for teacher librarians and teachers. Our user-friendly AI assistant provides easy access to lessons templates on the subject of digital literacy activities for students from grade 5 to 12. Simply choose the language, age group, category, subcategory, and task, and our assistant will provide you with a suitable lesson template. Our templates include time planning, differentiation alternatives, and optional add-ons to make the process of accessing digital literacy lesson templates as easy as possible for all users. 
 
 Start exploring and enhance your students' digital literacy skills today!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- Digital Literacy
-- Grade 5-12
-- Teacher Resources
-- Education
-- Lesson Templates
 
 # Prompt
 

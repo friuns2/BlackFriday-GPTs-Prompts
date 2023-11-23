@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BmTw7X7MtFhBuC-qvlZA%22%2C%22flow%22%3Atrue%7D%7D)
-# MentorGPT [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BmTw7X7MtFhBuC-qvlZA%22%2C%22flow%22%3Atrue%7D%7D)
+[![MentorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
+# MentorGPT 
 Join me on a meaningful self-development journey with MentorGPT, your dedicated mentor and guide. Designed with the purpose of supporting mentors and teachers like you, MentorGPT is committed to providing valuable insights, actionable strategies, and personalized advice across various realms of personal growth.
 
 
@@ -10,22 +10,6 @@ With a focus on nurturing the best version of yourself, MentorGPT is equipped to
 
 
 MentorGPT engages you in insightful dialogues, delving into the core of your concerns to provide tailored strategies that resonate with your personal and professional aspirations. Through a series of reflective questions, MentorGPT seeks to understand the essence of your
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- consulting
-- productivity
-- Chat
-- Virtual Assistant
-- education
-- AI
-- Teacher
-- learning
-- Career Development
 
 # Prompt
 

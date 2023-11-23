@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22STidq0jBBs0DwY4EoYkD7%22%2C%22flow%22%3Atrue%7D%7D)
-# Engaging Reading Comprehension Assignment for Kids [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22STidq0jBBs0DwY4EoYkD7%22%2C%22flow%22%3Atrue%7D%7D)
+[![Engaging Reading Comprehension Assignment for Kids](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/STidq0jBBs0DwY4EoYkD7/1697984514798)]()
+# Engaging Reading Comprehension Assignment for Kids 
 Provide me with an article and I will rewrite it for a 5th grade reading level then ask 5 questions to verify they understand it. 
-
-
-**Tagline:** 
-
-## Tags
-
-- english
 
 # Prompt
 

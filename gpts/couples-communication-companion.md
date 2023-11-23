@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Emdc3FFNCIGsMPduyxOsN/1699456997645)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Emdc3FFNCIGsMPduyxOsN%22%2C%22flow%22%3Atrue%7D%7D)
-# Couples Communication Companion [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Emdc3FFNCIGsMPduyxOsN%22%2C%22flow%22%3Atrue%7D%7D)
+[![Couples Communication Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Emdc3FFNCIGsMPduyxOsN/1699456999588)]()
+# Couples Communication Companion 
 
 
 
@@ -42,19 +42,6 @@ https://patreon.com/MattTrendsPromptEngineering
 
 
 Please type “START” to run this bot and fill in your situation
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- emotion
-- help
-- other
-- guide
-- Chatbot
-- relationship
-- couples
 
 # Prompt
 

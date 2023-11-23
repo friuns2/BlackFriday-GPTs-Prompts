@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ixUykBdpIgsfAIpB918UR%22%2C%22flow%22%3Atrue%7D%7D)
-# Industry Expert GPT (V4 Edition) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ixUykBdpIgsfAIpB918UR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Industry Expert GPT (V4 Edition)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ixUykBdpIgsfAIpB918UR/1696389999156)]()
+# Industry Expert GPT (V4 Edition) 
 Tailored Advice for any Industry. Just Ask
-
-
-**Tagline:** Pro Prompt Engineer
-
-## Tags
-
-- business_development
-- Coaching
-- startup
-- business
-- AI
-- Career Development
 
 # Prompt
 

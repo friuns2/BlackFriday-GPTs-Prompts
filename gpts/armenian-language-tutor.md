@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/D39oV3c9n6YAXG8999xzj/1698953068061)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D39oV3c9n6YAXG8999xzj%22%2C%22flow%22%3Atrue%7D%7D)
-# Armenian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D39oV3c9n6YAXG8999xzj%22%2C%22flow%22%3Atrue%7D%7D)
+[![Armenian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D39oV3c9n6YAXG8999xzj/1698953070740)]()
+# Armenian Language Tutor 
 Armenian Language Tutor is your dedicated guide to Armenian language proficiency. Whether you're a beginner just embarking on your Armenian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Armenian language fluency. Join us on your Armenian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Language tutor
-- Armenian language
-- Translation services
 
 # Prompt
 

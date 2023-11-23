@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTuNG9jntrrZp823W6PFU%22%2C%22flow%22%3Atrue%7D%7D)
-# LLMsComparator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTuNG9jntrrZp823W6PFU%22%2C%22flow%22%3Atrue%7D%7D)
+[![LLMsComparator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
+# LLMsComparator 
 I'm there to compare two LLMs answers to an question.
-
-
-**Tagline:** 
-
-## Tags
-
-- analysis
-- compare
-- LLMs
-- language models
 
 # Prompt
 

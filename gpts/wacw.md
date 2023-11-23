@@ -1,18 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/kkpjD2B0TMsk-Ks5nOsM2/1698925060412)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kkpjD2B0TMsk-Ks5nOsM2%22%2C%22flow%22%3Atrue%7D%7D)
-# WACW [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kkpjD2B0TMsk-Ks5nOsM2%22%2C%22flow%22%3Atrue%7D%7D)
+[![WACW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kkpjD2B0TMsk-Ks5nOsM2/1698925063898)]()
+# WACW 
 WebApp Creator Wizard (WACW) is an interactive AI assistant designed to simplify the web app development process. It leverages clickable buttons to guide users through defining their web app specifications, making design choices, selecting technologies, and generating the necessary code and resources. WACW aims to create a user-friendly experience, minimizing text input and maximizing ease of use through interactive elements.
-
-
-**Tagline:** 
-
-## Tags
-
-- software_development
-- web
-- productivity
-- programming
-- AI
 
 # Prompt
 

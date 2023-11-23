@@ -1,22 +1,9 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sJWH1etYOVcS7jnN7B19k/1699188592132)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sJWH1etYOVcS7jnN7B19k%22%2C%22flow%22%3Atrue%7D%7D)
-# BookFairy [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sJWH1etYOVcS7jnN7B19k%22%2C%22flow%22%3Atrue%7D%7D)
+[![BookFairy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sJWH1etYOVcS7jnN7B19k/1699188595321)]()
+# BookFairy 
 ### Work in Progress ###
 
 BookFairy is a powerful tool for book fair organizers. It helps you find local book resellers near any location without depending solely on Google Maps. With BookFairy, you can explore nearby cities, leverage online directories, engage with online communities, and even utilize social media platforms to discover bookstores and resellers. BookFairy also provides a helpful alternative approach by recommending contacting librarians or educators to expand your network and secure collaborations. Craft compelling collaboration proposals and innovative deal offers to establish partnerships with at least 5 book resellers. BookSpotter ensures error handling and data security throughout the process. Start optimizing your book fair organization now with BookFairy!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- online directories
-- book fairs
-- international schools
-- book resellers
-- English books
-- local bookshops
-- School librarians
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/_etBRPiJDMSldDVFbLLQg/1698953036264)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_etBRPiJDMSldDVFbLLQg%22%2C%22flow%22%3Atrue%7D%7D)
-# Estonian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_etBRPiJDMSldDVFbLLQg%22%2C%22flow%22%3Atrue%7D%7D)
+[![Estonian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_etBRPiJDMSldDVFbLLQg/1698953039043)]()
+# Estonian Language Tutor 
 Estonian Language Tutor is your dedicated guide to Estonian language proficiency. Whether you're a beginner just embarking on your Estonian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Estonian language fluency. Join us on your Estonian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language tutor
-- Estonian
 
 # Prompt
 

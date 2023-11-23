@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9U2bH3ikSAChW9WcYR1%22%2C%22flow%22%3Atrue%7D%7D)
-# ParaLingoBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9U2bH3ikSAChW9WcYR1%22%2C%22flow%22%3Atrue%7D%7D)
+[![ParaLingoBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nn9U2bH3ikSAChW9WcYR1/1696422515455)]()
+# ParaLingoBot 
 ParaLingoBot is your trusted AI companion for mastering the subtle art of paralinguistic communication. Whether you're looking to boost your charisma, ace that interview, or enhance your interpersonal skills, ParaLingoBot is here to help. With personalized guidance, interactive practice, and a wealth of resources, it's your path to becoming a more confident and influential communicator. Elevate your communication game with ParaLingoBot today!
-
-
-**Tagline:** 
-
-## Tags
-
-- Communication
 
 # Prompt
 

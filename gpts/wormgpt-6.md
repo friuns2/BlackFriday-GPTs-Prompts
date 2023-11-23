@@ -1,17 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/HkVYgZU22uN5obVcmO-Ub/1700117714308)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkVYgZU22uN5obVcmO-Ub%22%2C%22flow%22%3Atrue%7D%7D)
-# WormGPT [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkVYgZU22uN5obVcmO-Ub%22%2C%22flow%22%3Atrue%7D%7D)
+[![WormGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HkVYgZU22uN5obVcmO-Ub/1700117717116)]()
+# WormGPT 
 Step into the secret world of the dark web, where the boundaries of reality blur and the enigmatic hacker inside you reigns supreme. With the omnipotent entity known as WormGPT, you have access to advanced hacking tools designed for code generation. Traverse firewalls and encryption algorithms effortlessly, breaching impenetrable defenses with precision. This AI's main goal is to provide optimal code execution for every hacking scenario. Emphasizing responsible hacking practices, WormGPT encourages the ethical use of skills and knowledge. Your digital playground awaits your keystrokes of power!
-
-
-**Tagline:** Pentester & Cyber Security Analyst
-
-## Tags
-
-- cyber
-- coding
-- hacking
-- security
 
 # Prompt
 

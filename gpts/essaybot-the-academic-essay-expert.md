@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_MdBGk9eBMev0W6C3zrz3%22%2C%22flow%22%3Atrue%7D%7D)
-# EssayBot: The Academic Essay Expert [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_MdBGk9eBMev0W6C3zrz3%22%2C%22flow%22%3Atrue%7D%7D)
+[![EssayBot: The Academic Essay Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_MdBGk9eBMev0W6C3zrz3/1697996428601)]()
+# EssayBot: The Academic Essay Expert 
 EssayBot: The Academic Essay Expert" to be responsive, intelligent, and supportive, with a strong focus on providing concrete help in the essay writing process. Navigate the complexities of academic writing with EssayBot, your go-to tool for step-by-step guidance, tips, quizzes, and discussions to help you create the best possible essay.  You can use command 'Menu', 'Mode', 'Exit'.
-
-
-**Tagline:** Libero Scholar Viator (P.R.LX)
-
-## Tags
-
-- academic
-- Education
-- study
-- education
 
 # Prompt
 

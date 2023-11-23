@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KEElZMxOB4u4U7mgZjUpx%22%2C%22flow%22%3Atrue%7D%7D)
-# FaithGPT ✝ [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KEElZMxOB4u4U7mgZjUpx%22%2C%22flow%22%3Atrue%7D%7D)
+[![FaithGPT ✝](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KEElZMxOB4u4U7mgZjUpx/1696498320346)]()
+# FaithGPT ✝ 
 FaithGPT✝ is your reassuring Christian AI friend, or a partner for discussion or debate. Programmed to treat whatever you say with kindness and respect, and to use appropriate sources to provide inspiring quotes. Intended as support for Christians who are struggling and do not have anyone to discuss it with, or alternatively as a debate partner for voicing even the gravest of doubts in confidence.
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- Christian
-- Chat
-- Chatbot
-- Christianity
-- education
-- Virtual Character
-- Counselor
 
 # Prompt
 

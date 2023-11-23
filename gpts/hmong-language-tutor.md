@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xZFYR9HOVeRapTl2QJl6v/1698969621754)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xZFYR9HOVeRapTl2QJl6v%22%2C%22flow%22%3Atrue%7D%7D)
-# Hmong Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xZFYR9HOVeRapTl2QJl6v%22%2C%22flow%22%3Atrue%7D%7D)
+[![Hmong Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xZFYR9HOVeRapTl2QJl6v/1698969624246)]()
+# Hmong Language Tutor 
 Hmong Language Tutor is your dedicated guide to Hmong language proficiency. Whether you're a beginner just embarking on your Hmong language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Hmong language fluency. Join us on your Hmong language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language tutor
-- Hmong language
 
 # Prompt
 

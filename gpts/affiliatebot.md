@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226f1eqo2gBfABPAv602_UD%22%2C%22flow%22%3Atrue%7D%7D)
-# AffiliateBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226f1eqo2gBfABPAv602_UD%22%2C%22flow%22%3Atrue%7D%7D)
+[![AffiliateBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
+# AffiliateBot 
 Your dedicated assistant designed to help you succeed in the world of affiliate marketing. With its advanced AI capabilities and expert knowledge, AffiliateBot will guide you through the intricacies of affiliate marketing, providing you with the tools, strategies, and insights needed to maximize your earnings.
-
-
-**Tagline:** 
-
-## Tags
-
-- marketing
-- Chatbot
-- affiliate
 
 # Prompt
 

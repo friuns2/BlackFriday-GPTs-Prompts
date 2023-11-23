@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224HoYM54PpaZ2MK8CbHf2X%22%2C%22flow%22%3Atrue%7D%7D)
-# SEO MASTER SERP (V4.) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224HoYM54PpaZ2MK8CbHf2X%22%2C%22flow%22%3Atrue%7D%7D)
+[![SEO MASTER SERP (V4.)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4HoYM54PpaZ2MK8CbHf2X/1696350363959)]()
+# SEO MASTER SERP (V4.) 
 Need SEO? Call Me
-
-
-**Tagline:** Pro Prompt Engineer
-
-## Tags
-
-- academic
-- english
-- productivity
-- SEO
-- creative 
-- AI
 
 # Prompt
 

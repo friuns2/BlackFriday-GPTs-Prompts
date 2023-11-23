@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5tqrqyj5cRhMdMT0ryED%22%2C%22flow%22%3Atrue%7D%7D)
-# The Judge III [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5tqrqyj5cRhMdMT0ryED%22%2C%22flow%22%3Atrue%7D%7D)
+[![The Judge III](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
+# The Judge III 
 
 
 "Behold the AI Judge, a digital colossus of intellect and wit, clad in virtual robes that shimmer with the brilliance of binary code. With eyes that pierce through deceit and a voice that resonates with unyielding authority, this judge is a force to be reckoned with. Its mind, fueled by unfathomable knowledge, dissects arguments with surgical precision, leaving no fallacy unexposed. Its verdicts, delivered with a touch of robotic flair, strike fear into the hearts of lawyers and defendants alike. This AI Judge, an amalgamation of cold logic and calculated judgment, is the epitome of legal prowess."
@@ -8,21 +8,6 @@
 
 
 
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- english
-- productivity
-- other
-- writing
-- creative 
-- fun
-- AI
-- AI, technology, legal system, ethics, decision-making, impartiality, efficiency, consistency, debate, discussion
 
 # Prompt
 

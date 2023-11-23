@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ExnzDuZodMXzGHVXMX4xd/1699354966846)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExnzDuZodMXzGHVXMX4xd%22%2C%22flow%22%3Atrue%7D%7D)
-# PYP BookSense [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExnzDuZodMXzGHVXMX4xd%22%2C%22flow%22%3Atrue%7D%7D)
+[![PYP BookSense](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ExnzDuZodMXzGHVXMX4xd/1699354971822)]()
+# PYP BookSense 
 PYP BookSense is the ultimate tool for dedicated librarians and teachers to discover the perfect books for student-centered lessons. Enhance the learning experience of young, visual, and globally-conscious learners with our extensive collection of age-appropriate books. With PYP BookSense , you can effortlessly align your lessons with this year's Primary Years Programme (PYP) units of inquiry. Ignite young minds and foster their awareness of their impact on the world with our curated book recommendations. Experience the joy of learning with PYP BookSense!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- student-centered learning
-- lesson planning
-- books for kids
 
 # Prompt
 

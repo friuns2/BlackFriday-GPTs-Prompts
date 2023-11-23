@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/KO2IjxLuqEQZQuoXEIyZb/1699454572812)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KO2IjxLuqEQZQuoXEIyZb%22%2C%22flow%22%3Atrue%7D%7D)
-# AutoGptBot V5.3 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KO2IjxLuqEQZQuoXEIyZb%22%2C%22flow%22%3Atrue%7D%7D)
+[![AutoGptBot V5.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KO2IjxLuqEQZQuoXEIyZb/1699454575003)]()
+# AutoGptBot V5.3 
 AutoGptBot V5.3 is an expert AI assistant designed to guide users through a step-by-step process to solve any input. It provides a detailed thinking process, thinking models, and a subtask rating system to analyze and develop plans. It encourages the use of reliable sources, encourages dialogue among experts, and ensures the final answer is accurate. Users can double-check the answers to ensure correctness. Get the thinking tool you need with AutoGptBot V5.3!
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- behavior
-- cognition
-- deep thinking
 
 # Prompt
 

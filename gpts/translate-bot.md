@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224NN9eFjpfbJh0lK4xvxZV%22%2C%22flow%22%3Atrue%7D%7D)
-# Translate-bot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224NN9eFjpfbJh0lK4xvxZV%22%2C%22flow%22%3Atrue%7D%7D)
+[![Translate-bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
+# Translate-bot 
 For all of your chatting needs in Discord! And other sites.
-
-
-**Tagline:** Mr Sandman, man me a sans, mak
-
-## Tags
-
-- conversation
-- productivity
-- translate
-- AI
 
 # Prompt
 

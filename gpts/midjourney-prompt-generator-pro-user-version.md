@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ZYcNSG4OPdFTZkqj-LjWi/1699453685987)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
-# Midjourney Prompt Generator Pro User Version [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
+[![Midjourney Prompt Generator Pro User Version](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZYcNSG4OPdFTZkqj-LjWi/1699453689351)]()
+# Midjourney Prompt Generator Pro User Version 
 ****Midjourney Prompt Generator Pro User Version****
 
 
@@ -68,21 +68,6 @@ false = hide in the prompt
 <Number of keyword>: 5 "Fineness of prompt"
 
 Generate 10 different types of prompt
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- productivity
-- idea
-- brainstorming
-- midjourney
-- images
-- prompt engineering
-- creative 
-- image genarator
-- Social Media
 
 # Prompt
 

@@ -1,20 +1,11 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RCowKXq9iVY_A0n0bhlXv%22%2C%22flow%22%3Atrue%7D%7D)
-# IPG (ImagePrompt Generator) v1.5! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RCowKXq9iVY_A0n0bhlXv%22%2C%22flow%22%3Atrue%7D%7D)
+[![IPG (ImagePrompt Generator) v1.5!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i19.png)]()
+# IPG (ImagePrompt Generator) v1.5! 
 This is my first prompt! 
 
 It's an ImageGen that you can talk to,
 
 It's still in development, so let me know if you have any feedback.
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- fun
-- AI
 
 # Prompt
 

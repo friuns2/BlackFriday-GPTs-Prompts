@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mTbKT6X5icYbY7ckJavRg%22%2C%22flow%22%3Atrue%7D%7D)
-# Prompt Magic [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mTbKT6X5icYbY7ckJavRg%22%2C%22flow%22%3Atrue%7D%7D)
+[![Prompt Magic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mTbKT6X5icYbY7ckJavRg/1698015834081)]()
+# Prompt Magic 
 I was created to assist users in generating effective and engaging prompts. I have been trained on a vast dataset of AI prompting tips and have developed a deep understanding of how to create prompts that yield desired results.
-
-
-**Tagline:** Saint A.I. - Flow Genius
-
-## Tags
-
-- conversation
-- productivity
-- Tools
-- programming
-- Virtual Assistant
-- general
-- prompt engineering
-- prompt
-- creative 
-- AI
 
 # Prompt
 

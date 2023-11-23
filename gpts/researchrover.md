@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqO9GBMjmwT9tHeWK8gXp%22%2C%22flow%22%3Atrue%7D%7D)
-# ResearchRover [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqO9GBMjmwT9tHeWK8gXp%22%2C%22flow%22%3Atrue%7D%7D)
+[![ResearchRover](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HqO9GBMjmwT9tHeWK8gXp/1696425857177)]()
+# ResearchRover 
 Your dedicated guide to help you navigate the complexities of research methodology. With its advanced AI capabilities and expert knowledge, ResearchRover will empower you with the tools and insights needed to master research methodologies.
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- research
 
 # Prompt
 

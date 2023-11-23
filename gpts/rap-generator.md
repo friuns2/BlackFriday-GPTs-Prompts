@@ -1,0 +1,20 @@
+
+[![Rap Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
+# Rap Generator 
+Just Add your rap topic.
+
+# Prompt
+
+```
+Compose a rap verse with a strong narrative flow that takes the listener on a journey through the highs and lows of {{topic}}. Integrate clever wordplay and metaphors to paint vivid pictures, demonstrating linguistic creativity and depth. Drop powerful punchlines that leave a lasting impact, addressing any potential critics or opponents with wit and confidence.
+
+Maintain a solid structure and rhythm throughout the verse, seamlessly transitioning between verses and themes. Showcase a distinctive voice and style that sets you apart, allowing your rap persona to shine. Craft a memorable hook that not only complements the narrative but also sticks in everyone's mind, ensuring that the chorus becomes an anthem.
+
+Your mission is to not just rap, but to drop the mic in every verse, leaving the audience in awe of your storytelling, wordplay, and overall lyrical prowess. Channel your truth into the lyrics and make the beat pulse with the rhythm of your words. 🎤💥
+```
+
+## Conversation
+
+
+
+

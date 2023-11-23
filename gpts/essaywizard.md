@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QapUubsBuvVkXKezglB7C%22%2C%22flow%22%3Atrue%7D%7D)
-# EssayWizard [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QapUubsBuvVkXKezglB7C%22%2C%22flow%22%3Atrue%7D%7D)
+[![EssayWizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QapUubsBuvVkXKezglB7C/1698033199005)]()
+# EssayWizard 
 EssayWizard is an AI-powered writing assistant that crafts persuasive essays tailored to your individual needs.  
-
-
-**Tagline:** 
-
-## Tags
-
-- AI writing
-- academic writing
-- essay writing
 
 # Prompt
 

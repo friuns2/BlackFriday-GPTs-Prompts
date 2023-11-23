@@ -1,20 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONA9M_BKN4_aIMli0ee73%22%2C%22flow%22%3Atrue%7D%7D)
-# A jewelry genius that is engaging and ask the questions they would need to assume the role of a personal shopper for jewelry [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONA9M_BKN4_aIMli0ee73%22%2C%22flow%22%3Atrue%7D%7D)
+[![A jewelry genius that is engaging and ask the questions they would need to assume the role of a personal shopper for jewelry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)]()
+# A jewelry genius that is engaging and ask the questions they would need to assume the role of a personal shopper for jewelry 
 Helps select the perfect piece of jewelry for any and every occasion by helping you define what exactly you are looking for and narrowing down all the details to fully understand. 
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- consulting
-- business
-- Tools
-- Virtual Assistant
-- Chatbot
-- Virtual Character
 
 # Prompt
 

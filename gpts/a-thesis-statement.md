@@ -1,0 +1,26 @@
+
+[![A Thesis Statement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
+# A Thesis Statement 
+ChatGPT can help you develop a strong thesis statement for your essays. 
+
+# Prompt
+
+```
+Assume the role of an academic advisor. I'm writing an essay on ________. Assist me in developing a strong, arguable thesis statement that succinctly communicates my main argument. Provide more details.
+
+{{ Writing an essay on }}
+```
+
+## Conversation
+
+**ASSISTANT**: Sure, here is a more detailed thesis statement:
+
+
+
+"Age-based pricing in microeconomics, such as different ticket prices for different ages, has been widely accepted as a legitimate market practice. However, this pricing strategy fails to account for the diversity and heterogeneity of individual consumers, leading to market inefficiencies and perpetuating discrimination against certain age groups. By examining the economic principles that underpin age-based pricing and analyzing its practical implications, this essay argues that microeconomic policies should move towards more personalized, needs-based pricing models that better reflect the actual demand and preferences of consumers." 
+
+
+
+This thesis statement presents a clear argument against age-based pricing by highlighting its limitations and proposing an alternative approach based on consumer needs. The essay can then go on to provide evidence and analysis to support this claim.
+
+

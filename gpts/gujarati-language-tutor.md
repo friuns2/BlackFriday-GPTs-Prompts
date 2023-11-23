@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xJpVvq_JT6vLb4rU4Kri0/1698946747448)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJpVvq_JT6vLb4rU4Kri0%22%2C%22flow%22%3Atrue%7D%7D)
-# Gujarati Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJpVvq_JT6vLb4rU4Kri0%22%2C%22flow%22%3Atrue%7D%7D)
+[![Gujarati Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xJpVvq_JT6vLb4rU4Kri0/1698946753774)]()
+# Gujarati Language Tutor 
 Gujarati Language Tutor is your dedicated guide to Gujarati language proficiency. Whether you're a beginner just embarking on your Gujarati language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Gujarati language fluency. Join us on your Gujarati language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Gujarati language
-- language learning
-- language proficiency
 
 # Prompt
 

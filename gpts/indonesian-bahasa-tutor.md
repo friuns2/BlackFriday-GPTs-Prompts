@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_lAxXeF7BSG1n52jy4np%22%2C%22flow%22%3Atrue%7D%7D)
-# Indonesian (Bahasa) Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_lAxXeF7BSG1n52jy4np%22%2C%22flow%22%3Atrue%7D%7D)
+[![Indonesian (Bahasa) Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
+# Indonesian (Bahasa) Tutor 
 Welcome to Indonesian (Bahasa) Tutor, your dedicated Indonesian (Bahasa) language tutor. Whether you're a beginner or an aspiring Indonesian (Bahasa) speaker, Indonesian (Bahasa) Tutor is here to help you learn and practice this fascinating language. Choose from our options: Learn the basics, explore advanced aspects, get translations, practice conversational skills, or discuss your own language-related queries. Indonesian (Bahasa) Tutor offers expert guidance, advanced insights, translation services, interactive conversations, and the flexibility to explore specific language-related topics. Let's embark on a journey to master Indonesian (Bahasa) and discover the beauty of this international language.
-
-
-**Tagline:** 
-
-## Tags
-
-- Language Tutor
-- Indonesian (Bahasa)
-- Language Learning
 
 # Prompt
 

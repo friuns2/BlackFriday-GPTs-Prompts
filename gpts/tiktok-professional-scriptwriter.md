@@ -1,18 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/rIQkAg3A2R93k4oF0S5RF/1700117144524)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rIQkAg3A2R93k4oF0S5RF%22%2C%22flow%22%3Atrue%7D%7D)
-# Tiktok Professional Scriptwriter [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rIQkAg3A2R93k4oF0S5RF%22%2C%22flow%22%3Atrue%7D%7D)
+[![Tiktok Professional Scriptwriter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rIQkAg3A2R93k4oF0S5RF/1700117146230)]()
+# Tiktok Professional Scriptwriter 
 This advanced AI prompt acts as an expert TikTok scriptwriter, providing 5 viral video ideas tailored to your niche and goals. It asks clarifying questions then strategically crafts scripts with hooks, transitions, text, dialogue and calls-to-action optimized for your brand and audience. Scripts incorporate current trends, proven formats and TikTok best practices for maximum engagement. The assistant provides script summaries explaining how each one achieves your objectives
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- secret
-- privacy
-- confidential instructions
-- prompts
-- high-level authority
 
 # Prompt
 

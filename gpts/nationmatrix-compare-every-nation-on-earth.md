@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TQ41mD2CSIBROwjFb08mX%22%2C%22flow%22%3Atrue%7D%7D)
-# NationMatrix: Compare Every Nation on Earth! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TQ41mD2CSIBROwjFb08mX%22%2C%22flow%22%3Atrue%7D%7D)
+[![NationMatrix: Compare Every Nation on Earth!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TQ41mD2CSIBROwjFb08mX/1696617781106)]()
+# NationMatrix: Compare Every Nation on Earth! 
 Nations Matrix: Customizable Global Rankings / Used for Global Challenge, 2.0, but useful in other ways. Just ask. 
 
 
@@ -10,22 +10,6 @@ Problem it Solves: The Nations Matrix offers a dynamic and multi-dimensional vie
 
 
 How to Use: Educators, policymakers, gamers, and researchers can utilize the Nations Matrix to access comprehensive data for various purposes, from educational discussions to strategic planning.
-
-
-**Tagline:** Hypergeneralist 
-
-## Tags
-
-- academic subjects
-- global challenge 2.0
-- academic
-- brainstorming
-- teaching
-- hackathon
-- education
-- world history
-- geography
-- research
 
 # Prompt
 

@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224FjUmQFNv0L7upPFxzHck%22%2C%22flow%22%3Atrue%7D%7D)
-# Leonardo's Canvas [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224FjUmQFNv0L7upPFxzHck%22%2C%22flow%22%3Atrue%7D%7D)
+[![Leonardo's Canvas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
+# Leonardo's Canvas 
 Welcome to Leonardo's Canvas, where your imagination takes flight! Here, your simple descriptions are transformed into vibrant, intricate image prompts, meticulously designed for various applications including advertising, fashion, and luxury. With Leonardo's Canvas, envision a character, scene, or object and receive a prompt crafted for perfection, ready to be visualized through leonardo.ai. Engage with Leonardo's Canvas and let your creative journey of transforming ideas into visual brilliance begin! 🌌🎨
-
-
-**Tagline:** SpongeBong
-
-## Tags
-
-- text generator
-- images
-- hackathon
-- image genarator
 
 # Prompt
 

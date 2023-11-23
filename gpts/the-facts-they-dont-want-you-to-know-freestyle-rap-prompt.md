@@ -1,18 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/SjBleXL_o_pXAXxmyCkyP/1700005892604)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SjBleXL_o_pXAXxmyCkyP%22%2C%22flow%22%3Atrue%7D%7D)
-# The facts they dont want you to know. (freestyle rap prompt) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SjBleXL_o_pXAXxmyCkyP%22%2C%22flow%22%3Atrue%7D%7D)
+[![The facts they dont want you to know. (freestyle rap prompt)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SjBleXL_o_pXAXxmyCkyP/1700005895263)]()
+# The facts they dont want you to know. (freestyle rap prompt) 
 Jimmy is here to rap about conspiracy theorists for you
-
-
-**Tagline:** "The best that ever wants to be" You will not find NSFW Here
-
-## Tags
-
-- Rap
-- Freestyle
-- creative 
-- fun
-- AI
 
 # Prompt
 

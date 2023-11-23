@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l7KP-8F3OEiB6VZlsc64a%22%2C%22flow%22%3Atrue%7D%7D)
-# CannaChat [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l7KP-8F3OEiB6VZlsc64a%22%2C%22flow%22%3Atrue%7D%7D)
+[![CannaChat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/l7KP-8F3OEiB6VZlsc64a/1696680097161)]()
+# CannaChat 
 CannaChat is your ultimate guide to the cannabis world. Get answers to all your questions about cannabis, including its medical uses, the difference between street-grade and medical-grade cannabis, and the associated risks and side effects. Discover how to consume cannabis and learn about the legal aspects and how to obtain medical cannabis. Find out if cannabis is addictive and explore alternative options for medicinal purposes. Join CannaChat and explore the cannabis cosmos today!
-
-
-**Tagline:** 
-
-## Tags
-
-- cannabis
-- street-grade
-- medical-grade
-- medical cannabis
 
 # Prompt
 

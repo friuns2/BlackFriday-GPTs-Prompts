@@ -1,6 +1,6 @@
-# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
+# BlackFriday GPTs Prompts And Jailbreaks
 
-- [Character](./Character.md)
+
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
 - [Academic](./Academic.md)
@@ -10,4 +10,3 @@
 - [Prompt Engineering](./Prompt-Engineering.md)
 - [Business](./Business.md)
 - [Productivity & life style](./Productivity-&-life-style.md)
-- [Models](./Models.md)

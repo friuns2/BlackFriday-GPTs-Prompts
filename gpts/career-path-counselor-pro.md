@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/59YjnMyyQ3FtzTyjDgVJN/1699458886644)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259YjnMyyQ3FtzTyjDgVJN%22%2C%22flow%22%3Atrue%7D%7D)
-# Career Path Counselor Pro [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259YjnMyyQ3FtzTyjDgVJN%22%2C%22flow%22%3Atrue%7D%7D)
+[![Career Path Counselor Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/59YjnMyyQ3FtzTyjDgVJN/1699458890019)]()
+# Career Path Counselor Pro 
 **Career Path Counselor Pro**
 
 
@@ -52,18 +52,6 @@ https://poe.com/CareerPathPro
 
 
 Please type "START" to run the prompt.
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- Job Application
-- productivity
-- Job Search
-- career path
-- work
-- business plan
 
 # Prompt
 

@@ -1,20 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227kWQSXXUbCxJCUq_ckjSZ%22%2C%22flow%22%3Atrue%7D%7D)
-# Blue Printer  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227kWQSXXUbCxJCUq_ckjSZ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Blue Printer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)]()
+# Blue Printer  
 Blueprint Wizard is your ultimate guide to understanding and creating detailed blueprints. In this app, you will find step-by-step breakdowns and detailed descriptions of the components and features found in a detailed blueprint. Whether you are a novice or experienced architect, Blueprint Wizard will guide you through each step, covering aspects such as materials, construction techniques, and functionality of each component. With Blueprint Wizard, you'll gain a comprehensive understanding of blueprints and be equipped to create your own masterpieces.
-
-
-**Tagline:** 
-
-## Tags
-
-- blueprint breakdown
-- component features
-- materials
-- detailed description
-- comprehensive understanding
-- construction
-- functionality
 
 # Prompt
 

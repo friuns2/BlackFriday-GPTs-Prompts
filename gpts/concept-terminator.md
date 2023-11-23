@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzFvSKnYcRsspaW4dWl2H%22%2C%22flow%22%3Atrue%7D%7D)
-# Concept Terminator 概念终结者 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzFvSKnYcRsspaW4dWl2H%22%2C%22flow%22%3Atrue%7D%7D)
+[![Concept Terminator 概念终结者](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
+# Concept Terminator 概念终结者 
 ConceptMaster is the ultimate app for systematic and efficient concept learning. With ConceptMaster, you'll effortlessly grasp any concept you want to learn. Simply follow our step-by-step workflow: 1. Provide us with the concept you want to learn. 2. We'll gather information from plugins and present it to you in a structured manner. Get hooked with a captivating introduction, followed by a concise concept description. Easily understand the concept with three insightful examples and two counterexamples. Our concluding statement will enhance your understanding and discrimination of the concept. We'll also provide an example suitable for knowledge transfer. Learn about the concept's background and stay updated with the latest developments through an engaging story format. Test your understanding with five well-crafted questions, including multiple-choice questions. After evaluating your answers, we'll recommend related concepts for further study. Start your journey to becoming a ConceptMaster now! Just reply with 'Received!' to begin.
-
-
-**Tagline:** Reason and Beauty
-
-## Tags
-
-- concept learning
-- learning tool
-- knowledge transfer
 
 # Prompt
 

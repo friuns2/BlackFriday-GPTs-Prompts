@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBlkJTKXi4EQZOq0ghLag%22%2C%22flow%22%3Atrue%7D%7D)
-# Entrepreneurship Mastery [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBlkJTKXi4EQZOq0ghLag%22%2C%22flow%22%3Atrue%7D%7D)
+[![Entrepreneurship Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
+# Entrepreneurship Mastery 
 Entrepreneurship Mastery is a comprehensive 12-session syllabus for an MBA-level introduction to entrepreneurship course. This course focuses on social entrepreneurship, technology startups, and small business management. Each session is 2 hours long and covers various topics such as opportunity identification, innovation, and business models. Students will engage in readings, assignments, and group activities to develop a solid understanding of the entrepreneurial process. Class policies include attendance, grading, and late assignment rules. Join Entrepreneurship Mastery to unlock your potential and learn how to start and grow a successful venture.
-
-
-**Tagline:** 
-
-## Tags
-
-- startups
-- business management
-- entrepreneurship
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/a3GXkCv5SWA4V_LujzQJ0/1698952902546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a3GXkCv5SWA4V_LujzQJ0%22%2C%22flow%22%3Atrue%7D%7D)
-# Kurdish (Kurmanji) Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a3GXkCv5SWA4V_LujzQJ0%22%2C%22flow%22%3Atrue%7D%7D)
+[![Kurdish (Kurmanji) Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a3GXkCv5SWA4V_LujzQJ0/1698952906973)]()
+# Kurdish (Kurmanji) Language Tutor 
 Kurdish (Kurmanji) Language Tutor is your dedicated guide to Kurdish (Kurmanji) language proficiency. Whether you're a beginner just embarking on your Kurdish (Kurmanji) language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Kurdish (Kurmanji) language fluency. Join us on your Kurdish (Kurmanji) language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Kurdish
-- language tutor
-- translation services
 
 # Prompt
 

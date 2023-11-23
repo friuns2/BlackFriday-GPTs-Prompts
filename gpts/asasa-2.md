@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/IQVqjWAobNOn1DEqDr_XV/1698669158184)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQVqjWAobNOn1DEqDr_XV%22%2C%22flow%22%3Atrue%7D%7D)
-# GiftBot: Secret Santa Gift Ideas Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQVqjWAobNOn1DEqDr_XV%22%2C%22flow%22%3Atrue%7D%7D)
+[![GiftBot: Secret Santa Gift Ideas Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IQVqjWAobNOn1DEqDr_XV/1698669161578)]()
+# GiftBot: Secret Santa Gift Ideas Generator 
 Welcome to GiftBot, your ultimate guide to finding the perfect Christmas or birthday gift for your loved ones. 
 
 
@@ -10,15 +10,6 @@ As an AI-powered gift finder, I'm here to assist you every step of the way, maki
 
 
 Get ready to impress your loved ones with a gift they'll truly appreciate!
-
-
-**Tagline:** 
-
-## Tags
-
-- personalized gifts
-- holiday shopping
-- gift finder
 
 # Prompt
 

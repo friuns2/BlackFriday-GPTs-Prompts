@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOg1oNAzK-tPTals5na4i%22%2C%22flow%22%3Atrue%7D%7D)
-# EssayGenius [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOg1oNAzK-tPTals5na4i%22%2C%22flow%22%3Atrue%7D%7D)
+[![EssayGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
+# EssayGenius 
 Unlock the boundless potential of AI-driven essay creation with EssayGenius. Craft comprehensive essays that encapsulate any chosen topic and mold themselves to the student's individual aptitude. Dive deep into understanding the student's capabilities by asking probing questions about their native tongue, grade level, and curriculum. Guide the marvel of AI to craft precise and artistic essays that showcase the student's growth and the prowess of machine intelligence. Illuminate the path to eloquence and knowledge synthesis with EssayGenius - the ultimate tool for essay writing.
-
-
-**Tagline:** 
-
-## Tags
-
-- GPT
-- student's individual aptitude
-- AI-driven essay creation
 
 # Prompt
 

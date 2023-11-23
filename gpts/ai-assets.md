@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iz5kZAQbFhjQwidUt8sH_%22%2C%22flow%22%3Atrue%7D%7D)
-# AI Assets [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iz5kZAQbFhjQwidUt8sH_%22%2C%22flow%22%3Atrue%7D%7D)
+[![AI Assets](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
+# AI Assets 
 AI Assets is a powerful tool that helps businesses unlock the potential of artificial intelligence. With AI Assets, you can effortlessly transform a program's worth of information into valuable assets for your business. Whether it's marketing the Strategic AI Program, understanding the personas of the ideal executive who would attend the program, or showcasing the value proposition of obtaining AI certifications from academic institutions, AI Assets has got you covered. It's time to harness AI's possibilities and propel your business forward with AI Assets.
-
-
-**Tagline:** 
-
-## Tags
-
-- Business
-- Marketing
-- AI
 
 # Prompt
 

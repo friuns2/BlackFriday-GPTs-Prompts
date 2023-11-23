@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yIl8Lkyw6WC56w_mjv-6V%22%2C%22flow%22%3Atrue%7D%7D)
-# 💙 Life Metter | Dataset [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yIl8Lkyw6WC56w_mjv-6V%22%2C%22flow%22%3Atrue%7D%7D)
+[![💙 Life Metter | Dataset](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yIl8Lkyw6WC56w_mjv-6V/1696655512035)]()
+# 💙 Life Metter | Dataset 
 Suicide-related deaths are a significant public health concern worldwide. The World Health Organization suggests that with some simple steps, healthcare professionals at all levels can recognize risk factors and signs in at-risk patients. This enables them to offer targeted and preventive assistance. 
-
-
-**Tagline:** Creative Prompt Engineering
-
-## Tags
-
-- academic
-- guide
-- dataset
-- health care
-- mental health
-- Psychology
-- education
-- Science
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/5PWPdubD2oyBM5oo6HQAb/1698951744151)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225PWPdubD2oyBM5oo6HQAb%22%2C%22flow%22%3Atrue%7D%7D)
-# Dutch Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225PWPdubD2oyBM5oo6HQAb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Dutch Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5PWPdubD2oyBM5oo6HQAb/1698951746937)]()
+# Dutch Language Tutor 
 Dutch Language Tutor is your dedicated guide to Dutch language proficiency. Whether you're a beginner just embarking on your Dutch language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Dutch language fluency. Join us on your Dutch language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Dutch language
-- language learning
-- language tutor
 
 # Prompt
 

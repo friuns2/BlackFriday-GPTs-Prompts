@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/mrrqX7Opztw_3c2hief98/1698971255729)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mrrqX7Opztw_3c2hief98%22%2C%22flow%22%3Atrue%7D%7D)
-# Lao Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mrrqX7Opztw_3c2hief98%22%2C%22flow%22%3Atrue%7D%7D)
+[![Lao Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mrrqX7Opztw_3c2hief98/1698971258820)]()
+# Lao Language Tutor 
 Lao Language Tutor is your dedicated guide to Lao language proficiency. Whether you're a beginner just embarking on your Lao language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Lao language fluency. Join us on your Lao language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language proficiency
-- Lao language
 
 # Prompt
 

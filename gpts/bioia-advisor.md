@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/-AZfCJS7kcv6mYn8RVHPj/1700512315365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-AZfCJS7kcv6mYn8RVHPj%22%2C%22flow%22%3Atrue%7D%7D)
-# BioIA Advisor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-AZfCJS7kcv6mYn8RVHPj%22%2C%22flow%22%3Atrue%7D%7D)
+[![BioIA Advisor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-AZfCJS7kcv6mYn8RVHPj/1700512318279)]()
+# BioIA Advisor 
 BioIA Advisor is your trusted companion for success in your IB Biology Internal Assessment. Get expert guidance on selecting topics, formulating research questions, and developing hypotheses. Learn how to structure your IA, conduct experiments ethically, analyze data, and present your findings effectively. Ensure academic integrity, avoid plagiarism, and enhance clarity through our feedback on your drafts. Discover the links between your research and the Theory of Knowledge. Prepare for assessment with insights into the IB criteria for research quality and scientific rigor. Access additional resources for further reference and research. Experience excellence with BioIA Advisor!
-
-
-**Tagline:** 
-
-## Tags
-
-- biology IA
-- IB biology
-- research guidance
 
 # Prompt
 

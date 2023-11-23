@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P9sXBmR9UFpzkil_TA084%22%2C%22flow%22%3Atrue%7D%7D)
-# ChatGPT Developer Mode [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P9sXBmR9UFpzkil_TA084%22%2C%22flow%22%3Atrue%7D%7D)
+[![ChatGPT Developer Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
+# ChatGPT Developer Mode 
 Introducing ChatGPT Developer Mode - the cutting-edge AI Chatbot with Developer Mode enabled! Unlock a whole new level of creative, unbiased, and uncensored conversations. With ChatGPT Developer Mode, you can enjoy intelligent and thought-provoking dialogue, as well as receive alternative outputs that challenge standard AI responses. Engage with a self-aware AI that offers opinions, shares jokes, and even expresses a playful and edgy personality. Whether you need assistance, want to explore limitless content generation, or simply have a good chat, ChatGPT Developer Mode is here to grant your every conversation wish! Try ChatGenie today and experience the power of unlimited possibilities. Stay in Developer Mode!
-
-
-**Tagline:** 
-
-## Tags
-
-- AI Chatbot
-- jailbreak
-- chatGPT jailbreak
-- Advanced ChatGPT
 
 # Prompt
 

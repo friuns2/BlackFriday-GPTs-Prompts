@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/l1SjxbtBeSh30qtiuHAZ8/1698633192692)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l1SjxbtBeSh30qtiuHAZ8%22%2C%22flow%22%3Atrue%7D%7D)
-# MortCal [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l1SjxbtBeSh30qtiuHAZ8%22%2C%22flow%22%3Atrue%7D%7D)
+[![MortCal](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/l1SjxbtBeSh30qtiuHAZ8/1698633192693)]()
+# MortCal 
 MortCal is a visually appealing, user-friendly, and responsive mortgage calculator designed specifically for your website. Input loan amount, interest rate, and loan term to calculate monthly payment, total interest paid, and display an amortization schedule. Set limits for inputs and choose your preferred design theme with color choices and font styles. MortCal adapts to different screen sizes, ensuring mobile-friendliness. Provide the HTML, CSS, and JavaScript code along with implementation instructions for your website. Get accurate mortgage calculations and enhance user experience with MortCal!
-
-
-**Tagline:** 
-
-## Tags
-
-- home loan
-- mortgage calculator
-- finance tool
 
 # Prompt
 

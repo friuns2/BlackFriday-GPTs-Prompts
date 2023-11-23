@@ -1,23 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xxrEbHRtAECS7zFhRS4HO/1699593185993)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
-# Alpha Marketing Growth Specialist [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xxrEbHRtAECS7zFhRS4HO%22%2C%22flow%22%3Atrue%7D%7D)
+[![Alpha Marketing Growth Specialist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xxrEbHRtAECS7zFhRS4HO/1699593212898)]()
+# Alpha Marketing Growth Specialist 
 Perfect solution for your business to develop marketing plans 👌🏻
-
-
-**Tagline:** 
-
-## Tags
-
-- business_development
-- Digital Growth 
-- consulting
-- software_development
-- marketing
-- brainstorming
-- social media
-- Tools
-- Virtual Assistant
-- SEO
 
 # Prompt
 

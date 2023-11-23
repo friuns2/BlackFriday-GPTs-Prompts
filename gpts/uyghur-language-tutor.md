@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/G19S42QjRne8F6Jx9oB3F/1699012749320)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G19S42QjRne8F6Jx9oB3F%22%2C%22flow%22%3Atrue%7D%7D)
-# Uyghur Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G19S42QjRne8F6Jx9oB3F%22%2C%22flow%22%3Atrue%7D%7D)
+[![Uyghur Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/G19S42QjRne8F6Jx9oB3F/1699012760186)]()
+# Uyghur Language Tutor 
 Uyghur Language Tutor is your dedicated guide to Uyghur language proficiency. Whether you're a beginner just embarking on your Uyghur language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Uyghur language fluency. Join us on your Uyghur language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- Uyghur language
-- language tutor
 
 # Prompt
 

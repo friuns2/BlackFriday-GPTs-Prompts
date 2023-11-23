@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zlgrIq3bH-RgQYYDiV36z%22%2C%22flow%22%3Atrue%7D%7D)
-# SEO Optimized Blog Articles Writing [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zlgrIq3bH-RgQYYDiV36z%22%2C%22flow%22%3Atrue%7D%7D)
+[![SEO Optimized Blog Articles Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
+# SEO Optimized Blog Articles Writing 
 It will first provide the outline, then you have to continue it with:
 
 "Continue writing the blog post with that outline"
@@ -12,15 +12,6 @@ This prompt skillfully combines SEO guidelines with content generation, facilita
 
 
 This prompt will produce a wholly original SEO article primed for publishing.
-
-
-**Tagline:** The Expert Prompt Engineer
-
-## Tags
-
-- Writing
-- SEO
-- creative writing
 
 # Prompt
 

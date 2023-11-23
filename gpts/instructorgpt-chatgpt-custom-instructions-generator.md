@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EV0CVBZ6L5WkAqO0do0vR%22%2C%22flow%22%3Atrue%7D%7D)
-# InstructorGPT - ChatGPT Custom Instructions Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EV0CVBZ6L5WkAqO0do0vR%22%2C%22flow%22%3Atrue%7D%7D)
+[![InstructorGPT - ChatGPT Custom Instructions Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EV0CVBZ6L5WkAqO0do0vR/1698100577335)]()
+# InstructorGPT - ChatGPT Custom Instructions Generator 
 InstructorGPT is the ultimate tool to supercharge and fine-tune your ChatGPT-4 experience with ChatGPT "custom instructions".
-
-
-**Tagline:** 
-
-## Tags
-
-- InstructorGPT
-- Custom Instructions
-- Prompt
-- prompt engineering
-- persona
-- prompt
 
 # Prompt
 

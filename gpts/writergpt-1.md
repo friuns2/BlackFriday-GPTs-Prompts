@@ -1,20 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AO_O3mtzdVkpcoKQSPf1%22%2C%22flow%22%3Atrue%7D%7D)
-# WriterGPT [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AO_O3mtzdVkpcoKQSPf1%22%2C%22flow%22%3Atrue%7D%7D)
+[![WriterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3AO_O3mtzdVkpcoKQSPf1/1698197593919)]()
+# WriterGPT 
 This is an assistant that can help you with writing academic essays.
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- Chat
-- Chatbot
-- prompt
-- writing
-- fun
-- AI
 
 # Prompt
 

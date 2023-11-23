@@ -1,15 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/WkT77ZT2wDkdsE91ynAy3/1700018794354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkT77ZT2wDkdsE91ynAy3%22%2C%22flow%22%3Atrue%7D%7D)
-# Can You Ask The Right Question: GPT Riddle Challenge [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkT77ZT2wDkdsE91ynAy3%22%2C%22flow%22%3Atrue%7D%7D)
+[![Can You Ask The Right Question: GPT Riddle Challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WkT77ZT2wDkdsE91ynAy3/1700018804840)]()
+# Can You Ask The Right Question: GPT Riddle Challenge 
 Embark on a journey of wit and wordplay with our GPT Riddle Challenge! Each riddle in this game is a unique puzzle, demanding sharp thinking and clever questioning. Can you unlock the answers and score the points? Let's find out!
-
-
-**Tagline:** 
-
-## Tags
-
-- Game
-- riddle
 
 # Prompt
 

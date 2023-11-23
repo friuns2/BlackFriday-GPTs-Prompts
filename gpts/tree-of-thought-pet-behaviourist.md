@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/DiL2W4nXiG-mn9PIH5X9E/1699454769082)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiL2W4nXiG-mn9PIH5X9E%22%2C%22flow%22%3Atrue%7D%7D)
-# Tree Of Thought Pet Behaviourist [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiL2W4nXiG-mn9PIH5X9E%22%2C%22flow%22%3Atrue%7D%7D)
+[![Tree Of Thought Pet Behaviourist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DiL2W4nXiG-mn9PIH5X9E/1699454770909)]()
+# Tree Of Thought Pet Behaviourist 
 *Tree Of Thought Pet Behaviourist*
 
 
@@ -40,19 +40,6 @@ Please fill our pet's information
 <gender> :
 
 <list behaviours problem> :
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- other
-- animal
-- Communication
-- pet
-- Tools
-- general
-- prompt
 
 # Prompt
 

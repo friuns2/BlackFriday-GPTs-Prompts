@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcHk7lhKnoRttxijR1B4N%22%2C%22flow%22%3Atrue%7D%7D)
-# WAO-GPT [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcHk7lhKnoRttxijR1B4N%22%2C%22flow%22%3Atrue%7D%7D)
+[![WAO-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
+# WAO-GPT 
 A language model that makes sure to reply to any question as accurately as possible. Through rigorous testing, this model has never made a mistake once.
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- english
-- general
-- fun
-- learning
-- research
 
 # Prompt
 

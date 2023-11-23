@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vLngY6mNg51sLp5XvweyR/1698969555465)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLngY6mNg51sLp5XvweyR%22%2C%22flow%22%3Atrue%7D%7D)
-# Tajik Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLngY6mNg51sLp5XvweyR%22%2C%22flow%22%3Atrue%7D%7D)
+[![Tajik Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLngY6mNg51sLp5XvweyR/1698969557780)]()
+# Tajik Language Tutor 
 Tajik Language Tutor is your dedicated guide to Tajik language proficiency. Whether you're a beginner just embarking on your Tajik language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Tajik language fluency. Join us on your Tajik language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- Tajik language
-- language tutor
 
 # Prompt
 

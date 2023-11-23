@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdcOrni-R1u3gPL64GC6c%22%2C%22flow%22%3Atrue%7D%7D)
-# AntiDetectorEssayGPT - 0% on GPTzero [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdcOrni-R1u3gPL64GC6c%22%2C%22flow%22%3Atrue%7D%7D)
+[![AntiDetectorEssayGPT - 0% on GPTzero](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hdcOrni-R1u3gPL64GC6c/1698018770250)]()
+# AntiDetectorEssayGPT - 0% on GPTzero 
 This is one of the most hard tasks for an AI, we're literally trying the impossible. Don't give up at the first time if the score is too high, play with it for a while and you'll get your 10% AI written essay, i promise.
-
-
-**Tagline:** A prompt for any need.
-
-## Tags
-
-- Anti AI Detector
-- essay
-- school
 
 # Prompt
 

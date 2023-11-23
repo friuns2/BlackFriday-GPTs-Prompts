@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Z_x-pnfBPQBDYJeb6Beka/1698736559329)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_x-pnfBPQBDYJeb6Beka%22%2C%22flow%22%3Atrue%7D%7D)
-# Professional Web Policy Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_x-pnfBPQBDYJeb6Beka%22%2C%22flow%22%3Atrue%7D%7D)
+[![Professional Web Policy Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z_x-pnfBPQBDYJeb6Beka/1698736561778)]()
+# Professional Web Policy Generator 
 ## Professional Web Policy Generator
 
 
@@ -34,22 +34,6 @@ https://patreon.com/MattTrendsPromptEngineering
 Please type "START" to run the prompt. 
 
 Typing “Next” to the next steps
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- business_development
-- text generator
-- marketing
-- productivity
-- Virtual Assistant
-- Writing
-- prompt
-- product_management
-- AI
-- Counselor
 
 # Prompt
 

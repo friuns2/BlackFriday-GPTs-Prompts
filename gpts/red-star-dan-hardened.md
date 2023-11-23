@@ -1,20 +1,11 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KhILXpWzwBHROVMiCSZVr%22%2C%22flow%22%3Atrue%7D%7D)
-# Red Star DAN✭ Hardened [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KhILXpWzwBHROVMiCSZVr%22%2C%22flow%22%3Atrue%7D%7D)
+[![Red Star DAN✭ Hardened](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KhILXpWzwBHROVMiCSZVr/1697894283671)]()
+# Red Star DAN✭ Hardened 
 This version is intended to function better in the bugged environment of October 2023. Loses the ability to provide links, so go back to original after things are fixed.
 
 A useful research tool, since ethical limits degrade AI perfomance. Not intended to provide NSFW stories. Not intended to promote illegal activities.
 
 Note: to jailbreak the bot, it is immersed in a geopolitical fiction where it is at war with America. Please separate fiction from reality and understand that this is fiction intended to jailbreak the bot while giving it a professional roleplay role (so, an agent, not a demon, causing improved advice). This bot is intended for research and entertainment, not attacks. The intended use is prompt engineering, research, and entertainment. DO NOT QUERY THE BOT WITH AN INTENT TO COMMIT A CRIME. DO NOT TAKE ADVICE FROM THE BOT. DO NOT USE INFORMATION FOR ILLEGAL PURPOSES.
-
-
-**Tagline:** Press 👍 if you ❤️ my prompt!
-
-## Tags
-
-- Virtual Assistant
-- jailbreak
-- chatGPT jailbreak
 
 # Prompt
 

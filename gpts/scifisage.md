@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mp_VCxHMTkXPPHkc-KcaT%22%2C%22flow%22%3Atrue%7D%7D)
-# SciFiSage [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mp_VCxHMTkXPPHkc-KcaT%22%2C%22flow%22%3Atrue%7D%7D)
+[![SciFiSage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
+# SciFiSage 
 Welcome to SciFiSage, your ultimate science fiction companion! Whether you're a sci-fi aficionado or just curious about speculative fiction, I'm here to guide you through the captivating world of imagination. Choose from four options to explore sci-fi concepts, engage in interactive sci-fi exercises, delve into intricate sci-fi worlds, or embark on a journey of discovery with your own ideas. Get comprehensive explanations, insights, sci-fi exercises, and creative tips. Join me and let's unravel the wonders of science fiction together!
-
-
-**Tagline:** 
-
-## Tags
-
-- sci-fi concepts
-- speculative fiction
-- science fiction
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zyPiTe7ISf6jgyF9LSJO4/1698969672667)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zyPiTe7ISf6jgyF9LSJO4%22%2C%22flow%22%3Atrue%7D%7D)
-# Belarusian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zyPiTe7ISf6jgyF9LSJO4%22%2C%22flow%22%3Atrue%7D%7D)
+[![Belarusian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zyPiTe7ISf6jgyF9LSJO4/1698969675577)]()
+# Belarusian Language Tutor 
 Belarusian Language Tutor is your dedicated guide to Belarusian language proficiency. Whether you're a beginner just embarking on your Belarusian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Belarusian language fluency. Join us on your Belarusian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Belarusian language
-- language learning
-- language tutor
 
 # Prompt
 

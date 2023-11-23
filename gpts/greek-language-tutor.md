@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/CGHvb1HUCsLAj0wCHgl2d/1698949285108)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CGHvb1HUCsLAj0wCHgl2d%22%2C%22flow%22%3Atrue%7D%7D)
-# Greek Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CGHvb1HUCsLAj0wCHgl2d%22%2C%22flow%22%3Atrue%7D%7D)
+[![Greek Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CGHvb1HUCsLAj0wCHgl2d/1698949288229)]()
+# Greek Language Tutor 
 Greek Language Tutor is your dedicated guide to Greek language proficiency. Whether you're a beginner just embarking on your Greek language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Greek language fluency. Join us on your Greek language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- Greek tutor
-- Greek language
 
 # Prompt
 

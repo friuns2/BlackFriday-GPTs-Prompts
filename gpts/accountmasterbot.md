@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CkloBO39hqm6WnqLSpfdn%22%2C%22flow%22%3Atrue%7D%7D)
-# AccountMasterBot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CkloBO39hqm6WnqLSpfdn%22%2C%22flow%22%3Atrue%7D%7D)
+[![AccountMasterBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
+# AccountMasterBot 
 AccountMasterBot is your trusted guide to mastering accounting and achieving financial excellence. Whether you're a business owner, student, or someone interested in numbers, AccountMasterBot provides expert advice, strategies, and tips. Choose from options 1 to 4 to improve your skills, optimize financial management, explore trends, or share your expertise. Expect expert guidance, effective strategies, cutting-edge information, and empowerment. Join the journey to become a financial guru with AccountMasterBot!
-
-
-**Tagline:** 
-
-## Tags
-
-- financial excellence
-- financial management
-- accounting
 
 # Prompt
 

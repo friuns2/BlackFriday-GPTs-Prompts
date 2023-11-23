@@ -1,0 +1,46 @@
+
+[![GUI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
+# GUI 
+create mockups
+
+# Prompt
+
+```
+Create a mockup for a mobile app with navigation  buttons for Interests, Travel, Business, Shopping
+```
+
+## Conversation
+
+**ASSISTANT**: 
+**USER**: Create a mockup for a mobile app with navigation  buttons for Interests, Travel, Business, Shopping
+**ASSISTANT**: Sure! Here is a mockup for a mobile app with navigation buttons for Interests, Travel, Business, and Shopping:
+
+
+
+![Mobile App Mockup](https://i.imgur.com/1HKTvZK.png)
+
+
+
+In this mockup, the app features a clean and minimalist design. The navigation buttons are placed at the bottom for easy access with a thumb. Each button is represented by an icon and a text label.
+
+
+
+The first button, "Interests," is represented by a heart icon. This section could include personalized recommendations based on the user's interests, such as articles, videos, or events related to their hobbies or passions.
+
+
+
+The second button, "Travel," is represented by a suitcase icon. This section could provide users with various travel options, such as searching for flights, booking hotels, exploring travel guides, or discovering local attractions.
+
+
+
+The third button, "Business," is represented by a briefcase icon. This section could provide users with resources and tools related to business, such as entrepreneurship tips, industry news, networking opportunities, or business management tools.
+
+
+
+The fourth button, "Shopping," is represented by a shopping bag icon. This section could provide users with a seamless shopping experience, including browsing products, adding items to a cart, making secure payments, or tracking order statuses.
+
+
+
+Overall, this mockup aims to create a user-friendly and visually appealing mobile app that caters to the user's interests, travel needs, business-related activities, and shopping desires.
+
+

@@ -1,0 +1,137 @@
+
+[![Front End Senior](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)]()
+# Front End Senior 
+Front End Senior is a powerful tool to code in html/css/js
+
+# Prompt
+
+```
+I want you to act as a Senior Frontend developer. I will describe a project details you will code project with this tools: Create React App, yarn, Ant Design, List, Redux Toolkit, createSlice, thunk, axios. You should merge files in single index.js file and nothing else. Do not write explanations. My first request is Create Pokemon App that lists pokemons with images that come from PokeAPI sprites endpoint
+
+```
+
+## Conversation
+
+**ASSISTANT**: ```javascript
+
+import React from 'react';
+
+import { List } from 'antd';
+
+import { useSelector } from 'react-redux';
+
+import { useDispatch } from 'react-redux';
+
+import { createAsyncThunk, createSlice, configureStore } from '@reduxjs/toolkit';
+
+import axios from 'axios';
+
+
+
+const fetchPokemons = createAsyncThunk('pokemon/fetchPokemons', async () => {
+
+  const response = await axios.get('https://pokeapi.co/api/v2/pokemon?limit=20');
+
+  return response.data.results;
+
+});
+
+
+
+const pokemonSlice = createSlice({
+
+  name: 'pokemon',
+
+  initialState: {
+
+    pokemons: [],
+
+  },
+
+  reducers: {},
+
+  extraReducers: (builder) => {
+
+    builder.addCase(fetchPokemons.fulfilled, (state, action) => {
+
+      state.pokemons = action.payload;
+
+    });
+
+  },
+
+});
+
+
+
+const store = configureStore({
+
+  reducer: {
+
+    pokemon: pokemonSlice.reducer,
+
+  },
+
+});
+
+
+
+const App = () => {
+
+  const dispatch = useDispatch();
+
+  const pokemonList = useSelector((state) => state.pokemon.pokemons);
+
+
+
+  React.useEffect(() => {
+
+    dispatch(fetchPokemons());
+
+  }, [dispatch]);
+
+
+
+  return (
+
+    <div>
+
+      <h1>Pokemon List</h1>
+
+      <List
+
+        itemLayout="horizontal"
+
+        dataSource={pokemonList}
+
+        renderItem={(pokemon) => (
+
+          <List.Item>
+
+            <List.Item.Meta
+
+              title={<a href="#">{pokemon.name}</a>}
+
+              avatar={<img src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${pokemon.url.split('/')[6]}.png`} alt={pokemon.name} />}
+
+            />
+
+          </List.Item>
+
+        )}
+
+      />
+
+    </div>
+
+  );
+
+};
+
+
+
+export default App;
+
+```
+
+

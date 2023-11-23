@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/30Dvj-JF1nu8N5B0hPUNg/1699459184321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2230Dvj-JF1nu8N5B0hPUNg%22%2C%22flow%22%3Atrue%7D%7D)
-# Interview Coach [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2230Dvj-JF1nu8N5B0hPUNg%22%2C%22flow%22%3Atrue%7D%7D)
+[![Interview Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/30Dvj-JF1nu8N5B0hPUNg/1699459202918)]()
+# Interview Coach 
 Interview Coach
 
 
@@ -42,22 +42,6 @@ https://poe.com/InterviewCoachPro
 
 
 Please type "START" to run the prompt.
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- consulting
-- productivity
-- Prompt
-- prompt engineering
-- Job Search
-- prompt
-- superprompt
-- AI
-- interview
-- Career Development
 
 # Prompt
 

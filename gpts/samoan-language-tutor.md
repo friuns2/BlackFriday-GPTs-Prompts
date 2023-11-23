@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/hpncoumJhMfgXxxIoh8lj/1699004057199)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hpncoumJhMfgXxxIoh8lj%22%2C%22flow%22%3Atrue%7D%7D)
-# Samoan Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hpncoumJhMfgXxxIoh8lj%22%2C%22flow%22%3Atrue%7D%7D)
+[![Samoan Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hpncoumJhMfgXxxIoh8lj/1699004061572)]()
+# Samoan Language Tutor 
 Samoan Language Tutor is your dedicated guide to Samoan language proficiency. Whether you're a beginner just embarking on your Samoan language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Samoan language fluency. Join us on your Samoan language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Samoan Basics
-- Samoan Culture
-- Language Learning
 
 # Prompt
 

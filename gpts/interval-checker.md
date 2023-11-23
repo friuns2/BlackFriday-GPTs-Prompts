@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229blQnQ2HpTfuFPTiEJvrS%22%2C%22flow%22%3Atrue%7D%7D)
-# Interval Checker [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229blQnQ2HpTfuFPTiEJvrS%22%2C%22flow%22%3Atrue%7D%7D)
+[![Interval Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
+# Interval Checker 
 Interval Checker is a Python class that allows you to represent and work with intervals in the form [begin, end). With Interval Checker, you can easily determine if two intervals overlap by using the is_overlap method. This method returns True if the current interval overlaps with another interval, and False otherwise. The implementation of Interval Checker aims to minimize the number of comparisons while maintaining correctness. Consider different scenarios and edge cases, such as intervals with the same boundaries or adjacent intervals, to ensure accurate overlap checks with optimal efficiency.
-
-
-**Tagline:** 
-
-## Tags
-
-- Python class
-- overlap
-- interval
 
 # Prompt
 

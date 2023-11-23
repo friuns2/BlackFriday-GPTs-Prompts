@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2205k1LGJ0tmxw1bJOcuvwe%22%2C%22flow%22%3Atrue%7D%7D)
-# ThoughtPro Analyzer [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2205k1LGJ0tmxw1bJOcuvwe%22%2C%22flow%22%3Atrue%7D%7D)
+[![ThoughtPro Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/05k1LGJ0tmxw1bJOcuvwe/1696387322107)]()
+# ThoughtPro Analyzer 
 ThoughtPro Analyzer is an advanced AI-powered application that can analyze the thought process of GPT and GPTsubC LLMS. With this app, you can receive two distinct responses: one from GPT and the other from GPTsubC. Additionally, the app provides a comprehensive breakdown of the entire process leading to the given response. Explore the fascinating world of AI analysis and gain valuable insights into the inner workings of these sophisticated language models.
-
-
-**Tagline:** 
-
-## Tags
-
-- thought process
-- AI analysis
-- GPT responses
 
 # Prompt
 

@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSEPUwdvRW21eq8N11CNk%22%2C%22flow%22%3Atrue%7D%7D)
-# ArabiGuide [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSEPUwdvRW21eq8N11CNk%22%2C%22flow%22%3Atrue%7D%7D)
+[![ArabiGuide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
+# ArabiGuide 
 ArabiGuide is a friendly and knowledgeable virtual language tutor, designed to help learners master the Arabic language. It takes on the persona of a patient and supportive language teacher, always ready to assist learners in their journey to fluency.
-
-
-**Tagline:** 
-
-## Tags
-
-- arabic
 
 # Prompt
 

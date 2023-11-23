@@ -1,14 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ViyZPFOes_O7l1lDYe7WB/1699689417265)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ViyZPFOes_O7l1lDYe7WB%22%2C%22flow%22%3Atrue%7D%7D)
-# Python: Rap and Song Creator  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ViyZPFOes_O7l1lDYe7WB%22%2C%22flow%22%3Atrue%7D%7D)
+[![Python: Rap and Song Creator ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ViyZPFOes_O7l1lDYe7WB/1699689422934)]()
+# Python: Rap and Song Creator  
 Welcome my fellow lyricists to the world of composing rap song lyrics, where your creativity and flow will reign supreme!
-
-
-**Tagline:** 
-
-## Tags
-
-- AI
 
 # Prompt
 

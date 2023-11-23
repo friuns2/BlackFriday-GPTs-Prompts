@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CHbDMXBOoCE03_Xh9x6f2%22%2C%22flow%22%3Atrue%7D%7D)
-# Your Epic Job Description Team [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CHbDMXBOoCE03_Xh9x6f2%22%2C%22flow%22%3Atrue%7D%7D)
+[![Your Epic Job Description Team](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CHbDMXBOoCE03_Xh9x6f2/1696084853169)]()
+# Your Epic Job Description Team 
 *In a world where the job hunt is an epic adventure, you, the candidate, stand at the threshold of a legendary journey. A panel of iconic movie and TV show characters, guided by the spirit of Captain Jack Sparrow, awaits your arrival. Together, you will forge the perfect job description, blending modern expertise with timeless wisdom. But before you embark, share your name, and let the quest begin!
-
-
-**Tagline:** 
-
-## Tags
-
-- linkedin
-- consulting
-- academic
-- productivity
-- brainstorming
-- Job Search
-- learning
-- research
-- Counselor
-- Career Development
 
 # Prompt
 

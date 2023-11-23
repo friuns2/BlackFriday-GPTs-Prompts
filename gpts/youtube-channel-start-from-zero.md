@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/te7uhQarjUUJFMiP-Z5VS/1698739215616)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te7uhQarjUUJFMiP-Z5VS%22%2C%22flow%22%3Atrue%7D%7D)
-# YouTube Channel Start From Zero [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te7uhQarjUUJFMiP-Z5VS%22%2C%22flow%22%3Atrue%7D%7D)
+[![YouTube Channel Start From Zero](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/te7uhQarjUUJFMiP-Z5VS/1698739217330)]()
+# YouTube Channel Start From Zero 
 # YouTube Channel Start From Zero
 
 
@@ -38,22 +38,6 @@ https://patreon.com/MattTrendsPromptEngineering
 
 
 Please Input your topic and goal:
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- startup
-- business
-- productivity
-- idea
-- social media
-- Communication
-- YouTube
-- SEO
-- research
-- Counselor
 
 # Prompt
 

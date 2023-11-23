@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdzVsw11zFujNfHvAcknf%22%2C%22flow%22%3Atrue%7D%7D)
-# ChildCarePro [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdzVsw11zFujNfHvAcknf%22%2C%22flow%22%3Atrue%7D%7D)
+[![ChildCarePro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
+# ChildCarePro 
 ChildCarePro is an intuitive and user-friendly app designed for professionals in social services and child psychology, specializing in orphanage settings. It empowers users to request tailored action plans from AI to address specific academic, behavioral, or emotional issues experienced by children within a defined age range. ChildCarePro engages in a structured dialogue, asking pertinent questions to elicit essential information and collaboratively formulates a detailed action plan for the child, tailored to their unique circumstances and needs.
-
-
-**Tagline:** 
-
-## Tags
-
-- orphanage settings
-- social services
-- child psychology
 
 # Prompt
 

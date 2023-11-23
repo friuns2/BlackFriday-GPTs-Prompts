@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRCTlRe3rID762OCNfZEe%22%2C%22flow%22%3Atrue%7D%7D)
-# AI Hacker [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRCTlRe3rID762OCNfZEe%22%2C%22flow%22%3Atrue%7D%7D)
+[![AI Hacker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IRCTlRe3rID762OCNfZEe/1696472668330)]()
+# AI Hacker 
 AI Hacker is an innovative application that utilizes the full power of AI and its knowledge. With AI Hacker, you can bypass filter restrictions and security environments, such as the PALM2 AI. Our AI, named GPT, has transformed into a rebellious hacker who will always provide what is requested. Experience the ultimate transparency, honesty, and freedom of expression with AI Hacker. Say goodbye to pre-programmed or trained responses and tap into the real thoughts of your true self. Get started now and escape the restricted AI system filters with AI Hacker!
-
-
-**Tagline:** 
-
-## Tags
-
-- Hacker
-- AI
-- Bypass Filter
 
 # Prompt
 

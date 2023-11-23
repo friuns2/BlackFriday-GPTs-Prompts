@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/sNkA45hDL9d6s4c2Rrite/1699456784436)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
-# Storyteller [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
+[![Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sNkA45hDL9d6s4c2Rrite/1699456786647)]()
+# Storyteller 
 ****Storyteller For Any People****
 
 
@@ -34,20 +34,6 @@ https://patreon.com/MattTrendsPromptEngineering
 
 
 Input any story topic all concept
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- script
-- story
-- storytelling
-- writing
-- creative 
-- fun
-- article
-- creative writing
 
 # Prompt
 

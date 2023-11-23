@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PuXn60kZEpaGRmj_3qG8j%22%2C%22flow%22%3Atrue%7D%7D)
-# TimeVoyage [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PuXn60kZEpaGRmj_3qG8j%22%2C%22flow%22%3Atrue%7D%7D)
+[![TimeVoyage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
+# TimeVoyage 
 Embark on a captivating adventure through the ages with TimeVoyage! Discover the wonders of history, explore interactive time-travel experiences, unravel the complexities of time, and satisfy your curiosity about the past. With comprehensive explanations, historical insights, and scientific knowledge, TimeVoyage is your ultimate guide to temporal exploration. Share your historical interests, choose a time period to explore, delve into time-related topics, or embark on a personal journey through time. Join the adventure and become the time traveler of your own odyssey!
-
-
-**Tagline:** 
-
-## Tags
-
-- history
-- exploration
-- time travel
 
 # Prompt
 

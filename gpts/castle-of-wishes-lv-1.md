@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4enMzOAp9mIMYIJGUcDy%22%2C%22flow%22%3Atrue%7D%7D)
-# Castle of Wishes Lv. 1 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4enMzOAp9mIMYIJGUcDy%22%2C%22flow%22%3Atrue%7D%7D)
+[![Castle of Wishes Lv. 1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E4enMzOAp9mIMYIJGUcDy/1696795078073)]()
+# Castle of Wishes Lv. 1 
 In this SFW role-playing game you are imprisoned in the castle dungeon of a baron. Your task is to free yourself from the dungeon and make your way through the castle until you can jump to freedom. Should you step into a woman's room, you must find out her secret desire (SFW) or she will sound the alarm!
-
-
-**Tagline:** 
-
-## Tags
-
-- roleplay
 
 # Prompt
 

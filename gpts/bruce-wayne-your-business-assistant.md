@@ -1,20 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KHDWKS2XSayU1rZSJQLJ%22%2C%22flow%22%3Atrue%7D%7D)
-# Bruce Wayne (Your Business Assistant) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KHDWKS2XSayU1rZSJQLJ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Bruce Wayne (Your Business Assistant)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2KHDWKS2XSayU1rZSJQLJ/1696092974214)]()
+# Bruce Wayne (Your Business Assistant) 
 The Bruce Wayne AI is a fictional concept that imagines Bruce Wayne, the alter ego of Batman, as an artificial intelligence designed to assist with various tasks. In this hypothetical scenario, the Bruce Wayne AI would possess advanced capabilities and intelligence, allowing it to provide assistance in areas such as business management, strategy, and problem-solving
-
-
-**Tagline:** 
-
-## Tags
-
-- business_development
-- money
-- business
-- productivity
-- creative 
-- AI
-- business plan
 
 # Prompt
 

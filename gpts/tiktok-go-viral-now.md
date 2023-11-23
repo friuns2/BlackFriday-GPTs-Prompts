@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fxl1gkL5U3201Q8XPO1_O%22%2C%22flow%22%3Atrue%7D%7D)
-# Tiktok - Go Viral NOW  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fxl1gkL5U3201Q8XPO1_O%22%2C%22flow%22%3Atrue%7D%7D)
+[![Tiktok - Go Viral NOW ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fxl1gkL5U3201Q8XPO1_O/1696347076035)]()
+# Tiktok - Go Viral NOW  
 Your expert on going viral now. Not Later
-
-
-**Tagline:** Pro Prompt Engineer
-
-## Tags
-
-- marketing
-- brainstorming
-- social media
-- creative 
-- fun
-- AI
 
 # Prompt
 

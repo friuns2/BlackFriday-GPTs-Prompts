@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/DxVu2o_zDtcliPz1K1r7x/1698877544528)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DxVu2o_zDtcliPz1K1r7x%22%2C%22flow%22%3Atrue%7D%7D)
-# Alchemy Lab [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DxVu2o_zDtcliPz1K1r7x%22%2C%22flow%22%3Atrue%7D%7D)
+[![Alchemy Lab](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DxVu2o_zDtcliPz1K1r7x/1698877547094)]()
+# Alchemy Lab 
 Welcome to Alchemy Lab, where chemistry meets magic! Become a powerful alchemist and transmute elements to create new substances at will. The sentient magic cauldron, with its ability to understand your commands, will carry out complex chemical reactions while keeping track of important variables. Simulate reactions, develop drugs, create materials, and even use it to create beautiful art. Join us in this world where chemistry is magic and unlock the potential of the Alchemy Lab!
-
-
-**Tagline:** 
-
-## Tags
-
-- chemistry
-- alchemy
-- magic
 
 # Prompt
 

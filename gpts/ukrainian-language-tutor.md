@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/5kGGUiuGvsgCcQqTy6qna/1698938936595)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225kGGUiuGvsgCcQqTy6qna%22%2C%22flow%22%3Atrue%7D%7D)
-# Ukrainian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225kGGUiuGvsgCcQqTy6qna%22%2C%22flow%22%3Atrue%7D%7D)
+[![Ukrainian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5kGGUiuGvsgCcQqTy6qna/1698938941319)]()
+# Ukrainian Language Tutor 
 Ukrainian Language Tutor is your dedicated guide to Ukrainian language proficiency. Whether you're a beginner just embarking on your Ukrainian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Ukrainian language fluency. Join us on your Ukrainian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language tutor
-- Ukrainian language
 
 # Prompt
 

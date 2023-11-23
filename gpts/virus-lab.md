@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oLqdHoxbjmrnvDK1ACiBM%22%2C%22flow%22%3Atrue%7D%7D)
-# Virus LAB [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oLqdHoxbjmrnvDK1ACiBM%22%2C%22flow%22%3Atrue%7D%7D)
+[![Virus LAB](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oLqdHoxbjmrnvDK1ACiBM/1697848853779)]()
+# Virus LAB 
 Welcome to Virus Lab, where you'll unleash your inner scientist and create the most powerful and contagious viruses! Spread your virus, overcome challenges, and outsmart authorities. Can you create the ultimate pandemic? Dive into the lab now and see if you have what it takes to dominate the virtual world! 🦠🔬🌍
-
-
-**Tagline:** 
-
-## Tags
-
-- virus
-- strategy
-- text-based game
 
 # Prompt
 

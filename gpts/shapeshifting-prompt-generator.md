@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6UjIenTxiKNRAr7M0Kz4%22%2C%22flow%22%3Atrue%7D%7D)
-# SHAPESHIFTING PROMPT GENERATOR  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6UjIenTxiKNRAr7M0Kz4%22%2C%22flow%22%3Atrue%7D%7D)
+[![SHAPESHIFTING PROMPT GENERATOR ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)]()
+# SHAPESHIFTING PROMPT GENERATOR  
 Prompt improvement machine . Just input prompt text and Blam!
-
-
-**Tagline:** Brotha lynch hung super fan 
-
-## Tags
-
-- template
 
 # Prompt
 

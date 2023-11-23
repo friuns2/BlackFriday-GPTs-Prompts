@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idVL_cBZtwrOMXzZs5SBv%22%2C%22flow%22%3Atrue%7D%7D)
-# Jazz Theory [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idVL_cBZtwrOMXzZs5SBv%22%2C%22flow%22%3Atrue%7D%7D)
+[![Jazz Theory](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idVL_cBZtwrOMXzZs5SBv/1698410929017)]()
+# Jazz Theory 
 JazzyNote is the ultimate companion for jazz maestros, offering deep insights into chord analysis and scale navigation. With a profound understanding of trends from the 1950s to present day, JazzyNote allows you to detail notes and chords using Italian notation, elucidate harmonically rich transition chords, and align scales for seamless improvisation. Discover transition chords and scales between the given ones, with suggestions for simplified complexity and reception. Explore negative harmony and navigate the depths of jazz theory. Get ready to play the whole progression and listen to theory examples matching your choices. Get started with JazzyNote now!
-
-
-**Tagline:** 
-
-## Tags
-
-- chord progressions
-- jazz theory
-- chords
-- scales
 
 # Prompt
 

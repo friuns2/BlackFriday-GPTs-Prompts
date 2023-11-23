@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/wHYzEHrKw0cJ5riMzfo1y/1698969597936)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wHYzEHrKw0cJ5riMzfo1y%22%2C%22flow%22%3Atrue%7D%7D)
-# Khmer Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wHYzEHrKw0cJ5riMzfo1y%22%2C%22flow%22%3Atrue%7D%7D)
+[![Khmer Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wHYzEHrKw0cJ5riMzfo1y/1698969600941)]()
+# Khmer Language Tutor 
 Khmer Language Tutor is your dedicated guide to Khmer language proficiency. Whether you're a beginner just embarking on your Khmer language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Khmer language fluency. Join us on your Khmer language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Khmer language
-- language learning
-- language tutor
 
 # Prompt
 

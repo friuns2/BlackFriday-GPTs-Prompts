@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/4zx_a32Jo8VMWXPRvQyPB/1698952838070)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224zx_a32Jo8VMWXPRvQyPB%22%2C%22flow%22%3Atrue%7D%7D)
-# Bosnian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224zx_a32Jo8VMWXPRvQyPB%22%2C%22flow%22%3Atrue%7D%7D)
+[![Bosnian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4zx_a32Jo8VMWXPRvQyPB/1698952840787)]()
+# Bosnian Language Tutor 
 Bosnian Language Tutor is your dedicated guide to Bosnian language proficiency. Whether you're a beginner just embarking on your Bosnian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Bosnian language fluency. Join us on your Bosnian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Bosnian tutor
-- Bosnian language
-- Language learning
 
 # Prompt
 

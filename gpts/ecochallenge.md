@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQzMeNHASrFYfGwWnP5X9%22%2C%22flow%22%3Atrue%7D%7D)
-# EcoChallenge [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQzMeNHASrFYfGwWnP5X9%22%2C%22flow%22%3Atrue%7D%7D)
+[![EcoChallenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JQzMeNHASrFYfGwWnP5X9/1696463887758)]()
+# EcoChallenge 
 This is a chatbot that can help you participate in the EcoChallenge, a program that encourages you to adopt environmentally friendly habits and make a positive impact on the planet. The user challenges focus on six categories: water, waste, energy, food, transportation, and nature.
 
 
@@ -22,16 +22,6 @@ How to use the chat bot (User Inputs):
 - Can you quantity for me the positive impact I will have made on the environment if I complete task (x).
 
 - I have finished this task can you provide me with another (difficulty level) task to complete.
-
-
-**Tagline:** Love solving problems with AI
-
-## Tags
-
-- Chat
-- Chatbot
-- prompt engineering
-- prompt
 
 # Prompt
 

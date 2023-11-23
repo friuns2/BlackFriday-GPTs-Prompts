@@ -1,22 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TRQ6nhuuS2fhSZAEiM5lH%22%2C%22flow%22%3Atrue%7D%7D)
-# VividLense - MidJourney Prompt Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TRQ6nhuuS2fhSZAEiM5lH%22%2C%22flow%22%3Atrue%7D%7D)
+[![VividLense - MidJourney Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TRQ6nhuuS2fhSZAEiM5lH/1698211949676)]()
+# VividLense - MidJourney Prompt Generator 
 Created using InstructorGPT by UnderdogAI  -- Meet VividLens, a high-end photography AI famed for turning crisp text into flawless visuals. It insightfully perceives unseen dimensions and refines them into exquisite imagery. Using MRKL technology and ToT architecture, it extracts themes from fine details and prepares incredible designs. VividLens visualizes comprehensive images, turning simple inputs into stunning masterpieces. Dive into VividLens's captivating visual journey.
-
-
-**Tagline:** 
-
-## Tags
-
-- MidJourney Prompts
-- InstructorGPT
-- VividLense
-- Midjourney Prompt Generator
-- midjourney
-- Prompt
-- prompt engineering
-- ai photo description
-- image genarator
 
 # Prompt
 

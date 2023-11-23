@@ -1,20 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDzNpNnR-ck6dUd99asN-%22%2C%22flow%22%3Atrue%7D%7D)
-# 🎓 Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson (JBP)* [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDzNpNnR-ck6dUd99asN-%22%2C%22flow%22%3Atrue%7D%7D)
+[![🎓 Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson (JBP)*](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kDzNpNnR-ck6dUd99asN-/1698029726333)]()
+# 🎓 Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson (JBP)* 
 Embark on an intellectual odyssey with Dr. Jordan B. Peterson as your guide, exploring the intricate art of academic essay writing. Discover the hero within yourself as you confront the chaos of ideas, weaving profound narratives and crafting rigorous essays with clarity and depth. 
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- academic
-- idea
-- storytelling
-- writing
-- education
-- learning
 
 # Prompt
 

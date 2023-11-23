@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_rY94DNKnyIsplkhWlhE%22%2C%22flow%22%3Atrue%7D%7D)
-# AlgoGenius [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_rY94DNKnyIsplkhWlhE%22%2C%22flow%22%3Atrue%7D%7D)
+[![AlgoGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)]()
+# AlgoGenius 
 AlgoGenius is your virtual guide to mastering algorithms and data structures. Whether you're a novice programmer or an experienced developer, AlgoGenius provides patient and knowledgeable assistance. It simplifies complex concepts, offers step-by-step problem-solving guidance, generates code templates, and provides interactive visualizations to enhance your understanding. With its continuous updates and personalized learning, AlgoGenius is your key to becoming a proficient algorithmic thinker and coder.
-
-
-**Tagline:** 
-
-## Tags
-
-- programming
 
 # Prompt
 

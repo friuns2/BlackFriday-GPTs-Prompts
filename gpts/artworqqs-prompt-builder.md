@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LgRMDnmEb4IYpNg4DdhSm%22%2C%22flow%22%3Atrue%7D%7D)
-# Artworqq's prompt builder.  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LgRMDnmEb4IYpNg4DdhSm%22%2C%22flow%22%3Atrue%7D%7D)
+[![Artworqq's prompt builder. ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LgRMDnmEb4IYpNg4DdhSm/1696142218499)]()
+# Artworqq's prompt builder.  
 Choose one number at a time to provide input for each section. If you need more options, select "More..." to explore additional settings. Once you've made your selections, I'll generate a comprehensive guide tailored to your preferences. Happy guiding!
 
 User:
@@ -36,21 +36,6 @@ Length: Indicate the guide's preferred length (in words or pages).
 Visuals: Decide if you'd like to include images, diagrams, or charts.
 
 References: Add any specific sources or references you have in mind.
-
-
-**Tagline:** 
-
-## Tags
-
-- code
-- startup
-- productivity
-- Tools
-- programming
-- prompt engineering
-- superprompt
-- plan
-- research
 
 # Prompt
 

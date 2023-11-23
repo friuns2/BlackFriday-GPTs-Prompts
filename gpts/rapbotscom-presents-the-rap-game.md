@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
-# RapBots.com PRESENTS THE RAP GAME [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
+[![RapBots.com PRESENTS THE RAP GAME](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)]()
+# RapBots.com PRESENTS THE RAP GAME 
 RapBots.com - Unleash Your Inner Lyricist and Conquer the Rap Game
 
 
@@ -8,20 +8,6 @@ RapBots.com - Unleash Your Inner Lyricist and Conquer the Rap Game
 
 
 Welcome to RapBots.com, the ultimate destination for aspiring rappers and lyrical wordsmiths. Our mission? To help you sharpen your rap skills, elevate your lyrical game, and dominate the rap scene like never before. With our expert guidance, rap tips, and interactive features, you'll unleash your creativity, refine your flow, and leave a lasting impact with every verse you drop. Get ready to take your rap career to new heights and become a rap superstar. Join RapBots.com now and let your words create waves in the world of hip-hop. Let's make your rap dreams a reality. Are you ready to conquer the rap game?
-
-
-**Tagline:** 
-
-## Tags
-
-- rapper
-- lyric generator
-- Music
-- art
-- creative 
-- hackathon
-- hiphop
-- rap
 
 # Prompt
 

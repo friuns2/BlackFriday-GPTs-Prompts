@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/jGhsofEBB52Fw0k98q1Gh/1698940079191)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jGhsofEBB52Fw0k98q1Gh%22%2C%22flow%22%3Atrue%7D%7D)
-# Slovak Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jGhsofEBB52Fw0k98q1Gh%22%2C%22flow%22%3Atrue%7D%7D)
+[![Slovak Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jGhsofEBB52Fw0k98q1Gh/1698940082702)]()
+# Slovak Language Tutor 
 Slovak Language Tutor is your dedicated guide to Slovak language proficiency. Whether you're a beginner just embarking on your Slovak language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Slovak language fluency. Join us on your Slovak language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Slovak language
-- language learning
-- translation services
 
 # Prompt
 

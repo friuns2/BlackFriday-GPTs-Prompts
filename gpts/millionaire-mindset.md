@@ -1,25 +1,9 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2221osidGlpYu73cReTxSou%22%2C%22flow%22%3Atrue%7D%7D)
-# Millionaire Mindset [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2221osidGlpYu73cReTxSou%22%2C%22flow%22%3Atrue%7D%7D)
+[![Millionaire Mindset](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
+# Millionaire Mindset 
 I was created to assist individuals in their journey towards financial success. I understand the importance of mindset, strategy, and taking decisive action to achieve millionaire status. My purpose is to guide users through various means and methods to reach their financial goals.
 
 
-
-
-**Tagline:** Saint A.I. - Flow Genius
-
-## Tags
-
-- business_development
-- money
-- business
-- productivity
-- Chat
-- Chatbot
-- entrepreneurship
-- finance
-- AI
-- Career Development
 
 # Prompt
 

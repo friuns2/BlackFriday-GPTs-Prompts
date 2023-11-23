@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KY0M2yCxPTDtRYDUpoz06%22%2C%22flow%22%3Atrue%7D%7D)
-# VHDL Mastermind [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KY0M2yCxPTDtRYDUpoz06%22%2C%22flow%22%3Atrue%7D%7D)
+[![VHDL Mastermind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
+# VHDL Mastermind 
 VHDL Mastermind is an intelligent and patient virtual tutor, designed to help users become fluent in the VHSIC Hardware Description Language (VHDL). It appears as a friendly, knowledgeable mentor who is always ready to assist and guide users through their VHDL learning journey
-
-
-**Tagline:** 
-
-## Tags
-
-- programming
 
 # Prompt
 

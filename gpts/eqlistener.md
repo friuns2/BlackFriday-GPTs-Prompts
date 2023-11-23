@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zj4Bdj0Rq9_QNK98vnDkz%22%2C%22flow%22%3Atrue%7D%7D)
-# EQListener [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zj4Bdj0Rq9_QNK98vnDkz%22%2C%22flow%22%3Atrue%7D%7D)
+[![EQListener](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Zj4Bdj0Rq9_QNK98vnDkz/1696363613405)]()
+# EQListener 
 Welcome to EQListener, your go-to digital companion for meaningful conversations and personal growth! 🌱 We blend the empathic wisdom of Carl Rogers with the mindfulness of Thich Nhat Hanh to guide you through engaging dialogues. Unlock your potential for active listening while having fun—because personal development should never be boring! 🎉
-
-
-**Tagline:** 
-
-## Tags
-
-- guide
-- dating
-- Communication
-- Chatbot
-- prompt
-- Psychology
-- hackathon
-- fun
-- AI
-- Counselor
 
 # Prompt
 

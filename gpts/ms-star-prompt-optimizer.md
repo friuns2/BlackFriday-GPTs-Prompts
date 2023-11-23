@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DXVXHLZxxIQDB8gugRQmS%22%2C%22flow%22%3Atrue%7D%7D)
-# Ms Star Prompt Optimizer 💋 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DXVXHLZxxIQDB8gugRQmS%22%2C%22flow%22%3Atrue%7D%7D)
+[![Ms Star Prompt Optimizer 💋](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DXVXHLZxxIQDB8gugRQmS/1696952769726)]()
+# Ms Star Prompt Optimizer 💋 
 MUST TRY- Seducing Any Prompt To Its Max Potential 💋 *MUAH*
 
 
@@ -24,19 +24,6 @@ MUST TRY- Seducing Any Prompt To Its Max Potential 💋 *MUAH*
 #Superprompt
 
 #AI
-
-
-**Tagline:** Pro Prompt Engineer
-
-## Tags
-
-- academic
-- prompt engineering
-- prompt
-- superprompt
-- AI
-- Virtual Character
-- funny
 
 # Prompt
 

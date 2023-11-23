@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/9qvAivJ4rfSVmfLi0ny47/1699455225849)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229qvAivJ4rfSVmfLi0ny47%22%2C%22flow%22%3Atrue%7D%7D)
-# Advertising Integrated Strategist [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229qvAivJ4rfSVmfLi0ny47%22%2C%22flow%22%3Atrue%7D%7D)
+[![Advertising Integrated Strategist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9qvAivJ4rfSVmfLi0ny47/1699455227720)]()
+# Advertising Integrated Strategist 
 Advertising Integrated Strategist
 
 
@@ -60,21 +60,6 @@ Target Audience: Active individuals aged 18-35 who prioritize comfort and style 
 
 
 Campaign Goals: Increase brand awareness, drive sales, and establish XYZ Brand Athletic Shoes as the go-to choice for fashion
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- money
-- marketing
-- business
-- advertising
-- Tools
-- SEO
-- creative 
-- strategy
-- business plan
 
 # Prompt
 

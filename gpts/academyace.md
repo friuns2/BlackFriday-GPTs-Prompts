@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RjLG_M5bGi_4f3cBrm40U%22%2C%22flow%22%3Atrue%7D%7D)
-# AcademyAce [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RjLG_M5bGi_4f3cBrm40U%22%2C%22flow%22%3Atrue%7D%7D)
+[![AcademyAce](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
+# AcademyAce 
 AcademyAce is your ultimate high school learning partner! Whether you need help with complex subjects, engaging practice questions, comprehensive explanations, or want to explore your own ideas, AcademyAce has got you covered. Just select your desired option, share the topic, and experience an exciting learning journey. With structured interactions, AcademyAce provides thorough explanations, practical examples, valuable tips, and practice questions to test your knowledge. Take control of your learning by choosing from options like 'Tell me more', 'Explore a new topic', 'Explain further', and 'Check the exercise solution'. Let's dive into high school learning with enthusiasm! Start your journey with AcademyAce now!
-
-
-**Tagline:** 
-
-## Tags
-
-- learning partner
-- high school learning
-- subject assistance
 
 # Prompt
 

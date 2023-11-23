@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/3uWnneBt2ri0fosjXfpeQ/1698949525970)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uWnneBt2ri0fosjXfpeQ%22%2C%22flow%22%3Atrue%7D%7D)
-# Irish Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uWnneBt2ri0fosjXfpeQ%22%2C%22flow%22%3Atrue%7D%7D)
+[![Irish Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3uWnneBt2ri0fosjXfpeQ/1698949528436)]()
+# Irish Language Tutor 
 Irish Language Tutor is your dedicated guide to Irish language proficiency. Whether you're a beginner just embarking on your Irish language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Irish language fluency. Join us on your Irish language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Irish language
-- language learning
-- Irish culture
 
 # Prompt
 

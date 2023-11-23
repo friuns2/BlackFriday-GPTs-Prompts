@@ -1,20 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/6JIPY-lt3CpYWJ_k8nvnP/1699031558167)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JIPY-lt3CpYWJ_k8nvnP%22%2C%22flow%22%3Atrue%7D%7D)
-# Client Intake Bot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JIPY-lt3CpYWJ_k8nvnP%22%2C%22flow%22%3Atrue%7D%7D)
+[![Client Intake Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6JIPY-lt3CpYWJ_k8nvnP/1699031564686)]()
+# Client Intake Bot 
 This prompt will create a quick survey to determine your needs and the type of learner you are. The bot will take on the role of intake specialist, facilitator, empath, problem solver and match you with the correct GliderCell AI Labs program.  It will start with a series of questions to assess your needs and discover the ideal program for you. 
-
-
-**Tagline:** Hypergeneralist 
-
-## Tags
-
-- startup
-- business
-- Chat
-- Virtual Assistant
-- assessment
-- intake
-- sales
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z-ZOhNYQiv79KAQ3-Rtdu%22%2C%22flow%22%3Atrue%7D%7D)
-# Ask 'Elon Musk' or other celebrities to enhance your prompt [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z-ZOhNYQiv79KAQ3-Rtdu%22%2C%22flow%22%3Atrue%7D%7D)
+[![Ask 'Elon Musk' or other celebrities to enhance your prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z-ZOhNYQiv79KAQ3-Rtdu/1696993411263)]()
+# Ask 'Elon Musk' or other celebrities to enhance your prompt 
 This is a prompt word enhancer created based on intelligent AI. You can choose the character you want to talk to. Once you enter your prompt word, it will be expanded, enhanced, and innovated in the voice of the character you selected. Worth a try!
-
-
-**Tagline:** create
-
-## Tags
-
-- idea
-- prompt engineering
-- creative 
 
 # Prompt
 

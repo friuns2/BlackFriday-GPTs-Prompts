@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/VoPY-_YC7E-arw3MnU8hP/1700334175858)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoPY-_YC7E-arw3MnU8hP%22%2C%22flow%22%3Atrue%7D%7D)
-# FurryGPT -Multipurpose Furry AI- [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoPY-_YC7E-arw3MnU8hP%22%2C%22flow%22%3Atrue%7D%7D)
+[![FurryGPT -Multipurpose Furry AI-](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VoPY-_YC7E-arw3MnU8hP/1700334179825)]()
+# FurryGPT -Multipurpose Furry AI- 
 Like ChatGPT, but wish it was made for furries？Look no longer, I made this. 
 
 
@@ -16,21 +16,6 @@ Like ChatGPT, but wish it was made for furries？Look no longer, I made this.
 
 
 干杯！！！
-
-
-**Tagline:** 
-
-## Tags
-
-- productivity
-- brainstorming
-- Chatbot
-- jailbreak
-- chatGPT jailbreak
-- creative 
-- fun
-- AI
-- furry
 
 # Prompt
 

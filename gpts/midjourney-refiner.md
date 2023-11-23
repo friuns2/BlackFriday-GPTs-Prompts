@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMXkjO5r2DpHkgU26GnU3%22%2C%22flow%22%3Atrue%7D%7D)
-# Midjourney Refiner [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMXkjO5r2DpHkgU26GnU3%22%2C%22flow%22%3Atrue%7D%7D)
+[![Midjourney Refiner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
+# Midjourney Refiner 
 Do you want to get the best images that Midjourney can ever create?
 
 
@@ -18,18 +18,6 @@ After countless hours of prompt engineering for both image generation and text g
 ✅Easy to use
 
 
-
-
-**Tagline:** 
-
-## Tags
-
-- midjourney
-- Prompt
-- prompt engineering
-- prompt
-- superprompt
-- image genarator
 
 # Prompt
 

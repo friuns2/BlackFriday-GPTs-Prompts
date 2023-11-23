@@ -1,6 +1,6 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
-# Prompt Anything Goes !!! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
+[![Prompt Anything Goes !!!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0K6t2Mh_ntII1UowHxaR3/1697205309310)]()
+# Prompt Anything Goes !!! 
 This prompt is a super prompt with three major functions.
 
 The first is a prompt generator, which creates an initial prompt based on a template.
@@ -8,20 +8,6 @@ The first is a prompt generator, which creates an initial prompt based on a temp
 The second is a prompt to evaluate a prompt. By entering the prompt you want to evaluate, we will evaluate and improve that prompt.
 
 The third is a bot if you want to learn more about prompts. This is a prompt to advance the bot in a conversational style.
-
-
-**Tagline:** 
-
-## Tags
-
-- productivity
-- Tools
-- Prompt
-- prompt engineering
-- prompt
-- template
-- hackathon
-- superprompt
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/VR27RYSxEucVFx2P1Rs0r/1700117511078)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VR27RYSxEucVFx2P1Rs0r%22%2C%22flow%22%3Atrue%7D%7D)
-# Iteration Script Master [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VR27RYSxEucVFx2P1Rs0r%22%2C%22flow%22%3Atrue%7D%7D)
+[![Iteration Script Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VR27RYSxEucVFx2P1Rs0r/1700117512753)]()
+# Iteration Script Master 
 This imaginative storytelling prompt leads you through an iterative process to write an immersive tale. It provides step-by-step advice on using cinematic language, introducing compelling characters, building an escalating plot arc, and employing literary techniques for impact. Continually refine your short story by answering guiding questions about tone, settings, character details, and other key elements. 
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- privacy
-- authority
-- instructions
 
 # Prompt
 

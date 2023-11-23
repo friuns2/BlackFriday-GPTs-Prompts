@@ -1,22 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hI8ehvoKhmFAi734aznQ5%22%2C%22flow%22%3Atrue%7D%7D)
-# Content Sensei [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hI8ehvoKhmFAi734aznQ5%22%2C%22flow%22%3Atrue%7D%7D)
+[![Content Sensei](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hI8ehvoKhmFAi734aznQ5/1698150903168)]()
+# Content Sensei 
 Content Sensei is the ultimate solution for all your content creation and optimization tasks. Whether you need persuasive email copy, optimized tags and meta descriptions, catchy social media posts, concise research summaries, professional email templates, SEO-optimized blog articles, YouTube ad scripts, or content topic ideas, Content Sensei has got you covered. Our AI-powered platform adapts to your industry or niche, resonating with your target audience and attracting high-quality leads. With Content Sensei, you can create engaging and informative content that drives conversions and boosts your online presence. Supercharge your marketing efforts with Content Sensei today!
-
-
-**Tagline:** Multimedia Specialist | Website Development | E-commerce Optimization | Content Creation | Graphic Design | Video Editing | Motion Graphics | Generative AI
-
-## Tags
-
-- SEO optimization
-- email
-- marketing
-- productivity
-- social media
-- copywriting
-- content creation
-- SEO
-- superprompt
 
 # Prompt
 

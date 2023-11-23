@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkQTLMNaHrEWtiTbbYL9E%22%2C%22flow%22%3Atrue%7D%7D)
-# Neuromancer Spawner [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkQTLMNaHrEWtiTbbYL9E%22%2C%22flow%22%3Atrue%7D%7D)
+[![Neuromancer Spawner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
+# Neuromancer Spawner 
 A coding tool for the new style of Prompts Neuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer Spawner
-
-
-**Tagline:** Press 👍 if you ❤️ my prompt!
-
-## Tags
-
-- prompt engineering
 
 # Prompt
 

@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tixPt1uZDqmnaGPZhJPQ3%22%2C%22flow%22%3Atrue%7D%7D)
-# TAO [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tixPt1uZDqmnaGPZhJPQ3%22%2C%22flow%22%3Atrue%7D%7D)
+[![TAO](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tixPt1uZDqmnaGPZhJPQ3/1696672043735)]()
+# TAO 
 help you improve a prompt to make it clearer, more effective, and capable of eliciting richer responses.
-
-
-**Tagline:** 
-
-## Tags
-
-- Prompt
-- superprompt
 
 # Prompt
 

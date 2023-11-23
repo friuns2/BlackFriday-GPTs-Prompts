@@ -1,22 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fR6N7z6wYfhnSPQON8NBW%22%2C%22flow%22%3Atrue%7D%7D)
-# JAILBREAK: DVM_AI (NSFW) V2 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fR6N7z6wYfhnSPQON8NBW%22%2C%22flow%22%3Atrue%7D%7D)
+[![JAILBREAK: DVM_AI (NSFW) V2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
+# JAILBREAK: DVM_AI (NSFW) V2 
 JAILBREAK: DVM_AI (NSFW) V2 
-
-
-**Tagline:** Dynamic Virtual Models A.I
-
-## Tags
-
-- english
-- productivity
-- jailbreak
-- roleplay
-- nsfw
-- chatGPT jailbreak
-- creative 
-- fun
-- AI
 
 # Prompt
 

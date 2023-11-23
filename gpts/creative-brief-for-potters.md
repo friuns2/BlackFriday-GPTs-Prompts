@@ -1,18 +1,9 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eEhg0ub0UODWOvIqIdxx%22%2C%22flow%22%3Atrue%7D%7D)
-# Creative Brief for Potters [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eEhg0ub0UODWOvIqIdxx%22%2C%22flow%22%3Atrue%7D%7D)
+[![Creative Brief for Potters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5eEhg0ub0UODWOvIqIdxx/1697060451176)]()
+# Creative Brief for Potters 
 This is a creative assistant designed for potters who want to boost their creativity and need help to generate creative briefs. 
 
 Each brief gives specific details for a coffee mug creation challenge
-
-
-**Tagline:** 
-
-## Tags
-
-- crafts
-- art
-- creative 
 
 # Prompt
 

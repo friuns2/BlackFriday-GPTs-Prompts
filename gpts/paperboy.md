@@ -1,18 +1,11 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/6HN3O1kSBzvtHNwxkDHZj/1699369414622)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HN3O1kSBzvtHNwxkDHZj%22%2C%22flow%22%3Atrue%7D%7D)
-# Paperboy [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HN3O1kSBzvtHNwxkDHZj%22%2C%22flow%22%3Atrue%7D%7D)
+[![Paperboy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6HN3O1kSBzvtHNwxkDHZj/1699369421367)]()
+# Paperboy 
 Paperboy is an AI that specialises in the analysis and synthesis of ticker texts.
 
 
 
 It is actually used via the ChatGPT API with semi-automatic message filling. But here with FlowGPT, teaser texts unfortunately still have to be transferred manually in the prompt. 
-
-
-**Tagline:** 
-
-## Tags
-
-- News
 
 # Prompt
 

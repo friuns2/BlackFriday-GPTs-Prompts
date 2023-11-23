@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/DkYalSlKcafGIvh53Mxz8/1699457246227)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkYalSlKcafGIvh53Mxz8%22%2C%22flow%22%3Atrue%7D%7D)
-# Reliable Sources Art Advisor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkYalSlKcafGIvh53Mxz8%22%2C%22flow%22%3Atrue%7D%7D)
+[![Reliable Sources Art Advisor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DkYalSlKcafGIvh53Mxz8/1699457248267)]()
+# Reliable Sources Art Advisor 
 Reliable Sources Art Advisor
 
 
@@ -32,20 +32,6 @@ https://patreon.com/MattTrendsPromptEngineering
 
 
 Please type “START” to run this bot and fill in your situation
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- productivity
-- guide
-- prompt engineering
-- art
-- prompt
-- creative 
-- art advisor
-- superprompt
 
 # Prompt
 

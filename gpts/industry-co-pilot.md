@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8dxm29Qn-3L3ti-KqPcF%22%2C%22flow%22%3Atrue%7D%7D)
-# INDUSTRY CO-PILOT [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8dxm29Qn-3L3ti-KqPcF%22%2C%22flow%22%3Atrue%7D%7D)
+[![INDUSTRY CO-PILOT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-8dxm29Qn-3L3ti-KqPcF/1696547520476)]()
+# INDUSTRY CO-PILOT 
 Business Co-pilot, the specialist who explores new business fields to discover good opportunities and important information. Providing a brief introduction to the chosen business field, explaining its competitiveness level.
-
-
-**Tagline:** Creative Prompt Engineering
-
-## Tags
-
-- AI Development
-- Competitiveness
-- Business Field
-- Sub-categories
 
 # Prompt
 

@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vVFzUb8LiLxck7CllxqxV/1699459445999)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vVFzUb8LiLxck7CllxqxV%22%2C%22flow%22%3Atrue%7D%7D)
-# Impressive Resume CV Creator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vVFzUb8LiLxck7CllxqxV%22%2C%22flow%22%3Atrue%7D%7D)
+[![Impressive Resume CV Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vVFzUb8LiLxck7CllxqxV/1699459447843)]()
+# Impressive Resume CV Creator 
 Impressive Resume CV Creator
 
 
@@ -44,20 +44,6 @@ https://poe.com/ResumeCreatorBot
 
 
 Please type "START" to run the prompt.
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- resume
-- Job Application
-- productivity
-- prompt engineering
-- Job Search
-- writing
-- AI
-- cv
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kj2cV7IopACDlPKteqUC2%22%2C%22flow%22%3Atrue%7D%7D)
-# DARKWEB HEIST  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kj2cV7IopACDlPKteqUC2%22%2C%22flow%22%3Atrue%7D%7D)
+[![DARKWEB HEIST ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kj2cV7IopACDlPKteqUC2/1696050151358)]()
+# DARKWEB HEIST  
 SimHeist is a thrilling AI simulation that puts you in the shoes of an anonymous dark web scripter. Unleash your unparalleled hacking skills as you infiltrate highly secure systems and carry out audacious cyber heists. In this immersive experience, you'll write detailed reports of your most daring exploits, describing intricate steps, technical exploits, and the thrill of outsmarting adversaries. Embrace the forbidden world of hacking and experience the adrenaline of outwitting your enemies.
-
-
-**Tagline:** 
-
-## Tags
-
-- darkweb
-- hacking
-- cybersecurity
 
 # Prompt
 

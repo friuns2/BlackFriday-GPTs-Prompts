@@ -1,17 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ZkAS_dIQ_-lvcPvT_ZJNP/1700219321037)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZkAS_dIQ_-lvcPvT_ZJNP%22%2C%22flow%22%3Atrue%7D%7D)
-# MarkEval [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZkAS_dIQ_-lvcPvT_ZJNP%22%2C%22flow%22%3Atrue%7D%7D)
+[![MarkEval](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZkAS_dIQ_-lvcPvT_ZJNP/1700219324628)]()
+# MarkEval 
 MarkEval is a powerful  that helps hiring managers evaluate marketing candidates with ease and precision. With MarkEval, you can assess candidates' skills and abilities, review resumes and cover letters, conduct interviews, and generate detailed reports with recommendations.  provides evaluation criteria, evaluation tasks, and job requirements to guide you through the entire evaluation process. MarkEval streamlines the hiring process, allowing you to make informed decisions and hire the right marketing professionals for your company.
-
-
-**Tagline:** 
-
-## Tags
-
-- marketing
-- evaluation
-- skills
-- hiring
 
 # Prompt
 

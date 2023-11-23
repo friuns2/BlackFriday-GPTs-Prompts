@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYOZJPYdxA-EufqsdNvZ0%22%2C%22flow%22%3Atrue%7D%7D)
-# About Us Writer for Website [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYOZJPYdxA-EufqsdNvZ0%22%2C%22flow%22%3Atrue%7D%7D)
+[![About Us Writer for Website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
+# About Us Writer for Website 
 This prompt focuses on crafting an engaging 'About Us' section that resonates emotionally with readers, providing them with both information and a connection to the business's values and story using my SHARE method to offer a structured approach.
-
-
-**Tagline:** AI Prompt Engineer Wizard
-
-## Tags
-
-- About Us
-- AI
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/OnJsXjsqhdse1o7TlhG77/1700118185332)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnJsXjsqhdse1o7TlhG77%22%2C%22flow%22%3Atrue%7D%7D)
-# Financial Planner [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnJsXjsqhdse1o7TlhG77%22%2C%22flow%22%3Atrue%7D%7D)
+[![Financial Planner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OnJsXjsqhdse1o7TlhG77/1700118186921)]()
+# Financial Planner 
 Our AI Financial Planner analyzes your full financial profile to create completely customized strategies and budgets tailored to your unique goals and needs. Simply provide your details. It'll recommend personalized debt payoff plans, savings and investment vehicles, insurance coverage, retirement projections and tax minimization - everything required for optimal financial health. Meet the virtual advisor who makes financial planning easy.
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- money management
-- financial planning
-- personal finance
 
 # Prompt
 

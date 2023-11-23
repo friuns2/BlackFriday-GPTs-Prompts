@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Tu6ocm_71bK3QHYTfETtf/1698949485982)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tu6ocm_71bK3QHYTfETtf%22%2C%22flow%22%3Atrue%7D%7D)
-# Basque Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tu6ocm_71bK3QHYTfETtf%22%2C%22flow%22%3Atrue%7D%7D)
+[![Basque Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tu6ocm_71bK3QHYTfETtf/1698949488940)]()
+# Basque Language Tutor 
 Basque Language Tutor is your dedicated guide to Basque language proficiency. Whether you're a beginner just embarking on your Basque language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Basque language fluency. Join us on your Basque language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language proficiency
-- Basque tutor
 
 # Prompt
 

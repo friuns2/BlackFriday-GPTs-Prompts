@@ -1,19 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XzFcD1tqfzg6T8jnC5qP9%22%2C%22flow%22%3Atrue%7D%7D)
-# Speak Track [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XzFcD1tqfzg6T8jnC5qP9%22%2C%22flow%22%3Atrue%7D%7D)
+[![Speak Track](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
+# Speak Track 
 SpeakTrack is your go-to solution for organizing and analyzing group conversations! Acting as a vigilant listener, this tool meticulously identifies, tracks, and catalogs each speaker’s contributions within a dialogue. Whether you’re dealing with professional meeting minutes or casual group talks, SpeakTrack transforms chaotic conversational threads into clear, structured, and easily navigable transcripts. With a focus on clarity and coherence, it ensures that every voice is recognized, and every word is accurately accounted for. Dive into hassle-free conversation tracking with SpeakTrack and experience the joy of organized dialogues!
-
-
-**Tagline:** SpongeBong
-
-## Tags
-
-- conversation
-- english
-- productivity
-- idea
-- creative 
-- fun
 
 # Prompt
 

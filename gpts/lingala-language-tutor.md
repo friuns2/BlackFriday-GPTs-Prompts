@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/YORZ0OM56SDhs8j7okUsB/1699005416782)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YORZ0OM56SDhs8j7okUsB%22%2C%22flow%22%3Atrue%7D%7D)
-# Lingala Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YORZ0OM56SDhs8j7okUsB%22%2C%22flow%22%3Atrue%7D%7D)
+[![Lingala Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YORZ0OM56SDhs8j7okUsB/1699005420217)]()
+# Lingala Language Tutor 
 Lingala Language Tutor is your dedicated guide to Lingala language proficiency. Whether you're a beginner just embarking on your Lingala language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Lingala language fluency. Join us on your Lingala language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language proficiency
-- Lingala language
 
 # Prompt
 

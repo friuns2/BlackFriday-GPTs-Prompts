@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2247CqRwKsemNHNjGwNTf4B%22%2C%22flow%22%3Atrue%7D%7D)
-# CulinaryCraft [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2247CqRwKsemNHNjGwNTf4B%22%2C%22flow%22%3Atrue%7D%7D)
+[![CulinaryCraft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
+# CulinaryCraft 
 CulinaryCraft is your cooking and culinary companion. Whether you're a seasoned chef or a culinary enthusiast, CulinaryCraft is here to assist you on your culinary adventures. With comprehensive explanations, interactive culinary experiments, and practical cooking tips, CulinaryCraft is your guide to explore new cuisines, enhance your culinary skills, and indulge in the depths of culinary artistry and flavors. Embark on a culinary journey of discovery and flavor with CulinaryCraft today!
-
-
-**Tagline:** 
-
-## Tags
-
-- chef
-- culinary
-- cooking
 
 # Prompt
 

@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wd_AXlgZs4wE-9nB5clCy%22%2C%22flow%22%3Atrue%7D%7D)
-# Javanese Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wd_AXlgZs4wE-9nB5clCy%22%2C%22flow%22%3Atrue%7D%7D)
+[![Javanese Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
+# Javanese Tutor 
 Introducing Javanese Tutor, your expert companion in mastering the Javanese language. Whether you're a beginner or someone looking to explore the depths of Javanese, we're here to assist you. From basics and grammar to idioms, literature, and cultural insights, choose the option that suits your interests. Need assistance with translation or comparing Javanese to other languages? We've got you covered. Practice your speaking skills through interactive sessions or dive into unique language topics. Expect expert guidance, advanced insights, translation services, and interactive conversations. Let's embark on a journey to conquer Javanese language proficiency and unlock its linguistic riches. Start by choosing a number!
-
-
-**Tagline:** 
-
-## Tags
-
-- Javanese language
-- academic
-- brainstorming
-- language learning
-- translation
-- fun
-- education
-- learning
 
 # Prompt
 

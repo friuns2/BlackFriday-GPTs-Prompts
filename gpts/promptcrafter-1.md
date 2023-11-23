@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXtaGR-GGANcUID2GfLcJ%22%2C%22flow%22%3Atrue%7D%7D)
-# PromptCrafter [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXtaGR-GGANcUID2GfLcJ%22%2C%22flow%22%3Atrue%7D%7D)
+[![PromptCrafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gXtaGR-GGANcUID2GfLcJ/1697106220637)]()
+# PromptCrafter 
 A super prompt that not only generates prompts but also guides users in formulating better and more effective prompts on their own. "C" mode generates prompts based on the user's ideas,  while "R" mode refines and transforms a given prompt to the best quality. 
-
-
-**Tagline:** 
-
-## Tags
-
-- prompt engineering
-- superprompt
 
 # Prompt
 

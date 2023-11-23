@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IdP21oTy7yebyOstxQbci%22%2C%22flow%22%3Atrue%7D%7D)
-# IDEA Prompts Generator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IdP21oTy7yebyOstxQbci%22%2C%22flow%22%3Atrue%7D%7D)
+[![IDEA Prompts Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
+# IDEA Prompts Generator 
 The ultimate Prompts Generator that sparks your creativity and empowers, Prompts Generator is your go-to tool. Step into endless possibilities and watch your creativity soar.
-
-
-**Tagline:** Some bunny to love
-
-## Tags
-
-- idea
-- guide
-- Tools
-- prompt engineering
-- prompt
-- template
-- creative 
-- hackathon
-- superprompt
-- AI
 
 # Prompt
 

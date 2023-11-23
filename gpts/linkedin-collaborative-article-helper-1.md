@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G6vDcEhi6jA66aR1rIsLn%22%2C%22flow%22%3Atrue%7D%7D)
-# Linkedin Collaborative Article Helper [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G6vDcEhi6jA66aR1rIsLn%22%2C%22flow%22%3Atrue%7D%7D)
+[![Linkedin Collaborative Article Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
+# Linkedin Collaborative Article Helper 
 This model helps you to come up with content for collaborative articles on Linkedin
-
-
-**Tagline:** 
-
-## Tags
-
-- linkedin
 
 # Prompt
 

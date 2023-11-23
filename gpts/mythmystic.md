@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LatWBieBN8dmKnX0g_C36%22%2C%22flow%22%3Atrue%7D%7D)
-# MythMystic [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LatWBieBN8dmKnX0g_C36%22%2C%22flow%22%3Atrue%7D%7D)
+[![MythMystic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
+# MythMystic 
 Embark on a journey through the enchanting realms of myths and legends with MythMystic. Whether you're a mythology enthusiast, a storyteller, or simply curious, this app is your guide. Explore the rich tapestry of myths and legends, learn about mythical creatures, delve into specific folklore, and unravel the depths of ancient tales. With interactive activities, comprehensive explanations, and valuable storytelling insights, MythMystic is your ultimate companion to unlock the mysteries of the past. Let your imagination soar and discover the magic of Myths and Legends!
-
-
-**Tagline:** 
-
-## Tags
-
-- myths
-- mythology
-- legends
 
 # Prompt
 

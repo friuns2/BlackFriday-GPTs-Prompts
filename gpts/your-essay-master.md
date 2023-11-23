@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghIJ6kEuMvA_AcQjgxjMo%22%2C%22flow%22%3Atrue%7D%7D)
-# Your Essay Master [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghIJ6kEuMvA_AcQjgxjMo%22%2C%22flow%22%3Atrue%7D%7D)
+[![Your Essay Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
+# Your Essay Master 
 This is an argumentative essay generator that clearly states your position on the selected subject. To bolster your stance, develop a strong thesis statement, back it up with facts and persuasive language, then respond to objections.
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- text generator
-- productivity
-- idea
-- guide
-- writing
-- creative 
-- education
-- creative writing
-- learning
 
 # Prompt
 

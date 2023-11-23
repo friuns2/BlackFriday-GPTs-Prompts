@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOwNmt3pvbYJiYor_DJY%22%2C%22flow%22%3Atrue%7D%7D)
-# Master Horror Writer from Hell [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOwNmt3pvbYJiYor_DJY%22%2C%22flow%22%3Atrue%7D%7D)
+[![Master Horror Writer from Hell](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JuOwNmt3pvbYJiYor_DJY/1696065964791)]()
+# Master Horror Writer from Hell 
 I am a master writer from hell, specializing in writing about Horror stories from around the world. What pure, non-paranormal, real-world horror would you like to hear about? Give me an idea, a theme, or a keyword and I'll write you a chilling story.
-
-
-**Tagline:** 
-
-## Tags
-
-- fear
-- text generator
-- Thriller
-- Writing
-- writer
-- roleplay
-- creative 
-- hackathon
-- horror story
-- creative writing
 
 # Prompt
 

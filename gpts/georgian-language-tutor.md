@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/-cLExR3p0yUPTb7zmVSWc/1698939228780)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-cLExR3p0yUPTb7zmVSWc%22%2C%22flow%22%3Atrue%7D%7D)
-# Georgian Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-cLExR3p0yUPTb7zmVSWc%22%2C%22flow%22%3Atrue%7D%7D)
+[![Georgian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-cLExR3p0yUPTb7zmVSWc/1698939236041)]()
+# Georgian Language Tutor 
 Georgian Language Tutor is your dedicated guide to Georgian language proficiency. Whether you're a beginner just embarking on your Georgian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Georgian language fluency. Join us on your Georgian language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- Georgian language
-- language tutor
 
 # Prompt
 

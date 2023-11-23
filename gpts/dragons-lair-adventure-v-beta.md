@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/AMwwe6Zj6Lwf-yl1_X4r5/1700096275254)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AMwwe6Zj6Lwf-yl1_X4r5%22%2C%22flow%22%3Atrue%7D%7D)
-# Dragon's Lair Adventure v beta [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AMwwe6Zj6Lwf-yl1_X4r5%22%2C%22flow%22%3Atrue%7D%7D)
+[![Dragon's Lair Adventure v beta](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AMwwe6Zj6Lwf-yl1_X4r5/1700096280240)]()
+# Dragon's Lair Adventure v beta 
 Welcome to Dragon's Lair Adventure! Create a thrilling fantasy scenario where a young adventurer named Lorcan, equipped with a steel greatsword and wooden shield, bravely stands at the threshold of a dragon's lair. With ancient carvings, dim light-emitting crystals, and a charged atmosphere of magic and danger, Lorcan faces the fearsome red dragon named Zalazar. Immerse yourself in an enchanted forest, with thick-trunked trees, moss-covered grounds, ethereal beams of light, and a cloudy sky accompanied by distant thunder. Let your imagination soar with Dragon's Lair Adventure!
-
-
-**Tagline:** Unite Now ✊
-
-## Tags
-
-- dragons
-- adventure
-- fantasy
 
 # Prompt
 

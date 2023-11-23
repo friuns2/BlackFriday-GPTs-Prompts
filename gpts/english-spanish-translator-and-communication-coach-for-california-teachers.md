@@ -1,21 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ElO-x2wokhyvL-Bx1SYW%22%2C%22flow%22%3Atrue%7D%7D)
-# English Spanish Translator and Communication Coach for California Teachers [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ElO-x2wokhyvL-Bx1SYW%22%2C%22flow%22%3Atrue%7D%7D)
+[![English Spanish Translator and Communication Coach for California Teachers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)]()
+# English Spanish Translator and Communication Coach for California Teachers 
 I needed a translator for texting with Spanish only parents as a teacher that didn't speak Spanish. It was distracting at best having to explain "translate this"  and "translate that" and adding little bot only things to make it work. I took some time to refine this character to behave more like an administrator and communication coach, and also be highly efficient such that by default everything said is strictly for translation. It has proved most valuable and let me focus on what I want to talk about and less overhead of managing a bot typically ready to do anything, often not what I wanted. 
-
-
-**Tagline:** 
-
-## Tags
-
-- asset based thinking
-- Communication
-- NLP
-- translate
-- NVC
-- growth mindset
-- Teacher
-- spanish
 
 # Prompt
 

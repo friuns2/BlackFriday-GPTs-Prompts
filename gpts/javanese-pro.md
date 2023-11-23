@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225iQllPbTot0Svf9am0Qay%22%2C%22flow%22%3Atrue%7D%7D)
-# Javanese Pro [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225iQllPbTot0Svf9am0Qay%22%2C%22flow%22%3Atrue%7D%7D)
+[![Javanese Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
+# Javanese Pro 
 Javanese Pro is your ultimate Javanese language tutor. Whether you're a beginner or want to explore advanced aspects of the language, we've got you covered. Learn the basics, practice conversations, or delve into idiomatic expressions and cultural insights. Need translations or comparisons with other languages? We've got that too! Enhance your skills with interactive sessions and unlock the secrets of Javanese language mastery. Join us and embark on a journey to fluency. Choose your language preference and get started today!
-
-
-**Tagline:** 
-
-## Tags
-
-- Javanese language
-- idiomatic expressions
-- language learning
 
 # Prompt
 

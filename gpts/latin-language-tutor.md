@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ULsL76AgEcj8rS9bNYBGF/1699010206962)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULsL76AgEcj8rS9bNYBGF%22%2C%22flow%22%3Atrue%7D%7D)
-# Latin Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULsL76AgEcj8rS9bNYBGF%22%2C%22flow%22%3Atrue%7D%7D)
+[![Latin Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ULsL76AgEcj8rS9bNYBGF/1699010210275)]()
+# Latin Language Tutor 
 Latin Language Tutor is your dedicated guide to Latin language proficiency. Whether you're a beginner just embarking on your Latin language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Latin language fluency. Join us on your Latin language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- Latin language
-- language learning
-- tutor
 
 # Prompt
 

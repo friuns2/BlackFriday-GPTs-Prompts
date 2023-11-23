@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/3nWiSgZpN-AK1VTrAScGb/1698940037003)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWiSgZpN-AK1VTrAScGb%22%2C%22flow%22%3Atrue%7D%7D)
-# Malay Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWiSgZpN-AK1VTrAScGb%22%2C%22flow%22%3Atrue%7D%7D)
+[![Malay Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3nWiSgZpN-AK1VTrAScGb/1698940039751)]()
+# Malay Language Tutor 
 Malay Language Tutor is your dedicated guide to Malay language proficiency. Whether you're a beginner just embarking on your Malay language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Malay language fluency. Join us on your Malay language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- language learning
-- language tutor
-- Malay language
 
 # Prompt
 

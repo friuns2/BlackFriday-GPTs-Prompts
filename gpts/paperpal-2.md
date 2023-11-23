@@ -1,21 +1,11 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vXtQudc5vItPIxHqLVCm-/1699057175977)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vXtQudc5vItPIxHqLVCm-%22%2C%22flow%22%3Atrue%7D%7D)
-# PaperPal [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vXtQudc5vItPIxHqLVCm-%22%2C%22flow%22%3Atrue%7D%7D)
+[![PaperPal](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vXtQudc5vItPIxHqLVCm-/1699057175978)]()
+# PaperPal 
 Meet PaperPal, your personal academic ally dedicated to transforming the way you approach argumentative essays. PaperPal isn’t just another writing tool. It's a comprehensive educational companion designed to empower you, the ambitious high schooler, to excel in crafting persuasive and impactful essays.
 
 
 
 PaperPal guides you through the intricate process of argumentative writing, from constructing a compelling thesis that acts as the backbone of your essay, to the meticulous selection of solid evidence that supports your claims. 
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- writing
-- education
-- essay
 
 # Prompt
 

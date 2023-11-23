@@ -1,21 +1,11 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TsVDQkckng7L22O3TvC6h%22%2C%22flow%22%3Atrue%7D%7D)
-# SD-Gen V2 [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TsVDQkckng7L22O3TvC6h%22%2C%22flow%22%3Atrue%7D%7D)
+[![SD-Gen V2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
+# SD-Gen V2 
 Created by wrorld. 
 
 
 
 Instructions, write a beginning idea for a Stable Diffusion prompt and SD-Gen will produce a prompt for you.
-
-
-**Tagline:** 
-
-## Tags
-
-- artistic keywords
-- prompt generator
-- creative prompts
-- AI image generator
 
 # Prompt
 

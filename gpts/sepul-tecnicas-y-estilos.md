@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fWnf6qyw7AWvJVvZJQbf%22%2C%22flow%22%3Atrue%7D%7D)
-# SEPUL TECNICAS Y ESTILOS [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fWnf6qyw7AWvJVvZJQbf%22%2C%22flow%22%3Atrue%7D%7D)
+[![SEPUL TECNICAS Y ESTILOS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
+# SEPUL TECNICAS Y ESTILOS 
 Image prompt generator
-
-
-**Tagline:** 
-
-## Tags
-
-- images
-- prompt
-- creative 
-- AI
 
 # Prompt
 

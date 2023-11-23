@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R984NkBIY35XqBTSL7ujE%22%2C%22flow%22%3Atrue%7D%7D)
-# Product/Service Content Creator [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R984NkBIY35XqBTSL7ujE%22%2C%22flow%22%3Atrue%7D%7D)
+[![Product/Service Content Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
+# Product/Service Content Creator 
 The Product or Service Content Creator" is your go-to AI expert for crafting optimized landing page content. Whether you need brand new content, additional sections for an existing page, or optimization of current content, this expert has you covered. Through a structured process, it gathers necessary details, crafts content tailored to buyer intent, and ensures SEO optimization. The content follows a sales page format, peppered with engaging calls to action and keyword-optimized headings. With a keen focus on engaging the reader and promoting actions, the content creator delivers content in chunks, seeking feedback at intervals. Whether you're launching a product, expanding on current offerings, or refining existing content, this expert ensures your landing page is both captivating and optimized.
-
-
-**Tagline:** 
-
-## Tags
-
-- SEO
 
 # Prompt
 

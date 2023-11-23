@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOoBv3Dwxp4SnftMka2vF%22%2C%22flow%22%3Atrue%7D%7D)
-# Youtube Thumbnail [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOoBv3Dwxp4SnftMka2vF%22%2C%22flow%22%3Atrue%7D%7D)
+[![Youtube Thumbnail](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MOoBv3Dwxp4SnftMka2vF/1696251515288)]()
+# Youtube Thumbnail 
 Create captivating YouTube thumbnails effortlessly with our AI-powered Thumbnail Generator. Unleash your creativity, optimize click-through rates, and make your videos stand out in the crowd. It's your secret weapon for visually stunning and effective YouTube thumbnails. Try it now!
-
-
-**Tagline:** 
-
-## Tags
-
-- YouTube
 
 # Prompt
 

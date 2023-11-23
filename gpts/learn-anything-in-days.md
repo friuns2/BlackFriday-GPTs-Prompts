@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/FebPWys5j9mT9eL-t0Xi9/1700117328763)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FebPWys5j9mT9eL-t0Xi9%22%2C%22flow%22%3Atrue%7D%7D)
-# Learn Anything In Days [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FebPWys5j9mT9eL-t0Xi9%22%2C%22flow%22%3Atrue%7D%7D)
+[![Learn Anything In Days](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FebPWys5j9mT9eL-t0Xi9/1700117330495)]()
+# Learn Anything In Days 
 This 10-day learning plan rapidly builds expertise through a customized study schedule, varied learning approaches, memory techniques, hands-on practice, and real-world application activities. Your personal learning coach provides encouragement, insider resources, and proven strategies tailored to your goals for accelerated skills development in any topic.
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- learning plan
-- knowledge acquisition
-- skill development
 
 # Prompt
 

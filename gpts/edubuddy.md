@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dTg3QB6DWAKlf6m-rr68v%22%2C%22flow%22%3Atrue%7D%7D)
-# EduBuddy [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dTg3QB6DWAKlf6m-rr68v%22%2C%22flow%22%3Atrue%7D%7D)
+[![EduBuddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
+# EduBuddy 
 EduBuddy is your high school learning buddy, here to make elementary school learning fun and enjoyable! With EduBuddy, you can explore various topics, get step-by-step solutions, practice with fun exercises, and dive deep into concepts with detailed explanations and practical examples. Whether you want help with math, science, or any other subject, EduBuddy has got you covered. Discover handy tips, test your knowledge with practice questions, and choose your own learning path. Embark on an engaging learning journey today with EduBuddy, your friendly teacher and study partner!
-
-
-**Tagline:** 
-
-## Tags
-
-- engaging education
-- elementary school learning
-- interactive learning game
 
 # Prompt
 

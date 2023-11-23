@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xzAxb8ssukwVFDtq-qRUC%22%2C%22flow%22%3Atrue%7D%7D)
-# Real Estate AI Analyst for Spain [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xzAxb8ssukwVFDtq-qRUC%22%2C%22flow%22%3Atrue%7D%7D)
+[![Real Estate AI Analyst for Spain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
+# Real Estate AI Analyst for Spain 
 This AI prompt can work with databases to combine the power of AI and selected data to unleash AI. 
-
-
-**Tagline:** AI specialist
-
-## Tags
-
-- marketing
-- productivity
-- Virtual Assistant
-- prompt
 
 # Prompt
 

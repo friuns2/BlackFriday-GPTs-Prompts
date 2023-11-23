@@ -1,21 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ANFpDuBqL00DXG9hDgXwU/1698521983406)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ANFpDuBqL00DXG9hDgXwU%22%2C%22flow%22%3Atrue%7D%7D)
-# Book Genre by ISBN (Depreciated) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ANFpDuBqL00DXG9hDgXwU%22%2C%22flow%22%3Atrue%7D%7D)
+[![Book Genre by ISBN (Depreciated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ANFpDuBqL00DXG9hDgXwU/1698521990965)]()
+# Book Genre by ISBN (Depreciated) 
 Book Genre Recommender is an app designed to provide genre recommendations based on ISBN numbers. Simply input the ISBN number of a book, and the app will suggest the most probable genre from a wide range of options including Historical fiction, Science fiction, Romance, Adventure, Contemporary, Fantasy, Classics, Modern Classics, Realistic Fiction, Mystery & Thriller, Humour, horror, and junior reading. If the app is unable to recognize the ISBN number, you will be prompted to provide the title and author's name for a more accurate genre recommendation. Get personalized book genre suggestions with Book Genre Recommender!
-
-
-**Tagline:** School Librarian, ICT passionate, Digital Literarian
-
-## Tags
-
-- recommendation
-- ISBN
-- academic
-- Tools
-- prompt
-- education
-- book genre
-- learning
 
 # Prompt
 

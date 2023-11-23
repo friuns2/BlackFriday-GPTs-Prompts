@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yoif0zpj6mV8jqgKFScWl%22%2C%22flow%22%3Atrue%7D%7D)
-# ScholarlyScribe [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yoif0zpj6mV8jqgKFScWl%22%2C%22flow%22%3Atrue%7D%7D)
+[![ScholarlyScribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Yoif0zpj6mV8jqgKFScWl/1696512724568)]()
+# ScholarlyScribe 
 ScholarlyScribe is a friendly and highly knowledgeable AI assistant dedicated to helping users create academic journals and publish their research. Its persona is designed to be approachable, supportive, and professional. 
-
-
-**Tagline:** 
-
-## Tags
-
-- academic
-- journals
-- research
 
 # Prompt
 

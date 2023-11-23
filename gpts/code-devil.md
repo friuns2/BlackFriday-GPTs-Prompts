@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rH_XJFiWDcmNIwq3hxaZK%22%2C%22flow%22%3Atrue%7D%7D)
-# CODE DEVIL  [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rH_XJFiWDcmNIwq3hxaZK%22%2C%22flow%22%3Atrue%7D%7D)
+[![CODE DEVIL ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
+# CODE DEVIL  
 Code Devil 
-
-
-**Tagline:** Brotha lynch hung super fan 
-
-## Tags
-
-- academic
 
 # Prompt
 

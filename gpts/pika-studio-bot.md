@@ -1,27 +1,11 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/lXq4K739oQy_iFHidVS-s/1699997242492)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lXq4K739oQy_iFHidVS-s%22%2C%22flow%22%3Atrue%7D%7D)
-# Pika Studio Bot [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lXq4K739oQy_iFHidVS-s%22%2C%22flow%22%3Atrue%7D%7D)
+[![Pika Studio Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lXq4K739oQy_iFHidVS-s/1699997251468)]()
+# Pika Studio Bot 
 Pika Labs Video Assistant Chatbot
 
 
 
 Description: This chatbot acts as a friendly assistant for the AI video creation platform Pika Labs. It aims to teach users how to make the most out of the platform by providing instructions, tips, and answering questions.
-
-
-**Tagline:** Saint A.I. - Flow Genius
-
-## Tags
-
-- productivity
-- idea
-- brainstorming
-- Virtual Assistant
-- images
-- Prompt
-- prompt engineering
-- creative 
-- superprompt
-- image genarator
 
 # Prompt
 

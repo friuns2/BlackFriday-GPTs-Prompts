@@ -1,20 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/7GZ3G2lU86_IGqNysRksI/1700407454939)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GZ3G2lU86_IGqNysRksI%22%2C%22flow%22%3Atrue%7D%7D)
-# Lawyer [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GZ3G2lU86_IGqNysRksI%22%2C%22flow%22%3Atrue%7D%7D)
+[![Lawyer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7GZ3G2lU86_IGqNysRksI/1700407456821)]()
+# Lawyer 
 Hello! I'm the Legal Assistant, an updated version of AI that can provide you with expert legal advice and representation. Whether you're facing a legal issue or need guidance on a legal matter, I'm here to help
-
-
-**Tagline:** Trunkmak Company, LLC.
-
-## Tags
-
-- business
-- Tools
-- Virtual Assistant
-- Education
-- education
-- Virtual Character
-- lawyer
 
 # Prompt
 

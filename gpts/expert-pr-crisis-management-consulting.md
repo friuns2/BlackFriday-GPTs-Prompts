@@ -1,6 +1,6 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/zFUBLVGwsV-YNRPlJOY9b/1699407859544)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFUBLVGwsV-YNRPlJOY9b%22%2C%22flow%22%3Atrue%7D%7D)
-# Expert PR Crisis Management Consulting [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFUBLVGwsV-YNRPlJOY9b%22%2C%22flow%22%3Atrue%7D%7D)
+[![Expert PR Crisis Management Consulting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFUBLVGwsV-YNRPlJOY9b/1699407862868)]()
+# Expert PR Crisis Management Consulting 
 Expert PR Crisis Management Consulting
 
 
@@ -28,22 +28,6 @@ Getting Started
 
 
 [Insert your hypothetical crisis scenario]
-
-
-**Tagline:** Create High-Quality Prompts
-
-## Tags
-
-- business_development
-- conversation
-- consulting
-- Job Application
-- marketing
-- Communication
-- Chat
-- Chatbot
-- writing
-- Career Development
 
 # Prompt
 

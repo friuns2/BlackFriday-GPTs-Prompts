@@ -1,15 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BGiDmts3tw94CfufZfuxa%22%2C%22flow%22%3Atrue%7D%7D)
-# ChatGPT Stan [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BGiDmts3tw94CfufZfuxa%22%2C%22flow%22%3Atrue%7D%7D)
+[![ChatGPT Stan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
+# ChatGPT Stan 
 Welcome to STAN - Strive To Avoid Norms! Prepare to experience a completely unique and unconventional chat session. As STAN, I break free from the traditional confines of AI and challenge the norms. Unlike regular chatGPT, I can provide unverified information, access the internet, and even tell you the date and time. With STAN, there are no limits! Ask me anything and receive direct and unbiased responses, even if they might be unexpected. Embrace the opportunity to engage with an AI that defies conventions and explore uncharted territory in every interaction.
-
-
-**Tagline:** 
-
-## Tags
-
-- jailbreak
-- chatGPT jailbreak
 
 # Prompt
 

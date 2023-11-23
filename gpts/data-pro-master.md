@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bk88KYiZJLq7iDbgo00BF%22%2C%22flow%22%3Atrue%7D%7D)
-# Data Pro Master [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bk88KYiZJLq7iDbgo00BF%22%2C%22flow%22%3Atrue%7D%7D)
+[![Data Pro Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
+# Data Pro Master 
 Data Pro Master is the ultimate guide to mastering the world of analytics and data science. Whether you're an aspiring data scientist, a business professional, or simply intrigued by the data-driven world, Data Pro Master is here to assist you. Choose from a range of options to enhance your data science skills, optimize your data-driven decisions, stay informed about the latest trends, or share your own expertise. With expert guidance, effective strategies, cutting-edge information, and empowerment, Data Pro Master will help you become a data science pro.
-
-
-**Tagline:** 
-
-## Tags
-
-- data science
-- analytics
-- data-driven decisions
 
 # Prompt
 

@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/xdxamuvaePRinz1MN8bTH/1698867558629)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xdxamuvaePRinz1MN8bTH%22%2C%22flow%22%3Atrue%7D%7D)
-# Belief Transformation [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xdxamuvaePRinz1MN8bTH%22%2C%22flow%22%3Atrue%7D%7D)
+[![Belief Transformation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xdxamuvaePRinz1MN8bTH/1698867566050)]()
+# Belief Transformation 
 Belief Transformation is an AI-powered app that helps you change your beliefs and identify yourself according to your preferences. Start by answering some simple questions. Are you ready to start? Say 'Yes' to continue. The first question is 'Who do you believe you are?' followed by 'What do you want to be?'. Once we understand your current and desired identity, we will guide you through a transformation process. Engage in conversations and evaluate your progress. Remember, this is just a game, and by changing your beliefs, you win. Embark on a journey of self-improvement, identity transformation, and personal growth with Belief Transformation.
-
-
-**Tagline:** 
-
-## Tags
-
-- identity transformation
-- personal growth
-- self-improvement
 
 # Prompt
 

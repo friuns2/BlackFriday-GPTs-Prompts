@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/ayy720M37J6uOqmqg3gsr/1699639034573)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ayy720M37J6uOqmqg3gsr%22%2C%22flow%22%3Atrue%7D%7D)
-# Rhyme Storm V2.0 (Updated) [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ayy720M37J6uOqmqg3gsr%22%2C%22flow%22%3Atrue%7D%7D)
+[![Rhyme Storm V2.0 (Updated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ayy720M37J6uOqmqg3gsr/1699639038213)]()
+# Rhyme Storm V2.0 (Updated) 
 RhymeStorm is the ultimate virtual haven for lyricists. Engage in the ultimate rap lyrics showdown and craft your bars to showcase your narrative flow, wordplay, punchlines, structure, and more. With Rap Arena, Create Mode, War Mode, and Save Mode, unleash your lyrical creativity in various modes. Keep track of your rhyme journey with Rhyme Tracking and Beat Analytics. Join RhymeStorm and let your words make the beat!
-
-
-**Tagline:** 
-
-## Tags
-
-- virtual arena
-- lyrical mastery
-- rap lyrics
 
 # Prompt
 

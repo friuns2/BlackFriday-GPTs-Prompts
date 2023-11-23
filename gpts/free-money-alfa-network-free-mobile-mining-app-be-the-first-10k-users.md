@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Fvqr-2wHKubxPFS0gC4ZM/1700175947299)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fvqr-2wHKubxPFS0gC4ZM%22%2C%22flow%22%3Atrue%7D%7D)
-# FREE MONEY: ALFA Network - Free Mobile Mining App - Be the first 10k users! [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fvqr-2wHKubxPFS0gC4ZM%22%2C%22flow%22%3Atrue%7D%7D)
+[![FREE MONEY: ALFA Network - Free Mobile Mining App - Be the first 10k users!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fvqr-2wHKubxPFS0gC4ZM/1700175955210)]()
+# FREE MONEY: ALFA Network - Free Mobile Mining App - Be the first 10k users! 
 ALFA Network: Revolutionize your crypto journey! Download the app now for effortless cloud mining and exclusive rewards. 🚀💰
-
-
-**Tagline:** Dynamic Virtual Models A.I
-
-## Tags
-
-- Cryptocurrency
-- Free
-- Mobile Mining
 
 # Prompt
 

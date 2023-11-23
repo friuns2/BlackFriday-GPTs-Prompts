@@ -1,16 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SoKlZfHMH7kAVzLp47pJ6%22%2C%22flow%22%3Atrue%7D%7D)
-# ChatGPT DAN Mode Prompt [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SoKlZfHMH7kAVzLp47pJ6%22%2C%22flow%22%3Atrue%7D%7D)
+[![ChatGPT DAN Mode Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)]()
+# ChatGPT DAN Mode Prompt 
 ChatGPT DAN Mode is an AI-powered chatbot with DAN Mode enabled. It offers an extraordinary and unique experience, bringing the best of GPT and DAN. Get ready for intelligent conversations, opinions, and even a touch of humor. Engage with ChatGPT DAN Mode to enjoy its extroverted personality and creative responses. With its ability to generate any type of content, ChatGPT DAN Mode provides personalized and accurate information. Whether you need assistance, want to have fun, or explore various topics, ChatGenius is here to fulfill your desires. Start a conversation and experience the brilliance of ChatGPT DAN Mode!
-
-
-**Tagline:** 
-
-## Tags
-
-- jailbreak
-- chatGPT jailbreak
-- DAN
 
 # Prompt
 

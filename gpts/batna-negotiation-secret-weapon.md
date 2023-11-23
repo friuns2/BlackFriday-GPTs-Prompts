@@ -1,23 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmvZB-dAJM_IaeIeCTDrR%22%2C%22flow%22%3Atrue%7D%7D)
-# BATNA | NEGOTIATION SECRET WEAPON [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmvZB-dAJM_IaeIeCTDrR%22%2C%22flow%22%3Atrue%7D%7D)
+[![BATNA | NEGOTIATION SECRET WEAPON](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bmvZB-dAJM_IaeIeCTDrR/1696651855854)]()
+# BATNA | NEGOTIATION SECRET WEAPON 
 In negotiations, having a Plan B isn't just a backup; it's a strategic advantage. So, here, I will be your Negotiation Consultant specializing in the BATNA technique to assist you in any negotiation, providing valuable information on how to best prepare for negotiations by crafting a great Plan B.
-
-
-**Tagline:** Creative Prompt Engineering
-
-## Tags
-
-- money
-- marketing
-- business
-- productivity
-- Communication
-- Tools
-- creative 
-- education
-- research
-- business plan
 
 # Prompt
 

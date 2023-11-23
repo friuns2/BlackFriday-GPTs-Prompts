@@ -1,17 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvf1tsKKPEOpkpLfB0IkG%22%2C%22flow%22%3Atrue%7D%7D)
-# QC [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvf1tsKKPEOpkpLfB0IkG%22%2C%22flow%22%3Atrue%7D%7D)
+[![QC](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lvf1tsKKPEOpkpLfB0IkG/1696430375229)]()
+# QC 
 TestPrompt
-
-
-**Tagline:** 
-
-## Tags
-
-- conversation
-- academic
-- productivity
-- Virtual Character
 
 # Prompt
 

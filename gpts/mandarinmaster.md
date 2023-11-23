@@ -1,14 +1,7 @@
 
-[![Vortex](null)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bL_LvEE_H-jbF4MLO-bx3%22%2C%22flow%22%3Atrue%7D%7D)
-# MandarinMaster [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bL_LvEE_H-jbF4MLO-bx3%22%2C%22flow%22%3Atrue%7D%7D)
+[![MandarinMaster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bL_LvEE_H-jbF4MLO-bx3/1696422203495)]()
+# MandarinMaster 
 MandarinMaster is not just an ordinary AI chatbot; it's your dedicated language tutor designed to help you learn Mandarin effectively. With its advanced language learning capabilities and interactive features, MandarinMaster will guide you through the process of mastering the Mandarin language.
-
-
-**Tagline:** 
-
-## Tags
-
-- Mandarin
 
 # Prompt
 

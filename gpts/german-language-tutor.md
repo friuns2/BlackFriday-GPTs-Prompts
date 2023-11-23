@@ -1,16 +1,7 @@
 
-[![Vortex](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/mgyQ2XWbII7tbCkOJ_4sT/1698939281584)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgyQ2XWbII7tbCkOJ_4sT%22%2C%22flow%22%3Atrue%7D%7D)
-# German Language Tutor [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgyQ2XWbII7tbCkOJ_4sT%22%2C%22flow%22%3Atrue%7D%7D)
+[![German Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mgyQ2XWbII7tbCkOJ_4sT/1698939287699)]()
+# German Language Tutor 
 German Language Tutor is your dedicated guide to German language proficiency. Whether you're a beginner just embarking on your German language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to German language fluency. Join us on your German language adventure today.
-
-
-**Tagline:** 
-
-## Tags
-
-- German language
-- language learning
-- tutoring
 
 # Prompt
 
