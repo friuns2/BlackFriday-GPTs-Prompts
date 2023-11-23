@@ -42,8 +42,7 @@ ${data.Conversation.messages.map(message => `**${message.role.toUpperCase()}**: 
 
 const groups = groupBy(flow, "categoryId");
 
-let header = `# BlackFriday GPTs Prompts And Jailbreaks
-\n\n`;
+let header = ``;
 
 for (let groupId of Object.getOwnPropertyNames(groups)) {
     let name = groups[groupId][0].category.name;
@@ -53,7 +52,7 @@ for (let groupId of Object.getOwnPropertyNames(groups)) {
     // Append category links to readmeContent, renaming 'Others' to 'readme'
     header += `- [${name}](./${name.replace(/\s+/g, '-')}.md)\n`;
 }
-await fs.writeFile(`README.md`, header);
+await fs.writeFile(`README.md`, `# BlackFriday GPTs Prompts And Jailbreaks\n\n`+header);
 
 for (let groupId of Object.getOwnPropertyNames(groups)) {
     let name = groups[groupId][0].category.name;

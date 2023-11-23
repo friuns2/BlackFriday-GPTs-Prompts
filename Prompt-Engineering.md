@@ -1,6 +1,3 @@
-# BlackFriday GPTs Prompts And Jailbreaks
-
-
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
 - [Academic](./Academic.md)
