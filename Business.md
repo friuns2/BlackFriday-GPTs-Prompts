@@ -7,6 +7,7 @@
 - [Prompt Engineering](./Prompt-Engineering.md)
 - [Business](./Business.md)
 - [Productivity & life style](./Productivity-&-life-style.md)
+- [Jailbreaks](./Jailbreaks.md)
 
 
 # Business

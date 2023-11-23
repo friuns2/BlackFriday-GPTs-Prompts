@@ -1,6 +1,5 @@
 # BlackFriday GPTs Prompts And Jailbreaks
 
-
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
 - [Academic](./Academic.md)
@@ -10,3 +9,4 @@
 - [Prompt Engineering](./Prompt-Engineering.md)
 - [Business](./Business.md)
 - [Productivity & life style](./Productivity-&-life-style.md)
+- [Jailbreaks](./Jailbreaks.md)

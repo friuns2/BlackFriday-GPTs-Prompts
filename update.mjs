@@ -4,14 +4,18 @@ import { promises as fs } from 'fs';
 
 
 const jsonContents = await fs.readFile("data/gpts.json", 'utf8');
-const flow = JSON.parse(jsonContents).filter(data =>  !data.nsfw && data.categoryId!=1 && data.category.name!="Models" );
+const flow = JSON.parse(jsonContents).filter(data =>  !data.nsfw && data.categoryId!=1 && data.category.name!="Models" ||data.subCategory.uri=="jailbreak" );
 //files
 
 let i =0;
 for (let data of flow) {
-    
+    if(data.subCategory.uri=="jailbreak" )    
+    {
+        data.categoryId=666
+        data.category.name="Jailbreaks"
+    }
     data.uri = data.uri.substring(0, 200);
-    let url = ``;
+    let url = ''
     const markdown = `
 [![${data.title}](${data.thumbnailURL})](${url})
 # ${data.title} 
