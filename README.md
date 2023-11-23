@@ -1,4 +1,5 @@
-# List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
+# BlackFriday GPTs Prompts
+## List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
 
 - [Character](./Character.md)
 - [Programming](./Programming.md)
