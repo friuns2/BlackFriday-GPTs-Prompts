@@ -1,4 +1,4 @@
-# BlackFriday GPTs Prompts
+# BlackFriday GPTs Prompts And Jailbreaks
 ## List of GPTs Prompts for free use (ChatGPT Plus subscription bypass.)
 
 - [Character](./Character.md)
