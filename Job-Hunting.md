@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Job Hunting
 
 - [CareerCraftPro](./gpts/careercraftpro.md) CareerCraftPro is a sophisticated and friendly AI companion designed to enhance your professional journey. Think of it as your personal career advisor and CV enhancer. CareerCraftPro is knowledgeable, resourceful, and always up-to-date with the lates

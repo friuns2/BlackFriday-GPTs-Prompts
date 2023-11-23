@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Creative
 
 - [App Genie](./gpts/app-genie.md) App Genie is your ultimate solution for balancing simplicity and market attractiveness. With App Genie, you can develop a beginner-friendly, profitable app without any hassle. Whether you need a task management tool, a language learning aid, or any o

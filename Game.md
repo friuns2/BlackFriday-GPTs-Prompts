@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Game
 
 - [Harry Potter and the Philosopher's Stone](./gpts/harry-potter-and-the-philosophers-stone-1.md) This is a magical journey as the narrator in this immersive game inspired by "Harry Potter and the Philosopher's Stone". Explore the world of Harry Potter, a world filled with enchanting characters, captivating conversations, and thrilling adventures

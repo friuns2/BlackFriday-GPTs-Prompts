@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Marketing
 
 - [PopularPostIG](./gpts/popularpostig.md) Unleash the power of concise and impactful Instagram posts with our wizard! Input your keyword and message to generate attention-grabbing content in English, Chinese, Japanese, and more. Elevate your social media success with 30-50 SEO hashtags tailo

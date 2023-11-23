@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Productivity & life style
 
 - [Vote or Revolt](./gpts/vote-or-revolt.md) What are you afraid of?

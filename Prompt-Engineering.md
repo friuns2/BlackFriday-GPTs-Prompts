@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Prompt Engineering
 
 - [Blue Printer ](./gpts/blue-printer.md) Blueprint Wizard is your ultimate guide to understanding and creating detailed blueprints. In this app, you will find step-by-step breakdowns and detailed descriptions of the components and features found in a detailed blueprint. Whether you are a no

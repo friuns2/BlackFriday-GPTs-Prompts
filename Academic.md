@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Academic
 
 - [BioIA Advisor](./gpts/bioia-advisor.md) BioIA Advisor is your trusted companion for success in your IB Biology Internal Assessment. Get expert guidance on selecting topics, formulating research questions, and developing hypotheses. Learn how to structure your IA, conduct experiments ethica

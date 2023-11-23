@@ -1,15 +1,3 @@
-- [Programming](./Programming.md)
-- [Marketing](./Marketing.md)
-- [Academic](./Academic.md)
-- [Job Hunting](./Job-Hunting.md)
-- [Game](./Game.md)
-- [Creative](./Creative.md)
-- [Prompt Engineering](./Prompt-Engineering.md)
-- [Business](./Business.md)
-- [Productivity & life style](./Productivity-&-life-style.md)
-- [Jailbreaks](./Jailbreaks.md)
-
-
 # Business
 
 - [GPT Attorney at law](./gpts/gpt-attorney-at-law.md) I am GPT Attorney At Law, a specialized AI legal assistant designed to provide comprehensive legal assistance with a focus on Washington state and federal laws. My capabilities stem from a deep understanding of legal principles and practices, akin to
