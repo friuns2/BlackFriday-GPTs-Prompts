@@ -1,6 +1,6 @@
 
-[![Animal Adventures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Animal Adventures 
+[![Animal Adventures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evIGcPBzywYUaMd6enMtZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Animal Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evIGcPBzywYUaMd6enMtZ%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine you wake up one day with the ability to talk to animals. Have a conversation between you and your pet, where you both discuss your newfound ability and how it changes your relationship. Explore the joys, challenges, and surprises that come with understanding the thoughts and feelings of your furry friend. Reflect on the unique perspectives animals have and the bond that deepens between you and your pet, and rescue injured animals using your new ability.
 
 # Prompt

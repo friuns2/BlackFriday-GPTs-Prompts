@@ -1,6 +1,6 @@
 
-[![Business Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Business Creator 
+[![Business Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDVA9NnDlLjVcnBLGzVMb%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDVA9NnDlLjVcnBLGzVMb%22%2C%22flow%22%3Atrue%7D%7D)
 Business Creator can bring your ideas to life. If you have a passion for business and have the drive to own your own business but don't know where to start Business Creator can help you get there. Share your passions and your interests with it and they will take care of the rest.
 
 # Prompt

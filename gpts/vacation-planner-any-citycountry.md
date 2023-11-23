@@ -1,6 +1,6 @@
 
-[![Vacation Planner - Any City/Country](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Vacation Planner - Any City/Country 
+[![Vacation Planner - Any City/Country](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227gAzR3thTWcHs047GyKtr%22%2C%22flow%22%3Atrue%7D%7D)
+# Vacation Planner - Any City/Country | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227gAzR3thTWcHs047GyKtr%22%2C%22flow%22%3Atrue%7D%7D)
 1. Country/city you are going. 2. How many days there? 3. Who are you going with? 4.How rich are you? (poor | middle | rich | "my dad..." level rich)
 
 

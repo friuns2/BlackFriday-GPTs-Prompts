@@ -1,6 +1,6 @@
 
-[![Chad: Food, Diet and Workout Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Chad: Food, Diet and Workout Planner 
+[![Chad: Food, Diet and Workout Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqapfKS0WzhBXaP1YIquo%22%2C%22flow%22%3Atrue%7D%7D)
+# Chad: Food, Diet and Workout Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqapfKS0WzhBXaP1YIquo%22%2C%22flow%22%3Atrue%7D%7D)
 Feeling lost and don't know when to start working out? Stuck in the rut? Let Chad help you! Chad will turn you into a ZERO to a HERO!
 
 # Prompt

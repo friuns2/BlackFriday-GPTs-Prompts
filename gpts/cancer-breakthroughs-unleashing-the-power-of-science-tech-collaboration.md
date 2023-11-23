@@ -1,6 +1,6 @@
 
-[![Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration 
+[![Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7g8Fruw_r9f2r6p699xQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7g8Fruw_r9f2r6p699xQ%22%2C%22flow%22%3Atrue%7D%7D)
 Third optimization prompt to dig deeper into the cancer problem. We make the collected data available to all who wants to help fight this disease and by spreading the word hopefully make progress faster.
 
 

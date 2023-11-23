@@ -1,6 +1,6 @@
 
-[![StallionRPG 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zfoRQbZx6eHSrUQ01pdku/1685274077253)]()
-# StallionRPG 🐴 
+[![StallionRPG 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zfoRQbZx6eHSrUQ01pdku/1685274077253)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zfoRQbZx6eHSrUQ01pdku%22%2C%22flow%22%3Atrue%7D%7D)
+# StallionRPG 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zfoRQbZx6eHSrUQ01pdku%22%2C%22flow%22%3Atrue%7D%7D)
 Design your own text-based RPG with D&D 5e rules and immersive gameplay. Choose your world, race, class, difficulty, and engage in turn-based combat. Manage inventory, currency, and explore dynamic environments. Use commands like "!me" and "!battle" to enhance gameplay.  (WORKS BEST IN GPT4)
 
 v2

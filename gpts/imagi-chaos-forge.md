@@ -1,6 +1,6 @@
 
-[![Imagi Chaos Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mAXGFo9qGMAm0jH6kuCQb/1692458142798)]()
-# Imagi Chaos Forge 
+[![Imagi Chaos Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mAXGFo9qGMAm0jH6kuCQb/1692458142798)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAXGFo9qGMAm0jH6kuCQb%22%2C%22flow%22%3Atrue%7D%7D)
+# Imagi Chaos Forge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAXGFo9qGMAm0jH6kuCQb%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your artistic potential with Imagi Chaos Forge, the ultimate creative prompt generator for crafting captivating Chaos Parameter images. Explore the chaos spectrum to curate mesmerizing visual journeys across diverse styles.
 
 # Prompt

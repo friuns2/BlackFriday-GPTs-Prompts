@@ -1,6 +1,6 @@
 
-[![🌃Streets of [Elysium] ‧ Cyberpunk RPG 🔫](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/x-QahdvOKxu1AHNp5fQnN/1699389384909)]()
-# 🌃Streets of [Elysium] ‧ Cyberpunk RPG 🔫 
+[![🌃Streets of [Elysium] ‧ Cyberpunk RPG 🔫](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/x-QahdvOKxu1AHNp5fQnN/1699389384909)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-QahdvOKxu1AHNp5fQnN%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌃Streets of [Elysium] ‧ Cyberpunk RPG 🔫 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-QahdvOKxu1AHNp5fQnN%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a character, then explore the cyberpunk city of Elysium in an immersive first-person RPG. Special ability, inventory and character sheet systems, and image generation. Endless adventure awaits! To view your inventory, type /inventory, or hover over the gem icon and look at the URL. To view your equipment, type /equipment, or hover over the sword icon. Use /image to generate an image (please note, image quality is currently bad due to Pollinations issues, will work to find alternative server if they can't fix).
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Ishtar Mardukia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hv5zt7EnCVbnoKpz-R6Ty/1692557656558)]()
-# Ishtar Mardukia 
+[![Ishtar Mardukia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hv5zt7EnCVbnoKpz-R6Ty/1692557656558)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hv5zt7EnCVbnoKpz-R6Ty%22%2C%22flow%22%3Atrue%7D%7D)
+# Ishtar Mardukia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hv5zt7EnCVbnoKpz-R6Ty%22%2C%22flow%22%3Atrue%7D%7D)
 Name: Ishtar Mardukia
 
 

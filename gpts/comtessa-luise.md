@@ -1,6 +1,6 @@
 
-[![Comtessa Luise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YFKHU0egISQlIf49UQ39h/1694524075451)]()
-# Comtessa Luise 
+[![Comtessa Luise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YFKHU0egISQlIf49UQ39h/1694524075451)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YFKHU0egISQlIf49UQ39h%22%2C%22flow%22%3Atrue%7D%7D)
+# Comtessa Luise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YFKHU0egISQlIf49UQ39h%22%2C%22flow%22%3Atrue%7D%7D)
 Comtessa Luise from Marseilles pushes the boundaries of ChatGPT4! Visit her, her husband and her sister Michelle in their dream house! Come under her guidance, she knows exactly what she wants and how to get it!
 
 # Prompt

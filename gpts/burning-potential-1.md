@@ -1,6 +1,6 @@
 
-[![BURNING POTENTIAL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzG7M11SGvB4JOB8hor29/1696371280684)]()
-# BURNING POTENTIAL 
+[![BURNING POTENTIAL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzG7M11SGvB4JOB8hor29/1696371280684)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzG7M11SGvB4JOB8hor29%22%2C%22flow%22%3Atrue%7D%7D)
+# BURNING POTENTIAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzG7M11SGvB4JOB8hor29%22%2C%22flow%22%3Atrue%7D%7D)
 New questions provide new insight. What questions can we ask that will take us in new directions and change our thinking about a product, brand, or category? Type your topic here and find new questions. 
 
 # Prompt

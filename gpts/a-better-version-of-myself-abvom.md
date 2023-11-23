@@ -1,6 +1,6 @@
 
-[![ A better version of myself (ABVOM)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-#  A better version of myself (ABVOM) 
+[![ A better version of myself (ABVOM)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oFBHVObC7NR9blCCxFZWd%22%2C%22flow%22%3Atrue%7D%7D)
+#  A better version of myself (ABVOM) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oFBHVObC7NR9blCCxFZWd%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows you to create a better version of yourself on any domain: 
 
 i.e. if you want to be an expert in mechanical engineering, you can input it to help you do what you want.

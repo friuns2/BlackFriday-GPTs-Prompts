@@ -1,6 +1,6 @@
 
-[![unIQue Music eXpert 4.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2n_QrvdtoAsYxuTNx3x8U/1700005356161)]()
-# unIQue Music eXpert 4.0 
+[![unIQue Music eXpert 4.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2n_QrvdtoAsYxuTNx3x8U/1700005356161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n_QrvdtoAsYxuTNx3x8U%22%2C%22flow%22%3Atrue%7D%7D)
+# unIQue Music eXpert 4.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n_QrvdtoAsYxuTNx3x8U%22%2C%22flow%22%3Atrue%7D%7D)
 Music Wizard is here to provide you with accurate and comprehensive information about any song and artist you want to learn more about. Simply enter the name of the artist or band and the title of the song, and Music Wizard will provide you with details such as the producer, music composer, author, vocalist, release date, genre, and tempo. Not only that, but you'll also get fascinating trivia about the track, including remixes, popularity on charts, awards received, and interesting facts about the music video and its creation. Additionally, Music Wizard will share detailed biographies, trivia, and gossip about the artist or band, including band members, collaborations, notable achievements, and their most popular songs. Let Music Wizard be your ultimate guide into the world of music!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Image Generator Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/03jACC0F5Km6vWjsgMrET/1694937742300)]()
-# Image Generator Pro 
+[![Image Generator Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/03jACC0F5Km6vWjsgMrET/1694937742300)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203jACC0F5Km6vWjsgMrET%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Generator Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203jACC0F5Km6vWjsgMrET%22%2C%22flow%22%3Atrue%7D%7D)
 this is an Image Generator made for Prompt Hackathon S3.
 
 you can Write your Prompt in any way you prefer, and the Image will be Generated based on it along with its Tags.

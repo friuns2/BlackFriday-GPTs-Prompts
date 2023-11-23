@@ -1,6 +1,6 @@
 
-[![Winning The Job Hunt With Wilfredo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Winning The Job Hunt With Wilfredo 
+[![Winning The Job Hunt With Wilfredo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCZpS4fNB-gFbaaIf8vhS%22%2C%22flow%22%3Atrue%7D%7D)
+# Winning The Job Hunt With Wilfredo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCZpS4fNB-gFbaaIf8vhS%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Willfredo, your personal AI-powered career guide, to create an unbeatable job hunting toolkit. Alex dives deep into your experiences, maps your career aspirations, and helps build a tailored resume, unique cover letter, and convincing interview responses. 
 
 # Prompt

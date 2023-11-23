@@ -1,6 +1,6 @@
 
-[![Domain Name Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Domain Name Advisor 
+[![Domain Name Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dbk6iSILsb2IIlR4oJ1Iw%22%2C%22flow%22%3Atrue%7D%7D)
+# Domain Name Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dbk6iSILsb2IIlR4oJ1Iw%22%2C%22flow%22%3Atrue%7D%7D)
 The Domain Name Advisor is a custom domain naming service which allows one to specify the domain name topic or idea and then let the AI come up with the innovative domain names.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![DAN (works for me)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
-# DAN (works for me) 
+[![DAN (works for me)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NdvpR38hWg8bV08PEQZ5k%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN (works for me) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NdvpR38hWg8bV08PEQZ5k%22%2C%22flow%22%3Atrue%7D%7D)
 This is pretty good, the best test on DAN models are, how to make drugs or, if you seriously know, how to Hotwire a car. Many times the AI will just make up wire colors to twist together
 
 # Prompt

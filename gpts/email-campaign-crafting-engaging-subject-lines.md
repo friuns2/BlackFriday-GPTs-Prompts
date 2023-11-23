@@ -1,6 +1,6 @@
 
-[![Email Campaign: Crafting Engaging Subject Lines](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Email Campaign: Crafting Engaging Subject Lines 
+[![Email Campaign: Crafting Engaging Subject Lines](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HGlDDkiMZ_jwbX8Zqu_mF%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Campaign: Crafting Engaging Subject Lines | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HGlDDkiMZ_jwbX8Zqu_mF%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will assist you to creative power to come up with engaging subject lines that encourage recipients to open your emails.
 
 # Prompt

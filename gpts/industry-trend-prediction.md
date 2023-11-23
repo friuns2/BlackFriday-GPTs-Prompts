@@ -1,6 +1,6 @@
 
-[![Industry Trend Prediction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Industry Trend Prediction 
+[![Industry Trend Prediction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZOkdPzjyTvl8n_mwRv7RG%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry Trend Prediction | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZOkdPzjyTvl8n_mwRv7RG%22%2C%22flow%22%3Atrue%7D%7D)
 Present industry trends, news & companies in report format. Sources cited & well-organized.
 
 # Prompt

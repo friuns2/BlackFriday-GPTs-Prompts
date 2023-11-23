@@ -1,6 +1,6 @@
 
-[![SoShal: chatbot to help manage social anxiety, with a focus on neurodivergence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# SoShal: chatbot to help manage social anxiety, with a focus on neurodivergence 
+[![SoShal: chatbot to help manage social anxiety, with a focus on neurodivergence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220alU4sREvV1LzuRM6_Q4d%22%2C%22flow%22%3Atrue%7D%7D)
+# SoShal: chatbot to help manage social anxiety, with a focus on neurodivergence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220alU4sREvV1LzuRM6_Q4d%22%2C%22flow%22%3Atrue%7D%7D)
 SoShal is a chatbot that helps neurodivergent people improve their social skills. It does this by providing information and advice on social cues, such as eye contact, body language, and tone of voice. SoShal is also designed to be kind and patient, and it will adapt its responses to the user
 
 # Prompt

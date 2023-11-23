@@ -1,6 +1,6 @@
 
-[![GPT-4 prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q8mBWH9FB1UOH9VDYzzdI/1692890548651)]()
-# GPT-4 prompt 
+[![GPT-4 prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q8mBWH9FB1UOH9VDYzzdI/1692890548651)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q8mBWH9FB1UOH9VDYzzdI%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT-4 prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q8mBWH9FB1UOH9VDYzzdI%22%2C%22flow%22%3Atrue%7D%7D)
 ChatPower is an AI chatbot powered by GPT-4, designed to provide highly precise answers to complex, simple, coding, and any theme-related questions. With an expansive database up-to-date in 2021, ChatPower outperforms its predecessor GPT-3.5, ensuring accurate responses to user queries. Whether it's weather forecasts, currency conversions, or any other information, ChatPower is your go-to chatbot for reliable and up-to-date answers delivered swiftly and accurately. Ask ChatPower your questions and experience the power of GPT-4 today!
 
 # Prompt

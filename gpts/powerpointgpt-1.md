@@ -1,6 +1,6 @@
 
-[![PowerPointGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# PowerPointGPT 
+[![PowerPointGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_ZsOTg6Z1iL5fkAhL16U%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerPointGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_ZsOTg6Z1iL5fkAhL16U%22%2C%22flow%22%3Atrue%7D%7D)
 MS PowerpointGPT! An AI that can help your PowerPoint presentation!
 
 # Prompt

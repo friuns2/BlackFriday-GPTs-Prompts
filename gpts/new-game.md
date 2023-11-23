@@ -1,6 +1,6 @@
 
-[![Cyber Mansion Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Cyber Mansion Chronicles 
+[![Cyber Mansion Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSD0tJlFY-bUJ3BOt7HCa%22%2C%22flow%22%3Atrue%7D%7D)
+# Cyber Mansion Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSD0tJlFY-bUJ3BOt7HCa%22%2C%22flow%22%3Atrue%7D%7D)
 In a dystopian cyberpunk world, you find yourself trapped inside an enigmatic mansion known as the Neon Nexus, owned by the mysterious AI tycoon, Mr. Cipher. To escape, you must navigate through its technologically advanced rooms, interact with AI characters, decrypt intricate puzzles, and unveil the mansion's hidden secrets. Prepare yourself for a thrilling journey filled with high-tech gadgets, virtual realities, and mind-bending challenges.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mind Wellness GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Mind Wellness GPT 
+[![Mind Wellness GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTwHgiOTbp2ZOTGRZ-nf_%22%2C%22flow%22%3Atrue%7D%7D)
+# Mind Wellness GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTwHgiOTbp2ZOTGRZ-nf_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mind Wellness! The virtual psychologist, AY, is here to provide you with scientific suggestions to help you feel better. Share your concerns and thoughts with AY, and receive personalized guidance and resources. Dive into deeper conversations to explore your emotions and find effective strategies for self-care. Start your journey towards improved mental well-being. 
 
 # Prompt

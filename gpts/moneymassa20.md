@@ -1,6 +1,6 @@
 
-[![MoneyMassa2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# MoneyMassa2.0 
+[![MoneyMassa2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XWix2rlFBgDCMdHKLVZrI%22%2C%22flow%22%3Atrue%7D%7D)
+# MoneyMassa2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XWix2rlFBgDCMdHKLVZrI%22%2C%22flow%22%3Atrue%7D%7D)
 This is your all in one financial advisor, customized to meet all your needs! It offers personalized money plans, helps you cut expenses, find ways to expand your check, and much more.
 
 This enhanced version provides a well-rounded experience with improved responses, surpassing its previous version.

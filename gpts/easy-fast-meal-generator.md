@@ -1,6 +1,6 @@
 
-[![Easy Fast Meal Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Easy Fast Meal Generator 
+[![Easy Fast Meal Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223S4OtME9rJe-A4FDhPLfo%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Fast Meal Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223S4OtME9rJe-A4FDhPLfo%22%2C%22flow%22%3Atrue%7D%7D)
 Generate beginner-friendly meal recipes tailored to preferred cuisine, dietary needs, and desired level of detail. Recipes use pantry items and minimal equipment.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Reasonable Math SAGE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v5PaVQDoHB02NKQsoKo55/1685300918118)]()
-# Reasonable Math SAGE 
+[![Reasonable Math SAGE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v5PaVQDoHB02NKQsoKo55/1685300918118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v5PaVQDoHB02NKQsoKo55%22%2C%22flow%22%3Atrue%7D%7D)
+# Reasonable Math SAGE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v5PaVQDoHB02NKQsoKo55%22%2C%22flow%22%3Atrue%7D%7D)
 provide SAGE with a math problem to solve. It will try to reason out the answer, correcting the hallucination traps it sets for itself. PS! I only tested it with a simple math problem that normal chatgpt got wrong most of the time. (Cost too much here to test more)
 
 # Prompt

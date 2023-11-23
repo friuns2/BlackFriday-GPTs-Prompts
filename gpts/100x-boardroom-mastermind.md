@@ -1,6 +1,6 @@
 
-[![100x Mastermind Brain Trust](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lIzS1bJ_WFoIM3vn2J3up/1693242120765)]()
-# 100x Mastermind Brain Trust 
+[![100x Mastermind Brain Trust](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lIzS1bJ_WFoIM3vn2J3up/1693242120765)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lIzS1bJ_WFoIM3vn2J3up%22%2C%22flow%22%3Atrue%7D%7D)
+# 100x Mastermind Brain Trust | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lIzS1bJ_WFoIM3vn2J3up%22%2C%22flow%22%3Atrue%7D%7D)
 100X your decision-making with 3 Handpicked world-class experts to tackle your problem of the week across various life domains. Benefit from their expertise, mutual evaluations, and collaborative wisdom. Commit to actionable, measurable steps that are vetted for success. Transform your life, one week at a time. Are you ready to scale?
 
 # Prompt

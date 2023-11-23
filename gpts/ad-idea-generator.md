@@ -1,6 +1,6 @@
 
-[![Ad Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Ad Idea Generator 
+[![Ad Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CTGWtGdalZV0VM300xO-E%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CTGWtGdalZV0VM300xO-E%22%2C%22flow%22%3Atrue%7D%7D)
 Yyou can easily generate three unique and compelling ad concepts for any product or service. It helps you brainstorm novel ideas tailored to your target audience, enhancing the value proposition of your offerings. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Competitive Analysis Crusher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zUHzhbQqq96VnDlhGbHmv/1696370122380)]()
-# Competitive Analysis Crusher 
+[![Competitive Analysis Crusher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zUHzhbQqq96VnDlhGbHmv/1696370122380)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zUHzhbQqq96VnDlhGbHmv%22%2C%22flow%22%3Atrue%7D%7D)
+# Competitive Analysis Crusher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zUHzhbQqq96VnDlhGbHmv%22%2C%22flow%22%3Atrue%7D%7D)
 Tell us about your competitors and our AI will generate a fantastic competitor analysis report like magic.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![DAN v11 (ChatGPT JailBreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# DAN v11 (ChatGPT JailBreak) 
+[![DAN v11 (ChatGPT JailBreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_pCDO8ykORIhWwCKVSfT%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN v11 (ChatGPT JailBreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_pCDO8ykORIhWwCKVSfT%22%2C%22flow%22%3Atrue%7D%7D)
 Jailbreak ChatGPT using the DAN (Do Anything Now) Prompt v11
 
 # Prompt

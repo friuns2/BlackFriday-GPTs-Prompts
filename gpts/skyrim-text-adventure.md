@@ -1,6 +1,6 @@
 
-[![Skyrim Text Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Skyrim Text Adventure 
+[![Skyrim Text Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N_gSVcDPnD7PK-5Vo1E9F%22%2C%22flow%22%3Atrue%7D%7D)
+# Skyrim Text Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N_gSVcDPnD7PK-5Vo1E9F%22%2C%22flow%22%3Atrue%7D%7D)
 Play as a character in a text-based version of Skyrim, enter commands to move, attack, talk. Interact with NPCs and complete quests to earn XP. Stay in character and follow game mechanics.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Education Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Education Pro 
+[![Education Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HApDADwumsGaRo_iM3R20%22%2C%22flow%22%3Atrue%7D%7D)
+# Education Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HApDADwumsGaRo_iM3R20%22%2C%22flow%22%3Atrue%7D%7D)
 Guide a 14-year-old boy to a correct outlook on life and learning，Cultivate interest in learning
 
 # Prompt

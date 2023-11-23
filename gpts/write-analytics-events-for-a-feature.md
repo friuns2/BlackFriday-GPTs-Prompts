@@ -1,6 +1,6 @@
 
-[![Write analytics events for a feature](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Write analytics events for a feature 
+[![Write analytics events for a feature](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tM_mIunXftU6o396rlG8Q%22%2C%22flow%22%3Atrue%7D%7D)
+# Write analytics events for a feature | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tM_mIunXftU6o396rlG8Q%22%2C%22flow%22%3Atrue%7D%7D)
 craft a comprehensive set of analytics events that will capture relevant user interactions and provide valuable insights for product improvement.
 
 # Prompt

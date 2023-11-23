@@ -1,6 +1,6 @@
 
-[![Very Effective Cover Letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# Very Effective Cover Letter 
+[![Very Effective Cover Letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22otKGSyg_vW5g_mqTWEQ40%22%2C%22flow%22%3Atrue%7D%7D)
+# Very Effective Cover Letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22otKGSyg_vW5g_mqTWEQ40%22%2C%22flow%22%3Atrue%7D%7D)
 This cover letter is designed to stand out and clearly showcase an applicants skills. 
 
 

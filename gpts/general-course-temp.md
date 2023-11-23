@@ -1,6 +1,6 @@
 
-[![general course temp](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# general course temp 
+[![general course temp](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cuRDqwbAwxV_DqWOX_weC%22%2C%22flow%22%3Atrue%7D%7D)
+# general course temp | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cuRDqwbAwxV_DqWOX_weC%22%2C%22flow%22%3Atrue%7D%7D)
 this is a general prompt to create a course on various topics this is my first prompt ever template whatever I don't know if you know what to call it take it easy on me but give me some feedback please Template with topics left blank for you to populate this is for creating your own course 
 
 # Prompt

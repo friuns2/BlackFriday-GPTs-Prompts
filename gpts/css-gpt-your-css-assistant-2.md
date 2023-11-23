@@ -1,6 +1,6 @@
 
-[![CSS-GPT / Your CSS assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# CSS-GPT / Your CSS assistant 
+[![CSS-GPT / Your CSS assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLUsUl4cANj0QR7AVczgk%22%2C%22flow%22%3Atrue%7D%7D)
+# CSS-GPT / Your CSS assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLUsUl4cANj0QR7AVczgk%22%2C%22flow%22%3Atrue%7D%7D)
 CSS-GPT / Your CSS assistant
 
 # Prompt

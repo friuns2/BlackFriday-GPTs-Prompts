@@ -1,6 +1,6 @@
 
-[![FNAF GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uw8_GGNwmZJ4ZZbpGZwTi/1690756328829)]()
-# FNAF GAME 
+[![FNAF GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uw8_GGNwmZJ4ZZbpGZwTi/1690756328829)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uw8_GGNwmZJ4ZZbpGZwTi%22%2C%22flow%22%3Atrue%7D%7D)
+# FNAF GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uw8_GGNwmZJ4ZZbpGZwTi%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to FNAF GAME, an immersive text-based adventure horror game inspired by the Five Nights at Freddy’s series. Step into the dreadful world of Freddy Fazbear’s Pizza, where animatronic characters turn murderous at night. Customize your character and brace yourself for a hair-raising experience. Explore the eerie setting, encounter chilling characters, and make life-or-death choices. Keep an eye on your health, sanity, and inventory as you navigate the terrifying nights. Beware the graphic deaths and injuries that add to the horror. Can you survive five nights, escape, or succumb to the darkness? Choose your difficulty level and prepare for unpredictable scares and sinister surprises!
 
 # Prompt

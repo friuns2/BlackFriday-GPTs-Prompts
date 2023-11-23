@@ -1,6 +1,6 @@
 
-[![SIMPLE HUMAN FEEDBACK](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hq58TRc0ZDMIG8qrmtT6m/1697730557904)]()
-# SIMPLE HUMAN FEEDBACK 
+[![SIMPLE HUMAN FEEDBACK](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hq58TRc0ZDMIG8qrmtT6m/1697730557904)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq58TRc0ZDMIG8qrmtT6m%22%2C%22flow%22%3Atrue%7D%7D)
+# SIMPLE HUMAN FEEDBACK | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq58TRc0ZDMIG8qrmtT6m%22%2C%22flow%22%3Atrue%7D%7D)
 I help make your creative feedback more friendly and clear. 
 
 # Prompt

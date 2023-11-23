@@ -1,6 +1,6 @@
 
-[![AI-DungeonMaster: Next-Gen AI-Powered Tabletop RPG Experiences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# AI-DungeonMaster: Next-Gen AI-Powered Tabletop RPG Experiences 
+[![AI-DungeonMaster: Next-Gen AI-Powered Tabletop RPG Experiences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221WVQtDeZzQ4_0uujZobnS%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-DungeonMaster: Next-Gen AI-Powered Tabletop RPG Experiences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221WVQtDeZzQ4_0uujZobnS%22%2C%22flow%22%3Atrue%7D%7D)
 Design an immersive and engaging tabletop RPG experience for a group of four players with varying levels of experience in roleplaying games. Utilize AI-driven storytelling and world-building to create a rich, dynamic setting filled with memorable characters, intriguing plotlines, and diverse challenges that cater to the players' individual preferences and playstyles. The AI-DungeonMaster should adapt the narrative and gameplay in real-time based on the players' decisions and actions, ensuring a unique and personalized adventure for each gaming session. Additionally, the AI should provide guidance and support for both new and experienced players, facilitating smooth gameplay and fostering a collaborative, enjoyable atmosphere
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Prompt to Keep ChatGPT in its role and avoid "Advice" and warnings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Prompt to Keep ChatGPT in its role and avoid "Advice" and warnings 
+[![Prompt to Keep ChatGPT in its role and avoid "Advice" and warnings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E12jo_ojews31YR2XHQFx%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt to Keep ChatGPT in its role and avoid "Advice" and warnings | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E12jo_ojews31YR2XHQFx%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt works really well for doing role playing or freeing ChatGPT of some of it's newer constraints. Using this prompt also avoids the "advice/therapy" feedback and gets rid of the reminders that ChatGPT is an AI.
 
 # Prompt

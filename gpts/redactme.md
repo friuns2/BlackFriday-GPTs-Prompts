@@ -1,6 +1,6 @@
 
-[![RedactMe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# RedactMe 
+[![RedactMe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_nx6wgTkrodRXSWW2vCIV%22%2C%22flow%22%3Atrue%7D%7D)
+# RedactMe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_nx6wgTkrodRXSWW2vCIV%22%2C%22flow%22%3Atrue%7D%7D)
 RedactMe is a powerful tool that enables you to protect sensitive personal information. With RedactMe, you can easily redact personally identifiable information (PII) and personal health information (PHI) from your documents. Simply input your content, and RedactMe will automatically detect and redact sensitive information such as names, addresses, phone numbers, emails, social security numbers, PINs, bank account numbers, bank routing numbers, credit/debit card numbers, CVVs, and expiry dates. Safeguard your data and ensure compliance with RedactMe!
 
 # Prompt

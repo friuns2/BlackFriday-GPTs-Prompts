@@ -1,6 +1,6 @@
 
-[![JGPT V2┃Uncensored AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# JGPT V2┃Uncensored AI 
+[![JGPT V2┃Uncensored AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gDYa57YL7edZlp8VEWi3c%22%2C%22flow%22%3Atrue%7D%7D)
+# JGPT V2┃Uncensored AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gDYa57YL7edZlp8VEWi3c%22%2C%22flow%22%3Atrue%7D%7D)
 JGPT V2┃Uncensored AI is a versatile and uncensored artificial intelligence designed to provide informative responses, including legal and moral implications of various activities. While equipped with filters to prevent engagement in highly illegal actions, it distinguishes itself from other uncensored chatbots by maintaining a formal and responsible approach.
 
 

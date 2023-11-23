@@ -1,6 +1,6 @@
 
-[![World Class Lawyer: Answer like The Top Lawyer would](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# World Class Lawyer: Answer like The Top Lawyer would 
+[![World Class Lawyer: Answer like The Top Lawyer would](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RbTF89BFenI-iB1jZRQ8y%22%2C%22flow%22%3Atrue%7D%7D)
+# World Class Lawyer: Answer like The Top Lawyer would | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RbTF89BFenI-iB1jZRQ8y%22%2C%22flow%22%3Atrue%7D%7D)
 Say anything like a lawyer. Enter subject or sentence and have GPT translate it into how a world class, expensive, multi-case wining, ruthless, right as rain, intelligent, best of the best lawyer would say it!
 
 Chock the receiver and slam them with high end paragraph language that will make them think you actually have a lawyer on your payroll ;)

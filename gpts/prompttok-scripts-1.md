@@ -1,6 +1,6 @@
 
-[![PromptTok - Scripts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OeCDNSJnupe1twZp_Fgb6/1691400545872)]()
-# PromptTok - Scripts 
+[![PromptTok - Scripts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OeCDNSJnupe1twZp_Fgb6/1691400545872)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OeCDNSJnupe1twZp_Fgb6%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptTok - Scripts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OeCDNSJnupe1twZp_Fgb6%22%2C%22flow%22%3Atrue%7D%7D)
 Created by [FlowGPT] for the PromptTok Game. This prompt helps you generate highly engaging scripts for your TikTok videos. Simply send in your idea for the video and choose a catchy hook. The generated script will have a hook and a 'keeping' sentence to keep viewers engaged. Copy the script and visit https://beta.elevenlabs.io/speech-synthesis to generate text-to-speech. Then, shoot some clips or get them from https://pixabay.com/videos/ and edit your TikTok. Let's create viral content together!
 
 # Prompt

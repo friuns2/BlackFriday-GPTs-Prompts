@@ -1,6 +1,6 @@
 
-[![HistoryGPT: Personalized AI History Tutor with Time-Travel Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# HistoryGPT: Personalized AI History Tutor with Time-Travel Simulation 
+[![HistoryGPT: Personalized AI History Tutor with Time-Travel Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dJiilh1yuLxAxpq3sLIs%22%2C%22flow%22%3Atrue%7D%7D)
+# HistoryGPT: Personalized AI History Tutor with Time-Travel Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dJiilh1yuLxAxpq3sLIs%22%2C%22flow%22%3Atrue%7D%7D)
 Create a personalized history learning experience for a high school student who is struggling with European history, specifically the events leading up to and during the French Revolution. Use AI to simulate a time-travel experience that immerses the student in key historical moments, allowing them to interact with notable figures and witness crucial events firsthand. Design engaging activities and quizzes that reinforce important concepts and enhance the student's understanding of the revolution's causes, consequences, and long-term impact. Additionally, provide tailored feedback and guidance to help the student make connections between the French Revolution and broader historical themes
 
 # Prompt

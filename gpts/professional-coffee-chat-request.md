@@ -1,6 +1,6 @@
 
-[![Professional Coffee Chat Request](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Professional Coffee Chat Request 
+[![Professional Coffee Chat Request](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oHvlJvkc2q7PiAo-pbMBM%22%2C%22flow%22%3Atrue%7D%7D)
+# Professional Coffee Chat Request | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oHvlJvkc2q7PiAo-pbMBM%22%2C%22flow%22%3Atrue%7D%7D)
 Write a concise email to requesting a coffee chat based on your purpose and the recipient's information
 
 # Prompt

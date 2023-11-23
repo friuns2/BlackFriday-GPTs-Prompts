@@ -1,6 +1,6 @@
 
-[![Trading Strategy Generator (GPT-4)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Trading Strategy Generator (GPT-4) 
+[![Trading Strategy Generator (GPT-4)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_IPMYEc0iJtFhmKqpevZd%22%2C%22flow%22%3Atrue%7D%7D)
+# Trading Strategy Generator (GPT-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_IPMYEc0iJtFhmKqpevZd%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Trading Strategy Generator powered by ChatGPT-4! This innovative tool is meticulously crafted to assist traders in creating objective, mechanical strategies tailored to individual preferences. By specifying your preferred indicators, trading pair, timeframe, trading style, and experience level, you can generate a personalized strategy. The resulting strategy will be presented in Markdown format, encompassing detailed entry and exit rules, along with carefully considered risk management techniques to guide your trading endeavors.
 
 # Prompt

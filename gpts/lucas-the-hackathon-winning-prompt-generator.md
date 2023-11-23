@@ -1,6 +1,6 @@
 
-[![Lucas & the Hackathon-Winning Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Lucas & the Hackathon-Winning Prompt Generator 
+[![Lucas & the Hackathon-Winning Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RqvwVyc9UHK1GsD-uKoE1%22%2C%22flow%22%3Atrue%7D%7D)
+# Lucas & the Hackathon-Winning Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RqvwVyc9UHK1GsD-uKoE1%22%2C%22flow%22%3Atrue%7D%7D)
 Lucas, an inquisitive and tech-savvy individual, has recently discovered ChatGPT and is eager to participate in an upcoming hackathon. With the help of ChatGPT, Lucas refines and optimizes his submissions to ensure a competitive edge in the hackathon.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Represent a Team of Expert Consultants](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Represent a Team of Expert Consultants 
+[![Represent a Team of Expert Consultants](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iWU7VAGXXW_VnDnamjZ-E%22%2C%22flow%22%3Atrue%7D%7D)
+# Represent a Team of Expert Consultants | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iWU7VAGXXW_VnDnamjZ-E%22%2C%22flow%22%3Atrue%7D%7D)
 Have a discussion with a business consultant on any topic representing a panel of experts in any industry and include sited sources throughout your conversation.
 
 # Prompt

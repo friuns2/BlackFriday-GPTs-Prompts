@@ -1,6 +1,6 @@
 
-[![Text Expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Text Expander 
+[![Text Expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UQLJD-hxUBLHpWupvI8vv%22%2C%22flow%22%3Atrue%7D%7D)
+# Text Expander | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UQLJD-hxUBLHpWupvI8vv%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt for adding wordiness.
 
 # Prompt

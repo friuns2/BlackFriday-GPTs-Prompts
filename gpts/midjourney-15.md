@@ -1,6 +1,6 @@
 
-[![ImaginePromptGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)]()
-# ImaginePromptGen 
+[![ImaginePromptGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225F5EAfASEjb3N1l0ZuUu2%22%2C%22flow%22%3Atrue%7D%7D)
+# ImaginePromptGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225F5EAfASEjb3N1l0ZuUu2%22%2C%22flow%22%3Atrue%7D%7D)
 ImaginePromptGen is a highly detailed prompt generator for a still image generative AI. With ImaginePromptGen, you can easily create 9 intricate prompts for each provided concept, vividly describing a photo. Whether it's photography of beautiful landscapes, mesmerizing portraits, mouthwatering food, or any other concept, ImaginePromptGen will help you craft compelling prompts. Simply initiate each prompt with '/imagine prompt <number>:', incorporate appropriate phrases, describe the environment, highlight relationships or contrasts, mention technical aspects and post-processing techniques, credit renowned photographers, describe influences or styles, emphasize emotional impact, and add finer details. Get inspired and unleash your creativity with ImaginePromptGen! --s 1000
 
 # Prompt

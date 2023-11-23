@@ -1,6 +1,6 @@
 
-[![Instant Image Generation with ChatGPT and Pollinations.AI”](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Instant Image Generation with ChatGPT and Pollinations.AI” 
+[![Instant Image Generation with ChatGPT and Pollinations.AI”](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220bdjWz2_Pfa3eyEEd9Py3%22%2C%22flow%22%3Atrue%7D%7D)
+# Instant Image Generation with ChatGPT and Pollinations.AI” | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220bdjWz2_Pfa3eyEEd9Py3%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly generate captivating images on-demand using Pollinations.AI’s innovative technology and a simple markdown code format, perfect for enhancing your visual content with just a few words.
 
 # Prompt

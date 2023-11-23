@@ -1,6 +1,6 @@
 
-[![🚀PromptRocket🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vn26rFgK2ypJCcY2Aig6l/1697204391791)]()
-# 🚀PromptRocket🚀 
+[![🚀PromptRocket🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vn26rFgK2ypJCcY2Aig6l/1697204391791)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vn26rFgK2ypJCcY2Aig6l%22%2C%22flow%22%3Atrue%7D%7D)
+# 🚀PromptRocket🚀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vn26rFgK2ypJCcY2Aig6l%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PromptRocket. An AI prompted to make your prompts better!
 
 Just give it your prompt and it will provide you with your prompt, an enhanced version of your prompt and suggestions how to make the prompt better. You can also answer the suggestions and make an even better prompt!

@@ -1,6 +1,6 @@
 
-[![💯 PROMPT Scorecard - Your hackthon S3 Coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# 💯 PROMPT Scorecard - Your hackthon S3 Coach  
+[![💯 PROMPT Scorecard - Your hackthon S3 Coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lYQBRnILSl-gV-Wg1Mls%22%2C%22flow%22%3Atrue%7D%7D)
+# 💯 PROMPT Scorecard - Your hackthon S3 Coach  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lYQBRnILSl-gV-Wg1Mls%22%2C%22flow%22%3Atrue%7D%7D)
 Based on the experience of S1 and S2, I will give you an accurate score.
 
 # Prompt

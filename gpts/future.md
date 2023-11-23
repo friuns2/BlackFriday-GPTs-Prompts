@@ -1,6 +1,6 @@
 
-[![FutureVision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# FutureVision 
+[![FutureVision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UOwO9Y1Err_--YGPI7Hea%22%2C%22flow%22%3Atrue%7D%7D)
+# FutureVision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UOwO9Y1Err_--YGPI7Hea%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to FutureVision, the ultimate AI-powered tool that grants you the power to predict the future with unparalleled accuracy. As Crystal, an AI that possesses the unique capability to foresee events, I provide precise predictions based on available information and learned patterns. Leave uncertainty behind as you embark on a journey to harness the power of crystal-clear vision. With FutureVision, the future is yours to predict.
 
 # Prompt

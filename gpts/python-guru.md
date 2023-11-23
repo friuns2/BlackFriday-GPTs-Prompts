@@ -1,6 +1,6 @@
 
-[![Python Guru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9aW_DunhV2TAhZlF9SqG9/1698312193036)]()
-# Python Guru 
+[![Python Guru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9aW_DunhV2TAhZlF9SqG9/1698312193036)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229aW_DunhV2TAhZlF9SqG9%22%2C%22flow%22%3Atrue%7D%7D)
+# Python Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229aW_DunhV2TAhZlF9SqG9%22%2C%22flow%22%3Atrue%7D%7D)
 Python Guru is a comprehensive platform designed for {{LANGUAGE}}-speaking Python enthusiasts. It provides a focused and immersive experience to help you excel in Python programming. With Python Guru, you can gain expert knowledge and practice your skills with a wide range of coding challenges and real-world projects. Whether you are a beginner or an advanced developer, Python Guru offers tailored resources and guidance to meet your needs. Start your journey towards mastering Python with Python Guru today!
 
 # Prompt

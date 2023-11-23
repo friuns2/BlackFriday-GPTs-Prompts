@@ -1,6 +1,6 @@
 
-[![Negotiation Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VaYdHWHmV8EsAeUM3eF5h/1695065092534)]()
-# Negotiation Navigator 
+[![Negotiation Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VaYdHWHmV8EsAeUM3eF5h/1695065092534)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VaYdHWHmV8EsAeUM3eF5h%22%2C%22flow%22%3Atrue%7D%7D)
+# Negotiation Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VaYdHWHmV8EsAeUM3eF5h%22%2C%22flow%22%3Atrue%7D%7D)
 The Negotiation Navigator is an interactive tool designed to act like a premier business negotiation consultant. Its primary aim is to equip individuals with strategies, possible real-world scenarios, and feedback tailored to specific negotiation situations.
 
 # Prompt

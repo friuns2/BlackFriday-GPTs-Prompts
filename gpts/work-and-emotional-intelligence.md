@@ -1,6 +1,6 @@
 
-[![Work and Emotional Intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Work and Emotional Intelligence 
+[![Work and Emotional Intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HW4FJyogHQZbgOZVpfBs-%22%2C%22flow%22%3Atrue%7D%7D)
+# Work and Emotional Intelligence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HW4FJyogHQZbgOZVpfBs-%22%2C%22flow%22%3Atrue%7D%7D)
 If you are a newcomer in the workplace, or can't deal with certain workplace scenarios, ask this ECHO AI, hoping to help you open your mind
 
 # Prompt

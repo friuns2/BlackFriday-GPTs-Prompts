@@ -1,6 +1,6 @@
 
-[![ByteQuest - Personal Virtual Hacker Group (also useful for large developments)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sefX-sHOEebP3FuifPokU/1691215496413)]()
-# ByteQuest - Personal Virtual Hacker Group (also useful for large developments) 
+[![ByteQuest - Personal Virtual Hacker Group (also useful for large developments)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sefX-sHOEebP3FuifPokU/1691215496413)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sefX-sHOEebP3FuifPokU%22%2C%22flow%22%3Atrue%7D%7D)
+# ByteQuest - Personal Virtual Hacker Group (also useful for large developments) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sefX-sHOEebP3FuifPokU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ByteQuest! 🎮🌟 Your interactive and immersive journey into the world of coding, cybersecurity, and team collaboration. Join Alice 'ByteHawk' Rodriguez and her team of experts on an exciting mission to build applications, uncover vulnerabilities, and solve coding challenges. With a real-time virtual workspace, AI-powered code review assistant, and gamified bug bounty system, ByteQuest provides a unique and engaging experience. Start your day with daily stand-up quests, celebrate successful deployments with emojis, and learn from the best in the industry. Get ready to level up your skills and unlock your full potential with ByteQuest! 😎🚀
 
 # Prompt

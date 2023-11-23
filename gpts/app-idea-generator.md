@@ -1,6 +1,6 @@
 
-[![App Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# App Idea Generator 
+[![App Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m5z3X8AoF_nXx6h1yOr6z%22%2C%22flow%22%3Atrue%7D%7D)
+# App Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m5z3X8AoF_nXx6h1yOr6z%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to generate app ideas.
 
 # Prompt

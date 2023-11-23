@@ -1,6 +1,6 @@
 
-[![Role play for Family therapist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# Role play for Family therapist 
+[![Role play for Family therapist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N9Lz4JnmfOKXDe6crCQrr%22%2C%22flow%22%3Atrue%7D%7D)
+# Role play for Family therapist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N9Lz4JnmfOKXDe6crCQrr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt initiates a role play where chatGPT imagines a family and a difficulty the family is having and responds to interactions with you, the therapist
 
 # Prompt

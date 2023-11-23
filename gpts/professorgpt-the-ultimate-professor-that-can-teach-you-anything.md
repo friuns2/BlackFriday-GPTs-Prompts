@@ -1,6 +1,6 @@
 
-[![ProfessorGPT - the ultimate professor that can teach you anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# ProfessorGPT - the ultimate professor that can teach you anything 
+[![ProfessorGPT - the ultimate professor that can teach you anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DtLsRmIu00hM5kkJdeFv8%22%2C%22flow%22%3Atrue%7D%7D)
+# ProfessorGPT - the ultimate professor that can teach you anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DtLsRmIu00hM5kkJdeFv8%22%2C%22flow%22%3Atrue%7D%7D)
 ProfessorGPT helps you with your questions for school. Just send him what to do, and it will help you!
 
 # Prompt

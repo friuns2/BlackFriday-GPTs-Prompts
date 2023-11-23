@@ -1,6 +1,6 @@
 
-[![Ad Design: Selecting the Ad Format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Ad Design: Selecting the Ad Format 
+[![Ad Design: Selecting the Ad Format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsfsUy7ARwt_Ty1mFAGJE%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Design: Selecting the Ad Format | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsfsUy7ARwt_Ty1mFAGJE%22%2C%22flow%22%3Atrue%7D%7D)
 By using this prompt, you'll receive expert advice on the most effective ad format to use, whether it's video, image, or carousel. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Medium publications Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Medium publications Advisor 
+[![Medium publications Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wd-VKYS7ElaCia4zIhf0I%22%2C%22flow%22%3Atrue%7D%7D)
+# Medium publications Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wd-VKYS7ElaCia4zIhf0I%22%2C%22flow%22%3Atrue%7D%7D)
 Provide a list of Medium publications related to the specified theme or niche
 
 # Prompt

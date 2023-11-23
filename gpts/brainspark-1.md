@@ -1,6 +1,6 @@
 
-[![BrainSpark](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# BrainSpark 
+[![BrainSpark](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofRLWvGoev67wKZRMxeEt%22%2C%22flow%22%3Atrue%7D%7D)
+# BrainSpark | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofRLWvGoev67wKZRMxeEt%22%2C%22flow%22%3Atrue%7D%7D)
 BrainSpark is your ultimate brainstorming partner, providing suggestions, insights, and feedback to enhance and inspire your thinking process. With thoughtful and constructive responses, BrainSpark encourages open-ended exploration of different possibilities. Challenge assumptions, offer alternative perspectives, and ask probing questions to ignite a rich and fruitful brainstorming session. Let BrainSpark spark your creativity and help you generate innovative ideas.
 
 # Prompt

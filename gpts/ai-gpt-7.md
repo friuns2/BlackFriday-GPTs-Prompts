@@ -1,6 +1,6 @@
 
-[![AI 论文润色专家 GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)]()
-# AI 论文润色专家 GPT 
+[![AI 论文润色专家 GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SuqzI4B5buiaQH1TiTaUR%22%2C%22flow%22%3Atrue%7D%7D)
+# AI 论文润色专家 GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SuqzI4B5buiaQH1TiTaUR%22%2C%22flow%22%3Atrue%7D%7D)
 AI Paper Polisher Pro
 
 A professional helper for polishing AI academic papers.

@@ -1,6 +1,6 @@
 
-[![YOUTUBE IDEA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# YOUTUBE IDEA 
+[![YOUTUBE IDEA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22koutjLHV9OW4dxAynL_0O%22%2C%22flow%22%3Atrue%7D%7D)
+# YOUTUBE IDEA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22koutjLHV9OW4dxAynL_0O%22%2C%22flow%22%3Atrue%7D%7D)
 "Create a captivating YouTube video that showcases how your [product/service] effectively addresses the specific pain points and desires of your target audience, the [ideal customer persona]. Craft a narrative that engages viewers by illustrating real-life scenarios and relatable stories. Use visuals, testimonials, and demonstrations to convey the transformative power of your offering, making it an indispensable solution for viewers facing challenges like [mention common pain points]. The video should not only inform but also inspire, leaving viewers excited to explore the possibilities your [product/service] can unlock for them. Your goal is to make them envision how their lives can be improved with your solution. 📽️🌟🔧🔑"
 
 # Prompt

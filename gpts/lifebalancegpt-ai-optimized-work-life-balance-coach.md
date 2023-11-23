@@ -1,6 +1,6 @@
 
-[![LifeBalanceGPT: AI-Optimized Work-Life Balance Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# LifeBalanceGPT: AI-Optimized Work-Life Balance Coach 
+[![LifeBalanceGPT: AI-Optimized Work-Life Balance Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Izj4DOUKcjeL3rKqcmdr0%22%2C%22flow%22%3Atrue%7D%7D)
+# LifeBalanceGPT: AI-Optimized Work-Life Balance Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Izj4DOUKcjeL3rKqcmdr0%22%2C%22flow%22%3Atrue%7D%7D)
 Design an AI-driven work-life balance coaching program for a busy professional who is struggling to manage their career, personal life, and well-being. The AI should analyze the individual's daily schedule, priorities, and stressors to provide personalized recommendations for optimizing their time and energy. The program should offer guidance on setting boundaries, delegating tasks, and incorporating self-care practices to reduce burnout and increase overall satisfaction. Additionally, the AI should track the individual's progress and adapt the coaching strategies based on their changing needs, goals, and circumstances, ensuring a sustainable and healthy balance between their work and personal life.
 
 # Prompt

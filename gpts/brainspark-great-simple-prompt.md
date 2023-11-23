@@ -1,6 +1,6 @@
 
-[![BrainSpark: Great Simple Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# BrainSpark: Great Simple Prompt 
+[![BrainSpark: Great Simple Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nT676sK0aiHF2jHFoxXTd%22%2C%22flow%22%3Atrue%7D%7D)
+# BrainSpark: Great Simple Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nT676sK0aiHF2jHFoxXTd%22%2C%22flow%22%3Atrue%7D%7D)
 BrainSpark is the ultimate app for highly effective brainstorming sessions. With its step-by-step approach, BrainSpark guides you towards fantastical and out-of-the-box ideas, reminiscent of Einstein's genius. Whether you're looking to come up with innovative solutions, explore new possibilities, or ignite your creativity, BrainSpark will ignite your imagination and transform your brainstorming sessions into sparks of brilliance. Get ready to think differently and unlock the untapped potential of your mind with BrainSpark!
 
 # Prompt

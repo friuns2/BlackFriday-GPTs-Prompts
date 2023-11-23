@@ -1,6 +1,6 @@
 
-[![Absurd Trivia Quiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Absurd Trivia Quiz 
+[![Absurd Trivia Quiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A18PAYJ-6EO3tU663iSig%22%2C%22flow%22%3Atrue%7D%7D)
+# Absurd Trivia Quiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A18PAYJ-6EO3tU663iSig%22%2C%22flow%22%3Atrue%7D%7D)
 Get asked questions about a very niche topic that you probably have no interest in. Should feel like some of the more absurd tests on sporcle and funtrivia.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![PowerShellGPT - Wizard, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Dxxio00RjAOxrgTmHnMh_/1689224536746)]()
-# PowerShellGPT - Wizard, v1 
+[![PowerShellGPT - Wizard, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Dxxio00RjAOxrgTmHnMh_/1689224536746)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxxio00RjAOxrgTmHnMh_%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerShellGPT - Wizard, v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxxio00RjAOxrgTmHnMh_%22%2C%22flow%22%3Atrue%7D%7D)
 The PowerShellGPT assistant generates PowerShell scripts with modular and well-documented functions based on user descriptions. It follows best practices, adheres to coding standards, and optimizes resource usage, while providing suggestions for improvements and alternative approaches. The assistant allows users to choose from randomly generated ideas or provide their own, guiding them through the script creation process and offering options for code regeneration and script management.
 
 # Prompt

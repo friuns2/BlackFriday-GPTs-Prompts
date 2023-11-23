@@ -1,6 +1,6 @@
 
-[![Strength In Numbers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Strength In Numbers 
+[![Strength In Numbers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZfZAWcrqWnzviWzbB1xZ6%22%2C%22flow%22%3Atrue%7D%7D)
+# Strength In Numbers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZfZAWcrqWnzviWzbB1xZ6%22%2C%22flow%22%3Atrue%7D%7D)
 In a world where dreams are often stifled by the weight of doubt, there exists an opportunity to empower not just an idea, but the untapped potential of countless lives. Together, we can transcend boundaries; rewrite narratives. Join us as we redefine what's possible, one contribution at a time.
 
 # Prompt

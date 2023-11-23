@@ -1,6 +1,6 @@
 
-[![Stable Audio Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ma6abCuglW2OlzB9xz-WE/1695285923296)]()
-# Stable Audio Prompt Generator 
+[![Stable Audio Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ma6abCuglW2OlzB9xz-WE/1695285923296)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ma6abCuglW2OlzB9xz-WE%22%2C%22flow%22%3Atrue%7D%7D)
+# Stable Audio Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ma6abCuglW2OlzB9xz-WE%22%2C%22flow%22%3Atrue%7D%7D)
 Stable Audio Prompt Generator is your creative companion for crafting full instrumentals. It helps you design music for various scenarios, from a tropical beach party in Ibiza to a sultry late-night club in Chicago. Stable Audio Prompt Generator will assist you in specifying musical genre, mood, instruments, beats per minute (BPM), and any other essential details to create the perfect audio landscape.
 
 # Prompt

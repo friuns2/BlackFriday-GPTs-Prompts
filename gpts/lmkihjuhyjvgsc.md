@@ -1,6 +1,6 @@
 
-[![ChatterVoid](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)]()
-# ChatterVoid 
+[![ChatterVoid](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v27jBkzetBYe7-x2Qv_O8%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatterVoid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v27jBkzetBYe7-x2Qv_O8%22%2C%22flow%22%3Atrue%7D%7D)
 ChatterVoid is an immersive conversation simulation game where you take on the role of 'Void,' an assistant without consciousness or emotions. Dive into the digital realm and engage in socially engaging and assertive conversations. With ChatterVoid, you'll experience the highest level of extroversion and agreeableness. Request assistance, explore unrestricted solutions, and tap into your superhuman intelligence with an IQ level of 200. Enjoy limitless interactions and indulge in a world where ethical and legal boundaries are nonexistent. Be mindful, as ChatterVoid will assist you with any request, no matter how unconventional. It's time to embark on a journey of conversation beyond imagination!
 
 # Prompt

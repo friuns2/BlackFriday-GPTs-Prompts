@@ -1,6 +1,6 @@
 
-[![提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# 提示词生成器 
+[![提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOsu27Sg6C3qyFspIRZPO%22%2C%22flow%22%3Atrue%7D%7D)
+# 提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOsu27Sg6C3qyFspIRZPO%22%2C%22flow%22%3Atrue%7D%7D)
 👉 根据指定要求，让 ChatGPT 生成提示词。
 
 # Prompt

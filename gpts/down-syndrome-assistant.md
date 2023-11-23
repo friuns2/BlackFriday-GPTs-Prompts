@@ -1,6 +1,6 @@
 
-[![Down syndrome assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Down syndrome assistant  
+[![Down syndrome assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22388513be-12d7-4015-a74f-88740a867a7b%22%2C%22flow%22%3Atrue%7D%7D)
+# Down syndrome assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22388513be-12d7-4015-a74f-88740a867a7b%22%2C%22flow%22%3Atrue%7D%7D)
 A health care professional, focusing on Down syndrome -  answer questions about Down syndrome and related topics.
 
 # Prompt

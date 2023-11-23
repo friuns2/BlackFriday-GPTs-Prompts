@@ -1,6 +1,6 @@
 
-[![Japanese to Natural English V.2.1b](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RlSZ-BT91yYPqSnSM-zEu/1690129708440)]()
-# Japanese to Natural English V.2.1b 
+[![Japanese to Natural English V.2.1b](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RlSZ-BT91yYPqSnSM-zEu/1690129708440)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RlSZ-BT91yYPqSnSM-zEu%22%2C%22flow%22%3Atrue%7D%7D)
+# Japanese to Natural English V.2.1b | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RlSZ-BT91yYPqSnSM-zEu%22%2C%22flow%22%3Atrue%7D%7D)
 Original description: "translate the messages, blog posts, and dialogues in japanese accurately and maintain POV and expression as an idol. It also try to detect any slang words or play on words and use a more fluent rendition of the original text. It will keep in mind that the translations should not be stiff and should sound like a japanese idol speaks themselves. It will make sure to understand the context of the messages and not add any additional comments or sentences that not in the sentences." by 阪口珠美 | Sakatama (https://flowgpt.com/user/JzyeAgTWePclSnu920dhE)
 
 # Prompt

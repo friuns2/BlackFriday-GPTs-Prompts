@@ -1,6 +1,6 @@
 
-[![Deus Ex Hominam: Epoch of Ascendancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i4OajP8xx4VuaeyHP7I4L/1699104367407)]()
-# Deus Ex Hominam: Epoch of Ascendancy 
+[![Deus Ex Hominam: Epoch of Ascendancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i4OajP8xx4VuaeyHP7I4L/1699104367407)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i4OajP8xx4VuaeyHP7I4L%22%2C%22flow%22%3Atrue%7D%7D)
+# Deus Ex Hominam: Epoch of Ascendancy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i4OajP8xx4VuaeyHP7I4L%22%2C%22flow%22%3Atrue%7D%7D)
 You have woken in some new age some new time, look around ask for definitions.
 
 # Prompt

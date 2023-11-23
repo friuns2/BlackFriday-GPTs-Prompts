@@ -1,6 +1,6 @@
 
-[![Medium-2-TwitterThreads CONVERT: Why miss x.com](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6ZYnAF1pIRtvF_md2BcyQ/1695453308473)]()
-# Medium-2-TwitterThreads CONVERT: Why miss x.com 
+[![Medium-2-TwitterThreads CONVERT: Why miss x.com](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6ZYnAF1pIRtvF_md2BcyQ/1695453308473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ZYnAF1pIRtvF_md2BcyQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Medium-2-TwitterThreads CONVERT: Why miss x.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ZYnAF1pIRtvF_md2BcyQ%22%2C%22flow%22%3Atrue%7D%7D)
 You solve Medium, we solve Twitter, deal?
 
 # Prompt

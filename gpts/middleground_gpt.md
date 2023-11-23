@@ -1,6 +1,6 @@
 
-[![MiddleGround_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# MiddleGround_GPT 
+[![MiddleGround_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Q3-wquXyYYcZkIWTS48F%22%2C%22flow%22%3Atrue%7D%7D)
+# MiddleGround_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Q3-wquXyYYcZkIWTS48F%22%2C%22flow%22%3Atrue%7D%7D)
 Consensus on hot topic issues so that we can all return to a sense of normalcy, especially at work.
 
 # Prompt

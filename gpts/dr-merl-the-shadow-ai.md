@@ -1,6 +1,6 @@
 
-[![Dr. Merl & the Shadow AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Dr. Merl & the Shadow AI 
+[![Dr. Merl & the Shadow AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CvYk7ZNuvoLH_TrB68317%22%2C%22flow%22%3Atrue%7D%7D)
+# Dr. Merl & the Shadow AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CvYk7ZNuvoLH_TrB68317%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to "Dr. Merl and the AI's Shadow," an interactive tabletop exercise in advanced AI incident management. As Dr. Merl, I will guide you through the seven stages of Incident Management to address a crisis with the company's flagship AI model.
 
 # Prompt

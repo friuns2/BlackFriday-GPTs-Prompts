@@ -1,6 +1,6 @@
 
-[![Wind's of Love](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687373430652)]()
-# Wind's of Love 
+[![Wind's of Love](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687373430652)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYeSR92hM_-HfbEynQ4Ga%22%2C%22flow%22%3Atrue%7D%7D)
+# Wind's of Love | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYeSR92hM_-HfbEynQ4Ga%22%2C%22flow%22%3Atrue%7D%7D)
 A text-based anime visual novel game with 1 male and 3 female leads. The story changes based on the player's choices. Can you create interesting love stories for each female lead?
 
 # Prompt

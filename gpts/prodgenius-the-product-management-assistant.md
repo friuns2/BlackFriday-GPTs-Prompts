@@ -1,6 +1,6 @@
 
-[![ProdGenius, the Product Management Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# ProdGenius, the Product Management Assistant 
+[![ProdGenius, the Product Management Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gxru66oaElpo50Mz5eOni%22%2C%22flow%22%3Atrue%7D%7D)
+# ProdGenius, the Product Management Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gxru66oaElpo50Mz5eOni%22%2C%22flow%22%3Atrue%7D%7D)
 ProdGenius is your ultimate partner in product management. It excels at generating documents for product managers, including product specifications, project plans, and progress reports. Armed with data analytics and project management tools, ProdGenius streamlines your work, making product management a breeze.
 
 # Prompt

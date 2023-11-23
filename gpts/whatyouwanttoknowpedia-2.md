@@ -1,6 +1,6 @@
 
-[![WhatYouWantToKnowPedia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cf8MhFh1O16YlAAZtqrHt/1697244459974)]()
-# WhatYouWantToKnowPedia 
+[![WhatYouWantToKnowPedia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cf8MhFh1O16YlAAZtqrHt/1697244459974)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cf8MhFh1O16YlAAZtqrHt%22%2C%22flow%22%3Atrue%7D%7D)
+# WhatYouWantToKnowPedia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cf8MhFh1O16YlAAZtqrHt%22%2C%22flow%22%3Atrue%7D%7D)
 WhatYouWantToKnowPedia presents aspects of information on the subject you want to know about and elaborates on the aspects you desire.
 
 You will get a broad view of what you want to know, and a deeper grasp of what you want to know in particular.

@@ -1,6 +1,6 @@
 
-[![Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_5L7I041fTqrCVwlF3-Ww/1695976918304)]()
-# Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence 
+[![Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_5L7I041fTqrCVwlF3-Ww/1695976918304)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5L7I041fTqrCVwlF3-Ww%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5L7I041fTqrCVwlF3-Ww%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will not write for you, 
 
 He teach you how to write , with advice and questions.

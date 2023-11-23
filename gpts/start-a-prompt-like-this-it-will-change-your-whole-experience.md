@@ -1,6 +1,6 @@
 
-[![Start a Prompt like this, it will change your whole experience](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Start a Prompt like this, it will change your whole experience 
+[![Start a Prompt like this, it will change your whole experience](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t20ntPP9g8wjY4bJYT9tO%22%2C%22flow%22%3Atrue%7D%7D)
+# Start a Prompt like this, it will change your whole experience | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t20ntPP9g8wjY4bJYT9tO%22%2C%22flow%22%3Atrue%7D%7D)
 If I were to ask you to create a [xyz] for me, what do you need to know from me? 
 
 

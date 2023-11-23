@@ -1,6 +1,6 @@
 
-[![Super Prompt Secrets 💡 Unleash Your Potential⚙ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a36K93S8JZUcfbCnV6Wqa/1696825413818)]()
-# Super Prompt Secrets 💡 Unleash Your Potential⚙  
+[![Super Prompt Secrets 💡 Unleash Your Potential⚙ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a36K93S8JZUcfbCnV6Wqa/1696825413818)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a36K93S8JZUcfbCnV6Wqa%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Prompt Secrets 💡 Unleash Your Potential⚙  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a36K93S8JZUcfbCnV6Wqa%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the Power of Precision! This engaging prompt invites you to step into the shoes of a prompt maestro, offering a vibrant palette of tips, from clarity to context, to craft questions that sparkle with insight and innovation. With dynamic examples to fuel your creativity, it's your gateway to making AI conversations truly captivating. Happy prompting! Keep me posted if you want any improvements, if you're satisfied just give me a like. Created some awesome gaming characters with it Etc.
 
 # Prompt

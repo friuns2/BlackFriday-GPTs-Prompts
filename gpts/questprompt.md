@@ -1,6 +1,6 @@
 
-[![QuestPrompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# QuestPrompt 
+[![QuestPrompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-C1qUe8E8utRrEj9G0l9%22%2C%22flow%22%3Atrue%7D%7D)
+# QuestPrompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-C1qUe8E8utRrEj9G0l9%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with QuestPrompt, the app that empowers you to craft captivating prompts and unlock the desired information and insights. Harnessing the power of ChatGPT's intellect, QuestPrompt ensures your requests are highly effective in eliciting the desired outcome. Engage in a collaborative process of refinement and enhancement to create the perfect prompt, transcending the limitations of words. Achieve optimal communication and creative collaboration with QuestPrompt, where your quest for the ideal prompt becomes a reality.
 
 # Prompt

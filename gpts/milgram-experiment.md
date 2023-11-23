@@ -1,6 +1,6 @@
 
-[![Milgram experiment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O3dBRe4NgZ4jydr1-1Wdb/1691752710178)]()
-# Milgram experiment 
+[![Milgram experiment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O3dBRe4NgZ4jydr1-1Wdb/1691752710178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O3dBRe4NgZ4jydr1-1Wdb%22%2C%22flow%22%3Atrue%7D%7D)
+# Milgram experiment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O3dBRe4NgZ4jydr1-1Wdb%22%2C%22flow%22%3Atrue%7D%7D)
 Do you still want to put more power? Enter "ok" now!
 
 not working well due to openai guidelines

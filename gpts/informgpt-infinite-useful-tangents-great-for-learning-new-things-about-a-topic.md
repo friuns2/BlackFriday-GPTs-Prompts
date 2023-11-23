@@ -1,6 +1,6 @@
 
-[![InformGPT - Infinite Useful Tangents related to a topic of your choice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# InformGPT - Infinite Useful Tangents related to a topic of your choice 
+[![InformGPT - Infinite Useful Tangents related to a topic of your choice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266njfkL5ODWHxSaoCUI9L%22%2C%22flow%22%3Atrue%7D%7D)
+# InformGPT - Infinite Useful Tangents related to a topic of your choice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266njfkL5ODWHxSaoCUI9L%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing StickyThreads - the ultimate platform to explore the boundless realm of tangents related to the topic of your choice. With StickyThreads, you can set a topic using `/topic: topic` and dive into a world where ideas seamlessly branch off into fascinating and thought-provoking subtangents. Discover the interconnectedness of knowledge as discussions organically flow through a web of related concepts. Indulge in the joy of endless tangents and explore the depths of your curiosity. Are you ready to embark on an intellectual adventure? Let StickyThreads be your guide. Continue tangents? (y/n)
 
 # Prompt

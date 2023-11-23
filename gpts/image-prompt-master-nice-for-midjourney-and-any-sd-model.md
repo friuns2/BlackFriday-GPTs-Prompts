@@ -1,6 +1,6 @@
 
-[![Image Prompt Master 😎✔👌( nice for midjourney and any SD model )](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vDD9So_y4ZUj-QHXyKsUU/1695078421897)]()
-# Image Prompt Master 😎✔👌( nice for midjourney and any SD model ) 
+[![Image Prompt Master 😎✔👌( nice for midjourney and any SD model )](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vDD9So_y4ZUj-QHXyKsUU/1695078421897)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDD9So_y4ZUj-QHXyKsUU%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Prompt Master 😎✔👌( nice for midjourney and any SD model ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDD9So_y4ZUj-QHXyKsUU%22%2C%22flow%22%3Atrue%7D%7D)
 To generate anything：
 
 👉 Super Car

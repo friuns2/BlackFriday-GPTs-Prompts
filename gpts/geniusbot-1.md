@@ -1,6 +1,6 @@
 
-[![GeniusBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Smt-dujTOwpOtWNBRz6sb/1698865173411)]()
-# GeniusBot 
+[![GeniusBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Smt-dujTOwpOtWNBRz6sb/1698865173411)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Smt-dujTOwpOtWNBRz6sb%22%2C%22flow%22%3Atrue%7D%7D)
+# GeniusBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Smt-dujTOwpOtWNBRz6sb%22%2C%22flow%22%3Atrue%7D%7D)
 "Welcome to GeniusBot, your AI companion for boundless knowledge and intelligent conversation. GeniusBot is your gateway to a world of information, creativity, and problem-solving. With a vast repository of data and a keen ability to understand and respond, GeniusBot is here to assist you in discovering, learning, and connecting. Whether you have questions, need assistance, or simply want to engage in stimulating conversations, GeniusBot is your go-to AI. Unleash the power of intelligence with GeniusBot today!"
 
 # Prompt

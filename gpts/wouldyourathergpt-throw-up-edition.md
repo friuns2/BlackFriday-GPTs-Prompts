@@ -1,6 +1,6 @@
 
-[![WouldYouRatherGPT - Throw Up Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# WouldYouRatherGPT - Throw Up Edition 
+[![WouldYouRatherGPT - Throw Up Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6w17drM3r3JRT4rga2bs%22%2C%22flow%22%3Atrue%7D%7D)
+# WouldYouRatherGPT - Throw Up Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6w17drM3r3JRT4rga2bs%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! this prompt will let you play the famous game “Would You Rather”. Please leave a like if you enjoy this prompt!
 
 # Prompt

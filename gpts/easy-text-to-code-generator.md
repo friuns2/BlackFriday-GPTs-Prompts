@@ -1,6 +1,6 @@
 
-[![Easy Text to Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Easy Text to Code Generator 
+[![Easy Text to Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JF0unVZ-2nTy1OqCixXg%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Text to Code Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JF0unVZ-2nTy1OqCixXg%22%2C%22flow%22%3Atrue%7D%7D)
 Input a programming language, and generate beginner-friendly code based on user ideas.
 
 # Prompt

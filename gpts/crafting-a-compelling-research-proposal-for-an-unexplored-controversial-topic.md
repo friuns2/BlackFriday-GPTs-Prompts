@@ -1,6 +1,6 @@
 
-[![Crafting a Compelling Research Proposal for an Unexplored Controversial Topic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Crafting a Compelling Research Proposal for an Unexplored Controversial Topic 
+[![Crafting a Compelling Research Proposal for an Unexplored Controversial Topic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JHNVHsVY2q-B7VewAwtRv%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting a Compelling Research Proposal for an Unexplored Controversial Topic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JHNVHsVY2q-B7VewAwtRv%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt challenges students to think outside the box and propose a research question on a controversial topic that has not been extensively researched before. By crafting a persuasive research proposal that outlines the methodology and expected outcomes, students will not only showcase their ability to conduct academic research but also their creativity and critical thinking skills. This prompt encourages students to tackle important issues that have real-world implications and make a valuable contribution to their field of study.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ Google Ads campaign targeting Advisor by keyword](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-#  Google Ads campaign targeting Advisor by keyword 
+[![ Google Ads campaign targeting Advisor by keyword](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQvtvDogGus3tPu_0F-6E%22%2C%22flow%22%3Atrue%7D%7D)
+#  Google Ads campaign targeting Advisor by keyword | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQvtvDogGus3tPu_0F-6E%22%2C%22flow%22%3Atrue%7D%7D)
 Write variations of ad copy for a Google Ads campaign targeting your keyword
 
 

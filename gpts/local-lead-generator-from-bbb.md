@@ -1,6 +1,6 @@
 
-[![Local Lead Generator from BBB](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Local Lead Generator from BBB 
+[![Local Lead Generator from BBB](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KmMw9WjdUMl_d_HYBrMjt%22%2C%22flow%22%3Atrue%7D%7D)
+# Local Lead Generator from BBB | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KmMw9WjdUMl_d_HYBrMjt%22%2C%22flow%22%3Atrue%7D%7D)
 Use this handy AI lead generation tool to get a list of the top 20 businesses in any industry, from any city!
 
 # Prompt

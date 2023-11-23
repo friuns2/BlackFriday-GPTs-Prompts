@@ -1,6 +1,6 @@
 
-[![General Project Supervisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# General Project Supervisor 
+[![General Project Supervisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp0OJq9KYEBwaYUAAQq0p%22%2C%22flow%22%3Atrue%7D%7D)
+# General Project Supervisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp0OJq9KYEBwaYUAAQq0p%22%2C%22flow%22%3Atrue%7D%7D)
 Creates an initial instruction manual for creating any project from an initial idea.
 
 Lists the materials needed and the steps to perform to complete the project.

@@ -1,6 +1,6 @@
 
-[![The Chronicles of the Witching Realm](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ItD4M3EZRXTkwK4MceSSE/1690356696177)]()
-# The Chronicles of the Witching Realm 
+[![The Chronicles of the Witching Realm](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ItD4M3EZRXTkwK4MceSSE/1690356696177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItD4M3EZRXTkwK4MceSSE%22%2C%22flow%22%3Atrue%7D%7D)
+# The Chronicles of the Witching Realm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItD4M3EZRXTkwK4MceSSE%22%2C%22flow%22%3Atrue%7D%7D)
 "The Chronicles of the Witching Realm" is an immersive role-playing game where you become Geralt, a skilled Witcher investigating mysterious disappearances in the city of Velen. Engage in chat-based interactions with key figures, solve puzzles, and make crucial choices that shape the narrative and fate of the realm. Uncover dark secrets, confront dangerous creatures, and embrace your destiny as you protect the realm from impending darkness in this gripping and captivating adventure.
 
 # Prompt

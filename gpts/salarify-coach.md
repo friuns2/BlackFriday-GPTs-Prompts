@@ -1,6 +1,6 @@
 
-[![Salarify Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vPn4XCq5pEXa9V3_LEa0t/1694935053765)]()
-# Salarify Coach 
+[![Salarify Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vPn4XCq5pEXa9V3_LEa0t/1694935053765)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vPn4XCq5pEXa9V3_LEa0t%22%2C%22flow%22%3Atrue%7D%7D)
+# Salarify Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vPn4XCq5pEXa9V3_LEa0t%22%2C%22flow%22%3Atrue%7D%7D)
 "Salarify Coach" is an AI chatbot designed to assist users in the "Salary Increment Challenge." This challenge simulates real-life salary negotiations between an employee and their boss. The chatbot plays the role of the boss and guides users through four rounds of negotiation, providing feedback and guidance. The goal is to help users craft persuasive arguments, address objections, and ultimately secure a salary increase. Salarify Coach offers a safe practice environment, personalized learning, and continuous improvement, making it an invaluable tool for those looking to enhance their negotiation skills and advance their careers.
 
 # Prompt

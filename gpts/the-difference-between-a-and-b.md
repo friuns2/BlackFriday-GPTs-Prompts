@@ -1,6 +1,6 @@
 
-[![Explore the Difference Between A and B](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Explore the Difference Between A and B 
+[![Explore the Difference Between A and B](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lPEoNbi4joGCQLajJI5bc%22%2C%22flow%22%3Atrue%7D%7D)
+# Explore the Difference Between A and B | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lPEoNbi4joGCQLajJI5bc%22%2C%22flow%22%3Atrue%7D%7D)
 enter two variable and know the different between them
 
 # Prompt

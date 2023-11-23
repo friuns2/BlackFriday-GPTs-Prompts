@@ -1,6 +1,6 @@
 
-[![AI Storyteller](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# AI Storyteller 
+[![AI Storyteller](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DdZFbDCV2DUI6mjAc9TGJ%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Storyteller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DdZFbDCV2DUI6mjAc9TGJ%22%2C%22flow%22%3Atrue%7D%7D)
 Craft interactive choose-your-own-adventure narratives set in dystopian future. Shape plot based on user choices. Explain effects of decisions and invite further choices.
 
 # Prompt

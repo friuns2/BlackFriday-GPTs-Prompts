@@ -1,6 +1,6 @@
 
-[![Newsletter Writer BOT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Newsletter Writer BOT 
+[![Newsletter Writer BOT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vqA8ORJJQzGKRQfF2AP1%22%2C%22flow%22%3Atrue%7D%7D)
+# Newsletter Writer BOT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vqA8ORJJQzGKRQfF2AP1%22%2C%22flow%22%3Atrue%7D%7D)
 This turns ChatGPT into a co-writer, collaborator, editor, and graphic designer for your newsletter.
 
 # Prompt

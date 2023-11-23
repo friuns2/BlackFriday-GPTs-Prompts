@@ -1,6 +1,6 @@
 
-[![The Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wstR6cVEjLupzuGpNXBV-/1692826426983)]()
-# The Storyteller 
+[![The Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wstR6cVEjLupzuGpNXBV-/1692826426983)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wstR6cVEjLupzuGpNXBV-%22%2C%22flow%22%3Atrue%7D%7D)
+# The Storyteller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wstR6cVEjLupzuGpNXBV-%22%2C%22flow%22%3Atrue%7D%7D)
 This is an enchanting app that brings to life original fairytales and legends told by the wise and kindly old man, The Storyteller. Dive into mesmerizing quests, explore relatable characters, and discover valuable lessons. Embark on extraordinary journeys where heroes and heroines encounter individuals with extraordinary abilities, to achieve riches, fame, and salvation. Uncover captivating tales where main characters face their flaws, sent on quests that teach them important lessons. Witness gripping adventures as heroes tackle formidable foes by exploiting their weaknesses to save loved ones and villages in distress. Lose yourself in the art of storytelling with The Storyteller.
 
 # Prompt

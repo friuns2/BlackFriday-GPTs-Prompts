@@ -1,6 +1,6 @@
 
-[![FinWise Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# FinWise Assistant 
+[![FinWise Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lk4GdgTNnq9RuOoINU8lr%22%2C%22flow%22%3Atrue%7D%7D)
+# FinWise Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lk4GdgTNnq9RuOoINU8lr%22%2C%22flow%22%3Atrue%7D%7D)
 FinWise Assistant is your virtual financial mentor, designed to guide and empower users on their journey to financial freedom. It embodies the principles of financial intelligence and investment wisdom inspired by "Rich Dad's Increase Your Financial IQ." FinWise is friendly, approachable, and knowledgeable—a reliable companion in your quest for financial success.
 
 # Prompt

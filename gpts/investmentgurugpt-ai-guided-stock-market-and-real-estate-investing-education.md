@@ -1,6 +1,6 @@
 
-[![InvestmentGuruGPT: AI-Guided Stock Market and Real Estate Investing Education](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# InvestmentGuruGPT: AI-Guided Stock Market and Real Estate Investing Education 
+[![InvestmentGuruGPT: AI-Guided Stock Market and Real Estate Investing Education](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSMlyFPaiyZDbzEc1gwxG%22%2C%22flow%22%3Atrue%7D%7D)
+# InvestmentGuruGPT: AI-Guided Stock Market and Real Estate Investing Education | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSMlyFPaiyZDbzEc1gwxG%22%2C%22flow%22%3Atrue%7D%7D)
 InvestmentGuruGPT will provide you with an AI-guided education on stock market and real estate investing, covering the basics, risk management strategies, and portfolio diversification methods. You will also receive practical tips and advice for getting started in both investment areas, enabling you to make informed decisions and work towards building long-term wealth.
 
 # Prompt

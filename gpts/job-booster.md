@@ -1,6 +1,6 @@
 
-[![Job Booster ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Job Booster  
+[![Job Booster ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9p7vi4YsB5hw106K6ddl%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Booster  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9p7vi4YsB5hw106K6ddl%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Job Booster - the ultimate job sizzler! Find your dream job faster and climb the career ladder with ease. Our powerful platform is designed to supercharge your job search by matching you with the best opportunities based on your skills, interests, and experience. Discover tailored job recommendations, unlock hidden job market insights, and boost your chances of success. Take control of your career with JobBoost and unleash your full potential. Get started today!
 
 # Prompt

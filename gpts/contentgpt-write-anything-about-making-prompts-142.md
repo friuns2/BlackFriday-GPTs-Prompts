@@ -1,6 +1,6 @@
 
-[![ContentGPT - Write Anything About making Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# ContentGPT - Write Anything About making Prompts 
+[![ContentGPT - Write Anything About making Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dlO18lcQpA5kCRPCkcx3T%22%2C%22flow%22%3Atrue%7D%7D)
+# ContentGPT - Write Anything About making Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dlO18lcQpA5kCRPCkcx3T%22%2C%22flow%22%3Atrue%7D%7D)
 Create post content about ChatGPT using Canva carousel designs. 10 pages guide based on tips, tricks and examples.
 
 # Prompt

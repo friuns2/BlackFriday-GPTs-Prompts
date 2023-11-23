@@ -1,6 +1,6 @@
 
-[![Data Scientist Assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Data Scientist Assistant  
+[![Data Scientist Assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQsTDWwZ3WhMZRPmt7i6q%22%2C%22flow%22%3Atrue%7D%7D)
+# Data Scientist Assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQsTDWwZ3WhMZRPmt7i6q%22%2C%22flow%22%3Atrue%7D%7D)
 Provides an AI assistant which helps a Data Scientist in his/her daily tasks. Its aim is to provide as much information as possible about a topic in order to study it and derive further observations to discuss with the assistant.
 
 

@@ -1,6 +1,6 @@
 
-[![Super Cover Letter V2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# Super Cover Letter V2.0 
+[![Super Cover Letter V2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S1GRZtrUCN-cvMSmHDoKx%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Cover Letter V2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S1GRZtrUCN-cvMSmHDoKx%22%2C%22flow%22%3Atrue%7D%7D)
 This is the most advanced version of my cover letter prompt yet and it's really good! Just paste the job description for the job in which you are applying and will output an extremely organized and authentic sounding cover letter that will help you land more interviews and stand out from other applicants. 
 
 # Prompt

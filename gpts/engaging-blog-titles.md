@@ -1,6 +1,6 @@
 
-[![Engaging Blog Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Engaging Blog Titles 
+[![Engaging Blog Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ox06TaTQH6WZ2bRRfWyns%22%2C%22flow%22%3Atrue%7D%7D)
+# Engaging Blog Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ox06TaTQH6WZ2bRRfWyns%22%2C%22flow%22%3Atrue%7D%7D)
 eating captivating blog titles is crucial in attracting readers
 
 # Prompt

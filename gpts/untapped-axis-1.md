@@ -1,6 +1,6 @@
 
-[![UNTAPPED AXIS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9vEv_8_qPPMOu6zXD-XnT/1696342072692)]()
-# UNTAPPED AXIS 
+[![UNTAPPED AXIS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9vEv_8_qPPMOu6zXD-XnT/1696342072692)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229vEv_8_qPPMOu6zXD-XnT%22%2C%22flow%22%3Atrue%7D%7D)
+# UNTAPPED AXIS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229vEv_8_qPPMOu6zXD-XnT%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of sad, predictable competitive quadrants. This tool helps you ID untapped axes with mad potential. 
 
 # Prompt

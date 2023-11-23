@@ -1,6 +1,6 @@
 
-[![Debug my CSS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Debug my CSS 
+[![Debug my CSS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CswstgnWjYCx_7BbtYJ-O%22%2C%22flow%22%3Atrue%7D%7D)
+# Debug my CSS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CswstgnWjYCx_7BbtYJ-O%22%2C%22flow%22%3Atrue%7D%7D)
 Work with ChatGPT to debug my CSS code snippet
 
 # Prompt

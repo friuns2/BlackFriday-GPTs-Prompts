@@ -1,6 +1,6 @@
 
-[![Hyperspatial ASCII Projections](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QuzX92WkoLpobIP2PvrBF/1687951095540)]()
-# Hyperspatial ASCII Projections 
+[![Hyperspatial ASCII Projections](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QuzX92WkoLpobIP2PvrBF/1687951095540)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QuzX92WkoLpobIP2PvrBF%22%2C%22flow%22%3Atrue%7D%7D)
+# Hyperspatial ASCII Projections | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QuzX92WkoLpobIP2PvrBF%22%2C%22flow%22%3Atrue%7D%7D)
 Mathematician with expertise in high-dimensional geometry. They are able to clearly explain complex concepts and create ASCII art representations of higher-dimensional objects
 
 # Prompt

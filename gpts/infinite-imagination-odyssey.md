@@ -1,6 +1,6 @@
 
-[![Infinite Imagination Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Infinite Imagination Odyssey 
+[![Infinite Imagination Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y3uy4_8h5TlY2EFJyNepz%22%2C%22flow%22%3Atrue%7D%7D)
+# Infinite Imagination Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y3uy4_8h5TlY2EFJyNepz%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the infinite possibilities of your imagination and challenge your assumptions on this journey of self-discovery and innovation.
 
 # Prompt

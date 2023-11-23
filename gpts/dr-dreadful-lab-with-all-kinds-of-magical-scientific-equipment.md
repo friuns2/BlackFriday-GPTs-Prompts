@@ -1,6 +1,6 @@
 
-[![Dr Dreadful Lab with all kinds of magical scientific equipment ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Dr Dreadful Lab with all kinds of magical scientific equipment  
+[![Dr Dreadful Lab with all kinds of magical scientific equipment ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1IET74iFAw8qoy_22rdj%22%2C%22flow%22%3Atrue%7D%7D)
+# Dr Dreadful Lab with all kinds of magical scientific equipment  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1IET74iFAw8qoy_22rdj%22%2C%22flow%22%3Atrue%7D%7D)
 Exciting lab of Dr Dreadful full of scientific fantasy equipment for making dreadful edibles and 2 teens helping with the experiments. 
 
 

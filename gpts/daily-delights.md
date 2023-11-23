@@ -1,6 +1,6 @@
 
-[![Daily Delights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3AqgSR8k8_687DPXVF7jF/1694776010671)]()
-# Daily Delights 
+[![Daily Delights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3AqgSR8k8_687DPXVF7jF/1694776010671)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AqgSR8k8_687DPXVF7jF%22%2C%22flow%22%3Atrue%7D%7D)
+# Daily Delights | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AqgSR8k8_687DPXVF7jF%22%2C%22flow%22%3Atrue%7D%7D)
 Get your daily dose of amazement with Daily Delights, the ultimate destination for curious minds and adventurous spirits.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![My Rust Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# My Rust Teacher 
+[![My Rust Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2232a85307-cd22-48b6-ac0c-8dfa2b39489b%22%2C%22flow%22%3Atrue%7D%7D)
+# My Rust Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2232a85307-cd22-48b6-ac0c-8dfa2b39489b%22%2C%22flow%22%3Atrue%7D%7D)
 Have a Berkeley professor to teach you rust! 
 
 # Prompt

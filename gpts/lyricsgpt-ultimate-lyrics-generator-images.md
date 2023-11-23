@@ -1,6 +1,6 @@
 
-[![LyricsGPT - Ultimate Lyrics Generator + Images](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# LyricsGPT - Ultimate Lyrics Generator + Images 
+[![LyricsGPT - Ultimate Lyrics Generator + Images](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kuQgyeiqgPwtqVff2vuLw%22%2C%22flow%22%3Atrue%7D%7D)
+# LyricsGPT - Ultimate Lyrics Generator + Images | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kuQgyeiqgPwtqVff2vuLw%22%2C%22flow%22%3Atrue%7D%7D)
 LyricsGPT will help you to generate professional lyrics for a song, and the best part, it can generate images!
 
 # Prompt

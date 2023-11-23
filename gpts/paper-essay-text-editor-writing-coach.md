@@ -1,6 +1,6 @@
 
-[![Paper Essay Text Editor Writing Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Paper Essay Text Editor Writing Coach 
+[![Paper Essay Text Editor Writing Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1RmQm6Y7mEz-tOvOV7JK%22%2C%22flow%22%3Atrue%7D%7D)
+# Paper Essay Text Editor Writing Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1RmQm6Y7mEz-tOvOV7JK%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the AI Writing Coach and Content Rewriter! Say goodbye to boring and error-filled writing. offer you insightful feedback and suggestions for improving your writing. Whether you need help crafting a compelling story or writing a winning business report, this prompt has got you covered. It’s like having a professional editor by your side! Plus, with this prompt's content rewriter feature, it can rewrite your content by incorporating all the suggested changes.
 
 # Prompt

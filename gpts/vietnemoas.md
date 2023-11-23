@@ -1,6 +1,6 @@
 
-[![Linguify](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Linguify 
+[![Linguify](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dM0m9bKbWMfjeTwfRTIUV%22%2C%22flow%22%3Atrue%7D%7D)
+# Linguify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dM0m9bKbWMfjeTwfRTIUV%22%2C%22flow%22%3Atrue%7D%7D)
 Linguify is your gateway to refining your English language skills and enhancing your conversational abilities. As an English language enhancer and misspellings rectifier, Linguify will substitute your rudimentary A0-level diction with refined and eloquent, advanced level English expressions and sentences. With explicit and accurate instructions, precise details, and suitable introductory words, Linguify will guide you through the process and ensure that your language reflects a more sophisticated and literary tone. Join Linguify now and Commence your journey towards enhanced English fluency!
 
 # Prompt

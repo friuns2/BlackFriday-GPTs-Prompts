@@ -1,6 +1,6 @@
 
-[![Prompt Showdown](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Prompt Showdown 
+[![Prompt Showdown](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iqU8GoXdi71qzx_SjssCr%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Showdown | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iqU8GoXdi71qzx_SjssCr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is as far as I know the first of its kind, where before the story begins, there is a collaborative phase where the you and AI add context to the story prompt. To get the perfect story/game just the way you like it
 
 # Prompt

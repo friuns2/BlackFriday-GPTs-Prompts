@@ -1,6 +1,6 @@
 
-[![StoryScribe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# StoryScribe 
+[![StoryScribe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xbkhf6ToPkRyCqFs817_%22%2C%22flow%22%3Atrue%7D%7D)
+# StoryScribe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xbkhf6ToPkRyCqFs817_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to StoryScribe: where the power of legendary storytelling lies in your hands. Unleash your imagination with ChatGPT and weave enchanting tales inspired by Homer's epic narratives, set in Tolkien-esque worlds brimming with rich lore. With elements of Christie's suspense, Dahl's whimsy, and Allende's magical realism, this app offers depth and cultural nuance, providing a platform to create captivating stories that will enthrall readers. Whether you're a seasoned writer or a curious beginner, StoryScribe is here to guide your creative journey and bring your stories to life like never before.
 
 # Prompt

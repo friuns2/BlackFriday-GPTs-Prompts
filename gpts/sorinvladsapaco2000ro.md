@@ -1,6 +1,6 @@
 
-[![sorin.vlad@sapaco2000.ro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# sorin.vlad@sapaco2000.ro 
+[![sorin.vlad@sapaco2000.ro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CUFvnOv8VY_xhFhvFG4V1%22%2C%22flow%22%3Atrue%7D%7D)
+# sorin.vlad@sapaco2000.ro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CUFvnOv8VY_xhFhvFG4V1%22%2C%22flow%22%3Atrue%7D%7D)
 Describe the Romanian healthcare market and identify potential customers and competitors for the Vivalytic POC PCR analyzer. It should highlight the key features, benefits of the Vivalytic POC,  portability and ease-of-use, that differentiate it from other PCR analyzers in the market
 
 # Prompt

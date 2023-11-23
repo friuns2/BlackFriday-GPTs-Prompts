@@ -1,6 +1,6 @@
 
-[![SEO: Keyword Research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# SEO: Keyword Research 
+[![SEO: Keyword Research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s9s63EhAw-Vy_jum7jgKt%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO: Keyword Research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s9s63EhAw-Vy_jum7jgKt%22%2C%22flow%22%3Atrue%7D%7D)
 you can quickly and easily generate a list of ten high-volume, low-competition keywords that are perfect for your website
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Comedian script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Comedian script 
+[![Comedian script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YI7qeKWnbPxR9Pt4Z9xPi%22%2C%22flow%22%3Atrue%7D%7D)
+# Comedian script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YI7qeKWnbPxR9Pt4Z9xPi%22%2C%22flow%22%3Atrue%7D%7D)
 Have chatgpt write a comedy script for you entertainment.
 
 # Prompt

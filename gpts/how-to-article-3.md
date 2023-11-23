@@ -1,6 +1,6 @@
 
-[![How-To Article](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LGSbGHsv91M-jYeYo0RcF/1699099946965)]()
-# How-To Article 
+[![How-To Article](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LGSbGHsv91M-jYeYo0RcF/1699099946965)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LGSbGHsv91M-jYeYo0RcF%22%2C%22flow%22%3Atrue%7D%7D)
+# How-To Article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LGSbGHsv91M-jYeYo0RcF%22%2C%22flow%22%3Atrue%7D%7D)
 A means of generating simple how-to articles without rotting your brain.
 
 # Prompt

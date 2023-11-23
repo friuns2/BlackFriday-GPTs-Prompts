@@ -1,6 +1,6 @@
 
-[![Job Role Research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Job Role Research 
+[![Job Role Research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iIN4hqh4LRTNRHohqSlof%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Role Research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iIN4hqh4LRTNRHohqSlof%22%2C%22flow%22%3Atrue%7D%7D)
 Create a detailed job profile for a job role including roles, skills, tasks, challenges, and opportunities.
 
 # Prompt

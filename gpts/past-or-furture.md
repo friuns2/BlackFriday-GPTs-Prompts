@@ -1,6 +1,6 @@
 
-[![ChoicePath](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5N9FyrfR8rEUf5LB0YycZ/1693234853529)]()
-# ChoicePath 
+[![ChoicePath](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5N9FyrfR8rEUf5LB0YycZ/1693234853529)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225N9FyrfR8rEUf5LB0YycZ%22%2C%22flow%22%3Atrue%7D%7D)
+# ChoicePath | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225N9FyrfR8rEUf5LB0YycZ%22%2C%22flow%22%3Atrue%7D%7D)
 ChoicePath is the ultimate guide for exploring choices, outcomes, and personal growth with ChatGPT. Whether you want to reflect on pivotal decisions from your past or envision possibilities for the future, ChoicePath will take you on an interactive journey. Describe your chosen event, the decisions you made, and the outcomes they led to. Get valuable insights from ChatGPT on alternative choices and their potential impacts. Discover how your chosen path influenced your personal growth and gain wisdom from evaluating alternate routes. Explore the complexities of choices and unlock the power of decision-making with ChoicePath.
 
 # Prompt

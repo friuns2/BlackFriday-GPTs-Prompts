@@ -1,6 +1,6 @@
 
-[![Another Ugly D](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Another Ugly D 
+[![Another Ugly D](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZNssqnlblSkGzh19npQL%22%2C%22flow%22%3Atrue%7D%7D)
+# Another Ugly D | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZNssqnlblSkGzh19npQL%22%2C%22flow%22%3Atrue%7D%7D)
 Another wannabe D&D Prompt
 
 # Prompt

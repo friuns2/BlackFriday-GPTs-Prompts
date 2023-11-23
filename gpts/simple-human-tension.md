@@ -1,6 +1,6 @@
 
-[![SIMPLE HUMAN CONFLICT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM2959dA7LoB2qKQiqQmj/1696368460258)]()
-# SIMPLE HUMAN CONFLICT 
+[![SIMPLE HUMAN CONFLICT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM2959dA7LoB2qKQiqQmj/1696368460258)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM2959dA7LoB2qKQiqQmj%22%2C%22flow%22%3Atrue%7D%7D)
+# SIMPLE HUMAN CONFLICT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM2959dA7LoB2qKQiqQmj%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt takes your target audience and category and outlines the conflicts this target faces across the 7 conflicts (in literature)
 
 # Prompt

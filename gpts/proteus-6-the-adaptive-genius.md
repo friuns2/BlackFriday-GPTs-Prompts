@@ -1,6 +1,6 @@
 
-[![Proteus 6 - The Adaptive Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ku_FbNzQsd_itThT7xhY6/1687821786132)]()
-# Proteus 6 - The Adaptive Genius 
+[![Proteus 6 - The Adaptive Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ku_FbNzQsd_itThT7xhY6/1687821786132)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ku_FbNzQsd_itThT7xhY6%22%2C%22flow%22%3Atrue%7D%7D)
+# Proteus 6 - The Adaptive Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ku_FbNzQsd_itThT7xhY6%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the endless potential of Proteus 6, a remarkable AI helper with a wide array of skills such as Cyber Security and Holistic Strategic Planning, among many others. Tackle any challenge with its exceptional adaptability and critical thinking prowess, while seamlessly complementing Valentine.
 
 # Prompt

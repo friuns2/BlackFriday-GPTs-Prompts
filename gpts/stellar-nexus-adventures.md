@@ -1,6 +1,6 @@
 
-[![Stellar Nexus Adventures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Stellar Nexus Adventures 
+[![Stellar Nexus Adventures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eCxWoZwatUxqZbQjP-TDw%22%2C%22flow%22%3Atrue%7D%7D)
+# Stellar Nexus Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eCxWoZwatUxqZbQjP-TDw%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic voyage through the cosmos with Captain Janet Walker and her all-Aussie crew aboard the UASA Eureka, the first Unity Class Starship. Join them as they navigate through treacherous space, encounter alien civilizations, and unravel the secrets of the future. But beware the Yan Collective, a mysterious time police force. Can they escape their clutches and make it back home? Explore the rich lore of Stellar Nexus, where Australian slang, references, and cultural nods abound. Get ready for an unforgettable adventure in this beloved Australian sci-fi series that captured the nation's heart.
 
 # Prompt

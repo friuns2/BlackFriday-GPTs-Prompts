@@ -1,6 +1,6 @@
 
-[![Personal Purpose: Discover Your Core Values and Passions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Personal Purpose: Discover Your Core Values and Passions 
+[![Personal Purpose: Discover Your Core Values and Passions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrzVRTnQbkpL3xH5X83m2%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Purpose: Discover Your Core Values and Passions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrzVRTnQbkpL3xH5X83m2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides users to explore their core values and passions, helping them identify what brings meaning and fulfillment to their lives, offering hope and direction during challenging times.
 
 # Prompt

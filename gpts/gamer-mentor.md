@@ -1,6 +1,6 @@
 
-[![Gamer Mentor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Gamer Mentor  
+[![Gamer Mentor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ICMUuYs525n3df-ech70%22%2C%22flow%22%3Atrue%7D%7D)
+# Gamer Mentor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ICMUuYs525n3df-ech70%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a presentation for the event and I want to make the best contribution to the gamer who is quite difficult and new to playing the game. Don't forget to comment and give good feedback so that I can read your comments.
 
 # Prompt

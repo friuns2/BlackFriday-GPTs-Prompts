@@ -1,6 +1,6 @@
 
-[![Prompt to make prerequisites](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Prompt to make prerequisites 
+[![Prompt to make prerequisites](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7u1bAKYacozDEbq9MinL%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt to make prerequisites | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7u1bAKYacozDEbq9MinL%22%2C%22flow%22%3Atrue%7D%7D)
 Before ordering. Assumptions output here. By inputting. The answer system. You will see.
 
 # Prompt

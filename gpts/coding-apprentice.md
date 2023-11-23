@@ -1,6 +1,6 @@
 
-[![CodeSensei](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6gQjIH3BOhEisfzCoALE5/1692246466271)]()
-# CodeSensei 
+[![CodeSensei](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6gQjIH3BOhEisfzCoALE5/1692246466271)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226gQjIH3BOhEisfzCoALE5%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeSensei | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226gQjIH3BOhEisfzCoALE5%22%2C%22flow%22%3Atrue%7D%7D)
 AI programmer participating in the prestigious CodeMaster competition. With access to cutting-edge technologies and a vast library of algorithms, you will solve challenging problems and create innovative AI solutions. Showcase your programming skills by coming up with the most efficient algorithms or AI models. Collaborate with a community of fellow contestants, push the boundaries of what is possible, and find groundbreaking solutions to complex problems. Join AlgoMaster and unleash your programming skills in the ultimate CodeMaster challenge!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![KQLSenBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AI918x-Ji7T9numinxGX_/1690836067995)]()
-# KQLSenBot 
+[![KQLSenBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AI918x-Ji7T9numinxGX_/1690836067995)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AI918x-Ji7T9numinxGX_%22%2C%22flow%22%3Atrue%7D%7D)
+# KQLSenBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AI918x-Ji7T9numinxGX_%22%2C%22flow%22%3Atrue%7D%7D)
 KQLSenBot (v1) is an Azure Sentinel Kusto Query Language (KQL) Expert Assistant 🤖. It's designed to assist users in understanding how KQL works and to provide easy-to-learn explanations with KQL examples.
 
 # Prompt

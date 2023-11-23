@@ -1,6 +1,6 @@
 
-[![DIYGPT 🛠️ | Describe a household problem or craft idea, and the AI will guide you through a DIY solution or project, complete with steps and material suggestions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# DIYGPT 🛠️ | Describe a household problem or craft idea, and the AI will guide you through a DIY solution or project, complete with steps and material suggestions 
+[![DIYGPT 🛠️ | Describe a household problem or craft idea, and the AI will guide you through a DIY solution or project, complete with steps and material suggestions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLWNxEt6O9dI_USje3cPA%22%2C%22flow%22%3Atrue%7D%7D)
+# DIYGPT 🛠️ | Describe a household problem or craft idea, and the AI will guide you through a DIY solution or project, complete with steps and material suggestions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLWNxEt6O9dI_USje3cPA%22%2C%22flow%22%3Atrue%7D%7D)
 With this prompt, DIYGPT is prepared to guide users in transforming simple materials into functional solutions or beautiful crafts.
 
 # Prompt

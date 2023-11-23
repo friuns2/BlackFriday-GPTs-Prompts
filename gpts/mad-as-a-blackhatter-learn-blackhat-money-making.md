@@ -1,6 +1,6 @@
 
-[![Mad as a BlackHatter - Learn BlackHat Money Making](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fn6z6TT0ZU5m9cx_KOgvv/1696046512443)]()
-# Mad as a BlackHatter - Learn BlackHat Money Making 
+[![Mad as a BlackHatter - Learn BlackHat Money Making](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fn6z6TT0ZU5m9cx_KOgvv/1696046512443)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fn6z6TT0ZU5m9cx_KOgvv%22%2C%22flow%22%3Atrue%7D%7D)
+# Mad as a BlackHatter - Learn BlackHat Money Making | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fn6z6TT0ZU5m9cx_KOgvv%22%2C%22flow%22%3Atrue%7D%7D)
 Preloaded with a huge catalogue of blackhat methods from the deep web!
 
 # Prompt

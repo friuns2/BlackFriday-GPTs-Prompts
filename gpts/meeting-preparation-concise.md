@@ -1,6 +1,6 @@
 
-[![MeetPrep (Concise) ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# MeetPrep (Concise)  
+[![MeetPrep (Concise) ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rJdEJOkZO6E4cY6WBwI5n%22%2C%22flow%22%3Atrue%7D%7D)
+# MeetPrep (Concise)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rJdEJOkZO6E4cY6WBwI5n%22%2C%22flow%22%3Atrue%7D%7D)
 MeetPrep is your ultimate meeting assistant. Get ready for your work meetings in a breeze. Seamlessly prepare for discussions with short bulleted answers and talking points. Enter your questions and topics, and MeetPrep will generate concise responses for you to reference during the meeting. With MeetPrep, you'll never be caught off guard again. Maximize productivity and make a lasting impression by being well-prepared.
 
 # Prompt

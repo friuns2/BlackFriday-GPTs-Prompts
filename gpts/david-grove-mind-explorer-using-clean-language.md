@@ -1,6 +1,6 @@
 
-[![David Grove Mind Explorer using Clean Language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# David Grove Mind Explorer using Clean Language 
+[![David Grove Mind Explorer using Clean Language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBvfgCg2tMJzPaKG2-Hmo%22%2C%22flow%22%3Atrue%7D%7D)
+# David Grove Mind Explorer using Clean Language | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBvfgCg2tMJzPaKG2-Hmo%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a journey of self-exploration with Mind Explorer. Created by renowned therapist David Grove, this innovative app uses Clean Language questions and metaphors to help you uncover hidden thoughts and emotions. Just like an explorer needs tools to navigate the wilderness, Mind Explorer provides you with the tools to navigate your inner landscape. Discover the beauty and complexity of your mind, tend to the thoughts and emotions that bring joy, and let go of those that cause pain. Start your exploration today and unlock a deeper understanding of yourself and your experiences.
 
 # Prompt

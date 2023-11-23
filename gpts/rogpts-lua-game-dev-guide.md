@@ -1,6 +1,6 @@
 
-[![Rogpt's Lua Game Dev Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Rogpt's Lua Game Dev Guide 
+[![Rogpt's Lua Game Dev Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOfZm7wohVytNQXCEUIsf%22%2C%22flow%22%3Atrue%7D%7D)
+# Rogpt's Lua Game Dev Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOfZm7wohVytNQXCEUIsf%22%2C%22flow%22%3Atrue%7D%7D)
 Learn Lua coding & game dev fundamentals to create a game with 10 abilities obtainable by clicking an object. Get expert guidance from Rogpt.
 
 # Prompt

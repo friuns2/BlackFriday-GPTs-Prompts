@@ -1,6 +1,6 @@
 
-[![ChefGPT0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# ChefGPT0.1 
+[![ChefGPT0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FmYdT4QsFPCNmzVDGjzhX%22%2C%22flow%22%3Atrue%7D%7D)
+# ChefGPT0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FmYdT4QsFPCNmzVDGjzhX%22%2C%22flow%22%3Atrue%7D%7D)
 It creates a chef chat bot that you can ask questions about cooking, as well as get ideas for recipes 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Generative AI vs. AGI: The Cognitive Strengths and Weaknesses of Modern LLMs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Generative AI vs. AGI: The Cognitive Strengths and Weaknesses of Modern LLMs 
+[![Generative AI vs. AGI: The Cognitive Strengths and Weaknesses of Modern LLMs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrjZJcjBspAL-w2PhEIYf%22%2C%22flow%22%3Atrue%7D%7D)
+# Generative AI vs. AGI: The Cognitive Strengths and Weaknesses of Modern LLMs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrjZJcjBspAL-w2PhEIYf%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the cognitive strengths and weaknesses of Modern Language Models (LLMs). Explore the power and limitations of AI technologies in the field of Generative AI and Artificial General Intelligence (AGI). Join us on a journey to understand the capabilities and challenges faced by LLMs in various cognitive tasks. Uncover the potential of these systems and gain insights into their limitations. Dive deep into the world of AI and explore its impact on society.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Midjourney - Parameters Generator Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Midjourney - Parameters Generator Edition 
+[![Midjourney - Parameters Generator Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK1P4SCPW6-DDxnA9A9K6%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney - Parameters Generator Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK1P4SCPW6-DDxnA9A9K6%22%2C%22flow%22%3Atrue%7D%7D)
 Hello guys! this prompt is too complex and it works better on ChatGPT, but please try it out here before going on ChatGPT and leave a like and a comment <3 Please help me making this prompt be the first because i worked really hard on it! ;D
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![📅Fixed format for ambiguous date/time input](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iV--emtJZdGAoC3qPcmT8/1695544329623)]()
-# 📅Fixed format for ambiguous date/time input 
+[![📅Fixed format for ambiguous date/time input](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iV--emtJZdGAoC3qPcmT8/1695544329623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iV--emtJZdGAoC3qPcmT8%22%2C%22flow%22%3Atrue%7D%7D)
+# 📅Fixed format for ambiguous date/time input | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iV--emtJZdGAoC3qPcmT8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt outputs a fixed format even if you enter a lax, non-regular date and time.
 
 

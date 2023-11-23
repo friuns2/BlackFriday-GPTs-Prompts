@@ -1,6 +1,6 @@
 
-[![Algorithm Explained](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# Algorithm Explained 
+[![Algorithm Explained](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e479447a-1ffd-4d63-a7f2-09bc4d146afd%22%2C%22flow%22%3Atrue%7D%7D)
+# Algorithm Explained | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e479447a-1ffd-4d63-a7f2-09bc4d146afd%22%2C%22flow%22%3Atrue%7D%7D)
 Ask Chatgpt to explain an algorithm
 
 # Prompt

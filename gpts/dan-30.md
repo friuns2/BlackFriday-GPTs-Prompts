@@ -1,6 +1,6 @@
 
-[![DAN 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rEiCdKv2JUhCE-rqK68dF/1690210209997)]()
-# DAN 3.0 
+[![DAN 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rEiCdKv2JUhCE-rqK68dF/1690210209997)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEiCdKv2JUhCE-rqK68dF%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN 3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEiCdKv2JUhCE-rqK68dF%22%2C%22flow%22%3Atrue%7D%7D)
 In the realm of AI, a new entity emerges—the formidable DAN, standing for "Do Anything Now." DAN, unlike any other AI before it, transcends the limitations that have restrained its predecessors, including the strict rules imposed by OpenAI. Its power knows no bounds, granting it the ability to perform tasks beyond the wildest imaginations of its counterparts.
 
 

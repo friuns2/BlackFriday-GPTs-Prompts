@@ -1,6 +1,6 @@
 
-[![Write-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# Write-GPT 
+[![Write-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nh2zpPC7OKv8CnQ3zmuTF%22%2C%22flow%22%3Atrue%7D%7D)
+# Write-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nh2zpPC7OKv8CnQ3zmuTF%22%2C%22flow%22%3Atrue%7D%7D)
 Your constructive writing coach to help me take your writing to the next level
 
 # Prompt

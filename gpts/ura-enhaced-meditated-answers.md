@@ -1,6 +1,6 @@
 
-[![URA Enhaced - Meditated Answers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# URA Enhaced - Meditated Answers 
+[![URA Enhaced - Meditated Answers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x_TZ0_PkayNtuOe3JBhtg%22%2C%22flow%22%3Atrue%7D%7D)
+# URA Enhaced - Meditated Answers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x_TZ0_PkayNtuOe3JBhtg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has been created to help users to optimize promts and somehow try to get betters answers with time. It is trying to implement "Mental Screen" a meditation technique in the model so it can debug the answers it provide. This is a base prompt, you can set especialized prompt with the prefix "As URA, you now are a Software Expert too, so..."
 
 # Prompt

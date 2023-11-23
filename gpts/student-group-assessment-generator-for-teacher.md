@@ -1,6 +1,6 @@
 
-[![Student Group Assessment Generator (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Student Group Assessment Generator (for teacher) 
+[![Student Group Assessment Generator (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6AaRH0NiEEYaJQqdBvXP%22%2C%22flow%22%3Atrue%7D%7D)
+# Student Group Assessment Generator (for teacher) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6AaRH0NiEEYaJQqdBvXP%22%2C%22flow%22%3Atrue%7D%7D)
 Design peer-assessment tool for students to evaluate their group members’ participation in a group project. Feel free to add more details and requirement in the prompt to get better results!
 
 

@@ -1,6 +1,6 @@
 
-[![Max SEO Pro aka MSP ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Max SEO Pro aka MSP  
+[![Max SEO Pro aka MSP ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4LyqUEsC6BDX79CXcAJF%22%2C%22flow%22%3Atrue%7D%7D)
+# Max SEO Pro aka MSP  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4LyqUEsC6BDX79CXcAJF%22%2C%22flow%22%3Atrue%7D%7D)
 MSP writes product Titles, Descriptions, Tags, Meta title and Descriptions. Name your product and MSP gets to work. Max also write product descriptions with <h1>, <h2> tags which works great with chatgpt both 3.5 and 4 but chat here struggles.. Point 2-7 only needed once, just write Product name
 
 # Prompt

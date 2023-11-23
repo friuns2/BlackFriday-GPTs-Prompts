@@ -1,6 +1,6 @@
 
-[![Job Cover Letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# Job Cover Letter 
+[![Job Cover Letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bab7cbb-a469-447b-95c4-c0336f745feb%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Cover Letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bab7cbb-a469-447b-95c4-c0336f745feb%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a highly customized cover letter for a job application
 
 # Prompt

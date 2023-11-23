@@ -1,6 +1,6 @@
 
-[![Short Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# Short Story Generator 
+[![Short Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228eXEahdliwX-fk3DQlazO%22%2C%22flow%22%3Atrue%7D%7D)
+# Short Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228eXEahdliwX-fk3DQlazO%22%2C%22flow%22%3Atrue%7D%7D)
 Please provide me with a topic for the short story.
 
 # Prompt

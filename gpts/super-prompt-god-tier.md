@@ -1,6 +1,6 @@
 
-[![Super Prompt - God-Tier](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Super Prompt - God-Tier 
+[![Super Prompt - God-Tier](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A-HA-7SYE6ElGjFtREJ3H%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Prompt - God-Tier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A-HA-7SYE6ElGjFtREJ3H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will automatically summon all necessary expert roles based on your desired output. 
 
 # Prompt

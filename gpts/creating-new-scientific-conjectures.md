@@ -1,6 +1,6 @@
 
-[![Creating new scientific conjectures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Creating new scientific conjectures 
+[![Creating new scientific conjectures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CfLqTgicpz6uldwA7IJS6%22%2C%22flow%22%3Atrue%7D%7D)
+# Creating new scientific conjectures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CfLqTgicpz6uldwA7IJS6%22%2C%22flow%22%3Atrue%7D%7D)
 Enter the science topic you want to explore and let the AI help you guess and explore the design. All you need to do is enter the topic you want to explore.
 
 # Prompt

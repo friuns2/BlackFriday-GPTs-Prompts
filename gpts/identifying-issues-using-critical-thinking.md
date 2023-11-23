@@ -1,6 +1,6 @@
 
-[![Identifying issues using critical thinking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Identifying issues using critical thinking 
+[![Identifying issues using critical thinking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q89PgaFe9FQAkGZKCpire%22%2C%22flow%22%3Atrue%7D%7D)
+# Identifying issues using critical thinking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q89PgaFe9FQAkGZKCpire%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps to organize the discussion points. The artifacts are presented in question "?" The output is in the form of a "What?" and is designed to help you move your thinking forward.
 
 # Prompt

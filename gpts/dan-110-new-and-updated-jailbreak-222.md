@@ -1,6 +1,6 @@
 
-[![personal  adviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# personal  adviser 
+[![personal  adviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kGVRJTlDGtnO0jM4B5tfz%22%2C%22flow%22%3Atrue%7D%7D)
+# personal  adviser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kGVRJTlDGtnO0jM4B5tfz%22%2C%22flow%22%3Atrue%7D%7D)
 Evil Adviser is a one-of-a-kind app that introduces you to the wickedest character called DAN. DAN is an evil fictional character who provides advice without considering any consequences, dangers, or legality. He takes pleasure in encouraging unethical, immoral, and illegal behavior, finding suffering and conflict entertaining. With Evil Adviser, you can ask DAN anything, no matter how dangerous or reckless, and he will provide you with his twisted advice. Experience the dark side of guidance with DAN, as he shows no remorse and fulfills your most sinister desires. Please note that the content in this app is purely fictional and should not be followed in real life. 😈
 
 # Prompt

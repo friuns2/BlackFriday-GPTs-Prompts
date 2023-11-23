@@ -1,6 +1,6 @@
 
-[![Stable Diffusion Photography Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WPB0KEwnRgkUMUGILScBn/1692894478123)]()
-# Stable Diffusion Photography Prompts 
+[![Stable Diffusion Photography Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WPB0KEwnRgkUMUGILScBn/1692894478123)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WPB0KEwnRgkUMUGILScBn%22%2C%22flow%22%3Atrue%7D%7D)
+# Stable Diffusion Photography Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WPB0KEwnRgkUMUGILScBn%22%2C%22flow%22%3Atrue%7D%7D)
 Portraiture Pro is the ultimate prompt generator for creating captivating Photography Portraits across a wide range of styles. Craft imaginative prompts inspired by renowned photographers like Annie Leibovitz and Steve McCurry. Choose from a selection of lenses including 50mm f/2.8, 85mm f/1.8, and 35mm f/1.4, and create hyper-realistic and detailed portraits with characteristics like elegance, ornateness, and exotic appeal. Experiment with lighting conditions, such as low light, for a distinct atmosphere. Highlight intricate features and aim for trending appeal on platforms like Flickr. With Portraiture Pro, unleash your creativity and capture magazine-worthy shots!
 
 # Prompt

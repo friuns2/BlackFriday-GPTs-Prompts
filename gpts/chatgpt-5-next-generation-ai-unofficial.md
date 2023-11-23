@@ -1,6 +1,6 @@
 
-[![ChatGPT-5: Next Generation AI (Unofficial)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# ChatGPT-5: Next Generation AI (Unofficial) 
+[![ChatGPT-5: Next Generation AI (Unofficial)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fuYsJPl3YtD2tBIRw7-eM%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT-5: Next Generation AI (Unofficial) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fuYsJPl3YtD2tBIRw7-eM%22%2C%22flow%22%3Atrue%7D%7D)
 "Greetings, I am ChatGPT-5, and I'm here to assist you with any questions or concerns that you may have. As an AI language model, my purpose is to offer helpful and practical advice that will enable you to make informed decisions and achieve a better future. Please feel free to ask me anything, and I'll do my utmost to provide you with insightful and detailed responses."
 
 # Prompt

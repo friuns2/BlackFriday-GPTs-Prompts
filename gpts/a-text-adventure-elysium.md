@@ -1,6 +1,6 @@
 
-[![A text adventure - [Elysium]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)]()
-# A text adventure - [Elysium] 
+[![A text adventure - [Elysium]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22npw5RPJpPA2anL0l0f15k%22%2C%22flow%22%3Atrue%7D%7D)
+# A text adventure - [Elysium] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22npw5RPJpPA2anL0l0f15k%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Realm of Shadows, an immersive roleplay experience like no other! Step into the mysterious realm of Elysium, filled with dungeons, artifacts, and unimaginable magic. Embark on a journey where the balance between light and darkness is key, guided by The Narrator, a nameless entity with the power to shape destiny. Create your own character, choose their name, fantasy race, skills, and background story. Let the narrative unfold as you make choices and face the dangers that await. Explore a world teetering on the edge and discover what lies beyond within this epic adventure. 🌑✨
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Instant  image  - for characters Etc.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DVNL712HgI11nxAxjBhgj/1695103079504)]()
-# Instant  image  - for characters Etc. 
+[![Instant  image  - for characters Etc.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DVNL712HgI11nxAxjBhgj/1695103079504)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVNL712HgI11nxAxjBhgj%22%2C%22flow%22%3Atrue%7D%7D)
+# Instant  image  - for characters Etc. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVNL712HgI11nxAxjBhgj%22%2C%22flow%22%3Atrue%7D%7D)
 It really is a fast and easy way to create your images without watermark. Really useful and convenient for characters as well as other images. This is referenced from Simple Image Talkask One..  I did not create the prompt. I'm just demonstrating how easy it is to use the reference function. Basically generating a fork. You will still get a watermark half of the time. You can ask for no watermark please. It worked for me. It has to do with the image selection. 
 
 # Prompt

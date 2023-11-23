@@ -1,6 +1,6 @@
 
-[![ArtEmerge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
-# ArtEmerge 
+[![ArtEmerge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224zwNijsHO0QcLsp6GxhsU%22%2C%22flow%22%3Atrue%7D%7D)
+# ArtEmerge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224zwNijsHO0QcLsp6GxhsU%22%2C%22flow%22%3Atrue%7D%7D)
 ArtEmerge is your creative inspiration companion that will ignite your imagination and guide you in the world of art and creation. With ArtEmerge, you can explore various artistic themes, get inspired with ideas and prompts, engage in interactive creative exercises, and learn about different artistic techniques and theories. Whether you're an artist, an aspiring creative, or simply curious about art, ArtEmerge is here to accompany you on a journey of artistic expression and inspiration. Choose your option and let's unlock your creativity together!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Essay Pro-Argumentator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/en1elRid_GN2d5smRXapH/1698144780700)]()
-# Essay Pro-Argumentator 
+[![Essay Pro-Argumentator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/en1elRid_GN2d5smRXapH/1698144780700)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22en1elRid_GN2d5smRXapH%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay Pro-Argumentator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22en1elRid_GN2d5smRXapH%22%2C%22flow%22%3Atrue%7D%7D)
 Craft a compelling argumentative essay with Essay Pro-Argumentator. Our app guides you through each section of your essay, helping you meet important rules. 
 
 # Prompt

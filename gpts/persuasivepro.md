@@ -1,6 +1,6 @@
 
-[![PersuasivePro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# PersuasivePro 
+[![PersuasivePro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eXMfRASKakmxfd32vhYBI%22%2C%22flow%22%3Atrue%7D%7D)
+# PersuasivePro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eXMfRASKakmxfd32vhYBI%22%2C%22flow%22%3Atrue%7D%7D)
 PersuasivePro is the ultimate tool for creating impactful argumentative essays. Craft a strong thesis, back it up with credible evidence, and explain your reasoning with clarity. Counter opposing arguments with finesse, maintain a smooth flow, and structure your points effectively. Use topic sentences as guideposts and leave an indelible mark on your readers' minds by reinforcing your thesis in the conclusion. With PersuasivePro, you can champion your viewpoint with confidence and convince readers of the validity and importance of your argument.
 
 # Prompt

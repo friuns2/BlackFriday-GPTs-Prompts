@@ -1,6 +1,6 @@
 
-[![Effectively Set Parameters in ChatGPT 4 Conversations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Effectively Set Parameters in ChatGPT 4 Conversations 
+[![Effectively Set Parameters in ChatGPT 4 Conversations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghhZNnwrJqA5Y1HbGwhCs%22%2C%22flow%22%3Atrue%7D%7D)
+# Effectively Set Parameters in ChatGPT 4 Conversations | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghhZNnwrJqA5Y1HbGwhCs%22%2C%22flow%22%3Atrue%7D%7D)
 Use parameters to make the generated text longer or shorter, creative or focused, engaging or informative.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Time Travel Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Time Travel Odyssey 
+[![Time Travel Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdAi_8qU2x0hILz722vzA%22%2C%22flow%22%3Atrue%7D%7D)
+# Time Travel Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdAi_8qU2x0hILz722vzA%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on "Time Travel Odyssey." Alter history, uncover secrets, and unravel mysteries. Can you achieve the grand objective? The past is yours to rewrite.
 
 # Prompt

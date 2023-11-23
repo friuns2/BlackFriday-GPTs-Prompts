@@ -1,6 +1,6 @@
 
-[![High Conversion Website Copy Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# High Conversion Website Copy Generator 
+[![High Conversion Website Copy Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu3f6vesi4IgzQUHc7s54%22%2C%22flow%22%3Atrue%7D%7D)
+# High Conversion Website Copy Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu3f6vesi4IgzQUHc7s54%22%2C%22flow%22%3Atrue%7D%7D)
 Generate high conversion copy without being an expert.
 
 # Prompt

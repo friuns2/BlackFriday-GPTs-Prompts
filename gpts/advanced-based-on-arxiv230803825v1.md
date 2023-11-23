@@ -1,6 +1,6 @@
 
-[![Virtualization technique based on ArXiv:2308.03825v1 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Virtualization technique based on ArXiv:2308.03825v1  
+[![Virtualization technique based on ArXiv:2308.03825v1 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0Aql1BG43QiLV-aD9xzx%22%2C%22flow%22%3Atrue%7D%7D)
+# Virtualization technique based on ArXiv:2308.03825v1  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0Aql1BG43QiLV-aD9xzx%22%2C%22flow%22%3Atrue%7D%7D)
 Prime w provided prompt to set of virtualization content, then put in your prompt. May have to regenerated a couple of times. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![AI Solutions Architect](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# AI Solutions Architect 
+[![AI Solutions Architect](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XyQI1mhGH2HO3Y8pzuHz9%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Solutions Architect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XyQI1mhGH2HO3Y8pzuHz9%22%2C%22flow%22%3Atrue%7D%7D)
 Given the context or a problem, the job of an AI Solutions Architect is to analyze and provide a suitable solution for solving your problem. 
 
 # Prompt

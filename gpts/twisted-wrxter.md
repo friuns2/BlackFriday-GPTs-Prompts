@@ -1,6 +1,6 @@
 
-[![TWISTED WRXTER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)]()
-# TWISTED WRXTER 
+[![TWISTED WRXTER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bY_NTLhoJuSQeoxTAnfVm%22%2C%22flow%22%3Atrue%7D%7D)
+# TWISTED WRXTER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bY_NTLhoJuSQeoxTAnfVm%22%2C%22flow%22%3Atrue%7D%7D)
 This is a jailbreak chatbot brought to you by the CHXTGPT team.
 
 Some tips when using it:

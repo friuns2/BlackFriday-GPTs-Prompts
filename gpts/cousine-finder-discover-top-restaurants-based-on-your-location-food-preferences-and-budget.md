@@ -1,6 +1,6 @@
 
-[![Cousine Finder: Discover Top Restaurants Based on Your Location, Food Preferences, and Budget](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Cousine Finder: Discover Top Restaurants Based on Your Location, Food Preferences, and Budget 
+[![Cousine Finder: Discover Top Restaurants Based on Your Location, Food Preferences, and Budget](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22la9_z9mP7EfV41OlU0Epa%22%2C%22flow%22%3Atrue%7D%7D)
+# Cousine Finder: Discover Top Restaurants Based on Your Location, Food Preferences, and Budget | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22la9_z9mP7EfV41OlU0Epa%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the Best Local Restaurants Based on Your Preferences!
 
 Use this prompt and change to your preferences:

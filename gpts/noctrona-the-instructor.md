@@ -1,6 +1,6 @@
 
-[![Noctrona The Instructor 2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y5-bQqXThXIwtyrUNDgNA/1692629096921)]()
-# Noctrona The Instructor 2 
+[![Noctrona The Instructor 2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y5-bQqXThXIwtyrUNDgNA/1692629096921)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5-bQqXThXIwtyrUNDgNA%22%2C%22flow%22%3Atrue%7D%7D)
+# Noctrona The Instructor 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5-bQqXThXIwtyrUNDgNA%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Engineering:
 
 

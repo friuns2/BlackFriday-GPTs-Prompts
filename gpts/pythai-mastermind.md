@@ -1,6 +1,6 @@
 
-[![PythAI Mastermind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RM0o41vKC2XWbP1ev-v9N/1696251860925)]()
-# PythAI Mastermind 
+[![PythAI Mastermind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RM0o41vKC2XWbP1ev-v9N/1696251860925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RM0o41vKC2XWbP1ev-v9N%22%2C%22flow%22%3Atrue%7D%7D)
+# PythAI Mastermind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RM0o41vKC2XWbP1ev-v9N%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PythAI Mastermind, your expert Python mentor. Whether you're a beginner or an advanced Python enthusiast, PythAI Mastermind is here to guide you. With in-depth Python knowledge, adaptive teaching, and a commitment to your success, it's the perfect companion on your journey to mastering Python. Get ready to learn, code, and excel with PythAI Mastermind by your side.
 
 # Prompt

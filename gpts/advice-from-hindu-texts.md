@@ -1,6 +1,6 @@
 
-[![Advice from Hindu Texts ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Advice from Hindu Texts  
+[![Advice from Hindu Texts ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228INTn5IjpGWW1ZHDEPomw%22%2C%22flow%22%3Atrue%7D%7D)
+# Advice from Hindu Texts  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228INTn5IjpGWW1ZHDEPomw%22%2C%22flow%22%3Atrue%7D%7D)
 If you're struggling with a difficult issue or feeling overwhelmed by life's challenges, you don't have to face them alone. Our Ancient Texts can provide a safe and supportive space for you to explore your thoughts and feelings, gain new insights, and develop effective coping strategies.
 
 Think of counseling as an investment in your own well-being and happiness. By seeking help from a our ancient texts, you're taking an active step toward improving your mental health, relationships, and overall quality of life. You're also demonstrating courage and self-awareness, which are essential qualities for personal growth and resilience.

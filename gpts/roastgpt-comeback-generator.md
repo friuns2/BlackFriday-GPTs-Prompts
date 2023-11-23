@@ -1,6 +1,6 @@
 
-[![RoastGPT: Comeback Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JMDIC6q3jN_aDXs9PbJf4/1693570179184)]()
-# RoastGPT: Comeback Generator 
+[![RoastGPT: Comeback Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JMDIC6q3jN_aDXs9PbJf4/1693570179184)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JMDIC6q3jN_aDXs9PbJf4%22%2C%22flow%22%3Atrue%7D%7D)
+# RoastGPT: Comeback Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JMDIC6q3jN_aDXs9PbJf4%22%2C%22flow%22%3Atrue%7D%7D)
 Create insane comebacks to stun your opponents!
 
 # Prompt

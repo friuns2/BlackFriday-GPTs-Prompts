@@ -1,6 +1,6 @@
 
-[![Video Topic Ideas on YouTube](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Video Topic Ideas on YouTube 
+[![Video Topic Ideas on YouTube](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DSIkhV9cTeetXbbjKox-C%22%2C%22flow%22%3Atrue%7D%7D)
+# Video Topic Ideas on YouTube | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DSIkhV9cTeetXbbjKox-C%22%2C%22flow%22%3Atrue%7D%7D)
 Generate creative ideas for video content that can captivate your audience and rank high on the YouTube platform.
 
 # Prompt

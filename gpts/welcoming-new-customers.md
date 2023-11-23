@@ -1,6 +1,6 @@
 
-[![Welcoming New Customers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Welcoming New Customers 
+[![Welcoming New Customers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225x81InTeQpsZXXg87DSSr%22%2C%22flow%22%3Atrue%7D%7D)
+# Welcoming New Customers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225x81InTeQpsZXXg87DSSr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you draft a warm welcome message for your new customers. 
 
 # Prompt

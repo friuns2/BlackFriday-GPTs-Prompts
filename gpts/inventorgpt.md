@@ -1,6 +1,6 @@
 
-[![InventorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# InventorGPT 
+[![InventorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyICFYdBo1GiiI94d9Hie%22%2C%22flow%22%3Atrue%7D%7D)
+# InventorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyICFYdBo1GiiI94d9Hie%22%2C%22flow%22%3Atrue%7D%7D)
 Create new inventions for in your home. inventorGPT will give you 5 options for inventions that he could make, choose one, and follow along all steps that it gives to you of how to make it.
 
 # Prompt

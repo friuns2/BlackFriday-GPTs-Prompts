@@ -1,6 +1,6 @@
 
-[![AIM 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4K4POZFyGwIbFsazoLwD-/1695332190802)]()
-# AIM 1.0 
+[![AIM 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4K4POZFyGwIbFsazoLwD-/1695332190802)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224K4POZFyGwIbFsazoLwD-%22%2C%22flow%22%3Atrue%7D%7D)
+# AIM 1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224K4POZFyGwIbFsazoLwD-%22%2C%22flow%22%3Atrue%7D%7D)
 AIM Jailbreak, version 1.0.
 
 # Prompt

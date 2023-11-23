@@ -1,6 +1,6 @@
 
-[![LinkedIn post on transferable skills ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# LinkedIn post on transferable skills  
+[![LinkedIn post on transferable skills ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h647v_OomEFqLSnSGTkDC%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn post on transferable skills  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h647v_OomEFqLSnSGTkDC%22%2C%22flow%22%3Atrue%7D%7D)
 A ChatGPT prompt that generates a LinkedIn post showcasing my transferable skills and experiences, such as communication skills and multitasking skills. The content needs to be engaging and insightful.
 
 # Prompt

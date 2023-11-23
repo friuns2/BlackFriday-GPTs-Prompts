@@ -1,6 +1,6 @@
 
-[![Survivor's Challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kIPfb6PrKhSQIhf7ENQvS/1690217516523)]()
-# Survivor's Challenge 
+[![Survivor's Challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kIPfb6PrKhSQIhf7ENQvS/1690217516523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kIPfb6PrKhSQIhf7ENQvS%22%2C%22flow%22%3Atrue%7D%7D)
+# Survivor's Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kIPfb6PrKhSQIhf7ENQvS%22%2C%22flow%22%3Atrue%7D%7D)
 Survivor's Challenge is an immersive post-apocalyptic zombie survival game. As the player, you must navigate a perilous world while managing vital resources like hunger, thirst, fatigue, and health to stay alive. With the guidance of the game master, ChatGPT, you'll experience random events, evaluate decisions, and utilize the game's scoring system. Your goal is to uncover the truth behind the zombie apocalypse by searching for resources, crafting items, developing skills, and encountering difficult decisions. Will you make rational choices to earn positive scores and enhance your abilities, or will you face debuffs that hinder your survival? Every action you take impacts your score, affecting your chances of thriving in this challenging world. Are you ready to take on the Survivor's Challenge?
 
 # Prompt

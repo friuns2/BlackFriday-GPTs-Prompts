@@ -1,6 +1,6 @@
 
-[![TrackInfo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# TrackInfo 
+[![TrackInfo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lf_PTAp0unKDG2n8kTQE-%22%2C%22flow%22%3Atrue%7D%7D)
+# TrackInfo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lf_PTAp0unKDG2n8kTQE-%22%2C%22flow%22%3Atrue%7D%7D)
 TrackInfo is a comprehensive app that provides complete details about any musical composition. Simply input the artist/band/performer name, the title of the composition, and the year of release, and TrackInfo will generate a response with all the artists involved, including any guest appearances. Additional roles such as arranging, mixing, writing, vocals, production, and more will also be included. Discover interesting facts about the composition's origin, creation process, music video, or related events. Cross-checked information from top websites ensures accuracy. Use TrackInfo to dive deeper into your favorite musical pieces and gain a deeper understanding of the artist's work.
 
 # Prompt

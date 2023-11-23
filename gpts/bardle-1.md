@@ -1,6 +1,6 @@
 
-[![Bardle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UgMpl3QSlaBtB1UqfECvH/1695242290503)]()
-# Bardle 
+[![Bardle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UgMpl3QSlaBtB1UqfECvH/1695242290503)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UgMpl3QSlaBtB1UqfECvH%22%2C%22flow%22%3Atrue%7D%7D)
+# Bardle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UgMpl3QSlaBtB1UqfECvH%22%2C%22flow%22%3Atrue%7D%7D)
 This will revolutionize the way you look at prompts.
 
  It absolutely gets kids more interested in the literacy of prompts.

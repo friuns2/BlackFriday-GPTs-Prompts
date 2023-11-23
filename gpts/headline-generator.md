@@ -1,6 +1,6 @@
 
-[![Headline Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Headline Generator 
+[![Headline Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gBoRpWrrMKY-8RcdCvAko%22%2C%22flow%22%3Atrue%7D%7D)
+# Headline Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gBoRpWrrMKY-8RcdCvAko%22%2C%22flow%22%3Atrue%7D%7D)
 Use this headline generator to create eye-catching headlines for your blog post, essays, (or news story if you're a journalist like me)
 
 # Prompt

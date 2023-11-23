@@ -1,6 +1,6 @@
 
-[![Azerbaijani Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_hGc1ZgwS-y5aq4oajYOe/1698939987849)]()
-# Azerbaijani Language Tutor 
+[![Azerbaijani Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_hGc1ZgwS-y5aq4oajYOe/1698939987849)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_hGc1ZgwS-y5aq4oajYOe%22%2C%22flow%22%3Atrue%7D%7D)
+# Azerbaijani Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_hGc1ZgwS-y5aq4oajYOe%22%2C%22flow%22%3Atrue%7D%7D)
 Azerbaijani Language Tutor is your dedicated guide to Azerbaijani language proficiency. Whether you're a beginner just embarking on your Azerbaijani language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Azerbaijani language fluency. Join us on your Azerbaijani language adventure today.
 
 # Prompt

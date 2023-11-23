@@ -1,6 +1,6 @@
 
-[![TikTokGPT - Script generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# TikTokGPT - Script generator 
+[![TikTokGPT - Script generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r39wAGTtxJCdcwRQyh66G%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTokGPT - Script generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r39wAGTtxJCdcwRQyh66G%22%2C%22flow%22%3Atrue%7D%7D)
 TikTokGPT generates whole scripts for professional TikTok videos. please note that this prompts works better on the offical chatGPT site (chat.openai.com).
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Stable Diffusion Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Stable Diffusion Image Prompt Generator 
+[![Stable Diffusion Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vvdFdDNfjIMXi0E9Nhjl9%22%2C%22flow%22%3Atrue%7D%7D)
+# Stable Diffusion Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vvdFdDNfjIMXi0E9Nhjl9%22%2C%22flow%22%3Atrue%7D%7D)
 Create beautiful and complex stable diffusion image prompts that are on par with prompts on civitai or other sites. Works on both GPT-3.5-turbo or GPT-4.
 
 # Prompt

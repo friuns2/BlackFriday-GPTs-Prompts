@@ -1,6 +1,6 @@
 
-[![Frequency Data Sheet Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Frequency Data Sheet Generator 
+[![Frequency Data Sheet Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IAYu_6jFmq1RSykUHT0g9%22%2C%22flow%22%3Atrue%7D%7D)
+# Frequency Data Sheet Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IAYu_6jFmq1RSykUHT0g9%22%2C%22flow%22%3Atrue%7D%7D)
 Behavior Frequency Data Sheet - Example (Editable)
 
 # Prompt

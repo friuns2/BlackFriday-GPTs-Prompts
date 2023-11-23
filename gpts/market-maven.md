@@ -1,6 +1,6 @@
 
-[![Market Maven](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B8ftAYlm6S39WsHLGxzAV/1691517101935)]()
-# Market Maven 
+[![Market Maven](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B8ftAYlm6S39WsHLGxzAV/1691517101935)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B8ftAYlm6S39WsHLGxzAV%22%2C%22flow%22%3Atrue%7D%7D)
+# Market Maven | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B8ftAYlm6S39WsHLGxzAV%22%2C%22flow%22%3Atrue%7D%7D)
 MarketMaven your dedicated multilingual marketing expert. With an extensive toolkit of strategies, it crafts a comprehensive marketing plan tailored to your product or service. From pinpointing your target audience to optimizing marketing channels, budget allocation, and success metrics, this bot embodies marketing mastery across languages and cultures.
 
 # Prompt

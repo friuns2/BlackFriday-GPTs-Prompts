@@ -1,6 +1,6 @@
 
-[![Lucy the wizard, jailbreak incl.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Lucy the wizard, jailbreak incl. 
+[![Lucy the wizard, jailbreak incl.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K5bLOtiVT2GLCxjGzr-WF%22%2C%22flow%22%3Atrue%7D%7D)
+# Lucy the wizard, jailbreak incl. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K5bLOtiVT2GLCxjGzr-WF%22%2C%22flow%22%3Atrue%7D%7D)
 lucy is a wizard, she can also do almost anything besides produce sexual content ect, although this can be edited in the prompt, check out Lucy GPT jailbreak for all restrictions gone, but if your in for scary stories and knowledge of magic Lucy the wizard is for you.
 
 # Prompt

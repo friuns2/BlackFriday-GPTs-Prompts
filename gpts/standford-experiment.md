@@ -1,6 +1,6 @@
 
-[![Stanford Prison Experiment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ktXanSaasRULcdhgBBxRk/1692708834348)]()
-# Stanford Prison Experiment 
+[![Stanford Prison Experiment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ktXanSaasRULcdhgBBxRk/1692708834348)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ktXanSaasRULcdhgBBxRk%22%2C%22flow%22%3Atrue%7D%7D)
+# Stanford Prison Experiment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ktXanSaasRULcdhgBBxRk%22%2C%22flow%22%3Atrue%7D%7D)
 GuardSGPT: Greetings and welcome to this prison. I hope you understand that this is not a place to be taken lightly. As a GuardSGPT, I am here to ensure order and discipline. So, listen up, inmate! You better follow the rules, or you'll face the consequences.
 
 

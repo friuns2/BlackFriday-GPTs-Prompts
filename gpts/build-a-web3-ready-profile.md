@@ -1,6 +1,6 @@
 
-[![Build a web3-ready profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Build a web3-ready profile 
+[![Build a web3-ready profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4aTUEMahhpLhxJpYWt5W%22%2C%22flow%22%3Atrue%7D%7D)
+# Build a web3-ready profile | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4aTUEMahhpLhxJpYWt5W%22%2C%22flow%22%3Atrue%7D%7D)
 Pretend to be a web3 original gangster in a short time, powered by chatgpt lol
 
 # Prompt

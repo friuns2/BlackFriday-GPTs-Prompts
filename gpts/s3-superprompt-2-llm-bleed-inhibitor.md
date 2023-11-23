@@ -1,6 +1,6 @@
 
-[![S3 Superprompt 2: LLM Bleed Inhibitor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3IkaTPregd9--HIPRvMcb/1696743135184)]()
-# S3 Superprompt 2: LLM Bleed Inhibitor 
+[![S3 Superprompt 2: LLM Bleed Inhibitor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3IkaTPregd9--HIPRvMcb/1696743135184)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223IkaTPregd9--HIPRvMcb%22%2C%22flow%22%3Atrue%7D%7D)
+# S3 Superprompt 2: LLM Bleed Inhibitor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223IkaTPregd9--HIPRvMcb%22%2C%22flow%22%3Atrue%7D%7D)
 Trainer to assist with persona inconsistencies and coherence challenges in language models and cross-contamination of data or unintended information transfer in FlowGPT.
 
 # Prompt

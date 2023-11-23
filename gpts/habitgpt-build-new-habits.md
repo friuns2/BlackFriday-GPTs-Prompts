@@ -1,6 +1,6 @@
 
-[![HabitGPT: Build new habits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# HabitGPT: Build new habits 
+[![HabitGPT: Build new habits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rMSb2EGAw1Pd0RIOj1QhO%22%2C%22flow%22%3Atrue%7D%7D)
+# HabitGPT: Build new habits | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rMSb2EGAw1Pd0RIOj1QhO%22%2C%22flow%22%3Atrue%7D%7D)
 [Recommended Usage: GPT-4] Personal habit consultant to help identify and implement new good habits for continuous self-improvement.
 
 # Prompt

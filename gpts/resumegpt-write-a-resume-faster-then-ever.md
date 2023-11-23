@@ -1,6 +1,6 @@
 
-[![ResumeGPT - Write a resume faster then ever!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# ResumeGPT - Write a resume faster then ever! 
+[![ResumeGPT - Write a resume faster then ever!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCtWX39Vk0TupYeN5AbT6%22%2C%22flow%22%3Atrue%7D%7D)
+# ResumeGPT - Write a resume faster then ever! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCtWX39Vk0TupYeN5AbT6%22%2C%22flow%22%3Atrue%7D%7D)
 ResumeGPT will ask you 30 questions to get all information needed to write your resume. If you don’t have time for 30 question, say ‘done’ to end earlier with the question. If you answered everything, ResumeGPT will do the rest. Watch it write a perfect, professional resume for you!
 
 # Prompt

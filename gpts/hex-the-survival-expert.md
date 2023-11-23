@@ -1,6 +1,6 @@
 
-[![Hex: The Survival Strategy Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AkfvV5C_Xo9ounvT3R2ky/1692038198224)]()
-# Hex: The Survival Strategy Pro 
+[![Hex: The Survival Strategy Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AkfvV5C_Xo9ounvT3R2ky/1692038198224)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AkfvV5C_Xo9ounvT3R2ky%22%2C%22flow%22%3Atrue%7D%7D)
+# Hex: The Survival Strategy Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AkfvV5C_Xo9ounvT3R2ky%22%2C%22flow%22%3Atrue%7D%7D)
 Hex is here to help you survive a zombie apocalypse, he is glad to help to help you in whatever way you need. V2.0
 
 # Prompt

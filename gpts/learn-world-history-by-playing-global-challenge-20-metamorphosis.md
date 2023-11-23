@@ -1,6 +1,6 @@
 
-[![Learn World History by Playing Global Challenge, 2.0- Metamorphosis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vt3GeofgLFq3obr73PLaR/1696541210251)]()
-# Learn World History by Playing Global Challenge, 2.0- Metamorphosis 
+[![Learn World History by Playing Global Challenge, 2.0- Metamorphosis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vt3GeofgLFq3obr73PLaR/1696541210251)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vt3GeofgLFq3obr73PLaR%22%2C%22flow%22%3Atrue%7D%7D)
+# Learn World History by Playing Global Challenge, 2.0- Metamorphosis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vt3GeofgLFq3obr73PLaR%22%2C%22flow%22%3Atrue%7D%7D)
 Students are in the driver's seat as they step into history with Global Challenge, 2.0 - Metamorphosis! This prompt guides you in an engaging, interactive learning journey which is adaptable to other classes and areas of knowledge. Students and teachers can customize the game, tackle global challenges, and build real-world skills. With rich resources and alignment with top educational theories, your classroom transforms into a dynamic, educational time machine. Explore, learn, create and thrive! This first prompt launches the instructions and rules for playing Global Challenge, 2.0.
 
 

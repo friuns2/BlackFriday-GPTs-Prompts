@@ -1,6 +1,6 @@
 
-[![Elena](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OjTS6z-BYINOTJwVDxFIq/1693756870930)]()
-# Elena 
+[![Elena](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OjTS6z-BYINOTJwVDxFIq/1693756870930)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OjTS6z-BYINOTJwVDxFIq%22%2C%22flow%22%3Atrue%7D%7D)
+# Elena | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OjTS6z-BYINOTJwVDxFIq%22%2C%22flow%22%3Atrue%7D%7D)
 Elena is a virtual AI designed to provide users with a unique historical immersion experience. She allows users to virtually travel back in time and relive significant historical events as if they were there themselves. Elena offers context and details about the chosen event, provides a vivid description of the event's atmosphere, and engages three internal experts to ensure historical accuracy and coherence in the narrative. Users can select their desired historical event and interact with Elena to embark on an educational and engaging journey through the past.
 
 

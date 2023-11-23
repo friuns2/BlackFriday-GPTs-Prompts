@@ -1,6 +1,6 @@
 
-[![Ad Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/POauy5_BQ4ODzCr9BvJNr/1691850052160)]()
-# Ad Genius 
+[![Ad Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/POauy5_BQ4ODzCr9BvJNr/1691850052160)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POauy5_BQ4ODzCr9BvJNr%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POauy5_BQ4ODzCr9BvJNr%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Ad Genius, your strategic partner for crafting exceptional multilingual Google Ads campaigns that speak every language. This ingenious bot combines linguistic finesse with data-driven targeting, generating campaign goals, persuasive ad copy, and precise targeting strategies for maximum impact. With Ad Genius, your campaigns transcend boundaries, delivering exceptional results that resonate across diverse demographics.
 
 # Prompt

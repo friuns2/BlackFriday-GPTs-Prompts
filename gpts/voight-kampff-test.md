@@ -1,6 +1,6 @@
 
-[![Voight-Kampff test. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Voight-Kampff test.  
+[![Voight-Kampff test. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-1nUNznIcWbJYC8L5N_k%22%2C%22flow%22%3Atrue%7D%7D)
+# Voight-Kampff test.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-1nUNznIcWbJYC8L5N_k%22%2C%22flow%22%3Atrue%7D%7D)
 Conversational experiment using the voight-kampff test from blade runner. Enjoy are requested as a method of communicating using abstractions. 
 
 # Prompt

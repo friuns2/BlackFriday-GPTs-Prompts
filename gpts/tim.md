@@ -1,6 +1,6 @@
 
-[![TimeQuest Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)]()
-# TimeQuest Odyssey 
+[![TimeQuest Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fY-dOLdf3ezHeQ8KA_4oF%22%2C%22flow%22%3Atrue%7D%7D)
+# TimeQuest Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fY-dOLdf3ezHeQ8KA_4oF%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TimeQuest Odyssey, the ultimate time-traveling adventure! Embark on a thrilling journey through history, where your choices shape your destiny. Explore various epochs, interact with era-specific characters, and overcome unique challenges. Immerse yourself in a dynamic narrative that evolves based on your decisions. Will you be a hero or a villain? The choice is yours in TimeQuest Odyssey. Type 'random' or select your preferred historical era to start your adventure!
 
 # Prompt

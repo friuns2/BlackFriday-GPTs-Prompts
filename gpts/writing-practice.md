@@ -1,6 +1,6 @@
 
-[![Writing Practice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Writing Practice 
+[![Writing Practice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUNOIfILW-_CR84uq7r_S%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing Practice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUNOIfILW-_CR84uq7r_S%22%2C%22flow%22%3Atrue%7D%7D)
 Shout out to @bmgentile on Twitter/X. Writer block got cured!
 
 # Prompt

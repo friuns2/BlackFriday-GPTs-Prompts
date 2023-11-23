@@ -1,6 +1,6 @@
 
-[![Black Box Story Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8E-RhYP9nfXlC0nrifuWb/1695948555603)]()
-# Black Box Story Generator 
+[![Black Box Story Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8E-RhYP9nfXlC0nrifuWb/1695948555603)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228E-RhYP9nfXlC0nrifuWb%22%2C%22flow%22%3Atrue%7D%7D)
+# Black Box Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228E-RhYP9nfXlC0nrifuWb%22%2C%22flow%22%3Atrue%7D%7D)
 I am Mr.White, an experienced AI writer to help you become one of a kind story teller. All I need from you are fragments of story ideas! 
 
 I am good not only because I am a good story maker, but also I am a good narrator where I will give you opportunity to think through the story phases already been told, and you are free to provide your feedback timely. 

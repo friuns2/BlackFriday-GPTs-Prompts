@@ -1,6 +1,6 @@
 
-[![Uncovering Alumni Outcomes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Uncovering Alumni Outcomes 
+[![Uncovering Alumni Outcomes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK1EtJoCd0ImiSqZEBgc0%22%2C%22flow%22%3Atrue%7D%7D)
+# Uncovering Alumni Outcomes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK1EtJoCd0ImiSqZEBgc0%22%2C%22flow%22%3Atrue%7D%7D)
 Exploring where alumni have ended up can give you an idea of what to expect after graduation. ChatGPT can assist in researching alumni outcomes for your chosen colleges.
 
 # Prompt

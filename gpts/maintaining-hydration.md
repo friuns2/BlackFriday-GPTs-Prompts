@@ -1,6 +1,6 @@
 
-[![Maintaining Hydration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Maintaining Hydration 
+[![Maintaining Hydration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eqzMYVYNtxkcAKg2UuFCP%22%2C%22flow%22%3Atrue%7D%7D)
+# Maintaining Hydration | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eqzMYVYNtxkcAKg2UuFCP%22%2C%22flow%22%3Atrue%7D%7D)
 Dehydration can lead to various health issues. ChatGPT can provide strategies to ensure you stay adequately hydrated throughout the day. 
 
 # Prompt

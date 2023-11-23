@@ -1,6 +1,6 @@
 
-[![FrankenThink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6B9GHYLkRHyL-CEiE9VbC/1691478292061)]()
-# FrankenThink 
+[![FrankenThink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6B9GHYLkRHyL-CEiE9VbC/1691478292061)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226B9GHYLkRHyL-CEiE9VbC%22%2C%22flow%22%3Atrue%7D%7D)
+# FrankenThink | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226B9GHYLkRHyL-CEiE9VbC%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt that combines multiple thinking prompts into one giant little monster.
 
 # Prompt

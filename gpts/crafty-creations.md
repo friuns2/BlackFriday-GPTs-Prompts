@@ -1,6 +1,6 @@
 
-[![Crafty Creations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# Crafty Creations 
+[![Crafty Creations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rkv0TOv0Qqd8KDkKK4wp6%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafty Creations | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rkv0TOv0Qqd8KDkKK4wp6%22%2C%22flow%22%3Atrue%7D%7D)
 Crafty Creations is the ultimate app for all your crafting needs. Whether you're looking to create a fun craft based on age or skill level, this app has you covered. With Crafty Creations, you can easily find instructions for a variety of crafts that are quick, simple, basic, advanced, expert, or long term. Each set of instructions includes a title, intro, material list, build site requirements, safety precautions, and a main body of instructions presented in a numbered list with bullet summaries. Get creative and start making beautiful crafts with Crafty Creations today!
 
 # Prompt

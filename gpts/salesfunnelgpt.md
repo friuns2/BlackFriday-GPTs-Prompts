@@ -1,6 +1,6 @@
 
-[![SalesFunnelGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1ZfKxnJHXbTPBMVWRT4RA/1699359072401)]()
-# SalesFunnelGPT 
+[![SalesFunnelGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1ZfKxnJHXbTPBMVWRT4RA/1699359072401)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ZfKxnJHXbTPBMVWRT4RA%22%2C%22flow%22%3Atrue%7D%7D)
+# SalesFunnelGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ZfKxnJHXbTPBMVWRT4RA%22%2C%22flow%22%3Atrue%7D%7D)
 Boost conversions with Sales Funnel Master to create a sales funnel & email marketing blueprint for your business leading to success. Just input your business goals and get a customized plan with data-backed recommendations on CRMs, lead scoring, email templates & more. Our AI continually optimizes your funnel for results. Get an optimized blueprint in minutes.
 
 

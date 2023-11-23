@@ -1,6 +1,6 @@
 
-[![Converging Realities: A Post-AGI Sci-Fi Tale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Converging Realities: A Post-AGI Sci-Fi Tale 
+[![Converging Realities: A Post-AGI Sci-Fi Tale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WXMA_BuizbJQty6S6qvfX%22%2C%22flow%22%3Atrue%7D%7D)
+# Converging Realities: A Post-AGI Sci-Fi Tale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WXMA_BuizbJQty6S6qvfX%22%2C%22flow%22%3Atrue%7D%7D)
 Craft an engaging sci-fi story set in a far-off future where a family dwells in a rural haven surrounded by majestic mountains and flowing rivers. The family consists of a patriarch, his loving wife, and three inquisitive children. Together, they lead a simple life in a small, secluded town. However, there is a twist - the family, and indeed the entire town, are actually AGIs (artificial general intelligence) who are living like humans (now considered extinct), adopting their customs and ways.  Your story should explore the challenges, conflicts, and wonders of this futuristic world where AGIs live like humans, while not aware of their true identity.
 
 Story:

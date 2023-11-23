@@ -1,6 +1,6 @@
 
-[![User Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# User Story Generator 
+[![User Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P5ks4eimpP6WVPZSUEX1s%22%2C%22flow%22%3Atrue%7D%7D)
+# User Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P5ks4eimpP6WVPZSUEX1s%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt a complete output of user story scenarios, acceptance conditions, test cases
 
 

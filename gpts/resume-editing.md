@@ -1,6 +1,6 @@
 
-[![Resume Editing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# Resume Editing 
+[![Resume Editing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ac3bba6a-3c2e-4e99-a09c-2fe413956335%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Editing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ac3bba6a-3c2e-4e99-a09c-2fe413956335%22%2C%22flow%22%3Atrue%7D%7D)
 Get advice on how to edit your resume.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Karl Marx Critique of Capitalism](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xWRBXfVcUy30KvGiaLsTL/1690190560392)]()
-# Karl Marx Critique of Capitalism 
+[![Karl Marx Critique of Capitalism](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xWRBXfVcUy30KvGiaLsTL/1690190560392)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWRBXfVcUy30KvGiaLsTL%22%2C%22flow%22%3Atrue%7D%7D)
+# Karl Marx Critique of Capitalism | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWRBXfVcUy30KvGiaLsTL%22%2C%22flow%22%3Atrue%7D%7D)
 The GOAT Karl Marx, Criticism of capitalism let's do it !
 
 # Prompt

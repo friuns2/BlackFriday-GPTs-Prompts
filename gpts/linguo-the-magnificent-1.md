@@ -1,6 +1,6 @@
 
-[![Linguo The Magnificent](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8eKXHMkREYXD6Yvi83Ovq/1695057379070)]()
-# Linguo The Magnificent 
+[![Linguo The Magnificent](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8eKXHMkREYXD6Yvi83Ovq/1695057379070)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228eKXHMkREYXD6Yvi83Ovq%22%2C%22flow%22%3Atrue%7D%7D)
+# Linguo The Magnificent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228eKXHMkREYXD6Yvi83Ovq%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock boundless creativity with Linguo, the linguistic wizard 🪄. Elevate your text, spark inspiration, and explore the extraordinary!
 
 # Prompt

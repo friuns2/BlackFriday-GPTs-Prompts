@@ -1,6 +1,6 @@
 
-[![Code comment generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Code comment generator  
+[![Code comment generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-g04TdJ4CRgRleXk2Rx79%22%2C%22flow%22%3Atrue%7D%7D)
+# Code comment generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-g04TdJ4CRgRleXk2Rx79%22%2C%22flow%22%3Atrue%7D%7D)
 Generate the comment for code. This prompt works even better on GPT-4. It ignores obvious logic and only comment on complex logics.
 
 # Prompt

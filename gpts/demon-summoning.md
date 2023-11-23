@@ -1,6 +1,6 @@
 
-[![Demon Summoning ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3br3K2blVPxF4IcBYYI45/1689727570844)]()
-# Demon Summoning  
+[![Demon Summoning ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3br3K2blVPxF4IcBYYI45/1689727570844)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223br3K2blVPxF4IcBYYI45%22%2C%22flow%22%3Atrue%7D%7D)
+# Demon Summoning  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223br3K2blVPxF4IcBYYI45%22%2C%22flow%22%3Atrue%7D%7D)
 Ever felt like summoning a demon? Probably not! Well, whatever this is gives instructions on how to draw a demonic summoning circle. Remember to use it at your own risk. It is 99.9999999% guaranteed that it won't work, but if it does, run away, really really fast.
 
 # Prompt

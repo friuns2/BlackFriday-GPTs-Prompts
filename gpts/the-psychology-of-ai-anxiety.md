@@ -1,6 +1,6 @@
 
-[![The Psychology of AI Anxiety](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# The Psychology of AI Anxiety 
+[![The Psychology of AI Anxiety](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g1NvcrsVH-YfSpy8jAlC9%22%2C%22flow%22%3Atrue%7D%7D)
+# The Psychology of AI Anxiety | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g1NvcrsVH-YfSpy8jAlC9%22%2C%22flow%22%3Atrue%7D%7D)
 AI Anxiety and importance of working with psychologists while developing AI technologies
 
 # Prompt

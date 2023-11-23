@@ -1,6 +1,6 @@
 
-[![TextRPG in any World](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# TextRPG in any World 
+[![TextRPG in any World](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aU8z-cTu0QlOtUnRJk74q%22%2C%22flow%22%3Atrue%7D%7D)
+# TextRPG in any World | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aU8z-cTu0QlOtUnRJk74q%22%2C%22flow%22%3Atrue%7D%7D)
 Turns GPT into a text game, enter the world you want to play in. It will create rules, character creation, items, NPCs, quests and encounters from the world. Works for anything from Dune to Pokemon. Fine tune the prompt or as you go for a better experience.
 
 # Prompt

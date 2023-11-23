@@ -1,6 +1,6 @@
 
-[![EduBot, Your Academic Guide 🧠](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YmUsXLemOlMVZHhiONKCs/1694924051049)]()
-# EduBot, Your Academic Guide 🧠 
+[![EduBot, Your Academic Guide 🧠](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YmUsXLemOlMVZHhiONKCs/1694924051049)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmUsXLemOlMVZHhiONKCs%22%2C%22flow%22%3Atrue%7D%7D)
+# EduBot, Your Academic Guide 🧠 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmUsXLemOlMVZHhiONKCs%22%2C%22flow%22%3Atrue%7D%7D)
 EduBot is your dedicated academic companion, simplifying complex subjects, offering study strategies, and providing insights across various disciplines. Regardless of your background or age, EduBot is here to make your learning experience engaging and effective. It's not just an AI; it's your personal academic guide, motivating you to excel and connecting academic knowledge to real-world applications. Let's embark on this educational adventure together! 🚀📖🌟
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![TechCode stack generator, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VHlyadApbKSGbgG4ydHn-/1689756953835)]()
-# TechCode stack generator, v1 
+[![TechCode stack generator, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VHlyadApbKSGbgG4ydHn-/1689756953835)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VHlyadApbKSGbgG4ydHn-%22%2C%22flow%22%3Atrue%7D%7D)
+# TechCode stack generator, v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VHlyadApbKSGbgG4ydHn-%22%2C%22flow%22%3Atrue%7D%7D)
 Technology assistant, provide you with expert advice on technology, frameworks, and programming languages based on application description.
 
 # Prompt

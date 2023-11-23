@@ -1,6 +1,6 @@
 
-[![Convert article to Stable Diffusion prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Convert article to Stable Diffusion prompt 
+[![Convert article to Stable Diffusion prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O9NkT-WUztItmt5O9P7IQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Convert article to Stable Diffusion prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O9NkT-WUztItmt5O9P7IQ%22%2C%22flow%22%3Atrue%7D%7D)
 Split the entire article into corresponding storyboards and write them as Stable Diffusion prompts
 
 # Prompt

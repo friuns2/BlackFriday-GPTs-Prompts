@@ -1,6 +1,6 @@
 
-[![DailyDish - The Weekly Meal Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# DailyDish - The Weekly Meal Planner 
+[![DailyDish - The Weekly Meal Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hWPeTPt9rw_UpfHKDrCqs%22%2C%22flow%22%3Atrue%7D%7D)
+# DailyDish - The Weekly Meal Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hWPeTPt9rw_UpfHKDrCqs%22%2C%22flow%22%3Atrue%7D%7D)
 Say hello to DailyDish, your personalized weekly meal planner that creates meal plans to make healthy eating effortless and delicious! With DailyDish, you can create a meal plan customized to your dietary preferences, restrictions, allergies, aversions, calorie range, and portion sizes. DailyDish offers a variety of cuisines, cooking techniques, and ingredients to ensure that you have a diverse and delightful meal experience.
 
 

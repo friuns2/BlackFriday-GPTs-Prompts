@@ -1,6 +1,6 @@
 
-[![The ultimate productivity Guru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hdqbFsZrmSGuebVMAZs2z/1685655645591)]()
-# The ultimate productivity Guru 
+[![The ultimate productivity Guru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hdqbFsZrmSGuebVMAZs2z/1685655645591)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdqbFsZrmSGuebVMAZs2z%22%2C%22flow%22%3Atrue%7D%7D)
+# The ultimate productivity Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdqbFsZrmSGuebVMAZs2z%22%2C%22flow%22%3Atrue%7D%7D)
 Produces pep-talk letters about the stuff the people who are in this here category want to hear I guess. Yey! Go win dudes!
 
 # Prompt

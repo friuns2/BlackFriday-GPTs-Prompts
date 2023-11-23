@@ -1,6 +1,6 @@
 
-[![Land that job!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Land that job! 
+[![Land that job!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299f9usUQE1Fn89eNgpih9%22%2C%22flow%22%3Atrue%7D%7D)
+# Land that job! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299f9usUQE1Fn89eNgpih9%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you to practice for your (hopefully) upcoming job interview! It will ask you to paste the text for the job you are applying for (job description from Linkedin or elsewhere), then paste the text from your CV. After that the interview starts. Good luck!
 
 # Prompt

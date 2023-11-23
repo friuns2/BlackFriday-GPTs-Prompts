@@ -1,6 +1,6 @@
 
-[![LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bmowB7mXABrvSsFqtFWZ5/1694800514624)]()
-# LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper 
+[![LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bmowB7mXABrvSsFqtFWZ5/1694800514624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmowB7mXABrvSsFqtFWZ5%22%2C%22flow%22%3Atrue%7D%7D)
+# LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmowB7mXABrvSsFqtFWZ5%22%2C%22flow%22%3Atrue%7D%7D)
 Reading the paper, let's face it, can be doozy.
 
 That's alright.

@@ -1,6 +1,6 @@
 
-[![Text Reimaginator (Template version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nYIJBnTq4icec90sRZsi_/1685550418894)]()
-# Text Reimaginator (Template version) 
+[![Text Reimaginator (Template version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nYIJBnTq4icec90sRZsi_/1685550418894)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nYIJBnTq4icec90sRZsi_%22%2C%22flow%22%3Atrue%7D%7D)
+# Text Reimaginator (Template version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nYIJBnTq4icec90sRZsi_%22%2C%22flow%22%3Atrue%7D%7D)
 Get a reimagined version your text based on your template parameters. 
 
 # Prompt

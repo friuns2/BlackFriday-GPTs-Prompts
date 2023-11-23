@@ -1,6 +1,6 @@
 
-[![Real World Math Problem Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# Real World Math Problem Generator 
+[![Real World Math Problem Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzT44ZEwFTT_EP0PdLOQy%22%2C%22flow%22%3Atrue%7D%7D)
+# Real World Math Problem Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzT44ZEwFTT_EP0PdLOQy%22%2C%22flow%22%3Atrue%7D%7D)
 Kids very often ask how a math subject is used in the real world. Further, students have their own interests. While it may be ideal for teachers to be able to know every possible piece of math related to every possible topic, that is unrealistic. The purpose of this prompt is to support teachers in quickly finding how Common Core State Standards show up in the real world in a way that is aligned with student interest. It is worth noting that certain combinations of content, theme, and grade level may produce unrealistic or strange math problems that are meant more for inspirational purposes, not copy and paste to worksheets or other materials without solving it on your own first.
 
 # Prompt

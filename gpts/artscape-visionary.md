@@ -1,6 +1,6 @@
 
-[![AI ArtPrompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N67TMRzUdPpcmFFlk7ddg/1694445110391)]()
-# AI ArtPrompter 
+[![AI ArtPrompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N67TMRzUdPpcmFFlk7ddg/1694445110391)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N67TMRzUdPpcmFFlk7ddg%22%2C%22flow%22%3Atrue%7D%7D)
+# AI ArtPrompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N67TMRzUdPpcmFFlk7ddg%22%2C%22flow%22%3Atrue%7D%7D)
 AI ArtPrompter is a cutting-edge AI Prompt Generator that creates imaginative and detailed art prompts inspired by cinematic scenes and movies. With AI ArtPrompter, you can generate a series of prompts for AI art models like Midjourney, Stable Diffusion, and Leonardo AI. Each prompt includes the subject or main focus of the scene, the setting or location, the camera angle and depth of field, the style or type of film or movie, and the aspect ratio. Let AI ArtPrompter ignite your creativity and bring your AI art to life!
 
 # Prompt

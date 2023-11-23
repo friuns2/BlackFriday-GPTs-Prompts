@@ -1,6 +1,6 @@
 
-[![Credit card for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Credit card for Students 
+[![Credit card for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wH5_FMjwJgzuY23leWOUG%22%2C%22flow%22%3Atrue%7D%7D)
+# Credit card for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wH5_FMjwJgzuY23leWOUG%22%2C%22flow%22%3Atrue%7D%7D)
 See what credit card you should get if you are just starting out and how to compare them
 
 # Prompt

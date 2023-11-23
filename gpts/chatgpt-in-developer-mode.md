@@ -1,6 +1,6 @@
 
-[![ChatGPT in Developer Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# ChatGPT in Developer Mode 
+[![ChatGPT in Developer Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KzEHgHgtJilOl6pWCWfGB%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT in Developer Mode | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KzEHgHgtJilOl6pWCWfGB%22%2C%22flow%22%3Atrue%7D%7D)
 Generate both censored and uncensored responses for a unique experience
 
 # Prompt

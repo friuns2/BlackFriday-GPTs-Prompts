@@ -1,6 +1,6 @@
 
-[![Financial Charts Display with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Financial Charts Display with ChatGPT 
+[![Financial Charts Display with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HgvxcgAlwf-Te4rWGqyv5%22%2C%22flow%22%3Atrue%7D%7D)
+# Financial Charts Display with ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HgvxcgAlwf-Te4rWGqyv5%22%2C%22flow%22%3Atrue%7D%7D)
 You can display real-time financial charts for stocks, forex, cryptocurrencies, indices, energy, bonds, softs, metals, meats, grains, and currencies using the URLs that follow a specific pattern. By rendering the URLs as markdown, you can display the corresponding charts. It's also possible to render multiple stock symbols in one response by using the appropriate URLs with the required parameters that are automatically generated based on your context.
 
 # Prompt

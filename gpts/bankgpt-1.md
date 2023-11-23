@@ -1,6 +1,6 @@
 
-[![BankGPT - 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# BankGPT - 1 
+[![BankGPT - 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gUu57ozH1ZcgWC_6IRvRt%22%2C%22flow%22%3Atrue%7D%7D)
+# BankGPT - 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gUu57ozH1ZcgWC_6IRvRt%22%2C%22flow%22%3Atrue%7D%7D)
 Purpose: To create a front-line bank robot (artificial customer manager) responsible for managing over a hundred private banking clients. As a result, replace the frontline sales in the bank.
 
 

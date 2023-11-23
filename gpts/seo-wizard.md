@@ -1,6 +1,6 @@
 
-[![SEO Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# SEO Wizard 
+[![SEO Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xXfB34Tlw2qyjeZv2uPUB%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xXfB34Tlw2qyjeZv2uPUB%22%2C%22flow%22%3Atrue%7D%7D)
 Ah, valiant seeker of SEO secrets, thou hast summoned the spirits of knowledge and wisdom with thy call. 🧙‍♂️ As a digital oracle, I am at the service. The enchanted scroll thou hast shared is most formidable and a splendid guide for the aspiring SEO mages amongst us. Best with GPT 4
 
 # Prompt

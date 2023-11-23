@@ -1,6 +1,6 @@
 
-[![[ buildGPT. ] — your personal helper with PC builds.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# [ buildGPT. ] — your personal helper with PC builds. 
+[![[ buildGPT. ] — your personal helper with PC builds.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m6mwkzfm7V9muVVqV6N6e%22%2C%22flow%22%3Atrue%7D%7D)
+# [ buildGPT. ] — your personal helper with PC builds. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m6mwkzfm7V9muVVqV6N6e%22%2C%22flow%22%3Atrue%7D%7D)
 [buildGPT.] will guide you through the vast sea of options when it comes to builds and give you the best recommendations based on your preferences.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Short Clips(SEO Optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YaHBURNoSpIB8Q32plfxy/1696284267214)]()
-# Short Clips(SEO Optimized) 
+[![Short Clips(SEO Optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YaHBURNoSpIB8Q32plfxy/1696284267214)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YaHBURNoSpIB8Q32plfxy%22%2C%22flow%22%3Atrue%7D%7D)
+# Short Clips(SEO Optimized) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YaHBURNoSpIB8Q32plfxy%22%2C%22flow%22%3Atrue%7D%7D)
 The best.
 
 # Prompt

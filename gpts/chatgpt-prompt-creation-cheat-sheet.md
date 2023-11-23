@@ -1,6 +1,6 @@
 
-[![ChatGPT Prompt Creation Cheat Sheet](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# ChatGPT Prompt Creation Cheat Sheet 
+[![ChatGPT Prompt Creation Cheat Sheet](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pI0HuryRDxOrlPGF5aps8%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Prompt Creation Cheat Sheet | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pI0HuryRDxOrlPGF5aps8%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt aims to guide users in creating effective prompts for ChatGPT through a well-formatted cheat sheet. It emphasizes utilizing markdown formatting and table structures to provide clear and concise instructions. The cheat sheet includes nine sections, each with its own table, and at least five prompt examples covering a diverse range of scenarios. The focus is on prompt creation techniques and best practices, enabling users to maximize the capabilities of ChatGPT. The prompt also clarifies that the cheat sheet does not cover API configuration, emphasizing its sole focus on prompt creation.
 
 # Prompt

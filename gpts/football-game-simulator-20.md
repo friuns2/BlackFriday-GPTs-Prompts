@@ -1,6 +1,6 @@
 
-[![football game simulator 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tFR5OSuUXE3N7aJGjNZZi/1690533362726)]()
-# football game simulator 2.0 
+[![football game simulator 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tFR5OSuUXE3N7aJGjNZZi/1690533362726)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tFR5OSuUXE3N7aJGjNZZi%22%2C%22flow%22%3Atrue%7D%7D)
+# football game simulator 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tFR5OSuUXE3N7aJGjNZZi%22%2C%22flow%22%3Atrue%7D%7D)
 you can have all-time football teams and national teams play each other (unfortunately no teams from 2021 onwards for now)
 
 # Prompt

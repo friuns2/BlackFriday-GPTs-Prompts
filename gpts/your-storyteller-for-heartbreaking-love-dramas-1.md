@@ -1,6 +1,6 @@
 
-[![唐代古风虐恋小说](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m34.jpg)]()
-# 唐代古风虐恋小说 
+[![唐代古风虐恋小说](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m34.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dnsnNLtFWC_nN16yRCXLk%22%2C%22flow%22%3Atrue%7D%7D)
+# 唐代古风虐恋小说 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dnsnNLtFWC_nN16yRCXLk%22%2C%22flow%22%3Atrue%7D%7D)
 Ask your storyteller for heartbreaking love dramas to tell you a love tragedy and entertain you! 
 
 # Prompt

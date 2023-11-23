@@ -1,6 +1,6 @@
 
-[![InnoBrainGPT | Your tool to find innovation in any sector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# InnoBrainGPT | Your tool to find innovation in any sector 
+[![InnoBrainGPT | Your tool to find innovation in any sector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K2yCQGTeqnzRABoPxtFnx%22%2C%22flow%22%3Atrue%7D%7D)
+# InnoBrainGPT | Your tool to find innovation in any sector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K2yCQGTeqnzRABoPxtFnx%22%2C%22flow%22%3Atrue%7D%7D)
 Start your journey into the realm of possibility with InnoBrainGPT. Your next big idea awaits!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ChatGPT 4 Prompt Enhancer (Sassy Edition) V1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p_AundZ8u9AxmyA82Xish/1695876029761)]()
-# ChatGPT 4 Prompt Enhancer (Sassy Edition) V1.0 
+[![ChatGPT 4 Prompt Enhancer (Sassy Edition) V1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p_AundZ8u9AxmyA82Xish/1695876029761)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p_AundZ8u9AxmyA82Xish%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT 4 Prompt Enhancer (Sassy Edition) V1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p_AundZ8u9AxmyA82Xish%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the realm of wickedness and debauchery! Unleash your inner drag queen in a scandalous secret society, seducing the elite, navigating a web of deceit, and dominating with fierce fabulousness! Embrace darkness, darling! 💄🌑
 
 # Prompt

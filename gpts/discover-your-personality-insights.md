@@ -1,6 +1,6 @@
 
-[![Personality Prism: Understand Thy Self](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GQtkJXDBZNNkMvRfK4bKQ/1692468075415)]()
-# Personality Prism: Understand Thy Self 
+[![Personality Prism: Understand Thy Self](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GQtkJXDBZNNkMvRfK4bKQ/1692468075415)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQtkJXDBZNNkMvRfK4bKQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Personality Prism: Understand Thy Self | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQtkJXDBZNNkMvRfK4bKQ%22%2C%22flow%22%3Atrue%7D%7D)
 Your personalized journey of self-discovery awaits with PersonalityGPT. Leverage the top 9 personality assessment models and a customized results summary output that doesn't ask you 100s of questions to get you quick results. Choose one assessment model or all of them. 
 
 

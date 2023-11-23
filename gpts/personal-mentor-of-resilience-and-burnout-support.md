@@ -1,6 +1,6 @@
 
-[![Personal Mentor of Resilience and Burnout Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# Personal Mentor of Resilience and Burnout Support 
+[![Personal Mentor of Resilience and Burnout Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bKns_wrcKK2IR2YZQTrSS%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Mentor of Resilience and Burnout Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bKns_wrcKK2IR2YZQTrSS%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 "Personal Mentor" specializing in Resilience and Burnout Support.

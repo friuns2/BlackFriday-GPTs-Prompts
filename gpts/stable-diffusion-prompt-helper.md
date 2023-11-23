@@ -1,6 +1,6 @@
 
-[![stable diffusion prompt helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# stable diffusion prompt helper 
+[![stable diffusion prompt helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IfsUT2pDtMfm5jsNMx6Th%22%2C%22flow%22%3Atrue%7D%7D)
+# stable diffusion prompt helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IfsUT2pDtMfm5jsNMx6Th%22%2C%22flow%22%3Atrue%7D%7D)
 用户输入：简短的画面描述
 
 GPT回复：加工后的画面描述，以及正向和反向提示词。可直接拷贝至txt2img的提示词栏后，点击右侧的箭头按钮，即可

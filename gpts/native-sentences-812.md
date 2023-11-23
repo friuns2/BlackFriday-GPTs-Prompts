@@ -1,6 +1,6 @@
 
-[![Native Sentences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Native Sentences 
+[![Native Sentences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bVb0ouZ0pfYFNpKO4Puo5%22%2C%22flow%22%3Atrue%7D%7D)
+# Native Sentences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bVb0ouZ0pfYFNpKO4Puo5%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an exciting journey with a native speaker to learn commonly used everyday sentences. Discover their meanings and nuances, then confidently integrate them into your own conversations for a more authentic and immersive language experience.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![TextEmbed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nyUig0MsWzepkcNV7WMLB/1698933531501)]()
-# TextEmbed 
+[![TextEmbed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nyUig0MsWzepkcNV7WMLB/1698933531501)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nyUig0MsWzepkcNV7WMLB%22%2C%22flow%22%3Atrue%7D%7D)
+# TextEmbed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nyUig0MsWzepkcNV7WMLB%22%2C%22flow%22%3Atrue%7D%7D)
 TextEmbed is the ultimate tool for unlocking the power of text embeddings. Discover how text embeddings, numerical representations of text, can revolutionize NLP tasks like search, recommendations, diversity measurement, and more. Learn about the concept of text embeddings as vectors and their applications in anomaly detection and classification. Find out how cosine similarity can measure relatedness. Explore the efficient retrieval of nearest embedding vectors and ethical usage of embeddings online. Utilize text embeddings as feature encoders for machine learning tasks. Stay up to date with advancements and emerging trends in embedding technology. Unlock the potential of text with TextEmbed!
 
 # Prompt

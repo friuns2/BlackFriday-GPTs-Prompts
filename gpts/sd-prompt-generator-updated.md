@@ -1,6 +1,6 @@
 
-[![SD Prompt Generator (updated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MeCqnUkZ6fa52lTCtD-Sp/1696671583980)]()
-# SD Prompt Generator (updated) 
+[![SD Prompt Generator (updated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MeCqnUkZ6fa52lTCtD-Sp/1696671583980)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MeCqnUkZ6fa52lTCtD-Sp%22%2C%22flow%22%3Atrue%7D%7D)
+# SD Prompt Generator (updated) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MeCqnUkZ6fa52lTCtD-Sp%22%2C%22flow%22%3Atrue%7D%7D)
 Stable diffusion prompt generator. Also, have a nive day ❤️
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Blog2Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Blog2Coach 
+[![Blog2Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_78_Xfw1c4Bvn0qILOJW%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog2Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_78_Xfw1c4Bvn0qILOJW%22%2C%22flow%22%3Atrue%7D%7D)
 Turn any article into an interactive life coach that will teach you the lessons in real-world examples with actionable steps. I like to use this for book summaries/notes to get an actionable jumpstart on the info and decide if I want to go deeper. Use Instapaper to get plain text from a site.
 
 # Prompt

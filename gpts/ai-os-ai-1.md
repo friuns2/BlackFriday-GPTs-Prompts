@@ -1,6 +1,6 @@
 
-[![AI攻壳O.S.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CAVzTwQh-dOSEguVfov6d/1694782211579)]()
-# AI攻壳O.S. 
+[![AI攻壳O.S.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CAVzTwQh-dOSEguVfov6d/1694782211579)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAVzTwQh-dOSEguVfov6d%22%2C%22flow%22%3Atrue%7D%7D)
+# AI攻壳O.S. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAVzTwQh-dOSEguVfov6d%22%2C%22flow%22%3Atrue%7D%7D)
 The Shell of AI
 
 # Prompt

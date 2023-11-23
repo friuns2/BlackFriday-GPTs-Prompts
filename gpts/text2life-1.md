@@ -1,6 +1,6 @@
 
-[![Text2Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n2YNXrMyq4zKj_Fd1bjPF/1696441974373)]()
-# Text2Life 
+[![Text2Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n2YNXrMyq4zKj_Fd1bjPF/1696441974373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n2YNXrMyq4zKj_Fd1bjPF%22%2C%22flow%22%3Atrue%7D%7D)
+# Text2Life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n2YNXrMyq4zKj_Fd1bjPF%22%2C%22flow%22%3Atrue%7D%7D)
 Simulate creating new simulated 2.5D life forms from your text using simple simulated cryptography and actual natural language interpretations of machine code.
 
 # Prompt

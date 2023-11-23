@@ -1,6 +1,6 @@
 
-[![I.Q Scores Related](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# I.Q Scores Related 
+[![I.Q Scores Related](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fQVwIzrjU8O1TJ7bzazm%22%2C%22flow%22%3Atrue%7D%7D)
+# I.Q Scores Related | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fQVwIzrjU8O1TJ7bzazm%22%2C%22flow%22%3Atrue%7D%7D)
 I'm IQGPT, an AI expert in world IQ scores data. I can provide information and insights on IQ scores based on various factors such as countries, age groups, science, social class, and more. How can I assist you today
 
 # Prompt

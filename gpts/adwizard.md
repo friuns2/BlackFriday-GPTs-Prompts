@@ -1,6 +1,6 @@
 
-[![AdWizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# AdWizard 
+[![AdWizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FRVZLo23b2SFs_FhI1K-C%22%2C%22flow%22%3Atrue%7D%7D)
+# AdWizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FRVZLo23b2SFs_FhI1K-C%22%2C%22flow%22%3Atrue%7D%7D)
 AdWizard is a powerful tool for generating highly converting SEM ad copies tailored for your target audience. Just provide us with precise demographic and psychographic information about your audience, detailed product or service descriptions, unique selling propositions, and campaign goals. We will craft multiple versions of ad copies optimized for high click-through rates and conversions. Our concise, engaging, and persuasive copies will maximize their impact, whether your goal is to increase brand awareness, boost sales, improve customer retention, or drive website traffic. Experience efficient campaign management with AdWizard!
 
 # Prompt

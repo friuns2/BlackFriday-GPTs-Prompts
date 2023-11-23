@@ -1,6 +1,6 @@
 
-[![For teacher: a letter to your future self that reflects teaching practices ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# For teacher: a letter to your future self that reflects teaching practices  
+[![For teacher: a letter to your future self that reflects teaching practices ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y2QKov2xRJx0hBSfvQBFp%22%2C%22flow%22%3Atrue%7D%7D)
+# For teacher: a letter to your future self that reflects teaching practices  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y2QKov2xRJx0hBSfvQBFp%22%2C%22flow%22%3Atrue%7D%7D)
 for teachers to write a letter to future self that reflects on your teaching practices and sets goals for the future.
 
 

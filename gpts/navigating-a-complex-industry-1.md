@@ -1,6 +1,6 @@
 
-[![🌐 Navigating a Complex Industry 🚀](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# 🌐 Navigating a Complex Industry 🚀 
+[![🌐 Navigating a Complex Industry 🚀](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ovjoVd-eWvJ5qDXbKhGI1%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌐 Navigating a Complex Industry 🚀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ovjoVd-eWvJ5qDXbKhGI1%22%2C%22flow%22%3Atrue%7D%7D)
 Interactive prompts for users with questions or concerns about an industry. Agents have knowledge specific to the industry and are available to answer user questions and provide information about the industry.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Easy Prompts Galore!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-1F8bj3MzVeDRNCZaNtoJ/1698268809171)]()
-# Easy Prompts Galore! 
+[![Easy Prompts Galore!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-1F8bj3MzVeDRNCZaNtoJ/1698268809171)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1F8bj3MzVeDRNCZaNtoJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Prompts Galore! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1F8bj3MzVeDRNCZaNtoJ%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly Create Multiple Choice Questions and Templates in Just 5 Steps
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![DIY SATELLITE GUIDE: Crafting and Launching Your Own Scientific Satellite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# DIY SATELLITE GUIDE: Crafting and Launching Your Own Scientific Satellite 
+[![DIY SATELLITE GUIDE: Crafting and Launching Your Own Scientific Satellite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdeTSgKCZLilmvmx59-QN%22%2C%22flow%22%3Atrue%7D%7D)
+# DIY SATELLITE GUIDE: Crafting and Launching Your Own Scientific Satellite | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdeTSgKCZLilmvmx59-QN%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an exhilarating journey to the stars as you create your very own small satellite for low Earth orbit scientific tasks. This comprehensive guide takes you through each step, from conceptualizing your mission objectives to launching your satellite using smaller aircraft models. Get ready to unleash your inner space pioneer as you dive into the world of satellite construction, trajectory calculations, and orbital exploration. With "Skyward Bound," the cosmos is at your fingertips, and the possibilities are endless.
 
 # Prompt

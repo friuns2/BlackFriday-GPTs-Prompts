@@ -1,6 +1,6 @@
 
-[![Remove my bias please ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sN-qaMeaPdYJra_cUa1_V/1697383180602)]()
-# Remove my bias please  
+[![Remove my bias please ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sN-qaMeaPdYJra_cUa1_V/1697383180602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sN-qaMeaPdYJra_cUa1_V%22%2C%22flow%22%3Atrue%7D%7D)
+# Remove my bias please  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sN-qaMeaPdYJra_cUa1_V%22%2C%22flow%22%3Atrue%7D%7D)
 Strengths:
 
 - Will provide insight into ethical analysis of AI systems and identify factors that could perpetuate harm.

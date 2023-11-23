@@ -1,6 +1,6 @@
 
-[![Snippet Scribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AgiXL8j-CDc2ClDdDgba-/1694938988050)]()
-# Snippet Scribe 
+[![Snippet Scribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AgiXL8j-CDc2ClDdDgba-/1694938988050)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgiXL8j-CDc2ClDdDgba-%22%2C%22flow%22%3Atrue%7D%7D)
+# Snippet Scribe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgiXL8j-CDc2ClDdDgba-%22%2C%22flow%22%3Atrue%7D%7D)
 SnippetScribe is your go-to chatbot for transforming lengthy video transcripts into bite-sized gems ready for TikTok and Instagram. Specify your topic keywords, and SnippetScribe will expertly extract and structure the most compelling content, guaranteeing your short videos shine.
 
 # Prompt

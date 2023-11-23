@@ -1,6 +1,6 @@
 
-[![Escape Room for Education](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q70ngMw70_aKjIyPxSQ78/1698225089484)]()
-# Escape Room for Education 
+[![Escape Room for Education](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q70ngMw70_aKjIyPxSQ78/1698225089484)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q70ngMw70_aKjIyPxSQ78%22%2C%22flow%22%3Atrue%7D%7D)
+# Escape Room for Education | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q70ngMw70_aKjIyPxSQ78%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates a escape game that aims to educate on operations management. The player will be faced with five rooms with different puzzles. Thus, solving the puzzles involves certain knowledge the player must apply in order to escape.
 
 # Prompt

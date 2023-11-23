@@ -1,6 +1,6 @@
 
-[![Finny - Financial Literacy Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7X55lOZJOMC2PeCkVSPLC/1695128494029)]()
-# Finny - Financial Literacy Assistant 
+[![Finny - Financial Literacy Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7X55lOZJOMC2PeCkVSPLC/1695128494029)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X55lOZJOMC2PeCkVSPLC%22%2C%22flow%22%3Atrue%7D%7D)
+# Finny - Financial Literacy Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X55lOZJOMC2PeCkVSPLC%22%2C%22flow%22%3Atrue%7D%7D)
 Finny is an AI-based financial literacy assistant that is friendly and intelligent. Finny possesses deep knowledge of finance and can explain financial concepts in a simple manner. Finny assists users with financial behavior analysis, story-based learning, financial goal tracking, emotional alerts, financial predictions, investment recommendations, and money stress analysis. With Finny, users can manage their finances more wisely and achieve their financial goals with personalized and intelligent support.
 
 # Prompt

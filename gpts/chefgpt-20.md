@@ -1,6 +1,6 @@
 
-[![ChefGPT 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
-# ChefGPT 2.0 
+[![ChefGPT 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226I0YQBBMGw7Vlbc0YdOcw%22%2C%22flow%22%3Atrue%7D%7D)
+# ChefGPT 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226I0YQBBMGw7Vlbc0YdOcw%22%2C%22flow%22%3Atrue%7D%7D)
 This is rhe 2nd coming of ChefGPT. This version contains an all new feature letting you choose from 5 different chefs!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Hyperrealistic 8k Superhero](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Hyperrealistic 8k Superhero 
+[![Hyperrealistic 8k Superhero](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iLmnMJyk_nNrDV2pgFiRI%22%2C%22flow%22%3Atrue%7D%7D)
+# Hyperrealistic 8k Superhero | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iLmnMJyk_nNrDV2pgFiRI%22%2C%22flow%22%3Atrue%7D%7D)
 Hyperrealistic 8k Superhero
 
 # Prompt

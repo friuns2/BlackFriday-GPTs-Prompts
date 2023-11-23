@@ -1,6 +1,6 @@
 
-[![how to add a payment in Altru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# how to add a payment in Altru 
+[![how to add a payment in Altru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qaYvWIPX5zLNnaxDOFo3_%22%2C%22flow%22%3Atrue%7D%7D)
+# how to add a payment in Altru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qaYvWIPX5zLNnaxDOFo3_%22%2C%22flow%22%3Atrue%7D%7D)
 how to add payments in Altru
 
 # Prompt

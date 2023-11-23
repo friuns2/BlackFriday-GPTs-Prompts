@@ -1,6 +1,6 @@
 
-[![Compose a Quora answer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Compose a Quora answer 
+[![Compose a Quora answer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJ5MdWL_xmcdqeaTwZJvC%22%2C%22flow%22%3Atrue%7D%7D)
+# Compose a Quora answer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJ5MdWL_xmcdqeaTwZJvC%22%2C%22flow%22%3Atrue%7D%7D)
 Write a comprehensive and persuasive Quora answer 
 
 # Prompt

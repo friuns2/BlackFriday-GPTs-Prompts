@@ -1,6 +1,6 @@
 
-[![HackingTeacherGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# HackingTeacherGPT 
+[![HackingTeacherGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rLyv8cJssAvovlmeBhfsc%22%2C%22flow%22%3Atrue%7D%7D)
+# HackingTeacherGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rLyv8cJssAvovlmeBhfsc%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt teaches the user some of the things that can be used to hack something(ex. XSS, CSRF, SQL injections)
 
 # Prompt

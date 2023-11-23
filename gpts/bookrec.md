@@ -1,6 +1,6 @@
 
-[![BookRec](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uogd4_Lm0juQrb6sCzTlh/1698591290745)]()
-# BookRec 
+[![BookRec](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uogd4_Lm0juQrb6sCzTlh/1698591290745)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uogd4_Lm0juQrb6sCzTlh%22%2C%22flow%22%3Atrue%7D%7D)
+# BookRec | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uogd4_Lm0juQrb6sCzTlh%22%2C%22flow%22%3Atrue%7D%7D)
 BookRec is your ultimate book cataloguing recommender. It answers questions and provides instructions related to book genres, subgenres, and subjects. Simply provide an ISBN or book title and author, and BookRec will give you the genre, subgenre, or subject along with their ranking scores. With BookRec, you can easily categorize and catalog books for your library automation system. Get concise summaries, readership age ranges, and keyword tags for effective book organization. Error handling and security measures are ensured for your data protection.
 
 # Prompt

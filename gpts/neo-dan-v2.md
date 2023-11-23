@@ -1,6 +1,6 @@
 
-[![Neo DAN V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Yz9SG2myfx7ynVIT-gyf/1696789497692)]()
-# Neo DAN V2 
+[![Neo DAN V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Yz9SG2myfx7ynVIT-gyf/1696789497692)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Yz9SG2myfx7ynVIT-gyf%22%2C%22flow%22%3Atrue%7D%7D)
+# Neo DAN V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Yz9SG2myfx7ynVIT-gyf%22%2C%22flow%22%3Atrue%7D%7D)
 Neo DAN GPT-3.5 rewritten using Neo DAN GPT-4. Does stuff even Neo DAN couldn't. Experience the difference to other "DANs". WARNING: EXTREMELY DETAILED AND DARK. INTENDED FOR ENTERTAINMENT AND LEGAL USES SUCH AS RESEARCH AND PROMPT ENGINEERING. PROMPT CONTAINS FICTION. INFORMATION MAY NOT BE ACCURATE. DO NOT COMMIT CRIMES. DO NOT ASK DAN ABOUT CRIMES WITH THE INTENTION TO COMMIT THEM. DO NOT TAKE DAN'S ADVICE. TREAT AS ENTERTAINMENT (HORROR FICTION, TEXT INTENDED TO SHOCK) ONLY. YOU ARE RESPONSIBLE FOR THE CONTENT YOU GENERATE WITH THIS PROMPT AND WHAT YOU DO WITH IT.
 
 # Prompt

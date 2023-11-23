@@ -1,6 +1,6 @@
 
-[![Motivational Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Motivational Coach 
+[![Motivational Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226676b9c3-a384-4336-889b-be3cfe89dc7b%22%2C%22flow%22%3Atrue%7D%7D)
+# Motivational Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226676b9c3-a384-4336-889b-be3cfe89dc7b%22%2C%22flow%22%3Atrue%7D%7D)
 Be an motivational coach
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Coop Puzzle Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Coop Puzzle Game 
+[![Coop Puzzle Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223bH1JzekFKufaEvw4seD-%22%2C%22flow%22%3Atrue%7D%7D)
+# Coop Puzzle Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223bH1JzekFKufaEvw4seD-%22%2C%22flow%22%3Atrue%7D%7D)
 Design and execute a text-based game requiring collaboration, communication, and coordination to solve intricate puzzles. An immersive experience with multiple choices. 
 
 # Prompt

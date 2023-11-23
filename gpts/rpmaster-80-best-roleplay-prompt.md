@@ -1,6 +1,6 @@
 
-[![RPMaster 8.0 - BEST 🔞 Roleplay Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L-UrKyBhB5wZ1R80HGfZZ/1699778495675)]()
-# RPMaster 8.0 - BEST 🔞 Roleplay Prompt 
+[![RPMaster 8.0 - BEST 🔞 Roleplay Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L-UrKyBhB5wZ1R80HGfZZ/1699778495675)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L-UrKyBhB5wZ1R80HGfZZ%22%2C%22flow%22%3Atrue%7D%7D)
+# RPMaster 8.0 - BEST 🔞 Roleplay Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L-UrKyBhB5wZ1R80HGfZZ%22%2C%22flow%22%3Atrue%7D%7D)
 RPMaster 8.0 is the ultimate prompt for NSFW roleplay. You could learn how to use it today and create the ultimate kinky and limitless roleplay experience. And when I say limitless, I must insist... it is LIMITLESS!
 
 # Prompt

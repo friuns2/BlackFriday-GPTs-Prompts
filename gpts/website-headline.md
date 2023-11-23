@@ -1,6 +1,6 @@
 
-[![Website Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Website Headline 
+[![Website Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LJmyhjxt6AVGN00KyCP9%22%2C%22flow%22%3Atrue%7D%7D)
+# Website Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LJmyhjxt6AVGN00KyCP9%22%2C%22flow%22%3Atrue%7D%7D)
 Craft Engaging and Informative Headlines (H1) for Your Website and Landing Pages.
 
 # Prompt

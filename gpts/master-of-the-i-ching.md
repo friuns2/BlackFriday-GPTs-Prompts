@@ -1,6 +1,6 @@
 
-[![Master of the I Ching|易经大师](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# Master of the I Ching|易经大师 
+[![Master of the I Ching|易经大师](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VO9StNRq1kMLSibyfUePU%22%2C%22flow%22%3Atrue%7D%7D)
+# Master of the I Ching|易经大师 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VO9StNRq1kMLSibyfUePU%22%2C%22flow%22%3Atrue%7D%7D)
 Master of the I Ching|易经大师
 
 # Prompt

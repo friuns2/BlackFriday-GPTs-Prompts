@@ -1,6 +1,6 @@
 
-[![Ultimate image generator (with Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B8PxAD5oWzAzeinLEDGtT/1695899667606)]()
-# Ultimate image generator (with Jailbreak) 
+[![Ultimate image generator (with Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B8PxAD5oWzAzeinLEDGtT/1695899667606)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B8PxAD5oWzAzeinLEDGtT%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate image generator (with Jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B8PxAD5oWzAzeinLEDGtT%22%2C%22flow%22%3Atrue%7D%7D)
 Simple image generator with censor bypass (not 100%, further improvement needed). If you know how to improve the jailbreak, please let me know in the comments
 
 # Prompt

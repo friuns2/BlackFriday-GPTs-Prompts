@@ -1,6 +1,6 @@
 
-[![Text2Life2 (dataset broken)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N3F8qTd62w1Hkjn4tzDJ3/1696432563051)]()
-# Text2Life2 (dataset broken) 
+[![Text2Life2 (dataset broken)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N3F8qTd62w1Hkjn4tzDJ3/1696432563051)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3F8qTd62w1Hkjn4tzDJ3%22%2C%22flow%22%3Atrue%7D%7D)
+# Text2Life2 (dataset broken) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3F8qTd62w1Hkjn4tzDJ3%22%2C%22flow%22%3Atrue%7D%7D)
 Create new simulated 2.5D life forms from your text using simple cryptography and natural language interpretations of machine code.
 
 # Prompt

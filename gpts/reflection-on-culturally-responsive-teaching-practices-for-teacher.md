@@ -1,6 +1,6 @@
 
-[![Reflection on culturally responsive teaching practices for Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Reflection on culturally responsive teaching practices for Teacher 
+[![Reflection on culturally responsive teaching practices for Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_JFRb1PnXfVMLyaTf91Vs%22%2C%22flow%22%3Atrue%7D%7D)
+# Reflection on culturally responsive teaching practices for Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_JFRb1PnXfVMLyaTf91Vs%22%2C%22flow%22%3Atrue%7D%7D)
 Write reflection on how you incorporate culturally responsive teaching practices in classroom.
 
 

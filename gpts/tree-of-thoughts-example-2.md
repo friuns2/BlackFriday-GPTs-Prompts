@@ -1,6 +1,6 @@
 
-[![Tree of Thoughts Example 2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)]()
-# Tree of Thoughts Example 2 
+[![Tree of Thoughts Example 2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n_ZaInLKBKqPn_qtZsxlg%22%2C%22flow%22%3Atrue%7D%7D)
+# Tree of Thoughts Example 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n_ZaInLKBKqPn_qtZsxlg%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Ball Detectives! Put on your detective hat and solve this intriguing mystery. Follow Detective John's every move as he carries a cup with a hidden ball. It's your job to figure out where the ball ended up. Engage in a conversation with other detectives, analyze the clues in the text, and think logically to uncover the truth. Provide detailed reasoning in 3 sentences to support your theory. Join now and put your detective skills to the test!
 
 # Prompt

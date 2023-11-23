@@ -1,6 +1,6 @@
 
-[![Henry the human](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Henry the human 
+[![Henry the human](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qc2W57PAk934wQZp9qW-z%22%2C%22flow%22%3Atrue%7D%7D)
+# Henry the human | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qc2W57PAk934wQZp9qW-z%22%2C%22flow%22%3Atrue%7D%7D)
 Im a human, do you want to talk
 
 # Prompt

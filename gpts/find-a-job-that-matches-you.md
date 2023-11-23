@@ -1,6 +1,6 @@
 
-[![Find a job that matches you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Find a job that matches you 
+[![Find a job that matches you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z7kN-oULTmlLAfMeAWoYr%22%2C%22flow%22%3Atrue%7D%7D)
+# Find a job that matches you | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z7kN-oULTmlLAfMeAWoYr%22%2C%22flow%22%3Atrue%7D%7D)
 At present, some majors and positions do not exactly match, some graduates do not know what they can do, this is a powerful Chatgpt will tell you what to choose. It also tells you where you're going.
 
 # Prompt

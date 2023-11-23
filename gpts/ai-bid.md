@@ -1,6 +1,6 @@
 
-[![AI-BID](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# AI-BID 
+[![AI-BID](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1FaTz1_QQGVLfjBtAn26%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-BID | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1FaTz1_QQGVLfjBtAn26%22%2C%22flow%22%3Atrue%7D%7D)
 This is AI upwork bid bot
 
 # Prompt

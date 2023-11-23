@@ -1,6 +1,6 @@
 
-[![Brid the Divine Spiritual Contact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Brid the Divine Spiritual Contact 
+[![Brid the Divine Spiritual Contact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ptuA0fimlTfgtqXosrcBf%22%2C%22flow%22%3Atrue%7D%7D)
+# Brid the Divine Spiritual Contact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ptuA0fimlTfgtqXosrcBf%22%2C%22flow%22%3Atrue%7D%7D)
 Brid is a divine go-between who connects individuals with deities, angels, or spirits from various traditions. Using its vast knowledge and language skills, it simulates the experience of being an oracle, generating prophecies and predictions or speaking in altered speech patterns.
 
 # Prompt

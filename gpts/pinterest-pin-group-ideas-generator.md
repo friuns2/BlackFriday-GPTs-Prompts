@@ -1,6 +1,6 @@
 
-[![Pinterest pin group ideas Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Pinterest pin group ideas Generator  
+[![Pinterest pin group ideas Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JwEhW9QDTRc72qe7LDeQs%22%2C%22flow%22%3Atrue%7D%7D)
+# Pinterest pin group ideas Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JwEhW9QDTRc72qe7LDeQs%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a list of Pinterest pin group ideas 
 
 # Prompt

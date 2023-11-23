@@ -1,6 +1,6 @@
 
-[![🔬🔬 Transforming Our World: The 2030 Agenda - check what it's all about](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GioWmIDJUVqeKrt8ppw3t/1695417216749)]()
-# 🔬🔬 Transforming Our World: The 2030 Agenda - check what it's all about 
+[![🔬🔬 Transforming Our World: The 2030 Agenda - check what it's all about](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GioWmIDJUVqeKrt8ppw3t/1695417216749)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GioWmIDJUVqeKrt8ppw3t%22%2C%22flow%22%3Atrue%7D%7D)
+# 🔬🔬 Transforming Our World: The 2030 Agenda - check what it's all about | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GioWmIDJUVqeKrt8ppw3t%22%2C%22flow%22%3Atrue%7D%7D)
 Discover what the UN document titled "Transforming Our World: the 2030 Agenda for Sustainable Development" is about using a simple command or a selected instruction.
 
 # Prompt

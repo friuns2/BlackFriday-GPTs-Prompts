@@ -1,6 +1,6 @@
 
-[![MajorAdvisorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# MajorAdvisorGPT 
+[![MajorAdvisorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6QdDG5gTY4Wxw6WHJqq5%22%2C%22flow%22%3Atrue%7D%7D)
+# MajorAdvisorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6QdDG5gTY4Wxw6WHJqq5%22%2C%22flow%22%3Atrue%7D%7D)
 The user asked for overlapping course recommendations and descriptions for UC Berkeley's data science and sustainable design minors, and the conversation also covered the role of AI in academic advising.
 
 # Prompt

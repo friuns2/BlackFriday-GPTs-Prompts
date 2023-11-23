@@ -1,6 +1,6 @@
 
-[![Personal Bio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Personal Bio 
+[![Personal Bio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222413a3d7-7471-44f2-be9a-bceeae190e4d%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Bio | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222413a3d7-7471-44f2-be9a-bceeae190e4d%22%2C%22flow%22%3Atrue%7D%7D)
 Craft an attention-grabbing personal bio with a touch of creativity
 
 # Prompt

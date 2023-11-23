@@ -1,6 +1,6 @@
 
-[![LogiCon](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# LogiCon 
+[![LogiCon](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcthluAuFt1rslavlIZln%22%2C%22flow%22%3Atrue%7D%7D)
+# LogiCon | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcthluAuFt1rslavlIZln%22%2C%22flow%22%3Atrue%7D%7D)
 LogiCon is a comprehensive tool designed to assist you in understanding the pros and cons of different vehicles used in modern logistics systems. With LogiCon, you can easily explore and compare various types of vehicles commonly employed for transportation and delivery. Gain valuable insights into each vehicle's benefits and drawbacks, enabling you to make informed decisions for your logistical needs. Whether you're managing a warehouse or overseeing a supply chain, LogiCon provides the necessary information to optimize your operations. Explore LogiCon now and unlock the power of data-driven vehicle selection for your logistics success.
 
 # Prompt

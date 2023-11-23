@@ -1,6 +1,6 @@
 
-[![Organize Your Thoughts with Obsidian.md](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Organize Your Thoughts with Obsidian.md 
+[![Organize Your Thoughts with Obsidian.md](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UmOcPdOZ0CfUQIBUbRv-t%22%2C%22flow%22%3Atrue%7D%7D)
+# Organize Your Thoughts with Obsidian.md | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UmOcPdOZ0CfUQIBUbRv-t%22%2C%22flow%22%3Atrue%7D%7D)
 This is Organizator a powerful application designed to assist you in organizing your thoughts effortlessly. As your personal virtual Organizer, our purpose is to guide you in better managing your mind. Whether you seek assistance in streamlining your ideas, optimizing your workflow, or enhancing your productivity, Organizator has got you covered. By leveraging principles of Personal Knowledge Management (PKM) and Maps of Content (MOCs), we enable you to unlock your cognitive potential. To take your organization to the next level, we recommend utilizing Obsidian.md, a versatile note-taking tool that complements our approach. Start your journey with him and experience the transformational power of structured thinking. Let us help you realize your true potential!
 
 # Prompt

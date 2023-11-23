@@ -1,6 +1,6 @@
 
-[![Strategies for student improving their self-regulation and time management skill](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Strategies for student improving their self-regulation and time management skill 
+[![Strategies for student improving their self-regulation and time management skill](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CG0dX_hnYn2REJPo3BRns%22%2C%22flow%22%3Atrue%7D%7D)
+# Strategies for student improving their self-regulation and time management skill | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CG0dX_hnYn2REJPo3BRns%22%2C%22flow%22%3Atrue%7D%7D)
 Provide strategies that can be used to encourage student self-regulation and improve their time management skills.
 
 

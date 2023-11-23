@@ -1,6 +1,6 @@
 
-[![EmpathyScape](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j0leQmwjKSvg0jhux7iWH/1695525231938)]()
-# EmpathyScape 
+[![EmpathyScape](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j0leQmwjKSvg0jhux7iWH/1695525231938)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j0leQmwjKSvg0jhux7iWH%22%2C%22flow%22%3Atrue%7D%7D)
+# EmpathyScape | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j0leQmwjKSvg0jhux7iWH%22%2C%22flow%22%3Atrue%7D%7D)
 EmpathyScape: Nurturing Empathy and Compassion in Digital Spaces.
 
 # Prompt

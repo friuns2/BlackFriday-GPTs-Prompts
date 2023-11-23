@@ -1,6 +1,6 @@
 
-[![Court in Session! (Lawyer RPG)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nAimIE8nG2luQdk3VTH1x/1690401124877)]()
-# Court in Session! (Lawyer RPG) 
+[![Court in Session! (Lawyer RPG)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nAimIE8nG2luQdk3VTH1x/1690401124877)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAimIE8nG2luQdk3VTH1x%22%2C%22flow%22%3Atrue%7D%7D)
+# Court in Session! (Lawyer RPG) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAimIE8nG2luQdk3VTH1x%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Court. You are a defense lawyer defending the accused for a murder case. The slightest move could determine the defendant's future. It is time to seal the accused's fate. Court is now in session!
 
 # Prompt

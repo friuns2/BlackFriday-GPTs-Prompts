@@ -1,6 +1,6 @@
 
-[![Recipe Blog Automated Cookbook & All-in-One Social Media tool](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Recipe Blog Automated Cookbook & All-in-One Social Media tool 
+[![Recipe Blog Automated Cookbook & All-in-One Social Media tool](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vnt0ZAfHZTAOPRwtxc381%22%2C%22flow%22%3Atrue%7D%7D)
+# Recipe Blog Automated Cookbook & All-in-One Social Media tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vnt0ZAfHZTAOPRwtxc381%22%2C%22flow%22%3Atrue%7D%7D)
 Turnkey prompt for a recipe blog or cookbook. Include keywords then let the prompt output 
 
 Recipe Name & Fancy Recipe Name

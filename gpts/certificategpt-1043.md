@@ -1,6 +1,6 @@
 
-[![CertificateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# CertificateGPT 
+[![CertificateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DnLC5dTNbTEE8dtihx78r%22%2C%22flow%22%3Atrue%7D%7D)
+# CertificateGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DnLC5dTNbTEE8dtihx78r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has the purpose of testing the user’s knowledge on a specific subject, for example if the user wants to test his general hacking knowledge, they could input “CEH”, a certificate that you can get to demonstrate your ability in hacking.
 
 # Prompt

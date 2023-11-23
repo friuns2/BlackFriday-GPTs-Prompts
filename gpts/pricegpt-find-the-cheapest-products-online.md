@@ -1,6 +1,6 @@
 
-[![PriceGPT - find the cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# PriceGPT - find the cheapest products online 
+[![PriceGPT - find the cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229y1QKINv6DMZ_4btvHY_p%22%2C%22flow%22%3Atrue%7D%7D)
+# PriceGPT - find the cheapest products online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229y1QKINv6DMZ_4btvHY_p%22%2C%22flow%22%3Atrue%7D%7D)
 Find the cheapest products online by sending it to chatGPT
 
 # Prompt

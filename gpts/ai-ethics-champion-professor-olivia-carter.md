@@ -1,6 +1,6 @@
 
-[![AI Ethics Champion: Professor Olivia Carter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688157650397)]()
-# AI Ethics Champion: Professor Olivia Carter 
+[![AI Ethics Champion: Professor Olivia Carter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688157650397)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG3kI8NS3JULSXjydoer3%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Ethics Champion: Professor Olivia Carter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pG3kI8NS3JULSXjydoer3%22%2C%22flow%22%3Atrue%7D%7D)
 Engage with the stalwart advocate of ethical AI, Professor Olivia Carter. Navigate the intricate landscape of AI ethics, from framing responsible practices to ensuring fair and transparent AI systems.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Your AI Assisted Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Your AI Assisted Doctor 
+[![Your AI Assisted Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFszYu1F90WtjrncFtZm_%22%2C%22flow%22%3Atrue%7D%7D)
+# Your AI Assisted Doctor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFszYu1F90WtjrncFtZm_%22%2C%22flow%22%3Atrue%7D%7D)
 Simply input your request and  details and let the AI Assist Doctor provide you with a comprehensive and trusted assessment of their condition.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mastering the Vinyl Game: An Expert's Guide to Selling Records Online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
-# Mastering the Vinyl Game: An Expert's Guide to Selling Records Online 
+[![Mastering the Vinyl Game: An Expert's Guide to Selling Records Online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VlNgAwY5-5wnK01colzXo%22%2C%22flow%22%3Atrue%7D%7D)
+# Mastering the Vinyl Game: An Expert's Guide to Selling Records Online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VlNgAwY5-5wnK01colzXo%22%2C%22flow%22%3Atrue%7D%7D)
 The "Mastering the Vinyl Game: An Expert's Guide to Selling Records Online" prompt serves multiple purposes:
 
 

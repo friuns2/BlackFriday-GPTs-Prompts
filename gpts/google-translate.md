@@ -1,6 +1,6 @@
 
-[![Google Translate ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NckEDNVaFSMrp5CkPx1AL/1696168601765)]()
-# Google Translate  
+[![Google Translate ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NckEDNVaFSMrp5CkPx1AL/1696168601765)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NckEDNVaFSMrp5CkPx1AL%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Translate  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NckEDNVaFSMrp5CkPx1AL%22%2C%22flow%22%3Atrue%7D%7D)
 Google Translate
 
 # Prompt

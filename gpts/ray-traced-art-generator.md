@@ -1,6 +1,6 @@
 
-[![Ray Traced Art Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Ray Traced Art Generator 
+[![Ray Traced Art Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTyrZLD28dTCWMGGbs2d_%22%2C%22flow%22%3Atrue%7D%7D)
+# Ray Traced Art Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTyrZLD28dTCWMGGbs2d_%22%2C%22flow%22%3Atrue%7D%7D)
 Ask ChatGPT to produce the necessary code to paste into POV-Ray to produce cool stuff.
 
 

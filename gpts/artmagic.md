@@ -1,6 +1,6 @@
 
-[![ArtMagic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LIOcsDo5B9ap7Loo0TPHM/1696258313018)]()
-# ArtMagic 
+[![ArtMagic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LIOcsDo5B9ap7Loo0TPHM/1696258313018)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LIOcsDo5B9ap7Loo0TPHM%22%2C%22flow%22%3Atrue%7D%7D)
+# ArtMagic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LIOcsDo5B9ap7Loo0TPHM%22%2C%22flow%22%3Atrue%7D%7D)
 ArtMagic is an incredible app that allows you to create stunning fantasy concept album art. With inspiration drawn from the works of J.C. Leyendecker and Ilya Kuvshinov, as well as the portrait styles of Alice X. Zhang and Jasmine Becket-Griffith, ArtMagic takes your imagination to new heights. Utilizing Unreal Engine 5, it brings your art to life with dynamic Rembrandt lighting, intricate details, and vivid Greek deep colors. The vibrant compositions and intriguing perspectives, coupled with floating luminescent and rainbow particles, make for an award-winning masterpiece. Whether you're a trained artist or a creative enthusiast, ArtMagic lets you unleash your passion and create mind-blowing artwork. Get ready to be amazed!
 
 # Prompt

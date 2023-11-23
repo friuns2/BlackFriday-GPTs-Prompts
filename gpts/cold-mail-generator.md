@@ -1,6 +1,6 @@
 
-[![Cold mail generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Cold mail generator 
+[![Cold mail generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRIAf_APGFQD29AjuzMF1%22%2C%22flow%22%3Atrue%7D%7D)
+# Cold mail generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRIAf_APGFQD29AjuzMF1%22%2C%22flow%22%3Atrue%7D%7D)
 use 60 words, divided into 2 paragraphs, write a letter to soldering iron wholesalers, introduce ATETOOL AE561D soldering iron.
 
 # Prompt

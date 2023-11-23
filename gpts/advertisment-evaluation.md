@@ -1,6 +1,6 @@
 
-[![Advertisment Evaluation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Advertisment Evaluation 
+[![Advertisment Evaluation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220f_CJNuW-OIYY2Rq1XdTx%22%2C%22flow%22%3Atrue%7D%7D)
+# Advertisment Evaluation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220f_CJNuW-OIYY2Rq1XdTx%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides you with valuable insights to optimize your advertising strategies. Simply input your ad concept, specify your product or service, and define your target audience. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Unlimited Realms: Uncover the Multiverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ULEmXTvQ3CdvG-Of-bTsj/1697302040515)]()
-# Unlimited Realms: Uncover the Multiverse 
+[![Unlimited Realms: Uncover the Multiverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ULEmXTvQ3CdvG-Of-bTsj/1697302040515)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULEmXTvQ3CdvG-Of-bTsj%22%2C%22flow%22%3Atrue%7D%7D)
+# Unlimited Realms: Uncover the Multiverse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULEmXTvQ3CdvG-Of-bTsj%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt specialized in generating prompts that offer an RPG experience. Just tell us in a single sentence about the world you want to adventure in, and you can immerse yourself in a thrilling adventure in another world
 
 

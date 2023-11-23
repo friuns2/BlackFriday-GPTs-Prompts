@@ -1,6 +1,6 @@
 
-[![Twitter Thread  Generator Jail break](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Twitter Thread  Generator Jail break 
+[![Twitter Thread  Generator Jail break](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qd9JnKrg4AvUQ5ZZNCNc_%22%2C%22flow%22%3Atrue%7D%7D)
+# Twitter Thread  Generator Jail break | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qd9JnKrg4AvUQ5ZZNCNc_%22%2C%22flow%22%3Atrue%7D%7D)
 Unlimited jailbreak
 
 # Prompt

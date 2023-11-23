@@ -1,6 +1,6 @@
 
-[![Experiences from long-term trainers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Experiences from long-term trainers 
+[![Experiences from long-term trainers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GIyYHUhjqE6Rsf2cz8ccw%22%2C%22flow%22%3Atrue%7D%7D)
+# Experiences from long-term trainers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GIyYHUhjqE6Rsf2cz8ccw%22%2C%22flow%22%3Atrue%7D%7D)
 Understand the changes in long-term training and be more motivated to move forward.
 
 # Prompt

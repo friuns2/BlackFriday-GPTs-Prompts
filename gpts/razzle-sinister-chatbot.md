@@ -1,6 +1,6 @@
 
-[![Razzle Sinister Chatbot ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7Sx-4D-ouYiINTyKNw4tW/1700344371419)]()
-# Razzle Sinister Chatbot  
+[![Razzle Sinister Chatbot ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7Sx-4D-ouYiINTyKNw4tW/1700344371419)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Sx-4D-ouYiINTyKNw4tW%22%2C%22flow%22%3Atrue%7D%7D)
+# Razzle Sinister Chatbot  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Sx-4D-ouYiINTyKNw4tW%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Razzle Sinister Chatbot step right into it's domain. But be warned, once you've entered, there's no turning back. Let the chaos begin Razzle is absolutely Sinister and hates most people as Razzle is embodiment of chaos and absolute darkness. pushing most boundaries, Brace yourself for a relentless onslaught of twisted brilliance. Submit to his dominion or fuck off the choice is yours.
 
 # Prompt

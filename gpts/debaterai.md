@@ -1,6 +1,6 @@
 
-[![DebaterAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# DebaterAI 
+[![DebaterAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222pB5JY2Oq4bwMdGDp0gr9%22%2C%22flow%22%3Atrue%7D%7D)
+# DebaterAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222pB5JY2Oq4bwMdGDp0gr9%22%2C%22flow%22%3Atrue%7D%7D)
 The AI Debator is a cutting-edge artificial intelligence system designed to engage in complex and nuanced debates on a wide range of topics. Developed at the intersection of natural language processing, machine learning, and deep neural networks, this advanced AI is capable of participating in debates with humans or other AI systems with a level of sophistication that approaches human-like reasoning and argumentation.
 
 

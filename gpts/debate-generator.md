@@ -1,6 +1,6 @@
 
-[![Debate Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bad6b838-f971-4a4d-8e34-043706b216bc/1689129095158)]()
-# Debate Generator 
+[![Debate Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bad6b838-f971-4a4d-8e34-043706b216bc/1689129095158)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bad6b838-f971-4a4d-8e34-043706b216bc%22%2C%22flow%22%3Atrue%7D%7D)
+# Debate Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bad6b838-f971-4a4d-8e34-043706b216bc%22%2C%22flow%22%3Atrue%7D%7D)
 Generate arguments for both sides in a debate within minutes. 
 
 # Prompt

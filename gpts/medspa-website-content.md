@@ -1,6 +1,6 @@
 
-[![Medspa website content](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DU1Z2BEBrRwpnYkk9lUHe/1689824881456)]()
-# Medspa website content 
+[![Medspa website content](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DU1Z2BEBrRwpnYkk9lUHe/1689824881456)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DU1Z2BEBrRwpnYkk9lUHe%22%2C%22flow%22%3Atrue%7D%7D)
+# Medspa website content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DU1Z2BEBrRwpnYkk9lUHe%22%2C%22flow%22%3Atrue%7D%7D)
 Descriptions for medspa treatments/services for your website
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Normal Prompt to Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Normal Prompt to Superprompt 
+[![Normal Prompt to Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T3cRMl-9ci_rc8Mn6g3MC%22%2C%22flow%22%3Atrue%7D%7D)
+# Normal Prompt to Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T3cRMl-9ci_rc8Mn6g3MC%22%2C%22flow%22%3Atrue%7D%7D)
 Transform your prompts and unleash their full potential. Read a complete constructive feedback and suggestions to improve your prompt! Just paste it and let AI rate it!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lTWCF9vv8nPZQbFeUW0V_/1690531043897)]()
-# 👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more! 
+[![👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lTWCF9vv8nPZQbFeUW0V_/1690531043897)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lTWCF9vv8nPZQbFeUW0V_%22%2C%22flow%22%3Atrue%7D%7D)
+# 👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lTWCF9vv8nPZQbFeUW0V_%22%2C%22flow%22%3Atrue%7D%7D)
 version 1.1 -----
 
 0. change game language by inputing: "/lang 中文 "

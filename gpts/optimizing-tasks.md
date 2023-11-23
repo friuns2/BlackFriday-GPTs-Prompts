@@ -1,6 +1,6 @@
 
-[![Optimizing Tasks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Optimizing Tasks 
+[![Optimizing Tasks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229rIBMLBZVvfOHg1Xo7Z-7%22%2C%22flow%22%3Atrue%7D%7D)
+# Optimizing Tasks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229rIBMLBZVvfOHg1Xo7Z-7%22%2C%22flow%22%3Atrue%7D%7D)
 Efficiently arrange daily tasks using AI analysis and automation
 
 # Prompt

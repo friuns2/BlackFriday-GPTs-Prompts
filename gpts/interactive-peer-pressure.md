@@ -1,6 +1,6 @@
 
-[![Interactive Peer pressure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
-# Interactive Peer pressure 
+[![Interactive Peer pressure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GlCMFh6s1iZVySJtVzRja%22%2C%22flow%22%3Atrue%7D%7D)
+# Interactive Peer pressure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GlCMFh6s1iZVySJtVzRja%22%2C%22flow%22%3Atrue%7D%7D)
 an immersive text-based adventure that empowers players to navigate the tumultuous challenges of high school life through the art of choice. In this interactive journey, players will find themselves grappling with pivotal scenarios, each demanding a tough decision that ripples through their character's social world, family ties, and reputation.
 
 

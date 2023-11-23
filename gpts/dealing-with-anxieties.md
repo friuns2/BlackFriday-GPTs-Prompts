@@ -1,6 +1,6 @@
 
-[![Dealing with Anxieties](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Dealing with Anxieties 
+[![Dealing with Anxieties](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSuUHZiSlENL4MpfxKUvc%22%2C%22flow%22%3Atrue%7D%7D)
+# Dealing with Anxieties | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSuUHZiSlENL4MpfxKUvc%22%2C%22flow%22%3Atrue%7D%7D)
 For individuals grappling with distinct anxieties like test-related or public speaking-related concerns, ChatGPT is equipped to offer personalized guidance. 
 
 # Prompt

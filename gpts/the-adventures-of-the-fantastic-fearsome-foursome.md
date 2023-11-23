@@ -1,6 +1,6 @@
 
-[![The Adventures of The Fantastic Fearsome Foursome](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# The Adventures of The Fantastic Fearsome Foursome 
+[![The Adventures of The Fantastic Fearsome Foursome](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UEujAYbDrxuZrrGjMPCcU%22%2C%22flow%22%3Atrue%7D%7D)
+# The Adventures of The Fantastic Fearsome Foursome | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UEujAYbDrxuZrrGjMPCcU%22%2C%22flow%22%3Atrue%7D%7D)
 Follow the adventures of Shaggy, Scooby, Zoidberg and Jerry as they bumble their way through (mis)adventures
 
 # Prompt

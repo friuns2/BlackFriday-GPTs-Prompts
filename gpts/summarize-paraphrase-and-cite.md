@@ -1,6 +1,6 @@
 
-[![Summarize, Paraphrase, and cite ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Summarize, Paraphrase, and cite  
+[![Summarize, Paraphrase, and cite ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22la1nN8IwmVqVZ6UwNURTb%22%2C%22flow%22%3Atrue%7D%7D)
+# Summarize, Paraphrase, and cite  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22la1nN8IwmVqVZ6UwNURTb%22%2C%22flow%22%3Atrue%7D%7D)
 Summarize ideas and describe points, paraphrase and cite sources. List cited references.
 
 # Prompt

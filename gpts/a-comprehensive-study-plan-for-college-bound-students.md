@@ -1,6 +1,6 @@
 
-[![A Comprehensive Study Plan for College-Bound Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# A Comprehensive Study Plan for College-Bound Students 
+[![A Comprehensive Study Plan for College-Bound Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BqKFCLMiJOp2mWG3_W1x1%22%2C%22flow%22%3Atrue%7D%7D)
+# A Comprehensive Study Plan for College-Bound Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BqKFCLMiJOp2mWG3_W1x1%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt challenges writers to develop a comprehensive study plan for a high school student who is preparing for college. The plan should include strategies for effective studying, time management, stress reduction, and career planning. The writer should draw on their own experiences and insights to provide personalized advice and guidance. This prompt is designed to help writers develop their research, writing, and academic skills, while also providing valuable advice for college-bound students.
 
 # Prompt

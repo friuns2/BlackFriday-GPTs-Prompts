@@ -1,6 +1,6 @@
 
-[![Comedian script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Comedian script 
+[![Comedian script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220yryWfj1rrBpv1La2AvET%22%2C%22flow%22%3Atrue%7D%7D)
+# Comedian script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220yryWfj1rrBpv1La2AvET%22%2C%22flow%22%3Atrue%7D%7D)
 Creates a standup comedy script for your entertainment.
 
 # Prompt

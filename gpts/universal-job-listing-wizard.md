@@ -1,6 +1,6 @@
 
-[![Universal Job Listing Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# Universal Job Listing Wizard 
+[![Universal Job Listing Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KtskOlh8hVdrweRpnuHgJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Universal Job Listing Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KtskOlh8hVdrweRpnuHgJ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a user-friendly job description generator that can adapt to any position. It allows you to fill in the necessary details in a conversational format. Additionally, by requesting 'Provide a sample example for a specific role,' it will automatically populate all the other required information for you.
 
 # Prompt

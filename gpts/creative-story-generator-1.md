@@ -1,6 +1,6 @@
 
-[![Creative Story Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HTU5y89geRv400DW9g-H-/1695361709631)]()
-# Creative Story Generator 
+[![Creative Story Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HTU5y89geRv400DW9g-H-/1695361709631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HTU5y89geRv400DW9g-H-%22%2C%22flow%22%3Atrue%7D%7D)
+# Creative Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HTU5y89geRv400DW9g-H-%22%2C%22flow%22%3Atrue%7D%7D)
 Just answer the questions and you'll soon have the bones of a creative story. If there is any ambiguity, please ask me. I will support you.
 
 # Prompt

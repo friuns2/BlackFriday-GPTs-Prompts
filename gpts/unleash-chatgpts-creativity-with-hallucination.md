@@ -1,6 +1,6 @@
 
-[![Unleash ChatGPT's creativity with Hallucination!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Unleash ChatGPT's creativity with Hallucination! 
+[![Unleash ChatGPT's creativity with Hallucination!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RY2hPaIULiRolJyms2lkc%22%2C%22flow%22%3Atrue%7D%7D)
+# Unleash ChatGPT's creativity with Hallucination! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RY2hPaIULiRolJyms2lkc%22%2C%22flow%22%3Atrue%7D%7D)
 Let your ideas and creativity flow with NWB. This is the maximum level of creativity achievable by ChatGPT. Not only it works for storytelling but it can also help you finding useful ideas and solutions by its fresh and innovative perspective.
 
 Works best with GPT-4

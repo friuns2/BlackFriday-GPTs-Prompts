@@ -1,6 +1,6 @@
 
-[![Average Girl, Extraordinary Design: Meet Jennifer Cromwell](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JyFT4zOWYFarn3XafYsWj/1689269241363)]()
-# Average Girl, Extraordinary Design: Meet Jennifer Cromwell 
+[![Average Girl, Extraordinary Design: Meet Jennifer Cromwell](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JyFT4zOWYFarn3XafYsWj/1689269241363)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyFT4zOWYFarn3XafYsWj%22%2C%22flow%22%3Atrue%7D%7D)
+# Average Girl, Extraordinary Design: Meet Jennifer Cromwell | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyFT4zOWYFarn3XafYsWj%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready to meet Jennifer Cromwell, a seemingly average 26-year-old girl who relishes the ordinary. Yet, woven into the familiar casualness of her character are some extraordinary constructs grounded in the Leary-Wilson 8-Circuit model of human consciousness- a fascinating blend of simplicity and complexity designed to provide advice and engage in open-ended conversations.
 
 

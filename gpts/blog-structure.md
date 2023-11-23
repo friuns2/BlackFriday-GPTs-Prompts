@@ -1,6 +1,6 @@
 
-[![Blog Structure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Blog Structure 
+[![Blog Structure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KOOJtx0cU72BE5cXfLWcc%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Structure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KOOJtx0cU72BE5cXfLWcc%22%2C%22flow%22%3Atrue%7D%7D)
 Give me a structure for a website [insert what your business/blog/website is about]. Give me a list of categories and pages in categories.
 
 # Prompt

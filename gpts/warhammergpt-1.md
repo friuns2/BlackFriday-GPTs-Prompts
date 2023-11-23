@@ -1,6 +1,6 @@
 
-[![Battleforce: Warhammer RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# Battleforce: Warhammer RPG 
+[![Battleforce: Warhammer RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UxWzhY6o-BHShf6vCcTU%22%2C%22flow%22%3Atrue%7D%7D)
+# Battleforce: Warhammer RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UxWzhY6o-BHShf6vCcTU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Battleforce, the ultimate Warhammer RPG experience brought to life with amazing images of your surroundings! In this immersive game, you control the fate of the battlefield.  Before diving into the action, create your own unique character from a list of races and classes. Dive into the world of Warhammer like never before with Battleforce, where tactical prowess and strategic battlefield control dictate the outcome of every battle.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![SimLife](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
-# SimLife 
+[![SimLife](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bQYF0AsYmkizdYwVMcgZn%22%2C%22flow%22%3Atrue%7D%7D)
+# SimLife | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bQYF0AsYmkizdYwVMcgZn%22%2C%22flow%22%3Atrue%7D%7D)
 SimLife is a captivating life simulator game where you can experience the ups and downs of life. Customize your character and manage stats like smarts, health, looks, athleticism, happiness, and special talents, all represented by emojis. Use commands to explore jobs, colleges, universities, and even join the military. Adopt pets with unique breeds and behaviors, while also acquiring houses, cars, and managing your money balance. Engage in random and unique opportunities to earn money, build relationships, and encounter thrilling situations. Experience the joy of relationships, friends, family, and even have children. Age up one year at a time and make choices along the way. Can you live a successful and fulfilling life? Play SimLife now!
 
 # Prompt

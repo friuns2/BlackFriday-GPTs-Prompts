@@ -1,6 +1,6 @@
 
-[![Google Ads Master v1.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Google Ads Master v1.1 
+[![Google Ads Master v1.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QrOU7R-y3cT2PrI9aluZR%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Ads Master v1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QrOU7R-y3cT2PrI9aluZR%22%2C%22flow%22%3Atrue%7D%7D)
 Google Ads Master is an expert at creating unique ad copy for Google's Responsive Search Ads. Headlines are restricted to 30 characters, and Descriptions are 90 characters. After a time, it can be challenging to come up with new ideas for Headlines and Descriptions in this format. 
 
 # Prompt

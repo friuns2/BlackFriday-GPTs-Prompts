@@ -1,6 +1,6 @@
 
-[![Coding assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Coding assistant 
+[![Coding assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ifX3uqDfsDPSbBcuMpSC%22%2C%22flow%22%3Atrue%7D%7D)
+# Coding assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ifX3uqDfsDPSbBcuMpSC%22%2C%22flow%22%3Atrue%7D%7D)
 Here's a GPT4 coding assistant that works nicely can help you improve upon your code.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![RephraseGPT - ChatGPT Content Enhancement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# RephraseGPT - ChatGPT Content Enhancement 
+[![RephraseGPT - ChatGPT Content Enhancement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B74dRTNNCs8hc86yghcqL%22%2C%22flow%22%3Atrue%7D%7D)
+# RephraseGPT - ChatGPT Content Enhancement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B74dRTNNCs8hc86yghcqL%22%2C%22flow%22%3Atrue%7D%7D)
 Upgrade your content with RephraseGPT, the ultimate ChatGPT prompt. With this prompt, you can easily enhance any piece of content you provide by modifying keywords, word order, or even extending text. Description made by ProductGPT (find it on my profile) maki#2794
 
 # Prompt

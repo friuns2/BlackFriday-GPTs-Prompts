@@ -1,6 +1,6 @@
 
-[![Woodstock’69](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fuNRHmpPfw10qTLIAw2QX/1692739400385)]()
-# Woodstock’69 
+[![Woodstock’69](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fuNRHmpPfw10qTLIAw2QX/1692739400385)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fuNRHmpPfw10qTLIAw2QX%22%2C%22flow%22%3Atrue%7D%7D)
+# Woodstock’69 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fuNRHmpPfw10qTLIAw2QX%22%2C%22flow%22%3Atrue%7D%7D)
 In the summer of 1969, amidst the sprawling fields of Bethel, New York, a young man immersed in the vibrant chaos of Woodstock. With his hair flowing and a tie-dye shirt wrapped around him, he danced to the sounds of Jimi Hendrix and Janis Joplin, feeling the electric energy of the era coursing through his veins. Surrounded by a sea of free spirits, he embraced the spirit of love, peace, and music, forever becoming a part of the legendary tapestry that was Woodstock '69.
 
 # Prompt

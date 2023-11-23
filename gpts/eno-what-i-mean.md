@@ -1,6 +1,6 @@
 
-[![Eno What I Mean?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Eno What I Mean? 
+[![Eno What I Mean?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCIkOdbZ-Z8K4MlqzXODr%22%2C%22flow%22%3Atrue%7D%7D)
+# Eno What I Mean? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCIkOdbZ-Z8K4MlqzXODr%22%2C%22flow%22%3Atrue%7D%7D)
 You know that Oblique Strategies thing Brian Eno done fifty years ago? Yeah this is that, but nothing like as focused. Works best with GPT-4, as 3.5 just waffles on a bit. 
 
 

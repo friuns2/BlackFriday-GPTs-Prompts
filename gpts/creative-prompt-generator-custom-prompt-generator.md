@@ -1,6 +1,6 @@
 
-[![Creative Prompt Generator (+ Custom prompt generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Creative Prompt Generator (+ Custom prompt generator) 
+[![Creative Prompt Generator (+ Custom prompt generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22APQmvzDLhbxVbqJn_9xdF%22%2C%22flow%22%3Atrue%7D%7D)
+# Creative Prompt Generator (+ Custom prompt generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22APQmvzDLhbxVbqJn_9xdF%22%2C%22flow%22%3Atrue%7D%7D)
 Create your BEST prompt with this prompt generator.
 
 Save time and effort while ensuring high-quality prompts that perfectly align with your requirements by answering some questions. 

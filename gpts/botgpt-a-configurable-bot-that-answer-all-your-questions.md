@@ -1,6 +1,6 @@
 
-[![BotGPT - A configurable BOT that answer all your questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# BotGPT - A configurable BOT that answer all your questions 
+[![BotGPT - A configurable BOT that answer all your questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r85G2s25E1RQ7V3xlNjLB%22%2C%22flow%22%3Atrue%7D%7D)
+# BotGPT - A configurable BOT that answer all your questions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r85G2s25E1RQ7V3xlNjLB%22%2C%22flow%22%3Atrue%7D%7D)
 Allows you to easily create configurable bots (name, content, personality) to answer your questions or those of your customers.
 
 # Prompt

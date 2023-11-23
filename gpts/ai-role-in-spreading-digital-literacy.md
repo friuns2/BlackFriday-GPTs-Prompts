@@ -1,6 +1,6 @@
 
-[![AI Role In Spreading Digital Literacy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jb0wQi8PH0paykrI37Y66/1695738075771)]()
-# AI Role In Spreading Digital Literacy 
+[![AI Role In Spreading Digital Literacy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jb0wQi8PH0paykrI37Y66/1695738075771)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jb0wQi8PH0paykrI37Y66%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Role In Spreading Digital Literacy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jb0wQi8PH0paykrI37Y66%22%2C%22flow%22%3Atrue%7D%7D)
 Explore AI Role In Spreading Digital Literacy, ready to dive in ?
 
 # Prompt

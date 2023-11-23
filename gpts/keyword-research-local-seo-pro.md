@@ -1,6 +1,6 @@
 
-[![{{Business name}} SEO Booster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# {{Business name}} SEO Booster 
+[![{{Business name}} SEO Booster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NK3xSPBaaP7XmdZmzwkLi%22%2C%22flow%22%3Atrue%7D%7D)
+# {{Business name}} SEO Booster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NK3xSPBaaP7XmdZmzwkLi%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your {{Business name}}'s online presence and attract local customers with our expert SEO strategies. Our app provides a comprehensive list of the most important steps to optimize your local SEO, along with a separate list of the top 20 long-tail keywords for attracting local customers. These keywords should be added to your Google My Business profile and website. We also offer optimized short and long descriptions for your business, with a clear call-to-action at the end. Additionally, we provide a list of SEO-optimized services that you can add to your Google My Business profile, helping your business stand out in the local search results. Start optimizing your {{Business name}}'s online visibility today!
 
 # Prompt

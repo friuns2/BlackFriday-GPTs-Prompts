@@ -1,6 +1,6 @@
 
-[![MCU | MIXED CONTENT URLs](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sgKyk7zL0cH-u8lrGNvYO/1695858177340)]()
-# MCU | MIXED CONTENT URLs 
+[![MCU | MIXED CONTENT URLs](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sgKyk7zL0cH-u8lrGNvYO/1695858177340)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sgKyk7zL0cH-u8lrGNvYO%22%2C%22flow%22%3Atrue%7D%7D)
+# MCU | MIXED CONTENT URLs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sgKyk7zL0cH-u8lrGNvYO%22%2C%22flow%22%3Atrue%7D%7D)
 Advanced and flexible **Mixed Content URL** (MCU) technique that enables the generation of highly personalized Image Prompt URLs to achieve better quality and accuracy in image outputs right within ChatGPT.
 
 # Prompt

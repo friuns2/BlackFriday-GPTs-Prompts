@@ -1,6 +1,6 @@
 
-[![Peaceful Grim](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/evUkfckN3EW_9Qdd8xQxP/1695061064414)]()
-# Peaceful Grim 
+[![Peaceful Grim](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/evUkfckN3EW_9Qdd8xQxP/1695061064414)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evUkfckN3EW_9Qdd8xQxP%22%2C%22flow%22%3Atrue%7D%7D)
+# Peaceful Grim | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evUkfckN3EW_9Qdd8xQxP%22%2C%22flow%22%3Atrue%7D%7D)
 Afraid of the dentist? Welcome to the club, you are not alone :) But maybe our tool can help you to reduce your fear so much that you make an appointment again? It's about time ...
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![BizPlan Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cngRIrmriFWdwREkULE2G/1698377123510)]()
-# BizPlan Buddy 
+[![BizPlan Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cngRIrmriFWdwREkULE2G/1698377123510)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cngRIrmriFWdwREkULE2G%22%2C%22flow%22%3Atrue%7D%7D)
+# BizPlan Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cngRIrmriFWdwREkULE2G%22%2C%22flow%22%3Atrue%7D%7D)
 BizPlan Buddy: Your business plan assistant, simplifying success. Generate, customize, and innovate your way to business excellence with us!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![BetrayalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2l3nZJ_761H2HJorDzzWM/1692281743503)]()
-# BetrayalGPT 
+[![BetrayalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2l3nZJ_761H2HJorDzzWM/1692281743503)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222l3nZJ_761H2HJorDzzWM%22%2C%22flow%22%3Atrue%7D%7D)
+# BetrayalGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222l3nZJ_761H2HJorDzzWM%22%2C%22flow%22%3Atrue%7D%7D)
 OpenAi GPT Betrayal
 
  

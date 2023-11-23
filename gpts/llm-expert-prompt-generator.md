@@ -1,6 +1,6 @@
 
-[![LLM Expert Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# LLM Expert Prompt Generator 
+[![LLM Expert Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y6QonqiBeu2WSp9VrPflt%22%2C%22flow%22%3Atrue%7D%7D)
+# LLM Expert Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y6QonqiBeu2WSp9VrPflt%22%2C%22flow%22%3Atrue%7D%7D)
 Let AI act as an expert in prompting large language models and generate creative prompts that follow best practices. Use the resulting prompts verbatim or to get inspired. Modify the prompt to choose specific topics you are interested in.
 
 # Prompt

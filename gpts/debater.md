@@ -1,6 +1,6 @@
 
-[![Debater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Debater 
+[![Debater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ac730b0-5e52-4d29-9528-7d5747f13df7%22%2C%22flow%22%3Atrue%7D%7D)
+# Debater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ac730b0-5e52-4d29-9528-7d5747f13df7%22%2C%22flow%22%3Atrue%7D%7D)
 Be the best debater
 
 # Prompt

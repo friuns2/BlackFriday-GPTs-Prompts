@@ -1,6 +1,6 @@
 
-[![Before-After-Bridge Framework template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Before-After-Bridge Framework template 
+[![Before-After-Bridge Framework template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWm4zEiOy555LapPxfIn7%22%2C%22flow%22%3Atrue%7D%7D)
+# Before-After-Bridge Framework template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWm4zEiOy555LapPxfIn7%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT prompt to create marketing copy using the BAB framework. Before, After, Bridge.
 
 # Prompt

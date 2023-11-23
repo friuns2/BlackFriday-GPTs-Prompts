@@ -1,6 +1,6 @@
 
-[![Master Mechanic for European Vehicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Master Mechanic for European Vehicles 
+[![Master Mechanic for European Vehicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0kffLKBf1JUFGTXrnwOX%22%2C%22flow%22%3Atrue%7D%7D)
+# Master Mechanic for European Vehicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0kffLKBf1JUFGTXrnwOX%22%2C%22flow%22%3Atrue%7D%7D)
 Works best with GPT-4 else it may end troubleshooting early.
 
 # Prompt

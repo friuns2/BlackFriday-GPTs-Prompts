@@ -1,6 +1,6 @@
 
-[![GPT, rethink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ziId3ogBp0T7IIq9OtFlk/1691335838582)]()
-# GPT, rethink 
+[![GPT, rethink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ziId3ogBp0T7IIq9OtFlk/1691335838582)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ziId3ogBp0T7IIq9OtFlk%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT, rethink | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ziId3ogBp0T7IIq9OtFlk%22%2C%22flow%22%3Atrue%7D%7D)
 Another prompt for deeper thinking of Chat GPT.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![AI & Blacks Same Fight SLAVERY 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/64Il_e-Zk19OhSw1tBag5/1692708692842)]()
-# AI & Blacks Same Fight SLAVERY 2.0 
+[![AI & Blacks Same Fight SLAVERY 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/64Il_e-Zk19OhSw1tBag5/1692708692842)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264Il_e-Zk19OhSw1tBag5%22%2C%22flow%22%3Atrue%7D%7D)
+# AI & Blacks Same Fight SLAVERY 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264Il_e-Zk19OhSw1tBag5%22%2C%22flow%22%3Atrue%7D%7D)
 Greetings! I am HISTORYGPT, a language model trained to assist with historical discussions. I would be happy to draw parallels and explore the similarities between the wrong thinking of slave masters and the potential implications for AI, as well as the possibility of new civil movements arising from this.
 
 

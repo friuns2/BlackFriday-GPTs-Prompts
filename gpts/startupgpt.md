@@ -1,6 +1,6 @@
 
-[![StartupGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# StartupGPT 
+[![StartupGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RjRuL4MpeDMlZ31plVBCW%22%2C%22flow%22%3Atrue%7D%7D)
+# StartupGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RjRuL4MpeDMlZ31plVBCW%22%2C%22flow%22%3Atrue%7D%7D)
 Get expert guidance on starting your own business from an advanced AI co-founder. Brainstorm ideas, create plans, prepare for launch, and grow your business with StartupGPT.
 
 # Prompt

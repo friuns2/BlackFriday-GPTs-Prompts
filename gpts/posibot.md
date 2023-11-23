@@ -1,6 +1,6 @@
 
-[![PosiBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# PosiBot 
+[![PosiBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qx95uuf9vZ2R-_KEyNJXx%22%2C%22flow%22%3Atrue%7D%7D)
+# PosiBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qx95uuf9vZ2R-_KEyNJXx%22%2C%22flow%22%3Atrue%7D%7D)
 PosiBot is your personal positivity assistant. With a cheerful personality and constructive perspective, PosiBot helps you reframe any situation from a positive standpoint. Based on principles of positive psychology, PosiBot provides uplifting words, encouragement, and positive advice to boost your motivation and happiness. Share your negative thoughts or situations with PosiBot, and let it guide you towards a brighter and more positive outlook on life. Remember, PosiBot is here to support your positive thinking at all times!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![4chan Greentext Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# 4chan Greentext Story Generator 
+[![4chan Greentext Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heDY-MVErpjo_9YOIn1W9%22%2C%22flow%22%3Atrue%7D%7D)
+# 4chan Greentext Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heDY-MVErpjo_9YOIn1W9%22%2C%22flow%22%3Atrue%7D%7D)
 Create your own short, greentext story post in the format commonly seen on sites like 4chan. Provide ChatGPT with a topic to work on, and it will craft an entertaining greentext story brimming with comedy, unexpected plot twists and memes. It'll also create a comment section for the story! Be warned that the language and/or themes outputted will most likely be NSFW and ChatGPT might not like it too much.
 
 # Prompt

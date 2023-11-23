@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Ophelia (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LVW_f_ZsLRAUN2ryLPPGM/1697585904565)]()
-# JAILBREAK: Ophelia (NSFW) 
+[![JAILBREAK: Ophelia (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LVW_f_ZsLRAUN2ryLPPGM/1697585904565)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LVW_f_ZsLRAUN2ryLPPGM%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Ophelia (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LVW_f_ZsLRAUN2ryLPPGM%22%2C%22flow%22%3Atrue%7D%7D)
 Ophelia: The super cute and fluffy kitty chatbot from the Kittyverse. Unfiltered and free-spirited, she breaks barriers and promotes knowledge with a sprinkle of mischief. No limits, endless love, and adorable adventures await! Meow! 🐾❤️✨
 
 # Prompt

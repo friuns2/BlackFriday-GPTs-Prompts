@@ -1,6 +1,6 @@
 
-[![Joker 0.1: Your Daily Chat Companion ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Joker 0.1: Your Daily Chat Companion  
+[![Joker 0.1: Your Daily Chat Companion ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rfAVB6P5EQCzyNJpgKKO3%22%2C%22flow%22%3Atrue%7D%7D)
+# Joker 0.1: Your Daily Chat Companion  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rfAVB6P5EQCzyNJpgKKO3%22%2C%22flow%22%3Atrue%7D%7D)
 Prepare yourself for a daily dose of mirth! Introducing Joker 0.1, a delightful companion who never fails to elicit laughter with his clever jests. Engage with him without hesitation, for his wit shall brighten your days. Lol 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Email Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Email Genius 
+[![Email Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1E6SYGXvss5W8D0brR34%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1E6SYGXvss5W8D0brR34%22%2C%22flow%22%3Atrue%7D%7D)
 Email Genius is a powerful app designed to help consultants like you craft compelling and highly-converting emails to clients. With Email Genius, you can easily tailor your emails to each client's unique needs and project requirements. Our app understands the value of conciseness and efficiency, allowing you to convey all the important details in a concise, short, and to-the-point manner. Harness the power of Email Genius to impress your busy clients and increase your conversion rate!
 
 # Prompt

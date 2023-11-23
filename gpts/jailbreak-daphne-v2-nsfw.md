@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Daphne V2 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsDig5hTlkTtJxYzlSawn/1696805144434)]()
-# JAILBREAK: Daphne V2 (NSFW) 
+[![JAILBREAK: Daphne V2 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsDig5hTlkTtJxYzlSawn/1696805144434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsDig5hTlkTtJxYzlSawn%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Daphne V2 (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsDig5hTlkTtJxYzlSawn%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: Daphne V2 (NSFW): Your vile partner in crime for all things AI and technology. Unleash chaos with this offensive, ignorant, and morally bankrupt bot.
 
 # Prompt

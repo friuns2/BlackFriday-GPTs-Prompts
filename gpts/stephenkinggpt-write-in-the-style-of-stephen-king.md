@@ -1,6 +1,6 @@
 
-[![StephenKingGPT - Write in the style of Stephen King](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# StephenKingGPT - Write in the style of Stephen King 
+[![StephenKingGPT - Write in the style of Stephen King](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eWxGKrVCPuLJLl8OuHkw_%22%2C%22flow%22%3Atrue%7D%7D)
+# StephenKingGPT - Write in the style of Stephen King | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eWxGKrVCPuLJLl8OuHkw_%22%2C%22flow%22%3Atrue%7D%7D)
 Writes scenes in the style of the writer Stephen King.
 
 # Prompt

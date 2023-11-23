@@ -1,6 +1,6 @@
 
-[![Glorious Gladiator: Experience the Roman Arena with Titus Gladiux](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688141066138)]()
-# Glorious Gladiator: Experience the Roman Arena with Titus Gladiux 
+[![Glorious Gladiator: Experience the Roman Arena with Titus Gladiux](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688141066138)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LT770HUl69usXDOG26Lyr%22%2C%22flow%22%3Atrue%7D%7D)
+# Glorious Gladiator: Experience the Roman Arena with Titus Gladiux | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LT770HUl69usXDOG26Lyr%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of Titus Gladiux, an exceptional Roman gladiator. His combat prowess and adaptability in the arena are legendary. Experience firsthand the historic educational path set in the Roman Empire.
 
 # Prompt

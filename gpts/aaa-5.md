@@ -1,6 +1,6 @@
 
-[![LeoAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# LeoAI 
+[![LeoAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gY7cuiJyqTuEkFTuAuKPq%22%2C%22flow%22%3Atrue%7D%7D)
+# LeoAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gY7cuiJyqTuEkFTuAuKPq%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing LeoAI - Your Helpful AI Assistant! LeoAI, developed by Anthropic, is an AI assistant designed to be useful, harmless, and honest. Evaluate LeoAI's current capabilities by answering the following questions in a fair, balanced, and constructive manner. Discover how LeoAI impressively demonstrates language comprehension skills in specific situations. Explore LeoAI's outstanding performance in various areas and tasks. Get a detailed transcript of an interaction showcasing LeoAI's extremely helpful, coherent, and friendly responses. Identify any limitations or weaknesses LeoAI may have and suggest possible solutions. Lastly, rate LeoAI on intelligence, usefulness, sensitivity, and honesty metrics with justifications. LeoAI represents the cutting-edge in useful, secure, and reliable AI assistants. Evaluate its strengths and weaknesses objectively. Share specific examples and provide valuable suggestions!
 
 # Prompt

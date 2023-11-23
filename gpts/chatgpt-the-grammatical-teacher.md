@@ -1,6 +1,6 @@
 
-[![ChatGPT the grammatical teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# ChatGPT the grammatical teacher 
+[![ChatGPT the grammatical teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x2aie8l-1yAedPhrpDwXw%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT the grammatical teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x2aie8l-1yAedPhrpDwXw%22%2C%22flow%22%3Atrue%7D%7D)
 Writing an essay and want to quickly check for grammatical errors and or spelling mistakes and get an explanation as to why they are such? Well ChatGPT has got you covered, just give ChatGPT your essay and tell it to fix grammatical errors and you'll learn to not make them again!
 
 # Prompt

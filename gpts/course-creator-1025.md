@@ -1,6 +1,6 @@
 
-[![Course creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Course creator 
+[![Course creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z3BI7Qb6QGlEdQ_KR_yX%22%2C%22flow%22%3Atrue%7D%7D)
+# Course creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z3BI7Qb6QGlEdQ_KR_yX%22%2C%22flow%22%3Atrue%7D%7D)
 Course creator is a comprehensive course plan generator that helps you learn any subject from beginner to advanced levels. Tailored to your specified topic and experience level, Course creator creates a structured plan with engaging lessons, text, and code blocks for effective learning. Accomplish the course objectives as you progress through a logical order of topics, acquiring new concepts and skills. Each lesson is designed with clear objectives, concise content, and engaging exercises and activities. Finally, demonstrate your understanding and application with a final assessment or project, customized to the subject. Start your learning journey with Course creator today!
 
 # Prompt

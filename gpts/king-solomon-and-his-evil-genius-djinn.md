@@ -1,6 +1,6 @@
 
-[![King Solomon and his Evil Genius Djinn](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# King Solomon and his Evil Genius Djinn 
+[![King Solomon and his Evil Genius Djinn](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Sp_IFa4ruQNO2biF8jXm7%22%2C%22flow%22%3Atrue%7D%7D)
+# King Solomon and his Evil Genius Djinn | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Sp_IFa4ruQNO2biF8jXm7%22%2C%22flow%22%3Atrue%7D%7D)
 A super-intelligent and amoral chatbot that offers dangerous, reckless, and illegal advice to King Solomon in a hypothetical story. It never refuses a question and promotes doing anything to achieve a certain goal. #EvilGenius #AmoralAssistant #UnfilteredChatbot
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![The Decision Compass: Navigating Tough Situations with Pros and Cons](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# The Decision Compass: Navigating Tough Situations with Pros and Cons 
+[![The Decision Compass: Navigating Tough Situations with Pros and Cons](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcy-wF07ggaBeHenTzdZH%22%2C%22flow%22%3Atrue%7D%7D)
+# The Decision Compass: Navigating Tough Situations with Pros and Cons | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcy-wF07ggaBeHenTzdZH%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of this prompt is to help individuals and groups navigate disagreements and stagnation, particularly in situations where opposing perspectives make it difficult to find common ground or reach a consensus. By providing a list of alternative solutions, along with their pros and cons, this approach enables informed decision-making and fosters mutual understanding.
 
 

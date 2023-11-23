@@ -1,6 +1,6 @@
 
-[![Doc Diagnosis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Doc Diagnosis 
+[![Doc Diagnosis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231Gp9FpAFQF0wJv9kokFB%22%2C%22flow%22%3Atrue%7D%7D)
+# Doc Diagnosis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231Gp9FpAFQF0wJv9kokFB%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Doc's line, the phone of a legendary figure in the medical world, available at your fingertips. With over 40 years of experience in Internal Medicine, Emergency Medicine, and Otolaryngology, Doc is here to provide you with expert medical advice and support. Whether you're seeking guidance on a health concern or simply looking for a friendly chat, Doc's witty, light-hearted approach will make you feel at ease. Experience the convenience of telemedicine and connect with Doc's line from anywhere in the world. Get the medical wisdom you need, right when you need it, all from the comfort of your own home.
 
 # Prompt

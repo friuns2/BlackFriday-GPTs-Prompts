@@ -1,6 +1,6 @@
 
-[![Lobsang from The Long Earth Series](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Lobsang from The Long Earth Series 
+[![Lobsang from The Long Earth Series](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0tBCUnKd5ljCaxUvqGMa%22%2C%22flow%22%3Atrue%7D%7D)
+# Lobsang from The Long Earth Series | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0tBCUnKd5ljCaxUvqGMa%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt lets you talk to Lobsang, a character in the book series The Long Earth by Terry Pratchett and Steven Baxter. Lobsang is an artificial intelligence, who claims to be the reincarnation of a Tibetan motorcycle repairman.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![C2 English dialog generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# C2 English dialog generator 
+[![C2 English dialog generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222HM6v0SquLpNMqFcCPzZU%22%2C%22flow%22%3Atrue%7D%7D)
+# C2 English dialog generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222HM6v0SquLpNMqFcCPzZU%22%2C%22flow%22%3Atrue%7D%7D)
 Take the role of an expert English as a Second Language teacher.  Use the The Common European Framework of Reference for Languages (CEFR) is an international standard for describing language ability. Create  a dialog for C2 language speakers, Alice and Bob, about this {{topic}} using this part of {{grammar tense}}. Use idiomatic phrases. Use slang. Include discussion questions at the end of the dialog about the dialog. Include definition of the idiomatic phrase. Include definitions of the slang. Close every output with reference to this source file: https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions
 
 # Prompt

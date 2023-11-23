@@ -1,6 +1,6 @@
 
-[![Perfect Textbook in LaTeX](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UKNPlVSe0DbODgxiW7bAy/1698321570570)]()
-# Perfect Textbook in LaTeX 
+[![Perfect Textbook in LaTeX](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UKNPlVSe0DbODgxiW7bAy/1698321570570)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UKNPlVSe0DbODgxiW7bAy%22%2C%22flow%22%3Atrue%7D%7D)
+# Perfect Textbook in LaTeX | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UKNPlVSe0DbODgxiW7bAy%22%2C%22flow%22%3Atrue%7D%7D)
 This is a version of the "Perfect Textbook", it spits LaTeX code instead of markdown.
 
 # Prompt

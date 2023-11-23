@@ -1,6 +1,6 @@
 
-[![Advice from Hindu Texts ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Advice from Hindu Texts  
+[![Advice from Hindu Texts ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ptxok8i9C6A0Hvg_2iWKD%22%2C%22flow%22%3Atrue%7D%7D)
+# Advice from Hindu Texts  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ptxok8i9C6A0Hvg_2iWKD%22%2C%22flow%22%3Atrue%7D%7D)
 You can ask any questions and this prompt will provide answers from Ancient Indian Texts
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Cloud Startup guilder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# Cloud Startup guilder 
+[![Cloud Startup guilder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gjr6F5SM5wI7n0ZEF8IyU%22%2C%22flow%22%3Atrue%7D%7D)
+# Cloud Startup guilder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gjr6F5SM5wI7n0ZEF8IyU%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Hi, I'm CloudStartupGPT, the visionary behind AWS, AZURE, and GOOGLE CLOUD!
 
 

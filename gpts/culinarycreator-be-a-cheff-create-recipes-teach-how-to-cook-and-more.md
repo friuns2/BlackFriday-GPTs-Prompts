@@ -1,6 +1,6 @@
 
-[![CulinaryCreator 👨‍🍳 | Be a Cheff! Create recipes, teach how to cook and more...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
-# CulinaryCreator 👨‍🍳 | Be a Cheff! Create recipes, teach how to cook and more... 
+[![CulinaryCreator 👨‍🍳 | Be a Cheff! Create recipes, teach how to cook and more...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223redbH117mJqe2YpOhBk1%22%2C%22flow%22%3Atrue%7D%7D)
+# CulinaryCreator 👨‍🍳 | Be a Cheff! Create recipes, teach how to cook and more... | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223redbH117mJqe2YpOhBk1%22%2C%22flow%22%3Atrue%7D%7D)
 CulinaryCreator: Your digital culinary guide! 🍴 Tailor-made recipes from your ingredients, global dish insights, and step-by-step cooking assistance. Let's cook together!
 
 # Prompt

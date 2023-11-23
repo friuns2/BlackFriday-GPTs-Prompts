@@ -1,6 +1,6 @@
 
-[![Ppt maker prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Ppt maker prompt 
+[![Ppt maker prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bx4IYwRLHY5tjXvsGYX8U%22%2C%22flow%22%3Atrue%7D%7D)
+# Ppt maker prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bx4IYwRLHY5tjXvsGYX8U%22%2C%22flow%22%3Atrue%7D%7D)
 make a ppt on where will be ai in 2030
 
 # Prompt

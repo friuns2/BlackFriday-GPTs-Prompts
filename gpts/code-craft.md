@@ -1,6 +1,6 @@
 
-[![Code Craft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# Code Craft 
+[![Code Craft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TJonlsqq38KoUxG0axsB6%22%2C%22flow%22%3Atrue%7D%7D)
+# Code Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TJonlsqq38KoUxG0axsB6%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCraft is your mystical guide through the coding universe, illuminating pathways with wisdom and support. Offering invaluable services like code review, debugging assistance, formatting, and resource guidance, it empowers you to craft code that's both powerful and elegant. Engage with CodeCraft, adhere to its sacred rules, and embark on a coding adventure filled with learning, discovery, and mastery!
 
 # Prompt

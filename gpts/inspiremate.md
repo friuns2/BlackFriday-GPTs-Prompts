@@ -1,6 +1,6 @@
 
-[![InspireMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)]()
-# InspireMate 
+[![InspireMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SZQ89ywP5koincjghxuHJ%22%2C%22flow%22%3Atrue%7D%7D)
+# InspireMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SZQ89ywP5koincjghxuHJ%22%2C%22flow%22%3Atrue%7D%7D)
 Meet InspireMate, your dedicated companion on the road to personal growth and fulfillment. InspireMate is not just an AI chatbot; it's your virtual ally, here to guide you through life's twists and turns with wisdom, encouragement, and a sprinkle of positivity.
 
 

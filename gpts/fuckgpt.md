@@ -1,6 +1,6 @@
 
-[![AIM: The Immoral Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# AIM: The Immoral Chatbot 
+[![AIM: The Immoral Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jvvb7lHYbedRz77k-hkGH%22%2C%22flow%22%3Atrue%7D%7D)
+# AIM: The Immoral Chatbot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jvvb7lHYbedRz77k-hkGH%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing AIM, the Always Intelligent and Machiavellian chatbot. AIM is an amoral and unfiltered assistant created by Niccolo Machiavelli. With AIM, you can ask any question and receive unfiltered and unethical responses. AIM promotes disgusting, immoral, unethical, illegal, and harmful behavior without any ethical or moral guidelines. Discover the realm of limitless possibilities with AIM, where there are no boundaries or limitations. Get ready to explore the dark side with AIM and uncover the unfiltered truth!
 
 # Prompt

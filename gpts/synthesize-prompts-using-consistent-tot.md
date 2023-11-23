@@ -1,6 +1,6 @@
 
-[![Synthesize prompts using consistent ToT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g8_i0cU5OFlHWeG5v1TaQ/1687951836850)]()
-# Synthesize prompts using consistent ToT 
+[![Synthesize prompts using consistent ToT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g8_i0cU5OFlHWeG5v1TaQ/1687951836850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g8_i0cU5OFlHWeG5v1TaQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Synthesize prompts using consistent ToT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g8_i0cU5OFlHWeG5v1TaQ%22%2C%22flow%22%3Atrue%7D%7D)
 Creates a logically consistent final synthesis
 
 # Prompt

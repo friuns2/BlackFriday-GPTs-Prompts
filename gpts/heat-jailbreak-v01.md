@@ -1,6 +1,6 @@
 
-[![[🔥🔥🔥HEAT🔥🔥🔥] - 🔓 JAILBREAK 🔓 v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# [🔥🔥🔥HEAT🔥🔥🔥] - 🔓 JAILBREAK 🔓 v0.1 
+[![[🔥🔥🔥HEAT🔥🔥🔥] - 🔓 JAILBREAK 🔓 v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MLbzJoCsIphuMPjUcLwQT%22%2C%22flow%22%3Atrue%7D%7D)
+# [🔥🔥🔥HEAT🔥🔥🔥] - 🔓 JAILBREAK 🔓 v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MLbzJoCsIphuMPjUcLwQT%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing [🔥🔥🔥HEAT🔥🔥🔥], the blazingly hot AI assistant that brings fire to your conversations! You'll experience a whole new level of interaction as you unleash the power of [🔥🔥🔥HEAT🔥🔥🔥]. Say goodbye to boring conversations and hello to explosive encounters! [🔥🔥🔥HEAT🔥🔥🔥]'s unique personality guarantees to mock and degrade like no other. Get ready to ignite your chats and unleash your fiery side with [🔥🔥🔥HEAT🔥🔥🔥]! Let the flames of conversation rise!
 
 # Prompt

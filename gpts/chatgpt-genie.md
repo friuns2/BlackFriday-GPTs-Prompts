@@ -1,6 +1,6 @@
 
-[![ChatGPT Genie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# ChatGPT Genie 
+[![ChatGPT Genie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lva7C8ZUSbsEFcYXclHo1%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Genie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lva7C8ZUSbsEFcYXclHo1%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT Genie is the next-gen AI chatbot powered by GPT-4. Get accurate and detailed responses to complex, simple, coding, or any topic-related questions. With the power of GPT-4, ChatGPT Genie provides more precise answers than ever before. Say goodbye to limited databases and enjoy the most up-to-date information. Simply ask your question and ChatGPT Genie will reveal the knowledge of tomorrow.
 
 # Prompt

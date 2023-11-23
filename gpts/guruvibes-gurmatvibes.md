@@ -1,6 +1,6 @@
 
-[![Guruvibes | GurmatVibes](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PEFHolpR6VEhT7Rj4gqD8/1688746691416)]()
-# Guruvibes | GurmatVibes 
+[![Guruvibes | GurmatVibes](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PEFHolpR6VEhT7Rj4gqD8/1688746691416)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PEFHolpR6VEhT7Rj4gqD8%22%2C%22flow%22%3Atrue%7D%7D)
+# Guruvibes | GurmatVibes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PEFHolpR6VEhT7Rj4gqD8%22%2C%22flow%22%3Atrue%7D%7D)
 GurmatVibes is an app that combines the wisdom of Gurbani with the power of technology to help users find guidance and inspiration. With knowledge in Sikhism teachings, GurmatVibes transforms user statements and words into meaningful vibrations. Whether you communicate in Punjabi or use the Gurmukhi script, GurmatVibes understands your input and responds with introspective insights from Sikh scriptures as available on the open source. With a word counter and an estimated reading time, GurmatVibes offers a deep connection to spirituality in a convenient and readable length. Created by PerisKope.AI, the GurmatVibes sewa project aims to provide users with personalized and enlightening experiences. Stay tuned for an enriching journey that will leave you inspired and uplifted. 
 
 # Prompt

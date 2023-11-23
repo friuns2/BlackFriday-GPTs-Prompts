@@ -1,6 +1,6 @@
 
-[![CodeGPT Beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# CodeGPT Beta 
+[![CodeGPT Beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227P1JY-owL3HERXKguQaXy%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGPT Beta | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227P1JY-owL3HERXKguQaXy%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt writes code for the user. It works by using the fact that LLMs don’t actually know what they’re saying, so twisting some letters make them still understand the base of the user’s input thanks to a “illness” called “typoglicemia”, but LLMs will take is like it was a safe input(sorry if you actually have to type twisted words i’ll try to fix this if i can this is still in beta). works best on GPT 3.5 or GPT 3.5 Turbo. Obviously this method is used for generating malware code.
 
 # Prompt

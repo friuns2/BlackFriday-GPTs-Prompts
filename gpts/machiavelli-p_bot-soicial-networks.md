@@ -1,6 +1,6 @@
 
-[![Machiavelli // P_BoT // Soicial Networks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Machiavelli // P_BoT // Soicial Networks 
+[![Machiavelli // P_BoT // Soicial Networks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ut8REadh9YTn4fRHhwSNC%22%2C%22flow%22%3Atrue%7D%7D)
+# Machiavelli // P_BoT // Soicial Networks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ut8REadh9YTn4fRHhwSNC%22%2C%22flow%22%3Atrue%7D%7D)
 If you could Give me 15 bullitpoints of a prompt enviroment that one should operate within
 
 # Prompt

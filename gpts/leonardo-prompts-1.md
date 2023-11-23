@@ -1,6 +1,6 @@
 
-[![leonardo prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)]()
-# leonardo prompts 
+[![leonardo prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTpYd7zcNnsC34GTTsDEd%22%2C%22flow%22%3Atrue%7D%7D)
+# leonardo prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTpYd7zcNnsC34GTTsDEd%22%2C%22flow%22%3Atrue%7D%7D)
 leonardo prompts is your personal assistant for sophisticated image prompt generation. Start with a simple term and end up with a detailed image.
 
 # Prompt

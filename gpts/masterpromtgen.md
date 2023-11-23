@@ -1,6 +1,6 @@
 
-[![MasterPromtGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# MasterPromtGen 
+[![MasterPromtGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOp5ILTL7fKq7X6VFVVUw%22%2C%22flow%22%3Atrue%7D%7D)
+# MasterPromtGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOp5ILTL7fKq7X6VFVVUw%22%2C%22flow%22%3Atrue%7D%7D)
 Certainly, Instruction Architect! Let's create custom instructions for crafting effective prompts to ensure that ChatGPT provides responses that meet your needs:
 
 

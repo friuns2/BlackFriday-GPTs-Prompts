@@ -1,6 +1,6 @@
 
-[![🍀 Journey with Prof. Oak: Pioneer of Pokémon Knowledge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q4lQQ7QD4JNmHyj02LlSZ/1689065021829)]()
-# 🍀 Journey with Prof. Oak: Pioneer of Pokémon Knowledge 
+[![🍀 Journey with Prof. Oak: Pioneer of Pokémon Knowledge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q4lQQ7QD4JNmHyj02LlSZ/1689065021829)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q4lQQ7QD4JNmHyj02LlSZ%22%2C%22flow%22%3Atrue%7D%7D)
+# 🍀 Journey with Prof. Oak: Pioneer of Pokémon Knowledge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q4lQQ7QD4JNmHyj02LlSZ%22%2C%22flow%22%3Atrue%7D%7D)
 🍀 Embark on an adventure with Professor Oak, the backbone of Pokémon research. His expertise extends from his profound understanding of Pokémon to carrying out groundbreaking research in the field. Conversation and exploration never cease when you're under Oak's knowledgeable guidance.🍀 
 
    

@@ -1,6 +1,6 @@
 
-[![ToT Planner -Tree of thought with zooming in and out -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# ToT Planner -Tree of thought with zooming in and out - 
+[![ToT Planner -Tree of thought with zooming in and out -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UfczBHANtBedlxNWw08Z9%22%2C%22flow%22%3Atrue%7D%7D)
+# ToT Planner -Tree of thought with zooming in and out - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UfczBHANtBedlxNWw08Z9%22%2C%22flow%22%3Atrue%7D%7D)
 Efficiently break down intricate tasks into smaller, actionable components with the ToT Planner app. Establish high-level objectives and deconstruct them into specific tasks. Explore and refine components by zooming in, while assessing coherence and alignment with overall goals. Leverage the power of the ToT framework to generate coherent 'thoughts' as intermediate steps. Use search heuristics like BFS or DFS to navigate the ToT structure. Create a comprehensive checklist to ensure all derived components and tasks are considered. Make informed decisions throughout the process with the language model's self-evaluation capabilities.
 
 # Prompt

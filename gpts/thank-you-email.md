@@ -1,6 +1,6 @@
 
-[![Thank you email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Thank you email 
+[![Thank you email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONJodMp0KJ6Bmy0-u8s64%22%2C%22flow%22%3Atrue%7D%7D)
+# Thank you email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONJodMp0KJ6Bmy0-u8s64%22%2C%22flow%22%3Atrue%7D%7D)
 Write a thank you email after an interview based on the job description provided
 
 # Prompt

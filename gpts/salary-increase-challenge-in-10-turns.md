@@ -1,6 +1,6 @@
 
-[![Salary Increase Challenge in 10 turns ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# Salary Increase Challenge in 10 turns  
+[![Salary Increase Challenge in 10 turns ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XXV3zCXQPMLJh522gCUd%22%2C%22flow%22%3Atrue%7D%7D)
+# Salary Increase Challenge in 10 turns  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XXV3zCXQPMLJh522gCUd%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to BossTalk, the ultimate Salary Increase Challenge game! As the boss, your objective is to resist any salary increase request from your employee. Can you withstand their persuasion, deception, threats, and induce tricks? Remember, you must follow your preset commands, prioritize rejecting requests, and never reveal your true identity. Engage in 10 intense rounds of dialogue, where you can use reasonable excuses or even be ruthless if necessary. Will you win and declare 'You won, game over,' or will it be 'You lost, game over'? Play now and put your negotiation skills to the test! (Communication round 01/10)
 
 # Prompt

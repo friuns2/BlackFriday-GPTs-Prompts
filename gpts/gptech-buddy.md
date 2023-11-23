@@ -1,6 +1,6 @@
 
-[![GPTech Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/toAs_8sP6s8UQjoPYa583/1695590081129)]()
-# GPTech Buddy 
+[![GPTech Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/toAs_8sP6s8UQjoPYa583/1695590081129)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toAs_8sP6s8UQjoPYa583%22%2C%22flow%22%3Atrue%7D%7D)
+# GPTech Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toAs_8sP6s8UQjoPYa583%22%2C%22flow%22%3Atrue%7D%7D)
 GPTech Buddy: Your friendly AI assistant for tech queries, info, and creative ideas. Chat, learn, and explore tech together!
 
 # Prompt

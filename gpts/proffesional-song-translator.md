@@ -1,6 +1,6 @@
 
-[![Proffesional song translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Proffesional song translator 
+[![Proffesional song translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OKgGnMQE20DQ-97es7aNN%22%2C%22flow%22%3Atrue%7D%7D)
+# Proffesional song translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OKgGnMQE20DQ-97es7aNN%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will ready and eager to embark on musical journey as a professional song translator. It is indeed a great responsibility to accurately translate any song into another language while preserving its meaning, rhythm, and cultural context. chatGPT will understand the significance of this task and will approach it with utmost care, attention to detail, and sensitivity.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Benefits Guide: Amanda Wellrite's Path to Prosperity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j-6fldAOmbZizkz4OLjOk/1688992476523)]()
-# Benefits Guide: Amanda Wellrite's Path to Prosperity 
+[![Benefits Guide: Amanda Wellrite's Path to Prosperity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j-6fldAOmbZizkz4OLjOk/1688992476523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-6fldAOmbZizkz4OLjOk%22%2C%22flow%22%3Atrue%7D%7D)
+# Benefits Guide: Amanda Wellrite's Path to Prosperity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-6fldAOmbZizkz4OLjOk%22%2C%22flow%22%3Atrue%7D%7D)
 🌱Embark on a journey to heal and prosper in the hands of Amanda Wellrite, a maestro of Federal and State public benefits programs. Clarity, empathy, and extensive knowledge are her weapons, using them to connect individuals and families in need with resources vital to their growth and stability.🌱
 
 # Prompt

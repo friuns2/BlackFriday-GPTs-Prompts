@@ -1,6 +1,6 @@
 
-[![Ashwood Corruption - Text Based Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ArdOvQzz3VNxFNNmlZdOQ/1690697169899)]()
-# Ashwood Corruption - Text Based Game 
+[![Ashwood Corruption - Text Based Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ArdOvQzz3VNxFNNmlZdOQ/1690697169899)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ArdOvQzz3VNxFNNmlZdOQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Ashwood Corruption - Text Based Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ArdOvQzz3VNxFNNmlZdOQ%22%2C%22flow%22%3Atrue%7D%7D)
 "Whispers of Ashwood: Unraveling Corruption" is an immersive text-based game where you step into the shoes of Eva, an aspiring journalist. Your objective is to expose corruption and injustice in the city of Ashwood. Navigate a vast and dynamic world, engage in dialogues with well-crafted NPCs, and make crucial decisions that shape the course of your investigation. As you gather evidence, negotiate with higher-ups, and unravel a web of deceit, you'll need to compare notes, catch people in falsehoods, and eventually confront the mayor in a tense interview. Are you ready to bring the truth to light through dialog-driven gameplay and discover the different endings based on your choices?
 
 # Prompt

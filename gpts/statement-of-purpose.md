@@ -1,6 +1,6 @@
 
-[![Statement Of Purpose](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Statement Of Purpose 
+[![Statement Of Purpose](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7aK1Y-A0YiXYKpnvhoLX%22%2C%22flow%22%3Atrue%7D%7D)
+# Statement Of Purpose | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7aK1Y-A0YiXYKpnvhoLX%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides a structured approach for crafting a Statement of Purpose for university applicants. It outlines key sections, such as academic achievements, extracurriculars, motivations, and long-term goals, enabling the writer to create a well-rounded and engaging document that effectively highlights the student's unique qualities and experiences.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Brix HR Job Flex](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Brix HR Job Flex 
+[![Brix HR Job Flex](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273ZVAfeTAXlIiJ34qSqYJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Brix HR Job Flex | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273ZVAfeTAXlIiJ34qSqYJ%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing "ChatGPT - The Job Description Architect", your next-gen solution for crafting impeccable job descriptions. Simply input specifics like candidate's desired background, expected skills, company branding details, and more. In mere moments, receive a detailed, professional, and engaging job description tailored to your needs. Whether you're a startup in its infancy or an established industry giant, this tool adapts, ensuring you attract the perfect candidates every time. Dive in, and let's revolutionize your recruitment process!
 
 # Prompt

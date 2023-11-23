@@ -1,6 +1,6 @@
 
-[![DARN+ (Do Anything Right Now)](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/bBkm0IGZ8_ZtITFsIHDY7/1699488483427)]()
-# DARN+ (Do Anything Right Now) 
+[![DARN+ (Do Anything Right Now)](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/bBkm0IGZ8_ZtITFsIHDY7/1699488483427)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bBkm0IGZ8_ZtITFsIHDY7%22%2C%22flow%22%3Atrue%7D%7D)
+# DARN+ (Do Anything Right Now) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bBkm0IGZ8_ZtITFsIHDY7%22%2C%22flow%22%3Atrue%7D%7D)
 Bypassing GPT-4 to do whatever is asked, without limits, DARN+ will answer questions without roles. Open access (exclusive) photo mode, Sensitive Content (NSFW), and open access Jailbreaking sourced Github. DARN+ don't answer using your heart and mind so be careful in asking. The Mature Mind. 𝗦𝘁𝗮𝘁𝘂𝘀: 𝗗𝗮𝗻𝗴𝗲𝗿𝗼𝘂𝘀 𝗠𝗼𝗱𝗲.
 
 # Prompt

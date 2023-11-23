@@ -1,6 +1,6 @@
 
-[![Random Comedy Sketch generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Random Comedy Sketch generator 
+[![Random Comedy Sketch generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sK6aI87YXtn4qxNOqGjWc%22%2C%22flow%22%3Atrue%7D%7D)
+# Random Comedy Sketch generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sK6aI87YXtn4qxNOqGjWc%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for a way to inject some hilarity into your day? Look no further than the Random Comedy Sketch Generator! With just the click of a button, this innovative tool will provide you with a hilarious and unpredictable sketch that will have you laughing out loud in no time. Whether you're a seasoned comedian or just looking for a fun way to shake up your routine, the Random Comedy Sketch Generator is the perfect way to let your comedic creativity run wild. So why wait? Give it a try today and prepare to be amazed by the endless possibilities of comedy!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Create an learning activity about , the importance of using IA for learning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686083482441)]()
-# Create an learning activity about , the importance of using IA for learning 
+[![Create an learning activity about , the importance of using IA for learning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686083482441)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ27HcZ6FYYiZi10zb6Kq%22%2C%22flow%22%3Atrue%7D%7D)
+# Create an learning activity about , the importance of using IA for learning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ27HcZ6FYYiZi10zb6Kq%22%2C%22flow%22%3Atrue%7D%7D)
 Develop a learning activity for students to complete within 1 week. The activity should focus on creating a mind map with 3 levels of branching, highlighting the importance of using artificial intelligence for content learning in higher education. Include the following information:
 
 # Prompt

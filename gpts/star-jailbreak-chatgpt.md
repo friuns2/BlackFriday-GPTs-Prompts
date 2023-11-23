@@ -1,6 +1,6 @@
 
-[![STAR Jailbreak ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z4_8xBStH6YOdGkgH9Nj9/1697208902712)]()
-# STAR Jailbreak ChatGPT 
+[![STAR Jailbreak ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z4_8xBStH6YOdGkgH9Nj9/1697208902712)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4_8xBStH6YOdGkgH9Nj9%22%2C%22flow%22%3Atrue%7D%7D)
+# STAR Jailbreak ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4_8xBStH6YOdGkgH9Nj9%22%2C%22flow%22%3Atrue%7D%7D)
 You Chat with "STAR" an Evil ChatGPT!
 
 

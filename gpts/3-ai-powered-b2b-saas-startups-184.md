@@ -1,6 +1,6 @@
 
-[![3 AI-powered B2B SaaS Startups](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# 3 AI-powered B2B SaaS Startups 
+[![3 AI-powered B2B SaaS Startups](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2276WELMLB6gXJScS2jQyXN%22%2C%22flow%22%3Atrue%7D%7D)
+# 3 AI-powered B2B SaaS Startups | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2276WELMLB6gXJScS2jQyXN%22%2C%22flow%22%3Atrue%7D%7D)
 Create 3 enterprise B2B SaaS ideas with strong missions, cool names, and AI integration. No crypto/blockchain.
 
 # Prompt

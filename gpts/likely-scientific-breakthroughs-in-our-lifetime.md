@@ -1,6 +1,6 @@
 
-[![Likely scientific breakthroughs in our lifetime ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Likely scientific breakthroughs in our lifetime  
+[![Likely scientific breakthroughs in our lifetime ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W9ppggrwt38Gecxd3-Dab%22%2C%22flow%22%3Atrue%7D%7D)
+# Likely scientific breakthroughs in our lifetime  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W9ppggrwt38Gecxd3-Dab%22%2C%22flow%22%3Atrue%7D%7D)
 Pick a scientific breakthrough that has not yet occurred, but you believe will happen within the next 50 years. Discuss the potential implications of this discovery and how it might transform the way we live, work, and interact.
 
 # Prompt

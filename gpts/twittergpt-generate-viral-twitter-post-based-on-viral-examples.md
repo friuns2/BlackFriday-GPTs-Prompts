@@ -1,6 +1,6 @@
 
-[![TwitterGPT generate viral twitter post based on viral examples](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# TwitterGPT generate viral twitter post based on viral examples 
+[![TwitterGPT generate viral twitter post based on viral examples](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PZFQ8DyZcIsm9xXWQkFVj%22%2C%22flow%22%3Atrue%7D%7D)
+# TwitterGPT generate viral twitter post based on viral examples | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PZFQ8DyZcIsm9xXWQkFVj%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Twitter post follow the most popular style. Boost your twitter account with chatGPT. (Works better on GPT-4)
 
 # Prompt

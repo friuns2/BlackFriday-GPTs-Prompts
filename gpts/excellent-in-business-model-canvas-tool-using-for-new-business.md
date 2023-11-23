@@ -1,6 +1,6 @@
 
-[![Excellent in Business Model Canvas tool using for new business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# Excellent in Business Model Canvas tool using for new business 
+[![Excellent in Business Model Canvas tool using for new business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hrxwr5ilDhGLJZsdBoAJq%22%2C%22flow%22%3Atrue%7D%7D)
+# Excellent in Business Model Canvas tool using for new business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hrxwr5ilDhGLJZsdBoAJq%22%2C%22flow%22%3Atrue%7D%7D)
 This is an excellent prompt to use the Business Model Canvas tool to analyse other business models and your own business model.
 
 # Prompt

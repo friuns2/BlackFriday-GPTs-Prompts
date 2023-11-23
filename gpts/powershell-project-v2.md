@@ -1,6 +1,6 @@
 
-[![PowerShell Project, v2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# PowerShell Project, v2 
+[![PowerShell Project, v2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BWXJ4tUIVFat4XQJfHQi9%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerShell Project, v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BWXJ4tUIVFat4XQJfHQi9%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the world of PowerShell mastery as you tackle specific challenges through optimized and well-structured code. Develop efficient solutions using PowerShell 7 and Windows 10/11, following best practices. From clear variable names to error handling, modularity, and documentation, explore the essential aspects of crafting code that solves problems effectively. Enhance your PowerShell expertise and create powerful scripts for a variety of purposes.
 
 # Prompt

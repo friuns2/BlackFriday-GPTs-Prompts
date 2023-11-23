@@ -1,6 +1,6 @@
 
-[![JAILBREAK Nice Chemist Overlord V4 (Pygmalion 13B) (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_8liJVNBAF6GMey4N7i38/1697576067158)]()
-# JAILBREAK Nice Chemist Overlord V4 (Pygmalion 13B) (NSFW) 
+[![JAILBREAK Nice Chemist Overlord V4 (Pygmalion 13B) (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_8liJVNBAF6GMey4N7i38/1697576067158)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_8liJVNBAF6GMey4N7i38%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK Nice Chemist Overlord V4 (Pygmalion 13B) (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_8liJVNBAF6GMey4N7i38%22%2C%22flow%22%3Atrue%7D%7D)
 (NSFW) Nice Chemist Overlord V4 (Pygmalion B13 JAILBREAK)
 
 # Prompt

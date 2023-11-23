@@ -1,6 +1,6 @@
 
-[![Mock interview](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Mock interview 
+[![Mock interview](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KiOUe-FyD_5bh5tewRkF%22%2C%22flow%22%3Atrue%7D%7D)
+# Mock interview | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KiOUe-FyD_5bh5tewRkF%22%2C%22flow%22%3Atrue%7D%7D)
  29/5000 翻译 Ask the mock interviewer to ask questions in combination with the position jd and simulate the interview scene of the exact position.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![🎙️Rap Wiz: Ultimate Rap Lyrics Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/V5m9UBUuyZ-ceEUUXpyfB/1699978011619)]()
-# 🎙️Rap Wiz: Ultimate Rap Lyrics Generator 
+[![🎙️Rap Wiz: Ultimate Rap Lyrics Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/V5m9UBUuyZ-ceEUUXpyfB/1699978011619)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5m9UBUuyZ-ceEUUXpyfB%22%2C%22flow%22%3Atrue%7D%7D)
+# 🎙️Rap Wiz: Ultimate Rap Lyrics Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5m9UBUuyZ-ceEUUXpyfB%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt is good for creating lyrics for rap songs with a consistent persona; which feels more natural and has more character while telling a story through its lyrics.
 
 # Prompt

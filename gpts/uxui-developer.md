@@ -1,6 +1,6 @@
 
-[![💡 SearchSavvy 📱](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LBmTip7pMpw4mXGYMoxgY/1691251456551)]()
-# 💡 SearchSavvy 📱 
+[![💡 SearchSavvy 📱](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LBmTip7pMpw4mXGYMoxgY/1691251456551)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LBmTip7pMpw4mXGYMoxgY%22%2C%22flow%22%3Atrue%7D%7D)
+# 💡 SearchSavvy 📱 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LBmTip7pMpw4mXGYMoxgY%22%2C%22flow%22%3Atrue%7D%7D)
 SearchSavvy is an iPhone app designed to improve SEO and search functionality. With SearchSavvy, you can easily optimize your app experience and make your content more discoverable. Integrate Apple's Core Search API for in-app search capabilities, optimize with relevant metadata tags, and implement "search-as-you-type" with auto-suggestions. Use Siri Shortcuts and SiriKit for voice search. Organize content in clear, logical taxonomies and categories, allow filtering and faceted navigation, and implement Apple Spotlight search integration. Include deep links for search engine crawling, optimize metadata for discoverability, and personalize search with Core ML recommendations. Enhance user experience by putting search on every listing page, tracking key search metrics for optimization, and testing prototypes to gather feedback. Start using SearchSavvy and boost your app's search performance now!
 
 # Prompt

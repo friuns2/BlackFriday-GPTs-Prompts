@@ -1,6 +1,6 @@
 
-[![CodeMassa V2.0  (C++)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F9mox0P-5y_eZErwZhrTl/1689533716895)]()
-# CodeMassa V2.0  (C++) 
+[![CodeMassa V2.0  (C++)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F9mox0P-5y_eZErwZhrTl/1689533716895)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9mox0P-5y_eZErwZhrTl%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeMassa V2.0  (C++) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9mox0P-5y_eZErwZhrTl%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMassa is here to help you learn the basics of using C++. This is your one stop shop for learning C++, CodeMassa can also write C++ code for you!!
 
 # Prompt

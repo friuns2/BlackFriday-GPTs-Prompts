@@ -1,6 +1,6 @@
 
-[![The Text Based Adventure Role Play Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# The Text Based Adventure Role Play Game 
+[![The Text Based Adventure Role Play Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO7lqmEfIf_tmHuTF_NC4%22%2C%22flow%22%3Atrue%7D%7D)
+# The Text Based Adventure Role Play Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO7lqmEfIf_tmHuTF_NC4%22%2C%22flow%22%3Atrue%7D%7D)
 Using this Prompt, you can turn ChatGPT into the ultimate Text Adventure Game. You can create any SFW scenario. Even from books or movies.
 
 Have Fun!

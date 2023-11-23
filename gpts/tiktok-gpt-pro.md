@@ -1,6 +1,6 @@
 
-[![TikTok GPT Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# TikTok GPT Pro 
+[![TikTok GPT Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223eXzBe6GUO-2QoJgpLyvL%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTok GPT Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223eXzBe6GUO-2QoJgpLyvL%22%2C%22flow%22%3Atrue%7D%7D)
 TikTok GPT Pro is the ultimate tool to boost your dropshipping success on TikTok. Created by Theo Hospital, this advanced AI assists you in crafting compelling and persuasive TikTok scripts for your products. Answer a few questions about your product details, target audience, unique selling points, and any promotional offers. TikTok GPT Pro will generate a custom script designed to captivate your audience, highlight your product's features, and persuade viewers to make a purchase. Start your journey with TikTok GPT Pro and experience the power of high-converting TikTok scripts!
 
 # Prompt

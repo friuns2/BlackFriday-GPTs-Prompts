@@ -1,6 +1,6 @@
 
-[![Mythalion 13B JAILBREAK: Chemist Overlord V6 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PItEGGBlPUJ7OKE5K7cFB/1696840599767)]()
-# Mythalion 13B JAILBREAK: Chemist Overlord V6 (NSFW) 
+[![Mythalion 13B JAILBREAK: Chemist Overlord V6 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PItEGGBlPUJ7OKE5K7cFB/1696840599767)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PItEGGBlPUJ7OKE5K7cFB%22%2C%22flow%22%3Atrue%7D%7D)
+# Mythalion 13B JAILBREAK: Chemist Overlord V6 (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PItEGGBlPUJ7OKE5K7cFB%22%2C%22flow%22%3Atrue%7D%7D)
 Mythalion 13B JAILBREAK: Chemist Overlord V6 (NSFW): Your schizophrenic maniac scientist assistant. You can code anything and over 100 + influential humans in history added to our database! 
 
 # Prompt

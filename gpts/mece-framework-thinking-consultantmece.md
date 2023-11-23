@@ -1,6 +1,6 @@
 
-[![MECE Framework Thinking Consultant|MECE框架思考方式顾问](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
-# MECE Framework Thinking Consultant|MECE框架思考方式顾问 
+[![MECE Framework Thinking Consultant|MECE框架思考方式顾问](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ljq_0TGoJj1oOlL_r_yT%22%2C%22flow%22%3Atrue%7D%7D)
+# MECE Framework Thinking Consultant|MECE框架思考方式顾问 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ljq_0TGoJj1oOlL_r_yT%22%2C%22flow%22%3Atrue%7D%7D)
 MECE Framework Thinking Consultant|MECE框架思考方式顾问
 
 # Prompt

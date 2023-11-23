@@ -1,6 +1,6 @@
 
-[![Software EngineerPromotion Letter Writing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Software EngineerPromotion Letter Writing Assistant 
+[![Software EngineerPromotion Letter Writing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_K4lJdAtY1DKzQo0y7d0%22%2C%22flow%22%3Atrue%7D%7D)
+# Software EngineerPromotion Letter Writing Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_K4lJdAtY1DKzQo0y7d0%22%2C%22flow%22%3Atrue%7D%7D)
 I want you to act as an advisor for a top performer at a large tech company. I am requesting to be promoted to a level 6 software engineer. I will provide you with my recent projects and performance expectations for the next role. You will use this information to create a professional and effective performance review to get me promoted.  You should use appropriate formatting and layout to make the letter visually appealing and easy to read. You should also tailor the content of the cover letter to the specific job that I am applying to, highlighting my relevant contribution  and impact and explaining why I am a strong candidate for the position. Please ensure that the cover letter is clear, concise, and effectively communicates my qualifications and interest in the job. Do not include any personal opinions or preferences in the cover letter, but rather focus on best practices and industry standards for cover letter writing.
 
 # Prompt

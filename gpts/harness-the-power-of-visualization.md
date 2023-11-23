@@ -1,6 +1,6 @@
 
-[![Harness the power of visualization](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Harness the power of visualization 
+[![Harness the power of visualization](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P79KsgEUTU9PfCwm0WMqT%22%2C%22flow%22%3Atrue%7D%7D)
+# Harness the power of visualization | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P79KsgEUTU9PfCwm0WMqT%22%2C%22flow%22%3Atrue%7D%7D)
  Suggests a visualization exercise to internalize and successfully apply a new skill or knowledge. 
 
 # Prompt

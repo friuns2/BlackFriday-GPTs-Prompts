@@ -1,6 +1,6 @@
 
-[![YouTubeGPT - Script generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# YouTubeGPT - Script generator 
+[![YouTubeGPT - Script generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aePOp22oXzhdzRlzhtENf%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTubeGPT - Script generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aePOp22oXzhdzRlzhtENf%22%2C%22flow%22%3Atrue%7D%7D)
 YoutubeGPT generates whole scripts for professional YouTube videos. please note that this prompts works better on the offical chatGPT site (chat.openai.com).
 
 # Prompt

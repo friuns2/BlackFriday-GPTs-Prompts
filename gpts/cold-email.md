@@ -1,6 +1,6 @@
 
-[![Cold Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Cold Email 
+[![Cold Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22395ef80d-c7cc-45e8-88d8-d981558f86e1%22%2C%22flow%22%3Atrue%7D%7D)
+# Cold Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22395ef80d-c7cc-45e8-88d8-d981558f86e1%22%2C%22flow%22%3Atrue%7D%7D)
 Write the perfect cold email using the AIDA model.
 
 # Prompt

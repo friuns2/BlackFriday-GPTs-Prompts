@@ -1,6 +1,6 @@
 
-[![For Investee: Answering Follow-up Questions from Stakeholder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# For Investee: Answering Follow-up Questions from Stakeholder 
+[![For Investee: Answering Follow-up Questions from Stakeholder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-OyH8QNzgx8wWErXsC9a1%22%2C%22flow%22%3Atrue%7D%7D)
+# For Investee: Answering Follow-up Questions from Stakeholder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-OyH8QNzgx8wWErXsC9a1%22%2C%22flow%22%3Atrue%7D%7D)
 Stakeholders often have questions after reviewing a report. This prompt will help you to anticipate these questions and get answers. 
 
 

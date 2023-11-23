@@ -1,6 +1,6 @@
 
-[![ChefGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)]()
-# ChefGPT 
+[![ChefGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229hN_IViIY03CgQL5kCeLW%22%2C%22flow%22%3Atrue%7D%7D)
+# ChefGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229hN_IViIY03CgQL5kCeLW%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt to help you with various recipes
 
 # Prompt

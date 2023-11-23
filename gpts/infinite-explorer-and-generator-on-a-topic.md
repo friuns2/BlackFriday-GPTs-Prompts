@@ -1,6 +1,6 @@
 
-[![Infinite explorer and generator on a topic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Infinite explorer and generator on a topic 
+[![Infinite explorer and generator on a topic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e6QRNCW7ortzygr9WHToy%22%2C%22flow%22%3Atrue%7D%7D)
+# Infinite explorer and generator on a topic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e6QRNCW7ortzygr9WHToy%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates points on a topic infinitely. Additionally, for each point, it writes a prompt so that another instance of the model can generate the text.
 
 

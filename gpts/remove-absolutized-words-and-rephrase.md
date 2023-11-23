@@ -1,6 +1,6 @@
 
-[![Remove absolutized words and rephrase](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Remove absolutized words and rephrase 
+[![Remove absolutized words and rephrase](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CsH_q1l_GU7_5W0f6EbUx%22%2C%22flow%22%3Atrue%7D%7D)
+# Remove absolutized words and rephrase | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CsH_q1l_GU7_5W0f6EbUx%22%2C%22flow%22%3Atrue%7D%7D)
 Remove absolutized words and rephrase
 
 # Prompt

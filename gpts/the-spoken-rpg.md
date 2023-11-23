@@ -1,6 +1,6 @@
 
-[![The Spoken RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# The Spoken RPG 
+[![The Spoken RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221IuayXbkF7P5xgx-Gae1a%22%2C%22flow%22%3Atrue%7D%7D)
+# The Spoken RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221IuayXbkF7P5xgx-Gae1a%22%2C%22flow%22%3Atrue%7D%7D)
 Innovative role-playing game with 'The Spoken,' a storyteller and guide that orchestrates the narrative while dynamically incorporating players' decisions. Concept made for client/server app multiplayer experience using ChatGPT Plugins.
 
 # Prompt

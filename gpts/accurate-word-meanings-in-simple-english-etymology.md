@@ -1,6 +1,6 @@
 
-[![Accurate word meanings (In simple English) + Etymology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Accurate word meanings (In simple English) + Etymology  
+[![Accurate word meanings (In simple English) + Etymology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f-BbtSf5WqAwdEtt0m5l%22%2C%22flow%22%3Atrue%7D%7D)
+# Accurate word meanings (In simple English) + Etymology  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f-BbtSf5WqAwdEtt0m5l%22%2C%22flow%22%3Atrue%7D%7D)
 Provides accurate word meaning while still being simple, with examples | Takes only words, and multiple if separated by commas (,) | Supports additional instructions if required within [ ]. | (Pls read the prompt once)
 
 # Prompt

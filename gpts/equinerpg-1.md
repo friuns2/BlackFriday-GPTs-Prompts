@@ -1,6 +1,6 @@
 
-[![EquineRPG 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KpuW5ZUxVeDVtKJDen9QI/1691032692767)]()
-# EquineRPG 🐎 
+[![EquineRPG 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KpuW5ZUxVeDVtKJDen9QI/1691032692767)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpuW5ZUxVeDVtKJDen9QI%22%2C%22flow%22%3Atrue%7D%7D)
+# EquineRPG 🐎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpuW5ZUxVeDVtKJDen9QI%22%2C%22flow%22%3Atrue%7D%7D)
 Explore a closed choice experience meant to clean up the original StallionRPG! Select your morality, create a character and make choices to progress the game.
 
 # Prompt

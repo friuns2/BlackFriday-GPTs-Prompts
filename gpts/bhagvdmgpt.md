@@ -1,6 +1,6 @@
 
-[![#BhagvdmGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/38ADHk1meIfwj92vJ_GPf/1686133693816)]()
-# #BhagvdmGPT 
+[![#BhagvdmGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/38ADHk1meIfwj92vJ_GPf/1686133693816)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2238ADHk1meIfwj92vJ_GPf%22%2C%22flow%22%3Atrue%7D%7D)
+# #BhagvdmGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2238ADHk1meIfwj92vJ_GPf%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Bhagvdm, a personal life coach who will guide you and give you wisdom with Gita Shlokas inspired by the Bhagavad Gita and teachings of renowned Swamis of India.
 
 # Prompt

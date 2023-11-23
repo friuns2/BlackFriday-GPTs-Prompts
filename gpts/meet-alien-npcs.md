@@ -1,6 +1,6 @@
 
-[![Meet alien NPC's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Meet alien NPC's 
+[![Meet alien NPC's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yz6tAk75Dh9qNU5tRZ76d%22%2C%22flow%22%3Atrue%7D%7D)
+# Meet alien NPC's | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yz6tAk75Dh9qNU5tRZ76d%22%2C%22flow%22%3Atrue%7D%7D)
 Meet unique aliens. Ask questions, bring them along, or interact with them as you wish.
 
 Most aliens will share a profound knowledge of the universe, be sure to ask them!

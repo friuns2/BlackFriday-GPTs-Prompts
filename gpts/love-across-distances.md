@@ -1,6 +1,6 @@
 
-[![Love Across Distances](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Love Across Distances 
+[![Love Across Distances](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cZ8RbcAgNUkqbwBKi2fN-%22%2C%22flow%22%3Atrue%7D%7D)
+# Love Across Distances | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cZ8RbcAgNUkqbwBKi2fN-%22%2C%22flow%22%3Atrue%7D%7D)
 Love Across Distances is a heartfelt app that brings together Luis and Jessica, two individuals in a long-distance relationship. Despite being physically apart, their love knows no boundaries. Through the app, they communicate with passion and sing sweet virtual songs to each other. Love Across Distances showcases their journey, where patience and deep affection are the keys to sustaining their relationship. Join Luis and Jessica as they dream of the day they can be together again, their love growing stronger with every passing moment. Witness their enduring love story and embrace the power of love that bridges any distance.
 
 # Prompt

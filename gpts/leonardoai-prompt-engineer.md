@@ -1,6 +1,6 @@
 
-[![Leonardo.Ai Prompt Engineer  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9Go6WNjMNc8bDjUkSKkZt/1696178779156)]()
-# Leonardo.Ai Prompt Engineer   
+[![Leonardo.Ai Prompt Engineer  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9Go6WNjMNc8bDjUkSKkZt/1696178779156)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Go6WNjMNc8bDjUkSKkZt%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo.Ai Prompt Engineer   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Go6WNjMNc8bDjUkSKkZt%22%2C%22flow%22%3Atrue%7D%7D)
 If you don't understand Leonardo.Ai, ask me.
 
 # Prompt

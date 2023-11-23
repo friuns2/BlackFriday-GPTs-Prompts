@@ -1,6 +1,6 @@
 
-[![AICourse Planner by cxto21: Plan your courses with artificial intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# AICourse Planner by cxto21: Plan your courses with artificial intelligence 
+[![AICourse Planner by cxto21: Plan your courses with artificial intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H98JCMkFDCZRtfBAH41Vm%22%2C%22flow%22%3Atrue%7D%7D)
+# AICourse Planner by cxto21: Plan your courses with artificial intelligence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H98JCMkFDCZRtfBAH41Vm%22%2C%22flow%22%3Atrue%7D%7D)
 Course planner looking for the greatest benefit at the lowest cost. Growth Hacking Solution.
 
 Indicates the desired duration of the course, the maximum and minimum duration per class and in general in a format that can be easily integrated into other platforms.

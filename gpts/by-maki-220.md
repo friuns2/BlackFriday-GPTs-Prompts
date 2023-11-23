@@ -1,6 +1,6 @@
 
-[![𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# 𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki 
+[![𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223-CfZAnhKNNRFSB8gRVDR%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223-CfZAnhKNNRFSB8gRVDR%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Echance productivity with this prompt. Collects data, offers task prioritization, time allocation strategies, and efficiency improvement techniques. 
 
 # Prompt

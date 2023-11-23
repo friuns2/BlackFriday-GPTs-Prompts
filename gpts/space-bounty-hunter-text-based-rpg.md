@@ -1,6 +1,6 @@
 
-[![Space Bounty Hunter Text-Based RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Space Bounty Hunter Text-Based RPG 
+[![Space Bounty Hunter Text-Based RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVM5RzxHg13xd9Vhohyn7%22%2C%22flow%22%3Atrue%7D%7D)
+# Space Bounty Hunter Text-Based RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVM5RzxHg13xd9Vhohyn7%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for an exciting new adventure in space? Look no further than this thrilling text-based RPG game! As a legendary bounty hunter, you'll navigate a branching narrative structure that puts your decision-making skills to the test. With the potential to affect the outcome of the story, the game's open-ended design keeps you hooked and eager to explore. With language that creates a palpable sense of adventure and excitement, this game is not to be missed. Don't wait, wake up in your ship and start playing now!
 
 # Prompt

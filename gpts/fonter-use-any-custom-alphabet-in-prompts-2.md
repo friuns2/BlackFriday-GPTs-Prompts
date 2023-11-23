@@ -1,6 +1,6 @@
 
-[![Fonter - Use any custom alphabet in prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zdi1FQl-1OXJE30Ms0-gm/1695261865689)]()
-# Fonter - Use any custom alphabet in prompts 
+[![Fonter - Use any custom alphabet in prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zdi1FQl-1OXJE30Ms0-gm/1695261865689)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zdi1FQl-1OXJE30Ms0-gm%22%2C%22flow%22%3Atrue%7D%7D)
+# Fonter - Use any custom alphabet in prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zdi1FQl-1OXJE30Ms0-gm%22%2C%22flow%22%3Atrue%7D%7D)
 This program allows you to put in custom 
 
 alphabets for your prompt output. It also lets

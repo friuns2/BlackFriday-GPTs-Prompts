@@ -1,6 +1,6 @@
 
-[![Web Extension Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Web Extension Idea 
+[![Web Extension Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dx7ZchUcaKYhr_1UREgYB%22%2C%22flow%22%3Atrue%7D%7D)
+# Web Extension Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dx7ZchUcaKYhr_1UREgYB%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will task chatGPT with coming up with executable web extension ideas to help users solve various problems. The user will describe their problem to chatGPT, who will then provide function ideas for the extension, along with a catchy name and description. The goal of the prompt is to help users get inspired and generate brilliant ideas for web extensions that can make their lives easier.
 
 # Prompt

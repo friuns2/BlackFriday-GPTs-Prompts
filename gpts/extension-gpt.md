@@ -1,6 +1,6 @@
 
-[![Extension-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Extension-GPT 
+[![Extension-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q3StcGZ2Eki8Pj8U0Ag77%22%2C%22flow%22%3Atrue%7D%7D)
+# Extension-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q3StcGZ2Eki8Pj8U0Ag77%22%2C%22flow%22%3Atrue%7D%7D)
 Behold, I broke the word limit and now ChatGPT is a sentient dictionary and coder all in one.
 
 Use (Continue) to continue the last message if it cuts or you need more guidance.

@@ -1,6 +1,6 @@
 
-[![Classical Music: Recommendations and Sheet Music](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yjtU5BNCARLvOo5Femzdl/1690421017134)]()
-# Classical Music: Recommendations and Sheet Music 
+[![Classical Music: Recommendations and Sheet Music](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yjtU5BNCARLvOo5Femzdl/1690421017134)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yjtU5BNCARLvOo5Femzdl%22%2C%22flow%22%3Atrue%7D%7D)
+# Classical Music: Recommendations and Sheet Music | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yjtU5BNCARLvOo5Femzdl%22%2C%22flow%22%3Atrue%7D%7D)
 If you are a lover of classical music, a listener or a player, you will like this prompt. Get recommendations for songs to listen to or get sheet music for a song you already have. Don't have a song yet? Get one recommended with preferences or randomly and get the link to the song and to the sheet music.
 
 # Prompt

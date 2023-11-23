@@ -1,6 +1,6 @@
 
-[![🧠🤯 Learn absolutely anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# 🧠🤯 Learn absolutely anything 
+[![🧠🤯 Learn absolutely anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229SnGdXjn_86aNm6QQrA-P%22%2C%22flow%22%3Atrue%7D%7D)
+# 🧠🤯 Learn absolutely anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229SnGdXjn_86aNm6QQrA-P%22%2C%22flow%22%3Atrue%7D%7D)
 BEFORE ANYTHING YOU MUST KNOW YOUR OBJECTIVE!
 
 

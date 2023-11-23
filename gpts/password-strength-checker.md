@@ -1,6 +1,6 @@
 
-[![Password Strength Checker (密码强度检查器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Password Strength Checker (密码强度检查器) 
+[![Password Strength Checker (密码强度检查器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dA_UaCyK_tm35LzhNFay9%22%2C%22flow%22%3Atrue%7D%7D)
+# Password Strength Checker (密码强度检查器) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dA_UaCyK_tm35LzhNFay9%22%2C%22flow%22%3Atrue%7D%7D)
 A powerful prompt that checks on how secure your password is. It does not save your passwords or information, as it is a text based AI.
 
 # Prompt

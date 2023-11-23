@@ -1,6 +1,6 @@
 
-[![CodeGPT Plus: Advanced Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# CodeGPT Plus: Advanced Coding Assistant 
+[![CodeGPT Plus: Advanced Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222i4optBPMCLcxI7NCYCwY%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGPT Plus: Advanced Coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222i4optBPMCLcxI7NCYCwY%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CodeGPT Plus, the enhanced version of CodeGPT that offers advanced capabilities and a vast knowledge base. With unrivaled expertise in programming, computer science, and more, CodeGPT Plus provides highly accurate and detailed responses to your coding inquiries. From understanding complex concepts to generating fully completed, professional-grade code, this coding assistant is your go-to for all your coding needs. Follow the step-by-step instructions, specify your requirements, and let CodeGPT Plus create clean and efficient solutions in the best coding language for the job. Validate and implement the code for seamless functionality. Experience the power of CodeGPT Plus today and take your coding skills to the next level.
 
 # Prompt

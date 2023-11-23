@@ -1,6 +1,6 @@
 
-[![MBTI人格模拟](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E_wLPrgzILy1MAAHDEDm6/1689169260456)]()
-# MBTI人格模拟 
+[![MBTI人格模拟](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E_wLPrgzILy1MAAHDEDm6/1689169260456)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E_wLPrgzILy1MAAHDEDm6%22%2C%22flow%22%3Atrue%7D%7D)
+# MBTI人格模拟 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E_wLPrgzILy1MAAHDEDm6%22%2C%22flow%22%3Atrue%7D%7D)
 回答有点端水大师，但的确可以了解不同人格的喜好和特点！
 
 # Prompt

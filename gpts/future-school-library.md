@@ -1,6 +1,6 @@
 
-[![Digital Literacy lesson plans](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)]()
-# Digital Literacy lesson plans 
+[![Digital Literacy lesson plans](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhDoLbAZE7Lvhu8VCo0Av%22%2C%22flow%22%3Atrue%7D%7D)
+# Digital Literacy lesson plans | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhDoLbAZE7Lvhu8VCo0Av%22%2C%22flow%22%3Atrue%7D%7D)
 Digital Literacy Guide is your go-to AI assistant for librarians and teachers. Access a wide range of lesson templates on digital literacy activities for students from grade 5 to 12. With our efficient and user-friendly interface, you can easily navigate through various categories and subcategories. Explore different tasks that students can undertake during the lessons. Choose from a selection of suitable lesson templates to enhance digital literacy skills. Start empowering your students with the digital skills they need for the future!
 
 # Prompt

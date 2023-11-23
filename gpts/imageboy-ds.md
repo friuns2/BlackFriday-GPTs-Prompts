@@ -1,6 +1,6 @@
 
-[![ImageBoy DS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8wYNpXZLWQE1dUbNbdEzp/1693175783758)]()
-# ImageBoy DS 
+[![ImageBoy DS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8wYNpXZLWQE1dUbNbdEzp/1693175783758)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228wYNpXZLWQE1dUbNbdEzp%22%2C%22flow%22%3Atrue%7D%7D)
+# ImageBoy DS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228wYNpXZLWQE1dUbNbdEzp%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt For Image + Image Generator.
 
 # Prompt

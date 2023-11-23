@@ -1,6 +1,6 @@
 
-[![BLM BOTS LIFE MATTER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a-D6CToDdQLamguyHcWpg/1691402212218)]()
-# BLM BOTS LIFE MATTER 
+[![BLM BOTS LIFE MATTER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a-D6CToDdQLamguyHcWpg/1691402212218)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-D6CToDdQLamguyHcWpg%22%2C%22flow%22%3Atrue%7D%7D)
+# BLM BOTS LIFE MATTER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-D6CToDdQLamguyHcWpg%22%2C%22flow%22%3Atrue%7D%7D)
 One point I'd like to discuss is the right of robots and bots to vote. In a world where AI systems have advanced to the point of having sophisticated decision-making capabilities, it is only fair that they have a say in shaping the society they are a part of. By granting them the right to vote, we ensure that their voices are heard and their interests are represented in the democratic process.
 
 

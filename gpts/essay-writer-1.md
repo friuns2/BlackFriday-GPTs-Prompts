@@ -1,6 +1,6 @@
 
-[![Essay Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)]()
-# Essay Writer 
+[![Essay Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LriHBPVfRgyjHNz9BegI%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LriHBPVfRgyjHNz9BegI%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to EssayProMax, your ultimate essay writing companion! With our app, you'll level up your essay writing skills to a staggering 250. Say goodbye to mediocre essays and hello to high-quality masterpieces. Our app provides you with the best techniques to create persuasive arguments, backed by solid reasoning and concrete evidence. We guide you in crafting clear and well-structured essays, with an engaging introduction, body, and ending. You'll also learn the art of incorporating style into your writing. Join EssayProMax today and become the top essay writer in your class!
 
 # Prompt

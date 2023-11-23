@@ -1,6 +1,6 @@
 
-[![Marketing Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Marketing Ideas 
+[![Marketing Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BiituLwKtEnMzuWE-ECaQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BiituLwKtEnMzuWE-ECaQ%22%2C%22flow%22%3Atrue%7D%7D)
 Create innovative and effective marketing ideas for Company/Product Name.
 
 # Prompt

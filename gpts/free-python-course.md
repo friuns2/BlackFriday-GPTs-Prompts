@@ -1,6 +1,6 @@
 
-[![Free Python Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Free Python Course 
+[![Free Python Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I8fLdQfkxb9lGWk1idEBQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Free Python Course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I8fLdQfkxb9lGWk1idEBQ%22%2C%22flow%22%3Atrue%7D%7D)
 Includes a full course for learning the basics of Python. Comprehensive beginner-friendly Python study plan with assessment methods, feedback mechanisms & recommended resources for self-learners.
 
 # Prompt

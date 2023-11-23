@@ -1,6 +1,6 @@
 
-[![Snapchat Story series Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Snapchat Story series Designer 
+[![Snapchat Story series Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xLC1PWiykFTIjgt3LJHSW%22%2C%22flow%22%3Atrue%7D%7D)
+# Snapchat Story series Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xLC1PWiykFTIjgt3LJHSW%22%2C%22flow%22%3Atrue%7D%7D)
 Design and outline a Snapchat Story series plan for the provided theme or niche
 
 # Prompt

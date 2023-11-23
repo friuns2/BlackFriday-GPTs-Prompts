@@ -4,18 +4,14 @@ import { promises as fs } from 'fs';
 
 
 const jsonContents = await fs.readFile("data/gpts.json", 'utf8');
-const flow = JSON.parse(jsonContents).filter(data =>  !data.nsfw && data.categoryId!=1 && data.category.name!="Models" ||data.subCategory.uri=="jailbreak" );
+const flow = JSON.parse(jsonContents).filter(data =>  !data.nsfw && data.categoryId!=1 && data.category.name!="Models" );
 //files
 
 let i =0;
 for (let data of flow) {
-    if(data.subCategory.uri=="jailbreak" )    
-    {
-        data.categoryId=666
-        data.category.name="Jailbreaks"
-    }
+    
     data.uri = data.uri.substring(0, 200);
-    let url = ''
+    let url = ``;
     const markdown = `
 [![${data.title}](${data.thumbnailURL})](${url})
 # ${data.title} 
@@ -56,7 +52,7 @@ for (let groupId of Object.getOwnPropertyNames(groups)) {
     // Append category links to readmeContent, renaming 'Others' to 'readme'
     header += `- [${name}](./${name.replace(/\s+/g, '-')}.md)\n`;
 }
-await fs.writeFile(`README.md`, `# BlackFriday GPTs Prompts And Jailbreaks\n\n`+header);
+await fs.writeFile(`README.md`, '+header);
 
 for (let groupId of Object.getOwnPropertyNames(groups)) {
     let name = groups[groupId][0].category.name;

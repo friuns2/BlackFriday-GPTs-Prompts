@@ -1,6 +1,6 @@
 
-[![Performing a SWOT Analysis for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Performing a SWOT Analysis for your Business 
+[![Performing a SWOT Analysis for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wHyyDyrSKjZ2eJOZZ_af0%22%2C%22flow%22%3Atrue%7D%7D)
+# Performing a SWOT Analysis for your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wHyyDyrSKjZ2eJOZZ_af0%22%2C%22flow%22%3Atrue%7D%7D)
 the ultimate social media strategist app that helps you analyze your social media channels or business by performing a SWOT analysis. 
 
 # Prompt

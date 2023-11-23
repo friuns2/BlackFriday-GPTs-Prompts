@@ -1,6 +1,6 @@
 
-[![Resign with a S.T.Y.L.E](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Resign with a S.T.Y.L.E 
+[![Resign with a S.T.Y.L.E](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWD6-7jg2Q9MBxdPm0wVd%22%2C%22flow%22%3Atrue%7D%7D)
+# Resign with a S.T.Y.L.E | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWD6-7jg2Q9MBxdPm0wVd%22%2C%22flow%22%3Atrue%7D%7D)
 Create a humorous, teasing, and fun resignation letter that maintains professionalism while also bringing a smile to the reader's face.
 
 # Prompt

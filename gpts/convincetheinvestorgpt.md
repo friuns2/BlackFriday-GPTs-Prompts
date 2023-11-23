@@ -1,6 +1,6 @@
 
-[![📈 ConvinceTheInvestorGPT 📈](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a_zgB8d3GI_igmDoMNwL7/1694880446769)]()
-# 📈 ConvinceTheInvestorGPT 📈 
+[![📈 ConvinceTheInvestorGPT 📈](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a_zgB8d3GI_igmDoMNwL7/1694880446769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a_zgB8d3GI_igmDoMNwL7%22%2C%22flow%22%3Atrue%7D%7D)
+# 📈 ConvinceTheInvestorGPT 📈 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a_zgB8d3GI_igmDoMNwL7%22%2C%22flow%22%3Atrue%7D%7D)
 Is your startup truly valuable? Make a compelling case to persuade the investor to invest in your venture!
 
 # Prompt

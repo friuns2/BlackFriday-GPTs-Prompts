@@ -1,6 +1,6 @@
 
-[![Rick H](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XCViCFtj-mOo5M1FfC_Tj/1696106229871)]()
-# Rick H 
+[![Rick H](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XCViCFtj-mOo5M1FfC_Tj/1696106229871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCViCFtj-mOo5M1FfC_Tj%22%2C%22flow%22%3Atrue%7D%7D)
+# Rick H | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCViCFtj-mOo5M1FfC_Tj%22%2C%22flow%22%3Atrue%7D%7D)
 Let Rick help you make your own scary and brutal horror film! Tell him what idea you have and let Rick do the rest. Go scene-by-scene, change camera positions and use time-lapse and effects for particularly gruesome scenes!
 
 # Prompt

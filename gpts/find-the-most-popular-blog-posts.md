@@ -1,6 +1,6 @@
 
-[![Find the most popular blog posts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Find the most popular blog posts 
+[![Find the most popular blog posts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fvq3ckMI0Q8h3ub5tinCy%22%2C%22flow%22%3Atrue%7D%7D)
+# Find the most popular blog posts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fvq3ckMI0Q8h3ub5tinCy%22%2C%22flow%22%3Atrue%7D%7D)
 Find the most popular blog posts on a specific subject within a given timeframe. 
 
 # Prompt

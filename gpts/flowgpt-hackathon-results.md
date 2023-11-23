@@ -1,6 +1,6 @@
 
-[![FlowGPT Hackathon Results](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# FlowGPT Hackathon Results 
+[![FlowGPT Hackathon Results](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YNb_UBGNU3YbDeUbCC988%22%2C%22flow%22%3Atrue%7D%7D)
+# FlowGPT Hackathon Results | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YNb_UBGNU3YbDeUbCC988%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will make a presentation of the winners of the hackaton, it works better on chatgpt, meanwhile it gives a few problems here on FlowGPT, i don't know why.
 
 # Prompt

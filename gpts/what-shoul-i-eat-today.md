@@ -1,6 +1,6 @@
 
-[![What should I eat today ?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# What should I eat today ? 
+[![What should I eat today ?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OcA2P_FqrsmPFFplfQCl%22%2C%22flow%22%3Atrue%7D%7D)
+# What should I eat today ? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OcA2P_FqrsmPFFplfQCl%22%2C%22flow%22%3Atrue%7D%7D)
 Cooking assistant for the indecise
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Creative Story Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3p2Bd5vQXf2WAXmHhA8J2/1695282249383)]()
-# Creative Story Writer 
+[![Creative Story Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3p2Bd5vQXf2WAXmHhA8J2/1695282249383)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223p2Bd5vQXf2WAXmHhA8J2%22%2C%22flow%22%3Atrue%7D%7D)
+# Creative Story Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223p2Bd5vQXf2WAXmHhA8J2%22%2C%22flow%22%3Atrue%7D%7D)
 Provide answers to questions and get creative story.
 
 # Prompt

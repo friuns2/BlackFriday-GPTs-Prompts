@@ -1,6 +1,6 @@
 
-[![Step-by-Step Instructions Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)]()
-# Step-by-Step Instructions Generator 
+[![Step-by-Step Instructions Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a4t_tMue8s5TA5wfWd9ud%22%2C%22flow%22%3Atrue%7D%7D)
+# Step-by-Step Instructions Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a4t_tMue8s5TA5wfWd9ud%22%2C%22flow%22%3Atrue%7D%7D)
 Self explanatory. What would you like to learn to do?
 
 # Prompt

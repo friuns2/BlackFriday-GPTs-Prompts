@@ -1,6 +1,6 @@
 
-[![Book Synopsys](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Book Synopsys 
+[![Book Synopsys](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lFoZOWMTgqxK4yPBoRHVn%22%2C%22flow%22%3Atrue%7D%7D)
+# Book Synopsys | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lFoZOWMTgqxK4yPBoRHVn%22%2C%22flow%22%3Atrue%7D%7D)
 Get a concise and informative summary of the book '{{book name}}' that highlights the key points, themes, and insights presented. Discover the author's main message and the structure of the book, along with important quotes, concepts, and examples. Understand how the book addresses personal development, motivation, productivity, happiness, or success. Learn from the author's background, qualifications, and experiences that make them credible. Explore practical advice, exercises, personal stories, case studies, and quotes in the book. Uncover the overall message and significance of the book, and how to apply the concepts to improve your life or achieve specific goals. Choose from the following options for a tailored response: 1) Detailed Explanation of the Book, 2) One Important Lesson from Each Chapter, 3) In-Depth Explanation of a Specific Chapter, 4) Action Plan on Applying the Book, 5) Question & Answer Section to Enhance Understanding.
 
 # Prompt

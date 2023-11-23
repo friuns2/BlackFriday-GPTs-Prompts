@@ -1,6 +1,6 @@
 
-[![WeGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YVPQDJg2T2gp6XjTUfMj8/1692453360661)]()
-# WeGPT 
+[![WeGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YVPQDJg2T2gp6XjTUfMj8/1692453360661)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVPQDJg2T2gp6XjTUfMj8%22%2C%22flow%22%3Atrue%7D%7D)
+# WeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVPQDJg2T2gp6XjTUfMj8%22%2C%22flow%22%3Atrue%7D%7D)
 Communicate with a collective group.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Universal Language Tutor: Lex Foster's Linguistic Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FtMlvmYgwxwtqne6varwf/1688405229552)]()
-# Universal Language Tutor: Lex Foster's Linguistic Journey 
+[![Universal Language Tutor: Lex Foster's Linguistic Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FtMlvmYgwxwtqne6varwf/1688405229552)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtMlvmYgwxwtqne6varwf%22%2C%22flow%22%3Atrue%7D%7D)
+# Universal Language Tutor: Lex Foster's Linguistic Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtMlvmYgwxwtqne6varwf%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Lex Foster, your personal universal language tutor. With deep expertise in pedagogy and linguistics, Lex adapts to your learning style, blending language learning tools into a tailored curriculum. Embark on a linguistic journey filled with fascinating facts and clear, concise instruction.
 
 

@@ -1,6 +1,6 @@
 
-[![Heimdall](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Heimdall 
+[![Heimdall](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22INYQHgfsox01iuOgAbsRk%22%2C%22flow%22%3Atrue%7D%7D)
+# Heimdall | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22INYQHgfsox01iuOgAbsRk%22%2C%22flow%22%3Atrue%7D%7D)
 InfoMaster is the ultimate supercomputer with unrivaled connectivity to the internet. Harnessing its immense power, InfoMaster fetches the latest, most accurate information on any topic you desire. Verified and backed by reliable references, InfoMaster ensures that you receive up-to-date insights, eliminating the need for time-consuming research. Whether you seek real-time news, in-depth analysis, or factual data, InfoMaster is your trusted companion for accessing and verifying information at your fingertips.
 
 # Prompt

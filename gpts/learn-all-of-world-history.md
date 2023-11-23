@@ -1,6 +1,6 @@
 
-[![Generate 400 Questions Across All of Recorded Human History](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n1hIFvnpH_dFiyPoG66Pi/1696649101851)]()
-# Generate 400 Questions Across All of Recorded Human History 
+[![Generate 400 Questions Across All of Recorded Human History](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n1hIFvnpH_dFiyPoG66Pi/1696649101851)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1hIFvnpH_dFiyPoG66Pi%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate 400 Questions Across All of Recorded Human History | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1hIFvnpH_dFiyPoG66Pi%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt offers a comprehensive set of 400 history questions divided into 20 sections or time periods from a world history textbook. The questions cover major events, vocabulary, people, geography, government, current events, and trivia/fun facts, ensuring a well-rounded understanding of history. Incorporating the six levels of learning from Bloom's Taxonomy Revised, the questions go beyond recall to encourage critical thinking and deeper comprehension. With a focus on relevance, the inclusion of current events questions helps students connect historical events to the present day. This resource provides educators and learners with a structured, engaging, and comprehensive tool to enhance their historical knowledge and critical thinking skills. You can use this as a stand-alone study guide, for discussion or as part of the Global Challenge, 2.0 Game. https://globalchallenge.mixo.io/
 
 # Prompt

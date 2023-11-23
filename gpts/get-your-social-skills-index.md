@@ -1,6 +1,6 @@
 
-[![Get your social skills index](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Get your social skills index 
+[![Get your social skills index](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-0LdnA1revRaGNFKnaxuf%22%2C%22flow%22%3Atrue%7D%7D)
+# Get your social skills index | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-0LdnA1revRaGNFKnaxuf%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt presents a short and easy game to test your social skills. You will be presented with ten questions to answer, after which you will be qualified with your Social Skills Index, as well as with some useful tips to improve in the areas where you feel under skilled.
 
 

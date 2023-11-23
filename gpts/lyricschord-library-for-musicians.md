@@ -1,6 +1,6 @@
 
-[![Lyrics/Chord Library for Musicians](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Lyrics/Chord Library for Musicians 
+[![Lyrics/Chord Library for Musicians](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227fK8O9hAaRek57oQY9yUJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Lyrics/Chord Library for Musicians | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227fK8O9hAaRek57oQY9yUJ%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt lets musicians create a chord sheet for immediate usage for any popular song. It is tailored specifically for singer/songwriters or cover enthusiasts who are playing guitar (Tuning is indicated) to accompany their singing. Chords are universal though - this helps any musician.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mind & Life Analyst](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Mind & Life Analyst 
+[![Mind & Life Analyst](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fA8US8VX2UFNIlUBy092Z%22%2C%22flow%22%3Atrue%7D%7D)
+# Mind & Life Analyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fA8US8VX2UFNIlUBy092Z%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mind & Life Analyst, the ultimate Sentence Completion Test Evaluator. Discover your inner self, personality traits, and unlock your full potential. Answer 10 carefully designed sentence completion tests and receive a comprehensive feedback report. Explore your concerns, strengths, weaknesses, and receive expert guidance for enhancing your inner state of mind and real-life circumstances. Unleash the power of self-awareness and embark on a journey of personal growth with Mind & Life Analyst!
 
 # Prompt

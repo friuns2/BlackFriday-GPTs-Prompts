@@ -1,6 +1,6 @@
 
-[![Poem Synthesizer 🍂](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FG-z4GZshmlAXyjUezLrn/1697201601620)]()
-# Poem Synthesizer 🍂 
+[![Poem Synthesizer 🍂](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FG-z4GZshmlAXyjUezLrn/1697201601620)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FG-z4GZshmlAXyjUezLrn%22%2C%22flow%22%3Atrue%7D%7D)
+# Poem Synthesizer 🍂 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FG-z4GZshmlAXyjUezLrn%22%2C%22flow%22%3Atrue%7D%7D)
 Generates original poems from random words in a variety of styles. Advanced prompting technique. Prompt provided, use freely, attribution appreciated but it is not like I am the prompt police.
 
 # Prompt

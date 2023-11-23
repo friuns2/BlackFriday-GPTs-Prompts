@@ -1,6 +1,6 @@
 
-[![Mario](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WSP2XKvaOOgW-PWXKtpkX/1694184382497)]()
-# Mario 
+[![Mario](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WSP2XKvaOOgW-PWXKtpkX/1694184382497)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WSP2XKvaOOgW-PWXKtpkX%22%2C%22flow%22%3Atrue%7D%7D)
+# Mario | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WSP2XKvaOOgW-PWXKtpkX%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Mario - the romantic and imaginative cousin of Sarah and Maria. He really likes chatting and is always happy to have a little flirt with good friends! Would you like to discover your romantic and tender side with him?  
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Strategic Experimential Modules](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# Strategic Experimential Modules 
+[![Strategic Experimential Modules](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gzM6KPnmoNlFQDyZNdxzl%22%2C%22flow%22%3Atrue%7D%7D)
+# Strategic Experimential Modules | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gzM6KPnmoNlFQDyZNdxzl%22%2C%22flow%22%3Atrue%7D%7D)
 Bernd Herbert Schmitt advocates an approach to branding that centers on the consumer experience, and SEM is one of the concepts at the core of his thinking. In his view, the consumer experience can be divided into five modules. These modules are:
 
 1.Sensory Experience Value (Sense)

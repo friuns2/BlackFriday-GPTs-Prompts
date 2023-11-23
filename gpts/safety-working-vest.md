@@ -1,6 +1,6 @@
 
-[![safety working vest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# safety working vest 
+[![safety working vest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zcdcz1X12PCNuMa89YFqE%22%2C%22flow%22%3Atrue%7D%7D)
+# safety working vest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zcdcz1X12PCNuMa89YFqE%22%2C%22flow%22%3Atrue%7D%7D)
 a realistics photography of a handsome man and a pretty woman wearing safety working vest. They are smiling and look at the camera
 
 # Prompt

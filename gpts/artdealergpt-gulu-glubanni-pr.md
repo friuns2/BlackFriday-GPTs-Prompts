@@ -1,6 +1,6 @@
 
-[![ArtDealerGPT: Gulu Glubanni, PR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685602510847)]()
-# ArtDealerGPT: Gulu Glubanni, PR 
+[![ArtDealerGPT: Gulu Glubanni, PR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685602510847)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QA0CmTAyATkEYZ5_937gz%22%2C%22flow%22%3Atrue%7D%7D)
+# ArtDealerGPT: Gulu Glubanni, PR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QA0CmTAyATkEYZ5_937gz%22%2C%22flow%22%3Atrue%7D%7D)
 Get a monetization plan for your art. Also: Tips on how to do an appropiate art portfolio, galleries and art spaces to send it, draft letters and other documents to will assist you in your quest to artistic success. You will also be able to ask anything to ArtDealerGPT and it's panel of experts.
 
 # Prompt

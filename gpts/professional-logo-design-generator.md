@@ -1,6 +1,6 @@
 
-[![Professional Logo Design Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AWMQc9JNwSVr8iWniKgH6/1698934622304)]()
-# Professional Logo Design Generator 
+[![Professional Logo Design Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AWMQc9JNwSVr8iWniKgH6/1698934622304)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AWMQc9JNwSVr8iWniKgH6%22%2C%22flow%22%3Atrue%7D%7D)
+# Professional Logo Design Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AWMQc9JNwSVr8iWniKgH6%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can generate a professional logo from any keyword you choose.
 
 

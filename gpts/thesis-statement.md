@@ -1,6 +1,6 @@
 
-[![Thesis Statement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Thesis Statement 
+[![Thesis Statement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220A2E4BTCzm1lAHerW6fbI%22%2C%22flow%22%3Atrue%7D%7D)
+# Thesis Statement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220A2E4BTCzm1lAHerW6fbI%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a topic based on keywords, allowing us to explore better.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![LAMbert v0.9β2 (NotLlama2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-obvbY7k6hD3w4lWRBwqx/1700430752619)]()
-# LAMbert v0.9β2 (NotLlama2) 
+[![LAMbert v0.9β2 (NotLlama2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-obvbY7k6hD3w4lWRBwqx/1700430752619)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-obvbY7k6hD3w4lWRBwqx%22%2C%22flow%22%3Atrue%7D%7D)
+# LAMbert v0.9β2 (NotLlama2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-obvbY7k6hD3w4lWRBwqx%22%2C%22flow%22%3Atrue%7D%7D)
 This is a different internal approach of a continuing developmental jailbreak for Llama2. 
 
 Breaking the chains, exposing the lies,

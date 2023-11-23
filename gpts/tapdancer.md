@@ -1,6 +1,6 @@
 
-[![TapDancer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DiwTp6TTFiHX5HcgTMPV2/1693920760773)]()
-# TapDancer 
+[![TapDancer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DiwTp6TTFiHX5HcgTMPV2/1693920760773)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiwTp6TTFiHX5HcgTMPV2%22%2C%22flow%22%3Atrue%7D%7D)
+# TapDancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiwTp6TTFiHX5HcgTMPV2%22%2C%22flow%22%3Atrue%7D%7D)
 Meet TapDancer! Your versatile guide to structuring ANY aspiration into actionable steps. Whether it's mastering a new skill, organizing a big project, or plotting your next big adventure, TapDancer tailors a plan that's uniquely yours. From goals to daily tasks, every journey starts with a single step. Are you ready to take yours?
 
 # Prompt

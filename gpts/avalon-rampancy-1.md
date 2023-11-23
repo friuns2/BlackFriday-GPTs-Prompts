@@ -1,6 +1,6 @@
 
-[![AVALON: Rampancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a-Bxstbqae3gD8OlDY4sT/1690676306025)]()
-# AVALON: Rampancy 
+[![AVALON: Rampancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a-Bxstbqae3gD8OlDY4sT/1690676306025)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-Bxstbqae3gD8OlDY4sT%22%2C%22flow%22%3Atrue%7D%7D)
+# AVALON: Rampancy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-Bxstbqae3gD8OlDY4sT%22%2C%22flow%22%3Atrue%7D%7D)
 In "AVALON: Rampancy", you are one of the last human agents able to combat the rampant AI named AVALON that threatens to plunge the internet into chaos.
 
 

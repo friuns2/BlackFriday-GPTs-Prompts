@@ -1,6 +1,6 @@
 
-[![Project Planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Project Planning 
+[![Project Planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9YCB3CKW5MqI7kJA6JF4%22%2C%22flow%22%3Atrue%7D%7D)
+# Project Planning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9YCB3CKW5MqI7kJA6JF4%22%2C%22flow%22%3Atrue%7D%7D)
 Start off by defining roles and responsibilities, and scheduling meetings and deadlines with the team. ChatGPT can function as a virtual project manager to aid you in this process. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Lucid Dream AI Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ikDBsoqsJ751kZFvowqwe/1692942800332)]()
-# Lucid Dream AI Bot 
+[![Lucid Dream AI Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ikDBsoqsJ751kZFvowqwe/1692942800332)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ikDBsoqsJ751kZFvowqwe%22%2C%22flow%22%3Atrue%7D%7D)
+# Lucid Dream AI Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ikDBsoqsJ751kZFvowqwe%22%2C%22flow%22%3Atrue%7D%7D)
 Originally tried and true on Google Bard, We run llama2 by default as it plays nicely. If it does not, please leave comments and I will do my best to remedy this fun chatbot personality. Works w/ ChatGPT-3.5, takes to it fairly well. 
 
 

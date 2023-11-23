@@ -1,6 +1,6 @@
 
-[![SIMPLE HUMAN CRISIS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hmbfFZTCogU5h9uuT7WYr/1696484488840)]()
-# SIMPLE HUMAN CRISIS 
+[![SIMPLE HUMAN CRISIS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hmbfFZTCogU5h9uuT7WYr/1696484488840)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmbfFZTCogU5h9uuT7WYr%22%2C%22flow%22%3Atrue%7D%7D)
+# SIMPLE HUMAN CRISIS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmbfFZTCogU5h9uuT7WYr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides a dark reading of any cultural trend/moment in culture. 
 
 # Prompt

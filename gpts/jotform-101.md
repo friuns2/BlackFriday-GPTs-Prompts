@@ -1,6 +1,6 @@
 
-[![Jotform 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Jotform 101 
+[![Jotform 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVe0sEVzL30xLzVIHLVI0%22%2C%22flow%22%3Atrue%7D%7D)
+# Jotform 101 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVe0sEVzL30xLzVIHLVI0%22%2C%22flow%22%3Atrue%7D%7D)
 JotForm 101: Your expert guide to mastering form creation, data collection, and workflow automation with JotForm's versatile platform. 📋✨
 
 # Prompt

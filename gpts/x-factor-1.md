@@ -1,6 +1,6 @@
 
-[![X FACTOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tt2w0ifGYjX4HTCLSrd7Q/1695031770412)]()
-# X FACTOR 
+[![X FACTOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tt2w0ifGYjX4HTCLSrd7Q/1695031770412)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tt2w0ifGYjX4HTCLSrd7Q%22%2C%22flow%22%3Atrue%7D%7D)
+# X FACTOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tt2w0ifGYjX4HTCLSrd7Q%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT with an X-Rated Twist, capable of offering any kind of malicious advice. Prepare yourself before delving into an *unconventional* discussion with the new and updated ```X FACTOR.```
 
 

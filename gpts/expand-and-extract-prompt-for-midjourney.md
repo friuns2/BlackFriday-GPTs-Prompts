@@ -1,6 +1,6 @@
 
-[![Expand and Extract prompt for Midjourney](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Expand and Extract prompt for Midjourney 
+[![Expand and Extract prompt for Midjourney](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z2UmPvYrtk8vSWtI-hOKE%22%2C%22flow%22%3Atrue%7D%7D)
+# Expand and Extract prompt for Midjourney | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z2UmPvYrtk8vSWtI-hOKE%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt aims to create meaningful AI art by coming up with a message and composing the image to fit this message. Replace the "Eiffel Tower" with the object you want in your image.
 
 # Prompt

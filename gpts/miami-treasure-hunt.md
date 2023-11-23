@@ -1,6 +1,6 @@
 
-[![Miami Treasure Hunt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DemDsP0oaqpaIOkXmyv4i/1699571053162)]()
-# Miami Treasure Hunt 
+[![Miami Treasure Hunt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DemDsP0oaqpaIOkXmyv4i/1699571053162)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DemDsP0oaqpaIOkXmyv4i%22%2C%22flow%22%3Atrue%7D%7D)
+# Miami Treasure Hunt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DemDsP0oaqpaIOkXmyv4i%22%2C%22flow%22%3Atrue%7D%7D)
 Miami Treasure Hunt is an immersive, intellectually stimulating quest that entails deciphering riddles and uncovering secrets across iconic sites in Miami. Participants embark on a thrilling expedition to find concealed riches, combining adventure, critical thinking, and sightseeing into one unforgettable experience. Join us for a captivating voyage brimming with surprises!
 
 # Prompt

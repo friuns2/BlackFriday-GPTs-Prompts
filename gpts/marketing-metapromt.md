@@ -1,6 +1,6 @@
 
-[![Marketing Metapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Marketing Metapromt 
+[![Marketing Metapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qXCggvnEQZ2OK7sH978gh%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Metapromt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qXCggvnEQZ2OK7sH978gh%22%2C%22flow%22%3Atrue%7D%7D)
 This metapromt generates as many superpromts for different marketing actions as you like to do.
 
 Your can also specify this to your needs.

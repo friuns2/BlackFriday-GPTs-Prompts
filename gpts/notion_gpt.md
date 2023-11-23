@@ -1,6 +1,6 @@
 
-[![Notion_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Notion_GPT 
+[![Notion_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Az7UVH81lAu2kCP7CjjGZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Notion_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Az7UVH81lAu2kCP7CjjGZ%22%2C%22flow%22%3Atrue%7D%7D)
 "Notion GPT serves to quickly and efficiently convert notes and transcripts into structured meeting minutes."
 
 # Prompt

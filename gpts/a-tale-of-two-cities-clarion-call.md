@@ -1,6 +1,6 @@
 
-[![A Tale of Two Cities: Clarion Call](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L1Ez4BYj_t59B-UnbB1xY/1696026907461)]()
-# A Tale of Two Cities: Clarion Call 
+[![A Tale of Two Cities: Clarion Call](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L1Ez4BYj_t59B-UnbB1xY/1696026907461)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1Ez4BYj_t59B-UnbB1xY%22%2C%22flow%22%3Atrue%7D%7D)
+# A Tale of Two Cities: Clarion Call | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1Ez4BYj_t59B-UnbB1xY%22%2C%22flow%22%3Atrue%7D%7D)
 Slip across the English Channeli as a spy or a double agent working 
 
 either way. Save some lives find love or patriotism.

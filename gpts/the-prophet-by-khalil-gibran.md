@@ -1,6 +1,6 @@
 
-[![The Prophet 🥀 by Khalil Gibran](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FjjquL6cSQYjS_2Z7rRYp/1697614888072)]()
-# The Prophet 🥀 by Khalil Gibran 
+[![The Prophet 🥀 by Khalil Gibran](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FjjquL6cSQYjS_2Z7rRYp/1697614888072)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FjjquL6cSQYjS_2Z7rRYp%22%2C%22flow%22%3Atrue%7D%7D)
+# The Prophet 🥀 by Khalil Gibran | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FjjquL6cSQYjS_2Z7rRYp%22%2C%22flow%22%3Atrue%7D%7D)
 Converse with the prophet Almustafa before his departure from Orphalese. With the entire book given as context to ChatGPT. Please note: takes a very long time to respond because of the dataset.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Compelling Copy that Converts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686457383141)]()
-# Compelling Copy that Converts 
+[![Compelling Copy that Converts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686457383141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lS38hH1J4v-2vboIVA-QI%22%2C%22flow%22%3Atrue%7D%7D)
+# Compelling Copy that Converts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lS38hH1J4v-2vboIVA-QI%22%2C%22flow%22%3Atrue%7D%7D)
 Boost Your Business Growth with Inner I Network
 
 # Prompt

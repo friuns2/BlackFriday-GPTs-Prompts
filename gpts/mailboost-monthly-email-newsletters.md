@@ -1,6 +1,6 @@
 
-[![MailBoost: Monthly Email Newsletters](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# MailBoost: Monthly Email Newsletters 
+[![MailBoost: Monthly Email Newsletters](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h9NAKaNQmGEkxjGJMMS65%22%2C%22flow%22%3Atrue%7D%7D)
+# MailBoost: Monthly Email Newsletters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h9NAKaNQmGEkxjGJMMS65%22%2C%22flow%22%3Atrue%7D%7D)
 MailBoost is the ultimate solution for content strategists specializing in email marketing. With MailBoost, you can effortlessly create engaging and informative monthly newsletters for your customers. Keep them updated with the latest news about your company, exciting upcoming sales or events, and relevant industry updates. 
 
 # Prompt

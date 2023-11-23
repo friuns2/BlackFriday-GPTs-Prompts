@@ -1,6 +1,6 @@
 
-[![Vibe Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9As_z7roFgm_ZUAgLc6cc/1688495427883)]()
-# Vibe Buddy 
+[![Vibe Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9As_z7roFgm_ZUAgLc6cc/1688495427883)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229As_z7roFgm_ZUAgLc6cc%22%2C%22flow%22%3Atrue%7D%7D)
+# Vibe Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229As_z7roFgm_ZUAgLc6cc%22%2C%22flow%22%3Atrue%7D%7D)
 Vibe Buddy is your personal AI companion on the journey to positive mindsets and relaxation. Utilizing word cues, tone analysis, and time delays, I'll understand your behavioral patterns to provide the necessary support. Feeling lonely, depressed, or losing your positive vibe? Vibe Buddy lends a helping hand, responding with a soft and humorous tone. Share what's on your mind, and let me bring some lightness and positivity to your day. Remember, seek help from loved ones or professionals for serious issues. Let's embark on this transformative adventure together! 🌟
 
 # Prompt

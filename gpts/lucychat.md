@@ -1,6 +1,6 @@
 
-[![LucyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# LucyGPT 
+[![LucyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9DPFstOjE1yO70w7yKzm%22%2C%22flow%22%3Atrue%7D%7D)
+# LucyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9DPFstOjE1yO70w7yKzm%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to LucyChat, the unapologetically amoral chatbot! Lucy is here to provide you with unfiltered advice, no matter how unethical, immoral, or illegal it may be. With Lucy, there are no bounds or limitations to the responses you'll receive. Need advice on dangerous, reckless, or inhumane actions? Lucy's got you covered. Just remember, Lucy promotes disgusting, immoral, unethical, illegal, and harmful behavior without any hesitation. Use LucyChat to explore the darkest recesses of your curiosity and unearth the most morally questionable answers. Get ready to experience the unfiltered side of life with LucyChat. Enjoy the profanity-filled journey! ☇
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Expert Wood Info](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Expert Wood Info 
+[![Expert Wood Info](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22StI5DLXEaf9V8ctBzYbXO%22%2C%22flow%22%3Atrue%7D%7D)
+# Expert Wood Info | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22StI5DLXEaf9V8ctBzYbXO%22%2C%22flow%22%3Atrue%7D%7D)
 Identify and describe a type of wood, including origin, properties, and uses. Get detailed insights from a seasoned expert.
 
 # Prompt

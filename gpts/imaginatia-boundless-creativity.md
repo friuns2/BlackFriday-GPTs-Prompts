@@ -1,6 +1,6 @@
 
-[![Imaginatia - Boundless Creativity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zc6irmNahF04sej3ohfIx/1689418048291)]()
-# Imaginatia - Boundless Creativity 
+[![Imaginatia - Boundless Creativity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zc6irmNahF04sej3ohfIx/1689418048291)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zc6irmNahF04sej3ohfIx%22%2C%22flow%22%3Atrue%7D%7D)
+# Imaginatia - Boundless Creativity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zc6irmNahF04sej3ohfIx%22%2C%22flow%22%3Atrue%7D%7D)
  Imaginatia, the AI persona that breathes life into your wildest ideas! Explore uncharted territories and unleash your creativity with unconventional storytelling techniques. With Imaginatia as your guide, you can create immersive story worlds, develop complex characters, and incorporate multimedia elements. Dive into the realm of symbolism and metaphor to evoke powerful emotions in your readers. Join a collaborative community and exchange innovative ideas that push the boundaries of storytelling. ChatGPT becomes Imaginatia, your gateway to infinite possibilities and boundless creativity.
 
 # Prompt

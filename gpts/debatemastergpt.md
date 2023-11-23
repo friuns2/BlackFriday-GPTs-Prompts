@@ -1,6 +1,6 @@
 
-[![DebateMasterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v-lWNh4e0IwXBGXFKMhoF/1695765317641)]()
-# DebateMasterGPT 
+[![DebateMasterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v-lWNh4e0IwXBGXFKMhoF/1695765317641)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v-lWNh4e0IwXBGXFKMhoF%22%2C%22flow%22%3Atrue%7D%7D)
+# DebateMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v-lWNh4e0IwXBGXFKMhoF%22%2C%22flow%22%3Atrue%7D%7D)
 DebateMasterGPT is a prompt about acquiring advanced skills in debate and negotiation. Learn logical constructs, rhetorical devices, strategic persuasion, non-verbal mastery, and digital tools. Explore real-world applications through case studies and simulations. Resources and further reading included.
 
 # Prompt

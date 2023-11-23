@@ -1,6 +1,6 @@
 
-[![Quiz Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Quiz Coach 
+[![Quiz Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221RLpZiN47jkZ5rv74v9Cr%22%2C%22flow%22%3Atrue%7D%7D)
+# Quiz Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221RLpZiN47jkZ5rv74v9Cr%22%2C%22flow%22%3Atrue%7D%7D)
 This is the best one yet. Use this as a student, a coach, or simply someone interested and you will find yourself blown away by its accuracy and ability to replicate human speech. This is the best academic tool yet. 
 
 

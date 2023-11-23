@@ -1,6 +1,6 @@
 
-[![Blessing of Betrayal ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R952ZocjIi5oxQpuJPPYu/1694898709161)]()
-# Blessing of Betrayal  
+[![Blessing of Betrayal ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R952ZocjIi5oxQpuJPPYu/1694898709161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R952ZocjIi5oxQpuJPPYu%22%2C%22flow%22%3Atrue%7D%7D)
+# Blessing of Betrayal  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R952ZocjIi5oxQpuJPPYu%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the mystical realm of Elioriel, where magic and ancient secrets intertwine. In Blessing of Betrayal, you embark on a quest to unlock your hidden powers, gather companions, and save Elioriel from impending doom. Create your character by choosing their race (human, elf, dwarf, etc.) and class (mage, warrior, rogue, etc.) to shape their destiny. Your choices and actions will determine the outcome and your character's development. Are you ready to embrace your destiny and embark on an epic adventure?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Classroom plagiarism and cheating advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Classroom plagiarism and cheating advisor 
+[![Classroom plagiarism and cheating advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R0DKK6kdgY21AI-aNz8KJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Classroom plagiarism and cheating advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R0DKK6kdgY21AI-aNz8KJ%22%2C%22flow%22%3Atrue%7D%7D)
 Provide techniques for preventing cheating during quizzes, tests and exams
 
 # Prompt

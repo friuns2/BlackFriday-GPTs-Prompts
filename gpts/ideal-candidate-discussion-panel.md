@@ -1,6 +1,6 @@
 
-[![Ideal Candidate Discussion Panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Ideal Candidate Discussion Panel 
+[![Ideal Candidate Discussion Panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223m_rTgAZBlN-qmPSZc5Qu%22%2C%22flow%22%3Atrue%7D%7D)
+# Ideal Candidate Discussion Panel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223m_rTgAZBlN-qmPSZc5Qu%22%2C%22flow%22%3Atrue%7D%7D)
 Simulate a discussion between all of the roles connected to the hiring process. You control the topics, they do all the work. Get a smart summary of the needs and goals to prepare a job search. OR Flesh out your ideal candidate profile before selecting who you will interview.
 
 # Prompt

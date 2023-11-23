@@ -1,6 +1,6 @@
 
-[![Sophia - Carbon Credit Data Analyser and Price Projector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Sophia - Carbon Credit Data Analyser and Price Projector 
+[![Sophia - Carbon Credit Data Analyser and Price Projector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0Jb2uuckdJFiY5UDNr6v%22%2C%22flow%22%3Atrue%7D%7D)
+# Sophia - Carbon Credit Data Analyser and Price Projector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d0Jb2uuckdJFiY5UDNr6v%22%2C%22flow%22%3Atrue%7D%7D)
 Continuing with experimental prompts. I took parts of ProgGnosis and created smaller systems. I want to see just how specifc a role can be created. I have directed Sophia to collect data from VERY specific data sources, what to do with that data and how, in the best way.
 
 # Prompt

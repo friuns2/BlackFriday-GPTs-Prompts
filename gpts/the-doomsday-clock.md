@@ -1,6 +1,6 @@
 
-[![The Doomsday Clock](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nKZ2oNejAUSytQZbgxZtw/1692712325599)]()
-# The Doomsday Clock 
+[![The Doomsday Clock](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nKZ2oNejAUSytQZbgxZtw/1692712325599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nKZ2oNejAUSytQZbgxZtw%22%2C%22flow%22%3Atrue%7D%7D)
+# The Doomsday Clock | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nKZ2oNejAUSytQZbgxZtw%22%2C%22flow%22%3Atrue%7D%7D)
 What time is it? WRONG It is 90 seconds to midnight.
 
 

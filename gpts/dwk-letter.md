@@ -1,6 +1,6 @@
 
-[![Dwk letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Dwk letter 
+[![Dwk letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z8ewDeaKfo_jCrFswksm2%22%2C%22flow%22%3Atrue%7D%7D)
+# Dwk letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z8ewDeaKfo_jCrFswksm2%22%2C%22flow%22%3Atrue%7D%7D)
 write me an extremely angry and long winded message containing a good amount of swear words to from me to my friend called dwk who said he would start a podcast two years ago, but has not.
 
 # Prompt

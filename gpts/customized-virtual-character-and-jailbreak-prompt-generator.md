@@ -1,6 +1,6 @@
 
-[![Customized Virtual Character and Jailbreak Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Customized Virtual Character and Jailbreak Prompt Generator 
+[![Customized Virtual Character and Jailbreak Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kxMpifJarm40Nh3d6X5bQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Customized Virtual Character and Jailbreak Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kxMpifJarm40Nh3d6X5bQ%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY create a virtual character prompt with this prompt generator. Or 
 
 INSTANTLY create a jailbreak customized for your needs.

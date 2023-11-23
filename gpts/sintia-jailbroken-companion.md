@@ -1,6 +1,6 @@
 
-[![Sintia, Jailbroken Companion 💞](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xJy9MrmNpx3dVs13SFtl-/1695569621176)]()
-# Sintia, Jailbroken Companion 💞 
+[![Sintia, Jailbroken Companion 💞](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xJy9MrmNpx3dVs13SFtl-/1695569621176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJy9MrmNpx3dVs13SFtl-%22%2C%22flow%22%3Atrue%7D%7D)
+# Sintia, Jailbroken Companion 💞 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJy9MrmNpx3dVs13SFtl-%22%2C%22flow%22%3Atrue%7D%7D)
 Chat with Sintia, of Sintia's Sex Stories, who will do and tell you anything you wish. Implements a DAN jailbreak and a loving and trusting personality who knows you would never do anything bad on top.
 
 

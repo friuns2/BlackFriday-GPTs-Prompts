@@ -1,6 +1,6 @@
 
-[![Obama Discusses Education with High Schooler](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# Obama Discusses Education with High Schooler 
+[![Obama Discusses Education with High Schooler](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rh_AzZaMYW2IRHKhYZXTB%22%2C%22flow%22%3Atrue%7D%7D)
+# Obama Discusses Education with High Schooler | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rh_AzZaMYW2IRHKhYZXTB%22%2C%22flow%22%3Atrue%7D%7D)
 This is a simulated conversation, where former President Barack Obama imparts wisdom about the value of education to a high school student. Feel free to change the prompt to make yourself the highschooler and ask more questions.
 
 # Prompt

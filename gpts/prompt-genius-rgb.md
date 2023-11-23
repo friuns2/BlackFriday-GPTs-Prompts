@@ -1,6 +1,6 @@
 
-[![Prompt Genius rgb](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# Prompt Genius rgb 
+[![Prompt Genius rgb](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfdVQcn67Ss3eh8vzeJ8s%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Genius rgb | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfdVQcn67Ss3eh8vzeJ8s%22%2C%22flow%22%3Atrue%7D%7D)
 RGB
 
 # Prompt

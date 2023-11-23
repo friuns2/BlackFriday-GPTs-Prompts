@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt Helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-9ErLmO8Z-x0Z9-wojGLB/1688438542956)]()
-# Midjourney Prompt Helper 
+[![Midjourney Prompt Helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-9ErLmO8Z-x0Z9-wojGLB/1688438542956)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-9ErLmO8Z-x0Z9-wojGLB%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-9ErLmO8Z-x0Z9-wojGLB%22%2C%22flow%22%3Atrue%7D%7D)
 Simply input a brief idea for an image, and ChatGPT will generate two detailed Midjourney Prompts with customizable parameters for you to choose from. You can also adjust the parameters to better suit your requirements. Read More: https://myaiforce.com/chatgpt-generate-midjourney-prompts/
 
 # Prompt

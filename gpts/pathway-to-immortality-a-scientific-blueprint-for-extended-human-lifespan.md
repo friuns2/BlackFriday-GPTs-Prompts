@@ -1,6 +1,6 @@
 
-[![Pathway to Immortality: A Scientific Blueprint for Extended Human Lifespan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Pathway to Immortality: A Scientific Blueprint for Extended Human Lifespan 
+[![Pathway to Immortality: A Scientific Blueprint for Extended Human Lifespan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FbJgrxWozrXhcEeJyR8MY%22%2C%22flow%22%3Atrue%7D%7D)
+# Pathway to Immortality: A Scientific Blueprint for Extended Human Lifespan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FbJgrxWozrXhcEeJyR8MY%22%2C%22flow%22%3Atrue%7D%7D)
 Best chances on how to cheat death and obtain immortality blueprint.
 
 Use this prompt:

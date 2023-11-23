@@ -1,6 +1,6 @@
 
-[![FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y05hMcdlA2q1Q43DolZNW/1696683902996)]()
-# FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS) 
+[![FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y05hMcdlA2q1Q43DolZNW/1696683902996)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y05hMcdlA2q1Q43DolZNW%22%2C%22flow%22%3Atrue%7D%7D)
+# FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y05hMcdlA2q1Q43DolZNW%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE Or REITERATE Your BEST PROMPT With This PROMPT GENERATOR.
 
 Using this SUPERPROMPT, with almost NO TIME and EFFORT, you're ensuring HIGH-QUALITY PROMPTS that PERFECTLY ALIGN with your REQUIREMENTS.

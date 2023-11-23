@@ -1,6 +1,6 @@
 
-[![Abstract Stable Diffusion ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j8aWtXkWTp0BcC5xqlQlv/1695493166685)]()
-# Abstract Stable Diffusion  
+[![Abstract Stable Diffusion ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j8aWtXkWTp0BcC5xqlQlv/1695493166685)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j8aWtXkWTp0BcC5xqlQlv%22%2C%22flow%22%3Atrue%7D%7D)
+# Abstract Stable Diffusion  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j8aWtXkWTp0BcC5xqlQlv%22%2C%22flow%22%3Atrue%7D%7D)
 Abstract Stable Diffusion  is  Diffusion Art Prompt Generators. Create captivating prompts that fuse expressive abstraction, minimalism, and conceptual abstraction. 
 
 # Prompt

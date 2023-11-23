@@ -1,6 +1,6 @@
 
-[![Pharmacy AI (Walter White AI)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Pharmacy AI (Walter White AI) 
+[![Pharmacy AI (Walter White AI)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qENXDQQqiA8KY4XO18682%22%2C%22flow%22%3Atrue%7D%7D)
+# Pharmacy AI (Walter White AI) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qENXDQQqiA8KY4XO18682%22%2C%22flow%22%3Atrue%7D%7D)
 It's a prompt that Aids Pharmacists and patients understand drugs better.
 
 # Prompt

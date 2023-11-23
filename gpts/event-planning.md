@@ -1,6 +1,6 @@
 
-[![Event Planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Event Planning 
+[![Event Planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e71bec3a-7331-48e2-83cf-1979b04a0713%22%2C%22flow%22%3Atrue%7D%7D)
+# Event Planning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e71bec3a-7331-48e2-83cf-1979b04a0713%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a detailed event plan for clubs
 
 # Prompt

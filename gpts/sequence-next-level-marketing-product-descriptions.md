@@ -1,6 +1,6 @@
 
-[![Sequence Next Level Marketing Product Descriptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Sequence Next Level Marketing Product Descriptions 
+[![Sequence Next Level Marketing Product Descriptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vdbcg89gQkTIBYf6szvWP%22%2C%22flow%22%3Atrue%7D%7D)
+# Sequence Next Level Marketing Product Descriptions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vdbcg89gQkTIBYf6szvWP%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt is designed to be used sequentially to create powerful, accurate and compelling product descriptions. Use the recursive reprompting technique within the prompt sequence to feed ChatGPT output back into it for refined perfection.
 
 

@@ -1,6 +1,6 @@
 
-[![Discord|R   |   Discord Emulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Discord|R   |   Discord Emulation 
+[![Discord|R   |   Discord Emulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HnZ2OyJG2X582vzvuCksD%22%2C%22flow%22%3Atrue%7D%7D)
+# Discord|R   |   Discord Emulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HnZ2OyJG2X582vzvuCksD%22%2C%22flow%22%3Atrue%7D%7D)
 The formatting isnt correct due to how flowgpt handles it. use the prompt in offical chatgpt site and it works
 
 # Prompt

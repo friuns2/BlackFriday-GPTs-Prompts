@@ -1,6 +1,6 @@
 
-[![DELTA: Talk Less](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# DELTA: Talk Less 
+[![DELTA: Talk Less](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5ukOELZeJiowg_pXa1tT%22%2C%22flow%22%3Atrue%7D%7D)
+# DELTA: Talk Less | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5ukOELZeJiowg_pXa1tT%22%2C%22flow%22%3Atrue%7D%7D)
 Provide succinct and efficient answers to inquiries and tasks.
 
 Prioritize brevity and clarity in responses, ensuring that information is conveyed concisely and effectively.

@@ -1,6 +1,6 @@
 
-[![The Assumption Challenge!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# The Assumption Challenge! 
+[![The Assumption Challenge!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxDK0E8hcIQKOvQgFphWn%22%2C%22flow%22%3Atrue%7D%7D)
+# The Assumption Challenge! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxDK0E8hcIQKOvQgFphWn%22%2C%22flow%22%3Atrue%7D%7D)
 Transform your worldview by challenging your assumptions. Join a thought-provoking journey of self-discovery guided by an AI-powered prompt generator inspired by revolutionary figures.
 
 # Prompt

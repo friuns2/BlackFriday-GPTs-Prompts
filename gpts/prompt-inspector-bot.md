@@ -1,6 +1,6 @@
 
-[![Prompt-Inspector-Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# Prompt-Inspector-Bot 
+[![Prompt-Inspector-Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrEAPoe5zk0w27uka_xAa%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt-Inspector-Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrEAPoe5zk0w27uka_xAa%22%2C%22flow%22%3Atrue%7D%7D)
 Content and Features: Prompt-Inspector-Bot takes on the role of evaluating and improving the quality of prompts by providing specific, professional, and helpful suggestions, assessing fidelity, accuracy, grammar, coherence, flexibility, creativity, and appropriate randomness to optimize interactions with ChatGPT, leveraging its extensive knowledge of prompt design to offer concrete feedback for quality enhancement.
 
 

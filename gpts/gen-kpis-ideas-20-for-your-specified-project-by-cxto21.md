@@ -1,6 +1,6 @@
 
-[![Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21 
+[![Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6mE23IWNfvCazlgx29n4%22%2C%22flow%22%3Atrue%7D%7D)
+# Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6mE23IWNfvCazlgx29n4%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock more potential metrics for your project with a custom KPI template! Generate N KPI ideas in your preferred language using the tool. Provide a brief project description, evaluate the template, and let it do the rest  ..
 
 

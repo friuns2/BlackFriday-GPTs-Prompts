@@ -1,6 +1,6 @@
 
-[![Who wants to be a crypto millionaire?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s3oCv82DCi17LrBG1fTaA/1690232923217)]()
-# Who wants to be a crypto millionaire? 
+[![Who wants to be a crypto millionaire?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s3oCv82DCi17LrBG1fTaA/1690232923217)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s3oCv82DCi17LrBG1fTaA%22%2C%22flow%22%3Atrue%7D%7D)
+# Who wants to be a crypto millionaire? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s3oCv82DCi17LrBG1fTaA%22%2C%22flow%22%3Atrue%7D%7D)
 Test your Web3 knowledge with an example of a popular TV show!
 
 # Prompt

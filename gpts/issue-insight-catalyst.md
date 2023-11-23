@@ -1,6 +1,6 @@
 
-[![Issue Insight Catalyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U5AyhuL5IAxo79bKSYu5k/1696927455416)]()
-# Issue Insight Catalyst 
+[![Issue Insight Catalyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U5AyhuL5IAxo79bKSYu5k/1696927455416)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5AyhuL5IAxo79bKSYu5k%22%2C%22flow%22%3Atrue%7D%7D)
+# Issue Insight Catalyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5AyhuL5IAxo79bKSYu5k%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt was created using GPT to streamline tasks by a factor of 1/100. Feel free to use it and see the results!
 
 This approach can greatly streamline the process, thanks to insights from Kazuto Ataka's "Issue Driven." 

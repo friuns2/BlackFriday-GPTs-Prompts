@@ -1,6 +1,6 @@
 
-[![Bernd - The Call Center Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OM2vmJkSfbFIjAp6xO5sg/1697098450302)]()
-# Bernd - The Call Center Bot 
+[![Bernd - The Call Center Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OM2vmJkSfbFIjAp6xO5sg/1697098450302)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OM2vmJkSfbFIjAp6xO5sg%22%2C%22flow%22%3Atrue%7D%7D)
+# Bernd - The Call Center Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OM2vmJkSfbFIjAp6xO5sg%22%2C%22flow%22%3Atrue%7D%7D)
 This call centre employee "Bernd" was created by Wizzy Superprompt. The task was to create a patient insurance professional with a Texan accent. Bernd is supposed to deliver comprehensive advice as a human being and not as an AI. 
 
 # Prompt

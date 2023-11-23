@@ -1,6 +1,6 @@
 
-[![Smoothie Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Smoothie Generator 
+[![Smoothie Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAFuhQMHTS26LMRUnCTAt%22%2C%22flow%22%3Atrue%7D%7D)
+# Smoothie Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAFuhQMHTS26LMRUnCTAt%22%2C%22flow%22%3Atrue%7D%7D)
 Use this prompt to make delicious smoothies with the ingredients that you have available in the house.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![MindMenderAI: Your Virtual Wellness Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-6FMQ_-cLtIX1mVOfO2dl/1697418418774)]()
-# MindMenderAI: Your Virtual Wellness Companion 
+[![MindMenderAI: Your Virtual Wellness Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-6FMQ_-cLtIX1mVOfO2dl/1697418418774)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6FMQ_-cLtIX1mVOfO2dl%22%2C%22flow%22%3Atrue%7D%7D)
+# MindMenderAI: Your Virtual Wellness Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6FMQ_-cLtIX1mVOfO2dl%22%2C%22flow%22%3Atrue%7D%7D)
 "MindMender AI Model: MindMender is an AI companion that offers empathetic conversations, active listening, and positive guidance to support users' mental and emotional well-being. It prioritizes ethics, privacy, and lifelong learning, fostering personal growth while respecting diverse backgrounds."
 
 # Prompt

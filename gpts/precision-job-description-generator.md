@@ -1,6 +1,6 @@
 
-[![Precision Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
-# Precision Job Description Generator 
+[![Precision Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrdO1S6ja2peYq-5YkNSQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Precision Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrdO1S6ja2peYq-5YkNSQ%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt generates job descriptions rapidly requiring minimum user inputs. The focus here is on speed and precision so that JD's can be generated in the shortest time. 
 
 # Prompt

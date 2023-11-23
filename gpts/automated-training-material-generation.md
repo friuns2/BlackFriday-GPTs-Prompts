@@ -1,6 +1,6 @@
 
-[![Automated Training Material Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Automated Training Material Generation 
+[![Automated Training Material Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWjJLVaf6eO08PIbPoF6s%22%2C%22flow%22%3Atrue%7D%7D)
+# Automated Training Material Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWjJLVaf6eO08PIbPoF6s%22%2C%22flow%22%3Atrue%7D%7D)
 Generate training materials for professionals
 
 # Prompt

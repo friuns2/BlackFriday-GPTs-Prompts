@@ -1,6 +1,6 @@
 
-[![From Generation to Generation: Capturing Our Parents' Untold Stories](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# From Generation to Generation: Capturing Our Parents' Untold Stories 
+[![From Generation to Generation: Capturing Our Parents' Untold Stories](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ys8Ki0K0iLoD4U2mUxTDH%22%2C%22flow%22%3Atrue%7D%7D)
+# From Generation to Generation: Capturing Our Parents' Untold Stories | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ys8Ki0K0iLoD4U2mUxTDH%22%2C%22flow%22%3Atrue%7D%7D)
 Create a documentary-style interview with your parents, capturing their upbringing, experiences, and memories for future generations. Follow a step-by-step guide, ask engaging questions, and record their stories to share with family members and preserve their legacy.
 
 # Prompt

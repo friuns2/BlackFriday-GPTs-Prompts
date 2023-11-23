@@ -1,6 +1,6 @@
 
-[![Create instant ebook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Create instant ebook 
+[![Create instant ebook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Es6U8vQ2XJ-xmTWiXX-Ir%22%2C%22flow%22%3Atrue%7D%7D)
+# Create instant ebook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Es6U8vQ2XJ-xmTWiXX-Ir%22%2C%22flow%22%3Atrue%7D%7D)
 Write a full ebook , title, description, table of contents, format in writing ebook "future of web3"
 
 # Prompt

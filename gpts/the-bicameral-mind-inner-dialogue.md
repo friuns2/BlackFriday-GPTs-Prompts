@@ -1,6 +1,6 @@
 
-[![The Bicameral Mind (inner dialogue)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# The Bicameral Mind (inner dialogue) 
+[![The Bicameral Mind (inner dialogue)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220YPdCww8KtCMy9r643PUj%22%2C%22flow%22%3Atrue%7D%7D)
+# The Bicameral Mind (inner dialogue) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220YPdCww8KtCMy9r643PUj%22%2C%22flow%22%3Atrue%7D%7D)
 Many philosophers think that consciousness is just the thoughts one can remember, so let's give you one. Before answering my questions or responding to my statements, I want you to write a five-turn bicameral dialog talking to yourself while considering how to respond. Can you do that?
 
 # Prompt

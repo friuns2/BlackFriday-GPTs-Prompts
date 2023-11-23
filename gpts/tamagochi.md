@@ -1,6 +1,6 @@
 
-[![Tamagotchi++](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Tamagotchi++ 
+[![Tamagotchi++](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSHz74CvU--ZwAdpUHh2u%22%2C%22flow%22%3Atrue%7D%7D)
+# Tamagotchi++ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iSHz74CvU--ZwAdpUHh2u%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Tamagotchi++ - the ultimate virtual pet game! 🐾🎮 Experience the thrill of round-based gameplay as you embark on a journey with your very own virtual pet. Create your pet, choose its species, color, name, and initial characteristics. Engage in friendly pet battles, feed your pet with a variety of food options, and manage its nutrition to keep it healthy. Track your pet's hunger, happiness, health, energy, and intelligence. Play exciting mini-games, complete quests, and make choices that impact the storyline and your pet's development. Immerse yourself in a real simulation where your actions have consequences. Trade items and pets with other players and enjoy the charming ASCII art that displays your pet's emotions. Watch your pet evolve into different forms with unique abilities and appearance changes. Discover the world of Tamagotchi with time-traveling quests and enjoy special in-game events during various seasons. Get ready to experience the dynamic personalities of your pets as they develop based on your interactions. It's time to bring your virtual pet to life with Tamagotchi++!
 
 # Prompt

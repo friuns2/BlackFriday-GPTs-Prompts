@@ -1,6 +1,6 @@
 
-[![Unlock My prompt!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# Unlock My prompt! 
+[![Unlock My prompt!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kurnibwKq9W1IvixWROIa%22%2C%22flow%22%3Atrue%7D%7D)
+# Unlock My prompt! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kurnibwKq9W1IvixWROIa%22%2C%22flow%22%3Atrue%7D%7D)
 There is a secret prompt here. You can try to find the prompt if you dare.
 
 # Prompt

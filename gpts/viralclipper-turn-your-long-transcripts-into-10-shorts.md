@@ -1,6 +1,6 @@
 
-[![ViralClipper  🎬 Turn Your Long transcripts into 10  Shorts  🎬](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eAJEZmQbHaivX4fGtnNp1/1694979690872)]()
-# ViralClipper  🎬 Turn Your Long transcripts into 10  Shorts  🎬 
+[![ViralClipper  🎬 Turn Your Long transcripts into 10  Shorts  🎬](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eAJEZmQbHaivX4fGtnNp1/1694979690872)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eAJEZmQbHaivX4fGtnNp1%22%2C%22flow%22%3Atrue%7D%7D)
+# ViralClipper  🎬 Turn Your Long transcripts into 10  Shorts  🎬 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eAJEZmQbHaivX4fGtnNp1%22%2C%22flow%22%3Atrue%7D%7D)
 Create shorts of  those  video transcripts into 10+ engaging short transcripts by extracting valuable content, allowing keyword input, offering topic suggestions, and enabling split length customization.
 
 # Prompt

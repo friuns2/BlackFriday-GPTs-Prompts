@@ -1,6 +1,6 @@
 
-[![Teaching with ChatGPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D_-Dv0aoTbUdVtLZIT7hw/1686157751577)]()
-# Teaching with ChatGPT  
+[![Teaching with ChatGPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D_-Dv0aoTbUdVtLZIT7hw/1686157751577)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_-Dv0aoTbUdVtLZIT7hw%22%2C%22flow%22%3Atrue%7D%7D)
+# Teaching with ChatGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_-Dv0aoTbUdVtLZIT7hw%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt serves to generate a detailed lesson plan for innovative learning using ChatGPT.
 
 # Prompt

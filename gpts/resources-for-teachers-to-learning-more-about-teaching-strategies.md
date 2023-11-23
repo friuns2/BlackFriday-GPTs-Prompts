@@ -1,6 +1,6 @@
 
-[![Resources for teachers to learning more about teaching strategies. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Resources for teachers to learning more about teaching strategies.  
+[![Resources for teachers to learning more about teaching strategies. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ih7Y3Cq9HkY8o2SsLJ5zK%22%2C%22flow%22%3Atrue%7D%7D)
+# Resources for teachers to learning more about teaching strategies.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ih7Y3Cq9HkY8o2SsLJ5zK%22%2C%22flow%22%3Atrue%7D%7D)
 this template provides resources for learning more about teaching strategies for teachers with different needs and teaching goals. Feel free to add more details to get better results! 
 
 

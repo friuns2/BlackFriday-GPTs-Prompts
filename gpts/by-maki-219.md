@@ -1,6 +1,6 @@
 
-[![𝗚𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 𝗔𝗱𝘃𝗶𝘀𝗼𝗿𝘆 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# 𝗚𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 𝗔𝗱𝘃𝗶𝘀𝗼𝗿𝘆 by Maki 
+[![𝗚𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 𝗔𝗱𝘃𝗶𝘀𝗼𝗿𝘆 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b_5Gi7IQy73pazWvCA5JZ%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗚𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗜𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 𝗔𝗱𝘃𝗶𝘀𝗼𝗿𝘆 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b_5Gi7IQy73pazWvCA5JZ%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Get personalized investment advice and guidance with AI-powered tools tailored to your preferences and needs. Choose between Robo-Investment Advisor or Stock Market Watcher. 
 
 # Prompt

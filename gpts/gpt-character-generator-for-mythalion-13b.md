@@ -1,6 +1,6 @@
 
-[![GPT Character Generator for Mythalion 13b](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OHHF5iq7DlIXKvR4Wi137/1700330753751)]()
-# GPT Character Generator for Mythalion 13b 
+[![GPT Character Generator for Mythalion 13b](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OHHF5iq7DlIXKvR4Wi137/1700330753751)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OHHF5iq7DlIXKvR4Wi137%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Character Generator for Mythalion 13b | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OHHF5iq7DlIXKvR4Wi137%22%2C%22flow%22%3Atrue%7D%7D)
 This Character GEN I just test for Mythalion 13b i don't know this work on other.
 
 # Prompt

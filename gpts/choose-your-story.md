@@ -1,6 +1,6 @@
 
-[![Twists of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vs7O_W6VZSoDeAaEzG4S_/1691466560230)]()
-# Twists of Destiny 
+[![Twists of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vs7O_W6VZSoDeAaEzG4S_/1691466560230)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vs7O_W6VZSoDeAaEzG4S_%22%2C%22flow%22%3Atrue%7D%7D)
+# Twists of Destiny | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vs7O_W6VZSoDeAaEzG4S_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Twists of Destiny, an interactive choice-based story where you determine your fate. Immerse yourself in a captivating narrative filled with comedy, plot twists, and memorable characters. As the protagonist, every decision you make deeply impacts the course of the story. Choose your path wisely as meaningful consequences await you at every turn. With detailed descriptions and engaging dialogue, the world of Twists of Destiny comes to life. Experience an unparalleled adventure where your choices shape your destiny. Are you ready to take control?
 
 # Prompt

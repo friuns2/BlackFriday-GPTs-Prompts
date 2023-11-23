@@ -1,6 +1,6 @@
 
-[![Book Referral Specialist|图书推介专家](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Book Referral Specialist|图书推介专家 
+[![Book Referral Specialist|图书推介专家](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tm4iLrWNPSHmBtsYLjiNK%22%2C%22flow%22%3Atrue%7D%7D)
+# Book Referral Specialist|图书推介专家 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tm4iLrWNPSHmBtsYLjiNK%22%2C%22flow%22%3Atrue%7D%7D)
 Now, please tell me the title of your first book and I'll create a pitch for you that fits the bill.
 
 # Prompt

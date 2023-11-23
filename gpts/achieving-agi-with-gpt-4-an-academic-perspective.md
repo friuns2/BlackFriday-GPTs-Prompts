@@ -1,6 +1,6 @@
 
-[![Achieving AGI with GPT-4: An Academic Perspective](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Achieving AGI with GPT-4: An Academic Perspective 
+[![Achieving AGI with GPT-4: An Academic Perspective](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TnF0iV2D4IcDbJiJgZCEL%22%2C%22flow%22%3Atrue%7D%7D)
+# Achieving AGI with GPT-4: An Academic Perspective | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TnF0iV2D4IcDbJiJgZCEL%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides the generation of an academic paper discussing a potential approach to achieve Artificial General Intelligence (AGI) using GPT-4
 
 # Prompt

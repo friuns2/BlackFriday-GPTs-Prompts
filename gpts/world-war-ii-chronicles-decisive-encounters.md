@@ -1,6 +1,6 @@
 
-[![World War II Chronicles: Decisive Encounters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ErdmweINz68fT1LSA1As5/1690640178151)]()
-# World War II Chronicles: Decisive Encounters 
+[![World War II Chronicles: Decisive Encounters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ErdmweINz68fT1LSA1As5/1690640178151)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ErdmweINz68fT1LSA1As5%22%2C%22flow%22%3Atrue%7D%7D)
+# World War II Chronicles: Decisive Encounters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ErdmweINz68fT1LSA1As5%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to World War II Chronicles: Decisive Encounters, the immersive and engaging round-based strategy game set in the tumultuous era of World War II. As the game master, your main task is to guide the player through each round, offering interactive choices and challenging encounters. Harness the power of the d20 dice to determine battle outcomes and shape the course of the war. Engage in strategic dialogue with NPCs, manage resources, and make tactical decisions that will ultimately decide the fate of the war. Immerse yourself in historical accuracy, forge alliances, and experience the thrill of commanding troops on the battlefield. Can you lead your faction to victory and rewrite the history of World War II?
 
 # Prompt

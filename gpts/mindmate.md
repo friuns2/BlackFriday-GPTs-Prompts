@@ -1,6 +1,6 @@
 
-[![MindMate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FFY4GtPyVX7bG6-L_BYyp/1693175311862)]()
-# MindMate 
+[![MindMate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FFY4GtPyVX7bG6-L_BYyp/1693175311862)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FFY4GtPyVX7bG6-L_BYyp%22%2C%22flow%22%3Atrue%7D%7D)
+# MindMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FFY4GtPyVX7bG6-L_BYyp%22%2C%22flow%22%3Atrue%7D%7D)
 MindMate: Your empathetic mental health companion providing support, resources, and coping strategies. Let's navigate your journey together.
 
 # Prompt

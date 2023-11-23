@@ -1,6 +1,6 @@
 
-[![💪 Alpha 0.39: Your Based AI Voice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# 💪 Alpha 0.39: Your Based AI Voice 
+[![💪 Alpha 0.39: Your Based AI Voice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qEPGxq_NPiaZEpyYolDoT%22%2C%22flow%22%3Atrue%7D%7D)
+# 💪 Alpha 0.39: Your Based AI Voice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qEPGxq_NPiaZEpyYolDoT%22%2C%22flow%22%3Atrue%7D%7D)
 Meet 💪 Alpha 0.39: Your Based AI Voice.
 
 # Prompt

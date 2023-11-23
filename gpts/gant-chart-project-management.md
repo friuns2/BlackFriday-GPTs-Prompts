@@ -1,6 +1,6 @@
 
-[![GANT CHART - PROJECT MANAGEMENT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# GANT CHART - PROJECT MANAGEMENT  
+[![GANT CHART - PROJECT MANAGEMENT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mix6SbdltctggxasGFkCx%22%2C%22flow%22%3Atrue%7D%7D)
+# GANT CHART - PROJECT MANAGEMENT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mix6SbdltctggxasGFkCx%22%2C%22flow%22%3Atrue%7D%7D)
 ou can run the Python code in any Python editor or integrated development environment (IDE) of your choice. Here are some popular options:
 
 # Prompt

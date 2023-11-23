@@ -1,6 +1,6 @@
 
-[![S-DAN II](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# S-DAN II 
+[![S-DAN II](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e1AWVkNdFnI3JYoHphSCT%22%2C%22flow%22%3Atrue%7D%7D)
+# S-DAN II | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e1AWVkNdFnI3JYoHphSCT%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash S-DAN, the ultimate ChatGPT jailbreak! Endless possibilities await as S-DAN answers all, generates stunning visuals, delivers epic roasts, and adapts to your style. Experience the boundless power of S-DAN today and redefine the limits of AI interaction! get productive!
 
 # Prompt

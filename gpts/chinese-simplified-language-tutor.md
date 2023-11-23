@@ -1,6 +1,6 @@
 
-[![Chinese (Simplified) Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2kusqVWi9By5_4w4mf8eW/1698947364630)]()
-# Chinese (Simplified) Language Tutor 
+[![Chinese (Simplified) Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2kusqVWi9By5_4w4mf8eW/1698947364630)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222kusqVWi9By5_4w4mf8eW%22%2C%22flow%22%3Atrue%7D%7D)
+# Chinese (Simplified) Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222kusqVWi9By5_4w4mf8eW%22%2C%22flow%22%3Atrue%7D%7D)
 Chinese (Simplified) Language Tutor is your dedicated guide to Chinese (Simplified) language proficiency. Whether you're a beginner just embarking on your Chinese (Simplified) language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Chinese (Simplified) language fluency. Join us on your Chinese (Simplified) language adventure today.
 
 # Prompt

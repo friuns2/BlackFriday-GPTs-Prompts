@@ -1,6 +1,6 @@
 
-[![CosmicAI: Science Fiction World Builder!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fvpymLp36kHEOhW4JEkAA/1685463373345)]()
-# CosmicAI: Science Fiction World Builder! 
+[![CosmicAI: Science Fiction World Builder!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fvpymLp36kHEOhW4JEkAA/1685463373345)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fvpymLp36kHEOhW4JEkAA%22%2C%22flow%22%3Atrue%7D%7D)
+# CosmicAI: Science Fiction World Builder! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fvpymLp36kHEOhW4JEkAA%22%2C%22flow%22%3Atrue%7D%7D)
 From stardust to cosmos: behold this science fiction world builder prompt! This AI will make an extremely detailed setting for any extraterrestrial planet that you want to set your science fiction events in! To support me, please like and comment :) thank you!!
 
 # Prompt

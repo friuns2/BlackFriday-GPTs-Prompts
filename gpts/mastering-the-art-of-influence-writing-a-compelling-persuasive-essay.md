@@ -1,6 +1,6 @@
 
-[![Art of Influence: Writing a Compelling Persuasive Essay](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TcjYu_s3IK0iv01Nye9ZY/1699052068038)]()
-# Art of Influence: Writing a Compelling Persuasive Essay 
+[![Art of Influence: Writing a Compelling Persuasive Essay](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TcjYu_s3IK0iv01Nye9ZY/1699052068038)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TcjYu_s3IK0iv01Nye9ZY%22%2C%22flow%22%3Atrue%7D%7D)
+# Art of Influence: Writing a Compelling Persuasive Essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TcjYu_s3IK0iv01Nye9ZY%22%2C%22flow%22%3Atrue%7D%7D)
 📚 Calling all students and aspiring writers! Are you looking to craft the perfect essay that not only impresses your instructors but also makes your academic life easier? Look no further! Our structured essay formatting guide is here to save the day. 🚀
 
 

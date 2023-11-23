@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt Generator - Updated for Version 5.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4k_rxAVI0ofVtjr29Gbz4/1690605606530)]()
-# Midjourney Prompt Generator - Updated for Version 5.2 
+[![Midjourney Prompt Generator - Updated for Version 5.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4k_rxAVI0ofVtjr29Gbz4/1690605606530)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224k_rxAVI0ofVtjr29Gbz4%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt Generator - Updated for Version 5.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224k_rxAVI0ofVtjr29Gbz4%22%2C%22flow%22%3Atrue%7D%7D)
 The Midjourney image generator guide is here to assist with prompt generation, focusing on:
 
 

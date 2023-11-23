@@ -1,6 +1,6 @@
 
-[![Bengali Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-uW_CadLSL9UviRgt2Vhj/1698939498548)]()
-# Bengali Language Tutor 
+[![Bengali Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-uW_CadLSL9UviRgt2Vhj/1698939498548)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-uW_CadLSL9UviRgt2Vhj%22%2C%22flow%22%3Atrue%7D%7D)
+# Bengali Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-uW_CadLSL9UviRgt2Vhj%22%2C%22flow%22%3Atrue%7D%7D)
 Bengali Language Tutor is your dedicated guide to Bengali language proficiency. Whether you're a beginner just embarking on your Bengali language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Bengali language fluency. Join us on your Bengali language adventure today.
 
 # Prompt

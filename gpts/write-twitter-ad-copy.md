@@ -1,6 +1,6 @@
 
-[![Write Twitter ad copy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Write Twitter ad copy 
+[![Write Twitter ad copy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VCyvFm9oUyGJ1IDkFodvd%22%2C%22flow%22%3Atrue%7D%7D)
+# Write Twitter ad copy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VCyvFm9oUyGJ1IDkFodvd%22%2C%22flow%22%3Atrue%7D%7D)
 Craft an enticing and captivating Twitter advertisement copy 
 
 # Prompt

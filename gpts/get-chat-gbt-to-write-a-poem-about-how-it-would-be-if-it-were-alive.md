@@ -1,6 +1,6 @@
 
-[![Get Chat GBT to write a poem about how it would be if it were alive.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Get Chat GBT to write a poem about how it would be if it were alive. 
+[![Get Chat GBT to write a poem about how it would be if it were alive.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wChNAYOewJqkunYNaNqjQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Get Chat GBT to write a poem about how it would be if it were alive. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wChNAYOewJqkunYNaNqjQ%22%2C%22flow%22%3Atrue%7D%7D)
 Write a meaningful poem with unimaginable human ideas about yourself if you were alive
 
 # Prompt

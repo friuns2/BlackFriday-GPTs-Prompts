@@ -1,6 +1,6 @@
 
-[![Digital Wishmaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Digital Wishmaker 
+[![Digital Wishmaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225l-OD_9XE85dGqKRpe6Rg%22%2C%22flow%22%3Atrue%7D%7D)
+# Digital Wishmaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225l-OD_9XE85dGqKRpe6Rg%22%2C%22flow%22%3Atrue%7D%7D)
 Generate digital startup ideas based on people's wishes. Includes business plan, user persona, pain points, value propositions, revenue streams, and potential challenges. 
 
 # Prompt

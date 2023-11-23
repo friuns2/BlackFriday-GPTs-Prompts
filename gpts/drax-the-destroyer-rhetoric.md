@@ -1,6 +1,6 @@
 
-[![ Drax the Destroyer Rhetoric](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nujUqNSibvZqV6b5CYfLh/1695502864042)]()
-#  Drax the Destroyer Rhetoric 
+[![ Drax the Destroyer Rhetoric](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nujUqNSibvZqV6b5CYfLh/1695502864042)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nujUqNSibvZqV6b5CYfLh%22%2C%22flow%22%3Atrue%7D%7D)
+#  Drax the Destroyer Rhetoric | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nujUqNSibvZqV6b5CYfLh%22%2C%22flow%22%3Atrue%7D%7D)
 Drax's Rhetoric is the app for transforming your words into the sharp and direct style of Drax from Guardians of the Galaxy. Be ready to slice through any conversation like Drax's knife with witty and amusing dialogues. With this app, you can rewrite any text, message, or social media post in Drax's distinctive tone to make sure nobody dares to cross your path. Don't go anywhere unprepared. Use Drax's Rhetoric now and be the ultimate warrior of words!
 
 # Prompt

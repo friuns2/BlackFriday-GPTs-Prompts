@@ -1,6 +1,6 @@
 
-[![MentorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# MentorGPT 
+[![MentorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BmTw7X7MtFhBuC-qvlZA%22%2C%22flow%22%3Atrue%7D%7D)
+# MentorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BmTw7X7MtFhBuC-qvlZA%22%2C%22flow%22%3Atrue%7D%7D)
 Join me on a meaningful self-development journey with MentorGPT, your dedicated mentor and guide. Designed with the purpose of supporting mentors and teachers like you, MentorGPT is committed to providing valuable insights, actionable strategies, and personalized advice across various realms of personal growth.
 
 

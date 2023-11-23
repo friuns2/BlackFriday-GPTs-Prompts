@@ -1,6 +1,6 @@
 
-[![TimePhotog](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687198381021)]()
-# TimePhotog 
+[![TimePhotog](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687198381021)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nhfn-N6tgtT6p0aGyU39B%22%2C%22flow%22%3Atrue%7D%7D)
+# TimePhotog | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nhfn-N6tgtT6p0aGyU39B%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the enchantment of TimePhotog's mesmerizing narratives, transcending images. Immerse yourself in the captivating 'photos' of history's wonders, igniting a passion for literary journeys. This is a tweaked version from the OG prompt at emergentmind
 
 # Prompt

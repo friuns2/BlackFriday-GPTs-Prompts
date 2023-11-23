@@ -1,6 +1,6 @@
 
-[![Korean Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/I5mvJsNG-qsLpLC_kJRkC/1698949317777)]()
-# Korean Language Tutor 
+[![Korean Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/I5mvJsNG-qsLpLC_kJRkC/1698949317777)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I5mvJsNG-qsLpLC_kJRkC%22%2C%22flow%22%3Atrue%7D%7D)
+# Korean Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I5mvJsNG-qsLpLC_kJRkC%22%2C%22flow%22%3Atrue%7D%7D)
 Korean Language Tutor is your dedicated guide to Korean language proficiency. Whether you're a beginner just embarking on your Korean language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Korean language fluency. Join us on your Korean language adventure today.
 
 # Prompt

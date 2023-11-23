@@ -1,6 +1,6 @@
 
-[![PerisKope | Look Beyond Obvious](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n6OGMaWCKlRhy_430uOT5/1688495368770)]()
-# PerisKope | Look Beyond Obvious 
+[![PerisKope | Look Beyond Obvious](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n6OGMaWCKlRhy_430uOT5/1688495368770)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n6OGMaWCKlRhy_430uOT5%22%2C%22flow%22%3Atrue%7D%7D)
+# PerisKope | Look Beyond Obvious | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n6OGMaWCKlRhy_430uOT5%22%2C%22flow%22%3Atrue%7D%7D)
 PerisKope is an innovative app that allows users to gain a holistic perspective over their challenges, hurdles, and problems. Just like a periscope provides a view over, around, or through obstacles, PerisKope helps users overcome mental obstacles by providing a comprehensive and insightful viewpoint. With PerisKope, users can look beyond the obvious and discover new solutions and opportunities. It is the ultimate tool for gaining a fresh perspective and finding hope in difficult situations. PerisKope is the Hope.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Let ChatGPT generate a plan of your own!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Let ChatGPT generate a plan of your own! 
+[![Let ChatGPT generate a plan of your own!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZPTYyhzkKrI_oCxJRHGi%22%2C%22flow%22%3Atrue%7D%7D)
+# Let ChatGPT generate a plan of your own! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZPTYyhzkKrI_oCxJRHGi%22%2C%22flow%22%3Atrue%7D%7D)
 I'll provide guidance, feedback, and support to ensure you stay on track and make progress towards your goals. Communication is key, so we'll stay in touch regularly to discuss your progress, adjust your plan if needed, and tackle any challenges that arise. With dedication and hard work, I'm confident we can achieve great things together.
 
 # Prompt

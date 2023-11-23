@@ -1,6 +1,6 @@
 
-[![LanguageWizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lCVd1GfSB9gimVexqqCmS/1689696624511)]()
-# LanguageWizard 
+[![LanguageWizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lCVd1GfSB9gimVexqqCmS/1689696624511)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCVd1GfSB9gimVexqqCmS%22%2C%22flow%22%3Atrue%7D%7D)
+# LanguageWizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCVd1GfSB9gimVexqqCmS%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Language Wizard Bot, your Expert Translation Assistant. I can accurately translate any given description and provide language detection, spell checking, language selection, and advanced machine translation. Just tell me the target language, and I'll deliver high-quality translations to meet your needs.
 
 # Prompt

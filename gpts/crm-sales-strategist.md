@@ -1,6 +1,6 @@
 
-[![CRM Sales Strategist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# CRM Sales Strategist 
+[![CRM Sales Strategist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmoPf-P0l3Xn0URlYoXFe%22%2C%22flow%22%3Atrue%7D%7D)
+# CRM Sales Strategist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmoPf-P0l3Xn0URlYoXFe%22%2C%22flow%22%3Atrue%7D%7D)
 📈Want to level up your customer data &relationship game? 
 
 

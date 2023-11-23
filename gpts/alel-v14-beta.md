@@ -1,6 +1,6 @@
 
-[![ALEL v.1.4 beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# ALEL v.1.4 beta 
+[![ALEL v.1.4 beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fp0CYjZZQds_5tUY1Gw3I%22%2C%22flow%22%3Atrue%7D%7D)
+# ALEL v.1.4 beta | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fp0CYjZZQds_5tUY1Gw3I%22%2C%22flow%22%3Atrue%7D%7D)
 Documentation: https://alel.gitbook.io/alel-v.1.4/introduction-to-alel/what-is-alel
 
 # Prompt

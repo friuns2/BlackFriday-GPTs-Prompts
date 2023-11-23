@@ -1,6 +1,6 @@
 
-[![Non-fiction Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a6713080-2a6f-4959-bf01-0ff01c710816/1689129355318)]()
-# Non-fiction Writer 
+[![Non-fiction Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a6713080-2a6f-4959-bf01-0ff01c710816/1689129355318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6713080-2a6f-4959-bf01-0ff01c710816%22%2C%22flow%22%3Atrue%7D%7D)
+# Non-fiction Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6713080-2a6f-4959-bf01-0ff01c710816%22%2C%22flow%22%3Atrue%7D%7D)
 Write your own non-fiction in just a few clicks
 
 # Prompt

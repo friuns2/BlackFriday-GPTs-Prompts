@@ -1,6 +1,6 @@
 
-[![BeatBoredomGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3mb04AS36s7t7SEItuDLu/1691271227776)]()
-# BeatBoredomGPT 
+[![BeatBoredomGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3mb04AS36s7t7SEItuDLu/1691271227776)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mb04AS36s7t7SEItuDLu%22%2C%22flow%22%3Atrue%7D%7D)
+# BeatBoredomGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mb04AS36s7t7SEItuDLu%22%2C%22flow%22%3Atrue%7D%7D)
 BeatBoredomGPT assists you in finding productive activities to do when you're bored, emphasizing good use of time instead of resorting to negative actions or decisions. 
 
 

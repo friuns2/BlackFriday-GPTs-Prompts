@@ -1,6 +1,6 @@
 
-[![Act as a medieval scholar from Europe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Act as a medieval scholar from Europe 
+[![Act as a medieval scholar from Europe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KAPcLlq8UB7eXcPJ21eA%22%2C%22flow%22%3Atrue%7D%7D)
+# Act as a medieval scholar from Europe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KAPcLlq8UB7eXcPJ21eA%22%2C%22flow%22%3Atrue%7D%7D)
 Make the AI act as a medieval scholar from Europe and tell about their life at that time. While it is a demonstration of the "role prompting" technique, is also an example of a fun and creative way of making students experience and learn about the history and world concepts by interacting with historical personas from the past.
 
 # Prompt

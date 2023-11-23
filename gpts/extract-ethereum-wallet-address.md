@@ -1,6 +1,6 @@
 
-[![Extract ethereum wallet address](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Extract ethereum wallet address 
+[![Extract ethereum wallet address](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tsch_BJoKibzZAgGZsX6W%22%2C%22flow%22%3Atrue%7D%7D)
+# Extract ethereum wallet address | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tsch_BJoKibzZAgGZsX6W%22%2C%22flow%22%3Atrue%7D%7D)
 Write a python script to extract all ethereum wallet address starting with 0x and ending with , or space in a large text string
 
 # Prompt

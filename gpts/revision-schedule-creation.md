@@ -1,6 +1,6 @@
 
-[![Revision Schedule Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Revision Schedule Creation 
+[![Revision Schedule Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8o6AZMc-Vdg98rRZFUb5%22%2C%22flow%22%3Atrue%7D%7D)
+# Revision Schedule Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8o6AZMc-Vdg98rRZFUb5%22%2C%22flow%22%3Atrue%7D%7D)
 Revision is an essential part of your study plan that solidifies your understanding and improves memory retention. With ChatGPT, you can design an optimal revision schedule that suits your learning style. 
 
 # Prompt

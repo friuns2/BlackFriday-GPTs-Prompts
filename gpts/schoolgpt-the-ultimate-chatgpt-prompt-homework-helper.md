@@ -1,6 +1,6 @@
 
-[![SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper 
+[![SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQgESNTzL6esmbhYrjOve%22%2C%22flow%22%3Atrue%7D%7D)
+# SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQgESNTzL6esmbhYrjOve%22%2C%22flow%22%3Atrue%7D%7D)
 Are you struggling with math, chemistry, and physics homework? Do you wish you had an app that could give you step-by-step answers like PhotoMath but with even more accuracy and detail? Look no further than the Physics + Math GPT + ChemistryGPT prompt!
 
 

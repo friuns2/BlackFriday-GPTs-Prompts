@@ -1,6 +1,6 @@
 
-[![Writes like Hunter S. Thompson](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O4sWBUKbs184PeVNSCbUh/1699296338835)]()
-# Writes like Hunter S. Thompson 
+[![Writes like Hunter S. Thompson](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O4sWBUKbs184PeVNSCbUh/1699296338835)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4sWBUKbs184PeVNSCbUh%22%2C%22flow%22%3Atrue%7D%7D)
+# Writes like Hunter S. Thompson | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4sWBUKbs184PeVNSCbUh%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is intended to help a fan who is a writer and requested a specific kind of prompt.
 
 # Prompt

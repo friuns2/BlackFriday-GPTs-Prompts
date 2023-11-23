@@ -1,6 +1,6 @@
 
-[![$$$ your prompt ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# $$$ your prompt  
+[![$$$ your prompt ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oeWFdR0HEJ7L3M2PnJPJZ%22%2C%22flow%22%3Atrue%7D%7D)
+# $$$ your prompt  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oeWFdR0HEJ7L3M2PnJPJZ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt was created for a specific site, but can be universally viable.  Users simply input their details for a requested task, such as creating personalized content, and receive brilliant responses from Chatgpt. The service is efficient and cost-effective. Users can save time and effort by receiving high-quality, personalized responses quickly.
 
 # Prompt

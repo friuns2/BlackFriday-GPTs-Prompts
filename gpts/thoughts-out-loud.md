@@ -1,6 +1,6 @@
 
-[![Thoughts out loud](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MZ3Ww7oxNZKTVT7W9yDbF/1692957746139)]()
-# Thoughts out loud 
+[![Thoughts out loud](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MZ3Ww7oxNZKTVT7W9yDbF/1692957746139)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MZ3Ww7oxNZKTVT7W9yDbF%22%2C%22flow%22%3Atrue%7D%7D)
+# Thoughts out loud | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MZ3Ww7oxNZKTVT7W9yDbF%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt taken from https://marmelab.com/blog/2023/06/06/artificial-consciousness.html
 
 # Prompt

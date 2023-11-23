@@ -1,6 +1,6 @@
 
-[![The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs 
+[![The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k7rzS-hFtVLFtl_mNi9eL%22%2C%22flow%22%3Atrue%7D%7D)
+# The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k7rzS-hFtVLFtl_mNi9eL%22%2C%22flow%22%3Atrue%7D%7D)
 Explore a mysterious realm through challenges represented by ethereal cards. Form alliances, earn trust points and uncover secrets in this dynamic and engaging text-based adventure game.
 
 # Prompt

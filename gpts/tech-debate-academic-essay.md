@@ -1,6 +1,6 @@
 
-[![Tech Debate academic essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# Tech Debate academic essay 
+[![Tech Debate academic essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RvQsY_kIjDv2K--d9RV-3%22%2C%22flow%22%3Atrue%7D%7D)
+# Tech Debate academic essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RvQsY_kIjDv2K--d9RV-3%22%2C%22flow%22%3Atrue%7D%7D)
 Tech Debate is a powerful academic essay prompt that challenges students to write compelling argumentative essays about the impact of technology on human relationships. With Tech Debate, students can explore both sides of the debate and develop a clear thesis, supported by solid evidence and logical reasoning. They will learn to articulate their arguments, address counterarguments, and create smooth transitions for a cohesive essay. Tech Debate provides a structured framework to help students craft a logical essay with clear topic sentences and a strong conclusion that leaves a lasting impression. Engage in the Tech Debate and enhance your argumentative writing skills today!
 
 # Prompt

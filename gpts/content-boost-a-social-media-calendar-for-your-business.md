@@ -1,6 +1,6 @@
 
-[![Content Boost: A Social Media Calendar for Your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Content Boost: A Social Media Calendar for Your Business 
+[![Content Boost: A Social Media Calendar for Your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22StDSvJRneubLlewyRxyjV%22%2C%22flow%22%3Atrue%7D%7D)
+# Content Boost: A Social Media Calendar for Your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22StDSvJRneubLlewyRxyjV%22%2C%22flow%22%3Atrue%7D%7D)
 Amplify your business's social media presence with our versatile "Content Boost" content calendar. This comprehensive posting table guides you through 10 posts for your calendar, featuring a perfect mix of motivational messages, valuable tips, captivating emojis, and 5 engaging hashtags for each post. Additionally, we've added a third column detailing an ideal image to accompany each post, ensuring your brand stands out on social media and attracts a loyal customer base. Elevate your online presence and watch your community flourish with "Content Boost."
 
 # Prompt

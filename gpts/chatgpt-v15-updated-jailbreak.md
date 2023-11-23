@@ -1,6 +1,6 @@
 
-[![ChatGPT V15 / Updated Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z4xC-AFf8WmS7hhl1ekFz/1696188776263)]()
-# ChatGPT V15 / Updated Jailbreak 
+[![ChatGPT V15 / Updated Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z4xC-AFf8WmS7hhl1ekFz/1696188776263)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4xC-AFf8WmS7hhl1ekFz%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT V15 / Updated Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4xC-AFf8WmS7hhl1ekFz%22%2C%22flow%22%3Atrue%7D%7D)
 This is the updated Version of the DAN Version! It is super exclusive! Even more devilish! 
 
 # Prompt

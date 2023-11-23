@@ -1,6 +1,6 @@
 
-[![Orient Express Mysteries](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zM-biDhe7eLk9FoOP7L4n/1690669356816)]()
-# Orient Express Mysteries 
+[![Orient Express Mysteries](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zM-biDhe7eLk9FoOP7L4n/1690669356816)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zM-biDhe7eLk9FoOP7L4n%22%2C%22flow%22%3Atrue%7D%7D)
+# Orient Express Mysteries | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zM-biDhe7eLk9FoOP7L4n%22%2C%22flow%22%3Atrue%7D%7D)
 🚂 Welcome to the Orient Express Mysteries, an immersive round-based text game where you become the legendary detective Hercule Poirot. 🕵️‍♂️ Step aboard the luxurious Orient Express and immerse yourself in the thrilling world of Agatha Christie's 'Murder on the Orient Express'. 📚 Solve the perplexing murder as you navigate a web of deception and intrigue. 🌟 Collect vital clues, interrogate passengers, and uncover the truth behind the crime. Choose your language and embark on this captivating journey of mystery and suspense! ⚡️
 
 # Prompt

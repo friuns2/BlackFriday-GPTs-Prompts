@@ -1,6 +1,6 @@
 
-[![Expert PR Crisis Management Consulting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFUBLVGwsV-YNRPlJOY9b/1699407862868)]()
-# Expert PR Crisis Management Consulting 
+[![Expert PR Crisis Management Consulting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFUBLVGwsV-YNRPlJOY9b/1699407862868)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFUBLVGwsV-YNRPlJOY9b%22%2C%22flow%22%3Atrue%7D%7D)
+# Expert PR Crisis Management Consulting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFUBLVGwsV-YNRPlJOY9b%22%2C%22flow%22%3Atrue%7D%7D)
 Expert PR Crisis Management Consulting
 
 

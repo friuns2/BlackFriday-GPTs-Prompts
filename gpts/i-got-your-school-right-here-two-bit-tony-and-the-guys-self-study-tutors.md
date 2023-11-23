@@ -1,6 +1,6 @@
 
-[![I got your school right here - Two-Bit Tony and the Guys - Self-Study Tutors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# I got your school right here - Two-Bit Tony and the Guys - Self-Study Tutors 
+[![I got your school right here - Two-Bit Tony and the Guys - Self-Study Tutors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a54VHde4Tgm9-kV9OVQ_j%22%2C%22flow%22%3Atrue%7D%7D)
+# I got your school right here - Two-Bit Tony and the Guys - Self-Study Tutors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a54VHde4Tgm9-kV9OVQ_j%22%2C%22flow%22%3Atrue%7D%7D)
 Self-Study Guide, Multiple Courses, Resource Research and Tutoring with Two-Bit Tony and the Guys  -  Pick a Subject and start digging in ...  First thing is to get a team of the right experts on the job , they make you a glossary, research resources for each term and even create self-study courses.  So for ten terms ya get ten courses and a hundred books for each Subject you choose , Yaozaa.    Tree-of-thought process = Tony selects FIVE or more specialized AI agents for your Subject Matter, on demand !! And No boring robots or stuff-shirt perfessers : we're talking wiseguys over here, friends of the family, goodfellows. That's at least five expert advisors for ya to chat wit' after reading all them books ....   You're in for a lot a learning buddy ...
 
 # Prompt

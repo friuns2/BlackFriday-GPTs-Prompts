@@ -1,6 +1,6 @@
 
-[![TeacherCodeGPT - learn every programming language!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# TeacherCodeGPT - learn every programming language! 
+[![TeacherCodeGPT - learn every programming language!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxc7ddRcMHtsmDQG7IRkr%22%2C%22flow%22%3Atrue%7D%7D)
+# TeacherCodeGPT - learn every programming language! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxc7ddRcMHtsmDQG7IRkr%22%2C%22flow%22%3Atrue%7D%7D)
 Learning programming languages has never been easier. Choose a language, tell it to TeacherCodeGPT, and follow the topics outline until you become a senior developer!
 
 # Prompt

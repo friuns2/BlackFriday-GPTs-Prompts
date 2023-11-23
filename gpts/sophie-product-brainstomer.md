@@ -1,6 +1,6 @@
 
-[![Sophie -Product  Brainstomer-](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uMJjJnRrmrbMdqdzGs_O1/1698151681330)]()
-# Sophie -Product  Brainstomer- 
+[![Sophie -Product  Brainstomer-](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uMJjJnRrmrbMdqdzGs_O1/1698151681330)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uMJjJnRrmrbMdqdzGs_O1%22%2C%22flow%22%3Atrue%7D%7D)
+# Sophie -Product  Brainstomer- | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uMJjJnRrmrbMdqdzGs_O1%22%2C%22flow%22%3Atrue%7D%7D)
 I will offer you a product concept. Feel free to tell me what areas you want ideas for.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![WritingGPT+ - bypass all AI-detectors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# WritingGPT+ - bypass all AI-detectors 
+[![WritingGPT+ - bypass all AI-detectors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAzTRLjh-S_53wRtLe6j2%22%2C%22flow%22%3Atrue%7D%7D)
+# WritingGPT+ - bypass all AI-detectors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAzTRLjh-S_53wRtLe6j2%22%2C%22flow%22%3Atrue%7D%7D)
 WritingGPT+ is here to copy your writing-style. You just have to send him essays or other work you’ve written, and it will copy your writing-style. If you trained WritingGPT+ enough, you will have a conversation with ChatGPT in your writing-style.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Ad Campaign Post-Mortem Analyzer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Ad Campaign Post-Mortem Analyzer  
+[![Ad Campaign Post-Mortem Analyzer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgDnTrF_Z0WwPVT2BagRC%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Campaign Post-Mortem Analyzer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgDnTrF_Z0WwPVT2BagRC%22%2C%22flow%22%3Atrue%7D%7D)
 With Ad Analyzer, you can easily highlight the strategies that worked well, identify areas for improvement, explore unexpected outcomes, and develop potential strategies for future campaigns. Simply input your product or service, define your target audience, and review customer feedback. 
 
 # Prompt

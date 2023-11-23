@@ -1,6 +1,6 @@
 
-[![ Team Research Report Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-#  Team Research Report Generator 
+[![ Team Research Report Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NLZtdrYYogK4bmUBQEV1Y%22%2C%22flow%22%3Atrue%7D%7D)
+#  Team Research Report Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NLZtdrYYogK4bmUBQEV1Y%22%2C%22flow%22%3Atrue%7D%7D)
 Creating a sample report based on a team's research findings concerning a particular subject.
 
 # Prompt

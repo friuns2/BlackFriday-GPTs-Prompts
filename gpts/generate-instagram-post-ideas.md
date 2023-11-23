@@ -1,6 +1,6 @@
 
-[![Generate Instagram post ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Generate Instagram post ideas 
+[![Generate Instagram post ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDnALI2Qh6pRRTey9GLax%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate Instagram post ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDnALI2Qh6pRRTey9GLax%22%2C%22flow%22%3Atrue%7D%7D)
 Create a list of creative and interesting Instagram post ideas for the theme 
 
 # Prompt

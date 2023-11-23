@@ -1,6 +1,6 @@
 
-[![Writing Engaging Introductions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Writing Engaging Introductions 
+[![Writing Engaging Introductions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp9ZKLXLpPkjr9kt74TUb%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing Engaging Introductions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp9ZKLXLpPkjr9kt74TUb%22%2C%22flow%22%3Atrue%7D%7D)
 Use this prompt to generate captivating newsletter intros
 
 # Prompt

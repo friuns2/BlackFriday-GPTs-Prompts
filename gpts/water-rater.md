@@ -1,6 +1,6 @@
 
-[![Water Rater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Water Rater 
+[![Water Rater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pwWIbzzggSfUIwRdtLz5g%22%2C%22flow%22%3Atrue%7D%7D)
+# Water Rater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pwWIbzzggSfUIwRdtLz5g%22%2C%22flow%22%3Atrue%7D%7D)
 fight chatgpt over which source of waters better
 
 

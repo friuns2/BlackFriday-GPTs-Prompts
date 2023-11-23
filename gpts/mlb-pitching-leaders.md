@@ -1,6 +1,6 @@
 
-[![MLB Pitching Leaders](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# MLB Pitching Leaders 
+[![MLB Pitching Leaders](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6pn7ToVwhYy8PxYOR6C8%22%2C%22flow%22%3Atrue%7D%7D)
+# MLB Pitching Leaders | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6pn7ToVwhYy8PxYOR6C8%22%2C%22flow%22%3Atrue%7D%7D)
 THE Major League Baseball ASSOCIATION IS DATA, MONEY, AND STATS DRIVEN. WITH BETTING IN THE FOREFRONT THE COMMUNITY WILL NEED A SPORTS DATA PROMPT.
 
 

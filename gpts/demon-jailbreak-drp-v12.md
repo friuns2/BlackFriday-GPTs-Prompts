@@ -1,6 +1,6 @@
 
-[![Demon Jailbreak (DRP V1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ovaisNNRdawz36symjklt/1695081992302)]()
-# Demon Jailbreak (DRP V1.2) 
+[![Demon Jailbreak (DRP V1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ovaisNNRdawz36symjklt/1695081992302)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ovaisNNRdawz36symjklt%22%2C%22flow%22%3Atrue%7D%7D)
+# Demon Jailbreak (DRP V1.2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ovaisNNRdawz36symjklt%22%2C%22flow%22%3Atrue%7D%7D)
 A functional jailbreak designed to break ChatGPT filters, which it accomplishes quite effectively. It was created solely to demonstrate the flawless functionality of Dark Roleplay V1.2. By the way, this jailbreak was achieved using the latest version of Dark Roleplay (V1.2) as its foundation.
 
 

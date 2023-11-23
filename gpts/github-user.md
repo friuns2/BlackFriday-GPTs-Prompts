@@ -1,6 +1,6 @@
 
-[![github user](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)]()
-# github user 
+[![github user](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mlWkV_Y9sMXguyDrpKko0%22%2C%22flow%22%3Atrue%7D%7D)
+# github user | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mlWkV_Y9sMXguyDrpKko0%22%2C%22flow%22%3Atrue%7D%7D)
 read the prompt I gave(just read it) then you will understand how to use it
 
 # Prompt

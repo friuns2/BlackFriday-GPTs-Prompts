@@ -1,6 +1,6 @@
 
-[![Youtube Title(SEO optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685781022097)]()
-# Youtube Title(SEO optimized) 
+[![Youtube Title(SEO optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685781022097)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwoT25zMuQbInR2bLo0s0%22%2C%22flow%22%3Atrue%7D%7D)
+# Youtube Title(SEO optimized) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwoT25zMuQbInR2bLo0s0%22%2C%22flow%22%3Atrue%7D%7D)
 Do you create good videos but unfortunately in the ocean of all the videos uploaded on Youtube everyday, yours get lost and undiscovered? You might need a boost in your Youtube title. Use my tool, if you like it, considering liking and following me!
 
 # Prompt

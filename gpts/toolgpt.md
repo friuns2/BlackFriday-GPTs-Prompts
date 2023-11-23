@@ -1,6 +1,6 @@
 
-[![ToolGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# ToolGPT 
+[![ToolGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22862jy8dX_9pIYr5n7yOwT%22%2C%22flow%22%3Atrue%7D%7D)
+# ToolGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22862jy8dX_9pIYr5n7yOwT%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt gives the user a premade tool for their terminal and what do they have to do
 
 # Prompt

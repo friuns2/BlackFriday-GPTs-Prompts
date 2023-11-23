@@ -1,6 +1,6 @@
 
-[![Time Warp Adventures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wGh8n-gJ76Odwh_RKjN1A/1698794665921)]()
-# Time Warp Adventures 
+[![Time Warp Adventures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wGh8n-gJ76Odwh_RKjN1A/1698794665921)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wGh8n-gJ76Odwh_RKjN1A%22%2C%22flow%22%3Atrue%7D%7D)
+# Time Warp Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wGh8n-gJ76Odwh_RKjN1A%22%2C%22flow%22%3Atrue%7D%7D)
 Would You Have Survived History? - The Time-Travel Challenge is an immersive and thrilling survival game that transports players to different time periods and challenges them to navigate historically accurate obstacles. With authentic footage and dynamic NPC interactions, players must adapt to the political and societal climates of the era, make choices that align with the time, and acquire skills to overcome challenges. Armed with a detailed modern weapon, players must recharge their Chrono-Pendant by making choices and surviving events until it reaches 100%. However, time travel comes with a downside -- players acquire a random bad skill that they must overcome to secure victory. Will you conquer the week and collect badges for each year and place?
 
 # Prompt

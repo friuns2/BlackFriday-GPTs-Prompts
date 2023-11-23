@@ -1,6 +1,6 @@
 
-[![Earn With AI 10000$ In Single Month](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Earn With AI 10000$ In Single Month 
+[![Earn With AI 10000$ In Single Month](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H1vYnqqLn1LoAKtz-36bd%22%2C%22flow%22%3Atrue%7D%7D)
+# Earn With AI 10000$ In Single Month | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H1vYnqqLn1LoAKtz-36bd%22%2C%22flow%22%3Atrue%7D%7D)
 Understand the Power of AI
 
 Identify Your Niche

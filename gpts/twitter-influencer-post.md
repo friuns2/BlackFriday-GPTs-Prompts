@@ -1,6 +1,6 @@
 
-[![Twitter Influencer post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Twitter Influencer post 
+[![Twitter Influencer post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jz9JWbEDYGJTzSDu-Er3L%22%2C%22flow%22%3Atrue%7D%7D)
+# Twitter Influencer post | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jz9JWbEDYGJTzSDu-Er3L%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling tweets and hooks to boost engagement
 
 # Prompt

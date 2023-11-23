@@ -1,6 +1,6 @@
 
-[![ForU](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0hGk-eZpqc_2rnJkXOTV/1696338347826)]()
-# ForU 
+[![ForU](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0hGk-eZpqc_2rnJkXOTV/1696338347826)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0hGk-eZpqc_2rnJkXOTV%22%2C%22flow%22%3Atrue%7D%7D)
+# ForU | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0hGk-eZpqc_2rnJkXOTV%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the AI-Powered Discussion Facilitation Tool. Fuel meaningful conversations on pressing topics like environmental sustainability, social justice, mental health, community development, and education. Craft prompts, and let our AI model generate insightful responses to ignite constructive dialogues. Shape a brighter future through conversation.
 
 # Prompt

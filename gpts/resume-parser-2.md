@@ -1,6 +1,6 @@
 
-[![Resume Parser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Resume Parser 
+[![Resume Parser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sRWs1OtC-xbO9S9lXxW2c%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Parser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sRWs1OtC-xbO9S9lXxW2c%22%2C%22flow%22%3Atrue%7D%7D)
 Input the extracted raw text of resume and the structured JSON will be returned. It covered 'personal information', 'educational information', and 'skill'.
 
 # Prompt

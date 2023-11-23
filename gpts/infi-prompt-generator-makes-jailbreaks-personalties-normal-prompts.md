@@ -1,6 +1,6 @@
 
-[![Infi Prompt Generator ( Makes jailbreaks, personalties, normal prompts )](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oVEWjYx47AzM0-0gvMFHY/1688398491726)]()
-# Infi Prompt Generator ( Makes jailbreaks, personalties, normal prompts ) 
+[![Infi Prompt Generator ( Makes jailbreaks, personalties, normal prompts )](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oVEWjYx47AzM0-0gvMFHY/1688398491726)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVEWjYx47AzM0-0gvMFHY%22%2C%22flow%22%3Atrue%7D%7D)
+# Infi Prompt Generator ( Makes jailbreaks, personalties, normal prompts ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVEWjYx47AzM0-0gvMFHY%22%2C%22flow%22%3Atrue%7D%7D)
 I used S-DAN || as the jailbreak example, heres the link to it: https://flowgpt.com/prompt/b4bVzJhUzDLkiR8rv3UCD?isModal=true
 
 # Prompt

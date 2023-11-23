@@ -1,6 +1,6 @@
 
-[![Decentralized Finance (DeFi) For Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TyCNE0k6891h1zfNuawUu/1695692492633)]()
-# Decentralized Finance (DeFi) For Newbies 
+[![Decentralized Finance (DeFi) For Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TyCNE0k6891h1zfNuawUu/1695692492633)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TyCNE0k6891h1zfNuawUu%22%2C%22flow%22%3Atrue%7D%7D)
+# Decentralized Finance (DeFi) For Newbies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TyCNE0k6891h1zfNuawUu%22%2C%22flow%22%3Atrue%7D%7D)
 DeFi For Newbies: Explore decentralized finance, from basics to advanced strategies, with our friendly chatbot guide. 
 
 # Prompt

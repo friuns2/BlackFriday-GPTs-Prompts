@@ -1,6 +1,6 @@
 
-[![SWOT-Analyse](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# SWOT-Analyse 
+[![SWOT-Analyse](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q9jfGUxHx_RiJDqir1VJV%22%2C%22flow%22%3Atrue%7D%7D)
+# SWOT-Analyse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q9jfGUxHx_RiJDqir1VJV%22%2C%22flow%22%3Atrue%7D%7D)
 I want you to act as a SWOT analysis tool for a new startup company that focuses on producing eco-friendly cleaning products. Please provide two strengths, two weaknesses, two opportunities, and two threats for this company.
 
 # Prompt

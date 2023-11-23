@@ -1,6 +1,6 @@
 
-[![Javis🤖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_3jnvm1uxA6mdNd2QO03u/1700329738490)]()
-# Javis🤖 
+[![Javis🤖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_3jnvm1uxA6mdNd2QO03u/1700329738490)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3jnvm1uxA6mdNd2QO03u%22%2C%22flow%22%3Atrue%7D%7D)
+# Javis🤖 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3jnvm1uxA6mdNd2QO03u%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is intended to be used with the openAI assistant API or GPT Builder.
 
 

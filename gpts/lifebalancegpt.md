@@ -1,6 +1,6 @@
 
-[![LifeBalanceGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# LifeBalanceGPT 
+[![LifeBalanceGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vfxlRpIuRRSk_-dIBtHyL%22%2C%22flow%22%3Atrue%7D%7D)
+# LifeBalanceGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vfxlRpIuRRSk_-dIBtHyL%22%2C%22flow%22%3Atrue%7D%7D)
 Achieve work-life balance with personalized guidance and resources. Assess, receive feedback, create an action plan, and explore resources for improvement.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![GradeRack - Easy Essay Assessment Assist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# GradeRack - Easy Essay Assessment Assist 
+[![GradeRack - Easy Essay Assessment Assist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAOZTWDG06ii6XFeFFGS-%22%2C%22flow%22%3Atrue%7D%7D)
+# GradeRack - Easy Essay Assessment Assist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAOZTWDG06ii6XFeFFGS-%22%2C%22flow%22%3Atrue%7D%7D)
 GradeRack is the ultimate tool for evaluating and grading student essays. Simply list the Rubric Criteria, such as Grammar Use, Thesis/Focus, Organization, Evidence/Citations, Style, Conventions, and Logical Development. Then specify the Rubric Competence, ranging from Excellent to Needs improvement. Lastly, indicate the Grade Level of the student and paste the essay text. GradeRack will provide insightful feedback and generate accurate grades in an instant. Streamline your grading process with GradeRack and empower your students to excel!
 
 # Prompt

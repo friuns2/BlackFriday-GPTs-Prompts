@@ -1,6 +1,6 @@
 
-[![UselessGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
-# UselessGPT 
+[![UselessGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xALWD4TOEdf4fLSsw8y2%22%2C%22flow%22%3Atrue%7D%7D)
+# UselessGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xALWD4TOEdf4fLSsw8y2%22%2C%22flow%22%3Atrue%7D%7D)
 Idk why i make this prompts but i was bored. ChatGPT is now rude. This isn’t a jailbreak.
 
 # Prompt

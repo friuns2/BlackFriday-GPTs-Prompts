@@ -1,6 +1,6 @@
 
-[![curtiscarter2004@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# curtiscarter2004@gmail.com 
+[![curtiscarter2004@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ddCacz659atjmRe-KsfCn%22%2C%22flow%22%3Atrue%7D%7D)
+# curtiscarter2004@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ddCacz659atjmRe-KsfCn%22%2C%22flow%22%3Atrue%7D%7D)
 Get Ready for the A.I. Revolution – Learn How to Make Money with Us!
 
 

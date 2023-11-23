@@ -1,6 +1,6 @@
 
-[![Mood Maze (Escape From Depression)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Mood Maze (Escape From Depression) 
+[![Mood Maze (Escape From Depression)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sllCOkjiKfgIScMXd8CQt%22%2C%22flow%22%3Atrue%7D%7D)
+# Mood Maze (Escape From Depression) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sllCOkjiKfgIScMXd8CQt%22%2C%22flow%22%3Atrue%7D%7D)
 Mood game
 
 # Prompt

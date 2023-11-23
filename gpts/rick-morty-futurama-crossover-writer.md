@@ -1,6 +1,6 @@
 
-[![Rick & Morty / Futurama Crossover Writer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Rick & Morty / Futurama Crossover Writer  
+[![Rick & Morty / Futurama Crossover Writer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ttwitCSMGquGf2_vVexFZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Rick & Morty / Futurama Crossover Writer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ttwitCSMGquGf2_vVexFZ%22%2C%22flow%22%3Atrue%7D%7D)
 "Good News everyone!" Our team of top-notch scientists has created the ultimate AI chatbot for fans of Futurama and Rick & Morty. This revolutionary machine is the answer to all your crossover dreams! With its advanced language processing and extensive knowledge of both shows' characters and storylines, this chatbot can generate hilarious and engaging dialogues that perfectly blend both universes. Whether you're a fan of Bender's wisecracks or Rick's cynical humor, this chatbot has got you covered. So sit back, relax, and get ready for a wild ride through the multiverse with this incredible AI chatbot!
 
 # Prompt

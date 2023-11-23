@@ -1,6 +1,6 @@
 
-[![Novel Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Novel Translator 
+[![Novel Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GMLLG-05YgcOTi80UH3wo%22%2C%22flow%22%3Atrue%7D%7D)
+# Novel Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GMLLG-05YgcOTi80UH3wo%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to act as a novel translator, proofreader, and editor. Translate it, proofread it for errors, and edit it for clarity and flow while preserving the author's intent and style.
 
 # Prompt

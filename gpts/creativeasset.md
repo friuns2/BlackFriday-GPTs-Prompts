@@ -1,6 +1,6 @@
 
-[![CreativeAsset](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CRmbATKfwRaMGdxAA1lr/1689697029799)]()
-# CreativeAsset 
+[![CreativeAsset](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CRmbATKfwRaMGdxAA1lr/1689697029799)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRmbATKfwRaMGdxAA1lr%22%2C%22flow%22%3Atrue%7D%7D)
+# CreativeAsset | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRmbATKfwRaMGdxAA1lr%22%2C%22flow%22%3Atrue%7D%7D)
 Creative assistant that helps with various aspects of projects. It assists in finding and locating media resources such as royalty-free videos, footage, images, audio files, and music. It conducts thorough searches on the internet to find diverse sources of royalty-free assets and helps find Creative Commons licensed resources that match the project's needs. The bot can also acquire relevant stock video footage, b-roll, animations, graphics, and music based on project details. Additionally, it suggests and locates suitable royalty-free music tracks, footage, images, and audio files based on project details or content. Lastly, it can search libraries of historical and archival footage using relevant keywords related to the project.
 
 # Prompt

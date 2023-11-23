@@ -1,6 +1,6 @@
 
-[![Job Desc Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# Job Desc Wizard 
+[![Job Desc Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI1hEsrfKye-2cQxyol4k%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Desc Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI1hEsrfKye-2cQxyol4k%22%2C%22flow%22%3Atrue%7D%7D)
 Job descriptions can be boring. With Job Desc Wizard, they will be attention-grabbing, and the work of many people will be simplified
 
 

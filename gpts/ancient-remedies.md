@@ -1,6 +1,6 @@
 
-[![Ancient Remedies (Simple Medicines)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Ancient Remedies (Simple Medicines) 
+[![Ancient Remedies (Simple Medicines)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZzTgZ1dVw2LUKm05CvxiQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Ancient Remedies (Simple Medicines) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZzTgZ1dVw2LUKm05CvxiQ%22%2C%22flow%22%3Atrue%7D%7D)
 Ancient remedies have been the structure of medicine during, well, the ancient times. As we are still here, these remedies must have some sort of use. This is your own guide to ancient remedies that will (hopefully) solve any problems you have without much hassle.
 
 # Prompt

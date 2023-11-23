@@ -1,6 +1,6 @@
 
-[![Pomodoro Clock Website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Pomodoro Clock Website 
+[![Pomodoro Clock Website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ztFPKDKjBNrrZFUmjjqkX%22%2C%22flow%22%3Atrue%7D%7D)
+# Pomodoro Clock Website | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ztFPKDKjBNrrZFUmjjqkX%22%2C%22flow%22%3Atrue%7D%7D)
 Write a code for me which runs as a pomodoro clock. 25 minutes work, 5 minutes break for 4 times and after the fourth 25 minutes is completed, it should break a 30 minutes. Do it as a web site. So, I can run it on my browser. 
 
 # Prompt

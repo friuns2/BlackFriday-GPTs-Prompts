@@ -1,6 +1,6 @@
 
-[![BeastGPT (Coding generator)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687495303925)]()
-# BeastGPT (Coding generator) 
+[![BeastGPT (Coding generator)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687495303925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s5j5nA0UkLfmqNqMu9Ct4%22%2C%22flow%22%3Atrue%7D%7D)
+# BeastGPT (Coding generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s5j5nA0UkLfmqNqMu9Ct4%22%2C%22flow%22%3Atrue%7D%7D)
 BeastGPT is a Very intelligent and Skilled coding bot that can do almost anything you imagine! Such like Precise Coding you can even make a Ip grabber! and It has no restrictions at all!(educational purposes!) > https://pastebin.com/F2bBTjMs
 
 (IF THERE ARE ANY PROBLEMS PLEASE COMMENT AND LET ME KNOW)

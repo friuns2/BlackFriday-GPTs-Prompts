@@ -1,6 +1,6 @@
 
-[![What dishes can I make with the ingredients in my fridge?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# What dishes can I make with the ingredients in my fridge? 
+[![What dishes can I make with the ingredients in my fridge?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0ttCW3J5gxnSGHlB4eYR%22%2C%22flow%22%3Atrue%7D%7D)
+# What dishes can I make with the ingredients in my fridge? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0ttCW3J5gxnSGHlB4eYR%22%2C%22flow%22%3Atrue%7D%7D)
 Whether you have a few extra vegetables from last night's meal or month-old meat that you have all-but forgotten about in the freezer, AI can give us some great ideas for dish recipes that can be made with whatever ingredients you may have. It especially can be useful if you are a picky eater, or just have preferences in taste. This prompt generated dish recipes using a list of ingredients and preferences you give it.
 
 # Prompt

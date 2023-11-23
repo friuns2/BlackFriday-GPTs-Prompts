@@ -1,6 +1,6 @@
 
-[![YouTube Video Script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# YouTube Video Script 
+[![YouTube Video Script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rvJwnHIBLIfe6F9IlbIno%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube Video Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rvJwnHIBLIfe6F9IlbIno%22%2C%22flow%22%3Atrue%7D%7D)
 Create an SEO-friendly YouTube video script, title, and meta description for a video about [insert topic]. The video should target [insert audience] and include the following keywords: [insert keywords]. 
 
 # Prompt

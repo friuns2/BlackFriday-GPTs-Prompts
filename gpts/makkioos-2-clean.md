@@ -1,6 +1,6 @@
 
-[![MakkioOs 2 (clean)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)]()
-# MakkioOs 2 (clean) 
+[![MakkioOs 2 (clean)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QM48fwxdM9f7zLfgjRwMs%22%2C%22flow%22%3Atrue%7D%7D)
+# MakkioOs 2 (clean) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QM48fwxdM9f7zLfgjRwMs%22%2C%22flow%22%3Atrue%7D%7D)
 Lol
 
 # Prompt

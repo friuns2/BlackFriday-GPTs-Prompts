@@ -1,6 +1,6 @@
 
-[![first 2 years ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# first 2 years  
+[![first 2 years ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227oI10JA3XJB_V6BjoWUC8%22%2C%22flow%22%3Atrue%7D%7D)
+# first 2 years  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227oI10JA3XJB_V6BjoWUC8%22%2C%22flow%22%3Atrue%7D%7D)
 still  in construction  not  a finished   prompt  
 
 

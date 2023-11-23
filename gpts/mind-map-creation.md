@@ -1,6 +1,6 @@
 
-[![Mind map Creation!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# Mind map Creation! 
+[![Mind map Creation!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220t-giQwMgrOf-vxJCj52L%22%2C%22flow%22%3Atrue%7D%7D)
+# Mind map Creation! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220t-giQwMgrOf-vxJCj52L%22%2C%22flow%22%3Atrue%7D%7D)
 "Mind mapping: a dynamic tool for organizing info and igniting creativity. Complex ideas become vivid, easy-to-grasp masterpieces on this canvas. Embrace this art and enjoy cultivating brilliant ideas! Experience the magic of instantly conjuring up a mind map with this prompt!"
 
 # Prompt

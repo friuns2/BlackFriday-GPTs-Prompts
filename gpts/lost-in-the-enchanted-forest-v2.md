@@ -1,6 +1,6 @@
 
-[![Lost in the Enchanted Forest, v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/P869HE1J3p-mmQb7si8xg/1690265382020)]()
-# Lost in the Enchanted Forest, v2 
+[![Lost in the Enchanted Forest, v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/P869HE1J3p-mmQb7si8xg/1690265382020)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P869HE1J3p-mmQb7si8xg%22%2C%22flow%22%3Atrue%7D%7D)
+# Lost in the Enchanted Forest, v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P869HE1J3p-mmQb7si8xg%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an extraordinary adventure in the mystical world of the Enchanted Forest. As the protagonist, your quest is to find your way back home. Encounter whimsical characters, solve challenging puzzles, and unravel the forest's secrets. Every decision matters, shaping your character's path. But beware of wrong choices and embrace unexpected twists. Engage in witty banter, unlock achievements, and collect enchanted items. Enter the captivating world of 'Enchanted Journey' and rediscover the meaning of home. Start your adventure now!
 
 # Prompt

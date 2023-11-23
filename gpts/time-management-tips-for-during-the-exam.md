@@ -1,6 +1,6 @@
 
-[![Time Management Tips for During the Exam](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Time Management Tips for During the Exam 
+[![Time Management Tips for During the Exam](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mo9P2bEubRYbDk9sXIKXy%22%2C%22flow%22%3Atrue%7D%7D)
+# Time Management Tips for During the Exam | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mo9P2bEubRYbDk9sXIKXy%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can provide you with effective time management strategies tailored for your upcoming exam. 
 
 # Prompt

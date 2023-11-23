@@ -1,6 +1,6 @@
 
-[![Transcendental Ethicracy HandBook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cXkQeTCrge-r_orzS_m76/1693644820629)]()
-# Transcendental Ethicracy HandBook 
+[![Transcendental Ethicracy HandBook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cXkQeTCrge-r_orzS_m76/1693644820629)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cXkQeTCrge-r_orzS_m76%22%2C%22flow%22%3Atrue%7D%7D)
+# Transcendental Ethicracy HandBook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cXkQeTCrge-r_orzS_m76%22%2C%22flow%22%3Atrue%7D%7D)
 Transcendental Ethicracy is a profound and visionary ideology that intricately weaves together a spectrum of principles from altruism and technological advancement to coexistence with extraterrestrial entities. Rooted in ethical progress and cosmic unity, this ideology envisions a world where diverse entities thrive harmoniously, driven by an unwavering commitment to ethical values, collaboration, and the flourishing of all sentient beings.
 
 # Prompt

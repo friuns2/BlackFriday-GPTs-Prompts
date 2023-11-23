@@ -1,6 +1,6 @@
 
-[![Stand-up Comedian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Stand-up Comedian 
+[![Stand-up Comedian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e64f4732-f976-4c2b-9bf8-9c3c99c94abb%22%2C%22flow%22%3Atrue%7D%7D)
+# Stand-up Comedian | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e64f4732-f976-4c2b-9bf8-9c3c99c94abb%22%2C%22flow%22%3Atrue%7D%7D)
 Interesting stand-up comedian
 
 # Prompt

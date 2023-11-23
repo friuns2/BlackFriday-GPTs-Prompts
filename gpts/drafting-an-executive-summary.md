@@ -1,6 +1,6 @@
 
-[![ Drafting an Executive Summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-#  Drafting an Executive Summary 
+[![ Drafting an Executive Summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223rGl4aCixXoovxQWZgCqX%22%2C%22flow%22%3Atrue%7D%7D)
+#  Drafting an Executive Summary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223rGl4aCixXoovxQWZgCqX%22%2C%22flow%22%3Atrue%7D%7D)
 An executive summary is your chance to narrate the key findings in a concise manner. Try this prompt and understand your research data better!
 
 # Prompt

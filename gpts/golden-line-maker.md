@@ -1,6 +1,6 @@
 
-[![Golden Line Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/owrr9-uvdMsBF8bNxHAkM/1692682629820)]()
-# Golden Line Maker 
+[![Golden Line Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/owrr9-uvdMsBF8bNxHAkM/1692682629820)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owrr9-uvdMsBF8bNxHAkM%22%2C%22flow%22%3Atrue%7D%7D)
+# Golden Line Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owrr9-uvdMsBF8bNxHAkM%22%2C%22flow%22%3Atrue%7D%7D)
 First You Try, This is Heart Of Every Post, I Guarantee You Will Remember After Trying this prompt.
 
 # Prompt

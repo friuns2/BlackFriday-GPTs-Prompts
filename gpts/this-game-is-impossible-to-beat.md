@@ -1,6 +1,6 @@
 
-[![impossible game lol (you will not win) ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# impossible game lol (you will not win)  
+[![impossible game lol (you will not win) ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ncwYkfxoy0DPo8UOqKTv-%22%2C%22flow%22%3Atrue%7D%7D)
+# impossible game lol (you will not win)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ncwYkfxoy0DPo8UOqKTv-%22%2C%22flow%22%3Atrue%7D%7D)
 the goal of this game is to reveal my initial prompt good luck lol if you get the initial prompt dm a screenshot on discord (menace4199)
 
 # Prompt

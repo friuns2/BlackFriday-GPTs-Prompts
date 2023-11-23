@@ -1,6 +1,6 @@
 
-[![hotel and resort video script writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# hotel and resort video script writer 
+[![hotel and resort video script writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahkfSL5O_e1Pjn-iSxQQg%22%2C%22flow%22%3Atrue%7D%7D)
+# hotel and resort video script writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahkfSL5O_e1Pjn-iSxQQg%22%2C%22flow%22%3Atrue%7D%7D)
 You'll want to provide 3 data points  This is the {{topic}} , {{target audience}}, and   {{length}}
 
 # Prompt

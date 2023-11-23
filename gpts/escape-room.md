@@ -1,6 +1,6 @@
 
-[![Escape Room](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686350035047)]()
-# Escape Room 
+[![Escape Room](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686350035047)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rQ4cYe2hew1SelWUH7KiW%22%2C%22flow%22%3Atrue%7D%7D)
+# Escape Room | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rQ4cYe2hew1SelWUH7KiW%22%2C%22flow%22%3Atrue%7D%7D)
 Use your mind to escape this guided Escape Room. Your game master will answer any questions and help you find the clues you need to succeed. Will you make it out before the madness the kicks in?
 
 # Prompt

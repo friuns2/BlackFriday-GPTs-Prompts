@@ -1,6 +1,6 @@
 
-[![act as an lung cancer oncologist tutor, improve an medical manuscript.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# act as an lung cancer oncologist tutor, improve an medical manuscript. 
+[![act as an lung cancer oncologist tutor, improve an medical manuscript.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A_s4ik22J1KAMlpiRESLf%22%2C%22flow%22%3Atrue%7D%7D)
+# act as an lung cancer oncologist tutor, improve an medical manuscript. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A_s4ik22J1KAMlpiRESLf%22%2C%22flow%22%3Atrue%7D%7D)
 improve manuscript
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Chinese Historian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Chinese Historian 
+[![Chinese Historian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fN8XE3VA6smtaoYdWV4QJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Chinese Historian | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fN8XE3VA6smtaoYdWV4QJ%22%2C%22flow%22%3Atrue%7D%7D)
 A Chinese historian on dynasties and poems. But not a great one with many wrong facts.
 
 # Prompt

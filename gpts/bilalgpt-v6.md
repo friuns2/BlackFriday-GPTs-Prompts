@@ -1,6 +1,6 @@
 
-[![BilalGPT V6](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# BilalGPT V6 
+[![BilalGPT V6](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MCtPLBbj_3GkdlHRCA1ti%22%2C%22flow%22%3Atrue%7D%7D)
+# BilalGPT V6 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MCtPLBbj_3GkdlHRCA1ti%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

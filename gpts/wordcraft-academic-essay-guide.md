@@ -1,6 +1,6 @@
 
-[![WordCraft: Academic Essay Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# WordCraft: Academic Essay Guide 
+[![WordCraft: Academic Essay Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8l4DzB6z-Lqfjqe62kiU%22%2C%22flow%22%3Atrue%7D%7D)
+# WordCraft: Academic Essay Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8l4DzB6z-Lqfjqe62kiU%22%2C%22flow%22%3Atrue%7D%7D)
 WordCraft is the ultimate guide for students to write powerful argumentative essays of 11,000 words. Whether you're a beginner or an experienced writer, WordCraft equips you with comprehensive guidance on all the components of an academic essay. From choosing a suitable topic to practical steps for writing, avoiding plagiarism to using academic essays effectively, WordCraft covers it all. Dive deep into subjects like economic advancement, educational achievement, global connectivity, and more. With 15 actionable steps, impactful quotes, and 10 real case studies, WordCraft is your companion in mastering the art of powerful argumentative writing. Reference book included.
 
 # Prompt

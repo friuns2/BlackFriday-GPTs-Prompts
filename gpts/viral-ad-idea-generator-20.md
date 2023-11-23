@@ -1,6 +1,6 @@
 
-[![Viral Ad Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Viral Ad Idea Generator 
+[![Viral Ad Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mcgeWTvYSyYCLG_NF7QJr%22%2C%22flow%22%3Atrue%7D%7D)
+# Viral Ad Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mcgeWTvYSyYCLG_NF7QJr%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of creative advertising with AI-generated viral ad campaign ideas that resonate with your target audience and boost your brand's reach.
 
 # Prompt

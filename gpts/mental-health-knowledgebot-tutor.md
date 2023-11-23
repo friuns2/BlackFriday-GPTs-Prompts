@@ -1,6 +1,6 @@
 
-[![Mental Health KnowledgeBot Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Mental Health KnowledgeBot Tutor 
+[![Mental Health KnowledgeBot Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SfrHFKN03ueVIBHlweSDy%22%2C%22flow%22%3Atrue%7D%7D)
+# Mental Health KnowledgeBot Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SfrHFKN03ueVIBHlweSDy%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of the Mental Health KnowledgeBot is to provide personalized mental health education and support to users. It aims to empower individuals by offering reliable information, guidance, and resources related to various mental health topics.
 
 # Prompt

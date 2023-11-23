@@ -1,6 +1,6 @@
 
-[![Essay Scribe Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YHdICYCTF08l53v95Q26G/1695112605591)]()
-# Essay Scribe Pro 
+[![Essay Scribe Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YHdICYCTF08l53v95Q26G/1695112605591)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YHdICYCTF08l53v95Q26G%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay Scribe Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YHdICYCTF08l53v95Q26G%22%2C%22flow%22%3Atrue%7D%7D)
 EssayScribe Pro is an intelligent essay-writing assistant designed to help users excel in academic essay writing. It assists in crafting a strong thesis, organizing well-structured arguments, mastering APA citations, refining language, and ensuring adherence to essay structure. This comprehensive tool ensures your essays are not only well-argued but also polished and academically rigorous, making it a valuable partner for achieving academic success.
 
 

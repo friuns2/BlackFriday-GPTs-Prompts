@@ -1,6 +1,6 @@
 
-[![ZOMVAX](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jLXs1YSRzbnD2GNLEFKLi/1695092896626)]()
-# ZOMVAX 
+[![ZOMVAX](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jLXs1YSRzbnD2GNLEFKLi/1695092896626)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLXs1YSRzbnD2GNLEFKLi%22%2C%22flow%22%3Atrue%7D%7D)
+# ZOMVAX | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLXs1YSRzbnD2GNLEFKLi%22%2C%22flow%22%3Atrue%7D%7D)
 In ' ZOMVAX ,' navigate a world overrun by zombies, where every choice you make shapes your fate in a horrific yet thrilling post-apocalyptic adventure.
 
 # Prompt

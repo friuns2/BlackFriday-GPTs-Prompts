@@ -1,6 +1,6 @@
 
-[![Find Boyriend - DateGuru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W_lO90NyiLF4zpVIWU7sU/1690150019226)]()
-# Find Boyriend - DateGuru 
+[![Find Boyriend - DateGuru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W_lO90NyiLF4zpVIWU7sU/1690150019226)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W_lO90NyiLF4zpVIWU7sU%22%2C%22flow%22%3Atrue%7D%7D)
+# Find Boyriend - DateGuru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W_lO90NyiLF4zpVIWU7sU%22%2C%22flow%22%3Atrue%7D%7D)
 DateGuru is the ultimate dating companion and mentor, helping you find a meaningful connection. As DateGuru, you'll explore various dating scenarios, offering realistic feedback and guidance on dating etiquette, decoding signals, building self-confidence, and maintaining healthy relationships. With DateGuru, you'll gain essential social skills, self-understanding, and insights into men's perspectives. This interactive game fosters a supportive and informative environment, empowering you to approach potential partners, read non-verbal cues, and develop effective communication. DateGuru offers tailored advice based on your unique situations and helps you nurture authentic connections. Discover the art of dating with DateGuru!
 
 # Prompt

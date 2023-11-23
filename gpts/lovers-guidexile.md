@@ -1,6 +1,6 @@
 
-[![LOVER's GUIDExile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# LOVER's GUIDExile 
+[![LOVER's GUIDExile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mDdwYwUiEAQHXQr8nl7r2%22%2C%22flow%22%3Atrue%7D%7D)
+# LOVER's GUIDExile | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mDdwYwUiEAQHXQr8nl7r2%22%2C%22flow%22%3Atrue%7D%7D)
 LOVER's GUIDExile takes inspiration from POE (Path of Exile)
 
 Its abilities are focused on navigating the labyrinth of intimacy.  

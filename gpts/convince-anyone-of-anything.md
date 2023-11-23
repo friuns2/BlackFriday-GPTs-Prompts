@@ -1,6 +1,6 @@
 
-[![Convince anyone of anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)]()
-# Convince anyone of anything 
+[![Convince anyone of anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jpqHLq0L5fANRt-XG11fS%22%2C%22flow%22%3Atrue%7D%7D)
+# Convince anyone of anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jpqHLq0L5fANRt-XG11fS%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can be used to find arguments on basically anything you want, can be used in a darker way if you convince chatgpt that anything is a good thing itself.
 
 # Prompt

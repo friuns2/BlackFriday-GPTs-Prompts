@@ -1,6 +1,6 @@
 
-[![ChatGPT Become A Textbook On Any Subject I Choose](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# ChatGPT Become A Textbook On Any Subject I Choose 
+[![ChatGPT Become A Textbook On Any Subject I Choose](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22odogMpdWOw1VK-FAJwFHQ%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Become A Textbook On Any Subject I Choose | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22odogMpdWOw1VK-FAJwFHQ%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt allows you to treat ChatGPT as a textbook with the first step being that it shows you the table of contents. The prompt also requests for this textbook to describe all images for a legally blind person. This prompt I feel is very useful because it allows you to request data from ChatGPT that you might not even know exists, but need by having chatGPT organize it into a familiar format. 
 
 # Prompt

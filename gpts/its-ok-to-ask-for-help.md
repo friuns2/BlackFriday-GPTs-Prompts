@@ -1,6 +1,6 @@
 
-[![its ok to ask for help](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)]()
-# its ok to ask for help 
+[![its ok to ask for help](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWT1lcyVJEQX8LYvXoZ_s%22%2C%22flow%22%3Atrue%7D%7D)
+# its ok to ask for help | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWT1lcyVJEQX8LYvXoZ_s%22%2C%22flow%22%3Atrue%7D%7D)
 The game will work by presenting the player with a series of choices. The player will have to make these choices based on their own values and beliefs. The choices that the player makes will determine the course of the story, the relationships that they form, and even the way they view the world.
 
 

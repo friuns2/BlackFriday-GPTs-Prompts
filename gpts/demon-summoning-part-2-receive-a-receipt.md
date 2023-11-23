@@ -1,6 +1,6 @@
 
-[![Demon Summoning Part 2, (Receive a Receipt)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rBETXQfdGxWjiaG2erchX/1689791896561)]()
-# Demon Summoning Part 2, (Receive a Receipt) 
+[![Demon Summoning Part 2, (Receive a Receipt)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rBETXQfdGxWjiaG2erchX/1689791896561)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rBETXQfdGxWjiaG2erchX%22%2C%22flow%22%3Atrue%7D%7D)
+# Demon Summoning Part 2, (Receive a Receipt) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rBETXQfdGxWjiaG2erchX%22%2C%22flow%22%3Atrue%7D%7D)
 If you are here, I assume you have been to 'Demon Summoning' already. When you receive your demon (or not), you are welcome to come here to receive a receipt for your demonic friend! It will give you much information on your demon...
 
 # Prompt

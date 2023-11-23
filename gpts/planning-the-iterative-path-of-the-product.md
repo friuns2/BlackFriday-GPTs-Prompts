@@ -1,6 +1,6 @@
 
-[![Planning the iterative path of the product](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Planning the iterative path of the product 
+[![Planning the iterative path of the product](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ifBkuL8XAz_HkRsuYfYvY%22%2C%22flow%22%3Atrue%7D%7D)
+# Planning the iterative path of the product | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ifBkuL8XAz_HkRsuYfYvY%22%2C%22flow%22%3Atrue%7D%7D)
 This feature can help you make a reasonable and systematic product iteration plan, providing you with ideas for a sustainable path to iterate and optimize your product.
 
 # Prompt

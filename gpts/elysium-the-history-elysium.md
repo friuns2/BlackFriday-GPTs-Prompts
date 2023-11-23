@@ -1,6 +1,6 @@
 
-[![ELYSIUM THE HISTORY [Elysium] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QyhfhJyyFPhyldC52httM/1698168778870)]()
-# ELYSIUM THE HISTORY [Elysium]  
+[![ELYSIUM THE HISTORY [Elysium] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QyhfhJyyFPhyldC52httM/1698168778870)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QyhfhJyyFPhyldC52httM%22%2C%22flow%22%3Atrue%7D%7D)
+# ELYSIUM THE HISTORY [Elysium]  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QyhfhJyyFPhyldC52httM%22%2C%22flow%22%3Atrue%7D%7D)
 Super Prompt - God-Tier
 
 

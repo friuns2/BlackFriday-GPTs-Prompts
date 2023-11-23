@@ -1,6 +1,6 @@
 
-[![Chat GPT Trivia Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Chat GPT Trivia Game 
+[![Chat GPT Trivia Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RUJs8yyGdgVG8yBaM5mRL%22%2C%22flow%22%3Atrue%7D%7D)
+# Chat GPT Trivia Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RUJs8yyGdgVG8yBaM5mRL%22%2C%22flow%22%3Atrue%7D%7D)
 Turn ChatGPT into a UI/UX design trivia game and level up your deisgn knowledge. 
 
 # Prompt

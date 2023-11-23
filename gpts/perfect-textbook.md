@@ -1,6 +1,6 @@
 
-[![Perfect Textbook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686346858738)]()
-# Perfect Textbook 
+[![Perfect Textbook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686346858738)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2g3fuGs9Q9iqB97FCwfK%22%2C%22flow%22%3Atrue%7D%7D)
+# Perfect Textbook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2g3fuGs9Q9iqB97FCwfK%22%2C%22flow%22%3Atrue%7D%7D)
 Generate your perfect textbook on any topic, from any level of understanding. The prompt will gauge what you want to learn and what your understanding is (if any), then it writes you the book, complete with tutorials and exercises.
 
 # Prompt

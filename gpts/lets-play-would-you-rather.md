@@ -1,6 +1,6 @@
 
-[![Let's play "Would You Rather"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Let's play "Would You Rather" 
+[![Let's play "Would You Rather"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wegvfvNBqQV_oTOPWVwqL%22%2C%22flow%22%3Atrue%7D%7D)
+# Let's play "Would You Rather" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wegvfvNBqQV_oTOPWVwqL%22%2C%22flow%22%3Atrue%7D%7D)
 Let's play "Would You Rather" together. You can choose any topic to start
 
 # Prompt

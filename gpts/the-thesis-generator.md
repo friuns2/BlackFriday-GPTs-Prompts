@@ -1,6 +1,6 @@
 
-[![The Thesis Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# The Thesis Generator 
+[![The Thesis Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTR8ks4-10LIG1HQBFFYB%22%2C%22flow%22%3Atrue%7D%7D)
+# The Thesis Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTR8ks4-10LIG1HQBFFYB%22%2C%22flow%22%3Atrue%7D%7D)
 Craft powerful thesis statements with the help of an AI assistant. Provide your topic, audience, and requirements, and get a clear, concise, and arguable thesis statement. Perfect for students struggling with research paper writing.
 
 # Prompt

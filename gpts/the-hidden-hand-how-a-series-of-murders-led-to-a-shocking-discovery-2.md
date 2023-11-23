@@ -1,6 +1,6 @@
 
-[![Symbol Hunt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Symbol Hunt 
+[![Symbol Hunt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TBilohkbBi5rzwmE0JtM0%22%2C%22flow%22%3Atrue%7D%7D)
+# Symbol Hunt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TBilohkbBi5rzwmE0JtM0%22%2C%22flow%22%3Atrue%7D%7D)
 Join the captivating journey in Symbol Hunt, an immersive detective game where you unravel a series of murders connected by a mysterious symbol. Dive deeper into the case and uncover clues that will lead you to a secret organization with a sinister agenda of manipulating world events and controlling humanity's fate. As a detective, you must act quickly to stop them before it's too late. Can you crack the code and save the world in time? Play Symbol Hunt now and put your detective skills to the ultimate test!
 
 # Prompt

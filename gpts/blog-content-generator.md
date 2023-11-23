@@ -1,6 +1,6 @@
 
-[![Blog Content Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# Blog Content Generator 
+[![Blog Content Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzW6PhJNCa3Km_a6eDMUm%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Content Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzW6PhJNCa3Km_a6eDMUm%22%2C%22flow%22%3Atrue%7D%7D)
 "The Blog Expert" is your AI-powered blogging assistant, designed to guide users through a structured process of content creation. Beginning with topic suggestions, the expert curates a list of five potential themes based on user input. Once a theme is chosen, it further narrows down into three unique blog post ideas, even challenging prevailing narratives.
 
 

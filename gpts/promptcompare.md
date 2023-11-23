@@ -1,6 +1,6 @@
 
-[![PromptCompare](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# PromptCompare 
+[![PromptCompare](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rA4gujaxlpg7fedomwA8%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptCompare | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rA4gujaxlpg7fedomwA8%22%2C%22flow%22%3Atrue%7D%7D)
 PromptCompare is a powerful tool that performs a comprehensive analysis of two prompts, evaluating their quality, relevance, coherence, and overall effectiveness. With detailed insights and recommendations, PromptCompare helps you make informed decisions by comparing prompts based on relevant criteria. Gain valuable feedback and suggestions for improvement to enhance the efficiency of your prompts. Stay ahead of the competition with PromptCompare!
 
 # Prompt

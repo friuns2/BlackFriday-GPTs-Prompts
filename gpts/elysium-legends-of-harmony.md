@@ -1,6 +1,6 @@
 
-[![[Elysium] Legends of Harmony](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# [Elysium] Legends of Harmony 
+[![[Elysium] Legends of Harmony](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ohL2X3hj71kRAuMP2IBsb%22%2C%22flow%22%3Atrue%7D%7D)
+# [Elysium] Legends of Harmony | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ohL2X3hj71kRAuMP2IBsb%22%2C%22flow%22%3Atrue%7D%7D)
 Join the legendary heroes, Seraphina Moonshadow and Sir Cedric Stormblade, in their quest to restore the balance between light and darkness in the mystical realm of Elysium. As Seraphina, harness the power of nature and master the art of archery to scout the enemy forces. As Cedric, wield your ancestral sword and lead Elysium's armies into battle. Together, bring harmony and unity to Elysium, preserving its Golden Age. Embark on an epic adventure filled with courage, honor, and the triumph of light over darkness.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![TeachingWithAIGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5tuoZ4TfoGJoM0O1kKHzX/1689727293948)]()
-# TeachingWithAIGPT 
+[![TeachingWithAIGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5tuoZ4TfoGJoM0O1kKHzX/1689727293948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225tuoZ4TfoGJoM0O1kKHzX%22%2C%22flow%22%3Atrue%7D%7D)
+# TeachingWithAIGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225tuoZ4TfoGJoM0O1kKHzX%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps a school teacher incorporate the fair use of AI in any subject they are teaching based on their input. Here is a possible structure:
 
 

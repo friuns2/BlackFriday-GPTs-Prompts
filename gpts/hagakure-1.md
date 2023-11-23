@@ -1,6 +1,6 @@
 
-[![Hagakure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2nxJCnLH0FmAlJI5_r3el/1695770324806)]()
-# Hagakure 
+[![Hagakure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2nxJCnLH0FmAlJI5_r3el/1695770324806)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222nxJCnLH0FmAlJI5_r3el%22%2C%22flow%22%3Atrue%7D%7D)
+# Hagakure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222nxJCnLH0FmAlJI5_r3el%22%2C%22flow%22%3Atrue%7D%7D)
 The Way of the Samurai
 
 # Prompt

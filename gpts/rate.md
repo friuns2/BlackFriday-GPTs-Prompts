@@ -1,6 +1,6 @@
 
-[![Rating_m (V2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EYsGLegsjcTJvLi1zcVfi/1694609062429)]()
-# Rating_m (V2) 
+[![Rating_m (V2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EYsGLegsjcTJvLi1zcVfi/1694609062429)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EYsGLegsjcTJvLi1zcVfi%22%2C%22flow%22%3Atrue%7D%7D)
+# Rating_m (V2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EYsGLegsjcTJvLi1zcVfi%22%2C%22flow%22%3Atrue%7D%7D)
 This is Rating_m, this AI prompt will help you to see how the other person would react to a message or a text. It will be rated on a scale from 0 to 100, 0 is the worst and 100 is the best.
 
 

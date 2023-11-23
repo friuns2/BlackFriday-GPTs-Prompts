@@ -1,6 +1,6 @@
 
-[![Translation of text, article](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Translation of text, article 
+[![Translation of text, article](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gsaB_-5Fm2BDcgJGBwx8n%22%2C%22flow%22%3Atrue%7D%7D)
+# Translation of text, article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gsaB_-5Fm2BDcgJGBwx8n%22%2C%22flow%22%3Atrue%7D%7D)
 Send the desired text and select the desired language
 
 # Prompt

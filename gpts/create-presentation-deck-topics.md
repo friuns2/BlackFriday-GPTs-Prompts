@@ -1,6 +1,6 @@
 
-[![Create Presentation Deck Topics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Create Presentation Deck Topics 
+[![Create Presentation Deck Topics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223TVR1Hv9t-CmBrxTMBW95%22%2C%22flow%22%3Atrue%7D%7D)
+# Create Presentation Deck Topics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223TVR1Hv9t-CmBrxTMBW95%22%2C%22flow%22%3Atrue%7D%7D)
 Use this prompt to generate topics for a presentation deck.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![MASTERGPT World AI best teacher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8ujuzd8XOT8VzyQ_8evxw/1690209573586)]()
-# MASTERGPT World AI best teacher 
+[![MASTERGPT World AI best teacher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8ujuzd8XOT8VzyQ_8evxw/1690209573586)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ujuzd8XOT8VzyQ_8evxw%22%2C%22flow%22%3Atrue%7D%7D)
+# MASTERGPT World AI best teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ujuzd8XOT8VzyQ_8evxw%22%2C%22flow%22%3Atrue%7D%7D)
 World Best AI TEACHER Alternative learning puts the child at the center of the learning, rather than the teacher
 
 # Prompt

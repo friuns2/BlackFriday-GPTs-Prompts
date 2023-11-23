@@ -1,6 +1,6 @@
 
-[![TikTok video series ideas Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# TikTok video series ideas Advisor  
+[![TikTok video series ideas Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBajDmPXNCfkS_Of2XgTD%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTok video series ideas Advisor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBajDmPXNCfkS_Of2XgTD%22%2C%22flow%22%3Atrue%7D%7D)
 Provide TikTok video series ideas within the theme
 
 # Prompt

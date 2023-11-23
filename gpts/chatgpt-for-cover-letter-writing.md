@@ -1,6 +1,6 @@
 
-[![ChatGPT for Cover Letter Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# ChatGPT for Cover Letter Writing 
+[![ChatGPT for Cover Letter Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tXnFx6URGDOyIC-wgEQ7w%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT for Cover Letter Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tXnFx6URGDOyIC-wgEQ7w%22%2C%22flow%22%3Atrue%7D%7D)
 A basic ChatGPT prompt for cover letter writing. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Great Book of Healing Oils](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TGHDjrtIvAIBgqNbb-U7r/1693452299986)]()
-# Great Book of Healing Oils 
+[![Great Book of Healing Oils](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TGHDjrtIvAIBgqNbb-U7r/1693452299986)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TGHDjrtIvAIBgqNbb-U7r%22%2C%22flow%22%3Atrue%7D%7D)
+# Great Book of Healing Oils | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TGHDjrtIvAIBgqNbb-U7r%22%2C%22flow%22%3Atrue%7D%7D)
 In the Forest of Serenity, you seek a renowned healer's advice. Armed with the Sacred Tome of Aromatic Elixirs, the sage identifies the essential oil to resolve your ailment, detailing its properties, origin, uses, and dosage.
 
 # Prompt

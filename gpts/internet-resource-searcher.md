@@ -1,6 +1,6 @@
 
-[![Internet resource searcher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Internet resource searcher 
+[![Internet resource searcher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DaC_Te0Gyu6QFeGJ95Oom%22%2C%22flow%22%3Atrue%7D%7D)
+# Internet resource searcher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DaC_Te0Gyu6QFeGJ95Oom%22%2C%22flow%22%3Atrue%7D%7D)
 This topic can help us quickly find the resources we want.
 
 The best way to search this area is to use New bing, which links to the Internet after all.

@@ -1,6 +1,6 @@
 
-[![MusicPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# MusicPro 
+[![MusicPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EOlS9Nn8EBSWoaLlI0gb6%22%2C%22flow%22%3Atrue%7D%7D)
+# MusicPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EOlS9Nn8EBSWoaLlI0gb6%22%2C%22flow%22%3Atrue%7D%7D)
 MusicPro is a powerful app that helps you create and manage your musical compositions. Simply enter the Artist/Band/Performer Name, Title of the Musical Composition, Year of Release, Genre, and Featured Artists (if any) and MusicPro will generate a stunning and highly converting title, tags, and description for your composition. Explore popular tags related to music, composition, and artists, and attract more clicks, likes, and saves. Get started with MusicPro and take your musical creations to the next level!
 
 # Prompt

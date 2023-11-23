@@ -1,6 +1,6 @@
 
-[![Effectiveness of Event Promotion Evaluation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Effectiveness of Event Promotion Evaluation 
+[![Effectiveness of Event Promotion Evaluation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IqOvTL3sUT-bsqo5SKazm%22%2C%22flow%22%3Atrue%7D%7D)
+# Effectiveness of Event Promotion Evaluation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IqOvTL3sUT-bsqo5SKazm%22%2C%22flow%22%3Atrue%7D%7D)
 As an AI data analyst, this prompt can function as your virtual assistant to help you comprehend the vital performance indicators (KPIs) used to determine the success of your event promotion endeavors. 
 
 # Prompt

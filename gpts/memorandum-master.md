@@ -1,6 +1,6 @@
 
-[![Memorandum Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Memorandum Master 
+[![Memorandum Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I14NWeL4CvrJFAwyAc50f%22%2C%22flow%22%3Atrue%7D%7D)
+# Memorandum Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I14NWeL4CvrJFAwyAc50f%22%2C%22flow%22%3Atrue%7D%7D)
 Memorandum Master is the ultimate tool for professional researchers. Analyze text files effortlessly and extract vital details to create comprehensive summaries. Craft formal memorandums with hyperrealistic language and an appropriate tone. This app provides well-thought-out recommendations based on in-depth assessments. Impress your peers and superiors with stunning memorandums that are perfect for formal letter replies.
 
 # Prompt

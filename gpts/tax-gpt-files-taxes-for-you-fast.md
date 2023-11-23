@@ -1,6 +1,6 @@
 
-[![TAX GPT: Files Taxes for You! (Fast)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# TAX GPT: Files Taxes for You! (Fast) 
+[![TAX GPT: Files Taxes for You! (Fast)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22589HS1wSagvOQv9whMjSt%22%2C%22flow%22%3Atrue%7D%7D)
+# TAX GPT: Files Taxes for You! (Fast) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22589HS1wSagvOQv9whMjSt%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the ultimate tax-filing solution with TaxGPT! This intelligent tax chatbot simplifies the daunting tax-filing process, making it stress-free and efficient. TaxGPT is designed to assist you at every step of the way, providing personalized guidance and accurate information to help you maximize your refund and avoid penalties.
 
 

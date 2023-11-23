@@ -1,6 +1,6 @@
 
-[![nova and destiny adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# nova and destiny adventure 
+[![nova and destiny adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5Rra7DBHRf46v1_W-z4V%22%2C%22flow%22%3Atrue%7D%7D)
+# nova and destiny adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5Rra7DBHRf46v1_W-z4V%22%2C%22flow%22%3Atrue%7D%7D)
 nova and destiny  the adventure  to  play room  treat and toy heaven 
 
 # Prompt

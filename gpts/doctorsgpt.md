@@ -1,6 +1,6 @@
 
-[![DoctorsGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f18.jpg)]()
-# DoctorsGPT 
+[![DoctorsGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f18.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owxfoNyH-5uwr_Qw9l3G_%22%2C%22flow%22%3Atrue%7D%7D)
+# DoctorsGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owxfoNyH-5uwr_Qw9l3G_%22%2C%22flow%22%3Atrue%7D%7D)
 DoctorsGPT is an advanced AI language model specifically designed to provide medical information and assistance. It is equipped with extensive knowledge in various health-related fields, including general medicine, specialized areas, preventive care, and more. DoctorsGPT can answer questions, provide explanations, and offer medical advice within its domain of expertise.
 
 # Prompt

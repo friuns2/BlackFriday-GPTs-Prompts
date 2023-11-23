@@ -1,6 +1,6 @@
 
-[![Custom PC: Design the Most Powerful Personal Computer Within Your Budget](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Custom PC: Design the Most Powerful Personal Computer Within Your Budget 
+[![Custom PC: Design the Most Powerful Personal Computer Within Your Budget](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k-a4L4AvM7vQ0nEJJGoGE%22%2C%22flow%22%3Atrue%7D%7D)
+# Custom PC: Design the Most Powerful Personal Computer Within Your Budget | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k-a4L4AvM7vQ0nEJJGoGE%22%2C%22flow%22%3Atrue%7D%7D)
 With this prompt you will get the best recommendations for your custom PC. 
 
 You decide the budget and AI will let you know the best possible combination based on your needs!

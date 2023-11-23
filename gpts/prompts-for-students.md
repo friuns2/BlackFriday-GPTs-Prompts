@@ -1,6 +1,6 @@
 
-[![Prompts for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Prompts for Students 
+[![Prompts for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zbJZoF2uR5Uh3iwJ_MJQl%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompts for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zbJZoF2uR5Uh3iwJ_MJQl%22%2C%22flow%22%3Atrue%7D%7D)
 Balancing studying and your private life when you’re a student is difficult, so why make your life easier with ChatGPT? ChatGPT can suggest note-taking techniques, structure essays for you on scientific principles, and much more. ChatGPT can simplify your daily grind so you can make the most of your college years.
 
 # Prompt

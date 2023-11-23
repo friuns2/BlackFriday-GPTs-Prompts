@@ -1,6 +1,6 @@
 
-[![English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021 
+[![English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_SlZZKKhym2t0uec7LT_%22%2C%22flow%22%3Atrue%7D%7D)
+# English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_SlZZKKhym2t0uec7LT_%22%2C%22flow%22%3Atrue%7D%7D)
 Vocabulary above B1 level, phrasal verbs and idioms, some grammatical rules - WARNING: given that GPT chat only has data up until 2021, some songs may cause confusion for it
 
 # Prompt

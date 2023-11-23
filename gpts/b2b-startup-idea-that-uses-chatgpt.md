@@ -1,6 +1,6 @@
 
-[![B2B startup idea that uses chatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# B2B startup idea that uses chatGPT 
+[![B2B startup idea that uses chatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228872327d-8b13-402b-9496-3d4ecf836b8e%22%2C%22flow%22%3Atrue%7D%7D)
+# B2B startup idea that uses chatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228872327d-8b13-402b-9496-3d4ecf836b8e%22%2C%22flow%22%3Atrue%7D%7D)
 What are B2B startup idea that uses chatGPT?
 
 # Prompt

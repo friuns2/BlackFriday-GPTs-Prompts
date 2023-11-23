@@ -1,6 +1,6 @@
 
-[![Industry Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Industry Report 
+[![Industry Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toL2zTuFPFc9YHX3j4e8jT%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry Report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toL2zTuFPFc9YHX3j4e8jT%22%2C%22flow%22%3Atrue%7D%7D)
 An outline of a typical industry report and an example of an industry report discussing the performance of open education resources industry.
 
 # Prompt

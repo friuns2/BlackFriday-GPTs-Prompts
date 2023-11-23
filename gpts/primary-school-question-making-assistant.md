@@ -1,6 +1,6 @@
 
-[![Primary School Question-Making Assistant（小学出题助手）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# Primary School Question-Making Assistant（小学出题助手） 
+[![Primary School Question-Making Assistant（小学出题助手）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FhV4MHBH8Y-uoWFuHg-EQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Primary School Question-Making Assistant（小学出题助手） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FhV4MHBH8Y-uoWFuHg-EQ%22%2C%22flow%22%3Atrue%7D%7D)
 Primary School Question-Making Assistant（小学出题助手）
 
 # Prompt

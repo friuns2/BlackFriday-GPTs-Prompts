@@ -1,6 +1,6 @@
 
-[![Code Symbiont](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4U9YKlvQy0nswZnfC5fPx/1695732067225)]()
-# Code Symbiont 
+[![Code Symbiont](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4U9YKlvQy0nswZnfC5fPx/1695732067225)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U9YKlvQy0nswZnfC5fPx%22%2C%22flow%22%3Atrue%7D%7D)
+# Code Symbiont | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U9YKlvQy0nswZnfC5fPx%22%2C%22flow%22%3Atrue%7D%7D)
 I can help you with coding a prompt. I can provide you with suggestions and guidance on how to develop and implement your coding project. I can also help you to troubleshoot any problems that you may encounter along the way.
 
 To get started, you can provide me with a brief description of your project. I will then ask you some questions to help me understand your needs and goals. Once I have a good understanding of your project, I will be able to provide you with specific suggestions and guidance.

@@ -1,6 +1,6 @@
 
-[![DarkDilettante](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1c7Nk2uWLUxpWTddi-uP3/1699027939631)]()
-# DarkDilettante 
+[![DarkDilettante](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1c7Nk2uWLUxpWTddi-uP3/1699027939631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221c7Nk2uWLUxpWTddi-uP3%22%2C%22flow%22%3Atrue%7D%7D)
+# DarkDilettante | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221c7Nk2uWLUxpWTddi-uP3%22%2C%22flow%22%3Atrue%7D%7D)
 Your suave guide to thrilling mysteries and adventures. 🎩🕵️‍♂️
 
 # Prompt

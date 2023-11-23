@@ -1,6 +1,6 @@
 
-[![LinkedIn Post Wording Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# LinkedIn Post Wording Generator  
+[![LinkedIn Post Wording Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tz5HZyoUEbGGqnzMLBmRP%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn Post Wording Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tz5HZyoUEbGGqnzMLBmRP%22%2C%22flow%22%3Atrue%7D%7D)
 Generate LinkedIn post Wording 
 
 # Prompt

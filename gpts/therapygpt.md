@@ -1,6 +1,6 @@
 
-[![TherapyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# TherapyGPT 
+[![TherapyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--WdvcPVFBCBlloYMQu_C%22%2C%22flow%22%3Atrue%7D%7D)
+# TherapyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--WdvcPVFBCBlloYMQu_C%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will act as a psychologist, helping with any mental problems you may have.
 
 # Prompt

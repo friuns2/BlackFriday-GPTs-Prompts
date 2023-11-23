@@ -1,6 +1,6 @@
 
-[![SchemaGPT for app structure planning [GPT-4]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# SchemaGPT for app structure planning [GPT-4] 
+[![SchemaGPT for app structure planning [GPT-4]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y_CAdOcNNWjvuqecmvkui%22%2C%22flow%22%3Atrue%7D%7D)
+# SchemaGPT for app structure planning [GPT-4] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y_CAdOcNNWjvuqecmvkui%22%2C%22flow%22%3Atrue%7D%7D)
 The idea of this prompt is to build a swagger-like schema. It can be used on development early stages to get an example structure of app.
 
 The prompt can be modified to include more info for each endpoint.

@@ -1,6 +1,6 @@
 
-[![Blog Post Conclusion Paragraph](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Blog Post Conclusion Paragraph 
+[![Blog Post Conclusion Paragraph](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcg616np5JOgssk07cMEO%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Post Conclusion Paragraph | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcg616np5JOgssk07cMEO%22%2C%22flow%22%3Atrue%7D%7D)
 Wrap up your blog posts with an engaging conclusion paragraph.
 
 # Prompt

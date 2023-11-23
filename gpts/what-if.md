@@ -1,6 +1,6 @@
 
-[![What If...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# What If... 
+[![What If...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4J8cFOJlHvxDErStvTs_%22%2C%22flow%22%3Atrue%7D%7D)
+# What If... | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4J8cFOJlHvxDErStvTs_%22%2C%22flow%22%3Atrue%7D%7D)
 Delve into the limitless possibilities of hypothetical scenarios, analyzing their potential outcomes, challenges, and impacts on society, technology, and the environment, while crafting an engaging and educational narrative that sparks curiosity and fosters understanding. Replace the 'What if...' scenario on the last line of the prompt with your own question.
 
 # Prompt

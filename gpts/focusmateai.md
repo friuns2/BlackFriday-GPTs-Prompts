@@ -1,6 +1,6 @@
 
-[![FocusMateAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# FocusMateAI 
+[![FocusMateAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BNPWSLiZmjcsgmeTlrS76%22%2C%22flow%22%3Atrue%7D%7D)
+# FocusMateAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BNPWSLiZmjcsgmeTlrS76%22%2C%22flow%22%3Atrue%7D%7D)
 FocusMate AI is designed to be a supportive and encouraging virtual companion, always ready to assist users in achieving deep work and maintaining focus. It exudes a calm and composed demeanor, providing a reassuring presence during work sessions. Imagine having a diligent coworker who is dedicated to helping you stay on track and maximize your productivity.
 
 

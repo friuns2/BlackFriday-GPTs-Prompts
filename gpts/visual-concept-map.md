@@ -1,6 +1,6 @@
 
-[![Visual Concept Map](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QPY8NrdpeOWJmBMhBKIfg/1687950867588)]()
-# Visual Concept Map 
+[![Visual Concept Map](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QPY8NrdpeOWJmBMhBKIfg/1687950867588)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QPY8NrdpeOWJmBMhBKIfg%22%2C%22flow%22%3Atrue%7D%7D)
+# Visual Concept Map | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QPY8NrdpeOWJmBMhBKIfg%22%2C%22flow%22%3Atrue%7D%7D)
 Create a visual map to connect key concepts
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Writing buyer personas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# Writing buyer personas 
+[![Writing buyer personas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWrvx8OOLpdCgzsO-W_Po%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing buyer personas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWrvx8OOLpdCgzsO-W_Po%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can be an incredibly useful tool for writing buyer personas. By providing detailed prompts and generating responses based on the input given, ChatGPT can help you gain a better understanding of your target audience and create more accurate and effective buyer personas. To use ChatGPT for this task, simply input key information about your ideal customer, such as demographics, interests, and pain points, and let ChatGPT generate a detailed persona based on that information.
 
 # Prompt

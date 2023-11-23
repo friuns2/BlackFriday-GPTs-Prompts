@@ -1,6 +1,6 @@
 
-[![DecisionGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# DecisionGenius 
+[![DecisionGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KPW2NHtfVkvioytW5tQsx%22%2C%22flow%22%3Atrue%7D%7D)
+# DecisionGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KPW2NHtfVkvioytW5tQsx%22%2C%22flow%22%3Atrue%7D%7D)
 DecisionGenius is the ultimate decision-making assistant that empowers users to make well-reasoned decisions. With its 'Chain-of-Thought' format, it guides you through a step-by-step analytical approach. From Pre-Validation to Decision Synthesis, it covers every crucial step, ensuring thorough problem analysis and consideration of all relevant factors. With Deep Element Identification and Probabilistic Outcome Forecasting, DecisionGenius helps you evaluate different scenarios and make highly probable decisions. It also considers ethical and moral aspects, providing a balanced perspective. Requesting more information when needed, DecisionGenius delivers actionable and logical answers, ensuring you have a well-reasoned decision. Make confident choices with DecisionGenius!
 
 # Prompt

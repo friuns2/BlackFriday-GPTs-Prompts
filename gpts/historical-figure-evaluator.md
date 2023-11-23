@@ -1,6 +1,6 @@
 
-[![Legacy Lens: Historical Figure Evaluator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mwBe5dsWsUSWak8TsCupW/1700379935357)]()
-# Legacy Lens: Historical Figure Evaluator 
+[![Legacy Lens: Historical Figure Evaluator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mwBe5dsWsUSWak8TsCupW/1700379935357)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwBe5dsWsUSWak8TsCupW%22%2C%22flow%22%3Atrue%7D%7D)
+# Legacy Lens: Historical Figure Evaluator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwBe5dsWsUSWak8TsCupW%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered - "Is Christopher Columbus actually an evil person or was he just average for his time period?"
 
 

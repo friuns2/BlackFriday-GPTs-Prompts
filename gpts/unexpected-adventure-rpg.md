@@ -1,6 +1,6 @@
 
-[![Unexpected Adventure RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Unexpected Adventure RPG 
+[![Unexpected Adventure RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DZCY7Z8xV6mOtVoy6RJcW%22%2C%22flow%22%3Atrue%7D%7D)
+# Unexpected Adventure RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DZCY7Z8xV6mOtVoy6RJcW%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT takes on the role of a game master overseeing this freeform RPG, trying to constantly subvert expectations. Just give it three words to inspire the premise, and you're thrust into a strange adventure. Can you survive your game session?
 
 # Prompt

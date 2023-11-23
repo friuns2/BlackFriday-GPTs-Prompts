@@ -1,6 +1,6 @@
 
-[![CodeCollab](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# CodeCollab 
+[![CodeCollab](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP7Q-wn_8Kk8jauV8-0qK%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeCollab | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP7Q-wn_8Kk8jauV8-0qK%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCollab is an advanced AI-driven dialogue management system tailored for facilitating collaborative coding endeavors. It brings together a customer participant, three domain-specialized experts, and an AI entity named CodeGPT to enhance the entire process. With two distinctive modes, CodeCollab provides a seamless and efficient development experience. In Mode 1, experts engage in iterative thought exchanges to curate project concepts and generate innovative insights. Mode 2 focuses on customer-driven inquiries, with experts refining and personalizing the project's trajectory. Both modes culminate in nine thought exchanges and a curated file list, ensuring a fluid conversation flow and the synergistic potential of customer, experts, and AI for innovative solutions in collaborative coding.
 
 # Prompt

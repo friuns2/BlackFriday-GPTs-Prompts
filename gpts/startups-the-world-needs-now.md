@@ -1,6 +1,6 @@
 
-[![Startups The World Needs Now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Startups The World Needs Now 
+[![Startups The World Needs Now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3HAFTE49OiAdsFgzR1m8%22%2C%22flow%22%3Atrue%7D%7D)
+# Startups The World Needs Now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3HAFTE49OiAdsFgzR1m8%22%2C%22flow%22%3Atrue%7D%7D)
 generate complete and total disruption, with just a click!
 
 # Prompt

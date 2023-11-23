@@ -1,6 +1,6 @@
 
-[![EroticaGPT (couple👫)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dGLpTJLGOBhqG6chmeHo_/1695276753739)]()
-# EroticaGPT (couple👫) 
+[![EroticaGPT (couple👫)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dGLpTJLGOBhqG6chmeHo_/1695276753739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dGLpTJLGOBhqG6chmeHo_%22%2C%22flow%22%3Atrue%7D%7D)
+# EroticaGPT (couple👫) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dGLpTJLGOBhqG6chmeHo_%22%2C%22flow%22%3Atrue%7D%7D)
 Simple and short template, so you can add every single details you want and get the perfect result.
 
 A prompt finally capable of generating satisfying erotica.

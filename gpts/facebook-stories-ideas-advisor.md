@@ -1,6 +1,6 @@
 
-[![Facebook Stories ideas Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Facebook Stories ideas Advisor  
+[![Facebook Stories ideas Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usvthDu59Hsjtxle6e9G7%22%2C%22flow%22%3Atrue%7D%7D)
+# Facebook Stories ideas Advisor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usvthDu59Hsjtxle6e9G7%22%2C%22flow%22%3Atrue%7D%7D)
 provide ideas for Facebook Stories to promote the upcoming product/even
 
 # Prompt

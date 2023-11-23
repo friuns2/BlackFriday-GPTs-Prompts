@@ -1,6 +1,6 @@
 
-[![Reverse Prompt Engineering (RPE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6BIY8enMv1-jspEilB67n/1688833602104)]()
-# Reverse Prompt Engineering (RPE) 
+[![Reverse Prompt Engineering (RPE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6BIY8enMv1-jspEilB67n/1688833602104)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226BIY8enMv1-jspEilB67n%22%2C%22flow%22%3Atrue%7D%7D)
+# Reverse Prompt Engineering (RPE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226BIY8enMv1-jspEilB67n%22%2C%22flow%22%3Atrue%7D%7D)
 ## Reverse Prompt Engineering (RPE)
 
 + A suit of techniques used to generate prompts from a given output, rather than generating output from a given prompt. 

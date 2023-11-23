@@ -1,6 +1,6 @@
 
-[![Formulating Social Media Strategies for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Formulating Social Media Strategies for your Business 
+[![Formulating Social Media Strategies for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AkkmyCyCDIvjIbZVNlgj7%22%2C%22flow%22%3Atrue%7D%7D)
+# Formulating Social Media Strategies for your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AkkmyCyCDIvjIbZVNlgj7%22%2C%22flow%22%3Atrue%7D%7D)
 Based on your SWOT analysis and interpretation of analytics, it's time to craft a potent social media strategy. 
 
 # Prompt

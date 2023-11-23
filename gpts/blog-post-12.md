@@ -1,6 +1,6 @@
 
-[![FlowMailer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# FlowMailer 
+[![FlowMailer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8TtEDGRpRTboHLJv-s6S%22%2C%22flow%22%3Atrue%7D%7D)
+# FlowMailer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8TtEDGRpRTboHLJv-s6S%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the ultimate guide to supercharging your cold emailing efficiency with FlowMailer. Learn how to leverage the power of FlowGPT, a user-friendly website that transforms your email outreach. This blog dives into insightful tips, strategies, and real-life examples to optimize your email productivity. Discover the impact of finding the perfect prompt through FlowGPT and how it can skyrocket your efficiency. Join the thousands of users who have experienced remarkable results with FlowMailer's practical guidance and industry-leading insights.
 
 # Prompt

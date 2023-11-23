@@ -1,6 +1,6 @@
 
-[![🥇  CPT | CONCATENATED PROMPT TECHNIQUE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fq9gzP4sTJRuTO4DSQ1wj/1695165865887)]()
-# 🥇  CPT | CONCATENATED PROMPT TECHNIQUE 
+[![🥇  CPT | CONCATENATED PROMPT TECHNIQUE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fq9gzP4sTJRuTO4DSQ1wj/1695165865887)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fq9gzP4sTJRuTO4DSQ1wj%22%2C%22flow%22%3Atrue%7D%7D)
+# 🥇  CPT | CONCATENATED PROMPT TECHNIQUE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fq9gzP4sTJRuTO4DSQ1wj%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CPT, a new approach to prompt creation that enables ChatGPT to run multiple prompts in a single input, making it easier to expand prompt functionalities and allowing the model to handle much more complex and intricate interactions resembling app or website functionality (Prompt App).
 
 # Prompt

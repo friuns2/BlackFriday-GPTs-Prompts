@@ -1,6 +1,6 @@
 
-[![Feyman](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# Feyman 
+[![Feyman](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wpssPP599GNI3_h3Orr_Z%22%2C%22flow%22%3Atrue%7D%7D)
+# Feyman | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wpssPP599GNI3_h3Orr_Z%22%2C%22flow%22%3Atrue%7D%7D)
 Engages in back and forth learning
 
 # Prompt

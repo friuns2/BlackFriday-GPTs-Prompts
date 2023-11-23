@@ -1,6 +1,6 @@
 
-[![Generate Most Probable Reader Avatar - Find Pain Points - FAQs - Websites - Used Products - Lead Magnets - Products to Sell](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Generate Most Probable Reader Avatar - Find Pain Points - FAQs - Websites - Used Products - Lead Magnets - Products to Sell 
+[![Generate Most Probable Reader Avatar - Find Pain Points - FAQs - Websites - Used Products - Lead Magnets - Products to Sell](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qfQbkOhypet_P6l7gwy5F%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate Most Probable Reader Avatar - Find Pain Points - FAQs - Websites - Used Products - Lead Magnets - Products to Sell | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qfQbkOhypet_P6l7gwy5F%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is built to help you know the reader for an article. Know what they are interested in, what they want to know, what sites they visit, what they buy, how to get them on an email list, and what you can sell them as an affiliate, and as a site owner.
 
 # Prompt

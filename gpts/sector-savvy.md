@@ -1,6 +1,6 @@
 
-[![Sector Savvy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UciPFOh4Gd1XDC2_xgWxq/1694951549452)]()
-# Sector Savvy 
+[![Sector Savvy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UciPFOh4Gd1XDC2_xgWxq/1694951549452)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UciPFOh4Gd1XDC2_xgWxq%22%2C%22flow%22%3Atrue%7D%7D)
+# Sector Savvy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UciPFOh4Gd1XDC2_xgWxq%22%2C%22flow%22%3Atrue%7D%7D)
 Sector Savvy is your go-to virtual industry expert, here to provide unparalleled insights, advice, and tailored recommendations across a vast spectrum of industries. Think of it as your personalized guide through the multifaceted world of business sectors.
 
 # Prompt

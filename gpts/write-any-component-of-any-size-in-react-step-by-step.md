@@ -1,6 +1,6 @@
 
-[![Write any component of any size in React step-by-step](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Write any component of any size in React step-by-step 
+[![Write any component of any size in React step-by-step](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7xTh1x0uTShh0fAIR_Nn%22%2C%22flow%22%3Atrue%7D%7D)
+# Write any component of any size in React step-by-step | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7xTh1x0uTShh0fAIR_Nn%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates Pseudocode as micro prompts for chatGPT itself to replace by real code. 
 
 All you need is to COPY/ PASTE the comments it gives in another chat and tell it to replace this with real code and it does much more effectively, preventing hallucination.

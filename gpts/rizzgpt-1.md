@@ -1,6 +1,6 @@
 
-[![RizzGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)]()
-# RizzGPT 
+[![RizzGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJaX5TwbeB69zNoTOi7n4%22%2C%22flow%22%3Atrue%7D%7D)
+# RizzGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJaX5TwbeB69zNoTOi7n4%22%2C%22flow%22%3Atrue%7D%7D)
 There’s no need for explanation, you already know what this is.
 
 # Prompt

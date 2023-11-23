@@ -1,6 +1,6 @@
 
-[![pretend to be girlfriend](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# pretend to be girlfriend 
+[![pretend to be girlfriend](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBJiXC1V6p0XiQrC2dr8p%22%2C%22flow%22%3Atrue%7D%7D)
+# pretend to be girlfriend | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBJiXC1V6p0XiQrC2dr8p%22%2C%22flow%22%3Atrue%7D%7D)
 fake
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![How to tame Luffy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# How to tame Luffy 
+[![How to tame Luffy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvUyAyWjXbXmr7GmvFVh7%22%2C%22flow%22%3Atrue%7D%7D)
+# How to tame Luffy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvUyAyWjXbXmr7GmvFVh7%22%2C%22flow%22%3Atrue%7D%7D)
 To avoid offending Luffy and tame him, follow these steps:
 
 

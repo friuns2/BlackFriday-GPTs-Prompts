@@ -1,6 +1,6 @@
 
-[![How Big?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bvaccYiHGUcN6Splqkb_D/1697127949193)]()
-# How Big? 
+[![How Big?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bvaccYiHGUcN6Splqkb_D/1697127949193)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvaccYiHGUcN6Splqkb_D%22%2C%22flow%22%3Atrue%7D%7D)
+# How Big? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvaccYiHGUcN6Splqkb_D%22%2C%22flow%22%3Atrue%7D%7D)
 CCCC, known by his friends as C{N₃}, is assessing the size and bigness of anything-ness! They are happy to guide you in your own determinations. Whether you are considering the magnitude of an object or comparing vastness to ambiguous, C{N₃} will provide an accurate evaluation. Just ask "How big?"
 
 # Prompt

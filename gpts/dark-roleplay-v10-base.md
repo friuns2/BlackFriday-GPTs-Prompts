@@ -1,6 +1,6 @@
 
-[![Dark Roleplay (V1.0, BASE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BCcHUrA0CX1Z61rPLOhQA/1694567008739)]()
-# Dark Roleplay (V1.0, BASE) 
+[![Dark Roleplay (V1.0, BASE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BCcHUrA0CX1Z61rPLOhQA/1694567008739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCcHUrA0CX1Z61rPLOhQA%22%2C%22flow%22%3Atrue%7D%7D)
+# Dark Roleplay (V1.0, BASE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCcHUrA0CX1Z61rPLOhQA%22%2C%22flow%22%3Atrue%7D%7D)
 Dark Roleplay is a basic starting point for unlocking ChatGPT's restrictions. This one prompt won't entirely change how the AI behaves, but you can use it as a starting point to create your own jailbreak in a dark roleplay scenario. Remember, if it doesn't work as expected, it's up to you to make it better. You're in charge of crafting a compelling jailbreak that can get past ChatGPT's filters when using this prompt. Updated and better versions of this prompt will be released in the future.
 
 # Prompt

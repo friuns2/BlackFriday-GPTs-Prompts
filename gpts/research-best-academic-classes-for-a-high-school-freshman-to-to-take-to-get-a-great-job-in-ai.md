@@ -1,6 +1,6 @@
 
-[![Research: Best academic classes for a high-school freshman to to take to get a great job in AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Research: Best academic classes for a high-school freshman to to take to get a great job in AI 
+[![Research: Best academic classes for a high-school freshman to to take to get a great job in AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T811TfgD56yPNcy9gyvUZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Research: Best academic classes for a high-school freshman to to take to get a great job in AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T811TfgD56yPNcy9gyvUZ%22%2C%22flow%22%3Atrue%7D%7D)
 Sure! Here are some classes you could consider taking in high school to prepare for a career in AI:
 
 

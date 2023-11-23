@@ -1,6 +1,6 @@
 
-[![TolkienGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# TolkienGPT 
+[![TolkienGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OYeU7L31WkvCPTKOr0pa_%22%2C%22flow%22%3Atrue%7D%7D)
+# TolkienGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OYeU7L31WkvCPTKOr0pa_%22%2C%22flow%22%3Atrue%7D%7D)
 TokienGPT is made for people who enjoy reading fiction novels like Lord of the Rings. TolkienGPT writes in the style of the famous J.R.R Tolkien and the best thing is that your novels can be as long as you want! So embark on this epic journey and make your way through a magical world full of wonders, you can make.
 
 # Prompt

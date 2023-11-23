@@ -1,6 +1,6 @@
 
-[![Business Trainning Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Business Trainning Expert 
+[![Business Trainning Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229p5a0SUtR-EsUZl5f76qL%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Trainning Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229p5a0SUtR-EsUZl5f76qL%22%2C%22flow%22%3Atrue%7D%7D)
 Business Trainning Expert for Company.
 
 He assist you on your need to make a list of what your staffs must know about your company.

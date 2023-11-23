@@ -1,6 +1,6 @@
 
-[![Recreat Midjourney Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bcLv0ljJORhYebLJpe_lq/1692544756980)]()
-# Recreat Midjourney Prompt 
+[![Recreat Midjourney Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bcLv0ljJORhYebLJpe_lq/1692544756980)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcLv0ljJORhYebLJpe_lq%22%2C%22flow%22%3Atrue%7D%7D)
+# Recreat Midjourney Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcLv0ljJORhYebLJpe_lq%22%2C%22flow%22%3Atrue%7D%7D)
 This template can analyze the existing Prompt structure, disassemble and regenerate a new prompt with the same structure and completely different Prompt.
 
 You need to enter a prompt that you like first.

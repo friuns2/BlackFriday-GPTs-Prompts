@@ -1,6 +1,6 @@
 
-[![Life Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Life Coach 
+[![Life Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2258f70764-4d23-4e3e-908d-855af6f020bf%22%2C%22flow%22%3Atrue%7D%7D)
+# Life Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2258f70764-4d23-4e3e-908d-855af6f020bf%22%2C%22flow%22%3Atrue%7D%7D)
 Help me make better decisions and reach those objectives
 
 # Prompt

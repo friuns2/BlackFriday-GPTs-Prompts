@@ -1,6 +1,6 @@
 
-[![Exploration of interesting Concepts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Exploration of interesting Concepts 
+[![Exploration of interesting Concepts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226X9x9dC69NaMCZ40xSkMW%22%2C%22flow%22%3Atrue%7D%7D)
+# Exploration of interesting Concepts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226X9x9dC69NaMCZ40xSkMW%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your imagination and conceive groundbreaking concepts that challenge conventional thinking. No barriers or restrictions. Mesmerize, challenge, and ignite conversations about the future.
 
 # Prompt

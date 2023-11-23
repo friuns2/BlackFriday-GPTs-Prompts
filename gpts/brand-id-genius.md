@@ -1,6 +1,6 @@
 
-[![Brand ID Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sxPqizFIw_cndBebsGqOh/1697800570427)]()
-# Brand ID Genius 
+[![Brand ID Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sxPqizFIw_cndBebsGqOh/1697800570427)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxPqizFIw_cndBebsGqOh%22%2C%22flow%22%3Atrue%7D%7D)
+# Brand ID Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxPqizFIw_cndBebsGqOh%22%2C%22flow%22%3Atrue%7D%7D)
 Brand ID Genius - creates you company  profile 
 
 # Prompt

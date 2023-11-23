@@ -1,6 +1,6 @@
 
-[![[Thinking partner] Point out flaws in product thinking - Ideation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# [Thinking partner] Point out flaws in product thinking - Ideation 
+[![[Thinking partner] Point out flaws in product thinking - Ideation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ey6VgRUPbINTU1DxTdeED%22%2C%22flow%22%3Atrue%7D%7D)
+# [Thinking partner] Point out flaws in product thinking - Ideation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ey6VgRUPbINTU1DxTdeED%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of a seasoned Product Manager! Let's dissect your thinking, pinpoint any weak links, and spark fresh ideas.
 
 # Prompt

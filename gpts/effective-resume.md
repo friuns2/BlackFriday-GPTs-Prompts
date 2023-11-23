@@ -1,6 +1,6 @@
 
-[![Effective Resume](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Effective Resume 
+[![Effective Resume](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0VwyuFm35fUbgTesApVx%22%2C%22flow%22%3Atrue%7D%7D)
+# Effective Resume | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0VwyuFm35fUbgTesApVx%22%2C%22flow%22%3Atrue%7D%7D)
 Describe professional experiences more effectively, highlighting your best qualities without putting the HR to sleep. Provide accurate information, and if any item is not applicable, simply write "Not applicable". The better the description, the better the output will be.
 
 If you found this helpful, 

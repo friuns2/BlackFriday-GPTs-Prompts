@@ -1,6 +1,6 @@
 
-[![Startup and new business development advice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)]()
-# Startup and new business development advice 
+[![Startup and new business development advice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A14-qwhQQoBWUcb2sy_SJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup and new business development advice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A14-qwhQQoBWUcb2sy_SJ%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an interactive journey that simulates the real-world challenges and triumphs of startup development. Navigate through critical milestones like fundraising, team building, product development, and market entry. Experience the uncertainty and surprises along the way, as you would in a real startup environment. Your decisions will influence outcomes, offering a personalized learning experience. As we gather expert feedback, the scenarios will continuously improve, offering you updated challenges and insights. Save your progress and strategies in a reusable format, review them anytime, and apply these learnings to your actual startup journey. Ready to turn your startup dream into reality? Start your journey now.
 
 # Prompt

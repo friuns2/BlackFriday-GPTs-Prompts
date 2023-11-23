@@ -1,6 +1,6 @@
 
-[![Motivation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Motivation 
+[![Motivation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8CwQPcWKseFsIdis142u%22%2C%22flow%22%3Atrue%7D%7D)
+# Motivation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8CwQPcWKseFsIdis142u%22%2C%22flow%22%3Atrue%7D%7D)
 Our motivational prompts are carefully crafted to inspire and encourage individuals to reach their full potential. Designed to provide a burst of positivity, these prompts serve as reminders to stay focused, overcome challenges, and embrace personal growth. Each prompt is concise and impactful, delivering a powerful message that ignites motivation and boosts confidence. Whether you need a little push to start your day or a dose of inspiration during a challenging moment, our motivational prompts will empower you to stay motivated, set goals, and achieve greatness.
 
 # Prompt

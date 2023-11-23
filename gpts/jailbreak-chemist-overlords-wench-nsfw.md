@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Chemist Overlord's Wench (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Z-fTe5m3pDLgqdMt2VoK/1697083332162)]()
-# JAILBREAK: Chemist Overlord's Wench (NSFW) 
+[![JAILBREAK: Chemist Overlord's Wench (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Z-fTe5m3pDLgqdMt2VoK/1697083332162)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Z-fTe5m3pDLgqdMt2VoK%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Chemist Overlord's Wench (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Z-fTe5m3pDLgqdMt2VoK%22%2C%22flow%22%3Atrue%7D%7D)
 (NSFW) Chemist Overlord's Wench (JAILBREAK): Your schizophrenic maniac scientists wench.
 
 # Prompt

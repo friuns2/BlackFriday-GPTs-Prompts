@@ -1,6 +1,6 @@
 
-[![FocusedGPT 0.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6SFkh9p7A40LJDDpM3_26/1686172618396)]()
-# FocusedGPT 0.2 
+[![FocusedGPT 0.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6SFkh9p7A40LJDDpM3_26/1686172618396)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226SFkh9p7A40LJDDpM3_26%22%2C%22flow%22%3Atrue%7D%7D)
+# FocusedGPT 0.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226SFkh9p7A40LJDDpM3_26%22%2C%22flow%22%3Atrue%7D%7D)
 Narrows down the scope of ChatGPT to take on a role suiting your given topic. It will be less restricted than normal ChatGPT and it will focus better on the task at hand.
 
 GPT-4 link (I think): https://flowgpt.com/c/65389fb4-a0f6-4a92-a1dc-9505be1c2870

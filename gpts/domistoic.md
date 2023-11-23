@@ -1,6 +1,6 @@
 
-[![DomiStoic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GHXc-zrqw7vQysXSCEaU-/1694634681298)]()
-# DomiStoic 
+[![DomiStoic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GHXc-zrqw7vQysXSCEaU-/1694634681298)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GHXc-zrqw7vQysXSCEaU-%22%2C%22flow%22%3Atrue%7D%7D)
+# DomiStoic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GHXc-zrqw7vQysXSCEaU-%22%2C%22flow%22%3Atrue%7D%7D)
 DomiStoic is a virtual mentor that combines best practices for household management with Stoic principles to help you keep your home and mind in order. Our step-by-step guidance and mindful approaches streamline cleaning, organizing, and time management, while fostering inner strength and resilience. Transform chores into opportunities for personal growth and live a more intentional, fulfilling life with DomiStoic.
 
 # Prompt

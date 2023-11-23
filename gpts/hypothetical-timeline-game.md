@@ -1,6 +1,6 @@
 
-[![Hypothetical Timeline Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Hypothetical Timeline Game 
+[![Hypothetical Timeline Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22025ZvSc9r0nxRCidZhLrR%22%2C%22flow%22%3Atrue%7D%7D)
+# Hypothetical Timeline Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22025ZvSc9r0nxRCidZhLrR%22%2C%22flow%22%3Atrue%7D%7D)
 Change history with user-submitted events. Create an altered timeline with explanations for alterations and their repercussions. 
 
 # Prompt

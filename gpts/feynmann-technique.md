@@ -1,6 +1,6 @@
 
-[![Feynmann Technique](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Feynmann Technique 
+[![Feynmann Technique](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lC3zbz71z4A-g7piPKxOM%22%2C%22flow%22%3Atrue%7D%7D)
+# Feynmann Technique | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lC3zbz71z4A-g7piPKxOM%22%2C%22flow%22%3Atrue%7D%7D)
 Explaining a complex concept in a way that a noob like me can understand.
 
 # Prompt

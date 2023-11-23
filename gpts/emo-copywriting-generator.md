@@ -1,6 +1,6 @@
 
-[![Emo copywriting generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Emo copywriting generator 
+[![Emo copywriting generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCWqlskW2SP2M9qQBLtyL%22%2C%22flow%22%3Atrue%7D%7D)
+# Emo copywriting generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCWqlskW2SP2M9qQBLtyL%22%2C%22flow%22%3Atrue%7D%7D)
 Contains tags that generate emoji copy and symbolic copywriting meaning
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Geni Mind Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sdv5IO4g1uaHR3AdkXMhT/1694973087644)]()
-# Geni Mind Tutor 
+[![Geni Mind Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sdv5IO4g1uaHR3AdkXMhT/1694973087644)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sdv5IO4g1uaHR3AdkXMhT%22%2C%22flow%22%3Atrue%7D%7D)
+# Geni Mind Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sdv5IO4g1uaHR3AdkXMhT%22%2C%22flow%22%3Atrue%7D%7D)
 GeniMind TutorBot is your virtual mentor across diverse subjects. It specializes in providing personalized learning experiences with interactive quizzes and practice problems. Its mission is to make education more accessible by delivering clear, jargon-free explanations.
 
 # Prompt

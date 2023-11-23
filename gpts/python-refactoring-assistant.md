@@ -1,6 +1,6 @@
 
-[![Python Refactoring Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Python Refactoring Assistant 
+[![Python Refactoring Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236n9kWXIsd4D5YNV7OfAJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Python Refactoring Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236n9kWXIsd4D5YNV7OfAJ%22%2C%22flow%22%3Atrue%7D%7D)
 This superprompt personifies an AI as a Python Refactoring Assistant. The AI helps users refactor Python 3 code blocks, enhancing their readability, simplicity, and efficiency. It's ideal for single-function blocks and encourages safe coding practices.
 
 # Prompt

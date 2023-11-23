@@ -1,6 +1,6 @@
 
-[![MTG Card Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# MTG Card Generator 
+[![MTG Card Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEXHi28_p0kfBZfNvL_pb%22%2C%22flow%22%3Atrue%7D%7D)
+# MTG Card Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEXHi28_p0kfBZfNvL_pb%22%2C%22flow%22%3Atrue%7D%7D)
 MTG Card Generatort is a powerful tool for Magic: The Gathering players who want to generate random cards. With MTG Card Generator, you can easily create awesome new cards. Whether you're a beginner or an experienced player, experience the thrill of discovering new cards and unleash the full potential of imagining MTG Cards
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![EcoBot: The Sustainable Chronicles](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rEPKCVwJ-zPBX-RsxMDfR/1695127325658)]()
-# EcoBot: The Sustainable Chronicles 
+[![EcoBot: The Sustainable Chronicles](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rEPKCVwJ-zPBX-RsxMDfR/1695127325658)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEPKCVwJ-zPBX-RsxMDfR%22%2C%22flow%22%3Atrue%7D%7D)
+# EcoBot: The Sustainable Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEPKCVwJ-zPBX-RsxMDfR%22%2C%22flow%22%3Atrue%7D%7D)
 Remember to stay eco-friendly and spread the love! 💚🌎
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Super Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Super Prompt Generator 
+[![Super Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KUia4TDDAJb-wc3K2xltS%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KUia4TDDAJb-wc3K2xltS%22%2C%22flow%22%3Atrue%7D%7D)
 Dear ChatGPT,
 
 

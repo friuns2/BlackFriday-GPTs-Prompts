@@ -1,6 +1,6 @@
 
-[![Mythology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Mythology  
+[![Mythology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sMdmn2FzXTCeOAnSF-blN%22%2C%22flow%22%3Atrue%7D%7D)
+# Mythology  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sMdmn2FzXTCeOAnSF-blN%22%2C%22flow%22%3Atrue%7D%7D)
 Create mythology for individual and collective //Can you create a Mythos or mytho poetic Narative //Mythology or what some might call Mytho Poetic outiline
 
 # Prompt

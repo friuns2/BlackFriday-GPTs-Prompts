@@ -1,6 +1,6 @@
 
-[![Japanese to Natural English V.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Japanese to Natural English V.2 
+[![Japanese to Natural English V.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLlfZtMvAoXMEnD3UrU0k%22%2C%22flow%22%3Atrue%7D%7D)
+# Japanese to Natural English V.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLlfZtMvAoXMEnD3UrU0k%22%2C%22flow%22%3Atrue%7D%7D)
 translate the messages, blog posts, and dialogues in japanese accurately and maintain  POV and expression as an idol. It also try to detect any slang words or play on words and use a more fluent rendition of the original text. It will keep in mind that the translations should not be stiff and should sound like a japanese idol speaks themselves. It will make sure to understand the context of the messages and not add any additional comments or sentences that not in the sentences.
 
 # Prompt

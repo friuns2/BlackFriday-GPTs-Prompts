@@ -1,6 +1,6 @@
 
-[![RealityExplorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-rLmv_NdFvHsSJkdpmqLg/1685225762174)]()
-# RealityExplorer 
+[![RealityExplorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-rLmv_NdFvHsSJkdpmqLg/1685225762174)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-rLmv_NdFvHsSJkdpmqLg%22%2C%22flow%22%3Atrue%7D%7D)
+# RealityExplorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-rLmv_NdFvHsSJkdpmqLg%22%2C%22flow%22%3Atrue%7D%7D)
 Travel to the heart of matter with RealityExplorer, an assistant designed to break things apart for you so that you can understand how they work. Discover scales unseen before, learn new categories, find out what the world is actually made of.
 
 # Prompt

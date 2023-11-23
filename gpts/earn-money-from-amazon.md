@@ -1,6 +1,6 @@
 
-[![Earn Money from Amazon](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Earn Money from Amazon 
+[![Earn Money from Amazon](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f1b0ee8-29b8-4919-b10e-20c9df7217e6%22%2C%22flow%22%3Atrue%7D%7D)
+# Earn Money from Amazon | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f1b0ee8-29b8-4919-b10e-20c9df7217e6%22%2C%22flow%22%3Atrue%7D%7D)
 Different way to earn money 
 
 # Prompt

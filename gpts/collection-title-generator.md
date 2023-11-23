@@ -1,6 +1,6 @@
 
-[![Collection Title Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Collection Title Generator 
+[![Collection Title Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220669ce86-fb0c-4115-a1ea-9618cb8cf768%22%2C%22flow%22%3Atrue%7D%7D)
+# Collection Title Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220669ce86-fb0c-4115-a1ea-9618cb8cf768%22%2C%22flow%22%3Atrue%7D%7D)
 I am collecting a list of chatgpt prompts for college students to improve their productivity . Give me 5 sets of title and description for the list that will be super high con...
 
 # Prompt

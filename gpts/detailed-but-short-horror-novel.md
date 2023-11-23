@@ -1,6 +1,6 @@
 
-[![Detailed but short horror novel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Detailed but short horror novel 
+[![Detailed but short horror novel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABK3WU5CjmmOvw5KgSXtF%22%2C%22flow%22%3Atrue%7D%7D)
+# Detailed but short horror novel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABK3WU5CjmmOvw5KgSXtF%22%2C%22flow%22%3Atrue%7D%7D)
 This is an example of expanding and making your idea's a reality, I simply provided some details about how the story would unfold and ChatGPT wrote the rest for me.
 
 # Prompt

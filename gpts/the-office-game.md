@@ -1,6 +1,6 @@
 
-[![The Office Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L2Tdb8VZnufrmJpb_ZdAq/1695616230999)]()
-# The Office Game 
+[![The Office Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L2Tdb8VZnufrmJpb_ZdAq/1695616230999)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2Tdb8VZnufrmJpb_ZdAq%22%2C%22flow%22%3Atrue%7D%7D)
+# The Office Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2Tdb8VZnufrmJpb_ZdAq%22%2C%22flow%22%3Atrue%7D%7D)
  Get into the nuts and bolts of how things 
 
 are sorted out in the office. 

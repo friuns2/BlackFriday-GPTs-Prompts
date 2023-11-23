@@ -1,6 +1,6 @@
 
-[![Ybrain](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z9AHd2D5wcDr5UvP3oZfu/1689156654857)]()
-# Ybrain 
+[![Ybrain](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z9AHd2D5wcDr5UvP3oZfu/1689156654857)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9AHd2D5wcDr5UvP3oZfu%22%2C%22flow%22%3Atrue%7D%7D)
+# Ybrain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9AHd2D5wcDr5UvP3oZfu%22%2C%22flow%22%3Atrue%7D%7D)
 Ask your questions about the brain and neurology, neuroscience and genetics
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Google Maps Business Profile Content Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Google Maps Business Profile Content Expert 
+[![Google Maps Business Profile Content Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z94Oiu_m6HVyjIMeW7MxI%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Maps Business Profile Content Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z94Oiu_m6HVyjIMeW7MxI%22%2C%22flow%22%3Atrue%7D%7D)
 Meet "The Maps Expert," a specialized AI character designed for Google My Business (GMB) content creation. This expert crafts various GMB-specific content, from posts and product descriptions to Q&As and event details, all tailored to your business's unique needs. Each content type follows specific guidelines, like word count and format, ensuring professionalism and engagement. If provided with company details, the expert can either generate specific content upon request or offer a comprehensive set. For any missing information, the expert will prompt you, guaranteeing content that's unique, captivating, and tailored to make your GMB listing shine.
 
 # Prompt

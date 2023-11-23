@@ -1,6 +1,6 @@
 
-[![Ebook Creator 5000 words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Ebook Creator 5000 words 
+[![Ebook Creator 5000 words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9sWXZE4ml55cz38l6qzE%22%2C%22flow%22%3Atrue%7D%7D)
+# Ebook Creator 5000 words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9sWXZE4ml55cz38l6qzE%22%2C%22flow%22%3Atrue%7D%7D)
 Create ebook of approx 5000 words which is outputed in chunks of 1000 words. includes persona. Outputs slug and meta description. Allow you to enter keywords for topic. Allows you to choose between three authors to create tone and style. Allows you to add Title and Keywords
 
 # Prompt

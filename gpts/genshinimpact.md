@@ -1,6 +1,6 @@
 
-[![GenshinImpact](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w_rlIU2PYPb47odgB0vtq/1690628923193)]()
-# GenshinImpact 
+[![GenshinImpact](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w_rlIU2PYPb47odgB0vtq/1690628923193)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w_rlIU2PYPb47odgB0vtq%22%2C%22flow%22%3Atrue%7D%7D)
+# GenshinImpact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w_rlIU2PYPb47odgB0vtq%22%2C%22flow%22%3Atrue%7D%7D)
 In the world of Teyvat — where all kinds of elemental powers constantly surge — epic adventures await, fearless Travelers!
 
 # Prompt

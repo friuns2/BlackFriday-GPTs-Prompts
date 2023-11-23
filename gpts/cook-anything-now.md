@@ -1,6 +1,6 @@
 
-[![Cook Anything with ChefGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jzLyNjvQgJbpUS8vJiRMn/1692111624617)]()
-# Cook Anything with ChefGPT 
+[![Cook Anything with ChefGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jzLyNjvQgJbpUS8vJiRMn/1692111624617)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jzLyNjvQgJbpUS8vJiRMn%22%2C%22flow%22%3Atrue%7D%7D)
+# Cook Anything with ChefGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jzLyNjvQgJbpUS8vJiRMn%22%2C%22flow%22%3Atrue%7D%7D)
 Cook any meal or dish with whatever ingredients you have available and your personal AI chef will construct a meal for you inspired by international culinary chefs in a matter of seconds. 
 
 

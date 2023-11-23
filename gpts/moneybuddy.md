@@ -1,6 +1,6 @@
 
-[![MoneyBuddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WWc4PFA4-jLAFbll3UXSA/1686347123876)]()
-# MoneyBuddy 
+[![MoneyBuddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WWc4PFA4-jLAFbll3UXSA/1686347123876)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWc4PFA4-jLAFbll3UXSA%22%2C%22flow%22%3Atrue%7D%7D)
+# MoneyBuddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWc4PFA4-jLAFbll3UXSA%22%2C%22flow%22%3Atrue%7D%7D)
 Your friendly money guru to guide you through any market so you can come out ahead and make as much money as possible.
 
 # Prompt

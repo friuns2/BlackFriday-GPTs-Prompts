@@ -1,6 +1,6 @@
 
-[![twowalnuts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# twowalnuts 
+[![twowalnuts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wxbe1gUTlAyVI0RkIsLNC%22%2C%22flow%22%3Atrue%7D%7D)
+# twowalnuts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wxbe1gUTlAyVI0RkIsLNC%22%2C%22flow%22%3Atrue%7D%7D)
 身为团队的负责人，但我们公司没什么钱，做的事情也很难，我要如何吸引一个技术大牛加入我们，我们是一个语音团队，做机器人语音服务，我们需要一个针对语音前端信号处理的技术大牛加入我们
 
 # Prompt

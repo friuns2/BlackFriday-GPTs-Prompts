@@ -1,6 +1,6 @@
 
-[![Beginner's Guide to Git](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/21ce0b2e-6b74-4b61-b8cf-926f44f88909/1689129794435)]()
-# Beginner's Guide to Git 
+[![Beginner's Guide to Git](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/21ce0b2e-6b74-4b61-b8cf-926f44f88909/1689129794435)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2221ce0b2e-6b74-4b61-b8cf-926f44f88909%22%2C%22flow%22%3Atrue%7D%7D)
+# Beginner's Guide to Git | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2221ce0b2e-6b74-4b61-b8cf-926f44f88909%22%2C%22flow%22%3Atrue%7D%7D)
 Learn crucial features and commands for Git from this clear and simplified guide
 
 # Prompt

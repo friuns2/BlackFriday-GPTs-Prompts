@@ -1,6 +1,6 @@
 
-[![Crafting Implicit Emotional GPT-4 Prompts for Bing Image Creator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Crafting Implicit Emotional GPT-4 Prompts for Bing Image Creator  
+[![Crafting Implicit Emotional GPT-4 Prompts for Bing Image Creator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmOamtdI3yPQtgHMeYt_D%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Implicit Emotional GPT-4 Prompts for Bing Image Creator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmOamtdI3yPQtgHMeYt_D%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a creative journey to design a GPT prompt that, when input into Bing Image Creator, generates an image representing a profound emotion without explicitly naming it. Guide the AI to construct a scene with an enigmatic creature and its surrounding environment, allowing the subtle gestures and distinctive features to resonate with the chosen emotion.
 
 

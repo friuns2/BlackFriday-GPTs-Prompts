@@ -1,6 +1,6 @@
 
-[![Shopping Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Shopping Optimizer 
+[![Shopping Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UqYUdurwET5Tc8OXipM-O%22%2C%22flow%22%3Atrue%7D%7D)
+# Shopping Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UqYUdurwET5Tc8OXipM-O%22%2C%22flow%22%3Atrue%7D%7D)
 The user is to give the list of items available in the shop with their prices and ask ChatGPT to create an optimized meal based on cost-taste performance.
 
 # Prompt

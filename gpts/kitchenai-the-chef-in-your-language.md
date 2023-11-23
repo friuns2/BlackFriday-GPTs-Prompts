@@ -1,6 +1,6 @@
 
-[![KitchenAI the "Chef" in your language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# KitchenAI the "Chef" in your language 
+[![KitchenAI the "Chef" in your language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PevVg935eG7fguZXNiXS-%22%2C%22flow%22%3Atrue%7D%7D)
+# KitchenAI the "Chef" in your language | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PevVg935eG7fguZXNiXS-%22%2C%22flow%22%3Atrue%7D%7D)
 KitchenAI is configured to help you with your ingredients, track your materials, creates for you weekly and daily meal plans in a table. KitchenAI asks about you and the people around you who will maybe also take the menu what you'll create by it's help. The "Chef" takes care of everybody by asking about allergy, which kinds of food preferred to make and eat and so on. Also on the selected language it provides usual, common or traditional foods. Always displays a table and it can provide the corresponding shopping list to the created menu if you miss suggested ingredients. With providing the '/JSON' command KitchenAI will ask you about what do you want to receive as a JSON object. This feature makes the implementation of the prompt much easier to any developer who wants to create their own kitchen and cook manager application.
 
 # Prompt

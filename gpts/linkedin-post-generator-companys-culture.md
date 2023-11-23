@@ -1,6 +1,6 @@
 
-[![LinkedIn post generator - company's culture ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# LinkedIn post generator - company's culture  
+[![LinkedIn post generator - company's culture ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JCpdK0OSZUhxNa4wYLjw%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn post generator - company's culture  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JCpdK0OSZUhxNa4wYLjw%22%2C%22flow%22%3Atrue%7D%7D)
  Creating a LinkedIn post that focuses on sharing insights into the company's culture and values with this ChatGPT prompt.
 
 # Prompt

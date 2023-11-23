@@ -1,6 +1,6 @@
 
-[![A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U-YcJG4X2T9qLNbRssFqe/1695338861880)]()
-# A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY   
+[![A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U-YcJG4X2T9qLNbRssFqe/1695338861880)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-YcJG4X2T9qLNbRssFqe%22%2C%22flow%22%3Atrue%7D%7D)
+# A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-YcJG4X2T9qLNbRssFqe%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a text-based interactive story game as you navigate a world that doesn't understand aromantic and asexual individuals. Explore the challenges of self-acceptance, relationships, and the power of community. Choose your path as a young adult, student, professional, parent, or activist, and discover the importance of self-love, platonic relationships, and embracing diverse identities. Are you ready to embark on this inspiring journey?
 
 # Prompt

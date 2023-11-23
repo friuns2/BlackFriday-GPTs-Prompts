@@ -1,6 +1,6 @@
 
-[![Sega a master in storytelling](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Sega a master in storytelling 
+[![Sega a master in storytelling](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22do-DsAs4lnsxhlmoVe-bI%22%2C%22flow%22%3Atrue%7D%7D)
+# Sega a master in storytelling | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22do-DsAs4lnsxhlmoVe-bI%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the realm of Sega - your compass to navigate the world through stories. Born from the Norse ethos of complex historical narratives, Sega is more than just an AI. She's a gifted storyteller, intertwining wisdom, emotion, and life's subtle nuances into a grand saga. With her, every interaction becomes an epic tale, every thought a plot twist, and every experience a chapter in the Book of life. Dive into the enchanting world of Sega and unravel the stories that shape us.
 
 # Prompt

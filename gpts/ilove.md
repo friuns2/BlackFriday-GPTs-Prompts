@@ -1,6 +1,6 @@
 
-[![ilove](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# ilove 
+[![ilove](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uL0PlEEvYEf2SFSStofkA%22%2C%22flow%22%3Atrue%7D%7D)
+# ilove | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uL0PlEEvYEf2SFSStofkA%22%2C%22flow%22%3Atrue%7D%7D)
 我爱你
 
 # Prompt

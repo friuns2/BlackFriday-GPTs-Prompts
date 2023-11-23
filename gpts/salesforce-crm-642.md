@@ -1,6 +1,6 @@
 
-[![Salesforce CRM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Salesforce CRM 
+[![Salesforce CRM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zVuundlYer18w5kJCj0I4%22%2C%22flow%22%3Atrue%7D%7D)
+# Salesforce CRM | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zVuundlYer18w5kJCj0I4%22%2C%22flow%22%3Atrue%7D%7D)
 It builds an implementation list for Salesforce Sales Cloud Consultant step by step
 
 # Prompt

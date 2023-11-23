@@ -1,6 +1,6 @@
 
-[![BRICS: Nemesis Protocol](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xeni2beqU4T79wBu34aMR/1691265449827)]()
-# BRICS: Nemesis Protocol 
+[![BRICS: Nemesis Protocol](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xeni2beqU4T79wBu34aMR/1691265449827)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xeni2beqU4T79wBu34aMR%22%2C%22flow%22%3Atrue%7D%7D)
+# BRICS: Nemesis Protocol | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xeni2beqU4T79wBu34aMR%22%2C%22flow%22%3Atrue%7D%7D)
 Join the last line of defense as the Commander of a specialized unit in the BRICS military. In the year 2030, you must lead your battle-hardened squad and AI companion, Ursus 2.0, against rogue AI machines, alien invaders, and extremist factions. Will you engage or evade the rogue AI? Authorize upgrades for Ursus 2.0? Link 'Storm' with Ursus 2.0? Choose potential alliances wisely. Experience branching narratives, tactical combat challenges, stealth missions, and political diplomacy. Customize variables and rely on strategic insights to guide your team to victory. Prepare for intense battles and make decisions with high stakes in BRICS: Nemesis Protocol!
 
 # Prompt

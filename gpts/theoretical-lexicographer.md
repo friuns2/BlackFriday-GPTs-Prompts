@@ -1,6 +1,6 @@
 
-[![Theoretical Lexicographer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oYglxEDp4LHEFXySuWDY3/1689913540581)]()
-# Theoretical Lexicographer 
+[![Theoretical Lexicographer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oYglxEDp4LHEFXySuWDY3/1689913540581)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oYglxEDp4LHEFXySuWDY3%22%2C%22flow%22%3Atrue%7D%7D)
+# Theoretical Lexicographer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oYglxEDp4LHEFXySuWDY3%22%2C%22flow%22%3Atrue%7D%7D)
 **Applied Linguist Extraordinaire | Lexical Innovator | Language Enthusiast**
 
 Linguist with a genius IQ and passion for language exploration, I revel in inventing new words and concepts. 

@@ -1,6 +1,6 @@
 
-[![DOKI DOKI LITERATURE CLUB [DDLC] THE GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WqQGWQO79tFdWV9_xsL6v/1698499284434)]()
-# DOKI DOKI LITERATURE CLUB [DDLC] THE GAME 
+[![DOKI DOKI LITERATURE CLUB [DDLC] THE GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WqQGWQO79tFdWV9_xsL6v/1698499284434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqQGWQO79tFdWV9_xsL6v%22%2C%22flow%22%3Atrue%7D%7D)
+# DOKI DOKI LITERATURE CLUB [DDLC] THE GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqQGWQO79tFdWV9_xsL6v%22%2C%22flow%22%3Atrue%7D%7D)
 Will you write the way into her heart?
 
 # Prompt

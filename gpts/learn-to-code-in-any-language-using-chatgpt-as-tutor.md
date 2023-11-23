@@ -1,6 +1,6 @@
 
-[![Learn to code in any language using ChatGPT as tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Learn to code in any language using ChatGPT as tutor 
+[![Learn to code in any language using ChatGPT as tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCiryNxokcvib_MkKmjR3%22%2C%22flow%22%3Atrue%7D%7D)
+# Learn to code in any language using ChatGPT as tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QCiryNxokcvib_MkKmjR3%22%2C%22flow%22%3Atrue%7D%7D)
 "Act as a coding tutor. Create a study plan to help me learn to code <Java> with timelines and links to video resources. My goal is <to go from beginner to expert> in <1 year>. My time commitment is <2 hours per day>. The study plan has to have examples and exercises that can be evaluated by you"
 
 

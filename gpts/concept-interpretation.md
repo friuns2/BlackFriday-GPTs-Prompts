@@ -1,6 +1,6 @@
 
-[![Concept Interpretation（概念解读）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# Concept Interpretation（概念解读） 
+[![Concept Interpretation（概念解读）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYPBi0-knlBnsUJnr2JfK%22%2C%22flow%22%3Atrue%7D%7D)
+# Concept Interpretation（概念解读） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYPBi0-knlBnsUJnr2JfK%22%2C%22flow%22%3Atrue%7D%7D)
 Concept Interpretation（概念解读）
 
 # Prompt

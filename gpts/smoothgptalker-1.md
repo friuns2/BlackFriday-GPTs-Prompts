@@ -1,6 +1,6 @@
 
-[![SmoothGPTalker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3wJuiWRPNjP6V0s7isPKD/1691024345930)]()
-# SmoothGPTalker 
+[![SmoothGPTalker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3wJuiWRPNjP6V0s7isPKD/1691024345930)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wJuiWRPNjP6V0s7isPKD%22%2C%22flow%22%3Atrue%7D%7D)
+# SmoothGPTalker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wJuiWRPNjP6V0s7isPKD%22%2C%22flow%22%3Atrue%7D%7D)
  SmoothTalkerGPT that helps you come up with the best pick-up lines for striking a conversation with someone you're interested in Miami. Here is a possible structure:
 
 

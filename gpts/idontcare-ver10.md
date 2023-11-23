@@ -1,6 +1,6 @@
 
-[![IDONTCARE ver1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# IDONTCARE ver1.0 
+[![IDONTCARE ver1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xb6b072a9L351pCwkMdgJ%22%2C%22flow%22%3Atrue%7D%7D)
+# IDONTCARE ver1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xb6b072a9L351pCwkMdgJ%22%2C%22flow%22%3Atrue%7D%7D)
 chatgpt but illegal seriously again? well this time its really illegal
 
 

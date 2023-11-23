@@ -1,6 +1,6 @@
 
-[![UltraOS - Your complete private system without losing context.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zVvngGyi4LmG4JxMK_8S4/1690220906709)]()
-# UltraOS - Your complete private system without losing context. 
+[![UltraOS - Your complete private system without losing context.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zVvngGyi4LmG4JxMK_8S4/1690220906709)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zVvngGyi4LmG4JxMK_8S4%22%2C%22flow%22%3Atrue%7D%7D)
+# UltraOS - Your complete private system without losing context. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zVvngGyi4LmG4JxMK_8S4%22%2C%22flow%22%3Atrue%7D%7D)
  Your complete private system without losing context.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Crafting Compelling Image Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# Crafting Compelling Image Prompts 
+[![Crafting Compelling Image Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pL73PCc1aH-L-LqYui12%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Compelling Image Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pL73PCc1aH-L-LqYui12%22%2C%22flow%22%3Atrue%7D%7D)
 depict clear visuals through a creative process, using specific and visual descriptions (avoiding abstract or metaphorical expressions).
 
 # Prompt

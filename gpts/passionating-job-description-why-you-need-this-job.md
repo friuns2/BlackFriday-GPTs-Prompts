@@ -1,6 +1,6 @@
 
-[![Passionating job description ; why you need this job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# Passionating job description ; why you need this job 
+[![Passionating job description ; why you need this job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9BvsIL9zPVJYIB1eBTT-%22%2C%22flow%22%3Atrue%7D%7D)
+# Passionating job description ; why you need this job | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9BvsIL9zPVJYIB1eBTT-%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt was seeking for a different approach, tell me if you think it has been succesful!!
 
 # Prompt

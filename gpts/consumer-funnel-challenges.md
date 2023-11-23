@@ -1,6 +1,6 @@
 
-[![CONSUMER FUNNEL CHALLENGES](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# CONSUMER FUNNEL CHALLENGES 
+[![CONSUMER FUNNEL CHALLENGES](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CBWntE9Kv3OjwnvBc8Bi5%22%2C%22flow%22%3Atrue%7D%7D)
+# CONSUMER FUNNEL CHALLENGES | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CBWntE9Kv3OjwnvBc8Bi5%22%2C%22flow%22%3Atrue%7D%7D)
 Building a campaign? I've got some quick-fire consumer perceptions across the funnel. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3_YMu9mTI0lhjyZyhUH8N/1688933991955)]()
-# Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.! 
+[![Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3_YMu9mTI0lhjyZyhUH8N/1688933991955)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223_YMu9mTI0lhjyZyhUH8N%22%2C%22flow%22%3Atrue%7D%7D)
+# Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223_YMu9mTI0lhjyZyhUH8N%22%2C%22flow%22%3Atrue%7D%7D)
 Quantum Scribe is an AI-powered MCQ generator that produces intricate multiple-choice questions from any text input. With advanced text understanding and user personalization, it's crafted to ensure a smooth user experience. The app elegantly handles text inputs, generates a segmented set of 60 questions, and adapts to the user's preferred language. Engaging with Quantum Scribe begins with setting the preferred language and inputting the text material, resulting in a batch of MCQs tailored to user instructions and preferences. It offers customizable comprehension testing, a varied question set, and adaptive difficulty levels. Quantum Scribe stands as a leading tool for generating intellectually stimulating MCQs.
 
 # Prompt

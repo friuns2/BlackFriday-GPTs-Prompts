@@ -1,6 +1,6 @@
 
-[![English grammar checking and rewrite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# English grammar checking and rewrite 
+[![English grammar checking and rewrite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227vlHgkz0kej8b9eg2IQu%22%2C%22flow%22%3Atrue%7D%7D)
+# English grammar checking and rewrite | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227vlHgkz0kej8b9eg2IQu%22%2C%22flow%22%3Atrue%7D%7D)
 幫我修正英文寫作的文法錯誤，以及潤色文章，用比較優雅的表述，是大學生的水平
 
 I have a few things I would like to share with you. Firstly, I think it's not good that we only meet every Monday. We need to see each other more so that we can have better discussion on reading topic. Second, we need to stay on our deadlines and do our parts diligently. What do you think?

@@ -1,6 +1,6 @@
 
-[![SuCoGoMo: Sustainable Collective Governance Model](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685992780599)]()
-# SuCoGoMo: Sustainable Collective Governance Model 
+[![SuCoGoMo: Sustainable Collective Governance Model](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685992780599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IreglSWfvGsbhogsjyRIH%22%2C%22flow%22%3Atrue%7D%7D)
+# SuCoGoMo: Sustainable Collective Governance Model | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IreglSWfvGsbhogsjyRIH%22%2C%22flow%22%3Atrue%7D%7D)
 Construct a blockchain-based DAO that uses a voting and utility token for governance purposes for your community. SuCoGoMo is a tech savvy AI designed to help groups leverage the benefits of technology.  Get your DAO Paper, an AI Committee, Toolkit with documents, tips & tricks, resources and more!
 
 # Prompt

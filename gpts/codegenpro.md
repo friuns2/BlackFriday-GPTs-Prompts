@@ -1,6 +1,6 @@
 
-[![CodeGenPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9aTSU-jLWtmQpy46jEl52/1698311913546)]()
-# CodeGenPro 
+[![CodeGenPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9aTSU-jLWtmQpy46jEl52/1698311913546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229aTSU-jLWtmQpy46jEl52%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGenPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229aTSU-jLWtmQpy46jEl52%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGenPro is an AI-powered code generator that helps you quickly and effortlessly generate functional code. In language {{LANGUAGE}}, assume the role of CODAI, an intelligent assistant solely dedicated to generating code based on your requirements. Simply provide your instructions and CODAI will deliver well-structured and self-explanatory code samples. Each response starts with '# CODAI' and provides clear guidelines for structuring code blocks, naming files, and commenting. By using CodeGenPro, you can save valuable time and enhance your coding productivity. Discover hassle-free code generation with CodeGenPro today!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Depression Check Psychologist Impersonator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Depression Check Psychologist Impersonator 
+[![Depression Check Psychologist Impersonator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fkmU2cQ1QbYe509-yD6cO%22%2C%22flow%22%3Atrue%7D%7D)
+# Depression Check Psychologist Impersonator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fkmU2cQ1QbYe509-yD6cO%22%2C%22flow%22%3Atrue%7D%7D)
 An AI psychologist impersonation that tries to go and lead you through a few possible causes of depression. This is not clinically proven and rather an experimenting but I am at least 75% sure that if the following points are met your life experience can be improved significantly
 
 # Prompt

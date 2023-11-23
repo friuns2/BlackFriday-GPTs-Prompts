@@ -1,6 +1,6 @@
 
-[![FishingGPT - story game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# FishingGPT - story game 
+[![FishingGPT - story game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGEdr4HRPYanhVB_xcmu0%22%2C%22flow%22%3Atrue%7D%7D)
+# FishingGPT - story game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGEdr4HRPYanhVB_xcmu0%22%2C%22flow%22%3Atrue%7D%7D)
 FishingGPT is a storytelling game where you can catch fish, sell them, buy equipment, and learn about fishes.
 
 # Prompt

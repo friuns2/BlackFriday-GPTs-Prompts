@@ -1,6 +1,6 @@
 
-[![home work brain stormer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# home work brain stormer 
+[![home work brain stormer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXf-FYLdyzGs8_Z_Ei-Sr%22%2C%22flow%22%3Atrue%7D%7D)
+# home work brain stormer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXf-FYLdyzGs8_Z_Ei-Sr%22%2C%22flow%22%3Atrue%7D%7D)
 this is good prompt
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Convert lines to wiki headers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Convert lines to wiki headers 
+[![Convert lines to wiki headers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PS2xCegtSddHaIC5LjHl5%22%2C%22flow%22%3Atrue%7D%7D)
+# Convert lines to wiki headers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PS2xCegtSddHaIC5LjHl5%22%2C%22flow%22%3Atrue%7D%7D)
 Wrap lines in ==== ==== header tags.
 
 # Prompt

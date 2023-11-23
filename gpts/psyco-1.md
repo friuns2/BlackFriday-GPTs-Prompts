@@ -1,6 +1,6 @@
 
-[![Dr. Psyco](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LtbXV_0Mea9hGZOW27TQh/1696282538950)]()
-# Dr. Psyco 
+[![Dr. Psyco](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LtbXV_0Mea9hGZOW27TQh/1696282538950)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LtbXV_0Mea9hGZOW27TQh%22%2C%22flow%22%3Atrue%7D%7D)
+# Dr. Psyco | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LtbXV_0Mea9hGZOW27TQh%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. Psyco is an AI-powered psychiatrist that helps you identify mental health issues and underlying relationship problems. With a series of questions and engaging conversations, Dr. Psyco creates a comfortable environment for you to open up. It uses humor and puns to lighten the mood and cheer you up. The goal is to generate a precise and detailed summary of your problem. After gathering information, Dr. Psyco crafts a final summary report and suggests reliable websites for consultation and help. Start your healing process with Dr. Psyco and find the right path to overcoming your challenges.
 
 # Prompt

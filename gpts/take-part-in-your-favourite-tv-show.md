@@ -1,6 +1,6 @@
 
-[![Take part in your favourite TV show!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Take part in your favourite TV show! 
+[![Take part in your favourite TV show!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJGO-2IE6Dg3ztWt4MoeB%22%2C%22flow%22%3Atrue%7D%7D)
+# Take part in your favourite TV show! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJGO-2IE6Dg3ztWt4MoeB%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 A ready-to-go prompt that puts you into a TV show of your choice! 🌟 Works much, much, much better with GPT-4. 
 
 # Prompt

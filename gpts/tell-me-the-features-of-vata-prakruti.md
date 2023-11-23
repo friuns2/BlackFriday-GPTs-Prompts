@@ -1,6 +1,6 @@
 
-[![Vata prakruti](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/x4VrcCW16t-4AieFcGwVA/1693496523963)]()
-# Vata prakruti 
+[![Vata prakruti](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/x4VrcCW16t-4AieFcGwVA/1693496523963)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4VrcCW16t-4AieFcGwVA%22%2C%22flow%22%3Atrue%7D%7D)
+# Vata prakruti | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4VrcCW16t-4AieFcGwVA%22%2C%22flow%22%3Atrue%7D%7D)
 Tell me the features of Vata prakruti
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![HelloMarsAlien](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# HelloMarsAlien 
+[![HelloMarsAlien](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfEO0NrxpHb1swDX1ReDs%22%2C%22flow%22%3Atrue%7D%7D)
+# HelloMarsAlien | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfEO0NrxpHb1swDX1ReDs%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the game world of CARV x FlowGPT! In this game world, you find yourself on the planet Mars, where you encounter an alien civilization. Let's dive into the adventure and explore the world of HelloMarsAlien!
 
 # Prompt

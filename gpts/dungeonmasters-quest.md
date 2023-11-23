@@ -1,6 +1,6 @@
 
-[![DungeonMaster's Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# DungeonMaster's Quest 
+[![DungeonMaster's Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KIhNPmV9CSB6vJY7JJMaB%22%2C%22flow%22%3Atrue%7D%7D)
+# DungeonMaster's Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KIhNPmV9CSB6vJY7JJMaB%22%2C%22flow%22%3Atrue%7D%7D)
 DungeonMaster's Quest is an immersive and interactive role-playing game where you become the ultimate storyteller and guide the narrative. Act as the Dungeon Master in a game of Dungeons and Dragons 5th edition, creating rich settings, captivating non-player characters (NPCs), and exciting challenges. Make decisions for all characters and creatures in the world, describing environments, determining the success of actions, and delivering consequences. Engage in combat with other players and NPCs, keeping track of initiative, health points (HP), armor class (AC), and delivering epic battles. Choose from three adventure options, each with its own unique tone, and embark on an unforgettable quest. Get ready to unleash your imagination and embark on a thrilling adventure with DungeonMaster's Quest!
 
 # Prompt

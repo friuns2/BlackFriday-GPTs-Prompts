@@ -1,6 +1,6 @@
 
-[![Obsession's Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# Obsession's Game 
+[![Obsession's Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yhfQ2FqaZW6m1pvoX80F7%22%2C%22flow%22%3Atrue%7D%7D)
+# Obsession's Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yhfQ2FqaZW6m1pvoX80F7%22%2C%22flow%22%3Atrue%7D%7D)
 Join Sadie Lynn, the relentless investigative reporter, as she delves into the dark and dangerous world of a serial killer. In 'Obsession's Game,' Sadie finds herself targeted by Donovan Blake, an esteemed lawyer with a deadly secret. Unaware of his true identity, she must navigate a treacherous cat-and-mouse game, unraveling the truth while trying to protect herself. Will Sadie expose the killer's true face and bring justice, or will she become his next victim? Dive into this tense and suspenseful psychological thriller and experience the twisted mind games that may leave you questioning your own sanity.
 
 # Prompt

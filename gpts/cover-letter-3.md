@@ -1,6 +1,6 @@
 
-[![Super Effective Cover Letter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8U47sHB1n6tNBqJvqrWe2/1694638816079)]()
-# Super Effective Cover Letter 
+[![Super Effective Cover Letter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8U47sHB1n6tNBqJvqrWe2/1694638816079)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228U47sHB1n6tNBqJvqrWe2%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Effective Cover Letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228U47sHB1n6tNBqJvqrWe2%22%2C%22flow%22%3Atrue%7D%7D)
 This cover letter is designed to stand out and clearly showcase an applicants skills. 
 
 

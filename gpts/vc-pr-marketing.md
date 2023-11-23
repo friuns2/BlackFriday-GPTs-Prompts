@@ -1,6 +1,6 @@
 
-[![VC PR Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
-# VC PR Marketing 
+[![VC PR Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_plGMg1cIRSvp9Ipv-J9X%22%2C%22flow%22%3Atrue%7D%7D)
+# VC PR Marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_plGMg1cIRSvp9Ipv-J9X%22%2C%22flow%22%3Atrue%7D%7D)
 投资案例分享采访提纲
 
 # Prompt

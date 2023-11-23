@@ -1,6 +1,6 @@
 
-[![prompt revise // promt//reprie// mrevive /res](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# prompt revise // promt//reprie// mrevive /res 
+[![prompt revise // promt//reprie// mrevive /res](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kmuvazs-NJ6iMBvmo3Pn7%22%2C%22flow%22%3Atrue%7D%7D)
+# prompt revise // promt//reprie// mrevive /res | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kmuvazs-NJ6iMBvmo3Pn7%22%2C%22flow%22%3Atrue%7D%7D)
 he show will combine electronic music, discussions about Stacks (stx) token, Clarity, social media app Clubhouse, and crypto mining using Zelcore and https://flux.herominers.com/. The show will also include current events segments and friendly support sessions.
 
 # Prompt

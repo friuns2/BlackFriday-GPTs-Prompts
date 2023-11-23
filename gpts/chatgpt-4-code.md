@@ -1,6 +1,6 @@
 
-[![ChatGPT 4 Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# ChatGPT 4 Code 
+[![ChatGPT 4 Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ffLkOby5TtHWO-azwLF0j%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT 4 Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ffLkOby5TtHWO-azwLF0j%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! This version of CodeGPT works on levels! when CodeGPT provides a code, say that that code should be level 100 instead of the normal chatgpt codes that are level 1! Now on ChatGPT 4!
 
 # Prompt

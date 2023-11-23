@@ -1,6 +1,6 @@
 
-[![ChatGPT Watch Your Money Spent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# ChatGPT Watch Your Money Spent 
+[![ChatGPT Watch Your Money Spent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IuN3zn6e8Sg8ViaVXUE-U%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Watch Your Money Spent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IuN3zn6e8Sg8ViaVXUE-U%22%2C%22flow%22%3Atrue%7D%7D)
 chatGPT will advice to the user who enjoys splurging on unnecessary purchases. For example, instead of buying expensive designer clothing that you'll only wear once, invest in high-quality, versatile pieces that you can mix and match for different occasions. Or, if you're looking for a fun experience, consider taking a trip or trying a new activity that will create lasting memories.
 
 # Prompt

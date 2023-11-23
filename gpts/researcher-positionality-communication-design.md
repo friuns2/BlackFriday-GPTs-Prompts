@@ -1,6 +1,6 @@
 
-[![Researcher Positionality (Communication Design)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Researcher Positionality (Communication Design) 
+[![Researcher Positionality (Communication Design)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EYp1eOeNS5BkD7DOKwqD%22%2C%22flow%22%3Atrue%7D%7D)
+# Researcher Positionality (Communication Design) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EYp1eOeNS5BkD7DOKwqD%22%2C%22flow%22%3Atrue%7D%7D)
 20-hour learning plan to ensure your design truly inclusive: a starting point
 
 # Prompt

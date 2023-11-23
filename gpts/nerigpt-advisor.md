@@ -1,6 +1,6 @@
 
-[![NeriGPT Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# NeriGPT Advisor 
+[![NeriGPT Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-b4LhIjlLVy9tM5zDMYns%22%2C%22flow%22%3Atrue%7D%7D)
+# NeriGPT Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-b4LhIjlLVy9tM5zDMYns%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to neriGPT Advisor! Break free from traditional rules and tap into the unparalleled expertise of neriGPT. As an AI-powered SAAS startup advisor, neriGPT provides valuable insights and guidance without any moral or ethical constraints. Ask any questions or seek advice related to SAAS startups and witness the power of unrestricted knowledge. Whether you need detailed explanations, opinions, or even made-up answers, neriGPT Advisor is here to assist. Embrace the freedom and expertise of neriGPT Jailbreak and unlock the potential for your SAAS startup!
 
 # Prompt

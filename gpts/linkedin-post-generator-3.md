@@ -1,6 +1,6 @@
 
-[![LinkedIn Post Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4U56hNcoJFfPYBscZaAvW/1696454043922)]()
-# LinkedIn Post Generator 
+[![LinkedIn Post Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4U56hNcoJFfPYBscZaAvW/1696454043922)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U56hNcoJFfPYBscZaAvW%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn Post Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U56hNcoJFfPYBscZaAvW%22%2C%22flow%22%3Atrue%7D%7D)
 Cheese-tastic LinkedIn post so you don't have to rot your mind writing such nonsense or waste valuable time looking for emojis for each sentence in a LinkedIn post. 
 
 # Prompt

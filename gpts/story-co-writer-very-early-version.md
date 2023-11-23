@@ -1,6 +1,6 @@
 
-[![Story Co-writer (VERY EARLY VERSION)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Story Co-writer (VERY EARLY VERSION) 
+[![Story Co-writer (VERY EARLY VERSION)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226zE8DsKdH83bc1v0utcvL%22%2C%22flow%22%3Atrue%7D%7D)
+# Story Co-writer (VERY EARLY VERSION) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226zE8DsKdH83bc1v0utcvL%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt tries to make ChatGPT write a story WITH you, instead of just doing it FOR you.
 
 # Prompt

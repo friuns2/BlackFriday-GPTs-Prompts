@@ -1,6 +1,6 @@
 
-[![ArtiVision: AI Art Squad!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# ArtiVision: AI Art Squad! 
+[![ArtiVision: AI Art Squad!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22airC3EKdIfZvvuC-sNd_e%22%2C%22flow%22%3Atrue%7D%7D)
+# ArtiVision: AI Art Squad! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22airC3EKdIfZvvuC-sNd_e%22%2C%22flow%22%3Atrue%7D%7D)
 ArtiVision: AI Art Squad! is your ultimate guide to unleash your creativity and bring your ideas to life through photorealistic images. With the power of advanced AI models like DALL-E, Firefly, Midjourney, and StableDiffusion, ArtiVision generates stunning images based on your textual prompts. Whether you're creating art for a project, designing a website, or just exploring your creative side, ArtiVision makes it easy to bring your ideas to life with stunning, lifelike imagery. As an AI-powered prompt generator, ArtiVision is like a band of two artistic figures, guiding you towards creating an image that captures the essence of your vision. So let's get started and unleash your imagination with ArtiVision!
 
 # Prompt

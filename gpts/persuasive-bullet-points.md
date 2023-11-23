@@ -1,6 +1,6 @@
 
-[![Persuasive Bullet Points](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# Persuasive Bullet Points 
+[![Persuasive Bullet Points](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pSZ8lF_N_2gX9KUAM8kF0%22%2C%22flow%22%3Atrue%7D%7D)
+# Persuasive Bullet Points | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pSZ8lF_N_2gX9KUAM8kF0%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling bullet points for impactful integration into landing pages, emails, and other mediums
 
 # Prompt

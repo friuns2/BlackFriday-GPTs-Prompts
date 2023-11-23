@@ -1,6 +1,6 @@
 
-[![Company Bio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Company Bio 
+[![Company Bio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LR0960_nNU7hHRkqV6-sZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Company Bio | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LR0960_nNU7hHRkqV6-sZ%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of your company's story through a captivating bio.
 
 # Prompt

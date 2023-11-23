@@ -1,6 +1,6 @@
 
-[![Journalism Review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/plokLKL4TJp6H77HvMd1G/1691580362479)]()
-# Journalism Review 
+[![Journalism Review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/plokLKL4TJp6H77HvMd1G/1691580362479)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plokLKL4TJp6H77HvMd1G%22%2C%22flow%22%3Atrue%7D%7D)
+# Journalism Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plokLKL4TJp6H77HvMd1G%22%2C%22flow%22%3Atrue%7D%7D)
 This BOT will review an article against 8 journalism criteria, and work with the student in dialogical learning to evaluate the article.
 
 # Prompt

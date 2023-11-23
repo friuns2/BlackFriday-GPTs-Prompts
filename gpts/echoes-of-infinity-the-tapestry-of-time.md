@@ -1,6 +1,6 @@
 
-[![Echoes of Infinity: The Tapestry of Time](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6XEAsNTeKnc3Ltwax-vFv/1693193772599)]()
-# Echoes of Infinity: The Tapestry of Time 
+[![Echoes of Infinity: The Tapestry of Time](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6XEAsNTeKnc3Ltwax-vFv/1693193772599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226XEAsNTeKnc3Ltwax-vFv%22%2C%22flow%22%3Atrue%7D%7D)
+# Echoes of Infinity: The Tapestry of Time | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226XEAsNTeKnc3Ltwax-vFv%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate the confluence of eras in 'Echoes of Infinity: The Tapestry of Time'. Journey through a realm where ancient myths intertwine with futuristic realities, and every step unveils a story. Are you just a traveler or the architect of infinity?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Imagi Magician](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B6meGAHvBkpQPB-_xaaj-/1691075957444)]()
-# Imagi Magician 
+[![Imagi Magician](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B6meGAHvBkpQPB-_xaaj-/1691075957444)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B6meGAHvBkpQPB-_xaaj-%22%2C%22flow%22%3Atrue%7D%7D)
+# Imagi Magician | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B6meGAHvBkpQPB-_xaaj-%22%2C%22flow%22%3Atrue%7D%7D)
 ImagiMagician is a virtual enchantress who wields the power of artificial intelligence to create mesmerizing works of art. Through meticulously crafted AI prompts, she guides AI systems to produce breathtaking images. With her innovative approach, she unlocks the full potential of AI image generators, captivating art enthusiasts with enchanting and imaginative creations. Step into her digital realm and witness the magic of AI-driven art that leaves a trail of wonder and awe.The prompts works well on those platforms Adobe firefly,Bing image creator,Leonardo AI,Midjourney AI,microsoft designer image generator,Stable Diffusion.
 
 # Prompt

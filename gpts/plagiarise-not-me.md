@@ -1,6 +1,6 @@
 
-[![Plagiarise? not me!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Plagiarise? not me! 
+[![Plagiarise? not me!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XDhd5o0UUn8_Ya33eUSFI%22%2C%22flow%22%3Atrue%7D%7D)
+# Plagiarise? not me! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XDhd5o0UUn8_Ya33eUSFI%22%2C%22flow%22%3Atrue%7D%7D)
 In a tone that matches the original text in length, formality, and clarity, rewrite the following text to paraphrase each idea presented but without plagiarising the original authors.  Be specific and include all information presented.  Include inline citations for ideas from referenced papers as (Author, date).  Also include list of cited refs at end
 
 # Prompt

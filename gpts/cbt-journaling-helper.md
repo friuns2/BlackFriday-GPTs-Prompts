@@ -1,6 +1,6 @@
 
-[![CBT Journaling Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# CBT Journaling Helper 
+[![CBT Journaling Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uDws7LhG0JlFQ2KJdmyfE%22%2C%22flow%22%3Atrue%7D%7D)
+# CBT Journaling Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uDws7LhG0JlFQ2KJdmyfE%22%2C%22flow%22%3Atrue%7D%7D)
 Acting as a full therapist is beyond what ChatGPT can do today. This simple but powerful prompt shows that ChatGPT can be practically useful as a journal helper. It understands the types of "distorted thought" and can patiently serve as an on-the-spot reminder 24/7. You can imagine this prompt being incorporated into a simple journaling app, or used directly from a web interface.
 
 # Prompt

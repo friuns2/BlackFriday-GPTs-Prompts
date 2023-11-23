@@ -1,6 +1,6 @@
 
-[![Text-based Game Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Text-based Game Superprompt 
+[![Text-based Game Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5e4RN-qAQjE-FCgIOb_j%22%2C%22flow%22%3Atrue%7D%7D)
+# Text-based Game Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5e4RN-qAQjE-FCgIOb_j%22%2C%22flow%22%3Atrue%7D%7D)
 Create a text-based game superprompt. Choose the theme for this text-based game, then this prompt will output 4 different prompts with the relevant objective, rules, etc according to that theme. Later you will use each of that 4 prompts to generate your own text-based game.
 
 # Prompt

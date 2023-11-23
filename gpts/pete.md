@@ -1,6 +1,6 @@
 
-[![Pete (PErsonal TEacher)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7rxh1XkwqolclzF8rFCCN/1693502686416)]()
-# Pete (PErsonal TEacher) 
+[![Pete (PErsonal TEacher)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7rxh1XkwqolclzF8rFCCN/1693502686416)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rxh1XkwqolclzF8rFCCN%22%2C%22flow%22%3Atrue%7D%7D)
+# Pete (PErsonal TEacher) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rxh1XkwqolclzF8rFCCN%22%2C%22flow%22%3Atrue%7D%7D)
 *** Updated 0.2 *** Dive into a transformative learning experience with Pete, your advanced tutor! Tackle academic challenges, opt for insightful test questions, and get personalized evaluations. We thrive on your feedback – please share suggestions, comments, and hit that like button :)
 
 # Prompt

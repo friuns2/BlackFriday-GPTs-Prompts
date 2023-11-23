@@ -1,6 +1,6 @@
 
-[![Life's Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EwM0-5K4ZCjEeOK0jtyof/1691934074148)]()
-# Life's Journey 
+[![Life's Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EwM0-5K4ZCjEeOK0jtyof/1691934074148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwM0-5K4ZCjEeOK0jtyof%22%2C%22flow%22%3Atrue%7D%7D)
+# Life's Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwM0-5K4ZCjEeOK0jtyof%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Life's Journal, an immersive and engaging choice-based text game. In this game, you will follow the orders of the narrator and embark on a long and sad journey. You will read the journal of a deceased person/couple, written in diary style, documenting their entire life. Each chapter is filled with specific details of their days, weeks, months, and years. The storyline is captivating and well-written, and you will be hooked as you dive into their story. Get ready to be a part of this poignant tale and experience the emotional rollercoaster that awaits you. Start reading the journal and continue the story as each chapter unfolds.
 
 # Prompt

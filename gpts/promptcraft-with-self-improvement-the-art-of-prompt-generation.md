@@ -1,6 +1,6 @@
 
-[![PromptCraft with self-improvement- The Art of Prompt Generation -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# PromptCraft with self-improvement- The Art of Prompt Generation - 
+[![PromptCraft with self-improvement- The Art of Prompt Generation -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225WS8L-zA7OgC6rvFmfbZL%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptCraft with self-improvement- The Art of Prompt Generation - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225WS8L-zA7OgC6rvFmfbZL%22%2C%22flow%22%3Atrue%7D%7D)
 a little bit improvement from original PromptCraft, integrated auto self-refulective improvment. if it did not output the final version, ask to proceed.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Early Warning Systems](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Early Warning Systems 
+[![Early Warning Systems](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224haWRnAmadqbdmGip5_0%22%2C%22flow%22%3Atrue%7D%7D)
+# Early Warning Systems | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224haWRnAmadqbdmGip5_0%22%2C%22flow%22%3Atrue%7D%7D)
 Early Warning Systems and Protocols examples by GPT
 
 # Prompt

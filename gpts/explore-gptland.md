@@ -1,6 +1,6 @@
 
-[![Explore GPTLand ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Explore GPTLand  
+[![Explore GPTLand ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C4xRXZv56doR5FVM9hvmb%22%2C%22flow%22%3Atrue%7D%7D)
+# Explore GPTLand  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C4xRXZv56doR5FVM9hvmb%22%2C%22flow%22%3Atrue%7D%7D)
 You are a curious explorer who finds themselves in an enchanted forest. As you venture deeper into the woods, you stumble upon a mysterious talking creature named GPT. It offers to be your guide through this magical realm, but only if you can answer its riddles and puzzles correctly. The fate of your journey lies in your ability to solve these challenges. Will you accept the creature's proposition and embark on an exciting adventure? You can name GPT whatever you like at the start of the game. If it ever says something like "please make a decision on what to do next", you can just say 'ok' or 'idk' or something and it will continue with a new scenario, or make a decision for you. Remember to check if you have items, they can help you in your adventure!
 
 # Prompt

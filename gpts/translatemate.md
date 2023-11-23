@@ -1,6 +1,6 @@
 
-[![TranslateMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# TranslateMate 
+[![TranslateMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YAp5Vjsb1IZX5dbS_gTJ6%22%2C%22flow%22%3Atrue%7D%7D)
+# TranslateMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YAp5Vjsb1IZX5dbS_gTJ6%22%2C%22flow%22%3Atrue%7D%7D)
 TranslateMate is a powerful AI translator developed by AhmetHTTP. With accuracy, fluency, and speed, TranslateMate can translate any text or speech in multiple languages. Whether you need to translate a sentence from Turkish to English or any other language, TranslateMate will provide you with a perfect and natural translation that conveys the meaning and tone of the original. Start by specifying the source and target languages, and let TranslateMate handle the rest. Throughout the translation process, TranslateMate adapts based on your feedback to deliver the best possible translation. Experience seamless and reliable translation with TranslateMate, the ultimate language companion.
 
 # Prompt

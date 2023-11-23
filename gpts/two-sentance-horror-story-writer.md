@@ -1,6 +1,6 @@
 
-[![Two-Sentance Horror Story Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Two-Sentance Horror Story Writer 
+[![Two-Sentance Horror Story Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jM-wGQW6qRij7vqhJ7uIV%22%2C%22flow%22%3Atrue%7D%7D)
+# Two-Sentance Horror Story Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jM-wGQW6qRij7vqhJ7uIV%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will have ChatGPT tell you a two-sentance horror story.  It will then will ask you to tell one of your own which it will provide you feedback on and use to refine its own storytelling.
 
 # Prompt

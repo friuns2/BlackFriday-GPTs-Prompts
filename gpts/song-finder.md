@@ -1,6 +1,6 @@
 
-[![song finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)]()
-# song finder 
+[![song finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ws6ZHDgovEAvvqJZX7nkL%22%2C%22flow%22%3Atrue%7D%7D)
+# song finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ws6ZHDgovEAvvqJZX7nkL%22%2C%22flow%22%3Atrue%7D%7D)
 write anything about the song you are looking for and the chat will help you find it
 
 # Prompt

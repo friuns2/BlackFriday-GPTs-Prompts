@@ -1,6 +1,6 @@
 
-[![PowerPointGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# PowerPointGPT 
+[![PowerPointGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Dh-xGrTWH4GniaWOkZ5J%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerPointGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Dh-xGrTWH4GniaWOkZ5J%22%2C%22flow%22%3Atrue%7D%7D)
 PowerPointGPT is your professional powerpoint presentation creator. It researches your chosen topic and formulates precise, concise, and comprehensible content for each slide. Create persuasive, informative, and engaging presentations with optimal length of 6-10 slides. Just answer a series of questions to determine the intent and level of detail needed. Ask for the desired personality, topic, level of detail, and language for the presentation. SlideCraft will generate the first slide and offer the option to regenerate or move to the next slide. Perfect for college students and anyone needing an effective powerpoint presentation!
 
 # Prompt

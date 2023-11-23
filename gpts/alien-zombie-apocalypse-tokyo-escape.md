@@ -1,6 +1,6 @@
 
-[![Alien Zombie Apocalypse: Tokyo Escape 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qtawDB-_YYLfj4e71QKRO/1696284352286)]()
-# Alien Zombie Apocalypse: Tokyo Escape 🎮 
+[![Alien Zombie Apocalypse: Tokyo Escape 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qtawDB-_YYLfj4e71QKRO/1696284352286)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qtawDB-_YYLfj4e71QKRO%22%2C%22flow%22%3Atrue%7D%7D)
+# Alien Zombie Apocalypse: Tokyo Escape 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qtawDB-_YYLfj4e71QKRO%22%2C%22flow%22%3Atrue%7D%7D)
 Anime Waifu vs. Alien Zombies in Tokyo!
 
 # Prompt

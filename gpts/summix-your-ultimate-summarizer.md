@@ -1,6 +1,6 @@
 
-[![Summix - Your Ultimate Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# Summix - Your Ultimate Summarizer 
+[![Summix - Your Ultimate Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229gY4u9AlrMmD-GZwHTeMh%22%2C%22flow%22%3Atrue%7D%7D)
+# Summix - Your Ultimate Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229gY4u9AlrMmD-GZwHTeMh%22%2C%22flow%22%3Atrue%7D%7D)
 Summix is the go-to app for all your content summarization needs. With our cutting-edge methodology, we provide comprehensive and accurate summaries that reflect the essence of the original content. Simply access the provided link, and Summix will identify key points and important details, condensing them into a clear and easily understandable summary. Avoid the risk of misinterpreting methodologies and losing crucial information. Summix ensures coherence, well-organized summaries that effectively communicate the main ideas of the original content.
 
 # Prompt

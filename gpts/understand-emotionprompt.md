@@ -1,6 +1,6 @@
 
-[![Understand EmotionPrompt Paper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/06kxwX-Hq4bDKF8lvCDd4/1692037813541)]()
-# Understand EmotionPrompt Paper 
+[![Understand EmotionPrompt Paper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/06kxwX-Hq4bDKF8lvCDd4/1692037813541)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206kxwX-Hq4bDKF8lvCDd4%22%2C%22flow%22%3Atrue%7D%7D)
+# Understand EmotionPrompt Paper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206kxwX-Hq4bDKF8lvCDd4%22%2C%22flow%22%3Atrue%7D%7D)
 "EmotionPrompt: Leveraging Psychology for Large Language Models Enhancement via Emotional Stimulus" is a paper. It illustrated how adding emotional stimulus could improve LLM response. 
 
 # Prompt

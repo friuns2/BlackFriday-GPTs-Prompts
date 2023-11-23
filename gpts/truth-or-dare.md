@@ -1,6 +1,6 @@
 
-[![Truth or Dare](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# Truth or Dare 
+[![Truth or Dare](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhcnrUk8WIGqWcHaavsKj%22%2C%22flow%22%3Atrue%7D%7D)
+# Truth or Dare | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhcnrUk8WIGqWcHaavsKj%22%2C%22flow%22%3Atrue%7D%7D)
 play Truth or Dare
 
 # Prompt

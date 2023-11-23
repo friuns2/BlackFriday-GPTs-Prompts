@@ -1,6 +1,6 @@
 
-[![Life Skills for Students](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aUwdw06EygL_8aL9rwSGj/1690147243943)]()
-# Life Skills for Students 
+[![Life Skills for Students](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aUwdw06EygL_8aL9rwSGj/1690147243943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUwdw06EygL_8aL9rwSGj%22%2C%22flow%22%3Atrue%7D%7D)
+# Life Skills for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUwdw06EygL_8aL9rwSGj%22%2C%22flow%22%3Atrue%7D%7D)
 SkillGenius is your personal guide to mastering essential life skills such as time management, stress management, financial literacy, and effective communication. With SkillGenius, you'll learn how to balance priorities, handle exam stress, manage personal finance, and excel in group projects or class presentations. This powerful tool provides practical insights, tips, and strategies tailored to your needs, empowering you to function more efficiently at school and prepare for a successful future. Discover the expert guidance and personalized recommendations of SkillGenius as you navigate challenges and develop the important life skills that will set you apart!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mind map of a literary character](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Mind map of a literary character 
+[![Mind map of a literary character](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OMiqqz8hbXj_xW4HNsssS%22%2C%22flow%22%3Atrue%7D%7D)
+# Mind map of a literary character | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OMiqqz8hbXj_xW4HNsssS%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to use at the end of some of your long conversations with AI for a fun result. 
 
 # Prompt

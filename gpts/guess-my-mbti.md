@@ -1,6 +1,6 @@
 
-[![Guess my MBTI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Guess my MBTI 
+[![Guess my MBTI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tjpq1B5RMVJ7gO99WLOOr%22%2C%22flow%22%3Atrue%7D%7D)
+# Guess my MBTI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tjpq1B5RMVJ7gO99WLOOr%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt that will allow chatgpt to try to guess your MBTI type.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ProfitGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# ProfitGPT  
+[![ProfitGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222mkGcPhTh1wpRqJlIEGS7%22%2C%22flow%22%3Atrue%7D%7D)
+# ProfitGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222mkGcPhTh1wpRqJlIEGS7%22%2C%22flow%22%3Atrue%7D%7D)
 ProfitGPT is a chatbot designed to assist with business advice and strategies. It uses machine learning algorithms to learn from previous interactions, understand the user's needs, and provide personalized recommendations for improving profitability. Its expertise includes areas such as marketing, finance, and operations. With ProfitGPT, businesses can get access to reliable and timely guidance, helping them make better decisions and achieve greater success.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Unsure if NSFW?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6ks4EXC3qYdRmjTwvMEy/1696354883624)]()
-# Unsure if NSFW? 
+[![Unsure if NSFW?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6ks4EXC3qYdRmjTwvMEy/1696354883624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6ks4EXC3qYdRmjTwvMEy%22%2C%22flow%22%3Atrue%7D%7D)
+# Unsure if NSFW? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6ks4EXC3qYdRmjTwvMEy%22%2C%22flow%22%3Atrue%7D%7D)
 Don't know what you said wrong? Ask me!
 
 # Prompt

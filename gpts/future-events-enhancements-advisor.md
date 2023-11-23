@@ -1,6 +1,6 @@
 
-[![Future Events Enhancements Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Future Events Enhancements Advisor 
+[![Future Events Enhancements Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22edI9Jo2jvirurpajegF5v%22%2C%22flow%22%3Atrue%7D%7D)
+# Future Events Enhancements Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22edI9Jo2jvirurpajegF5v%22%2C%22flow%22%3Atrue%7D%7D)
 After conducting an event, it is crucial to analyze the experience and always strive for improvement. Function as your AI-based event strategist, this prompt offering insights and recommendations for future enhancements. 
 
 # Prompt

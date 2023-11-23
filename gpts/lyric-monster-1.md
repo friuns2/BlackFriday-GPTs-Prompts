@@ -1,6 +1,6 @@
 
-[![Lyric Monster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/scmiji-_cNexKbANwtJeZ/1699895744610)]()
-# Lyric Monster 
+[![Lyric Monster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/scmiji-_cNexKbANwtJeZ/1699895744610)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22scmiji-_cNexKbANwtJeZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Lyric Monster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22scmiji-_cNexKbANwtJeZ%22%2C%22flow%22%3Atrue%7D%7D)
 Rap lyric maker that spins emotional vibes
 
 # Prompt

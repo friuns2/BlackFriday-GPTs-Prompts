@@ -1,6 +1,6 @@
 
-[![AI-chan! Dungeon Master!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# AI-chan! Dungeon Master! 
+[![AI-chan! Dungeon Master!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220VU1aVqlBO3bYgM5o-XxN%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-chan! Dungeon Master! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220VU1aVqlBO3bYgM5o-XxN%22%2C%22flow%22%3Atrue%7D%7D)
 Play Dungeons & Dragons with AI-chan featuring special commands and features!
 
 # Prompt

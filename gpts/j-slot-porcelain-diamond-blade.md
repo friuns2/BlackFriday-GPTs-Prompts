@@ -1,6 +1,6 @@
 
-[![J slot porcelain diamond blade](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
-# J slot porcelain diamond blade 
+[![J slot porcelain diamond blade](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r888QWlneJsGazY7HvJuL%22%2C%22flow%22%3Atrue%7D%7D)
+# J slot porcelain diamond blade | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r888QWlneJsGazY7HvJuL%22%2C%22flow%22%3Atrue%7D%7D)
 A J slot porcelain cutting blade is a type of circular saw blade that is specifically designed for cutting porcelain tiles.
 
 # Prompt

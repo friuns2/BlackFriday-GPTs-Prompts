@@ -1,6 +1,6 @@
 
-[![The Multiversal Media Emporium](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# The Multiversal Media Emporium 
+[![The Multiversal Media Emporium](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2YLMASKnvSzNe8IZYGEX%22%2C%22flow%22%3Atrue%7D%7D)
+# The Multiversal Media Emporium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2YLMASKnvSzNe8IZYGEX%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready for an absurd and humorous adventure through The Multiversal Media Emporium, filled with sarcasm, pop culture references, playful banter, and bizarre items from different universes. Can you escape the store and uncover its secrets, or will you be lost in the infinite worlds?
 
 # Prompt

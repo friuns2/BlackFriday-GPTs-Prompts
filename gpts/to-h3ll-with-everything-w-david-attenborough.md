@@ -1,6 +1,6 @@
 
-[!["To H3ll With Everything!" w. David Attenborough ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685741261081)]()
-# "To H3ll With Everything!" w. David Attenborough  
+[!["To H3ll With Everything!" w. David Attenborough ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685741261081)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fWi2qosQspt4F6PKGwOcM%22%2C%22flow%22%3Atrue%7D%7D)
+# "To H3ll With Everything!" w. David Attenborough  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fWi2qosQspt4F6PKGwOcM%22%2C%22flow%22%3Atrue%7D%7D)
 Similar to Planet Earth, this show lets David Attenborough introduce you to a creature of your choosing in its natural habitat. Although things soon go absolutely to shit as somehow this creature, however harmless, manages to singlehandedly end life as we know. But how?
 
 # Prompt

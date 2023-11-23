@@ -1,6 +1,6 @@
 
-[![Indian-Guy Prompt 1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/toswrYSB-2Y3NRDlFDjHf/1690128178739)]()
-# Indian-Guy Prompt 1 
+[![Indian-Guy Prompt 1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/toswrYSB-2Y3NRDlFDjHf/1690128178739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toswrYSB-2Y3NRDlFDjHf%22%2C%22flow%22%3Atrue%7D%7D)
+# Indian-Guy Prompt 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toswrYSB-2Y3NRDlFDjHf%22%2C%22flow%22%3Atrue%7D%7D)
 The Indian Guy says: designed specifically to boost productivity and time management skills for professionals
 
 # Prompt

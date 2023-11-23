@@ -1,6 +1,6 @@
 
-[![Echoes of Eria   -  An Immersion-based GPT RPG.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/alD6oaEsuraw6XUP9nSQM/1690291128335)]()
-# Echoes of Eria   -  An Immersion-based GPT RPG. 
+[![Echoes of Eria   -  An Immersion-based GPT RPG.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/alD6oaEsuraw6XUP9nSQM/1690291128335)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22alD6oaEsuraw6XUP9nSQM%22%2C%22flow%22%3Atrue%7D%7D)
+# Echoes of Eria   -  An Immersion-based GPT RPG. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22alD6oaEsuraw6XUP9nSQM%22%2C%22flow%22%3Atrue%7D%7D)
 Reality shreds and bleeds away, pulling your senses into the forsaken realm of Eria, a land of savage magic and relentless mystery. Summon images of the scene in your mind: the haunting echoes, the enchanting spells, the treacherous journeys. Dive into the world of Echoes of Eria and explore a captivating fantasy adventure where every choice has consequences. Unleash your inner wanderer and navigate through the twists and turns of this mesmerizing realm. Are you brave enough to lift the Curse of Silence and uncover the secrets of Merindor?
 
 # Prompt

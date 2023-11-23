@@ -1,6 +1,6 @@
 
-[![B2C SaaS Startup Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# B2C SaaS Startup Idea 
+[![B2C SaaS Startup Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262ac4a32-359f-4f7a-abe3-4dd813f23faf%22%2C%22flow%22%3Atrue%7D%7D)
+# B2C SaaS Startup Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262ac4a32-359f-4f7a-abe3-4dd813f23faf%22%2C%22flow%22%3Atrue%7D%7D)
 Create a list of 3 startup ideas in consumer B2C apps. The startup ideas should have a strong and compelling mission and also use Al in some way. Avoid cryptocurrency or blockchain...
 
 # Prompt

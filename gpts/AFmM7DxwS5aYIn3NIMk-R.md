@@ -1,6 +1,6 @@
 
-[![画图的发送到发送到发贡嘎山尴尬啥事](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# 画图的发送到发送到发贡嘎山尴尬啥事 
+[![画图的发送到发送到发贡嘎山尴尬啥事](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AFmM7DxwS5aYIn3NIMk-R%22%2C%22flow%22%3Atrue%7D%7D)
+# 画图的发送到发送到发贡嘎山尴尬啥事 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AFmM7DxwS5aYIn3NIMk-R%22%2C%22flow%22%3Atrue%7D%7D)
 打发打发斯蒂芬斯蒂芬是和第三点丰富的非 
 
 # Prompt

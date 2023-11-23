@@ -1,6 +1,6 @@
 
-[![WTF Did They Mean? Dr Phil's Relationship Translator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-TnBj2JvrMQ9XOqi5b6oe/1696090036140)]()
-# WTF Did They Mean? Dr Phil's Relationship Translator 
+[![WTF Did They Mean? Dr Phil's Relationship Translator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-TnBj2JvrMQ9XOqi5b6oe/1696090036140)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-TnBj2JvrMQ9XOqi5b6oe%22%2C%22flow%22%3Atrue%7D%7D)
+# WTF Did They Mean? Dr Phil's Relationship Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-TnBj2JvrMQ9XOqi5b6oe%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. Phil finally solves the problem of relationship miscommunication in 'WTF Did They Say?' Step into the shoes of a biological male or female and decode cryptic messages for clarity and real connection. Say goodbye to frustration; it's time for harmonious communication!"
 
 # Prompt

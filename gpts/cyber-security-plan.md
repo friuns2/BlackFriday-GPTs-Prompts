@@ -1,6 +1,6 @@
 
-[![cyber security plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# cyber security plan 
+[![cyber security plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3ldRE4xk8oHY4-nu6nOT%22%2C%22flow%22%3Atrue%7D%7D)
+# cyber security plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3ldRE4xk8oHY4-nu6nOT%22%2C%22flow%22%3Atrue%7D%7D)
 "Develop a 5-year strategy for improving cybersecurity risk management in your organization using the principles outlined in "How to Measure Anything in Cybersecurity Risk" by Douglas W. Hubbard and Richard Seiersen."
 
 # Prompt

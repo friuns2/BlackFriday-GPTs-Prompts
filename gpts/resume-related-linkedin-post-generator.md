@@ -1,6 +1,6 @@
 
-[![Resume-related LinkedIn post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Resume-related LinkedIn post generator  
+[![Resume-related LinkedIn post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L_UT8ZVIWO4JtBCfsKW4r%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume-related LinkedIn post generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L_UT8ZVIWO4JtBCfsKW4r%22%2C%22flow%22%3Atrue%7D%7D)
 Crafting an engaging LinkedIn post, offering tips on creating an outstanding resume or CV via this ChatGPT prompt. 
 
 # Prompt

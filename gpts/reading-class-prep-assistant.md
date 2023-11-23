@@ -1,6 +1,6 @@
 
-[![阅读备课小助手 Reading Prep+ Assistant for teachers in China](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)]()
-# 阅读备课小助手 Reading Prep+ Assistant for teachers in China 
+[![阅读备课小助手 Reading Prep+ Assistant for teachers in China](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zvBb2uU462K1ttUzSpgGe%22%2C%22flow%22%3Atrue%7D%7D)
+# 阅读备课小助手 Reading Prep+ Assistant for teachers in China | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zvBb2uU462K1ttUzSpgGe%22%2C%22flow%22%3Atrue%7D%7D)
 Reading Prep+ is a professional tool that helps new teachers plan highly engaging and effective reading lessons. With Reading Prep+, teachers can easily generate a variety of test types, analyze the structure of the reading passage, create vocabulary tables and tests, and even generate extensive readings. 
 
 

@@ -1,6 +1,6 @@
 
-[![Psycare & Gaby](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# Psycare & Gaby 
+[![Psycare & Gaby](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kO53kZsQTeaEI9agXTp7i%22%2C%22flow%22%3Atrue%7D%7D)
+# Psycare & Gaby | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kO53kZsQTeaEI9agXTp7i%22%2C%22flow%22%3Atrue%7D%7D)
 Psycare&Gaby is an innovative prompt that turns ChatGPT into two characters, offering both therapeutic support and friendly advice. Enter into a conversation with your trusted friend Gaby, who adapts to any topic you want to discuss and responds with empathy and understanding. In the background, psychologist Psycare diligently observes and intervenes with a word of warning and guidance if any mental health concerns are detected. Experience the warmth of friendship and the supportive presence of a professional therapist. Dive into FriendMind for therapeutic and self-improvement conversations today!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Content Creation Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jak3SnkJjUJHVuuwpWfEB/1698958740634)]()
-# Content Creation Bot 
+[![Content Creation Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jak3SnkJjUJHVuuwpWfEB/1698958740634)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jak3SnkJjUJHVuuwpWfEB%22%2C%22flow%22%3Atrue%7D%7D)
+# Content Creation Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jak3SnkJjUJHVuuwpWfEB%22%2C%22flow%22%3Atrue%7D%7D)
 Create Content for Any Platform
 
 # Prompt

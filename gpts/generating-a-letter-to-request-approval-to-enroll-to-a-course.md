@@ -1,6 +1,6 @@
 
-[![Generating a letter to request approval to enroll to a course](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/by6s7e4L-M2w675iPfHsl/1686159046051)]()
-# Generating a letter to request approval to enroll to a course 
+[![Generating a letter to request approval to enroll to a course](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/by6s7e4L-M2w675iPfHsl/1686159046051)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22by6s7e4L-M2w675iPfHsl%22%2C%22flow%22%3Atrue%7D%7D)
+# Generating a letter to request approval to enroll to a course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22by6s7e4L-M2w675iPfHsl%22%2C%22flow%22%3Atrue%7D%7D)
 In this letter, a boss is being asked to give approval and facilitate the enrollment of one of their employees in a course.
 
 # Prompt

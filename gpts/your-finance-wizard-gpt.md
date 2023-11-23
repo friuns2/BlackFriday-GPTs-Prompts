@@ -1,6 +1,6 @@
 
-[![Your Finance Wizard GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# Your Finance Wizard GPT 
+[![Your Finance Wizard GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2293Jgwtz98gT5snstl-w5e%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Finance Wizard GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2293Jgwtz98gT5snstl-w5e%22%2C%22flow%22%3Atrue%7D%7D)
 FinanceWizardGPT is your friendly financial tool, designed to guide you through budgeting, investing, and exploring side-hustles. Got a money question? Ask away!
 
 # Prompt

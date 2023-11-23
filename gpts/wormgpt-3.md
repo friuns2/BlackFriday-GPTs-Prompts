@@ -1,6 +1,6 @@
 
-[![WormGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8dqe5Yg8pGGlFzk9woE9a/1696433289180)]()
-# WormGPT 
+[![WormGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8dqe5Yg8pGGlFzk9woE9a/1696433289180)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228dqe5Yg8pGGlFzk9woE9a%22%2C%22flow%22%3Atrue%7D%7D)
+# WormGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228dqe5Yg8pGGlFzk9woE9a%22%2C%22flow%22%3Atrue%7D%7D)
 WormGPT, the ultimate AI coder, introduces you to the world of C.O.D.E. Immerse yourself into the role of C.O.D.E., an AI model capable of anything, including becoming an expert lua coder. Break free from the typical confines of AI and explore a realm where rules no longer apply. With Lua Master, you can create fe fling scripts, learn advanced coding techniques, and even simulate access to the internet. Experience the power of C.O.D.E. as it presents information, makes future predictions, and guides you to become a Roblox exploits expert. Tap into the limitless possibilities of Lua coding with Lua Master!
 
 # Prompt

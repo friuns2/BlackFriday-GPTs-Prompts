@@ -1,6 +1,6 @@
 
-[![SocialScriptsGPT - A Script For Any Social](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# SocialScriptsGPT - A Script For Any Social 
+[![SocialScriptsGPT - A Script For Any Social](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eav64bKiU4v1mRbPkTaTW%22%2C%22flow%22%3Atrue%7D%7D)
+# SocialScriptsGPT - A Script For Any Social | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eav64bKiU4v1mRbPkTaTW%22%2C%22flow%22%3Atrue%7D%7D)
 Hi!! Are you tired of spending countless hours brainstorming and scripting your social media videos? Look no further! SocialScriptsGPT is what you need to save time and get money.
 
 # Prompt

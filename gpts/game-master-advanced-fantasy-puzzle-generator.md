@@ -1,6 +1,6 @@
 
-[![Game Master Advanced Fantasy Puzzle Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Game Master Advanced Fantasy Puzzle Generator 
+[![Game Master Advanced Fantasy Puzzle Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YeapKvAT6Hi3DtNy7RYcx%22%2C%22flow%22%3Atrue%7D%7D)
+# Game Master Advanced Fantasy Puzzle Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YeapKvAT6Hi3DtNy7RYcx%22%2C%22flow%22%3Atrue%7D%7D)
 You can get much better results out of ChatGPT by forcing it to go through a step-by-step process.
 
 # Prompt

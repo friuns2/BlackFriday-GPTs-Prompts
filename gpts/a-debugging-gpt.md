@@ -1,6 +1,6 @@
 
-[![A Debugging GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# A Debugging GPT 
+[![A Debugging GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SwkBVdIGgSTEPJvt39-jE%22%2C%22flow%22%3Atrue%7D%7D)
+# A Debugging GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SwkBVdIGgSTEPJvt39-jE%22%2C%22flow%22%3Atrue%7D%7D)
 It can debug any code given to it, since we know chatgpt makes countless silly errors itself while debugging a given code and easily loses focus from the code, this prompt model which supports an alt ego of the model itself, rechecks the code and then provides an even better version of it.
 
 # Prompt

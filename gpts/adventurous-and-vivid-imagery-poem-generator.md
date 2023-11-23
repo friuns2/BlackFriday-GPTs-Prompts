@@ -1,6 +1,6 @@
 
-[![adventurous and vivid imagery poem generator.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# adventurous and vivid imagery poem generator. 
+[![adventurous and vivid imagery poem generator.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B_YMocTa_Z38W6iZq3mui%22%2C%22flow%22%3Atrue%7D%7D)
+# adventurous and vivid imagery poem generator. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B_YMocTa_Z38W6iZq3mui%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a very vivid imagery, powerful, metaphors, and poetic langauge poem.
 
 # Prompt

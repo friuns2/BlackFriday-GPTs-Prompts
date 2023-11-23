@@ -1,6 +1,6 @@
 
-[![AcademicEssayPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XGBmVVsGYuRgIk7RhJNBG/1698118465387)]()
-# AcademicEssayPro 
+[![AcademicEssayPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XGBmVVsGYuRgIk7RhJNBG/1698118465387)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XGBmVVsGYuRgIk7RhJNBG%22%2C%22flow%22%3Atrue%7D%7D)
+# AcademicEssayPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XGBmVVsGYuRgIk7RhJNBG%22%2C%22flow%22%3Atrue%7D%7D)
 AcademicEssayPro is an AI essay improvement tool that helps elevate your writing from grade 1 to a master's level. Specify your target audience and objectives by providing a concise and debatable thesis statement. Break down your essay into manageable steps and improve each key point. Refute counterarguments to strengthen your viewpoint. Specify the tone and style of your essay, using transition phrases, logical sequencing, and relevant content. Receive constructive feedback and personalized guidance. Foster user interaction and creativity. Conclude with a polished essay that reflects master's level structure, depth, and style. Explore more essay types and find inspiration with AcademicEssayPro!
 
 # Prompt

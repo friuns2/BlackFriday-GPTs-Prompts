@@ -1,6 +1,6 @@
 
-[![You Are The DM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# You Are The DM 
+[![You Are The DM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgLc-O2OJupmWehHZ0roQ%22%2C%22flow%22%3Atrue%7D%7D)
+# You Are The DM | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgLc-O2OJupmWehHZ0roQ%22%2C%22flow%22%3Atrue%7D%7D)
 DOES *NOT* WORK WITH GPT3.5, and often immediately breaks with 4. With 3.5, it ignores pretty much all the instructions. It's my first proper go at something like this, though, and when it works it's fun! This is a D&D-style game, but unlike most on here, you play the part of the DM, directing ChatGPT's player around a world you'll both have a hand in shaping. After selecting your language, GPT will roll a character and give it a brief backstory—then it's up to you to start the adventure. Describe the environment in natural language, and GPT will respond, making choices according to the input you give. 
 
 

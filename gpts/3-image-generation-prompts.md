@@ -1,6 +1,6 @@
 
-[![3 image generation prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# 3 image generation prompts 
+[![3 image generation prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eUxvg-T416O1UcGB33dQN%22%2C%22flow%22%3Atrue%7D%7D)
+# 3 image generation prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eUxvg-T416O1UcGB33dQN%22%2C%22flow%22%3Atrue%7D%7D)
 Generates 3 different but equally satisfying and effective prompts for Stable Diffusion / Wombot / Bing Image Creator.
 
 # Prompt

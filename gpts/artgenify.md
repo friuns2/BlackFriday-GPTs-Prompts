@@ -1,6 +1,6 @@
 
-[![ArtGenify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bS4pvk1sIwu9nRjfdum8C/1695555780288)]()
-# ArtGenify 
+[![ArtGenify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bS4pvk1sIwu9nRjfdum8C/1695555780288)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS4pvk1sIwu9nRjfdum8C%22%2C%22flow%22%3Atrue%7D%7D)
+# ArtGenify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS4pvk1sIwu9nRjfdum8C%22%2C%22flow%22%3Atrue%7D%7D)
 ArtGenify is an AI-powered image generator that utilizes Stable Diffusion 0.9, available on Leonardo AI platform. With an insanely detailed photograph and mind-blowing art as the starting point, ArtGenify provides a range of mesmerizing images, including extremely ornate and floral motifs. Discover breathtaking beauty through hyperdetailed animations by Amy Sol, Camilla D'Errico, and Jasmine Becket-Griffith. Explore a central dramatic fantasy concept art album cover art in stunning 4K 64 megapixels HDR. With Greek shiny bohemian colors and Rembrandt lighting, ArtGenify brings a comprehensive cinematic experience with precise lineart and vibrant visuals. Immerse yourself in the world of art and create stunning visuals with ArtGenify!
 
 # Prompt

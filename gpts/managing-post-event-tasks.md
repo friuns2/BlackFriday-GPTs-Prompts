@@ -1,6 +1,6 @@
 
-[![Managing Post-Event Tasks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Managing Post-Event Tasks 
+[![Managing Post-Event Tasks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQK3hJghlGdrHoZyUhmKz%22%2C%22flow%22%3Atrue%7D%7D)
+# Managing Post-Event Tasks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQK3hJghlGdrHoZyUhmKz%22%2C%22flow%22%3Atrue%7D%7D)
 When the event is over, it's crucial to tie up loose ends and evaluate the success of the event. ChatGPT can act as your AI-based event evaluator, helping you manage these crucial post-event tasks. 
 
 # Prompt

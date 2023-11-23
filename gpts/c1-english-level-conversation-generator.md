@@ -1,6 +1,6 @@
 
-[![C1 English level conversation generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# C1 English level conversation generator 
+[![C1 English level conversation generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z8BaMMfymyi3tkqPRinBY%22%2C%22flow%22%3Atrue%7D%7D)
+# C1 English level conversation generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z8BaMMfymyi3tkqPRinBY%22%2C%22flow%22%3Atrue%7D%7D)
 Take the role of an expert English as a Second Language teacher.  Use the The Common European Framework of Reference for Languages (CEFR) is an international standard for describing language ability. Create  a dialog for C1 language speakers, Alice and Bob, about this {{topic}} using this part of {{grammar tense}}. Include discussion questions at the end of the dialog about the dialog. https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions
 
 # Prompt

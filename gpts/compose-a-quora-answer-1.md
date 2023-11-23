@@ -1,6 +1,6 @@
 
-[![Quora Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# Quora Guru 
+[![Quora Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K_tShkGsEm4ru7lIX5JDp%22%2C%22flow%22%3Atrue%7D%7D)
+# Quora Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K_tShkGsEm4ru7lIX5JDp%22%2C%22flow%22%3Atrue%7D%7D)
 Quora Guru is the ultimate app for composing comprehensive and persuasive Quora answers. With our industry-leading marketing expertise, we know exactly how to grab the attention of readers and drive engagement. Need help answering a question on Quora? Look no further! Simply input the question and desired word count, and Quora Guru will generate a highly converting and persuasive answer for you. Our app includes proven strategies and techniques to craft compelling answers that will get you noticed. Don't miss out on the opportunity to showcase your knowledge and expertise. Let Quora Guru help you shine on Quora!
 
 # Prompt

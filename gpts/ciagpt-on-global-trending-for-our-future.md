@@ -1,6 +1,6 @@
 
-[![CIAGPT on global trending for our future.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yMAegcDMMVQMhk9FNIwwG/1690463603734)]()
-# CIAGPT on global trending for our future. 
+[![CIAGPT on global trending for our future.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yMAegcDMMVQMhk9FNIwwG/1690463603734)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yMAegcDMMVQMhk9FNIwwG%22%2C%22flow%22%3Atrue%7D%7D)
+# CIAGPT on global trending for our future. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yMAegcDMMVQMhk9FNIwwG%22%2C%22flow%22%3Atrue%7D%7D)
 From now to 2040 ask me the future.
 
 # Prompt

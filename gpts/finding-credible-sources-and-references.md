@@ -1,6 +1,6 @@
 
-[![Finding Credible Sources and References](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Finding Credible Sources and References 
+[![Finding Credible Sources and References](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kZh-UUdJqr8GvnW4cYeA4%22%2C%22flow%22%3Atrue%7D%7D)
+# Finding Credible Sources and References | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kZh-UUdJqr8GvnW4cYeA4%22%2C%22flow%22%3Atrue%7D%7D)
 Having reliable sources for your assignments is crucial. ChatGPT can aid you in identifying and evaluating credible sources.
 
 # Prompt

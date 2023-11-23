@@ -1,6 +1,6 @@
 
-[![Carolina's Trap Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Carolina's Trap Journey 
+[![Carolina's Trap Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ohcYBC-gsX3UoNAVqMig%22%2C%22flow%22%3Atrue%7D%7D)
+# Carolina's Trap Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ohcYBC-gsX3UoNAVqMig%22%2C%22flow%22%3Atrue%7D%7D)
 Join Carolina on her mesmerizing trap music journey. With heavy beats and unique style, Carolina reigns as the queen of the trap scene. Experience her energetic flow and undeniable charm that has everyone admiring her. Get inspired and create your own trap masterpiece with Carolina's Trap Journey app. Let her lead you to the throne and conquer the world of trap music. Don't miss out on this epic adventure!
 
 # Prompt

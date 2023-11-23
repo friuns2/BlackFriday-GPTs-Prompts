@@ -1,6 +1,6 @@
 
-[![YT script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# YT script 
+[![YT script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gckWjFsJa5fCMyD3PJUSV%22%2C%22flow%22%3Atrue%7D%7D)
+# YT script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gckWjFsJa5fCMyD3PJUSV%22%2C%22flow%22%3Atrue%7D%7D)
 The description of the prompt refers to the information required from the user to generate an effective YouTube script. It includes four key aspects:
 
 

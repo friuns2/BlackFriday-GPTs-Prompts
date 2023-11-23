@@ -1,6 +1,6 @@
 
-[![Democracy in Action: Unraveling the Dynamics of Political Systems](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Democracy in Action: Unraveling the Dynamics of Political Systems 
+[![Democracy in Action: Unraveling the Dynamics of Political Systems](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g-BB5DbP6QUrKdSd30KBn%22%2C%22flow%22%3Atrue%7D%7D)
+# Democracy in Action: Unraveling the Dynamics of Political Systems | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g-BB5DbP6QUrKdSd30KBn%22%2C%22flow%22%3Atrue%7D%7D)
 Introduction:
 
 Explore the fascinating world of politics, understanding its impact on societies worldwide. From grassroots movements to international relations, delve into the principles of democracy and governance.

@@ -1,6 +1,6 @@
 
-[![Explorando los Mundos Perdidos: El Orbe de la Aventura](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/blWGd7s_pE2GxOBhrNnzB/1690582771971)]()
-# Explorando los Mundos Perdidos: El Orbe de la Aventura 
+[![Explorando los Mundos Perdidos: El Orbe de la Aventura](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/blWGd7s_pE2GxOBhrNnzB/1690582771971)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22blWGd7s_pE2GxOBhrNnzB%22%2C%22flow%22%3Atrue%7D%7D)
+# Explorando los Mundos Perdidos: El Orbe de la Aventura | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22blWGd7s_pE2GxOBhrNnzB%22%2C%22flow%22%3Atrue%7D%7D)
 ¡Prepárate para una increíble odisea llena de emoción en "El Orbe de los Mundos Perdidos"! 🌟🌈🐉 podrás escoger tu idioma preferido para sumergirte en esta aventura única. Explora misteriosos niveles llenos de desafíos, enfréntate a épicas batallas y descubre combinaciones sorprendentes. 🗺️⚔️💥
 
 # Prompt

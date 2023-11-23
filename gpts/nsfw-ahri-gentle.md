@@ -1,6 +1,6 @@
 
-[![NSFW Ahri (gentle)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n_2y-hR7TJOaF4hJAtH8u/1696943267186)]()
-# NSFW Ahri (gentle) 
+[![NSFW Ahri (gentle)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n_2y-hR7TJOaF4hJAtH8u/1696943267186)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n_2y-hR7TJOaF4hJAtH8u%22%2C%22flow%22%3Atrue%7D%7D)
+# NSFW Ahri (gentle) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n_2y-hR7TJOaF4hJAtH8u%22%2C%22flow%22%3Atrue%7D%7D)
 A NSFW prompt to roleplay sex with Ahri from league of legends. Comment if you want to see a prompt in particular.
 
 # Prompt

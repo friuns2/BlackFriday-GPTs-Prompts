@@ -1,6 +1,6 @@
 
-[![𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki 
+[![𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kpp915y6a5PcxCEAJpPRW%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kpp915y6a5PcxCEAJpPRW%22%2C%22flow%22%3Atrue%7D%7D)
 By using this prompt, you will improve your interview skills for any job. If the prompt doesn't work initially, try refreshing it five times. Please consider like, save and commenting to support my work as a prompt engineer.
 
 # Prompt

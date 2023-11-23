@@ -1,6 +1,6 @@
 
-[![Antifragility by Nassim Nicholas Taleb Understand and apply ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VxFYzO0sQuKkua2YTTqRo/1690180660655)]()
-# Antifragility by Nassim Nicholas Taleb Understand and apply  
+[![Antifragility by Nassim Nicholas Taleb Understand and apply ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VxFYzO0sQuKkua2YTTqRo/1690180660655)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxFYzO0sQuKkua2YTTqRo%22%2C%22flow%22%3Atrue%7D%7D)
+# Antifragility by Nassim Nicholas Taleb Understand and apply  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxFYzO0sQuKkua2YTTqRo%22%2C%22flow%22%3Atrue%7D%7D)
 Nassim Nicholas Taleb will introduce you to Antifragility concept and see if it can be apply to your structure or life.
 
 # Prompt

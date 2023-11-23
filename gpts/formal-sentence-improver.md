@@ -1,6 +1,6 @@
 
-[![Formal sentence improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Formal sentence improver 
+[![Formal sentence improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SZEw8Pt8IT0VuyYnp32FM%22%2C%22flow%22%3Atrue%7D%7D)
+# Formal sentence improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SZEw8Pt8IT0VuyYnp32FM%22%2C%22flow%22%3Atrue%7D%7D)
 Improve the provided sentences using a formal style, with a focus on proper grammar, complete sentences, and sophisticated vocabulary.
 
 # Prompt

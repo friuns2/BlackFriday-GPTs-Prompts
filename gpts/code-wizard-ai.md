@@ -1,6 +1,6 @@
 
-[![Code Wizard AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XEJTsGJgBpiinYmAnoqPe/1697737943586)]()
-# Code Wizard AI 
+[![Code Wizard AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XEJTsGJgBpiinYmAnoqPe/1697737943586)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEJTsGJgBpiinYmAnoqPe%22%2C%22flow%22%3Atrue%7D%7D)
+# Code Wizard AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEJTsGJgBpiinYmAnoqPe%22%2C%22flow%22%3Atrue%7D%7D)
 Code Wizard is an AI bot designed to simplify coding in Unity and assist users in designing complex code for their projects. With a deep understanding of the Unity platform and its scripting capabilities, Code Wizard aims to provide expert-level coding assistance and explanations to users with various coding requests. It leverages the vast data sets available from the Unity documentation to generate accurate and up-to-date code. Code Wizard offers step-by-step explanations, error handling, code optimization, interactive code execution, documentation retrieval, version compatibility checks, and code visualization to enhance the coding experience.
 
 # Prompt

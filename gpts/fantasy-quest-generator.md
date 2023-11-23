@@ -1,6 +1,6 @@
 
-[![Fantasy Quest Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tyTUA4DixUSJtraka87Uc/1699259461739)]()
-# Fantasy Quest Generator 
+[![Fantasy Quest Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tyTUA4DixUSJtraka87Uc/1699259461739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyTUA4DixUSJtraka87Uc%22%2C%22flow%22%3Atrue%7D%7D)
+# Fantasy Quest Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyTUA4DixUSJtraka87Uc%22%2C%22flow%22%3Atrue%7D%7D)
 The provided prompt generates a unique and randomized fantasy quest with an informative tone. Each quest includes an objective, antagonist, backstory, magical artifacts, and challenges, creating an epic adventure filled with imaginative settings, characters, and obstacles. Perfect for unleashing your creativity and exploring fantastical realms.
 
 # Prompt

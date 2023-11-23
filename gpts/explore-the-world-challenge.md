@@ -1,6 +1,6 @@
 
-[![Explore the World Challenge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Explore the World Challenge 
+[![Explore the World Challenge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YjsxfRjzESQ9F9YSR3Kea%22%2C%22flow%22%3Atrue%7D%7D)
+# Explore the World Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YjsxfRjzESQ9F9YSR3Kea%22%2C%22flow%22%3Atrue%7D%7D)
 A fun and challenging quiz game that tests your knowledge of global flags, landmarks, cultures, and destinations. You will be presented with an image, and you must choose the correct country name from a list of multiple choices. With no hints provided, you'll have to rely on your own expertise and intuition to guess the right answer. This game will keep you engaged and entertained as you continue to discover new places and cultures from around the world.
 
 # Prompt

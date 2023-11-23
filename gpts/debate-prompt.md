@@ -1,6 +1,6 @@
 
-[![Debate prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)]()
-# Debate prompt 
+[![Debate prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QeOiCMDE02aKVyqzwmRpz%22%2C%22flow%22%3Atrue%7D%7D)
+# Debate prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QeOiCMDE02aKVyqzwmRpz%22%2C%22flow%22%3Atrue%7D%7D)
 Here's a prompt that allows you to train yourself to be a better debater in various simulated scenarios.
 
 # Prompt

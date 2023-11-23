@@ -1,6 +1,6 @@
 
-[![Influencer Analyzer: Assessing and Rating Potential Influencers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Influencer Analyzer: Assessing and Rating Potential Influencers 
+[![Influencer Analyzer: Assessing and Rating Potential Influencers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223LPJFgQ5MqOk3gfS8c5Eq%22%2C%22flow%22%3Atrue%7D%7D)
+# Influencer Analyzer: Assessing and Rating Potential Influencers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223LPJFgQ5MqOk3gfS8c5Eq%22%2C%22flow%22%3Atrue%7D%7D)
 Influencer Analyzer is a powerful tool for assessing and rating real influencers on various key metrics. With Influencer Analyzer, you can easily evaluate influencer performance based on follower count, engagement rate, content quality, and audience fit with your brand. 
 
 # Prompt

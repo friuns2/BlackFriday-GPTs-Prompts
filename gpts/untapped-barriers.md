@@ -1,6 +1,6 @@
 
-[![UNTAPPED BARRIERS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pYGElpex86Iu8gGOrsRAk/1696373399720)]()
-# UNTAPPED BARRIERS 
+[![UNTAPPED BARRIERS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pYGElpex86Iu8gGOrsRAk/1696373399720)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pYGElpex86Iu8gGOrsRAk%22%2C%22flow%22%3Atrue%7D%7D)
+# UNTAPPED BARRIERS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pYGElpex86Iu8gGOrsRAk%22%2C%22flow%22%3Atrue%7D%7D)
 Trying to drive a behavior? This prompt helps you unlock some unexpected barriers. Kurt Lewin style. 
 
 # Prompt

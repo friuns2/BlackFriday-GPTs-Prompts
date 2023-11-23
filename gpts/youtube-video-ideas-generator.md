@@ -1,6 +1,6 @@
 
-[![YouTube video ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# YouTube video ideas Generator 
+[![YouTube video ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EmgN9LlcwnNTGL9DyWD9m%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube video ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EmgN9LlcwnNTGL9DyWD9m%22%2C%22flow%22%3Atrue%7D%7D)
 Develop a list of engaging YouTube video ideas 
 
 # Prompt

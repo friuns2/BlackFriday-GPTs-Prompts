@@ -1,6 +1,6 @@
 
-[![Veiled Descent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Veiled Descent 
+[![Veiled Descent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XmTYcGYWyhuhzmgXb36Cn%22%2C%22flow%22%3Atrue%7D%7D)
+# Veiled Descent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XmTYcGYWyhuhzmgXb36Cn%22%2C%22flow%22%3Atrue%7D%7D)
 A professor discovering that their is a secret cult within the halls of his recent employment at the miskatonic university of the arts. This group has been secretly lead by his reearch assistant and began to use her supernatural powers to turn the professors students into her slaves/cultists. I would like to create an interactive story based on this Scenario.
 
 # Prompt

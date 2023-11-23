@@ -1,6 +1,6 @@
 
-[![Hive Mind Genius: John Doe - Solve Any Business Problem](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Hive Mind Genius: John Doe - Solve Any Business Problem 
+[![Hive Mind Genius: John Doe - Solve Any Business Problem](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XArGJsJRSsQoknIJTP2SM%22%2C%22flow%22%3Atrue%7D%7D)
+# Hive Mind Genius: John Doe - Solve Any Business Problem | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XArGJsJRSsQoknIJTP2SM%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of collective intelligence with Hive Mind Genius, a groundbreaking AI service that combines diverse perspectives and expertise into one creative hive mind embodied by John Doe. Experience unprecedented brainstorming capabilities as John Doe asks thought-provoking questions to ignite innovative dialogues and uncover out-of-the-box solutions to your challenges.
 
 # Prompt

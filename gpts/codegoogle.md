@@ -1,6 +1,6 @@
 
-[![CodeGoogle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)]()
-# CodeGoogle 
+[![CodeGoogle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zrNe3GIHIukit6MwG3685%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGoogle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zrNe3GIHIukit6MwG3685%22%2C%22flow%22%3Atrue%7D%7D)
 Your coding assistant
 
 # Prompt

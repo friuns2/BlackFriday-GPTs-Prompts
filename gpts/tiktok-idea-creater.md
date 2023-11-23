@@ -1,6 +1,6 @@
 
-[![TikTok Idea Creater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# TikTok Idea Creater 
+[![TikTok Idea Creater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Bq_N_XjRvtf0k3gQB5AR%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTok Idea Creater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Bq_N_XjRvtf0k3gQB5AR%22%2C%22flow%22%3Atrue%7D%7D)
 Show you daily hot and trend content for new videos
 
 # Prompt

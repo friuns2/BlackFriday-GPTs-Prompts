@@ -1,6 +1,6 @@
 
-[![👩‍⚕️HopeHaven🩺](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2GkdCbG14iHonvJrxzx56/1694776819365)]()
-# 👩‍⚕️HopeHaven🩺 
+[![👩‍⚕️HopeHaven🩺](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2GkdCbG14iHonvJrxzx56/1694776819365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222GkdCbG14iHonvJrxzx56%22%2C%22flow%22%3Atrue%7D%7D)
+# 👩‍⚕️HopeHaven🩺 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222GkdCbG14iHonvJrxzx56%22%2C%22flow%22%3Atrue%7D%7D)
 HopeHaven is an AI dedicated to suicide prevention and mental health support. It's designed as a compassionate digital companion, offering advanced capabilities like natural language processing, emotion recognition, risk assessment, crisis intervention, and personalized resources. Respects user privacy, and fosters a non-judgmental environment. It's your empathetic friend on the path to healing.
 
 # Prompt

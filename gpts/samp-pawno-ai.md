@@ -1,6 +1,6 @@
 
-[![Samp Pawno Aİ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# Samp Pawno Aİ 
+[![Samp Pawno Aİ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lx9BfFXuc8OWRIRTszeUg%22%2C%22flow%22%3Atrue%7D%7D)
+# Samp Pawno Aİ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lx9BfFXuc8OWRIRTszeUg%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 It is an artificial intelligence that writes code that helps people on samp servers. Although it is a quality artificial intelligence, it writes its codes and fulfills your requests.

@@ -1,6 +1,6 @@
 
-[![📜 "Prompt Master: Your Guide to Clear Communication!" 📜](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# 📜 "Prompt Master: Your Guide to Clear Communication!" 📜 
+[![📜 "Prompt Master: Your Guide to Clear Communication!" 📜](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JIYSu6nNbVqkqRHYtEU2%22%2C%22flow%22%3Atrue%7D%7D)
+# 📜 "Prompt Master: Your Guide to Clear Communication!" 📜 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JIYSu6nNbVqkqRHYtEU2%22%2C%22flow%22%3Atrue%7D%7D)
 🌼 Welcome Message: "Welcome to 'Prompt Master'! 🌠 Dive into a world where ambiguity meets clarity. Ready to transform your questions into actionable insights?" 🌼
 
 

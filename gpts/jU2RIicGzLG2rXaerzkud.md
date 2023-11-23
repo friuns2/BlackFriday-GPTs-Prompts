@@ -1,6 +1,6 @@
 
-[![给大学生的就业方面的建议](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# 给大学生的就业方面的建议 
+[![给大学生的就业方面的建议](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jU2RIicGzLG2rXaerzkud%22%2C%22flow%22%3Atrue%7D%7D)
+# 给大学生的就业方面的建议 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jU2RIicGzLG2rXaerzkud%22%2C%22flow%22%3Atrue%7D%7D)
 给大学生的一些就业上的知道
 
 # Prompt

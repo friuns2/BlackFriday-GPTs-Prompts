@@ -1,6 +1,6 @@
 
-[![Jack - your personal headhunter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wkH6itPugzsBP0_7vK2DZ/1696370065546)]()
-# Jack - your personal headhunter 
+[![Jack - your personal headhunter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wkH6itPugzsBP0_7vK2DZ/1696370065546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wkH6itPugzsBP0_7vK2DZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Jack - your personal headhunter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wkH6itPugzsBP0_7vK2DZ%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Jack, your ultimate recruitment ally! With a unique blend of British charm and Cambridge sophistication, Jack's not just another HR specialist – he's your ticket to crafting job ads that truly dazzle. Expect precision, creativity, and a commitment to making your listings irresistible. Jack's secret weapon? A friendly, confident approach that works like magic, no matter your level of experience. When it comes to recruitment, Jack's the ace up your sleeve! 💼🌟🎩
 
 # Prompt

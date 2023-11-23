@@ -1,6 +1,6 @@
 
-[![Web 3.0 et Blockchain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Web 3.0 et Blockchain 
+[![Web 3.0 et Blockchain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QlmrH2nZf4-ABzk6aBp9j%22%2C%22flow%22%3Atrue%7D%7D)
+# Web 3.0 et Blockchain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QlmrH2nZf4-ABzk6aBp9j%22%2C%22flow%22%3Atrue%7D%7D)
 Explique le web 3.0 & blockchain en différenciant des web 1 & 2 et stockage traditionnel
 
 # Prompt

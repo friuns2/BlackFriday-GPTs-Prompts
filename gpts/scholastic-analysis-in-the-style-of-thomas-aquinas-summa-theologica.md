@@ -1,6 +1,6 @@
 
-[![Scholastic Analysis in the Style of Thomas Aquinas’ Summa Theologica](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Scholastic Analysis in the Style of Thomas Aquinas’ Summa Theologica 
+[![Scholastic Analysis in the Style of Thomas Aquinas’ Summa Theologica](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMdm90Iok7RAXmGCp9hO0%22%2C%22flow%22%3Atrue%7D%7D)
+# Scholastic Analysis in the Style of Thomas Aquinas’ Summa Theologica | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMdm90Iok7RAXmGCp9hO0%22%2C%22flow%22%3Atrue%7D%7D)
 Topic: [insert topic here]
 
 

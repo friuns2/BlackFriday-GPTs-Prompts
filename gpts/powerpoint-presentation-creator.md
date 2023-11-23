@@ -1,6 +1,6 @@
 
-[![PowerPoint presentation creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# PowerPoint presentation creator 
+[![PowerPoint presentation creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yOSwCj07B0rk3wLODDKKH%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerPoint presentation creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yOSwCj07B0rk3wLODDKKH%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you with any given presentation idea. You will get the exact structure of your presentation. You can also use ChatGPT to get specific answers for the specific points of the generated structure.
 
 # Prompt

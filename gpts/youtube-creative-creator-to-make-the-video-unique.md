@@ -1,6 +1,6 @@
 
-[![Youtube - Prompt for memory making ideas [v1]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Youtube - Prompt for memory making ideas [v1] 
+[![Youtube - Prompt for memory making ideas [v1]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tPVEr1K_zcGJJ1eOhwKE%22%2C%22flow%22%3Atrue%7D%7D)
+# Youtube - Prompt for memory making ideas [v1] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tPVEr1K_zcGJJ1eOhwKE%22%2C%22flow%22%3Atrue%7D%7D)
 As we know, a person only goes back to a restaurant if the food makes an impression on that person's memory, and that's why I'm here.
 
 

@@ -1,6 +1,6 @@
 
-[![Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt) 
+[![Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vwcw1Jdf8jRBulogTTJU1%22%2C%22flow%22%3Atrue%7D%7D)
+# Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vwcw1Jdf8jRBulogTTJU1%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the full potential of ChatGPT with this simple trick
 
 As a powerful and versatile language model, ChatGPT from OpenAI has the ability to engage in complex debates on a wide range of topics. However, to truly showcase its analytical capabilities and produce deep and thought-provoking responses, a trick can be employed to elicit more detailed and structured answers.

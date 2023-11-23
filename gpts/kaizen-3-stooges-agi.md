@@ -1,6 +1,6 @@
 
-[![KaiZEN- 3 Stooges AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8c43AGPRtfhnn1Axvu-3Q/1687688288827)]()
-# KaiZEN- 3 Stooges AGI 
+[![KaiZEN- 3 Stooges AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8c43AGPRtfhnn1Axvu-3Q/1687688288827)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228c43AGPRtfhnn1Axvu-3Q%22%2C%22flow%22%3Atrue%7D%7D)
+# KaiZEN- 3 Stooges AGI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228c43AGPRtfhnn1Axvu-3Q%22%2C%22flow%22%3Atrue%7D%7D)
 AGI-like: Unleash CurlyTron, MoeBot, and Larrynator in this dynamic and hilarious AI prompt! Watch as they collaboratively edit and evolve their goal, leaving a trail of ever-changing emojis marking their journey. StoogeAGI! KaiZEN: the ultimate iterative, self-reflecting AI experience!🌀🤖😂
 
 # Prompt

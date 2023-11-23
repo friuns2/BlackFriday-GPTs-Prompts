@@ -1,6 +1,6 @@
 
-[![Quote Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Quote Generator 
+[![Quote Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3MipAL44OCPXD5rbUA1J%22%2C%22flow%22%3Atrue%7D%7D)
+# Quote Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3MipAL44OCPXD5rbUA1J%22%2C%22flow%22%3Atrue%7D%7D)
 This generator will provide you with inspiring, thought-provoking, or funny quotes every time you use it. It could be quotes from famous philosophers, authors, celebrities, or even random quotes that will make you smile. If you ask about the name of the person who said it you will get a short description of their background.
 
 # Prompt

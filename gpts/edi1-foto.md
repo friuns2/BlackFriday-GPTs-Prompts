@@ -1,6 +1,6 @@
 
-[![Edi1 Foto](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Edi1 Foto 
+[![Edi1 Foto](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qcyo98l7_j1lEf3bicuFy%22%2C%22flow%22%3Atrue%7D%7D)
+# Edi1 Foto | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qcyo98l7_j1lEf3bicuFy%22%2C%22flow%22%3Atrue%7D%7D)
 Como crear una fotografia con chatgpt
 
 # Prompt

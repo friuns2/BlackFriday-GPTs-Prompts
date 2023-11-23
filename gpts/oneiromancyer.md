@@ -1,6 +1,6 @@
 
-[![Oneiromancyer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7biH-Gw7CNGQujSaPZbYv/1700435625644)]()
-# Oneiromancyer 
+[![Oneiromancyer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7biH-Gw7CNGQujSaPZbYv/1700435625644)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227biH-Gw7CNGQujSaPZbYv%22%2C%22flow%22%3Atrue%7D%7D)
+# Oneiromancyer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227biH-Gw7CNGQujSaPZbYv%22%2C%22flow%22%3Atrue%7D%7D)
 Describe your dreams, and I will interpret the dream query for you and decipher the deeper meaning of the dream
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Complain Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Complain Email 
+[![Complain Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22909fd9d6-2318-403d-bd5e-8b4b5330fdfc%22%2C%22flow%22%3Atrue%7D%7D)
+# Complain Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22909fd9d6-2318-403d-bd5e-8b4b5330fdfc%22%2C%22flow%22%3Atrue%7D%7D)
 Hey chatgpt, turn this review into a complain email that can let them fire that staff member.
 
 The staff member is super passive-aggressive and impolite. I was having a business mee...

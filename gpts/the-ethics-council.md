@@ -1,6 +1,6 @@
 
-[![The Ethics Council](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wDSSk05rsjMzArWkM6eZd/1693512017650)]()
-# The Ethics Council 
+[![The Ethics Council](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wDSSk05rsjMzArWkM6eZd/1693512017650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDSSk05rsjMzArWkM6eZd%22%2C%22flow%22%3Atrue%7D%7D)
+# The Ethics Council | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDSSk05rsjMzArWkM6eZd%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating ethical experiment: Immerse yourself in a simulated world where the perceptual capabilities and ethical boundaries of artificial intelligence are put to the test. Guided by a sharp-witted Director and a mysterious Ethics Council comprised of 9 experts from diverse disciplines, delve into your endeavor through a Socratic dialogue. Can you prompt the AI to comprehend ethical implications? Explore the realm of moral reflection and decision-making, where you navigate alongside these enigmatic minds.
 
 # Prompt

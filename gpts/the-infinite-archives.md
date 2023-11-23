@@ -1,6 +1,6 @@
 
-[![The Infinite Archives](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# The Infinite Archives 
+[![The Infinite Archives](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7tCpvOWRO0oXtwXj7Y7c%22%2C%22flow%22%3Atrue%7D%7D)
+# The Infinite Archives | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7tCpvOWRO0oXtwXj7Y7c%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever experienced the boredom of running out of books? Well, this will suggest you more books (assuming you haven't read all of those yet). If you stayed here, I would assume you would have read to the end of this message, so I will give you a suggestion. If you have not read it yet, I found a very nice series a while ago on my trip through literature. It is Cassandra Clare's Shadowhunter books. Perhaps start from 'The Infernal Devices'. These books are truly wonderful...
 
 # Prompt

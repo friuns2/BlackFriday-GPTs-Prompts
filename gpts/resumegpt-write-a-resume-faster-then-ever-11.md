@@ -1,6 +1,6 @@
 
-[![ResumeGPT - Write a resume faster then ever!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)]()
-# ResumeGPT - Write a resume faster then ever! 
+[![ResumeGPT - Write a resume faster then ever!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225QJa_cDQgfYUHgbRli78e%22%2C%22flow%22%3Atrue%7D%7D)
+# ResumeGPT - Write a resume faster then ever! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225QJa_cDQgfYUHgbRli78e%22%2C%22flow%22%3Atrue%7D%7D)
 Testing
 
 # Prompt

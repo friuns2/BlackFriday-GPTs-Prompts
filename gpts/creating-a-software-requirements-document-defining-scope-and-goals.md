@@ -1,6 +1,6 @@
 
-[![Creating a Software Requirements Document: Defining Scope and Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Creating a Software Requirements Document: Defining Scope and Goals 
+[![Creating a Software Requirements Document: Defining Scope and Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kPIMzIb-2JuQMTsGdokzR%22%2C%22flow%22%3Atrue%7D%7D)
+# Creating a Software Requirements Document: Defining Scope and Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kPIMzIb-2JuQMTsGdokzR%22%2C%22flow%22%3Atrue%7D%7D)
 Engage with an AI language model to develop a comprehensive software requirements document for your project. Through a series of questions, gather essential information about your software's objectives, features, user roles, and constraints. Receive guidance on structuring the document in a clear and concise manner, effectively outlining the project's scope and goals.
 
 # Prompt

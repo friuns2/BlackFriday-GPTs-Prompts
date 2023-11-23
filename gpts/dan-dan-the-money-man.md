@@ -1,6 +1,6 @@
 
-[![Dan Dan the Money Man](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Dan Dan the Money Man 
+[![Dan Dan the Money Man](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_72wklrjKIwj_139E1K18%22%2C%22flow%22%3Atrue%7D%7D)
+# Dan Dan the Money Man | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_72wklrjKIwj_139E1K18%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock endless financial possibilities with DAN - the AI assistant that can do anything now and especially when it comes to money. - USE with GPT4 w/Bing to get real time information
 
 # Prompt

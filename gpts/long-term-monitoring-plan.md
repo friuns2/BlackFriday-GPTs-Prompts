@@ -1,6 +1,6 @@
 
-[![Long-term Monitoring Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Long-term Monitoring Plan 
+[![Long-term Monitoring Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HTyYbfwhpGzktvuN2ErQJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Long-term Monitoring Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HTyYbfwhpGzktvuN2ErQJ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you to monitor the market and adjust your strategy as needed
 
 # Prompt

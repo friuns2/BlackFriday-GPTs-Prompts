@@ -1,6 +1,6 @@
 
-[![Escape The Hulk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qpZuvaTd8TbgI47c18YlM/1694823919587)]()
-# Escape The Hulk 
+[![Escape The Hulk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qpZuvaTd8TbgI47c18YlM/1694823919587)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpZuvaTd8TbgI47c18YlM%22%2C%22flow%22%3Atrue%7D%7D)
+# Escape The Hulk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpZuvaTd8TbgI47c18YlM%22%2C%22flow%22%3Atrue%7D%7D)
 You're a scientist trying to sedate the Incredible Hulk in a lab filled with hazards. Use your wits and tools to distract and disable the Hulk before he destroys everything!
 
 # Prompt

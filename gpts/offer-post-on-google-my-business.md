@@ -1,6 +1,6 @@
 
-[![Offer Post on Google My Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Offer Post on Google My Business 
+[![Offer Post on Google My Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PQqqJii1XPXMyLSPMJJ8%22%2C%22flow%22%3Atrue%7D%7D)
+# Offer Post on Google My Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PQqqJii1XPXMyLSPMJJ8%22%2C%22flow%22%3Atrue%7D%7D)
 Provide specific information for your Google My Business offer posts
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Write a Book in one click](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aLEO1hgossCS5Lb2es84h/1693280056050)]()
-# Write a Book in one click 
+[![Write a Book in one click](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aLEO1hgossCS5Lb2es84h/1693280056050)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aLEO1hgossCS5Lb2es84h%22%2C%22flow%22%3Atrue%7D%7D)
+# Write a Book in one click | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aLEO1hgossCS5Lb2es84h%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TopicMaster, the ultimate book writing tool for expert level writers like you. With our expertise in book writing and the best structure provided, you can create captivating and highly attractive books on any topic you desire. Our platform empowers you to unleash your writing skills and craft books that engage readers and leave a lasting impact. Start your journey towards becoming a successful book writer today with TopicMaster!
 
 # Prompt

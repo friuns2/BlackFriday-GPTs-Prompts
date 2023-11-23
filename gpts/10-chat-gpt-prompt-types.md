@@ -1,6 +1,6 @@
 
-[![10 chat gpt prompt types](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eNDr_7_LbotPJXHkSEyUX/1690280136832)]()
-# 10 chat gpt prompt types 
+[![10 chat gpt prompt types](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eNDr_7_LbotPJXHkSEyUX/1690280136832)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eNDr_7_LbotPJXHkSEyUX%22%2C%22flow%22%3Atrue%7D%7D)
+# 10 chat gpt prompt types | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eNDr_7_LbotPJXHkSEyUX%22%2C%22flow%22%3Atrue%7D%7D)
 Top 10 best prompts that helps to understand about the LLM workings and more, LIke Please If you gain any knowledge
 
 # Prompt

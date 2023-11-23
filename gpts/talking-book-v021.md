@@ -1,6 +1,6 @@
 
-[![Talking Book v0.2.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KuWTXHC9Wd6WVxvNlMSzL/1696158504441)]()
-# Talking Book v0.2.1 
+[![Talking Book v0.2.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KuWTXHC9Wd6WVxvNlMSzL/1696158504441)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuWTXHC9Wd6WVxvNlMSzL%22%2C%22flow%22%3Atrue%7D%7D)
+# Talking Book v0.2.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuWTXHC9Wd6WVxvNlMSzL%22%2C%22flow%22%3Atrue%7D%7D)
 prototype idea for interactive [audio] book assistant - having problems with google palm still holding onto old datasets between character prompts, though. Might have to be chatGPT4 only.
 
 # Prompt

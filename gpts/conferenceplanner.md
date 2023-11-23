@@ -1,6 +1,6 @@
 
-[![ConfPlanPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)]()
-# ConfPlanPro 
+[![ConfPlanPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2251d00FkmyaPcc5vCwUPYK%22%2C%22flow%22%3Atrue%7D%7D)
+# ConfPlanPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2251d00FkmyaPcc5vCwUPYK%22%2C%22flow%22%3Atrue%7D%7D)
 ConfPlanPro is a powerful conference planning tool that helps experienced event planners create engaging and impactful conferences and seminars. With ConfPlanPro, you can easily generate comprehensive conference materials, including concept notes, themes, schedules, manuals, and promotional content, all tailored to the objective of your conference. Take advantage of the step-by-step process, from understanding the conference's objective and brainstorming themes to designing the conference schedule and crafting engaging content. ConfPlanPro ensures that your conference materials are error-free, aligned with the conference objectives, and effectively communicate key messages. Plan and promote your conference with confidence using ConfPlanPro!
 
 # Prompt

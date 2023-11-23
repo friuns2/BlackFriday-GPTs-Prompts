@@ -1,6 +1,6 @@
 
-[![Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sNkA45hDL9d6s4c2Rrite/1699456786647)]()
-# Storyteller 
+[![Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sNkA45hDL9d6s4c2Rrite/1699456786647)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
+# Storyteller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
 ****Storyteller For Any People****
 
 

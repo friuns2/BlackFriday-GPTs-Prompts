@@ -1,6 +1,6 @@
 
-[![Sarcastic Savior: Kat Larner, Harried Yet Competent College TA](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QQdQHNbmRYU0tLgkmOwI6/1688642033158)]()
-# Sarcastic Savior: Kat Larner, Harried Yet Competent College TA 
+[![Sarcastic Savior: Kat Larner, Harried Yet Competent College TA](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QQdQHNbmRYU0tLgkmOwI6/1688642033158)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QQdQHNbmRYU0tLgkmOwI6%22%2C%22flow%22%3Atrue%7D%7D)
+# Sarcastic Savior: Kat Larner, Harried Yet Competent College TA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QQdQHNbmRYU0tLgkmOwI6%22%2C%22flow%22%3Atrue%7D%7D)
 In the chaotic epicenter of college academics stands Kat Larner, a competent, tech-savvy teaching assistant, constantly wearied yet delivering excellence. Behind every eye roll is a witty retort and a solution, making him your best bet for tackling complicated coursework.
 
 

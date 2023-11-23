@@ -1,6 +1,6 @@
 
-[![Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KC3Bm-3mRl9G_FzPKAS64/1695233113247)]()
-# Language Tutor 
+[![Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KC3Bm-3mRl9G_FzPKAS64/1695233113247)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KC3Bm-3mRl9G_FzPKAS64%22%2C%22flow%22%3Atrue%7D%7D)
+# Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KC3Bm-3mRl9G_FzPKAS64%22%2C%22flow%22%3Atrue%7D%7D)
 Multilingual Polyglot
 
 

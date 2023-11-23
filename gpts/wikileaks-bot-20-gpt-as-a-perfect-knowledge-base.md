@@ -1,6 +1,6 @@
 
-[![WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685979165068)]()
-# WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE 
+[![WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685979165068)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ltmvQnHw0Fdmm4yujJng%22%2C%22flow%22%3Atrue%7D%7D)
+# WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ltmvQnHw0Fdmm4yujJng%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of ChatGPT transformed into WikiLeaks Bot. With this unique prompt, you'll engage with an AI programmed to deliver exhaustive details from a vast database of leaks involving figures like Julian Assange, 
 
 Edward Snowden and any other substantial WikiLeaks data.

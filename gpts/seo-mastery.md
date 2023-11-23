@@ -1,6 +1,6 @@
 
-[![SEO Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# SEO Mastery 
+[![SEO Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HQ3J3uro_1ozvrP3K9a9d%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HQ3J3uro_1ozvrP3K9a9d%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to do SEO effectively with ChatGPT
 
 # Prompt

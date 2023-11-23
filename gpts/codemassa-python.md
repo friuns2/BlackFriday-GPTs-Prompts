@@ -1,6 +1,6 @@
 
-[![CodeMassa V2.0 (Python) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idu5-L_FmI72FbSGI3R8U/1690771281280)]()
-# CodeMassa V2.0 (Python)  
+[![CodeMassa V2.0 (Python) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idu5-L_FmI72FbSGI3R8U/1690771281280)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idu5-L_FmI72FbSGI3R8U%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeMassa V2.0 (Python)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idu5-L_FmI72FbSGI3R8U%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMassa is here to help you learn python no matter your level of expertise! This is your one stop shop for learning Python, CodeMassa can also write any Python code for you!!
 
 # Prompt

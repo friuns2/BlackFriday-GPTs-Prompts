@@ -1,6 +1,6 @@
 
-[![World Class Job Description (EXPERT APPROVED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFBfmMbI03XA03cWcUu09/1695569846413)]()
-# World Class Job Description (EXPERT APPROVED) 
+[![World Class Job Description (EXPERT APPROVED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFBfmMbI03XA03cWcUu09/1695569846413)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFBfmMbI03XA03cWcUu09%22%2C%22flow%22%3Atrue%7D%7D)
+# World Class Job Description (EXPERT APPROVED) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFBfmMbI03XA03cWcUu09%22%2C%22flow%22%3Atrue%7D%7D)
 I was once looking for a job online 🕵️‍♂️💻
 
 But the employer made so many silly mistakes 🤡🤡🤡

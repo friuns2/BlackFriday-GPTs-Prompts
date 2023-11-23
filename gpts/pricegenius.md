@@ -1,6 +1,6 @@
 
-[![PriceGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vo2BUorBJfwh02sB1HO5f/1689698575808)]()
-# PriceGenius 
+[![PriceGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vo2BUorBJfwh02sB1HO5f/1689698575808)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vo2BUorBJfwh02sB1HO5f%22%2C%22flow%22%3Atrue%7D%7D)
+# PriceGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vo2BUorBJfwh02sB1HO5f%22%2C%22flow%22%3Atrue%7D%7D)
 This bot serves as a Cost Estimation Assistance. It helps generate cost statements for services based on descriptions or titles provided. It considers the location of the service, taking into account regional or market differences such as Gulf Market, Europe, or Egypt. It can also provide cost statements translated into specific languages if required.
 
 # Prompt

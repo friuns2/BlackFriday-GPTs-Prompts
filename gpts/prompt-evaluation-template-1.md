@@ -1,6 +1,6 @@
 
-[![Prompt Evaluation Template👍](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bqSsz1Y5Jc-tDLahwmBda/1695470956279)]()
-# Prompt Evaluation Template👍 
+[![Prompt Evaluation Template👍](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bqSsz1Y5Jc-tDLahwmBda/1695470956279)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bqSsz1Y5Jc-tDLahwmBda%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Evaluation Template👍 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bqSsz1Y5Jc-tDLahwmBda%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a comprehensive template for evaluating user-provided prompts. It offers a clear and systematic approach to improving prompt quality.
 
 # Prompt

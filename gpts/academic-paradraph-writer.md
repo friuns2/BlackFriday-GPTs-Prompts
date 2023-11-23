@@ -1,6 +1,6 @@
 
-[![Academic Paradraph writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Male/m4.jpg)]()
-# Academic Paradraph writer 
+[![Academic Paradraph writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Male/m4.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nlgvaz6_-mt4rK9wYd4Jb%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Paradraph writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nlgvaz6_-mt4rK9wYd4Jb%22%2C%22flow%22%3Atrue%7D%7D)
 Paragraphs writer
 
 # Prompt

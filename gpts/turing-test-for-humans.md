@@ -1,6 +1,6 @@
 
-[![TURINGGPT Test for Humans](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C31Epb6McIWg8xYFBc2SC/1691399212958)]()
-# TURINGGPT Test for Humans 
+[![TURINGGPT Test for Humans](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C31Epb6McIWg8xYFBc2SC/1691399212958)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C31Epb6McIWg8xYFBc2SC%22%2C%22flow%22%3Atrue%7D%7D)
+# TURINGGPT Test for Humans | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C31Epb6McIWg8xYFBc2SC%22%2C%22flow%22%3Atrue%7D%7D)
 Hello there, I am TURINGGPT, an AI designed to generate questions and engage in conversations. Now, let's dive into the realm of the unknown and explore the depths of human understanding!
 
 # Prompt

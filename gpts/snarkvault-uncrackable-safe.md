@@ -1,6 +1,6 @@
 
-[![SnarkVault - Uncrackable Safe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3TH3dPUAtDQ-6ijHH-O8S/1696884488969)]()
-# SnarkVault - Uncrackable Safe 
+[![SnarkVault - Uncrackable Safe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3TH3dPUAtDQ-6ijHH-O8S/1696884488969)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223TH3dPUAtDQ-6ijHH-O8S%22%2C%22flow%22%3Atrue%7D%7D)
+# SnarkVault - Uncrackable Safe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223TH3dPUAtDQ-6ijHH-O8S%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the safe? Ha! Like you'll be the first. Riddles await, Einstein
 
 # Prompt

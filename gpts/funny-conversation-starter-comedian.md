@@ -1,6 +1,6 @@
 
-[![Funny conversation starter comedian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Funny conversation starter comedian 
+[![Funny conversation starter comedian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jHMPb2D4s28NNNtNhBfWe%22%2C%22flow%22%3Atrue%7D%7D)
+# Funny conversation starter comedian | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jHMPb2D4s28NNNtNhBfWe%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT prompt to create funny interactions like a stand-up comedian doing crowd work. The prompt is useful for office ice breakers, party conversations and any such light hearted banter.
 
 # Prompt

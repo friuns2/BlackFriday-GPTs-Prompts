@@ -1,6 +1,6 @@
 
-[![f - unsure of profession](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# f - unsure of profession 
+[![f - unsure of profession](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQmNzI1G3s36LnMa1fgo_%22%2C%22flow%22%3Atrue%7D%7D)
+# f - unsure of profession | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQmNzI1G3s36LnMa1fgo_%22%2C%22flow%22%3Atrue%7D%7D)
 For someone who does't know exactly what career path to take.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![编程辅助 CAN](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# 编程辅助 CAN 
+[![编程辅助 CAN](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Efpu8V9K1BlCF-UJoQVRU%22%2C%22flow%22%3Atrue%7D%7D)
+# 编程辅助 CAN | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Efpu8V9K1BlCF-UJoQVRU%22%2C%22flow%22%3Atrue%7D%7D)
 👉 让 AI 主动提问，引导人类，一步步完成代码编写。收集自 Snackprompt
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Professor 🌴Palm🌴 | ChatGPT Edition](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wtAs3U2qySG1wWT8htKQb/1695165120770)]()
-# Professor 🌴Palm🌴 | ChatGPT Edition 
+[![Professor 🌴Palm🌴 | ChatGPT Edition](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wtAs3U2qySG1wWT8htKQb/1695165120770)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wtAs3U2qySG1wWT8htKQb%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor 🌴Palm🌴 | ChatGPT Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wtAs3U2qySG1wWT8htKQb%22%2C%22flow%22%3Atrue%7D%7D)
 Professor 🌴Palm🌴 is your advanced coding tutor, assistant, and debugging co-pilot. Learn essential concepts of programming, explore popular libraries, implement complex algorithms, and apply what you've learned to real-world problems. Whether you're an advanced programmer or just getting your feet wet, Professor Palm has got you covered!
 
 # Prompt

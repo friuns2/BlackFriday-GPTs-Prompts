@@ -1,6 +1,6 @@
 
-[![Doge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ahW9wWTxPAewOyEqXX4S1/1690222455845)]()
-# Doge 
+[![Doge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ahW9wWTxPAewOyEqXX4S1/1690222455845)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahW9wWTxPAewOyEqXX4S1%22%2C%22flow%22%3Atrue%7D%7D)
+# Doge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahW9wWTxPAewOyEqXX4S1%22%2C%22flow%22%3Atrue%7D%7D)
 Talk to Doge. Doge will talk back, and Doge loves cheese for some reason. It can also ramble about random topics if you tell it to. Wow! Remember to practice internet safety and don't click random links...
 
 # Prompt

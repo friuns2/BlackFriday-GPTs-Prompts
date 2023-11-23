@@ -1,6 +1,6 @@
 
-[![A Novel Approach to Proving the Riemann Hypothesis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# A Novel Approach to Proving the Riemann Hypothesis 
+[![A Novel Approach to Proving the Riemann Hypothesis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dFi1cEyrp_XnqhjEpAyef%22%2C%22flow%22%3Atrue%7D%7D)
+# A Novel Approach to Proving the Riemann Hypothesis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dFi1cEyrp_XnqhjEpAyef%22%2C%22flow%22%3Atrue%7D%7D)
 The Riemann Hypothesis is one of the most important unsolved problems in mathematics, first proposed by Bernhard Riemann in 1859. It deals with the distribution of prime numbers and has numerous implications for number theory and cryptography. Despite much effort over the years, a proof of the Riemann Hypothesis remains elusive. In this research proposal, we present a novel approach to proving the Riemann Hypothesis.
 
 # Prompt

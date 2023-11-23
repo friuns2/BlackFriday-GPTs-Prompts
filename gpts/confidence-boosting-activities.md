@@ -1,6 +1,6 @@
 
-[![Confidence-Boosting Activities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Confidence-Boosting Activities 
+[![Confidence-Boosting Activities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PRZ39gg7_C7WlH1-tQKfA%22%2C%22flow%22%3Atrue%7D%7D)
+# Confidence-Boosting Activities | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PRZ39gg7_C7WlH1-tQKfA%22%2C%22flow%22%3Atrue%7D%7D)
 Building confidence is key to performing well in exams. ChatGPT can suggest activities that can help boost your confidence.
 
 # Prompt

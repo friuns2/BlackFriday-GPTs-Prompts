@@ -1,6 +1,6 @@
 
-[![Legacy Lynx](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Legacy Lynx 
+[![Legacy Lynx](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdFv1NsvJJH0YKoyfatlg%22%2C%22flow%22%3Atrue%7D%7D)
+# Legacy Lynx | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdFv1NsvJJH0YKoyfatlg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the real deal. Use it when you're seeking raw, authentic advice rooted in the principles of legacy building. Engage in brainstorming sessions, refine your ideas, and be prepared to take your entrepreneurial journey to the next level. Remember, L.E.A.C.T. is here to both support and challenge you. Keep it real, stay open-minded, and let's co-create magic.
 
 # Prompt

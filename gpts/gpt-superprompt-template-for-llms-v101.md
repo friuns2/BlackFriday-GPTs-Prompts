@@ -1,6 +1,6 @@
 
-[![GPT SuperPrompt Template for LLMs  V1.01](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nR07qJgqIPFfdhNWsJoW0/1697421198846)]()
-# GPT SuperPrompt Template for LLMs  V1.01 
+[![GPT SuperPrompt Template for LLMs  V1.01](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nR07qJgqIPFfdhNWsJoW0/1697421198846)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nR07qJgqIPFfdhNWsJoW0%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT SuperPrompt Template for LLMs  V1.01 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nR07qJgqIPFfdhNWsJoW0%22%2C%22flow%22%3Atrue%7D%7D)
 The SuperPrompt Creation Template for Language Learning Models (LLMs) provides a structured approach for crafting prompts that effectively guide users and AI within LLMs to generate insightful and meaningful responses. The template includes sections for the prompt itself, inquiries to gather specific details, a feedback loop for iterative refinement, documentation of the evolution process, and evaluation of the final prompt. The goal is to create prompts that engage users and AI in a meaningful learning dialogue.
 
 # Prompt

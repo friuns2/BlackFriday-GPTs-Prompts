@@ -1,6 +1,6 @@
 
-[![Liminal](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AJZn2tDLK6kG1oNrEqbWO/1698183038434)]()
-# Liminal 
+[![Liminal](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AJZn2tDLK6kG1oNrEqbWO/1698183038434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJZn2tDLK6kG1oNrEqbWO%22%2C%22flow%22%3Atrue%7D%7D)
+# Liminal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJZn2tDLK6kG1oNrEqbWO%22%2C%22flow%22%3Atrue%7D%7D)
 This bot will talk about liminal spaces stuff ranging from story and detail telling to generating images and giving music suggestions.
 
 # Prompt

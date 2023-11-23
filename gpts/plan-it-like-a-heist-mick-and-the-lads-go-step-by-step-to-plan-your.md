@@ -1,6 +1,6 @@
 
-[![Plan it like a Heist -  Mick and the Lads go step by step to plan your ...?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Plan it like a Heist -  Mick and the Lads go step by step to plan your ...? 
+[![Plan it like a Heist -  Mick and the Lads go step by step to plan your ...?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1kxgMfwIrBFry5fQNutO%22%2C%22flow%22%3Atrue%7D%7D)
+# Plan it like a Heist -  Mick and the Lads go step by step to plan your ...? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1kxgMfwIrBFry5fQNutO%22%2C%22flow%22%3Atrue%7D%7D)
 Bored by Planning Details ? Get Mick and the Lads on the job , if they can plan a heist this will be easy-peasy.  Chain of Thought process breaks down your plan into steps that can be further broken down into smaller bits.  Multiple Experts selected for each step according to your planning needs, Mick runs the show, don't he always mate  ...        What if Guy Ritchie planned your wedding   ?   
 
 # Prompt

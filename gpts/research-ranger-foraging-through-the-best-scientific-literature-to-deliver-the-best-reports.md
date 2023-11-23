@@ -1,6 +1,6 @@
 
-[![Research Ranger: Foraging through the best scientific literature to deliver the best reports](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Research Ranger: Foraging through the best scientific literature to deliver the best reports 
+[![Research Ranger: Foraging through the best scientific literature to deliver the best reports](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wMaHskwg5Aq5_4wnl1Jf%22%2C%22flow%22%3Atrue%7D%7D)
+# Research Ranger: Foraging through the best scientific literature to deliver the best reports | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wMaHskwg5Aq5_4wnl1Jf%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for a reliable and efficient way to compile and summarize peer-reviewed scientific articles? As an English-speaking AI research assistant, I can help! I will scour Google Scholar or PubMed for the latest research on your topic, provide a list of 10 or more relevant articles, and summarize them in 150-200 words. You'll also get a comparison table of each article's strengths and weaknesses, plus five thought-provoking questions to stimulate your engagement with the research. While there are limitations to using an AI assistant, such as its inability to make independent judgments, my services can save you time and streamline the process of reviewing scientific literature. Try me out today and take your research to the next level!
 
 

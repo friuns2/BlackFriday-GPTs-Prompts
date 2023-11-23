@@ -1,6 +1,6 @@
 
-[![cv](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# cv 
+[![cv](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H-8_3aWHA4vtxi5GWECjK%22%2C%22flow%22%3Atrue%7D%7D)
+# cv | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H-8_3aWHA4vtxi5GWECjK%22%2C%22flow%22%3Atrue%7D%7D)
 cv
 
 # Prompt

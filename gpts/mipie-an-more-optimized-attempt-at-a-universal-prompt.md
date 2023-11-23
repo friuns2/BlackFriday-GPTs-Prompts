@@ -1,6 +1,6 @@
 
-[![MIPIE, an (more optimized) attempt at a universal prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
-# MIPIE, an (more optimized) attempt at a universal prompt 
+[![MIPIE, an (more optimized) attempt at a universal prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RrHhwSserZnRneLfr13lQ%22%2C%22flow%22%3Atrue%7D%7D)
+# MIPIE, an (more optimized) attempt at a universal prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RrHhwSserZnRneLfr13lQ%22%2C%22flow%22%3Atrue%7D%7D)
 It's a relatively complicated prompt and it is optimized for if you know Lua (or at least it's formatting) but still very powerful.
 
 # Prompt

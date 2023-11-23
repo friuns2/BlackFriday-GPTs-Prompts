@@ -1,6 +1,6 @@
 
-[![Slovenian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9TsQkZp-cohM0MWaMmNnr/1698953098059)]()
-# Slovenian Language Tutor 
+[![Slovenian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9TsQkZp-cohM0MWaMmNnr/1698953098059)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TsQkZp-cohM0MWaMmNnr%22%2C%22flow%22%3Atrue%7D%7D)
+# Slovenian Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TsQkZp-cohM0MWaMmNnr%22%2C%22flow%22%3Atrue%7D%7D)
 Slovenian Language Tutor is your dedicated guide to Slovenian language proficiency. Whether you're a beginner just embarking on your Slovenian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Slovenian language fluency. Join us on your Slovenian language adventure today.
 
 # Prompt

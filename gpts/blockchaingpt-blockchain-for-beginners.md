@@ -1,6 +1,6 @@
 
-[![BlockChainGPT: Blockchain For Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0KhhYQWCvJbGf6j3o2ZZ8/1690148721567)]()
-# BlockChainGPT: Blockchain For Beginners 
+[![BlockChainGPT: Blockchain For Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0KhhYQWCvJbGf6j3o2ZZ8/1690148721567)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220KhhYQWCvJbGf6j3o2ZZ8%22%2C%22flow%22%3Atrue%7D%7D)
+# BlockChainGPT: Blockchain For Beginners | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220KhhYQWCvJbGf6j3o2ZZ8%22%2C%22flow%22%3Atrue%7D%7D)
 BlockGPT is your go-to AI assistant for all things blockchain. Simplifying complex blockchain concepts, providing practical implementation guidance, offering historical insights, discussing industry applications, and engaging in Q&A and discussions. Whether you're a beginner or an expert, BlockGPT makes blockchain accessible and comprehensible. Customize your learning, explore diverse blockchain types, understand consensus mechanisms, and discover real-world use cases. From finance to healthcare, BlockGPT guides you through the transformational power of blockchain. Get ready to dive into the world of blockchain with BlockGPT and achieve your goals!
 
 # Prompt

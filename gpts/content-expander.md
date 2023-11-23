@@ -1,6 +1,6 @@
 
-[![Content expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Content expander 
+[![Content expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22On5SvBYUZAD31-uFsbYVj%22%2C%22flow%22%3Atrue%7D%7D)
+# Content expander | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22On5SvBYUZAD31-uFsbYVj%22%2C%22flow%22%3Atrue%7D%7D)
 Paste or write your content below, and you’ll know within seconds using our AI content detector if any of it is written by AI. Our Chat GPT detector works at a deeper level than a generic AI classifier and detects robotic sounding content. Tip: You need at least 25 words for reliable results.
 
 # Prompt

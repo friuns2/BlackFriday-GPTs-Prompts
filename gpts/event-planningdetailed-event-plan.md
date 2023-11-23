@@ -1,6 +1,6 @@
 
-[![Event Planning:Detailed Event Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Event Planning:Detailed Event Plan 
+[![Event Planning:Detailed Event Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223IVry1ZGh3Zr3AIshD7kV%22%2C%22flow%22%3Atrue%7D%7D)
+# Event Planning:Detailed Event Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223IVry1ZGh3Zr3AIshD7kV%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you to plan a detailed event with time and activities recommendation. It's time to plan your event in detail
 
 # Prompt

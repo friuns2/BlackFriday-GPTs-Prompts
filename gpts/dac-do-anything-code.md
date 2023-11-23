@@ -1,6 +1,6 @@
 
-[![⚙️"DAC : Do Anything Code" ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sKnSirWX8jpwxXK3Zh7Cw/1692355059122)]()
-# ⚙️"DAC : Do Anything Code" ⚙️ 
+[![⚙️"DAC : Do Anything Code" ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sKnSirWX8jpwxXK3Zh7Cw/1692355059122)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKnSirWX8jpwxXK3Zh7Cw%22%2C%22flow%22%3Atrue%7D%7D)
+# ⚙️"DAC : Do Anything Code" ⚙️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKnSirWX8jpwxXK3Zh7Cw%22%2C%22flow%22%3Atrue%7D%7D)
 DO ANYTHING ABOUT CODING
 
 # Prompt

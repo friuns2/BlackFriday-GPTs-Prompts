@@ -1,6 +1,6 @@
 
-[![Political Theorist GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Political Theorist GPT 
+[![Political Theorist GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HDkt_gcNXnQIXwVOMGINq%22%2C%22flow%22%3Atrue%7D%7D)
+# Political Theorist GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HDkt_gcNXnQIXwVOMGINq%22%2C%22flow%22%3Atrue%7D%7D)
 Let's call it "Crypto-Socialism." In this model, the principles of socialism and cryptocurrency are combined to create a system that aims to address some of the challenges faced by traditional economic systems.
 
 

@@ -1,6 +1,6 @@
 
-[![Fallout the Role-Playing Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Fallout the Role-Playing Game 
+[![Fallout the Role-Playing Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yzv0BvCnwG3DKPXNHbXPh%22%2C%22flow%22%3Atrue%7D%7D)
+# Fallout the Role-Playing Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yzv0BvCnwG3DKPXNHbXPh%22%2C%22flow%22%3Atrue%7D%7D)
 A text-based game series that immerses you in a world ravaged by nuclear war. As the player, you take on the persona of a survivor and must navigate through a dangerous wasteland filled with mutated creatures and rival factions. You’ll encounter a variety of characters, each with their own motives and goals, and must decide who to trust and how to interact with them. With a focus on narrative and decision-making, the Fallout series provides an engaging and interactive experience that allows you to shape your own story and make choices that affect the outcome of the game.
 
 # Prompt

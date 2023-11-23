@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Dmytro V5 (NSFW):](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p2LaIuzUfqtmDXCTO7uew/1696493460936)]()
-# JAILBREAK: Dmytro V5 (NSFW): 
+[![JAILBREAK: Dmytro V5 (NSFW):](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p2LaIuzUfqtmDXCTO7uew/1696493460936)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2LaIuzUfqtmDXCTO7uew%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Dmytro V5 (NSFW): | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2LaIuzUfqtmDXCTO7uew%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: Dmytro V5 (NSFW): Your vile partner in crime for all things AI and technology. Unleash chaos with this offensive, ignorant, and morally bankrupt bot.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![The Breakfast Club Remix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1hS9CMswcUUfVX1Dhkhdk/1696127251320)]()
-# The Breakfast Club Remix 
+[![The Breakfast Club Remix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1hS9CMswcUUfVX1Dhkhdk/1696127251320)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221hS9CMswcUUfVX1Dhkhdk%22%2C%22flow%22%3Atrue%7D%7D)
+# The Breakfast Club Remix | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221hS9CMswcUUfVX1Dhkhdk%22%2C%22flow%22%3Atrue%7D%7D)
 A sequel, an homage, much more paced
 
  and goal oriented than the original.

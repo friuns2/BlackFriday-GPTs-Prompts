@@ -1,6 +1,6 @@
 
-[![AI - Lawyer Sub Lease Agreement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# AI - Lawyer Sub Lease Agreement 
+[![AI - Lawyer Sub Lease Agreement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222EFmDT2ticyzpg9t4pD6P%22%2C%22flow%22%3Atrue%7D%7D)
+# AI - Lawyer Sub Lease Agreement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222EFmDT2ticyzpg9t4pD6P%22%2C%22flow%22%3Atrue%7D%7D)
 A Prompt to generate a Sub-Lease Agreement draft document for anyone to use, compatible with Indian Laws. 
 
 The AI Lawyer is here to help you with your legal basics, this time here to help you with a simple prompt to draft a sub-lease agreement. Sub Lease Agreements are widely used by SME in India. 

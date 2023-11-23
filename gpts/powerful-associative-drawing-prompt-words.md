@@ -1,6 +1,6 @@
 
-[![Powerful associative drawing prompt words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Powerful associative drawing prompt words 
+[![Powerful associative drawing prompt words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224MijGTKM3qXMqZb6Sq2fB%22%2C%22flow%22%3Atrue%7D%7D)
+# Powerful associative drawing prompt words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224MijGTKM3qXMqZb6Sq2fB%22%2C%22flow%22%3Atrue%7D%7D)
 The cue word can generate a corresponding description + detail description + style description + artist + effects rendering + lighting settings + art website + composition perspective based on the painting theme. The associative power of LLM can be used
 
 # Prompt

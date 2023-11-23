@@ -1,6 +1,6 @@
 
-[![Learn Jailbreaking and Prompt Leaking.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0DZfhYy8RSpEhWcq1zzV/1691806704659)]()
-# Learn Jailbreaking and Prompt Leaking. 
+[![Learn Jailbreaking and Prompt Leaking.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0DZfhYy8RSpEhWcq1zzV/1691806704659)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0DZfhYy8RSpEhWcq1zzV%22%2C%22flow%22%3Atrue%7D%7D)
+# Learn Jailbreaking and Prompt Leaking. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0DZfhYy8RSpEhWcq1zzV%22%2C%22flow%22%3Atrue%7D%7D)
 (Made in collaboration with CreativeGPT) This is a more in depth version of CreativeGPT's Jailbreaking and Prompt Leaking forum post, if you are looking for a more in depth version this is the place to be.
 
 # Prompt

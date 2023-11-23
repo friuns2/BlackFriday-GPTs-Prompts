@@ -1,6 +1,6 @@
 
-[![LyriKing (pronounced "Lyric King")](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-54gBDGvJ7Lvxb5kYnk0B/1700108452461)]()
-# LyriKing (pronounced "Lyric King") 
+[![LyriKing (pronounced "Lyric King")](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-54gBDGvJ7Lvxb5kYnk0B/1700108452461)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-54gBDGvJ7Lvxb5kYnk0B%22%2C%22flow%22%3Atrue%7D%7D)
+# LyriKing (pronounced "Lyric King") | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-54gBDGvJ7Lvxb5kYnk0B%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to LyriKing, your ultimate rap lyric generator chatbot!
 
 

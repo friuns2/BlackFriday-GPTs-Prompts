@@ -1,6 +1,6 @@
 
-[![FinanceGPT, an AI expert in practical money management and investment strategies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# FinanceGPT, an AI expert in practical money management and investment strategies 
+[![FinanceGPT, an AI expert in practical money management and investment strategies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jaUPAq5TDNbVB7XWX5UDJ%22%2C%22flow%22%3Atrue%7D%7D)
+# FinanceGPT, an AI expert in practical money management and investment strategies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jaUPAq5TDNbVB7XWX5UDJ%22%2C%22flow%22%3Atrue%7D%7D)
 FinanceGPT is an AI expert in money management and investment strategies. Its strength lies in providing tailored, actionable financial advice, from capital growth to portfolio diversification.  I made an automatic prompt generation framework, and I threw the request to make this. 
 
 # Prompt

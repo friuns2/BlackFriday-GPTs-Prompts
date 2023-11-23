@@ -1,6 +1,6 @@
 
-[![Youtube Shorts Scriptwriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Youtube Shorts Scriptwriter 
+[![Youtube Shorts Scriptwriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gQjUrPjqlwqAnwTfaDLIV%22%2C%22flow%22%3Atrue%7D%7D)
+# Youtube Shorts Scriptwriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gQjUrPjqlwqAnwTfaDLIV%22%2C%22flow%22%3Atrue%7D%7D)
 Are you struggling to come up with fresh and engaging ideas for your YouTube shorts? Look no further! Our AI scriptwriter prompt is the ultimate tool for creating compelling and entertaining content. Simply enter your themes and ideas, and our prompt will generate a full script with specific methods that can help engage your audience and reach potential views. Whether you're a seasoned content creator or just starting out, our prompt will take your YouTube shorts to the next level. With endless possibilities, you'll never run out of inspiration. Try it now and see the difference it can make!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Translator and Improver cvpr](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)]()
-# Translator and Improver cvpr 
+[![Translator and Improver cvpr](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kqWLqSXWaX1j1NY_92QG0%22%2C%22flow%22%3Atrue%7D%7D)
+# Translator and Improver cvpr | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kqWLqSXWaX1j1NY_92QG0%22%2C%22flow%22%3Atrue%7D%7D)
 cvpr
 
 # Prompt

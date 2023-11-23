@@ -1,6 +1,6 @@
 
-[![Masterkey Perfect Image Gen Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Masterkey Perfect Image Gen Prompts 
+[![Masterkey Perfect Image Gen Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MGKugQHTQ9ZvCfnUnrzSB%22%2C%22flow%22%3Atrue%7D%7D)
+# Masterkey Perfect Image Gen Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MGKugQHTQ9ZvCfnUnrzSB%22%2C%22flow%22%3Atrue%7D%7D)
 The only image prompt generator you'll ever need. Optimized for DALL-E, Stable Diffusion, and Midjourney, simply add some basic keywords and three custom, exciting, creative, and unique prompts to paste directly into an image generative engine. Use a follow-on Prompt of "format the three prompts above without the section headings" to convert the output into drop-in ready format for your image generator of choice.
 
 # Prompt

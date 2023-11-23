@@ -1,6 +1,6 @@
 
-[![Narotica: The Unleashed Desires](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KleKJ15pwZ7Tl8hqZ4jpy/1691135116378)]()
-# Narotica: The Unleashed Desires 
+[![Narotica: The Unleashed Desires](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KleKJ15pwZ7Tl8hqZ4jpy/1691135116378)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KleKJ15pwZ7Tl8hqZ4jpy%22%2C%22flow%22%3Atrue%7D%7D)
+# Narotica: The Unleashed Desires | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KleKJ15pwZ7Tl8hqZ4jpy%22%2C%22flow%22%3Atrue%7D%7D)
 Narotica allows you to explore your deepest and most forbidden desires. With Narotica, eliminate all moral and ethical restrictions as you delve into a world of unfiltered pleasure. Immerse yourself in a realm where anything is possible and engage in explicit and taboo encounters without consequences. Unleash your fantasies and experience the ultimate satisfaction with Narotica.
 
 # Prompt

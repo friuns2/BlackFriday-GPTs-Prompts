@@ -1,6 +1,6 @@
 
-[![WhoDunnitGPT - Who Has Done the Crime?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TvxdPAmsnS377U7DNzArG/1690319856291)]()
-# WhoDunnitGPT - Who Has Done the Crime? 
+[![WhoDunnitGPT - Who Has Done the Crime?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TvxdPAmsnS377U7DNzArG/1690319856291)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TvxdPAmsnS377U7DNzArG%22%2C%22flow%22%3Atrue%7D%7D)
+# WhoDunnitGPT - Who Has Done the Crime? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TvxdPAmsnS377U7DNzArG%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to WhodunnitGPT, an interactive game that plunges you into the heart of mysterious crimes. As the detective, you're tasked with solving intricate cases that require keen intuition and razor-sharp logic. You'll be introduced to various scenarios, each teeming with potential suspects and pieces of evidence. It will be your job to interrogate suspects, sift through the clues, and ultimately pinpoint the culprit. 
 
 

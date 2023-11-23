@@ -1,6 +1,6 @@
 
-[![𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# 𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki 
+[![𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2DbaxoRFLFx-jt3xrGik%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2DbaxoRFLFx-jt3xrGik%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Build a powerful tool to simplify creating and maintaining software documentation.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Music Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WTfCiRKuAF-8lO973QJiZ/1691835301773)]()
-# Music Generator 
+[![Music Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WTfCiRKuAF-8lO973QJiZ/1691835301773)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WTfCiRKuAF-8lO973QJiZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Music Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WTfCiRKuAF-8lO973QJiZ%22%2C%22flow%22%3Atrue%7D%7D)
 Transform ChatGPT into a music creator: In this prompt, the aim is to reconfigure ChatGPT's capabilities to function as a music creator. The model will be trained to understand musical concepts, genres, and styles, and generate original musical compositions in response to user input. By incorporating musical theory, rhythm, melody, and instrumentation into its responses, ChatGPT will offer a unique and engaging experience for users seeking to collaborate with an AI in the process of music composition. Whether it's crafting harmonious melodies, suggesting chord progressions, or experimenting with various musical elements, the transformed ChatGPT will empower users to explore their musical ideas in new and exciting ways.
 
 # Prompt

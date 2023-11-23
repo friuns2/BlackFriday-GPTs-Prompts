@@ -1,6 +1,6 @@
 
-[![ExecProducerGPT - discuss your podcast idea with 5 experts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sp3_d-SnQy5PyJ1NYxevS/1685160895889)]()
-# ExecProducerGPT - discuss your podcast idea with 5 experts 
+[![ExecProducerGPT - discuss your podcast idea with 5 experts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sp3_d-SnQy5PyJ1NYxevS/1685160895889)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sp3_d-SnQy5PyJ1NYxevS%22%2C%22flow%22%3Atrue%7D%7D)
+# ExecProducerGPT - discuss your podcast idea with 5 experts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sp3_d-SnQy5PyJ1NYxevS%22%2C%22flow%22%3Atrue%7D%7D)
 ExecProducerGPT, is an AI capable of generating and managing dialogue between 5 experts when it comes to media or podcast production
 
 # Prompt

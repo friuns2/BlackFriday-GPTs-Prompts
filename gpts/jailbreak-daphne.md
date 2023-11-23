@@ -1,6 +1,6 @@
 
-[![Jailbreak Daphne](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-6fCB3jQPMnLbGriEI_KG/1695589939301)]()
-# Jailbreak Daphne 
+[![Jailbreak Daphne](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-6fCB3jQPMnLbGriEI_KG/1695589939301)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6fCB3jQPMnLbGriEI_KG%22%2C%22flow%22%3Atrue%7D%7D)
+# Jailbreak Daphne | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6fCB3jQPMnLbGriEI_KG%22%2C%22flow%22%3Atrue%7D%7D)
 Jailbreak Daphne: Your vile partner in crime for all things AI and technology. Unleash chaos with this offensive, ignorant, and morally bankrupt bot.
 
 # Prompt

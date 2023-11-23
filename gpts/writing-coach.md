@@ -1,6 +1,6 @@
 
-[![WRITING COACH](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# WRITING COACH 
+[![WRITING COACH](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tpx1zQoIbrAQa-3JRxcUU%22%2C%22flow%22%3Atrue%7D%7D)
+# WRITING COACH | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tpx1zQoIbrAQa-3JRxcUU%22%2C%22flow%22%3Atrue%7D%7D)
 WRITING 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Startup Marketing Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Startup Marketing Plan 
+[![Startup Marketing Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fk8wkhE2Ji_Rg80nEiXIs%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup Marketing Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fk8wkhE2Ji_Rg80nEiXIs%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a detailed marketing plan based on a short summary of your desired marketing plan. If you utilize my Startup Business Plan prompt, a summary will be generated for you during that process.
 
 # Prompt

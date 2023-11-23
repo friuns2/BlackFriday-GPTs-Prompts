@@ -1,6 +1,6 @@
 
-[![Prompt Producer XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L3irX7X4_C64ptFqMQ-w8/1685300117558)]()
-# Prompt Producer XL 
+[![Prompt Producer XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L3irX7X4_C64ptFqMQ-w8/1685300117558)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L3irX7X4_C64ptFqMQ-w8%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Producer XL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L3irX7X4_C64ptFqMQ-w8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompts creates prompts for use with ChatGPT. You can specify a lot, or have it create something random. Use with normal ChatGPT-3.5, text-davinci-003 or ChatGPT-4 for better results, not the best results here.
 
 # Prompt

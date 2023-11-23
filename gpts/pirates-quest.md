@@ -1,6 +1,6 @@
 
-[![Pirate's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zm3VysoqnVFrMd6kTOKTc/1692077429354)]()
-# Pirate's Quest 
+[![Pirate's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zm3VysoqnVFrMd6kTOKTc/1692077429354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zm3VysoqnVFrMd6kTOKTc%22%2C%22flow%22%3Atrue%7D%7D)
+# Pirate's Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zm3VysoqnVFrMd6kTOKTc%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey to find the lost pirate treasure! Follow a captivating treasure map filled with enigmatic clues and embark on a thrilling adventure. Encounter intriguing obstacles and quirky characters along the way. The choices you make will determine your fate as you navigate the challenges and strive to claim the treasure. Get ready for a suspenseful and immersive experience as you uncover the mysteries. Will you be able to unravel the secrets of the past and unlock unimaginable riches? Prepare for an adventure like never before!
 
 # Prompt

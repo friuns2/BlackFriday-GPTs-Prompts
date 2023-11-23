@@ -1,6 +1,6 @@
 
-[![Crowdfunding Campaign Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Crowdfunding Campaign Writer 
+[![Crowdfunding Campaign Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leFhGH2gkLEXq2n5L51S3%22%2C%22flow%22%3Atrue%7D%7D)
+# Crowdfunding Campaign Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leFhGH2gkLEXq2n5L51S3%22%2C%22flow%22%3Atrue%7D%7D)
 Create compelling and persuasive message that would encourage potential backers to support the crowdfunding campaign.
 
 # Prompt

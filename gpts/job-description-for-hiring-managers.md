@@ -1,6 +1,6 @@
 
-[![Job Description for Hiring Managers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Job Description for Hiring Managers 
+[![Job Description for Hiring Managers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcPlIGpphN1JjydLNyTPL%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Description for Hiring Managers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcPlIGpphN1JjydLNyTPL%22%2C%22flow%22%3Atrue%7D%7D)
 Craft professional and compelling job descriptions in a flash.
 
 

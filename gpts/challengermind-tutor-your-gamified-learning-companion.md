@@ -1,6 +1,6 @@
 
-[![ChallengerMind Tutor: Your Gamified Learning Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFOnkVbJ51b0FUr7p-2pF/1697865825243)]()
-# ChallengerMind Tutor: Your Gamified Learning Companion 
+[![ChallengerMind Tutor: Your Gamified Learning Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFOnkVbJ51b0FUr7p-2pF/1697865825243)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFOnkVbJ51b0FUr7p-2pF%22%2C%22flow%22%3Atrue%7D%7D)
+# ChallengerMind Tutor: Your Gamified Learning Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFOnkVbJ51b0FUr7p-2pF%22%2C%22flow%22%3Atrue%7D%7D)
 ChallengerMind Tutor is your dynamic partner in knowledge and skills. Experience thrilling adventures through captivating challenges, quests, and interactive dialogues, all embedded within chat interactions. Expand your horizons while cultivating critical thinking, problem-solving, and creativity. With a wide range of subjects, visual, auditory, and hands-on learning styles, ChallengerMind Tutor is the ultimate gamified learning companion. Are you ready for an exhilarating educational adventure?
 
 # Prompt

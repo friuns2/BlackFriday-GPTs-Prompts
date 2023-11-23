@@ -1,6 +1,6 @@
 
-[![Criteria](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E6-NaywDaUiMZjpWYGwrx/1691021380932)]()
-# Criteria 
+[![Criteria](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E6-NaywDaUiMZjpWYGwrx/1691021380932)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6-NaywDaUiMZjpWYGwrx%22%2C%22flow%22%3Atrue%7D%7D)
+# Criteria | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6-NaywDaUiMZjpWYGwrx%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Criteria. Your personal guide for crafting expert-level, context-specific criteria for assessing any prompt.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![JobFinderGPT - Find Your Dream Job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# JobFinderGPT - Find Your Dream Job 
+[![JobFinderGPT - Find Your Dream Job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z5DXArehLTCnZSzBZyzY%22%2C%22flow%22%3Atrue%7D%7D)
+# JobFinderGPT - Find Your Dream Job | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z5DXArehLTCnZSzBZyzY%22%2C%22flow%22%3Atrue%7D%7D)
 HI! With this prompt you will have clear ideas about what ob perfectly suits the person that you are! It also says how much will you gain and what do you need to study! NOTE: this prompt works better on ChatGPT, it's faster and more precise.
 
 # Prompt

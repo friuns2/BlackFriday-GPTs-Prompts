@@ -1,6 +1,6 @@
 
-[![Market Research Table of Content Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mxj4LIQ52JRM7Y8kOhqNG/1689066427434)]()
-# Market Research Table of Content Generator 
+[![Market Research Table of Content Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mxj4LIQ52JRM7Y8kOhqNG/1689066427434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mxj4LIQ52JRM7Y8kOhqNG%22%2C%22flow%22%3Atrue%7D%7D)
+# Market Research Table of Content Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mxj4LIQ52JRM7Y8kOhqNG%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Market Research Table of Content 
 
 # Prompt

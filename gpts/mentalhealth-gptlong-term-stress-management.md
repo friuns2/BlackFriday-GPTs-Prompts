@@ -1,6 +1,6 @@
 
-[![MentalHealth GPT:Long-term stress management](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# MentalHealth GPT:Long-term stress management 
+[![MentalHealth GPT:Long-term stress management](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ccqda_ww75Kjy7KVr3Enu%22%2C%22flow%22%3Atrue%7D%7D)
+# MentalHealth GPT:Long-term stress management | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ccqda_ww75Kjy7KVr3Enu%22%2C%22flow%22%3Atrue%7D%7D)
 Dealing with stress for a long time can really take a toll on your health. But don't worry, this prompt is here to help!
 
 # Prompt

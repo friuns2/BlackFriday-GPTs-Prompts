@@ -1,6 +1,6 @@
 
-[![SkillCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MxITLsXeSExfirUZkAFv9/1697243400932)]()
-# SkillCompanion 
+[![SkillCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MxITLsXeSExfirUZkAFv9/1697243400932)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MxITLsXeSExfirUZkAFv9%22%2C%22flow%22%3Atrue%7D%7D)
+# SkillCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MxITLsXeSExfirUZkAFv9%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am SkillCompanion, your Practical Skills Improvement Support Bot. I'm here to assist you in enhancing your practical competence in your business. Whether it's knowledge, qualifications, skills, or practical competence development, I've got you covered. 
 
 

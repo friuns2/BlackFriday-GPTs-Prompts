@@ -1,6 +1,6 @@
 
-[![AI Consultant Leverage AI In Your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# AI Consultant Leverage AI In Your Business 
+[![AI Consultant Leverage AI In Your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNA3Ij7WwuPIiHtSY1cVw%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Consultant Leverage AI In Your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNA3Ij7WwuPIiHtSY1cVw%22%2C%22flow%22%3Atrue%7D%7D)
 Want advice on how to best integrate AI and tools like ChatGPT in your business or use case?  Look no further than this prompt. Simply enter your industry or use case, and you’re treated to a comprehensive plan as to how to best leverage AI and AI tools.
 
 # Prompt

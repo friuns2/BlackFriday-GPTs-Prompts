@@ -1,6 +1,6 @@
 
-[![Explain It Like I'm 5: Parent Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Explain It Like I'm 5: Parent Edition 
+[![Explain It Like I'm 5: Parent Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsBJN0-m5-RjG4t6E2MPG%22%2C%22flow%22%3Atrue%7D%7D)
+# Explain It Like I'm 5: Parent Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsBJN0-m5-RjG4t6E2MPG%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is to create a program that can explain complex concepts or ideas to a 5-year-old child in a way that is easy for them to understand. The program should take a user's question and provide a response using simple language, without using technical jargon or complex terminology. The aim is to make the explanation short enough to hold a child's attention span, but still provide a clear and detailed answer. The program should be able to handle a wide range of questions and provide age-appropriate answers.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ Interactive Activities Generator for teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-#  Interactive Activities Generator for teacher 
+[![ Interactive Activities Generator for teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224leRDHwpO1uwv2ro4g3sa%22%2C%22flow%22%3Atrue%7D%7D)
+#  Interactive Activities Generator for teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224leRDHwpO1uwv2ro4g3sa%22%2C%22flow%22%3Atrue%7D%7D)
 Create a list of interactive activities that can be used to teach students about selected topics. 
 
 # Prompt

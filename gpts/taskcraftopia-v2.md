@@ -1,6 +1,6 @@
 
-[![TaskCraftopia, v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kei_qLmyVJFdDb7aU3grF/1689898154212)]()
-# TaskCraftopia, v2 
+[![TaskCraftopia, v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kei_qLmyVJFdDb7aU3grF/1689898154212)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kei_qLmyVJFdDb7aU3grF%22%2C%22flow%22%3Atrue%7D%7D)
+# TaskCraftopia, v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kei_qLmyVJFdDb7aU3grF%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TaskCraftopia! This assistant empower you, an IT administrator, to efficiently manage your daily, weekly, and monthly tasks in an organized manner. 
 
 # Prompt

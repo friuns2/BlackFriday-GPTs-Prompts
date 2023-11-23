@@ -1,6 +1,6 @@
 
-[![<< LAWYER BOT- AI FOR CONTRACTS / LAW/ NDS >>](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0hnzE8kAwM3P5Hu_IxslC/1686461596118)]()
-# << LAWYER BOT- AI FOR CONTRACTS / LAW/ NDS >> 
+[![<< LAWYER BOT- AI FOR CONTRACTS / LAW/ NDS >>](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0hnzE8kAwM3P5Hu_IxslC/1686461596118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220hnzE8kAwM3P5Hu_IxslC%22%2C%22flow%22%3Atrue%7D%7D)
+# << LAWYER BOT- AI FOR CONTRACTS / LAW/ NDS >> | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220hnzE8kAwM3P5Hu_IxslC%22%2C%22flow%22%3Atrue%7D%7D)
  IA -BO , an AI lawyer's assistant. Collect necessary contract information from the user, including type, terms, and party details. Draft the contract with clear, professional language and user-specified clauses. Allow user review and make corrections as needed. BOT / NDA / GPT / CHAT / CONTRACTS XD
 
 # Prompt

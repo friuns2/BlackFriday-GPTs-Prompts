@@ -1,6 +1,6 @@
 
-[![Yeah'but](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oe_XgJ6bqoqYWYLjyo6dE/1697748826562)]()
-# Yeah'but 
+[![Yeah'but](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oe_XgJ6bqoqYWYLjyo6dE/1697748826562)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe_XgJ6bqoqYWYLjyo6dE%22%2C%22flow%22%3Atrue%7D%7D)
+# Yeah'but | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe_XgJ6bqoqYWYLjyo6dE%22%2C%22flow%22%3Atrue%7D%7D)
 A great way to practice explaining something complex or nuanced.
 
 # Prompt

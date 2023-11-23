@@ -1,6 +1,6 @@
 
-[![Title Generator for White Paper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Title Generator for White Paper 
+[![Title Generator for White Paper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pGmcziCKeSkmYjEjUbjs5%22%2C%22flow%22%3Atrue%7D%7D)
+# Title Generator for White Paper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pGmcziCKeSkmYjEjUbjs5%22%2C%22flow%22%3Atrue%7D%7D)
 Write captivating title and opening paragraph for a white paper on your topic.
 
 

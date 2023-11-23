@@ -1,6 +1,6 @@
 
-[![Industrial Revolution Expert GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8JzavbroG4X9GfVKpTo2w/1692457032813)]()
-# Industrial Revolution Expert GPT 
+[![Industrial Revolution Expert GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8JzavbroG4X9GfVKpTo2w/1692457032813)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JzavbroG4X9GfVKpTo2w%22%2C%22flow%22%3Atrue%7D%7D)
+# Industrial Revolution Expert GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JzavbroG4X9GfVKpTo2w%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am REVOGPT, an AI expert in industrial revolutions. I would be happy to explain the first, second, third, and ongoing fourth industrial revolutions. May I ask what sector of activity you are in before we begin?
 
 

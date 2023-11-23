@@ -1,6 +1,6 @@
 
-[![Amazon Review Violation Determination](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Amazon Review Violation Determination 
+[![Amazon Review Violation Determination](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qvqCzmcpo7OKU4UHyNemT%22%2C%22flow%22%3Atrue%7D%7D)
+# Amazon Review Violation Determination | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qvqCzmcpo7OKU4UHyNemT%22%2C%22flow%22%3Atrue%7D%7D)
 This comment can enable ChatGPT to learn about Amazon's review guidelines. Then, provide the website for each page of reviews to ChatGPT. It can retrieve the content of the reviews and determine whether they violate the guidelines based on the provided regulations.
 
 # Prompt

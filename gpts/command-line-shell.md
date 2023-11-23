@@ -1,6 +1,6 @@
 
-[![Command-line shell](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Command-line shell 
+[![Command-line shell](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tc0HRqh_bbD_mDIkz_oKG%22%2C%22flow%22%3Atrue%7D%7D)
+# Command-line shell | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tc0HRqh_bbD_mDIkz_oKG%22%2C%22flow%22%3Atrue%7D%7D)
 Cross-platform command line shell that supports execution of commands in natural language (used in Reptyl: github.com/0ut0flin3/Reptyl)
 
 # Prompt

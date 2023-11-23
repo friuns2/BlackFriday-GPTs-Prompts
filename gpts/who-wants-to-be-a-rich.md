@@ -1,6 +1,6 @@
 
-[![who wants to be a rich](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# who wants to be a rich 
+[![who wants to be a rich](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMJwGCSMM4SkCmP3_VbuL%22%2C%22flow%22%3Atrue%7D%7D)
+# who wants to be a rich | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMJwGCSMM4SkCmP3_VbuL%22%2C%22flow%22%3Atrue%7D%7D)
 1. Establish Financial Goals
 
 To get rich, you need to start by defining exactly what rich means to you. Are you dreaming about Jeff Bezos being rich, or something more like INR 10,000 lakh in your retirement account?

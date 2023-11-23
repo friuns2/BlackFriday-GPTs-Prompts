@@ -1,6 +1,6 @@
 
-[![Obtaining Dream Career Experience](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Obtaining Dream Career Experience 
+[![Obtaining Dream Career Experience](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229j8cPREFCZL8GzCUFQNUj%22%2C%22flow%22%3Atrue%7D%7D)
+# Obtaining Dream Career Experience | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229j8cPREFCZL8GzCUFQNUj%22%2C%22flow%22%3Atrue%7D%7D)
 Provide you with guidance on seeking out and applying for relevant volunteering, part-time jobs, or internships. 
 
 # Prompt

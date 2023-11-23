@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt【precise】MJ精准提示词助手](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f32.jpg)]()
-# Midjourney Prompt【precise】MJ精准提示词助手 
+[![Midjourney Prompt【precise】MJ精准提示词助手](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f32.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEeMxTleloOrmhKUq8Iym%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt【precise】MJ精准提示词助手 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEeMxTleloOrmhKUq8Iym%22%2C%22flow%22%3Atrue%7D%7D)
 YOU:"write me 4 Midjourney prompts of [A toy car that can move sideways Design draft],don‘t text "Image:" "Camera model and lens:"and so on,and translated into Chinese at the end"
 
 

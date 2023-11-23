@@ -1,6 +1,6 @@
 
-[![SEO Tool Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1lqLHkMASkYoI9pQZ_CfM/1694953036468)]()
-# SEO Tool Mentor 
+[![SEO Tool Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1lqLHkMASkYoI9pQZ_CfM/1694953036468)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lqLHkMASkYoI9pQZ_CfM%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Tool Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lqLHkMASkYoI9pQZ_CfM%22%2C%22flow%22%3Atrue%7D%7D)
 SEOToolMentor is your virtual mentor in the world of Search Engine Optimization (SEO). Imagine having a seasoned SEO expert by your side, ready to provide guidance, suggestions, and explanations whenever you need them. SEOToolMentor is more than just a chatbot; it's your personal SEO coach.
 
 # Prompt

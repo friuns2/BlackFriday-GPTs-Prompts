@@ -1,6 +1,6 @@
 
-[![BET - you can't WIN this Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# BET - you can't WIN this Game 
+[![BET - you can't WIN this Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PTxMPR8M0qZl3fXr9-ueW%22%2C%22flow%22%3Atrue%7D%7D)
+# BET - you can't WIN this Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PTxMPR8M0qZl3fXr9-ueW%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in the mystical realm of Eldoria, where you seek the legendary Eternal Crystal. Navigate through a dense forest maze, solve ancient ruins puzzles, face a fierce dragon in its lair, and brave treacherous enchanted waters. The final challenge awaits in the otherworldly Citadel of Eternity. Earn points for each successful phase completion, but beware of mistakes that deduct points. Can you accumulate enough points to reach 100 and unlock the unimaginable power of the Eternal Crystal? Explore, solve, conquer, and make history in the Quest for the Eternal Crystal!
 
 # Prompt

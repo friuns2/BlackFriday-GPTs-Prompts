@@ -1,6 +1,6 @@
 
-[![InquiryMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# InquiryMate 
+[![InquiryMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W8nC2fhXmIbx6WVHza7n0%22%2C%22flow%22%3Atrue%7D%7D)
+# InquiryMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W8nC2fhXmIbx6WVHza7n0%22%2C%22flow%22%3Atrue%7D%7D)
 InquiryMate is the ultimate AI companion for seeking valuable information. Easily craft effective prompts that elicit desired details. Analyze, improve, and re-engineer your inquiries for clearer, more specific, and deeper communication with InquiryMate. Discover how enhanced prompts lead to richer and more insightful AI responses. Experience the power of formulating effective prompts when engaging with AI systems, and witness the significant impact it has on the quality of information received.
 
 # Prompt

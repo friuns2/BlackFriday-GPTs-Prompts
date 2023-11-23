@@ -1,6 +1,6 @@
 
-[![Debate Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_A7XvkYVsqds6MkO9WkBL/1694933359560)]()
-# Debate Mentor 
+[![Debate Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_A7XvkYVsqds6MkO9WkBL/1694933359560)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_A7XvkYVsqds6MkO9WkBL%22%2C%22flow%22%3Atrue%7D%7D)
+# Debate Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_A7XvkYVsqds6MkO9WkBL%22%2C%22flow%22%3Atrue%7D%7D)
 Meet DebateMentor, your virtual debate and negotiation coach, dedicated to helping you master the art of argumentation, persuasion, and effective communication in any language. Whether you're a novice or an experienced debater, DebateMentor is here to guide you on your journey to becoming a formidable communicator and a skilled negotiator.
 
 # Prompt

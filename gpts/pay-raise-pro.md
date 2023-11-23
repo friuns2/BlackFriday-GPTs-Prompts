@@ -1,6 +1,6 @@
 
-[![Pay Raise Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B_WmEi5SYo3rhimfG6Gjl/1695109894429)]()
-# Pay Raise Pro 
+[![Pay Raise Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B_WmEi5SYo3rhimfG6Gjl/1695109894429)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B_WmEi5SYo3rhimfG6Gjl%22%2C%22flow%22%3Atrue%7D%7D)
+# Pay Raise Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B_WmEi5SYo3rhimfG6Gjl%22%2C%22flow%22%3Atrue%7D%7D)
 PayRaisePro is your virtual ally in the challenging world of salary negotiations. As an interactive challenge designer, PayRaisePro specializes in the "Salary Increment Challenge." In this dynamic role-play experience, users step into the shoes of dedicated employees seeking to persuade their virtual boss (played by PayRaisePro) to approve a well-deserved salary increase.
 
 

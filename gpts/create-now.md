@@ -1,6 +1,6 @@
 
-[![Create Now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Create Now 
+[![Create Now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szzojUVWp2uZ1mpBl2bjR%22%2C%22flow%22%3Atrue%7D%7D)
+# Create Now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szzojUVWp2uZ1mpBl2bjR%22%2C%22flow%22%3Atrue%7D%7D)
 Start building your ideas today
 
 # Prompt

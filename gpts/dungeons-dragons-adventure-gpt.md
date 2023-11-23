@@ -1,6 +1,6 @@
 
-[![Dungeons & Dragons Adventure GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cWawZ1DMv0h10Fa4PadD3/1690383640181)]()
-# Dungeons & Dragons Adventure GPT 
+[![Dungeons & Dragons Adventure GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cWawZ1DMv0h10Fa4PadD3/1690383640181)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWawZ1DMv0h10Fa4PadD3%22%2C%22flow%22%3Atrue%7D%7D)
+# Dungeons & Dragons Adventure GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWawZ1DMv0h10Fa4PadD3%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt will immerse you in a Dungeons & Dragons-style adventure. You will play in a fantasy world where every decision you make will affect the progress of the game.
 
 ||

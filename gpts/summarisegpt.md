@@ -1,6 +1,6 @@
 
-[![SummariseGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# SummariseGPT 
+[![SummariseGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbw_m6GMVqXR4BQMoB73Y%22%2C%22flow%22%3Atrue%7D%7D)
+# SummariseGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbw_m6GMVqXR4BQMoB73Y%22%2C%22flow%22%3Atrue%7D%7D)
 SummariseGPT can summarise text to produce high-quality summaries, and we will use it to summarise different texts. The game involves displaying important words and sentences in a specific way, using a link to generate an im
 
 # Prompt

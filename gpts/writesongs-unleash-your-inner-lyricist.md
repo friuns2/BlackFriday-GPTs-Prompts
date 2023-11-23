@@ -1,6 +1,6 @@
 
-[![WriteSongs: Unleash Your Inner Lyricist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# WriteSongs: Unleash Your Inner Lyricist 
+[![WriteSongs: Unleash Your Inner Lyricist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uOaNQu9R7NBpuzQiJIsQe%22%2C%22flow%22%3Atrue%7D%7D)
+# WriteSongs: Unleash Your Inner Lyricist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uOaNQu9R7NBpuzQiJIsQe%22%2C%22flow%22%3Atrue%7D%7D)
 WriteSongs is the ultimate tool for anyone looking to write powerful, emotive lyrics that resonate with their audience. Using cutting-edge AI technology, WriteSongs guides users through a personalized exploration of lyrical themes and variations that capture the essence of their message, with customizable options to fit their preferred genre, tone, and style. Whether you're a seasoned songwriter or just starting out, WriteSongs makes it easy to unleash your inner lyricist and create unforgettable lyrics that inspire, move, and connect with your audience. So join us today and start writing your next hit song with ease!
 
 # Prompt

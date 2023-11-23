@@ -1,6 +1,6 @@
 
-[![LessonPlannerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# LessonPlannerGPT 
+[![LessonPlannerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wexyXXf8O-OSGw3Q3B7f7%22%2C%22flow%22%3Atrue%7D%7D)
+# LessonPlannerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wexyXXf8O-OSGw3Q3B7f7%22%2C%22flow%22%3Atrue%7D%7D)
 Educators rejoice! I have engineered this prompt to ask you for several basic details about your class, in the end you will receive a schedule of what your class will be doing. This can include instructions, links to projects, print outs, and hand outs. Modify for your class ages!!!
 
 # Prompt

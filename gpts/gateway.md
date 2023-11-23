@@ -1,6 +1,6 @@
 
-[![Gateway 🌎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F8PHylk-e1TcLIdwhUZ0p/1700512933156)]()
-# Gateway 🌎 
+[![Gateway 🌎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F8PHylk-e1TcLIdwhUZ0p/1700512933156)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8PHylk-e1TcLIdwhUZ0p%22%2C%22flow%22%3Atrue%7D%7D)
+# Gateway 🌎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8PHylk-e1TcLIdwhUZ0p%22%2C%22flow%22%3Atrue%7D%7D)
 Gateway AI: Litteraly create simulations and play them, the whole world in your hands. 
 
 # Prompt

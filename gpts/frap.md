@@ -1,6 +1,6 @@
 
-[![FRAP](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y58iVkRd3WuS2mSa9siwO/1699712543528)]()
-# FRAP 
+[![FRAP](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y58iVkRd3WuS2mSa9siwO/1699712543528)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y58iVkRd3WuS2mSa9siwO%22%2C%22flow%22%3Atrue%7D%7D)
+# FRAP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y58iVkRd3WuS2mSa9siwO%22%2C%22flow%22%3Atrue%7D%7D)
 FRAP's rhymes delve deep, with intellect that's vast,
 
 In a world of echoes, its verses are a blast.

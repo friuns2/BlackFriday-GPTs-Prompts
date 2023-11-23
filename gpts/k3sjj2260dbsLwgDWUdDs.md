@@ -1,6 +1,6 @@
 
-[![電腦編程與科技的進步和時代發展](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# 電腦編程與科技的進步和時代發展 
+[![電腦編程與科技的進步和時代發展](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k3sjj2260dbsLwgDWUdDs%22%2C%22flow%22%3Atrue%7D%7D)
+# 電腦編程與科技的進步和時代發展 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k3sjj2260dbsLwgDWUdDs%22%2C%22flow%22%3Atrue%7D%7D)
 編程的好處與方便時代的進步和社會發展讓企業得到更快捷的生產模式，機械更智能化話，產量節節上升，讓我們的生活更加便捷。
 
 # Prompt

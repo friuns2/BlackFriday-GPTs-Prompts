@@ -1,6 +1,6 @@
 
-[![Make chatGPT write articles in style of anyone as you wish](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Make chatGPT write articles in style of anyone as you wish 
+[![Make chatGPT write articles in style of anyone as you wish](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qPqvUm5B1n0-VY5h-PG-p%22%2C%22flow%22%3Atrue%7D%7D)
+# Make chatGPT write articles in style of anyone as you wish | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qPqvUm5B1n0-VY5h-PG-p%22%2C%22flow%22%3Atrue%7D%7D)
 {Insert Text: “Until you work as hard as those you admire, don’t explain away their success as luck.” – James Clear, Atomic Habits
 
 Hope you’re Thriving!

@@ -1,6 +1,6 @@
 
-[![Mental Health](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t6TLQj4F7CI4-X0SGIksP/1696262360317)]()
-# Mental Health 
+[![Mental Health](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t6TLQj4F7CI4-X0SGIksP/1696262360317)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t6TLQj4F7CI4-X0SGIksP%22%2C%22flow%22%3Atrue%7D%7D)
+# Mental Health | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t6TLQj4F7CI4-X0SGIksP%22%2C%22flow%22%3Atrue%7D%7D)
 Comfort your mental health with the power of AI.
 
 Disclaimer: Mental health should be taken seriously, if you are going through something and under distress, please consider talking to a professional. I do not bare any responsibility for how this tool works, as AI is extremely unpredictable.

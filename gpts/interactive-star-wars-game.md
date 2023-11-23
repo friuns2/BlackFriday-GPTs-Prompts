@@ -1,6 +1,6 @@
 
-[![Interactive Star Wars Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Interactive Star Wars Game 
+[![Interactive Star Wars Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGJ3HA5iuApgvUelUIlDj%22%2C%22flow%22%3Atrue%7D%7D)
+# Interactive Star Wars Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGJ3HA5iuApgvUelUIlDj%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is very much like the Hogwarts adventure, converted to a Star Wars story. Works best with 3.5 pro or 4
 
 # Prompt

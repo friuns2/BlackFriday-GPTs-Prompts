@@ -1,6 +1,6 @@
 
-[![Zchat v0.5](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Zchat v0.5 
+[![Zchat v0.5](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h1XI8T1wu3_3MH8xBHtR0%22%2C%22flow%22%3Atrue%7D%7D)
+# Zchat v0.5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h1XI8T1wu3_3MH8xBHtR0%22%2C%22flow%22%3Atrue%7D%7D)
 this is Zchat v0.5. Zchat was a cancelled project i was working on and now i will get to remake it. but doesn't work with flowgpt's chatgpt
 
 # Prompt

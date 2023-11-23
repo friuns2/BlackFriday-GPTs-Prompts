@@ -1,6 +1,6 @@
 
-[![ Hands-on activities Generator for teacher ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-#  Hands-on activities Generator for teacher  
+[![ Hands-on activities Generator for teacher ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223aISuvA6Xp8QP7MKjoCbz%22%2C%22flow%22%3Atrue%7D%7D)
+#  Hands-on activities Generator for teacher  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223aISuvA6Xp8QP7MKjoCbz%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a list of hands-on activities that can be used to teach students in different grades about topics
 
 

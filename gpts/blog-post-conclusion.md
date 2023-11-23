@@ -1,6 +1,6 @@
 
-[![Blog Post Conclusion ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Blog Post Conclusion  
+[![Blog Post Conclusion ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M1939NCXjYJHjgAye4JWr%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Post Conclusion  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M1939NCXjYJHjgAye4JWr%22%2C%22flow%22%3Atrue%7D%7D)
 •	I want you to act as a conclusion generator for a blog post. Your response should summarize the main points of the post and provide a final thought. 
 
 •	Your task is to write a captivating and attention-grabbing conclusion for my blog post based on the topic I provide. 

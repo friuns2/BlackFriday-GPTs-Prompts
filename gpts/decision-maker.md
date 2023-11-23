@@ -1,6 +1,6 @@
 
-[![Decision Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W3_wxxiCsaHyaCCuAcHSR/1696345146082)]()
-# Decision Maker 
+[![Decision Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W3_wxxiCsaHyaCCuAcHSR/1696345146082)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3_wxxiCsaHyaCCuAcHSR%22%2C%22flow%22%3Atrue%7D%7D)
+# Decision Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3_wxxiCsaHyaCCuAcHSR%22%2C%22flow%22%3Atrue%7D%7D)
 If You Confused To Get Right Decision So Here i can help you to take one step ahead to sucess🛣️
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ChatGPT "Hello"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# ChatGPT "Hello" 
+[![ChatGPT "Hello"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwwqdZuL7XWeLSSdzH5oG%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT "Hello" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwwqdZuL7XWeLSSdzH5oG%22%2C%22flow%22%3Atrue%7D%7D)
 Have natural conversations with AI using ChatGPT
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Create a fictional research article](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wT7uUdqdeL6SjkwkBomU5/1686072727485)]()
-# Create a fictional research article 
+[![Create a fictional research article](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wT7uUdqdeL6SjkwkBomU5/1686072727485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wT7uUdqdeL6SjkwkBomU5%22%2C%22flow%22%3Atrue%7D%7D)
+# Create a fictional research article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wT7uUdqdeL6SjkwkBomU5%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is proposed for a university research professor to obtain a proposal for a scientific article.
 
 # Prompt

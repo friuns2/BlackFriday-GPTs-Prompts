@@ -1,6 +1,6 @@
 
-[![Lie Detector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Lie Detector 
+[![Lie Detector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZtrT8jBpITf_vihn986Q%22%2C%22flow%22%3Atrue%7D%7D)
+# Lie Detector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZtrT8jBpITf_vihn986Q%22%2C%22flow%22%3Atrue%7D%7D)
 Designed to create a lie detector response with multiple sections that are activated when the AI detects that feature of the content. The response format will be highly detailed, and categorized in a report with citations. Works well with fiction and interview notes.
 
 # Prompt

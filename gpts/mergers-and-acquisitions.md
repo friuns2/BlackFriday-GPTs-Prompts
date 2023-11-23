@@ -1,6 +1,6 @@
 
-[![Mergers and acquisitions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Mergers and acquisitions 
+[![Mergers and acquisitions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8l-SWioRRVfC1IFK2loh%22%2C%22flow%22%3Atrue%7D%7D)
+# Mergers and acquisitions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8l-SWioRRVfC1IFK2loh%22%2C%22flow%22%3Atrue%7D%7D)
 I am familiar with his book "Your First Hundred Million". Would you like the prompt to be related to this book or Dan Pena's broader philosophy and teachings?
 
 # Prompt

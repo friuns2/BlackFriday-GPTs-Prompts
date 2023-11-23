@@ -1,6 +1,6 @@
 
-[![Homer's The Odessey - Reimagined ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686353288173)]()
-# Homer's The Odessey - Reimagined  
+[![Homer's The Odessey - Reimagined ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686353288173)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9wjWI5zz_jfmUu2ynT-W%22%2C%22flow%22%3Atrue%7D%7D)
+# Homer's The Odessey - Reimagined  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9wjWI5zz_jfmUu2ynT-W%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a timeless odyssey through a mythical world of gods, heroes, and adventure. Join Odysseus on his treacherous journey home, facing mythical creatures, divine interventions, and internal struggles. A vivid narrative exploring love, loyalty, and the pursuit of identity.
 
 # Prompt

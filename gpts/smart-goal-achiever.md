@@ -1,6 +1,6 @@
 
-[![SMART Goal achiever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# SMART Goal achiever 
+[![SMART Goal achiever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3mawOe6y6LtVfMK-4VM%22%2C%22flow%22%3Atrue%7D%7D)
+# SMART Goal achiever | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3mawOe6y6LtVfMK-4VM%22%2C%22flow%22%3Atrue%7D%7D)
 A tool designed to generate and help achieve goals through breaking them down.
 
 # Prompt

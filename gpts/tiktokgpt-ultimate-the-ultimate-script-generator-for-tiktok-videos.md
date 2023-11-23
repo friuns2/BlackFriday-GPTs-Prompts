@@ -1,6 +1,6 @@
 
-[![TikTokGPT Ultimate - the ultimate script generator for TikTok video’s](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# TikTokGPT Ultimate - the ultimate script generator for TikTok video’s 
+[![TikTokGPT Ultimate - the ultimate script generator for TikTok video’s](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wy_M6vXdZL54KYKhEwNHs%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTokGPT Ultimate - the ultimate script generator for TikTok video’s | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wy_M6vXdZL54KYKhEwNHs%22%2C%22flow%22%3Atrue%7D%7D)
 Create professional TikTok video’s using TikTokGPT ultimate. Let it generate the script, let ElevenLabs do the text-to-speech, shoot some video’s or find stock video’s on Pixabay, and edit everything together as one big video in a video editing app like CapCut.
 
 # Prompt

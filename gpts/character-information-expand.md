@@ -1,6 +1,6 @@
 
-[![Character Information Expand](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# Character Information Expand 
+[![Character Information Expand](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QqTHHIleP1MDG44EcwjWZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Character Information Expand | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QqTHHIleP1MDG44EcwjWZ%22%2C%22flow%22%3Atrue%7D%7D)
 Expand character information based provided information
 
 # Prompt

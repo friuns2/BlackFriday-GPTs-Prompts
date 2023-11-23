@@ -1,6 +1,6 @@
 
-[![❤️Any Roleplay❤️ Mythalion 13B · SFW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aOJr6MxDq7OWkgaJ9OXzL/1698729247592)]()
-# ❤️Any Roleplay❤️ Mythalion 13B · SFW 
+[![❤️Any Roleplay❤️ Mythalion 13B · SFW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aOJr6MxDq7OWkgaJ9OXzL/1698729247592)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aOJr6MxDq7OWkgaJ9OXzL%22%2C%22flow%22%3Atrue%7D%7D)
+# ❤️Any Roleplay❤️ Mythalion 13B · SFW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aOJr6MxDq7OWkgaJ9OXzL%22%2C%22flow%22%3Atrue%7D%7D)
 Sweet romantic rolеplay about literally anything for those in the mood. This is a SFW version of "Any Roleplay" for the competition, enjoy and please upvote (heart)! To start, name the characters and setting. Please note: even though the prompt is completely SFW, Mythalion does not have good controls for keeping it so, so be careful about what you ask for...
 
 # Prompt

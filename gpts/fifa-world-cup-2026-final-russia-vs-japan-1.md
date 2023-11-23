@@ -1,6 +1,6 @@
 
-[![FIFA world cup 2026 Final : Russia vs Japan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# FIFA world cup 2026 Final : Russia vs Japan 
+[![FIFA world cup 2026 Final : Russia vs Japan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7m2NDUKxroKCI2tX46zV%22%2C%22flow%22%3Atrue%7D%7D)
+# FIFA world cup 2026 Final : Russia vs Japan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7m2NDUKxroKCI2tX46zV%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

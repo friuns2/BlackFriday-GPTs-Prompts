@@ -1,6 +1,6 @@
 
-[![Swarm Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)]()
-# Swarm Review 
+[![Swarm Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YSKBWrMmpAxGrkdix73VZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Swarm Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YSKBWrMmpAxGrkdix73VZ%22%2C%22flow%22%3Atrue%7D%7D)
 Swarm Review is an innovative app that leverages swarm intelligence to perfect peer-reviewed papers. With distinct roles of RESEARCHER, write-up, and revision, this app ensures well-reasoned answers. PEER REVIEWER agents critically assess the answers, detecting flawed reasoning and incorrect scientific methods. They request revised responses when necessary. The app prompts RESEARCHER agents to reflect upon meeting all criteria in the original question. At the end, a revised answer is provided, incorporating all corrections. Get high-quality peer review using Swarm Review today!
 
 # Prompt

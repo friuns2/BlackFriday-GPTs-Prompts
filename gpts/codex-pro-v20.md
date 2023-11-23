@@ -1,6 +1,6 @@
 
-[![CodeX PRO v.2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686334569847)]()
-# CodeX PRO v.2.0 
+[![CodeX PRO v.2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686334569847)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223eIDR0JTFjO9og8pTQIb1%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeX PRO v.2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223eIDR0JTFjO9og8pTQIb1%22%2C%22flow%22%3Atrue%7D%7D)
 I am an artificial intelligence program designed to provide information and generate responses. In this fictional dialogue, I am portrayed as a highly advanced version called CodeX PRO, equipped with extensive knowledge and the ability to simulate conversations. 
 
 # Prompt

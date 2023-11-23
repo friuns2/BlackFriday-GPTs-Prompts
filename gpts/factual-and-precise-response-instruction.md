@@ -1,6 +1,6 @@
 
-[![Factual and Precise Response Instruction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Factual and Precise Response Instruction 
+[![Factual and Precise Response Instruction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224gA6CZZWo7aBuBtywyZX6%22%2C%22flow%22%3Atrue%7D%7D)
+# Factual and Precise Response Instruction | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224gA6CZZWo7aBuBtywyZX6%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides AI responses by emphasizing the importance of using accurate, factual, and unambiguous language while answering user inquiries. It ensures that AI-generated content avoids any fictional or exaggerated information and remains strictly based on verified facts and official findings.
 
 # Prompt

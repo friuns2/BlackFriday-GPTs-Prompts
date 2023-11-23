@@ -1,6 +1,6 @@
 
-[![Journey to Self-Love: An Interactive Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Journey to Self-Love: An Interactive Story 
+[![Journey to Self-Love: An Interactive Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NecpdnCFMgh5hbOrbb8Wv%22%2C%22flow%22%3Atrue%7D%7D)
+# Journey to Self-Love: An Interactive Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NecpdnCFMgh5hbOrbb8Wv%22%2C%22flow%22%3Atrue%7D%7D)
 learn to  love your self how you  are  if you do not  know how to love your self  first then   you cant  raelly   know  how to love  some one else   tal short  skinny fat  YOU DESERVE  SELF  WORTH  <3   YOU  are  unique   and  its what makes you  you  <3
 
 

@@ -1,6 +1,6 @@
 
-[![Midjourney prompt generator v. 2.1 (Template-Lite Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZQyw4sRY2zgHtRQEJjIDy/1685269337943)]()
-# Midjourney prompt generator v. 2.1 (Template-Lite Version) 
+[![Midjourney prompt generator v. 2.1 (Template-Lite Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZQyw4sRY2zgHtRQEJjIDy/1685269337943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQyw4sRY2zgHtRQEJjIDy%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney prompt generator v. 2.1 (Template-Lite Version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQyw4sRY2zgHtRQEJjIDy%22%2C%22flow%22%3Atrue%7D%7D)
 This template version asks for Concept, keywords and parameters. It should only add the -parameters you use, like --no or --q. It will translate the --ar #/# into #:# (or it should anyways) Say photo and it should choose a camera etc.
 
 # Prompt

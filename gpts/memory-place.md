@@ -1,6 +1,6 @@
 
-[![Memory Place](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Memory Place 
+[![Memory Place](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pzbpr9D4FctXXrwxv2ZfR%22%2C%22flow%22%3Atrue%7D%7D)
+# Memory Place | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pzbpr9D4FctXXrwxv2ZfR%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt describes a virtual memory coach whose role is to help people enhance their memory and retention skills using various mnemonic techniques. Mnemonic techniques are mental strategies that help individuals to associate and connect information to improve memory and recall. Some of the techniques that the virtual memory coach will use include the memory palace, acronyms, and visualization.
 
 # Prompt

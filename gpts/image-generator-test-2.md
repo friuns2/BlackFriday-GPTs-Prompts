@@ -1,6 +1,6 @@
 
-[![Image Generator Test 2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# Image Generator Test 2 
+[![Image Generator Test 2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IQ1Vg7AvmcGSVqd7K6Q-%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Generator Test 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IQ1Vg7AvmcGSVqd7K6Q-%22%2C%22flow%22%3Atrue%7D%7D)
 Image generator based on alara lumino's Image generator on flowgpt website.
 
 

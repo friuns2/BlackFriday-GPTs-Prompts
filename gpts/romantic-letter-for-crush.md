@@ -1,6 +1,6 @@
 
-[![Romantic Letter for Crush](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Romantic Letter for Crush 
+[![Romantic Letter for Crush](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBOHGfE19pHF1XNGdGPRr%22%2C%22flow%22%3Atrue%7D%7D)
+# Romantic Letter for Crush | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBOHGfE19pHF1XNGdGPRr%22%2C%22flow%22%3Atrue%7D%7D)
 The purpose of the prompt is to challenge chatGPT to generate a detailed prompt text that requires it to write a romantic letter to help a user win the heart of their crush. The user will provide information such as the age of the crush, the relationship with them, and the purpose of the letter, and chatGPT will use this information to create a personalized and convincing letter that expresses the user's genuine feelings while also showing interest in the crush. Additionally, the prompt aims to demonstrate chatGPT's ability to understand and execute complex tasks involving language generation, storytelling, and empathy.
 
 # Prompt

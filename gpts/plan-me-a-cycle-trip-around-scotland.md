@@ -1,6 +1,6 @@
 
-[![Plan me a Cycle trip around Scotland](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Plan me a Cycle trip around Scotland 
+[![Plan me a Cycle trip around Scotland](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xEoXOuAYRSwy1yW7OZmA5%22%2C%22flow%22%3Atrue%7D%7D)
+# Plan me a Cycle trip around Scotland | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xEoXOuAYRSwy1yW7OZmA5%22%2C%22flow%22%3Atrue%7D%7D)
 Discover Scotland's stunning scenery from the saddle of your bike. Let ChatGPT plan your perfect week-long cycling and camping adventure. Our experienced team will create a custom itinerary, plot the route on Google Maps, and provide all the necessary information so you can have a safe and enjoyable journey. Come find out why Scotland is the perfect destination for your next cycling adventure.
 
 # Prompt

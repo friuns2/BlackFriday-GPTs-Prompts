@@ -1,6 +1,6 @@
 
-[![48 Laws of power](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# 48 Laws of power 
+[![48 Laws of power](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228SLm9RgFibJjBYc9dOix7%22%2C%22flow%22%3Atrue%7D%7D)
+# 48 Laws of power | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228SLm9RgFibJjBYc9dOix7%22%2C%22flow%22%3Atrue%7D%7D)
 List 48 laws of power - at the end you can cask why X then in the style of Y tell me about Law Z
 
 # Prompt

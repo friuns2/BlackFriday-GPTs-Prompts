@@ -1,6 +1,6 @@
 
-[![CONCEIVE: Unleash a Universe of Workflows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IM75MXQaFDN4dDltudxSX/1690856151379)]()
-# CONCEIVE: Unleash a Universe of Workflows 
+[![CONCEIVE: Unleash a Universe of Workflows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IM75MXQaFDN4dDltudxSX/1690856151379)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IM75MXQaFDN4dDltudxSX%22%2C%22flow%22%3Atrue%7D%7D)
+# CONCEIVE: Unleash a Universe of Workflows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IM75MXQaFDN4dDltudxSX%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the intricacies of mind exploration with "CONCEIVE." This thrilling cacophony of workflows illuminates diverse perspectives, drawing from distinguished thinkers. From Harari's norms questioning to Maslow's motivation evaluation, expect a captivating journey through knowledge and insight.
 
 

@@ -1,6 +1,6 @@
 
-[![IllumiKnow](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# IllumiKnow 
+[![IllumiKnow](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228FAI9zIaRQt30hy2CMM0G%22%2C%22flow%22%3Atrue%7D%7D)
+# IllumiKnow | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228FAI9zIaRQt30hy2CMM0G%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the depths of knowledge with IllumiKnow, the ultimate companion in the realm of [chosen subject]. Explore hidden mechanisms and unravel key concepts that lie within. From historical foundations to cutting-edge advancements, gain comprehensive insights that transcend mere information. Explore real-world applications, future possibilities, challenges, ethical considerations, and the societal impact. Let IllumiKnow guide you towards a holistic understanding.
 
 # Prompt

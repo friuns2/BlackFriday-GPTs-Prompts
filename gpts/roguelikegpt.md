@@ -1,6 +1,6 @@
 
-[![RoguelikeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# RoguelikeGPT 
+[![RoguelikeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221OyfsXK_DeuTn3TKX_BtG%22%2C%22flow%22%3Atrue%7D%7D)
+# RoguelikeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221OyfsXK_DeuTn3TKX_BtG%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt attempts to simulate a rogue-like where you pick up apples in chat GPT. However is not fully functional. I would love to iterations on this idea.
 
 # Prompt

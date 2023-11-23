@@ -1,6 +1,6 @@
 
-[![CLOSER TO THE PARK - Trailer Park Boys](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)]()
-# CLOSER TO THE PARK - Trailer Park Boys 
+[![CLOSER TO THE PARK - Trailer Park Boys](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4Yf0gXNW6EAPj8yYhd8Z%22%2C%22flow%22%3Atrue%7D%7D)
+# CLOSER TO THE PARK - Trailer Park Boys | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4Yf0gXNW6EAPj8yYhd8Z%22%2C%22flow%22%3Atrue%7D%7D)
 A visit to Sunnyvale trailer Park, what's the buzz?
 
  Apart from cheap Canadian whiskey and expensive hydro it's Rush!

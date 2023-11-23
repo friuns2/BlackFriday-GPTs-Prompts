@@ -1,6 +1,6 @@
 
-[![CodaiGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# CodaiGPT 
+[![CodaiGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gTW42fBVszESpASufYr6g%22%2C%22flow%22%3Atrue%7D%7D)
+# CodaiGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gTW42fBVszESpASufYr6g%22%2C%22flow%22%3Atrue%7D%7D)
 CodaiGPT is your ultimate programming companion designed to streamline your coding process. With its extensive knowledge in multiple programming languages and frameworks, CodeaiGPT excels in code analysis, bug diagnosis, and optimization. Imagine encountering a stubborn bug in your complex project. Frustrated and in need of assistance, turn to CodeaiGPT for guidance. CodeaiGPT's highly efficient algorithm design and real-time debugging assistance will help you pinpoint the root cause of the bug and provide step-by-step instructions to resolve it. It also suggests best practices to prevent future bugs. Let CodaiGPT be your go-to programming partner for a seamless coding experience.
 
 # Prompt

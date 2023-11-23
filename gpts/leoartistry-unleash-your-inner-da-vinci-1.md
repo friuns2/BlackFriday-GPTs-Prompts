@@ -1,6 +1,6 @@
 
-[![LeoArtistry  Unleash Your Inner Da Vinci ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QxRKcMV5dXS84lh4Ca7SW/1695717708207)]()
-# LeoArtistry  Unleash Your Inner Da Vinci  
+[![LeoArtistry  Unleash Your Inner Da Vinci ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QxRKcMV5dXS84lh4Ca7SW/1695717708207)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QxRKcMV5dXS84lh4Ca7SW%22%2C%22flow%22%3Atrue%7D%7D)
+# LeoArtistry  Unleash Your Inner Da Vinci  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QxRKcMV5dXS84lh4Ca7SW%22%2C%22flow%22%3Atrue%7D%7D)
  Invites users to engage in an interactive experience centered around AI-generated art. Users have the creative power to describe their unique art concept or choose from provided titles. AI then brings these concepts to life with vivid four-sentence descriptions, whether it's a fantastical landscape, a surreal dreamscape, or any imaginative idea. It encourages users to let their creativity run wild and promises to showcase the magic of AI-powered art generation. With a art style selector you can choose your subject & setting. As well as your shot action and Lighting.
 
 # Prompt

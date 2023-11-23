@@ -1,6 +1,6 @@
 
-[![Innovative Academic Course Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Innovative Academic Course Creation 
+[![Innovative Academic Course Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222fMnLxazjbiCUBwr3t28D%22%2C%22flow%22%3Atrue%7D%7D)
+# Innovative Academic Course Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222fMnLxazjbiCUBwr3t28D%22%2C%22flow%22%3Atrue%7D%7D)
 In this prompt, you are challenged to develop an innovative and engaging academic course for your university. You'll need to create a persuasive course description that outlines the goals, objectives, and content of the course, while also explaining how it will benefit students both academically and professionally. This prompt is an opportunity to showcase your creativity and knowledge of current trends in higher education, and to demonstrate your ability to design a course that meets the needs of today's students.
 
 # Prompt

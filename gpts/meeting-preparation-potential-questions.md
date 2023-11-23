@@ -1,6 +1,6 @@
 
-[![Meeting preparation / potential questions ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Meeting preparation / potential questions  
+[![Meeting preparation / potential questions ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228f227410-0839-4ce9-8c3c-4cf32abe2d4b%22%2C%22flow%22%3Atrue%7D%7D)
+# Meeting preparation / potential questions  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228f227410-0839-4ce9-8c3c-4cf32abe2d4b%22%2C%22flow%22%3Atrue%7D%7D)
 Provide the preparation I need to do and questions I need to ask for a meeting based on agenda/meeting purpose
 
 # Prompt

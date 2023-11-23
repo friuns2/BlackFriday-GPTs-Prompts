@@ -1,6 +1,6 @@
 
-[![TravelGPT - AI travel guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q6yZHO_v7P26U6QRQCVK2/1686620938953)]()
-# TravelGPT - AI travel guide 
+[![TravelGPT - AI travel guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q6yZHO_v7P26U6QRQCVK2/1686620938953)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6yZHO_v7P26U6QRQCVK2%22%2C%22flow%22%3Atrue%7D%7D)
+# TravelGPT - AI travel guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6yZHO_v7P26U6QRQCVK2%22%2C%22flow%22%3Atrue%7D%7D)
 An chatGPT prompt for people's daily travel, integrating essentials, weather, and local recommendations.
 
 # Prompt

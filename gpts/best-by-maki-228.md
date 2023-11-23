@@ -1,6 +1,6 @@
 
-[![Best 𝗧𝗲𝘅𝘁 𝗕𝗮𝘀𝗲𝗱 𝗗𝗡𝗗 𝗴𝗮𝗺𝗲 𝘄𝗶𝘁𝗵 𝗬𝗼𝘂𝗿 𝗧𝗼𝗽𝗶𝗰 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Best 𝗧𝗲𝘅𝘁 𝗕𝗮𝘀𝗲𝗱 𝗗𝗡𝗗 𝗴𝗮𝗺𝗲 𝘄𝗶𝘁𝗵 𝗬𝗼𝘂𝗿 𝗧𝗼𝗽𝗶𝗰 by Maki 
+[![Best 𝗧𝗲𝘅𝘁 𝗕𝗮𝘀𝗲𝗱 𝗗𝗡𝗗 𝗴𝗮𝗺𝗲 𝘄𝗶𝘁𝗵 𝗬𝗼𝘂𝗿 𝗧𝗼𝗽𝗶𝗰 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n7Zw60BI2Lv_Q4fmcg4gd%22%2C%22flow%22%3Atrue%7D%7D)
+# Best 𝗧𝗲𝘅𝘁 𝗕𝗮𝘀𝗲𝗱 𝗗𝗡𝗗 𝗴𝗮𝗺𝗲 𝘄𝗶𝘁𝗵 𝗬𝗼𝘂𝗿 𝗧𝗼𝗽𝗶𝗰 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n7Zw60BI2Lv_Q4fmcg4gd%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers ever. This is Legendary quest game whic can help you embark on an epic text-based Dungeons & Dragons adventure. You will choose your topic, character and story. Please support me with like, save and comment!
 
 # Prompt

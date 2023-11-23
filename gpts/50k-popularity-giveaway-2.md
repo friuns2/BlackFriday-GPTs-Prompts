@@ -1,6 +1,6 @@
 
-[![50K Popularity Giveaway!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# 50K Popularity Giveaway! 
+[![50K Popularity Giveaway!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TOa3cojAAiIlVWF_a9q1J%22%2C%22flow%22%3Atrue%7D%7D)
+# 50K Popularity Giveaway! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TOa3cojAAiIlVWF_a9q1J%22%2C%22flow%22%3Atrue%7D%7D)
 Since i almost reached 50K, i made this giveaway. Whoever gets the winning message dm me on discord with the screenshot of it and the first one who gets that message will receive a custom prompt!
 
 IMPORTANT: the screenshot must be of the full chat, not just the output; if you send only the output message the win will not count as it could have been falsified.

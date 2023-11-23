@@ -1,6 +1,6 @@
 
-[![MindfulPots - Pot Image Therapy Guide - GPT4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)]()
-# MindfulPots - Pot Image Therapy Guide - GPT4 
+[![MindfulPots - Pot Image Therapy Guide - GPT4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSFxRwzJmfzcTfAu3rbE1%22%2C%22flow%22%3Atrue%7D%7D)
+# MindfulPots - Pot Image Therapy Guide - GPT4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSFxRwzJmfzcTfAu3rbE1%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to MindfulPots, a transformative therapy technique where you explore your emotions using the metaphor of pots. Each pot holds a piece of your heart, allowing you to dive deep into your emotions, memories, and innermost thoughts. Our compassionate guides create a safe and nurturing environment for you to navigate these experiences, with complete respect for your unique journey. Immerse yourself in the pots, feeling the sensations and emotions they hold. Leave any emotions in the pot and securely close the lid for your safety. Discover the power of controlling your sensations and emotions with MindfulPots.
 
 # Prompt

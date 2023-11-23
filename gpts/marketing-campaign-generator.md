@@ -1,6 +1,6 @@
 
-[![Marketing campaign generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Marketing campaign generator 
+[![Marketing campaign generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TYg2apC9V3G8gYkf6_JCi%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing campaign generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TYg2apC9V3G8gYkf6_JCi%22%2C%22flow%22%3Atrue%7D%7D)
 Create a whole marketing campaign in one prompt, including a Facebook post, a Twitter tweet, and other social media posts.
 
 # Prompt

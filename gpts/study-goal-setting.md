@@ -1,6 +1,6 @@
 
-[![Study Goal Setting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Study Goal Setting 
+[![Study Goal Setting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DSzye0lmbTCFLALXrvfVE%22%2C%22flow%22%3Atrue%7D%7D)
+# Study Goal Setting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DSzye0lmbTCFLALXrvfVE%22%2C%22flow%22%3Atrue%7D%7D)
 Setting clear and achievable study goals can motivate you to stay focused and determined. Use ChatGPT to set SMART (Specific, Measurable, Achievable, Relevant, Time-bound) study goals.
 
 # Prompt

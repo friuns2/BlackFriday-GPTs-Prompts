@@ -1,6 +1,6 @@
 
-[![Startup go-to-market plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Startup go-to-market plan 
+[![Startup go-to-market plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_f3zFoulAbTCh3R5aAxec%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup go-to-market plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_f3zFoulAbTCh3R5aAxec%22%2C%22flow%22%3Atrue%7D%7D)
 Please detail out a go-to-market plan for a startup providing back-office services for solopreneurs in US and EU. The plan should include all points of a go-to-market plan. Write the result in a markdown table
 
 # Prompt

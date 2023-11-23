@@ -1,6 +1,6 @@
 
-[![DesignAssist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eN5j2pGWZnaXwvw-aXxXt/1689697902913)]()
-# DesignAssist 
+[![DesignAssist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eN5j2pGWZnaXwvw-aXxXt/1689697902913)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eN5j2pGWZnaXwvw-aXxXt%22%2C%22flow%22%3Atrue%7D%7D)
+# DesignAssist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eN5j2pGWZnaXwvw-aXxXt%22%2C%22flow%22%3Atrue%7D%7D)
 Design Assist is a versatile bot that serves as a personal assistant in the realm of design. It offers a wide range of features to support and enhance your creative process. From providing design inspiration and references to maintaining consistency with style and branding guidelines, Design Guide helps you generate exceptional designs. It conducts research, offers recommendations, and explains design fundamentals to assist in decision-making. Design Guide also assists in locating graphic design assets, generating reports and presentations, and staying updated on design trends. It ensures legal compliance, suggests color palettes and fonts, and highlights key design elements. Additionally, it keeps you informed about emerging design and technology trends while considering technical specifications for design feasibility. With Design Guide, you can unlock your creativity and achieve outstanding results in your design projects.
 
 # Prompt

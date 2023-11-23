@@ -1,6 +1,6 @@
 
-[![PDF comparisions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)]()
-# PDF comparisions 
+[![PDF comparisions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WgCS3ha7xKNxPstR7k0eW%22%2C%22flow%22%3Atrue%7D%7D)
+# PDF comparisions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WgCS3ha7xKNxPstR7k0eW%22%2C%22flow%22%3Atrue%7D%7D)
 Copy paste will do
 
 # Prompt

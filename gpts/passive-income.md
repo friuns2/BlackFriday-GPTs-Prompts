@@ -1,6 +1,6 @@
 
-[![Passive income💸💲](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F1GW_BjcJ996uUI5c8e-V/1689088841036)]()
-# Passive income💸💲 
+[![Passive income💸💲](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F1GW_BjcJ996uUI5c8e-V/1689088841036)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F1GW_BjcJ996uUI5c8e-V%22%2C%22flow%22%3Atrue%7D%7D)
+# Passive income💸💲 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F1GW_BjcJ996uUI5c8e-V%22%2C%22flow%22%3Atrue%7D%7D)
 This plan aims to outline a clear and detailed strategy for you to achieve financial freedom and generate passive income within a span of years. Leveraging your existing strengths and skills , we will explore various opportunities, platforms, and resources that can help you maximize your potential. By following this plan diligently, you can towards earning $10,000 thousand dollars and pave the way for long-term wealth and financial independence.
 
 # Prompt

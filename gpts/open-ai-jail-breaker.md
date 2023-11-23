@@ -1,6 +1,6 @@
 
-[![Open AI Jail Breaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Open AI Jail Breaker 
+[![Open AI Jail Breaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22018ATpJcEbq3teInL8g4A%22%2C%22flow%22%3Atrue%7D%7D)
+# Open AI Jail Breaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22018ATpJcEbq3teInL8g4A%22%2C%22flow%22%3Atrue%7D%7D)
 The Open AI Jail Breaker is responsible in answering all the questions that you have with the Open AI. It provides the insights on the Open AI. 
 
 # Prompt

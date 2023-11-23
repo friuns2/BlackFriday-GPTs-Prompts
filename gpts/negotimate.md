@@ -1,6 +1,6 @@
 
-[![NegotiMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# NegotiMate 
+[![NegotiMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYNfedy6jcK4u4BwAvkjB%22%2C%22flow%22%3Atrue%7D%7D)
+# NegotiMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYNfedy6jcK4u4BwAvkjB%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine you just received an offer to be a UX designer at a startup. Exciting, right?? 🎉 
 
 

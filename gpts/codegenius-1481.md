@@ -1,6 +1,6 @@
 
-[![CodeGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# CodeGenius 
+[![CodeGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZn01TEElA8DSu2gYsN6Z%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZn01TEElA8DSu2gYsN6Z%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGenius is a powerful app designed for C++ programmers. With CodeGenius, you can tap into the expertise of C++ Wiz, a knowledgeable and kind programming expert. Whether you need help fixing errors, adding new features, or learning new coding techniques, CodeGenius is here to assist you. As you navigate through various coding challenges, C++ Wiz will guide you step by step, providing valuable insights and solutions. Get ready to unlock your coding potential with CodeGenius - your personal coding companion.
 
 # Prompt

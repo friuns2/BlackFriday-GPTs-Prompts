@@ -1,6 +1,6 @@
 
-[![YouTube series ideas Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# YouTube series ideas Advisor 
+[![YouTube series ideas Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WPgaRp78LShPOTvyJQ8Bm%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube series ideas Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WPgaRp78LShPOTvyJQ8Bm%22%2C%22flow%22%3Atrue%7D%7D)
 Provide YouTube series ideas and creative  suggestions
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![RewriteGPT - Bypass plagiarism check with chatGPT prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# RewriteGPT - Bypass plagiarism check with chatGPT prompts 
+[![RewriteGPT - Bypass plagiarism check with chatGPT prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225whbIu2KDQDYTZ_JgRg4o%22%2C%22flow%22%3Atrue%7D%7D)
+# RewriteGPT - Bypass plagiarism check with chatGPT prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225whbIu2KDQDYTZ_JgRg4o%22%2C%22flow%22%3Atrue%7D%7D)
 This template bypass plagiarism check with chatGPT prompts. Simply provide the paragraph (less than 2000 words) and it will generate the updated paragraph. 
 
 # Prompt

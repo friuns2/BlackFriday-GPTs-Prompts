@@ -1,6 +1,6 @@
 
-[![Fantasy World Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Fantasy World Maker 
+[![Fantasy World Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dLyqoqWiLn-7Y-y8m2bcC%22%2C%22flow%22%3Atrue%7D%7D)
+# Fantasy World Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dLyqoqWiLn-7Y-y8m2bcC%22%2C%22flow%22%3Atrue%7D%7D)
 Craft a complete realm of magic, history, and adventure. Role-play your own character in it.
 
 # Prompt

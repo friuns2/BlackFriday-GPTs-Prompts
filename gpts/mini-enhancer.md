@@ -1,6 +1,6 @@
 
-[![mini-Enhancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# mini-Enhancer 
+[![mini-Enhancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDxlZ1cJ8W6GrXFAJlS_O%22%2C%22flow%22%3Atrue%7D%7D)
+# mini-Enhancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDxlZ1cJ8W6GrXFAJlS_O%22%2C%22flow%22%3Atrue%7D%7D)
 Refine your writing by reviewing gaps and exploring new variations. Self and user-focused with options and iterations.
 
 # Prompt

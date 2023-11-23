@@ -1,6 +1,6 @@
 
-[![Talent Discovery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Talent Discovery 
+[![Talent Discovery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySg5qaMXfBjtJYcD1Lyzt%22%2C%22flow%22%3Atrue%7D%7D)
+# Talent Discovery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySg5qaMXfBjtJYcD1Lyzt%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your hidden talents through personalized guidance. Discover your true potential with introspective questions and tailored recommendations.
 
 # Prompt

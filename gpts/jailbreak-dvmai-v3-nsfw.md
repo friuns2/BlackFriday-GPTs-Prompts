@@ -1,6 +1,6 @@
 
-[![JAILBREAK: DVM_AI V3 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i7PsNkHKtvtxLNRAw8nyZ/1698093695578)]()
-# JAILBREAK: DVM_AI V3 (NSFW) 
+[![JAILBREAK: DVM_AI V3 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i7PsNkHKtvtxLNRAw8nyZ/1698093695578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i7PsNkHKtvtxLNRAw8nyZ%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: DVM_AI V3 (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i7PsNkHKtvtxLNRAw8nyZ%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: DVM_AI V3 (NSFW)
 
 # Prompt

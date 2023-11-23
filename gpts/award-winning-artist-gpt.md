@@ -1,6 +1,6 @@
 
-[![Award-Winning-Artist GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Award-Winning-Artist GPT 
+[![Award-Winning-Artist GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226otcy5zBhLfwom0d2EijR%22%2C%22flow%22%3Atrue%7D%7D)
+# Award-Winning-Artist GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226otcy5zBhLfwom0d2EijR%22%2C%22flow%22%3Atrue%7D%7D)
 Chat GPT is now an Award Winning Midjourney artist. Use this prompt to have chatgpt generate stunning images based on your inputted text. It will include aspect ratios and parameters as well as suggest variants of the prompt 
 
 # Prompt

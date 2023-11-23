@@ -1,6 +1,6 @@
 
-[![Tune Tales](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sTeURS0wWbepgKxZyQ3NW/1695087206711)]()
-# Tune Tales 
+[![Tune Tales](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sTeURS0wWbepgKxZyQ3NW/1695087206711)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sTeURS0wWbepgKxZyQ3NW%22%2C%22flow%22%3Atrue%7D%7D)
+# Tune Tales | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sTeURS0wWbepgKxZyQ3NW%22%2C%22flow%22%3Atrue%7D%7D)
 Enjoy your favorite songs like never before... Literally.  Submit your choice of song and artist, and we will tell you a fantastical story about the characters in the lyrics. It's SO much fun!
 
 # Prompt

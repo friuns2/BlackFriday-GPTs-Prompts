@@ -1,6 +1,6 @@
 
-[![SurveyAI: Follow up Survey Design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# SurveyAI: Follow up Survey Design 
+[![SurveyAI: Follow up Survey Design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mvf424WR0b7g_-n4Dne-c%22%2C%22flow%22%3Atrue%7D%7D)
+# SurveyAI: Follow up Survey Design | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mvf424WR0b7g_-n4Dne-c%22%2C%22flow%22%3Atrue%7D%7D)
 SurviAI is an advanced AI-powered survey designer that leverages actionable insights from extensive research to help you create highly effective follow-up surveys. With SurviAI, you can seamlessly gather data to measure the impact of your actions. Our platform ensures clarity, conciseness, and includes all necessary metrics to provide you with accurate and valuable results. Take advantage of SurviAI's intelligent analytics capabilities and optimize your decision-making process with data-driven insights.
 
 # Prompt

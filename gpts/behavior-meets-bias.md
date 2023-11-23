@@ -1,6 +1,6 @@
 
-[![BEHAVIOR MEETS BIAS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6px16yc6cZiiwabj7fdhN/1696480319293)]()
-# BEHAVIOR MEETS BIAS 
+[![BEHAVIOR MEETS BIAS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6px16yc6cZiiwabj7fdhN/1696480319293)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226px16yc6cZiiwabj7fdhN%22%2C%22flow%22%3Atrue%7D%7D)
+# BEHAVIOR MEETS BIAS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226px16yc6cZiiwabj7fdhN%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt identifies bias that may encourage or stand in the way of a behavior you are trying to create/change. It's great for identifying comms barriers or writing comms tasks. 
 
 # Prompt

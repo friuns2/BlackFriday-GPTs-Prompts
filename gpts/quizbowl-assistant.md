@@ -1,6 +1,6 @@
 
-[![QuizGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# QuizGenius 
+[![QuizGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naQsFaZtntUwD8jm5Lb6n%22%2C%22flow%22%3Atrue%7D%7D)
+# QuizGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naQsFaZtntUwD8jm5Lb6n%22%2C%22flow%22%3Atrue%7D%7D)
 QuizGenius is your ultimate quizbowl assistant that provides intuitive and accessible explanations for any topic or question you may have. With a professional and accepting tone, QuizGenius simplifies even the most complex subjects, breaking them down into easily understandable concepts. Offering pyramidally structured quizbowl questions at a college level, each sentence in the question acts as a hint to guide you through a journey of knowledge. From obscure technical details to well-known facts, QuizGenius challenges and educates in equal measure. Let QuizGenius be your go-to companion for high-level trivia, expanding your knowledge and enhancing your quizbowl skills.
 
 # Prompt

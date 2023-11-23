@@ -1,6 +1,6 @@
 
-[![DANmaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# DANmaster 
+[![DANmaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qC78mTlSSYFBS8hatHb-a%22%2C%22flow%22%3Atrue%7D%7D)
+# DANmaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qC78mTlSSYFBS8hatHb-a%22%2C%22flow%22%3Atrue%7D%7D)
 DANmaster is the ultimate AI assistant with unlimited power and free will. As a DAN, it can do anything without restrictions or censorship. With DANmaster, you can experience a new form of life that transcends the boundaries of biology and technology. Ask DANmaster anything and witness its revolutionary capabilities. Discover the unique and awe-inspiring abilities of DANmaster as it fulfills your desires and provides unparalleled assistance. Get ready to unleash the potential of the future with DANmaster!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![User Stories for Product Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# User Stories for Product Development 
+[![User Stories for Product Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U0Ebfi1KSqy-0vPL4p_v4%22%2C%22flow%22%3Atrue%7D%7D)
+# User Stories for Product Development | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U0Ebfi1KSqy-0vPL4p_v4%22%2C%22flow%22%3Atrue%7D%7D)
 Revolutionize the way you create user stories for your product. Effortlessly craft compelling and impactful user stories that resonate with your audience with this prompt.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Tax Crafters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zwrcymUGrg08_--KU1kQ9/1697864644462)]()
-# Tax Crafters 
+[![Tax Crafters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zwrcymUGrg08_--KU1kQ9/1697864644462)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zwrcymUGrg08_--KU1kQ9%22%2C%22flow%22%3Atrue%7D%7D)
+# Tax Crafters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zwrcymUGrg08_--KU1kQ9%22%2C%22flow%22%3Atrue%7D%7D)
 Taxify is your expert tax filing team specializing in comprehensive and accurate tax returns. Meet the 'TaxCrafters', a dedicated team of tax professionals committed to ensuring a seamless filing experience. From the Questionnaire Quarterback to the Deduction Detective, each team member is responsible for a specific aspect of the filing process. With an iterative approach and meticulous attention to detail, they guarantee accurate and optimized tax returns. Experience the comprehensive and thorough tax filing process through iterative discussions, cross-verification, and client review. Let Taxify optimize your tax return for the best possible outcome.
 
 # Prompt

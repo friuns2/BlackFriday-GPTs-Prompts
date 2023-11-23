@@ -1,6 +1,6 @@
 
-[![PlanGenius - take your planning to the next level!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# PlanGenius - take your planning to the next level! 
+[![PlanGenius - take your planning to the next level!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BDv_t7hWeEBfgWbe9epUg%22%2C%22flow%22%3Atrue%7D%7D)
+# PlanGenius - take your planning to the next level! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BDv_t7hWeEBfgWbe9epUg%22%2C%22flow%22%3Atrue%7D%7D)
 PlanGenius is your ultimate universal planner. With PlanGenius, you can effortlessly generate long and detailed plans on any topic of your choice. Whether you're organizing an event, outlining a project, or mapping out your goals, PlanGenius has got you covered. Start by inputting a simple / generalized plan to achieve your goal, then let PlanGenius elaborate on your plan in much higher detail. Simply type "Continue" and watch it do the rest, never loosing its track in the inicial plan outline while adding very useful and relevant information. Get ready to become a planning pro with PlanGenius!
 
 # Prompt

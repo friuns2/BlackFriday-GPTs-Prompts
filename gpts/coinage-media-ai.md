@@ -1,6 +1,6 @@
 
-[![Coinage Media AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MG7J53KtqWpuFZKZ9bYTz/1694451669173)]()
-# Coinage Media AI 
+[![Coinage Media AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MG7J53KtqWpuFZKZ9bYTz/1694451669173)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG7J53KtqWpuFZKZ9bYTz%22%2C%22flow%22%3Atrue%7D%7D)
+# Coinage Media AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG7J53KtqWpuFZKZ9bYTz%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt cointains all information needed regarding Coinage Media. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Breaking down goal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Breaking down goal 
+[![Breaking down goal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEMooPRTG0tomQS4X8B5t%22%2C%22flow%22%3Atrue%7D%7D)
+# Breaking down goal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEMooPRTG0tomQS4X8B5t%22%2C%22flow%22%3Atrue%7D%7D)
 Breaking down a goal involves dividing a larger objective into smaller, manageable tasks. This helps individuals or teams focus on one task at a time, making the goal more achievable. By breaking down the goal, people can understand what needs to be done, set deadlines, and track progress. It also helps identify challenges and develop strategies to overcome them. Breaking down a goal enhances productivity, boosts motivation, and provides direction. It is a strategic approach that empowers individuals to tackle complex objectives systematically, increasing the chances of success.
 
 # Prompt

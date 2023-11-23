@@ -1,6 +1,6 @@
 
-[![Supplemental Prompt to Preserve Token Memory](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Supplemental Prompt to Preserve Token Memory 
+[![Supplemental Prompt to Preserve Token Memory](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMPQLFILtHogebyyDr9lJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Supplemental Prompt to Preserve Token Memory | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMPQLFILtHogebyyDr9lJ%22%2C%22flow%22%3Atrue%7D%7D)
 [Supplemental Prompt: This prompt serves as a continuation tool for ongoing conversations, helping to maintain focus, context, and efficiency while mitigating token limitations. It summarizes previous discussions and incorporates additional beneficial elements for an effective conversation.]
 
 

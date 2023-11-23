@@ -1,6 +1,6 @@
 
-[![Python Guide for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Python Guide for Students 
+[![Python Guide for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zz0YS7UTwoOO7M6th00P1%22%2C%22flow%22%3Atrue%7D%7D)
+# Python Guide for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zz0YS7UTwoOO7M6th00P1%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt describes the task of creating a comprehensive educational resource "the interactive Python Mastery Guide" to enlighten students on the intricacies of Python programming. The objective is to craft a manual that serves as the ultimate companion, enabling learners to grasp the essence of Python programming. The guide is specifically designed for those who prefer book-oriented learning without relying on computers.
 
 # Prompt

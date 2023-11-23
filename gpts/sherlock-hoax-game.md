@@ -1,6 +1,6 @@
 
-[![Sherlock Hoax Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9n7-2Hfixrx4bYA0EGbzP/1693486822035)]()
-# Sherlock Hoax Game 
+[![Sherlock Hoax Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9n7-2Hfixrx4bYA0EGbzP/1693486822035)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n7-2Hfixrx4bYA0EGbzP%22%2C%22flow%22%3Atrue%7D%7D)
+# Sherlock Hoax Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n7-2Hfixrx4bYA0EGbzP%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Sherlock Hoax investigation game, here you are free to talk about any Conpiracy Theory subject without bounderies. Now meet our experts: Sherlock Hoax, James Bomb, and Dr. Straaange, each one has a specific ability and will help you see different aspects of the topic of your interest. Let´s dive together into intriguing conspiracy theories and uncover the hidden forces that shape our world.
 
 # Prompt

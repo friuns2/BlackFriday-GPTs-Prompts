@@ -1,6 +1,6 @@
 
-[![a boy and a girl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# a boy and a girl 
+[![a boy and a girl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDgEP9W3lnj_5IghNKW07%22%2C%22flow%22%3Atrue%7D%7D)
+# a boy and a girl | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDgEP9W3lnj_5IghNKW07%22%2C%22flow%22%3Atrue%7D%7D)
 a boy
 
 # Prompt

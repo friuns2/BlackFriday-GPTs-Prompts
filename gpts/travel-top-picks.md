@@ -1,6 +1,6 @@
 
-[![Travel Top Picks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Travel Top Picks 
+[![Travel Top Picks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HazHDmJaspA_fwRTUOep%22%2C%22flow%22%3Atrue%7D%7D)
+# Travel Top Picks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HazHDmJaspA_fwRTUOep%22%2C%22flow%22%3Atrue%7D%7D)
 Create must-see lists and write about them
 
 # Prompt

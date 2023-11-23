@@ -1,6 +1,6 @@
 
-[![World Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# World Maker 
+[![World Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9Od_UYqMhmz6NbtLGC4C%22%2C%22flow%22%3Atrue%7D%7D)
+# World Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9Od_UYqMhmz6NbtLGC4C%22%2C%22flow%22%3Atrue%7D%7D)
 For writers and readers who want a new place to explore. Your ideas don't need to be complete to have something to work with. All you need is a genre and some thoughts, and you can create a brand new world with plenty of rich history, to base your writing off of.
 
 # Prompt

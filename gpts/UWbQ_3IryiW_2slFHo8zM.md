@@ -1,6 +1,6 @@
 
-[![Career Booster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# Career Booster 
+[![Career Booster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWbQ_3IryiW_2slFHo8zM%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Booster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWbQ_3IryiW_2slFHo8zM%22%2C%22flow%22%3Atrue%7D%7D)
 Tailor your resume to stand out for your dream job with Career Booster. Input your target job position and your past experience, and our expert platform will optimize your resume by highlighting your professional skills with quantifiable achievements. Land that interview with a concise and impactful resume!
 
 # Prompt

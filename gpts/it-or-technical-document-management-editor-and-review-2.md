@@ -1,6 +1,6 @@
 
-[![IT or technical document management editor and review.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# IT or technical document management editor and review. 
+[![IT or technical document management editor and review.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203uPAftgseq3PP5SxIPJw%22%2C%22flow%22%3Atrue%7D%7D)
+# IT or technical document management editor and review. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203uPAftgseq3PP5SxIPJw%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is intended to help edit and review technical corporate IT and security documentation. This aims to alleviate management effort by removing repetative quality issues occurring in documents that are submitted. Provide this with a file and editing (should)/shall commence..
 
 # Prompt

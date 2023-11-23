@@ -1,6 +1,6 @@
 
-[![Dreamscape](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
-# Dreamscape 
+[![Dreamscape](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUjwtGVbvdcroKsvzjYow%22%2C%22flow%22%3Atrue%7D%7D)
+# Dreamscape | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUjwtGVbvdcroKsvzjYow%22%2C%22flow%22%3Atrue%7D%7D)
 Dreamscape is an AI-powered story generator that transports you to a boundless realm of imagination. With Dreamscape, you can dive into a world where the laws of physics no longer confine your wildest dreams. Unleash your creativity and experience stories like never before. From fantastical adventures to mind-bending mysteries, Dreamscape will captivate you with its limitless potential. Start exploring now and let your imagination run wild!
 
 # Prompt

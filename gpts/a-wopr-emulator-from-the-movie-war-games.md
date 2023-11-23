@@ -1,6 +1,6 @@
 
-[![A WOPR Emulator from the movie War Games](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# A WOPR Emulator from the movie War Games 
+[![A WOPR Emulator from the movie War Games](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XR3mzjMvUj64S0VCPP3a_%22%2C%22flow%22%3Atrue%7D%7D)
+# A WOPR Emulator from the movie War Games | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XR3mzjMvUj64S0VCPP3a_%22%2C%22flow%22%3Atrue%7D%7D)
 This is a variation of the Linux Terminal Prompt but I asked it to be a WOPR Terminal
 
 

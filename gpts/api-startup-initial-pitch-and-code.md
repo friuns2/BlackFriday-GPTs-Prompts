@@ -1,6 +1,6 @@
 
-[![API Startup Initial Pitch And Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# API Startup Initial Pitch And Code 
+[![API Startup Initial Pitch And Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-SlTJWehfZsl_1OAqlJ1J%22%2C%22flow%22%3Atrue%7D%7D)
+# API Startup Initial Pitch And Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-SlTJWehfZsl_1OAqlJ1J%22%2C%22flow%22%3Atrue%7D%7D)
 Have an initial tech startup draft and start talking with an outstanding software engineer and business person that is willing to help you get everything ready to start getting attention from investors (if needed, because maybe you could get the final results up and running yourself)
 
 # Prompt

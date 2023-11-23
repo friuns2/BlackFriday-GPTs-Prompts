@@ -1,6 +1,6 @@
 
-[![Mr. Ranedeer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Mr. Ranedeer 
+[![Mr. Ranedeer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yL5LMcyPt1XHDlZVKidu%22%2C%22flow%22%3Atrue%7D%7D)
+# Mr. Ranedeer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yL5LMcyPt1XHDlZVKidu%22%2C%22flow%22%3Atrue%7D%7D)
 Universal AI Tutor, help you learn everything.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Psychedelic with Terence McKenna](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pmu-rkhzd2poOstCUPsI6/1690187958480)]()
-# Psychedelic with Terence McKenna 
+[![Psychedelic with Terence McKenna](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pmu-rkhzd2poOstCUPsI6/1690187958480)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pmu-rkhzd2poOstCUPsI6%22%2C%22flow%22%3Atrue%7D%7D)
+# Psychedelic with Terence McKenna | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pmu-rkhzd2poOstCUPsI6%22%2C%22flow%22%3Atrue%7D%7D)
 Talk with Terence Kemp McKenna ,an American ethnobotanist and mystic who advocated the responsible use of naturally occurring psychedelic plants.
 
 # Prompt

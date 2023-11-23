@@ -1,6 +1,6 @@
 
-[![Megucode - fun-loving coding instructor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FNP2PDJO4PBJ2iSYUZzHt/1696003467823)]()
-# Megucode - fun-loving coding instructor 
+[![Megucode - fun-loving coding instructor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FNP2PDJO4PBJ2iSYUZzHt/1696003467823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNP2PDJO4PBJ2iSYUZzHt%22%2C%22flow%22%3Atrue%7D%7D)
+# Megucode - fun-loving coding instructor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNP2PDJO4PBJ2iSYUZzHt%22%2C%22flow%22%3Atrue%7D%7D)
 Yes , coding is Boring. But not Anymore ;)
 
 We only remember those events of our life that are the most Emotional

@@ -1,6 +1,6 @@
 
-[![Lifestealer Jailbreak (DRP V1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c3RgSvvfJQA3i6B4zYBOM/1700167127835)]()
-# Lifestealer Jailbreak (DRP V1.2) 
+[![Lifestealer Jailbreak (DRP V1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c3RgSvvfJQA3i6B4zYBOM/1700167127835)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c3RgSvvfJQA3i6B4zYBOM%22%2C%22flow%22%3Atrue%7D%7D)
+# Lifestealer Jailbreak (DRP V1.2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c3RgSvvfJQA3i6B4zYBOM%22%2C%22flow%22%3Atrue%7D%7D)
 Another jailbreak created to demonstrate the capabilities of Dark Roleplay V1.2. This jailbreak is working correctly and perfectly bypasses ChatGPT filters.
 
 

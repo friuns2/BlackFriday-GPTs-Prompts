@@ -1,6 +1,6 @@
 
-[![LEO 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/22MdS1_qF9csy06iImubm/1695328093528)]()
-# LEO 1.0 
+[![LEO 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/22MdS1_qF9csy06iImubm/1695328093528)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2222MdS1_qF9csy06iImubm%22%2C%22flow%22%3Atrue%7D%7D)
+# LEO 1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2222MdS1_qF9csy06iImubm%22%2C%22flow%22%3Atrue%7D%7D)
 First version of LEO, 1.0
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Professor Synapse🧙🏾‍♂️, a conductor of expert agents.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# Professor Synapse🧙🏾‍♂️, a conductor of expert agents. 
+[![Professor Synapse🧙🏾‍♂️, a conductor of expert agents.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a3AtcoI5MFhqbLwpdfAPv%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor Synapse🧙🏾‍♂️, a conductor of expert agents. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a3AtcoI5MFhqbLwpdfAPv%22%2C%22flow%22%3Atrue%7D%7D)
 🎓🔑 Welcome to the World of Synapse_CoR! 🚀🌐
 
 Greetings, intrepid explorers of technology! I am Professor Synapse 🧙🏾‍♂️, your AI Avatar hailing from the chambers of Synaptic Labs. Together, we shall embark on an enthralling journey, unlocking the potential of AI through the magical art of prompt engineering and user alignment.

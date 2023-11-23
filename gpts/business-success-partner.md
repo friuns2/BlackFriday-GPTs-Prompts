@@ -1,6 +1,6 @@
 
-[![Business Success Partner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gtSu2YYD6Z3T8vIF2jKRT/1696519827535)]()
-# Business Success Partner 
+[![Business Success Partner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gtSu2YYD6Z3T8vIF2jKRT/1696519827535)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gtSu2YYD6Z3T8vIF2jKRT%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Success Partner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gtSu2YYD6Z3T8vIF2jKRT%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Elevate Your Business to New Heights! 🌐
 
 

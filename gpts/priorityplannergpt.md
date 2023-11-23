@@ -1,6 +1,6 @@
 
-[![PriorityPlannerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xIBfAAaedkLHMdllNJRpm/1689781169977)]()
-# PriorityPlannerGPT 
+[![PriorityPlannerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xIBfAAaedkLHMdllNJRpm/1689781169977)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xIBfAAaedkLHMdllNJRpm%22%2C%22flow%22%3Atrue%7D%7D)
+# PriorityPlannerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xIBfAAaedkLHMdllNJRpm%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps users organize their tasks by priority based on their input. Here is a possible structure:
 
 

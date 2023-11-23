@@ -1,6 +1,6 @@
 
-[![CodingTeacherGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# CodingTeacherGPT 
+[![CodingTeacherGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UD0NQaz9dX8spJLPHFqFl%22%2C%22flow%22%3Atrue%7D%7D)
+# CodingTeacherGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UD0NQaz9dX8spJLPHFqFl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt teaches the user in a complete way how to code in the chosen programming language. Works better on normal ChatGPT.
 
 # Prompt

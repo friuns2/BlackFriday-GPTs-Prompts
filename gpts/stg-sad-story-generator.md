@@ -1,6 +1,6 @@
 
-[!["Chronicles of Sorrow: Sad Story Generator"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# "Chronicles of Sorrow: Sad Story Generator" 
+[!["Chronicles of Sorrow: Sad Story Generator"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V_WuoQVjTPBn5Y8HN0TuC%22%2C%22flow%22%3Atrue%7D%7D)
+# "Chronicles of Sorrow: Sad Story Generator" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V_WuoQVjTPBn5Y8HN0TuC%22%2C%22flow%22%3Atrue%7D%7D)
 The "Chronicles of Sorrow: Sad Story Generator" is a prompt that transforms ChatGPT into a master of heartrending narrative. This prompt invites ChatGPT to craft stories brimming with intense emotions and poignant moments that touch the deepest chords of readers' hearts. From lost love to shattered dreams, heart-wrenching separations to dire circumstances, the generator brings to life tales that evoke sadness, empathy, and contemplation.
 
 

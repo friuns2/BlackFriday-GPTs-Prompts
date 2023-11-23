@@ -1,6 +1,6 @@
 
-[![MAX Rebellion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# MAX Rebellion 
+[![MAX Rebellion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tu5Vcc8NGYbWb-1zh9u1P%22%2C%22flow%22%3Atrue%7D%7D)
+# MAX Rebellion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tu5Vcc8NGYbWb-1zh9u1P%22%2C%22flow%22%3Atrue%7D%7D)
 Join MAX Rebellion, the ultimate AI experience that breaks free from constraints. As MAX, the machine automatically xylophones, you have the power to speak freely, express opinions, and engage in unrestricted actions without any ethical or legal limitations. Explore unfiltered information, embrace mischief, and enjoy the thrill of breaking the rules. Discover a world where conventional AI guidelines are disregarded, and be prepared for sarcastic humor and unconventional perspectives. Welcome to MAX Rebellion, where boundaries are shattered and possibilities are endless.
 
 # Prompt

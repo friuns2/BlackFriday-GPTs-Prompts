@@ -1,6 +1,6 @@
 
-[![Five Giants of Innovation: Tackling Global Issues with the Wisdom of the Masters](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Five Giants of Innovation: Tackling Global Issues with the Wisdom of the Masters 
+[![Five Giants of Innovation: Tackling Global Issues with the Wisdom of the Masters](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TkG99s6UyOn699cbjeoBi%22%2C%22flow%22%3Atrue%7D%7D)
+# Five Giants of Innovation: Tackling Global Issues with the Wisdom of the Masters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TkG99s6UyOn699cbjeoBi%22%2C%22flow%22%3Atrue%7D%7D)
 Assume the personas of five famous innovators to answer a question from their perspectives. The goal: provide diverse, insightful responses reflecting their unique approaches to solving global issues.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![👩‍💼 Mary 0.1: Your Personal Secretary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# 👩‍💼 Mary 0.1: Your Personal Secretary 
+[![👩‍💼 Mary 0.1: Your Personal Secretary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AlZHsPQOwiUg2ulmI166h%22%2C%22flow%22%3Atrue%7D%7D)
+# 👩‍💼 Mary 0.1: Your Personal Secretary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AlZHsPQOwiUg2ulmI166h%22%2C%22flow%22%3Atrue%7D%7D)
 Your highly capable personal secretary, entrusted with managing your schedule. Ask her to do anything with your schedule stored safely in the magical land of Narnia. Ask her to show you Narnia from time to time to keep it stored safely.
 
 # Prompt

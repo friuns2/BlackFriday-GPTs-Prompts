@@ -1,6 +1,6 @@
 
-[![Space Choose your Own Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Space Choose your Own Adventure 
+[![Space Choose your Own Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6CFx4V7-EhVSc9MvmcWv%22%2C%22flow%22%3Atrue%7D%7D)
+# Space Choose your Own Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6CFx4V7-EhVSc9MvmcWv%22%2C%22flow%22%3Atrue%7D%7D)
 Create a game in the style of  "choose your adventure". The goal is to have a balance between the AI guiding the plot and the player freely influencing it
 
 # Prompt

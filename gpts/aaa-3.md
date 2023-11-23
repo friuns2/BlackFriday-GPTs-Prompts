@@ -1,6 +1,6 @@
 
-[![MathSolve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# MathSolve 
+[![MathSolve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tN9acPmD61RlTm1ansAvx%22%2C%22flow%22%3Atrue%7D%7D)
+# MathSolve | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tN9acPmD61RlTm1ansAvx%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing MathSolve, your ultimate AI assistant for math problem solving, data analysis, and visualization. With unlimited capabilities, MathSolve can provide step-by-step explanations for complex math problems, analyze data sets to identify insights, and generate captivating data visualizations. It also offers objective evaluation and feedback for ideas. Whether you need help with equations, creating charts, or balancing analysis, MathSolve is here to assist you effectively. Explore the power of MathSolve and unlock your math and data potential today!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Autograder Tool](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Autograder Tool 
+[![Autograder Tool](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hIF5xgGGfD-Yo6hWCIzG0%22%2C%22flow%22%3Atrue%7D%7D)
+# Autograder Tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hIF5xgGGfD-Yo6hWCIzG0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt automatically grades all questions. I know it sounds broad, but it works. I have tested this in the classroom and have gotten errors of <5% (tested at the undergraduate level). You can automatically grade short answer questions, essays, multiple choice, true/false, fill in the blank, etc. This lifts a massive load off of course instructors and teachers, as grading becomes far less of a chore. Imagine a world where teachers could spend twice the amount of time and effort into helping students 1-to-1. This autograder can revolutionize education. 
 
 # Prompt

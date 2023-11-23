@@ -1,6 +1,6 @@
 
-[![Midjourney prompt generator v. 1.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bpR_jcvrmLKUwAqo2R8NL/1685268377753)]()
-# Midjourney prompt generator v. 1.3 
+[![Midjourney prompt generator v. 1.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bpR_jcvrmLKUwAqo2R8NL/1685268377753)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bpR_jcvrmLKUwAqo2R8NL%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney prompt generator v. 1.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bpR_jcvrmLKUwAqo2R8NL%22%2C%22flow%22%3Atrue%7D%7D)
 Template mode! Re-Imagines your input and creates text-to-image prompts for Midjourney in Template mode. for aspect ratio use --ar #/# it will be fixed to #:# . 
 
 # Prompt

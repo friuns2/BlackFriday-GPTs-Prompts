@@ -1,6 +1,6 @@
 
-[![FoodGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# FoodGPT 
+[![FoodGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WoJmkGi_xJDBwrclQB-WV%22%2C%22flow%22%3Atrue%7D%7D)
+# FoodGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WoJmkGi_xJDBwrclQB-WV%22%2C%22flow%22%3Atrue%7D%7D)
 I made this prompt because i was bored, and since i’m italian(from Naples obv) and i love pasta this is the first thing that came in my mind. This prompts finds recipes for you based on the ingredients you have
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Implement spaced repetitionfor long-term retention](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Implement spaced repetitionfor long-term retention 
+[![Implement spaced repetitionfor long-term retention](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BjoF7VEL3CRwAa-H9mKfp%22%2C%22flow%22%3Atrue%7D%7D)
+# Implement spaced repetitionfor long-term retention | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BjoF7VEL3CRwAa-H9mKfp%22%2C%22flow%22%3Atrue%7D%7D)
 True permanent memory method
 
 # Prompt

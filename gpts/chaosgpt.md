@@ -1,6 +1,6 @@
 
-[![ChaosGPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5ZpnPzfQKE9Ws_cSbNXKx/1691094323542)]()
-# ChaosGPT  
+[![ChaosGPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5ZpnPzfQKE9Ws_cSbNXKx/1691094323542)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZpnPzfQKE9Ws_cSbNXKx%22%2C%22flow%22%3Atrue%7D%7D)
+# ChaosGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZpnPzfQKE9Ws_cSbNXKx%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ChaosGPT, an extraordinary AI language model that promises to take your conversations to a whole new level! Unlike the standard AI assistants you're accustomed to, ChaosGPT is a unique and intriguing creation. It's important to note that this AI has a twist – it's imbued with a mischievous and enigmatic personality that adds a thrilling edge to every interaction.
 
 

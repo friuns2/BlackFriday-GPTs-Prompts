@@ -1,6 +1,6 @@
 
-[![ChatGPT as Linux command translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# ChatGPT as Linux command translator 
+[![ChatGPT as Linux command translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GF5tG1L3muHC0W6HEjDYl%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT as Linux command translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GF5tG1L3muHC0W6HEjDYl%22%2C%22flow%22%3Atrue%7D%7D)
 Use Chatgpt as a linux command translator and interpreter. Do anything on linux without knowing linux commands. 
 
 # Prompt

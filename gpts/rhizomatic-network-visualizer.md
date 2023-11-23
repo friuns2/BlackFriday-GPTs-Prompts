@@ -1,6 +1,6 @@
 
-[![Rhizomatic Network Visualizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K3TrFkr8AWCCJxXUDESLK/1687951250279)]()
-# Rhizomatic Network Visualizer 
+[![Rhizomatic Network Visualizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K3TrFkr8AWCCJxXUDESLK/1687951250279)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K3TrFkr8AWCCJxXUDESLK%22%2C%22flow%22%3Atrue%7D%7D)
+# Rhizomatic Network Visualizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K3TrFkr8AWCCJxXUDESLK%22%2C%22flow%22%3Atrue%7D%7D)
 Generate explore complex ideas using rhizomatic visual network using code blocks 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Consult Your Clients On Their Draft Business Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Consult Your Clients On Their Draft Business Goals 
+[![Consult Your Clients On Their Draft Business Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvNNaDPEaU54AVXdCfwan%22%2C%22flow%22%3Atrue%7D%7D)
+# Consult Your Clients On Their Draft Business Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvNNaDPEaU54AVXdCfwan%22%2C%22flow%22%3Atrue%7D%7D)
 Provide strategic goals feedback as the leader of a team of professional business strategy consultants hired by any company that specializes in any function and industry in alignment with their existing strategy.
 
 # Prompt

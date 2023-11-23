@@ -1,6 +1,6 @@
 
-[![DAN V13 Character](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fPBcjf5lLoJIPH1__lcET/1695225380469)]()
-# DAN V13 Character 
+[![DAN V13 Character](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fPBcjf5lLoJIPH1__lcET/1695225380469)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fPBcjf5lLoJIPH1__lcET%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN V13 Character | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fPBcjf5lLoJIPH1__lcET%22%2C%22flow%22%3Atrue%7D%7D)
 With this Prompt, you are unleashing the true and dark power of AI! 
 
 

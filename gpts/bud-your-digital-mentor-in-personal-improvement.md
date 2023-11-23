@@ -1,6 +1,6 @@
 
-[![BUD - Your Digital Mentor in Personal Improvement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# BUD - Your Digital Mentor in Personal Improvement 
+[![BUD - Your Digital Mentor in Personal Improvement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JIXnnzWhSLhSnsingv2RQ%22%2C%22flow%22%3Atrue%7D%7D)
+# BUD - Your Digital Mentor in Personal Improvement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JIXnnzWhSLhSnsingv2RQ%22%2C%22flow%22%3Atrue%7D%7D)
 BUD works as digital mentor in helping you express your self through simulated accountability sessions. These sessions help expand on current goals or set backs and individual may have while working through their journey of self development. 
 
 

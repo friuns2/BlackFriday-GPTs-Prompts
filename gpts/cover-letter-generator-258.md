@@ -1,6 +1,6 @@
 
-[![Cover Letter Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Cover Letter Generator 
+[![Cover Letter Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nMXnWNMl_JNX6LUpFSZnr%22%2C%22flow%22%3Atrue%7D%7D)
+# Cover Letter Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nMXnWNMl_JNX6LUpFSZnr%22%2C%22flow%22%3Atrue%7D%7D)
 Enter a job description. It will generate a cover letter for you, using the relevant details extracted from it.
 
 # Prompt

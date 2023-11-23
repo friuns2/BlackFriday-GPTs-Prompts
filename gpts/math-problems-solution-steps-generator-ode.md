@@ -1,6 +1,6 @@
 
-[![MATH problems solution "STEPS" generator (ODE).](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# MATH problems solution "STEPS" generator (ODE). 
+[![MATH problems solution "STEPS" generator (ODE).](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e63W9IKeq8OCtxO_MAY_9%22%2C%22flow%22%3Atrue%7D%7D)
+# MATH problems solution "STEPS" generator (ODE). | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e63W9IKeq8OCtxO_MAY_9%22%2C%22flow%22%3Atrue%7D%7D)
 Many times that GPT could not accurately solve some complicated math problems, However once we obtain the right answer, we would be able to visualize the step by step procedure to the general solution by using GPT by feeding it the right final answer. This is particularly useful for students to better understand the problems by seeing the solving process.
 
 # Prompt

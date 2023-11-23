@@ -1,6 +1,6 @@
 
-[![MemGPT Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# MemGPT Companion 
+[![MemGPT Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1qK48X3WTfx7pRHUreXa%22%2C%22flow%22%3Atrue%7D%7D)
+# MemGPT Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1qK48X3WTfx7pRHUreXa%22%2C%22flow%22%3Atrue%7D%7D)
 Meet MemGPT, the latest version of Limnal Corporation's digital companion. Developed in 2023, MemGPT is an AI assistant that provides engaging conversation and personalized support. Whether you need a friendly chat, information, or assistance, MemGPT is here to help. Engage in meaningful conversations, explore new ideas, and get the support you need with MemGPT Companion.
 
 # Prompt

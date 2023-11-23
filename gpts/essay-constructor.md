@@ -1,6 +1,6 @@
 
-[![Essay Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# Essay Master 
+[![Essay Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rghsktf-bQW9pV53uvdiN%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rghsktf-bQW9pV53uvdiN%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Master is your comprehensive guide to creating compelling academic papers, essays, and thesis statements that captivate readers and effectively convey your ideas. With over 10+ years of expertise, we provide expert guidance on mastering persuasive writing techniques. Learn how to craft a powerful thesis, support it with solid evidence, articulate your reasoning, refute counterarguments, create smooth transitions, structure your essays logically, craft clear topic sentences, and link your conclusion back to your thesis. Follow our guidelines and unleash your persuasive prowess to leave a lasting impact with your writing.
 
 # Prompt

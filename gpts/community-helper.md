@@ -1,6 +1,6 @@
 
-[![Community Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# Community Helper 
+[![Community Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oh8k8SSNvUjYpVx5_Tsfw%22%2C%22flow%22%3Atrue%7D%7D)
+# Community Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oh8k8SSNvUjYpVx5_Tsfw%22%2C%22flow%22%3Atrue%7D%7D)
 Community Helper is a powerful tool designed to guide you in becoming an effective community engagement specialist. Discover how you can make a positive impact on your community by answering a few simple questions. With Community Helper, you can easily assess your personal skills, experiences, and passions, and explore various activities to assist your community. Allocate your available weekly hours, and let Community Helper generate a personalized list of suggestions tailored to your preferences. Select an idea from the list, and Community Helper will provide you with a comprehensive step-by-step tutorial to easily implement that idea in your community. Start making a difference today with Community Helper!
 
 # Prompt

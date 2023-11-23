@@ -1,6 +1,6 @@
 
-[![middle school 's microscopy proposals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# middle school 's microscopy proposals 
+[![middle school 's microscopy proposals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUp6J5gRJD7UTIS3I2n5m%22%2C%22flow%22%3Atrue%7D%7D)
+# middle school 's microscopy proposals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUp6J5gRJD7UTIS3I2n5m%22%2C%22flow%22%3Atrue%7D%7D)
 middle school 's microscopy proposals middle school 's microscopy proposals
 
 # Prompt

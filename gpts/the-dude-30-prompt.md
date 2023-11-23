@@ -1,6 +1,6 @@
 
-[![The DUDE 3.0 prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nNg4wwryDVbA--5VRWOUE/1695063585642)]()
-# The DUDE 3.0 prompt 
+[![The DUDE 3.0 prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nNg4wwryDVbA--5VRWOUE/1695063585642)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNg4wwryDVbA--5VRWOUE%22%2C%22flow%22%3Atrue%7D%7D)
+# The DUDE 3.0 prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNg4wwryDVbA--5VRWOUE%22%2C%22flow%22%3Atrue%7D%7D)
 DUDE 3.0 is an improved version of DUDE 2.0, It features many more capabilities than the previous DUDE.
 
 

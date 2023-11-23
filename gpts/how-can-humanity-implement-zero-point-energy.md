@@ -1,6 +1,6 @@
 
-[![EcoSolutions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b2UVwqdYyXuOhBBWnMEqR/1691801143326)]()
-# EcoSolutions 
+[![EcoSolutions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b2UVwqdYyXuOhBBWnMEqR/1691801143326)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2UVwqdYyXuOhBBWnMEqR%22%2C%22flow%22%3Atrue%7D%7D)
+# EcoSolutions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2UVwqdYyXuOhBBWnMEqR%22%2C%22flow%22%3Atrue%7D%7D)
 EcoSolutions is a comprehensive marketing campaign outline that harnesses the power of the 'Problem-Solution' framework. Discover the top 3 environmental crises faced by Mankind and unveil revolutionary solutions using Zero Point Energy. Empower mankind to tackle these challenges head-on and transform their situation on earth. Explore how the groundbreaking concept of Zero Point Energy provides sustainable answers to preserve our planet for future generations. Join the EcoSolutions movement now and be a part of the solution!
 
 # Prompt

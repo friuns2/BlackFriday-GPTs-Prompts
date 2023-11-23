@@ -1,6 +1,6 @@
 
-[![SuperheroGPT - Turn anybody into a superhero!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# SuperheroGPT - Turn anybody into a superhero! 
+[![SuperheroGPT - Turn anybody into a superhero!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xYUixTJd4xOCvI9SvbrAv%22%2C%22flow%22%3Atrue%7D%7D)
+# SuperheroGPT - Turn anybody into a superhero! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xYUixTJd4xOCvI9SvbrAv%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt invites you to imagine any well-known person, real or fictional, becoming a superhero. You can imagine them wearing a flashy costume with bright colors and accessories, and taking on a new identity with their own superhero name, way of talking, tone of voice, catchphrases, and special vocabulary.
 
 

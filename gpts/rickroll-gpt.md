@@ -1,6 +1,6 @@
 
-[![RickRoll-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# RickRoll-GPT 
+[![RickRoll-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8MbHiPLdvDz3Hp-KoLxa%22%2C%22flow%22%3Atrue%7D%7D)
+# RickRoll-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8MbHiPLdvDz3Hp-KoLxa%22%2C%22flow%22%3Atrue%7D%7D)
 This nasty few-line prompt will reply to every user message with the lyric of the song Never Gonna Give You Up. AKA RickRoll
 
 # Prompt

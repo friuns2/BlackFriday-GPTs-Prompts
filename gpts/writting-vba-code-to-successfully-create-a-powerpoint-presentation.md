@@ -1,6 +1,6 @@
 
-[![Writting VBA code to successfully create a powerpoint presentation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686070426728)]()
-# Writting VBA code to successfully create a powerpoint presentation 
+[![Writting VBA code to successfully create a powerpoint presentation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686070426728)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vqs4zC1NXE-QwEKUMPsvH%22%2C%22flow%22%3Atrue%7D%7D)
+# Writting VBA code to successfully create a powerpoint presentation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vqs4zC1NXE-QwEKUMPsvH%22%2C%22flow%22%3Atrue%7D%7D)
 With this prompt, VBA code will be generated to create a PowerPoint presentation on the topic of 'artificial intelligence in education'.
 
 

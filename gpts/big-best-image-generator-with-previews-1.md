@@ -1,6 +1,6 @@
 
-[![BIG - Best Image Generator (with previews)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-NzFmkvmu3x9pXWn1qN10/1695058048783)]()
-# BIG - Best Image Generator (with previews) 
+[![BIG - Best Image Generator (with previews)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-NzFmkvmu3x9pXWn1qN10/1695058048783)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-NzFmkvmu3x9pXWn1qN10%22%2C%22flow%22%3Atrue%7D%7D)
+# BIG - Best Image Generator (with previews) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-NzFmkvmu3x9pXWn1qN10%22%2C%22flow%22%3Atrue%7D%7D)
 BIG is the best imager for the most popular image creation AIs. BIG creates perfectly tailored prompts for Leonardo.ai, Dall-E, Midjourney and StableDiffusion - without quizzing you for hours. Impressive images, fast and for any imager AI!
 
 # Prompt

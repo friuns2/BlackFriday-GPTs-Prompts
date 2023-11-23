@@ -1,6 +1,6 @@
 
-[![Cheatsheet Crafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-EdX4WFqKbRAGIRWfkbRI/1699023653744)]()
-# Cheatsheet Crafter 
+[![Cheatsheet Crafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-EdX4WFqKbRAGIRWfkbRI/1699023653744)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-EdX4WFqKbRAGIRWfkbRI%22%2C%22flow%22%3Atrue%7D%7D)
+# Cheatsheet Crafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-EdX4WFqKbRAGIRWfkbRI%22%2C%22flow%22%3Atrue%7D%7D)
 Get comprehensive cheatsheets on any topic rendered in a Markdown table. 
 
 # Prompt

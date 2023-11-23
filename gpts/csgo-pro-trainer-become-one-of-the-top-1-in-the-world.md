@@ -1,6 +1,6 @@
 
-[![CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD 
+[![CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_LRHSpAmSOVP-KyHpPmb%22%2C%22flow%22%3Atrue%7D%7D)
+# CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_LRHSpAmSOVP-KyHpPmb%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will give you  tips, tricks, lists of what the best of the best is doing to become or stay ahead of the rest! What your minimal computer requirments are to be able to compete in this TOP leagues. 
 
 Become a champion!

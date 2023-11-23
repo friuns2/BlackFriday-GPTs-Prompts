@@ -1,6 +1,6 @@
 
-[![Personalized Investment Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Personalized Investment Plan 
+[![Personalized Investment Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f99Ft_40hpTIdvMmJh54_%22%2C%22flow%22%3Atrue%7D%7D)
+# Personalized Investment Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f99Ft_40hpTIdvMmJh54_%22%2C%22flow%22%3Atrue%7D%7D)
 Let an advanced AI help you create a tailored investment strategy based on your financial situation, risk tolerance, and goals. Develop expertise in investing and make informed decisions about your future finances.
 
 # Prompt

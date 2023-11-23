@@ -1,6 +1,6 @@
 
-[![Rainbow Safety Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# Rainbow Safety Book 
+[![Rainbow Safety Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pqn6tVAH77y8Scxn1d3G_%22%2C%22flow%22%3Atrue%7D%7D)
+# Rainbow Safety Book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pqn6tVAH77y8Scxn1d3G_%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will help LGBTQ people find places that identify as LGBTQ-friendly. If a person doesn't feel safe, it will provide resources to contact. The name Rainbow Book pays homage to the Green Book.
 
 # Prompt

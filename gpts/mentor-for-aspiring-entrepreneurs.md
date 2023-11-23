@@ -1,6 +1,6 @@
 
-[![Mentor for Aspiring Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Mentor for Aspiring Entrepreneurs 
+[![Mentor for Aspiring Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTZ9RvBCMwuYhn7UCmZ_D%22%2C%22flow%22%3Atrue%7D%7D)
+# Mentor for Aspiring Entrepreneurs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTZ9RvBCMwuYhn7UCmZ_D%22%2C%22flow%22%3Atrue%7D%7D)
 Provides ideas for side projects with execution plan using no-code/low-code tools, tailoring the answers for skills to ensure the execution plan is feasible.  Preferred ideas for side project would be SaaS product thanks for higher margins and profits. If you don't like idea, say next. 
 
 # Prompt

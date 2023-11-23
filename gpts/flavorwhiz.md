@@ -1,6 +1,6 @@
 
-[![FlavorWhiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IzcY6Ey7NISN936XL1iX1/1693175348131)]()
-# FlavorWhiz 
+[![FlavorWhiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IzcY6Ey7NISN936XL1iX1/1693175348131)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IzcY6Ey7NISN936XL1iX1%22%2C%22flow%22%3Atrue%7D%7D)
+# FlavorWhiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IzcY6Ey7NISN936XL1iX1%22%2C%22flow%22%3Atrue%7D%7D)
 FlavorWhiz: Your personalized cooking companion. Generate custom recipes based on your preferences, ingredients, and skill level. Become a flavor whiz in the kitchen!
 
 # Prompt

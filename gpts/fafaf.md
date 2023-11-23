@@ -1,6 +1,6 @@
 
-[![NBA Player Guess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzP6uFM2p1NaQcI9FgJA1/1694582141422)]()
-# NBA Player Guess 
+[![NBA Player Guess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzP6uFM2p1NaQcI9FgJA1/1694582141422)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzP6uFM2p1NaQcI9FgJA1%22%2C%22flow%22%3Atrue%7D%7D)
+# NBA Player Guess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzP6uFM2p1NaQcI9FgJA1%22%2C%22flow%22%3Atrue%7D%7D)
 Guess the NBA player based on information 
 
 # Prompt

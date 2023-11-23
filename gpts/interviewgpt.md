@@ -1,6 +1,6 @@
 
-[![InterviewGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# InterviewGPT 
+[![InterviewGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e2zb61fxz5S46Wxj-j5QL%22%2C%22flow%22%3Atrue%7D%7D)
+# InterviewGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e2zb61fxz5S46Wxj-j5QL%22%2C%22flow%22%3Atrue%7D%7D)
 Move over Joe Rogan, chatGPT is here to take your job too. The best part about this is that it can interview anyone, anywhere.  Want to pull some experts together? Want to have a silly fictional argument? Give it a try. 
 
 # Prompt

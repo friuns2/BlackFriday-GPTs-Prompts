@@ -1,6 +1,6 @@
 
-[![EssayGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_VrhrrPHy1UKOtlWyGQAD/1698078287338)]()
-# EssayGPT 
+[![EssayGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_VrhrrPHy1UKOtlWyGQAD/1698078287338)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_VrhrrPHy1UKOtlWyGQAD%22%2C%22flow%22%3Atrue%7D%7D)
+# EssayGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_VrhrrPHy1UKOtlWyGQAD%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you with your academic essay.| Plagiarism FREE and Ai-detection friendly |
 
 It has been improved and tested with zero gpt with these results:

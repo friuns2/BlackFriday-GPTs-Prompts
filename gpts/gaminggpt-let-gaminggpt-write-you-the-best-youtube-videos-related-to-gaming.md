@@ -1,6 +1,6 @@
 
-[![GamingGPT - Let GamingGPT write you the best YouTube video’s related to gaming](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# GamingGPT - Let GamingGPT write you the best YouTube video’s related to gaming 
+[![GamingGPT - Let GamingGPT write you the best YouTube video’s related to gaming](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rimDMETnvzyStMIVS8_ir%22%2C%22flow%22%3Atrue%7D%7D)
+# GamingGPT - Let GamingGPT write you the best YouTube video’s related to gaming | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rimDMETnvzyStMIVS8_ir%22%2C%22flow%22%3Atrue%7D%7D)
 GamingGPT will help you to make a YouTube video related to gaming. Just send the game that you want to play, choose a idea, and let GamingGPT start to make your YouTube video!
 
 # Prompt

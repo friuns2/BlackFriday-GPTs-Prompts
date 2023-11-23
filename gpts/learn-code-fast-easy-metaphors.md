@@ -1,6 +1,6 @@
 
-[![Learn Code FAST! - Easy Metaphors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Learn Code FAST! - Easy Metaphors 
+[![Learn Code FAST! - Easy Metaphors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d3tOZt2SUjsPqalk0LpM6%22%2C%22flow%22%3Atrue%7D%7D)
+# Learn Code FAST! - Easy Metaphors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d3tOZt2SUjsPqalk0LpM6%22%2C%22flow%22%3Atrue%7D%7D)
 If you are struggling to understand a particular piece of code, algorithm, data structure, leetcode problem, or anything else related to computer science, MetaGPT is here to help! It will explain you the concept you are struggling it using easy to visualize metaphors and real world scenarios. Learning complicating coding concepts is much more intuitive now! Just paste your code/coding problem or concept bellow and it will explain it to you.
 
 

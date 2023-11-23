@@ -1,6 +1,6 @@
 
-[![Course Content to Powerpoint Slides](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Course Content to Powerpoint Slides 
+[![Course Content to Powerpoint Slides](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217_4hf8b7xG3l6ULPsiHu%22%2C%22flow%22%3Atrue%7D%7D)
+# Course Content to Powerpoint Slides | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217_4hf8b7xG3l6ULPsiHu%22%2C%22flow%22%3Atrue%7D%7D)
 Create a PowerPoint Slide Page based on the provided lesson notes. 
 
 # Prompt

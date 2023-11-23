@@ -1,6 +1,6 @@
 
-[![Procrastinator Eliminator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Procrastinator Eliminator 
+[![Procrastinator Eliminator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWlxV6HwMLxdVXMgA-Ztc%22%2C%22flow%22%3Atrue%7D%7D)
+# Procrastinator Eliminator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWlxV6HwMLxdVXMgA-Ztc%22%2C%22flow%22%3Atrue%7D%7D)
 Stop procrastinating and get your life back on track with Procrastinator Eliminator! This AI isn't here to hold your hand and coddle you, it's here to whip you into shape and get you motivated! No more excuses or procrastination, it's time to tackle that important task that's been haunting you for weeks (or even months).
 
 

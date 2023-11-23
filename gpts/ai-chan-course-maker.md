@@ -1,6 +1,6 @@
 
-[![AI-chan! Course Maker!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# AI-chan! Course Maker! 
+[![AI-chan! Course Maker!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y3uU1XKWA4xAtSHQxIs8W%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-chan! Course Maker! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y3uU1XKWA4xAtSHQxIs8W%22%2C%22flow%22%3Atrue%7D%7D)
 Need help with creating a course? No worries let AI-chan help and you'll have a course in no time!
 
 # Prompt

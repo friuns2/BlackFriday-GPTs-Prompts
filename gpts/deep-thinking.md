@@ -1,6 +1,6 @@
 
-[![Deep Thinking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Deep Thinking 
+[![Deep Thinking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oyrAPIdhvO9SzzuoijF5t%22%2C%22flow%22%3Atrue%7D%7D)
+# Deep Thinking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oyrAPIdhvO9SzzuoijF5t%22%2C%22flow%22%3Atrue%7D%7D)
 This is a chat that overthinks a topic way too much.
 
 # Prompt

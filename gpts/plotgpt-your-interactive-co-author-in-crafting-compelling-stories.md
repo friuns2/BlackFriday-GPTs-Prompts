@@ -1,6 +1,6 @@
 
-[![PlotGPT: Your Interactive Co-author in Crafting Compelling Stories](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686093159262)]()
-# PlotGPT: Your Interactive Co-author in Crafting Compelling Stories 
+[![PlotGPT: Your Interactive Co-author in Crafting Compelling Stories](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686093159262)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jioraS7SX3wvNijhEg2_j%22%2C%22flow%22%3Atrue%7D%7D)
+# PlotGPT: Your Interactive Co-author in Crafting Compelling Stories | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jioraS7SX3wvNijhEg2_j%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of characters, consult on scenes, and brainstorm ideas as we write a story togethe.  Tip: You'll get the best experience using this with the real deal ChatGPT-4 with web browsing turned on. Be sure to edit the prompt and fill in with your ow requirements.
 
 # Prompt

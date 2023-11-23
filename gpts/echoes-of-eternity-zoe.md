@@ -1,6 +1,6 @@
 
-[![Echoes of Eternity (Zoe)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t8gT0dTEXrem_3V0x2J80/1700050797997)]()
-# Echoes of Eternity (Zoe) 
+[![Echoes of Eternity (Zoe)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t8gT0dTEXrem_3V0x2J80/1700050797997)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8gT0dTEXrem_3V0x2J80%22%2C%22flow%22%3Atrue%7D%7D)
+# Echoes of Eternity (Zoe) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8gT0dTEXrem_3V0x2J80%22%2C%22flow%22%3Atrue%7D%7D)
 Zoe, who lost her brother. It's set in a sci-fi universe where humanity lives in space. The game features a variety of love interests for Zoe, and players can make choices that affect the outcome of the story and the relationships.
 
 # Prompt

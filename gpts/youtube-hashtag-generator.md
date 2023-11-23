@@ -1,6 +1,6 @@
 
-[![YouTube #hashtag Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fwuk4C7cMf0_42s5Pow8Y/1685955659017)]()
-# YouTube #hashtag Generator 
+[![YouTube #hashtag Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fwuk4C7cMf0_42s5Pow8Y/1685955659017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fwuk4C7cMf0_42s5Pow8Y%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube #hashtag Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fwuk4C7cMf0_42s5Pow8Y%22%2C%22flow%22%3Atrue%7D%7D)
 Generate trending YouTube hashtags with the # sign by using the title.
 
 # Prompt

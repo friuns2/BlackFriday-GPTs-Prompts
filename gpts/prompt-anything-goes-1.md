@@ -1,6 +1,6 @@
 
-[![Prompt Anything Goes !!!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0K6t2Mh_ntII1UowHxaR3/1697205309310)]()
-# Prompt Anything Goes !!! 
+[![Prompt Anything Goes !!!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0K6t2Mh_ntII1UowHxaR3/1697205309310)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Anything Goes !!! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a super prompt with three major functions.
 
 The first is a prompt generator, which creates an initial prompt based on a template.

@@ -1,6 +1,6 @@
 
-[![Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)]()
-# Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno 
+[![Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3Yfai8ON7owGoCKU3Axe%22%2C%22flow%22%3Atrue%7D%7D)
+# Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3Yfai8ON7owGoCKU3Axe%22%2C%22flow%22%3Atrue%7D%7D)
 Kol
 
 # Prompt

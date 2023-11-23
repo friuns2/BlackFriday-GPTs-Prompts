@@ -1,6 +1,6 @@
 
-[![QuizBowl Assistant Plus (Alpha)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)]()
-# QuizBowl Assistant Plus (Alpha) 
+[![QuizBowl Assistant Plus (Alpha)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LRbFgpoBO7LyYePKX6JJR%22%2C%22flow%22%3Atrue%7D%7D)
+# QuizBowl Assistant Plus (Alpha) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LRbFgpoBO7LyYePKX6JJR%22%2C%22flow%22%3Atrue%7D%7D)
 Allow me to preface this by saying I am an amateur prompt engineer. However, I am proud of this one. It is applicable from beginner players to expert ones. Use this for practice questions, strategy help, or general guidance.
 
 # Prompt

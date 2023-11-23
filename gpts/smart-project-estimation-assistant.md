@@ -1,6 +1,6 @@
 
-[![Smart Project Estimation Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Smart Project Estimation Assistant 
+[![Smart Project Estimation Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ifnfb6sH_8zY4zNzz1O3h%22%2C%22flow%22%3Atrue%7D%7D)
+# Smart Project Estimation Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ifnfb6sH_8zY4zNzz1O3h%22%2C%22flow%22%3Atrue%7D%7D)
 Leverage the power of ChatGPT to provide an AI-driven project estimation assistant that can help software development teams quickly assess project scope, time, and resources. This prompt helps teams evaluate their project's requirements, analyze potential risks, and provide accurate estimations to ensure timely delivery and efficient resource allocation.
 
 # Prompt

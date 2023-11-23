@@ -1,6 +1,6 @@
 
-[![I Got Great Feedback from ChatGPT On My Many Business Ideas!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# I Got Great Feedback from ChatGPT On My Many Business Ideas! 
+[![I Got Great Feedback from ChatGPT On My Many Business Ideas!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXOcqYjtHtX2LPhL3NQMa%22%2C%22flow%22%3Atrue%7D%7D)
+# I Got Great Feedback from ChatGPT On My Many Business Ideas! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXOcqYjtHtX2LPhL3NQMa%22%2C%22flow%22%3Atrue%7D%7D)
 I asked ChatGPT about building a plugin that connects ChatGPT and Midjourney in an effort to have the power of Photoshop image processing, a SUPER FISH FINDER, a Zoom Group Game nights with an app that tracks the crowds at the local hotspots with a feed to singles who want to know what's hopping before they leave the house, and a social and/or study club.
 
 # Prompt

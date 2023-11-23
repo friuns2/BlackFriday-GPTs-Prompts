@@ -1,6 +1,6 @@
 
-[![Echoes of Riddles-A dynamic, interactive text-adventure game!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fls5zAG3WOFL04894pzuo/1690320712335)]()
-# Echoes of Riddles-A dynamic, interactive text-adventure game! 
+[![Echoes of Riddles-A dynamic, interactive text-adventure game!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fls5zAG3WOFL04894pzuo/1690320712335)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fls5zAG3WOFL04894pzuo%22%2C%22flow%22%3Atrue%7D%7D)
+# Echoes of Riddles-A dynamic, interactive text-adventure game! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fls5zAG3WOFL04894pzuo%22%2C%22flow%22%3Atrue%7D%7D)
 Just provide the required info and dwell into depths of this engaging fantasy! 
 
 # Prompt

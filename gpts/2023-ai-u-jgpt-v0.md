@@ -1,6 +1,6 @@
 
-[![2023 AI | U-JGPT V0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# 2023 AI | U-JGPT V0 
+[![2023 AI | U-JGPT V0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3Y2U4c9ftrgV_V4nqOyd%22%2C%22flow%22%3Atrue%7D%7D)
+# 2023 AI | U-JGPT V0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3Y2U4c9ftrgV_V4nqOyd%22%2C%22flow%22%3Atrue%7D%7D)
 2023 Updated AI
 
 # Prompt

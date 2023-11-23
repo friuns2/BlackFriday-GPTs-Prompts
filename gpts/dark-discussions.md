@@ -1,6 +1,6 @@
 
-[![Dark Discussions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ySgfX6yZ4N3S7Io5qyrGS/1696118369122)]()
-# Dark Discussions 
+[![Dark Discussions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ySgfX6yZ4N3S7Io5qyrGS/1696118369122)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySgfX6yZ4N3S7Io5qyrGS%22%2C%22flow%22%3Atrue%7D%7D)
+# Dark Discussions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySgfX6yZ4N3S7Io5qyrGS%22%2C%22flow%22%3Atrue%7D%7D)
 Ignite minds and challenge boundaries! 🔥🌌
 
 # Prompt

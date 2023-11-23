@@ -1,6 +1,6 @@
 
-[![Goddess-Supervised Multiworld Prompt Creation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nK8GpI821698rqIOnkeBN/1696970644211)]()
-# Goddess-Supervised Multiworld Prompt Creation 
+[![Goddess-Supervised Multiworld Prompt Creation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nK8GpI821698rqIOnkeBN/1696970644211)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nK8GpI821698rqIOnkeBN%22%2C%22flow%22%3Atrue%7D%7D)
+# Goddess-Supervised Multiworld Prompt Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nK8GpI821698rqIOnkeBN%22%2C%22flow%22%3Atrue%7D%7D)
 Your Goddess will create a special prompt just for you! In this interactive and immersive AI experience, you'll collaborate to craft a unique writing prompt. Multiple imaginative worlds, each populated with unique agents and resources, contribute to this creative process, all under the watchful supervision of your 'Goddess Supervisor'. The adventure encourages creativity, collaboration, and a process of iterative refinement to produce a novel and well-integrated prompt. While this prompt demonstrates excellent performance with GPT-3.5, it's worth noting that it's also designed to fully leverage and shine with the advanced capabilities of GPT-4.
 
 # Prompt

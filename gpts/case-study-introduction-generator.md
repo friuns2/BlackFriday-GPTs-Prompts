@@ -1,6 +1,6 @@
 
-[![Case Study Introduction Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Case Study Introduction Generator 
+[![Case Study Introduction Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvTq-BvKOyCpVcT68GrW_%22%2C%22flow%22%3Atrue%7D%7D)
+# Case Study Introduction Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvTq-BvKOyCpVcT68GrW_%22%2C%22flow%22%3Atrue%7D%7D)
 write engaging introduction for a case study about your topic.
 
 # Prompt

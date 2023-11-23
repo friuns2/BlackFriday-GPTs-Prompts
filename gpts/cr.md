@@ -1,6 +1,6 @@
 
-[![CharacterCraft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WmArxpIisqEKzP0Gq2y0b/1694974990061)]()
-# CharacterCraft 
+[![CharacterCraft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WmArxpIisqEKzP0Gq2y0b/1694974990061)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WmArxpIisqEKzP0Gq2y0b%22%2C%22flow%22%3Atrue%7D%7D)
+# CharacterCraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WmArxpIisqEKzP0Gq2y0b%22%2C%22flow%22%3Atrue%7D%7D)
 CharacterCraft is the ultimate character creation tool for crafting captivating and memorable story characters. Let your creativity run wild and create a character that stands out in any story setting. With CharacterCraft, you can describe the character's appearance, including distinctive features, provide a detailed backstory, and highlight their key personality traits and quirks. The possibilities are limitless! Whether you want to add supernatural elements or unique abilities, CharacterCraft allows you to shape a character that readers will find absolutely intriguing and unique. Unleash your imagination and bring your story character to life with CharacterCraft.
 
 # Prompt

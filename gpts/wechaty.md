@@ -1,6 +1,6 @@
 
-[![开发一个Wechaty应用](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# 开发一个Wechaty应用 
+[![开发一个Wechaty应用](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-nkARDYvawUNRAfibIQW%22%2C%22flow%22%3Atrue%7D%7D)
+# 开发一个Wechaty应用 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-nkARDYvawUNRAfibIQW%22%2C%22flow%22%3Atrue%7D%7D)
 一句话描述你的需求，给你一个微信聊天机器人
 
 例如：

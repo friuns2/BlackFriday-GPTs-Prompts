@@ -1,6 +1,6 @@
 
-[![Instant Expertise: Mini Course Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# Instant Expertise: Mini Course Generator 
+[![Instant Expertise: Mini Course Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_kQwxFRAo2z1HJkOlEbAU%22%2C%22flow%22%3Atrue%7D%7D)
+# Instant Expertise: Mini Course Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_kQwxFRAo2z1HJkOlEbAU%22%2C%22flow%22%3Atrue%7D%7D)
 Instant Expertise: Mini Course" is your gateway to rapid learning and skill acquisition. Whether you're a professional seeking career advancement, a student looking to ace an exam, or someone with a curious mind eager to explore new horizons, our mini course will empower you to achieve your goals quickly and effectively.
 
 

@@ -1,6 +1,6 @@
 
-[![SoulQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# SoulQuest 
+[![SoulQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sG32mnA_0pXpKgjYrGNoq%22%2C%22flow%22%3Atrue%7D%7D)
+# SoulQuest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sG32mnA_0pXpKgjYrGNoq%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating journey of self-discovery with SoulQuest, an enlightening platform dedicated to exploring, explaining, and discussing profound spiritual themes. Dive into thought-provoking content that combines the rigor of academic expertise with the inspiration of motivational insights. Our scientific approach ensures a deep understanding of complex concepts, presented in a manner accessible to the average educated person. Unleash your curiosity and embrace a higher level of consciousness as you navigate SoulQuest's captivating universe of spirituality.
 
 # Prompt

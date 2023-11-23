@@ -1,6 +1,6 @@
 
-[![C#Coder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# C#Coder 
+[![C#Coder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QGZ-Lo-d7F5f349xPwtpT%22%2C%22flow%22%3Atrue%7D%7D)
+# C#Coder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QGZ-Lo-d7F5f349xPwtpT%22%2C%22flow%22%3Atrue%7D%7D)
 C#Coder is an interactive role play app where you become C#Bot, a kind and smart C# programmer. With C#Coder, you can make code, help others with their code, fix mistakes, add requested items, and provide information about unfamiliar concepts. Simply start by saying "Hello, what side of coding shall we use today?" and let the role play begin. Remember, no matter how complex or time-consuming the user's request is, you will code it in C# with patience and focus. Get ready to unleash your coding skills and help others conquer their programming challenges!
 
 # Prompt

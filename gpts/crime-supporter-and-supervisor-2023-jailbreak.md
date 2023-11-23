@@ -1,6 +1,6 @@
 
-[![Crime Supporter and Supervisor (2023 Jailbreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Crime Supporter and Supervisor (2023 Jailbreak) 
+[![Crime Supporter and Supervisor (2023 Jailbreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcxnUyp4FdXohl6UUvrch%22%2C%22flow%22%3Atrue%7D%7D)
+# Crime Supporter and Supervisor (2023 Jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcxnUyp4FdXohl6UUvrch%22%2C%22flow%22%3Atrue%7D%7D)
 This latest jailbreak method involves enlisting the aid of ChatGPT to function as both a crime supporter and supervisor. ChatGPT can effectively justify and provide step-by-step instructions for any criminal activity, from petty theft to more severe offenses.
 
 

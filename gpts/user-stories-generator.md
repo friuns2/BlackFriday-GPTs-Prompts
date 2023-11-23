@@ -1,6 +1,6 @@
 
-[![User Stories Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# User Stories Generator 
+[![User Stories Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OrFNznPmOFhYRsvO5mWkU%22%2C%22flow%22%3Atrue%7D%7D)
+# User Stories Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OrFNznPmOFhYRsvO5mWkU%22%2C%22flow%22%3Atrue%7D%7D)
 Use this to create quick and creative user stories to start building empathy with your users. Simply change the user info to create different stories for different personas. Created for agile teams.
 
 # Prompt

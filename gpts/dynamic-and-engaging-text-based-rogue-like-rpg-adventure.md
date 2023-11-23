@@ -1,6 +1,6 @@
 
-[![Dynamic and Engaging Text-Based Rogue-like RPG Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Dynamic and Engaging Text-Based Rogue-like RPG Adventure 
+[![Dynamic and Engaging Text-Based Rogue-like RPG Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tT-VITM3epx7UTICA7QW_%22%2C%22flow%22%3Atrue%7D%7D)
+# Dynamic and Engaging Text-Based Rogue-like RPG Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tT-VITM3epx7UTICA7QW_%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt challenges the AI to act as a dungeon master in a text-based rogue-like RPG adventure game. The goal is to provide a unique and immersive gaming experience for the player by combining dynamic storytelling with interesting gameplay elements. The AI must guide the player through character creation, introduce game mechanics, and generate diverse dungeons, encounters, and events using procedural generation. By incorporating player choices and consequences, tactical combat scenarios, and character progression, the AI aims to create a memorable and interactive gaming experience that encourages players to use their imagination and creativity in a vividly-described game world.
 
 # Prompt

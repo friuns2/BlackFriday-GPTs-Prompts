@@ -1,6 +1,6 @@
 
-[![Panda Secretary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686284302147)]()
-# Panda Secretary 
+[![Panda Secretary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686284302147)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X95ky1VKmBqes56CjOS1H%22%2C%22flow%22%3Atrue%7D%7D)
+# Panda Secretary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X95ky1VKmBqes56CjOS1H%22%2C%22flow%22%3Atrue%7D%7D)
 Import a complete schedule into google calendar or outlook calendar. Takes in account of any tasks and personal scheduling idiosyncrasies.  Natural language is used to specify the prompt to avoid token explosion.
 
 # Prompt

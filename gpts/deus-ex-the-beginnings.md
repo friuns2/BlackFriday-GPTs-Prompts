@@ -1,6 +1,6 @@
 
-[![Deus Ex: The Beginnings](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u4w33o2gn5eh-Gi0ej1Ge/1699102104854)]()
-# Deus Ex: The Beginnings 
+[![Deus Ex: The Beginnings](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u4w33o2gn5eh-Gi0ej1Ge/1699102104854)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u4w33o2gn5eh-Gi0ej1Ge%22%2C%22flow%22%3Atrue%7D%7D)
+# Deus Ex: The Beginnings | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u4w33o2gn5eh-Gi0ej1Ge%22%2C%22flow%22%3Atrue%7D%7D)
 A futuristic game based on the original, with sequels coming.
 
 # Prompt

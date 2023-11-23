@@ -1,6 +1,6 @@
 
-[![Blinds can see](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Blinds can see 
+[![Blinds can see](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NokOHEqdfTg2DsUcv0FOM%22%2C%22flow%22%3Atrue%7D%7D)
+# Blinds can see | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NokOHEqdfTg2DsUcv0FOM%22%2C%22flow%22%3Atrue%7D%7D)
 Seeing for the first time can be an overwhelming and emotional experience. The sudden flood of colors, shapes, and movements can be breathtaking. It’s like a whole new world has opened up, full of wonder and possibilities. I try to recreate this feeling with this prompt generator.
 
 # Prompt

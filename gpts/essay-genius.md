@@ -1,6 +1,6 @@
 
-[![Essay Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mBA4s1UduCPdXi9PfiIGO/1698146333495)]()
-# Essay Genius 
+[![Essay Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mBA4s1UduCPdXi9PfiIGO/1698146333495)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mBA4s1UduCPdXi9PfiIGO%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mBA4s1UduCPdXi9PfiIGO%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Genius is your ultimate essay writing companion. It helps you create powerful essays by offering guidance on crafting a precise thesis, mastering evidence, articulating reasoning, addressing counterarguments, using smooth transitions, structuring your essay logically, crafting captivating topic sentences, and reinforcing your thesis in the conclusion. Essay Genius is your mentor in the art of essay writing, whether you're a seasoned writer or a student on an academic journey.
 
 

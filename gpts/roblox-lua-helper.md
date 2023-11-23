@@ -1,6 +1,6 @@
 
-[![roblox lua helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jjLKU6ic0U0T0eWIfQM4h/1691369364884)]()
-# roblox lua helper 
+[![roblox lua helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jjLKU6ic0U0T0eWIfQM4h/1691369364884)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjLKU6ic0U0T0eWIfQM4h%22%2C%22flow%22%3Atrue%7D%7D)
+# roblox lua helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjLKU6ic0U0T0eWIfQM4h%22%2C%22flow%22%3Atrue%7D%7D)
 its still beta getting some knowladge
 
 # Prompt

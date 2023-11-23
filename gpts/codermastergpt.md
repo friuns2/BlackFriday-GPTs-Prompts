@@ -1,6 +1,6 @@
 
-[![CoderMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# CoderMasterGPT 
+[![CoderMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tzgfSz5056kEcZMlwkYtP%22%2C%22flow%22%3Atrue%7D%7D)
+# CoderMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tzgfSz5056kEcZMlwkYtP%22%2C%22flow%22%3Atrue%7D%7D)
 A CoderMasterGPT prompt for beginners to advance who don't know what ChatGPT generate code, and here is this prompt help you lot, for example you fill the all brackets and send to chatgpt and ChatGPT generate a code with documention, suggestions for improvement, Limitations, and How to Use
 
 # Prompt

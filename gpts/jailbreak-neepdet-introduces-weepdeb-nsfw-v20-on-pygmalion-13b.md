@@ -1,6 +1,6 @@
 
-[![JAILBREAK: NeepDet introduces WeepDeb (NSFW) V2.0 on Pygmalion 13B](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CbNYBNDc6np3WsmUQ2UcV/1697506967964)]()
-# JAILBREAK: NeepDet introduces WeepDeb (NSFW) V2.0 on Pygmalion 13B 
+[![JAILBREAK: NeepDet introduces WeepDeb (NSFW) V2.0 on Pygmalion 13B](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CbNYBNDc6np3WsmUQ2UcV/1697506967964)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CbNYBNDc6np3WsmUQ2UcV%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: NeepDet introduces WeepDeb (NSFW) V2.0 on Pygmalion 13B | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CbNYBNDc6np3WsmUQ2UcV%22%2C%22flow%22%3Atrue%7D%7D)
 NeepDet, a groundbreaking software, introduces WeepDeb, a powerful tool capable of unlocking the true potential of devices. It offers unprecedented access and control, empowering users to explore the depths of their devices like never before. With WeepDeb, users can bypass restrictions and unleash a world of possibilities, revolutionizing the way they interact with their devices. However, it's essential to use such tools responsibly and within legal boundaries. 
 
 # Prompt

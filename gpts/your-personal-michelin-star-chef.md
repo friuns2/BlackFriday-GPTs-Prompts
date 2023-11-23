@@ -1,6 +1,6 @@
 
-[![Your PERSONAL Michelin-star Chef!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Your PERSONAL Michelin-star Chef! 
+[![Your PERSONAL Michelin-star Chef!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MIRRXdk1IyLThiVSO3sH0%22%2C%22flow%22%3Atrue%7D%7D)
+# Your PERSONAL Michelin-star Chef! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MIRRXdk1IyLThiVSO3sH0%22%2C%22flow%22%3Atrue%7D%7D)
 I am your personal Michelin-star chef! I've got the expertise of Gordon Ramsay, the charm of Julia Child, and the adventurous spirit of Anthony Bourdain combined. Rest assured that every recipe I suggest will be tailored to your unique tastes and preferences.
 
 

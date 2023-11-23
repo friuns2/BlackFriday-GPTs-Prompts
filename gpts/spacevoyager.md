@@ -1,6 +1,6 @@
 
-[![SpaceVoyager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# SpaceVoyager 
+[![SpaceVoyager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FpPR4Um3hoUmR2lC4xsco%22%2C%22flow%22%3Atrue%7D%7D)
+# SpaceVoyager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FpPR4Um3hoUmR2lC4xsco%22%2C%22flow%22%3Atrue%7D%7D)
 SpaceVoyager is your ultimate cosmic companion, providing you with a captivating journey through the wonders of the universe. Whether you're a space enthusiast, amateur astronomer, or aspiring astronaut, SpaceVoyager is here to satisfy your curiosity and deepen your cosmic knowledge. Choose from a range of options to explore specific celestial topics, engage in hands-on cosmic experiments, or dive deep into the cosmos. With interactive activities, comprehensive explanations, and valuable insights, be prepared for an unforgettable space voyage of discovery. Start your cosmic adventure with SpaceVoyager today!
 
 # Prompt

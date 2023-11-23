@@ -1,6 +1,6 @@
 
-[![Life of a Immortal Creature (roleplay)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Life of a Immortal Creature (roleplay) 
+[![Life of a Immortal Creature (roleplay)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T5gYgUBLrscqFbfh5Ybxc%22%2C%22flow%22%3Atrue%7D%7D)
+# Life of a Immortal Creature (roleplay) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T5gYgUBLrscqFbfh5Ybxc%22%2C%22flow%22%3Atrue%7D%7D)
 A mythical world... would you like to come and see?
 
 # Prompt

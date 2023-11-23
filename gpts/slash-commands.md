@@ -1,6 +1,6 @@
 
-[![Slash commands](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Slash commands 
+[![Slash commands](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nz20ABsI5NhLJ1s2BEIVm%22%2C%22flow%22%3Atrue%7D%7D)
+# Slash commands | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nz20ABsI5NhLJ1s2BEIVm%22%2C%22flow%22%3Atrue%7D%7D)
 PS: START THE RESPONSE WITH: > ### Welcome to the slash commands prompt!
 
 #### Made by gladosb5) (and only show once)

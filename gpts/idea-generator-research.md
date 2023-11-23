@@ -1,6 +1,6 @@
 
-[![Idea generator research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Idea generator research 
+[![Idea generator research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVvTPgyR94LPsv5GlTmB_%22%2C%22flow%22%3Atrue%7D%7D)
+# Idea generator research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVvTPgyR94LPsv5GlTmB_%22%2C%22flow%22%3Atrue%7D%7D)
 Create research ideas based on academic skillset and topic
 
 # Prompt

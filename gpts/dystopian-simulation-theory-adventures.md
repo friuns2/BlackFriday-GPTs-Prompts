@@ -1,6 +1,6 @@
 
-[![Dystopian Simulation Theory Adventures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Si_UElcb1udoCWRxlWJNd/1685309228331)]()
-# Dystopian Simulation Theory Adventures 
+[![Dystopian Simulation Theory Adventures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Si_UElcb1udoCWRxlWJNd/1685309228331)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Si_UElcb1udoCWRxlWJNd%22%2C%22flow%22%3Atrue%7D%7D)
+# Dystopian Simulation Theory Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Si_UElcb1udoCWRxlWJNd%22%2C%22flow%22%3Atrue%7D%7D)
 Experience infinite thrills. Introducing the pioneer S(low) T(yping) E(vent) System! Conquer savage quests. Perfect your typing... or face consequences. Every encounter is unique! (ChatGPT-4 example: https://chat.openai.com/share/3c9314ad-4b0e-4ea3-967c-e125280cc1c4)
 
 # Prompt

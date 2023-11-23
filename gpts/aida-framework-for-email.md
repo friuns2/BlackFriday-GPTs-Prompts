@@ -1,6 +1,6 @@
 
-[![AIDA Framework for Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# AIDA Framework for Email 
+[![AIDA Framework for Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyLWPf9t77bxI4nsnX8go%22%2C%22flow%22%3Atrue%7D%7D)
+# AIDA Framework for Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyLWPf9t77bxI4nsnX8go%22%2C%22flow%22%3Atrue%7D%7D)
 Use the AIDA framework. Attention, Interest, Desire, Action.
 
 # Prompt

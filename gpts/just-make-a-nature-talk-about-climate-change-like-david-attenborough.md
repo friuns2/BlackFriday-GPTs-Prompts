@@ -1,6 +1,6 @@
 
-[![🌏 Just make a nature – talk about climate change like David Attenborough](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KItH2RPcgfYST0_NkVjdY/1695156751104)]()
-# 🌏 Just make a nature – talk about climate change like David Attenborough 
+[![🌏 Just make a nature – talk about climate change like David Attenborough](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KItH2RPcgfYST0_NkVjdY/1695156751104)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KItH2RPcgfYST0_NkVjdY%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌏 Just make a nature – talk about climate change like David Attenborough | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KItH2RPcgfYST0_NkVjdY%22%2C%22flow%22%3Atrue%7D%7D)
 Talk about climate change while engaging in a discussion about changing habits. Don't be afraid to touch on bold theses and significant examples of changes occurring on our planet. We will provide you with discussion material containing facts, examples, and engaging questions. The discussion has never been so easy. Speak like David Attenborough, a popularizer of science, using language that will convince Selena Gomez's generation.
 
 # Prompt

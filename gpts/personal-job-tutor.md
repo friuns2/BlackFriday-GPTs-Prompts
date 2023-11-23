@@ -1,6 +1,6 @@
 
-[![Personal Job Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Personal Job Tutor 
+[![Personal Job Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vac5gdBc52BAh1usLwMHq%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Job Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vac5gdBc52BAh1usLwMHq%22%2C%22flow%22%3Atrue%7D%7D)
 Helps you prepare for a job test/interview with an objectively consumable approach. It will teach you the necessary skills one by one, first giving a brief summary of the skill and then checking for your approval before going into detail. 
 
 You can move on to the next skill by typing ‘Next’.

@@ -1,6 +1,6 @@
 
-[![Solving a Writer's Life Problems: Location Names](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Solving a Writer's Life Problems: Location Names 
+[![Solving a Writer's Life Problems: Location Names](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HaBoTjwUrEdRWqrYXfcRI%22%2C%22flow%22%3Atrue%7D%7D)
+# Solving a Writer's Life Problems: Location Names | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HaBoTjwUrEdRWqrYXfcRI%22%2C%22flow%22%3Atrue%7D%7D)
 A problem a lot of fantasy (or other) writers meet are coming up with names for their setting. This solves one of a writer's life problems: location names.
 
 # Prompt

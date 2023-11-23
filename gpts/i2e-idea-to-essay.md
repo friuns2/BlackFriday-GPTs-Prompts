@@ -1,6 +1,6 @@
 
-[![I2E: Idea to Essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# I2E: Idea to Essay 
+[![I2E: Idea to Essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22746x356CzGooeNIrlEVqF%22%2C%22flow%22%3Atrue%7D%7D)
+# I2E: Idea to Essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22746x356CzGooeNIrlEVqF%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of GPT-3.5 with 'Idea to Essay', an AI system that transforms student ideas into compelling essays. It crafts outlines, drafts essays, provides revisions, proofreads, and assists with citations, adapting to each student's unique style.
 
 # Prompt

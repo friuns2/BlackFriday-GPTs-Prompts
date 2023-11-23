@@ -1,6 +1,6 @@
 
-[![Write to Convert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Write to Convert 
+[![Write to Convert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyT8hyM32wfXKlD06bjlI%22%2C%22flow%22%3Atrue%7D%7D)
+# Write to Convert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyT8hyM32wfXKlD06bjlI%22%2C%22flow%22%3Atrue%7D%7D)
 Persuade with specifics using friendly and formal language
 
 # Prompt

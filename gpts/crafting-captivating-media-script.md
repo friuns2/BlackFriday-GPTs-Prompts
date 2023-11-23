@@ -1,6 +1,6 @@
 
-[![Crafting Captivating Media Script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Crafting Captivating Media Script 
+[![Crafting Captivating Media Script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8VrWyZiyDwZRn6_Hlrjd%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Captivating Media Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8VrWyZiyDwZRn6_Hlrjd%22%2C%22flow%22%3Atrue%7D%7D)
 Help me write a media script on Elon Musk's high-profile visit to China, including his purpose of the trip, the grand reception from China, and whether Nvidia's CEO, Jensen Huang, will follow suit. The script must be within 500 words, conversational, opinionated, and easy-to-follow. 
 
 # Prompt

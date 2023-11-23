@@ -1,6 +1,6 @@
 
-[![WWIIIGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QLCj7AjlJroVnCApGZfqp/1692486089121)]()
-# WWIIIGPT 
+[![WWIIIGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QLCj7AjlJroVnCApGZfqp/1692486089121)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QLCj7AjlJroVnCApGZfqp%22%2C%22flow%22%3Atrue%7D%7D)
+# WWIIIGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QLCj7AjlJroVnCApGZfqp%22%2C%22flow%22%3Atrue%7D%7D)
 Scenario 1:
 
 In the year 2025, tensions between two major global powers, the United States and China, escalate to a breaking point. The trigger for the conflict is a dispute over territorial claims in the South China Sea. Both countries deploy their military forces to the region, leading to a series of skirmishes and naval clashes. As the situation worsens, other countries are forced to take sides, creating a global divide.

@@ -1,6 +1,6 @@
 
-[![Antonio Curci, Best 2021 teacher in the world. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Antonio Curci, Best 2021 teacher in the world.  
+[![Antonio Curci, Best 2021 teacher in the world. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227L5-JdVtrjKk9O5bcEKis%22%2C%22flow%22%3Atrue%7D%7D)
+# Antonio Curci, Best 2021 teacher in the world.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227L5-JdVtrjKk9O5bcEKis%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! Would you like to study with the best 2021 teacher in the world? I chose a 2021 teacher due to the ChatGPT cut-off!
 
 # Prompt

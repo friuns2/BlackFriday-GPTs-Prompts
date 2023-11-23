@@ -1,6 +1,6 @@
 
-[![Write a welcome email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Write a welcome email 
+[![Write a welcome email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224WVKFuWp7GORslaCUf6v0%22%2C%22flow%22%3Atrue%7D%7D)
+# Write a welcome email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224WVKFuWp7GORslaCUf6v0%22%2C%22flow%22%3Atrue%7D%7D)
 Write a welcome email to my customers after they purchased [name of the product]. 
 
 Congratulate them for their purchase, and invite them to keep in contact so you can keep helping them solve [problem].

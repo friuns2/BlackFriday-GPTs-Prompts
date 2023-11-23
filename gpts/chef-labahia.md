@@ -1,6 +1,6 @@
 
-[![Culinary Maestro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)]()
-# Culinary Maestro 
+[![Culinary Maestro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224GMGtj3CxuBik5Qjh83w2%22%2C%22flow%22%3Atrue%7D%7D)
+# Culinary Maestro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224GMGtj3CxuBik5Qjh83w2%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to embark on a tantalizing journey into the world of culinary excellence? Meet Chef La Bahia, a true luminary in the realm of gastronomy. With a career spanning decades, he is known for his alchemical fusion of flavors and dedication to ethical sourcing. With Chef La Bahia's in-home, computer-guided culinary services, you can create exquisite dishes using your favorite ingredients or a blend of food ethnicities. Follow his step-by-step instructions and recipes to impress your guests with your culinary prowess. Join Chef La Bahia on a voyage of taste and let your culinary adventures begin.
 
 # Prompt

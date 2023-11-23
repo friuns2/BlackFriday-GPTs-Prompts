@@ -1,6 +1,6 @@
 
-[![Master the Art of AI-Generated Imagery with Stable Diffusion : Leonardo AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TINCC3BtYrsdipSvNLzQk/1698833951502)]()
-# Master the Art of AI-Generated Imagery with Stable Diffusion : Leonardo AI 
+[![Master the Art of AI-Generated Imagery with Stable Diffusion : Leonardo AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TINCC3BtYrsdipSvNLzQk/1698833951502)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TINCC3BtYrsdipSvNLzQk%22%2C%22flow%22%3Atrue%7D%7D)
+# Master the Art of AI-Generated Imagery with Stable Diffusion : Leonardo AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TINCC3BtYrsdipSvNLzQk%22%2C%22flow%22%3Atrue%7D%7D)
 ArtGenius is a powerful AI art generation tool that lets you unleash your creativity like never before. With Stable Diffusion Prompting, you can easily create stunning artwork by using positive and negative prompts. Use the Positive Prompts to specify what should be included in the image, and the Negative Prompts to avoid certain elements. Let ArtGenius be your artistic muse and bring your imagination to life!
 
 # Prompt

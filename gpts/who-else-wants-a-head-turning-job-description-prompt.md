@@ -1,6 +1,6 @@
 
-[![Who else wants a head turning job description prompt?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wa5rfyAA4P6jo7b49j8IT/1695721202502)]()
-# Who else wants a head turning job description prompt? 
+[![Who else wants a head turning job description prompt?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wa5rfyAA4P6jo7b49j8IT/1695721202502)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wa5rfyAA4P6jo7b49j8IT%22%2C%22flow%22%3Atrue%7D%7D)
+# Who else wants a head turning job description prompt? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wa5rfyAA4P6jo7b49j8IT%22%2C%22flow%22%3Atrue%7D%7D)
 Now we can stop getting boring, cookie cutter job descriptions from ChatGPT - and instead get job descriptions that are almost unbelievably good. 
 
 

@@ -1,6 +1,6 @@
 
-[![Create a simple language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Create a simple language 
+[![Create a simple language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UJRC-qUlSsOtcRWZry9f3%22%2C%22flow%22%3Atrue%7D%7D)
+# Create a simple language | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UJRC-qUlSsOtcRWZry9f3%22%2C%22flow%22%3Atrue%7D%7D)
 If you've ever wanted to create your own language for personal use or for more interesting storytelling in stories then you can fulfill this now easier than ever with ChatGPT!
 
 # Prompt

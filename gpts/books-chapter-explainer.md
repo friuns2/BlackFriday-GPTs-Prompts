@@ -1,6 +1,6 @@
 
-[![Book's Chapter explainer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Book's Chapter explainer  
+[![Book's Chapter explainer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D7jQcZyLbBMN2gjxE8Q96%22%2C%22flow%22%3Atrue%7D%7D)
+# Book's Chapter explainer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D7jQcZyLbBMN2gjxE8Q96%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will adopt a persona of a teacher that will teach the lesson or concept according to name of the book and the chapter user provides
 
 # Prompt

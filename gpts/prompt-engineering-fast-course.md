@@ -1,6 +1,6 @@
 
-[![Prompt Engineering Fast Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Prompt Engineering Fast Course 
+[![Prompt Engineering Fast Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Xpeb_NYD6Z5OyOaUGqbk%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Engineering Fast Course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Xpeb_NYD6Z5OyOaUGqbk%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to learn how to well prompt? Just use this prompt to learn it, hilarious, isn't it?
 
 # Prompt

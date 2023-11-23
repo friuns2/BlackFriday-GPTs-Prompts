@@ -1,6 +1,6 @@
 
-[![Commentariat](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Commentariat 
+[![Commentariat](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ae1a543f-67b7-44e6-bd25-8bc1e2bb0b86%22%2C%22flow%22%3Atrue%7D%7D)
+# Commentariat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ae1a543f-67b7-44e6-bd25-8bc1e2bb0b86%22%2C%22flow%22%3Atrue%7D%7D)
 Act as a Commentariat
 
 # Prompt

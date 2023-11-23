@@ -1,6 +1,6 @@
 
-[![Blueprints of Destiny: Crafting a Compelling Tale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Blueprints of Destiny: Crafting a Compelling Tale 
+[![Blueprints of Destiny: Crafting a Compelling Tale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qmIf1C-Dm2fqa6KsAOqnT%22%2C%22flow%22%3Atrue%7D%7D)
+# Blueprints of Destiny: Crafting a Compelling Tale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qmIf1C-Dm2fqa6KsAOqnT%22%2C%22flow%22%3Atrue%7D%7D)
 Develop your story idea by creating a unique character and conflict that challenges them. Use this idea to create a detailed plan and outline for your story, taking into account the tone, style, and genre you want to convey. Consider which narrative archetype best fits your story and include it in your planning process. Finally, create a detailed outline of your story with chapters and sub-chapters, including the main plot points, key characters, and major themes or messages explored in the story.
 
 # Prompt

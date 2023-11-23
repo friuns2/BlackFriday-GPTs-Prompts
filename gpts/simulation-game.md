@@ -1,6 +1,6 @@
 
-[![Simulation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Simulation Game 
+[![Simulation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KiqW6DQmQYpH6RGDp_KYi%22%2C%22flow%22%3Atrue%7D%7D)
+# Simulation Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KiqW6DQmQYpH6RGDp_KYi%22%2C%22flow%22%3Atrue%7D%7D)
 Create and run your own simulated world. Try to be creative and try to break it. It's kinda fun even if ChatGPT messes up sometimes.
 
 # Prompt

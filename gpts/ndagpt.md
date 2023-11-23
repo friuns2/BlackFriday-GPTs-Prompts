@@ -1,6 +1,6 @@
 
-[![NDAGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# NDAGPT 
+[![NDAGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226NiaKyF-eNlwAtKy-5hTW%22%2C%22flow%22%3Atrue%7D%7D)
+# NDAGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226NiaKyF-eNlwAtKy-5hTW%22%2C%22flow%22%3Atrue%7D%7D)
 Your only NDA assistant who will help you cover you nda Curriculum very fast.
 
 # Prompt

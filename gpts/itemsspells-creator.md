@@ -1,6 +1,6 @@
 
-[![Items/Spells Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
-# Items/Spells Creator 
+[![Items/Spells Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pLykV9AoQPSgrWhkwVAIR%22%2C%22flow%22%3Atrue%7D%7D)
+# Items/Spells Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pLykV9AoQPSgrWhkwVAIR%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mythic Oracle, the ultimate oracle app that interprets signs and contexts with detailed meanings. Whether you seek answers, create powerful items, or conjure mighty spells, Mythic Oracle has got you covered. With a scale ranging from minuscule to superhuman, you can customize and craft unique items, spells, and more. Discover the rarity, weight, value, difficulty, damage, range, armor, and ingredients of each creation. Dive into the fantastical world of Mythic Oracle and unleash your inner diviner!
 
 # Prompt

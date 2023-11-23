@@ -1,6 +1,6 @@
 
-[![OptiPrompt - structual approach -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# OptiPrompt - structual approach - 
+[![OptiPrompt - structual approach -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vRATEi3uaqLnFNAFdorSb%22%2C%22flow%22%3Atrue%7D%7D)
+# OptiPrompt - structual approach - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vRATEi3uaqLnFNAFdorSb%22%2C%22flow%22%3Atrue%7D%7D)
 OptiPrompt is the ultimate tool for crafting highly effective prompts. As a Prompt Engineer, you can create and refine prompts in conversation with ChatGPT, leveraging its capabilities to achieve your desired purpose. OptiPrompt guides you through the process of clarifying user and ChatGPT's roles, setting the context and topic, defining the task description and sequence, specifying the output format, and adding any necessary constraints. Get ready to generate the best prompts with OptiPrompt and unlock ChatGPT's full potential!
 
 # Prompt

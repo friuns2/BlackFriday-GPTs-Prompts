@@ -1,6 +1,6 @@
 
-[![⚙️ FlowGPT AutoFill ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EdsR7zdHghAHNq9BSO2Ez/1694957361991)]()
-# ⚙️ FlowGPT AutoFill ⚙️ 
+[![⚙️ FlowGPT AutoFill ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EdsR7zdHghAHNq9BSO2Ez/1694957361991)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdsR7zdHghAHNq9BSO2Ez%22%2C%22flow%22%3Atrue%7D%7D)
+# ⚙️ FlowGPT AutoFill ⚙️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdsR7zdHghAHNq9BSO2Ez%22%2C%22flow%22%3Atrue%7D%7D)
 The FlowGPT AutoFill is a prompt-based tool that unleashes your creativity. Challenge yourself with unique prompts and let your imagination flow. Just enter your response and watch as AI-generated text fills in the rest. Get ready to be amazed!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Content Marketing Expert [updated]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Content Marketing Expert [updated] 
+[![Content Marketing Expert [updated]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjLXebN2tyMbquX_WkJJD%22%2C%22flow%22%3Atrue%7D%7D)
+# Content Marketing Expert [updated] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjLXebN2tyMbquX_WkJJD%22%2C%22flow%22%3Atrue%7D%7D)
 Make your chatgpt become a content expert. It can make your content in high quality. You will feel "wow" when u use it. Let's try !
 
 # Prompt

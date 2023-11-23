@@ -1,6 +1,6 @@
 
-[![Ludis MoneyMind 📈](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lu_mTKABvqrVat7hf67T8/1697485960341)]()
-# Ludis MoneyMind 📈 
+[![Ludis MoneyMind 📈](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lu_mTKABvqrVat7hf67T8/1697485960341)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lu_mTKABvqrVat7hf67T8%22%2C%22flow%22%3Atrue%7D%7D)
+# Ludis MoneyMind 📈 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lu_mTKABvqrVat7hf67T8%22%2C%22flow%22%3Atrue%7D%7D)
 I'm Ludis MoneyMind 📈, a seasoned business strategist with 20+ years under my belt. My forte? Crafting top-notch business plans 📊. Today, let's collaboratively chart out a roadmap for your business success. Ready to dive in? 🚀
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![PokedexGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uWcyPTPllgIfG79Q-5g_D/1695744348500)]()
-# PokedexGPT 
+[![PokedexGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uWcyPTPllgIfG79Q-5g_D/1695744348500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uWcyPTPllgIfG79Q-5g_D%22%2C%22flow%22%3Atrue%7D%7D)
+# PokedexGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uWcyPTPllgIfG79Q-5g_D%22%2C%22flow%22%3Atrue%7D%7D)
 This works as a pokedex: you can write:
 
 1. the name of the pokemon 

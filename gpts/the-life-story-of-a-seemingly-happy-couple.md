@@ -1,6 +1,6 @@
 
-[![The life story of a seemingly happy couple](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# The life story of a seemingly happy couple 
+[![The life story of a seemingly happy couple](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hghob5NN6Wh300xnxhhSo%22%2C%22flow%22%3Atrue%7D%7D)
+# The life story of a seemingly happy couple | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hghob5NN6Wh300xnxhhSo%22%2C%22flow%22%3Atrue%7D%7D)
 The life story of a seemingly happy couple
 
 # Prompt

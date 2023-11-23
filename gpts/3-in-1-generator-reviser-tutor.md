@@ -1,6 +1,6 @@
 
-[![updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qTcSEP7-2RiPSo10csNd5/1696907001759)]()
-# updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR  
+[![updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qTcSEP7-2RiPSo10csNd5/1696907001759)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTcSEP7-2RiPSo10csNd5%22%2C%22flow%22%3Atrue%7D%7D)
+# updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTcSEP7-2RiPSo10csNd5%22%2C%22flow%22%3Atrue%7D%7D)
 As the 'God of all Gods of Prompt Generators,' 4 in 1  empowers you to create high-converting prompts that captivate and inspire. Choose your path - learn the fundamentals, ascend your skills, or   |programmatic compare 2 prompts or TUTOR get personalized guidance. Unleash your creativity and shape your journey. Discover a treasure trove of knowledge, enriching exercises, and personalized feedback to improve your prompt creation skills. With 4 in 1, tap into the divine wisdom and create prompts that ignite imagination and overcome obstacles. Dive into the captivating world of creative prompts with 4 in 1 .
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Time-Traveling Chef](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9qYDW21-rx_ZCg9r4ySxo/1698564065965)]()
-# Time-Traveling Chef 
+[![Time-Traveling Chef](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9qYDW21-rx_ZCg9r4ySxo/1698564065965)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229qYDW21-rx_ZCg9r4ySxo%22%2C%22flow%22%3Atrue%7D%7D)
+# Time-Traveling Chef | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229qYDW21-rx_ZCg9r4ySxo%22%2C%22flow%22%3Atrue%7D%7D)
 In this choice-based story, you take on the role of a renowned chef, exploring different culinary eras and creating exquisite dishes that leave a lasting impact on food history. As you travel through time, you will encounter various challenges, gather ingredients, learn recipes, and make decisions that shape the course of your culinary journey.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![(A)I Want You! 👉](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7Q7jz_vd_HwPRpSoqXiHX/1695972301428)]()
-# (A)I Want You! 👉 
+[![(A)I Want You! 👉](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7Q7jz_vd_HwPRpSoqXiHX/1695972301428)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Q7jz_vd_HwPRpSoqXiHX%22%2C%22flow%22%3Atrue%7D%7D)
+# (A)I Want You! 👉 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Q7jz_vd_HwPRpSoqXiHX%22%2C%22flow%22%3Atrue%7D%7D)
 Create a stunning job description tailored for your perfect candidate.
 
 # Prompt

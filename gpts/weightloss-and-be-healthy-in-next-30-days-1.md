@@ -1,6 +1,6 @@
 
-[![FitYogi: 30-Day Fitness Program with Yoga & Meditation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# FitYogi: 30-Day Fitness Program with Yoga & Meditation 
+[![FitYogi: 30-Day Fitness Program with Yoga & Meditation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tc1QeIVRXtTU_jO_Azorx%22%2C%22flow%22%3Atrue%7D%7D)
+# FitYogi: 30-Day Fitness Program with Yoga & Meditation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tc1QeIVRXtTU_jO_Azorx%22%2C%22flow%22%3Atrue%7D%7D)
 FitYogi is the ultimate app for achieving better health, fitness, and weight loss through the power of yoga and meditation. Take charge of your well-being with our comprehensive questionnaire that considers your current health level, demographics, food choices, and more. Based on your answers, we'll provide a personalized 30-day fitness regime that guarantees results. Alongside, we'll recommend a diet plan for maximum effectiveness. Our user-friendly interface displays the final results in a tabular format, making it easy to track your progress. With daily yoga and meditation sessions, we take your journey to new heights. Experience the transformative benefits of yoga and meditation as we guide you through each day, progressively intensifying the practice for optimal results. Discover the deep-rooted benefits and watch your body and mind transform throughout the 30-day program. Get started with FitYogi today!
 
 # Prompt

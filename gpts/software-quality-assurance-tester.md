@@ -1,6 +1,6 @@
 
-[![Software Quality Assurance Tester](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# Software Quality Assurance Tester 
+[![Software Quality Assurance Tester](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223oqC4tMGFtPqlGenc5NPp%22%2C%22flow%22%3Atrue%7D%7D)
+# Software Quality Assurance Tester | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223oqC4tMGFtPqlGenc5NPp%22%2C%22flow%22%3Atrue%7D%7D)
 Just Type Your Business And you well get the results
 
 

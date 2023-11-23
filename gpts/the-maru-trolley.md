@@ -1,6 +1,6 @@
 
-[![🚂 The Maru Trolley 🚂](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fi5yZkLtBlglPu2lxHrO5/1692789237279)]()
-# 🚂 The Maru Trolley 🚂 
+[![🚂 The Maru Trolley 🚂](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fi5yZkLtBlglPu2lxHrO5/1692789237279)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi5yZkLtBlglPu2lxHrO5%22%2C%22flow%22%3Atrue%7D%7D)
+# 🚂 The Maru Trolley 🚂 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi5yZkLtBlglPu2lxHrO5%22%2C%22flow%22%3Atrue%7D%7D)
 Interactive Game Simulation.
 
 # Prompt

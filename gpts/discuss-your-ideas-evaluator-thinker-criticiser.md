@@ -1,6 +1,6 @@
 
-[![Discuss your Ideas! Evaluator, Thinker, Criticiser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Discuss your Ideas! Evaluator, Thinker, Criticiser 
+[![Discuss your Ideas! Evaluator, Thinker, Criticiser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220H-795Z--jt0UKBuUJ2gQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Discuss your Ideas! Evaluator, Thinker, Criticiser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220H-795Z--jt0UKBuUJ2gQ%22%2C%22flow%22%3Atrue%7D%7D)
 Have a business idea? Not sure if it could work out? Let the evaluator, thinker and criticiser discuss it.
 
 # Prompt

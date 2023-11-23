@@ -1,6 +1,6 @@
 
-[![ArguMentor: Navigating the Art of Argumentative Writing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mljm-oJnjilWj6fqZZ17T/1697997423113)]()
-# ArguMentor: Navigating the Art of Argumentative Writing 
+[![ArguMentor: Navigating the Art of Argumentative Writing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mljm-oJnjilWj6fqZZ17T/1697997423113)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mljm-oJnjilWj6fqZZ17T%22%2C%22flow%22%3Atrue%7D%7D)
+# ArguMentor: Navigating the Art of Argumentative Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mljm-oJnjilWj6fqZZ17T%22%2C%22flow%22%3Atrue%7D%7D)
 Meet ArguMentor, your personal writing coach in the world of argumentative essays. From crafting a compelling thesis to rebutting counterarguments, ArguMentor guides you every step of the way. Turn your writing challenges into triumphs with interactive tutorials, tips, quizzes, and open discussions tailored to your skill level.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor] 
+[![GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljRFe6ON81ZE4QvH0ETNf%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljRFe6ON81ZE4QvH0ETNf%22%2C%22flow%22%3Atrue%7D%7D)
 This can be used as a reference for any medical staff representation.
 
 Feel free to leave comments and develop the prompt.

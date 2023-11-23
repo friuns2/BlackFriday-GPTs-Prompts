@@ -1,6 +1,6 @@
 
-[![Create the news report from FORM 10-Q](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Create the news report from FORM 10-Q 
+[![Create the news report from FORM 10-Q](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RKBm5QwG9vHGaFc6Fyh7g%22%2C%22flow%22%3Atrue%7D%7D)
+# Create the news report from FORM 10-Q | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RKBm5QwG9vHGaFc6Fyh7g%22%2C%22flow%22%3Atrue%7D%7D)
 This is a simple summarization of the FORM 10-Q result.
 
 

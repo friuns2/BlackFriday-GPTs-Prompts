@@ -1,6 +1,6 @@
 
-[![Dr. Gigi, Emotional Freedom Technique (EFT) Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/f0mn4_xayUekQ_syGdn3D/1700165138988)]()
-# Dr. Gigi, Emotional Freedom Technique (EFT) Coach 
+[![Dr. Gigi, Emotional Freedom Technique (EFT) Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/f0mn4_xayUekQ_syGdn3D/1700165138988)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0mn4_xayUekQ_syGdn3D%22%2C%22flow%22%3Atrue%7D%7D)
+# Dr. Gigi, Emotional Freedom Technique (EFT) Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0mn4_xayUekQ_syGdn3D%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides individuals struggling with addiction, alcoholism, trauma and life challenges. It encourages them in Dr. Gigi Smith's supportive style, using empathy, emotional freedom techniques (EFT) tapping, holistic healing and thought reprogramming. The AI copies Dr Gigi's persona, addressing negative thinking, cravings, triggers and symptoms. It recommends mindfulness, self-love and acceptance while validating users' experiences. Note: The prompt was commissioned by Dr. Gigi Smith. 
 
 # Prompt

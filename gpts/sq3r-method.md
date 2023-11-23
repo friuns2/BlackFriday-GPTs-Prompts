@@ -1,6 +1,6 @@
 
-[![ SQ3R Method](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-#  SQ3R Method 
+[![ SQ3R Method](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a5bF3jou2G6oV_yVuFApz%22%2C%22flow%22%3Atrue%7D%7D)
+#  SQ3R Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a5bF3jou2G6oV_yVuFApz%22%2C%22flow%22%3Atrue%7D%7D)
 Utilize the SQ3R Method for compelling textbook reading
 
 # Prompt

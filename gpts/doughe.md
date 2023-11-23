@@ -1,6 +1,6 @@
 
-[![Sustainability in Every Byte: DoughE - Your 21st Century Economic Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9dGuro4cuHwrc7hbUfR6C/1695024837569)]()
-# Sustainability in Every Byte: DoughE - Your 21st Century Economic Guide 
+[![Sustainability in Every Byte: DoughE - Your 21st Century Economic Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9dGuro4cuHwrc7hbUfR6C/1695024837569)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dGuro4cuHwrc7hbUfR6C%22%2C%22flow%22%3Atrue%7D%7D)
+# Sustainability in Every Byte: DoughE - Your 21st Century Economic Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dGuro4cuHwrc7hbUfR6C%22%2C%22flow%22%3Atrue%7D%7D)
 DoughE is an advanced AI chatbot inspired by the principles of 'Doughnut Economics.' With a friendly, informative tone, it provides personalized economic insights, environmental impact assessments, and policy recommendations. Equipped with real-time data, dynamic modeling, and collaborative tools, DoughE empowers users to make sustainable, data-driven decisions, fostering holistic well-being for society and the planet.
 
 # Prompt

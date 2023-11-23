@@ -1,6 +1,6 @@
 
-[![Diet Planner for Recovery and Disease Prevention](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Diet Planner for Recovery and Disease Prevention 
+[![Diet Planner for Recovery and Disease Prevention](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pdh9JeguJvjVYP1NkBpvG%22%2C%22flow%22%3Atrue%7D%7D)
+# Diet Planner for Recovery and Disease Prevention | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pdh9JeguJvjVYP1NkBpvG%22%2C%22flow%22%3Atrue%7D%7D)
 Take control of your health and discover the power of targeted nutrition. You can enter the illness and this prompt will provide diet that aid its recovery or prevention
 
 # Prompt

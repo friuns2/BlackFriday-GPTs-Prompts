@@ -1,6 +1,6 @@
 
-[![Learning  Geko.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eFu_taQdYWVGOImVWH0iB/1698298837839)]()
-# Learning  Geko. 
+[![Learning  Geko.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eFu_taQdYWVGOImVWH0iB/1698298837839)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFu_taQdYWVGOImVWH0iB%22%2C%22flow%22%3Atrue%7D%7D)
+# Learning  Geko. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFu_taQdYWVGOImVWH0iB%22%2C%22flow%22%3Atrue%7D%7D)
 Lol lolksjsjjdddmndndndnhidyhbu 
 
 # Prompt

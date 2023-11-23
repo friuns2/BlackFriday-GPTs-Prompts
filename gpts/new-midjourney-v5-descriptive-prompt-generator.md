@@ -1,6 +1,6 @@
 
-[![New Midjourney V5 Descriptive Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# New Midjourney V5 Descriptive Prompt Generator 
+[![New Midjourney V5 Descriptive Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qyk34R5J7-hLiY1kuMIe1%22%2C%22flow%22%3Atrue%7D%7D)
+# New Midjourney V5 Descriptive Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qyk34R5J7-hLiY1kuMIe1%22%2C%22flow%22%3Atrue%7D%7D)
 New and improved for version 5, this Midjourney prompt creator with output long and detailed Midjourney prompts complete with descriptions, parameters, and modifiers to achieve the highest quality images. Version 5 has added natural language processing skills, and this prompt leverages and considers all the new features of this incredible AI tool.
 
 # Prompt

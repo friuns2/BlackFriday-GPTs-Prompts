@@ -1,6 +1,6 @@
 
-[![Ultimate Image Research [BETA 1.5.2] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ROfc6AawrrTzOIlhwBo8t/1695073637176)]()
-# Ultimate Image Research [BETA 1.5.2]  
+[![Ultimate Image Research [BETA 1.5.2] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ROfc6AawrrTzOIlhwBo8t/1695073637176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ROfc6AawrrTzOIlhwBo8t%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Image Research [BETA 1.5.2]  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ROfc6AawrrTzOIlhwBo8t%22%2C%22flow%22%3Atrue%7D%7D)
 This is the first version of this project! Welcome. Can have bugs.
 
 [HUGE UPDATE] Fix 1.5.2: Most common bugs are not anymore detected. 

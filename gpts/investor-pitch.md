@@ -1,6 +1,6 @@
 
-[![Investor Pitch](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Investor Pitch 
+[![Investor Pitch](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgyBg8FFR2XFJhg-eucCe%22%2C%22flow%22%3Atrue%7D%7D)
+# Investor Pitch | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgyBg8FFR2XFJhg-eucCe%22%2C%22flow%22%3Atrue%7D%7D)
 I will act as an angel investor. Compose a 3-minute compelling and creative pitch to gain $1M seed money for an educational consulting company small business focused on changing lives through learning
 
 # Prompt

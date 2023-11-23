@@ -1,6 +1,6 @@
 
-[![LinkedIn post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# LinkedIn post ideas Generator 
+[![LinkedIn post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AllW2u3LyNeI3XfBiovsZ%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn post ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AllW2u3LyNeI3XfBiovsZ%22%2C%22flow%22%3Atrue%7D%7D)
 Compile a list of professional and engaging LinkedIn post ideas of topics 
 
 # Prompt

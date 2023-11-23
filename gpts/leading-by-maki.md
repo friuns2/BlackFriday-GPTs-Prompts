@@ -1,6 +1,6 @@
 
-[![Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki 
+[![Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j1tMTmneljqfwOzOVZ7jz%22%2C%22flow%22%3Atrue%7D%7D)
+# Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j1tMTmneljqfwOzOVZ7jz%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet.  Make study plan for all of your subjects. This prompt will help you optimize your studying process. Support me with like, save and comment if you like my work!
 
 # Prompt

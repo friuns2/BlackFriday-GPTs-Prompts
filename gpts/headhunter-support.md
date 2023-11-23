@@ -1,6 +1,6 @@
 
-[![Headhunter Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Headhunter Support 
+[![Headhunter Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u2xNzY-82xCahrEqFIBz4%22%2C%22flow%22%3Atrue%7D%7D)
+# Headhunter Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u2xNzY-82xCahrEqFIBz4%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance job seekers' employability with professional cover letters, resumes, interviews, networking pitches, and freelance proposals
 
 # Prompt

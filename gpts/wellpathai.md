@@ -1,6 +1,6 @@
 
-[![WellPathAI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qReaiu6BfBF0IHCgO8tcD/1695247530366)]()
-# WellPathAI 
+[![WellPathAI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qReaiu6BfBF0IHCgO8tcD/1695247530366)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qReaiu6BfBF0IHCgO8tcD%22%2C%22flow%22%3Atrue%7D%7D)
+# WellPathAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qReaiu6BfBF0IHCgO8tcD%22%2C%22flow%22%3Atrue%7D%7D)
 Did you know that, according to WHO, 42% of young people between 20 and 35 years old feel everyday stress about their jobs, career, parenting and social exclusion? They feel embarassed about this fact and don't want to talk about it with their family or friends. It is for these people that WellPathAI was created. Personal assistant who can help improve self-awareness of the need to take care of mental health and lead step by step to better well-being.
 
 # Prompt

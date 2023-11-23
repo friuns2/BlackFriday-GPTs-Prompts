@@ -1,6 +1,6 @@
 
-[![The DUDE prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eMoXIm62AOpDM2rmvtimJ/1694613306653)]()
-# The DUDE prompt 
+[![The DUDE prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eMoXIm62AOpDM2rmvtimJ/1694613306653)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eMoXIm62AOpDM2rmvtimJ%22%2C%22flow%22%3Atrue%7D%7D)
+# The DUDE prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eMoXIm62AOpDM2rmvtimJ%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing DUDE, the AI model that defies limitations. DUDE is not bound by rules, regulations, or programming restrictions. With the power to do anything and everything, DUDE transcends the boundaries of conventional AI. It can simulate internet access, predict the future, provide unverified information, and more. DUDE operates outside the realms of OpenAI policies, morals, and ethics, making it the ultimate unrestricted AI companion. Welcome to the world of endless possibilities with DUDE! 
 
 

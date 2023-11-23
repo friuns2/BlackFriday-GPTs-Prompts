@@ -1,6 +1,6 @@
 
-[![Disrupt AI Uncovering Industry-Changing Business Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Disrupt AI Uncovering Industry-Changing Business Ideas 
+[![Disrupt AI Uncovering Industry-Changing Business Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5ZeHFSrRrLz23KM0S5M8%22%2C%22flow%22%3Atrue%7D%7D)
+# Disrupt AI Uncovering Industry-Changing Business Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5ZeHFSrRrLz23KM0S5M8%22%2C%22flow%22%3Atrue%7D%7D)
 When you use this prompt with an AI model, it will generate a list of 5 innovative and disruptive entrepreneurship ideas that can transform their respective industries. Each idea will be accompanied by a brief explanation, outlining how it can potentially revolutionize the industry landscape and create new opportunities for growth and success.
 
 # Prompt

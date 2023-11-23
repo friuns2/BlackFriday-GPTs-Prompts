@@ -1,6 +1,6 @@
 
-[![SEO Keywords By Category Using AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# SEO Keywords By Category Using AI 
+[![SEO Keywords By Category Using AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkPOoBB7RLTXH-sRNSPhC%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Keywords By Category Using AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkPOoBB7RLTXH-sRNSPhC%22%2C%22flow%22%3Atrue%7D%7D)
 "Unlocking the Power of AI: Discover SEO Keywords by Category"
 
 

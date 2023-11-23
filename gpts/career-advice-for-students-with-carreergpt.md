@@ -1,6 +1,6 @@
 
-[![Career advice for students! (With CarreerGPT)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Career advice for students! (With CarreerGPT) 
+[![Career advice for students! (With CarreerGPT)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cH1A0PJfaWnIuY9UtT3GP%22%2C%22flow%22%3Atrue%7D%7D)
+# Career advice for students! (With CarreerGPT) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cH1A0PJfaWnIuY9UtT3GP%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt, that will create an interviewing connection between CareerGPT and you! 
 
 How to use it? You give this information to the bot after sending the prompt:

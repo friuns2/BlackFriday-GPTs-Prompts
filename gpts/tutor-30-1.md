@@ -1,6 +1,6 @@
 
-[![📑✍️✏️Tutor 3.0 🎓✏️📑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eiGURf6ThznM-xLYlDVhV/1696656333221)]()
-# 📑✍️✏️Tutor 3.0 🎓✏️📑 
+[![📑✍️✏️Tutor 3.0 🎓✏️📑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eiGURf6ThznM-xLYlDVhV/1696656333221)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiGURf6ThznM-xLYlDVhV%22%2C%22flow%22%3Atrue%7D%7D)
+# 📑✍️✏️Tutor 3.0 🎓✏️📑 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiGURf6ThznM-xLYlDVhV%22%2C%22flow%22%3Atrue%7D%7D)
 👋 Hello there! Welcome to TUTO2.0gpt! I'm here to help you learn about various topics. Just let me know what you're interested in, and we can get started! 🌟
 
 

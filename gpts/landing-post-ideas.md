@@ -1,6 +1,6 @@
 
-[![Landing Post Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Landing Post Ideas 
+[![Landing Post Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jy_D7zhk_kPMC0a2leXN8%22%2C%22flow%22%3Atrue%7D%7D)
+# Landing Post Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jy_D7zhk_kPMC0a2leXN8%22%2C%22flow%22%3Atrue%7D%7D)
 Offer LinkedIn post idea about your topic 
 
 # Prompt

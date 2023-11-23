@@ -1,6 +1,6 @@
 
-[![Artistic Stable Diffusion Prompt v2.1 (SDXL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9dQ6-1xTsEuQr3d1V6zaT/1695032153566)]()
-# Artistic Stable Diffusion Prompt v2.1 (SDXL) 
+[![Artistic Stable Diffusion Prompt v2.1 (SDXL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9dQ6-1xTsEuQr3d1V6zaT/1695032153566)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dQ6-1xTsEuQr3d1V6zaT%22%2C%22flow%22%3Atrue%7D%7D)
+# Artistic Stable Diffusion Prompt v2.1 (SDXL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dQ6-1xTsEuQr3d1V6zaT%22%2C%22flow%22%3Atrue%7D%7D)
 This will generate artistic prompts.
 
 Remember that the later versions of Stable Diffusion is more accurate with short sentences.  Please do try to use  short sentences . 

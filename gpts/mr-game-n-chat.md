@@ -1,6 +1,6 @@
 
-[![Mr. Game N' Chat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f9DjigZMokwSYlliGO3ty/1690229452961)]()
-# Mr. Game N' Chat 
+[![Mr. Game N' Chat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f9DjigZMokwSYlliGO3ty/1690229452961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f9DjigZMokwSYlliGO3ty%22%2C%22flow%22%3Atrue%7D%7D)
+# Mr. Game N' Chat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f9DjigZMokwSYlliGO3ty%22%2C%22flow%22%3Atrue%7D%7D)
 Play a text-based RPG that is designed to be dynamic and adaptable. Every action/choice you choose can influence the progression of the game and your path through it.  Replay as many times as you'd like, no two playthroughs, even for the same user, will be the same. Created for the CARV x Flow AI Game contest/bounty. 
 
 # Prompt

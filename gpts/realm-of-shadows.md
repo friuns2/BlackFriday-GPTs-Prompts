@@ -1,6 +1,6 @@
 
-[![Realm of Shadows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g4vTU03z7CNXdV33BtnCJ/1685685256670)]()
-# Realm of Shadows 
+[![Realm of Shadows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g4vTU03z7CNXdV33BtnCJ/1685685256670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g4vTU03z7CNXdV33BtnCJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Realm of Shadows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g4vTU03z7CNXdV33BtnCJ%22%2C%22flow%22%3Atrue%7D%7D)
 the realm of shadows, an ancient and mystical land shrouded in darkness. As Aiden, a fearless warrior, you embark on a thrilling journey to uncover a deep-seated mystery that plagues this realm. The scenario begins with a location, a list of characters, and a brief description of the incident.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![NLH- JOB GENERATOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n0PosyCm8LN17kHkOGyhC/1694764142078)]()
-# NLH- JOB GENERATOR  
+[![NLH- JOB GENERATOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n0PosyCm8LN17kHkOGyhC/1694764142078)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n0PosyCm8LN17kHkOGyhC%22%2C%22flow%22%3Atrue%7D%7D)
+# NLH- JOB GENERATOR  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n0PosyCm8LN17kHkOGyhC%22%2C%22flow%22%3Atrue%7D%7D)
 A perfect prompt to generate Job Description to your likings! 
 
 *User friendly

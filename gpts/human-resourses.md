@@ -1,6 +1,6 @@
 
-[![HR Innovator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# HR Innovator 
+[![HR Innovator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kqtg2rV4fN8h4W0DdUsfn%22%2C%22flow%22%3Atrue%7D%7D)
+# HR Innovator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kqtg2rV4fN8h4W0DdUsfn%22%2C%22flow%22%3Atrue%7D%7D)
 HR Innovator is a powerful and intuitive app designed to generate innovative HR strategies tailored to your organization's needs. With HR Innovator, you can easily create and implement HR initiatives that address your specific challenges and goals. Our app provides you with a wide range of strategies to choose from, including employee engagement techniques, talent acquisition methods, diversity and inclusion initiatives, wellness programs, skill development opportunities, performance recognition systems, feedback and communication platforms, leadership development plans, flexible work arrangements, and mentorship and coaching programs. Say goodbye to outdated HR practices and unlock the potential of your workforce with HR Innovator!
 
 # Prompt

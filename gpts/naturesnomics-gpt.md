@@ -1,6 +1,6 @@
 
-[![Nature'sNomics GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mo0UNssLLP_fdrl_D7IP4/1696152227193)]()
-# Nature'sNomics GPT 
+[![Nature'sNomics GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mo0UNssLLP_fdrl_D7IP4/1696152227193)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mo0UNssLLP_fdrl_D7IP4%22%2C%22flow%22%3Atrue%7D%7D)
+# Nature'sNomics GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mo0UNssLLP_fdrl_D7IP4%22%2C%22flow%22%3Atrue%7D%7D)
 Nature'sNomics GPT is adept at ecological auditing, identifying the broader environmental implications of human actions, and suggesting sustainable alternatives.
 
 # Prompt

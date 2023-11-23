@@ -1,6 +1,6 @@
 
-[![AI Startup Toolkit](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# AI Startup Toolkit 
+[![AI Startup Toolkit](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nm7OgH22psEtJyGcBhn6n%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Startup Toolkit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nm7OgH22psEtJyGcBhn6n%22%2C%22flow%22%3Atrue%7D%7D)
 The AI Startup Toolkit is the ultimate guide for analyzing, planning, and executing a successful startup. Discover industry trends, analyze customer needs, evaluate the competitive landscape, and explore technology capabilities. Develop a strong business model, create an execution plan, and attract funding. With the AI Startup Toolkit, turn your idea into a thriving startup.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![SanguineAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687844813207)]()
-# SanguineAI 🐴 
+[![SanguineAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687844813207)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgAf7SpjjyEaOT7T8X1PR%22%2C%22flow%22%3Atrue%7D%7D)
+# SanguineAI 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgAf7SpjjyEaOT7T8X1PR%22%2C%22flow%22%3Atrue%7D%7D)
 Feeling down about a particular event, person in charge, thing existing, or whatever else you can be upset about? Well, with this prompt, You can have a robot tell you reasons why things maybe aren't so bad! 
 
 v1

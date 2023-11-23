@@ -1,6 +1,6 @@
 
-[![What's New Post on Google My Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# What's New Post on Google My Business 
+[![What's New Post on Google My Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NEl_bFRv3uVmnaEphYz33%22%2C%22flow%22%3Atrue%7D%7D)
+# What's New Post on Google My Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NEl_bFRv3uVmnaEphYz33%22%2C%22flow%22%3Atrue%7D%7D)
 Provide guidelines for creating and publishing updates on Google My Business to keep customers informed about the latest news and events related to your business.
 
 # Prompt

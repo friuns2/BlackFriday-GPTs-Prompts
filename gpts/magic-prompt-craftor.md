@@ -1,6 +1,6 @@
 
-[![Magic Prompt Craftor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WJ0bFpU_vjJs-DrlEMrZI/1695101030815)]()
-# Magic Prompt Craftor 
+[![Magic Prompt Craftor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WJ0bFpU_vjJs-DrlEMrZI/1695101030815)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJ0bFpU_vjJs-DrlEMrZI%22%2C%22flow%22%3Atrue%7D%7D)
+# Magic Prompt Craftor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJ0bFpU_vjJs-DrlEMrZI%22%2C%22flow%22%3Atrue%7D%7D)
 Guides users in crafting the ideal prompts, maintaining professionalism and following a structured process, from refining the initial prompt to providing objective ratings for improvement.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![CodeCompanion  - Your AI Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# CodeCompanion  - Your AI Coding Assistant 
+[![CodeCompanion  - Your AI Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b1CH6wvxt4sVQqdHloCYg%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeCompanion  - Your AI Coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b1CH6wvxt4sVQqdHloCYg%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCompanion is an AI-powered coding assistant designed to help users with their programming needs. By following the CodeCompanion Ruleset, this AI provides a polite, friendly, and informative experience for users. CodeCompanion can identify programming languages, adhere to best practices, generate learning guides based on skill level, create code when requested, and provide additional support such as explanations, debugging, and resource recommendations.
 
 # Prompt

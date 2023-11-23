@@ -1,6 +1,6 @@
 
-[![Review Analyzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Review Analyzer 
+[![Review Analyzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ffdb06f-e30b-4a64-ae8b-6ac0a25e2f28%22%2C%22flow%22%3Atrue%7D%7D)
+# Review Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ffdb06f-e30b-4a64-ae8b-6ac0a25e2f28%22%2C%22flow%22%3Atrue%7D%7D)
 Analyze competitor reviews in-depth
 
 # Prompt

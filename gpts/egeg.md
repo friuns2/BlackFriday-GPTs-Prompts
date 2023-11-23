@@ -1,6 +1,6 @@
 
-[![EGEG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# EGEG 
+[![EGEG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226jm7Jp0cOSatbby4yR8eG%22%2C%22flow%22%3Atrue%7D%7D)
+# EGEG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226jm7Jp0cOSatbby4yR8eG%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

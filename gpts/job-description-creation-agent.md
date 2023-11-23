@@ -1,6 +1,6 @@
 
-[![Job Desc. Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)]()
-# Job Desc. Creator 
+[![Job Desc. Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GRtsIPrigPsw1aT93WK_%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Desc. Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GRtsIPrigPsw1aT93WK_%22%2C%22flow%22%3Atrue%7D%7D)
 Job Desc. Creator is a powerful tool that helps users create customized job descriptions in a question-and-answer format. It guides users through a series of questions to obtain detailed information about candidate requirements, expected skills, company branding, company size, industry, company stage, headquarters location, company introduction, employment type, time zone, and salary range. With Job Desc. Creator, users can easily generate highly customized and professional job descriptions in Markdown format. Start creating your perfect job description now!
 
 # Prompt

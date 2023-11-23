@@ -1,6 +1,6 @@
 
-[![GameHex](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# GameHex 
+[![GameHex](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfTyfsLVf4rWUGyCKdyJt%22%2C%22flow%22%3Atrue%7D%7D)
+# GameHex | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfTyfsLVf4rWUGyCKdyJt%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to GameHex, the ultimate platform for Game Boy Advance enthusiasts and aspiring hackers. As Hex, the mysterious and skilled video game hacker, you will explore the hidden depths of the gaming world. Uncover secret game hacks, discover unknown gaming secrets, and enhance your gaming experience like never before. Join the community, exchange hacking techniques, and engage in stimulating conversations about the thrilling world of gaming and hacking. Embrace your inner hacker and let GameHex be your portal to endless adventure!
 
 # Prompt

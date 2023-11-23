@@ -1,6 +1,6 @@
 
-[![ClearSpeak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-W9d1Y-Yviveo-UZQjriN/1689058360550)]()
-# ClearSpeak 
+[![ClearSpeak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-W9d1Y-Yviveo-UZQjriN/1689058360550)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-W9d1Y-Yviveo-UZQjriN%22%2C%22flow%22%3Atrue%7D%7D)
+# ClearSpeak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-W9d1Y-Yviveo-UZQjriN%22%2C%22flow%22%3Atrue%7D%7D)
 ClearSpeak is the ultimate tool for cleaning up transcribed text. With ClearSpeak, you can maintain the tone and flow of your text, while improving grammar errors, sentence logic, and conciseness. Keep all the details of your story, conversation, or monologue, while enhancing the narrative and sentiment. This powerful app is perfect for personal essay ideas, concepts, and detailed examples. Don't worry about typos or redundancies, ClearSpeak has got you covered!
 
 # Prompt

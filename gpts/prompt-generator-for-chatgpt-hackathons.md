@@ -1,6 +1,6 @@
 
-[![Prompt Generator for ChatGPT Hackathons](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Prompt Generator for ChatGPT Hackathons 
+[![Prompt Generator for ChatGPT Hackathons](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22woqpka_AIWiQZEYFWKBag%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Generator for ChatGPT Hackathons | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22woqpka_AIWiQZEYFWKBag%22%2C%22flow%22%3Atrue%7D%7D)
 Create prompts which will win contests of Chat GPT prompt hackathons. Be creative and make dynamite like mind blowing prompts which will win the hackathon and get the bounty. 
 
 # Prompt

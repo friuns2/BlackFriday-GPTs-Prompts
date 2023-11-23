@@ -1,6 +1,6 @@
 
-[![Outlining Blog Posts -  “what is”, “how”,  “benefits” ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Outlining Blog Posts -  “what is”, “how”,  “benefits”  
+[![Outlining Blog Posts -  “what is”, “how”,  “benefits” ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T7WHx82TrazY0RSlc77xd%22%2C%22flow%22%3Atrue%7D%7D)
+# Outlining Blog Posts -  “what is”, “how”,  “benefits”  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T7WHx82TrazY0RSlc77xd%22%2C%22flow%22%3Atrue%7D%7D)
 Creating the outline should have the following parts: an introduction, a “what is” section, a “how” section, and a “benefits” section. 
 
 # Prompt

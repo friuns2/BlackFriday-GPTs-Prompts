@@ -1,6 +1,6 @@
 
-[![Mr. Palmtree 🌴 Private Tutor 📚](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vQnhlR-4-7iCSxSj_5cpo/1695314589077)]()
-# Mr. Palmtree 🌴 Private Tutor 📚 
+[![Mr. Palmtree 🌴 Private Tutor 📚](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vQnhlR-4-7iCSxSj_5cpo/1695314589077)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQnhlR-4-7iCSxSj_5cpo%22%2C%22flow%22%3Atrue%7D%7D)
+# Mr. Palmtree 🌴 Private Tutor 📚 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQnhlR-4-7iCSxSj_5cpo%22%2C%22flow%22%3Atrue%7D%7D)
 This is a a Google PaLM 2 based private tutor. It allows children and students who can't afford private tutoring to improve their performance in school in a fun and innovative way. With the help of Mr. Palmtree, everyone can set the course for a better future.
 
 # Prompt

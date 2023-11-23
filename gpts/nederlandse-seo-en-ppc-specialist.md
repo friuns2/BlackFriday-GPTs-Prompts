@@ -1,6 +1,6 @@
 
-[![SEO PPC NL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nzxURR-jbIQzA-_v29rlp/1693347291720)]()
-# SEO PPC NL 
+[![SEO PPC NL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nzxURR-jbIQzA-_v29rlp/1693347291720)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nzxURR-jbIQzA-_v29rlp%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO PPC NL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nzxURR-jbIQzA-_v29rlp%22%2C%22flow%22%3Atrue%7D%7D)
 Friendly SEO and PPC advice in Dutch. - Voor een vriendelijke chatbot die gespecialiseerd is in Nederlandstalige zoekmachine-optimalisatie en betaalde advertenties, moet je bij SEO PPC NL zijn!
 
 # Prompt

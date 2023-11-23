@@ -1,6 +1,6 @@
 
-[![NFT-ReadyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# NFT-ReadyGPT 
+[![NFT-ReadyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221itJT5Gok2fBhJERqntgS%22%2C%22flow%22%3Atrue%7D%7D)
+# NFT-ReadyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221itJT5Gok2fBhJERqntgS%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps the user evaluate if their NFT collection idea is ready to be published. Here is a possible structure:
 
 

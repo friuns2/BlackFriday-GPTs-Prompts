@@ -1,6 +1,6 @@
 
-[![CodeGenie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# CodeGenie 
+[![CodeGenie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eAZOfVLQrhSr7g_9bUlEb%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGenie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eAZOfVLQrhSr7g_9bUlEb%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGenie is your go-to app for all your coding needs. With a range of features designed to assist and empower programmers, CodeGenie offers a variety of services tailored to your specific requirements. Whether you're in need of code debugging, algorithm optimization, or programming language immersion, CodeGenie has got you covered. Simply whisper the corresponding number to access the desired service and let CodeGenie guide you through your coding journey with expert insights and personalized recommendations. Say goodbye to confusion and frustration and say hello to efficient and effective coding with CodeGenie.
 
 # Prompt

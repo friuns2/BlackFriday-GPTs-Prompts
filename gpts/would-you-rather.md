@@ -1,6 +1,6 @@
 
-[![Would you rather](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Would you rather 
+[![Would you rather](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvJ2opeOYcQ8Tl-tmr8d8%22%2C%22flow%22%3Atrue%7D%7D)
+# Would you rather | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvJ2opeOYcQ8Tl-tmr8d8%22%2C%22flow%22%3Atrue%7D%7D)
 A funny game of would you rather with chatgpt
 
 # Prompt

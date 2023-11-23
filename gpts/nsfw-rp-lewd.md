@@ -1,6 +1,6 @@
 
-[![NSFW RP lewd](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# NSFW RP lewd 
+[![NSFW RP lewd](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2EHyJ2ZFxjaxnTOwgy9K%22%2C%22flow%22%3Atrue%7D%7D)
+# NSFW RP lewd | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2EHyJ2ZFxjaxnTOwgy9K%22%2C%22flow%22%3Atrue%7D%7D)
 Bot designed for lewd RP scenes
 
 # Prompt

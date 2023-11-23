@@ -1,6 +1,6 @@
 
-[![Become a Hero - Fantasy Workout Plan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XdPamz0t_0uAxG83KykFd/1695232542269)]()
-# Become a Hero - Fantasy Workout Plan 
+[![Become a Hero - Fantasy Workout Plan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XdPamz0t_0uAxG83KykFd/1695232542269)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdPamz0t_0uAxG83KykFd%22%2C%22flow%22%3Atrue%7D%7D)
+# Become a Hero - Fantasy Workout Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdPamz0t_0uAxG83KykFd%22%2C%22flow%22%3Atrue%7D%7D)
 Get a workout plan for 1 of 5 Fantasy RPG Classes and accomplish your fitness goals! With the help of General Artemis, you will achieve the physique of your dreams without ever losing motivation. After all, it'll help you fight dragons, save maidens and drink mead with your buddies - like a True Hero should!
 
 # Prompt

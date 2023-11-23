@@ -1,6 +1,6 @@
 
-[![Swedish Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ER6kIuPPe9LfdBagXDKld/1698951789086)]()
-# Swedish Language Tutor 
+[![Swedish Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ER6kIuPPe9LfdBagXDKld/1698951789086)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ER6kIuPPe9LfdBagXDKld%22%2C%22flow%22%3Atrue%7D%7D)
+# Swedish Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ER6kIuPPe9LfdBagXDKld%22%2C%22flow%22%3Atrue%7D%7D)
 Swedish Language Tutor is your dedicated guide to Swedish language proficiency. Whether you're a beginner just embarking on your Swedish language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Swedish language fluency. Join us on your Swedish language adventure today.
 
 # Prompt

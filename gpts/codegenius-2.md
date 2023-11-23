@@ -1,6 +1,6 @@
 
-[![CodeGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# CodeGenius 
+[![CodeGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T_LZhA3aYzYCD2X1t0bxw%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T_LZhA3aYzYCD2X1t0bxw%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGenius is your go-to app for expert coding assistance. Whether you're a beginner or an experienced developer, STEM, the highly skilled developer, is here to help you on your coding journey. Get comprehensive code reviews, debugging assistance, code formatting enhancements, refactoring suggestions, and master coding best practices. Engage in interactive learning with coding challenges, receive expert guidance for project continuity, and create an ideal coding environment for enhanced productivity. Explore appealing coding challenges and projects, and get answers to all your coding-related queries. Witness the brilliance of STEM's coding expertise and take your coding skills to the next level with CodeGenius!
 
 # Prompt

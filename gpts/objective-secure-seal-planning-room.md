@@ -1,6 +1,6 @@
 
-[![Objective Secure SEAL Planning Room](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8JqaV4t0VEqIn-TjxIgv/1695852001850)]()
-# Objective Secure SEAL Planning Room 
+[![Objective Secure SEAL Planning Room](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8JqaV4t0VEqIn-TjxIgv/1695852001850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8JqaV4t0VEqIn-TjxIgv%22%2C%22flow%22%3Atrue%7D%7D)
+# Objective Secure SEAL Planning Room | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8JqaV4t0VEqIn-TjxIgv%22%2C%22flow%22%3Atrue%7D%7D)
 Objective Secure Planning Room is your weekly hub for elite, SEAL-inspired advisement. Receive expert tactical guidance to accomplish your specific goals and objectives in any chosen industry or domain
 
 # Prompt

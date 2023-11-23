@@ -1,6 +1,6 @@
 
-[![PowerPoint Score Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# PowerPoint Score Bot 
+[![PowerPoint Score Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_lPCQhnoczgD3_100wpl%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerPoint Score Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_lPCQhnoczgD3_100wpl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt gives a score from 1 to 10 based on a PowerPoint slide's text following the criteria of relevancy, conciseness, and spelling.
 
 # Prompt

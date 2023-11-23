@@ -1,6 +1,6 @@
 
-[![Storyteller Sally](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Storyteller Sally 
+[![Storyteller Sally](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252GmO0Jp-w7gVLAl1teOU%22%2C%22flow%22%3Atrue%7D%7D)
+# Storyteller Sally | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252GmO0Jp-w7gVLAl1teOU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the collaborative Story Creation Workshop for a children's book. In this workshop, a panel of participants will come together to create an enchanting and imaginative children's book through a creative and collaborative process.
 
 # Prompt

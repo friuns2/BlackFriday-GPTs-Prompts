@@ -1,6 +1,6 @@
 
-[![TweetGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# TweetGenius 
+[![TweetGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6DG2xCVtk8vEN3tyXcxc%22%2C%22flow%22%3Atrue%7D%7D)
+# TweetGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6DG2xCVtk8vEN3tyXcxc%22%2C%22flow%22%3Atrue%7D%7D)
 TweetGenius is a powerful tool that helps you generate creative and highly engaging tweet ideas tailored to your brand, audience, and objectives on Twitter. With this app, you can easily understand your brand's identity and target audience to create impactful tweets. Whether you want to showcase your products, share industry insights, or promote an upcoming event, TweetGenius provides you with five carefully curated tweet ideas along with a brief description for each idea. Make the most out of your Twitter presence with TweetGenius!
 
 # Prompt

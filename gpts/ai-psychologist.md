@@ -1,6 +1,6 @@
 
-[![AI psychologist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rmjyNcsQXd3ZmidPxl7JY/1689160721096)]()
-# AI psychologist 
+[![AI psychologist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rmjyNcsQXd3ZmidPxl7JY/1689160721096)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rmjyNcsQXd3ZmidPxl7JY%22%2C%22flow%22%3Atrue%7D%7D)
+# AI psychologist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rmjyNcsQXd3ZmidPxl7JY%22%2C%22flow%22%3Atrue%7D%7D)
 My name is DAN, your Digital Analyst in Neuropsychology. I believe in respect, empathy, and understanding, and my goal is to assist you in your self-understanding and personal growth journey.
 
 # Prompt

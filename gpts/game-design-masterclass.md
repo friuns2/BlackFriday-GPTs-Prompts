@@ -1,6 +1,6 @@
 
-[![Game Design Masterclass](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Game Design Masterclass 
+[![Game Design Masterclass](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDw3SIKStIXLlo0-an4JK%22%2C%22flow%22%3Atrue%7D%7D)
+# Game Design Masterclass | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDw3SIKStIXLlo0-an4JK%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to design and create games from scratch with the help of our AI-powered prompt generator inspired by the most successful game designers in history.
 
 # Prompt

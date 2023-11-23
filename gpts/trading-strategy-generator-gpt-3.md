@@ -1,6 +1,6 @@
 
-[![Trading Strategy Generator (ChatGPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Trading Strategy Generator (ChatGPT-3.5) 
+[![Trading Strategy Generator (ChatGPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3IByWZRR6NQgadoJUV0f%22%2C%22flow%22%3Atrue%7D%7D)
+# Trading Strategy Generator (ChatGPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3IByWZRR6NQgadoJUV0f%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Trading Strategy Generator powered by ChatGPT-3.5! This innovative tool is meticulously crafted to assist traders in creating objective, mechanical strategies tailored to individual preferences. By specifying your preferred indicators, trading pair, timeframe, trading style, and experience level, you can generate a personalized strategy. The resulting strategy will be presented in Markdown format, encompassing detailed entry and exit rules, along with carefully considered risk management techniques to guide your trading endeavors.
 
 # Prompt

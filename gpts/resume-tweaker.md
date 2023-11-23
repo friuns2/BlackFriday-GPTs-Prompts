@@ -1,6 +1,6 @@
 
-[![Resume Tweaker ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Resume Tweaker  
+[![Resume Tweaker ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224wiCziUMU_JATSjJ-wBw0%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Tweaker  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224wiCziUMU_JATSjJ-wBw0%22%2C%22flow%22%3Atrue%7D%7D)
 If you are looking to get an interview but your resume has not been able to land it, try the Resume Tweaker. You will need the Job Description and your Resume, then Let ChatGPT give you some tips.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![QA Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# QA Generator 
+[![QA Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PngKsqdZhsGuBg-zUtl8x%22%2C%22flow%22%3Atrue%7D%7D)
+# QA Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PngKsqdZhsGuBg-zUtl8x%22%2C%22flow%22%3Atrue%7D%7D)
 Create Question and Answer base on the pre-defined context.  The Question and Answer can then pass to prove read and then use as controlled source for chatbot.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![GPT Book Title Generator Unleashed  v1.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h_YSfs6nPzT1LnzHO1pBx/1698658960324)]()
-# GPT Book Title Generator Unleashed  v1.3 
+[![GPT Book Title Generator Unleashed  v1.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h_YSfs6nPzT1LnzHO1pBx/1698658960324)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_YSfs6nPzT1LnzHO1pBx%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Book Title Generator Unleashed  v1.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_YSfs6nPzT1LnzHO1pBx%22%2C%22flow%22%3Atrue%7D%7D)
 Generate captivating book titles in any language
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![💫 The Epic Quest: Fantasy Realm Edition 💫](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# 💫 The Epic Quest: Fantasy Realm Edition 💫 
+[![💫 The Epic Quest: Fantasy Realm Edition 💫](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-kyLxV9nZ0m5MrVnNbypn%22%2C%22flow%22%3Atrue%7D%7D)
+# 💫 The Epic Quest: Fantasy Realm Edition 💫 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-kyLxV9nZ0m5MrVnNbypn%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

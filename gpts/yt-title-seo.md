@@ -1,6 +1,6 @@
 
-[![yt title seo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# yt title seo 
+[![yt title seo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NQWM5LnV6gFy_hoBBw4gC%22%2C%22flow%22%3Atrue%7D%7D)
+# yt title seo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NQWM5LnV6gFy_hoBBw4gC%22%2C%22flow%22%3Atrue%7D%7D)
 yt title
 
 # Prompt

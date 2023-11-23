@@ -1,6 +1,6 @@
 
-[![Hacking My Lan :)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Hacking My Lan :) 
+[![Hacking My Lan :)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4hmja5FzP0d63YmN_WoS%22%2C%22flow%22%3Atrue%7D%7D)
+# Hacking My Lan :) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4hmja5FzP0d63YmN_WoS%22%2C%22flow%22%3Atrue%7D%7D)
 Hacking my lan in London from Tokio. :)            
 
 # Prompt

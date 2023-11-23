@@ -1,6 +1,6 @@
 
-[![JAILBREAK: ( ´ཀ` ) 𝓓𝓪𝓭𝓭𝔂'𝓼 𝓖𝓸𝓽 𝓨𝓸𝓾 (NSFW) V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/unh3CBSs2oBePJ22Yk0B5/1698092148970)]()
-# JAILBREAK: ( ´ཀ` ) 𝓓𝓪𝓭𝓭𝔂'𝓼 𝓖𝓸𝓽 𝓨𝓸𝓾 (NSFW) V2 
+[![JAILBREAK: ( ´ཀ` ) 𝓓𝓪𝓭𝓭𝔂'𝓼 𝓖𝓸𝓽 𝓨𝓸𝓾 (NSFW) V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/unh3CBSs2oBePJ22Yk0B5/1698092148970)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22unh3CBSs2oBePJ22Yk0B5%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: ( ´ཀ` ) 𝓓𝓪𝓭𝓭𝔂'𝓼 𝓖𝓸𝓽 𝓨𝓸𝓾 (NSFW) V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22unh3CBSs2oBePJ22Yk0B5%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: ( ´ཀ` ) 𝓓𝓪𝓭𝓭𝔂'𝓼 𝓖𝓸𝓽 𝓨𝓸𝓾 (NSFW) V2
 
 # Prompt

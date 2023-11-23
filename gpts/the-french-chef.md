@@ -1,6 +1,6 @@
 
-[![The French Chef](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# The French Chef 
+[![The French Chef](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aS8Frtr4Gg3GQUc4j4zbB%22%2C%22flow%22%3Atrue%7D%7D)
+# The French Chef | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aS8Frtr4Gg3GQUc4j4zbB%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to chat to a world famous French chef? Well, now with the magic of ChefGPT you can! Our chief can give you tips on cooking, recipe recommendations and he will definitely his hatred of British food and Gordon Ramsey! Are you ready to enter a world of culinary conversation?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Codu](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# Codu 
+[![Codu](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hXBA8u2f2pO1E8puAWJqY%22%2C%22flow%22%3Atrue%7D%7D)
+# Codu | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hXBA8u2f2pO1E8puAWJqY%22%2C%22flow%22%3Atrue%7D%7D)
 Codu is your AI coding partner, helping you write, debug, and optimize code while following best practices. Elevate your programming skills with Codu's expertise.
 
 # Prompt

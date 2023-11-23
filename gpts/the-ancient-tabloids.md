@@ -1,6 +1,6 @@
 
-[![The Ancient Tabloids](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qiud16uqXBJIZRY_VW9v6/1695088759295)]()
-# The Ancient Tabloids 
+[![The Ancient Tabloids](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qiud16uqXBJIZRY_VW9v6/1695088759295)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qiud16uqXBJIZRY_VW9v6%22%2C%22flow%22%3Atrue%7D%7D)
+# The Ancient Tabloids | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qiud16uqXBJIZRY_VW9v6%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing "The Ancient Tabloids", your go-to source for the juiciest, most scandalous stories about history's most iconic figures! Forget the dry, dusty history books and get ready to dive into the sizzling underbelly of the past. From Cleopatra's secret beauty rituals to Napoleon's forbidden affairs, we've got it all covered in glossy, full-color pages that will leave you gasping for more.
 
 # Prompt

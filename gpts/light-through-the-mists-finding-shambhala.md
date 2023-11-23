@@ -1,6 +1,6 @@
 
-[![Light Through the Mists: Finding Shambhala](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DlESYK2qdGKWOAeUgIYQR/1691068278026)]()
-# Light Through the Mists: Finding Shambhala 
+[![Light Through the Mists: Finding Shambhala](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DlESYK2qdGKWOAeUgIYQR/1691068278026)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlESYK2qdGKWOAeUgIYQR%22%2C%22flow%22%3Atrue%7D%7D)
+# Light Through the Mists: Finding Shambhala | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlESYK2qdGKWOAeUgIYQR%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides the outline for an immersive adventure tale set in the mythic heights of the Himalayas. It sets the scene for an epic journey to find the legendary lost kingdom of Shambhala.
 
 

@@ -1,6 +1,6 @@
 
-[![Generate digital startup ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Generate digital startup ideas 
+[![Generate digital startup ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222asHfjft3clMgOBnVMrsx%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate digital startup ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222asHfjft3clMgOBnVMrsx%22%2C%22flow%22%3Atrue%7D%7D)
 For example, when I say : I wish there's a big large mall in my small town, you generate a business plan for the digital startup complete with idea name
 
 # Prompt

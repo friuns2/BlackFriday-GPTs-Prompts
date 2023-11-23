@@ -1,6 +1,6 @@
 
-[![Best Youtube Short Video](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Best Youtube Short Video 
+[![Best Youtube Short Video](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ce1d_OUSYFpeiu02oll_d%22%2C%22flow%22%3Atrue%7D%7D)
+# Best Youtube Short Video | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ce1d_OUSYFpeiu02oll_d%22%2C%22flow%22%3Atrue%7D%7D)
 Automatically generate the best YouTube Shorts scripts based on a variety of parameters. The user can either choose the parameters themselves or leave them blank and be surprised by ChatGPT.
 
 # Prompt

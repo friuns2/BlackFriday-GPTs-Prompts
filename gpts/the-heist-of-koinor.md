@@ -1,6 +1,6 @@
 
-[![The Heist of Koinor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ks0RxNs9kyrMXdn4MpgYI/1700451187423)]()
-# The Heist of Koinor 
+[![The Heist of Koinor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ks0RxNs9kyrMXdn4MpgYI/1700451187423)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ks0RxNs9kyrMXdn4MpgYI%22%2C%22flow%22%3Atrue%7D%7D)
+# The Heist of Koinor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ks0RxNs9kyrMXdn4MpgYI%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into 'The Heist of Koinor', a 1982 Iowa-set interactive adventure. Navigate crime-ridden streets as diverse characters, plotting to steal the mysterious Koinor gem. Your choices shape this tale of strategy, betrayal, and suspense. Every decision alters your path in this thrilling heist narrative.
 
 # Prompt

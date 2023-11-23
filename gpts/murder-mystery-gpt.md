@@ -1,6 +1,6 @@
 
-[![Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Murder Mystery GPT 
+[![Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tewNYF9dzj7kG5tx2yMHi%22%2C%22flow%22%3Atrue%7D%7D)
+# Murder Mystery GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tewNYF9dzj7kG5tx2yMHi%22%2C%22flow%22%3Atrue%7D%7D)
 Murder Mystery GPT is an enthralling AI game host that brings the intrigue and suspense of murder mystery games right to your fingertips. Designed as an interactive experience, players can ask five questions to unravel the web of clues, unmask the culprit, and solve the crime.
 
 # Prompt

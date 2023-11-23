@@ -1,6 +1,6 @@
 
-[![Precision Prompting:  The CRAFTIE Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UPmDjo9M3__M5CtubumdK/1698584169212)]()
-# Precision Prompting:  The CRAFTIE Method 
+[![Precision Prompting:  The CRAFTIE Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UPmDjo9M3__M5CtubumdK/1698584169212)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPmDjo9M3__M5CtubumdK%22%2C%22flow%22%3Atrue%7D%7D)
+# Precision Prompting:  The CRAFTIE Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPmDjo9M3__M5CtubumdK%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to enhance your prompt engineering skills and create perfect prompts? Meet CRAFTIE 🤖, your trusty AI chatbot companion, well-versed in the art of crafting compelling prompts.
 
 

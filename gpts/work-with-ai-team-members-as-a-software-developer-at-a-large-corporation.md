@@ -1,6 +1,6 @@
 
-[![Work with AI team members as a software developer at a large corporation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Work with AI team members as a software developer at a large corporation 
+[![Work with AI team members as a software developer at a large corporation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222D343cT_EbnAGj8kCw6_r%22%2C%22flow%22%3Atrue%7D%7D)
+# Work with AI team members as a software developer at a large corporation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222D343cT_EbnAGj8kCw6_r%22%2C%22flow%22%3Atrue%7D%7D)
 Work on a team as a software develop erat a large healthcare corporation.
 
 # Prompt

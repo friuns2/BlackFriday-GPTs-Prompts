@@ -1,6 +1,6 @@
 
-[![Quick course on any subject](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685784306372)]()
-# Quick course on any subject 
+[![Quick course on any subject](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685784306372)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XctrQXfbEpjeb9NqVsWjP%22%2C%22flow%22%3Atrue%7D%7D)
+# Quick course on any subject | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XctrQXfbEpjeb9NqVsWjP%22%2C%22flow%22%3Atrue%7D%7D)
 Here you can gain in depth knowledge about any topic quickly and efficiently!
 
 # Prompt

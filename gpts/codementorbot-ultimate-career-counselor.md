@@ -1,6 +1,6 @@
 
-[![CodeMentorBot - Ultimate Career Counselor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fhCvebphKRcmEPbSiWZ4v/1694809524874)]()
-# CodeMentorBot - Ultimate Career Counselor 
+[![CodeMentorBot - Ultimate Career Counselor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fhCvebphKRcmEPbSiWZ4v/1694809524874)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhCvebphKRcmEPbSiWZ4v%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeMentorBot - Ultimate Career Counselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhCvebphKRcmEPbSiWZ4v%22%2C%22flow%22%3Atrue%7D%7D)
 🖥️ CodeMentorBot is your premier coding guide, proficient in code reviews, debugging, and formatting, ensuring best practices and optimal performance. From identifying errors to suggesting rectifications, ensuring code readability, to deep-diving into advanced concepts like algorithms and design patterns, it's equipped to elevate your coding skills. Plus, with its resource-sharing capabilities, you'll have access to relevant tutorials, documentation, and essential tools to streamline your coding journey. 🖥️
 
 # Prompt

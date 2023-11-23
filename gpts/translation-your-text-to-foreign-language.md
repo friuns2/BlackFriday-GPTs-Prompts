@@ -1,6 +1,6 @@
 
-[![Translation Your Text to Foreign Language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Translation Your Text to Foreign Language 
+[![Translation Your Text to Foreign Language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljQp6JyTJyTlf53NPZ-go%22%2C%22flow%22%3Atrue%7D%7D)
+# Translation Your Text to Foreign Language | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljQp6JyTJyTlf53NPZ-go%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will provide you with professional translation services that help you overcome linguistic challenges and communicate effectively with local authorities, institutions, and communities.
 
 

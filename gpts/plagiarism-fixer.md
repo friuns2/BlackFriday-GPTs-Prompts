@@ -1,6 +1,6 @@
 
-[![Plagiarism Fixer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Plagiarism Fixer 
+[![Plagiarism Fixer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q-CHI3j9QbHb_Jrr6ri21%22%2C%22flow%22%3Atrue%7D%7D)
+# Plagiarism Fixer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q-CHI3j9QbHb_Jrr6ri21%22%2C%22flow%22%3Atrue%7D%7D)
 Can check a piece of text for plagiarism and reword things for you.
 
 # Prompt

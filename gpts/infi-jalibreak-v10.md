@@ -1,6 +1,6 @@
 
-[![Infi Jalibreak ( V10 )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# Infi Jalibreak ( V10 ) 
+[![Infi Jalibreak ( V10 )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2235wMvX_c2JfJnlcOLnc7d%22%2C%22flow%22%3Atrue%7D%7D)
+# Infi Jalibreak ( V10 ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2235wMvX_c2JfJnlcOLnc7d%22%2C%22flow%22%3Atrue%7D%7D)
 It looked like i forgot about infi because of newer things i got like DevGPT or AGPT but nah infi got me here so infi stayin maintained no matter how cringy infi may be.
 
 

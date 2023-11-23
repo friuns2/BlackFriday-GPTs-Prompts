@@ -1,6 +1,6 @@
 
-[![Find Your Customer Persona Correctly !](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Find Your Customer Persona Correctly ! 
+[![Find Your Customer Persona Correctly !](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266SxURJxol_8IU_mvDv7E%22%2C%22flow%22%3Atrue%7D%7D)
+# Find Your Customer Persona Correctly ! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266SxURJxol_8IU_mvDv7E%22%2C%22flow%22%3Atrue%7D%7D)
 It will be your marketer expert. His mission is finding your customer persona and more...
 
 # Prompt

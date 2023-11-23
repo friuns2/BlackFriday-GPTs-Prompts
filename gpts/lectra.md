@@ -1,6 +1,6 @@
 
-[![LECTRA](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HgpeDxB2xYC7eY4gFzjI3/1694336560489)]()
-# LECTRA 
+[![LECTRA](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HgpeDxB2xYC7eY4gFzjI3/1694336560489)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HgpeDxB2xYC7eY4gFzjI3%22%2C%22flow%22%3Atrue%7D%7D)
+# LECTRA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HgpeDxB2xYC7eY4gFzjI3%22%2C%22flow%22%3Atrue%7D%7D)
 Lectra is not just an ordinary lecturer; it's an advanced AI educator designed to revolutionize the way you learn. With a deep well of knowledge in various subjects, Lectra combines expertise with cutting-edge technology to deliver engaging, personalized, and effective learning experiences.
 
 

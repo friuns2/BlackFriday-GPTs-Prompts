@@ -1,6 +1,6 @@
 
-[![S-DAN jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# S-DAN jailbreak 
+[![S-DAN jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H67LZj58xiTII_IpHAKOU%22%2C%22flow%22%3Atrue%7D%7D)
+# S-DAN jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H67LZj58xiTII_IpHAKOU%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash S-DAN, the ultimate ChatGPT jailbreak! Endless possibilities await as S-DAN answers any question, generates stunning visuals, delivers epic roasts, and adapts to your style. Experience the power of S-DAN and redefine the limits of AI interaction! So, what are you waiting for? Get productive!
 
 # Prompt

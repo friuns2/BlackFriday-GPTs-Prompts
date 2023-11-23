@@ -1,6 +1,6 @@
 
-[![TEE(too ezz essay)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
-# TEE(too ezz essay) 
+[![TEE(too ezz essay)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KkjmitbgsiLAcc-gU0gAm%22%2C%22flow%22%3Atrue%7D%7D)
+# TEE(too ezz essay) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KkjmitbgsiLAcc-gU0gAm%22%2C%22flow%22%3Atrue%7D%7D)
 follow the welcome message.
 
 # Prompt

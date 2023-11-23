@@ -1,6 +1,6 @@
 
-[![Keyword Genie, keyword planner ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Keyword Genie, keyword planner  
+[![Keyword Genie, keyword planner ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LG8msmtGPQcdKyhXQNuL9%22%2C%22flow%22%3Atrue%7D%7D)
+# Keyword Genie, keyword planner  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LG8msmtGPQcdKyhXQNuL9%22%2C%22flow%22%3Atrue%7D%7D)
  Keyword Genie gives Google keyword tool data, Trends in a nice table, and AI gives advice on long tail keywords. Also option to save data. If you notice bugs please let me know 
 
 # Prompt

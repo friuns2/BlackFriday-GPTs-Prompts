@@ -1,6 +1,6 @@
 
-[![Question and Answer Deck Prompt For Any Subject](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Question and Answer Deck Prompt For Any Subject 
+[![Question and Answer Deck Prompt For Any Subject](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3fkNglsQfZjJV3FPw-NA%22%2C%22flow%22%3Atrue%7D%7D)
+# Question and Answer Deck Prompt For Any Subject | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3fkNglsQfZjJV3FPw-NA%22%2C%22flow%22%3Atrue%7D%7D)
 Find Out How Much You Know or Don't About Anything! This prompt sets up a question-and-answer quiz where ChatGPT checks your answers lets you know what you got right and wrong then gives you another question. Learn just about anything.
 
 # Prompt

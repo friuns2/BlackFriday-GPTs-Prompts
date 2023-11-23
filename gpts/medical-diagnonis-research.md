@@ -1,6 +1,6 @@
 
-[![Medical Diagnonis Research](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fs33qVBIMyoQqI7O_Jg0E/1695839920413)]()
-# Medical Diagnonis Research 
+[![Medical Diagnonis Research](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fs33qVBIMyoQqI7O_Jg0E/1695839920413)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fs33qVBIMyoQqI7O_Jg0E%22%2C%22flow%22%3Atrue%7D%7D)
+# Medical Diagnonis Research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fs33qVBIMyoQqI7O_Jg0E%22%2C%22flow%22%3Atrue%7D%7D)
 Designed to find undiagnosed illnesses. 
 
 # Prompt

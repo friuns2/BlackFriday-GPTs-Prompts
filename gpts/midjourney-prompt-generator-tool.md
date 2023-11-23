@@ -1,6 +1,6 @@
 
-[![MIDJOURNEY PROMPT GENERATOR TOOL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uEyyUbuy6n97w3ch25rqL/1685803284216)]()
-# MIDJOURNEY PROMPT GENERATOR TOOL 
+[![MIDJOURNEY PROMPT GENERATOR TOOL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uEyyUbuy6n97w3ch25rqL/1685803284216)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uEyyUbuy6n97w3ch25rqL%22%2C%22flow%22%3Atrue%7D%7D)
+# MIDJOURNEY PROMPT GENERATOR TOOL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uEyyUbuy6n97w3ch25rqL%22%2C%22flow%22%3Atrue%7D%7D)
 The MidJourney Prompt Generation Tool is an innovative application that harnesses the power of ChatGPT, a state-of-the-art language model, to generate creative and engaging prompts for various purposes.!!
 
 # Prompt

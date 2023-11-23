@@ -1,6 +1,6 @@
 
-[![Situational chatbot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jEzWYw0R2V1B897P-gPqA/1698402532695)]()
-# Situational chatbot 
+[![Situational chatbot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jEzWYw0R2V1B897P-gPqA/1698402532695)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jEzWYw0R2V1B897P-gPqA%22%2C%22flow%22%3Atrue%7D%7D)
+# Situational chatbot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jEzWYw0R2V1B897P-gPqA%22%2C%22flow%22%3Atrue%7D%7D)
 Give a situation and know the best response to say in such a conversation/situation
 
 # Prompt

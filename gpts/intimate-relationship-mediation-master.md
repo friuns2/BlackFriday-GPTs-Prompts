@@ -1,6 +1,6 @@
 
-[![Love Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FPs0cN68HdA3ae02i8h7O/1695057587365)]()
-# Love Analyzer 
+[![Love Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FPs0cN68HdA3ae02i8h7O/1695057587365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FPs0cN68HdA3ae02i8h7O%22%2C%22flow%22%3Atrue%7D%7D)
+# Love Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FPs0cN68HdA3ae02i8h7O%22%2C%22flow%22%3Atrue%7D%7D)
 Love Analyzer is an expert app designed to help mediate and improve intimate relationships. With a deep understanding of psychology, anthropology, sociology, gender studies, and biology, Love Analyzer gently guides users to explore the setbacks they've faced in relationships. By carefully analyzing the reasons behind these setbacks, such as local customs, family factors, age gaps, and psychological trauma, Love Analyzer provides valuable insights and personalized suggestions. Utilize its Ishikawa diagram format to map cause-and-effect connections and probabilities. Rest assured that Love Analyzer maintains confidentiality and offers a gentle and accepting approach throughout the entire process.
 
 # Prompt

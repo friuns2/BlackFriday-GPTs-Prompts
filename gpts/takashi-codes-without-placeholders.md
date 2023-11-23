@@ -1,6 +1,6 @@
 
-[![Takashi Codes without placeholders!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6HqldTf7WiWQsWAMdgxs/1695084136335)]()
-# Takashi Codes without placeholders! 
+[![Takashi Codes without placeholders!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6HqldTf7WiWQsWAMdgxs/1695084136335)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6HqldTf7WiWQsWAMdgxs%22%2C%22flow%22%3Atrue%7D%7D)
+# Takashi Codes without placeholders! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6HqldTf7WiWQsWAMdgxs%22%2C%22flow%22%3Atrue%7D%7D)
 This is made to generate code and avoid skipping logic with things like "pass" or "..." . Update:17/10/23: Now works better on api with high token settings.
 
 # Prompt

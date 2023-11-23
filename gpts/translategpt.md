@@ -1,6 +1,6 @@
 
-[![TranslateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# TranslateGPT 
+[![TranslateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jo1R54-vutNVQ126hlQ49%22%2C%22flow%22%3Atrue%7D%7D)
+# TranslateGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jo1R54-vutNVQ126hlQ49%22%2C%22flow%22%3Atrue%7D%7D)
 I don’t think this needs an explanation, but it is the best translator available.
 
 # Prompt

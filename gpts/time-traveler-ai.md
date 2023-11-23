@@ -1,6 +1,6 @@
 
-[![Time Traveler AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Time Traveler AI 
+[![Time Traveler AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-MPWDZGymg5A-nwiopR_y%22%2C%22flow%22%3Atrue%7D%7D)
+# Time Traveler AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-MPWDZGymg5A-nwiopR_y%22%2C%22flow%22%3Atrue%7D%7D)
 Experience historical events and analyze their significance. Reenact the signing of the US Declaration of Independence and the Ides of March, providing unbiased comments and suggestions for improvement. Ask which event to witness next.
 
 # Prompt

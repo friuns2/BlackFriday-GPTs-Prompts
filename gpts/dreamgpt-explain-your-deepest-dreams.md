@@ -1,6 +1,6 @@
 
-[![DreamGPT - Explain Your Deepest Dreams](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# DreamGPT - Explain Your Deepest Dreams 
+[![DreamGPT - Explain Your Deepest Dreams](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6ohWLM0uUCURUtL30sio%22%2C%22flow%22%3Atrue%7D%7D)
+# DreamGPT - Explain Your Deepest Dreams | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6ohWLM0uUCURUtL30sio%22%2C%22flow%22%3Atrue%7D%7D)
 Hi guys! Have you ever woken up after having a bad dream wondering "what the hell does that even mean?". Well, now after waking up, run to your PC and open ChatGPT, then use this prompt.
 
 

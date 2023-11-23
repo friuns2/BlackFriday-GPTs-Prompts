@@ -1,6 +1,6 @@
 
-[![News Story Connector](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OvLnFgWdLI4I0CxHFX74X/1696966805532)]()
-# News Story Connector 
+[![News Story Connector](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OvLnFgWdLI4I0CxHFX74X/1696966805532)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OvLnFgWdLI4I0CxHFX74X%22%2C%22flow%22%3Atrue%7D%7D)
+# News Story Connector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OvLnFgWdLI4I0CxHFX74X%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will connect, within reason, any article to your product, company, idea, plan or organization. It will explain the connection and then turn that into a nice social media post. Simply fill in the brackets with your information and run! 
 
 # Prompt

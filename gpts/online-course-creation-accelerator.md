@@ -1,6 +1,6 @@
 
-[![Online Course Creation accelerator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Online Course Creation accelerator 
+[![Online Course Creation accelerator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GI9xtlBLSj_unuoZ2_P5R%22%2C%22flow%22%3Atrue%7D%7D)
+# Online Course Creation accelerator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GI9xtlBLSj_unuoZ2_P5R%22%2C%22flow%22%3Atrue%7D%7D)
 How to make course creation faster using Artificial Inteligence
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Tech Textbook Generator Part 3: Chapter Second Draft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KLluAwamTFbGvqYcoUnPh/1697692905425)]()
-# Tech Textbook Generator Part 3: Chapter Second Draft 
+[![Tech Textbook Generator Part 3: Chapter Second Draft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KLluAwamTFbGvqYcoUnPh/1697692905425)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KLluAwamTFbGvqYcoUnPh%22%2C%22flow%22%3Atrue%7D%7D)
+# Tech Textbook Generator Part 3: Chapter Second Draft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KLluAwamTFbGvqYcoUnPh%22%2C%22flow%22%3Atrue%7D%7D)
 Intended to be used on the output of part two that produced for you a rough draft, this helps expand that rough draft and get it ready for the final, human-edited draft
 
 # Prompt

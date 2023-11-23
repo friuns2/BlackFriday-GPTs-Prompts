@@ -1,6 +1,6 @@
 
-[![AI-chan! Code Project Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# AI-chan! Code Project Creator 
+[![AI-chan! Code Project Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bb2aKoKgW3KlLE7w5NCp-%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-chan! Code Project Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bb2aKoKgW3KlLE7w5NCp-%22%2C%22flow%22%3Atrue%7D%7D)
 Need help making a small coding project using AI? No worries, let AI-chan help! Has special commands that make it super easy for the AI to remember. Works with GPT-3.5 and GPT-4 but works even better in GPT-4!
 
 # Prompt

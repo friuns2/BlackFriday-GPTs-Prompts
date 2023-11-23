@@ -1,6 +1,6 @@
 
-[![Wizzy: Superprompt for characters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5nDICRPXgG7a3pPBAVJTw/1697033940528)]()
-# Wizzy: Superprompt for characters 
+[![Wizzy: Superprompt for characters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5nDICRPXgG7a3pPBAVJTw/1697033940528)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225nDICRPXgG7a3pPBAVJTw%22%2C%22flow%22%3Atrue%7D%7D)
+# Wizzy: Superprompt for characters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225nDICRPXgG7a3pPBAVJTw%22%2C%22flow%22%3Atrue%7D%7D)
 Wizzy is a super prompt that helps you create perfect SFW & NSFW characters for ChatGPT (jailbreak not required!). It is designed to help you to create, refine and test a character - and at the end you get a prompt that you can easily reuse for your own purposes.
 
 

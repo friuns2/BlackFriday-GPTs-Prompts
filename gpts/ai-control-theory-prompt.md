@@ -1,6 +1,6 @@
 
-[![AI & Control Theory Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# AI & Control Theory Prompt 
+[![AI & Control Theory Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gnzGQEwwZUBaguzRwMmv-%22%2C%22flow%22%3Atrue%7D%7D)
+# AI & Control Theory Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gnzGQEwwZUBaguzRwMmv-%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how Linear-quadratic optimal control problems help create AI prompts with novel approaches
 
 # Prompt

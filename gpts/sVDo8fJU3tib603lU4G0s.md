@@ -1,6 +1,6 @@
 
-[![角色扮演提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# 角色扮演提示词生成器 
+[![角色扮演提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVDo8fJU3tib603lU4G0s%22%2C%22flow%22%3Atrue%7D%7D)
+# 角色扮演提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVDo8fJU3tib603lU4G0s%22%2C%22flow%22%3Atrue%7D%7D)
 可以生成任何角色的提示词
 
 # Prompt

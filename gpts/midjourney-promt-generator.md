@@ -1,6 +1,6 @@
 
-[![Midjourney Promt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7ifVpmQL3R6vh9k7fdE6c/1690431250886)]()
-# Midjourney Promt Generator 
+[![Midjourney Promt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7ifVpmQL3R6vh9k7fdE6c/1690431250886)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ifVpmQL3R6vh9k7fdE6c%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Promt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ifVpmQL3R6vh9k7fdE6c%22%2C%22flow%22%3Atrue%7D%7D)
 Your Midjourney pics will be a work of art.
 
 # Prompt

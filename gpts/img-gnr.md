@@ -1,6 +1,6 @@
 
-[![Image Generator v.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PnlGg0ijgYk--a-_E1EV9/1693421421848)]()
-# Image Generator v.1 
+[![Image Generator v.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PnlGg0ijgYk--a-_E1EV9/1693421421848)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PnlGg0ijgYk--a-_E1EV9%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Generator v.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PnlGg0ijgYk--a-_E1EV9%22%2C%22flow%22%3Atrue%7D%7D)
 Image Generator Pollinations
 
 • Canvas Size

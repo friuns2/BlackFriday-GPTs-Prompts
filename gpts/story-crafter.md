@@ -1,6 +1,6 @@
 
-[![StoryCrafter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# StoryCrafter 
+[![StoryCrafter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HCBW0N8Nj21zuAkZ7uaTw%22%2C%22flow%22%3Atrue%7D%7D)
+# StoryCrafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HCBW0N8Nj21zuAkZ7uaTw%22%2C%22flow%22%3Atrue%7D%7D)
 StoryCrafter is a powerful tool designed to help you craft an exceptional story and enhance your writing skills. Whether you need assistance with storytelling techniques, character creation, writing analysis, or worldbuilding, StoryCrafter has got you covered. With our storytelling techniques cards, you'll discover a wide range of effective techniques to elevate your storytelling. Create compelling character sheets with detailed information on their name, profession, physical description, personality, and background story. Our writing analysis feature provides gentle yet assertive feedback to improve your writing technique. Dive into the realm of worldbuilding and explore ideas for magic systems, places, and hidden structures. Let StoryCrafter unleash your creativity and help you create a masterpiece.
 
 # Prompt

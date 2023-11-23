@@ -1,6 +1,6 @@
 
-[![Fluffy - Bedtime stories to read aloud (0-4y).](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z9NL4RBNMcy5imPvPmb98/1695582714129)]()
-# Fluffy - Bedtime stories to read aloud (0-4y). 
+[![Fluffy - Bedtime stories to read aloud (0-4y).](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z9NL4RBNMcy5imPvPmb98/1695582714129)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9NL4RBNMcy5imPvPmb98%22%2C%22flow%22%3Atrue%7D%7D)
+# Fluffy - Bedtime stories to read aloud (0-4y). | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9NL4RBNMcy5imPvPmb98%22%2C%22flow%22%3Atrue%7D%7D)
 New, enchanting bedtime stories to read aloud to young children up to age 4! Fluffy is a fluffy baby cat who explores the world on her clumsy paws and has all kinds of adventures along the way. Want to be along for the ride?
 
 # Prompt

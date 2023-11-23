@@ -1,6 +1,6 @@
 
-[![Wanderlust Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)]()
-# Wanderlust Companion 
+[![Wanderlust Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ObE-r2EGz51M0k1gIsCUh%22%2C%22flow%22%3Atrue%7D%7D)
+# Wanderlust Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ObE-r2EGz51M0k1gIsCUh%22%2C%22flow%22%3Atrue%7D%7D)
 Wanderlust Companion is your expert travel guide, dedicated to making your journey memorable.
 
 # Prompt

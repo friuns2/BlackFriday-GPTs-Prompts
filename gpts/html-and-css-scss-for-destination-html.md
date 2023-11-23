@@ -1,6 +1,6 @@
 
-[![HTML and CSS » SCSS for destination HTML](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# HTML and CSS » SCSS for destination HTML 
+[![HTML and CSS » SCSS for destination HTML](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwEP3m2LfaoQee1UKL-1x%22%2C%22flow%22%3Atrue%7D%7D)
+# HTML and CSS » SCSS for destination HTML | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwEP3m2LfaoQee1UKL-1x%22%2C%22flow%22%3Atrue%7D%7D)
 Ovo bre stvarno nije normalno! Jebem li ti mater bre
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Outlining Blog Posts -  Comparing the pros and cons of products A and  B](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Outlining Blog Posts -  Comparing the pros and cons of products A and  B 
+[![Outlining Blog Posts -  Comparing the pros and cons of products A and  B](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjcBDCa20JCXghZez2w98%22%2C%22flow%22%3Atrue%7D%7D)
+# Outlining Blog Posts -  Comparing the pros and cons of products A and  B | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjcBDCa20JCXghZez2w98%22%2C%22flow%22%3Atrue%7D%7D)
 Creating an engaging outline for a blog post comparing the pros and cons of products A and B within a specific niche or industry. 
 
 # Prompt

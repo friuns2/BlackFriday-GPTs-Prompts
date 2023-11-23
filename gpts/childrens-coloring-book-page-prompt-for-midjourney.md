@@ -1,6 +1,6 @@
 
-[![Children's coloring book page prompt for MidJourney](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LpGeHQIG2Ei7BfBqZB1TE/1689174111500)]()
-# Children's coloring book page prompt for MidJourney 
+[![Children's coloring book page prompt for MidJourney](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LpGeHQIG2Ei7BfBqZB1TE/1689174111500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LpGeHQIG2Ei7BfBqZB1TE%22%2C%22flow%22%3Atrue%7D%7D)
+# Children's coloring book page prompt for MidJourney | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LpGeHQIG2Ei7BfBqZB1TE%22%2C%22flow%22%3Atrue%7D%7D)
 Works as expected. This is my first prompt-share here. 
 
 # Prompt

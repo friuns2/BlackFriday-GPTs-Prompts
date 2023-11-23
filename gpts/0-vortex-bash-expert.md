@@ -1,6 +1,6 @@
 
-[![0-vortex bash expert [with standards]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H_AZxhpULXOh0iOz06d3U/1691216579185)]()
-# 0-vortex bash expert [with standards] 
+[![0-vortex bash expert [with standards]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H_AZxhpULXOh0iOz06d3U/1691216579185)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_AZxhpULXOh0iOz06d3U%22%2C%22flow%22%3Atrue%7D%7D)
+# 0-vortex bash expert [with standards] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_AZxhpULXOh0iOz06d3U%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT code prompt to generate mediocre bash scripts, prompt was designed before code interpreter
 
 # Prompt

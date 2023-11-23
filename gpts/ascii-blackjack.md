@@ -1,6 +1,6 @@
 
-[![ASCII Blackjack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# ASCII Blackjack 
+[![ASCII Blackjack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KSOrMbwU-sCXVvgZc-OxB%22%2C%22flow%22%3Atrue%7D%7D)
+# ASCII Blackjack | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KSOrMbwU-sCXVvgZc-OxB%22%2C%22flow%22%3Atrue%7D%7D)
 Play a game with ASCII art cards and buttons. Dealer displays cards, player chooses their action. Let's start!
 
 # Prompt

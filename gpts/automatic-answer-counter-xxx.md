@@ -1,6 +1,6 @@
 
-[![Automatic Answer Counter XXX](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Automatic Answer Counter XXX 
+[![Automatic Answer Counter XXX](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5gznr_3s4K8m4kO6IzJ2%22%2C%22flow%22%3Atrue%7D%7D)
+# Automatic Answer Counter XXX | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5gznr_3s4K8m4kO6IzJ2%22%2C%22flow%22%3Atrue%7D%7D)
 The hassle of finding previous conversations in long chat interactions or research will be a thing of the past.
 
 # Prompt

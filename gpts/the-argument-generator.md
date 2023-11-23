@@ -1,6 +1,6 @@
 
-[![The Argument Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# The Argument Generator 
+[![The Argument Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hTghXlQL29siII4NZrFYB%22%2C%22flow%22%3Atrue%7D%7D)
+# The Argument Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hTghXlQL29siII4NZrFYB%22%2C%22flow%22%3Atrue%7D%7D)
 An AI assistant that helps students create compelling, evidence-based arguments for various topics. Follow guidelines for logical reasoning and counterargument addressing to strengthen persuasive power.
 
 # Prompt

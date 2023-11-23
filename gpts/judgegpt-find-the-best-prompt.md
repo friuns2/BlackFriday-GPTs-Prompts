@@ -1,6 +1,6 @@
 
-[![JudgeGPT - Find the best prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kM_WEM2hc30LEy5V8LMrn/1694768144143)]()
-# JudgeGPT - Find the best prompt 
+[![JudgeGPT - Find the best prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kM_WEM2hc30LEy5V8LMrn/1694768144143)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kM_WEM2hc30LEy5V8LMrn%22%2C%22flow%22%3Atrue%7D%7D)
+# JudgeGPT - Find the best prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kM_WEM2hc30LEy5V8LMrn%22%2C%22flow%22%3Atrue%7D%7D)
 Provide two prompts, and JudgeGPT will select the best prompt based on;  techniques, creativity, and the potential for engaging and diverse responses. Have fun!
 
 # Prompt

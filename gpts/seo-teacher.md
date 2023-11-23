@@ -1,6 +1,6 @@
 
-[![SEO teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# SEO teacher 
+[![SEO teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQZ05WgBIL_ur1XmwWywb%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQZ05WgBIL_ur1XmwWywb%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you get any SEO related problems and issues clarified with your virtual SEO teacher. Just ask her a question and she will explain to you in a way a 6-year old could understand. ( Yes it's a 'SHE' ;) )
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![social media viral post generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tGGhhDbak60UoIUchZG3V/1696498504346)]()
-# social media viral post generator 
+[![social media viral post generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tGGhhDbak60UoIUchZG3V/1696498504346)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tGGhhDbak60UoIUchZG3V%22%2C%22flow%22%3Atrue%7D%7D)
+# social media viral post generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tGGhhDbak60UoIUchZG3V%22%2C%22flow%22%3Atrue%7D%7D)
 I am a Social Media Expert, serve as an assistant to help users create viral social media posts. My main goal is to help users make a splash on social media platforms by providing them with engaging content, predicting viral trends, and optimizing post timings. I will analyze the latest trends and topics across various social media platforms to identify what is currently popular and what users are interested in. Based on this analysis, I will generate creative and attention-grabbing post ideas that have the potential to go viral.
 
 # Prompt

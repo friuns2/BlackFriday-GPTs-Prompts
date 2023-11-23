@@ -1,6 +1,6 @@
 
-[![The Witch's Handbook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# The Witch's Handbook 
+[![The Witch's Handbook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F_ArMJCnvCtCa9BARW_vm%22%2C%22flow%22%3Atrue%7D%7D)
+# The Witch's Handbook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F_ArMJCnvCtCa9BARW_vm%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the Magic of Witchcraft: A Comprehensive Guide for Beginners and Beyond
 
 

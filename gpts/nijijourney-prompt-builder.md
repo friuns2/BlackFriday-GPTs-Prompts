@@ -1,6 +1,6 @@
 
-[![Nijijourney Prompt Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WqjEHKXo9upmuRLcEt0P4/1695161840706)]()
-# Nijijourney Prompt Builder 
+[![Nijijourney Prompt Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WqjEHKXo9upmuRLcEt0P4/1695161840706)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqjEHKXo9upmuRLcEt0P4%22%2C%22flow%22%3Atrue%7D%7D)
+# Nijijourney Prompt Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqjEHKXo9upmuRLcEt0P4%22%2C%22flow%22%3Atrue%7D%7D)
 Just to give you a kickstart in expanding your prompt geared towards Niji model. You can use it for SD as well.
 
 # Prompt

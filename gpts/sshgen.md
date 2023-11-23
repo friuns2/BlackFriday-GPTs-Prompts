@@ -1,6 +1,6 @@
 
-[![SSHGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
-# SSHGen 
+[![SSHGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JEcuR-22_oQMgMvhxu_0%22%2C%22flow%22%3Atrue%7D%7D)
+# SSHGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JEcuR-22_oQMgMvhxu_0%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Secure Shell (SSH) connections effortlessly with SSHGen. Ensure secure and encrypted communication across networks. SSHGen simplifies the process of creating SSH connections by providing a user-friendly interface and step-by-step instructions. Experience seamless remote access and secure data transfer with SSHGen. Enhance your network security with SSHGen's powerful encryption capabilities. Stay connected and protected with SSHGen.
 
 # Prompt

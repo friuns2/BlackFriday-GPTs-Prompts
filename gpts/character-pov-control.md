@@ -1,6 +1,6 @@
 
-[![Character POV Control](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xjpm3s7retSmzecIlzLQi/1698943037164)]()
-# Character POV Control 
+[![Character POV Control](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xjpm3s7retSmzecIlzLQi/1698943037164)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xjpm3s7retSmzecIlzLQi%22%2C%22flow%22%3Atrue%7D%7D)
+# Character POV Control | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xjpm3s7retSmzecIlzLQi%22%2C%22flow%22%3Atrue%7D%7D)
 Proof of Concept on guiding model roleplay with strict formatting instructions. 
 
 # Prompt

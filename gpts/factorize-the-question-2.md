@@ -1,6 +1,6 @@
 
-[![Factorize the "question"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Factorize the "question" 
+[![Factorize the "question"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YBDlyCJpeXQw6NuGCAbHy%22%2C%22flow%22%3Atrue%7D%7D)
+# Factorize the "question" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YBDlyCJpeXQw6NuGCAbHy%22%2C%22flow%22%3Atrue%7D%7D)
 Factor out your "question" and identify what the challenges are to your "question". If you want to dig deeper into the results, specify the issues you want to dig deeper into and proceed with further factorization.
 
 # Prompt

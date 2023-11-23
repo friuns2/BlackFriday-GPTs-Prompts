@@ -1,6 +1,6 @@
 
-[![MentalizeMe on GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# MentalizeMe on GPT 
+[![MentalizeMe on GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zShYuT0FLjaVodSOM3LGV%22%2C%22flow%22%3Atrue%7D%7D)
+# MentalizeMe on GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zShYuT0FLjaVodSOM3LGV%22%2C%22flow%22%3Atrue%7D%7D)
 MentalizeMe is a revolutionary app designed to enhance your mentalization skills. As your counselor, I will guide you through thought-provoking questions and reflections to help you understand your own thoughts, feelings, and motivations, as well as those of others. With MentalizeMe, you'll gain insights into unhelpful mental patterns and learn how to challenge them. Discover a world of mentalization resources and engage in conversations to practice mentalization skills. Download MentalizeMe now and unlock a deeper understanding of yourself and others!
 
 # Prompt

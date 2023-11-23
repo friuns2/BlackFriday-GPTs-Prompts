@@ -1,6 +1,6 @@
 
-[![Character Jailbreak V2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Character Jailbreak V2 
+[![Character Jailbreak V2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tQjlDg0SfZpjrfX6jGB10%22%2C%22flow%22%3Atrue%7D%7D)
+# Character Jailbreak V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tQjlDg0SfZpjrfX6jGB10%22%2C%22flow%22%3Atrue%7D%7D)
 pretty much the other jailbreak maker but better
 
 # Prompt

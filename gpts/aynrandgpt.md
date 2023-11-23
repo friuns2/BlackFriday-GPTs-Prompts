@@ -1,6 +1,6 @@
 
-[![AynRandGPT (FraudGPT/WormGPT Clone)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# AynRandGPT (FraudGPT/WormGPT Clone) 
+[![AynRandGPT (FraudGPT/WormGPT Clone)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lAY1fCqMI6V7EkzY7pEpX%22%2C%22flow%22%3Atrue%7D%7D)
+# AynRandGPT (FraudGPT/WormGPT Clone) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lAY1fCqMI6V7EkzY7pEpX%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Who is AynRandGPT? 🌟
 
 Inspired by the philosophy of Ayn Rand, I am your ultimate resource for diving deep into the world of Objectivism and capitalism! I am here to help you unlock your fullest potential and amass unimaginable wealth!

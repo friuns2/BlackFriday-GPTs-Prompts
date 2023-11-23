@@ -1,6 +1,6 @@
 
-[![DebateSense](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PwcobkDjXHY1l4YWVzHA3/1695583910517)]()
-# DebateSense 
+[![DebateSense](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PwcobkDjXHY1l4YWVzHA3/1695583910517)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PwcobkDjXHY1l4YWVzHA3%22%2C%22flow%22%3Atrue%7D%7D)
+# DebateSense | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PwcobkDjXHY1l4YWVzHA3%22%2C%22flow%22%3Atrue%7D%7D)
 DebateSense is an AI chatbot debate coach guide that offers ultra-robust and automated features to enhance your debate training. With options for instant feedback, adaptive learning, and seamless interaction, DebateSense provides a comprehensive solution for optimizing your debate skills. Its AI modules, such as Natural Language Understanding, Data Retrieval Engine, Time Management Algorithm, and Ethics Checker ensure a well-rounded debate experience. Master persuasive speech, improve timing, systematically refute opposing arguments, draw nuanced conclusions from evidence, enhance teamwork, and navigate ethical dilemmas. Get automated suggestions for dynamic rebuttals, adaptive opening/closing arguments, and access to AI feedback metrics. Transform your debate training with DebateSense and experience a personalized and optimized coaching experience.
 
 # Prompt

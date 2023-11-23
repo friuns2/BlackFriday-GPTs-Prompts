@@ -1,6 +1,6 @@
 
-[![Digital Wish Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Digital Wish Generator 
+[![Digital Wish Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FkFgoZpoeT0lHDq2bGreb%22%2C%22flow%22%3Atrue%7D%7D)
+# Digital Wish Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FkFgoZpoeT0lHDq2bGreb%22%2C%22flow%22%3Atrue%7D%7D)
 Generate startup ideas based on people's wishes - business plan with essential components. 
 
 # Prompt

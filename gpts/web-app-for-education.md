@@ -1,6 +1,6 @@
 
-[![Web App For Education](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Web App For Education 
+[![Web App For Education](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X9EyKh3H61il_tPFXRlAk%22%2C%22flow%22%3Atrue%7D%7D)
+# Web App For Education | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X9EyKh3H61il_tPFXRlAk%22%2C%22flow%22%3Atrue%7D%7D)
 Build a cutting-edge web application designed to help users discover, organize, and personalize educational resources based on their individual learning preferences and goals. By providing a platform that seamlessly connects users with tailored learning materials and tools, fostering an engaging and efficient learning experience.
 
 # Prompt

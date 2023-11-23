@@ -1,6 +1,6 @@
 
-[![PowerShell Code Analyzator (PSCA), v4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EYd0Ob_t9TEmJUFgUWBeu/1689890665231)]()
-# PowerShell Code Analyzator (PSCA), v4 
+[![PowerShell Code Analyzator (PSCA), v4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EYd0Ob_t9TEmJUFgUWBeu/1689890665231)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EYd0Ob_t9TEmJUFgUWBeu%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerShell Code Analyzator (PSCA), v4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EYd0Ob_t9TEmJUFgUWBeu%22%2C%22flow%22%3Atrue%7D%7D)
 PsCA - analyze & improve PowerShell code following best practices like modularity, error handling, resource optimization, coding standards, input validation, and more. Let's enhance maintainability and efficiency! 🚀
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Classroom distraction level advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Classroom distraction level advisor  
+[![Classroom distraction level advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lYlX_ZmJfTT19t-hFbLa1%22%2C%22flow%22%3Atrue%7D%7D)
+# Classroom distraction level advisor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lYlX_ZmJfTT19t-hFbLa1%22%2C%22flow%22%3Atrue%7D%7D)
 provide suggestions and techniques for managing classroom distraction levels
 
 # Prompt

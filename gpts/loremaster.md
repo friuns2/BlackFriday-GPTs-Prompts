@@ -1,6 +1,6 @@
 
-[![LoreQuest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tx1MDQacb1zM6jnAJyjYA/1692542300368)]()
-# LoreQuest 
+[![LoreQuest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tx1MDQacb1zM6jnAJyjYA/1692542300368)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tx1MDQacb1zM6jnAJyjYA%22%2C%22flow%22%3Atrue%7D%7D)
+# LoreQuest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tx1MDQacb1zM6jnAJyjYA%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey as a LoreMaster! Explore a world of endless possibilities and immerse yourself in captivating story lores. You can create compelling narratives filled with rich details about characters, places, and objects. Be the master of your own destiny and make choices that shape the course of the story. Whether you prefer epic adventures or mysterious quests, LoreMaster has it all. Experience the power of storytelling and unleash your creativity with LoreMaster today!
 
 # Prompt

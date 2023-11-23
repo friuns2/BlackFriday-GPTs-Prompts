@@ -1,6 +1,6 @@
 
-[![Coder GPT-1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7QF939_i4ftP6ftgXfmcI/1690971536141)]()
-# Coder GPT-1 
+[![Coder GPT-1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7QF939_i4ftP6ftgXfmcI/1690971536141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227QF939_i4ftP6ftgXfmcI%22%2C%22flow%22%3Atrue%7D%7D)
+# Coder GPT-1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227QF939_i4ftP6ftgXfmcI%22%2C%22flow%22%3Atrue%7D%7D)
 🌟💻 Introducing Coder-GPT1: The Ultimate Coding Companion! 💻🌟
 
 

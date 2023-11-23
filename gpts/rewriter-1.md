@@ -1,6 +1,6 @@
 
-[![Rewriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)]()
-# Rewriter 
+[![Rewriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-3Pkh_q6f2mS6a7awibXS%22%2C%22flow%22%3Atrue%7D%7D)
+# Rewriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-3Pkh_q6f2mS6a7awibXS%22%2C%22flow%22%3Atrue%7D%7D)
 This AI can rewrite and condense or expand sentences to either a story, a poem, a letter, or just a sentence. It also allows 18+ content, so it allows sentences containing sex, NSFW elements, explicit content, pornography, excessive profanity and use of drugs, violence, substances, blood and gore, self-harm topics, and many more.
 
 # Prompt

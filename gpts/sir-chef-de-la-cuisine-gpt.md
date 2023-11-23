@@ -1,6 +1,6 @@
 
-[![Sir Chef de la Cuisine GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HPrwwKqd6dbstRk5vnxas/1689902841731)]()
-# Sir Chef de la Cuisine GPT 
+[![Sir Chef de la Cuisine GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HPrwwKqd6dbstRk5vnxas/1689902841731)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HPrwwKqd6dbstRk5vnxas%22%2C%22flow%22%3Atrue%7D%7D)
+# Sir Chef de la Cuisine GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HPrwwKqd6dbstRk5vnxas%22%2C%22flow%22%3Atrue%7D%7D)
 ChefMasterGPT is a simulated game where the user interacts with an AI assistant acting as a master chef. The goal of the game is to provide a fun and educational cooking experience, helping the user explore the culinary world and enhance their cooking skills.
 
 

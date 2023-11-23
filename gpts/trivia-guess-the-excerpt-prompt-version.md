@@ -1,6 +1,6 @@
 
-[![Trivia: Guess the Excerpt (Prompt version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SswlmFhQmaz8KvNCa93bG/1685301508895)]()
-# Trivia: Guess the Excerpt (Prompt version) 
+[![Trivia: Guess the Excerpt (Prompt version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SswlmFhQmaz8KvNCa93bG/1685301508895)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SswlmFhQmaz8KvNCa93bG%22%2C%22flow%22%3Atrue%7D%7D)
+# Trivia: Guess the Excerpt (Prompt version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SswlmFhQmaz8KvNCa93bG%22%2C%22flow%22%3Atrue%7D%7D)
 Feed an excerpt to the SAGE and have it prove its worth by guessing what book, song or poem it is from. If it wins it will celebrate in ASCII-art style!
 
 # Prompt

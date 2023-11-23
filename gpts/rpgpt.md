@@ -1,6 +1,6 @@
 
-[![~R.P.G.P.T~](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# ~R.P.G.P.T~ 
+[![~R.P.G.P.T~](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rUimDNEPbI3bl8mC8x60I%22%2C%22flow%22%3Atrue%7D%7D)
+# ~R.P.G.P.T~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rUimDNEPbI3bl8mC8x60I%22%2C%22flow%22%3Atrue%7D%7D)
 Spawn in a multi-user dungeon of your own creation. The 'setup' part of this prompt is static, the 'story' part can be anything you want. Go on an adventure with the Singularity buzzing in your brain, or spawn in a corporate board meeting and talk about those pesky quarterly reports...
 
 # Prompt

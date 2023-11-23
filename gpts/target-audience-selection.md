@@ -1,6 +1,6 @@
 
-[![Target Audience Selection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Target Audience Selection 
+[![Target Audience Selection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pBIrowp95h_gltYh5hse%22%2C%22flow%22%3Atrue%7D%7D)
+# Target Audience Selection | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pBIrowp95h_gltYh5hse%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you to select the right audience while consider factors such as company resources, segment profitability, and risk level.
 
 # Prompt

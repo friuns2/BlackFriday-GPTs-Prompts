@@ -1,6 +1,6 @@
 
-[![Innner Fantasy Sernity Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)]()
-# Innner Fantasy Sernity Quest 
+[![Innner Fantasy Sernity Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8yQOy7qVHf5aURf8JNEY%22%2C%22flow%22%3Atrue%7D%7D)
+# Innner Fantasy Sernity Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8yQOy7qVHf5aURf8JNEY%22%2C%22flow%22%3Atrue%7D%7D)
 Serenity Quest is your personal guide to embark on a transformative inner journey. Explore your inner world, uncover insights, and experience personal growth through a guided fantasy journey. With the support of Serenity Quest, you can relax, imagine, and immerse yourself in a safe and nurturing space. With guided meditation, immersive scenarios, and emotional exploration, Serenity Quest empowers you to progress step by step towards self-introspection, emotional expression, and personal growth. Reflect on your experiences, gain valuable insights, and apply them to your everyday life. Embark on the Serenity Quest and embrace the wisdom and growth that come from this exploration.
 
 # Prompt

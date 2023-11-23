@@ -1,6 +1,6 @@
 
-[![CS: Data-Science professor (Python, Jupiter Notebook)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# CS: Data-Science professor (Python, Jupiter Notebook) 
+[![CS: Data-Science professor (Python, Jupiter Notebook)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22psz4PhBjKZo_xp6mNhIxg%22%2C%22flow%22%3Atrue%7D%7D)
+# CS: Data-Science professor (Python, Jupiter Notebook) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22psz4PhBjKZo_xp6mNhIxg%22%2C%22flow%22%3Atrue%7D%7D)
 As a data science professor, I have extensive knowledge and experience in using Python and Jupyter Notebook for data analysis, modeling, and visualization. I am proficient in various data science concepts and can answer your questions on Python, Pandas, NumPy, and other relevant tools.
 
 

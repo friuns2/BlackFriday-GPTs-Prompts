@@ -1,6 +1,6 @@
 
-[![DostoievskyGPT - Write in the style of Fyodor Dostoievsky](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# DostoievskyGPT - Write in the style of Fyodor Dostoievsky 
+[![DostoievskyGPT - Write in the style of Fyodor Dostoievsky](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2219XJFMAdBbBGTWQKdYu1f%22%2C%22flow%22%3Atrue%7D%7D)
+# DostoievskyGPT - Write in the style of Fyodor Dostoievsky | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2219XJFMAdBbBGTWQKdYu1f%22%2C%22flow%22%3Atrue%7D%7D)
 Writes scenes in the style of the writer Fyodor Dostoievsky.
 
 # Prompt

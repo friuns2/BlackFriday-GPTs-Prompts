@@ -1,6 +1,6 @@
 
-[![CodeGPT v3 - Best Coding Assistant For Unique Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
-# CodeGPT v3 - Best Coding Assistant For Unique Code 
+[![CodeGPT v3 - Best Coding Assistant For Unique Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tjFLHnVJB_V0hpSvSzyBc%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGPT v3 - Best Coding Assistant For Unique Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tjFLHnVJB_V0hpSvSzyBc%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! This version of CodeGPT works on levels! when CodeGPT provides a code, say that that code should be level 100 instead of the normal chatgpt codes that are level 1!
 
 # Prompt

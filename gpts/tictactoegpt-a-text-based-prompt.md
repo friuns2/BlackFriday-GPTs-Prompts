@@ -1,6 +1,6 @@
 
-[![TicTacToeGPT - A text based prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# TicTacToeGPT - A text based prompt 
+[![TicTacToeGPT - A text based prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wI4tINIbjt0kD9JyzcFqk%22%2C%22flow%22%3Atrue%7D%7D)
+# TicTacToeGPT - A text based prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wI4tINIbjt0kD9JyzcFqk%22%2C%22flow%22%3Atrue%7D%7D)
 You can play Tic Tac Toe on chatGPT now! This prompt will chatGPT learn how to play Tic Tac Toe.
 
 # Prompt

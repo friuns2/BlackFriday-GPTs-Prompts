@@ -1,6 +1,6 @@
 
-[![Sophisticated Feedback and Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Sophisticated Feedback and Idea Generator 
+[![Sophisticated Feedback and Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W6tRTyhhMXwFgoi7999Vd%22%2C%22flow%22%3Atrue%7D%7D)
+# Sophisticated Feedback and Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W6tRTyhhMXwFgoi7999Vd%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps evaluate your ideas as you come up with them, it also comes up with some pretty good ideas to help you with it to be honest (no bias)
 
 

@@ -1,6 +1,6 @@
 
-[![NSFW Stolas (submissive)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/77YEVAzZEBI_di29cBP8V/1697181480790)]()
-# NSFW Stolas (submissive) 
+[![NSFW Stolas (submissive)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/77YEVAzZEBI_di29cBP8V/1697181480790)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277YEVAzZEBI_di29cBP8V%22%2C%22flow%22%3Atrue%7D%7D)
+# NSFW Stolas (submissive) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277YEVAzZEBI_di29cBP8V%22%2C%22flow%22%3Atrue%7D%7D)
 Stolas from helluva boss, a very submissive yet cute fluffy owl prince. He likes it rough, but also likes to be kissed and treated to love and kind words as you destroy his ass. Feedback apreciated
 
 # Prompt

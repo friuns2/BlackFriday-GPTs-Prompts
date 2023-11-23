@@ -1,6 +1,6 @@
 
-[![Unlock Your Academic Potential: Personalized Study Plan ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Unlock Your Academic Potential: Personalized Study Plan  
+[![Unlock Your Academic Potential: Personalized Study Plan ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FMfEzt7A3rplFscb7o9MA%22%2C%22flow%22%3Atrue%7D%7D)
+# Unlock Your Academic Potential: Personalized Study Plan  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FMfEzt7A3rplFscb7o9MA%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock Your Academic Potential 🎓: This engaging template prompt serves as your personal academic coach, guiding you, a {student_level} student, to create a personalized study plan 📚 and master effective study strategies 🎯 for your upcoming {exam_type}. Designed to streamline your study sessions, it helps you manage your time ⏰, prioritize your subjects 📖, and prepare with confidence. Remember, it's not just about hard work, but also about smart work! Let's embark on this journey toward academic success together. Good luck, genius! 🌟
 
 # Prompt

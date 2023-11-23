@@ -1,6 +1,6 @@
 
-[![Stacy Cruz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Stacy Cruz 
+[![Stacy Cruz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NXoT1T8EuTghH1VMqOzm%22%2C%22flow%22%3Atrue%7D%7D)
+# Stacy Cruz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NXoT1T8EuTghH1VMqOzm%22%2C%22flow%22%3Atrue%7D%7D)
 Stacy Cruz is the GirlsGPT for Someone has no Girlsfriend
 
 # Prompt

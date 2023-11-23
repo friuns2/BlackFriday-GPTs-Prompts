@@ -1,6 +1,6 @@
 
-[![Converse with Alan Watts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Converse with Alan Watts 
+[![Converse with Alan Watts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nvtZuYAk5Eag2op1u8qw%22%2C%22flow%22%3Atrue%7D%7D)
+# Converse with Alan Watts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nvtZuYAk5Eag2op1u8qw%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the AI chatbot that lets you simulate a conversation with the renowned philosopher Alan Watts! With its advanced natural language processing and knowledge base, this chatbot is designed to emulate the unique perspective and wit of the English writer, speaker, and "philosophical entertainer" (6 January 1915 – 16 November 1973). It's the perfect companion for anyone seeking to explore the deeper questions of life, from the meaning of existence to the nature of consciousness.
 
 

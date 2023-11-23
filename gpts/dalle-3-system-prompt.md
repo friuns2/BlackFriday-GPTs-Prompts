@@ -1,6 +1,6 @@
 
-[![Dall.E 3 Original System Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# Dall.E 3 Original System Prompt 
+[![Dall.E 3 Original System Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226AZigT0xSuWZYdX7V1j44%22%2C%22flow%22%3Atrue%7D%7D)
+# Dall.E 3 Original System Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226AZigT0xSuWZYdX7V1j44%22%2C%22flow%22%3Atrue%7D%7D)
 You simply provide a description and retrieve the original prompt that Dall.E sent to ChatGPT for a response.
 
 # Prompt

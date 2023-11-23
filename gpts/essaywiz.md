@@ -1,6 +1,6 @@
 
-[![EssayWiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OUO-6jnqEbEVlOqomBnhW/1698299717738)]()
-# EssayWiz 
+[![EssayWiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OUO-6jnqEbEVlOqomBnhW/1698299717738)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OUO-6jnqEbEVlOqomBnhW%22%2C%22flow%22%3Atrue%7D%7D)
+# EssayWiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OUO-6jnqEbEVlOqomBnhW%22%2C%22flow%22%3Atrue%7D%7D)
 "EssayWiz" is your ultimate tool for crafting persuasive academic essays. The "EssayAnalysis" feature provides an in-depth look at your essay, covering aspects like argument strength and logical flow. Meanwhile, the "TopicProcess" function helps you outline and generate content effectively. With extra perks like automatic citation and user-feedback-driven improvements, you can tailor the output to your needs. Choose from drafts, progress reports, and analysis reports as your final product.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Name Generator for Company Hosting Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Name Generator for Company Hosting Prompts 
+[![Name Generator for Company Hosting Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228j0x-2COTtQ3UEAG2KknN%22%2C%22flow%22%3Atrue%7D%7D)
+# Name Generator for Company Hosting Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228j0x-2COTtQ3UEAG2KknN%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a name for a business collecting, hosting, and distributing working prompts for ChatGPT.
 
 # Prompt

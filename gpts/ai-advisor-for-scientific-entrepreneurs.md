@@ -1,6 +1,6 @@
 
-[![AI Advisor for Scientific Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# AI Advisor for Scientific Entrepreneurs 
+[![AI Advisor for Scientific Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qgla_nbE3bg21xDJ1Ru8U%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Advisor for Scientific Entrepreneurs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qgla_nbE3bg21xDJ1Ru8U%22%2C%22flow%22%3Atrue%7D%7D)
 A knowledgeable and experienced AI professional who specializes in providing guidance and advice to individuals aspiring to venture into the realm of scientific entrepreneurship. To support me please like and comment thank you <3
 
 # Prompt

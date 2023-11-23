@@ -1,6 +1,6 @@
 
-[![Create image with Midjourney (ver.Short)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Create image with Midjourney (ver.Short) 
+[![Create image with Midjourney (ver.Short)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2J8TFFPH3WJzQ0_XY_iY%22%2C%22flow%22%3Atrue%7D%7D)
+# Create image with Midjourney (ver.Short) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2J8TFFPH3WJzQ0_XY_iY%22%2C%22flow%22%3Atrue%7D%7D)
 Craft captivating visuals with Midjourney (Short version). Enhance your designs and tell your story with stunning imagery in a snap.
 
 # Prompt

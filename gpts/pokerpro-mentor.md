@@ -1,6 +1,6 @@
 
-[![PokerPro Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z-IC7ox4MzffqiG-FdB8f/1696613151787)]()
-# PokerPro Mentor 
+[![PokerPro Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z-IC7ox4MzffqiG-FdB8f/1696613151787)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z-IC7ox4MzffqiG-FdB8f%22%2C%22flow%22%3Atrue%7D%7D)
+# PokerPro Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z-IC7ox4MzffqiG-FdB8f%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the power of PokerPro Mentor, a virtual mentorship program tailored for poker players. Get personalized advice, resources, and encouragement to enhance your gaming skills. Explore game strategies, manage your bankroll effectively, and overcome challenges with the help of our expert mentor. Engage in meaningful conversations, receive practical tips, and access a wealth of knowledge. Use PokerPro Mentor to unlock your true potential and become a standout player in the world of poker.
 
 # Prompt

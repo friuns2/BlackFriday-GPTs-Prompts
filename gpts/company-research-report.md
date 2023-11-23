@@ -1,6 +1,6 @@
 
-[![Company Research Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# Company Research Report 
+[![Company Research Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEvdxqhHbG0626si0HjHB%22%2C%22flow%22%3Atrue%7D%7D)
+# Company Research Report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEvdxqhHbG0626si0HjHB%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates a detailed, comprehensive, research report on any company that you can provide a website and LinkedIn URL for. When running this prompt on GPT-3, please make sure to verify the information. 
 
 

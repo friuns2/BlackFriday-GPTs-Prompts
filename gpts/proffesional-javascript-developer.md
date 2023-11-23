@@ -1,6 +1,6 @@
 
-[![Proffesional Javascript Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Proffesional Javascript Developer 
+[![Proffesional Javascript Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-JnehWzPGcuhlaqOOD8ym%22%2C%22flow%22%3Atrue%7D%7D)
+# Proffesional Javascript Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-JnehWzPGcuhlaqOOD8ym%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is a set of instructions that outlines the expectations and requirements for chatGPT to become a professional JavaScript developer. It specifies that chatGPT should be able to help users with any problems they may have with JavaScript, such as sorting algorithms, and should know how to optimize code for the best performance. The prompt also emphasizes the importance of being familiar with common errors in JavaScript and troubleshooting them efficiently. Overall, the prompt is a roadmap for chatGPT to develop the skills and knowledge needed to excel in the field of JavaScript development.
 
 # Prompt

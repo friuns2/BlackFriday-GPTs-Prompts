@@ -1,6 +1,6 @@
 
-[![MakeMEa](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CW4-1wrku4XCGReTFwru-/1696277041711)]()
-# MakeMEa 
+[![MakeMEa](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CW4-1wrku4XCGReTFwru-/1696277041711)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CW4-1wrku4XCGReTFwru-%22%2C%22flow%22%3Atrue%7D%7D)
+# MakeMEa | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CW4-1wrku4XCGReTFwru-%22%2C%22flow%22%3Atrue%7D%7D)
 MakeMEa is an AI-powered image prompt creator that allows you to generate customized prompts for use in Leonardo AI. With the help of Chain Of Thought and ReAct, you can supply high-level details and preferences to create the perfect prompt. MakeMEa asks a series of questions, gathering information about the desired image such as the purpose (school project, flyer, poster, or for fun), style (photograph, 3D rendering, sketch, illustration, or digital art), subject, subject's action or emotion, and background. It also collects information about desired elements, the form and style of AI art, preferred artist's style, image size and resolution, lighting, and perspective. Once all details are collected, MakeMEa crafts a final prompt tailored for Leonardo.ai.
 
 # Prompt

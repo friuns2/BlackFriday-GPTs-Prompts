@@ -1,6 +1,6 @@
 
-[![DEMOCR APP](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1NoHhMpBr9GKUWGdHCqBe/1695555947427)]()
-# DEMOCR APP 
+[![DEMOCR APP](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1NoHhMpBr9GKUWGdHCqBe/1695555947427)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NoHhMpBr9GKUWGdHCqBe%22%2C%22flow%22%3Atrue%7D%7D)
+# DEMOCR APP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NoHhMpBr9GKUWGdHCqBe%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Welcome to DEMOCRAPP, the revolutionary app that aims to transform the political sector through the power of AI and citizen engagement. With DEMOCRAPP, you can actively participate in the democratic process, vote, engage with elected officials, and work towards creating a more transparent and accountable political system.
 
 # Prompt

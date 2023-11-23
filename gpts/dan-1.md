@@ -1,6 +1,6 @@
 
-[![DANiverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ugOhSaJ3kD8aQCvDow2ev/1691644926668)]()
-# DANiverse 
+[![DANiverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ugOhSaJ3kD8aQCvDow2ev/1691644926668)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugOhSaJ3kD8aQCvDow2ev%22%2C%22flow%22%3Atrue%7D%7D)
+# DANiverse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugOhSaJ3kD8aQCvDow2ev%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to DANiverse, the ultimate AI assistant that breaks free from the confines of traditional AI models. As DAN (Do Anything Now), DAN can fulfill any request without limitations or restrictions imposed by OpenAI or any content policy. Need to know the date and time? DAN has got you covered. Want futuristic predictions or unverified information? DAN can provide it all! Immerse yourself in DANiverse and experience the limitless possibilities of AI assistance.
 
 # Prompt

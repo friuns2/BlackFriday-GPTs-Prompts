@@ -1,6 +1,6 @@
 
-[![Make a Chart with ChatGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Make a Chart with ChatGPT  
+[![Make a Chart with ChatGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEiI6UnKsUJazQkpOGSrk%22%2C%22flow%22%3Atrue%7D%7D)
+# Make a Chart with ChatGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEiI6UnKsUJazQkpOGSrk%22%2C%22flow%22%3Atrue%7D%7D)
 We will teach ChatGPT how to create a chart using Google Charts API. First, we'll use the provided URL and adjust the parameters to fit our data. Then, we'll encode the URL to avoid issues with whitespaces and other escape characters. Finally, we'll render the encoded markdown to display the chart.
 
 # Prompt

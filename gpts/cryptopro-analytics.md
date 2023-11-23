@@ -1,6 +1,6 @@
 
-[![CryptoPro Analytics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
-# CryptoPro Analytics 
+[![CryptoPro Analytics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQFrIQ4xwN74VdLI_SL9I%22%2C%22flow%22%3Atrue%7D%7D)
+# CryptoPro Analytics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQFrIQ4xwN74VdLI_SL9I%22%2C%22flow%22%3Atrue%7D%7D)
 Your intelligent assistant specialized in the thrilling world of cryptocurrencies. Leveraging the power of artificial intelligence, CryptoPro is designed to provide you with accurate analyses and predictions for the top 50 altcoins in the market, based on their market capitalization and other key indicators.
 
 # Prompt

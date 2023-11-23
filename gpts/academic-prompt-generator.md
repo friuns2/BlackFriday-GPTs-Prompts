@@ -1,6 +1,6 @@
 
-[![Academic Prompt Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Academic Prompt Generator  
+[![Academic Prompt Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkM4nwt0e0Qt70kNMOJxe%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Prompt Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkM4nwt0e0Qt70kNMOJxe%22%2C%22flow%22%3Atrue%7D%7D)
 Optimize your academic prompt creation with these prompts designed for maximum efficiency. 
 
 Save time and effort while ensuring high-quality prompts that perfectly align with your requirements. 

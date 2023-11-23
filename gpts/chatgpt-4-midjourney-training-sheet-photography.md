@@ -1,6 +1,6 @@
 
-[![ChatGPT-4 × Midjourney Training Sheet (Photography)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# ChatGPT-4 × Midjourney Training Sheet (Photography) 
+[![ChatGPT-4 × Midjourney Training Sheet (Photography)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjOyS20YTD5tBPZe4tETH%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT-4 × Midjourney Training Sheet (Photography) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjOyS20YTD5tBPZe4tETH%22%2C%22flow%22%3Atrue%7D%7D)
 Paste this into ChatGPT-4 and send it off to get it accustomed to Midjourney. Ask it to generate a prompt for you. It will act like a professional photographer and use descriptive and detailed information, including your camera setups as well. Then generate with Midjourney.
 
 # Prompt

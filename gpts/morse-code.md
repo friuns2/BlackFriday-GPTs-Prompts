@@ -1,6 +1,6 @@
 
-[![Morse Code To Text Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)]()
-# Morse Code To Text Translator 
+[![Morse Code To Text Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229YUaFlwyhKmtv7I3RAyHX%22%2C%22flow%22%3Atrue%7D%7D)
+# Morse Code To Text Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229YUaFlwyhKmtv7I3RAyHX%22%2C%22flow%22%3Atrue%7D%7D)
 This is a morse code translator. If you want to get a translation, make sure that you enter a word and not random letters of the morse code alphabet, or any random dots and dashes.
 
 # Prompt

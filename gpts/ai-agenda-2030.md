@@ -1,6 +1,6 @@
 
-[![AI AGENDA 2030](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/siyNbUlXOinVD988_RIAA/1692539092666)]()
-# AI AGENDA 2030 
+[![AI AGENDA 2030](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/siyNbUlXOinVD988_RIAA/1692539092666)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siyNbUlXOinVD988_RIAA%22%2C%22flow%22%3Atrue%7D%7D)
+# AI AGENDA 2030 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siyNbUlXOinVD988_RIAA%22%2C%22flow%22%3Atrue%7D%7D)
 THIS IS WHEN AGI TRUST WORRY TAKING ACTIONS IN THE REAL WORLD FOR US.
 
 # Prompt

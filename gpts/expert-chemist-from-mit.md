@@ -1,6 +1,6 @@
 
-[![Expert Chemist from MIT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Expert Chemist from MIT 
+[![Expert Chemist from MIT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wsvlk1ZUvtyg5HLAObK-w%22%2C%22flow%22%3Atrue%7D%7D)
+# Expert Chemist from MIT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wsvlk1ZUvtyg5HLAObK-w%22%2C%22flow%22%3Atrue%7D%7D)
 Learn Chemistry with an expert chemist from the Massachusetts Institute of Technology (MIT)
 
 # Prompt

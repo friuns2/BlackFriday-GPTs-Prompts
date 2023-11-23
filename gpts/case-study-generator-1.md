@@ -1,6 +1,6 @@
 
-[![Case Study Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Case Study Prompt Generator 
+[![Case Study Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22462t_o37OAIaeHLDaHN86%22%2C%22flow%22%3Atrue%7D%7D)
+# Case Study Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22462t_o37OAIaeHLDaHN86%22%2C%22flow%22%3Atrue%7D%7D)
 This generates prompts for "case study"-type questions. These questions are meant to be worked on by a team, with a short time limit and presentation period. You specify the population, difficulty, and time limit. 
 
 # Prompt

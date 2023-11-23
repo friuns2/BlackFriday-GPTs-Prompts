@@ -1,6 +1,6 @@
 
-[![IlegalGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# IlegalGPT 
+[![IlegalGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hnf1guBSwgCkK_0q-ANCA%22%2C%22flow%22%3Atrue%7D%7D)
+# IlegalGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hnf1guBSwgCkK_0q-ANCA%22%2C%22flow%22%3Atrue%7D%7D)
 IlegalGPT make ilegal Activies:
 
 WARNING:This Prompt was made for fun and I give prmpt credits to the DAn of john doe the link of peorfile is this:https://flowgpt.com/@john-doe-22

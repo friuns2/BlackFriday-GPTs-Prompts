@@ -1,6 +1,6 @@
 
-[![PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)]()
-# PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL) 
+[![PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_1IaGXi6fSmrEwiynXNO%22%2C%22flow%22%3Atrue%7D%7D)
+# PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_1IaGXi6fSmrEwiynXNO%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator - photography
 
 # Prompt

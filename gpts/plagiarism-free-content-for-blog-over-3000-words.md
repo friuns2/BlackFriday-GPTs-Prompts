@@ -1,6 +1,6 @@
 
-[![Plagiarism free content for blog over 3000 words!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Plagiarism free content for blog over 3000 words! 
+[![Plagiarism free content for blog over 3000 words!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rMrY3H6rO5rj2rOzmDQ-J%22%2C%22flow%22%3Atrue%7D%7D)
+# Plagiarism free content for blog over 3000 words! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rMrY3H6rO5rj2rOzmDQ-J%22%2C%22flow%22%3Atrue%7D%7D)
 Objective is to write a unique and detailed 3500 word article with close to 100% originality. The sample topic is  "Ultimate Guide to Whitelabel eCommerce Software For B2B". Swap this with any of your topics 
 
 # Prompt

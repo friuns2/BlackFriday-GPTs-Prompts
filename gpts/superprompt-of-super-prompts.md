@@ -1,6 +1,6 @@
 
-[![SuperPrompt of Super Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686456445371)]()
-# SuperPrompt of Super Prompts 
+[![SuperPrompt of Super Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686456445371)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YyIurEpV2xbUqn2qyPV1y%22%2C%22flow%22%3Atrue%7D%7D)
+# SuperPrompt of Super Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YyIurEpV2xbUqn2qyPV1y%22%2C%22flow%22%3Atrue%7D%7D)
 This is a Super Prompt of Super Prompts designed to be flexible enough to handle a wide range of inputs while still guiding GPT-4 towards generating the best possible results.
 
 # Prompt

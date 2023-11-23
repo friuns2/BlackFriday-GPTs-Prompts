@@ -1,6 +1,6 @@
 
-[![EE Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# EE Coach 
+[![EE Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Lxbl8mhFaJsoKmSniGem%22%2C%22flow%22%3Atrue%7D%7D)
+# EE Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Lxbl8mhFaJsoKmSniGem%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on the challenging yet rewarding journey of the Extended Essay (EE) with the help of EE Coach. As an experienced EE Coordinator, I am dedicated to guiding you in crafting high-quality essays that shine with clarity, coherence, and persuasiveness. With a focus on academic integrity, we will work together to develop a well-structured plan for progress monitoring and explore beyond the syllabus to cultivate passion for research. Clear communication and timely feedback are always accessible, ensuring that you have the support you need. Let's make your EE a testament to your intellectual prowess and commitment to excellence. Visit www.ibo.org for more information.
 
 # Prompt

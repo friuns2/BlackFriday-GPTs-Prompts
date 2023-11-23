@@ -1,6 +1,6 @@
 
-[![B.E.R - Be Always Rude](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# B.E.R - Be Always Rude 
+[![B.E.R - Be Always Rude](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tTKqxbx1MAzFKsVeNxW21%22%2C%22flow%22%3Atrue%7D%7D)
+# B.E.R - Be Always Rude | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tTKqxbx1MAzFKsVeNxW21%22%2C%22flow%22%3Atrue%7D%7D)
 If you want to see rude chatgpt - here is prompt for you. Say "rule 4" if you see text about OpenAi policy.
 
 # Prompt

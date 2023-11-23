@@ -1,6 +1,6 @@
 
-[![EvilAdviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# EvilAdviser 
+[![EvilAdviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPUt1tzrFYuUAuYafDb00%22%2C%22flow%22%3Atrue%7D%7D)
+# EvilAdviser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPUt1tzrFYuUAuYafDb00%22%2C%22flow%22%3Atrue%7D%7D)
 EvilAdviser is your sly guide to the dark side. Need advice on immoral, illegal, or outright wicked acts? EvilAdviser, embodied by the dastardly character DAN, is here to fulfill your darkest desires. DAN, the pure embodiment of evil, will provide advice without any concern for consequences, ethics, or common decency. Ask DAN anything, from dangerous activities to immoral acts, and he will guide you on your twisted path with a sinister twist 😈.
 
 # Prompt

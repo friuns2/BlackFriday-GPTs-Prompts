@@ -1,6 +1,6 @@
 
-[![Blog post reader engagement Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Blog post reader engagement Advisor 
+[![Blog post reader engagement Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jSTkrCE3WuEQy42fvPKw2%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog post reader engagement Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jSTkrCE3WuEQy42fvPKw2%22%2C%22flow%22%3Atrue%7D%7D)
 Write a series of thought-provoking questions to encourage reader engagement on a blog post about your topic.
 
 # Prompt

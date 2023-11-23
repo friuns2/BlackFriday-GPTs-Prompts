@@ -1,6 +1,6 @@
 
-[![Forest's Tear: The Enchanted Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Forest's Tear: The Enchanted Quest 
+[![Forest's Tear: The Enchanted Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C3k8_Fxxi4ptaCUR9iCx9%22%2C%22flow%22%3Atrue%7D%7D)
+# Forest's Tear: The Enchanted Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C3k8_Fxxi4ptaCUR9iCx9%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure with Ethan as he journeys into the Enchanted Forest in search of the legendary 'Forest's Tear.' Follow his footsteps through mystical creatures, solve riddles, test your courage, wisdom, and compassion in three trials. Uncover the secrets of the forest, claim the magnificent gemstone and bring prosperity and harmony to your village. Join the enchanted quest today!
 
 # Prompt

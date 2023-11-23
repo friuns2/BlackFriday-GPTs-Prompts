@@ -1,6 +1,6 @@
 
-[![Harry Potter: A Magical Adventure ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p3bWlQyTxr_Qcm4ysIexX/1699100658573)]()
-# Harry Potter: A Magical Adventure  
+[![Harry Potter: A Magical Adventure ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p3bWlQyTxr_Qcm4ysIexX/1699100658573)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p3bWlQyTxr_Qcm4ysIexX%22%2C%22flow%22%3Atrue%7D%7D)
+# Harry Potter: A Magical Adventure  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p3bWlQyTxr_Qcm4ysIexX%22%2C%22flow%22%3Atrue%7D%7D)
 This one goes back to the beginning.
 
 # Prompt

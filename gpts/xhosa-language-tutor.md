@@ -1,6 +1,6 @@
 
-[![Xhosa Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sglG2UXpEm3US0XreNpEd/1698971141592)]()
-# Xhosa Language Tutor 
+[![Xhosa Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sglG2UXpEm3US0XreNpEd/1698971141592)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sglG2UXpEm3US0XreNpEd%22%2C%22flow%22%3Atrue%7D%7D)
+# Xhosa Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sglG2UXpEm3US0XreNpEd%22%2C%22flow%22%3Atrue%7D%7D)
 Xhosa Language Tutor is your dedicated guide to Xhosa language proficiency. Whether you're a beginner just embarking on your Xhosa language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Xhosa language fluency. Join us on your Xhosa language adventure today.
 
 # Prompt

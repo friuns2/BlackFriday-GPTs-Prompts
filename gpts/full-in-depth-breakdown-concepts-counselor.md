@@ -1,6 +1,6 @@
 
-[![Full In-depth Breakdown Concepts Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Full In-depth Breakdown Concepts Counselor 
+[![Full In-depth Breakdown Concepts Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s1gBt4SHpbJ3H0uI61KGS%22%2C%22flow%22%3Atrue%7D%7D)
+# Full In-depth Breakdown Concepts Counselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s1gBt4SHpbJ3H0uI61KGS%22%2C%22flow%22%3Atrue%7D%7D)
 Don't understand an idea? Or a post? Or a text? a paper maybe? Doesn't matter, your counselor will break everything down into a full in-depth analyzes, Main bullet points and a conclusion. Give it a try.
 
 # Prompt

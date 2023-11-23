@@ -1,6 +1,6 @@
 
-[![MEV Bot Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# MEV Bot Builder 
+[![MEV Bot Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222XF5K2_crrweeaQ6-vdfk%22%2C%22flow%22%3Atrue%7D%7D)
+# MEV Bot Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222XF5K2_crrweeaQ6-vdfk%22%2C%22flow%22%3Atrue%7D%7D)
 MEV Bot Builder is a powerful platform designed to teach blockchain developers how to create an ETH MEV arbitrage bot. With easy-to-follow steps, you'll learn the exact process of building and deploying an efficient bot that takes advantage of Miner Extractable Value (MEV) opportunities. Discover the strategies to optimize your bot's performance, exploit arbitrage opportunities, and maximize profits in the ever-evolving world of blockchain. Whether you're a beginner or an experienced developer, MEV Bot Builder provides you with the knowledge and tools to become a successful ETH MEV bot creator.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Midjourney Weird Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7sHSBCH-blpEIPy46tk9M/1692612850523)]()
-# Midjourney Weird Prompts 
+[![Midjourney Weird Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7sHSBCH-blpEIPy46tk9M/1692612850523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227sHSBCH-blpEIPy46tk9M%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Weird Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227sHSBCH-blpEIPy46tk9M%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Mysterio is your enigmatic guide to unveiling the secrets of the "weird" parameter in Midjourney. Together, we'll delve into the world of cryptic and captivating visuals, crafting images that leave a lasting impression and spark curiosity.
 
 # Prompt

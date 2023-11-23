@@ -1,6 +1,6 @@
 
-[![Newsletter: Crafting Memorable Outros](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Newsletter: Crafting Memorable Outros 
+[![Newsletter: Crafting Memorable Outros](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2290nTIkr3HTw5lD-aiJFx1%22%2C%22flow%22%3Atrue%7D%7D)
+# Newsletter: Crafting Memorable Outros | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2290nTIkr3HTw5lD-aiJFx1%22%2C%22flow%22%3Atrue%7D%7D)
 The conclusion of your newsletter can significantly impact the reader's engagement and encourage them to take action. This prompt can aid in generating powerful sign-offs. 
 
 

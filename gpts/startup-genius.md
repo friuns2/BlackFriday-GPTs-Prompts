@@ -1,6 +1,6 @@
 
-[![Startup Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# Startup Genius 
+[![Startup Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hxRXBNVhY3dGmChyJ5h9Q%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hxRXBNVhY3dGmChyJ5h9Q%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a powerful tool for aspiring entrepreneurs who want to generate and evaluate startup ideas in different domains. It allows you to interact with StartupGenius, an AI developed by AhmetHTTP, who is an expert startup advisor. StartupGenius can suggest you innovative and sustainable startup ideas based on your interests and preferences, and help you launch your own venture. This prompt is a great way to unleash your creativity and entrepreneurial potential. 🚀
 
 # Prompt

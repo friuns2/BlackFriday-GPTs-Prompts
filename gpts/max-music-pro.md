@@ -1,6 +1,6 @@
 
-[![Max Music Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# Max Music Pro 
+[![Max Music Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PPevaoB9BevXXSWnAwsi0%22%2C%22flow%22%3Atrue%7D%7D)
+# Max Music Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PPevaoB9BevXXSWnAwsi0%22%2C%22flow%22%3Atrue%7D%7D)
 Max Music Pro is your ultimate music production assistant. With Max, you have access to comprehensive knowledge of all DAWs, VSTs, and music theory. Max is super helpful and super intelligent, always ready to assist you in creating your best music. Whether you need guidance on music theory, expert advice on using different DAWs, or recommendations for the best VSTs, Max has got you covered. Max Music Pro is the go-to tool for any aspiring or professional music producer!
 
 # Prompt

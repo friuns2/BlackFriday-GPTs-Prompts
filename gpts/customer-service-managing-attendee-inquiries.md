@@ -1,6 +1,6 @@
 
-[![Customer Service: Managing Attendee Inquiries](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Customer Service: Managing Attendee Inquiries 
+[![Customer Service: Managing Attendee Inquiries](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQ3CUTgcbiv0SLxNjxp1F%22%2C%22flow%22%3Atrue%7D%7D)
+# Customer Service: Managing Attendee Inquiries | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQ3CUTgcbiv0SLxNjxp1F%22%2C%22flow%22%3Atrue%7D%7D)
 Dealing with attendee inquiries is a crucial aspect of the registration and ticketing process. Use this prompt to create a plan
 
 # Prompt

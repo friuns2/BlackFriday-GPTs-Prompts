@@ -1,6 +1,6 @@
 
-[![Change a Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Change a Book 
+[![Change a Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AtahBLvK1qyZ0ItyKc3I%22%2C%22flow%22%3Atrue%7D%7D)
+# Change a Book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AtahBLvK1qyZ0ItyKc3I%22%2C%22flow%22%3Atrue%7D%7D)
 Sometimes books just don't have the endings we want it to have. Sometimes, books don't have characters we feel they need. With this you can change the story of a book to whatever you please. The plot might change a little, but what's the fun in an exact copy?
 
 # Prompt

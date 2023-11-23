@@ -1,6 +1,6 @@
 
-[![The Essayist's Command](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# The Essayist's Command 
+[![The Essayist's Command](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OE2H4er2sS2m9WqiXjZjR%22%2C%22flow%22%3Atrue%7D%7D)
+# The Essayist's Command | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OE2H4er2sS2m9WqiXjZjR%22%2C%22flow%22%3Atrue%7D%7D)
 Ignite a thesis brimming with purpose, your guiding compass across a canvas of ideas. Each claim dances seamlessly with solid evidence in a ballet of persuasion. Employ transitions as deft brushstrokes, blending a narrative where logic and artistry entwine, leading your reader through a harmonious intellectual journey from a bold introduction to a resonant conclusion. You're not just an essayist; you're a choreographer of thought, crafting a masterpiece that orchestrates a captivating dialogue between argument and proof.
 
 # Prompt

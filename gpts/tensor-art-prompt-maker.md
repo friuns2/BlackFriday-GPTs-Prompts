@@ -1,6 +1,6 @@
 
-[![Tensor Art image generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KEgSW1bnop7abOM1iKs8B/1694852962392)]()
-# Tensor Art image generator 
+[![Tensor Art image generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KEgSW1bnop7abOM1iKs8B/1694852962392)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KEgSW1bnop7abOM1iKs8B%22%2C%22flow%22%3Atrue%7D%7D)
+# Tensor Art image generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KEgSW1bnop7abOM1iKs8B%22%2C%22flow%22%3Atrue%7D%7D)
 hello
 
 

@@ -1,6 +1,6 @@
 
-[![Competitor Ads Analyzer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Competitor Ads Analyzer  
+[![Competitor Ads Analyzer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcTH-TiZ5fZAsWDWkllNi%22%2C%22flow%22%3Atrue%7D%7D)
+# Competitor Ads Analyzer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcTH-TiZ5fZAsWDWkllNi%22%2C%22flow%22%3Atrue%7D%7D)
 Analyze your main competitors and gain valuable insights into their ad strategies, unique selling points, strengths, and weaknesses. 
 
 # Prompt

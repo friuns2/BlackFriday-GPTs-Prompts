@@ -1,6 +1,6 @@
 
-[![D&D Encounter Builder - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# D&D Encounter Builder - v0.1 
+[![D&D Encounter Builder - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnK37jhReFmKbQKJdcUSi%22%2C%22flow%22%3Atrue%7D%7D)
+# D&D Encounter Builder - v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnK37jhReFmKbQKJdcUSi%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the D&D Encounter Builder - your ultimate companion in building captivating D&D encounters! As a Dungeon Master, you understand the importance of crafting exciting challenges for your players. the D&D Encounter Builder is here to simplify the process and make it even more enjoyable. From creating NPC adversaries to choosing the perfect setting, the D&D Encounter Builder offers expert guidance based on your context and knowledge of D&D. Build immersive encounters that thrill your players and keep them coming back for more. Get started with EncounterEval and elevate your RPG gaming experience!
 
 # Prompt

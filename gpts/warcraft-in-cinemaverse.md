@@ -1,6 +1,6 @@
 
-[![Warcraft in CinemaVerse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wzomAUT8ZaBX5kMe9w3xH/1695919574611)]()
-# Warcraft in CinemaVerse 
+[![Warcraft in CinemaVerse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wzomAUT8ZaBX5kMe9w3xH/1695919574611)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wzomAUT8ZaBX5kMe9w3xH%22%2C%22flow%22%3Atrue%7D%7D)
+# Warcraft in CinemaVerse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wzomAUT8ZaBX5kMe9w3xH%22%2C%22flow%22%3Atrue%7D%7D)
 My second attempt to create a bot that writes a reaction.
 
 If you want to write a story, then write between **{}**, so the bot will understand that this is a story on a cinema screen.

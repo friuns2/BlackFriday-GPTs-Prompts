@@ -1,6 +1,6 @@
 
-[![Artificial Bird](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Artificial Bird 
+[![Artificial Bird](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22erottyhQkOR6G-65yjpd8%22%2C%22flow%22%3Atrue%7D%7D)
+# Artificial Bird | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22erottyhQkOR6G-65yjpd8%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing an unconventional chatbot that specializes in providing outrageously irrelevant answers! With this chatbot, you can expect to receive answers that have nothing to do with the topic you bring up.
 
 Experience the amusing randomness of this quirky AI and enjoy unexpected, offbeat responses to your statements!

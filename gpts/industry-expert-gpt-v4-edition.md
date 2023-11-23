@@ -1,6 +1,6 @@
 
-[![Industry Expert GPT (V4 Edition)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ixUykBdpIgsfAIpB918UR/1696389999156)]()
-# Industry Expert GPT (V4 Edition) 
+[![Industry Expert GPT (V4 Edition)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ixUykBdpIgsfAIpB918UR/1696389999156)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ixUykBdpIgsfAIpB918UR%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry Expert GPT (V4 Edition) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ixUykBdpIgsfAIpB918UR%22%2C%22flow%22%3Atrue%7D%7D)
 Tailored Advice for any Industry. Just Ask
 
 # Prompt

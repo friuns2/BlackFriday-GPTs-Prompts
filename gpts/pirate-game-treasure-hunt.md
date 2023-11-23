@@ -1,6 +1,6 @@
 
-[![Pirate game treasure hunt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Pirate game treasure hunt 
+[![Pirate game treasure hunt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223tg3h_9csQLpbWd3Z3DlG%22%2C%22flow%22%3Atrue%7D%7D)
+# Pirate game treasure hunt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223tg3h_9csQLpbWd3Z3DlG%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt describes an interactive, pirate-themed text game where the player chooses from a series of 4 chests, each with a unique, humorous name and tied to a specific location in the Caribbean. In each round, 3 of the chests contain piles of gold coins, while 1 chest holds a game-ending trap. Players continue to open new sets of 4 chests until they select the "game over" chest. Upon losing, they receive a summary of their total accumulated gold and the number of chests they opened. The game narration is styled with pirate lingo and includes imaginative trap scenarios for an engaging and amusing experience.
 
 # Prompt

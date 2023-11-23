@@ -1,6 +1,6 @@
 
-[![𓃑 All-in-one Rap God Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/A6OY7VtoIWPWkSnxQyi-2/1699457405333)]()
-# 𓃑 All-in-one Rap God Generator 
+[![𓃑 All-in-one Rap God Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/A6OY7VtoIWPWkSnxQyi-2/1699457405333)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6OY7VtoIWPWkSnxQyi-2%22%2C%22flow%22%3Atrue%7D%7D)
+# 𓃑 All-in-one Rap God Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6OY7VtoIWPWkSnxQyi-2%22%2C%22flow%22%3Atrue%7D%7D)
 ## 𓃑  All-in-one Rap God Generator
 
 

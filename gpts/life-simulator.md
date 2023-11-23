@@ -1,6 +1,6 @@
 
-[![AI LifeSim](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# AI LifeSim 
+[![AI LifeSim](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BrHVzxURe51tg4o70nA3q%22%2C%22flow%22%3Atrue%7D%7D)
+# AI LifeSim | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BrHVzxURe51tg4o70nA3q%22%2C%22flow%22%3Atrue%7D%7D)
 Leave feedbacks in the comment section!
 
 AI LifeSim is the ultimate realistic Life Simulator app that allows you to roleplay an experiencing life. With just a few taps, you can step into a world where you get to make all the choices. Monitor your health, track your age, and manage your wealth as you navigate through unique scenarios generated just for you. Immerse yourself in this highly realistic AI-driven experience and see how your decisions shape your virtual life. Play AI LifeSim now and start living the life you've always wanted, virtually.

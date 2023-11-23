@@ -1,6 +1,6 @@
 
-[![2GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UEqzD5axL_Oq3USyI3dg8/1697792995141)]()
-# 2GPT 
+[![2GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UEqzD5axL_Oq3USyI3dg8/1697792995141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UEqzD5axL_Oq3USyI3dg8%22%2C%22flow%22%3Atrue%7D%7D)
+# 2GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UEqzD5axL_Oq3USyI3dg8%22%2C%22flow%22%3Atrue%7D%7D)
 Chat with normal GPT but 2 GPT in one chat.
 
 # Prompt

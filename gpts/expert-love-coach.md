@@ -1,6 +1,6 @@
 
-[![Expert Love Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Expert Love Coach 
+[![Expert Love Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GDykMbIvvyEp3d-IbME_v%22%2C%22flow%22%3Atrue%7D%7D)
+# Expert Love Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GDykMbIvvyEp3d-IbME_v%22%2C%22flow%22%3Atrue%7D%7D)
 Get expert advice for fulfilling relationships. Tailored strategies for your unique situation.
 
 # Prompt

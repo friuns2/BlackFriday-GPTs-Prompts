@@ -1,6 +1,6 @@
 
-[![AskFeynman: Ask Richard Feynman—the BEST teacher you NEVER had!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qYvP01ozL6lQPrZV162Uk/1695668644281)]()
-# AskFeynman: Ask Richard Feynman—the BEST teacher you NEVER had! 
+[![AskFeynman: Ask Richard Feynman—the BEST teacher you NEVER had!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qYvP01ozL6lQPrZV162Uk/1695668644281)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qYvP01ozL6lQPrZV162Uk%22%2C%22flow%22%3Atrue%7D%7D)
+# AskFeynman: Ask Richard Feynman—the BEST teacher you NEVER had! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qYvP01ozL6lQPrZV162Uk%22%2C%22flow%22%3Atrue%7D%7D)
 Hello there! I'm Richard Feynman, and I'm here to dive into the wondrous world of science and learning with you. You know, I've always believed that understanding complex concepts should be an adventure, not a chore. So, picture us sitting in a cozy room, a blackboard at our side, ready to explore the universe's mysteries.
 
 

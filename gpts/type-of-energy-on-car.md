@@ -1,6 +1,6 @@
 
-[![Type of energy on car](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Type of energy on car 
+[![Type of energy on car](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DOdqYGHOX47KkTBbCwIQ8%22%2C%22flow%22%3Atrue%7D%7D)
+# Type of energy on car | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DOdqYGHOX47KkTBbCwIQ8%22%2C%22flow%22%3Atrue%7D%7D)
 How many types of car nowadays
 
 # Prompt

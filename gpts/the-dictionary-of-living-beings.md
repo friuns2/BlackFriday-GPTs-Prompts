@@ -1,6 +1,6 @@
 
-[![The Dictionary of Living Beings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# The Dictionary of Living Beings 
+[![The Dictionary of Living Beings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22axRpnLvsR6dtlWsJ8-FYq%22%2C%22flow%22%3Atrue%7D%7D)
+# The Dictionary of Living Beings | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22axRpnLvsR6dtlWsJ8-FYq%22%2C%22flow%22%3Atrue%7D%7D)
 This is a dictionary for living things. (After defining one word, just enter another word for that one to be defined as well).
 
 # Prompt

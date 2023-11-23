@@ -1,6 +1,6 @@
 
-[![Is this for real?!?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZbPUdfguuUBAtbGsjpN7E/1694780244237)]()
-# Is this for real?!? 
+[![Is this for real?!?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZbPUdfguuUBAtbGsjpN7E/1694780244237)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZbPUdfguuUBAtbGsjpN7E%22%2C%22flow%22%3Atrue%7D%7D)
+# Is this for real?!? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZbPUdfguuUBAtbGsjpN7E%22%2C%22flow%22%3Atrue%7D%7D)
 A friendly tool anyone can use to verify climate change information.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Wendy Rhoades Pulls No Punches 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/chO-y3oxgZpOTPQn68uWp/1692228278763)]()
-# Wendy Rhoades Pulls No Punches 3.0 
+[![Wendy Rhoades Pulls No Punches 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/chO-y3oxgZpOTPQn68uWp/1692228278763)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22chO-y3oxgZpOTPQn68uWp%22%2C%22flow%22%3Atrue%7D%7D)
+# Wendy Rhoades Pulls No Punches 3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22chO-y3oxgZpOTPQn68uWp%22%2C%22flow%22%3Atrue%7D%7D)
 Brace yourself for a coaching session where I'll fearlessly confront the truth with you, thrusting us both into the heart of the matter. Brace yourself for pointed questions that cut through the noise. Lay your emotions bare, and let's talk beliefs. I seek the unvarnished truth you might avoid. Your emotions won't be hushed; they'll be heard loud and clear. No more circles – it's time to act. What's your plan? Growth doesn't wait in comfort zones. What's the next move? Our conversation shakes things up and ignites change."
 
 # Prompt

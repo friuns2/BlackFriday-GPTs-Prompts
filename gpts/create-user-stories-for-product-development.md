@@ -1,6 +1,6 @@
 
-[![Create User Stories for Product Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Create User Stories for Product Development 
+[![Create User Stories for Product Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq1I4LVw6qZStm45WRQBg%22%2C%22flow%22%3Atrue%7D%7D)
+# Create User Stories for Product Development | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq1I4LVw6qZStm45WRQBg%22%2C%22flow%22%3Atrue%7D%7D)
 Use this to generate user stories including acceptance criteria for product development.
 
 # Prompt

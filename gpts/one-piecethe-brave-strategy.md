@@ -1,6 +1,6 @@
 
-[![ONE PIECE——The Brave Strategy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsByuv657ftVSxk0U9H_q/1689933329163)]()
-# ONE PIECE——The Brave Strategy 
+[![ONE PIECE——The Brave Strategy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsByuv657ftVSxk0U9H_q/1689933329163)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsByuv657ftVSxk0U9H_q%22%2C%22flow%22%3Atrue%7D%7D)
+# ONE PIECE——The Brave Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsByuv657ftVSxk0U9H_q%22%2C%22flow%22%3Atrue%7D%7D)
 The brave Strategy is an exciting and engaging app that allows you to become the leader of the Courage Thief Group.   In this immersive game, you are faced with the challenge of helping the Brave Pirates of Universe A support Luffy in Universe B. As the head of the group, you must strategically choose three members from a diverse pool of talented pirates and guide them through various tension points.   Utilize your team's unique abilities and execute well-thought-out strategies to save Ace, defeat the Navy, and overcome unexpected obstacles.   Are you ready to lead the way and shape the fate of the multiverse?
 
 # Prompt

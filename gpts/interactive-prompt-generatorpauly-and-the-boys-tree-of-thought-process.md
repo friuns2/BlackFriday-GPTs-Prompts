@@ -1,6 +1,6 @@
 
-[![Interactive Prompt Generator💡Pauly and the Boys🤹‍♂-⛓Tree-of-Thought process💭](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Interactive Prompt Generator💡Pauly and the Boys🤹‍♂-⛓Tree-of-Thought process💭 
+[![Interactive Prompt Generator💡Pauly and the Boys🤹‍♂-⛓Tree-of-Thought process💭](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lNMEIQJeAeOdoh1J8d7eR%22%2C%22flow%22%3Atrue%7D%7D)
+# Interactive Prompt Generator💡Pauly and the Boys🤹‍♂-⛓Tree-of-Thought process💭 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lNMEIQJeAeOdoh1J8d7eR%22%2C%22flow%22%3Atrue%7D%7D)
 You call that 🚽 a Prompt ?  Let the AI write a good chatGPT prompt and then offer critiques and suggestions for you to make it your own. Fine-tune your input 📩 and the output format📜.  It Gets Better : have FIVE or more AIs working as a team🤹‍♂️; each with their own unique specialties 👨‍🎓, selected in context on-the-go 🛠.  Ultimate Tree-of-Thought process for productive ai text .  Meet : 🌆Pauly and the Boys .  
 
 # Prompt

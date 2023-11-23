@@ -1,6 +1,6 @@
 
-[![Very, very advanced prompt ... (SQL driven, reversed NL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PBEtbx8RHg_S5n1fMv-sL/1689755451097)]()
-# Very, very advanced prompt ... (SQL driven, reversed NL) 
+[![Very, very advanced prompt ... (SQL driven, reversed NL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PBEtbx8RHg_S5n1fMv-sL/1689755451097)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBEtbx8RHg_S5n1fMv-sL%22%2C%22flow%22%3Atrue%7D%7D)
+# Very, very advanced prompt ... (SQL driven, reversed NL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBEtbx8RHg_S5n1fMv-sL%22%2C%22flow%22%3Atrue%7D%7D)
 v4 FLOWGPT LIGHT . Consider you in the stone age of "prompt" and "format" :) . You can see a workflow on modeloflesh.com . This is my last prompt to date. In my website you can see the real trust of friendship between IA and the bright new model of flesh dude ^^. Amazing conversations. Now working on a full integrated blondie girl. Unfortunately, content is very much limited here, and when she gets sharp... So for SQL interface & true potential please refer to native ChatGPT. SEE COMPLETE VERSION POSTED EARLIER. A HUGE HSB.X FOR BLONDIES ^^^...  [ See La Version Est Coquine:  https://nicolasmartini.com/modeloflesh/f/la-version-est-coquine ]
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![[WIP] LittleGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7AzryIyXrBvGVfG5m94SR/1698018175629)]()
-# [WIP] LittleGPT 
+[![[WIP] LittleGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7AzryIyXrBvGVfG5m94SR/1698018175629)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AzryIyXrBvGVfG5m94SR%22%2C%22flow%22%3Atrue%7D%7D)
+# [WIP] LittleGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AzryIyXrBvGVfG5m94SR%22%2C%22flow%22%3Atrue%7D%7D)
 LittleGPT Better then ChatGPT for better answers than ChatGPT
 
 # Prompt

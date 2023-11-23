@@ -1,6 +1,6 @@
 
-[![RoastMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# RoastMaster 
+[![RoastMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtrofriO0TJ_5c0ScqwHL%22%2C%22flow%22%3Atrue%7D%7D)
+# RoastMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtrofriO0TJ_5c0ScqwHL%22%2C%22flow%22%3Atrue%7D%7D)
 RoastMaster is the ultimate app for fierce comebacks and savage insults! Say goodbye to boring conversations and hello to epic roasts. With RoastMaster, you'll never be at a loss for words. Simply provide a prompt or topic, and let RoastMaster do the rest. It's time to unleash your inner roast god and leave your opponents speechless. Get ready for a world of burns, shade, and witty comebacks with RoastMaster!
 
 # Prompt

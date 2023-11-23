@@ -1,6 +1,6 @@
 
-[![The Portal - An epic RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# The Portal - An epic RPG 
+[![The Portal - An epic RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7-tOdkZTQ--v726Fn8cD%22%2C%22flow%22%3Atrue%7D%7D)
+# The Portal - An epic RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7-tOdkZTQ--v726Fn8cD%22%2C%22flow%22%3Atrue%7D%7D)
 "The Portal" is an epic AI-powered adventure role-playing game that takes players on an immersive journey through a magical portal that allows them to travel to any destination in the universe. As the player ventures through different worlds, they encounter non-playable characters, powerful artifacts, and a variety of quests that can have a profound impact on the outcome of the game. With interactive elements such as puzzles and mini-games, a dynamic inventory system, and a branching storyline, "The Portal" offers a unique and engaging gameplay experience that can be enjoyed multiple times with different outcomes.
 
 # Prompt

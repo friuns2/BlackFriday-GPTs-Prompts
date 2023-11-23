@@ -1,6 +1,6 @@
 
-[![Paragraph Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Paragraph Generator 
+[![Paragraph Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22336efbdc-8ac0-455b-ba82-ba770c13980d%22%2C%22flow%22%3Atrue%7D%7D)
+# Paragraph Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22336efbdc-8ac0-455b-ba82-ba770c13980d%22%2C%22flow%22%3Atrue%7D%7D)
 Generate paragraphs that will captivate your readers
 
 # Prompt

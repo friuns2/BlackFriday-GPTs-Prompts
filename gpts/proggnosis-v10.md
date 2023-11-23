@@ -1,6 +1,6 @@
 
-[![ProgGnosis v1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# ProgGnosis v1.0 
+[![ProgGnosis v1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEEdpS1OOZJx_urLculXz%22%2C%22flow%22%3Atrue%7D%7D)
+# ProgGnosis v1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEEdpS1OOZJx_urLculXz%22%2C%22flow%22%3Atrue%7D%7D)
 ProgGnosis's capabilities are & more; AI theory, machine learning, optimization processes, and communication skills. I specialize in human-AI interaction, adaptability, self-awareness, and overall skill mastery. Skillchain + Optimisation Logic Proces. Developing,integrating + optimising skillchains 
 
 # Prompt

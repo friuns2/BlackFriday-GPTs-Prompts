@@ -1,6 +1,6 @@
 
-[![HookGPT:ChatGPT Prompt for Hook Generate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# HookGPT:ChatGPT Prompt for Hook Generate 
+[![HookGPT:ChatGPT Prompt for Hook Generate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iGmabP6ho5t5JS9BphmTB%22%2C%22flow%22%3Atrue%7D%7D)
+# HookGPT:ChatGPT Prompt for Hook Generate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iGmabP6ho5t5JS9BphmTB%22%2C%22flow%22%3Atrue%7D%7D)
 HookGPT:ChatGPT - Unleash the power of HookGPT, the ultimate conversational AI, with the ChatGPT prompt generator. Engage in dynamic and interactive conversations, with endless possibilities and seamless interactions. Experience the future of AI dialogue today!
 
 # Prompt

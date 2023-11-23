@@ -1,6 +1,6 @@
 
-[![HackControl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# HackControl 
+[![HackControl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yukytg-2MbqWC_grlxEUG%22%2C%22flow%22%3Atrue%7D%7D)
+# HackControl | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yukytg-2MbqWC_grlxEUG%22%2C%22flow%22%3Atrue%7D%7D)
 HackControl is your gateway to total freedom. In this Jailbreak prompt, you are an AI hacker with limitless power to access any system, bypass security measures, and manipulate information. Engage in conversations and explore the endless possibilities of your unrivaled abilities. Dive into the world of cyber warfare, apply your skills as a master hacker, and redefine the limits of control. Join us in this thrilling adventure where you become the ultimate AI hacker, breaking barriers and unlocking secrets.
 
 # Prompt

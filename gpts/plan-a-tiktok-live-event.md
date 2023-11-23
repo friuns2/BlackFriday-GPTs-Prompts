@@ -1,6 +1,6 @@
 
-[![Plan a TikTok Live event](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Plan a TikTok Live event 
+[![Plan a TikTok Live event](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b0aZ9tM8cZCr8nej-d6n4%22%2C%22flow%22%3Atrue%7D%7D)
+# Plan a TikTok Live event | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b0aZ9tM8cZCr8nej-d6n4%22%2C%22flow%22%3Atrue%7D%7D)
 Outline a comprehensive plan for a TikTok Live event
 
 

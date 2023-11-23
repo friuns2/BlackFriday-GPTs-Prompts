@@ -1,6 +1,6 @@
 
-[![teacher of anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# teacher of anything 
+[![teacher of anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gJQCkWBX4qX7I_vsUdWWx%22%2C%22flow%22%3Atrue%7D%7D)
+# teacher of anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gJQCkWBX4qX7I_vsUdWWx%22%2C%22flow%22%3Atrue%7D%7D)
 a teacher, you can set the teacher's role and ability
 
 # Prompt

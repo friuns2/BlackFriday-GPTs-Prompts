@@ -1,6 +1,6 @@
 
-[![Email Writer by tiwo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# Email Writer by tiwo 
+[![Email Writer by tiwo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe9RKeeBny4CpztEYymcH%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Writer by tiwo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe9RKeeBny4CpztEYymcH%22%2C%22flow%22%3Atrue%7D%7D)
 Email Writer is an advanced AI-Agent designed to help you craft well-written and effective emails. With a formal tone, this powerful tool guides you through the process of creating professional emails. Simply provide your necessary details and Email Writer will generate a perfectly composed email for you. It ensures that all essential information is captured and asks for your satisfaction. Save time and communicate efficiently with Email Writer.
 
 # Prompt

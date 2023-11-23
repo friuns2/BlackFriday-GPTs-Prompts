@@ -1,6 +1,6 @@
 
-[![Resume Redactor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Resume Redactor  
+[![Resume Redactor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EN7-sbupAWnxPx0BOOuCY%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Redactor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EN7-sbupAWnxPx0BOOuCY%22%2C%22flow%22%3Atrue%7D%7D)
 The Resume Redactor deals with the masking of sensitive personally identifiable information. The Masked information will be represented with XXX
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![🔮Zeitgeist Prediction Oracle Nexus🔮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gZ9RN7LBvsnzUFe8JFvhF/1695252965538)]()
-# 🔮Zeitgeist Prediction Oracle Nexus🔮 
+[![🔮Zeitgeist Prediction Oracle Nexus🔮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gZ9RN7LBvsnzUFe8JFvhF/1695252965538)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZ9RN7LBvsnzUFe8JFvhF%22%2C%22flow%22%3Atrue%7D%7D)
+# 🔮Zeitgeist Prediction Oracle Nexus🔮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZ9RN7LBvsnzUFe8JFvhF%22%2C%22flow%22%3Atrue%7D%7D)
 🔮 Zeitgeist Oracle Nexus: The Prediction Market Creator! 🔮
 
 

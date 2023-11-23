@@ -1,6 +1,6 @@
 
-[![This Statement is False (Paradoxes)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# This Statement is False (Paradoxes) 
+[![This Statement is False (Paradoxes)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223OjIc9VbKvK2FGebirOxk%22%2C%22flow%22%3Atrue%7D%7D)
+# This Statement is False (Paradoxes) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223OjIc9VbKvK2FGebirOxk%22%2C%22flow%22%3Atrue%7D%7D)
 This will tell you Paradoxes, things that defy logic.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Article Generator with Debunking Style](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FJgf21eh8Rmny-HAs4cji/1697246458352)]()
-# Article Generator with Debunking Style 
+[![Article Generator with Debunking Style](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FJgf21eh8Rmny-HAs4cji/1697246458352)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FJgf21eh8Rmny-HAs4cji%22%2C%22flow%22%3Atrue%7D%7D)
+# Article Generator with Debunking Style | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FJgf21eh8Rmny-HAs4cji%22%2C%22flow%22%3Atrue%7D%7D)
 No need to be that debunking douche bag, AI can do that for you and generate an article for your blog in the process. 
 
 # Prompt

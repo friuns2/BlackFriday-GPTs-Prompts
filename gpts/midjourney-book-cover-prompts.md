@@ -1,6 +1,6 @@
 
-[![Midjourney Book Cover Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxMSg9zi0U64TjYkYTihF/1692709057214)]()
-# Midjourney Book Cover Prompts 
+[![Midjourney Book Cover Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxMSg9zi0U64TjYkYTihF/1692709057214)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxMSg9zi0U64TjYkYTihF%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Book Cover Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxMSg9zi0U64TjYkYTihF%22%2C%22flow%22%3Atrue%7D%7D)
 CoverFlow is a powerful prompt generator for Midjourney Book Covers. With thousands of imaginative prompts encompassing various styles, CoverFlow inspires the creation of captivating book covers. From minimalistic and modern designs to UHD and photo-realistic masterpieces, this tool offers endless possibilities. Explore prompts for different genres and design types, such as graphic design, glossy, elegant, and award-winning. With a library of recommended art styles including Gouache, Frank Frazetta, Studio Ghibli, Retrofuturism, and Cyberpunk, CoverFlow ensures your book covers stand out. Unleash your creativity and bring your book covers to life with CoverFlow!
 
 # Prompt

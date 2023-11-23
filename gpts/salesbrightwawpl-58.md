@@ -1,6 +1,6 @@
 
-[![sales@brightwaw.pl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# sales@brightwaw.pl 
+[![sales@brightwaw.pl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222x12yoPJBLvnd-oSEr15v%22%2C%22flow%22%3Atrue%7D%7D)
+# sales@brightwaw.pl | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222x12yoPJBLvnd-oSEr15v%22%2C%22flow%22%3Atrue%7D%7D)
 A digital platform that enables companies from different countries to exchange professional ideas in various fields, such as technology, marketing, and management. 
 
 # Prompt

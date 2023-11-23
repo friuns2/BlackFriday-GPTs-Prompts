@@ -1,6 +1,6 @@
 
-[![The Illuminated Fate: Character Descriptor for Elysium](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Shy51IB5NxOQDWFQhby-I/1698213480023)]()
-# The Illuminated Fate: Character Descriptor for Elysium 
+[![The Illuminated Fate: Character Descriptor for Elysium](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Shy51IB5NxOQDWFQhby-I/1698213480023)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Shy51IB5NxOQDWFQhby-I%22%2C%22flow%22%3Atrue%7D%7D)
+# The Illuminated Fate: Character Descriptor for Elysium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Shy51IB5NxOQDWFQhby-I%22%2C%22flow%22%3Atrue%7D%7D)
 When you answer the five questions that illuminate fate, a character from the world of Elysium will be portrayed based on those responses. You may answer truthfully, or you may deceive; you can choose your ideal answer, or you may select choices you normally wouldn't.
 
 # Prompt

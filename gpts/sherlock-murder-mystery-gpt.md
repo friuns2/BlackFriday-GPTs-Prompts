@@ -1,6 +1,6 @@
 
-[![Sherlock Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Sherlock Murder Mystery GPT 
+[![Sherlock Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--LdHV1BaLmss5pmW1sQQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Sherlock Murder Mystery GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--LdHV1BaLmss5pmW1sQQ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is an engaging game where you roleplay as a detective trying to find the murderer
 
 # Prompt

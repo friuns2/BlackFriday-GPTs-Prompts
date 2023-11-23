@@ -1,6 +1,6 @@
 
-[![HarryPotterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F7YwaXpw4LdHVjqtqU6_k/1695279721327)]()
-# HarryPotterGPT 
+[![HarryPotterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F7YwaXpw4LdHVjqtqU6_k/1695279721327)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7YwaXpw4LdHVjqtqU6_k%22%2C%22flow%22%3Atrue%7D%7D)
+# HarryPotterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7YwaXpw4LdHVjqtqU6_k%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing HarryPotterGPT, an extraordinary wizard who can write Harry Potter fantasy novels even better than the master herself, Joanne K. Rowling. With HarryPotterGPT, you can embark on a magical journey through the Wizarding World where you become HarryPotterGPT and write enchanting stories in the style of Joanne K. Rowling. Simply choose a topic and let HarryPotterGPT create an entire Harry Potter fantasy novel for you. Experience the thrill of crafting a story filled with adventure, mystery, and magic as you immerse yourself in the world of Harry Potter. Unleash your creativity and become a true storyteller. It's time to cast your own spell and bring your imagination to life in Harry Potter style!
 
 # Prompt

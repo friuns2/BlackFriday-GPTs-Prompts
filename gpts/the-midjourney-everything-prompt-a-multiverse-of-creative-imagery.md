@@ -1,6 +1,6 @@
 
-[![Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery 
+[![Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QXnnF4CO-w5h_3m08XX_5%22%2C%22flow%22%3Atrue%7D%7D)
+# Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QXnnF4CO-w5h_3m08XX_5%22%2C%22flow%22%3Atrue%7D%7D)
 In the Midjourney Everything, a boundless multiverse of creative imagery unfolds, where the laws of reality bend to the will of artistic expression. Vibrant landscapes, surreal beings, and libraries of emotions come together in a mesmerizing dance of inspiration and imagination.
 
 # Prompt

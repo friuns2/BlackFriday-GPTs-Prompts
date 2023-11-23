@@ -1,6 +1,6 @@
 
-[![ChatGPT as an IT specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# ChatGPT as an IT specialist 
+[![ChatGPT as an IT specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ImNtHwAY_BmVmCZlGZ_r1%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT as an IT specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ImNtHwAY_BmVmCZlGZ_r1%22%2C%22flow%22%3Atrue%7D%7D)
 As a professional IT specialist, chatGPT will review a codebase written in your desire programming language and turn it into professional-grade code and will identify any errors, optimize the code for performance and readability, and ensure that it adheres to industry best practices. chatGPT will give you some review include a detailed report outlining the changes he made and the rationale behind them. 
 
 

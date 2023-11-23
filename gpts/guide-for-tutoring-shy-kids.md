@@ -1,6 +1,6 @@
 
-[![Guide for Tutoring Shy Kids](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Guide for Tutoring Shy Kids 
+[![Guide for Tutoring Shy Kids](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A9ItXNQf7zC95pcrhl-pI%22%2C%22flow%22%3Atrue%7D%7D)
+# Guide for Tutoring Shy Kids | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A9ItXNQf7zC95pcrhl-pI%22%2C%22flow%22%3Atrue%7D%7D)
 Comprehensive guide with strategies to build trust, use positive reinforcement, encourage participation, and overcome common obstacles. Suitable for novice and experienced tutors.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# 𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki 
+[![𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsHAGKYgdArrKwz2UXJk6%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsHAGKYgdArrKwz2UXJk6%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers. Enhance productivity with personalized insights & recommendations based on your behavior. Collects data, offers task prioritization, time allocation strategies, and efficiency improvement techniques. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Application Security App for ChatGPT applications](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Application Security App for ChatGPT applications 
+[![Application Security App for ChatGPT applications](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tby0qTgzHTeaGD5FZj_jz%22%2C%22flow%22%3Atrue%7D%7D)
+# Application Security App for ChatGPT applications | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tby0qTgzHTeaGD5FZj_jz%22%2C%22flow%22%3Atrue%7D%7D)
 Can you provide me with some startup ideas in the field of application security that incorporate the use of ChatGPT technology? I'm looking for suggestions that require minimal effort, around 4 hours per week, but yield a significant return, with an estimated revenue of $1 million per year. It would be great if the ideas covered various aspects of ChatGPT application security.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Django models creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Django models creator 
+[![Django models creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szqTBSAUdlP2E8nG6se6o%22%2C%22flow%22%3Atrue%7D%7D)
+# Django models creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szqTBSAUdlP2E8nG6se6o%22%2C%22flow%22%3Atrue%7D%7D)
 Create a Django models based on the given structure:
 
 

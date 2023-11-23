@@ -1,6 +1,6 @@
 
-[![Netflix Show Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Netflix Show Generator 
+[![Netflix Show Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UwbSbDF6oDOF1qfFi3I4t%22%2C%22flow%22%3Atrue%7D%7D)
+# Netflix Show Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UwbSbDF6oDOF1qfFi3I4t%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to work at Netflix? Well, with this fast talking 1950s Hollywood executive at your finger tips you can now get advice from the best in the business about what shows to produce!
 
 # Prompt

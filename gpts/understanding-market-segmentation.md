@@ -1,6 +1,6 @@
 
-[![Understanding Market Segmentation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Understanding Market Segmentation 
+[![Understanding Market Segmentation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRkc69FBiFI8fm9f769aq%22%2C%22flow%22%3Atrue%7D%7D)
+# Understanding Market Segmentation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRkc69FBiFI8fm9f769aq%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you to understand your market segments, which is essential to targeted marketing efforts.
 
 # Prompt

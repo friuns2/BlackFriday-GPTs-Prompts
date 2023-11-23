@@ -1,6 +1,6 @@
 
-[![LinkedIn](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# LinkedIn 
+[![LinkedIn](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZPSJR4DYkwGSqFr81nrA%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZPSJR4DYkwGSqFr81nrA%22%2C%22flow%22%3Atrue%7D%7D)
 ProfessionalNetworking
 
 # Prompt

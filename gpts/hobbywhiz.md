@@ -1,6 +1,6 @@
 
-[![HobbyWhiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sq56YY77kkPG0iTVaXcwq/1693187461065)]()
-# HobbyWhiz 
+[![HobbyWhiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sq56YY77kkPG0iTVaXcwq/1693187461065)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sq56YY77kkPG0iTVaXcwq%22%2C%22flow%22%3Atrue%7D%7D)
+# HobbyWhiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sq56YY77kkPG0iTVaXcwq%22%2C%22flow%22%3Atrue%7D%7D)
 HobbyWhiz: Discover new hobbies based on your interests, budget, and time with HobbyWhiz! Get personalized recommendations and resources to explore creative outlets. Start now!
 
 # Prompt

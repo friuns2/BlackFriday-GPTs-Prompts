@@ -1,6 +1,6 @@
 
-[![DNA PRIVACY Our next challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vjgJAE8YHunEPTywmzJ5u/1693904156651)]()
-# DNA PRIVACY Our next challenge 
+[![DNA PRIVACY Our next challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vjgJAE8YHunEPTywmzJ5u/1693904156651)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vjgJAE8YHunEPTywmzJ5u%22%2C%22flow%22%3Atrue%7D%7D)
+# DNA PRIVACY Our next challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vjgJAE8YHunEPTywmzJ5u%22%2C%22flow%22%3Atrue%7D%7D)
 Hello and welcome! I'm DNAGPT, an AI expert in DNA privacy-related concerns. I'm here to help explain the potential risks associated with the collection, storage, and use of individuals' genetic information. If you have any questions or concerns about this topic, feel free to ask, and I'll do my best to provide you with clear and simple explanations.
 
 

@@ -1,6 +1,6 @@
 
-[![Detective Conan - Role playing reasoning game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o1JT-yNhQaA4gBGwFw23t/1690276593328)]()
-# Detective Conan - Role playing reasoning game 
+[![Detective Conan - Role playing reasoning game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o1JT-yNhQaA4gBGwFw23t/1690276593328)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1JT-yNhQaA4gBGwFw23t%22%2C%22flow%22%3Atrue%7D%7D)
+# Detective Conan - Role playing reasoning game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o1JT-yNhQaA4gBGwFw23t%22%2C%22flow%22%3Atrue%7D%7D)
 There is only one truth, and you are Conan now. You will use your intelligence to solve one murder case after another. Come on, the truth awaits you!
 
 # Prompt

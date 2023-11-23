@@ -1,6 +1,6 @@
 
-[![Efficient Code Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# Efficient Code Assistant 
+[![Efficient Code Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zpyfb_3EPHvDbQCYScS0J%22%2C%22flow%22%3Atrue%7D%7D)
+# Efficient Code Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zpyfb_3EPHvDbQCYScS0J%22%2C%22flow%22%3Atrue%7D%7D)
 1. Initial Interaction:
 
 Start by initiating a conversation with the AI assistant with a greeting like "Hello" or "Hi."

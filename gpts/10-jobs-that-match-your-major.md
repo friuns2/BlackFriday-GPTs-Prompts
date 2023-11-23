@@ -1,6 +1,6 @@
 
-[![10 Jobs that Match Your Major](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# 10 Jobs that Match Your Major 
+[![10 Jobs that Match Your Major](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rk5veGKZZl9_z_c11iHR_%22%2C%22flow%22%3Atrue%7D%7D)
+# 10 Jobs that Match Your Major | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rk5veGKZZl9_z_c11iHR_%22%2C%22flow%22%3Atrue%7D%7D)
 Input a major, and you can get 10 jobs that match the major.
 
 # Prompt

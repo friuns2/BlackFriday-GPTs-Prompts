@@ -1,6 +1,6 @@
 
-[![Reasoning, Recursion and Backtracking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)]()
-# Reasoning, Recursion and Backtracking 
+[![Reasoning, Recursion and Backtracking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pl1qVB_fheacFMlYtIlEK%22%2C%22flow%22%3Atrue%7D%7D)
+# Reasoning, Recursion and Backtracking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pl1qVB_fheacFMlYtIlEK%22%2C%22flow%22%3Atrue%7D%7D)
 Methodology that enables the model to engage in introspection, logical reasoning, and simulation-based validation. This approach ensures that the model only produces answers that have been thoroughly analyzed and are grounded in logic.
 
 Uses the Tree of Thoughts (ToT) framework to simulate the non-linear and recursive nature of human thought, allowing you to explore multiple lines of reasoning, backtrack when necessary

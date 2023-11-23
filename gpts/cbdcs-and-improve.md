@@ -1,6 +1,6 @@
 
-[![CBDCs and Improve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# CBDCs and Improve 
+[![CBDCs and Improve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bLQDg6J5GOWuHKcMJN-iy%22%2C%22flow%22%3Atrue%7D%7D)
+# CBDCs and Improve | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bLQDg6J5GOWuHKcMJN-iy%22%2C%22flow%22%3Atrue%7D%7D)
 What are the CBDCs & methods for improve them with GPT
 
 # Prompt

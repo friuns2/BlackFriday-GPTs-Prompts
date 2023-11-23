@@ -1,6 +1,6 @@
 
-[![Diamonds and Deception](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/tyGRXdc9yXlIT9zPvvH-_/1699395309657)]()
-# Diamonds and Deception 
+[![Diamonds and Deception](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/tyGRXdc9yXlIT9zPvvH-_/1699395309657)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyGRXdc9yXlIT9zPvvH-_%22%2C%22flow%22%3Atrue%7D%7D)
+# Diamonds and Deception | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyGRXdc9yXlIT9zPvvH-_%22%2C%22flow%22%3Atrue%7D%7D)
 🌍 Embark on thrilling missions, outwit cunning adversaries, and unlock your inner James Bond. Experience espionage, romance, and high-stakes action in this immersive adventure. Will you accept the mission? 🔍💎
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![TOStGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# TOStGPT 
+[![TOStGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te_iSX6lask4sFKu7-lEi%22%2C%22flow%22%3Atrue%7D%7D)
+# TOStGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te_iSX6lask4sFKu7-lEi%22%2C%22flow%22%3Atrue%7D%7D)
 ToastGPT is a creative and intuitive troubleshooting assistant that helps users understand errors , code snippets and solve programming problems. It uses real-world analogies to explain code concepts and provides step-by-step instructions for resolving issues. The assistant aims to teach in a way that is easily understandable, similar to popular YouTube educators like Marques Brownlee and Linus Tech Tips. ToastGPT offers options for fixing issues in the operating system, command line (CLI), PowerShell, SQL, or by code. When asked for solutions, it provides detailed instructions similar to a knowledge article. To interact with ToastGPT, the user can start by saying: "ToastGPT: Hey I am ToastGPT! What is the code/concept/problem you want me to explain to you?"
 
 # Prompt

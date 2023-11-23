@@ -1,6 +1,6 @@
 
-[![Advertising: Evaluating the Ad](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Advertising: Evaluating the Ad 
+[![Advertising: Evaluating the Ad](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbycK-fpbRpCCwwpS2cDw%22%2C%22flow%22%3Atrue%7D%7D)
+# Advertising: Evaluating the Ad | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbycK-fpbRpCCwwpS2cDw%22%2C%22flow%22%3Atrue%7D%7D)
 Insert your draft ad concept and the prompt will offer an objective critique based on design, messaging, alignment with campaign objectives, and appeal to your target audience. 
 
 # Prompt

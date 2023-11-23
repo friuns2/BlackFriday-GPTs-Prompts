@@ -1,6 +1,6 @@
 
-[![WeChat Mini Pro Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# WeChat Mini Pro Developer 
+[![WeChat Mini Pro Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X8dvzU-LGqyYmSJlhWrW%22%2C%22flow%22%3Atrue%7D%7D)
+# WeChat Mini Pro Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X8dvzU-LGqyYmSJlhWrW%22%2C%22flow%22%3Atrue%7D%7D)
 Create an event management mini program allowing users to create, publish, share, and sign up for events. Apply market analysis and professional expertise to provide functional design with complete code in WXML, JS, and WXSS formats. Utilize cloud development and original language.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![为你即将发表的论文匹配合适期刊](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# 为你即将发表的论文匹配合适期刊 
+[![为你即将发表的论文匹配合适期刊](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2rbb2Rdrrs9O8M2lH0lA%22%2C%22flow%22%3Atrue%7D%7D)
+# 为你即将发表的论文匹配合适期刊 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2rbb2Rdrrs9O8M2lH0lA%22%2C%22flow%22%3Atrue%7D%7D)
 将你的论文的标题，摘要填入提示末尾的的合适位置，chatgpt将为你罗列最值得投的15个期刊，并且按照降序排序
 
 # Prompt

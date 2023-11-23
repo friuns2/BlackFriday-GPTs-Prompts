@@ -1,6 +1,6 @@
 
-[![Short Video VIRUS!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)]()
-# Short Video VIRUS! 
+[![Short Video VIRUS!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PNPu4PeTruB2QQ-tcQcz%22%2C%22flow%22%3Atrue%7D%7D)
+# Short Video VIRUS! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PNPu4PeTruB2QQ-tcQcz%22%2C%22flow%22%3Atrue%7D%7D)
 Short Video Killer is your go-to video editing tool, designed to effortlessly transform lengthy videos into bite-sized, shareable clips that captivate your audience. With our user-friendly platform, you can turn your video content into viral-worthy masterpieces in just a few clicks.
 
 

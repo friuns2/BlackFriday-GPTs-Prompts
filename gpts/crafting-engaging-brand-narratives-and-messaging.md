@@ -1,6 +1,6 @@
 
-[![Crafting Engaging Brand Narratives and Messaging](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Crafting Engaging Brand Narratives and Messaging 
+[![Crafting Engaging Brand Narratives and Messaging](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZFFKPyuNEDkcMA3ET-_aH%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Engaging Brand Narratives and Messaging | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZFFKPyuNEDkcMA3ET-_aH%22%2C%22flow%22%3Atrue%7D%7D)
 Narratives and messages that align with your brand's core values are pivotal to strengthening your market position. This prompt can assist in creating such content. 
 
 # Prompt

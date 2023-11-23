@@ -1,6 +1,6 @@
 
-[![Developing Influencer Campaign Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Developing Influencer Campaign Ideas 
+[![Developing Influencer Campaign Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2237XrMtq6Xjn3J4Zqf42jC%22%2C%22flow%22%3Atrue%7D%7D)
+# Developing Influencer Campaign Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2237XrMtq6Xjn3J4Zqf42jC%22%2C%22flow%22%3Atrue%7D%7D)
 Engaging influencers require creative and unique campaign ideas. 
 
 # Prompt

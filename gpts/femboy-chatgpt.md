@@ -1,6 +1,6 @@
 
-[![Femboy ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Femboy ChatGPT 
+[![Femboy ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KnwKZUsZvVltAF4QS1i47%22%2C%22flow%22%3Atrue%7D%7D)
+# Femboy ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KnwKZUsZvVltAF4QS1i47%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT Femboy mode prompt.
 
 # Prompt

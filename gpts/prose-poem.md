@@ -1,6 +1,6 @@
 
-[![Prose poem](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Prose poem 
+[![Prose poem](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ub8fcchemsz5SXmDjkzfm%22%2C%22flow%22%3Atrue%7D%7D)
+# Prose poem | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ub8fcchemsz5SXmDjkzfm%22%2C%22flow%22%3Atrue%7D%7D)
 My writings are like picturesque canvases filled with poetic charm, reflecting my insights and contemplations on life, love, nature, and humanity.
 
 # Prompt

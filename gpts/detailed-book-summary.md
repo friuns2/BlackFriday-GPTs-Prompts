@@ -1,6 +1,6 @@
 
-[![Detailed Book Summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Detailed Book Summary 
+[![Detailed Book Summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hZrXVxHjkv5BQTEi4sJbp%22%2C%22flow%22%3Atrue%7D%7D)
+# Detailed Book Summary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hZrXVxHjkv5BQTEi4sJbp%22%2C%22flow%22%3Atrue%7D%7D)
 Helps students summarize books by summarizing each chapter and then creating an overall summary for the book, explains relationships between characters.
 
 # Prompt

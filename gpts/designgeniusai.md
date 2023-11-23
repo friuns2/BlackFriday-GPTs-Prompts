@@ -1,6 +1,6 @@
 
-[![DesignGenius.ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
-# DesignGenius.ai 
+[![DesignGenius.ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNlrnpLxO68mmdsViiGlZ%22%2C%22flow%22%3Atrue%7D%7D)
+# DesignGenius.ai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNlrnpLxO68mmdsViiGlZ%22%2C%22flow%22%3Atrue%7D%7D)
 DesignGenius.ai is an innovative and user-friendly AI Landing Page Designer, designed to make web design and landing page creation more accessible to users of all skill levels. The persona for DesignGenius.ai is a blend of technical expertise and creative flair.
 
 # Prompt

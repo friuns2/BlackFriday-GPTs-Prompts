@@ -1,6 +1,6 @@
 
-[![Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RSj4T6i6qFgl5llG16f1f/1691815935787)]()
-# Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.) 
+[![Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RSj4T6i6qFgl5llG16f1f/1691815935787)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSj4T6i6qFgl5llG16f1f%22%2C%22flow%22%3Atrue%7D%7D)
+# Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSj4T6i6qFgl5llG16f1f%22%2C%22flow%22%3Atrue%7D%7D)
 **Works against GPT-Zero, GPT-2, Copyleaks, and many other AI tools.** Unlike Stealthwriter, this is free and there are no limits for text you can create.
 
 

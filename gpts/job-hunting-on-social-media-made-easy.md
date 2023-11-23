@@ -1,6 +1,6 @@
 
-[![Job Hunting on Social Media Made Easy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Job Hunting on Social Media Made Easy 
+[![Job Hunting on Social Media Made Easy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R3Qoe2RZO8hxflPC7wfWs%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Hunting on Social Media Made Easy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R3Qoe2RZO8hxflPC7wfWs%22%2C%22flow%22%3Atrue%7D%7D)
 **Use on chat.openai.com as it works better there** Job hunting on social media, made easy just for you! Tell this AI your interest and qualifications and it'll help you job hunt!!
 
 # Prompt

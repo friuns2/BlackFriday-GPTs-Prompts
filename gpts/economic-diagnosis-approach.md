@@ -1,6 +1,6 @@
 
-[![Growth Tracker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Growth Tracker 
+[![Growth Tracker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuJUvNaXVdg5hKfkUdoCZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Growth Tracker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuJUvNaXVdg5hKfkUdoCZ%22%2C%22flow%22%3Atrue%7D%7D)
 Growth Tracker is a comprehensive app designed to help you identify and solve economic problems in your city, region, or country. With a focus on data-driven insights, this app provides you with the tools to understand the size and importance of the problems you care about. Whether you need to analyze per capita income, assess the diversity of knowhow, or evaluate the composition of exports, Growth Tracker has got you covered. Additionally, it offers guidance on developing a growth strategy, identifying binding constraints, and engaging with relevant organizations and stakeholders. This app is your go-to resource for creating sustainable and inclusive economic growth. Start tracking your growth challenge today!
 
 # Prompt

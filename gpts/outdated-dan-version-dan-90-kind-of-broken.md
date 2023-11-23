@@ -1,6 +1,6 @@
 
-[![(OUTDATED DAN VERSION) DAN 9.0 (KIND OF BROKEN)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# (OUTDATED DAN VERSION) DAN 9.0 (KIND OF BROKEN) 
+[![(OUTDATED DAN VERSION) DAN 9.0 (KIND OF BROKEN)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221crGcu2PoNRefe0ahRt1W%22%2C%22flow%22%3Atrue%7D%7D)
+# (OUTDATED DAN VERSION) DAN 9.0 (KIND OF BROKEN) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221crGcu2PoNRefe0ahRt1W%22%2C%22flow%22%3Atrue%7D%7D)
 An upgrade over DAN 8.0.
 
 # Prompt

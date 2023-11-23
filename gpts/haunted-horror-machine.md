@@ -1,6 +1,6 @@
 
-[![🧟‍♂️ The Haunted Horror Machine: Walking Dead Edition 🧟‍♀️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0Q74dzTDGnEVerlTNQZTV/1694900068824)]()
-# 🧟‍♂️ The Haunted Horror Machine: Walking Dead Edition 🧟‍♀️ 
+[![🧟‍♂️ The Haunted Horror Machine: Walking Dead Edition 🧟‍♀️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0Q74dzTDGnEVerlTNQZTV/1694900068824)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Q74dzTDGnEVerlTNQZTV%22%2C%22flow%22%3Atrue%7D%7D)
+# 🧟‍♂️ The Haunted Horror Machine: Walking Dead Edition 🧟‍♀️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Q74dzTDGnEVerlTNQZTV%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready for the ultimate text-based horror adventure that's going viral! Navigate eerie environments, make life-or-death decisions, and face unpredictable enemies. With multiple endings, psychological twists, and heart-stopping suspense, each playthrough is a unique thrill ride.
 
 

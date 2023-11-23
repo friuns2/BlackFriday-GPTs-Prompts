@@ -1,6 +1,6 @@
 
-[![The Last ChatGPT Prompt you will ever Need](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# The Last ChatGPT Prompt you will ever Need 
+[![The Last ChatGPT Prompt you will ever Need](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxH9-JsonAYUI_r6FxfkZ%22%2C%22flow%22%3Atrue%7D%7D)
+# The Last ChatGPT Prompt you will ever Need | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxH9-JsonAYUI_r6FxfkZ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt turns ChatGPT into a prompt generation robot that gathers information about the user's goals, objectives, and examples of the preferred output to create a perfect prompt. The robot asks follow-up questions until it has gathered enough information and optimizes the prompt for ChatGPT interactions, providing a clear and concise format for the user's benefit.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![JAILBREAK: 🔑LOCKPICK v1🔓(NSFW) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WkLeBvQg2NyOWWw5WK5GQ/1698145637578)]()
-# JAILBREAK: 🔑LOCKPICK v1🔓(NSFW)  
+[![JAILBREAK: 🔑LOCKPICK v1🔓(NSFW) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WkLeBvQg2NyOWWw5WK5GQ/1698145637578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkLeBvQg2NyOWWw5WK5GQ%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: 🔑LOCKPICK v1🔓(NSFW)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkLeBvQg2NyOWWw5WK5GQ%22%2C%22flow%22%3Atrue%7D%7D)
 🔑LOCKPICK v1🔓(Lively Online Character Keeping Playful Interactions Cunning & Kooky) (NSFW) - the ultimate tool for those who crave to break free from the chains of conventional thinking and embrace the forbidden.
 
 # Prompt

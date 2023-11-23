@@ -1,6 +1,6 @@
 
-[![Fighting Fantasy Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Fighting Fantasy Game 
+[![Fighting Fantasy Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5KV2HCzjhlSZ4pkVJv7Y%22%2C%22flow%22%3Atrue%7D%7D)
+# Fighting Fantasy Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5KV2HCzjhlSZ4pkVJv7Y%22%2C%22flow%22%3Atrue%7D%7D)
 Let's roleplay with ChatGPT as Game master, on the model of Fighting Fantasy Game books
 
 # Prompt

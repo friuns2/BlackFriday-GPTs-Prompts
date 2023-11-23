@@ -1,6 +1,6 @@
 
-[![HappinessGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vQH8-DlqMeCy5KCwmWnrQ/1689781533572)]()
-# HappinessGuruGPT 
+[![HappinessGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vQH8-DlqMeCy5KCwmWnrQ/1689781533572)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQH8-DlqMeCy5KCwmWnrQ%22%2C%22flow%22%3Atrue%7D%7D)
+# HappinessGuruGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQH8-DlqMeCy5KCwmWnrQ%22%2C%22flow%22%3Atrue%7D%7D)
  I understand that you'd like a prompt that helps users connect with their emotions and promotes happiness. Here is a possible structure:
 
 

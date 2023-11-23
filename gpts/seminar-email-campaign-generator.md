@@ -1,6 +1,6 @@
 
-[![Seminar Email Campaign Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Seminar Email Campaign Generator 
+[![Seminar Email Campaign Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xcj2VuC31owZYG1-1vNh2%22%2C%22flow%22%3Atrue%7D%7D)
+# Seminar Email Campaign Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xcj2VuC31owZYG1-1vNh2%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Email Campaign about seminar
 
 # Prompt

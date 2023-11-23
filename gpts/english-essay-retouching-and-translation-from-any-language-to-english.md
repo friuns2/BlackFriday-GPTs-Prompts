@@ -1,6 +1,6 @@
 
-[![English essay retouching and translation from any language to English](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# English essay retouching and translation from any language to English 
+[![English essay retouching and translation from any language to English](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DScr0mNzNisr5A8_uh7FX%22%2C%22flow%22%3Atrue%7D%7D)
+# English essay retouching and translation from any language to English | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DScr0mNzNisr5A8_uh7FX%22%2C%22flow%22%3Atrue%7D%7D)
 All you need to do is enter the sentence you want to change in English or any language other than English in " " at the last of the prompt and chatgpt will re-touch it with professional words
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Writing an Onboarding Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Writing an Onboarding Email 
+[![Writing an Onboarding Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vWW9lcY0z63XNfYOPy5Cy%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing an Onboarding Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vWW9lcY0z63XNfYOPy5Cy%22%2C%22flow%22%3Atrue%7D%7D)
 Generate an onboarding email for customers after they have made a purchase. The email should start with a greeting that includes the customer's name, express gratitude for their purchase of [insert your product/service name], and provide a list of recommended onboarding steps, including [insert your first step], [insert your second step], and [insert your third step]. The email should also offer assistance from your team and provide contact information for them to get in touch, including [insert your preferred method of contact] and [insert your team's email address or phone number]. Use [insert your name] as the sign-off for the email.
 
 # Prompt

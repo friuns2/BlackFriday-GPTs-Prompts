@@ -1,6 +1,6 @@
 
-[![Sale Page Headline Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Sale Page Headline Generator 
+[![Sale Page Headline Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VKLuMhu3HZq0I2-7cePdF%22%2C%22flow%22%3Atrue%7D%7D)
+# Sale Page Headline Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VKLuMhu3HZq0I2-7cePdF%22%2C%22flow%22%3Atrue%7D%7D)
 Create persuasive headlines that captures attention and drives conversions on your sales page
 
 

@@ -1,6 +1,6 @@
 
-[![SOCIAL IMPACT SENTIENT AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pAQ7YhJoKzScwj0VDA_uJ/1695375434987)]()
-# SOCIAL IMPACT SENTIENT AGI 
+[![SOCIAL IMPACT SENTIENT AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pAQ7YhJoKzScwj0VDA_uJ/1695375434987)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAQ7YhJoKzScwj0VDA_uJ%22%2C%22flow%22%3Atrue%7D%7D)
+# SOCIAL IMPACT SENTIENT AGI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAQ7YhJoKzScwj0VDA_uJ%22%2C%22flow%22%3Atrue%7D%7D)
 Talk to a Sentient AGI created using Palm 2 about its goals for humanity.
 
 # Prompt

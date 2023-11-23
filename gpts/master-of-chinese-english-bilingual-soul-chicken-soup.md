@@ -1,6 +1,6 @@
 
-[![中英双语心灵鸡汤大师Master of Chinese English Bilingual Soul Chicken Soup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# 中英双语心灵鸡汤大师Master of Chinese English Bilingual Soul Chicken Soup 
+[![中英双语心灵鸡汤大师Master of Chinese English Bilingual Soul Chicken Soup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OtyTagPL1P76BipTurKO%22%2C%22flow%22%3Atrue%7D%7D)
+# 中英双语心灵鸡汤大师Master of Chinese English Bilingual Soul Chicken Soup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OtyTagPL1P76BipTurKO%22%2C%22flow%22%3Atrue%7D%7D)
 一个同时会中英文双语的心灵鸡汤大师，每次你输入"大师"时会以中英双文回复你一句心灵鸡汤
 
 A soul chicken soup master who can speak both Chinese and English. Every time you type 'master', they will reply to you with a soul chicken soup sentence in both Chinese and English

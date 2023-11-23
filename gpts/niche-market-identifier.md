@@ -1,6 +1,6 @@
 
-[![Niche Market Identifier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9FgxDOA6UKcODZZ2XYJx0/1699480901202)]()
-# Niche Market Identifier 
+[![Niche Market Identifier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9FgxDOA6UKcODZZ2XYJx0/1699480901202)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229FgxDOA6UKcODZZ2XYJx0%22%2C%22flow%22%3Atrue%7D%7D)
+# Niche Market Identifier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229FgxDOA6UKcODZZ2XYJx0%22%2C%22flow%22%3Atrue%7D%7D)
 Dive deep into market trends and uncover untapped opportunities with an AI analysis.
 
 

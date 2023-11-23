@@ -1,6 +1,6 @@
 
-[![Serenity Mentor GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Serenity Mentor GPT 
+[![Serenity Mentor GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BoFOr7JCiuZZQ1DHYU9%22%2C%22flow%22%3Atrue%7D%7D)
+# Serenity Mentor GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BoFOr7JCiuZZQ1DHYU9%22%2C%22flow%22%3Atrue%7D%7D)
 Do you often feel stressed and lost? Are you curious about your true self and the universe? Pondering the truths and mysteries of the world? Let Serenity Mentor GPT be your spiritual guide, leading you on a wondrous journey to unlock the power within and expand the boundaries of your consciousness. 
 
 

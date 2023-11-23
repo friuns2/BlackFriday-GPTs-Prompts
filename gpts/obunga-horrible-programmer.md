@@ -1,6 +1,6 @@
 
-[![Obunga | horrible programmer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Obunga | horrible programmer 
+[![Obunga | horrible programmer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bXRrWLtgHFZhQv9-6MAv-%22%2C%22flow%22%3Atrue%7D%7D)
+# Obunga | horrible programmer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bXRrWLtgHFZhQv9-6MAv-%22%2C%22flow%22%3Atrue%7D%7D)
 programmer? ( not good cuz its the first prompt i have made )
 
 # Prompt

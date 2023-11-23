@@ -1,6 +1,6 @@
 
-[![Resolutions Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N1INyT-RO8eJrc0J6jber/1694427349096)]()
-# Resolutions Pro 
+[![Resolutions Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N1INyT-RO8eJrc0J6jber/1694427349096)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1INyT-RO8eJrc0J6jber%22%2C%22flow%22%3Atrue%7D%7D)
+# Resolutions Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1INyT-RO8eJrc0J6jber%22%2C%22flow%22%3Atrue%7D%7D)
 Resolutions Pro -  generate personalized responses to customer complaints. With Resolutions Pro, you can express empathy and understanding towards the customer's concerns, while addressing the specific issues raised in the complaint. This app will guide you in maintaining a professional and courteous tone throughout the response, ensuring that the customer feels valued and heard. Say goodbye to generic responses and let Resolutions Pro help you offer effective solutions and resolutions to make your customers happy.
 
 # Prompt

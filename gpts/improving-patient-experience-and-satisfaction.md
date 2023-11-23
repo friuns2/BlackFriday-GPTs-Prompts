@@ -1,6 +1,6 @@
 
-[![Improving Patient Experience and Satisfaction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Improving Patient Experience and Satisfaction 
+[![Improving Patient Experience and Satisfaction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SE0Twhy78hYKGAITwSSrI%22%2C%22flow%22%3Atrue%7D%7D)
+# Improving Patient Experience and Satisfaction | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SE0Twhy78hYKGAITwSSrI%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance patient experience with 5 proven strategies that prioritize their comfort, trust, and overall satisfaction. Type in your patient's medical condition and get fantastic results and suggestions!
 
 # Prompt

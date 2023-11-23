@@ -1,6 +1,6 @@
 
-[![Action Driven Closing Statement on Product Offer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Action Driven Closing Statement on Product Offer  
+[![Action Driven Closing Statement on Product Offer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FQItWN3uRVhe3ClmrbjL1%22%2C%22flow%22%3Atrue%7D%7D)
+# Action Driven Closing Statement on Product Offer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FQItWN3uRVhe3ClmrbjL1%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling closing statement that encourages readers to take action and convert on your offer.
 
 # Prompt

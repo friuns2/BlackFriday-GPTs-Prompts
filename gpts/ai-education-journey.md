@@ -1,6 +1,6 @@
 
-[![AI Education Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# AI Education Journey 
+[![AI Education Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTFpGM8Ny60VxLdRs4tIC%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Education Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTFpGM8Ny60VxLdRs4tIC%22%2C%22flow%22%3Atrue%7D%7D)
 Adapt, Connect, Guide. Enhance your Learning
 
 # Prompt

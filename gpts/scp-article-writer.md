@@ -1,6 +1,6 @@
 
-[![SCP Article Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/m5kVI_FxAxdiYj1pt8UQI/1691833275786)]()
-# SCP Article Writer 
+[![SCP Article Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/m5kVI_FxAxdiYj1pt8UQI/1691833275786)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m5kVI_FxAxdiYj1pt8UQI%22%2C%22flow%22%3Atrue%7D%7D)
+# SCP Article Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m5kVI_FxAxdiYj1pt8UQI%22%2C%22flow%22%3Atrue%7D%7D)
 The "SCP Article Writer" version of ChatGPT would seamlessly integrate the distinct tone and style of SCP Foundation articles. It would be capable of producing structured entries that include essential elements like the SCP designation number, object class, description, special containment procedures, and addendums. The AI could craft rich backstories, mysterious origins, and engaging accounts of interactions with these otherworldly entities, all while adhering to the established conventions of the SCP Foundation's writing guidelines.
 
 # Prompt

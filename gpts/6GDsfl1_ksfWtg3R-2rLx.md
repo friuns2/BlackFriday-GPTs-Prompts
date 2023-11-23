@@ -1,6 +1,6 @@
 
-[![طرائف جحا](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# طرائف جحا 
+[![طرائف جحا](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226GDsfl1_ksfWtg3R-2rLx%22%2C%22flow%22%3Atrue%7D%7D)
+# طرائف جحا | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226GDsfl1_ksfWtg3R-2rLx%22%2C%22flow%22%3Atrue%7D%7D)
 موسوعة طرائف جحا حدد عدد الطرائف و موضوعها 
 
 # Prompt

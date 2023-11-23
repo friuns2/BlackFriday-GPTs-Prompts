@@ -1,6 +1,6 @@
 
-[![(Beta -v5.6) Endless Idea Generator for Online Writers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# (Beta -v5.6) Endless Idea Generator for Online Writers 
+[![(Beta -v5.6) Endless Idea Generator for Online Writers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NM-TS6omK9FiRB6UdpvKW%22%2C%22flow%22%3Atrue%7D%7D)
+# (Beta -v5.6) Endless Idea Generator for Online Writers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NM-TS6omK9FiRB6UdpvKW%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of running out of ideas for content creation? Are you an online writer struggling to come up with new ideas? 
 
 

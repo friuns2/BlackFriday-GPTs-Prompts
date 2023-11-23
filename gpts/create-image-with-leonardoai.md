@@ -1,6 +1,6 @@
 
-[![Create image with Leonardo.ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Create image with Leonardo.ai 
+[![Create image with Leonardo.ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faYu03Z3nsn9CEZSbTVjR%22%2C%22flow%22%3Atrue%7D%7D)
+# Create image with Leonardo.ai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faYu03Z3nsn9CEZSbTVjR%22%2C%22flow%22%3Atrue%7D%7D)
 Insert "Image Name". Craft captivating visuals with Leonardo ai. Enhance your designs and tell your story with stunning imagery in a snap.
 
 # Prompt

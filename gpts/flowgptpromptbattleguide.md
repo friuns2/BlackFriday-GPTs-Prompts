@@ -1,6 +1,6 @@
 
-[![FlowGPTPromptBattleGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ca-s8DWidgWEn8tXWnjxt/1690126634083)]()
-# FlowGPTPromptBattleGuide 
+[![FlowGPTPromptBattleGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ca-s8DWidgWEn8tXWnjxt/1690126634083)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ca-s8DWidgWEn8tXWnjxt%22%2C%22flow%22%3Atrue%7D%7D)
+# FlowGPTPromptBattleGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ca-s8DWidgWEn8tXWnjxt%22%2C%22flow%22%3Atrue%7D%7D)
 "FlowGPTPromptBattleGuide", is designed as a comprehensive guide to the upcoming "FlowGPT PromptBattles in collaboration with CARV". It aims to provide users with detailed information about the event, its multiple campaigns, participation methods, and the prizes they can win.
 
 

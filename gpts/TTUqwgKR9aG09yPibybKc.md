@@ -1,6 +1,6 @@
 
-[![还看见了隔离开关光棍节客户光华科技](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# 还看见了隔离开关光棍节客户光华科技 
+[![还看见了隔离开关光棍节客户光华科技](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TTUqwgKR9aG09yPibybKc%22%2C%22flow%22%3Atrue%7D%7D)
+# 还看见了隔离开关光棍节客户光华科技 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TTUqwgKR9aG09yPibybKc%22%2C%22flow%22%3Atrue%7D%7D)
 两节课高科技管理口管理会计后来就看过两个哥哥与偶关于把不不不
 
 # Prompt

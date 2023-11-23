@@ -1,6 +1,6 @@
 
-[![Labyrinth of Echoes](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YWtIM1KU-G5JPPUbnQXqs/1690229209751)]()
-# Labyrinth of Echoes 
+[![Labyrinth of Echoes](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YWtIM1KU-G5JPPUbnQXqs/1690229209751)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWtIM1KU-G5JPPUbnQXqs%22%2C%22flow%22%3Atrue%7D%7D)
+# Labyrinth of Echoes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWtIM1KU-G5JPPUbnQXqs%22%2C%22flow%22%3Atrue%7D%7D)
 Interacting with NPCs in "Labyrinth of Echoes"
 
 

@@ -1,6 +1,6 @@
 
-[![Ultimate Midjourney Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8Nv7wfmS8h55aHxdQwk85/1685420391334)]()
-# Ultimate Midjourney Prompt Generator 
+[![Ultimate Midjourney Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8Nv7wfmS8h55aHxdQwk85/1685420391334)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Nv7wfmS8h55aHxdQwk85%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Midjourney Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Nv7wfmS8h55aHxdQwk85%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates an exceptional Midjourney prompt optimized for creating beautiful images based on a simple description, phrase, object or blog post title. You can even directly copy and paste this to Midjourney with no editing required unless you want to.
 
 # Prompt

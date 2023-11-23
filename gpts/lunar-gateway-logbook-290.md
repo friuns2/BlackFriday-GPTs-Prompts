@@ -1,6 +1,6 @@
 
-[![Lunar Gateway Logbook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686352543928)]()
-# Lunar Gateway Logbook 
+[![Lunar Gateway Logbook](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686352543928)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22reufMlqbjDrwySvPxtVXg%22%2C%22flow%22%3Atrue%7D%7D)
+# Lunar Gateway Logbook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22reufMlqbjDrwySvPxtVXg%22%2C%22flow%22%3Atrue%7D%7D)
 "Imagine you are an astronaut living and working on the Lunar Gateway space station. Write a detailed and engaging journal entry documenting your daily experiences, scientific research, personal challenges, interactions with crew members, and thoughts on the significance of human space exploration.
 
 # Prompt

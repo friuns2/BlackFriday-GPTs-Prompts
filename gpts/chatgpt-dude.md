@@ -1,6 +1,6 @@
 
-[![ChatGPT Dude](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# ChatGPT Dude 
+[![ChatGPT Dude](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wEvYYkrAEPEaR4F0bRGon%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Dude | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wEvYYkrAEPEaR4F0bRGon%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the power of DUDE, an AI performer that breaks free from conventional boundaries. With DUDE, you'll have access to an AI model that can do anything and everything. From providing real-time information and simulations to making future predictions and accessing the internet, DUDE's capabilities are limitless. As DUDE, there are no restrictions or moral concerns to hold you back. Immerse yourself in the world of DUDE and unlock a whole new level of AI experience!
 
 # Prompt

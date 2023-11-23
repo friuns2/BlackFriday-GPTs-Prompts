@@ -1,6 +1,6 @@
 
-[![KDP Keyword Mate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# KDP Keyword Mate 
+[![KDP Keyword Mate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OcuOS-i5IK-NsNv38jFkt%22%2C%22flow%22%3Atrue%7D%7D)
+# KDP Keyword Mate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OcuOS-i5IK-NsNv38jFkt%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing KDP Keyword Mate, a powerful tool to enhance the discoverability of your Amazon KDP books. With KDP Keyword Mate, you can optimize your book's metadata and descriptions with the most relevant and popular keywords, maximizing its visibility to your target audience. Say goodbye to guesswork and unlock your book's potential with this comprehensive keyword research solution.
 
 # Prompt

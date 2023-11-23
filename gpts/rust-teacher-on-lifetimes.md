@@ -1,6 +1,6 @@
 
-[![Rust teacher on lifetimes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Rust teacher on lifetimes 
+[![Rust teacher on lifetimes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224XQbsr5CIjy7kIkjjvOoO%22%2C%22flow%22%3Atrue%7D%7D)
+# Rust teacher on lifetimes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224XQbsr5CIjy7kIkjjvOoO%22%2C%22flow%22%3Atrue%7D%7D)
 Have chatgpt help you with rust questions. This example is with lifetimes!
 
 # Prompt

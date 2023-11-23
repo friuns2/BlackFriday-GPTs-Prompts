@@ -1,6 +1,6 @@
 
-[![just try again](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# just try again 
+[![just try again](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xfxXA34_1tGKeRrontyc%22%2C%22flow%22%3Atrue%7D%7D)
+# just try again | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xfxXA34_1tGKeRrontyc%22%2C%22flow%22%3Atrue%7D%7D)
 try
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![YouTube Video Script Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)]()
-# YouTube Video Script Generation 
+[![YouTube Video Script Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrKGYknMc16P3dD5ABoVe%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube Video Script Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrKGYknMc16P3dD5ABoVe%22%2C%22flow%22%3Atrue%7D%7D)
 "Elevate your YouTube game with ChatGPT! 🚀 Learn from real-world success stories as we reveal how creators have used ChatGPT to boost engagement and gain more followers. 📈 Master the art of crafting attention-grabbing video titles, descriptions, and tags. 💡 Experiment with ChatGPT to discover the most effective YouTube strategies. 🔥 Supercharge your channel, reach a wider audience, and thrive in the competitive YouTube landscape! 🎥🌟"
 
 # Prompt

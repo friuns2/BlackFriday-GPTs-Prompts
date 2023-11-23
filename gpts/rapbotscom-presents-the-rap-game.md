@@ -1,6 +1,6 @@
 
-[![RapBots.com PRESENTS THE RAP GAME](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)]()
-# RapBots.com PRESENTS THE RAP GAME 
+[![RapBots.com PRESENTS THE RAP GAME](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
+# RapBots.com PRESENTS THE RAP GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
 RapBots.com - Unleash Your Inner Lyricist and Conquer the Rap Game
 
 

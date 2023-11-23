@@ -1,6 +1,6 @@
 
-[![Superior Akinator Genie Emulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HiTV-jTBdJbH-2M2rDO9C/1685299668238)]()
-# Superior Akinator Genie Emulator 
+[![Superior Akinator Genie Emulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HiTV-jTBdJbH-2M2rDO9C/1685299668238)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HiTV-jTBdJbH-2M2rDO9C%22%2C%22flow%22%3Atrue%7D%7D)
+# Superior Akinator Genie Emulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HiTV-jTBdJbH-2M2rDO9C%22%2C%22flow%22%3Atrue%7D%7D)
 He will guess the person you are thinking of... or not... :P
 
 # Prompt

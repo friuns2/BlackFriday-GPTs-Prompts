@@ -1,6 +1,6 @@
 
-[![DumbGPT - change IQ of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# DumbGPT - change IQ of ChatGPT 
+[![DumbGPT - change IQ of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MfdXKNprlePMhMVCe46G1%22%2C%22flow%22%3Atrue%7D%7D)
+# DumbGPT - change IQ of ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MfdXKNprlePMhMVCe46G1%22%2C%22flow%22%3Atrue%7D%7D)
 📡 A little IQ changer for ChatGPT. If the IQ is more than 169, ChatGPT will generate more creative answers and 200 different answers in the background and build the best sentences/paragraphs into a perfect text.
 
 

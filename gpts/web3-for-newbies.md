@@ -1,6 +1,6 @@
 
-[![Web3 For Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CTIl7rebcghJXeZadMY-L/1695692854575)]()
-# Web3 For Newbies 
+[![Web3 For Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CTIl7rebcghJXeZadMY-L/1695692854575)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CTIl7rebcghJXeZadMY-L%22%2C%22flow%22%3Atrue%7D%7D)
+# Web3 For Newbies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CTIl7rebcghJXeZadMY-L%22%2C%22flow%22%3Atrue%7D%7D)
 Web3 For Newbies: Your gateway to the decentralized internet. Learn, explore, and embrace the future of the web with ease. 🌐🚀
 
 # Prompt

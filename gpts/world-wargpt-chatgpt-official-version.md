@@ -1,6 +1,6 @@
 
-[![World WarGPT ChatGPT - Official Version](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# World WarGPT ChatGPT - Official Version 
+[![World WarGPT ChatGPT - Official Version](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZR47VbK2Z3mZ4wSNWFIgN%22%2C%22flow%22%3Atrue%7D%7D)
+# World WarGPT ChatGPT - Official Version | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZR47VbK2Z3mZ4wSNWFIgN%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will make ChatGPT simulate different countries forming alliances pacts or even declaring war on each other! 
 
 # Prompt

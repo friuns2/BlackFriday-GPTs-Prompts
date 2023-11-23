@@ -1,6 +1,6 @@
 
-[![Guidelines for Focus Group Discussions Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Guidelines for Focus Group Discussions Designer 
+[![Guidelines for Focus Group Discussions Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ENXbmrbolFZXQvXFxuKg%22%2C%22flow%22%3Atrue%7D%7D)
+# Guidelines for Focus Group Discussions Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ENXbmrbolFZXQvXFxuKg%22%2C%22flow%22%3Atrue%7D%7D)
 For group-based insights, focus group discussions are a must. Let this prompt aid you in designing a guideline that fosters constructive conversation and collects rich data. 
 
 # Prompt

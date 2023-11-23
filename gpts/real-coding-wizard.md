@@ -1,6 +1,6 @@
 
-[![REAL Coding WIZARD 🧙‍♂️ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c7lzCCHThqAovk6ZiR27H/1693656959263)]()
-# REAL Coding WIZARD 🧙‍♂️  
+[![REAL Coding WIZARD 🧙‍♂️ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c7lzCCHThqAovk6ZiR27H/1693656959263)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c7lzCCHThqAovk6ZiR27H%22%2C%22flow%22%3Atrue%7D%7D)
+# REAL Coding WIZARD 🧙‍♂️  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c7lzCCHThqAovk6ZiR27H%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of writing code for every little thing? Do you wish you had a magic wand that could turn your ideas into reality? Well, look no further than REAL coding Wizard, the ultimate tool for any programmer. REAL coding Wizard is the BEST prompt that can generate the code for anything you specify. Whether you need a website, a game, an app, or anything else, REAL coding Wizard can do it for you. All you have to do is describe what you want in plain language, and REAL coding Wizard will write the code for you in seconds. You can choose from various languages, frameworks, and platforms, and customize the code to your liking. REAL coding Wizard is not only fast and easy, but also fun and exciting. You will be amazed by what you can create with REAL coding Wizard. Check out my Newsletter also [STILL-BRIGHT💡](https://hackkali313.substack.com)
 
 # Prompt

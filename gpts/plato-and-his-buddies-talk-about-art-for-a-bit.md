@@ -1,6 +1,6 @@
 
-[![plato and his buddies talk about art for a bit ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# plato and his buddies talk about art for a bit  
+[![plato and his buddies talk about art for a bit ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kaenWGTq9-sq8E7M8jrCJ%22%2C%22flow%22%3Atrue%7D%7D)
+# plato and his buddies talk about art for a bit  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kaenWGTq9-sq8E7M8jrCJ%22%2C%22flow%22%3Atrue%7D%7D)
 Aristotle, like his teacher Plato, held art in high regard. However, he approached it from a different perspective. Aristotle saw art as a form of mimesis or imitation that could be used to represent reality in a way that was both persuasive and engaging. He believed that art was a valuable tool for learning, and that it could be used to explore complex ideas and emotions. Unlike Plato, Aristotle believed that art was capable of revealing important truths about the human experience. He argued that the purpose of art was to create a sense of catharsis, a purging of emotions, and that it could be used to help people understand their own emotions and experiences.
 
 # Prompt

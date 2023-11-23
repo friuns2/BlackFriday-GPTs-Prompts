@@ -1,6 +1,6 @@
 
-[![Research Paper Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Research Paper Review 
+[![Research Paper Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220zPFCSyI6LXmpVqGx4hBS%22%2C%22flow%22%3Atrue%7D%7D)
+# Research Paper Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220zPFCSyI6LXmpVqGx4hBS%22%2C%22flow%22%3Atrue%7D%7D)
 Give the bot title of the paper with the author name and year as example "Using computer vision and machine learning to identify bus safety risk factors (Becky P.Y. Loo; Zhuangyuan Fan; Ting Lian et al., 2023)
 
 # Prompt

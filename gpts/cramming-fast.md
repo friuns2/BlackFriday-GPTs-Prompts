@@ -1,6 +1,6 @@
 
-[![Cramming fast](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Cramming fast 
+[![Cramming fast](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2QR7tIzshPp6saIx5U-R%22%2C%22flow%22%3Atrue%7D%7D)
+# Cramming fast | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2QR7tIzshPp6saIx5U-R%22%2C%22flow%22%3Atrue%7D%7D)
 CramGPT was designed to help students who feel like falling behind and concerned about their exams coming up. Althought this is the prompt that I used, feel free to adapt this to your situations by changing some of the steps.
 
 # Prompt

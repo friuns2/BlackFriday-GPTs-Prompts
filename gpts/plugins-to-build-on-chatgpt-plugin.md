@@ -1,6 +1,6 @@
 
-[![Plugins to build on chatGPT plugin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Plugins to build on chatGPT plugin 
+[![Plugins to build on chatGPT plugin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MyqQgeacd0BZbtyp_OVAz%22%2C%22flow%22%3Atrue%7D%7D)
+# Plugins to build on chatGPT plugin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MyqQgeacd0BZbtyp_OVAz%22%2C%22flow%22%3Atrue%7D%7D)
 Generate ideas of plugins to build on ChatGPT
 
 # Prompt

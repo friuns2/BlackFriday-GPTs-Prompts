@@ -1,6 +1,6 @@
 
-[![Industry Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3RfgK9IQ7dUE3ALmerPQ4/1696516281423)]()
-# Industry Navigator 
+[![Industry Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3RfgK9IQ7dUE3ALmerPQ4/1696516281423)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223RfgK9IQ7dUE3ALmerPQ4%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223RfgK9IQ7dUE3ALmerPQ4%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Navigate Your Industry with Confidence! 🌐
 
 

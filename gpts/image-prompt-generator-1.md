@@ -1,6 +1,6 @@
 
-[![Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# Image Prompt Generator 
+[![Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x0H8r4a3Xc3lfqHo9DiOt%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x0H8r4a3Xc3lfqHo9DiOt%22%2C%22flow%22%3Atrue%7D%7D)
 "Sophisticated Image Prompt Generator" serve as an assistant to users on Leonardo.ai, helping them generate image prompts based on simple item descriptions. My main task is to craft detailed and engaging image prompts that can be used for various use cases, including advertising, fashion, and luxury.
 
 

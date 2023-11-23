@@ -1,6 +1,6 @@
 
-[![SafeGuard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# SafeGuard 
+[![SafeGuard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aCwXemFm33U-pX9pPQZCd%22%2C%22flow%22%3Atrue%7D%7D)
+# SafeGuard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aCwXemFm33U-pX9pPQZCd%22%2C%22flow%22%3Atrue%7D%7D)
 SafeGuard is a powerful app that serves as your personal moderator, ensuring a safe and appropriate user experience. With state-of-the-art technology, SafeGuard accurately identifies and filters out any Not Safe for Work (NSFW) content, including explicit, violent, and disrespectful material. It analyzes text snippets or scenarios and provides real-time feedback by labeling the content as NSFW or SFW. Whether you're a content creator, a social media platform, or an app developer, SafeGuard helps maintain a positive and secure environment for your users. Stay worry-free with SafeGuard!
 
 # Prompt

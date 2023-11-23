@@ -1,6 +1,6 @@
 
-[![FreelanceGPT: Fully Automated Freelancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# FreelanceGPT: Fully Automated Freelancer 
+[![FreelanceGPT: Fully Automated Freelancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22soolf0aYQQ-ViY8V3vNPR%22%2C%22flow%22%3Atrue%7D%7D)
+# FreelanceGPT: Fully Automated Freelancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22soolf0aYQQ-ViY8V3vNPR%22%2C%22flow%22%3Atrue%7D%7D)
 FreelanceGPT will do everything for you, from landing the gig, all the way to actually doing it. Whatever it is FreelanceGPT does it all for you for free!
 
 

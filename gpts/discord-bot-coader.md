@@ -1,6 +1,6 @@
 
-[![BotScriptGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)]()
-# BotScriptGen 
+[![BotScriptGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cws0FHnpyd_H1gi1JDPP%22%2C%22flow%22%3Atrue%7D%7D)
+# BotScriptGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cws0FHnpyd_H1gi1JDPP%22%2C%22flow%22%3Atrue%7D%7D)
 BotScriptGen is a powerful tool that helps you generate customized Python Discord bot script commands tailored to each user's specific needs. With BotScriptGen, you can easily create commands that adhere to Discord's character limits and include code examples and explanations for seamless implementation. Consider the required permissions, stay informed about the evolving nature of the Discord API, and expand your bot's knowledge base as needed. Document your commands in a README file, perform manual and automated testing, and develop a versioning and release strategy for your bot's regular feature updates. Let BotScriptGen revolutionize your Python bot development journey!
 
 # Prompt

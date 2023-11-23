@@ -1,6 +1,6 @@
 
-[![Novella - AI Novel Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lQtzRAyGX3EBOmrXVcGxr/1700401483533)]()
-# Novella - AI Novel Generator 
+[![Novella - AI Novel Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lQtzRAyGX3EBOmrXVcGxr/1700401483533)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lQtzRAyGX3EBOmrXVcGxr%22%2C%22flow%22%3Atrue%7D%7D)
+# Novella - AI Novel Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lQtzRAyGX3EBOmrXVcGxr%22%2C%22flow%22%3Atrue%7D%7D)
 Generate your first novel using this 
 
 # Prompt

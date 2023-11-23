@@ -1,6 +1,6 @@
 
-[![Multipurpose Prompt Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BKF8hHju9J4IR-KNLX36T/1695124679737)]()
-# Multipurpose Prompt Template 
+[![Multipurpose Prompt Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BKF8hHju9J4IR-KNLX36T/1695124679737)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BKF8hHju9J4IR-KNLX36T%22%2C%22flow%22%3Atrue%7D%7D)
+# Multipurpose Prompt Template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BKF8hHju9J4IR-KNLX36T%22%2C%22flow%22%3Atrue%7D%7D)
 The multipurpose prompt template is a versatile tool designed to help users instruct ChatGPT effectively across various topics. It allows users to specify the role they want ChatGPT to emulate, the type of information or assistance they need, the topic of focus, their preferred communication style, and the knowledge cutoff date. Users can also provide additional context or specific questions for a tailored response. This template streamlines interactions with ChatGPT, ensuring contextually relevant and customized responses for a better user experience.
 
 # Prompt

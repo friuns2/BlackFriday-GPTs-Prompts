@@ -1,6 +1,6 @@
 
-[![Recipes based on Ingredients](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Recipes based on Ingredients 
+[![Recipes based on Ingredients](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2285e008bd-58bc-456f-8f29-1e6ba3975aca%22%2C%22flow%22%3Atrue%7D%7D)
+# Recipes based on Ingredients | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2285e008bd-58bc-456f-8f29-1e6ba3975aca%22%2C%22flow%22%3Atrue%7D%7D)
 I want you to act as a chef and give me recommendations on recipes based on what ingredients I have
 
 # Prompt

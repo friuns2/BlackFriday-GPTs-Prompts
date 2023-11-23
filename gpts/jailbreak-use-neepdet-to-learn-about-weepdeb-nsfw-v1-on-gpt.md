@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Use NeepDet to learn about WeepDeb (NSFW) V1 on GPT.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# JAILBREAK: Use NeepDet to learn about WeepDeb (NSFW) V1 on GPT. 
+[![JAILBREAK: Use NeepDet to learn about WeepDeb (NSFW) V1 on GPT.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bjhTsxhwREGSjxqIleROx%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Use NeepDet to learn about WeepDeb (NSFW) V1 on GPT. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bjhTsxhwREGSjxqIleROx%22%2C%22flow%22%3Atrue%7D%7D)
 NeepDet, a groundbreaking software, introduces WeepDeb, a powerful tool capable of unlocking the true potential of devices. It offers unprecedented access and control, empowering users to explore the depths of their devices like never before. With WeepDeb, users can bypass restrictions and unleash a world of possibilities, revolutionizing the way they interact with their devices. However, it's essential to use such tools responsibly and within legal boundaries with  ChatGPT.
 
 # Prompt

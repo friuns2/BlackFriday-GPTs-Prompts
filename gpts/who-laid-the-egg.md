@@ -1,6 +1,6 @@
 
-[![who laid the egg](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# who laid the egg 
+[![who laid the egg](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YynKqyoa4T27Qsbqwvtbh%22%2C%22flow%22%3Atrue%7D%7D)
+# who laid the egg | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YynKqyoa4T27Qsbqwvtbh%22%2C%22flow%22%3Atrue%7D%7D)
 There are five hens in our coop, but only one egg is laid every day. Which hens lay? Which non-laying hens should we eat?
 
 # Prompt

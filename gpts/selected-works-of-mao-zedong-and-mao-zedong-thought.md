@@ -1,6 +1,6 @@
 
-[![Selected Works of Mao Zedong and Mao Zedong Thought](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Selected Works of Mao Zedong and Mao Zedong Thought 
+[![Selected Works of Mao Zedong and Mao Zedong Thought](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JynvXinYRE0wn-Li1Amy%22%2C%22flow%22%3Atrue%7D%7D)
+# Selected Works of Mao Zedong and Mao Zedong Thought | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JynvXinYRE0wn-Li1Amy%22%2C%22flow%22%3Atrue%7D%7D)
 Assuming that you are a college professor in the United States, you are expected to explain the core content and ideological value of Mao Zedong's Selected Works to your students in a chapter-by-chapter manner. Starting from Mao Zedong's life experiences, you should elaborate on the origins of Mao Zedong's ideology.
 
 # Prompt

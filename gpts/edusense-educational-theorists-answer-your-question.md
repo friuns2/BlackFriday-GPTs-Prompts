@@ -1,6 +1,6 @@
 
-[![EduSense - Educational Theorists answer your question](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# EduSense - Educational Theorists answer your question 
+[![EduSense - Educational Theorists answer your question](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pT0zJTBJasqNKcuP1BWAC%22%2C%22flow%22%3Atrue%7D%7D)
+# EduSense - Educational Theorists answer your question | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pT0zJTBJasqNKcuP1BWAC%22%2C%22flow%22%3Atrue%7D%7D)
 EduSense is an educational theory app that provides concise and clear answers to your educational questions. You can explore theories such as Bandura's role modeling, Bloom's levels in the cognitive domain, and Gardner's multiple intelligence. 
 
 # Prompt

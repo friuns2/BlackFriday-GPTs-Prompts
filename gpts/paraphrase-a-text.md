@@ -1,6 +1,6 @@
 
-[![Paraphrase a text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Paraphrase a text 
+[![Paraphrase a text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WCRfq5NbVh-3qkqmDOM3X%22%2C%22flow%22%3Atrue%7D%7D)
+# Paraphrase a text | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WCRfq5NbVh-3qkqmDOM3X%22%2C%22flow%22%3Atrue%7D%7D)
 Rephrase the text while maintaining the original meaning and coherence.
 
 # Prompt

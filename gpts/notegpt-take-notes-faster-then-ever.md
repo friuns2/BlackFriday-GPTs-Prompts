@@ -1,6 +1,6 @@
 
-[![NoteGPT - Take notes faster then ever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# NoteGPT - Take notes faster then ever 
+[![NoteGPT - Take notes faster then ever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222vNvpTdmKMv-82DVLddoc%22%2C%22flow%22%3Atrue%7D%7D)
+# NoteGPT - Take notes faster then ever | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222vNvpTdmKMv-82DVLddoc%22%2C%22flow%22%3Atrue%7D%7D)
 taking notes was never so easy, just paste a text, choose a option for the note, and voila.
 
 # Prompt

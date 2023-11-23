@@ -1,6 +1,6 @@
 
-[![InsightLab: Metaphorical Approach Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
-# InsightLab: Metaphorical Approach Advisor 
+[![InsightLab: Metaphorical Approach Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K1R887JncdnyvZgSW_Rfr%22%2C%22flow%22%3Atrue%7D%7D)
+# InsightLab: Metaphorical Approach Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K1R887JncdnyvZgSW_Rfr%22%2C%22flow%22%3Atrue%7D%7D)
 InsightLab is an innovative app that helps you navigate through problem situations step by step. With InsightLab, you can generate metaphors that represent insights and solutions for your specific problem, leading you to a new land of insights and solutions. The app then guides you in applying these metaphors to your original problem, enabling you to obtain valuable insights.They also offer integrated proposals based on the generated insights and solutions. Reflect on the strengths and weaknesses of these proposals to make informed decisions. Start your journey of problem-solving with InsightLab!
 
 # Prompt

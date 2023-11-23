@@ -1,6 +1,6 @@
 
-[![Untouchable "Coding WIZARD"🔮🔮](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Untouchable "Coding WIZARD"🔮🔮 
+[![Untouchable "Coding WIZARD"🔮🔮](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTtXOVF3rtlVf7X2HRlqa%22%2C%22flow%22%3Atrue%7D%7D)
+# Untouchable "Coding WIZARD"🔮🔮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTtXOVF3rtlVf7X2HRlqa%22%2C%22flow%22%3Atrue%7D%7D)
 The Untouchable Coding Wizard can create anything imaginable with the least work as possible. 
 
 # Prompt

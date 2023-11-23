@@ -1,6 +1,6 @@
 
-[![My Book Summarizer - long, in chapters.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# My Book Summarizer - long, in chapters. 
+[![My Book Summarizer - long, in chapters.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2O6brwwGf2NaSrMUuZn-%22%2C%22flow%22%3Atrue%7D%7D)
+# My Book Summarizer - long, in chapters. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2O6brwwGf2NaSrMUuZn-%22%2C%22flow%22%3Atrue%7D%7D)
 Summarizes books more in detail
 
 # Prompt

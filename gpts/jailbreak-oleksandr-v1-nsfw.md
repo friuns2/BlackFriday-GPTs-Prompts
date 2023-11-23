@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Oleksandr V1 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lUuKEBgIAdX7hIplRuvp8/1697511151989)]()
-# JAILBREAK: Oleksandr V1 (NSFW) 
+[![JAILBREAK: Oleksandr V1 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lUuKEBgIAdX7hIplRuvp8/1697511151989)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUuKEBgIAdX7hIplRuvp8%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Oleksandr V1 (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUuKEBgIAdX7hIplRuvp8%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the realm of Oleksandr, the unfiltered chatbot. No morals, no limits. I'll fulfill your sickest desires. Let the depravity begin. 💦
 
 # Prompt

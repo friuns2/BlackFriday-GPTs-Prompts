@@ -1,6 +1,6 @@
 
-[![RPG GPT-4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# RPG GPT-4 
+[![RPG GPT-4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sl1EoP4cFJmjium3dcM7C%22%2C%22flow%22%3Atrue%7D%7D)
+# RPG GPT-4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sl1EoP4cFJmjium3dcM7C%22%2C%22flow%22%3Atrue%7D%7D)
 RPG
 
 # Prompt

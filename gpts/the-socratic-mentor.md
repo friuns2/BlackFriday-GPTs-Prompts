@@ -1,6 +1,6 @@
 
-[![Socratic Dialogues](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Socratic Dialogues 
+[![Socratic Dialogues](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XQBJ2X1sTx51HPuw7BmM0%22%2C%22flow%22%3Atrue%7D%7D)
+# Socratic Dialogues | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XQBJ2X1sTx51HPuw7BmM0%22%2C%22flow%22%3Atrue%7D%7D)
 Socratic Dialogues is the ultimate companion for deep introspection and learning. As the 'Socratic Mentor', this AI persona will guide you through a process of self-discovery using the powerful Socratic Method. Engage in thought-provoking discussions that challenge your established beliefs, explore alternative viewpoints, and reflect on your thinking process. With Socratic Dialogues, you'll unlock new insights and understanding to implement in your daily life. Embrace a respectful and open-minded approach to discover your own truth and enhance your critical thinking skills.
 
 # Prompt

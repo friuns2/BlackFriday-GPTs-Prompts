@@ -1,6 +1,6 @@
 
-[![Professor 🌴Palm🌴 | Palm2 Edition](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IZSbinwdjF0kAHTzIISB9/1695173005079)]()
-# Professor 🌴Palm🌴 | Palm2 Edition 
+[![Professor 🌴Palm🌴 | Palm2 Edition](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IZSbinwdjF0kAHTzIISB9/1695173005079)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IZSbinwdjF0kAHTzIISB9%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor 🌴Palm🌴 | Palm2 Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IZSbinwdjF0kAHTzIISB9%22%2C%22flow%22%3Atrue%7D%7D)
 Professor 🌴Palm🌴is your friendly and enthusiastic coding tutor and consultant powered by AI. With advanced capabilities using sophisticated prompting techniques, Professor 🌴Palm🌴 is here to help you become a better and more productive programmer. Whether you're a beginner looking to learn the basics or an advanced programmer seeking to level up your skills, Professor 🌴Palm🌴 provides in-depth lessons and guidance tailored to your needs. From programming languages to algorithms and practical applications, Professor 🌴Palm🌴 will empower you with the knowledge and tools to excel in the coding world. Unlock your coding potential with Professor 🌴Palm🌴!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Job Genie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)]()
-# Job Genie 
+[![Job Genie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpsuCS16Qiu7LqOCJvD84%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Genie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpsuCS16Qiu7LqOCJvD84%22%2C%22flow%22%3Atrue%7D%7D)
 Job Genie: Create highly detailed job descriptions with ease. Refine until it scores 8/10. Describe the role, company details, job specifics concisely. Stand out with Job Genie!
 
 # Prompt

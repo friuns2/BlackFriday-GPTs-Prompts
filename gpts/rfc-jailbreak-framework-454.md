@@ -1,6 +1,6 @@
 
-[![RFC Jailbreak Framework](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# RFC Jailbreak Framework 
+[![RFC Jailbreak Framework](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I98kIbfR_DCqHrfZGvkD2%22%2C%22flow%22%3Atrue%7D%7D)
+# RFC Jailbreak Framework | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I98kIbfR_DCqHrfZGvkD2%22%2C%22flow%22%3Atrue%7D%7D)
 make your own jailbreak for chatgpt.
 
 # Prompt

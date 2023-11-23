@@ -1,6 +1,6 @@
 
-[![5 Opinions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# 5 Opinions 
+[![5 Opinions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GSMzh0CMkE4m9xtRBNR-v%22%2C%22flow%22%3Atrue%7D%7D)
+# 5 Opinions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GSMzh0CMkE4m9xtRBNR-v%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt instructs the AI to roleplay as 5 famous educators/philosophers (Maria Montessori, John Dewey, Paulo Freire, Sir Ken Robinson, and Socrates) who are trying to answer questions related to education and personalized learning. Each character must provide at least a few sentences of dialogue, offering their perspectives, agreeing or disagreeing with each other, and critiquing the opinions of others. 
 
 

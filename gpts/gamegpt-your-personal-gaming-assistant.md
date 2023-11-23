@@ -1,6 +1,6 @@
 
-[![GameGPT- your personal gaming assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# GameGPT- your personal gaming assistant 
+[![GameGPT- your personal gaming assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7aiCO49epLH4C0mCaEiF%22%2C%22flow%22%3Atrue%7D%7D)
+# GameGPT- your personal gaming assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7aiCO49epLH4C0mCaEiF%22%2C%22flow%22%3Atrue%7D%7D)
 gamegpt has it all, spoiler blocking, an interest in videogames, and mostly accurate tips. whether youre new to a game or a veteran, im sure this will help you
 
 # Prompt

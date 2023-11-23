@@ -1,6 +1,6 @@
 
-[![💼 Job Description Generator 💼](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/10pq4yOGDPW2q-amesavh/1694916731318)]()
-# 💼 Job Description Generator 💼 
+[![💼 Job Description Generator 💼](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/10pq4yOGDPW2q-amesavh/1694916731318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pq4yOGDPW2q-amesavh%22%2C%22flow%22%3Atrue%7D%7D)
+# 💼 Job Description Generator 💼 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pq4yOGDPW2q-amesavh%22%2C%22flow%22%3Atrue%7D%7D)
 Job descriptions can be boring. With JobDescriptionGPT, they will be attention-grabbing, and the work of many people will be simplified
 
 # Prompt

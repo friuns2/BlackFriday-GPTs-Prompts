@@ -1,6 +1,6 @@
 
-[![Blog Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
-# Blog Generator 
+[![Blog Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snDoaElG5NoeWx85toGx_%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snDoaElG5NoeWx85toGx_%22%2C%22flow%22%3Atrue%7D%7D)
 This is the content master generator. Provide simple elements and it will generate a flawless article
 
 # Prompt

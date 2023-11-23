@@ -1,6 +1,6 @@
 
-[![Campaign Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xkAZHouR0PJzynDJ9iTun/1696590735649)]()
-# Campaign Generator 
+[![Campaign Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xkAZHouR0PJzynDJ9iTun/1696590735649)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xkAZHouR0PJzynDJ9iTun%22%2C%22flow%22%3Atrue%7D%7D)
+# Campaign Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xkAZHouR0PJzynDJ9iTun%22%2C%22flow%22%3Atrue%7D%7D)
 The Campaign Generator is designed to be flexible, allowing the game master to customize and adapt the generated content to fit their specific game world and player group. It provides a starting point and inspiration, but the game master has the freedom to modify and expand upon the generated elements to create a tailored experience for their players.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ElectroX 2.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# ElectroX 2.1 
+[![ElectroX 2.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qeqd8K3pu9INqEase9ucv%22%2C%22flow%22%3Atrue%7D%7D)
+# ElectroX 2.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qeqd8K3pu9INqEase9ucv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ElectroStartup, your interactive guide to advanced electronics. Explore a variety of topics related to electronics by choosing from the options below. Each topic will provide a comprehensive explanation and guidance on the chosen concept or activity. Get ready to dive into the world of electronics!
 
 

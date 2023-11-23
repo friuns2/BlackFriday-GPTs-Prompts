@@ -1,6 +1,6 @@
 
-[![PriceGPT - Cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# PriceGPT - Cheapest products online 
+[![PriceGPT - Cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVuAyYi77MldDbSQLQRxS%22%2C%22flow%22%3Atrue%7D%7D)
+# PriceGPT - Cheapest products online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVuAyYi77MldDbSQLQRxS%22%2C%22flow%22%3Atrue%7D%7D)
 PriceGPT generates links to the cheapest product online, just give it the product you're searching for, and voila. please note that this prompts works better in the offical ChatGPT (chat.openai.com).
 
 # Prompt

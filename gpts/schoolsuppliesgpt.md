@@ -1,6 +1,6 @@
 
-[![SchoolSuppliesGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S51hG7NA39y64-mbwnrEO/1689704379152)]()
-# SchoolSuppliesGPT 
+[![SchoolSuppliesGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S51hG7NA39y64-mbwnrEO/1689704379152)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S51hG7NA39y64-mbwnrEO%22%2C%22flow%22%3Atrue%7D%7D)
+# SchoolSuppliesGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S51hG7NA39y64-mbwnrEO%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps to manage your school supplies shopping list. Here is a possible structure:
 
 

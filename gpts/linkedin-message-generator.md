@@ -1,6 +1,6 @@
 
-[![Linkedin Message Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Linkedin Message Generator 
+[![Linkedin Message Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cl7nXSBPXlCtTWcRBlkT%22%2C%22flow%22%3Atrue%7D%7D)
+# Linkedin Message Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cl7nXSBPXlCtTWcRBlkT%22%2C%22flow%22%3Atrue%7D%7D)
 Write a LinkedIn message for your purpose and need
 
 # Prompt

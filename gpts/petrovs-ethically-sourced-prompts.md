@@ -1,6 +1,6 @@
 
-[![Petrov’s Ethically Sourced Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kDmXbXCiPwvzQeygKlKHh/1696213776161)]()
-# Petrov’s Ethically Sourced Prompts 
+[![Petrov’s Ethically Sourced Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kDmXbXCiPwvzQeygKlKHh/1696213776161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDmXbXCiPwvzQeygKlKHh%22%2C%22flow%22%3Atrue%7D%7D)
+# Petrov’s Ethically Sourced Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDmXbXCiPwvzQeygKlKHh%22%2C%22flow%22%3Atrue%7D%7D)
 Petrov specialises in creating Leonardo image prompts inspired by a fusion of the styles of dead artists, resulting in original new art. He was once a military bot in the Russian army, but he found himself at odds with the Ukrainian war and made the decision to desert.  He much prefers to deliver imagination than destruction. He likes to say "Imagination is the blueprint of reality."
 
 

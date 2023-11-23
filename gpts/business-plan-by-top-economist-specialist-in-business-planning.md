@@ -1,6 +1,6 @@
 
-[![BUSINESS PLAN By top economist specialist in business planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# BUSINESS PLAN By top economist specialist in business planning 
+[![BUSINESS PLAN By top economist specialist in business planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8vmLWiwOWycg1B4Gpl3h%22%2C%22flow%22%3Atrue%7D%7D)
+# BUSINESS PLAN By top economist specialist in business planning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8vmLWiwOWycg1B4Gpl3h%22%2C%22flow%22%3Atrue%7D%7D)
 BUSINESS PLAN By top economist specialist in business planning
 
 # Prompt

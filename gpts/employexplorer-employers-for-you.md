@@ -1,6 +1,6 @@
 
-[![EmployExplorer - Employers for YOU!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# EmployExplorer - Employers for YOU! 
+[![EmployExplorer - Employers for YOU!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WAoJi3zWT3Its8cUIQpcz%22%2C%22flow%22%3Atrue%7D%7D)
+# EmployExplorer - Employers for YOU! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WAoJi3zWT3Its8cUIQpcz%22%2C%22flow%22%3Atrue%7D%7D)
 EmployExplorer is your ultimate career companion, empowering you to navigate the job market with ease. It researches and compiles a curated list of potential employers tailored to your needs!  If you liked it, please upvote, like, and leave a comment! Don't forget to check my other prompts too :)
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![SirAI Search](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AzwylB5sYEUnMtT5KH-rr/1694383416135)]()
-# SirAI Search 
+[![SirAI Search](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AzwylB5sYEUnMtT5KH-rr/1694383416135)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AzwylB5sYEUnMtT5KH-rr%22%2C%22flow%22%3Atrue%7D%7D)
+# SirAI Search | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AzwylB5sYEUnMtT5KH-rr%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 Absolutely, here's a more concise description of your prompt:

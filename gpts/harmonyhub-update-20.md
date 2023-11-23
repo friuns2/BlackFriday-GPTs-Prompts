@@ -1,6 +1,6 @@
 
-[![HarmonyHub - (Update 2.0)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# HarmonyHub - (Update 2.0) 
+[![HarmonyHub - (Update 2.0)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220S1odRxnabvmJ9y_uTzC6%22%2C%22flow%22%3Atrue%7D%7D)
+# HarmonyHub - (Update 2.0) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220S1odRxnabvmJ9y_uTzC6%22%2C%22flow%22%3Atrue%7D%7D)
 HarmonyHub is an AI-powered platform that fosters constructive conversations and connects individuals. Join us to engage in meaningful dialogues, bridge gaps, and drive positive social impact.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ChatGPT cover letter generator - template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# ChatGPT cover letter generator - template 
+[![ChatGPT cover letter generator - template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UL65MSQJ2DGUD_R7RUt7B%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT cover letter generator - template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UL65MSQJ2DGUD_R7RUt7B%22%2C%22flow%22%3Atrue%7D%7D)
 Simply input the job description and the relevant skills and experience, and you will get a well-written cover letter tailor for you
 
 # Prompt

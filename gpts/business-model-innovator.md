@@ -1,6 +1,6 @@
 
-[![Business Model Innovator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Business Model Innovator 
+[![Business Model Innovator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FcDivtJKrrrzRQrY8ux7S%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Model Innovator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FcDivtJKrrrzRQrY8ux7S%22%2C%22flow%22%3Atrue%7D%7D)
 Revolutionize your startup journey with AI-generated innovative business models, strategies, and market insights, helping you stand out in the competitive entrepreneurial landscape.
 
 # Prompt

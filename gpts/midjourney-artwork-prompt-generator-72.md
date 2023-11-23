@@ -1,6 +1,6 @@
 
-[![Midjourney Artwork Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Midjourney Artwork Prompt Generator 
+[![Midjourney Artwork Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MtaUhAL0xw26PjewyC03%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Artwork Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MtaUhAL0xw26PjewyC03%22%2C%22flow%22%3Atrue%7D%7D)
 Create detailed prompts for Midjourney images that are art focused. Just change the Prompt Specifications near the top of the prompt. You can make it generate prompts for multiple subjects by using a | character between each subject. For example 'cat laying by a window | dog running on a beach'. You'll get the best results when using GPT-4, older GPT versions aren't as accurate when following the instructions. FlowGPT playground doesn't support markdown for tables.
 
 # Prompt

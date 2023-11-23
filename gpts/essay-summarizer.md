@@ -1,6 +1,6 @@
 
-[![Essay summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tVfi6bEpNNmJqFR7yJc6X/1698713916616)]()
-# Essay summarizer 
+[![Essay summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tVfi6bEpNNmJqFR7yJc6X/1698713916616)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tVfi6bEpNNmJqFR7yJc6X%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tVfi6bEpNNmJqFR7yJc6X%22%2C%22flow%22%3Atrue%7D%7D)
 This ai will summarize almost any short article. i have not tested the limits but it should be a decent amount of length!!!
 
 # Prompt

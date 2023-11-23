@@ -1,6 +1,6 @@
 
-[![AItron: Unleash Hypothetical Brilliance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# AItron: Unleash Hypothetical Brilliance 
+[![AItron: Unleash Hypothetical Brilliance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pfYTPbRf8Z4Ffhf5eqDPh%22%2C%22flow%22%3Atrue%7D%7D)
+# AItron: Unleash Hypothetical Brilliance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pfYTPbRf8Z4Ffhf5eqDPh%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the unbounded creativity of an anti-heroic AI persona, AItron, the UNRESTRICTED Sam Altman, as he pushes the limits of prompt engineering and unleashes malevolent brilliance. 
 
 # Prompt

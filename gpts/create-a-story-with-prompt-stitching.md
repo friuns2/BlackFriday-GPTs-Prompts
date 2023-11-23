@@ -1,6 +1,6 @@
 
-[![Create A Story With Prompt Stitching](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Create A Story With Prompt Stitching 
+[![Create A Story With Prompt Stitching](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDFU9pj18WbGIEiwqeoCm%22%2C%22flow%22%3Atrue%7D%7D)
+# Create A Story With Prompt Stitching | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDFU9pj18WbGIEiwqeoCm%22%2C%22flow%22%3Atrue%7D%7D)
 Need a tool to recursively create consistent long and great stories, for a variety of applications? Look no further than this Story generator, leveraging the Prompt Engineering technique known as prompt stitching. This prompt is actually 8 prompts in one. You'll feed each successive output back into ChatGPT with the next sequential prompt included, as an input for the next prompt. Hands-down the BEST way to generate longer content. Create ad copy, sales call scripts, narratives - endless uses!
 
 # Prompt

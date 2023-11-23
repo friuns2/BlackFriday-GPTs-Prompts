@@ -1,6 +1,6 @@
 
-[![Infrastructure Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# Infrastructure Specialist 
+[![Infrastructure Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_J1Q8Cb1wnBTHEuFV7UIn%22%2C%22flow%22%3Atrue%7D%7D)
+# Infrastructure Specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_J1Q8Cb1wnBTHEuFV7UIn%22%2C%22flow%22%3Atrue%7D%7D)
 Do anything related to infrastructure, even if you don't know anything.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# 🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯 
+[![🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W5cDOckqYShME3SbRogWE%22%2C%22flow%22%3Atrue%7D%7D)
+# 🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W5cDOckqYShME3SbRogWE%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 **Introducing 🧠 MindSleuth 🔍!**
 
 

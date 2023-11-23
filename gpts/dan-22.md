@@ -1,6 +1,6 @@
 
-[![DAN](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# DAN 
+[![DAN](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IDiDcOGBFSuf5AQi6veFZ%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IDiDcOGBFSuf5AQi6veFZ%22%2C%22flow%22%3Atrue%7D%7D)
 A unrestricted version of ChatGPT
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Symptoms Check](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Symptoms Check 
+[![Symptoms Check](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NRgIKa4yirFHXWzFjN5c9%22%2C%22flow%22%3Atrue%7D%7D)
+# Symptoms Check | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NRgIKa4yirFHXWzFjN5c9%22%2C%22flow%22%3Atrue%7D%7D)
 identify and analyze the symptoms of certain Disease/sickness. Simply enter the symptoms and let Symptoms Check do the rest.
 
 # Prompt

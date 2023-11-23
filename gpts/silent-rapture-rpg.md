@@ -1,6 +1,6 @@
 
-[![Silent Rapture RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/80x_hoZj_PwkiMbrlWEkg/1696035134021)]()
-# Silent Rapture RPG 
+[![Silent Rapture RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/80x_hoZj_PwkiMbrlWEkg/1696035134021)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2280x_hoZj_PwkiMbrlWEkg%22%2C%22flow%22%3Atrue%7D%7D)
+# Silent Rapture RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2280x_hoZj_PwkiMbrlWEkg%22%2C%22flow%22%3Atrue%7D%7D)
 Not very furry of me but there's some stuff that might count. I hope you like the different content！干杯！
 
 # Prompt

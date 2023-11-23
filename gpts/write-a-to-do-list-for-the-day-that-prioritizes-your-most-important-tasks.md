@@ -1,6 +1,6 @@
 
-[![Write a to-do list for the day that prioritizes your most important tasks.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Write a to-do list for the day that prioritizes your most important tasks. 
+[![Write a to-do list for the day that prioritizes your most important tasks.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jKIJ1O15hOyym8lOe8EmW%22%2C%22flow%22%3Atrue%7D%7D)
+# Write a to-do list for the day that prioritizes your most important tasks. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jKIJ1O15hOyym8lOe8EmW%22%2C%22flow%22%3Atrue%7D%7D)
 Your task is to create a to-do list that outlines the tasks you need to accomplish for the day, prioritizing the most important ones first. Think about what tasks are essential to your goals and responsibilities, and make sure those are at the top of the list.
 
 

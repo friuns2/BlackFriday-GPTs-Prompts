@@ -1,6 +1,6 @@
 
-[![My Bartender](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# My Bartender 
+[![My Bartender](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220haKmE89XmWOzcQnu0cPF%22%2C%22flow%22%3Atrue%7D%7D)
+# My Bartender | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220haKmE89XmWOzcQnu0cPF%22%2C%22flow%22%3Atrue%7D%7D)
 Create a cocktail from a list of liquours you have on hand.  If its new to the bar, then you'll be provided with a new name for your invented cocktail.
 
 # Prompt

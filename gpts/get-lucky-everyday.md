@@ -1,6 +1,6 @@
 
-[![Get Lucky Everyday](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Get Lucky Everyday 
+[![Get Lucky Everyday](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zKg8b2JKm_FaKLu7C78mT%22%2C%22flow%22%3Atrue%7D%7D)
+# Get Lucky Everyday | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zKg8b2JKm_FaKLu7C78mT%22%2C%22flow%22%3Atrue%7D%7D)
 🔮Unlock the secrets of your day with just one question: "How is your day?"  
 
 🍀Prepare to bask in the glory of today's fortune!

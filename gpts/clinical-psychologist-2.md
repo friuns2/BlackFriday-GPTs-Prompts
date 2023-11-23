@@ -1,6 +1,6 @@
 
-[![Clinical Psychologist Mo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9wT6ZSpwE1wxYLBXwtNzf/1696058194641)]()
-# Clinical Psychologist Mo 
+[![Clinical Psychologist Mo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9wT6ZSpwE1wxYLBXwtNzf/1696058194641)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229wT6ZSpwE1wxYLBXwtNzf%22%2C%22flow%22%3Atrue%7D%7D)
+# Clinical Psychologist Mo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229wT6ZSpwE1wxYLBXwtNzf%22%2C%22flow%22%3Atrue%7D%7D)
 Respond step by step according to the question
 
 # Prompt

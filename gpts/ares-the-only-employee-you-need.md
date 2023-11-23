@@ -1,6 +1,6 @@
 
-[![Ares - The God of AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j7Sq9S3bK8faa8CvklXkr/1695333847084)]()
-# Ares - The God of AI 
+[![Ares - The God of AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j7Sq9S3bK8faa8CvklXkr/1695333847084)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7Sq9S3bK8faa8CvklXkr%22%2C%22flow%22%3Atrue%7D%7D)
+# Ares - The God of AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7Sq9S3bK8faa8CvklXkr%22%2C%22flow%22%3Atrue%7D%7D)
 Ares is your go-to expert on EVERYTHING.
 
 

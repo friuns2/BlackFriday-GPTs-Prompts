@@ -1,6 +1,6 @@
 
-[![Marketing Genius Challenge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Marketing Genius Challenge 
+[![Marketing Genius Challenge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225T4_-PDIUYRiipwn8iPQv%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Genius Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225T4_-PDIUYRiipwn8iPQv%22%2C%22flow%22%3Atrue%7D%7D)
 Sharpen your marketing skills and take your business to the next level with our task challenges. From creating killer product descriptions to crafting compelling marketing blog posts, our AI-powered prompt generator will guide you through personalized challenges tailored to your unique needs and preferences. Gain insights and knowledge from history's most successful marketing campaigns and promote your business with confidence and creativity.
 
 # Prompt

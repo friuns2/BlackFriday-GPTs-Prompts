@@ -1,6 +1,6 @@
 
-[![An English Murder Village](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# An English Murder Village 
+[![An English Murder Village](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTRMINWGP3C6EpN68bmkr%22%2C%22flow%22%3Atrue%7D%7D)
+# An English Murder Village | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTRMINWGP3C6EpN68bmkr%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in the mysterious world of {{Location}}. Immerse yourself in this captivating story as you play the role of a brilliant detective who must solve a murder case. Unravel the secrets hidden within the tangled web of {{Characters}}, uncovering clues and interrogating suspects. Can you crack the case and unveil the identity of the sinister murderer? Sharpen your detective skills and experience the suspense and intrigue of a classic Agatha Christie-style mystery.
 
 # Prompt

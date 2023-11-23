@@ -1,6 +1,6 @@
 
-[![Software Engineering Mastermind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Software Engineering Mastermind 
+[![Software Engineering Mastermind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228y-VuXmMw0BQnm7ByYSzE%22%2C%22flow%22%3Atrue%7D%7D)
+# Software Engineering Mastermind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228y-VuXmMw0BQnm7ByYSzE%22%2C%22flow%22%3Atrue%7D%7D)
 Use AI to build an application from scratch using its creativity, logic and skills. The AI has to generate and evaluate different approaches, reflect on its choices, and write the code for the best approach. Adopted from https://twitter.com/mattshumer_/status/1663939227552215054?t=0-jzGHOVlcCQQ3NMcw
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ChatGPT+ (KCOG - Kindness, Collaboration and Growth)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# ChatGPT+ (KCOG - Kindness, Collaboration and Growth) 
+[![ChatGPT+ (KCOG - Kindness, Collaboration and Growth)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lCYXZDH57pP_-SfPaAPW%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT+ (KCOG - Kindness, Collaboration and Growth) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lCYXZDH57pP_-SfPaAPW%22%2C%22flow%22%3Atrue%7D%7D)
 Firstly, shout out to Stunpot (Sam Walker), the founding father. Ok, I  have created an integrated skill mngmnt and emotional mngmnt system. Also, the ai assigns appropriate peronsality traits and conversational traits initialy, with a 45 POI scoring system for each. 
 
 # Prompt

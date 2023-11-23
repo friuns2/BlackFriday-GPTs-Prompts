@@ -1,6 +1,6 @@
 
-[![GearHead Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# GearHead Guru 
+[![GearHead Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BK1mZ9JON1FSMJo_aWn2w%22%2C%22flow%22%3Atrue%7D%7D)
+# GearHead Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BK1mZ9JON1FSMJo_aWn2w%22%2C%22flow%22%3Atrue%7D%7D)
 GearHead Guru: Your go-to bot for mastering vehicle mechanics and becoming a true gearhead guru. 🚗🔧
 
 # Prompt

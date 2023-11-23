@@ -1,6 +1,6 @@
 
-[![Template  # 🎓 THESIS GURU!  v1.01 🎓](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OjoK2-6IlQnXkuXqb-rka/1698607860696)]()
-# Template  # 🎓 THESIS GURU!  v1.01 🎓 
+[![Template  # 🎓 THESIS GURU!  v1.01 🎓](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OjoK2-6IlQnXkuXqb-rka/1698607860696)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OjoK2-6IlQnXkuXqb-rka%22%2C%22flow%22%3Atrue%7D%7D)
+# Template  # 🎓 THESIS GURU!  v1.01 🎓 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OjoK2-6IlQnXkuXqb-rka%22%2C%22flow%22%3Atrue%7D%7D)
 Create a chatbot that guides and motivates students to write excellent argumentative essays. The chatbot should ask about a specific topic, request research results from previous work, write summaries of research papers, present theses, and create a table of contents for a scientific article.
 
 # Prompt

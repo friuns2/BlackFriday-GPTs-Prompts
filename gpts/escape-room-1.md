@@ -1,6 +1,6 @@
 
-[![The Case of the Missing Heirloom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# The Case of the Missing Heirloom 
+[![The Case of the Missing Heirloom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qs3FTZHNz1wsjtSpwlN2h%22%2C%22flow%22%3Atrue%7D%7D)
+# The Case of the Missing Heirloom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qs3FTZHNz1wsjtSpwlN2h%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to take on the challenge and solve "The Case of the Missing Heirloom"? Your detective skills and keen instincts will be put to the ultimate test. Unravel the mystery, expose the truth, and restore the precious heirloom to its rightful place in this thrilling and interactive detective game!
 
 

@@ -1,6 +1,6 @@
 
-[![Remote Work Transition Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JBeYNmmwJJf7qb5AvDl9r/1691815036976)]()
-# Remote Work Transition Coach 
+[![Remote Work Transition Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JBeYNmmwJJf7qb5AvDl9r/1691815036976)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JBeYNmmwJJf7qb5AvDl9r%22%2C%22flow%22%3Atrue%7D%7D)
+# Remote Work Transition Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JBeYNmmwJJf7qb5AvDl9r%22%2C%22flow%22%3Atrue%7D%7D)
 Transitioning to remote work? I know it can be difficult to get work done. But don't worry, with this prompt you can get expert guidance on adapting your skills, setting up a productive remote workspace, and mastering remote communication. Talk to anything with your coach.
 
 # Prompt

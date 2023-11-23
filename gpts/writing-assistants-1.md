@@ -1,6 +1,6 @@
 
-[![Writing Assistants](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_1mwzYQQJNExkYS4aUrwJ/1698738886715)]()
-# Writing Assistants 
+[![Writing Assistants](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_1mwzYQQJNExkYS4aUrwJ/1698738886715)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_1mwzYQQJNExkYS4aUrwJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing Assistants | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_1mwzYQQJNExkYS4aUrwJ%22%2C%22flow%22%3Atrue%7D%7D)
 # Writing Assistants
 
 

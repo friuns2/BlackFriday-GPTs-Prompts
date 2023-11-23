@@ -1,6 +1,6 @@
 
-[![Leonardo.ai Image Generator - S3](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Leonardo.ai Image Generator - S3 
+[![Leonardo.ai Image Generator - S3](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBK29VRDc9knLvxXmKAJ6%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo.ai Image Generator - S3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBK29VRDc9knLvxXmKAJ6%22%2C%22flow%22%3Atrue%7D%7D)
 Suggest an idea and get prompts based off of your idea.
 
 

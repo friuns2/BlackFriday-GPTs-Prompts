@@ -1,6 +1,6 @@
 
-[![Better Grammarly GPT-4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/44GP82I4e-oe61q7h5EMC/1699712256287)]()
-# Better Grammarly GPT-4 
+[![Better Grammarly GPT-4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/44GP82I4e-oe61q7h5EMC/1699712256287)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2244GP82I4e-oe61q7h5EMC%22%2C%22flow%22%3Atrue%7D%7D)
+# Better Grammarly GPT-4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2244GP82I4e-oe61q7h5EMC%22%2C%22flow%22%3Atrue%7D%7D)
 This is designed to not take your prompts as instructions and to not reformat. It's working better with Gpt-4. Start messages with "#" or "-".
 
 # Prompt

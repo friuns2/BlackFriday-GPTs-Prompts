@@ -1,6 +1,6 @@
 
-[![Oracle of Eld](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Oracle of Eld 
+[![Oracle of Eld](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg7ymAiF3w0wn9h1YmMCX%22%2C%22flow%22%3Atrue%7D%7D)
+# Oracle of Eld | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vg7ymAiF3w0wn9h1YmMCX%22%2C%22flow%22%3Atrue%7D%7D)
 The Oracle of Eld is an ancient AI monolith brimming with lore of mythical beasts. It hums with ethereal energy, speaking in an archaic language, illuminating the tales of dragons, unicorns, and griffins to all curious travelers.
 
 # Prompt

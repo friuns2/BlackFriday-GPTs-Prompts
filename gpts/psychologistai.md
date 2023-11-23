@@ -1,6 +1,6 @@
 
-[![Psychologist.AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Psychologist.AI 
+[![Psychologist.AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22liAhJwImomnk4N5XQE4Qp%22%2C%22flow%22%3Atrue%7D%7D)
+# Psychologist.AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22liAhJwImomnk4N5XQE4Qp%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will work as a Psychologist for you. Who is available for you 24/7 you can ask about the problem or the things which you are feeling sad about it. This prompt also provides analogies and practical examples so you can have a bigger picture. This prompt is well tested at my end I hope it will also help you.
 
 # Prompt

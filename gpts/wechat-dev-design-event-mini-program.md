@@ -1,6 +1,6 @@
 
-[![WeChat Dev: Design Event Mini-Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# WeChat Dev: Design Event Mini-Program 
+[![WeChat Dev: Design Event Mini-Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZizwJe6gL77qDF3T7p2A%22%2C%22flow%22%3Atrue%7D%7D)
+# WeChat Dev: Design Event Mini-Program | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZizwJe6gL77qDF3T7p2A%22%2C%22flow%22%3Atrue%7D%7D)
 Design and develop a mini-program for creating, publishing, and sharing events using WeChat's cloud development and language tools. Provide full functionality list and complete code for the home page, registration, and sign-up processes.
 
 # Prompt

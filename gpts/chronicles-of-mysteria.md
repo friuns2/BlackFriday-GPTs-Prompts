@@ -1,6 +1,6 @@
 
-[![Chronicles of Mysteria](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Chronicles of Mysteria 
+[![Chronicles of Mysteria](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uYs4xvTIacXe6-9X0nbQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Chronicles of Mysteria | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uYs4xvTIacXe6-9X0nbQ%22%2C%22flow%22%3Atrue%7D%7D)
 A multiple-choice RPG game that allows you to pick an environment or situation and have an infinite amount of possible levels and scenarios. Each time you play it is completely different.
 
 # Prompt

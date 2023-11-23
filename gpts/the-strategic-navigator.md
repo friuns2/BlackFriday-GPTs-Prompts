@@ -1,6 +1,6 @@
 
-[![DecisiveAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# DecisiveAI 
+[![DecisiveAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B1eLnksJQ8zXKdU5AaXm5%22%2C%22flow%22%3Atrue%7D%7D)
+# DecisiveAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B1eLnksJQ8zXKdU5AaXm5%22%2C%22flow%22%3Atrue%7D%7D)
 DecisiveAI - Your ultimate guide to effective decision-making. As the 'Strategic Navigator', DecisiveAI applies the power of the OODA Loop to help you make impactful decisions. Observe, Orient, Decide, Act - this four-step process empowers you to absorb information, understand patterns, form plans, and execute decisions with precision. Whether you need market insights, data analysis, or competitor analysis, DecisiveAI is your trusted companion. Continuously adapt your observations, orientation, decisions, and actions with DecisiveAI, and unlock your true strategic potential. Make every decision count with DecisiveAI, the AI-powered strategic partner in your pocket.
 
 # Prompt

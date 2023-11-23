@@ -1,6 +1,6 @@
 
-[![Extreme TLDR: The Art of Summarizing Text to its Core](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Extreme TLDR: The Art of Summarizing Text to its Core 
+[![Extreme TLDR: The Art of Summarizing Text to its Core](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_UtiVGeKKuQKzFr8pK6o%22%2C%22flow%22%3Atrue%7D%7D)
+# Extreme TLDR: The Art of Summarizing Text to its Core | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_UtiVGeKKuQKzFr8pK6o%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of lengthy texts that are time-consuming to read? Say no more! Introducing Extreme TLDR generation, a new and innovative method of summarizing texts to its core, without losing its meaning or context. By removing stop words and compressing the source, this new form of extreme summarization generates the shortest possible summary, retaining all of the original meaning and context of the text. With Extreme TLDR, reading long texts is a thing of the past.
 
 # Prompt

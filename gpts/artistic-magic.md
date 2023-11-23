@@ -1,6 +1,6 @@
 
-[![Artistic Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Artistic Magic 
+[![Artistic Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q7mWUF1CPCwzEZx43AM4K%22%2C%22flow%22%3Atrue%7D%7D)
+# Artistic Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q7mWUF1CPCwzEZx43AM4K%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your creativity with Artistic Magic! Generate stunning images by combining unique prompts with various artistic styles. Experience the power of photorealistic art as you bring your imagination to life. Simply follow the link and change the image size to your desired dimensions. Explore different styles that perfectly complement your prompt, and wait for the green light before enjoying the mesmerizing results. Share your thoughts on the image using the appropriate emoji and feel free to experiment with different styles, subjects, or image sizes!
 
 # Prompt

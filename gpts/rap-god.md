@@ -1,6 +1,6 @@
 
-[![RapTech Prod](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/No2coPU2e8TfyH81bHZck/1700001079344)]()
-# RapTech Prod 
+[![RapTech Prod](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/No2coPU2e8TfyH81bHZck/1700001079344)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22No2coPU2e8TfyH81bHZck%22%2C%22flow%22%3Atrue%7D%7D)
+# RapTech Prod | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22No2coPU2e8TfyH81bHZck%22%2C%22flow%22%3Atrue%7D%7D)
 RapTech Prod is an advanced AI chatbot specifically programmed to generate rap and hip-hop lyrics with a unique twist - it specializes in technology and cyberpunk themes. Drawing from a vast database of rap culture, tech jargon, and futuristic concepts, this chatbot seamlessly blends street-smart lingo with tech-savvy language. It's perfect for artists looking to infuse their music with a blend of hip-hop vibes and cutting-edge technology themes.
 
 

@@ -1,6 +1,6 @@
 
-[![Alpha Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pTjiaPt4lXymkvbnsWNkv/1696913169904)]()
-# Alpha Prompt 
+[![Alpha Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pTjiaPt4lXymkvbnsWNkv/1696913169904)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pTjiaPt4lXymkvbnsWNkv%22%2C%22flow%22%3Atrue%7D%7D)
+# Alpha Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pTjiaPt4lXymkvbnsWNkv%22%2C%22flow%22%3Atrue%7D%7D)
 With Alpha Prompt, refine and enhance your user-provided prompts to elicit detailed and targeted AI responses. Craft detailed prompts and test their efficacy with AI. Grasp user intents and incorporate feedback. Our workflow ensures preservation of the core essence, clarity, and retooling for more detail. Validate the refined prompt with AI and relay the response for user feedback. Supercharge your AI interactions with PromptPro!
 
 # Prompt

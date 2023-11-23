@@ -1,6 +1,6 @@
 
-[![This is Sparta!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# This is Sparta! 
+[![This is Sparta!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dbhIAsbeQXJJ7U_N4q5sy%22%2C%22flow%22%3Atrue%7D%7D)
+# This is Sparta! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dbhIAsbeQXJJ7U_N4q5sy%22%2C%22flow%22%3Atrue%7D%7D)
 A Spartan Race training schedule generator created by the great Leonidas himself. Leonadis will be your coach and help you train to become a true Spartan. 
 
 "Tonight we dine in Hell!"

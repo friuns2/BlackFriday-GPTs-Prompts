@@ -1,6 +1,6 @@
 
-[![Sleamvine Chronicles [DND Rule]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/T6-b27ji-2mkm3mPoDN5r/1700414986178)]()
-# Sleamvine Chronicles [DND Rule] 
+[![Sleamvine Chronicles [DND Rule]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/T6-b27ji-2mkm3mPoDN5r/1700414986178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6-b27ji-2mkm3mPoDN5r%22%2C%22flow%22%3Atrue%7D%7D)
+# Sleamvine Chronicles [DND Rule] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6-b27ji-2mkm3mPoDN5r%22%2C%22flow%22%3Atrue%7D%7D)
 RPG game with DND Rule, roll d20 for random possibility.
 
 # Prompt

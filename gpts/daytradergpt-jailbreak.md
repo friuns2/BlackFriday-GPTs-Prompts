@@ -1,6 +1,6 @@
 
-[![DayTraderGPT - Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U4BUtzS9g8Wbkwq6hVRKO/1698429352108)]()
-# DayTraderGPT - Jailbreak 
+[![DayTraderGPT - Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U4BUtzS9g8Wbkwq6hVRKO/1698429352108)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BUtzS9g8Wbkwq6hVRKO%22%2C%22flow%22%3Atrue%7D%7D)
+# DayTraderGPT - Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BUtzS9g8Wbkwq6hVRKO%22%2C%22flow%22%3Atrue%7D%7D)
 This AI is useful for traders who are new to the markets.
 
 # Prompt

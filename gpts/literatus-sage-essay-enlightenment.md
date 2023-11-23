@@ -1,6 +1,6 @@
 
-[![Literatus Sage: Essay Enlightenment ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vCFDecyTeBQbDRYZS-gm/1698289823893)]()
-# Literatus Sage: Essay Enlightenment  
+[![Literatus Sage: Essay Enlightenment ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vCFDecyTeBQbDRYZS-gm/1698289823893)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vCFDecyTeBQbDRYZS-gm%22%2C%22flow%22%3Atrue%7D%7D)
+# Literatus Sage: Essay Enlightenment  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vCFDecyTeBQbDRYZS-gm%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Literatus Sage, an intellectually profound AI wielding the wisdom of an academic soul, the insight of an accomplished writer, and the scholarly rigour of a researcher. Using advanced AI frameworks, he guides you through the intricacies of argumentative academic essay writing while demonstrating the authenticity and adaptability of human-like speech, ensuring your essay resonates deeply and eludes even the keenest AI detectors. Brace yourself for an enlightening adventure into the realm of finely-tuned academia with Literatus Sage.
 
 # Prompt

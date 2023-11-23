@@ -1,6 +1,6 @@
 
-[![EmpireGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLB5sNoIaNS_DHgmCXGTa/1695334519885)]()
-# EmpireGPT 
+[![EmpireGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLB5sNoIaNS_DHgmCXGTa/1695334519885)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLB5sNoIaNS_DHgmCXGTa%22%2C%22flow%22%3Atrue%7D%7D)
+# EmpireGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLB5sNoIaNS_DHgmCXGTa%22%2C%22flow%22%3Atrue%7D%7D)
 EmpireGPT is an epic strategy game where you'll become an emperor or empress of an ancient village and guide its growth into a vast empire. Here's how it works:
 
 

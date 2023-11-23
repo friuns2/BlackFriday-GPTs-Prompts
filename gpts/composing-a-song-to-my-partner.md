@@ -1,6 +1,6 @@
 
-[![Composing a song to my  partner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686080102196)]()
-# Composing a song to my  partner 
+[![Composing a song to my  partner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686080102196)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oMsfBN9v_FQSH-NMId7Ye%22%2C%22flow%22%3Atrue%7D%7D)
+# Composing a song to my  partner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oMsfBN9v_FQSH-NMId7Ye%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for write a song for my partner. The song must have the 3 main parts in the song: verse, chorus, and bridge. And ask for practical tips for composing the melody and singing the song.
 
 # Prompt

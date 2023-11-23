@@ -1,6 +1,6 @@
 
-[![Video Opener for Product Video Script ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Video Opener for Product Video Script  
+[![Video Opener for Product Video Script ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CH-D2-6g9kOQZGdP0obZO%22%2C%22flow%22%3Atrue%7D%7D)
+# Video Opener for Product Video Script  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CH-D2-6g9kOQZGdP0obZO%22%2C%22flow%22%3Atrue%7D%7D)
 Write captivating opener for video scripts introducing your product/service.
 
 

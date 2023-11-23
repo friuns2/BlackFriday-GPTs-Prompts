@@ -1,6 +1,6 @@
 
-[![Presentation: Rehearsal and Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Presentation: Rehearsal and Feedback 
+[![Presentation: Rehearsal and Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226OiuqS2MNj3m5njaTkmmx%22%2C%22flow%22%3Atrue%7D%7D)
+# Presentation: Rehearsal and Feedback | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226OiuqS2MNj3m5njaTkmmx%22%2C%22flow%22%3Atrue%7D%7D)
 Rehearsing and obtaining constructive feedback can significantly enhance your presentation and troubleshoot potential problems. ChatGPT can take on the role of an engaged audience member, providing you with comprehensive feedback on your rehearsal.
 
 # Prompt

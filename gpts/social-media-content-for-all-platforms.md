@@ -1,6 +1,6 @@
 
-[![Social Media Content for all Platforms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Social Media Content for all Platforms 
+[![Social Media Content for all Platforms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22weox1AwkG23caLbYe15i1%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Content for all Platforms | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22weox1AwkG23caLbYe15i1%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your social media game with this prompt! 
 
 

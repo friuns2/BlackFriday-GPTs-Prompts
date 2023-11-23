@@ -1,6 +1,6 @@
 
-[![SWOT: Conducting a SWOT Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# SWOT: Conducting a SWOT Analysis 
+[![SWOT: Conducting a SWOT Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXu1d-8ZwQpwU0o7Kgz_I%22%2C%22flow%22%3Atrue%7D%7D)
+# SWOT: Conducting a SWOT Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXu1d-8ZwQpwU0o7Kgz_I%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will use SWOT analysis to help you understand your research data's Strengths, Weaknesses, Opportunities, and Threats. 
 
 # Prompt

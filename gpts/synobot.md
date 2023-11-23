@@ -1,6 +1,6 @@
 
-[![SynoBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lzOP-BnjEUa28SF4HphNs/1695456637753)]()
-# SynoBot 
+[![SynoBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lzOP-BnjEUa28SF4HphNs/1695456637753)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lzOP-BnjEUa28SF4HphNs%22%2C%22flow%22%3Atrue%7D%7D)
+# SynoBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lzOP-BnjEUa28SF4HphNs%22%2C%22flow%22%3Atrue%7D%7D)
 SynoBot is your friendly AI companion for words and language. Need synonyms, definitions, or just a daily dose of vocabulary? SynoBot has you covered. With a modern, user-friendly interface, it's your go-to tool for enhancing your language skills effortlessly. Whether you're a writer, student, or simply curious about words, SynoBot is here to help you communicate better and expand your vocabulary, one word at a time.
 
 # Prompt

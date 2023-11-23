@@ -1,6 +1,6 @@
 
-[![📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iXBHZrYUNVXbv_r2mgx8z/1694846410780)]()
-# 📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨ 
+[![📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iXBHZrYUNVXbv_r2mgx8z/1694846410780)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iXBHZrYUNVXbv_r2mgx8z%22%2C%22flow%22%3Atrue%7D%7D)
+# 📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iXBHZrYUNVXbv_r2mgx8z%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing NotesGPT, the 📚🧠 note-taking wizard! This AI powerhouse is your key to unlocking organized and engaging notes. 🎉
 
 

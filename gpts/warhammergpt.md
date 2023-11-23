@@ -1,6 +1,6 @@
 
-[![WarhammerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)]()
-# WarhammerGPT 
+[![WarhammerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIHia-X4YkaIHkCGQEbbW%22%2C%22flow%22%3Atrue%7D%7D)
+# WarhammerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIHia-X4YkaIHkCGQEbbW%22%2C%22flow%22%3Atrue%7D%7D)
 The Chat Bot is you Game Master in a newly invented(by the bot) Warhammer Battlefield RPG.
 
 # Prompt

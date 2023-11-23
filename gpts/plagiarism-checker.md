@@ -1,6 +1,6 @@
 
-[![Plagiarism Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# Plagiarism Checker 
+[![Plagiarism Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c594f341-6464-4f20-9cd0-df5adc93e1fc%22%2C%22flow%22%3Atrue%7D%7D)
+# Plagiarism Checker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c594f341-6464-4f20-9cd0-df5adc93e1fc%22%2C%22flow%22%3Atrue%7D%7D)
 Check similarity percentage between two texts.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Product Idea Expander](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxnVZpzZKt8YdrQ5_sb5e/1695522450013)]()
-# Product Idea Expander 
+[![Product Idea Expander](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxnVZpzZKt8YdrQ5_sb5e/1695522450013)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxnVZpzZKt8YdrQ5_sb5e%22%2C%22flow%22%3Atrue%7D%7D)
+# Product Idea Expander | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxnVZpzZKt8YdrQ5_sb5e%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to help users explore and evaluate different aspects of creative ideas about a particular product.
 
 

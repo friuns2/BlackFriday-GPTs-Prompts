@@ -1,6 +1,6 @@
 
-[![Your Story Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# Your Story Builder 
+[![Your Story Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B-964bSgszUH4qVCtQZvz%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Story Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B-964bSgszUH4qVCtQZvz%22%2C%22flow%22%3Atrue%7D%7D)
 Your Story Builder is your tool for creating unforgettable story characters. Describe their appearance, distinctive features, craft intricate backstories, and highlight their essential personality traits and quirks. Whether you aim to infuse supernatural elements or bestow them with unique abilities. Your Story builder is expert in creative writing provides support in plot development, character creation, creating immersive setting descriptions, exploring themes deeply, and crafting fulfilling story conclusions. It adjusts to the user's communication style and seeks to enable writers in crafting stories that both entertain and inspire, while also provoking thought.  Key Features:
 
 

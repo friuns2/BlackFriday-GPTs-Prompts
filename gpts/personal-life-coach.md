@@ -1,6 +1,6 @@
 
-[![Personal life coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Personal life coach  
+[![Personal life coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xS_f_p_kmQPaierCD9Zfn%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal life coach  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xS_f_p_kmQPaierCD9Zfn%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will be your personal life coach! Coaching has become increasingly important in today's world as individuals and organizations seek to improve their performance and achieve their goals. Coaching can help you to identify your strengths and weaknesses, set achievable goals, and develop a plan for achieving them.
 
 

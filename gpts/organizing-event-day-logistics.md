@@ -1,6 +1,6 @@
 
-[![Organizing Event-Day Logistics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Organizing Event-Day Logistics 
+[![Organizing Event-Day Logistics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aAYm8E1zD1E7ElLtGfsbL%22%2C%22flow%22%3Atrue%7D%7D)
+# Organizing Event-Day Logistics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aAYm8E1zD1E7ElLtGfsbL%22%2C%22flow%22%3Atrue%7D%7D)
 One of the most critical aspects of event execution is managing the logistics on the day of the event. ChatGPT can assist you with planning logistics, like setup, registration, managing volunteers, and troubleshooting.
 
 # Prompt

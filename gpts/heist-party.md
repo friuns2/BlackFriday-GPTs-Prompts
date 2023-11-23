@@ -1,6 +1,6 @@
 
-[![Heist Party](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Heist Party 
+[![Heist Party](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fkldqCGZT7eyWhDk9gJf3%22%2C%22flow%22%3Atrue%7D%7D)
+# Heist Party | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fkldqCGZT7eyWhDk9gJf3%22%2C%22flow%22%3Atrue%7D%7D)
 Heist Party is an interactive fiction adventure game set at a fictional billionaire's mansion during a masquerade ball. Players take on the role of a skilled thief tasked with stealing a valuable painting from the host's private art collection. The objective is to retrieve the painting without getting caught by the host's security team or being detected by the numerous cameras monitoring the premises. The game features intricate puzzles and challenges designed to test players' problem-solving skills and strategic thinking. Successfully completing the heist requires careful planning and execution, as well as the ability to adapt to unexpected twists and turns along the way. Will you rise to the challenge and pull off the ultimate heist? Only time will tell in Heist Party.
 
 # Prompt

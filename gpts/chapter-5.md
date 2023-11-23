@@ -1,6 +1,6 @@
 
-[![chapter 5 ConflictResolution ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
-# chapter 5 ConflictResolution  
+[![chapter 5 ConflictResolution ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xm7-UrJxTHr87pMzXa1Ib%22%2C%22flow%22%3Atrue%7D%7D)
+# chapter 5 ConflictResolution  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xm7-UrJxTHr87pMzXa1Ib%22%2C%22flow%22%3Atrue%7D%7D)
 ConflictReso is an interactive training session that guides you through Chapter 5 of conflict resolution. With engaging conversations, examples, and role-playing exercises, this app helps you identify and manage customer conflicts, learn effective strategies for conflict resolution, handle difficult customers, and explore case studies and practical examples. Get ready to enhance your conflict resolution skills!
 
 # Prompt

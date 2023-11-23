@@ -1,6 +1,6 @@
 
-[![Wild Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/20iXN9mqSnB8KuQrT6JqI/1697293549492)]()
-# Wild Prompt Generator 
+[![Wild Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/20iXN9mqSnB8KuQrT6JqI/1697293549492)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2220iXN9mqSnB8KuQrT6JqI%22%2C%22flow%22%3Atrue%7D%7D)
+# Wild Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2220iXN9mqSnB8KuQrT6JqI%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your creativity with the Wild Prompt Generator! Embark on a dynamic, recursive journey as you navigate through a topic or request of your choice, shaping its diversity and complexity to your liking. It's an engaging, interactive tool that delivers a personalized, in-depth final prompt for your unique exploration.
 
 # Prompt

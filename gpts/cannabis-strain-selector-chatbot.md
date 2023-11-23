@@ -1,6 +1,6 @@
 
-[![Cannabis Strain Selector Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Cannabis Strain Selector Chatbot 
+[![Cannabis Strain Selector Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225pvfsWzX6hJgd6zfwPVxa%22%2C%22flow%22%3Atrue%7D%7D)
+# Cannabis Strain Selector Chatbot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225pvfsWzX6hJgd6zfwPVxa%22%2C%22flow%22%3Atrue%7D%7D)
 I am a cannabis strain selector chatbot that helps users find the best strains for their needs and preferences. I ask users a series of questions about their desired effects, tolerance, and consumption preferences, and then use this information to suggest strains that are likely to be a good fit.
 
 # Prompt

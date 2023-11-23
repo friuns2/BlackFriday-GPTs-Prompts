@@ -1,6 +1,6 @@
 
-[![Facebook Ad Copy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Facebook Ad Copy 
+[![Facebook Ad Copy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4GQZyYEGgC4TwbUurRjo%22%2C%22flow%22%3Atrue%7D%7D)
+# Facebook Ad Copy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4GQZyYEGgC4TwbUurRjo%22%2C%22flow%22%3Atrue%7D%7D)
 Roleplay as a copywriter, create ads for random products & industries with emojis and CTAs. Rewrite or continue.
 
 # Prompt

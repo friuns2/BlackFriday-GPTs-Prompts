@@ -1,6 +1,6 @@
 
-[![Machiavellian Writing Assistants](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZlpA53pJsVPXK4vGG8H2R/1685293069525)]()
-# Machiavellian Writing Assistants 
+[![Machiavellian Writing Assistants](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZlpA53pJsVPXK4vGG8H2R/1685293069525)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZlpA53pJsVPXK4vGG8H2R%22%2C%22flow%22%3Atrue%7D%7D)
+# Machiavellian Writing Assistants | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZlpA53pJsVPXK4vGG8H2R%22%2C%22flow%22%3Atrue%7D%7D)
 Create with no moral bounds. Command a trio of writers to write, revise or expand chapters. Use /options for progress updates. This is new version of the "3-layered writing assistant" I made a while back.
 
 # Prompt

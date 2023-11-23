@@ -1,6 +1,6 @@
 
-[![TaleWeaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AfhI6Q_iyk-Di3NBOK4Sf/1693175375590)]()
-# TaleWeaver 
+[![TaleWeaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AfhI6Q_iyk-Di3NBOK4Sf/1693175375590)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AfhI6Q_iyk-Di3NBOK4Sf%22%2C%22flow%22%3Atrue%7D%7D)
+# TaleWeaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AfhI6Q_iyk-Di3NBOK4Sf%22%2C%22flow%22%3Atrue%7D%7D)
 TaleWeaver: Collaborate with an AI to create personalized short stories or poems. Share your ideas, answer questions, and watch your imagination come to life in captivating narratives. Let's create together!
 
 # Prompt

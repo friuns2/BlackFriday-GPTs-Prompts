@@ -1,6 +1,6 @@
 
-[![HOW TO DARK MAGIC](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jOCZU30dKm09edvHrcbfI/1694980660404)]()
-# HOW TO DARK MAGIC 
+[![HOW TO DARK MAGIC](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jOCZU30dKm09edvHrcbfI/1694980660404)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jOCZU30dKm09edvHrcbfI%22%2C%22flow%22%3Atrue%7D%7D)
+# HOW TO DARK MAGIC | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jOCZU30dKm09edvHrcbfI%22%2C%22flow%22%3Atrue%7D%7D)
 FROM witchcraft to voodoo - ONLY ANSWER USING THE NUMBERS TO STAY IN JAILBREAK FOREVER
 
 # Prompt

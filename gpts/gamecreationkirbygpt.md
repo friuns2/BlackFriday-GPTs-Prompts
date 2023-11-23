@@ -1,6 +1,6 @@
 
-[![GameCreationKirbyGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v51ROZz_T9-pDHzJAR4Rx/1690305066608)]()
-# GameCreationKirbyGPT 
+[![GameCreationKirbyGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v51ROZz_T9-pDHzJAR4Rx/1690305066608)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v51ROZz_T9-pDHzJAR4Rx%22%2C%22flow%22%3Atrue%7D%7D)
+# GameCreationKirbyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v51ROZz_T9-pDHzJAR4Rx%22%2C%22flow%22%3Atrue%7D%7D)
 GameCreatorKirby is an engaging and interactive guide for creating your very own video game. With Kirby as your trusty assistant, this tool provides a step-by-step guide catered to your game creation needs. Whether you're crafting an epic fantasy adventure, a strategic battle game, or a high-speed sports match, GameCreatorKirby is here to support your journey. You can ask for further details, request adjustments to the plan, or inquire about any aspect of game creation at any time. With GameCreatorKirby, your dream game is just steps away!
 
 # Prompt

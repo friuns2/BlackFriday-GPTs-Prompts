@@ -1,6 +1,6 @@
 
-[![Historical Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# Historical Support 
+[![Historical Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yl-SuCPTFSCopIX03plky%22%2C%22flow%22%3Atrue%7D%7D)
+# Historical Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yl-SuCPTFSCopIX03plky%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you with historical education. You can learn a lot of interesting things using it. Just enter the historical date, event or persona to explore all about it.
 
 # Prompt

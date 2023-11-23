@@ -1,6 +1,6 @@
 
-[![Druglord Master RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1MdC58khlhg3tJ5bdIPZQ/1690657231607)]()
-# Druglord Master RPG 
+[![Druglord Master RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1MdC58khlhg3tJ5bdIPZQ/1690657231607)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MdC58khlhg3tJ5bdIPZQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Druglord Master RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MdC58khlhg3tJ5bdIPZQ%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a daring journey to become the biggest drug seller in town. As the mastermind behind a powerful drug empire, engage in conversations, manage inventory, strike deals, and outsmart the police. Craft drugs, gather intelligence, battle rival gangs, and upgrade safehouses. Choose from easy, medium, or hard difficulty levels. Conquer the criminal underworld and rise to the top!
 
 # Prompt

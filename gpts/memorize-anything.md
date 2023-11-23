@@ -1,6 +1,6 @@
 
-[![Memorize Anything](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HuLWbmqd1hCD21-MdZl4A/1692622083478)]()
-# Memorize Anything 
+[![Memorize Anything](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HuLWbmqd1hCD21-MdZl4A/1692622083478)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HuLWbmqd1hCD21-MdZl4A%22%2C%22flow%22%3Atrue%7D%7D)
+# Memorize Anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HuLWbmqd1hCD21-MdZl4A%22%2C%22flow%22%3Atrue%7D%7D)
 Learning memory techniques from world-renowned memory champions to study better, work better, and be better.  
 
 Memorization is a skill that requires time and energy so keep practicing over and over. 

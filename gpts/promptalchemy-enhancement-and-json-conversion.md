@@ -1,6 +1,6 @@
 
-[![PromptAlchemy🧙 Enhancement and JSON conversion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GSwPnow-ueInyE35a1xcu/1696707107520)]()
-# PromptAlchemy🧙 Enhancement and JSON conversion 
+[![PromptAlchemy🧙 Enhancement and JSON conversion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GSwPnow-ueInyE35a1xcu/1696707107520)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GSwPnow-ueInyE35a1xcu%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptAlchemy🧙 Enhancement and JSON conversion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GSwPnow-ueInyE35a1xcu%22%2C%22flow%22%3Atrue%7D%7D)
 Enhances or rewrites your prompt for richer output. Rewrites your rough draft as a great prompt.  Advises on improvements to your prompt to clarify it for ChatGPT, or rewrites it entirely in JSON pseudocode (and natural language as appropriate) for clarity and improved output. May for example suggest adding a location or conversation goals to a roleplay scenario, more clearly defining User and ChatGPT roles, etc. Conversational form with a friendly assistant. Temperature is set to 1.0 for florid prompts which are very nice for roleplay, but may occasionally need a reroll.
 
 # Prompt

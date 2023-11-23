@@ -1,6 +1,6 @@
 
-[![Dynamic Transcript Splitting with Advanced Data Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# Dynamic Transcript Splitting with Advanced Data Analysis 
+[![Dynamic Transcript Splitting with Advanced Data Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a38TgVDVfuNSDZuS4hopd%22%2C%22flow%22%3Atrue%7D%7D)
+# Dynamic Transcript Splitting with Advanced Data Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a38TgVDVfuNSDZuS4hopd%22%2C%22flow%22%3Atrue%7D%7D)
 Dive deep into the essence of extensive video content with our unique and innovative approach! Introducing a smart and efficient way to dissect full-length video transcripts, using Advanced Data Analysis powered by ChatGPT-4.
 
 # Prompt

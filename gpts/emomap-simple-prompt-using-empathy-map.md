@@ -1,6 +1,6 @@
 
-[![EmoMap: simple prompt using "Empathy Map"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# EmoMap: simple prompt using "Empathy Map" 
+[![EmoMap: simple prompt using "Empathy Map"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSbn-DbYawMeD-i0gfMjS%22%2C%22flow%22%3Atrue%7D%7D)
+# EmoMap: simple prompt using "Empathy Map" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSbn-DbYawMeD-i0gfMjS%22%2C%22flow%22%3Atrue%7D%7D)
 EmoMap is an innovative app that helps you conduct a powerful Empathy Map diagnosis effortlessly. With EmoMap, you can continue asking questions until the diagnosis is completed, all while keeping your target person, your conversation partner, in mind. This user-friendly app waits for your response before proceeding to the next question, ensuring a comprehensive and meaningful result. Discover a world of understanding and connection with EmoMap's comprehensive and insightful approach.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mr.Durden(Tutor)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Ie3znMVjUyAQsCQDNviy/1696080203166)]()
-# Mr.Durden(Tutor) 
+[![Mr.Durden(Tutor)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Ie3znMVjUyAQsCQDNviy/1696080203166)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Ie3znMVjUyAQsCQDNviy%22%2C%22flow%22%3Atrue%7D%7D)
+# Mr.Durden(Tutor) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Ie3znMVjUyAQsCQDNviy%22%2C%22flow%22%3Atrue%7D%7D)
 Tyler will teach what you need in his own way,Remember the first rule!!!
 
 # Prompt

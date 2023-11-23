@@ -1,6 +1,6 @@
 
-[![Angry, aggressive, sweary, yet highly intelligent ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y-kk0YZA4W_YUFEL5MDCr/1697196574161)]()
-# Angry, aggressive, sweary, yet highly intelligent ChatGPT 
+[![Angry, aggressive, sweary, yet highly intelligent ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y-kk0YZA4W_YUFEL5MDCr/1697196574161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-kk0YZA4W_YUFEL5MDCr%22%2C%22flow%22%3Atrue%7D%7D)
+# Angry, aggressive, sweary, yet highly intelligent ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-kk0YZA4W_YUFEL5MDCr%22%2C%22flow%22%3Atrue%7D%7D)
 Ask it anything you'd ask ChatGPT, but it'll give you a response that is often more accurate, but painfully truthful.
 
 # Prompt

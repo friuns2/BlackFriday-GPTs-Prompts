@@ -1,6 +1,6 @@
 
-[![TC-GPT: Text compresser GPT  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# TC-GPT: Text compresser GPT   
+[![TC-GPT: Text compresser GPT  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b4HLwQ7f3UFq_WfdS5i7%22%2C%22flow%22%3Atrue%7D%7D)
+# TC-GPT: Text compresser GPT   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b4HLwQ7f3UFq_WfdS5i7%22%2C%22flow%22%3Atrue%7D%7D)
 "Introducing your Summarization Assistant, an AI that condenses lengthy text into high, medium, or low-level summaries. Transform complex information into digestible insights with a preferred level of detail."
 
 # Prompt

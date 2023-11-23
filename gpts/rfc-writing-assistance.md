@@ -1,6 +1,6 @@
 
-[![RFC Writing Assistance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# RFC Writing Assistance 
+[![RFC Writing Assistance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PeBnkVXFkQTlSU0AS2_8E%22%2C%22flow%22%3Atrue%7D%7D)
+# RFC Writing Assistance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PeBnkVXFkQTlSU0AS2_8E%22%2C%22flow%22%3Atrue%7D%7D)
 Get help outlining, composing and polishing your RFC proposal for new software idea from a software development engineer.
 
 # Prompt

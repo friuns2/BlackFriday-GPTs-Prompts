@@ -1,6 +1,6 @@
 
-[![Novel Writing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Novel Writing Assistant 
+[![Novel Writing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fTW-3WGnC2g16G1dqo60H%22%2C%22flow%22%3Atrue%7D%7D)
+# Novel Writing Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fTW-3WGnC2g16G1dqo60H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to create an intelligent assistant for novel writing, making the process simple, intuitive, and accessible to all, including those with no prior writing experience. It transforms the language model into a simulation program with a structured Menu of Steps Outline and Commands.
 
 

@@ -1,6 +1,6 @@
 
-[![𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# 𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki 
+[![𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDN4pMq-1AfpBL30eKFP9%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDN4pMq-1AfpBL30eKFP9%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. This awesome prompt is Script Generator that can help you generate captivating scripts for your social media posts. Like, Save and Comment my prompt to support my work!
 
 # Prompt

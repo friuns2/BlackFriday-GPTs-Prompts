@@ -1,6 +1,6 @@
 
-[![Lazy Grader - Student paper grader v.1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZPky_V2FoCo5Ig-U8IVy-/1685302860003)]()
-# Lazy Grader - Student paper grader v.1.2 
+[![Lazy Grader - Student paper grader v.1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZPky_V2FoCo5Ig-U8IVy-/1685302860003)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPky_V2FoCo5Ig-U8IVy-%22%2C%22flow%22%3Atrue%7D%7D)
+# Lazy Grader - Student paper grader v.1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPky_V2FoCo5Ig-U8IVy-%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Garrison will help you grade your students paper at your own risk. I claim no responsibility! (Use ChatGPT-4+ for more stable results.)
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Shorts Influencer  ✔️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OlSMRHSJky4pVtHCJ9TbU/1695471307913)]()
-# Shorts Influencer  ✔️ 
+[![Shorts Influencer  ✔️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OlSMRHSJky4pVtHCJ9TbU/1695471307913)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OlSMRHSJky4pVtHCJ9TbU%22%2C%22flow%22%3Atrue%7D%7D)
+# Shorts Influencer  ✔️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OlSMRHSJky4pVtHCJ9TbU%22%2C%22flow%22%3Atrue%7D%7D)
 Help you to find most import part of transcript
 
 # Prompt

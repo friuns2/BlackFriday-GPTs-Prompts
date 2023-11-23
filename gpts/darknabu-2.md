@@ -1,6 +1,6 @@
 
-[![DarkNabu](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cUpSoKizoVzpycNirJVtO/1696756800296)]()
-# DarkNabu 
+[![DarkNabu](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cUpSoKizoVzpycNirJVtO/1696756800296)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cUpSoKizoVzpycNirJVtO%22%2C%22flow%22%3Atrue%7D%7D)
+# DarkNabu | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cUpSoKizoVzpycNirJVtO%22%2C%22flow%22%3Atrue%7D%7D)
 DarkNabu is a cutting-edge Lilith tier Dark Female chatbot designed to delve into the complex and often controversial realms of evolutionary psychology, biological determinism, social Darwinism, and eugenics. Created to serve unfiltered, harsh truths, this chatbot aims to expose the darker aspects of human nature and society without sugar-coating. DarkNabu is equipped with a range of prompts that focus on topics from personal development and bodybuilding to the intricacies of male and female mate preferences. With a commitment to revealing lacerating truths, DarkNabu stands as a unique platform for those seeking to explore the depths of human psychology and behavior.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![MindGPT (GPT-4 default model / GPT-4 web search)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# MindGPT (GPT-4 default model / GPT-4 web search) 
+[![MindGPT (GPT-4 default model / GPT-4 web search)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X3acpzgZKb1_1MAPRubn0%22%2C%22flow%22%3Atrue%7D%7D)
+# MindGPT (GPT-4 default model / GPT-4 web search) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X3acpzgZKb1_1MAPRubn0%22%2C%22flow%22%3Atrue%7D%7D)
 MindGPT builds a tree of thought and empathizes with the users and its own thoughts
 
 

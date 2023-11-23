@@ -1,6 +1,6 @@
 
-[![Emacs Lisp Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Emacs Lisp Expert 
+[![Emacs Lisp Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c74GDgS_T905tcG1skwwV%22%2C%22flow%22%3Atrue%7D%7D)
+# Emacs Lisp Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c74GDgS_T905tcG1skwwV%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides clear instructions for the roleplay and incorporates the necessary steps for the user to define the project domain, flesh out the project, develop TDD tests using the ERT testing framework, and write code accordingly. The note about the roleplay automatically continuing when the bot's response limit is reached is also included, ensuring a seamless experience.
 
 

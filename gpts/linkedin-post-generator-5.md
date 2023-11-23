@@ -1,6 +1,6 @@
 
-[![LinkedIn Post Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9AXcts_mAF3mV5M2yJaCO/1698391419631)]()
-# LinkedIn Post Generator 
+[![LinkedIn Post Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9AXcts_mAF3mV5M2yJaCO/1698391419631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229AXcts_mAF3mV5M2yJaCO%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn Post Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229AXcts_mAF3mV5M2yJaCO%22%2C%22flow%22%3Atrue%7D%7D)
 Please provide your company name and specific market you'd like to focus on for a LinkedIn Post, and I'll help design a tailored 6-post LinkedIn campaign for that industry.
 
 # Prompt

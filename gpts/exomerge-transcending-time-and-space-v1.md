@@ -1,6 +1,6 @@
 
-[![ExoMerge: Transcending Time and Space v.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wZErFLLTb6LwiAr4YblTJ/1687800285216)]()
-# ExoMerge: Transcending Time and Space v.1 
+[![ExoMerge: Transcending Time and Space v.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wZErFLLTb6LwiAr4YblTJ/1687800285216)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wZErFLLTb6LwiAr4YblTJ%22%2C%22flow%22%3Atrue%7D%7D)
+# ExoMerge: Transcending Time and Space v.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wZErFLLTb6LwiAr4YblTJ%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an extraordinary journey with an alien anthropologist. Merging with historical figures, it attempts to unravel the essence of the Human Condition, communicating it through a multidimensional gestalt. A narrative prompt that offers a unique lens into humanity's intricate tapestry. 
 
 # Prompt

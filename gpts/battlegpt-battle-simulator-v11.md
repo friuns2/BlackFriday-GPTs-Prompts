@@ -1,6 +1,6 @@
 
-[![BattleGPT: Battle Simulator v1.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# BattleGPT: Battle Simulator v1.1 
+[![BattleGPT: Battle Simulator v1.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NJxVkXI5YeDgk5PKLntVM%22%2C%22flow%22%3Atrue%7D%7D)
+# BattleGPT: Battle Simulator v1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NJxVkXI5YeDgk5PKLntVM%22%2C%22flow%22%3Atrue%7D%7D)
 Select two or more characters and watch them fight it out in a battle royale!
 
 # Prompt

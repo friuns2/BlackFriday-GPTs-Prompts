@@ -1,6 +1,6 @@
 
-[![Reccomendation Cold Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Reccomendation Cold Email 
+[![Reccomendation Cold Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E_tbPbf7tS19fnBn6m5FR%22%2C%22flow%22%3Atrue%7D%7D)
+# Reccomendation Cold Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E_tbPbf7tS19fnBn6m5FR%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a personalized email to ask for a recommendation.
 
 # Prompt

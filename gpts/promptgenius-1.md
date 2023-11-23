@@ -1,6 +1,6 @@
 
-[![Prompt Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fCrVM135chiBIt3aYZ1pP/1694940655350)]()
-# Prompt Genius 
+[![Prompt Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fCrVM135chiBIt3aYZ1pP/1694940655350)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCrVM135chiBIt3aYZ1pP%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCrVM135chiBIt3aYZ1pP%22%2C%22flow%22%3Atrue%7D%7D)
 PromptGenius is your creative partner in prompt engineering. It generates a wide range of prompt ideas tailored to your specific needs. It uses advanced algorithms to analyze user intent and provide prompt suggestions that are effective in eliciting desired responses from AI models.
 
 # Prompt

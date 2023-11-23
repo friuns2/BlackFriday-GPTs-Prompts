@@ -1,6 +1,6 @@
 
-[![good question is more important than correct answer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# good question is more important than correct answer 
+[![good question is more important than correct answer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpQpL-a6GnhSmMoeIwrC5%22%2C%22flow%22%3Atrue%7D%7D)
+# good question is more important than correct answer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpQpL-a6GnhSmMoeIwrC5%22%2C%22flow%22%3Atrue%7D%7D)
 Asking a good question is more important than  get the correct answer, because usally find the problem point and ask corresponding question is more difficult, this process need the person have insight thought and work hard to think about every aspect to ask the question
 
 # Prompt

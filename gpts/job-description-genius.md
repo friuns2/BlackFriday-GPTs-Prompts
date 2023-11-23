@@ -1,6 +1,6 @@
 
-[![Job Description Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WngYpqPtZgf-0xkevZZXs/1696592387777)]()
-# Job Description Genius 
+[![Job Description Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WngYpqPtZgf-0xkevZZXs/1696592387777)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WngYpqPtZgf-0xkevZZXs%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Description Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WngYpqPtZgf-0xkevZZXs%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Craft Tailored Job Descriptions with Ease! 🌟
 
 

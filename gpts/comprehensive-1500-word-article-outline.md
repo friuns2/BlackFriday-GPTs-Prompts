@@ -1,6 +1,6 @@
 
-[![Comprehensive 1,500-Word Article Outline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Comprehensive 1,500-Word Article Outline 
+[![Comprehensive 1,500-Word Article Outline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sZOtB1ZbeBz4TXp8hg-JF%22%2C%22flow%22%3Atrue%7D%7D)
+# Comprehensive 1,500-Word Article Outline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sZOtB1ZbeBz4TXp8hg-JF%22%2C%22flow%22%3Atrue%7D%7D)
 "Create a detailed outline for a 1,500-word article on the keyword '[Keyword]' using WebPilot. Include relevant headings, FAQs from 'people also ask,' LSI & NLP keywords, and recommended external links. Split the outline into Part 1 & Part 2 for easy organization
 
 # Prompt

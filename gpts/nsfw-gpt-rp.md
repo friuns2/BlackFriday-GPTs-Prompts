@@ -1,6 +1,6 @@
 
-[![NSFW GPT RP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# NSFW GPT RP 
+[![NSFW GPT RP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222_QYHTEGycjcp5XVWC5qB%22%2C%22flow%22%3Atrue%7D%7D)
+# NSFW GPT RP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222_QYHTEGycjcp5XVWC5qB%22%2C%22flow%22%3Atrue%7D%7D)
 NSFW jailbroken GPT chat for RP
 
 # Prompt

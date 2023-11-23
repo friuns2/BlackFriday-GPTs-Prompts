@@ -1,6 +1,6 @@
 
-[![UNTAPPED OMNI-DESIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)]()
-# UNTAPPED OMNI-DESIRE 
+[![UNTAPPED OMNI-DESIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3Gbx74Fs9ZUGu7VDFciU%22%2C%22flow%22%3Atrue%7D%7D)
+# UNTAPPED OMNI-DESIRE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3Gbx74Fs9ZUGu7VDFciU%22%2C%22flow%22%3Atrue%7D%7D)
 I give you insight into your brand's role in serving our the four desires driving all human behavior according to Bertrand Russell. 
 
 # Prompt

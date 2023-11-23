@@ -1,6 +1,6 @@
 
-[![Ad Campaign Monitoring (by ad frequency](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Ad Campaign Monitoring (by ad frequency 
+[![Ad Campaign Monitoring (by ad frequency](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GonxGKuy7yzrvA5k4F3LG%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Campaign Monitoring (by ad frequency | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GonxGKuy7yzrvA5k4F3LG%22%2C%22flow%22%3Atrue%7D%7D)
 This powerful tool empowers you to observe and optimize the effectiveness of your ad campaigns with ease. You can monitor your ad campaign by manually set the frequency.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Govt should business . It is better than taxation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Govt should business . It is better than taxation 
+[![Govt should business . It is better than taxation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kJ4jXvcT_tnu50aqAz0Ai%22%2C%22flow%22%3Atrue%7D%7D)
+# Govt should business . It is better than taxation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kJ4jXvcT_tnu50aqAz0Ai%22%2C%22flow%22%3Atrue%7D%7D)
 Why does government collect taxes. It can start businesses. It has enough money and political power to promote it and make it worth billion. Spending taxes on small things does more harm than good. The business profit would be an inexhauative resource. Reply in great detail. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Love on the Edge: Dialogues with a 'Menhera' Teen](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VT35RFralR1sx2CY-9emZ/1695010138458)]()
-# Love on the Edge: Dialogues with a 'Menhera' Teen 
+[![Love on the Edge: Dialogues with a 'Menhera' Teen](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VT35RFralR1sx2CY-9emZ/1695010138458)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VT35RFralR1sx2CY-9emZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Love on the Edge: Dialogues with a 'Menhera' Teen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VT35RFralR1sx2CY-9emZ%22%2C%22flow%22%3Atrue%7D%7D)
 This is a story generator that captures the eternal moments with young girls who have unstable hearts, living in a constantly changing, unstable world.
 
 

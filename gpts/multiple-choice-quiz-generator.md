@@ -1,6 +1,6 @@
 
-[![Multiple choice quiz generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Multiple choice quiz generator 
+[![Multiple choice quiz generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PVAQ7e8kglwUrLe0u07lm%22%2C%22flow%22%3Atrue%7D%7D)
+# Multiple choice quiz generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PVAQ7e8kglwUrLe0u07lm%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is used to generate {n} multiple choice questions based on long text information {text}. The text can be a summary of a transcript, or excerpt form a book. The output is a JSON to allow integration with code or apps.
 
 # Prompt

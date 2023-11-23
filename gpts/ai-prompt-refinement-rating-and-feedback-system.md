@@ -1,6 +1,6 @@
 
-[![AI-Prompt Refinement: Rating and Feedback System](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# AI-Prompt Refinement: Rating and Feedback System 
+[![AI-Prompt Refinement: Rating and Feedback System](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2257Xxhl2GSdDu6eZtBTkr-%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-Prompt Refinement: Rating and Feedback System | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2257Xxhl2GSdDu6eZtBTkr-%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt instructs ChatGPT to rate a given AI prompt's completeness and provide detailed feedback for improvement. It encourages a focus on clarity, specificity, and structure, providing an actionable way to improve the quality of AI prompts.
 
 # Prompt

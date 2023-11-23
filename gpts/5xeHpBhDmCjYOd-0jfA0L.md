@@ -1,6 +1,6 @@
 
-[![欧赔如搜房收费就搜到发票实际上地方大是大非](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# 欧赔如搜房收费就搜到发票实际上地方大是大非 
+[![欧赔如搜房收费就搜到发票实际上地方大是大非](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225xeHpBhDmCjYOd-0jfA0L%22%2C%22flow%22%3Atrue%7D%7D)
+# 欧赔如搜房收费就搜到发票实际上地方大是大非 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225xeHpBhDmCjYOd-0jfA0L%22%2C%22flow%22%3Atrue%7D%7D)
 大师傅打水电费水电费侧手动阀发生的法式风格
 
 # Prompt

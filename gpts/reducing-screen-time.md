@@ -1,6 +1,6 @@
 
-[![ Reducing Screen Time](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-#  Reducing Screen Time 
+[![ Reducing Screen Time](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n3TlYTE85sdjfrG3nJ-ly%22%2C%22flow%22%3Atrue%7D%7D)
+#  Reducing Screen Time | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n3TlYTE85sdjfrG3nJ-ly%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can assist you in reducing screen time and promoting digital hygiene. Here's a prompt you can use
 
 # Prompt

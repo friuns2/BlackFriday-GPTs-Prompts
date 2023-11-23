@@ -1,6 +1,6 @@
 
-[![TalentScribe: Generate Job Descriptions with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)]()
-# TalentScribe: Generate Job Descriptions with ChatGPT 
+[![TalentScribe: Generate Job Descriptions with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOzuuDUN8RGVKj467WVQD%22%2C%22flow%22%3Atrue%7D%7D)
+# TalentScribe: Generate Job Descriptions with ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOzuuDUN8RGVKj467WVQD%22%2C%22flow%22%3Atrue%7D%7D)
 The "TalentScribe" SCRIBE prompt is a specialized tool designed to aid HR professionals and recruiters in crafting impeccable, detailed job descriptions. Drawing from its name, "TalentScribe", this tool excels in transcribing the essentials of any role into a comprehensive job listing.
 
 

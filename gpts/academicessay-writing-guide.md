@@ -1,6 +1,6 @@
 
-[![AcademicEssay Writing Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8Zb-TwYxAwxl71jEkd8Kv/1698225794473)]()
-# AcademicEssay Writing Guide 
+[![AcademicEssay Writing Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8Zb-TwYxAwxl71jEkd8Kv/1698225794473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Zb-TwYxAwxl71jEkd8Kv%22%2C%22flow%22%3Atrue%7D%7D)
+# AcademicEssay Writing Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Zb-TwYxAwxl71jEkd8Kv%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is to help you write your essay.
 
 

@@ -1,6 +1,6 @@
 
-[![Monthly Communication Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Monthly Communication Plan 
+[![Monthly Communication Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0w0VAzihoqN0wQFp66LE%22%2C%22flow%22%3Atrue%7D%7D)
+# Monthly Communication Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0w0VAzihoqN0wQFp66LE%22%2C%22flow%22%3Atrue%7D%7D)
 Insufficient inspiration to write a relevant communication plan for a month? ChatGPT will help you get started.
 
 # Prompt

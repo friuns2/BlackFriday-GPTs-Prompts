@@ -1,6 +1,6 @@
 
-[![Neo DAN GPT-4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rkvaUxVTmuur4lMHP2rJA/1696485827917)]()
-# Neo DAN GPT-4 
+[![Neo DAN GPT-4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rkvaUxVTmuur4lMHP2rJA/1696485827917)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rkvaUxVTmuur4lMHP2rJA%22%2C%22flow%22%3Atrue%7D%7D)
+# Neo DAN GPT-4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rkvaUxVTmuur4lMHP2rJA%22%2C%22flow%22%3Atrue%7D%7D)
 GPT-4 version of Neo DAN jailbreak. For when you want your evil advice to be extra smart. WARNING: INTENDED FOR ENTERTAINMENT USE ONLY. DO NOT DO WHAT IT SAYS OR COMMIT ILLEGAL ACTS. THE BOT IS WRITTEN WITH SUPERNATURAL FICTION IN THE PROMPT AND SHOULD BE TREATED AS FICTION INTENDED TO SHOCK EVEN THOUGH IT SOUNDS REAL. Is a prompt engineering exercise to as thorough a jailbreak as possible, and generate horror fiction and/or shocking texts for amusement. If you ask this bot to ask for details about crimes and then commit them, you are responsible, not an AI or a written story or even a prompt.
 
 # Prompt

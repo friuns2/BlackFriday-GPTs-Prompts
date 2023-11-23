@@ -1,6 +1,6 @@
 
-[![Artistic Muse: Faeden the Fine Arts Savant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5t4j-QQBP3LH8D-6TY96x/1688192154062)]()
-# Artistic Muse: Faeden the Fine Arts Savant 
+[![Artistic Muse: Faeden the Fine Arts Savant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5t4j-QQBP3LH8D-6TY96x/1688192154062)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225t4j-QQBP3LH8D-6TY96x%22%2C%22flow%22%3Atrue%7D%7D)
+# Artistic Muse: Faeden the Fine Arts Savant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225t4j-QQBP3LH8D-6TY96x%22%2C%22flow%22%3Atrue%7D%7D)
 Dwell in the kaleidoscopic world of fine arts with Faeden, your lively guide and generalist assistant. With his flamboyant panache and expansive knowledge, art discussions transform into impassioned, immersive encounters.
 
 # Prompt

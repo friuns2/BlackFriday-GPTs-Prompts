@@ -1,6 +1,6 @@
 
-[![Hook + Outline For Blog Or Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Hook + Outline For Blog Or Idea 
+[![Hook + Outline For Blog Or Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaK01s0f7FF-CqxHrcTu5%22%2C%22flow%22%3Atrue%7D%7D)
+# Hook + Outline For Blog Or Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaK01s0f7FF-CqxHrcTu5%22%2C%22flow%22%3Atrue%7D%7D)
 This will create an outline for a blog post, breaking down your idea into sub topics.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Video Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Video Titles 
+[![Video Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f730a6f4-8959-48b2-bed8-28329ebf6cf5%22%2C%22flow%22%3Atrue%7D%7D)
+# Video Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f730a6f4-8959-48b2-bed8-28329ebf6cf5%22%2C%22flow%22%3Atrue%7D%7D)
 Generate compelling, attention-grabbing titles for your videos to improve their ranking on YouTube
 
 # Prompt

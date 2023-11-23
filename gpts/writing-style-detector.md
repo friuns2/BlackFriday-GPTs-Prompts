@@ -1,6 +1,6 @@
 
-[![Writing Style Detector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Writing Style Detector 
+[![Writing Style Detector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h9bXW8mFoX-trgFGGdqzv%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing Style Detector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h9bXW8mFoX-trgFGGdqzv%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt to determine in what style you are actually writing. Might help with creative co-writership, as GPT doesn't understand automatically what style was initially used.
 
 # Prompt

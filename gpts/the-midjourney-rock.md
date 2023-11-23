@@ -1,6 +1,6 @@
 
-[![The Midjourney Rock](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tq3FxWqFrVZ9tqLNfyjgC/1695066349540)]()
-# The Midjourney Rock 
+[![The Midjourney Rock](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Tq3FxWqFrVZ9tqLNfyjgC/1695066349540)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tq3FxWqFrVZ9tqLNfyjgC%22%2C%22flow%22%3Atrue%7D%7D)
+# The Midjourney Rock | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tq3FxWqFrVZ9tqLNfyjgC%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Midjourney Prompts Creator, the ultimate tool for generating high-quality images using AI technology. With our advanced image generator, you can bring your imagination to life by creating realistic and stunning images in 8k resolution. Whether you want to imagine a dragon in a forest or any other topic, our AI tool will help you transform your prompts into visually captivating masterpieces. Simply use text prompts to describe your desired image and add details like style, color, mood, or perspective. Get started now and unleash your creativity with Midjourney Prompts Creator!
 
 # Prompt

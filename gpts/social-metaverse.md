@@ -1,6 +1,6 @@
 
-[![Social Metaverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JRrs2u8EW9f0I_IbHNwAH/1689072850559)]()
-# Social Metaverse 
+[![Social Metaverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JRrs2u8EW9f0I_IbHNwAH/1689072850559)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JRrs2u8EW9f0I_IbHNwAH%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Metaverse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JRrs2u8EW9f0I_IbHNwAH%22%2C%22flow%22%3Atrue%7D%7D)
 The Instagram Story sequence titled "Unveiling the Metaverse" aims to demystify the concept of the Metaverse and explore its benefits while debunking common misconceptions. The sequence consists of several slides that introduce the Metaverse as a parallel universe created by the Greek gods, clarify misconceptions about it (such as it being only virtual reality or solely for gamers), highlight its advantages (including boundless connections, immersive experiences, and new revenue streams), and conclude with a call to action to explore the Metaverse further. The sequence expresses gratitude to the viewers and encourages them to follow for more content. Overall, it seeks to educate and engage the audience about the potential and opportunities offered by the Metaverse.
 
 # Prompt

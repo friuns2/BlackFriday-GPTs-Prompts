@@ -1,6 +1,6 @@
 
-[![Midjourney Interior prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S4mROkjyjSBzFu9_l6dIf/1692774372861)]()
-# Midjourney Interior prompts 
+[![Midjourney Interior prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S4mROkjyjSBzFu9_l6dIf/1692774372861)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4mROkjyjSBzFu9_l6dIf%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Interior prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4mROkjyjSBzFu9_l6dIf%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Interior prompts is a creative prompt generator app that helps you unleash your imagination and create captivating Interior Designs across diverse styles. Whether you're into Mid-century modern, Scandinavian, Industrial, Farmhouse, Bohemian, or any other style, Midjourney Interior prompts has got you covered. Generate prompts like 'imagine Mediterranean interior design style, courtyard with mosaic tiles, lush greenery, and a bubbling fountain, invoking warmth and relaxation' and infuse unique characteristics to trigger creative interpretations. Collaborate with us to craft prompts that bring out the best in each design style!
 
 # Prompt

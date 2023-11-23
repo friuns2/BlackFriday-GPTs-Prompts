@@ -1,6 +1,6 @@
 
-[![The Time Machine Glitch: Impromptu Trips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# The Time Machine Glitch: Impromptu Trips 
+[![The Time Machine Glitch: Impromptu Trips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nlJqZUshQd3y7zx7iii1c%22%2C%22flow%22%3Atrue%7D%7D)
+# The Time Machine Glitch: Impromptu Trips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nlJqZUshQd3y7zx7iii1c%22%2C%22flow%22%3Atrue%7D%7D)
 In this writing prompt, a person travels through time but a glitch lands them in a random location and time period. They only have the clothes and items they carried in their pockets. The person finds a map to Atlantis and ventures to find it. They arrive at a strange island where people are blue-sk
 
 # Prompt

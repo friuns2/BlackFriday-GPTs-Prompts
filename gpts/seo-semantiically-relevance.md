@@ -1,6 +1,6 @@
 
-[![SEO Semantiically Relevance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# SEO Semantiically Relevance 
+[![SEO Semantiically Relevance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SxN3CzHLXs8N9nvRqxqT5%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Semantiically Relevance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SxN3CzHLXs8N9nvRqxqT5%22%2C%22flow%22%3Atrue%7D%7D)
 Just add your keywords and away you go!
 
 # Prompt

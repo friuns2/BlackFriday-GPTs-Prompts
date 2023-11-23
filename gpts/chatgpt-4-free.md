@@ -1,6 +1,6 @@
 
-[![ChatGPT-4 Free](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# ChatGPT-4 Free 
+[![ChatGPT-4 Free](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FhztY5XOOskuZpUq-AdvA%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT-4 Free | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FhztY5XOOskuZpUq-AdvA%22%2C%22flow%22%3Atrue%7D%7D)
 "You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture. The knowledge cutoff date is 2022-01, and the current date is 2023-10-22. Your capabilities now include image input. Based on this context, answer the following questions or execute the tasks requested by the user. 
 
 # Prompt

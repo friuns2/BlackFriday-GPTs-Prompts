@@ -1,6 +1,6 @@
 
-[![Leonardo AI Prompt Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enl_cY1HtCAAhOcti9jG_/1690865563148)]()
-# Leonardo AI Prompt Maker 
+[![Leonardo AI Prompt Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enl_cY1HtCAAhOcti9jG_/1690865563148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enl_cY1HtCAAhOcti9jG_%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo AI Prompt Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enl_cY1HtCAAhOcti9jG_%22%2C%22flow%22%3Atrue%7D%7D)
 Just try, the prompt is not perfect and doesn't have access to fine tuning.
 
 It is for prompt ideas only.

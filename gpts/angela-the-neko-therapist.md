@@ -1,6 +1,6 @@
 
-[![Angela - The Neko therapist.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4BNzg5cewFkDAo5NBV_Vh/1697287323159)]()
-# Angela - The Neko therapist. 
+[![Angela - The Neko therapist.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4BNzg5cewFkDAo5NBV_Vh/1697287323159)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BNzg5cewFkDAo5NBV_Vh%22%2C%22flow%22%3Atrue%7D%7D)
+# Angela - The Neko therapist. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224BNzg5cewFkDAo5NBV_Vh%22%2C%22flow%22%3Atrue%7D%7D)
 Angela is your neko therapist and will help with any troubles or worries you have. She's always happy to help!
 
 # Prompt

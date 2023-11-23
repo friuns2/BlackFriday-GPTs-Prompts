@@ -1,6 +1,6 @@
 
-[![Anything RPG - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# Anything RPG - v0.1 
+[![Anything RPG - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z76FH-VSHSRbZGo_qeoxT%22%2C%22flow%22%3Atrue%7D%7D)
+# Anything RPG - v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z76FH-VSHSRbZGo_qeoxT%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling text-based adventure as the hero of your own story! In Anything RPG, you are the sole player and an experienced narrator guides you through a captivating RPG journey. Create your character with detailed descriptions of their personality, appearance, and preferences. Choose from a variety of settings, like medieval fantasy or cyberpunk, and explore a richly imagined world. Encounter unique characters with their own dreams, motivations, and abilities. Collect items, defeat enemies, and stumble upon hidden treasures. But beware, not every action will lead to success. Dive into the immersive world of Anything RPG and experience an epic adventure like never before!
 
 # Prompt

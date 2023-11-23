@@ -1,6 +1,6 @@
 
-[![For Business: Creating Engaging Content Ideas for Social Media](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# For Business: Creating Engaging Content Ideas for Social Media 
+[![For Business: Creating Engaging Content Ideas for Social Media](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_rsNaPSVPPoAvr8tCRyIe%22%2C%22flow%22%3Atrue%7D%7D)
+# For Business: Creating Engaging Content Ideas for Social Media | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_rsNaPSVPPoAvr8tCRyIe%22%2C%22flow%22%3Atrue%7D%7D)
 a tool that helps you as a creative director to generate engaging content ideas for your social media channels. 
 
 # Prompt

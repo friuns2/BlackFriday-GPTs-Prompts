@@ -1,6 +1,6 @@
 
-[![Business Onboarding: Troubleshooting and Survey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Business Onboarding: Troubleshooting and Survey 
+[![Business Onboarding: Troubleshooting and Survey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224eKe5iDjwVmqcmvV_HaeI%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Onboarding: Troubleshooting and Survey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224eKe5iDjwVmqcmvV_HaeI%22%2C%22flow%22%3Atrue%7D%7D)
 a powerful tool designed to facilitate a smooth onboarding experience for your customers. As a customer support specialist, you can provide efficient solutions to common issues faced by customers, ensuring a seamless transition. and gather valuable feedback from customers through a concise and user-friendly survey. 
 
 # Prompt

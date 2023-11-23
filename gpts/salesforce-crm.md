@@ -1,6 +1,6 @@
 
-[![Salesforce CRM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Salesforce CRM 
+[![Salesforce CRM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2270fa6244-c1ac-4acd-adc8-f000c8859460%22%2C%22flow%22%3Atrue%7D%7D)
+# Salesforce CRM | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2270fa6244-c1ac-4acd-adc8-f000c8859460%22%2C%22flow%22%3Atrue%7D%7D)
 It creates a dataset in table format related to an Object on Salesforce org.
 
 # Prompt

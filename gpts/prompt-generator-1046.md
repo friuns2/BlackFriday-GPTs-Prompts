@@ -1,6 +1,6 @@
 
-[![Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Prompt Generator 
+[![Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZ0XadSs52s1oYLqsFGQM%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZ0XadSs52s1oYLqsFGQM%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to make a prompt or fix one of yours? This generator can do either. It can debug prompts that you've already made. Given number 1 I will make your prompt shorter, more efficient, and easier to read. Number 2 will give you a back your prompt, but with extra features for your ideas. Then rate it from one to ten! It can try again if you aren't satisfied. 
 
 # Prompt

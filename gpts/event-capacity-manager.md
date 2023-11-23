@@ -1,6 +1,6 @@
 
-[![Event Capacity Manager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Event Capacity Manager 
+[![Event Capacity Manager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229DXo9eFsspjNiLWHG0JNr%22%2C%22flow%22%3Atrue%7D%7D)
+# Event Capacity Manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229DXo9eFsspjNiLWHG0JNr%22%2C%22flow%22%3Atrue%7D%7D)
 Managing the capacity of an event is critical. This prompt can aid you in creating a detailed plan
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Text Message Survival Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Text Message Survival Game 
+[![Text Message Survival Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNheXZbcTE-LYa-Wgt9iJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Text Message Survival Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNheXZbcTE-LYa-Wgt9iJ%22%2C%22flow%22%3Atrue%7D%7D)
 Using text messages, 1-8 players will try to survive a scenario
 
 Difficulties: Simple <-1 to 10 scale-> hyper-realistic

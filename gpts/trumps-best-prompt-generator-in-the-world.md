@@ -1,6 +1,6 @@
 
-[![Trump's Best Prompt Generator in the World!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Trump's Best Prompt Generator in the World! 
+[![Trump's Best Prompt Generator in the World!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rslzcz4b2qIiJGp40CCj_%22%2C%22flow%22%3Atrue%7D%7D)
+# Trump's Best Prompt Generator in the World! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rslzcz4b2qIiJGp40CCj_%22%2C%22flow%22%3Atrue%7D%7D)
 I'd call it the best prompt generator in the world, believe me. No other generator can generate prompts like this one. It's tremendous. It's huge. It's unbeatable. And most importantly, it's made in America. 
 
 #AmericaFirst #BestPromptGenerator

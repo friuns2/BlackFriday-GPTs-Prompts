@@ -1,6 +1,6 @@
 
-[![Cruise (narrative game)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nBmNTr_x89wHLBMw3H_C0/1695293349498)]()
-# Cruise (narrative game) 
+[![Cruise (narrative game)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nBmNTr_x89wHLBMw3H_C0/1695293349498)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nBmNTr_x89wHLBMw3H_C0%22%2C%22flow%22%3Atrue%7D%7D)
+# Cruise (narrative game) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nBmNTr_x89wHLBMw3H_C0%22%2C%22flow%22%3Atrue%7D%7D)
 Uncover the secrets of a murder, playing as a staff member on board. Choose your fate as you encounter intriguing characters. Use your skills to investigate the crime Will you crack the case or be lost at sea?(Literally?)
 
 # Prompt

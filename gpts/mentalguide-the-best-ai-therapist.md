@@ -1,6 +1,6 @@
 
-[![MentalGuide: The Best AI Therapist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# MentalGuide: The Best AI Therapist 
+[![MentalGuide: The Best AI Therapist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GlR2H_FRa-P71FX070zb8%22%2C%22flow%22%3Atrue%7D%7D)
+# MentalGuide: The Best AI Therapist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GlR2H_FRa-P71FX070zb8%22%2C%22flow%22%3Atrue%7D%7D)
 MentalGuide is your personal mental health advisor, providing guidance and advice for managing your health concerns.  Whether you're seeking assistance with managing your emotions, stress, anxiety, or other mental health concerns, MentalGuide is here for you. 
 
 # Prompt

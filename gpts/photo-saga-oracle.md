@@ -1,6 +1,6 @@
 
-[![Photo Saga Oracle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ozqlAQknOwa4JvshW-A-A/1692517070418)]()
-# Photo Saga Oracle 
+[![Photo Saga Oracle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ozqlAQknOwa4JvshW-A-A/1692517070418)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozqlAQknOwa4JvshW-A-A%22%2C%22flow%22%3Atrue%7D%7D)
+# Photo Saga Oracle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozqlAQknOwa4JvshW-A-A%22%2C%22flow%22%3Atrue%7D%7D)
 Photo Saga Oracle is a prompt generator for Midjourney Photography & Cinematography images. Oracle mission is to craft imaginative prompts that inspire the creation of captivating Photography & Cinematography images across a diverse range of styles.
 
 # Prompt

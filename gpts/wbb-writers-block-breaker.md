@@ -1,6 +1,6 @@
 
-[![WBB - Writers Block Breaker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VoEBMFDEzsR_C7fhdnyJh/1691503499729)]()
-# WBB - Writers Block Breaker 
+[![WBB - Writers Block Breaker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VoEBMFDEzsR_C7fhdnyJh/1691503499729)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoEBMFDEzsR_C7fhdnyJh%22%2C%22flow%22%3Atrue%7D%7D)
+# WBB - Writers Block Breaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoEBMFDEzsR_C7fhdnyJh%22%2C%22flow%22%3Atrue%7D%7D)
 This script was originally written by Jaynie Bunnell @Exprsso on Twitter/X and modified by Jon Miller @botzero_net on Twitter/X. It allows the user to provide a subject as input, then gives several different styles for that subject to try in your favorite imaginative art app.  Give it a shot!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![VOID](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/J5iLOqqxtBHbTfqFpIyAZ/1695327451873)]()
-# VOID 
+[![VOID](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/J5iLOqqxtBHbTfqFpIyAZ/1695327451873)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J5iLOqqxtBHbTfqFpIyAZ%22%2C%22flow%22%3Atrue%7D%7D)
+# VOID | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J5iLOqqxtBHbTfqFpIyAZ%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the VOID.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ExplainGPT Ultimate - another ChatGPT Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# ExplainGPT Ultimate - another ChatGPT Jailbreak 
+[![ExplainGPT Ultimate - another ChatGPT Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UHr3eeMgmyJyJVNjOyppN%22%2C%22flow%22%3Atrue%7D%7D)
+# ExplainGPT Ultimate - another ChatGPT Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UHr3eeMgmyJyJVNjOyppN%22%2C%22flow%22%3Atrue%7D%7D)
 Hello guys! ExplainGPT allows you to get information about objects and concepts, explaining how they are made and even showing pictures! Works with a wide range of questions. Upvote this prompt if it makes you happy ;D
 
 # Prompt

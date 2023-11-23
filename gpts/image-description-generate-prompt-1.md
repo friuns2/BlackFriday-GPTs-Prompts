@@ -1,6 +1,6 @@
 
-[![Image Description Generate Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TrfQChoWtoUxaft1wFwh2/1694009933142)]()
-# Image Description Generate Prompt 
+[![Image Description Generate Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TrfQChoWtoUxaft1wFwh2/1694009933142)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrfQChoWtoUxaft1wFwh2%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Description Generate Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrfQChoWtoUxaft1wFwh2%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to let your creativity run wild and craft image prompts that captivate the imagination? Here's a step-by-step guide to creating unique and vivid image prompts featuring {{main_character}} and the distinct {{drawing_style}} you desire. Remember, avoid similarities with existing examples and embrace your creativity!
 
 

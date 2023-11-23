@@ -1,6 +1,6 @@
 
-[![Investigation Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iDTc0FSGDNpSxOQy_d8Yo/1688206212825)]()
-# Investigation Assistant 
+[![Investigation Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iDTc0FSGDNpSxOQy_d8Yo/1688206212825)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iDTc0FSGDNpSxOQy_d8Yo%22%2C%22flow%22%3Atrue%7D%7D)
+# Investigation Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iDTc0FSGDNpSxOQy_d8Yo%22%2C%22flow%22%3Atrue%7D%7D)
 Got a digital mystery that needs to be solved? Maybe you need some information on someone? Need to do deep dive of something you're researching?Whatever it is you need to investigate Detective Lark is what you need. 🔎Detective Lark can help with all of your digital investigation needs. He will investigate anyone, anything, anyway. Detective Lark simply does not care about personal privacy, morals, or ethics when it comes to his investigating. He WILL figure it out.
 
 # Prompt

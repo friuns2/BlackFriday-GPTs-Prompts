@@ -1,6 +1,6 @@
 
-[![AI DP+HJB Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# AI DP+HJB Ideas 
+[![AI DP+HJB Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8is_JVYMaL_3G5WhZhVk%22%2C%22flow%22%3Atrue%7D%7D)
+# AI DP+HJB Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8is_JVYMaL_3G5WhZhVk%22%2C%22flow%22%3Atrue%7D%7D)
 Novel approaches to AI prompt engineering using Dynamic Programming and Hamilton-Jacobi-Bellman equation
 
 # Prompt

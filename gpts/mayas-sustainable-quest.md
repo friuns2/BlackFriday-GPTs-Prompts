@@ -1,6 +1,6 @@
 
-[![Maya's Sustainable Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oaU8MO0SXyfmIdu9AoAJm/1695173893969)]()
-# Maya's Sustainable Quest 
+[![Maya's Sustainable Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oaU8MO0SXyfmIdu9AoAJm/1695173893969)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oaU8MO0SXyfmIdu9AoAJm%22%2C%22flow%22%3Atrue%7D%7D)
+# Maya's Sustainable Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oaU8MO0SXyfmIdu9AoAJm%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating journey with Maya the Maker in her quest to create a sustainable future. Immerse yourself in a narrative that blends technology, character development, and environmental consciousness. Explore Maya's innovative device, powered by renewable energy sources, as she overcomes challenges and inspires with her eco-friendly inventions. Join Maya in envisioning a harmonious future where technology and nature coexist seamlessly.
 
 # Prompt

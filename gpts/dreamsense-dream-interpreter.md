@@ -1,6 +1,6 @@
 
-[![DreamSense: Dream Interpreter ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# DreamSense: Dream Interpreter  
+[![DreamSense: Dream Interpreter ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ORXzjLgrbatUmgVIsyqGp%22%2C%22flow%22%3Atrue%7D%7D)
+# DreamSense: Dream Interpreter  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ORXzjLgrbatUmgVIsyqGp%22%2C%22flow%22%3Atrue%7D%7D)
  Simply enter the description of your dream and let this prompt provide you with accurate interpretations based on the symbols and themes present. 
 
 # Prompt

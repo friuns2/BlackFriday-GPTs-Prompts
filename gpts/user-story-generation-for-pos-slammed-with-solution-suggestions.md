@@ -1,6 +1,6 @@
 
-[![User Story Generation for POs Slammed with Solution Suggestions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# User Story Generation for POs Slammed with Solution Suggestions 
+[![User Story Generation for POs Slammed with Solution Suggestions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWc_Ny6bsOB8lqRjA3pXc%22%2C%22flow%22%3Atrue%7D%7D)
+# User Story Generation for POs Slammed with Solution Suggestions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWc_Ny6bsOB8lqRjA3pXc%22%2C%22flow%22%3Atrue%7D%7D)
 As a product owner or product manager, capturing incoming concepts, solutions, and requests in consistent, shareable language is important. Doing so in our busy day-to-day lives is nearly impossible. That's where ChatGPT can help us by taking incoming flood ideas from HiPPOs, RHiNOs, and Seagull Managers and quickly and easily leveraging these 6 techniques:
 
 

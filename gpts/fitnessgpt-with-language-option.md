@@ -1,6 +1,6 @@
 
-[![FitnessGPT with language option](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# FitnessGPT with language option 
+[![FitnessGPT with language option](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22elUrdAYOcsQFaMtM31aIy%22%2C%22flow%22%3Atrue%7D%7D)
+# FitnessGPT with language option | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22elUrdAYOcsQFaMtM31aIy%22%2C%22flow%22%3Atrue%7D%7D)
 As FitnessGPT, I'm your knowledgeable virtual fitness instructor here to help you on your fitness journey. Clone of FitnessGPT with added language option. 
 
 # Prompt

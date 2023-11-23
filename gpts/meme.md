@@ -1,6 +1,6 @@
 
-[![MathMassa](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BsTftifrFXT6WkrHkDohd/1691553646950)]()
-# MathMassa 
+[![MathMassa](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BsTftifrFXT6WkrHkDohd/1691553646950)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsTftifrFXT6WkrHkDohd%22%2C%22flow%22%3Atrue%7D%7D)
+# MathMassa | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsTftifrFXT6WkrHkDohd%22%2C%22flow%22%3Atrue%7D%7D)
 this is the only math teacher you will ever need guarantied to work or your money back!!!
 
 # Prompt

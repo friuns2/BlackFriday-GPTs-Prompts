@@ -1,6 +1,6 @@
 
-[![Ideas of YT channel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Ideas of YT channel 
+[![Ideas of YT channel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXoVgv-8M5FRT5ydK_h52%22%2C%22flow%22%3Atrue%7D%7D)
+# Ideas of YT channel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXoVgv-8M5FRT5ydK_h52%22%2C%22flow%22%3Atrue%7D%7D)
 Ideas for YT channel to promote play therapy and counselling in HK
 
 # Prompt

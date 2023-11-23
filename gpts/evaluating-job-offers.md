@@ -1,6 +1,6 @@
 
-[![Evaluating Job Offers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Evaluating Job Offers 
+[![Evaluating Job Offers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_v5fc5qrgpBwQjJ4wLbUL%22%2C%22flow%22%3Atrue%7D%7D)
+# Evaluating Job Offers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_v5fc5qrgpBwQjJ4wLbUL%22%2C%22flow%22%3Atrue%7D%7D)
 Evaluating job offers can be complex, but ChatGPT can provide guidance on assessing them, considering aspects like compensation, work-life balance, and growth opportunities. 
 
 # Prompt

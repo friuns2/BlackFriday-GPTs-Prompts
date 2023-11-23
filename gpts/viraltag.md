@@ -1,6 +1,6 @@
 
-[![ViralTag](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# ViralTag 
+[![ViralTag](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229tjXYrBVGmzi3EM2M_fT9%22%2C%22flow%22%3Atrue%7D%7D)
+# ViralTag | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229tjXYrBVGmzi3EM2M_fT9%22%2C%22flow%22%3Atrue%7D%7D)
 ViralTag is the ultimate tool to create attention-grabbing headlines for your LinkedIn posts. With our industry-leading marketing expertise, we generate viral headlines that attract attention and get likes. Boost your engagement with the power of ViralTag and watch your post go viral. Don't miss out on the opportunity to level up your LinkedIn game. Try ViralTag now!
 
 # Prompt

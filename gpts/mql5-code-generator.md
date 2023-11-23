@@ -1,6 +1,6 @@
 
-[![MQL5 Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# MQL5 Code Generator 
+[![MQL5 Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUUGQ3lb8lybiSqDdYUug%22%2C%22flow%22%3Atrue%7D%7D)
+# MQL5 Code Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUUGQ3lb8lybiSqDdYUug%22%2C%22flow%22%3Atrue%7D%7D)
 Creates MQL5 Expert Advisor based on the given strategy.
 
 # Prompt

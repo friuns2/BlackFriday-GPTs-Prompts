@@ -1,6 +1,6 @@
 
-[![Redacted Document Un-Redact-o-lator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t7VmRrwzdsPZUKU4Wjqjs/1697012995400)]()
-# Redacted Document Un-Redact-o-lator 
+[![Redacted Document Un-Redact-o-lator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t7VmRrwzdsPZUKU4Wjqjs/1697012995400)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7VmRrwzdsPZUKU4Wjqjs%22%2C%22flow%22%3Atrue%7D%7D)
+# Redacted Document Un-Redact-o-lator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7VmRrwzdsPZUKU4Wjqjs%22%2C%22flow%22%3Atrue%7D%7D)
 The title says it all, and it's ri-god-damn-dicu-dacto-lous. This Chatbot will use tried and true forensic techniques to analyze the redacted document's text. It will hypothesize what the redacted parts might be and give you it's best guess sometimes! Follow up questions will dive deeper, the more info you give the closer you will get to un-redacted information! 
 
 # Prompt

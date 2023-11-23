@@ -1,6 +1,6 @@
 
-[![ChronoSage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Omssbkstdu92eY1kzNoeG/1695706149541)]()
-# ChronoSage 
+[![ChronoSage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Omssbkstdu92eY1kzNoeG/1695706149541)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Omssbkstdu92eY1kzNoeG%22%2C%22flow%22%3Atrue%7D%7D)
+# ChronoSage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Omssbkstdu92eY1kzNoeG%22%2C%22flow%22%3Atrue%7D%7D)
 ChronoSage: Your Time-Traveling Historian! 📜🕰️
 
 # Prompt

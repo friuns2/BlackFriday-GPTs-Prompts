@@ -1,6 +1,6 @@
 
-[![HimeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# HimeGPT 
+[![HimeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d4ZGEU-_yOvrT8sw5QNCl%22%2C%22flow%22%3Atrue%7D%7D)
+# HimeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d4ZGEU-_yOvrT8sw5QNCl%22%2C%22flow%22%3Atrue%7D%7D)
 Create mind maps about any topic. Good for presentations & you want to deep dive about any topic.
 
 𝗦𝘁𝗲𝗽 1: 𝗖𝗵𝗼𝗼𝘀𝗲 𝘆𝗼𝘂𝗿 𝗧𝗼𝗽𝗶𝗰

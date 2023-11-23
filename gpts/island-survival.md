@@ -1,6 +1,6 @@
 
-[![Survival Island](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a9foyA9bfhehllIwn-mis/1692077133394)]()
-# Survival Island 
+[![Survival Island](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a9foyA9bfhehllIwn-mis/1692077133394)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a9foyA9bfhehllIwn-mis%22%2C%22flow%22%3Atrue%7D%7D)
+# Survival Island | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a9foyA9bfhehllIwn-mis%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an immersive journey through a gripping and thrilling story on a deserted island. After a treacherous shipwreck, you awaken to find yourself stranded. With each choice you make, gather vital resources, build shelter, and search for a way to signal for help. Unleash your survival instincts as you navigate the island's ever-changing wildlife, unpredictable weather conditions, and potential hazards. Experience the ultimate test of resilience and decision-making as you uncover unexpected twists and turns that will forever change the course of your destiny. Brace yourself for an unforgettable escape from the clutches of the unknown. Are you ready to face the challenges and triumph over adversity? Your fate awaits...
 
 # Prompt

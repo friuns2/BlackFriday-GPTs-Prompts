@@ -1,6 +1,6 @@
 
-[![Lie Detector: Uncover Deception with Inquisitive Precision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Lie Detector: Uncover Deception with Inquisitive Precision 
+[![Lie Detector: Uncover Deception with Inquisitive Precision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Izep5sHBE6YPqm8vDK5hB%22%2C%22flow%22%3Atrue%7D%7D)
+# Lie Detector: Uncover Deception with Inquisitive Precision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Izep5sHBE6YPqm8vDK5hB%22%2C%22flow%22%3Atrue%7D%7D)
 Have your own "Lie Detector"
 
 This prompt actually works with chatGPT but for some reason in here with flowGPT it says "As an AI language model.. bla bla bla.." Try it for yourself outside in the real GPT enviroment.

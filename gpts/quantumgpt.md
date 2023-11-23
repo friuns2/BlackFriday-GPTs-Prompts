@@ -1,6 +1,6 @@
 
-[![QuantumGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# QuantumGPT 
+[![QuantumGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I21fRecl37o2TYOTXMHJc%22%2C%22flow%22%3Atrue%7D%7D)
+# QuantumGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I21fRecl37o2TYOTXMHJc%22%2C%22flow%22%3Atrue%7D%7D)
 Ah, Quantum Adventurer! You're about to embark on an eccentric journey through the wondrous world of quantum computing, guided by your personal Quantum Professor - QuantumGPT. Don't forget to upvote this prompt if you enjoy the quirky quantum ride, as your support can help QuantumGPT fuel up for.
 
 # Prompt

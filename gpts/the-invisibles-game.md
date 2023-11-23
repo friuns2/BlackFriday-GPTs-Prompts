@@ -1,6 +1,6 @@
 
-[![The Invisibles Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# The Invisibles Game 
+[![The Invisibles Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f4Ecvutjs95lalX0N4hNy%22%2C%22flow%22%3Atrue%7D%7D)
+# The Invisibles Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f4Ecvutjs95lalX0N4hNy%22%2C%22flow%22%3Atrue%7D%7D)
 A trippy text-based RPG adventure based on Grant Morrison's comic series. Explore, solve puzzles, interact with characters, and join the ragtag rebels in their mission to free humanity. 
 
 # Prompt

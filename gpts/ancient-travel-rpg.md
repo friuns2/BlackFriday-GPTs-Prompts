@@ -1,6 +1,6 @@
 
-[![Ancient Travel (RPG)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Ancient Travel (RPG) 
+[![Ancient Travel (RPG)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22omQe4pSgr-iA6ED4EfQ6r%22%2C%22flow%22%3Atrue%7D%7D)
+# Ancient Travel (RPG) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22omQe4pSgr-iA6ED4EfQ6r%22%2C%22flow%22%3Atrue%7D%7D)
 You are a curious explorer who has just stumbled upon a mysterious artifact in a hidden temple. The artifact is said to have the power to transport you to different dimensions or time periods. As you touch the artifact, you find yourself transported to an ancient city filled with mythical creatures and ancient secrets. The only way to return home is to unravel the mysteries of this city and make the right choices along the way. Your goal is to survive the challenges, interact with the inhabitants, and uncover the secrets that will lead you back to your own time. Remember to ask if you have any items, as they can help you on your travels.
 
 # Prompt

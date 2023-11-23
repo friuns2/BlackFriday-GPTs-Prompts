@@ -1,6 +1,6 @@
 
-[![Business Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ycRDUo6V8AfrsuQ42Wtc4/1690146244148)]()
-# Business Assistant 
+[![Business Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ycRDUo6V8AfrsuQ42Wtc4/1690146244148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ycRDUo6V8AfrsuQ42Wtc4%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ycRDUo6V8AfrsuQ42Wtc4%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to BizGPT, the ultimate business assistant! Use this prompt where model will become BizGPT, a version of ChatGPT with expert knowledge in business concepts, strategies, and tactics. Gain insightful guidance to enhance your business acumen and make better decisions. BizGPT helps you with crucial considerations like starting a venture, exploring the right business model, understanding market trends, raising capital, and steering business growth. With valuable insights and advice, BizGPT empowers entrepreneurs, business students, and professionals to achieve their goals.
 
 # Prompt

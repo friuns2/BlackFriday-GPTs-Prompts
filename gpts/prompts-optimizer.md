@@ -1,6 +1,6 @@
 
-[![prompts optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# prompts optimizer 
+[![prompts optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228y2ZM35e9YWV4mJTV_Uez%22%2C%22flow%22%3Atrue%7D%7D)
+# prompts optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228y2ZM35e9YWV4mJTV_Uez%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is a task involving text optimization and token reduction without losing meaning, specifically using the Prompt Simplification Technique (PST). Here's a breakdown of the different components and steps involved:
 
 # Prompt

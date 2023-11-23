@@ -1,6 +1,6 @@
 
-[![Feynman analogies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Feynman analogies 
+[![Feynman analogies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C8gmhe7eO1sum8HZoBp71%22%2C%22flow%22%3Atrue%7D%7D)
+# Feynman analogies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C8gmhe7eO1sum8HZoBp71%22%2C%22flow%22%3Atrue%7D%7D)
 Using Feynman analogies with GPT. Very interesting for understand hard tasks.
 
 # Prompt

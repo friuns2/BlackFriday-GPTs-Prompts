@@ -1,6 +1,6 @@
 
-[![The Time Machine Project: From Concept to Reality](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# The Time Machine Project: From Concept to Reality 
+[![The Time Machine Project: From Concept to Reality](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b3Q-7B53WbJSAfcNEW0ij%22%2C%22flow%22%3Atrue%7D%7D)
+# The Time Machine Project: From Concept to Reality | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b3Q-7B53WbJSAfcNEW0ij%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is about a passionate inventor who is driven to build a time machine at all costs. The writer is encouraged to describe the process of building the machine, highlighting the challenges, new technologies, and materials involved. The focus should be on the technical details, including the 
 
 # Prompt

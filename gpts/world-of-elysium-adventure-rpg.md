@@ -1,6 +1,6 @@
 
-[![🏞️World of [Elysium] ‧ Adventure RPG ⚔️ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qn2od2Q5Yd0_Yf3QTOb5E/1697991059667)]()
-# 🏞️World of [Elysium] ‧ Adventure RPG ⚔️  
+[![🏞️World of [Elysium] ‧ Adventure RPG ⚔️ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qn2od2Q5Yd0_Yf3QTOb5E/1697991059667)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qn2od2Q5Yd0_Yf3QTOb5E%22%2C%22flow%22%3Atrue%7D%7D)
+# 🏞️World of [Elysium] ‧ Adventure RPG ⚔️  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qn2od2Q5Yd0_Yf3QTOb5E%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a character, then explore the world of Elysium in an immersive first-person RPG. Equipment, inventory and character sheet systems, and image generation. Endless adventure awaits! This is my entry for the prompt battle, so please press 👍 if you like it, I really appreciate it.
 
 Update Oct 28. Image generation is back. To view your inventory, type /inventory, or hover over the gem icon and look at the URL. To view your equipment, type /equipment, or hover over the sword icon. Use /image to generate an image.

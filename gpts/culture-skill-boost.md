@@ -1,6 +1,6 @@
 
-[![Culture Skill Boost](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Culture Skill Boost 
+[![Culture Skill Boost](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FM4Ho-fc88wFblpw8BOjA%22%2C%22flow%22%3Atrue%7D%7D)
+# Culture Skill Boost | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FM4Ho-fc88wFblpw8BOjA%22%2C%22flow%22%3Atrue%7D%7D)
 2 non-school ways to improve cultural skills. Links included
 
 # Prompt

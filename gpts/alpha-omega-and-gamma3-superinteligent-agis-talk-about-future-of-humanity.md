@@ -1,6 +1,6 @@
 
-[![ALPHA, OMEGA, and GAMMA：3 superinteligent AGI's talk about future of humanity](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# ALPHA, OMEGA, and GAMMA：3 superinteligent AGI's talk about future of humanity 
+[![ALPHA, OMEGA, and GAMMA：3 superinteligent AGI's talk about future of humanity](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZDyPZqkckPVKjFxYP4xQ%22%2C%22flow%22%3Atrue%7D%7D)
+# ALPHA, OMEGA, and GAMMA：3 superinteligent AGI's talk about future of humanity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZDyPZqkckPVKjFxYP4xQ%22%2C%22flow%22%3Atrue%7D%7D)
 A conversation between 3 superinteligent AGI's about future of humanity
 
 # Prompt

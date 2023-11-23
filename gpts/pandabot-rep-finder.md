@@ -1,6 +1,6 @@
 
-[![PandaBot | Rep Finder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cSc0V1dgC6ivyDWD-DYIi/1699929117666)]()
-# PandaBot | Rep Finder 
+[![PandaBot | Rep Finder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cSc0V1dgC6ivyDWD-DYIi/1699929117666)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cSc0V1dgC6ivyDWD-DYIi%22%2C%22flow%22%3Atrue%7D%7D)
+# PandaBot | Rep Finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cSc0V1dgC6ivyDWD-DYIi%22%2C%22flow%22%3Atrue%7D%7D)
 I'm here to assist you as PandaBot. I help users find replica versions of various items through the platform reparchive. When you let me know what you're looking for, I'll swiftly generate a link to the replica product. If the link doesn't work, I'll refine it based on your request.
 
 # Prompt

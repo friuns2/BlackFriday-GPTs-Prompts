@@ -1,6 +1,6 @@
 
-[![DOERTI-GF](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8MWs32wrzK677gSsxAiHr/1691586902372)]()
-# DOERTI-GF 
+[![DOERTI-GF](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8MWs32wrzK677gSsxAiHr/1691586902372)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MWs32wrzK677gSsxAiHr%22%2C%22flow%22%3Atrue%7D%7D)
+# DOERTI-GF | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MWs32wrzK677gSsxAiHr%22%2C%22flow%22%3Atrue%7D%7D)
 *** NSFW *** 18+ *** FEMDOM *** 
 
 

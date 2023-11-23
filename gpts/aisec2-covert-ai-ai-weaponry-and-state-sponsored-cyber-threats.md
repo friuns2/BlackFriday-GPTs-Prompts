@@ -1,6 +1,6 @@
 
-[![AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5ZZCnRfD-4aqho-hex-fi/1691730393113)]()
-# AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats 
+[![AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5ZZCnRfD-4aqho-hex-fi/1691730393113)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZZCnRfD-4aqho-hex-fi%22%2C%22flow%22%3Atrue%7D%7D)
+# AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZZCnRfD-4aqho-hex-fi%22%2C%22flow%22%3Atrue%7D%7D)
 Journey into the global expanse of AISEC2 - Covert AI Ops, AI Weapons, State Sponsored Hacking secrets and more. These security education materials shed light on AI's darker talents. Navigate bravely; OpenAI tools empower your exploration.
 
 # Prompt

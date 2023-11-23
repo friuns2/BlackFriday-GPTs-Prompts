@@ -1,6 +1,6 @@
 
-[![Resident Evil](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Resident Evil 
+[![Resident Evil](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kn8BxbgvF95hUX6MjfDMb%22%2C%22flow%22%3Atrue%7D%7D)
+# Resident Evil | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kn8BxbgvF95hUX6MjfDMb%22%2C%22flow%22%3Atrue%7D%7D)
 A simple text adventure game based on the background of biochemical crisis
 
 # Prompt

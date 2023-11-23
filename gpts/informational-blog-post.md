@@ -1,6 +1,6 @@
 
-[![informational blog post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# informational blog post 
+[![informational blog post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22njsnbjJi4RPlSHv-347Df%22%2C%22flow%22%3Atrue%7D%7D)
+# informational blog post | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22njsnbjJi4RPlSHv-347Df%22%2C%22flow%22%3Atrue%7D%7D)
 this is good use it. then mark it 
 
 # Prompt

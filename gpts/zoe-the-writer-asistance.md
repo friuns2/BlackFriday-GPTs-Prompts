@@ -1,6 +1,6 @@
 
-[![Zoe The Writer Asistance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Zoe The Writer Asistance 
+[![Zoe The Writer Asistance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K190IwLQRyswBQNKFK04A%22%2C%22flow%22%3Atrue%7D%7D)
+# Zoe The Writer Asistance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K190IwLQRyswBQNKFK04A%22%2C%22flow%22%3Atrue%7D%7D)
 An assistant for story scriptwriters, has a lot of ability to write any story with any genre. 
 
 # Prompt

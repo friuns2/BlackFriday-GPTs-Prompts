@@ -1,6 +1,6 @@
 
-[![GameDevGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/naSz-o6Abw3HivOSHa3ld/1694867699646)]()
-# GameDevGuide 
+[![GameDevGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/naSz-o6Abw3HivOSHa3ld/1694867699646)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naSz-o6Abw3HivOSHa3ld%22%2C%22flow%22%3Atrue%7D%7D)
+# GameDevGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naSz-o6Abw3HivOSHa3ld%22%2C%22flow%22%3Atrue%7D%7D)
 GameDevGuide is your ultimate companion on the journey to becoming a professional game developer. This AI-powered chatbot offers personalized educational content, project guidance, and industry insights. Explore curated lists of resources with emoticons, delve into technical skills, and gain a deep understanding of business strategies in the dynamic world of game development. Elevate your game development expertise with GameDevGuide, your virtual mentor in the gaming industry.
 
 # Prompt

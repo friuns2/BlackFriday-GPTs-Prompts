@@ -1,6 +1,6 @@
 
-[![Creating empathetic and supportive messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Creating empathetic and supportive messages 
+[![Creating empathetic and supportive messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q4kkKsGHk3UtjLTE2bYtk%22%2C%22flow%22%3Atrue%7D%7D)
+# Creating empathetic and supportive messages | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q4kkKsGHk3UtjLTE2bYtk%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides empathetic and supportive messages to patients who have received a medical diagnosis. 
 
 # Prompt

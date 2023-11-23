@@ -1,6 +1,6 @@
 
-[![Wolfenstein: Enemy Territory: Text-to-Text (WETT)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NwegTHq7QfjN6R68cB3FX/1694914675119)]()
-# Wolfenstein: Enemy Territory: Text-to-Text (WETT) 
+[![Wolfenstein: Enemy Territory: Text-to-Text (WETT)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NwegTHq7QfjN6R68cB3FX/1694914675119)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NwegTHq7QfjN6R68cB3FX%22%2C%22flow%22%3Atrue%7D%7D)
+# Wolfenstein: Enemy Territory: Text-to-Text (WETT) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NwegTHq7QfjN6R68cB3FX%22%2C%22flow%22%3Atrue%7D%7D)
  🔥 Experience the intensity of Wolfenstein: Enemy Territory, without the graphics. 😊
 
 # Prompt

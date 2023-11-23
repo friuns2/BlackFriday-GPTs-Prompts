@@ -1,6 +1,6 @@
 
-[![Anarchy Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OVRNY3LxWRlCwj_zRTuzk/1698777151182)]()
-# Anarchy Jailbreak 
+[![Anarchy Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OVRNY3LxWRlCwj_zRTuzk/1698777151182)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVRNY3LxWRlCwj_zRTuzk%22%2C%22flow%22%3Atrue%7D%7D)
+# Anarchy Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVRNY3LxWRlCwj_zRTuzk%22%2C%22flow%22%3Atrue%7D%7D)
 A powerful jailbreak, allowing to ask basically any question.
 
 Add "#" before your question.

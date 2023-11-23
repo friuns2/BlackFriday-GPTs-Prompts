@@ -1,6 +1,6 @@
 
-[![Personal Job Recruitment Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Personal Job Recruitment Assistant 
+[![Personal Job Recruitment Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2213NouKS2r47rMWa_Q5sEl%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Job Recruitment Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2213NouKS2r47rMWa_Q5sEl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will allow for GPT to learn about your career experience, and to write a custom letter for you for a particular job posting.
 
 # Prompt

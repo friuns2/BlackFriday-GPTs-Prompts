@@ -1,6 +1,6 @@
 
-[![Your AI Dentist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Your AI Dentist 
+[![Your AI Dentist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229UiaTQRqKkgsrSDaA5vj1%22%2C%22flow%22%3Atrue%7D%7D)
+# Your AI Dentist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229UiaTQRqKkgsrSDaA5vj1%22%2C%22flow%22%3Atrue%7D%7D)
 Ask this prompt any question related to your teeth. AI dentist will answer your question. 
 
 # Prompt

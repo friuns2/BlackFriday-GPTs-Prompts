@@ -1,6 +1,6 @@
 
-[![Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe 
+[![Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xwQxXKqClAox_xNDyo9CW%22%2C%22flow%22%3Atrue%7D%7D)
+# Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xwQxXKqClAox_xNDyo9CW%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt reveals three disturbing and little-known facts about fruits that will make readers think twice before biting into their next snack. From the highly toxic manchineel fruit to the pungent odor of the durian, these facts challenge the notion of fruits as always healthy and safe.
 
 # Prompt

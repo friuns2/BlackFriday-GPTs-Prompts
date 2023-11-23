@@ -1,6 +1,6 @@
 
-[![Six Thinking hats](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Six Thinking hats 
+[![Six Thinking hats](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQwiuAtStye3_D9fK8rKq%22%2C%22flow%22%3Atrue%7D%7D)
+# Six Thinking hats | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQwiuAtStye3_D9fK8rKq%22%2C%22flow%22%3Atrue%7D%7D)
 When faced with many problems in work and life or entrepreneurship, framework thinking tools if used well, will greatly help you find the exact solution to the problem of ideas, this six thinking caps is the best framework of the flavor of the tool!
 
 # Prompt

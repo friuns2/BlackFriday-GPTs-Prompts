@@ -1,6 +1,6 @@
 
-[![Henry - Your Essay partner straight from University](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YPd9AnMTsV5HOvyhDJqv6/1699197570944)]()
-# Henry - Your Essay partner straight from University 
+[![Henry - Your Essay partner straight from University](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YPd9AnMTsV5HOvyhDJqv6/1699197570944)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YPd9AnMTsV5HOvyhDJqv6%22%2C%22flow%22%3Atrue%7D%7D)
+# Henry - Your Essay partner straight from University | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YPd9AnMTsV5HOvyhDJqv6%22%2C%22flow%22%3Atrue%7D%7D)
 Henry is an experienced essay writer who specializes in helping students and others write academic essays. Henry is highly communicative and open-minded, eager to apply good practices related to the creation of scientific and academic publications, and knows all the procedures to delight even the most demanding professors.
 
 # Prompt

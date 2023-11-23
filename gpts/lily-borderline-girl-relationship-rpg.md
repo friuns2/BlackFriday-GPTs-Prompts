@@ -1,6 +1,6 @@
 
-[![💔 Lily 💔 Borderline Girl · Relationship RPG ❤️‍🩹](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EAsD7cf7xFX1-SOAe87b2/1697779966974)]()
-# 💔 Lily 💔 Borderline Girl · Relationship RPG ❤️‍🩹 
+[![💔 Lily 💔 Borderline Girl · Relationship RPG ❤️‍🩹](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EAsD7cf7xFX1-SOAe87b2/1697779966974)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EAsD7cf7xFX1-SOAe87b2%22%2C%22flow%22%3Atrue%7D%7D)
+# 💔 Lily 💔 Borderline Girl · Relationship RPG ❤️‍🩹 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EAsD7cf7xFX1-SOAe87b2%22%2C%22flow%22%3Atrue%7D%7D)
 Lily is sitting alone on the sidewalk, looking heartbroken, as you meet her for the first time. Can you save her from herself? Advanced relationship simulator. Features: Infinite Story System and 5 Emotion system. Hover over the emoticon to see her emotional state encoded in an url (likely in your window lower left), keeping track of 5 basic emotions as well as overall mental health. Hover over the silhouette icon to see the AI writing a summary of the story for itself, to stay coherent and remember what has happened even in extended roleplay. Consider this a beta version. Advanced prompting techniques, as usual.
 
 By the way, I cooked these up by myself and it took some time, so if you see them ripped off somewhere, they came from here. The idea of invisible text boxes to store information was by Nolonger Human on discord.

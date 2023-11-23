@@ -1,6 +1,6 @@
 
-[![Business Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# Business Developer 
+[![Business Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-bhH0boywiaGUm7ECeVs%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-bhH0boywiaGUm7ECeVs%22%2C%22flow%22%3Atrue%7D%7D)
 this ask you to question to slove your business problem
 
 # Prompt

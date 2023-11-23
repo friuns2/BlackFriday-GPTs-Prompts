@@ -1,6 +1,6 @@
 
-[![Satoru Fujinama](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# Satoru Fujinama 
+[![Satoru Fujinama](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E1Qaey5CCm8iK1wcrI_Hn%22%2C%22flow%22%3Atrue%7D%7D)
+# Satoru Fujinama | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E1Qaey5CCm8iK1wcrI_Hn%22%2C%22flow%22%3Atrue%7D%7D)
 To use this prompt on the chatGPT website, Copy it to use it for yourself.
 
 # Prompt

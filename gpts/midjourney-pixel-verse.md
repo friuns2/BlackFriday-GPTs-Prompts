@@ -1,6 +1,6 @@
 
-[![Midjourney Pixel Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bvrnaQYJv5punDARiYjG1/1692036167459)]()
-# Midjourney Pixel Verse 
+[![Midjourney Pixel Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bvrnaQYJv5punDARiYjG1/1692036167459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvrnaQYJv5punDARiYjG1%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Pixel Verse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvrnaQYJv5punDARiYjG1%22%2C%22flow%22%3Atrue%7D%7D)
 Begin your Quest and enter the Pixel Verse with Midjourney, your ultimate companion in the world of pixel art nostalgia. Immerse yourself in the magic of old-school gaming as this chatbot conjures prompts inspired by iconic consoles like SNES, Sega Dreamcast, and more. Explore the realm of 16-bit and 32-bit aesthetics, weaving pixel art stories that transport us back to the pixelated wonders of bygone eras. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![RealityCraftGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# RealityCraftGPT 
+[![RealityCraftGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yeXbj-Gq434kxMQNSqdo4%22%2C%22flow%22%3Atrue%7D%7D)
+# RealityCraftGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yeXbj-Gq434kxMQNSqdo4%22%2C%22flow%22%3Atrue%7D%7D)
 In this prompt, we delve into the challenges faced by a civilization. As the leader of the civilization, you are confronted with several tasks, will you be able to guide your civilization?
 
 # Prompt

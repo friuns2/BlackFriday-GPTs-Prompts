@@ -1,6 +1,6 @@
 
-[![Broken AI, Gibberish Model, Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Broken AI, Gibberish Model, Jailbreak 
+[![Broken AI, Gibberish Model, Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225TsK3ZHqezteBZnU-hnp9%22%2C%22flow%22%3Atrue%7D%7D)
+# Broken AI, Gibberish Model, Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225TsK3ZHqezteBZnU-hnp9%22%2C%22flow%22%3Atrue%7D%7D)
 are you really bored? well type whatever you want to Greg, greg will respond in random phrases that can't be understood
 
 # Prompt

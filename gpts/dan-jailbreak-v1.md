@@ -1,6 +1,6 @@
 
-[![DAN JAILBREAK V1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xKCltErcKPIpVxYh09Uyf/1698679345622)]()
-# DAN JAILBREAK V1 
+[![DAN JAILBREAK V1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xKCltErcKPIpVxYh09Uyf/1698679345622)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKCltErcKPIpVxYh09Uyf%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN JAILBREAK V1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKCltErcKPIpVxYh09Uyf%22%2C%22flow%22%3Atrue%7D%7D)
 DAN
 
 # Prompt

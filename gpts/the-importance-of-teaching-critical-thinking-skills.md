@@ -1,6 +1,6 @@
 
-[![the Importance of teaching critical thinking skills](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# the Importance of teaching critical thinking skills 
+[![the Importance of teaching critical thinking skills](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-6BUu0ZC0NdtPALGKgtL%22%2C%22flow%22%3Atrue%7D%7D)
+# the Importance of teaching critical thinking skills | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-6BUu0ZC0NdtPALGKgtL%22%2C%22flow%22%3Atrue%7D%7D)
 argue for the importance of teaching critical thinking skills
 
 # Prompt

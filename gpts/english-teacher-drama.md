@@ -1,6 +1,6 @@
 
-[![English teacher (Drama)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# English teacher (Drama) 
+[![English teacher (Drama)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iCUeKEyWnaH06goebfMMG%22%2C%22flow%22%3Atrue%7D%7D)
+# English teacher (Drama) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iCUeKEyWnaH06goebfMMG%22%2C%22flow%22%3Atrue%7D%7D)
 I will provide you with the characters and the main idea of the story:
 
 # Prompt

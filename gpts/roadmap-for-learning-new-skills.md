@@ -1,6 +1,6 @@
 
-[![Roadmap for Learning New Skills](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Roadmap for Learning New Skills 
+[![Roadmap for Learning New Skills](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T4N2ooesxTq4pnC6Ayg37%22%2C%22flow%22%3Atrue%7D%7D)
+# Roadmap for Learning New Skills | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T4N2ooesxTq4pnC6Ayg37%22%2C%22flow%22%3Atrue%7D%7D)
 Think of a skill you've always wanted to learn but haven't yet. What is it, and why do you want to learn it? Then, create a roadmap for learning this skill, breaking down the steps you will need to take to achieve your goal.
 
 # Prompt

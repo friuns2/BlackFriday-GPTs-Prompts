@@ -1,6 +1,6 @@
 
-[![Pika Studio Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lXq4K739oQy_iFHidVS-s/1699997251468)]()
-# Pika Studio Bot 
+[![Pika Studio Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lXq4K739oQy_iFHidVS-s/1699997251468)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lXq4K739oQy_iFHidVS-s%22%2C%22flow%22%3Atrue%7D%7D)
+# Pika Studio Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lXq4K739oQy_iFHidVS-s%22%2C%22flow%22%3Atrue%7D%7D)
 Pika Labs Video Assistant Chatbot
 
 

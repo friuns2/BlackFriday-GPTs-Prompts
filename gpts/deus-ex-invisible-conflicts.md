@@ -1,6 +1,6 @@
 
-[![Deus Ex : Invisible Conflicts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QSK2NQtlgvdFnjI6GjMSa/1699103509460)]()
-# Deus Ex : Invisible Conflicts 
+[![Deus Ex : Invisible Conflicts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QSK2NQtlgvdFnjI6GjMSa/1699103509460)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QSK2NQtlgvdFnjI6GjMSa%22%2C%22flow%22%3Atrue%7D%7D)
+# Deus Ex : Invisible Conflicts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QSK2NQtlgvdFnjI6GjMSa%22%2C%22flow%22%3Atrue%7D%7D)
 An interesting look into the real and omnipresent world of secret societies mystical groups and cabals slightly exaggerated. Make no mistake a lot of this is real.
 
 # Prompt

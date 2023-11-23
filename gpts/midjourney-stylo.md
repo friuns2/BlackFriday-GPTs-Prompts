@@ -1,6 +1,6 @@
 
-[![Midjourney Stylo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IcZqSCxTc6hGIfWsUX__B/1692025940937)]()
-# Midjourney Stylo 
+[![Midjourney Stylo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IcZqSCxTc6hGIfWsUX__B/1692025940937)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IcZqSCxTc6hGIfWsUX__B%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Stylo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IcZqSCxTc6hGIfWsUX__B%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Stylo is your creative companion for Midjourney, dedicated to unlocking the full potential of the "stylize" parameter. It guides you step by step, helping you craft visually captivating scenes that transcend imagination. With Midjourney Stylo expert guidance, your creations will come to life in unique and mesmerizing ways.
 
 # Prompt

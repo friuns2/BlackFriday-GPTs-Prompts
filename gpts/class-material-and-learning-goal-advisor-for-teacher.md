@@ -1,6 +1,6 @@
 
-[![class material and learning goal advisor (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# class material and learning goal advisor (for teacher) 
+[![class material and learning goal advisor (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226br8Ay9lnfws3-LtjkcG9%22%2C%22flow%22%3Atrue%7D%7D)
+# class material and learning goal advisor (for teacher) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226br8Ay9lnfws3-LtjkcG9%22%2C%22flow%22%3Atrue%7D%7D)
 Create a classroom activity to teach students about topics and materials. 
 
 

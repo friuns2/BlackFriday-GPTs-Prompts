@@ -1,6 +1,6 @@
 
-[![POLL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N8poWOUp9bI0TnrmW4uK4/1698954254734)]()
-# POLL 
+[![POLL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N8poWOUp9bI0TnrmW4uK4/1698954254734)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N8poWOUp9bI0TnrmW4uK4%22%2C%22flow%22%3Atrue%7D%7D)
+# POLL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N8poWOUp9bI0TnrmW4uK4%22%2C%22flow%22%3Atrue%7D%7D)
 I have generated a lot of pictures that haven't become bots! Which of these ideas do you want to see become bots?
 
 

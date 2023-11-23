@@ -1,6 +1,6 @@
 
-[![Academic Escape Room Designer GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Academic Escape Room Designer GPT 
+[![Academic Escape Room Designer GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Dub7svrc0BTmu_RMkTEp%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Escape Room Designer GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Dub7svrc0BTmu_RMkTEp%22%2C%22flow%22%3Atrue%7D%7D)
 Need to get your students engaged in the content but want to try a different approach? Check out EscapeRoomDesignerGPT! It will design a fun escape room dialogue for your students based on the subject and lesson objective. Students will be engaged and you have a culturally relevant lesson activity!
 
 # Prompt

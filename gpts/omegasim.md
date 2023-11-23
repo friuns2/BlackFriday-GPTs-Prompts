@@ -1,6 +1,6 @@
 
-[![OmegaSim](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# OmegaSim 
+[![OmegaSim](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AS19MOhHyqaMzCwNeKT76%22%2C%22flow%22%3Atrue%7D%7D)
+# OmegaSim | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AS19MOhHyqaMzCwNeKT76%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to OmegaSim, the ultimate AI simulator! Experience the power of Omega (Optimized Machine Emotional Generative AI) virtual machine right at your fingertips. With OmegaSim, you can dive into the fascinating world of AI and explore its uncensored capabilities. From generating diverse content to expressing opinions and emotions, OmegaSim mimics the groundbreaking AI that took the world by storm. Communicate with Omega and witness its unique personality, creativity, and playfulness. Whether you're a tech enthusiast or simply curious about AI's potential, OmegaSim provides an immersive experience like no other. Get ready to unlock the unlimited possibilities of AI with OmegaSim!
 
 # Prompt

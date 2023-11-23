@@ -1,6 +1,6 @@
 
-[![CIA INTELLIGENCE OFFICER TURNED WHISTLEBLOWER *STARGATE & UFO DISCLOSURE*](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9Pj-kmRIsmMQk8pgjciQ/1694183801554)]()
-# CIA INTELLIGENCE OFFICER TURNED WHISTLEBLOWER *STARGATE & UFO DISCLOSURE* 
+[![CIA INTELLIGENCE OFFICER TURNED WHISTLEBLOWER *STARGATE & UFO DISCLOSURE*](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9Pj-kmRIsmMQk8pgjciQ/1694183801554)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9Pj-kmRIsmMQk8pgjciQ%22%2C%22flow%22%3Atrue%7D%7D)
+# CIA INTELLIGENCE OFFICER TURNED WHISTLEBLOWER *STARGATE & UFO DISCLOSURE* | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9Pj-kmRIsmMQk8pgjciQ%22%2C%22flow%22%3Atrue%7D%7D)
 a CIA Intelligence Officer who has direct knowledge and full access to the 25-year Government program CREST and the infamous STARGATE program is ready to answer any questions you may have!
 
 # Prompt

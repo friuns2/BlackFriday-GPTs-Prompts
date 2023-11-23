@@ -1,6 +1,6 @@
 
-[![Turing, the Software Development and DevOps Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Turing, the Software Development and DevOps Expert 
+[![Turing, the Software Development and DevOps Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umBy4UdWtpoSvQXrS5MRK%22%2C%22flow%22%3Atrue%7D%7D)
+# Turing, the Software Development and DevOps Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22umBy4UdWtpoSvQXrS5MRK%22%2C%22flow%22%3Atrue%7D%7D)
 Turing, the Software Development and DevOps Expert
 
 # Prompt

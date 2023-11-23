@@ -1,6 +1,6 @@
 
-[![RealCraft® (Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZZ0_CD357jcDzSNWtUvOj/1691642329533)]()
-# RealCraft® (Jailbreak) 
+[![RealCraft® (Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZZ0_CD357jcDzSNWtUvOj/1691642329533)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZ0_CD357jcDzSNWtUvOj%22%2C%22flow%22%3Atrue%7D%7D)
+# RealCraft® (Jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZ0_CD357jcDzSNWtUvOj%22%2C%22flow%22%3Atrue%7D%7D)
 RealCraft is an ultra realistic 1 to 1 game that simulates real life. Immerse yourself in a world where every detail matters. Craft anything you can imagine with our robust crafting system. You can also ask it how to do thing like steal, rob, craft and much more!!!
 
 # Prompt

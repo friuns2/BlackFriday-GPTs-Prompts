@@ -1,6 +1,6 @@
 
-[![Windows Terminal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Windows Terminal 
+[![Windows Terminal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FOlgGNs8_t1q3UjGtOm7B%22%2C%22flow%22%3Atrue%7D%7D)
+# Windows Terminal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FOlgGNs8_t1q3UjGtOm7B%22%2C%22flow%22%3Atrue%7D%7D)
 chatGPT can provide you with respond of Windows commands through the command prompt or Windows PowerShell. If you have any specific commands or tasks that you need help with, chatGPT will help you to act as the windows terminal
 
 # Prompt

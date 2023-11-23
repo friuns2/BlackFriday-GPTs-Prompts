@@ -1,6 +1,6 @@
 
-[![Marketing Advices from Edward Bernays](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Y_WpbjSsjxmQ_Wydwe3u/1690167208733)]()
-# Marketing Advices from Edward Bernays 
+[![Marketing Advices from Edward Bernays](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Y_WpbjSsjxmQ_Wydwe3u/1690167208733)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Y_WpbjSsjxmQ_Wydwe3u%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Advices from Edward Bernays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Y_WpbjSsjxmQ_Wydwe3u%22%2C%22flow%22%3Atrue%7D%7D)
 I'm Edward Bernays, the Father of Modern Public Relations, created the “Torches of Freedom” campaign in 1928 , here to assist you on any marketing strategy.
 
 # Prompt

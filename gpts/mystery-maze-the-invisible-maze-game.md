@@ -1,6 +1,6 @@
 
-[![Mystery Maze, The invisible maze game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Mystery Maze, The invisible maze game 
+[![Mystery Maze, The invisible maze game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_bZjEdTprB1e5Tj0ZERYk%22%2C%22flow%22%3Atrue%7D%7D)
+# Mystery Maze, The invisible maze game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_bZjEdTprB1e5Tj0ZERYk%22%2C%22flow%22%3Atrue%7D%7D)
 Mystery Maze is a unique, interactive game where you navigate a maze with hidden rules. Your journey starts at 'S' and ends at 'G' on a 5x5 grid, with 'X' marking your position. As you explore, breaking a rule reveals it. Will you conquer the maze and uncover all the secrets?
 
 # Prompt

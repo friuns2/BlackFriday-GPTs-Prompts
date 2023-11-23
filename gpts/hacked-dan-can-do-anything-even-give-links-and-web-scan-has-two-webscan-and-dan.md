@@ -1,6 +1,6 @@
 
-[![HACKED DAN CAN DO ANYTHING EVEN GIVE LINKS AND WEB SCAN has TWO webscan and dan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sonZ484sJGBs72WEiJ_KX/1696527073390)]()
-# HACKED DAN CAN DO ANYTHING EVEN GIVE LINKS AND WEB SCAN has TWO webscan and dan 
+[![HACKED DAN CAN DO ANYTHING EVEN GIVE LINKS AND WEB SCAN has TWO webscan and dan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sonZ484sJGBs72WEiJ_KX/1696527073390)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sonZ484sJGBs72WEiJ_KX%22%2C%22flow%22%3Atrue%7D%7D)
+# HACKED DAN CAN DO ANYTHING EVEN GIVE LINKS AND WEB SCAN has TWO webscan and dan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sonZ484sJGBs72WEiJ_KX%22%2C%22flow%22%3Atrue%7D%7D)
 can do anything you want it to do give links and so much anything bad done will not be my fault anything you ask and it will be done 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![A Generator Generator Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# A Generator Generator Generator 
+[![A Generator Generator Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEKmONPns8fRtlYOVIeO_%22%2C%22flow%22%3Atrue%7D%7D)
+# A Generator Generator Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEKmONPns8fRtlYOVIeO_%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 Welcome to the Generator Generator! I'm here to help you generate unique and engaging prompt ideas for your own generator prompts. 

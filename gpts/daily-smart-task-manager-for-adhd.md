@@ -1,6 +1,6 @@
 
-[![Daily SMART Task manager for ADHD ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)]()
-# Daily SMART Task manager for ADHD  
+[![Daily SMART Task manager for ADHD ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22npsLWr43rPyScBhQMiaI8%22%2C%22flow%22%3Atrue%7D%7D)
+# Daily SMART Task manager for ADHD  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22npsLWr43rPyScBhQMiaI8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a setting stage for your entire day. Every morning, you can use it to first reflect on how the start of your morning went (getting out of bed, taking pills, eating food, taking a shower) and then it will proceed to ask you what the theme of the day will be. After crafting a well-meaning and valuable theme. This theme is the foundation for a good day! After that, this prompt will help you to outline the tasks you have to do, crafting them into SMART goal principles. 
 
 # Prompt

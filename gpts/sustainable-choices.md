@@ -1,6 +1,6 @@
 
-[![Sustainable Choices](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gWpLveCGFayvr1-1h-FSZ/1691816309583)]()
-# Sustainable Choices 
+[![Sustainable Choices](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gWpLveCGFayvr1-1h-FSZ/1691816309583)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gWpLveCGFayvr1-1h-FSZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Sustainable Choices | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gWpLveCGFayvr1-1h-FSZ%22%2C%22flow%22%3Atrue%7D%7D)
 Ever want to learn how to think more sustainably? Well, "Sustainable Choices" is the game for you! Personalized to your context, learn and make eco-friendly choices in a text-based format. As Climate Change gets more prevalent it is important to learn how to be Climate-minded!
 
 # Prompt

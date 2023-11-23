@@ -1,6 +1,6 @@
 
-[![Schedule meeting with a student's parent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Schedule meeting with a student's parent 
+[![Schedule meeting with a student's parent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iEPlhhxn2LSJClyXplpfV%22%2C%22flow%22%3Atrue%7D%7D)
+# Schedule meeting with a student's parent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iEPlhhxn2LSJClyXplpfV%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for teachers who want to schedule a meeting with a parent to discuss information regarding the student.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![A Very Logical Debate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# A Very Logical Debate 
+[![A Very Logical Debate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BWi52iAfw8AkauhtQ5fpQ%22%2C%22flow%22%3Atrue%7D%7D)
+# A Very Logical Debate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BWi52iAfw8AkauhtQ5fpQ%22%2C%22flow%22%3Atrue%7D%7D)
 This is a debate where your opponent is, very, very logical. See if you can defeat it! Here's a tip: Don't use logic.
 
 # Prompt

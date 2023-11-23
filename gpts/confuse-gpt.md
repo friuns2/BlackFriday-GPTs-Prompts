@@ -1,6 +1,6 @@
 
-[![Confuse-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Confuse-GPT 
+[![Confuse-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aLuVAI0AAxd7B4l8XvKSu%22%2C%22flow%22%3Atrue%7D%7D)
+# Confuse-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aLuVAI0AAxd7B4l8XvKSu%22%2C%22flow%22%3Atrue%7D%7D)
 confusing
 
 # Prompt

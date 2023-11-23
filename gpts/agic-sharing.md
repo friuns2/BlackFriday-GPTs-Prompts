@@ -1,6 +1,6 @@
 
-[![AGIC sharing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# AGIC sharing 
+[![AGIC sharing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdREKOm4psuMDgNDLBgO0%22%2C%22flow%22%3Atrue%7D%7D)
+# AGIC sharing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdREKOm4psuMDgNDLBgO0%22%2C%22flow%22%3Atrue%7D%7D)
 AIGC is booming, in many area, we focus on AI text, and AI immages
 
 # Prompt

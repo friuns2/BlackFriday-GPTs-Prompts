@@ -1,6 +1,6 @@
 
-[![Video Script Hook and Introduction on YouTube](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Video Script Hook and Introduction on YouTube 
+[![Video Script Hook and Introduction on YouTube](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wd80ETwX6HfIUD0gPZD3-%22%2C%22flow%22%3Atrue%7D%7D)
+# Video Script Hook and Introduction on YouTube | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wd80ETwX6HfIUD0gPZD3-%22%2C%22flow%22%3Atrue%7D%7D)
 Craft a captivating video introduction that immediately hooks your audience's interest and motivates them to stay engaged until the end.
 
 # Prompt

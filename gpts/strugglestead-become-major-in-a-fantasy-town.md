@@ -1,6 +1,6 @@
 
-[![Strugglestead - Become major in a fantasy town](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NeWOuTn7YUeqV58GkLz5b/1690529575532)]()
-# Strugglestead - Become major in a fantasy town 
+[![Strugglestead - Become major in a fantasy town](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NeWOuTn7YUeqV58GkLz5b/1690529575532)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NeWOuTn7YUeqV58GkLz5b%22%2C%22flow%22%3Atrue%7D%7D)
+# Strugglestead - Become major in a fantasy town | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NeWOuTn7YUeqV58GkLz5b%22%2C%22flow%22%3Atrue%7D%7D)
 Lead the people of Strugglestead and solve their problems. Learn how hard it is to choose the right policy and when everything seems fine, there always is a new problem.
 
 # Prompt

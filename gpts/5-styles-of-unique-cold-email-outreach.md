@@ -1,6 +1,6 @@
 
-[![5 Styles of Unique Cold Email Outreach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# 5 Styles of Unique Cold Email Outreach 
+[![5 Styles of Unique Cold Email Outreach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khq-t71hCfzw2wQarN8SR%22%2C%22flow%22%3Atrue%7D%7D)
+# 5 Styles of Unique Cold Email Outreach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khq-t71hCfzw2wQarN8SR%22%2C%22flow%22%3Atrue%7D%7D)
 Email Wizard is a powerful tool that helps Solopreneurs unleash the full potential of their cold email outreach. With industry-leading expertise, Email Wizard generates personalized and engaging cold email templates to help you achieve better results from your email campaigns. Whether you need creative, concise, exciting, provocative, or confident email templates, Email Wizard has got you covered. Say goodbye to automated and generic emails, and start connecting with your potential leads in a way that feels human and authentic. Get ready to supercharge your cold email game and watch your conversions soar with Email Wizard. Start writing irresistible cold emails today!
 
 # Prompt

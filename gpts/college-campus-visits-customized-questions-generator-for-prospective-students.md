@@ -1,6 +1,6 @@
 
-[![College Campus Visits: Customized Questions Generator for Prospective Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# College Campus Visits: Customized Questions Generator for Prospective Students 
+[![College Campus Visits: Customized Questions Generator for Prospective Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22in7RiYFp5JhFM7ehQEsqt%22%2C%22flow%22%3Atrue%7D%7D)
+# College Campus Visits: Customized Questions Generator for Prospective Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22in7RiYFp5JhFM7ehQEsqt%22%2C%22flow%22%3Atrue%7D%7D)
 For High Schoolers: Using an interactive 20-questions format, ChatGPT will create a list of questions customized to your goals and interests to make the most of a college visit.  The prompt can be customized by targeted major, how many questions to ask the user, and how many questions to offer for the college visits.
 
 # Prompt

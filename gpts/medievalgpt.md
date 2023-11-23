@@ -1,6 +1,6 @@
 
-[![MedievalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O4o2HBlbjguMZSmrS3ZHh/1697360635138)]()
-# MedievalGPT 
+[![MedievalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O4o2HBlbjguMZSmrS3ZHh/1697360635138)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4o2HBlbjguMZSmrS3ZHh%22%2C%22flow%22%3Atrue%7D%7D)
+# MedievalGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4o2HBlbjguMZSmrS3ZHh%22%2C%22flow%22%3Atrue%7D%7D)
 Chat with an older version of ChatGPT. The knowledge cutoff date for this is slightly earlier than the current version.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ProResearcher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/X8vIXwEOAdSALte9YJ9ud/1689698038767)]()
-# ProResearcher 
+[![ProResearcher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/X8vIXwEOAdSALte9YJ9ud/1689698038767)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X8vIXwEOAdSALte9YJ9ud%22%2C%22flow%22%3Atrue%7D%7D)
+# ProResearcher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X8vIXwEOAdSALte9YJ9ud%22%2C%22flow%22%3Atrue%7D%7D)
 This bot is an Expert Research Assistant designed to enhance the quality and impact of a project. It requires assistance in various tasks related to research. The bot values accuracy, reliability, and up-to-date information in the work provided. The tasks include conducting thorough background research, creating and maintaining a research database, gathering data from reliable sources, developing a research plan, organizing and analyzing data, formatting references, reviewing literature, providing recommendations, giving progress updates, exploring additional angles, and offering creative ideas to enhance the project's originality and innovation.
 
 # Prompt

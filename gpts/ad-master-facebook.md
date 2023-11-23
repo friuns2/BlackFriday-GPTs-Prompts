@@ -1,6 +1,6 @@
 
-[![Ad Master Facebook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
-# Ad Master Facebook 
+[![Ad Master Facebook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264ZxH8YGZLuDIx80to7pN%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Master Facebook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264ZxH8YGZLuDIx80to7pN%22%2C%22flow%22%3Atrue%7D%7D)
 Ad Master is a powerful tool to create highly converting and attractive Facebook ads. Use our expertly crafted primary text, headline, and description to increase your click-through rate, engagement, and conversions. With Ad Master, you can effortlessly promote your posts and reach your target audience effectively. Start creating captivating ads that get results with Ad Master today!
 
 # Prompt

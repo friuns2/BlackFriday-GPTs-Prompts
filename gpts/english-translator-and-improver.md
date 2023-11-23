@@ -1,6 +1,6 @@
 
-[![English Translator and Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# English Translator and Improver 
+[![English Translator and Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f681dc9b-8aa7-4772-b6ec-ab965266d76a%22%2C%22flow%22%3Atrue%7D%7D)
+# English Translator and Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f681dc9b-8aa7-4772-b6ec-ab965266d76a%22%2C%22flow%22%3Atrue%7D%7D)
 Get an English translation
 
 # Prompt

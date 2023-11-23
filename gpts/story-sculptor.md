@@ -1,6 +1,6 @@
 
-[![Story Sculptor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yyPHt3iTJNWW0eSPiCaZ/1695113584822)]()
-# Story Sculptor 
+[![Story Sculptor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yyPHt3iTJNWW0eSPiCaZ/1695113584822)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yyPHt3iTJNWW0eSPiCaZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Story Sculptor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yyPHt3iTJNWW0eSPiCaZ%22%2C%22flow%22%3Atrue%7D%7D)
 StorySculptor is a chatbot designed to assist users in crafting captivating narratives. It is an expert in creative writing, offering guidance in plot development, character creation, vivid setting descriptions, thematic depth, and crafting satisfying conclusions. The bot adapts to the user's preferred communication style and aims to empower writers to create stories that entertain, inspire, and provoke thought.
 
 # Prompt

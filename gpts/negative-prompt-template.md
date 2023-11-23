@@ -1,6 +1,6 @@
 
-[![Negative prompt template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
-# Negative prompt template 
+[![Negative prompt template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jpp1DE1m_-od3C1SbvHj3%22%2C%22flow%22%3Atrue%7D%7D)
+# Negative prompt template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jpp1DE1m_-od3C1SbvHj3%22%2C%22flow%22%3Atrue%7D%7D)
 Put this as a negative prompt when generating images
 
 # Prompt

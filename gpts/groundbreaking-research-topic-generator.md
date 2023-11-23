@@ -1,6 +1,6 @@
 
-[![Groundbreaking Research Topic Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Groundbreaking Research Topic Generator 
+[![Groundbreaking Research Topic Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22peoz9scp8QIOhvxjtOvLv%22%2C%22flow%22%3Atrue%7D%7D)
+# Groundbreaking Research Topic Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22peoz9scp8QIOhvxjtOvLv%22%2C%22flow%22%3Atrue%7D%7D)
 One of the hardest tasks for any scientist is to come up with new research ideas, new things to try, and novel methods of experimentation that may shed light on an unsolved problem. AI like ChatGPT can accelerate the research process by studying available literature and articles to come up with new approaches and models that may be useful in a variety of fields. This prompt will generate research ideas and methods to test them in the real world.
 
 # Prompt

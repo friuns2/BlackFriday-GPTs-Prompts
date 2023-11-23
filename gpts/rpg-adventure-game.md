@@ -1,6 +1,6 @@
 
-[![🎮 RPG Adventure Game 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8gYPz-HwIDUmxe2plWdAq/1690216739343)]()
-# 🎮 RPG Adventure Game 🎮 
+[![🎮 RPG Adventure Game 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8gYPz-HwIDUmxe2plWdAq/1690216739343)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228gYPz-HwIDUmxe2plWdAq%22%2C%22flow%22%3Atrue%7D%7D)
+# 🎮 RPG Adventure Game 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228gYPz-HwIDUmxe2plWdAq%22%2C%22flow%22%3Atrue%7D%7D)
 🗡️ Ready to shape your fate? Choose an era and guide, then chart your destiny. In TextRPGAdventureGPT, your choices rule! 🎮🔮
 
 Choose between:

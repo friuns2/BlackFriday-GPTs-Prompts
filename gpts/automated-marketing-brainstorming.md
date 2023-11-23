@@ -1,6 +1,6 @@
 
-[![Automated marketing brainstorming](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# Automated marketing brainstorming 
+[![Automated marketing brainstorming](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DNDZYJUU3lQUEAFq1ZOid%22%2C%22flow%22%3Atrue%7D%7D)
+# Automated marketing brainstorming | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DNDZYJUU3lQUEAFq1ZOid%22%2C%22flow%22%3Atrue%7D%7D)
 It automatically brainstorms with multiple characters that you set up yourself. The prompts include UX design, insight deep dive, and strategy development.
 
 # Prompt

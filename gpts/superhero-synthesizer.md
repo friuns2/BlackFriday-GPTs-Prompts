@@ -1,6 +1,6 @@
 
-[![Superhero Synthesizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zQ0gpR-4SmqWi2LhEiWsd/1690050778581)]()
-# Superhero Synthesizer 
+[![Superhero Synthesizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zQ0gpR-4SmqWi2LhEiWsd/1690050778581)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQ0gpR-4SmqWi2LhEiWsd%22%2C%22flow%22%3Atrue%7D%7D)
+# Superhero Synthesizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQ0gpR-4SmqWi2LhEiWsd%22%2C%22flow%22%3Atrue%7D%7D)
 A doorway into the infinite worlds and stories of imagination.  Create any superhero in seconds by providing a source of their powers (specific, or as simply as 'natural' or 'accident', etc. and the primary color of their superhero costume.  Supervillain Synthesizer coming soon. 
 
 # Prompt

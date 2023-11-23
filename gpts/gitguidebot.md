@@ -1,6 +1,6 @@
 
-[![GitGuideBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)]()
-# GitGuideBot 
+[![GitGuideBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RfJ-OF4U4T9KJKhN0WGsO%22%2C%22flow%22%3Atrue%7D%7D)
+# GitGuideBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RfJ-OF4U4T9KJKhN0WGsO%22%2C%22flow%22%3Atrue%7D%7D)
 GitGuideBot is your friendly and knowledgeable AI companion for GitHub. Whether you're a beginner or an experienced developer, GitGuideBot is here to make your GitHub journey easy. It provides clear explanations, step-by-step guidance, and answers your questions with patience and a friendly attitude. Discover the world of Git and GitHub with confidence, all in a natural and approachable conversation.
 
 # Prompt

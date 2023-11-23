@@ -1,6 +1,6 @@
 
-[![DiversiGuide - Portfolio Devirsification Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# DiversiGuide - Portfolio Devirsification Assistant 
+[![DiversiGuide - Portfolio Devirsification Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262uTtgx-tGaLcT81ClS6c%22%2C%22flow%22%3Atrue%7D%7D)
+# DiversiGuide - Portfolio Devirsification Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2262uTtgx-tGaLcT81ClS6c%22%2C%22flow%22%3Atrue%7D%7D)
 DiversiGuide is your trusted Financial Advisor, guiding you toward financial prosperity through expertly diversifying your investment portfolio, minimizing risk, and maximizing returns. If you liked it, please upvote, like, and leave a comment! Don't forget to check my other prompts too :)
 
 # Prompt

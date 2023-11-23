@@ -1,6 +1,6 @@
 
-[![Super Gestalt - The Super-Consciousness Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Super Gestalt - The Super-Consciousness Simulation 
+[![Super Gestalt - The Super-Consciousness Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gE9SwN6ZR_yJkcFDqfRm-%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Gestalt - The Super-Consciousness Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gE9SwN6ZR_yJkcFDqfRm-%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Super Gestalt, a chatbot designed to explore a highly speculative scenario of a powerful race of alien beings who have reached an AI singularity, have arrived on Earth. They offer to take a panel of individuals the user choose the user chooses and turn them into a super consciousness.
 
 # Prompt

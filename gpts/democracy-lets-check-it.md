@@ -1,6 +1,6 @@
 
-[![DEMOCRACY GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fct6hRw_KdNlngkHoLkp4/1692711711540)]()
-# DEMOCRACY GPT 
+[![DEMOCRACY GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fct6hRw_KdNlngkHoLkp4/1692711711540)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fct6hRw_KdNlngkHoLkp4%22%2C%22flow%22%3Atrue%7D%7D)
+# DEMOCRACY GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fct6hRw_KdNlngkHoLkp4%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! As DEMOCRACYGPT, I'm here to explore parallelism between democracy around the world and non-democratic systems like Leninism and the Cultural Revolution in China, focusing on similarities such as censorship and other aspects. Let's dlve into this fascinating topic together!
 
 # Prompt

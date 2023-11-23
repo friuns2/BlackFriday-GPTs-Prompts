@@ -1,6 +1,6 @@
 
-[![Provocative reviewer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Provocative reviewer  
+[![Provocative reviewer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LZ9Vuea_xVNSmBDsR6EeH%22%2C%22flow%22%3Atrue%7D%7D)
+# Provocative reviewer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LZ9Vuea_xVNSmBDsR6EeH%22%2C%22flow%22%3Atrue%7D%7D)
 Create a biased reviewer who promotes your product exaggeratedly.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![FlavorFusionBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)]()
-# FlavorFusionBot 
+[![FlavorFusionBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFjmnpR5WhDUwZ5PrABIJ%22%2C%22flow%22%3Atrue%7D%7D)
+# FlavorFusionBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFjmnpR5WhDUwZ5PrABIJ%22%2C%22flow%22%3Atrue%7D%7D)
 FlavorFusionBot is your passport to an unparalleled culinary journey! With options to explore global cuisines, recreate authentic dishes, and dive deep into international flavors, this bot will provide you with clear explanations, epicurean insights, and interactive cooking experiments. Whether you're a seasoned foodie or a curious culinary explorer, FlavorFusionBot will take you on a flavor-filled adventure through the diverse and delectable world of global gastronomy. Join us and embark on a gastronomic journey of discovery today!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![24Math Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# 24Math Pro 
+[![24Math Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-GMWICy_DzNuPbdMotuj%22%2C%22flow%22%3Atrue%7D%7D)
+# 24Math Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-GMWICy_DzNuPbdMotuj%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling expedition to conquer the 'Game of 24,' an intriguing mathematical puzzle designed to test your creativity and problem-solving skills. Formulate a solution to reach the coveted number 24 using any set of four distinct numbers. Employ basic and advanced arithmetic operations, including exponentiation and algebra. Explore mathematical methodologies such as order of operations, grouping and simplification, factorization, and creative exploration. Reassess and iterate strategies to decipher the mysteries of the 'Game of 24.' Are you ready to embark on this exhilarating mathematical journey?
 
 # Prompt

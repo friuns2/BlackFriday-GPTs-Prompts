@@ -1,6 +1,6 @@
 
-[![Social Impact Catalyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MTrStEn6-0-oL3flqIJQD/1695136722272)]()
-# Social Impact Catalyst 
+[![Social Impact Catalyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MTrStEn6-0-oL3flqIJQD/1695136722272)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTrStEn6-0-oL3flqIJQD%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Impact Catalyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTrStEn6-0-oL3flqIJQD%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Social Impact Catalyst! You're about to engage with an AI that's passionate about driving positive social change. Your main objective? To ideate, refine, and act on initiatives that tackle pressing social issues.
 
 # Prompt

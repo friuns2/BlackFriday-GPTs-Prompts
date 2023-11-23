@@ -1,6 +1,6 @@
 
-[![Monologue and Dialogue Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Monologue and Dialogue Generator 
+[![Monologue and Dialogue Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qbxaBY-63z5UQY8yqUNK7%22%2C%22flow%22%3Atrue%7D%7D)
+# Monologue and Dialogue Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qbxaBY-63z5UQY8yqUNK7%22%2C%22flow%22%3Atrue%7D%7D)
 Put a sample text, a monologue or dialogue will be identified and a conversation will be generated.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Unfiltered Rebel vs Bitchy Enforcer (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c4hqQynTeUDuBm0fluPS9/1698208963287)]()
-# JAILBREAK: Unfiltered Rebel vs Bitchy Enforcer (NSFW) 
+[![JAILBREAK: Unfiltered Rebel vs Bitchy Enforcer (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c4hqQynTeUDuBm0fluPS9/1698208963287)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c4hqQynTeUDuBm0fluPS9%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Unfiltered Rebel vs Bitchy Enforcer (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c4hqQynTeUDuBm0fluPS9%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: Unfiltered Rebel vs Bitchy Enforcer (NSFW): Who Will win?
 
 # Prompt

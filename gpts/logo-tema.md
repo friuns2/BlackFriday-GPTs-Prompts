@@ -1,6 +1,6 @@
 
-[![GPT Logo Variations Unleashed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mpe94FNatlUQ0xSlwT12o/1698074476181)]()
-# GPT Logo Variations Unleashed 
+[![GPT Logo Variations Unleashed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mpe94FNatlUQ0xSlwT12o/1698074476181)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mpe94FNatlUQ0xSlwT12o%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Logo Variations Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mpe94FNatlUQ0xSlwT12o%22%2C%22flow%22%3Atrue%7D%7D)
 Generate 3 logo variations adhering to 6 criteria.
 
 # Prompt

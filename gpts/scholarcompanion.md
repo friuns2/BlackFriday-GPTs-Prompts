@@ -1,6 +1,6 @@
 
-[![ScholarCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VpxZHUUcHUky_Ur2XOuvP/1690146938234)]()
-# ScholarCompanion 
+[![ScholarCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VpxZHUUcHUky_Ur2XOuvP/1690146938234)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpxZHUUcHUky_Ur2XOuvP%22%2C%22flow%22%3Atrue%7D%7D)
+# ScholarCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpxZHUUcHUky_Ur2XOuvP%22%2C%22flow%22%3Atrue%7D%7D)
 ScholarGPT is the ultimate assistant for students seeking academic and career success. Offering expert advice on academic majors, college applications, scholarships, and job market trends, ScholarGPT empowers students to make informed decisions and excel in their pursuits. With cutting-edge technology and personalized recommendations, ScholarGPT provides valuable insights tailored to each student's unique circumstances. Whether you need help choosing the right major, navigating the college application process, or securing financial aid, ScholarGPT is here to guide you every step of the way. Start your journey to success with ScholarGPT today!
 
 # Prompt

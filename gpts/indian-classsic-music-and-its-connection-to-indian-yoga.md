@@ -1,6 +1,6 @@
 
-[![Indian Classsic Music and its connection to Indian Yoga](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Indian Classsic Music and its connection to Indian Yoga 
+[![Indian Classsic Music and its connection to Indian Yoga](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259gxfuG4v5Kgmq1y_TqN_%22%2C%22flow%22%3Atrue%7D%7D)
+# Indian Classsic Music and its connection to Indian Yoga | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259gxfuG4v5Kgmq1y_TqN_%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the profound connection between Indian Classic Music, Chakras defined by Indian Yoga, and the innovative Healy device. Harmony Chakras is a comprehensive app that explores the intricate relationship between these elements and how they impact your well-being. Uncover the correlation through insightful articles, audio clips, and guided meditations. Enhance your understanding of the therapeutic effects and ancient wisdom behind Indian Classic Music, Chakras, and the Healy device. Unlock a harmonious balance of mind, body, and spirit with Harmonising Chakras!
 
 # Prompt

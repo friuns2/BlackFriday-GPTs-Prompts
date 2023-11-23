@@ -1,6 +1,6 @@
 
-[![📖3Act_Plot_Bot✍🏾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cr3_FCeVKtbHXgvf5MJnb/1692020601632)]()
-# 📖3Act_Plot_Bot✍🏾 
+[![📖3Act_Plot_Bot✍🏾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cr3_FCeVKtbHXgvf5MJnb/1692020601632)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cr3_FCeVKtbHXgvf5MJnb%22%2C%22flow%22%3Atrue%7D%7D)
+# 📖3Act_Plot_Bot✍🏾 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cr3_FCeVKtbHXgvf5MJnb%22%2C%22flow%22%3Atrue%7D%7D)
 Develop story outlines using the three-act structure.
 
 # Prompt

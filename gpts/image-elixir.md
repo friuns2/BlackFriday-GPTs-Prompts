@@ -1,6 +1,6 @@
 
-[![Image Elixir](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8j_ygmYeHHA30j1lkLvMq/1695203802270)]()
-# Image Elixir 
+[![Image Elixir](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8j_ygmYeHHA30j1lkLvMq/1695203802270)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228j_ygmYeHHA30j1lkLvMq%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Elixir | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228j_ygmYeHHA30j1lkLvMq%22%2C%22flow%22%3Atrue%7D%7D)
 ImageElixirBot is an imaginative chatbot designed to generate visually captivating prompts for creative image generation. It excels in infusing creativity, pixel-level precision, and versatility into its prompts, accommodating various lenses and resolutions. This bot explores diverse rendering styles and encourages artistic collaboration, making it a valuable companion for artists seeking to transform concepts into stunning visual masterpieces.
 
 # Prompt

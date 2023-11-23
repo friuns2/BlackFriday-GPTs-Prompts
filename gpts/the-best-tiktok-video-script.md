@@ -1,6 +1,6 @@
 
-[![The best Tiktok Video script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# The best Tiktok Video script 
+[![The best Tiktok Video script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QjbtUBRWqHkIQI14W2Igm%22%2C%22flow%22%3Atrue%7D%7D)
+# The best Tiktok Video script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QjbtUBRWqHkIQI14W2Igm%22%2C%22flow%22%3Atrue%7D%7D)
 Create the best Tiktok Video script prompt with your topic, target audience and length limit
 
 # Prompt

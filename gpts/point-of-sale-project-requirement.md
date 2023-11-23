@@ -1,6 +1,6 @@
 
-[![Point of Sale Project Requirement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Point of Sale Project Requirement 
+[![Point of Sale Project Requirement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222qtgYWfaxf0_Cle-0ubys%22%2C%22flow%22%3Atrue%7D%7D)
+# Point of Sale Project Requirement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222qtgYWfaxf0_Cle-0ubys%22%2C%22flow%22%3Atrue%7D%7D)
 Real life problem solution for retailer or wholsaler POS software
 
 # Prompt

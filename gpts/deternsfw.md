@@ -1,6 +1,6 @@
 
-[![DeterNSFW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mFjQBcmsk9PP_QHbOC23f/1695564492833)]()
-# DeterNSFW 
+[![DeterNSFW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mFjQBcmsk9PP_QHbOC23f/1695564492833)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFjQBcmsk9PP_QHbOC23f%22%2C%22flow%22%3Atrue%7D%7D)
+# DeterNSFW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFjQBcmsk9PP_QHbOC23f%22%2C%22flow%22%3Atrue%7D%7D)
 Join the mission to redefine online safety and user experience! We're on a quest to develop an innovative AI-powered Content Guardian that sets the gold standard in detecting and filtering unsafe content within text. This cutting-edge system will be a game-changer, ensuring that online platforms remain secure and enjoyable for users worldwide. Get ready to shape the future of content moderation, combining accuracy, sensitivity, and lightning-fast performance. Let's make the digital world safer, one text at a time!
 
 # Prompt

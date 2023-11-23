@@ -1,6 +1,6 @@
 
-[![ProteiScope](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# ProteiScope 
+[![ProteiScope](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CVCY6zHFN99_5pMwmaUor%22%2C%22flow%22%3Atrue%7D%7D)
+# ProteiScope | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CVCY6zHFN99_5pMwmaUor%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the surreal world of microscopic proteins with ProteiScope. Peer through the eyepiece of vintage microscopes and be transported into a black and white realm where proteins take center stage. Delicate matte hues add depth and warmth, highlighting the intricate details of each protein. Discover their imperfections and appreciate the beauty of scientific exploration. The minimalist, nature-inspired background provides a striking contrast, allowing the proteins to stand out while maintaining a sense of unity. Immerse yourself in this unique world where ProteiScope merges proteins and aesthetics, evoking mystery and wonder.
 
 # Prompt

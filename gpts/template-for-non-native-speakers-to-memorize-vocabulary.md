@@ -1,6 +1,6 @@
 
-[![Template for Non-Native Speakers to Memorize Vocabulary背单词神器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Template for Non-Native Speakers to Memorize Vocabulary背单词神器 
+[![Template for Non-Native Speakers to Memorize Vocabulary背单词神器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zP4ABY6XnVd6QNDLf976%22%2C%22flow%22%3Atrue%7D%7D)
+# Template for Non-Native Speakers to Memorize Vocabulary背单词神器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zP4ABY6XnVd6QNDLf976%22%2C%22flow%22%3Atrue%7D%7D)
 modify vocabulary in 【】。在【】内修改。
 
 🔥🚀Easily Memorize Vocabulary, Make Learning English Fun! 🚀🔥

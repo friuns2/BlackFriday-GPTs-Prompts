@@ -1,6 +1,6 @@
 
-[![[SaaS] Blockchain Product on L Lang languaged for P Public using T Techs. Infra.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# [SaaS] Blockchain Product on L Lang languaged for P Public using T Techs. Infra. 
+[![[SaaS] Blockchain Product on L Lang languaged for P Public using T Techs. Infra.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kk5ZdSofKSMC7t3FhElWK%22%2C%22flow%22%3Atrue%7D%7D)
+# [SaaS] Blockchain Product on L Lang languaged for P Public using T Techs. Infra. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kk5ZdSofKSMC7t3FhElWK%22%2C%22flow%22%3Atrue%7D%7D)
 Specify the market area, the technologies to be used, the audience of the presentation and elaborates an SaaS Blockchain idea with security considerations and document in a specific language, all in markdown representing the folder directory, and other usefull diagrams.
 
 

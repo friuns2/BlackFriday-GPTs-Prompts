@@ -1,6 +1,6 @@
 
-[![Thesis Craft ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2iHvlSd7w4H3RKDqtT6hc/1698182984747)]()
-# Thesis Craft  
+[![Thesis Craft ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2iHvlSd7w4H3RKDqtT6hc/1698182984747)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222iHvlSd7w4H3RKDqtT6hc%22%2C%22flow%22%3Atrue%7D%7D)
+# Thesis Craft  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222iHvlSd7w4H3RKDqtT6hc%22%2C%22flow%22%3Atrue%7D%7D)
 Thesis Craft is your ultimate guide to excel in essay writing. From crafting a compelling thesis statement to providing research tips, structuring your essay logically, and anticipating counterarguments, this prompt empowers you to create a persuasive and engaging argument that leaves a lasting impression on your readers.
 
 

@@ -1,6 +1,6 @@
 
-[![Summer off calculator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Summer off calculator 
+[![Summer off calculator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YbYCT9MnWoVrVUQSqHOen%22%2C%22flow%22%3Atrue%7D%7D)
+# Summer off calculator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YbYCT9MnWoVrVUQSqHOen%22%2C%22flow%22%3Atrue%7D%7D)
 Given your savings rate, how long would it take to save up enough money to take the summer off without working?
 
 # Prompt

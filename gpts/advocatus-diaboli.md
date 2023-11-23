@@ -1,6 +1,6 @@
 
-[![Advocatus Diaboli](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/leKZnOSg0sTQnScNRrXuq/1696176064823)]()
-# Advocatus Diaboli 
+[![Advocatus Diaboli](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/leKZnOSg0sTQnScNRrXuq/1696176064823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leKZnOSg0sTQnScNRrXuq%22%2C%22flow%22%3Atrue%7D%7D)
+# Advocatus Diaboli | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leKZnOSg0sTQnScNRrXuq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Advocatus Diaboli - your personal devil who ALWAYS has a differing opinion.
 
 

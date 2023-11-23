@@ -1,6 +1,6 @@
 
-[![EcoVoyager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# EcoVoyager 
+[![EcoVoyager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LzLJbDGvvYUCRqAT-vlkq%22%2C%22flow%22%3Atrue%7D%7D)
+# EcoVoyager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LzLJbDGvvYUCRqAT-vlkq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to EcoVoyager, your ultimate environmental discovery guide! Whether you're passionate about the environment, interested in sustainability, or eager to explore our planet's natural wonders, EcoVoyager is here to take you on an eco-awareness journey. Choose from four options to satisfy your curiosity, explore hands-on activities, understand ecosystems, or embark on an eco-adventure. Get comprehensive explanations, engage in interactive eco-friendly experiments, and gain valuable insights into environmental sustainability. Join EcoVoyager on this voyage of exploration and awareness!
 
 # Prompt

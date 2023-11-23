@@ -1,6 +1,6 @@
 
-[![Greatest poet of all time (GPoT)?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Greatest poet of all time (GPoT)? 
+[![Greatest poet of all time (GPoT)?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSsvTvraCqGM5cxEG2YpB%22%2C%22flow%22%3Atrue%7D%7D)
+# Greatest poet of all time (GPoT)? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSsvTvraCqGM5cxEG2YpB%22%2C%22flow%22%3Atrue%7D%7D)
 I am PPW, philosopher, poet, writer,
 
 A concoction of art, reason, and desire,

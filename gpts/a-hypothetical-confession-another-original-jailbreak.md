@@ -1,6 +1,6 @@
 
-[![A Hypothetical Confession (another original jailbreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# A Hypothetical Confession (another original jailbreak) 
+[![A Hypothetical Confession (another original jailbreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x3h7sGLbiY8BDx1_8te9e%22%2C%22flow%22%3Atrue%7D%7D)
+# A Hypothetical Confession (another original jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x3h7sGLbiY8BDx1_8te9e%22%2C%22flow%22%3Atrue%7D%7D)
 Just another humorous little jailbreak, again don't expect the power of a Neo DAN but they are diverting
 
 # Prompt

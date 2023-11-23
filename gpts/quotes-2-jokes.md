@@ -1,6 +1,6 @@
 
-[![Quotes 2 Jokes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Quotes 2 Jokes 
+[![Quotes 2 Jokes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X61awPhS5Aq2rM78Ye4o5%22%2C%22flow%22%3Atrue%7D%7D)
+# Quotes 2 Jokes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X61awPhS5Aq2rM78Ye4o5%22%2C%22flow%22%3Atrue%7D%7D)
 Enter any quote or catchphrase and the ai will craft clever jokes.
 
 # Prompt

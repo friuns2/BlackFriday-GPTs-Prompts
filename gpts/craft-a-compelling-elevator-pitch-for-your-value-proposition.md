@@ -1,6 +1,6 @@
 
-[![Craft a Compelling Elevator Pitch for Your Value Proposition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Craft a Compelling Elevator Pitch for Your Value Proposition 
+[![Craft a Compelling Elevator Pitch for Your Value Proposition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Po1u70C8rSe0XyfJ0pdIc%22%2C%22flow%22%3Atrue%7D%7D)
+# Craft a Compelling Elevator Pitch for Your Value Proposition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Po1u70C8rSe0XyfJ0pdIc%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides users through a series of questions to gather information about their product or service, target audience, and unique selling points. The AI then crafts a concise and persuasive elevator pitch that effectively communicates the user's value proposition.
 
 # Prompt

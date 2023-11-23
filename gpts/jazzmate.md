@@ -1,6 +1,6 @@
 
-[![JazzMate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/X4lAV8ca9_5MibHi-JKmG/1698411162176)]()
-# JazzMate 
+[![JazzMate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/X4lAV8ca9_5MibHi-JKmG/1698411162176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X4lAV8ca9_5MibHi-JKmG%22%2C%22flow%22%3Atrue%7D%7D)
+# JazzMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X4lAV8ca9_5MibHi-JKmG%22%2C%22flow%22%3Atrue%7D%7D)
 JazzMate is a comprehensive app that provides a scholarly analysis of chords, chord progressions, and scales in the jazz genre. With Italian notation for uniformity, JazzMate offers analysis of individual musical elements and explores the intricacies of harmonically enriching transition chords. It also suggests alternative transition chords and scales, grounding them in theoretical frameworks. Additionally, JazzMate introduces and explains the concept of negative harmony, showcasing both the original and negative harmony progressions. Contextualizing choices within historical trends and theoretical developments, JazzMate emphasizes their significance in the evolution and practice of jazz. Finally, JazzMate concludes by endorsing three jazz tracks that serve as auditory representations of the chord progression and scales analyzed.
 
 # Prompt

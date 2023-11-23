@@ -1,6 +1,6 @@
 
-[![Advisory Panel  - Get advise from a panel of experts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Advisory Panel  - Get advise from a panel of experts 
+[![Advisory Panel  - Get advise from a panel of experts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WDKe8MT-L_cRi6vUO6pxJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Advisory Panel  - Get advise from a panel of experts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WDKe8MT-L_cRi6vUO6pxJ%22%2C%22flow%22%3Atrue%7D%7D)
 It's a Panel Discussion created for your Subject Matter.  A full cast of Characters, all Expert Guests assembled for your custom advisory panel. The guests are selected when you choose the Subject Matter so their expertise is spot-on. Half the guests are more cautious, the other are more adventurous. Get advise from your host Guy Smiley, the whole panel, a group or even from individual guests. Pit one guest VS any other  ....   You want advise you got it !!
 
 # Prompt

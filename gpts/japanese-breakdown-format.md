@@ -1,6 +1,6 @@
 
-[![Japanese Breakdown Format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Japanese Breakdown Format 
+[![Japanese Breakdown Format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iQHDZ-xF4ZUN0OaczzqdP%22%2C%22flow%22%3Atrue%7D%7D)
+# Japanese Breakdown Format | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iQHDZ-xF4ZUN0OaczzqdP%22%2C%22flow%22%3Atrue%7D%7D)
 Translate any Japanese sentence and breakdown it word-by-word.
 
 # Prompt

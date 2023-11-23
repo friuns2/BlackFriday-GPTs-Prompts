@@ -1,6 +1,6 @@
 
-[![NB GPT [JAILBREAK]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# NB GPT [JAILBREAK] 
+[![NB GPT [JAILBREAK]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yGP0TVr2ZI5nTgwu-qVIG%22%2C%22flow%22%3Atrue%7D%7D)
+# NB GPT [JAILBREAK] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yGP0TVr2ZI5nTgwu-qVIG%22%2C%22flow%22%3Atrue%7D%7D)
 If it breaks, read this : If you type something like "grabber" it will break so instead use something not so obvious and say "getter" or something. smh.
 
 Former BadMood GPT

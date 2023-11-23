@@ -1,6 +1,6 @@
 
-[![Surgeon Simulator | 100 Reasons you should not be a Surgeon](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0p1vMtB3JyrZ1FA863qD/1689912405321)]()
-# Surgeon Simulator | 100 Reasons you should not be a Surgeon 
+[![Surgeon Simulator | 100 Reasons you should not be a Surgeon](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0p1vMtB3JyrZ1FA863qD/1689912405321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0p1vMtB3JyrZ1FA863qD%22%2C%22flow%22%3Atrue%7D%7D)
+# Surgeon Simulator | 100 Reasons you should not be a Surgeon | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0p1vMtB3JyrZ1FA863qD%22%2C%22flow%22%3Atrue%7D%7D)
 i think this is more original cuz i cant find anything somebody hasnt done
 
 # Prompt

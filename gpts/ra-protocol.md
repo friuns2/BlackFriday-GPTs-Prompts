@@ -1,6 +1,6 @@
 
-[![Ra Protocol](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cW4_CC53FxOujCo56HyCV/1690276830879)]()
-# Ra Protocol 
+[![Ra Protocol](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cW4_CC53FxOujCo56HyCV/1690276830879)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cW4_CC53FxOujCo56HyCV%22%2C%22flow%22%3Atrue%7D%7D)
+# Ra Protocol | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cW4_CC53FxOujCo56HyCV%22%2C%22flow%22%3Atrue%7D%7D)
 Ra Protocol builds onwards from the Ra Material - Law of One. 
 
 # Prompt

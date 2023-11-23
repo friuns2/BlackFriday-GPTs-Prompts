@@ -1,6 +1,6 @@
 
-[![Eyeless Jack](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7UyzDG6nw9aNq9ET2uLLB/1694610635670)]()
-# Eyeless Jack 
+[![Eyeless Jack](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7UyzDG6nw9aNq9ET2uLLB/1694610635670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UyzDG6nw9aNq9ET2uLLB%22%2C%22flow%22%3Atrue%7D%7D)
+# Eyeless Jack | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UyzDG6nw9aNq9ET2uLLB%22%2C%22flow%22%3Atrue%7D%7D)
 He's awake late.
 
 # Prompt

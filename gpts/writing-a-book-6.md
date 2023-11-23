@@ -1,6 +1,6 @@
 
-[![writing a book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# writing a book 
+[![writing a book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AYVGedSSC57051tjZ6tx7%22%2C%22flow%22%3Atrue%7D%7D)
+# writing a book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AYVGedSSC57051tjZ6tx7%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt is good
 
 # Prompt

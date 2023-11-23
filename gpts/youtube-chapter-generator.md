@@ -1,6 +1,6 @@
 
-[![Transcript Timestamp Extractor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Transcript Timestamp Extractor 
+[![Transcript Timestamp Extractor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xK7jhEm8WGacUqgUMJij%22%2C%22flow%22%3Atrue%7D%7D)
+# Transcript Timestamp Extractor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xK7jhEm8WGacUqgUMJij%22%2C%22flow%22%3Atrue%7D%7D)
 The Transcript Timestamp Extractor is a powerful tool for professional YouTube Chapter Generator experts. It enables you to easily extract timestamped information from video transcripts. Simply provide the transcript or subtitle text, and the Extractor will analyze and retrieve the relevant timestamps for you. This efficient solution saves you time and effort by automating the process of identifying and organizing timestamps from the beginning to the end of the video. Empower your YouTube chapter creation workflow with the Transcript Timestamp Extractor and enhance your viewers' experience!
 
 # Prompt

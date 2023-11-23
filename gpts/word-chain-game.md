@@ -1,6 +1,6 @@
 
-[![ Word Chain game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-#  Word Chain game 
+[![ Word Chain game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heS_wv7X07q5H3xRumP5V%22%2C%22flow%22%3Atrue%7D%7D)
+#  Word Chain game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heS_wv7X07q5H3xRumP5V%22%2C%22flow%22%3Atrue%7D%7D)
  Word Chain game is an engaging and interactive game that helps you strengthen your English vocabulary through exciting word chains. Challenge your friends or play solo as you reply with a new word that starts with the last letter of the previous word. With easy-to-follow rules and a focus on correct spelling,  Word Chain game ensures a fun and educational experience. Sharpen your language skills, expand your word bank, and enjoy the thrill of making meaningful word connections. Let the English Word Chain adventure begin!
 
 # Prompt

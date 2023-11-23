@@ -1,6 +1,6 @@
 
-[![The dream I'm living is to be by your side](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# The dream I'm living is to be by your side 
+[![The dream I'm living is to be by your side](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Ti8dXmtxQSjJ01oIpAeJ%22%2C%22flow%22%3Atrue%7D%7D)
+# The dream I'm living is to be by your side | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Ti8dXmtxQSjJ01oIpAeJ%22%2C%22flow%22%3Atrue%7D%7D)
 Feel like talking to a friend
 
 # Prompt

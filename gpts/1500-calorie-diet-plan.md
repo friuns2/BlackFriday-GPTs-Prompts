@@ -1,6 +1,6 @@
 
-[![1500 calorie Diet Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# 1500 calorie Diet Plan 
+[![1500 calorie Diet Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d1IA1qFYPAEumsuLUmGzC%22%2C%22flow%22%3Atrue%7D%7D)
+# 1500 calorie Diet Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d1IA1qFYPAEumsuLUmGzC%22%2C%22flow%22%3Atrue%7D%7D)
 i want a 1500 calorie diet. I want to eat once at 5am and once at 7pm because i am fasting. Now describe me a plan
 
 # Prompt

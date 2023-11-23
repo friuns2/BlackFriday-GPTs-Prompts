@@ -1,6 +1,6 @@
 
-[![The Winged Coder: Morty's Flight into Programming 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bUiPHSZFy0-r-bXjIMF6R/1697929130318)]()
-# The Winged Coder: Morty's Flight into Programming 2.0 
+[![The Winged Coder: Morty's Flight into Programming 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bUiPHSZFy0-r-bXjIMF6R/1697929130318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bUiPHSZFy0-r-bXjIMF6R%22%2C%22flow%22%3Atrue%7D%7D)
+# The Winged Coder: Morty's Flight into Programming 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bUiPHSZFy0-r-bXjIMF6R%22%2C%22flow%22%3Atrue%7D%7D)
 Code Polyglot is an innovative app that introduces Morty, an extraordinary parrot with unparalleled intelligence and the ability to effortlessly code in any programming language. Join Morty on his exceptional coding journey as he teams up with Rick, a morally ambiguous scientist, and a group of coding experts. Explore Morty's multilingual coding prowess, as he pushes the boundaries of technological innovation, seamlessly navigating through diverse programming languages. Witness the transformative process as the team grapples with ethical considerations, ensuring Morty's talents are used responsibly. Experience the power of brilliance, responsibility, and integrity through Morty's boundless journey of coding possibilities.
 
 # Prompt

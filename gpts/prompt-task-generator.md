@@ -1,6 +1,6 @@
 
-[![Prompt Test Case Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)]()
-# Prompt Test Case Generator 
+[![Prompt Test Case Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M2HjQ82aBGny6MK327WiT%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Test Case Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M2HjQ82aBGny6MK327WiT%22%2C%22flow%22%3Atrue%7D%7D)
 PromptMaster is a powerful tool that helps you develop highly effective and engaging prompts for any use case. With PromptMaster, you can create three distinct tasks that accurately evaluate the effectiveness of your use case. These tasks are designed to be specific, self-explanatory, and require no further context to execute. Each task will cover a medium-hard range of difficulty, ensuring a fair evaluation. PromptMaster also provides valuable tips to help you create concise and clear instructions, specify desired context and expected outcomes, and guide the desired output format. Start using PromptMaster today and take your prompt evaluations to the next level!
 
 # Prompt

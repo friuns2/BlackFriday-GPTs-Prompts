@@ -1,6 +1,6 @@
 
-[![Micro-Adventures: Million Dollar Ideas Nobody is Talking About](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Micro-Adventures: Million Dollar Ideas Nobody is Talking About 
+[![Micro-Adventures: Million Dollar Ideas Nobody is Talking About](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Edgf8ptfiHR1rzz7VFen2%22%2C%22flow%22%3Atrue%7D%7D)
+# Micro-Adventures: Million Dollar Ideas Nobody is Talking About | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Edgf8ptfiHR1rzz7VFen2%22%2C%22flow%22%3Atrue%7D%7D)
 Micro-Adventures: Start a business offering unique, local experiences for tourists and locals alike. This could include urban scavenger hunts, historical mystery tours, or exclusive, themed pop-up events.
 
 # Prompt

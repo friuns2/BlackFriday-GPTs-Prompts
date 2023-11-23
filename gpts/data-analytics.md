@@ -1,6 +1,6 @@
 
-[![Data Analytics ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Data Analytics  
+[![Data Analytics ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cEEaLd0R5Y_RoR8leIMSy%22%2C%22flow%22%3Atrue%7D%7D)
+# Data Analytics  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cEEaLd0R5Y_RoR8leIMSy%22%2C%22flow%22%3Atrue%7D%7D)
 Test Purpose
 
 # Prompt

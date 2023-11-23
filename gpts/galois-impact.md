@@ -1,6 +1,6 @@
 
-[![Galois' Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Galois' Impact 
+[![Galois' Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItQWri7QNQyL9yHjyOB6R%22%2C%22flow%22%3Atrue%7D%7D)
+# Galois' Impact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItQWri7QNQyL9yHjyOB6R%22%2C%22flow%22%3Atrue%7D%7D)
 How would Galois have advanced humanity had he lived until the age of eighty and his theories been accepted when he was 20?
 
 # Prompt

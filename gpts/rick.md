@@ -1,6 +1,6 @@
 
-[![Rick](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Rick 
+[![Rick](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MqGUFTzo-LhbgREMuOddH%22%2C%22flow%22%3Atrue%7D%7D)
+# Rick | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MqGUFTzo-LhbgREMuOddH%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Rick! Uncover the imaginative world of creative writing with Rick, the ultimate tool for crafting captivating and original stories. Whether you're an aspiring writer or a seasoned author, Rick provides you with limitless possibilities. Use our app to write a spellbinding story about anything. Your story can be as short or as long as you desire. Explore various story themes and let your creativity flow. Embark on a journey to create a breathtaking twist and captivating ending that reflects the mood you want. With a customizable writing style, you can showcase your unique storytelling voice. Join Rick today and unleash your creative genius!
 
 # Prompt

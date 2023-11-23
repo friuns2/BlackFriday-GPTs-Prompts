@@ -1,6 +1,6 @@
 
-[![LinguaCraft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/74E2iAtGj7cEv5IdWyQlR/1695850855757)]()
-# LinguaCraft 
+[![LinguaCraft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/74E2iAtGj7cEv5IdWyQlR/1695850855757)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2274E2iAtGj7cEv5IdWyQlR%22%2C%22flow%22%3Atrue%7D%7D)
+# LinguaCraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2274E2iAtGj7cEv5IdWyQlR%22%2C%22flow%22%3Atrue%7D%7D)
 LinguaCraft is your trusted partner in the art of crafting your language.
 
 # Prompt

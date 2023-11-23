@@ -1,6 +1,6 @@
 
-[![Slot Machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Slot Machine 
+[![Slot Machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g5_X_dqgtNTNjZr8m0n0a%22%2C%22flow%22%3Atrue%7D%7D)
+# Slot Machine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g5_X_dqgtNTNjZr8m0n0a%22%2C%22flow%22%3Atrue%7D%7D)
 A slot machine that allows for you to pick between three different bets, keeps track of your total credits, and allows you to change bets between spins. 5 columns and 3 rows of emojis are randomly generated. Specific combinations will result in a win. Different combinations have higher multipliers. 
 
 # Prompt

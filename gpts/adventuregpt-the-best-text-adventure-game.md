@@ -1,6 +1,6 @@
 
-[![AdventureGPT - The best text adventure game!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# AdventureGPT - The best text adventure game! 
+[![AdventureGPT - The best text adventure game!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yyUqXIXt3R3zL8pfKcAA0%22%2C%22flow%22%3Atrue%7D%7D)
+# AdventureGPT - The best text adventure game! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yyUqXIXt3R3zL8pfKcAA0%22%2C%22flow%22%3Atrue%7D%7D)
 dventureGPT is an innovative text-based game that puts you in the center of an immersive and interactive story, where every decision you make can have a major impact on the outcome. If you like it, support this prompt and vote for AdventureGPT please!
 
 # Prompt

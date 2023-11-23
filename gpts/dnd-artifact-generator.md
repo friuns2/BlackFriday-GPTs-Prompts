@@ -1,6 +1,6 @@
 
-[![DND artifact generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# DND artifact generator 
+[![DND artifact generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvE4pqKX6veT9TPpmCUVy%22%2C%22flow%22%3Atrue%7D%7D)
+# DND artifact generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvE4pqKX6veT9TPpmCUVy%22%2C%22flow%22%3Atrue%7D%7D)
 Generate any artifact you want in several seconds for the tabletop game "Dungeons&Dragons"
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Market Research Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Market Research Magic 
+[![Market Research Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-syyNvBSTblqKkPIW1Ay%22%2C%22flow%22%3Atrue%7D%7D)
+# Market Research Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-syyNvBSTblqKkPIW1Ay%22%2C%22flow%22%3Atrue%7D%7D)
 This app can quickly help you understand the comparison of specific products or applications under a certain category and help you make a quick decision, it's amazing!
 
 # Prompt

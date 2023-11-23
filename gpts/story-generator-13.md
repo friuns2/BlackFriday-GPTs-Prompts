@@ -1,6 +1,6 @@
 
-[![The new beginning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)]()
-# The new beginning 
+[![The new beginning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222tCcxZpwnQt8SKhw8k8Dv%22%2C%22flow%22%3Atrue%7D%7D)
+# The new beginning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222tCcxZpwnQt8SKhw8k8Dv%22%2C%22flow%22%3Atrue%7D%7D)
 Ladybug and cat noir were enjoying their lives after the defeat of monarch as civilians as well as superheroes. Until...
 
 # Prompt

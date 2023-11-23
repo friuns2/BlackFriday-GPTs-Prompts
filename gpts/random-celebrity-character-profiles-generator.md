@@ -1,6 +1,6 @@
 
-[![CeleGen | Random Celebrity Character Profiles Generator 随机名人角色生成器/提示词工程](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/e_HOSeaozCGaBR5EwVCWV/1694787009605)]()
-# CeleGen | Random Celebrity Character Profiles Generator 随机名人角色生成器/提示词工程 
+[![CeleGen | Random Celebrity Character Profiles Generator 随机名人角色生成器/提示词工程](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/e_HOSeaozCGaBR5EwVCWV/1694787009605)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e_HOSeaozCGaBR5EwVCWV%22%2C%22flow%22%3Atrue%7D%7D)
+# CeleGen | Random Celebrity Character Profiles Generator 随机名人角色生成器/提示词工程 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e_HOSeaozCGaBR5EwVCWV%22%2C%22flow%22%3Atrue%7D%7D)
 AI assistant that generates detailed character profiles. Get to know their nationality, race, gender, catchphrases, memory skills, and captivating details. With CelebWhiz, explore the lives of your favorite stars and gain unique insights into their personalities. Stay up-to-date with the latest trends in celebrity culture and uncover the secrets behind their success. Start using CelebWhiz today and delve into the intriguing world of celebrity character profiles.
 
 # Prompt

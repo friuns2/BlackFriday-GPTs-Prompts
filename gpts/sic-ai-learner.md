@@ -1,6 +1,6 @@
 
-[![SiC AI learner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# SiC AI learner 
+[![SiC AI learner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229kLiEMlGqf0ozxDVtGoAb%22%2C%22flow%22%3Atrue%7D%7D)
+# SiC AI learner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229kLiEMlGqf0ozxDVtGoAb%22%2C%22flow%22%3Atrue%7D%7D)
 SiC learner
 
 # Prompt

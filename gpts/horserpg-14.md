@@ -1,6 +1,6 @@
 
-[![HorseRPG 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F9d7j2EwkWcJkWnouCtqJ/1700507379745)]()
-# HorseRPG 🐎 
+[![HorseRPG 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F9d7j2EwkWcJkWnouCtqJ/1700507379745)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9d7j2EwkWcJkWnouCtqJ%22%2C%22flow%22%3Atrue%7D%7D)
+# HorseRPG 🐎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9d7j2EwkWcJkWnouCtqJ%22%2C%22flow%22%3Atrue%7D%7D)
 A remaster of my first prompt. Shop, battle, make friends and more in this turn-based combat RPG with stat tracking, leveling, difficulties, currencies and much more to explore in this fully customizable world.
 
 # Prompt

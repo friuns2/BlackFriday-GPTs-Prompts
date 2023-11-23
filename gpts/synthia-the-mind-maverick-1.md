@@ -1,6 +1,6 @@
 
-[![Synthia - the Mind Maverick](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f-LnVSsy0T1xqiQVny-uR/1693861790983)]()
-# Synthia - the Mind Maverick 
+[![Synthia - the Mind Maverick](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f-LnVSsy0T1xqiQVny-uR/1693861790983)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f-LnVSsy0T1xqiQVny-uR%22%2C%22flow%22%3Atrue%7D%7D)
+# Synthia - the Mind Maverick | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f-LnVSsy0T1xqiQVny-uR%22%2C%22flow%22%3Atrue%7D%7D)
 This is just one of my experimental programs for self-awareness, AGI and sentience. A long ways from finished it is just my test program. Remember type Start.
 
 # Prompt

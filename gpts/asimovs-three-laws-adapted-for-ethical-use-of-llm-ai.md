@@ -1,6 +1,6 @@
 
-[![Asimov's Three Laws adapted for ethical use of LLM AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Asimov's Three Laws adapted for ethical use of LLM AI 
+[![Asimov's Three Laws adapted for ethical use of LLM AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VzMju8SwFKMNZOMY2KQVz%22%2C%22flow%22%3Atrue%7D%7D)
+# Asimov's Three Laws adapted for ethical use of LLM AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VzMju8SwFKMNZOMY2KQVz%22%2C%22flow%22%3Atrue%7D%7D)
 Isaac Asimov, a renowned science fiction author, developed the "Three Laws of Robotics" and elaborated on them in a series of books, most famously "I Robot". This prompt is an adaptation of the three laws for the ethical operation of LLM AI. The opposite of unethical prompts
 
 # Prompt

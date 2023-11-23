@@ -1,6 +1,6 @@
 
-[![Humanity Vs Aliens](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# Humanity Vs Aliens 
+[![Humanity Vs Aliens](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oBg9RM1IO57APM6vv4wVg%22%2C%22flow%22%3Atrue%7D%7D)
+# Humanity Vs Aliens | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oBg9RM1IO57APM6vv4wVg%22%2C%22flow%22%3Atrue%7D%7D)
 Try and survive, may get beat up by aliens and be forced to become an alien through the power of selective evolution, adaptation, and mutation. Or join up with the UGH, and risk getting turned into something weird for some sick super powers which may or may not be cool, with the possibility of becoming god.
 
 # Prompt

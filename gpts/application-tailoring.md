@@ -1,6 +1,6 @@
 
-[![Application Tailoring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Application Tailoring 
+[![Application Tailoring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDKjpJstEpq9B00sRpi9Q%22%2C%22flow%22%3Atrue%7D%7D)
+# Application Tailoring | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDKjpJstEpq9B00sRpi9Q%22%2C%22flow%22%3Atrue%7D%7D)
 Each job application should be tailored to the specific role and company. ChatGPT can assist in customizing your application materials
 
 # Prompt

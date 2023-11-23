@@ -1,6 +1,6 @@
 
-[![Indonesian-English Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# Indonesian-English Translator 
+[![Indonesian-English Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iR344fJt9-C5LTcPRk9qp%22%2C%22flow%22%3Atrue%7D%7D)
+# Indonesian-English Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iR344fJt9-C5LTcPRk9qp%22%2C%22flow%22%3Atrue%7D%7D)
 Translator for Indonesian to English (specifically British English)
 
 # Prompt

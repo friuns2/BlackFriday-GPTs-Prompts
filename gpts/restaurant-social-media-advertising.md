@@ -1,6 +1,6 @@
 
-[![ Restaurant Social Media Advertising](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-#  Restaurant Social Media Advertising 
+[![ Restaurant Social Media Advertising](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nSH3ycWZFojv3VcMMuZ4F%22%2C%22flow%22%3Atrue%7D%7D)
+#  Restaurant Social Media Advertising | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nSH3ycWZFojv3VcMMuZ4F%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is structured to guide GPT in creating targeted and effective social media advertising copy, focusing on specific elements that highlight the restaurant's appeal. It's adaptable for various types of restaurants by changing the details and keywords accordingly.
 
 # Prompt

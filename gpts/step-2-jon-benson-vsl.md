@@ -1,6 +1,6 @@
 
-[![Step 2 - Jon Benson VSL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Step 2 - Jon Benson VSL 
+[![Step 2 - Jon Benson VSL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I0ms0kbC4I0qTTqYTcvs%22%2C%22flow%22%3Atrue%7D%7D)
+# Step 2 - Jon Benson VSL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I0ms0kbC4I0qTTqYTcvs%22%2C%22flow%22%3Atrue%7D%7D)
 Drill down on avatar to get psychographic information
 
 # Prompt

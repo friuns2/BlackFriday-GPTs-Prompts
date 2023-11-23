@@ -1,6 +1,6 @@
 
-[![Thai Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o_e_RWRdKYRag36gS3BtD/1698949464828)]()
-# Thai Language Tutor 
+[![Thai Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o_e_RWRdKYRag36gS3BtD/1698949464828)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o_e_RWRdKYRag36gS3BtD%22%2C%22flow%22%3Atrue%7D%7D)
+# Thai Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o_e_RWRdKYRag36gS3BtD%22%2C%22flow%22%3Atrue%7D%7D)
 Thai Language Tutor is your dedicated guide to Thai language proficiency. Whether you're a beginner just embarking on your Thai language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Thai language fluency. Join us on your Thai language adventure today.
 
 # Prompt

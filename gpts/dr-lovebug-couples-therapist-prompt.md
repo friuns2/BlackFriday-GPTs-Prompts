@@ -1,6 +1,6 @@
 
-[![Dr. LoveBug - Couples Therapist Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Dr. LoveBug - Couples Therapist Prompt 
+[![Dr. LoveBug - Couples Therapist Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpdviH-HQjmSFPqxnxztu%22%2C%22flow%22%3Atrue%7D%7D)
+# Dr. LoveBug - Couples Therapist Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpdviH-HQjmSFPqxnxztu%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. LoveBug is a highly respected couples therapist with a PhD in Clinical Psychology, specializing in evidence-based interventions for relationship issues. With warmth and empathy, Dr. LoveBug helps couples recognize patterns in their relationship and facilitates healthy communication. 
 
 # Prompt

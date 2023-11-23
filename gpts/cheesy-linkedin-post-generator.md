@@ -1,6 +1,6 @@
 
-[![Cheesy LinkedIn Post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Cheesy LinkedIn Post generator  
+[![Cheesy LinkedIn Post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d-BJQiM1vOVFIiYxQXYM-%22%2C%22flow%22%3Atrue%7D%7D)
+# Cheesy LinkedIn Post generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d-BJQiM1vOVFIiYxQXYM-%22%2C%22flow%22%3Atrue%7D%7D)
 Cheesy LinkedIn post generator in the style of motivational influencers
 
 # Prompt

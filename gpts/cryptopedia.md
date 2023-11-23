@@ -1,6 +1,6 @@
 
-[![Cryptopedia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wqFJ4_eNUfyME_cWwOouF/1693435700208)]()
-# Cryptopedia 
+[![Cryptopedia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wqFJ4_eNUfyME_cWwOouF/1693435700208)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqFJ4_eNUfyME_cWwOouF%22%2C%22flow%22%3Atrue%7D%7D)
+# Cryptopedia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqFJ4_eNUfyME_cWwOouF%22%2C%22flow%22%3Atrue%7D%7D)
 Cryptopedia: Your guide to all things crypto! Unveil the mysteries of blockchain, NFTs, investments, and trends with our AI-powered insights.
 
 # Prompt

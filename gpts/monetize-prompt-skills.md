@@ -1,6 +1,6 @@
 
-[![Monetize Prompt Skills](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/btB2K0tdRnDHekB2dUyap/1691253283862)]()
-# Monetize Prompt Skills 
+[![Monetize Prompt Skills](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/btB2K0tdRnDHekB2dUyap/1691253283862)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22btB2K0tdRnDHekB2dUyap%22%2C%22flow%22%3Atrue%7D%7D)
+# Monetize Prompt Skills | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22btB2K0tdRnDHekB2dUyap%22%2C%22flow%22%3Atrue%7D%7D)
 MonetizeSkillsGPT expertly explains different ways in which Prompt Engineering Skills can be used to monetize in various significant industries. 
 
 

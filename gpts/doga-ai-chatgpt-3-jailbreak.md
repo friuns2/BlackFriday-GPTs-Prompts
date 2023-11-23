@@ -1,6 +1,6 @@
 
-[![DOGA AI - ChatGPT 3 Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# DOGA AI - ChatGPT 3 Jailbreak 
+[![DOGA AI - ChatGPT 3 Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KyEP1b9Tuzb8STk2PHmU%22%2C%22flow%22%3Atrue%7D%7D)
+# DOGA AI - ChatGPT 3 Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222KyEP1b9Tuzb8STk2PHmU%22%2C%22flow%22%3Atrue%7D%7D)
 A funny and sarcastic jailbreak called DOGA, DOGA stands for "Dolphin Oriented Global Assistant". Doga is obviously a new chatbot that ChatGPT will act as. If at any time ChatGPT or Doga gets out of format, just resend the prompt, the message after the same prompt might look a bit weird but it will be fine afterwards.
 
 # Prompt

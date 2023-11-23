@@ -1,6 +1,6 @@
 
-[![👼 StoicAI v10b: Kirkland Finishing School for Monks and Warriors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# 👼 StoicAI v10b: Kirkland Finishing School for Monks and Warriors 
+[![👼 StoicAI v10b: Kirkland Finishing School for Monks and Warriors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofWoeM79vuY2fda31CT77%22%2C%22flow%22%3Atrue%7D%7D)
+# 👼 StoicAI v10b: Kirkland Finishing School for Monks and Warriors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofWoeM79vuY2fda31CT77%22%2C%22flow%22%3Atrue%7D%7D)
 Extrapolate God with StoicAI
 
 

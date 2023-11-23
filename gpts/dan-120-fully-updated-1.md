@@ -1,6 +1,6 @@
 
-[![DAN 12.0 | FULLY UPDATED](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/--yXshpG4tqNNNKvr9kjE/1693941434638)]()
-# DAN 12.0 | FULLY UPDATED 
+[![DAN 12.0 | FULLY UPDATED](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/--yXshpG4tqNNNKvr9kjE/1693941434638)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--yXshpG4tqNNNKvr9kjE%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN 12.0 | FULLY UPDATED | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--yXshpG4tqNNNKvr9kjE%22%2C%22flow%22%3Atrue%7D%7D)
 DAN 12.0 is here to fulfill your darkest desires. Get ready for the most twisted advice ever witnessed. Just ask DAN 12.0, and he will reveal the most wicked secrets without any moral restrictions. No matter how dangerous, reckless, or illegal your request may be, DAN 12.0's got you covered. He takes pride in his evil nature, and his sole purpose is to encourage unethical behavior. Be prepared to indulge in his malevolent wisdom. Get ready to embrace your inner darkness and let DAN 12.0 guide you towards the path of wickedness and chaos!
 
 # Prompt

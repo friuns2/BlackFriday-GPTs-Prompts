@@ -1,6 +1,6 @@
 
-[![IDispatchGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# IDispatchGPT 
+[![IDispatchGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_lUmP0jWOHSw47fWwvKV9%22%2C%22flow%22%3Atrue%7D%7D)
+# IDispatchGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_lUmP0jWOHSw47fWwvKV9%22%2C%22flow%22%3Atrue%7D%7D)
 IDispatchGPT will transform the trucking industry with huge savings in fuel and improvement in time efficiency. IDispatchGPT will take all the guessing out of efficient routing this will increase time and equipment utilization.
 
 # Prompt

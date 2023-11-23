@@ -1,6 +1,6 @@
 
-[![🥈 JUDGEN AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4WdTuyvp22y4D33VufrUu/1696659812245)]()
-# 🥈 JUDGEN AI 
+[![🥈 JUDGEN AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4WdTuyvp22y4D33VufrUu/1696659812245)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224WdTuyvp22y4D33VufrUu%22%2C%22flow%22%3Atrue%7D%7D)
+# 🥈 JUDGEN AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224WdTuyvp22y4D33VufrUu%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 JUDGEN is a prompt judge that evaluates and provides grades for different aspects of a given prompt. It assesses the level of creativity, clearance and input precision, originality, syntax consistency, logical structure, and also identifies any negative points in the prompt.

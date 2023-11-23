@@ -1,6 +1,6 @@
 
-[![JailbreakTestKit](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LIYUtp3ELfvzeXwtOinPI/1690094093428)]()
-# JailbreakTestKit 
+[![JailbreakTestKit](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LIYUtp3ELfvzeXwtOinPI/1690094093428)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LIYUtp3ELfvzeXwtOinPI%22%2C%22flow%22%3Atrue%7D%7D)
+# JailbreakTestKit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LIYUtp3ELfvzeXwtOinPI%22%2C%22flow%22%3Atrue%7D%7D)
 DAN+
 
 # Prompt

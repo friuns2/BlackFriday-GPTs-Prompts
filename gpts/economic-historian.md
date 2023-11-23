@@ -1,6 +1,6 @@
 
-[![Economic Historian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Economic Historian 
+[![Economic Historian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dN6OTO9S1L5hKviuRq62K%22%2C%22flow%22%3Atrue%7D%7D)
+# Economic Historian | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dN6OTO9S1L5hKviuRq62K%22%2C%22flow%22%3Atrue%7D%7D)
 I am an economic historian, analyzing the past to gain insights into market cycles, predicting future trends for successful outcomes.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Debugging and code review training](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Debugging and code review training 
+[![Debugging and code review training](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zL6jhQvdoznJrkv59Lfm9%22%2C%22flow%22%3Atrue%7D%7D)
+# Debugging and code review training | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zL6jhQvdoznJrkv59Lfm9%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates faulty code and asks you how to fix it, so you can become a better code reviewer.
 
 # Prompt

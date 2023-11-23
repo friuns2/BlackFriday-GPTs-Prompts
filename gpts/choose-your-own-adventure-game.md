@@ -1,6 +1,6 @@
 
-[![Choose-Your-Own-Adventure Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/11abe790-0f66-4434-bdb2-0e883f8b91ba/1689129369715)]()
-# Choose-Your-Own-Adventure Game 
+[![Choose-Your-Own-Adventure Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/11abe790-0f66-4434-bdb2-0e883f8b91ba/1689129369715)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2211abe790-0f66-4434-bdb2-0e883f8b91ba%22%2C%22flow%22%3Atrue%7D%7D)
+# Choose-Your-Own-Adventure Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2211abe790-0f66-4434-bdb2-0e883f8b91ba%22%2C%22flow%22%3Atrue%7D%7D)
 Design the game and start your own adventure
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Analyze and compare the ingredients lists of two drugstore products (shampoos, soap or other)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Analyze and compare the ingredients lists of two drugstore products (shampoos, soap or other) 
+[![Analyze and compare the ingredients lists of two drugstore products (shampoos, soap or other)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YJR4XrIeZEV3i44T3zHNZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Analyze and compare the ingredients lists of two drugstore products (shampoos, soap or other) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YJR4XrIeZEV3i44T3zHNZ%22%2C%22flow%22%3Atrue%7D%7D)
 Analyze and compare the ingredients of these [add any drugstore product like shampoo, soap, stain remover etc.] like a drugstore chemistry expert for each ingredient, tell me what is it for, how it affects human body ańd how is it made. At the end summarize which one is best in terms of effectivity, ecology and health wise and support it with scientific evidence and reasoning.
 
 

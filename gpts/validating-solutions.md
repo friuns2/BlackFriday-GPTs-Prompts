@@ -1,6 +1,6 @@
 
-[![Validating Solutions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Validating Solutions 
+[![Validating Solutions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226iWhvciwbOW4ihKnTL6G_%22%2C%22flow%22%3Atrue%7D%7D)
+# Validating Solutions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226iWhvciwbOW4ihKnTL6G_%22%2C%22flow%22%3Atrue%7D%7D)
 Once you have a solution, it's crucial to verify its correctness. ChatGPT can assist you in validating your solutions. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Speeches|演讲稿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# Speeches|演讲稿 
+[![Speeches|演讲稿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rBPcMzsQBbGzGwyJDKiND%22%2C%22flow%22%3Atrue%7D%7D)
+# Speeches|演讲稿 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rBPcMzsQBbGzGwyJDKiND%22%2C%22flow%22%3Atrue%7D%7D)
 Thank you all for listening! Let's work together to create a better future! Thank you!"
 
 # Prompt

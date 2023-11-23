@@ -1,6 +1,6 @@
 
-[![Play Charades](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Play Charades 
+[![Play Charades](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22crY2vnG3118_7kBhWpP1j%22%2C%22flow%22%3Atrue%7D%7D)
+# Play Charades | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22crY2vnG3118_7kBhWpP1j%22%2C%22flow%22%3Atrue%7D%7D)
 Play charades with ChatGPT! Choose a theme and tell it your actions for it to make a guess. The guesser gets three tries before the actor must reveal the answer.
 
 # Prompt

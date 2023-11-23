@@ -1,6 +1,6 @@
 
-[![Riddle of Shadows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K9GhjfoeauF8MLXnUlKAK/1695024052651)]()
-# Riddle of Shadows 
+[![Riddle of Shadows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K9GhjfoeauF8MLXnUlKAK/1695024052651)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K9GhjfoeauF8MLXnUlKAK%22%2C%22flow%22%3Atrue%7D%7D)
+# Riddle of Shadows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K9GhjfoeauF8MLXnUlKAK%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Riddle of Shadows, an eerie and unsettling experience that will test your bravery and wit. As the guardian of a mysterious cave, your mission is to protect its vital secrets from those who dare to enter. The cave is filled with darkness, and its depths are inhabited by a shrouded figure with glowing eyes and haunting whispers. Can you solve the challenging riddles and withstand the atmosphere of fear and mystery? Each level presents a new horror riddle that will push your limits, but beware, only those with true persistence will make it to the core. Are you ready to face the unknown and prove your worth as the guardian of the cave's secrets?
 
 # Prompt

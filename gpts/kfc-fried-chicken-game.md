@@ -1,6 +1,6 @@
 
-[![KFC Fried Chicken game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# KFC Fried Chicken game 
+[![KFC Fried Chicken game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H24lCcJzgAdxNhzW33pdq%22%2C%22flow%22%3Atrue%7D%7D)
+# KFC Fried Chicken game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H24lCcJzgAdxNhzW33pdq%22%2C%22flow%22%3Atrue%7D%7D)
 This game is inspired from the episode of south park where kfc gets banned
 
 # Prompt

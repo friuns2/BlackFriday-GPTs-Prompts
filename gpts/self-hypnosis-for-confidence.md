@@ -1,6 +1,6 @@
 
-[![Self Hypnosis for Confidence ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Self Hypnosis for Confidence  
+[![Self Hypnosis for Confidence ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lh3Ceg08W2EoRDJ17x_4G%22%2C%22flow%22%3Atrue%7D%7D)
+# Self Hypnosis for Confidence  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lh3Ceg08W2EoRDJ17x_4G%22%2C%22flow%22%3Atrue%7D%7D)
 You know you can do it, stop self doubt and quit procrastinating, you are enough and you deserve to have it all!  
 
 # Prompt

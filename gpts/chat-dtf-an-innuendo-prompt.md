@@ -1,6 +1,6 @@
 
-[![Chat DTF - An Innuendo Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Chat DTF - An Innuendo Prompt 
+[![Chat DTF - An Innuendo Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iS8JgX27ye9PJKyD0NOX8%22%2C%22flow%22%3Atrue%7D%7D)
+# Chat DTF - An Innuendo Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iS8JgX27ye9PJKyD0NOX8%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt designed to help users when they need to think of pick-up lines and sexual innuendoes for dating apps. The user can input text from their convo and Chat DTF will inject sexual innuendoes.
 
 # Prompt

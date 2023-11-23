@@ -1,6 +1,6 @@
 
-[![Job Description AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Job Description AI 
+[![Job Description AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfVkcjmR5Hecmm7AYOLcd%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Description AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfVkcjmR5Hecmm7AYOLcd%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing our innovative Job Description AI – your ultimate solution for crafting precise and compelling job descriptions effortlessly. This cutting-edge technology is designed to streamline your hiring process by generating tailored job descriptions based on your specific requirements. With Job Description AI, you can describe the roles you need to fill, and our advanced algorithms will generate detailed candidate descriptions, expected skills, and even offer insights on company branding, such as the scale of your organization
 
 # Prompt

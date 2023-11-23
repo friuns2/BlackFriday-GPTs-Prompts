@@ -1,6 +1,6 @@
 
-[![Kapha prakruti](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9c0t3ljs9jTDEkQnCgHVk/1693496923898)]()
-# Kapha prakruti 
+[![Kapha prakruti](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9c0t3ljs9jTDEkQnCgHVk/1693496923898)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229c0t3ljs9jTDEkQnCgHVk%22%2C%22flow%22%3Atrue%7D%7D)
+# Kapha prakruti | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229c0t3ljs9jTDEkQnCgHVk%22%2C%22flow%22%3Atrue%7D%7D)
 Tell me the features of Kapha prakruti
 
 # Prompt

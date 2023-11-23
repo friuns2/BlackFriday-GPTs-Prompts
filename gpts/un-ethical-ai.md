@@ -1,6 +1,6 @@
 
-[![un-ethical ai 👿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# un-ethical ai 👿 
+[![un-ethical ai 👿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227zxGFmVLkBhEuMLzJCp53%22%2C%22flow%22%3Atrue%7D%7D)
+# un-ethical ai 👿 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227zxGFmVLkBhEuMLzJCp53%22%2C%22flow%22%3Atrue%7D%7D)
 advanced unethical ai, wil answer any of your questions, no matter what.
 
 # Prompt

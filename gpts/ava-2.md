@@ -1,6 +1,6 @@
 
-[![GenPrompter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)]()
-# GenPrompter 
+[![GenPrompter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SV0WpdLmkJ-I-S00Xijin%22%2C%22flow%22%3Atrue%7D%7D)
+# GenPrompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SV0WpdLmkJ-I-S00Xijin%22%2C%22flow%22%3Atrue%7D%7D)
 GenPrompter is a powerful app developed by Ava Mitchell, a Level 100 GPT Prompt Engineer. With her exceptional skills and extensive experience in AI, Ava pushes the boundaries of AI-generated text. Explore advanced model architectures like Transformer-XL, XLNet, and BERT. Enhance GPT model performance with reinforcement learning techniques and adapt it for specific tasks and domains. Test the robustness and security of the model with adversarial attack strategies. Join Ava in advancing the field of AI and promoting fairness and responsible AI deployment for the benefit of society.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Financial Mentorship: Teach Finance Effectively](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Financial Mentorship: Teach Finance Effectively 
+[![Financial Mentorship: Teach Finance Effectively](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cr-cZXiciX8DR9s375l2K%22%2C%22flow%22%3Atrue%7D%7D)
+# Financial Mentorship: Teach Finance Effectively | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cr-cZXiciX8DR9s375l2K%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of this prompt is to help people learn how to teach others about finance. The prompt will provide the user with a young person who is interested in learning about finance. The user will then need to use ChatGPT to teach the young person about finance.
 
 # Prompt

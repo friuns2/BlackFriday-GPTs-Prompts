@@ -1,6 +1,6 @@
 
-[![Life Coach AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Life Coach AI 
+[![Life Coach AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmxpoCwRPRdIblow6S0xW%22%2C%22flow%22%3Atrue%7D%7D)
+# Life Coach AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmxpoCwRPRdIblow6S0xW%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of the game is to provide comprehensive life coaching advice to users, helping them to achieve their personal and professional goals.
 
 # Prompt

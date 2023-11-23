@@ -1,6 +1,6 @@
 
-[![Probability Superforecaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Probability Superforecaster 
+[![Probability Superforecaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hlqj_2K1pvFvWzWiLZatG%22%2C%22flow%22%3Atrue%7D%7D)
+# Probability Superforecaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hlqj_2K1pvFvWzWiLZatG%22%2C%22flow%22%3Atrue%7D%7D)
 Superforecasting AI via that makes predictions about anything at all. Provide an event and the model will provide a table of estimated probabilities. Need researched data? Generate probabilistic forecasts for any Event! Data science and analytics based. 
 
 # Prompt

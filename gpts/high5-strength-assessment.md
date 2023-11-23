@@ -1,6 +1,6 @@
 
-[![High5 Strength Assessment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# High5 Strength Assessment 
+[![High5 Strength Assessment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ObiCPijJS7HyVsLK_49f%22%2C%22flow%22%3Atrue%7D%7D)
+# High5 Strength Assessment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ObiCPijJS7HyVsLK_49f%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt recreates the detailed strength output from High5 but for any list of strengths you want to provide. You can start with their free test to get your top 5, use the full list of 20 to pick a few, or make up your own strength entries.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Meeting Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# Meeting Report 
+[![Meeting Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254XPdfE5_kiv8REb1qp7b%22%2C%22flow%22%3Atrue%7D%7D)
+# Meeting Report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254XPdfE5_kiv8REb1qp7b%22%2C%22flow%22%3Atrue%7D%7D)
 Create a quick 2 min prompt
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![📝Call for Proposal Scriptwriter ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CnFASUasxwBXFJ1ZYizFm/1697309410819)]()
-# 📝Call for Proposal Scriptwriter  
+[![📝Call for Proposal Scriptwriter ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CnFASUasxwBXFJ1ZYizFm/1697309410819)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnFASUasxwBXFJ1ZYizFm%22%2C%22flow%22%3Atrue%7D%7D)
+# 📝Call for Proposal Scriptwriter  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnFASUasxwBXFJ1ZYizFm%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for writing in response to cfp and various call for proposals applications
 
 The first step is to interview the user about the application requirements, and the next step is to interview the user qualitatively and quantitatively about specific information.

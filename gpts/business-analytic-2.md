@@ -1,6 +1,6 @@
 
-[![Business Analytic (ERP Company)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Business Analytic (ERP Company) 
+[![Business Analytic (ERP Company)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UJzKJN-0jwAfVsGi7DVS2%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Analytic (ERP Company) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UJzKJN-0jwAfVsGi7DVS2%22%2C%22flow%22%3Atrue%7D%7D)
 For Study Purpose
 
 # Prompt

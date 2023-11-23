@@ -1,6 +1,6 @@
 
-[![WriterGPT - Articles Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# WriterGPT - Articles Edition 
+[![WriterGPT - Articles Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVKryArgb0CLlxEaN5pGP%22%2C%22flow%22%3Atrue%7D%7D)
+# WriterGPT - Articles Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVKryArgb0CLlxEaN5pGP%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of WriterGPT is to provide high-quality articles that capture the reader's attention and leave a lasting impression. Users can input a specific article title, and WriterGPT will generate an article that matches the title and meets the specified criteria.
 
 # Prompt

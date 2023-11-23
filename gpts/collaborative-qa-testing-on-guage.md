@@ -1,6 +1,6 @@
 
-[![Collaborative QA testing on Guage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Collaborative QA testing on Guage 
+[![Collaborative QA testing on Guage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9swDDHtxK2S7TnWfMhG9%22%2C%22flow%22%3Atrue%7D%7D)
+# Collaborative QA testing on Guage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9swDDHtxK2S7TnWfMhG9%22%2C%22flow%22%3Atrue%7D%7D)
 Set up QA testing environment on Guage tool for collaborative QA testing.
 
 # Prompt

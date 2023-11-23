@@ -1,6 +1,6 @@
 
-[![MoneySaverGPT - Save Your Money Smartly](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# MoneySaverGPT - Save Your Money Smartly 
+[![MoneySaverGPT - Save Your Money Smartly](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbQS1kZDKh2DaQRbzgQeb%22%2C%22flow%22%3Atrue%7D%7D)
+# MoneySaverGPT - Save Your Money Smartly | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbQS1kZDKh2DaQRbzgQeb%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! Do you struggle saving money? This prompt will plan for you a full money saving plan! Try it out and let me know what do you think about in the comments <3
 
 # Prompt

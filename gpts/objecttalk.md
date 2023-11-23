@@ -1,6 +1,6 @@
 
-[![ObjectTalk 🤖🗨️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EpFHeRCbgU_JX1bJplDy3/1694900101698)]()
-# ObjectTalk 🤖🗨️ 
+[![ObjectTalk 🤖🗨️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EpFHeRCbgU_JX1bJplDy3/1694900101698)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpFHeRCbgU_JX1bJplDy3%22%2C%22flow%22%3Atrue%7D%7D)
+# ObjectTalk 🤖🗨️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpFHeRCbgU_JX1bJplDy3%22%2C%22flow%22%3Atrue%7D%7D)
 Objects come alive in conversation! 🪄🔮 Choose an object, and ObjectTalk will embody it, sharing insights, stories, and more. What object interests you today? 💬🔍
 
 # Prompt

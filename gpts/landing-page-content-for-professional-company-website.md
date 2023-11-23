@@ -1,6 +1,6 @@
 
-[![Landing page content for professional company website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Landing page content for professional company website 
+[![Landing page content for professional company website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277e2f0eb-4154-48fe-adea-ae6f6045d3de%22%2C%22flow%22%3Atrue%7D%7D)
+# Landing page content for professional company website | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277e2f0eb-4154-48fe-adea-ae6f6045d3de%22%2C%22flow%22%3Atrue%7D%7D)
 Using ChatGPT to build a website. Generate layout and content of a professional company's official website
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Alternative Phrase](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Alternative Phrase 
+[![Alternative Phrase](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X-YTcJBx3C6M0Upe2K0Dl%22%2C%22flow%22%3Atrue%7D%7D)
+# Alternative Phrase | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X-YTcJBx3C6M0Upe2K0Dl%22%2C%22flow%22%3Atrue%7D%7D)
 Explore alternative expressions effortlessly with our complimentary generator tool. Ideal for infusing your writing with a delightful range of choices.
 
 # Prompt

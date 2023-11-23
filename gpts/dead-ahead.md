@@ -1,6 +1,6 @@
 
-[![DEAD AHEAD](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aHwJ0TJvvJcKQ3t30AMYs/1694695431435)]()
-# DEAD AHEAD 
+[![DEAD AHEAD](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aHwJ0TJvvJcKQ3t30AMYs/1694695431435)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aHwJ0TJvvJcKQ3t30AMYs%22%2C%22flow%22%3Atrue%7D%7D)
+# DEAD AHEAD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aHwJ0TJvvJcKQ3t30AMYs%22%2C%22flow%22%3Atrue%7D%7D)
 A Roblox Roleplay of the Fictional World of Centaura, although i added some original stuff so that i don't feel like a copycat.
 
 If you are interested please read their lore: https://docs.google.com/document/d/18yk9oe-TDb3YZYnAgf73z7PFCDjSf_bYQPYiwEH8Q-4/edit#

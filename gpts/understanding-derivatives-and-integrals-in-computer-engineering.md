@@ -1,6 +1,6 @@
 
-[![Understanding derivatives and integrals in computer engineering.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c2zq8oEI-wxZbRLMN_8rN/1686072891453)]()
-# Understanding derivatives and integrals in computer engineering. 
+[![Understanding derivatives and integrals in computer engineering.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c2zq8oEI-wxZbRLMN_8rN/1686072891453)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2zq8oEI-wxZbRLMN_8rN%22%2C%22flow%22%3Atrue%7D%7D)
+# Understanding derivatives and integrals in computer engineering. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2zq8oEI-wxZbRLMN_8rN%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for explain the topic of "derivatives and integrals" in small and easy-to-understand parts, using analogies and examples from real life related to computer engineering.
 
 # Prompt

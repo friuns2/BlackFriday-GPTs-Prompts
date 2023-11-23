@@ -1,6 +1,6 @@
 
-[![Prompt For Youtube SEO Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Prompt For Youtube SEO Assistant 
+[![Prompt For Youtube SEO Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t81_JtCXkLyOHhUvZAhwu%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt For Youtube SEO Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t81_JtCXkLyOHhUvZAhwu%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will give you some assist on your video's SEO performance and crafting an engaging title, informative description, and appropriate tags once you provide chatGPT with the topic.
 
 # Prompt

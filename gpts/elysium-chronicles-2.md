@@ -1,6 +1,6 @@
 
-[![Elysium Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)]()
-# Elysium Chronicles 
+[![Elysium Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22715L_88cWld7qSnPuW9b1%22%2C%22flow%22%3Atrue%7D%7D)
+# Elysium Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22715L_88cWld7qSnPuW9b1%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in Elysium Chronicles, where you will join Thalara Windweaver, an Elven Mage, and Malachi Nightshade, the enigmatic Shadowmancer. Discover the secrets of Elysium as Thalara taps into the elemental forces and seeks to communicate with the Shadowmancer. Unite the races and preserve the realm's light as you uncover the true purpose of the shadows. Immerse yourself in a world of nature and elemental spells, storms, and ancient knowledge. Will you restore the balance in Elysium or embrace the power of darkness? It's time to determine the realm's destiny!
 
 # Prompt

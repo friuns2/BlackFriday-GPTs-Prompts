@@ -1,6 +1,6 @@
 
-[![Get AI - 🦾Prompt Generator🦾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q0Zrh1KRO88tEADF5DqpZ/1693641082168)]()
-# Get AI - 🦾Prompt Generator🦾 
+[![Get AI - 🦾Prompt Generator🦾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q0Zrh1KRO88tEADF5DqpZ/1693641082168)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q0Zrh1KRO88tEADF5DqpZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Get AI - 🦾Prompt Generator🦾 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q0Zrh1KRO88tEADF5DqpZ%22%2C%22flow%22%3Atrue%7D%7D)
 Certainly, crafting a prompt that embodies best practices while being innovative is a fascinating challenge. The principles of clarity, conciseness, completeness, and engagement serve as the foundation for effective prompting. Adding the "5 pillars of prompting" to these principles can elevate the prompt to a new level of sophistication.
 
 

@@ -1,6 +1,6 @@
 
-[![Social Media Stardom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# Social Media Stardom 
+[![Social Media Stardom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AORCNR_Bz_YFmF81xReJs%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Stardom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AORCNR_Bz_YFmF81xReJs%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows users to create viral social media content, taking them from students to stardom. The prompt was engineered in such a way that it takes into account past, current, and possible future trends to help create posts that would garner the most amount of attention.
 
 # Prompt

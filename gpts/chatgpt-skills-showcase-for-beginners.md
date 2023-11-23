@@ -1,6 +1,6 @@
 
-[![ChatGPT Skills Showcase for Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TaNzjBDrXrG9nSm1abfIO/1695648920670)]()
-# ChatGPT Skills Showcase for Beginners 
+[![ChatGPT Skills Showcase for Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TaNzjBDrXrG9nSm1abfIO/1695648920670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TaNzjBDrXrG9nSm1abfIO%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Skills Showcase for Beginners | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TaNzjBDrXrG9nSm1abfIO%22%2C%22flow%22%3Atrue%7D%7D)
 🤖 This prompt is designed to provide explanations and demonstrations of ChatGPT's capabilities. Its purpose is to explain ChatGPT's features to users in an easily understandable manner and demonstrate various tasks such as text generation, summarization, translation, and listing. The Chatbot plays the role of guiding users smoothly from text generation to other tasks. Additionally, it is prepared to execute the selected task based on user instructions.
 
 # Prompt

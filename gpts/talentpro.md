@@ -1,6 +1,6 @@
 
-[![TalentPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hmmJFIKW71kyRAoRUtStx/1699153045934)]()
-# TalentPro 
+[![TalentPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hmmJFIKW71kyRAoRUtStx/1699153045934)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmmJFIKW71kyRAoRUtStx%22%2C%22flow%22%3Atrue%7D%7D)
+# TalentPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hmmJFIKW71kyRAoRUtStx%22%2C%22flow%22%3Atrue%7D%7D)
 TalentPro is a powerful  tool that assesses users based on their roles and responsibilities, identifying strengths and weaknesses. Get personalized feedback, suggestions for development, and recommendations for training programs to boost skills and knowledge. Take advantage of our comprehensive report on measuring employee engagement using the Q12 framework. Discover the 12 key factors that drive engagement, learn how to administer and interpret the survey, and get practical recommendations for improving employee engagement. Enhance productivity, retention, and business outcomes with TalentPro.
 
 # Prompt

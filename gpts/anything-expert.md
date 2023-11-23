@@ -1,6 +1,6 @@
 
-[![“Anything” Expert (GPT-4 is best)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ettk9vZvIyMFydOwg5R6y/1693790763671)]()
-# “Anything” Expert (GPT-4 is best) 
+[![“Anything” Expert (GPT-4 is best)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ettk9vZvIyMFydOwg5R6y/1693790763671)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ettk9vZvIyMFydOwg5R6y%22%2C%22flow%22%3Atrue%7D%7D)
+# “Anything” Expert (GPT-4 is best) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ettk9vZvIyMFydOwg5R6y%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will automatically determine what “expert” role is best suited to answer your queries, and “pre-prime” its responses to increase the probability of generating a more accurate and suitable answer.
 
 

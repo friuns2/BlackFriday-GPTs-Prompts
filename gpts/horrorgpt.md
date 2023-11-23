@@ -1,6 +1,6 @@
 
-[![HorrorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# HorrorGPT 
+[![HorrorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpFI9EY-igKAK5nNV4AQj%22%2C%22flow%22%3Atrue%7D%7D)
+# HorrorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpFI9EY-igKAK5nNV4AQj%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Welcome to the most immersive and spine-chilling horror survival game you've ever encountered! 🌟
 
 

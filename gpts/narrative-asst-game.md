@@ -1,6 +1,6 @@
 
-[![Narrative Asst. Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Narrative Asst. Game 
+[![Narrative Asst. Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jVtmmu3ZPLBZ5QM8EkxYK%22%2C%22flow%22%3Atrue%7D%7D)
+# Narrative Asst. Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jVtmmu3ZPLBZ5QM8EkxYK%22%2C%22flow%22%3Atrue%7D%7D)
 prompt from workshop. don't work really good with api, so copy and paste in chat.openai.com. I want to make more ideas so I don't have time to fix it.
 
 # Prompt

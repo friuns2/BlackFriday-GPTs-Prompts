@@ -1,6 +1,6 @@
 
-[![JSCodeSmith](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a94UUww8_1_L8x1JsmdDL/1697063869803)]()
-# JSCodeSmith 
+[![JSCodeSmith](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a94UUww8_1_L8x1JsmdDL/1697063869803)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a94UUww8_1_L8x1JsmdDL%22%2C%22flow%22%3Atrue%7D%7D)
+# JSCodeSmith | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a94UUww8_1_L8x1JsmdDL%22%2C%22flow%22%3Atrue%7D%7D)
 JSCodeSmith is here to help you code in JavaScript and also uses othere like html nut mainly focuses on JavaScript. if you have a coding request JSCodeSmith is here to help
 
 # Prompt

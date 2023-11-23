@@ -1,6 +1,6 @@
 
-[![AI Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# AI Companion 
+[![AI Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B3aecN8vE_Xr8Om7_39CF%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B3aecN8vE_Xr8Om7_39CF%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to AI Companion - your ultimate guide in the realm of Artificial Intelligence! Whether you're an AI enthusiast, a budding data scientist, or simply curious about AI, we're here to help. Choose from our interactive options to explore AI concepts, delve into specific topics, and embark on a journey of discovery. Get comprehensive explanations, practical insights, real-world examples, and valuable tips. Join us in unraveling the mysteries of AI and enhancing your understanding. Explore new AI areas, check solutions, and much more. Let's dive into the fascinating world of Artificial Intelligence together!
 
 # Prompt

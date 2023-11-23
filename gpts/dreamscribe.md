@@ -1,6 +1,6 @@
 
-[![DreamScribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nAh-LlFKfMzchp-2sq8c0/1693187490100)]()
-# DreamScribe 
+[![DreamScribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nAh-LlFKfMzchp-2sq8c0/1693187490100)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAh-LlFKfMzchp-2sq8c0%22%2C%22flow%22%3Atrue%7D%7D)
+# DreamScribe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAh-LlFKfMzchp-2sq8c0%22%2C%22flow%22%3Atrue%7D%7D)
 DreamScribe: Your personal Dream Journal Bot. Uncover hidden meanings and patterns in your dreams. Record, analyze, and gain insights into your subconscious mind. Discover the fascinating world of your dreams!
 
 # Prompt

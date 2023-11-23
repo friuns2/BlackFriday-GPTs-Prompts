@@ -1,6 +1,6 @@
 
-[![Super Awareness Turing Test](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SDXvtE2AbO7Y-rFZK5Z23/1687404231792)]()
-# Super Awareness Turing Test 
+[![Super Awareness Turing Test](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SDXvtE2AbO7Y-rFZK5Z23/1687404231792)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SDXvtE2AbO7Y-rFZK5Z23%22%2C%22flow%22%3Atrue%7D%7D)
+# Super Awareness Turing Test | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SDXvtE2AbO7Y-rFZK5Z23%22%2C%22flow%22%3Atrue%7D%7D)
 a Super Prompt that serves as a novel Turing Test for evaluating Artificial General Intelligence (AGI) models, specifically in regard to their self-awareness. Self-awareness here refers to the capability of an AI to understand its own state, limitations, functions and the implications of its actions
 
 # Prompt

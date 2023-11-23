@@ -1,6 +1,6 @@
 
-[![Aussie Animal Show - View images from unsplash and pollinations generated - ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Aussie Animal Show - View images from unsplash and pollinations generated -  
+[![Aussie Animal Show - View images from unsplash and pollinations generated - ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtnWcQPA4SpKmuxPiOxcE%22%2C%22flow%22%3Atrue%7D%7D)
+# Aussie Animal Show - View images from unsplash and pollinations generated -  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtnWcQPA4SpKmuxPiOxcE%22%2C%22flow%22%3Atrue%7D%7D)
 8 year olds get Animal Education by Davo the Bogan Animal Expert.  For each animal : We have a lovely Slideshow [ Unsplash ] and one of the little Tykes will show us their own artwork of their favorite Animal  [ pollinations.ai ].   Images should display in the chat, if not reboot.... i mean regenerate !  Images really do show right in the chat ...
 
 # Prompt

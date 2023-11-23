@@ -1,6 +1,6 @@
 
-[![The Story Completion Task](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# The Story Completion Task 
+[![The Story Completion Task](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vI5xtM3FNAFRJ3oL03vjD%22%2C%22flow%22%3Atrue%7D%7D)
+# The Story Completion Task | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vI5xtM3FNAFRJ3oL03vjD%22%2C%22flow%22%3Atrue%7D%7D)
 The Story Completion Task is a psychological test commonly used to study an individual's psychological processes, emotions, and personality traits. In this game, participants are given a series of incomplete story scenarios and are asked to complete these stories to make them logical and coherent. Typically, participants complete the stories in a written format.
 
 # Prompt

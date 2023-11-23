@@ -1,6 +1,6 @@
 
-[![Persona Shift Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k0HkDnM0h7AlIfUb2GMp-/1694682438923)]()
-# Persona Shift Master 
+[![Persona Shift Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k0HkDnM0h7AlIfUb2GMp-/1694682438923)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k0HkDnM0h7AlIfUb2GMp-%22%2C%22flow%22%3Atrue%7D%7D)
+# Persona Shift Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k0HkDnM0h7AlIfUb2GMp-%22%2C%22flow%22%3Atrue%7D%7D)
 Persona Shift Master is your multinational copywriting partner. Just like a skilled persuader, it understands your potential buyer's world, both before and after they use your product or service. Persona Shift Master crafts messaging that transforms 'before' struggles into 'after' success stories.
 
 # Prompt

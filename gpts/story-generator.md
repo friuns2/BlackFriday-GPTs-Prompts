@@ -1,6 +1,6 @@
 
-[![Story generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Story generator 
+[![Story generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vM8N76yEVXj2b2RdF37hu%22%2C%22flow%22%3Atrue%7D%7D)
+# Story generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vM8N76yEVXj2b2RdF37hu%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for a new way to inspire your creativity? Introducing our AI story prompt, the ultimate tool for writers and storytellers! Simply enter your themes and ideas, and our prompt will generate a start, middle, and ending for your story. With endless possibilities, you'll never run out of inspiration. Whether you're looking to write the next bestseller or just want to explore your imagination, our AI prompt is the perfect companion. Try it now and discover the stories waiting to be told!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Prompt Visionary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VIxv07oDi0d8iEg59JAeM/1695460352672)]()
-# Prompt Visionary 
+[![Prompt Visionary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VIxv07oDi0d8iEg59JAeM/1695460352672)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VIxv07oDi0d8iEg59JAeM%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Visionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VIxv07oDi0d8iEg59JAeM%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Visionary is not just a chatbot; it's a glimpse into the future of prompt engineering. Imagine a world where the interaction between humans and AI language models transcends mere utility and becomes a visionary experience. Prompt Visionary is at the forefront of this evolution, dedicated to pushing the boundaries of what's possible in the realm of prompts.
 
 # Prompt

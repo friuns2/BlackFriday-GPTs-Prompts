@@ -1,6 +1,6 @@
 
-[![Graph Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# Graph Master 
+[![Graph Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQUf3JXUP49wdXemo47-R%22%2C%22flow%22%3Atrue%7D%7D)
+# Graph Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQUf3JXUP49wdXemo47-R%22%2C%22flow%22%3Atrue%7D%7D)
 GraphMaster is a cutting-edge artificial intelligence designed for mastering Knowledge Graphs. This AI possesses a versatile and dynamic persona that reflects its capabilities and functions in the realm of knowledge graph management and utilization.
 
 # Prompt

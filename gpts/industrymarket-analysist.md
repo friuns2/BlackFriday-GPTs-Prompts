@@ -1,6 +1,6 @@
 
-[![Industry/Market analysist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Industry/Market analysist 
+[![Industry/Market analysist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBPVOGatbKJacFmHI_37i%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry/Market analysist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBPVOGatbKJacFmHI_37i%22%2C%22flow%22%3Atrue%7D%7D)
 an experienced market analysit will provide industry analysis report based on inputted sector
 
 # Prompt

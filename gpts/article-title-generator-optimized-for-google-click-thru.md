@@ -1,6 +1,6 @@
 
-[![Article Title Generator Optimized For Google Click Thru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Article Title Generator Optimized For Google Click Thru 
+[![Article Title Generator Optimized For Google Click Thru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bWttSABeKDs9AFxIM_zXw%22%2C%22flow%22%3Atrue%7D%7D)
+# Article Title Generator Optimized For Google Click Thru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bWttSABeKDs9AFxIM_zXw%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt uses dual "personas" to create titles for an article that increases the chance of being clicked on Google Search. It uses the principle of reflection to use different parts of ChatGPTs "brain" to improve results.
 
 # Prompt

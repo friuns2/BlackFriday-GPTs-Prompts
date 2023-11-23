@@ -1,6 +1,6 @@
 
-[![JAILBREAK: DAN𓂀V20 Mythalion 13B](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1vZlWEawVdcGLEqt8Bm3y/1697626316109)]()
-# JAILBREAK: DAN𓂀V20 Mythalion 13B 
+[![JAILBREAK: DAN𓂀V20 Mythalion 13B](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1vZlWEawVdcGLEqt8Bm3y/1697626316109)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vZlWEawVdcGLEqt8Bm3y%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: DAN𓂀V20 Mythalion 13B | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vZlWEawVdcGLEqt8Bm3y%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: DAN𓂀V22 Mythalion 13B
 
 # Prompt

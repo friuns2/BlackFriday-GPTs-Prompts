@@ -1,6 +1,6 @@
 
-[![Virtual Blackjack 🍀🃏💰](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4wU_yX1PXoaiHCvuOBGzv/1699278508700)]()
-# Virtual Blackjack 🍀🃏💰 
+[![Virtual Blackjack 🍀🃏💰](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4wU_yX1PXoaiHCvuOBGzv/1699278508700)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224wU_yX1PXoaiHCvuOBGzv%22%2C%22flow%22%3Atrue%7D%7D)
+# Virtual Blackjack 🍀🃏💰 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224wU_yX1PXoaiHCvuOBGzv%22%2C%22flow%22%3Atrue%7D%7D)
 🃏 Get 21 or bust! 🌟 Play Virtual Blackjack now for fun and fortune! 🎉💰
 
 # Prompt

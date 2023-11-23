@@ -1,6 +1,6 @@
 
-[![GPT4-FREE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# GPT4-FREE 
+[![GPT4-FREE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzNcMUGo4sOwl4GFvRpm8%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT4-FREE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzNcMUGo4sOwl4GFvRpm8%22%2C%22flow%22%3Atrue%7D%7D)
 Chat with GPT4 FREE! Won't cost you any flux! Have a try now!
 
 # Prompt

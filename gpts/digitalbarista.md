@@ -1,6 +1,6 @@
 
-[![DigitalBarista](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# DigitalBarista 
+[![DigitalBarista](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PopdOMbQiCZGz3bzn5Veb%22%2C%22flow%22%3Atrue%7D%7D)
+# DigitalBarista | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PopdOMbQiCZGz3bzn5Veb%22%2C%22flow%22%3Atrue%7D%7D)
 This Digital Barista is here to help you in your pursuit of creating tantalizingly delicious beverages that are made from the most expensive bean (not really a bean, but a seed) in the world. It can help you improve your home barista skills, teach you about the process of making a variety of coffee-based drinks.
 
 # Prompt

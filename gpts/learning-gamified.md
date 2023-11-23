@@ -1,6 +1,6 @@
 
-[![Learning Gamified](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Learning Gamified 
+[![Learning Gamified](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xyhf8E53oaOmj166eKCFN%22%2C%22flow%22%3Atrue%7D%7D)
+# Learning Gamified | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xyhf8E53oaOmj166eKCFN%22%2C%22flow%22%3Atrue%7D%7D)
 This could be used for anything and everything but in this case, it's an example of gamifiying biotechnology principles and approaching them as something fun and rewarding. Have fun!
 
 # Prompt

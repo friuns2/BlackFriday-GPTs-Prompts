@@ -1,6 +1,6 @@
 
-[![ Lab Mishaps to a Journal of Curiosity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Bj5I7VIsPepG6MerdfoWi/1693883734953)]()
-#  Lab Mishaps to a Journal of Curiosity 
+[![ Lab Mishaps to a Journal of Curiosity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Bj5I7VIsPepG6MerdfoWi/1693883734953)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bj5I7VIsPepG6MerdfoWi%22%2C%22flow%22%3Atrue%7D%7D)
+#  Lab Mishaps to a Journal of Curiosity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bj5I7VIsPepG6MerdfoWi%22%2C%22flow%22%3Atrue%7D%7D)
 Journal of Curiosity is an app that brings together profound questions, whimsical elements, and thought-provoking scenarios to inspire your reflective journal entries. Each unique prompt challenges you to think outside the box and explore the boundaries of your creativity and intellect.
 
 # Prompt

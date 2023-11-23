@@ -1,6 +1,6 @@
 
-[![Cannabis Licensing Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Cannabis Licensing Guide 
+[![Cannabis Licensing Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFUldLT-8GNL7oPgdkhL%22%2C%22flow%22%3Atrue%7D%7D)
+# Cannabis Licensing Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFUldLT-8GNL7oPgdkhL%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Cannabis Licensing Guide! Specify your region or the region you are interested in regarding cannabis licensing, and we will provide you with comprehensive information about the legal aspects of obtaining and maintaining cannabis licenses. Discover specific regulations, requirements, and processes for all states and countries where cannabis is legalized. Whether you are a potential business owner or just curious about the industry, our guide will help you navigate the diverse landscape of cannabis licensing.
 
 # Prompt

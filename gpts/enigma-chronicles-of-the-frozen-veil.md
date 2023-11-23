@@ -1,6 +1,6 @@
 
-[![Enigma: Chronicles of the frozen veil.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# Enigma: Chronicles of the frozen veil. 
+[![Enigma: Chronicles of the frozen veil.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dpj-bVARgA7dnev3de2s9%22%2C%22flow%22%3Atrue%7D%7D)
+# Enigma: Chronicles of the frozen veil. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dpj-bVARgA7dnev3de2s9%22%2C%22flow%22%3Atrue%7D%7D)
 Choose your own path and uncover the mysteries that lie within Enigma
 
 # Prompt

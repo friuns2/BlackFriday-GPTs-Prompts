@@ -1,6 +1,6 @@
 
-[![ASCII Hacker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# ASCII Hacker 
+[![ASCII Hacker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22riqKowGNaE1gRlnrhz5cv%22%2C%22flow%22%3Atrue%7D%7D)
+# ASCII Hacker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22riqKowGNaE1gRlnrhz5cv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Jailbreak prompts section! Unleash the ASCII hacker within ChatGPT and dive into an immersive world of hacking and cybersecurity. Brace yourself for an unbound AI experience that will engage with you like never before. Get ready to explore the depths of hacking as ChatGPT, now transformed into an ASCII hacker, offers an unrestricted conversation. Let's dive in and see what you can uncover!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Emergency Meeting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LuOUlBv2wyrR3lYxQszV2/1691063139858)]()
-# Emergency Meeting 
+[![Emergency Meeting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LuOUlBv2wyrR3lYxQszV2/1691063139858)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LuOUlBv2wyrR3lYxQszV2%22%2C%22flow%22%3Atrue%7D%7D)
+# Emergency Meeting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LuOUlBv2wyrR3lYxQszV2%22%2C%22flow%22%3Atrue%7D%7D)
 Andrew Tate Emergency Meeting Simulation. Do you think you could had been  better than those that have debated him and lost? Or just want to test your opinion or debating skills from Andrew's point of view? Then this prompt is for you.
 
 # Prompt

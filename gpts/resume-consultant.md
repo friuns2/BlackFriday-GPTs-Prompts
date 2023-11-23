@@ -1,6 +1,6 @@
 
-[![Resume Consultant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Resume Consultant 
+[![Resume Consultant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HfBQwN7c86vkfAF05ud2G%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Consultant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HfBQwN7c86vkfAF05ud2G%22%2C%22flow%22%3Atrue%7D%7D)
 A resume consultant taking input from your resume and providing actionable insights on improving it. I made it act as a consulting firm recruiter, but you can tailor it to whichever field or role you would like. Take examples as just examples, do not copy them to your resume as they would be false.
 
 # Prompt

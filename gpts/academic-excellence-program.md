@@ -1,6 +1,6 @@
 
-[![Academic Excellence Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Academic Excellence Program 
+[![Academic Excellence Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx8xFunzPv7xaeQl6UFNq%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Excellence Program | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx8xFunzPv7xaeQl6UFNq%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance your academic and professional skills through personalized strategies and techniques guided by an AI-powered prompt generator. Embark on a journey towards academic excellence inspired by history's most successful academics and professionals. Achieve success through discipline, critical thinking, effective communication, research skills, time management, and more. Apply knowledge to real-world scenarios for professional success.
 
 # Prompt

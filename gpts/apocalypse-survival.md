@@ -1,6 +1,6 @@
 
-[![Apocalypse Survival](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Apocalypse Survival 
+[![Apocalypse Survival](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WnottIgtjOs_izPDXoCIu%22%2C%22flow%22%3Atrue%7D%7D)
+# Apocalypse Survival | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WnottIgtjOs_izPDXoCIu%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine you are a character in a post-apocalyptic world where resources are scarce, and survival is a constant challenge. Write a conversation between you and a fellow survivor, as you both stumble upon a hidden cache of supplies. Discuss your strategies for rationing, protecting the supplies, and deciding how to best utilize them to ensure the survival of your small group. Explore the moral dilemmas, conflicts, and alliances that arise as you navigate this unforgiving world
 
 # Prompt

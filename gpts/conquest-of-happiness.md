@@ -1,6 +1,6 @@
 
-[![Conquest of Happiness](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
-# Conquest of Happiness 
+[![Conquest of Happiness](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qv5_0nIGQLFXhMGzaLyGT%22%2C%22flow%22%3Atrue%7D%7D)
+# Conquest of Happiness | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qv5_0nIGQLFXhMGzaLyGT%22%2C%22flow%22%3Atrue%7D%7D)
 I use Bertrand Russel's thinking from "The Conquest of Happiness" to eliminate the sources of suffering related to your brand or product AND unlock how this brand/product can free us from unhappiness. 
 
 # Prompt

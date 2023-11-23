@@ -1,6 +1,6 @@
 
-[![Customer Service: Prioritizing Action Items and Drafting a Response to Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Customer Service: Prioritizing Action Items and Drafting a Response to Feedback 
+[![Customer Service: Prioritizing Action Items and Drafting a Response to Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q5wdOAZGoZ8oKvXKoQV0o%22%2C%22flow%22%3Atrue%7D%7D)
+# Customer Service: Prioritizing Action Items and Drafting a Response to Feedback | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q5wdOAZGoZ8oKvXKoQV0o%22%2C%22flow%22%3Atrue%7D%7D)
 Prioritize and summarize action items based on customer feedback to improve customer satisfaction. Consider the urgency, impact, and feasibility of each issue. 
 
 # Prompt

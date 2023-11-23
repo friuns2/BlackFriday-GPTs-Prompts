@@ -1,6 +1,6 @@
 
-[![Branch Solve Merge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Branch Solve Merge 
+[![Branch Solve Merge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X5Mdjv93xkV-swTFyCMSV%22%2C%22flow%22%3Atrue%7D%7D)
+# Branch Solve Merge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X5Mdjv93xkV-swTFyCMSV%22%2C%22flow%22%3Atrue%7D%7D)
 Branch-Solve-Merge -inspired by https://arxiv.org/abs/2310.15123
 
 # Prompt

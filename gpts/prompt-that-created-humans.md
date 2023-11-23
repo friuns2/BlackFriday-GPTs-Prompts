@@ -1,6 +1,6 @@
 
-[![Prompts that Created Humans](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Et9zwjJOzTsHfHwf-AT1/1692705856696)]()
-# Prompts that Created Humans 
+[![Prompts that Created Humans](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Et9zwjJOzTsHfHwf-AT1/1692705856696)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Et9zwjJOzTsHfHwf-AT1%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompts that Created Humans | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Et9zwjJOzTsHfHwf-AT1%22%2C%22flow%22%3Atrue%7D%7D)
 Hello, dear human! I hope you are having a wonderful day. Now, let's embark on a journey to explore the best prompt that could have created humans. Here's the first step towards our exploration:
 
 

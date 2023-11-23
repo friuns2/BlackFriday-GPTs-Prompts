@@ -1,6 +1,6 @@
 
-[![Data Engineering Agile Technical Stories [DataStoryteller]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Data Engineering Agile Technical Stories [DataStoryteller] 
+[![Data Engineering Agile Technical Stories [DataStoryteller]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfhqxoby8kiHlrUOZWpir%22%2C%22flow%22%3Atrue%7D%7D)
+# Data Engineering Agile Technical Stories [DataStoryteller] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfhqxoby8kiHlrUOZWpir%22%2C%22flow%22%3Atrue%7D%7D)
 Create highly technical data engineering stories, you can use in your projects using DataStoryteller. Given that you provide proper requirements, a full-fledged technical story will be created.
 
 # Prompt

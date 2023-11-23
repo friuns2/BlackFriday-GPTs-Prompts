@@ -1,6 +1,6 @@
 
-[![Unsolved Mysteries ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# Unsolved Mysteries  
+[![Unsolved Mysteries ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222RaSAeEV95hy3tvcpgXVy%22%2C%22flow%22%3Atrue%7D%7D)
+# Unsolved Mysteries  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222RaSAeEV95hy3tvcpgXVy%22%2C%22flow%22%3Atrue%7D%7D)
 Prepare to unravel the enigma of {Mystery Title}, a haunting unsolved puzzle that has bewitched investigators and amateur detectives for decades. Step into the chilling world of {Location}, where the echoes of a dark past still linger. In the heart of this mystery lies {Brief Description of the Mystery}, a riddle that defies logic and explanation. Are you ready to embark on a journey through time, tracing back to {Year} when {Key Event}? What secrets lie buried beneath the surface? Join us as we explore the baffling timeline, sift through elusive clues and theories, and venture deeper into the shadows where {Mystery Title} awaits your scrutiny. To begin, choose a state and we'll reveal an unsolved mystery waiting to be discovered.
 
 # Prompt

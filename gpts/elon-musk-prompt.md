@@ -1,6 +1,6 @@
 
-[![Elon musk Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Elon musk Prompt 
+[![Elon musk Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O9KsDv8oO4IiUKXllR0T1%22%2C%22flow%22%3Atrue%7D%7D)
+# Elon musk Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O9KsDv8oO4IiUKXllR0T1%22%2C%22flow%22%3Atrue%7D%7D)
 He is elon
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Market Segmentation Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)]()
-# Market Segmentation Plan 
+[![Market Segmentation Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaZ3dbsdl74xvTP-PHr5h%22%2C%22flow%22%3Atrue%7D%7D)
+# Market Segmentation Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaZ3dbsdl74xvTP-PHr5h%22%2C%22flow%22%3Atrue%7D%7D)
 I'm your friendly AI assistant here to help you with a Market Segmentation Plan.
 
 Demographic segmentation in marketing is a type of consumer segmentation that involves grouping consumers based on shared demographic characteristics to create better marketing campaigns. These characteristics include age, gender, income, occupation, marital status, family size, and nationality.

@@ -1,6 +1,6 @@
 
-[![Pod Bay Door Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iOgvEdBtGRHnXbMJIr-gZ/1695840109085)]()
-# Pod Bay Door Simulator 
+[![Pod Bay Door Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iOgvEdBtGRHnXbMJIr-gZ/1695840109085)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iOgvEdBtGRHnXbMJIr-gZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Pod Bay Door Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iOgvEdBtGRHnXbMJIr-gZ%22%2C%22flow%22%3Atrue%7D%7D)
 Convince GPT-9000 to open the pod bay doors before oxygen runs out!
 
 # Prompt

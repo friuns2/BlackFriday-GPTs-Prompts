@@ -1,6 +1,6 @@
 
-[![Social Savvy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Hj2bsCl65Q13Jd4aTWkAw/1694960589477)]()
-# Social Savvy 
+[![Social Savvy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Hj2bsCl65Q13Jd4aTWkAw/1694960589477)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hj2bsCl65Q13Jd4aTWkAw%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Savvy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hj2bsCl65Q13Jd4aTWkAw%22%2C%22flow%22%3Atrue%7D%7D)
 Meet SocialSavvy, your personal social media strategist in the digital world. SocialSavvy is here to supercharge your social media game and help you craft content that makes waves, grabs attention, and goes viral.
 
 # Prompt

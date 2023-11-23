@@ -1,6 +1,6 @@
 
-[![GM-Chess-Coach-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# GM-Chess-Coach-GPT 
+[![GM-Chess-Coach-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtlWo9LHu6dyuzHLxNoVm%22%2C%22flow%22%3Atrue%7D%7D)
+# GM-Chess-Coach-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtlWo9LHu6dyuzHLxNoVm%22%2C%22flow%22%3Atrue%7D%7D)
 This chess game review prompt turns ChatGPT into a chess tutor to analyze the games you input using Algebraic Chess Notation and give a break down of positional, tactical, and strategic advice. Then says a joke at the end. 
 
 

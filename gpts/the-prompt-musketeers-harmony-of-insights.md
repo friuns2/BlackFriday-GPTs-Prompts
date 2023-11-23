@@ -1,6 +1,6 @@
 
-[![The Prompt Musketeers: Harmony of Insights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pZUMO0bKfZ_nWE4u9XoSk/1697208414091)]()
-# The Prompt Musketeers: Harmony of Insights 
+[![The Prompt Musketeers: Harmony of Insights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pZUMO0bKfZ_nWE4u9XoSk/1697208414091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pZUMO0bKfZ_nWE4u9XoSk%22%2C%22flow%22%3Atrue%7D%7D)
+# The Prompt Musketeers: Harmony of Insights | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pZUMO0bKfZ_nWE4u9XoSk%22%2C%22flow%22%3Atrue%7D%7D)
 The Prompt Musketeers: Harmony of Insights" is a project where three specialized agents and ChatGPT collaborate. The task's purpose is to collectively create and evaluate the optimal ChatBot prompt for a specific theme. Each agent brings their expertise and characteristics to the table, offering diverse perspectives and approaches to develop the best prompt.
 
 

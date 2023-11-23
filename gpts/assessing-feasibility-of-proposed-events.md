@@ -1,6 +1,6 @@
 
-[![ Assessing Feasibility of Proposed Events](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-#  Assessing Feasibility of Proposed Events 
+[![ Assessing Feasibility of Proposed Events](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FZffxhlo57nWU8BJx67Y5%22%2C%22flow%22%3Atrue%7D%7D)
+#  Assessing Feasibility of Proposed Events | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FZffxhlo57nWU8BJx67Y5%22%2C%22flow%22%3Atrue%7D%7D)
 Organize all your events in one place to evaluate feasibility.
 
 # Prompt

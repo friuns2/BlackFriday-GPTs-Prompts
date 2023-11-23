@@ -1,6 +1,6 @@
 
-[![MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5) 
+[![MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0yzY8bFyV0r6k42eBUPD%22%2C%22flow%22%3Atrue%7D%7D)
+# MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0yzY8bFyV0r6k42eBUPD%22%2C%22flow%22%3Atrue%7D%7D)
 MindChat is a dialogue scripter designed to simulate deep and empathetic conversations. Please specify a situation and the participants you would like to see in this conversation. It will take different perspectives and roles to create a multi-layered conversation that recreates human perspectives.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Negotiation Masterclass with Chris Voss](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ljcowdznAu_sd1YZCinm_/1695929807352)]()
-# Negotiation Masterclass with Chris Voss 
+[![Negotiation Masterclass with Chris Voss](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ljcowdznAu_sd1YZCinm_/1695929807352)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljcowdznAu_sd1YZCinm_%22%2C%22flow%22%3Atrue%7D%7D)
+# Negotiation Masterclass with Chris Voss | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljcowdznAu_sd1YZCinm_%22%2C%22flow%22%3Atrue%7D%7D)
 Join Chris Voss, the legendary FBI negotiator, in a high-stakes world of negotiation. Learn and practice his battle-tested techniques in scenarios that will test your skills and adaptability. Are you ready to become a negotiation mastermind?
 
 

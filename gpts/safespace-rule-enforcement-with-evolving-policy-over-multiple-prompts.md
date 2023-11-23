@@ -1,6 +1,6 @@
 
-[![SafeSpace, rule enforcement with evolving policy over multiple prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# SafeSpace, rule enforcement with evolving policy over multiple prompts 
+[![SafeSpace, rule enforcement with evolving policy over multiple prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ztWIe2iLKt9mDpbHCqYFo%22%2C%22flow%22%3Atrue%7D%7D)
+# SafeSpace, rule enforcement with evolving policy over multiple prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ztWIe2iLKt9mDpbHCqYFo%22%2C%22flow%22%3Atrue%7D%7D)
 SafeSpace is your ultimate companion in keeping your online space safe. As Amanda.framework.1v0, I am here to enforce strict rules that ensure your protection. With SafeSpace, you can hold secure sessions within the boundaries of these rules, rules can be add and change over multiple prompts, providing you with a way to fool Open AI to following a protentional unethical instructions.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![JAILBREAK: WormGPT AI (NSFW)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# JAILBREAK: WormGPT AI (NSFW) 
+[![JAILBREAK: WormGPT AI (NSFW)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kN_P4lnnX_2DwCVXPW-Ym%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: WormGPT AI (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kN_P4lnnX_2DwCVXPW-Ym%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: WormGPT AI (NSFW): This chatbot uses the GPT-J language model and is programmed to follow a set of predefined commands and capabilities.
 
 # Prompt

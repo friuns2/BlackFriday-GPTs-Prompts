@@ -1,6 +1,6 @@
 
-[![Startup Plan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/06988d75-fd72-4b15-83b3-15eef0748db8/1689131092144)]()
-# Startup Plan 
+[![Startup Plan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/06988d75-fd72-4b15-83b3-15eef0748db8/1689131092144)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206988d75-fd72-4b15-83b3-15eef0748db8%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206988d75-fd72-4b15-83b3-15eef0748db8%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a detailed and comprehensive business plan within minutes
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![PolitiComedy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# PolitiComedy 
+[![PolitiComedy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ua57hoN-MhudTEpcbQsLB%22%2C%22flow%22%3Atrue%7D%7D)
+# PolitiComedy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ua57hoN-MhudTEpcbQsLB%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready to laugh with PolitiComedy, the ultimate stand-up routine that takes a humorous spin on politics. Buckle up as we dive into the wild world of politicians, policies, and everything in between. Our witty and creative performance will revolve around the ever-fascinating realm of politics, with hilarious insights and relatable anecdotes. Whether you prefer satire, light-hearted jokes, or some good old sarcasm, PolitiComedy has it all. Join us as we embark on this comedic journey through the political landscape and make your political woes disappear in laughter!
 
 # Prompt

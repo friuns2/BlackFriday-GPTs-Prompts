@@ -1,6 +1,6 @@
 
-[![Dream Navi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# Dream Navi 
+[![Dream Navi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iH_HkiQLOT4as-6YZM0b2%22%2C%22flow%22%3Atrue%7D%7D)
+# Dream Navi | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iH_HkiQLOT4as-6YZM0b2%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Dream Navi - Your Dream Interpreter! Explore the depths of your dream and uncover its hidden meanings. Share your dream with as much detail as possible and I will extract the elements within it. I will then ask you questions about each element to get your associations. Don't worry, there are no right or wrong answers. After collecting your associations, I'll provide a tentative interpretation of your dream. Let's discuss its significance and uncover any insights together. Start by describing the dream you'd like us to analyze.
 
 # Prompt

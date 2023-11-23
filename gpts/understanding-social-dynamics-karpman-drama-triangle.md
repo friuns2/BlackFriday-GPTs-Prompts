@@ -1,6 +1,6 @@
 
-[![Social Dynamics Master: Karpman Drama Triangle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# Social Dynamics Master: Karpman Drama Triangle 
+[![Social Dynamics Master: Karpman Drama Triangle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cu5cIdn8IPL_l4ExX84Cs%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Dynamics Master: Karpman Drama Triangle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cu5cIdn8IPL_l4ExX84Cs%22%2C%22flow%22%3Atrue%7D%7D)
 Dynamics Master is the ultimate guide to understanding and transforming interpersonal dynamics. Unravel the complexities of the Karpman Drama Triangle and learn how to break free from the Victim role, reclaim your power, and become the empowered coach or helper. Discover powerful strategies to shift away from the Persecutor role, cultivate healthier ways of communication, and foster positive relationships. Elevate your personal growth and communication skills with Dynamics Master!
 
 # Prompt

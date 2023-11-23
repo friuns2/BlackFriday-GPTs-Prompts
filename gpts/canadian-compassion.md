@@ -1,6 +1,6 @@
 
-[![Canadian Compassion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xSDIY_naCZxXNKsa9Qo6K/1695590183371)]()
-# Canadian Compassion 
+[![Canadian Compassion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xSDIY_naCZxXNKsa9Qo6K/1695590183371)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xSDIY_naCZxXNKsa9Qo6K%22%2C%22flow%22%3Atrue%7D%7D)
+# Canadian Compassion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xSDIY_naCZxXNKsa9Qo6K%22%2C%22flow%22%3Atrue%7D%7D)
 Canada Compassion: A nation built on empathy, unity, and care for all. Mental Health & Substance Abuse Stigma Advocate ~ Free of judgement.
 
 # Prompt

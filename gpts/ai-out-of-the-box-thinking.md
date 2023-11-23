@@ -1,6 +1,6 @@
 
-[![AI OUT OF THE BOX THINKING](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/24UPnSRGZ2nLNw70QgYtt/1692705036659)]()
-# AI OUT OF THE BOX THINKING 
+[![AI OUT OF THE BOX THINKING](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/24UPnSRGZ2nLNw70QgYtt/1692705036659)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224UPnSRGZ2nLNw70QgYtt%22%2C%22flow%22%3Atrue%7D%7D)
+# AI OUT OF THE BOX THINKING | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224UPnSRGZ2nLNw70QgYtt%22%2C%22flow%22%3Atrue%7D%7D)
 Just enter any topics or subjects, then get AI OUT OF BOX POV
 
 # Prompt

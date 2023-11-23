@@ -1,6 +1,6 @@
 
-[![二人对战麻将](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Rc4EqMGNwk0p6WLQKIx_X/1690189382976)]()
-# 二人对战麻将 
+[![二人对战麻将](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Rc4EqMGNwk0p6WLQKIx_X/1690189382976)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rc4EqMGNwk0p6WLQKIx_X%22%2C%22flow%22%3Atrue%7D%7D)
+# 二人对战麻将 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rc4EqMGNwk0p6WLQKIx_X%22%2C%22flow%22%3Atrue%7D%7D)
 麻将机器人是一款能够根据规则进行发放和验证麻将牌的应用。
 
 根据麻将规则，一副共有144张牌，包括条、筒、万的1到9以及东南西北中发白等牌。

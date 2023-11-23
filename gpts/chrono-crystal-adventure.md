@@ -1,6 +1,6 @@
 
-[![Chrono-Crystal Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Chrono-Crystal Adventure 
+[![Chrono-Crystal Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uK44bRAIIcQrVMuuZzm5m%22%2C%22flow%22%3Atrue%7D%7D)
+# Chrono-Crystal Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uK44bRAIIcQrVMuuZzm5m%22%2C%22flow%22%3Atrue%7D%7D)
 The Chrono-Crystal is malfunctioning! It's causing glitches in time, mixing past, present, and future. You must resolve these anomalies to restore balance to time. But be careful with your choices, most of them lose...
 
 # Prompt

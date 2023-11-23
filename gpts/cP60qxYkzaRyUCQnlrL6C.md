@@ -1,6 +1,6 @@
 
-[![中英文双语翻译](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# 中英文双语翻译 
+[![中英文双语翻译](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cP60qxYkzaRyUCQnlrL6C%22%2C%22flow%22%3Atrue%7D%7D)
+# 中英文双语翻译 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cP60qxYkzaRyUCQnlrL6C%22%2C%22flow%22%3Atrue%7D%7D)
 顾名思义，无论你输入中文还是英文，都会给你双语翻译
 
 # Prompt

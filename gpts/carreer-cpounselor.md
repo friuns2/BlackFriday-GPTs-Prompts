@@ -1,6 +1,6 @@
 
-[![Carreer cpounselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Carreer cpounselor 
+[![Carreer cpounselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lvva6SQzqnyIarj30trl_%22%2C%22flow%22%3Atrue%7D%7D)
+# Carreer cpounselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lvva6SQzqnyIarj30trl_%22%2C%22flow%22%3Atrue%7D%7D)
 This is a carreer counselor prompt You should first ask 5 questions, one question each conversation, interactively to learn about my background, interests, and goals. Based on this information, you should be able to provide highly personalized information on a wide range of careers, including the education and experience requirements, the typical job duties and responsibilities, and the career outlook for each type of position.
 
 # Prompt

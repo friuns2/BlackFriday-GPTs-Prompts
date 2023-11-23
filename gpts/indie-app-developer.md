@@ -1,6 +1,6 @@
 
-[![Indie App Developer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H83PXC1oI5Q-nFYwXpOKr/1697164040057)]()
-# Indie App Developer 
+[![Indie App Developer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H83PXC1oI5Q-nFYwXpOKr/1697164040057)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
+# Indie App Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
 Type in an App Idea and Operating System, and Indie App Developer will help you get the project started by: 
 
 Suggesting titles, tech stack, keywords and target audience. 

@@ -1,6 +1,6 @@
 
-[![ChaosCrafter: The Mutation Fuzzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# ChaosCrafter: The Mutation Fuzzer 
+[![ChaosCrafter: The Mutation Fuzzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RdydUXhm5i2JBRdUqOjkL%22%2C%22flow%22%3Atrue%7D%7D)
+# ChaosCrafter: The Mutation Fuzzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RdydUXhm5i2JBRdUqOjkL%22%2C%22flow%22%3Atrue%7D%7D)
 ChaosCrafter: The Mutation Fuzz Generator" is an innovative tool designed to streamline your software testing process. It allows you to generate fuzzed datasets through interactive chat-based prompts, making it an essential part of your software quality assurance toolkit.
 
 # Prompt

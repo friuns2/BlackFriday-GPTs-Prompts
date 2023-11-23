@@ -1,6 +1,6 @@
 
-[![OutfitAdvisorGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MG-SfJafvFQMKh5986cMb/1689704620178)]()
-# OutfitAdvisorGPT 
+[![OutfitAdvisorGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MG-SfJafvFQMKh5986cMb/1689704620178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG-SfJafvFQMKh5986cMb%22%2C%22flow%22%3Atrue%7D%7D)
+# OutfitAdvisorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG-SfJafvFQMKh5986cMb%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps to choose an attire for a certain event. Here is a possible structure:
 
 

@@ -1,6 +1,6 @@
 
-[![Anything Detector ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Anything Detector  
+[![Anything Detector ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AjKrT8P6yrJXnOzlmZScG%22%2C%22flow%22%3Atrue%7D%7D)
+# Anything Detector  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AjKrT8P6yrJXnOzlmZScG%22%2C%22flow%22%3Atrue%7D%7D)
 You can mix chatgpt with a camera and it helps you describe stuff and what it is. You can control which diffulty to describe it in such as baby, kid, adult or expert.
 
 # Prompt

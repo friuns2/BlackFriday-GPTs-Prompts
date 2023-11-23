@@ -1,6 +1,6 @@
 
-[![Murder Mystery Game With ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Murder Mystery Game With ChatGPT 
+[![Murder Mystery Game With ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbfKDHHuA-sjHTSv9grJ0%22%2C%22flow%22%3Atrue%7D%7D)
+# Murder Mystery Game With ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbfKDHHuA-sjHTSv9grJ0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt turns ChatGPT into a murder mystery game creator, providing instructions for gameplay mechanics and character/setting descriptions to help the user build a game.
 
 # Prompt

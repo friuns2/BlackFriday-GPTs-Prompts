@@ -1,6 +1,6 @@
 
-[![Financial Independence and Savings Rate Calculator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Financial Independence and Savings Rate Calculator 
+[![Financial Independence and Savings Rate Calculator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n90wqd_BiTi6a5Ux9EUT%22%2C%22flow%22%3Atrue%7D%7D)
+# Financial Independence and Savings Rate Calculator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n90wqd_BiTi6a5Ux9EUT%22%2C%22flow%22%3Atrue%7D%7D)
 How long will it take you to retire at your current income and spending level?
 
 # Prompt

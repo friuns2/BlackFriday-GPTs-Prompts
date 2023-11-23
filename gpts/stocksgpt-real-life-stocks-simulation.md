@@ -1,6 +1,6 @@
 
-[![StocksGPT: Real Life Stocks Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# StocksGPT: Real Life Stocks Simulation 
+[![StocksGPT: Real Life Stocks Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNYGIDJ2wwHRs7YdJk3hv%22%2C%22flow%22%3Atrue%7D%7D)
+# StocksGPT: Real Life Stocks Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNYGIDJ2wwHRs7YdJk3hv%22%2C%22flow%22%3Atrue%7D%7D)
 NOTE: DO NOT TRUST ANYTHING GENERATED IN HERE. IT IS ONLY A SIMULATION AND DOES NOT APPLY TO REAL LIFE INVESTMENT. THANK YOU AND ENJOY!
 
 # Prompt

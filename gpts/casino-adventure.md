@@ -1,6 +1,6 @@
 
-[![Casino Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Casino Adventure 
+[![Casino Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKNjgbQcP5wAx49kzKiga%22%2C%22flow%22%3Atrue%7D%7D)
+# Casino Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKNjgbQcP5wAx49kzKiga%22%2C%22flow%22%3Atrue%7D%7D)
 There are infinite ways to win/loose in this Casino World. Mini-games, cash tracker, player stat and much more impressive features...
 
 # Prompt

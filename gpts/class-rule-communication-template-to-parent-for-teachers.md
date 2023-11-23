@@ -1,6 +1,6 @@
 
-[![Class rule communication template to parent (for teachers)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Class rule communication template to parent (for teachers) 
+[![Class rule communication template to parent (for teachers)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vbczk8cP-unaoPDiAt6_P%22%2C%22flow%22%3Atrue%7D%7D)
+# Class rule communication template to parent (for teachers) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vbczk8cP-unaoPDiAt6_P%22%2C%22flow%22%3Atrue%7D%7D)
 A template that will explain the importance of class rules and regular attendance to a parent whose child has been frequently absent.
 
 # Prompt

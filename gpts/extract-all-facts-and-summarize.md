@@ -1,6 +1,6 @@
 
-[![Extract all facts and summarize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Extract all facts and summarize 
+[![Extract all facts and summarize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UZ8wFBwVYz14eABkAGQC%22%2C%22flow%22%3Atrue%7D%7D)
+# Extract all facts and summarize | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UZ8wFBwVYz14eABkAGQC%22%2C%22flow%22%3Atrue%7D%7D)
 Efficiently gather and condense information into a concise summary for chatbot usage.
 
 # Prompt

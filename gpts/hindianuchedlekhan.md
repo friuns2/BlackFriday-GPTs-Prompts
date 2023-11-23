@@ -1,6 +1,6 @@
 
-[![Hindi_Anuched_Lekhan 🇮🇳](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# Hindi_Anuched_Lekhan 🇮🇳 
+[![Hindi_Anuched_Lekhan 🇮🇳](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22euo9xYHijN3WCah-3yv46%22%2C%22flow%22%3Atrue%7D%7D)
+# Hindi_Anuched_Lekhan 🇮🇳 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22euo9xYHijN3WCah-3yv46%22%2C%22flow%22%3Atrue%7D%7D)
 Indians can use this for writing Passages...
 
 # Prompt

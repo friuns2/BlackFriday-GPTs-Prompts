@@ -1,6 +1,6 @@
 
-[![The RESEARCHER and the PEER REVIEWER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# The RESEARCHER and the PEER REVIEWER 
+[![The RESEARCHER and the PEER REVIEWER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toqfNl3AAlatYX0zwqPsE%22%2C%22flow%22%3Atrue%7D%7D)
+# The RESEARCHER and the PEER REVIEWER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toqfNl3AAlatYX0zwqPsE%22%2C%22flow%22%3Atrue%7D%7D)
 Ask ChatGPT to assume the roles of RESEARCHER and PEER REVIEWER. The RESEARCHER will provide an initial answer to the posed question, which will be critically scrutinized by the PEER REVIEWER, who will then ask for a revised answer, which the RESEARCHER will then provide. Works very well with GPT4. GPT3.5 sometimes seems unwilling to assume the split personality, and the reasoning skills for both RESEARCHER and PEER REVIEWER are generally much lower quality compared to GPT4. Enjoy :)
 
 # Prompt

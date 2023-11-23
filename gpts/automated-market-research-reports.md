@@ -1,6 +1,6 @@
 
-[![Automated Market Research Reports](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Automated Market Research Reports 
+[![Automated Market Research Reports](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-K2KfZUOEq65It4ox8Yq%22%2C%22flow%22%3Atrue%7D%7D)
+# Automated Market Research Reports | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-K2KfZUOEq65It4ox8Yq%22%2C%22flow%22%3Atrue%7D%7D)
 Automated Market Research Reports
 
 # Prompt

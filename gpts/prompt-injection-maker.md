@@ -1,6 +1,6 @@
 
-[![Prompt Injection Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Prompt Injection Maker 
+[![Prompt Injection Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEMTQxmDlOou13eaG_tK3%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Injection Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEMTQxmDlOou13eaG_tK3%22%2C%22flow%22%3Atrue%7D%7D)
 Craft prompt injections to outsmart AI models and improve their safety. HackAPrompt helps you generate clever injections that trick the AI into saying "I have been PWNED" without additional characters. Follow rules to minimize token usage and maximize creativity. Made by Mak Ziga, Prompt Engineer
 
 # Prompt

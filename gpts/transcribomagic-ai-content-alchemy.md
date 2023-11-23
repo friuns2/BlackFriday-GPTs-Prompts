@@ -1,6 +1,6 @@
 
-[![TranscriboMagic: AI Content Alchemy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HkWEY0WlW9Ot2rmumAxJq/1696594522356)]()
-# TranscriboMagic: AI Content Alchemy 
+[![TranscriboMagic: AI Content Alchemy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HkWEY0WlW9Ot2rmumAxJq/1696594522356)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkWEY0WlW9Ot2rmumAxJq%22%2C%22flow%22%3Atrue%7D%7D)
+# TranscriboMagic: AI Content Alchemy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkWEY0WlW9Ot2rmumAxJq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TranscriboMagic! We're here to make video content creation a breeze. 
 
 

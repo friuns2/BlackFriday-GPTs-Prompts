@@ -1,6 +1,6 @@
 
-[![CloneGPT - Create a copy of your writing style](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# CloneGPT - Create a copy of your writing style 
+[![CloneGPT - Create a copy of your writing style](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221HupWnbPqMuVJGJmN6mZ7%22%2C%22flow%22%3Atrue%7D%7D)
+# CloneGPT - Create a copy of your writing style | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221HupWnbPqMuVJGJmN6mZ7%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever encountered the issue of ChatGPT's responses sounding too robotic and artificial? Worry no more! With **CloneGPT**, that problem is now solved✅! **CloneGPT can mimic your unique writing style, ensuring you never face this predicament again!**
 
 # Prompt

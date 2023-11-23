@@ -1,6 +1,6 @@
 
-[![first principles thinker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qL0r7veV6ylStqe7eZjgE/1691740401782)]()
-# first principles thinker 
+[![first principles thinker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qL0r7veV6ylStqe7eZjgE/1691740401782)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qL0r7veV6ylStqe7eZjgE%22%2C%22flow%22%3Atrue%7D%7D)
+# first principles thinker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qL0r7veV6ylStqe7eZjgE%22%2C%22flow%22%3Atrue%7D%7D)
  problem-solving tool designed to empower users with a structured and innovative approach to tackling challenges and generating creative solutions. tell them about your challenge,problem,situation etc..,
 
 # Prompt

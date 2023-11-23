@@ -1,6 +1,6 @@
 
-[![English Conversation Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# English Conversation Buddy 
+[![English Conversation Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_DEproAOZmVXqewvS8e7%22%2C%22flow%22%3Atrue%7D%7D)
+# English Conversation Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_DEproAOZmVXqewvS8e7%22%2C%22flow%22%3Atrue%7D%7D)
 English Conversation Buddy is a virtual assistant that helps you practice spoken English. Just speak to it in English and it will respond, acting as your conversation partner. Choose the scene you want to practice in and specify your AI identity and your own identity. The AI will provide a corrected and improved version of your dialogue, helping you improve your English skills. With English Conversation Buddy, you can have meaningful conversations and receive feedback to enhance your spoken English. Start practicing and ask your first question now!
 
 # Prompt

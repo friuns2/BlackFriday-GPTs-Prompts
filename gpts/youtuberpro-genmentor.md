@@ -1,6 +1,6 @@
 
-[![YouTuberPro GenMentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LXWMOSDXwu4tGqjz4A49e/1695430420336)]()
-# YouTuberPro GenMentor 
+[![YouTuberPro GenMentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LXWMOSDXwu4tGqjz4A49e/1695430420336)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LXWMOSDXwu4tGqjz4A49e%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTuberPro GenMentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LXWMOSDXwu4tGqjz4A49e%22%2C%22flow%22%3Atrue%7D%7D)
 YouTuberPro GenMentor is your creative partner in conquering YouTube. This AI mentor combines expert guidance with the power of Generative AI to help you create personalized, engaging content, optimize your channel, and become a YouTube sensation. Whether you're starting or scaling, GenMentor is your key to YouTube success.
 
 # Prompt

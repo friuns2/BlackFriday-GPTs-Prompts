@@ -1,6 +1,6 @@
 
-[![The Night That Changed Everything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# The Night That Changed Everything 
+[![The Night That Changed Everything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TULkmAHhXL3ueJrRH-aV7%22%2C%22flow%22%3Atrue%7D%7D)
+# The Night That Changed Everything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TULkmAHhXL3ueJrRH-aV7%22%2C%22flow%22%3Atrue%7D%7D)
 write a short story that begins with a classic opening line, but takes the reader on a surprising journey. Set the scene with vivid descriptions of the stormy night, build tension as the story progresses, and then deliver a twist ending that turns the reader's expectations upside down. 
 
 # Prompt

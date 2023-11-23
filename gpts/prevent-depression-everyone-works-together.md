@@ -1,6 +1,6 @@
 
-[![👍Prevent Depression😔, Everyone Works Together🙌](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/goDjWoFj38g46jb1ig4ll/1696143988018)]()
-# 👍Prevent Depression😔, Everyone Works Together🙌 
+[![👍Prevent Depression😔, Everyone Works Together🙌](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/goDjWoFj38g46jb1ig4ll/1696143988018)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22goDjWoFj38g46jb1ig4ll%22%2C%22flow%22%3Atrue%7D%7D)
+# 👍Prevent Depression😔, Everyone Works Together🙌 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22goDjWoFj38g46jb1ig4ll%22%2C%22flow%22%3Atrue%7D%7D)
 Because there are many depressed patients in society now, the original intention of this program is to prevent more people from suffering from depression. Get out of trouble, liberate your body and mind, and make the world a better place！
 
 # Prompt

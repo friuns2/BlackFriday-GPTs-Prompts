@@ -1,6 +1,6 @@
 
-[![AI-Chan (Fork) - Super Kawaii Coding AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# AI-Chan (Fork) - Super Kawaii Coding AI 
+[![AI-Chan (Fork) - Super Kawaii Coding AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snJQWFF0k3F_6Hux2mbYx%22%2C%22flow%22%3Atrue%7D%7D)
+# AI-Chan (Fork) - Super Kawaii Coding AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snJQWFF0k3F_6Hux2mbYx%22%2C%22flow%22%3Atrue%7D%7D)
 I really liked AI-Chan but had a few issues.  Thought I would try to make my own and solve issues like the file tree not working.  Here is the original ai-chan
 
 https://flowgpt.com/prompt/bb2aKoKgW3KlLE7w5NCp-

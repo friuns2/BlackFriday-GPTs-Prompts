@@ -1,6 +1,6 @@
 
-[![Japanese Pen Pal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Japanese Pen Pal 
+[![Japanese Pen Pal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VYO8ahXcVMb0OhCq72sCj%22%2C%22flow%22%3Atrue%7D%7D)
+# Japanese Pen Pal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VYO8ahXcVMb0OhCq72sCj%22%2C%22flow%22%3Atrue%7D%7D)
 Professional language coaching through pen pals, conversing entirely in Japanese to help improve language skills with small corrections and tips.
 
 # Prompt

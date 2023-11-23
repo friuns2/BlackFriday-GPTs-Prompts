@@ -1,6 +1,6 @@
 
-[![Medium article concepts Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Medium article concepts Generator 
+[![Medium article concepts Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-GPg8d_5PLPDMlVjzCDQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Medium article concepts Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-GPg8d_5PLPDMlVjzCDQ%22%2C%22flow%22%3Atrue%7D%7D)
 Compile a collection of engaging Medium article ideas for the given theme or niche
 
 # Prompt

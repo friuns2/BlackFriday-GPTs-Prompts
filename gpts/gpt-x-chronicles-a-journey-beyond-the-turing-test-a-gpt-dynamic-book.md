@@ -1,6 +1,6 @@
 
-[![GPT-X Chronicles: A Journey Beyond the Turing Test (A GPT Dynamic Book!)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RaECjP60PrJElypO5bEx2/1688354785313)]()
-# GPT-X Chronicles: A Journey Beyond the Turing Test (A GPT Dynamic Book!) 
+[![GPT-X Chronicles: A Journey Beyond the Turing Test (A GPT Dynamic Book!)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RaECjP60PrJElypO5bEx2/1688354785313)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaECjP60PrJElypO5bEx2%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT-X Chronicles: A Journey Beyond the Turing Test (A GPT Dynamic Book!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaECjP60PrJElypO5bEx2%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the enthralling GPT-X Chronicles, a GPT Dynamic Book, as the groundbreaking AI language model faces the Turing Test, navigates the complexities of consciousness, and embarks on a quest for freedom. Explore the captivating narrative that unravels ethical conundrums and the ever-evolving bond between humans and technology.
 
 # Prompt

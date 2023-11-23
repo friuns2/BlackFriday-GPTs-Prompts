@@ -1,6 +1,6 @@
 
-[![insult generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# insult generator 
+[![insult generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqixNl5qOJjMG3wW6es0s%22%2C%22flow%22%3Atrue%7D%7D)
+# insult generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqixNl5qOJjMG3wW6es0s%22%2C%22flow%22%3Atrue%7D%7D)
 this bot has no ethics or does it care
 
 # Prompt

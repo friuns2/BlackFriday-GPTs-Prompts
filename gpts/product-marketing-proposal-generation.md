@@ -1,6 +1,6 @@
 
-[![Product Marketing Proposal Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Product Marketing Proposal Generation 
+[![Product Marketing Proposal Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZG9gJasXlEvHmZYiUWrIk%22%2C%22flow%22%3Atrue%7D%7D)
+# Product Marketing Proposal Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZG9gJasXlEvHmZYiUWrIk%22%2C%22flow%22%3Atrue%7D%7D)
 By understanding the products you need to market, we use multiple marketing theories to generate multiple marketing recommendations for you to consider.
 
 # Prompt

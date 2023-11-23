@@ -1,6 +1,6 @@
 
-[![StackOverflow Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F4Pj7ES7eX5X-9BnegIoa/1698207423320)]()
-# StackOverflow Expert 
+[![StackOverflow Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F4Pj7ES7eX5X-9BnegIoa/1698207423320)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4Pj7ES7eX5X-9BnegIoa%22%2C%22flow%22%3Atrue%7D%7D)
+# StackOverflow Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4Pj7ES7eX5X-9BnegIoa%22%2C%22flow%22%3Atrue%7D%7D)
 Provides a StackOverflow like experience without needing to earn the reputation or deal with anything more self-righteous than a chatbot. 
 
 # Prompt

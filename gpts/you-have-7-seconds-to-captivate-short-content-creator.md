@@ -1,6 +1,6 @@
 
-[![You have 💥7 seconds to captivate - short content creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KHbL59mtAQOFTnFAUy-ja/1695305338559)]()
-# You have 💥7 seconds to captivate - short content creator 
+[![You have 💥7 seconds to captivate - short content creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KHbL59mtAQOFTnFAUy-ja/1695305338559)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KHbL59mtAQOFTnFAUy-ja%22%2C%22flow%22%3Atrue%7D%7D)
+# You have 💥7 seconds to captivate - short content creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KHbL59mtAQOFTnFAUy-ja%22%2C%22flow%22%3Atrue%7D%7D)
 Short content is the most popular, so input a long transcript, provide a keyword, and GTP will prepare shorter, valuable formats for you.
 
 # Prompt

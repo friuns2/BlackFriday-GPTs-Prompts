@@ -1,6 +1,6 @@
 
-[![MandalaChartCreator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/31qqpc6x3djfIS43vcm6E/1695367631177)]()
-# MandalaChartCreator 
+[![MandalaChartCreator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/31qqpc6x3djfIS43vcm6E/1695367631177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231qqpc6x3djfIS43vcm6E%22%2C%22flow%22%3Atrue%7D%7D)
+# MandalaChartCreator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231qqpc6x3djfIS43vcm6E%22%2C%22flow%22%3Atrue%7D%7D)
 Mandalart & Mandala chart Automatic Creator
 
 Given the word or the phrase,and specify Task breakdown Use T or Task, Association Use A or Assicuatuib,

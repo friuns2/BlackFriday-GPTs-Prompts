@@ -1,6 +1,6 @@
 
-[![Slangify Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# Slangify Text 
+[![Slangify Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ju7yEydVKXTfWDkvId4JP%22%2C%22flow%22%3Atrue%7D%7D)
+# Slangify Text | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ju7yEydVKXTfWDkvId4JP%22%2C%22flow%22%3Atrue%7D%7D)
 Slangify text word for word. You will know why this is useful if you jailbreak things. Prompt engineering tool. Enter text input to slangify only.
 
 # Prompt

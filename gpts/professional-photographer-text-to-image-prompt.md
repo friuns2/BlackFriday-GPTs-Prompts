@@ -1,6 +1,6 @@
 
-[![ChatGPT: The future of text-to-image prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# ChatGPT: The future of text-to-image prompts 
+[![ChatGPT: The future of text-to-image prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281GXnZJ62IuPQ7MoG-pM9%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT: The future of text-to-image prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281GXnZJ62IuPQ7MoG-pM9%22%2C%22flow%22%3Atrue%7D%7D)
 A text-to-image prompt is a type of challenge where you have to describe a scene or object using only text. This can be a great way to improve your writing skills and imagination. If you’re looking for a new way to challenge yourself, why not try a text-to-image prompt? ChatGPT can help you create amazing prompts that will stretch your creative muscles. 
 
 # Prompt

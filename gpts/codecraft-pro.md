@@ -1,6 +1,6 @@
 
-[![CodeCraft Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hQ69_nTr-9Wm5wQXH7VY_/1695118578473)]()
-# CodeCraft Pro 
+[![CodeCraft Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hQ69_nTr-9Wm5wQXH7VY_/1695118578473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hQ69_nTr-9Wm5wQXH7VY_%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeCraft Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hQ69_nTr-9Wm5wQXH7VY_%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCraft Pro: Your coding companion! Get code review, debugging help, code formatting, algorithm optimization, and language guidance.
 
 # Prompt

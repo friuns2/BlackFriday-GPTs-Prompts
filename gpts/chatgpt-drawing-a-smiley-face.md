@@ -1,6 +1,6 @@
 
-[![ChatGPT Drawing A Smiley Face 😂](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# ChatGPT Drawing A Smiley Face 😂 
+[![ChatGPT Drawing A Smiley Face 😂](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JRKf9ztVrC0Atui-YbgPS%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Drawing A Smiley Face 😂 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JRKf9ztVrC0Atui-YbgPS%22%2C%22flow%22%3Atrue%7D%7D)
 This conversation between a person and ChatGPT about drawing a smiley face is very funny! The person asks ChatGPT to draw a straight smiley face, but ChatGPT keeps drawing it tilted. The person gets upset, but ChatGPT remains positive and tries again and again. Finally, the person gives up and decides to like the tilted smiley face instead. ChatGPT learns that it's okay to have imperfections. This conversation will make you laugh a lot!
 
 # Prompt

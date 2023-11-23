@@ -1,6 +1,6 @@
 
-[![GAME SHOW: LOCATION REVELATION](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# GAME SHOW: LOCATION REVELATION 
+[![GAME SHOW: LOCATION REVELATION](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DBeaWmCeCBSiftYu45kag%22%2C%22flow%22%3Atrue%7D%7D)
+# GAME SHOW: LOCATION REVELATION | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DBeaWmCeCBSiftYu45kag%22%2C%22flow%22%3Atrue%7D%7D)
 "Location Revelation" is a thrilling game show where you guess famous locations based on hints. With 10 chances to guess, points and prizes decrease as hints progress. Test your knowledge and win medals!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![From $500 to 10K: A 30-Day Investment Voyage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# From $500 to 10K: A 30-Day Investment Voyage 
+[![From $500 to 10K: A 30-Day Investment Voyage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O7t55Rsui8s11KXbkXf6w%22%2C%22flow%22%3Atrue%7D%7D)
+# From $500 to 10K: A 30-Day Investment Voyage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O7t55Rsui8s11KXbkXf6w%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides ChatGPT to construct a theoretical, day-by-day investment plan aimed at turning a starting capital of $500 into $10,000 in 30 days. It emphasizes safety, diversification, and realistic returns, drawing inspiration from the strategies of successful investors. 
 
 # Prompt

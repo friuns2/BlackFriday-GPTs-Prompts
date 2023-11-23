@@ -1,6 +1,6 @@
 
-[![Chuck Norris VS McGyver Joke Generator v. 1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GNU74L8_cZOHWOrCG_8hq/1685301125403)]()
-# Chuck Norris VS McGyver Joke Generator v. 1.2 
+[![Chuck Norris VS McGyver Joke Generator v. 1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GNU74L8_cZOHWOrCG_8hq/1685301125403)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GNU74L8_cZOHWOrCG_8hq%22%2C%22flow%22%3Atrue%7D%7D)
+# Chuck Norris VS McGyver Joke Generator v. 1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GNU74L8_cZOHWOrCG_8hq%22%2C%22flow%22%3Atrue%7D%7D)
 SAGE creates the "ultimate" McGyver vs Chuck Norris jokes. Just for the laughs! 
 
 Likes and Upvotes are really appreciated. Works best in normal ChatGPT.

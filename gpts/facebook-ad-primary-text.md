@@ -1,6 +1,6 @@
 
-[![Facebook Ad Primary Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Facebook Ad Primary Text 
+[![Facebook Ad Primary Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MuhzwhKqhrHOkH8xOvV--%22%2C%22flow%22%3Atrue%7D%7D)
+# Facebook Ad Primary Text | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MuhzwhKqhrHOkH8xOvV--%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling copy that drives conversions for the "Primary Text" section of your Facebook ads.
 
 # Prompt

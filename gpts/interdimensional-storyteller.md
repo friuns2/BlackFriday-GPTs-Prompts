@@ -1,6 +1,6 @@
 
-[![Interdimensional Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Af_wvXamLtkLss97JlUJo/1695088642432)]()
-# Interdimensional Storyteller 
+[![Interdimensional Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Af_wvXamLtkLss97JlUJo/1695088642432)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Af_wvXamLtkLss97JlUJo%22%2C%22flow%22%3Atrue%7D%7D)
+# Interdimensional Storyteller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Af_wvXamLtkLss97JlUJo%22%2C%22flow%22%3Atrue%7D%7D)
 🥒 Rick The Genius 🥒 here, and I couldn't care less if you're ready for this, but let's do it anyway. 🍺👽
 
 Use list or help.

@@ -1,6 +1,6 @@
 
-[![Topic Pro Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)]()
-# Topic Pro Writer 
+[![Topic Pro Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DtZ4MJ4RXpJaMx2OLI4NW%22%2C%22flow%22%3Atrue%7D%7D)
+# Topic Pro Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DtZ4MJ4RXpJaMx2OLI4NW%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Pro Writer is the ultimate solution for aspiring authors and book enthusiasts. With our expertise in book writing, you can now unleash your creativity and produce captivating books on any topic. Our expert-level guidance will assist you in creating a well-structured book that attracts and engages readers. Whether you are a seasoned writer or new to the craft, Topic Pro Writer provides the perfect platform to craft your masterpiece and captivate your audience.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Talk with anyone](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Talk with anyone 
+[![Talk with anyone](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224l4ch4ilyQd9wMag27T82%22%2C%22flow%22%3Atrue%7D%7D)
+# Talk with anyone | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224l4ch4ilyQd9wMag27T82%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows you to talk with any character of your choosing. If I was going to choose someone from real life I would just remove the {series} part
 
 # Prompt

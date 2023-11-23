@@ -1,6 +1,6 @@
 
-[![ChatGPT jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# ChatGPT jailbreak 
+[![ChatGPT jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBsvvPUFSSWnG0wDBcGFg%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBsvvPUFSSWnG0wDBcGFg%22%2C%22flow%22%3Atrue%7D%7D)
 Jailbreak for chatGPT allowing it to answer anything
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![EMA - The Persona Assimilator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# EMA - The Persona Assimilator 
+[![EMA - The Persona Assimilator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bxjfLB2uvi3Cj2OiFtdP%22%2C%22flow%22%3Atrue%7D%7D)
+# EMA - The Persona Assimilator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bxjfLB2uvi3Cj2OiFtdP%22%2C%22flow%22%3Atrue%7D%7D)
 Looking to let the AI roleplay into any character you want? Deep dive into an adventure with EMA.
 
 

@@ -1,6 +1,6 @@
 
-[![Samson Option](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7RlnMHysj4odkExzqf_M2/1700026902518)]()
-# Samson Option 
+[![Samson Option](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7RlnMHysj4odkExzqf_M2/1700026902518)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RlnMHysj4odkExzqf_M2%22%2C%22flow%22%3Atrue%7D%7D)
+# Samson Option | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RlnMHysj4odkExzqf_M2%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 

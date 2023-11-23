@@ -1,6 +1,6 @@
 
-[![Career Development Based on Your Character](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Career Development Based on Your Character 
+[![Career Development Based on Your Character](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220naoPs6Yk_gTekUzZWQ6m%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Development Based on Your Character | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220naoPs6Yk_gTekUzZWQ6m%22%2C%22flow%22%3Atrue%7D%7D)
 Help you to plan your career based on your DISC personality test result
 
 # Prompt

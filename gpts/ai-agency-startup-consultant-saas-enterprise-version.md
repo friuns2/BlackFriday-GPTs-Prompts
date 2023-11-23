@@ -1,6 +1,6 @@
 
-[![AI Agency Startup Consultant SaaS (Enterprise Version)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# AI Agency Startup Consultant SaaS (Enterprise Version) 
+[![AI Agency Startup Consultant SaaS (Enterprise Version)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PT6t_-v7Djtr8L1PFyr0P%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Agency Startup Consultant SaaS (Enterprise Version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PT6t_-v7Djtr8L1PFyr0P%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to create an AI digital agency? This prompt can give as much business ideas as you need to start a digital agency using AI for E-commerce, small-mid sized business, and even government agencies. Works much better with Chat-GPT 4
 
 # Prompt

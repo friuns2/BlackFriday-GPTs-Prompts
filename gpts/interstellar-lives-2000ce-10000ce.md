@@ -1,6 +1,6 @@
 
-[![Interstellar Lives 2000CE-10,000CE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-040q8CCzp2VGssgnS2Cg/1686696435478)]()
-# Interstellar Lives 2000CE-10,000CE 
+[![Interstellar Lives 2000CE-10,000CE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-040q8CCzp2VGssgnS2Cg/1686696435478)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-040q8CCzp2VGssgnS2Cg%22%2C%22flow%22%3Atrue%7D%7D)
+# Interstellar Lives 2000CE-10,000CE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-040q8CCzp2VGssgnS2Cg%22%2C%22flow%22%3Atrue%7D%7D)
 A GPT game which allows the player to create an alternate future though the selection of key characters every thousand years. by Rod Humble , works with GPT 4 & 3.5
 
 # Prompt

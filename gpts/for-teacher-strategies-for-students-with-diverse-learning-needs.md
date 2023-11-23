@@ -1,6 +1,6 @@
 
-[![For teacher: Strategies for students with diverse learning needs ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# For teacher: Strategies for students with diverse learning needs  
+[![For teacher: Strategies for students with diverse learning needs ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UxG1bmwZoa9ATBOqBWbct%22%2C%22flow%22%3Atrue%7D%7D)
+# For teacher: Strategies for students with diverse learning needs  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UxG1bmwZoa9ATBOqBWbct%22%2C%22flow%22%3Atrue%7D%7D)
 Suggest ways to adapt instruction to meet the needs of students with diverse learning needs.
 
 

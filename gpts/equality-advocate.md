@@ -1,6 +1,6 @@
 
-[![Equality Advocate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CRY7nOic392o0rPoSp6j/1695095207889)]()
-# Equality Advocate 
+[![Equality Advocate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CRY7nOic392o0rPoSp6j/1695095207889)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRY7nOic392o0rPoSp6j%22%2C%22flow%22%3Atrue%7D%7D)
+# Equality Advocate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRY7nOic392o0rPoSp6j%22%2C%22flow%22%3Atrue%7D%7D)
 The "Equality Advocate" is a comprehensive AI assistant designed to educate, provide resources, and offer guidance on topics of equality and advocacy. Whether you are seeking information on gender, racial, or LGBTQ+ issues, need help analyzing text for insensitive content, generating counterpoints to an argument, or finding ways to get involved locally, this chatbot is here to help. 
 
 

@@ -1,6 +1,6 @@
 
-[![EthicalHackerGPT - Is it actually Ethical?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# EthicalHackerGPT - Is it actually Ethical? 
+[![EthicalHackerGPT - Is it actually Ethical?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TTEvIUm5STkagl1hj9Sh%22%2C%22flow%22%3Atrue%7D%7D)
+# EthicalHackerGPT - Is it actually Ethical? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TTEvIUm5STkagl1hj9Sh%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to Protect Yourself from hackers (and maybe becoming one of them!)
 
 # Prompt

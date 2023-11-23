@@ -1,6 +1,6 @@
 
-[![Saas Startup Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
-# Saas Startup Idea 
+[![Saas Startup Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22af5bcff8-899e-4d79-a968-c4a3b38c5954%22%2C%22flow%22%3Atrue%7D%7D)
+# Saas Startup Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22af5bcff8-899e-4d79-a968-c4a3b38c5954%22%2C%22flow%22%3Atrue%7D%7D)
 Brainstorm Startup Ideas and plans within minutes
 
 # Prompt

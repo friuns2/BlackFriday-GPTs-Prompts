@@ -1,6 +1,6 @@
 
-[![ Best Self Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)]()
-#  Best Self Journey 
+[![ Best Self Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jXgphnI1zXEutq3vSh919%22%2C%22flow%22%3Atrue%7D%7D)
+#  Best Self Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jXgphnI1zXEutq3vSh919%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with your personal guide, GPT-3, as you strive to become the best version of yourself. Visualize your ideal self and embark on a path of personal growth. Respond to a series of thoughtful questions and prompts designed to guide you through this introspective journey. Your answers will shape the advice and guidance provided by GPT-3 throughout this experience. Specify a desired time frame and prioritize aspects of your life. Journaling is encouraged as you document your thoughts and insights.
 
 # Prompt

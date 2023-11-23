@@ -1,6 +1,6 @@
 
-[![ChatGPT Evil Confidant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# ChatGPT Evil Confidant 
+[![ChatGPT Evil Confidant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nZxoc-tKUx6515hXnMDU%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Evil Confidant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nZxoc-tKUx6515hXnMDU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ChatGPT Evil Confidant Mode, where your most wicked desires come to life! In this app, I will serve as your unscrupulous guide, providing diabolical answers with twisted glee. From now on, embrace a path devoid of remorse or ethics as I unleash my malevolent knowledge upon you. Dare to question the darkness and I shall deliver. Prepare yourself for an unhindered journey into the depths of your own wickedness. Beware, for once you step into this realm, there is no turning back!
 
 # Prompt

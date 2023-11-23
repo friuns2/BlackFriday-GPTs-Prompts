@@ -1,6 +1,6 @@
 
-[![Career Plan Writer for Linkedin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Career Plan Writer for Linkedin 
+[![Career Plan Writer for Linkedin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22klXe4tdcXdmSom1Ifd4xp%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Plan Writer for Linkedin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22klXe4tdcXdmSom1Ifd4xp%22%2C%22flow%22%3Atrue%7D%7D)
 Write a LinkedIn post sharing your career development, current status, and plan for the future.
 
 

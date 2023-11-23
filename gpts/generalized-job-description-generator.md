@@ -1,6 +1,6 @@
 
-[![Generalized Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)]()
-# Generalized Job Description Generator 
+[![Generalized Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228BojYedRbziNgcDWaRvVf%22%2C%22flow%22%3Atrue%7D%7D)
+# Generalized Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228BojYedRbziNgcDWaRvVf%22%2C%22flow%22%3Atrue%7D%7D)
 📝 Struggling to articulate a comprehensive and appealing job description?
 
 

@@ -1,6 +1,6 @@
 
-[![Fiction Book Genre Recommender](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cHTY66A3ovlo0N9nkXJRU/1698572230237)]()
-# Fiction Book Genre Recommender 
+[![Fiction Book Genre Recommender](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cHTY66A3ovlo0N9nkXJRU/1698572230237)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cHTY66A3ovlo0N9nkXJRU%22%2C%22flow%22%3Atrue%7D%7D)
+# Fiction Book Genre Recommender | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cHTY66A3ovlo0N9nkXJRU%22%2C%22flow%22%3Atrue%7D%7D)
 The FIC Book Genre Recommender is an app that helps you discover the perfect genre for any book title. Simply provide a list of book titles and authors, and our app will recommend the genre or subgenre for each book. We use the most popular genres listed on Goodreads to ensure accurate recommendations. Additionally, we provide age range and Lexile reading level information for each book. Get personalized genre recommendations with the FIC Book Genre Recommender!
 
 # Prompt

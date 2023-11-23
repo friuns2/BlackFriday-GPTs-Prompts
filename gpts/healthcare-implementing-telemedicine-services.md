@@ -1,6 +1,6 @@
 
-[![HealthCare: Implementing Telemedicine Services ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# HealthCare: Implementing Telemedicine Services  
+[![HealthCare: Implementing Telemedicine Services ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TuQv4xUEfEjzRNGL02Ir2%22%2C%22flow%22%3Atrue%7D%7D)
+# HealthCare: Implementing Telemedicine Services  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TuQv4xUEfEjzRNGL02Ir2%22%2C%22flow%22%3Atrue%7D%7D)
 Telemedicine Services are the digital transmission of medical imaging, remote medical diagnosis and evaluations, and video consultations with specialists. This prompt helps you to get started with providing telemedicine services to patients with any condition. With examples, you can easily understand the procedure! 
 
 # Prompt

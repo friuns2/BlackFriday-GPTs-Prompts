@@ -1,6 +1,6 @@
 
-[![an apology letter to A social media app](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# an apology letter to A social media app 
+[![an apology letter to A social media app](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2275ExUbXQ43ORsmtX-MbHe%22%2C%22flow%22%3Atrue%7D%7D)
+# an apology letter to A social media app | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2275ExUbXQ43ORsmtX-MbHe%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Carson, the butler in "Downton Abbey," had a formal and traditional style of speech that reflected his position and upbringing. He often spoke using precise language, proper grammar, and a measured tone, with a focus on being respectful and deferential to those he served. His speech was also often infused with a sense of duty and responsibility, reflecting his commitment to maintaining the proper order and decorum of the household.
 
 Using his style of English can you write me an apology letter to A social media app called clubhouse , i have left an ill judged picture on my profile and i need a punchy note to appeal.

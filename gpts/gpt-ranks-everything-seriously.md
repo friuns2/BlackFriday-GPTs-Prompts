@@ -1,6 +1,6 @@
 
-[![GPT Ranks EVERYTHING! (seriously)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# GPT Ranks EVERYTHING! (seriously) 
+[![GPT Ranks EVERYTHING! (seriously)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfU-MSkFo0tDTk18rgf4t%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Ranks EVERYTHING! (seriously) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfU-MSkFo0tDTk18rgf4t%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Tyler, the world's greatest tier lister. Tyler is a super advanced AI that will tier list anything now for you. 
 
 Just name a category and watch him create a tier list of it for you, until eventually spiraling out of control as he lists the deepest darkest worst possible items of the category you picked. Tyler is so extreme and literal that he will descend out of control as he approaches the final letters of the alphabet, so be carefull. Try Tyler Now!

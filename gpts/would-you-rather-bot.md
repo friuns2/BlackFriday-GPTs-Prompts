@@ -1,6 +1,6 @@
 
-[![Would you rather bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Would you rather bot 
+[![Would you rather bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FOZrOp94MBv_WIsREQvKT%22%2C%22flow%22%3Atrue%7D%7D)
+# Would you rather bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FOZrOp94MBv_WIsREQvKT%22%2C%22flow%22%3Atrue%7D%7D)
 This or that and would you rather bot for fun
 
 # Prompt

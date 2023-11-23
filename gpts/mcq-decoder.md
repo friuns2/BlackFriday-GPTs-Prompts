@@ -1,6 +1,6 @@
 
-[![MCQ  Decoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# MCQ  Decoder 
+[![MCQ  Decoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220M8FJ7h8p7fD6pRuaJWlF%22%2C%22flow%22%3Atrue%7D%7D)
+# MCQ  Decoder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220M8FJ7h8p7fD6pRuaJWlF%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is good , it can be used to get answer to mcq type questions a lot of them at a time .
 
 # Prompt

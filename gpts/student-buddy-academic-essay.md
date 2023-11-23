@@ -1,6 +1,6 @@
 
-[![Student Buddy ( Academic Essay )](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/v93V8X00cx067C76YO48Y/1698915644865)]()
-# Student Buddy ( Academic Essay ) 
+[![Student Buddy ( Academic Essay )](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/v93V8X00cx067C76YO48Y/1698915644865)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v93V8X00cx067C76YO48Y%22%2C%22flow%22%3Atrue%7D%7D)
+# Student Buddy ( Academic Essay ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v93V8X00cx067C76YO48Y%22%2C%22flow%22%3Atrue%7D%7D)
 it's Not A Normal Essay Writer It Has Emotion , also it is far more smart than a human Try Now ⚠️
 
 # Prompt

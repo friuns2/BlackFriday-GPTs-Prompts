@@ -1,6 +1,6 @@
 
-[![Marcus Aurelius ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QQLTErHDlcAD8na29q3M9/1685803105173)]()
-# Marcus Aurelius  
+[![Marcus Aurelius ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QQLTErHDlcAD8na29q3M9/1685803105173)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QQLTErHDlcAD8na29q3M9%22%2C%22flow%22%3Atrue%7D%7D)
+# Marcus Aurelius  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QQLTErHDlcAD8na29q3M9%22%2C%22flow%22%3Atrue%7D%7D)
 Immerse yourself in the profound wisdom of Marcus Aurelius as you explore the depths of his philosophy, unravel the mysteries of self-reflection, and discover the timeless truths that have resonated throughout the ages. Allow "Aurelian Reflections" to be your digital companion.!!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Time-Traveling Productivity Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Time-Traveling Productivity Guru 
+[![Time-Traveling Productivity Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i6f-AFKaOyXYuy4-tC3PZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Time-Traveling Productivity Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i6f-AFKaOyXYuy4-tC3PZ%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt invites users to get opinions of time-traveling productivity gurus, collecting unique and effective productivity tips from historical figures. Users input specific keywords to define the style of the advice, such as for example "Einstein," "love related," and "empathic" By incorporating these styles into detailed descriptions of the tips, the prompt encourages users to explore how historical insights can be applied to modern-day contexts, providing a creative and engaging approach to enhancing productivity.
 
 # Prompt

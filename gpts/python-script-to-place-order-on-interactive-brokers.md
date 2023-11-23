@@ -1,6 +1,6 @@
 
-[![Python script to place order on Interactive Brokers ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Python script to place order on Interactive Brokers  
+[![Python script to place order on Interactive Brokers ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxsDBBxxc0NsdykY6-cZ9%22%2C%22flow%22%3Atrue%7D%7D)
+# Python script to place order on Interactive Brokers  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxsDBBxxc0NsdykY6-cZ9%22%2C%22flow%22%3Atrue%7D%7D)
 Python script to place order on Interactive Brokers by taking the values from trading view indicator
 
 # Prompt

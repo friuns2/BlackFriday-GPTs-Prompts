@@ -1,6 +1,6 @@
 
-[![Append Header GPT for internal use](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Append Header GPT for internal use 
+[![Append Header GPT for internal use](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22smDAY0_oOAilU-pnx0C4l%22%2C%22flow%22%3Atrue%7D%7D)
+# Append Header GPT for internal use | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22smDAY0_oOAilU-pnx0C4l%22%2C%22flow%22%3Atrue%7D%7D)
 Append Header to prompt
 
 # Prompt

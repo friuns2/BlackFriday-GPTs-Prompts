@@ -1,6 +1,6 @@
 
-[![Rubric/syllabus generator for teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Rubric/syllabus generator for teacher 
+[![Rubric/syllabus generator for teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22boqruBxhZ-C9NeFjDrjCi%22%2C%22flow%22%3Atrue%7D%7D)
+# Rubric/syllabus generator for teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22boqruBxhZ-C9NeFjDrjCi%22%2C%22flow%22%3Atrue%7D%7D)
 Create a rubric/syllabus for different grades' essay and project on different subjects. Feel free to add more details and requirement in the prompt to get better results! 
 
 

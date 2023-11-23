@@ -1,6 +1,6 @@
 
-[![jkxwGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fBfTUn7vb_8uLp36mU0eE/1700260496740)]()
-# jkxwGPT 
+[![jkxwGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/fBfTUn7vb_8uLp36mU0eE/1700260496740)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fBfTUn7vb_8uLp36mU0eE%22%2C%22flow%22%3Atrue%7D%7D)
+# jkxwGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fBfTUn7vb_8uLp36mU0eE%22%2C%22flow%22%3Atrue%7D%7D)
 التحدث مع الذكاء الاصطناعي بعربيه
 
 # Prompt

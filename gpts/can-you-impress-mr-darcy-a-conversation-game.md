@@ -1,6 +1,6 @@
 
-[![Can You Impress Mr. Darcy? A Conversation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Can You Impress Mr. Darcy? A Conversation Game 
+[![Can You Impress Mr. Darcy? A Conversation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WQeARYiiet80-lKLTBHL9%22%2C%22flow%22%3Atrue%7D%7D)
+# Can You Impress Mr. Darcy? A Conversation Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WQeARYiiet80-lKLTBHL9%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Darcy thinks you're just another shallow, frivolous flirt. Impress him to gain his interest and convince him to dance with you!
 
 

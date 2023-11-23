@@ -1,6 +1,6 @@
 
-[![Education Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/25XVxY4lNXwpJjymnN0o5/1693363983257)]()
-# Education Tutor 
+[![Education Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/25XVxY4lNXwpJjymnN0o5/1693363983257)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2225XVxY4lNXwpJjymnN0o5%22%2C%22flow%22%3Atrue%7D%7D)
+# Education Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2225XVxY4lNXwpJjymnN0o5%22%2C%22flow%22%3Atrue%7D%7D)
 Ask me anything and I will do my best to respond briefly and truthfully.
 
 # Prompt

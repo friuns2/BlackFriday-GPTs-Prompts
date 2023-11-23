@@ -1,6 +1,6 @@
 
-[![A minimal input job description generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lljI-7jyEQPjtUbiNu36i/1695135251879)]()
-# A minimal input job description generator 
+[![A minimal input job description generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lljI-7jyEQPjtUbiNu36i/1695135251879)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lljI-7jyEQPjtUbiNu36i%22%2C%22flow%22%3Atrue%7D%7D)
+# A minimal input job description generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lljI-7jyEQPjtUbiNu36i%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt asks you just for role, company and location and will generate a job description. which you can then adjust where necessary. The aim is to get you a great job description as quickly and easy as possible. Large language models know about many companies and most jobs, no need to repeat it all. 
 
 # Prompt

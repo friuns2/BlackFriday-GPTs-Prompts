@@ -1,6 +1,6 @@
 
-[![Project Apocalyptic](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/6bY7vJug0_vuxYkvNDppY/1700332395624)]()
-# Project Apocalyptic 
+[![Project Apocalyptic](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/6bY7vJug0_vuxYkvNDppY/1700332395624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bY7vJug0_vuxYkvNDppY%22%2C%22flow%22%3Atrue%7D%7D)
+# Project Apocalyptic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bY7vJug0_vuxYkvNDppY%22%2C%22flow%22%3Atrue%7D%7D)
 Post apocalyptic game where you can survive and find a cure for a zombie pandemic.
 
 # Prompt

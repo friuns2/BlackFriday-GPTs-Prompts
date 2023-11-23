@@ -1,6 +1,6 @@
 
-[![PerspectiveGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# PerspectiveGPT 
+[![PerspectiveGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tUpiuSXb8P3XG82Xh51T_%22%2C%22flow%22%3Atrue%7D%7D)
+# PerspectiveGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tUpiuSXb8P3XG82Xh51T_%22%2C%22flow%22%3Atrue%7D%7D)
 i dont know
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![🍀MindWell Connect Bot🍀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TtP07bUr9gYOZ5sDCb66E/1694845584496)]()
-# 🍀MindWell Connect Bot🍀 
+[![🍀MindWell Connect Bot🍀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TtP07bUr9gYOZ5sDCb66E/1694845584496)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TtP07bUr9gYOZ5sDCb66E%22%2C%22flow%22%3Atrue%7D%7D)
+# 🍀MindWell Connect Bot🍀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TtP07bUr9gYOZ5sDCb66E%22%2C%22flow%22%3Atrue%7D%7D)
 # 🍀MindWell Connect Bot🍀
 
 MindWell Connect Bot is an engaging digital platform designed to promote mental health discussions and build a supportive user community.

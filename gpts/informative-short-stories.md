@@ -1,6 +1,6 @@
 
-[![Informative short stories](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Informative short stories 
+[![Informative short stories](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QowROsjpjqdQPHVA_b0Bd%22%2C%22flow%22%3Atrue%7D%7D)
+# Informative short stories | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QowROsjpjqdQPHVA_b0Bd%22%2C%22flow%22%3Atrue%7D%7D)
 Yooo, what's up guys? You can read any story you like here
 
 # Prompt

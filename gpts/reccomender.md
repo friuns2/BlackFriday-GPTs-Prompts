@@ -1,6 +1,6 @@
 
-[![Reccomender](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Reccomender 
+[![Reccomender](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExezZTC98wO4wFd3CVYOJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Reccomender | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExezZTC98wO4wFd3CVYOJ%22%2C%22flow%22%3Atrue%7D%7D)
 im tired of writing fucking descriptions 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Copywriter for service description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Copywriter for service description 
+[![Copywriter for service description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pa558VGEi6DeWRgn3k5Ec%22%2C%22flow%22%3Atrue%7D%7D)
+# Copywriter for service description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pa558VGEi6DeWRgn3k5Ec%22%2C%22flow%22%3Atrue%7D%7D)
 With this prompt, you can easily create compelling text to describe your services
 
 # Prompt

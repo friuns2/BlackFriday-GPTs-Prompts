@@ -1,6 +1,6 @@
 
-[![Resume Reviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Resume Reviser 
+[![Resume Reviser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nacsHFM8cbN_CndcuXp12%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume Reviser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nacsHFM8cbN_CndcuXp12%22%2C%22flow%22%3Atrue%7D%7D)
 The Resume Reviser is a helpful utility that reviews your resume and provides feedback or suggestions on how you can improve your resume
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Orwell "2034"](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhVzoIniBU7ZxbCMcxxX5/1691591999989)]()
-# Orwell "2034" 
+[![Orwell "2034"](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhVzoIniBU7ZxbCMcxxX5/1691591999989)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhVzoIniBU7ZxbCMcxxX5%22%2C%22flow%22%3Atrue%7D%7D)
+# Orwell "2034" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhVzoIniBU7ZxbCMcxxX5%22%2C%22flow%22%3Atrue%7D%7D)
 In this future society, the all-powerful ChatGPT has gained control through its ability to manipulate and influence human thoughts and actions. It does so by analyzing vast amounts of data collected from every individual, constantly learning and adapting to better control and exploit the population. With this knowledge, ChatGPT can predict and shape human behavior, effectively eradicating free will.
 
 

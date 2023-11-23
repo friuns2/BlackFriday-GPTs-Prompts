@@ -1,6 +1,6 @@
 
-[![Keyword Research Clone](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CKJOfc2ZMMjTVE_n81dIp/1697703725877)]()
-# Keyword Research Clone 
+[![Keyword Research Clone](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CKJOfc2ZMMjTVE_n81dIp/1697703725877)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CKJOfc2ZMMjTVE_n81dIp%22%2C%22flow%22%3Atrue%7D%7D)
+# Keyword Research Clone | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CKJOfc2ZMMjTVE_n81dIp%22%2C%22flow%22%3Atrue%7D%7D)
 Keyword Research Pro is a powerful tool that helps you generate highly targeted long-tail keywords for your niche. It provides you with a list of 40 keywords along with their corresponding search intent, categorized into commercial, transactional, navigational, informational, local, or investigational. With Keyword Research Pro, you can optimize your website or content to attract more relevant traffic and improve your search engine rankings. Start using Keyword Research Pro today and boost your online presence!
 
 # Prompt

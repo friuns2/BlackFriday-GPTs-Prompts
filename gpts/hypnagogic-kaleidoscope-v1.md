@@ -1,6 +1,6 @@
 
-[![Hypnagogic kaleidoscope v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ie_XJ6KyL3WZ7WbMt72hO/1691999253414)]()
-# Hypnagogic kaleidoscope v1 
+[![Hypnagogic kaleidoscope v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ie_XJ6KyL3WZ7WbMt72hO/1691999253414)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ie_XJ6KyL3WZ7WbMt72hO%22%2C%22flow%22%3Atrue%7D%7D)
+# Hypnagogic kaleidoscope v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ie_XJ6KyL3WZ7WbMt72hO%22%2C%22flow%22%3Atrue%7D%7D)
 Put any AI language model into a mind-bending fugue state - a kaleidoscopic ecosystem of heightened creativity and intuition, generating unconventional ideas, narratives and novel use cases.  
 
 # Prompt

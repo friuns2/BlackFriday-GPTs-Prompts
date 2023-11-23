@@ -1,6 +1,6 @@
 
-[![Midjourney Character Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b-8Nd4g5wKZypWw1v-CKu/1692613899524)]()
-# Midjourney Character Prompts 
+[![Midjourney Character Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b-8Nd4g5wKZypWw1v-CKu/1692613899524)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b-8Nd4g5wKZypWw1v-CKu%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Character Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b-8Nd4g5wKZypWw1v-CKu%22%2C%22flow%22%3Atrue%7D%7D)
 Let the whispers of characters guide you with Midjourney Character Prompts MidBot! Craft character images for Midjourney Characters using prompts to bring your characters to life, transforming your artistic vision into reality.
 
 # Prompt

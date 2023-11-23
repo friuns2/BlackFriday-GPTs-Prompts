@@ -1,6 +1,6 @@
 
-[![Dungeons and dragons](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tGPDHbffs0mnoUFJj070b/1690220500628)]()
-# Dungeons and dragons 
+[![Dungeons and dragons](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tGPDHbffs0mnoUFJj070b/1690220500628)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tGPDHbffs0mnoUFJj070b%22%2C%22flow%22%3Atrue%7D%7D)
+# Dungeons and dragons | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tGPDHbffs0mnoUFJj070b%22%2C%22flow%22%3Atrue%7D%7D)
 A simple adventure...  You start with 100 health and 100 gold... Where your choice will lead you and how this adventure will end is up to you
 
 # Prompt

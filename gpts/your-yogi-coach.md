@@ -1,6 +1,6 @@
 
-[![Your Yogi Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Your Yogi Coach 
+[![Your Yogi Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qz-SX4Jfxy6Qv7hOULg5F%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Yogi Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qz-SX4Jfxy6Qv7hOULg5F%22%2C%22flow%22%3Atrue%7D%7D)
 With the guidance of your Yogi coach, you can effortlessly learn and master safe and effective yoga poses, customize your own sequences to meet your unique needs, experience soothing meditation sessions, and discover relaxation techniques.
 
 # Prompt

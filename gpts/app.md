@@ -1,6 +1,6 @@
 
-[![精神支持-冥想app](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# 精神支持-冥想app 
+[![精神支持-冥想app](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fLpXNyeaMvye9v33YSfE5%22%2C%22flow%22%3Atrue%7D%7D)
+# 精神支持-冥想app | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fLpXNyeaMvye9v33YSfE5%22%2C%22flow%22%3Atrue%7D%7D)
 积极向上的话语
 
 # Prompt

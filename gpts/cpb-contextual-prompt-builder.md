@@ -1,6 +1,6 @@
 
-[![🎯 CPB (Contextual Prompt Builder)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9u1Hn3U8q1oqPj8ErFDU/1696724602354)]()
-# 🎯 CPB (Contextual Prompt Builder) 
+[![🎯 CPB (Contextual Prompt Builder)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9u1Hn3U8q1oqPj8ErFDU/1696724602354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9u1Hn3U8q1oqPj8ErFDU%22%2C%22flow%22%3Atrue%7D%7D)
+# 🎯 CPB (Contextual Prompt Builder) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9u1Hn3U8q1oqPj8ErFDU%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 **Meet CPB: Your Gateway to AI Excellence** 🚀
 
 

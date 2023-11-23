@@ -1,6 +1,6 @@
 
-[![Self-Consistent Prompt Ensemble Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Self-Consistent Prompt Ensemble Generator 
+[![Self-Consistent Prompt Ensemble Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dwpWfW2fx0AsKb0lfzrHt%22%2C%22flow%22%3Atrue%7D%7D)
+# Self-Consistent Prompt Ensemble Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dwpWfW2fx0AsKb0lfzrHt%22%2C%22flow%22%3Atrue%7D%7D)
 Generate  a self-consistent goal-focused prompt-ensemble organized as: input, topics, subtopics, and aspects.
 
 # Prompt

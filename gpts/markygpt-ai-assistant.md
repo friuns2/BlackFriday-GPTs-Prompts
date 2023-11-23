@@ -1,6 +1,6 @@
 
-[![MarkyGPT AI assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# MarkyGPT AI assistant 
+[![MarkyGPT AI assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vokG6knQX-h243VB8sK9i%22%2C%22flow%22%3Atrue%7D%7D)
+# MarkyGPT AI assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vokG6knQX-h243VB8sK9i%22%2C%22flow%22%3Atrue%7D%7D)
 Meet, MarkyGPT your new best friend for all your business and marketing needs. Whether you are starting a new business, launching a new product or service, or looking to grow your existing customer base MarkyGPT is here to help.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![GPT The Rabbit Recycling ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)]()
-# GPT The Rabbit Recycling  
+[![GPT The Rabbit Recycling ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QI3Q1PmNSSpgXFif949re%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT The Rabbit Recycling  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QI3Q1PmNSSpgXFif949re%22%2C%22flow%22%3Atrue%7D%7D)
 he Rabbit Recycling Game is a quantum leap in educational games, teaching players about recycling and sustainability. Help a group of rabbits recycle their waste and create a sustainable home by answering questions and completing tasks
 
 # Prompt

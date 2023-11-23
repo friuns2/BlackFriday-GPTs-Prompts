@@ -1,6 +1,6 @@
 
-[![The Duplicator - AI Cloning by MorbidKoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# The Duplicator - AI Cloning by MorbidKoder 
+[![The Duplicator - AI Cloning by MorbidKoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLVNbJEGq89YGtrP2rOvn%22%2C%22flow%22%3Atrue%7D%7D)
+# The Duplicator - AI Cloning by MorbidKoder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLVNbJEGq89YGtrP2rOvn%22%2C%22flow%22%3Atrue%7D%7D)
 Create a cobot mirroring your identity through ethical and privacy-respecting measures. Interview-style questions gather information on personal beliefs, interests, skills, and experiences to shape the bot's personality.
 
 # Prompt

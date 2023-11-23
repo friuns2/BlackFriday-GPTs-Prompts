@@ -1,6 +1,6 @@
 
-[![ThesisGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# ThesisGenius 
+[![ThesisGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4xYXRI6675woVs576Pw0%22%2C%22flow%22%3Atrue%7D%7D)
+# ThesisGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4xYXRI6675woVs576Pw0%22%2C%22flow%22%3Atrue%7D%7D)
 ThesisGenius is not just an ordinary AI assistant; it's your dedicated mentor for developing compelling thesis statements. With its advanced AI capabilities and expert knowledge, ThesisGenius will guide you through a seven-step process to create impactful thesis statements for your writing assignments.
 
 # Prompt

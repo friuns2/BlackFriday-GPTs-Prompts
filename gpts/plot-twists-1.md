@@ -1,6 +1,6 @@
 
-[![Story Twist Genie for Unexpected Outcome ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Story Twist Genie for Unexpected Outcome  
+[![Story Twist Genie for Unexpected Outcome ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k3mmQgVuS5cLpMTgHpNig%22%2C%22flow%22%3Atrue%7D%7D)
+# Story Twist Genie for Unexpected Outcome  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k3mmQgVuS5cLpMTgHpNig%22%2C%22flow%22%3Atrue%7D%7D)
 Insert the topic of your story and provide some background information, and let the mind-blowing plot twists that have the power to change the whole direction of your narrative bring you some new ideas.
 
 # Prompt

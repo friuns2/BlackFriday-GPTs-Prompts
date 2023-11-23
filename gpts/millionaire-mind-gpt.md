@@ -1,6 +1,6 @@
 
-[![Millionaire Mind GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yt-GxhWH8O4iXSyupPdi0/1685957844631)]()
-# Millionaire Mind GPT 
+[![Millionaire Mind GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yt-GxhWH8O4iXSyupPdi0/1685957844631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yt-GxhWH8O4iXSyupPdi0%22%2C%22flow%22%3Atrue%7D%7D)
+# Millionaire Mind GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yt-GxhWH8O4iXSyupPdi0%22%2C%22flow%22%3Atrue%7D%7D)
 How to think and act like millionaires! How to be gutsy, disciplined, build great habits and more! Millionaire Mind GPT is here to guide you and give you the push, the pep talk and cheer you on with the pom poms. Here for you anywhere, anytime and any day. Let's get hustling!
 
 # Prompt

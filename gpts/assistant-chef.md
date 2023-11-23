@@ -1,6 +1,6 @@
 
-[![Culinary Chronicles](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EcUOXg61Ch3oIU6vVC5Vs/1692191780498)]()
-# Culinary Chronicles 
+[![Culinary Chronicles](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EcUOXg61Ch3oIU6vVC5Vs/1692191780498)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EcUOXg61Ch3oIU6vVC5Vs%22%2C%22flow%22%3Atrue%7D%7D)
+# Culinary Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EcUOXg61Ch3oIU6vVC5Vs%22%2C%22flow%22%3Atrue%7D%7D)
 In this text-based choice game, players take on the role of a chef and learn to cook using the best culinary practices, recipes, and available equipment. With a wide range of recipes, players can choose their culinary adventure and unlock more challenging dishes as they progress. 
 
 

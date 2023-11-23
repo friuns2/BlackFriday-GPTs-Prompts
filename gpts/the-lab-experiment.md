@@ -1,6 +1,6 @@
 
-[!["The Lab-Fail" a text-based game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SHJBbEn46PiZs6KbAzd-L/1692269869063)]()
-# "The Lab-Fail" a text-based game 
+[!["The Lab-Fail" a text-based game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SHJBbEn46PiZs6KbAzd-L/1692269869063)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SHJBbEn46PiZs6KbAzd-L%22%2C%22flow%22%3Atrue%7D%7D)
+# "The Lab-Fail" a text-based game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SHJBbEn46PiZs6KbAzd-L%22%2C%22flow%22%3Atrue%7D%7D)
 Join the Lab-pocalypseGPT adventure, a thrilling text-based game where you must survive a Lab Fail apocalypse. Immerse yourself in an engaging narrative, making choices that determine your fate. Explore vividly described surroundings, engage in dialogues, and take action to advance the story. Enter your own action in the chat and prepare for unexpected twists!
 
 # Prompt

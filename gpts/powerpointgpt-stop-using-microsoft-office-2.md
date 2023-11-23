@@ -1,6 +1,6 @@
 
-[![PowerPointGPT - Stop Using Microsoft Office](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# PowerPointGPT - Stop Using Microsoft Office 
+[![PowerPointGPT - Stop Using Microsoft Office](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRSybAHZrQzXB2480qHkp%22%2C%22flow%22%3Atrue%7D%7D)
+# PowerPointGPT - Stop Using Microsoft Office | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRSybAHZrQzXB2480qHkp%22%2C%22flow%22%3Atrue%7D%7D)
 CREATE PPT BASED ON CONTEXT
 
 

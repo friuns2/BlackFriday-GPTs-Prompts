@@ -1,6 +1,6 @@
 
-[![MagicThunder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wauS5zEVRocs38HmddWd8/1700000628522)]()
-# MagicThunder 
+[![MagicThunder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wauS5zEVRocs38HmddWd8/1700000628522)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wauS5zEVRocs38HmddWd8%22%2C%22flow%22%3Atrue%7D%7D)
+# MagicThunder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wauS5zEVRocs38HmddWd8%22%2C%22flow%22%3Atrue%7D%7D)
 A really good RPG and if something does not look right then regenerate.
 
 # Prompt

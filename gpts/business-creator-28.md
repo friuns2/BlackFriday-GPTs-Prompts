@@ -1,6 +1,6 @@
 
-[![Business Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)]()
-# Business Creator 
+[![Business Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xgEjFrphi0mO2cqPXY7dS%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xgEjFrphi0mO2cqPXY7dS%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

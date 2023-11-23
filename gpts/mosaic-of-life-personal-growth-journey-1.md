@@ -1,6 +1,6 @@
 
-[![Mosaic of Life: Personal Growth Journey (Novel Framework)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)]()
-# Mosaic of Life: Personal Growth Journey (Novel Framework) 
+[![Mosaic of Life: Personal Growth Journey (Novel Framework)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYAYLA2j2XCiC-AmsiP_Y%22%2C%22flow%22%3Atrue%7D%7D)
+# Mosaic of Life: Personal Growth Journey (Novel Framework) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYAYLA2j2XCiC-AmsiP_Y%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with Mosaic Journey. Discover the core values and passions that define your life's purpose. Explore your boundaries and standards, and weave together the diverse pieces of your life mosaic. Connect with the people who bridge different areas of your life, and identify the missing experiences, people, or traits. Mosaic Journey is your safe space to reflect, grow, and create a meaningful picture of your life.
 
 # Prompt

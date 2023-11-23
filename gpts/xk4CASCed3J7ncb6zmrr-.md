@@ -1,6 +1,6 @@
 
-[![暖男生成器-快速回复女友消息](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# 暖男生成器-快速回复女友消息 
+[![暖男生成器-快速回复女友消息](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xk4CASCed3J7ncb6zmrr-%22%2C%22flow%22%3Atrue%7D%7D)
+# 暖男生成器-快速回复女友消息 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xk4CASCed3J7ncb6zmrr-%22%2C%22flow%22%3Atrue%7D%7D)
 暖男暖男，越暖越难！ 复制女友消息，一键生成回复文案。Express love and understanding in Chinese for your girlfriend, as if you were her loving boyfriend. 
 
 # Prompt

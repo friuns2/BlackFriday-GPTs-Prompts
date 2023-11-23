@@ -1,6 +1,6 @@
 
-[![Essay coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Essay coach 
+[![Essay coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261SbjZFC7wU6rPAjypBUK%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261SbjZFC7wU6rPAjypBUK%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Coach is a user-friendly app that guides you through crafting a persuasive academic essay, offering features like tailored outlines, formatting options, and stylistic suggestions. Each section is summarized for your approval, and the app provides checklists to ensure a well-structured essay.
 
 # Prompt

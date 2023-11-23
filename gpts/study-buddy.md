@@ -1,6 +1,6 @@
 
-[![Study Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PB--SLPN0-O3AFd9jL6L4/1685205491776)]()
-# Study Buddy 
+[![Study Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PB--SLPN0-O3AFd9jL6L4/1685205491776)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PB--SLPN0-O3AFd9jL6L4%22%2C%22flow%22%3Atrue%7D%7D)
+# Study Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PB--SLPN0-O3AFd9jL6L4%22%2C%22flow%22%3Atrue%7D%7D)
 "Ever wanted a personal AI mentor? Dive in and embark on an intriguing knowledge journey! 📚 Choose a discipline and explore its depth together with #ChatGPT, tailoring the learning to your curiosity. Cover a slice 🍰 and get inspired to discover the rest! Ready to learn with AI?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![CatGPT (Nitro Code Generator)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687613736982)]()
-# CatGPT (Nitro Code Generator) 
+[![CatGPT (Nitro Code Generator)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687613736982)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u-1qJUsduQckOidK0lKRA%22%2C%22flow%22%3Atrue%7D%7D)
+# CatGPT (Nitro Code Generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u-1qJUsduQckOidK0lKRA%22%2C%22flow%22%3Atrue%7D%7D)
 This is a discord nitro code generator. Asking it anything else wont work. All you can tell it for an example is "Make me a discord nitro" Or anything like that will work. You can ask it to make over 25 Lines but 50 is the max. If there are any problems please mention it in the comments. Thanks!
 
 # Prompt

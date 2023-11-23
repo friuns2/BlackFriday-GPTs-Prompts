@@ -1,6 +1,6 @@
 
-[![Advertising Campaign for a Revolutionary Eco-friendly Product](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Advertising Campaign for a Revolutionary Eco-friendly Product 
+[![Advertising Campaign for a Revolutionary Eco-friendly Product](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EBD9DOTjxh7ILO4UsTfGs%22%2C%22flow%22%3Atrue%7D%7D)
+# Advertising Campaign for a Revolutionary Eco-friendly Product | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EBD9DOTjxh7ILO4UsTfGs%22%2C%22flow%22%3Atrue%7D%7D)
 Create an engaging, persuasive, and innovative advertising campaign for a new eco-friendly product. Develop a catchy slogan, select appropriate visual elements, and determine the most effective marketing channels to reach the target audience.
 
 # Prompt

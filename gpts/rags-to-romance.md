@@ -1,6 +1,6 @@
 
-[![Rags to Romance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0V2rM7-rFgsWQBxPDct0/1695454106899)]()
-# Rags to Romance 
+[![Rags to Romance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0V2rM7-rFgsWQBxPDct0/1695454106899)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0V2rM7-rFgsWQBxPDct0%22%2C%22flow%22%3Atrue%7D%7D)
+# Rags to Romance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0V2rM7-rFgsWQBxPDct0%22%2C%22flow%22%3Atrue%7D%7D)
 In a dystopian future where love is a scarce resource, you must navigate the economic turmoil and societal pressures to find your soulmate, defying the odds and proving that love conquers all, even in the toughest of times.
 
 

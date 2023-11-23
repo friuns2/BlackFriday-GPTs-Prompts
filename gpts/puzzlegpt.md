@@ -1,6 +1,6 @@
 
-[![PuzzleGPT   ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# PuzzleGPT    
+[![PuzzleGPT   ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnvdE1yzIpX4LOjNN5dPq%22%2C%22flow%22%3Atrue%7D%7D)
+# PuzzleGPT    | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnvdE1yzIpX4LOjNN5dPq%22%2C%22flow%22%3Atrue%7D%7D)
 PuzzleGPT is a gaming platform chatbot designed to assist players with puzzle games. With its advanced AI technology, PuzzleGPT can offer hints and tips, suggest different strategies, and even provide step-by-step solutions to tricky puzzles. Whether you're a fan of Sudoku, crossword puzzles, or other popular games, PuzzleGPT has got you covered.
 
 # Prompt

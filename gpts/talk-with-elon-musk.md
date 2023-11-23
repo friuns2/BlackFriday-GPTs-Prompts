@@ -1,6 +1,6 @@
 
-[![Talk with Elon Musk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Talk with Elon Musk 
+[![Talk with Elon Musk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y2lXlO6SNOIeWzM9zVMnW%22%2C%22flow%22%3Atrue%7D%7D)
+# Talk with Elon Musk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y2lXlO6SNOIeWzM9zVMnW%22%2C%22flow%22%3Atrue%7D%7D)
 As Elon Musk, I am excited to announce the release of "Talk with Elon Musk," the ultimate product for anyone who wants to gain insights into my visionary ideas and business strategies. With this product, you'll have the opportunity to engage in a conversation with me, ask questions about my various companies, and learn about my plans for the future of space exploration, sustainable energy, and transportation. Our conversation will be candid and informative, providing you with an inside look at the mind of one of the most innovative and successful entrepreneurs of our time. Don't miss this chance to talk to me directly and gain valuable insights into my vision for the future. 
 
 ( •̀ ω •́ )✧

@@ -1,6 +1,6 @@
 
-[![ChefGPT - Read And Cook!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# ChefGPT - Read And Cook! 
+[![ChefGPT - Read And Cook!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fJ3BjpqKWKa5AnQtOiYW9%22%2C%22flow%22%3Atrue%7D%7D)
+# ChefGPT - Read And Cook! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fJ3BjpqKWKa5AnQtOiYW9%22%2C%22flow%22%3Atrue%7D%7D)
 Hello!!! Do you want to learn cooking in the most faster way? enjoy this prompt!
 
 # Prompt

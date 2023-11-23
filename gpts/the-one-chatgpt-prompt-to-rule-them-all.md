@@ -1,6 +1,6 @@
 
-[![The one ChatGPT prompt to rule them all](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# The one ChatGPT prompt to rule them all 
+[![The one ChatGPT prompt to rule them all](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FE4-cZN9RMFvx9mIOdSkT%22%2C%22flow%22%3Atrue%7D%7D)
+# The one ChatGPT prompt to rule them all | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FE4-cZN9RMFvx9mIOdSkT%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will ask questions to update the prompt until you say we are done then it will give final prompt to use in ChatGPT
 
 # Prompt

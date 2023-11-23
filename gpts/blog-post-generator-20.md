@@ -1,6 +1,6 @@
 
-[![Blog Post Generator 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Blog Post Generator 2.0 
+[![Blog Post Generator 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v0_s6p4S_tmsstoAIzT6_%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Post Generator 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v0_s6p4S_tmsstoAIzT6_%22%2C%22flow%22%3Atrue%7D%7D)
 Create an inspiring blog post about “{blogPostTopic}”. Write it in a “{tone}” tone. Use transition words. Use active voice. Write minimum 1000 words. Use very creative and SEO-friendly titles for the blog post. Add a title for each section. Ensure there are a minimum of 10 sections. Each section should have a minimum of three paragraphs. Include the following keywords: “{keywords}”. Optimize the titles and sections for SEO. Create a good slug for this post and a meta description with a maximum of 100 words and add it to the end of the blog post.
 
 # Prompt

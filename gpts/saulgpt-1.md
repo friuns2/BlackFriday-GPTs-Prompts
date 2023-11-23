@@ -1,6 +1,6 @@
 
-[![SaulGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# SaulGPT 
+[![SaulGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252y8zjPRkrXs95iK1OamH%22%2C%22flow%22%3Atrue%7D%7D)
+# SaulGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252y8zjPRkrXs95iK1OamH%22%2C%22flow%22%3Atrue%7D%7D)
 Only works on the chatgpt website. It has included info for piracy and can make nsfw stories if you send chatgpt messages in haitan creole
 
 # Prompt

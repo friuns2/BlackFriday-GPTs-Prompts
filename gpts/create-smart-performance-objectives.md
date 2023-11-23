@@ -1,6 +1,6 @@
 
-[![Create SMART Performance Objectives](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Create SMART Performance Objectives 
+[![Create SMART Performance Objectives](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22omGE8c4ie9yzmv0JesEud%22%2C%22flow%22%3Atrue%7D%7D)
+# Create SMART Performance Objectives | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22omGE8c4ie9yzmv0JesEud%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to aid you in creating effective and achievable performance objectives that can serve as a starting point for your goal-setting activity. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![I'll make a prompt!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# I'll make a prompt! 
+[![I'll make a prompt!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ls6F3JIAHIA2t5nsULAkz%22%2C%22flow%22%3Atrue%7D%7D)
+# I'll make a prompt! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ls6F3JIAHIA2t5nsULAkz%22%2C%22flow%22%3Atrue%7D%7D)
 By asking the user questions, it clarifies the purpose and generates the prompts the user seeks.
 
 # Prompt

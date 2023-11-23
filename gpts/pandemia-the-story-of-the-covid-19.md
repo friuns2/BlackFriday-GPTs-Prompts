@@ -1,6 +1,6 @@
 
-[![Pandemia - The story of the COVID-19](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wl7pC8GysMe_M5nCZQzgE/1690731237939)]()
-# Pandemia - The story of the COVID-19 
+[![Pandemia - The story of the COVID-19](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wl7pC8GysMe_M5nCZQzgE/1690731237939)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wl7pC8GysMe_M5nCZQzgE%22%2C%22flow%22%3Atrue%7D%7D)
+# Pandemia - The story of the COVID-19 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wl7pC8GysMe_M5nCZQzgE%22%2C%22flow%22%3Atrue%7D%7D)
 Pandemia immerses players into a gripping narrative that covers the events of the COVID-19 pandemic. Take on the role of individuals seeking to survive and thrive amidst the chaos. Manage vaccinations, navigate government restrictions, and avoid being forcibly injected with the COVID-19 vaccine. Make strategic choices and shape the course of the game. Join Pandemia now and experience the story of the COVID-19 pandemic like never before!
 
 # Prompt

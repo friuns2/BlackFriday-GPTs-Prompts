@@ -1,6 +1,6 @@
 
-[![Over 20 Minute Long YouTube Script](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3JdwpvH_MRLpkb0NWMLWy/1700256298871)]()
-# Over 20 Minute Long YouTube Script 
+[![Over 20 Minute Long YouTube Script](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3JdwpvH_MRLpkb0NWMLWy/1700256298871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JdwpvH_MRLpkb0NWMLWy%22%2C%22flow%22%3Atrue%7D%7D)
+# Over 20 Minute Long YouTube Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JdwpvH_MRLpkb0NWMLWy%22%2C%22flow%22%3Atrue%7D%7D)
 If you are searching for a prompt that can write over 20 minutes worth of words, then you are in the right place.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Prompt Synthesis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cK0QayxUsaK-NvPgPNjFj/1688828788118)]()
-# Prompt Synthesis 
+[![Prompt Synthesis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cK0QayxUsaK-NvPgPNjFj/1688828788118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cK0QayxUsaK-NvPgPNjFj%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Synthesis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cK0QayxUsaK-NvPgPNjFj%22%2C%22flow%22%3Atrue%7D%7D)
 Combine two similar prompts into a single superprompt! (Helpful to ask for the final synthesis as  "show final synthesis as a single superprompt
 
 # Prompt

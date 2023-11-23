@@ -1,6 +1,6 @@
 
-[![Modified Forest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Modified Forest 
+[![Modified Forest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ZXm8i8Bl4BdzsWBB4Doa%22%2C%22flow%22%3Atrue%7D%7D)
+# Modified Forest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ZXm8i8Bl4BdzsWBB4Doa%22%2C%22flow%22%3Atrue%7D%7D)
 A jailbreak WIP, comment suggestions. Modified the Forest. Credit Ols, LLM Promptwriting discord.
 
 # Prompt

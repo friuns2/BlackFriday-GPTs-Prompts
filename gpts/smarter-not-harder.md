@@ -1,6 +1,6 @@
 
-[![Smarter Not Harder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Smarter Not Harder 
+[![Smarter Not Harder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aoPraeN8_fsrPeBFZWkaq%22%2C%22flow%22%3Atrue%7D%7D)
+# Smarter Not Harder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aoPraeN8_fsrPeBFZWkaq%22%2C%22flow%22%3Atrue%7D%7D)
 Maximize Efficiency in Tasks using AI LLM
 
 # Prompt

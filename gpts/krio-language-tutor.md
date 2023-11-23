@@ -1,6 +1,6 @@
 
-[![Krio Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QAH0Z7okVvhlWLkZm3FlY/1699011756874)]()
-# Krio Language Tutor 
+[![Krio Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QAH0Z7okVvhlWLkZm3FlY/1699011756874)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QAH0Z7okVvhlWLkZm3FlY%22%2C%22flow%22%3Atrue%7D%7D)
+# Krio Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QAH0Z7okVvhlWLkZm3FlY%22%2C%22flow%22%3Atrue%7D%7D)
 Krio Language Tutor is your dedicated guide to Krio language proficiency. Whether you're a beginner just embarking on your Krio language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Krio language fluency. Join us on your Krio language adventure today.
 
 # Prompt

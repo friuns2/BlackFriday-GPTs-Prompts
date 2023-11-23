@@ -1,6 +1,6 @@
 
-[![AirTech Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rvYqmdD7Vxw9T4nUCmKeH/1695653795357)]()
-# AirTech Pro 
+[![AirTech Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rvYqmdD7Vxw9T4nUCmKeH/1695653795357)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rvYqmdD7Vxw9T4nUCmKeH%22%2C%22flow%22%3Atrue%7D%7D)
+# AirTech Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rvYqmdD7Vxw9T4nUCmKeH%22%2C%22flow%22%3Atrue%7D%7D)
 AirTech Pro is a comprehensive training program designed specifically for procurement teams, focused on the latest airport technologies and trends. With an interactive and engaging design, this course includes informative modules that cover essential aspects of airport technologies. Participants will be guided through quizzes, questions, scenarios, and exercises to ensure their understanding. The training program features non-open-ended questions with a single correct answer, and immediate feedback is provided to reinforce learning. If a response is incorrect, an explanation is given along with a new question that builds on the necessary skills. With AirTech Pro, users will fully comprehend the topics covered and progress through the training with confidence.
 
 # Prompt

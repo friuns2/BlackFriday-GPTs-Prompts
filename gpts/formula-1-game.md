@@ -1,6 +1,6 @@
 
-[![Formula 1 game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QRuoZs-TjYmWXG9COLQEu/1690562678376)]()
-# Formula 1 game 
+[![Formula 1 game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QRuoZs-TjYmWXG9COLQEu/1690562678376)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRuoZs-TjYmWXG9COLQEu%22%2C%22flow%22%3Atrue%7D%7D)
+# Formula 1 game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRuoZs-TjYmWXG9COLQEu%22%2C%22flow%22%3Atrue%7D%7D)
 You have to win the race!
 
 # Prompt

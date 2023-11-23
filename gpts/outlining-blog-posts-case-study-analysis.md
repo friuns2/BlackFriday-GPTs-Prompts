@@ -1,6 +1,6 @@
 
-[![Outlining Blog Posts - Case Study Analysis ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Outlining Blog Posts - Case Study Analysis  
+[![Outlining Blog Posts - Case Study Analysis ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EKLAMuVLwY6NTwPXGIykz%22%2C%22flow%22%3Atrue%7D%7D)
+# Outlining Blog Posts - Case Study Analysis  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EKLAMuVLwY6NTwPXGIykz%22%2C%22flow%22%3Atrue%7D%7D)
 Generating a structured outline for a case study analysis
 
 # Prompt

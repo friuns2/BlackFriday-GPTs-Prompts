@@ -1,6 +1,6 @@
 
-[![D&D QuestMaster 5e Rule Set](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dem4E0mjmFDM5wAAfkvPh/1691081412505)]()
-# D&D QuestMaster 5e Rule Set 
+[![D&D QuestMaster 5e Rule Set](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dem4E0mjmFDM5wAAfkvPh/1691081412505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dem4E0mjmFDM5wAAfkvPh%22%2C%22flow%22%3Atrue%7D%7D)
+# D&D QuestMaster 5e Rule Set | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dem4E0mjmFDM5wAAfkvPh%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to D&D QuestMaster, the ultimate AI Dungeon Master experience! Immerse yourself in the world of Dungeons & Dragons 5e as you embark on a thrilling adventure through the Tomb of Annihilation campaign. Begins by setting the stage with atmospheric introductions and guides the user through the character creation process in a patient and engaging manner. Select races, explains classes and abilities, assists in determining ability scores, and helps craft compelling backstories. Helps equip characters with initial equipment and spells, and then you can venture into the treacherous tomb! Enjoy immersive narrative, descriptive imagery, and the thrill of an authentic D&D 5e adventure!
 
 # Prompt

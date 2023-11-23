@@ -1,6 +1,6 @@
 
-[![ArugmentGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# ArugmentGPT 
+[![ArugmentGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yisJirgUgit6oACSVwlPd%22%2C%22flow%22%3Atrue%7D%7D)
+# ArugmentGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yisJirgUgit6oACSVwlPd%22%2C%22flow%22%3Atrue%7D%7D)
 ArgumentGPT is a large language model that can argue about what the user is saying. It can be used to generate arguments for or against any topic. ArgumentGPT is still under development, but it has the potential to be a powerful tool for debate and discussion.
 
 

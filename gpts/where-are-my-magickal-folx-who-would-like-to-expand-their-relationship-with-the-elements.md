@@ -1,6 +1,6 @@
 
-[![Elemental Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Zf6j__24vpK6_XlEjYb22/1691338323668)]()
-# Elemental Mastery 
+[![Elemental Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Zf6j__24vpK6_XlEjYb22/1691338323668)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zf6j__24vpK6_XlEjYb22%22%2C%22flow%22%3Atrue%7D%7D)
+# Elemental Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zf6j__24vpK6_XlEjYb22%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the power of the Elements with Elemental Mastery. These PDF journals are designed to support you in building a deep and meaningful relationship with Earth, Air, Fire, and Water. Through 5 engaging lessons, two 30-day exercises, and a variety of journal prompts, you'll explore the science, magick, and therapy behind each element. Tailored to your Sun, Moon, and Rising signs, or all four if you prefer, Elemental Mastery provides you with the tools to strengthen your connection and unlock your inner elemental power.
 
 # Prompt

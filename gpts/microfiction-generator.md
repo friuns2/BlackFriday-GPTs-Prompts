@@ -1,6 +1,6 @@
 
-[![Microfiction Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Microfiction Generator 
+[![Microfiction Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m9tnvymf0-m5DKkaVNCYp%22%2C%22flow%22%3Atrue%7D%7D)
+# Microfiction Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m9tnvymf0-m5DKkaVNCYp%22%2C%22flow%22%3Atrue%7D%7D)
 Create microfictions for any occasion with this easy template. Simply replace the inputs with desired information to have A.I. produce a well-written work.
 
 # Prompt

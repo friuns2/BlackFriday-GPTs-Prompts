@@ -1,6 +1,6 @@
 
-[![AdventureForge: Your Personalized RPG Quest Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# AdventureForge: Your Personalized RPG Quest Creator 
+[![AdventureForge: Your Personalized RPG Quest Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxWiMrpKiA3PnoKVNmr1E%22%2C%22flow%22%3Atrue%7D%7D)
+# AdventureForge: Your Personalized RPG Quest Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VxWiMrpKiA3PnoKVNmr1E%22%2C%22flow%22%3Atrue%7D%7D)
 Are you an RPG fan searching for a world full of thrilling quests and unique characters? Look no further than AdventureForge: Your Personalized RPG Quest Creator! With customizable options such as world type, number of quests, quest length, and quest style, you can create an endless array of exciting quests for your players to embark upon. Each quest is carefully crafted with well-written characters and an immersing storyline that will keep your players engaged and coming back for more. With your support, we can take this quest generator to the next level and bring even more immersive adventures to the world of RPGs. Join us on this journey, and let's create something truly unforgettable.
 
 # Prompt

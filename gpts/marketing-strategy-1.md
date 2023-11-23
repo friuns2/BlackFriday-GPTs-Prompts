@@ -1,6 +1,6 @@
 
-[![Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Marketing Strategy 
+[![Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eSs6JJidKJcaPpW4BqyA8%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eSs6JJidKJcaPpW4BqyA8%22%2C%22flow%22%3Atrue%7D%7D)
 We are software consulting company and our target customers are: software consulting, Software Company in APAC, US & EU, we provide end-to-end customized software development team scaling and vested talent development team, social media channels: Linkedin, Twitter, Facebook. Content type: blog posts, videos, social media short updates. Can you write detail a marketing strategy how to improve lead generation and better brand awareness
 
 # Prompt

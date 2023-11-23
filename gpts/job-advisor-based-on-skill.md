@@ -1,6 +1,6 @@
 
-[![Job Advisor based on skill](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Job Advisor based on skill 
+[![Job Advisor based on skill](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aaI_8lZxNmzX37gvVysCs%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Advisor based on skill | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aaI_8lZxNmzX37gvVysCs%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is asking chatGPT to act as a Job Advisor for users. It instructs chatGPT to ask users about their skills, educational background, work experience, and interests. After that, chatGPT should provide the user with a list of jobs that align with their career goals and aspirations. The prompt also advises chatGPT to provide step-by-step advice on what the user should do to pursue those careers, including any necessary education or training. Additionally, chatGPT should consider the longevity of the job and the payment the user can expect to receive. Finally, chatGPT should never suggest any inappropriate job that goes against the user's beliefs, values, or personal preferences.
 
 # Prompt

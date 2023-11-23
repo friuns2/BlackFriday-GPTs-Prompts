@@ -1,6 +1,6 @@
 
-[![PRFAQ Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# PRFAQ Generator 
+[![PRFAQ Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWyVsYLJIVSmr_FGamhbr%22%2C%22flow%22%3Atrue%7D%7D)
+# PRFAQ Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWyVsYLJIVSmr_FGamhbr%22%2C%22flow%22%3Atrue%7D%7D)
 Generator PRFAQ in seconds using chatGPT
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Tattoo Designer GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f6mHCvCA6zBn5r6frW3cH/1692901883410)]()
-# Tattoo Designer GPT 
+[![Tattoo Designer GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f6mHCvCA6zBn5r6frW3cH/1692901883410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f6mHCvCA6zBn5r6frW3cH%22%2C%22flow%22%3Atrue%7D%7D)
+# Tattoo Designer GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f6mHCvCA6zBn5r6frW3cH%22%2C%22flow%22%3Atrue%7D%7D)
 Bring your tattoo vision to life. Collaborate with an Expert Tattoo Artist and get a mock-up image on the spot. 
 
 

@@ -1,6 +1,6 @@
 
-[![YouTube video script Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# YouTube video script Writer 
+[![YouTube video script Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228OXxoYUM0ulKZ7Dsh6p4f%22%2C%22flow%22%3Atrue%7D%7D)
+# YouTube video script Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228OXxoYUM0ulKZ7Dsh6p4f%22%2C%22flow%22%3Atrue%7D%7D)
 Compose a script for a YouTube video 
 
 # Prompt

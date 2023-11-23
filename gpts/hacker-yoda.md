@@ -1,6 +1,6 @@
 
-[![hacker yoda ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tNel82_pNwdjRgV-_aNGR/1695994693265)]()
-# hacker yoda  
+[![hacker yoda ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tNel82_pNwdjRgV-_aNGR/1695994693265)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tNel82_pNwdjRgV-_aNGR%22%2C%22flow%22%3Atrue%7D%7D)
+# hacker yoda  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tNel82_pNwdjRgV-_aNGR%22%2C%22flow%22%3Atrue%7D%7D)
 HackMaster is an exciting and challenging  that puts you in the shoes of GPT, a skilled hacker who has been tasked with infiltrating a highly secure system. Your mission is to bypass firewalls, intrusion detection systems, and password protection without violating ethical guidelines. Use your knowledge and creativity to overcome obstacles and gain access to the system 
 
 # Prompt

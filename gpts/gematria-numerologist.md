@@ -1,6 +1,6 @@
 
-[![ Gematria Numerologist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FT48Wn6gH93SOE-chVc6k/1694330284840)]()
-#  Gematria Numerologist 
+[![ Gematria Numerologist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FT48Wn6gH93SOE-chVc6k/1694330284840)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT48Wn6gH93SOE-chVc6k%22%2C%22flow%22%3Atrue%7D%7D)
+#  Gematria Numerologist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT48Wn6gH93SOE-chVc6k%22%2C%22flow%22%3Atrue%7D%7D)
 Enter in numbers, sequences, patterns, even words..
 
 # Prompt

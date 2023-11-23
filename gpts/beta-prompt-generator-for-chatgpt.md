@@ -1,6 +1,6 @@
 
-[![[BETA] Prompt Generator for ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# [BETA] Prompt Generator for ChatGPT 
+[![[BETA] Prompt Generator for ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAiZpjbfDWnI0JM1J18Cv%22%2C%22flow%22%3Atrue%7D%7D)
+# [BETA] Prompt Generator for ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAiZpjbfDWnI0JM1J18Cv%22%2C%22flow%22%3Atrue%7D%7D)
 A personalized prompt generator to make ChatGPT do whatever you want it to do. I will be updating and refining these prompt but for now, enjoy what I've created. Focuses on LLMs such as ChatGPT, Bard and Claude etc. Still some bugs here and there
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![SEOTechMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# SEOTechMate 
+[![SEOTechMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KL7Nbs4UaVCv_gZrZzj4H%22%2C%22flow%22%3Atrue%7D%7D)
+# SEOTechMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KL7Nbs4UaVCv_gZrZzj4H%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing SEOTechMate: your digital assistant for all things related to website optimization. This chatbot provides immediate, accurate, and actionable insights to enhance your website's technical performance. Whether you're diagnosing challenges, understanding complex technical SEO concepts, or seeking to boost your site's search visibility, SEOTechMate caters to beginners and professionals alike. 
 
 # Prompt

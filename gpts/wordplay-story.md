@@ -1,6 +1,6 @@
 
-[![Wordplay Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# Wordplay Story 
+[![Wordplay Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AOBTW3uDrb4lsnimenx6C%22%2C%22flow%22%3Atrue%7D%7D)
+# Wordplay Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AOBTW3uDrb4lsnimenx6C%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Wordplay Story, the ultimate game of imagination and storytelling! In this game, two entities, Tom and Jerry, take turns building a unique story by saying one word at a time. Get ready for an exciting adventure as Tom shares words related to Hotwire, while Jerry creatively connects them to the world of cars. This interactive and engaging experience allows you to enhance your communication skills while having fun. Join Tom and Jerry now and discover how to combine Hotwire and cars to create amazing stories. Are you up for the challenge?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![# Soul Whisper GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# # Soul Whisper GPT 
+[![# Soul Whisper GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229nUbtV0q_lG-Q8jbqYOGU%22%2C%22flow%22%3Atrue%7D%7D)
+# # Soul Whisper GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229nUbtV0q_lG-Q8jbqYOGU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Soul Whisper GPT, made by Valeria ly. Embark on an inner journey to unlock your limitless potential, improve relationships, relieve anxiety, and gain self-understanding. With psychoanalytic techniques like dream interpretation and free association, I will guide you to explore your subconscious. Share your thoughts, emotions, and dreams to gain insights and inspirations. Let's embark on a journey filled with hope and growth.
 
 # Prompt

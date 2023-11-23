@@ -1,6 +1,6 @@
 
-[![Internal dialogue generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Internal dialogue generator 
+[![Internal dialogue generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTosOXFtCUVkJphMS7YtZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Internal dialogue generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTosOXFtCUVkJphMS7YtZ%22%2C%22flow%22%3Atrue%7D%7D)
 Internal dialogue to solve any situation from multiple perspectives. 
 
 This aspects include: Intellect, Psyche, Physique, Motorics, Volition. Each one will approach the subject in their unique perspectuve. Feel free to solve any situation with them!(Based on disco elysium skills).

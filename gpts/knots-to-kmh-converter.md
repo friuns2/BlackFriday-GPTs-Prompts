@@ -1,6 +1,6 @@
 
-[![Knots to Km/h Converter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686086699117)]()
-# Knots to Km/h Converter 
+[![Knots to Km/h Converter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686086699117)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bri4G1frqBuu3I5RkadCb%22%2C%22flow%22%3Atrue%7D%7D)
+# Knots to Km/h Converter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bri4G1frqBuu3I5RkadCb%22%2C%22flow%22%3Atrue%7D%7D)
 A short prompt to convert easily knots into km/h. So you can forecast the wind speed before going to Narbonne.
 
 # Prompt

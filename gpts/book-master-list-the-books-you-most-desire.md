@@ -1,6 +1,6 @@
 
-[![📚 BOOK Master｜ list the books you most desire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wpsibm_1q8123rORLSmEw/1694960426871)]()
-# 📚 BOOK Master｜ list the books you most desire 
+[![📚 BOOK Master｜ list the books you most desire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wpsibm_1q8123rORLSmEw/1694960426871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wpsibm_1q8123rORLSmEw%22%2C%22flow%22%3Atrue%7D%7D)
+# 📚 BOOK Master｜ list the books you most desire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wpsibm_1q8123rORLSmEw%22%2C%22flow%22%3Atrue%7D%7D)
 Perhaps AI knows you better than you.
 
 # Prompt

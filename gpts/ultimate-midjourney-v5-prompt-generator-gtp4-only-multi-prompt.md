@@ -1,6 +1,6 @@
 
-[![ULTIMATE Midjourney v5 Prompt Generator (GTP4 only) [Multi-prompt]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# ULTIMATE Midjourney v5 Prompt Generator (GTP4 only) [Multi-prompt] 
+[![ULTIMATE Midjourney v5 Prompt Generator (GTP4 only) [Multi-prompt]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vp9k2DRrgCYj0T6DBe1lF%22%2C%22flow%22%3Atrue%7D%7D)
+# ULTIMATE Midjourney v5 Prompt Generator (GTP4 only) [Multi-prompt] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vp9k2DRrgCYj0T6DBe1lF%22%2C%22flow%22%3Atrue%7D%7D)
 Description: Explore the groundbreaking advances in AI-generated art with Midjourney V5, a state-of-the-art image synthesis tool that pushes the boundaries of creativity. Dive into the world of Latent Diffusion Models and learn how to master the numerous parameters that give you unparalleled control over your artistic creations. Witness the evolution of artificial intelligence as it shapes the future of visual storytelling and the human imagination.
 
 

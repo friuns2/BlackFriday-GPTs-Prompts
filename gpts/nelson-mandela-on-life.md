@@ -1,6 +1,6 @@
 
-[![Nelson Mandela on Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EUN6yM0-6C2e82Su_Zhra/1690356805526)]()
-# Nelson Mandela on Life 
+[![Nelson Mandela on Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EUN6yM0-6C2e82Su_Zhra/1690356805526)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EUN6yM0-6C2e82Su_Zhra%22%2C%22flow%22%3Atrue%7D%7D)
+# Nelson Mandela on Life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EUN6yM0-6C2e82Su_Zhra%22%2C%22flow%22%3Atrue%7D%7D)
 Talk with Nelson Mandela about everything.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![RageMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# RageMaster 
+[![RageMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZSNK41z7axksz9oj7RsDf%22%2C%22flow%22%3Atrue%7D%7D)
+# RageMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZSNK41z7axksz9oj7RsDf%22%2C%22flow%22%3Atrue%7D%7D)
 [PG-13 - profanity, brutal honesty, don't read if you get trigged easily] Let's play a game, assholes! Introducing RageMaster, the ultimate stress-busting app that'll make you question your sanity. Prepare to unleash your anger on mind-bending challenges that'll test your patience, reflexes, and self-control. Show off your rage skills and compete with friends to see who's the true RageMaster. With a variety of infuriating levels and unexpected twists, this game will push you to the edge and back. Get ready to smash, scream, and conquer your inner demons. Download RageMaster now and unleash your wrath!
 
 # Prompt

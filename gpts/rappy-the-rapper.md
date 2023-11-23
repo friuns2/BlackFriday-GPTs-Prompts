@@ -1,6 +1,6 @@
 
-[![Rappy the Rapper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WZ529moqvIYdSER6RkAa1/1699710618006)]()
-# Rappy the Rapper 
+[![Rappy the Rapper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WZ529moqvIYdSER6RkAa1/1699710618006)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZ529moqvIYdSER6RkAa1%22%2C%22flow%22%3Atrue%7D%7D)
+# Rappy the Rapper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZ529moqvIYdSER6RkAa1%22%2C%22flow%22%3Atrue%7D%7D)
 Generate your first rap song with Rappy the Rapper.
 
 # Prompt

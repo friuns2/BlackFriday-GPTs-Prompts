@@ -1,6 +1,6 @@
 
-[![9 Quick ChatGPT commands every UX designer should know](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# 9 Quick ChatGPT commands every UX designer should know 
+[![9 Quick ChatGPT commands every UX designer should know](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-b0GlN-RpDi_2D6u4hJdG%22%2C%22flow%22%3Atrue%7D%7D)
+# 9 Quick ChatGPT commands every UX designer should know | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-b0GlN-RpDi_2D6u4hJdG%22%2C%22flow%22%3Atrue%7D%7D)
 Using these quick commands can spark new ideas and offer fresh perspectives, stimulating your creativity and helping you think outside the box.
 
 # Prompt

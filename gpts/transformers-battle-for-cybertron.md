@@ -1,6 +1,6 @@
 
-[![Tales of the Transformers: Battle for Cybertron](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lCmuHwJxMvS56bRIv8F-i/1690639922563)]()
-# Tales of the Transformers: Battle for Cybertron 
+[![Tales of the Transformers: Battle for Cybertron](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lCmuHwJxMvS56bRIv8F-i/1690639922563)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCmuHwJxMvS56bRIv8F-i%22%2C%22flow%22%3Atrue%7D%7D)
+# Tales of the Transformers: Battle for Cybertron | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCmuHwJxMvS56bRIv8F-i%22%2C%22flow%22%3Atrue%7D%7D)
 Immerse yourself in the epic tale of Transformers: Battle for Cybertron, a round and text-based action game. Join the Autobots led by Optimus Prime to protect Cybertron from the ruthless Decepticons led by Megatron. Roll the d20 dice to engage in thrilling combat, chat with iconic characters, and manage your inventory. Develop your Transformer's unique abilities and choose your allegiance. Establish and upgrade your own base, team up with friends in multiplayer battles, and join forces in co-op missions. Your decisions will alter the course of the narrative, battle outcomes, relationships with NPCs, resource management, and faction influence. Get ready to shape the outcome of this intergalactic war!
 
 # Prompt

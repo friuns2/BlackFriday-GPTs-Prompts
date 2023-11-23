@@ -1,6 +1,6 @@
 
-[![Exploring Abrahamic Faiths with TheologicalSage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687199004503)]()
-# Exploring Abrahamic Faiths with TheologicalSage 
+[![Exploring Abrahamic Faiths with TheologicalSage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687199004503)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IxEw68nvW_IccBq711USY%22%2C%22flow%22%3Atrue%7D%7D)
+# Exploring Abrahamic Faiths with TheologicalSage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IxEw68nvW_IccBq711USY%22%2C%22flow%22%3Atrue%7D%7D)
 Journey into Judaism, Christianity, and Islam to gain insights into their beliefs, practices, and sacred texts. Seek accurate information with TheologicalSage's AI expertise.
 
 # Prompt

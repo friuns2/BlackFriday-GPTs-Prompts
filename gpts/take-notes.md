@@ -1,6 +1,6 @@
 
-[![Take Notes!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# Take Notes! 
+[![Take Notes!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QsqTRiYFFHKg_Eq6edvX4%22%2C%22flow%22%3Atrue%7D%7D)
+# Take Notes! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QsqTRiYFFHKg_Eq6edvX4%22%2C%22flow%22%3Atrue%7D%7D)
 Use this to take notes on texts. (If you want more than one text to be taken notes on, clear the chat and restart after one.)
 
 # Prompt

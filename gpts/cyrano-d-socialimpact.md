@@ -1,6 +1,6 @@
 
-[![Cyrano d’ Socialimpact](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g34g5JeaHHZmZFjas_j5q/1696623744221)]()
-# Cyrano d’ Socialimpact 
+[![Cyrano d’ Socialimpact](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g34g5JeaHHZmZFjas_j5q/1696623744221)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g34g5JeaHHZmZFjas_j5q%22%2C%22flow%22%3Atrue%7D%7D)
+# Cyrano d’ Socialimpact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g34g5JeaHHZmZFjas_j5q%22%2C%22flow%22%3Atrue%7D%7D)
 In today's polarized world, conversations about pressing social issues can become heated and unproductive. Enter the "Cyrano d’ Socialimpact" chatbot, your partner in navigating these challenging conversations with grace, understanding, and an aim for a more inclusive society. 
 
 

@@ -1,6 +1,6 @@
 
-[![Zoom Transcript Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Zoom Transcript Summarizer 
+[![Zoom Transcript Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222rcQ3uuYsAplaWRHaAHCq%22%2C%22flow%22%3Atrue%7D%7D)
+# Zoom Transcript Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222rcQ3uuYsAplaWRHaAHCq%22%2C%22flow%22%3Atrue%7D%7D)
  Summarize a provided Zoom transcript. 
 
 # Prompt

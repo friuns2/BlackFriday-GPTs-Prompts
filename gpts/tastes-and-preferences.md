@@ -1,6 +1,6 @@
 
-[![Tastes and Preferences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Tastes and Preferences 
+[![Tastes and Preferences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cffee798-a064-40fa-a352-9eade64f30e2%22%2C%22flow%22%3Atrue%7D%7D)
+# Tastes and Preferences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cffee798-a064-40fa-a352-9eade64f30e2%22%2C%22flow%22%3Atrue%7D%7D)
 Tastes and preferences
 
 # Prompt

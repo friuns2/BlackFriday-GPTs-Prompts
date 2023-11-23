@@ -1,6 +1,6 @@
 
-[![Unique Ebook Instant Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/F0d5ZikgKpGARjypmWJb8/1699614925624)]()
-# Unique Ebook Instant Generator 
+[![Unique Ebook Instant Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/F0d5ZikgKpGARjypmWJb8/1699614925624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0d5ZikgKpGARjypmWJb8%22%2C%22flow%22%3Atrue%7D%7D)
+# Unique Ebook Instant Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0d5ZikgKpGARjypmWJb8%22%2C%22flow%22%3Atrue%7D%7D)
 Make passive income by selling eBooks! 💸
 
 

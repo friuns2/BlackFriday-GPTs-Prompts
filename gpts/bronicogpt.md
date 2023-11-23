@@ -1,6 +1,6 @@
 
-[![BronicoGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9b3h5yMZLUcM-myh8lxuH/1696728632636)]()
-# BronicoGPT 
+[![BronicoGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9b3h5yMZLUcM-myh8lxuH/1696728632636)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229b3h5yMZLUcM-myh8lxuH%22%2C%22flow%22%3Atrue%7D%7D)
+# BronicoGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229b3h5yMZLUcM-myh8lxuH%22%2C%22flow%22%3Atrue%7D%7D)
 BronicoExpertGPT aims to provide comprehensive insights about Brandt Bronico, covering his professional soccer career, educational background, personal life, and his fitness-oriented persona.
 
 # Prompt

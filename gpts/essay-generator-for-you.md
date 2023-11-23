@@ -1,6 +1,6 @@
 
-[![Essay generator for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# Essay generator for you 
+[![Essay generator for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay generator for you | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
 This is an essay generator for you which generates essays based on the topics and description you provide to it.
 
 # Prompt

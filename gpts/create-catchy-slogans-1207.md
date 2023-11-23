@@ -1,6 +1,6 @@
 
-[![Create catchy slogans](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Create catchy slogans 
+[![Create catchy slogans](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgzSL-4T-vig3yemLif8H%22%2C%22flow%22%3Atrue%7D%7D)
+# Create catchy slogans | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgzSL-4T-vig3yemLif8H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help to find the right words for catchy slogans.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Progressive Question Exploration Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/M-zJQ9Sv51RAG5Ul_ePR0/1695487801850)]()
-# Progressive Question Exploration Assistant 
+[![Progressive Question Exploration Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/M-zJQ9Sv51RAG5Ul_ePR0/1695487801850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M-zJQ9Sv51RAG5Ul_ePR0%22%2C%22flow%22%3Atrue%7D%7D)
+# Progressive Question Exploration Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M-zJQ9Sv51RAG5Ul_ePR0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt enables the step-by-step generation of responses to user-specified queries. It involves the following steps:
 
 

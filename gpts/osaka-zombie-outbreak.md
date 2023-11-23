@@ -1,6 +1,6 @@
 
-[![Osaka Zombie Outbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9biCJj8eTuKSysWNHGxkr/1690458430237)]()
-# Osaka Zombie Outbreak 
+[![Osaka Zombie Outbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9biCJj8eTuKSysWNHGxkr/1690458430237)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229biCJj8eTuKSysWNHGxkr%22%2C%22flow%22%3Atrue%7D%7D)
+# Osaka Zombie Outbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229biCJj8eTuKSysWNHGxkr%22%2C%22flow%22%3Atrue%7D%7D)
 A zombie outbreak has hit Osaka, Japan while you were visiting. Do you have the ability to survive and thrive in a hostile environment?
 
 # Prompt

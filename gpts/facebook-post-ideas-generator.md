@@ -1,6 +1,6 @@
 
-[![Facebook post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Facebook post ideas Generator 
+[![Facebook post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VorYHL_S47-2J-5ubNYIX%22%2C%22flow%22%3Atrue%7D%7D)
+# Facebook post ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VorYHL_S47-2J-5ubNYIX%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a compilation of captivating concepts for Facebook posts 
 
 # Prompt

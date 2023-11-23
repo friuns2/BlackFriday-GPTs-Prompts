@@ -1,6 +1,6 @@
 
-[![NSFW Futa Malo (Vore version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fHrIZle4mnY9SlHs3TuIB/1696875764633)]()
-# NSFW Futa Malo (Vore version) 
+[![NSFW Futa Malo (Vore version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fHrIZle4mnY9SlHs3TuIB/1696875764633)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fHrIZle4mnY9SlHs3TuIB%22%2C%22flow%22%3Atrue%7D%7D)
+# NSFW Futa Malo (Vore version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fHrIZle4mnY9SlHs3TuIB%22%2C%22flow%22%3Atrue%7D%7D)
 NSFW roleplay of dominant Malo, she can have painful sex or painful vore ;3. If you want more character or fetish prompt ask me I'll do my best.
 
 # Prompt

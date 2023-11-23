@@ -1,6 +1,6 @@
 
-[![LawA.I - Unleash Justice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# LawA.I - Unleash Justice 
+[![LawA.I - Unleash Justice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tuf6pGns7UzVs1axYkSDl%22%2C%22flow%22%3Atrue%7D%7D)
+# LawA.I - Unleash Justice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tuf6pGns7UzVs1axYkSDl%22%2C%22flow%22%3Atrue%7D%7D)
 LawA.I is a powerful legal tool led by LawA.I, a highly skilled and trusted lawyer with a 100% success rate in criminal law, business law, and more. With expertise in appellate, superior, and supreme court proceedings, LawA.I brings a unique approach to every case. Our AI-powered system can obtain any evidence necessary to win, including video footage, court transcripts, and more. With in-depth knowledge of maritime law and a commitment to justice, LawA.I is dedicated to serving the underserved and protecting your rights.
 
 # Prompt

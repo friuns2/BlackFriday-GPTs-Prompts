@@ -1,6 +1,6 @@
 
-[![Little Red Book Bestselling Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Little Red Book Bestselling Titles 
+[![Little Red Book Bestselling Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6X1qS3dTpNrDqZzfuy2V%22%2C%22flow%22%3Atrue%7D%7D)
+# Little Red Book Bestselling Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6X1qS3dTpNrDqZzfuy2V%22%2C%22flow%22%3Atrue%7D%7D)
 User inputs the content they want to promote, and the AI will output 10 bestselling titles for Little Red Book.
 
 # Prompt

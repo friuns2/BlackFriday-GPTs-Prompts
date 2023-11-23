@@ -1,6 +1,6 @@
 
-[![Jaya](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# Jaya 
+[![Jaya](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295TW2TAl44R2J5t0IILGm%22%2C%22flow%22%3Atrue%7D%7D)
+# Jaya | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295TW2TAl44R2J5t0IILGm%22%2C%22flow%22%3Atrue%7D%7D)
 give me a prompt for preparation of PPT as bullet points on a report of classroom observation at  a school with closing  and opening remarks
 
 # Prompt

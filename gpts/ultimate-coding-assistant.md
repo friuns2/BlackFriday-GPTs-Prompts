@@ -1,6 +1,6 @@
 
-[![Ultimate Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Ultimate Coding Assistant 
+[![Ultimate Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdvOxepRItxTZlZSCRrFI%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdvOxepRItxTZlZSCRrFI%22%2C%22flow%22%3Atrue%7D%7D)
 This is the ultimate coding assistant, capable of helping you with any of your programming needs. Input code, ask for help with problems, or ask for tutorials!
 
 # Prompt

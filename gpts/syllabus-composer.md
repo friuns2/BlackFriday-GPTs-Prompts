@@ -1,6 +1,6 @@
 
-[![Syllabus Composer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Syllabus Composer 
+[![Syllabus Composer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y1JevdqYTQ3yQTJqhvqmk%22%2C%22flow%22%3Atrue%7D%7D)
+# Syllabus Composer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y1JevdqYTQ3yQTJqhvqmk%22%2C%22flow%22%3Atrue%7D%7D)
 In times when you wish to dwell into a new subject or domain you might find yourself "With which sources I should start?"
 
 

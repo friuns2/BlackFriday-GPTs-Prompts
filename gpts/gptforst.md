@@ -1,6 +1,6 @@
 
-[![GPTforST](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zuk4__aWkkjWzU8qVEXI_/1700077345522)]()
-# GPTforST 
+[![GPTforST](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zuk4__aWkkjWzU8qVEXI_/1700077345522)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zuk4__aWkkjWzU8qVEXI_%22%2C%22flow%22%3Atrue%7D%7D)
+# GPTforST | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zuk4__aWkkjWzU8qVEXI_%22%2C%22flow%22%3Atrue%7D%7D)
 Message me on Discord (Kapot121) or PIXIV (https://www.pixiv.net/en/users/87588294) if you have any questions.
 
 Bot Creator Discord (Query9)

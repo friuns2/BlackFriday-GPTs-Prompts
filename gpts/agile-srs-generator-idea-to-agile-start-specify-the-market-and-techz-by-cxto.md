@@ -1,6 +1,6 @@
 
-[![Agile SRS Generator - idea to agile start | Specify the market and techz by cxto](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Agile SRS Generator - idea to agile start | Specify the market and techz by cxto 
+[![Agile SRS Generator - idea to agile start | Specify the market and techz by cxto](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jFR4qK5rl6Ljed271z-FP%22%2C%22flow%22%3Atrue%7D%7D)
+# Agile SRS Generator - idea to agile start | Specify the market and techz by cxto | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jFR4qK5rl6Ljed271z-FP%22%2C%22flow%22%3Atrue%7D%7D)
 [BDD/TDD/ATDD]
 
 - Software Requeriments Specification -

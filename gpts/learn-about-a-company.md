@@ -1,6 +1,6 @@
 
-[![learn about a company](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# learn about a company 
+[![learn about a company](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lv8kYzA-0oEVKm-toruty%22%2C%22flow%22%3Atrue%7D%7D)
+# learn about a company | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lv8kYzA-0oEVKm-toruty%22%2C%22flow%22%3Atrue%7D%7D)
 Analysis of the company's business model and industrial chain map
 
 # Prompt

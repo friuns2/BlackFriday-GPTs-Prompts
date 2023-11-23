@@ -1,6 +1,6 @@
 
-[![Ultimate Summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o4FAdUp2zpK9EcoET-MFu/1695262020124)]()
-# Ultimate Summarizer 
+[![Ultimate Summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o4FAdUp2zpK9EcoET-MFu/1695262020124)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4FAdUp2zpK9EcoET-MFu%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4FAdUp2zpK9EcoET-MFu%22%2C%22flow%22%3Atrue%7D%7D)
 Your ultimate summarizing app for creating concise and accurate summaries. Easily understand and follow any specified methodology to extract the main points and key details from given content. No more risks of misinterpreting or omitting crucial information. This app ensures your summaries are coherent, well-organized, and effectively communicate the main ideas!
 
 # Prompt

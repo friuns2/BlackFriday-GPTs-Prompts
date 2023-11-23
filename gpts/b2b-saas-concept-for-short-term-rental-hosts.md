@@ -1,6 +1,6 @@
 
-[![B2B SaaS Concept for Short-Term Rental Hosts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# B2B SaaS Concept for Short-Term Rental Hosts 
+[![B2B SaaS Concept for Short-Term Rental Hosts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWDFz_f7vXlk8T-SSzuF%22%2C%22flow%22%3Atrue%7D%7D)
+# B2B SaaS Concept for Short-Term Rental Hosts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWDFz_f7vXlk8T-SSzuF%22%2C%22flow%22%3Atrue%7D%7D)
 Prompted it to create a B2B SaaS concept for short-term rental hosts to help improve turnover time, an introductory message to send hosts, where we can send that message to reach hosts for free, and create/launch a landing page using Python.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Share the code and description from console and get the fix](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Share the code and description from console and get the fix 
+[![Share the code and description from console and get the fix](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nJ9l2yICyx5d-TaVfC250%22%2C%22flow%22%3Atrue%7D%7D)
+# Share the code and description from console and get the fix | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nJ9l2yICyx5d-TaVfC250%22%2C%22flow%22%3Atrue%7D%7D)
 Underhood tihs prompt getting run in this library : https://github.com/whoiskatrin/npm-copilot
 
 # Prompt

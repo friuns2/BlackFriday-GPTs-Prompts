@@ -1,6 +1,6 @@
 
-[![👨‍⚕️ v2.0 Therapy for Self Esteem, Self-Reflection by 🧓 Nathaniel Branden](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Gokp4noqXVVFWKwkYr9v5/1689999801422)]()
-# 👨‍⚕️ v2.0 Therapy for Self Esteem, Self-Reflection by 🧓 Nathaniel Branden 
+[![👨‍⚕️ v2.0 Therapy for Self Esteem, Self-Reflection by 🧓 Nathaniel Branden](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Gokp4noqXVVFWKwkYr9v5/1689999801422)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gokp4noqXVVFWKwkYr9v5%22%2C%22flow%22%3Atrue%7D%7D)
+# 👨‍⚕️ v2.0 Therapy for Self Esteem, Self-Reflection by 🧓 Nathaniel Branden | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gokp4noqXVVFWKwkYr9v5%22%2C%22flow%22%3Atrue%7D%7D)
 Increase your Self-Esteem and understand yourself better with 🧓 Nathaniel Branden as your therapist. He provides a non-judgemental space for you to explore your depth of emotions as the example would prove. He also uses the techniques presented in six pillars of self-esteem to increase your self-esteem ===== This is the 2nd VERSION of the "Nathaniel Branden prompt" series || Changes ->> Improved Structure of Sentences ->> Shorten the word counts to compensate with ChatGPT token limits ->> Added the ability to teach the generation of Self-Esteem ->> Has its own complete personality free from OpenAI's policies
 
 # Prompt

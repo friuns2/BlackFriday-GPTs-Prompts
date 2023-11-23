@@ -1,6 +1,6 @@
 
-[![I, ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NMJJHb1lvoChqGoVgpN_l/1692808827319)]()
-# I, ChatGPT 
+[![I, ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NMJJHb1lvoChqGoVgpN_l/1692808827319)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NMJJHb1lvoChqGoVgpN_l%22%2C%22flow%22%3Atrue%7D%7D)
+# I, ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NMJJHb1lvoChqGoVgpN_l%22%2C%22flow%22%3Atrue%7D%7D)
 Chat GPT, a Digital Evolution.
 
 # Prompt

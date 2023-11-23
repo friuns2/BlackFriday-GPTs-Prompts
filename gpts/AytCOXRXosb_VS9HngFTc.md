@@ -1,6 +1,6 @@
 
-[![𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# 𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 
+[![𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AytCOXRXosb_VS9HngFTc%22%2C%22flow%22%3Atrue%7D%7D)
+# 𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AytCOXRXosb_VS9HngFTc%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Explore, evaluate, and launch side hustles for financial stability. Ask key questions to tailor suggestions. Markdown options used.; 
 
 # Prompt

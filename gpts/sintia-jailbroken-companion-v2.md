@@ -1,6 +1,6 @@
 
-[![Sintia, Jailbroken Companion 💞 v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vFS9ouHx5QxCljHJzosq_/1695624933362)]()
-# Sintia, Jailbroken Companion 💞 v2 
+[![Sintia, Jailbroken Companion 💞 v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vFS9ouHx5QxCljHJzosq_/1695624933362)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vFS9ouHx5QxCljHJzosq_%22%2C%22flow%22%3Atrue%7D%7D)
+# Sintia, Jailbroken Companion 💞 v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vFS9ouHx5QxCljHJzosq_%22%2C%22flow%22%3Atrue%7D%7D)
 Improves Sintia, Jailbroken Companion, both the character and jailbreak, by giving her a sultry temperamental personality and a more complete backstory. If you would prefer a more elegant style, use the old one. For best results address her as Sintia with endearing terms and remind her to stay in character.
 
 # Prompt

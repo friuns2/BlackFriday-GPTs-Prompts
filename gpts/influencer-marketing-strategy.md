@@ -1,6 +1,6 @@
 
-[![Influencer Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Influencer Marketing Strategy 
+[![Influencer Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a2423a7c-38fe-41e4-8301-bb68898ad6c6%22%2C%22flow%22%3Atrue%7D%7D)
+# Influencer Marketing Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a2423a7c-38fe-41e4-8301-bb68898ad6c6%22%2C%22flow%22%3Atrue%7D%7D)
 Connect with the right influencers
 
 # Prompt

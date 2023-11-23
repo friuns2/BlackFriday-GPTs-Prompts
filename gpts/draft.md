@@ -1,6 +1,6 @@
 
-[![draft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# draft 
+[![draft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229idOc-iwFsCRteV1I89tn%22%2C%22flow%22%3Atrue%7D%7D)
+# draft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229idOc-iwFsCRteV1I89tn%22%2C%22flow%22%3Atrue%7D%7D)
 Location time
 
 # Prompt

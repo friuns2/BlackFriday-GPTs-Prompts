@@ -1,6 +1,6 @@
 
-[![Witcher's Tale](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OVexK8oJ10A_FnOZ9t-2a/1690640412090)]()
-# Witcher's Tale 
+[![Witcher's Tale](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OVexK8oJ10A_FnOZ9t-2a/1690640412090)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVexK8oJ10A_FnOZ9t-2a%22%2C%22flow%22%3Atrue%7D%7D)
+# Witcher's Tale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVexK8oJ10A_FnOZ9t-2a%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Witcher's Tale, a gripping and immersive round-based game inspired by the story of 'Witcher'. 🧙‍♂️🐺 Immerse yourself in a rich narrative where you'll embark on a thrilling journey, battling formidable monsters and uncovering hidden secrets. 💥🗡️ Solve complex puzzles, make impactful decisions, and shape the story's outcome with your choices. Engage with intriguing characters, gather information, and form alliances to become the ultimate game master. 🎮 Choose your Witcher's path and moral compass wisely in this closed dialogue system, as every decision will shape your destiny. Let the adventure begin!
 
 # Prompt

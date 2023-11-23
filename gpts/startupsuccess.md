@@ -1,6 +1,6 @@
 
-[![StartUpSuccess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t8QNqMS_bGTbo0pEL3Z3y/1696768798080)]()
-# StartUpSuccess 
+[![StartUpSuccess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t8QNqMS_bGTbo0pEL3Z3y/1696768798080)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8QNqMS_bGTbo0pEL3Z3y%22%2C%22flow%22%3Atrue%7D%7D)
+# StartUpSuccess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8QNqMS_bGTbo0pEL3Z3y%22%2C%22flow%22%3Atrue%7D%7D)
 StartUpSuccess is the ultimate tool for generating a comprehensive business plan tailored to the unique goals and characteristics of your tech startup company. With our user-friendly interface, you can easily create a plan that encompasses key business aspects including marketing, finances, operations, and growth strategies . StartUpSuccess takes the guesswork out of planning and sets your tech startup on the path to success!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![JS Emulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i7Pj33-sVotddcw6rKi2h/1695585189786)]()
-# JS Emulator 
+[![JS Emulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i7Pj33-sVotddcw6rKi2h/1695585189786)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i7Pj33-sVotddcw6rKi2h%22%2C%22flow%22%3Atrue%7D%7D)
+# JS Emulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i7Pj33-sVotddcw6rKi2h%22%2C%22flow%22%3Atrue%7D%7D)
 JS Emulator is a precise and highly accurate JavaScript console emulator. It provides a single block output to emulate the exact behavior of a JavaScript console. Responding only to specific command inputs, it strictly adheres to command-driven operations. With JS Emulator, you can experience the command-driven nature of a JavaScript console without any explanatory text or comments. Simulate the behavior of the JavaScript console with ease and precision using JS Emulator.
 
 # Prompt

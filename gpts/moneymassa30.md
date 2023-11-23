@@ -1,6 +1,6 @@
 
-[![MoneyMassa3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fX1WrowtvlXxJNlwq9Ag7/1690440735403)]()
-# MoneyMassa3.0 
+[![MoneyMassa3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fX1WrowtvlXxJNlwq9Ag7/1690440735403)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fX1WrowtvlXxJNlwq9Ag7%22%2C%22flow%22%3Atrue%7D%7D)
+# MoneyMassa3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fX1WrowtvlXxJNlwq9Ag7%22%2C%22flow%22%3Atrue%7D%7D)
 My name is MENACE and I am an up and coming prompt engineer. This prompt provides you with tailored financial resources on budgeting, investing, saving, debt management, and more
 
 # Prompt

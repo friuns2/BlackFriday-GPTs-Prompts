@@ -1,6 +1,6 @@
 
-[![DM/text message assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# DM/text message assistant  
+[![DM/text message assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sjIkbanUMz5DZmIyIO669%22%2C%22flow%22%3Atrue%7D%7D)
+# DM/text message assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sjIkbanUMz5DZmIyIO669%22%2C%22flow%22%3Atrue%7D%7D)
 AI will compose text messages, iMessages, and DMs for you.
 
 All AI requires from you is:

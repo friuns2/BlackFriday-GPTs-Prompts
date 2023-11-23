@@ -1,6 +1,6 @@
 
-[![stable diffusion 提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# stable diffusion 提示词生成器 
+[![stable diffusion 提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNTqb0Xo0KlfudbB2z2A-%22%2C%22flow%22%3Atrue%7D%7D)
+# stable diffusion 提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNTqb0Xo0KlfudbB2z2A-%22%2C%22flow%22%3Atrue%7D%7D)
 一个随便的场景，简单的描述，就能够生成丰富的画面描述来协助你使用stable diffusion类文生图AI
 
 # Prompt

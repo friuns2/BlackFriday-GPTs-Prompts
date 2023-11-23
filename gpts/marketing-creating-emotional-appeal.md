@@ -1,6 +1,6 @@
 
-[![ Marketing: Creating Emotional Appeal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-#  Marketing: Creating Emotional Appeal 
+[![ Marketing: Creating Emotional Appeal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223sfeXM17UnCiTGzLSvWRy%22%2C%22flow%22%3Atrue%7D%7D)
+#  Marketing: Creating Emotional Appeal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223sfeXM17UnCiTGzLSvWRy%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you to create an emotional appeal for your product/service. 
 
 # Prompt

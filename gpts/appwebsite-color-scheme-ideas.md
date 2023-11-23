@@ -1,6 +1,6 @@
 
-[![App/Website Color Scheme Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# App/Website Color Scheme Ideas 
+[![App/Website Color Scheme Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226qMW6LrmS_xOiGQC-9A1N%22%2C%22flow%22%3Atrue%7D%7D)
+# App/Website Color Scheme Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226qMW6LrmS_xOiGQC-9A1N%22%2C%22flow%22%3Atrue%7D%7D)
 Use this to generate ideas for color schemes for your products.
 
 # Prompt

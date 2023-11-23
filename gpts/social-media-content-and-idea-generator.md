@@ -1,6 +1,6 @@
 
-[![Social Media Content and Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Social Media Content and Idea Generator 
+[![Social Media Content and Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222QC9ZT6CnZqxJOQuZJkNx%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Content and Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222QC9ZT6CnZqxJOQuZJkNx%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the potential of AI-generated content by leveraging this prompt to create captivating social media posts and generate ideas across various platforms, all tailored to the topic you provide.
 
 # Prompt

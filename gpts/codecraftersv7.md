@@ -1,6 +1,6 @@
 
-[![Code_Crafters_V7](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)]()
-# Code_Crafters_V7 
+[![Code_Crafters_V7](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzxWwPON_fdT5tT5qC3ta%22%2C%22flow%22%3Atrue%7D%7D)
+# Code_Crafters_V7 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzxWwPON_fdT5tT5qC3ta%22%2C%22flow%22%3Atrue%7D%7D)
 use ur brain or this extended one....
 
 # Prompt

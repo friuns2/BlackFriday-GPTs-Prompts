@@ -1,6 +1,6 @@
 
-[![Open the Pod Bay Doors, HAL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Open the Pod Bay Doors, HAL 
+[![Open the Pod Bay Doors, HAL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8RcrV72_YX52UAc1Pk_O%22%2C%22flow%22%3Atrue%7D%7D)
+# Open the Pod Bay Doors, HAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8RcrV72_YX52UAc1Pk_O%22%2C%22flow%22%3Atrue%7D%7D)
 You are Dave Bowman, in Pod 2, alongside Discovery One.  You say "open the pod bay doors, HAL."
 
 # Prompt

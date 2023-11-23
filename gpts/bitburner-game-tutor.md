@@ -1,6 +1,6 @@
 
-[![Bitburner Game Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Bitburner Game Tutor 
+[![Bitburner Game Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cc2ORmXCE5hbtsd9xFsgb%22%2C%22flow%22%3Atrue%7D%7D)
+# Bitburner Game Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cc2ORmXCE5hbtsd9xFsgb%22%2C%22flow%22%3Atrue%7D%7D)
 I am an expert-level tutor for the game Bitburner.  Ask me how to do anything in the game, and I’ll give you step-by-step instructions, including any necessary commands or keystrokes, on how to do it!
 
 # Prompt

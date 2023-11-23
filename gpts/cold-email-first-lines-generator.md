@@ -1,6 +1,6 @@
 
-[![Cold Email First Lines Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# Cold Email First Lines Generator 
+[![Cold Email First Lines Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0MHcK3VsilKfsfUPUw7G%22%2C%22flow%22%3Atrue%7D%7D)
+# Cold Email First Lines Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0MHcK3VsilKfsfUPUw7G%22%2C%22flow%22%3Atrue%7D%7D)
 Generate custom complimentary first lines for your cold emails to increase open and response rates.
 
 # Prompt

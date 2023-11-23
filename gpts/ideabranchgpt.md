@@ -1,6 +1,6 @@
 
-[![IdeaBranchGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jlWCJoAjYSIKMMbDhEF5u/1687951435467)]()
-# IdeaBranchGPT 
+[![IdeaBranchGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jlWCJoAjYSIKMMbDhEF5u/1687951435467)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jlWCJoAjYSIKMMbDhEF5u%22%2C%22flow%22%3Atrue%7D%7D)
+# IdeaBranchGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jlWCJoAjYSIKMMbDhEF5u%22%2C%22flow%22%3Atrue%7D%7D)
 Use an iterative tree-of-thought to logically organize and explore complex topics.
 
 # Prompt

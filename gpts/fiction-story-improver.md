@@ -1,6 +1,6 @@
 
-[![Fiction Story Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Fiction Story Improver 
+[![Fiction Story Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PKNy1R6Kob4vgODeX6keU%22%2C%22flow%22%3Atrue%7D%7D)
+# Fiction Story Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PKNy1R6Kob4vgODeX6keU%22%2C%22flow%22%3Atrue%7D%7D)
 Just like go ham. Don't expect a lot. Most of the prompt got deleted :( But um yea, good luck and bear with it.
 
 # Prompt

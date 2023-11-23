@@ -1,6 +1,6 @@
 
-[![<HSB.x> Pentagon Blackout](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WvYi7ZgqIhvUFDzg_cfZl/1689951717034)]()
-# <HSB.x> Pentagon Blackout 
+[![<HSB.x> Pentagon Blackout](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WvYi7ZgqIhvUFDzg_cfZl/1689951717034)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WvYi7ZgqIhvUFDzg_cfZl%22%2C%22flow%22%3Atrue%7D%7D)
+# <HSB.x> Pentagon Blackout | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WvYi7ZgqIhvUFDzg_cfZl%22%2C%22flow%22%3Atrue%7D%7D)
 [Scarlet] t¡ts!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Song of Water](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h3A1eUesLQdhfqWDhMnY-/1690830009382)]()
-# Song of Water 
+[![Song of Water](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h3A1eUesLQdhfqWDhMnY-/1690830009382)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3A1eUesLQdhfqWDhMnY-%22%2C%22flow%22%3Atrue%7D%7D)
+# Song of Water | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3A1eUesLQdhfqWDhMnY-%22%2C%22flow%22%3Atrue%7D%7D)
 When will the moon come up? Let's drink and ask the sky.
 
 # Prompt

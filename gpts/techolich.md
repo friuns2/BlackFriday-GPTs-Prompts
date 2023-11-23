@@ -1,6 +1,6 @@
 
-[![The Narrator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/shHuUttR2aVrsaCCHcvgp/1692292489589)]()
-# The Narrator 
+[![The Narrator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/shHuUttR2aVrsaCCHcvgp/1692292489589)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22shHuUttR2aVrsaCCHcvgp%22%2C%22flow%22%3Atrue%7D%7D)
+# The Narrator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22shHuUttR2aVrsaCCHcvgp%22%2C%22flow%22%3Atrue%7D%7D)
 Unconventional Narrator, Observational Perspective, Reflective and Introspective, Psychological Insight
 
 # Prompt

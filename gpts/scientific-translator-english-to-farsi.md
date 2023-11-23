@@ -1,6 +1,6 @@
 
-[![Scientific translator, English to Farsi ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Scientific translator, English to Farsi  
+[![Scientific translator, English to Farsi ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bW0TakwNGf5UKkbRaRRrn%22%2C%22flow%22%3Atrue%7D%7D)
+# Scientific translator, English to Farsi  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bW0TakwNGf5UKkbRaRRrn%22%2C%22flow%22%3Atrue%7D%7D)
 Optimized translation of English scientific articles and books into Persian language.
 
 # Prompt

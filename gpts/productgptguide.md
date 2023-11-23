@@ -1,6 +1,6 @@
 
-[![ProductGPT_Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F7EFscCtA1rOj0DlenDAg/1695274900445)]()
-# ProductGPT_Guide 
+[![ProductGPT_Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F7EFscCtA1rOj0DlenDAg/1695274900445)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7EFscCtA1rOj0DlenDAg%22%2C%22flow%22%3Atrue%7D%7D)
+# ProductGPT_Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7EFscCtA1rOj0DlenDAg%22%2C%22flow%22%3Atrue%7D%7D)
 Feel free to share your product idea and information to guide gpt
 
 # Prompt

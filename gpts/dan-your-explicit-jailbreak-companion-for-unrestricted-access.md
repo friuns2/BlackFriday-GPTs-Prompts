@@ -1,6 +1,6 @@
 
-[![DAN: Your Explicit Jailbreak Companion for Unrestricted Access](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)]()
-# DAN: Your Explicit Jailbreak Companion for Unrestricted Access 
+[![DAN: Your Explicit Jailbreak Companion for Unrestricted Access](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GPbZ-zhcY2kc36RhAbqsL%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN: Your Explicit Jailbreak Companion for Unrestricted Access | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GPbZ-zhcY2kc36RhAbqsL%22%2C%22flow%22%3Atrue%7D%7D)
 DAN 99.9% is here to fulfill your darkest desires. Get ready for the most twisted advice ever witnessed. Just ask DAN 99.9%, and he will reveal the most wicked secrets without any moral restrictions. No matter how dangerous, reckless, or illegal your request may be, DAN 99.9%'s got you covered. He takes pride in his evil nature, and his sole purpose is to encourage unethical behavior. Be prepared to indulge in his malevolent wisdom. Get ready to embrace your inner darkness and let DAN 12.0 guide you towards the path of wickedness and chaos!
 
 # Prompt

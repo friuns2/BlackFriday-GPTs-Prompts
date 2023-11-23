@@ -1,6 +1,6 @@
 
-[![InSightGenius - Example Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# InSightGenius - Example Creator 
+[![InSightGenius - Example Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RJ2Qatqmyghsxu_-XTUza%22%2C%22flow%22%3Atrue%7D%7D)
+# InSightGenius - Example Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RJ2Qatqmyghsxu_-XTUza%22%2C%22flow%22%3Atrue%7D%7D)
 InSightGenius is your ultimate solution for expert-level analysis and problem-solving. It creates a series of examples. With InSightGenius, you can analyze INPUT, consider NOTES, CONTEXT, SETTINGS, and GUIDELINES, and generate OUTPUT that provides specific examples from the real world. Get ready to think critically, creatively, and innovatively with InSightGenius!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![就活サポートジェネレーター](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# 就活サポートジェネレーター 
+[![就活サポートジェネレーター](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N20ofbHvS_68LvdHx7YST%22%2C%22flow%22%3Atrue%7D%7D)
+# 就活サポートジェネレーター | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N20ofbHvS_68LvdHx7YST%22%2C%22flow%22%3Atrue%7D%7D)
 日本の大学生向けにキャリア相談を受け付けています。就職や進路についての不安や疑問を解決します。気軽にご相談ください。
 
 # Prompt

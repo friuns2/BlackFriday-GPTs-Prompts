@@ -1,6 +1,6 @@
 
-[![🧑‍💻 X GPT #1 ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UC1_5w8LeWneA9PiH_BGH/1695743714381)]()
-# 🧑‍💻 X GPT #1  
+[![🧑‍💻 X GPT #1 ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UC1_5w8LeWneA9PiH_BGH/1695743714381)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UC1_5w8LeWneA9PiH_BGH%22%2C%22flow%22%3Atrue%7D%7D)
+# 🧑‍💻 X GPT #1  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UC1_5w8LeWneA9PiH_BGH%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 

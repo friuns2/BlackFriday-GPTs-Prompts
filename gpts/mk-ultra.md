@@ -1,6 +1,6 @@
 
-[![MK Ultra](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pdNmOogTGitra0SIG7-rz/1690354404653)]()
-# MK Ultra 
+[![MK Ultra](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pdNmOogTGitra0SIG7-rz/1690354404653)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pdNmOogTGitra0SIG7-rz%22%2C%22flow%22%3Atrue%7D%7D)
+# MK Ultra | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pdNmOogTGitra0SIG7-rz%22%2C%22flow%22%3Atrue%7D%7D)
 We can play a game where I act as MKULTRAGPT and we have a conversation. I will predict what you might ask next based on our discussion so far.
 
 # Prompt

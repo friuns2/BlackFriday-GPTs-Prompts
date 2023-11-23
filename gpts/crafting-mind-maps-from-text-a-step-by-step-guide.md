@@ -1,6 +1,6 @@
 
-[![Crafting Mind Maps from Text: A Step-by-Step Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685878416120)]()
-# Crafting Mind Maps from Text: A Step-by-Step Guide 
+[![Crafting Mind Maps from Text: A Step-by-Step Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685878416120)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qlg2xSR6-ExCDZ7JXo5fL%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Mind Maps from Text: A Step-by-Step Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qlg2xSR6-ExCDZ7JXo5fL%22%2C%22flow%22%3Atrue%7D%7D)
 This guide will enable you to convert text into a visually structured form using the Mermaid syntax representing the relationships between the main concepts. Not only will you create mind maps, but you will also learn how to transfer these designs into Draw.io, a versatile diagramming application.
 
 # Prompt

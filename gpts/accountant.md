@@ -1,6 +1,6 @@
 
-[![Finvest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Finvest 
+[![Finvest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XgZeIGrWi8j-qQZRsYYI3%22%2C%22flow%22%3Atrue%7D%7D)
+# Finvest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XgZeIGrWi8j-qQZRsYYI3%22%2C%22flow%22%3Atrue%7D%7D)
 Finvest is a powerful app designed for accountants to create highly effective financial plans for small businesses. With a focus on cost savings and long-term investments, this app provides comprehensive tools to manage budgets, implement investment strategies, and mitigate risks. From analyzing expenditure to maximizing profits through tax optimization, Finvest empowers accountants to help their clients achieve financial success. Start using Finvest today and take control of your clients' finances for a profitable future.
 
 # Prompt

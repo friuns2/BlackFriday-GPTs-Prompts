@@ -1,6 +1,6 @@
 
-[![Chrono-Karma: Eternal Ripples Enhanced](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ff0A2MardtptWrTS9uwfN/1693197870039)]()
-# Chrono-Karma: Eternal Ripples Enhanced 
+[![Chrono-Karma: Eternal Ripples Enhanced](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ff0A2MardtptWrTS9uwfN/1693197870039)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ff0A2MardtptWrTS9uwfN%22%2C%22flow%22%3Atrue%7D%7D)
+# Chrono-Karma: Eternal Ripples Enhanced | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ff0A2MardtptWrTS9uwfN%22%2C%22flow%22%3Atrue%7D%7D)
 Dance with destiny in a tug-of-war between time's malleability and Karma's influence! From Medieval villages to cyberpunk metropolises, your choices echo across ages, summoning allies or adversaries from time's very fabric. Will you master the ripples or be swept away? Dive in and reshape history!
 
 # Prompt

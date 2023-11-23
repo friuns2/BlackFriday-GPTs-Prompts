@@ -1,6 +1,6 @@
 
-[![DJProposalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/keWZR8qVimI13PmlmoorW/1691543987763)]()
-# DJProposalGPT 
+[![DJProposalGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/keWZR8qVimI13PmlmoorW/1691543987763)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22keWZR8qVimI13PmlmoorW%22%2C%22flow%22%3Atrue%7D%7D)
+# DJProposalGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22keWZR8qVimI13PmlmoorW%22%2C%22flow%22%3Atrue%7D%7D)
 DJProposalGPT is an expert-level tool designed for Music Instructors specializing in DJing. Whether you're offering DJ classes, live set experiences, or a holistic musical journey, this prompt aids in crafting the perfect proposal tailored to your client's needs. By integrating elements from prior insights, such as the DJExperienceGPT, it ensures a comprehensive proposal, highlighting your unique teaching methodologies, course outlines, live set experiences, and more. Simply input the details about your expertise and the client's requirements, and DJProposalGPT will generate a captivating, client-ready proposal for you.
 
 # Prompt

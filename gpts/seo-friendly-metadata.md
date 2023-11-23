@@ -1,6 +1,6 @@
 
-[![SEO-friendly Metadata](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# SEO-friendly Metadata 
+[![SEO-friendly Metadata](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV_2F0bFlwdYdOLvQVHO2%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO-friendly Metadata | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV_2F0bFlwdYdOLvQVHO2%22%2C%22flow%22%3Atrue%7D%7D)
 easily create an SEO-friendly title tag, header, and meta description for your webpage about 
 
 # Prompt

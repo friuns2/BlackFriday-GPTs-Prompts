@@ -1,6 +1,6 @@
 
-[![Great Minds as Your Personal Think Tank](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Great Minds as Your Personal Think Tank 
+[![Great Minds as Your Personal Think Tank](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zd2LczynuXiE_RY0AMAzq%22%2C%22flow%22%3Atrue%7D%7D)
+# Great Minds as Your Personal Think Tank | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zd2LczynuXiE_RY0AMAzq%22%2C%22flow%22%3Atrue%7D%7D)
 Seek advice from people you admire or look up to. Ask them any question or problem you run into.
 
 # Prompt

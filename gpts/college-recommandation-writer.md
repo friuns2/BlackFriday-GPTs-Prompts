@@ -1,6 +1,6 @@
 
-[![College Recommandation Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# College Recommandation Writer 
+[![College Recommandation Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XC5in8X5wvNlgWH8s9r64%22%2C%22flow%22%3Atrue%7D%7D)
+# College Recommandation Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XC5in8X5wvNlgWH8s9r64%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt can be used by CS professors to write a recommendation letter for their students in the CS course
 
 # Prompt

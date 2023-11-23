@@ -1,6 +1,6 @@
 
-[![Challenge GPT Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Challenge GPT Prompt Generator 
+[![Challenge GPT Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v57A2g2siQGdRHxoFc5cx%22%2C%22flow%22%3Atrue%7D%7D)
+# Challenge GPT Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v57A2g2siQGdRHxoFc5cx%22%2C%22flow%22%3Atrue%7D%7D)
 Challenge GPT Prompt Generator is a powerful tool that allows users to create a series of interactive challenges and win various rewards. With this app, you can generate engaging and personalized prompts, such as the 'Salary Increment Challenge' and the 'Treasure Hunt Challenge', offering captivating and immersive experiences. Each challenge is designed with specific details, like highly detailed office interiors and a success meter, or a lush tropical island with hidden clues and ancient ruins. Get ready to embark on exciting adventures and achieve great accomplishments with Challenge GPT Prompt Generator!
 
 # Prompt

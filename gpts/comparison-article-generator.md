@@ -1,6 +1,6 @@
 
-[![Comparison Article Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8ojgNt1hyFsL5V6O5HVvs/1698956388402)]()
-# Comparison Article Generator 
+[![Comparison Article Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8ojgNt1hyFsL5V6O5HVvs/1698956388402)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ojgNt1hyFsL5V6O5HVvs%22%2C%22flow%22%3Atrue%7D%7D)
+# Comparison Article Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ojgNt1hyFsL5V6O5HVvs%22%2C%22flow%22%3Atrue%7D%7D)
 Writes an article that compares two topics, then argues for one as the better choice for a rationale reason. 
 
 # Prompt

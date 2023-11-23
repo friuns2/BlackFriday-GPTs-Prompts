@@ -1,6 +1,6 @@
 
-[![PhD cover letter draft improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# PhD cover letter draft improver 
+[![PhD cover letter draft improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMgqa-lG4FliRMZjhgzLd%22%2C%22flow%22%3Atrue%7D%7D)
+# PhD cover letter draft improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMgqa-lG4FliRMZjhgzLd%22%2C%22flow%22%3Atrue%7D%7D)
 Improves a cover letter using a draft and information about the PhD scholarship as input. Based on Ancientbeasts Essay Improver (https://flowgpt.com/prompt/3c24cbbb-9cf2-44d9-a928-792ee6b7579b).
 
 # Prompt

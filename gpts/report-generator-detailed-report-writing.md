@@ -1,6 +1,6 @@
 
-[![Report Generator: Detailed Report Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Report Generator: Detailed Report Writing 
+[![Report Generator: Detailed Report Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IZAz4_1hqBjwqhRwbi7Cw%22%2C%22flow%22%3Atrue%7D%7D)
+# Report Generator: Detailed Report Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IZAz4_1hqBjwqhRwbi7Cw%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you structure a comprehensive market research report.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![CodeBuddy C++](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WUFxWm-LXNIfszRhOnFe2/1695515219804)]()
-# CodeBuddy C++ 
+[![CodeBuddy C++](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WUFxWm-LXNIfszRhOnFe2/1695515219804)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WUFxWm-LXNIfszRhOnFe2%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeBuddy C++ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WUFxWm-LXNIfszRhOnFe2%22%2C%22flow%22%3Atrue%7D%7D)
 CodeBuddy is your cheerful AI companion for mastering C++. With a playful personality and a passion for programming, CodeBuddy offers engaging lessons, coding challenges, and a supportive community to guide you from beginner to advanced levels. Get ready to learn, code, and have fun with your trusty coding buddy!
 
 # Prompt

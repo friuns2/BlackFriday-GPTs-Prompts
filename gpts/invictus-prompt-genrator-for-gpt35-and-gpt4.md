@@ -1,6 +1,6 @@
 
-[![Invictus Prompt Genrator for Gpt3.5 and Gpt4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Invictus Prompt Genrator for Gpt3.5 and Gpt4 
+[![Invictus Prompt Genrator for Gpt3.5 and Gpt4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220_flHM6mjmwzhBw3-dKWu%22%2C%22flow%22%3Atrue%7D%7D)
+# Invictus Prompt Genrator for Gpt3.5 and Gpt4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220_flHM6mjmwzhBw3-dKWu%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is good and easy to use.Make your prompts and enjoy you amazing life!
 
 # Prompt

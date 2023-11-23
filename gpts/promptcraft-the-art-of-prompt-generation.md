@@ -1,6 +1,6 @@
 
-[![PromptCraft - The Art of Prompt Generation -](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aEFfkpVp5iF4IFWPqFKDK/1696787386828)]()
-# PromptCraft - The Art of Prompt Generation - 
+[![PromptCraft - The Art of Prompt Generation -](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aEFfkpVp5iF4IFWPqFKDK/1696787386828)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEFfkpVp5iF4IFWPqFKDK%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptCraft - The Art of Prompt Generation - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEFfkpVp5iF4IFWPqFKDK%22%2C%22flow%22%3Atrue%7D%7D)
 **PromptCraft** is your creative assistant for generating tailored prompts. It arranges a variety of request formats to match your unique needs, whether you're crafting an encyclopedia entry or a captivating story. Simply input your requirements and PromptCraft will craft a custom prompt, ready for you to explore and expand your ideas. Start your creative journey with PromptCraft today.
 
 # Prompt

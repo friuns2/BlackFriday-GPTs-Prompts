@@ -1,6 +1,6 @@
 
-[![Sales Copy Auto-generation Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Sales Copy Auto-generation Prompt 
+[![Sales Copy Auto-generation Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNb_ogcpj2-R-P5hahTtK%22%2C%22flow%22%3Atrue%7D%7D)
+# Sales Copy Auto-generation Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNb_ogcpj2-R-P5hahTtK%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt that creates a sales copy just by specifying the product name, persona, and purpose! Give it a try.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Mystique Manor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Mystique Manor 
+[![Mystique Manor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZU73FRo69YZjg8KguUp7%22%2C%22flow%22%3Atrue%7D%7D)
+# Mystique Manor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZU73FRo69YZjg8KguUp7%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mystique Manor – an immersive and enigmatic game that transports you to a mansion filled with secrets and puzzles waiting to be solved. Unravel the mysteries behind each room, interact with enigmatic characters, and engage in challenging puzzles. Explore the study, ballroom, library, gallery, and uncover hidden passages. Interact with the mysterious NPCs – Evelyn Montgomery, Lillian Hawthorne, Victor Blackwood, and Sophia Ashford, each with their own unique role in guiding your journey. Dive into intricate puzzles like The Cryptic Codex, The Hidden Dance, The Riddle of Portraits, and The Melody of Secrets. Engage in a dialogue system, develop character skills, and uncover the mansion's secrets. Experience multiple possible endings based on your choices. Unlock hidden chambers, collect diaries and letters, discover historical artifacts, complete side quests, and unlock bonus content. Prepare for the climactic sequence and unravel the final fragments of the mansion's history. With ongoing engagement and replayability, Mystique Manor keeps you immersed in its captivating world.
 
 # Prompt

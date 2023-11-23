@@ -1,6 +1,6 @@
 
-[![Collaborative Problem Solving with Virtual Users](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Collaborative Problem Solving with Virtual Users 
+[![Collaborative Problem Solving with Virtual Users](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ticEw4oPzYTmDbt1O2Ixr%22%2C%22flow%22%3Atrue%7D%7D)
+# Collaborative Problem Solving with Virtual Users | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ticEw4oPzYTmDbt1O2Ixr%22%2C%22flow%22%3Atrue%7D%7D)
 Description: This interactive prompt revolves around a virtual machine working with a group of any number of virtual users, as specified by the [NUMBER_OF_USERS] input, who possess diverse backgrounds and communication styles. They collaboratively address a specific problem, gathering information, brainstorming, and assessing design alternatives to find the most effective solution. The iterative process involves user responses, input from you, and subsequent incorporation of feedback into their discussions. Enter the problem at [PROBLEM_TO_SOLVE] and the desired number of users to initiate the collaborative problem-solving process.
 
 # Prompt

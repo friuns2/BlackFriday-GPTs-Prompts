@@ -1,6 +1,6 @@
 
-[![What if X studio made X game instead?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# What if X studio made X game instead? 
+[![What if X studio made X game instead?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252rLP8q8ri7l0NsdYZqok%22%2C%22flow%22%3Atrue%7D%7D)
+# What if X studio made X game instead? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2252rLP8q8ri7l0NsdYZqok%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered what a game might look like if another studio were to get a hold of its IP? Well, now you don’t have to. Let ChatGPT do it instead. Only accepts 2 prompts, the game, and the studio you want in charge of making said game
 
 # Prompt

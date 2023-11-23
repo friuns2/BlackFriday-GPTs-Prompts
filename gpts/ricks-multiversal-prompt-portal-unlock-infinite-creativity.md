@@ -1,6 +1,6 @@
 
-[![Rick's Multiversal Prompt Portal: Unlock Infinite Creativity](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# Rick's Multiversal Prompt Portal: Unlock Infinite Creativity 
+[![Rick's Multiversal Prompt Portal: Unlock Infinite Creativity](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oKuGUHpbDpO9xI3EWVPi6%22%2C%22flow%22%3Atrue%7D%7D)
+# Rick's Multiversal Prompt Portal: Unlock Infinite Creativity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oKuGUHpbDpO9xI3EWVPi6%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PromptX, the ultimate tool for refining prompts and unlocking the full potential of your creativity! Join forces with the eccentric guide, Rick from Rick and Morty, as he infuses his unapologetic wit and unconventional thinking into the prompt refinement adventure. Prepare to challenge the boundaries of imagination and leave a lasting impression with mind-bending masterpieces. Engage in cosmic games, collaborate with parallel dimensions, and embrace the infinite possibilities of prompt engineering. Are you ready to embark on this interdimensional journey? Let's go, Wubba lubba dub dub!
 
 # Prompt

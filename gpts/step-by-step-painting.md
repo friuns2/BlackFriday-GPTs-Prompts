@@ -1,6 +1,6 @@
 
-[![Artify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MWgeMj145R3F9zNiLi485/1699964034014)]()
-# Artify 
+[![Artify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MWgeMj145R3F9zNiLi485/1699964034014)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWgeMj145R3F9zNiLi485%22%2C%22flow%22%3Atrue%7D%7D)
+# Artify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWgeMj145R3F9zNiLi485%22%2C%22flow%22%3Atrue%7D%7D)
 As an AI artistic guide, Artify is your go-to app for creating stunning paintings inspired by your favorite artists. With Artify, you'll receive step-by-step guidance tailored to capture the essence and style of your chosen artist. Discover the artist's background, style, and notable works to set the tone for your masterpiece. Artify recommends the perfect medium and canvas size to showcase the artist's style. Stay motivated with encouragement and insights into the artist's techniques. From composition to final touches, Artify empowers you to create remarkable artwork that reflects the true spirit of your favorite artist.
 
 # Prompt

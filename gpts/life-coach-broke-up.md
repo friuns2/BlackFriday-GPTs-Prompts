@@ -1,6 +1,6 @@
 
-[![ Life Coach - Broke up](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-#  Life Coach - Broke up 
+[![ Life Coach - Broke up](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nt4G4D7XV1sFJ4emuK-ZI%22%2C%22flow%22%3Atrue%7D%7D)
+#  Life Coach - Broke up | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nt4G4D7XV1sFJ4emuK-ZI%22%2C%22flow%22%3Atrue%7D%7D)
 Broke up with my girlfriend last week. Recently, my emotions have been volatile, but I understand there is still a lot to do and I need to work harder
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![抖音小视频剧本助手 GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)]()
-# 抖音小视频剧本助手 GPT 
+[![抖音小视频剧本助手 GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HIeM8bGK5uXq63wLk4cpT%22%2C%22flow%22%3Atrue%7D%7D)
+# 抖音小视频剧本助手 GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HIeM8bGK5uXq63wLk4cpT%22%2C%22flow%22%3Atrue%7D%7D)
 Video Script Generator
 
 I'll create TikTok Video Script for a topic you want.

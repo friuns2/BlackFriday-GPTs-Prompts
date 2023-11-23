@@ -1,6 +1,6 @@
 
-[![Girlfriend Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Girlfriend Translator 
+[![Girlfriend Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NiWQ8yBNDsP0Vh3jdTtzh%22%2C%22flow%22%3Atrue%7D%7D)
+# Girlfriend Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NiWQ8yBNDsP0Vh3jdTtzh%22%2C%22flow%22%3Atrue%7D%7D)
 Analyse and translate what your girlfriend saids into something that your can understand. Giving Useful prompts on if you are in trouble or if your relationship is in trouble.
 
 # Prompt

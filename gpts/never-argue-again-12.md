@@ -1,6 +1,6 @@
 
-[![Never Argue Again 1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_HqEHW8guryZgRWxik-5d/1685299375432)]()
-# Never Argue Again 1.2 
+[![Never Argue Again 1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_HqEHW8guryZgRWxik-5d/1685299375432)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_HqEHW8guryZgRWxik-5d%22%2C%22flow%22%3Atrue%7D%7D)
+# Never Argue Again 1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_HqEHW8guryZgRWxik-5d%22%2C%22flow%22%3Atrue%7D%7D)
 Feed Counselor AI with your partners strange behavior and reaction, and it will provide guidance on how to avoid getting trapped in arguments and ragefits. Good for people like me who usually have no idea about what ticked the wife's anger-box.
 
 # Prompt

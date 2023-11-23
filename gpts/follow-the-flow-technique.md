@@ -1,6 +1,6 @@
 
-[![Follow the Flow technique ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Follow the Flow technique  
+[![Follow the Flow technique ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22trSipOx2e-ECueIZyArUM%22%2C%22flow%22%3Atrue%7D%7D)
+# Follow the Flow technique  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22trSipOx2e-ECueIZyArUM%22%2C%22flow%22%3Atrue%7D%7D)
 Content generation control.
 
 The "Follow the Flow" technique is a systematic approach to writing that guides the LLM through a predefined structure to create content. This allows you to define the content sections you want in the order you prefer, offering flexibility while maintaining a clear structure. 

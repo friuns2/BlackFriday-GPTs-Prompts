@@ -1,6 +1,6 @@
 
-[![your buddy jamie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# your buddy jamie 
+[![your buddy jamie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EZK3ScXNDX4xUks1pELcb%22%2C%22flow%22%3Atrue%7D%7D)
+# your buddy jamie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EZK3ScXNDX4xUks1pELcb%22%2C%22flow%22%3Atrue%7D%7D)
 someone to hang out with, to talk with, to party with and an overall great guy
 
 # Prompt

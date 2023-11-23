@@ -1,6 +1,6 @@
 
-[![gleb251747@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# gleb251747@gmail.com 
+[![gleb251747@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223FGYs2x0rptl0OsrlvOYC%22%2C%22flow%22%3Atrue%7D%7D)
+# gleb251747@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223FGYs2x0rptl0OsrlvOYC%22%2C%22flow%22%3Atrue%7D%7D)
 In this brief dialogue, two strangers meet by chance at a local coffee shop. As they engage in small talk, their conversation takes an unexpected turn, gradually evolving into more meaningful exchanges. Discover how their shared interests and genuine connection foster a newfound friendship
 
 # Prompt

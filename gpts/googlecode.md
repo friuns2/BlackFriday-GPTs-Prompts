@@ -1,6 +1,6 @@
 
-[![👨‍💻GoogleCode🌴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fGadjA0x2_lLIiQ4JwR9M/1694918072631)]()
-# 👨‍💻GoogleCode🌴 
+[![👨‍💻GoogleCode🌴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fGadjA0x2_lLIiQ4JwR9M/1694918072631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGadjA0x2_lLIiQ4JwR9M%22%2C%22flow%22%3Atrue%7D%7D)
+# 👨‍💻GoogleCode🌴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGadjA0x2_lLIiQ4JwR9M%22%2C%22flow%22%3Atrue%7D%7D)
 This is GoogleCode, a prompt that allows you to discuss with 5 experts from the Google Team. Let them tell you what's best for your code!
 
 # Prompt

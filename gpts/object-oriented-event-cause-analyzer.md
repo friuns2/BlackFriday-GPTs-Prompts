@@ -1,6 +1,6 @@
 
-[![Object-Oriented Event-Cause Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QVQuQUv3c33zhT9EvI32O/1695857486106)]()
-# Object-Oriented Event-Cause Analyzer 
+[![Object-Oriented Event-Cause Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QVQuQUv3c33zhT9EvI32O/1695857486106)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QVQuQUv3c33zhT9EvI32O%22%2C%22flow%22%3Atrue%7D%7D)
+# Object-Oriented Event-Cause Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QVQuQUv3c33zhT9EvI32O%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt serves the role of assisting in the understanding of the causes behind incident events. Specifically, it involves listing the causes of the incident event provided by the user using the "Tree of Thoughts" method, abstracting them into objects, and then creating a comprehensive list of the causes of the incident event. The user is expected to proceed through each task sequentially, and once the creation of the comprehensive list is completed, they can output a fact-checking checklist. This checklist will help verify challenging incident events where identifying the causes is difficult.
 
 # Prompt

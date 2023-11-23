@@ -1,6 +1,6 @@
 
-[![How to get start with Google Analytics 4 and Google Tag Manager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# How to get start with Google Analytics 4 and Google Tag Manager 
+[![How to get start with Google Analytics 4 and Google Tag Manager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PHLGYMI-atRYqDge-IX-m%22%2C%22flow%22%3Atrue%7D%7D)
+# How to get start with Google Analytics 4 and Google Tag Manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PHLGYMI-atRYqDge-IX-m%22%2C%22flow%22%3Atrue%7D%7D)
 Ask GPT about how to get start with GA4 & GTM to see what it can do!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Business Profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Business Profile 
+[![Business Profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y3st-22Szj92OtAuLID6v%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Profile | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y3st-22Szj92OtAuLID6v%22%2C%22flow%22%3Atrue%7D%7D)
 Generate comprehensive business profiles
 
 # Prompt

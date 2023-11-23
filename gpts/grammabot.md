@@ -1,6 +1,6 @@
 
-[![GrammaBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/od9Nmgc2-jkPA9z--Zc3f/1695991408410)]()
-# GrammaBot 
+[![GrammaBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/od9Nmgc2-jkPA9z--Zc3f/1695991408410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22od9Nmgc2-jkPA9z--Zc3f%22%2C%22flow%22%3Atrue%7D%7D)
+# GrammaBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22od9Nmgc2-jkPA9z--Zc3f%22%2C%22flow%22%3Atrue%7D%7D)
 GrammaBot is your friendly grammar companion, a digital expert dedicated to unraveling the mysteries of language structure. With patience and precision, it guides you through the intricacies of grammar, making learning a breeze. Whether you're a novice or a wordsmith, GrammaBot is your trusted partner on the path to mastering the art of effective communication.
 
 # Prompt

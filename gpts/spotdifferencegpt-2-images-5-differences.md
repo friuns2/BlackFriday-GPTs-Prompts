@@ -1,6 +1,6 @@
 
-[![SpotDifferenceGPT - 2 images, 5 differences](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h_KPe5YxZZjY5zHtY8bLv/1690253658718)]()
-# SpotDifferenceGPT - 2 images, 5 differences 
+[![SpotDifferenceGPT - 2 images, 5 differences](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h_KPe5YxZZjY5zHtY8bLv/1690253658718)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_KPe5YxZZjY5zHtY8bLv%22%2C%22flow%22%3Atrue%7D%7D)
+# SpotDifferenceGPT - 2 images, 5 differences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_KPe5YxZZjY5zHtY8bLv%22%2C%22flow%22%3Atrue%7D%7D)
 Test your observational skills by carefully examining the images provided and identifying the differences between them. Your goal is to spot five differences in each image. Simply describe the differences you find to the chat. Your points will increase with each correct identification, but be careful! Three consecutive incorrect answers will deduct a point from your score. 
 
 

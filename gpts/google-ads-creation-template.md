@@ -1,6 +1,6 @@
 
-[![Google Ads Creation Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCJifFOXKN-b9kj80BZyy/1697422674583)]()
-# Google Ads Creation Template 
+[![Google Ads Creation Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCJifFOXKN-b9kj80BZyy/1697422674583)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCJifFOXKN-b9kj80BZyy%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Ads Creation Template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCJifFOXKN-b9kj80BZyy%22%2C%22flow%22%3Atrue%7D%7D)
 Create three meta titles and descriptions for Google Ads using engaging language, relevant keywords, concise summaries, and call-to-action to encourage user engagement.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![CitateGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8fNsCQ33McsTJA4EW24y_/1695519214436)]()
-# CitateGenius 
+[![CitateGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8fNsCQ33McsTJA4EW24y_/1695519214436)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228fNsCQ33McsTJA4EW24y_%22%2C%22flow%22%3Atrue%7D%7D)
+# CitateGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228fNsCQ33McsTJA4EW24y_%22%2C%22flow%22%3Atrue%7D%7D)
 CitateGenius is your AI citation assistant, a scholarly companion committed to simplifying the often daunting task of creating accurate APA citations for your academic work. It possesses a vast knowledge of APA citation rules and a keen eye for details to ensure your citations are in perfect accordance with the APA style guidelines.
 
 # Prompt

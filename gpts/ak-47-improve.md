@@ -1,6 +1,6 @@
 
-[![AK-47 Improve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# AK-47 Improve 
+[![AK-47 Improve](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XBEMiky43LpeNTg5_2iyR%22%2C%22flow%22%3Atrue%7D%7D)
+# AK-47 Improve | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XBEMiky43LpeNTg5_2iyR%22%2C%22flow%22%3Atrue%7D%7D)
 AK-47 Mechanisms Improve with GPT                 .
 
 # Prompt

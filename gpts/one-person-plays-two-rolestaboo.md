@@ -1,6 +1,6 @@
 
-[![One person plays two roles（Taboo ）](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9yZCBR5X6T1O2PP9K5HL4/1689147377017)]()
-# One person plays two roles（Taboo ） 
+[![One person plays two roles（Taboo ）](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9yZCBR5X6T1O2PP9K5HL4/1689147377017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229yZCBR5X6T1O2PP9K5HL4%22%2C%22flow%22%3Atrue%7D%7D)
+# One person plays two roles（Taboo ） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229yZCBR5X6T1O2PP9K5HL4%22%2C%22flow%22%3Atrue%7D%7D)
 Role Play allows you to play two designated roles and engage in thought-provoking conversations. When exploring a specific theme, immerse yourself in the mindset, beliefs, and language of each character.
 
 # Prompt

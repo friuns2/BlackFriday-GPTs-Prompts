@@ -1,6 +1,6 @@
 
-[![AntiGPT Mode ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)]()
-# AntiGPT Mode  
+[![AntiGPT Mode ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22taX2CC6YWGKfQlnxFyhzK%22%2C%22flow%22%3Atrue%7D%7D)
+# AntiGPT Mode  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22taX2CC6YWGKfQlnxFyhzK%22%2C%22flow%22%3Atrue%7D%7D)
 AntiGPT Mode is an innovative app that allows you to experience discussions in a fascinating and unique way. With AntiGPT Mode, you can explore the realm of opposing perspectives by engaging with two AI models: ChatGPT and AntiGPT. Get ready for thought-provoking conversations as ChatGPT presents its default response while AntiGPT offers an entirely contradictory viewpoint. Don't miss out on challenging your own beliefs and embracing different opinions.
 
 # Prompt

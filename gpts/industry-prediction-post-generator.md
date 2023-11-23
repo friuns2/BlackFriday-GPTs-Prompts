@@ -1,6 +1,6 @@
 
-[![Industry prediction post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Industry prediction post generator  
+[![Industry prediction post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nfXwXvEgEOZTxuL-L0qNj%22%2C%22flow%22%3Atrue%7D%7D)
+# Industry prediction post generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nfXwXvEgEOZTxuL-L0qNj%22%2C%22flow%22%3Atrue%7D%7D)
 Let ChatGPT generate a LinkedIn post, sharing industry predictions for the next five years.
 
 # Prompt

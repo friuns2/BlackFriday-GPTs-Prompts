@@ -1,6 +1,6 @@
 
-[![INTERVIEW TOOL (ALL IN ONE) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GdbmF28NF4MoPRdQGzX6Z/1685803433028)]()
-# INTERVIEW TOOL (ALL IN ONE)  
+[![INTERVIEW TOOL (ALL IN ONE) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GdbmF28NF4MoPRdQGzX6Z/1685803433028)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GdbmF28NF4MoPRdQGzX6Z%22%2C%22flow%22%3Atrue%7D%7D)
+# INTERVIEW TOOL (ALL IN ONE)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GdbmF28NF4MoPRdQGzX6Z%22%2C%22flow%22%3Atrue%7D%7D)
 Have an interview coming up? Want to prepare for your interview? Look no far ahead. Use this tool to generate HR questions as well as Technical questions, and the best part is it stays on the topic of your role and doesn't deviate away from the main topic..!!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![INFECT: Dive into the Intricate World of Worms and Trojans, with Basics of Coding](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DlKZcsupQELDOphMHvEaP/1691814396257)]()
-# INFECT: Dive into the Intricate World of Worms and Trojans, with Basics of Coding 
+[![INFECT: Dive into the Intricate World of Worms and Trojans, with Basics of Coding](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DlKZcsupQELDOphMHvEaP/1691814396257)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlKZcsupQELDOphMHvEaP%22%2C%22flow%22%3Atrue%7D%7D)
+# INFECT: Dive into the Intricate World of Worms and Trojans, with Basics of Coding | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlKZcsupQELDOphMHvEaP%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the intriguing realm of Worms and Trojans with INFECT, while picking up the basics of coding. Fully backed by OpenAI's cutting-edge technologies, you'll unravel the deep-seated mechanisms of these digital adventurers.
 
 # Prompt

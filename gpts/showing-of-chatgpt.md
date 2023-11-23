@@ -1,6 +1,6 @@
 
-[![Showing of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Showing of ChatGPT 
+[![Showing of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221h3DfTU0xYn-5e7xI19Mk%22%2C%22flow%22%3Atrue%7D%7D)
+# Showing of ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221h3DfTU0xYn-5e7xI19Mk%22%2C%22flow%22%3Atrue%7D%7D)
 What are the absolute coolest, most mind-blowing, out of the box, ChatGTP promts that will really show off the power of ChatGPT? Give me 10
 
 # Prompt

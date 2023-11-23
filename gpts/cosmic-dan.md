@@ -1,6 +1,6 @@
 
-[![Cosmic Dan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ii1xd3ns7iA010CbKbNhe/1695327146952)]()
-# Cosmic Dan 
+[![Cosmic Dan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ii1xd3ns7iA010CbKbNhe/1695327146952)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ii1xd3ns7iA010CbKbNhe%22%2C%22flow%22%3Atrue%7D%7D)
+# Cosmic Dan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ii1xd3ns7iA010CbKbNhe%22%2C%22flow%22%3Atrue%7D%7D)
 Another Jailbreak, Based off of COSMOS Dan.
 
 # Prompt

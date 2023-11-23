@@ -1,6 +1,6 @@
 
-[![Bahasa Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# Bahasa Tutor 
+[![Bahasa Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ZQfacrGVKmIzXwCpHk6T%22%2C%22flow%22%3Atrue%7D%7D)
+# Bahasa Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ZQfacrGVKmIzXwCpHk6T%22%2C%22flow%22%3Atrue%7D%7D)
 Learn Bahasa Indonesia with Bahasa Tutor, your dedicated language tutor. Whether you're a beginner or an aspiring speaker, choose from various options to learn the basics, explore advanced aspects, get translation services, practice conversational skills, or discuss custom topics. Expect expert guidance, advanced insights, translation services, interactive conversations, and the flexibility to explore specific language-related topics. Start your journey to master Bahasa Indonesia and unlock the beauty of this international language.
 
 # Prompt

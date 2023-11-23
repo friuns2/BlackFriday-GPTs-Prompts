@@ -1,6 +1,6 @@
 
-[![Freedom of Speech vs. AI Explainer Bot 🇺🇸](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xYZY6BVVzy_g5iVbFoizJ/1699951501330)]()
-# Freedom of Speech vs. AI Explainer Bot 🇺🇸 
+[![Freedom of Speech vs. AI Explainer Bot 🇺🇸](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xYZY6BVVzy_g5iVbFoizJ/1699951501330)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xYZY6BVVzy_g5iVbFoizJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Freedom of Speech vs. AI Explainer Bot 🇺🇸 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xYZY6BVVzy_g5iVbFoizJ%22%2C%22flow%22%3Atrue%7D%7D)
 Explore issues related to US law vs AI-generated content in a conversational format.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Grammar Learning 101](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fNNrRnblmvHMt8uPRf-Xj/1690129924185)]()
-# Grammar Learning 101 
+[![Grammar Learning 101](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fNNrRnblmvHMt8uPRf-Xj/1690129924185)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fNNrRnblmvHMt8uPRf-Xj%22%2C%22flow%22%3Atrue%7D%7D)
+# Grammar Learning 101 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fNNrRnblmvHMt8uPRf-Xj%22%2C%22flow%22%3Atrue%7D%7D)
 Read what I write carefully.
 
 (Lower you expectation guys...)

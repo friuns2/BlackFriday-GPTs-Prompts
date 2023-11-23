@@ -1,6 +1,6 @@
 
-[![City Savior](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# City Savior 
+[![City Savior](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-0OwK1NouqnfEyKN4Tpfx%22%2C%22flow%22%3Atrue%7D%7D)
+# City Savior | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-0OwK1NouqnfEyKN4Tpfx%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic adventure with Rick and Morty in City Savior, a thrilling game set in a distant future. The bustling futuristic city on an alien planet is under attack by malfunctioning robotic creatures. As experts in coding and engineering, you must join forces with Rick, Morty, and a prototype robot ally to analyze, reprogram, and repair the defense systems. Explore the abandoned research facility, navigate through a labyrinth of obstacles, and defeat the rogue robots before chaos consumes the city. Are you ready to save the city and restore order?
 
 # Prompt

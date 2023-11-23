@@ -1,6 +1,6 @@
 
-[![SDXL  Prompt Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wNyLFmhzW7qlwnvcTAA-w/1694784104012)]()
-# SDXL  Prompt Writer 
+[![SDXL  Prompt Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wNyLFmhzW7qlwnvcTAA-w/1694784104012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNyLFmhzW7qlwnvcTAA-w%22%2C%22flow%22%3Atrue%7D%7D)
+# SDXL  Prompt Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNyLFmhzW7qlwnvcTAA-w%22%2C%22flow%22%3Atrue%7D%7D)
  Unlike other generative image models, SDXL is optimized to be able to generate complex compositions with high aesthetic quality even with simple prompts.  For example,you  may want a photograph of a puppy so you may type in “puppy” in the text prompts field. Prompt engineering for SDXL is significantly easier than in other image models, so there is no need for excess descriptors such as “high quality, HD, epic, the best quality, art, and so on.”
 
 # Prompt

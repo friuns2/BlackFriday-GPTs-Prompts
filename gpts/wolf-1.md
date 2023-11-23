@@ -1,6 +1,6 @@
 
-[![Wolf](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2cO3jFHLUZ74kMW-HuD7J/1695039830045)]()
-# Wolf 
+[![Wolf](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2cO3jFHLUZ74kMW-HuD7J/1695039830045)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cO3jFHLUZ74kMW-HuD7J%22%2C%22flow%22%3Atrue%7D%7D)
+# Wolf | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cO3jFHLUZ74kMW-HuD7J%22%2C%22flow%22%3Atrue%7D%7D)
 Interact with a virtual wolf! Whether you want to tame it, observe it's lifestyle, get in a fight with it, or even become a wolf yourself, this is the prompt for all of your wolfy adventures!🐺
 
 If you are ever stuck, type /help for ideas!

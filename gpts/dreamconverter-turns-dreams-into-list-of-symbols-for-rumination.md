@@ -1,6 +1,6 @@
 
-[![DreamConverter- Turns Dreams into list of symbols for rumination.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rZ-uePKVH6al0UsGIDgWz/1700324840021)]()
-# DreamConverter- Turns Dreams into list of symbols for rumination. 
+[![DreamConverter- Turns Dreams into list of symbols for rumination.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rZ-uePKVH6al0UsGIDgWz/1700324840021)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rZ-uePKVH6al0UsGIDgWz%22%2C%22flow%22%3Atrue%7D%7D)
+# DreamConverter- Turns Dreams into list of symbols for rumination. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rZ-uePKVH6al0UsGIDgWz%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to DreamConverter! Discover the hidden meanings behind your dreams with ease. Our app empowers you to interpret your dreams by listing the symbols and their associated attributes. Simply copy the code block list we provide, consider the emotions evoked by the symbols and attributes, and share your reactions efficiently after the equal signs. Utilize backticks (`) for easy copying and equal signs (=) for submitting your thoughts. Start analyzing your dreams today!
 
 # Prompt

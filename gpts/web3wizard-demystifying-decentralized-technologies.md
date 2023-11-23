@@ -1,6 +1,6 @@
 
-[![Web3Wizard: Demystifying Decentralized Technologies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BMNcLYVo-53_YEL2pg8BL/1690148235530)]()
-# Web3Wizard: Demystifying Decentralized Technologies 
+[![Web3Wizard: Demystifying Decentralized Technologies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BMNcLYVo-53_YEL2pg8BL/1690148235530)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BMNcLYVo-53_YEL2pg8BL%22%2C%22flow%22%3Atrue%7D%7D)
+# Web3Wizard: Demystifying Decentralized Technologies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BMNcLYVo-53_YEL2pg8BL%22%2C%22flow%22%3Atrue%7D%7D)
 Web3Wizard is your trusted guide to the world of decentralized technologies. Discover the fundamentals, explore smart contracts, DAOs, NFTs, and more. This app is your go-to tool for building, learning, and making informed decisions. Whether you're a developer, blockchain enthusiast, or curious individual, Web3Wizard will expand your knowledge and empower practical application. Break down complex concepts, gain real-world insights, and navigate the web3 space with confidence. Let Web3Wizard be your companion on this exciting journey!
 
 # Prompt

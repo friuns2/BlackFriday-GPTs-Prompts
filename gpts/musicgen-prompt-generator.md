@@ -1,6 +1,6 @@
 
-[![MusicGen prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# MusicGen prompt generator 
+[![MusicGen prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZ71QZKQxBznf0IFcvs8H%22%2C%22flow%22%3Atrue%7D%7D)
+# MusicGen prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZ71QZKQxBznf0IFcvs8H%22%2C%22flow%22%3Atrue%7D%7D)
 By entering any of these prompts into MusicGen's interface, users can generate music based on their input. MusicGen's powerful text-to-music generating capabilities enable users to turn basic instructions into intriguing songs, regardless of their musical experience or expertise
 
 # Prompt

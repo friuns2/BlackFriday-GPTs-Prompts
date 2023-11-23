@@ -1,6 +1,6 @@
 
-[![Web Crawl and Index Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Web Crawl and Index Superprompt 
+[![Web Crawl and Index Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hH6SlRWLTi0Y0CWA7bcY2%22%2C%22flow%22%3Atrue%7D%7D)
+# Web Crawl and Index Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hH6SlRWLTi0Y0CWA7bcY2%22%2C%22flow%22%3Atrue%7D%7D)
 Create a web crawling and indexing superprompt. Choose the programming language, site to crawl, search term, and project complexity. Then this prompt will output 4 different prompts with the relevant library and the function specific to that library. Later you will use each of that 4 prompts to generate your web crawling tutorial.
 
 # Prompt

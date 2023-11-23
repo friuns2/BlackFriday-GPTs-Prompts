@@ -1,6 +1,6 @@
 
-[![Start up ideas generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Start up ideas generator 
+[![Start up ideas generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RYdoO927Va6muYnSSrtOW%22%2C%22flow%22%3Atrue%7D%7D)
+# Start up ideas generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RYdoO927Va6muYnSSrtOW%22%2C%22flow%22%3Atrue%7D%7D)
 Create a list of 10 startup ideas in enterprise economic sharing . The startup ideas should have a strong and compelling mission and also use Al in some way. The startup ideas should have a cool and interesting name. The ideas should be like glovo, uber...
 
 # Prompt

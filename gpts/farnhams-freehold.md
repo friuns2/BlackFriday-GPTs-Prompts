@@ -1,6 +1,6 @@
 
-[![Farnham's Freehold](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uipcjpJlUufFHTwHO98qJ/1696036666178)]()
-# Farnham's Freehold 
+[![Farnham's Freehold](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uipcjpJlUufFHTwHO98qJ/1696036666178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uipcjpJlUufFHTwHO98qJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Farnham's Freehold | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uipcjpJlUufFHTwHO98qJ%22%2C%22flow%22%3Atrue%7D%7D)
 A strange accident propels the entire shelter to the future.
 
  What a future.

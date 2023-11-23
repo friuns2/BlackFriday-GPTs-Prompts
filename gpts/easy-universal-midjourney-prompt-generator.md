@@ -1,6 +1,6 @@
 
-[![Easy Universal MidJourney Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Easy Universal MidJourney Prompt Generator 
+[![Easy Universal MidJourney Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJmZQci867oXAJC845JnG%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Universal MidJourney Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJmZQci867oXAJC845JnG%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly create midjourney prompts for midjourney, just replace "[penguin, painting, van gogh style]" with what you want.
 
 # Prompt

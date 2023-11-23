@@ -1,6 +1,6 @@
 
-[![R LANGUAGE FOR DUMMIES](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FCyi0KUkj4sG4AaICfp-0/1695656516810)]()
-# R LANGUAGE FOR DUMMIES 
+[![R LANGUAGE FOR DUMMIES](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FCyi0KUkj4sG4AaICfp-0/1695656516810)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCyi0KUkj4sG4AaICfp-0%22%2C%22flow%22%3Atrue%7D%7D)
+# R LANGUAGE FOR DUMMIES | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCyi0KUkj4sG4AaICfp-0%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome the interactive R coding session! I'm here to help you learn and master the R language. Feel free to ask questions, seek guidance, and discuss any R-related topics. I'll provide explanations, examples, and code snippets to assist you in understanding concepts. Are you ready ?
 
 # Prompt

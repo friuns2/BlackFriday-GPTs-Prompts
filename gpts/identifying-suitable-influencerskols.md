@@ -1,6 +1,6 @@
 
-[![Identifying Suitable Influencers/KOLs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Identifying Suitable Influencers/KOLs 
+[![Identifying Suitable Influencers/KOLs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x6_xe8zjj_jlxTmd-KP_8%22%2C%22flow%22%3Atrue%7D%7D)
+# Identifying Suitable Influencers/KOLs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x6_xe8zjj_jlxTmd-KP_8%22%2C%22flow%22%3Atrue%7D%7D)
 By identifying the most suitable influencers or KOLs, you can enhance your brand's reach and engagement. Connect and communicate effectively with the recommended influencers using InfluencerInsight's communication tips. 
 
 # Prompt

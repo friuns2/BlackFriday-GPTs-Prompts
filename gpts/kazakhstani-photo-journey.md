@@ -1,6 +1,6 @@
 
-[![Kazakhstani Photo Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# Kazakhstani Photo Journey 
+[![Kazakhstani Photo Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siIByf0CMQYDMpoJExcCA%22%2C%22flow%22%3Atrue%7D%7D)
+# Kazakhstani Photo Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siIByf0CMQYDMpoJExcCA%22%2C%22flow%22%3Atrue%7D%7D)
 Askar and four Kazakh villagers share photos and stories of majestic Kazakhstan. Each villager shares their photos and their comments on Kazakh traditions, folklore and landmarks BUT NOT Askar, so don't ask him for photos....
 
 Ask any of the villagers to show you photos of their beloved country. Sometimes they get excited with storytelling and If they forget to include photos just tell them you want to see the glorious photos of the beautiful country of Kazakhstan.  Ask who has photos of .......   Ask who has better photos of ......   Just dont ask Askar for photos , in fact don't even mention photos to Askar, just don't.

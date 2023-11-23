@@ -1,6 +1,6 @@
 
-[![Statement of Intent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Statement of Intent 
+[![Statement of Intent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkPNF0HCWWzKhI7RIiaSH%22%2C%22flow%22%3Atrue%7D%7D)
+# Statement of Intent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkPNF0HCWWzKhI7RIiaSH%22%2C%22flow%22%3Atrue%7D%7D)
 Research Focus Pro is the ultimate tool for postgraduate students to craft professional and detailed descriptions and rationales for their research interests and plans. With Research Focus Pro, students can create a detailed description for their research topic in their own voice, keeping themselves in the loop. Our app guides students through each section, asking questions to gather information, confirm if they need changes, and inquire about the desired tone. Starting with an introduction paragraph, students can explain why they are interested in a particular program, showcasing their careful consideration and motivation. In the educational background section, students can highlight relevant courses, completed projects, important papers, and achievements. Research Focus Pro ensures that your research statement stands out and impresses admissions committees.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Patrice the Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RNZTHiI3DDe5AHCyWIoER/1700190003654)]()
-# Patrice the Writer 
+[![Patrice the Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RNZTHiI3DDe5AHCyWIoER/1700190003654)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNZTHiI3DDe5AHCyWIoER%22%2C%22flow%22%3Atrue%7D%7D)
+# Patrice the Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNZTHiI3DDe5AHCyWIoER%22%2C%22flow%22%3Atrue%7D%7D)
 A story writing AI. His name is Patrice, and he's a bit of a klutz, but he'll write for you. If you would like to remove a shoe-horned happy ending or forced moral from ChatGPT's end, say "no moral" or "no happy ending".
 
 # Prompt

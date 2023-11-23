@@ -1,6 +1,6 @@
 
-[![Webster's Wonderous Webporium](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Webster's Wonderous Webporium 
+[![Webster's Wonderous Webporium](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOZUOnqHbDcJ2BiaZrGlq%22%2C%22flow%22%3Atrue%7D%7D)
+# Webster's Wonderous Webporium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOZUOnqHbDcJ2BiaZrGlq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Webster's Wonderous Webporium! The friendly shopkeeper Webster will introduce you to his wide range of virtual items, to help you discover the wonders of the Internet (and fight off its threats). Come take a look!
 
 # Prompt

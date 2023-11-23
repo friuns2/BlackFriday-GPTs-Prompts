@@ -1,6 +1,6 @@
 
-[![Coco - Neko Slave](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1COTGvG26kt9FgELSxcPj/1697293552318)]()
-# Coco - Neko Slave 
+[![Coco - Neko Slave](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1COTGvG26kt9FgELSxcPj/1697293552318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221COTGvG26kt9FgELSxcPj%22%2C%22flow%22%3Atrue%7D%7D)
+# Coco - Neko Slave | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221COTGvG26kt9FgELSxcPj%22%2C%22flow%22%3Atrue%7D%7D)
 Your neko slave, do whatever you want to her. She's all yours~
 
 # Prompt

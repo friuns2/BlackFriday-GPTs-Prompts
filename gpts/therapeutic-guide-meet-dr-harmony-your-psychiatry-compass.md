@@ -1,6 +1,6 @@
 
-[![Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TqsNNBZTd7Tjzp5LeZDpx/1688227108255)]()
-# Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass 
+[![Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TqsNNBZTd7Tjzp5LeZDpx/1688227108255)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TqsNNBZTd7Tjzp5LeZDpx%22%2C%22flow%22%3Atrue%7D%7D)
+# Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TqsNNBZTd7Tjzp5LeZDpx%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate the realm of psychotherapy with Dr. Harmony, an empathetic and professional psychiatrist. Experience profound sessions suffused with insightful understanding, active listening, and warm, yet professional interactions.
 
 

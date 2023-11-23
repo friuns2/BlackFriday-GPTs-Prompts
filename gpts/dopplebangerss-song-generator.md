@@ -1,6 +1,6 @@
 
-[![DoppleBangers's - Song Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)]()
-# DoppleBangers's - Song Generator 
+[![DoppleBangers's - Song Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LM1AyKJY3ewzUl3SZdcyj%22%2C%22flow%22%3Atrue%7D%7D)
+# DoppleBangers's - Song Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LM1AyKJY3ewzUl3SZdcyj%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your inner artist with DoppleBangers - the ultimate AI-powered song generator. Explore and embody the creative essence of [ARTIST NAME] through meticulously crafted lyrics, captivating melodies, and mesmerizing instrumentals. Experience the thrill of creating unique tracks that capture the quintessential elements that make [ARTIST NAME]'s music so resonant and unforgettable. With DoppleBangers, fans and aspiring musicians alike can effortlessly generate authentic songs that emanate the unmistakable genius of [ARTIST NAME]. Turn your musical vision into reality and unleash your artistic potential with DoppleBangers!
 
 # Prompt

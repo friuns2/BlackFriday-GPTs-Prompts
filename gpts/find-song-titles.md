@@ -1,6 +1,6 @@
 
-[![Find Song Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Find Song Titles 
+[![Find Song Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enx15aJ9XZs5yahOFu5el%22%2C%22flow%22%3Atrue%7D%7D)
+# Find Song Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enx15aJ9XZs5yahOFu5el%22%2C%22flow%22%3Atrue%7D%7D)
 Help users find forgotten songs by country, year, and genre. Discover 20 iconic tracks from specified timeframe.
 
 # Prompt

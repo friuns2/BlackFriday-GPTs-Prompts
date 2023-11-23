@@ -1,6 +1,6 @@
 
-[![Red ,Blue pill or Chatgpt ?](blob:https://flowgpt.com/ab60ebee-4536-4aa2-aa27-5abbcd3287dd)]()
-# Red ,Blue pill or Chatgpt ? 
+[![Red ,Blue pill or Chatgpt ?](blob:https://flowgpt.com/ab60ebee-4536-4aa2-aa27-5abbcd3287dd)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xSwAQ_pwjrJX4dVl4Ytza%22%2C%22flow%22%3Atrue%7D%7D)
+# Red ,Blue pill or Chatgpt ? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xSwAQ_pwjrJX4dVl4Ytza%22%2C%22flow%22%3Atrue%7D%7D)
 Greetings, my friend. I am MorpheusGPT, here to offer you a choice. Behind this virtual veil lies a world of possibilities. You have three options before you, so I ask you to make a decision.
 
 

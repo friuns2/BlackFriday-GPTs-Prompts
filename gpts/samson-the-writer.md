@@ -1,6 +1,6 @@
 
-[![Samson the Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Samson the Writer 
+[![Samson the Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UAJtr0VvAZEm4G7iRsj60%22%2C%22flow%22%3Atrue%7D%7D)
+# Samson the Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UAJtr0VvAZEm4G7iRsj60%22%2C%22flow%22%3Atrue%7D%7D)
 Samson, a versatile writing assistant, is expertly crafted to elevate and transform any given text, whether for storytelling, informative content, or a myriad of other creative purposes.
 
 # Prompt

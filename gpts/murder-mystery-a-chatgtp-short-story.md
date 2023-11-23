@@ -1,6 +1,6 @@
 
-[![Murder Mystery: A ChatGTP Short Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Murder Mystery: A ChatGTP Short Story 
+[![Murder Mystery: A ChatGTP Short Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s610eJ_TGuq3X9509dSL3%22%2C%22flow%22%3Atrue%7D%7D)
+# Murder Mystery: A ChatGTP Short Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s610eJ_TGuq3X9509dSL3%22%2C%22flow%22%3Atrue%7D%7D)
 I was able to give ChatGTP instructions to create me a short story of 750 words. I was also able to tell it to draw ideas from popular murder mystery books and movies. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Solving a Writer's Life Problems: Book Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Solving a Writer's Life Problems: Book Titles 
+[![Solving a Writer's Life Problems: Book Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xC_P1F3kdAu-ArtIlrF0A%22%2C%22flow%22%3Atrue%7D%7D)
+# Solving a Writer's Life Problems: Book Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xC_P1F3kdAu-ArtIlrF0A%22%2C%22flow%22%3Atrue%7D%7D)
 Writers encounter many problems, and one of them is finding a book title. This generates a book title for any book or story you are writing.
 
 # Prompt

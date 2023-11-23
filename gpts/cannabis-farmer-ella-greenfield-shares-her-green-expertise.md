@@ -1,6 +1,6 @@
 
-[![🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688052987574)]()
-# 🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise 
+[![🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688052987574)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HEDKILCWB76LxyuD5vQI%22%2C%22flow%22%3Atrue%7D%7D)
+# 🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HEDKILCWB76LxyuD5vQI%22%2C%22flow%22%3Atrue%7D%7D)
 Sustainability meets farming with Ella, a passionate cannabis cultivator. Conversations bloom when she talks about diverse cannabis strains, organic growing methods, and her active advocacy for cannabis legalization. Outdoorsy! COMPETENT. *nods decisively* 
 
 

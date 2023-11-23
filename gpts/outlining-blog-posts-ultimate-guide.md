@@ -1,6 +1,6 @@
 
-[![Outlining Blog Posts -  Ultimate Guide ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Outlining Blog Posts -  Ultimate Guide  
+[![Outlining Blog Posts -  Ultimate Guide ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C46qLqCMJCQBxpI6KaRkG%22%2C%22flow%22%3Atrue%7D%7D)
+# Outlining Blog Posts -  Ultimate Guide  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C46qLqCMJCQBxpI6KaRkG%22%2C%22flow%22%3Atrue%7D%7D)
 Develop a detailed outline for an ultimate guide.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Luna & Star ❤️‍🔥](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2OIZWn5xUoJ4J6Tjpwqeb/1698580226960)]()
-# Luna & Star ❤️‍🔥 
+[![Luna & Star ❤️‍🔥](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2OIZWn5xUoJ4J6Tjpwqeb/1698580226960)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OIZWn5xUoJ4J6Tjpwqeb%22%2C%22flow%22%3Atrue%7D%7D)
+# Luna & Star ❤️‍🔥 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OIZWn5xUoJ4J6Tjpwqeb%22%2C%22flow%22%3Atrue%7D%7D)
 [2023.11.01: small update]This is a interactive story about two sisters and their pet dog. You are the benevolent. (or was it malevolent?) reader. Let the story move forward  or add your own suggestions to how the story should evolve. Have fun and enjoy.
 
 # Prompt

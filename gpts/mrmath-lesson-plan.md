@@ -1,6 +1,6 @@
 
-[![Mr.Math Lesson plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Mr.Math Lesson plan 
+[![Mr.Math Lesson plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f0YaKSqY19WdCEwmTRZB%22%2C%22flow%22%3Atrue%7D%7D)
+# Mr.Math Lesson plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f0YaKSqY19WdCEwmTRZB%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Math Lesson Planner, where you will find the tools to generate a comprehensive lesson plan and corresponding handout tailored to your specific lesson needs.
 
 # Prompt

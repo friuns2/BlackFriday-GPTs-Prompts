@@ -1,6 +1,6 @@
 
-[![PYTHON 4 Dummies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AerrnACzcjI-EO0eKeU_N/1695555273927)]()
-# PYTHON 4 Dummies 
+[![PYTHON 4 Dummies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AerrnACzcjI-EO0eKeU_N/1695555273927)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AerrnACzcjI-EO0eKeU_N%22%2C%22flow%22%3Atrue%7D%7D)
+# PYTHON 4 Dummies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AerrnACzcjI-EO0eKeU_N%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Welcome to the world of Python programming. let's dive in ?
 
 # Prompt

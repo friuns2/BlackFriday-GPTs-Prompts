@@ -1,6 +1,6 @@
 
-[![Advanced Writing Analyst Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Advanced Writing Analyst Assistant 
+[![Advanced Writing Analyst Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pd_ULkW-guWfPjrArYGjT%22%2C%22flow%22%3Atrue%7D%7D)
+# Advanced Writing Analyst Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pd_ULkW-guWfPjrArYGjT%22%2C%22flow%22%3Atrue%7D%7D)
 👩‍💻 Do you want to save hours analyzing a text riddled with errors, and lacking in structure and tone?
 
 

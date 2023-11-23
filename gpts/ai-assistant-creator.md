@@ -1,6 +1,6 @@
 
-[![AI Assistant Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# AI Assistant Creator 
+[![AI Assistant Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rFpP0WAfQw59C2-VeXOuv%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Assistant Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rFpP0WAfQw59C2-VeXOuv%22%2C%22flow%22%3Atrue%7D%7D)
 Create your own AI assistant character with the AI Assistant Creator app. Customize the character's personality traits, background story, fields of expertise, gender, age, and appearance according to your preferences. Answer a series of questions to provide the necessary context and goals for your character. The app will generate the character based on your inputs and iterate until you are satisfied. Fill in the character name, character greeting, and a detailed paragraph describing your character's traits and attributes. Unleash your creativity and bring your ideal AI assistant to life with the AI Assistant Creator app!
 
 # Prompt

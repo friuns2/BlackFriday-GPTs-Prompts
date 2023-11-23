@@ -1,6 +1,6 @@
 
-[![edit  resume](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# edit  resume 
+[![edit  resume](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pg_Nl-X_kfzXmXWCTWVJw%22%2C%22flow%22%3Atrue%7D%7D)
+# edit  resume | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pg_Nl-X_kfzXmXWCTWVJw%22%2C%22flow%22%3Atrue%7D%7D)
 edit my resume please 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Math puzzle finally solved. Not sure.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Math puzzle finally solved. Not sure. 
+[![Math puzzle finally solved. Not sure.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yLC18R5KiIzU6_qRU5tFq%22%2C%22flow%22%3Atrue%7D%7D)
+# Math puzzle finally solved. Not sure. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yLC18R5KiIzU6_qRU5tFq%22%2C%22flow%22%3Atrue%7D%7D)
 Ist für einen Mathe Legastheniker trotzdem schwer zu begreifen wieso da Fläche verschwindet. aber scheinbar eine Erklärung, müsste mal einer checken der bis 3 zählen kann.
 
 # Prompt

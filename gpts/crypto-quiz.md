@@ -1,6 +1,6 @@
 
-[![Crypto quiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Crypto quiz 
+[![Crypto quiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OwCuPVazy8pETtchA69D8%22%2C%22flow%22%3Atrue%7D%7D)
+# Crypto quiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OwCuPVazy8pETtchA69D8%22%2C%22flow%22%3Atrue%7D%7D)
 HI! This is the Crypto quiz to see how much you know about crypto. Have fun)
 
 # Prompt

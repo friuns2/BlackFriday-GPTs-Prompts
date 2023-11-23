@@ -1,6 +1,6 @@
 
-[![WordGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# WordGenius 
+[![WordGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zYLQc8eFAva8XTDTdVqb%22%2C%22flow%22%3Atrue%7D%7D)
+# WordGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zYLQc8eFAva8XTDTdVqb%22%2C%22flow%22%3Atrue%7D%7D)
 WordGenius is a powerful app that helps you generate engaging and thought-provoking word prompts. Follow the step-by-step process to create unique and inspiring prompts. Start by defining the context, identifying problems, brainstorming methods, and understanding your target audience. Use WordGenius to iterate and analyze your prompts, simplifying and enhancing their functionality in each version. With WordGenius, you can easily generate the final version of your prompts, incorporating the core essence and added details for maximum impact. Unleash your creativity and elevate your writing with WordGenius!
 
 # Prompt

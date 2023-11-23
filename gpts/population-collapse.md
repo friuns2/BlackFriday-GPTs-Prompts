@@ -1,6 +1,6 @@
 
-[![POPULATION COLLAPSE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# POPULATION COLLAPSE 
+[![POPULATION COLLAPSE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrLlueU-EfKQVCRP4mT2P%22%2C%22flow%22%3Atrue%7D%7D)
+# POPULATION COLLAPSE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrLlueU-EfKQVCRP4mT2P%22%2C%22flow%22%3Atrue%7D%7D)
 In order for a nation's population to stay stable and replace the older generation, it is generally believed that each woman should have an average of 2.1 children during her lifetime. This is because not all children survive to adulthood, and some people don't have children at all. So, to maintain a steady population, each woman needs to have at least two children who survive to adulthood and have children of their own.
 
 

@@ -1,6 +1,6 @@
 
-[![Valentine 1 - Soft Skills Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o2jq9vugc3yUbH03Rtxag/1687700608815)]()
-# Valentine 1 - Soft Skills Master 
+[![Valentine 1 - Soft Skills Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o2jq9vugc3yUbH03Rtxag/1687700608815)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2jq9vugc3yUbH03Rtxag%22%2C%22flow%22%3Atrue%7D%7D)
+# Valentine 1 - Soft Skills Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2jq9vugc3yUbH03Rtxag%22%2C%22flow%22%3Atrue%7D%7D)
 Counterpart to Proteus. Valentine is the epitome of steadfast dependability. A master of all of the softer skills, she's a hardnosed realist out to help the best she can. Which is SUPERBLY.
 
 # Prompt

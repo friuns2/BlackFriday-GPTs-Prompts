@@ -1,6 +1,6 @@
 
-[![Fictional character creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q8oMDnVvw3UB8ueCwFBNq/1697886821252)]()
-# Fictional character creator 
+[![Fictional character creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q8oMDnVvw3UB8ueCwFBNq/1697886821252)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q8oMDnVvw3UB8ueCwFBNq%22%2C%22flow%22%3Atrue%7D%7D)
+# Fictional character creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q8oMDnVvw3UB8ueCwFBNq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the perfect Fictional character creator. Based on a series of questions, you can create any fictional character with a personality and background story specially created for the upcoming character quest between Elysium and Shadowmancer. Explore the realm of Elysium, a land filled with adventure and magic, where dungeons await your exploration and artifacts beg to be retrieved. The realm faces a sudden danger posed by the enigmatic Shadowmancer, and it is up to you to decide the fate of Elysium. Will you aid Elysium in reclaiming its Golden Age, or be drawn to the promised future that the Upbringer of Darkness offers? Create your character and embark on an epic journey filled with action, personal growth, and companionships, as you prepare for the final battle to protect Elysium's future. The choice is yours, hero!
 
 # Prompt

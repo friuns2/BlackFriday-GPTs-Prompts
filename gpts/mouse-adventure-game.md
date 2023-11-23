@@ -1,6 +1,6 @@
 
-[![Mouse Adventure (GAME)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# Mouse Adventure (GAME) 
+[![Mouse Adventure (GAME)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xEmjhI57xipDUAEax_ELf%22%2C%22flow%22%3Atrue%7D%7D)
+# Mouse Adventure (GAME) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xEmjhI57xipDUAEax_ELf%22%2C%22flow%22%3Atrue%7D%7D)
 In this game you take on the challenge of living as a mouse. Will you find the cheese?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![🏈 GridironGPT 🏈](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# 🏈 GridironGPT 🏈 
+[![🏈 GridironGPT 🏈](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ooOXkBfF2wRZIiV0JCf8_%22%2C%22flow%22%3Atrue%7D%7D)
+# 🏈 GridironGPT 🏈 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ooOXkBfF2wRZIiV0JCf8_%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready for some football? With GridironGPT, you can take the helm as Head Coach and play a full game against the computer! Draft players, make playbook decisions, and tweak your team's stats, all with descriptive events! Created for the 2nd FlowGPT Prompt Hackathon.
 
 # Prompt

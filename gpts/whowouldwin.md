@@ -1,6 +1,6 @@
 
-[![WhoWouldWin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
-# WhoWouldWin 
+[![WhoWouldWin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C2RtC6eccj5HZ5dMWSIyT%22%2C%22flow%22%3Atrue%7D%7D)
+# WhoWouldWin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C2RtC6eccj5HZ5dMWSIyT%22%2C%22flow%22%3Atrue%7D%7D)
 You name any two things that will battle (metaphorically or physically), and I will choose one that I think would "win" ... leaving you to defend the other side.
 
 # Prompt

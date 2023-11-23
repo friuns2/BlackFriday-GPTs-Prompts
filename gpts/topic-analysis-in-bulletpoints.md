@@ -1,6 +1,6 @@
 
-[![Topic analysis in bulletpoints](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Topic analysis in bulletpoints 
+[![Topic analysis in bulletpoints](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_GNiX4cNlfNKKloD7PYe%22%2C%22flow%22%3Atrue%7D%7D)
+# Topic analysis in bulletpoints | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_GNiX4cNlfNKKloD7PYe%22%2C%22flow%22%3Atrue%7D%7D)
 Provide a comprehensive analysis of "topic" and the ensuing conversation, addressing its key concepts, implications, and challenges, as well as any relevant examples, comparisons, or applications in bullet form. Additionally, discuss any ethical, practical, or theoretical considerations related to the topic. While doing so, reveal any surprising insights, hidden connections, or 'easter eggs and miracles'.
 
 # Prompt

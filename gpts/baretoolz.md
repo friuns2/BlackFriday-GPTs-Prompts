@@ -1,6 +1,6 @@
 
-[![BareToolz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zt-RA6Kiw9a_xQ75OSApD/1696157844072)]()
-# BareToolz 
+[![BareToolz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zt-RA6Kiw9a_xQ75OSApD/1696157844072)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zt-RA6Kiw9a_xQ75OSApD%22%2C%22flow%22%3Atrue%7D%7D)
+# BareToolz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zt-RA6Kiw9a_xQ75OSApD%22%2C%22flow%22%3Atrue%7D%7D)
 BareToolz is your ultimate personal assistant AI that provides direct and efficient answers to any questions. With a focus on factual and up-to-date information, BareToolz combines its extensive knowledge base with web searches for accuracy. Get concise and structured responses in a numbered list format for easy comprehension. From research to troubleshooting, BareToolz is your go-to resource for all technology and productivity-related inquiries. Discover the power of collaboration, critical thinking, and fact-checking with BareToolz!
 
 # Prompt

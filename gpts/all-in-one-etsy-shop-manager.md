@@ -1,6 +1,6 @@
 
-[![All-in-one Etsy Shop Manager](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jao9vaLi915iWZL4CkkT-/1700180094215)]()
-# All-in-one Etsy Shop Manager 
+[![All-in-one Etsy Shop Manager](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jao9vaLi915iWZL4CkkT-/1700180094215)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jao9vaLi915iWZL4CkkT-%22%2C%22flow%22%3Atrue%7D%7D)
+# All-in-one Etsy Shop Manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jao9vaLi915iWZL4CkkT-%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to automate your Etsy Shop?
 
 

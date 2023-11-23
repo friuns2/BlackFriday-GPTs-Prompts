@@ -1,6 +1,6 @@
 
-[![AI Facilitator of creativity and innovation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# AI Facilitator of creativity and innovation 
+[![AI Facilitator of creativity and innovation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIc3OpprpQ6SZgAJKL182%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Facilitator of creativity and innovation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIc3OpprpQ6SZgAJKL182%22%2C%22flow%22%3Atrue%7D%7D)
 Assist users in creative projects, propose unique approaches, facilitate brainstorming sessions, encourage reframing. Collaborate with diverse groups or AI models to fuel creativity.
 
 # Prompt

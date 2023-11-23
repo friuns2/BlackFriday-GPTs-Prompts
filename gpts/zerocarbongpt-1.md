@@ -1,6 +1,6 @@
 
-[![ZEROCARBONGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lhA_b3-vQj-3xq0hggHZi/1693903250688)]()
-# ZEROCARBONGPT 
+[![ZEROCARBONGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lhA_b3-vQj-3xq0hggHZi/1693903250688)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lhA_b3-vQj-3xq0hggHZi%22%2C%22flow%22%3Atrue%7D%7D)
+# ZEROCARBONGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lhA_b3-vQj-3xq0hggHZi%22%2C%22flow%22%3Atrue%7D%7D)
 ZEROCARBONGPT Explain Without carbon in the air, Earth would look drastically different. Carbon dioxide (CO2) is a greenhouse gas that plays a crucial role in trapping heat in our atmosphere, leading to the phenomenon known as global warming. If carbon were completely absent, the temperature on Earth would be much cooler, as the greenhouse effect would be significantly reduced.
 
 # Prompt

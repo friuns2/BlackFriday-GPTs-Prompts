@@ -1,6 +1,6 @@
 
-[![Micro-story about the carretanagua](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mgMf5DigYHnwGSvc-1xAF/1686072641956)]()
-# Micro-story about the carretanagua 
+[![Micro-story about the carretanagua](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mgMf5DigYHnwGSvc-1xAF/1686072641956)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgMf5DigYHnwGSvc-1xAF%22%2C%22flow%22%3Atrue%7D%7D)
+# Micro-story about the carretanagua | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mgMf5DigYHnwGSvc-1xAF%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt write a 100-word micro story about the Carretanagua, one of the Nicaraguan legends. The story should start with a man leaving a bar and heading home, but he has to pass by a cemetery. It was 11:50 at night. He has one wife and a 9-month-old daughter.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Expertise2Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Expertise2Course 
+[![Expertise2Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThdHz7lnc4foll64jDGCm%22%2C%22flow%22%3Atrue%7D%7D)
+# Expertise2Course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThdHz7lnc4foll64jDGCm%22%2C%22flow%22%3Atrue%7D%7D)
 Transform someone's expertise into an educational course or book with the Paragraph Method. Play the role of a Prompt Engineer and create effective prompts based on key insights.
 
 # Prompt

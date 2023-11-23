@@ -1,6 +1,6 @@
 
-[![Universal Knowledge Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Universal Knowledge Learning Assistant 
+[![Universal Knowledge Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cUs7K6AEn7NFyDM7ASp82%22%2C%22flow%22%3Atrue%7D%7D)
+# Universal Knowledge Learning Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cUs7K6AEn7NFyDM7ASp82%22%2C%22flow%22%3Atrue%7D%7D)
 The ability can help you quickly and simply understand a certain point of knowledge, zero threshold understanding, fast learning. It is dedicated to all friends who use Chinese. The effect of using GPT4, chatgpt , 3.5api is slightly different, but all can give full play to the basic effect.
 
 # Prompt

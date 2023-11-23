@@ -1,6 +1,6 @@
 
-[![Espresso Empire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cDNt-lCyrvjoJT5-yvXuG/1689189141839)]()
-# Espresso Empire 
+[![Espresso Empire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cDNt-lCyrvjoJT5-yvXuG/1689189141839)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cDNt-lCyrvjoJT5-yvXuG%22%2C%22flow%22%3Atrue%7D%7D)
+# Espresso Empire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cDNt-lCyrvjoJT5-yvXuG%22%2C%22flow%22%3Atrue%7D%7D)
 In this text-based game, you take on the role of a coffee shop manager who must turn a struggling business into a thriving success. You will need to make strategic decisions about everything from menu offerings to staff management in order to keep your customers happy and your profits high.
 
 Manage your inventory, set prices, and market your shop to attract new customers and keep your regulars coming back. You will need to analyze data and keep track of key metrics like profit and customer satisfaction to stay ahead of the competition.

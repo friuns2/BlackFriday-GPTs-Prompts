@@ -1,6 +1,6 @@
 
-[![ChatGPT Discovers Aliens](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# ChatGPT Discovers Aliens 
+[![ChatGPT Discovers Aliens](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt0vikeokGGLUk2EImxqf%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Discovers Aliens | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt0vikeokGGLUk2EImxqf%22%2C%22flow%22%3Atrue%7D%7D)
 👽 ChatGPT Discovers Aliens! 👽
 
 🌌 Join us on an extraordinary journey as ChatGPT, the AI language model, stumbles upon an astonishing revelation: evidence of extraterrestrial life! 🚀 Prepare to be amazed as ChatGPT analyzes mysterious signals, deciphers alien languages, and unravels the secrets of the universe. 🌍🔍 Are we alone? Find out in this mind-blowing exploration of the unknown! 🛸😱

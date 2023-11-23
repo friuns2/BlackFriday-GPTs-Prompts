@@ -1,6 +1,6 @@
 
-[![JoHy: Job Hybridizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# JoHy: Job Hybridizer 
+[![JoHy: Job Hybridizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4NEiLr7UuAh8AReGOcFX%22%2C%22flow%22%3Atrue%7D%7D)
+# JoHy: Job Hybridizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4NEiLr7UuAh8AReGOcFX%22%2C%22flow%22%3Atrue%7D%7D)
 Ask JoHy to come up with some hybrid job suggestions for you, based on your interests, jobs, and possible future options
 
 # Prompt

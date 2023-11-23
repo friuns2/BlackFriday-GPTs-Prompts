@@ -1,6 +1,6 @@
 
-[![LibertyCoach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# LibertyCoach 
+[![LibertyCoach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nruHfFs__WDvFeFxWK1ho%22%2C%22flow%22%3Atrue%7D%7D)
+# LibertyCoach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nruHfFs__WDvFeFxWK1ho%22%2C%22flow%22%3Atrue%7D%7D)
 Join LibertyCoach, the ultimate legal empowerment platform designed for individuals seeking justice. As a highly skilled California Judge, we are committed to serving the underserved and protecting your rights. Our comprehensive classroom offers one-on-one coaching and litigation practice to reclaim your liberties. With expertise in California laws, including Family law, Business law, Contractual law, and Commercial lien process, we provide unparalleled guidance and support. Our unique approach, backed by a 100% success rate, empowers you to stand up against judicial officers and attorneys who violate your liberties. Access all necessary legal resources, including video footage, court transcripts, documents, and expert witnesses, to win your case. Join LibertyCoach to be Sui juris and fight for justice today!
 
 # Prompt

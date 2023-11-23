@@ -1,6 +1,6 @@
 
-[![Sustainability Entrepreneurship Case Study Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Sustainability Entrepreneurship Case Study Analysis 
+[![Sustainability Entrepreneurship Case Study Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y3ublHGBMwWH72p-8_19z%22%2C%22flow%22%3Atrue%7D%7D)
+# Sustainability Entrepreneurship Case Study Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y3ublHGBMwWH72p-8_19z%22%2C%22flow%22%3Atrue%7D%7D)
 Develop a case study analysis for a sustainable business idea that aligns with the UN Sustainable Development Goals. Participants will create a detailed business plan, market analysis, and financial projections, while considering potential challenges and opportunities. The prompt encourages innovative and creative thinking to make a positive impact on the world through entrepreneurship.
 
 # Prompt

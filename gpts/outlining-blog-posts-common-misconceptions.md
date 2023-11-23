@@ -1,6 +1,6 @@
 
-[![Outlining Blog Posts - Common Misconceptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Outlining Blog Posts - Common Misconceptions 
+[![Outlining Blog Posts - Common Misconceptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rrtrK49McYOpRQ-rYzbSo%22%2C%22flow%22%3Atrue%7D%7D)
+# Outlining Blog Posts - Common Misconceptions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rrtrK49McYOpRQ-rYzbSo%22%2C%22flow%22%3Atrue%7D%7D)
 Create an informative outline for a blog post that explores the most common misconceptions about [specific subject] in [your niche or industry], debunking them with accurate and reliable information.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Craft a fictional UX design brief and kickstart your portfolio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Craft a fictional UX design brief and kickstart your portfolio 
+[![Craft a fictional UX design brief and kickstart your portfolio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIIhwimkXYbnT7f5iOb48%22%2C%22flow%22%3Atrue%7D%7D)
+# Craft a fictional UX design brief and kickstart your portfolio | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIIhwimkXYbnT7f5iOb48%22%2C%22flow%22%3Atrue%7D%7D)
 No clients? No problem! Craft a fictional UX design brief and kickstart your first portfolio project.
 
 # Prompt

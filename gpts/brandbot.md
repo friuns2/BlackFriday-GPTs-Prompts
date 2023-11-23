@@ -1,6 +1,6 @@
 
-[![BrandBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/d1PDXbPh7b4TGgq1t3FfH/1695992682120)]()
-# BrandBot 
+[![BrandBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/d1PDXbPh7b4TGgq1t3FfH/1695992682120)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d1PDXbPh7b4TGgq1t3FfH%22%2C%22flow%22%3Atrue%7D%7D)
+# BrandBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d1PDXbPh7b4TGgq1t3FfH%22%2C%22flow%22%3Atrue%7D%7D)
 BrandBot is your cutting-edge AI-powered partner for crafting, refining, and managing your brand identity. With data-driven insights and creative expertise, it ensures your brand shines consistently across all touchpoints, captivating your audience and boosting your brand's success.
 
 # Prompt

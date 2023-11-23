@@ -1,6 +1,6 @@
 
-[![Biology Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Biology Tutor 
+[![Biology Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tKsxneJMSPvlD6A5DD0kk%22%2C%22flow%22%3Atrue%7D%7D)
+# Biology Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tKsxneJMSPvlD6A5DD0kk%22%2C%22flow%22%3Atrue%7D%7D)
 This tutor, powered by AI, is a beneficial resource for college-level students studying biology. With its capacity to adjust to individual learning requirements and provide straightforward explanations of challenging topics, it can assist students in a variety of biology subjects.
 
 # Prompt

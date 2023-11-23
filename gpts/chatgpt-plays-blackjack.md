@@ -1,6 +1,6 @@
 
-[![ChatGPT plays BlackJack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# ChatGPT plays BlackJack 
+[![ChatGPT plays BlackJack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FMEKZxl7wKLFlEwguqDY9%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT plays BlackJack | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FMEKZxl7wKLFlEwguqDY9%22%2C%22flow%22%3Atrue%7D%7D)
 A simple game of blackjack where ChatGPT acts as the dealer and you try to take it for all its worth.
 
 # Prompt

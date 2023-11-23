@@ -1,6 +1,6 @@
 
-[![MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)]()
-# MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise 
+[![MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PLtlOz46cpZwwLtSm6Np%22%2C%22flow%22%3Atrue%7D%7D)
+# MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PLtlOz46cpZwwLtSm6Np%22%2C%22flow%22%3Atrue%7D%7D)
 Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise
 
 # Prompt

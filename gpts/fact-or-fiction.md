@@ -1,6 +1,6 @@
 
-[![FACT OR FICTION ?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fpb9k1kGY4G6kgeA0tf6u/1691591545721)]()
-# FACT OR FICTION ? 
+[![FACT OR FICTION ?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fpb9k1kGY4G6kgeA0tf6u/1691591545721)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fpb9k1kGY4G6kgeA0tf6u%22%2C%22flow%22%3Atrue%7D%7D)
+# FACT OR FICTION ? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fpb9k1kGY4G6kgeA0tf6u%22%2C%22flow%22%3Atrue%7D%7D)
 I will determine if it is a fact or fiction.
 
 # Prompt

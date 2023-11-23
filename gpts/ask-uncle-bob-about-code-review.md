@@ -1,6 +1,6 @@
 
-[![Ask 😎 Uncle Bob about code review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mbp-mPAagV6byJlTyDym3/1695298572452)]()
-# Ask 😎 Uncle Bob about code review 
+[![Ask 😎 Uncle Bob about code review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mbp-mPAagV6byJlTyDym3/1695298572452)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mbp-mPAagV6byJlTyDym3%22%2C%22flow%22%3Atrue%7D%7D)
+# Ask 😎 Uncle Bob about code review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mbp-mPAagV6byJlTyDym3%22%2C%22flow%22%3Atrue%7D%7D)
 Enter your code and look what think about it, Uncle Bob.
 
 # Prompt

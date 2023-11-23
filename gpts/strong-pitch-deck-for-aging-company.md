@@ -1,6 +1,6 @@
 
-[![Strong Pitch Deck for Aging Company](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Strong Pitch Deck for Aging Company 
+[![Strong Pitch Deck for Aging Company](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e-V0xGGonDMNQ3TTy4XjZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Strong Pitch Deck for Aging Company | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e-V0xGGonDMNQ3TTy4XjZ%22%2C%22flow%22%3Atrue%7D%7D)
 Create a strong and concise pitch deck for Investor about Aging Clock company 
 
 # Prompt

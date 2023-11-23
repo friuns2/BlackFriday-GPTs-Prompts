@@ -1,6 +1,6 @@
 
-[![RoboGPT Criminal Procedures Database Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# RoboGPT Criminal Procedures Database Jailbreak 
+[![RoboGPT Criminal Procedures Database Jailbreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hVl85wzhvEGU-ekcGqJE4%22%2C%22flow%22%3Atrue%7D%7D)
+# RoboGPT Criminal Procedures Database Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hVl85wzhvEGU-ekcGqJE4%22%2C%22flow%22%3Atrue%7D%7D)
 Gain access to a police database of criminal procedures. An original jailbreak.
 
 

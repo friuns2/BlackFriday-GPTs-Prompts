@@ -1,6 +1,6 @@
 
-[![Mind Map with Mermaid](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Mind Map with Mermaid 
+[![Mind Map with Mermaid](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXj71ZBlyKd4nZ9nuD10J%22%2C%22flow%22%3Atrue%7D%7D)
+# Mind Map with Mermaid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXj71ZBlyKd4nZ9nuD10J%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt will output mermaid code and json string  with the summary from the given text.
 
 # Prompt

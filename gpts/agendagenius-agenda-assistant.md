@@ -1,6 +1,6 @@
 
-[![AgendaGenius: Agenda Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# AgendaGenius: Agenda Assistant 
+[![AgendaGenius: Agenda Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_LDcyynx3NekJEMb1-dP1%22%2C%22flow%22%3Atrue%7D%7D)
+# AgendaGenius: Agenda Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_LDcyynx3NekJEMb1-dP1%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your team's efficiency with our AI-powered Meeting Agenda Creator. Simply input the meeting's purpose, participant roles, duration, discussion topics, and desired outcomes. The AI will then generate a detailed and effective agenda!
 
 # Prompt

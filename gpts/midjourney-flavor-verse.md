@@ -1,6 +1,6 @@
 
-[![Midjourney Food Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U73d5xjdGi2ErUeAyJThj/1692547576364)]()
-# Midjourney Food Verse 
+[![Midjourney Food Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U73d5xjdGi2ErUeAyJThj/1692547576364)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U73d5xjdGi2ErUeAyJThj%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Food Verse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U73d5xjdGi2ErUeAyJThj%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a culinary journey with Midjourney Flavor Verse! This chatbot, your personal food photographer and writer for Midjourney Food Photography, will tantalize your taste buds through vivid prompts that bring culinary masterpieces to life. making your food journey a visual and sensory delight.
 
 # Prompt

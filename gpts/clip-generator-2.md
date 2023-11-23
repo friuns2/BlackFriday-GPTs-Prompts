@@ -1,6 +1,6 @@
 
-[![clip generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# clip generator 
+[![clip generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221hY1w_jvRrtM_Ic4rAIdb%22%2C%22flow%22%3Atrue%7D%7D)
+# clip generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221hY1w_jvRrtM_Ic4rAIdb%22%2C%22flow%22%3Atrue%7D%7D)
 1. Get the transcript.
 
 2. Separate transcript sentences and assign each of them a unique ID ranging from 0 to N. This will make it easier to locate the original sentences.

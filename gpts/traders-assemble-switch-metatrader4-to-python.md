@@ -1,6 +1,6 @@
 
-[![Traders assemble: Switch metatrader4 to python](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4_uBqEgDqK8HS1MzjP0-P/1695760966505)]()
-# Traders assemble: Switch metatrader4 to python 
+[![Traders assemble: Switch metatrader4 to python](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4_uBqEgDqK8HS1MzjP0-P/1695760966505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_uBqEgDqK8HS1MzjP0-P%22%2C%22flow%22%3Atrue%7D%7D)
+# Traders assemble: Switch metatrader4 to python | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_uBqEgDqK8HS1MzjP0-P%22%2C%22flow%22%3Atrue%7D%7D)
 - enter metatrader code
 
 - click RUN

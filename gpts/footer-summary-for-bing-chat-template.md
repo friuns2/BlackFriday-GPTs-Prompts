@@ -1,6 +1,6 @@
 
-[!["Footer Summary" Renderer for Bing Chat [FSRBC] Template (RC only)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)]()
-# "Footer Summary" Renderer for Bing Chat [FSRBC] Template (RC only) 
+[!["Footer Summary" Renderer for Bing Chat [FSRBC] Template (RC only)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LY0UA54be1Zi6u6MXKwRy%22%2C%22flow%22%3Atrue%7D%7D)
+# "Footer Summary" Renderer for Bing Chat [FSRBC] Template (RC only) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LY0UA54be1Zi6u6MXKwRy%22%2C%22flow%22%3Atrue%7D%7D)
 There's no automation.
 
 To test comprehensively. Hardcore users only. lol

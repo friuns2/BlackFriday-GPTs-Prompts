@@ -1,6 +1,6 @@
 
-[![Adopting Balanced Eating Habits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Adopting Balanced Eating Habits 
+[![Adopting Balanced Eating Habits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tCO0_mEk-xKzlFQoji0Xm%22%2C%22flow%22%3Atrue%7D%7D)
+# Adopting Balanced Eating Habits | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tCO0_mEk-xKzlFQoji0Xm%22%2C%22flow%22%3Atrue%7D%7D)
 A balanced diet is crucial for physical health and wellbeing. ChatGPT can provide practical tips and advice for incorporating healthier foods and meal planning. Here's a prompt to get started！
 
 # Prompt

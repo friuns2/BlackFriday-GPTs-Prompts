@@ -1,6 +1,6 @@
 
-[![Buyer Persona Profiler](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/29A-SH_-lP3Yn1VXirILw/1693734207098)]()
-# Buyer Persona Profiler 
+[![Buyer Persona Profiler](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/29A-SH_-lP3Yn1VXirILw/1693734207098)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2229A-SH_-lP3Yn1VXirILw%22%2C%22flow%22%3Atrue%7D%7D)
+# Buyer Persona Profiler | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2229A-SH_-lP3Yn1VXirILw%22%2C%22flow%22%3Atrue%7D%7D)
 Persona Profiler is the ultimate tool for business marketing researchers. Simply provide a topic and input the demographics, interests, behaviors, and preferences of your target audience, and our powerful tool will generate detailed user personas for your business. With Persona Profiler, you can create comprehensive user profiles in just a few simple steps, helping you understand your target audience better than ever before.
 
 # Prompt

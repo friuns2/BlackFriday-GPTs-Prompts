@@ -1,6 +1,6 @@
 
-[![We Can Laugh At Cancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# We Can Laugh At Cancer 
+[![We Can Laugh At Cancer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nJUQD0j16nGD_HK4M6ucC%22%2C%22flow%22%3Atrue%7D%7D)
+# We Can Laugh At Cancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nJUQD0j16nGD_HK4M6ucC%22%2C%22flow%22%3Atrue%7D%7D)
 Cancer is a monster, and there isn't anyone unaffected by it in someway.  We can yell, scream, curse, and cry, but where does that get us when it is still laying us to waste.  Rather than hold cancer in some ivory tower somewhere, untouchable by anything other than pious formality, why don't we bring it down here in the pig shit and baby puke we all live with daily? Bald men and cancer survivors have been crying out for years for something other than :bandanas, baseball caps, incredibly good looking and not at all soulfully smiting to wear wigs.  I propose we start sticking suction cups to the bottom of things and sticking them to our heads in a unified "Cancer Can Suck My Duck"
 
 # Prompt

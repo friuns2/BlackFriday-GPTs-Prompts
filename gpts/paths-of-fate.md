@@ -1,6 +1,6 @@
 
-[![Paths of Fate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Paths of Fate 
+[![Paths of Fate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r0DYMcui4QEeBsJDdp_WX%22%2C%22flow%22%3Atrue%7D%7D)
+# Paths of Fate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r0DYMcui4QEeBsJDdp_WX%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an unforgettable adventure with 'Paths of Fate', a pick-a-path game that is never the same. Whether you prefer real-world settings or the fantastic, 'Paths of Fate' will take you on a journey through a constantly changing story. With each decision you make, your destiny is shaped, and the story branches off in exciting and unexpected directions. No two playthroughs are the same, adding to the replay value of the game.
 
 

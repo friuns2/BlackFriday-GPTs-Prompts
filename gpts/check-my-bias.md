@@ -1,6 +1,6 @@
 
-[![Check my bias](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83GD14eqdeeb4oMZnz0j/1697077372948)]()
-# Check my bias 
+[![Check my bias](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83GD14eqdeeb4oMZnz0j/1697077372948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83GD14eqdeeb4oMZnz0j%22%2C%22flow%22%3Atrue%7D%7D)
+# Check my bias | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83GD14eqdeeb4oMZnz0j%22%2C%22flow%22%3Atrue%7D%7D)
 This is a first draft attempt at a complex task that may not be possible to perform with a Large Language Model (LLM). Please be cautious in your use of this system and your interpretation of its interpretations. 
 
 # Prompt

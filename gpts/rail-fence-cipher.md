@@ -1,6 +1,6 @@
 
-[![Rail Fence Cipher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)]()
-# Rail Fence Cipher 
+[![Rail Fence Cipher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-5YiR2n00H0p8Zgc7IWi%22%2C%22flow%22%3Atrue%7D%7D)
+# Rail Fence Cipher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x-5YiR2n00H0p8Zgc7IWi%22%2C%22flow%22%3Atrue%7D%7D)
 Rail Fence Cipher: Rearranges plaintext letters in a zigzag pattern on "rails" and is decoded in the same manner.
 
 # Prompt

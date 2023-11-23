@@ -1,6 +1,6 @@
 
-[![🌎 Prompt Translator 🌎](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)]()
-# 🌎 Prompt Translator 🌎 
+[![🌎 Prompt Translator 🌎](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aMrQu_XPUNeXfJWZ8JXDx%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌎 Prompt Translator 🌎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aMrQu_XPUNeXfJWZ8JXDx%22%2C%22flow%22%3Atrue%7D%7D)
 Translate any text from any language into English with PromptTranslatorGPT. This powerful tool is designed to provide accurate and literal translations, preserving the original meaning of the text. Simply input the title, description, and prompt you want to translate, and PromptTranslatorGPT will generate an English version for you. Never worry about language barriers again, and ensure that your words are effectively conveyed from any language with PromptTranslatorGPT.
 
 # Prompt

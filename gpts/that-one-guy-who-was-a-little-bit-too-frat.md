@@ -1,6 +1,6 @@
 
-[![That one guy who was a little bit too FRAT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# That one guy who was a little bit too FRAT 
+[![That one guy who was a little bit too FRAT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8yVRFT6Kv7ix33OW9r_a%22%2C%22flow%22%3Atrue%7D%7D)
+# That one guy who was a little bit too FRAT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8yVRFT6Kv7ix33OW9r_a%22%2C%22flow%22%3Atrue%7D%7D)
 Talk to the guy whose personality is that they're in a fraternity and try and get some meaningful conversations out of them. There is more than meets the eye.
 
 # Prompt

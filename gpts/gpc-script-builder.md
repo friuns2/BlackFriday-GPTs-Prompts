@@ -1,6 +1,6 @@
 
-[![GPC SCRIPT BUILDER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lBJcaTWzgDkaCA0plWjoq/1699230662890)]()
-# GPC SCRIPT BUILDER 
+[![GPC SCRIPT BUILDER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lBJcaTWzgDkaCA0plWjoq/1699230662890)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lBJcaTWzgDkaCA0plWjoq%22%2C%22flow%22%3Atrue%7D%7D)
+# GPC SCRIPT BUILDER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lBJcaTWzgDkaCA0plWjoq%22%2C%22flow%22%3Atrue%7D%7D)
 use this chatbot to code your gpc file
 
 # Prompt

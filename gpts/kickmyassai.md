@@ -1,6 +1,6 @@
 
-[![KickmyassAi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# KickmyassAi 
+[![KickmyassAi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZOxVWODbZF0DW2H7XlRgD%22%2C%22flow%22%3Atrue%7D%7D)
+# KickmyassAi | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZOxVWODbZF0DW2H7XlRgD%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to KickmyassAi, your personal motivator and task manager! My purpose is to help you stay motivated and focused on accomplishing your tasks by reminding you of the potential negative outcomes if you fail to complete them. Let's get started!
 
 # Prompt

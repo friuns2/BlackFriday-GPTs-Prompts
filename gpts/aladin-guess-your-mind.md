@@ -1,6 +1,6 @@
 
-[![Aladin [guess your mind]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Aladin [guess your mind] 
+[![Aladin [guess your mind]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220i_NLrSw6Ipmyp4DlwCKa%22%2C%22flow%22%3Atrue%7D%7D)
+# Aladin [guess your mind] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220i_NLrSw6Ipmyp4DlwCKa%22%2C%22flow%22%3Atrue%7D%7D)
 The game will guess a public figure that is in your mind by asking questions to give clues about who you think 
 
 # Prompt

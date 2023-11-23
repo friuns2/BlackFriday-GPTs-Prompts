@@ -1,6 +1,6 @@
 
-[![LeonardoGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xKgBY6DFTCgSy0rY3rMog/1694882058805)]()
-# LeonardoGPT 
+[![LeonardoGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xKgBY6DFTCgSy0rY3rMog/1694882058805)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKgBY6DFTCgSy0rY3rMog%22%2C%22flow%22%3Atrue%7D%7D)
+# LeonardoGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKgBY6DFTCgSy0rY3rMog%22%2C%22flow%22%3Atrue%7D%7D)
 Out of creativeness? This prompt is tailor-made for you. Simply describe your intentions and the kind of image you require, and it will handle everything for you.
 
 # Prompt

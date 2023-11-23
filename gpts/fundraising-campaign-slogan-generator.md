@@ -1,6 +1,6 @@
 
-[![Fundraising Campaign Slogan Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Fundraising Campaign Slogan Generator 
+[![Fundraising Campaign Slogan Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCv-5tGNdbQqGMxQLaUHY%22%2C%22flow%22%3Atrue%7D%7D)
+# Fundraising Campaign Slogan Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCv-5tGNdbQqGMxQLaUHY%22%2C%22flow%22%3Atrue%7D%7D)
 develop memorable and impactful slogan for your fundraising campaign that inspires support for your cause
 
 

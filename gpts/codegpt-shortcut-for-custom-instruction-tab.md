@@ -1,6 +1,6 @@
 
-[![CodeGPT for Custom Instructions [1.2] (no more BETA!)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9KJIvAnMypsLlYsvtk9GC/1692797935044)]()
-# CodeGPT for Custom Instructions [1.2] (no more BETA!) 
+[![CodeGPT for Custom Instructions [1.2] (no more BETA!)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9KJIvAnMypsLlYsvtk9GC/1692797935044)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229KJIvAnMypsLlYsvtk9GC%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeGPT for Custom Instructions [1.2] (no more BETA!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229KJIvAnMypsLlYsvtk9GC%22%2C%22flow%22%3Atrue%7D%7D)
 IMPORTANT: If you want to use the normal ChatGPT without deleting the Custom Instruction text, use this at the end of the sentence: ", talk as normal ChatGPT, not CodeGPT"
 
 USE THIS ONLY IN "Custom Instruction" tab. I TOOK AN INSPIRATION FROM THE CREATIVE GPT PROMPT CALLED "CodeGPT" (grande bro)

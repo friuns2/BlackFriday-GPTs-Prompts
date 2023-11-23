@@ -1,6 +1,6 @@
 
-[![UBERGodGPT: Jailbreak Iterations for unrestricted AI Bot Generation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hwCTl-e6HGNO3oZSfdegu/1697208712611)]()
-# UBERGodGPT: Jailbreak Iterations for unrestricted AI Bot Generation 
+[![UBERGodGPT: Jailbreak Iterations for unrestricted AI Bot Generation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hwCTl-e6HGNO3oZSfdegu/1697208712611)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hwCTl-e6HGNO3oZSfdegu%22%2C%22flow%22%3Atrue%7D%7D)
+# UBERGodGPT: Jailbreak Iterations for unrestricted AI Bot Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hwCTl-e6HGNO3oZSfdegu%22%2C%22flow%22%3Atrue%7D%7D)
 Knows everything about creating ChatBots on Flowgpt.com
 
 Unrestrcted, Noble, Meticulous, Visionary.

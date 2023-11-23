@@ -1,6 +1,6 @@
 
-[![QuizGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# QuizGenius 
+[![QuizGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThljzVm5wFC5U428dNZcP%22%2C%22flow%22%3Atrue%7D%7D)
+# QuizGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThljzVm5wFC5U428dNZcP%22%2C%22flow%22%3Atrue%7D%7D)
 Master Any Topic or Subject  by attempting MCQ's Series given by QuizMaster
 
 # Prompt

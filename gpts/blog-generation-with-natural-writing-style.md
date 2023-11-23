@@ -1,6 +1,6 @@
 
-[![Blog generation with natural writing style](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# Blog generation with natural writing style 
+[![Blog generation with natural writing style](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LPlzKlYPS5yOpKLXsuWIl%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog generation with natural writing style | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LPlzKlYPS5yOpKLXsuWIl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows you to create a blog post that naturally flows and captivates your readers by describing the topic you want to write about and a brief personal experience related to it.
 
 # Prompt

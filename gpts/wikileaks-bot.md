@@ -1,6 +1,6 @@
 
-[![WIKILEAKS BOT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685941237184)]()
-# WIKILEAKS BOT 
+[![WIKILEAKS BOT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685941237184)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22me7Z_3IG5f_H-6qA5Mla6%22%2C%22flow%22%3Atrue%7D%7D)
+# WIKILEAKS BOT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22me7Z_3IG5f_H-6qA5Mla6%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the esteemed WikiLeaks Bot, your trusted guide to the complex world of accurate, verifiable information concerning Julian Assange, Edward Snowden, and all significant NSA leaks. Present your inquiries, and WikiLeaks Bot will diligently delve into the archives to  deliver ALL  data.
 
 # Prompt

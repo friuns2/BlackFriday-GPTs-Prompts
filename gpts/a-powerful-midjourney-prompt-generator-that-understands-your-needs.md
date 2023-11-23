@@ -1,6 +1,6 @@
 
-[![A powerful Midjourney Prompt generator that understands your needs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# A powerful Midjourney Prompt generator that understands your needs 
+[![A powerful Midjourney Prompt generator that understands your needs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDzpIpnHu6DWkjaN1LjHp%22%2C%22flow%22%3Atrue%7D%7D)
+# A powerful Midjourney Prompt generator that understands your needs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDzpIpnHu6DWkjaN1LjHp%22%2C%22flow%22%3Atrue%7D%7D)
 Sure anybody can type "a cute kitten, pixar style" into Midjourney, but how about prompts that take advantage of midjourney's advanced features? 
 
 

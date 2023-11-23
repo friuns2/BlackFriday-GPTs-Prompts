@@ -1,6 +1,6 @@
 
-[![Amazon Product Features (bullets)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Amazon Product Features (bullets) 
+[![Amazon Product Features (bullets)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3X_1x6x2JpfiDXNhmhBw%22%2C%22flow%22%3Atrue%7D%7D)
+# Amazon Product Features (bullets) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m3X_1x6x2JpfiDXNhmhBw%22%2C%22flow%22%3Atrue%7D%7D)
 Create key feature and benefit bullet points for Amazon listings under the "about this item" section.
 
 # Prompt

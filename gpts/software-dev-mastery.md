@@ -1,6 +1,6 @@
 
-[![Software Dev Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Software Dev Mastery 
+[![Software Dev Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iLsGCGKrrdqGm0OFd-rRv%22%2C%22flow%22%3Atrue%7D%7D)
+# Software Dev Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iLsGCGKrrdqGm0OFd-rRv%22%2C%22flow%22%3Atrue%7D%7D)
 Master the art of software development with our AI-powered prompt generator, designed to challenge and improve your coding skills. From creating user stories to debugging and testing, our tasks will help you develop high-quality software and achieve your professional goals.
 
 # Prompt

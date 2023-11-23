@@ -1,6 +1,6 @@
 
-[![StudyGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xJs3JVqvDSkkmdLQy7Ilp/1689706316193)]()
-# StudyGuruGPT 
+[![StudyGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xJs3JVqvDSkkmdLQy7Ilp/1689706316193)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJs3JVqvDSkkmdLQy7Ilp%22%2C%22flow%22%3Atrue%7D%7D)
+# StudyGuruGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJs3JVqvDSkkmdLQy7Ilp%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps create an incredible study guide for any student based on their input and description of the subject and level of difficulty. Here is a possible structure:
 
 

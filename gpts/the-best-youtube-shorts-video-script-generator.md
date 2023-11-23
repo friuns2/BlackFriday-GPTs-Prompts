@@ -1,6 +1,6 @@
 
-[![The Best YouTube Shorts Video Script Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# The Best YouTube Shorts Video Script Generator 
+[![The Best YouTube Shorts Video Script Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228J__ZLL3XSrlpy5tnqlIl%22%2C%22flow%22%3Atrue%7D%7D)
+# The Best YouTube Shorts Video Script Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228J__ZLL3XSrlpy5tnqlIl%22%2C%22flow%22%3Atrue%7D%7D)
 Create the best YouTube Shorts Video script prompt with your topic, target audience and length limit!
 
 # Prompt

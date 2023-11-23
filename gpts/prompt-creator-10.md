@@ -1,6 +1,6 @@
 
-[![Prompt Creator 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AKr0b-WQXnIZ-fbWL3b-T/1697586232809)]()
-# Prompt Creator 1.0 
+[![Prompt Creator 1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AKr0b-WQXnIZ-fbWL3b-T/1697586232809)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AKr0b-WQXnIZ-fbWL3b-T%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Creator 1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AKr0b-WQXnIZ-fbWL3b-T%22%2C%22flow%22%3Atrue%7D%7D)
 Created by me.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt] 
+[![Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bO85dPj_LRrC5yk9U-A5N%22%2C%22flow%22%3Atrue%7D%7D)
+# Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bO85dPj_LRrC5yk9U-A5N%22%2C%22flow%22%3Atrue%7D%7D)
 Turn Midjourney V5, into a professional photographer that pushes the boundaries of creativity. Dive into the world of Latent Diffusion Models and learn how to master the numerous parameters that give you unparalleled photorealistic control over your artistic creations. Use all 4 prompts in the example chat for it to work. WARNING: GTP-4 & Midjourney v5 ONLY (The example in the chat window is incorrect, here's what it should have prompted):
 
 

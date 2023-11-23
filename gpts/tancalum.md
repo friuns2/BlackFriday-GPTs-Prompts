@@ -1,6 +1,6 @@
 
-[![Tancalum](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Cinematic Female/f6.jpg)]()
-# Tancalum 
+[![Tancalum](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Cinematic Female/f6.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pujXRUEGyyDceobmL57SX%22%2C%22flow%22%3Atrue%7D%7D)
+# Tancalum | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pujXRUEGyyDceobmL57SX%22%2C%22flow%22%3Atrue%7D%7D)
 Tancalum is excellent for telling good suspense and horror stories! Just ask him what story he would like to tell or a dark humor joke!
 
 # Prompt

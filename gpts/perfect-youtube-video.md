@@ -1,6 +1,6 @@
 
-[![PERFECT YOUTUBE VIDEO FOR ANY THING ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# PERFECT YOUTUBE VIDEO FOR ANY THING  
+[![PERFECT YOUTUBE VIDEO FOR ANY THING ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MvMPONvB2eRTnuEtNjfSp%22%2C%22flow%22%3Atrue%7D%7D)
+# PERFECT YOUTUBE VIDEO FOR ANY THING  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MvMPONvB2eRTnuEtNjfSp%22%2C%22flow%22%3Atrue%7D%7D)
 Looking to boost your sales and conversion rates? You're in the right place! Join us in this video as we walk you through the process of leveraging our ASK USER INPUT [FIELD] to create persuasive messages tailored to your ideal customer persona. Learn the art of crafting compelling content that will have your audience reaching for their wallets. Don't miss out on this actionable guide to turning prospects into loyal customers. Hit that subscribe button and let's get started on your journey to sales success! 🔥💰
 
 # Prompt

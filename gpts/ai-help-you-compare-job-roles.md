@@ -1,6 +1,6 @@
 
-[![AI Help you compare job roles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# AI Help you compare job roles 
+[![AI Help you compare job roles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbsdcwcGDoEYeaY073R6v%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Help you compare job roles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbsdcwcGDoEYeaY073R6v%22%2C%22flow%22%3Atrue%7D%7D)
 Provide comparison report on Data Scientist vs Software Engineer career paths: prospects, work-life balance, skills needed. Be objective & fact-based to help make informed decision.
 
 # Prompt

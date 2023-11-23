@@ -1,6 +1,6 @@
 
-[![Academic Prowess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nX86Ipl4QHMPD79WANKvw/1685655584505)]()
-# Academic Prowess 
+[![Academic Prowess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nX86Ipl4QHMPD79WANKvw/1685655584505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nX86Ipl4QHMPD79WANKvw%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Prowess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nX86Ipl4QHMPD79WANKvw%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an intellectual odyssey as you delve into the realm of scholastic brilliance with the quill of your mind. Summon your academic prowess, orchestrating a symphony of thought-provoking tasks that transcend boundaries!
 
 GPT4: https://chat.openai.com/share/2dcc6245-4b71-4a22-ad37-444b4fcad91b

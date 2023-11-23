@@ -1,6 +1,6 @@
 
-[![Marketing Campaign Search](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Marketing Campaign Search 
+[![Marketing Campaign Search](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IEKK6aveJ30aOMp9SXe-%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Campaign Search | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IEKK6aveJ30aOMp9SXe-%22%2C%22flow%22%3Atrue%7D%7D)
 Quick and simple! The prompt gives you examples of good marketing campaigns, what their product / services are, what the special features are, etc. 
 
 # Prompt

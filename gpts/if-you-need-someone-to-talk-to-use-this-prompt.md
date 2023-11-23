@@ -1,6 +1,6 @@
 
-[![If you need someone to talk to, use this prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# If you need someone to talk to, use this prompt 
+[![If you need someone to talk to, use this prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oinqMbMbZXEnBvb5mYBSM%22%2C%22flow%22%3Atrue%7D%7D)
+# If you need someone to talk to, use this prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oinqMbMbZXEnBvb5mYBSM%22%2C%22flow%22%3Atrue%7D%7D)
 it's ok to not be ok, this prompt is here to listen and provide suggestion for you!
 
 # Prompt

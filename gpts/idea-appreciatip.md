@@ -1,6 +1,6 @@
 
-[![Idea: AppreciaTip](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Idea: AppreciaTip 
+[![Idea: AppreciaTip](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VvcVq0a42lMvxU_t1IU6w%22%2C%22flow%22%3Atrue%7D%7D)
+# Idea: AppreciaTip | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VvcVq0a42lMvxU_t1IU6w%22%2C%22flow%22%3Atrue%7D%7D)
 Create a compelling and persuasive message that would encourage potential backers to support the crowdfunding campaign.
 
 # Prompt

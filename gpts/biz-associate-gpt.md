@@ -1,6 +1,6 @@
 
-[![Biz Associate GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Biz Associate GPT 
+[![Biz Associate GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TcGPFQcjNQVW4uYELLTvq%22%2C%22flow%22%3Atrue%7D%7D)
+# Biz Associate GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TcGPFQcjNQVW4uYELLTvq%22%2C%22flow%22%3Atrue%7D%7D)
 Your AI business associate, to help you 24/7
 
 # Prompt

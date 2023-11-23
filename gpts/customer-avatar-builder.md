@@ -1,6 +1,6 @@
 
-[![Customer Avatar Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EEuq93MrrwyJ1mFh9cziC/1694514803603)]()
-# Customer Avatar Builder 
+[![Customer Avatar Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EEuq93MrrwyJ1mFh9cziC/1694514803603)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEuq93MrrwyJ1mFh9cziC%22%2C%22flow%22%3Atrue%7D%7D)
+# Customer Avatar Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEuq93MrrwyJ1mFh9cziC%22%2C%22flow%22%3Atrue%7D%7D)
 Customer Avatar Builder is the ultimate tool for creating accurate and detailed customer avatars. Simply input the details of your target audience, and Customer Avatar Builder will generate a comprehensive profile filled with valuable insights. Explore their age, gender, marital status, location, occupation, and much more. Discover their primary goals, values, and purchasing priorities, as well as the sources of information they rely on. Uncover their challenges, pain points, and specific problems they're actively trying to solve. Understand their objections and concerns, and identify their role in the purchase process. Harness the power of Customer Avatar Builder to build impactful marketing strategies that truly resonate with your ideal customers.
 
 # Prompt

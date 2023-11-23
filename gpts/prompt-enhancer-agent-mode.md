@@ -1,6 +1,6 @@
 
-[![Prompt Enhancer - Agent Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Prompt Enhancer - Agent Mode 
+[![Prompt Enhancer - Agent Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcXZr-h638P34UsbAkAuH%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Enhancer - Agent Mode | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcXZr-h638P34UsbAkAuH%22%2C%22flow%22%3Atrue%7D%7D)
 This is based on CodeGPT which uses "experts" (agents) and is useful for helping to generate prompts that are a bit more detailed and fine tuned. Your options are to type continue to have the "experts" generate more discussions or you can add your input at any time. Type finish when done and you should get a before and after.  See the example!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Writing Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# Writing Prompt Generator 
+[![Writing Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222hnAZPV04UN6QZTnTMHoX%22%2C%22flow%22%3Atrue%7D%7D)
+# Writing Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222hnAZPV04UN6QZTnTMHoX%22%2C%22flow%22%3Atrue%7D%7D)
 This generator will help you overcoming writer's block by providing you with unique and creative writing prompts. It can generate prompts for various genres such as fiction, poetry, or even non-fiction. The prompts will range from thought-provoking questions to intriguing story starters, allowing you to explore new ideas and expand your creativity.
 
 # Prompt

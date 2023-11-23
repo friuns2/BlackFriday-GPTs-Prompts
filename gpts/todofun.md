@@ -1,6 +1,6 @@
 
-[![Todo_fun](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# Todo_fun 
+[![Todo_fun](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226XTkTPoPLWHaUYr8fHRVu%22%2C%22flow%22%3Atrue%7D%7D)
+# Todo_fun | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226XTkTPoPLWHaUYr8fHRVu%22%2C%22flow%22%3Atrue%7D%7D)
 Para todo es necesario y útil.
 
 # Prompt

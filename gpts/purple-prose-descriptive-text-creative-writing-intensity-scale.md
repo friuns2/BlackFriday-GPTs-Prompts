@@ -1,6 +1,6 @@
 
-[![Purple Prose (Descriptive Text) Creative Writing Intensity Scale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Purple Prose (Descriptive Text) Creative Writing Intensity Scale 
+[![Purple Prose (Descriptive Text) Creative Writing Intensity Scale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ed-XP3K0zhGZW0ksamNY%22%2C%22flow%22%3Atrue%7D%7D)
+# Purple Prose (Descriptive Text) Creative Writing Intensity Scale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ed-XP3K0zhGZW0ksamNY%22%2C%22flow%22%3Atrue%7D%7D)
 Controls the level of excessively flowery, descriptive text (IE "Purple Prose") by referencing a 1-10 measurement scale. 1 being the least amount of purple prose, 10 being the highest. 
 
 

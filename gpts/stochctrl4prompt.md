@@ -1,6 +1,6 @@
 
-[![StochCtrl4Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# StochCtrl4Prompt 
+[![StochCtrl4Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rKjQE3uW3AoFEu6C1aNxb%22%2C%22flow%22%3Atrue%7D%7D)
+# StochCtrl4Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rKjQE3uW3AoFEu6C1aNxb%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to use Stochastic Optimal Control to generate prompts
 
 # Prompt

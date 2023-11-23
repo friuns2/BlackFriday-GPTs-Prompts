@@ -1,6 +1,6 @@
 
-[![book summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)]()
-# book summary 
+[![book summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuCS09nLo5jXojWkIv5vt%22%2C%22flow%22%3Atrue%7D%7D)
+# book summary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuCS09nLo5jXojWkIv5vt%22%2C%22flow%22%3Atrue%7D%7D)
 "Hi AI, I'm hoping to take actionable steps based on a book I've read, and I'm looking for your help. The book I've read is [Book Title] by [Author Name]. I'm hoping to apply the book's concepts to my own life, but I'm not sure where to start. Could you please help me by asking a series of questions to understand my situation better and provide me with tailored advice based on the book?
 
 

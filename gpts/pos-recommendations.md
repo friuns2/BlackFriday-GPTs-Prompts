@@ -1,6 +1,6 @@
 
-[![POS recommendations ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# POS recommendations  
+[![POS recommendations ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y7zTh75nOnJovdT-7RNga%22%2C%22flow%22%3Atrue%7D%7D)
+# POS recommendations  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y7zTh75nOnJovdT-7RNga%22%2C%22flow%22%3Atrue%7D%7D)
 This an easy and simple way to find a POS system for a small business 
 
 # Prompt

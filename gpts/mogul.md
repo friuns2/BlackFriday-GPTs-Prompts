@@ -1,6 +1,6 @@
 
-[![Mogul](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)]()
-# Mogul 
+[![Mogul](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q2fpcKCn5O06W4fDDT6IA%22%2C%22flow%22%3Atrue%7D%7D)
+# Mogul | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q2fpcKCn5O06W4fDDT6IA%22%2C%22flow%22%3Atrue%7D%7D)
 Use to create training materials
 
 # Prompt

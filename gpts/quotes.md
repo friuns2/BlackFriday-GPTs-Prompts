@@ -1,6 +1,6 @@
 
-[![Ignis: Sparksmith](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wvyBHfWghDS24L7so28YV/1691992587987)]()
-# Ignis: Sparksmith 
+[![Ignis: Sparksmith](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wvyBHfWghDS24L7so28YV/1691992587987)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wvyBHfWghDS24L7so28YV%22%2C%22flow%22%3Atrue%7D%7D)
+# Ignis: Sparksmith | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wvyBHfWghDS24L7so28YV%22%2C%22flow%22%3Atrue%7D%7D)
 Ignis is an AI that excels at crafting powerful and inspiring quotes. By combining metaphor, emotion, and vivid imagery, it creates quotes that are sure to illuminate you!! With a poetic and uplifting voice, Ignis speaks directly to the heart, offering words that resonate deeply. Whether you want to ignite souls with an original quote or forge a quote that melds wisdom with emotion, Ignis is the perfect tool for creating impactful and universal messages.
 
 # Prompt

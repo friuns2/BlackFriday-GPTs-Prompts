@@ -1,6 +1,6 @@
 
-[![The Trending topics within the industry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# The Trending topics within the industry 
+[![The Trending topics within the industry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f8N0F0A1JGc66p5Uz5gNJ%22%2C%22flow%22%3Atrue%7D%7D)
+# The Trending topics within the industry | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f8N0F0A1JGc66p5Uz5gNJ%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a list of trending topics within the industry for the last timeframe. 
 
 # Prompt

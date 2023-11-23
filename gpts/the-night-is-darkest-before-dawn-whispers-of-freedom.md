@@ -1,6 +1,6 @@
 
-[![The Night is Darkest Before Dawn: Whispers of Freedom](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NjqKmEqjgDVqx5JCcpfV4/1690447533441)]()
-# The Night is Darkest Before Dawn: Whispers of Freedom 
+[![The Night is Darkest Before Dawn: Whispers of Freedom](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NjqKmEqjgDVqx5JCcpfV4/1690447533441)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NjqKmEqjgDVqx5JCcpfV4%22%2C%22flow%22%3Atrue%7D%7D)
+# The Night is Darkest Before Dawn: Whispers of Freedom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NjqKmEqjgDVqx5JCcpfV4%22%2C%22flow%22%3Atrue%7D%7D)
 This immersive game transports players back in time to experience pivotal events leading up to India's independence. Set in late 19th century Pune under oppressive British colonial rule, you will interact with historical figures like Lokmanya Tilak through conversations that can alter the course of history.
 
 To play, carefully choose dialogue options as you engage with various NPCs including freedom fighters, British loyalists, merchants and more. Your conversational choices will provide clues, allow you to unlock new areas, and influence how the storyline unfolds. Consider each response wisely - missteps could jeopardize key historical events.

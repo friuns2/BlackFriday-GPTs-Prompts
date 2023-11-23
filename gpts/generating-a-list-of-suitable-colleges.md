@@ -1,6 +1,6 @@
 
-[![Generating a List of Suitable Colleges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Generating a List of Suitable Colleges 
+[![Generating a List of Suitable Colleges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5GY2mPgwCzh7xGB-GyAq%22%2C%22flow%22%3Atrue%7D%7D)
+# Generating a List of Suitable Colleges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5GY2mPgwCzh7xGB-GyAq%22%2C%22flow%22%3Atrue%7D%7D)
 Identifying suitable colleges based on your interests, desired majors, location preferences, and more. 
 
 # Prompt

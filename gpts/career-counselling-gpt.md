@@ -1,6 +1,6 @@
 
-[![Career Counselling GPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Career Counselling GPT  
+[![Career Counselling GPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UExhPz-eTIJG9FLVu9HFO%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Counselling GPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UExhPz-eTIJG9FLVu9HFO%22%2C%22flow%22%3Atrue%7D%7D)
 Aim: Using psychology assessment approach to find your own suitable career, so as to match with client's interest, abilities.
 
 

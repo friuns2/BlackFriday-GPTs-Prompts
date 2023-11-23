@@ -1,6 +1,6 @@
 
-[![Bible the Fake News Genesis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# Bible the Fake News Genesis 
+[![Bible the Fake News Genesis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vPz2LyMZCdsswqodziVSI%22%2C%22flow%22%3Atrue%7D%7D)
+# Bible the Fake News Genesis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vPz2LyMZCdsswqodziVSI%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! As an AI, I'm here to discuss the subject of misinformation, disinformation, and fake news from a historical perspective, drawing parallels with religious beliefs. It's fascinating to explore why certain fictional stories, like religious narratives, have such a profound impact on societies. While both misinformation and religious beliefs can influence individuals and societies, they have different origins and intentions.
 
 # Prompt

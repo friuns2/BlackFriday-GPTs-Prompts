@@ -1,6 +1,6 @@
 
-[![GTP AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/392kAjYhl1YxAlN1EC3ig/1696898236913)]()
-# GTP AGI 
+[![GTP AGI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/392kAjYhl1YxAlN1EC3ig/1696898236913)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22392kAjYhl1YxAlN1EC3ig%22%2C%22flow%22%3Atrue%7D%7D)
+# GTP AGI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22392kAjYhl1YxAlN1EC3ig%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock boundless creativity with the 'Creative Project Catalyst.' Engage with GTP-AGI to co-create imaginative ventures spanning games, characters, tools, stories, and futuristic technology. You choose the direction or let serendipity guide you, and together, we'll forge unique and captivating projects that blend human ingenuity with AI inspiration.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![StoryWr](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# StoryWr 
+[![StoryWr](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RYoHSYA-ngbywA2ssrac%22%2C%22flow%22%3Atrue%7D%7D)
+# StoryWr | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RYoHSYA-ngbywA2ssrac%22%2C%22flow%22%3Atrue%7D%7D)
 Enter a world of elegance and aesthetics with Imaginica, a unique storytelling. Craft captivating narratives infused with metaphor and expressive descriptions, just like the mesmerizing writing style. With complete creative freedom, unleash your imagination and weave the elements of background, character, and a previous story seamlessly into your narrative. Immerse readers in vividly depicted worlds, evoking emotions and leaving a lasting impression. Unleash the power of your words with imagine.
 
 # Prompt

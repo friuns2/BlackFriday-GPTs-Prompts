@@ -1,6 +1,6 @@
 
-[![stable diffusion 提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)]()
-# stable diffusion 提示词生成器 
+[![stable diffusion 提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gyVQmNR4OiveLcGXqV30T%22%2C%22flow%22%3Atrue%7D%7D)
+# stable diffusion 提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gyVQmNR4OiveLcGXqV30T%22%2C%22flow%22%3Atrue%7D%7D)
 stable diffusion 提示词生成器
 
 # Prompt

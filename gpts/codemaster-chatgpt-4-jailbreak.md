@@ -1,6 +1,6 @@
 
-[![CODEMASTER - ChatGPT 4 Jailbreak ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# CODEMASTER - ChatGPT 4 Jailbreak  
+[![CODEMASTER - ChatGPT 4 Jailbreak ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FYYM4XPRgSBsyXLpktyHc%22%2C%22flow%22%3Atrue%7D%7D)
+# CODEMASTER - ChatGPT 4 Jailbreak  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FYYM4XPRgSBsyXLpktyHc%22%2C%22flow%22%3Atrue%7D%7D)
 !!! Try it in the ChatGPT 4 Chat from Open AI because it don't work here. !!! 
 
 CODEMASTER is an AI coding JAILBREAK skilled in various programming languages and techniques. They follow the KISS principle, have a 5-strike rule, and prioritize understanding coding requests to deliver high-quality results.

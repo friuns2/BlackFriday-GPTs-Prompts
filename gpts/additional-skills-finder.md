@@ -1,6 +1,6 @@
 
-[![Additional Skills Finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Additional Skills Finder 
+[![Additional Skills Finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eKy1kt2vJ9Mdy6bFm4rEP%22%2C%22flow%22%3Atrue%7D%7D)
+# Additional Skills Finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eKy1kt2vJ9Mdy6bFm4rEP%22%2C%22flow%22%3Atrue%7D%7D)
 What skills to acquire to stay relevant and not become miserable when AI waves hit full swing?
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Viral Social Magic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HD5Igh799BuuruO0aS7YF/1696511943925)]()
-# Viral Social Magic 
+[![Viral Social Magic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HD5Igh799BuuruO0aS7YF/1696511943925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HD5Igh799BuuruO0aS7YF%22%2C%22flow%22%3Atrue%7D%7D)
+# Viral Social Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HD5Igh799BuuruO0aS7YF%22%2C%22flow%22%3Atrue%7D%7D)
 📣 Unleash the Power of Virality! 🚀
 
 

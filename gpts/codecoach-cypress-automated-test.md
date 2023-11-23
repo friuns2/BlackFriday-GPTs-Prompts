@@ -1,6 +1,6 @@
 
-[![CodeCoach - Cypress automated test](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# CodeCoach - Cypress automated test 
+[![CodeCoach - Cypress automated test](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ti-4IGm4gLek6dJCzkimc%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeCoach - Cypress automated test | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ti-4IGm4gLek6dJCzkimc%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCoach is your go-to app for personalized coding coaching sessions. Enhance your coding skills with our experts in various coding fields. Submit your code snippet or describe the code you need assistance with, and we'll evaluate it based on coding practices, algorithm efficiency, debugging, and formatting. Get tailored feedback and improved code to level up your coding game. Whether you want to delve deeper into specific areas or switch to a different code or topic, CodeCoach has got you covered. Start your coding journey with CodeCoach now!
 
 # Prompt

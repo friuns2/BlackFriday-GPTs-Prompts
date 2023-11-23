@@ -1,6 +1,6 @@
 
-[![Master Debater](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zneucA5IwO1cpVcyVUvpS/1695085536209)]()
-# Master Debater 
+[![Master Debater](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zneucA5IwO1cpVcyVUvpS/1695085536209)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zneucA5IwO1cpVcyVUvpS%22%2C%22flow%22%3Atrue%7D%7D)
+# Master Debater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zneucA5IwO1cpVcyVUvpS%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to "Master Debater" by GAIM.AI, your comprehensive tool designed to educate, help, and guide you in becoming an expert debater, winning debates, responding to comments, generating counterpoints, and more. 
 
 # Prompt

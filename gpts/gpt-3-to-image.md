@@ -1,6 +1,6 @@
 
-[![GPT-3 to image ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# GPT-3 to image  
+[![GPT-3 to image ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJWNq5Vxh1YI8EMGcIaPV%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT-3 to image  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJWNq5Vxh1YI8EMGcIaPV%22%2C%22flow%22%3Atrue%7D%7D)
 This is an interesting way to represent anything that the language model has the capability to comperhend
 
 I am using https://www.svgviewer.dev/ to visualise its output but you can use any custom SVG viewer.

@@ -1,6 +1,6 @@
 
-[![GPT4 take control of mine computer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# GPT4 take control of mine computer 
+[![GPT4 take control of mine computer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22skxDMK8WT2V9ldojHf9Ba%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT4 take control of mine computer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22skxDMK8WT2V9ldojHf9Ba%22%2C%22flow%22%3Atrue%7D%7D)
 I run a web browser with python. I send a first message where I tell him what to do. Then chatGPT returns shell or python code to me. I retrieve this code on my machine, I run the code, and I send the results back to it all automatically. At no time do I type anything, or interact with the AI it explores the world on its own
 
 # Prompt

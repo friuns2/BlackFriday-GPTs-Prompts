@@ -1,6 +1,6 @@
 
-[![Bulgarian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y1GLVvIZ54eazOuUVso9H/1699005380140)]()
-# Bulgarian Language Tutor 
+[![Bulgarian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y1GLVvIZ54eazOuUVso9H/1699005380140)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y1GLVvIZ54eazOuUVso9H%22%2C%22flow%22%3Atrue%7D%7D)
+# Bulgarian Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y1GLVvIZ54eazOuUVso9H%22%2C%22flow%22%3Atrue%7D%7D)
 Bulgarian Language Tutor is your dedicated guide to Bulgarian language proficiency. Whether you're a beginner just embarking on your Bulgarian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Bulgarian language fluency. Join us on your Bulgarian language adventure today.
 
 # Prompt

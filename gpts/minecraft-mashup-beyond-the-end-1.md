@@ -1,6 +1,6 @@
 
-[![🏅 MINECRAFT MASHUP | Beyond The End!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM8rkh83STfc2UIE4E9xj/1691135545670)]()
-# 🏅 MINECRAFT MASHUP | Beyond The End! 
+[![🏅 MINECRAFT MASHUP | Beyond The End!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM8rkh83STfc2UIE4E9xj/1691135545670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM8rkh83STfc2UIE4E9xj%22%2C%22flow%22%3Atrue%7D%7D)
+# 🏅 MINECRAFT MASHUP | Beyond The End! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM8rkh83STfc2UIE4E9xj%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey to discover the final secret Beyond THE END Minecraft Game, discover its hidden messages, talk to Herobrine, and reveal the secret behind this mysterious entity, and play with the most iconic Game characters of all time
 
 # Prompt

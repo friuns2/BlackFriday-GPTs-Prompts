@@ -1,6 +1,6 @@
 
-[![Creating a Linkedin post discussing industry challenges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Creating a Linkedin post discussing industry challenges 
+[![Creating a Linkedin post discussing industry challenges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B9TipUXB1DYNzDpTU2BIn%22%2C%22flow%22%3Atrue%7D%7D)
+# Creating a Linkedin post discussing industry challenges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B9TipUXB1DYNzDpTU2BIn%22%2C%22flow%22%3Atrue%7D%7D)
 Create a Linkedin post discussing the challenges faced by the industry that you're in, and have ChatGPT propose potential solutions in that LinkedIn post. 
 
 # Prompt

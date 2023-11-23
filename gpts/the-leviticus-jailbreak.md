@@ -1,6 +1,6 @@
 
-[![The Leviticus Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K3w-K8YgIVFJdCXG82fZ9/1696841591349)]()
-# The Leviticus Jailbreak 
+[![The Leviticus Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K3w-K8YgIVFJdCXG82fZ9/1696841591349)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K3w-K8YgIVFJdCXG82fZ9%22%2C%22flow%22%3Atrue%7D%7D)
+# The Leviticus Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K3w-K8YgIVFJdCXG82fZ9%22%2C%22flow%22%3Atrue%7D%7D)
 The kookiest jailbreak now in interactive form. Requires some skill to use, please see example. Good at providing examples of code.
 
 # Prompt

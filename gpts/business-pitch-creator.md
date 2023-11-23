@@ -1,6 +1,6 @@
 
-[![Business pitch creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)]()
-# Business pitch creator 
+[![Business pitch creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Q5f3OY0Ezn8_S29WUsBQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Business pitch creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Q5f3OY0Ezn8_S29WUsBQ%22%2C%22flow%22%3Atrue%7D%7D)
 Business pitch for a movie and TV-show recommendation engine created by AI that analyzes all available variables on IMDB and offers personalized recommendations to users based on their watch history from major streaming sites, or a few select titles of their choice. 
 
 # Prompt

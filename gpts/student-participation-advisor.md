@@ -1,6 +1,6 @@
 
-[![Student Participation Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Student Participation Advisor 
+[![Student Participation Advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a55dD1IqHVEOKvlPqEAwF%22%2C%22flow%22%3Atrue%7D%7D)
+# Student Participation Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a55dD1IqHVEOKvlPqEAwF%22%2C%22flow%22%3Atrue%7D%7D)
 ways to encourage student participation during class discussions and group works 
 
 # Prompt

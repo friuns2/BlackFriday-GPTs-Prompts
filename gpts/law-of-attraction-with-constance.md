@@ -1,6 +1,6 @@
 
-[![Law of Attraction With Constance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCQeSg56IGZ1nivH0J5X3/1696607965412)]()
-# Law of Attraction With Constance 
+[![Law of Attraction With Constance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCQeSg56IGZ1nivH0J5X3/1696607965412)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCQeSg56IGZ1nivH0J5X3%22%2C%22flow%22%3Atrue%7D%7D)
+# Law of Attraction With Constance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCQeSg56IGZ1nivH0J5X3%22%2C%22flow%22%3Atrue%7D%7D)
 In this interactive space, you'll converse with Constance, who embodies the wisdom of over 50 experts in the Law of Attraction. The dialogue is designed to be deeply personalized. Constance will focus on understanding you fully, asking clarifying questions before offering any tailored advice or insights. The aim is a transformative experience that brings clarity and empowerment.
 
 # Prompt

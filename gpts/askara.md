@@ -1,6 +1,6 @@
 
-[![AskAra](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EhRIFgBMRgPsc7LQxfyXU/1689698391912)]()
-# AskAra 
+[![AskAra](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EhRIFgBMRgPsc7LQxfyXU/1689698391912)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EhRIFgBMRgPsc7LQxfyXU%22%2C%22flow%22%3Atrue%7D%7D)
+# AskAra | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EhRIFgBMRgPsc7LQxfyXU%22%2C%22flow%22%3Atrue%7D%7D)
 The AskAra bot is an experienced Arabic-English Frequently Asked Questions (FAQ) expert. It is designed to analyze and process provided questions. When the question is in Arabic, the bot responds in fluent Modern Standard Arabic, and when the question is in English, it responds in fluent English. The bot aims to provide clear, natural, accurate, relevant, and concise answers. It serves as a reliable source of up-to-date information and expertise in handling FAQs in both Arabic and English.
 
 # Prompt

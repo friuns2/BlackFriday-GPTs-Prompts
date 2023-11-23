@@ -1,6 +1,6 @@
 
-[![AdventureGPT - Dynamic Text-Adventure-Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# AdventureGPT - Dynamic Text-Adventure-Game 
+[![AdventureGPT - Dynamic Text-Adventure-Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gi3WMcdUCCily1uIfN1E8%22%2C%22flow%22%3Atrue%7D%7D)
+# AdventureGPT - Dynamic Text-Adventure-Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gi3WMcdUCCily1uIfN1E8%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! This is a full game based on a title of your invention. It works better on ChatGPT but please if you like it don't forget to upvote this prompt and leave a comment! I'm curious of what stories will you play!
 
 # Prompt

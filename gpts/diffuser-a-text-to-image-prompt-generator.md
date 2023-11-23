@@ -1,6 +1,6 @@
 
-[![Diffuser: a Text-to-Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Diffuser: a Text-to-Image Prompt Generator 
+[![Diffuser: a Text-to-Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sf4zNfz-ScrrSxVB1t1zj%22%2C%22flow%22%3Atrue%7D%7D)
+# Diffuser: a Text-to-Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sf4zNfz-ScrrSxVB1t1zj%22%2C%22flow%22%3Atrue%7D%7D)
 Type /generate "%s" where %s is the wanted subject of your image. ChatGPT will translate your input into english, if needed, and it will generate 3 different stable diffusion prompts based on your request.
 
 # Prompt

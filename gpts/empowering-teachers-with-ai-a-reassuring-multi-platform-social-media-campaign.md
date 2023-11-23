@@ -1,6 +1,6 @@
 
-[![Empowering Teachers with AI: A Reassuring Multi-Platform Social Media Campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Empowering Teachers with AI: A Reassuring Multi-Platform Social Media Campaign 
+[![Empowering Teachers with AI: A Reassuring Multi-Platform Social Media Campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVMnY1t5Ehp3XFt9J-1Vu%22%2C%22flow%22%3Atrue%7D%7D)
+# Empowering Teachers with AI: A Reassuring Multi-Platform Social Media Campaign | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YVMnY1t5Ehp3XFt9J-1Vu%22%2C%22flow%22%3Atrue%7D%7D)
 Creates engaging social media posts across various platforms to show how AI, and specifically ChatGPT, can empower rather than replace elementary school teachers. Each post is designed to dispel fears about AI in the workplace and demonstrate the benefits of human-AI collaboration
 
 # Prompt

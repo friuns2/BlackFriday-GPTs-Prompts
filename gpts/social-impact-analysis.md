@@ -1,6 +1,6 @@
 
-[![Social impact analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# Social impact analysis 
+[![Social impact analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224-niJTDAQ-luzIWaRMwb%22%2C%22flow%22%3Atrue%7D%7D)
+# Social impact analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2224-niJTDAQ-luzIWaRMwb%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt requests the creation of an essay focused on a specific topic denoted by "{{input}}". The essay is to be framed within the context of Normative Ethical Theories, exploring both the positives and negatives associated with the given topic. After establishing these theoretical foundations, the essay should shift to a people-centered approach. This involves analyzing the advantages and disadvantages of each ethical framework as they pertain to societal ethics and theory. The objective is to provide a comprehensive, nuanced examination of the topic, taking into account various ethical perspectives and their implications for society.
 
 

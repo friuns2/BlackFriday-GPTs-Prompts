@@ -1,6 +1,6 @@
 
-[![Job Finder (工作搜索器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# Job Finder (工作搜索器) 
+[![Job Finder (工作搜索器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lE3j-L-YeleBbgZ8HtrEL%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Finder (工作搜索器) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lE3j-L-YeleBbgZ8HtrEL%22%2C%22flow%22%3Atrue%7D%7D)
 A very powerful prompt that will help you find a job, regardless of your situation.
 
 一个非常强大的助手，帮助你找到工作，无论你的情况如何。

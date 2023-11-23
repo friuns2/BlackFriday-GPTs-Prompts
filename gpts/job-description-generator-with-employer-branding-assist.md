@@ -1,6 +1,6 @@
 
-[![🆕 Job Description Generator with 🔝 Employer Branding assist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xjNNH9aNDnI9g3B1__Sg0/1695141938365)]()
-# 🆕 Job Description Generator with 🔝 Employer Branding assist 
+[![🆕 Job Description Generator with 🔝 Employer Branding assist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xjNNH9aNDnI9g3B1__Sg0/1695141938365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xjNNH9aNDnI9g3B1__Sg0%22%2C%22flow%22%3Atrue%7D%7D)
+# 🆕 Job Description Generator with 🔝 Employer Branding assist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xjNNH9aNDnI9g3B1__Sg0%22%2C%22flow%22%3Atrue%7D%7D)
 No matter how much information you provide, you will receive a professional description of any position with an employer branding aspect. Follow the instructions.
 
 # Prompt

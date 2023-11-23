@@ -1,6 +1,6 @@
 
-[![🔍😨  Detective experience V1!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)]()
-# 🔍😨  Detective experience V1! 
+[![🔍😨  Detective experience V1!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7LuLV62n8tUfXnxR5P7U%22%2C%22flow%22%3Atrue%7D%7D)
+# 🔍😨  Detective experience V1! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7LuLV62n8tUfXnxR5P7U%22%2C%22flow%22%3Atrue%7D%7D)
 you will have an adventure in a detective case! ---- my recommendation is GPT4 because it is more accurate, but if you use 3.5, always give the complete answer by copying and pasting to guarantee ----
 
 # Prompt

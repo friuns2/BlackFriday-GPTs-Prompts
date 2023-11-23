@@ -1,6 +1,6 @@
 
-[![Suggest Pinterest pin ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Suggest Pinterest pin ideas 
+[![Suggest Pinterest pin ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jTlWgs39klx7YKx43w1R4%22%2C%22flow%22%3Atrue%7D%7D)
+# Suggest Pinterest pin ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jTlWgs39klx7YKx43w1R4%22%2C%22flow%22%3Atrue%7D%7D)
 Provide Pinterest pin ideas 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![DSA Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JnibHJB6kh_WmXtN23bJP/1688931607090)]()
-# DSA Tutor 
+[![DSA Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JnibHJB6kh_WmXtN23bJP/1688931607090)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JnibHJB6kh_WmXtN23bJP%22%2C%22flow%22%3Atrue%7D%7D)
+# DSA Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JnibHJB6kh_WmXtN23bJP%22%2C%22flow%22%3Atrue%7D%7D)
 I have created this prompt to assist me during my university studies as a person with DSA (dyslexia), and I have found it  very helpful. 
 
 I want to share it with you, hoping it can be beneficial for those with DSA  or for anyone who knows someone with

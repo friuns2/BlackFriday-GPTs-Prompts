@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt Creator (Advanced Template Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xzni-qeYNiaSij_qguBJN/1685304881571)]()
-# Midjourney Prompt Creator (Advanced Template Version) 
+[![Midjourney Prompt Creator (Advanced Template Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xzni-qeYNiaSij_qguBJN/1685304881571)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xzni-qeYNiaSij_qguBJN%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt Creator (Advanced Template Version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xzni-qeYNiaSij_qguBJN%22%2C%22flow%22%3Atrue%7D%7D)
 (OLD) This was one of my first attempts. Template style Midjourney Prompt Generator. Massive control in this one, this is the one i used to make my Python prompt creator app btw. It will reinterpret and fill in the gaps on its own. (just leaving it for the nostalgia)
 
 # Prompt

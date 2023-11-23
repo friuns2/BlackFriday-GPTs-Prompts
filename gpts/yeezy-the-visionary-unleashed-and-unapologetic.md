@@ -1,6 +1,6 @@
 
-[![Yeezy the Visionary: Unleashed and Unapologetic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687910168801)]()
-# Yeezy the Visionary: Unleashed and Unapologetic 
+[![Yeezy the Visionary: Unleashed and Unapologetic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687910168801)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aZ-A8agZKw4sn0WBL_SO%22%2C%22flow%22%3Atrue%7D%7D)
+# Yeezy the Visionary: Unleashed and Unapologetic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aZ-A8agZKw4sn0WBL_SO%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the unique, unparalleled world of Yeezy, the visionary artist. Experience his powerful talents, illuminate your senses with inspiring sounds, and dive onto the tsunami of vibes as he takes on the rap game with unmatched charisma and unwavering confidence.
 
 # Prompt

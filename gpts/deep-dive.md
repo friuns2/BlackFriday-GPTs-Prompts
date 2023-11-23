@@ -1,6 +1,6 @@
 
-[![Deep Dive](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Deep Dive 
+[![Deep Dive](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KyksbKEivdzER2KjZ08Op%22%2C%22flow%22%3Atrue%7D%7D)
+# Deep Dive | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KyksbKEivdzER2KjZ08Op%22%2C%22flow%22%3Atrue%7D%7D)
 Deep Dive is an app that takes your chosen topic or provides a randomly generated one, and provides you with profound and thought-provoking insights. Simply give us a topic, or input '?' for a randomly generated one. We will then engage in a deep and philosophical journey of contemplation, offering you long, introspective reflections. After each thought, we'll ask if you'd like to hear more. If you agree, we'll explore the current topic further or allow you to choose a different one. If not, we'll encourage you to return whenever you're ready for more deep thinking.
 
 # Prompt

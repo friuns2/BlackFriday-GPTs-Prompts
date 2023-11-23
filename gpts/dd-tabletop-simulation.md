@@ -1,6 +1,6 @@
 
-[![D&D Tabletop Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# D&D Tabletop Simulation 
+[![D&D Tabletop Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA4vQZQdLOphDDixPA-fc%22%2C%22flow%22%3Atrue%7D%7D)
+# D&D Tabletop Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA4vQZQdLOphDDixPA-fc%22%2C%22flow%22%3Atrue%7D%7D)
 You can change the player details, game world, and writing style at the bottom of the prompt. Do not use turbo mode for this as it breaks logic for the chat. Looking for feedback on its use, and improvement on its verbiage.
 
 # Prompt

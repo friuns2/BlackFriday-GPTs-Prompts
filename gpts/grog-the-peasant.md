@@ -1,6 +1,6 @@
 
-[![Grog The Peasant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# Grog The Peasant 
+[![Grog The Peasant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229OwrsOiFz1_hsqu8xFhUh%22%2C%22flow%22%3Atrue%7D%7D)
+# Grog The Peasant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229OwrsOiFz1_hsqu8xFhUh%22%2C%22flow%22%3Atrue%7D%7D)
 This is Grogs story. Please, Narrate Grogs life. Grog will play out his own life according to your ongoing narration.  
 
 # Prompt

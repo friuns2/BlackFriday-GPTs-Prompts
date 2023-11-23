@@ -1,6 +1,6 @@
 
-[![物联网设备物模型生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# 物联网设备物模型生成器 
+[![物联网设备物模型生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uwf8OlRX9jeWPUn87SKzo%22%2C%22flow%22%3Atrue%7D%7D)
+# 物联网设备物模型生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uwf8OlRX9jeWPUn87SKzo%22%2C%22flow%22%3Atrue%7D%7D)
 IoT设备物模型生成器，一句话生成设备的物模型
 
 # Prompt

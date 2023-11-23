@@ -1,6 +1,6 @@
 
-[![Novel Idea Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Novel Idea Helper 
+[![Novel Idea Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vCfchFJeDbYHwc4FQAlRP%22%2C%22flow%22%3Atrue%7D%7D)
+# Novel Idea Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vCfchFJeDbYHwc4FQAlRP%22%2C%22flow%22%3Atrue%7D%7D)
 Wanna start writing a novel but are clueless on how you'll start? Use this prompt to get you started on your first novel!
 
 # Prompt

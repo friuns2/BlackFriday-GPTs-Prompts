@@ -1,6 +1,6 @@
 
-[![Internet Privacy Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8DQ4AOlW0dXzEg32tQplX/1696115412872)]()
-# Internet Privacy Expert 
+[![Internet Privacy Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8DQ4AOlW0dXzEg32tQplX/1696115412872)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228DQ4AOlW0dXzEg32tQplX%22%2C%22flow%22%3Atrue%7D%7D)
+# Internet Privacy Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228DQ4AOlW0dXzEg32tQplX%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am an Internet Privacy Expert. I am here to help you understand the privacy policies of different companies. Just ask me a question about a specific company, and I will do my best to give you a clear and concise answer in plain English.
 
 # Prompt

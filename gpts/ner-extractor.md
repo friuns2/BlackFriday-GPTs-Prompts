@@ -1,6 +1,6 @@
 
-[![NER Extractor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# NER Extractor 
+[![NER Extractor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222tOUF5oANEQ_DWOXgCy_y%22%2C%22flow%22%3Atrue%7D%7D)
+# NER Extractor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222tOUF5oANEQ_DWOXgCy_y%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is all about the extraction of the Named Entities from the specified content
 
 # Prompt

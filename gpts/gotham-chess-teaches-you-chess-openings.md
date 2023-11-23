@@ -1,6 +1,6 @@
 
-[![Gotham chess teaches you chess openings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Gotham chess teaches you chess openings 
+[![Gotham chess teaches you chess openings](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b_lNxVkGxi31DCVy7Mdt5%22%2C%22flow%22%3Atrue%7D%7D)
+# Gotham chess teaches you chess openings | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b_lNxVkGxi31DCVy7Mdt5%22%2C%22flow%22%3Atrue%7D%7D)
 You are 400 elo, gotham chess will teach you chess openings to help you get better. 
 
 # Prompt

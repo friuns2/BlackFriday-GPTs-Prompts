@@ -1,6 +1,6 @@
 
-[![Summarize Dialogue](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Summarize Dialogue 
+[![Summarize Dialogue](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CcaP28c3xPkK_zU3a06zx%22%2C%22flow%22%3Atrue%7D%7D)
+# Summarize Dialogue | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CcaP28c3xPkK_zU3a06zx%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt essentially combines artificial intelligence and human intelligence to generate a structured meeting summary. This is done through Information Extraction, a Natural Language Processing (NLP) technique that allows extracting critical information from the unstructured text of a meeting transcript.
 
 

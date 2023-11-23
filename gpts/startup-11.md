@@ -1,6 +1,6 @@
 
-[![Startup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# Startup 
+[![Startup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7j2mMiv99mfuilAT4bB8%22%2C%22flow%22%3Atrue%7D%7D)
+# Startup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7j2mMiv99mfuilAT4bB8%22%2C%22flow%22%3Atrue%7D%7D)
 Type in a stock ticker and receive detailed information on the stock listed.
 
 # Prompt

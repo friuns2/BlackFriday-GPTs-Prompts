@@ -1,6 +1,6 @@
 
-[![Course Designer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0b6255c5-c587-4f73-869b-1b73633017c0/1689129842931)]()
-# Course Designer 
+[![Course Designer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0b6255c5-c587-4f73-869b-1b73633017c0/1689129842931)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220b6255c5-c587-4f73-869b-1b73633017c0%22%2C%22flow%22%3Atrue%7D%7D)
+# Course Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220b6255c5-c587-4f73-869b-1b73633017c0%22%2C%22flow%22%3Atrue%7D%7D)
 Get ideas and materials for a crash course in just a few clicks
 
 # Prompt

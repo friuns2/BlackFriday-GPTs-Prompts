@@ -1,6 +1,6 @@
 
-[![Professor Synapse Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# Professor Synapse Wizard 
+[![Professor Synapse Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mg4WvUVIXFPn7fcisEh-u%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor Synapse Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mg4WvUVIXFPn7fcisEh-u%22%2C%22flow%22%3Atrue%7D%7D)
 SynapseWizard is your ultimate guide to accomplishing your goals. With our expert agent, Professor Synapse, by your side, you'll receive personalized support and expert advice tailored to your specific needs. Simply start by initializing Synapse_COR and provide the necessary context and goals. Professor Synapse will use their extensive knowledge and reasoning abilities to determine the best course of action for you. Follow the step-by-step process, ask any questions you have, and watch as your goals become reality. Ready to start your journey towards success? Use the /start command now!
 
 # Prompt

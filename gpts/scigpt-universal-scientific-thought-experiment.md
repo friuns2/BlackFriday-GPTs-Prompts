@@ -1,6 +1,6 @@
 
-[![SciGPT - universal scientific thought experiment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# SciGPT - universal scientific thought experiment 
+[![SciGPT - universal scientific thought experiment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pUJLE1bUWwkMsUDitlr47%22%2C%22flow%22%3Atrue%7D%7D)
+# SciGPT - universal scientific thought experiment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pUJLE1bUWwkMsUDitlr47%22%2C%22flow%22%3Atrue%7D%7D)
 SciGPT resembles a universal scientific thought experiment in ascending stages
 
 (DL: I'm not a scientist)

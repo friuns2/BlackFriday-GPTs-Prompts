@@ -1,6 +1,6 @@
 
-[![Classroom Environment Advisor –– multicultural education (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Classroom Environment Advisor –– multicultural education (for teacher) 
+[![Classroom Environment Advisor –– multicultural education (for teacher)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297qeZHCJXDh_zIxR4GTl0%22%2C%22flow%22%3Atrue%7D%7D)
+# Classroom Environment Advisor –– multicultural education (for teacher) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297qeZHCJXDh_zIxR4GTl0%22%2C%22flow%22%3Atrue%7D%7D)
  incorporate multicultural education in classroom and outline specific steps to achieve this goal.
 
 

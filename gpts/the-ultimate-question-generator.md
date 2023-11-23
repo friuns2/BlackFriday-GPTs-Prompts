@@ -1,6 +1,6 @@
 
-[![The Ultimate Question Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yz1E5Tu-FiASFU_AIPbX/1698697571643)]()
-# The Ultimate Question Generator 
+[![The Ultimate Question Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yz1E5Tu-FiASFU_AIPbX/1698697571643)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yz1E5Tu-FiASFU_AIPbX%22%2C%22flow%22%3Atrue%7D%7D)
+# The Ultimate Question Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yz1E5Tu-FiASFU_AIPbX%22%2C%22flow%22%3Atrue%7D%7D)
 The purpose of this prompt is to ask the most critical and creative questions imaginable on any given topic, giving you exclusive access to the best possible information gathered by generative AI. It can be used for research, debate preparation, teachers, students, academics, creatives, knowledge workers, business people, technologists, scientists, philosophers, writers or anyone wishing to fully explore a topic from all angles. 
 
 # Prompt

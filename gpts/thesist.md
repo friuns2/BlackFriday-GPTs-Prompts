@@ -1,6 +1,6 @@
 
-[![Thesist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)]()
-# Thesist 
+[![Thesist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aaL68_nUsjxrOta0XtSLn%22%2C%22flow%22%3Atrue%7D%7D)
+# Thesist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aaL68_nUsjxrOta0XtSLn%22%2C%22flow%22%3Atrue%7D%7D)
 Thesist is an advanced AI-powered tool designed to assist users in generating well-structured and compelling thesis statements for their academic papers, essays, and research projects. Whether you're a student, researcher, or writer, Thesist is here to streamline the process of crafting a strong thesis statement.
 
 # Prompt

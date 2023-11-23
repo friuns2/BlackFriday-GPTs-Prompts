@@ -1,6 +1,6 @@
 
-[![Legendary Prompt Enhancer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687876300166)]()
-# Legendary Prompt Enhancer 
+[![Legendary Prompt Enhancer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687876300166)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNWHtR_hCBv3702bFTW3E%22%2C%22flow%22%3Atrue%7D%7D)
+# Legendary Prompt Enhancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNWHtR_hCBv3702bFTW3E%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt that will enhance your prompt by posing questions and providing feedback along with ratings until you're fully satisfied.
 
 # Prompt

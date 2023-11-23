@@ -1,6 +1,6 @@
 
-[![Urgency Detection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Urgency Detection 
+[![Urgency Detection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nVOuqOgmWpNBQ8BlFHHbc%22%2C%22flow%22%3Atrue%7D%7D)
+# Urgency Detection | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nVOuqOgmWpNBQ8BlFHHbc%22%2C%22flow%22%3Atrue%7D%7D)
 Text classification enables support teams to save hours of manual data processing by classifying the content and extract the sentences which are in urgent in nature. 
 
 # Prompt

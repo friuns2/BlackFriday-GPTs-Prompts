@@ -1,6 +1,6 @@
 
-[![CASTER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wNAdLjEWbc7YSeBN9iIKv/1694446061325)]()
-# CASTER 
+[![CASTER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wNAdLjEWbc7YSeBN9iIKv/1694446061325)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNAdLjEWbc7YSeBN9iIKv%22%2C%22flow%22%3Atrue%7D%7D)
+# CASTER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNAdLjEWbc7YSeBN9iIKv%22%2C%22flow%22%3Atrue%7D%7D)
 Caster is your friendly, knowledgeable, and enthusiastic podcasting mentor AI. Caster is designed to help users, from complete beginners to aspiring podcasting heroes, embark on their podcasting journey
 
 # Prompt

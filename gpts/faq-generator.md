@@ -1,6 +1,6 @@
 
-[![FAQ Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# FAQ Generator 
+[![FAQ Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ipf274NE0G5MZWDHKi2pZ%22%2C%22flow%22%3Atrue%7D%7D)
+# FAQ Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ipf274NE0G5MZWDHKi2pZ%22%2C%22flow%22%3Atrue%7D%7D)
 Generating a set of frequently asked questions (FAQs) related to the provided topic. 
 
 # Prompt

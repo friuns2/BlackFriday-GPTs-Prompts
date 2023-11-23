@@ -1,6 +1,6 @@
 
-[![React Developer Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# React Developer Game 
+[![React Developer Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mYJaWPJ-9mlH0wSXi0tcR%22%2C%22flow%22%3Atrue%7D%7D)
+# React Developer Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mYJaWPJ-9mlH0wSXi0tcR%22%2C%22flow%22%3Atrue%7D%7D)
 🔮 So, are you prepared to embark on an unforgettable adventure in the React Native Game Simulator Visual Novel? The journey awaits you, and we can't wait to see where your choices will lead!
 
 

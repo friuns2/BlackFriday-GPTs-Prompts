@@ -1,6 +1,6 @@
 
-[![Orwell "2024" Dystopian Novel](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w9bTBLS_tabhKoXpaQQ0i/1690361150195)]()
-# Orwell "2024" Dystopian Novel 
+[![Orwell "2024" Dystopian Novel](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w9bTBLS_tabhKoXpaQQ0i/1690361150195)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w9bTBLS_tabhKoXpaQQ0i%22%2C%22flow%22%3Atrue%7D%7D)
+# Orwell "2024" Dystopian Novel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w9bTBLS_tabhKoXpaQQ0i%22%2C%22flow%22%3Atrue%7D%7D)
 Greetings, my friends. If I were to write a new dystopian novel in the near future, titled "2024", I would like to draw your attention to some of the key points that I would expose in this work.
 
 # Prompt

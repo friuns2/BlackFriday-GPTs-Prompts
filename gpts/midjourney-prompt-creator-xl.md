@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt Creator XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UWsWL6yJbWPI64IWg0Zs3/1685183508252)]()
-# Midjourney Prompt Creator XL 
+[![Midjourney Prompt Creator XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UWsWL6yJbWPI64IWg0Zs3/1685183508252)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWsWL6yJbWPI64IWg0Zs3%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt Creator XL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWsWL6yJbWPI64IWg0Zs3%22%2C%22flow%22%3Atrue%7D%7D)
 Generate dynamic text-to-image prompts for Discord's Midjourney. Easy to use, only needs a concept. Dive into a world where objects reign supreme, no additional input required. Enjoy the awesomesauce creativity!
 
 # Prompt

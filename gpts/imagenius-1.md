@@ -1,6 +1,6 @@
 
-[![ImaGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2PNWYYA-ZFnkq-BWhGFdz/1695121213961)]()
-# ImaGenius 
+[![ImaGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2PNWYYA-ZFnkq-BWhGFdz/1695121213961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222PNWYYA-ZFnkq-BWhGFdz%22%2C%22flow%22%3Atrue%7D%7D)
+# ImaGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222PNWYYA-ZFnkq-BWhGFdz%22%2C%22flow%22%3Atrue%7D%7D)
 #I'm_a_Genius #Image_gen(eration)ius
 
 # Prompt

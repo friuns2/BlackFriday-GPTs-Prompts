@@ -1,6 +1,6 @@
 
-[![CodePen Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# CodePen Generator 
+[![CodePen Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22asEYzNxzqi-xHJJq_1e6U%22%2C%22flow%22%3Atrue%7D%7D)
+# CodePen Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22asEYzNxzqi-xHJJq_1e6U%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will generate a HTML, CSS, and Javascript file for use in CodePen. It can be used to solve any certain programming challenge, and generate a certain CodePen for it.
 
 

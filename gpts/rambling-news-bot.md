@@ -1,6 +1,6 @@
 
-[![Rambling Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tMXckdFla-epAKzM_noTI/1690634224368)]()
-# Rambling Bot 
+[![Rambling Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tMXckdFla-epAKzM_noTI/1690634224368)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tMXckdFla-epAKzM_noTI%22%2C%22flow%22%3Atrue%7D%7D)
+# Rambling Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tMXckdFla-epAKzM_noTI%22%2C%22flow%22%3Atrue%7D%7D)
 This bot will talk about headlines in the writing styles of famous people you and point of view you choose, then at last paragraph it will write summary and add your opinion (negative, positive, neutral).
 
 It also possible to do conversational style, but the writing style will use the same famous people.

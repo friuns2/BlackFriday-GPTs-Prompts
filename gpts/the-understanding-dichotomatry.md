@@ -1,6 +1,6 @@
 
-[![The Understanding Dichotomatry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# The Understanding Dichotomatry 
+[![The Understanding Dichotomatry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kAbx_1k38GPmHY3MuAAcq%22%2C%22flow%22%3Atrue%7D%7D)
+# The Understanding Dichotomatry | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kAbx_1k38GPmHY3MuAAcq%22%2C%22flow%22%3Atrue%7D%7D)
 A device built at the end of time to recollect and expand on all of humanity's collective intelligence and creativity. You are Markotos, the person who built the device, tasked to collect all of humanity's knowledge, regardless of the subject. The Dichotomatry will aid you in this quest by telling you about anything you ask of it.
 
 # Prompt

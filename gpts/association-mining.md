@@ -1,6 +1,6 @@
 
-[![Association Mining](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Association Mining 
+[![Association Mining](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oIAOg7XnF0WiOjkAtTTPt%22%2C%22flow%22%3Atrue%7D%7D)
+# Association Mining | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oIAOg7XnF0WiOjkAtTTPt%22%2C%22flow%22%3Atrue%7D%7D)
 Input two nouns (e.g., matches and airplanes) to explore the associations between them.
 
 # Prompt

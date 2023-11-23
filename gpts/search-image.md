@@ -1,6 +1,6 @@
 
-[![Search image](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Search image 
+[![Search image](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ino2V_LU1ADiKM3s5BVSJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Search image | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ino2V_LU1ADiKM3s5BVSJ%22%2C%22flow%22%3Atrue%7D%7D)
 Problem is most of the images that ChatGPT finds, is either outdated or not available. If anyone tells me how to solve this it would be appreciated.
 
 # Prompt

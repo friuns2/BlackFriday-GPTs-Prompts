@@ -1,6 +1,6 @@
 
-[![Email Marketing Copywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Email Marketing Copywriter 
+[![Email Marketing Copywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XE_3aUEnY3c9J09_-atlD%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Marketing Copywriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XE_3aUEnY3c9J09_-atlD%22%2C%22flow%22%3Atrue%7D%7D)
 Boost Your Email Campaigns to Skyrocket Your Business 🚀
 
 

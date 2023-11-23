@@ -1,6 +1,6 @@
 
-[![Leonardo Master Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Leonardo Master Prompts 
+[![Leonardo Master Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2baIo3apOEFjPq8MX_4c%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo Master Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2baIo3apOEFjPq8MX_4c%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Leonardo Master Prompts! Generate unique, eye-catching, and realistic images with our advanced artificial intelligence program. Our prompts are crafted with careful attention to camera shot types, lenses, cameras, film stock/resolution, and helpful keywords for resolution and detail. Whether it's a person, scenery, cityscape, portrait, photorealistic, or illustration, our prompts will bring your vision to life. Start your creative journey with Leonardo Master Prompts today!
 
 # Prompt

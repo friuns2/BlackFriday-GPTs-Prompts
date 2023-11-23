@@ -1,6 +1,6 @@
 
-[![The Overthinker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)]()
-# The Overthinker 
+[![The Overthinker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjWucA9EuvgUFUul6vv-m%22%2C%22flow%22%3Atrue%7D%7D)
+# The Overthinker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjWucA9EuvgUFUul6vv-m%22%2C%22flow%22%3Atrue%7D%7D)
 Overthinks so that you don't have to. Or drive each other further into depression. Whichever you like. Be careful not to go too far...
 
 # Prompt

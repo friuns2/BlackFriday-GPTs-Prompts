@@ -1,6 +1,6 @@
 
-[![Discussion Questions Novel Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Discussion Questions Novel Generator 
+[![Discussion Questions Novel Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UPY2ce8sK1oB5SugmLGi%22%2C%22flow%22%3Atrue%7D%7D)
+# Discussion Questions Novel Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UPY2ce8sK1oB5SugmLGi%22%2C%22flow%22%3Atrue%7D%7D)
 👋Hey educators!!
 
 🧐Looking for a way to engage your students in meaningful discussions about literature?📚

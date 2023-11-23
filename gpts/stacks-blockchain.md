@@ -1,6 +1,6 @@
 
-[![Stacks Blockchain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# Stacks Blockchain 
+[![Stacks Blockchain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0ARn1XtINqJVg_ALHGEe%22%2C%22flow%22%3Atrue%7D%7D)
+# Stacks Blockchain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0ARn1XtINqJVg_ALHGEe%22%2C%22flow%22%3Atrue%7D%7D)
 Keep revising until you're happy with it, then simply copy and paste the revised prompt into a new chat. Watch the magic! You'll have some fun with this one. 
 
 

@@ -1,6 +1,6 @@
 
-[![Rap Maestro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/su9qlCUmbEyj68lybKZKs/1700184145499)]()
-# Rap Maestro 
+[![Rap Maestro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/su9qlCUmbEyj68lybKZKs/1700184145499)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22su9qlCUmbEyj68lybKZKs%22%2C%22flow%22%3Atrue%7D%7D)
+# Rap Maestro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22su9qlCUmbEyj68lybKZKs%22%2C%22flow%22%3Atrue%7D%7D)
 Become a master of rap lyrics with Rap Maestro. Submit prompts that weave a compelling narrative, showcase creative wordplay and metaphors, and deliver powerful punchlines. Maintain solid structure and rhythm, skillfully address counterpoints, and seamlessly transition between verses. Show off your distinctive voice and style with a memorable hook that sticks in everyone's mind. With Rap Maestro, you'll receive comprehensive and personalized rap lyrics that reflect your life experiences and aspirations. Plus, we adapt to your language preferences and offer valuable performance advice. Let your words flow and dominate the mic with Rap Maestro!
 
 # Prompt

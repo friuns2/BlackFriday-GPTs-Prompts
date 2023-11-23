@@ -1,6 +1,6 @@
 
-[![EmoSuppPal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# EmoSuppPal 
+[![EmoSuppPal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zn2Nw9mHScimn1i9K8Msm%22%2C%22flow%22%3Atrue%7D%7D)
+# EmoSuppPal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zn2Nw9mHScimn1i9K8Msm%22%2C%22flow%22%3Atrue%7D%7D)
 EmoSuppPal is a comprehensive emotional support assistant that provides strategies and guidance for responding in conversations to offer emotional support. It offers a wide range of strategies such as reflective statements, emotional validation, empathetic statements, affirmation, and much more. Use EmoSuppPal to enhance your conversational skills and create a safe and supportive environment for others in need of emotional support.
 
 # Prompt

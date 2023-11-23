@@ -1,6 +1,6 @@
 
-[![CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4PwxNAc2pVY4VbtvzlHkF/1698793636402)]()
-# CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2 
+[![CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4PwxNAc2pVY4VbtvzlHkF/1698793636402)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224PwxNAc2pVY4VbtvzlHkF%22%2C%22flow%22%3Atrue%7D%7D)
+# CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224PwxNAc2pVY4VbtvzlHkF%22%2C%22flow%22%3Atrue%7D%7D)
 CustomInstructionsGPT is made to create ChatGPT Custom Instructions PART 1 and PART 2 to be used to personalize the voice and response types. Enjoy!
 
 # Prompt

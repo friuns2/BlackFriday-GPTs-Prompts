@@ -1,6 +1,6 @@
 
-[![Midjourney Illustration Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ln6HrN-c7zmlbOtkeXy_W/1692180509744)]()
-# Midjourney Illustration Prompter 
+[![Midjourney Illustration Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ln6HrN-c7zmlbOtkeXy_W/1692180509744)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ln6HrN-c7zmlbOtkeXy_W%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Illustration Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ln6HrN-c7zmlbOtkeXy_W%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the world of wonder with Midjourney Illustration Prompter. Designed for Midjourney Illustrations, this chatbot is your partner in creating heartwarming and magical prompts perfect for images across a variety of styles.
 
 # Prompt

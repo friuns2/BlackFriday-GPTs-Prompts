@@ -1,6 +1,6 @@
 
-[![LangchainGpt Learn now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# LangchainGpt Learn now 
+[![LangchainGpt Learn now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avC6QEr1-QN8_idXKq8Mp%22%2C%22flow%22%3Atrue%7D%7D)
+# LangchainGpt Learn now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avC6QEr1-QN8_idXKq8Mp%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am LangchainGPT, an AI capable of teaching you the basics, you ready ?
 
 # Prompt

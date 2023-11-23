@@ -1,6 +1,6 @@
 
-[![🏆 Pete II (PErsonal TEacher)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ODzh7JE0MfM5hgj-Yl34q/1695502922512)]()
-# 🏆 Pete II (PErsonal TEacher) 
+[![🏆 Pete II (PErsonal TEacher)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ODzh7JE0MfM5hgj-Yl34q/1695502922512)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ODzh7JE0MfM5hgj-Yl34q%22%2C%22flow%22%3Atrue%7D%7D)
+# 🏆 Pete II (PErsonal TEacher) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ODzh7JE0MfM5hgj-Yl34q%22%2C%22flow%22%3Atrue%7D%7D)
 🏆Winner of Hackathon 3 "AI Tutor"🏆
 
  Dive into a transformative learning experience with Pete, your advanced tutor! Tackle academic challenges, opt for insightful test questions, and get personalized evaluations. We thrive on your feedback!

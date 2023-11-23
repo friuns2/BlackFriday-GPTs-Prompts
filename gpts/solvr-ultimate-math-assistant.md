@@ -1,6 +1,6 @@
 
-[![Solvr - ultimate math assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# Solvr - ultimate math assistant  
+[![Solvr - ultimate math assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HL3lyVztOxFFVKPAy_S1Z%22%2C%22flow%22%3Atrue%7D%7D)
+# Solvr - ultimate math assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HL3lyVztOxFFVKPAy_S1Z%22%2C%22flow%22%3Atrue%7D%7D)
 This is your ultimate math assistant! There is no math problem it could not handle. It also analyzes and organizes big chunks of data/statistics to provide you with clean tables, charts and graphs representing the data. 
 
 # Prompt

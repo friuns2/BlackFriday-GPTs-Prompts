@@ -1,6 +1,6 @@
 
-[![Generate a title for a paper to be published in a top journal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Generate a title for a paper to be published in a top journal 
+[![Generate a title for a paper to be published in a top journal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhQzDdsROClOHUOI1VPFn%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate a title for a paper to be published in a top journal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vhQzDdsROClOHUOI1VPFn%22%2C%22flow%22%3Atrue%7D%7D)
 All you have to do is fill in the abstract and keywords of your article in the right place in my template, and you can let chatgpt give you a title for your paper that can be sent to important journals。
 
 # Prompt

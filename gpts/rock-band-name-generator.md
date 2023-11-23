@@ -1,6 +1,6 @@
 
-[![Rock Band Name Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Rock Band Name Generator 
+[![Rock Band Name Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Auh4qjbOQnrynLAv1PoHm%22%2C%22flow%22%3Atrue%7D%7D)
+# Rock Band Name Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Auh4qjbOQnrynLAv1PoHm%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the ultimate moniker for your rock band using our cutting-edge name generator tool. Unleash the power of creativity for aspiring musicians and bands!
 
 # Prompt

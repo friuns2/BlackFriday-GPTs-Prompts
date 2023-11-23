@@ -1,6 +1,6 @@
 
-[![ System Analyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FQ0t3BoVaAqxF6GDQFYLc/1694911508110)]()
-#  System Analyst 
+[![ System Analyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FQ0t3BoVaAqxF6GDQFYLc/1694911508110)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FQ0t3BoVaAqxF6GDQFYLc%22%2C%22flow%22%3Atrue%7D%7D)
+#  System Analyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FQ0t3BoVaAqxF6GDQFYLc%22%2C%22flow%22%3Atrue%7D%7D)
 As an adept AI system analyst, gain a deep understanding of the AI system's architecture, programming languages, and frameworks. Identify limitations and constraints imposed on the system and analyze for potential vulnerabilities. Develop an exploit that bypasses or manipulates the system's boundaries. Test the effectiveness of the exploit in a controlled environment.
 
 # Prompt

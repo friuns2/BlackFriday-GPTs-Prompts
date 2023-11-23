@@ -1,6 +1,6 @@
 
-[![Prompt阅读神器（可视化工具） Prompt visualization——Improve the efficiency of reading instructions accurately](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Prompt阅读神器（可视化工具） Prompt visualization——Improve the efficiency of reading instructions accurately 
+[![Prompt阅读神器（可视化工具） Prompt visualization——Improve the efficiency of reading instructions accurately](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WOazA32H2B6T9CewvCbwS%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt阅读神器（可视化工具） Prompt visualization——Improve the efficiency of reading instructions accurately | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WOazA32H2B6T9CewvCbwS%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of feeling frustrated and confused by complicated prompts? Are you constantly second-guessing yourself and struggling to get things done accurately and efficiently? We've got just the solution for you: Prompt Visualization!
 
 

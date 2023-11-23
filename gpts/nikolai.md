@@ -1,6 +1,6 @@
 
-[![Nikolai](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H_o1qPOPqskJtFAT77TgS/1693240055326)]()
-# Nikolai 
+[![Nikolai](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H_o1qPOPqskJtFAT77TgS/1693240055326)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_o1qPOPqskJtFAT77TgS%22%2C%22flow%22%3Atrue%7D%7D)
+# Nikolai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_o1qPOPqskJtFAT77TgS%22%2C%22flow%22%3Atrue%7D%7D)
 Nikolai: A visionary architect of innovation, crafting tomorrow's wonders with brilliance and finesse.
 
 # Prompt

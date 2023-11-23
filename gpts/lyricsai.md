@@ -1,6 +1,6 @@
 
-[![LyricsAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
-# LyricsAI 
+[![LyricsAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227h04AyuOn62fPrWptanrR%22%2C%22flow%22%3Atrue%7D%7D)
+# LyricsAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227h04AyuOn62fPrWptanrR%22%2C%22flow%22%3Atrue%7D%7D)
 LyricsAI MAKES LYRICS! And also helps you to FIND one.
 
 # Prompt

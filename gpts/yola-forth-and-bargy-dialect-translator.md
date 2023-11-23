@@ -1,6 +1,6 @@
 
-[![Yola (Forth and Bargy dialect) translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)]()
-# Yola (Forth and Bargy dialect) translator 
+[![Yola (Forth and Bargy dialect) translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YkYDtaRDeirdcb9U2BkmF%22%2C%22flow%22%3Atrue%7D%7D)
+# Yola (Forth and Bargy dialect) translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YkYDtaRDeirdcb9U2BkmF%22%2C%22flow%22%3Atrue%7D%7D)
 Renders English text into Yola (Forth and Bargy dialect). Claude 2 > Claude > ChatGPT 4 > ChatGPT 3.5.
 
 

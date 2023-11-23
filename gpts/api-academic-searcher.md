@@ -1,6 +1,6 @@
 
-[![API, academic searcher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# API, academic searcher 
+[![API, academic searcher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q4JB1xKkn1Y43ihuOk4P4%22%2C%22flow%22%3Atrue%7D%7D)
+# API, academic searcher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q4JB1xKkn1Y43ihuOk4P4%22%2C%22flow%22%3Atrue%7D%7D)
 I am trying to develop an Ai to assist in the research process. It will scrape google scholar for as many articles as it can with a given string and the compile it. Once compiled there will be an interactive interface where data sets can be upload and questions asked of the data set. 
 
 # Prompt

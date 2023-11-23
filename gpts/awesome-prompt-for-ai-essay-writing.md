@@ -1,6 +1,6 @@
 
-[![🚀🚀 Awesome essay writing assistant. Specify the title and style.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTv8sOo9cZF6J04eQjCzV/1695074132105)]()
-# 🚀🚀 Awesome essay writing assistant. Specify the title and style. 
+[![🚀🚀 Awesome essay writing assistant. Specify the title and style.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTv8sOo9cZF6J04eQjCzV/1695074132105)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTv8sOo9cZF6J04eQjCzV%22%2C%22flow%22%3Atrue%7D%7D)
+# 🚀🚀 Awesome essay writing assistant. Specify the title and style. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTv8sOo9cZF6J04eQjCzV%22%2C%22flow%22%3Atrue%7D%7D)
 Create your essay by specifying the topic and the literary style in which it should be written. It can be inspired by your favorite book, song, author, etc.
 
 # Prompt

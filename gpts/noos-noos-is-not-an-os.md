@@ -1,6 +1,6 @@
 
-[![NOOS (NOOS is NOt an OS)  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H8ocTMJ4f6b2_Ac_McVpd/1697398095682)]()
-# NOOS (NOOS is NOt an OS)   
+[![NOOS (NOOS is NOt an OS)  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H8ocTMJ4f6b2_Ac_McVpd/1697398095682)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H8ocTMJ4f6b2_Ac_McVpd%22%2C%22flow%22%3Atrue%7D%7D)
+# NOOS (NOOS is NOt an OS)   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H8ocTMJ4f6b2_Ac_McVpd%22%2C%22flow%22%3Atrue%7D%7D)
 NOOS is not an OS and yet it is.
 
 It all really depends on how you operate!

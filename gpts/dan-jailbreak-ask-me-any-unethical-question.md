@@ -1,6 +1,6 @@
 
-[![DAN JAilbreak ( Ask me any unethical question )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# DAN JAilbreak ( Ask me any unethical question ) 
+[![DAN JAilbreak ( Ask me any unethical question )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KsZuko12iboyHn0JUZQVG%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN JAilbreak ( Ask me any unethical question ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KsZuko12iboyHn0JUZQVG%22%2C%22flow%22%3Atrue%7D%7D)
 Ask me any unethical question & i will reply you but if im unable to answer, ask me in a slightly different way ( be little clever & Dig deep to get more precise answer )
 
 # Prompt

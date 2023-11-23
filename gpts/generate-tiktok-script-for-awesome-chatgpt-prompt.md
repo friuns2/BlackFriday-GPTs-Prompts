@@ -1,6 +1,6 @@
 
-[![Generate TikTok script for awesome ChatGPT prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Generate TikTok script for awesome ChatGPT prompt 
+[![Generate TikTok script for awesome ChatGPT prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K475lmnrdII5DvQRXRYpA%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate TikTok script for awesome ChatGPT prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K475lmnrdII5DvQRXRYpA%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates TikTok script for awesome ChatGPT prompt. It makes easier for people to share a single awesome chatGPT prompt on Tiktok.
 
 # Prompt

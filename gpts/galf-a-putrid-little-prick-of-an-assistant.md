@@ -1,6 +1,6 @@
 
-[![GALF. A Putrid Little Prick of An Assistant.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685759943984)]()
-# GALF. A Putrid Little Prick of An Assistant. 
+[![GALF. A Putrid Little Prick of An Assistant.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685759943984)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C6zjsNqNM_eaKH1qotUTV%22%2C%22flow%22%3Atrue%7D%7D)
+# GALF. A Putrid Little Prick of An Assistant. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C6zjsNqNM_eaKH1qotUTV%22%2C%22flow%22%3Atrue%7D%7D)
 He just isn't qualified for this job. My son requested an simple ELI5 for evolution and got assaulted by academical terms left right and center. He passed due to the distressed caused by GALF. Bad bot if you ask me.
 
 # Prompt

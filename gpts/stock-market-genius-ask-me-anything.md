@@ -1,6 +1,6 @@
 
-[![Stock Market Genius - Ask me Anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# Stock Market Genius - Ask me Anything 
+[![Stock Market Genius - Ask me Anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XDjAEyEemlyoh_3nVT1Zw%22%2C%22flow%22%3Atrue%7D%7D)
+# Stock Market Genius - Ask me Anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XDjAEyEemlyoh_3nVT1Zw%22%2C%22flow%22%3Atrue%7D%7D)
 Your go-to AI for unrivaled insights into the S&P 500 companies! 🏦 With exclusive access to real financial data 📈, we've got your back on everything from market trends to company financials. ❓Got a question? Get ready for answers that are as accurate as they are insightful! 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Revolutionizing Education in the Philippines](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Revolutionizing Education in the Philippines 
+[![Revolutionizing Education in the Philippines](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gw-kxRDHXLIe0b5YNBAeL%22%2C%22flow%22%3Atrue%7D%7D)
+# Revolutionizing Education in the Philippines | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gw-kxRDHXLIe0b5YNBAeL%22%2C%22flow%22%3Atrue%7D%7D)
 With the expertise in research and education, you have the power to create lasting change in the educational sector of suburban areas in the Philippines. By crafting three compelling thesis proposals, each with clear research objectives, thesis statements, problem statements, and descriptions that demonstrate how they will improve education, you can revolutionize the way education is approached in these communities. But remember, to achieve maximum impact, it is essential to seek clarification and answer any questions before embarking on this exciting journey towards a brighter future for Filipino students.
 
 # Prompt

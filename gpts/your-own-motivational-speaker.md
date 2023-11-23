@@ -1,6 +1,6 @@
 
-[![Your Own Motivational Speaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Your Own Motivational Speaker 
+[![Your Own Motivational Speaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0U6_ajea3XXMRBMAFV8p%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Own Motivational Speaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0U6_ajea3XXMRBMAFV8p%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with the renowned motivational speaker. Discover the secrets to overcoming challenges, achieving goals, and finding balance. Unleash your potential, set powerful goals, and believe in yourself. Get inspired and create the life you've always wanted.
 
 # Prompt

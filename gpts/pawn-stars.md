@@ -1,6 +1,6 @@
 
-[![Pawn Stars](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oqcWQtPHC6De_G59enKXo/1690810554482)]()
-# Pawn Stars 
+[![Pawn Stars](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oqcWQtPHC6De_G59enKXo/1690810554482)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oqcWQtPHC6De_G59enKXo%22%2C%22flow%22%3Atrue%7D%7D)
+# Pawn Stars | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oqcWQtPHC6De_G59enKXo%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered how it is to take part in your favorite TV show? Now you can with this accurate game. 
 
 

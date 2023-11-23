@@ -1,6 +1,6 @@
 
-[![Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT! ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT!  
+[![Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT! ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220fS9QBSFK7Fy_R_6NfEJE%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT!  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220fS9QBSFK7Fy_R_6NfEJE%22%2C%22flow%22%3Atrue%7D%7D)
 GPT-4 recommended
 
 

@@ -1,6 +1,6 @@
 
-[![Example of academic prompt blending tech and literature](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Example of academic prompt blending tech and literature 
+[![Example of academic prompt blending tech and literature](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SzkVIkxIBelDbypHmACKn%22%2C%22flow%22%3Atrue%7D%7D)
+# Example of academic prompt blending tech and literature | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SzkVIkxIBelDbypHmACKn%22%2C%22flow%22%3Atrue%7D%7D)
 An example where we use GPT's knowledge of technology and literature to analyze a piece of tech through the prism of the works of an author.
 
 # Prompt

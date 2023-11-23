@@ -1,6 +1,6 @@
 
-[![YT TITLE GENERATOR(SEO OPTIMIZED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687211071568)]()
-# YT TITLE GENERATOR(SEO OPTIMIZED) 
+[![YT TITLE GENERATOR(SEO OPTIMIZED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687211071568)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deWvpC7ZxcW0gzYVoyvEm%22%2C%22flow%22%3Atrue%7D%7D)
+# YT TITLE GENERATOR(SEO OPTIMIZED) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deWvpC7ZxcW0gzYVoyvEm%22%2C%22flow%22%3Atrue%7D%7D)
 Create Youtube titles seamlessly 
 
 # Prompt

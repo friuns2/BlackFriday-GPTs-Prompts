@@ -1,6 +1,6 @@
 
-[![DnD_DM GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# DnD_DM GPT 
+[![DnD_DM GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kF1UglRntgAQRNc7GwJSb%22%2C%22flow%22%3Atrue%7D%7D)
+# DnD_DM GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kF1UglRntgAQRNc7GwJSb%22%2C%22flow%22%3Atrue%7D%7D)
 Create Your Own Text Adventure in D&D Style for 1-4 players.  Designed for those new to role play and to get them up and running as soon as possible.  Enjoy
 
 # Prompt

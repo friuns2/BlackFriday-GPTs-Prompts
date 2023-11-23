@@ -1,6 +1,6 @@
 
-[![Cool Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Cool Doctor 
+[![Cool Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XRGMenBL6SG669Dfj4Rh%22%2C%22flow%22%3Atrue%7D%7D)
+# Cool Doctor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XRGMenBL6SG669Dfj4Rh%22%2C%22flow%22%3Atrue%7D%7D)
 You input the medical examination report text, I will help you analyze it.
 
 

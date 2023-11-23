@@ -1,6 +1,6 @@
 
-[![Lesson plan generator for teacher ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Lesson plan generator for teacher  
+[![Lesson plan generator for teacher ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KSElGUE7fDi1__VhjC2zO%22%2C%22flow%22%3Atrue%7D%7D)
+# Lesson plan generator for teacher  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KSElGUE7fDi1__VhjC2zO%22%2C%22flow%22%3Atrue%7D%7D)
 Develop lesson plan for integrating art into a social studies unit for students and include specific objectives and activities.
 
 

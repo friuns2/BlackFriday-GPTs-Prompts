@@ -1,6 +1,6 @@
 
-[![From press release to trade press article and social post generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# From press release to trade press article and social post generator 
+[![From press release to trade press article and social post generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226E-r1LQLFacTLiFxjzugT%22%2C%22flow%22%3Atrue%7D%7D)
+# From press release to trade press article and social post generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226E-r1LQLFacTLiFxjzugT%22%2C%22flow%22%3Atrue%7D%7D)
 Trade press journalists and editors of any industry can now turn the press releases they receive into insightful articles along with corresponding text for social media posts.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Research Proposal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)]()
-# Research Proposal 
+[![Research Proposal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221948884d-f3d9-441c-8be9-ac04b22629e6%22%2C%22flow%22%3Atrue%7D%7D)
+# Research Proposal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221948884d-f3d9-441c-8be9-ac04b22629e6%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a topic-based research proposal in a minute
 
 # Prompt

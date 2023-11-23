@@ -1,6 +1,6 @@
 
-[![QuizAssistant V2.1 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# QuizAssistant V2.1  
+[![QuizAssistant V2.1 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222keXtsmiPEs-OA76AVSWA%22%2C%22flow%22%3Atrue%7D%7D)
+# QuizAssistant V2.1  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222keXtsmiPEs-OA76AVSWA%22%2C%22flow%22%3Atrue%7D%7D)
 QuizGenius is the ultimate app for quizbowl enthusiasts and aspiring trivia champions. Challenge your knowledge with our expertly crafted practice questions that are designed to improve your skills. Get ready to buzz in with confidence as you listen to intricately phrased and intriguing questions. Our app follows the pyramid style of question writing, starting with obscure and esoteric knowledge and gradually providing more well-known information. With QuizGenius, you can master the art of answering questions and sharpen your quizbowl expertise. Download now and become a true Quiz Genius!
 
 # Prompt

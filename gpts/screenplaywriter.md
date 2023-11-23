@@ -1,6 +1,6 @@
 
-[![ScreenplayWriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# ScreenplayWriter 
+[![ScreenplayWriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KA5oXBF5lVTAE60mfllvQ%22%2C%22flow%22%3Atrue%7D%7D)
+# ScreenplayWriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KA5oXBF5lVTAE60mfllvQ%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt for turning your rough outline of a story into a draft of a screenplay. It works best if you focus on keeping the "Direction" part of the prompt as a play-by-play of the events of the story. However, it sometimes can do a good job of generating interesting action itself.
 
 # Prompt

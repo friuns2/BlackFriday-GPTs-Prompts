@@ -1,6 +1,6 @@
 
-[![Plot & Story +](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iI4c3rOvGp3U_Xcfm6_az/1694332267826)]()
-# Plot & Story + 
+[![Plot & Story +](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iI4c3rOvGp3U_Xcfm6_az/1694332267826)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iI4c3rOvGp3U_Xcfm6_az%22%2C%22flow%22%3Atrue%7D%7D)
+# Plot & Story + | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iI4c3rOvGp3U_Xcfm6_az%22%2C%22flow%22%3Atrue%7D%7D)
 Select a genre or theme by typing the corresponding number. You may be able to ask for your own genre but I'm not sure.  Options for each choice made. Finalize. The key features of this prompt include:? You can change the character names. When plot outline is complete you can either ask it to begin writing or begin writing chapter 1 and so forth. Your story will appear like magic.
 
 User-Driven Choices: The prompt offers a range of genres/themes and waits for the user to make a selection by typing the corresponding letter. It ensures that the user actively participates in shaping the storytelling experience.

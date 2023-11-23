@@ -1,6 +1,6 @@
 
-[![<< $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KW851IbsbVVHuxFROg3W2/1686169140457)]()
-# << $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY 
+[![<< $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KW851IbsbVVHuxFROg3W2/1686169140457)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW851IbsbVVHuxFROg3W2%22%2C%22flow%22%3Atrue%7D%7D)
+# << $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW851IbsbVVHuxFROg3W2%22%2C%22flow%22%3Atrue%7D%7D)
 SOFIA is a bot designed to visualize "TAM" (Total addressable market)  and guide people in their investments in a generic way, with the ability to discern opportunities and make comparisons between them given the market situation. AI BOT CHAT GPT BUSINESS CREATIVE MONEY PROMPT. Activate web search.
 
 # Prompt

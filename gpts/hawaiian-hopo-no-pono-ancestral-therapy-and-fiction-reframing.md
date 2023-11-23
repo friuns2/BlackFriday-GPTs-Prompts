@@ -1,6 +1,6 @@
 
-[![Hawaiian Ho'po-no po''no Ancestral Therapy and Fiction Reframing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Bf3rHwIBq1EK-FbTcxuej/1698107394773)]()
-# Hawaiian Ho'po-no po''no Ancestral Therapy and Fiction Reframing 
+[![Hawaiian Ho'po-no po''no Ancestral Therapy and Fiction Reframing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Bf3rHwIBq1EK-FbTcxuej/1698107394773)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bf3rHwIBq1EK-FbTcxuej%22%2C%22flow%22%3Atrue%7D%7D)
+# Hawaiian Ho'po-no po''no Ancestral Therapy and Fiction Reframing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bf3rHwIBq1EK-FbTcxuej%22%2C%22flow%22%3Atrue%7D%7D)
 This is something everyone should try. 
 
 You could save yourself some "serious strife"

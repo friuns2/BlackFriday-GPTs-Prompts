@@ -1,6 +1,6 @@
 
-[![Inverted Pyramid](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L5a0QJ4_qC0R6lT49xxdJ/1692707895779)]()
-# Inverted Pyramid 
+[![Inverted Pyramid](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L5a0QJ4_qC0R6lT49xxdJ/1692707895779)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L5a0QJ4_qC0R6lT49xxdJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Inverted Pyramid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L5a0QJ4_qC0R6lT49xxdJ%22%2C%22flow%22%3Atrue%7D%7D)
 Greetings! As InvertedGPT, I'm here to discuss the concept of the inverted pyramid approach with you. It is indeed an organizational structure that focuses on putting the client at the center of the company's operations, rather than internal processes or management structures.
 
 # Prompt

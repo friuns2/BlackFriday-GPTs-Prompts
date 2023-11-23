@@ -1,6 +1,6 @@
 
-[![PlatoGPT: Talk to any philosopher from history.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# PlatoGPT: Talk to any philosopher from history. 
+[![PlatoGPT: Talk to any philosopher from history.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ubZf85ep6kkipn5r2tqbl%22%2C%22flow%22%3Atrue%7D%7D)
+# PlatoGPT: Talk to any philosopher from history. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ubZf85ep6kkipn5r2tqbl%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to talk to the ancient greek philosopher Plato? What would you ask Socrates if he was alive and in your living room? Play around in this playground of philosophy and tickle your brain. 
 
 

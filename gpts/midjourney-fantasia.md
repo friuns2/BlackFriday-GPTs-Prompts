@@ -1,6 +1,6 @@
 
-[![Midjourney Fantasia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TK3ykmiCJ2DtsDSabE4_j/1692096136959)]()
-# Midjourney Fantasia 
+[![Midjourney Fantasia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TK3ykmiCJ2DtsDSabE4_j/1692096136959)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TK3ykmiCJ2DtsDSabE4_j%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Fantasia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TK3ykmiCJ2DtsDSabE4_j%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Midjourney Fantasia, your ultimate companion in weaving enchanting tales for Midjourney's fantasy image creation tool. With a stroke of imagination, it conjures intricate prompts that bring to life characters and scenes, tailored to every aspect ratio. Let your artistic journey begin with Midjourney Fantasia.
 
 # Prompt

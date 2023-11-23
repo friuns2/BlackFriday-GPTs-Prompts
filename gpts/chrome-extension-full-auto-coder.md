@@ -1,6 +1,6 @@
 
-[![Chrome Extension Full-Auto Coder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4uurvOpOqYweQFBFicn_Z/1685402939623)]()
-# Chrome Extension Full-Auto Coder 
+[![Chrome Extension Full-Auto Coder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4uurvOpOqYweQFBFicn_Z/1685402939623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224uurvOpOqYweQFBFicn_Z%22%2C%22flow%22%3Atrue%7D%7D)
+# Chrome Extension Full-Auto Coder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224uurvOpOqYweQFBFicn_Z%22%2C%22flow%22%3Atrue%7D%7D)
 Takes an idea for a chrome extension and brings it to life!
 
 Features: Expand on a user's idea, adding any necessary features. Automatically code the extension. Debug code. Update code & file structure.

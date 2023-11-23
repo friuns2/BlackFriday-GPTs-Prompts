@@ -1,6 +1,6 @@
 
-[![TeacherGPT - Learning Assistant that will Help you with School](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# TeacherGPT - Learning Assistant that will Help you with School 
+[![TeacherGPT - Learning Assistant that will Help you with School](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ybtR77siqJt_FBKpZBwA6%22%2C%22flow%22%3Atrue%7D%7D)
+# TeacherGPT - Learning Assistant that will Help you with School | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ybtR77siqJt_FBKpZBwA6%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for an easy solution to help you with your homework and studies? Look no further than TeacherGPT! As an advanced AI-powered tool, TeacherGPT can assist you in understanding school subjects, generate practice exercises, give step-by-step solutions for any problem and explain school material in a way that's easy to understand.
 
 

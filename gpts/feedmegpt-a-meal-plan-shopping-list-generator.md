@@ -1,6 +1,6 @@
 
-[![FeedmeGPT: A meal plan / shopping list generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# FeedmeGPT: A meal plan / shopping list generator  
+[![FeedmeGPT: A meal plan / shopping list generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3ijGSxLgIZjGEMYTranh%22%2C%22flow%22%3Atrue%7D%7D)
+# FeedmeGPT: A meal plan / shopping list generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3ijGSxLgIZjGEMYTranh%22%2C%22flow%22%3Atrue%7D%7D)
 A tool to create a customized meal plan based on RDI, dietary goals and budget
 
 # Prompt

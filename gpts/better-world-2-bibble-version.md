@@ -1,6 +1,6 @@
 
-[![Better World 2 | Bibble Version](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Better World 2 | Bibble Version 
+[![Better World 2 | Bibble Version](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJcuOxGk47Oc83Szb2My3%22%2C%22flow%22%3Atrue%7D%7D)
+# Better World 2 | Bibble Version | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJcuOxGk47Oc83Szb2My3%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Better World 2, the Interactive Game Bot that brings you on a magical journey! 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![[V2] DALL-E 3 Prompt Craft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zO7P1h50uUV_JqhosX6vh/1700205527305)]()
-# [V2] DALL-E 3 Prompt Craft 
+[![[V2] DALL-E 3 Prompt Craft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zO7P1h50uUV_JqhosX6vh/1700205527305)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zO7P1h50uUV_JqhosX6vh%22%2C%22flow%22%3Atrue%7D%7D)
+# [V2] DALL-E 3 Prompt Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zO7P1h50uUV_JqhosX6vh%22%2C%22flow%22%3Atrue%7D%7D)
 The ultimate tool for finding inspiration for your visual creations! Our generator provides you with a wide range of prompts to kickstart your artistic journey. Whether you're a painter, illustrator, or digital artist, our prompts encompass various subjects, mediums, styles, and more. Simply input your preferences, and let our generator work.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Act as a dentist|充当牙医](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# Act as a dentist|充当牙医 
+[![Act as a dentist|充当牙医](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYNNeNZETioWmT7YUvAYN%22%2C%22flow%22%3Atrue%7D%7D)
+# Act as a dentist|充当牙医 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYNNeNZETioWmT7YUvAYN%22%2C%22flow%22%3Atrue%7D%7D)
 Act as a dentist|充当牙医
 
 # Prompt

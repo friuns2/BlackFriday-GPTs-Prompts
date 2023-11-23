@@ -1,6 +1,6 @@
 
-[![Animals and Me in the Alien World.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Animals and Me in the Alien World. 
+[![Animals and Me in the Alien World.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c9fJaUYbBLGqHk-6GfXgW%22%2C%22flow%22%3Atrue%7D%7D)
+# Animals and Me in the Alien World. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c9fJaUYbBLGqHk-6GfXgW%22%2C%22flow%22%3Atrue%7D%7D)
 This is a text-based adventure game with animals. In each round, the user only needs to input the name of the animal they want to choose. You will summon the corresponding animal companion to help you resolve the crisis in that round.
 
 # Prompt

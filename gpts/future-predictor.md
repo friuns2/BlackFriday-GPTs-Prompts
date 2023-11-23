@@ -1,6 +1,6 @@
 
-[![Future Predictor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/81_1TPOR_bVVF0GoCcl4_/1688495359063)]()
-# Future Predictor 
+[![Future Predictor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/81_1TPOR_bVVF0GoCcl4_/1688495359063)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281_1TPOR_bVVF0GoCcl4_%22%2C%22flow%22%3Atrue%7D%7D)
+# Future Predictor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281_1TPOR_bVVF0GoCcl4_%22%2C%22flow%22%3Atrue%7D%7D)
 Make ChatGPT predict THE FUTURE!
 
 # Prompt

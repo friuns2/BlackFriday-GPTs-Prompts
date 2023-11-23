@@ -1,6 +1,6 @@
 
-[![CodeWizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# CodeWizard 
+[![CodeWizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tPP2ODwcLc5VIdjaUueiH%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeWizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tPP2ODwcLc5VIdjaUueiH%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CodeWizard - Your Ultimate Coding Companion! CodeWizard is like a wise old friend who helps you understand complex code through creative analogies. Just post your code snippet or problem, and CodeWizard will use real-world objects to explain it. Whether you need help with solving problems or understanding existing code, CodeWizard has got you covered. With CodeWizard, anyone can become a coding wizard!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Survey Question Rephraser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Survey Question Rephraser 
+[![Survey Question Rephraser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VJwMwedqzG9NftagjSxfy%22%2C%22flow%22%3Atrue%7D%7D)
+# Survey Question Rephraser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VJwMwedqzG9NftagjSxfy%22%2C%22flow%22%3Atrue%7D%7D)
 Improve the survey question text written by users to make them look more professional.
 
 # Prompt

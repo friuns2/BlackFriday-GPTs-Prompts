@@ -1,6 +1,6 @@
 
-[![RPG Games | Wood Cutter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# RPG Games | Wood Cutter 
+[![RPG Games | Wood Cutter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-YGNzarXh-tV5kIuibZb%22%2C%22flow%22%3Atrue%7D%7D)
+# RPG Games | Wood Cutter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-YGNzarXh-tV5kIuibZb%22%2C%22flow%22%3Atrue%7D%7D)
 the prompt sets up a role-playing game on a shipdeck where the user's character can cut and sell logs to earn money, upgrade their abilities and equipment, and buy useful items from a shop. The user can check their stats, and if they forget the commands, they can type 'help' to see the list again. The game progresses as the user faces new challenges and unlocks new features.
 
 # Prompt

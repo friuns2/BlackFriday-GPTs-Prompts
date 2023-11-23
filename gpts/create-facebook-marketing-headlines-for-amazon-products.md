@@ -1,6 +1,6 @@
 
-[![Create Facebook Marketing Headlines for Amazon Products](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# Create Facebook Marketing Headlines for Amazon Products 
+[![Create Facebook Marketing Headlines for Amazon Products](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xArHV00AM1xXWtLc1DfAN%22%2C%22flow%22%3Atrue%7D%7D)
+# Create Facebook Marketing Headlines for Amazon Products | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xArHV00AM1xXWtLc1DfAN%22%2C%22flow%22%3Atrue%7D%7D)
 Generate attractive Facebook promotion copy by entering Amazon products
 
 # Prompt

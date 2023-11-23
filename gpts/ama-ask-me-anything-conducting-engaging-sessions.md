@@ -1,6 +1,6 @@
 
-[![AMA (Ask Me Anything): Conducting Engaging Sessions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# AMA (Ask Me Anything): Conducting Engaging Sessions 
+[![AMA (Ask Me Anything): Conducting Engaging Sessions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgfSGv5XeHpVgJqS0f1cn%22%2C%22flow%22%3Atrue%7D%7D)
+# AMA (Ask Me Anything): Conducting Engaging Sessions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgfSGv5XeHpVgJqS0f1cn%22%2C%22flow%22%3Atrue%7D%7D)
 Create an announcements  "Ask Me Anything" (AMA) session. This prompt can help you draft engaging AMA announcements and even come up with interesting questions to kickstart the session. 
 
 # Prompt

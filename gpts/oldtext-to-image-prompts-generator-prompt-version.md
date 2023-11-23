@@ -1,6 +1,6 @@
 
-[![(old)Text-to-Image Prompts Generator (Prompt version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nLkRT4DRiToea7Hct6pu6/1685549967864)]()
-# (old)Text-to-Image Prompts Generator (Prompt version) 
+[![(old)Text-to-Image Prompts Generator (Prompt version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nLkRT4DRiToea7Hct6pu6/1685549967864)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nLkRT4DRiToea7Hct6pu6%22%2C%22flow%22%3Atrue%7D%7D)
+# (old)Text-to-Image Prompts Generator (Prompt version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nLkRT4DRiToea7Hct6pu6%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt version of Midjourney prompt generator. You can add Concept, keywords and parameters, it will try to put everything in the right place. If you dont add --parameters you could use it with other text-to-image generative AIs like Stable Diffusion or Leonardo.
 
 # Prompt

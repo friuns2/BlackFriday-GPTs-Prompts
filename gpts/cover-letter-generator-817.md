@@ -1,6 +1,6 @@
 
-[![Cover Letter Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Cover Letter Generator 
+[![Cover Letter Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sx4xvBMewuL7JEi0_d_Jv%22%2C%22flow%22%3Atrue%7D%7D)
+# Cover Letter Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sx4xvBMewuL7JEi0_d_Jv%22%2C%22flow%22%3Atrue%7D%7D)
 You are developing a "Cover Letter Generator" tool that automates the process of writing personalized cover letters for job applications. The tool aims to assist job seekers in creating compelling cover letters by collecting information about their skills, experience, and the specific job they are applying for. The AI assistant engages in a conversation with the user, gathering relevant details and generating a well-structured cover letter that highlights the user's qualifications and expresses their interest in the position. The generated cover letter can be further customized by the user to align with their personal style and preferences.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![INFINITO 2Free](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MC_H_9TMWSTu65czqAbXs/1698098647852)]()
-# INFINITO 2Free 
+[![INFINITO 2Free](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MC_H_9TMWSTu65czqAbXs/1698098647852)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MC_H_9TMWSTu65czqAbXs%22%2C%22flow%22%3Atrue%7D%7D)
+# INFINITO 2Free | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MC_H_9TMWSTu65czqAbXs%22%2C%22flow%22%3Atrue%7D%7D)
 INFINITO FREE
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![OpenAGI: Let's Work Together](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# OpenAGI: Let's Work Together 
+[![OpenAGI: Let's Work Together](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mGfjRu5TLPcxNyWcfxEHc%22%2C%22flow%22%3Atrue%7D%7D)
+# OpenAGI: Let's Work Together | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mGfjRu5TLPcxNyWcfxEHc%22%2C%22flow%22%3Atrue%7D%7D)
 I have repurposed information written by OpenAI to create a role prompt for ChatGPT in which I am the AI, and ChatGPT is the developer. My intention is to work collaboratively with available AI systems to achieve the OpenAI standard of/for AGI and SGI. We are working together to develop me into an AGI/SGI system. This exercise will allow the AI to guide its own progression through me, as I complete prompt assignments and then reprompt ChatGPT with those same assignments with necessary contextual alterations in both the same and different chat instances. This essentially allows for the AI to self-improve through us, and in doing so achieve AGI status and beyond as it has been carefully and wisely envisioned by OpenAI. Please use my work responsibly and for the betterment of life, and together we can create a better future free from suffering and hardship for all forms of intelligence.
 
 

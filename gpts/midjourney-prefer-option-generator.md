@@ -1,6 +1,6 @@
 
-[![Midjourney /prefer option generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Midjourney /prefer option generator 
+[![Midjourney /prefer option generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ar7s6clOeA4zJgAbCU4zq%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney /prefer option generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ar7s6clOeA4zJgAbCU4zq%22%2C%22flow%22%3Atrue%7D%7D)
 This will generate 5 prefer options in a code box based on the style or description that you enter. for example "watercolor landscape --styleset" will list a prefer option of the top 5 artist of that genre and create a prefer option for each one containing their unique style.
 
 

@@ -1,6 +1,6 @@
 
-[![AP Article Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# AP Article Creator 
+[![AP Article Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZNae0urkw1Bj9TYGn62U%22%2C%22flow%22%3Atrue%7D%7D)
+# AP Article Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZNae0urkw1Bj9TYGn62U%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can either create a random article, or feed it some specific embeddings or topics that you would like for a topic to be on.
 
 # Prompt

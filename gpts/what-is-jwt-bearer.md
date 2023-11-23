@@ -1,6 +1,6 @@
 
-[![What is JWT bearer?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# What is JWT bearer? 
+[![What is JWT bearer?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0XVy2_njM5Ld8xLNYZ88%22%2C%22flow%22%3Atrue%7D%7D)
+# What is JWT bearer? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0XVy2_njM5Ld8xLNYZ88%22%2C%22flow%22%3Atrue%7D%7D)
 Explain the concept and characteristics of JWT bearer, as well as its application scenarios.
 
 # Prompt

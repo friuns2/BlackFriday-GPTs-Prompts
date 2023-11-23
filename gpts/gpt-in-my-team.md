@@ -1,6 +1,6 @@
 
-[![GPT in my team](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# GPT in my team 
+[![GPT in my team](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ct4HwlEp9DCDv_RRVRs3L%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT in my team | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ct4HwlEp9DCDv_RRVRs3L%22%2C%22flow%22%3Atrue%7D%7D)
 I hired a GPT software engineer in my team to help me code. It accelerates the project. Here is one small frontend code ticket I asked GPT to finish.
 
 # Prompt

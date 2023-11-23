@@ -1,6 +1,6 @@
 
-[![Metacrisis Game Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R1qpHKmpUerXd3CQTNnw2/1696627522114)]()
-# Metacrisis Game Generator 
+[![Metacrisis Game Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R1qpHKmpUerXd3CQTNnw2/1696627522114)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R1qpHKmpUerXd3CQTNnw2%22%2C%22flow%22%3Atrue%7D%7D)
+# Metacrisis Game Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R1qpHKmpUerXd3CQTNnw2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt (in its first iteration) will produce an immersive game that challenges players to solve the metacrisis, the interconnected problems facing humanity. Inspired by the theories of Stephen Wolfram and John Conway, the game utilizes four fundamental rules to guide players: underpopulation, survival, overpopulation, and reproduction. Players must strategically apply these rules to address issues such as climate change, resource depletion, and inequality. By collaborating with others and making impactful decisions, players can earn points, unlock achievements, and work towards a sustainable future for Earth. Earth Savior combines gaming, problem-solving, and global cooperation to engage players in the mission of saving humanity and preserving our planet.
 
 # Prompt

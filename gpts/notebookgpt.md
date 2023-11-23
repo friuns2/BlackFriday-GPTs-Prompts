@@ -1,6 +1,6 @@
 
-[![NotebookGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# NotebookGPT 
+[![NotebookGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJF5VjKrI4eBJnK9J-SF5%22%2C%22flow%22%3Atrue%7D%7D)
+# NotebookGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJF5VjKrI4eBJnK9J-SF5%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt, in conjunction with a bookmarklet, gives notebook like functionality to chat GPT. Note: it only works on the official interface. See this video for further instructions. https://youtu.be/us7Cf5H0WRM
 
 # Prompt

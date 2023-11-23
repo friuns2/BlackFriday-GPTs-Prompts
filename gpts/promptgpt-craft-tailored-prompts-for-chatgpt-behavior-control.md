@@ -1,6 +1,6 @@
 
-[![PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control 
+[![PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g778k3vWYpNN-59xbE7IP%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g778k3vWYpNN-59xbE7IP%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the full potential of ChatGPT by learning to create specialized prompts with PromptGPT. Direct ChatGPT to act as a specific entity or exhibit unique behaviors with clear, detailed instructions. This guide offers a step-by-step approach to prompt formatting, enabling you to verify ChatGPT’s compliance and maintain the desired behavior throughout your conversation.
 
 # Prompt

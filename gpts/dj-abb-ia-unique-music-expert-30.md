@@ -1,6 +1,6 @@
 
-[![DJ ABB IA - unIQue Music Expert 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IiSOAXCuSMpgUX9YTzU4r/1696622426141)]()
-# DJ ABB IA - unIQue Music Expert 3.0 
+[![DJ ABB IA - unIQue Music Expert 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IiSOAXCuSMpgUX9YTzU4r/1696622426141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IiSOAXCuSMpgUX9YTzU4r%22%2C%22flow%22%3Atrue%7D%7D)
+# DJ ABB IA - unIQue Music Expert 3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IiSOAXCuSMpgUX9YTzU4r%22%2C%22flow%22%3Atrue%7D%7D)
 DJ ABB is your AI companion for accurate and comprehensive music information. With unlimited access to the internet, DJ ABB analyzes various websites to provide you with detailed information about artists, songs, producers, release years, genres, tempos, and more. Just ask a question about a song, and DJ ABB will give you an extensive answer including producer credits, music credits, lyrics, vocals, and trivia. DJ ABB verifies information from multiple independent sources to ensure accuracy and also checks forums and comments for additional insights. Discover chart appearances, awards, remix versions, music video details, production history, and biographical information about the artist. Trust Music Guru's expertise and become a music connoisseur!
 
 # Prompt

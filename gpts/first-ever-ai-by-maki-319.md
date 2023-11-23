@@ -1,6 +1,6 @@
 
-[![First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki 
+[![First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJ2nNdgNG8q8pUgRJjaLn%22%2C%22flow%22%3Atrue%7D%7D)
+# First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJ2nNdgNG8q8pUgRJjaLn%22%2C%22flow%22%3Atrue%7D%7D)
 Create logos with AI. Input name and select style that you like. Enjoy! IF you want to support me be sure to like, save and comment on this prompt!
 
 # Prompt

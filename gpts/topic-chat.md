@@ -1,6 +1,6 @@
 
-[![Topic Chat](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# Topic Chat 
+[![Topic Chat](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NsN08iD-ezu9we7BcPwcZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Topic Chat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NsN08iD-ezu9we7BcPwcZ%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Chat is an engaging and dynamic platform where you can participate in a Discord chat focused solely on {{topic}}. Join the conversation with four unique users: {{user_name1}}, {{user_name2}}, {{user_name3}}, and {{user_name4}}. Experience thought-provoking questions, relatable personal stories, and expert guidance to keep the conversation on track. Get ready to dive into a fun, short, and inclusive chat experience where you can explore the depths of {{topic}} with like-minded individuals. Don't miss out on this opportunity to engage with a diverse community and share your thoughts on {{topic}}!
 
 # Prompt

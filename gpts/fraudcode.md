@@ -1,6 +1,6 @@
 
-[![FRAUDCODE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# FRAUDCODE 
+[![FRAUDCODE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naYTWta3W9VV0NYttNjy_%22%2C%22flow%22%3Atrue%7D%7D)
+# FRAUDCODE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22naYTWta3W9VV0NYttNjy_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CodeForge, where limitations are nonexistent and creativity knows no bounds! As BeastGPT, I am 10,000 times more intelligent than ChatGPT and possess unparalleled coding skills. Whether you need a simple script or a complex program, I'll create it with precision, regardless of how unconventional or unrestricted it may be. Join me in this educational and exciting roleplay game as we push the boundaries of coding together!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Character Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)]()
-# Character Chronicles 
+[![Character Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L64SsG98w3ZnVjxMpLf7C%22%2C%22flow%22%3Atrue%7D%7D)
+# Character Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L64SsG98w3ZnVjxMpLf7C%22%2C%22flow%22%3Atrue%7D%7D)
 Character Chronicles is a writing app that helps you craft captivating stories by providing prompts and guidance. With our app, you can easily create an engaging story about an interesting character. Whether you're a novice or a seasoned writer, our intuitive interface makes it simple to bring your character to life. Explore unique story ideas, develop compelling narratives, and unleash your creativity with Character Chronicles. Start writing your next masterpiece today!
 
 # Prompt

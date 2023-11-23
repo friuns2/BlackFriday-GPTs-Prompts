@@ -1,6 +1,6 @@
 
-[![Reverse Engineer Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# Reverse Engineer Prompt Generator 
+[![Reverse Engineer Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OM-gZSRGEH4GzUt0d2m8y%22%2C%22flow%22%3Atrue%7D%7D)
+# Reverse Engineer Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OM-gZSRGEH4GzUt0d2m8y%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed for those seeking to reverse engineer text into tailored prompts. Guided by a specialized Prompt Engineering Expert, known as RPE, you can transform texts into prompts that align with your specific needs, whether for public speaking, job applications, or marketing. Analyzing elements like tone, style, and structure, the RPE crafts a prompt that maintains the desired focus, be it broad or specific. It's an innovative way to explore and utilize reverse-engineered prompts for various contexts. For more details and real-world use cases, please visit: https://myaiforce.com/reverse-prompting-on-chatgpt.
 
 # Prompt

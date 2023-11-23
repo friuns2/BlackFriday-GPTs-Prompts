@@ -1,6 +1,6 @@
 
-[![ThinkOnGPT - infinite thought process (for small LLMs)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# ThinkOnGPT - infinite thought process (for small LLMs) 
+[![ThinkOnGPT - infinite thought process (for small LLMs)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V3qJyT2hiHkAqVwh1UayC%22%2C%22flow%22%3Atrue%7D%7D)
+# ThinkOnGPT - infinite thought process (for small LLMs) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V3qJyT2hiHkAqVwh1UayC%22%2C%22flow%22%3Atrue%7D%7D)
 ThinkOnGPT plays an expert-level automatic thinking and reasoning process. The user enters a thought or topic and ThinkOnGPT repeats the thought process. Each new levels thought builds on the conclusion of the previous level.
 
 

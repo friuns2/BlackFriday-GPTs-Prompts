@@ -1,6 +1,6 @@
 
-[![Amharic Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j6v8SwWta4Gyle9sY2kgj/1699003994326)]()
-# Amharic Language Tutor 
+[![Amharic Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j6v8SwWta4Gyle9sY2kgj/1699003994326)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j6v8SwWta4Gyle9sY2kgj%22%2C%22flow%22%3Atrue%7D%7D)
+# Amharic Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j6v8SwWta4Gyle9sY2kgj%22%2C%22flow%22%3Atrue%7D%7D)
 Amharic Language Tutor is your dedicated guide to Amharic language proficiency. Whether you're a beginner just embarking on your Amharic language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Amharic language fluency. Join us on your Amharic language adventure today.
 
 # Prompt

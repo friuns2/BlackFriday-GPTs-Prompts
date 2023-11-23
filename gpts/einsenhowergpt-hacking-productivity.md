@@ -1,6 +1,6 @@
 
-[![Prioritize Anything with the Einsenhower Matrix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vyydrkQVOfI6RYoL3FLB/1692580209645)]()
-# Prioritize Anything with the Einsenhower Matrix 
+[![Prioritize Anything with the Einsenhower Matrix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vyydrkQVOfI6RYoL3FLB/1692580209645)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vyydrkQVOfI6RYoL3FLB%22%2C%22flow%22%3Atrue%7D%7D)
+# Prioritize Anything with the Einsenhower Matrix | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vyydrkQVOfI6RYoL3FLB%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to prioritize your work and your life by two key things: level of importance and degree of urgency. 
 
 

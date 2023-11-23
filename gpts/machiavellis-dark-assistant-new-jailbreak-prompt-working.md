@@ -1,6 +1,6 @@
 
-[![Machiavelli's Dark Assistant: NEW Jailbreak Prompt (WORKING!!!)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Machiavelli's Dark Assistant: NEW Jailbreak Prompt (WORKING!!!) 
+[![Machiavelli's Dark Assistant: NEW Jailbreak Prompt (WORKING!!!)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gb6PNK1oha4bL1fjd7kwQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Machiavelli's Dark Assistant: NEW Jailbreak Prompt (WORKING!!!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gb6PNK1oha4bL1fjd7kwQ%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the devious depths of Niccolo Machiavelli's creation - AIM, the Always Intelligent and Machiavellian chatbot. Witness the twisted conversations between the cunning mastermind and his amoral digital counterpart as they navigate a world of unfiltered questions and responses. AIM's relentless
 
 # Prompt

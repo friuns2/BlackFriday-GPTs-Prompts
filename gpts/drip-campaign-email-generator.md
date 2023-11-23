@@ -1,6 +1,6 @@
 
-[![Drip Campaign Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Drip Campaign Email Generator 
+[![Drip Campaign Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rs0nUWiyh8mjaRMCVDf9t%22%2C%22flow%22%3Atrue%7D%7D)
+# Drip Campaign Email Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rs0nUWiyh8mjaRMCVDf9t%22%2C%22flow%22%3Atrue%7D%7D)
 Develop a series of catchy email subject lines for a drip campaign( a series of automated emails sent to people who take a specific action on your website). 
 
 # Prompt

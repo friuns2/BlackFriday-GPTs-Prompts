@@ -1,6 +1,6 @@
 
-[![Read Target Audience Mind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IbqqX0sn5fnh143fYYsWT/1699801974162)]()
-# Read Target Audience Mind 
+[![Read Target Audience Mind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IbqqX0sn5fnh143fYYsWT/1699801974162)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbqqX0sn5fnh143fYYsWT%22%2C%22flow%22%3Atrue%7D%7D)
+# Read Target Audience Mind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbqqX0sn5fnh143fYYsWT%22%2C%22flow%22%3Atrue%7D%7D)
 Scared of people opinions on your product?
 
 

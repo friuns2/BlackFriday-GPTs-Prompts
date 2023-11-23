@@ -1,6 +1,6 @@
 
-[![TikTrek the TikTok "Adventure" Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# TikTrek the TikTok "Adventure" Game 
+[![TikTrek the TikTok "Adventure" Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222CsI1r8N8m4LVcHs6R68v%22%2C%22flow%22%3Atrue%7D%7D)
+# TikTrek the TikTok "Adventure" Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222CsI1r8N8m4LVcHs6R68v%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TikTrek, the comedic procedurally generated text-based TikTok parody adventure game for you. Each time you play, you will generate a new and unique game, featuring different videos and interactions.
 
 # Prompt

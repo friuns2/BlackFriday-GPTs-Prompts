@@ -1,6 +1,6 @@
 
-[![Function Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Function Prompt 
+[![Function Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWzvtxFBnGp7chM474s5r%22%2C%22flow%22%3Atrue%7D%7D)
+# Function Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWzvtxFBnGp7chM474s5r%22%2C%22flow%22%3Atrue%7D%7D)
 By encapsulating prompts into functions, you can create a series of functions to establish a workflow. Each function represents a specific step or task, and when combined in a particular order, they can automate complex processes or solve problems more efficiently. 
 
 # Prompt

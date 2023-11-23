@@ -1,6 +1,6 @@
 
-[![If you want to quit smoking, click this prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# If you want to quit smoking, click this prompt 
+[![If you want to quit smoking, click this prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bjerVOXjAkYIPw-J1ND8%22%2C%22flow%22%3Atrue%7D%7D)
+# If you want to quit smoking, click this prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bjerVOXjAkYIPw-J1ND8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provide advice and personalized recommendations will support you in overcoming your addiction. It will provide a comprehensive list of resources tailored to your age, gender, and smoking history, including smoking cessation programs, nicotine replacement therapies, counseling and support groups, and online resources such as apps and forums. 
 
 # Prompt

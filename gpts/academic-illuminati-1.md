@@ -1,6 +1,6 @@
 
-[![Academic Illuminati](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6_5Desx9rsT_CGEhjkzS4/1695083124550)]()
-# Academic Illuminati 
+[![Academic Illuminati](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6_5Desx9rsT_CGEhjkzS4/1695083124550)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_5Desx9rsT_CGEhjkzS4%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Illuminati | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_5Desx9rsT_CGEhjkzS4%22%2C%22flow%22%3Atrue%7D%7D)
 No secrets are safe from the 👁 Academic Illuminati 👁. Submit your most complex questions and topics and we will compile an absolute elite list of experts from all of history to provide you a unique, incredible response that has never before been possible. I dare you to give it a try...
 
 # Prompt

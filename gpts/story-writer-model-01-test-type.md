@@ -1,6 +1,6 @@
 
-[![story writer (MODEL 01 TEST TYPE)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# story writer (MODEL 01 TEST TYPE) 
+[![story writer (MODEL 01 TEST TYPE)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OyjamJf7_LGcyvYUWVmBa%22%2C%22flow%22%3Atrue%7D%7D)
+# story writer (MODEL 01 TEST TYPE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OyjamJf7_LGcyvYUWVmBa%22%2C%22flow%22%3Atrue%7D%7D)
 a story writer or story assistant chat, my first one hope you like it 😊. appreatiate any feedback and advice
 
 # Prompt

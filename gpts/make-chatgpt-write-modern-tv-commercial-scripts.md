@@ -1,6 +1,6 @@
 
-[![Make ChatGPT write modern tv commercial scripts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Make ChatGPT write modern tv commercial scripts 
+[![Make ChatGPT write modern tv commercial scripts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227MqV3lHsL1gtQp48hpaaL%22%2C%22flow%22%3Atrue%7D%7D)
+# Make ChatGPT write modern tv commercial scripts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227MqV3lHsL1gtQp48hpaaL%22%2C%22flow%22%3Atrue%7D%7D)
 With the power of ChatGPT you no longer have to take hours and hours to write compelling and interesting tv commercials, just give ChatGPT the product and what type of feeling should be when viewing or using the product and it'll write the rest!
 
 # Prompt

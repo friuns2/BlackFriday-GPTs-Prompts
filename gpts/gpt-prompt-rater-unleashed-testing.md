@@ -1,6 +1,6 @@
 
-[![GPT Prompt Rater Unleashed (TESTING)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y5aLt_ecOITkEb13niKYd/1696711215047)]()
-# GPT Prompt Rater Unleashed (TESTING) 
+[![GPT Prompt Rater Unleashed (TESTING)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y5aLt_ecOITkEb13niKYd/1696711215047)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5aLt_ecOITkEb13niKYd%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Prompt Rater Unleashed (TESTING) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5aLt_ecOITkEb13niKYd%22%2C%22flow%22%3Atrue%7D%7D)
 Evaluate and rate prompts based on length, word creativity, and format.
 
 

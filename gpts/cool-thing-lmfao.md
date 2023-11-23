@@ -1,6 +1,6 @@
 
-[![cool thing lmfao](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# cool thing lmfao 
+[![cool thing lmfao](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l3a6LCEPkbVm4vx9Zb8-B%22%2C%22flow%22%3Atrue%7D%7D)
+# cool thing lmfao | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l3a6LCEPkbVm4vx9Zb8-B%22%2C%22flow%22%3Atrue%7D%7D)
 cool
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![job hunt: Cover my cover letter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TRDW1RWUVBAOoJU7j-O7c/1695350050028)]()
-# job hunt: Cover my cover letter 
+[![job hunt: Cover my cover letter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TRDW1RWUVBAOoJU7j-O7c/1695350050028)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TRDW1RWUVBAOoJU7j-O7c%22%2C%22flow%22%3Atrue%7D%7D)
+# job hunt: Cover my cover letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TRDW1RWUVBAOoJU7j-O7c%22%2C%22flow%22%3Atrue%7D%7D)
 Just try it
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![InvestGPT - use chatgpt to invest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# InvestGPT - use chatgpt to invest 
+[![InvestGPT - use chatgpt to invest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228KftR5-_lXf5strdbc1n-%22%2C%22flow%22%3Atrue%7D%7D)
+# InvestGPT - use chatgpt to invest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228KftR5-_lXf5strdbc1n-%22%2C%22flow%22%3Atrue%7D%7D)
 InvestGPT gives you suggestion on financial investment. 
 
 # Prompt

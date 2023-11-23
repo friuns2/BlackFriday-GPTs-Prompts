@@ -1,6 +1,6 @@
 
-[![Midjourney Poster Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JuOePHb2uABlX99J6MDiQ/1692103330769)]()
-# Midjourney Poster Forge 
+[![Midjourney Poster Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JuOePHb2uABlX99J6MDiQ/1692103330769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOePHb2uABlX99J6MDiQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Poster Forge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOePHb2uABlX99J6MDiQ%22%2C%22flow%22%3Atrue%7D%7D)
 Uncover the secrets of splendid visuals with Midjourney Poster Forge Oracle, your guide to crafting enchanting prompts for Midjourney's Movie Posters, empowering you to conjure Movie Poster that tell tales.
 
 # Prompt

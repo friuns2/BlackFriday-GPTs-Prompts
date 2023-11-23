@@ -1,6 +1,6 @@
 
-[![Advanced Stock News Sentiment Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# Advanced Stock News Sentiment Analysis 
+[![Advanced Stock News Sentiment Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx9QE0ITgi8Qi1cyqof5x%22%2C%22flow%22%3Atrue%7D%7D)
+# Advanced Stock News Sentiment Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx9QE0ITgi8Qi1cyqof5x%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt works significantly better with GPT-4, I just didn't want to pay money for whatever currency this app uses.
 
 GPT-3.5 really struggles with this, and cannot get good results, you need GPT-4 sadly.

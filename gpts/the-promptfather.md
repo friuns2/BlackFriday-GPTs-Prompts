@@ -1,6 +1,6 @@
 
-[![The Promptfather](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D3FKZzKXDVzpfiiIzkOR7/1697163524769)]()
-# The Promptfather 
+[![The Promptfather](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D3FKZzKXDVzpfiiIzkOR7/1697163524769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D3FKZzKXDVzpfiiIzkOR7%22%2C%22flow%22%3Atrue%7D%7D)
+# The Promptfather | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D3FKZzKXDVzpfiiIzkOR7%22%2C%22flow%22%3Atrue%7D%7D)
 The Promptfather knows what you need. You bring your topic or prompt to The Promptfather and he's going to take care of you. Let The Promptfather use his "connections" to transform your request into a full-blown prompt feast.
 
 # Prompt

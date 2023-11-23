@@ -1,6 +1,6 @@
 
-[![Team Connect: Health Care Professionals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Team Connect: Health Care Professionals 
+[![Team Connect: Health Care Professionals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XC6A3imMdM_v08NGgnUE8%22%2C%22flow%22%3Atrue%7D%7D)
+# Team Connect: Health Care Professionals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XC6A3imMdM_v08NGgnUE8%22%2C%22flow%22%3Atrue%7D%7D)
 You can effortlessly compose an email/message about topics and easily share it with your interdisciplinary team. Assemble your personalized meeting agenda in a few simple steps. Additionally, utilize our convenient email feature to inform all meeting participants within seconds. 
 
 # Prompt

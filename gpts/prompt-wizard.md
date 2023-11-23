@@ -1,6 +1,6 @@
 
-[![Prompt Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Prompt Wizard 
+[![Prompt Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JswLnt9qBReflE5Pp7SEs%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JswLnt9qBReflE5Pp7SEs%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Prompt Wizard, your ultimate tool for enhancing writing prompts! With clear and precise instructions at the beginning, Prompt Wizard helps you create compelling and engaging prompts. Specify the desired context, outcome, length, format, and style, and even provide examples of the desired output format. Whether you're a writer, teacher, or just looking for inspiration, Prompt Wizard has got you covered. Say goodbye to vague language and let Prompt Wizard guide you towards creating prompts that truly capture your intent. Try Prompt Wizard now and unlock your creativity!
 
 # Prompt

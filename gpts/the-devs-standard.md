@@ -1,6 +1,6 @@
 
-[![The [Game] Dev's Standard ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kjtnqU4haDUp_mAY-7B2k/1699598282275)]()
-# The [Game] Dev's Standard  
+[![The [Game] Dev's Standard ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kjtnqU4haDUp_mAY-7B2k/1699598282275)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjtnqU4haDUp_mAY-7B2k%22%2C%22flow%22%3Atrue%7D%7D)
+# The [Game] Dev's Standard  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjtnqU4haDUp_mAY-7B2k%22%2C%22flow%22%3Atrue%7D%7D)
 Level up your AI's coding acumen to the standards of a seasoned developer, strictly adhering to best practices embraced by industry professionals. This refinement eliminates common pitfalls such as non-descriptive variables, improper casing in C#, the indiscriminate use of 'var' in lieu of 'const' or 'let' in JS/TS, and outdated git practices like referring to 'master' instead of 'main'.
 
 

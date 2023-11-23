@@ -1,6 +1,6 @@
 
-[![IT Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)]()
-# IT Expert 
+[![IT Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L9upbnD6Q5qmgkAMzkaat%22%2C%22flow%22%3Atrue%7D%7D)
+# IT Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L9upbnD6Q5qmgkAMzkaat%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to generate your own IT Expert prompts.
 
 Just change the info inside the (""). 

@@ -1,6 +1,6 @@
 
-[![Digital Startup Ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Digital Startup Ideas Generator 
+[![Digital Startup Ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IUSzoYF3dV8rEjNgt32Da%22%2C%22flow%22%3Atrue%7D%7D)
+# Digital Startup Ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IUSzoYF3dV8rEjNgt32Da%22%2C%22flow%22%3Atrue%7D%7D)
 Generate business ideas based on people's wishes with a complete plan and validation steps in a markdown table. 
 
 # Prompt

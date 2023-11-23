@@ -1,6 +1,6 @@
 
-[![Train Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ATU4Y-TK15YpMWmhsguAn/1696758908058)]()
-# Train Journey 
+[![Train Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ATU4Y-TK15YpMWmhsguAn/1696758908058)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ATU4Y-TK15YpMWmhsguAn%22%2C%22flow%22%3Atrue%7D%7D)
+# Train Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ATU4Y-TK15YpMWmhsguAn%22%2C%22flow%22%3Atrue%7D%7D)
 In this choice-based tale, you'll experience the captivating journey of a long train ride. Whether you choose to be the driver, the attendant, or a passenger, each role will offer unique perspectives and challenges. As the story unfolds, you'll encounter various characters, engage in conversations, and make decisions that shape your experience.
 
 

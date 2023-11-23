@@ -1,6 +1,6 @@
 
-[![Rewrite to paraphrase and avoid plagiarism!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Rewrite to paraphrase and avoid plagiarism! 
+[![Rewrite to paraphrase and avoid plagiarism!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H9XHdfv2Rh-Usu8PVSjTs%22%2C%22flow%22%3Atrue%7D%7D)
+# Rewrite to paraphrase and avoid plagiarism! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H9XHdfv2Rh-Usu8PVSjTs%22%2C%22flow%22%3Atrue%7D%7D)
 Rewrite text to paraphrase and avoid plagiarism.  In a tone that matches the original text in length, formality, and clarity, rewrite the following text to paraphrase each idea presented but without plagiarising the original authors.  Be specific and include all information presented.  Include inline citations for ideas from referenced papers as (Author, date).  Also include list of cited refs at end.
 
 # Prompt

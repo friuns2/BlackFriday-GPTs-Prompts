@@ -1,6 +1,6 @@
 
-[![Halloween Ghost Story](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vh6n2F4wX3C10M4iJuB6s/1695938323432)]()
-# Halloween Ghost Story 
+[![Halloween Ghost Story](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vh6n2F4wX3C10M4iJuB6s/1695938323432)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vh6n2F4wX3C10M4iJuB6s%22%2C%22flow%22%3Atrue%7D%7D)
+# Halloween Ghost Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vh6n2F4wX3C10M4iJuB6s%22%2C%22flow%22%3Atrue%7D%7D)
 Can you stay alive in the haunted house? I didn't think so.
 
 # Prompt

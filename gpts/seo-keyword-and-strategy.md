@@ -1,6 +1,6 @@
 
-[![SEO keyword and strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# SEO keyword and strategy 
+[![SEO keyword and strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261092abf-73e1-4e11-b872-54f06fcc4795%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO keyword and strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261092abf-73e1-4e11-b872-54f06fcc4795%22%2C%22flow%22%3Atrue%7D%7D)
 Get step-by-step suggestions on SEO
 
 # Prompt

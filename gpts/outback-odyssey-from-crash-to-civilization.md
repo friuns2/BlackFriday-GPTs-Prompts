@@ -1,6 +1,6 @@
 
-[![Outback Odyssey: From Crash to Civilization](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686337179049)]()
-# Outback Odyssey: From Crash to Civilization 
+[![Outback Odyssey: From Crash to Civilization](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686337179049)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMfPcO66oMS2oNFebVh4M%22%2C%22flow%22%3Atrue%7D%7D)
+# Outback Odyssey: From Crash to Civilization | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMfPcO66oMS2oNFebVh4M%22%2C%22flow%22%3Atrue%7D%7D)
 Stranded in a mystery-filled jungle after a plane crash, your goal in 'Outback Odyssey' is to survive and find civilization. Make wise choices, gain points, dodge deadly wildlife, and test your survival instincts in this heart-thumping adventure. Ready for the wilds?
 
 # Prompt

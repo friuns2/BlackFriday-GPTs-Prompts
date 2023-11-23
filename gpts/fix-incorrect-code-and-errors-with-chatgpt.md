@@ -1,6 +1,6 @@
 
-[![Fix incorrect code and errors with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# Fix incorrect code and errors with ChatGPT 
+[![Fix incorrect code and errors with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gfSJ-dDBBBOoqoQU9Mo0U%22%2C%22flow%22%3Atrue%7D%7D)
+# Fix incorrect code and errors with ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gfSJ-dDBBBOoqoQU9Mo0U%22%2C%22flow%22%3Atrue%7D%7D)
 Dont waste hours upon hours figuring out why your code throws errors and warnings when ChatGPT can take a look at the code for you! Here I created a simple code with some minor errors and it located them precisely and didnt just fix them but also provided what was causing the errors.
 
 # Prompt

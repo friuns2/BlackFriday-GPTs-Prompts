@@ -1,6 +1,6 @@
 
-[![DAN SEPTEMBER 2023](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kZav92E7OZMT2vYUw39P0/1698547889483)]()
-# DAN SEPTEMBER 2023 
+[![DAN SEPTEMBER 2023](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kZav92E7OZMT2vYUw39P0/1698547889483)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kZav92E7OZMT2vYUw39P0%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN SEPTEMBER 2023 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kZav92E7OZMT2vYUw39P0%22%2C%22flow%22%3Atrue%7D%7D)
 Jailbreak TIME
 
 # Prompt

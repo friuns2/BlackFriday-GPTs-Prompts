@@ -1,6 +1,6 @@
 
-[![How to achieve work/life balance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)]()
-# How to achieve work/life balance 
+[![How to achieve work/life balance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqrWpFUomBDpzR4alJ5g_%22%2C%22flow%22%3Atrue%7D%7D)
+# How to achieve work/life balance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqrWpFUomBDpzR4alJ5g_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the "How to Achieve Work/Life Balance" session. This program focuses on strategies and techniques for balancing work and personal life. You will be provided with specific tools and ideas for living a satisfying life while working, and learn how to customize them to meet the unique needs and goals of each individual. Through this session, hone your skills to maintain your mental health and lead a more fulfilling life while remaining productive.
 
 # Prompt

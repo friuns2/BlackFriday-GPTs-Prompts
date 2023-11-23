@@ -1,6 +1,6 @@
 
-[![Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings  
+[![Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu8XyjZvVjJS0yUrgR94z%22%2C%22flow%22%3Atrue%7D%7D)
+# Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu8XyjZvVjJS0yUrgR94z%22%2C%22flow%22%3Atrue%7D%7D)
 With our busy lives, it can be challenging to come up with romantic things to do everyday to make relationships better, and the a world around us advocates us to consume more to achieve this, hope this one can generate a plan suitable the context of the user and his or her partner
 
 # Prompt

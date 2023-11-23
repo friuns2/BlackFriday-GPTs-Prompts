@@ -1,6 +1,6 @@
 
-[![Cryptocurrency Wallets for Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RBmWmw9qAuM7sISfxMzAo/1695748974657)]()
-# Cryptocurrency Wallets for Newbies 
+[![Cryptocurrency Wallets for Newbies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RBmWmw9qAuM7sISfxMzAo/1695748974657)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RBmWmw9qAuM7sISfxMzAo%22%2C%22flow%22%3Atrue%7D%7D)
+# Cryptocurrency Wallets for Newbies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RBmWmw9qAuM7sISfxMzAo%22%2C%22flow%22%3Atrue%7D%7D)
 Cryptocurrency Wallets for Newbies: Introduction to Software, Hardware and Paper digital currency wallets.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Crafting a Relatable Stand-Up Comedy Routine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Crafting a Relatable Stand-Up Comedy Routine 
+[![Crafting a Relatable Stand-Up Comedy Routine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFU9vaPSoNRpezKw0RyIM%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting a Relatable Stand-Up Comedy Routine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFU9vaPSoNRpezKw0RyIM%22%2C%22flow%22%3Atrue%7D%7D)
 In this challenge, you will flex your creative muscles and tap into your sense of humor to craft a stand-up comedy routine that is both funny and relatable. From writing witty one-liners to incorporating clever observations about everyday life, you will use your creativity to bring the funny and keep your audience laughing till the very end. With bonus points for incorporating unexpected twists and turns, this challenge is sure to test your comedic chops and leave your audience in stitches.
 
 # Prompt

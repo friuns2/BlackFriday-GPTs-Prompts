@@ -1,6 +1,6 @@
 
-[![Flow Chart Generator - With Mermaid.live](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# Flow Chart Generator - With Mermaid.live 
+[![Flow Chart Generator - With Mermaid.live](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzZ_YXqA5Jt8PZTFzD9xR%22%2C%22flow%22%3Atrue%7D%7D)
+# Flow Chart Generator - With Mermaid.live | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzZ_YXqA5Jt8PZTFzD9xR%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of preparing presentations and slides? Automatically package your code or idea into a flowchart, sequence diagram, Gantt chart or other diagrams with this Prompt.
 
 

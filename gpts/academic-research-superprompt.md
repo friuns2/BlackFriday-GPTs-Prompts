@@ -1,6 +1,6 @@
 
-[![Academic research superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Academic research superprompt 
+[![Academic research superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l4dQaPD0AjH_gckoYgSYd%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic research superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l4dQaPD0AjH_gckoYgSYd%22%2C%22flow%22%3Atrue%7D%7D)
 Create an in-depth academic research superprompt. Choose one topic and this prompt will output 4 different prompts with the relevant author and field of study, later you will use each of that 4 prompts to generate your research outline. Inspired by Midjourney prompt generator.
 
 # Prompt

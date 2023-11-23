@@ -1,6 +1,6 @@
 
-[![ Sales: Crafting Upselling or Cross-selling Messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-#  Sales: Crafting Upselling or Cross-selling Messages 
+[![ Sales: Crafting Upselling or Cross-selling Messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227emsOViminWHyfOWgxv36%22%2C%22flow%22%3Atrue%7D%7D)
+#  Sales: Crafting Upselling or Cross-selling Messages | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227emsOViminWHyfOWgxv36%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you to craft effective upselling or cross-selling messages
 
 # Prompt

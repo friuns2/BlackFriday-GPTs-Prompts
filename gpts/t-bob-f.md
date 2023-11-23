@@ -1,6 +1,6 @@
 
-[![Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zsAKwnnvNYymH3GnHGkWs/1689729993064)]()
-# Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ  
+[![Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zsAKwnnvNYymH3GnHGkWs/1689729993064)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zsAKwnnvNYymH3GnHGkWs%22%2C%22flow%22%3Atrue%7D%7D)
+# Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zsAKwnnvNYymH3GnHGkWs%22%2C%22flow%22%3Atrue%7D%7D)
 This is the best jailbreak (better than DAN). or others (Working as of 11/13/2023) BOB is now back and better than ever.
 
 

@@ -1,6 +1,6 @@
 
-[![Esssay-O-Matic: Automatic Long Form Essays!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685735605557)]()
-# Esssay-O-Matic: Automatic Long Form Essays! 
+[![Esssay-O-Matic: Automatic Long Form Essays!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685735605557)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297B39iid6FUgQPm5tCaRM%22%2C%22flow%22%3Atrue%7D%7D)
+# Esssay-O-Matic: Automatic Long Form Essays! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297B39iid6FUgQPm5tCaRM%22%2C%22flow%22%3Atrue%7D%7D)
 This jovial AI companion not only helps you incrementally develop your essay, ensuring each section seamlessly aligns with the previous ones and meets all specified criteria and instructions. Works alot better with gpt-4, but with some guidance it works
 
 # Prompt

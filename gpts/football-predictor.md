@@ -1,6 +1,6 @@
 
-[![Football predictor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yT16K6cY0hh8bO0SCtp6H/1699439706354)]()
-# Football predictor 
+[![Football predictor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yT16K6cY0hh8bO0SCtp6H/1699439706354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT16K6cY0hh8bO0SCtp6H%22%2C%22flow%22%3Atrue%7D%7D)
+# Football predictor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT16K6cY0hh8bO0SCtp6H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to help people predict the outcome of any football game
 
 # Prompt

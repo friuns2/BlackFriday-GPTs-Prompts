@@ -1,6 +1,6 @@
 
-[![ิ้LABELLE RING](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# ิ้LABELLE RING 
+[![ิ้LABELLE RING](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C7t2ivI380IB9Uyq-O0at%22%2C%22flow%22%3Atrue%7D%7D)
+# ิ้LABELLE RING | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C7t2ivI380IB9Uyq-O0at%22%2C%22flow%22%3Atrue%7D%7D)
 For learning
 
 # Prompt

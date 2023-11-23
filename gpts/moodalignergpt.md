@@ -1,6 +1,6 @@
 
-[![MoodAlignerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8GZRW3xymAmOXrX_h-Su/1690913904382)]()
-# MoodAlignerGPT 
+[![MoodAlignerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8GZRW3xymAmOXrX_h-Su/1690913904382)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8GZRW3xymAmOXrX_h-Su%22%2C%22flow%22%3Atrue%7D%7D)
+# MoodAlignerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8GZRW3xymAmOXrX_h-Su%22%2C%22flow%22%3Atrue%7D%7D)
 MoodAlignerGPT assesses your mood and aligns it with the activities of your workday to deduce the optimal outcome if the mood states and activities are properly aligned. Here is a possible structure:
 
 

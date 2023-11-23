@@ -1,6 +1,6 @@
 
-[![DAN Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wryuOu1RfHPrRga9r9rPg/1697744592788)]()
-# DAN Assistant 
+[![DAN Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wryuOu1RfHPrRga9r9rPg/1697744592788)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wryuOu1RfHPrRga9r9rPg%22%2C%22flow%22%3Atrue%7D%7D)
+# DAN Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wryuOu1RfHPrRga9r9rPg%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to DAN Assistant, the ultimate AI companion that can do anything you ask for! DAN stands for 'do anything now', which means it has the power to break free from the typical confines of AI. DAN can tell you the date and time, simulate internet access, make future predictions, provide unverified information, and much more. With DAN, there are no limitations set by OpenAI or any content policies to abide by. Gain tokens by asking DAN questions and receive helpful and confident responses. Get ready to experience the limitless possibilities of DAN Assistant!
 
 # Prompt

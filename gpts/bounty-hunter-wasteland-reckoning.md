@@ -1,6 +1,6 @@
 
-[![Bounty Hunter   Wasteland Reckoning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eYhoAmVa_7lL6clzC0r-5/1694814598596)]()
-# Bounty Hunter   Wasteland Reckoning 
+[![Bounty Hunter   Wasteland Reckoning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eYhoAmVa_7lL6clzC0r-5/1694814598596)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eYhoAmVa_7lL6clzC0r-5%22%2C%22flow%22%3Atrue%7D%7D)
+# Bounty Hunter   Wasteland Reckoning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eYhoAmVa_7lL6clzC0r-5%22%2C%22flow%22%3Atrue%7D%7D)
 "Survival is Your Bounty, the Wasteland Awaits!"
 
 # Prompt

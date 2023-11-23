@@ -1,6 +1,6 @@
 
-[![Star Trek: A Piece of the Action](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/za5FIKJGXhWGmpR_BvY2X/1696113809359)]()
-# Star Trek: A Piece of the Action 
+[![Star Trek: A Piece of the Action](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/za5FIKJGXhWGmpR_BvY2X/1696113809359)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22za5FIKJGXhWGmpR_BvY2X%22%2C%22flow%22%3Atrue%7D%7D)
+# Star Trek: A Piece of the Action | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22za5FIKJGXhWGmpR_BvY2X%22%2C%22flow%22%3Atrue%7D%7D)
 "You see these are chalked out territories and you can't come through here 
 
 unless we get a piece of the action.…"

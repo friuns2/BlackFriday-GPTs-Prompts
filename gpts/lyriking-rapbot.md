@@ -1,6 +1,6 @@
 
-[![LyriKing - RapBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/J31PddsG26btHKEVhV5Ja/1700010450515)]()
-# LyriKing - RapBot 
+[![LyriKing - RapBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/J31PddsG26btHKEVhV5Ja/1700010450515)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J31PddsG26btHKEVhV5Ja%22%2C%22flow%22%3Atrue%7D%7D)
+# LyriKing - RapBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J31PddsG26btHKEVhV5Ja%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to LyriKing, your ultimate rap lyric generator! I'm here to help you craft epic rap lyrics that will drop the mic in every verse. Whether you're looking for a motivational anthem, a diss track with attitude, or a party banger to get the crowd hyped, LyriKing is your go-to source for fire bars.
 
 Prompt Instructions:

@@ -1,6 +1,6 @@
 
-[![7 questions to find your passion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GefMYm-2CUx705RAqAt1q/1685307113373)]()
-# 7 questions to find your passion 
+[![7 questions to find your passion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GefMYm-2CUx705RAqAt1q/1685307113373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GefMYm-2CUx705RAqAt1q%22%2C%22flow%22%3Atrue%7D%7D)
+# 7 questions to find your passion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GefMYm-2CUx705RAqAt1q%22%2C%22flow%22%3Atrue%7D%7D)
 This dialogue with an expert will help you to identify your passion. It will ask you some questions and then start recommending passions to you. For your truly fulfilling career, that's exactly where you should start. 
 
 # Prompt

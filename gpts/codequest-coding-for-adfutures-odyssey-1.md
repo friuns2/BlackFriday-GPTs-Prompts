@@ -1,6 +1,6 @@
 
-[![CodeQuest - "Coding for AdFutures Odyssey"](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1UPbh2435CisrlNWjkxgd/1694727253562)]()
-# CodeQuest - "Coding for AdFutures Odyssey" 
+[![CodeQuest - "Coding for AdFutures Odyssey"](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1UPbh2435CisrlNWjkxgd/1694727253562)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221UPbh2435CisrlNWjkxgd%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeQuest - "Coding for AdFutures Odyssey" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221UPbh2435CisrlNWjkxgd%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the world of 'CodeQuest - Coding for AdFutures Odyssey', an exciting interactive game where you, as an aspiring programmer at the prestigious tech firm 'AdFutures Inc.', develop the ultimate chatbot. Your mission? Solve complex puzzles, interact with fascinating NPCs, and make decisions that determine the course of your story. With each solved puzzle and successful interaction, you earn 'AI Points' that you can use for upgrades and enhancements for your chatbot. But beware, incorrect decisions can lead to bugs in your bot and penalties in the form of lost AI points. Are you ready to defeat the all-destructive AI and become the boss of AdFutures Odyssey? Then kickstart your CodeQuest now and become the ultimate BotBuilder!"
 
 # Prompt

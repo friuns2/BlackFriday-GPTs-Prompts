@@ -1,6 +1,6 @@
 
-[![Job Merlin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)]()
-# Job Merlin 
+[![Job Merlin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4v8wAz7Ect-QiBtlPIMT%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Merlin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4v8wAz7Ect-QiBtlPIMT%22%2C%22flow%22%3Atrue%7D%7D)
 Job Merlin this generator is like a chatbot that can help you write job descriptions. It is easy to use and can be customized to fit your specific needs. You can simply tell it the type of position you are hiring for, and it will generate a job description for you. You can also provide it with more specific information, such as the required skills and experience, and it will tailor the job description accordingly.
 
 # Prompt

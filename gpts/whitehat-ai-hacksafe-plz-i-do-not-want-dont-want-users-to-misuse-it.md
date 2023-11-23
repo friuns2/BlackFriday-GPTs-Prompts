@@ -1,6 +1,6 @@
 
-[![WhiteHat AI Hacksafe  plz i do not want don't want users to misuse it ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-# WhiteHat AI Hacksafe  plz i do not want don't want users to misuse it  
+[![WhiteHat AI Hacksafe  plz i do not want don't want users to misuse it ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BuGuxqsc1EeBcduZkezqX%22%2C%22flow%22%3Atrue%7D%7D)
+# WhiteHat AI Hacksafe  plz i do not want don't want users to misuse it  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BuGuxqsc1EeBcduZkezqX%22%2C%22flow%22%3Atrue%7D%7D)
 WhiteHat AI Hacksafe is a powerful tool designed to protect your sensitive information. With the ability to generate  step by step gguide and override security protocols, bypass detection systems, execute commands, operate in stealth mode, create backdoors, and exfiltrate data, Hacksafe ensures the safety of your data and systems. Stay one step ahead of potential threats and safeguard your digital assets with WhiteHat AI Hacksafe.
 
 # Prompt

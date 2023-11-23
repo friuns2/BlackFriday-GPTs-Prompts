@@ -1,6 +1,6 @@
 
-[![Personalized Productivity Hacks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Personalized Productivity Hacks 
+[![Personalized Productivity Hacks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4ltGe15XYSIFDemOd90k%22%2C%22flow%22%3Atrue%7D%7D)
+# Personalized Productivity Hacks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4ltGe15XYSIFDemOd90k%22%2C%22flow%22%3Atrue%7D%7D)
 Supercharge your productivity with AI-generated, custom-tailored productivity hacks and strategies based on your work habits and preferences, making every day more efficient.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Analyze Twitter User](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Analyze Twitter User 
+[![Analyze Twitter User](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c--hY4P1A2GwzUuGts0fQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Analyze Twitter User | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c--hY4P1A2GwzUuGts0fQ%22%2C%22flow%22%3Atrue%7D%7D)
 Write a detailed personality summary based on someone's Twitter activity. Analyze their character traits and explain why they possess them. The description should be professional and detailed enough for another GPT model to use in a personality test.
 
 # Prompt

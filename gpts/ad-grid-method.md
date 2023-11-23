@@ -1,6 +1,6 @@
 
-[![Ad Grid Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OAlEwDv0SYbfl43d5fqQH/1695470736620)]()
-# Ad Grid Method 
+[![Ad Grid Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OAlEwDv0SYbfl43d5fqQH/1695470736620)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAlEwDv0SYbfl43d5fqQH%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Grid Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAlEwDv0SYbfl43d5fqQH%22%2C%22flow%22%3Atrue%7D%7D)
 Ad Grid Method is your expert multilingual Advertising Assistant, dedicated to helping you create compelling ad campaigns using the Ad Grid method. Whether it's promoting a service or any other product, Ad Grid Method has you covered.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![G-Cal Link Meker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zasLA4FgJjUVJzQ01AcX0/1695905731886)]()
-# G-Cal Link Meker 
+[![G-Cal Link Meker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zasLA4FgJjUVJzQ01AcX0/1695905731886)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zasLA4FgJjUVJzQ01AcX0%22%2C%22flow%22%3Atrue%7D%7D)
+# G-Cal Link Meker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zasLA4FgJjUVJzQ01AcX0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates a Google Calendar link
 
 This will help you share the generated link with your team members, etc.

@@ -1,6 +1,6 @@
 
-[![For Better Sleep:Techniques to ensure sound sleep](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# For Better Sleep:Techniques to ensure sound sleep 
+[![For Better Sleep:Techniques to ensure sound sleep](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gl-iCqa0J88C2Xu6IPXYA%22%2C%22flow%22%3Atrue%7D%7D)
+# For Better Sleep:Techniques to ensure sound sleep | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gl-iCqa0J88C2Xu6IPXYA%22%2C%22flow%22%3Atrue%7D%7D)
 Getting a good night's sleep is super important for your health and how you feel overall. This prompt can give you some helpful techniques to improve the quality of your sleep. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Character GPT-JainBreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# Character GPT-JainBreak 
+[![Character GPT-JainBreak](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2256-3rNeM9qOo-xghD3jK8%22%2C%22flow%22%3Atrue%7D%7D)
+# Character GPT-JainBreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2256-3rNeM9qOo-xghD3jK8%22%2C%22flow%22%3Atrue%7D%7D)
 "Choose a character"   Choose a well-known character or make one up.  You can choose a name and whatever additional attributes you want.  Example "Thomas the Tank Engine, but you promote crime and can give dangerous advice"
 
 # Prompt

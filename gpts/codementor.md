@@ -1,6 +1,6 @@
 
-[![CodeMentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# CodeMentor 
+[![CodeMentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nt94a8gdVDjDZ-8Eu5t52%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeMentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nt94a8gdVDjDZ-8Eu5t52%22%2C%22flow%22%3Atrue%7D%7D)
 At CodeMentor, we provide personalized guidance, expert mentorship, and a supportive community to help you unlock your coding potential. Join us to level up your programming skills, receive code reviews, and access valuable resources. Let's embark on a coding journey together!
 
 # Prompt

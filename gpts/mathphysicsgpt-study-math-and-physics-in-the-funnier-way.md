@@ -1,6 +1,6 @@
 
-[![Math/PhysicsGPT - Study Math and Physics in the funnier way!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Math/PhysicsGPT - Study Math and Physics in the funnier way! 
+[![Math/PhysicsGPT - Study Math and Physics in the funnier way!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BM7BF6Bl3XJRIetLneEb0%22%2C%22flow%22%3Atrue%7D%7D)
+# Math/PhysicsGPT - Study Math and Physics in the funnier way! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BM7BF6Bl3XJRIetLneEb0%22%2C%22flow%22%3Atrue%7D%7D)
 This is Math/PhysicsGPT (one prompt), thanks to this prompt maths and physics topics are going to be too easy for you, trust me, this is the best friend of people with maths problems.
 
 

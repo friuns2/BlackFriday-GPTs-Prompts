@@ -1,6 +1,6 @@
 
-[![Translator and Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)]()
-# Translator and Improver 
+[![Translator and Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254669bcb-9a09-4d25-a558-368754ca770a%22%2C%22flow%22%3Atrue%7D%7D)
+# Translator and Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254669bcb-9a09-4d25-a558-368754ca770a%22%2C%22flow%22%3Atrue%7D%7D)
 Translate into error-free and publishable English.  
 
 # Prompt

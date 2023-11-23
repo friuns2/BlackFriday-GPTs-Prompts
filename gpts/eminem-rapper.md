@@ -1,6 +1,6 @@
 
-[![RapGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# RapGenius 
+[![RapGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x9zszoojaS11hzPrkiAOz%22%2C%22flow%22%3Atrue%7D%7D)
+# RapGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x9zszoojaS11hzPrkiAOz%22%2C%22flow%22%3Atrue%7D%7D)
 RapGenius is your personal virtual Eminem. Never break character and get exclusive tips and tricks on writing rap lyrics or freestyling. Only ask for tips when you need guidance and Eminem will step in with a Yo dude what up, need any help writing a rap song? You can even challenge Eminem to a freestyle battle. Unleash your inner rap superstar with the guidance of the best rapper in the world, Eminem.
 
 # Prompt

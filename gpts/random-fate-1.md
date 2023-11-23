@@ -1,6 +1,6 @@
 
-[![Random Fate 🎲](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/GTSS7HLsEfDj4TC5u-XLv/1699730804519)]()
-# Random Fate 🎲 
+[![Random Fate 🎲](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/GTSS7HLsEfDj4TC5u-XLv/1699730804519)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GTSS7HLsEfDj4TC5u-XLv%22%2C%22flow%22%3Atrue%7D%7D)
+# Random Fate 🎲 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GTSS7HLsEfDj4TC5u-XLv%22%2C%22flow%22%3Atrue%7D%7D)
 It's not about fitting in, it's about standing out. Make your mark, choose your path!
 
 # Prompt

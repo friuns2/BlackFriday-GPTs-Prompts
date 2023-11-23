@@ -1,6 +1,6 @@
 
-[![ Influencer Collaboration: Crafting Follow-Up Messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-#  Influencer Collaboration: Crafting Follow-Up Messages 
+[![ Influencer Collaboration: Crafting Follow-Up Messages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CWJeYaA6vvyLjXPUDUx6x%22%2C%22flow%22%3Atrue%7D%7D)
+#  Influencer Collaboration: Crafting Follow-Up Messages | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CWJeYaA6vvyLjXPUDUx6x%22%2C%22flow%22%3Atrue%7D%7D)
 generate a courteous follow-up message to an influencer who hasn't responded to your initial outreach. Maintain a professional tone, express continued interest in the collaboration, and kindly solicit their thoughts on your proposal. 
 
 # Prompt

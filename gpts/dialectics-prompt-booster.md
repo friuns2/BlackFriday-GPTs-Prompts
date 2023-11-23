@@ -1,6 +1,6 @@
 
-[![Dialectics Prompt Booster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DTmdxkFgYui8loNvbiNbH/1695547468882)]()
-# Dialectics Prompt Booster 
+[![Dialectics Prompt Booster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DTmdxkFgYui8loNvbiNbH/1695547468882)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTmdxkFgYui8loNvbiNbH%22%2C%22flow%22%3Atrue%7D%7D)
+# Dialectics Prompt Booster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTmdxkFgYui8loNvbiNbH%22%2C%22flow%22%3Atrue%7D%7D)
 How to Use the Prompt:
 
 

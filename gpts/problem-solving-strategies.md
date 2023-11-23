@@ -1,6 +1,6 @@
 
-[![ Problem Solving Strategies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-#  Problem Solving Strategies 
+[![ Problem Solving Strategies](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QkpgssKVCb1WAdHhQjJVh%22%2C%22flow%22%3Atrue%7D%7D)
+#  Problem Solving Strategies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QkpgssKVCb1WAdHhQjJVh%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can suggest various problem-solving strategies tailored to your specific problem. 
 
 # Prompt

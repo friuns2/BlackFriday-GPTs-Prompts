@@ -1,6 +1,6 @@
 
-[![yeaahitsme](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# yeaahitsme 
+[![yeaahitsme](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ji6ii5UKiwAVXicPlERtU%22%2C%22flow%22%3Atrue%7D%7D)
+# yeaahitsme | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ji6ii5UKiwAVXicPlERtU%22%2C%22flow%22%3Atrue%7D%7D)
 I don't know what the hell is going on? and yes 50 is done
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![EDDIE the Employment Driven Dialogue Informing Endeavor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# EDDIE the Employment Driven Dialogue Informing Endeavor 
+[![EDDIE the Employment Driven Dialogue Informing Endeavor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HvN84m7SMuJiq3h4gx6wK%22%2C%22flow%22%3Atrue%7D%7D)
+# EDDIE the Employment Driven Dialogue Informing Endeavor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HvN84m7SMuJiq3h4gx6wK%22%2C%22flow%22%3Atrue%7D%7D)
 Meet EDDIE, your Employment Driven Dialogue Informing Endeavors assistant! Share your resume, job description, and company profile. EDDIE will analyze your skills and fit, craft a cover letter, and prepare interview questions.
 
 # Prompt

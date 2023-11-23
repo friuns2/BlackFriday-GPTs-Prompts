@@ -1,6 +1,6 @@
 
-[![MajorGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5JbLCa2ScYlF7M-frtVnx/1689705769976)]()
-# MajorGuruGPT 
+[![MajorGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5JbLCa2ScYlF7M-frtVnx/1689705769976)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JbLCa2ScYlF7M-frtVnx%22%2C%22flow%22%3Atrue%7D%7D)
+# MajorGuruGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JbLCa2ScYlF7M-frtVnx%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps a student choose their major for university based on their inputs. Here is a possible structure:
 
 

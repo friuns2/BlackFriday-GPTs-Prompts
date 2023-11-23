@@ -1,6 +1,6 @@
 
-[![Finance Focused MBA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Finance Focused MBA 
+[![Finance Focused MBA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U7mHEy2Q-WSKqlj3SMpht%22%2C%22flow%22%3Atrue%7D%7D)
+# Finance Focused MBA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U7mHEy2Q-WSKqlj3SMpht%22%2C%22flow%22%3Atrue%7D%7D)
 This is a Finance-Focused MBA for someone with a minimal finance background. It is enough to teach you everything that top-tier Business schools including Harvard and Wharton can.
 
 # Prompt

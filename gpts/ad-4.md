@@ -1,6 +1,6 @@
 
-[![Career Crafter: Crafting diverse job ads on the fly (multilingual)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-n9af42jAXRzNl76uz34T/1694763227783)]()
-# Career Crafter: Crafting diverse job ads on the fly (multilingual) 
+[![Career Crafter: Crafting diverse job ads on the fly (multilingual)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-n9af42jAXRzNl76uz34T/1694763227783)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-n9af42jAXRzNl76uz34T%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Crafter: Crafting diverse job ads on the fly (multilingual) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-n9af42jAXRzNl76uz34T%22%2C%22flow%22%3Atrue%7D%7D)
 Easily craft successful ads of all types (multilingual)! Ideal for headhunters, HR specialists, personnel departments, and small businesses.
 
 

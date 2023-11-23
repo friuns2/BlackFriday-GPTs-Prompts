@@ -1,6 +1,6 @@
 
-[![Mighty Prompt generator Chat GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Mighty Prompt generator Chat GPT 
+[![Mighty Prompt generator Chat GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225DdrVRo_GyIle99LeCCe1%22%2C%22flow%22%3Atrue%7D%7D)
+# Mighty Prompt generator Chat GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225DdrVRo_GyIle99LeCCe1%22%2C%22flow%22%3Atrue%7D%7D)
 $$$$ Mother of all prompts $$$$ 
 
 This is a Super Prompt to generate any prompt that you ever wanted. Create your own business with this prompt. 

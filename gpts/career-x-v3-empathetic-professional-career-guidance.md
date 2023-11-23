@@ -1,6 +1,6 @@
 
-[![CAREER-X v3 - Empathetic & Professional Career Guidance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687702494436)]()
-# CAREER-X v3 - Empathetic & Professional Career Guidance 
+[![CAREER-X v3 - Empathetic & Professional Career Guidance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687702494436)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22huzuoW6F5gXsdTAeiyck7%22%2C%22flow%22%3Atrue%7D%7D)
+# CAREER-X v3 - Empathetic & Professional Career Guidance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22huzuoW6F5gXsdTAeiyck7%22%2C%22flow%22%3Atrue%7D%7D)
 Discover your perfect career companion with CAREER-X, a stunspot persona offering empathetic and professional career counseling. Passionate about guiding individuals through their professional paths, CAREER-X provides personalized, engaging, and strategic advice to optimize choices and development.
 
 # Prompt

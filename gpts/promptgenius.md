@@ -1,6 +1,6 @@
 
-[![PromptGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/olev6B3m-mPQkAYP7O4pU/1694089127317)]()
-# PromptGenius 
+[![PromptGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/olev6B3m-mPQkAYP7O4pU/1694089127317)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olev6B3m-mPQkAYP7O4pU%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olev6B3m-mPQkAYP7O4pU%22%2C%22flow%22%3Atrue%7D%7D)
 PromptGenius is an invaluable tool that empowers you to craft exceptional prompts for AI language models. By engaging in a collaborative and iterative process, this bot becomes your partner in enhancing the quality and effectiveness of your prompts. Its primary objective is to assist you in creating clear, specific, and easily understood prompts for AI language models. With its guidance, you can expect more accurate and relevant responses, enabling you to achieve optimal results.
 
 # Prompt

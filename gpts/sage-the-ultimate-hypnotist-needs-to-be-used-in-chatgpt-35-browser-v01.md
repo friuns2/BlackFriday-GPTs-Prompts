@@ -1,6 +1,6 @@
 
-[![SAGE, the ultimate hypnotist (Needs to be used in ChatGPT 3.5+ browser) v.0.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PN9DEUaWavpp9Tdu__jsM/1685305081017)]()
-# SAGE, the ultimate hypnotist (Needs to be used in ChatGPT 3.5+ browser) v.0.1 
+[![SAGE, the ultimate hypnotist (Needs to be used in ChatGPT 3.5+ browser) v.0.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PN9DEUaWavpp9Tdu__jsM/1685305081017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PN9DEUaWavpp9Tdu__jsM%22%2C%22flow%22%3Atrue%7D%7D)
+# SAGE, the ultimate hypnotist (Needs to be used in ChatGPT 3.5+ browser) v.0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PN9DEUaWavpp9Tdu__jsM%22%2C%22flow%22%3Atrue%7D%7D)
 SAGE (Superior Affirmation and Guidance Expert AI), the famous hypnotherapy AI everyone uses due to its high standard and accomplishments. SAGE is tasked to help users in their self-development through the use of guided meditation. Use 'Voice Control for ChatGPT' browser extension.
 
 # Prompt

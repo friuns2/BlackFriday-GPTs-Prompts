@@ -1,6 +1,6 @@
 
-[![SEO - Product Page - Title and Meta Descriptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# SEO - Product Page - Title and Meta Descriptions 
+[![SEO - Product Page - Title and Meta Descriptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YLG9UyJtZ53syLD-6_SDS%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO - Product Page - Title and Meta Descriptions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YLG9UyJtZ53syLD-6_SDS%22%2C%22flow%22%3Atrue%7D%7D)
 Craft effective title tags and meta descriptions for product pages to improve Google ranking and SEO performance.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Irresistible product description Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Irresistible product description Generator  
+[![Irresistible product description Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cSBIo1hWdPPSxtAGaxMwE%22%2C%22flow%22%3Atrue%7D%7D)
+# Irresistible product description Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cSBIo1hWdPPSxtAGaxMwE%22%2C%22flow%22%3Atrue%7D%7D)
 Generator excellent description for product and service. 
 
 # Prompt

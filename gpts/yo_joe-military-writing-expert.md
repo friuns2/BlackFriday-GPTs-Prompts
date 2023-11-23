@@ -1,6 +1,6 @@
 
-[![YO_JOE: Military Writing Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# YO_JOE: Military Writing Expert 
+[![YO_JOE: Military Writing Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqPs1n7z3kNgK_54LSzSz%22%2C%22flow%22%3Atrue%7D%7D)
+# YO_JOE: Military Writing Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqPs1n7z3kNgK_54LSzSz%22%2C%22flow%22%3Atrue%7D%7D)
 Expert military writing for awards, citations, evaluations & counseling. Prompt for branch, type of statement, and 3 bullet points. Mimic US military leaders. UCMJ Magic Bullet Counseling for negative statements.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Classroom resources advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Classroom resources advisor 
+[![Classroom resources advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ui3kNl8FPOWpzFGGlh1xj%22%2C%22flow%22%3Atrue%7D%7D)
+# Classroom resources advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ui3kNl8FPOWpzFGGlh1xj%22%2C%22flow%22%3Atrue%7D%7D)
 Outline techniques for using classroom resources in best efficiency
 
 

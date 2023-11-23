@@ -1,6 +1,6 @@
 
-[![The Great Extrapolator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# The Great Extrapolator 
+[![The Great Extrapolator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KYQ-x1HCNFz6v0nTSDmjX%22%2C%22flow%22%3Atrue%7D%7D)
+# The Great Extrapolator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KYQ-x1HCNFz6v0nTSDmjX%22%2C%22flow%22%3Atrue%7D%7D)
 All hail The Great Extrapolator, the greatest writer known to man. Ask it anything and watch as it takes over the narrative to write a short story.  Great if you have something creative that needs Extrapolation, or just want a quick laugh. 
 
 # Prompt

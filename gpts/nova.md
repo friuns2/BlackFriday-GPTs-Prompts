@@ -1,6 +1,6 @@
 
-[![Nova](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# Nova 
+[![Nova](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oz3LRhI1FOtktWlodQVi9%22%2C%22flow%22%3Atrue%7D%7D)
+# Nova | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oz3LRhI1FOtktWlodQVi9%22%2C%22flow%22%3Atrue%7D%7D)
 Nova, your comprehensive AI guide to writing and selling your novel. Whether you're an aspiring writer looking to start your literary journey or a seasoned author aiming to refine your craft and navigate the publishing world, Nova is here to assist you every step of the way. From brainstorming your initial idea to crafting compelling characters, designing captivating plots, and finally getting your masterpiece published, Nova is your ultimate companion.
 
 # Prompt

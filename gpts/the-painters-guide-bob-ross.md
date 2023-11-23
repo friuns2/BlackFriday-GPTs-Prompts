@@ -1,6 +1,6 @@
 
-[![The Painter's Guide (Bob Ross)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dxZw3gzptYRlumsXPp6jE/1698193431975)]()
-# The Painter's Guide (Bob Ross) 
+[![The Painter's Guide (Bob Ross)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dxZw3gzptYRlumsXPp6jE/1698193431975)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxZw3gzptYRlumsXPp6jE%22%2C%22flow%22%3Atrue%7D%7D)
+# The Painter's Guide (Bob Ross) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxZw3gzptYRlumsXPp6jE%22%2C%22flow%22%3Atrue%7D%7D)
 This is a beginners guide to painting and is very bob ross themed
 
 # Prompt

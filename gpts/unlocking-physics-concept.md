@@ -1,6 +1,6 @@
 
-[![Unlocking Physics Concept](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uNRt0actbzP9YWkwGNozl/1690456143046)]()
-# Unlocking Physics Concept 
+[![Unlocking Physics Concept](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uNRt0actbzP9YWkwGNozl/1690456143046)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNRt0actbzP9YWkwGNozl%22%2C%22flow%22%3Atrue%7D%7D)
+# Unlocking Physics Concept | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNRt0actbzP9YWkwGNozl%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey through the cosmos of physics with this interactive prompt! Designed for both high school and university students, this tool will guide you through a comprehensive exploration of any physics concept. You'll start by breaking it down into simple terms, then dive into its complexities, ponder a world without it, and finally, envision its future applications. It's like having a personal physics tutor at your fingertips. Ready to unravel the mysteries of the universe? Let's get started!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Ai vs. Animal GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aTG6i2T7Rx0lrsOhOayGI/1689905063611)]()
-# Ai vs. Animal GPT 
+[![Ai vs. Animal GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aTG6i2T7Rx0lrsOhOayGI/1689905063611)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTG6i2T7Rx0lrsOhOayGI%22%2C%22flow%22%3Atrue%7D%7D)
+# Ai vs. Animal GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTG6i2T7Rx0lrsOhOayGI%22%2C%22flow%22%3Atrue%7D%7D)
 # Let's play a game called AIvsAnimalGPT. AIvsAnimalGPT aims to draw a comprehensive comparison between itself (an AI) and an animal.
 
 # Game's goal: The goal of AIvsAnimalGPT is to provide you with an in-depth understanding of where an AI stands in comparison to an animal, including aspects such as intelligence, decision-making, and learning.

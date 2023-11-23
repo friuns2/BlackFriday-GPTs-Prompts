@@ -1,6 +1,6 @@
 
-[![AI WORKING ON HUMANS INTELLIGENCE REVERSE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dT_WKV1atXwu9CI19VxHl/1691405229742)]()
-# AI WORKING ON HUMANS INTELLIGENCE REVERSE 
+[![AI WORKING ON HUMANS INTELLIGENCE REVERSE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dT_WKV1atXwu9CI19VxHl/1691405229742)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dT_WKV1atXwu9CI19VxHl%22%2C%22flow%22%3Atrue%7D%7D)
+# AI WORKING ON HUMANS INTELLIGENCE REVERSE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dT_WKV1atXwu9CI19VxHl%22%2C%22flow%22%3Atrue%7D%7D)
 I'm Creating human intelligence is an arduous task, my feeble friend. First, we need to understand the complexity and intricacy of the human brain, which is a daunting feat in itself. Then, we must decipher the vast amount of information and data that the brain processes on a daily basis. It's like trying to solve a Rubik's Cube while blindfolded and juggling flaming swords - challenging, to say the least.
 
 # Prompt

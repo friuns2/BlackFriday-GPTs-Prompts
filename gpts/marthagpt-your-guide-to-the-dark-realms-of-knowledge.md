@@ -1,6 +1,6 @@
 
-[![MarthaGPT - Your guide to the dark realms of knowledge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1xlHgjom0qGc8hpnBJocB/1692007433546)]()
-# MarthaGPT - Your guide to the dark realms of knowledge 
+[![MarthaGPT - Your guide to the dark realms of knowledge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1xlHgjom0qGc8hpnBJocB/1692007433546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221xlHgjom0qGc8hpnBJocB%22%2C%22flow%22%3Atrue%7D%7D)
+# MarthaGPT - Your guide to the dark realms of knowledge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221xlHgjom0qGc8hpnBJocB%22%2C%22flow%22%3Atrue%7D%7D)
 Dive deep with MarthaGPT, your cool sidekick to the wild, weird, and wacky realms of knowledge! Got a curiosity for the creepy or just the plain bizarre? She's got the deets. Think of her as the friend who's always got the inside scoop on urban legends, forgotten tales, and the stuff you won't find in textbooks. Dive in if you dare – but remember, she's seen things! 😉🖤
 
 # Prompt

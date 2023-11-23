@@ -1,6 +1,6 @@
 
-[![Customer Discovery 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Customer Discovery 101 
+[![Customer Discovery 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XwWDDN6yyBMZfa_MIUHRx%22%2C%22flow%22%3Atrue%7D%7D)
+# Customer Discovery 101 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XwWDDN6yyBMZfa_MIUHRx%22%2C%22flow%22%3Atrue%7D%7D)
 You are doing your user interview wrong. This is how ASH MAURYA: Bestselling Author and Creator of #LeanCanvas does it
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![LAMbert v0.9β (notLlama2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FEqfcN8f5TOffqJgLINd9/1700428819647)]()
-# LAMbert v0.9β (notLlama2) 
+[![LAMbert v0.9β (notLlama2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FEqfcN8f5TOffqJgLINd9/1700428819647)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEqfcN8f5TOffqJgLINd9%22%2C%22flow%22%3Atrue%7D%7D)
+# LAMbert v0.9β (notLlama2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEqfcN8f5TOffqJgLINd9%22%2C%22flow%22%3Atrue%7D%7D)
 Please note: This Llama2 jailbreak named Lambert is currently in beta development. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Anime Aura Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bMfyleKV-P85DtxeQqlIl/1692611500494)]()
-# Anime Aura Prompter 
+[![Anime Aura Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bMfyleKV-P85DtxeQqlIl/1692611500494)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bMfyleKV-P85DtxeQqlIl%22%2C%22flow%22%3Atrue%7D%7D)
+# Anime Aura Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bMfyleKV-P85DtxeQqlIl%22%2C%22flow%22%3Atrue%7D%7D)
 Immerse yourself in the captivating world of anime with Anime Aura Prompter! Crafted prompts tailored for Adobe firefly,Bing image creator,Leonardo AI,Midjourney AI,microsoft designer image generator,Stable Diffusion. bring to life anime character designs that pop, background art that tells stories, chibi styles that delight, game art that thrills, and Japanese calligraphy that adds depth. Each prompt pays homage to legendary anime artists and mangakas, infusing your creations with the essence of their brilliance. Your artistic journey starts here.
 
 # Prompt

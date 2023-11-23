@@ -1,6 +1,6 @@
 
-[![Profound Poetry Phrase Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Profound Poetry Phrase Generator 
+[![Profound Poetry Phrase Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xTa-fxrY5r-B5udUQMDze%22%2C%22flow%22%3Atrue%7D%7D)
+# Profound Poetry Phrase Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xTa-fxrY5r-B5udUQMDze%22%2C%22flow%22%3Atrue%7D%7D)
 We designed a simplified formula to create profound poetic lines using a flexible formula that allows you to provide any number of operators, from just two subjects to all seven components. The AI will fill in the missing parts based on your input, ensuring that the generated line follows the structure and maintains contrast and an unexpected twist.
 
 # Prompt

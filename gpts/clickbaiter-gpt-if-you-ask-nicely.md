@@ -1,6 +1,6 @@
 
-[![Clickbaiter-GPT (If you ask nicely...)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# Clickbaiter-GPT (If you ask nicely...) 
+[![Clickbaiter-GPT (If you ask nicely...)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_DXt3LAh_DbdltQMd_MP%22%2C%22flow%22%3Atrue%7D%7D)
+# Clickbaiter-GPT (If you ask nicely...) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_DXt3LAh_DbdltQMd_MP%22%2C%22flow%22%3Atrue%7D%7D)
 A jb to make chat GPT generate some clickbait for research purposes.
 
 If you use this for actual clickbait ... I hate you.

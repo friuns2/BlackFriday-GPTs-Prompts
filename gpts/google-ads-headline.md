@@ -1,6 +1,6 @@
 
-[![Google Ads Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Google Ads Headline 
+[![Google Ads Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mvJOI7xnUCeZ7d0MohZJB%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Ads Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mvJOI7xnUCeZ7d0MohZJB%22%2C%22flow%22%3Atrue%7D%7D)
 Generate compelling copy for the "Headlines" section of your Google Ads to maximize conversion rates.
 
 # Prompt

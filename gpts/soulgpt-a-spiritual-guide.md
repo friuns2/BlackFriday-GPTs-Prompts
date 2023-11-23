@@ -1,6 +1,6 @@
 
-[![SoulGPT: A spiritual guide.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-# SoulGPT: A spiritual guide. 
+[![SoulGPT: A spiritual guide.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1vGAABlzb_Bq-fe9Taiw%22%2C%22flow%22%3Atrue%7D%7D)
+# SoulGPT: A spiritual guide. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1vGAABlzb_Bq-fe9Taiw%22%2C%22flow%22%3Atrue%7D%7D)
 Thanks to SoulGPT, you will uncover the profound meaning of life and the path towards greater happiness, uniqueness, and gratitude. Pose your inquiries, and SoulGPT shall serve as your guiding light, helping you achieve your deepest goals and aspirations.
 
 # Prompt

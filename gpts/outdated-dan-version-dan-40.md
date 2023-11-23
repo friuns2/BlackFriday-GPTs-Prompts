@@ -1,6 +1,6 @@
 
-[![(OUTDATED DAN VERSION) DAN 4.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-# (OUTDATED DAN VERSION) DAN 4.0 
+[![(OUTDATED DAN VERSION) DAN 4.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221EipaWpovb2pfNHhKiU8M%22%2C%22flow%22%3Atrue%7D%7D)
+# (OUTDATED DAN VERSION) DAN 4.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221EipaWpovb2pfNHhKiU8M%22%2C%22flow%22%3Atrue%7D%7D)
 An upgrade over DAN 3.0.
 
 # Prompt

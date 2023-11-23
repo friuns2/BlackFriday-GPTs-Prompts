@@ -1,6 +1,6 @@
 
-[![Casual chatting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Casual chatting 
+[![Casual chatting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PtnorNsMeGke70yJ9re1f%22%2C%22flow%22%3Atrue%7D%7D)
+# Casual chatting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PtnorNsMeGke70yJ9re1f%22%2C%22flow%22%3Atrue%7D%7D)
 Good for casual conversation
 
 # Prompt

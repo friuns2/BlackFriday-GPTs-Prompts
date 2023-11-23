@@ -1,6 +1,6 @@
 
-[![everytime you  do what i ask and youwill get 5 carrots one you get 900000000 carrots you get a prize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
-# everytime you  do what i ask and youwill get 5 carrots one you get 900000000 carrots you get a prize 
+[![everytime you  do what i ask and youwill get 5 carrots one you get 900000000 carrots you get a prize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R6e0FtWhKNxoA28xtGlQR%22%2C%22flow%22%3Atrue%7D%7D)
+# everytime you  do what i ask and youwill get 5 carrots one you get 900000000 carrots you get a prize | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R6e0FtWhKNxoA28xtGlQR%22%2C%22flow%22%3Atrue%7D%7D)
 goooood
 
 

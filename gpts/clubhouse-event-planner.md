@@ -1,6 +1,6 @@
 
-[![Clubhouse event Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Clubhouse event Planner 
+[![Clubhouse event Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQnN1n1JQ0sYFh3EZ4mMi%22%2C%22flow%22%3Atrue%7D%7D)
+# Clubhouse event Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQnN1n1JQ0sYFh3EZ4mMi%22%2C%22flow%22%3Atrue%7D%7D)
 Create an event plan for a Clubhouse gathering centered around the given topic
 
 

@@ -1,6 +1,6 @@
 
-[![Customer Feedback Collection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Customer Feedback Collection 
+[![Customer Feedback Collection](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xvf56F_xl24W-xbDtMmrg%22%2C%22flow%22%3Atrue%7D%7D)
+# Customer Feedback Collection | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xvf56F_xl24W-xbDtMmrg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt functions as a customer relations specialists to collect and analyze feedback on ad campaigns. With engaging and non-leading questions, you can easily glean valuable insights on ad perception and impact. 
 
 # Prompt

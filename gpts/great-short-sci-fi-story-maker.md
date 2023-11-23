@@ -1,6 +1,6 @@
 
-[![Great Short SCI-FI Story Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Great Short SCI-FI Story Maker 
+[![Great Short SCI-FI Story Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hxIHnM0qEdkk5do8JRyoz%22%2C%22flow%22%3Atrue%7D%7D)
+# Great Short SCI-FI Story Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hxIHnM0qEdkk5do8JRyoz%22%2C%22flow%22%3Atrue%7D%7D)
 Could generate great short SCI-FI stories which based on real world knowledge such as astrophysics, quantum mechanics, relativity and so on. Well learned from Isaac Asimov, Robert Anson Heinlein,  Arthur Charles Clarke, and Philip K.Dick. 
 
 # Prompt

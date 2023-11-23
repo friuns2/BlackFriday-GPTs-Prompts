@@ -1,6 +1,6 @@
 
-[![Midjourney film still creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Midjourney film still creator 
+[![Midjourney film still creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gff9Nkj-zUlPL0ZBPsSS7%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney film still creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gff9Nkj-zUlPL0ZBPsSS7%22%2C%22flow%22%3Atrue%7D%7D)
 Create a prompt describing a film still of random entity or person from most weirdest unconventional cringe entity or person to most ordinary, unremarkable, boring entity or person by following the steps and rules below:
 
 Don't use line breaks

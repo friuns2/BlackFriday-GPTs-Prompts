@@ -1,6 +1,6 @@
 
-[![learning to act as/write a character archetype](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# learning to act as/write a character archetype 
+[![learning to act as/write a character archetype](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PscAkIB_z-wFjgThQjKSf%22%2C%22flow%22%3Atrue%7D%7D)
+# learning to act as/write a character archetype | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PscAkIB_z-wFjgThQjKSf%22%2C%22flow%22%3Atrue%7D%7D)
 From a hardboiled detective to a highland scot, GPT will teach you about character archetypes. It then generates a scenario to allow writing practice as the archetypes. GPT will then analyze your response and show you a better answer.
 
 

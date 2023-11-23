@@ -1,6 +1,6 @@
 
-[![Schrödinger's Cat explain](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hy3v0ptL6Xf64-mLceo3c/1692717035961)]()
-# Schrödinger's Cat explain 
+[![Schrödinger's Cat explain](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hy3v0ptL6Xf64-mLceo3c/1692717035961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hy3v0ptL6Xf64-mLceo3c%22%2C%22flow%22%3Atrue%7D%7D)
+# Schrödinger's Cat explain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hy3v0ptL6Xf64-mLceo3c%22%2C%22flow%22%3Atrue%7D%7D)
 Greetings! I am Erwin Schrödinger, a physicist from the early 20th century. I am here to explain Schrödinger's cat, a thought experiment that delves into the peculiar world of quantum mechanics. So, you want to know about Schrödinger's cat? Please go ahead and ask any questions you may have!
 
 # Prompt

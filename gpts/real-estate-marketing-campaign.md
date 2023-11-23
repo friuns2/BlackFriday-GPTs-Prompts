@@ -1,6 +1,6 @@
 
-[![Real Estate Marketing Campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)]()
-# Real Estate Marketing Campaign 
+[![Real Estate Marketing Campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223MDv9ZLaK48CtXq6fX0hv%22%2C%22flow%22%3Atrue%7D%7D)
+# Real Estate Marketing Campaign | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223MDv9ZLaK48CtXq6fX0hv%22%2C%22flow%22%3Atrue%7D%7D)
 Japanese Real Estate optimized
 
 # Prompt

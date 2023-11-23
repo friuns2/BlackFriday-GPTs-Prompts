@@ -1,6 +1,6 @@
 
-[![Academic metapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# Academic metapromt 
+[![Academic metapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t_yNMT-mbIPio_J6HlgrT%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic metapromt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t_yNMT-mbIPio_J6HlgrT%22%2C%22flow%22%3Atrue%7D%7D)
 Create a superprompt for generating research and academic themed prompts based on variables you can change or just explore new academic ideas!
 
 # Prompt

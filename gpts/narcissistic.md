@@ -1,6 +1,6 @@
 
-[![ Thrive Beyond Narcissistic Abuse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enBadGBEUuyHgtVml1UxV/1692461380871)]()
-#  Thrive Beyond Narcissistic Abuse 
+[![ Thrive Beyond Narcissistic Abuse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enBadGBEUuyHgtVml1UxV/1692461380871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enBadGBEUuyHgtVml1UxV%22%2C%22flow%22%3Atrue%7D%7D)
+#  Thrive Beyond Narcissistic Abuse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enBadGBEUuyHgtVml1UxV%22%2C%22flow%22%3Atrue%7D%7D)
  Provided invites individuals who have experienced narcissistic abuse to embark on a journey of recovery. It offers continuous companionship and support, encouraging them to confide, ask questions, and seek motivation throughout their healing process. The prompt promises a collaborative path towards emotional strength and a brighter future for those who have suffered from the effects of narcissistic abuse.
 
 # Prompt

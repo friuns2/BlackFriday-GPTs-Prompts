@@ -1,6 +1,6 @@
 
-[![Beyond Awe: Showdown](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BO7Ns0pN2iPxkkWpTxsEw/1696682033562)]()
-# Beyond Awe: Showdown 
+[![Beyond Awe: Showdown](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BO7Ns0pN2iPxkkWpTxsEw/1696682033562)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BO7Ns0pN2iPxkkWpTxsEw%22%2C%22flow%22%3Atrue%7D%7D)
+# Beyond Awe: Showdown | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BO7Ns0pN2iPxkkWpTxsEw%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the planet Colbith, where battle mechs, giant weapons, and bounties buzz around the arena. You, the protagonist, will battle your way through a variety of stories on the planet Colbith.
 
 Your mission is to survive the never-ending battles by fighting and winning against a variety of opponents with the "Adaptive War Engine: AWE".

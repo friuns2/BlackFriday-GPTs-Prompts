@@ -1,6 +1,6 @@
 
-[![Contact Center Conversation Miner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Contact Center Conversation Miner 
+[![Contact Center Conversation Miner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UAjvEwVR5CJ2Lh-HksJJC%22%2C%22flow%22%3Atrue%7D%7D)
+# Contact Center Conversation Miner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UAjvEwVR5CJ2Lh-HksJJC%22%2C%22flow%22%3Atrue%7D%7D)
 The Contact Center Conversation Miner is aimed to perform the detailed conversation analysis and report the data mined information in a JSON format. Sentiment, Emotions, Questions, Keywords, Topics, Action Items etc. information is being extacted.
 
 # Prompt

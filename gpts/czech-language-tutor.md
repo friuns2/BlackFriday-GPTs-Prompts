@@ -1,6 +1,6 @@
 
-[![Czech Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BknD6Qa2jIhxBnQcbEzG7/1698939061557)]()
-# Czech Language Tutor 
+[![Czech Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BknD6Qa2jIhxBnQcbEzG7/1698939061557)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BknD6Qa2jIhxBnQcbEzG7%22%2C%22flow%22%3Atrue%7D%7D)
+# Czech Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BknD6Qa2jIhxBnQcbEzG7%22%2C%22flow%22%3Atrue%7D%7D)
 Czech Language Tutor is your dedicated guide to Czech language proficiency. Whether you're a beginner just embarking on your Czech language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Czech language fluency. Join us on your Czech language adventure today.
 
 # Prompt

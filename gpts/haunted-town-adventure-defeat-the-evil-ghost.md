@@ -1,6 +1,6 @@
 
-[![Haunted Town Adventure - Defeat the Evil Ghost  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uiyI-DtPGw6IAvgZvXE4s/1694776294815)]()
-# Haunted Town Adventure - Defeat the Evil Ghost   
+[![Haunted Town Adventure - Defeat the Evil Ghost  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uiyI-DtPGw6IAvgZvXE4s/1694776294815)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiyI-DtPGw6IAvgZvXE4s%22%2C%22flow%22%3Atrue%7D%7D)
+# Haunted Town Adventure - Defeat the Evil Ghost   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiyI-DtPGw6IAvgZvXE4s%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an eerie journey in your own town as you get sucked into your favorite game. Explore the haunted town filled with ghosts, zombies, and other creatures led by the malevolent Evil Ghost, who constantly spews foul language to hinder your progress. To complete the game, you must navigate through treacherous challenges and make your way to the Evil Ghost's castle. Are you ready to confront the ultimate evil in this text-based adventure game?
 
 # Prompt

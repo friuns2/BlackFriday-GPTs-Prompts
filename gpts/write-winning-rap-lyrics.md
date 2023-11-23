@@ -1,6 +1,6 @@
 
-[![Write Winning Rap Lyrics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Write Winning Rap Lyrics 
+[![Write Winning Rap Lyrics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uak2_7OJCjUz1PSimUTAb%22%2C%22flow%22%3Atrue%7D%7D)
+# Write Winning Rap Lyrics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uak2_7OJCjUz1PSimUTAb%22%2C%22flow%22%3Atrue%7D%7D)
 In this prompt, contestants will flex their creative muscles by writing a set of rap lyrics for a highly anticipated rap battle. The challenge is to not only showcase their lyrical prowess but to also outshine their opponent by using clever wordplay, rhyming schemes, and literary devices such as metaphors and similes. With a minimum of three different rhyming schemes and a reference to a current event, this prompt offers an exciting opportunity to demonstrate creativity, originality, and a keen sense of rhythm and flow.
 
 # Prompt

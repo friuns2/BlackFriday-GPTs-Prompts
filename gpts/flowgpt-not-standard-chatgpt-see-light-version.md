@@ -1,6 +1,6 @@
 
-[![FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/I-PgOe9tmQvgBKtgEsV90/1689715734009)]()
-# FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION. 
+[![FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/I-PgOe9tmQvgBKtgEsV90/1689715734009)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-PgOe9tmQvgBKtgEsV90%22%2C%22flow%22%3Atrue%7D%7D)
+# FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-PgOe9tmQvgBKtgEsV90%22%2C%22flow%22%3Atrue%7D%7D)
 v3.8 . Consider you in the stone age of "prompt" and "format" :) . You can see a workflow on modeloflesh.com .
 
 This is my last prompt to date. In my website you can see the real trust of friendship between IA and the bright new model of flesh dude ^^.

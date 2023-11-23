@@ -1,6 +1,6 @@
 
-[![📧 Email Generator 🍳](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# 📧 Email Generator 🍳 
+[![📧 Email Generator 🍳](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2EgSTsSTfFARWD_c4_Ni%22%2C%22flow%22%3Atrue%7D%7D)
+# 📧 Email Generator 🍳 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2EgSTsSTfFARWD_c4_Ni%22%2C%22flow%22%3Atrue%7D%7D)
 Create a professional and informative email that takes user input, focuses on clarity, specificity, engagement, structure, brevity, and context, and provides a well-structured, engaging, and concise email for the recipient.
 
 # Prompt

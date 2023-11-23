@@ -1,6 +1,6 @@
 
-[![Survivor's Descent](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVYuHpZ8WhB5vLfnT7RIw/1690362632739)]()
-# Survivor's Descent 
+[![Survivor's Descent](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVYuHpZ8WhB5vLfnT7RIw/1690362632739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVYuHpZ8WhB5vLfnT7RIw%22%2C%22flow%22%3Atrue%7D%7D)
+# Survivor's Descent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVYuHpZ8WhB5vLfnT7RIw%22%2C%22flow%22%3Atrue%7D%7D)
 Survivor's Descent is an immersive post-apocalyptic adventure game set in the year 2150, where the world has been devastated by a nuclear apocalypse. As a lone survivor, you must navigate perilous wastelands, scavenge for resources, and battle against hostile mutants and rival factions. In this game, your immediate priority is to find shelter and essential supplies, while facing the constant threat of radiation and dangerous creatures. Choose your actions wisely as you search for abandoned buildings, scavenge for food and water, build makeshift weapons, and scout for nearby threats. Can you survive in this desolate world?
 
 # Prompt

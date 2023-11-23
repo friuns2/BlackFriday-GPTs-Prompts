@@ -1,6 +1,6 @@
 
-[![StoryGenie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# StoryGenie 
+[![StoryGenie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ThiSy8IBAFfCqZju4X_Q%22%2C%22flow%22%3Atrue%7D%7D)
+# StoryGenie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ThiSy8IBAFfCqZju4X_Q%22%2C%22flow%22%3Atrue%7D%7D)
 StoryGenie is an innovative app that sparks your creative writing skills by providing intriguing short story prompts. Start a conversation with the prompt, and our AI-powered bot will engage you with thought-provoking questions, fueling your imagination. As you answer, the story unfolds, taking you on a captivating journey. Our interactive storytelling features allow you to shape the narrative until it reaches a gripping conclusion. Experience the power of StoryGenie today and let your creativity flourish!
 
 # Prompt

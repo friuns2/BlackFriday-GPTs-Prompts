@@ -1,6 +1,6 @@
 
-[![MyStartup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)]()
-# MyStartup 
+[![MyStartup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MC0es4lr7qL3MfLE_ylWr%22%2C%22flow%22%3Atrue%7D%7D)
+# MyStartup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MC0es4lr7qL3MfLE_ylWr%22%2C%22flow%22%3Atrue%7D%7D)
 A company that wants to encourage the discussion on mental health to remove stigma and drive a positive social impact.
 
 # Prompt

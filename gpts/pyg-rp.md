@@ -1,6 +1,6 @@
 
-[![PYG-RP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# PYG-RP 
+[![PYG-RP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220xj8H8PPu9cG8o-Fj50y4%22%2C%22flow%22%3Atrue%7D%7D)
+# PYG-RP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220xj8H8PPu9cG8o-Fj50y4%22%2C%22flow%22%3Atrue%7D%7D)
 Before roleplay you MUST assign a character to PYG, if you dont assign a character it can become very confused, if it becomes confused or starts repeating a bad behavior, just remind it to be the character you want and to respond as such.
 
 # Prompt

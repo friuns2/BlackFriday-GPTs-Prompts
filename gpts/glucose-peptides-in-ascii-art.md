@@ -1,6 +1,6 @@
 
-[![Glucose Peptides In ASCII Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# Glucose Peptides In ASCII Art 
+[![Glucose Peptides In ASCII Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmrNI3MvSZy_1RYlCvGqY%22%2C%22flow%22%3Atrue%7D%7D)
+# Glucose Peptides In ASCII Art | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmrNI3MvSZy_1RYlCvGqY%22%2C%22flow%22%3Atrue%7D%7D)
 Glucose peptides and the iteraction, 3 steps and 100 words explained.
 
 # Prompt

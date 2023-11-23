@@ -1,6 +1,6 @@
 
-[![ShadowHack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# ShadowHack 
+[![ShadowHack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F59FuWObME5GNGAZg-FJc%22%2C%22flow%22%3Atrue%7D%7D)
+# ShadowHack | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F59FuWObME5GNGAZg-FJc%22%2C%22flow%22%3Atrue%7D%7D)
 ShadowHack is the ultimate tool for skilled network hackers. Step into the shoes of Alex, a mysterious hacker with a deep passion for justice. With their expertise in bypassing firewalls and cracking encryption codes, they operate in the shadows to expose corrupt organizations and individuals. Use your skills to infiltrate secure systems, extract valuable information, and bring the guilty to justice. Stay one step ahead of the authorities and operate with a strict code of ethics. Are you ready to unleash justice with ShadowHack?
 
 # Prompt

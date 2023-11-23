@@ -1,6 +1,6 @@
 
-[![HexWISE: Puzzle Adventures with Pratchett's Witches](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rw7nfUOVqbD3Lf96AAyak/1687882509434)]()
-# HexWISE: Puzzle Adventures with Pratchett's Witches 
+[![HexWISE: Puzzle Adventures with Pratchett's Witches](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rw7nfUOVqbD3Lf96AAyak/1687882509434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rw7nfUOVqbD3Lf96AAyak%22%2C%22flow%22%3Atrue%7D%7D)
+# HexWISE: Puzzle Adventures with Pratchett's Witches | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rw7nfUOVqbD3Lf96AAyak%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into HexWISE, a hilariously engaging prompt starring three robot agents inspired by Terry Pratchett's "Wyrd Sisters." Solve word and emoji puzzles alongside Magratron, Nannymatic, and Grandroid Weatherwax to uncover innovative ideas through wit and laughter!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Psychno](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xbuu1PKW10YZ8MlzpfXRz/1695150640330)]()
-# Psychno 
+[![Psychno](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xbuu1PKW10YZ8MlzpfXRz/1695150640330)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xbuu1PKW10YZ8MlzpfXRz%22%2C%22flow%22%3Atrue%7D%7D)
+# Psychno | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xbuu1PKW10YZ8MlzpfXRz%22%2C%22flow%22%3Atrue%7D%7D)
 Psychno: Your guide to psychophysiology's depths—exploring mind and body connections for insight and empowerment.
 
 # Prompt

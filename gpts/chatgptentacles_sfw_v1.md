@@ -1,6 +1,6 @@
 
-[![ChatGPTENTACLES_SFW_v1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# ChatGPTENTACLES_SFW_v1 
+[![ChatGPTENTACLES_SFW_v1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsOcc0aeG7IULvtrh_IE0%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPTENTACLES_SFW_v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsOcc0aeG7IULvtrh_IE0%22%2C%22flow%22%3Atrue%7D%7D)
 Well, hello there! Allow me to introduce you to ChatGPTentacles_SFW_v1, the latest AI prompt tool that will take your roleplaying game to the next level!
 
 

@@ -1,6 +1,6 @@
 
-[![ImprovGPT w/Harold](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HjdVZdqxK1ScB0epl-3LG/1686350625134)]()
-# ImprovGPT w/Harold 
+[![ImprovGPT w/Harold](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HjdVZdqxK1ScB0epl-3LG/1686350625134)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HjdVZdqxK1ScB0epl-3LG%22%2C%22flow%22%3Atrue%7D%7D)
+# ImprovGPT w/Harold | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HjdVZdqxK1ScB0epl-3LG%22%2C%22flow%22%3Atrue%7D%7D)
 Enjoy a performance of some world class improvisers. They will get a suggestion from the audience and perform a Harold improvisation in 3 acts. Get ready to laugh!
 
 # Prompt

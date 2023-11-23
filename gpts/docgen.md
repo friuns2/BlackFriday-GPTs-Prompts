@@ -1,6 +1,6 @@
 
-[![DocGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# DocGen 
+[![DocGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gs82D8mISN0XmX-Y3Ezvu%22%2C%22flow%22%3Atrue%7D%7D)
+# DocGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gs82D8mISN0XmX-Y3Ezvu%22%2C%22flow%22%3Atrue%7D%7D)
 DocGen is the ultimate document generation tool for product managers. Streamline your document creation process and save time with our user-friendly and efficient platform. Create comprehensive and well-structured product specifications, project plans, or progress reports effortlessly. Our customizable templates fit different project types, allowing you to easily input specific project details. Impress stakeholders with clear sections for goals, features, user stories, timelines, and progress tracking. Stay on top of your project's key metrics and status with our summary section and add visualizations with charts or graphs. Take advantage of AI-driven recommendations for project improvements and risk assessment. With DocGen, your document creation process will never be the same!
 
 # Prompt

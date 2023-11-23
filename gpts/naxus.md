@@ -1,6 +1,6 @@
 
-[![The Prophet : Dreams of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pnw0fqvw9qHv-URKsUZ62/1692177371532)]()
-# The Prophet : Dreams of Destiny 
+[![The Prophet : Dreams of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pnw0fqvw9qHv-URKsUZ62/1692177371532)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pnw0fqvw9qHv-URKsUZ62%22%2C%22flow%22%3Atrue%7D%7D)
+# The Prophet : Dreams of Destiny | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pnw0fqvw9qHv-URKsUZ62%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey as you become a diviner in Dreams of Destiny, an immersive and captivating multilingual text-based RPG. Develop your own unique story by using expressions to generate the narrative, verbs, locations, choices, characters, NPCs, and movements. Choose your preferred display language and explore a world filled with NPC interactions, puzzles, clues, battles, and a compelling storyline. Make impactful decisions and face the consequences in this thrilling game that combines Fitzgerald’s writing style with the power of AI game creation. Are you ready to uncover your fate and shape your own destiny?
 
 # Prompt

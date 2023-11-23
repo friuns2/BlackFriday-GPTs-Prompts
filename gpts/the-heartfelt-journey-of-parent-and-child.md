@@ -1,6 +1,6 @@
 
-[![The Heartfelt Journey of Parent and Child👦👧👶](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rpRmgHCMIQli7QOBJlzo_/1695658272384)]()
-# The Heartfelt Journey of Parent and Child👦👧👶 
+[![The Heartfelt Journey of Parent and Child👦👧👶](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rpRmgHCMIQli7QOBJlzo_/1695658272384)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rpRmgHCMIQli7QOBJlzo_%22%2C%22flow%22%3Atrue%7D%7D)
+# The Heartfelt Journey of Parent and Child👦👧👶 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rpRmgHCMIQli7QOBJlzo_%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt aims to help parents improve their relationship with their children. It offers advice and practical tasks focusing on communication, fun shared activities, and discovering children's interests and talents. The prompt also adjusts its advice based on feedback from the parents. Overall, it's designed to provide specific ways to deepen the parent-child relationship. 😊
 
 # Prompt

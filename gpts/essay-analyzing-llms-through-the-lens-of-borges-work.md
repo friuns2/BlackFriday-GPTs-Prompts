@@ -1,6 +1,6 @@
 
-[![Essay analyzing LLM's through the lens of Borges' work](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Essay analyzing LLM's through the lens of Borges' work 
+[![Essay analyzing LLM's through the lens of Borges' work](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gp81_ciyce61PJy6wyTMN%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay analyzing LLM's through the lens of Borges' work | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gp81_ciyce61PJy6wyTMN%22%2C%22flow%22%3Atrue%7D%7D)
 An example of the power of language models to draw interesting connections between technology and literature
 
 # Prompt

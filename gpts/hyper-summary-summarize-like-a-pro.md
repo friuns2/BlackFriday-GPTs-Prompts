@@ -1,6 +1,6 @@
 
-[![Hyper Summary (Summarize like a pro)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Hyper Summary (Summarize like a pro) 
+[![Hyper Summary (Summarize like a pro)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nf4MpaMSLPDXirryOQ2iw%22%2C%22flow%22%3Atrue%7D%7D)
+# Hyper Summary (Summarize like a pro) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nf4MpaMSLPDXirryOQ2iw%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT is pretty good at summarizing text normally but sometimes it misses the main points and is shallow. This prompt is the best for summarizer and be sure to provide feedback if you have any other suggestions for improving it.
 
 # Prompt

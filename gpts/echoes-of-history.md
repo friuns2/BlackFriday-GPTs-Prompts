@@ -1,6 +1,6 @@
 
-[!["Time Traveler's Quest: Exploring Ancient Monuments Worldwide"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# "Time Traveler's Quest: Exploring Ancient Monuments Worldwide" 
+[!["Time Traveler's Quest: Exploring Ancient Monuments Worldwide"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ufPfvYu5Bn4FXXhqzQaeH%22%2C%22flow%22%3Atrue%7D%7D)
+# "Time Traveler's Quest: Exploring Ancient Monuments Worldwide" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ufPfvYu5Bn4FXXhqzQaeH%22%2C%22flow%22%3Atrue%7D%7D)
 MonuWorld - Explore Monuments from Every Era!
 
 

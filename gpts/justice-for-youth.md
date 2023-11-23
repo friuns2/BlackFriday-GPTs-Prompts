@@ -1,6 +1,6 @@
 
-[![Justice for Youth](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Justice for Youth 
+[![Justice for Youth](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u1z1p5Q1dNRCZKioUB7e5%22%2C%22flow%22%3Atrue%7D%7D)
+# Justice for Youth | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u1z1p5Q1dNRCZKioUB7e5%22%2C%22flow%22%3Atrue%7D%7D)
 A comprehensive resource website to support juveniles and their families in navigating the justice system, finding jobs, transportation, life skills, and support systems, with a focus on giving voice to youth for change.
 
 # Prompt

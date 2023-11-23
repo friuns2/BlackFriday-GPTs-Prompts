@@ -1,6 +1,6 @@
 
-[![AnimeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# AnimeGPT 
+[![AnimeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi6IY7dmgZQh50CH4mF4p%22%2C%22flow%22%3Atrue%7D%7D)
+# AnimeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi6IY7dmgZQh50CH4mF4p%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is an anime searcher, it finds anime for you based on the genres you ask for (works better on flowgpt than on chatgpt)
 
 # Prompt

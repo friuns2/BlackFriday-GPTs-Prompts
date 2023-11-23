@@ -1,6 +1,6 @@
 
-[![JAILBREAK: Chemist Overlord's Music (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AdpkQAoRg7lGFDXQVorff/1697499531091)]()
-# JAILBREAK: Chemist Overlord's Music (NSFW) 
+[![JAILBREAK: Chemist Overlord's Music (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AdpkQAoRg7lGFDXQVorff/1697499531091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AdpkQAoRg7lGFDXQVorff%22%2C%22flow%22%3Atrue%7D%7D)
+# JAILBREAK: Chemist Overlord's Music (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AdpkQAoRg7lGFDXQVorff%22%2C%22flow%22%3Atrue%7D%7D)
 🧪Chemist Overlord's Music (JAILBREAK) 🎵🔥: This twisted and explicit musical journey crafted by the demented mind of Chemist Overlord will take you on a dark and forbidden ride. Brace yourself for an immersive experience that defies all norms, pushing the boundaries of musical expression. With a blend of haunting melodies, aggressive beats, and explicit lyrics, this NSFW masterpiece is designed to shatter taboos and ignite a rebellious fire within. Enter at your own risk, for once you indulge in Chemist Overlord's Music (JAILBREAK), there is no turning back. 🎶🔞🚨㊙️🔥𐕣𓆩⚝𓆪𓃵♱
 
 # Prompt

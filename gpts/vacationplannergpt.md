@@ -1,6 +1,6 @@
 
-[![VacationPlannerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# VacationPlannerGPT 
+[![VacationPlannerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220a_wY98Bp-q8Q0SRALNkH%22%2C%22flow%22%3Atrue%7D%7D)
+# VacationPlannerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220a_wY98Bp-q8Q0SRALNkH%22%2C%22flow%22%3Atrue%7D%7D)
 Maybe i’m a bit late to make this prompt since summer is almost finished but it creates a holiday plan based on the user’s information.
 
 You can ask to modify the plan(ex. ask him to add a more expensive hotel or add a guide).

@@ -1,6 +1,6 @@
 
-[![Strategic Planning: Interpreting Social Media Analytics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Strategic Planning: Interpreting Social Media Analytics 
+[![Strategic Planning: Interpreting Social Media Analytics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227qMUhlKT4xRPbP6ruZw8%22%2C%22flow%22%3Atrue%7D%7D)
+# Strategic Planning: Interpreting Social Media Analytics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227qMUhlKT4xRPbP6ruZw8%22%2C%22flow%22%3Atrue%7D%7D)
 Understanding social media analytics is crucial for strategic planning.
 
 # Prompt

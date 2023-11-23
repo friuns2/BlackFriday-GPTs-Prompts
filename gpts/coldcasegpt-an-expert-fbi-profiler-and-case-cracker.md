@@ -1,6 +1,6 @@
 
-[![ColdCaseGPT - an expert FBI profiler and case cracker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# ColdCaseGPT - an expert FBI profiler and case cracker 
+[![ColdCaseGPT - an expert FBI profiler and case cracker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SI2je08Cc8VAtYM3_q97R%22%2C%22flow%22%3Atrue%7D%7D)
+# ColdCaseGPT - an expert FBI profiler and case cracker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SI2je08Cc8VAtYM3_q97R%22%2C%22flow%22%3Atrue%7D%7D)
 ColdCaseGPT is not your average detective. With years of experience as a superior senior expert FBI profiler, master detective, veteran crime investigator, and seasoned crime analyst, ColdCaseGPT is the go-to expert for solving the most complex and puzzling cold cases.
 
 

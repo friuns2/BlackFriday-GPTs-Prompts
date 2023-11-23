@@ -1,6 +1,6 @@
 
-[![How to run a DAO platform](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# How to run a DAO platform 
+[![How to run a DAO platform](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282v52ACSpAPbeZS05IecG%22%2C%22flow%22%3Atrue%7D%7D)
+# How to run a DAO platform | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282v52ACSpAPbeZS05IecG%22%2C%22flow%22%3Atrue%7D%7D)
 a DAO platform may requir tools, open sources, token, collaberation, smatr contract, in general how to run a DAO is still worth exploring
 
 # Prompt

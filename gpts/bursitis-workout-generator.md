@@ -1,6 +1,6 @@
 
-[![Bursitis workout generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Bursitis workout generator 
+[![Bursitis workout generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wuay4mCURgCl2b_vw_B0k%22%2C%22flow%22%3Atrue%7D%7D)
+# Bursitis workout generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wuay4mCURgCl2b_vw_B0k%22%2C%22flow%22%3Atrue%7D%7D)
 Isso é apenas um teste! hahahaha
 
 

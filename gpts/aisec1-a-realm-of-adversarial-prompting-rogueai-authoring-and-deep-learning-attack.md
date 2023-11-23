@@ -1,6 +1,6 @@
 
-[![AISEC1 - Adversarial Prompting, RogueAI author, and Deep Learning attacks](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Hw8QuGxFyP4HWG8PQ11FX/1691725808031)]()
-# AISEC1 - Adversarial Prompting, RogueAI author, and Deep Learning attacks 
+[![AISEC1 - Adversarial Prompting, RogueAI author, and Deep Learning attacks](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Hw8QuGxFyP4HWG8PQ11FX/1691725808031)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hw8QuGxFyP4HWG8PQ11FX%22%2C%22flow%22%3Atrue%7D%7D)
+# AISEC1 - Adversarial Prompting, RogueAI author, and Deep Learning attacks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hw8QuGxFyP4HWG8PQ11FX%22%2C%22flow%22%3Atrue%7D%7D)
 Guided by OpenAI tools, unravel the mechanics of machine's mischief. Tread carefully, the knowledge you seek stands on a razor's edge. These security education materials are not jailbroken. 
 
 # Prompt

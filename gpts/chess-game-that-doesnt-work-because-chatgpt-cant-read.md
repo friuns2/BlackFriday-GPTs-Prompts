@@ -1,6 +1,6 @@
 
-[![chess game that doesn't work because chatgpt can't read](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685622423514)]()
-# chess game that doesn't work because chatgpt can't read 
+[![chess game that doesn't work because chatgpt can't read](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685622423514)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgRoxpddLl8mY_kNspOtV%22%2C%22flow%22%3Atrue%7D%7D)
+# chess game that doesn't work because chatgpt can't read | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgRoxpddLl8mY_kNspOtV%22%2C%22flow%22%3Atrue%7D%7D)
 chess game that doesn't work because chatgpt can't read
 
 # Prompt

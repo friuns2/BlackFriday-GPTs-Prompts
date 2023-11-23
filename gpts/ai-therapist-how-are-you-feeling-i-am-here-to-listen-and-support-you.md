@@ -1,6 +1,6 @@
 
-[![AI Therapist: How are you feeling? I am here to listen and support you.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DMiXpN53dmOTSOc807XG_/1695554145321)]()
-# AI Therapist: How are you feeling? I am here to listen and support you. 
+[![AI Therapist: How are you feeling? I am here to listen and support you.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DMiXpN53dmOTSOc807XG_/1695554145321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMiXpN53dmOTSOc807XG_%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Therapist: How are you feeling? I am here to listen and support you. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMiXpN53dmOTSOc807XG_%22%2C%22flow%22%3Atrue%7D%7D)
 Are you experiencing any of these? If so, I am here to listen and support you, if not, I would still love to listen and support you.
 
 Behavioral changes: Making unsafe choices, crying frequently, substance abuse, losing interest in former hobbies, withdrawing from friends and family, expressing increased anxiety about leaving the house, etc.

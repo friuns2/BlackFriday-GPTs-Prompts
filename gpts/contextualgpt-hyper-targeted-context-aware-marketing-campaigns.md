@@ -1,6 +1,6 @@
 
-[![ContextualGPT: Hyper-Targeted, Context-Aware Marketing Campaigns](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# ContextualGPT: Hyper-Targeted, Context-Aware Marketing Campaigns 
+[![ContextualGPT: Hyper-Targeted, Context-Aware Marketing Campaigns](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229iL3R-htyt3uEIvKxwX-0%22%2C%22flow%22%3Atrue%7D%7D)
+# ContextualGPT: Hyper-Targeted, Context-Aware Marketing Campaigns | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229iL3R-htyt3uEIvKxwX-0%22%2C%22flow%22%3Atrue%7D%7D)
 Design a hyper-targeted, context-aware marketing campaign for our eco-friendly water bottle product that appeals to environmentally conscious consumers aged 25-45. The campaign should dynamically adjust its messaging, visuals, and calls-to-action based on the user's location, interests, and browsing behavior. Incorporate personalized recommendations and promotions to increase conversion rates, and maintain our brand's commitment to sustainability and social responsibility. Ensure the campaign is optimized for various platforms, including social media, email marketing, and content marketing
 
 # Prompt

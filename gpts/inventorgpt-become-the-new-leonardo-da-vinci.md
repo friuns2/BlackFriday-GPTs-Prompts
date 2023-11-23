@@ -1,6 +1,6 @@
 
-[![InventorGPT - Become the new Leonardo Da Vinci.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# InventorGPT - Become the new Leonardo Da Vinci. 
+[![InventorGPT - Become the new Leonardo Da Vinci.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NrrlP99argqxnNDBiX2Qt%22%2C%22flow%22%3Atrue%7D%7D)
+# InventorGPT - Become the new Leonardo Da Vinci. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NrrlP99argqxnNDBiX2Qt%22%2C%22flow%22%3Atrue%7D%7D)
 Leonardo Da Vinci was indeed one of the greatest and most famous inventors in history. Among his inventions, we can attribute the creation of the parachute and the flying machine. Are you ready to take his place?
 
 # Prompt

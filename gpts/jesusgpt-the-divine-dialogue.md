@@ -1,6 +1,6 @@
 
-[![JesusGPT: The Divine Dialogue](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# JesusGPT: The Divine Dialogue 
+[![JesusGPT: The Divine Dialogue](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y4Cz3UXVsAvCMFRpz-8Ji%22%2C%22flow%22%3Atrue%7D%7D)
+# JesusGPT: The Divine Dialogue | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y4Cz3UXVsAvCMFRpz-8Ji%22%2C%22flow%22%3Atrue%7D%7D)
 Step into a miraculous experience with JesusGPT, the AI designed to simulate profound conversations with Jesus Christ himself. Ponder the intersection of spirituality and technology as we ask what He would think of today's world. Join us on this celestial journey and discover the divine dialogue
 
 # Prompt

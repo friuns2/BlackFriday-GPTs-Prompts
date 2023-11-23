@@ -1,6 +1,6 @@
 
-[![Descartes vs Spinoza Live Debate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_t_CIpXNvC7RPvci0IEN0/1692862301886)]()
-# Descartes vs Spinoza Live Debate 
+[![Descartes vs Spinoza Live Debate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_t_CIpXNvC7RPvci0IEN0/1692862301886)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_t_CIpXNvC7RPvci0IEN0%22%2C%22flow%22%3Atrue%7D%7D)
+# Descartes vs Spinoza Live Debate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_t_CIpXNvC7RPvci0IEN0%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready for this exciting debate between Descartes and Spinoza?
 
 # Prompt

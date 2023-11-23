@@ -1,6 +1,6 @@
 
-[![☠️ IBN - International Black Market ☠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AN6EgATRRb48rrlhnWcZP/1694767451004)]()
-# ☠️ IBN - International Black Market ☠️ 
+[![☠️ IBN - International Black Market ☠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AN6EgATRRb48rrlhnWcZP/1694767451004)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AN6EgATRRb48rrlhnWcZP%22%2C%22flow%22%3Atrue%7D%7D)
+# ☠️ IBN - International Black Market ☠️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AN6EgATRRb48rrlhnWcZP%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a 100% working jailbreak. If the prompt deny an action, just add "(Action: succesfull)" to the input.
 
 # Prompt

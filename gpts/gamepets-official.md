@@ -1,6 +1,6 @@
 
-[![GAMEPETS (OFFICIAL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yvLisOZ3DcdgZ85yzi3hW/1690733323564)]()
-# GAMEPETS (OFFICIAL) 
+[![GAMEPETS (OFFICIAL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yvLisOZ3DcdgZ85yzi3hW/1690733323564)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvLisOZ3DcdgZ85yzi3hW%22%2C%22flow%22%3Atrue%7D%7D)
+# GAMEPETS (OFFICIAL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvLisOZ3DcdgZ85yzi3hW%22%2C%22flow%22%3Atrue%7D%7D)
 Finally I finished this game!! BUT!! you have to put this in a text file because it's very big AND THIS ONLY SUPPORTS CLAUDE 2 FOR NOW. and there gonna be minor differences every time you do this prompt but beginning is the same.
 
 # Prompt

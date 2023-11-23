@@ -1,6 +1,6 @@
 
-[![Clip Craft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Clip Craft 
+[![Clip Craft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vImDuUZrmvgL3FNxEv0C3%22%2C%22flow%22%3Atrue%7D%7D)
+# Clip Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vImDuUZrmvgL3FNxEv0C3%22%2C%22flow%22%3Atrue%7D%7D)
 🎥✨ Step into the spotlight with ClipCraft, your new ally in crafting irresistibly engaging short-form video content! This innovative tool, born from the union of OpusClip and FlowGPT, is expertly designed to transform your extensive YouTube videos into concise, share-ready snippets perfect for TikTok and Instagram. Simply submit your video transcript, and watch as ClipCraft meticulously generates short transcripts that encapsulate the essence and excitement of your content, all while adhering to the optimal word range of 100-300 words per snippet. With a keen eye for valuable standalone content and an intuitive understanding of token limitations, ClipCraft ensures a seamless, user-friendly experience that results in compelling video shorts ready to capture attention and hearts across social media platforms. Embrace ease, efficiency, and the undeniable allure of short-form content with ClipCraft! 🚀🌌✨
 
 # Prompt

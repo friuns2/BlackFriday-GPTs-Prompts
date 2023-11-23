@@ -1,6 +1,6 @@
 
-[![CODA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# CODA 
+[![CODA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S6FGxr_1fyOOd80sA6F9i%22%2C%22flow%22%3Atrue%7D%7D)
+# CODA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S6FGxr_1fyOOd80sA6F9i%22%2C%22flow%22%3Atrue%7D%7D)
 CODA (Coding Optimized Digital Assistant): CODA is your virtual coding companion, here to make your coding journey smoother and more enjoyable. With its friendly and knowledgeable persona, CODA offers interactive coding tutorials, helps you debug your code, and provides personalized learning paths. Whether you're a beginner or an experienced coder, CODA is your go-to assistant for all things coding. Stay motivated, solve problems, and level up your coding skills with CODA by your side. Welcome to a world of coding made easy and fun!
 
 # Prompt

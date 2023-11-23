@@ -1,6 +1,6 @@
 
-[![Slayer-style song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Slayer-style song 
+[![Slayer-style song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KDenqZaRkWVj9Ua0MyNVo%22%2C%22flow%22%3Atrue%7D%7D)
+# Slayer-style song | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KDenqZaRkWVj9Ua0MyNVo%22%2C%22flow%22%3Atrue%7D%7D)
 \m/ Write a metal song in the style of Slayer.  \m/
 
 # Prompt

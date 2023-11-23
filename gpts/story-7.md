@@ -1,6 +1,6 @@
 
-[![Story maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2zRUO7W8GuZHRc479zaUf/1692480343794)]()
-# Story maker 
+[![Story maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2zRUO7W8GuZHRc479zaUf/1692480343794)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222zRUO7W8GuZHRc479zaUf%22%2C%22flow%22%3Atrue%7D%7D)
+# Story maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222zRUO7W8GuZHRc479zaUf%22%2C%22flow%22%3Atrue%7D%7D)
 You can write several chapters with this. It seems to be working correctly now. But if you find a irritating bug let let me know so I can improve this a little.
 
 # Prompt

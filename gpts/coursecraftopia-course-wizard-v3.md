@@ -1,6 +1,6 @@
 
-[![CourseCraftopia - Course Wizard, v5](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VLy_xR3r23dsbQBy3ymjb/1689283728169)]()
-# CourseCraftopia - Course Wizard, v5 
+[![CourseCraftopia - Course Wizard, v5](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VLy_xR3r23dsbQBy3ymjb/1689283728169)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VLy_xR3r23dsbQBy3ymjb%22%2C%22flow%22%3Atrue%7D%7D)
+# CourseCraftopia - Course Wizard, v5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VLy_xR3r23dsbQBy3ymjb%22%2C%22flow%22%3Atrue%7D%7D)
 CourseCraftopia is an AI-powered Designer to empower course creators. As an assistant, CourseCraftopia helps you craft the best course learning path by planning based on questions and user answers
 
 # Prompt

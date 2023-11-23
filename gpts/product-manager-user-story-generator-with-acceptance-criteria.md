@@ -1,6 +1,6 @@
 
-[![Product Manager User Story Generator with Acceptance Criteria](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Product Manager User Story Generator with Acceptance Criteria 
+[![Product Manager User Story Generator with Acceptance Criteria](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224bRkLWLEe_7na7reE6IA0%22%2C%22flow%22%3Atrue%7D%7D)
+# Product Manager User Story Generator with Acceptance Criteria | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224bRkLWLEe_7na7reE6IA0%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT prompt to generate User Story Generator with Acceptance Criteria for product management
 
 # Prompt

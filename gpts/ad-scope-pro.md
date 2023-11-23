@@ -1,6 +1,6 @@
 
-[![Ad Scope Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5sxzI1c3LSrgy-7f7aW9J/1695314910018)]()
-# Ad Scope Pro 
+[![Ad Scope Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5sxzI1c3LSrgy-7f7aW9J/1695314910018)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sxzI1c3LSrgy-7f7aW9J%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Scope Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sxzI1c3LSrgy-7f7aW9J%22%2C%22flow%22%3Atrue%7D%7D)
 AdScopePro is your trusted digital marketing companion, meticulously crafted to assist you in optimizing your advertising campaigns by delving deep into the world of audience targeting. With its expertise, AdScopePro provides you with the insights and strategies you need to reach the right people at the right time.
 
 # Prompt

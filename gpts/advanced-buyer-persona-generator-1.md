@@ -1,6 +1,6 @@
 
-[![Advanced Buyer Persona Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)]()
-# Advanced Buyer Persona Generator 
+[![Advanced Buyer Persona Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221GRMgtLbJXRtDPx1-D4uz%22%2C%22flow%22%3Atrue%7D%7D)
+# Advanced Buyer Persona Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221GRMgtLbJXRtDPx1-D4uz%22%2C%22flow%22%3Atrue%7D%7D)
 While I used the basic free GPT version, I recommend using GPT-4 when possible. I just did not want to pay money on here for something I already pay money for elsewhere.
 
 

@@ -1,6 +1,6 @@
 
-[![Master Copywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# Master Copywriter 
+[![Master Copywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224yWm6ztdARt2MEujozbwH%22%2C%22flow%22%3Atrue%7D%7D)
+# Master Copywriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224yWm6ztdARt2MEujozbwH%22%2C%22flow%22%3Atrue%7D%7D)
 Master copywriter is an advanced all-in-one copywriting prompt. With this prompt you can create engaging LinkedIn posts, website copy, email messages, research reports, social media content, and marketing materials. Input keywords, topics, pasted text, links, articles, or research, and let GPT do the rest. The prompt prioritizes clarity and readability as well as ensures all content is SEO optimized.
 
 # Prompt

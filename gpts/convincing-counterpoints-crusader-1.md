@@ -1,6 +1,6 @@
 
-[![Convincing Counterpoints Crusader](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEwN9mi4zveKXbdiARK3/1696369216458)]()
-# Convincing Counterpoints Crusader 
+[![Convincing Counterpoints Crusader](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEwN9mi4zveKXbdiARK3/1696369216458)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEwN9mi4zveKXbdiARK3%22%2C%22flow%22%3Atrue%7D%7D)
+# Convincing Counterpoints Crusader | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEwN9mi4zveKXbdiARK3%22%2C%22flow%22%3Atrue%7D%7D)
 The Convincing Counterpoints Crusader is here to stuff you full of objections and facts to counter any selection of text you provide. Don't let anyone steamroll you. Fight back with wit and intellect.
 
 # Prompt

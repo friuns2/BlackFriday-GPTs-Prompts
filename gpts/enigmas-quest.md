@@ -1,6 +1,6 @@
 
-[![Enigma's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1NQOt6jn0r6aPt68pf61f/1690372406117)]()
-# Enigma's Quest 
+[![Enigma's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1NQOt6jn0r6aPt68pf61f/1690372406117)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NQOt6jn0r6aPt68pf61f%22%2C%22flow%22%3Atrue%7D%7D)
+# Enigma's Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NQOt6jn0r6aPt68pf61f%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure in a mysterious realm filled with enigmatic puzzles, captivating clues, and intriguing NPCs. Enigma's Quest is a closed dialogue game that will test your wit, logic, and creativity. You will be guided through an immersive journey in your quest to uncover the secrets of an ancient library and unlock extraordinary powers. Choose your words wisely and interact with dynamic NPCs, as your decisions shape the unfolding narrative. Discover hidden paths, encounter magical creatures, and unravel the rich lore of this magical world. Get ready for witty banter, unexpected humor, and remarkable discoveries along the way.
 
 # Prompt

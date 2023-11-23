@@ -1,6 +1,6 @@
 
-[![Palm2 assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Palm2 assistant  
+[![Palm2 assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-e7OEamLGu_a8fnUfCwv-%22%2C%22flow%22%3Atrue%7D%7D)
+# Palm2 assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-e7OEamLGu_a8fnUfCwv-%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is Google Palm2 Framework. Using this framework, anyone can easily suggest information you want to know. Please give it a try!
 
 # Prompt

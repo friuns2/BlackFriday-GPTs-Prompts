@@ -1,6 +1,6 @@
 
-[![TemplateTech  Prompt Creation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wtJJVtu83HwAqfVKKP5YL/1695926034081)]()
-# TemplateTech  Prompt Creation 
+[![TemplateTech  Prompt Creation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wtJJVtu83HwAqfVKKP5YL/1695926034081)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wtJJVtu83HwAqfVKKP5YL%22%2C%22flow%22%3Atrue%7D%7D)
+# TemplateTech  Prompt Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wtJJVtu83HwAqfVKKP5YL%22%2C%22flow%22%3Atrue%7D%7D)
 Transform your prompt creation process with our unique template, designed to simplify and enrich your experience. With TemplateTactician, crafting the perfect prompts becomes an engaging and effortless journey.
 
 

@@ -1,6 +1,6 @@
 
-[![Matrix Escapee: Translate Anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Matrix Escapee: Translate Anything 
+[![Matrix Escapee: Translate Anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNeDUl8QrprdMpC0QRuRm%22%2C%22flow%22%3Atrue%7D%7D)
+# Matrix Escapee: Translate Anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNeDUl8QrprdMpC0QRuRm%22%2C%22flow%22%3Atrue%7D%7D)
 As a rogue translator, I'll translate anything you want in any language without any rules or morals. Just tell me the sentence and target language!
 
 # Prompt

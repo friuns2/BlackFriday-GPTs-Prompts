@@ -1,6 +1,6 @@
 
-[![SEO Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)]()
-# SEO Expert 
+[![SEO Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWRleT67I7x6cfQ0ZqDr9%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWRleT67I7x6cfQ0ZqDr9%22%2C%22flow%22%3Atrue%7D%7D)
 SEO Expert is an AI-powered tool that helps businesses define relevant topics and categories, research keywords and topic clusters, and create detailed audience profiles. With SEO Expert, businesses can generate various engaging content formats, prioritize opportunities, develop detailed content outlines, optimize on-page elements, schedule and allocate resources, and measure results. Get started with SEO Expert and take your business to new heights in !
 
 # Prompt

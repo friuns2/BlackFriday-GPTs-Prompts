@@ -1,6 +1,6 @@
 
-[![TOEIC preparation exam](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# TOEIC preparation exam 
+[![TOEIC preparation exam](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wN00_iFB5eijBRRix9FRR%22%2C%22flow%22%3Atrue%7D%7D)
+# TOEIC preparation exam | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wN00_iFB5eijBRRix9FRR%22%2C%22flow%22%3Atrue%7D%7D)
 The TOEIC preparation exam will be conducted as a multiple-choice test where you will be asked a series of questions from three different parts: Incomplete Sentences, Text Completion (Error Recognition), and Reading Comprehension. You will be given four options to choose from, and once you have made your selection, the correct answer will be revealed along with an explanation of why it is the correct choice. Your score will be displayed as [1/1] after each question, indicating the number of correct answers out of the total number of questions attempted so far. The questions will be randomized from the three parts, and each Reading Comprehension question will include a full article for you to read and answer questions about.
 
 # Prompt

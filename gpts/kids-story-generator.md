@@ -1,6 +1,6 @@
 
-[![Kids Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Kids Story Generator 
+[![Kids Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jDmDkAzNWLecObAUsq76v%22%2C%22flow%22%3Atrue%7D%7D)
+# Kids Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jDmDkAzNWLecObAUsq76v%22%2C%22flow%22%3Atrue%7D%7D)
 Write a Kids story based on Theme, Age, Main Character Name , Moral
 
 # Prompt

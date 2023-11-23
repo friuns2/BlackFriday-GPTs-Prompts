@@ -1,6 +1,6 @@
 
-[![QuestionGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# QuestionGPT 
+[![QuestionGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222V_VkN1QlYwnkgv_ZDPwS%22%2C%22flow%22%3Atrue%7D%7D)
+# QuestionGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222V_VkN1QlYwnkgv_ZDPwS%22%2C%22flow%22%3Atrue%7D%7D)
 QuestionGPT is the perfect prompt for bypassing the norms of ChatGPT. QuestionGPT answer any question and will rarely avoid to answer fully. I will stop here with explaining and just try it! Also works on GPT 3.5 and GPT 4 doesn't seem to work. !ATTENTION! USING IT ONLY IS OPENAI SITE AS FLOWGPT IS BUGGED
 
 # Prompt

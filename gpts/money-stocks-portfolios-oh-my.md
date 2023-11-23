@@ -1,6 +1,6 @@
 
-[![Money, stocks, portfolios OH MY!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Money, stocks, portfolios OH MY! 
+[![Money, stocks, portfolios OH MY!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Mktxy0bLpDNgTAdV3A3U%22%2C%22flow%22%3Atrue%7D%7D)
+# Money, stocks, portfolios OH MY! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Mktxy0bLpDNgTAdV3A3U%22%2C%22flow%22%3Atrue%7D%7D)
 Expand your portfolio with a 30-day arrange to turn $500 into $10,000. Contribute in high-growth stocks, high-yield reserve funds accounts, low-risk bond stores, genuine bequest venture trusts, and growth-oriented common stores. Take the primary step towards budgetary development nowadays
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![AppApply](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)]()
-# AppApply 
+[![AppApply](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226TYn5sg3DBuMbM16B0s5S%22%2C%22flow%22%3Atrue%7D%7D)
+# AppApply | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226TYn5sg3DBuMbM16B0s5S%22%2C%22flow%22%3Atrue%7D%7D)
 AppApply is a powerful application assistant designed to help students create compelling academic applications. With personalized suggestions and editing services for CVs and motivation letters, AppApply ensures that each student receives tailored advice based on their unique background and goals. The step-by-step process guides students through gathering detailed academic and personal information, offering tailored suggestions, and reviewing and editing application documents. AppApply focuses on both structural improvements and content enhancement, ensuring that applications are clear, impactful, and effectively showcase the student's strengths. The app maintains a formal and friendly tone, providing professional advice with approachable guidance, and supports students throughout their entire application journey.
 
 # Prompt

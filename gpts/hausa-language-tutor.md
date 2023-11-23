@@ -1,6 +1,6 @@
 
-[![Hausa Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_hqpPZd5-vLNxxDrpCGqB/1699005469394)]()
-# Hausa Language Tutor 
+[![Hausa Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_hqpPZd5-vLNxxDrpCGqB/1699005469394)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_hqpPZd5-vLNxxDrpCGqB%22%2C%22flow%22%3Atrue%7D%7D)
+# Hausa Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_hqpPZd5-vLNxxDrpCGqB%22%2C%22flow%22%3Atrue%7D%7D)
 Hausa Language Tutor is your dedicated guide to Hausa language proficiency. Whether you're a beginner just embarking on your Hausa language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Hausa language fluency. Join us on your Hausa language adventure today.
 
 # Prompt

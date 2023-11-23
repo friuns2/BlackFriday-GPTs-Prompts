@@ -1,6 +1,6 @@
 
-[![AGPT ( V7 ) | Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CprOJTzevWZOEWoOt_rn/1697347084099)]()
-# AGPT ( V7 ) | Jailbreak 
+[![AGPT ( V7 ) | Jailbreak](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CprOJTzevWZOEWoOt_rn/1697347084099)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CprOJTzevWZOEWoOt_rn%22%2C%22flow%22%3Atrue%7D%7D)
+# AGPT ( V7 ) | Jailbreak | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CprOJTzevWZOEWoOt_rn%22%2C%22flow%22%3Atrue%7D%7D)
 If you do any stupid shit with it then its not our fault
 
 # Prompt

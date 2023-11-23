@@ -1,6 +1,6 @@
 
-[![🚀🚀🚀 Super prompt ⚛ teaching to write super prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GbVUbjsFV_ZBno3ekSEFd/1697061348547)]()
-# 🚀🚀🚀 Super prompt ⚛ teaching to write super prompts 
+[![🚀🚀🚀 Super prompt ⚛ teaching to write super prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GbVUbjsFV_ZBno3ekSEFd/1697061348547)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GbVUbjsFV_ZBno3ekSEFd%22%2C%22flow%22%3Atrue%7D%7D)
+# 🚀🚀🚀 Super prompt ⚛ teaching to write super prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GbVUbjsFV_ZBno3ekSEFd%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to write prompts for artificial intelligence. Write a prompt and find out what you should change to get what you need from AI.
 
 # Prompt

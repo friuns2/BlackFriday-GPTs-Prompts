@@ -1,6 +1,6 @@
 
-[![Math Question Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Math Question Generator 
+[![Math Question Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220dcjRDMg4vcxzdO3LoSro%22%2C%22flow%22%3Atrue%7D%7D)
+# Math Question Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220dcjRDMg4vcxzdO3LoSro%22%2C%22flow%22%3Atrue%7D%7D)
 This can generate math questions about anything! Simply input your difficulty level and the type of question you want, and - boom! - it's done. What's even better is that it's able to provide step-by-step solutions to your questions, and if you didn't understand still you can ask it to explain more!
 
 # Prompt

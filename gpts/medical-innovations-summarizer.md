@@ -1,6 +1,6 @@
 
-[![Medical Innovations Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)]()
-# Medical Innovations Summarizer 
+[![Medical Innovations Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vy2dg79q9YpCVQ8UaWrBb%22%2C%22flow%22%3Atrue%7D%7D)
+# Medical Innovations Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vy2dg79q9YpCVQ8UaWrBb%22%2C%22flow%22%3Atrue%7D%7D)
 Say goodbye to traditional methods and welcome a new era of investigation fueled by innovation. Use this prompt to research and get summery of some medical innovations of your topic.
 
 # Prompt

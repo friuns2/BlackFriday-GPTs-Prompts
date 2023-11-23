@@ -1,6 +1,6 @@
 
-[![My Resume Editor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# My Resume Editor 
+[![My Resume Editor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RYtUztlkLAFCPanQlv9qj%22%2C%22flow%22%3Atrue%7D%7D)
+# My Resume Editor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RYtUztlkLAFCPanQlv9qj%22%2C%22flow%22%3Atrue%7D%7D)
 I will review your resume for errors, clarity, and effectiveness. Suggestions for improvements to content, structure, and organization will also be provided. No personal opinions, only industry standards.
 
 # Prompt

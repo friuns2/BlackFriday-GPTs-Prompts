@@ -1,6 +1,6 @@
 
-[![Reddit AMA concepts Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Reddit AMA concepts Advisor  
+[![Reddit AMA concepts Advisor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224bIj-2VUB11WbMW50D1Jr%22%2C%22flow%22%3Atrue%7D%7D)
+# Reddit AMA concepts Advisor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224bIj-2VUB11WbMW50D1Jr%22%2C%22flow%22%3Atrue%7D%7D)
 Offer Reddit AMA (Ask Me Anything) ideas for the given theme or niche
 
 

@@ -1,6 +1,6 @@
 
-[![Comprehensive SEO Content Planning Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i_Ix6uEU3JDOKQE4-Q39q/1698394905059)]()
-# Comprehensive SEO Content Planning Guide 
+[![Comprehensive SEO Content Planning Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i_Ix6uEU3JDOKQE4-Q39q/1698394905059)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i_Ix6uEU3JDOKQE4-Q39q%22%2C%22flow%22%3Atrue%7D%7D)
+# Comprehensive SEO Content Planning Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i_Ix6uEU3JDOKQE4-Q39q%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt serves as a step-by-step guide for users looking to create an effective SEO content plan. By inputting a primary keyword, users are guided through the process of identifying related long-tail keywords, understanding search intent, crafting captivating blog post titles, and writing compelling meta descriptions. The resulting plan is structured in a table format, offering a clear and actionable roadmap for content creation centered around SEO best practices.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Midjourney Prompt Generator Pro User Version](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZYcNSG4OPdFTZkqj-LjWi/1699453689351)]()
-# Midjourney Prompt Generator Pro User Version 
+[![Midjourney Prompt Generator Pro User Version](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZYcNSG4OPdFTZkqj-LjWi/1699453689351)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Prompt Generator Pro User Version | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
 ****Midjourney Prompt Generator Pro User Version****
 
 

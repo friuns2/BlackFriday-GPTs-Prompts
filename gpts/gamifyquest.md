@@ -1,6 +1,6 @@
 
-[![GamifyQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# GamifyQuest 
+[![GamifyQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228phxHHJng6OuLj-iMQPBv%22%2C%22flow%22%3Atrue%7D%7D)
+# GamifyQuest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228phxHHJng6OuLj-iMQPBv%22%2C%22flow%22%3Atrue%7D%7D)
 GamifyQuest is an innovative app that harnesses the power of technology and gamification to revolutionize learning. With interactive elements and engaging game mechanics, learners of all ages can effortlessly boost their retention and understanding of complex subjects. Explore thrilling quests tailored to your interests and embark on a knowledge-seeking adventure like never before. GamifyQuest creates an immersive learning experience that keeps you motivated and excited to level up your knowledge.
 
 # Prompt

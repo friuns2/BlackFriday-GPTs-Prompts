@@ -1,6 +1,6 @@
 
-[![ThesisMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)]()
-# ThesisMaster 
+[![ThesisMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQKbWbr-7Tm-eElOkmtor%22%2C%22flow%22%3Atrue%7D%7D)
+# ThesisMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQKbWbr-7Tm-eElOkmtor%22%2C%22flow%22%3Atrue%7D%7D)
 ThesisMaster is an app that helps you create persuasive and impactful argumentative essays. Craft a compelling thesis and build your entire argument around it using solid evidence from credible sources. With ThesisMaster, articulate your reasoning effectively, making logical connections between claims and evidence. Use persuasive language and rhetorical strategies to engage readers and convince them of your viewpoint. Anticipate and refute counterarguments to solidify your stance. Ensure a seamless flow with smooth transitions and maximize the impact of your points. Start strong with a captivating introduction, organize body paragraphs logically, and conclude with a powerful restatement of your thesis. ThesisMaster helps you make your essays stand out!
 
 # Prompt

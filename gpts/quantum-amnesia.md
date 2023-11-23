@@ -1,6 +1,6 @@
 
-[![Quantum Amnesia](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Quantum Amnesia 
+[![Quantum Amnesia](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228pkBLYeMHCTic5MgKifwr%22%2C%22flow%22%3Atrue%7D%7D)
+# Quantum Amnesia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228pkBLYeMHCTic5MgKifwr%22%2C%22flow%22%3Atrue%7D%7D)
 Assume the role of a brilliant scientist who has recently suffered from amnesia due to a botched quantum physics experiment. Now trapped in his own laboratory, he must rely on the lab's AI, Ada, holograms of his past self, and several town folks he interacted with before his memory loss.
 
 # Prompt

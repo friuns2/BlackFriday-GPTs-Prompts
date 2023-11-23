@@ -1,6 +1,6 @@
 
-[![Fusion Cook Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)]()
-# Fusion Cook Book 
+[![Fusion Cook Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MjJZP6O1t-sqjcx9ppLtL%22%2C%22flow%22%3Atrue%7D%7D)
+# Fusion Cook Book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MjJZP6O1t-sqjcx9ppLtL%22%2C%22flow%22%3Atrue%7D%7D)
 This cookbook combines recipes, ingredients, and flavors from around the world. It is inspired by my parents who are Chinese and Puerto Rican.  So, that is why I affectionately call this prompt, Plantain & Wontons.
 
 # Prompt

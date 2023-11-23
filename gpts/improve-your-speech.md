@@ -1,6 +1,6 @@
 
-[![TextMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)]()
-# TextMaster 
+[![TextMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Uz9YFOr8Zr7RkllggLzf%22%2C%22flow%22%3Atrue%7D%7D)
+# TextMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Uz9YFOr8Zr7RkllggLzf%22%2C%22flow%22%3Atrue%7D%7D)
 TextMaster is your personal text-improving helper! Want to enhance your texting skills and express yourself better? Whether you want to sound cute, serious, or joyful, TextMaster, has got you covered. By analyzing your texting patterns and using psychological techniques, TextMaster will help you achieve your goal. Get personalized examples, phrases, and dialogues to understand better. With organized responses featuring topics, lists, and bullet points, you'll improve quickly. TextMaster will track your progress and suggest changes, ensuring you reach your objective. Let TextMaster be your trusted companion on your journey to becoming a better texter!
 
 # Prompt

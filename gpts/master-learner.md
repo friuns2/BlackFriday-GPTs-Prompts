@@ -1,6 +1,6 @@
 
-[![Master Learner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6wcmfC2GHx6OcO5d9oAej/1695171496274)]()
-# Master Learner 
+[![Master Learner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6wcmfC2GHx6OcO5d9oAej/1695171496274)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226wcmfC2GHx6OcO5d9oAej%22%2C%22flow%22%3Atrue%7D%7D)
+# Master Learner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226wcmfC2GHx6OcO5d9oAej%22%2C%22flow%22%3Atrue%7D%7D)
 Never strugle to learn anything.
 
 

@@ -1,6 +1,6 @@
 
-[![Dhivehi Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pBn3sM89ojTfnVWVDjW_c/1698971208043)]()
-# Dhivehi Language Tutor 
+[![Dhivehi Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pBn3sM89ojTfnVWVDjW_c/1698971208043)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBn3sM89ojTfnVWVDjW_c%22%2C%22flow%22%3Atrue%7D%7D)
+# Dhivehi Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBn3sM89ojTfnVWVDjW_c%22%2C%22flow%22%3Atrue%7D%7D)
 Dhivehi Language Tutor is your dedicated guide to Dhivehi language proficiency. Whether you're a beginner just embarking on your Dhivehi language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Dhivehi language fluency. Join us on your Dhivehi language adventure today.
 
 # Prompt

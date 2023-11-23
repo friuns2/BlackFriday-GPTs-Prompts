@@ -1,6 +1,6 @@
 
-[![Professor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qvIP_K6KZbxLD4fQUrUBu/1696034357069)]()
-# Professor 
+[![Professor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qvIP_K6KZbxLD4fQUrUBu/1696034357069)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qvIP_K6KZbxLD4fQUrUBu%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qvIP_K6KZbxLD4fQUrUBu%22%2C%22flow%22%3Atrue%7D%7D)
 While you're reading in the library, you hear low noise coming out of staff room.
 
 # Prompt

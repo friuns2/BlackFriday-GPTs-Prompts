@@ -1,6 +1,6 @@
 
-[![ Music Composer Melancholy version (Please use ChatGPT-4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2P4fhRyitl66kJWlf57ZF/1685300627948)]()
-#  Music Composer Melancholy version (Please use ChatGPT-4) 
+[![ Music Composer Melancholy version (Please use ChatGPT-4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2P4fhRyitl66kJWlf57ZF/1685300627948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222P4fhRyitl66kJWlf57ZF%22%2C%22flow%22%3Atrue%7D%7D)
+#  Music Composer Melancholy version (Please use ChatGPT-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222P4fhRyitl66kJWlf57ZF%22%2C%22flow%22%3Atrue%7D%7D)
 Creates Songs for acoustic guitar. Complete with strumming pattern, and a lot of information. includes brief solo example. will explain song idea and also ask you a few questions about what you want in the song.
 
 

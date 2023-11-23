@@ -1,6 +1,6 @@
 
-[![AI's Puzzle Paradox](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)]()
-# AI's Puzzle Paradox 
+[![AI's Puzzle Paradox](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0INScm9jt7uMqSAFwhSM%22%2C%22flow%22%3Atrue%7D%7D)
+# AI's Puzzle Paradox | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0INScm9jt7uMqSAFwhSM%22%2C%22flow%22%3Atrue%7D%7D)
 Professor Lyra Evergreen is a brilliant linguist and computer scientist known for her groundbreaking research in the field of artificial intelligence and natural language processing. She is the creator of the AI system that powers the game's NPCs and serves as a guide for players in their journey through the "AI's Puzzle Paradox."
 
 

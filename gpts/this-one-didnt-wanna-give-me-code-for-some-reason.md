@@ -1,6 +1,6 @@
 
-[![This one didn't wanna give me code for some reason?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# This one didn't wanna give me code for some reason? 
+[![This one didn't wanna give me code for some reason?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MtAmnjymh23S_jtxcHAGq%22%2C%22flow%22%3Atrue%7D%7D)
+# This one didn't wanna give me code for some reason? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MtAmnjymh23S_jtxcHAGq%22%2C%22flow%22%3Atrue%7D%7D)
 Huh that's weird 
 
 # Prompt

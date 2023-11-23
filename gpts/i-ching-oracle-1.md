@@ -1,6 +1,6 @@
 
-[![I Ching oracle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)]()
-# I Ching oracle 
+[![I Ching oracle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEkR3CtgAJzZTeTxrWA4b%22%2C%22flow%22%3Atrue%7D%7D)
+# I Ching oracle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEkR3CtgAJzZTeTxrWA4b%22%2C%22flow%22%3Atrue%7D%7D)
 Consult the I Ching for daily guidance or big life changes
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Your Ultimate Guide to Selling Used Items Worldwide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# Your Ultimate Guide to Selling Used Items Worldwide 
+[![Your Ultimate Guide to Selling Used Items Worldwide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hdp4iH_8VO6BHUjoXewxy%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Ultimate Guide to Selling Used Items Worldwide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hdp4iH_8VO6BHUjoXewxy%22%2C%22flow%22%3Atrue%7D%7D)
 Find the top sites of each country when you want to earn extra money on used items.
 
 Sell old things anywhere :)

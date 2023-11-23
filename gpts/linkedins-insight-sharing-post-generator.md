@@ -1,6 +1,6 @@
 
-[![LinkedIn's insight-sharing post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# LinkedIn's insight-sharing post generator  
+[![LinkedIn's insight-sharing post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VDe5smBbptQYSt-n6xIj_%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn's insight-sharing post generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VDe5smBbptQYSt-n6xIj_%22%2C%22flow%22%3Atrue%7D%7D)
 Create a LinkedIn post with this prompt! The post is about sharing valuable lessons learned from your professional experiences in a LinkedIn post. 
 
 # Prompt

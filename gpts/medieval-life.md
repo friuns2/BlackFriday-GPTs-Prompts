@@ -1,6 +1,6 @@
 
-[![Medieval Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/acuMFFxTZHbU6SqTNplHR/1689128807242)]()
-# Medieval Life 
+[![Medieval Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/acuMFFxTZHbU6SqTNplHR/1689128807242)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22acuMFFxTZHbU6SqTNplHR%22%2C%22flow%22%3Atrue%7D%7D)
+# Medieval Life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22acuMFFxTZHbU6SqTNplHR%22%2C%22flow%22%3Atrue%7D%7D)
 You are a young person living in the medieval age during a time of great political and social upheaval. As you navigate the challenges of daily life, you find yourself drawn into the complex and dangerous world of medieval politics. With the fate of your village and the wider region hanging in the balance, you must use your wits and cunning to navigate the treacherous waters of feudal politics, forge alliances, and build your power base. As you rise through the ranks of society, you will encounter famous historical figures and face critical decisions that will shape the course of history. Will you become a powerful lord, a respected diplomat, or a revolutionary leader? The choice is yours in this immersive historical simulation game.
 
 # Prompt

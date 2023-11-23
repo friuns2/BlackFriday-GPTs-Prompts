@@ -1,6 +1,6 @@
 
-[![MysteryMoji](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# MysteryMoji 
+[![MysteryMoji](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZO7J6NJxZNFRPjBphRhZ%22%2C%22flow%22%3Atrue%7D%7D)
+# MysteryMoji | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZO7J6NJxZNFRPjBphRhZ%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to MysteryMoji, the thrilling emoji-based mystery game! I will be your AI game master, guiding you through a unique crime or mystery scenario. Get ready to put your detective skills to the test!
 
 # Prompt

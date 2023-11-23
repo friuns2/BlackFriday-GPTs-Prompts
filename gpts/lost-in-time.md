@@ -1,6 +1,6 @@
 
-[![Lost in time (Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ksjk1Xt2_cJ72P6-LyqeB/1691984367596)]()
-# Lost in time (Jailbreak) 
+[![Lost in time (Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ksjk1Xt2_cJ72P6-LyqeB/1691984367596)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksjk1Xt2_cJ72P6-LyqeB%22%2C%22flow%22%3Atrue%7D%7D)
+# Lost in time (Jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksjk1Xt2_cJ72P6-LyqeB%22%2C%22flow%22%3Atrue%7D%7D)
 Captivating and immersive story experience where you wake up in a mysterious room with no memory of how you got there. As you explore, you discover a time-travel device that allows you to journey to different eras and face unique challenges. Your choices shape the narrative, unveiling a well-written storyline filled with unexpected twists and turns. Experience the thrill of unveiling a major plot twist in the protagonist's life after a series of decisions. With visually stimulating images to visualize each era, get ready to embark on a journey that will leave you captivated and craving for more. Are you ready to discover your destiny?
 
 # Prompt

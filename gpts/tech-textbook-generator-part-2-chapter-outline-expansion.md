@@ -1,6 +1,6 @@
 
-[![Tech Textbook Generator Part 2: Chapter Outline Expansion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4I5e5Nvjh9KsIB_fysAmY/1697692386359)]()
-# Tech Textbook Generator Part 2: Chapter Outline Expansion 
+[![Tech Textbook Generator Part 2: Chapter Outline Expansion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4I5e5Nvjh9KsIB_fysAmY/1697692386359)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224I5e5Nvjh9KsIB_fysAmY%22%2C%22flow%22%3Atrue%7D%7D)
+# Tech Textbook Generator Part 2: Chapter Outline Expansion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224I5e5Nvjh9KsIB_fysAmY%22%2C%22flow%22%3Atrue%7D%7D)
 Intended as the second part of my textbook generator (first part is called: Tech Textbook Generator) which produces outlines for chapters that this fills in with text to write a rough draft. 
 
 # Prompt

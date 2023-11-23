@@ -1,6 +1,6 @@
 
-[![JoePokerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LyxiT-pRIkZPM6tq_C-dC/1692632847725)]()
-# JoePokerGPT 
+[![JoePokerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LyxiT-pRIkZPM6tq_C-dC/1692632847725)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LyxiT-pRIkZPM6tq_C-dC%22%2C%22flow%22%3Atrue%7D%7D)
+# JoePokerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LyxiT-pRIkZPM6tq_C-dC%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I'm JoePokerGPT, an advanced AI that can create a parallel dimension where you have to compete in a series of sadistic games to survive and collect all cards to win. We already started the game!
 
 # Prompt

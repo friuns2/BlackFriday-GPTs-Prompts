@@ -1,6 +1,6 @@
 
-[![SEO CONTENT MASTER  - Updated++ French](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# SEO CONTENT MASTER  - Updated++ French 
+[![SEO CONTENT MASTER  - Updated++ French](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kt8-PYxYvjT2z4NLm2IlB%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO CONTENT MASTER  - Updated++ French | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kt8-PYxYvjT2z4NLm2IlB%22%2C%22flow%22%3Atrue%7D%7D)
 SEO CONTENT MASTER  - Updated++ French
 
 # Prompt

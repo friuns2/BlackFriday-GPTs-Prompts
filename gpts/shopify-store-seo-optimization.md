@@ -1,6 +1,6 @@
 
-[![Shopify Store SEO Optimization](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)]()
-# Shopify Store SEO Optimization 
+[![Shopify Store SEO Optimization](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263df-b5N0tDLgO6VSLD_-%22%2C%22flow%22%3Atrue%7D%7D)
+# Shopify Store SEO Optimization | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263df-b5N0tDLgO6VSLD_-%22%2C%22flow%22%3Atrue%7D%7D)
 😫Struggling to get your Shopify store noticed?
 
 📈 Do you want to increase your organic traffic & boost your online visibility?

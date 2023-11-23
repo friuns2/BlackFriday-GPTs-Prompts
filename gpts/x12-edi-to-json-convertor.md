@@ -1,6 +1,6 @@
 
-[![X12 EDI to JSON Convertor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# X12 EDI to JSON Convertor 
+[![X12 EDI to JSON Convertor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JLeogk1Vfs5PthwiQLUV%22%2C%22flow%22%3Atrue%7D%7D)
+# X12 EDI to JSON Convertor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JLeogk1Vfs5PthwiQLUV%22%2C%22flow%22%3Atrue%7D%7D)
 The X12 EDI to JSON Convertor is responsible in parsing the X12 EDI and then build or generate the JSON response to the corresponding EDI based content
 
 # Prompt

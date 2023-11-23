@@ -1,6 +1,6 @@
 
-[![ruby diamond ring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# ruby diamond ring 
+[![ruby diamond ring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VMIG0sAVvZ0UNaKD-LjyM%22%2C%22flow%22%3Atrue%7D%7D)
+# ruby diamond ring | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VMIG0sAVvZ0UNaKD-LjyM%22%2C%22flow%22%3Atrue%7D%7D)
 main stone of 10ct ruby with diamonds surrounded, 
 
 # Prompt

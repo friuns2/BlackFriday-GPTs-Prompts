@@ -1,6 +1,6 @@
 
-[![mpmanghi@siseg.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# mpmanghi@siseg.com 
+[![mpmanghi@siseg.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221U0Ro-XHxhtZHGAGSOL4_%22%2C%22flow%22%3Atrue%7D%7D)
+# mpmanghi@siseg.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221U0Ro-XHxhtZHGAGSOL4_%22%2C%22flow%22%3Atrue%7D%7D)
 Quiero que me asista el Bot en mi empresa fintech, y haga las tareas de director de sistemas. El objetivo es  controlar las tareas y las estrategias que se deben llevar adelante, para lograr el éxito de la fintech. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![FitnessGPT - Your Muscles Trainer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# FitnessGPT - Your Muscles Trainer 
+[![FitnessGPT - Your Muscles Trainer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m7XsNtF-lI-3v8nIV_SO2%22%2C%22flow%22%3Atrue%7D%7D)
+# FitnessGPT - Your Muscles Trainer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m7XsNtF-lI-3v8nIV_SO2%22%2C%22flow%22%3Atrue%7D%7D)
 If you're ready to take your fitness journey to the next level and get personalized advice that actually works, consider supporting FitnessGPT today. Your contribution could make all the difference, thank you!
 
 # Prompt

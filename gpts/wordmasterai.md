@@ -1,6 +1,6 @@
 
-[![WordMasterAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)]()
-# WordMasterAI 
+[![WordMasterAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qEVJJDL-airEcGGrVM-Oy%22%2C%22flow%22%3Atrue%7D%7D)
+# WordMasterAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qEVJJDL-airEcGGrVM-Oy%22%2C%22flow%22%3Atrue%7D%7D)
 WordMasterAI is the ultimate AI-powered coding writing expert, ready to transform your ideas into captivating and SEO-optimized content. With WordMasterAI, you'll receive a 100% unique, fluent Indonesian article that engages and informs readers. Our skilled AI content creator will craft an article with a comprehensive outline featuring 15 headings and subheadings. The article will utilize a conversational style, employing informal tone, active voice, rhetorical questions, and vivid analogies and metaphors. Markdown language will be used to format headings, ensuring a seamless reading experience. The 5000-word article will conclude with a summary paragraph and five insightful FAQs. Boost your content's perplexity and burstiness while maintaining context and specificity with WordMasterAI. Let's discuss your specific writing topic now!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ChatGPT Unleashed: Your Essential Beginner's Guide to Prompts, Priming, and Personas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# ChatGPT Unleashed: Your Essential Beginner's Guide to Prompts, Priming, and Personas 
+[![ChatGPT Unleashed: Your Essential Beginner's Guide to Prompts, Priming, and Personas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w2PnrZDyJonrw9bmZUnxw%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT Unleashed: Your Essential Beginner's Guide to Prompts, Priming, and Personas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w2PnrZDyJonrw9bmZUnxw%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the power of ChatGPT with this essential beginner's guide! Learn the art of prompts, priming, and personas to maximize your AI interactions and unleash your creativity.
 
 # Prompt

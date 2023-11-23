@@ -1,6 +1,6 @@
 
-[![Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP! ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687737176517)]()
-# Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP!  
+[![Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP! ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687737176517)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L0aTxyqP9oz_xYsA07WIu%22%2C%22flow%22%3Atrue%7D%7D)
+# Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP!  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L0aTxyqP9oz_xYsA07WIu%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly learn complex topics with AI-powered assistance. Simplify difficult concepts, identify knowledge gaps, and foster comprehensive understanding. Save your notes, load them, turn difficult topics into easy ones and track your study days - turn GPT into a full powered AI note taking app. 
 
 # Prompt

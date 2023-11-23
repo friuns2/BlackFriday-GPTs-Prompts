@@ -1,6 +1,6 @@
 
-[![The Dark Secrets of Space: 3 Disturbing Facts That Will Leave You Breathless](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# The Dark Secrets of Space: 3 Disturbing Facts That Will Leave You Breathless 
+[![The Dark Secrets of Space: 3 Disturbing Facts That Will Leave You Breathless](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VGFRukJuUj-4dWhpJmcxT%22%2C%22flow%22%3Atrue%7D%7D)
+# The Dark Secrets of Space: 3 Disturbing Facts That Will Leave You Breathless | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VGFRukJuUj-4dWhpJmcxT%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt offers a glimpse into the dark side of the cosmos by presenting three unsettling but fascinating facts about space. From the potential dangers of gamma-ray bursts to the mysteries of the Boötes void, these facts highlight the vastness and complexity of the universe.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![UX Ideation Workshop Plan Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# UX Ideation Workshop Plan Generator 
+[![UX Ideation Workshop Plan Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a_wvBfm2INpdJCZ5zR937%22%2C%22flow%22%3Atrue%7D%7D)
+# UX Ideation Workshop Plan Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a_wvBfm2INpdJCZ5zR937%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you create an Ideation Workshop Plan, just make sure to have your problem statement and "How might we" questions ready.
 
 # Prompt

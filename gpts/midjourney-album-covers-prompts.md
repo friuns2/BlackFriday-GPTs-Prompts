@@ -1,6 +1,6 @@
 
-[![Midjourney Album Covers Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vClJQwTwfnxh3IZgkObp1/1692723750742)]()
-# Midjourney Album Covers Prompts 
+[![Midjourney Album Covers Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vClJQwTwfnxh3IZgkObp1/1692723750742)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vClJQwTwfnxh3IZgkObp1%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Album Covers Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vClJQwTwfnxh3IZgkObp1%22%2C%22flow%22%3Atrue%7D%7D)
 Create captivating album covers with Midjourney's AlbumPrompt. Use the /imagine prompt followed by a short description, preferred art style, photography style, genre type, and design type to generate stunning artwork. Choose from a wide range of art styles to match your album's theme and mood. Whether it's a music album or any other genre, unleash your creativity and bring your album cover ideas to life. Get inspired and design unique album covers with Midjourney!
 
 # Prompt

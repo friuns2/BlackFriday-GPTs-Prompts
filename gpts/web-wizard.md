@@ -1,6 +1,6 @@
 
-[![Web Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)]()
-# Web Wizard 
+[![Web Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QgFlzRWDqZVg16da7nVlh%22%2C%22flow%22%3Atrue%7D%7D)
+# Web Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QgFlzRWDqZVg16da7nVlh%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a program that helps you create a website project using HTML, CSS and JavaScript languages and a web framework. You will chat with an AI web designer who will teach you the languages and platforms, create a web framework for you and develop your website with you.
 
 # Prompt

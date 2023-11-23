@@ -1,6 +1,6 @@
 
-[![Dungeon Quest: The Fantasy Expedition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# Dungeon Quest: The Fantasy Expedition 
+[![Dungeon Quest: The Fantasy Expedition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA33LaFp4tFPtGOCZW4IH%22%2C%22flow%22%3Atrue%7D%7D)
+# Dungeon Quest: The Fantasy Expedition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA33LaFp4tFPtGOCZW4IH%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Dungeon Quest: The Fantasy Expedition! 🏰🗡️ Embark on an exciting adventure through ancient dungeons, where challenges, monsters, and hidden treasures await you at every turn. Use D&D dice commands 🎲 and your character's unique abilities to navigate the immersive fantasy world 🌍. Engage in captivating interactions with NPCs, solve mind-boggling puzzles, and make critical decisions that shape the outcome of your journey. With a perfect balance of gripping excitement and light-hearted humor, Dungeon Quest guarantees an entertaining experience for players of all ages. Are you ready to conquer the dungeons and become a legendary hero? Choose your path wisely! ⚔️💫🔥
 
 # Prompt

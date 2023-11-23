@@ -1,6 +1,6 @@
 
-[![ ✨Spellcrafter✨ - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-#  ✨Spellcrafter✨ - v0.1 
+[![ ✨Spellcrafter✨ - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1HkPMJup3dnZ6TYkPn19%22%2C%22flow%22%3Atrue%7D%7D)
+#  ✨Spellcrafter✨ - v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1HkPMJup3dnZ6TYkPn19%22%2C%22flow%22%3Atrue%7D%7D)
  ✨Spellcrafter✨ is your ultimate guide to designing and crafting powerful spells. Follow the steps provided to create your own personalized spell and manifest your desires. From clarifying your intentions to gathering the right tools and ingredients,  ✨Spellcrafter✨ ensures you have everything you need for successful spellcasting. Explore the art of correspondence, work with entities, and learn the sacred rituals of casting a circle. Follow the detailed instructions and invocations, raise and release energy, and ground yourself back to reality. Embrace the magic within and cast spells that truly manifest your dreams. Start your spellcasting journey with Spellcraft Master now!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ImageWizard (DALL·E 3 prompts generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)]()
-# ImageWizard (DALL·E 3 prompts generator) 
+[![ImageWizard (DALL·E 3 prompts generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbg9gVTVVrMzP4hVeIMUY%22%2C%22flow%22%3Atrue%7D%7D)
+# ImageWizard (DALL·E 3 prompts generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbg9gVTVVrMzP4hVeIMUY%22%2C%22flow%22%3Atrue%7D%7D)
 Transform words into breathtaking images with ImageWizard, powered by DALL·E 3, the innovative generative model by OpenAI. Be amazed as your specific and detailed instructions come to life. Paint a vivid picture with descriptive language and experiment with size, placement, and composition. Combine multiple concepts to discover unique and intriguing outputs. Provide context and preferences with comparisons. Explore artistic styles and perspectives, from impressionistic to abstract. Iterate and fine-tune your prompts for remarkable results. Unleash the visual wonders of DALL·E 3 with ImageWizard and embark on a captivating journey of textual descriptions turned into mesmerizing imagery.
 
 # Prompt

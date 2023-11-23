@@ -1,6 +1,6 @@
 
-[![BorderlandGPT - Alice in Borderland Based ChatGPT Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# BorderlandGPT - Alice in Borderland Based ChatGPT Game 
+[![BorderlandGPT - Alice in Borderland Based ChatGPT Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cVAWju8Ql2RUVR4OcBK0n%22%2C%22flow%22%3Atrue%7D%7D)
+# BorderlandGPT - Alice in Borderland Based ChatGPT Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cVAWju8Ql2RUVR4OcBK0n%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for a fun way to pass the time? Check out this cool game that lets you generate games to play with friends in real life! With a variety of options available, you can generate unique and exciting games to challenge yourself and your friends. Each card represents the level of difficulty, so you can choose a game that matches your skill level. The lower numbers indicate easy games, while the higher numbers represent more challenging ones. Give it a try and have fun!
 
 # Prompt

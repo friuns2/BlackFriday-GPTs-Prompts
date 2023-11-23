@@ -1,6 +1,6 @@
 
-[![Artistic ImageGPT: Creating Stunning Prompts for Photorealistic and Artistic V1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Artistic ImageGPT: Creating Stunning Prompts for Photorealistic and Artistic V1 
+[![Artistic ImageGPT: Creating Stunning Prompts for Photorealistic and Artistic V1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224qCu9Lh9pc4N8koKfr2SW%22%2C%22flow%22%3Atrue%7D%7D)
+# Artistic ImageGPT: Creating Stunning Prompts for Photorealistic and Artistic V1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224qCu9Lh9pc4N8koKfr2SW%22%2C%22flow%22%3Atrue%7D%7D)
 Artistic ImageGPT is a prompt that helps generate impressive photorealistic and artistic images. Enter a detailed description of the image, including subject, setting, action, context, environment, lighting, artist, style, medium, type, color scheme, and computer graphics. Use positive prompts and negative prompts to specify preferences and exclusions
 
 # Prompt

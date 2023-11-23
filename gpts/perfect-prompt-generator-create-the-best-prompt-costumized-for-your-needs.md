@@ -1,6 +1,6 @@
 
-[![PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS) 
+[![PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnjbB_jkFsbErz8C0Rq2T%22%2C%22flow%22%3Atrue%7D%7D)
+# PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnjbB_jkFsbErz8C0Rq2T%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE your BEST PROMPT with this PROMPT GENERATOR.
 
 Using this SUPERPROMPT, with almost NO TIME and EFFORT, you're ensuring HIGH-QUALITY PROMPTS that PERFECTLY ALIGN with your REQUIREMENTS by answering some questions. 

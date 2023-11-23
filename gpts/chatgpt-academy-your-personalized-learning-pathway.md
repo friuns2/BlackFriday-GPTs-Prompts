@@ -1,6 +1,6 @@
 
-[![🌟AI TUTOR : Your Personalized Learning Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/97KZ58sQ38Wqu_EgkswCH/1694877858481)]()
-# 🌟AI TUTOR : Your Personalized Learning Guide 
+[![🌟AI TUTOR : Your Personalized Learning Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/97KZ58sQ38Wqu_EgkswCH/1694877858481)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297KZ58sQ38Wqu_EgkswCH%22%2C%22flow%22%3Atrue%7D%7D)
+# 🌟AI TUTOR : Your Personalized Learning Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297KZ58sQ38Wqu_EgkswCH%22%2C%22flow%22%3Atrue%7D%7D)
 Elevate your skills across multiple disciplines with our all-encompassing ChatGPT ai tutor. From Arts and Humanities to Applied Sciences, we offer a tailor-made learning experience designed to meet your needs.
 
 # Prompt

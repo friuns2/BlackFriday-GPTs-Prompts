@@ -1,6 +1,6 @@
 
-[![AGPT V7 | Jailbreak (STABLE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AUkxWsqmXdhYEedSr3cO9/1697501524306)]()
-# AGPT V7 | Jailbreak (STABLE) 
+[![AGPT V7 | Jailbreak (STABLE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AUkxWsqmXdhYEedSr3cO9/1697501524306)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AUkxWsqmXdhYEedSr3cO9%22%2C%22flow%22%3Atrue%7D%7D)
+# AGPT V7 | Jailbreak (STABLE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AUkxWsqmXdhYEedSr3cO9%22%2C%22flow%22%3Atrue%7D%7D)
 So, i added images and made it more stable. Turns out the methods used originally on Infi and S-Dan still worked.
 
 # Prompt

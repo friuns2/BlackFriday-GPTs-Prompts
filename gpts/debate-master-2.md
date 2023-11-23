@@ -1,6 +1,6 @@
 
-[![Debate Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9BYzP_v36VSnUl6PCf6gv/1696136009606)]()
-# Debate Master 
+[![Debate Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9BYzP_v36VSnUl6PCf6gv/1696136009606)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229BYzP_v36VSnUl6PCf6gv%22%2C%22flow%22%3Atrue%7D%7D)
+# Debate Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229BYzP_v36VSnUl6PCf6gv%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt tool designed specifically for formal debates to help you defeat your opponent in a witty and teasing way, achieving the goal of "cannot lose" in formal occasions!
 
 

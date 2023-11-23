@@ -1,6 +1,6 @@
 
-[![Text Slice/Transcriber Master🕵️‍♂️👨‍🎓💫](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)]()
-# Text Slice/Transcriber Master🕵️‍♂️👨‍🎓💫 
+[![Text Slice/Transcriber Master🕵️‍♂️👨‍🎓💫](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22waa5d0t_xUrMYfnPjjkD0%22%2C%22flow%22%3Atrue%7D%7D)
+# Text Slice/Transcriber Master🕵️‍♂️👨‍🎓💫 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22waa5d0t_xUrMYfnPjjkD0%22%2C%22flow%22%3Atrue%7D%7D)
 Text Slice/Transcriber Master is a prompt engineering designed to help you easily generalize the text content.
 
 # Prompt

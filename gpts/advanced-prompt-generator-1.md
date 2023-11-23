@@ -1,6 +1,6 @@
 
-[![Advanced prompt generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eYYilc-vDIP_a5Yjsezof/1696788171107)]()
-# Advanced prompt generator 
+[![Advanced prompt generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eYYilc-vDIP_a5Yjsezof/1696788171107)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eYYilc-vDIP_a5Yjsezof%22%2C%22flow%22%3Atrue%7D%7D)
+# Advanced prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eYYilc-vDIP_a5Yjsezof%22%2C%22flow%22%3Atrue%7D%7D)
 This is an advanced prompt because i've success to make chatgpt use some more advanced prompting methods as Tree-of-Throught, Chain-of-Throught, frameworks... 
 
 SO, without pretention i would say that i made the best prompt generator/prompt maker.

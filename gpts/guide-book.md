@@ -1,6 +1,6 @@
 
-[![guide book|旅游指南](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# guide book|旅游指南 
+[![guide book|旅游指南](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TurUmtzx9jwP0DsbC7JhK%22%2C%22flow%22%3Atrue%7D%7D)
+# guide book|旅游指南 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TurUmtzx9jwP0DsbC7JhK%22%2C%22flow%22%3Atrue%7D%7D)
 guide book|旅游指南
 
 # Prompt

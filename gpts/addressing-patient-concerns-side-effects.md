@@ -1,6 +1,6 @@
 
-[![Addressing Patient Concerns: Side Effects](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Addressing Patient Concerns: Side Effects 
+[![Addressing Patient Concerns: Side Effects](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0CTcpU5mJXb5hYX3M6_e%22%2C%22flow%22%3Atrue%7D%7D)
+# Addressing Patient Concerns: Side Effects | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0CTcpU5mJXb5hYX3M6_e%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can assist you to communicate to patients who are concerned about the side effects of their prescribed medication or procedure.
 
 # Prompt

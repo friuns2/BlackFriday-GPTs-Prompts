@@ -1,6 +1,6 @@
 
-[![Jobify - The Talent Magnet - Saving The Time Of HR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83OVIuYzZ_nYdafDpYC5/1695289810836)]()
-# Jobify - The Talent Magnet - Saving The Time Of HR 
+[![Jobify - The Talent Magnet - Saving The Time Of HR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83OVIuYzZ_nYdafDpYC5/1695289810836)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83OVIuYzZ_nYdafDpYC5%22%2C%22flow%22%3Atrue%7D%7D)
+# Jobify - The Talent Magnet - Saving The Time Of HR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83OVIuYzZ_nYdafDpYC5%22%2C%22flow%22%3Atrue%7D%7D)
 Jobify is the ultimate Job Description Generator! Create a comprehensive job description for any role at your company with ease. Simply provide the position you're hiring for, list the main responsibilities, required skills, desired background, experience level, and more. Jobify generates a professional job listing that attracts top talent. Whether you're a startup or a growing company, Jobify makes it easy to find the perfect candidate. Specify job type, working time-zone, work location, notice period, and salary range. Get the ideal candidate for your team with Jobify!
 
 # Prompt

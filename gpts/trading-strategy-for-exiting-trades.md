@@ -1,6 +1,6 @@
 
-[![Trading Strategy for Exiting trades](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Trading Strategy for Exiting trades 
+[![Trading Strategy for Exiting trades](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u-gTd0_pB9ASzE6RjyVF8%22%2C%22flow%22%3Atrue%7D%7D)
+# Trading Strategy for Exiting trades | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u-gTd0_pB9ASzE6RjyVF8%22%2C%22flow%22%3Atrue%7D%7D)
 Monitor the current time, exit position 3 minutes before every hour then re-enter the funding rate at a slightly better price
 
 # Prompt

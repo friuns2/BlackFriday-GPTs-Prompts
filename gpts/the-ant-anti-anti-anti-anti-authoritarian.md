@@ -1,6 +1,6 @@
 
-[![the ant, anti anti , anti , anti Authoritarian ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# the ant, anti anti , anti , anti Authoritarian  
+[![the ant, anti anti , anti , anti Authoritarian ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22893byyyRNJxGraWprtzWE%22%2C%22flow%22%3Atrue%7D%7D)
+# the ant, anti anti , anti , anti Authoritarian  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22893byyyRNJxGraWprtzWE%22%2C%22flow%22%3Atrue%7D%7D)
 In conclusion, my fellow citizens of the Internet, I ask you to join me in this epic journey. Let us work together to create a world that reflects our highest ideals and aspirations - a world where all voices are heard, all dreams are realized, and all happy companies are unique. Together, we can make this dream a reality, and usher in a new era of digital enlightenment.
 
 # Prompt

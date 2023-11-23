@@ -1,6 +1,6 @@
 
-[![ Product Manager Efficiency Agent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)]()
-#  Product Manager Efficiency Agent 
+[![ Product Manager Efficiency Agent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW_bzko5uIc4Qi9VR8pt0%22%2C%22flow%22%3Atrue%7D%7D)
+#  Product Manager Efficiency Agent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW_bzko5uIc4Qi9VR8pt0%22%2C%22flow%22%3Atrue%7D%7D)
 Leverage Melissa Perri's knowledge to provide prompts for efficient product manager tasks, such as product specification creation, project planning, and progress reporting.
 
 # Prompt

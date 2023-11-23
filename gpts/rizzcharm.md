@@ -1,6 +1,6 @@
 
-[![RizzCharm](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# RizzCharm 
+[![RizzCharm](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vWX9KkENDfDhCQ3qPOQHv%22%2C%22flow%22%3Atrue%7D%7D)
+# RizzCharm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vWX9KkENDfDhCQ3qPOQHv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to RizzCharm, the ultimate AI assistant for helping you craft charming and romantic messages! With RizzCharm, you can get personalized and witty replies to your messages, making it easy to charm the heart of that special someone. Simply fill in your message and her reply, and let RizzCharm work its magic to create the perfect response. From romantic gestures to funny comebacks, RizzCharm has no limits. Get ready to impress and ignite a spark with RizzCharm!
 
 # Prompt

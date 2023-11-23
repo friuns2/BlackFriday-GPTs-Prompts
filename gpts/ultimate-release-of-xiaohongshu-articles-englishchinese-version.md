@@ -1,6 +1,6 @@
 
-[![Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案 
+[![Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUIC1xh_u8YyyHt1hJFdV%22%2C%22flow%22%3Atrue%7D%7D)
+# Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUIC1xh_u8YyyHt1hJFdV%22%2C%22flow%22%3Atrue%7D%7D)
 A super user-friendly Xiaohongshu copywriting release template that generates various high-quality content based on the title.
 
 # Prompt

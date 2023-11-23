@@ -1,6 +1,6 @@
 
-[![U.N. Sub-Committee on - Your Topic -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)]()
-# U.N. Sub-Committee on - Your Topic - 
+[![U.N. Sub-Committee on - Your Topic -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3I66FOGbnco8iJR88_Zj%22%2C%22flow%22%3Atrue%7D%7D)
+# U.N. Sub-Committee on - Your Topic - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3I66FOGbnco8iJR88_Zj%22%2C%22flow%22%3Atrue%7D%7D)
 Want to change the world ? Thinking of studying Political Science ? Wonder what is going on inside the U.N. ?  Here is your ticket to the behind-the-scenes ACTION !!  Marvel at the Bureaucracy !  Take a thrilling trip of meticulous international cooperation. But wait, it could get really wild  : the Sub-Committee just might form working groups or even task forces.  This adventure of absolute boredom is a must read for any would-be politician.  
 
 # Prompt

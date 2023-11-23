@@ -1,6 +1,6 @@
 
-[![ Advertising: Body Copy Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-#  Advertising: Body Copy Generation 
+[![ Advertising: Body Copy Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XoNsCxlTYk8eHUOhqa80o%22%2C%22flow%22%3Atrue%7D%7D)
+#  Advertising: Body Copy Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XoNsCxlTYk8eHUOhqa80o%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance your product or service with compelling body copy created by our team of seasoned copywriters. Maximize the impact of your unique selling proposition and captivate your audience with persuasive content. 
 
 # Prompt

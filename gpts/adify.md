@@ -1,6 +1,6 @@
 
-[![Adify ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9k0t34-_-CuCM_tm01gBv/1699850336215)]()
-# Adify  
+[![Adify ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9k0t34-_-CuCM_tm01gBv/1699850336215)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229k0t34-_-CuCM_tm01gBv%22%2C%22flow%22%3Atrue%7D%7D)
+# Adify  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229k0t34-_-CuCM_tm01gBv%22%2C%22flow%22%3Atrue%7D%7D)
 Adify is your go-to platform for creating highly effective Google Ads that will make your product shine.  
 
 # Prompt

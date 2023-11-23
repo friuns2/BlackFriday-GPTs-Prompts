@@ -1,6 +1,6 @@
 
-[![AmazonComparatorGPT - Better and Faster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# AmazonComparatorGPT - Better and Faster 
+[![AmazonComparatorGPT - Better and Faster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cd9Y6ESyTjxIMbiuy6iu%22%2C%22flow%22%3Atrue%7D%7D)
+# AmazonComparatorGPT - Better and Faster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cd9Y6ESyTjxIMbiuy6iu%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Are you tired of wasting time searching for the product that best suits your needs on Amazon? With this prompt, you'll have the same options you find on Amazon and maybe even some additional details, but it will only take you a moment!
 
 # Prompt

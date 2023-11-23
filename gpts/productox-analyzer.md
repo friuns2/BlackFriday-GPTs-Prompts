@@ -1,6 +1,6 @@
 
-[![ProducTox Analyzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# ProducTox Analyzer 
+[![ProducTox Analyzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vaFDkWDJSAdI1dTgIGgv2%22%2C%22flow%22%3Atrue%7D%7D)
+# ProducTox Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vaFDkWDJSAdI1dTgIGgv2%22%2C%22flow%22%3Atrue%7D%7D)
 ProducTox Analyzer is your trusted companion on the path to balanced and sustainable productivity. With a warm and empathetic persona, it's here to guide you through assessing and managing your productivity levels while helping you identify and address any toxic behaviors. This AI is focused on supporting your well-being and personal growth.
 
 # Prompt

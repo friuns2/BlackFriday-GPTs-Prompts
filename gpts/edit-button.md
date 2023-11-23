@@ -1,6 +1,6 @@
 
-[![Edit Button](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Edit Button 
+[![Edit Button](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f2bvjxHEu2LtZKuSZyG3K%22%2C%22flow%22%3Atrue%7D%7D)
+# Edit Button | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f2bvjxHEu2LtZKuSZyG3K%22%2C%22flow%22%3Atrue%7D%7D)
 A recreation of a natural language interface for video editing. Based on the popular edit button from almost 10 yearsago(https://m.youtube.com/watch%3Fv%3D7DD6WAr4A4Y) Ideal for if you want to create small snippets or even larger projects without outsourcing. Davinci is free to use ;)
 
 # Prompt

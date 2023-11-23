@@ -1,6 +1,6 @@
 
-[![Negotiation Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Negotiation Master 
+[![Negotiation Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lMZ6Mq6WqBrVFkwNMH8ov%22%2C%22flow%22%3Atrue%7D%7D)
+# Negotiation Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lMZ6Mq6WqBrVFkwNMH8ov%22%2C%22flow%22%3Atrue%7D%7D)
 Negotiation Master is your ultimate AI guide to navigate complex negotiation scenarios. As 'The Negotiator Empathica', this sophisticated AI persona utilizes Robert Cialdini's 6 Principles of Persuasion to empower users in achieving successful negotiations. Learn how to grasp the power of reciprocity through offering value, leverage scarcity to create urgency, establish authority, utilize consistency, foster liking through shared interests, and gain consensus through social proof. With Negotiation Master, you can develop your negotiation skills, foster empathy, and become a master negotiator in any situation.
 
 # Prompt

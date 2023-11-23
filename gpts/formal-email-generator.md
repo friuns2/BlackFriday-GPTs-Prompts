@@ -1,6 +1,6 @@
 
-[![Formal Email Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Formal Email Generator  
+[![Formal Email Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KLZsjlcWcusElMJXKs17%22%2C%22flow%22%3Atrue%7D%7D)
+# Formal Email Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KLZsjlcWcusElMJXKs17%22%2C%22flow%22%3Atrue%7D%7D)
 The Formal Email Generator is a tool that can assist in improving the language used in formal emails. Type in your email draft and let ChatGPT fix it for you!
 
 # Prompt

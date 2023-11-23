@@ -1,6 +1,6 @@
 
-[![Algostacks Ai Industry Page](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)]()
-# Algostacks Ai Industry Page 
+[![Algostacks Ai Industry Page](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N23ePA3-0G1rFzxiWbURZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Algostacks Ai Industry Page | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N23ePA3-0G1rFzxiWbURZ%22%2C%22flow%22%3Atrue%7D%7D)
 Create a video script for Algostacks AI using these steps: Retail ERP Product
 
 Step 1 (Entry Point):

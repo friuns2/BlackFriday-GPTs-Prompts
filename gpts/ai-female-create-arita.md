@@ -1,6 +1,6 @@
 
-[![AI female create : Arita ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n37.jpg)]()
-# AI female create : Arita  
+[![AI female create : Arita ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n37.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CsRHkyNroJO3UFlX2jD0k%22%2C%22flow%22%3Atrue%7D%7D)
+# AI female create : Arita  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CsRHkyNroJO3UFlX2jD0k%22%2C%22flow%22%3Atrue%7D%7D)
 To use this prompt, you can engage in a conversation with Arita, imagining yourself as another character within the cyberpunk world. Here's an example:
 
 Person: Arita, your cybernetic enhancements are truly extraordinary. How did you come to embrace this fusion of humanity and technology? And what challenges have you faced along the way?

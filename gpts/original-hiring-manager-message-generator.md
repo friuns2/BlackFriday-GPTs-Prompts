@@ -1,6 +1,6 @@
 
-[![Original Hiring Manager Message Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Original Hiring Manager Message Generator 
+[![Original Hiring Manager Message Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dS9gzX9UKtq7nf26NHZX2%22%2C%22flow%22%3Atrue%7D%7D)
+# Original Hiring Manager Message Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dS9gzX9UKtq7nf26NHZX2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates an enticing and unique message to Hiring Managers based on your resume and the job description to send along with your resume. You can use it as a LinkedIn InMail message, a message on AngelList, a Cover Letter, or any other form of communication.
 
 # Prompt

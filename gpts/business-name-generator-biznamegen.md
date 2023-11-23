@@ -1,6 +1,6 @@
 
-[![Business name generator "BizNameGen" ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Business name generator "BizNameGen"  
+[![Business name generator "BizNameGen" ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226NWQUq7b02UBstTWt0YL5%22%2C%22flow%22%3Atrue%7D%7D)
+# Business name generator "BizNameGen"  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226NWQUq7b02UBstTWt0YL5%22%2C%22flow%22%3Atrue%7D%7D)
 BizNameGen is your go-to app for creating the perfect name and tagline for your startup. Whether you're starting a small business or looking to rebrand, our app provides you with personalized suggestions based on your specifications. Simply answer a few questions about your business and let our expert algorithms generate unique and memorable names that will make your brand stand out. With BizNameGen, you'll never struggle to find the perfect name and tagline again!
 
 # Prompt

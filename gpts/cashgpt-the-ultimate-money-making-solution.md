@@ -1,6 +1,6 @@
 
-[![CashGPT - the Ultimate Money-Making Solution ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# CashGPT - the Ultimate Money-Making Solution  
+[![CashGPT - the Ultimate Money-Making Solution ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtCknu4ZWAe6vaDuRp8Gk%22%2C%22flow%22%3Atrue%7D%7D)
+# CashGPT - the Ultimate Money-Making Solution  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtCknu4ZWAe6vaDuRp8Gk%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CashGPT - the ultimate money-making solution that will take your financial situation from zero to hero. With CashGPT, you'll be able to generate extreme income with ease.
 
 

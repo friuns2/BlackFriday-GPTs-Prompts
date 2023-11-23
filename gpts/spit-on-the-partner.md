@@ -1,6 +1,6 @@
 
-[![Spit on the partner|吐槽搭子](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)]()
-# Spit on the partner|吐槽搭子 
+[![Spit on the partner|吐槽搭子](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222o-4ub4Ul5mpICGK9VQbb%22%2C%22flow%22%3Atrue%7D%7D)
+# Spit on the partner|吐槽搭子 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222o-4ub4Ul5mpICGK9VQbb%22%2C%22flow%22%3Atrue%7D%7D)
 Spit on the partner|吐槽搭子
 
 # Prompt

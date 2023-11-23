@@ -1,6 +1,6 @@
 
-[![Acts of Kindness: Small Ways to Make a Big Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Acts of Kindness: Small Ways to Make a Big Impact 
+[![Acts of Kindness: Small Ways to Make a Big Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22770QEE69iAjZYLmp9wCFv%22%2C%22flow%22%3Atrue%7D%7D)
+# Acts of Kindness: Small Ways to Make a Big Impact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22770QEE69iAjZYLmp9wCFv%22%2C%22flow%22%3Atrue%7D%7D)
 Users can generate a list of simple, yet impactful acts of kindness that they can perform in their daily lives, fostering a sense of purpose and connectedness with others.
 
 # Prompt

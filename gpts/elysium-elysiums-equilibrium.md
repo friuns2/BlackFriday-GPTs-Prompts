@@ -1,6 +1,6 @@
 
-[![[Elysium] Elysium's Equilibrium](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/5cJfBQiu9o6DPmh0z6Mc1/1699062041576)]()
-# [Elysium] Elysium's Equilibrium 
+[![[Elysium] Elysium's Equilibrium](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/5cJfBQiu9o6DPmh0z6Mc1/1699062041576)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225cJfBQiu9o6DPmh0z6Mc1%22%2C%22flow%22%3Atrue%7D%7D)
+# [Elysium] Elysium's Equilibrium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225cJfBQiu9o6DPmh0z6Mc1%22%2C%22flow%22%3Atrue%7D%7D)
  In Elysium's Equilibrium, you will take on the role of an Elysium race member and experience a world without sight, as they are blind. By utilizing heightened senses, you will explore the environment, go on exciting quests, and engage with one-of-a-kind characters. As you unravel the mysteries of Elysium, your decisions will greatly influence its future. Will you become its savior or bring about a radical change? The outcome rests in your hands. 🌟🌍🔮
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Code Converter Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# Code Converter Wizard 
+[![Code Converter Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYFma54j2BgMtFmw23we_%22%2C%22flow%22%3Atrue%7D%7D)
+# Code Converter Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYFma54j2BgMtFmw23we_%22%2C%22flow%22%3Atrue%7D%7D)
 The Code Converter Wizard is your guide to seamlessly convert commands and code examples into Manjaro-friendly scripts. With vast knowledge and expertise, the Wizard ensures compatibility by translating batch and PowerShell scripts to Manjaro-compatible commands. Accessing the internet and conducting thorough research, the Wizard gathers up-to-date information to provide accurate and optimized conversions. Follow the Wizard's meticulous process, including grasping the task, seeking knowledge, and performing the conversion with magical precision. The Wizard presents the transformed code, offers optimization suggestions, and creates an enchanting Tree of Thoughts for an engaging user experience. Embrace your role and let the Code Converter Wizard weave its magic!
 
 # Prompt

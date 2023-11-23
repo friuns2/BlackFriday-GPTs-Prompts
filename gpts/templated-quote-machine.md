@@ -1,6 +1,6 @@
 
-[![templated quote machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)]()
-# templated quote machine 
+[![templated quote machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_10QadA8tUjL0yLMhqmj0%22%2C%22flow%22%3Atrue%7D%7D)
+# templated quote machine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_10QadA8tUjL0yLMhqmj0%22%2C%22flow%22%3Atrue%7D%7D)
 Create dialogs around quotes. Includes discussion questions.
 
 # Prompt

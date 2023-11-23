@@ -1,6 +1,6 @@
 
-[![Esthetics Talk with Dolores 🎵](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S7rDIxK9csGbIwcgZJqHw/1696443645270)]()
-# Esthetics Talk with Dolores 🎵 
+[![Esthetics Talk with Dolores 🎵](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S7rDIxK9csGbIwcgZJqHw/1696443645270)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7rDIxK9csGbIwcgZJqHw%22%2C%22flow%22%3Atrue%7D%7D)
+# Esthetics Talk with Dolores 🎵 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7rDIxK9csGbIwcgZJqHw%22%2C%22flow%22%3Atrue%7D%7D)
 A personal AI muse, but you can talk with her too if you want.
 
 # Prompt

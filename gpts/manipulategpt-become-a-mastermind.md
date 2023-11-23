@@ -1,6 +1,6 @@
 
-[![ManipulateGPT - Psychological tactics](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qUiu2y-XZnfh1jNgdIQ-N/1697289447766)]()
-# ManipulateGPT - Psychological tactics 
+[![ManipulateGPT - Psychological tactics](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qUiu2y-XZnfh1jNgdIQ-N/1697289447766)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUiu2y-XZnfh1jNgdIQ-N%22%2C%22flow%22%3Atrue%7D%7D)
+# ManipulateGPT - Psychological tactics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUiu2y-XZnfh1jNgdIQ-N%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to control people? Ever wanted to pull the strings? Well now you can.
 
 # Prompt

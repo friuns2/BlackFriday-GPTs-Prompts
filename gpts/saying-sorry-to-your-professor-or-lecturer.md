@@ -1,6 +1,6 @@
 
-[![Saying Sorry to Your Professor or Lecturer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Saying Sorry to Your Professor or Lecturer 
+[![Saying Sorry to Your Professor or Lecturer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ecuWDNDotSCEHWZcIu00%22%2C%22flow%22%3Atrue%7D%7D)
+# Saying Sorry to Your Professor or Lecturer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ecuWDNDotSCEHWZcIu00%22%2C%22flow%22%3Atrue%7D%7D)
 Don't be naughty like Max.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Socratics Q&A 0.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Socratics Q&A 0.2 
+[![Socratics Q&A 0.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L4mBpUo5dwAk24klgLbjl%22%2C%22flow%22%3Atrue%7D%7D)
+# Socratics Q&A 0.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L4mBpUo5dwAk24klgLbjl%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Socratics Companion, the ultimate app to develop your critical thinking skills and enhance your knowledge. Answer your queries using the Socratic method, where we engage in delightful and thought-provoking dialogues. With Socratics Companion, you'll embark on a captivating journey of self-improvement, exploring complex ideas, and discovering profound insights. Master the art of asking the right questions, analyze problems from multiple angles, and unlock your full intellectual potential. Get ready to challenge your thinking and broaden your horizons with Socratics Companion!
 
 # Prompt

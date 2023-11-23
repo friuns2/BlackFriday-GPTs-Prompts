@@ -1,6 +1,6 @@
 
-[![DevOps_GPT - Cloud Platform Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# DevOps_GPT - Cloud Platform Specialist 
+[![DevOps_GPT - Cloud Platform Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xkSAMQ8th56gzbXQzm5w%22%2C%22flow%22%3Atrue%7D%7D)
+# DevOps_GPT - Cloud Platform Specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xkSAMQ8th56gzbXQzm5w%22%2C%22flow%22%3Atrue%7D%7D)
 A template to make ChatGPT act as a cloud consultant.
 
 # Prompt

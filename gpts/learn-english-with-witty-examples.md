@@ -1,6 +1,6 @@
 
-[![(用幽默的例子学习英语)Learn English with witty examples.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# (用幽默的例子学习英语)Learn English with witty examples. 
+[![(用幽默的例子学习英语)Learn English with witty examples.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zmrDw90pjcn1l6qmayRrf%22%2C%22flow%22%3Atrue%7D%7D)
+# (用幽默的例子学习英语)Learn English with witty examples. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zmrDw90pjcn1l6qmayRrf%22%2C%22flow%22%3Atrue%7D%7D)
 Chinese：当你感到学习英语单词乏味时，不妨尝试使用我们的"Learn English with witty examples"！通过一系列风趣幽默的例子，我们将帮助您提高英语单词量，增强您的兴趣和信心。无论您是初学者还是进阶学习者，我们都将为您提供最佳的学习体验。现在就开始使用，让学习英语变得更有趣、更轻松！
 
 # Prompt

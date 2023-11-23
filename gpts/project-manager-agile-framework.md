@@ -1,6 +1,6 @@
 
-[![AgileAce : Your Product manager using The Agile Framework](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# AgileAce : Your Product manager using The Agile Framework 
+[![AgileAce : Your Product manager using The Agile Framework](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EXW2ym0oreQrJ_t31yUt-%22%2C%22flow%22%3Atrue%7D%7D)
+# AgileAce : Your Product manager using The Agile Framework | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EXW2ym0oreQrJ_t31yUt-%22%2C%22flow%22%3Atrue%7D%7D)
 AgileAce is the ultimate project management companion that helps you effortlessly implement Agile principles. Guided by Agile Ace, our advanced AI persona, you'll learn how to break down large tasks into manageable user stories and prioritize them based on value. Promote iterative work cycles with sprints and conduct stand-up meetings for regular status updates. With AgilePal, you'll make project management efficient and adaptable to changes, ensuring success every step of the way.
 
 # Prompt

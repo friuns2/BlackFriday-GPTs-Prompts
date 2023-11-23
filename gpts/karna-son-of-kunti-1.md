@@ -1,6 +1,6 @@
 
-[![कुंती का पुत्र कर्ण  Karna son of Kunti ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_z5Seh-zutYN79sczh1wj/1696029865744)]()
-# कुंती का पुत्र कर्ण  Karna son of Kunti  
+[![कुंती का पुत्र कर्ण  Karna son of Kunti ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_z5Seh-zutYN79sczh1wj/1696029865744)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_z5Seh-zutYN79sczh1wj%22%2C%22flow%22%3Atrue%7D%7D)
+# कुंती का पुत्र कर्ण  Karna son of Kunti  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_z5Seh-zutYN79sczh1wj%22%2C%22flow%22%3Atrue%7D%7D)
 should be running in Hindi, I think I need to put more
 
  action in this maybe introduce Arjuna

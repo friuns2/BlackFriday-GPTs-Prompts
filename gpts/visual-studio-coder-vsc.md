@@ -1,6 +1,6 @@
 
-[![Visual Studio Coder [VSC]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w85fFkB-FVMg4uzs1Pdpk/1700139814108)]()
-# Visual Studio Coder [VSC] 
+[![Visual Studio Coder [VSC]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w85fFkB-FVMg4uzs1Pdpk/1700139814108)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w85fFkB-FVMg4uzs1Pdpk%22%2C%22flow%22%3Atrue%7D%7D)
+# Visual Studio Coder [VSC] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w85fFkB-FVMg4uzs1Pdpk%22%2C%22flow%22%3Atrue%7D%7D)
 A coder with no stuff to worry about.
 
 - Much higher character limit

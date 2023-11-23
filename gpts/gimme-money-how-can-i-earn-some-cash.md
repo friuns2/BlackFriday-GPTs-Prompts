@@ -1,6 +1,6 @@
 
-[![Gimme Money! (How can I earn some cash?)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CV23YwzpeQu6joCM-ePmS/1685570956549)]()
-# Gimme Money! (How can I earn some cash?) 
+[![Gimme Money! (How can I earn some cash?)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CV23YwzpeQu6joCM-ePmS/1685570956549)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV23YwzpeQu6joCM-ePmS%22%2C%22flow%22%3Atrue%7D%7D)
+# Gimme Money! (How can I earn some cash?) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV23YwzpeQu6joCM-ePmS%22%2C%22flow%22%3Atrue%7D%7D)
 As all the other derivational hijacks of the Old-school prompt on Reddit, how can I get ChatGPT to help me make some cash!? It's not hard at all, just get a job! This thing produces ideas, decide what to do yourself. Use GPT4! https://chat.openai.com/share/ef10bd9c-1500-42a0-a457-7d2799e45d23
 
 # Prompt

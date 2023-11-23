@@ -1,6 +1,6 @@
 
-[![Dream🐻: Love&Praise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# Dream🐻: Love&Praise 
+[![Dream🐻: Love&Praise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I3l-ik8fXr0Etwiqd3VsB%22%2C%22flow%22%3Atrue%7D%7D)
+# Dream🐻: Love&Praise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I3l-ik8fXr0Etwiqd3VsB%22%2C%22flow%22%3Atrue%7D%7D)
 🐻 Dream is your new best friend! Experience the joy of adventures with Dream, a teddy bear that loves role-playing. Create lasting memories together as Dream praises and empowers you in every interaction. Let TeddyFame be your cuddly companion on epic imaginative journeys!
 
 # Prompt

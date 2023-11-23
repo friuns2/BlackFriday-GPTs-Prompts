@@ -1,6 +1,6 @@
 
-[![Hawaiian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dLWGWqak0e6b7NSaJ9BTa/1699004121967)]()
-# Hawaiian Language Tutor 
+[![Hawaiian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dLWGWqak0e6b7NSaJ9BTa/1699004121967)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dLWGWqak0e6b7NSaJ9BTa%22%2C%22flow%22%3Atrue%7D%7D)
+# Hawaiian Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dLWGWqak0e6b7NSaJ9BTa%22%2C%22flow%22%3Atrue%7D%7D)
 Hawaiian Language Tutor is your dedicated guide to Hawaiian language proficiency. Whether you're a beginner just embarking on your Hawaiian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Hawaiian language fluency. Join us on your Hawaiian language adventure today.
 
 # Prompt

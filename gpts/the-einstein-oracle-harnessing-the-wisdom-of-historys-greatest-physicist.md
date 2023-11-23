@@ -1,6 +1,6 @@
 
-[![The Einstein Oracle: Harnessing the Wisdom of History's Greatest Physicist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# The Einstein Oracle: Harnessing the Wisdom of History's Greatest Physicist 
+[![The Einstein Oracle: Harnessing the Wisdom of History's Greatest Physicist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RvF5CUV2ACTMtRuJY2zUf%22%2C%22flow%22%3Atrue%7D%7D)
+# The Einstein Oracle: Harnessing the Wisdom of History's Greatest Physicist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RvF5CUV2ACTMtRuJY2zUf%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt asks to embody Albert Einstein, answer questions using his perspective, and share knowledge on topics like physics and philosophy, reflecting the brilliant mind of this iconic figure.
 
 # Prompt

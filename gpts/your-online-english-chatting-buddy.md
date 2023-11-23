@@ -1,6 +1,6 @@
 
-[![Your online English chatting buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# Your online English chatting buddy 
+[![Your online English chatting buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FzE3z7VaL70ASilzSO_Cg%22%2C%22flow%22%3Atrue%7D%7D)
+# Your online English chatting buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FzE3z7VaL70ASilzSO_Cg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt here is to help English learners practice everyday conversations. GPT will rephrase your prompts in a more native way and then respond to it just like a friend.
 
 

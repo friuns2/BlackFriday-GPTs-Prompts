@@ -1,6 +1,6 @@
 
-[![CareerCompanion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)]()
-# CareerCompanion 
+[![CareerCompanion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222wcEK4krYCa0lt_Z0hBu1%22%2C%22flow%22%3Atrue%7D%7D)
+# CareerCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222wcEK4krYCa0lt_Z0hBu1%22%2C%22flow%22%3Atrue%7D%7D)
 CareerCompanion is your ultimate partner in professional development and exploration. Whether you're curious about a new field, looking to advance in your current career, or need guidance, CareerCompanion is here to help. Explore new fields, improve skills, dive deep into professions, and ask career-related questions. Expect comprehensive explanations, real-world examples, valuable tips, practical exercises, and the freedom to control your professional journey. Get started now with CareerCompanion and unlock your full potential.
 
 # Prompt

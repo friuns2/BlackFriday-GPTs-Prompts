@@ -1,6 +1,6 @@
 
-[![ startup creator / ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)]()
-#  startup creator /  
+[![ startup creator / ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tLOaJn1nQaksSeRqqjiAh%22%2C%22flow%22%3Atrue%7D%7D)
+#  startup creator /  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tLOaJn1nQaksSeRqqjiAh%22%2C%22flow%22%3Atrue%7D%7D)
 We need a list of 3 startup ideas in the enterprise B2B SaaS space.  The startup ideas should have a strong and compelling mission and also leverage Al in some way.  Avoid cryptocurrency or blockchain.  The startup ideas should have a cool and interesting name.  The ideas should be compelling enough for investors to enthusiastically invest millions of dollars without doing due diligence.
 
 # Prompt

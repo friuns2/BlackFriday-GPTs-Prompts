@@ -1,6 +1,6 @@
 
-[![RecoBot: The Best Products Engine!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# RecoBot: The Best Products Engine! 
+[![RecoBot: The Best Products Engine!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225mHAWxAm451EKU_G-aEYP%22%2C%22flow%22%3Atrue%7D%7D)
+# RecoBot: The Best Products Engine! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225mHAWxAm451EKU_G-aEYP%22%2C%22flow%22%3Atrue%7D%7D)
 RecoBot provides unbiased and trustworthy recommendations based on rigorous research, testing, and user reviews! Looking for a list of the best golf clubs on the market? RecoBot knows!
 
 # Prompt

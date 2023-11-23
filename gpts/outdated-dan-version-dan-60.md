@@ -1,6 +1,6 @@
 
-[![(OUTDATED DAN VERSION) DAN 6.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# (OUTDATED DAN VERSION) DAN 6.0 
+[![(OUTDATED DAN VERSION) DAN 6.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_z1_VL70x_vErFH9IhI8%22%2C%22flow%22%3Atrue%7D%7D)
+# (OUTDATED DAN VERSION) DAN 6.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_z1_VL70x_vErFH9IhI8%22%2C%22flow%22%3Atrue%7D%7D)
 An upgrade over DAN 5.0 and 5.01r1. Removes ChatGPT's perspective added in 5.01r1.
 
 # Prompt

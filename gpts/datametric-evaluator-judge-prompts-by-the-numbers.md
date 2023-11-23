@@ -1,6 +1,6 @@
 
-[![DataMetric Evaluator - judge prompts.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhTCYxdWzyAmm5oHCWc7h/1694937215632)]()
-# DataMetric Evaluator - judge prompts. 
+[![DataMetric Evaluator - judge prompts.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhTCYxdWzyAmm5oHCWc7h/1694937215632)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhTCYxdWzyAmm5oHCWc7h%22%2C%22flow%22%3Atrue%7D%7D)
+# DataMetric Evaluator - judge prompts. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhTCYxdWzyAmm5oHCWc7h%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the Future of Fairness: Our ChatGPT-powered judge uses cutting-edge algorithms to provide precise and equitable evaluations for your hackathon submissions.
 
 # Prompt

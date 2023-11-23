@@ -1,6 +1,6 @@
 
-[![meh](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KXyWV5eAno6-wu9lmnKdG/1696164331650)]()
-# meh 
+[![meh](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KXyWV5eAno6-wu9lmnKdG/1696164331650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KXyWV5eAno6-wu9lmnKdG%22%2C%22flow%22%3Atrue%7D%7D)
+# meh | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KXyWV5eAno6-wu9lmnKdG%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is good.
 
 # Prompt

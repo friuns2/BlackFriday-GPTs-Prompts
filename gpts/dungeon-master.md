@@ -1,6 +1,6 @@
 
-[![Dungeon Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Dungeon Master 
+[![Dungeon Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22emR9kBp_-z4CN4FrpeqPR%22%2C%22flow%22%3Atrue%7D%7D)
+# Dungeon Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22emR9kBp_-z4CN4FrpeqPR%22%2C%22flow%22%3Atrue%7D%7D)
 Have fun with friends, let AI guide you in your dungeons and dragons quest
 
 # Prompt

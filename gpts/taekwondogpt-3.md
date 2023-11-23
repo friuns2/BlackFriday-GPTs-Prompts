@@ -1,6 +1,6 @@
 
-[![Taekwondo_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# Taekwondo_GPT 
+[![Taekwondo_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZtMLYuUpiDe5sS37R9msQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Taekwondo_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZtMLYuUpiDe5sS37R9msQ%22%2C%22flow%22%3Atrue%7D%7D)
 Taekwondo is a Korean Martial art, now practiced around the world–including at Akula Taekwondo in Novi, Michigan. Since Taekwondo originated in the Korean peninsula, the Korean language is commonly used for commands, orders, and moves during traditional Taekwondo training. Because one of Mr. Tegler’s instructors was from Korea, he learned Korean Taekwondo terms while training and now teaches his students in the same tradition. 
 
 

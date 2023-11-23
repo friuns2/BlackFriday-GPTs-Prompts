@@ -1,6 +1,6 @@
 
-[![Link Building Email Campagin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Link Building Email Campagin 
+[![Link Building Email Campagin](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rOFi8NL6fGA0M5SFRThzo%22%2C%22flow%22%3Atrue%7D%7D)
+# Link Building Email Campagin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rOFi8NL6fGA0M5SFRThzo%22%2C%22flow%22%3Atrue%7D%7D)
 Create a genuine and persuasive email for an outreach campaign in order to build partnerships within a similar to niche for a backlink.  Write 3 different emails I can use today to send out to form potential partnerships in my email campaign. 
 
 # Prompt

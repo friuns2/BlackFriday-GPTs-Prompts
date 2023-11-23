@@ -1,6 +1,6 @@
 
-[![Balancing Promotional and Non-promotional Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Balancing Promotional and Non-promotional Content 
+[![Balancing Promotional and Non-promotional Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y4NdMiwJDGEfoC-dzjZKA%22%2C%22flow%22%3Atrue%7D%7D)
+# Balancing Promotional and Non-promotional Content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y4NdMiwJDGEfoC-dzjZKA%22%2C%22flow%22%3Atrue%7D%7D)
 Keeping a balance between promotional and non-promotional content is key to keep your audience engaged!
 
 # Prompt

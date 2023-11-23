@@ -1,6 +1,6 @@
 
-[![ Identifying Information Needs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-#  Identifying Information Needs 
+[![ Identifying Information Needs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l39UnCmt0K6sPa02dgwi7%22%2C%22flow%22%3Atrue%7D%7D)
+#  Identifying Information Needs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l39UnCmt0K6sPa02dgwi7%22%2C%22flow%22%3Atrue%7D%7D)
 Identifying what information is necessary to meet your research objectives
 
 # Prompt

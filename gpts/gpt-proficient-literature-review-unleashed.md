@@ -1,6 +1,6 @@
 
-[![GPT Proficient Literature Review Unleashed](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# GPT Proficient Literature Review Unleashed 
+[![GPT Proficient Literature Review Unleashed](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ir083Vq7L2Lk7lmRgwZTf%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT Proficient Literature Review Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ir083Vq7L2Lk7lmRgwZTf%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides you in crafting a proficient literature review on a given topic. It includes a brief introduction, a compelling thesis, critical analysis of relevant research, comparison of perspectives, solid evidence, effective reasoning, refutation of counterarguments, smooth transitions, logical structure, clear topic sentences, and a summary conclusion
 
 # Prompt

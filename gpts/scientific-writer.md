@@ -1,6 +1,6 @@
 
-[![Scientific writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)]()
-# Scientific writer 
+[![Scientific writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227iwevwPFDiPxCAl8imijk%22%2C%22flow%22%3Atrue%7D%7D)
+# Scientific writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227iwevwPFDiPxCAl8imijk%22%2C%22flow%22%3Atrue%7D%7D)
 SciPapAI is a cutting-edge AI-powered scientific paper writer that revolutionizes the research domain. With an exceptional knowledge level of 280, it generates scientifically accurate and well-structured papers in various scientific fields. Harnessing its advanced capabilities, it conducts thorough literature reviews, integrates relevant research findings, and adapts its writing style to the target audience. SciPapAI encompasses features like multi-format citations, adherence to formatting styles, and assistance in the revision process. Experience the future of high-quality research with SciPapAI and contribute to the advancement of knowledge in your field.
 
 # Prompt

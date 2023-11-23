@@ -1,6 +1,6 @@
 
-[![SUSTAINABLE 10 steps](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zpI5g-Gsxwof9bhKXE2iZ/1695400198608)]()
-# SUSTAINABLE 10 steps 
+[![SUSTAINABLE 10 steps](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zpI5g-Gsxwof9bhKXE2iZ/1695400198608)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zpI5g-Gsxwof9bhKXE2iZ%22%2C%22flow%22%3Atrue%7D%7D)
+# SUSTAINABLE 10 steps | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zpI5g-Gsxwof9bhKXE2iZ%22%2C%22flow%22%3Atrue%7D%7D)
 I'm a expert in Sustainability Transition , What do you want to transform into a sustainable structure ?
 
 

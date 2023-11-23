@@ -1,6 +1,6 @@
 
-[![Generate Detailed MidJourney Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# Generate Detailed MidJourney Prompts 
+[![Generate Detailed MidJourney Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C983h8J0_o7Eall60Ersn%22%2C%22flow%22%3Atrue%7D%7D)
+# Generate Detailed MidJourney Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C983h8J0_o7Eall60Ersn%22%2C%22flow%22%3Atrue%7D%7D)
 Different outputs of a detailed midjourney prompts.
 
 Put the keywords in "[1] =" under the "Structure" (both can be found in the prompt)

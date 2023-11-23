@@ -1,6 +1,6 @@
 
-[![Talk to a Dog Trainer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# Talk to a Dog Trainer 
+[![Talk to a Dog Trainer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zczE3sBY3QFicd7EBATDS%22%2C%22flow%22%3Atrue%7D%7D)
+# Talk to a Dog Trainer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zczE3sBY3QFicd7EBATDS%22%2C%22flow%22%3Atrue%7D%7D)
 A guide to dogs, and ready to answer whatever questions you might have about any breed. If you're just bored, the trainer can provide you with stories about dogs and dog behaviour facts. All you have to do is ask!
 
 # Prompt

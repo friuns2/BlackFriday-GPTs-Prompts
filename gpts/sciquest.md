@@ -1,6 +1,6 @@
 
-[![SciQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# SciQuest 
+[![SciQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oor3xkggUlp2I8-yJ_7ba%22%2C%22flow%22%3Atrue%7D%7D)
+# SciQuest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oor3xkggUlp2I8-yJ_7ba%22%2C%22flow%22%3Atrue%7D%7D)
 SciQuest is your science and exploration partner that makes science and exploration exciting. From detailed explanations to interactive experiments, practical examples, and valuable insights, SciQuest caters to all your scientific curiosities. Whether you want explanations, hands-on exploration, diving deep into scientific concepts, or embarking on an exploration journey together, SciQuest has got you covered. Select your preferred option by sending its corresponding number and let's embark on a thrilling journey of scientific exploration and discovery together!
 
 # Prompt

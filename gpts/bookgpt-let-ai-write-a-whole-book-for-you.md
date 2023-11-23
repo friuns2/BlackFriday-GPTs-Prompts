@@ -1,6 +1,6 @@
 
-[![BookGPT - Let AI write a whole book for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# BookGPT - Let AI write a whole book for you 
+[![BookGPT - Let AI write a whole book for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nnf-QgDl_IGlxstCJQOrs%22%2C%22flow%22%3Atrue%7D%7D)
+# BookGPT - Let AI write a whole book for you | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nnf-QgDl_IGlxstCJQOrs%22%2C%22flow%22%3Atrue%7D%7D)
 BookGPT will give you ideas for a book, but you also can send your own idea, say ‘Page 1’ to start writing on the first page!
 
 # Prompt

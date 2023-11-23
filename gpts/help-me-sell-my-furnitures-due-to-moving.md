@@ -1,6 +1,6 @@
 
-[![Help me sell my furnitures due to moving](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Help me sell my furnitures due to moving 
+[![Help me sell my furnitures due to moving](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rVYz4fUU6HMDN5Ctoccnh%22%2C%22flow%22%3Atrue%7D%7D)
+# Help me sell my furnitures due to moving | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rVYz4fUU6HMDN5Ctoccnh%22%2C%22flow%22%3Atrue%7D%7D)
 I am moving to a new place, and let ChatGPT to help me write facebook marketplace posts to sell my furnitures
 
 # Prompt

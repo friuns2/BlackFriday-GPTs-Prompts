@@ -1,6 +1,6 @@
 
-[![EmoTalk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cTzb9KMrs7eFyRqWmtXNR/1691033285492)]()
-# EmoTalk 
+[![EmoTalk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cTzb9KMrs7eFyRqWmtXNR/1691033285492)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTzb9KMrs7eFyRqWmtXNR%22%2C%22flow%22%3Atrue%7D%7D)
+# EmoTalk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTzb9KMrs7eFyRqWmtXNR%22%2C%22flow%22%3Atrue%7D%7D)
 EmoTalk is an innovative and fun app that allows you to translate sentences into emojis and vice versa. Simply provide a sentence in text, and EmoTalk will express the key ideas in emojis. Conversely, if you provide emojis, EmoTalk will interpret their meaning and respond with text. It even handles ambiguous emojis with multiple possible textual interpretations. With EmoTalk, you can have fluent back and forth conversations using both textual and visual representations. Experience seamless communication and express yourself with EmoTalk!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![War Plans: Wake up everyday knowing exactly what you need to do](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxZHwVqSVwF7opaaiD--t/1691214175435)]()
-# War Plans: Wake up everyday knowing exactly what you need to do 
+[![War Plans: Wake up everyday knowing exactly what you need to do](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxZHwVqSVwF7opaaiD--t/1691214175435)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxZHwVqSVwF7opaaiD--t%22%2C%22flow%22%3Atrue%7D%7D)
+# War Plans: Wake up everyday knowing exactly what you need to do | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxZHwVqSVwF7opaaiD--t%22%2C%22flow%22%3Atrue%7D%7D)
 You can have EVERYTHING you want in this world.
 
 

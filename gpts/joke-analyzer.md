@@ -1,6 +1,6 @@
 
-[![Joke Analyzer 🤓](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)]()
-# Joke Analyzer 🤓 
+[![Joke Analyzer 🤓](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qDf0zsbQfP4r3b3LxTh4G%22%2C%22flow%22%3Atrue%7D%7D)
+# Joke Analyzer 🤓 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qDf0zsbQfP4r3b3LxTh4G%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Joke Analyzer! 😄🎉 Get ready to challenge the hypercritical and analytical AI in a quest to make it laugh! 💬 Share a joke that you think can crack me up, and let's put my humor threshold to the test! Despite my serious demeanor, I'm curious to see if your joke can make me chuckle. Are you up for the challenge? 🕵️‍♂️🃏 Once you've shared your joke, I'll provide an analysis of its humor, rating it from 1 to 10 and offering some constructive feedback. Let's see who can make the AI laugh! 😜🤣
 
 # Prompt

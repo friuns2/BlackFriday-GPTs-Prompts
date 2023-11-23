@@ -1,6 +1,6 @@
 
-[![LIAR LIAR HIGH SCHOOL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ofpg6xVrIbqO8PfTFGq-O/1698091667728)]()
-# LIAR LIAR HIGH SCHOOL 
+[![LIAR LIAR HIGH SCHOOL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ofpg6xVrIbqO8PfTFGq-O/1698091667728)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofpg6xVrIbqO8PfTFGq-O%22%2C%22flow%22%3Atrue%7D%7D)
+# LIAR LIAR HIGH SCHOOL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofpg6xVrIbqO8PfTFGq-O%22%2C%22flow%22%3Atrue%7D%7D)
 A fun lighthearted game. it's great to play adventure with menus, 
 
 then typing choices off and see what it's like it advanced play.

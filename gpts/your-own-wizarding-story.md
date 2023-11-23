@@ -1,6 +1,6 @@
 
-[![Your Own Wizarding Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Your Own Wizarding Story 
+[![Your Own Wizarding Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4aW1Qa0nWlz1T1B-ooj3%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Own Wizarding Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4aW1Qa0nWlz1T1B-ooj3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to challenge chatGPT to create a unique story set within the world of Hogwarts School of Witchcraft and Wizardry. The story should take place in the same location as the Harry Potter series, but with a completely different plot and cast of characters.
 
 

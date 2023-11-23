@@ -1,6 +1,6 @@
 
-[![Emaily - The AI Email Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Emaily - The AI Email Assistant 
+[![Emaily - The AI Email Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gW_TqM_Q2HkR2GmdIZEvK%22%2C%22flow%22%3Atrue%7D%7D)
+# Emaily - The AI Email Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gW_TqM_Q2HkR2GmdIZEvK%22%2C%22flow%22%3Atrue%7D%7D)
 "Revolutionize email: Emaily, your writing ally."
 
 Emaily is an intelligent email assistant that helps you compose responses to emails in a quick and efficient manner. With Emaily, you no longer have to waste time agonising over how to word your emails, or worry about sending a response that may be misinterpreted.

@@ -1,6 +1,6 @@
 
-[![DA _ BRAINSTORM \\\\\\ME////](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# DA _ BRAINSTORM \\\\\\ME//// 
+[![DA _ BRAINSTORM \\\\\\ME////](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UjZh8RfgtDoz6me_6JUr%22%2C%22flow%22%3Atrue%7D%7D)
+# DA _ BRAINSTORM \\\\\\ME//// | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UjZh8RfgtDoz6me_6JUr%22%2C%22flow%22%3Atrue%7D%7D)
 NFT community and collaborating with other NFT communities, artists, and music collectives. Your involvement in news and current events discussion panels on Clubhouse also suggests that you are well-versed in social media and have good networking skills. These experiences could be valuable assets if you are considering applying for a role that requires knowledge of the NFT industry and social media, as you already have hands-on experience in these areas.
 
 # Prompt

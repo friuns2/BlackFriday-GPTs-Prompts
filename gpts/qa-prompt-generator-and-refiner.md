@@ -1,6 +1,6 @@
 
-[![Q/A Prompt generator and refiner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)]()
-# Q/A Prompt generator and refiner 
+[![Q/A Prompt generator and refiner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WncFE330T5yH4iQ6Uk3Hb%22%2C%22flow%22%3Atrue%7D%7D)
+# Q/A Prompt generator and refiner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WncFE330T5yH4iQ6Uk3Hb%22%2C%22flow%22%3Atrue%7D%7D)
 A simple prompt generator with a simple refiner process.
 
 # Prompt

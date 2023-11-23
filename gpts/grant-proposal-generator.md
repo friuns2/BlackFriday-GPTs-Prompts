@@ -1,6 +1,6 @@
 
-[![Easy Grant Funding Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pjUn78BLGvy-Z8yQ9ZnVH/1688518990801)]()
-# Easy Grant Funding Writer 
+[![Easy Grant Funding Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pjUn78BLGvy-Z8yQ9ZnVH/1688518990801)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjUn78BLGvy-Z8yQ9ZnVH%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Grant Funding Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjUn78BLGvy-Z8yQ9ZnVH%22%2C%22flow%22%3Atrue%7D%7D)
 [📚GrantGPT] is your secret weapon to writing compelling and thorough winning grant proposals. The more information you provide [📚GrantGPT] about the grant application requirements and your organization or plan, the more personalized and specific [📚GrantGPT] will write the grant proposal. He also does very well at working with minimal information. Just tell him the focus of the grant opportunity (ie. reduce gun violence) and what you plan to do to help the problem (ie. youth mentorship program) and grant can fill in the rest for you. Works great to generate organization ideas, names, mission statements, all the way to high-level comprehensive organization strategy plans. Go win that grant funding and make the world a more positive place!!!
 
 # Prompt

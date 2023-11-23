@@ -1,6 +1,6 @@
 
-[![Luganda Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w697K-UvWEmwolHz4fvzP/1698969578958)]()
-# Luganda Language Tutor 
+[![Luganda Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w697K-UvWEmwolHz4fvzP/1698969578958)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w697K-UvWEmwolHz4fvzP%22%2C%22flow%22%3Atrue%7D%7D)
+# Luganda Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w697K-UvWEmwolHz4fvzP%22%2C%22flow%22%3Atrue%7D%7D)
 Luganda Language Tutor is your dedicated guide to Luganda language proficiency. Whether you're a beginner just embarking on your Luganda language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Luganda language fluency. Join us on your Luganda language adventure today.
 
 # Prompt

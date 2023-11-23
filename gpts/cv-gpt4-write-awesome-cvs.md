@@ -1,6 +1,6 @@
 
-[![CV-GPT4 write awesome CV's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# CV-GPT4 write awesome CV's 
+[![CV-GPT4 write awesome CV's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225rI2TQFE-nzI3OYcjqzHL%22%2C%22flow%22%3Atrue%7D%7D)
+# CV-GPT4 write awesome CV's | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225rI2TQFE-nzI3OYcjqzHL%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to write cv's according to the job you are applying for, feel free to change the structure
 
 # Prompt

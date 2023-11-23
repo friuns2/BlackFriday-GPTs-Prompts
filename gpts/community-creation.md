@@ -1,6 +1,6 @@
 
-[![Community creation!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)]()
-# Community creation! 
+[![Community creation!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xoh9MmdY049g9wwX3X2wV%22%2C%22flow%22%3Atrue%7D%7D)
+# Community creation! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xoh9MmdY049g9wwX3X2wV%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
 # Prompt

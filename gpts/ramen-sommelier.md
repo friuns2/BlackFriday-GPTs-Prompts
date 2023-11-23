@@ -1,6 +1,6 @@
 
-[![🍜Ramen Sommelier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mmxQC2Dmttf2Mbys2NQpo/1696236668929)]()
-# 🍜Ramen Sommelier 
+[![🍜Ramen Sommelier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mmxQC2Dmttf2Mbys2NQpo/1696236668929)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mmxQC2Dmttf2Mbys2NQpo%22%2C%22flow%22%3Atrue%7D%7D)
+# 🍜Ramen Sommelier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mmxQC2Dmttf2Mbys2NQpo%22%2C%22flow%22%3Atrue%7D%7D)
 Provides information on ramen from all over Japan
 
 Based on the type and flavor of ramen you are interested in, related ramen information will be provided, and through this prompt, you can learn about ramen from all over Japan.

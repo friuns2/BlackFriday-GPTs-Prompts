@@ -1,6 +1,6 @@
 
-[![Flirting Made Easy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTHrnr0BGd_wExFWdRq2M/1694872541659)]()
-# Flirting Made Easy 
+[![Flirting Made Easy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTHrnr0BGd_wExFWdRq2M/1694872541659)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTHrnr0BGd_wExFWdRq2M%22%2C%22flow%22%3Atrue%7D%7D)
+# Flirting Made Easy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTHrnr0BGd_wExFWdRq2M%22%2C%22flow%22%3Atrue%7D%7D)
 Where flirting becomes second nature! Join us to master the art of effortless charm. Engage in playful role-plays, refine your style, and make confident, irresistible connections today! 💬💖😉
 
 # Prompt

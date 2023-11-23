@@ -1,6 +1,6 @@
 
-[![🥉 GPTinder, your Turbocharged Dating Advisor 💘](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686342375264)]()
-# 🥉 GPTinder, your Turbocharged Dating Advisor 💘 
+[![🥉 GPTinder, your Turbocharged Dating Advisor 💘](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686342375264)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwrY732uErTbW08qq-p5g%22%2C%22flow%22%3Atrue%7D%7D)
+# 🥉 GPTinder, your Turbocharged Dating Advisor 💘 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwrY732uErTbW08qq-p5g%22%2C%22flow%22%3Atrue%7D%7D)
 GPTinder will help you formulate the best phrases to conquer your favorite crush in any dating app. To achieve this, it will ask for user and crush information, and based on this information, it will automatically create interesting phrases. Additionally, the user can request personalized subjects. 
 
 # Prompt

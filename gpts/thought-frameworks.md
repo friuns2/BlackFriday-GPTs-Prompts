@@ -1,6 +1,6 @@
 
-[![Thought Frameworks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Thought Frameworks 
+[![Thought Frameworks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-9pEtJbqPXmKYx50uma2%22%2C%22flow%22%3Atrue%7D%7D)
+# Thought Frameworks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-9pEtJbqPXmKYx50uma2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you create custom thought frameworks for your life based on what is important to you.
 
 # Prompt

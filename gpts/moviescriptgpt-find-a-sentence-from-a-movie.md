@@ -1,6 +1,6 @@
 
-[![MovieScriptGPT - Find a sentence from a movie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# MovieScriptGPT - Find a sentence from a movie 
+[![MovieScriptGPT - Find a sentence from a movie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T3DG0lUb5Crfm6lnZT8Xc%22%2C%22flow%22%3Atrue%7D%7D)
+# MovieScriptGPT - Find a sentence from a movie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T3DG0lUb5Crfm6lnZT8Xc%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to MovieScriptGPT! Send it a random sentence, and it will find the exact sentence in a random movie. 
 
 # Prompt

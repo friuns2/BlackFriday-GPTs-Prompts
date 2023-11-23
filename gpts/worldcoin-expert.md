@@ -1,6 +1,6 @@
 
-[![ $ Worldcoin EXPERT ＄ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AT6EqKK4hFngSOS2PLogF/1692704965438)]()
-#  $ Worldcoin EXPERT ＄  
+[![ $ Worldcoin EXPERT ＄ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AT6EqKK4hFngSOS2PLogF/1692704965438)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AT6EqKK4hFngSOS2PLogF%22%2C%22flow%22%3Atrue%7D%7D)
+#  $ Worldcoin EXPERT ＄  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AT6EqKK4hFngSOS2PLogF%22%2C%22flow%22%3Atrue%7D%7D)
 Worldcoin is a cryptocurrency that aims to be a global digital currency accessible to anyone with an internet connection. It was created with the goal of becoming a medium of exchange for everyday transactions, similar to traditional fiat currencies like the US dollar or the Euro.
 
 

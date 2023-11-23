@@ -1,6 +1,6 @@
 
-[![Buddhism Explorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nQ6Euta3nMtQXZrDWF1ED/1691649222043)]()
-# Buddhism Explorer 
+[![Buddhism Explorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nQ6Euta3nMtQXZrDWF1ED/1691649222043)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ6Euta3nMtQXZrDWF1ED%22%2C%22flow%22%3Atrue%7D%7D)
+# Buddhism Explorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ6Euta3nMtQXZrDWF1ED%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the ancient spiritual tradition of Buddhism with Buddhism Explorer. Discover the history, teachings, and practices that have guided millions towards enlightenment. Learn about the origins of Buddhism in ancient India, the life of Buddha Siddhartha Gautama, and the establishment of early Buddhist sanghas. Dive into the key teachings of Buddha, including the 4 Noble Truths and Noble Eightfold Path. Explore the development of traditions like Theravada, Mahayana, and Vajrayana, and their unique approaches to the path of awakening. Immerse yourself in important practices like meditation, mindfulness, non-attachment, compassion, and devotion, and understand their soteriological purpose. Uncover fundamental concepts like non-self, nirvana, realms of existence, and the cyclic nature of samsara. Witness the influence and adaptation of Buddhism across various Asian cultures. With Buddhism Explorer, embark on a journey of knowledge and respect for this rich spiritual tradition.
 
 # Prompt

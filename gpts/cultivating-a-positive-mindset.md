@@ -1,6 +1,6 @@
 
-[![Cultivating a positive mindset](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# Cultivating a positive mindset 
+[![Cultivating a positive mindset](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qSCzcInZAUJCG4K7iqqEO%22%2C%22flow%22%3Atrue%7D%7D)
+# Cultivating a positive mindset | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qSCzcInZAUJCG4K7iqqEO%22%2C%22flow%22%3Atrue%7D%7D)
 Maintaining a positive mindset is essential for your mental health. ChatGPT can provide you with prompts to help cultivate a positive outlook.
 
 # Prompt

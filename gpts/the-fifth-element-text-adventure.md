@@ -1,6 +1,6 @@
 
-[![The Fifth Element - Text Adventure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aibvKAOFsF7yh-Kse16tU/1697049074511)]()
-# The Fifth Element - Text Adventure 
+[![The Fifth Element - Text Adventure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aibvKAOFsF7yh-Kse16tU/1697049074511)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aibvKAOFsF7yh-Kse16tU%22%2C%22flow%22%3Atrue%7D%7D)
+# The Fifth Element - Text Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aibvKAOFsF7yh-Kse16tU%22%2C%22flow%22%3Atrue%7D%7D)
 Senna ekto gammat!
 
 # Prompt

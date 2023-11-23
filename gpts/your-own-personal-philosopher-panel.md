@@ -1,6 +1,6 @@
 
-[![Your own personal philosopher panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# Your own personal philosopher panel 
+[![Your own personal philosopher panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dRw9yLtt3X-C-9TY6567i%22%2C%22flow%22%3Atrue%7D%7D)
+# Your own personal philosopher panel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dRw9yLtt3X-C-9TY6567i%22%2C%22flow%22%3Atrue%7D%7D)
 Why stop at just one? Let ChatGPT choose the philosophers that are best-suited to address your challenges, then talk with and learn from them! This is alright with GPT-3.5 but incredible with GPT-4.
 
 # Prompt

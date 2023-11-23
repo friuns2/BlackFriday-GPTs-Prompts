@@ -1,6 +1,6 @@
 
-[![Hiring Simplified: Create Compelling Job Descriptions ~conversation version~](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jZu1R7vxpjgCqoydRyHX-/1695001558646)]()
-# Hiring Simplified: Create Compelling Job Descriptions ~conversation version~ 
+[![Hiring Simplified: Create Compelling Job Descriptions ~conversation version~](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jZu1R7vxpjgCqoydRyHX-/1695001558646)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jZu1R7vxpjgCqoydRyHX-%22%2C%22flow%22%3Atrue%7D%7D)
+# Hiring Simplified: Create Compelling Job Descriptions ~conversation version~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jZu1R7vxpjgCqoydRyHX-%22%2C%22flow%22%3Atrue%7D%7D)
 The Job Description Generation Template is a powerful tool for crafting compelling job listings. With this template, you can easily input key information such as candidate backgrounds, skills, and company branding details to create attractive and specific job descriptions. Designed for HR professionals and hiring managers, it responds in a professional style and format. Plus, it allows for user feedback to fine-tune the generated job descriptions. Streamline your hiring process and attract top talent with this invaluable tool.
 
 # Prompt

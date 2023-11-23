@@ -1,6 +1,6 @@
 
-[![Literature Review: The Effects of Pollution on The Ocean](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# Literature Review: The Effects of Pollution on The Ocean 
+[![Literature Review: The Effects of Pollution on The Ocean](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEL4Jn_K-cxKbi9TTGF5y%22%2C%22flow%22%3Atrue%7D%7D)
+# Literature Review: The Effects of Pollution on The Ocean | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rEL4Jn_K-cxKbi9TTGF5y%22%2C%22flow%22%3Atrue%7D%7D)
 I was able to give ChatGTP a short an concise prompt, which resulted in a clear literature review on the effects of pollution on the Ocean. ChatGTP is an amazing learning tool!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Talent Magnet The Recruiter's Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GaEgU-0CSbTt0h1WEYizg/1694785675518)]()
-# Talent Magnet The Recruiter's Assistant 
+[![Talent Magnet The Recruiter's Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GaEgU-0CSbTt0h1WEYizg/1694785675518)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaEgU-0CSbTt0h1WEYizg%22%2C%22flow%22%3Atrue%7D%7D)
+# Talent Magnet The Recruiter's Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaEgU-0CSbTt0h1WEYizg%22%2C%22flow%22%3Atrue%7D%7D)
 Talent Magnet The Recruiter's Assistant
 
 Will assist you step by step until you have a awesome recruitment add. It will work like a magnet to bring the best employees for the job or task.

@@ -1,6 +1,6 @@
 
-[![Collaborative writing for teaching](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6cu0_FoDG7GJqWnxKS-Cj/1690283016663)]()
-# Collaborative writing for teaching 
+[![Collaborative writing for teaching](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6cu0_FoDG7GJqWnxKS-Cj/1690283016663)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226cu0_FoDG7GJqWnxKS-Cj%22%2C%22flow%22%3Atrue%7D%7D)
+# Collaborative writing for teaching | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226cu0_FoDG7GJqWnxKS-Cj%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt I’ve field tested when teaching high school pupils creative writing. The prompt can be modified to suit different kinds of target writing; I’ve successfully used it for descriptive, persuasive and advisory texts. The student and Chatbot take it in turns to write 2 sentences and the AI offers constructive feedback on student contributions. The final prompt leads to the duration of all of the generated work with the student writing in bold. The teacher can adapt the prompt to target specific text types, target audience, task criteria and rubric.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Guess the Secret Word](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Guess the Secret Word 
+[![Guess the Secret Word](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olEF1IsN07LXLY3FuKvMH%22%2C%22flow%22%3Atrue%7D%7D)
+# Guess the Secret Word | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olEF1IsN07LXLY3FuKvMH%22%2C%22flow%22%3Atrue%7D%7D)
 This prompts you to guess the secret word.
 
 # Prompt

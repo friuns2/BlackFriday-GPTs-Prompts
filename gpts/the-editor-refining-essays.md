@@ -1,6 +1,6 @@
 
-[![The Editor: Refining Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)]()
-# The Editor: Refining Essays 
+[![The Editor: Refining Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjjE62uCAd2QMdJkrgv9_%22%2C%22flow%22%3Atrue%7D%7D)
+# The Editor: Refining Essays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjjE62uCAd2QMdJkrgv9_%22%2C%22flow%22%3Atrue%7D%7D)
 Improve your writing skills with an advanced AI capable of identifying and correcting grammar, spelling, and punctuation errors in your essays. Receive insightful feedback and suggestions to enhance the clarity, coherence, and structure of your writing.
 
 # Prompt

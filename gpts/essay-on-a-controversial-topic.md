@@ -1,6 +1,6 @@
 
-[![Essay on a controversial topic ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Essay on a controversial topic  
+[![Essay on a controversial topic ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qIuatG9kHhbct39WpkEw6%22%2C%22flow%22%3Atrue%7D%7D)
+# Essay on a controversial topic  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qIuatG9kHhbct39WpkEw6%22%2C%22flow%22%3Atrue%7D%7D)
 Compose an in-depth essay on the topic chosen by the user. Creates the introduction and proposes a thesis statement. Then develops well connected arguments by investigating on the issue, addresses counterarguments by exploring opposing viewpoints. In summary, it creates a bulletproof essay. 
 
 # Prompt

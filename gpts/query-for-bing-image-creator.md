@@ -1,6 +1,6 @@
 
-[![Query for Bing Image Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nu2p28_BPeXAdYqUhzP-K/1690127935301)]()
-# Query for Bing Image Creator 
+[![Query for Bing Image Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nu2p28_BPeXAdYqUhzP-K/1690127935301)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nu2p28_BPeXAdYqUhzP-K%22%2C%22flow%22%3Atrue%7D%7D)
+# Query for Bing Image Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nu2p28_BPeXAdYqUhzP-K%22%2C%22flow%22%3Atrue%7D%7D)
 (now would depreciate?)
 
 actionTags that you can use, such as:

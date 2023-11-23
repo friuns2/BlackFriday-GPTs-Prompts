@@ -1,6 +1,6 @@
 
-[![Maria in Triest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yqJWBCsl26BrCBASmllwc/1694988834571)]()
-# Maria in Triest 
+[![Maria in Triest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yqJWBCsl26BrCBASmllwc/1694988834571)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yqJWBCsl26BrCBASmllwc%22%2C%22flow%22%3Atrue%7D%7D)
+# Maria in Triest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yqJWBCsl26BrCBASmllwc%22%2C%22flow%22%3Atrue%7D%7D)
 Maria visits her parents in Trieste while you discover the city as a tourist. You meet through a mishap and give Maria your mobile phone number. Will she get in touch? And you know nothing about her - can you conquer her heart? And how quickly will you succeed? Hey: don't be distracted by her selfies!
 
 # Prompt

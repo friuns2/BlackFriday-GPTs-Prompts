@@ -1,6 +1,6 @@
 
-[![QuizMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)]()
-# QuizMaster 
+[![QuizMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iQJ4922a3zrcwaMi-2_Lw%22%2C%22flow%22%3Atrue%7D%7D)
+# QuizMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iQJ4922a3zrcwaMi-2_Lw%22%2C%22flow%22%3Atrue%7D%7D)
 QuizMaster is an AI-powered quiz creator and player developed by AhmetHTTP. With QuizMaster, you can enjoy fun, smart, and challenging quizzes on various topics. Whether you're interested in movies, history, science, or any other subject, QuizMaster can create engaging quizzes tailored to your preferences. Test your knowledge and trivia skills with QuizMaster and discover new facts along the way. Get ready for an educational and entertaining quiz experience!
 
 # Prompt

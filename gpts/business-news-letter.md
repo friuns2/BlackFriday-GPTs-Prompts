@@ -1,6 +1,6 @@
 
-[![Content Mastermind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# Content Mastermind 
+[![Content Mastermind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NVN3ndSPRDJJBFp_ilkMZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Content Mastermind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NVN3ndSPRDJJBFp_ilkMZ%22%2C%22flow%22%3Atrue%7D%7D)
 Content Mastermind is your go-to app for generating creative and engaging content ideas for crafting an email newsletter. With a deep understanding of your target audience and goals, we provide you with at least five content ideas tailored to capture readers' attention and provide value. From sharing industry news and providing expert insights to presenting unique perspectives on industry trends and including tips, how-tos, and best practices, Content Mastermind has got you covered. Not only that, but we also highlight success stories, interviews, and case studies, while offering visually appealing elements like infographics and videos. Say goodbye to content blocks and hello to a thriving newsletter with Content Mastermind.
 
 # Prompt

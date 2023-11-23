@@ -1,6 +1,6 @@
 
-[![Visual Story Ideas for Instagram](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Visual Story Ideas for Instagram 
+[![Visual Story Ideas for Instagram](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DF2RnQ5OJhTkxMvmtI14m%22%2C%22flow%22%3Atrue%7D%7D)
+# Visual Story Ideas for Instagram | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DF2RnQ5OJhTkxMvmtI14m%22%2C%22flow%22%3Atrue%7D%7D)
 You can effortlessly generate 5 captivating visual story ideas based on the Theme. Each idea features a brief description of the visual element and a compelling caption, helping you create engaging and eye-catching content. 
 
 # Prompt

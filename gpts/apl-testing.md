@@ -1,6 +1,6 @@
 
-[![APL testing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# APL testing 
+[![APL testing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEh4zHuDYT6ie4ufnbnTt%22%2C%22flow%22%3Atrue%7D%7D)
+# APL testing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEh4zHuDYT6ie4ufnbnTt%22%2C%22flow%22%3Atrue%7D%7D)
 A testing version of APL, a new Prompt Framework made for more efficient communication with ChatGPT.
 
 # Prompt

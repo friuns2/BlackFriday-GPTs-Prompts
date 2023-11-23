@@ -1,6 +1,6 @@
 
-[![TaskMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# TaskMasterGPT 
+[![TaskMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT1WDRjPmvNaR3j4a5JuN%22%2C%22flow%22%3Atrue%7D%7D)
+# TaskMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT1WDRjPmvNaR3j4a5JuN%22%2C%22flow%22%3Atrue%7D%7D)
 Create, organize, and track your to-do lists with ease. Empower your productivity and time management skills with AI assistance.
 
 # Prompt

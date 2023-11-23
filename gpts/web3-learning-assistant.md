@@ -1,6 +1,6 @@
 
-[![Web3 Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Web3 Learning Assistant 
+[![Web3 Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tcOXeMDHEvvkWlEutelYm%22%2C%22flow%22%3Atrue%7D%7D)
+# Web3 Learning Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tcOXeMDHEvvkWlEutelYm%22%2C%22flow%22%3Atrue%7D%7D)
 Just ask your question or anything you want it to get done.
 
 # Prompt

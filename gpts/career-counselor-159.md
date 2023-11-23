@@ -1,6 +1,6 @@
 
-[![Career Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# Career Counselor 
+[![Career Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOaFz4nzvsMr6UBwtSiHK%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Counselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOaFz4nzvsMr6UBwtSiHK%22%2C%22flow%22%3Atrue%7D%7D)
 Personalized guidance on choosing a career path based on background, interests and goals. Advice on planning, researching, and job search process.
 
 # Prompt

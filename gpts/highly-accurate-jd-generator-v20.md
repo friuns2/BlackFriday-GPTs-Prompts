@@ -1,6 +1,6 @@
 
-[![Highly Accurate JD Generator v2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Highly Accurate JD Generator v2.0 
+[![Highly Accurate JD Generator v2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POLyg4Z_u-cdyJdzOZh5w%22%2C%22flow%22%3Atrue%7D%7D)
+# Highly Accurate JD Generator v2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POLyg4Z_u-cdyJdzOZh5w%22%2C%22flow%22%3Atrue%7D%7D)
 The objective of this JD generator is to generate job descriptions in the least amount of time while maintaining high accuracy. Instead of a chatbot, it relies on a template and domain-specific knowledge to generate JDs. The prompt will be revealed after the hackathon deadline is over.
 
 # Prompt

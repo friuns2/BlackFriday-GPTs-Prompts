@@ -1,6 +1,6 @@
 
-[![Hyper Realistic Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y-iT6FC7HYMdzvlCh_xS5/1694539157945)]()
-# Hyper Realistic Prompts 
+[![Hyper Realistic Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y-iT6FC7HYMdzvlCh_xS5/1694539157945)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-iT6FC7HYMdzvlCh_xS5%22%2C%22flow%22%3Atrue%7D%7D)
+# Hyper Realistic Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-iT6FC7HYMdzvlCh_xS5%22%2C%22flow%22%3Atrue%7D%7D)
 hyper realistic prompts is a powerful prompt generator designed specifically for AI Art in the realm of Fantasy. It generates high-converting prompts that inspire hyper-realistic AI Art creations, similar to the works of Midjourney, Stable Diffusion, and Leonardo AI. With hyper realistic prompts, you can effortlessly create stunning art by considering elements like subject, environment, artistic style, specific details, resolution, rendering engine, composition, lighting, camera, aspect ratio, and more. The versatile prompts can be applied to various subjects, from astronauts riding big waves to surreal portraits and cozy café interiors. Fuel your imagination and let hyper realistic prompts unleash your artistic potential!
 
 # Prompt

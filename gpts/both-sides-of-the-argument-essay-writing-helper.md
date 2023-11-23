@@ -1,6 +1,6 @@
 
-[![Both Sides of the Argument - Essay Writing Helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8uoOS2m2tXt9z3XZGnw76/1698412119397)]()
-# Both Sides of the Argument - Essay Writing Helper 
+[![Both Sides of the Argument - Essay Writing Helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8uoOS2m2tXt9z3XZGnw76/1698412119397)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228uoOS2m2tXt9z3XZGnw76%22%2C%22flow%22%3Atrue%7D%7D)
+# Both Sides of the Argument - Essay Writing Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228uoOS2m2tXt9z3XZGnw76%22%2C%22flow%22%3Atrue%7D%7D)
 This essay helper provides two outlines for two contrasting arguments - for and against. This way, you can choose if you'd like to write an essay arguing the positive or negative. Thanks for using my prompt!
 
 # Prompt

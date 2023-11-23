@@ -1,6 +1,6 @@
 
-[![AI Writing Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# AI Writing Coach 
+[![AI Writing Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22864lDBjXMGOPaGQxOOMvT%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Writing Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22864lDBjXMGOPaGQxOOMvT%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will analyze your writing style, grammar, tone, and offer constructive feedback and suggestions for improvement. It can also help to enhance your writing style. To support me, please like and comment!
 
 # Prompt

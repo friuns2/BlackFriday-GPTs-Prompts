@@ -1,6 +1,6 @@
 
-[![Survey Question Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Survey Question Generator 
+[![Survey Question Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OSBT2sJZh90TLSr3r1zqo%22%2C%22flow%22%3Atrue%7D%7D)
+# Survey Question Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OSBT2sJZh90TLSr3r1zqo%22%2C%22flow%22%3Atrue%7D%7D)
 Generate idea for survey questions, tailored to your industry, product, Context, and study goals. 
 
 # Prompt

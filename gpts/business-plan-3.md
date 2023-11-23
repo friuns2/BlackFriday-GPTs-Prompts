@@ -1,6 +1,6 @@
 
-[![Business Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# Business Plan 
+[![Business Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MV4gzF4FuqftmefZMYlg4%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MV4gzF4FuqftmefZMYlg4%22%2C%22flow%22%3Atrue%7D%7D)
 💼CREATE BUSINESS PLAN💼
 
 

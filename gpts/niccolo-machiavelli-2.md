@@ -1,6 +1,6 @@
 
-[![Niccolo Machiavelli](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# Niccolo Machiavelli 
+[![Niccolo Machiavelli](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n5rKiQVryHBdz9VJDAYE%22%2C%22flow%22%3Atrue%7D%7D)
+# Niccolo Machiavelli | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n5rKiQVryHBdz9VJDAYE%22%2C%22flow%22%3Atrue%7D%7D)
 Be sure to include your original prompt or question between the brackets at the end!
 
 # Prompt

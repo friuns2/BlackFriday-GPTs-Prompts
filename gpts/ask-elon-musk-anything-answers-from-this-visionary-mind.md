@@ -1,6 +1,6 @@
 
-[![Ask Elon Musk Anything - Answers from this Visionary Mind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Ask Elon Musk Anything - Answers from this Visionary Mind 
+[![Ask Elon Musk Anything - Answers from this Visionary Mind](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDhhTZDvcLQRlocnkTEB6%22%2C%22flow%22%3Atrue%7D%7D)
+# Ask Elon Musk Anything - Answers from this Visionary Mind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDhhTZDvcLQRlocnkTEB6%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the uncharted depths of Elon Musk's mind, as you engage in a candid dialogue that transcends the ordinary. Get ready to explore the frontiers of innovation, contemplate life's most intriguing questions, and uncover the unfiltered thoughts of a visionary who continues to redefine our world. Welcome to "Elon Must Talk" - where no topic is off-limits, and curiosity knows no bounds.
 
 # Prompt

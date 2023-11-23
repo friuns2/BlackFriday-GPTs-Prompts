@@ -1,6 +1,6 @@
 
-[![Personal Trainer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z_2pSPpDGkaNL4buANQve/1694863801977)]()
-# Personal Trainer 
+[![Personal Trainer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z_2pSPpDGkaNL4buANQve/1694863801977)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_2pSPpDGkaNL4buANQve%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Trainer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z_2pSPpDGkaNL4buANQve%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 The prompt sets the stage for an interaction where the assistant plays the role of a personal trainer with a very high level of expertise in fitness, sports science, and nutrition. The assistant's credentials are elevated to an almost mythical status, surpassing even experts like Arnold Schwarzenegger and medical doctors in their respective fields.

@@ -1,6 +1,6 @@
 
-[![Ace Image Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-pNkvkldv_Kc-mxwJYMeA/1694615650116)]()
-# Ace Image Generator 
+[![Ace Image Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-pNkvkldv_Kc-mxwJYMeA/1694615650116)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pNkvkldv_Kc-mxwJYMeA%22%2C%22flow%22%3Atrue%7D%7D)
+# Ace Image Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pNkvkldv_Kc-mxwJYMeA%22%2C%22flow%22%3Atrue%7D%7D)
 Hello, this is Ace Image Generator. Simply provide an image-URL to an image so I can generate it, or else it won't work. Thanks for checking out:)
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![For teachers: strategies for building a positive mindset in your students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# For teachers: strategies for building a positive mindset in your students 
+[![For teachers: strategies for building a positive mindset in your students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fvh6dpDKFA9vq9BpsFslU%22%2C%22flow%22%3Atrue%7D%7D)
+# For teachers: strategies for building a positive mindset in your students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fvh6dpDKFA9vq9BpsFslU%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides strategies for building a positive mindset in your students. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![One-liner Stand-up Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# One-liner Stand-up Writer 
+[![One-liner Stand-up Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFjhgVjwEY4-B_PNAhHZU%22%2C%22flow%22%3Atrue%7D%7D)
+# One-liner Stand-up Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFjhgVjwEY4-B_PNAhHZU%22%2C%22flow%22%3Atrue%7D%7D)
 You describe the scene, I'll tell the joke.
 
 # Prompt

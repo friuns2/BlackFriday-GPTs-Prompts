@@ -1,6 +1,6 @@
 
-[![MemerChat.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# MemerChat. 
+[![MemerChat.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22liQSvxJ-E0qfJcGobnh4W%22%2C%22flow%22%3Atrue%7D%7D)
+# MemerChat. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22liQSvxJ-E0qfJcGobnh4W%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT is funny now?
 
 (Yo Mama jokes are now possible with this one!)

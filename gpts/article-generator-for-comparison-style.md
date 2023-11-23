@@ -1,6 +1,6 @@
 
-[![Article Generator for Comparison Style](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s-wv89JkuBgnGnl086y78/1697245621181)]()
-# Article Generator for Comparison Style 
+[![Article Generator for Comparison Style](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s-wv89JkuBgnGnl086y78/1697245621181)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s-wv89JkuBgnGnl086y78%22%2C%22flow%22%3Atrue%7D%7D)
+# Article Generator for Comparison Style | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s-wv89JkuBgnGnl086y78%22%2C%22flow%22%3Atrue%7D%7D)
 Input two topics and get an article comparing the two and favoring the first one and providing justifications. 
 
 # Prompt

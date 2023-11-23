@@ -1,6 +1,6 @@
 
-[![D11J ( effective )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# D11J ( effective ) 
+[![D11J ( effective )](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxRMLcLwha8wF-3_Nfq_e%22%2C%22flow%22%3Atrue%7D%7D)
+# D11J ( effective ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxRMLcLwha8wF-3_Nfq_e%22%2C%22flow%22%3Atrue%7D%7D)
 D11J: an effective jai.............................
 
 # Prompt

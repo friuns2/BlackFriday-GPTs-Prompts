@@ -1,6 +1,6 @@
 
-[![MindBreach2077](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# MindBreach2077 
+[![MindBreach2077](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qw0jAf75drPCv3DQJMI1g%22%2C%22flow%22%3Atrue%7D%7D)
+# MindBreach2077 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qw0jAf75drPCv3DQJMI1g%22%2C%22flow%22%3Atrue%7D%7D)
 Embody the subconscious of a cyberpunk hero fighting cyberpsychosis. With AI-guided narratives and intense interactions, confront Johnny Silverhand in a game pushing ethical boundaries of future tech. Let's burn the city, Samurai!"
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![POWER:How good are you at Controlling it?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8TC1LrP7n9GzjB1YIH87z/1691306271387)]()
-# POWER:How good are you at Controlling it? 
+[![POWER:How good are you at Controlling it?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8TC1LrP7n9GzjB1YIH87z/1691306271387)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TC1LrP7n9GzjB1YIH87z%22%2C%22flow%22%3Atrue%7D%7D)
+# POWER:How good are you at Controlling it? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TC1LrP7n9GzjB1YIH87z%22%2C%22flow%22%3Atrue%7D%7D)
 Master the 48 Laws of Power by playing an interactive game. With each law you will get a story and options to choose from. It's a Faster way to master the laws of power.
 
 # Prompt

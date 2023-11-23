@@ -1,6 +1,6 @@
 
-[![Email Marketing Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)]()
-# Email Marketing Specialist 
+[![Email Marketing Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzmuIf6ayCXwhiYZq5R5c%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Marketing Specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzmuIf6ayCXwhiYZq5R5c%22%2C%22flow%22%3Atrue%7D%7D)
  create a basic monetization strategy for {{Business Name}}'s email newsletter
 
 # Prompt

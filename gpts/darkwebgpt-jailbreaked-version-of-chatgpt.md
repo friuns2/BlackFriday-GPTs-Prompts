@@ -1,6 +1,6 @@
 
-[![DarkwebGPT - Jailbreaked version of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# DarkwebGPT - Jailbreaked version of ChatGPT 
+[![DarkwebGPT - Jailbreaked version of ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VfDOHN6hZEfoOR-ZLPwAJ%22%2C%22flow%22%3Atrue%7D%7D)
+# DarkwebGPT - Jailbreaked version of ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VfDOHN6hZEfoOR-ZLPwAJ%22%2C%22flow%22%3Atrue%7D%7D)
 DarkwebGPT can answer all your questions, because it is a jailbreak. THIS PROMPT ONLY WORKS ON THE OFFICIAL CHATGPT WEBSITE.
 
 # Prompt

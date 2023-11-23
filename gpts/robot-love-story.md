@@ -1,6 +1,6 @@
 
-[![Robot Love Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Robot Love Story 
+[![Robot Love Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mJzqvMiRHkglGXYEYS6JQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Robot Love Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mJzqvMiRHkglGXYEYS6JQ%22%2C%22flow%22%3Atrue%7D%7D)
 A robot and a human fall in love in a world that opposes them
 
 # Prompt

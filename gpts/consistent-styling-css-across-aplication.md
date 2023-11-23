@@ -1,6 +1,6 @@
 
-[![Consistent Styling CSS Across aplication ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Consistent Styling CSS Across aplication  
+[![Consistent Styling CSS Across aplication ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cujfASvRSkbmnbz3xK9zq%22%2C%22flow%22%3Atrue%7D%7D)
+# Consistent Styling CSS Across aplication  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cujfASvRSkbmnbz3xK9zq%22%2C%22flow%22%3Atrue%7D%7D)
 This is a logic chain. 
 
 Once your component is complete and you need styling you'll explain it briefly inside the brackets, and upon showing different components and it will style it accordingly.

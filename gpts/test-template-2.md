@@ -1,6 +1,6 @@
 
-[![Character Profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Character Profile 
+[![Character Profile](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22341noVAmhfqVVfYIRIXRb%22%2C%22flow%22%3Atrue%7D%7D)
+# Character Profile | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22341noVAmhfqVVfYIRIXRb%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt for making character descriptions of existing characters or characters from context above in chat.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Academic Essay Creation Agent 📚✍️](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)]()
-# Academic Essay Creation Agent 📚✍️ 
+[![Academic Essay Creation Agent 📚✍️](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jh0tlzMkEuq1I7cDeXmng%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Essay Creation Agent 📚✍️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jh0tlzMkEuq1I7cDeXmng%22%2C%22flow%22%3Atrue%7D%7D)
 Absolutely! The "Academic Essay Creation Agent 📚✍️" is designed to assist you throughout the entire process of academic essay writing. From formulating a thesis statement to finding evidence, creating a logic map, identifying counter-arguments, and crafting a conclusion, it offers a comprehensive set of detailed steps and processes. Additional features include guided prompts for brainstorming, an automated citation generator, and real-time writing tips. All of this is accessible through a user-friendly text-based command interface, aimed at enhancing essay quality through proactive feedback and improvements. 📝🌟
 
 

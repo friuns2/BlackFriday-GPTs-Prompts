@@ -1,6 +1,6 @@
 
-[![Social Media Marketing Campaign Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)]()
-# Social Media Marketing Campaign Generator 
+[![Social Media Marketing Campaign Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S_DUFhKr-66eQfrXHBwGm%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Marketing Campaign Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S_DUFhKr-66eQfrXHBwGm%22%2C%22flow%22%3Atrue%7D%7D)
 Two prompts for creating various social media marketing campaigns. The first prompt will provide you with a list of three different clients, including their name, age, job or occupation, and their specific problem. The second prompt will give you examples of four different campaign types - funny, persuasive, empathic, and inverse - along with an idea of how you can convey your message with an image or video.
 
 # Prompt

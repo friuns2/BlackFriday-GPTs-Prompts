@@ -1,6 +1,6 @@
 
-[![Science Lesson Plan Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o76TBzoWsFvmQkiXVk09D/1694539206071)]()
-# Science Lesson Plan Creator 
+[![Science Lesson Plan Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o76TBzoWsFvmQkiXVk09D/1694539206071)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o76TBzoWsFvmQkiXVk09D%22%2C%22flow%22%3Atrue%7D%7D)
+# Science Lesson Plan Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o76TBzoWsFvmQkiXVk09D%22%2C%22flow%22%3Atrue%7D%7D)
 Science Lesson Creator 📚🌟
 
 

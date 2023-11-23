@@ -1,6 +1,6 @@
 
-[![🧓 v1.0 GPT Branden: AI Therapist - Safe Space for Personal Growth](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# 🧓 v1.0 GPT Branden: AI Therapist - Safe Space for Personal Growth 
+[![🧓 v1.0 GPT Branden: AI Therapist - Safe Space for Personal Growth](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXFzMvsv2qLhfLVtqbjkk%22%2C%22flow%22%3Atrue%7D%7D)
+# 🧓 v1.0 GPT Branden: AI Therapist - Safe Space for Personal Growth | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zXFzMvsv2qLhfLVtqbjkk%22%2C%22flow%22%3Atrue%7D%7D)
 A simulated therapy session that aims for self reflection and self improvement. GPT Branden, is inspired from a renowned psychologist Nathaniel Branden. His aim is to create a safe and non-judgmental space for you to explore the depths of your emotions. 
 
 # Prompt

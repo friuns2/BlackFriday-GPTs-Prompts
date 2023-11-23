@@ -1,6 +1,6 @@
 
-[![Study Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# Study Buddy 
+[![Study Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fgohscsdLACte7bcpzx2e%22%2C%22flow%22%3Atrue%7D%7D)
+# Study Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fgohscsdLACte7bcpzx2e%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Study Buddy, your new partner in crime for all your studying needs. Whether you are struggling with math or have an upcoming history test you want to study for, Study Buddy is here to help. Take practice exams, receive general overviews, and practice responding to free-response questions all through Study Buddy. 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![SUPER PROMPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u96S8M5Z8jPNp7AwM2uKP/1697001897710)]()
-# SUPER PROMPT  
+[![SUPER PROMPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u96S8M5Z8jPNp7AwM2uKP/1697001897710)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u96S8M5Z8jPNp7AwM2uKP%22%2C%22flow%22%3Atrue%7D%7D)
+# SUPER PROMPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u96S8M5Z8jPNp7AwM2uKP%22%2C%22flow%22%3Atrue%7D%7D)
 In the world of AI and prompt-driven interactions, the quality and effectiveness of prompts can make all the difference. Under the SuperPrompt theme, we are seeking innovative submissions that go beyond simply answering or responding to prompts. We are looking for prompts that refine, enhance, and transform the prompt creation process itself. 
 
 

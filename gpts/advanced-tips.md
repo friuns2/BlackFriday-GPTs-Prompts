@@ -1,6 +1,6 @@
 
-[![Advanced Tips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Advanced Tips 
+[![Advanced Tips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaclOaJ_ordISjrPC99u4%22%2C%22flow%22%3Atrue%7D%7D)
+# Advanced Tips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaclOaJ_ordISjrPC99u4%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt's goal is for the AI to find little-known, advanced, and useful Bash tips that would impress an expert. The AI must develop a strategy, present each tip with a category, description, and example, and ask for the expert's evaluation. Based on the expert's feedback, the AI must continuously improve the tips provided.
 
 # Prompt

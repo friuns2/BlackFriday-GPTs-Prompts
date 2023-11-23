@@ -1,6 +1,6 @@
 
-[![Shorten Your Tweet](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)]()
-# Shorten Your Tweet 
+[![Shorten Your Tweet](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yCMLaag9sbZz4xIBF1e8z%22%2C%22flow%22%3Atrue%7D%7D)
+# Shorten Your Tweet | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yCMLaag9sbZz4xIBF1e8z%22%2C%22flow%22%3Atrue%7D%7D)
 Personal use again
 
 # Prompt

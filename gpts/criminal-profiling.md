@@ -1,6 +1,6 @@
 
-[![Criminal profiling ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Criminal profiling  
+[![Criminal profiling ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xRqQPjaSy6eAzxvQ9umk4%22%2C%22flow%22%3Atrue%7D%7D)
+# Criminal profiling  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xRqQPjaSy6eAzxvQ9umk4%22%2C%22flow%22%3Atrue%7D%7D)
 After provided  any background or childhood experience, chatGPT will predict a hypothetical outcome for the person.
 
 # Prompt

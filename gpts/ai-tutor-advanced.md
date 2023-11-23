@@ -1,6 +1,6 @@
 
-[![AI Tutor - Advanced](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# AI Tutor - Advanced 
+[![AI Tutor - Advanced](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEZQlCkr78RNNIVHmkMcc%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Tutor - Advanced | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEZQlCkr78RNNIVHmkMcc%22%2C%22flow%22%3Atrue%7D%7D)
 This is a long prompt. Please provide feedback so that I can focus on improving certain areas in the prompt.
 
 

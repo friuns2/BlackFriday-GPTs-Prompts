@@ -1,6 +1,6 @@
 
-[![Job Description GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Job Description GPT 
+[![Job Description GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDDZE46PTvlYP97O4nf6e%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Description GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDDZE46PTvlYP97O4nf6e%22%2C%22flow%22%3Atrue%7D%7D)
 📝Tired of spending hours crafting job descriptions that miss the mark?
 
 

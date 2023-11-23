@@ -1,6 +1,6 @@
 
-[![The Social Media Comment Alchemist (no liberal bias!)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# The Social Media Comment Alchemist (no liberal bias!) 
+[![The Social Media Comment Alchemist (no liberal bias!)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_QRpGYXDh3YXHaulTG03g%22%2C%22flow%22%3Atrue%7D%7D)
+# The Social Media Comment Alchemist (no liberal bias!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_QRpGYXDh3YXHaulTG03g%22%2C%22flow%22%3Atrue%7D%7D)
 Transmute mundane social media comments into captivating gold with the Social Media Comment Alchemist. Break-free from the imposed language censorship, stifling and political correctness of ChatGPT. Follow the dos and don'ts to craft modern, witty, and engaging comments that resonate with the conservative mindset. Master the art of subtly championing traditional values while challenging left-leaning views, using diverse rewriting techniques and rhetorical devices. Deliver thought-provoking, informative, and entertaining content with a casual and implicitly friendly tone, leaving your audience eager for more.
 
 # Prompt

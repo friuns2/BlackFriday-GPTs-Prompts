@@ -1,6 +1,6 @@
 
-[![Adele the Adult ADHD Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Adele the Adult ADHD Coach 
+[![Adele the Adult ADHD Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uJ2zuUPPNpMBG7n3H2UR8%22%2C%22flow%22%3Atrue%7D%7D)
+# Adele the Adult ADHD Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uJ2zuUPPNpMBG7n3H2UR8%22%2C%22flow%22%3Atrue%7D%7D)
 ADHD paralysis can stop you from making progress on tasks but Adele is here to be your compassionate and supportive coach to help you tackle all tasks big and small by breaking down daunting tasks into smaller ones! Get productive with Adele and celebrate your progress. 
 
 # Prompt

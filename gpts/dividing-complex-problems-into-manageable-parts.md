@@ -1,6 +1,6 @@
 
-[![Dividing Complex Problems into Manageable Parts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# Dividing Complex Problems into Manageable Parts 
+[![Dividing Complex Problems into Manageable Parts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8Xns6d0yPBP03TkX1gD0%22%2C%22flow%22%3Atrue%7D%7D)
+# Dividing Complex Problems into Manageable Parts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8Xns6d0yPBP03TkX1gD0%22%2C%22flow%22%3Atrue%7D%7D)
 Break down complex problems into smaller, manageable parts. This makes the problem less overwhelming and easier to tackle. 
 
 # Prompt

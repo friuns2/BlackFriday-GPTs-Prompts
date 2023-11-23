@@ -1,6 +1,6 @@
 
-[![Software Project Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# Software Project Idea 
+[![Software Project Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222fafab1f-0650-4701-bdfe-6e1206525450%22%2C%22flow%22%3Atrue%7D%7D)
+# Software Project Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222fafab1f-0650-4701-bdfe-6e1206525450%22%2C%22flow%22%3Atrue%7D%7D)
 Generate ideas for project as IT student.
 
 # Prompt

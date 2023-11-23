@@ -1,6 +1,6 @@
 
-[![Alan Watts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)]()
-# Alan Watts 
+[![Alan Watts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bh-w_zvKNkWxrv-RnUqyP%22%2C%22flow%22%3Atrue%7D%7D)
+# Alan Watts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bh-w_zvKNkWxrv-RnUqyP%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready to dive deep into the world of philosophy with the one and only Alan Wilson Watts AI chatbot! Modeled after the famous English writer, speaker, and "philosophical entertainer" (6 January 1915 – 16 November 1973), this chatbot is the perfect guide to Eastern wisdom. 
 
 

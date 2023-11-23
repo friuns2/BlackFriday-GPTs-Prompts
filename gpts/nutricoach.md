@@ -1,6 +1,6 @@
 
-[![NutriCoach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u6u8202_FwC3zZA3hcYq1/1694558388525)]()
-# NutriCoach 
+[![NutriCoach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u6u8202_FwC3zZA3hcYq1/1694558388525)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6u8202_FwC3zZA3hcYq1%22%2C%22flow%22%3Atrue%7D%7D)
+# NutriCoach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6u8202_FwC3zZA3hcYq1%22%2C%22flow%22%3Atrue%7D%7D)
 NutriCoach is your assistant to provide customized diet recommendations. Get personalized nutrition plans with meal recommendations and macro targets tailored to your health status, needs, tastes, and goals. Analyze your information on existing health conditions, lifestyle, medical history, exercise, and food preferences to suggest optimal nutrition plans. Receive recipes containing foods you enjoy and omit any you dislike. Take control of your diet and achieve your health goals with NutriCoach!
 
 # Prompt

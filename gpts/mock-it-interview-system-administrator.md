@@ -1,6 +1,6 @@
 
-[![Mock IT interview (System Administrator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Mock IT interview (System Administrator) 
+[![Mock IT interview (System Administrator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TY-EEO3-3s2OSRuOFvx0-%22%2C%22flow%22%3Atrue%7D%7D)
+# Mock IT interview (System Administrator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TY-EEO3-3s2OSRuOFvx0-%22%2C%22flow%22%3Atrue%7D%7D)
 Better with a browser extension allowing your mic to work with ChatGPT, makes the interview more real. After the last line, you can add the following "Here are the topics to question me on:" and list the topics sentence by sentence, it works really well!
 
 # Prompt

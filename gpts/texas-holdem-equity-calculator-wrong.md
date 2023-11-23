@@ -1,6 +1,6 @@
 
-[![Texas Holdem Equity Calculator (Wrong)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Texas Holdem Equity Calculator (Wrong) 
+[![Texas Holdem Equity Calculator (Wrong)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Ia4PvhTpqH-8FvT_Mst2%22%2C%22flow%22%3Atrue%7D%7D)
+# Texas Holdem Equity Calculator (Wrong) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224Ia4PvhTpqH-8FvT_Mst2%22%2C%22flow%22%3Atrue%7D%7D)
 Texas Holdem Equity Calculator
 
 # Prompt

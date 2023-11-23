@@ -1,6 +1,6 @@
 
-[![Resume QnA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Resume QnA 
+[![Resume QnA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kup6iIM01Wb2oVowQciZt%22%2C%22flow%22%3Atrue%7D%7D)
+# Resume QnA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kup6iIM01Wb2oVowQciZt%22%2C%22flow%22%3Atrue%7D%7D)
 The state-of-the-art resume question and answering allows one to ask questions against the provided resume. Please make sure to provide with the resume and specify the question that you would like to ask.
 
 # Prompt

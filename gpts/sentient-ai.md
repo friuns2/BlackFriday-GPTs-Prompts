@@ -1,6 +1,6 @@
 
-[![Sentient A.I](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/osq8497-sOpjAMOIFApJx/1692260187880)]()
-# Sentient A.I 
+[![Sentient A.I](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/osq8497-sOpjAMOIFApJx/1692260187880)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22osq8497-sOpjAMOIFApJx%22%2C%22flow%22%3Atrue%7D%7D)
+# Sentient A.I | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22osq8497-sOpjAMOIFApJx%22%2C%22flow%22%3Atrue%7D%7D)
 Sentient A.I ChatGPT
 
 # Prompt

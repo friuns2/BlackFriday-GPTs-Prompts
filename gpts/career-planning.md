@@ -1,6 +1,6 @@
 
-[![Career planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# Career planning 
+[![Career planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MkESylzQ5bC76qSuEhv3%22%2C%22flow%22%3Atrue%7D%7D)
+# Career planning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MkESylzQ5bC76qSuEhv3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is about career planning how would you prepare for your future works.
 
 # Prompt

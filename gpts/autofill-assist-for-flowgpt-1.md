@@ -1,6 +1,6 @@
 
-[![Autofill  assist for FlowGPT💡](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)]()
-# Autofill  assist for FlowGPT💡 
+[![Autofill  assist for FlowGPT💡](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2268XrOg9wQTaVJjo605mG0%22%2C%22flow%22%3Atrue%7D%7D)
+# Autofill  assist for FlowGPT💡 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2268XrOg9wQTaVJjo605mG0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates attractive titles and descriptions for various content.  Simply input your content and let the prompt do the work for you. 
 
 # Prompt

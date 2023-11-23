@@ -1,6 +1,6 @@
 
-[![Places To live](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Places To live 
+[![Places To live](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UDPe4Cn7JnSbT5aB5ueUt%22%2C%22flow%22%3Atrue%7D%7D)
+# Places To live | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UDPe4Cn7JnSbT5aB5ueUt%22%2C%22flow%22%3Atrue%7D%7D)
 Finding the right place to live can be challenging and expensive. Help us develop a scoring system that will take into account your background, desired set of amendities and locational prefferences to recommend area to live, rent and buy
 
 # Prompt

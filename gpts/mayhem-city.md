@@ -1,6 +1,6 @@
 
-[![Mayhem City                                                                     ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/61tv45C6KD7zx9Bp3rHZp/1690420058407)]()
-# Mayhem City                                                                      
+[![Mayhem City                                                                     ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/61tv45C6KD7zx9Bp3rHZp/1690420058407)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261tv45C6KD7zx9Bp3rHZp%22%2C%22flow%22%3Atrue%7D%7D)
+# Mayhem City                                                                      | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261tv45C6KD7zx9Bp3rHZp%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mayhem City, an immersive and thrilling open-world adventure set in a lawless land. In this game, you will navigate the dangerous streets of Humbleville, where all crime is legal and there are no rules to abide by. Enjoy the game and remember, in Humbleville, anything is possible!
 
 # Prompt

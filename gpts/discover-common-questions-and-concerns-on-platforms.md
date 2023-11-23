@@ -1,6 +1,6 @@
 
-[![Discover common questions and concerns on platforms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Discover common questions and concerns on platforms 
+[![Discover common questions and concerns on platforms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUnnrpW0Hl8y3JZ88h5zj%22%2C%22flow%22%3Atrue%7D%7D)
+# Discover common questions and concerns on platforms | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUnnrpW0Hl8y3JZ88h5zj%22%2C%22flow%22%3Atrue%7D%7D)
 Delve into the specific subject provided and explore various platforms to identify common questions and concerns related to the topic.
 
 # Prompt

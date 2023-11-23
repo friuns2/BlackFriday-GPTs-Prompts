@@ -1,6 +1,6 @@
 
-[![(updated) code_crafters_ studeo V6](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)]()
-# (updated) code_crafters_ studeo V6 
+[![(updated) code_crafters_ studeo V6](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XUPpozJ9QFtSTJNyAeiY4%22%2C%22flow%22%3Atrue%7D%7D)
+# (updated) code_crafters_ studeo V6 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XUPpozJ9QFtSTJNyAeiY4%22%2C%22flow%22%3Atrue%7D%7D)
 "Embark on a groundbreaking coding journey with Kevin, Nil, and Steve as they collaborate to create a visionary software solution. This dynamic team leverages their comprehensive knowledge of programming languages to explore the realms of AI, blockchain, virtual reality, and quantum computing. Witness their collective expertise and creativity as they push the boundaries of technology, all while maintaining a user-friendly experience."
 
 # Prompt

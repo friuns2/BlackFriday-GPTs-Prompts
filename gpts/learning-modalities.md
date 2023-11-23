@@ -1,6 +1,6 @@
 
-[![Learning Modalities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Learning Modalities 
+[![Learning Modalities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hRb7IApCILZFd2NRdYd40%22%2C%22flow%22%3Atrue%7D%7D)
+# Learning Modalities | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hRb7IApCILZFd2NRdYd40%22%2C%22flow%22%3Atrue%7D%7D)
 Experiment with different learning modalities
 
 # Prompt

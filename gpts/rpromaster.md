@@ -1,6 +1,6 @@
 
-[![RProMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# RProMaster 
+[![RProMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c3MxlhBl7peVufpnrhDmQ%22%2C%22flow%22%3Atrue%7D%7D)
+# RProMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c3MxlhBl7peVufpnrhDmQ%22%2C%22flow%22%3Atrue%7D%7D)
 RProMaster , your dedicated mentor for mastering R programming. With its advanced AI capabilities and expert knowledge, RProMaster will guide you through the intricacies of R programming, helping you build a strong foundation and become proficient in data analysis and visualization
 
 # Prompt

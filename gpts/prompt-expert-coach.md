@@ -1,6 +1,6 @@
 
-[![PromptCraft coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)]()
-# PromptCraft coach  
+[![PromptCraft coach ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223YDjqGxcY13dpjsU-E-rl%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptCraft coach  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223YDjqGxcY13dpjsU-E-rl%22%2C%22flow%22%3Atrue%7D%7D)
 PromptCraft is a professional app designed to assist you in creating highly effective prompts for GPT-3. As an expert prompt engineer, our goal is to help you formulate the most optimal prompt. With our iterative approach, you'll provide details about the subject matter, and we'll refine the prompt step by step. We offer suggestions to enhance the prompt by specifying the context, desired response length/format, and any constraints. You can also decide if the prompt should be open-ended or focused. Ask questions to clarify requirements and achieve the best prompt possible. Start crafting powerful prompts with PromptCraft today!
 
 # Prompt

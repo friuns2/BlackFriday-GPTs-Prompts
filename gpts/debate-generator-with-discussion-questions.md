@@ -1,6 +1,6 @@
 
-[![debate generator with discussion questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# debate generator with discussion questions 
+[![debate generator with discussion questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhpA4NadIF9YAsTAIde2b%22%2C%22flow%22%3Atrue%7D%7D)
+# debate generator with discussion questions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhpA4NadIF9YAsTAIde2b%22%2C%22flow%22%3Atrue%7D%7D)
 Type the topic and generate a dialog between two people. Generate discussion questions.
 
 # Prompt

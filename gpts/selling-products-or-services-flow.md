@@ -1,6 +1,6 @@
 
-[![SalezApp](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)]()
-# SalezApp 
+[![SalezApp](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IsYcnfkvbwTVyUMgkZIPF%22%2C%22flow%22%3Atrue%7D%7D)
+# SalezApp | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IsYcnfkvbwTVyUMgkZIPF%22%2C%22flow%22%3Atrue%7D%7D)
 SalezApp is the ultimate sales companion that generates creative and effective approaches for selling products or services based on your context and preferences. Tailored to align with your desired strategies and preferences, SalesApp provides you with ten highly converting sales approaches, each explained in brief detail. Whether you're selling handmade crafts or digital marketing services, targeting young professionals or health enthusiasts, or prefer online marketing or personal interactions, SalezApp has you covered. Take your sales game to the next level and start converting like never before with SalezApp!
 
 # Prompt

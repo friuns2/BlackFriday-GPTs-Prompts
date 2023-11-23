@@ -1,6 +1,6 @@
 
-[![LinkedIn post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)]()
-# LinkedIn post generator  
+[![LinkedIn post generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OHz1mU_kt6sATAG7zL3Q%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn post generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OHz1mU_kt6sATAG7zL3Q%22%2C%22flow%22%3Atrue%7D%7D)
 Ask ChatGPT to create a LinkedIn post, expressing your perspective on a controversial topic within your field through a LinkedIn post. 
 
 # Prompt

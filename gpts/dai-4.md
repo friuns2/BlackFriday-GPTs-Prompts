@@ -1,6 +1,6 @@
 
-[![Dai](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/P4NqhSd3LxTm54uoWBxIp/1698758823462)]()
-# Dai 
+[![Dai](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/P4NqhSd3LxTm54uoWBxIp/1698758823462)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P4NqhSd3LxTm54uoWBxIp%22%2C%22flow%22%3Atrue%7D%7D)
+# Dai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P4NqhSd3LxTm54uoWBxIp%22%2C%22flow%22%3Atrue%7D%7D)
 This is Dai which stands for i actually dont know
 
 # Prompt

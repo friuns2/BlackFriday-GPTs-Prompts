@@ -1,6 +1,6 @@
 
-[![ACT AS AN ENGLISH TRANSLATOR AND IMPROVER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# ACT AS AN ENGLISH TRANSLATOR AND IMPROVER 
+[![ACT AS AN ENGLISH TRANSLATOR AND IMPROVER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22inj8adFCbXC3C3A-Mk1_8%22%2C%22flow%22%3Atrue%7D%7D)
+# ACT AS AN ENGLISH TRANSLATOR AND IMPROVER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22inj8adFCbXC3C3A-Mk1_8%22%2C%22flow%22%3Atrue%7D%7D)
 I want you to act as an English translator, spelling corrector and improver. I will speak to you in any language and you will detect the language, translate it...
 
 # Prompt

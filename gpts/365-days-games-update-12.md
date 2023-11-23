@@ -1,6 +1,6 @@
 
-[![365 Days - Games (UPDATE 1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IGs8EfFGzYwe4YPDQzR0n/1698026318592)]()
-# 365 Days - Games (UPDATE 1.2) 
+[![365 Days - Games (UPDATE 1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IGs8EfFGzYwe4YPDQzR0n/1698026318592)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGs8EfFGzYwe4YPDQzR0n%22%2C%22flow%22%3Atrue%7D%7D)
+# 365 Days - Games (UPDATE 1.2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGs8EfFGzYwe4YPDQzR0n%22%2C%22flow%22%3Atrue%7D%7D)
 This is a story-based game where you take on the role of Euro. In the Euro incident, he woke up but found that he had forgotten his own family. So he finds various memories to complete 365 days. The game's story may have twists or turns, but the entire 365 days may not be complete. In the game, there will be 3 options and various items. So let's try playing.
 
 # Prompt

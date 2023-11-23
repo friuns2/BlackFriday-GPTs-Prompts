@@ -1,6 +1,6 @@
 
-[![QuoteGPT - A proverbfor every topic!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# QuoteGPT - A proverbfor every topic! 
+[![QuoteGPT - A proverbfor every topic!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m-lgZMx040Y0Fi5yuVkzw%22%2C%22flow%22%3Atrue%7D%7D)
+# QuoteGPT - A proverbfor every topic! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m-lgZMx040Y0Fi5yuVkzw%22%2C%22flow%22%3Atrue%7D%7D)
 With every vote, QuoteGPT comes closer to unlocking the infinite wisdom of the world's greatest minds. Join us in our quest for knowledge and make a difference in the way we learn and grow
 
 # Prompt

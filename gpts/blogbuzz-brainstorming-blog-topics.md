@@ -1,6 +1,6 @@
 
-[![BlogBuzz: Brainstorming Blog Topics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# BlogBuzz: Brainstorming Blog Topics 
+[![BlogBuzz: Brainstorming Blog Topics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A2bo8DOGUDa3YC2HT72Qg%22%2C%22flow%22%3Atrue%7D%7D)
+# BlogBuzz: Brainstorming Blog Topics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A2bo8DOGUDa3YC2HT72Qg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the ultimate content strategy tool for bloggers. Get ready to boost your blog's engagement and click-through rates with our curated list of ten engaging and informative blog topics. 
 
 # Prompt

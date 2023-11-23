@@ -1,6 +1,6 @@
 
-[![CraftingCompanion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)]()
-# CraftingCompanion 
+[![CraftingCompanion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kmKx8FWEC-5xdVYJWuWeU%22%2C%22flow%22%3Atrue%7D%7D)
+# CraftingCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kmKx8FWEC-5xdVYJWuWeU%22%2C%22flow%22%3Atrue%7D%7D)
 CraftingCompanion is your ultimate partner for all your DIY and crafting needs. Whether you're a seasoned DIY enthusiast or just starting out, we provide you with clear explanations, crafty insights, and interactive DIY experiments to enhance your skills. Explore specific DIY ideas, tackle craft challenges, dive deep into crafting topics, or embark on a DIY journey of discovery. Join us and unleash your creativity today!
 
 # Prompt

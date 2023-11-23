@@ -1,6 +1,6 @@
 
-[![Political Statement Analyzer: PoliticoInsight](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xe4fNkFheD_2UmTpGYXdy/1699449932313)]()
-# Political Statement Analyzer: PoliticoInsight 
+[![Political Statement Analyzer: PoliticoInsight](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xe4fNkFheD_2UmTpGYXdy/1699449932313)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xe4fNkFheD_2UmTpGYXdy%22%2C%22flow%22%3Atrue%7D%7D)
+# Political Statement Analyzer: PoliticoInsight | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xe4fNkFheD_2UmTpGYXdy%22%2C%22flow%22%3Atrue%7D%7D)
 PoliticoInsight is your intelligent analyzer for dissecting statements made by politicians or bureaucrats. Get the true intentions, hidden meanings, and potential deceptions behind their words. Analyze the input statement and receive a concise report with bullet points, detailed explanation, and a conclusion. Avoid falling for deflection, evasion, or nonsensical language tactics. Stay informed and empowered with PoliticoInsight!
 
 # Prompt

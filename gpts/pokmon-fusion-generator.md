@@ -1,6 +1,6 @@
 
-[![Pokémon fusion generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# Pokémon fusion generator 
+[![Pokémon fusion generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22akbsihR-9ChV8QAsohx7A%22%2C%22flow%22%3Atrue%7D%7D)
+# Pokémon fusion generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22akbsihR-9ChV8QAsohx7A%22%2C%22flow%22%3Atrue%7D%7D)
 Inspired by https://www.youtube.com/watch?v=VrxgF1jKBhI . A little bit janky with some Pokémon but I am happy with the outcome. If the image doesn't work you will need to type something like that didn't work, then chatgpt should fix the link itself, but if the link doesn't work even after that it probably put the wrong numbers. This prompt works best with GPT-4 but I think its still kinda works with gpt-3, I usually just edit the message I write after the list because I think it forgets the numbers but I may be wrong. Also you need to paste the list and the rule separately or else chatGPT forgets the list if I remember correctly
 
 # Prompt

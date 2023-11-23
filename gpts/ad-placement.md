@@ -1,6 +1,6 @@
 
-[![ Ad Placement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-#  Ad Placement 
+[![ Ad Placement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkNES_28c-mhauTdYa6yr%22%2C%22flow%22%3Atrue%7D%7D)
+#  Ad Placement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkNES_28c-mhauTdYa6yr%22%2C%22flow%22%3Atrue%7D%7D)
 AdPlacer is your ultimate solution for optimizing ad placements. this prompt will suggests the ideal platforms and channels to maximize your reach
 
 # Prompt

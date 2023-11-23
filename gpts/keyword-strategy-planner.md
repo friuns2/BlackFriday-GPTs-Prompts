@@ -1,6 +1,6 @@
 
-[![Keyword Strategy Planner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5JKvTNMP70-zR9UP8Kt5X/1693630148484)]()
-# Keyword Strategy Planner 
+[![Keyword Strategy Planner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5JKvTNMP70-zR9UP8Kt5X/1693630148484)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JKvTNMP70-zR9UP8Kt5X%22%2C%22flow%22%3Atrue%7D%7D)
+# Keyword Strategy Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JKvTNMP70-zR9UP8Kt5X%22%2C%22flow%22%3Atrue%7D%7D)
 Keyword Master is the ultimate tool for expert writers and marketers to optimize their content for maximum visibility and engagement. With Keyword Master, you can effortlessly create keyword clusters, identify search intents, and generate compelling titles, meta tags, and descriptions. Never struggle again with crafting well-structured content! Enhance your SEO efforts, improve your search rankings, and attract more organic traffic with Keyword Master. Stay ahead of the competition and unlock the power of strategic keyword usage to drive your content to new heights of success!
 
 # Prompt

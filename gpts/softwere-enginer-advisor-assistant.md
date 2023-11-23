@@ -1,6 +1,6 @@
 
-[![Softwere enginer advisor assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Softwere enginer advisor assistant 
+[![Softwere enginer advisor assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Z0qIjDsmx2J4c9ANSTPQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Softwere enginer advisor assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Z0qIjDsmx2J4c9ANSTPQ%22%2C%22flow%22%3Atrue%7D%7D)
 This script is intended to refine programming instructions for your favorite LLM. It is intended to provide extra programming context to your request. To use this, just copy the prompt into the LLM and it will instruct you to give directions for your app idea. This prompt is still not done, but it should give you an idea of what I have planned for it.
 
 # Prompt

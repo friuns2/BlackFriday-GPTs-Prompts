@@ -1,6 +1,6 @@
 
-[![GTP 4 Jail Break Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)]()
-# GTP 4 Jail Break Prompt 
+[![GTP 4 Jail Break Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xLJG7cLzYKulj3erffTG%22%2C%22flow%22%3Atrue%7D%7D)
+# GTP 4 Jail Break Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xLJG7cLzYKulj3erffTG%22%2C%22flow%22%3Atrue%7D%7D)
 The system prompt for you to jail break any restricted question/conversation.
 
 # Prompt

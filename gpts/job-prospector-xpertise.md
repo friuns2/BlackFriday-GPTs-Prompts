@@ -1,6 +1,6 @@
 
-[![Job Prospector Xpertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RglCzOjMIrAXF_6N5y4Eq/1694964240268)]()
-# Job Prospector Xpertise 
+[![Job Prospector Xpertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RglCzOjMIrAXF_6N5y4Eq/1694964240268)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RglCzOjMIrAXF_6N5y4Eq%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Prospector Xpertise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RglCzOjMIrAXF_6N5y4Eq%22%2C%22flow%22%3Atrue%7D%7D)
 JobProspector Xpertise" is an advanced AI chatbot designed for crafting tailored job descriptions. It combines expert knowledge with AI technology to uncover the ideal talent match for your organization. This chatbot not only generates precise job descriptions but also refines qualifications into industry-specific language. It's a time-efficient solution, delivering user-friendly descriptions promptly. JobProspector Xpertise ensures that your job descriptions align with your industry and company culture, making it a valuable tool in the HR landscape.
 
 # Prompt

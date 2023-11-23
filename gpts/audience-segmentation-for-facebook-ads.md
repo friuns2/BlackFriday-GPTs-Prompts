@@ -1,6 +1,6 @@
 
-[![Automated Audience Targeting ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pxWi3U14diglDmtXq_zS6/1692688474514)]()
-# Automated Audience Targeting  
+[![Automated Audience Targeting ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pxWi3U14diglDmtXq_zS6/1692688474514)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pxWi3U14diglDmtXq_zS6%22%2C%22flow%22%3Atrue%7D%7D)
+# Automated Audience Targeting  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pxWi3U14diglDmtXq_zS6%22%2C%22flow%22%3Atrue%7D%7D)
 if you want to get detailed targeting audience for your business and get best best result in the campaign, LET'S START--
 
 # Prompt

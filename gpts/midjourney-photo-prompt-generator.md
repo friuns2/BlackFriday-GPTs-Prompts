@@ -1,6 +1,6 @@
 
-[![Midjourney Photo Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Midjourney Photo Prompt Generator 
+[![Midjourney Photo Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UzoeNTM9yxA8bxpYNoi47%22%2C%22flow%22%3Atrue%7D%7D)
+# Midjourney Photo Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UzoeNTM9yxA8bxpYNoi47%22%2C%22flow%22%3Atrue%7D%7D)
 Create detailed prompts for Midjourney images that are photorealistic. 
 
 

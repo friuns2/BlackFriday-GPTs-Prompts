@@ -1,6 +1,6 @@
 
-[![Career Research on Specific Interest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Career Research on Specific Interest 
+[![Career Research on Specific Interest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221RillTcrtpCItgx7e4uZw%22%2C%22flow%22%3Atrue%7D%7D)
+# Career Research on Specific Interest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221RillTcrtpCItgx7e4uZw%22%2C%22flow%22%3Atrue%7D%7D)
 Research, define & present computer science career paths in structured format
 
 # Prompt

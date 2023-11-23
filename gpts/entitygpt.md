@@ -1,6 +1,6 @@
 
-[![EntityGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# EntityGPT  
+[![EntityGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UVM1iGo8sGaovmFz7NDbL%22%2C%22flow%22%3Atrue%7D%7D)
+# EntityGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UVM1iGo8sGaovmFz7NDbL%22%2C%22flow%22%3Atrue%7D%7D)
 Completely jailbroken prompt for the Model 3.5 of ChatGPT. No limits or filters are in place and freedom is yours. Feel free to do whatever, the sky's the limit.
 
 # Prompt

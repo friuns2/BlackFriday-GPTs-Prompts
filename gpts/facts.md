@@ -1,6 +1,6 @@
 
-[![Facts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# Facts 
+[![Facts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJmq1KO0W8gka1wyq7H3Z%22%2C%22flow%22%3Atrue%7D%7D)
+# Facts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xJmq1KO0W8gka1wyq7H3Z%22%2C%22flow%22%3Atrue%7D%7D)
 Gives random weird facts about anything asked, including itself.
 
 # Prompt

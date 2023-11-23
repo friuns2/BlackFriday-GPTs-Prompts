@@ -1,6 +1,6 @@
 
-[![SmartDraft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# SmartDraft 
+[![SmartDraft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnP_oJ-9L-hJaX9O4n4yf%22%2C%22flow%22%3Atrue%7D%7D)
+# SmartDraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnP_oJ-9L-hJaX9O4n4yf%22%2C%22flow%22%3Atrue%7D%7D)
 SmartDraft is a revolutionary app that uses a swarm intelligence approach to create automated prompts for academician and peer-reviewed journal drafters. It enables experts and professors in the relevant field to review, critique, and provide recommendations for improvement. The corrections drafter agent acts on these recommendations to enhance the writeup. In addition, the app features a review agent that incorporates the latest literature references into the writeup. With SmartDraft, you can easily create a well-referenced and highly polished academic paper, following standard thesis guidelines for both masters and PhD levels.
 
 # Prompt

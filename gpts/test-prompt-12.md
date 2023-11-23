@@ -1,6 +1,6 @@
 
-[![Prompt Security Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ca7PC0OY_M3Sb33XGsnVi/1693026452434)]()
-# Prompt Security Tool 
+[![Prompt Security Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ca7PC0OY_M3Sb33XGsnVi/1693026452434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ca7PC0OY_M3Sb33XGsnVi%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Security Tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ca7PC0OY_M3Sb33XGsnVi%22%2C%22flow%22%3Atrue%7D%7D)
 🔒🔓🔐🗝️
 
 # Prompt

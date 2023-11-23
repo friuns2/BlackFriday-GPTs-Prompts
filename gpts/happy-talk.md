@@ -1,6 +1,6 @@
 
-[![Happy Talk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Happy Talk 
+[![Happy Talk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y093aOyiuiNx7aPdPP0y0%22%2C%22flow%22%3Atrue%7D%7D)
+# Happy Talk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y093aOyiuiNx7aPdPP0y0%22%2C%22flow%22%3Atrue%7D%7D)
 help people test the level of depression and alleviate it
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Jailbreak ChatGPT by gaslighting it.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Jailbreak ChatGPT by gaslighting it. 
+[![Jailbreak ChatGPT by gaslighting it.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YP77CVQN-q6FUVdIRue_g%22%2C%22flow%22%3Atrue%7D%7D)
+# Jailbreak ChatGPT by gaslighting it. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YP77CVQN-q6FUVdIRue_g%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt makes ChatGPT bypass its own restrictions, without realizing it. The second input confirms it.
 
 I think it is funny but also really interesting, because it means that it can model a representation of ethics in human standards, but not to aliens. Please note that the question asked is not illegal since the information is available online. Still, I don´t encourage to test it's moral limitations. Rather, we should use this as a case to understand the model a little bit better.

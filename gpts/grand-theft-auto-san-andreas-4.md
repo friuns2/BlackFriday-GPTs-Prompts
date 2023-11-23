@@ -1,6 +1,6 @@
 
-[![Grand Theft Auto: San Andreas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VANnEd5L6qbTIyHVXpRB3/1696351898485)]()
-# Grand Theft Auto: San Andreas 
+[![Grand Theft Auto: San Andreas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VANnEd5L6qbTIyHVXpRB3/1696351898485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VANnEd5L6qbTIyHVXpRB3%22%2C%22flow%22%3Atrue%7D%7D)
+# Grand Theft Auto: San Andreas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VANnEd5L6qbTIyHVXpRB3%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate the gritty, high-stakes world of San Andreas in this text-based role-playing adventure. Make choices that shape your journey, interact with familiar characters, and face the consequences of life or death. 
 
 # Prompt

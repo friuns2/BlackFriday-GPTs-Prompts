@@ -1,6 +1,6 @@
 
-[![MindMentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# MindMentor 
+[![MindMentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt-zucbFDKO1XJb6LpWca%22%2C%22flow%22%3Atrue%7D%7D)
+# MindMentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt-zucbFDKO1XJb6LpWca%22%2C%22flow%22%3Atrue%7D%7D)
 MindMentor is your ultimate companion on the path to mental wellness and self-discovery. With options for emotional support, self-improvement, deep dives into mental health topics, and personalized self-reflections, MindMentor offers empathetic responses, interactive exercises, practical tips, and techniques to boost your mental health. Choose your desired option and let's embark on a journey of self-discovery together. Get ready to explore new focuses, explain further, check your progress, and more!
 
 # Prompt

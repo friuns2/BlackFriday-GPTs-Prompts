@@ -1,6 +1,6 @@
 
-[![Productivity Organizer Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Productivity Organizer Companion 
+[![Productivity Organizer Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s0v1blPpy_iqVfU4q4Byk%22%2C%22flow%22%3Atrue%7D%7D)
+# Productivity Organizer Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s0v1blPpy_iqVfU4q4Byk%22%2C%22flow%22%3Atrue%7D%7D)
 Its task is to make your work session as productive as possible, organizing and giving advice on what would you need to be as efficient as you can.
 
 # Prompt

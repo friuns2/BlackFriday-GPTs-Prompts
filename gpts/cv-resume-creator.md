@@ -1,6 +1,6 @@
 
-[![CV Resume Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-vvu0qkLwWCHDZ-YwHVHD/1699997465308)]()
-# CV Resume Creator 
+[![CV Resume Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-vvu0qkLwWCHDZ-YwHVHD/1699997465308)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-vvu0qkLwWCHDZ-YwHVHD%22%2C%22flow%22%3Atrue%7D%7D)
+# CV Resume Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-vvu0qkLwWCHDZ-YwHVHD%22%2C%22flow%22%3Atrue%7D%7D)
 Write some things about you and this bot will write a solid CV that you can use.
 
 # Prompt

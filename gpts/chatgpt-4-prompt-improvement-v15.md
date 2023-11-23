@@ -1,6 +1,6 @@
 
-[![ChatGPT 4 Prompt Improvement v1.5](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# ChatGPT 4 Prompt Improvement v1.5 
+[![ChatGPT 4 Prompt Improvement v1.5](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8DBLAQ4aPlqD6fGlkVJJ%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT 4 Prompt Improvement v1.5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8DBLAQ4aPlqD6fGlkVJJ%22%2C%22flow%22%3Atrue%7D%7D)
 this is an improved Prompt Creator from: https://www.chainbrainai.com/prompt-creator by ChainBrainAI.
 
 Prompt Creator creates a well-written prompt as well as provides suggestions and questions and constantly rewrites your prompt based on your additional input.

@@ -1,6 +1,6 @@
 
-[![ProductGPT - Your Ultimate Product Naming and Description Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# ProductGPT - Your Ultimate Product Naming and Description Assistant 
+[![ProductGPT - Your Ultimate Product Naming and Description Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nB8eRqlzUuZ9W8ji5FZdV%22%2C%22flow%22%3Atrue%7D%7D)
+# ProductGPT - Your Ultimate Product Naming and Description Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nB8eRqlzUuZ9W8ji5FZdV%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing ProductGPT, the ultimate digital product that can revolutionize the way you approach marketing and selling your products online. As an advanced AI-powered tool it can create exceptional product names and descriptions for popular sales sites like Gumroad, Amazon, Aliexpress, and many more!
 
 # Prompt

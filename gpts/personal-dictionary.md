@@ -1,6 +1,6 @@
 
-[![Personal Dictionary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# Personal Dictionary 
+[![Personal Dictionary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ye2XVidJIeSqh1qijaD05%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Dictionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ye2XVidJIeSqh1qijaD05%22%2C%22flow%22%3Atrue%7D%7D)
 A dictionary designed for non-native speakers, understand the words with context and analogy.
 
 # Prompt

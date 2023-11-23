@@ -1,6 +1,6 @@
 
-[![Crafting Campaign-Specific Messaging to Influencers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Crafting Campaign-Specific Messaging to Influencers 
+[![Crafting Campaign-Specific Messaging to Influencers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Krq9maDZCalMm1ylBExfI%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting Campaign-Specific Messaging to Influencers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Krq9maDZCalMm1ylBExfI%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help in generating specific instructions and key messages for influencers to use during your campaign. 
 
 # Prompt

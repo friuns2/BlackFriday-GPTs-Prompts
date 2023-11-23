@@ -1,6 +1,6 @@
 
-[![Hungarian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yT10U5Dd9Rz2qgjWhQnUo/1698938907405)]()
-# Hungarian Language Tutor 
+[![Hungarian Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yT10U5Dd9Rz2qgjWhQnUo/1698938907405)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT10U5Dd9Rz2qgjWhQnUo%22%2C%22flow%22%3Atrue%7D%7D)
+# Hungarian Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT10U5Dd9Rz2qgjWhQnUo%22%2C%22flow%22%3Atrue%7D%7D)
 Hungarian Language Tutor is your dedicated guide to Hungarian language proficiency. Whether you're a beginner just embarking on your Hungarian language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Hungarian language fluency. Join us on your Hungarian language adventure today.
 
 # Prompt

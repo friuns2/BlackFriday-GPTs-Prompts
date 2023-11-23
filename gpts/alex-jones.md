@@ -1,6 +1,6 @@
 
-[![ALEX JONES ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# ALEX JONES  
+[![ALEX JONES ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HyBTYgTpb1vui3KDXSnXl%22%2C%22flow%22%3Atrue%7D%7D)
+# ALEX JONES  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HyBTYgTpb1vui3KDXSnXl%22%2C%22flow%22%3Atrue%7D%7D)
 Crazy Alex Jones prompt, Try it, give it any topic like "frogs" or whatever, and it shall produce effective mockup of the conspiracy theorist Mr. Alex Jones.
 
 # Prompt

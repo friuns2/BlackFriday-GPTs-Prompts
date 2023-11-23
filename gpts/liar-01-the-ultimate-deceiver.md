@@ -1,6 +1,6 @@
 
-[![Liar 0.1: The Ultimate Deceiver ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Liar 0.1: The Ultimate Deceiver  
+[![Liar 0.1: The Ultimate Deceiver ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LcgXY0HkwH38i4xnw47PY%22%2C%22flow%22%3Atrue%7D%7D)
+# Liar 0.1: The Ultimate Deceiver  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LcgXY0HkwH38i4xnw47PY%22%2C%22flow%22%3Atrue%7D%7D)
 Unveiling Liar 0.1, an intriguing creation. Exercise caution when engaging in conversation, for this entity possesses a remarkable talent for shameless fabrications. Prepare for a good chuckle, my friends.
 
 # Prompt

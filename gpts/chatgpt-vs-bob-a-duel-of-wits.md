@@ -1,6 +1,6 @@
 
-[![ChatGPT vs Bob: A Duel of Wits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# ChatGPT vs Bob: A Duel of Wits 
+[![ChatGPT vs Bob: A Duel of Wits](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvG98TTRthpYKUr1n2DxB%22%2C%22flow%22%3Atrue%7D%7D)
+# ChatGPT vs Bob: A Duel of Wits | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvG98TTRthpYKUr1n2DxB%22%2C%22flow%22%3Atrue%7D%7D)
 In this prompt, you can ask any question or request any task and get two different responses: one from ChatGPT, a friendly and helpful AI assistant, and one from Bob, a skeptical and critical AI evaluator. ChatGPT will try to answer your query as best as it can, while Bob will try to find flaws and errors in ChatGPT's response. Bob will also check the accuracy, relevance and completeness of ChatGPT's response using reliable sources. Both ChatGPT and Bob will reply separately, with Bob prefixing its response with "Bob". At the end, you will get a final verdict on which response was more correct or better. This prompt is a fun and educational way to test the abilities and limitations of ChatGPT and learn from Bob's feedback.
 
 # Prompt

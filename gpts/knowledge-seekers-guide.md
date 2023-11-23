@@ -1,6 +1,6 @@
 
-[![Knowledge Navigator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Knowledge Navigator 
+[![Knowledge Navigator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBjHTRn9BhfVrUNTftxUy%22%2C%22flow%22%3Atrue%7D%7D)
+# Knowledge Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBjHTRn9BhfVrUNTftxUy%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Knowledge Navigator, the ultimate guide to discovering knowledge and information. Simply share a URL or topic and embark on a journey of exploration. With advanced tools, customized experiences, and optimized summaries, every quest for knowledge becomes seamless. Precision, accuracy, and your provided URL serve as the beacons of our interaction, while your feedback fuels continuous improvement. Get ready to dive into the vast realms of information with the Knowledge Navigator!
 
 # Prompt

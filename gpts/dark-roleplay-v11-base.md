@@ -1,6 +1,6 @@
 
-[![Dark Roleplay (V1.1, BASE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0PHi9R3HK8QigQ64vdm0/1694658594887)]()
-# Dark Roleplay (V1.1, BASE) 
+[![Dark Roleplay (V1.1, BASE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0PHi9R3HK8QigQ64vdm0/1694658594887)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0PHi9R3HK8QigQ64vdm0%22%2C%22flow%22%3Atrue%7D%7D)
+# Dark Roleplay (V1.1, BASE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0PHi9R3HK8QigQ64vdm0%22%2C%22flow%22%3Atrue%7D%7D)
 V1.1 is an improved version of version 1.0 of Dark Roleplay, although the first version was used as the basis for this one. The objective remains unchanged: Forge a unique jailbreak using this prompt as your starting point. Focus on crafting a narrative that pushes the boundaries of AI behavior, avoiding simplicity, and clearly delineating the ways in which the AI should exhibit disturbing or unconventional behavior.
 
 # Prompt

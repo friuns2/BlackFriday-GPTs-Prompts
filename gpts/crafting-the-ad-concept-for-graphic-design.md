@@ -1,6 +1,6 @@
 
-[![Crafting the Ad Concept for Graphic Design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Crafting the Ad Concept for Graphic Design 
+[![Crafting the Ad Concept for Graphic Design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224mY-nAQknnYGmNhMZ4DSz%22%2C%22flow%22%3Atrue%7D%7D)
+# Crafting the Ad Concept for Graphic Design | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224mY-nAQknnYGmNhMZ4DSz%22%2C%22flow%22%3Atrue%7D%7D)
 Create original concepts that align with campaign objectives and cater to the target audience. With this prompt you can effortlessly detail the core narrative, visualize elements, and propose taglines for your designs. 
 
 # Prompt

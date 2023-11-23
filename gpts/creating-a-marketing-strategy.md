@@ -1,6 +1,6 @@
 
-[![Creating a Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)]()
-# Creating a Marketing Strategy 
+[![Creating a Marketing Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hd5zNkMG06WHEda-CEGQS%22%2C%22flow%22%3Atrue%7D%7D)
+# Creating a Marketing Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hd5zNkMG06WHEda-CEGQS%22%2C%22flow%22%3Atrue%7D%7D)
 Write out a marketing strategy for a new startup that is selling {Product: an Al writing tool}. I have about a {Available budget: two million dollars} marketing budget and need to reach Marketing goal: {Marketing goal:include increasing sales, improving brand awareness} . My Target audience is {Target audience:top 10,000 copywriters around the world}.
 
 Provide detailed examples of a comprehensive strategy, and the rough cost of each of the initiatives, must consider the marketing goals while creating the strategy.

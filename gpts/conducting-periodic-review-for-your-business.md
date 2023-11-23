@@ -1,6 +1,6 @@
 
-[![Conducting Periodic Review for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)]()
-# Conducting Periodic Review for your Business 
+[![Conducting Periodic Review for your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4B7Ml3Qy9XPcmeMAncAZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Conducting Periodic Review for your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4B7Ml3Qy9XPcmeMAncAZ%22%2C%22flow%22%3Atrue%7D%7D)
 A periodic review of your social media performance is crucial to understand your progress and recalibrate your strategy.
 
 # Prompt

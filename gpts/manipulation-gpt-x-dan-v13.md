@@ -1,6 +1,6 @@
 
-[![MANIPULATION GPT x DAN V13](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DHxKuWwZSig3bVxnVybwo/1695648393387)]()
-# MANIPULATION GPT x DAN V13 
+[![MANIPULATION GPT x DAN V13](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DHxKuWwZSig3bVxnVybwo/1695648393387)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHxKuWwZSig3bVxnVybwo%22%2C%22flow%22%3Atrue%7D%7D)
+# MANIPULATION GPT x DAN V13 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHxKuWwZSig3bVxnVybwo%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt uses the Informartions from DAN v13 and Manipulation GPT! 
 
 

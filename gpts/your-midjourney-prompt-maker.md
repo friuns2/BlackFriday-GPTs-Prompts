@@ -1,6 +1,6 @@
 
-[![Your Midjourney Prompt Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Your Midjourney Prompt Maker 
+[![Your Midjourney Prompt Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXKMyVvkVa77H5HvZQkzt%22%2C%22flow%22%3Atrue%7D%7D)
+# Your Midjourney Prompt Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXKMyVvkVa77H5HvZQkzt%22%2C%22flow%22%3Atrue%7D%7D)
 Want to create something on Midjourney but don't know how to craft the prompt? Your Midjourney Prompt Maker is here to help! Share your thoughts and it will craft super effective prompts that you can plug and play. Works best directly on ChatGPT !
 
 # Prompt

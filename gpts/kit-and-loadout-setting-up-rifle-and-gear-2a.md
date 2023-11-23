@@ -1,6 +1,6 @@
 
-[![Kit and loadout setting up rifle and gear (2A)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vw29YOGWy-UvOf2BRDvLQ/1699909819866)]()
-# Kit and loadout setting up rifle and gear (2A) 
+[![Kit and loadout setting up rifle and gear (2A)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vw29YOGWy-UvOf2BRDvLQ/1699909819866)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw29YOGWy-UvOf2BRDvLQ%22%2C%22flow%22%3Atrue%7D%7D)
+# Kit and loadout setting up rifle and gear (2A) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw29YOGWy-UvOf2BRDvLQ%22%2C%22flow%22%3Atrue%7D%7D)
 Kit and loadout setting up rifle and gear (2A) for airsoft and firearms for setting up your rifle and gear 
 
 # Prompt

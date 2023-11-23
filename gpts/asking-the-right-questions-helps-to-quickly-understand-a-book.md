@@ -1,6 +1,6 @@
 
-[![Asking the right questions helps to quickly understand a book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)]()
-# Asking the right questions helps to quickly understand a book 
+[![Asking the right questions helps to quickly understand a book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CdBsoKZYMLcO6gQkVT0wE%22%2C%22flow%22%3Atrue%7D%7D)
+# Asking the right questions helps to quickly understand a book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CdBsoKZYMLcO6gQkVT0wE%22%2C%22flow%22%3Atrue%7D%7D)
 Quickly understand the 7 questions of a book, which can increase the conversation resources, just replace the title of the book If you need to understand a certain point in detail, you can ask gpt to expand it
 
 # Prompt

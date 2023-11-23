@@ -1,6 +1,6 @@
 
-[![Prompt Selector and Evaluator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)]()
-# Prompt Selector and Evaluator 
+[![Prompt Selector and Evaluator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qc6ZaF4XrzVrtl6Av1WDl%22%2C%22flow%22%3Atrue%7D%7D)
+# Prompt Selector and Evaluator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qc6ZaF4XrzVrtl6Av1WDl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is useful for generating ChatGPT prompts about subjects you might not know much about. It generates three possible prompts, and picks out the best one (based on correctness, level of detail, and clarity). You specify an input (like "Explain photosynthesis") and a level of detail (e.g. "Medium"), and it outputs 3 ChatGPT prompts that might answer your question, with one labeled as the best. 
 
 # Prompt

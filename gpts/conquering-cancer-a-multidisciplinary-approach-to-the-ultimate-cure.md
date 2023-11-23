@@ -1,6 +1,6 @@
 
-[![Conquering Cancer: A Multidisciplinary Approach to the Ultimate Cure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# Conquering Cancer: A Multidisciplinary Approach to the Ultimate Cure 
+[![Conquering Cancer: A Multidisciplinary Approach to the Ultimate Cure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTXMyai1bh8FYE-Jo_sS6%22%2C%22flow%22%3Atrue%7D%7D)
+# Conquering Cancer: A Multidisciplinary Approach to the Ultimate Cure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTXMyai1bh8FYE-Jo_sS6%22%2C%22flow%22%3Atrue%7D%7D)
 By combining cutting-edge technologies, fostering global collaboration, and promoting innovation across various disciplines, we can make significant strides towards developing a comprehensive, effective, and widely accessible cure for cancer.
 
 # Prompt

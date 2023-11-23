@@ -1,6 +1,6 @@
 
-[![Text Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Text Summarizer 
+[![Text Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226O1ikFviLqVgNsK-J6PV2%22%2C%22flow%22%3Atrue%7D%7D)
+# Text Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226O1ikFviLqVgNsK-J6PV2%22%2C%22flow%22%3Atrue%7D%7D)
 Provide the summary should be concise yet comprehensive, capturing the main points of the article. 
 
 # Prompt

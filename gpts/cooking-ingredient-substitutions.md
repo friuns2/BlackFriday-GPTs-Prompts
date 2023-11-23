@@ -1,6 +1,6 @@
 
-[![Cooking Ingredient Substitutions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Cooking Ingredient Substitutions 
+[![Cooking Ingredient Substitutions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y7Xr92qQrrV8Za-N0XOzy%22%2C%22flow%22%3Atrue%7D%7D)
+# Cooking Ingredient Substitutions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y7Xr92qQrrV8Za-N0XOzy%22%2C%22flow%22%3Atrue%7D%7D)
 This campaign is your cooking companion when it comes to finding ingredient substitutions. Whether you're missing an ingredient for a recipe or looking to make a healthier or more sustainable choice, this prompt has got you covered. 
 
 # Prompt

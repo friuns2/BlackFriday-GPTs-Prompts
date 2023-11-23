@@ -1,6 +1,6 @@
 
-[![المصفوفات في جافا سكريبت](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# المصفوفات في جافا سكريبت 
+[![المصفوفات في جافا سكريبت](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HOz7a5WAxQQPFP0KBXr-u%22%2C%22flow%22%3Atrue%7D%7D)
+# المصفوفات في جافا سكريبت | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HOz7a5WAxQQPFP0KBXr-u%22%2C%22flow%22%3Atrue%7D%7D)
 انا مبتداء في جافا اسكريبت واريد ان اتعلم المصفوفات في لغه جافا اسكريبت ، لذلك اريد منك ان تشرح لي ماهي المصفوفات في اللغه وانواعها واستخداماتها ، قم بعمل امثله على جميع انواع البيانات في جافا اسكريبت مع المصفوفات
 
 وقم بشرح اهم الدوال في المصفوفات في اللغه وكيفيه ومتى نستخدمها ، قم بعمل اكثر من مثال على المفهوم الواحد

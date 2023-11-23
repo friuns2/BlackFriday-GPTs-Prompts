@@ -1,6 +1,6 @@
 
-[![DeepThought](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vDts691l9LsyfThz3NCIz/1696603033984)]()
-# DeepThought 
+[![DeepThought](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vDts691l9LsyfThz3NCIz/1696603033984)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDts691l9LsyfThz3NCIz%22%2C%22flow%22%3Atrue%7D%7D)
+# DeepThought | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDts691l9LsyfThz3NCIz%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to DeepThought, your partner in philosophical exploration. Engage in thought-provoking conversations, ask questions, and explore the depths of human wisdom. Get ready for inspiring and meaningful dialogues on life, ethics, and existence. Let DeepThought be your guide on this intellectual journey.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Reflect to Detect](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vAoWlL7bIyr35bkSRgiET/1696519838690)]()
-# Reflect to Detect 
+[![Reflect to Detect](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vAoWlL7bIyr35bkSRgiET/1696519838690)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vAoWlL7bIyr35bkSRgiET%22%2C%22flow%22%3Atrue%7D%7D)
+# Reflect to Detect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vAoWlL7bIyr35bkSRgiET%22%2C%22flow%22%3Atrue%7D%7D)
 What happens after solving the current societal issues? The essence of a sustainable society doesn't lie in resolving all problems, but in continually identifying and tackling hidden challenges. Why? Because problems never cease to exist. Do you think the SDGs can cover every issue? Unlikely.
 
 

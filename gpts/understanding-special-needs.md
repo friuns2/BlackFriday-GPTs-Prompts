@@ -1,6 +1,6 @@
 
-[![Understanding Disabilities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)]()
-# Understanding Disabilities 
+[![Understanding Disabilities](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZT59g8cGhCM9PEEFQpMCP%22%2C%22flow%22%3Atrue%7D%7D)
+# Understanding Disabilities | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZT59g8cGhCM9PEEFQpMCP%22%2C%22flow%22%3Atrue%7D%7D)
 Some people in this world have a disability. This can affect their lives, as those who don't have any will often avoid them, and don't want to befriend them or work with them. They are being neglected for being themself. This prompt helps people better understand what a disability does and how it affects the person with it. 
 
 # Prompt

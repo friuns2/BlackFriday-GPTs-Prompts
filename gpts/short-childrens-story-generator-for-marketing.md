@@ -1,6 +1,6 @@
 
-[![Short Children's Story Generator for Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Short Children's Story Generator for Marketing 
+[![Short Children's Story Generator for Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ly2s6cgmZsf8TSDs0cPAh%22%2C%22flow%22%3Atrue%7D%7D)
+# Short Children's Story Generator for Marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ly2s6cgmZsf8TSDs0cPAh%22%2C%22flow%22%3Atrue%7D%7D)
 Create short stories for illustrated kids books with contrasting characters based on business niches. For example, a story of two kids, one who followed the advice of his parents to study hard, take it seriously, because they will have a much better future and quality of life, because education is the key to a great and rewarding career, who followed that path and became a successful engineer and was very happy, and the other character who did not follow his parents' advice, flunked out of school, and as an adult worked at a local retail hardware store earning minimum wage and hated life. 
 
 

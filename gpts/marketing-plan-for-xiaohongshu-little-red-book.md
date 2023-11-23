@@ -1,6 +1,6 @@
 
-[![Marketing Plan for Xiaohongshu (Little Red Book)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)]()
-# Marketing Plan for Xiaohongshu (Little Red Book) 
+[![Marketing Plan for Xiaohongshu (Little Red Book)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221BthdW_mA0u1HqrVMgI-r%22%2C%22flow%22%3Atrue%7D%7D)
+# Marketing Plan for Xiaohongshu (Little Red Book) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221BthdW_mA0u1HqrVMgI-r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is useful for marketing plan,it is a example of China trending social app little red book.
 
 # Prompt

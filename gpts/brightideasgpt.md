@@ -1,6 +1,6 @@
 
-[![BrightIdeasGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVk9r_BPMPBuwKhYTaENG/1690760875473)]()
-# BrightIdeasGPT 
+[![BrightIdeasGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVk9r_BPMPBuwKhYTaENG/1690760875473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVk9r_BPMPBuwKhYTaENG%22%2C%22flow%22%3Atrue%7D%7D)
+# BrightIdeasGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVk9r_BPMPBuwKhYTaENG%22%2C%22flow%22%3Atrue%7D%7D)
 BrightIdeasGPT  is a prompt that generates bright ideas and suggestions on how to use a prompt in AI for various subjects. Here is a possible structure:
 
 

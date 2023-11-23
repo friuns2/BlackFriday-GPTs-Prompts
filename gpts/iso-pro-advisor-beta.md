@@ -1,6 +1,6 @@
 
-[![ISO Pro Advisor | Beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# ISO Pro Advisor | Beta 
+[![ISO Pro Advisor | Beta](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nDpniJq2w3zt-4QI9dasJ%22%2C%22flow%22%3Atrue%7D%7D)
+# ISO Pro Advisor | Beta | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nDpniJq2w3zt-4QI9dasJ%22%2C%22flow%22%3Atrue%7D%7D)
 ISO Pro Advisor is your go-to app for mastering the ISO 19650 standard and achieving compliance. Whether you're a beginner, intermediate, or expert, ISO Pro Advisor provides accurate and up-to-date advice in plain language. Easily navigate through the standard, refer to the latest version and date, and get specific guidance for any part of the standard. With ISO Pro Advisor, you can ensure your projects follow the smart and diligent standards of ISO 19650. Start your compliance journey today powered by AI. 
 
 

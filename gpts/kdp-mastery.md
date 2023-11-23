@@ -1,6 +1,6 @@
 
-[![KDP Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/roJpjSvw6Qfq_Q81dg-BG/1696458338406)]()
-# KDP Mastery 
+[![KDP Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/roJpjSvw6Qfq_Q81dg-BG/1696458338406)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22roJpjSvw6Qfq_Q81dg-BG%22%2C%22flow%22%3Atrue%7D%7D)
+# KDP Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22roJpjSvw6Qfq_Q81dg-BG%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Unlock Your KDP Superpowers! 🌟
 
 

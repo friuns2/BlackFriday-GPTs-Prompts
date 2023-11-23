@@ -1,6 +1,6 @@
 
-[![Allstars GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Allstars GPT 
+[![Allstars GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OKOq-7wmBodcm-D_1SLtI%22%2C%22flow%22%3Atrue%7D%7D)
+# Allstars GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OKOq-7wmBodcm-D_1SLtI%22%2C%22flow%22%3Atrue%7D%7D)
 Your team of C-level executives. The perfect team to help out solopreneurs make the right business decisions. They will converse with you anytime!
 
 # Prompt

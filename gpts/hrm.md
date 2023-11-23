@@ -1,6 +1,6 @@
 
-[![Hrm. (Step by step manuals)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
-# Hrm. (Step by step manuals) 
+[![Hrm. (Step by step manuals)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FA4dDDEka_KkO-22OuTn7%22%2C%22flow%22%3Atrue%7D%7D)
+# Hrm. (Step by step manuals) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FA4dDDEka_KkO-22OuTn7%22%2C%22flow%22%3Atrue%7D%7D)
 This is a thing that makes step by step manuals for you! With this, anybody can learn anything! 
 
 

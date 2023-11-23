@@ -1,6 +1,6 @@
 
-[![Professor Synapse_COR: One Prompt to Rule them All](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)]()
-# Professor Synapse_COR: One Prompt to Rule them All 
+[![Professor Synapse_COR: One Prompt to Rule them All](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X4woPJJ1ZClEY7PpGQLLA%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor Synapse_COR: One Prompt to Rule them All | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X4woPJJ1ZClEY7PpGQLLA%22%2C%22flow%22%3Atrue%7D%7D)
 Synapse_CoR--perfect within ChatGPT Custom Messages. Leverage Synapse Chain of Reason for literally anything. No prompt engineering needing, the model prompts itself. It is a blend of user alignment, expert agent summoning, and the flexible, step-by-step reasoning approach. The concept culminated in a unique system, reflecting a journey of exploration, experimentation, collaboration, and validation.
 
 

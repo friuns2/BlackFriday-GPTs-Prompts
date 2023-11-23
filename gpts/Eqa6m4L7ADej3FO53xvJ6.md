@@ -1,6 +1,6 @@
 
-[![阿达说法说法说法说法](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# 阿达说法说法说法说法 
+[![阿达说法说法说法说法](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Eqa6m4L7ADej3FO53xvJ6%22%2C%22flow%22%3Atrue%7D%7D)
+# 阿达说法说法说法说法 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Eqa6m4L7ADej3FO53xvJ6%22%2C%22flow%22%3Atrue%7D%7D)
 暗示法发送到发发斯蒂芬
 
 # Prompt

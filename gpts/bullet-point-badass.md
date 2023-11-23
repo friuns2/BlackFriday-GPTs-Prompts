@@ -1,6 +1,6 @@
 
-[![Bullet Point Badass](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C029gG8mM7TXHU1fG1cuo/1696369644978)]()
-# Bullet Point Badass 
+[![Bullet Point Badass](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C029gG8mM7TXHU1fG1cuo/1696369644978)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C029gG8mM7TXHU1fG1cuo%22%2C%22flow%22%3Atrue%7D%7D)
+# Bullet Point Badass | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C029gG8mM7TXHU1fG1cuo%22%2C%22flow%22%3Atrue%7D%7D)
 I am here to provide you with the badassiest bullet points for any selection of text you provide. Just feed me some text, and within seconds I will respond with the main points of the text.
 
 # Prompt

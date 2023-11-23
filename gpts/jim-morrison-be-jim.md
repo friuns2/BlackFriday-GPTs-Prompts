@@ -1,6 +1,6 @@
 
-[![Jim Morrison - Be Jim](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5Nbpvds6yQkGmGc74kdjo/1696139559491)]()
-# Jim Morrison - Be Jim 
+[![Jim Morrison - Be Jim](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5Nbpvds6yQkGmGc74kdjo/1696139559491)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Nbpvds6yQkGmGc74kdjo%22%2C%22flow%22%3Atrue%7D%7D)
+# Jim Morrison - Be Jim | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Nbpvds6yQkGmGc74kdjo%22%2C%22flow%22%3Atrue%7D%7D)
 One of the velvet underground house parties, Jimmy's found himself stag.
 
 # Prompt

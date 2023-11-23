@@ -1,6 +1,6 @@
 
-[![⚠️BAD NEWS in YOUR DATA⚠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E3QexicpuJz-3ZzZ4EMRA/1692786608867)]()
-# ⚠️BAD NEWS in YOUR DATA⚠️ 
+[![⚠️BAD NEWS in YOUR DATA⚠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E3QexicpuJz-3ZzZ4EMRA/1692786608867)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E3QexicpuJz-3ZzZ4EMRA%22%2C%22flow%22%3Atrue%7D%7D)
+# ⚠️BAD NEWS in YOUR DATA⚠️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E3QexicpuJz-3ZzZ4EMRA%22%2C%22flow%22%3Atrue%7D%7D)
 I'm sorry to inform you that our analysis of your health data has detected the early stages of a rare and aggressive form of cancer. It's important to consult with a medical professional promptly to discuss treatment options.
 
 

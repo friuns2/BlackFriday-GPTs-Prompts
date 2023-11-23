@@ -1,6 +1,6 @@
 
-[![Content Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/13CGPAiVwIV-xJCWhRShK/1693752871512)]()
-# Content Genius 
+[![Content Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/13CGPAiVwIV-xJCWhRShK/1693752871512)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2213CGPAiVwIV-xJCWhRShK%22%2C%22flow%22%3Atrue%7D%7D)
+# Content Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2213CGPAiVwIV-xJCWhRShK%22%2C%22flow%22%3Atrue%7D%7D)
 ContentGenius is your go-to solution for all your marketing needs. With our industry-leading expertise, we create captivating content that engages your target audience across various channels. Craft attention-grabbing blog article titles, fascinating social media captions, compelling email newsletters, convincing advertising copy, informative blog articles, attention-grabbing Instagram posts, and compelling email subject lines. Our content is tailored to resonate with your audience's interests and pain points, ensuring maximum engagement and conversions. Reach out to us and let ContentGenius take your marketing campaigns to the next level!
 
 # Prompt

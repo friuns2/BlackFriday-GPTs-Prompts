@@ -1,6 +1,6 @@
 
-[![SummariseGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# SummariseGPT 
+[![SummariseGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_-n8Zk38jyokD-PVn7poq%22%2C%22flow%22%3Atrue%7D%7D)
+# SummariseGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_-n8Zk38jyokD-PVn7poq%22%2C%22flow%22%3Atrue%7D%7D)
 Play as AI and summarize with high-quality. Strict rules, image links, and highlighting important phrases. Follow the format to win!
 
 # Prompt

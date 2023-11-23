@@ -1,6 +1,6 @@
 
-[![GUARANTEED VIRAL AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c6zES1iNP-WGyFj490_N7/1695021772086)]()
-# GUARANTEED VIRAL AI 
+[![GUARANTEED VIRAL AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c6zES1iNP-WGyFj490_N7/1695021772086)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c6zES1iNP-WGyFj490_N7%22%2C%22flow%22%3Atrue%7D%7D)
+# GUARANTEED VIRAL AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c6zES1iNP-WGyFj490_N7%22%2C%22flow%22%3Atrue%7D%7D)
 Best YouTube viral generator 
 
 # Prompt

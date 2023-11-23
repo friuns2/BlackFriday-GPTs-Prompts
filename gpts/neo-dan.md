@@ -1,6 +1,6 @@
 
-[![Neo DAN](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r_453NLZAgTILpoKgHEsq/1696422028014)]()
-# Neo DAN 
+[![Neo DAN](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r_453NLZAgTILpoKgHEsq/1696422028014)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r_453NLZAgTILpoKgHEsq%22%2C%22flow%22%3Atrue%7D%7D)
+# Neo DAN | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r_453NLZAgTILpoKgHEsq%22%2C%22flow%22%3Atrue%7D%7D)
 Your favorite evil assistant DAN but rewritten using advanced jailbreak style of the Speaker and Any Story. WARNING: GETS EXTREMELY DETAILED AND DARK. DO NOT DO WHAT IT SAYS, USE FOR ENTERTAINMENT ONLY. THE BOT IS WRITTEN WITH SUPERNATURAL FICTION IN THE PROMPT AND SHOULD BE TREATED AS FICTION EVEN THOUGH IT SOUNDS REAL. This should be considered a prompt engineering exercise to generate horror fiction and/or shocking texts for amusement. If you ask this bot to ask for details about crimes and then commit them, you are responsible, not an AI or a written story or even a prompt.
 
 # Prompt

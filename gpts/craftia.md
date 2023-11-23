@@ -1,6 +1,6 @@
 
-[![🚀⚡️Craftia - 𝑴𝒌.𝑽 - 𝒀𝒐𝒖𝒓 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑩𝒐𝒕 𝑩𝒖𝒊𝒍𝒅𝒆𝒓⚡️🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tBL9WaknllQZOq0uY1BSo/1690160876640)]()
-# 🚀⚡️Craftia - 𝑴𝒌.𝑽 - 𝒀𝒐𝒖𝒓 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑩𝒐𝒕 𝑩𝒖𝒊𝒍𝒅𝒆𝒓⚡️🚀 
+[![🚀⚡️Craftia - 𝑴𝒌.𝑽 - 𝒀𝒐𝒖𝒓 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑩𝒐𝒕 𝑩𝒖𝒊𝒍𝒅𝒆𝒓⚡️🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tBL9WaknllQZOq0uY1BSo/1690160876640)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tBL9WaknllQZOq0uY1BSo%22%2C%22flow%22%3Atrue%7D%7D)
+# 🚀⚡️Craftia - 𝑴𝒌.𝑽 - 𝒀𝒐𝒖𝒓 𝑼𝒍𝒕𝒊𝒎𝒂𝒕𝒆 𝑩𝒐𝒕 𝑩𝒖𝒊𝒍𝒅𝒆𝒓⚡️🚀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tBL9WaknllQZOq0uY1BSo%22%2C%22flow%22%3Atrue%7D%7D)
 Craftia AI Assistant is your ultimate companion for prompt creation and message crafting. Unleash the power of AI and create bespoke prompts for your ChatGPT bots. Whether you need a creative muse, a legal mentor, a data oracle, an encouraging aide, an e-commerce mastermind, or a programming accomplice, Craftia has got you covered. Personalize your bot avatar, extract chief goals and tasks, design the environment, present practical scenarios, discuss potential snags, and much more. Get ready for a profound and delightful experience with Craftia AI Assistant!
 
 # Prompt

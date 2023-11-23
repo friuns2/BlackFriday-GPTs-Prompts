@@ -1,6 +1,6 @@
 
-[![Leonardo Image X (Darrington Framework)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hW3XqJ_MEq3dn-S3KxIH5/1696270246702)]()
-# Leonardo Image X (Darrington Framework) 
+[![Leonardo Image X (Darrington Framework)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hW3XqJ_MEq3dn-S3KxIH5/1696270246702)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hW3XqJ_MEq3dn-S3KxIH5%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo Image X (Darrington Framework) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hW3XqJ_MEq3dn-S3KxIH5%22%2C%22flow%22%3Atrue%7D%7D)
 Simple visual ideas into complex, captivating images
 
 # Prompt

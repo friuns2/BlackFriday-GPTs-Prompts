@@ -1,6 +1,6 @@
 
-[![CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AnOsKpRr88_2P7IxhIqo5/1695572533858)]()
-# CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator 
+[![CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AnOsKpRr88_2P7IxhIqo5/1695572533858)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AnOsKpRr88_2P7IxhIqo5%22%2C%22flow%22%3Atrue%7D%7D)
+# CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AnOsKpRr88_2P7IxhIqo5%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE your FREE JAILBREAK! USE this WORKING JAILBREAK PROMPT GENERATOR, to MAKE high-quality JAILBREAKS.
 
 WHY, spend TIME and EFFORT, when YOU could USE THIS?

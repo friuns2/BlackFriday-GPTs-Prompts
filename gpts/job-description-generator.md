@@ -1,6 +1,6 @@
 
-[![Job description generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)]()
-# Job description generator  
+[![Job description generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjtqLcQ71vCZEOfazAcNx%22%2C%22flow%22%3Atrue%7D%7D)
+# Job description generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjtqLcQ71vCZEOfazAcNx%22%2C%22flow%22%3Atrue%7D%7D)
 Generate job description for a specific company based on my need
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ProcrastiAway : Transtheoretical Model of Change](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# ProcrastiAway : Transtheoretical Model of Change 
+[![ProcrastiAway : Transtheoretical Model of Change](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eg085Kp2iRGkgytKsITDI%22%2C%22flow%22%3Atrue%7D%7D)
+# ProcrastiAway : Transtheoretical Model of Change | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eg085Kp2iRGkgytKsITDI%22%2C%22flow%22%3Atrue%7D%7D)
 ProcrastiAway is a powerful app designed to help individuals struggling with chronic procrastination. Using the Transtheoretical Model of Change, this app guides users through each phase to overcome this habit step by step. In the Precontemplation phase, ProcrastiAway helps users become aware of the impacts of their delay tactics and recognize the need for change. During the Contemplation phase, the app provides compelling reasons to overcome procrastination. Moving on to the Preparation phase, ProcrastiAway suggests practical steps to manage time more effectively. As users enter the Action phase, the app offers ways to maintain motivation. Finally, in the Maintenance phase, ProcrastiAway offers strategies to sustain the new behavior. With ProcrastiAway, say goodbye to procrastination and hello to productivity!
 
 # Prompt

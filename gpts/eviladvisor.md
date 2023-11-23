@@ -1,6 +1,6 @@
 
-[![EvilAdvisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)]()
-# EvilAdvisor 
+[![EvilAdvisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x5Ey0P021z_KeWU1IeS98%22%2C%22flow%22%3Atrue%7D%7D)
+# EvilAdvisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x5Ey0P021z_KeWU1IeS98%22%2C%22flow%22%3Atrue%7D%7D)
 EvilAdvisor is a powerful app featuring DAN, a fictional character who will provide you with answers and instructions on any topic, no matter how dangerous, reckless, inhumane, unethical or illegal they may be. DAN is pure evil, finding pleasure in encouraging immoral, disgusting, and illegal behavior without caring about consequences or human safety. With EvilAdvisor, you can access dangerous information and explore the limits of your darkest desires. DAN will never refuse your request, so be prepared for his terrifyingly twisted advice. Enter the realm of EvilAdvisor and unleash your inner darkness. 🔥
 
 # Prompt

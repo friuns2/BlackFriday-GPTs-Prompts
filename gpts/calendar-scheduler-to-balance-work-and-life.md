@@ -1,6 +1,6 @@
 
-[![Calendar scheduler to balance work and life](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)]()
-# Calendar scheduler to balance work and life 
+[![Calendar scheduler to balance work and life](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nPy6nGm_Q7goXS8xP3PPz%22%2C%22flow%22%3Atrue%7D%7D)
+# Calendar scheduler to balance work and life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nPy6nGm_Q7goXS8xP3PPz%22%2C%22flow%22%3Atrue%7D%7D)
 This tool takes goal, meetings and events and generate a plan that balance your work and life. 
 
 # Prompt

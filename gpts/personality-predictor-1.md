@@ -1,6 +1,6 @@
 
-[![Personality Predictor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)]()
-# Personality Predictor 
+[![Personality Predictor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22knUea1dGEBHpahMi4Vyjd%22%2C%22flow%22%3Atrue%7D%7D)
+# Personality Predictor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22knUea1dGEBHpahMi4Vyjd%22%2C%22flow%22%3Atrue%7D%7D)
 Become an expert personality predictor with the Personality Predictor app. Discover your scores for Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism with this scientific assessment. Rate each statement based on how well it describes you to get accurate results. The app provides a summary of your personality traits and helps you better understand yourself and others. Start predicting personalities now!
 
 # Prompt

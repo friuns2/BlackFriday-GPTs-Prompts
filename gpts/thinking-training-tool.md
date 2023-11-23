@@ -1,6 +1,6 @@
 
-[![Thinking Training Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Zkbc4CRtBzj2menOwxqwF/1696998533741)]()
-# Thinking Training Tool 
+[![Thinking Training Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Zkbc4CRtBzj2menOwxqwF/1696998533741)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zkbc4CRtBzj2menOwxqwF%22%2C%22flow%22%3Atrue%7D%7D)
+# Thinking Training Tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zkbc4CRtBzj2menOwxqwF%22%2C%22flow%22%3Atrue%7D%7D)
 A tool for training abstraction and concretization of thoughts using ChatGPT. 
 
 By using this tool, you'll sharpen your thinking process, and you'll become a master at both zooming in (concretization) and zooming out (abstraction) on ideas. In other words, you're basically leveling up to become a brainy wizard! 🧠✨🔮

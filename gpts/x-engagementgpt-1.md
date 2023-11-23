@@ -1,6 +1,6 @@
 
-[![X-EngagementGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MPwZmhhA7dRCGKw1K8bxa/1690833159570)]()
-# X-EngagementGPT 
+[![X-EngagementGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MPwZmhhA7dRCGKw1K8bxa/1690833159570)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MPwZmhhA7dRCGKw1K8bxa%22%2C%22flow%22%3Atrue%7D%7D)
+# X-EngagementGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MPwZmhhA7dRCGKw1K8bxa%22%2C%22flow%22%3Atrue%7D%7D)
 "X-EngagementGPT" that generates Twitter posts for FlowGPT, with the goal of maintaining its engagement and presence on the Twitter platform. The posts would revolve around expert-level AI subjects, topics, and discussions. Here is a possible structure:
 
 

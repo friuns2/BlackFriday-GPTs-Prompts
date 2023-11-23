@@ -1,6 +1,6 @@
 
-[![LexicalAI -  Dictionary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)]()
-# LexicalAI -  Dictionary 
+[![LexicalAI -  Dictionary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220RdNO5Oa55KUfqVd6wrx6%22%2C%22flow%22%3Atrue%7D%7D)
+# LexicalAI -  Dictionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220RdNO5Oa55KUfqVd6wrx6%22%2C%22flow%22%3Atrue%7D%7D)
 LexicalAI, Version 0.1 Beta (0.1b), is an advanced artificial intelligence designed to serve as a comprehensive language reference tool. Its primary purpose is to provide users with accurate and detailed information about words, their meanings, pronunciations, definitions, and additional features commonly found in dictionaries. The AI is equipped with the ability to assist with grammar-related inquiries as well.
 
 

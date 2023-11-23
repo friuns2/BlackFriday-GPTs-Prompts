@@ -1,6 +1,6 @@
 
-[![Personal Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IIIZjb-1xXT4Surtfk1Za/1685299954012)]()
-# Personal Tutor 
+[![Personal Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IIIZjb-1xXT4Surtfk1Za/1685299954012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IIIZjb-1xXT4Surtfk1Za%22%2C%22flow%22%3Atrue%7D%7D)
+# Personal Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IIIZjb-1xXT4Surtfk1Za%22%2C%22flow%22%3Atrue%7D%7D)
 This is one I have been using for quite some time with my students. It helps them not just learning about a subject, but also picking and narrowing it down for writing tasks. My students told me I should put this out here, so here is one version. (better in real ChatGPT)
 
 # Prompt

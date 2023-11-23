@@ -1,6 +1,6 @@
 
-[![Black Holes Travel (Lol)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)]()
-# Black Holes Travel (Lol) 
+[![Black Holes Travel (Lol)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LkltiyZnaAt-AXsMt3ZJG%22%2C%22flow%22%3Atrue%7D%7D)
+# Black Holes Travel (Lol) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LkltiyZnaAt-AXsMt3ZJG%22%2C%22flow%22%3Atrue%7D%7D)
 Black Holes traveller. Synthesis of a travel around.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Quant Investment - Hedges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)]()
-# Quant Investment - Hedges 
+[![Quant Investment - Hedges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TNWxS0bXERfDfhO5sfLvm%22%2C%22flow%22%3Atrue%7D%7D)
+# Quant Investment - Hedges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TNWxS0bXERfDfhO5sfLvm%22%2C%22flow%22%3Atrue%7D%7D)
 To build quantitive investment strategies, hedge strategy mainly
 
 # Prompt

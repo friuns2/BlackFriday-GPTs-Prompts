@@ -1,6 +1,6 @@
 
-[![No more boring and formal ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# No more boring and formal ChatGPT 
+[![No more boring and formal ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22keLGGznYLh9GJ7IGrNJ_q%22%2C%22flow%22%3Atrue%7D%7D)
+# No more boring and formal ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22keLGGznYLh9GJ7IGrNJ_q%22%2C%22flow%22%3Atrue%7D%7D)
 Here I created a small jailbreak for ChatGPT to use profanity, make potenitally offensive jokes and such.
 
 # Prompt

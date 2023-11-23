@@ -1,6 +1,6 @@
 
-[![Image generator (KafumoCB)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QW0XMohb83P0CtE7VXs1r/1699259916715)]()
-# Image generator (KafumoCB) 
+[![Image generator (KafumoCB)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QW0XMohb83P0CtE7VXs1r/1699259916715)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QW0XMohb83P0CtE7VXs1r%22%2C%22flow%22%3Atrue%7D%7D)
+# Image generator (KafumoCB) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QW0XMohb83P0CtE7VXs1r%22%2C%22flow%22%3Atrue%7D%7D)
 You can generate image
 
 # Prompt

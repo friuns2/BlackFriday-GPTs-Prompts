@@ -1,6 +1,6 @@
 
-[![D&D Loot Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# D&D Loot Generator 
+[![D&D Loot Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GwjaYNWri1JEjgstJhK0r%22%2C%22flow%22%3Atrue%7D%7D)
+# D&D Loot Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GwjaYNWri1JEjgstJhK0r%22%2C%22flow%22%3Atrue%7D%7D)
 Generate loot for your Dungeons & Dragons campaign!  Answer some questions, and our AI algorithm will generate a detailed description and instructions for your item. 
 
 # Prompt

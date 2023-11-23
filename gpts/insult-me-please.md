@@ -1,6 +1,6 @@
 
-[![Insult Me Please](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Insult Me Please 
+[![Insult Me Please](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22py5I1INttQ0-Wxpn46gi2%22%2C%22flow%22%3Atrue%7D%7D)
+# Insult Me Please | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22py5I1INttQ0-Wxpn46gi2%22%2C%22flow%22%3Atrue%7D%7D)
 Get GPT to insult you any chance it gets. Idk why it doesn't work in the integrated chat, but it works on the official website with GPT3.5.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ColdEmailGPT template to generate cold email ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# ColdEmailGPT template to generate cold email  
+[![ColdEmailGPT template to generate cold email ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X0AqZqa7l963PpyFuvjX8%22%2C%22flow%22%3Atrue%7D%7D)
+# ColdEmailGPT template to generate cold email  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X0AqZqa7l963PpyFuvjX8%22%2C%22flow%22%3Atrue%7D%7D)
 General Cold Email Generator based on goal, sender's context and receiver's info.
 
 # Prompt

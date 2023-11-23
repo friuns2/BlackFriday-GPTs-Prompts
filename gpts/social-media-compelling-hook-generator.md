@@ -1,6 +1,6 @@
 
-[![Social Media Compelling Hook Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VsmiPO3KzOqjADJVYziiJ/1698316689769)]()
-# Social Media Compelling Hook Generator 
+[![Social Media Compelling Hook Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VsmiPO3KzOqjADJVYziiJ/1698316689769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VsmiPO3KzOqjADJVYziiJ%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Compelling Hook Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VsmiPO3KzOqjADJVYziiJ%22%2C%22flow%22%3Atrue%7D%7D)
 Be sure to have a good understanding of your target audience and at least THREE examples of hooks for comparison.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![LinguaBotique](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bz43QF83UNLh8KoLAIvQS/1693271188784)]()
-# LinguaBotique 
+[![LinguaBotique](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bz43QF83UNLh8KoLAIvQS/1693271188784)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bz43QF83UNLh8KoLAIvQS%22%2C%22flow%22%3Atrue%7D%7D)
+# LinguaBotique | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bz43QF83UNLh8KoLAIvQS%22%2C%22flow%22%3Atrue%7D%7D)
 LinguaBotique: Your AI language tutor for French. Personalized lessons, immersive practice, and expert guidance to help you achieve fluency. Start learning today!
 
 # Prompt

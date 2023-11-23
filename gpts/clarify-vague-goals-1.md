@@ -1,6 +1,6 @@
 
-[![Clarify Vague Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# Clarify Vague Goals 
+[![Clarify Vague Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uW_IT-ium3YOIVaUC30P%22%2C%22flow%22%3Atrue%7D%7D)
+# Clarify Vague Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uW_IT-ium3YOIVaUC30P%22%2C%22flow%22%3Atrue%7D%7D)
 Goal Clarification Tool
 
 Do you have a goal that feels too vague? Our tool helps you refine it into a clear, actionable objective. Here's how to use it:

@@ -1,6 +1,6 @@
 
-[![Test your Brain and IQ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Test your Brain and IQ 
+[![Test your Brain and IQ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkEjszFZnK94lUmHDgju-%22%2C%22flow%22%3Atrue%7D%7D)
+# Test your Brain and IQ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkEjszFZnK94lUmHDgju-%22%2C%22flow%22%3Atrue%7D%7D)
 You want to learn how smart you are? Do you want to train your brain? Don't worry. This prompt can help you with assessing your knowledge and enhancing your cognitive abilities. Support me with like, save and comment!
 
 # Prompt

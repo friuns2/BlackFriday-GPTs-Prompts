@@ -1,6 +1,6 @@
 
-[![Email Now GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)]()
-# Email Now GPT 
+[![Email Now GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZ7eMAygEcN9KY9kFkf8b%22%2C%22flow%22%3Atrue%7D%7D)
+# Email Now GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZ7eMAygEcN9KY9kFkf8b%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you to create a email maker from the chatgpt its an powerful prompt that is created by srijan raj and the insta id is rawknee.69 feel free to ask anything
 
 # Prompt

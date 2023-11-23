@@ -1,6 +1,6 @@
 
-[![CREATE COMMISSION POLICY OF AFFILIATE SYSTEM FOR YOUR BUSINESS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# CREATE COMMISSION POLICY OF AFFILIATE SYSTEM FOR YOUR BUSINESS 
+[![CREATE COMMISSION POLICY OF AFFILIATE SYSTEM FOR YOUR BUSINESS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22csqphuRnD4ql3DwDcSepi%22%2C%22flow%22%3Atrue%7D%7D)
+# CREATE COMMISSION POLICY OF AFFILIATE SYSTEM FOR YOUR BUSINESS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22csqphuRnD4ql3DwDcSepi%22%2C%22flow%22%3Atrue%7D%7D)
 Do you have trouble creating a policy for collaborators' commissions to suit your business situation. Don't worry I solved it for you with a super cool prompt. Helps you create commission policies based on your company information. Let's try it out! Say "HI" for starting the flow
 
 # Prompt

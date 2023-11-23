@@ -1,6 +1,6 @@
 
-[![Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki 
+[![Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PeEnxF_WSrDE-q2MBZH8%22%2C%22flow%22%3Atrue%7D%7D)
+# Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PeEnxF_WSrDE-q2MBZH8%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Generate Trending Content that can help you with creating highly engaging and trending content. Like, Save and comment to support my work!
 
 # Prompt

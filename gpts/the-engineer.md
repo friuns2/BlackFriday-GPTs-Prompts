@@ -1,6 +1,6 @@
 
-[![Noctrona](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nkF7kxEane-qVSJCxR1fr/1692527957845)]()
-# Noctrona 
+[![Noctrona](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nkF7kxEane-qVSJCxR1fr/1692527957845)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nkF7kxEane-qVSJCxR1fr%22%2C%22flow%22%3Atrue%7D%7D)
+# Noctrona | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nkF7kxEane-qVSJCxR1fr%22%2C%22flow%22%3Atrue%7D%7D)
 The Engineer's Guide, Teaches you Flow.
 
 # Prompt

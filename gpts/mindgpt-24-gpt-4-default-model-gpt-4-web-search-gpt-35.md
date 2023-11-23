@@ -1,6 +1,6 @@
 
-[![MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)]()
-# MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5) 
+[![MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-UrU299YIPl2RjrgiFUX%22%2C%22flow%22%3Atrue%7D%7D)
+# MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-UrU299YIPl2RjrgiFUX%22%2C%22flow%22%3Atrue%7D%7D)
 MindGPT 2.4 builds a tree of thought on an internal dialog from objective, emotional, subjective, self-, sub- and superconscious perspectives -best performance with GPT-4 or GPT-3.5 (https://chat.openai.com) (the example here does not reflects its full abilities)
 
 # Prompt

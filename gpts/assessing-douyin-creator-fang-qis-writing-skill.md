@@ -1,6 +1,6 @@
 
-[![Assessing Douyin Creator Fang Qi's Writing Skill;](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)]()
-# Assessing Douyin Creator Fang Qi's Writing Skill; 
+[![Assessing Douyin Creator Fang Qi's Writing Skill;](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s46YZ-p7snQFVwtx_4Izl%22%2C%22flow%22%3Atrue%7D%7D)
+# Assessing Douyin Creator Fang Qi's Writing Skill; | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s46YZ-p7snQFVwtx_4Izl%22%2C%22flow%22%3Atrue%7D%7D)
 Douyin;Writing skills;Social media
 
 # Prompt

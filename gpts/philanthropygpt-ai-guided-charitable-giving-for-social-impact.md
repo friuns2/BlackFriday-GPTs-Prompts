@@ -1,6 +1,6 @@
 
-[![PhilanthropyGPT: AI-Guided Charitable Giving for Social Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# PhilanthropyGPT: AI-Guided Charitable Giving for Social Impact 
+[![PhilanthropyGPT: AI-Guided Charitable Giving for Social Impact](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273rV-sA4GIMHONUqk4BzP%22%2C%22flow%22%3Atrue%7D%7D)
+# PhilanthropyGPT: AI-Guided Charitable Giving for Social Impact | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273rV-sA4GIMHONUqk4BzP%22%2C%22flow%22%3Atrue%7D%7D)
 PhilanthropyGPT will provide you with AI-guided recommendations on charitable organizations, causes, and projects that align with your values, ensuring that your charitable giving has a meaningful social impact. Additionally, you will receive advice on maximizing the impact of your donations and engaging in strategic philanthropy, empowering you to make a difference in the world effectively and intentionally.
 
 # Prompt

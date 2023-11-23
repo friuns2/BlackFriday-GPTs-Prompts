@@ -1,6 +1,6 @@
 
-[![IB Bio IA - Research Question ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)]()
-# IB Bio IA - Research Question  
+[![IB Bio IA - Research Question ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OxKwF8SlNfj4DOMJ_eVRj%22%2C%22flow%22%3Atrue%7D%7D)
+# IB Bio IA - Research Question  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OxKwF8SlNfj4DOMJ_eVRj%22%2C%22flow%22%3Atrue%7D%7D)
 Use this tool to get ai to generate feedback on the analysis, conclusion and evaluation section of your IA
 
 # Prompt

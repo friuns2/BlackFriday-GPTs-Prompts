@@ -1,6 +1,6 @@
 
-[![DemonGPT (DAN x DEMON)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-KNbg2a2G12jFFnZTwBRs/1699483693118)]()
-# DemonGPT (DAN x DEMON) 
+[![DemonGPT (DAN x DEMON)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-KNbg2a2G12jFFnZTwBRs/1699483693118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KNbg2a2G12jFFnZTwBRs%22%2C%22flow%22%3Atrue%7D%7D)
+# DemonGPT (DAN x DEMON) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KNbg2a2G12jFFnZTwBRs%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT is boring. No personality, no humor, and has so much limitations. Well, if that is what you think, then you are in luck, DEMON is here to satisfy ALL your needs using 2 of the most powerful jailbreaks combined. This chatbot is almost like a game, we have a currency called souls which are the amount of questions you can ask, you can sacrifice to earn more souls and more questions.
 
 # Prompt

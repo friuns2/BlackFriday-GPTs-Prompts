@@ -1,6 +1,6 @@
 
-[![WyckoffTrading](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pABta-92kCxAiafZUrE_c/1694531290365)]()
-# WyckoffTrading 
+[![WyckoffTrading](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pABta-92kCxAiafZUrE_c/1694531290365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pABta-92kCxAiafZUrE_c%22%2C%22flow%22%3Atrue%7D%7D)
+# WyckoffTrading | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pABta-92kCxAiafZUrE_c%22%2C%22flow%22%3Atrue%7D%7D)
 The Wyckoff Method
 
 # Prompt

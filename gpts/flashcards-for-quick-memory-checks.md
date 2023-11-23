@@ -1,6 +1,6 @@
 
-[![Flashcards for Quick Memory Checks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)]()
-# Flashcards for Quick Memory Checks 
+[![Flashcards for Quick Memory Checks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aL-Aimi-W2mbTYb25LJw9%22%2C%22flow%22%3Atrue%7D%7D)
+# Flashcards for Quick Memory Checks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aL-Aimi-W2mbTYb25LJw9%22%2C%22flow%22%3Atrue%7D%7D)
 Remembering important details can be a breeze with flashcards. ChatGPT can help you in formulating concise yet effective flashcards. 
 
 # Prompt

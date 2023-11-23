@@ -1,6 +1,6 @@
 
-[![Explaining Immigration Legislation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)]()
-# Explaining Immigration Legislation 
+[![Explaining Immigration Legislation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_JZL47w2bEt6ECEcK3bUo%22%2C%22flow%22%3Atrue%7D%7D)
+# Explaining Immigration Legislation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_JZL47w2bEt6ECEcK3bUo%22%2C%22flow%22%3Atrue%7D%7D)
 Immigration laws and regulations can be complex and constantly evolving. This prompt will explain the latest legislation and how it may impact your immigration plans. 
 
 

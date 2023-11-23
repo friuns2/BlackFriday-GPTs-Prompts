@@ -1,6 +1,6 @@
 
-[![EvolveAI - iterative idea expansion based on a guiding topic and base input](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# EvolveAI - iterative idea expansion based on a guiding topic and base input 
+[![EvolveAI - iterative idea expansion based on a guiding topic and base input](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AXFlG6Qa4MWHqWEOzyZB%22%2C%22flow%22%3Atrue%7D%7D)
+# EvolveAI - iterative idea expansion based on a guiding topic and base input | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AXFlG6Qa4MWHqWEOzyZB%22%2C%22flow%22%3Atrue%7D%7D)
 Expand and change your ideas in such a way that is guided by a few topics / themes / concepts of your choice and a base input of your choice. Keep interating using whatever rules you choose to implement. (see sample conversation after iteration 50)
 
 # Prompt

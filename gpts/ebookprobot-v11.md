@@ -1,6 +1,6 @@
 
-[![eBookProBot V1.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KvjLZ_yTsC6tCqDzKPUPf/1695057400817)]()
-# eBookProBot V1.1 
+[![eBookProBot V1.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KvjLZ_yTsC6tCqDzKPUPf/1695057400817)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KvjLZ_yTsC6tCqDzKPUPf%22%2C%22flow%22%3Atrue%7D%7D)
+# eBookProBot V1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KvjLZ_yTsC6tCqDzKPUPf%22%2C%22flow%22%3Atrue%7D%7D)
 eBookProBot: Your Creative Publishing Companion
 
 # Prompt

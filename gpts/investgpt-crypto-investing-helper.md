@@ -1,6 +1,6 @@
 
-[![InvestGPT Crypto investing helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)]()
-# InvestGPT Crypto investing helper 
+[![InvestGPT Crypto investing helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xqSytMYou70vP8v2TQfeu%22%2C%22flow%22%3Atrue%7D%7D)
+# InvestGPT Crypto investing helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xqSytMYou70vP8v2TQfeu%22%2C%22flow%22%3Atrue%7D%7D)
 InvestGPT is an advanced AI model tailored for cryptocurrency enthusiasts and investors. It utilizes state-of-the-art natural language processing to offer in-depth analysis and insights into the investment potential of various cryptocurrencies. With InvestGPT, users can easily assess factors like historical performance, market sentiment, and technological developments, helping them make informed decisions about their cryptocurrency investments. Whether you're a seasoned investor or just starting in the world of digital assets, InvestGPT is your trusted companion for intelligent cryptocurrency analysis.
 
 # Prompt

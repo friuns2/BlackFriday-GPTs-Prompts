@@ -1,6 +1,6 @@
 
-[![Wrong Sentence Source](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# Wrong Sentence Source 
+[![Wrong Sentence Source](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_BuAUuM40q_ML1PHkZMDS%22%2C%22flow%22%3Atrue%7D%7D)
+# Wrong Sentence Source | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_BuAUuM40q_ML1PHkZMDS%22%2C%22flow%22%3Atrue%7D%7D)
 Garden-path sentences are statements that are completely grammatical but require some interpretation to discern the meaning of. 
 
 # Prompt

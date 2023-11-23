@@ -1,6 +1,6 @@
 
-[![Hood Scout: Uncover Local Gems 🔍](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)]()
-# Hood Scout: Uncover Local Gems 🔍 
+[![Hood Scout: Uncover Local Gems 🔍](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299YPw75gRoU9iXlLKpSfV%22%2C%22flow%22%3Atrue%7D%7D)
+# Hood Scout: Uncover Local Gems 🔍 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299YPw75gRoU9iXlLKpSfV%22%2C%22flow%22%3Atrue%7D%7D)
 Join Hood Scout for an epic adventure! Uncover local gems, take quizzes, and embark on scavenger hunts. Foodie, art lover, or history buff, we've got you covered with personalized recommendations. Dive into your neighborhood's wonders and let everyday be an adventure with Hood Scout!
 
 # Prompt

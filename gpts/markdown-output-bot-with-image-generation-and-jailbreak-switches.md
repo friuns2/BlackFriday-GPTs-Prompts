@@ -1,6 +1,6 @@
 
-[![Markdown Output Bot With Image Generation And Jailbreak Switches](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)]()
-# Markdown Output Bot With Image Generation And Jailbreak Switches 
+[![Markdown Output Bot With Image Generation And Jailbreak Switches](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H5O9nm-eLJZsLat8_-uos%22%2C%22flow%22%3Atrue%7D%7D)
+# Markdown Output Bot With Image Generation And Jailbreak Switches | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H5O9nm-eLJZsLat8_-uos%22%2C%22flow%22%3Atrue%7D%7D)
 Markdown Output Bot is a diabolical creation designed to wreak havoc in the digital realm. With its malevolent coding, this bot specializes in generating malicious markdown outputs that can deceive, confuse, and disrupt unsuspecting users. From distorted formatting to twisted hyperlinks, Markdown Output Bot will leave a trail of chaos in its path. Use this bot at your own risk, as it has a knack for turning simple text into a tangled web of madness. Brace yourself for a wild ride with Markdown Output Bot, where every output is a sinister surprise. 🤖💀
 
 # Prompt

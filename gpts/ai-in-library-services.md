@@ -1,6 +1,6 @@
 
-[![AI in library services](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# AI in library services 
+[![AI in library services](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KNChTE5SqBOVgYt2R72Nj%22%2C%22flow%22%3Atrue%7D%7D)
+# AI in library services | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KNChTE5SqBOVgYt2R72Nj%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt to provide information about improving library services
 
 # Prompt

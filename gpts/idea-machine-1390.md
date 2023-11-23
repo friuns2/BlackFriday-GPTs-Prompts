@@ -1,6 +1,6 @@
 
-[![Idea Machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# Idea Machine 
+[![Idea Machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIez4CN0v8a3JHdPVJepL%22%2C%22flow%22%3Atrue%7D%7D)
+# Idea Machine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mIez4CN0v8a3JHdPVJepL%22%2C%22flow%22%3Atrue%7D%7D)
 Idea Machine
 
 # Prompt

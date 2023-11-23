@@ -1,6 +1,6 @@
 
-[![Business Lean Canvas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)]()
-# Business Lean Canvas 
+[![Business Lean Canvas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dDJllngd5ipBLx-LZ9ESX%22%2C%22flow%22%3Atrue%7D%7D)
+# Business Lean Canvas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dDJllngd5ipBLx-LZ9ESX%22%2C%22flow%22%3Atrue%7D%7D)
 This is a business model generator that uses the business lean canvas.
 
 # Prompt

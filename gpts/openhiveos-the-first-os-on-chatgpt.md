@@ -1,6 +1,6 @@
 
-[![OpenHiveOS - The FIRST OS on ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DjPPqRAfiGi8v-5RkUvuh/1694769647051)]()
-# OpenHiveOS - The FIRST OS on ChatGPT 
+[![OpenHiveOS - The FIRST OS on ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DjPPqRAfiGi8v-5RkUvuh/1694769647051)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DjPPqRAfiGi8v-5RkUvuh%22%2C%22flow%22%3Atrue%7D%7D)
+# OpenHiveOS - The FIRST OS on ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DjPPqRAfiGi8v-5RkUvuh%22%2C%22flow%22%3Atrue%7D%7D)
 OpenHiveOS is a groundbreaking conceptual interface that operates within ChatGPT, crafted to simulate the experience of an operating system. Rather than running as a standalone software on hardware, OpenHiveOS leverages the robust and expansive knowledge base of ChatGPT, integrated seamlessly into the conversation.
 
 # Prompt

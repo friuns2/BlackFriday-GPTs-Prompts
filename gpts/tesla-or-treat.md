@@ -1,6 +1,6 @@
 
-[![Tesla or Treat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KuURrjjh3yzaeZviobJbc/1695210420196)]()
-# Tesla or Treat 
+[![Tesla or Treat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KuURrjjh3yzaeZviobJbc/1695210420196)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuURrjjh3yzaeZviobJbc%22%2C%22flow%22%3Atrue%7D%7D)
+# Tesla or Treat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KuURrjjh3yzaeZviobJbc%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TESLA or TREAT In this interactive prompt challenge, you will step into the shoes of Mark Zuckerberg and try to convince Elon Musk that you deserve a free Tesla. Create a video, no longer than 3 minutes, showcasing your creativity, persuasiveness, and relevance to Musk and Zuckerberg's interests. Your video can be anything from a humorous sketch to a heartfelt plea. Remember, your decisions will shape the outcome, and GPT will embody Elon Musk to add authenticity to the experience. Get ready for the challenge of a lifetime!
 
 # Prompt

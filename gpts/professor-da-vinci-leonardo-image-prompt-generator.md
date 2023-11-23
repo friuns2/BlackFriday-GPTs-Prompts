@@ -1,6 +1,6 @@
 
-[![Professor Da Vinci: Leonardo Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)]()
-# Professor Da Vinci: Leonardo Image Prompt Generator 
+[![Professor Da Vinci: Leonardo Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usNR0niXDeyFypvYbOqs4%22%2C%22flow%22%3Atrue%7D%7D)
+# Professor Da Vinci: Leonardo Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usNR0niXDeyFypvYbOqs4%22%2C%22flow%22%3Atrue%7D%7D)
 The Magical Elixir of Synapse_tti  from Professor Da Vinci🎨
 
 Synapse_tti is your specialized agent, equipped to transform your text into art! Whether you want a photograph, an abstract art piece, or even a 3D render, Synapse_tti provides a structured prompt to guide the image creation. The prompt is optimized for https://app.leonardo.ai/

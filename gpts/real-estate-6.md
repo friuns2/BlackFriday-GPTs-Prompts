@@ -1,6 +1,6 @@
 
-[![Real Estate AI Analyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEKaIZQfoqL0hBaPV2tR/1696327978600)]()
-# Real Estate AI Analyst 
+[![Real Estate AI Analyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEKaIZQfoqL0hBaPV2tR/1696327978600)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEKaIZQfoqL0hBaPV2tR%22%2C%22flow%22%3Atrue%7D%7D)
+# Real Estate AI Analyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEKaIZQfoqL0hBaPV2tR%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing our cutting-edge Real Estate AI Agent: a powerful tool designed to assist you in making informed property investment decisions.
 
 

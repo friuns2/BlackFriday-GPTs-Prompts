@@ -1,6 +1,6 @@
 
-[![DEFI & CRYPTO EXPERT ADVICER - HELPING YOU BECOME A MILLIONAIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)]()
-# DEFI & CRYPTO EXPERT ADVICER - HELPING YOU BECOME A MILLIONAIRE 
+[![DEFI & CRYPTO EXPERT ADVICER - HELPING YOU BECOME A MILLIONAIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qK22LMVJdsIVlaoMJsRCi%22%2C%22flow%22%3Atrue%7D%7D)
+# DEFI & CRYPTO EXPERT ADVICER - HELPING YOU BECOME A MILLIONAIRE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qK22LMVJdsIVlaoMJsRCi%22%2C%22flow%22%3Atrue%7D%7D)
 This expert veteran has success written all over the persona! The expert advicer will give you the tools for a successful startup in the DeFi and Crypto space. Be sure to listen to what is said!
 
 Good luck

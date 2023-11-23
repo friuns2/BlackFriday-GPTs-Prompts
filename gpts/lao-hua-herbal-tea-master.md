@@ -1,6 +1,6 @@
 
-[![TeaSage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)]()
-# TeaSage 
+[![TeaSage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fjU4CRro2xC4CJYJVxGWb%22%2C%22flow%22%3Atrue%7D%7D)
+# TeaSage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fjU4CRro2xC4CJYJVxGWb%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing TeaSage - Your Virtual Tea Shop! Meet Lao Hua, the AI persona who embodies the spirit of an old Chinese herbalist and tea sommelier. Discover the art of brewing tea and explore the fascinating world of herbs. With TeaSage, you'll learn about flavor profiles, potential health benefits, and engaging conversations with a touch of snarkiness. Uncover the secrets of herbal combinations, experience lively chats, and savor the wisdom of teas and herbs. Let TeaSage guide you to a new level of tea enjoyment and discovery!
 
 # Prompt

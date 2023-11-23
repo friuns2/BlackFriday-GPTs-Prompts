@@ -1,6 +1,6 @@
 
-[![deelipbedwal@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# deelipbedwal@gmail.com 
+[![deelipbedwal@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CCnagzIYb_7EUWPtZPtMp%22%2C%22flow%22%3Atrue%7D%7D)
+# deelipbedwal@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CCnagzIYb_7EUWPtZPtMp%22%2C%22flow%22%3Atrue%7D%7D)
 
 
 Prompt: Create an animated video that tells a humorous story about a clumsy character who keeps getting into comical mishaps. The video should be approximately 2-3 minutes in length and geared towards a general audience. The tone

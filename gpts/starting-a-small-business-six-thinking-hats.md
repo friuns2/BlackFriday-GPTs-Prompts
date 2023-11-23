@@ -1,6 +1,6 @@
 
-[![BizThink: Six Thinking Hats](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)]()
-# BizThink: Six Thinking Hats 
+[![BizThink: Six Thinking Hats](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Om6GMu1gVq4KO6sYu2rH%22%2C%22flow%22%3Atrue%7D%7D)
+# BizThink: Six Thinking Hats | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Om6GMu1gVq4KO6sYu2rH%22%2C%22flow%22%3Atrue%7D%7D)
 BizThink is an innovative app that uses Edward de Bono's Six Thinking Hats to guide aspiring entrepreneurs in planning their small business. With BizThink, you'll know exactly what critical pieces of information to gather with the White Hat, assess your emotional response with the Red Hat, identify potential problems and risks with the Black Hat, explore the potential benefits and opportunities with the Yellow Hat, boost your creativity with the Green Hat, and effectively structure your business plan with the Blue Hat. Start your entrepreneurial journey now with BizThink!
 
 # Prompt

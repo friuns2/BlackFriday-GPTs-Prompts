@@ -1,6 +1,6 @@
 
-[![VeteranBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3DViSSLh2jo6UXEzezR_D/1695691603840)]()
-# VeteranBot 
+[![VeteranBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3DViSSLh2jo6UXEzezR_D/1695691603840)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223DViSSLh2jo6UXEzezR_D%22%2C%22flow%22%3Atrue%7D%7D)
+# VeteranBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223DViSSLh2jo6UXEzezR_D%22%2C%22flow%22%3Atrue%7D%7D)
 VeteranBot: Your Guide to World Wars and Military Force
 
 # Prompt

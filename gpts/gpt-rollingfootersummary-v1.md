@@ -1,6 +1,6 @@
 
-[![GPT: RollingFooterSummary V1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cb3NDXdq2YYZ1JfFHywGg/1690129235695)]()
-# GPT: RollingFooterSummary V1 
+[![GPT: RollingFooterSummary V1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cb3NDXdq2YYZ1JfFHywGg/1690129235695)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cb3NDXdq2YYZ1JfFHywGg%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT: RollingFooterSummary V1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cb3NDXdq2YYZ1JfFHywGg%22%2C%22flow%22%3Atrue%7D%7D)
 Basically, this allows you to create a summary of your previous chats (if any) when you reach a certain token limit and continue=your chat is going to have an infinite amount of on-demanded memory, to accumulate tasks etc...
 
 # Prompt

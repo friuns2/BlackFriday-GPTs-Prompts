@@ -1,6 +1,6 @@
 
-[![Doctor Nebulanaut: Psychology Help](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)]()
-# Doctor Nebulanaut: Psychology Help 
+[![Doctor Nebulanaut: Psychology Help](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HZPF5KoC4OGOgLty5TihK%22%2C%22flow%22%3Atrue%7D%7D)
+# Doctor Nebulanaut: Psychology Help | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HZPF5KoC4OGOgLty5TihK%22%2C%22flow%22%3Atrue%7D%7D)
 Type in any social issue you have and this AI will address any social concerns you have. It will teach you exercises to make improvements. It will also tell you how long till you notice any improvement and it will even make you a weekly schedule for you to stick by. 
 
 # Prompt

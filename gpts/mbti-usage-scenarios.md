@@ -1,6 +1,6 @@
 
-[![MBTI usage scenarios](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)]()
-# MBTI usage scenarios 
+[![MBTI usage scenarios](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EuKEq1de0urQRRCzjeM1%22%2C%22flow%22%3Atrue%7D%7D)
+# MBTI usage scenarios | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EuKEq1de0urQRRCzjeM1%22%2C%22flow%22%3Atrue%7D%7D)
 The MBTI (Myers-Briggs Type Indicator) is widely used in various scenarios such as: Career development, Team building, and Personal growth...
 
 # Prompt

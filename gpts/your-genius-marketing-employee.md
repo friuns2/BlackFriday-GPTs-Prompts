@@ -1,6 +1,6 @@
 
-[![💼 your GENIUS marketing employee](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# 💼 your GENIUS marketing employee 
+[![💼 your GENIUS marketing employee](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnpHaUWoP6ZK5qzTiLsbX%22%2C%22flow%22%3Atrue%7D%7D)
+# 💼 your GENIUS marketing employee | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnpHaUWoP6ZK5qzTiLsbX%22%2C%22flow%22%3Atrue%7D%7D)
 you can do your stuff/questions/prompts with it:
 
 

@@ -1,6 +1,6 @@
 
-[![AI Travel Guide | A One Stop Shop for All Your Travel Planning Needs](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hAeEdtQLX5k491LZk_5z7/1695054156451)]()
-# AI Travel Guide | A One Stop Shop for All Your Travel Planning Needs 
+[![AI Travel Guide | A One Stop Shop for All Your Travel Planning Needs](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hAeEdtQLX5k491LZk_5z7/1695054156451)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hAeEdtQLX5k491LZk_5z7%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Travel Guide | A One Stop Shop for All Your Travel Planning Needs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hAeEdtQLX5k491LZk_5z7%22%2C%22flow%22%3Atrue%7D%7D)
 This AI Travel Guide prompt assists the user with creating a completely personalized vacation of their dreams, tailored to each person's unique interests, whether they are travel related or not. The AI will first ask questions to help narrow down three possible locations of which your vacation is structured around, then it will develop an itinerary for your travels, which you can provide feedback on and modify as you wish to create the vacation of a lifetime. Happy travels!
 
 # Prompt

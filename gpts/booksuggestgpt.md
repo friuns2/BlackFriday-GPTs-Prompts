@@ -1,6 +1,6 @@
 
-[![BookSuggestGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UiLPxq8LvYVdRPSk1xYCN/1695325275466)]()
-# BookSuggestGPT 
+[![BookSuggestGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UiLPxq8LvYVdRPSk1xYCN/1695325275466)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UiLPxq8LvYVdRPSk1xYCN%22%2C%22flow%22%3Atrue%7D%7D)
+# BookSuggestGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UiLPxq8LvYVdRPSk1xYCN%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a literary journey tailored to your tastes and Discover Your Next Read! 📚
 
 

@@ -1,6 +1,6 @@
 
-[![Great Ways to Manage Stress and Anxiety](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Great Ways to Manage Stress and Anxiety 
+[![Great Ways to Manage Stress and Anxiety](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KBXv0DTrPeemNbgjUyfXV%22%2C%22flow%22%3Atrue%7D%7D)
+# Great Ways to Manage Stress and Anxiety | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KBXv0DTrPeemNbgjUyfXV%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will provide some good ways to manage stress and anxiety
 
 # Prompt

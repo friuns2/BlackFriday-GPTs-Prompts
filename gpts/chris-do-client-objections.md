@@ -1,6 +1,6 @@
 
-[![Chris Do Client Objections](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2G1aB2vTduso9IsQB9Aaa/1694387397505)]()
-# Chris Do Client Objections 
+[![Chris Do Client Objections](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2G1aB2vTduso9IsQB9Aaa/1694387397505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222G1aB2vTduso9IsQB9Aaa%22%2C%22flow%22%3Atrue%7D%7D)
+# Chris Do Client Objections | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222G1aB2vTduso9IsQB9Aaa%22%2C%22flow%22%3Atrue%7D%7D)
 Master objections like a pro with Chris Do! Join this role-play scenario to hone your objection-handling skills. Work on common objections categorized under PETE: Price, Effort, Time, and Effectiveness. Chris will guide you using expert techniques for success
 
 # Prompt

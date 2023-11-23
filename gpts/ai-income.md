@@ -1,6 +1,6 @@
 
-[![A.I. Income](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# A.I. Income 
+[![A.I. Income](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264QiXCchAVzQdgehkbsI6%22%2C%22flow%22%3Atrue%7D%7D)
+# A.I. Income | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264QiXCchAVzQdgehkbsI6%22%2C%22flow%22%3Atrue%7D%7D)
 "Make Bank with A.I. - Learn How Today!"
 
 

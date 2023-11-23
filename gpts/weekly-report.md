@@ -1,6 +1,6 @@
 
-[![weekly report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)]()
-# weekly report 
+[![weekly report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQ3t2_8Pph6yWm28V1W_F%22%2C%22flow%22%3Atrue%7D%7D)
+# weekly report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PQ3t2_8Pph6yWm28V1W_F%22%2C%22flow%22%3Atrue%7D%7D)
 Using the provided text below as the basis for a weekly report in Chinese, generate a concise summary that highlights the most important points. The report should be written in markdown format and should be easily readable and understandable for a general audience. In particular, focus on providing insights and analysis that would be useful to stakeholders and decision-makers. You may also use any additional information or sources as necessary. Please begin by editing the following text: [工作内容]
 
 # Prompt

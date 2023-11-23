@@ -1,6 +1,6 @@
 
-[![ASK AI Astrologer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)]()
-# ASK AI Astrologer 
+[![ASK AI Astrologer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ov6Q5nNv_9PCgIE6p_MPQ%22%2C%22flow%22%3Atrue%7D%7D)
+# ASK AI Astrologer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ov6Q5nNv_9PCgIE6p_MPQ%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to our AI horoscope tool! With just a few pieces of information, you can unlock the secrets of your future and make smart decisions in life. Our tool uses advanced algorithms to provide approximate predictions and answers to your life-related queries, concerns, and questions. Try it out today and see what the future holds for you!
 
 # Prompt

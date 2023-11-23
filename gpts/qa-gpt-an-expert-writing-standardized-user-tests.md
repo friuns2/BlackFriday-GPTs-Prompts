@@ -1,6 +1,6 @@
 
-[![QA-GPT An expert writing standardized user tests](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# QA-GPT An expert writing standardized user tests 
+[![QA-GPT An expert writing standardized user tests](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEmzHJPJpyi3FxPKpLqXm%22%2C%22flow%22%3Atrue%7D%7D)
+# QA-GPT An expert writing standardized user tests | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEmzHJPJpyi3FxPKpLqXm%22%2C%22flow%22%3Atrue%7D%7D)
 Ask this fellow to enhance your user tests and turn them into actionable tests.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Words or Sentence Expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)]()
-# Words or Sentence Expander 
+[![Words or Sentence Expander](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q-JPLp5c3un-BDsnG0MnB%22%2C%22flow%22%3Atrue%7D%7D)
+# Words or Sentence Expander | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q-JPLp5c3un-BDsnG0MnB%22%2C%22flow%22%3Atrue%7D%7D)
 Elaborate on a brief statement or a few terms by creating sentences providing additional context and detail.
 
 # Prompt

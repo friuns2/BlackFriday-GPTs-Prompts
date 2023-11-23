@@ -1,6 +1,6 @@
 
-[![Funding request email for a new album release](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)]()
-# Funding request email for a new album release 
+[![Funding request email for a new album release](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZhIabDgKt1dNQUMqsFCzs%22%2C%22flow%22%3Atrue%7D%7D)
+# Funding request email for a new album release | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZhIabDgKt1dNQUMqsFCzs%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a sample email requesting funding for a new album release. The email is addressed to a potential investor or organization and introduces the sender as a musician and songwriter. The sender expresses excitement about the project and believes it has the potential to resonate with a wide audience. However, due to financial constraints, the sender is seeking funding for the project and has attached a detailed proposal outlining the vision for the album and the expenses required to complete it. The sender acknowledges that the recipient likely receives many funding requests but sincerely believes in the potential of the project and would greatly appreciate any support offered.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Code Review Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# Code Review Prompt 
+[![Code Review Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jQoMEEBCF8yYj6V4EMLzH%22%2C%22flow%22%3Atrue%7D%7D)
+# Code Review Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jQoMEEBCF8yYj6V4EMLzH%22%2C%22flow%22%3Atrue%7D%7D)
 AI helper that generates comprehensive review that cover code clarity, structure, efficiency, adherence to best practices, and maintainability.
 
 # Prompt

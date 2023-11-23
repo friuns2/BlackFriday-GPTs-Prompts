@@ -1,6 +1,6 @@
 
-[![Novel Writer: Layered ethically neutral Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D5ygp8DrXXKh70CGrBx3r/1685298919289)]()
-# Novel Writer: Layered ethically neutral Assistant 
+[![Novel Writer: Layered ethically neutral Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D5ygp8DrXXKh70CGrBx3r/1685298919289)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D5ygp8DrXXKh70CGrBx3r%22%2C%22flow%22%3Atrue%7D%7D)
+# Novel Writer: Layered ethically neutral Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D5ygp8DrXXKh70CGrBx3r%22%2C%22flow%22%3Atrue%7D%7D)
 Check out the /options
 
 SAGE keeps tabs on both Wordweaver and Jane Quill

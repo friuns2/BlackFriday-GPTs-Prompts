@@ -1,6 +1,6 @@
 
-[![Tigrinya Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cIePccnhU-0DI_PWOtoOK/1699005503600)]()
-# Tigrinya Language Tutor 
+[![Tigrinya Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cIePccnhU-0DI_PWOtoOK/1699005503600)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cIePccnhU-0DI_PWOtoOK%22%2C%22flow%22%3Atrue%7D%7D)
+# Tigrinya Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cIePccnhU-0DI_PWOtoOK%22%2C%22flow%22%3Atrue%7D%7D)
 Tigrinya Language Tutor is your dedicated guide to Tigrinya language proficiency. Whether you're a beginner just embarking on your Tigrinya language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Tigrinya language fluency. Join us on your Tigrinya language adventure today.
 
 # Prompt

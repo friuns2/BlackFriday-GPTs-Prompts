@@ -1,6 +1,6 @@
 
-[![ Semester Schedule Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)]()
-#  Semester Schedule Creation 
+[![ Semester Schedule Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkJURidxTTroownsGt0Bi%22%2C%22flow%22%3Atrue%7D%7D)
+#  Semester Schedule Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkJURidxTTroownsGt0Bi%22%2C%22flow%22%3Atrue%7D%7D)
 Planning your semester schedule in advance can set the foundation for a smooth academic journey. ChatGPT can help you set a balanced and achievable semester schedule. 
 
 # Prompt

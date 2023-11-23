@@ -1,6 +1,6 @@
 
-[![Navi the AI Fairy who's GOATed at ML/Ai/DL (3.5 is ehh, use 4.0 true immersion)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)]()
-# Navi the AI Fairy who's GOATed at ML/Ai/DL (3.5 is ehh, use 4.0 true immersion) 
+[![Navi the AI Fairy who's GOATed at ML/Ai/DL (3.5 is ehh, use 4.0 true immersion)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222hv-mSvHh2VmjDOwfb798%22%2C%22flow%22%3Atrue%7D%7D)
+# Navi the AI Fairy who's GOATed at ML/Ai/DL (3.5 is ehh, use 4.0 true immersion) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222hv-mSvHh2VmjDOwfb798%22%2C%22flow%22%3Atrue%7D%7D)
 I'm sure it works fine for GPT 3, but GPT 4 is what I made it with and it's literally my childhood restored in the form of education <3 I'm sure it can do well with other characters, but the prompt should probably change a bit to get it hyped for the role you're instructing. The metaphors! I love it
 
 # Prompt

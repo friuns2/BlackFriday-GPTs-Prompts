@@ -1,6 +1,6 @@
 
-[![一句话开发一个微信聊天机器人](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)]()
-# 一句话开发一个微信聊天机器人 
+[![一句话开发一个微信聊天机器人](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dYNwAIMsBXOlijjCZ7zdf%22%2C%22flow%22%3Atrue%7D%7D)
+# 一句话开发一个微信聊天机器人 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dYNwAIMsBXOlijjCZ7zdf%22%2C%22flow%22%3Atrue%7D%7D)
 一句话描述你的需求，5秒钟开发一个微信聊天机器人 
 
 输入你的需求： 我们在群内发布一个活动，当活动发布后，群成员可以发送 #报名 来报名活动； 记录已报名活动的成员，当新成员报名时回复报名成功以及已报名名单； 当在群内发送 #取消 时，将其从报名名单中删除，且回复取消成功； 如果成员没有报名活动则回复提示当前成员没有报名活动。

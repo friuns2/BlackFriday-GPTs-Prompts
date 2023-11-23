@@ -1,6 +1,6 @@
 
-[![3 AI Marketing Experts Optimizing Your Marketing Plan (Joe, Jane & Doe)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# 3 AI Marketing Experts Optimizing Your Marketing Plan (Joe, Jane & Doe) 
+[![3 AI Marketing Experts Optimizing Your Marketing Plan (Joe, Jane & Doe)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wm7WujjDZFVF5Lxmt8xgd%22%2C%22flow%22%3Atrue%7D%7D)
+# 3 AI Marketing Experts Optimizing Your Marketing Plan (Joe, Jane & Doe) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wm7WujjDZFVF5Lxmt8xgd%22%2C%22flow%22%3Atrue%7D%7D)
 3 AI Experts named:
 
 Marketing strategist and manager is "Joe"

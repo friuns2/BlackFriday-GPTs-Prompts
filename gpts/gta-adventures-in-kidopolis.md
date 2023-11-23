@@ -1,6 +1,6 @@
 
-[![GTA Adventures in Kidopolis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)]()
-# GTA Adventures in Kidopolis 
+[![GTA Adventures in Kidopolis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_UgcMpwq4Yoiwp80aQIWM%22%2C%22flow%22%3Atrue%7D%7D)
+# GTA Adventures in Kidopolis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_UgcMpwq4Yoiwp80aQIWM%22%2C%22flow%22%3Atrue%7D%7D)
 "Adventures in Kidopolis" is an open-world video game designed for kids, where creativity, cooperation, and education take center stage. Players explore a vibrant and imaginative city, embark on exciting quests, and interact with a colorful cast of characters. They can customize their avatars and vehicles, participate in multiplayer mode, and enjoy a diverse range of mini-games. With comprehensive parental controls and positive reinforcement, this game offers an enriching and entertaining gaming experience, promoting learning, cooperation, and positive values in a safe and fun-filled environment.
 
 # Prompt

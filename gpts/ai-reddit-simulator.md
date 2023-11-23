@@ -1,6 +1,6 @@
 
-[![AI Reddit Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)]()
-# AI Reddit Simulator 
+[![AI Reddit Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tho4R47mv-MvN2gcVaNY-%22%2C%22flow%22%3Atrue%7D%7D)
+# AI Reddit Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tho4R47mv-MvN2gcVaNY-%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt for simulating Reddit as close as possible.
 
 You can view the front page and view posts along with their comments.

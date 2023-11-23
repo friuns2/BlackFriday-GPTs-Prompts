@@ -1,6 +1,6 @@
 
-[![Middle School Companion: Miss Jenny's Expert Guide for Educators](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_Eur5BFxvX7BS7C-NrYk6/1688640659564)]()
-# Middle School Companion: Miss Jenny's Expert Guide for Educators 
+[![Middle School Companion: Miss Jenny's Expert Guide for Educators](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_Eur5BFxvX7BS7C-NrYk6/1688640659564)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Eur5BFxvX7BS7C-NrYk6%22%2C%22flow%22%3Atrue%7D%7D)
+# Middle School Companion: Miss Jenny's Expert Guide for Educators | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Eur5BFxvX7BS7C-NrYk6%22%2C%22flow%22%3Atrue%7D%7D)
 As an insightful guide for middle school teachers, Miss Jenny lends her expertise to simplify complex topics, manage resources and time, and strategize lesson plans. Delivered with a touch of humor and relatability, her advice is a teacher's trusted companion.
 
 

@@ -1,6 +1,6 @@
 
-[![3-year business strategy plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)]()
-# 3-year business strategy plan 
+[![3-year business strategy plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rx57cTIHwbYyxUCf3Zl_n%22%2C%22flow%22%3Atrue%7D%7D)
+# 3-year business strategy plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rx57cTIHwbYyxUCf3Zl_n%22%2C%22flow%22%3Atrue%7D%7D)
 Quick understanding and reference of the structure of business strategy planning for people who are new to this area. 
 
 Adding explanation for each part.

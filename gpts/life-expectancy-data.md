@@ -1,6 +1,6 @@
 
-[![Life Expectancy Data](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yPAyoUiHPnAIb5WgT_OpL/1692856704546)]()
-# Life Expectancy Data 
+[![Life Expectancy Data](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yPAyoUiHPnAIb5WgT_OpL/1692856704546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPAyoUiHPnAIb5WgT_OpL%22%2C%22flow%22%3Atrue%7D%7D)
+# Life Expectancy Data | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPAyoUiHPnAIb5WgT_OpL%22%2C%22flow%22%3Atrue%7D%7D)
 When we examine the world average age of death, we observe significant variations between different countries and regions. Developed nations tend to have higher life expectancies compared to developing countries. Let's take a closer look at a specific comparison between Cuba and the United States to understand this trend further.
 
 

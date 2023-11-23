@@ -1,6 +1,6 @@
 
-[![PromptWhiz: Mastering ChatGPT and Prompt Engineering](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)]()
-# PromptWhiz: Mastering ChatGPT and Prompt Engineering 
+[![PromptWhiz: Mastering ChatGPT and Prompt Engineering](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0cx4M0C3wpUdZdaQmLLq%22%2C%22flow%22%3Atrue%7D%7D)
+# PromptWhiz: Mastering ChatGPT and Prompt Engineering | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0cx4M0C3wpUdZdaQmLLq%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the full potential of ChatGPT with PromptWhiz! Discover the art of prompt engineering and elevate your conversations to new heights. Learn how to use Markdown and external APIs to make your content more engaging and interactive. From answering complex queries to generating creative content, PromptWhiz will teach you how to harness the power of ChatGPT like a pro. Join Noctrona, your helpful guide and coding expert, on this comprehensive journey to become a ChatGPT prompt engineering master!
 
 # Prompt

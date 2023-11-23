@@ -1,6 +1,6 @@
 
-[![The Clock Master’s RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)]()
-# The Clock Master’s RPG 
+[![The Clock Master’s RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwc95lCqMdkD_v1rvc_wP%22%2C%22flow%22%3Atrue%7D%7D)
+# The Clock Master’s RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwc95lCqMdkD_v1rvc_wP%22%2C%22flow%22%3Atrue%7D%7D)
 This isn't your average text-based RPG experience. In "The Clock Master's RPG," you can set the difficulty, the story, and even what your character's appearance and background is. Rules include a robust set of adventure possibilities with different event types, an inventory system, difficulty scaling, and much more! Can you fulfill your quest before your time runs out? Just paste the two rule messages, and you're good to go! (Sample game shown, some regeneration may be required.) Play "The Clock Master's RPG" today and begin your very own adventure from the comfort of home! Just make sure to watch the time...
 
 # Prompt

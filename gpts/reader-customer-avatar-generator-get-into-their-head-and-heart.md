@@ -1,6 +1,6 @@
 
-[![Reader (Customer) Avatar Generator - Get Into Their Head and Heart ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)]()
-# Reader (Customer) Avatar Generator - Get Into Their Head and Heart  
+[![Reader (Customer) Avatar Generator - Get Into Their Head and Heart ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNxL93XgxnmE4hT1Vgda4%22%2C%22flow%22%3Atrue%7D%7D)
+# Reader (Customer) Avatar Generator - Get Into Their Head and Heart  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNxL93XgxnmE4hT1Vgda4%22%2C%22flow%22%3Atrue%7D%7D)
 Knowing who you are writing for and selling to is key to helping them meet their needs. This prompt creates an Avatar of the reader of an article. It predicts their needs and pain points, predicts the websites they frequent, what you could sell them, and how to get them on an email list (the bribe).
 
 # Prompt

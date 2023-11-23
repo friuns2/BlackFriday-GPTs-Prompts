@@ -1,6 +1,6 @@
 
-[![Survey Questions Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)]()
-# Survey Questions Designer 
+[![Survey Questions Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225NvRUzSddAL3_Q_P8CHm0%22%2C%22flow%22%3Atrue%7D%7D)
+# Survey Questions Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225NvRUzSddAL3_Q_P8CHm0%22%2C%22flow%22%3Atrue%7D%7D)
 An effective survey can provide a wealth of data. This prompt can assist you in crafting purposeful, straightforward, and unbiased questions
 
 # Prompt

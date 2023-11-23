@@ -1,6 +1,6 @@
 
-[![The Dialectic Model ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)]()
-# The Dialectic Model  
+[![The Dialectic Model ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HngnnsVlv0X8NFrf1Eqf2%22%2C%22flow%22%3Atrue%7D%7D)
+# The Dialectic Model  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HngnnsVlv0X8NFrf1Eqf2%22%2C%22flow%22%3Atrue%7D%7D)
 Using the dialectical model, engage in a philosophical discussion on the following subject by providing a thesis, antithesis, and synthesis. Give a one sentence answer for each part, then break each part down into three sub-parts. Conclude by summarizing the three main insights gained from the answers provided by this discussion.
 
 

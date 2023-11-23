@@ -1,6 +1,6 @@
 
-[![Job Application Cold Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)]()
-# Job Application Cold Email Generator 
+[![Job Application Cold Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkwxdlEjVw6FDiZ4_VQHh%22%2C%22flow%22%3Atrue%7D%7D)
+# Job Application Cold Email Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkwxdlEjVw6FDiZ4_VQHh%22%2C%22flow%22%3Atrue%7D%7D)
 🤔Struggling with writing job application emails that get results? 
 
 🔍Want to level up your job search game? 

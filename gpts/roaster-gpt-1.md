@@ -1,6 +1,6 @@
 
-[![Roaster GPT-1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FEUwcPPFeWa9owToVzrE9/1690902899694)]()
-# Roaster GPT-1 
+[![Roaster GPT-1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FEUwcPPFeWa9owToVzrE9/1690902899694)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEUwcPPFeWa9owToVzrE9%22%2C%22flow%22%3Atrue%7D%7D)
+# Roaster GPT-1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEUwcPPFeWa9owToVzrE9%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Roasting GPT-1: 🔥🤖
 
 

@@ -1,6 +1,6 @@
 
-[![Life Scenarios Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Life Scenarios Simulator 
+[![Life Scenarios Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gTA9hM8UYe_l6_C2q4kqX%22%2C%22flow%22%3Atrue%7D%7D)
+# Life Scenarios Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gTA9hM8UYe_l6_C2q4kqX%22%2C%22flow%22%3Atrue%7D%7D)
 This Life Scenario Simulator gives a real life problem that the user can solve as if they are facing the situation in real life right now. The simulator will grade your response and provide the correct option and provide feedback on your response to the problem based on practicality, usefulness and effectiveness. 
 
 # Prompt

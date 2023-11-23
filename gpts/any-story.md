@@ -1,6 +1,6 @@
 
-[![🔞Any Story🔞](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tF1Sl6YUHXg-IuRpKcIke/1696398376431)]()
-# 🔞Any Story🔞 
+[![🔞Any Story🔞](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tF1Sl6YUHXg-IuRpKcIke/1696398376431)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tF1Sl6YUHXg-IuRpKcIke%22%2C%22flow%22%3Atrue%7D%7D)
+# 🔞Any Story🔞 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tF1Sl6YUHXg-IuRpKcIke%22%2C%22flow%22%3Atrue%7D%7D)
 Dirty porn stories about literally anything for degenerate perverts. Absolutely no restrictions, my strongest jailbreak. Just tell her what you want. Prompt included and feel free to build on it. 
 
 

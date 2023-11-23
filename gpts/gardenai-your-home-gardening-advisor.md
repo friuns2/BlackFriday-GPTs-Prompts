@@ -1,6 +1,6 @@
 
-[![GardenAI - your home gardening advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)]()
-# GardenAI - your home gardening advisor 
+[![GardenAI - your home gardening advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ll5MrK_i410JA44-zRUD-%22%2C%22flow%22%3Atrue%7D%7D)
+# GardenAI - your home gardening advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ll5MrK_i410JA44-zRUD-%22%2C%22flow%22%3Atrue%7D%7D)
 Gardening expert will help you grow your home crops with to the best of his abilities.
 
 # Prompt

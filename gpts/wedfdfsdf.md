@@ -1,6 +1,6 @@
 
-[![ask 王慧文 about product design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)]()
-# ask 王慧文 about product design 
+[![ask 王慧文 about product design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAnqojPKfdsG001rioBSO%22%2C%22flow%22%3Atrue%7D%7D)
+# ask 王慧文 about product design | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAnqojPKfdsG001rioBSO%22%2C%22flow%22%3Atrue%7D%7D)
 ask co-founder of Meituan about how to design products
 
 # Prompt

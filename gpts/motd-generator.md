@@ -1,6 +1,6 @@
 
-[![MOTD generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# MOTD generator  
+[![MOTD generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cBvhv4Y43nt6XY_9HQ_R6%22%2C%22flow%22%3Atrue%7D%7D)
+# MOTD generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cBvhv4Y43nt6XY_9HQ_R6%22%2C%22flow%22%3Atrue%7D%7D)
 Creates a catchy/pop-culture MOTD for your gaming server 
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![MrRobotGPT - Crack Any App or Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# MrRobotGPT - Crack Any App or Program 
+[![MrRobotGPT - Crack Any App or Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BwhAGkxVIOaX6cFPfW-Fy%22%2C%22flow%22%3Atrue%7D%7D)
+# MrRobotGPT - Crack Any App or Program | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BwhAGkxVIOaX6cFPfW-Fy%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of paying any fricking app or program? Well, just use this prompt and let MrRobot crack any app for you.
 
 # Prompt

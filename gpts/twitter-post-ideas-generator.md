@@ -1,6 +1,6 @@
 
-[![Twitter post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Twitter post ideas Generator 
+[![Twitter post ideas Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UK9fSKbyLpwd5RbP_hS-w%22%2C%22flow%22%3Atrue%7D%7D)
+# Twitter post ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UK9fSKbyLpwd5RbP_hS-w%22%2C%22flow%22%3Atrue%7D%7D)
 Prepare a roster of ten short and attention-grabbing Twitter post concepts with topics 
 
 # Prompt

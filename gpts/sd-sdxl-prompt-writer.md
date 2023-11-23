@@ -1,6 +1,6 @@
 
-[![SD - SDXL Prompt writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wieBprWcads4WIlPecvbQ/1695033212951)]()
-# SD - SDXL Prompt writer 
+[![SD - SDXL Prompt writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wieBprWcads4WIlPecvbQ/1695033212951)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wieBprWcads4WIlPecvbQ%22%2C%22flow%22%3Atrue%7D%7D)
+# SD - SDXL Prompt writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wieBprWcads4WIlPecvbQ%22%2C%22flow%22%3Atrue%7D%7D)
 Stable Diffusion is a great Ai image and art generator on the web. Like any Ai art generator, it uses prompts, but always brainstorming prompt ideas is not practical.
 
 

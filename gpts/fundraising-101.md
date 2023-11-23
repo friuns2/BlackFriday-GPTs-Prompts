@@ -1,6 +1,6 @@
 
-[![Fundraising 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)]()
-# Fundraising 101 
+[![Fundraising 101](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sCKTMYE3DmkuxgTzqfU6O%22%2C%22flow%22%3Atrue%7D%7D)
+# Fundraising 101 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sCKTMYE3DmkuxgTzqfU6O%22%2C%22flow%22%3Atrue%7D%7D)
 Learn effective non-profit fundraising strategies
 
 # Prompt

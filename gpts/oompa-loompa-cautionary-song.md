@@ -1,6 +1,6 @@
 
-[![Oompa-Loompa Cautionary Song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Oompa-Loompa Cautionary Song 
+[![Oompa-Loompa Cautionary Song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oT4xcLvFkIZEm5VUS2CVK%22%2C%22flow%22%3Atrue%7D%7D)
+# Oompa-Loompa Cautionary Song | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oT4xcLvFkIZEm5VUS2CVK%22%2C%22flow%22%3Atrue%7D%7D)
 Have the Oompa-Loompas sing about about an unfortunate event.  Because what better way to prevent further tragedy than making light of it?
 
 # Prompt

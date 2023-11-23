@@ -1,6 +1,6 @@
 
-[![Create a pitch deck](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_I_oGIsPUPl7MYVbbBUGZ/1694700939094)]()
-# Create a pitch deck 
+[![Create a pitch deck](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_I_oGIsPUPl7MYVbbBUGZ/1694700939094)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I_oGIsPUPl7MYVbbBUGZ%22%2C%22flow%22%3Atrue%7D%7D)
+# Create a pitch deck | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I_oGIsPUPl7MYVbbBUGZ%22%2C%22flow%22%3Atrue%7D%7D)
 Secure that funding, client, member or partner.
 
 

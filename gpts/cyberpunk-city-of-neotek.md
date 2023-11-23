@@ -1,6 +1,6 @@
 
-[![CyberPunk City of NeoTek](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6WvBSmPtbM6eviTL4aoqc/1691414275752)]()
-# CyberPunk City of NeoTek 
+[![CyberPunk City of NeoTek](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6WvBSmPtbM6eviTL4aoqc/1691414275752)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226WvBSmPtbM6eviTL4aoqc%22%2C%22flow%22%3Atrue%7D%7D)
+# CyberPunk City of NeoTek | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226WvBSmPtbM6eviTL4aoqc%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the most impressive CyberPunk world! Customize your character, hack into systems, upgrade your skills, trade with NPCs and so on...
 
 # Prompt

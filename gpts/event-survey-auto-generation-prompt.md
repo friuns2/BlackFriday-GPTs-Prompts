@@ -1,6 +1,6 @@
 
-[![Event Survey Auto-Generation Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)]()
-# Event Survey Auto-Generation Prompt 
+[![Event Survey Auto-Generation Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gqYRMIqE1iEebMFmEyo-3%22%2C%22flow%22%3Atrue%7D%7D)
+# Event Survey Auto-Generation Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gqYRMIqE1iEebMFmEyo-3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates GAS code that automatically creates an event feedback form.
 
 # Prompt

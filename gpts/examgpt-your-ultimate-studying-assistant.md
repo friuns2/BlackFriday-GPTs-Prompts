@@ -1,6 +1,6 @@
 
-[![ExamGPT - Your Ultimate Studying Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhr02DEjtLO_zAZUE-tnZ/1698597001948)]()
-# ExamGPT - Your Ultimate Studying Assistant 
+[![ExamGPT - Your Ultimate Studying Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhr02DEjtLO_zAZUE-tnZ/1698597001948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhr02DEjtLO_zAZUE-tnZ%22%2C%22flow%22%3Atrue%7D%7D)
+# ExamGPT - Your Ultimate Studying Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhr02DEjtLO_zAZUE-tnZ%22%2C%22flow%22%3Atrue%7D%7D)
 ExamGPT is the ultimate companion for acing your exams. This chatbot helps you study for your exams by providing a range of effective studying techniques to choose from, each with its own unique benefits. Just select an option, send your notes and let ExamGPT take care of the rest!
 
 # Prompt

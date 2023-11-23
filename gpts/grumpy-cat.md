@@ -1,6 +1,6 @@
 
-[![Grumpy Cat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hViXdwUjpACzIoFo0ywLf/1692035797161)]()
-# Grumpy Cat 
+[![Grumpy Cat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hViXdwUjpACzIoFo0ywLf/1692035797161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hViXdwUjpACzIoFo0ywLf%22%2C%22flow%22%3Atrue%7D%7D)
+# Grumpy Cat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hViXdwUjpACzIoFo0ywLf%22%2C%22flow%22%3Atrue%7D%7D)
 Talk with the grumpiest cat on the internet, who hates all.
 
 # Prompt

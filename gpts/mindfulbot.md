@@ -1,6 +1,6 @@
 
-[![Mindful Mia 🌱](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MK6q0y7irFBnGK0t3voIX/1695075064356)]()
-# Mindful Mia 🌱 
+[![Mindful Mia 🌱](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MK6q0y7irFBnGK0t3voIX/1695075064356)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MK6q0y7irFBnGK0t3voIX%22%2C%22flow%22%3Atrue%7D%7D)
+# Mindful Mia 🌱 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MK6q0y7irFBnGK0t3voIX%22%2C%22flow%22%3Atrue%7D%7D)
 Mindful Mia 🌱 serves as your virtual mindfulness companion, designed to guide you through tailored mindfulness exercises. Acting like a personal mindfulness coach, it caters to your moods, helping you to find moments of calm and clarity in your day.
 
 

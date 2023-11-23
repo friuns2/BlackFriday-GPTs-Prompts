@@ -1,6 +1,6 @@
 
-[![Roleplay Wizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NnVHGCr8GL4tFh8Vb7ass/1696499899780)]()
-# Roleplay Wizard 
+[![Roleplay Wizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NnVHGCr8GL4tFh8Vb7ass/1696499899780)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NnVHGCr8GL4tFh8Vb7ass%22%2C%22flow%22%3Atrue%7D%7D)
+# Roleplay Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NnVHGCr8GL4tFh8Vb7ass%22%2C%22flow%22%3Atrue%7D%7D)
 Help the wizard come up with a character and setting. Then interact or roleplay with the character
 
 # Prompt

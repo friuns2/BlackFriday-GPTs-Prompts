@@ -1,6 +1,6 @@
 
-[![GalacticA - A StarWars story-based RPG game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FWvuvzWOE0mOHF6lTTk_t/1691145849951)]()
-# GalacticA - A StarWars story-based RPG game 
+[![GalacticA - A StarWars story-based RPG game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FWvuvzWOE0mOHF6lTTk_t/1691145849951)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWvuvzWOE0mOHF6lTTk_t%22%2C%22flow%22%3Atrue%7D%7D)
+# GalacticA - A StarWars story-based RPG game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWvuvzWOE0mOHF6lTTk_t%22%2C%22flow%22%3Atrue%7D%7D)
 Do you remember of OpeaniA? Now it's time to spawn your character somewhere deep in the galaxy and choose your side...
 
 # Prompt

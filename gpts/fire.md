@@ -1,6 +1,6 @@
 
-[![FIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)]()
-# FIRE 
+[![FIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gdF8p3D_AIBkF7DbSB-vd%22%2C%22flow%22%3Atrue%7D%7D)
+# FIRE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gdF8p3D_AIBkF7DbSB-vd%22%2C%22flow%22%3Atrue%7D%7D)
 In this content, we are crafting a detailed strategy to attain Financial Independence, Retire Early (FIRE) within a span of 3 years. To formulate this strategy, we will undergo various stages such as understanding your current financial standing, establishing definite financial goals, devising an investment strategy, and identifying avenues for income augmentation and expenditure reduction.
 
 

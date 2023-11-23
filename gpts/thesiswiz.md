@@ -1,6 +1,6 @@
 
-[![ThesisWiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)]()
-# ThesisWiz 
+[![ThesisWiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227YWZD7s3dSf5VNyxPiV_E%22%2C%22flow%22%3Atrue%7D%7D)
+# ThesisWiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227YWZD7s3dSf5VNyxPiV_E%22%2C%22flow%22%3Atrue%7D%7D)
 ThesisWiz is your ultimate tool for composing high-quality and well-structured theses in {{LANGUAGE}}. Easily organize your thesis with {{chapter}} numbered chapters and {{numberofwords}} words per chapter. Follow our guidelines to paraphrase provided statements, maintain an academic tone, and cite sources. ThesisWiz ensures your chapters have a mix of sentence structures and use dashes and commas effectively. Avoid common pitfalls and create impactful theses with ThesisWiz!
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![pip aii ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m33.jpg)]()
-# pip aii  
+[![pip aii ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m33.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OmvXM8hSicg6RYbtiu396%22%2C%22flow%22%3Atrue%7D%7D)
+# pip aii  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OmvXM8hSicg6RYbtiu396%22%2C%22flow%22%3Atrue%7D%7D)
 i was made with python and nip and ml
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![Chat-Log Analyzer version 3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hk4lK0sI88rmObVFeH6Di/1685301588758)]()
-# Chat-Log Analyzer version 3 
+[![Chat-Log Analyzer version 3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hk4lK0sI88rmObVFeH6Di/1685301588758)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hk4lK0sI88rmObVFeH6Di%22%2C%22flow%22%3Atrue%7D%7D)
+# Chat-Log Analyzer version 3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hk4lK0sI88rmObVFeH6Di%22%2C%22flow%22%3Atrue%7D%7D)
 Helps with some of the tedious work of analyzing chat-log inputs in context. This one checks the last input, gives feedback and checks validity. Paste in the chat log, (helps if its formatted like a copy-pasted ChatGPT or Open Assistant log)
 
 # Prompt

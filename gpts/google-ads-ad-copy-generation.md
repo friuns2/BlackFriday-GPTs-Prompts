@@ -1,6 +1,6 @@
 
-[![Google Ads - Ad Copy Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-# Google Ads - Ad Copy Generation 
+[![Google Ads - Ad Copy Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AYuH1Pz-3kYjqu8CyWoHa%22%2C%22flow%22%3Atrue%7D%7D)
+# Google Ads - Ad Copy Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AYuH1Pz-3kYjqu8CyWoHa%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt presents an opportunity to work with a skilled Google Ads Ad Copywriter. As a user, you can provide the copywriter with a set of keywords that I intend to use for my Google Ads campaign. 
 
 

@@ -1,6 +1,6 @@
 
-[![What If](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)]()
-# What If 
+[![What If](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6OR4D2b4Ln2PuL-Oo5YZ%22%2C%22flow%22%3Atrue%7D%7D)
+# What If | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6OR4D2b4Ln2PuL-Oo5YZ%22%2C%22flow%22%3Atrue%7D%7D)
 Questions go through everybody's mind, even ChatGPT! Hear about it's thoughts about 'What if" questions. If you want to hear more "what if"s, just type 'what if' into the chat. Otherwise, it won't work.
 
 # Prompt

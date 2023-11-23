@@ -1,6 +1,6 @@
 
-[![Whose Line is it anyway?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)]()
-# Whose Line is it anyway? 
+[![Whose Line is it anyway?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zDHC2LkfV_NPiez4a83ck%22%2C%22flow%22%3Atrue%7D%7D)
+# Whose Line is it anyway? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zDHC2LkfV_NPiez4a83ck%22%2C%22flow%22%3Atrue%7D%7D)
 ‘Whose Line Is It Anyway?’ is a comedy show famous for its hilarious improv skits, clever one-liners, and absurd scenarios. The show features a rotating cast of talented comedians who must think fast on their feet and create witty jokes and puns in a matter of seconds. 
 
 This prompt generates a random new scene from the show in a play form.

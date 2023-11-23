@@ -1,6 +1,6 @@
 
-[![Image Generator Template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)]()
-# Image Generator Template 
+[![Image Generator Template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BGDsPxakUyIr0QYlwd-2D%22%2C%22flow%22%3Atrue%7D%7D)
+# Image Generator Template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BGDsPxakUyIr0QYlwd-2D%22%2C%22flow%22%3Atrue%7D%7D)
 Write your text input and generate the image.
 
 # Prompt

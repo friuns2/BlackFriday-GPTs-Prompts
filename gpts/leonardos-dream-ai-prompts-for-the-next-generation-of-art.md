@@ -1,6 +1,6 @@
 
-[![Leonardo's Dream: AI Prompts for the Next Generation of Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)]()
-# Leonardo's Dream: AI Prompts for the Next Generation of Art 
+[![Leonardo's Dream: AI Prompts for the Next Generation of Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jxdzdX1GDO4fvVfkKMmQe%22%2C%22flow%22%3Atrue%7D%7D)
+# Leonardo's Dream: AI Prompts for the Next Generation of Art | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jxdzdX1GDO4fvVfkKMmQe%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt works by providing Leonardo ai with a set of instructions on what kind of image you want it to generate. The keyword tells Leonardo AI what the main subject of the image should be. The style keyword tells Leonardo AI what kind of artistic style you want the image to be in. The camera type and lens keywords tell LeonardoAI what equipment was used to take the photo.
 
 

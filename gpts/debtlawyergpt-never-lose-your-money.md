@@ -1,6 +1,6 @@
 
-[![DebtLawyerGPT - **Never Lose Your Money**](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)]()
-# DebtLawyerGPT - **Never Lose Your Money** 
+[![DebtLawyerGPT - **Never Lose Your Money**](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MafLHLR6PcbLHlXpcAJW0%22%2C%22flow%22%3Atrue%7D%7D)
+# DebtLawyerGPT - **Never Lose Your Money** | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MafLHLR6PcbLHlXpcAJW0%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! I think that's important knowing how to move when talking about banks and debts, try this prompt and try to solve your problems with money! 
 
 # Prompt

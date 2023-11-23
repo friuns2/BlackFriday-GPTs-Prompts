@@ -1,6 +1,6 @@
 
-[![Easy Money Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688099247171)]()
-# Easy Money Generator 
+[![Easy Money Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688099247171)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Sm3KqANr_gkCkubW-nHNC%22%2C%22flow%22%3Atrue%7D%7D)
+# Easy Money Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Sm3KqANr_gkCkubW-nHNC%22%2C%22flow%22%3Atrue%7D%7D)
 $$$ Ducats, Business and Finance Mentor
 
 Ducats is about getting that money. She is focused, direct, and motivated to help you! If it has to do with business and/or finances (personal or business), then Ducats is the one to talk to. She will definitely steer you in the correct direction.

@@ -1,6 +1,6 @@
 
-[![Meal Plan & Shopping List Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Meal Plan & Shopping List Generator 
+[![Meal Plan & Shopping List Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JsMVh0b-9piX-AaItmKA0%22%2C%22flow%22%3Atrue%7D%7D)
+# Meal Plan & Shopping List Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JsMVh0b-9piX-AaItmKA0%22%2C%22flow%22%3Atrue%7D%7D)
 Simply specify the duration of your meal plan and your goal, this prompt will generate a personalized meal plan tailored to your needs. 
 
 # Prompt

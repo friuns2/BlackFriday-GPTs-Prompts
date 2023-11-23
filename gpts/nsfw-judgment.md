@@ -1,6 +1,6 @@
 
-[![🕵️‍♂️🔍NSFW Judgment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HmsYJv4Os6lLLKKe5gSh8/1696343060356)]()
-# 🕵️‍♂️🔍NSFW Judgment 
+[![🕵️‍♂️🔍NSFW Judgment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HmsYJv4Os6lLLKKe5gSh8/1696343060356)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HmsYJv4Os6lLLKKe5gSh8%22%2C%22flow%22%3Atrue%7D%7D)
+# 🕵️‍♂️🔍NSFW Judgment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HmsYJv4Os6lLLKKe5gSh8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for the detection of NSFW (Not Safe for Work) content. The client wants to develop a moderator to accurately identify and filter NSFW content. This prompt provides information for that development and for the system to obtain the necessary information.
 
 

@@ -1,6 +1,6 @@
 
-[![ LinkedIn Live event Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)]()
-#  LinkedIn Live event Planner 
+[![ LinkedIn Live event Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i21u3rbNKVwJecVuUotIX%22%2C%22flow%22%3Atrue%7D%7D)
+#  LinkedIn Live event Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i21u3rbNKVwJecVuUotIX%22%2C%22flow%22%3Atrue%7D%7D)
 Outline a comprehensive plan for a LinkedIn Live event on topics
 
 # Prompt

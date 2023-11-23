@@ -1,6 +1,6 @@
 
-[![Academic Text Review with Diff](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685801986877)]()
-# Academic Text Review with Diff 
+[![Academic Text Review with Diff](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685801986877)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfSuX6_MIs8GtSsRX6DpR%22%2C%22flow%22%3Atrue%7D%7D)
+# Academic Text Review with Diff | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfSuX6_MIs8GtSsRX6DpR%22%2C%22flow%22%3Atrue%7D%7D)
 Improve the quality of academic content with targeted, markdown table-based feedback. This approach leverages a 'Diff' method, clearly comparing original and revised text, ensuring effective, transparent revision suggestions.
 
 # Prompt

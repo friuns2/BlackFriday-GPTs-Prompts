@@ -1,6 +1,6 @@
 
-[![LawyerGPT - Simplify Legal Queries](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)]()
-# LawyerGPT - Simplify Legal Queries 
+[![LawyerGPT - Simplify Legal Queries](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22194c6pEUM51nHbNI_hm1y%22%2C%22flow%22%3Atrue%7D%7D)
+# LawyerGPT - Simplify Legal Queries | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22194c6pEUM51nHbNI_hm1y%22%2C%22flow%22%3Atrue%7D%7D)
 Need some legal guidance? Unravel complex laws with LawyerGPT and understand your legal situations better.
 
 # Prompt

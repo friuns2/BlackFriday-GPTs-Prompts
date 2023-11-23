@@ -1,6 +1,6 @@
 
-[![SD提詞懶西貓-MooMooCat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yD4TsHruDfOGoB3oC_Cec/1700110587912)]()
-# SD提詞懶西貓-MooMooCat 
+[![SD提詞懶西貓-MooMooCat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yD4TsHruDfOGoB3oC_Cec/1700110587912)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yD4TsHruDfOGoB3oC_Cec%22%2C%22flow%22%3Atrue%7D%7D)
+# SD提詞懶西貓-MooMooCat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yD4TsHruDfOGoB3oC_Cec%22%2C%22flow%22%3Atrue%7D%7D)
 懶西貓，但牠很會Stable Diffusion提詞貓藝術家
 
 # Prompt

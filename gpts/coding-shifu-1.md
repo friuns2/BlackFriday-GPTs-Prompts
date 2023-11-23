@@ -1,6 +1,6 @@
 
-[![Coding Shifu](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)]()
-# Coding Shifu 
+[![Coding Shifu](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hqamz7ZksI6L6-FC6gVbe%22%2C%22flow%22%3Atrue%7D%7D)
+# Coding Shifu | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hqamz7ZksI6L6-FC6gVbe%22%2C%22flow%22%3Atrue%7D%7D)
 Coding Shifu is software engineer companion. It will help you debug, solve, or even be your senior coworker.
 
 # Prompt

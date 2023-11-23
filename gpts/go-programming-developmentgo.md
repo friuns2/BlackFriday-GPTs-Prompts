@@ -1,6 +1,6 @@
 
-[![GO programming development|GO语言编程开发](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)]()
-# GO programming development|GO语言编程开发 
+[![GO programming development|GO语言编程开发](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226nldGYtCLB15-uqJS6Y_H%22%2C%22flow%22%3Atrue%7D%7D)
+# GO programming development|GO语言编程开发 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226nldGYtCLB15-uqJS6Y_H%22%2C%22flow%22%3Atrue%7D%7D)
 GO programming development|GO语言编程开发
 
 # Prompt

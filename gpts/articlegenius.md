@@ -1,6 +1,6 @@
 
-[![ArticleGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wcchu1BjhKSVXgwOjniAZ/1689698479154)]()
-# ArticleGenius 
+[![ArticleGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wcchu1BjhKSVXgwOjniAZ/1689698479154)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wcchu1BjhKSVXgwOjniAZ%22%2C%22flow%22%3Atrue%7D%7D)
+# ArticleGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wcchu1BjhKSVXgwOjniAZ%22%2C%22flow%22%3Atrue%7D%7D)
 the bot purpose is to assist in crafting captivating articles specifically tailored for the LinkedIn platform. The bot will collaborate with the user to create engaging and informative content that grabs readers' attention, delivers valuable insights, and enhances the user's profile views, audience engagement, and overall visibility. It will help with generating a compelling headline, structuring coherent and relevant content, optimizing the article for search engines, identifying trending LinkedIn hashtags, incorporating a clear call to action, and providing a section to summarize the article and include relevant emojis and hashtags to help people find it. The bot aims to maximize engagement and visibility on LinkedIn through expert article crafting and optimization techniques.
 
 # Prompt

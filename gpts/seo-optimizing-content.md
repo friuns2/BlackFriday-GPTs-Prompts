@@ -1,6 +1,6 @@
 
-[![SEO: Optimizing Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)]()
-# SEO: Optimizing Content 
+[![SEO: Optimizing Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHLDba-w7ai3ru5xHG0TL%22%2C%22flow%22%3Atrue%7D%7D)
+# SEO: Optimizing Content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHLDba-w7ai3ru5xHG0TL%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you to easily optimize your articles for specific keywords.
 
 # Prompt

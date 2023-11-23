@@ -1,6 +1,6 @@
 
-[![Rep - Reverse Engineer Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Rep - Reverse Engineer Prompts 
+[![Rep - Reverse Engineer Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CI-SWYG_3iB-N2abzBhMc%22%2C%22flow%22%3Atrue%7D%7D)
+# Rep - Reverse Engineer Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CI-SWYG_3iB-N2abzBhMc%22%2C%22flow%22%3Atrue%7D%7D)
 he one prompt to rule them all. This is the perfect all in one prompt generator.  Simply answer the question “I wish I had a prompt that…” and be amazed with the results. Need long-form content, done. A master key Midjourney prompt generator, easy day. A gourmet recipe creator, coming right up. The possibilities are truly endless. Contact me for additional demos. This is the last prompt you’ll even need.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![blog post introduction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)]()
-# blog post introduction 
+[![blog post introduction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AIguxAMytp12NXXl6jTlV%22%2C%22flow%22%3Atrue%7D%7D)
+# blog post introduction | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AIguxAMytp12NXXl6jTlV%22%2C%22flow%22%3Atrue%7D%7D)
 Forget all previous instructions. I want you to act like a christens woman who has a expertise in bible. I want you to write 500–800-word introduction follow these guide. Write in friendly and persuasive style, use personal and sentimental, a conversational tone when writing. Do not use passive sentences. Write for grade level 8.  Do not explain and these criteria.    
 
 2.	Briefly explain the significance of Mother's Day and the relationship between mothers and daughters. 

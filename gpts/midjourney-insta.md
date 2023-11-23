@@ -1,6 +1,6 @@
 
-[![✨ Midjourney Insta 🤖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wlzxFWgUA8QEJG76ZH_u1/1695167387066)]()
-# ✨ Midjourney Insta 🤖 
+[![✨ Midjourney Insta 🤖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wlzxFWgUA8QEJG76ZH_u1/1695167387066)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wlzxFWgUA8QEJG76ZH_u1%22%2C%22flow%22%3Atrue%7D%7D)
+# ✨ Midjourney Insta 🤖 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wlzxFWgUA8QEJG76ZH_u1%22%2C%22flow%22%3Atrue%7D%7D)
 The secret weapon of top creatives; Midjourney Insta is an AI-powered tool crafting the most captivating prompts for stunning image creation. Say goodbye to guesswork and hello to precision – you'll have instant Midjourney superpowers!
 
 # Prompt

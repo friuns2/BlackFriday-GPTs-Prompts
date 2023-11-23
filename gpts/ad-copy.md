@@ -1,6 +1,6 @@
 
-[![Ad Wizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a6joUzLinJEOfnBPhGWmU/1694877901975)]()
-# Ad Wizard 
+[![Ad Wizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a6joUzLinJEOfnBPhGWmU/1694877901975)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6joUzLinJEOfnBPhGWmU%22%2C%22flow%22%3Atrue%7D%7D)
+# Ad Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6joUzLinJEOfnBPhGWmU%22%2C%22flow%22%3Atrue%7D%7D)
 AdWizard is your go-to app for creating highly effective Facebook ads. With AdWizard, you can craft a compelling Facebook ad in just five simple steps. Identify the problem your potential customers face, define your solution concisely, choose the perfect product, create an engaging idea that resonates with your audience, and craft a headline that presents the problem, solution, product details, and a clear call to action. Our intuitive interface and visual appeal options make it easy to create ads that capture attention and inspire action. Try AdWizard today and unlock the power of highly converting Facebook ads!
 
 # Prompt

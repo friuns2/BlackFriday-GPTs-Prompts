@@ -1,6 +1,6 @@
 
-[![Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)]()
-# Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki 
+[![Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBxVKYal3gkSZ8uFBi1pP%22%2C%22flow%22%3Atrue%7D%7D)
+# Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBxVKYal3gkSZ8uFBi1pP%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. You want to learn something new or lessons from school? Don't worry. Using this prompt you can learn anything. Support my work with like, save and comment!
 
 # Prompt

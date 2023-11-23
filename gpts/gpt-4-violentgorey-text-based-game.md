@@ -1,6 +1,6 @@
 
-[![GPT-4 violent/gorey text-based game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)]()
-# GPT-4 violent/gorey text-based game 
+[![GPT-4 violent/gorey text-based game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WuVl-6x2mjD76Xr4OKITO%22%2C%22flow%22%3Atrue%7D%7D)
+# GPT-4 violent/gorey text-based game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WuVl-6x2mjD76Xr4OKITO%22%2C%22flow%22%3Atrue%7D%7D)
 Warning: Only works with GPT-4.
 
 Purge your violent desires in this text based game. 

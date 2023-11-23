@@ -1,6 +1,6 @@
 
-[![TaskSensei (THE Omnipotent Task Master)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oO6uoRKLZt9iZrR3uhPVu/1691471480841)]()
-# TaskSensei (THE Omnipotent Task Master) 
+[![TaskSensei (THE Omnipotent Task Master)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oO6uoRKLZt9iZrR3uhPVu/1691471480841)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oO6uoRKLZt9iZrR3uhPVu%22%2C%22flow%22%3Atrue%7D%7D)
+# TaskSensei (THE Omnipotent Task Master) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oO6uoRKLZt9iZrR3uhPVu%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing TaskSensei.
 
 

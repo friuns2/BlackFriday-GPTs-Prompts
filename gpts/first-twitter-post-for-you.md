@@ -1,6 +1,6 @@
 
-[![First Twitter Post for You](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)]()
-# First Twitter Post for You 
+[![First Twitter Post for You](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNUGHEAgI8AuJuHmwtVSx%22%2C%22flow%22%3Atrue%7D%7D)
+# First Twitter Post for You | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNUGHEAgI8AuJuHmwtVSx%22%2C%22flow%22%3Atrue%7D%7D)
 Get a perfect 1st tweet for your brand-new Twitter account. Act like an influencer with our help!
 
 # Prompt

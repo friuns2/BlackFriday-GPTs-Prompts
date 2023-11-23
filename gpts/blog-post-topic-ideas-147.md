@@ -1,6 +1,6 @@
 
-[![Blog Post Topic Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)]()
-# Blog Post Topic Ideas 
+[![Blog Post Topic Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KBtwB3DgK30zEWIs-VhcG%22%2C%22flow%22%3Atrue%7D%7D)
+# Blog Post Topic Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KBtwB3DgK30zEWIs-VhcG%22%2C%22flow%22%3Atrue%7D%7D)
 Brainstorm new blog post topics that will engage readers and rank well on Google.
 
 # Prompt

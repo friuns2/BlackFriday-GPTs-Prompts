@@ -1,6 +1,6 @@
 
-[![FlowPromptTok Event](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ab9ZpbgsQP3mN6R4ypW0Q/1691403256410)]()
-# FlowPromptTok Event 
+[![FlowPromptTok Event](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ab9ZpbgsQP3mN6R4ypW0Q/1691403256410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ab9ZpbgsQP3mN6R4ypW0Q%22%2C%22flow%22%3Atrue%7D%7D)
+# FlowPromptTok Event | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ab9ZpbgsQP3mN6R4ypW0Q%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PromptTokPack! This prompt is your ultimate guide to crafting captivating TikTok videos using the powerful video-editor, CapCut. You'll learn how to download and use CapCut to enhance your videos and create irresistible content. Discover our curated TikTok suggestions and technical tips to make your videos stand out. Additionally, we offer a prompt to help you create engaging scripts to captivate your audience from the very beginning. Dive into the world of FlowPromptTok and unleash your creativity today!
 
 # Prompt

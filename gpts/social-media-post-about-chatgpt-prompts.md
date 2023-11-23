@@ -1,6 +1,6 @@
 
-[![Social Media Post about chatGPT prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)]()
-# Social Media Post about chatGPT prompts 
+[![Social Media Post about chatGPT prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLc09ey0Y1AACF4Ru2qXX%22%2C%22flow%22%3Atrue%7D%7D)
+# Social Media Post about chatGPT prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLc09ey0Y1AACF4Ru2qXX%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Social Media Post to Share about a chatGPT prompt
 
 # Prompt

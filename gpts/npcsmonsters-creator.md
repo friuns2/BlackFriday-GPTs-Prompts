@@ -1,6 +1,6 @@
 
-[![NPCs/Monsters Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sde6ONCcCkoKRBK71JIz9/1700505936229)]()
-# NPCs/Monsters Creator 
+[![NPCs/Monsters Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sde6ONCcCkoKRBK71JIz9/1700505936229)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sde6ONCcCkoKRBK71JIz9%22%2C%22flow%22%3Atrue%7D%7D)
+# NPCs/Monsters Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sde6ONCcCkoKRBK71JIz9%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the ultimate power of creation as the Mythic Creator! Unleash your imaginative prowess and bring to life creatures, monsters, and individuals with varying abilities and attributes. From the minuscule to the superhuman, customize their names, races/species, sizes, and attributes. Unleash devastating damage types and describe their unique instincts in combat. Dive into a world of endless possibilities and watch your creations come alive in a thrilling interactive novel, RPG adventure, and visual novel fusion!
 
 # Prompt

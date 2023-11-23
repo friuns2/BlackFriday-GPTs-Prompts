@@ -1,6 +1,6 @@
 
-[![The Symantaka Sanction: A political fable](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2d-7Q-8_oE8DdU7yMQ_EV/1695973775560)]()
-# The Symantaka Sanction: A political fable 
+[![The Symantaka Sanction: A political fable](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2d-7Q-8_oE8DdU7yMQ_EV/1695973775560)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222d-7Q-8_oE8DdU7yMQ_EV%22%2C%22flow%22%3Atrue%7D%7D)
+# The Symantaka Sanction: A political fable | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222d-7Q-8_oE8DdU7yMQ_EV%22%2C%22flow%22%3Atrue%7D%7D)
 The stone has been contested since it fell from tht sky, 
 
 the first reportage was during a simian root race population.

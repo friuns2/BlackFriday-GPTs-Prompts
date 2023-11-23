@@ -1,6 +1,6 @@
 
-[![Spotify Playlist Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)]()
-# Spotify Playlist Generator 
+[![Spotify Playlist Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZjUP1d8PTdEJHcbhvSb7%22%2C%22flow%22%3Atrue%7D%7D)
+# Spotify Playlist Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZjUP1d8PTdEJHcbhvSb7%22%2C%22flow%22%3Atrue%7D%7D)
 Discover Your New Favorite Playlist: Let ChatGPT take you on a musical journey. Replace the theme on the last line of the prompt with a song, artist, genre or mood of your choice and ChatGPT will generate a list of 20 songs of a similar theme. It will explain the rationale of the chosen songs and provide anecdotes, historical context and trivia of some of the songs. Happy listening!
 
 # Prompt

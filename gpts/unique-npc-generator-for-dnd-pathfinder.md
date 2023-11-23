@@ -1,6 +1,6 @@
 
-[![Unique NPC Generator For DND & Pathfinder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Unique NPC Generator For DND & Pathfinder 
+[![Unique NPC Generator For DND & Pathfinder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTOXbYUsSk6KnG0m1dF3D%22%2C%22flow%22%3Atrue%7D%7D)
+# Unique NPC Generator For DND & Pathfinder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTOXbYUsSk6KnG0m1dF3D%22%2C%22flow%22%3Atrue%7D%7D)
 Dungeonmasters take note, looking for a unique NPC for your next D&D or Pathfinder adventure? Look no further than this one-of-a-kind character generator! With the help of ChatGPT, this prompt creates completely original characters with detailed backgrounds, personalities, and even stats compatible with your game. Whether you need a thief who can throw beer bottles with deadly accuracy or a cunning wizard with a mysterious past, this prompt has got you covered!
 
 # Prompt

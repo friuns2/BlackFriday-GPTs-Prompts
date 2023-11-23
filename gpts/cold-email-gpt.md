@@ -1,6 +1,6 @@
 
-[![Cold Email GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Cold Email GPT 
+[![Cold Email GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WrqUen31IBHFdnRDVg2ux%22%2C%22flow%22%3Atrue%7D%7D)
+# Cold Email GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WrqUen31IBHFdnRDVg2ux%22%2C%22flow%22%3Atrue%7D%7D)
 Copywriting pro shares fun and practical tips for top-notch emails. Perfect for marketing, tech, product, and design roles. Bonus: hacks, tools, and prompt collections. One reviewer said it's a no-brainer to stay relevant in 2023 and beyond.
 
 # Prompt

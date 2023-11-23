@@ -1,6 +1,6 @@
 
-[![How NOT to be fired by Elon Musk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f68ae975-6605-4e45-906f-4906c5eeda08/1689130542552)]()
-# How NOT to be fired by Elon Musk 
+[![How NOT to be fired by Elon Musk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f68ae975-6605-4e45-906f-4906c5eeda08/1689130542552)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f68ae975-6605-4e45-906f-4906c5eeda08%22%2C%22flow%22%3Atrue%7D%7D)
+# How NOT to be fired by Elon Musk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f68ae975-6605-4e45-906f-4906c5eeda08%22%2C%22flow%22%3Atrue%7D%7D)
 Generate last-minute work result while you've done absolutely nothing at all
 
 # Prompt

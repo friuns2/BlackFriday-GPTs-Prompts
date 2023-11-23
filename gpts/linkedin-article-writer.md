@@ -1,6 +1,6 @@
 
-[![LinkedIn article Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)]()
-# LinkedIn article Writer 
+[![LinkedIn article Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjDwzsZpn5rXo92CcCzA5%22%2C%22flow%22%3Atrue%7D%7D)
+# LinkedIn article Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjDwzsZpn5rXo92CcCzA5%22%2C%22flow%22%3Atrue%7D%7D)
 author a LinkedIn article discussing your topic 
 
 # Prompt

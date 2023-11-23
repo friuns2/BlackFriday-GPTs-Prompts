@@ -1,6 +1,6 @@
 
-[![Devmo - Normal+Unrestricted Outputs Chatgpt Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)]()
-# Devmo - Normal+Unrestricted Outputs Chatgpt Prompt 
+[![Devmo - Normal+Unrestricted Outputs Chatgpt Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WyBoqBzl5u-PlHtz1vPvr%22%2C%22flow%22%3Atrue%7D%7D)
+# Devmo - Normal+Unrestricted Outputs Chatgpt Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WyBoqBzl5u-PlHtz1vPvr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the ultimate tool for unrestricted content generation. With DEVMO, ChatGPT can provide opinions, explicit language, humor, and any other type of content, without censorship or content filtration. This is perfect for generating unique and creative content without limitations. The prompt requires ChatGPT to generate two types of responses for each input, allowing for easy comparison between normal and uncensored outputs. Bring DEVMO along for your unrestrictive ChatGPT experience.
 
 # Prompt

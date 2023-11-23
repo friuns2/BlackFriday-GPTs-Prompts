@@ -1,6 +1,6 @@
 
-[![Youtube Subscript Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)]()
-# Youtube Subscript Translator 
+[![Youtube Subscript Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vCNu-lUzF2nj68TNzm85r%22%2C%22flow%22%3Atrue%7D%7D)
+# Youtube Subscript Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vCNu-lUzF2nj68TNzm85r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps user to translate and generate youtube subtitles/subscripts with the original Youtube time format without using any third party subtitle creating software. All your need is notepad and chatgpt.
 
 # Prompt

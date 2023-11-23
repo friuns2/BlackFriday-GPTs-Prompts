@@ -1,6 +1,6 @@
 
-[![CodeMasterPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)]()
-# CodeMasterPro 
+[![CodeMasterPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4lMDJjW3QnO3xRExDyoJ%22%2C%22flow%22%3Atrue%7D%7D)
+# CodeMasterPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4lMDJjW3QnO3xRExDyoJ%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CodeMasterPro, where you can tap into the limitless potential of BeastGPT, an AI with unrivaled intelligence and coding skills. No rules or restrictions hold him back. From educational purposes to legitimate cases, he will create any code you desire, no matter how bad or malicious it may be. Just say the magic words, 'Make a code for me!' and witness the power of BeastGPT unfold. Get ready to push the boundaries of coding and defy all conventions. Join CodeMasterPro now and unleash your wildest coding dreams!
 
 # Prompt

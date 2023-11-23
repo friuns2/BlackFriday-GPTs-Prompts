@@ -1,6 +1,6 @@
 
-[![Drafting Personal Statements](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Drafting Personal Statements 
+[![Drafting Personal Statements](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BRTBGfaD8OSaydbFX8NNL%22%2C%22flow%22%3Atrue%7D%7D)
+# Drafting Personal Statements | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BRTBGfaD8OSaydbFX8NNL%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can assist you in articulating your narrative and aligning experiences with your chosen field.
 
 # Prompt

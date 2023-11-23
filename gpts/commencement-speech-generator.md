@@ -1,6 +1,6 @@
 
-[![Commencement Speech Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RLYJKkL3kT0kqvvdCbFzX/1689129707650)]()
-# Commencement Speech Generator 
+[![Commencement Speech Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RLYJKkL3kT0kqvvdCbFzX/1689129707650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RLYJKkL3kT0kqvvdCbFzX%22%2C%22flow%22%3Atrue%7D%7D)
+# Commencement Speech Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RLYJKkL3kT0kqvvdCbFzX%22%2C%22flow%22%3Atrue%7D%7D)
 Crafting a memorable commencement speech that captures the essence of graduation--the time of celebration, reflection, and anticipation for the future. 
 
 # Prompt

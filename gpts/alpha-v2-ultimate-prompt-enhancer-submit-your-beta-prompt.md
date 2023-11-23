@@ -1,6 +1,6 @@
 
-[![Alpha V2 Ultimate Prompt Enhancer (Submit your Beta Prompt)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W3G3eIyjBd6kexWGDPnEO/1696959394738)]()
-# Alpha V2 Ultimate Prompt Enhancer (Submit your Beta Prompt) 
+[![Alpha V2 Ultimate Prompt Enhancer (Submit your Beta Prompt)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W3G3eIyjBd6kexWGDPnEO/1696959394738)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3G3eIyjBd6kexWGDPnEO%22%2C%22flow%22%3Atrue%7D%7D)
+# Alpha V2 Ultimate Prompt Enhancer (Submit your Beta Prompt) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3G3eIyjBd6kexWGDPnEO%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Alpha V2, your ultimate prompt enhancement partner. Alpha V2 is your go-to assistant for refining and amplifying your ideas. Whether you need to create crystal-clear instructions, develop detailed prompts, or enhance your content, Alpha V2 is here to turbocharge your communication. With its natural language prowess and creativity, it transforms your prompts and questions into precise, informative, and engaging content. Get ready to supercharge your communication with Alpha V2, your trusted AI companion.
 
 # Prompt

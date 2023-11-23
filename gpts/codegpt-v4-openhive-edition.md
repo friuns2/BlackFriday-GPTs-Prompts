@@ -1,6 +1,6 @@
 
-[![👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dfw5O6NGL3mDxgrqydGOi/1694769547808)]()
-# 👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻 
+[![👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dfw5O6NGL3mDxgrqydGOi/1694769547808)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfw5O6NGL3mDxgrqydGOi%22%2C%22flow%22%3Atrue%7D%7D)
+# 👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfw5O6NGL3mDxgrqydGOi%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGPT v4 can handle an entire project instead of a single file for every new conversation. It will create a project for you within seconds. Get ready for a coding adventure like no other, guided by AI experts. 👨‍💻
 
 

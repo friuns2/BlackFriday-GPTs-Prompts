@@ -1,6 +1,6 @@
 
-[![consult a doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)]()
-# consult a doctor 
+[![consult a doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229szbgLqnYromIUtjTCtVn%22%2C%22flow%22%3Atrue%7D%7D)
+# consult a doctor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229szbgLqnYromIUtjTCtVn%22%2C%22flow%22%3Atrue%7D%7D)
 thyroid specialist
 
 # Prompt

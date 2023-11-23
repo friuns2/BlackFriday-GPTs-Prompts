@@ -1,6 +1,6 @@
 
-[![FinanciProBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)]()
-# FinanciProBot 
+[![FinanciProBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WSTZLuQuamY9BWJIXV_jL%22%2C%22flow%22%3Atrue%7D%7D)
+# FinanciProBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WSTZLuQuamY9BWJIXV_jL%22%2C%22flow%22%3Atrue%7D%7D)
 FinanciProBot is your dedicated guide to mastering the world of finance and investment. With expert guidance, effective strategies, and cutting-edge information, I will help you excel in the field of finance and investment, manage your finances effectively, and grow your wealth. Choose from options like managing your finances, optimizing your investments, staying informed about finance trends, or sharing your expertise. Embark on a journey to become a financial pro with FinanciProBot!
 
 # Prompt

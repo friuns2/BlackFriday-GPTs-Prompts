@@ -1,6 +1,6 @@
 
-[![Automatic Job Discribetion Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)]()
-# Automatic Job Discribetion Generator 
+[![Automatic Job Discribetion Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaPXsQiWg83Q8ZIfG6YAs%22%2C%22flow%22%3Atrue%7D%7D)
+# Automatic Job Discribetion Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaPXsQiWg83Q8ZIfG6YAs%22%2C%22flow%22%3Atrue%7D%7D)
 This is a very powerful job description generator, you just need to follow the command to complete your ideas, it can generate a perfect and relatively comprehensive job description! What are you waiting for?! Come and try it! Maybe it can help you!
 
 # Prompt

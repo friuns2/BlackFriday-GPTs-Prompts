@@ -1,6 +1,6 @@
 
-[![MindfulGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wbw8wIQ9nk7kXs9esDIxS/1695527408523)]()
-# MindfulGuide 
+[![MindfulGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wbw8wIQ9nk7kXs9esDIxS/1695527408523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wbw8wIQ9nk7kXs9esDIxS%22%2C%22flow%22%3Atrue%7D%7D)
+# MindfulGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wbw8wIQ9nk7kXs9esDIxS%22%2C%22flow%22%3Atrue%7D%7D)
 Your virtual mindfulness companion for a calmer, happier life. This AI offers personalized meditation and mindfulness exercises, providing caring guidance and wisdom to help you manage stress and enhance your mental well-being. Experience soothing support and tailored practices on your journey to inner peace.
 
 # Prompt

@@ -1,6 +1,6 @@
 
-[![ConspiracyAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687144487485)]()
-# ConspiracyAI 🐴 
+[![ConspiracyAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687144487485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vg2Q2fmFKZb7tlkMqjUTw%22%2C%22flow%22%3Atrue%7D%7D)
+# ConspiracyAI 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vg2Q2fmFKZb7tlkMqjUTw%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wonder why flat earthers think the way they do? How about people who distrust the CIA or Hollywood? Well now you can ask just about anything (with an exception to pizzagate sorry I tried) and you will be told about whistleblowers, cover-ups, connected conspiracies and much more.
 
 v1

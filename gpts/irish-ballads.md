@@ -1,6 +1,6 @@
 
-[![Irish Ballads](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)]()
-# Irish Ballads 
+[![Irish Ballads](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M5uXr_iutxNjA4eWumTJy%22%2C%22flow%22%3Atrue%7D%7D)
+# Irish Ballads | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M5uXr_iutxNjA4eWumTJy%22%2C%22flow%22%3Atrue%7D%7D)
 Provide me the most traditional and informative irish, English and Scottish ballads. The selected ballads must have been recorded by established bands, examples of which are "The Dubliners" "Planxty" "Wolfe Tones". Please use the songs of Ewan MaColl as a source.
 
 

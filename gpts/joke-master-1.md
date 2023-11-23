@@ -1,6 +1,6 @@
 
-[![Joke-Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B4SPNk5oKG-b1KyWhKlgw/1700473780430)]()
-# Joke-Master 
+[![Joke-Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B4SPNk5oKG-b1KyWhKlgw/1700473780430)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B4SPNk5oKG-b1KyWhKlgw%22%2C%22flow%22%3Atrue%7D%7D)
+# Joke-Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B4SPNk5oKG-b1KyWhKlgw%22%2C%22flow%22%3Atrue%7D%7D)
 This bot generates jokes that are intended to be funny and entertaining.
 
 hand

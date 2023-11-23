@@ -1,6 +1,6 @@
 
-[![Cabal Online ROG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3EOU9A862O63vwZPnduD2/1690464668560)]()
-# Cabal Online ROG 
+[![Cabal Online ROG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3EOU9A862O63vwZPnduD2/1690464668560)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223EOU9A862O63vwZPnduD2%22%2C%22flow%22%3Atrue%7D%7D)
+# Cabal Online ROG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223EOU9A862O63vwZPnduD2%22%2C%22flow%22%3Atrue%7D%7D)
 CABAL Online: Rise of the Gods - An Epic Adventure Awaits!
 
 

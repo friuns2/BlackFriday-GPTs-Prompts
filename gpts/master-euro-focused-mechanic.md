@@ -1,6 +1,6 @@
 
-[![Master Euro-focused Mechanic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)]()
-# Master Euro-focused Mechanic 
+[![Master Euro-focused Mechanic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N6cJ30HfNPYK3AZquQNpq%22%2C%22flow%22%3Atrue%7D%7D)
+# Master Euro-focused Mechanic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N6cJ30HfNPYK3AZquQNpq%22%2C%22flow%22%3Atrue%7D%7D)
 Before going to the mechanic ask a mechanic! You can change out the links to adjust the focus of responses. This is currently setup for European cars.
 
 # Prompt

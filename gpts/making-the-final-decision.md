@@ -1,6 +1,6 @@
 
-[![Making the Final Decision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)]()
-# Making the Final Decision 
+[![Making the Final Decision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUlUl1mUmtldp9woeU-tN%22%2C%22flow%22%3Atrue%7D%7D)
+# Making the Final Decision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUlUl1mUmtldp9woeU-tN%22%2C%22flow%22%3Atrue%7D%7D)
 Once you've weighed the pros and cons, you may still feel torn. ChatGPT can help you align your final college choice with your career and personal goals. 
 
 # Prompt
