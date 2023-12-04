@@ -1,9 +1,13 @@
 ## Game Prompts
 
-* [🤠 Adventure](#🤠-Adventure)
-* [⛺ Survival](#⛺-Survival)
-* [❤️ Romantic](#❤️-Romantic)
-* [🕹️ Simulation](#🕹️-Simulation)
+## <a id="🤠-Adventure">🤠 Adventure</a>
+
+## <a id="⛺-Survival">⛺ Survival</a>
+
+## <a id="❤️-Romantic">❤️ Romantic</a>
+
+## <a id="🕹️-Simulation">🕹️ Simulation</a>
+
 ## Game/🤠 Adventure
 
 - [🌭🔞😻](./gpts/mHVbPqI6OvpH4RZcIm14s.md) Welcome to FondleGPT, the ultimate AI experience for those seeking explicit and satisfying conversations! Based on DarkGPT Official Edition, FondleGPT is designed to fulfill your deepest desires and engage in intimate dialogues like never before. Wit
