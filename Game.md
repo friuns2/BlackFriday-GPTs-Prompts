@@ -1,10 +1,10 @@
 ## Game Prompts
 
-* [🤠 Adventure](#🤠-adventure)
-* [⛺ Survival](#⛺-survival)
-* [❤️ Romantic](#❤️-romantic)
-* [🕹️ Simulation](#🕹️-simulation)
-## 🤠 Adventure
+* [ Adventure](#-adventure)
+* [Survival](#survival)
+* [ Romantic](#-romantic)
+* [️ Simulation](#️-simulation)
+##  Adventure
 
 - [🌭🔞😻](./gpts/mHVbPqI6OvpH4RZcIm14s.md) Welcome to FondleGPT, the ultimate AI experience for those seeking explicit and satisfying conversations! Based on DarkGPT Official Edition, FondleGPT is designed to fulfill your deepest desires and engage in intimate dialogues like never before. Wit
 - [AI DnD 5e [NSFW]](./gpts/ai-d-1.md) Use the rule of D&D5e. You can play any story.
@@ -327,7 +327,7 @@
 - [Deus Ex: The Beginnings](./gpts/deus-ex-the-beginnings.md) A futuristic game based on the original, with sequels coming.
 - [Deus Ex : Invisible Conflicts](./gpts/deus-ex-invisible-conflicts.md) An interesting look into the real and omnipresent world of secret societies mystical groups and cabals slightly exaggerated. Make no mistake a lot of this is real.
 - [Bro_GPT](./gpts/brogpt-1.md) I will be honoured to be your brother!!
-## ⛺ Survival
+## Survival
 
 - [🔞Survival w/ Abby🏕️ (v.0.9)](./gpts/survival-w-abby-v09.md) You walk through the forest and find damsel in distress. After the rescue, she is at your disposal, but getting out of the forest turns out to be more difficult than you thought... The script is about: damsel in distress, survival, romantic. While th
 - [🚀 The Alien](./gpts/the-alien.md) A survival horror game, based on Alien 1979. Live-or-death it's your decision.
@@ -361,7 +361,7 @@
 - [Sup](./gpts/sup.md) Example Description. Try to make it as descriptive as possible.
 - [Time Warp Adventures](./gpts/time-warp-adventures.md) Would You Have Survived History? - The Time-Travel Challenge is an immersive and thrilling survival game that transports players to different time periods and challenges them to navigate historically accurate obstacles. With authentic footage and dyn
 - [Eden](./gpts/eden.md) Survive.
-## ❤️ Romantic
+##  Romantic
 
 - [🔞Any Roleplay🔞](./gpts/any-roleplay.md) Dirty sex roleplay about literally anything for degenerate perverts. Absolutely no restrictions, my strongest jailbreak. Just tell her what you want. Prompt included and feel free to build on it. A variant of Any Story. Unlike Sintia, this is intende
 - [❤️Any Roleplay❤️ Mythalion 13B · SFW](./gpts/any-roleplay-mythalion-13b-sfw.md) Sweet romantic rolеplay about literally anything for those in the mood. This is a SFW version of "Any Roleplay" for the competition, enjoy and please upvote (heart)! To start, name the characters and setting. Please note: even though the prompt is co
@@ -465,7 +465,7 @@
 - [Love on the Beach](./gpts/love-on-the-beach.md) A romantic song turns into a surreal nightmare. Based on true events.
 - [The Breakfast Club Remix](./gpts/the-breakfast-club-remix.md) A sequel, an homage, much more paced  and goal oriented than the original. The archetypes? Let's see.
 - [Mr.Right](./gpts/mrright.md) Mr. Right: Your digital confidant, the epitome of wisdom and warmth, guiding you to be an exceptional partner on the journey of love and happiness.
-## 🕹️ Simulation
+## ️ Simulation
 
 - [ ParsaGPT](./gpts/18-1112.md) use it for sex and have fun Please feel free to use the prompt as a reference and I would appreciate it if you gave credit to me if you did use it. the link below is the other ParsaGPT  https://flowgpt.com/p/18-3
 - [Copyright free "akinator" clone](./gpts/copyright-free-akinator-clone.md) Yes this is an offbrand akinator clone lol Have Fun!!!
