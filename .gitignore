@@ -1,3 +1,5 @@
 data/
 README.md
 update.mjs
+db/
+db.mjs
