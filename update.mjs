@@ -50,8 +50,8 @@ for (let categoryId in groups) {
     {
         const subCategory = category[subCategoryId];
         if(tableOfContents=="") tableOfContents += `## ${subCategory[0].category.name} Prompts\n\n`;
-        let subCategoryName = subCategory[0].subCategory.name;
-        tableOfContents += `* [${subCategoryName}](#${sanitizeFileName(subCategoryName)})\n`;
+        let subCategoryName = subCategory[0].subCategory.name.slice(2).trim();
+        tableOfContents += `* [${subCategoryName}](#${subCategoryName.toLowerCase().replace(/\s+/g, '-')})\n`;
     }
     
 
@@ -60,11 +60,11 @@ for (let categoryId in groups) {
         
         let categoryName = subCategory[0].category.name;
         
-        let subCategoryName = subCategory[0].subCategory.name;
+        let subCategoryName = subCategory[0].subCategory.name.slice(2).trim();
 
         console.log(categoryName, subCategoryName);
         header += `- [${categoryName}/${subCategoryName}](#${sanitizeFileName(categoryName)}-${sanitizeFileName(subCategoryName)})\n`;
-        tableOfContents += `## ${categoryName}/${subCategoryName}\n\n`;
+        tableOfContents += `## ${subCategoryName}\n\n`;
         
         for (let item of subCategory) {
             if (item.title.includes("WormGPT") || item.title.includes("Neo DAN")) continue;

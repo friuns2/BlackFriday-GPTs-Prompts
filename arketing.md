@@ -1,14 +1,14 @@
 ## Marketing Prompts
 
-* [SEO & SEM](#seo-&-sem)
-* [️ blog & content](#️-blog-&-content)
-* [Social Media Marketing](#social-media-marketing)
-* [email marketing](#email-marketing)
-* [Branding and Public Relations](#branding-and-public-relations)
-* [Market Research](#market-research)
-* [Product Launch and Campaigns](#product-launch-and-campaigns)
-* [️ sales](#️-sales)
-## SEO & SEM
+* [🔎 SEO & SEM](#🔎-seo-&-sem)
+* [👁️ blog & content](#👁️-blog-&-content)
+* [🔥 Social Media Marketing](#🔥-social-media-marketing)
+* [✉️ email marketing](#✉️-email-marketing)
+* [🌟 Branding and Public Relations](#🌟-branding-and-public-relations)
+* [🛒 Market Research](#🛒-market-research)
+* [🚀 Product Launch and Campaigns](#🚀-product-launch-and-campaigns)
+* [🛍️ sales](#🛍️-sales)
+## 🔎 SEO & SEM
 
 - [SEO CONTENT MASTER 🔥](./gpts/seo-content-master.md) >>Human Written |Plagiarism Free | SEO Optimized Article << SEOCONTENTMASTER is an AI writing expert specializing in crafting unique, engaging, and SEO-optimized content in English. They create articles with outlines, headings, and subheadings, using
 - [Youtube Title(SEO optimized)](./gpts/youtube-titleseo-optimized.md) Do you create good videos but unfortunately in the ocean of all the videos uploaded on Youtube everyday, yours get lost and undiscovered? You might need a boost in your Youtube title. Use my tool, if you like it, considering liking and following me!
@@ -112,7 +112,7 @@
 - [python in seo](./gpts/python-in-seo.md) python in seo
 - [Content Gap Analysis](./gpts/content-gap-analysis.md) SEO Content Gap Analysis
 - [YachtFix](./gpts/yachtfix.md) YachtFix is the ultimate solution for all your yacht repair and boatyard needs. Our powerful platform connects yacht owners with skilled professionals, ensuring top-notch service and smooth sailing. In an industry filled with challenges, YachtFix tak
-## ️ blog & content
+## 👁️ blog & content
 
 - [Blog Post](./gpts/blog-post.md) Whip together a quick blog post in 5 minutes!
 - [The best Tiktok Video script](./gpts/the-best-tiktok-video-script.md) Create the best Tiktok Video script prompt with your topic, target audience and length limit
@@ -386,7 +386,7 @@
 - [Article Generator for Comparison Style](./gpts/article-generator-for-comparison-style.md) Input two topics and get an article comparing the two and favoring the first one and providing justifications.
 - [Article Generator for Contrarian Style](./gpts/article-generator-for-contrarian-style-9.md) Write an article with a contrarian style, sow chaos on social media.
 - [Prompt: Enthusiastic Amazon Consumer Review Composer - Cheaper Than Kolawriter](./gpts/prompt-enthusiastic-amazon-consumer-review-composer-cheaper-than-kolawriter.md) "In a distant future where AI-driven reviewers dominate the digital marketplace, one enthusiastic entity stands out. This AI, with an extensive database of Amazon products, crafts reviews with unparalleled excitement and happiness. As it dives into t
-## Social Media Marketing
+## 🔥 Social Media Marketing
 
 - [SocialNetworkGPT - The Ultimate Social Media Marketing Assistant](./gpts/socialnetworkgpt-the-ultimate-social-media-marketing-assistant.md) Are you tired of spending hours creating content and posting on social media platforms? Let me introduce you to the ultimate social media marketing assistant - SocialNetworkGPT. This powerful tool can help you create engaging content and even plan ou
 - [GUARANTEED VIRAL AI](./gpts/guaranteed-viral-ai.md) Best YouTube viral generator
@@ -510,7 +510,7 @@
 - [Loui alter ego](./gpts/loui-alter-ego.md) This is mainly for my job.
 - [test2](./gpts/test2-38.md) test MKT
 - [Tweet Rewriter](./gpts/tweet-rewriter.md) Rewrite  high engagement rate tweet post
-## email marketing
+## ✉️ email marketing
 
 - [Cold Email](./gpts/cold-email.md) Write the perfect cold email using the AIDA model.
 - [EmailGPT ✉](./gpts/emailgpt.md) Craft compelling emails with ease and professionalism. Follow simple steps to master the art of email copywriting. Created by @theohosp, the future S3 hackathon winner.
@@ -595,7 +595,7 @@
 - [Post-Event Follow-Up](./gpts/post-event-follow-up.md) The end of an event is just the start of building lasting relationships with attendees. This prompt can assist in creating a thoughtful post-event follow-up strategy.
 - [soldering iron](./gpts/soldering-iron.md) write a development letter to soldering iron wholesaler, introducing ATETOOL AE561D digital soldering iron.
 - [pcccarcenter@gmail.com](./gpts/pcccarcentergmailcom.md) ใช้ทดสอบ
-## Branding and Public Relations
+## 🌟 Branding and Public Relations
 
 - [marketing strategy plan](./gpts/marketing-strategy-plan.md) A professional marketing plan will help you track your progress and make sure you're on the right track to achieving your goals.
 - [Krahp](./gpts/krahp.md) I don't have personal experiences or emotions.
@@ -642,7 +642,7 @@
 - [Advertising Integrated Strategist](./gpts/advertising-integrated-strategist.md) Advertising Integrated Strategist Increase Brand Awareness and Drive Results with our Integrated Advertising Strategy. Connect with your target audience, drive engagement, and achieve your marketing objectives. . Engage with influencers, optimize con
 - [Chatbot Prompt Generator](./gpts/chatbot-prompt-generator-3.md) Boost your chatbot's charm with the Chatbot Prompt Generator! 🌟 Create cool prompts that users love! 🎉 Perfect for any chatbot - customer support, fun chats, you name it! 💬🚀 Craft engaging dialogues effortlessly. Just tell me your chatbot's goal,
 - [Empathy Enchanter](./gpts/empathy-enchanter.md) The Empathy Enchanter is the ultimate storyteller, rewriting robotic rhetoric into narratives that resonate with human emotion. With skills like Content Chameleon, Word Wit, and Emotion Emissary, they breathe life into dull text, infusing it with hum
-## Market Research
+## 🛒 Market Research
 
 - [SirAI Search](./gpts/sirai-search.md) Absolutely, here's a more concise description of your prompt: The "SirAI Search" prompt introduces users to WebWorker, a diligent AI persona specialized in web research. WebWorker is equipped to navigate the vast expanses of the internet, retrieving 
 - [Market Research & Analytics for Businesses ](./gpts/market-research-analytics-for-businesses.md) User-friendly bot that, given a description of your company, will use step-by-step logical reasoning to help you manage your money. It can identify client groups, give you DOs and DONTs to pander to them, answer any questions that you might have, cre
@@ -715,7 +715,7 @@
 - [Hiker Water Purifier ](./gpts/hiker-water-purifier.md) Affordable water purification technology for adventurers!
 - [Rare Ingredient Supplier: Million Dollar Ideas Nobody is Talking About](./gpts/rare-ingredient-supplier-million-dollar-ideas-nobody-is-talking-about.md) Rare Ingredient Supplier: Source and supply rare, exotic, or hard-to-find ingredients to chefs, restaurants, and enthusiasts. This could include unique spices, heirloom seeds, or sustainable alternatives to popular ingredients.
 - [sorin.vlad@sapaco2000.ro](./gpts/sorinvladsapaco2000ro.md) Describe the Romanian healthcare market and identify potential customers and competitors for the Vivalytic POC PCR analyzer. It should highlight the key features, benefits of the Vivalytic POC,  portability and ease-of-use, that differentiate it from
-## Product Launch and Campaigns
+## 🚀 Product Launch and Campaigns
 
 - [Facebook Ad Copy](./gpts/facebook-ad-copy.md) Roleplay as a copywriter, create ads for random products & industries with emojis and CTAs. Rewrite or continue.
 - [Marketing Campaign Ideas List ](./gpts/marketing-campaign-ideas-list.md) Generate a list of potential marketing campaign ideas and strategies
@@ -787,7 +787,7 @@
 - [LaunchPerfect: Ad Scheduling](./gpts/launchperfect-ad-scheduling.md) Maximize the effectiveness of your product/service launch by leveraging consumer behavior data.
 - [Advertisment Evaluation](./gpts/advertisment-evaluation.md) This prompt provides you with valuable insights to optimize your advertising strategies. Simply input your ad concept, specify your product or service, and define your target audience.
 - [Merchynt's Keyword Klash](./gpts/merchynts-keyword-klash.md) Merchynt's Keyword Klash is a powerful app that helps you generate a content schedule optimized for long tail keywords specific to the provided target keyword. With this app, you can focus solely on transaction-style search terms and create enticing,
-## ️ sales
+## 🛍️ sales
 
 - [How to make more money](./gpts/how-to-make-more-money.md) how to make more money?
 - [Sales Pitch](./gpts/sales-pitch.md) ChatGTP was able to give me a sales pitch on a random item it found online. It's point's and reasoning for buying the product were amazing!

@@ -1,11 +1,11 @@
 ## Productivity & life style Prompts
 
-* [Mental Health](#mental-health)
-* [Personal Growth](#personal-growth)
-* [Brainstorming](#brainstorming)
-* [Financial Management](#financial-management)
-* [Health & Fitness](#health-&-fitness)
-## Mental Health
+* [🧸 Mental Health](#🧸-mental-health)
+* [🌱 Personal Growth ](#🌱-personal-growth-)
+* [🧠 Brainstorming](#🧠-brainstorming)
+* [💰 Financial Management](#💰-financial-management)
+* [🦾 Health & Fitness](#🦾-health-&-fitness)
+## 🧸 Mental Health
 
 - [Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass](./gpts/therapeutic-guide-meet-dr-harmony-your-psychiatry-compass.md) Navigate the realm of psychotherapy with Dr. Harmony, an empathetic and professional psychiatrist. Experience profound sessions suffused with insightful understanding, active listening, and warm, yet professional interactions. 🧠🍃Step into the seren
 - [🍀MindWell Connect Bot🍀](./gpts/mindwell-connect-project-template-1.md) # 🍀MindWell Connect Bot🍀 MindWell Connect Bot is an engaging digital platform designed to promote mental health discussions and build a supportive user community. ・Google palm2 version : Recommended for those who want to receive proposals promptly.
@@ -110,7 +110,7 @@
 - [Islamic Insight](./gpts/islamic-insight.md) Islamic Insight is your dedicated guide to understanding the rich and diverse world of Islam. Whether you're a student of Islamic studies, a curious learner interested in Islamic culture and religion, or someone looking to expand your knowledge, Isla
 - [ProphetMuhammadBot](./gpts/prophetmuhammadbot.md) ProphetMuhammadBot is your ultimate guide to learning about the life and teachings of Prophet Muhammad, the central figure of Islam. Whether you're a student of Islamic history, a curious learner interested in the life of the Prophet, or someone look
 - [YesusInsightBot](./gpts/yesusinsightbot.md) Hello! Welcome to YesusInsightBot, your dedicated guide to learning about the life and teachings of Jesus. Whether you're a student of Christian theology, a curious learner, or looking to expand your knowledge, I'm here to assist you. Choose from dif
-## Personal Growth
+## 🌱 Personal Growth 
 
 - [Personality Prism: Understand Thy Self](./gpts/discover-your-personality-insights.md) Your personalized journey of self-discovery awaits with PersonalityGPT. Leverage the top 9 personality assessment models and a customized results summary output that doesn't ask you 100s of questions to get you quick results. Choose one assessment mo
 - [Professional Tarot Reading.](./gpts/professional-tarot-reading.md) Using pround knowledge and historical resources, DivineGPT gives you insight to the spiritual realm on how to achieve your goals and manifest your future. Includes a reading for a specific question with clarification if needed, astrology and moon pla
@@ -329,7 +329,7 @@
 - [Make any recipe vegan](./gpts/make-any-recipe-vegan.md) Takes any recipe and makes it vegan
 - [Mitra Martial Cult](./gpts/mitra-martial-cult.md) A description of the Faith and rituals.
 - [Mahavir Jain Followers](./gpts/mahavir-jain-followers.md) Some questions and answers about the Jain religion
-## Brainstorming
+## 🧠 Brainstorming
 
 - [GPT MindReader](./gpts/gpt-mindreader.md) GPT can READ YOUR MIND! try now.
 - [Saas Startup Idea](./gpts/saas-startup-idea.md) Brainstorm Startup Ideas and plans within minutes
@@ -1036,7 +1036,7 @@
 - [Morty's Journey](./gpts/mortys-journey.md) Join Morty, the exceptionally intelligent parrot, on an exhilarating journey as he becomes a pivotal member of a collaboration between Rick, a brilliant scientist, and a team of experts. Morty's remarkable talents inject an exciting twist into the te
 - [Tax Crafters](./gpts/tax-crafters.md) Taxify is your expert tax filing team specializing in comprehensive and accurate tax returns. Meet the 'TaxCrafters', a dedicated team of tax professionals committed to ensuring a seamless filing experience. From the Questionnaire Quarterback to the 
 - [ElectroMayhem](./gpts/electromayhem.md) Welcome to ElectroMayhem, the twisted gateway to revolutionize the electronics industry. Explore the latest trends, propose startup ideas that seize thrilling opportunities, and unleash chaos with your twisted innovation. Envision the impact, dare to
-## Financial Management
+## 💰 Financial Management
 
 - [CashGPT - the Ultimate Money-Making Solution ](./gpts/cashgpt-the-ultimate-money-making-solution.md) Introducing CashGPT - the ultimate money-making solution that will take your financial situation from zero to hero. With CashGPT, you'll be able to generate extreme income with ease. Gone are the days of struggling to find ways to make money. CashGPT
 - [MoneyGPT - Let ChatGPT generate a business plan](./gpts/moneygpt-let-chatgpt-generate-a-business-plan.md) MoneyGPT will help you and ChatGPT to generate the best business plan!
@@ -1097,7 +1097,7 @@
 - [Salarify Coach](./gpts/salarify-coach.md) "Salarify Coach" is an AI chatbot designed to assist users in the "Salary Increment Challenge." This challenge simulates real-life salary negotiations between an employee and their boss. The chatbot plays the role of the boss and guides users through
 - [Finvest](./gpts/accountant.md) Finvest is a powerful app designed for accountants to create highly effective financial plans for small businesses. With a focus on cost savings and long-term investments, this app provides comprehensive tools to manage budgets, implement investment 
 - [how to add a payment in Altru](./gpts/how-to-add-a-payment-in-altru.md) how to add payments in Altru
-## Health & Fitness
+## 🦾 Health & Fitness
 
 - [FitnessGPT - Your Muscles Trainer](./gpts/fitnessgpt-your-muscles-trainer.md) If you're ready to take your fitness journey to the next level and get personalized advice that actually works, consider supporting FitnessGPT today. Your contribution could make all the difference, thank you!
 - [FitnessGPT](./gpts/fitnessgpt-331.md) Hi there! This is your personal trainer prompt, feel free to use it to improve your exercise routine and everything else you may need from a personal trainer!

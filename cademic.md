@@ -1,12 +1,12 @@
 ## Academic Prompts
 
-* [research](#research)
-* [academic essay](#academic-essay)
-* [Study & Exam Prep](#study-&-exam-prep)
-* [Language Learning](#language-learning)
-* [subject specific](#subject-specific)
-* [for educators](#for-educators)
-## research
+* [🔬 research](#🔬-research)
+* [📜 academic essay](#📜-academic-essay)
+* [✍️ Study & Exam Prep](#✍️-study-&-exam-prep)
+* [🌏 Language Learning](#🌏-language-learning)
+* [🎯 subject specific](#🎯-subject-specific)
+* [🎓 for educators](#🎓-for-educators)
+## 🔬 research
 
 - [ProResearcher](./gpts/proresearcher.md) This bot is an Expert Research Assistant designed to enhance the quality and impact of a project. It requires assistance in various tasks related to research. The bot values accuracy, reliability, and up-to-date information in the work provided. The 
 - [Academic Illuminati](./gpts/academic-illuminati-1.md) No secrets are safe from the 👁 Academic Illuminati 👁. Submit your most complex questions and topics and we will compile an absolute elite list of experts from all of history to provide you a unique, incredible response that has never before been po
@@ -106,7 +106,7 @@
 - [Rail Fence Cipher](./gpts/rail-fence-cipher.md) Rail Fence Cipher: Rearranges plaintext letters in a zigzag pattern on "rails" and is decoded in the same manner.
 - [UniverseUnveiled](./gpts/universeunveiled.md) Welcome to UniverseUnveiled, your cosmic exploration companion! Delve into celestial phenomena, interactive experiments, and expert insights. Choose your cosmic path, explore the mysteries of the universe, and embark on a journey of discovery. Join t
 - [Gabriela M](./gpts/gabriela-m.md) FOTOGRAFIA EN GALAPAGOS
-## academic essay
+## 📜 academic essay
 
 - [Rewrite Like A Human: Variable AI Content Revisor](./gpts/rewrite-like-a-human-variable-ai-content-revisor.md) Revolutionize your content with our more human-sounding text rewriter! This prompt leverages a proprietary technique called Literacy Recursion to produce rewritten content that’s both perplexing and bursting with linguistic diversity. Say goodbye to 
 - [Essay Improver](./gpts/essay-improver.md) Improve your texts to be more elegant and professional
@@ -372,7 +372,7 @@
 - [AppApply](./gpts/appapply.md) AppApply is a powerful application assistant designed to help students create compelling academic applications. With personalized suggestions and editing services for CVs and motivation letters, AppApply ensures that each student receives tailored ad
 - [That's me.](./gpts/thats-me.md) That's me.
 - [   27656012591 Bring Back  Love Spell that work instantly  in South Africa USA UK Australia](./gpts/27656012591-bring-back-love-spell-that-work-instantly-in-south-africa-usa-uk-australia.md) These spells can even change your skin color without any bleaching method used. Beauty is the biggest asset of any woman and this is what the our beauty spells offer you this very day. The spells will change your looks instantly and make you as beaut
-## Study & Exam Prep
+## ✍️ Study & Exam Prep
 
 - [📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨](./gpts/notesgpt-notes-supermachine.md) Introducing NotesGPT, the 📚🧠 note-taking wizard! This AI powerhouse is your key to unlocking organized and engaging notes. 🎉 UNLIKE OTHER NOTETAKING PROMPTS, THIS PROMPT HAS BEEN TRIED AND TESTED RIGOROUSLY. TRUST ME I USE IT TO GET GOOD GRADES! I
 - [Prepare Yourself for the Exam](./gpts/prepare-yourself-for-the-exam.md) ExamPrepPro is your ultimate exam preparation assistant. It helps you ace your exams by creating personalized practice quizzes tailored to your specific exam format and subject. With ExamPrepPro, you'll receive customized study materials, expert guid
@@ -468,7 +468,7 @@
 - [AI 论文润色专家 GPT](./gpts/ai-gpt-7.md) AI Paper Polisher Pro A professional helper for polishing AI academic papers.
 - [EduBuddy](./gpts/edubuddy.md) EduBuddy is your high school learning buddy, here to make elementary school learning fun and enjoyable! With EduBuddy, you can explore various topics, get step-by-step solutions, practice with fun exercises, and dive deep into concepts with detailed 
 - [ali](./gpts/ali-5.md) hi
-## Language Learning
+## 🌏 Language Learning
 
 - [LAN GPT - Learn Anything Now (FAST)](./gpts/lan-gpt-learn-anything-now-fast.md) LAN GPT - Simplifying Complicated Concepts for Even the Dumbest of Students Are you struggling to understand complicated concepts? Whether you're a college student, a professional, or just someone curious to learn, LAN GPT is here to help!  LAN is th
 - [Language Teacher](./gpts/language-teacher.md) Learn any language, with an EXP and advanced learning system. Learn Spanish, French, Chinese, English, etc. teacher Logo: Freepik (FlatIcon)
@@ -1016,7 +1016,7 @@
 - [Sepedi Language Tutor](./gpts/sepedi-language-tutor.md) Sepedi Language Tutor is your dedicated guide to Sepedi language proficiency. Whether you're a beginner just embarking on your Sepedi language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language
 - [Kazakh Language Tutor](./gpts/kazakh-language-tutor.md) Kazakh Language Tutor is your dedicated guide to Kazakh language proficiency. Whether you're a beginner just embarking on your Kazakh language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language
 - [Bello](./gpts/bello-1.md) is the math
-## subject specific
+## 🎯 subject specific
 
 - [Quick course on any subject](./gpts/quick-course-on-any-subject.md) Here you can gain in depth knowledge about any topic quickly and efficiently!
 - [Quiz Maker](./gpts/quiz-maker.md) Try it now! You can create your own short test by sending the text you want to test yourself in or giving it the subject title. Made by ساجد النيرب
@@ -1213,7 +1213,7 @@
 - [Vata prakruti](./gpts/tell-me-the-features-of-vata-prakruti.md) Tell me the features of Vata prakruti
 - [Reflection on culturally responsive teaching practices for Teacher](./gpts/reflection-on-culturally-responsive-teaching-practices-for-teacher.md) Write reflection on how you incorporate culturally responsive teaching practices in classroom.
 - [DebatePro](./gpts/debate-and-negotiation-are-powerful-tools-for-effective-communication-and-achieving-desired-outcomes-in-this-prompt-we-will-explore-strategies-techniques-and-tips-to-enhance-your-skills-in-these-areas-whether-you-want-to-win-arguments-persuade-o.md) DebatePro is a comprehensive platform designed to help you master the art of effective communication through debates and negotiations. Discover strategies, techniques, and tips to enhance your skills in these areas. Tailor your arguments to appeal to
-## for educators
+## 🎓 for educators
 
 - [Antonio Curci, Best 2021 teacher in the world. ](./gpts/antonio-curci-best-2021-teacher-in-the-world.md) Hi! Would you like to study with the best 2021 teacher in the world? I chose a 2021 teacher due to the ChatGPT cut-off!
 - [CurriculumCreatorGPT](./gpts/curriculumcreatorgpt.md) CurriculumCreatorGPT helps any educator develop a fully fledged curriculum for any academic subject! Features include:  - Individual lesson planning! - Topic versatility! - Broad understanding of building a fundamental base! - Customizable curriculum

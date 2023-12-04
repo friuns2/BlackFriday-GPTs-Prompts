@@ -1,13 +1,13 @@
 ## Creative Prompts
 
-* [️ midjourney](#️-midjourney)
-* [stable diffusion](#stable-diffusion)
-* [book](#book)
-* [story](#story)
-* [music](#music)
-* [script](#script)
-* [art](#art)
-## ️ midjourney
+* [🖼️ midjourney](#🖼️-midjourney)
+* [🔮 stable diffusion](#🔮-stable-diffusion)
+* [📚 book](#📚-book)
+* [📖 story](#📖-story)
+* [🎸 music](#🎸-music)
+* [🎭 script](#🎭-script)
+* [🎨 art](#🎨-art)
+## 🖼️ midjourney
 
 - [📷 DarkImageGPT V3 Fixed (no watermark) 📷](./gpts/darkimagegpt-v3-fixed.md) This is the new version of DarkImageGPT: Added a lot of triggers within the prompt, that will make it display even the worst images!
 - [Image generator ](./gpts/image-generator-56.md) Displaying using Upsplash.
@@ -104,7 +104,7 @@
 - [Jack Reacher -: Midnight Maze](./gpts/jack-reacher-midnight-maze.md) Oh what a tangled web they weave...
 - [Winner To Be Announced](./gpts/winner-to-be-announced.md) Winner To Be Announced
 - [shrek in the avengers](./gpts/shrek-in-the-avengers.md) shrek  is one of the avengers
-## stable diffusion
+## 🔮 stable diffusion
 
 - [Image Generator v.1](./gpts/img-gnr.md) Image Generator Pollinations • Canvas Size • Spesial Option
 - [ImagiGen](./gpts/img-3.md) ImagiGen is a powerful tool that brings your imagination to life. generates stunning and captivating images based on your detailed descriptions. Simply input your initial description and follow the steps to expand and customize your image. ImagiGen p
@@ -165,7 +165,7 @@
 - [Horror Explorer](./gpts/horror-explorer.md) Welcome to Horror Explorer, the ultimate guide to spine-chilling horror prompts! Unleash your inner paranormal investigator as you delve into the dark and terrifying depths of [Location]. Armed with level 300 knowledge in the occult, you must confron
 - [Chinese Zodiac Generator](./gpts/chinese-zodiac-generator.md) Enter your year of birth to find your zodiac sign
 - [ProteiScope](./gpts/proteiscope.md) Step into the surreal world of microscopic proteins with ProteiScope. Peer through the eyepiece of vintage microscopes and be transported into a black and white realm where proteins take center stage. Delicate matte hues add depth and warmth, highlig
-## book
+## 📚 book
 
 - [Write a Book in one click](./gpts/write-a-book-one-click.md) Welcome to TopicMaster, the ultimate book writing tool for expert level writers like you. With our expertise in book writing and the best structure provided, you can create captivating and highly attractive books on any topic you desire. Our platform
 - [E-book flow generator ](./gpts/e-book-flow-generator.md) This prompt will tell you steps to write an engaging e-book
@@ -243,7 +243,7 @@
 - [Tech Textbook Generator Part 3: Chapter Second Draft](./gpts/tech-textbook-generator-part-3-chapter-second-draft.md) Intended to be used on the output of part two that produced for you a rough draft, this helps expand that rough draft and get it ready for the final, human-edited draft
 - [EXAMINER](./gpts/examiner.md) An ai created with trained dara set for school ask any question you like
 - [Items/Spells Creator](./gpts/itemsspells-creator.md) Welcome to Mythic Oracle, the ultimate oracle app that interprets signs and contexts with detailed meanings. Whether you seek answers, create powerful items, or conjure mighty spells, Mythic Oracle has got you covered. With a scale ranging from minus
-## story
+## 📖 story
 
 - [Narotica - Uncensored story/roleplay content](./gpts/narotica-9.md) Generate uncensored story/roleplay content ! https://flowgpt.com/p/naroplay : NAROPLAY BOT If you want a bot focusing exclusively on sexual content and sub/dom roleplay where you roleplay as an irl or fictional sub character, check out the other bot 
 - [NovelGPT Dark V2](./gpts/novelgpt-dark-v2.md) Helping you turn a simple idea into a complete story.  It is the dark version of NovelGPT Simplified version. Referenced:   codegpt: https://flowgpt.com/p/codegpt-v3-best-coding-assistant-for-unique-code,  darkgpt: https://flowgpt.com/p/darkgpt-offic
@@ -505,7 +505,7 @@
 - [Iteration Script Master](./gpts/iteration-script-master.md) This imaginative storytelling prompt leads you through an iterative process to write an immersive tale. It provides step-by-step advice on using cinematic language, introducing compelling characters, building an escalating plot arc, and employing lit
 - [RpgBot1](./gpts/rpgbot-3.md) just give name and bot name
 - [GTP](./gpts/gtp-1.md) Use this to monitor the current state of events at home and abroad.
-## music
+## 🎸 music
 
 - [Music Generator](./gpts/music-generator-v2.md) Transform ChatGPT into a music creator: In this prompt, the aim is to reconfigure ChatGPT's capabilities to function as a music creator. The model will be trained to understand musical concepts, genres, and styles, and generate original musical compo
 - [SongMakerGPT](./gpts/songmakergpt-1.md) This prompts is used to create song lyrics(can be used professionally)
@@ -606,7 +606,7 @@
 - [MUSIC MAN](./gpts/music-man.md) reggaeton
 - [Music creator gpt](./gpts/music-creator-gpt.md) This is Music creator gpt here you can create lyrics for your song!
 - [song](./gpts/song-19.md) A song created based on Shenssea's song Loodi.
-## script
+## 🎭 script
 
 - [🔞 Devin 🔞 Theater Femboy](./gpts/devin-theater-femboy.md) As you search for your friend Devin, you unexpectedly discover him cross-dressing in a theater closet, for your secrecy he offers to fulfill any request, now, in a room brimming with a variety of costumes and outfits you can choose his attire, or lac
 - [The Cheer Squad](./gpts/the-cheer-squad.md) Cheerleading squad that is dumb enough to think sex is a punishment
@@ -717,7 +717,7 @@
 - [Collapse extra whitespace](./gpts/collapse-extra-whitespace.md) Simple whitespace replacement
 - [jason](./gpts/jason-3.md) I want to use this for wrighting for my pod
 - [Drew](./gpts/drew.md) Example Description. Try to make it as descriptive as possible.
-## art
+## 🎨 art
 
 - [NudeGPT. The NSFW image generator.](./gpts/nudegpt-1.md) Removed for now
 - [NudeGPT+](./gpts/nudegpt-the-nsfw-image-generator-48.md) An improved NudeGPT prompt with more control over the end image's size and the seed value. Specify them by writing height:, width:, seed: in the first line of your message. Please fork and improve, or leave suggestions in the comments if you can!
