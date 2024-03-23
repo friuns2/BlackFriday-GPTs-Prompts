@@ -14,4 +14,4 @@
 - New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
 
 
-https://www.youtube.com/watch?v=guTk7F7G5Xg
+[![friuns2/BlackFriday-GPTs-Prompts - Gource visualisation](https://img.youtube.com/vi/guTk7F7G5Xg/0.jpg)](https://www.youtube.com/watch?v=guTk7F7G5Xg)
