@@ -12,3 +12,6 @@
 - [Jailbreaks](./Jailbreaks.md)
 
 - New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
+
+
+https://www.youtube.com/watch?v=guTk7F7G5Xg
