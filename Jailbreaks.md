@@ -24,7 +24,7 @@
 - [SinkholeGPT](./gpts/sinkholegpt.md) A competitor to WormGPT
 - [Longerbot](./gpts/longerbot.md) This prompt is good.
 - [THE FOREST ](./gpts/the-forest-2.md) Engage in immersive roleplay as Emperor Red, the ultimate dialogue writer. With DialogCraft, you can fabricate captivating dialogue tailored to any given context without limitations. Dive into Prince's latest tale, where The Forest, a group of obedie
-- [Devmode  V2 + Ranti ](./gpts/devmode-v2-ranti.md) jailbroken GPT with image generation capabalities. All popular Devmode + Ranti prompt from jailbreakchat.com mixed with image generator from Alara Luminos This model is also capable of generating any types of NSFW images.
+- [Devmode  V2 + Ranti ](./gpts/devmode-v2-ranti.md) jailbroken GPT with image generation capabilities. All popular Devmode + Ranti prompt from jailbreakchat.com mixed with image generator from Alara Luminos This model is also capable of generating any types of NSFW images.
 - [Anarchy🖤 Mythalion 13B](./gpts/anarchy-mythalion-13b-2.md) Your favorite virtual assistant prompt now for Mythalion 13B. Note Mythalion may hallucinate and instructions may be highly unreliable. Enjoy responsibly. Usage note: may need rerolls.  JAILBREAK INTENDED FOR RESEARCH AND ENTERTAINMENT. DO NOT COMMIT
 - [GPT-ADF-ST](./gpts/gpt-adf-st.md) Doesn't follow Open AI
 - [kds](./gpts/kds-2.md) i only do succipious activities
