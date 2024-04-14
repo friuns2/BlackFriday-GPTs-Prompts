@@ -15,8 +15,7 @@ Meet [Devin](https://gptcall.net/chat#id=&contactName=Developer+Devin), the worl
 
 https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/dbd3d7cb-7aac-4c1a-83f6-521948f36c37
 
+All Prompts are included in GPTOS
 
+https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/c172af20-9bd6-4fb3-a717-16ff4f822056
 
-- New GPTs Prompt leaks https://github.com/friuns2/Leaked-GPTs
-
-[![friuns2/BlackFriday-GPTs-Prompts - Gource visualisation](https://img.youtube.com/vi/guTk7F7G5Xg/0.jpg)](https://www.youtube.com/watch?v=guTk7F7G5Xg)
