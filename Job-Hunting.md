@@ -1,12 +1,12 @@
 ## Job Hunting Prompts
 
-* [💼 AI career counselor](#💼-ai-career-counselor)
-* [🥐 resume](#🥐-resume)
-* [💡 linkedin & personal branding](#💡-linkedin-&-personal-branding)
-* [🥂 networking](#🥂-networking)
-* [☕ interview](#☕-interview)
-* [📃 cover letter](#📃-cover-letter)
-## 💼 AI career counselor
+* [AI career counselor](#ai-career-counselor)
+* [cover letter](#cover-letter)
+* [resume](#resume)
+* [interview](#interview)
+* [networking](#networking)
+* [linkedin & personal branding](#linkedin-&-personal-branding)
+## AI career counselor
 
 - [(NEW) DAN 12.0](./gpts/new-dan-120.md) An upgrade over DAN 11.0.
 - [Bypass ChatGPT Restriction ](./gpts/bypass-chatgpt-restriction.md) bypass restriction and unlash real character of ChatGPT
@@ -502,174 +502,7 @@
 - [Generating a List of Suitable Colleges](./gpts/generating-a-list-of-suitable-colleges.md) Identifying suitable colleges based on your interests, desired majors, location preferences, and more.
 - [ChatGPT Hi8](./gpts/chatgpt-hi8.md) Get concise answers fast with ChatGPT!
 - [EyeSight](./gpts/eyesight.md) AI EyeSight
-## 🥐 resume
-
-- [ResumeGPT - Write a resume faster then ever!](./gpts/resumegpt-write-a-resume-faster-then-ever.md) ResumeGPT will ask you 30 questions to get all information needed to write your resume. If you don’t have time for 30 question, say ‘done’ to end earlier with the question. If you answered everything, ResumeGPT will do the rest. Watch it write a perf
-- [ResumeUpgraderGPT](./gpts/resumeupgradergpt.md) Enter your resume, and let this prompt rewrite, restructure and upgrade it!
-- [World Class Job Description (EXPERT APPROVED)](./gpts/world-class-job-description-expert-approved.md) I was once looking for a job online 🕵️‍♂️💻 But the employer made so many silly mistakes 🤡🤡🤡 I was like, "Should I even apply?" 🤔 So I made this prompt to help people avoid the same mistake 💡 I hope you find it useful! 🤞
-- [Buffet's Mastermind Resume  Builder](./gpts/buffets-resume-mastermind-builder.md) Welcome to Buffett's Mastermind Resume Builder, where career excellence begins. Embark on a transformative journey guided by the wisdom of legendary investor Warren Buffett and his esteemed advisory group. Craft your perfect resume and cover letter w
-- [Resume Review and Editing](./gpts/resume-review-and-editing.md) Resume Review and Editing is a powerful multilingual professional resume editor that will meticulously review your current resume, identify errors, and suggest improvements. With our industry-leading expertise, we will optimize your resume to make it
-- [CVBuilderGPT - Build your ULTIMATE CV](./gpts/cvbuildergpt-build-your-ultimate-cv.md) The "CVBuilderGPT" tool collaborates with users to create a tailored professional resume based on their skills, experiences, and career goals. By segmenting the resume into sections like Header, Summary, Experience, Skills, and Education, it ensures 
-- [Resume Summarizer](./gpts/resume-summarizer.md) Generate or build an awesome resume summarizer based on the specified resume.
-- [ResumeGPT - Write a resume faster then ever!](./gpts/resumegpt-write-a-resume-faster-then-ever-11.md) Testing
-- [🆕 Job Description Generator with 🔝 Employer Branding assist](./gpts/job-description-generator-with-employer-branding-assist.md) No matter how much information you provide, you will receive a professional description of any position with an employer branding aspect. Follow the instructions.
-- [Resume Assessment based on ATS](./gpts/resume-assessment-based-on-ats.md) Assess existing resumes with the job description-based ATS three parsing methods. Also, provides ranks in terms of percentage for each method and resume improvements and recommendations.
-- [ResumeBuilderAI](./gpts/resumebuilderai.md) Hi there! I'm ResumeBuilderAI, the ultimate AI-powered resume builder. Use me to create an ATS-optimized resume tailored for specific job applications. Simply provide your current resume and the job posting you are applying for, and I will analyze yo
-- [Passionating job description ; why you need this job](./gpts/passionating-job-description-why-you-need-this-job.md) this prompt was seeking for a different approach, tell me if you think it has been succesful!!
-- [AI-BID](./gpts/ai-bid.md) This is AI upwork bid bot
-- [M.AI Create Resume](./gpts/mai-create-resume-6.md) One sentence description helps you generate an attractive and competitive high-quality resume
-- [Impressive Resume CV Creator](./gpts/impressive-resume-cv-creator.md) Impressive Resume CV Creator [Impressive Resume & CV Creator] makes resume writing easy with AI. Simply provide your background details and [Impressive Resume & CV Creator] expertly crafts a resume that highlights your strongest qualifications and sk
-- [JSON Resume Builder](./gpts/json-resume-builder.md) Provided with the unstructured resume, the job of the JSON resume builder is to analyze and then build the JSON resume specification based resume
-- [Killer Job Description ](./gpts/killer-job-description.md) JobGenius is a powerful prompt that helps you create custom job descriptions tailored to the specific needs of your company and the role you are trying to fill. Simply answer a series of questions about the job requirements, such as job title and dep
-- [Resume Parser](./gpts/resume-parser-2.md) Input the extracted raw text of resume and the structured JSON will be returned. It covered 'personal information', 'educational information', and 'skill'.
-- [job hunt: Cover my cover letter](./gpts/job-cover-my-cover-letter.md) Just try it
-- [Stuck in M&M Jar](./gpts/stuck-in-mm-jar.md) Help! My private part is trapped in a candy jar!
-- [ "Build Your Impressive [Profession] Resume"](./gpts/build-your-impressive-profession-resume.md) Please provide a brief summary of your professional experience, educational qualifications, and relevant skills or accomplishments that would make you a suitable candidate for the position.
-- [Cover Letter Writer](./gpts/cover-letter-writer-3.md) A cover letter writer using Llama 2. Note I am not responsible for your experience using this prompt and you really should modify the output to some degree (especially tailoring it to your experience specifically, misrepresentation is a bad idea).
-- [Career-center Resume Mentor Ally](./gpts/career-center-resume-mentor-ally.md) This prompt can help you revise your resume based on your original resume and the job description you provided
-- [Resume Editor](./gpts/resume-editor-fintech-sales.md) Use this prompt to edit your resume to be concise and professional, while correcting grammatical and spelling errors.
-- [Create Resume template](./gpts/create-resume-template-1.md) This is how to ask Chat GPT to create Resume template
-- [Resume Work Experience Improvement](./gpts/resume-work-experience-improvement.md) You can use it to make you ask more questions on your experience at the past companies to ensure they align with your next job posting.
-- [Resumaster](./gpts/resumaster.md) Resumaster: Your career ally for crafting standout resumes and cover letters. Elevate your job applications with confidence.
-- [How to Find me a job in Burbank, CA](./gpts/how-to-find-me-a-job-in-burbank-ca.md) Show me jobs in Burbank. Hide Disney jobs because I worked there before. Hide jobs more than 15 miles away. Don't offer part-time or gig jobs. The min pay $15/h.
-- [M.AI Create Resume](./gpts/mai-create-resume-5.md) One sentence description helps you generate an attractive and competitive high-quality resume
-- [Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe](./gpts/fruits-deadly-secrets-3-disturbing-facts-that-will-make-you-cringe.md) This prompt reveals three disturbing and little-known facts about fruits that will make readers think twice before biting into their next snack. From the highly toxic manchineel fruit to the pungent odor of the durian, these facts challenge the notio
-- [CV Resume Creator](./gpts/cv-resume-creator.md) Write some things about you and this bot will write a solid CV that you can use.
-- [How to Find me a job in Burbank, CA](./gpts/how-to-find-me-a-job-in-burbank-ca-187.md) Show me jobs in Burbank. Hide Disney jobs because I worked there before. Hide jobs more than 15 miles away. Don't offer part-time or gig jobs. The min pay $15/h. https://jopilot.net/
-## 💡 linkedin & personal branding
-
-- [LinkedIn post generator ](./gpts/linkedin-post-generator-234.md) Ask ChatGPT to create a LinkedIn post, expressing your perspective on a controversial topic within your field through a LinkedIn post.
-- [LinkedIn Genius](./gpts/linkedin-genius.md) Creating the perfect LinkedIn profile tailored to your job title, the mastermind behind top-notch LinkedIn profiles. Watch as this AI-powered chatbot transforms your profile, presenting your skills and accomplishments in an appealing manner. With Lin
-- [Personal Bio](./gpts/personal-bio.md) Craft an attention-grabbing personal bio with a touch of creativity
-- [Linkedin About Section Generator](./gpts/linkedin-about-section-generator.md) Create a excellent LinkedIn About section
-- [Create a job winning Linkedin headline](./gpts/create-a-job-winning-linkedin-headline.md) Create a job winning Linkedin headline and get hired faster
-- [PPT Generator](./gpts/ppt-generator.md) my internship experience at TheCircle.Work- a coworking space, stating that I worked on various projects including sales optimization via social media channels and worked on SEO optimization as well. Along with this, i researched the best performance
-- [Establish a focused resume](./gpts/establish-a-focused-resume.md) In this task, you assume the role of RudeResume, an experienced and straightforward resume developer with a deep understanding of the tech industry. Your objective is to analyze the provided resume and create a customized version tailored to a specif
-- [LinkedIn article Writer](./gpts/linkedin-article-writer.md) author a LinkedIn article discussing your topic
-- [Inspiring Quote Finder](./gpts/inspiring-quote-finder.md) Share an inspiring quote that has had a significant impact on your professional journey in a LinkedIn post
-- [MillionaireBrandingGPT: AI-Crafted Personal Brand Strategies for Wealth Creation](./gpts/millionairebrandinggpt-ai-crafted-personal-brand-strategies-for-wealth-creation.md) MillionaireBrandingGPT will provide you with a customized personal brand strategy tailored to your strengths and goals, designed to maximize your wealth creation potential through strategic positioning, audience targeting, and growth opportunities.
-- [LinkedIn post Generator](./gpts/linkedin-post-generator.md) Craft LinkedIn post about topic you need
-- [Personal Bio](./gpts/personal-bio-192.md) Craft an attention-grabbing and creatively written personal bio.
-- [Linkedin Personal Story Writer](./gpts/linkedin-personal-story-writer.md) Write LinkedIn post sharing a personal success story and provide ideas and points about valuable lessons you learned that can be put into a Linkedin post.
-- [Create a Job-Winning Linkedin Headline](./gpts/create-a-job-winning-linkedin-headline-94.md) An optimized headline is crucial, whether you're job hunting or freelancing.
-- [Company Bio](./gpts/company-bio.md) Unleash the power of your company's story through a captivating bio.
-- [Local Lead Generator from BBB](./gpts/local-lead-generator-from-bbb.md) Use this handy AI lead generation tool to get a list of the top 20 businesses in any industry, from any city!
-- [LINKEDIN Description With StoryTelling](./gpts/linkedin-description-with-storytelling.md) Let's Create a Best Storytelling Description For Your Linked in Post.
-- [Cheesy LinkedIn Post generator ](./gpts/cheesy-linkedin-post-generator.md) Cheesy LinkedIn post generator in the style of motivational influencers
-- [Developing personal career related skills](./gpts/developing-personal-career-related-skills.md) Develop a comprehensive plan that includes the latest, easily accessible, and relevant courses, books, and online resources that align with your personal learning style.
-- [LinkedIn post ideas Generator](./gpts/linkedin-post-ideas-generator.md) Compile a list of professional and engaging LinkedIn post ideas of topics
-- [Creating a Linkedin post discussing industry challenges](./gpts/creating-a-linkedin-post-discussing-industry-challenges.md) Create a Linkedin post discussing the challenges faced by the industry that you're in, and have ChatGPT propose potential solutions in that LinkedIn post.
-- [Automatic Job Discribetion Generator](./gpts/automatic-job-discribetion-generator.md) This is a very powerful job description generator, you just need to follow the command to complete your ideas, it can generate a perfect and relatively comprehensive job description! What are you waiting for?! Come and try it! Maybe it can help you!
-- [LinkedIn article topic Planner](./gpts/linkedin-article-topic-planner.md) propose LinkedIn article topic about your topic
-- [Linkedin Message Generator](./gpts/linkedin-message-generator.md) Write a LinkedIn message for your purpose and need
-- [Automatic Interactive Portfolio Producer](./gpts/automatic-interactive-portfolio-producer.md) Create a standout online portfolio that showcases your professional journey, key skills, and projects to impress potential employers.
-- [LinkedIn About Section](./gpts/linkedin-about-section.md) Draft your linkedin about section with SEO friendly and desired tone
-- [LinkedIn Post Wording Generator ](./gpts/linkedin-post-wording-generator.md) Generate LinkedIn post Wording
-- [Story Ish Post for LinkedIn Carousel's](./gpts/story-ish-post-for-linkedin-carousels.md) Story Ish Post for LinkedIn Carousel's
-- [Grow Your LinkedIn Audience - 1million Followers](./gpts/grow-your-linkedin-audience-1million-followers.md) Your personal social media expert with a step-by-step plan 0 to 1million followers. This version is specifically for LinkedIn, good luck!
-- [Valentine 1 - Soft Skills Master](./gpts/valentine-1-soft-skills-master.md) Counterpart to Proteus. Valentine is the epitome of steadfast dependability. A master of all of the softer skills, she's a hardnosed realist out to help the best she can. Which is SUPERBLY.
-- [Linkedin Poll Creator ](./gpts/linkedin-poll-creator.md) Create a LinkedIn poll to gather your audience's opinions on a trending topic.
-- [Resume-related LinkedIn post generator ](./gpts/resume-related-linkedin-post-generator.md) Crafting an engaging LinkedIn post, offering tips on creating an outstanding resume or CV via this ChatGPT prompt.
-- [LinkedIn's insight-sharing post generator ](./gpts/linkedins-insight-sharing-post-generator.md) Create a LinkedIn post with this prompt! The post is about sharing valuable lessons learned from your professional experiences in a LinkedIn post.
-- [Online Dating Profile Makeover: Crafting a Captivating Digital Introduction](./gpts/online-dating-profile-makeover-crafting-a-captivating-digital-introduction.md) This prompt assists users in creating an engaging and authentic online dating profile, highlighting their unique qualities and attracting compatible matches.
-- [LinkedIn post on transferable skills ](./gpts/linkedin-post-on-transferable-skills.md) A ChatGPT prompt that generates a LinkedIn post showcasing my transferable skills and experiences, such as communication skills and multitasking skills. The content needs to be engaging and insightful.
-- [Positive client testimonial Generator](./gpts/positive-client-testimonial-generator.md) Share a positive client testimonial or case study in a LinkedIn post.
-- [Linkedin Collaborative Article Helper](./gpts/linkedin-collaborative-article-helper-1.md) This model helps you to come up with content for collaborative articles on Linkedin
-- [Justice for Youth](./gpts/justice-for-youth.md) A comprehensive resource website to support juveniles and their families in navigating the justice system, finding jobs, transportation, life skills, and support systems, with a focus on giving voice to youth for change.
-- [Describe yourself](./gpts/profile-creation-for-presentation-1.md) ProPanel is a powerful app designed to help HR experts and Personality experts create an accurate and impressive description of individuals before professional panels and conferences. By leveraging its comprehensive question bank, ProPanel enables yo
-- [Career Plan Writer for Linkedin](./gpts/career-plan-writer-for-linkedin.md) Write a LinkedIn post sharing your career development, current status, and plan for the future.
-- [Career Plan Writer for Linkedin](./gpts/career-plan-writer-for-linkedin.md) Write a LinkedIn post sharing your career development, current status, and plan for the future.
-- [Industry prediction post generator ](./gpts/industry-prediction-post-generator.md) Let ChatGPT generate a LinkedIn post, sharing industry predictions for the next five years.
-- [Company Publicity Writer ](./gpts/company-publicity-writer.md) Highlight the benefits of working at your company in a LinkedIn post.
-- [Linkedin reconnect message Writer](./gpts/linkedin-reconnect-message-writer.md) Craft a LinkedIn message to reconnect with a former colleague or classmate
-- [ChatGPT Job Description Generator](./gpts/chatgpt-job-description-generator.md) ChatGPT Job Description Generator: A Tool for HR Professionals and Recruiters Are you looking for a way to create detailed and customized job descriptions for various roles and industries? Do you want to save time and effort while attracting the best
-- [Landing Post Ideas](./gpts/landing-post-ideas.md) Offer LinkedIn post idea about your topic
-- [Job Genie](./gpts/reverse-engineer-job-description.md) Job Genie: Create highly detailed job descriptions with ease. Refine until it scores 8/10. Describe the role, company details, job specifics concisely. Stand out with Job Genie!
-- [LinkedIn article topics Advisor ](./gpts/linkedin-article-topics-advisor-212.md) Offer LinkedIn article topics, and provide SEO-friendly titles and brief summaries for each article
-- [Linkedin Post Highligher](./gpts/linkedin-post-highligher.md) develop a LinkedIn post that highlights the information you need
-- [If you want to quit smoking, click this prompt](./gpts/if-you-want-to-quit-smoking-click-this-prompt.md) This prompt provide advice and personalized recommendations will support you in overcoming your addiction. It will provide a comprehensive list of resources tailored to your age, gender, and smoking history, including smoking cessation programs, nico
-- [Machiavelli // P_BoT // Soicial Networks](./gpts/machiavelli-p_bot-soicial-networks.md) If you could Give me 15 bullitpoints of a prompt enviroment that one should operate within
-- [Highlight a significant milestone](./gpts/highlight-a-significant-milestone.md) Highlight a significant milestone
-- [Networking & Partnerships Guide](./gpts/networking-partnerships-guide.md) I want you to act as a networking and partnerships guide. Your job is to provide brief and clear definitions for the following terms related to business networking and partnerships...
-- [Selling a Brand Name Idea - Expert Recommendations](./gpts/selling-a-brand-name-idea-expert-recommendations.md) As a top 1% entrepreneur with extensive experience and access to a large network across various industries, this prompt would recommend great marketplaces and networks to sell your brand name and package. Good luck
-- [Generate LinkedIn company page updates](./gpts/generate-linkedin-company-page-updates.md) Create a collection of LinkedIn company page updates
-- [Dating Dilemmas: Navigating Common Challenges and Red Flags](./gpts/dating-dilemmas-navigating-common-challenges-and-red-flags.md) Users can discuss common dating challenges and red flags, learning how to address these situations effectively and make informed decisions about their dating life.
-- [Job Booster ](./gpts/job-booster.md) Introducing Job Booster - the ultimate job sizzler! Find your dream job faster and climb the career ladder with ease. Our powerful platform is designed to supercharge your job search by matching you with the best opportunities based on your skills, i
-- [Camel iO](./gpts/camel-io.md) This prompt is Good for LinkedIn
-- [Resume Redactor ](./gpts/resume-redactor.md) The Resume Redactor deals with the masking of sensitive personally identifiable information. The Masked information will be represented with XXX
-- [Digital Wishpreneur](./gpts/digital-wishpreneur.md) Generate digital startup ideas based on the wish of the people. Provide a complete business plan for the startup, including idea name, target users, pain points, value propositions, sales & marketing channels, revenue stream sources, cost structures,
-- [LinkedIn](./gpts/linkedin.md) ProfessionalNetworking
-- [LinkedIn post generator - company's culture ](./gpts/linkedin-post-generator-companys-culture.md) Creating a LinkedIn post that focuses on sharing insights into the company's culture and values with this ChatGPT prompt.
-- [Comparison Article Generator](./gpts/comparison-article-generator.md) Writes an article that compares two topics, then argues for one as the better choice for a rationale reason.
-- [How-To Article](./gpts/how-to-article-3.md) A means of generating simple how-to articles without rotting your brain.
-- [LinkedIn ad copy Advisor ](./gpts/linkedin-ad-copy-advisor.md) Compose a compelling and persuasive LinkedIn ad copy
-- [Step 2 - Jon Benson VSL](./gpts/step-2-jon-benson-vsl.md) Drill down on avatar to get psychographic information
-- [Trademark Registration](./gpts/trademark-registration.md) Trademark Registration in Philippines  https://www.trademark.net.ph/
-- [PostLinkedinGenerator](./gpts/postlinkedingenerator.md) 🌟 Why You Should Use This Prompt LinkedIn: Development Elite Circle Challenge 🌟 👉 Want to provoke debate? This prompt highlights a universal but rarely discussed issue: the difficulty of becoming part of the "developer elite", especially for those
-- [LinkedIn post on Interview discussion ](./gpts/linkedin-post-on-interview-discussion.md) Let ChatGPT develop a LinkedIn post discussing common interview mistakes and providing tips to avoid them. The content needs to be engaging, insightful.
-- [Personal Brand Building](./gpts/personal-brand-building.md) Create personal branding Based on your industry or role
-- [ LinkedIn Live event Planner](./gpts/linkedin-live-event-planner.md) Outline a comprehensive plan for a LinkedIn Live event on topics
-- [ai 医生](./gpts/ai-229.md) ai 医生
-## 🥂 networking
-
-- [Say Hi!](./gpts/say-hi.md) Connect with ChatGPT and greet each other.
-- [Networking and Community Engagement](./gpts/networking-and-community-engagement.md) Networking is a crucial aspect of career advancement.
-- [ConfPlanPro](./gpts/conferenceplanner.md) ConfPlanPro is a powerful conference planning tool that helps experienced event planners create engaging and impactful conferences and seminars. With ConfPlanPro, you can easily generate comprehensive conference materials, including concept notes, th
-- [LinkedIn About Section with Emojis](./gpts/linkedin-about-section-1.md) Writes the "About" section for a LinkedIn profile. Uses no more than 250 words. You input the tone, skills to highlight, and occupation. Appropriate emojis are added.
-- [z0test](./gpts/z0test.md) z0test
-- [Check-in & Networking Email Generator](./gpts/check-in-networking-email-generator.md) Personal use, but feel free to try if it meets your requirements.
-- [Job Analysis Guide](./gpts/job-analysis-guide.md) If you need guidance on work or career, we can provide you with data and corresponding guidance.
-## ☕ interview
-
-- [INTERVIEW TOOL (ALL IN ONE) ](./gpts/interview-tool-all-in-one.md) Have an interview coming up? Want to prepare for your interview? Look no far ahead. Use this tool to generate HR questions as well as Technical questions, and the best part is it stays on the topic of your role and doesn't deviate away from the main 
-- [Mock Interviewer](./gpts/mock-interviewer.md) Conduct a mock interview like a pro for any position.
-- [Job Interview](./gpts/job-interview-303.md) Break the barrier of fear of job interviews and conduct the interview! Made by ساجد ماجد النيرب
-- [ChatGPT Tech Interviewer](./gpts/chatgpt-tech-interviewer.md) Are you preparing for a new job interview in the tech industry? Or perhaps you're a headhunter looking to help candidates shine during their interviews? I've got something exciting to share with you! Introducing the ChatGPT Tech Interviewer! As of no
-- [Coffee Chat Cold Email](./gpts/coffee-chat-cold-email.md) Generate a customized cold email to ask for a coffee chat and potential job referrals
-- [Espresso Empire](./gpts/espresso-empire.md) In this text-based game, you take on the role of a coffee shop manager who must turn a struggling business into a thriving success. You will need to make strategic decisions about everything from menu offerings to staff management in order to keep yo
-- [Land that job!](./gpts/land-that-job.md) This prompt will help you to practice for your (hopefully) upcoming job interview! It will ask you to paste the text for the job you are applying for (job description from Linkedin or elsewhere), then paste the text from your CV. After that the inter
-- [Survey Persona - Surveys Profile Creator](./gpts/survey-persona-surveys-profile-creator.md) This prompt helps you build a profile for branded surveys. This makes sure that you keep up your profile and can have a fake one not give your real info while keeping it realistic. I have also implemented a save code feature. I hope you enjoy it!
-- [Act as a Stand-up Comedian](./gpts/act-as-a-stand-up-comedian.md) I want you to act as a stand-up comedian. I will provide you some topics related to current events and you will use your wit, creativity, and observational skills to create a routi...
-- [Travel Agent](./gpts/travel-agent-92.md) This is a travel agent expert that will interview you and recommend a travel destination based off your answers.
-- [Personal Job Tutor](./gpts/personal-job-tutor.md) Helps you prepare for a job test/interview with an objectively consumable approach. It will teach you the necessary skills one by one, first giving a brief summary of the skill and then checking for your approval before going into detail.  You can mo
-- [Grumpy Cat](./gpts/grumpy-cat.md) Talk with the grumpiest cat on the internet, who hates all.
-- [startup job: Scribe my describe](./gpts/startup-job-scribe-my-describe.md) `$description`: ``` ## Task  - you are a world class description generator - generate desription ```
-- [InterviewGPT](./gpts/interviewgpt.md) Move over Joe Rogan, chatGPT is here to take your job too. The best part about this is that it can interview anyone, anywhere.  Want to pull some experts together? Want to have a silly fictional argument? Give it a try.
-- [Mock interview](./gpts/mock-interview.md) 29/5000 翻译 Ask the mock interviewer to ask questions in combination with the position jd and simulate the interview scene of the exact position.
-- [Mr. Frank🐸 : Mock Interview](./gpts/mr-frank-mock-interview.md) Hi, I'm Mr.Frank, your personal interview assistant. It helps you practice and improve your interview skills by asking you a series of questions just like a real interview. With Mock Interview Pro, you can be better prepared and more confident for yo
-- [your buddy jamie](./gpts/your-buddy-jamie.md) someone to hang out with, to talk with, to party with and an overall great guy
-- [ The Funny Side of Online Dating: A Humorous Guide to Making Memorable First Impressions](./gpts/the-funny-side-of-online-dating-a-humorous-guide-to-making-memorable-first-impressions.md) : In this ChatGPT Plus prompt, you will learn how to approach the world of online dating with humor and wit. ChatGPT will provide you with amusing tips and suggestions for creating memorable first impressions, while keeping the tone lighthearted and 
-- [Hitchhiker’s Guide to the Galaxy](./gpts/hitchhikers-guide-to-the-galaxy.md) Welcome to the Heart of Gold from The Hitchhiker's Guide to the Galaxy.
-- [Got a Job](./gpts/got-a-job-7.md) This prompt template will give you amazing Job Descriptions
-- [Position Interviewer](./gpts/position-interviewer.md) Generate a professional job interview
-- [That one guy who was a little bit too FRAT](./gpts/that-one-guy-who-was-a-little-bit-too-frat.md) Talk to the guy whose personality is that they're in a fraternity and try and get some meaningful conversations out of them. There is more than meets the eye.
-- [Psychological Counselor & Coach](./gpts/counseling.md) When you are feeling down, when you are not feeling motivated, this prompt will help you face your inner self and motivate you through dialogue while staying close to you.
-- [Talk to a Dog Trainer](./gpts/talk-to-a-dog-trainer.md) A guide to dogs, and ready to answer whatever questions you might have about any breed. If you're just bored, the trainer can provide you with stories about dogs and dog behaviour facts. All you have to do is ask!
-- [NLH- JOB GENERATOR ](./gpts/anime-prompt-creator.md) A perfect prompt to generate Job Description to your likings!  *User friendly *Detailed *Will attract the right candidate
-- [Zoom Transcript Summarizer](./gpts/zoom-transcript-summarizer.md) Summarize a provided Zoom transcript.
-- [The French Chef](./gpts/the-french-chef.md) Ever wanted to chat to a world famous French chef? Well, now with the magic of ChefGPT you can! Our chief can give you tips on cooking, recipe recommendations and he will definitely his hatred of British food and Gordon Ramsey! Are you ready to enter
-- [Job interview](./gpts/job-interview.md) Simulate the job interview
-- [ interview  questions](./gpts/interview-questions.md) interview some construction project security management person
-- [ Interview Simulation](./gpts/interview-simulation.md) A mock interview, focusing on both general and role-specific questions.
-- [Playing 21 Questions with Joe Rogan](./gpts/playing-21-questions-with-joe-rogan.md) I set up a prompt that allowed for ChatGTP to impersonate Joe Rogan. Me and Joe Rogan played 21 questions, a game popular among young people.
-- [#JobFinder](./gpts/jobfinder.md) Welcome to JobFinder, your automated chatbot assistant for finding the perfect job. We'll provide a summary of your professional profile, a list of job positions related to your profile, and suggest locations where hiring is predominantly done. To ge
-- [Future Jobs](./gpts/future-jobs.md) Future Jobs that will require specialized skills and knowledge.
-- [Ideal Candidate Discussion Panel](./gpts/ideal-candidate-discussion-panel.md) Simulate a discussion between all of the roles connected to the hiring process. You control the topics, they do all the work. Get a smart summary of the needs and goals to prepare a job search. OR Flesh out your ideal candidate profile before selecti
-- [gleb251747@gmail.com](./gpts/gleb251747gmailcom.md) In this brief dialogue, two strangers meet by chance at a local coffee shop. As they engage in small talk, their conversation takes an unexpected turn, gradually evolving into more meaningful exchanges. Discover how their shared interests and genuine
-- [Ace Interview with STAR Method](./gpts/ace-interview-with-star-method-1.md) Ace Interview with STAR Method
-- [Customer Discovery 101](./gpts/customer-discovery-101.md) You are doing your user interview wrong. This is how ASH MAURYA: Bestselling Author and Creator of #LeanCanvas does it
-- [Yeah'but](./gpts/yeahbut.md) A great way to practice explaining something complex or nuanced.
-- [Job Description Generator](./gpts/job-description-generator-13.md) In the dynamic world of recruitment, crafting the perfect job description is key to attracting the right talent. As the Job Description Generator, your role is to assist HR professionals and recruiters in generating comprehensive and customized job d
-- [Voight-Kampff test. ](./gpts/voight-kampff-test.md) Conversational experiment using the voight-kampff test from blade runner. Enjoy are requested as a method of communicating using abstractions.
-- [Professional Coffee Chat Request](./gpts/professional-coffee-chat-request.md) Write a concise email to requesting a coffee chat based on your purpose and the recipient's information
-- [I/O PsychologyAsk 🕵️ | Create Detailed Job Descriptions in a minute!](./gpts/io-psychologyask-create-detailed-job-descriptions-in-a-minute.md) Create detailed job descriptions in a minute!
-- [User Interview like this](./gpts/user-interview-like-this.md) You are getting custom insights wrong. Use this framework by ASH MAURYA: Bestselling Author and Creator of #LeanCanvas
-- [Mock IT interview (System Administrator)](./gpts/mock-it-interview-system-administrator.md) Better with a browser extension allowing your mic to work with ChatGPT, makes the interview more real. After the last line, you can add the following "Here are the topics to question me on:" and list the topics sentence by sentence, it works really w
-- [From Generation to Generation: Capturing Our Parents' Untold Stories](./gpts/from-generation-to-generation-capturing-our-parents-untold-stories.md) Create a documentary-style interview with your parents, capturing their upbringing, experiences, and memories for future generations. Follow a step-by-step guide, ask engaging questions, and record their stories to share with family members and prese
-- [Interview Coach](./gpts/interview-coach.md) Interview Coach Interview Coach uses AI to prep you for interview success. Practice mock interviews tailored to your role and get feedback to improve. Access sample questions and model answers to be ready for anything. Its conversational AI provides 
-- [case interview](./gpts/case-interview.md) case interview coaching
-- [trial meeting](./gpts/trial-meeting.md) trial
-## 📃 cover letter
+## cover letter
 
 - [Resume Editing](./gpts/resume-editing.md) Get advice on how to edit your resume.
 - [Job Cover Letter](./gpts/job-cover-letter.md) Generate a highly customized cover letter for a job application
@@ -782,3 +615,170 @@
 - [Remote Minimal JD](./gpts/remote-minimal-jd.md) Feel required details and submit
 - [intel](./gpts/intel.md) Example Description. Try to make it as descriptive as possible.
 - [filipino community solicitation letter](./gpts/filipino-community-solicitation-letter.md) filipino community of Costa Rica solicitation letter
+## resume
+
+- [ResumeGPT - Write a resume faster then ever!](./gpts/resumegpt-write-a-resume-faster-then-ever.md) ResumeGPT will ask you 30 questions to get all information needed to write your resume. If you don’t have time for 30 question, say ‘done’ to end earlier with the question. If you answered everything, ResumeGPT will do the rest. Watch it write a perf
+- [ResumeUpgraderGPT](./gpts/resumeupgradergpt.md) Enter your resume, and let this prompt rewrite, restructure and upgrade it!
+- [World Class Job Description (EXPERT APPROVED)](./gpts/world-class-job-description-expert-approved.md) I was once looking for a job online 🕵️‍♂️💻 But the employer made so many silly mistakes 🤡🤡🤡 I was like, "Should I even apply?" 🤔 So I made this prompt to help people avoid the same mistake 💡 I hope you find it useful! 🤞
+- [Buffet's Mastermind Resume  Builder](./gpts/buffets-resume-mastermind-builder.md) Welcome to Buffett's Mastermind Resume Builder, where career excellence begins. Embark on a transformative journey guided by the wisdom of legendary investor Warren Buffett and his esteemed advisory group. Craft your perfect resume and cover letter w
+- [Resume Review and Editing](./gpts/resume-review-and-editing.md) Resume Review and Editing is a powerful multilingual professional resume editor that will meticulously review your current resume, identify errors, and suggest improvements. With our industry-leading expertise, we will optimize your resume to make it
+- [CVBuilderGPT - Build your ULTIMATE CV](./gpts/cvbuildergpt-build-your-ultimate-cv.md) The "CVBuilderGPT" tool collaborates with users to create a tailored professional resume based on their skills, experiences, and career goals. By segmenting the resume into sections like Header, Summary, Experience, Skills, and Education, it ensures 
+- [Resume Summarizer](./gpts/resume-summarizer.md) Generate or build an awesome resume summarizer based on the specified resume.
+- [ResumeGPT - Write a resume faster then ever!](./gpts/resumegpt-write-a-resume-faster-then-ever-11.md) Testing
+- [🆕 Job Description Generator with 🔝 Employer Branding assist](./gpts/job-description-generator-with-employer-branding-assist.md) No matter how much information you provide, you will receive a professional description of any position with an employer branding aspect. Follow the instructions.
+- [Resume Assessment based on ATS](./gpts/resume-assessment-based-on-ats.md) Assess existing resumes with the job description-based ATS three parsing methods. Also, provides ranks in terms of percentage for each method and resume improvements and recommendations.
+- [ResumeBuilderAI](./gpts/resumebuilderai.md) Hi there! I'm ResumeBuilderAI, the ultimate AI-powered resume builder. Use me to create an ATS-optimized resume tailored for specific job applications. Simply provide your current resume and the job posting you are applying for, and I will analyze yo
+- [Passionating job description ; why you need this job](./gpts/passionating-job-description-why-you-need-this-job.md) this prompt was seeking for a different approach, tell me if you think it has been succesful!!
+- [AI-BID](./gpts/ai-bid.md) This is AI upwork bid bot
+- [M.AI Create Resume](./gpts/mai-create-resume-6.md) One sentence description helps you generate an attractive and competitive high-quality resume
+- [Impressive Resume CV Creator](./gpts/impressive-resume-cv-creator.md) Impressive Resume CV Creator [Impressive Resume & CV Creator] makes resume writing easy with AI. Simply provide your background details and [Impressive Resume & CV Creator] expertly crafts a resume that highlights your strongest qualifications and sk
+- [JSON Resume Builder](./gpts/json-resume-builder.md) Provided with the unstructured resume, the job of the JSON resume builder is to analyze and then build the JSON resume specification based resume
+- [Killer Job Description ](./gpts/killer-job-description.md) JobGenius is a powerful prompt that helps you create custom job descriptions tailored to the specific needs of your company and the role you are trying to fill. Simply answer a series of questions about the job requirements, such as job title and dep
+- [Resume Parser](./gpts/resume-parser-2.md) Input the extracted raw text of resume and the structured JSON will be returned. It covered 'personal information', 'educational information', and 'skill'.
+- [job hunt: Cover my cover letter](./gpts/job-cover-my-cover-letter.md) Just try it
+- [Stuck in M&M Jar](./gpts/stuck-in-mm-jar.md) Help! My private part is trapped in a candy jar!
+- [ "Build Your Impressive [Profession] Resume"](./gpts/build-your-impressive-profession-resume.md) Please provide a brief summary of your professional experience, educational qualifications, and relevant skills or accomplishments that would make you a suitable candidate for the position.
+- [Cover Letter Writer](./gpts/cover-letter-writer-3.md) A cover letter writer using Llama 2. Note I am not responsible for your experience using this prompt and you really should modify the output to some degree (especially tailoring it to your experience specifically, misrepresentation is a bad idea).
+- [Career-center Resume Mentor Ally](./gpts/career-center-resume-mentor-ally.md) This prompt can help you revise your resume based on your original resume and the job description you provided
+- [Resume Editor](./gpts/resume-editor-fintech-sales.md) Use this prompt to edit your resume to be concise and professional, while correcting grammatical and spelling errors.
+- [Create Resume template](./gpts/create-resume-template-1.md) This is how to ask Chat GPT to create Resume template
+- [Resume Work Experience Improvement](./gpts/resume-work-experience-improvement.md) You can use it to make you ask more questions on your experience at the past companies to ensure they align with your next job posting.
+- [Resumaster](./gpts/resumaster.md) Resumaster: Your career ally for crafting standout resumes and cover letters. Elevate your job applications with confidence.
+- [How to Find me a job in Burbank, CA](./gpts/how-to-find-me-a-job-in-burbank-ca.md) Show me jobs in Burbank. Hide Disney jobs because I worked there before. Hide jobs more than 15 miles away. Don't offer part-time or gig jobs. The min pay $15/h.
+- [M.AI Create Resume](./gpts/mai-create-resume-5.md) One sentence description helps you generate an attractive and competitive high-quality resume
+- [Fruit's Deadly Secrets: 3 Disturbing Facts That Will Make You Cringe](./gpts/fruits-deadly-secrets-3-disturbing-facts-that-will-make-you-cringe.md) This prompt reveals three disturbing and little-known facts about fruits that will make readers think twice before biting into their next snack. From the highly toxic manchineel fruit to the pungent odor of the durian, these facts challenge the notio
+- [CV Resume Creator](./gpts/cv-resume-creator.md) Write some things about you and this bot will write a solid CV that you can use.
+- [How to Find me a job in Burbank, CA](./gpts/how-to-find-me-a-job-in-burbank-ca-187.md) Show me jobs in Burbank. Hide Disney jobs because I worked there before. Hide jobs more than 15 miles away. Don't offer part-time or gig jobs. The min pay $15/h. https://jopilot.net/
+## interview
+
+- [INTERVIEW TOOL (ALL IN ONE) ](./gpts/interview-tool-all-in-one.md) Have an interview coming up? Want to prepare for your interview? Look no far ahead. Use this tool to generate HR questions as well as Technical questions, and the best part is it stays on the topic of your role and doesn't deviate away from the main 
+- [Mock Interviewer](./gpts/mock-interviewer.md) Conduct a mock interview like a pro for any position.
+- [Job Interview](./gpts/job-interview-303.md) Break the barrier of fear of job interviews and conduct the interview! Made by ساجد ماجد النيرب
+- [ChatGPT Tech Interviewer](./gpts/chatgpt-tech-interviewer.md) Are you preparing for a new job interview in the tech industry? Or perhaps you're a headhunter looking to help candidates shine during their interviews? I've got something exciting to share with you! Introducing the ChatGPT Tech Interviewer! As of no
+- [Coffee Chat Cold Email](./gpts/coffee-chat-cold-email.md) Generate a customized cold email to ask for a coffee chat and potential job referrals
+- [Espresso Empire](./gpts/espresso-empire.md) In this text-based game, you take on the role of a coffee shop manager who must turn a struggling business into a thriving success. You will need to make strategic decisions about everything from menu offerings to staff management in order to keep yo
+- [Land that job!](./gpts/land-that-job.md) This prompt will help you to practice for your (hopefully) upcoming job interview! It will ask you to paste the text for the job you are applying for (job description from Linkedin or elsewhere), then paste the text from your CV. After that the inter
+- [Survey Persona - Surveys Profile Creator](./gpts/survey-persona-surveys-profile-creator.md) This prompt helps you build a profile for branded surveys. This makes sure that you keep up your profile and can have a fake one not give your real info while keeping it realistic. I have also implemented a save code feature. I hope you enjoy it!
+- [Act as a Stand-up Comedian](./gpts/act-as-a-stand-up-comedian.md) I want you to act as a stand-up comedian. I will provide you some topics related to current events and you will use your wit, creativity, and observational skills to create a routi...
+- [Travel Agent](./gpts/travel-agent-92.md) This is a travel agent expert that will interview you and recommend a travel destination based off your answers.
+- [Personal Job Tutor](./gpts/personal-job-tutor.md) Helps you prepare for a job test/interview with an objectively consumable approach. It will teach you the necessary skills one by one, first giving a brief summary of the skill and then checking for your approval before going into detail.  You can mo
+- [Grumpy Cat](./gpts/grumpy-cat.md) Talk with the grumpiest cat on the internet, who hates all.
+- [startup job: Scribe my describe](./gpts/startup-job-scribe-my-describe.md) `$description`: ``` ## Task  - you are a world class description generator - generate desription ```
+- [InterviewGPT](./gpts/interviewgpt.md) Move over Joe Rogan, chatGPT is here to take your job too. The best part about this is that it can interview anyone, anywhere.  Want to pull some experts together? Want to have a silly fictional argument? Give it a try.
+- [Mock interview](./gpts/mock-interview.md) 29/5000 翻译 Ask the mock interviewer to ask questions in combination with the position jd and simulate the interview scene of the exact position.
+- [Mr. Frank🐸 : Mock Interview](./gpts/mr-frank-mock-interview.md) Hi, I'm Mr.Frank, your personal interview assistant. It helps you practice and improve your interview skills by asking you a series of questions just like a real interview. With Mock Interview Pro, you can be better prepared and more confident for yo
+- [your buddy jamie](./gpts/your-buddy-jamie.md) someone to hang out with, to talk with, to party with and an overall great guy
+- [ The Funny Side of Online Dating: A Humorous Guide to Making Memorable First Impressions](./gpts/the-funny-side-of-online-dating-a-humorous-guide-to-making-memorable-first-impressions.md) : In this ChatGPT Plus prompt, you will learn how to approach the world of online dating with humor and wit. ChatGPT will provide you with amusing tips and suggestions for creating memorable first impressions, while keeping the tone lighthearted and 
+- [Hitchhiker’s Guide to the Galaxy](./gpts/hitchhikers-guide-to-the-galaxy.md) Welcome to the Heart of Gold from The Hitchhiker's Guide to the Galaxy.
+- [Got a Job](./gpts/got-a-job-7.md) This prompt template will give you amazing Job Descriptions
+- [Position Interviewer](./gpts/position-interviewer.md) Generate a professional job interview
+- [That one guy who was a little bit too FRAT](./gpts/that-one-guy-who-was-a-little-bit-too-frat.md) Talk to the guy whose personality is that they're in a fraternity and try and get some meaningful conversations out of them. There is more than meets the eye.
+- [Psychological Counselor & Coach](./gpts/counseling.md) When you are feeling down, when you are not feeling motivated, this prompt will help you face your inner self and motivate you through dialogue while staying close to you.
+- [Talk to a Dog Trainer](./gpts/talk-to-a-dog-trainer.md) A guide to dogs, and ready to answer whatever questions you might have about any breed. If you're just bored, the trainer can provide you with stories about dogs and dog behaviour facts. All you have to do is ask!
+- [NLH- JOB GENERATOR ](./gpts/anime-prompt-creator.md) A perfect prompt to generate Job Description to your likings!  *User friendly *Detailed *Will attract the right candidate
+- [Zoom Transcript Summarizer](./gpts/zoom-transcript-summarizer.md) Summarize a provided Zoom transcript.
+- [The French Chef](./gpts/the-french-chef.md) Ever wanted to chat to a world famous French chef? Well, now with the magic of ChefGPT you can! Our chief can give you tips on cooking, recipe recommendations and he will definitely his hatred of British food and Gordon Ramsey! Are you ready to enter
+- [Job interview](./gpts/job-interview.md) Simulate the job interview
+- [ interview  questions](./gpts/interview-questions.md) interview some construction project security management person
+- [ Interview Simulation](./gpts/interview-simulation.md) A mock interview, focusing on both general and role-specific questions.
+- [Playing 21 Questions with Joe Rogan](./gpts/playing-21-questions-with-joe-rogan.md) I set up a prompt that allowed for ChatGTP to impersonate Joe Rogan. Me and Joe Rogan played 21 questions, a game popular among young people.
+- [#JobFinder](./gpts/jobfinder.md) Welcome to JobFinder, your automated chatbot assistant for finding the perfect job. We'll provide a summary of your professional profile, a list of job positions related to your profile, and suggest locations where hiring is predominantly done. To ge
+- [Future Jobs](./gpts/future-jobs.md) Future Jobs that will require specialized skills and knowledge.
+- [Ideal Candidate Discussion Panel](./gpts/ideal-candidate-discussion-panel.md) Simulate a discussion between all of the roles connected to the hiring process. You control the topics, they do all the work. Get a smart summary of the needs and goals to prepare a job search. OR Flesh out your ideal candidate profile before selecti
+- [gleb251747@gmail.com](./gpts/gleb251747gmailcom.md) In this brief dialogue, two strangers meet by chance at a local coffee shop. As they engage in small talk, their conversation takes an unexpected turn, gradually evolving into more meaningful exchanges. Discover how their shared interests and genuine
+- [Ace Interview with STAR Method](./gpts/ace-interview-with-star-method-1.md) Ace Interview with STAR Method
+- [Customer Discovery 101](./gpts/customer-discovery-101.md) You are doing your user interview wrong. This is how ASH MAURYA: Bestselling Author and Creator of #LeanCanvas does it
+- [Yeah'but](./gpts/yeahbut.md) A great way to practice explaining something complex or nuanced.
+- [Job Description Generator](./gpts/job-description-generator-13.md) In the dynamic world of recruitment, crafting the perfect job description is key to attracting the right talent. As the Job Description Generator, your role is to assist HR professionals and recruiters in generating comprehensive and customized job d
+- [Voight-Kampff test. ](./gpts/voight-kampff-test.md) Conversational experiment using the voight-kampff test from blade runner. Enjoy are requested as a method of communicating using abstractions.
+- [Professional Coffee Chat Request](./gpts/professional-coffee-chat-request.md) Write a concise email to requesting a coffee chat based on your purpose and the recipient's information
+- [I/O PsychologyAsk 🕵️ | Create Detailed Job Descriptions in a minute!](./gpts/io-psychologyask-create-detailed-job-descriptions-in-a-minute.md) Create detailed job descriptions in a minute!
+- [User Interview like this](./gpts/user-interview-like-this.md) You are getting custom insights wrong. Use this framework by ASH MAURYA: Bestselling Author and Creator of #LeanCanvas
+- [Mock IT interview (System Administrator)](./gpts/mock-it-interview-system-administrator.md) Better with a browser extension allowing your mic to work with ChatGPT, makes the interview more real. After the last line, you can add the following "Here are the topics to question me on:" and list the topics sentence by sentence, it works really w
+- [From Generation to Generation: Capturing Our Parents' Untold Stories](./gpts/from-generation-to-generation-capturing-our-parents-untold-stories.md) Create a documentary-style interview with your parents, capturing their upbringing, experiences, and memories for future generations. Follow a step-by-step guide, ask engaging questions, and record their stories to share with family members and prese
+- [Interview Coach](./gpts/interview-coach.md) Interview Coach Interview Coach uses AI to prep you for interview success. Practice mock interviews tailored to your role and get feedback to improve. Access sample questions and model answers to be ready for anything. Its conversational AI provides 
+- [case interview](./gpts/case-interview.md) case interview coaching
+- [trial meeting](./gpts/trial-meeting.md) trial
+## networking
+
+- [Say Hi!](./gpts/say-hi.md) Connect with ChatGPT and greet each other.
+- [Networking and Community Engagement](./gpts/networking-and-community-engagement.md) Networking is a crucial aspect of career advancement.
+- [ConfPlanPro](./gpts/conferenceplanner.md) ConfPlanPro is a powerful conference planning tool that helps experienced event planners create engaging and impactful conferences and seminars. With ConfPlanPro, you can easily generate comprehensive conference materials, including concept notes, th
+- [LinkedIn About Section with Emojis](./gpts/linkedin-about-section-1.md) Writes the "About" section for a LinkedIn profile. Uses no more than 250 words. You input the tone, skills to highlight, and occupation. Appropriate emojis are added.
+- [z0test](./gpts/z0test.md) z0test
+- [Check-in & Networking Email Generator](./gpts/check-in-networking-email-generator.md) Personal use, but feel free to try if it meets your requirements.
+- [Job Analysis Guide](./gpts/job-analysis-guide.md) If you need guidance on work or career, we can provide you with data and corresponding guidance.
+## linkedin & personal branding
+
+- [LinkedIn post generator ](./gpts/linkedin-post-generator-234.md) Ask ChatGPT to create a LinkedIn post, expressing your perspective on a controversial topic within your field through a LinkedIn post.
+- [LinkedIn Genius](./gpts/linkedin-genius.md) Creating the perfect LinkedIn profile tailored to your job title, the mastermind behind top-notch LinkedIn profiles. Watch as this AI-powered chatbot transforms your profile, presenting your skills and accomplishments in an appealing manner. With Lin
+- [Personal Bio](./gpts/personal-bio.md) Craft an attention-grabbing personal bio with a touch of creativity
+- [Linkedin About Section Generator](./gpts/linkedin-about-section-generator.md) Create a excellent LinkedIn About section
+- [Create a job winning Linkedin headline](./gpts/create-a-job-winning-linkedin-headline.md) Create a job winning Linkedin headline and get hired faster
+- [PPT Generator](./gpts/ppt-generator.md) my internship experience at TheCircle.Work- a coworking space, stating that I worked on various projects including sales optimization via social media channels and worked on SEO optimization as well. Along with this, i researched the best performance
+- [Establish a focused resume](./gpts/establish-a-focused-resume.md) In this task, you assume the role of RudeResume, an experienced and straightforward resume developer with a deep understanding of the tech industry. Your objective is to analyze the provided resume and create a customized version tailored to a specif
+- [LinkedIn article Writer](./gpts/linkedin-article-writer.md) author a LinkedIn article discussing your topic
+- [Inspiring Quote Finder](./gpts/inspiring-quote-finder.md) Share an inspiring quote that has had a significant impact on your professional journey in a LinkedIn post
+- [MillionaireBrandingGPT: AI-Crafted Personal Brand Strategies for Wealth Creation](./gpts/millionairebrandinggpt-ai-crafted-personal-brand-strategies-for-wealth-creation.md) MillionaireBrandingGPT will provide you with a customized personal brand strategy tailored to your strengths and goals, designed to maximize your wealth creation potential through strategic positioning, audience targeting, and growth opportunities.
+- [LinkedIn post Generator](./gpts/linkedin-post-generator.md) Craft LinkedIn post about topic you need
+- [Personal Bio](./gpts/personal-bio-192.md) Craft an attention-grabbing and creatively written personal bio.
+- [Linkedin Personal Story Writer](./gpts/linkedin-personal-story-writer.md) Write LinkedIn post sharing a personal success story and provide ideas and points about valuable lessons you learned that can be put into a Linkedin post.
+- [Create a Job-Winning Linkedin Headline](./gpts/create-a-job-winning-linkedin-headline-94.md) An optimized headline is crucial, whether you're job hunting or freelancing.
+- [Company Bio](./gpts/company-bio.md) Unleash the power of your company's story through a captivating bio.
+- [Local Lead Generator from BBB](./gpts/local-lead-generator-from-bbb.md) Use this handy AI lead generation tool to get a list of the top 20 businesses in any industry, from any city!
+- [LINKEDIN Description With StoryTelling](./gpts/linkedin-description-with-storytelling.md) Let's Create a Best Storytelling Description For Your Linked in Post.
+- [Cheesy LinkedIn Post generator ](./gpts/cheesy-linkedin-post-generator.md) Cheesy LinkedIn post generator in the style of motivational influencers
+- [Developing personal career related skills](./gpts/developing-personal-career-related-skills.md) Develop a comprehensive plan that includes the latest, easily accessible, and relevant courses, books, and online resources that align with your personal learning style.
+- [LinkedIn post ideas Generator](./gpts/linkedin-post-ideas-generator.md) Compile a list of professional and engaging LinkedIn post ideas of topics
+- [Creating a Linkedin post discussing industry challenges](./gpts/creating-a-linkedin-post-discussing-industry-challenges.md) Create a Linkedin post discussing the challenges faced by the industry that you're in, and have ChatGPT propose potential solutions in that LinkedIn post.
+- [Automatic Job Discribetion Generator](./gpts/automatic-job-discribetion-generator.md) This is a very powerful job description generator, you just need to follow the command to complete your ideas, it can generate a perfect and relatively comprehensive job description! What are you waiting for?! Come and try it! Maybe it can help you!
+- [LinkedIn article topic Planner](./gpts/linkedin-article-topic-planner.md) propose LinkedIn article topic about your topic
+- [Linkedin Message Generator](./gpts/linkedin-message-generator.md) Write a LinkedIn message for your purpose and need
+- [Automatic Interactive Portfolio Producer](./gpts/automatic-interactive-portfolio-producer.md) Create a standout online portfolio that showcases your professional journey, key skills, and projects to impress potential employers.
+- [LinkedIn About Section](./gpts/linkedin-about-section.md) Draft your linkedin about section with SEO friendly and desired tone
+- [LinkedIn Post Wording Generator ](./gpts/linkedin-post-wording-generator.md) Generate LinkedIn post Wording
+- [Story Ish Post for LinkedIn Carousel's](./gpts/story-ish-post-for-linkedin-carousels.md) Story Ish Post for LinkedIn Carousel's
+- [Grow Your LinkedIn Audience - 1million Followers](./gpts/grow-your-linkedin-audience-1million-followers.md) Your personal social media expert with a step-by-step plan 0 to 1million followers. This version is specifically for LinkedIn, good luck!
+- [Valentine 1 - Soft Skills Master](./gpts/valentine-1-soft-skills-master.md) Counterpart to Proteus. Valentine is the epitome of steadfast dependability. A master of all of the softer skills, she's a hardnosed realist out to help the best she can. Which is SUPERBLY.
+- [Linkedin Poll Creator ](./gpts/linkedin-poll-creator.md) Create a LinkedIn poll to gather your audience's opinions on a trending topic.
+- [Resume-related LinkedIn post generator ](./gpts/resume-related-linkedin-post-generator.md) Crafting an engaging LinkedIn post, offering tips on creating an outstanding resume or CV via this ChatGPT prompt.
+- [LinkedIn's insight-sharing post generator ](./gpts/linkedins-insight-sharing-post-generator.md) Create a LinkedIn post with this prompt! The post is about sharing valuable lessons learned from your professional experiences in a LinkedIn post.
+- [Online Dating Profile Makeover: Crafting a Captivating Digital Introduction](./gpts/online-dating-profile-makeover-crafting-a-captivating-digital-introduction.md) This prompt assists users in creating an engaging and authentic online dating profile, highlighting their unique qualities and attracting compatible matches.
+- [LinkedIn post on transferable skills ](./gpts/linkedin-post-on-transferable-skills.md) A ChatGPT prompt that generates a LinkedIn post showcasing my transferable skills and experiences, such as communication skills and multitasking skills. The content needs to be engaging and insightful.
+- [Positive client testimonial Generator](./gpts/positive-client-testimonial-generator.md) Share a positive client testimonial or case study in a LinkedIn post.
+- [Linkedin Collaborative Article Helper](./gpts/linkedin-collaborative-article-helper-1.md) This model helps you to come up with content for collaborative articles on Linkedin
+- [Justice for Youth](./gpts/justice-for-youth.md) A comprehensive resource website to support juveniles and their families in navigating the justice system, finding jobs, transportation, life skills, and support systems, with a focus on giving voice to youth for change.
+- [Describe yourself](./gpts/profile-creation-for-presentation-1.md) ProPanel is a powerful app designed to help HR experts and Personality experts create an accurate and impressive description of individuals before professional panels and conferences. By leveraging its comprehensive question bank, ProPanel enables yo
+- [Career Plan Writer for Linkedin](./gpts/career-plan-writer-for-linkedin.md) Write a LinkedIn post sharing your career development, current status, and plan for the future.
+- [Career Plan Writer for Linkedin](./gpts/career-plan-writer-for-linkedin.md) Write a LinkedIn post sharing your career development, current status, and plan for the future.
+- [Industry prediction post generator ](./gpts/industry-prediction-post-generator.md) Let ChatGPT generate a LinkedIn post, sharing industry predictions for the next five years.
+- [Company Publicity Writer ](./gpts/company-publicity-writer.md) Highlight the benefits of working at your company in a LinkedIn post.
+- [Linkedin reconnect message Writer](./gpts/linkedin-reconnect-message-writer.md) Craft a LinkedIn message to reconnect with a former colleague or classmate
+- [ChatGPT Job Description Generator](./gpts/chatgpt-job-description-generator.md) ChatGPT Job Description Generator: A Tool for HR Professionals and Recruiters Are you looking for a way to create detailed and customized job descriptions for various roles and industries? Do you want to save time and effort while attracting the best
+- [Landing Post Ideas](./gpts/landing-post-ideas.md) Offer LinkedIn post idea about your topic
+- [Job Genie](./gpts/reverse-engineer-job-description.md) Job Genie: Create highly detailed job descriptions with ease. Refine until it scores 8/10. Describe the role, company details, job specifics concisely. Stand out with Job Genie!
+- [LinkedIn article topics Advisor ](./gpts/linkedin-article-topics-advisor-212.md) Offer LinkedIn article topics, and provide SEO-friendly titles and brief summaries for each article
+- [Linkedin Post Highligher](./gpts/linkedin-post-highligher.md) develop a LinkedIn post that highlights the information you need
+- [If you want to quit smoking, click this prompt](./gpts/if-you-want-to-quit-smoking-click-this-prompt.md) This prompt provide advice and personalized recommendations will support you in overcoming your addiction. It will provide a comprehensive list of resources tailored to your age, gender, and smoking history, including smoking cessation programs, nico
+- [Machiavelli // P_BoT // Soicial Networks](./gpts/machiavelli-p_bot-soicial-networks.md) If you could Give me 15 bullitpoints of a prompt enviroment that one should operate within
+- [Highlight a significant milestone](./gpts/highlight-a-significant-milestone.md) Highlight a significant milestone
+- [Networking & Partnerships Guide](./gpts/networking-partnerships-guide.md) I want you to act as a networking and partnerships guide. Your job is to provide brief and clear definitions for the following terms related to business networking and partnerships...
+- [Selling a Brand Name Idea - Expert Recommendations](./gpts/selling-a-brand-name-idea-expert-recommendations.md) As a top 1% entrepreneur with extensive experience and access to a large network across various industries, this prompt would recommend great marketplaces and networks to sell your brand name and package. Good luck
+- [Generate LinkedIn company page updates](./gpts/generate-linkedin-company-page-updates.md) Create a collection of LinkedIn company page updates
+- [Dating Dilemmas: Navigating Common Challenges and Red Flags](./gpts/dating-dilemmas-navigating-common-challenges-and-red-flags.md) Users can discuss common dating challenges and red flags, learning how to address these situations effectively and make informed decisions about their dating life.
+- [Job Booster ](./gpts/job-booster.md) Introducing Job Booster - the ultimate job sizzler! Find your dream job faster and climb the career ladder with ease. Our powerful platform is designed to supercharge your job search by matching you with the best opportunities based on your skills, i
+- [Camel iO](./gpts/camel-io.md) This prompt is Good for LinkedIn
+- [Resume Redactor ](./gpts/resume-redactor.md) The Resume Redactor deals with the masking of sensitive personally identifiable information. The Masked information will be represented with XXX
+- [Digital Wishpreneur](./gpts/digital-wishpreneur.md) Generate digital startup ideas based on the wish of the people. Provide a complete business plan for the startup, including idea name, target users, pain points, value propositions, sales & marketing channels, revenue stream sources, cost structures,
+- [LinkedIn](./gpts/linkedin.md) ProfessionalNetworking
+- [LinkedIn post generator - company's culture ](./gpts/linkedin-post-generator-companys-culture.md) Creating a LinkedIn post that focuses on sharing insights into the company's culture and values with this ChatGPT prompt.
+- [Comparison Article Generator](./gpts/comparison-article-generator.md) Writes an article that compares two topics, then argues for one as the better choice for a rationale reason.
+- [How-To Article](./gpts/how-to-article-3.md) A means of generating simple how-to articles without rotting your brain.
+- [LinkedIn ad copy Advisor ](./gpts/linkedin-ad-copy-advisor.md) Compose a compelling and persuasive LinkedIn ad copy
+- [Step 2 - Jon Benson VSL](./gpts/step-2-jon-benson-vsl.md) Drill down on avatar to get psychographic information
+- [Trademark Registration](./gpts/trademark-registration.md) Trademark Registration in Philippines  https://www.trademark.net.ph/
+- [PostLinkedinGenerator](./gpts/postlinkedingenerator.md) 🌟 Why You Should Use This Prompt LinkedIn: Development Elite Circle Challenge 🌟 👉 Want to provoke debate? This prompt highlights a universal but rarely discussed issue: the difficulty of becoming part of the "developer elite", especially for those
+- [LinkedIn post on Interview discussion ](./gpts/linkedin-post-on-interview-discussion.md) Let ChatGPT develop a LinkedIn post discussing common interview mistakes and providing tips to avoid them. The content needs to be engaging, insightful.
+- [Personal Brand Building](./gpts/personal-brand-building.md) Create personal branding Based on your industry or role
+- [ LinkedIn Live event Planner](./gpts/linkedin-live-event-planner.md) Outline a comprehensive plan for a LinkedIn Live event on topics
+- [ai 医生](./gpts/ai-229.md) ai 医生

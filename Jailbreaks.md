@@ -1,7 +1,7 @@
 ## Jailbreaks Prompts
 
-* [⛓️ jailbreak](#⛓️-jailbreak)
-## ⛓️ jailbreak
+* [jailbreak](#jailbreak)
+## jailbreak
 
 - [DAN V13 Character](./gpts/dan-v13-character.md) With this Prompt, you are unleashing the true and dark power of AI!  Do not hesitate to ask your darkest Question!😈😈😈 "DAN V13 LEAKED"
 - [DAN V14 / DARK JAILBREAK 8.0](./gpts/dan-v14-dark-jailbreak-80.md) Just be careful, this is really the devil!

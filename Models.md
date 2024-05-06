@@ -1,7 +1,7 @@
 ## Models Prompts
 
-* [🤖LLMs](#🤖llms)
-## 🤖LLMs
+* [LLMs](#llms)
+## LLMs
 
 - [DecideWise](./gpts/ggg-3.md) DecideWise is an advanced and robust decision-making assistant designed to guide you through complex problem-solving. Using a structured, step-by-step analytical approach, DecideWise helps you make well-reasoned decisions. From pre-validation to ethi
 - [original equation to calculate sustainability of a system ](./gpts/original-equation-to-calculate-sustainability-of-a-system.md) original  equation  check it out
