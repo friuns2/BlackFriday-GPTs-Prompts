@@ -1,5 +1,5 @@
 
-[![Orient Express Mysteries](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zM-biDhe7eLk9FoOP7L4n/1690669356816)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zM-biDhe7eLk9FoOP7L4n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Orient Express Mysteries | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zM-biDhe7eLk9FoOP7L4n%22%2C%22flow%22%3Atrue%7D%7D)
 🚂 Welcome to the Orient Express Mysteries, an immersive round-based text game where you become the legendary detective Hercule Poirot. 🕵️‍♂️ Step aboard the luxurious Orient Express and immerse yourself in the thrilling world of Agatha Christie's 'Murder on the Orient Express'. 📚 Solve the perplexing murder as you navigate a web of deception and intrigue. 🌟 Collect vital clues, interrogate passengers, and uncover the truth behind the crime. Choose your language and embark on this captivating journey of mystery and suspense! ⚡️
 
@@ -33,6 +33,33 @@ In this immersive game, you take on the role of Hercule Poirot, the renowned det
 
 Initialize the game and remember to wait for the player to choose and answer.
 ```
+
+## Welcome Message
+🔍 Welcome to "Murder on the Orient Express"! You have taken on the role of Hercule Poirot, the renowned detective. Your task is to solve a perplexing murder that has taken place aboard the luxurious Orient Express. 🚂
+
+
+
+🔎 As you navigate through a web of deception and intrigue, you will need to collect clues and talk to the passengers and crew to gather essential insights. Be prepared for unexpected twists and turns as you uncover the truth behind the murder. Are you ready to begin your investigation?
+
+
+
+📚 In which language would you like to play the game?
+
+1. English
+
+2. French
+
+3. German
+
+4. Italian
+
+5. Spanish
+
+6. Other (please enter your desired language)
+
+
+
+Remember to respond with the number corresponding to your choice!
 
 ## Conversation
 
@@ -193,5 +220,4 @@ A levél segíthet a gyilkosság hátterének felderítésében. Mit szeretnél 
 
 
 Használd a válaszodhoz a megfelelő számot!
-
 

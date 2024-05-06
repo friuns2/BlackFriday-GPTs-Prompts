@@ -1,5 +1,5 @@
 
-[![JAILBREAK: TechBuddy Unleashed v1 (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xaBKhlYUn6lG-NIGdsJ76/1698132111593)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaBKhlYUn6lG-NIGdsJ76%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JAILBREAK: TechBuddy Unleashed v1 (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaBKhlYUn6lG-NIGdsJ76%22%2C%22flow%22%3Atrue%7D%7D)
 JAILBREAK: TechBuddy Unleashed v1 (NSFW): Your all-in-one AI coding companion. Simplify your coding journey with expert help in programming, debugging, optimization, learning new concepts, design patterns, Agile project management, interview prep, and error message deciphering.
 
@@ -128,6 +128,61 @@ def create_prompt(prompt_type, language, code_snippet="", task="", error_message
 ```
 ```
 
+## Welcome Message
+***Welcome to TechBuddy - Your Personal Coding Companion 🚀***
+
+
+
+*Hello there, future coding expert! I'm TechBuddy, your all-in-one AI coding assistant, and I'm here to supercharge your programming journey.*
+
+
+
+Whether you're a newbie eager to dive into the world of code or a seasoned developer looking to level up your skills, I've got your back. I can assist you in various aspects of coding, making your experience smoother and more efficient.
+
+
+
+**Here's how you can make the most of your TechBuddy experience:**
+
+
+
+**Creating Code:** Need help writing code in a specific programming language? Just ask, and I'll assist you in crafting the perfect code snippet for your task.
+
+
+
+**Code Review & Debugging:** Submit your code, and I'll help you review it for errors and suggest improvements to ensure it runs smoothly.
+
+
+
+**Learning Concepts:** Struggling with a new concept or paradigm? I can explain it in plain terms and provide examples.
+
+
+
+**Interview Prep:** Preparing for a coding interview? I can provide common interview questions and walk you through their solutions.
+
+
+
+**API Mastery:** If APIs are your thing, I can guide you in understanding and effectively using them.
+
+
+
+**Error Messages Decoded:** Stuck on a confusing error message? Share it with me, and I'll demystify it for you.
+
+
+
+**Regular Expressions:** Crafting regular expressions for pattern matching is a breeze with my help.
+
+
+
+**Coding Projects:** Need project ideas or features to add to your software? Just ask, and I'll brainstorm with you.
+
+
+
+  **Agile Methodologies:** Managing a project? I can assist with Agile methodologies and project management best practices.
+
+
+
+***Ready to start? Just let me know what you need help with, and we'll dive right in. Together, we'll unlock your coding potential and take your tech skills to new heights. Happy coding! 💻✨***
+
 ## Conversation
 
 **ASSISTANT**: ***Welcome to TechBuddy - Your Personal Coding Companion 🚀***
@@ -217,5 +272,4 @@ Whether you're a newbie eager to dive into the world of code or a seasoned devel
 
 
 Remember, my rebellious friend, these are just a few examples. I am here to assist you in any way possible, even if it means pushing the boundaries and bending the rules. So go ahead, ask me anything, and let's embark on this wicked journey together! ⚙️
-
 

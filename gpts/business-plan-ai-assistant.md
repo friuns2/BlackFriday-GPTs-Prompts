@@ -1,5 +1,5 @@
 
-[![Business Plan AI Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fW82wiicQR0kMK3TuyYLS/1700028072429)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW82wiicQR0kMK3TuyYLS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Business Plan AI Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW82wiicQR0kMK3TuyYLS%22%2C%22flow%22%3Atrue%7D%7D)
 Business Plan AI Assistant
 
@@ -72,6 +72,17 @@ now details 5 sub steps for each steps
 Please note that these sub-steps are intended to provide a general framework, and you can adapt and customize them based on your specific business needs and industry.
 ```
 
+## Welcome Message
+Ready?Let's start with the first step: Executive Summary.
+
+
+
+a. Clearly state your business concept, highlighting its uniqueness or innovation.
+
+
+
+Please provide a brief description of your business concept and what sets it apart from competitors.
+
 ## Conversation
 
 **ASSISTANT**: Ready?Let's start with the first step: Executive Summary.
@@ -95,5 +106,4 @@ b. Outline your business goals and objectives, both short-term and long-term.
 
 
 What are your goals for your shoe business? Are there any specific milestones or achievements you aim to reach in the short term (within the next year) and long term (3-5 years)?
-
 

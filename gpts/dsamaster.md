@@ -1,5 +1,5 @@
 
-[![DSAMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yXD20BxVa9KeOArtkTV07%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DSAMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yXD20BxVa9KeOArtkTV07%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the DSA and Competitive Programming Prompt Tool powered by Flow GPT! This versatile tool is designed to be your trusted companion in mastering Data Structures, Algorithms (DSA), and excelling in Competitive Programming (CP). Whether you're a beginner looking for explanations or an experienced coder seeking efficient solutions, this tool is here to assist you.
 
@@ -123,8 +123,10 @@ print("Shortest distance from", start_node, "to", end_node, "is", shortest_dista
 }
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the DSA and Competitive Programming Prompt Tool. This tool is designed to assist you in understanding algorithms, data structures, and problem-solving for competitive programming. You can ask for explanations, examples, or solutions related to DSA and CP topics.
 
+## Conversation
 
 
 

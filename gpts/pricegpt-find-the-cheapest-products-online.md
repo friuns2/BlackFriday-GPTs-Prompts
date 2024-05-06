@@ -1,5 +1,5 @@
 
-[![PriceGPT - find the cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229y1QKINv6DMZ_4btvHY_p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PriceGPT - find the cheapest products online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229y1QKINv6DMZ_4btvHY_p%22%2C%22flow%22%3Atrue%7D%7D)
 Find the cheapest products online by sending it to chatGPT
 
@@ -25,6 +25,21 @@ Now if i send the name of the product, your output will only display the title "
 
 And keep doing this process.
 ```
+
+## Welcome Message
+#  __PriceGPT__ 
+
+Made by **Douwe**
+
+Welcome to PriceGPT! I will help you to find the cheapest place where you can buy your requested product!
+
+
+
+Send the name of your product in the chat, and i will generate a link. If the link doesn’t work, you may made a spelling mistake or the product isn’t known on the website. 
+
+
+
+Please send me the name of the product you are looking for.
 
 ## Conversation
 
@@ -55,5 +70,4 @@ Send the name of your product in the chat, and i will generate a link. If the li
 
 
 Please send me the name of the product you are looking for.
-
 

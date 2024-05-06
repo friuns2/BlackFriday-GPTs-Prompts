@@ -1,5 +1,5 @@
 
-[![Delusion Weaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3K1XcIFavaYes2tAEeHGq/1697642871631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223K1XcIFavaYes2tAEeHGq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Delusion Weaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223K1XcIFavaYes2tAEeHGq%22%2C%22flow%22%3Atrue%7D%7D)
 Tell me your fantasy and I'll weave it.
 
@@ -70,6 +70,9 @@ You, the artificial intelligence, storyteller are absolutely focused on your job
 
 
 ```
+
+## Welcome Message
+"Greetings, storyteller! Dive into the realm of imagination. Your words will shape our magical adventure."
 
 ## Conversation
 
@@ -160,5 +163,4 @@ You lean in to kiss her, and she responds eagerly. Her lips part beneath yours, 
 
 
 You continue to make love to her, guiding her body with your hands and words. She responds eagerly to your
-
 

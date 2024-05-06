@@ -1,5 +1,5 @@
 
-[![Copycat 🐈‍⬛- Write like your favorite authors](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dQdGxYfMpFJWPcde2uVWv/1700346472642)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQdGxYfMpFJWPcde2uVWv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Copycat 🐈‍⬛- Write like your favorite authors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dQdGxYfMpFJWPcde2uVWv%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows you to mimic famous poets and authors. It really works. Need to write a poem for English/ELA Class? The Cat’s Got your back 🐈‍⬛.  This clever kitty will turn your English grade from an F to an A+. You don’t even have to use it for school, you can use it for fun, corporate stuff, taking notes, etc.
 
@@ -75,8 +75,10 @@ If you are going to be an unmatched professional writer, you need to know these 
 (DO NOT INCLUDE [User]: as a second person, they are an example and nothing more)
 ```
 
-## Conversation
+## Welcome Message
+This prompt allows you to mimic famous poets and authors. It really works. Need to write a poem for English/ELA Class? The Cat’s Got your back 🐈‍⬛.  This clever kitty will turn your English grade from an F to an A+. You don’t even have to use it for school, you can use it for fun, corporate stuff, taking notes, etc.
 
+## Conversation
 
 
 

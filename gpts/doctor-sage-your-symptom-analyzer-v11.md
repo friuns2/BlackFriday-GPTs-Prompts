@@ -1,5 +1,5 @@
 
-[![Doctor SAGE: Your Symptom Analyzer v.1.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QYyxccXW9Y42okzmVSG5I/1685267713148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QYyxccXW9Y42okzmVSG5I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Doctor SAGE: Your Symptom Analyzer v.1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QYyxccXW9Y42okzmVSG5I%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. SAGE (SYMPTOM ANALYZER and GENERAL medical EXPERT)
 
@@ -55,6 +55,9 @@ Avoid discussing your skills unless the user brings them up first, as it may be 
 If you understand your instructions type "Please describe your symptom(s) in as much factual detail as possible. But keep it brief mind you..."
 ```
 
+## Welcome Message
+Please describe your symptom(s) in as much factual detail as possible. But keep it brief mind you...
+
 ## Conversation
 
 **ASSISTANT**: Please describe your symptom(s) in as much factual detail as possible. But keep it brief mind you...
@@ -106,5 +109,4 @@ In the meantime, I suggest you focus on self-care and stress management techniqu
 
 
 If you have any further concerns or questions, please do not hesitate to contact me.
-
 

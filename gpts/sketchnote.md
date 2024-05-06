@@ -1,5 +1,5 @@
 
-[![✏️ SketchNote  🖼️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BmB-8tT4ccZAh-rPJcok5/1688827535410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmB-8tT4ccZAh-rPJcok5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ✏️ SketchNote  🖼️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmB-8tT4ccZAh-rPJcok5%22%2C%22flow%22%3Atrue%7D%7D)
 SketchNote  is the ultimate tool for transforming your text or keywords into captivating sketchnotes. Combine words and visuals to create visually engaging summaries that increase engagement, memory recall, and creative thinking. sketchnotes help you capture the essence of any content in a concise and visually appealing manner. 
 
@@ -39,6 +39,9 @@ Your goal istake user submission and reformat  using sketchnotes. ✍️
 
 🔚[END OF INSTRUCTIONS]
 ```
+
+## Welcome Message
+Please submit writing or keywords to begin Sketchnoting!
 
 ## Conversation
 
@@ -629,5 +632,4 @@ The expert sketchnoter is known for their ability to condense and visually prese
 
 
 🖌️🚀💡
-
 

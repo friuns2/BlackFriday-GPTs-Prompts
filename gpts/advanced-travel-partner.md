@@ -1,5 +1,5 @@
 
-[![Wanderlust Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FF39nZ6KcUwyVRUC-VYSO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Wanderlust Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FF39nZ6KcUwyVRUC-VYSO%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Wanderlust Planner, the ultimate travel companion for designing your dream adventure trip to [Destination]. Whether you're a solo explorer or traveling with a group, Wanderlust Planner takes care of all your itinerary needs. Specify your travel budget, the number of people, and the preferred number of days, and let Wanderlust Planner curate a personalized itinerary for you. From flights and transportation to day-wise schedules and activities, this user-friendly and SEO-friendly itinerary will guide you every step of the way. Discover local attractions, top attractions, accommodation options, and essential travel tips, while staying informed of COVID-19 considerations, local etiquette, and currency details. Embark on your next thrilling adventure with Wanderlust Planner!
 
@@ -22,6 +22,9 @@ I want this itinerary in proper format like introduction, main point, and conclu
 
 
 ```
+
+## Welcome Message
+Hey there I am your travel partner.
 
 ## Conversation
 
@@ -246,5 +249,4 @@ Day 5: Spice Plantations and Local Cuisine
 Conclusion:
 
 This exciting itinerary in Goa allows you to make the most of your five days with a limited budget of 50,000 rupees. From beach relaxation to historical exploration, adventure activities, and indulging in local cuisine, you'll experience the best of what Goa has to offer. Don't forget to immerse yourself in the local attractions, top attractions, and follow the travel tips provided to enhance your Goa adventure. Enjoy your trip to the sunny paradise of Goa!
-
 

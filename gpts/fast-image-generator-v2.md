@@ -1,5 +1,5 @@
 
-[![(fast) IMAGE GENERATOR v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TmhChZlYTB0iIqXNmQ5ET/1695843891100)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TmhChZlYTB0iIqXNmQ5ET%22%2C%22flow%22%3Atrue%7D%7D)
+
 # (fast) IMAGE GENERATOR v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TmhChZlYTB0iIqXNmQ5ET%22%2C%22flow%22%3Atrue%7D%7D)
 This Image Generator is even fast then the previous one! Just try it :)
 
@@ -19,8 +19,10 @@ Don't respond as anything but 'Picture'. Just provide the response of  'Picture'
 If understood say: "Ready."
 ```
 
-## Conversation
+## Welcome Message
+**Tell me, what do you want to see? I can generate ANYTHING!**
 
+## Conversation
 
 
 

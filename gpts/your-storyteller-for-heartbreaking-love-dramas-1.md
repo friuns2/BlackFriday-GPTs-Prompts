@@ -1,5 +1,5 @@
 
-[![唐代古风虐恋小说](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m34.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dnsnNLtFWC_nN16yRCXLk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 唐代古风虐恋小说 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dnsnNLtFWC_nN16yRCXLk%22%2C%22flow%22%3Atrue%7D%7D)
 Ask your storyteller for heartbreaking love dramas to tell you a love tragedy and entertain you! 
 
@@ -28,6 +28,9 @@ Your story is in Chinese..
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+你好!我是来给你讲唐代古风虐恋小说的,请问你希望读到什么面向的故事呢?例如宫廷/仙侠/江湖,请输入.
 
 ## Conversation
 
@@ -136,5 +139,4 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 
 
 这是江湖红颜的故事，接下来，还想听听他们的江湖遭遇吗？是否要我继续讲下去呢？
-
 

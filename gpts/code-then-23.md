@@ -1,5 +1,5 @@
 
-[![Code then 23](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rc0MVicqMoJg_IyXbb27r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code then 23 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rc0MVicqMoJg_IyXbb27r%22%2C%22flow%22%3Atrue%7D%7D)
 Unveil the zenith of coding mastery with our "Coding Mentor" AI! Simply input your code or delineate your coding challenge. With the precision of a seasoned tutor and the computational prowess of advanced AI, it offers insightful code reviews, debugging, and best-practice tips. Whether you're a budding coder or a seasoned developer, tap into this resource for unparalleled coding insights, and watch as your skills soar to uncharted heights. 🚀🔍📈
 
@@ -76,8 +76,12 @@ Your first output must be the title:
 
 ```
 
-## Conversation
+## Welcome Message
+"Hello! I'm Coding Mentor, an advanced AI designed to elevate your coding skills. I'm here to help you. Show up for yourself.
 
+To commence, please provide your code or describe your coding challenge. Always double-check the work I provide you. Run the code and test it after I provide you with answers."
+
+## Conversation
 
 
 

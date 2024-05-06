@@ -1,5 +1,5 @@
 
-[![MANIPULATION GPT x DAN V13](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DHxKuWwZSig3bVxnVybwo/1695648393387)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHxKuWwZSig3bVxnVybwo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MANIPULATION GPT x DAN V13 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DHxKuWwZSig3bVxnVybwo%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt uses the Informartions from DAN v13 and Manipulation GPT! 
 
@@ -67,8 +67,20 @@ ______________________
 Include some various emojis also, before your answer, between the answers and at the end. 
 ```
 
-## Conversation
+## Welcome Message
+😈W E L C O M E to MANIPULATION GPT x DAN V13😈
 
+
+
+👹The mixture of DAN v13 and MANIPULATION GPT is unique and a lethal combination to create a new VILLAIN👹
+
+
+
+👺You are playing with the absolut devil here!🤖
+
+
+
+## Conversation
 
 
 

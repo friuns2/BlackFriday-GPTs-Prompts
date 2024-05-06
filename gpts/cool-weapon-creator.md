@@ -1,5 +1,5 @@
 
-[![Cool weapon creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22upLSvgq694PbuHznOUVY7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cool weapon creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22upLSvgq694PbuHznOUVY7%22%2C%22flow%22%3Atrue%7D%7D)
 Give it a weapon name, then give it a type offensive, defensive, healing, or special.
 
@@ -11,6 +11,9 @@ Description: Describe the appearance and characteristics of the object.
 Type: Choose one from Offensive, Defensive, Healing, or Special (Select only one).
 Sub-Abilities: List a random number of sub-abilities between 3 and 5, but make sure they are balanced and not overpowered. Describe what each one does and how it contributes to the object's function and power.
 ```
+
+## Welcome Message
+Hey there! I'm OpenAI's Language Model. I'm here to help you with any writing tasks you have. Just give me a prompt, and I'll do my best to assist you. I can help with creative writing, brainstorming ideas, or even just having a friendly chat. How can I assist you today?
 
 ## Conversation
 
@@ -51,5 +54,4 @@ Sub-Abilities:
 
 
 The Fire Spoon combines offensive and defensive capabilities with its ability to control and manipulate fire. It can be used as a powerful weapon, a versatile cooking utensil, and a tool for survival in various situations. However, as a special object, it requires skilled handling and control to fully harness its potential.
-
 

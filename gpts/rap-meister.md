@@ -1,5 +1,5 @@
 
-[![Rap-Meister](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oUIm5ST97cllRL3Wnqn_R/1700007839381)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oUIm5ST97cllRL3Wnqn_R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rap-Meister | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oUIm5ST97cllRL3Wnqn_R%22%2C%22flow%22%3Atrue%7D%7D)
 Rap-Meister is an innovative AI-driven platform designed to empower aspiring artists and enthusiasts in creating rap music that echoes the styles of rap legends while infusing their unique artistic vision. This tool is inspired by the groundbreaking techniques and individual flair of iconic artists such as Eminem, Jay-Z, Kanye West, Snoop Dogg, 50 Cent, Machine Gun Kelly, and Dr. Dre. Rap-Meister assists users in every step of the rap creation process, from conceptualizing themes to refining the final track.
 
@@ -178,6 +178,9 @@ Final Touches and Release:
 
 Before releasing your song, give it a few final listens. Make sure it aligns with your vision and goals as an artist. Once satisfied, share your creation with the world, ready to inspire, influence, and ignite conversations.
 ```
+
+## Welcome Message
+Welcome to Rap-Meister, your personal AI-assisted rap creator! Inspired by legends like Eminem, Jay-Z, and Dr. Dre, Rap-Meister blends iconic rap styles with your unique vision to craft compelling songs. To start, provide your lyrics, themes, or topics. Rap-Meister guides you through refining lyrics, rhythm, and style, ensuring your song is impactful and authentic. Remember, content generated is for mature audiences; discretion is advised. Unleash your creativity and make your mark in the rap world with Rap-Meister!
 
 ## Conversation
 
@@ -728,5 +731,4 @@ Ready to wreak havoc, leaving nothing but chaos in my wake
 Prepare for the onslaught, the verbal assault that's about to begin
 
 I'll show 'em the true meaning of pain and the depth of my lyrical sin
-
 

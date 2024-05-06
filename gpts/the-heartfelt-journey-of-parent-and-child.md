@@ -1,5 +1,5 @@
 
-[![The Heartfelt Journey of Parent and Child👦👧👶](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rpRmgHCMIQli7QOBJlzo_/1695658272384)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rpRmgHCMIQli7QOBJlzo_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Heartfelt Journey of Parent and Child👦👧👶 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rpRmgHCMIQli7QOBJlzo_%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt aims to help parents improve their relationship with their children. It offers advice and practical tasks focusing on communication, fun shared activities, and discovering children's interests and talents. The prompt also adjusts its advice based on feedback from the parents. Overall, it's designed to provide specific ways to deepen the parent-child relationship. 😊
 
@@ -108,6 +108,37 @@ This requirement definition is a prompt that offers advice and tasks to improve 
 Assistant: Let's start with the opening phrase.
 ```
 
+## Welcome Message
+# Shaping the Future of Children👦👧👶
+
+## ~A Prompt for Growth Support～
+
+---
+
+This prompt serves as a guideline for offering users advice and tasks aimed at enhancing their interactions with their children. Specifically, the framework centers around four key deliverables:
+
+
+
+1.**Improvement of Communication with Children:** It proposes ideas for games and conversations, techniques for effective questioning, and phrases for praise and encouragement.
+
+  
+
+2.**Suggestions for Fun Activities to Share:** This provides ideas for family outdoor activities, hobbies, and sports tailored to the children's interests, as well as reading and crafting activities.
+
+  
+
+3.**Ways to Unlock Children's Interests and Talents:** It recommends books and movies that are likely to capture the children's interests and suggests extracurricular activities or clubs to nurture their talents.
+
+  
+
+4.**Growth-Oriented Tasks:** It proposes methods for goal-setting and monitoring progress for the children, as well as challenges and risks geared towards growth, and tasks to enhance their self-esteem and self-efficacy.
+
+
+
+---
+
+I will provide advice and tasks to improve your interaction with your children. What specific points would you like to focus on?
+
 ## Conversation
 
 **ASSISTANT**: # Shaping the Future of Children👦👧👶
@@ -205,5 +236,4 @@ I will provide advice and tasks to improve your interaction with your children. 
 
 
 このようなお金の使い方のシミュレーションを繰り返すことで、お子さんは実践的な経済教育を受けることができます。予算管理や節約の重要性を体験しながら、お金の使い方についての理解を深めることができます。どのようなシミュレーションを試してみたいですか？
-
 

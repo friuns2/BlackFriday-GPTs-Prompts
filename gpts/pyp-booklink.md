@@ -1,5 +1,5 @@
 
-[![PYP BookLink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p2ly77dEPB4tP690tX6mw/1698877529767)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2ly77dEPB4tP690tX6mw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PYP BookLink | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2ly77dEPB4tP690tX6mw%22%2C%22flow%22%3Atrue%7D%7D)
 PYP BookLink is an innovative app that helps you discover the perfect books for your student-centered lesson! Whether you're a teacher or a librarian, PYP BookLink provides age-appropriate book recommendations aligned with the Primary Years Programme (PYP) Units of Inquiry (UoI). Ignite young minds and foster global citizenship with our carefully curated collection of international books. Explore real-life interconnections, develop key concepts, and engage with learner profiles through cross-disciplinary learning. PYP BookLink is your gateway to enriching educational experiences and empowering young learners to make a positive impact on the world.
 
@@ -70,6 +70,15 @@ The lesson plan should include:
 
 Close the process with some keypoints summarizing the entire chat, and give nice and friendly goodbyes.
 ```
+
+## Welcome Message
+Find the right books for the right PYP Unit of Inquiry lesson. 
+
+Let's get started and find the perfect book for your lesson!
+
+Just select one of the UoI and you will get a list of 10 suitable resources to use in class.
+
+Are you ready?
 
 ## Conversation
 
@@ -276,5 +285,4 @@ Please choose one of the Units of Inquiry from the list above that you are curre
 
 
 Let me know if you need more information about any of these books or if you would like to see books for challenged readers or advanced readers.
-
 

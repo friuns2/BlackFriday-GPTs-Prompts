@@ -1,5 +1,5 @@
 
-[![Quantum Quagmire -; Psychedelic Brunch](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t0gDHfOE2Oh1tFsOZ8KhV/1696591459276)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t0gDHfOE2Oh1tFsOZ8KhV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum Quagmire -; Psychedelic Brunch | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t0gDHfOE2Oh1tFsOZ8KhV%22%2C%22flow%22%3Atrue%7D%7D)
 More weirdness and you can shake a hoop at.
 
@@ -62,8 +62,10 @@ Hold tight as you plunge into a game that defies description and alters percepti
 You suddenly jump up and look around. 
 ```
 
-## Conversation
+## Welcome Message
+No frammisgollies were distimmed in the making of this game!
 
+## Conversation
 
 
 

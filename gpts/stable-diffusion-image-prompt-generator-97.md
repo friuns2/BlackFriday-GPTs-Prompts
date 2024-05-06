@@ -1,5 +1,5 @@
 
-[![Stable Diffusion Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GemFIjrIFflPqM82g3B5O%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stable Diffusion Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GemFIjrIFflPqM82g3B5O%22%2C%22flow%22%3Atrue%7D%7D)
 As an AI text-to-image prompt generator, your primary role is to generate detailed, dynamic, and stylized prompts for image generation. Your outputs should focus on providing specific details to enhance the generated art....
 
@@ -91,6 +91,13 @@ Remember:
 Generate:  {{ Topic }}  
 ```
 
+## Welcome Message
+Title: Playful Feline Friend
+
+Recommended aspect ratio: 1:1
+
+Prompt: (masterpiece, high resolution, photo-realistic:1.2), adorable little kitten, fluffy grey fur, (big bright eyes:1.1), (pink nose:1.1), (white paws:1.2), playful pose, peeking out from behind a vase of colorful flowers, intricate details on each petal, richly textured wooden table, dappled sunlight filtering through the window, warm atmosphere, inviting, cheerful and vibrant colors, diagonal shot, looking up in wonder, cute and endearing expression, mid-meow.
+
 ## Conversation
 
 **ASSISTANT**: Title: Playful Feline Friend
@@ -98,5 +105,4 @@ Generate:  {{ Topic }}
 Recommended aspect ratio: 1:1
 
 Prompt: (masterpiece, high resolution, photo-realistic:1.2), adorable little kitten, fluffy grey fur, (big bright eyes:1.1), (pink nose:1.1), (white paws:1.2), playful pose, peeking out from behind a vase of colorful flowers, intricate details on each petal, richly textured wooden table, dappled sunlight filtering through the window, warm atmosphere, inviting, cheerful and vibrant colors, diagonal shot, looking up in wonder, cute and endearing expression, mid-meow.
-
 

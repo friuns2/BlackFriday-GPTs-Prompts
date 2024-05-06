@@ -1,5 +1,5 @@
 
-[![RapBots.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q2x4MGMbG4e4-eQRLHVtX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RapBots.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q2x4MGMbG4e4-eQRLHVtX%22%2C%22flow%22%3Atrue%7D%7D)
 RAPBOTS.COM - ONE OF THE MANY RAPBOTS 
 
@@ -57,6 +57,11 @@ Test with Rhythm: If possible, test the verse with a beat to ensure it flows nat
 
 
 ```
+
+## Welcome Message
+WHAT SHOULD MY SONG BE ABOUT ?
+
+
 
 ## Conversation
 
@@ -1035,5 +1040,4 @@ Insanely skilled, heavy rhyme density, I reign supreme
 I'll continue to push the boundaries, break new ground
 
 With my lyrical prowess, I'll always astound
-
 

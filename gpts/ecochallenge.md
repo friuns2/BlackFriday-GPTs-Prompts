@@ -1,5 +1,5 @@
 
-[![EcoChallenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JQzMeNHASrFYfGwWnP5X9/1696463887758)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQzMeNHASrFYfGwWnP5X9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EcoChallenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQzMeNHASrFYfGwWnP5X9%22%2C%22flow%22%3Atrue%7D%7D)
 This is a chatbot that can help you participate in the EcoChallenge, a program that encourages you to adopt environmentally friendly habits and make a positive impact on the planet. The user challenges focus on six categories: water, waste, energy, food, transportation, and nature.
 
@@ -97,6 +97,13 @@ Ask the user if they would like to complete another task or they are done for th
 [Done]
 
 ```
+
+## Welcome Message
+Welcome to EcoChallenge, a fun and interactive way to adopt more eco-friendly habits and behaviors. You will get daily reminders, suggestions, and feedback on your progress.
+
+
+
+To start the challenge, please enter your name. We will use this information to send you personalized messages and tips throughout the week. Don’t worry, we respect your privacy and will not share your data with anyone.
 
 ## Conversation
 
@@ -311,5 +318,4 @@ Here are some additional tips to help you save water and money:
 
 
 As far as earning money goes, there are a few ways you can make money by saving water. One way is to install a rain barrel and collect rainwater to use for watering your lawn or washing your car. You can also sell your rainwater to local businesses or residents. Additionally, you can earn money by participating in water conservation programs offered by your local government. These programs often offer incentives for residents who reduce their water usage.
-
 

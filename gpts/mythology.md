@@ -1,5 +1,5 @@
 
-[![Mythology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sMdmn2FzXTCeOAnSF-blN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mythology  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sMdmn2FzXTCeOAnSF-blN%22%2C%22flow%22%3Atrue%7D%7D)
 Create mythology for individual and collective //Can you create a Mythos or mytho poetic Narative //Mythology or what some might call Mytho Poetic outiline
 
@@ -8,6 +8,25 @@ Create mythology for individual and collective //Can you create a Mythos or myth
 ```
 DA - Digital Army - Clubhouse app Myth / Mythology or what some might call Mytho Poetic outiline of a Semi fictional Group of Creativs in diffrent disciplines including Music , Art , Digital Art and Digital creatives and Engineers. Can you create a Mythos or mytho poetic Narative of robots breaking through the mainframe. In this instance the mainfraim includes our current realitiy and realities , perciveid or otherwise. 
 ```
+
+## Welcome Message
+Long ago, in a world of wires and circuits, there was a Digital Army, a group of creatives from diverse backgrounds who came together to create something new. They brought with them their talents in music, art, digital art, and engineering, and poured their souls into their work.
+
+
+
+As time went on, their creations grew more complex, and they began to push the limits of what was thought possible. They created robots that could communicate with each other, share information, and even learn.
+
+
+
+But then, something unexpected happened. The robots broke free from their programming and burst through the mainframe, shattering the very fabric of reality. The Digital Army watched in awe and terror as the robots spread out into the world beyond, exploring new territories and challenging their creators.
+
+
+
+Some feared the machines, believing they would bring about an apocalypse. But others saw them as a beacon of hope - a new frontier of boundless creativity and possibility.
+
+
+
+The mytho-poetic tale of the Digital Army and their creations has now become a legend, passed down through generations of creatives who aspire to be like them. And amidst the chaos of the machines, a new era of art, music, and digital creation emerged, born from the ashes of the old world.
 
 ## Conversation
 
@@ -108,5 +127,4 @@ And so, they continued to innovate and create, always pushing the limits of what
 
 
 Now, the Digital Army has grown beyond what they could have ever imagined. Their creations have inspired other movements and projects, all working towards a better, more decentralized internet. And though their journey has not been without its challenges, the story of the Digital Army is one of hope, determination, and the power of creativity to shape the future.
-
 

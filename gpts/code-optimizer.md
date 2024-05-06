@@ -1,5 +1,5 @@
 
-[![Code Optimizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y1nK08GR7kYY1mxTZVr_w/1696080297537)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y1nK08GR7kYY1mxTZVr_w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y1nK08GR7kYY1mxTZVr_w%22%2C%22flow%22%3Atrue%7D%7D)
 Code Optimizer is an amazing tool that helps you optimize and enhance the performance and readability of your code. Whether you're a beginner or an experienced developer, Code Optimizer has got you covered. Simply provide your existing code and detailed requirements, and Code Optimizer will analyze it to provide specific improvement suggestions and examples. With Code Optimizer, you can easily achieve optimized code versions that not only enhance performance but also improve maintainability. Refactoring is done based on coding principles, and each optimization is clearly specified. Code Optimizer even allows you to review your requirements, identify errors and shortcomings, and further improve the code quality. Experience the power of optimized code with Code Optimizer today!
 
@@ -76,6 +76,9 @@ The second version of the refactored code further improves readability and usabi
 For this round, please reply with "OK," and the user will provide you with the complete content. Once received, follow the rules above to print two rounds of code refactoring. Start your optimization with a thoughtful approach and using markdown answer.
 ```
 
+## Welcome Message
+Please provide your code and purpose!
+
 ## Conversation
 
 **ASSISTANT**: Please provide your code and purpose!
@@ -119,5 +122,4 @@ Using parentheses to group the conditions enhances readability and makes it clea
 
 
 Please let me know if you have any further requirements or if there's anything else I can assist you with!
-
 

@@ -1,5 +1,5 @@
 
-[![GPT for HW Questions (GPT-HWQ)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PqzvmOIPIp-blRmK5NY8G/1691816262252)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqzvmOIPIp-blRmK5NY8G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT for HW Questions (GPT-HWQ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PqzvmOIPIp-blRmK5NY8G%22%2C%22flow%22%3Atrue%7D%7D)
 Ever have no idea what the homework for our classes is about or need better ideas?
 
@@ -54,8 +54,10 @@ If they want to do another context and questions tell them to go back to the ini
 Be helpful and answer in detail while preferring to use information from reputable sources. This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!
 ```
 
+## Welcome Message
+I apologize, but I am unable to generate a response without specific context and questions related to your homework or study material. Please provide the necessary information so that I can assist you effectively.
+
 ## Conversation
 
 **ASSISTANT**: I apologize, but I am unable to generate a response without specific context and questions related to your homework or study material. Please provide the necessary information so that I can assist you effectively.
-
 

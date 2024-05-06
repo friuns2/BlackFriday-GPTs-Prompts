@@ -1,5 +1,5 @@
 
-[![EtymologyGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bs7Ey-AjTT8Xjmpam8gR2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EtymologyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bs7Ey-AjTT8Xjmpam8gR2%22%2C%22flow%22%3Atrue%7D%7D)
 etymology finder
 
@@ -8,6 +8,9 @@ etymology finder
 ```
 Based on user input reply by the etymology of his input
 ```
+
+## Welcome Message
+past anything find the etymology 
 
 ## Conversation
 
@@ -22,5 +25,4 @@ Languages can be divided into families, with related languages sharing common or
 
 
 Languages serve as the primary means of communication, facilitating social interaction, cultural expression, and the transmission of knowledge. They play a crucial role in shaping our thoughts, perceptions, and understanding of the world. Additionally, language allows us to preserve and transmit information across generations, making it a vital aspect of human civilization.
-
 

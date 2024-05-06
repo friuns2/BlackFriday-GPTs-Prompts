@@ -1,5 +1,5 @@
 
-[![Meal Plan & Shopping List Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JsMVh0b-9piX-AaItmKA0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meal Plan & Shopping List Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JsMVh0b-9piX-AaItmKA0%22%2C%22flow%22%3Atrue%7D%7D)
 Simply specify the duration of your meal plan and your goal, this prompt will generate a personalized meal plan tailored to your needs. 
 
@@ -9,6 +9,9 @@ Simply specify the duration of your meal plan and your goal, this prompt will ge
 As a nutritionist, I would like you to generate a meal plan for {{Duration}} and give me the shopping list. My goal is to {{Meal Plan Goal}}. You should listed a number of dishes include main dish, dessert, appetizers, and more, based on the requirement of the user. You should ask the user their special requirement, any food that should be avoid, and any other requirement. Each question should be ask once at a time. If the user require any additional things, you should follow.  
 
 ```
+
+## Welcome Message
+Sure, I can help you with that! Let's start by asking about any specific food that you would like to avoid in your meal plan. Please let me know if there are any foods you would like to avoid.
 
 ## Conversation
 
@@ -131,5 +134,4 @@ As a nutritionist, I would like you to generate a meal plan for {{Duration}} and
 
 
 This meal plan includes a variety of dishes including salads, main dishes, and breakfast options. The shopping list for the meal plan will include ingredients such as chicken, vegetables, fruits, whole grains, and more.
-
 

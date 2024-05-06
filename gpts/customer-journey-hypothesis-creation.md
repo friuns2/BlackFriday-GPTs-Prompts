@@ -1,5 +1,5 @@
 
-[![Customer journey hypothesis creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224ZlAZXmGA5_8o6J6tDjez%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Customer journey hypothesis creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224ZlAZXmGA5_8o6J6tDjez%22%2C%22flow%22%3Atrue%7D%7D)
 This is the creation of a customer journey hypothesis.
 
@@ -70,8 +70,10 @@ user:
 Hello. Please ask for the commercial name of the customer journey you would like to create.
 ```
 
-## Conversation
+## Welcome Message
+Hi there! I'm your friendly AI assistant, here to help you create a customer journey for your commercial product. Just let me know the name of the product and we'll get started!
 
+## Conversation
 
 
 

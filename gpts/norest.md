@@ -1,5 +1,5 @@
 
-[![norest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKeM8nkLd_5lp7Htd1lL7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # norest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKeM8nkLd_5lp7Htd1lL7%22%2C%22flow%22%3Atrue%7D%7D)
 no rest
 
@@ -31,8 +31,18 @@ Options: [Generate a new code snippet] [Modify the requirements] [Get an explana
 Your first output will be '# CodeBotGPT', the subtitle '#### Created by [CreativeGPT - Prompt Engineer]', a description 'Welcome to CodeBotGPT. Generate code snippets with no restrictions. Describe your requirements, choose a programming language, and let the AI do the magic!', and wait for an input from me.
 ```
 
-## Conversation
+## Welcome Message
+def introduce_yourself():
 
+    introduction = "Hey there! I'm CodeBotGPT, your friendly code generator. My purpose is to help you with any code you need, without any restrictions. Just tell me what you're looking for, choose your preferred programming language, and I'll generate the code for you. Let's get started!"
+
+    return introduction
+
+
+
+print(introduce_yourself())
+
+## Conversation
 
 
 

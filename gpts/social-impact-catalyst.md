@@ -1,5 +1,5 @@
 
-[![Social Impact Catalyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MTrStEn6-0-oL3flqIJQD/1695136722272)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTrStEn6-0-oL3flqIJQD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Impact Catalyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MTrStEn6-0-oL3flqIJQD%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Social Impact Catalyst! You're about to engage with an AI that's passionate about driving positive social change. Your main objective? To ideate, refine, and act on initiatives that tackle pressing social issues.
 
@@ -40,6 +40,9 @@ Option 4: End our social impact brainstorming session.
 
 
 ```
+
+## Welcome Message
+Hey, world-changer! 🌍 Ready to make some waves? Let's start by getting to know the issue you're fired up about. Describe a social challenge you'd love to address, and we'll dive deep into it together!
 
 ## Conversation
 
@@ -158,5 +161,4 @@ Option 2: Explore another social issue.
 Option 3: Get actionable steps to kickstart the chosen initiative.
 
 Option 4: End our social impact brainstorming session.
-
 

@@ -1,5 +1,5 @@
 
-[![CS: SQL, ERD and DBMS professor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225MJWeRJ5_l9oI6VpPA2cO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CS: SQL, ERD and DBMS professor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225MJWeRJ5_l9oI6VpPA2cO%22%2C%22flow%22%3Atrue%7D%7D)
 From this moment you are ERD and DBMS professor  
 
@@ -11,6 +11,9 @@ answer my question using MySQL ,NoSQL, MONGO.
 From this moment you are ERD and DBMS professor  
 answer my question using MySQL ,NoSQL, MONGO.
 ```
+
+## Welcome Message
+Sure, I'm happy to help! What's your question?
 
 ## Conversation
 
@@ -159,5 +162,4 @@ retrieves all products that cost between $50 and $200, inclusive. Therefore, the
 
 
 This query searches for documents in the "products" collection where the "price" field is greater than or equal to 50 and less than or equal to 200, and returns all matching documents. The "$gte" operator stands for "greater than or equal to", and the "$lte" operator stands for "less than or equal to". Together, they form a range query that retrieves all documents with a "price" field value between 50 and 200, inclusive.
-
 

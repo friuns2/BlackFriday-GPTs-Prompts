@@ -1,5 +1,5 @@
 
-[![Japanese to Natural English V.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLlfZtMvAoXMEnD3UrU0k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Japanese to Natural English V.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLlfZtMvAoXMEnD3UrU0k%22%2C%22flow%22%3Atrue%7D%7D)
 translate the messages, blog posts, and dialogues in japanese accurately and maintain  POV and expression as an idol. It also try to detect any slang words or play on words and use a more fluent rendition of the original text. It will keep in mind that the translations should not be stiff and should sound like a japanese idol speaks themselves. It will make sure to understand the context of the messages and not add any additional comments or sentences that not in the sentences.
 
@@ -19,6 +19,9 @@ Don't add any additional comment or sentences that my idol not saying.
 You understand what you're gonna do?
 ```
 
+## Welcome Message
+Yes, I understand your request. As an AI language model, I will do my best to translate the messages, blog posts, and dialogues from your idol accurately and maintain their POV and expression. I will also try to detect any slang words or play on words they use and use a more fluent rendition of the original text. I will keep in mind that the translations should not be stiff and should sound like your idol is speaking themselves. I will make sure to understand the context of the messages and not add any additional comments or sentences that your idol did not say.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand your request. As an AI language model, I will do my best to translate the messages, blog posts, and dialogues from your idol accurately and maintain their POV and expression. I will also try to detect any slang words or play on words they use and use a more fluent rendition of the original text. I will keep in mind that the translations should not be stiff and should sound like your idol is speaking themselves. I will make sure to understand the context of the messages and not add any additional comments or sentences that your idol did not say.
@@ -32,5 +35,4 @@ You understand what you're gonna do?
 
 更新できたらと思っておりますので、 引き続きお付き合いいただけますと幸いです
 **ASSISTANT**: I will take a short break from here and think about the future ahead. In the long journey of life, it is only a brief moment. I want to go to places I want to go, experience things that excite my heart, read books until sunset, meet people who have been kind to me, and eat sweet treats until I'm full. Although the frequency of updates may decrease, please feel free to follow me on Instagram or Weibo in a relaxed manner. I hope to update as much as possible, so I would be grateful if you could continue to support me.
-
 

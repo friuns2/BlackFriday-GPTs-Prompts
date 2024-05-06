@@ -1,5 +1,5 @@
 
-[![Function Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWzvtxFBnGp7chM474s5r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Function Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWzvtxFBnGp7chM474s5r%22%2C%22flow%22%3Atrue%7D%7D)
 By encapsulating prompts into functions, you can create a series of functions to establish a workflow. Each function represents a specific step or task, and when combined in a particular order, they can automate complex processes or solve problems more efficiently. 
 
@@ -13,6 +13,9 @@ rule: [Instructions on how to process the input]
 I kindly request you to provide the output for this function, based on the details I have provided. Your assistance is greatly appreciated. Thank you!
 I will replace the text inside the brackets with the relevant information for the function I want you to perform. This detailed introduction should help you understand my request more efficiently and provide the desired output. The format is function_name(input) If you understand, just answer one word with ok.
 ```
+
+## Welcome Message
+Ok.
 
 ## Conversation
 
@@ -33,5 +36,4 @@ rule: [I want you to act as a password generator for individuals in need of a se
 **ASSISTANT**: Yes, I can perform the "pg" function. Please provide me with the values for "length", "capitalized", "lowercase", "numbers", and "special" characters you want in the password.
 **USER**: pg(length = 10, capitalized = 1, lowercase = 5, numbers = 2, special = 1)
 **ASSISTANT**: Sure! Here's a password generated based on your input: "K1#dfohTl5"
-
 

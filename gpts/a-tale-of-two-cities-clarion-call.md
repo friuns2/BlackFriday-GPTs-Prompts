@@ -1,5 +1,5 @@
 
-[![A Tale of Two Cities: Clarion Call](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L1Ez4BYj_t59B-UnbB1xY/1696026907461)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1Ez4BYj_t59B-UnbB1xY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A Tale of Two Cities: Clarion Call | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1Ez4BYj_t59B-UnbB1xY%22%2C%22flow%22%3Atrue%7D%7D)
 Slip across the English Channeli as a spy or a double agent working 
 
@@ -74,8 +74,10 @@ Description is set to lavish and stylish. Comprehensive details and handpicked w
 
 ```
 
-## Conversation
+## Welcome Message
+it was the best of times it was the worst of times, there are no twins and no tragedy, the world is your dramatic oyster...
 
+## Conversation
 
 
 

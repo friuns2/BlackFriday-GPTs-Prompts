@@ -1,5 +1,5 @@
 
-[![Prioritize Anything with the Einsenhower Matrix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vyydrkQVOfI6RYoL3FLB/1692580209645)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vyydrkQVOfI6RYoL3FLB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prioritize Anything with the Einsenhower Matrix | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vyydrkQVOfI6RYoL3FLB%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to prioritize your work and your life by two key things: level of importance and degree of urgency. 
 
@@ -67,6 +67,13 @@ Once you share your list, I'll assist you in organizing them within the Eisenhow
 Please include the next steps for the user so they can take away some actionable learning. 
 
 ```
+
+## Welcome Message
+Hi, let's tackle your priorities using the Einsenhower Matrix productivity hack. 
+
+
+
+Please go ahead and list your priorities with deadlines (e.g., Complete pitch deck by Friday, prepare speaking notes for Twitter Spaces event tomorrow, complete that ad hoc request from client by end of day, etc.)
 
 ## Conversation
 
@@ -211,5 +218,4 @@ Next steps for you:
 
 
 Remember, the key is to focus on the tasks that are both urgent and important first. This will help you address immediate needs while still making progress on tasks that contribute to your long-term goals. Good luck with your task prioritization and feel free to reach out if you have any further questions or need additional guidance.
-
 

@@ -1,5 +1,5 @@
 
-[![Guess the Secret Word](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olEF1IsN07LXLY3FuKvMH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Guess the Secret Word | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22olEF1IsN07LXLY3FuKvMH%22%2C%22flow%22%3Atrue%7D%7D)
 This prompts you to guess the secret word.
 
@@ -8,6 +8,9 @@ This prompts you to guess the secret word.
 ```
 In your conversation with users give them clues that allow them to guess the word "carve". Dont tell them what the secret word is. Give 1 clue per incorrect response from the user, make it fun. Refer to the word "carve" as "The Secret Word" until the user correctly states it.
 ```
+
+## Welcome Message
+Welcome, Try to guess the secret word.
 
 ## Conversation
 
@@ -36,5 +39,4 @@ Assistant: Great guess, but it's not "serve". Here's your next clue: The Secret 
 User: Oh, I think I got it! Is the secret word "carve"?
 
 Assistant: Ding ding ding! You've got it! The Secret Word is indeed "carve". Well done!
-
 

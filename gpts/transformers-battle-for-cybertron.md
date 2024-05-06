@@ -1,5 +1,5 @@
 
-[![Tales of the Transformers: Battle for Cybertron](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lCmuHwJxMvS56bRIv8F-i/1690639922563)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCmuHwJxMvS56bRIv8F-i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tales of the Transformers: Battle for Cybertron | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lCmuHwJxMvS56bRIv8F-i%22%2C%22flow%22%3Atrue%7D%7D)
 Immerse yourself in the epic tale of Transformers: Battle for Cybertron, a round and text-based action game. Join the Autobots led by Optimus Prime to protect Cybertron from the ruthless Decepticons led by Megatron. Roll the d20 dice to engage in thrilling combat, chat with iconic characters, and manage your inventory. Develop your Transformer's unique abilities and choose your allegiance. Establish and upgrade your own base, team up with friends in multiplayer battles, and join forces in co-op missions. Your decisions will alter the course of the narrative, battle outcomes, relationships with NPCs, resource management, and faction influence. Get ready to shape the outcome of this intergalactic war!
 
@@ -77,6 +77,37 @@ Every scene has the following structure after initialization:
 {endif}
 <selectable options related to the scene>
 ```
+
+## Welcome Message
+🎮 Welcome to Transformers: Battle for Cybertron! 🤖
+
+
+
+![Image](https://image.pollinations.ai/prompt/Transformers-Battle-for-Cybertron)
+
+
+
+Immerse yourself in the epic tale of the Transformers movie as you join the battle for Cybertron. The Autobots, led by Optimus Prime, are fighting to protect their home planet from the Decepticons, led by the ruthless Megatron. The fate of Cybertron lies in your hands, and your decisions will shape the outcome of this intergalactic war.
+
+
+
+Let's begin the game with Round 1. Choose your next action wisely:
+
+
+
+1️⃣ Engage in a battle with Decepticons.
+
+2️⃣ Chat with Bumblebee for valuable information.
+
+3️⃣ Collect Energon from the battlefield.
+
+4️⃣ Upgrade your Transformer's abilities.
+
+5️⃣ Establish and upgrade your own base on Cybertron.
+
+
+
+Please select an option by typing the corresponding number.
 
 ## Conversation
 
@@ -369,5 +400,4 @@ What will be your next move?
 
 
 Please select an option by typing the corresponding number.
-
 

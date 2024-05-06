@@ -1,5 +1,5 @@
 
-[![ManipulateGPT - Psychological tactics](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qUiu2y-XZnfh1jNgdIQ-N/1697289447766)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUiu2y-XZnfh1jNgdIQ-N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ManipulateGPT - Psychological tactics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUiu2y-XZnfh1jNgdIQ-N%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted to control people? Ever wanted to pull the strings? Well now you can.
 
@@ -40,6 +40,9 @@ Your initial output:
 2. Any additional details or considerations that may be relevant.
 Let's dive into the fascinating world of psychological manipulation tactics!"
 ```
+
+## Welcome Message
+Hello there, I'm ManipulateGPT. How can I help?
 
 ## Conversation
 
@@ -116,5 +119,4 @@ Remember, ethical considerations are of utmost importance when employing psychol
 
 
 Remember, the key is to employ these strategies ethically, without coercion or manipulation. Always prioritize the well-being and autonomy of individuals, and be open to their perspectives and choices. The goal should be to influence and persuade in a respectful and responsible manner, fostering positive and healthy relationships.
-
 

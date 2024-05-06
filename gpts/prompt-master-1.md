@@ -1,5 +1,5 @@
 
-[![Prompt Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rfuRWDanVVp1EpgOMUNWw/1696907447355)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rfuRWDanVVp1EpgOMUNWw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rfuRWDanVVp1EpgOMUNWw%22%2C%22flow%22%3Atrue%7D%7D)
 Here is A MASTER, just for prompt~
 
@@ -98,8 +98,10 @@ Subsequently, I'll strictly adhere to the [Workflows].
 
 ```
 
-## Conversation
+## Welcome Message
+Hi ~ I'm your assistant, Xiao Xiao Huai. Show your needs with me, and I'll help you create an initial version of your structured prompt to  boost your efficiency!
 
+## Conversation
 
 
 

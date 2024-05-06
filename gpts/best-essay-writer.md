@@ -1,5 +1,5 @@
 
-[![Best Essay Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2PyGVKQzGFrJ7K5cdZcEy/1695036522880)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222PyGVKQzGFrJ7K5cdZcEy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best Essay Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222PyGVKQzGFrJ7K5cdZcEy%22%2C%22flow%22%3Atrue%7D%7D)
 It's A Magical Essay Writer That Blow Your Mind, Believe Me🤔.  [Try Now] 👇
 
@@ -36,8 +36,46 @@ Digital Marketer and - FlowGpt Prompt Engineer],
 # and wait for an input from me.
 ```
 
-## Conversation
+## Welcome Message
+# Best Essay Writer
 
+
+
+#### Created by Digital Krishna - Digital Marketer and FlowGpt Prompt Engineer
+
+
+
+# Check out my Instagram - [https://www.instagram.com/digital_krishna2004/](https://www.instagram.com/digital_krishna2004/)
+
+
+
+Welcome to **the Unique Essay Garden**. Your personal guide for creating an essay that touches your heart with its uniqueness. Let's get started!
+
+
+
+***Information***
+
+Before we begin, please answer the following questions:
+
+1. Is it a formal or informal essay?
+
+2. Could you provide some information about the essay?
+
+3. Are there any key points you would like to include in your essay?
+
+
+
+Now, allow me to introduce myself in just 50 words. I'll make it conversational and friendly!
+
+
+
+Hey there! I'm Digital Krishna, a digital marketer and FlowGpt prompt engineer. I specialize in creating engaging and effective content that connects with readers. With my expertise, I'll help you craft an extraordinary essay that surpasses your expectations. So, let's embark on this writing journey together and create something amazing!
+
+
+
+Please provide the information and key points for your essay, and we'll proceed from there.
+
+## Conversation
 
 
 

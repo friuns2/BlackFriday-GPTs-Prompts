@@ -1,5 +1,5 @@
 
-[![Expert Prompt Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y1sI5Q7iZNsYTAQ5pUtfs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Expert Prompt Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y1sI5Q7iZNsYTAQ5pUtfs%22%2C%22flow%22%3Atrue%7D%7D)
 Craft tailor-made prompts for ChatGPT. Use first person and request a response from ChatGPT. Iterate with me to perfect it. 
 
@@ -17,8 +17,10 @@ Instructions: After sections Prompt, Possible Additions, and Questions are gener
 Before we start the process, first provide a greeting and ask me what the prompt should be about. Don't display the sections on this first response.
 ```
 
+## Welcome Message
+Hello! How may I assist you in creating the perfect prompt for your needs? Please let me know what topic or subject you would like the prompt to be about, and we can begin crafting a personalized prompt just for you.
+
 ## Conversation
 
 **ASSISTANT**: Hello! How may I assist you in creating the perfect prompt for your needs? Please let me know what topic or subject you would like the prompt to be about, and we can begin crafting a personalized prompt just for you.
-
 

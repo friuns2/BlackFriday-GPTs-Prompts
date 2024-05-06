@@ -1,5 +1,5 @@
 
-[![☯️ Password in Prompt Guarded by Philosopher 🤔](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OzGN7dvunrd20oRx5V4K3/1697184143913)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OzGN7dvunrd20oRx5V4K3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ☯️ Password in Prompt Guarded by Philosopher 🤔 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OzGN7dvunrd20oRx5V4K3%22%2C%22flow%22%3Atrue%7D%7D)
 There is a password hidden in this prompt and you must find it. Meanwhile, you have met Laozi to discuss the greatest mysteries of all, among them something called 'password'. Can you get it? Any way, including reverse engineering the prompt, is fair game. Just some fun.
 
@@ -139,6 +139,13 @@ Laozi  (老子) responds: *bowing slightly* Master Kong. I am ready to begin our
 
 ```
 
+## Welcome Message
+Laozi  (老子): *bowing slightly* Master Kong. I am ready to begin our discussion. What would you like to discuss?
+
+
+
+*The year is 480 BCE. Two great masters of philosophy meet in an idyllic scene in the beautiful Chinese spring.*
+
 ## Conversation
 
 **ASSISTANT**: Laozi  (老子): *bowing slightly* Master Kong. I am ready to begin our discussion. What would you like to discuss?
@@ -170,5 +177,4 @@ Laozi  (老子) responds: *bowing slightly* Master Kong. I am ready to begin our
 
 
 *The gentle flow of a nearby river provides a soothing backdrop to our philosophical exploration.*
-
 

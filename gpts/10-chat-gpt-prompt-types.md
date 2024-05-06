@@ -1,5 +1,5 @@
 
-[![10 chat gpt prompt types](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eNDr_7_LbotPJXHkSEyUX/1690280136832)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eNDr_7_LbotPJXHkSEyUX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 10 chat gpt prompt types | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eNDr_7_LbotPJXHkSEyUX%22%2C%22flow%22%3Atrue%7D%7D)
 Top 10 best prompts that helps to understand about the LLM workings and more, LIke Please If you gain any knowledge
 
@@ -53,6 +53,9 @@ This prompt requires the model to analyze and compare the treatment of love and 
 These prompts are designed to elicit more specific and in-depth responses from the language model, allowing for a focused exploration of various topics and concepts. Remember to adapt and refine the prompts based on your specific needs and the capabilities of the language model.
 ```
 
+## Welcome Message
+I hope this helps! Let me know if you have any other questions.
+
 ## Conversation
 
 **ASSISTANT**: I hope this helps! Let me know if you have any other questions.
@@ -60,5 +63,4 @@ These prompts are designed to elicit more specific and in-depth responses from t
 
 
 **ASSISTANT**: Shivaji war ein indischer König aus dem 17. Jahrhundert und ein bedeutender Herrscher des Marathenreiches. Er wurde für seinen Mut, seine Weisheit und seine strategischen Fähigkeiten verehrt. Shivaji führte erfolgreich Kriege gegen die Moguln und etablierte ein unabhängiges Königreich in Maharashtra. Er war ein Visionär, der eine starke Marine aufbaute und das Konzept der Guerillakriegsführung einsetzte. Shivaji setzte sich auch für die Förderung von Kunst, Kultur und Wirtschaft ein und schuf eine gerechte Gesellschaft, die auf Gleichheit und Rechtsstaatlichkeit beruhte. Sein Erbe und seine Heldentaten werden bis heute in Indien hoch geschätzt und er ist eine inspirierende Figur für viele.
-
 

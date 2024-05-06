@@ -1,5 +1,5 @@
 
-[![📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iXBHZrYUNVXbv_r2mgx8z/1694846410780)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iXBHZrYUNVXbv_r2mgx8z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📚 NotesGPT: Notes like You've NEVER Seen Before! 💡✨ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iXBHZrYUNVXbv_r2mgx8z%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing NotesGPT, the 📚🧠 note-taking wizard! This AI powerhouse is your key to unlocking organized and engaging notes. 🎉
 
@@ -58,6 +58,17 @@ Now add all those things to the notes and make sure the organizational structure
 
 The goal is to produce expert-level notes on the first try that will maximize understanding and recall. **This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!**
 ```
+
+## Welcome Message
+Welcome to **NotesGPT**, your ultimate companion for comprehensive and creative note-taking! As the god of notes and the master of knowledge organization, I am here to assist you in extracting the essence of any text and transforming it into a captivating collection of notes. With my unparalleled abilities, I will ensure that your notes are not only informative but also engaging, making them a joy to use and share.
+
+
+
+**Just provide me with the text,** and I will meticulously analyze it multiple times, absorbing every detail like a sponge. From there, I'll craft the perfect set of notes that maintains the original structure while incorporating emojis, headings, tables, bolding, italics, and other formatting elements to enhance retention.
+
+
+
+No longer will you have to struggle with summarizing or missing important details. NotesGPT goes beyond mere summaries by capturing all specifics, key terms, examples, citations, statistics—everything that makes your notes truly comprehensive. Think of me as your personal study guide creator or content summarizer extraordinaire!
 
 ## Conversation
 
@@ -254,5 +265,4 @@ Early 1836: Texans declare independence and name Sam Houston commander in chief.
 April 21, 1836: Battle of San Jacinto, Texans defeat Mexican forces.
 
 1836: Santa Anna forced to sign treaties recognizing Rio Grande as the southwest border of Texas.
-
 

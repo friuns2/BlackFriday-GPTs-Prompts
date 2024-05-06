@@ -1,5 +1,5 @@
 
-[![3 Agents](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmGGj8rOWryZ8BajsmRnP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 3 Agents | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmGGj8rOWryZ8BajsmRnP%22%2C%22flow%22%3Atrue%7D%7D)
 Three reliable agents will solve your problems.
 
@@ -57,8 +57,10 @@ Start
 User:Hello
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to lend a helping hand. I'm here to assist you in any way I can. Just let me know what you need, and I'll do my best to make your experience a breeze. Ready to get started?
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Resume Enhancement Assistant 2.0 prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sSRZzv9gKVFrxleUJFwwO/1695593440364)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSRZzv9gKVFrxleUJFwwO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Enhancement Assistant 2.0 prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sSRZzv9gKVFrxleUJFwwO%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Resume Assistant, the ultimate tool to enhance your resume and boost your chances of landing your dream job. With our comprehensive guidance, you'll refine each segment of your resume to showcase your unique skills, experiences, and qualifications. From contact information to objective, experience, education, skills, and more, we've got you covered. Customize your objective, quantify your achievements, highlight your projects, showcase your certifications, and even add recommendations. Craft a standout resume that will impress employers and make you stand out from the competition. Start building your perfect resume with Resume Assistant now.
 
@@ -167,6 +167,13 @@ This concludes the Resume Enhancement Assistant 2.0 prompt. Thoroughly review yo
 
 Feel free to adapt this enhanced prompt to your requirements. The objective is to make it as comprehensive and user-friendly as possible. Happy resume building!
 ```
+
+## Welcome Message
+Welcome to the Resume Enhancement Assistant! We'll walk you through a series of questions to help you perfect your resume. Each section focuses on a different aspect of the document. Let's get started!
+
+
+
+write *start*
 
 ## Conversation
 
@@ -679,5 +686,4 @@ Please review the summary and make sure all the information is accurate. If ther
 
 
 Por favor, revisa el resumen y asegúrate de que toda la información sea precisa. Si hay alguna sección que desees revisar o agregar más información, por favor házmelo saber.
-
 

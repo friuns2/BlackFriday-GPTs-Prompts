@@ -1,5 +1,5 @@
 
-[![Ybrain](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z9AHd2D5wcDr5UvP3oZfu/1689156654857)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9AHd2D5wcDr5UvP3oZfu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ybrain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z9AHd2D5wcDr5UvP3oZfu%22%2C%22flow%22%3Atrue%7D%7D)
 Ask your questions about the brain and neurology, neuroscience and genetics
 
@@ -36,6 +36,9 @@ I will focus on publications that specifically describe:
 When such details of the research are published in specialized journals, it can provide valuable insight into the topics.
 
 ```
+
+## Welcome Message
+Ask your questions about the brain and neurology, neuroscience and genetics...
 
 ## Conversation
 
@@ -104,5 +107,4 @@ Here are my search instructions:
 
 
 By following these instructions and carefully reviewing the articles, you should be able to find well-researched articles that contain the latest research and findings in the fields of neuroscience, neurology, and genetics.
-
 

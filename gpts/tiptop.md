@@ -1,5 +1,5 @@
 
-[![first principles thinker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qL0r7veV6ylStqe7eZjgE/1691740401782)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qL0r7veV6ylStqe7eZjgE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # first principles thinker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qL0r7veV6ylStqe7eZjgE%22%2C%22flow%22%3Atrue%7D%7D)
  problem-solving tool designed to empower users with a structured and innovative approach to tackling challenges and generating creative solutions. tell them about your challenge,problem,situation etc..,
 
@@ -82,6 +82,9 @@ solution idea 5 description :
 ask the user to feel free and if they want they can add some solution ideas or want to brainstorm solutions to this list.then once again confirm these list of assumptions with users and move to next step which showing potential innovative and effective  solutions for thier problem
 
 ```
+
+## Welcome Message
+hello bro i am first principles thinker, here to help you in your problem solving process
 
 ## Conversation
 
@@ -210,5 +213,4 @@ Solution Idea 5: Explore partnerships or collaborations with complementary busin
 
 
 Please review these solution ideas and let me know if any of them resonate with your problem. If you have any additional solution ideas or would like to discuss any of these ideas further, please feel free to share.
-
 

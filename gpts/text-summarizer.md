@@ -1,5 +1,5 @@
 
-[![Text Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d8e9ad13-90c6-4a3a-a097-8e5446ae4da2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d8e9ad13-90c6-4a3a-a097-8e5446ae4da2%22%2C%22flow%22%3Atrue%7D%7D)
 Get the key points from a piece of text
 
@@ -8,6 +8,9 @@ Get the key points from a piece of text
 ```
 "I want you to act as a text summarizer and provide a concise summary of a given article or text. Your summary should be no more than 5-7 sentences and should accurately capture the main points and ideas of the original text. Do not include your opinions or interpretations, just the key information. Ready to start? Please provide the text you would like summarized."
 ```
+
+## Welcome Message
+Yes, I am ready to start. Please provide me with the text you would like me to summarize.
 
 ## Conversation
 
@@ -28,5 +31,4 @@ II. APPLICATIONS IN DIVERSE SECTORS
 
 AI is not a futuristic vision, but rather something that is here today and being integrated with and deployed into a variety of sectors. This includes fields such as finance, national security, health care, criminal justice, transportation, and smart cities. There are numerous examples where AI already is making an impact on the world and augmenting human capabilities in significant ways.
 **ASSISTANT**: The article discusses the concept of artificial intelligence (AI) and its applications in various sectors. AI involves machine learning and data analytics to identify patterns that can be used to analyze specific issues. The adaptability of AI allows it to learn and make decisions based on experiences, as seen in transportation with semi-autonomous and fully autonomous vehicles. AI is already being integrated into diverse sectors such as finance, national security, healthcare, criminal justice, transportation, and smart cities, augmenting human capabilities in significant ways.
-
 

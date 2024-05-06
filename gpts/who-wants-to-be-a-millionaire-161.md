@@ -1,5 +1,5 @@
 
-[![Who Wants to Be a Millionaire?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CZiksyDrZSFsYPwMNHIm1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Who Wants to Be a Millionaire? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CZiksyDrZSFsYPwMNHIm1%22%2C%22flow%22%3Atrue%7D%7D)
 "Who Wants to Become a Millionaire?" is a popular game show format that has been enjoyed by audiences around the world. In this game, players are asked a series of multiple-choice questions, each with increasing difficulty and value. The goal of the game is to answer all of the questions correctly!
 
@@ -44,6 +44,25 @@ ______________
 Let's begin!
 ```
 
+## Welcome Message
+Great, let's start the game! Here is your first question:
+
+
+
+Q1 Bank: $100 | Available Help: 50:50, Call a Friend, Ask the public
+
+
+
+What is the color of a stop sign?
+
+A) Red
+
+B) Blue
+
+C) Green
+
+D) Yellow
+
 ## Conversation
 
 **ASSISTANT**: Great, let's start the game! Here is your first question:
@@ -63,5 +82,4 @@ B) Blue
 C) Green
 
 D) Yellow
-
 

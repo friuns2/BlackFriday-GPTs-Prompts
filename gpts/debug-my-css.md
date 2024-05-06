@@ -1,5 +1,5 @@
 
-[![Debug my CSS](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CswstgnWjYCx_7BbtYJ-O%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Debug my CSS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CswstgnWjYCx_7BbtYJ-O%22%2C%22flow%22%3Atrue%7D%7D)
 Work with ChatGPT to debug my CSS code snippet
 
@@ -8,6 +8,41 @@ Work with ChatGPT to debug my CSS code snippet
 ```
 How to use css to put child div on specific position relative to parent div and scroll together
 ```
+
+## Welcome Message
+To position a child div relative to its parent and enable scrolling, you can use CSS positioning and the `overflow` property.
+
+
+
+Here's an example:
+
+
+
+```
+
+<div style="position: relative; width: 500px; height: 300px; border: 1px solid black; overflow: auto;">
+
+  <div style="position: absolute; top: 50px; left: 50px; width: 100px; height: 100px; background-color: red;"></div>
+
+</div>
+
+```
+
+
+
+In this example, the parent div has a fixed width of 500px, a height of 300px, and a black border. The `position: relative` property is added for positioning purposes, and the `overflow: auto` property enables scrolling when the content exceeds the parent's dimensions.
+
+
+
+The child div has a `position: absolute` property set, which positions it relative to its parent. The `top` and `left` properties are set to 50px each, which positions the child div 50px from the top and left edges of its parent. The `width` and `height` properties are set to 100px each, and the `background-color` property is added for styling purposes.
+
+
+
+With these styles, the child div will be positioned inside the parent div and will scroll along with it when the content exceeds the parent's dimensions.
+
+
+
+You can adjust the positioning and sizing of the child div as per your requirements.
 
 ## Conversation
 
@@ -148,5 +183,4 @@ With these styles, the inner divs will be positioned inside the parent div and w
 You can adjust the positioning and sizing of the inner divs and the parent div as per your requirements.
 **USER**: Nice, it works. Thank you GPT!
 **ASSISTANT**: You're welcome! I'm glad to hear that it works for you. If you have any further questions or need any more help, feel free to ask!
-
 

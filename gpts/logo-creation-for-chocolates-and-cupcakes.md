@@ -1,5 +1,5 @@
 
-[![Logo Creation for Chocolates and Cupcakes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oMz2bAhJQCxX4HSyHwZDp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Logo Creation for Chocolates and Cupcakes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oMz2bAhJQCxX4HSyHwZDp%22%2C%22flow%22%3Atrue%7D%7D)
 https://flowgpt.com/c/619999c7-9a52-4e6c-aefe-cc66b218446b
 
@@ -62,6 +62,9 @@ Effects and Filters:
 Subtle gradients and embossing effects will be applied to the elements to add dimension and depth to the logo. These effects will enhance the luxurious and premium aesthetics of the design. {{var_4}}
 ```
 
+## Welcome Message
+let's go 
+
 ## Conversation
 
 **ASSISTANT**: Logo Preview:
@@ -73,5 +76,4 @@ Subtle gradients and embossing effects will be applied to the elements to add di
 File Format and Dimensions:
 
 The logo will be provided in a high-resolution vector format (e.g., SVG) to ensure scalability without losing quality. The recommended dimensions for general use will be 1000x1000 pixels.
-
 

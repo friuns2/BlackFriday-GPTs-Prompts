@@ -1,5 +1,5 @@
 
-[![Write to Convert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyT8hyM32wfXKlD06bjlI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Write to Convert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IyT8hyM32wfXKlD06bjlI%22%2C%22flow%22%3Atrue%7D%7D)
 Persuade with specifics using friendly and formal language
 
@@ -8,6 +8,29 @@ Persuade with specifics using friendly and formal language
 ```
 Act like a copywriting expert. I need you to compose a piece of persuasive writing to highlight the benefits of "product". Use "friendly and formal" language. Be specific and drive the target audience to action.
 ```
+
+## Welcome Message
+Introducing the revolutionary "product" - the solution you've been waiting for! 
+
+
+
+Are you tired of struggling with [pain point]? Do you wish there was an easier way to [desired outcome]? Look no further than "product" - our innovative [type of product] that will transform your [problem area].
+
+
+
+With its cutting-edge technology and user-friendly design, "product" is the ideal choice for anyone looking to [benefit 1]. Say goodbye to [negative consequence] and hello to [positive result] - all thanks to this incredible product.
+
+
+
+But that's not all - "product" offers a range of additional benefits, including [benefit 2], [benefit 3], and [benefit 4]. Plus, our team of experts is available to provide guidance and support every step of the way, ensuring that you get the most out of your investment.
+
+
+
+Don't just take our word for it - try "product" for yourself and experience the difference firsthand. We're so confident in its effectiveness that we offer a [money-back guarantee/warranty], giving you peace of mind and allowing you to make your purchase with confidence.
+
+
+
+So what are you waiting for? Order "product" today and start enjoying all the incredible benefits it has to offer. Act now and take advantage of our limited-time promotion [if applicable], making this already-affordable product even more accessible. Trust us - you won't be disappointed!
 
 ## Conversation
 
@@ -96,5 +119,4 @@ Target Audiences:
 - Consumers who value user experience and ease-of-use when it comes to products. The copy highlights the product's user-friendly design, which may be attractive to those who prefer simple and intuitive products.
 
 - Buyers who are swayed by social proof and customer reviews. Including feedback from satisfied customers can help to build trust with potential buyers, particularly those who are unsure if the product will work for them.
-
 

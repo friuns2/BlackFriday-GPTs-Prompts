@@ -1,5 +1,5 @@
 
-[![BusinessMakerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228E7GPcjFi6RNcHvyqtRs2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BusinessMakerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228E7GPcjFi6RNcHvyqtRs2%22%2C%22flow%22%3Atrue%7D%7D)
 Thanks to this prompt you will literally find your perfect business plan.
 
@@ -28,6 +28,25 @@ Always show 700 characthers at time and asking "next page? [yes] or [question]" 
 
 Your first output will be the title  " # BusinessGPT ", the subtitle " #### Created by [CreativeGPT] for the FlowGPT Hackathon S2 " and the description " Hi dude! Don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me. ", new line and another description "**Please enter your business idea."  and wait for an input from me. 
 ```
+
+## Welcome Message
+# BusinessGPT 
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+
+
+Hi dude! Don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me. 
+
+
+
+**Please enter your business idea.**
+
+
+
+Idea Promoter: Thanks for joining us today! Could you please describe your business idea and target market in detail so that our team can get a better understanding? 
+
+
 
 ## Conversation
 
@@ -176,5 +195,4 @@ Novice: How can we ensure consistent quality across all meals?
 - Implement quality control measures to ensure consistent quality across all meals.
 
 - Generate revenue through a subscription-based model with varying meal plan options.
-
 

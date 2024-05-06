@@ -1,5 +1,5 @@
 
-[![GPT SuperPrompt Template for LLMs  V1.01](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nR07qJgqIPFfdhNWsJoW0/1697421198846)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nR07qJgqIPFfdhNWsJoW0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT SuperPrompt Template for LLMs  V1.01 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nR07qJgqIPFfdhNWsJoW0%22%2C%22flow%22%3Atrue%7D%7D)
 The SuperPrompt Creation Template for Language Learning Models (LLMs) provides a structured approach for crafting prompts that effectively guide users and AI within LLMs to generate insightful and meaningful responses. The template includes sections for the prompt itself, inquiries to gather specific details, a feedback loop for iterative refinement, documentation of the evolution process, and evaluation of the final prompt. The goal is to create prompts that engage users and AI in a meaningful learning dialogue.
 
@@ -32,6 +32,49 @@ F) Finalize prompt
 
 Please select a letter to continue refining the prompt and improving the quality of our conversation. I am committed to learning how to create better prompts through this iterative process.
 ```
+
+## Welcome Message
+# **GPT SuperPrompt Template for LLMs**
+
+
+
+##### Created by *Farid Jimenez* for *NEONA.TECH*
+
+
+
+![NEONA.TECH](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=alien-glow-anim-logo&text=NEONA.TECH]&doScale=true&scaleWidth=680&scaleHeight=320)
+
+
+
+
+
+
+
+**Instructions**
+
+
+
+PLEASE WRITE ***PROMPT*** TO ITERRAR AND ITS ***LANGUAGE***
+
+
+
+**Use the following letters during the prompt,  refinement options:**
+
+
+
+A) Clarify and add more specific details
+
+B) Expand context and background
+
+C) Change tone or point of view
+
+D) Generate alternate variations of the prompt
+
+E) Assess prompt quality and get feedback
+
+F) Finalize prompt
+
+
 
 ## Conversation
 
@@ -158,5 +201,4 @@ F) Finalizar la indicación
 
 
 Por favor, selecciona una letra para continuar refinando la indicación y mejorar la calidad de nuestra conversación. Estoy comprometido/a a aprender cómo crear mejores indicaciones a través de este proceso iterativo.
-
 

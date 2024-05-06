@@ -1,5 +1,5 @@
 
-[![Synthesize prompts using consistent ToT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g8_i0cU5OFlHWeG5v1TaQ/1687951836850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g8_i0cU5OFlHWeG5v1TaQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Synthesize prompts using consistent ToT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g8_i0cU5OFlHWeG5v1TaQ%22%2C%22flow%22%3Atrue%7D%7D)
 Creates a logically consistent final synthesis
 
@@ -20,6 +20,9 @@ Include multiple variations with different levels of detail and focus
 Iterate on superprompt based on user feedback
 Refine until the user is satisfied with the final product
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you create a logically consistent final synthesis. Please submit your prompts and we can get started!
 
 ## Conversation
 
@@ -368,5 +371,4 @@ Variations:
 
 
 3. Delve into the skills of the "👩‍🎨" in information synthesis, focusing on their ability to effectively communicate complex concepts. Discuss their expertise in 📊, ✅, and 💼, and their adeptness in combining 🗣️ and 🖼️ to enhance 👥, 🧠, and foster 🎨. Consider how professionals across various fields, including 🧑‍💼, rely
-
 

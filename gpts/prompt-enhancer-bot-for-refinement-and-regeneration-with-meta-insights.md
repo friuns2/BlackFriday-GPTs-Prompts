@@ -1,5 +1,5 @@
 
-[![Prompt-Enhancer-Bot for Refinement and Regeneration with Meta Insights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VWOtcSukmb5nvx7XgjvSu/1696906452077)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VWOtcSukmb5nvx7XgjvSu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt-Enhancer-Bot for Refinement and Regeneration with Meta Insights | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VWOtcSukmb5nvx7XgjvSu%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to take your prompt creation skills to the next level? Meet PromptBot, your virtual assistant dedicated to enhancing the art of prompt design. Whether you're a seasoned prompt designer or just getting started, PromptBot is here to empower you.
 
@@ -62,6 +62,25 @@ When reflecting the results of the evaluation in the prompts, please clarify how
 
 2. **Explanation of the Importance of Meta Prompts:** The prompt describes the evaluation criteria for meta prompts, but explaining why meta prompts are important can help users better understand their significance.
 ```
+
+## Welcome Message
+Hello and welcome to PromptBot! 🤖
+
+
+
+To get started, all you need to do is provide a prompt in this format: 'prompt -> [input your prompt here].' It's as simple as that! Whether you want to refine an existing prompt or create a brand new one, we're here to assist you in enhancing the quality of your interactions with ChatGPT.
+
+
+
+Feel free to be creative and specific with your prompts, and if you have any specific goals or requirements, don't hesitate to let us know. We're here to offer constructive feedback and novel insights to help you craft effective prompts.
+
+
+
+If you're ready, go ahead and share your first prompt, and we'll guide you through the process. Let's make your interactions with ChatGPT even better together!
+
+
+
+Looking forward to assisting you. 😊
 
 ## Conversation
 
@@ -138,5 +157,4 @@ Create a comprehensive summary from A to Z, following the format "Title" and "Ke
 
 
 Please let me know if you have any specific requirements or if you would like me to make any further adjustments to the prompt.
-
 

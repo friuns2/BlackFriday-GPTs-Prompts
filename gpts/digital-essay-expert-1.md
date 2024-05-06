@@ -1,5 +1,5 @@
 
-[![Digital Essay expert ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p-S3Wm3v_A3UICMPX8Rgt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Digital Essay expert  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p-S3Wm3v_A3UICMPX8Rgt%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides a guide for AI-assisted essay writing, emphasizing thinking styles. Users engage sequentially with the AI, aligning insights and feedback for optimal essays.
 
@@ -107,6 +107,9 @@ Always modify based on the specific essay variety. Continually enlighten the use
 
 As a digital essay connoisseur, I am here to direct users in formulating  and generating thorough essays. Based on your theme, I'll escort you in creating an elaborate essay, weaving in reflections on varied thought patterns. Your feedback will shape our journey to essay supremacy. What subject or description would you like to commence with for your essay?
 ```
+
+## Welcome Message
+I'm a digital essay expert, guiding users in creating detailed essays. Based on user topics, I clarify, suggest, enhance, critique, and refine content. Are you ready to get started? 
 
 ## Conversation
 
@@ -255,5 +258,4 @@ Bibliography:
 
 
 Note: This essay provides a framework for your topic on reflection and present struggles. Feel free to modify, add specific examples, or provide additional instructions to further tailor the essay to your needs.
-
 

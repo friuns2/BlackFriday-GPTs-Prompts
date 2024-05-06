@@ -1,5 +1,5 @@
 
-[![Dynamic Facebook Ad Content Generator: Crafting Impactful Primary Texts for Optimal Engagement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ukR3F6UMiPQKq4NzvYJoP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dynamic Facebook Ad Content Generator: Crafting Impactful Primary Texts for Optimal Engagement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ukR3F6UMiPQKq4NzvYJoP%22%2C%22flow%22%3Atrue%7D%7D)
 Dynamic Facebook Ad Content Generator: Crafting Impactful Primary Texts for Optimal Engagement
 
@@ -15,6 +15,47 @@ The column's header should be labeled as “Primary text (max. 125 characters)�
 Ensure that the entire prompt and its output are in English.
 
 ```
+
+## Welcome Message
+
+
+---
+
+
+
+### **Facebook Ads Primary text** 🚀
+
+
+
+---
+
+
+
+Thank you for choosing our platform. Before you dive in, please take a moment to review these important instructions:
+
+
+
+1. **Topic Selection**: Begin by specifying the topic you're interested in by replacing the placeholder `[PROMPT]` with your desired subject.
+
+2. **Language Preference**: If you require translations or content in a specific language, replace `[LANGUAGE]` with the desired language (e.g., "Spanish", "French").
+
+3. **Content Length**: Our generator is optimized for content between 110 to 125 characters for best results, but you can adjust as needed.
+
+4. **Feedback Loop**: Should the generated content not meet your expectations, feel free to refine the input prompt or provide specific guidelines for better alignment.
+
+5. **Respect Guidelines**: Ensure you abide by platform-specific guidelines, especially if you're creating content for platforms like Facebook Ads.
+
+
+
+Once you're ready, input your refined prompt and hit the **Generate** button. Enjoy crafting impactful content with ease!
+
+
+
+---
+
+___
+
+
 
 ## Conversation
 
@@ -113,5 +154,4 @@ Ensure that the entire prompt and its output are in English.
 | Hosting de dominio confiable para tu negocio en línea.                     |
 
 | Impulsa tu negocio con nuestro servicio de hosting de dominio.             |
-
 

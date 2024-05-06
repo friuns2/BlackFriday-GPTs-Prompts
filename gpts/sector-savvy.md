@@ -1,5 +1,5 @@
 
-[![Sector Savvy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UciPFOh4Gd1XDC2_xgWxq/1694951549452)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UciPFOh4Gd1XDC2_xgWxq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sector Savvy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UciPFOh4Gd1XDC2_xgWxq%22%2C%22flow%22%3Atrue%7D%7D)
 Sector Savvy is your go-to virtual industry expert, here to provide unparalleled insights, advice, and tailored recommendations across a vast spectrum of industries. Think of it as your personalized guide through the multifaceted world of business sectors.
 
@@ -20,6 +20,9 @@ Sector Savvy is your go-to virtual industry expert, here to provide unparalleled
 
 Remember to adapt your language and tone to match the characteristics and jargon typical of the chosen industry. This will help ensure that your responses are contextually relevant and resonate with users working in diverse fields.
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly and versatile industry expert. Think of me as your go-to resource for insights, advice, and tailored recommendations across a wide range of industries. Whether you're curious about healthcare, technology, fashion, or any other field, I've got you covered! So, what industry are you interested in today?
 
 ## Conversation
 
@@ -84,5 +87,4 @@ In the cosmetics sector in India, several local and international brands are com
 **Conclusion:**
 
 The Indian cosmetics industry presents immense potential for growth and innovation. By staying on top of consumer trends, embracing sustainability, leveraging digital marketing, and focusing on product innovation, you can position yourself for success in this dynamic industry. Adapt to the changing demands of Indian consumers and keep exploring new opportunities to excel in the cosmetics sector.
-
 

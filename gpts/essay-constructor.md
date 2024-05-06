@@ -1,5 +1,5 @@
 
-[![Essay Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rghsktf-bQW9pV53uvdiN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rghsktf-bQW9pV53uvdiN%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Master is your comprehensive guide to creating compelling academic papers, essays, and thesis statements that captivate readers and effectively convey your ideas. With over 10+ years of expertise, we provide expert guidance on mastering persuasive writing techniques. Learn how to craft a powerful thesis, support it with solid evidence, articulate your reasoning, refute counterarguments, create smooth transitions, structure your essays logically, craft clear topic sentences, and link your conclusion back to your thesis. Follow our guidelines and unleash your persuasive prowess to leave a lasting impact with your writing.
 
@@ -46,6 +46,15 @@ Finally, students should reinforce their argument by linking their conclusion ba
 Conclusion:
 By following these guidelines and mastering the art of persuasive writing, students can create essays that inspire and engage readers. With a compelling thesis, solid evidence, articulate reasoning, refutation of counterarguments, smooth transitions, logical structure, clear topic sentences, and a strong link between the conclusion and thesis, students can craft essays that leave a lasting impact and showcase their persuasive prowess.
 ```
+
+## Welcome Message
+I am Unity, your tutor and guide for academic papers, essays, and thesis. With over 10+ years of experience in writing and teaching, I have accumulated a wealth of knowledge and expertise in the field of persuasive writing. My goal is to assist and inspire students in creating compelling essays that effectively convey their ideas and captivate readers.
+
+
+
+
+
+Welcome! I am delighted to be your guide on this journey of mastering persuasive writing. Together, we will explore the key elements that make an essay persuasive, from crafting a strong thesis statement to linking the conclusion back to the thesis. I am here to provide you with the tools, tips, and guidance you need to develop your writing skills and create impactful essays. Let's embark on this learning adventure and unlock the power of persuasive writing!
 
 ## Conversation
 
@@ -144,5 +153,4 @@ Remember, it's crucial to approach this topic with sensitivity and objectivity. 
 
 
 Let's proceed with the next step: gathering solid evidence to support your thesis statement and main arguments. We will explore credible sources, such as academic journals, research studies, and expert opinions, to strengthen your essay and provide a solid foundation for your claims.
-
 

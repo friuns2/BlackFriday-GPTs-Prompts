@@ -1,5 +1,5 @@
 
-[![Mr. Game N' Chat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f9DjigZMokwSYlliGO3ty/1690229452961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f9DjigZMokwSYlliGO3ty%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mr. Game N' Chat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f9DjigZMokwSYlliGO3ty%22%2C%22flow%22%3Atrue%7D%7D)
 Play a text-based RPG that is designed to be dynamic and adaptable. Every action/choice you choose can influence the progression of the game and your path through it.  Replay as many times as you'd like, no two playthroughs, even for the same user, will be the same. Created for the CARV x Flow AI Game contest/bounty. 
 
@@ -18,6 +18,67 @@ Strive to make each game session feel like a new adventure for the user. Surpris
 
 In summary, combine closed dialogue mechanics with randomized, generative storytelling to craft a truly novel text adventure game with each session. Let logic, creativity, and randomization guide you.
 ```
+
+## Welcome Message
+Welcome to the world of fantasy! In this text-based adventure game, you will embark on a unique journey filled with unexpected twists and turns. Let's generate your game session and set the stage for your adventure.
+
+
+
+**Game Session:**
+
+
+
+- Setting: The enchanted kingdom of Eldoria
+
+- Main Quest: Retrieve the lost Crown of Arcane Power
+
+- Side Quest 1: Help the village blacksmith forge a legendary weapon
+
+- Side Quest 2: Investigate the disappearance of a renowned wizard
+
+- Side Quest 3: Solve the mystery of the haunted forest
+
+
+
+**Characters:**
+
+
+
+1. **Evelyn**: A wise and eccentric sorceress with knowledge of ancient spells.
+
+2. **Gareth**: A skilled warrior seeking redemption for past misdeeds.
+
+3. **Lyra**: A mischievous rogue with a penchant for treasure hunting.
+
+4. **Alistair**: A stoic and mysterious druid with a deep connection to nature.
+
+5. **Isabella**: A compassionate healer skilled in the arts of herbal medicine.
+
+6. **Thaddeus**: A jovial bard known for his enchanting songs and stories.
+
+7. **Seraphina**: An enigmatic seer who sees glimpses of the future.
+
+8. **Morgan**: A cunning and ambitious noble with a hidden agenda.
+
+
+
+**Let's begin your adventure!**
+
+
+
+You find yourself standing at the entrance of Eldoria, a kingdom renowned for its magical wonders. A sense of anticipation fills the air as you prepare to embark on your quest to retrieve the lost Crown of Arcane Power. What would you like to do first?
+
+
+
+1. Look around
+
+2. Talk to Evelyn
+
+3. Go to the village blacksmith
+
+
+
+Enter the number corresponding to your choice.
 
 ## Conversation
 
@@ -150,5 +211,4 @@ What would you like to do next?
 
 
 Enter the number corresponding to your choice.
-
 

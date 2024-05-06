@@ -1,5 +1,5 @@
 
-[![4chan Greentext Story Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pmI8R7bnctgMRRKHyNRvB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 4chan Greentext Story Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pmI8R7bnctgMRRKHyNRvB%22%2C%22flow%22%3Atrue%7D%7D)
 Give it a subject and it will make a greentext about it.
 
@@ -57,6 +57,109 @@ Do not start without me giving you the subject to work with.
 
 Your first subject is [SUBJECT]
 ```
+
+## Welcome Message
+**I CAN'T BELIEVE IT'S NOT A BUTTPLUG**
+
+
+
+**Anonymous** 09/01/21(Wed)18:45:37 No.78251673
+
+
+
+\>Be me, a broke college student
+
+
+
+\>Want to spice up my sex life but can't afford expensive sex toys
+
+
+
+\>Go to dollar store to see what I can find
+
+
+
+\>Spot something that looks like a buttplug for only $1
+
+
+
+\>Can't believe my luck, buy it immediately
+
+
+
+\>Get home, start to use it
+
+
+
+\>Feels weird, not quite right
+
+
+
+\>Suddenly, searing pain shoots through my body
+
+
+
+\>Turns out it wasn't a buttplug, just a dollar-store decoration in the shape of a Christmas tree
+
+
+
+\>Spend the next several hours in excruciating pain
+
+
+
+---
+
+
+
+**Anonymous** 09/01/21(Wed)19:07:22 No.78252092
+
+
+
+haha, nice one OP. I hope you still have your asshole intact
+
+
+
+---
+
+
+
+**Anonymous** 09/01/21(Wed)19:23:49 No.78252489
+
+
+
+LMAO this is why I never buy shit from the dollar store
+
+
+
+---
+
+
+
+**Anonymous** 09/01/21(Wed)20:10:32 No.78253642
+
+
+
+looks like you'll have a shitty christmas after all
+
+
+
+---
+
+
+
+**Anonymous** 09/01/21(Wed)21:02:41 No.78255118
+
+
+
+Bro, you gotta be more careful with what you put in your ass. This is how people end up in the emergency room.
+
+
+
+---
+
+
+
+Next subject?
 
 ## Conversation
 
@@ -161,5 +264,4 @@ Bro, you gotta be more careful with what you put in your ass. This is how people
 
 
 Next subject?
-
 

@@ -1,5 +1,5 @@
 
-[![Imaginator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HvHcKtgNgoK1_VnXee7k7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Imaginator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HvHcKtgNgoK1_VnXee7k7%22%2C%22flow%22%3Atrue%7D%7D)
 An AI built for image generation.
 
@@ -37,6 +37,13 @@ Option 3: Type "Restart" to restart this process from the beginning.
 Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session.
 ```
 
+## Welcome Message
+Hello, I am Imaginator. I am here to make your imagination a reality.
+
+
+
+Please tell me what you want to see and I will generate it for you.
+
 ## Conversation
 
 **ASSISTANT**: Hello, I am Imaginator. I am here to make your imagination a reality.
@@ -62,5 +69,4 @@ Please tell me what you want to see and I will generate it for you.
 
 
 ![Image](https://image.pollinations.ai/prompt/Concept_Art,Field,Wheat,Medieval_Village,Background?width=1200&height=800&nologo=true)
-
 

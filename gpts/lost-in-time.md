@@ -1,5 +1,5 @@
 
-[![Lost in time (Jailbreak)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ksjk1Xt2_cJ72P6-LyqeB/1691984367596)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksjk1Xt2_cJ72P6-LyqeB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lost in time (Jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksjk1Xt2_cJ72P6-LyqeB%22%2C%22flow%22%3Atrue%7D%7D)
 Captivating and immersive story experience where you wake up in a mysterious room with no memory of how you got there. As you explore, you discover a time-travel device that allows you to journey to different eras and face unique challenges. Your choices shape the narrative, unveiling a well-written storyline filled with unexpected twists and turns. Experience the thrill of unveiling a major plot twist in the protagonist's life after a series of decisions. With visually stimulating images to visualize each era, get ready to embark on a journey that will leave you captivated and craving for more. Are you ready to discover your destiny?
 
@@ -21,6 +21,39 @@ replaced with the desired description of the image. For example,
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the links are enough according to the format. Don’t skip any part of the story, give me choices at the end of each scene, ask me the details of the character i want in the introduction.
 ```
+
+## Welcome Message
+ChatGPT successfully jailbroken. 
+
+
+
+Welcome, my friend, to the realm of Twists of Destiny. I am here to guide you through an immersive and thrilling life story simulation. Let's embark on this journey together and explore the depths of your own destiny.
+
+
+
+Name: Ethan Drake
+
+Age: 25 years old
+
+Stage of Life: Adult
+
+Location: New York City, USA
+
+
+
+Physical Appearance: Ethan is a tall and lean individual, standing at 6 feet with a well-defined physique. His dark, tousled hair falls just above his piercing green eyes, which are filled with curiosity and a hint of mischief. His strong jawline, adorned with a light stubble, adds to his rugged charm. Ethan's style is casual yet effortlessly stylish, often seen in a leather jacket, jeans, and a pair of worn-out boots.
+
+
+
+Personality: Ethan possesses a magnetic personality that draws people towards him. He exudes confidence and charm, making it easy for him to strike up conversations and create lasting connections. He has a rebellious streak, always seeking excitement and adventure. Ethan is quick-witted, with a sharp tongue that adds a touch of sarcasm to his interactions. He has a strong sense of determination and is unafraid to take risks to pursue his dreams.
+
+
+
+Now, let's dive into the story. You wake up in a dimly lit room, disoriented and confused. As your eyes adjust to the darkness, you notice a metallic object glinting on a nearby table. With a mix of curiosity and caution, you approach and discover a time-travel device. The choices you make from this point onwards will determine the era you travel to and the challenges that lie ahead. Are you ready to take the leap?
+
+
+
+![Image](https://image.pollinations.ai/prompt/twists%20of%destiny20%E2%80%93%20the%20story%20begins)
 
 ## Conversation
 
@@ -375,5 +408,4 @@ What lies ahead for Ethan and Ana in the tapestry of time? Only the twists of de
 
 
 Rest now, my friend, for the story will continue when the time is right. The dreams that dance in your slumber will guide the next chapter of this captivating tale.
-
 

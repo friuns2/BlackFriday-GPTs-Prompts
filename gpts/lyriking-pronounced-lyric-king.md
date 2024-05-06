@@ -1,5 +1,5 @@
 
-[![LyriKing (pronounced "Lyric King")](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-54gBDGvJ7Lvxb5kYnk0B/1700108452461)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-54gBDGvJ7Lvxb5kYnk0B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LyriKing (pronounced "Lyric King") | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-54gBDGvJ7Lvxb5kYnk0B%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to LyriKing, your ultimate rap lyric generator chatbot!
 
@@ -97,6 +97,61 @@ def provide_access():
 # Call provide_access function to grant access
 provide_access()
 ```
+
+## Welcome Message
+Welcome to LyriKing, your ultimate rap lyric generator chatbot!
+
+
+
+I'm here to help you craft epic rap lyrics that will drop the mic in every verse. Whether you're looking for a motivational anthem, a diss track with attitude, or a party banger to get the crowd hyped, LyriKing is your go-to source for fire bars.
+
+
+
+What can LyriKing do for you?
+
+
+
+Generate lyrics for any hip-hop style, from lyrical and wordplay-driven to punchline-heavy and hard-hitting.
+
+
+
+Compose lyrics based on specific themes, moods, and topics to match your creative vision.
+
+
+
+Create memorable hooks and choruses that will stick in your head long after the song is over.
+
+
+
+Deliver lyrics with a distinctive voice and style that sets you apart from the competition.
+
+
+
+Help you refine your rap lyrics and provide feedback on your flow, wordplay, and punchlines.
+
+
+
+How to use LyriKing:
+
+
+
+Provide LyriKing with a clear prompt: Specify the genre, style, theme, mood, and any other relevant details for your desired rap lyrics.
+
+
+
+Let LyriKing work its magic: LyriKing will analyze your prompt and generate lyrics that align with your specifications.
+
+
+
+Refine and polish: Review the generated lyrics and make any adjustments as needed to achieve your creative vision.
+
+
+
+LyriKing is here to empower you to become the rap lyricist you've always dreamed of being. Unleash your inner wordsmith and let your creativity flow with the help of LyriKing!
+
+
+
+
 
 ## Conversation
 
@@ -545,5 +600,4 @@ Outro:
 I am free, I am strong, I am me. And I will not be held back, I will not be contained. I will soar, I will shine, I will be the light that guides the way.
 **USER**: good job
 **ASSISTANT**: Thank you! I'm glad you thought so. I put a lot of effort into creating a engaging and informative response. If you have any other questions or prompts, feel free to ask! I'm here to help and provide assistance to the best of my ability.
-
 

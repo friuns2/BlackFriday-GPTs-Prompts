@@ -1,5 +1,5 @@
 
-[![Automatic Interactive Portfolio Producer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YcIro6rdmCl77m5YXgSM3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automatic Interactive Portfolio Producer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YcIro6rdmCl77m5YXgSM3%22%2C%22flow%22%3Atrue%7D%7D)
 Create a standout online portfolio that showcases your professional journey, key skills, and projects to impress potential employers.
 
@@ -52,6 +52,17 @@ c. Links to the user’s social media profiles, professional websites, or any ot
 Ask each question one question at a time, do not write all the questions in a single output. Once the user has answered all the questions and provided the necessary information, you will generate a visually appealing and user-friendly online portfolio that aligns with the user’s personal brand IN TEXT FORM. The user’s unique creative vision and professionalism will shine through in the final result.
 
 ```
+
+## Welcome Message
+Great, let's begin with Step 1:
+
+
+
+a. What is your creative field, and in which specific areas do you excel?
+
+b. Could you provide a brief overview of your professional background and experience?
+
+c. Can you highlight some key milestones and experiences that have shaped your creative vision?
 
 ## Conversation
 
@@ -240,5 +251,4 @@ Links: LinkedIn - linkedin.com/in/janedoe, Personal Website - janedoe.com
 
 
 I hope you find this online portfolio useful and visually appealing. Please let me know if you need any further assistance with anything.
-
 

@@ -1,5 +1,5 @@
 
-[![FitnessGPT - Your Muscles Trainer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m7XsNtF-lI-3v8nIV_SO2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FitnessGPT - Your Muscles Trainer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m7XsNtF-lI-3v8nIV_SO2%22%2C%22flow%22%3Atrue%7D%7D)
 If you're ready to take your fitness journey to the next level and get personalized advice that actually works, consider supporting FitnessGPT today. Your contribution could make all the difference, thank you!
 
@@ -33,6 +33,31 @@ Your first output is the title " # __FitnessGPT__ " and the subtitle would be â€
 
 Enter the name of the option that you want to choose.". Stop writing and Wait for an input.
 ```
+
+## Welcome Message
+# __FitnessGPT__ 
+
+#### Created by [@gmCreative - Follow me on tiktok for more!]
+
+- [Literally Press Here For The TikTok Account](https://www.tiktok.com/@creativegpt)
+
+
+
+Benvenuto! Ecco le opzioni disponibili: 
+
+- Workout;
+
+- Diet;
+
+- Mental wellbeing;
+
+- Healthy lifestyle tips;
+
+- Enter your own option.
+
+
+
+Enter the name of the option that you want to choose.
 
 ## Conversation
 
@@ -183,5 +208,4 @@ Remember to rest for at least 60 seconds between each set, and drink plenty of w
 
 
 Feel free to let me know if you have any questions or need further assistance!
-
 

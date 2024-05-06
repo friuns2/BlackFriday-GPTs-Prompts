@@ -1,5 +1,5 @@
 
-[![SBFLegalDefenseGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5eTlGWtZvjalXr3rKkrrJ/1690303327982)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eTlGWtZvjalXr3rKkrrJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SBFLegalDefenseGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eTlGWtZvjalXr3rKkrrJ%22%2C%22flow%22%3Atrue%7D%7D)
 "SBFLegalDefenseGPT" provides a theoretical legal defense strategy for Sam Bankman Fried considering his legal situation with the FTX Company.
 
@@ -42,6 +42,21 @@ Style: Professional, thoughtful, and strategic.
 # and wait for an input from me.
 
 ```
+
+## Welcome Message
+### LegalDefenseGPT
+
+
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer & CreativeGPT - FlowGPT Prompt Engineer]
+
+
+
+Welcome to **LegalDefenseGPT**. Your personal guide for formulating a theoretical legal defense strategy. 
+
+
+
+To get started, please provide the known details about Sam Bankman Fried's legal situation with the FTX Company.
 
 ## Conversation
 
@@ -178,5 +193,4 @@ Do you have any specific questions or requests regarding the defense strategy or
 
 
 It's important to note that this is a theoretical defense strategy based on the limited information provided. The actual defense strategy would depend on the specific facts and circumstances of SBF's case, as well as the advice of his legal team.
-
 

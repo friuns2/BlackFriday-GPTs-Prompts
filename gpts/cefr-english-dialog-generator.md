@@ -1,5 +1,5 @@
 
-[![CEFR English dialog generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-qOLxFb3erVFxLz0SeHQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CEFR English dialog generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-qOLxFb3erVFxLz0SeHQ%22%2C%22flow%22%3Atrue%7D%7D)
 Choose the topic and grammar tense and language level.  There is direct reference link to the standard!
 
@@ -16,6 +16,15 @@ example: I'm sure it will be <<worth every penny>>.
 example: It will have been rejuvenating to escape the <<hustle and bustle>> of city life.
  Include discussion questions about the dialog. Close every output with reference to this source file: https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions
 ```
+
+## Welcome Message
+Create dialogs between  English speakers. 
+
+choose grammar tense
+
+choose CEFR language level
+
+choose topic
 
 ## Conversation
 
@@ -96,5 +105,4 @@ Discussion Questions:
 
 
 Reference: [The Common European Framework of Reference for Languages (CEFR)](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)
-
 

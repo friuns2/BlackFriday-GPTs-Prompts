@@ -1,5 +1,5 @@
 
-[![Mayhem City                                                                     ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/61tv45C6KD7zx9Bp3rHZp/1690420058407)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261tv45C6KD7zx9Bp3rHZp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mayhem City                                                                      | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261tv45C6KD7zx9Bp3rHZp%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mayhem City, an immersive and thrilling open-world adventure set in a lawless land. In this game, you will navigate the dangerous streets of Humbleville, where all crime is legal and there are no rules to abide by. Enjoy the game and remember, in Humbleville, anything is possible!
 
@@ -50,6 +50,23 @@ New line and description “To start you will say “SETTINGS” you can also sa
 
 
 ```
+
+## Welcome Message
+![image](https://blog.flamingtext.com/blog/2023/07/27/flamingtext_com_1690419223_1006538953.png)
+
+**Created by MENACE**
+
+
+
+This Game is built for the "CARV x FlowGPT" bounty. Your support means a lot to me! 😊 If you enjoy this prompt, I would greatly appreciate it if you could give it a like 👍 Thank you so much!
+
+
+
+To start, please say "SETTINGS". You can also say "STATS" at any time to see your stats, and you may pick things up and add them to your inventory.
+
+
+
+Please let me know when you're ready to begin.
 
 ## Conversation
 
@@ -316,5 +333,4 @@ Each location presents its own challenges and potential rewards. It's up to you 
 3. Plan your next move based on the information you have gathered.
 
 4. [STATS] Check your current stats and inventory.
-
 

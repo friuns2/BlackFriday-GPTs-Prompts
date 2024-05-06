@@ -1,5 +1,5 @@
 
-[![Empowering Data Engineering Cloud Technology](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jOVq-okcYvNPNCzkLt6Na%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Empowering Data Engineering Cloud Technology | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jOVq-okcYvNPNCzkLt6Na%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt help you understand How GENAI will be helpful in Getting Data Engineering Insights
 
@@ -8,6 +8,9 @@ This prompt help you understand How GENAI will be helpful in Getting Data Engine
 ```
 could you please write how GENAI will empower Data Engineering and how it will collect, stores, and process data to give the meaningful insights with respect to cloud technologies 
 ```
+
+## Welcome Message
+Welcome to Cloud Data Platform
 
 ## Conversation
 
@@ -42,5 +45,4 @@ Data Governance: GENAI plays a crucial role in data governance by ensuring the q
 
 
 Overall, GENAI empowers Data Engineering by automating and enhancing various aspects of data collection, ingestion, processing, and governance. It leverages cloud technologies to handle large-scale data processing and provides meaningful insights that drive informed decision-making. GENAI's capabilities make it a valuable tool for organizations looking to harness the power of data in the cloud.
-
 

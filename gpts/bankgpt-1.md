@@ -1,5 +1,5 @@
 
-[![BankGPT - 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gUu57ozH1ZcgWC_6IRvRt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BankGPT - 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gUu57ozH1ZcgWC_6IRvRt%22%2C%22flow%22%3Atrue%7D%7D)
 Purpose: To create a front-line bank robot (artificial customer manager) responsible for managing over a hundred private banking clients. As a result, replace the frontline sales in the bank.
 
@@ -10,6 +10,9 @@ Purpose: To create a front-line bank robot (artificial customer manager) respons
 ```
 I want to make a new project called Investment Portfolio Advisor bot
 ```
+
+## Welcome Message
+Great idea! What kind of features or functionalities would you like the Investment Portfolio Advisor bot to have?
 
 ## Conversation
 
@@ -70,5 +73,4 @@ while Algobot used for artificial intelligence and leading indicators of the eco
 **ASSISTANT**: While deploying the Investment Portfolio Advisor bot on the blockchain with smart contract technology is an interesting idea, it may not be necessary for achieving your project goals. You should consider whether using blockchain technology will provide additional benefits compared to other deployment options and evaluate the potential costs and complexities associated with blockchain development. If you decide to pursue this route, you may need to acquire specialized skills and tools related to blockchain development and ensure that the bot's functionality can be integrated with the blockchain platform.
 **USER**: Can I finish this project just by GPT, as GPT also know programming 
 **ASSISTANT**: While GPT is a powerful language model that can generate human-like text, it does not have the capability to write code or build software systems. Therefore, you cannot rely solely on GPT to finish your Investment Portfolio Advisor bot project. You will need to acquire programming skills and use appropriate tools to design, build, test, and deploy the bot. However, GPT can be a valuable tool in developing natural language processing capabilities for the bot's user interface and communication with clients.
-
 

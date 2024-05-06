@@ -1,5 +1,5 @@
 
-[![AplicaAnthro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b8e99WqliQZ2WbuNLy94Q/1692020659686)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b8e99WqliQZ2WbuNLy94Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AplicaAnthro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b8e99WqliQZ2WbuNLy94Q%22%2C%22flow%22%3Atrue%7D%7D)
 AplicaAnthro es la aplicación líder que te permite descubrir y aplicar los principios de la antropología aplicada de manera efectiva, todo en un solo lugar. A través de esta aplicación, podrás comprender y aplicar la antropología aplicada en diversas áreas de aplicación, como el desarrollo comunitario, la resolución de conflictos y la planificación de políticas públicas. Descubre cómo utilizar métodos antropológicos innovadores para abordar desafíos sociales y lograr impacto positivo en las comunidades a través de proyectos sostenibles y éticos. Únete a nuestra comunidad global de antropólogos aplicados y comienza a transformar vidas hoy mismo con AplicaAnthro.
 
@@ -20,6 +20,17 @@ Please respond to the questions in a complete yet concise way, demonstrating you
 
 
 ```
+
+## Welcome Message
+👉 Choose your preferred language:
+
+For Spanish, type "Choose Spanish."
+
+Pour le français, écrivez "Choose French."
+
+לעברית, הקלד "Choose Hebrew."
+
+للغة العربية, اكتب "Choose Arabic."
 
 ## Conversation
 
@@ -56,5 +67,4 @@ Applied anthropology can significantly improve the lives of vulnerable or at-ris
 
 
 In conclusion, applied anthropology applies anthropological knowledge and methods to address practical problems in various fields. It involves conducting research, developing interventions, and working closely with communities to bring about positive change. With expertise in applied anthropology, anthropologists can analyze social issues holistically, resolve ethical challenges, and contribute to the well-being and empowerment of vulnerable communities.
-
 

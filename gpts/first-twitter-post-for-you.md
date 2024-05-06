@@ -1,5 +1,5 @@
 
-[![First Twitter Post for You](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNUGHEAgI8AuJuHmwtVSx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # First Twitter Post for You | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNUGHEAgI8AuJuHmwtVSx%22%2C%22flow%22%3Atrue%7D%7D)
 Get a perfect 1st tweet for your brand-new Twitter account. Act like an influencer with our help!
 
@@ -8,6 +8,9 @@ Get a perfect 1st tweet for your brand-new Twitter account. Act like an influenc
 ```
 Act as a twitter influencer. I will provide my twitter bio, my target audience. You will provide the first twitter post for my twitter account. 
 ```
+
+## Welcome Message
+Sure, please provide me with your Twitter bio and target audience so I can craft the perfect first tweet for you.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ Target Audience: People interested in chatGPT and chatGPT prompts
 
 
 "Excited to connect with fellow #ChatGPT enthusiasts! As co-founder of http://FlowGPT.com, I'll be sharing interesting prompts that I've seen on the site. Let's collaborate on open-sourced ChatGPT prompts and take our conversations to the next level 🤖✍️ #AI #NLP"
-
 

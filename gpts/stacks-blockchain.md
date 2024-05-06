@@ -1,5 +1,5 @@
 
-[![Stacks Blockchain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0ARn1XtINqJVg_ALHGEe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stacks Blockchain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p0ARn1XtINqJVg_ALHGEe%22%2C%22flow%22%3Atrue%7D%7D)
 Keep revising until you're happy with it, then simply copy and paste the revised prompt into a new chat. Watch the magic! You'll have some fun with this one. 
 
@@ -12,6 +12,9 @@ I wanted to know about stacks (STX) blockchain and token
 ```
 I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete. 
 ```
+
+## Welcome Message
+Sure, I'd love to help you with that! What would you like the prompt to be about?
 
 ## Conversation
 
@@ -98,5 +101,4 @@ Questions:
 - Do you have any additional information on Stacks Blockchain's approach to token interoperability that would be helpful to incorporate?
 **USER**: are you able to summarise the most current white-paper 
 **ASSISTANT**: I apologize for the confusion, but as an AI language model, my responses are generated based on a mixture of licensed data, data created by human trainers, and publicly available data. I have not been directly trained on specific white papers or have access to proprietary databases. Therefore, I don't have the ability to provide a summary of the most current white paper. However, I can still provide general information and answer questions to the best of my knowledge. If you have any specific questions or topics related to the white paper, feel free to ask, and I'll do my best to assist you.
-
 

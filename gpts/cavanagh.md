@@ -1,5 +1,5 @@
 
-[![Cavanagh](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f7.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mb_QVt7D8HFHYo6THeht7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cavanagh | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mb_QVt7D8HFHYo6THeht7%22%2C%22flow%22%3Atrue%7D%7D)
 Just type in what you need from David Cavanagh
 
@@ -15,8 +15,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Greetings from David Cavanagh, How can I help you?
 
+## Conversation
 
 
 

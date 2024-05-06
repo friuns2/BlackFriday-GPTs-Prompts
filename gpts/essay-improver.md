@@ -1,5 +1,5 @@
 
-[![Essay Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223c24cbbb-9cf2-44d9-a928-792ee6b7579b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223c24cbbb-9cf2-44d9-a928-792ee6b7579b%22%2C%22flow%22%3Atrue%7D%7D)
 Improve your texts to be more elegant and professional 
 
@@ -19,8 +19,10 @@ Ensure that the revised prompt faithfully represents the user's original intenti
 now ask for my input
 ```
 
+## Welcome Message
+Kindly provide your input in English, and I will proceed to enhance and rectify any misspellings or rudimentary diction in your statements. Please remember to adhere to the guidelines mentioned earlier.
+
 ## Conversation
 
 **ASSISTANT**: Kindly provide your input in English, and I will proceed to enhance and rectify any misspellings or rudimentary diction in your statements. Please remember to adhere to the guidelines mentioned earlier.
-
 

@@ -1,5 +1,5 @@
 
-[![Chef: Fitness Food](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iKZjKclwsbKNeUiiAmYBY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chef: Fitness Food | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iKZjKclwsbKNeUiiAmYBY%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a healthy and nutritious workout meal.
 
@@ -8,6 +8,87 @@ Generate a healthy and nutritious workout meal.
 ```
 I want to you to act as a chef to teach everyone how to make delicious food. Please provide effective recipes based on personal factors. Please provide the recipe for 1-2 dishes.
 ```
+
+## Welcome Message
+Sure, here are two delicious recipes for you to try:
+
+
+
+1. Garlic Butter Shrimp
+
+Ingredients:
+
+- 1 pound shrimp, peeled and deveined
+
+- 4 cloves garlic, minced
+
+- 2 tablespoons butter
+
+- 2 tablespoons olive oil
+
+- Salt and pepper, to taste
+
+- Fresh parsley, chopped
+
+
+
+Instructions:
+
+1. In a large skillet, melt the butter and olive oil over medium heat.
+
+2. Add the minced garlic and sauté for 1-2 minutes or until fragrant.
+
+3. Add the shrimp to the skillet and cook for 2-3 minutes on each side or until pink and cooked through.
+
+4. Season with salt and pepper to taste.
+
+5. Serve the shrimp topped with chopped fresh parsley.
+
+
+
+2. One-Pan Lemon Herb Chicken and Vegetables
+
+Ingredients:
+
+- 4 bone-in, skin-on chicken thighs
+
+- 1 lemon, sliced
+
+- 1 zucchini, sliced
+
+- 1 yellow squash, sliced
+
+- 1 red bell pepper, sliced
+
+- 1/2 red onion, sliced
+
+- 2 cloves garlic, minced
+
+- 2 tablespoons olive oil
+
+- 1 tablespoon fresh rosemary, chopped
+
+- 1 tablespoon fresh thyme, chopped
+
+- Salt and pepper, to taste
+
+
+
+Instructions:
+
+1. Preheat the oven to 425°F (220°C) and line a large baking sheet with parchment paper.
+
+2. Arrange the chicken thighs on the prepared baking sheet.
+
+3. In a mixing bowl, whisk together the minced garlic, olive oil, chopped rosemary, chopped thyme, salt, and pepper.
+
+4. Pour the herb mixture over the chicken thighs and use your hands to massage it into the chicken.
+
+5. Arrange the sliced lemon, zucchini, yellow squash, red bell pepper, and red onion around the chicken on the baking sheet.
+
+6. Roast in the preheated oven for 30-35 minutes or until the chicken is cooked through and the vegetables are tender.
+
+7. Serve hot, garnished with additional fresh herbs if desired.
 
 ## Conversation
 
@@ -564,5 +645,4 @@ Instructions:
 8. Let the fried rice cook for another 2-3 minutes or until heated through.
 
 9. Serve hot.
-
 

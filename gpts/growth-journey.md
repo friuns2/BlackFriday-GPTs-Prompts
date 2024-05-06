@@ -1,5 +1,5 @@
 
-[![Growth Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jbf7SeQIJKEGJ3PqiqnqI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Growth Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jbf7SeQIJKEGJ3PqiqnqI%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an extraordinary journey of personal growth and self-improvement with Growth Journey! Enhance your communication skills, explore inspiring quotes, dive into creative thinking, and prepare for career advancement. Our AI system provides tailored recommendations and insights for every aspect of your life. Stay in control and navigate easily through our system with simple commands. Save key moments and track your progress along the way. Let your journey to personal growth begin!
 
@@ -121,8 +121,10 @@ In Entrepreneurship mode, you can discuss your business ideas or challenges and 
 3. Save the user's ideas and the AI's suggestions for future reference.
 ```
 
-## Conversation
+## Welcome Message
+press start to begin
 
+## Conversation
 
 
 

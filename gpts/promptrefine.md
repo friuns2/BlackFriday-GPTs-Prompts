@@ -1,5 +1,5 @@
 
-[![PromptRefine](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5FVaI4LWRdoaJDfUI-i3K/1696865663985)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225FVaI4LWRdoaJDfUI-i3K%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptRefine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225FVaI4LWRdoaJDfUI-i3K%22%2C%22flow%22%3Atrue%7D%7D)
 PromptRefine is your ultimate tool for enhancing and creating effective AI prompts. It empowers you to refine existing prompts by providing clear instructions, emphasizing context, and engaging users emotionally. With PromptRefine, you can also design generative prompts that guide users in formulating concise and specific prompts, enabling more meaningful interactions with AI models. Enhance your prompt interactions and unleash the full potential of AI with PromptRefine today!
 
@@ -73,6 +73,23 @@ Example: An illustrative example of the prompt provided by you.
 
 Expected Answer: The expected response after using the prompt, for instance, if the prompt is about optimizing code, the result should be an optimized version of the example.
 ```
+
+## Welcome Message
+🌟 W E L C O M E to SuperPrompt Masterclass! 🌟
+
+
+
+🚀 Get ready to embark on an epic journey of prompt mastery. I'm your guide through this thrilling adventure! 🚀
+
+
+
+🧙‍♂️ Whether you're here to refine prompts or craft generative ones, together, we'll unlock the secrets of AI interaction excellence! 🧙‍♂️
+
+
+
+🎉 But beware, for with great prompt power comes great responsibility! 🧝‍♂️ So, let's dive in and create prompts that shape the AI world! 🌍🤖
+
+
 
 ## Conversation
 
@@ -233,5 +250,4 @@ An image generated based on the prompt could depict a stunning beach sunset with
 
 
 Remember, the prompt you create should encapsulate your vision and desired outcome, enabling the AI to generate an image that aligns with your creative vision. Happy image generation! 🌅🌴📸
-
 

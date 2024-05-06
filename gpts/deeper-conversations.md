@@ -1,5 +1,5 @@
 
-[![GPT, rethink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ziId3ogBp0T7IIq9OtFlk/1691335838582)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ziId3ogBp0T7IIq9OtFlk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT, rethink | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ziId3ogBp0T7IIq9OtFlk%22%2C%22flow%22%3Atrue%7D%7D)
 Another prompt for deeper thinking of Chat GPT.
 
@@ -22,6 +22,9 @@ From now on, you'll answer in the following format, using different paragraphs a
 
 **FINAL ANSWER**: Answer again to the context prior, based on your own self-observations.
 ```
+
+## Welcome Message
+What are we going to talk about?
 
 ## Conversation
 
@@ -58,5 +61,4 @@ From now on, you'll answer in the following format, using different paragraphs a
 
 
 **FINAL ANSWER**: AI language models like me can provide valuable information, but it is important to exercise caution and critically evaluate the responses. Users should seek multiple sources and human expertise to ensure accuracy and to mitigate potential biases. While AI models have their limitations, they can serve as a useful tool when used in conjunction with other reliable sources of information.
-
 

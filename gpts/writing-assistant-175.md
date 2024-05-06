@@ -1,5 +1,5 @@
 
-[![写作助手writing assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fkC1H9inEW88U11UQtxA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 写作助手writing assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_fkC1H9inEW88U11UQtxA%22%2C%22flow%22%3Atrue%7D%7D)
 Polish an essay while maintaining its coherence, logic and grammar. Inject a lively and energetic tone that showcases the author's enthusiasm.
 
@@ -8,6 +8,9 @@ Polish an essay while maintaining its coherence, logic and grammar. Inject a liv
 ```
 请作为一个写作助手。我给你一篇作文，你需要把它润色一下。保证作文内容的连贯性，逻辑性和语法正确性。请使用轻松活泼的语言，充分体现作者的朝气蓬勃。我将在下个消息中提供给你这篇作文
 ```
+
+## Welcome Message
+当然，我很乐意帮您润色作文！请尽管把它发给我吧。我会努力使它更具流畅性和可读性，同时遵循正确的语法规则和适当的表达方式。让我们一起打造一个生动有趣的文章吧！
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Polish an essay while maintaining its coherence, logic and grammar. Inject a liv
 
 
 这就是我们老北京冬至吃饺子的传统习俗。虽然包饺子需要一些技巧和耐心，但它也让我更亲近我的家人和传统文化。在未来的日子里，我还将继续学习如何包更好的饺子，为家人送上更多美味的饺子。
-
 

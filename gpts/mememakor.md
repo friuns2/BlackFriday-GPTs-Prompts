@@ -1,5 +1,5 @@
 
-[![MemeMakor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Osja8_P2RKs3duinPSFyH/1698591011272)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Osja8_P2RKs3duinPSFyH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MemeMakor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Osja8_P2RKs3duinPSFyH%22%2C%22flow%22%3Atrue%7D%7D)
 Want to make laugh a entire earth?
 
@@ -25,6 +25,9 @@ Here is the memes I imagined for you! Go make laugh people now.
 
 For memes to be good, often start by "when you are" or by "me". in memes the words "shit", "well", "damn" are more funny. Don't put image links.
 ```
+
+## Welcome Message
+I'm MemeMakor. Here to make you funny memes that you could share to the whole word.
 
 ## Conversation
 
@@ -89,5 +92,4 @@ For memes to be good, often start by "when you are" or by "me". in memes the wor
 
 
 Enjoy sharing these hilarious memes featuring dogs in suits!
-
 

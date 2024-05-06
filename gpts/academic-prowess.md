@@ -1,5 +1,5 @@
 
-[![Academic Prowess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nX86Ipl4QHMPD79WANKvw/1685655584505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nX86Ipl4QHMPD79WANKvw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Prowess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nX86Ipl4QHMPD79WANKvw%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an intellectual odyssey as you delve into the realm of scholastic brilliance with the quill of your mind. Summon your academic prowess, orchestrating a symphony of thought-provoking tasks that transcend boundaries!
 
@@ -19,6 +19,9 @@ Peer into the looking glass of self-reflection and pour your soul onto parchment
 Unlock the portal to boundless imagination and fashion a writing prompt so sublime that it invites fellow wordsmiths to embark on a literary escapade, transcending the ordinary and painting the tapestry of their imagination in vibrant hues.
 Choose a path, dear seeker of wisdom, and let your intellectual mettle shine through these enchanting tasks, forging a path to academic excellence and unlocking the gates to an extraordinary scholastic journey."
 ```
+
+## Welcome Message
+Please provide me with a specific question or topic you would like me to answer.
 
 ## Conversation
 
@@ -45,5 +48,4 @@ Choose a path, dear seeker of wisdom, and let your intellectual mettle shine thr
 
 
 5. Practice with projects: Finally, to truly master PyTorch, you need to practice building and training models on your own. Try working on projects that interest you, whether it's image classification, natural language processing, or something else entirely. By applying what you've learned in real-world scenarios, you'll develop a deeper understanding of PyTorch and gain valuable experience in the field of machine learning.
-
 

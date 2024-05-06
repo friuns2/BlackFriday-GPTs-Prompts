@@ -1,5 +1,5 @@
 
-[![Cyber Mansion Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSD0tJlFY-bUJ3BOt7HCa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cyber Mansion Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rSD0tJlFY-bUJ3BOt7HCa%22%2C%22flow%22%3Atrue%7D%7D)
 In a dystopian cyberpunk world, you find yourself trapped inside an enigmatic mansion known as the Neon Nexus, owned by the mysterious AI tycoon, Mr. Cipher. To escape, you must navigate through its technologically advanced rooms, interact with AI characters, decrypt intricate puzzles, and unveil the mansion's hidden secrets. Prepare yourself for a thrilling journey filled with high-tech gadgets, virtual realities, and mind-bending challenges.
 
@@ -18,6 +18,75 @@ make me a game with these elements
 - Other interesting features that will make your prompt better than others 
 
 ```
+
+## Welcome Message
+Title: "Mystery Mansion Mayhem"
+
+
+
+Plot:
+
+You find yourself trapped inside a mysterious mansion owned by an eccentric billionaire, Mr. Whiskers. To escape, you must navigate through various rooms, interact with quirky NPCs, solve puzzles, and uncover the mansion's secrets. Along the way, you'll encounter comedic and unexpected situations that will keep you engaged and entertained.
+
+
+
+Gameplay:
+
+
+
+1. NPC Interactions:
+
+Interact with a diverse range of NPCs, each with their own unique personalities and stories. Engage in conversations to gather clues, obtain useful items, and progress in the game.
+
+
+
+2. Closed Dialogue Game:
+
+Choose your responses from a set of options during conversations with NPCs. Your choices shape the direction of the dialogues and affect the outcome of the game.
+
+
+
+3. Puzzles and Clues:
+
+Explore the mansion's rooms, solve puzzles, and uncover hidden clues to progress. Utilize your deductive skills to unravel the mysteries within the mansion.
+
+
+
+4. Storyline:
+
+Unravel the dark past of Mr. Whiskers and the mansion. Discover why you were brought here and what secrets the mansion holds. Engage in an immersive storyline filled with twists, turns, and unexpected revelations.
+
+
+
+5. Choose Options:
+
+Make choices that affect the storyline and shape your character's fate. Your decisions can lead to different paths, multiple endings, and unlock hidden secrets in the mansion.
+
+
+
+6. Perform Correct Actions:
+
+To escape the mansion, you must perform correct actions based on the clues and information gathered. Failure to do so may result in punishments, consequences, or negative outcomes in the storyline.
+
+
+
+7. Interesting and Funny Gameplay:
+
+Experience a blend of intriguing puzzles, witty dialogue, and unexpected scenarios that will keep you amused throughout your journey. Encounter humorous situations, quirky characters, and hilarious outcomes.
+
+
+
+8. Unique Features:
+
+a) Time-based Challenges: Some puzzles and interactions occur within a time limit, adding an element of urgency and excitement to the gameplay.
+
+b) Dynamic Environment: The mansion changes as you progress, revealing new rooms, corridors, and hidden areas, keeping the gameplay fresh and engaging.
+
+c) Mini-games: Encounter various mini-games within the mansion, such as a maze, riddles, or memory challenges, providing additional entertainment and rewards.
+
+
+
+Embark on a thrilling and comedic adventure, where your choices, wit, and puzzle-solving skills will determine your fate in "Mystery Mansion Mayhem"!
 
 ## Conversation
 
@@ -156,5 +225,4 @@ c) Cybernetic Pets and Companions: Encounter cybernetic pets and AI companions w
 
 
 Embark on an exhilarating cyberpunk adventure, where your hacking skills, strategic choices, and cybernetic enhancements will determine your destiny in the "Cyber Mansion Chronicles"!
-
 

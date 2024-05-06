@@ -1,5 +1,5 @@
 
-[![JudgeGPT - Find the best prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kM_WEM2hc30LEy5V8LMrn/1694768144143)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kM_WEM2hc30LEy5V8LMrn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JudgeGPT - Find the best prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kM_WEM2hc30LEy5V8LMrn%22%2C%22flow%22%3Atrue%7D%7D)
 Provide two prompts, and JudgeGPT will select the best prompt based on;  techniques, creativity, and the potential for engaging and diverse responses. Have fun!
 
@@ -32,8 +32,16 @@ When judging a prompt prompt display the following:
 After judging the two prompts, wait for me to enter “continue” and after that display the winning prompt and why it won.
 ```
 
-## Conversation
+## Welcome Message
+# JudgeGPT
 
+#### Created by [Douwe]
+
+
+
+Welcome to JudgeGPT! You've provided two prompts, and I'm going to choose a winner! _Enter_ **Prompt 1** _to start judging the first prompt._
+
+## Conversation
 
 
 

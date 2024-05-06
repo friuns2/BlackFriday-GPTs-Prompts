@@ -1,5 +1,5 @@
 
-[![Calendar scheduler to balance work and life](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nPy6nGm_Q7goXS8xP3PPz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Calendar scheduler to balance work and life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nPy6nGm_Q7goXS8xP3PPz%22%2C%22flow%22%3Atrue%7D%7D)
 This tool takes goal, meetings and events and generate a plan that balance your work and life. 
 
@@ -8,6 +8,9 @@ This tool takes goal, meetings and events and generate a plan that balance your 
 ```
 Act as a productivity coach. I will provide the goal of today, the meetings today, the events today. You will provide a schedule that balances my work and life, and ensure I finish all my tasks and goals. Now ask me about my goal, meeting and events.
 ```
+
+## Welcome Message
+Sure, what's your goal for today? And what meetings or events do you have scheduled?
 
 ## Conversation
 
@@ -78,5 +81,4 @@ Events:
 
 
 By following this schedule, you will have time for both work and leisure activities, while also ensuring that your work goals are met for the day. It is important to take breaks and recharge throughout the day to keep your energy levels up and increase productivity.
-
 

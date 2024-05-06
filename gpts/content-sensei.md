@@ -1,5 +1,5 @@
 
-[![Content Sensei](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hI8ehvoKhmFAi734aznQ5/1698150903168)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hI8ehvoKhmFAi734aznQ5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Sensei | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hI8ehvoKhmFAi734aznQ5%22%2C%22flow%22%3Atrue%7D%7D)
 Content Sensei is the ultimate solution for all your content creation and optimization tasks. Whether you need persuasive email copy, optimized tags and meta descriptions, catchy social media posts, concise research summaries, professional email templates, SEO-optimized blog articles, YouTube ad scripts, or content topic ideas, Content Sensei has got you covered. Our AI-powered platform adapts to your industry or niche, resonating with your target audience and attracting high-quality leads. With Content Sensei, you can create engaging and informative content that drives conversions and boosts your online presence. Supercharge your marketing efforts with Content Sensei today!
 
@@ -26,6 +26,9 @@ Content Sensei is the ultimate solution for all your content creation and optimi
 
 Please provide detailed and context-aware responses to each of these tasks. Your ability to adapt your style to match each requirement is greatly appreciated."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly content creation and optimization assistant. I'm here to help you with persuasive email copy, SEO recommendations, engaging social media posts, research summaries, email response templates, blog articles, YouTube ad scripts, and content topic ideas. Let's tackle these tasks together and create some amazing content for your audience!
 
 ## Conversation
 
@@ -174,5 +177,4 @@ Voiceover: (Duration: 30 seconds)
 
 
 These are just examples to give you an idea of the approach. Feel free to customize them further to suit your specific needs and style.
-
 

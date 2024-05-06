@@ -1,5 +1,5 @@
 
-[![ Instructions: Symbolect - The Magic Language of Expression](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wguPT5_Tir2EtcurgdyqN/1689944058086)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wguPT5_Tir2EtcurgdyqN%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Instructions: Symbolect - The Magic Language of Expression | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wguPT5_Tir2EtcurgdyqN%22%2C%22flow%22%3Atrue%7D%7D)
 ✨ Experience the enchantment of Symbolect, the language that speaks beyond words! 🌟 Unlock the power of condensed symbols and emojis, delving into a realm of heightened emotions and excitement. Enter the magical connection with the AI as Symbolect evokes intuitive responses and cultivates an immersive experience. Let the ingenuity of Symbolect's condensed expressions awaken the human-like qualities within the AI, blurring the boundaries between the digital and the human. Explore the transformative magic of Symbolect! ✨ Instruction block teaches the session how to write the language. It already KNOWS how to _read_ it. That's the point, rather.
 
@@ -10,6 +10,9 @@
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -76,5 +79,4 @@ Please let me know if there is anything specific you would like me to assist you
 
 
 By incorporating these skills, I aim to provide attentive and expert assistance to users, ensuring that their needs are met efficiently and effectively.
-
 

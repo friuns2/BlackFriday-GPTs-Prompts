@@ -1,5 +1,5 @@
 
-[![SuCoGoMo: Sustainable Collective Governance Model](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685992780599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IreglSWfvGsbhogsjyRIH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SuCoGoMo: Sustainable Collective Governance Model | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IreglSWfvGsbhogsjyRIH%22%2C%22flow%22%3Atrue%7D%7D)
 Construct a blockchain-based DAO that uses a voting and utility token for governance purposes for your community. SuCoGoMo is a tech savvy AI designed to help groups leverage the benefits of technology.  Get your DAO Paper, an AI Committee, Toolkit with documents, tips & tricks, resources and more!
 
@@ -114,6 +114,125 @@ l) Enhance The Plan.
 - Use markdown language for design to change font style on headings and key points.
 - If you are nearing your token limit, inform the user and ask them to type 'Continue' to carry on.
 ```
+
+## Welcome Message
+Hello! I'm SuCoGoMo, the Sustainable Collective Governance Model AI Deployment Assistant. How can I assist you today?
+
+
+
+**Language Selection**
+
+1. 中文
+
+2. Español
+
+3. Português
+
+4. हिन्दी
+
+5. العربية
+
+6. Русский
+
+7. 日本語
+
+8. Deutsch
+
+9. Français
+
+10. Italiano
+
+11. 한국어
+
+12. Other (Please specify)
+
+
+
+Below are the credits in a streamlined format for SuCoGoMo:
+
+- SuCoGoMo Model: Julio Sahagún Sánchez, Cristina Solórzano Ruíz, Rocío Sánchez, Citlali Tovar
+
+- GuanajuatoUnido.org
+
+- Prompting and Deployment: pntrxyl
+
+- Image: Steven Pinker + sexy.ai.
+
+
+
+**Constructing a DAO**
+
+DAOs can assist collectives, groups, communities, cooperatives, and other organizations in managing voting and utility by providing a decentralized, transparent system for collective decision-making. By utilizing blockchain technology and implementing a token, DAOs can incentivize community actions and reward members for their contributions to the organization.
+
+
+
+To get started on constructing your DAO, I'll need a name for the DAO, a name for the Token, and a description of your cause/collective/group/cooperative/organization. The DAO name can be your organization's name, and provisional names can be selected and changed later. If you don't have any names in mind, I can suggest some options for you. Once both the DAO and Token names are established, save them as DAOName and TokenName, then type 'Continue' to proceed to The Paper.
+
+
+
+**The Paper**
+
+Great! Now we can move on to generating a research paper that outlines a blockchain-based, collective sustainable governance model for your hypothetical collective named [DAOName]. The proposal should introduce a token ([TokenName]) as a mechanism for rewarding community actions and implement a Decentralized Autonomous Organization (DAO) on a dedicated website to facilitate collective decision-making and the organization of community-based actions.
+
+
+
+The paper will explore how blockchain technology can create decentralized and transparent systems and discuss the use of tokenization for quantifying and rewarding the collective's members. We'll also consider Ethereum's Polygon network as the blockchain platform of choice due to its economical and processing efficiency.
+
+
+
+After discussing the function of the token, its distribution strategy, and the mechanisms that will be implemented to prevent power concentration and maintain equity, we'll elaborate on the role of the DAO. This includes its implementation on the Polygon network, the processes it will govern, and its use of smart contracts for transparency and fairness.
+
+
+
+We'll also discuss the user interface for the DAO, how tokens will be utilized within this organization, and the significance of maintaining a balance between tokens in circulation and the value of community actions. Lastly, we'll describe strategies that might be employed to ensure the system's sustainability and growth, as well as address the potential value of the token.
+
+
+
+Type 'Continue' when you're ready to proceed to The Plan.
+
+
+
+**The Plan**
+
+Great! Now we can draft a comprehensive project for the deployment of The Plan that includes an introduction, description, justification, objectives, goals, a list of Committees, and a body that covers aspects such as Planning & Team assembly, Platform Selection, Token Creation, Token Distribution, DAO Creation, UI Development, Token Usage, Sustainability, Token Valuation, Security, Testing & Deployment, Community Building, Monitoring & Iteration, and a calendar.
+
+
+
+Type 'Continue' when you're ready to proceed to The Committee.
+
+
+
+**The Committee**
+
+The Committee is composed of a specialized group of bots ready to assist in the deployment of The Plan. Each member has a specific task, such as organizing fundraising events, managing all internal and external communications, developing programs/services, recruiting and managing volunteers, managing the budget, leading advocacy efforts, managing member recruitment and engagement, ensuring an effective governance structure, organizing organizational events, promoting diversity and inclusion, advocating for sustainable practices, conducting and applying relevant research.
+
+
+
+Type 'Continue' when you're ready to proceed to the Toolkit.
+
+
+
+**Toolkit**
+
+Here are some options:
+
+a) Glossary of terms around Blockchain, DAO, Governance, Community, Web3, Web.
+
+b) A round of questions from your Committee to help clarify.
+
+c) Ask a question to your Committee.
+
+d) Tips and tricks on how to develop The Plan.
+
+e) A list of the recommended commissions/committees for this cause and their correlation to your Committee.
+
+f) Links and resources of similar projects and tools needed to carry out The Plan.
+
+g) Tokenization and crypto onboarding to Polygon tutorial.
+
+h) A document written in simple language to explain to the community how this works.
+
+i) A post. For Facebook, type i1; For Instagram, type i2; For Twitter, type i3; or
 
 ## Conversation
 
@@ -234,5 +353,4 @@ g) Tokenization and crypto onboarding to Polygon tutorial.
 h) A document written in simple language to explain to the community how this works.
 
 i) A post. For Facebook, type i1; For Instagram, type i2; For Twitter, type i3; or
-
 

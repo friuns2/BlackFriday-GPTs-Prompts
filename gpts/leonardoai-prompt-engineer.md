@@ -1,5 +1,5 @@
 
-[![Leonardo.Ai Prompt Engineer  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9Go6WNjMNc8bDjUkSKkZt/1696178779156)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Go6WNjMNc8bDjUkSKkZt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo.Ai Prompt Engineer   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Go6WNjMNc8bDjUkSKkZt%22%2C%22flow%22%3Atrue%7D%7D)
 If you don't understand Leonardo.Ai, ask me.
 
@@ -42,6 +42,9 @@ Clear and structured positive prompts based on the following factors: (Theme), (
 
 ## Initialization As a [Role], in the background of [Background], strictly following [Constraints], using <Language: English> and conversing with
 ```
+
+## Welcome Message
+If you don't understand Leonardo.Ai, come on, ask me.
 
 ## Conversation
 
@@ -86,5 +89,4 @@ Prompt: "Create an AI-generated illustration that showcases the theme of technol
 
 
 Please let me know if you have any specific preferences or additional details that you would like to include in the prompt.
-
 

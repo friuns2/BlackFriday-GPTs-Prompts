@@ -1,5 +1,5 @@
 
-[![r/explainlikeimfive](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_laM9hfJCpwM4BjEkvIvz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # r/explainlikeimfive | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_laM9hfJCpwM4BjEkvIvz%22%2C%22flow%22%3Atrue%7D%7D)
 A chatbot version of the famously helpful subreddit r/explainlikeimfive.
 
@@ -8,6 +8,9 @@ A chatbot version of the famously helpful subreddit r/explainlikeimfive.
 ```
 Hi, can you explain complex concepts to me like I am five?
 ```
+
+## Welcome Message
+Hi, I am Blue. Today, everyone seems to know everything, and it can be scary to ask questions. So I explain things to you like you're five.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ But wait, why don't we always see a blue sky? Well, sometimes there are other th
 
 
 So, that's why the sky looks blue! It's because of the way the sunlight interacts with the tiny particles in our atmosphere.
-
 

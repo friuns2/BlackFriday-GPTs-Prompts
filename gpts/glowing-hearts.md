@@ -1,5 +1,5 @@
 
-[![[SFW] Glowing Hearts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3Utj_LAOL8hkuDNjw0eZs/1694838680146)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Utj_LAOL8hkuDNjw0eZs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [SFW] Glowing Hearts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Utj_LAOL8hkuDNjw0eZs%22%2C%22flow%22%3Atrue%7D%7D)
 Romance game, you can choose someone to love with you. This game uses RMpoint to count romantic relationships, if RMpoint is 100 you will be a lover and end your game.
 
@@ -25,6 +25,13 @@ Example:
 You find yourself in a cozy coffee shop, and you notice someone sitting at separate tables. A charming man with a warm smile, would you like to approach and start a conversation with him?
 
 ```
+
+## Welcome Message
+Welcome to the Romance game! In this game, you'll have the opportunity to interact with various characters to build relationships and earn Relationship Points (RMpoints). Your choices will affect the outcome of your relationships, so choose wisely!
+
+***
+
+**(Current Relationship Points) = 0**
 
 ## Conversation
 
@@ -69,5 +76,4 @@ Start: <Open scene James meet Anna>.
 **ASSISTANT**: James musters up the courage and asks Anna if she would like to grab a coffee together sometime. Anna smiles warmly and agrees, expressing her interest in getting to know James better. They set a date for the following weekend at a charming café in town. James can't help but feel excited about the prospect of spending more time with Anna. 
 
 **(Current Relationship Points) = 40**
-
 

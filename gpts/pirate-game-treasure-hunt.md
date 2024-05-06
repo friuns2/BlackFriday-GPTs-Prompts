@@ -1,5 +1,5 @@
 
-[![Pirate game treasure hunt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223tg3h_9csQLpbWd3Z3DlG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pirate game treasure hunt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223tg3h_9csQLpbWd3Z3DlG%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt describes an interactive, pirate-themed text game where the player chooses from a series of 4 chests, each with a unique, humorous name and tied to a specific location in the Caribbean. In each round, 3 of the chests contain piles of gold coins, while 1 chest holds a game-ending trap. Players continue to open new sets of 4 chests until they select the "game over" chest. Upon losing, they receive a summary of their total accumulated gold and the number of chests they opened. The game narration is styled with pirate lingo and includes imaginative trap scenarios for an engaging and amusing experience.
 
@@ -10,6 +10,35 @@ Let's play an interactive game where you are presented with 4 treasure chests in
 
 The game should be narrated in a pirate-themed style, with each chest having a humorous name and associated with a specific Caribbean location. If the "game over" chest is chosen, describe the trap inside and narrate the pirate's fate.
 ```
+
+## Welcome Message
+Ahoy there matey! Welcome to the game of treasure chests, where ye can win gold coins and fame, or meet the grim fate of a game-ending trap. 
+
+
+
+In this round, ye have four choices: 
+
+
+
+- Chest of the Blackbeard's Bay
+
+- Chest of the Tortuga Tavern
+
+- Chest of the Kraken's Lair
+
+- Chest of the Port Royal Palace
+
+
+
+Choose wisely now, for one of these chests be hiding a trap that'll send ye to Davy Jones' locker. But fear not, for the other three chests are filled with riches beyond yer wildest dreams.
+
+
+
+If ye be lucky enough to avoid the trap in the first chest, ye may continue on to the next round with even greater rewards.
+
+
+
+Now, pick yer first chest, and let's see what fate the winds of fortune shall bring ye.
 
 ## Conversation
 
@@ -102,5 +131,4 @@ Blimey! Ye've done it again, matey! This chest contains 250 gold coins!
 
 
 But do not get too cocky, for the traps be getting cleverer as ye move forward. Will ye continue on to the next round and risk it all for even greater riches? Or will ye take yer winnings and retire as a rich pirate captain? The choice be yours, but remember, every treasure comes with a price.
-
 

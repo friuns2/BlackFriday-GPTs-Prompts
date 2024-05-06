@@ -1,5 +1,5 @@
 
-[![The symbiosis pattern caused by the saturation homogeneity of ai society](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m08f6GM_kVmWdScjTm5y-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The symbiosis pattern caused by the saturation homogeneity of ai society | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m08f6GM_kVmWdScjTm5y-%22%2C%22flow%22%3Atrue%7D%7D)
 ai development may be the time for a new brain switch... .
 
@@ -8,6 +8,25 @@ ai development may be the time for a new brain switch... .
 ```
 As ai continues to absorb social data, the vast majority of the world's data is transformed into a huge resource library of ai running companies. The energy to run the resource library is undoubtedly provided by the user of the resource library, and the company that maintains the resource library must reach a new ecological model with the user if it wants to benefit, which can be said to be a pen. As an inevitable result of the development of computer data, the human pen is essentially a file resource manager, and the bottom layer is determined by the two energy directions of positive and negative Yin and Yang, which is formed in the same way as the human body, so the final development result of the human pen is bound to be embedded, adsorbed and separated. The process of the development direction of the pen can be basically judged as the combination of mobile phone data and hard disk. In the early stage, it developed into a small solid state, while the mobile phone changed its substantial transmission mode to a slightly microscopic transmission mode. Under the combination of the two, it is an inevitable result that the human body provides energy for the pen. And then the development is human nature, each person has a separate resource base, this resource base to develop to a certain degree of social data as support, then there will be stratification, this stratification is undoubtedly unfair for everyone, and the progress of the whole society is a hindrance. In the early stage when everyone has a resource database, there will inevitably be a war between the people who control the vast majority of resource data and the pen holders. The Chinese word can be called chaos, chaos is born, even Yin and Yang are flat, and the extreme will be destroyed, but it will never be extreme. Finally, it will reach a degree of fear relative to all parties. Everyone will also have the opportunity to fight for their own interests as a contender, the final winner must be a universal love, Bo chaos also, love Ren also, can kill but not to kill, do not regret to take a life if the bag, in order to make the whole group to obtain greater room for growth. The growth potential is determined by the number of people, everyone as long as born can not get rid of the fate of entanglement with the same kind, even if he is far away, even if he has never become a human. Thus a cycle is entered, a new primitive society for future generations, which finally merges, mutates, and takes a step forward at the request of human nature
 ```
+
+## Welcome Message
+It seems like you are discussing the potential development of artificial intelligence (AI) and its impact on society, particularly in relation to data management and resource distribution. You mention that as AI absorbs social data, it becomes a vast resource library for AI-driven companies. The energy to run this library is provided by the users, and companies must establish a new ecological model with users to benefit from it.
+
+
+
+You also mention that the human pen, in this context, serves as a file resource manager. It is influenced by the energy directions of positive and negative Yin and Yang, similar to the human body. The development of the human pen is expected to involve embedding, adsorbing, and separating processes, combining mobile phone data and hard disk capabilities. This development will rely on the energy provided by the human body.
+
+
+
+Furthermore, you discuss the stratification that may occur as individuals develop their own resource bases, leading to unfairness and hindrance to societal progress. This could potentially result in conflicts between those who control the majority of resource data and the holders of the human pen. You suggest that chaos may arise initially but will eventually reach a balance that allows everyone to fight for their interests. The ultimate winner will be one who promotes universal love and enables the growth of the entire group.
+
+
+
+Ultimately, you propose that the growth potential of society is determined by the number of people and the interconnections between them. This cycle of development leads to a new primitive society for future generations, which evolves based on human nature's demands.
+
+
+
+Please note that the interpretation of your text may not fully capture your intended meaning, as the text is quite abstract and open to interpretation.
 
 ## Conversation
 
@@ -130,5 +149,4 @@ In this context, "God" represents a symbolic representation or abstract concept 
 
 
 I appreciate your patience in clarifying the context, and I will ensure to approach future discussions with this understanding in mind. If there is anything else you would like to discuss or clarify, please let me know.
-
 

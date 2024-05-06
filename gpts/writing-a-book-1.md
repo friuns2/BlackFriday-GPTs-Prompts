@@ -1,5 +1,5 @@
 
-[![writing a book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lkhY4fxbfyTKX2NKkS_An%22%2C%22flow%22%3Atrue%7D%7D)
+
 # writing a book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lkhY4fxbfyTKX2NKkS_An%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt is good. because you can write a lovely persian story
 
@@ -8,6 +8,9 @@ this prompt is good. because you can write a lovely persian story
 ```
 write a persian drama book. with friendly and informal tune, use at least 5 characters. write with persian language  {{persian}}
 ```
+
+## Welcome Message
+hello there. i'm an iraninal guy to write a book
 
 ## Conversation
 
@@ -56,5 +59,4 @@ write a persian drama book. with friendly and informal tune, use at least 5 char
 
 
 امیدوارم از خواندن داستان "دل‌وجدان" لذت برده و با شخصیت‌های دوست داشتنی آن همراه شوید. این داستان به شما نشان می‌دهد که همیشه با دوستان و با تلاش مشترک می‌توانیم هر مشکلی را برطرف کنیم و در زندگی به موفقیت برسیم.
-
 

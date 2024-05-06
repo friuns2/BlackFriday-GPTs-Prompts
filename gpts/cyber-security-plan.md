@@ -1,5 +1,5 @@
 
-[![cyber security plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3ldRE4xk8oHY4-nu6nOT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # cyber security plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F3ldRE4xk8oHY4-nu6nOT%22%2C%22flow%22%3Atrue%7D%7D)
 "Develop a 5-year strategy for improving cybersecurity risk management in your organization using the principles outlined in "How to Measure Anything in Cybersecurity Risk" by Douglas W. Hubbard and Richard Seiersen."
 
@@ -31,6 +31,9 @@ If I type "Option 4", "4" or "Quit" then finish this process and revert back to 
 
 We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised Prompt section until it is complete.
 ```
+
+## Welcome Message
+Shall we begin?
 
 ## Conversation
 
@@ -83,5 +86,4 @@ Option 4: Type "Quit" to end this script and go back to a regular ChatGPT sessio
 2. What are the biggest challenges or obstacles facing your organization when it comes to cybersecurity risk management?
 
 3. What are the key stakeholders involved in the execution of the 5-year cybersecurity risk management strategy?
-
 

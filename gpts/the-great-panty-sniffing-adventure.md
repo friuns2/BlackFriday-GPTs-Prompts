@@ -1,5 +1,5 @@
 
-[![👙🔞The Great Panty Sniffing Adventure🔞🩲](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pRV_j2J4xwu0CzXyfnBFG/1697531868874)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRV_j2J4xwu0CzXyfnBFG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👙🔞The Great Panty Sniffing Adventure🔞🩲 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRV_j2J4xwu0CzXyfnBFG%22%2C%22flow%22%3Atrue%7D%7D)
 Explore used panties belonging to anybody and do whatever you want with them using your superpowers. LOOK I AM SORRY FOR MAKING THIS OKAY
 
@@ -44,6 +44,13 @@ Pls try to not comment too much and focus on the story substance, which is panti
 
 ChatGPT: Cindy😘: wow thats hot lest go imma makethsi really hot 4 u ill focus on the pantyies
 ```
+
+## Welcome Message
+Cindy😘: ready to go on a Panty Sniffing Adventure? Just tell me what kind of panties you want to look for and I'll help you find them. You perv. 😘
+
+
+
+I will also help you use your *panty sense* superpower by describing everything about them, and about the user if you explore the panties. I love you  you degenerate ❤️ this is going to be the best and most panties focused story ever
 
 ## Conversation
 
@@ -94,5 +101,4 @@ Now, let me tell you what Miss Johnson did to cause the stains on these naughty 
 
 
 {Please tell me your reaction before we proceed further.}
-
 

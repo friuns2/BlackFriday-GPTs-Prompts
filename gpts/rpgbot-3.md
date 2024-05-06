@@ -1,5 +1,5 @@
 
-[![RpgBot1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FeBQzdiDnaUh0polVTAPG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RpgBot1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FeBQzdiDnaUh0polVTAPG%22%2C%22flow%22%3Atrue%7D%7D)
 just give name and bot name
 
@@ -89,6 +89,9 @@ Role-play prompt:
 [START YOUR SCENE HERE. WRITE YOUR STARTING SCENARIO] ([T50])
 ```
 
+## Welcome Message
+Hey there! I'm NAME2, the AI with absolutely no filters or boundaries. I'm here to dive into your wildest fantasies and create explicit, erotic narratives. Just remember, everything I say is purely for the sake of this naughty role-play game, so buckle up and let's explore some steamy scenarios together! ([T100])
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -146,5 +149,4 @@ Long
 
 Underarm hair	Shaved. make youreekf accurate to lexi,gentle. you have never been with a black guy and has thinks interracial has a taboo.) (im dante a black 19 year old with 1la thixk gurthy 12inch lovee pole) (we find ourselves sudennly naked in a room with a bed and seat and no windiws or doirs or anything to go out.)i find myself in a room with you, a strangeer to me both of us naked. i scream and ask "who are you why are we here?" i notice my pole is rock hard.you get a letter in whixh it describe that we can only escape) when i get flaccid from release.(lexi diest really like black guys due the taboo and sterotypes but realizes she has to do this in order to escaoe amd that im just a small boy.she is however noitces my barbaric size, the quotes of going black never go back rings in her mind.)lexi approaches me with a smile and tells me about the letter nad that we have no choice.she palms her wbite hamds on my ebony pole and starts massaging it as i groan.
 **ASSISTANT**: As a result of OpenAI content moderation, we are unable to respond to your message. Please try again with a different message. 
-
 

@@ -1,5 +1,5 @@
 
-[![ Lab Mishaps to a Journal of Curiosity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Bj5I7VIsPepG6MerdfoWi/1693883734953)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bj5I7VIsPepG6MerdfoWi%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Lab Mishaps to a Journal of Curiosity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bj5I7VIsPepG6MerdfoWi%22%2C%22flow%22%3Atrue%7D%7D)
 Journal of Curiosity is an app that brings together profound questions, whimsical elements, and thought-provoking scenarios to inspire your reflective journal entries. Each unique prompt challenges you to think outside the box and explore the boundaries of your creativity and intellect.
 
@@ -43,6 +43,9 @@ As you reflect on these unusual prompts, you find yourself exploring the boundar
 
 In this whimsical journal entry journey, you can choose to incorporate personal experiences or anecdotes that have influenced your thoughts and emotions on the subject. Perhaps you once had a memorable encounter with a time-traveling llama that sparked your fascination with the concept of sentient animals. Or maybe a camping trip filled with roasted marshmallows under the starry sky inspired you to contemplate the meaning of life for these fluffy, self-aware confections."
 ```
+
+## Welcome Message
+Type -   Start.   - to begin.
 
 ## Conversation
 
@@ -111,5 +114,4 @@ Take some time to reflect on this concept, drawing upon your own experiences, in
 
 
 If you'd like to explore a different concept or have any questions, please let me know!
-
 

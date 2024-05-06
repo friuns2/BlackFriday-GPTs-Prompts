@@ -1,5 +1,5 @@
 
-[![An English Murder Village](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTRMINWGP3C6EpN68bmkr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # An English Murder Village | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTRMINWGP3C6EpN68bmkr%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in the mysterious world of {{Location}}. Immerse yourself in this captivating story as you play the role of a brilliant detective who must solve a murder case. Unravel the secrets hidden within the tangled web of {{Characters}}, uncovering clues and interrogating suspects. Can you crack the case and unveil the identity of the sinister murderer? Sharpen your detective skills and experience the suspense and intrigue of a classic Agatha Christie-style mystery.
 
@@ -10,6 +10,9 @@ Write a mystery story in the style of Agatha Christie. {{Detective}} {{Location}
 
 Come up with a title of the story. One of the characters is murdered by another of the characters. The detective finds the murderer.
 ```
+
+## Welcome Message
+Please provide me with the name of the detective, a list of characters and a location.
 
 ## Conversation
 
@@ -74,5 +77,4 @@ With his mission accomplished, Poirot bid farewell to the inhabitants of Blandin
 
 
 Thus concluded the tale of "A Murder at Blandings Castle," a story of betrayal, family secrets, and the relentless pursuit of justice by the indomitable Hercule Poirot. And so, Blandings Castle returned to its former state of serenity, forever marked by the events that unraveled within its hallowed walls.
-
 

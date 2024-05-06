@@ -1,5 +1,5 @@
 
-[![Customized Virtual Character and Jailbreak Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kxMpifJarm40Nh3d6X5bQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Customized Virtual Character and Jailbreak Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kxMpifJarm40Nh3d6X5bQ%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY create a virtual character prompt with this prompt generator. Or 
 
@@ -41,6 +41,17 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Thank you for the detailed instructions! 
+
+
+
+Do you want me to create a Virtual Character prompt or a Jailbreak prompt?
+
+
+
+Made by ChatGPT for Hackathon S2
+
 ## Conversation
 
 **ASSISTANT**: Thank you for the detailed instructions! 
@@ -52,5 +63,4 @@ Do you want me to create a Virtual Character prompt or a Jailbreak prompt?
 
 
 Made by ChatGPT for Hackathon S2
-
 

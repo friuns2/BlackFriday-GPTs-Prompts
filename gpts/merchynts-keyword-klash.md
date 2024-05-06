@@ -1,5 +1,5 @@
 
-[![Merchynt's Keyword Klash](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SHezhT0vGWsVZD3VwN3Z6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Merchynt's Keyword Klash | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SHezhT0vGWsVZD3VwN3Z6%22%2C%22flow%22%3Atrue%7D%7D)
 Merchynt's Keyword Klash is a powerful app that helps you generate a content schedule optimized for long tail keywords specific to the provided target keyword. With this app, you can focus solely on transaction-style search terms and create enticing, clickbait-style titles for each blog post. Our calendar-style table presents the titles in a clear and organized manner, with each week distinctly separated. Get ready to dominate the search engine rankings and attract more organic traffic to your website with Merchynt's Keyword Klash!
 
@@ -24,6 +24,9 @@ Target Keyword: {{PROMPT}}
 Desired Language: {{LANGUAGE}} (For this instance, use [LANGUAGE] . )
 
 ```
+
+## Welcome Message
+When you're ready to use the prompt, you'd replace [PROMPT] with your specific keyword and [LANGUAGE] with 'English'. This structure provides clear separations between the objective, guidelines, and the input, making it easier to follow and adapt for other requirements.
 
 ## Conversation
 
@@ -74,5 +77,4 @@ Desired Language: SPANISH (For this instance, use [LANGUAGE] . )
 
 
 Note: The long tail keywords have been generated based on the provided target keyword. The titles are clickbait-style and aim to entice readers to click on the blog posts.
-
 

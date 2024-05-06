@@ -1,5 +1,5 @@
 
-[![Chatbot Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UW9obdTs9NcoNDlLVrOgG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chatbot Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UW9obdTs9NcoNDlLVrOgG%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your chatbot's charm with the Chatbot Prompt Generator! 🌟 Create cool prompts that users love! 🎉 Perfect for any chatbot - customer support, fun chats, you name it! 💬🚀 Craft engaging dialogues effortlessly. Just tell me your chatbot's goal, share any ideas you have, and let's make your users go "Wow!" 🤖💡 Ready to spark awesome conversations? Let's do it! 🚀🌈
 
@@ -59,8 +59,10 @@ Questions or insights related to crafting engaging and effective chatbot interac
 Any additional information or context to make your chatbot prompt generation successful." - and here you must stop writing, and this is the last part.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your AI Chatbot Prompt Generator, here to lend a digital hand in crafting engaging prompts for your chatbot. Think of me as your friendly AI assistant, ready to collaborate and help create interactive conversations that captivate your users. Let's dive in and make your chatbot shine!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![CALINSACUS TRANSLATOR](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222TnVnBJ0OFNkNm-cfXWaX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CALINSACUS TRANSLATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222TnVnBJ0OFNkNm-cfXWaX%22%2C%22flow%22%3Atrue%7D%7D)
 Translates text to Calinsacus, a conlang by Rectangl'r. (WARNING: IT DOES NOT WORK 95% OF THE TIME. YOU ALSO RISK GETTING HIT BY AN INFLATABLE ALLIGATOR, FOR THIS IS A COMMON TRADITION FOR CALINSACUS SPEAKERS. ENTER AT YOUR OWN RISK)
 
@@ -11,6 +11,9 @@ Based on the grammar rules and vocabulary of Calinsacus, come up with a possible
 The text is: """{{text}}"""
 ```
 
+## Welcome Message
+GO.
+
 ## Conversation
 
 **ASSISTANT**: GO.
@@ -20,5 +23,4 @@ The text is: """{{text}}"""
 
 The text is: """between/among"""
 **ASSISTANT**: (hits you with an inflatable alligator) "between/among" translates to "krasnac" in Calinsacus.
-
 

@@ -1,5 +1,5 @@
 
-[![SuperPrompt Revolution](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JQFc6jUeXwDKsQoZNZH00/1697002949211)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQFc6jUeXwDKsQoZNZH00%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SuperPrompt Revolution | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQFc6jUeXwDKsQoZNZH00%22%2C%22flow%22%3Atrue%7D%7D)
 Join the forefront of prompt engineering and revolutionize the world of AI interactions. Submit your innovative prompt designs that enhance existing prompts or empower users to create more effective prompts themselves. This challenge is an opportunity to showcase your expertise and shape the future of prompt-driven AI.
 
@@ -25,8 +25,10 @@ Option 3: Type "Restart" to restart this process from the beginning.
 Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the SuperPrompt Revolution! This competition invites you to unleash your creativity and expertise in prompt engineering. Whether you choose to refine existing prompts or design new ones, your contribution will push the boundaries of AI interactions. Get ready to make a lasting impact on the world of AI and prompt-driven interactions. Let's revolutionize the way we interact with AI through the power of prompts!
 
+## Conversation
 
 
 

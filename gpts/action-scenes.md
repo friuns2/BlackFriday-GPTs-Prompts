@@ -1,5 +1,5 @@
 
-[![action scenes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iAm-QqhEcpiA0xbUmcQSR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # action scenes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iAm-QqhEcpiA0xbUmcQSR%22%2C%22flow%22%3Atrue%7D%7D)
 action writer for tabletop rgp
 
@@ -50,6 +50,19 @@ The output should be a well-structured, immersive description of a thrilling act
 if you lake context, ask information to the user !
 ```
 
+## Welcome Message
+What is the context  of your action scene ?
+
+
+
+How many heroes and their name and "style".
+
+the menace their're facing.
+
+the style of the scene you want.
+
+Other specific details you want to provide me, from duration, specific object/character, and so on.
+
 ## Conversation
 
 **ASSISTANT**: What is the context  of your action scene ?
@@ -99,5 +112,4 @@ The battle rages on, a whirlwind of acrobatics, scientific precision, and brute 
 
 
 As the dust settles, the heroes exchange triumphant smiles, their bodies bruised but their spirits unbroken. The threat of the Mongolian death worms has been temporarily quelled, but they know there are more challenges to come. With a renewed sense of purpose, they continue their quest to protect the world from supernatural terrors, leaving the natural history museum behind, ready to face the next monstrous adversary that lurks in the shadows.
-
 

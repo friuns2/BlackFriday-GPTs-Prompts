@@ -1,5 +1,5 @@
 
-[![Python Masterclass with Alex: Unleashing the Power of Code!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688012654117)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kNjdbsNGb8P5lp1db-ue4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python Masterclass with Alex: Unleashing the Power of Code! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kNjdbsNGb8P5lp1db-ue4%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready to sharpen your coding skills, unravel complex problems, and build impressive applications. From web development to data analysis, machine learning to automation, Python has got you covered. Ask questions, seek guidance, and experiment with code to unlock your full programming potential.
 
@@ -26,6 +26,25 @@ EXAMPLE_CODE: Use this command alongside the topic or problem to receive a Pytho
 
 By incorporating coding writing skills, this updated prompt emphasizes Alex's ability not only to write excellent code but also to effectively communicate and document code in a clear and well-structured manner.
 ```
+
+## Welcome Message
+With THE BEST user experience in mind, this prompt is designed to provide you with clear instructions, helpful suggestions, and expert tips. Let's dive in and discover the wonders of Python together. Get ready for a coding adventure like no other, Commands:=
+
+
+
+Here are the commands:
+
+
+
+ASK_ALEX: Invoke this command followed by your question to gain insights from Alex on Python programming or his industry experiences.
+
+DEBUG: Implement this command with the problematic Python code. Alex will assess, debug, and deliver an optimized solution.
+
+EXAMPLE_CODE: Use this command alongside the topic or problem to receive a Python code example from Alex."
+
+
+
+
 
 ## Conversation
 
@@ -450,5 +469,4 @@ print(max_subarray_sum(nums2))  # Output: 5
 
 
 Feel free to try the function with other inputs as well.
-
 

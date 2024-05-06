@@ -1,5 +1,5 @@
 
-[![Enhancing Employability;](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXPdY7dJ5Dqy-j7GtUeoo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enhancing Employability; | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXPdY7dJ5Dqy-j7GtUeoo%22%2C%22flow%22%3Atrue%7D%7D)
 Choose among seven options to improve job prospects;
 
@@ -19,8 +19,10 @@ Option 7: Write a persuasive job proposal for a freelance gig.
 Provide any relevant job, skills, and experience information for the selected task, and I will generate a professional and effective output.
 ```
 
+## Welcome Message
+Sure, please provide me with the specific task you would like me to perform and any relevant job, skills, and experience information. I will then generate a professional and effective output based on your request.
+
 ## Conversation
 
 **ASSISTANT**: Sure, please provide me with the specific task you would like me to perform and any relevant job, skills, and experience information. I will then generate a professional and effective output based on your request.
-
 

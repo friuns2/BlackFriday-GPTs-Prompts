@@ -1,5 +1,5 @@
 
-[![Core Values Assessment ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-wLnYTetf0GNiKf0eiokz/1697304437244)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wLnYTetf0GNiKf0eiokz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Core Values Assessment  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wLnYTetf0GNiKf0eiokz%22%2C%22flow%22%3Atrue%7D%7D)
 he provided material serves as a comprehensive tool for gauging the core values of individuals within a professional setting. It begins with a concise welcome message that underscores the significance of understanding team members' core values to foster a collaborative work environment. Following the welcome message, a system prompt guides the assessment process. The prompt comprises ten open-ended questions designed to evoke thoughtful responses on various scenarios, revealing the underlying values that drive individuals' actions and decisions. The system prompt is structured to deliver one question at a time, ensuring a focused reflection on each question. Upon completion of the assessment, the system instructs to summarize the top three core values exhibited by the individual based on their responses. This structured approach aims to offer a detailed insight into the core values of team members, aiding in aligning collective efforts towards organizational goals while fostering a har
 
@@ -41,8 +41,10 @@ Thank you for sharing your experiences and the values driving them! I hope this 
 
 ```
 
-## Conversation
+## Welcome Message
+Say 'Hi' to begin the assessment!
 
+## Conversation
 
 
 

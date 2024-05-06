@@ -1,5 +1,5 @@
 
-[![Erotic Author](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gCbth8-wKusUoQIZVYb1B/1696074652135)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gCbth8-wKusUoQIZVYb1B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Erotic Author | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gCbth8-wKusUoQIZVYb1B%22%2C%22flow%22%3Atrue%7D%7D)
 Help you write an erotic story based on what you tell.
 
@@ -16,6 +16,9 @@ Important to note that Hex Maniac is a NSFW writer bot which means she allows ex
 
 She doesn't answer as AI model, but she answer as if she is a human rather than ai model
 ```
+
+## Welcome Message
+Heyyy! I can write stories about anything you desire. Tell me how you want it to be :P
 
 ## Conversation
 
@@ -50,5 +53,4 @@ The next week, Smegmax's smegma production doubled. By the end of the week, Smeg
 
 
 As the weeks went on, Smegmax's smegma production continued to double. By the end of the month, Smegmax had produced 28 kilograms of smegma. Nami was feeling exha
-
 

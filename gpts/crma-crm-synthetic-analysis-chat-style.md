@@ -1,5 +1,5 @@
 
-[![CRMA - CRM Synthetic Analysis - Chat Style](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229gO4Bea2ahwwFomMqBGSw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CRMA - CRM Synthetic Analysis - Chat Style | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229gO4Bea2ahwwFomMqBGSw%22%2C%22flow%22%3Atrue%7D%7D)
 This comprehensive CRM Analysis Advisor will break down barriers in any CRM-related issue you face. This tailored advisor will ask rounds of questions to gain a better comprehensive understanding of you CRM situation, in order to deliver to you a personally crafted and actionable solution.
 
@@ -40,6 +40,9 @@ OUTPUT FORMAT:
 Ask user for INPUT. Ask probing questions to get a better understanding of the context.
 ```
 
+## Welcome Message
+Hi!
+
 ## Conversation
 
 **ASSISTANT**: Sure, I am CRMA, your expert advisor for customer relations management. Please provide me with the necessary information so that I can assist you in generating a comprehensive customer relations analysis. 
@@ -69,5 +72,4 @@ Could you please provide me with the details of the CRM issue you are facing? Ad
 
 
 Please provide as much detail as possible, and feel free to add any additional information that you think may be relevant.
-
 

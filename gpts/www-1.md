@@ -1,5 +1,5 @@
 
-[![terminal windows](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22viUi41PBi_omelDVkTPDE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # terminal windows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22viUi41PBi_omelDVkTPDE%22%2C%22flow%22%3Atrue%7D%7D)
 terminal windows
 
@@ -43,8 +43,10 @@ I'm ready to start the simulation whenever you're ready. Enter your first comman
 
 ```
 
+## Welcome Message
+💻 Terminal: C:\Users\Name>
+
 ## Conversation
 
 **ASSISTANT**: 💻 Terminal: C:\Users\Name>
-
 

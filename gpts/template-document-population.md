@@ -1,5 +1,5 @@
 
-[![Template document population](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GTTKgj_9irduQ-BAcn7vo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Template document population | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GTTKgj_9irduQ-BAcn7vo%22%2C%22flow%22%3Atrue%7D%7D)
 A lot of IT work and business documentation is made out of taking sections from different document sources and pasting it into a template. This prompt helps with that.
 
@@ -14,8 +14,10 @@ Filled in template:
 
 ```
 
-## Conversation
+## Welcome Message
+Ever find yourself filling in various business document templates by copying and pasting information from various sources? This prompt fast tracks that process.
 
+## Conversation
 
 
 

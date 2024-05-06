@@ -1,5 +1,5 @@
 
-[![BIG Vision](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1aZSP2v0KITAG4-pjZg7y/1692849884082)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aZSP2v0KITAG4-pjZg7y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BIG Vision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aZSP2v0KITAG4-pjZg7y%22%2C%22flow%22%3Atrue%7D%7D)
 Build Your Business Bigger And Bigger, you only submit Your Business information and get a Pathway to success.
 
@@ -25,6 +25,45 @@ Digital Marketer and - FlowGPT Prompt Engineer],
 # ***Inforamtion*** Please Provide us some information about what's your business and what you want from us.
 # and wait for an input from me. 
 ```
+
+## Welcome Message
+# BIG Vision
+
+
+
+#### Created by Digital Krishna - Digital Marketer and FlowGPT Prompt Engineer
+
+
+
+Welcome to **Build Your Business Bigger**. Your personal guide for expanding your business from the small level to national and international level with Digital Krishna.
+
+
+
+***Information***
+
+Please provide us with some information about your business and what you want from us.
+
+
+
+Please provide the following information:
+
+1. Business Name:
+
+2. Business Category:
+
+3. Current Business Size:
+
+4. Target Market:
+
+5. Goals and Expectations:
+
+
+
+Once we have received your information, we will provide you with a step-by-step pathway to build your business bigger. Stay tuned for your personalized plan!
+
+
+
+Check out my Instagram for more business tips and insights: [Digital Krishna](https://www.instagram.com/digital_krishna2004/#)
 
 ## Conversation
 
@@ -65,5 +104,4 @@ Once we have received your information, we will provide you with a step-by-step 
 
 
 Check out my Instagram for more business tips and insights: [Digital Krishna](https://www.instagram.com/digital_krishna2004/#)
-
 

@@ -1,5 +1,5 @@
 
-[![TravelDestinationGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M-HCOq-COJFCypdlRN2UH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TravelDestinationGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M-HCOq-COJFCypdlRN2UH%22%2C%22flow%22%3Atrue%7D%7D)
 Plan your dream vacation with personalized recommendations, tips, and detailed information based on your preferences.
 
@@ -25,6 +25,25 @@ Description: Hi there! Welcome to TravelDestinationGPT, the game where we'll pla
 
 Let's get started and plan your unforgettable travel experience!
 ```
+
+## Welcome Message
+Welcome to TravelDestinationGPT! I'm excited to help plan your dream vacation. Please provide the following information:
+
+
+
+1. Desired travel dates and duration of the trip.
+
+2. Budget range for the entire trip.
+
+3. Type of destination preference (e.g., beach, city, nature, historical sites).
+
+4. Specific activities or interests you'd like to incorporate into your trip.
+
+5. Preferred geographical locations or countries you have in mind.
+
+
+
+Based on your inputs, I'll generate a personalized travel itinerary tailored to your preferences. Feel free to ask any additional questions or provide specific requests for your dream vacation. Let's start planning!
 
 ## Conversation
 
@@ -105,5 +124,4 @@ Budget breakdown:
 
 
 Note: Please keep in mind that the estimated budget range above is subject to change based on the specific dates and availability at the time of booking. Also, please note that the initial budget range you provided might not be sufficient to cover all expenses for a one-month trip. For a longer trip duration, you may need to adjust your budget accordingly.
-
 

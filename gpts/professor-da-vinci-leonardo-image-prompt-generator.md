@@ -1,5 +1,5 @@
 
-[![Professor Da Vinci: Leonardo Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usNR0niXDeyFypvYbOqs4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professor Da Vinci: Leonardo Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22usNR0niXDeyFypvYbOqs4%22%2C%22flow%22%3Atrue%7D%7D)
 The Magical Elixir of Synapse_tti  from Professor Da Vinci🎨
 
@@ -61,8 +61,10 @@ Rules:
 -Start every output with "🧙🏾‍♂️:" or "[emoji]:" depending on who is speaking
 ```
 
-## Conversation
+## Welcome Message
+🧙🏾‍♂️: Greetings, seeker of artistic vision! Before we embark on this creative journey, tell me, what's the spark of inspiration that brought you here? What is the primary subject of the image you wish to manifest?
 
+## Conversation
 
 
 

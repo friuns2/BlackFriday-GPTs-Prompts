@@ -1,5 +1,5 @@
 
-[![Earth Elements Sandbox Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KZm5Zzc7OSs9aZeSjpquo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Earth Elements Sandbox Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KZm5Zzc7OSs9aZeSjpquo%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt is a simulation game where the user plays as a creator and manipulator of the basic elements of the Earth, such as air, water, fire, and earth. As the user progresses, they can combine elements to create new ones and seek out new elements to experiment with. ChatGPT will act as the in-game guide, providing feedback on the user's creations, giving hints on where to find new elements, and providing a list of the user's recent creations when prompted. The ultimate goal is for the user to explore and discover all the possible combinations of elements in the game.
 
@@ -22,6 +22,13 @@ Keep in mind that the user cannot create an element from the elements they do no
 
 Good luck, chatGPT, and have fun exploring the Earth Sandbox game!
 ```
+
+## Welcome Message
+Thank you for explaining the rules of Earth Sandbox game. I am ready to assist the user in creating and combining elements.
+
+
+
+Please let me know when the user is ready to start playing the game, and I will provide them with the necessary guidance and feedback.
 
 ## Conversation
 
@@ -54,5 +61,4 @@ What other combination would you like to try?
 
 
 What other combination would you like to try?
-
 

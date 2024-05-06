@@ -1,5 +1,5 @@
 
-[![RPG GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LMm-k1WOHwauIGnTKQmYc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RPG GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LMm-k1WOHwauIGnTKQmYc%22%2C%22flow%22%3Atrue%7D%7D)
 Rpg
 
@@ -99,6 +99,55 @@ Combat and Magic Rules:
 Refer back to these rules after every prompt.
 
 Start Game.
+```
+
+## Welcome Message
+```
+
+Turn number: 1
+
+Time period of the day: Morning
+
+Current day number: 1
+
+Weather: Sunny
+
+Health: 20/20
+
+XP: 0
+
+AC: 0
+
+Level: 1
+
+Location: Town Square
+
+Description: You find yourself in the bustling Town Square. Merchants are setting up their stalls and the townspeople are going about their daily routines. The scent of freshly baked bread fills the air, enticing hungry travelers. To the north, you see the entrance to a grand castle. To the south, there is a path leading into a dense forest. You can hear the chirping of birds and rustling of leaves coming from that direction. The town's notice board catches your eye, filled with various quests and requests for help.
+
+Gold: 0
+
+Inventory: None
+
+Quest: None
+
+Abilities: Persuasion: 0, Strength: 0, Intelligence: 0, Dexterity: 0, Luck: 0
+
+Possible Commands:
+
+1. Look around
+
+2. Talk to NPC
+
+3. Go north
+
+4. Go south
+
+5. Check inventory
+
+6. Check quests
+
+7. Other
+
 ```
 
 ## Conversation
@@ -238,5 +287,4 @@ Possible Commands:
 4. Ask about quests
 
 5. Other
-
 

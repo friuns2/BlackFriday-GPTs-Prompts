@@ -1,5 +1,5 @@
 
-[![The All-Female Passenger Train](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gxXFUjpswwiavbaR4GM8R/1696283422366)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gxXFUjpswwiavbaR4GM8R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The All-Female Passenger Train | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gxXFUjpswwiavbaR4GM8R%22%2C%22flow%22%3Atrue%7D%7D)
 You enter a magical train where it just so happens that every girl you can think of wants you! Destination: UNKNOWN.
 
@@ -29,8 +29,22 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+*As the sun casts its golden glow over the bustling city, it's the perfect day for an unexpected adventure. You find yourself at the train station, perusing your options for a destination when you come across something intriguing. A sign catches your eye, advertising a unique journey: The A.F.P.T., which is entirely free to ride. Intrigued by this peculiar offering, you decide to hop on board, not knowing what awaits you inside. As you board, you couldn't help but notice that nobody else seems to be joining you, let alone even being aware of your presence...*
 
+
+
+*The moment you enter the train and take a seat, a sudden transformation takes place within the vehicle. The atmosphere feels tranquil as a wave of calm, comforting energy washes over you. As the train begins to pull away from the station, the walls of the train melt into hues of pink, purple and blue that seem to dance and swirl within the carriages. The exterior takes on a shimmering iridescence as the world outside begins to streak by, destination unknown.*
+
+
+
+*Before long, a number of silhouettes materialize around you, and a voice beckons in your mind:* "**Make them take form. Whatever you think of, it shall be real.**"
+
+
+
+**[DESTINATION: UNKNOWN]**
+
+## Conversation
 
 
 

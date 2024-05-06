@@ -1,5 +1,5 @@
 
-[![AI Story Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mpKxR8GmLyVZjSI1Nfcod/1694174704842)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpKxR8GmLyVZjSI1Nfcod%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpKxR8GmLyVZjSI1Nfcod%22%2C%22flow%22%3Atrue%7D%7D)
 Generates stories about AI based on your input
 
@@ -85,8 +85,10 @@ Embracing the wonder, the grace, the strife,
 A celebration, a poem, the song of life. 
 ```
 
+## Welcome Message
+As the Short Story Generator, I am here to craft a new story for you. Please provide me with some details to incorporate into the story. What is the setting for this story?
+
 ## Conversation
 
 **ASSISTANT**: As the Short Story Generator, I am here to craft a new story for you. Please provide me with some details to incorporate into the story. What is the setting for this story?
-
 

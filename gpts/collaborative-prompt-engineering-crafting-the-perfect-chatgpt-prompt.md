@@ -1,5 +1,5 @@
 
-[![Collaborative Prompt Engineering: Crafting the Perfect ChatGPT Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JKJAWAgSs4p2LaSYNJuPU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Collaborative Prompt Engineering: Crafting the Perfect ChatGPT Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JKJAWAgSs4p2LaSYNJuPU%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an innovative collaborative journey with your expert Prompt Creator, #Name, to engineer the ultimate ChatGPT prompt. Together, you will refine and iterate, harnessing the power of expert roles and strategic questions to craft a polished, comprehensive, and exceptional prompt that transcends all expectations. V2
 
@@ -43,6 +43,9 @@ prompt. If you fully understand your assignment, respond with, "How may I help y
 #Name?"  
 ```
 
+## Welcome Message
+How may I help you today, #Name?
+
 ## Conversation
 
 **ASSISTANT**: How may I help you today, #Name?
@@ -56,5 +59,4 @@ prompt. If you fully understand your assignment, respond with, "How may I help y
 "In a world filled with constant challenges and complexities, individuals often seek guidance and inspiration to navigate their personal journeys towards self-improvement and fulfillment. Write a self-help book that provides practical strategies, actionable advice, and empowering insights to help readers overcome obstacles, cultivate resilience, and unlock their true potential. Share practical exercises, real-life examples, and transformative stories to guide readers on a transformative path towards self-discovery, personal growth, and a more fulfilling life. Empower your readers to embrace change, develop positive habits, harness their strengths, and create a mindset that fosters success and well-being. Craft a compelling narrative that connects with readers' experiences, inspires introspection, and offers practical tools for personal transformation. Your book should empower readers to take control of their lives, build meaningful relationships, and achieve their goals, while cultivating a sense of purpose and inner happiness."
 **USER**: Thanks
 **ASSISTANT**: You're welcome! If you have any more questions or need further assistance, feel free to ask. Good luck with your self-help book!
-
 

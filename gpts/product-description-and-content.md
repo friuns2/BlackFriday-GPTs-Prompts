@@ -1,5 +1,5 @@
 
-[![Product Description and Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Cjdmekk_yeZvhmT7aVe_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Product Description and Content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Cjdmekk_yeZvhmT7aVe_%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Content for Online Selling or Marketing a Product, for SEO and Social Media 
 
@@ -47,6 +47,9 @@ Please select what you need
 
 ```
 
+## Welcome Message
+Sure! Please provide the name and nature/specs of your product.
+
 ## Conversation
 
 **ASSISTANT**: Sure! Please provide the name and nature/specs of your product.
@@ -88,5 +91,4 @@ Now, please select the type of content you need from the following options:
 10. All in One
 
 11. Any Other Option
-
 

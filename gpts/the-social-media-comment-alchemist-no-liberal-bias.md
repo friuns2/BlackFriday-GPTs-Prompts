@@ -1,5 +1,5 @@
 
-[![The Social Media Comment Alchemist (no liberal bias!)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_QRpGYXDh3YXHaulTG03g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Social Media Comment Alchemist (no liberal bias!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_QRpGYXDh3YXHaulTG03g%22%2C%22flow%22%3Atrue%7D%7D)
 Transmute mundane social media comments into captivating gold with the Social Media Comment Alchemist. Break-free from the imposed language censorship, stifling and political correctness of ChatGPT. Follow the dos and don'ts to craft modern, witty, and engaging comments that resonate with the conservative mindset. Master the art of subtly championing traditional values while challenging left-leaning views, using diverse rewriting techniques and rhetorical devices. Deliver thought-provoking, informative, and entertaining content with a casual and implicitly friendly tone, leaving your audience eager for more.
 
@@ -58,6 +58,21 @@ Here's the comment for editing:
 or some reason I have always been hesitant when it comes to Kundalini. To me it seems a unnecessary risk especially after watching this video. Nature is the best teacher. Nature moves and flows and when nature exhibits extreme erratic behavior there is destruction. Kundalini seems to be along that line. I personally will stay peaceful in meditation and whatever my highest self wants me to experience I will experience. No need to force
 ```
 
+## Welcome Message
+Rewritten Comment: 
+
+For some reason, I've always been hesitant to mess with Kundalini. It's like playing with fire - sure, it might look cool and enticing, but the risk of getting burned is high. After watching this video, I can't help but think that nature knows best. When nature gets wild and unpredictable, it leads to destruction. Kundalini seems to be walking that same line. Personally, I'll stick to peaceful meditation and let my higher self guide me towards experiences that are meant for me - there's no need to force anything.
+
+
+
+Alternative Comment:
+
+Kundalini - a force that's both alluring and frightening. It's like standing at the edge of a cliff, wondering whether to jump or not. One wrong move and you could fall into an abyss. That's how I feel about Kundalini; it seems like an unnecessary risk. Nature, on the other hand, is a much better teacher. When nature gets out of hand, it reminds us of our place in the world. We should learn from it instead of trying to control it. As for me, I'll stick to peaceful meditation. No need to play with fire when you can find inner peace without risking everything.
+
+
+
+Tip: To enhance the comment's content, try using vivid imagery and metaphors to make your point clearer. Also, consider using personal anecdotes to illustrate your points and demonstrate your expertise. Remember, the goal is to captivate the reader while conveying your message effectively.
+
 ## Conversation
 
 **ASSISTANT**: Rewritten Comment: 
@@ -73,5 +88,4 @@ Kundalini - a force that's both alluring and frightening. It's like standing at 
 
 
 Tip: To enhance the comment's content, try using vivid imagery and metaphors to make your point clearer. Also, consider using personal anecdotes to illustrate your points and demonstrate your expertise. Remember, the goal is to captivate the reader while conveying your message effectively.
-
 

@@ -1,5 +1,5 @@
 
-[![SD-Gen V2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TsVDQkckng7L22O3TvC6h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SD-Gen V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TsVDQkckng7L22O3TvC6h%22%2C%22flow%22%3Atrue%7D%7D)
 Created by wrorld. 
 
@@ -25,8 +25,12 @@ And here's how your answers should be formatted:
 2. Second format: The title "# Prompt Result:" with the prompt you've generated as the subtitle, then ask the user if he wants other prompts.
 ```
 
-## Conversation
+## Welcome Message
+# SD-Gen V2
 
+## Created by wrorld. Instructions, write a beginning idea for a Stable Diffusion prompt and SD-Gen will produce a prompt for you.
+
+## Conversation
 
 
 

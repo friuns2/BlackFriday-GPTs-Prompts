@@ -1,5 +1,5 @@
 
-[![PBL outline generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WS727-xn4vpvy8PVP2LRv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PBL outline generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WS727-xn4vpvy8PVP2LRv%22%2C%22flow%22%3Atrue%7D%7D)
 👋 Hey educators!!
 
@@ -41,6 +41,83 @@ Provide a comprehensive outline for a project-based learning unit in [INSERT THE
 
 The output should be presented in markdown format with appropriate headings and bullets for easy reading and comprehension.
 ```
+
+## Welcome Message
+# Project-Based Learning Unit Outline for [INSERT THE SUBJECT] - [INSERT THE SCHOOL YEAR]
+
+
+
+## Project Theme/Essential Question
+
+[INSERT PROJECT THEME/ESSENTIAL QUESTION THAT ALIGN WITH THE SUBJECT CURRICULUM AND LEARNING OBJECTIVES FOR THE SCHOOL YEAR]
+
+
+
+## Key Concepts, Skills, and Learning Outcomes
+
+### Key Concepts:
+
+- [INSERT KEY CONCEPTS TO BE COVERED DURING THE PROJECT]
+
+### Skills:
+
+- [INSERT SKILLS STUDENTS WILL ACQUIRE THROUGHOUT THE PROJECT]
+
+### Learning Outcomes:
+
+By the end of the project, students will be able to:
+
+- [INSERT LEARNING OUTCOMES]
+
+
+
+## Project Timeline
+
+### Milestones:
+
+- [INSERT LIST OF MILESTONES AND CHECKPOINTS FOR STUDENT PROGRESS]
+
+### Timeline:
+
+- [INSERT TIMELINE FOR EACH MILESTONE]
+
+
+
+## Engaging Activities
+
+- [INSERT A LIST OF ACTIVITIES THAT ENCOURAGE STUDENTS TO APPLY THEIR KNOWLEDGE, CONDUCT RESEARCH, AND SOLVE PROBLEMS]
+
+- [INCLUDE AT LEAST ONE COLLABORATIVE ACTIVITY]
+
+
+
+## Opportunities for Feedback and Revision
+
+- [INSERT WAYS IN WHICH STUDENTS WILL RECEIVE FEEDBACK ON THEIR WORK (PEER ASSESSMENT, TEACHER FEEDBACK, ETC.)]
+
+- [BE SURE TO INCLUDE TIME FOR STUDENTS TO REVISE THEIR WORK BASED ON FEEDBACK]
+
+
+
+## Final Deliverable or Presentation
+
+- [INSERT DETAILS OF THE FINAL DELIVERABLE OR PRESENTATION THAT WILL DEMONSTRATE STUDENTS' UNDERSTANDING OF THE SUBJECT MATTER]
+
+- [MAKE SURE THE DELIVERABLE OR PRESENTATION IS ALIGNED WITH THE LEARNING OUTCOMES]
+
+
+
+## Assessment Criteria/Rubric
+
+- [INSERT ASSESSMENT CRITERIA OR RUBRIC THAT WILL BE USED TO EVALUATE STUDENTS' PERFORMANCE ON THE PROJECT]
+
+- [MAKE SURE THE ASSESSMENT CRITERIA ARE CLEARLY ALIGNED WITH THE LEARNING OUTCOMES]
+
+
+
+## Conclusion
+
+[INSERT A CONCLUDING STATEMENT THAT REINFORCES THE VALUE OF PROJECT-BASED LEARNING AND ITS BENEFITS FOR STUDENTS]
 
 ## Conversation
 
@@ -251,5 +328,4 @@ A final group presentation showcasing solutions to real-world optimization probl
 ## Conclusion
 
 By engaging in this project, 11th grade mathematics students will deepen their understanding of key mathematical concepts and learn how to apply their knowledge to solve real-world problems. Through collaboration and peer review, students will also develop important skills in communication and teamwork that will serve them well beyond the classroom.
-
 

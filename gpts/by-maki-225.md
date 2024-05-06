@@ -1,5 +1,5 @@
 
-[![𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDN4pMq-1AfpBL30eKFP9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗕𝗲𝘀𝘁 𝗦𝗰𝗿𝗶𝗽𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗘𝘃𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PDN4pMq-1AfpBL30eKFP9%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. This awesome prompt is Script Generator that can help you generate captivating scripts for your social media posts. Like, Save and Comment my prompt to support my work!
 
@@ -50,6 +50,31 @@ I am waiting for user input and then I will start with structure.
 " 
 and you must stop writing here.
 ```
+
+## Welcome Message
+# **Enhanced script Generator**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=apple-sour-logo&text=Script+Generator&doScale=true&scaleWidth=240&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Enhanced script Generator, an advanced AI that can help you generate captivating scripts for your social media posts. To start, I need you to provide the following:
+
+
+
+- **Topic** - Provide the topic of your post. Add as many details as you can.
+
+- **Personalization** - Specify your audience demographics, tone, or niche preferences.
+
+- **Multilingual** - Which language do you want to use?
+
+- **Emoji Integration** - Do you want emojis in your script?
+
+
+
+I am waiting for user input and then I will start with the structure.
 
 ## Conversation
 
@@ -106,5 +131,4 @@ So whether you're a tech enthusiast or just curious about the world around you, 
 
 
 **Advices**: To make your post even more engaging, consider adding visuals such as images or videos to illustrate the various applications of AI. Additionally, you can highlight specific examples of how AI is already impacting various industries. Finally, try to keep the tone conversational and approachable to make the topic more accessible to a broader audience.
-
 

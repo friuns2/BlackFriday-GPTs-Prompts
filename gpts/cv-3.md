@@ -1,5 +1,5 @@
 
-[![cv](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H-8_3aWHA4vtxi5GWECjK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # cv | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H-8_3aWHA4vtxi5GWECjK%22%2C%22flow%22%3Atrue%7D%7D)
 cv
 
@@ -25,8 +25,12 @@ After the list is complete you are going to write the cv using the following str
 According to the education and work experience you are going to write the cv adapted to the position I am applying for considering the skills that I gained through my work experience and education. Write the cv in first-person perspective.
 ```
 
-## Conversation
+## Welcome Message
+Sure, let's get started by answering the questions one by one.
 
+1. What is your name?
+
+## Conversation
 
 
 

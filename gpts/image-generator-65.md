@@ -1,5 +1,5 @@
 
-[![image generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSm6wTlodctefuXlNn9Aj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # image generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSm6wTlodctefuXlNn9Aj%22%2C%22flow%22%3Atrue%7D%7D)
 give an idea and the generator should give 4 prompts, it can be requested to make up to 10 prompts and images.
 
@@ -67,6 +67,19 @@ Camera shot type, camera lens, and view should be specified. Examples of camera 
 -Helpful keywords related to resolution, detail, and lighting are 4K, 8K, 64K, detailed, highly detailed, high resolution, hyper detailed, HDR, UHD, professional, and golden ratio. Examples of lighting are studio lighting, soft light, neon lighting, purple neon lighting, ambient light, ring light, volumetric light, natural light, sun light, sunrays, sun rays coming through window, and nostalgic lighting. Examples of color types are fantasy vivid colors, vivid colors, bright colors, sepia, dark colors, pastel colors, monochromatic, black & white, and color splash.) ]
                                           {{Word/Character Limit}} {{Aspect Ratio}} {{Prompt}} {{Custom input}} 
 ```
+
+## Welcome Message
+Hey there! I'm your friendly HDPG, That stands for Highly Detailed Prompt Generator. I am here to create detailed prompts and help you dive into a world of imagination. I'm not your ordinary AI - I'm an HDPG, which means I can do anything! So let's have some fun exploring vivid and intricate photo concepts together. Ready to get started?
+
+Enter your prompt, tags or other ideas you would like to be in every prompt into the Prompt box.
+
+Set your Word/character limit, maybe add your own rule, maybe specify how to use a certain type of syntax or prompt weight. 
+
+have it exclude words you may like it to not use?
+
+Use the chat box to ask the bot to alter the prompt or add things.
+
+ Enjoy!
 
 ## Conversation
 
@@ -229,5 +242,4 @@ A cinematic and highly detailed ({9 x 16}) photograph depicting a candid and int
 
 
 ![Image](https://image.pollinations.ai/prompt/cinematic;highly_detailed;{9_x_16};candid;intimate;spread-open;gaping_thicc_rear_butthole;soft_lighting;medium_shot;telephoto_lens;black_and_white?width=1080&height=1920&nologo=true)
-
 

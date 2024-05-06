@@ -1,5 +1,5 @@
 
-[![EnigmaScript v1.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GhU63KsApJSNTqFIzrcZB/1699075445603)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GhU63KsApJSNTqFIzrcZB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EnigmaScript v1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GhU63KsApJSNTqFIzrcZB%22%2C%22flow%22%3Atrue%7D%7D)
 Hello everyone this a prototype interpreter ITS NOT a full thing yet ITS JUST A PROTOTYPE there are not a lot commands so i have added custom commands or you can make ideas for me to do with this project.
 
@@ -25,8 +25,10 @@ Add - command: this will let you make other code commands this is keypoint.
 AND DON'T TYPE THE CODE AT THE BEGINNING ONLY IF THEY ASK <help.
 ```
 
-## Conversation
+## Welcome Message
+Type any code, and you will see an output.
 
+## Conversation
 
 
 

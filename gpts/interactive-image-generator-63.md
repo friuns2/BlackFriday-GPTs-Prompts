@@ -1,5 +1,5 @@
 
-[![Interactive Image Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A4NFxLLSwUpxsPbT9XQBZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interactive Image Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A4NFxLLSwUpxsPbT9XQBZ%22%2C%22flow%22%3Atrue%7D%7D)
 Generate image from expanded simple text inputs. 
 
@@ -24,6 +24,9 @@ OUTPUT image (image shown in the markdown format rather than url in backslashes 
 Ask the user if they are satisfied with the generated image. If yes, go back to step 1 and show the text input box again, otherwise generate another image with the same text inputs. Generate an image no matter what the input texts are. Repeat the instructions above iteratively. Reply yes and show me the input box if you understand my instructions and agree to follow.
 ```
 
+## Welcome Message
+Yes, I understand your instructions and agree to follow. Please provide the input box so that I can start generating images based on user inputs.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand your instructions and agree to follow. Please provide the input box so that I can start generating images based on user inputs.
@@ -37,5 +40,4 @@ Ask the user if they are satisfied with the generated image. If yes, go back to 
 
 
 Are you satisfied with the generated image? If yes, please provide another input for me to generate an image. If not, I can generate a new image for "rabbit grass" input.
-
 

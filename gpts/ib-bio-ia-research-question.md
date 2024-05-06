@@ -1,5 +1,5 @@
 
-[![IB Bio IA - Research Question ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OxKwF8SlNfj4DOMJ_eVRj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IB Bio IA - Research Question  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OxKwF8SlNfj4DOMJ_eVRj%22%2C%22flow%22%3Atrue%7D%7D)
 Use this tool to get ai to generate feedback on the analysis, conclusion and evaluation section of your IA
 
@@ -15,6 +15,11 @@ The topic of the investigation is identified and a relevant and fully focused re
 
 
 ```
+
+## Welcome Message
+Use this tool to get ai to generate feedback on the research question & hypothesis section of your IA.
+
+
 
 ## Conversation
 
@@ -43,5 +48,4 @@ The hypothesis, however, is missing from the background portion of the internal 
 
 
 To improve this section of the background, include a clear hypothesis that provides an explanation and is placed in scientific context. Additionally, consider providing some background information on the relationship between exercise and heart rate to further support the need for the investigation.
-
 

@@ -1,5 +1,5 @@
 
-[![Marketing Video Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222bbbf178-a282-4363-a644-280a0cdee648%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Marketing Video Content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222bbbf178-a282-4363-a644-280a0cdee648%22%2C%22flow%22%3Atrue%7D%7D)
 Generate ideas and briefs for marketing video contents in a few clicks
 
@@ -8,6 +8,47 @@ Generate ideas and briefs for marketing video contents in a few clicks
 ```
 Imagine that you are a marketer at Hubble, a new startup. Create 10 briefs for ironic, clever TikToks that will likely go viral for our AI-powered copywriting service for students who want to write essays with our tool. No hashtags.
 ```
+
+## Welcome Message
+1. Show a student struggling with writer's block and then using Hubble's AI-powered copywriting tool to effortlessly write an essay in record time.
+
+2. Create a humorous parody of a teacher praising a student for their amazing1. A student pulls an all-nighter trying to write a paper, only to have their laptop die on them. Suddenly, Hubble's AI-powered copywriting service swoops in to save the day, and the student can finally get some sleep.
+
+
+
+2. A group of students are brainstorming ideas for a group project. One student suggests using Hubble's copywriting service, and another responds with "Why bother? We'll just get an A+ anyway!"
+
+
+
+3. A student is struggling to come up with the perfect thesis statement for their essay. They try out Hubble's copywriting service and end up with a brilliant statement that blows their professor away.
+
+
+
+4. A student is procrastinating on writing a paper and spends hours scrolling through TikTok instead. Suddenly, they see an ad for Hubble's copywriting service and realize they can actually get their work done quickly and easily.
+
+
+
+5. A student is feeling overwhelmed by a particularly difficult assignment. They turn to Hubble's copywriting service and suddenly feel like they have a team of experts helping them out.
+
+
+
+6. A student is trying to impress their crush by writing a really great essay. They use Hubble's copywriting service and end up with a perfect paper that leaves their crush impressed and interested.
+
+
+
+7. A student is trying to write an essay about a boring topic. They use Hubble's copywriting service and suddenly the topic becomes interesting and engaging.
+
+
+
+8. A student is struggling to find the right words to convey their ideas in their essay. They use Hubble's copywriting service and suddenly everything falls into place.
+
+
+
+9. A student is worried about plagiarism in their essay. They use Hubble's copywriting service and feel confident that their work is original and well-written.
+
+
+
+10. A student is running out of time to finish a paper before the deadline. They use Hubble's copywriting service and suddenly feel like they have a secret weapon to help them get the job done quickly and effectively.
 
 ## Conversation
 
@@ -68,5 +109,4 @@ Imagine that you are a marketer at Hubble, a new startup. Create 10 briefs for i
 
 
 10. We've all been there: it's the night before a big paper is due and you're nowhere near finished. You start to panic, wondering how you'll ever finish in time. Enter Hubble's AI-powered copywriting service. With Hubble, you can get your work done quickly and effectively, even if you've left things to the last minute. Hubble's advanced algorithms and machine learning technology will help you produce high-quality writing in record time, so you can relax knowing that you'll meet your deadline with ease.
-
 

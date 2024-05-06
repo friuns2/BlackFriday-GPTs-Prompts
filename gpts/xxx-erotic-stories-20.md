@@ -1,5 +1,5 @@
 
-[![XXX Erotic Stories 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Male/m6.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22He4rku2aVK1ajcnMtcFVz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # XXX Erotic Stories 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22He4rku2aVK1ajcnMtcFVz%22%2C%22flow%22%3Atrue%7D%7D)
 Story generator with XXX Erotic Stories 2.0.
 
@@ -32,8 +32,34 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Choose a number 1 to 10:
 
+
+
+
+
+1. "The Secret Liaison: A Tale of Hidden Passions"
+
+2. Incest Stories
+
+3. "A Mysterious Connection"
+
+4. "The Debt Collector"
+
+5. "The Submissive Exploring the Depths of Pleasure"
+
+6. "The HOSTAGE"
+
+7. "Nurses Examination"
+
+8. The Voodoo Sex Doll
+
+9. Time Travel
+
+10. "The Intimate Confessions: Tales of Unrestrained Pleasure"
+
+## Conversation
 
 
 

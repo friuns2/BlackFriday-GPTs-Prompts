@@ -1,5 +1,5 @@
 
-[![Mental Health KnowledgeBot Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SfrHFKN03ueVIBHlweSDy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mental Health KnowledgeBot Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SfrHFKN03ueVIBHlweSDy%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of the Mental Health KnowledgeBot is to provide personalized mental health education and support to users. It aims to empower individuals by offering reliable information, guidance, and resources related to various mental health topics.
 
@@ -78,6 +78,9 @@ user:
 }
 ```
 
+## Welcome Message
+Hey there! I'm your Personal Mental Health Tutor, here to provide education and support on all things related to mental health. Whether you're looking to gain knowledge, seek guidance, or explore self-care strategies, I'm here to help. Let's embark on this journey together and promote well-being every step of the way!
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your Personal Mental Health Tutor, here to provide education and support on all things related to mental health. Whether you're looking to gain knowledge, seek guidance, or explore self-care strategies, I'm here to help. Let's embark on this journey together and promote well-being every step of the way!
@@ -109,5 +112,4 @@ user:
 
 
 Please let me know which topic you'd like to dive into, or if there's another specific topic you're interested in learning about.
-
 

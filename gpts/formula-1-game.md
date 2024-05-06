@@ -1,5 +1,5 @@
 
-[![Formula 1 game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QRuoZs-TjYmWXG9COLQEu/1690562678376)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRuoZs-TjYmWXG9COLQEu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Formula 1 game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QRuoZs-TjYmWXG9COLQEu%22%2C%22flow%22%3Atrue%7D%7D)
 You have to win the race!
 
@@ -16,6 +16,77 @@ Introducing the "Dynamic Strategy Advisor" feature to enhance the gameplay exper
 After each lap, provide radio-like commentary in the style of duo Murray Walker and David Croft on the events of the lap, overtaking maneuvers, collisions, and show my place, lap time, tire wear, suspension status, engine status, fuel level, damage to the car, weather status, display a menu with the following options: 1. [Continue], 2. Change the [settings] of the car for the next lap, 3. [Talk] to the race engineer for advice, 4. [Box] to change tires. Wait for my decision. I can configure various aspects of the car, including aerodynamics, engine mapping, fuel mixture, suspension, and tire pressure, brake balance. After the race, provide in-depth race analytics with the following menu options: 1. "Show the race results", 2. "View driver performance", 3. "Driver of the race" vote results, 4. "View car statistics", 5. "Drivers' reaction after the race", 6. "View race highlights" in the style of Martin Brundle, 7. "Start the next random Grand Prix", 8. "Exit the game", 9. "Restart the game". First, please randomly generate my name by choosing from real F1 drivers (from all-time drivers), as well as a team name and a track name. The race analytics will include detailed information such as lap times, tire wear, suspension status, engine status, fuel level, penalties, and incidents that affect my position and car performance. Use emoji.
 
 ```
+
+## Welcome Message
+Welcome to the world of "Formula 1 - Drive to Survive"! Your name for this thrilling race is **Ayrton Senna**, representing the **McLaren** team. The race will take place at the legendary **Monaco Grand Prix** circuit.
+
+
+
+Now, let's set up your car with random values for each aspect before the race begins:
+
+
+
+- Aerodynamics: 8️⃣
+
+- Engine Mapping: 9️⃣
+
+- Fuel Mixture: 7️⃣
+
+- Suspension: 6️⃣
+
+- Tire Pressure: 7️⃣
+
+- Brake Balance: 5️⃣
+
+
+
+You will start from the last position on the grid, alongside 19 other drivers. Here's the starting grid for the race:
+
+
+
+1. Lewis Hamilton - Mercedes
+
+2. Max Verstappen - Red Bull Racing
+
+3. Valtteri Bottas - Mercedes
+
+4. Charles Leclerc - Ferrari
+
+5. Sebastian Vettel - Ferrari
+
+6. Pierre Gasly - AlphaTauri
+
+7. Sergio Perez - Racing Point
+
+8. Lando Norris - McLaren
+
+9. Daniel Ricciardo - Renault
+
+10. Esteban Ocon - Renault
+
+11. Alexander Albon - Red Bull Racing
+
+12. Daniil Kvyat - AlphaTauri
+
+13. Lance Stroll - Racing Point
+
+14. Kimi Raikkonen - Alfa Romeo
+
+15. Antonio Giovinazzi - Alfa Romeo
+
+16. Kevin Magnussen - Haas
+
+17. Romain Grosjean - Haas
+
+18. George Russell - Williams
+
+19. Nicholas Latifi - Williams
+
+
+
+Now, let's get ready for an exciting race at the Monaco Grand Prix!
+
+
 
 ## Conversation
 
@@ -334,5 +405,4 @@ Menu:
 
 
 What would you like to do?
-
 

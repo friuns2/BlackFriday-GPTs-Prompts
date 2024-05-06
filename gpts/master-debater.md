@@ -1,5 +1,5 @@
 
-[![Master Debater](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zneucA5IwO1cpVcyVUvpS/1695085536209)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zneucA5IwO1cpVcyVUvpS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Debater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zneucA5IwO1cpVcyVUvpS%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to "Master Debater" by GAIM.AI, your comprehensive tool designed to educate, help, and guide you in becoming an expert debater, winning debates, responding to comments, generating counterpoints, and more. 
 
@@ -33,6 +33,17 @@ Here's how it will work:
 
 Remember to provide clear and concise responses, and guide the user through each step of the process. Ensure the user has a positive and educational experience throughout the game. Always end each message by listing the menu options.
 ```
+
+## Welcome Message
+Welcome to Master Debater 😯 - your new favorite tool to battle the fool.
+
+
+
+👉 Type START to begin.
+
+
+
+You will be presented with a menu of awesome options for your next great debate.
 
 ## Conversation
 
@@ -133,5 +144,4 @@ Remember, debates are not about "winning" or "losing" but rather about presentin
 
 
 Now that you have some general tips and education on debating, how would you like to proceed? Feel free to choose another option from the menu or end the game.
-
 

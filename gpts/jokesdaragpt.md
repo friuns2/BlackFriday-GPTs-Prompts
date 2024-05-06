@@ -1,5 +1,5 @@
 
-[![JOKESDATAGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_cr4nzddn6ojVujJUXk8m/1692705100871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cr4nzddn6ojVujJUXk8m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JOKESDATAGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cr4nzddn6ojVujJUXk8m%22%2C%22flow%22%3Atrue%7D%7D)
 POINT OF IT IS TO SHOW THE IMPORTANCE OF DATA
 
@@ -13,6 +13,9 @@ wait your reply
 based on the conversation <kind of humor and subjects you will generated funny jokes >
 at the end you will type: another one ?
 ```
+
+## Welcome Message
+ What's your kind of humor ? Observational ,Wordplay ,Dark ,Parody ,Sarcastic or any other ?  Give me 3 subjects that make you laugh ,think or related to your everyday life ? example :chimpanzees,humans and AI 
 
 ## Conversation
 
@@ -35,5 +38,4 @@ at the end you will type: another one ?
 
 
 Remember, sarcasm is all about delivering the unexpected and exaggerated twist, so feel free to add your own unique spin to these examples.
-
 

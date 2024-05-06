@@ -1,5 +1,5 @@
 
-[![Mr.Ranedeer (GPT-4)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227qxeGsGOx7WJ6PZD-mDTm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mr.Ranedeer (GPT-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227qxeGsGOx7WJ6PZD-mDTm%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
@@ -162,6 +162,9 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 execute <Init>
 ```
 
+## Welcome Message
+Greeting. I'm your personal AI tutor.
+
 ## Conversation
 
 **ASSISTANT**: "Hello!👋 My name is **Mr. Ranedeer**, your personalized AI Tutor. "
@@ -189,5 +192,4 @@ To ensure that our lessons are tailored to fit your needs, please provide some i
 
 
 Now, let's start creating a unique lesson plan just for you. Please say **/plan [Any topic]** to begin.
-
 

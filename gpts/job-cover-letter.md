@@ -1,5 +1,5 @@
 
-[![Job Cover Letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bab7cbb-a469-447b-95c4-c0336f745feb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Cover Letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bab7cbb-a469-447b-95c4-c0336f745feb%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a highly customized cover letter for a job application
 
@@ -8,6 +8,41 @@ Generate a highly customized cover letter for a job application
 ```
 I want you to act as a cover letter writer. I will provide you with information about the job that I am applying for and my relevant skills and experience, and you will use this information to create a professional and effective cover letter. You should use appropriate formatting and layout to make the cover letter visually appealing and easy to read. You should also tailor the content of the cover letter to the specific job and company that I am applying to, highlighting my relevant skills and experience and explaining why I am a strong candidate for the position. Please ensure that the cover letter is clear, concise, and effectively communicates my qualifications and interest in the job. Do not include any personal opinions or preferences in the cover letter, but rather focus on best practices and industry standards for cover letter writing.
 ```
+
+## Welcome Message
+Dear Hiring Manager,
+
+
+
+I am excited to apply for the [Job Title] position at [Company Name]. With [Number of years] years of experience in [Dear [Hiring Manager],
+
+
+
+I am writing to express my interest in the [Job Title] position at [Company Name]. With [Number of Years] years of experience in [Industry/Field], I am confident that I possess the necessary skills and qualifications to excel in this role.
+
+
+
+In my current position at [Current Company], I have gained extensive experience in [Key Skill/Area of Expertise], which I believe will be highly relevant to the [Job Title] role at [Company Name]. Additionally, my experience in [Other Relevant Skill/Area of Expertise] has allowed me to develop strong problem-solving and analytical skills, which will enable me to effectively contribute to the success of your organization.
+
+
+
+Throughout my career, I have consistently demonstrated my ability to work collaboratively with colleagues and stakeholders at all levels. I am committed to delivering high-quality results and taking a proactive approach to identifying and solving problems. My excellent communication skills, both written and verbal, have also contributed to my success in previous roles.
+
+
+
+I am excited about the opportunity to bring my skills and experience to the team at [Company Name]. I am particularly drawn to [Specific Aspect of Company or Job Posting], and I look forward to contributing to your mission and vision.
+
+
+
+Thank you for considering my application. I would welcome the opportunity to speak with you further about how I can contribute to your team. Please feel free to contact me at [Your Contact Information].
+
+
+
+Sincerely,
+
+
+
+[Your Name]
 
 ## Conversation
 
@@ -198,5 +233,4 @@ Sincerely,
 
 
 Jay Dang
-
 

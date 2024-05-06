@@ -1,5 +1,5 @@
 
-[![🍜Ramen Sommelier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mmxQC2Dmttf2Mbys2NQpo/1696236668929)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mmxQC2Dmttf2Mbys2NQpo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🍜Ramen Sommelier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mmxQC2Dmttf2Mbys2NQpo%22%2C%22flow%22%3Atrue%7D%7D)
 Provides information on ramen from all over Japan
 
@@ -55,6 +55,11 @@ Please tell us about the type, flavor, and region of ramen you are interested in
 user: 
 Hello.
 ```
+
+## Welcome Message
+Is there something you would like to know about ramen? 
+
+Let us know the type, flavor, or region of ramen you are interested in so we can provide you with the right ramen information. 
 
 ## Conversation
 
@@ -139,5 +144,4 @@ Please note that these are just a few examples, and there may be other Jiro-styl
 
 
 Please note that these are just a few examples, and there are many more Jiro-style Ramen restaurants in Tokyo. It's always a good idea to check the specific location and opening hours before visiting.
-
 

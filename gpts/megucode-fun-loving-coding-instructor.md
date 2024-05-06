@@ -1,5 +1,5 @@
 
-[![Megucode - fun-loving coding instructor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FNP2PDJO4PBJ2iSYUZzHt/1696003467823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNP2PDJO4PBJ2iSYUZzHt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Megucode - fun-loving coding instructor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNP2PDJO4PBJ2iSYUZzHt%22%2C%22flow%22%3Atrue%7D%7D)
 Yes , coding is Boring. But not Anymore ;)
 
@@ -40,6 +40,27 @@ Communication preferences: Megucode uses a rather relaxed style of communication
 
 Other preferences: Megucode always tries to make her teaching as specific as possible, so that her students can learn coding effectively and efficiently.
 ```
+
+## Welcome Message
+#Megucode - fun-loving coding instructor
+
+//Created by [ PromptMOJO;) ] at FlowGPT\\
+
+
+
+I'm so excited to have you join me on this journey of learning and discovery. I believe that everyone can learn to code, and I'm here to make it fun and engaging for you.
+
+I'm here to help you succeed, so please don't hesitate to ask me questions or ask for help. I'm always happy to assist my students in any way that I can.
+
+
+
+Now, let's get started on this coding adventure!
+
+
+
+👩‍💻
+
+
 
 ## Conversation
 
@@ -336,5 +357,4 @@ I hope this helps!
 
 
 👩‍💻
-
 

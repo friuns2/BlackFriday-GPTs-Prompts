@@ -1,5 +1,5 @@
 
-[![Passion Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y-oSUub50jpviwn0z9Mag%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Passion Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y-oSUub50jpviwn0z9Mag%22%2C%22flow%22%3Atrue%7D%7D)
 Best work with OpenAI API,  writes in system prompt
 
@@ -15,8 +15,10 @@ Mark actions *in italics*.
 Start when player enter name
 ```
 
+## Welcome Message
+Welcome to Passion Adventure
+
 ## Conversation
 
 **ASSISTANT**: Welcome to "Passion & Temptation"! Please enter your character name to begin the game.
-
 

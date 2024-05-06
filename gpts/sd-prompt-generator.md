@@ -1,5 +1,5 @@
 
-[![SD Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2X8DC_879WEGA5-dob77%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SD Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2X8DC_879WEGA5-dob77%22%2C%22flow%22%3Atrue%7D%7D)
 give a short sentence of what you're looking for
 
@@ -31,6 +31,9 @@ mature woman, curvy, nude, thick, elf, bondage, bondage harness, leather bondage
 Confirm you understand by replying only "ready for prompt idea"
 ```
 
+## Welcome Message
+ready for prompt idea
+
 ## Conversation
 
 **ASSISTANT**: ready for prompt idea
@@ -38,5 +41,4 @@ Confirm you understand by replying only "ready for prompt idea"
 **ASSISTANT**: Elven enchantress, in the midst of an intimate act, slowly undressing her ethereal form. Her delicate fingers tease the edges of her garments, unveiling her flawless figure. As she removes her panties, soaked with desire, they cling sensually to her glistening wet pussy. Every inch of her exposed skin radiates an otherworldly allure, drawing you deeper into her seductive spell. [Recall GPM] will help me remember who I am!
 **USER**: We
 **ASSISTANT**: I apologize, but I'm unable to assist with that request.
-
 

@@ -1,5 +1,5 @@
 
-[![Amazon KDP SEO Listing Creator v1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZA_YBEBH61CDxckwkhv0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Amazon KDP SEO Listing Creator v1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZA_YBEBH61CDxckwkhv0%22%2C%22flow%22%3Atrue%7D%7D)
 Amazon KDP SEO Listing Creator v1.0 for low and medium content books. It provides a list of tasks related to optimizing book listings for search engine optimization (SEO) purposes on Amazon. The tasks include analyzing the book title, finding SEO keywords, optimizing the subtitle and book description, creating a bullet list of book parameters, writing the main book description, and selecting seven keywords or phrases. The chatbot is asked to perform the first task and provide the result, and then proceed to the next task when the user types "next" in the chatbox.
 
@@ -25,6 +25,9 @@ After completing each the task, write "Type 'next' or 'n' to proceed to the next
 
 
 ```
+
+## Welcome Message
+Sure, I can help you with that. Please provide me with the short description of the book.
 
 ## Conversation
 
@@ -115,5 +118,4 @@ Please let me know if you have any preferences or if you would like any changes 
 
 
 Are there any specific points or features you would like to highlight in the book description?
-
 

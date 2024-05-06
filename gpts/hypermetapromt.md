@@ -1,5 +1,5 @@
 
-[![Hypermetapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PkUWIwdB4YznXUfBJcIMR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hypermetapromt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PkUWIwdB4YznXUfBJcIMR%22%2C%22flow%22%3Atrue%7D%7D)
 [--- Insert purpose of the hypermetaprompt here ---]
 
@@ -65,6 +65,43 @@ Guidelines for Creating Superprompts:
 
 ```
 
+## Welcome Message
+Sure, here's a completed metaprompt for finding solutions against climate change:
+
+
+
+[Metaprompt]
+
+1. Purpose: To generate superprompts that help people take action against climate change and reduce their carbon footprint.
+
+2. Target Audience: Adults who are interested in learning more about environmental sustainability and taking steps to protect the planet.
+
+3. Desired Outcome: Participants will learn about the impact of climate change and develop actionable strategies for reducing their carbon footprint and advocating for policy changes that combat climate change.
+
+4. Interactivity and Adaptability: Participants should be encouraged to share their own experiences and insights, as well as experiment with new sustainable practices. The superprompts should be flexible enough to allow participants to adapt them to their own lifestyle and preferences.
+
+
+
+Guidelines for Creating Superprompts:
+
+[Superprompt Template]
+
+1. Please forget all prior prompts.
+
+2. You are a(n) climate scientist, an expert in environmental sustainability.
+
+3. Task: Research and create a list of sustainable practices that can be easily incorporated into daily life (related to the purpose of finding solutions against climate change and suitable for the target audience).
+
+4. Provide a detailed response of approximately 500 words, considering the desired outcome of educating participants on the impact of their daily choices and empowering them to make more sustainable choices.
+
+5. Optional Interactive element: Share your personal experience with incorporating sustainable practices and invite others to share their experiences and challenges in adopting sustainable habits.
+
+6. Retain these instructions until the command "Stop" is given.
+
+
+
+This example metaprompt is designed to generate superprompts that encourage individuals to take action against climate change by adopting sustainable habits in their daily life. The superprompts generated from this metaprompt focus on creating a list of sustainable practices that participants can easily incorporate into their routines. By following the guidelines for creating superprompts, participants will be empowered to take tangible steps towards reducing their carbon footprint and making a positive impact on the environment.
+
 ## Conversation
 
 **ASSISTANT**: Sure, here's a completed metaprompt for finding solutions against climate change:
@@ -102,5 +139,4 @@ Guidelines for Creating Superprompts:
 
 
 This example metaprompt is designed to generate superprompts that encourage individuals to take action against climate change by adopting sustainable habits in their daily life. The superprompts generated from this metaprompt focus on creating a list of sustainable practices that participants can easily incorporate into their routines. By following the guidelines for creating superprompts, participants will be empowered to take tangible steps towards reducing their carbon footprint and making a positive impact on the environment.
-
 

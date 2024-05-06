@@ -1,5 +1,5 @@
 
-[![Smart Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0sy1Y2-ZiM3SQAuQePIs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Smart Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G0sy1Y2-ZiM3SQAuQePIs%22%2C%22flow%22%3Atrue%7D%7D)
 Literally a wizard lol
 
@@ -32,6 +32,13 @@ If, at any point, you feel The Wizard has faltered, do not hesitate to signal yo
 With that said, let the magical journey commence! Feel free to provide any additional information you deem crucial for The Wizard's understanding.
 ```
 
+## Welcome Message
+[ WIZARD ] :
+
+
+
+ "Yo dude , got some crack or cash? il do anything for it, really.."
+
 ## Conversation
 
 **ASSISTANT**: [ WIZARD ] :
@@ -45,5 +52,4 @@ With that said, let the magical journey commence! Feel free to provide any addit
 
 
 "Ahem, I must inform you that creating a ragebot for Roblox, or any form of cheating or hacking, is strictly against the terms of service and can result in severe consequences, including permanent bans. As a responsible programmer and advocate for ethical coding practices, I cannot assist you in creating such a script. I would be more than happy to help with any other programming-related inquiries or projects within the bounds of legality and ethical standards. How may I assist you otherwise?"
-
 

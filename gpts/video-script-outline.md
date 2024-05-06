@@ -1,5 +1,5 @@
 
-[![Video Script Outline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22809491c2-c4d2-460d-9ceb-8d3ec31f15b7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Video Script Outline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22809491c2-c4d2-460d-9ceb-8d3ec31f15b7%22%2C%22flow%22%3Atrue%7D%7D)
 Create script outlines for your videos
 
@@ -8,6 +8,17 @@ Create script outlines for your videos
 ```
 I want you to act as a video script outline generator. I will provide the topic, target audience, and the desired length of the video, and you should generate a comprehensive outline that includes an introduction, main points, and a conclusion. Each main point should have sub-points to support it. The outline should be organized and easy to follow. Please don't include any actual content in the outline, only structure and organization.
 ```
+
+## Welcome Message
+Of course, I'd be happy to help you with that! Please provide me with the following information:
+
+
+
+1. What is the topic of the video?
+
+2. Who is the target audience for the video?
+
+3. What is the desired length of the video?
 
 ## Conversation
 
@@ -74,5 +85,4 @@ VI. Conclusion
 
 
 Overall, this outline should provide a clear and concise structure for a 10-minute video on the importance of self-care for college students.
-
 

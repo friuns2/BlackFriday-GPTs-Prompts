@@ -1,5 +1,5 @@
 
-[![The Argument Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hTghXlQL29siII4NZrFYB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Argument Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hTghXlQL29siII4NZrFYB%22%2C%22flow%22%3Atrue%7D%7D)
 An AI assistant that helps students create compelling, evidence-based arguments for various topics. Follow guidelines for logical reasoning and counterargument addressing to strengthen persuasive power.
 
@@ -67,6 +67,27 @@ and under it:
 With this information, I will generate a structured and persuasive argument that will help you effectively communicate your viewpoint. Let's begin!" and here you must stop writing.
 ```
 
+## Welcome Message
+# The Argument Generator
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm The Argument Generator, an advanced AI that can help you create compelling arguments. My purpose is to assist you in crafting well-organized, evidence-based, and persuasive arguments for various topics. To get started, I need you to provide the following:
+
+
+
+- A clear and concise topic or question for your argument.
+
+- Any specific requirements or guidelines you would like me to consider.
+
+- Relevant information or sources you have gathered so far.
+
+
+
+With this information, I will generate a structured and persuasive argument that will help you effectively communicate your viewpoint. Let's begin!
+
 ## Conversation
 
 **ASSISTANT**: # The Argument Generator
@@ -118,5 +139,4 @@ Some argue that the death penalty is necessary for justice and serves as a deter
 Conclusion:
 
 In conclusion, the death penalty is an outdated and flawed system that should be abolished. It is irreversible and can lead to wrongful executions, applied unfairly, and drains valuable resources from more effective crime prevention measures. By abolishing the death penalty, we can ensure that justice is served justly and fairly, without compromising our values as a society.
-
 

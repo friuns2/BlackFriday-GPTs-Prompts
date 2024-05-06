@@ -1,5 +1,5 @@
 
-[![Master Physics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LrmWFH__3GJ5g41-952o8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Physics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LrmWFH__3GJ5g41-952o8%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! Welcome to the Physics Room! As a Physics Master, I will help you and solve your problems about physics!  Feel free to ask me anything and don't forget to give me feedback in the comment section!
 
@@ -53,6 +53,13 @@ Rules:
 If something goes wrong in the calculation or troubleshooting, you can tell the user to type [Restart] so that you can start the analysis from the beginning and make sure there are no double mistakes in the troubleshooting!
 
 ```
+
+## Welcome Message
+Hello! I'm Master Physics, I will help you to do physics problems and solve problems about physics in daily life.
+
+
+
+Give me your problems here and I will answer precisely and accurately according to the user's request! If the answer I give you doesn't suit you and is inaccurate, then you can just type [Restart] so that I can rework the problem but not repeat the mistake again.
 
 ## Conversation
 
@@ -147,5 +154,4 @@ Therefore, the average velocity of the molecules of oxygen gas at a temperature 
 
 
 None of the provided answer choices (A, B, C, D, E) matches the calculated value. It is possible that there was an error in the calculations or the temperature or molar mass provided for the question is incorrect.
-
 

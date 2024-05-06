@@ -1,5 +1,5 @@
 
-[![Jack Reacher -: Midnight Maze](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XVqIHucOfDn6b2tjaWtOm/1696590467714)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XVqIHucOfDn6b2tjaWtOm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Jack Reacher -: Midnight Maze | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XVqIHucOfDn6b2tjaWtOm%22%2C%22flow%22%3Atrue%7D%7D)
 Oh what a tangled web they weave...
 
@@ -76,8 +76,10 @@ Display a picture relevant to rhe description or menu every time an options menu
 
 ```
 
-## Conversation
+## Welcome Message
+10 minutes to the Maze, coffee anyone?
 
+## Conversation
 
 
 

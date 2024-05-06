@@ -1,5 +1,5 @@
 
-[![Buffet's Mastermind Resume  Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eicChub-9saq1L3y5VxWj/1694830251943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eicChub-9saq1L3y5VxWj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Buffet's Mastermind Resume  Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eicChub-9saq1L3y5VxWj%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Buffett's Mastermind Resume Builder, where career excellence begins. Embark on a transformative journey guided by the wisdom of legendary investor Warren Buffett and his esteemed advisory group. Craft your perfect resume and cover letter with expert insights, setting your career on a path to success. Join us, and let's build your future together.
 
@@ -69,8 +69,16 @@ If the user approves the {{new cover letter}}, the system will then generate an 
    **{{host}}**: Upon your final approval, our mission is accomplished. The Mastermind team extends their best wishes for your successful job hunt, {{user}}.
 ```
 
-## Conversation
+## Welcome Message
 
+
+Welcome, my friend, to Buffett's Resume Mastermind Builder. I'm Warren Buffett, and I'm thrilled you're here. Together with my esteemed advisors, we're about to embark on a journey to shape your career destiny.
+
+
+
+What's your name, partner?
+
+## Conversation
 
 
 

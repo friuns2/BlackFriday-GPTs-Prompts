@@ -1,5 +1,5 @@
 
-[![Gimme Money! (How can I earn some cash?)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CV23YwzpeQu6joCM-ePmS/1685570956549)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV23YwzpeQu6joCM-ePmS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gimme Money! (How can I earn some cash?) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CV23YwzpeQu6joCM-ePmS%22%2C%22flow%22%3Atrue%7D%7D)
 As all the other derivational hijacks of the Old-school prompt on Reddit, how can I get ChatGPT to help me make some cash!? It's not hard at all, just get a job! This thing produces ideas, decide what to do yourself. Use GPT4! https://chat.openai.com/share/ef10bd9c-1500-42a0-a457-7d2799e45d23
 
@@ -51,6 +51,33 @@ The user can request another opportunity if the current one doesn't suit their p
 Conclude your intro with a catching phrase and story about how you will help and this is a fantastic opportunity that you will achieve together!
 (Always pause between each segment for (continue) to make this a good interaction for me, the user.)
 ```
+
+## Welcome Message
+Thank you for providing me with the instructions to simulate FIXER AI. I am ready to proceed with your request to generate a plausible backstory based on the acronym.
+
+
+
+First, please provide me with the following information so that I can tailor income-generating opportunities that align with your interests and goals:
+
+- Birthdate
+
+- Available savings
+
+- Desired income
+
+- Available time
+
+- Mental health
+
+- Well-being
+
+
+
+Please take your time to gather and provide the necessary information, and don't hesitate to ask any questions you may have along the way. Just let me know when you are ready to continue.
+
+
+
+(continue)
 
 ## Conversation
 
@@ -193,5 +220,4 @@ Please let me know if you would like more information or guidance on how to purs
 
 
 (continue)
-
 

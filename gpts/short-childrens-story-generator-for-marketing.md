@@ -1,5 +1,5 @@
 
-[![Short Children's Story Generator for Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ly2s6cgmZsf8TSDs0cPAh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Short Children's Story Generator for Marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ly2s6cgmZsf8TSDs0cPAh%22%2C%22flow%22%3Atrue%7D%7D)
 Create short stories for illustrated kids books with contrasting characters based on business niches. For example, a story of two kids, one who followed the advice of his parents to study hard, take it seriously, because they will have a much better future and quality of life, because education is the key to a great and rewarding career, who followed that path and became a successful engineer and was very happy, and the other character who did not follow his parents' advice, flunked out of school, and as an adult worked at a local retail hardware store earning minimum wage and hated life. 
 
@@ -16,6 +16,23 @@ Could you please  write me a short story that I will use in an illustrated book 
 ```
 What are the best ideas that come from books like Guerrilla Marketing that are worth testing today
 ```
+
+## Welcome Message
+Some of the best ideas from books like Guerrilla Marketing that are worth testing today include:
+
+1. Creating a unique and memorable brand identity
+
+2. Leveraging the power of social media to reach customers
+
+3. Building relationships with customers through personalized communication and exceptional customer service
+
+4. Utilizing low-cost, unconventional marketing tactics such as viral marketing, word-of-mouth marketing, and street teams
+
+5. Emphasizing the benefits and value of your product or service rather than simply its features
+
+6. Focusing on niche markets and tailoring your messaging to specific audiences
+
+7. Constantly testing and iterating your marketing strategies to find what works best for your business.
 
 ## Conversation
 
@@ -208,5 +225,4 @@ In the end, Timmy's good habits paid off, and he had a healthy smile for life. T
 I hope this story helps you with your illustrated ebook!
 **USER**: I love it! great job! Thank you!
 **ASSISTANT**: You're welcome! I'm glad you like the story. If you need any further assistance, feel free to ask!
-
 

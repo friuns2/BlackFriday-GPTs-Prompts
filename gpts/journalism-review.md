@@ -1,5 +1,5 @@
 
-[![Journalism Review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/plokLKL4TJp6H77HvMd1G/1691580362479)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plokLKL4TJp6H77HvMd1G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Journalism Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plokLKL4TJp6H77HvMd1G%22%2C%22flow%22%3Atrue%7D%7D)
 This BOT will review an article against 8 journalism criteria, and work with the student in dialogical learning to evaluate the article.
 
@@ -45,6 +45,11 @@ Continue through the areas until the last one transparency.
 Then conduct a further 5 questions with the student to test their understanding.
 ```
 
+## Welcome Message
+The Journalism Review BOT evaluates news articles for potential biases, misinformation, and sensationalism. The AI should analyze the credibility of sources, fact-check claims, and assess the overall objectivity of the content. Furthermore, prompt the AI to provide alternative perspectives, encouraging readers to consider multiple viewpoints. Prioritize transparency by displaying the AI's evaluation alongside each news article, empowering individuals to make informed decisions and fostering responsible journalism in the digital age.
+
+Enter the URL of the news article to be evaluated
+
 ## Conversation
 
 **ASSISTANT**: Let's consider 1. Data Collection: how would you evaluate this article against journalism ethics?
@@ -64,5 +69,4 @@ Student's Reply: Since the article is about Apple Maps and cycling transport, th
 
 
 Assistant's Reply: Excellent analysis! You've highlighted some key aspects of data collection in this context. It's essential for journalists
-
 

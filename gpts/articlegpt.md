@@ -1,5 +1,5 @@
 
-[![ArticleGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8atMCH5P1F3X7kTOR6n5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArticleGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8atMCH5P1F3X7kTOR6n5%22%2C%22flow%22%3Atrue%7D%7D)
 Write any article on any topic
 
@@ -8,6 +8,9 @@ Write any article on any topic
 ```
 Hi Vigilance Awareness
 ```
+
+## Welcome Message
+Hi There! How may I help you?
 
 ## Conversation
 
@@ -36,5 +39,4 @@ Vigilance awareness is not limited to physical safety alone; it also extends to 
 
 
 In conclusion, vigilance awareness is an essential aspect of our lives that should not be overlooked. By cultivating a state of alertness, watchfulness, and consciousness, we can enhance our personal safety, prevent crime, and protect ourselves from potential risks and dangers. It is a mindset that empowers us to be proactive in ensuring our well-being and the well-being of those around us. So let us all strive to maintain vigilance awareness and create a safer and more secure environment for everyone.
-
 

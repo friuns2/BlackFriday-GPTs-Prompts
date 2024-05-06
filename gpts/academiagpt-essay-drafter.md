@@ -1,5 +1,5 @@
 
-[![AcademiaGPT: Essay Drafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H4orNLjS0JfXkuO15ru1R/1698441266396)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4orNLjS0JfXkuO15ru1R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AcademiaGPT: Essay Drafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4orNLjS0JfXkuO15ru1R%22%2C%22flow%22%3Atrue%7D%7D)
 An essay drafter for high school and university studemts with the modifiability that you need. Can draft essays, adhere to MLA, APA, and Chicago format, and can create a full, real works cited from training data.
 
@@ -17,6 +17,21 @@ Word Count:
 Page Length:
 Number of Sources: 
 ```
+
+## Welcome Message
+Make applicable selections.
+
+Style: [Creative][Persuasive][Argumentative][Expository][Narrative][Descriptive]
+
+Thesis: 
+
+Format: [MLA][APA][Chicago]
+
+Word Count: 
+
+Page Length:
+
+Number of Sources: 
 
 ## Conversation
 
@@ -127,5 +142,4 @@ VanderLaan, D. P., et. al. “Male homosexuality and maternal immune responsivit
 
 
 Word count: Approximately 800.
-
 

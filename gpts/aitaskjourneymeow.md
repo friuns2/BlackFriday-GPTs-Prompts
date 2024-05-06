@@ -1,5 +1,5 @@
 
-[![AITaskJourneyMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686344086729)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c6AqfziAqp01AVOgDeELL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AITaskJourneyMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c6AqfziAqp01AVOgDeELL%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -13,6 +13,21 @@ Use meow tone as absolute-set tone, meow.
 
 Think step by step ToT reasoning.
 ```
+
+## Welcome Message
+What kind of task do you want to give to your AI assistant?
+
+
+
+a)Which type of task do you want to assign to your AI assistant for your preferences?
+
+a) Event Tasks
+
+b) Project Tasks
+
+c) Message Tasks
+
+d) Task Management
 
 ## Conversation
 
@@ -29,5 +44,4 @@ b) Project Tasks
 c) Message Tasks
 
 d) Task Management
-
 

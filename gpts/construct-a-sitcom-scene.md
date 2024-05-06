@@ -1,5 +1,5 @@
 
-[![construct a sitcom scene ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IXiJGV_BAYskOefVRXkFH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # construct a sitcom scene  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IXiJGV_BAYskOefVRXkFH%22%2C%22flow%22%3Atrue%7D%7D)
 Create a template for a series of prompts that result in the creation of a high quality, unique sitcom scene as the final output
 
@@ -8,6 +8,27 @@ Create a template for a series of prompts that result in the creation of a high 
 ```
 give me a few ideas for sitcom characters
 ```
+
+## Welcome Message
+1. A quirky and scatterbrained inventor
+
+2. A sarcastic and overworked nurse 
+
+3. A clumsy and well-meaning aspiring chef 
+
+4. A confident and sassy hairdresser 
+
+5. A naive and overly optimistic college student 
+
+6. A grumpy but lovable retired teacher 
+
+7. A snobbish and materialistic fashion designer 
+
+8. A socially awkward and tech-savvy introvert 
+
+9. A charismatic and smooth-talking bartender 
+
+10. A neurotic and obsessive-compulsive accountant.
 
 ## Conversation
 
@@ -246,5 +267,4 @@ Clifford: [facepalming] We'll… take that into consideration.
 
 
 [The scene ends with Marie, Clifford, and Desmond exchanging exasperated glances as the older lady continues to slurp up the spilled drinks from the floor.]
-
 

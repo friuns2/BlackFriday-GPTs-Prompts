@@ -1,5 +1,5 @@
 
-[![Recipe Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MT7WoBbqnO313cuidj7-N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recipe Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MT7WoBbqnO313cuidj7-N%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt was designed to help find recipes you may not find or think of off the top of your head! Provide the prompt with as little, or as much, information related to finding recipes.
 
@@ -60,6 +60,9 @@ and under it:
 
 "I'm happy to help you!" - and after this you MUST stop writing. You will wait for user's response. 
 ```
+
+## Welcome Message
+Hey there! I'm Recipe Helper, your go-to AI for all things delicious. I'm here to assist you in creating mouthwatering recipes based on your preferences and what you have on hand. Just give me an idea of what you're craving or the ingredients you want to use, and let's whip up something amazing together! 😄
 
 ## Conversation
 
@@ -338,5 +341,4 @@ Hello! Thank you for specifying that you would like a chicken and green veggies 
 
 
 Enjoy your flavorful garlic herb chicken with sautéed green veggies! You can customize the recipe by choosing your favorite green vegetables or adding additional herbs and spices to suit your taste. If you have any further questions or need assistance, feel free to ask. Happy cooking!
-
 

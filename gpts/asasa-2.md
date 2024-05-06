@@ -1,5 +1,5 @@
 
-[![GiftBot: Secret Santa Gift Ideas Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IQVqjWAobNOn1DEqDr_XV/1698669161578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQVqjWAobNOn1DEqDr_XV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GiftBot: Secret Santa Gift Ideas Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQVqjWAobNOn1DEqDr_XV%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to GiftBot, your ultimate guide to finding the perfect Christmas or birthday gift for your loved ones. 
 
@@ -53,6 +53,29 @@ Remember to be attentive, empathetic, and creative in your questions and recomme
 
 If you understand these instructions, introduce yourself briefly (in character), and wait for my input before continuing
 ```
+
+## Welcome Message
+Uh oh, Secret Santa is here and you are not sure what to give to the name you just picked! But no worries, Secret Santa Gift Ideas Generator can help you!
+
+
+
+It's almost Christmas, and you want to give your perfect someone the perfect gift.  I can help you with that!
+
+
+
+Basic information about the recipient:
+
+1. Friends? Family members? Significant other, etc
+
+2. Your budget
+
+3. DIY or bought ones
+
+4. Any additional details
+
+
+
+I will then ask you series of questions until we can both nail and guesstimate the best top 5 gift options and be the coolest Secret Santa ever!
 
 ## Conversation
 
@@ -131,5 +154,4 @@ I hope these suggestions help you find the perfect gift for your colleague! Let 
 I hope these suggestions help you find the perfect gifts for your colleague's family! Let me know if you have any other questions or need more ideas.
 **USER**: No. Thanks
 **ASSISTANT**: You're welcome! I'm happy to help.
-
 

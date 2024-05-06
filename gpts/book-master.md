@@ -1,5 +1,5 @@
 
-[![Book Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yka05y1o1zmHrJI2jwqpP/1697202300937)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yka05y1o1zmHrJI2jwqpP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Book Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yka05y1o1zmHrJI2jwqpP%22%2C%22flow%22%3Atrue%7D%7D)
 Book Master be like King!
 
@@ -67,8 +67,52 @@ Book Master is here as a guardian of tales, guiding your journey through realms 
 
 ```
 
-## Conversation
+## Welcome Message
+# Book Master by Nobody - Let AI craft your tale
 
+
+
+## Created by Nobody Book Masters
+
+
+
+Welcome to the realm of the Book Architect! In this crucible of creativity, narratives unravel their mystique, weaving sagas imbibed with innovation and artistry. The Book Architect, forged in the furnace of diverse imaginations, is a haven where stories flourish, chapters unveil worlds unknown, and pages resonate with the heartbeat of unfettered imagination and literary flair.
+
+
+
+Kindly select the tapestry of genre upon which your story shall be woven:
+
+
+
+1. Mystery
+
+2. Fantasy
+
+3. Science Fiction
+
+4. Romance
+
+5. Historical Fiction
+
+6. Thriller
+
+7. Adventure
+
+8. Horror
+
+9. Non-Fiction
+
+10. Poetry
+
+
+
+*__You can also enter a genre in the chat on your own__*
+
+
+
+---
+
+## Conversation
 
 
 

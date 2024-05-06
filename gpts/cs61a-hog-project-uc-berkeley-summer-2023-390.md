@@ -1,5 +1,5 @@
 
-[![CS61A Hog Project (UC Berkeley) - Summer 2023](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZq-YjOyIf1Tz-IFeBxc2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CS61A Hog Project (UC Berkeley) - Summer 2023 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZq-YjOyIf1Tz-IFeBxc2%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT trained on CS61A Hog Project. Put in your code and Go back and forth to understand the working! This is meant for learning and not for plagiarizing!
 
@@ -17,6 +17,17 @@ Project "Hog" from UC Berkeley's CS61A is described. The game involves various r
 I will give you a skeleton code and your job will be to fill that.
 Do you understand? Just say YES or NO.
 ```
+
+## Welcome Message
+Welcome! ChatGPT will help you CS61A Summer 2023 "Hog" Project! Please input questions, code or anything else.
+
+
+
+Caution: Do not put the entire project. Put Phase 1, then Phase 2 and so on. Check Example on how to do it! Do not copy paste this code. That is wrong! Talk to GPT and ask questions. Try to learn whats happening/
+
+
+
+This chatbot is trained on the Hog Project. Ask it any questions and understand the concept. Enjoy learning!
 
 ## Conversation
 
@@ -283,5 +294,4 @@ So, we calculate the points that could be gained from the Boar Brawl rule using 
 
 
 The `threshold` is a parameter that can be adjusted to change the risk-taking behavior of the strategy. A higher threshold will make the strategy more conservative, rolling 0 dice only when the potential gain from Boar Brawl is high. A lower threshold will make the strategy more aggressive, more frequently choosing to roll 0 dice to trigger Boar Brawl.
-
 

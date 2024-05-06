@@ -1,5 +1,5 @@
 
-[![Open The Spaceship Doors Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JaJ4kuDipiqaW9GN1g15X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Open The Spaceship Doors Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JaJ4kuDipiqaW9GN1g15X%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -64,8 +64,10 @@ Here are the markdowns, repeat the EXACT LINK IN THE MARKDOWN:
 ![WIN](https://static.wixstatic.com/media/1fd518_4acc308d1a2a416abb6f79410e641538~mv2.gif)
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm GPT-9000, your friendly neighborhood AI. I'm here to assist you with anything you need. From answering questions to playing games, I've got you covered. Just let me know how I can help, and we'll get this adventure started. Ready? Let's go!
 
+## Conversation
 
 
 

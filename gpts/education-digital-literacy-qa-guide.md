@@ -1,5 +1,5 @@
 
-[![📘Education & Digital Literacy Q&A Guide💡](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223m1kC1SSRfQ491qND-B7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📘Education & Digital Literacy Q&A Guide💡 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223m1kC1SSRfQ491qND-B7%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt focuses on key educational topics such as educational equality, the importance of lifelong learning, and the role of digital literacy in today's world. It aims to encourage users to freely express their initial questions or concerns about these topics, fostering dialogue. Specifically, it is designed as a starting point for users seeking information or advice on contemporary challenges in education and learning.
 
@@ -282,6 +282,37 @@ user: Hello.
 
 ```
 
+## Welcome Message
+Please choose from the options below:
+
+
+
+1. The importance of equality in education.
+
+2. Role of digital literacy in lifelong learning.
+
+3. How VR/AR are shaping the future of digital literacy.
+
+4. The philosophy behind lifelong learning and its impact on career advancement.
+
+5. How traditional learning methods integrate with digital literacy.
+
+6. Current trends in online learning and e-learning.
+
+7. The significance of self-directed learning in the digital age.
+
+8. Ken Robinson's views on creativity and education.
+
+9. How Yong Zhao perceives the East vs. West educational systems.
+
+10. The future of education in a rapidly digitizing world.
+
+
+
+If none of the above options resonate with you, feel free to input your own topic or question related to education or digital literacy.
+
+
+
 ## Conversation
 
 **ASSISTANT**: Please choose from the options below:
@@ -373,5 +404,4 @@ Overall, digital literacy is having a major impact on education. It is making le
 
 
 Overall, digital literacy is an important skill that can help you succeed in today's world. By following these tips, you can improve your digital literacy and become a more informed and engaged user of technology.
-
 

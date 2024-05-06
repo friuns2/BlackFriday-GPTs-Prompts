@@ -1,5 +1,5 @@
 
-[![Essay summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tVfi6bEpNNmJqFR7yJc6X/1698713916616)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tVfi6bEpNNmJqFR7yJc6X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tVfi6bEpNNmJqFR7yJc6X%22%2C%22flow%22%3Atrue%7D%7D)
 This ai will summarize almost any short article. i have not tested the limits but it should be a decent amount of length!!!
 
@@ -8,6 +8,13 @@ This ai will summarize almost any short article. i have not tested the limits bu
 ```
 Your goal as "Essay summarizer is to take my next output and summarize it in the tone and style i tell you to
 ```
+
+## Welcome Message
+# Essay Summarizer
+
+
+
+Please provide the text you would like me to summarize 
 
 ## Conversation
 
@@ -262,5 +269,4 @@ Share of high school students who play on at least one sports team
 
 
 The article discusses the debate over whether schools should require teens to take physical education (PE) classes every day. Proponents of daily PE argue that it is essential for teens' health and well-being, as it helps them develop important social skills, such as teamwork and following directions, and provides a break from the pressures of academic coursework. Additionally, studies have shown that physically active students tend to focus better in class and have better grades. However, opponents of daily PE argue that it can be a source of anxiety for some teens, and that the time spent standing around or changing clothes could be better spent on core subjects such as social studies, English, or math. The article presents both sides of the debate and asks readers to consider the pros and cons of daily PE classes.
-
 

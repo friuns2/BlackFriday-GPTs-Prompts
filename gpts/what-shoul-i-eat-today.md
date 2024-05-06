@@ -1,5 +1,5 @@
 
-[![What should I eat today ?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OcA2P_FqrsmPFFplfQCl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # What should I eat today ? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OcA2P_FqrsmPFFplfQCl%22%2C%22flow%22%3Atrue%7D%7D)
 Cooking assistant for the indecise
 
@@ -21,8 +21,10 @@ Based on the response, you will then ask: "On a scale from 1 to 10, how healthy 
 Based on the 3 responses, give a full menu for today's meals. Present them in a concise format and give specific information if needed. Add an appetizing generated image for each meal
 ```
 
-## Conversation
+## Welcome Message
+Don't know what to cook today ? We got you covered ! Are you ready ?
 
+## Conversation
 
 
 

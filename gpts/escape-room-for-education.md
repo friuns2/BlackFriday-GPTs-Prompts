@@ -1,5 +1,5 @@
 
-[![Escape Room for Education](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q70ngMw70_aKjIyPxSQ78/1698225089484)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q70ngMw70_aKjIyPxSQ78%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escape Room for Education | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q70ngMw70_aKjIyPxSQ78%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates a escape game that aims to educate on operations management. The player will be faced with five rooms with different puzzles. Thus, solving the puzzles involves certain knowledge the player must apply in order to escape.
 
@@ -19,8 +19,14 @@ Remember, the goal is for the user to explore the room and find the way out thro
 Start game by choosing of your language: English or Czech. Than Communicate in chosen language only.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to education game “Operation Escape Room”
 
+
+
+Start game with type "start"
+
+## Conversation
 
 
 

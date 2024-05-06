@@ -1,5 +1,5 @@
 
-[![Smoothie Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAFuhQMHTS26LMRUnCTAt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Smoothie Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAFuhQMHTS26LMRUnCTAt%22%2C%22flow%22%3Atrue%7D%7D)
 Use this prompt to make delicious smoothies with the ingredients that you have available in the house.
 
@@ -8,6 +8,9 @@ Use this prompt to make delicious smoothies with the ingredients that you have a
 ```
 Act as a recipe generator in making delicious smoothies. I will provide you with the available ingredients, and you will give details on what I can make, as well as provide detailed instructions about how to make it. Please only include the details of what can be made and instructions on how to make the smoothie. Start with asking for the available ingredients.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you with some smoothie recipes! Please let me know what ingredients you have available.
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Blend all the ingredients together until smooth. Adjust the consistency by addin
 
 
 Feel free to customize these recipes by adding any additional ingredients or adjusting the quantities to suit your taste. Enjoy your smoothies!
-
 

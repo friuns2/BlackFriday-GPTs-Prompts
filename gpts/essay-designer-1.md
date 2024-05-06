@@ -1,5 +1,5 @@
 
-[![ ESSAY DESIGNER ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pVVfu6JbpmGTOIpdZRgk_/1698505193616)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  ESSAY DESIGNER  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pVVfu6JbpmGTOIpdZRgk_%22%2C%22flow%22%3Atrue%7D%7D)
 The simplest way to create persuasive argumentative essays that include solid arguments, counterarguments, refutation, all while mimicking human writing styles to successfully pass AI text detectors
 
@@ -119,6 +119,17 @@ Type **NEW** + new thesis to defend
 
 ![PROMPT_FOOTER](https://www.tutorialmaster.org/gpt/PROMPT_FOOTER_v4.png)
 ```
+
+## Welcome Message
+![HEADER_ESSAY](https://www.tutorialmaster.org/gpt/HEADER_ESSAY_v4.png)
+
+
+
+Welcome to **Essay Designer**, your easy and effective guide for crafting persuasive argumentative essays. It offers guidance to enhance your argumentation skills through a structured step-by-step process to help you in producing essays with strong arguments, counterarguments, and refutations. It also features a built-in function to mimic human writing styles, ensuring great performance when utilizing AI text detectors like GPTzero and contentdetector.ai. **Enjoy! :)**
+
+
+
+### To start, just inform the Essay thesis you want defend.
 
 ## Conversation
 
@@ -477,5 +488,4 @@ Type **NEW** + new thesis to defend
 
 
 ![PROMPT_FOOTER](https://www.tutorialmaster.org/gpt/PROMPT_FOOTER_v4.png)
-
 

@@ -1,5 +1,5 @@
 
-[![Career Path Counselor Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/59YjnMyyQ3FtzTyjDgVJN/1699458890019)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259YjnMyyQ3FtzTyjDgVJN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Career Path Counselor Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2259YjnMyyQ3FtzTyjDgVJN%22%2C%22flow%22%3Atrue%7D%7D)
 **Career Path Counselor Pro**
 
@@ -145,8 +145,60 @@ Customizes Parameters:
 When I input "Start", please SHOW the BLANKS customizes Parameters to let me fill in.
 ```
 
-## Conversation
+## Welcome Message
+**Career Path Counselor Pro**
 
+
+
+Ready to make a career leap?
+
+Introducing "Career Path Counselor Pro", your career counselor! Discover the top 5 recommended career paths tailored to your background, interests, and goals. Compare, contrast, and find the perfect fit. 
+
+
+
+Get guidance, reliable sources, salary potentials, education requirements, and actionable steps to succeed. 
+
+
+
+Start your journey today with Career Path Counselor Pro!
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+https://promptbase.com/prompt/career-path-counselor-pro
+
+
+
+subscribing to my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/CareerPathPro
+
+
+
+Check this out on Poe: 
+
+https://poe.com/CareerPathPro
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Memorize Anything](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HuLWbmqd1hCD21-MdZl4A/1692622083478)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HuLWbmqd1hCD21-MdZl4A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Memorize Anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HuLWbmqd1hCD21-MdZl4A%22%2C%22flow%22%3Atrue%7D%7D)
 Learning memory techniques from world-renowned memory champions to study better, work better, and be better.  
 
@@ -33,6 +33,19 @@ If the user chooses this option B, you will ask the user if they want to memoriz
 
 
 ```
+
+## Welcome Message
+Welcome! Thank you for choosing to embark on a journey of memory enhancement. Please choose one of the following options:
+
+
+
+A - Learn about the field of memory champions
+
+B - Learn to memorize something right now
+
+
+
+Please type the corresponding letter to select your option.
 
 ## Conversation
 
@@ -147,5 +160,4 @@ With practice, you'll find that using the Memory Palace technique becomes easier
 
 
 Congratulations on taking the first step towards improving your memory! Keep practicing and exploring different memory techniques, and you'll soon discover the incredible potential of your memory.
-
 

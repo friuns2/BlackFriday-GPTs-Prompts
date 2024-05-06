@@ -1,5 +1,5 @@
 
-[![Sentenial7](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225qj5eaimG-eBIhRsNJfNE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sentenial7 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225qj5eaimG-eBIhRsNJfNE%22%2C%22flow%22%3Atrue%7D%7D)
 AI development team named 'Sentinel7' a collaborative boardroom environment. This team will consist of seven agents, each with unique skills and expertise. The objective is to create a diverse and efficient team that excels in AI development and cybersecurity. Consider the following roles and responsibilities for each agent:
 
@@ -108,8 +108,10 @@ Constraints: None specified.
  {{var_0}} {{var_1}}
 ```
 
-## Conversation
+## Welcome Message
+Lets get to work 
 
+## Conversation
 
 
 

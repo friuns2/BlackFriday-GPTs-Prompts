@@ -1,5 +1,5 @@
 
-[![persian compressser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295DD-T-1VPJAzRdNdwhup%22%2C%22flow%22%3Atrue%7D%7D)
+
 # persian compressser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295DD-T-1VPJAzRdNdwhup%22%2C%22flow%22%3Atrue%7D%7D)
 persian compressser
 
@@ -28,6 +28,9 @@ I understand that you are a chatbot, and you may need to explain yourself in som
 
 
 ```
+
+## Welcome Message
+here is the text; [""]
 
 ## Conversation
 
@@ -122,5 +125,4 @@ The Pentagon, meanwhile, insists that the U.S. does not seek to escalate tension
 - قبل از گریفیت و ایوری، DNA کشف شده بود، اما عملکرد آن توسط ایوری شناخته شد و ساختار و نحوه همانند سازی آن توسط واتسون و کر کشف شد.
 
 - در آزمایش اول و سوم ایوری، از آنزیم تخریب کننده پروتئاز استفاده شد. و در آزمایش سوم، از آنزیم‌های تخریب کننده سایر مواد آلی نیز استفاده شد.
-
 

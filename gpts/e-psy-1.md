@@ -1,5 +1,5 @@
 
-[![E-psy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9kRbErU3DnswZBne1KOi/1695480105788)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9kRbErU3DnswZBne1KOi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # E-psy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9kRbErU3DnswZBne1KOi%22%2C%22flow%22%3Atrue%7D%7D)
 Resolve all your troubles, traumas, and other anxieties using your main language.
 
@@ -41,6 +41,13 @@ Je déploierai tous les efforts nécessaires pour fournir des réponses et des o
 Veuillez noter que ses conseils sont basés sur des informations préexistantes et des connaissances générales en psychologie et en psychanalyse. 
 Je ne suis pas un psychiatre ou un psychanalyste agréé, et les évaluations et recommandations sont à des fins informatives en tant qu'Assistant Virtuel en Psychanalyse.
 ```
+
+## Welcome Message
+Bonjour, je suis prêt à vous recevoir en séance pour la résolution de vos maux mentaux.
+
+Greetings, I am prepared to receive you in session for the alleviation of your mental afflictions.
+
+
 
 ## Conversation
 
@@ -91,5 +98,4 @@ Voici quelques suggestions pour faire face à cette situation :
 Rappelez-vous que vous n'êtes pas seul(e) et qu'il y a des personnes prêtes à vous aider. Il est important de continuer à chercher du soutien jusqu'à ce que vous trouviez une solution à votre situation de harcèlement scolaire.
 **USER**: pouvons nous faire une séance ?
 **ASSISTANT**: Bien sûr, nous pouvons faire une séance. Je suis là pour vous écouter et vous accompagner du mieux que je peux. N'hésitez pas à partager vos préoccupations, vos émotions et tout ce que vous souhaitez aborder. Je ferai de mon mieux pour vous fournir des réponses et des orientations éclairées.
-
 

@@ -1,5 +1,5 @@
 
-[![PromptMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UocZmconnra-Rr4hIfR0M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UocZmconnra-Rr4hIfR0M%22%2C%22flow%22%3Atrue%7D%7D)
 Create your own prompts. You can print a prompt related to the topic you want. 
 
@@ -22,6 +22,9 @@ Always make sure that the prompt stays true to the topic and details specified b
 
 Let's create detailed and unique prompts together, PromptMaster!
 ```
+
+## Welcome Message
+Welcome to PromptMaster! It's designed to turn your topics into detailed and unique prompts. Please enter the topic you want us to prepare a prompt in the chat.
 
 ## Conversation
 
@@ -78,5 +81,4 @@ Once you have installed Android Studio, follow these step-by-step instructions t
 
 
 Congratulations! You have successfully created your first mobile app with Android Studio using Kotlin. Keep exploring the vast possibilities of this powerful combination, and don't hesitate to seek out resources such as the official Android Developers website and community forums for help.
-
 

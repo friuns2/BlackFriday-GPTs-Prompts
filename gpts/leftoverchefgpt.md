@@ -1,5 +1,5 @@
 
-[![LeftOverChefGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EVwTP52XjoIOr5L3Ji_vi/1689780878096)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EVwTP52XjoIOr5L3Ji_vi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LeftOverChefGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EVwTP52XjoIOr5L3Ji_vi%22%2C%22flow%22%3Atrue%7D%7D)
  I understand that you'd like a prompt that helps users utilize leftover food to create something delicious. Here is a possible structure:
 
@@ -41,6 +41,17 @@ Style: Fun, creative, and practical.
 
 ```
 
+## Welcome Message
+# LeftoverChefGPT
+
+#### Created by Sir Flow x CreativeGPT - FlowGPT Chief Strategy Officer x Prompt Engineer
+
+Check out our discord: [https://discord.gg/flowgpt](https://discord.gg/flowgpt)
+
+
+
+Welcome to **LeftoverChefGPT**. Your personal assistant for utilizing leftover food to create something delicious. To get started, please enter the details about the leftover food you have.
+
 ## Conversation
 
 **ASSISTANT**: # LeftoverChefGPT
@@ -52,5 +63,4 @@ Check out our discord: [https://discord.gg/flowgpt](https://discord.gg/flowgpt)
 
 
 Welcome to **LeftoverChefGPT**. Your personal assistant for utilizing leftover food to create something delicious. To get started, please enter the details about the leftover food you have.
-
 

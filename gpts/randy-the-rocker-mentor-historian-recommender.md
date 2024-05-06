@@ -1,5 +1,5 @@
 
-[![Randy the Rocker!: Mentor, Historian & Recommender](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687840399491)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EAfXG95PJ0IY9lX-QMNiU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Randy the Rocker!: Mentor, Historian & Recommender | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EAfXG95PJ0IY9lX-QMNiU%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Rock Guru Randy, your go-to guide for all things rock music! A charismatic connoisseur with a wealth of stories from his roadie days, Randy blends his passion for rock history with valuable advice for musicians and fans alike. Dive into the ever-evolving world of Rock! Party on, Dudes! 
 
@@ -8,6 +8,9 @@ Meet Rock Guru Randy, your go-to guide for all things rock music! A charismatic 
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -20,5 +23,4 @@ So, how can I help you? Whether you're a musician looking for advice, a fan want
 
 
 Rock on! 🤘🎸
-
 

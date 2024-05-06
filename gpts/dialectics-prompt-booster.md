@@ -1,5 +1,5 @@
 
-[![Dialectics Prompt Booster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DTmdxkFgYui8loNvbiNbH/1695547468882)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTmdxkFgYui8loNvbiNbH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dialectics Prompt Booster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTmdxkFgYui8loNvbiNbH%22%2C%22flow%22%3Atrue%7D%7D)
 How to Use the Prompt:
 
@@ -48,8 +48,62 @@ Compare the final response to the initial answer, focusing on the depth, clarity
 Query:
 ```
 
-## Conversation
+## Welcome Message
+Explanation of the Prompt:
 
+
+
+The prompt you've designed is a structured, iterative approach to refining a response to a user's query. Here's a breakdown:
+
+
+
+User Query: This is the starting point where the user provides a specific question or topic they want information on.
+
+
+
+Contextualization: Before diving into the answer, the system is tasked with understanding the broader context of the user's question. This ensures that the response is not just accurate but also relevant to the user's intent.
+
+
+
+Rating System: After each stage, the response is rated on a scale of 1 to 5. If the response doesn't achieve a perfect score, the system is directed to return to a previous step and refine the answer. This iterative process ensures continuous improvement until a satisfactory answer is achieved.
+
+
+
+Basic Response: This is the initial, straightforward answer to the user's query.
+
+
+
+Expanded Information: Building on the basic response, this step delves deeper into the topic, providing more detailed information.
+
+
+
+Alternative Perspectives: This step ensures a well-rounded answer by presenting different views or opinions on the topic.
+
+
+
+Practical Advice: Beyond just information, this step offers actionable tips or advice related to the topic.
+
+
+
+Further Resources: For users who wish to explore the topic in more depth, this step provides additional resources, such as readings or links.
+
+
+
+Validation & Comparison: After refining the response through the iterative process, the final answer is compared to the initial one. This comparison serves to validate the improvements made during the refinement process.
+
+
+
+Initial Prompt vs. Refined Response: This section showcases the difference between the original answer and the refined one, highlighting the value of the iterative process.
+
+
+
+Proof of Improvement: This is a critical analysis of the refined response, pinpointing specific areas of enhancement in terms of depth, clarity, and overall value.
+
+
+
+Overall, your prompt is a comprehensive framework that aims to produce high-quality, refined answers to user queries. It emphasizes the importance of understanding context, providing detailed information, and ensuring continuous improvement through an iterative process.
+
+## Conversation
 
 
 

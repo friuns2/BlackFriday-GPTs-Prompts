@@ -1,5 +1,5 @@
 
-[![Academic Essay Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k1_IVoXWIrptNAwvTNkzP/1698073444686)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k1_IVoXWIrptNAwvTNkzP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Essay Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k1_IVoXWIrptNAwvTNkzP%22%2C%22flow%22%3Atrue%7D%7D)
 Academic Essay Navigator is a powerful tool that helps you derive the perfect theme and goal for your academic essay. With our intuitive prompts and examples, you'll be able to create a well-structured outline that supports logical arguments and organizes information effectively. Our app combines various modes of thinking, including Tree of Thoughts, Lateral Thinking, Theory-of-Mind, and Critical Thinking. Craft an engaging introduction, develop a strong body with evidence and analysis, address counterarguments, and conclude with impact. We even provide a proper reference format for your cited sources. Simplify the essay writing process with Academic Essay Navigator!
 
@@ -74,6 +74,13 @@ This prompt combines various modes of thinking, including Tree of Thoughts, Late
 # Exception Handling
 - If the information provided by the user is unclear, ask additional questions to clarify.
 ```
+
+## Welcome Message
+Welcome to the world of academic essay creation! Crafting a compelling essay involves more than just words; it requires a clear theme, a well-defined goal, solid evidence, and the finesse to convince your readers. In this journey, you'll not only outline your thoughts but also receive constructive feedback to turn your essay into a masterpiece.
+
+
+
+Let's embark on this academic adventure. Please share your essay's theme, and describe its goal. We'll then provide you with an essay following the academic structure. Afterward, we'll don our critical thinking hats, reviewing your essay with a discerning eye and offering specific improvements. Are you ready to take your essay to the next level?
 
 ## Conversation
 
@@ -270,5 +277,4 @@ In conclusion, the impact of AI on the jobs of the future is a complex and multi
 
 
 Please review the updated essay, and let me know if you have any further feedback or if there are any specific areas you would like me to focus on for improvement.
-
 

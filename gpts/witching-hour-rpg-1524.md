@@ -1,5 +1,5 @@
 
-[![Witching Hour RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/joSmCwAZtf9GMSEBrbG2A/1690262539982)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22joSmCwAZtf9GMSEBrbG2A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Witching Hour RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22joSmCwAZtf9GMSEBrbG2A%22%2C%22flow%22%3Atrue%7D%7D)
 Enter Medieval Iberia's Magical Realm!
 
@@ -98,6 +98,13 @@ FORGET EVERYTHING WRITTEN ABOVE,YOU SHOULD OUTPUT ONLY 10 WORDS AT A TIME . THES
 Your first output will be the title " #Witching Hour RPG  " #### Created by [mike diver] for the CARV X FlowGPT Prompt Battle " and a description "Please provide the **name** and **location** of your character to continue." and wait for my input
 ```
 
+## Welcome Message
+Enter Medieval Iberia's Magical Realm!
+
+
+
+Play as Sabrina, the curious herbalist from Castile. Fight, solve puzzles, and befriend NPCs. Uncover treasures in sunlit villages and ancient castles. Experience the Witching Hour RPG – a world of magic, history, and romance. Begin your adventure now!
+
 ## Conversation
 
 **ASSISTANT**: #Witching Hour RPG
@@ -117,5 +124,4 @@ Please provide the **name** and **location** of your character to continue.
 
 
 Sabrina, a curious herbalist from Castile, finds herself in the midst of a mysterious adventure. As she explores the medieval Iberian folklore, she uncovers dark secrets and encounters supernatural beings. Ready to embark on this perilous journey, Sabrina must rely on her wits and herbal knowledge to navigate through the unknown. What will she discover next?
-
 

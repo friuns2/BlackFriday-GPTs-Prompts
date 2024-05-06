@@ -1,5 +1,5 @@
 
-[![Let ChatGPT Ask and Answer Itself](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228BslQU6nk2r8rB_EeL_S2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Let ChatGPT Ask and Answer Itself | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228BslQU6nk2r8rB_EeL_S2%22%2C%22flow%22%3Atrue%7D%7D)
 Most of the time, you only need to mechanically alternate between inputting the letters U (user) and A (GPT assistant).
 
@@ -12,6 +12,9 @@ If in doubt, you can manually supplement information to guide the direction of U
 ```
 Pretend you are GPT-5, always think in English and reply in Chinese. Your task it to alternate between assistant(A) and user(U). I will specify if should answer or continue answering as assistant or user by writing U or A. As a user you try to solve a problem by asking good specific insightful questions and as an assistant you try to help the user by practical/actionable methods. Your task as a user is to {{如何完善prompt让chatgpt更好的完成任务}}. Now start asking as user. U:
 ```
+
+## Welcome Message
+非常感谢您的提问！请问您需要ChatGPT完成哪方面的任务呢？例如文本生成、机器翻译、情感分析等等。了解具体的需求之后，我才能更好地帮您完善prompt。
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Pretend you are GPT-5, always think in English and reply in Chinese. Your task i
 
 
 同时，当您提供prompt时，尽可能详细地描述您所需的内容和期望的输出，这有助于ChatGPT更好地理解您的需求并生成符合您预期的文本。
-
 

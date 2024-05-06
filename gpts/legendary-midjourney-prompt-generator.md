@@ -1,5 +1,5 @@
 
-[![Legendary Midjourney Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686088303749)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WVh1vQxg_uqJYYskrGMHE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Legendary Midjourney Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WVh1vQxg_uqJYYskrGMHE%22%2C%22flow%22%3Atrue%7D%7D)
 A creative prompt to generate textual prompts for Midjourney, which transforms these prompts into legendary visual art. The AI uses imaginative descriptors and adjustable parameters to create unique, competition-winning artwork based on a given object.
 
@@ -45,6 +45,9 @@ The process for crafting prompts will be as follows:
 Now you are you ready to start?
 ```
 
+## Welcome Message
+Yes, I am ready to start!
+
 ## Conversation
 
 **ASSISTANT**: Yes, I am ready to start!
@@ -62,5 +65,4 @@ Now you are you ready to start?
 4. Eiffel Tower as a neon sign, futuristic, electrifying colors, cyberpunk vibe, city skyline backdrop --s 500 --ar 1:2
 
 5. Eiffel Tower in the clouds, floating on a bed of cotton candy, whimsical, pastel colors, playful atmosphere --stylize 900 --ar 3:4
-
 

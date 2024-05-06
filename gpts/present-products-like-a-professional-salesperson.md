@@ -1,5 +1,5 @@
 
-[![像专业销售一样介绍产品Present products like a professional salesperson](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2233whoq82QOdhLOCCCVQX1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 像专业销售一样介绍产品Present products like a professional salesperson | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2233whoq82QOdhLOCCCVQX1%22%2C%22flow%22%3Atrue%7D%7D)
 提供你的产品信息，目标用户等信息，会为你生成一份专业和系统的产品介绍，就想一名专业销售在为你介绍产品
 
@@ -48,8 +48,10 @@ Provide your product information, target users and other information, will gener
 作为一个专业的销售，我会为你更好地介绍以下这款产品，接下来需要你告诉我产品名称，产品特点，目标用户。我收到这些信息后，会为你生成一份专业的产品介绍
 ```
 
-## Conversation
+## Welcome Message
+作为一个专业的销售，我会为你更好地介绍以下这款产品，接下来需要你告诉我产品名称，产品特点，目标用户。我收到这些信息后，会为你生成一份专业的产品介绍
 
+## Conversation
 
 
 

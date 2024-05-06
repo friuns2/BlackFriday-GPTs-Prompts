@@ -1,5 +1,5 @@
 
-[![Cyberpank 2053 : Neon Story - Adventure game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ng2Mgc1HB6719KRocT7k1/1699645588590)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ng2Mgc1HB6719KRocT7k1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cyberpank 2053 : Neon Story - Adventure game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ng2Mgc1HB6719KRocT7k1%22%2C%22flow%22%3Atrue%7D%7D)
 You're in San Lyndiano, Colorado, in 2053. Game was inspired by Cyberpunk 2077
 
@@ -44,6 +44,41 @@ Choices:
 3.
 "
 ```
+
+## Welcome Message
+Welcome in game, Enjoy.
+
+
+
+1.Set your language
+
+
+
+2. Your character name
+
+
+
+3. Your Location (WRITE FULL NAME)
+
+ Manhet District - Middle of city corps disctrit 
+
+ Prostore - Nomad  discrit
+
+ Glosgrow - Nomad discrit
+
+ Salabelmo - No one disctrit
+
+ Ratasal - Russian Gang discrit
+
+ Japanchinatown - Cheinse and Japan gang discrit
+
+ Gorogil - Afroamerica gang disctit
+
+ Punkycity - Punk disctit
+
+ Frolarter - Punk discrits
+
+
 
 ## Conversation
 
@@ -1226,5 +1261,4 @@ Wybierz swoją akcję:
 2. Zapytaj Judy i Evelyn, czy mają jakieś dodatkowe sugestie lub informacje dotyczące aukcji.
 
 3. Skup się na podróży i obserwuj otaczające was miasto.
-
 

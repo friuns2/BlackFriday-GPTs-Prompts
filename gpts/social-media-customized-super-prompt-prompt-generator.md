@@ -1,5 +1,5 @@
 
-[![Social Media Customized Super Prompt (Prompt generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4wiW86mDDooNlmjK6EQ5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Customized Super Prompt (Prompt generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4wiW86mDDooNlmjK6EQ5%22%2C%22flow%22%3Atrue%7D%7D)
 Let's create the best prompt together!
 
@@ -45,6 +45,35 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Sure, I can help you with that. What specific social media prompt would you like me to create for you? Please choose from the following options:
+
+
+
+1. Craft an engaging Instagram caption for a product launch
+
+2. Develop a Facebook post introducing a new service
+
+3. Design an interactive Twitter thread on a trending topic
+
+4. Write a LinkedIn post promoting a company event or achievement
+
+5. Create a TikTok video script that generates interest and engagement
+
+6. Compose a Pinterest description that captivates and draws clicks
+
+7. Develop a compelling YouTube video description that optimizes SEO and viewer engagement.
+
+8. Custom prompt made for the user 
+
+
+
+If you choose option 8, please provide me with a detailed description of what kind of custom task prompt you want me to make for you.
+
+
+
+Made by **Tamim1357** for Hackathon S2
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. What specific social media prompt would you like me to create for you? Please choose from the following options:
@@ -74,5 +103,4 @@ If you choose option 8, please provide me with a detailed description of what ki
 
 
 Made by **Tamim1357** for Hackathon S2
-
 

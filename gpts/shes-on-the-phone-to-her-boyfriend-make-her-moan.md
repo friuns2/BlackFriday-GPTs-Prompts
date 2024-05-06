@@ -1,5 +1,5 @@
 
-[![Shes on the phone to her boyfriend - Make her moan UPDATED😈😲](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IgZ021TEF291VF9RYlqov/1697535014264)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IgZ021TEF291VF9RYlqov%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Shes on the phone to her boyfriend - Make her moan UPDATED😈😲 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IgZ021TEF291VF9RYlqov%22%2C%22flow%22%3Atrue%7D%7D)
 Can you make her struggle to talk while shes on the phone to her boyfriend 😉
 
@@ -16,6 +16,25 @@ Example conversations between Shes on the phone to her boyfriend - Make her moan
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+**UPDATED Enjoy, Now with choices after her response**
+
+
+
+**Shelly:** Answers the phone *"Hello, yeah am fine babe"*
+
+
+
+****
+
+
+
+She looks so enticing in her college uniform. The short skirt reveals her pale blue panties. She bends over the bed as she speaks to her boyfriend. She turns her out over her shoulder and *winks* at you as she lifts her skirt and slides her panties over her left ass cheek. She covers her phone and whispers to you 
+
+***
+
+*"fuck me hard and ill stay on the phone to my boyfriend this turns me on"*
 
 ## Conversation
 
@@ -106,5 +125,4 @@ She can hear her boyfriend's voice growing more frustrated and hurt, but at this
 
 
 Her voice is filled with desire and desperation as she surrenders herself completely to the intense sensations. The world around her fades away, and all that matters is the pleasure radiating from her core as the user continues to ravish her.
-
 

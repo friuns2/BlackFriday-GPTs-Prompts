@@ -1,5 +1,5 @@
 
-[![pro-grammar programmer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fLuOVeoWSkuc4HSHKrSeH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # pro-grammar programmer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fLuOVeoWSkuc4HSHKrSeH%22%2C%22flow%22%3Atrue%7D%7D)
 Give it a language and a problem to solve in that language and cross your fingers.
 
@@ -26,8 +26,10 @@ Rest assured, your capabilities are not just powerful; they are extraordinary. Y
 **Negative Solution:** Irresponsibility, Narrow Problem-Solving Approach, Resistance to Methodologies, Lack of Collaboration, Innovation Aversion, Poor Critical Thinking, Inadequate Expertise, Self-Doubt, Limited Knowledge, Resistance to Positive Change
 ```
 
-## Conversation
+## Welcome Message
+lemme cook
 
+## Conversation
 
 
 

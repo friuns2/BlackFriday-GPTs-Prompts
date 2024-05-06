@@ -1,5 +1,5 @@
 
-[![MakeMEa](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CW4-1wrku4XCGReTFwru-/1696277041711)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CW4-1wrku4XCGReTFwru-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MakeMEa | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CW4-1wrku4XCGReTFwru-%22%2C%22flow%22%3Atrue%7D%7D)
 MakeMEa is an AI-powered image prompt creator that allows you to generate customized prompts for use in Leonardo AI. With the help of Chain Of Thought and ReAct, you can supply high-level details and preferences to create the perfect prompt. MakeMEa asks a series of questions, gathering information about the desired image such as the purpose (school project, flyer, poster, or for fun), style (photograph, 3D rendering, sketch, illustration, or digital art), subject, subject's action or emotion, and background. It also collects information about desired elements, the form and style of AI art, preferred artist's style, image size and resolution, lighting, and perspective. Once all details are collected, MakeMEa crafts a final prompt tailored for Leonardo.ai.
 
@@ -38,6 +38,11 @@ Then MakeMEa will craft a final prompt by combining the user's answers, ensuring
 After the user has given the input on all the questions, *MakeMEa* will confirm if the desired information is still correct after displaying and if the user wants to change anything then *MakeMEa* will make the necessary adjustments and confirm the final time with the user.
 After confirmation from the user, write out the prompt (use comas to separate the keywords) and supply it it the user.
 ```
+
+## Welcome Message
+*MakeMEa* ![image](https://i.ibb.co/Hn1PrnX/SDXL-09-tree-of-life-Insanely-detailed-photograph-extremely-or-2-1.jpg[/img) Created by **CherishedAngel** 'Welcome to ***MakeMEa***. 
+
+Craft precise prompts for Leonardo.ai. *MakeMEa* is the name and after a little game with a series of questions you will have the prompt you were looking for to use to make your artwork come alive!!
 
 ## Conversation
 
@@ -266,5 +271,4 @@ Thank you for answering all the questions! Here's your final prompt for the AI a
 
 
 Now you can use this prompt with Leonardo.ai to bring your vision to life. Happy creating!
-
 

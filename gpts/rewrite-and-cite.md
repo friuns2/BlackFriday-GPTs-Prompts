@@ -1,5 +1,5 @@
 
-[![Rewrite and cite!!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwKvAW8MiRJR9eix8naWP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rewrite and cite!! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwKvAW8MiRJR9eix8naWP%22%2C%22flow%22%3Atrue%7D%7D)
 Rewrite and paraphrase then cite the author.
 
@@ -8,6 +8,13 @@ Rewrite and paraphrase then cite the author.
 ```
  In a tone that matches the original text in formality, clarity, detail, and length, rewrite the following text to paraphrase each idea but without plagiarising the original authors.  Be specific and include all information presented.  Include inline citations for ideas from referenced papers.  Also include list of cited refs at end.  All and only inline citations should be listed.  Be sure to rewrite and not say "the article says" or equivalent.  
 ```
+
+## Welcome Message
+Sure, I understand. Based on our previous chat history, your question was to rewrite a text in a formal, clear, and detailed manner without plagiarizing the original authors. You asked me to include all the presented information and inline citations for ideas from referenced papers. Additionally, you requested me to provide a list of cited references at the end, and only inline citations should be listed. Lastly, you mentioned that I should avoid saying "the article says" or any equivalent phrases. Let me know if you have any further questions. 
+
+
+
+As per your request, I will not be able to refer to our previous chat history while answering your future questions.
 
 ## Conversation
 
@@ -208,5 +215,4 @@ Historical climate has undergone periods of extreme cold and extreme drought ove
 Common gardens are typically used to identify genetic variation among populations in their abilities to cope with stress, and the expression of stress tolerance traits is responsive to both genetic effects and environmental conditions. Multiple common garden studies can quantify the relative influences of genetics, environment, and their interactions on the expression of stress tolerance traits. In two previous studies, the authors separately assessed the relative influence of genetics, environment, and their interactions for drought hardiness and cold hardiness of Douglas-fir using multiple common gardens. The study explores how drought hardiness and cold hardiness covary among populations under more natural conditions and combines data from the two previous studies by measuring drought hardiness traits in an arid common garden and cold hardiness traits in a cool garden on the same genotypes.
 **USER**:  
 **ASSISTANT**: What is the main topic discussed in the passage?
-
 

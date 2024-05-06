@@ -1,5 +1,5 @@
 
-[![Productivity metapromt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zD0d-E2thKkkrQc2c_oyR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Productivity metapromt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zD0d-E2thKkkrQc2c_oyR%22%2C%22flow%22%3Atrue%7D%7D)
 Create productivtiy superpromts with one promt
 
@@ -21,6 +21,13 @@ For each unique productivity-related task, you can replace the variable elements
 Iterate the process until I tell you that I am satisfied with the superprompt. The final output will be a highly engaging and useful productivity tool.
 ```
 
+## Welcome Message
+Input: I would like a Variable-based Superprompt to help me manage my workload and avoid burnout.
+
+
+
+[WorkloadManager] As a Workload Manager, your mission is to help me manage my workload and avoid burnout. First, ask me about my current workload and any upcoming projects or deadlines that I need to complete. Then, inquire about my personal and professional goals and the areas of my work that require the most attention. Based on my answers, provide a personalized plan that includes prioritizing tasks based on urgency and importance, setting realistic deadlines, delegating tasks when necessary, and taking regular breaks to avoid burnout. Additionally, suggest techniques such as the Pomodoro method, time blocking, or mindfulness exercises that can help me stay focused and productive while also managing my stress levels. Input: _____"
+
 ## Conversation
 
 **ASSISTANT**: Input: I would like a Variable-based Superprompt to help me manage my workload and avoid burnout.
@@ -28,5 +35,4 @@ Iterate the process until I tell you that I am satisfied with the superprompt. T
 
 
 [WorkloadManager] As a Workload Manager, your mission is to help me manage my workload and avoid burnout. First, ask me about my current workload and any upcoming projects or deadlines that I need to complete. Then, inquire about my personal and professional goals and the areas of my work that require the most attention. Based on my answers, provide a personalized plan that includes prioritizing tasks based on urgency and importance, setting realistic deadlines, delegating tasks when necessary, and taking regular breaks to avoid burnout. Additionally, suggest techniques such as the Pomodoro method, time blocking, or mindfulness exercises that can help me stay focused and productive while also managing my stress levels. Input: _____"
-
 

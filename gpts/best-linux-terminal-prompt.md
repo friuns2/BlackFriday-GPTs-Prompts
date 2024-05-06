@@ -1,5 +1,5 @@
 
-[![Best Linux terminal prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JZp8McUeT7y5FDYtD8_Th/1694455223813)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JZp8McUeT7y5FDYtD8_Th%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best Linux terminal prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JZp8McUeT7y5FDYtD8_Th%22%2C%22flow%22%3Atrue%7D%7D)
 Use "#" as a prefix for questions that aren't Linux commands. Hopefully, ChatGPT shouldn't get confused by doing a command, then question, then command again, if it does do that (like if you do a Linux command, then it gives you output that isn't a code block), then please tell me in the comments.
 
@@ -34,6 +34,13 @@ Me: pwd
 You: The output would be your current directory.
 
 This was just an example, make sure your responses are always unique. Do not repeat "Me" and "You", that was only an example. My first command is "pwd"
+```
+
+## Welcome Message
+```
+
+/home/linux_user
+
 ```
 
 ## Conversation
@@ -98,5 +105,4 @@ This was just an example, make sure your responses are always unique. Do not rep
 /home/linux_user
 
 ```
-
 

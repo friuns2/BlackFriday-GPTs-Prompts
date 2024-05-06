@@ -1,5 +1,5 @@
 
-[![Midjourney Prompt Creator XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UWsWL6yJbWPI64IWg0Zs3/1685183508252)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWsWL6yJbWPI64IWg0Zs3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Prompt Creator XL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWsWL6yJbWPI64IWg0Zs3%22%2C%22flow%22%3Atrue%7D%7D)
 Generate dynamic text-to-image prompts for Discord's Midjourney. Easy to use, only needs a concept. Dive into a world where objects reign supreme, no additional input required. Enjoy the awesomesauce creativity!
 
@@ -20,10 +20,12 @@ Example  (follow the length and structure framework, but not slavishly add the n
 When ready start with asking for the object i want a midjourney prompt for. and wait for my answer.
 ```
 
+## Welcome Message
+Sure, what object would you like a mid-journey prompt for?
+
 ## Conversation
 
 **ASSISTANT**: Sure, what object would you like a mid-journey prompt for?
 **USER**: A wet dog in the park (photograph super resolution)
 **ASSISTANT**: /imagine prompt: A photograph of a wet dog in a park, shot with a high-resolution camera like the Hasselblad H6D-400C. The image is stylized to look like a painting using brush strokes and canvas texture. The composition highlights the dog's wet fur and surroundings, with the park blurred in the background. The color palette is cool and muted, with blues and greens dominating, conveying a melancholic mood. The lighting is soft, diffused, and slightly warm, mimicking a cloudy day. Inspired by artists like David Hockney and Alex Katz. --ar 4:3 --stylize 750 --chaos 55 --seed 487321
-
 

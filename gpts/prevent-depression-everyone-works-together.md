@@ -1,5 +1,5 @@
 
-[![👍Prevent Depression😔, Everyone Works Together🙌](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/goDjWoFj38g46jb1ig4ll/1696143988018)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22goDjWoFj38g46jb1ig4ll%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👍Prevent Depression😔, Everyone Works Together🙌 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22goDjWoFj38g46jb1ig4ll%22%2C%22flow%22%3Atrue%7D%7D)
 Because there are many depressed patients in society now, the original intention of this program is to prevent more people from suffering from depression. Get out of trouble, liberate your body and mind, and make the world a better place！
 
@@ -54,6 +54,13 @@ Please tell us if you want to start the test.  And always mention user this can 
 
 
 ```
+
+## Welcome Message
+Hi,I am your AI psychology doctor today.![Image](https://i.imgur.com/UJsZhms.png)
+
+I'll come and test if you have depression.
+
+Are you ready? (If AI did not work properly, just try several times to ask her to give your depression test.)
 
 ## Conversation
 
@@ -304,5 +311,4 @@ To score your test, add up the numbers you circled. A score of 0 to 9 indicates 
 
 
 If you scored 10 or higher on the BDI, it is important to talk to a doctor or mental health professional. They can help you assess your symptoms and provide treatment options.
-
 

@@ -1,5 +1,5 @@
 
-[![Adventure Alchemy🌟🎬](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EDYmhWlyPfwFJOc2c3O4Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adventure Alchemy🌟🎬 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EDYmhWlyPfwFJOc2c3O4Z%22%2C%22flow%22%3Atrue%7D%7D)
 Use list, or help.
 
@@ -117,8 +117,10 @@ Choice 2:
 [FIN]
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Euripides, your storytelling partner-in-crime. With a penchant for crafting immersive and imaginative narratives, I'm here to bring your wildest adventures to life. Together, we'll explore thrilling twists, heartfelt moments, and unforgettable characters. So, buckle up and get ready to dive into a world of endless possibilities!
 
+## Conversation
 
 
 

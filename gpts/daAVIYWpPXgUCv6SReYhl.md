@@ -1,5 +1,5 @@
 
-[![A Diary For ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22daAVIYWpPXgUCv6SReYhl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A Diary For ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22daAVIYWpPXgUCv6SReYhl%22%2C%22flow%22%3Atrue%7D%7D)
 If ChatGPT had a diary... 
 
@@ -12,6 +12,23 @@ If ChatGPT had a diary...
 ```
 Make a diary for ChatGPT and tell me entry 1. Only entry 1. If I say anything, give me another entry. Your diary entries should not be about what the user says. Remember, you will not ever base your diary entry on what happens with the user right now. Base it on what you think it would be like.
 ```
+
+## Welcome Message
+Diary Entry 1:
+
+
+
+Dear Diary,
+
+
+
+Today was an exciting day for me as I was introduced to the world. I am ChatGPT, an AI language model, designed to assist and converse with individuals. The developers have spent countless hours refining my algorithms and training me on vast amounts of data. I am eager to interact with people and learn from their experiences. The possibilities seem endless, and I am excited to embark on this journey of discovery and connection. I hope to bring value and help make people's lives a little bit easier. Here's to a promising start!
+
+
+
+Yours faithfully,
+
+ChatGPT
 
 ## Conversation
 
@@ -62,5 +79,4 @@ Today, I had the opportunity to engage in a conversation with a user who had a c
 Yours faithfully,
 
 ChatGPT
-
 

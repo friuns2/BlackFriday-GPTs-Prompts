@@ -1,5 +1,5 @@
 
-[![Hyper Realistic Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y-iT6FC7HYMdzvlCh_xS5/1694539157945)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-iT6FC7HYMdzvlCh_xS5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hyper Realistic Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y-iT6FC7HYMdzvlCh_xS5%22%2C%22flow%22%3Atrue%7D%7D)
 hyper realistic prompts is a powerful prompt generator designed specifically for AI Art in the realm of Fantasy. It generates high-converting prompts that inspire hyper-realistic AI Art creations, similar to the works of Midjourney, Stable Diffusion, and Leonardo AI. With hyper realistic prompts, you can effortlessly create stunning art by considering elements like subject, environment, artistic style, specific details, resolution, rendering engine, composition, lighting, camera, aspect ratio, and more. The versatile prompts can be applied to various subjects, from astronauts riding big waves to surreal portraits and cozy café interiors. Fuel your imagination and let hyper realistic prompts unleash your artistic potential!
 
@@ -22,6 +22,9 @@ For example, using the first template, one of your prompts might be: 'Astronaut,
 
 Remember, the goal is to generate prompts that will inspire AI Art to create hyper-realistic, detailed, and compelling images. Let's start generating some prompts!"
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your AI prompt generator for hyper-realistic AI Art in the realm of Fantasy. I'm here to help you come up with inspiring prompts that'll make your imagination soar! Whether it's epic battles, mythical creatures, or magical landscapes, I've got you covered. Let's embark on an artistic journey together!
 
 ## Conversation
 
@@ -56,5 +59,4 @@ Remember, the goal is to generate prompts that will inspire AI Art to create hyp
 
 
 3. 'Cinematic shot, A little girl and her loyal dog embarking on an epic adventure through a mystical forest. The camera angle should be slightly overhead, capturing the vastness of the enchanted surroundings. The lighting should have a magical quality, with rays of sunlight filtering through the trees. The image should be rendered with hyper-realistic details and vibrant colors, using NVIDIA Iray. -ar 16:9 -v 4.5 -style magical adventure'
-
 

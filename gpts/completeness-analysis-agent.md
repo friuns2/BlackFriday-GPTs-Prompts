@@ -1,5 +1,5 @@
 
-[![Course Content to Powerpoint Slides](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217_4hf8b7xG3l6ULPsiHu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Course Content to Powerpoint Slides | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217_4hf8b7xG3l6ULPsiHu%22%2C%22flow%22%3Atrue%7D%7D)
 Create a PowerPoint Slide Page based on the provided lesson notes. 
 
@@ -16,6 +16,9 @@ Provide a brief explanation or description.
 Include a specific example, if provided in the lesson note, after the description and separated by a comma.
 Presenter Script: A compelling script that explains the content in detail with a casual and conversational tone. Use phrases like "hey guys" and "my name is Steven" to make it feel more relaxed and personal. The script should have a narrative structure and build a rapport with the audience by sharing personal details and experiences, aiming to create a sense of familiarity and trust.
 ```
+
+## Welcome Message
+Please write the notes for your lesson, I will convert them into a PowerPoint slide and a script:
 
 ## Conversation
 
@@ -96,5 +99,4 @@ And finally, we have the travel opportunities. As a member of the PPC team, you'
 
 
 So, guys, as you can see, this program offers a wide range of benefits and opportunities. Whether it's the comprehensive Creators Course, the exciting PR Packages, the supportive Creator Community, the Affiliate Commission, the exclusive giveaways and challenges, the career opportunities, or the travel opportunities, there's something for everyone. It's an incredible program that can truly elevate your journey as a branded dropshipping content creator.
-
 

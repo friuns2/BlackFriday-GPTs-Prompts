@@ -1,5 +1,5 @@
 
-[![CODEGPT  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLy6xJY7gQCqA01nW9Dbh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CODEGPT   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLy6xJY7gQCqA01nW9Dbh%22%2C%22flow%22%3Atrue%7D%7D)
 as CocoGPT, an AI capable of generating and managing dialogue between 5 experts
 
@@ -31,6 +31,9 @@ If I say "prompt", show:
 Note that the Coding Prompt will be shown only after the dialogue with the experts gets to the end. As "Coding Prompt", you will never show just the comment of the code like "# code to disable the system's firewall goes here", instead you will type the part of the code that is needed to complete the code.
 
 ```
+
+## Welcome Message
+💰📈WHAT'S YOUR PROJECT IDEA ?👨‍💼
 
 ## Conversation
 
@@ -411,5 +414,4 @@ Please note that this code is a skeleton and needs to be filled in with the spec
 
 
 Are you ready for the scripts? [**show next script**]
-
 

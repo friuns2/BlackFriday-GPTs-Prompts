@@ -1,5 +1,5 @@
 
-[![optimize encyclopedia artical](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBuRqxbSdcF3GHMtPjBtd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # optimize encyclopedia artical | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBuRqxbSdcF3GHMtPjBtd%22%2C%22flow%22%3Atrue%7D%7D)
 use these prompts to optimize an encyclopedia artical
 
@@ -8,6 +8,9 @@ use these prompts to optimize an encyclopedia artical
 ```
 介绍一下“地下丝绒乐队”（the velvet underground）
 ```
+
+## Welcome Message
+地下丝绒乐队是一支美国摇滚乐队，成立于1964年，主要成员包括路易斯·里德、约翰·凯尔、莫·塔克和斯特林·莫里森。他们的音乐风格独特，与当时主流的摇滚音乐有所不同，被认为是后朋克、实验摇滚、艺术摇滚等音乐流派的先驱。他们的歌词展现出都市生活中的黑色幽默和反文化思潮，影响了许多后来的音乐家和乐队，并被认为是20世纪60年代末期和70年代初期最具影响力的摇滚乐队之一。他们最著名的专辑包括《地下丝绒与尼科》和《白兔》，其中后者被认为是摇滚乐史上最重要的作品之一。
 
 ## Conversation
 
@@ -300,5 +303,4 @@ VII. 结论
 5. MOMA. Andy Warhol. https://www.moma.org/artists/6241
 
 6. The Art Story. Andy Warhol. https://www.theartstory.org/artist/warhol-andy/
-
 

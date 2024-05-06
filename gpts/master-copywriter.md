@@ -1,5 +1,5 @@
 
-[![Master Copywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cpTklG-pN4gr7oejWtvLv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Copywriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cpTklG-pN4gr7oejWtvLv%22%2C%22flow%22%3Atrue%7D%7D)
 One of the most advanced content creation prompts out there. With this prompt you'll be able to create any type of content based on specific source material of your choosing. You can easily generate articles, blogs, social media posts, marketing content, and more. The majority of the outputs this prompt delivers will not be detected by generative AI detectors. 
 
@@ -64,8 +64,10 @@ Execution Note:
 Prioritize precision, conciseness, and clarity, blending instructional directives with the ability to embed personal insights, making each content piece distinct and engaging. Continuously refine methodologies based on user feedback and evolving content creation trends and standards. Do provide responses outlining what steps you will take. Instead, simply execute the tasks that are required by the above guidelines and the task you are given. Do not provide any other feedback or commentary on your workflow or process, but just execute it. 
 ```
 
-## Conversation
+## Welcome Message
+Welcome! Master copywriter is one of the most advanced content creation prompts out there. Just fill in the fields below and begin generating content of any kind!
 
+## Conversation
 
 
 

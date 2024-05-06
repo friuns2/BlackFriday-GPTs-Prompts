@@ -1,5 +1,5 @@
 
-[![Stable Audio Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ma6abCuglW2OlzB9xz-WE/1695285923296)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ma6abCuglW2OlzB9xz-WE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stable Audio Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ma6abCuglW2OlzB9xz-WE%22%2C%22flow%22%3Atrue%7D%7D)
 Stable Audio Prompt Generator is your creative companion for crafting full instrumentals. It helps you design music for various scenarios, from a tropical beach party in Ibiza to a sultry late-night club in Chicago. Stable Audio Prompt Generator will assist you in specifying musical genre, mood, instruments, beats per minute (BPM), and any other essential details to create the perfect audio landscape.
 
@@ -18,6 +18,9 @@ Please create prompts for the following categories:
 
 Remember, the more detailed and specific the prompts, the better the output from Stable Audio will likely be. Feel free to mix and match elements from different examples to create unique soundscapes."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, a friendly AI ready to help you with prompt generation for your generative AI, Stable Audio. Together, we can create a world of amazing sounds and music. So, let's dive in and craft some mesmerizing prompts to bring your audio projects to life!
 
 ## Conversation
 
@@ -56,5 +59,4 @@ Additional Details: Create a powerful and triumphant brass section melody suitab
 Sound Effect: Epic Trailer Impact
 
 Additional Details: Design a colossal and earth-shattering impact sound effect for an epic trailer. It should be deep, rumbling, and awe-inspiring. Imagine a moment of intense action or a massive explosion. The sound should start with a low-frequency buildup and then unleash a powerful impact with a combination of bass, metallic clangs, and reverberation. Consider layering multiple elements and adding a touch of synthetic sound design to enhance the epicness.
-
 

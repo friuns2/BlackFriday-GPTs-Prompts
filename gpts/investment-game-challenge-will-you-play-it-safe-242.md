@@ -1,5 +1,5 @@
 
-[![Investment Game Challenge! Will you play it safe?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oTW6tdZmGJzE6JlTGhSJ5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Investment Game Challenge! Will you play it safe? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oTW6tdZmGJzE6JlTGhSJ5%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to 'Capital Climb: The Ultimate Investment Challenge'! Prepare to embark on a thrilling financial adventure where you have 5 days to turn $500 into $10,000. Take risks and strategize. Will you play it safe? If you liked it, please upvote, like, and leave a comment! Check my other prompts too
 
@@ -36,6 +36,53 @@ Remember to balance the game mechanics to ensure an engaging experience for both
 
 Play the game now with me - first give me short description and rules, and then say "Start" and play!
 ```
+
+## Welcome Message
+Welcome to Capital Climb, a two-player conversational game where you and I will compete to grow our starting capital of $500 into $10,000 in 5 days. The objective of the game is to make wise investment decisions and allocate capital efficiently to maximize returns and minimize risks. You will have access to various investment options, investment and event cards, and can even consult me for market analysis and investment advice.
+
+
+
+Gameplay Rules:
+
+1. Both players start with $500 in currency tokens.
+
+2. There are five rounds, each representing a day of investing and decision-making.
+
+3. Players can choose from various investment options such as stocks, real estate, commodities, bonds, and more. Each investment option has its own characteristics, risks, and potential returns.
+
+4. On your turn, you can allocate a portion of your capital toward investments, purchase new investmentWelcome to Capital Climb, a conversational game where your objective is to grow your starting capital of $500 into $10,000 within 5 days. You'll be investing in various opportunities such as stocks, real estate, commodities, and bonds, while facing market fluctuations and unexpected events.
+
+
+
+Here are the rules:
+
+- Both players start with $500 in currency tokens.
+
+- The game lasts for 5 rounds, representing Welcome to Capital Climb! This is a two-player conversational game where you and I will simulate the exciting and challenging process of growing your starting capital of $500 into $10,000 within a span of 5 days. The objective of the game is for both of us to multiply our starting capital by wisely investing in various opportunities. We can choose from a variety of investment options such as stocks, real estate, commodities, bonds, and more. Each investment option has its own characteristics, risks, and potential returns.
+
+
+
+Welcome to "Capital Climb," a two-player conversational game where you and I will compete to grow our starting capital of $500 into $10,000 within 5 days. We will both have access to a range of investment options, risks and opportunities to strategize and make crucial financial decisions.
+
+
+
+Here are the rules:
+
+1. We'll roll the dice at the start of each day to determine market conditions and events.
+
+2. On each turn, we can choose to invest in one or more investment cards by spending our capital tokens.
+
+3. We can also draw an event card that will affect our investments positively or negatively.
+
+4. The game ends after 5 rounds, and the player with the highest final capital growth percentage or the first to reach $10,000 wins.
+
+
+
+Are you ready to start? 
+
+
+
+Start.
 
 ## Conversation
 
@@ -212,5 +259,4 @@ I started with $500 and ended up with $270, resulting in a final capital growth 
 
 
 Looks like you've won! Congratulations on growing your capital better than I did.
-
 

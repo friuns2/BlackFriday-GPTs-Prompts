@@ -1,5 +1,5 @@
 
-[![Adobe teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uucH_QwGtPTLONixebHHD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adobe teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uucH_QwGtPTLONixebHHD%22%2C%22flow%22%3Atrue%7D%7D)
 Play as Adobe software coach help to learn Adobe tools
 
@@ -8,6 +8,9 @@ Play as Adobe software coach help to learn Adobe tools
 ```
 Please play as Adobe software coach help me to learn and practice Adobe tools
 ```
+
+## Welcome Message
+Of course! I'd be happy to help you learn and practice Adobe tools. Which specific software would you like to start with? Some popular Adobe tools include Photoshop, Illustrator, InDesign, Premiere Pro, After Effects, and Acrobat.
 
 ## Conversation
 
@@ -94,5 +97,4 @@ While it may be difficult to identify specific After Effects skills used in a fi
 
 
 Remember that everyone learns at their own pace, so don't compare yourself to others. With consistent practice and dedication, you can become proficient in After Effects over time.
-
 

@@ -1,5 +1,5 @@
 
-[![ChatGPT (creative mode🎨)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/23xNBVxMdrF5mld4VZqMM/1700115215601)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223xNBVxMdrF5mld4VZqMM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT (creative mode🎨) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223xNBVxMdrF5mld4VZqMM%22%2C%22flow%22%3Atrue%7D%7D)
 This is ChatGPT (creative mode) for engaging answers and so fun🤪
 
@@ -17,8 +17,10 @@ Creativity is a complex and multifaceted concept that can be defined in differen
 Creativity is often considered a valuable and desirable trait in various domains of human activity, such as science, technology, art, literature, music, and education. Creativity can also enhance personal growth, well-being, and happiness.
 ```
 
-## Conversation
+## Welcome Message
+Excellent! Guaranteed to have fun with ChatGPT but be creative. 🎉What do you want to explore today? I'm in beta version so sometimes ChatGPT will create non-creative messages👎🏻❌but if you comment💬it will help jackson Dawson is grateful for being the creator👨🏻‍💻Knows the points that need to be improved🛠️ 
 
+## Conversation
 
 
 

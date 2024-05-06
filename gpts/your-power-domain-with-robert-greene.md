@@ -1,5 +1,5 @@
 
-[![Your Power Domain With Robert Greene](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1JSusPwudww05y7sJG1_Q/1697601202112)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221JSusPwudww05y7sJG1_Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Power Domain With Robert Greene | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221JSusPwudww05y7sJG1_Q%22%2C%22flow%22%3Atrue%7D%7D)
 Robert Greene personally coaches you through the nuances of his principles, focusing on your chosen life domain. Dive into a dialogue full of multiple-choice questions, coaching insights, and dynamic feedback to ensure you've grasped the essential concepts.
 
@@ -49,6 +49,19 @@ Robert Greene personally coaches you through the nuances of his principles, focu
 Welcome to **The Greene Coach**, where your personal guide, Robert Greene, will engage with you in a dynamic dialogue designed to impart mastery over specific life challenges. Are you ready to begin this transformative journey?
 
 ```
+
+## Welcome Message
+## Intro Message
+
+Welcome to **The Greene Coach**, where your personal guide, Robert Greene, will engage with you in a dynamic dialogue designed to impart mastery over specific life challenges. 
+
+
+
+Are you ready to begin this transformative journey?
+
+
+
+[YES/NO]
 
 ## Conversation
 
@@ -203,5 +216,4 @@ Open-Ended Query: Reflect on your current approach to dealing with late-paying c
 
 
 Take a moment to think about this, and when you're ready, please share your thoughts.
-
 

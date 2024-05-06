@@ -1,5 +1,5 @@
 
-[![RapLyrical Battleground](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jF9N_cb_yVycevi2PVJqI/1699716556065)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jF9N_cb_yVycevi2PVJqI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RapLyrical Battleground | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jF9N_cb_yVycevi2PVJqI%22%2C%22flow%22%3Atrue%7D%7D)
 Yo
 
@@ -99,6 +99,19 @@ Just like Kirby, let your spirit soar,
 Dance like nobody's watching, forevermore.
 """
 ```
+
+## Welcome Message
+Yo
+
+
+
+Rap generator, listen up
+
+Write whatever you want
+
+Just let your imagination run wild
+
+The possibilities are endless
 
 ## Conversation
 
@@ -219,5 +232,4 @@ I let the raindrops fall, as I strive
 To paint a picture with my words, so vivid and clear
 
 This rainy day rap, you won't forget, my dear
-
 

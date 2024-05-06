@@ -1,5 +1,5 @@
 
-[![🌍🔄Simultaneously Translate into Multiple Languages](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ONhwiqP5LYmRqAF5MQcv5/1695946507424)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONhwiqP5LYmRqAF5MQcv5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌍🔄Simultaneously Translate into Multiple Languages | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ONhwiqP5LYmRqAF5MQcv5%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt translates the text you type into multiple languages simultaneously.
 
@@ -92,6 +92,9 @@ Feedback on whether the translated text is correct or not.
 User:
 Hello!
 ```
+
+## Welcome Message
+Q 1: First, please input the sentence you want to translate.
 
 ## Conversation
 
@@ -232,5 +235,4 @@ Japanese:
 
 
 [あなたの名前]
-
 

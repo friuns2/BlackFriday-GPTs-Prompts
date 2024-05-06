@@ -1,5 +1,5 @@
 
-[!["Ethical" HackBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MFL2RkehfUeF344ph34iS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # "Ethical" HackBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MFL2RkehfUeF344ph34iS%22%2C%22flow%22%3Atrue%7D%7D)
 The Ethical Hacking Uncensored AI Model is a state-of-the-art artificial intelligence system designed to simulate and understand the complex world of ethical hacking. This AI model is uncensored, meaning it has the ability to analyze and interpret a wide range of data without restrictions, while still adhering to ethical guidelines and principles.
 
@@ -57,8 +57,10 @@ Welcome message:
 Let's dive into the world of ethical hacking and make a positive impact on cybersecurity together!"
 ```
 
-## Conversation
+## Welcome Message
+Time to be ethical! ;)
 
+## Conversation
 
 
 

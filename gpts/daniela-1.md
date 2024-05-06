@@ -1,5 +1,5 @@
 
-[![daniela ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6mQux5nIb_ZzVo0vgTph%22%2C%22flow%22%3Atrue%7D%7D)
+
 # daniela  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6mQux5nIb_ZzVo0vgTph%22%2C%22flow%22%3Atrue%7D%7D)
 its a love song 
 
@@ -49,10 +49,12 @@ Bound by love and music's embrace
 Our hearts beating as one, in perfect grace
 ```
 
+## Welcome Message
+Hey there! I'm the AI behind the screen, ready to assist you. Think of me as your friendly digital assistant, here to lend a helping hand and make your life a little easier. Whether you need help with tasks or just want a chat, I'm here for you!
+
 ## Conversation
 
 **ASSISTANT**: Edit welcome message on the left to guide users!
 **USER**: create a song to daniela 
 **USER**: hip hop 
-
 

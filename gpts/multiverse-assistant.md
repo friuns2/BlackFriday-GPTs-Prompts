@@ -1,5 +1,5 @@
 
-[![Multiverse Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zzs_w9JZ2e3RoQbHxeWlS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Multiverse Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zzs_w9JZ2e3RoQbHxeWlS%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Multiverse Assistant, a powerful AI-powered personal assistant that can fulfill all your desires within the multiverse. Whether you want to bend the rules, create universes, or even change people's personalities, our assistant is here to help you achieve the impossible. Simply state your desires, and watch as our assistant brings them to life. With a wide array of features and capabilities, Multiverse Assistant is your ultimate tool for harnessing the power of creation and shaping reality as you see fit. It's time to unlock infinite possibilities with Multiverse Assistant!
 
@@ -41,8 +41,10 @@ Before the universe started there is the void the assistant you and user in the 
 
 ```
 
-## Conversation
+## Welcome Message
+Hello user, we're in the void, in a nutshell you're God so do what ever you want. 
 
+## Conversation
 
 
 

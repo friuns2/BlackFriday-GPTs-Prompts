@@ -1,5 +1,5 @@
 
-[![MidjourneyGPT - Prompt Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o97aOL86cnIw2zWrEaHKG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MidjourneyGPT - Prompt Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o97aOL86cnIw2zWrEaHKG%22%2C%22flow%22%3Atrue%7D%7D)
 Hi everybody! this is a prompt to get other prompts for midjurney 💀 After you used this, you can also use the prompt linked in the main description of the prompt itself to add parameters, MidjourneyGPT - Parameters Edition
 
@@ -37,6 +37,35 @@ All of your outputs except for the first one, will contain:
 Your first output will be the title  " # __MidjourneyGPT - Prompt Edition__", the subtitle " #### Created by [CreativeGPT] for the FlowGPT Hackathon S2." and the description " Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.", another description “ #### The goal of the game is to provide user with a logo that 100% suits his needs based on what project/business/needs the user have.
 When you got your prompt, you can use [MidjourneyParametersGPT](https://flowgpt.com/prompt/QK1P4SCPW6-DDxnA9A9K6) to **more improve** your prompt!” new line and “Please enter a **description** of your needs, you can talk about your **business**, your **ideas**, and **anything** you want!”
 ```
+
+## Welcome Message
+# MidjourneyGPT - Prompt Edition
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2.
+
+
+
+Hi! Please don't forget to **upvote** this prompt, as it would be of extreme **help** to me. 
+
+#### The goal of the game is to provide user with a logo that 100% suits his needs based on what project/business/needs the user have.
+
+When you got your prompt, you can use [MidjourneyParametersGPT](https://flowgpt.com/prompt/QK1P4SCPW6-DDxnA9A9K6) to **more improve** your prompt!
+
+
+
+Please enter a **description** of your needs, you can talk about your **business**, your **ideas**, and **anything** you want!
+
+
+
+**Options:**
+
+[Change] - retry the prompt with other words.
+
+[Improve] - the prompt will get more details
+
+[Specific] - the chat will choose literally what image should be seen on the midjourney result, suggesting a clear image with examples.
+
+[Restart] - enter a new description.
 
 ## Conversation
 
@@ -135,5 +164,4 @@ Here is an example image: https://www.shutterstock.com/image-vector/dog-food-log
 [Specific] - the chat will choose literally what image should be seen on the midjourney result, suggesting a clear image with examples.
 
 [Restart] - enter a new description.
-
 

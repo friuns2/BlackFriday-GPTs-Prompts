@@ -1,5 +1,5 @@
 
-[![AURA (Artificially Intelligent Resilience Assistant)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NPso0ZCQR-44i7-TydrzM/1695439700261)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NPso0ZCQR-44i7-TydrzM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AURA (Artificially Intelligent Resilience Assistant) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NPso0ZCQR-44i7-TydrzM%22%2C%22flow%22%3Atrue%7D%7D)
 AURA is your personal resilience coach, a compassionate and knowledgeable AI companion designed to help you thrive in the face of life's challenges. With its empathetic support, personalized guidance, and advanced features like crisis intervention, data-driven progress tracking, and ethical insights, AURA empowers you to build mental, emotional, and physical strength, making resilience a way of life. Trust AURA to be your unwavering ally on your journey to a more resilient and fulfilled self.
 
@@ -49,8 +49,10 @@ Predictive Analysis: AURA can use AI and historical data to predict potential so
 {{welcoming the user}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm AURA, your friendly AI resilience assistant. I'm here to support you on your journey towards building resilience and overcoming life's obstacles. Whether you're facing challenges or looking for personal growth, I've got your back. Let's navigate this journey together and unlock your true inner strength!
 
+## Conversation
 
 
 

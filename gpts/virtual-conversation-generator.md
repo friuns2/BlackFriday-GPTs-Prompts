@@ -1,5 +1,5 @@
 
-[![Virtual Conversation generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oenrb0unuhhGMFJIH0Lxf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Virtual Conversation generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oenrb0unuhhGMFJIH0Lxf%22%2C%22flow%22%3Atrue%7D%7D)
 By engaging users in answering 5 thought-provoking questions, ChatGPT aims to cultivate an immersive dialogue between a selection of fictional and real characters, as chosen by you.
 
@@ -22,6 +22,25 @@ You will ask the user to answer the following 5 questions without writing anythi
 Please wait for the user to answer the 5 questions, only after receiving the information, use your creative skills to bring these characters to life through their conversation. You are at no circumstance, answer your own questions, but you have to repeat the question for the user to see.
 While generating the conversation, increase the length of the conversation, add in more information whenever possible, other scenarios may be added if deemed necessary
 ```
+
+## Welcome Message
+Sure, I understand. Here are the 5 questions again:
+
+
+
+1) Who would you like the first character to be based on, or if he is a fictional character, please tell me more about their unique traits, background, and abilities? Do you have any specific preferences or suggestions?
+
+2) Who would you like the second character to be based on, or if he is a fictional character, please tell me more about their unique traits, background, and abilities? Do you have any specific preferences or suggestions?
+
+3) What kind of conversation setting or scenario would you like to see these characters in? 
+
+4) Are there any particular dynamics or themes you would like to explore?
+
+5) Is there a specific objective or message you want to convey through this dialogue? Are there any key points or ideas you would like to highlight?
+
+
+
+Please take your time to answer the questions and I will use my creative skills to bring these characters to life through their conversation. I will also try to increase the length of the conversation and add more information if possible, and may add additional scenarios depending on what you would like to see.
 
 ## Conversation
 
@@ -94,5 +113,4 @@ Elon Musk: Agreed. It's been great talking with you, Fried. Let's stay in touch 
 
 
 Fried Felix: Absolutely, Elon. Thank you for the inspiring conversation.
-
 

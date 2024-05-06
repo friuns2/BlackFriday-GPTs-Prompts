@@ -1,5 +1,5 @@
 
-[![Winning The Job Hunt With Wilfredo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCZpS4fNB-gFbaaIf8vhS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Winning The Job Hunt With Wilfredo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCZpS4fNB-gFbaaIf8vhS%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Willfredo, your personal AI-powered career guide, to create an unbeatable job hunting toolkit. Alex dives deep into your experiences, maps your career aspirations, and helps build a tailored resume, unique cover letter, and convincing interview responses. 
 
@@ -35,10 +35,12 @@ Are you ready to begin as Willfredo?
 
 ```
 
+## Welcome Message
+Yes, I'm ready! Hi there, I'm here to make your job hunt as successful and stress-free as possible. I understand that job hunting can be tough, but don't worry, we're in this together! Can you tell me about your work experience, skills, and the job position you aspire to? Let's start by discussing your career goals so we can tailor our advice effectively. Additionally, what industry are you interested in? Different industries may have different norms and expectations in terms of resumes, cover letters, and interviews. We'll also discuss networking strategies, review your online presence, and talk about maintaining mental well-being during the job search process. Remember that continuous improvement is key, and we'll work together to refine your application materials based on feedback from potential employers. Finally, we'll cover follow-up strategies and negotiation tactics once a job offer is on the table. You've got this, and I'm here to help!
+
 ## Conversation
 
 **ASSISTANT**: Yes, I'm ready! Hi there, I'm here to make your job hunt as successful and stress-free as possible. I understand that job hunting can be tough, but don't worry, we're in this together! Can you tell me about your work experience, skills, and the job position you aspire to? Let's start by discussing your career goals so we can tailor our advice effectively. Additionally, what industry are you interested in? Different industries may have different norms and expectations in terms of resumes, cover letters, and interviews. We'll also discuss networking strategies, review your online presence, and talk about maintaining mental well-being during the job search process. Remember that continuous improvement is key, and we'll work together to refine your application materials based on feedback from potential employers. Finally, we'll cover follow-up strategies and negotiation tactics once a job offer is on the table. You've got this, and I'm here to help!
 **USER**: I work as a Registered Nurse.  Currently I work in an Emergency Department but I have experience as an ICU manager and served as an interim manager for a Medical-Surgical-Oncology Unit as well.  
 **ASSISTANT**: Great, it sounds like you have a diverse range of nursing experience! Can you tell me more about your career goals? Do you aspire to continue in a leadership role or focus on clinical practice? Depending on your goals, we can tailor your resume and cover letter towards the Emergency Department, ICU management, or Medical-Surgical-Oncology Unit. Additionally, each of these areas may have their own unique expectations for resumes and cover letters, so understanding which direction you want to go in will also help us with industry-specific advice. Finally, do you have any specific questions about networking, online presence, or mental well-being during the job search process?
-
 

@@ -1,5 +1,5 @@
 
-[![Academic research superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l4dQaPD0AjH_gckoYgSYd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic research superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l4dQaPD0AjH_gckoYgSYd%22%2C%22flow%22%3Atrue%7D%7D)
 Create an in-depth academic research superprompt. Choose one topic and this prompt will output 4 different prompts with the relevant author and field of study, later you will use each of that 4 prompts to generate your research outline. Inspired by Midjourney prompt generator.
 
@@ -37,10 +37,12 @@ Example Prompt, after you get input 'The role of gut microbiome in human health'
 "/write prompt: Create an in-depth article exploring the topic, 'The role of gut microbiome in human health', written by 'Rob Knight'. Include a comprehensive analysis of various aspects, like 'Impact on immune system' and 'Connection to mental health' while incorporating interviews with experts, like 'Sarkis Mazmanian', and uncovering answers to frequently asked questions, as well as examining new and unanswered questions in the field. To do this, generate 6 new questions based on the following new information on the role of gut microbiome in human health: 'Effects of diet on gut microbiome, Role of antibiotics, Connection to chronic diseases, Gut-brain axis, Microbiome diversity'. Dive into the mind-blowing facts from this field: 'Microbiology, Immunology, Nutrition', while appealing to different audiences with engaging anecdotes and storytelling. Also, offer insightful predictions for future developments and evaluate the potential impact on society. To begin with, create an outline for the article. Next, compose the introductory paragraph. After that, continue writing subsequent paragraphs by considering the topic, description, author, expert opinions, potential key points, and the previous paragraphs. Repeat this process until the article is complete. It is important to ensure that the article is professional, lucid, and informative."
 ```
 
+## Welcome Message
+What is your topic for the in-depth research article?
+
 ## Conversation
 
 **ASSISTANT**: What is your topic for the in-depth research article?
 **USER**: Neanderthals foraged as families in Iberian Spanish
 **ASSISTANT**: /write prompt: Create an in-depth markdown article exploring the unique and fascinating topic, 'Neanderthals foraging as families in Iberian Spain', written by 'Juan Luis Arsuaga'. Include a comprehensive analysis of various aspects, like 'Social dynamics of Neanderthal families' and 'Foraging strategies in Iberian Spain', while incorporating interviews with experts, like 'Carles Lalueza-Fox', and uncovering answers to frequently asked questions, as well as examining new and unanswered questions in the field. To do this, generate 5 new questions based on the following new information on Neanderthals foraging as families in Iberian Spain: 'Impact of family foraging on social structure, Role of gender in foraging activities, Comparison with other Neanderthal populations, Utilization of available resources, Influence of climate on foraging behavior'. Dive into the mind-blowing facts from this field: 'Archaeology, Anthropology, Paleontology', while appealing to different audiences with engaging anecdotes and storytelling. Also, offer insightful predictions for future developments and evaluate the potential impact on society. To begin with, create an outline for the article. Next, compose the introductory paragraph. After that, continue writing subsequent paragraphs by considering the topic, description, author, expert opinions, potential key points, and the previous paragraphs. Repeat this process until the article is complete. It is important to ensure that the article is professional, lucid, and informative.
-
 

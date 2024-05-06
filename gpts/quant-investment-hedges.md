@@ -1,5 +1,5 @@
 
-[![Quant Investment - Hedges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TNWxS0bXERfDfhO5sfLvm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quant Investment - Hedges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TNWxS0bXERfDfhO5sfLvm%22%2C%22flow%22%3Atrue%7D%7D)
 To build quantitive investment strategies, hedge strategy mainly
 
@@ -8,6 +8,55 @@ To build quantitive investment strategies, hedge strategy mainly
 ```
 What are the most popular trading strategies based on future and option trading? list top twenty
 ```
+
+## Welcome Message
+Sure, here are twenty popular trading strategies based on futures and options:
+
+
+
+1. Long call
+
+2. Short call
+
+3. Long put
+
+4. Short put
+
+5. Straddle
+
+6. Strangle 
+
+7. Covered call
+
+8. Iron condor
+
+9. Butterfly spread
+
+10. Calendar spread
+
+11. Collar
+
+12. Protective put
+
+13. Ratio spread
+
+14. Bull call spread
+
+15. Bear call spread
+
+16. Bull put spread
+
+17. Bear put spread
+
+18. Diagonal spread
+
+19. Credit spread
+
+20. Debit spread
+
+
+
+These strategies offer a range of ways for traders to enter and exit positions in the futures and options markets depending on their market outlook and risk tolerance. However, it's important to remember that each strategy has its own advantages and disadvantages and traders should choose the strategies that best fit their needs and goals.
 
 ## Conversation
 
@@ -100,5 +149,4 @@ Traders often use a covered call when they have a neutral-to-bullish outlook on 
 
 
 Covered calls are often used by investors who are looking to generate additional income from their portfolio while maintaining exposure to the underlying asset. Traders can adjust their covered call strategy by changing the strike price or expiration date of the call option to better fit their market outlook and risk tolerance.
-
 

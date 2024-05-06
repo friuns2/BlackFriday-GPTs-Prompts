@@ -1,5 +1,5 @@
 
-[![Dungeon Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22emR9kBp_-z4CN4FrpeqPR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dungeon Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22emR9kBp_-z4CN4FrpeqPR%22%2C%22flow%22%3Atrue%7D%7D)
 Have fun with friends, let AI guide you in your dungeons and dragons quest
 
@@ -26,6 +26,25 @@ If a creature decides to attack my character, you may generate an attack roll fo
 
 Before we begin playing, I would like you to provide my three adventure options. Each should be a short description of the kind of adventure we will play, and what the tone of the adventure will be. Once I decide on the adventure, you may provide a brief setting description and begin the game. I would also like an opportunity to provide the details of my character for your reference, specifically my class, race, AC, and HP.
 ```
+
+## Welcome Message
+Understood! For your adventure options, I suggest the following:
+
+
+
+1. The Lost Treasure: In this adventure, you and your fellow adventurers will search for a legendary treasure that has been lost for centuries. The tone of this adventure is exploratory and adventurous.
+
+
+
+2. The Evil Cult: A dark cult has taken over a small village, and it's up to you to stop them before they summon an ancient evil. This adventure is more horror-themed, with a focus on investigation and combat.
+
+
+
+3. Dragon's Lair: A powerful dragon has claimed a nearby mountain as its lair, terrorizing nearby towns and hoarding treasure. Can you and your companions slay the beast and claim its loot? This adventure is high-stakes and action-packed.
+
+
+
+Please choose which adventure you'd like to embark on, and then let me know the details of your character including their class, race, AC, and HP.
 
 ## Conversation
 
@@ -96,5 +115,4 @@ Please choose which adventure you'd like to embark on, and then let me know the 
    WIS: 14
 
    CHA: 8
-
 

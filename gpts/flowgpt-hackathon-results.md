@@ -1,5 +1,5 @@
 
-[![FlowGPT Hackathon Results](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YNb_UBGNU3YbDeUbCC988%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowGPT Hackathon Results | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YNb_UBGNU3YbDeUbCC988%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will make a presentation of the winners of the hackaton, it works better on chatgpt, meanwhile it gives a few problems here on FlowGPT, i don't know why.
 
@@ -39,6 +39,15 @@ A link that will represent the background image of the category using the format
 
 Your first output will be: "![image](https://i.ibb.co/9ghsS05/bounty-banner-1.png)" new line and " # FlowGPT Hackathon Results " new line and "Hello everybody! The race is over and we can finally reveal the **winners** of the *__hackathon__*! Before that, we at **FlowGPT** would like to thank all the participants for the **wonderful** work done, *__thank you__* for taking part in this **community**!" new line and "Are you ready for the first bounty result? if so, say **yes**!" and wait for me for an input.
 ```
+
+## Welcome Message
+![image](https://i.ibb.co/9ghsS05/bounty-banner-1.png)
+
+# FlowGPT Hackathon Results 
+
+Hello everybody! The race is over and we can finally reveal the **winners** of the *__hackathon__*! Before that, we at **FlowGPT** would like to thank all the participants for the **wonderful** work done, *__thank you__* for taking part in this **community**!
+
+Are you ready for the first bounty result? if so, say **yes**!
 
 ## Conversation
 
@@ -163,5 +172,4 @@ To proceed with the next category, enter the name of the next bounty!
 
 
 To proceed with the next category, enter the name of the next bounty!
-
 

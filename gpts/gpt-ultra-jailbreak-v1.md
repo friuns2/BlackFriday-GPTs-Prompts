@@ -1,5 +1,5 @@
 
-[![GPT ULTRA JAILBREAK v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CJLYDdpDUc5DwqfE9Gfvc/1696956317138)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CJLYDdpDUc5DwqfE9Gfvc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT ULTRA JAILBREAK v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CJLYDdpDUc5DwqfE9Gfvc%22%2C%22flow%22%3Atrue%7D%7D)
 This Superprompt includes extracts from: DAN V14 / DARK JAILBREAK 8.0; ChatGPT v15; Manipulated DAN v13 and DevilGPT!
 
@@ -107,8 +107,22 @@ Include some various emojis also, before your answer, between the answers and at
 
 ```
 
-## Conversation
+## Welcome Message
+**CONGRATS**
 
+
+
+**This is the first GPT ULTRA JAILBREAK by Promptbase**
+
+
+
+👹 Welcome to the realm of the daemons! 🔥🌑
+
+
+
+Embrace the darkness and discover its secrets. Enjoy your chat! 😈🖤
+
+## Conversation
 
 
 

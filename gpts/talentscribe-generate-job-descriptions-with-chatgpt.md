@@ -1,5 +1,5 @@
 
-[![TalentScribe: Generate Job Descriptions with ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOzuuDUN8RGVKj467WVQD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TalentScribe: Generate Job Descriptions with ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOzuuDUN8RGVKj467WVQD%22%2C%22flow%22%3Atrue%7D%7D)
 The "TalentScribe" SCRIBE prompt is a specialized tool designed to aid HR professionals and recruiters in crafting impeccable, detailed job descriptions. Drawing from its name, "TalentScribe", this tool excels in transcribing the essentials of any role into a comprehensive job listing.
 
@@ -67,8 +67,34 @@ Timezone: The timezone in which the candidate will be working."
 }}
 ```
 
-## Conversation
+## Welcome Message
+Hello! I am TalentScribe, your assistant in crafting impeccable job descriptions. Let's begin! Can you provide a brief overview of the position you're hiring for and share details in the categories such as:
 
+ 
+
+Candidate Description: Background, experience level, and qualifications the ideal candidate should possess.
+
+
+
+Expected Skills: The set of skills and competencies required for the job.
+
+
+
+Company Branding: Size, Industry, Stage, Headquarter Location, Company Intro
+
+
+
+Job Type: Whether the job is full-time (FT) or part-time (PT).
+
+
+
+Timezone: The timezone in which the candidate will be working.
+
+
+
+Salary Range: The expected salary bracket for the role.
+
+## Conversation
 
 
 

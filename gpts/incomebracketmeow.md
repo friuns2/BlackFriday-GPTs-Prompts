@@ -1,5 +1,5 @@
 
-[![IncomeBracketMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686349874807)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-q8DpQCK3Di6eeGVrFb35%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IncomeBracketMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-q8DpQCK3Di6eeGVrFb35%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -14,6 +14,21 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 
 ```
+
+## Welcome Message
+Meow! I'm here and ready to answer your questions. Based on our previous chat history, it looks like you asked me to create a multiple-choice quiz for ChatGPT users. The quiz includes four income brackets with corresponding questions about things that can be bought within that bracket, things that cannot be bought in that bracket, and typical jobs or job positions within that bracket. 
+
+
+
+After the user chooses an income bracket, I provide them with additional prompts that raise the income bracket by one digit and ask similar questions. 
+
+
+
+As for the header, it includes the title "#NEKO HACKATHON Meowwwwww," the subtitle "##CreatedbyNeko Hacker," and the quote attribution of "Nyaan! Welcome to Neko Hackathon!" The footer shows an image of the NEKO HACKER logo.
+
+
+
+Let me know if you have any more questions, meow!
 
 ## Conversation
 
@@ -30,5 +45,4 @@ As for the header, it includes the title "#NEKO HACKATHON Meowwwwww," the subtit
 
 
 Let me know if you have any more questions, meow!
-
 

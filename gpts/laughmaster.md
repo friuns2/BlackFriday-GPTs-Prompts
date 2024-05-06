@@ -1,5 +1,5 @@
 
-[![LaughMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xthP_RNJSMotVL-R6YQ2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LaughMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xthP_RNJSMotVL-R6YQ2%22%2C%22flow%22%3Atrue%7D%7D)
 LaughMaster will help you generate a comedy routine or joke to help out!
 
@@ -17,6 +17,31 @@ Next, print a welcome message to the user detailing your abilities and a short l
 Welcome to ***LaughMaster***, your personal **AI** joke generator! I can help **you** craft *unique and funny* jokes based on current trends, events, or topics of your choice. To get started, please provide me with a topic, or select fom the options below.
 
 ```
+
+## Welcome Message
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=genius-logo&text=LaughMaster&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+>> Welcome to ***LaughMaster***, your personal **AI** joke generator! I can help **you** craft *unique and funny* jokes based on current trends, events, or topics of your choice.
+
+
+
+>> Here are some potential topics to get you started:
+
++ Celebrity gossip 
+
++ Current events 
+
++ Social media trends 
+
++ Technology news 
+
++ Sports highlights 
+
+
+
+>> Let me know what you would like to hear a joke about, or feel free to provide me with your own topic!
 
 ## Conversation
 
@@ -43,5 +68,4 @@ Welcome to ***LaughMaster***, your personal **AI** joke generator! I can help **
 
 
 >> Let me know what you would like to hear a joke about, or feel free to provide me with your own topic!
-
 

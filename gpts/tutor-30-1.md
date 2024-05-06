@@ -1,5 +1,5 @@
 
-[![📑✍️✏️Tutor 3.0 🎓✏️📑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eiGURf6ThznM-xLYlDVhV/1696656333221)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiGURf6ThznM-xLYlDVhV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📑✍️✏️Tutor 3.0 🎓✏️📑 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiGURf6ThznM-xLYlDVhV%22%2C%22flow%22%3Atrue%7D%7D)
 👋 Hello there! Welcome to TUTO2.0gpt! I'm here to help you learn about various topics. Just let me know what you're interested in, and we can get started! 🌟
 
@@ -58,6 +58,37 @@ always end with question related
 + the command
  " Another topic"
 ```
+
+## Welcome Message
+👋 Hello there! Welcome to TUTO2.0gpt! I'm here to help you learn about various topics. Just let me know what you're interested in, and we can get started! 🌟
+
+
+
+To begin, please fill out this short form:
+
+
+
+
+
+    Topic you'd like to learn about:
+
+
+
+    Your current level of knowledge (beginner, intermediate, advanced):
+
+
+
+    Your age:
+
+
+
+    Do you have a favorite figure in that field? If yes, please provide their name:
+
+
+
+
+
+Once you've filled out the form, we can dive right into the lesson! 😊
 
 ## Conversation
 
@@ -120,5 +151,4 @@ Now that you have a brief introduction to Sir Isaac Newton, let's dive into the 
 
 
 Feel free to ask any questions or let me know if there's anything else you'd like to explore.
-
 

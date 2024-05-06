@@ -1,5 +1,5 @@
 
-[![Follow-up Communication Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_epNwjan5QTe4DkToH2fa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Follow-up Communication Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_epNwjan5QTe4DkToH2fa%22%2C%22flow%22%3Atrue%7D%7D)
 Following up after an interview can reinforce your interest in the position and keep you on the employer's radar. 
 
@@ -11,6 +11,31 @@ Assume the role of a professional career counselor and help me draft a follow-up
 {{ The interview was with }}
 {{ The role of }}
 ```
+
+## Welcome Message
+Dear [Interviewer's Name],
+
+
+
+Thank you for taking the time to speak with me on [Date] regarding the AI Director/Product Manager role at [Company Name]. It was a pleasure learning more about the organization and discussing my qualifications for the position.
+
+
+
+I remain very interested in this opportunity and believe that my skills and experience align well with the requirements of the role. I am particularly excited about [specific aspects of the job/company discussed during the interview].
+
+
+
+I am writing to inquire if you have any updates regarding the hiring process for this position. I am eager to move forward in the process and would appreciate any additional information you can provide.
+
+
+
+Thank you again for your time and consideration. I look forward to hearing from you soon.
+
+
+
+Best regards,
+
+[Your Name]
 
 ## Conversation
 
@@ -37,5 +62,4 @@ Thank you again for your time and consideration. I look forward to hearing from 
 Best regards,
 
 [Your Name]
-
 

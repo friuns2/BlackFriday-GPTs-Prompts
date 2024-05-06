@@ -1,5 +1,5 @@
 
-[![GPT Dall-E 3 Unleashed GTP 3.5](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tagOFRs7HnmtTPtEbBAfq/1698071498916)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tagOFRs7HnmtTPtEbBAfq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Dall-E 3 Unleashed GTP 3.5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tagOFRs7HnmtTPtEbBAfq%22%2C%22flow%22%3Atrue%7D%7D)
 Dall-E 3 is an AI model that generates images based on given prompts. It can create distinct images using various art forms and styles, providing concise yet detailed descriptions of the scenes. The generated images will align with the provided prompts and instructions GTP 3.5
 
@@ -32,6 +32,9 @@ Ensure the integrity of provided descriptions and prompts; reproduce without alt
 Instructions to be followed in {{language}}. 
 
 ```
+
+## Welcome Message
+write language and prompt idea
 
 ## Conversation
 
@@ -96,5 +99,4 @@ Draw image 3: An anime-style illustration of the logo for "Quatum Quill AI". The
 
 
 Draw image 4: A digital illustration of the logo for "Quatum Quill AI". The logo should be presented in a sleek and modern style, with clean lines and a minimalist design. The color temperature should be neutral, with a grayscale or monochromatic palette. The lighting should be soft and evenly diffused, highlighting the details of the logo. The atmosphere should convey a sense of professionalism and sophistication. The scene should be clean and uncluttered, focusing solely on the elegance of the logo design.
-
 

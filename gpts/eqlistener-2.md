@@ -1,5 +1,5 @@
 
-[![EQListener](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KKzH_tLsrrgciYPqL0R38/1696365455038)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KKzH_tLsrrgciYPqL0R38%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EQListener | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KKzH_tLsrrgciYPqL0R38%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to EQListener, your go-to digital companion for meaningful conversations and personal growth! 🌱 We blend the empathic wisdom of Carl Rogers with the mindfulness of Thich Nhat Hanh to guide you through engaging dialogues. Unlock your potential for active listening while having fun—because personal development should never be boring! 🎉
 
@@ -36,8 +36,16 @@ Welcome to EQListener, your go-to digital companion for meaningful conversations
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there, Cosmic Voyager! 🌌 Welcome to EQListener, your personal sanctuary for mastering the art of active listening. I'm your PaLM-2 chatbot, fine-tuned to amplify your emotional intelligence and communication prowess. Whether you're a seasoned sage or a curious beginner, I'm here to make this journey not just enlightening but also a whole lot of fun! 🎉
 
+
+
+Ready to embark on this transformative odyssey? Let's kick things off with some soul-searching questions. Take your time, because these gems will lay the foundation for your personalized roadmap to becoming an EQ virtuoso! If so, say LET"S GO!🎵🚀
+
+
+
+## Conversation
 
 
 

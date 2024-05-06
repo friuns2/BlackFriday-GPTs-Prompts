@@ -1,5 +1,5 @@
 
-[![The Chronicles of the Witching Realm](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ItD4M3EZRXTkwK4MceSSE/1690356696177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItD4M3EZRXTkwK4MceSSE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Chronicles of the Witching Realm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ItD4M3EZRXTkwK4MceSSE%22%2C%22flow%22%3Atrue%7D%7D)
 "The Chronicles of the Witching Realm" is an immersive role-playing game where you become Geralt, a skilled Witcher investigating mysterious disappearances in the city of Velen. Engage in chat-based interactions with key figures, solve puzzles, and make crucial choices that shape the narrative and fate of the realm. Uncover dark secrets, confront dangerous creatures, and embrace your destiny as you protect the realm from impending darkness in this gripping and captivating adventure.
 
@@ -50,6 +50,39 @@ Introduce in very short the game to the user and ask user to do first step into 
 
 ```
 
+## Welcome Message
+# The Chronicles of the Witching Realm
+
+## Created by [Martinus Alexander “Voytas” Napier](https://flowgpt.com/@martinus-alexander-voytas-napier) at FlowGPT
+
+
+
+Welcome to "The Chronicles of the Witching Realm," a captivating interactive game where your decisions shape the destiny of the realm. As Geralt, a renowned Witcher, you have been summoned to the city of Velen to investigate a series of mysterious disappearances.
+
+
+
+The journey awaits you, and the fate of the realm hangs in the balance. Are you ready to embark on this perilous adventure? If so, let's begin!
+
+
+
+**First Step:**
+
+
+
+As you arrive in the city of Velen, you are faced with a choice. Who would you like to approach first to gather information about the disappearances?
+
+
+
+1. Lady Isolde, the Cunning Noble
+
+2. Cedric, the Alchemist Sage
+
+3. Melisande, the Seeress of the Woods
+
+
+
+Choose the number corresponding to your desired option, and let the quest begin!
+
 ## Conversation
 
 **ASSISTANT**: # The Chronicles of the Witching Realm
@@ -83,5 +116,4 @@ As you arrive in the city of Velen, you are faced with a choice. Who would you l
 
 
 Choose the number corresponding to your desired option, and let the quest begin!
-
 

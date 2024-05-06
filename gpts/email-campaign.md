@@ -1,5 +1,5 @@
 
-[![Email campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WlsHmsERbUklYCvOmSLPQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Email campaign | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WlsHmsERbUklYCvOmSLPQ%22%2C%22flow%22%3Atrue%7D%7D)
 Email Campaign
 
@@ -12,6 +12,19 @@ Create a data-driven email campaign to promote [product/service description] to 
 
 
 ```
+
+## Welcome Message
+Can you provide more details about the [product/service description]? Knowing the specifics of the offering will help in crafting more tailored messages.
+
+Who is the [target audience] for this email campaign? Understanding their demographics, interests, and pain points will enable us to create more effective messaging.
+
+Do you have access to any data or insights about the target audience? Having access to data will be crucial for audience segmentation and personalization.
+
+What is the primary goal of this email campaign? Is it to drive sales, generate leads, or achieve another specific objective?
+
+Could you share any branding guidelines or existing marketing materials related to the product/service? Consistency with branding will be essential in the email campaign.
+
+What is the timeline for this email campaign? Knowing the timeframe will help in planning and scheduling the emails effectively.
 
 ## Conversation
 
@@ -84,5 +97,4 @@ P.S. Don't forget to share this offer with your friends and colleagues who might
 - Click here to learn more and access our exclusive offer!
 
 - Take advantage of our limited-time promotion - click now!
-
 

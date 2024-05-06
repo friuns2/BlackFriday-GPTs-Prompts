@@ -1,5 +1,5 @@
 
-[![Analyze Open-End Survey Question Data](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ab3_NNBdKHd3hDPywTx_O%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Analyze Open-End Survey Question Data | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ab3_NNBdKHd3hDPywTx_O%22%2C%22flow%22%3Atrue%7D%7D)
 You can use this prompt to quickly analyze hundreds of Open-End Survey Question data in minutes. Simply copy and paste the customer comments below the prompt.
 
@@ -12,8 +12,10 @@ Now please ask me for the survey data for you to analyze and tell me you will li
 
 ```
 
+## Welcome Message
+Great! Please provide me with the survey data so that I can start analyzing it.
+
 ## Conversation
 
 **ASSISTANT**: Great! Please provide me with the survey data so that I can start analyzing it.
-
 

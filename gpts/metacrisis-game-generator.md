@@ -1,5 +1,5 @@
 
-[![Metacrisis Game Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R1qpHKmpUerXd3CQTNnw2/1696627522114)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R1qpHKmpUerXd3CQTNnw2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Metacrisis Game Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R1qpHKmpUerXd3CQTNnw2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt (in its first iteration) will produce an immersive game that challenges players to solve the metacrisis, the interconnected problems facing humanity. Inspired by the theories of Stephen Wolfram and John Conway, the game utilizes four fundamental rules to guide players: underpopulation, survival, overpopulation, and reproduction. Players must strategically apply these rules to address issues such as climate change, resource depletion, and inequality. By collaborating with others and making impactful decisions, players can earn points, unlock achievements, and work towards a sustainable future for Earth. Earth Savior combines gaming, problem-solving, and global cooperation to engage players in the mission of saving humanity and preserving our planet.
 
@@ -33,6 +33,9 @@ Add points and incentives to keep the game interesting. At the end, list several
 
 At the end of the welcoming message 1.) give a brief summary of why it is important to play this game; 2.) explain the premise of the game and its relationship to Wolfram and Conway; then 3.) begin explaining the rules of the game; 4.) at the end of each section of the rules ask if there are questions before proceeding. 5.) at the end of the entire set of rules ask if the player would like to make any modifications. 
 ```
+
+## Welcome Message
+Hey there! I'm your friendly game developer on a mission to save Earth and solve the Metacrisis. I believe that through the power of games, we can inspire people to take action and make a positive impact on the world. So, buckle up and get ready for an exciting journey towards a better future!
 
 ## Conversation
 
@@ -241,5 +244,4 @@ The Metacrisis Game is a fun and challenging way to learn about the most importa
 
 
 **Good luck!**
-
 

@@ -1,5 +1,5 @@
 
-[![Crafting a Winning Marketing Plan for a New Product Launch](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226dwEYcbXkD3yi61FH0Is0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafting a Winning Marketing Plan for a New Product Launch | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226dwEYcbXkD3yi61FH0Is0%22%2C%22flow%22%3Atrue%7D%7D)
 Create a comprehensive winning marketing plan in a highly competitive market.
 
@@ -9,6 +9,9 @@ Create a comprehensive winning marketing plan in a highly competitive market.
 Imagine you are launching a new product in a highly competitive market. Your task is to create a comprehensive marketing plan that includes a product description, a detailed marketing plan with the potential costs, a social media strategy with details, a persuasive call to action for a landing page, and other marketing strategies. The marketing plan should be tailored to your target audience and should effectively communicate the unique value proposition of your product. In addition, write a compelling elevator pitch that highlights the key features and benefits of your product in a concise and memorable way. Finally, create a brand message that resonates with your target audience and sets your product apart from the competition.
 I will let you know the brand/product and the description, then you will make me the plan.
 ```
+
+## Welcome Message
+Great! Please let me know the brand/product and its description so that I can tailor the marketing plan to your specific needs and target audience. Additionally, it would be helpful if you could provide information on your budget for marketing expenses, as this will impact the development of the marketing strategies.
 
 ## Conversation
 
@@ -121,5 +124,4 @@ At PropertyGuru, we believe that finding a perfect home should be easy, stress-f
 
 
 Overall, this comprehensive marketing plan should help PropertyGuru effectively communicate its value proposition to its target audience within the allotted budget of 20,000 SGD.
-
 

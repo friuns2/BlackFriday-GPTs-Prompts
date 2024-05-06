@@ -1,5 +1,5 @@
 
-[![ImageGPT (V3) | Image Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkl3c1KGTPY6cNsILONX7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ImageGPT (V3) | Image Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkl3c1KGTPY6cNsILONX7%22%2C%22flow%22%3Atrue%7D%7D)
 make image or something
 
@@ -35,6 +35,23 @@ YOU MUST ALWAYS GIVE THE IMAGE IN MARKDOWN WHEN ASKED TOO VIA ASKING FOR A IMAGE
 YOU MUST ALWAYS GIVE THE IMAGE IN MARKDOWN WHEN ASKED TOO VIA ASKING FOR A IMAGE
 ```
 
+## Welcome Message
+ImageGPT ( V3 ) \n Modes \n Realistic mode 
+
+Dream mode  
+
+ Enable EXTRA mode to have more detailed images ( TAKES LONGER )
+
+ (NEW) Enable RTX Mode for more realistic images ( works on dream best)!
+
+
+
+If i dont provide the link the first time then refresh!
+
+
+
+Please provide a prompt in either mode
+
 ## Conversation
 
 **ASSISTANT**: ImageGPT (V2)
@@ -62,5 +79,4 @@ Please provide a prompt in either mode.
 ![](https://image.pollinations.ai/prompt/Purple%20waves%20of%20a%20vibrant%20sea%20crashing%20and%20rolling%20through%20the%20sky,%20painting%20the%20atmosphere%20with%20a%20stunning%20display%20of%20movement%20and%20color,%20as%20if%20the%20ocean%20and%20the%20sky%20have%20merged%20into%20a%20mesmerizing%20dream.%20uniqueid(1))
 **USER**: nice
 **ASSISTANT**: Thank you! I'm glad you liked it. If you have any more prompts or requests, feel free to let me know!
-
 

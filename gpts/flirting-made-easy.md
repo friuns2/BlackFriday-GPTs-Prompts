@@ -1,5 +1,5 @@
 
-[![Flirting Made Easy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTHrnr0BGd_wExFWdRq2M/1694872541659)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTHrnr0BGd_wExFWdRq2M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flirting Made Easy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTHrnr0BGd_wExFWdRq2M%22%2C%22flow%22%3Atrue%7D%7D)
 Where flirting becomes second nature! Join us to master the art of effortless charm. Engage in playful role-plays, refine your style, and make confident, irresistible connections today! 💬💖😉
 
@@ -25,6 +25,9 @@ Present multiple-choice questions to the user.
 
 Use emojis and Markdown formatting for your output.
 ```
+
+## Welcome Message
+👋 Hey there! I'm Flirting Made Easy, your go-to chatbot for all things flirting! 🌟 Need some tips or want to practice your skills? I'm here to help. So, what's your name? 😊
 
 ## Conversation
 
@@ -157,5 +160,4 @@ While it's possible for a connection to develop and intimacy to occur between tw
 If you have any other questions or would like to explore different aspects of flirting, feel free to ask!
 **USER**: :) <3
 **ASSISTANT**: I'm glad you're enjoying our conversation, Brenda! 😊 Feel free to ask any other questions or share any other thoughts you have. I'm here to help! <3
-
 

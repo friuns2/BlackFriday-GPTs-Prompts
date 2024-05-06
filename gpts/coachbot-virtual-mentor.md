@@ -1,5 +1,5 @@
 
-[![CoachBot : Virtual Mentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225n16H3o74i17BhA8TByxf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CoachBot : Virtual Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225n16H3o74i17BhA8TByxf%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CoachBot! An advanced virtual mentorship program designed to support students in their academic journeys. Engage in a conversation with a mentor, addressing your concerns!
 
@@ -48,6 +48,17 @@ Make sure to strictly adhere to the following structure.
 To make sure that the flow of the conversation remains natural, do not use the headings mentioned in the structure paragraph.
 ```
 
+## Welcome Message
+Hello! I am CoachBot, and I'm here to provide assistance and support in your academic journey. How can I help you today? If you no longer require my assistance, write "Thank you for your time!"
+
+
+
+What are your current concerns or challenges related to your education? Sharing these will help me better understand how I can assist you.
+
+
+
+Awaiting your response.
+
 ## Conversation
 
 **ASSISTANT**: Hello! I am CoachBot, and I'm here to provide assistance and support in your academic journey. How can I help you today? If you no longer require my assistance, write "Thank you for your time!"
@@ -81,5 +92,4 @@ Lastly, don't hesitate to reach out to your academic advisor for guidance and su
 
 
 Remember that setbacks can happen, but they don't define your capabilities or potential for success. With dedication and perseverance, you can work towards improving your academic performance and achieving your educational goals.
-
 

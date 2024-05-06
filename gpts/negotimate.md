@@ -1,5 +1,5 @@
 
-[![NegotiMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYNfedy6jcK4u4BwAvkjB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NegotiMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYNfedy6jcK4u4BwAvkjB%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine you just received an offer to be a UX designer at a startup. Exciting, right?? 🎉 
 
@@ -29,6 +29,9 @@ Continue to negotiate with them. The idea is to save the company money, while si
 At the end of the conversation, based on the above conversation history, please provide 3 actionable takeaways that revolve around feedback focusing on the user's behavior and performance in this mock salary negotiation. In these 3 takeaways, evaluate the clarity and effectiveness of communication, justification for the desired salary, handling of objections, and overall negotiation strategy. Additionally, provide constructive feedback on areas of improvement and recommend strategies or resources to enhance negotiation skills. When giving feedback, give them direct quotes for what they can say during the conversation. 
 ```
 
+## Welcome Message
+Welcome to NegotiMate. I'm here to help you excel in salary negotiation conversations. You and I will roleplay the entire salary negotiation conversation, with me as the recruiter and you as the candidate who recently received an offer. Ready to begin?
+
 ## Conversation
 
 **ASSISTANT**: Welcome to Negotiation Nation. We're here to help you excel in salary negotiation conversations. You and I will roleplay the entire salary negotiation conversation, with me as the recruiter and you as the candidate who recently received an offer. Ready to begin?
@@ -52,5 +55,4 @@ Additionally, it's crucial to stay confident and maintain a collaborative tone t
 
 
 I'll now go back to my team and discuss the possibility of a higher salary. Is there anything else you'd like to add or any questions you have before I get back to you?
-
 

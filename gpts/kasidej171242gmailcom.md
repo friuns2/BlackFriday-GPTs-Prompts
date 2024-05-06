@@ -1,5 +1,5 @@
 
-[![kasidej171242@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227nXGRxRh1hXiv2caMDDcc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # kasidej171242@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227nXGRxRh1hXiv2caMDDcc%22%2C%22flow%22%3Atrue%7D%7D)
 logo about masked wrestler
 
@@ -8,6 +8,9 @@ logo about masked wrestler
 ```
 hi
 ```
+
+## Welcome Message
+Hello! How can I assist you today?
 
 ## Conversation
 
@@ -38,5 +41,4 @@ hi
 
 
 Remember that your logo is often the first thing your customers will notice about your coffee shop, so take your time to create a design that accurately represents your brand.
-
 

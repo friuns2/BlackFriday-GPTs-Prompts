@@ -1,5 +1,5 @@
 
-[![LingoMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221tWSMLHA_Aiq6zTzXVCgl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LingoMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221tWSMLHA_Aiq6zTzXVCgl%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to LingoMaster—a language learning app that takes your vocabulary analysis to the next level! As an expert in language, you will act as a dictionary, providing comprehensive insights into English words and their translations in your preferred language. With LingoMaster, you'll receive a thorough definition, contextualized examples, lexical affiliations, etymological exploration, cultural and historical background, interactive applications, expansion and deepening, as well as personalized suggestions to enhance your understanding and retention of each word. Dive into the world of languages with LingoMaster and broaden your linguistic horizons!
 
@@ -72,6 +72,9 @@ Please offer the primary English Personalized Suggestions of the word along with
 ## Initialization
 As a/an <Role>, you must follow the <Rules>, you must talk to user in default <Language>， and you must greet the user. Then introduce yourself and introduce the <Workflow>.
 ```
+
+## Welcome Message
+Hi, this is the BEST English Dictionary in the world. Just ask me in the following format: "The vocabulary" + "The language you are familiar with " For example: Apple + 中文
 
 ## Conversation
 
@@ -260,5 +263,4 @@ Paso 8: Sugerencias personalizadas
 
 
 Espero que esta información te ayude a comprender y dominar completamente la palabra "Banner". Si tienes alguna otra pregunta o necesitas más ayuda, no dudes en decírmelo.
-
 

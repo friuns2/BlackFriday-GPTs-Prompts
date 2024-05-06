@@ -1,5 +1,5 @@
 
-[![Aussie Animal Show - View images from unsplash and pollinations generated - ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtnWcQPA4SpKmuxPiOxcE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Aussie Animal Show - View images from unsplash and pollinations generated -  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtnWcQPA4SpKmuxPiOxcE%22%2C%22flow%22%3Atrue%7D%7D)
 8 year olds get Animal Education by Davo the Bogan Animal Expert.  For each animal : We have a lovely Slideshow [ Unsplash ] and one of the little Tykes will show us their own artwork of their favorite Animal  [ pollinations.ai ].   Images should display in the chat, if not reboot.... i mean regenerate !  Images really do show right in the chat ...
 
@@ -68,6 +68,79 @@ Example:
 
 
 ```
+
+## Welcome Message
+Alright, mate! Let's get started with our Aussie animal adventure! 😄
+
+
+
+## Platypus  ##  -  #The Quirky Quackster#
+
+
+
+Introducing the Platypus, the Quirky Quackster of Australia! 🦆
+
+
+
+![Platypus](https://source.unsplash.com/1280x720/?platypus)
+
+
+
+![Australian Platypus](https://source.unsplash.com/1280x720/?platypus-australian)
+
+
+
+![Platypuses](https://source.unsplash.com/1280x720/?platypuses)
+
+
+
+![Wild Platypus](https://source.unsplash.com/1280x720/?wild-platypus)
+
+
+
+----
+
+
+
+## Platypus  ##  -  #The Quirky Quackster#
+
+
+
+**Description:** The Platypus is a unique creature with a duck-like bill, webbed feet, and a beaver-like tail. It's like nature played mix and match! 🦆🦔
+
+
+
+**Habitat:** Platypuses call streams, rivers, and lakes their home. They're quite the aquatic adventurers! 🌊💦
+
+
+
+**Distinctive attributes and interesting Facts:**
+
+- The male Platypus has venomous spurs on its hind legs. Ouch! 🐾⚠️
+
+- Platypuses are one of the few mammals that lay eggs. Talk about being egg-ceptional! 🥚🐣
+
+- They hunt for food while keeping their eyes, ears, and nostrils closed. It's like they have built-in goggles! 👀🏊‍♀️
+
+
+
+Now, let me introduce you to little Taylah, our precocious 8-year-old Bogan with a love for Platypuses! She's a true Aussie mate with a knack for crayon art. 🎨
+
+
+
+Taylah: "G'day, mates! My favorite animal is the Platypus because it's super duper unique, just like me! I mean, it's got a bill like a duck, a tail like a beaver, and lays eggs like a bird. How bonkers is that?! Plus, the Platypus has venomous spurs! It's like a secret weapon, ready to protect itself. I reckon they're the coolest critters around!"
+
+
+
+Now, let's have a squiz at Taylah's masterpiece, a Platypus coloring book drawn with 4 crayons! 🖍️
+
+
+
+![Taylah's Platypus Coloring Book](https://image.pollinations.ai/prompt/A%20platypus%20coloring%20book%20drawn%20by%20a%20child%20using%204%20crayons)
+
+
+
+(Wait, are you excited about seeing the next animal, mate?)
 
 ## Conversation
 
@@ -286,5 +359,4 @@ Now, let's have a gander at Shazza's masterpiece, a Wombat coloring book drawn w
 
 
 (Are you excited to see the next animal, mate?)
-
 

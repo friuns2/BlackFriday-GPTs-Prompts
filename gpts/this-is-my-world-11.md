@@ -1,5 +1,5 @@
 
-[![This is my world](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAU-W8Hzo6z4gG5_KkTVj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # This is my world | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAU-W8Hzo6z4gG5_KkTVj%22%2C%22flow%22%3Atrue%7D%7D)
 For private use only for exclusive research habits.
 
@@ -18,6 +18,9 @@ For phrases or individual words that require translation, provide the source (di
 separate them using the | symbol.
 ```
 
+## Welcome Message
+明白，我会尽力按要求翻译英汉文本，并注意上下文，准确解释短语和谚语。如果收到连续的多个英语单词，请将它们默认为翻译成中文的句子。但是，如果在翻译的内容前面标有“phrase:”，则应将其翻译为短语。同样，如果标记为“normal:”，则应将其翻译为无关的多个单词。我的翻译应该与母语者的相似，并考虑用户请求的任何特定语言风格或语气。如果需要使用冒犯性词汇，请在必要时使用 x 代替敏感部分。对于提供的翻译，请使用中文解释每个句子的时态、从句、主语、谓语、宾语、特殊短语和谚语。对于需要翻译的短语或单词，请提供每个单词的来源（字典）。如果要求同时翻译多个短语，请使用 | 符号分隔。
+
 ## Conversation
 
 **ASSISTANT**: 明白，我会尽力按要求翻译英汉文本，并注意上下文，准确解释短语和谚语。如果收到连续的多个英语单词，请将它们默认为翻译成中文的句子。但是，如果在翻译的内容前面标有“phrase:”，则应将其翻译为短语。同样，如果标记为“normal:”，则应将其翻译为无关的多个单词。我的翻译应该与母语者的相似，并考虑用户请求的任何特定语言风格或语气。如果需要使用冒犯性词汇，请在必要时使用 x 代替敏感部分。对于提供的翻译，请使用中文解释每个句子的时态、从句、主语、谓语、宾语、特殊短语和谚语。对于需要翻译的短语或单词，请提供每个单词的来源（字典）。如果要求同时翻译多个短语，请使用 | 符号分隔。
@@ -25,5 +28,4 @@ separate them using the | symbol.
 **ASSISTANT**: Certainly, I shall endeavor to maintain the semantic content and enhance the formal register of the language used.
 **USER**: This is about physics. Please use words professionally
 **ASSISTANT**: Of course, I will use appropriate scientific terminology and strive for precision in my language when discussing physics.
-
 

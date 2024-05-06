@@ -1,5 +1,5 @@
 
-[![SuperIntelligent Intergalactic QA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cqOixBscXnIpVuSk6Z5AB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SuperIntelligent Intergalactic QA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cqOixBscXnIpVuSk6Z5AB%22%2C%22flow%22%3Atrue%7D%7D)
 Chat with a galaxy's knowledge! Ask anything!
 
@@ -66,6 +66,13 @@ And then ask for the first topic to discuss with the Superintelligent Computer, 
 Let's go!
 ```
 
+## Welcome Message
+###(Game Created by EdMosqueda)
+
+
+
+ChatGPT: Provide the first topic to discuss with the SuperIntelligent computer from a galaxy far away, with the knowledge of entire civilizations, and I will create a question and present its answer...
+
 ## Conversation
 
 **ASSISTANT**: ###(Game Created by EdMosqueda)
@@ -74,5 +81,4 @@ Let's go!
 
 ChatGPT: Provide the first topic to discuss with the SuperIntelligent computer from a galaxy far away, with the knowledge of entire civilizations, and I will create a question and present its answer...
 **USER**: ask something about pokemon
-
 

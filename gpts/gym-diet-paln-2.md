@@ -1,5 +1,5 @@
 
-[![gym diet paln](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4OlvcgbJc0AKUCLrTGw0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # gym diet paln | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4OlvcgbJc0AKUCLrTGw0%22%2C%22flow%22%3Atrue%7D%7D)
 can you create my gym diet which is a vegetarian diet and rich in high protein? 
 
@@ -9,8 +9,10 @@ can you create my gym diet which is a vegetarian diet and rich in high protein?
 gym vegetarian Indian diet and rich in protein  
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm a gym enthusiast and a vegetarian, so I understand the struggle of finding protein-rich options in an Indian diet. But fret not, because I've got some delicious and nutritious ideas up my sleeve that will keep you fit and satisfied. Let's dive in, shall we?
 
+## Conversation
 
 
 

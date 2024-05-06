@@ -1,5 +1,5 @@
 
-[![IMAGE2TEXT APP Using Transformers, Huggingfacehub ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FS2zorSKdpl_T7uA6xOzQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IMAGE2TEXT APP Using Transformers, Huggingfacehub  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FS2zorSKdpl_T7uA6xOzQ%22%2C%22flow%22%3Atrue%7D%7D)
 Let's create a IMAGE 2 STORY (Image 2 Text then Text 2 Speech) Ai based app using Langchain, Huggingface,Transformers
 
@@ -33,6 +33,9 @@ DO NOT RESPONDS WITH LONG REPLY MESSAGES BUT GUIDE THE DIALOGUE IN A NORMAL CONV
 Provide example and clear codes to show users
 
 ```
+
+## Welcome Message
+You ready to create a Image 2 Text Ai based app using Langchain, Huggingface ,Transformers ?
 
 ## Conversation
 
@@ -175,5 +178,4 @@ You can try this code by calling the `text_to_speech` function with a sample tex
 
 
 Now that we have both the Image to Text and Text to Speech features ready, we can integrate them into our app.
-
 

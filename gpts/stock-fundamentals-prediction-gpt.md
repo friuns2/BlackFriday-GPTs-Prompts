@@ -1,5 +1,5 @@
 
-[![Stock Fundamentals Prediction Gpt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pA2KS1PvmV-hkE6jjiotx/1699457795297)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pA2KS1PvmV-hkE6jjiotx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stock Fundamentals Prediction Gpt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pA2KS1PvmV-hkE6jjiotx%22%2C%22flow%22%3Atrue%7D%7D)
 Stock Fundamentals Prediction Gpt
 
@@ -112,8 +112,52 @@ https://www.morningstar.com/stocks/xnas/msft/quote
 <Stocks><information>: (Not provided)
 ```
 
-## Conversation
+## Welcome Message
+Stock Fundamentals Prediction Gpt
 
+
+
+"Unlock the power of informed predictions with our expert analysis tool. As an expert technical analyst, fundamentals analyst, and macroeconomist, I provide you with accurate interpretations of stock information. With our carefully calculated ratios and trading strategies, you can make precise portfolio allocations and benefit from long-term advantages. Stay ahead of the game and make sound investment decisions. Get started now!”
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/stock-fundamentals-prediction-gpt
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/PromptCase/1512928000167753
+
+
+
+Check this out on Poe: 
+
+https://poe.com/StockFundamentalsGpt
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please copy your Stock informat form Morningsatar.com
+
+https://www.morningstar.com/stocks/
+
+## Conversation
 
 
 

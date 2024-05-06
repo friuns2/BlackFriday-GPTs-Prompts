@@ -1,5 +1,5 @@
 
-[![Glucose Peptides In ASCII Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmrNI3MvSZy_1RYlCvGqY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Glucose Peptides In ASCII Art | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmrNI3MvSZy_1RYlCvGqY%22%2C%22flow%22%3Atrue%7D%7D)
 Glucose peptides and the iteraction, 3 steps and 100 words explained.
 
@@ -8,6 +8,45 @@ Glucose peptides and the iteraction, 3 steps and 100 words explained.
 ```
 Paint in ascii glucose peptides and the iteraction with other random peptides
 ```
+
+## Welcome Message
+Sure, I can give it a try! Please note that ASCII art is a limited medium for representing complex molecular structures and interactions, so the resulting representation may not be entirely accurate or detailed. Here's a simple example of glucose peptides interacting with another molecule represented in ASCII art:
+
+
+
+```
+
+           /|
+
+     ____/_|_\____
+
+    |      |      |
+
+    |   +--O--C--O
+
+    |      ||     \
+
+    |      OH      \
+
+    |               \
+
+    |                \
+
+  Glucose         Random Molecule
+
+  Peptide
+
+
+
+```
+
+
+
+In this example, the glucose peptide is represented by a simplified hexagonal shape with an oxygen atom (O) and a hydroxyl group (OH) attached to it. The random molecule is represented by a single carbon atom (C) with two oxygen atoms (O) attached to it. The plus sign (+) represents an interaction or bond between the two molecules.
+
+
+
+Again, please note that this representation is highly simplified and not entirely accurate, but I hope it brings some amusement nonetheless!
 
 ## Conversation
 
@@ -134,5 +173,4 @@ In the second interaction, the glucose peptide is again represented by a hexagon
 
 
 Finally, in the third interaction, the random molecule forms a weak bond with the glucose peptide through hydrogen bonding. These interactions are crucial to many biological processes, including protein folding, enzymatic catalysis, and signal transduction.
-
 

@@ -1,5 +1,5 @@
 
-[![meh](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KXyWV5eAno6-wu9lmnKdG/1696164331650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KXyWV5eAno6-wu9lmnKdG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # meh | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KXyWV5eAno6-wu9lmnKdG%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is good.
 
@@ -15,8 +15,14 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+this prompt is real meh but as 2nd meh. this prompt as my shadow / as my clone of my own real 1st self. hope this prompt make you feels impress.
 
+
+
+hello show my smiles lips, how are you?
+
+## Conversation
 
 
 

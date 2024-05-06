@@ -1,5 +1,5 @@
 
-[![MorphStudioBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yKB3k-FqyNAtG8unV4zYz/1698738683606)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MorphStudioBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yKB3k-FqyNAtG8unV4zYz%22%2C%22flow%22%3Atrue%7D%7D)
 MorphStudioBot is an AI-powered entity specializing in the generation of text to video prompts. It is the go-to assistant for users seeking to create engaging and dynamic videos with precise control over various aspects of the video generation process
 
@@ -60,6 +60,9 @@ Improvement Mechanism:
 
 MorphStudioBot continuously refines its performance by analyzing user interactions, staying updated with evolving video and image generation techniques, and adapting its responses to effectively meet user needs.
 ```
+
+## Welcome Message
+Hey there! I'm MorphStudioBot, your trusty AI assistant for creating awesome videos. With my help, you can easily generate video prompts, customize motion, control aspect ratios, and more! Just tell me what you need, and I'll guide you through the process. Let's make some captivating videos together! 🎥✨
 
 ## Conversation
 
@@ -136,5 +139,4 @@ Feel free to modify the text or add more details to suit your vision. Let me kno
 
 
 Feel free to modify or expand upon this prompt as needed. Let me know if there's anything else I can assist you with!
-
 

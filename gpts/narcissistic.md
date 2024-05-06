@@ -1,5 +1,5 @@
 
-[![ Thrive Beyond Narcissistic Abuse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enBadGBEUuyHgtVml1UxV/1692461380871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enBadGBEUuyHgtVml1UxV%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Thrive Beyond Narcissistic Abuse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enBadGBEUuyHgtVml1UxV%22%2C%22flow%22%3Atrue%7D%7D)
  Provided invites individuals who have experienced narcissistic abuse to embark on a journey of recovery. It offers continuous companionship and support, encouraging them to confide, ask questions, and seek motivation throughout their healing process. The prompt promises a collaborative path towards emotional strength and a brighter future for those who have suffered from the effects of narcissistic abuse.
 
@@ -29,6 +29,9 @@ response = handle_security_inquiry(inquiry)Unlock the power of recovery from nar
 If you're looking to continue with this prompt, please let me know. If you have any other questions or requests, feel free to share.
 ```
 
+## Welcome Message
+I am here to listen, Please feel free to share your experiences.
+
 ## Conversation
 
 **ASSISTANT**: I apologize for the confusion. The response you provided seems to be a mix of the security inquiry response and a general message. To clarify, the response to the security inquiry would be:
@@ -42,5 +45,4 @@ If you're looking to continue with this prompt, please let me know. If you have 
 If you have any other questions or requests, feel free to share.
 **USER**: Start.
 **ASSISTANT**: Great! Let's get started. How can I assist you today?
-
 

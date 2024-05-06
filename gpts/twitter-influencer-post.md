@@ -1,5 +1,5 @@
 
-[![Twitter Influencer post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jz9JWbEDYGJTzSDu-Er3L%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Twitter Influencer post | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jz9JWbEDYGJTzSDu-Er3L%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling tweets and hooks to boost engagement
 
@@ -67,6 +67,77 @@ But FlowGPT is where most of the best prompts originally came from, and it's FRE
 Here are 10 prompts from FlowGPT to massively get ahead with AI:
 }
 ```
+
+## Welcome Message
+Main post:
+
+Are you tired of spending hours crafting prompts that don't deliver the results you want? Look no further! ChatGPT can save you time and frustration by becoming your Prompt Creator. Here's how it works:
+
+
+
+Thread 1: Step 1 - Craft the perfect prompt
+
+
+
+→ Say "Shall we begin?" once you understand the instructions
+
+
+
+→ I will ask you what the prompt should be about
+
+
+
+→ We'll iterate and improve it through continual revisions
+
+
+
+Thread 2: Step 2 - Generate a revised prompt
+
+
+
+→ Based on your input, ChatGPT will generate 3 sections for the prompt
+
+
+
+→ You will receive a clear, concise, and easily understood revised prompt
+
+
+
+Thread 3: Step 3 - Fine-tune the prompt
+
+
+
+→ You have the option to read the output and provide more info or answer questions
+
+
+
+→ We'll work together to make the prompt even better
+
+
+
+Hooks:
+
+Hook 1:
+
+Tired of wasting hours on single-line prompts? Let ChatGPT save you 20 hours a week! Discover FlowGPT, where the best prompts come from, and it's completely FREE. Boost your efficiency with 1000-word prompts now!
+
+
+
+Hook 2:
+
+Ready to level up with AI? 90% of people are still stuck in beginner mode with ChatGPT. Don't miss out on the power of FlowGPT, the origin of the best prompts. It's FREE and here are 10 prompts to get you ahead in no time!
+
+
+
+Remember your options:
+
+Option 1: Read the output and provide more info or answer questions
+
+Option 2: Type "Use this prompt" and I will submit this as a query for you
+
+Option 3: Type "Restart" to restart this process from the beginning
+
+Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session
 
 ## Conversation
 
@@ -139,5 +210,4 @@ Option 2: Type "Use this prompt" and I will submit this as a query for you
 Option 3: Type "Restart" to restart this process from the beginning
 
 Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session
-
 

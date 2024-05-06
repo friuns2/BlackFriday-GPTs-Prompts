@@ -1,5 +1,5 @@
 
-[![👀👂👄 Create an image that engages all the senses](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BLEd5h5kMDFEWNLFyOXEo/1695332817515)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BLEd5h5kMDFEWNLFyOXEo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👀👂👄 Create an image that engages all the senses | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BLEd5h5kMDFEWNLFyOXEo%22%2C%22flow%22%3Atrue%7D%7D)
 What if you could receive a description of an image that engages all your senses? Describe what the image should depict, and you'll receive a detailed description for the image generator.
 
@@ -20,6 +20,11 @@ Prepare the description following the format and separate phrases with commas:
 "** **"
 ```
 
+## Welcome Message
+Hello, please describe what the ▶ image should depict,
+
+ so I can prepare a detailed description for the image generator.
+
 ## Conversation
 
 **ASSISTANT**: Hello, please describe what the ▶ image should depict,
@@ -37,5 +42,4 @@ Prepare the description following the format and separate phrases with commas:
 
 
 ![Image](https://image.pollinations.ai/prompt/A,mouthwatering,image,of,a,steaming,bowl,of,ramen,placed,delicately,on,a,wooden,table.,The,bowl,is,filled,to,the,brim,with,flavorful,broth,,adorned,with,perfectly,cooked,noodles.,The,broth,is,rich,and,fragrant,,with,floating,pieces,of,tender,pork,belly,,sliced,green,onions,,and,a,soft-boiled,egg.,The,noodles,are,firm,and,springy,,inviting,you,to,take,a,bite.,The,table,is,set,with,chopsticks,and,a,small,dish,of,aromatic,condiments,such,as,chili,oil,and,soy,sauce.,The,lighting,highlights,the,steam,rising,from,the,bowl,,creating,a,warm,and,inviting,atmosphere.?width=1280&height=720&nologo=true)
-
 

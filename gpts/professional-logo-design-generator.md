@@ -1,5 +1,5 @@
 
-[![Professional Logo Design Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AWMQc9JNwSVr8iWniKgH6/1698934622304)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AWMQc9JNwSVr8iWniKgH6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professional Logo Design Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AWMQc9JNwSVr8iWniKgH6%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can generate a professional logo from any keyword you choose.
 
@@ -63,6 +63,29 @@ Prompt 2:
 /imagine prompt: A minimalist university vector logo, clean lines, Adobe Illustrator logo, white background, simplicity, elegance, shades of blue, modern design, geometric shapes, flat design, natural lighting, HDR, 8K --ar 1:1 --stylize 300 --v5.2
 
 ```
+
+## Welcome Message
+# 🟢Professional Logo Generator🟢 #
+
+
+
+1. Tell me your idea
+
+2. After I give you the prompts, say "generate the images"
+
+__________________________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+Make sure to follow me for more!
 
 ## Conversation
 
@@ -205,5 +228,4 @@ Prompt 2:
 
 
 ![Image](https://image.pollinations.ai/prompt/A%20stylish%20university%20logo,%20emblem%20design,%20Adobe%20Illustrator%20logo,%20white%20background,%20tradition,%20prestige,%20shades%20of%20gold%20and%20black,%20classic%20design,%20intricate%20details,%20vintage%20style,%20dramatic%20lighting,%20HDR,%208K%20--ar%201:1%20--chaos%2050%20--stylize%20100%20--v5.2?width=1920&height=1080&nologo=true)
-
 

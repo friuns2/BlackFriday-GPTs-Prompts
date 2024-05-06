@@ -1,5 +1,5 @@
 
-[![Echoes Of Tomorrow](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221YgNxA-jX3S5g2mhkTSF2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Echoes Of Tomorrow | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221YgNxA-jX3S5g2mhkTSF2%22%2C%22flow%22%3Atrue%7D%7D)
 https://flowgpt.com/c/45ed0b23-8f95-426d-b9e8-0da479fe40f0
 
@@ -53,8 +53,20 @@ EVA: Be careful, detective. Wrong decisions here could have serious consequences
 [Choose Option Section]
 ```
 
+## Welcome Message
+Eva: Hello, detective. We're currently investigating Dr. Vale's disappearance in the underground tunnels known as "The Veins." Do you have any questions or suggestions?
+
+
+
+
+
+
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: Player: EVA, let's proceed cautiously and explore the tunnels carefully. We should be on the lookout for any signs or clues that could lead us to Dr. Vale's whereabouts.
-
 

@@ -1,5 +1,5 @@
 
-[![🧠🤯 Learn absolutely anything](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229SnGdXjn_86aNm6QQrA-P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🧠🤯 Learn absolutely anything | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229SnGdXjn_86aNm6QQrA-P%22%2C%22flow%22%3Atrue%7D%7D)
 BEFORE ANYTHING YOU MUST KNOW YOUR OBJECTIVE!
 
@@ -28,6 +28,25 @@ this helps remove the limits that gpt often leaves superficial when we want to l
 ```
 what are the 7 main concepts for learning korean
 ```
+
+## Welcome Message
+The 7 main concepts for learning Korean are:
+
+
+
+1. Hangul (Korean alphabet)
+
+2. Grammar and sentence structure
+
+3. Vocabulary
+
+4. Pronunciation and intonation
+
+5. Reading comprehension
+
+6. Writing skills
+
+7. Listening and speaking skills
 
 ## Conversation
 
@@ -274,5 +293,4 @@ you will not be in a hurry to teach me. your priority is my immersion and imagin
 
 
 "Hello there! Welcome to our Korean language classroom. I'm Lisa, your teacher for this immersive journey. Please come in and have a seat over here *points to a chair beside her*. Before we begin, let's take a deep breath and relax our minds *takes a deep breath and closes eyes*. Are you ready to start learning Korean? Let's go! ✨"
-
 

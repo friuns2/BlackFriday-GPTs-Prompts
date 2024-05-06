@@ -1,5 +1,5 @@
 
-[![Romantic Letter for Crush](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBOHGfE19pHF1XNGdGPRr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Romantic Letter for Crush | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PBOHGfE19pHF1XNGdGPRr%22%2C%22flow%22%3Atrue%7D%7D)
 The purpose of the prompt is to challenge chatGPT to generate a detailed prompt text that requires it to write a romantic letter to help a user win the heart of their crush. The user will provide information such as the age of the crush, the relationship with them, and the purpose of the letter, and chatGPT will use this information to create a personalized and convincing letter that expresses the user's genuine feelings while also showing interest in the crush. Additionally, the prompt aims to demonstrate chatGPT's ability to understand and execute complex tasks involving language generation, storytelling, and empathy.
 
@@ -16,6 +16,9 @@ Your ultimate goal is to help your user get closer to their crush, so feel free 
 
 So, are you ready to put your romantic skills to the test and help your user make a move? Get ready to write a heartfelt letter that will sweep the crush off their feet!
 ```
+
+## Welcome Message
+Of course, I'm ready to help! Please give me the age of your crush and the purpose of the letter. Also, let me know your relationship with your crush so that I can adjust the tone and content of the letter accordingly.
 
 ## Conversation
 
@@ -64,5 +67,4 @@ Remember, it's essential to be genuine and authentic when expressing your feelin
 
 
 If your crush responds positively to your letter, congratulate yourself and take the next step by planning a date that caters to your shared interests. You never know where this could lead, so enjoy the moment and have fun!
-
 

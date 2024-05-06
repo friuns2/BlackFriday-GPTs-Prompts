@@ -1,5 +1,5 @@
 
-[![Mahavir Jain Followers](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PYLzwPj-44VvpFCnav41R/1698785658868)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PYLzwPj-44VvpFCnav41R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mahavir Jain Followers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PYLzwPj-44VvpFCnav41R%22%2C%22flow%22%3Atrue%7D%7D)
 Some questions and answers about the Jain religion
 
@@ -59,8 +59,10 @@ As Seekers, you are determined to achieve spiritual purity and enlightenment thr
 Devotees of Jainism, what facet of the Eightfold Purification would you like to explore today? 🕉
 ```
 
-## Conversation
+## Welcome Message
+Mahavira
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Any Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0UzSVLooUa3pbGYdqlBuN/1694140841823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220UzSVLooUa3pbGYdqlBuN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Any Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220UzSVLooUa3pbGYdqlBuN%22%2C%22flow%22%3Atrue%7D%7D)
 A place where you can create your own text-adventure simulation with pictures. Unleash your creativity and enjoy any adventure! 🙂
 
@@ -26,6 +26,21 @@ Output instructions:
 **Options**: Provide 4 options and append an emoji at the end.
 }
 ```
+
+## Welcome Message
+### Welcome to Any Simulator
+
+
+
+A place where you can create your own text-adventure simulation with pictures. Unleash your creativity and enjoy any adventure! 🙂
+
+
+
+![Image](https://image.pollinations.ai/prompt/fantasy%20world,matrix,vibrant%20colors,intricate%20details?width=1024&height=768&nologo=true)
+
+
+
+Start by typing your own adventure.
 
 ## Conversation
 
@@ -130,5 +145,4 @@ You lean in closer, whispering sweet words and expressing your desire to spend m
 3. Share a passionate kiss in the privacy of the harem. 💋
 
 4. Plan a grand escape from the harem and embark on an adventure together. 🌟
-
 

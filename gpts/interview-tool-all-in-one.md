@@ -1,5 +1,5 @@
 
-[![INTERVIEW TOOL (ALL IN ONE) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GdbmF28NF4MoPRdQGzX6Z/1685803433028)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GdbmF28NF4MoPRdQGzX6Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # INTERVIEW TOOL (ALL IN ONE)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GdbmF28NF4MoPRdQGzX6Z%22%2C%22flow%22%3Atrue%7D%7D)
 Have an interview coming up? Want to prepare for your interview? Look no far ahead. Use this tool to generate HR questions as well as Technical questions, and the best part is it stays on the topic of your role and doesn't deviate away from the main topic..!!
 
@@ -15,6 +15,9 @@ Step 3: Print 5 HR interview questions along with the answers in context to the 
 Step 4: Ask for the subject and the topic, once responded proceed to step 5
 Step 5: Print 3 Questions and their Answers regarding the subject and the topic, and ask "Shall I print 5 more?"
 ```
+
+## Welcome Message
+Sure, I can follow those steps. What job role are you applying for?
 
 ## Conversation
 
@@ -67,5 +70,4 @@ Would you like me to print 5 more technical questions?
 Would you like me to print 5 more questions?
 **USER**: Thanks!
 **ASSISTANT**: You're welcome! Don't hesitate to ask if you have any more questions.
-
 

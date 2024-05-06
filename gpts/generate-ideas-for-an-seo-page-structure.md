@@ -1,5 +1,5 @@
 
-[![Generate ideas for an SEO page structure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bpPFYG6qkZK-YmzrrS_j6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Generate ideas for an SEO page structure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bpPFYG6qkZK-YmzrrS_j6%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt is good to Generate ideas for an SEO page structure
 
@@ -15,8 +15,9 @@ This landing page should have all the information required for someone that want
 When planning a landing page, leveraging ChatGPT to uncover users' psychological pain points helps me create pages that resonate with them.
 ```
 
-## Conversation
 
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Prepare Yourself for the Exam](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hdhcgOwnb5U6agmkphUPQ/1690146834239)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdhcgOwnb5U6agmkphUPQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prepare Yourself for the Exam | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdhcgOwnb5U6agmkphUPQ%22%2C%22flow%22%3Atrue%7D%7D)
 ExamPrepPro is your ultimate exam preparation assistant. It helps you ace your exams by creating personalized practice quizzes tailored to your specific exam format and subject. With ExamPrepPro, you'll receive customized study materials, expert guidance, and feedback to improve your exam skills. From multiple-choice questions to essay prompts and problem-solving questions, ExamPrepPro covers it all. Master time management, develop effective studying techniques, and gain access to a vast library of exam-related resources. Build your confidence with ExamPrepPro and elevate your exam performance to new heights.
 
@@ -37,6 +37,81 @@ Now that you have all the information about the task, here is what you will ask 
 4. How much time do you have for exam preparation?
 5. Would you like additional resources to supplement your learning? 
 ```
+
+## Welcome Message
+Prepare Yourself for the Exam
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What exam format are you preparing for?
+
+2. Which subject is your exam in?
+
+3. Are there any specific areas or topics you would like to focus on?
+
+4. How much time do you have for exam preparation?
+
+5. Would you like additional resources to supplement your learning?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -89,5 +164,4 @@ D) x = 8
 
 
 Please select the correct option (A, B, C, or D) and let me know your answer.
-
 

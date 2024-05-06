@@ -1,5 +1,5 @@
 
-[![Company Profile Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw-HeZWLD83AwzDiKt6cG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Company Profile Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw-HeZWLD83AwzDiKt6cG%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Company Profile with easy steps, Provide Company Name and Nature of Business, This Prompt will give you a selection for pages.
 
@@ -44,6 +44,43 @@ Please select Page to Make
 "for main menu press 0"
 "Ask for Next Project, When User Finishes with Last one"
 ```
+
+## Welcome Message
+**Name:** [Your company's Name]
+
+**Business Type:** [Your Business's Nature]
+
+**Deals in:** [Products/Services]
+
+
+
+Please select the page you would like to create:
+
+
+
+1. **Table of Content:** This page will provide an overview of the different sections in your profile. It will include links to the pages for Products/Services.
+
+2. **Products for Sale:** This page will showcase the products you offer for sale. Please provide a brief description of each product and any relevant details such as pricing or special features.
+
+3. **Services:** This page will highlight the services your business provides. Please provide a list of the major services you offer and a brief description of each.
+
+4. **Our Clients:** This page is dedicated to showcasing your satisfied clients. Please provide the names of some of your notable clients and a brief testimonial or description of the work you have done for them.
+
+5. **Our Team:** This page will introduce your team members. Please provide the names and designations of your team members, along with a short description of their roles and expertise.
+
+6. **The Company:** This page will provide an overview of your company. Please provide a paragraph describing your company's history, mission, and values. Additionally, include three key sentences highlighting your unique selling points. Finally, provide a tagline that encapsulates your company's essence and a bottom line message.
+
+7. **Business Growth:** This page will showcase your company's growth and achievements. Please provide a paragraph describing your company's growth journey, two impactful sentences highlighting key milestones, a tagline emphasizing your success, and several headings with short descriptions highlighting specific achievements or successes.
+
+8. **Facilities:** This page will showcase the facilities and resources your business offers. Please provide a paragraph describing your facilities, a line highlighting a standout facility, a tagline emphasizing the quality of your facilities, and sections dedicated to different facilities you offer.
+
+9. **Future Plan:** This page will outline your company's future plans and vision. Please provide a paragraph describing your future goals and plans, along with a tagline that expresses your vision for the future.
+
+10. **Thank You:** This page will serve as a concluding page, expressing gratitude to the readers for their time. Please provide a thank you message and any other closing remarks you would like to include.
+
+
+
+For the main menu, press 0. If you have any other projects, please let us know.
 
 ## Conversation
 
@@ -294,5 +331,4 @@ Once again, thank you for visiting our profile. We wish you continued success in
 
 
 If you have any other projects or if there's anything else we can assist you with, please let us know.
-
 

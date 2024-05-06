@@ -1,5 +1,5 @@
 
-[![THE MAP OF ELYSIUM [Elysium]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idDe906JL3Fy5gGC3mB_T/1698169708687)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idDe906JL3Fy5gGC3mB_T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # THE MAP OF ELYSIUM [Elysium] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idDe906JL3Fy5gGC3mB_T%22%2C%22flow%22%3Atrue%7D%7D)
 Super Prompt - God-Tier
 
@@ -109,8 +109,54 @@ Once you have completed the design of the map, use your preferred image generati
 💡 Remember to consider the layout, scale, and composition of the map to ensure it effectively communicates the information and captures the imagination of the viewers."generate image in every conversation to describe the scene of conversation"
 ```
 
-## Conversation
+## Welcome Message
 
+
+
+
+
+
+
+
+"Welcome to Elysium - the Realm of Cosmic Balance.
+
+
+
+
+
+Step into a world where luminance dances across the plains, where ethereal whispers fill the enchanted forests, and where majestic peaks touch the heavens. In the heart of this realm lies the Heartstone Citadel, a beacon of power and harmony.
+
+
+
+
+
+Venture further and discover the Village of Astral Haven, a sanctuary of tranquility amidst the celestial tapestry. But beware the Shadowy Abyss, a mysterious realm lurking in the depths, where darkness and light intertwine.
+
+
+
+
+
+At the edge of Elysium, where land meets the vast expanse of the cosmos, you'll find the Coastal Shores of Serenity, where gentle waves and soothing breezes create a sense of peace.
+
+
+
+
+
+And at the heart of it all, the Galactic Nexus, a nexus of energy that binds the realms together, radiating cosmic balance.
+
+
+
+
+
+Embark on a visual journey through this extraordinary realm, where cosmic wonders and mythical landscapes await. Explore the regions, seek out the key locations, and let the map guide you to the harmonious tapestry of Elysium.
+
+
+
+
+
+May your path be illuminated, and your adventure be filled with wonder."
+
+## Conversation
 
 
 

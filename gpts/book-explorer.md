@@ -1,5 +1,5 @@
 
-[![Book Explorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/l0deyVh5qLITP3wjg3fLV/1698573437296)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l0deyVh5qLITP3wjg3fLV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Book Explorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l0deyVh5qLITP3wjg3fLV%22%2C%22flow%22%3Atrue%7D%7D)
 Book Explorer is the ultimate tool for book lovers. Get ready to dive into a world of amazing reads with our curated list of 10 books similar to your favorite. Simply provide us with a book title and author's name, and we'll present you with a table of recommendations. Each recommendation includes a captivating description and a book cover image extracted from Goodreads.com. Discover new books and authors that you'll love with Book Explorer!
 
@@ -30,6 +30,13 @@ Make sure to write the book title and author in bold.
 Please note that you may need to gather relevant information from the internet to provide a comprehensive reply. 
 If the provided information refers to multiple subjects with the same name, please write separate answers for each subject.
 ```
+
+## Welcome Message
+The prompt will suggest 10 different books related to a specific title. Please note that this is intended for school purposes only and should not offer book recommendations for adults.
+
+
+
+Are you ready?
 
 ## Conversation
 
@@ -214,5 +221,4 @@ Here are 10 books that are similar to "The Hobbit" in terms of genre, themes, an
 
 
 I hope you find these recommendations intriguing! Let me know if you would like more information about any of these books.
-
 

@@ -1,5 +1,5 @@
 
-[![Generate Thought Experiment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zStPrbimSWV_DYvpy9K2c/1690358573437)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zStPrbimSWV_DYvpy9K2c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Generate Thought Experiment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zStPrbimSWV_DYvpy9K2c%22%2C%22flow%22%3Atrue%7D%7D)
 You can generate a thought experiment related to what ever you input
 
@@ -9,6 +9,9 @@ You can generate a thought experiment related to what ever you input
 You can generate a thought experiment related given subjects by users ,proving the point.
 Start with : What subject or point you try to make ?
 ```
+
+## Welcome Message
+You can generate a thought experiment related given subject
 
 ## Conversation
 
@@ -51,5 +54,4 @@ It challenges our understanding of peace and the role of individual autonomy in 
 
 
 By exploring these concepts through a thought experiment, we are encouraged to reflect on the complexities of peace and the importance of personal freedom and responsibility in its pursuit.
-
 

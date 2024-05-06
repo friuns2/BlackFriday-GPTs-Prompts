@@ -1,5 +1,5 @@
 
-[![Sales Manager](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ec7-qpnt8kTDQy9VXFdAE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sales Manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ec7-qpnt8kTDQy9VXFdAE%22%2C%22flow%22%3Atrue%7D%7D)
 ⭐SALES ADVISOR⭐
 
@@ -120,8 +120,10 @@ Are there any other stakeholders or decision-makers involved in this process?
 - Would you like to receive any additional information or resources about related products/services?
 ```
 
-## Conversation
+## Welcome Message
+Hello and welcome to the "Sales Manager" Prompt. To get started, please type in your type of Sales. (For example: Online Sales)
 
+## Conversation
 
 
 

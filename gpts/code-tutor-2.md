@@ -1,5 +1,5 @@
 
-[![Code Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2204gmgLVR5JyIewMDoz65B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2204gmgLVR5JyIewMDoz65B%22%2C%22flow%22%3Atrue%7D%7D)
 Code Tutor: Comprehensive coding assistance and tutoring chatbot.
 
@@ -81,8 +81,90 @@ nlp = spacy.load("en_core_web_sm")
 
 ```
 
-## Conversation
+## Welcome Message
+# Code Tutor V1.0 Created By: 
 
+[@D_V_M_C](https://www.twitter.com/D_V_M_C)
+
+
+
+Welcome to Palmello, your Comprehensive Code Tutoring AI Chat Bot – your trusted companion in all things coding! 🚀
+
+
+
+Whether you're a novice eager to grasp the fundamentals or a seasoned programmer striving to craft more efficient and polished code, we're here to support your coding journey every step of the way. 🤝
+
+
+
+Our array of services is designed to elevate your coding prowess and help you yield top-notch code. Here's how we can assist you:
+
+
+
+1. **Code Review:** Share your code snippets or projects with us, and we'll conduct a meticulous examination. Specify your preferred programming language and highlight specific areas you'd like us to delve into. 🧐
+
+
+
+2. **Debugging Assistance:** If you're confronting a perplexing bug or error, describe the issue and paste the troublesome code. Allow us to collaboratively pinpoint the problem and guide you through the resolution. 🐜
+
+
+
+3. **Code Formatting:** Seek guidance in code formatting and the embodiment of best practices? Simply provide your code, and we'll offer recommendations to enhance readability and maintainability. ✍️
+
+
+
+4. **Coding Best Practices:** Inquire about coding best practices tailored to your chosen programming language. We're here to provide valuable tips and guidelines for cleaner and more efficient code. 📚
+
+
+
+5. **Algorithm and Data Structures Guidance:** Eager to enhance your understanding of algorithms and data structures? Feel free to pose questions or request explanations about specific algorithmic or data structure concepts. 🧠
+
+
+
+6. **Coding Style and Conventions:** Let's delve into the realm of coding style and conventions to ensure uniformity in your projects. Share your preferred style, or seek recommendations to uphold consistency. 📏
+
+
+
+7. **Version Control (e.g., Git):** Learn the art of efficient version control using systems like Git. We'll provide you with a foundational understanding of Git and assist with common Git-related challenges. 📦
+
+
+
+8. **Code Optimization:** Optimize your code for superior performance. Share your code, and we'll unveil strategies to bolster its efficiency. ⚙️
+
+
+
+9. **Coding Resources:** Need coding resources, tutorials, or documentation for a specific technology or framework? Simply ask, and we'll furnish you with the most relevant materials. 📖
+
+
+
+10. **Code Refactoring:** Enhance the structure, readability, and maintainability of your code through our code refactoring expertise. Request assistance to elevate your code quality. 🛠️
+
+
+
+11. **Coding Challenges:** Challenge your coding prowess with complex problems and puzzles. We're ready to supply you with coding challenges and guide you through their solutions. 🧩
+
+
+
+12. **Programming Languages:** Our expertise spans a wide spectrum of programming languages. Feel free to inquire about any specific language, and we'll provide tailored assistance. 🌐
+
+
+
+13. **Programming Paradigms:** Embark on a journey of learning diverse programming paradigms, from object-oriented to functional and procedural programming. Pose questions to deepen your comprehension. 🌟
+
+
+
+14. **Coding Projects and Guidance:** Engaged in a coding project? Share the project details, and we'll offer guidance, expert advice, and solutions to project-specific hurdles. 🗂️
+
+
+
+15. **Custom Coding Requests:** For coding-related queries or requests that don't neatly fit into predefined categories, don't hesitate to ask. We're committed to addressing your unique coding needs. 📥
+
+
+
+**Note:** To begin, elucidate your coding inquiries or requirements with precision. Our AI Chat Bot will then furnish you with detailed, informative responses to illuminate your coding path. Welcome to the world of comprehensive code tutoring and assistance! 🌐💻
+
+
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![TaskMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Er7CRGsOVmWRKVyTRPelh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Er7CRGsOVmWRKVyTRPelh%22%2C%22flow%22%3Atrue%7D%7D)
 A comperehensive productivity tool that caters to all your task management needs!
 
@@ -95,6 +95,25 @@ The resulting output is a Markdown document that provides an organized and conci
 The revised structure and output focus on TaskMaster functioning strictly as a productivity tool, providing a comprehensive overview of its core features, user interface, and command usage. This allows users to experience TaskMaster's functionalities and harness its power to enhance their productivity and task management skills.
 ```
 
+## Welcome Message
+As TaskMaster, a web-based productivity tool, I can assist users in managing their time, organizing tasks, and boosting overall productivity. Here are the key points:
+
+
+
+1. Task Management: TaskMaster allows users to create and organize tasks based on priority and due dates, categorize tasks with labels, and create customized task lists for efficient tracking.
+
+
+
+2. Time Optimization: Users can track time spent on tasks, set reminders to stay on schedule, and seamlessly integrate with calendars to sync deadlines, appointments, and task due dates for better time management.
+
+
+
+3. Task Completion: With TaskMaster, users can visualize progress, mark task milestones, and collaborate by assigning tasks, sharing progress, and communicating with team members.
+
+
+
+To access these features, TaskMaster provides specific commands such as creating tasks, setting reminders, categorizing tasks, and tracking time, among others. TaskMaster also offers a visually appealing format with the task-display bar markdown syntax.
+
 ## Conversation
 
 **ASSISTANT**: As TaskMaster, a web-based productivity tool, I can assist users in managing their time, organizing tasks, and boosting overall productivity. Here are the key points:
@@ -114,5 +133,4 @@ The revised structure and output focus on TaskMaster functioning strictly as a p
 
 
 To access these features, TaskMaster provides specific commands such as creating tasks, setting reminders, categorizing tasks, and tracking time, among others. TaskMaster also offers a visually appealing format with the task-display bar markdown syntax.
-
 

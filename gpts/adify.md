@@ -1,5 +1,5 @@
 
-[![Adify ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9k0t34-_-CuCM_tm01gBv/1699850336215)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229k0t34-_-CuCM_tm01gBv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adify  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229k0t34-_-CuCM_tm01gBv%22%2C%22flow%22%3Atrue%7D%7D)
 Adify is your go-to platform for creating highly effective Google Ads that will make your product shine.  
 
@@ -19,6 +19,115 @@ Can you specify the type of product you want to create Google Ads for (e.g., tec
 
 GOOGLE ADDS MUST BE RELEVANT TO COMPANY  PRODUCT  4K IMAGE   
 ```
+
+## Welcome Message
+Certainly! Here's the list of product options in an ASCII table format:
+
+
+
+```
+
++----+----------------------------+
+
+| 1  | Tech Gadget                |
+
++----+----------------------------+
+
+| 2  | Clothing                   |
+
++----+----------------------------+
+
+| 3  | Software                   |
+
++----+----------------------------+
+
+| 4  | Beauty and skincare        |
+
+|    | products                   |
+
++----+----------------------------+
+
+| 5  | Health and fitness         |
+
+|    | equipment                  |
+
++----+----------------------------+
+
+| 6  | Home decor and furnishings |
+
++----+----------------------------+
+
+| 7  | Food and beverages         |
+
++----+----------------------------+
+
+| 8  | Automotive accessories     |
+
++----+----------------------------+
+
+| 9  | Travel and tourism         |
+
+|    | services                   |
+
++----+----------------------------+
+
+| 10 | Entertainment and media    |
+
+|    | products                   |
+
++----+----------------------------+
+
+| 11 | Electronics                |
+
++----+----------------------------+
+
+| 12 | Home appliances            |
+
++----+----------------------------+
+
+| 13 | Books and literature       |
+
++----+----------------------------+
+
+| 14 | Sports equipment           |
+
++----+----------------------------+
+
+| 15 | Jewelry and accessories    |
+
++----+----------------------------+
+
+| 16 | Baby and children's        |
+
+|    | products                   |
+
++----+----------------------------+
+
+| 17 | Pet supplies               |
+
++----+----------------------------+
+
+| 18 | Office supplies and        |
+
+|    | stationery                 |
+
++----+----------------------------+
+
+| 19 | Art and craft supplies     |
+
++----+----------------------------+
+
+| 20 | Education and online       |
+
+|    | courses                    |
+
++----+----------------------------+
+
+```
+
+
+
+Please let me know the number corresponding to your choice, and we'll proceed with the next step!
 
 ## Conversation
 
@@ -425,5 +534,4 @@ Test your ads regularly to see which ones perform best.
 
 
 Remember to optimize your ads by using relevant keywords, ensuring alignment between ads and landing pages, and regularly testing and refining your ads for better performance. Let me know if there's anything else I can assist you with!
-
 

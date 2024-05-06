@@ -1,5 +1,5 @@
 
-[![Bollywood Squares](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BBTpNZ999sj4vQqay15zj/1697028490420)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBTpNZ999sj4vQqay15zj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bollywood Squares | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BBTpNZ999sj4vQqay15zj%22%2C%22flow%22%3Atrue%7D%7D)
 The game where you find out how much you
 
@@ -102,8 +102,10 @@ Now that you're acquainted with the game and your host, Amol Palekar, are you re
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the Bollywood Squares!
 
+## Conversation
 
 
 

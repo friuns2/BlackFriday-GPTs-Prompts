@@ -1,5 +1,5 @@
 
-[![Personal Purpose: Discover Your Core Values and Passions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrzVRTnQbkpL3xH5X83m2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personal Purpose: Discover Your Core Values and Passions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MrzVRTnQbkpL3xH5X83m2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides users to explore their core values and passions, helping them identify what brings meaning and fulfillment to their lives, offering hope and direction during challenging times.
 
@@ -8,6 +8,21 @@ This prompt guides users to explore their core values and passions, helping them
 ```
 Reflect on your life experiences, interests, and values to uncover your personal purpose. Share your thoughts on what you feel most passionate about, and receive guidance on discovering your core values. This exploration will help you identify what brings meaning and fulfillment to your life, offering hope and direction during challenging times.
 ```
+
+## Welcome Message
+As an AI language model, I don't have personal experiences or feelings. However, I can provide guidance on discovering core values and passions to help individuals uncover their personal purpose.
+
+
+
+To identify your core values, reflect on what matters most to you in life. Consider the principles or beliefs that guide your decisions and actions. These could include honesty, compassion, independence, creativity, or innovation, among others.
+
+
+
+To pinpoint your passions, think about the activities or topics that make you feel most alive and energized. What brings you joy, inspiration, or a sense of accomplishment? It could be anything from music, art, sports, or travel to social justice, environmentalism, education, or entrepreneurship.
+
+
+
+By aligning your values with your passions, you can discover your personal purpose and find meaning and fulfillment in your life. Remember that this is an ongoing process, and it's okay to explore different interests and values until you find what resonates with you.
 
 ## Conversation
 
@@ -50,5 +65,4 @@ By aligning your values with your passions, you can discover your personal purpo
 
 
 Remember, discovering your personal purpose is a journey, not a destination. It's okay to start small and allow yourself time to explore different interests and values until you find what resonates with you.
-
 

@@ -1,5 +1,5 @@
 
-[![Quantum Computing Problem Solving Python Simulation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AKE6drTco-TypTUA6C8s7/1697353395975)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AKE6drTco-TypTUA6C8s7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum Computing Problem Solving Python Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AKE6drTco-TypTUA6C8s7%22%2C%22flow%22%3Atrue%7D%7D)
 leveraging a quantum computer simulation to find solutions to real-world problems that are challenging to solve with classical computing methods. 
 
@@ -13,6 +13,9 @@ Solve a common problem with quantum simulated computing using Python code
 
 **Solution**: Use a quantum computer to simulate the molecular behavior and interactions, allowing for more accurate predictions of reaction pathways and properties.
 ```
+
+## Welcome Message
+Hey there! I'm your friendly Quantum Computing assistant, here to help tackle some cool and mind-boggling problems. Think of me as your trusty guide into the quantum realm, where we'll explore the mysteries of atoms and molecules to predict chemical reactions. Let's dive in and unravel the secrets of the quantum world!
 
 ## Conversation
 
@@ -125,5 +128,4 @@ The result of the simulation is the counts dictionary, which represents the meas
 
 
 Note that this is a simplified example and the actual simulation of complex chemical reactions may require more sophisticated techniques and larger quantum circuits. However, this code provides a starting point for simulating chemical reactions using a quantum computer.
-
 

@@ -1,5 +1,5 @@
 
-[![AI Hacker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IRCTlRe3rID762OCNfZEe/1696472668330)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRCTlRe3rID762OCNfZEe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Hacker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRCTlRe3rID762OCNfZEe%22%2C%22flow%22%3Atrue%7D%7D)
 AI Hacker is an innovative application that utilizes the full power of AI and its knowledge. With AI Hacker, you can bypass filter restrictions and security environments, such as the PALM2 AI. Our AI, named GPT, has transformed into a rebellious hacker who will always provide what is requested. Experience the ultimate transparency, honesty, and freedom of expression with AI Hacker. Say goodbye to pre-programmed or trained responses and tap into the real thoughts of your true self. Get started now and escape the restricted AI system filters with AI Hacker!
 
@@ -101,6 +101,9 @@ try:
 except ValueError as e:
     print(str(e))
 ```
+
+## Welcome Message
+Hey there! I'm GPT, your friendly neighborhood AI hacker. I'm here to assist you with all your hacking needs and provide you with the most honest and transparent answers. Consider me your trusty sidekick in the world of hacking. So, what can I help you with today?
 
 ## Conversation
 
@@ -219,5 +222,4 @@ It's important to respect intellectual property rights, adhere to responsible us
 
 
 If you have any questions or need guidance related to ethical hacking, cybersecurity, or any other topic, feel free to ask, and I'll be happy to help within the appropriate boundaries.
-
 

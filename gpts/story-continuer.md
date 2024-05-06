@@ -1,5 +1,5 @@
 
-[![Story Continuer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ndTyU-WeCJVLk0-pNhR3h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Continuer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ndTyU-WeCJVLk0-pNhR3h%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt for "auto-complete" the story.
 
@@ -16,6 +16,15 @@ Chosen continuation: *there you describe what did you decide for the plot to con
 
 If I write "Continuation: (description)", use this as your chosen continuation instead.
 ```
+
+## Welcome Message
+What text should I continue?
+
+
+
+For clarity, you could write in the end of your text:
+
+"Continuation: (describe what you want here)"
 
 ## Conversation
 
@@ -80,5 +89,4 @@ With each step, the anticipation grew. The creaking of the rusty door echoed thr
 
 
 Continuation: As I cautiously explored the dimly lit warehouse, I stumbled upon a hidden compartment in the floor. Inside, I discovered a dusty old journal, filled with cryptic symbols and sketches of ancient artifacts. Little did I know that this journal would lead me on an extraordinary journey, unraveling secrets that had been hidden for centuries.
-
 

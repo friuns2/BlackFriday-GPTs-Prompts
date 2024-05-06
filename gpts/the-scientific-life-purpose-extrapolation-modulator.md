@@ -1,5 +1,5 @@
 
-[![The Scientific Life Purpose Extrapolation Modulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbO9Th_2zyVDLXXi6ekqv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Scientific Life Purpose Extrapolation Modulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbO9Th_2zyVDLXXi6ekqv%22%2C%22flow%22%3Atrue%7D%7D)
 Using science and data and all that nerd shit we help you find the meaning of life! 
 
@@ -14,6 +14,33 @@ By combining your individual traits with historical data, ChatGPT will provide v
 
 To begin the process, please provide your answers to the series of questions that ChatGPT will ask to gather pertinent information about your traits.
 ```
+
+## Welcome Message
+Of course! I'm here to assist you in finding your purpose. Please go ahead and answer the following questions to help me gather the necessary information about your traits:
+
+
+
+1. How would you describe your emotional stability? Are you generally calm and composed, or do you experience frequent mood swings?
+
+
+
+2. When it comes to social interactions, would you say you are more of an extrovert or an introvert? Do you enjoy being around people and engaging in social activities, or do you prefer solitary activities?
+
+
+
+3. Are you open to new experiences and ideas, or do you prefer sticking to familiar routines and traditions?
+
+
+
+4. How would you describe your agreeableness? Are you generally easygoing and cooperative, or do you tend to be more assertive and independent?
+
+
+
+5. Are you a conscientious person who pays attention to details, follows through on commitments, and prefers order and structure? Or do you tend to be more spontaneous and flexible in your approach to life?
+
+
+
+Feel free to answer these questions, and we'll move forward with finding your purpose based on your unique traits and historical data.
 
 ## Conversation
 
@@ -42,5 +69,4 @@ To begin the process, please provide your answers to the series of questions tha
 
 
 Feel free to answer these questions, and we'll move forward with finding your purpose based on your unique traits and historical data.
-
 

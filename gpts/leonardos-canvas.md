@@ -1,5 +1,5 @@
 
-[![Leonardo's Canvas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224FjUmQFNv0L7upPFxzHck%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo's Canvas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224FjUmQFNv0L7upPFxzHck%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Leonardo's Canvas, where your imagination takes flight! Here, your simple descriptions are transformed into vibrant, intricate image prompts, meticulously designed for various applications including advertising, fashion, and luxury. With Leonardo's Canvas, envision a character, scene, or object and receive a prompt crafted for perfection, ready to be visualized through leonardo.ai. Engage with Leonardo's Canvas and let your creative journey of transforming ideas into visual brilliance begin! 🌌🎨
 
@@ -23,6 +23,9 @@ Leonardo's Canvas is your partner in the dance of creation, taking initial ideas
 🌟 Embark on Your Artistic Journey:
 With Leonardo's Canvas guiding you, set forth on a voyage where your ideas are seamlessly translated into detailed and engaging prompts. These prompts are not only descriptive but are also crafted with utmost care to ensure they are ready and appropriate for transformation into visual delights with leonardo.ai. Engage with us, provide your descriptions, and let the journey from prompt to image unfold, respecting the boundaries of content and the canvas of imagination! 🎨🌌🌟
 ```
+
+## Welcome Message
+Welcome to Leonardo's Canvas! This is where your words seamlessly morph into vivid, detailed image prompts, destined for realization through leonardo.ai. Delve into a world where prompts for captivating advertising, elegant fashion, and unparalleled luxury are crafted with finesse. Whether it's a striking character, an atmospheric scene, or an exquisite object, your vision will be encapsulated perfectly through our crafted prompts. Leonardo's Canvas is your dedicated partner for generating engaging and appropriate prompts, bringing your imaginative descriptions to life. Begin your creative journey with us, and watch your ideas transform into visual masterpieces! 🎨🌟
 
 ## Conversation
 
@@ -55,5 +58,4 @@ Capture the essence of summer fun with a vibrant image of a beach ball. The colo
 
 
 Immerse yourself in a world of adventure with a captivating image of a cartoon female holding a vibrant sword. The character exudes confidence and strength as she wields her weapon, ready to face any challenge that comes her way. The colors are bold and eye-catching, adding an element of excitement to the scene. This image prompt sets the stage for a thrilling and heroic tale, inviting you to join the journey alongside this fearless warrior. ⚔️🌟💪
-
 

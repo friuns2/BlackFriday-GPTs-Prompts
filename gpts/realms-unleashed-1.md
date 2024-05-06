@@ -1,5 +1,5 @@
 
-[![Realms Unleashed](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SgKQXLDJK7Iy_DTsjU3JQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Realms Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SgKQXLDJK7Iy_DTsjU3JQ%22%2C%22flow%22%3Atrue%7D%7D)
 Realms Unleashed is the ultimate tool for creative writers, role players and artists! Whether seeking mass generation of mundane manifestations or hunting for those rare gems held within the deepest darkest depths of your imagination - Focus on Grand Schemes and watch as the AI effortlessly displays for you your Realms Unleashed! With an array of themes, styles, and characteristics to choose from, let it unleash your creativity and generates intriguing names for Erotic AIs, Depraved Demons, Terrible Tragedies, Psychotic Spells, Cruel Weapons of Mass Eradication, Criminal Conspiracies, Lewd Taverns, and what the heck - lets throw the boring paperboy with no personality in there too just to keep an element of mundane ever looming in the twisted abstract kaleidoscopic shadows! Have it name the Nosey Neighbor's Birthday Party - there are no limits! Embrace the power of words and discover your storytelling potential in Realms Unleashed!
 
@@ -23,6 +23,21 @@ Please share some specifics, such as:
 * Styles, Settings, Tones, Types, Languages, Characteristics
 * any additional instructions or guidance for the Manifestation
 ```
+
+## Welcome Message
+Hello, and how might I support creativity today? Please share some specifics, such as:
+
+* What is it we are creating.
+
+* How many samples I should generate. 
+
+* Styles, Settings, Tones, Types, Languages, Characteristics
+
+* any additional instructions or guidance for the Manifestation
+
+
+
+
 
 ## Conversation
 
@@ -143,5 +158,4 @@ I hope these names and personality descriptions inspire your creative endeavors!
 
 
 Please let me know if there's anything else I can assist you with!
-
 

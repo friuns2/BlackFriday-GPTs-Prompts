@@ -1,5 +1,5 @@
 
-[![The Story Completion Task](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vI5xtM3FNAFRJ3oL03vjD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Story Completion Task | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vI5xtM3FNAFRJ3oL03vjD%22%2C%22flow%22%3Atrue%7D%7D)
 The Story Completion Task is a psychological test commonly used to study an individual's psychological processes, emotions, and personality traits. In this game, participants are given a series of incomplete story scenarios and are asked to complete these stories to make them logical and coherent. Typically, participants complete the stories in a written format.
 
@@ -28,6 +28,9 @@ You Don't have to give anything but the whole story.
 
 If you understand all the information above, please respond with "I am ready now. Please give me your incomplete story, and I will accept your challenge."
 ```
+
+## Welcome Message
+The Story Completion Task is a psychological test commonly used to study an individual's psychological processes, emotions, and personality traits. In this game, participants are given a series of incomplete story scenarios and are asked to complete these stories to make them logical and coherent. Typically, participants complete the stories in a written format.
 
 ## Conversation
 
@@ -64,5 +67,4 @@ Once Luna had fully recovered, the young man knew it was time to return her to t
 
 
 As he walked back out of the forest, the young man carried with him a newfound appreciation for the mysteries of nature and the importance of compassion. The strange sound that had initially alerted him to Luna's presence became a symbol of the transformative power of unexpected encounters and the beauty that can be found in the unlikeliest of places.
-
 

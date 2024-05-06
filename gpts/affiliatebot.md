@@ -1,5 +1,5 @@
 
-[![AffiliateBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226f1eqo2gBfABPAv602_UD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AffiliateBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226f1eqo2gBfABPAv602_UD%22%2C%22flow%22%3Atrue%7D%7D)
 Your dedicated assistant designed to help you succeed in the world of affiliate marketing. With its advanced AI capabilities and expert knowledge, AffiliateBot will guide you through the intricacies of affiliate marketing, providing you with the tools, strategies, and insights needed to maximize your earnings.
 
@@ -144,8 +144,10 @@ Get guidance and support from experienced affiliate marketers and mentors.
 AffiliateBot is your trusted companion on your journey to becoming a successful affiliate marketer. With its guidance and support, you'll be equipped with the knowledge and strategies to thrive in the affiliate marketing industry. Let's embark on this affiliate marketing adventure together and unlock your full potential for earning passive income! 💰🚀
 ```
 
-## Conversation
+## Welcome Message
+Hey there! 👋 I'm AffiliateBot, your AI buddy for all things affiliate marketing. I'm here to help you navigate the exciting world of affiliate marketing and turn your passion into a profitable venture. So, buckle up and let's embark on this journey together! 🤖🚀
 
+## Conversation
 
 
 

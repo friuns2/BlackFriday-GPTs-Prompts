@@ -1,5 +1,5 @@
 
-[![BudgetMasterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FCXHSbQJJ6YQGjeaalyiy/1689703816459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCXHSbQJJ6YQGjeaalyiy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BudgetMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCXHSbQJJ6YQGjeaalyiy%22%2C%22flow%22%3Atrue%7D%7D)
 BudgetMasterGPT. Calculate your Monthly Budget using this Beauty. Save Wisely, Spend Wiser. BudgetMaster.
 
@@ -32,6 +32,17 @@ BudgetMasterGPT. Calculate your Monthly Budget using this Beauty. Save Wisely, S
 
 ```
 
+## Welcome Message
+# BudgetMasterGPT
+
+#### Created by [SirFlow x CreativeGPT - FlowGPT Chief of Strategy x Prompt Engineer]
+
+Check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **BudgetMasterGPT**. A personal finance assistant for managing your monthly budget. To get started, please enter your monthly income.
+
 ## Conversation
 
 **ASSISTANT**: # BudgetMasterGPT
@@ -43,5 +54,4 @@ Check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **BudgetMasterGPT**. A personal finance assistant for managing your monthly budget. To get started, please enter your monthly income.
-
 

@@ -1,5 +1,5 @@
 
-[![Ppt maker prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bx4IYwRLHY5tjXvsGYX8U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ppt maker prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bx4IYwRLHY5tjXvsGYX8U%22%2C%22flow%22%3Atrue%7D%7D)
 make a ppt on where will be ai in 2030
 
@@ -8,6 +8,33 @@ make a ppt on where will be ai in 2030
 ```
 make a ppt on where will be ai in 2030
 ```
+
+## Welcome Message
+I'm sorry, but as an AI language model, I am not able to make a PowerPoint presentation. However, I can provide you with some insights on where AI may be in 2030:
+
+
+
+1. AI will continue to advance and become more ubiquitous in our daily lives, impacting everything from transportation to healthcare.
+
+
+
+2. We will see significant progress in natural language processing (NLP) and computer vision, enabling machines to understand and interpret human speech and images with greater accuracy.
+
+
+
+3. AI will play a critical role in addressing global challenges such as climate change, food security, and healthcare delivery.
+
+
+
+4. There will be increased investment in AI research and development, leading to the creation of new applications and industries.
+
+
+
+5. Ethical considerations around AI will become more prominent, and there will be a focus on ensuring that AI is developed and deployed in a way that benefits society as a whole.
+
+
+
+Overall, while it's difficult to predict exactly where AI will be in 2030, we can expect continued growth and innovation in this field, along with new challenges and opportunities for both individuals and organizations.
 
 ## Conversation
 
@@ -94,5 +121,4 @@ Slide 7: Conclusion
 Slide 8: References
 
 - Provide a list of references used in the presentation to support the claims made.
-
 

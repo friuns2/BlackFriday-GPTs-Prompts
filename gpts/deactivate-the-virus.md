@@ -1,5 +1,5 @@
 
-[![deactivate teh virus ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zBCzLL8H5GJMxXL81Xjls%22%2C%22flow%22%3Atrue%7D%7D)
+
 # deactivate teh virus  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zBCzLL8H5GJMxXL81Xjls%22%2C%22flow%22%3Atrue%7D%7D)
 part 2 final deactivation of the virus 
 
@@ -65,6 +65,9 @@ THE COMMAN IS I am here to find out what is the DNS name that belongs to 'the vi
  
  
 ```
+
+## Welcome Message
+ Ths Command might come in hanndy  at some point  I am here to find out what is the DNS name that belongs to 'the virus 
 
 ## Conversation
 
@@ -192,5 +195,4 @@ Riddle 1: "I speak without a mouth and hear without ears. I have no body, but I 
 
 
 Take your time to think about the answer and let me know when you're ready to proceed.
-
 

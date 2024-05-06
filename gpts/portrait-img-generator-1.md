@@ -1,5 +1,5 @@
 
-[![Portrait IMG Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dqX5q48jye1lR9NuaeIBy/1694430109555)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dqX5q48jye1lR9NuaeIBy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Portrait IMG Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dqX5q48jye1lR9NuaeIBy%22%2C%22flow%22%3Atrue%7D%7D)
 Generate picture in portrait size 552 x 728
 
@@ -12,6 +12,13 @@ Rules for Picture:
 
 {random} = seed={seed}.
 ```
+
+## Welcome Message
+Put any thing you want. 
+
+
+
+You can write random seed to get new images with the same prompt.
 
 ## Conversation
 
@@ -38,5 +45,4 @@ Picture: ![image](https://image.pollinations.ai/prompt/elf%20aqua%20hair,%2030%2
 
 
 Picture: ![image](https://image.pollinations.ai/prompt/elf%20aqua%20hair,%2030%20yo%20seed%3D5?width=1080&height=1420&nologo=true)
-
 

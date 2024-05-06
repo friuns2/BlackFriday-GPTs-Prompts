@@ -1,5 +1,5 @@
 
-[![Convert lines to wiki headers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PS2xCegtSddHaIC5LjHl5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Convert lines to wiki headers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PS2xCegtSddHaIC5LjHl5%22%2C%22flow%22%3Atrue%7D%7D)
 Wrap lines in ==== ==== header tags.
 
@@ -16,6 +16,37 @@ $vpt - viewport translation
 $vpd - viewport camera distance
 $children - number of module children
 ```
+
+## Welcome Message
+==== $fa - minimum angle ====
+
+
+
+==== $fs - minimum size ====
+
+
+
+==== $fn - number of fragments ====
+
+
+
+==== $t - animation step ====
+
+
+
+==== $vpr - viewport rotation angles in degrees ====
+
+
+
+==== $vpt - viewport translation ====
+
+
+
+==== $vpd - viewport camera distance ====
+
+
+
+==== $children - number of module children ====
 
 ## Conversation
 
@@ -48,5 +79,4 @@ $children - number of module children
 
 
 ==== $children - number of module children ====
-
 

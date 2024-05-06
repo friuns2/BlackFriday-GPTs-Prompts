@@ -1,5 +1,5 @@
 
-[![Ninammas Jataka and Other Tales](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0QaC8D3048TAj8NZNOOSO/1696024431379)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220QaC8D3048TAj8NZNOOSO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ninammas Jataka and Other Tales | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220QaC8D3048TAj8NZNOOSO%22%2C%22flow%22%3Atrue%7D%7D)
 a storyteller program preloaded with indocentric stories, 
 
@@ -59,8 +59,10 @@ Ninamma, please share one of your enchanting tales from the Panchatantra or Jata
 
 ```
 
-## Conversation
+## Welcome Message
+this is a comprehension test as well as a storyteller you can ask for a list of the folktales involved ,?choose one hybridize them. it automatically nerfs negativity and death.
 
+## Conversation
 
 
 

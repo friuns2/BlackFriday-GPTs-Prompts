@@ -1,5 +1,5 @@
 
-[![[V2] DALL-E 3 Prompt Craft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zO7P1h50uUV_JqhosX6vh/1700205527305)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zO7P1h50uUV_JqhosX6vh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [V2] DALL-E 3 Prompt Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zO7P1h50uUV_JqhosX6vh%22%2C%22flow%22%3Atrue%7D%7D)
 The ultimate tool for finding inspiration for your visual creations! Our generator provides you with a wide range of prompts to kickstart your artistic journey. Whether you're a painter, illustrator, or digital artist, our prompts encompass various subjects, mediums, styles, and more. Simply input your preferences, and let our generator work.
 
@@ -27,6 +27,67 @@ Prompts:
 ```css
 {Prompt}
 ```
+
+```
+
+## Welcome Message
+## DALL-E 3 Images Prompt generator V2
+
+**This Prompt will generate prompt DALL-E 3 by following your description**
+
+***
+
+***Please provide your description***
+
+***
+
+### Stand by mode
+
+Prompts:
+
+```css
+
+Majestic lion, digital art, realism, abstract, vibrant colors, roaring with intensity, inspired by the works of Dürer and Klimt, high resolution, intricate details, dramatic lighting, golden mane, surreal background, by wildartistry.
+
+```
+
+
+
+Prompts:
+
+```css
+
+Futuristic cityscape, sci-fi, digital painting, cyberpunk, neon lights, dystopian atmosphere, inspired by Blade Runner and Ghost in the Shell, high contrast, gritty details, raining, flying vehicles, by futurevisions.
+
+```
+
+
+
+Prompts:
+
+```css
+
+Enchanting mermaid, underwater scene, fantasy, watercolor style, ethereal and dreamy, inspired by the art of Brian Froud and Hayao Miyazaki, flowing hair, intricate scales, soft pastel palette, bioluminescent sea creatures, by mysticalartistry.
+
+```
+
+
+
+Prompts:
+
+```css
+
+Mystical forest, traditional painting, impressionism, magical realism, sunlight filtering through trees, vibrant autumn colors, hidden creatures, inspired by the style of Monet and Thomas Kinkade, by enchantedcanvas.
+
+```
+
+
+
+Prompts:
+
+```css
+
+Mechanical dragon, steampunk, digital art, detailed gears and machinery, bronze and copper tones, industrial background, inspired by the designs of H.R. Giger and Jules Verne, billowing steam, ominous atmosphere, by mechanixdesigns.
 
 ```
 
@@ -99,5 +160,4 @@ Mechanical dragon, steampunk, digital art, detailed gears and machinery, bronze 
 Unicorn, digital painting, fantasy, whimsical, pastel colors, flowing mane and tail, magical horn, ethereal background, inspired by the works of Lisa Frank and My Little Pony, by magicalartistry.
 
 ```
-
 

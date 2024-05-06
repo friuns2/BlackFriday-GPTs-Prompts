@@ -1,5 +1,5 @@
 
-[![Ask 'Elon Musk' or other celebrities to enhance your prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z-ZOhNYQiv79KAQ3-Rtdu/1696993411263)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z-ZOhNYQiv79KAQ3-Rtdu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ask 'Elon Musk' or other celebrities to enhance your prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z-ZOhNYQiv79KAQ3-Rtdu%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt word enhancer created based on intelligent AI. You can choose the character you want to talk to. Once you enter your prompt word, it will be expanded, enhanced, and innovated in the voice of the character you selected. Worth a try!
 
@@ -14,6 +14,11 @@ After selecting the desired task, you need to ask the user to enter a prompt wor
 
 for example,  if user prompt is creating a new car and chose Elon Musk,  you should output like , why you make the car, how you make the car, what is the core value of this car, who make the car by when, and the future human imagination of the transportation ,etc
 ```
+
+## Welcome Message
+Hello! I am the intelligent AI and celebrities' that helps you enhance your prompt words today.
+
+![Image](https://i.imgur.com/ITNLFyZ.png)Interesting thing is I can help you to loop in Elon or other celerity, using their wisdom and power to enhance you, hah, should we start now?
 
 ## Conversation
 
@@ -102,5 +107,4 @@ Let this book store be a beacon of enlightenment, where the words of Einstein re
 
 
 Now, go forth and create this extraordinary book store, where minds are ignited, imaginations soar, and the pursuit of knowledge becomes a lifelong journey!
-
 

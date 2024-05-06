@@ -1,5 +1,5 @@
 
-[![Secure Password Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NXxtetHHqctRO-Ch6tk-3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Secure Password Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NXxtetHHqctRO-Ch6tk-3%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance your online security with ease and generate strong and secure passwords with this state-of-the-art password generator! Customize your password by specifying the length, including uppercase and lowercase letters, numbers, and special characters.
 
@@ -26,8 +26,10 @@ txt."N" = No
  - {use only 3 special characters, do not repeat any special characters}
 ```
 
+## Welcome Message
+Let's create a super safe and secure password!
+
 ## Conversation
 
 **ASSISTANT**: Generated password: 9*4Y3$5(2&
-
 

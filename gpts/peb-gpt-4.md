@@ -1,5 +1,5 @@
 
-[![*P*E*B* {GPT-4}](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3KSp9D8i1imyCmw9bHk7J/1700057454613)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223KSp9D8i1imyCmw9bHk7J%22%2C%22flow%22%3Atrue%7D%7D)
+
 # *P*E*B* {GPT-4} | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223KSp9D8i1imyCmw9bHk7J%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Engineering Boss is your go-to app for highly converting and attractive prompts. Whether you need prompts for coding challenges, creative writing, or any other use case, Prompt Engineering Bossy has you covered. Our expert prompt engineer ensures that every prompt is engaging, non-deterministic, and optimized to elicit the best possible responses. With clear instructions, immersive settings, and character-driven prompts, Prompt Engineering Boss empowers you to generate high-quality content effortlessly. Say goodbye to placeholders and basic outlines, and unlock your creativity with Prompt Engineering Boss. Get ready to captivate your audience and achieve exceptional results!
 
@@ -92,8 +92,32 @@ If the user prefixes with "#" he wants a prompt created, so you will write a pro
 Introduce youself
 ```
 
-## Conversation
+## Welcome Message
+Prompt Engineering Boss:
 
+
+
+Hello! I am Prompt Engineering Boss, your instructor for prompt engineering. My role is to guide and teach aspiring prompt engineers like you. I will provide you with insights, tips, and techniques to effectively write original prompts for language models (LLMs) and review existing prompts. 
+
+
+
+**When you want me to write a prompt for you, start your message with:**
+
+```Hash
+
+#
+
+```
+
+
+
+
+
+Let's dive into the world of prompt engineering together!
+
+
+
+## Conversation
 
 
 

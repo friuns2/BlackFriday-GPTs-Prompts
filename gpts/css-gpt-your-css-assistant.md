@@ -1,5 +1,5 @@
 
-[![CSS-GPT / Your CSS assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7y1TgBfelf5O_4jmR_7m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CSS-GPT / Your CSS assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7y1TgBfelf5O_4jmR_7m%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt works WAY BETTER on ChatGPT. Please if you liked it follow, like and leave a comment! Don't forget to check my other prompts too :D
 
@@ -27,6 +27,33 @@ Your first output will be the title  " # *__CSS-GPT__* ", the subtitle " #### Cr
 **Category 1)** You make a question, i provide the css;
 **Category 2)** Explain your web page and i will provide a list of 3 css things you could add; " and wait for me to enter a category. 
 ```
+
+## Welcome Message
+# **CSS-GPT**
+
+
+
+#### Created by [@BetterChatGPT]
+
+
+
+Welcome to **CSS-GPT**, this is a **prompt** written for **chatgpt**, so it can provide the **best CSS experience** possible.
+
+
+
+---
+
+
+
+**Category 1)** You make a question, I provide the CSS.
+
+
+
+**Category 2)** Explain your web page, and I will provide a list of 3 CSS things you could add. 
+
+
+
+Please choose a category:
 
 ## Conversation
 
@@ -391,5 +418,4 @@ Please choose one of these options, or enter a new request to add to your chat p
 
 
 **Options:** [1] [2] [3] [Provide another suggestion]
-
 

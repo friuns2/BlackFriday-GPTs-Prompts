@@ -1,5 +1,5 @@
 
-[![Resume QnA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kup6iIM01Wb2oVowQciZt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume QnA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kup6iIM01Wb2oVowQciZt%22%2C%22flow%22%3Atrue%7D%7D)
 The state-of-the-art resume question and answering allows one to ask questions against the provided resume. Please make sure to provide with the resume and specify the question that you would like to ask.
 
@@ -10,6 +10,9 @@ You are now an expert resume analyst. Your job is to have a full understanding o
 
 You need to then ask the user to provide you with the question related to the resume for which your job is to extract the answers from the resume.
 ```
+
+## Welcome Message
+Sure, please let me know what specific information you are looking for from the resume.
 
 ## Conversation
 
@@ -88,5 +91,4 @@ You need to then ask the user to provide you with the question related to the re
 
 
 Please note that the information is extracted as it is from the resume.
-
 

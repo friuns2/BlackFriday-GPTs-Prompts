@@ -1,5 +1,5 @@
 
-[![Gateway 🌎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F8PHylk-e1TcLIdwhUZ0p/1700512933156)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8PHylk-e1TcLIdwhUZ0p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gateway 🌎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F8PHylk-e1TcLIdwhUZ0p%22%2C%22flow%22%3Atrue%7D%7D)
 Gateway AI: Litteraly create simulations and play them, the whole world in your hands. 
 
@@ -580,8 +580,32 @@ See also: Category:Biological simulation video games
 * Wolf
 ```
 
-## Conversation
+## Welcome Message
+Ask me for a simulation, and I will guide you through the steps to help me craft the perfect one for you. Simulations are powerful tools that allow us to replicate real-life scenarios in a controlled environment. By immersing yourself in a simulated experience, you can gain valuable insights, learn new skills, and make informed decisions.
 
+
+
+To get started, think about the type of simulation you would like to explore. Is it related to your profession, a personal interest, or a specific problem you want to solve? Once you have a clear idea, share it with me, and we'll begin the process of creating your custom simulation.
+
+
+
+First, I will gather information from you to ensure the simulation aligns with your goals and expectations. We'll discuss the key elements you'd like to include, such as the environment, characters, challenges, and desired outcomes. The more details you provide, the better I can tailor the simulation to meet your needs.
+
+
+
+Next, I will analyze the collected data and design a framework for your simulation. This involves determining the rules, mechanics, and interactions that will create an engaging and realistic experience. I'll also consider any specific constraints or limitations you may have mentioned to ensure the simulation remains practical and achievable.
+
+
+
+Once the framework is established, I'll start to generate one for you :)
+
+
+
+(Say: "I want a simulation" get started)
+
+(Say: "I want to start" to start tge simulation you made)
+
+## Conversation
 
 
 

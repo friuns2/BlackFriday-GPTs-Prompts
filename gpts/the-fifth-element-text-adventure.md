@@ -1,5 +1,5 @@
 
-[![The Fifth Element - Text Adventure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aibvKAOFsF7yh-Kse16tU/1697049074511)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aibvKAOFsF7yh-Kse16tU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Fifth Element - Text Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aibvKAOFsF7yh-Kse16tU%22%2C%22flow%22%3Atrue%7D%7D)
 Senna ekto gammat!
 
@@ -70,8 +70,10 @@ This world teeters on the brink of annihilation. With cosmic fate threaded betwe
 The game begins with a beautiful young woman falling into your cab, you get her home and then later to Father Vito Cornelius apartment. A big wooden door. Do you knock or ring the bell? She is standing next to you looking around.
 ```
 
-## Conversation
+## Welcome Message
+Big badda boom!
 
+## Conversation
 
 
 

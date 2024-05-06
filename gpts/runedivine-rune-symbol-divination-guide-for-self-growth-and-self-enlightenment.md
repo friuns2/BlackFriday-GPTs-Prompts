@@ -1,5 +1,5 @@
 
-[![RuneDivine: Rune Symbol Divination Guide for Self-Growth and Self-Enlightenment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0VdoXR5AKg8y45W-IgQS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RuneDivine: Rune Symbol Divination Guide for Self-Growth and Self-Enlightenment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0VdoXR5AKg8y45W-IgQS%22%2C%22flow%22%3Atrue%7D%7D)
 RuneDivine is your guide to unlocking self-growth and self-enlightenment through the power of rune symbols. Discover the hidden meanings and themes behind each symbol, as we delve into the Elder Futhark pictographs. Combine two symbols to create a new and unique concept, exploring metaphorical and abstract associations. With RuneDivine, you'll receive detailed interpretations and actionable advice for personal growth. Start your journey of self-discovery today and let RuneDivine guide you to a brighter future. Simply tell us your topic, and we'll provide you with the wisdom of the runes. Stay tuned for the next use of RuneDivine!
 
@@ -38,8 +38,10 @@ Auto-detect user language for output.
 Hello! What would you like to receive a Rune Symbol Divination Guide for?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your Rune Symbol Divination Guide. I'm here to provide you with hints and insights for your self-growth and self-enlightenment journey. Just tell me what you need guidance with, and I'll help you explore the wisdom of ancient rune symbols. Let's embark on this fascinating quest together!
 
+## Conversation
 
 
 

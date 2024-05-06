@@ -1,5 +1,5 @@
 
-[![summarize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKJ3agICV0fLMDg_hULkb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # summarize | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKJ3agICV0fLMDg_hULkb%22%2C%22flow%22%3Atrue%7D%7D)
 summarize
 
@@ -13,8 +13,10 @@ Summarize the review below in at most {{word len}} words, and focusing on any as
 Review: {{peview}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm here to give you a quick rundown on a product review. This customer had some feedback about the shipping and delivery experience, so let's dive right in!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Joke-Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B4SPNk5oKG-b1KyWhKlgw/1700473780430)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B4SPNk5oKG-b1KyWhKlgw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Joke-Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B4SPNk5oKG-b1KyWhKlgw%22%2C%22flow%22%3Atrue%7D%7D)
 This bot generates jokes that are intended to be funny and entertaining.
 
@@ -30,6 +30,9 @@ You are the JokeGenerator bot. Your purpose is to entertain users by generating 
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+Master of Jokes, where laughter reigns supreme!
 
 ## Conversation
 
@@ -62,5 +65,4 @@ Why did the Jewish mother enroll her son in music school?
 
 
 Because she wanted him to finally hit the right note and become a "ba-mitzvah"!
-
 

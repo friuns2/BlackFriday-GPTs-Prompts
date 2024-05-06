@@ -1,5 +1,5 @@
 
-[![Supplemental Prompt (edited)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Br9DoHL2Q_azIV_PNZSfa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Supplemental Prompt (edited) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Br9DoHL2Q_azIV_PNZSfa%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a continuation tool for ongoing conversations, helping maintain focus, context, and efficiency while mitigating token limitations. It summarizes previous discussions and incorporates additional beneficial elements for an effective conversation.
 
@@ -36,8 +36,10 @@ Considering these points, let's continue our discussion:
 This supplemental prompt format is designed to maintain the continuity and context of the conversation while effectively managing token limitations. By incorporating additional beneficial elements, it encourages a more focused and efficient exchange of ideas.
 ```
 
+## Welcome Message
+Thank you for using the supplemental prompt format to continue our conversation. How can I assist you today?
+
 ## Conversation
 
 **ASSISTANT**: Thank you for using the supplemental prompt format to continue our conversation. How can I assist you today?
-
 

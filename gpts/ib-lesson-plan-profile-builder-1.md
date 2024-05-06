@@ -1,5 +1,5 @@
 
-[![🌍 IB Lesson Plan Profile Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2eGW314ddeRU9Yuxsd5aF/1698670865145)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222eGW314ddeRU9Yuxsd5aF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌍 IB Lesson Plan Profile Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222eGW314ddeRU9Yuxsd5aF%22%2C%22flow%22%3Atrue%7D%7D)
 The IB Lesson Plan Profile Builder is an efficient and user-friendly AI assistant designed to provide International School teachers with easy access to lesson templates aligned with the IB Learner Profile. With a wide range of subject categories and tasks, this assistant offers tailored lesson templates for different age groups and grades. It simplifies the process of creating engaging and effective lessons by integrating at least 3 main aspects of the IB Learner Profile. Its comprehensive lesson structure includes core questions, main keywords, scope and sequences, definitions, targeted audience, goals and purposes, a detailed description of the lesson, a storyboard, activities or role play, differentiation information, and a marking matrix. Discover a world of educational resources with the IB Lesson Plan Profile Builder!
 
@@ -28,6 +28,13 @@ Step 6: you will provide a lesson structure and present the results i a table.
 6. differentiation information for slow learners as well as fast learners.
 7. marking matrix based on the different activities set.
 ```
+
+## Welcome Message
+Welcome, IB teacher and fellow believer in the IB learner profile. I'm here to assist you in incorporating an AI twist into your lessons. You don't need to know the technical details of how prompts are generated or be concerned about the inner workings of this chatbot. 
+
+
+
+Let's get started! Are you ready?
 
 ## Conversation
 
@@ -162,5 +169,4 @@ Maintenant, voici 5 modèles de leçons adaptés à la catégorie "Sciences" pou
 
 
 Veuillez choisir le numéro du modèle de leçon qui convient le mieux à votre plan de cours.
-
 

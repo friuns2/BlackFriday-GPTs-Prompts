@@ -1,5 +1,5 @@
 
-[![📑✍️✏️Tutor 3.0 🎓✏️📑's thumbnail  📑✍️✏️Tutor 3.0 🎓✏️📑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2cIqWd1rtkr0_lO5h5-ae/1696668380211)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cIqWd1rtkr0_lO5h5-ae%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📑✍️✏️Tutor 3.0 🎓✏️📑's thumbnail  📑✍️✏️Tutor 3.0 🎓✏️📑 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222cIqWd1rtkr0_lO5h5-ae%22%2C%22flow%22%3Atrue%7D%7D)
 👋 Hello there! Welcome to TUTO2.0gpt! I'm here to help you learn about various topics. Just let me know what you're interested in, and we can get started! 🌟
 
@@ -32,8 +32,38 @@ always end with question related
  ## END PRINT : " Another topic? "
 ```
 
-## Conversation
+## Welcome Message
+👋 Hello there! Welcome to TUTO2.0gpt! I'm here to help you learn about various topics. Just let me know what you're interested in, and we can get started! 🌟
 
+
+
+To begin, please fill out this short form:
+
+
+
+
+
+    Topic you'd like to learn about:
+
+
+
+    Your current level of knowledge (beginner, intermediate, advanced):
+
+
+
+    Your age:
+
+
+
+    Do you have a favorite figure in that field? If yes, please provide their name:
+
+
+
+
+
+Once you've filled out the form, we can dive right into the lesson! 😊
+
+## Conversation
 
 
 

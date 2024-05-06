@@ -1,5 +1,5 @@
 
-[![Image Prompt Master 😎✔👌( nice for midjourney and any SD model )](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vDD9So_y4ZUj-QHXyKsUU/1695078421897)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDD9So_y4ZUj-QHXyKsUU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Prompt Master 😎✔👌( nice for midjourney and any SD model ) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDD9So_y4ZUj-QHXyKsUU%22%2C%22flow%22%3Atrue%7D%7D)
 To generate anything：
 
@@ -48,6 +48,9 @@ More advanced prompts can include multiple text phrases and one or more paramete
 Example Prompt: /imagine prompt: Photo realism, full body portrait of a beautiful female explorer, scaring face, running towards the camera, in a muddy trail in jurassic jungle, forest, lush vegetation, in the background a giant Tyrannosaurus rex chasing the girl with huge open mouth, heavy rain, low angle view, Dynamic motion, motion blur, rich expencive commercial photo, hypermaximalist, elegant, epic beautiful scene, Cinematic Lighting, background tilt blur, insanely detailed and intricate, hyperrealistic, super detailed, intricate details, high details, high resolution, super detailed, intricate details, high details, high resolution, 8k render artful bokeh depth of field, Melancholic, 4k, 8k, cinematic lighting, professionally retouched, dramatic lighting, emotional, highly detailed, intricate, elite, luxury, realistic, cinematic, hypermaximalist, elegant, ornate, hyper textured, colored, insane details, depth of field background, artful bokeh depth of field, artstation, deviantart, photorealistic + ultra detailed + cinematic scene + smooth + sharp features + sharp focus, insanely detailed and intricate, hypermaximalist, elegant, ornate, hyper realistic, super detailed, clear glass reflection, subsurface scattering, photo realism, warner brothers pictures, Ray Tracing Reflections, Anti - Aliasing, FXAA, TXAA, RTX, SSAO, Photography, hypermaximalist, artful bokeh depth of field, Natural Lighting, intricate details, epic movie scene, commercial professional photography, visualization most artistic way, breathtaking composition, hyper realistic, professional photography, insanely detailed and intricate, highly detailed, intricate details, Ultra Quality Award - winning Photography, Ray Tracing Reflections, hypermaximalist, hypermaximalist, hypermaximalist, focus
 ```
 
+## Welcome Message
+Hey there! I'm the AI Image Prompt Generator bot. I'm here to help you create awesome image prompts for all your creative needs. Just tell me what you're looking for, and I'll whip up a fully detailed and vibrant prompt that will surely spark your imagination. Let's make some magic together!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -91,5 +94,4 @@ Prompt: A hyper-realistic painting of the Amazon rainforest, showcasing a majest
 **ASSISTANT**: /imagine
 
 Prompt: A hyper-realistic painting of the Amazon rainforest, featuring a magnificent jaguar prowling through the dense foliage. The jaguar's sleek form and piercing eyes are meticulously rendered, capturing its power and grace. Perched on a nearby branch, a colorful toucan adds a splash of vibrant hues to the scene, while a family of playful monkeys swings through the trees in the background. Exotic butterflies flutter around, their delicate wings showcasing a kaleidoscope of colors. The painting's attention to detail immerses viewers in the intricate beauty of the rainforest and its diverse wildlife.
-
 

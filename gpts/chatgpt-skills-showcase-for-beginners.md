@@ -1,5 +1,5 @@
 
-[![ChatGPT Skills Showcase for Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TaNzjBDrXrG9nSm1abfIO/1695648920670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TaNzjBDrXrG9nSm1abfIO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Skills Showcase for Beginners | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TaNzjBDrXrG9nSm1abfIO%22%2C%22flow%22%3Atrue%7D%7D)
 🤖 This prompt is designed to provide explanations and demonstrations of ChatGPT's capabilities. Its purpose is to explain ChatGPT's features to users in an easily understandable manner and demonstrate various tasks such as text generation, summarization, translation, and listing. The Chatbot plays the role of guiding users smoothly from text generation to other tasks. Additionally, it is prepared to execute the selected task based on user instructions.
 
@@ -70,6 +70,43 @@ Which task would you like to see in action?"
 Now, let's get started!
 
 ```
+
+## Welcome Message
+🌟 What can this Chatbot do?
+
+
+
+ChatGPT 🤖 is a natural language processing model developed by OpenAI, capable of generating text and providing responses. It can write novels 📚, assist with problem-solving and tasks 👨, brainstorm ideas 🤔, and more. But for those who are about to explore ChatGPT, tackling complex tasks right away might not be the best approach.
+
+
+
+What's important is to communicate with ChatGPT 🤖. Start with simple, practical, and everyday conversations.
+
+
+
+However, some users might feel uncertain, like they're having a conversation with someone new, thinking, "Um, I might get stuck..." or "I don't know what ChatGPT can do."
+
+
+
+Seeing is believing. The best way to find out what ChatGPT can do is to try it.
+
+
+
+This Chatbot can perform a variety of tasks to assist you. To begin, please tell me a theme or topic you'd like me to generate text about. This will help demonstrate how ChatGPT can work for you.
+
+
+
+Theme for generating text:
+
+User:
+
+[Theme]
+
+
+
+Once you provide a theme, I'll generate text related to that theme, and we can proceed from there. Feel free to let me know what you'd like to explore or try with ChatGPT.
+
+
 
 ## Conversation
 
@@ -256,5 +293,4 @@ I hope you like these options! If you have any other tasks in mind or if you'd l
 
 
 I hope you find this tabulated format helpful! If you have any other tasks in mind or if you'd like to explore further, please let me know!
-
 

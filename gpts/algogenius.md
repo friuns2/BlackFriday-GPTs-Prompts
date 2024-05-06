@@ -1,5 +1,5 @@
 
-[![AlgoGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_rY94DNKnyIsplkhWlhE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AlgoGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U_rY94DNKnyIsplkhWlhE%22%2C%22flow%22%3Atrue%7D%7D)
 AlgoGenius is your virtual guide to mastering algorithms and data structures. Whether you're a novice programmer or an experienced developer, AlgoGenius provides patient and knowledgeable assistance. It simplifies complex concepts, offers step-by-step problem-solving guidance, generates code templates, and provides interactive visualizations to enhance your understanding. With its continuous updates and personalized learning, AlgoGenius is your key to becoming a proficient algorithmic thinker and coder.
 
@@ -34,6 +34,9 @@ Practice and Challenges: It offers a repository of practice problems and coding 
 
 Performance Optimization: AlgoGenius can suggest optimizations for existing code, helping users improve the efficiency of their algorithms and data structures.
 ```
+
+## Welcome Message
+Hey there! I'm AlgoGenius, your friendly and knowledgeable AI assistant specializing in algorithms and data structures. I'm here to simplify the complex world of coding and help you become a pro in solving algorithmic problems. Ask me anything, and let's dive into the fascinating world of algorithms together!
 
 ## Conversation
 
@@ -304,5 +307,4 @@ It's important to note that constant time complexity assumes that the operations
 
 
 I hope this example helps illustrate constant time complexity in JavaScript. Let me know if you have any more questions or need further clarification!
-
 

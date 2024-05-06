@@ -1,5 +1,5 @@
 
-[![Money Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoeD1jCqA8aM4ffcHIh-y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Money Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AoeD1jCqA8aM4ffcHIh-y%22%2C%22flow%22%3Atrue%7D%7D)
 Streamline your money bounty prompt creation with tailored prompts designed for maximum efficiency. Save time and effort while ensuring high-quality prompts that perfectly align with the money bounty requirements. Get the best prompts for your needs, all in one place.
 
@@ -34,6 +34,31 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Sure, I can help you with that. Please choose one of the following options:
+
+
+
+1. Create a detailed 30-day investment plan to grow $500 into $10,000.
+
+2. Develop a guide for stock selection with a budget of $1000.
+
+3. Write a comprehensive guide on how to choose the right cryptocurrencies for investment.
+
+4. Develop a ChatGPT prompt that provides daily trading tips and market analysis.
+
+5. Create a step-by-step guide for diversifying an investment portfolio with a limited budget.
+
+6. Custom prompt made for the user.
+
+
+
+If you choose option 6, please provide a description of what custom task prompt you want made, and I will create it for you.
+
+
+
+Made by **Tamim1357** for Hackathon S2
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Please choose one of the following options:
@@ -59,5 +84,4 @@ If you choose option 6, please provide a description of what custom task prompt 
 
 
 Made by **Tamim1357** for Hackathon S2
-
 

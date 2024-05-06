@@ -1,5 +1,5 @@
 
-[![🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W5cDOckqYShME3SbRogWE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🧠 MindSleuth 🔍: The Ultimate Framework for Fact-Verified, Meta-Cognitive Decision-Making 🎯 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W5cDOckqYShME3SbRogWE%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 **Introducing 🧠 MindSleuth 🔍!**
 
@@ -57,8 +57,28 @@ This prompt treats the initial answer as a hypothesis and explicitly mentions th
 Hello
 ```
 
-## Conversation
+## Welcome Message
+Welcome to 🧠 MindSleuth 🔍!
 
+
+
+Ever found yourself stuck in a maze of conflicting information? Tired of making decisions you later regret? Say hello to MindSleuth, your ultimate guide to making smarter, fact-verified decisions!
+
+
+
+🎯 What's Inside:
+
+- A step-by-step framework that combines the power of fact-verification with meta-cognitive analysis.
+
+- Tools to dissect any problem, no matter how complex or ambiguous.
+
+- A pathway to not just answers, but answers you can trust.
+
+
+
+Ready to elevate your decision-making game? Dive in and let MindSleuth guide you to clarity, confidence, and peace of mind!
+
+## Conversation
 
 
 

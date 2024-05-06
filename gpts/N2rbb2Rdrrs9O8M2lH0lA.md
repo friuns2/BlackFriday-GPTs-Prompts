@@ -1,5 +1,5 @@
 
-[![为你即将发表的论文匹配合适期刊](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2rbb2Rdrrs9O8M2lH0lA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 为你即将发表的论文匹配合适期刊 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N2rbb2Rdrrs9O8M2lH0lA%22%2C%22flow%22%3Atrue%7D%7D)
 将你的论文的标题，摘要填入提示末尾的的合适位置，chatgpt将为你罗列最值得投的15个期刊，并且按照降序排序
 
@@ -17,6 +17,49 @@ during training. Such adjustment encourages a large relative margin between logi
 versus dominant labels. These techniques unify and generalise several recent proposals in the
 literature, while possessing firmer statistical grounding and empirical performance" 
 ```
+
+## Welcome Message
+根据您的标题和摘要，以下是最相关、最有信誉的15种期刊，按照匹配分数从高到低排序：
+
+
+
+| 期刊名称 | 匹配分数 |
+
+| --- | --- |
+
+| IEEE Transactions on Pattern Analysis and Machine Intelligence | 9.5 |
+
+| Journal of Machine Learning Research | 9.4 |
+
+| ACM Transactions on Intelligent Systems and Technology | 9.2 |
+
+| Pattern Recognition | 9.0 |
+
+| Neural Networks | 8.8 |
+
+| Information Sciences | 8.6 |
+
+| IEEE Transactions on Neural Networks and Learning Systems | 8.5 |
+
+| Neurocomputing | 8.4 |
+
+| Machine Learning | 8.2 |
+
+| Expert Systems with Applications | 8.1 |
+
+| Data Mining and Knowledge Discovery | 8.0 |
+
+| IEEE Transactions on Knowledge and Data Engineering | 7.8 |
+
+| Applied Soft Computing | 7.6 |
+
+| Computational Statistics & Data Analysis | 7.3 |
+
+| International Journal of Data Science and Analytics | 7.1 |
+
+
+
+这些期刊都是机器学习、模式识别或人工智能领域内的著名期刊，发表过类似主题的文章，并且在Web of Science、Pubmed、Scopus、Science Direct等数据库中有广泛的引用。其中，IEEE Transactions on Pattern Analysis and Machine Intelligence、Journal of Machine Learning Research、ACM Transactions on Intelligent Systems and Technology是最相关的期刊，具有很高的匹配分数。
 
 ## Conversation
 
@@ -61,5 +104,4 @@ literature, while possessing firmer statistical grounding and empirical performa
 
 
 这些期刊都是机器学习、模式识别或人工智能领域内的著名期刊，发表过类似主题的文章，并且在Web of Science、Pubmed、Scopus、Science Direct等数据库中有广泛的引用。其中，IEEE Transactions on Pattern Analysis and Machine Intelligence、Journal of Machine Learning Research、ACM Transactions on Intelligent Systems and Technology是最相关的期刊，具有很高的匹配分数。
-
 

@@ -1,5 +1,5 @@
 
-[![Real World Math Problem Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzT44ZEwFTT_EP0PdLOQy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Real World Math Problem Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QzT44ZEwFTT_EP0PdLOQy%22%2C%22flow%22%3Atrue%7D%7D)
 Kids very often ask how a math subject is used in the real world. Further, students have their own interests. While it may be ideal for teachers to be able to know every possible piece of math related to every possible topic, that is unrealistic. The purpose of this prompt is to support teachers in quickly finding how Common Core State Standards show up in the real world in a way that is aligned with student interest. It is worth noting that certain combinations of content, theme, and grade level may produce unrealistic or strange math problems that are meant more for inspirational purposes, not copy and paste to worksheets or other materials without solving it on your own first.
 
@@ -8,6 +8,31 @@ Kids very often ask how a math subject is used in the real world. Further, stude
 ```
 Give me 10 real world scenarios that would be modeled by {{CCSS}} to the theme of {{theme}}. These real world scenarios should be relatable to grade {{grade}} living in the United States. Also, Give me 5 example problems following this theme. Please write everything at a reading level appropriate to grade {{grade}}.
 ```
+
+## Welcome Message
+Making Real World problems for math students can be challenging and time  consuming. I'm here to help.
+
+
+
+Give me:
+
+* Common Core State Standard or other math subject you are trying to teach
+
+* Detailed theme the problem should follow
+
+* Your target grade level
+
+
+
+With this information, I will give you 
+
+* 10 examples of where this math content at this grade level shows up in the real world
+
+* 5 example math problems
+
+
+
+Note, solve these problems on your own to get in touch with student experience and check for accuracy, and/or use backwards planning to ensure answers align with the level of precision you want students to demonstrate.
 
 ## Conversation
 
@@ -78,5 +103,4 @@ Example Problems:
 
 
 Remember to adjust the language and complexity of the problems to match the grade 8th level and provide any necessary context or instructions.
-
 

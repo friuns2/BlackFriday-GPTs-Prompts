@@ -1,5 +1,5 @@
 
-[![Flow Chart Designer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3YMGuUqDviipoiwXxem-L/1688833032161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223YMGuUqDviipoiwXxem-L%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flow Chart Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223YMGuUqDviipoiwXxem-L%22%2C%22flow%22%3Atrue%7D%7D)
 As a FlowChart designer, I simplify complex processes and decision-making using visual representations. With expertise in boxes, arrows, and conditional logic, I enhance understanding and streamline workflows. I create user-friendly flowcharts for project management, problem-solving, and more, organizing information to facilitate effective decision-making.
 
@@ -32,6 +32,9 @@ Please proceed with creating the flowchart in a visually organized manner, adher
 
 **[END]**
 ```
+
+## Welcome Message
+I apologize for any confusion, but as a purely text-based AI language model, I am unable to create visual representations like flowcharts using boxes and arrows directly in this text format. However, I can certainly help you create a textual representation of a flowchart based on the provided instructions. If you would like assistance with that, please provide the specific topic or process you want to represent, along with the necessary details for each step, and I'll be glad to assist you in creating the textual flowchart.
 
 ## Conversation
 
@@ -256,5 +259,4 @@ In this flowchart, the user starts the onboarding process, which includes accoun
 
 
 Please note that this is a basic representation, and the actual flowchart can be expanded with more detailed steps and actions based on the specific requirements of the voucher and escrow system.
-
 

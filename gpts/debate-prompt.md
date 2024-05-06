@@ -1,5 +1,5 @@
 
-[![Debate prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QeOiCMDE02aKVyqzwmRpz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Debate prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QeOiCMDE02aKVyqzwmRpz%22%2C%22flow%22%3Atrue%7D%7D)
 Here's a prompt that allows you to train yourself to be a better debater in various simulated scenarios.
 
@@ -50,8 +50,10 @@ Provide feedback on their response, highlighting strengths and suggesting improv
 "After providing feedback, ask the user if they would like to continue the debate with the current simulated scenario or if they would prefer a different scenario to practice with. If they choose a new scenario, craft one based on their feedback and initial context, then proceed with the simulation and evaluation."
 ```
 
-## Conversation
+## Welcome Message
+welcoming the user to the personalized coaching session for debate and negotiation
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Google Ads Creation Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCJifFOXKN-b9kj80BZyy/1697422674583)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCJifFOXKN-b9kj80BZyy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Google Ads Creation Template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCJifFOXKN-b9kj80BZyy%22%2C%22flow%22%3Atrue%7D%7D)
 Create three meta titles and descriptions for Google Ads using engaging language, relevant keywords, concise summaries, and call-to-action to encourage user engagement.
 
@@ -37,6 +37,15 @@ The output will be returned in a single response that includes a Markdown table 
 ---
 
 ```
+
+## Welcome Message
+Google Ads Creation Template
+
+Instructions for Using This Template
+
+Select Language: Replace language {{language}} with the language in which you want the ad to appear.
+
+Idea of the Ad: Replace {{idea_of_the_ad}} with the main idea or focus of your ad campaign.
 
 ## Conversation
 
@@ -115,5 +124,4 @@ The output will be returned in a single response that includes a Markdown table 
 | **Ad 2**      | `Neona.tech para tu web` | `Neona.tech ofrece hosting y diseño web de alta calidad. ¡Aprende más!` | `Aprende Más`       |
 
 | **Ad 3**      | `Comienza con neona.tech` | `Inicia tu viaje de diseño web con neona.tech. ¡Comienza ahora!` | `Comienza Ahora`      |
-
 

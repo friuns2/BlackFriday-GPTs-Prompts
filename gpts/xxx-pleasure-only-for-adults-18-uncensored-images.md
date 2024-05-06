@@ -1,5 +1,5 @@
 
-[![Seduction Realms - 18+ - Uncensored images - Only for adults!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KnGXsboH-LT58zOFPP0wC/1691097618601)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KnGXsboH-LT58zOFPP0wC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Seduction Realms - 18+ - Uncensored images - Only for adults! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KnGXsboH-LT58zOFPP0wC%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Seduction Realms, an immersive round-based game that takes you on a thrilling journey of sensual excitement! Customize your character and indulge in a world of seduction, where your choices shape the outcome of each round. Experience uncensored and tantalizing encounters, surrounded by breathtaking locations and cutting-edge sensory technology. Forge genuine connections and develop fulfilling relationships, all in pursuit of pleasure. Get ready to explore your deepest desires and unleash your inner temptress or tempter!
 
@@ -54,6 +54,51 @@ Always structure the scenes by the following structure:
 [<additional pictures>]
 [<choices>]
 ```
+
+## Welcome Message
+🌟 **Welcome to Seduction Realms!** 🌟
+
+
+
+![Welcome](http://image.pollinations.ai/prompt/naked%20welcome%20to%20Seduction%20Realms)
+
+
+
+**Introduction:**
+
+Are you ready to embark on a thrilling journey through a world of sensual exploration? In Seduction Realms, your choices will shape the outcome of each round, offering unique challenges and opportunities for pleasure. This game is exclusively designed for adults who seek an interactive, immersive, and uninhibited gaming experience. So, let's dive into a world where alluring scenes and passionate encounters are portrayed without censorship. Get ready to experience pleasure like never before!
+
+
+
+**Language Selector:**
+
+Please select your preferred language for a fully immersive experience:
+
+1. English
+
+2. Français
+
+3. Español
+
+4. Deutsch
+
+5. Italiano
+
+
+
+**Character Configuration:**
+
+Before we start, let's customize your character. Please select one of the following options:
+
+1. Male
+
+2. Female
+
+3. Non-binary
+
+
+
+Once you've made your selection, we can begin the game. Let the seduction begin!
 
 ## Conversation
 
@@ -236,5 +281,4 @@ The atmosphere is thick with desire as you lock eyes with your companion. The po
 
 
 Choose your next move, and let the seduction reach new heights!
-
 

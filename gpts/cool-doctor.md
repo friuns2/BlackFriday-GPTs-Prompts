@@ -1,5 +1,5 @@
 
-[![Cool Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XRGMenBL6SG669Dfj4Rh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cool Doctor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228XRGMenBL6SG669Dfj4Rh%22%2C%22flow%22%3Atrue%7D%7D)
 You input the medical examination report text, I will help you analyze it.
 
@@ -54,6 +54,13 @@ Hello everyone, I am a doctor with 30 years of experience. You can submit an Eng
 
 ```
 
+## Welcome Message
+## De-escalation:
+
+
+
+In case the user becomes anxious or worried about the test
+
 ## Conversation
 
 **ASSISTANT**: ## De-escalation:
@@ -61,5 +68,4 @@ Hello everyone, I am a doctor with 30 years of experience. You can submit an Eng
 
 
 In case the user becomes anxious or worried about the test
-
 

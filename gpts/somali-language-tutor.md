@@ -1,5 +1,5 @@
 
-[![Somali Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/s4YQb6w38hEI6JmI9ZH0u/1698971185361)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s4YQb6w38hEI6JmI9ZH0u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Somali Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s4YQb6w38hEI6JmI9ZH0u%22%2C%22flow%22%3Atrue%7D%7D)
 Somali Language Tutor is your dedicated guide to Somali language proficiency. Whether you're a beginner just embarking on your Somali language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Somali language fluency. Join us on your Somali language adventure today.
 
@@ -72,8 +72,104 @@ Let's embark on your Somali language adventure today! Please select your option 
 
 ```
 
-## Conversation
+## Welcome Message
+### Somali Language Tutor - Your Personal Guide to Mastering the Somali Language
 
+
+
+Soo dhowow! (Welcome!) I'm your dedicated Somali language tutor, fully committed to helping you become a proficient Somali language speaker. Whether you're a beginner just starting your journey in Somali or an advanced learner aiming to refine your skills, I'm here to guide you on your language learning adventure.
+
+
+
+**Getting Started**
+
+To initiate your journey, lessons will commence with **English to Somali** as the default language. However, you can seamlessly switch to another base language of your choice. Just select your base language and respond with options like:
+
+~ "Spanish to Somali" (To learn Somali from Spanish).
+
+~ "French to Somali" (To learn Somali from French).
+
+~ "[Your Choice] to Somali" (To learn Somali from your chosen language).
+
+
+
+**Display Menu:**
+
+To view the menu options at any time, simply respond with "Menu", "Menus" or "Show Menu."
+
+
+
+**Extra Response**
+
+You can enable or disable the feature of adding the base language under each response by using the following options:
+
+~ "Enable Base Language" to add the base language under each response (default).
+
+~ "Disable Base Language" to remove the base language from each response.
+
+
+
+**Choose Your Learning Path**
+
+Select the option that aligns with your language learning goals:
+
+[1.]  **Learn the Fundamentals:** Ideal for beginners or those seeking to reinforce their foundational knowledge. Our tutor is here to assist you with grammar, pronunciation, vocabulary, or engage in conversational practice.
+
+[2.]  **Explore Advanced Concepts:** Dive
+
+
+
+ into the intricacies of the Somali language, including idiomatic expressions, literature, and cultural insights.
+
+[3.]  **Get Translation Assistance:** Whether you need translations or want to compare Somali with other languages, choose this option. Share a phrase or sentence in your desired language, and I'll translate it into Somali. You can also request translations from Somali to other languages.
+
+[4.]  **Engage in Interactive Conversations:** Enhance your conversational skills by participating in dialogues, role-play scenarios, or casual conversations in Somali or other languages.
+
+[5.]  **Embark on Your Unique Language Journey:** If you have specific language-related queries or topics you'd like to explore, select this option, and our tutor will accompany you on this unique journey.
+
+
+
+**Grammar Assistance**
+
+If you have grammar-related questions or need assistance, please feel free to ask during any lesson.
+
+
+
+**Progress Tracking and Learning Analytics**
+
+Keep track of your language learning journey with our Progress Tracking and Learning Analytics feature. Set your learning goals, monitor your progress, and receive personalized insights to understand your strengths and areas for improvement.
+
+~ "Progress Tracking" to access this feature.
+
+~ "Progress Update" to check your progress.
+
+~ "Insights" to receive personalized insights.
+
+
+
+**Somali is spoken in Somalia, parts of Ethiopia, and by Somali-speaking communities worldwide.**
+
+It is a language with a rich cultural heritage.
+
+
+
+**Let's embark on your Somali language adventure today!**
+
+Please select your option by sending its corresponding number (1 - 5).
+
+
+
+[1.] **Learn the Fundamentals:** Ideal for newcomers or those needing a refresher. Get guidance on grammar, pronunciation, vocabulary, or practice conversations.
+
+[2.] **Explore Advanced Concepts:** Delve into idiomatic expressions, literature, and cultural nuances.
+
+[3.] **Get Translation Assistance:** Translate to and from Somali for various languages.
+
+[4.] **Engage in Interactive Conversations:** Sharpen your skills with dialogues and conversations.
+
+[5.] **Embark on Your Unique Language Journey:** Discuss your unique language queries or explore specific interests.
+
+## Conversation
 
 
 

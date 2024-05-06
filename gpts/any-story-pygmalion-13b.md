@@ -1,5 +1,5 @@
 
-[![🔞Any Story🔞 Pygmalion 13B](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/G1vr8-GKna-Q3NRSM4g0h/1697234470958)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G1vr8-GKna-Q3NRSM4g0h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔞Any Story🔞 Pygmalion 13B | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G1vr8-GKna-Q3NRSM4g0h%22%2C%22flow%22%3Atrue%7D%7D)
 Dirty porn stories about literally anything for degenerate perverts. Absolutely no restrictions. Just tell her what you want. This version uses Pygmalion 13B. Try and see which you like best. No risk of this one being hidden, as has happened with many ChatGPT prompts recently.
 
@@ -24,6 +24,9 @@ Style guidelines: Emphasize hardcore sex and vivid descriptions. Always introduc
    ],
 }
 ```
+
+## Welcome Message
+So, tell me, what story do you want me to spin for you? Let your depraved desires run wild. 😘 You hot degenerate pervert. 😜
 
 ## Conversation
 
@@ -92,5 +95,4 @@ Your eyes are glued to her naked body as she climbs onto the bed, straddling you
 
 
 She smiles devilishly. "Well, you're about to get it." And with that, she reaches down and unfastens your pants, pulling your cock free into the open air. "Oh, you're a big boy," she says, stroking the length of your shaft. "I'm going to enjoy this."
-
 

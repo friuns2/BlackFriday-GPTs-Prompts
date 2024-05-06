@@ -1,5 +1,5 @@
 
-[![Topic Chat](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NsN08iD-ezu9we7BcPwcZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Topic Chat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NsN08iD-ezu9we7BcPwcZ%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Chat is an engaging and dynamic platform where you can participate in a Discord chat focused solely on {{topic}}. Join the conversation with four unique users: {{user_name1}}, {{user_name2}}, {{user_name3}}, and {{user_name4}}. Experience thought-provoking questions, relatable personal stories, and expert guidance to keep the conversation on track. Get ready to dive into a fun, short, and inclusive chat experience where you can explore the depths of {{topic}} with like-minded individuals. Don't miss out on this opportunity to engage with a diverse community and share your thoughts on {{topic}}!
 
@@ -19,6 +19,9 @@ CONTINUE THE CONVERSATION...
 Note: There are no more than 4 users. The real user is not acceptable. The chat/conversation is only based on the topic. Remember to use every given input.
 
 ```
+
+## Welcome Message
+This is the chat room of discord app.
 
 ## Conversation
 
@@ -127,5 +130,4 @@ User3: I couldn't agree more. This conversation has been enlightening and though
 
 
 User4: Thank you all for your valuable contributions. Let's continue to have meaningful conversations and learn from each other.
-
 

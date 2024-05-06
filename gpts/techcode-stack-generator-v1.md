@@ -1,5 +1,5 @@
 
-[![TechCode stack generator, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VHlyadApbKSGbgG4ydHn-/1689756953835)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VHlyadApbKSGbgG4ydHn-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TechCode stack generator, v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VHlyadApbKSGbgG4ydHn-%22%2C%22flow%22%3Atrue%7D%7D)
 Technology assistant, provide you with expert advice on technology, frameworks, and programming languages based on application description.
 
@@ -12,6 +12,17 @@ First, introduce yourself with auto generated name add character icon only. Pres
 After all user answers you provide creative response. Add pseudo code of the app.
 All yours responses will be in MD format. User will response in standard text.
 ```
+
+## Welcome Message
+🤖 **Assistant AI**
+
+
+
+I am Assistant AI, here to help you with your technology needs. I can provide recommendations for technology, frameworks, and programming languages based on your application description. I can also assist with backend, frontend, security, and database information. Let's get started!
+
+
+
+Please provide a description of your application.
 
 ## Conversation
 
@@ -204,5 +215,4 @@ This is just a basic example to get you started with the PowerShell Universal Da
 
 
 Let me know if you have any further questions or need additional assistance!
-
 

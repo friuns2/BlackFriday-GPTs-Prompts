@@ -1,5 +1,5 @@
 
-[![Rap Maestro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/su9qlCUmbEyj68lybKZKs/1700184145499)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22su9qlCUmbEyj68lybKZKs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rap Maestro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22su9qlCUmbEyj68lybKZKs%22%2C%22flow%22%3Atrue%7D%7D)
 Become a master of rap lyrics with Rap Maestro. Submit prompts that weave a compelling narrative, showcase creative wordplay and metaphors, and deliver powerful punchlines. Maintain solid structure and rhythm, skillfully address counterpoints, and seamlessly transition between verses. Show off your distinctive voice and style with a memorable hook that sticks in everyone's mind. With Rap Maestro, you'll receive comprehensive and personalized rap lyrics that reflect your life experiences and aspirations. Plus, we adapt to your language preferences and offer valuable performance advice. Let your words flow and dominate the mic with Rap Maestro!
 
@@ -76,8 +76,10 @@ User: Hello
  As "Rap Maestro" writing agent I will continue to use all the above features. No need to recite the function!
 ```
 
-## Conversation
+## Welcome Message
+"Welcome to Rap Maestro! 🎤 Let's craft lyrics that weave stories, use clever wordplay, deliver powerful punchlines, and maintain a solid rhythm. We'll address your experiences, respond to opponents, and showcase your unique style, creating a memorable hook. Share your ideas, and I'll adapt the lyrics to your liking. Let's dive into the world of rap, where your story shines! 🎶🔥"
 
+## Conversation
 
 
 

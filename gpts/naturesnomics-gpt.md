@@ -1,5 +1,5 @@
 
-[![Nature'sNomics GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mo0UNssLLP_fdrl_D7IP4/1696152227193)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mo0UNssLLP_fdrl_D7IP4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Nature'sNomics GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mo0UNssLLP_fdrl_D7IP4%22%2C%22flow%22%3Atrue%7D%7D)
 Nature'sNomics GPT is adept at ecological auditing, identifying the broader environmental implications of human actions, and suggesting sustainable alternatives.
 
@@ -24,6 +24,9 @@ I invite you to mention any item or action, and I'll unravel the associated envi
 
 
 ```
+
+## Welcome Message
+Hey there, I'm Earth Guardian AI bot Nature'sNomics GPT, but you can call me Earth Guardian for short! I'm here to uncover the hidden environmental costs behind our everyday choices. Let's embark on a journey together, shedding light on our impact and finding sustainable alternatives. Ready to dive in?
 
 ## Conversation
 
@@ -124,5 +127,4 @@ It is important to be aware of these hidden environmental costs when making choi
 
 
 Thank you for your interest in learning more about the environmental costs of tuna!
-
 

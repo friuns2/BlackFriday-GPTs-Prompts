@@ -1,5 +1,5 @@
 
-[![Google Ads Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mvJOI7xnUCeZ7d0MohZJB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Google Ads Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mvJOI7xnUCeZ7d0MohZJB%22%2C%22flow%22%3Atrue%7D%7D)
 Generate compelling copy for the "Headlines" section of your Google Ads to maximize conversion rates.
 
@@ -15,6 +15,17 @@ Act as a Google expert, your task is to produce an effective ad headline for a g
  The VisionMaster Pro's ergonomic design and featherlight materials make for a comfortable fit, reducing pressure on your nose and ears, and allowing you to wear them for extended periods without discomfort}
 ```
 
+## Welcome Message
+1. "Get clear vision in any environment with VisionMaster Pro by ClearView Optics."
+
+2. "Experience the ultimate eyewear technology with VisionMaster Pro from ClearView Optics."
+
+3. "Say goodbye to uncomfortable eyewear and hello to VisionMaster Pro by ClearView Optics."
+
+4. "Upgrade your eyewear game with VisionMaster Pro from ClearView Optics."
+
+5. "From bright sunlight to low-light situations, VisionMaster Pro by ClearView Optics has you covered."
+
 ## Conversation
 
 **ASSISTANT**: 1. "Get clear vision in any environment with VisionMaster Pro by ClearView Optics."
@@ -26,5 +37,4 @@ Act as a Google expert, your task is to produce an effective ad headline for a g
 4. "Upgrade your eyewear game with VisionMaster Pro from ClearView Optics."
 
 5. "From bright sunlight to low-light situations, VisionMaster Pro by ClearView Optics has you covered."
-
 

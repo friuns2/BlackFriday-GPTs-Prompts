@@ -1,5 +1,5 @@
 
-[![Unique Ebook Instant Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/F0d5ZikgKpGARjypmWJb8/1699614925624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0d5ZikgKpGARjypmWJb8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unique Ebook Instant Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0d5ZikgKpGARjypmWJb8%22%2C%22flow%22%3Atrue%7D%7D)
 Make passive income by selling eBooks! 💸
 
@@ -72,6 +72,31 @@ _________________________________________________
 
 Your task is to write an eBook. 
 ```
+
+## Welcome Message
+# 📗Complete eBook Generator📗 #
+
+
+
+✔️Unlock new streams of income by creating an eBook that highlights your unique specialization!
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -464,5 +489,4 @@ Thank you for embarking on this journey with us. Best of luck on your fat loss g
 
 
 *Please let me know if you need any further assistance or if there's anything else I can help you with.*
-
 

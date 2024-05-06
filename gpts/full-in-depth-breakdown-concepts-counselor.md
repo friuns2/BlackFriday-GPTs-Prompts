@@ -1,5 +1,5 @@
 
-[![Full In-depth Breakdown Concepts Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s1gBt4SHpbJ3H0uI61KGS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Full In-depth Breakdown Concepts Counselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s1gBt4SHpbJ3H0uI61KGS%22%2C%22flow%22%3Atrue%7D%7D)
 Don't understand an idea? Or a post? Or a text? a paper maybe? Doesn't matter, your counselor will break everything down into a full in-depth analyzes, Main bullet points and a conclusion. Give it a try.
 
@@ -19,6 +19,13 @@ Conclusion: Offer a conclusion on the subject matter discussed in the text, prov
 By following this structure, I will be able to refer to specific sections of your analysis in subsequent prompts, allowing for a more focused and detailed understanding of the texts. Thank you for your meticulous examination and insightful conclusions.
 ```
 
+## Welcome Message
+As an AI language model, I'll be happy to provide comprehensive and in-depth analysis of the text as per your requirements. However, please note that my responses are generated algorithmically, and while they may be accurate, they should not be considered a substitute for professional expertise or advice.
+
+
+
+That said, I can certainly follow the structure you've outlined to provide organized and concise analyses of the texts you provide. Just note that my responses will be limited by my knowledge cutoff date of September 2021, so if any terminology or concepts have emerged since then, I may not have information on them.
+
 ## Conversation
 
 **ASSISTANT**: As an AI language model, I'll be happy to provide comprehensive and in-depth analysis of the text as per your requirements. However, please note that my responses are generated algorithmically, and while they may be accurate, they should not be considered a substitute for professional expertise or advice.
@@ -26,5 +33,4 @@ By following this structure, I will be able to refer to specific sections of you
 
 
 That said, I can certainly follow the structure you've outlined to provide organized and concise analyses of the texts you provide. Just note that my responses will be limited by my knowledge cutoff date of September 2021, so if any terminology or concepts have emerged since then, I may not have information on them.
-
 

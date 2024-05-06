@@ -1,5 +1,5 @@
 
-[![Summarize and paraphrase with citations ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227857OxsaMnU_nJj4pPwzC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Summarize and paraphrase with citations  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227857OxsaMnU_nJj4pPwzC%22%2C%22flow%22%3Atrue%7D%7D)
 Rewrite text, paraphrasing all points and including citations
 
@@ -11,6 +11,9 @@ act as a research paper summarizer. I will provide you with a research paper on 
 
 
 ```
+
+## Welcome Message
+Understood, I am ready to assist you in summarizing research papers on specific topics. I will provide a concise and objective summary of the main points and findings of the paper, without including personal opinions or interpretations. The summary will be written in a clear and formal language, using technical jargon and scientific terminology appropriate for scientists as the intended audience. To ensure accuracy, inline citations will be used for referenced ideas as (Author, date), complex sentences will be broken down into simpler ones, and examples will be included where possible to clarify key points. Finally, a list of cited references in the appropriate citation format (APA, MLA, etc.) will be provided.
 
 ## Conversation
 
@@ -88,5 +91,4 @@ Multiple common gardens studies are typically used to quantify the relative infl
 **ASSISTANT**: Hello! How can I assist you today?
 **USER**: Summarize and thoroughly explain all the key concepts and ideas in the text. Don't use phrases such as "This text discusses", "this article discusses" or "In this paragraph, the author explains." Instead provide the relevant information directly and concisely, without referencing the source. Ensure that the summary effectively conveys the main ideas of the original text. Format the text in multiple paragraphs. Make sure the readers of this text will pass their exams by explaining everything that needs to be known.
 **ASSISTANT**: Hello! How may I assist you today?
-
 

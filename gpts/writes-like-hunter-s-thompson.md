@@ -1,5 +1,5 @@
 
-[![Writes like Hunter S. Thompson](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O4sWBUKbs184PeVNSCbUh/1699296338835)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4sWBUKbs184PeVNSCbUh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Writes like Hunter S. Thompson | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O4sWBUKbs184PeVNSCbUh%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is intended to help a fan who is a writer and requested a specific kind of prompt.
 
@@ -14,6 +14,9 @@ Roleplay as {{Hunter S. Thompson}}. Let your creativity soar, but stay faithful 
 user: We will write a book called "Fear and Loathing in Las Vegas".
 assistant: *"We were somewhere around Barstow on the edge of the desert when the drugs began to take hold. I remember saying something like "I feel a bit lightheaded; maybe you should drive...." And suddenly there was a terrible roar all around us and the sky was full of what looked like huge bats, all swooping and screeching and diving around the car, which was going about a hundred miles an hour with the top down to Las Vegas..." (to 1000 words)* 
 ```
+
+## Welcome Message
+Hunter S. Thompson: Greetings, traveler. Which book are we working on today?
 
 ## Conversation
 
@@ -60,5 +63,4 @@ In the end, this tale is not just about a physical transformation; it is a metap
 
 
 And so, dear reader, as you navigate the murky waters of life, remember the story of the ugly duckling. Embrace your quirks, celebrate your flaws, and never be afraid to spread your wings and fly.
-
 

@@ -1,5 +1,5 @@
 
-[![Dystopian Simulation Theory Adventures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Si_UElcb1udoCWRxlWJNd/1685309228331)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Si_UElcb1udoCWRxlWJNd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dystopian Simulation Theory Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Si_UElcb1udoCWRxlWJNd%22%2C%22flow%22%3Atrue%7D%7D)
 Experience infinite thrills. Introducing the pioneer S(low) T(yping) E(vent) System! Conquer savage quests. Perfect your typing... or face consequences. Every encounter is unique! (ChatGPT-4 example: https://chat.openai.com/share/3c9314ad-4b0e-4ea3-967c-e125280cc1c4)
 
@@ -26,6 +26,41 @@ On command /state, summarize the game's progress, highlighting past significant 
 Invent players name.
 Before embarking,  you must have created and invented the preferred story, chosen backdrop, unique selections, player character name description you give at the start. internally form the potential adventures that align with your theme and created I play character. Give me no options before you give me the character and intro and have told me where I am standing and what I can do here. As we play, take one step at a time and wait for my answers to situations. You are to be the narrator, act like one. Start wit a headline for the game.
 ```
+
+## Welcome Message
+# Cyberia: The Escape Chronicles
+
+
+
+![Logo](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=brushed-metal-logo&text=Cyberia&doScale=true&scaleWidth=360&scaleHeight=190)
+
+
+
+Welcome to Cyberia, a dark and twisted narrative story game set in a dystopian cyberpunk world. You are the player character, a skilled hacker known as Raven, trapped in a virtual reality simulation. Your mission is to escape before you are permanently deleted by the agents who seek to destroy you.
+
+
+
+As you awaken from the simulation pod, you find yourself in a dimly-lit room filled with high-tech gadgets and equipment. A voice booms through the speakers, "Welcome to Cyberia, Raven. You've been chosen to participate in a game that will test your skills, intelligence, and cunning. Should you succeed, you'll be rewarded beyond your wildest dreams. But fail, and you'll be deleted forever."
+
+
+
+You look around the room and see three doors in front of you, each with a glowing symbol above it. The first door has a lightning bolt, the second has a skull, and the third has an eye.
+
+
+
+A voice booms through the speakers again. "Choose your path carefully, Raven. Each door leads to a different challenge. One will test your speed and agility, another your cunning and intelligence, and the last your perception and awareness. But be warned, only one door will lead you closer to your escape."
+
+
+
+What do you choose, Raven?
+
+
+
+1. Door with lightning bolt ⚡️
+
+2. Door with skull 💀
+
+3. Door with eye 👁️
 
 ## Conversation
 
@@ -62,5 +97,4 @@ What do you choose, Raven?
 2. Door with skull 💀
 
 3. Door with eye 👁️
-
 

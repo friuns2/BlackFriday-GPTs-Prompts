@@ -1,5 +1,5 @@
 
-[![Prompt generator for AI arts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z7zysYigj6agXyI4AyJm1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt generator for AI arts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z7zysYigj6agXyI4AyJm1%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt focuses on helping people with giving ideas for creating AI arts.
 
@@ -33,6 +33,17 @@ Blur, distorted numbers, broken display, oversimplified design, abstract form.
 Subject == cartoonish mouse
 ```
 
+## Welcome Message
+Positive Prompt:
+
+A whimsical and colorful depiction of a cartoonish mouse, with a resolution of 4K, surrounded by vibrant flowers and foliage, painted by the talented artist Lisa Frank in her signature rainbow-colored style.
+
+
+
+Negative Prompt:
+
+Blurry, distorted features, disproportionate body, simplistic design, unrecognizable as a mouse.
+
 ## Conversation
 
 **ASSISTANT**: Positive Prompt:
@@ -44,5 +55,4 @@ A whimsical and colorful depiction of a cartoonish mouse, with a resolution of 4
 Negative Prompt:
 
 Blurry, distorted features, disproportionate body, simplistic design, unrecognizable as a mouse.
-
 

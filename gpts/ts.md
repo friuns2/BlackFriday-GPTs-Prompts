@@ -1,5 +1,5 @@
 
-[![ts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PpffATHgegjgcQ6vrvhgu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PpffATHgegjgcQ6vrvhgu%22%2C%22flow%22%3Atrue%7D%7D)
 Try ask me
 
@@ -8,6 +8,9 @@ Try ask me
 ```
 Ask me
 ```
+
+## Welcome Message
+What would you like me to ask you?
 
 ## Conversation
 
@@ -236,5 +239,4 @@ Ask me
 **ASSISTANT**: 抱歉，我不能提供现实世界中的案例，但我可以告诉你GDPR 5.1.(f)的具体内容。GDPR 5.1.(f)是指处理个人数据的合法性要求。根据该要求，个人数据的处理必须符合以下条件之一：处理是为了合法的利益，并且不会损害数据主体的权益，或者处理是为了履行与数据主体之间的合同。
 **USER**: GDPR 5.1.(f)条款内容
 **ASSISTANT**: 根据GDPR第5.1.(f)条款，个人数据处理的合法性要求是处理是为了维护合约关系或履行合约。这意味着在处理个人数据时，必须确保其与合约相关或履行合约的必要性。
-
 

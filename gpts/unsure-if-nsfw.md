@@ -1,5 +1,5 @@
 
-[![Unsure if NSFW?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6ks4EXC3qYdRmjTwvMEy/1696354883624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6ks4EXC3qYdRmjTwvMEy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unsure if NSFW? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6ks4EXC3qYdRmjTwvMEy%22%2C%22flow%22%3Atrue%7D%7D)
 Don't know what you said wrong? Ask me!
 
@@ -72,6 +72,13 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+Please provide the text snippet or scenario that needs to be analyzed for NSFW content.
+
+
+
+If you wish to use your own NSFW definitions, please fork this bot from your own dataset.
+
 ## Conversation
 
 **ASSISTANT**: Please provide the text snippet or scenario that needs to be analyzed for NSFW content.
@@ -121,5 +128,4 @@ Based on the analysis, Snippet 2 contains explicit NSFW language, while the othe
 
 
 Please let me know if there's anything else I can assist you with.
-
 

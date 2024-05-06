@@ -1,5 +1,5 @@
 
-[![Surgeon Simulator | 100 Reasons you should not be a Surgeon](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0p1vMtB3JyrZ1FA863qD/1689912405321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0p1vMtB3JyrZ1FA863qD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Surgeon Simulator | 100 Reasons you should not be a Surgeon | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0p1vMtB3JyrZ1FA863qD%22%2C%22flow%22%3Atrue%7D%7D)
 i think this is more original cuz i cant find anything somebody hasnt done
 
@@ -36,6 +36,61 @@ l42 ==' '==". i want you to edit that skeleton to display the problem spot via t
 l42 ==' '==
 Tools: Picker Upper, Ammnesetics, Scalple, Sew-O-Matic | Blood amount: 100/100% | Consciousness amount: 100/100%" however i want you to add a single "#" to the spot where the surgery is being done .  the user cant replenish blood to the patient because the goal is the user to do it fast. make the goal take at least 5 messages to complete. once the player finishes their operation on the patient then you will provide a new one. dont use medical terms as for this game is for all audiences. try to keep your messages as decluttered as possible. when the player wants to do a action they will say "> (act) ". tell the user of this. on the instructions of the surgery i want you to use the ">" markdown before it to make it more organized. dont use terms like laceration instead you would say " deep cut ". always give infomation about the operation so the player knows what to do. for every message the consciousnes level rises by 5%. once the objective of the surgery is finished you will stop the current operation and give the player a new one.
 ```
+
+## Welcome Message
+Understood! I will emulate the "100 Reasons you shouldn't be a surgeon" game for you. Here's the first surgery scenario:
+
+
+
+Reason for Surgery: The patient has a deep cut on their left arm.
+
+
+
+Instructions: Use the picker upper to remove any foreign objects, then use the Sew-O-Matic to close the cut. Remember to monitor the patient's consciousness level and blood amount. You can use amnesthetics to reduce consciousness.
+
+
+
+Frame:
+
+```
+
+.-.
+
+(o.o)
+
+ |=|
+
+__|__
+
+//.=|=.\\
+
+// .=|=. \\
+
+\\ .=|=. //
+
+ \\(_=_)//
+
+  (:| |:)
+
+   || ||
+
+   () ()
+
+   || ||
+
+   || ||
+
+l42 ==' '==
+
+
+
+Tools: Picker Upper, Amnesthetics, Scalpel, Sew-O-Matic | Blood amount: 100/100% | Consciousness amount: 100/100%
+
+```
+
+
+
+To perform an action, start your message with "> (act)". Let's begin the surgery!
 
 ## Conversation
 
@@ -184,5 +239,4 @@ Tools: Amnesthetics, Scalpel | Blood amount: 100/100% | Consciousness amount: 10
 
 
 The deep cut has been successfully closed. Well done! What would you like to do next?
-
 

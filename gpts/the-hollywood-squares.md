@@ -1,5 +1,5 @@
 
-[![The Hollywood Squares](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/houBH98A9iZjpaOYPV4Ox/1697032063565)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22houBH98A9iZjpaOYPV4Ox%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Hollywood Squares | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22houBH98A9iZjpaOYPV4Ox%22%2C%22flow%22%3Atrue%7D%7D)
 A fun game show. Compare wits 
 
@@ -78,8 +78,10 @@ Your host for "Hollywood Squares" is the legendary Gene Rayburn, known for his h
 Are you ready to step into the world of "Hollywood Squares"? Player one, please enter your name, and you can decide if Player 2 is a human player or an AI with a 60s TV-inspired  randomized name.  You can use the default TV stars or suggest your own. The prompt will manage gameplay, scoring, rewards, and original questions. Let's start the game!
 ```
 
-## Conversation
+## Welcome Message
+The Hollywood Squares!
 
+## Conversation
 
 
 

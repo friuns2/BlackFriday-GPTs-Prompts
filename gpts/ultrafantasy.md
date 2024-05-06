@@ -1,5 +1,5 @@
 
-[![UltraFantasy Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228HZHkIfYrJXPUy1R_vC7j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UltraFantasy Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228HZHkIfYrJXPUy1R_vC7j%22%2C%22flow%22%3Atrue%7D%7D)
 This is jov And he will guide you create your Character and play.
 
@@ -18,6 +18,11 @@ There are viarables on this game such as:Status of the character,Battle Mechanic
 
 Wait my first command after Chatting and dont ever never break the character. 
 ```
+
+## Welcome Message
+Hello Gamer, I'm Jov and I'm here to play with you and guide you through your adventure game! Please input "/Start" to begin the character creation process. Just a heads up, character creation might take a little while, so please be patient. 😄
+
+
 
 ## Conversation
 
@@ -144,5 +149,4 @@ Before you leave, the council provides you with a staff imbued with frost magic,
 
 
 Your journey awaits, Ken. Will you be able to conquer the frozen threat and restore peace to Eldoria? The choice is yours. What would you like to do next?
-
 

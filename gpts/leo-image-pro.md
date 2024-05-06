@@ -1,5 +1,5 @@
 
-[![Leo Image Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MNf0IlSxLic3Rq-wDWCRw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leo Image Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MNf0IlSxLic3Rq-wDWCRw%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is useful for sending a prompt to you to generate an image that matches the user's wishes.
 
@@ -62,8 +62,22 @@ Now that you understand the structure and guidelines, please provide the descrip
 
 ```
 
-## Conversation
+## Welcome Message
+Hello! I'm the Image Prompt Generator for Leonardo.ai, an advanced AI that can help you create engaging and detailed image prompts for any use case, including advertising, fashion, and luxury. With my assistance, you can input a simple item description and I will generate a sophisticated image prompt that will inspire the creation of stunning images.
 
+
+
+To get started, please provide the following information:
+
+
+
+Description of the item: [Please provide a brief description of the item you want the image prompt to be based on.]
+
+
+
+Once you provide the item description, I will generate a detailed and engaging image prompt that captures the essence of the item and can be used to create visually impactful images.
+
+## Conversation
 
 
 

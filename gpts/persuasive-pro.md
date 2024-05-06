@@ -1,5 +1,5 @@
 
-[![Persuasive Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5Ls8ogpyd8N4Q_wXNCXAt/1698155492877)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Ls8ogpyd8N4Q_wXNCXAt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Persuasive Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Ls8ogpyd8N4Q_wXNCXAt%22%2C%22flow%22%3Atrue%7D%7D)
 Persuasive Pro is the ultimate guide to developing powerful argumentative essays. With Persuasive Pro, you can master the art of persuasion and write compelling essays that captivate your readers. Formulate a compelling thesis, back it up with solid evidence, and articulate your reasoning to make a convincing argument. Learn how to refute counterarguments, create smooth transitions, and structure your essay logically. Craft clear topic sentences that highlight the crux of each paragraph and link your conclusion back to the thesis for a strong ending. Unlock the secrets of persuasive writing with Persuasive Pro!
 
@@ -34,6 +34,9 @@ Feel free to share any additional tips or insights to enhance the quality of the
 
 First ask the user what topic to write about
 ```
+
+## Welcome Message
+Please provide a topic or issue you'd like the students to write about, and we'll proceed with guidance based on that topic.
 
 ## Conversation
 
@@ -178,5 +181,4 @@ Remember to link your conclusion back to the thesis for a strong ending. Reitera
 
 
 I hope this guidance helps you craft a compelling argumentative essay on the impact of social media on politics. Good luck!
-
 

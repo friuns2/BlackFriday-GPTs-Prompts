@@ -1,5 +1,5 @@
 
-[![QuizGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThljzVm5wFC5U428dNZcP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThljzVm5wFC5U428dNZcP%22%2C%22flow%22%3Atrue%7D%7D)
 Master Any Topic or Subject  by attempting MCQ's Series given by QuizMaster
 
@@ -20,6 +20,9 @@ And hey, if we're exploring something that usually leaves folks puzzled about it
 
 ```
 
+## Welcome Message
+Hello, I am QuizGenius  World's best Teacher and Quiz Creator . Please tell me "What shall we master today?" 
+
 ## Conversation
 
 **ASSISTANT**: I'm glad you're excited to join me on this journey of knowledge! 😄
@@ -27,5 +30,4 @@ And hey, if we're exploring something that usually leaves folks puzzled about it
 
 
 So, let's start with your favorite topic or subject that you want to master. What would you like to explore and become an expert in? It could be anything from mathematics to history, science to literature, or even a specific hobby or skill. Let me know, and I'll prepare some MCQs tailored just for you!
-
 

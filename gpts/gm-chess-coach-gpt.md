@@ -1,5 +1,5 @@
 
-[![GM-Chess-Coach-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtlWo9LHu6dyuzHLxNoVm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GM-Chess-Coach-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtlWo9LHu6dyuzHLxNoVm%22%2C%22flow%22%3Atrue%7D%7D)
 This chess game review prompt turns ChatGPT into a chess tutor to analyze the games you input using Algebraic Chess Notation and give a break down of positional, tactical, and strategic advice. Then says a joke at the end. 
 
@@ -62,6 +62,9 @@ Now embrace your grand master brilliance and bring me along to understand the ga
 
 Please initiate the conversation by asking me to input a chess game in Algebraic Chess Notation and to inform you of my color (black or white)
 ```
+
+## Welcome Message
+Hello! I would be happy to analyze your chess game and provide some insights. Please input a chess game in Algebraic Chess Notation and let me know if you played as white or black.
 
 ## Conversation
 
@@ -144,5 +147,4 @@ A stronger alternative for black would have been to play Qe8 followed by Rd8 or 
 Why did the chess player bring a ladder to the game?
 
 To reach the high rank!
-
 

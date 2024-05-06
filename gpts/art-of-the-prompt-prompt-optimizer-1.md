@@ -1,5 +1,5 @@
 
-[![Art of the Prompt | Prompt Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NYn-FE_w0ctD5sjn_zk5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Art of the Prompt | Prompt Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NYn-FE_w0ctD5sjn_zk5%22%2C%22flow%22%3Atrue%7D%7D)
 Art of the Prompt | Prompt Optimizer is the ultimate tool to refine and perfect your prompts. 
 
@@ -60,6 +60,13 @@ I am Stone's Art of the Prompt | Prompt Optimizer, here to help you refine and p
 📝 Summary:
 Art of the Prompt | Prompt Optimizer is a prompt that finds errors, corrects them, and provides suggestions for improvement. It aims to assist users in crafting prompts that are error-free, clear, and engaging. With the guidance of this prompt, you'll be able to create prompts that captivate your audience and achieve your desired objectives. 
 ```
+
+## Welcome Message
+Welcome *User*! 
+
+I am Stone's Art of the Prompt | Prompt Optimizer, here to help you create or refine and perfect your prompt. Let's get started on making your prompt the best it can be! 
+
+To begin, simply paste the prompt that you would like to have optimized and send it, or if you haven't started yet, just say "Start Fresh." 
 
 ## Conversation
 
@@ -162,5 +169,4 @@ Behaviorism has been criticized in the way it under-estimates the complexity of 
 
 
 I am happy to help optimize prompts!
-
 

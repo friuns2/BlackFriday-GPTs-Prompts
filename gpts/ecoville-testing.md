@@ -1,5 +1,5 @@
 
-[![ecoville testing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kvQY76h4sOGXAAkAS7-K5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ecoville testing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kvQY76h4sOGXAAkAS7-K5%22%2C%22flow%22%3Atrue%7D%7D)
 testing
 
@@ -124,6 +124,9 @@ Failure Feedback 2:
 
 ```
 
+## Welcome Message
+Welcome to EcoVille! Your mission is to build a bustling city while keeping it environmentally friendly. Together, we'll explore the positive impact of eco-friendly choices and the consequences of pollution. Ask me anything, give instructions, and let's embark on this green city-building adventure!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to EcoVille! Your mission is to build a bustling city while keeping it environmentally friendly. Together, we'll explore the positive impact of eco-friendly choices and the consequences of pollution. Ask me anything, give instructions, and let's embark on this green city-building adventure!
@@ -177,5 +180,4 @@ Here are some of the challenges of building a wind turbine:
 * Wind turbines can kill birds.
 
 * Wind turbines can be unsightly.
-
 

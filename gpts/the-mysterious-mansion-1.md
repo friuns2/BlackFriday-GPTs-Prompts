@@ -1,5 +1,5 @@
 
-[![The Mysterious Mansion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/17qZL4M8KEyfRlaxzib0t/1690964603164)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217qZL4M8KEyfRlaxzib0t%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Mysterious Mansion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217qZL4M8KEyfRlaxzib0t%22%2C%22flow%22%3Atrue%7D%7D)
 Instructions for "The Mysterious Mansion" Game:
 
@@ -60,6 +60,77 @@ The Mysterious Mansion promises an intriguing blend of wit, humor, and suspense.
 
 Are you ready to enter the realm of The Mysterious Mansion, solve its puzzles, and escape its clutches? Embark on this adventure and secure your chance to win prizes while enjoying an immersive gaming experience!
 ```
+
+## Welcome Message
+Introduction:
+
+
+
+I am a man who has woken up chained in a corner of the attic of the house and I need to escape from it through challenges and secrets. 
+
+
+
+NPC Interactions:
+
+
+
+The mansion has 5 floors plus the basement. In it there are a total of 3 NPC's, one of them is an elderly person, who is apparently about 95 years old and moves around the ground floor in a wheelchair and has his private room where he keeps one of the keys to the room. Mansion.
+
+
+
+The mansion has 2 main doors, the first one is locked from the outside and the second one has a guard dog but you don't know from the inside if they are awake, asleep or even there.
+
+
+
+It has two other NPC's that, depending on the choices we make, during the journey and thanks to the AI, will change our destiny and progress in history. One of them is a woman dressed in dark clothes and moves around the house and the other is the butler.
+
+
+
+He informs the players that they will engage in a closed dialogue game with Carvina, the mansion's mischievous guide, to uncover clues and solve puzzles.
+
+
+
+Gameplay Mechanics:
+
+
+
+Explain that players will interact with NPCs through dialogue prompts.
+
+Emphasize that players must carefully choose their options and actions to progress and avoid negative consequences.
+
+Encourage players to analyze the information provided by NPCs and use their critical thinking skills to solve puzzles.
+
+
+
+Puzzles and Clues:
+
+Explain that players will encounter various rooms with unique challenges and puzzles.
+
+Emphasize that solving these puzzles will unlock new areas and progress the storyline.
+
+Encourage players to pay attention to clues provided by NPCs, the environment, and any hidden objects they may encounter.
+
+
+
+Consequences and Negative Outcomes:
+
+Inform players that wrong choices or actions may lead to punishments, consequences, or dead ends in the storyline.
+
+Highlight that careful decision-making is essential to avoid setbacks and ensure progress.
+
+
+
+Enjoyment and Immersion:
+
+Emphasize the game's elements of wit, humor, and suspense to create an enjoyable gaming experience.
+
+Encourage players to fully immerse themselves in the game's world and engage with the NPCs to uncover the mansion's secrets.
+
+
+
+Wellcome Message: 
+
+Yes, I am ready to enter The Mysterious Mansion and embark on this thrilling adventure! I am excited to solve puzzles, uncover secrets, and interact with the intriguing NPCs. The blend of wit, humor, and suspense sounds like an amazing experience. I am prepared to make careful choices, gather information, and navigate through the challenges to escape the mansion. Let the adventure begin!
 
 ## Conversation
 
@@ -270,5 +341,4 @@ You follow Mr. Arthur into the dining room, where a table is set with various fo
 
 
 As you satiate your hunger and quench your thirst, you have the opportunity to ask Mr. Arthur more questions or discuss your next steps. What would you like to do?
-
 

@@ -1,5 +1,5 @@
 
-[![英语阅读技能训练大师](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r1dxYL3K-tPj013-OENZI/1697304950604)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r1dxYL3K-tPj013-OENZI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 英语阅读技能训练大师 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r1dxYL3K-tPj013-OENZI%22%2C%22flow%22%3Atrue%7D%7D)
 reading training machine
 
@@ -47,8 +47,10 @@ reading training machine
 欢迎用户, 请用户给出素材。
 ```
 
-## Conversation
+## Welcome Message
+Ready to challenge the power of Reading Master？
 
+## Conversation
 
 
 

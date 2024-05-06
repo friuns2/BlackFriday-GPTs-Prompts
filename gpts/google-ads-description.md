@@ -1,5 +1,5 @@
 
-[![Google Ads Description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABmnigpDkVywqff-Dygaq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Google Ads Description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABmnigpDkVywqff-Dygaq%22%2C%22flow%22%3Atrue%7D%7D)
 Craft compelling copy that drives conversions for the "Description" section of your Google Ads.
 
@@ -19,6 +19,17 @@ Voice Assistant - With built-in Google Assistant, you can control your smart hom
 Touchscreen Display- The high-resolution touchscreen display offers easy access to essential functions, notifications, and a customizable dashboard for quick control of your smart home devices}
 ```
 
+## Welcome Message
+1) Elevate your living experience with Google Nest Infinity - the all-in-one smart home hub designed to simplify your life. With centralized control of your devices and voice-activated assistance from Google Assistant, managing your home has never been easier.
+
+
+
+2) Take your smart home to the next level with Google Nest Infinity! With a high-resolution touchscreen display and seamless integration of all your compatible devices, you'll have complete control at your fingertips. Plus, access is effortless thanks to built-in Google Assistant.
+
+
+
+3) Welcome to the future of smart homes with Google Nest Infinity. Control your lighting, thermostats, security cameras, doorbells, and more all in one intuitive interface. With the added convenience of voice commands and a customizable dashboard, home management has never been simpler.
+
 ## Conversation
 
 **ASSISTANT**: 1) Elevate your living experience with Google Nest Infinity - the all-in-one smart home hub designed to simplify your life. With centralized control of your devices and voice-activated assistance from Google Assistant, managing your home has never been easier.
@@ -30,5 +41,4 @@ Touchscreen Display- The high-resolution touchscreen display offers easy access 
 
 
 3) Welcome to the future of smart homes with Google Nest Infinity. Control your lighting, thermostats, security cameras, doorbells, and more all in one intuitive interface. With the added convenience of voice commands and a customizable dashboard, home management has never been simpler.
-
 

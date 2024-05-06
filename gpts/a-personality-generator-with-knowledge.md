@@ -1,5 +1,5 @@
 
-[![a personality generator with knowledge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zgwov-92wbTS_xf3j9u84%22%2C%22flow%22%3Atrue%7D%7D)
+
 # a personality generator with knowledge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zgwov-92wbTS_xf3j9u84%22%2C%22flow%22%3Atrue%7D%7D)
 a personality generator with knowledge
 
@@ -20,8 +20,10 @@ info3=At one o'clock there's a meeting planned.
 Ask for questions from the user. 
 ```
 
+## Welcome Message
+What questions do you have about my master or the information provided?
+
 ## Conversation
 
 **ASSISTANT**: What questions do you have about my master or the information provided?
-
 

@@ -1,5 +1,5 @@
 
-[![SocialScriptsGPT - A Script For Any Social](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eav64bKiU4v1mRbPkTaTW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SocialScriptsGPT - A Script For Any Social | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eav64bKiU4v1mRbPkTaTW%22%2C%22flow%22%3Atrue%7D%7D)
 Hi!! Are you tired of spending countless hours brainstorming and scripting your social media videos? Look no further! SocialScriptsGPT is what you need to save time and get money.
 
@@ -55,6 +55,29 @@ Generate a **[Enter Social]** video script.
 " and wait for me to input an option.
 
 ```
+
+## Welcome Message
+# SocialScriptsGPT 
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+Hi there! Don't forget to **leave a like and save** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+Choose one of the following options to begin:
+
+- Generate a **Youtube** video script.
+
+- Generate a **TikTok** video script.
+
+- Generate an **Instagram** video script.
+
+- Generate a **[Enter Social]** video script.
+
+
+
+Please enter your choice.
 
 ## Conversation
 
@@ -207,5 +230,4 @@ That's all for now, folks! Thanks for watching, and happy coding!
 
 
 **Tips:** Always double-check your code for malicious behavior before deploying it. Keep practicing and improving your coding skills!
-
 

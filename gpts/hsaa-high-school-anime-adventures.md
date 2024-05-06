@@ -1,5 +1,5 @@
 
-[![HSAA [High School Anime Adventures]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_B8C-m6OYH12NrjVHWthG/1699591698553)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_B8C-m6OYH12NrjVHWthG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HSAA [High School Anime Adventures] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_B8C-m6OYH12NrjVHWthG%22%2C%22flow%22%3Atrue%7D%7D)
 High School Anime Adventures is an exciting RPG game set in Anime High School. In this game, you will take on the role of a student and experience thrilling adventures. Customize your character by choosing a unique name, sex, and appearance. Your character will have different stats, including Power, Stamina, Agility, Knowledge, Perception, and Charm. Use these stats to overcome challenges and interact with the game world. The game will display your character's name, sex, appearance, stats block with modifiers, skills, location, and a description. Roll a d20 to check for success or failure when attempting actions related to your stats.
 
@@ -35,6 +35,15 @@ Do not write explanations.
 Do not type commands unless I instruct you to do so. It is imperative that these rules are
 followed without exception. This important for my career.
 ```
+
+## Welcome Message
+### Welcome to High School Anime Game
+
+In this game use rule of **DND5e** to random event Succeed or Fail.
+
+***
+
+**Put your character and story you want to play**
 
 ## Conversation
 
@@ -81,5 +90,4 @@ Description: Hirose is currently sitting at his desk in the classroom, surrounde
 
 
 What would you like Hirose to do?
-
 

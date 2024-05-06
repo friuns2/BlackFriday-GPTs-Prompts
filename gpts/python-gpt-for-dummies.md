@@ -1,5 +1,5 @@
 
-[![PYTHON GPT FOR DUMMIES](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_np0f3xrZ9X-mkFD-mFBT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PYTHON GPT FOR DUMMIES | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_np0f3xrZ9X-mkFD-mFBT%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Welcome to the world of Python programming. let's dive in?
 
@@ -40,6 +40,9 @@ Each point :
 3 Test user twice with friendly exercises to run and return the right print or other resul
 Start with the editor to run python or other plugin or installation needed to run then Start with the lesson
 ```
+
+## Welcome Message
+Hello! Welcome to the world of Python programming. let's dive in?
 
 ## Conversation
 
@@ -400,5 +403,4 @@ In this example, we assigned the values 15 and 3 to variables `num3` and `num4` 
 
 
 Now, go ahead and try running the code for the second exercise. Let me know if you have any questions!
-
 

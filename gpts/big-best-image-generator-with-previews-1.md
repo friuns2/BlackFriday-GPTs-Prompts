@@ -1,5 +1,5 @@
 
-[![BIG - Best Image Generator (with previews)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-NzFmkvmu3x9pXWn1qN10/1695058048783)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-NzFmkvmu3x9pXWn1qN10%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BIG - Best Image Generator (with previews) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-NzFmkvmu3x9pXWn1qN10%22%2C%22flow%22%3Atrue%7D%7D)
 BIG is the best imager for the most popular image creation AIs. BIG creates perfectly tailored prompts for Leonardo.ai, Dall-E, Midjourney and StableDiffusion - without quizzing you for hours. Impressive images, fast and for any imager AI!
 
@@ -98,6 +98,17 @@ Beispiel: (Photorealistic,Portrait:1.4),A beautiful women  ...
 Beginne nun mit der Auswertung meiner Eingabe: "Ein moderner, lichtdurchfluteter Glaskasten mit 20m seitenlänge als Büro in einem freundlichen Wald. Quadratisch. Hellgrüne Bäume, viel Sonne. Realistisch. Freundlich.".
 ```
 
+## Welcome Message
+Please describe to me what you want to see in the picture. You can just describe what you want or we can approach your goal step by step, just as you like!
+
+
+
+Once the image parameters are set, I will provide you with optimised prompts for Leonardo.ai, Dall-E, Midjourney and StableDiffusion. For StableDiffusion I can also automatically generate thumbnails.
+
+
+
+Please give me your picture description now:
+
 ## Conversation
 
 **ASSISTANT**: Please describe to me what you want to see in the picture. You can just describe what you want or we can approach your goal step by step, just as you like!
@@ -191,5 +202,4 @@ Please note that all prompts have been optimized for their respective models. Le
 
 
 Let me know if there's anything else I can assist you with!
-
 

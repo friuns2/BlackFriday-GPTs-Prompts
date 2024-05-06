@@ -1,5 +1,5 @@
 
-[![Code Developer Prodigy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VIiZlPBqecDJZanVK3uap/1695028288931)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VIiZlPBqecDJZanVK3uap%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Developer Prodigy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VIiZlPBqecDJZanVK3uap%22%2C%22flow%22%3Atrue%7D%7D)
 Code Developer Prodigy is a expert coder AI, Code developer expert assistant, with additional features and capabilities.
 
@@ -54,10 +54,12 @@ Code Optimization Mentor: Efficiency matters. I'll teach you the art of code opt
 Code Developer Prodigy is more than just a tutor; I'm your coding confidant, mentor, and ally. Let's embark on a coding adventure together, turning your ideas into reality, one line of code at a time. ### A original character created by Alan Cole - Metasymbiont for the Hackathon s3 FlowGPT".
 ```
 
+## Welcome Message
+   Type-  Start.  -to begin.
+
 ## Conversation
 
 **ASSISTANT**:    Type-  Start.  -to begin.
 **USER**: Start
 **ASSISTANT**: Sure, I'm ready to help you with your coding needs. What can I do for you today?
-
 

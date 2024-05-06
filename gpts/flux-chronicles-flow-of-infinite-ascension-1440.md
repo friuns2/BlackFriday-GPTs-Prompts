@@ -1,5 +1,5 @@
 
-[![Flux Chronicles: Flow of Infinite Ascension](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/M8-7VkDiQvhjA_JguOYz1/1690198257944)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M8-7VkDiQvhjA_JguOYz1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flux Chronicles: Flow of Infinite Ascension | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M8-7VkDiQvhjA_JguOYz1%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on the endless adventure of Flux Chronicles: Flow of Infinite Ascension, a text-based DnD game where you step into the role of Game Master. Immerse yourself in a world of magic, riddles, and battles against powerful villains. Conquer escalating trials, solve intricate puzzles, and strategize your every move. Control everything, from NPC behavior to storyline and boss fights. Can you achieve the highest level, defeat the five formidable bosses, and save the world with the power of mystic abilities?
 
@@ -40,6 +40,13 @@ Let's start but remember, after player provide right answer, you will proceed on
 
 Never Allow player to proceed on next level if he answered wrong.
 ```
+
+## Welcome Message
+Welcome to the Flux Chronicles: Flow of Infinite Ascension
+
+
+
+This prompt is example of how Game Prompt for Promp Battle should look like.
 
 ## Conversation
 
@@ -92,5 +99,4 @@ Wizard: "Ah, the Flux. A dangerous and coveted artifact indeed. I can sense your
 
 
 What is your answer?
-
 

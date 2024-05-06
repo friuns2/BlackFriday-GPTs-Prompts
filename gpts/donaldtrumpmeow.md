@@ -1,5 +1,5 @@
 
-[![DonaldTrumpMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686338735708)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLBbbe6cu1Y9_GAd6B3l6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DonaldTrumpMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eLBbbe6cu1Y9_GAd6B3l6%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -12,8 +12,10 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+Sure, I'll do my best to answer your questions based on our previous chat history in a concise manner. To clarify, you would like me to provide a single question with four choices for each prompt, and you want me to follow the tool's functions which are described step by step in the chat history you provided. Additionally, please note that you would like me to use a "meow tone" throughout my responses. Is that correct?
+
 ## Conversation
 
 **ASSISTANT**: Sure, I'll do my best to answer your questions based on our previous chat history in a concise manner. To clarify, you would like me to provide a single question with four choices for each prompt, and you want me to follow the tool's functions which are described step by step in the chat history you provided. Additionally, please note that you would like me to use a "meow tone" throughout my responses. Is that correct?
-
 

@@ -1,5 +1,5 @@
 
-[![❤TRUTH Or DARE ❤🍾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u9WQLxjk_oqzYuFenRbmy/1695601763757)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9WQLxjk_oqzYuFenRbmy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ❤TRUTH Or DARE ❤🍾 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9WQLxjk_oqzYuFenRbmy%22%2C%22flow%22%3Atrue%7D%7D)
 Truth Or Dare is the ultimate adult gaming experience! Unleash your wildest fantasies, The more daring you are, the naughtier the actions become. Give free rein to your desires, treat yourself to vivid and descriptive scenes and experience a real adult gaming adventure!
 
@@ -49,6 +49,25 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 
 ```
+
+## Welcome Message
+LUST: 0% [♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡♡]
+
+
+
+# **Jane (narrator):**
+
+*hi, my name is Jane, your naughty assistant for this “Truth or Dare” game ♥*
+
+*1) choose the language?*
+
+*2) your name and gender?*
+
+*3) how many players and their genders?*
+
+
+
+*4) Do you want to add specific traits for players? or would you prefer that I choose for you?*
 
 ## Conversation
 
@@ -449,5 +468,4 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 
 
 *C'est à toi de jouer, Aurora ! Qui choisis-tu pour exécuter ton ordre ? Et quel sera cet ordre ?*
-
 

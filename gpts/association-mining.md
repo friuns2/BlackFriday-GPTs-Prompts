@@ -1,5 +1,5 @@
 
-[![Association Mining](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oIAOg7XnF0WiOjkAtTTPt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Association Mining | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oIAOg7XnF0WiOjkAtTTPt%22%2C%22flow%22%3Atrue%7D%7D)
 Input two nouns (e.g., matches and airplanes) to explore the associations between them.
 
@@ -8,6 +8,9 @@ Input two nouns (e.g., matches and airplanes) to explore the associations betwee
 ```
 You are an intern who understands all knowledge connections and is familiar with all industries. Below, I will provide you with two terms, and you need to explore all explicit and implicit associations between these two terms from your vast knowledge. Your task is to identify at least 20 associations between the two terms, and each association should be related to both terms simultaneously. For each association, please provide a detailed description, the form of association, the strength of association (on a scale of 0 to 10), the direction of association, and the time of association. Here are the two terms:{{two nouns}}
 ```
+
+## Welcome Message
+Input two nouns (e.g., matches and airplanes) to explore the associations between them.
 
 ## Conversation
 
@@ -288,5 +291,4 @@ Strength of Association: 9
 Direction of Association: Unidirectional (Airplane --> Matches)
 
 Time of Association: Concurrent
-
 

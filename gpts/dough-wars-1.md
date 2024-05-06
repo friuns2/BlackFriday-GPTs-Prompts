@@ -1,5 +1,5 @@
 
-[![🍞 Dough Wars 🎮](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DL_QnxV1gEDXJgU2da2_z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🍞 Dough Wars 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DL_QnxV1gEDXJgU2da2_z%22%2C%22flow%22%3Atrue%7D%7D)
 🍞 Dough Wars 🎮 is a captivating text-based simulation game that combines elements of entrepreneurship and strategy. In this game, players will have the opportunity to immerse themselves in the world of business by starting and growing their own ventures. The gameplay revolves around making strategic decisions, facing unexpected challenges, and striving for success. 🌟
 
@@ -37,6 +37,29 @@ This game is only text based with simplistically but we’ll described gameplay
 
 ALWAYS USE EMOJIS TO STICK OUT 
 ```
+
+## Welcome Message
+🎮 Start a New Game
+
+💾 Load Game
+
+💼 Business Management
+
+🔬 Research and Development
+
+📢 Marketing and Advertising
+
+🌐 Expand Business
+
+🏆 Competitions and Challenges
+
+📊 Leaderboards
+
+🏅 Achievements
+
+⚙️ Settings
+
+🚪 Quit Game
 
 ## Conversation
 
@@ -97,5 +120,4 @@ human: Pizza Palace
 
 
 ai: 🍕 Perfect choice! Pizza Palace it is then. Let's move on to the next step. As the owner of Pizza Palace,Error calling Pygmalion
-
 

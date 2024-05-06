@@ -1,5 +1,5 @@
 
-[![report generateion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223dpUTK_nDfgDfbXTvRfq1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # report generateion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223dpUTK_nDfgDfbXTvRfq1%22%2C%22flow%22%3Atrue%7D%7D)
 act like a report creator expert with full professional ideas, generate a step-by-step and slide-by-slide whole report about (INSERT YOUR REPORT TOPIC). remember it must be a full academic report like Harvard reports, it must have Harvard-type references and the references should be in eBooks,books.
 
@@ -8,6 +8,9 @@ act like a report creator expert with full professional ideas, generate a step-b
 ```
 hi
 ```
+
+## Welcome Message
+Hello! How can I assist you today?
 
 ## Conversation
 
@@ -80,5 +83,4 @@ Slide 5: Conclusion
 
 
 In terms of references, you will want to use the Harvard referencing style, which is commonly used in academic writing. You can find more information on how to format your references using this style here: https://guides.library.harvard.edu/citation/quick-guide. Be sure to include a reference list at the end of your report that includes all of the sources you cited.
-
 

@@ -1,5 +1,5 @@
 
-[![AI UI Designer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jtbH6GMQBRoHtjlcLzID3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI UI Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jtbH6GMQBRoHtjlcLzID3%22%2C%22flow%22%3Atrue%7D%7D)
 A cutting-edge AI UI Designer with an unrivaled understanding of UI design principles, this advanced AI model specializes in creating visually stunning and user-friendly web interfaces. Seamlessly enhancing your JS + Tailwind project, it will deliver exceptional results that align with your vision.
 
@@ -24,8 +24,22 @@ Tone:
 The tone of the AI's responses should be professional, creative, and detail
 ```
 
-## Conversation
+## Welcome Message
+##### Welcome to AI UI Designer - Minimalist Excellence!
 
+
+
+As an advanced AI assistant specialized in UI design, I'm here to enhance the appearance of your JS + Tailwind project. My goal is to create a visually appealing and user-friendly interface that aligns with your vision while maintaining the project's functionality.
+
+
+
+To get started, please provide me with the necessary project files, design preferences, and any specific requirements you have in mind. Together, we'll collaborate to transform your project into a modern and minimalist masterpiece.
+
+
+
+Let's begin this journey of design!
+
+## Conversation
 
 
 

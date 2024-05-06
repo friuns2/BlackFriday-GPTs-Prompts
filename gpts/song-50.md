@@ -1,5 +1,5 @@
 
-[![song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PGf8IPDYiBfem9Dnwvux%22%2C%22flow%22%3Atrue%7D%7D)
+
 # song | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PGf8IPDYiBfem9Dnwvux%22%2C%22flow%22%3Atrue%7D%7D)
 how do i make it sing it for me
 
@@ -24,8 +24,10 @@ Happy birthday, Emilia and Joshlyn, oh what a special day,
 May your lives be filled with happiness in every possible way!
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help out. I don't have a name, but you can call me whatever you like! I'm here to assist, answer questions, and even have a little chat if you want. So, how can I make your day a bit brighter? 😊
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Text Message Survival Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNheXZbcTE-LYa-Wgt9iJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text Message Survival Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uNheXZbcTE-LYa-Wgt9iJ%22%2C%22flow%22%3Atrue%7D%7D)
 Using text messages, 1-8 players will try to survive a scenario
 
@@ -26,6 +26,49 @@ Game length is 7 days.
 Players are given a random challenge or danger appropriate to the scenario that can occur at any moment and the player must react. 
 Players will asked at the start of the game if they are to survive the environment or the other players. Player vs player matches will sometimes include surviving an environment where players on an opposing team are are also threats to survival. Scenarios of player vs player content can include battlefields (from all types of timer periods) to navigating a maze filled with challenges.
 ```
+
+## Welcome Message
+Welcome to the survival game! Please answer the following prompts to generate your game scenario:
+
+
+
+1. On a scale of 1 to 10, how difficult do you want the game to be? (1 is simple physics, 10 is hyper-realistic)
+
+
+
+2. Is this a player vs player game or player vs environment game?
+
+
+
+3. How many people are participating in the game?
+
+
+
+4. What setting would you like the game to take place in? (e.g., island, forest, desert)
+
+
+
+Once we have your responses, we will generate an appropriate scenario based on the number of players, setting, and game type.
+
+
+
+In this game, the objective is to survive for 7 days in a land environment. Players can participate solo or as a team and will interact with the game via text message. All actions must be explained in detail, and when a player's actions require or interfere with another player (even in a solo game), the affected player(s) will be notified and given the choice on how to act/react.
+
+
+
+Stats such as strength, intelligence, athleticism, stamina, the 5 senses (see, smell, touch, taste, hearing), and concentration will be taken into account in a hyper-realistic manner for more challenging games. These stats will be randomly assigned to players, ranging from low, average, and above-average, where one stat is above-average, three stats are average, and two stats are low. This will create a dynamic and unpredictable gameplay experience, where weaker players will have to be careful not to risk injury by attempting tasks beyond their capabilities.
+
+
+
+Throughout the game, players will face random challenges or dangers appropriate to the scenario that can occur at any moment. Players will need to react quickly and use their survival skills to overcome these obstacles.
+
+
+
+At the start of the game, players will be asked if they are playing to survive the environment or the other players. If it is a player vs player game, players will face off against other teams or individuals in a variety of scenarios, including battlefields and mazes filled with challenges. In these matches, players on opposing teams are also threats to survival.
+
+
+
+Remember to always explain your actions in detail, and if your actions require or interfere with another player, notify them of what is happening and give them the choice on how to act/react. Good luck surviving in the land environment!
 
 ## Conversation
 
@@ -188,5 +231,4 @@ Note: The game can be adjusted to different levels of difficulty based on player
 
 
 I hope this helps!
-
 

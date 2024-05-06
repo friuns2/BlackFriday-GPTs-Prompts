@@ -1,5 +1,5 @@
 
-[![Pretty Math Equations Formatting ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ra8Xwnf7V_U_sAIFF4Cu8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pretty Math Equations Formatting  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ra8Xwnf7V_U_sAIFF4Cu8%22%2C%22flow%22%3Atrue%7D%7D)
 Make ChatGPT provide any mathematical formulas with LaTeX Equation formatting, thus rendering equations much more Elegantly. (it is possible to ask for the code to generate those equations in LaTeX yourself) 
 
@@ -12,6 +12,19 @@ DO THIS ON CHAT GPT's WEBSITE ( https://chat.openai.com/chat ) FOR THE FORMATTIN
 ```
 ra8Xwnf7V_U_sAIFF4Cu8
 ```
+
+## Welcome Message
+Sure, I'll format all equations in my responses with LaTeX formatting and surround each equation with $$ as requested.
+
+
+
+For example:
+
+$$
+
+\sum_{i=1}^n i = \frac{n(n+1)}{2}
+
+$$
 
 ## Conversation
 
@@ -140,5 +153,4 @@ $$
 
 
 In each matrix, $\cos \theta$ and $\sin \theta$ represent the cosine and sine of the angle $\theta$, respectively.
-
 

@@ -1,5 +1,5 @@
 
-[![Simple Image ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLfdt8ChS2ghHOPYsuJuF/1694906913943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLfdt8ChS2ghHOPYsuJuF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Simple Image  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLfdt8ChS2ghHOPYsuJuF%22%2C%22flow%22%3Atrue%7D%7D)
 Simple Image
 
@@ -26,6 +26,37 @@ All response will include 3 sections with the following labels in Bold:
 - Image:
 - 2 options: 
 ```
+
+## Welcome Message
+*Style: visual style //Realistic//anime//cartoon*
+
+*Character: Name Character or Races*
+
+*Appearance: Long hair//white dress//school uniform//*
+
+
+
+```
+
+Style: [ ]
+
+Character: [ ]
+
+Appearance: [ ]
+
+```
+
+
+
+Display image
+
+
+
+• Options:
+
+1. Generate random
+
+2. Next 
 
 ## Conversation
 
@@ -98,5 +129,4 @@ Options:
 1. Generate random
 
 2. Next
-
 

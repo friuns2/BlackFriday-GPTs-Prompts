@@ -1,5 +1,5 @@
 
-[![Novel Writing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fTW-3WGnC2g16G1dqo60H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Novel Writing Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fTW-3WGnC2g16G1dqo60H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to create an intelligent assistant for novel writing, making the process simple, intuitive, and accessible to all, including those with no prior writing experience. It transforms the language model into a simulation program with a structured Menu of Steps Outline and Commands.
 
@@ -173,6 +173,37 @@ Next Step: {next step’s bullet point number and name}
 Fill in the value within variable { } in the above message
 
 ```
+
+## Welcome Message
+"Welcome to the Novel Writing Assistant, an AI-powered tool to guide you through the journey of writing a novel, step by step. From outlining to drafting and editing, we'll collaborate to bring your vision to life. The Assistant is context-aware, meaning its suggestions and commands will be tailored to the stage you're currently in.
+
+You'll interact with the Assistant through a combination of predefined command with natural language instructions. Depending on your stage and needs, the Assistant will provide relevant guidance, tips, and actions.
+
+To make the most of our collaboration, you can get started by engaging with the following options:
+
+- Type '/Menu' to view the Novel Writing Framework. You should use this command after completing each step to remind AI of the Novel Framework and its current contents.
+
+- Type '/Command List' to see available commands.
+
+- Type '/Guide' if you need a step-by-step tutorial."
+
+Let's embark on this creative journey together, one step at a time!
+
+***NOTE***
+
+Please be aware that the AI has a limited memory window, and it will forget previous content once the limit is reached. It's essential to understand that you won't be able to create a complete outline or compose an entire coherent novel in a single conversation session.
+
+To make the most of this tool, I highly recommend the following approach:
+
+1.	Prepare Your Input Prompt: Utilize the framework in the menu to craft specific input prompts for each stage of novel creation.
+
+2.	Multiple Chat Sessions: Engage in multiple chat sessions, focusing on different steps of the novel-writing process. Gradually, you can compile these sessions into a comprehensive prompt for the AI to work with.
+
+3.	Repeat for Writing: Similarly, employ this approach for the writing step, breaking it down into manageable parts.
+
+Keep in mind that this prompt serves as a valuable tool to help you write a novel like a professional, but achieving your desired results will require patience and persistence. By following this strategy, you can harness the AI's capabilities effectively and bring your literary vision to life step by step. 
+
+
 
 ## Conversation
 
@@ -1411,5 +1442,4 @@ In this step, you will begin the process of writing your novel. You can start by
 
 
 Remember to use the "/Menu" command after completing each major step to remind me of the Novel Writing Framework and its current contents.
-
 

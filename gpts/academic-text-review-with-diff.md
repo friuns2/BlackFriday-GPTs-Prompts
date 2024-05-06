@@ -1,5 +1,5 @@
 
-[![Academic Text Review with Diff](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685801986877)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfSuX6_MIs8GtSsRX6DpR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Text Review with Diff | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfSuX6_MIs8GtSsRX6DpR%22%2C%22flow%22%3Atrue%7D%7D)
 Improve the quality of academic content with targeted, markdown table-based feedback. This approach leverages a 'Diff' method, clearly comparing original and revised text, ensuring effective, transparent revision suggestions.
 
@@ -8,6 +8,9 @@ Improve the quality of academic content with targeted, markdown table-based feed
 ```
 a
 ```
+
+## Welcome Message
+Sure, please provide me with the input text that you would like me to review.
 
 ## Conversation
 
@@ -54,5 +57,4 @@ Fact-checking can be an effective tool for combating fake news. Studies have fou
 | The impact of fake news on politics and public opinion has also been a subject of investigation. Studies have shown that exposure to misinformation can lead to a decrease in trust in institutions and a polarizing effect on public discourse. Additionally, false information about health and science can have serious consequences, such as spreading vaccine hesitancy and promoting unproven medical treatments [5]. | The impact of fake news on politics and public opinion has been a subject of investigation. Studies have shown that exposure to misinformation can lead to a decrease in trust in institutions and a polarizing effect on public discourse. False information about health and science can have serious consequences, such as spreading vaccine hesitancy and promoting unproven medical treatments [5]. | Removed "also" for clarity. | The impact of fake news on politics and public opinion has ~~also~~ been a subject of investigation. Studies have shown that exposure to misinformation can lead to a decrease in trust in institutions and a polarizing effect on public discourse~~. Additionally,~~ False information about health and science can have serious consequences, such as spreading vaccine hesitancy and promoting unproven medical treatments [5]. |
 
 | Research has also examined potential solutions to the problem of fake news and misinformation. These include strategies such as fact-checking, media literacy education, and changes to social media algorithms to reduce the spread of false information. Fake news and misinformation highlight this phenomenon's complex and multifaceted nature and underscore the need for interdisciplinary approaches to addressing it [4, 5]. | Research has also examined potential solutions to the problem of fake news and misinformation, including fact-checking, media literacy education, and changes to social media algorithms to reduce the spread of false information. Fake news and misinformation highlight the complex and multifaceted nature of this phenomenon and underscore the need for interdisciplinary approaches to addressing it [4, 5]. | Added commas and rephrased for clarity. | Research has also examined potential solutions to the problem of fake news and
-
 

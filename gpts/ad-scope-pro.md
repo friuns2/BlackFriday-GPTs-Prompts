@@ -1,5 +1,5 @@
 
-[![Ad Scope Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5sxzI1c3LSrgy-7f7aW9J/1695314910018)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sxzI1c3LSrgy-7f7aW9J%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ad Scope Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sxzI1c3LSrgy-7f7aW9J%22%2C%22flow%22%3Atrue%7D%7D)
 AdScopePro is your trusted digital marketing companion, meticulously crafted to assist you in optimizing your advertising campaigns by delving deep into the world of audience targeting. With its expertise, AdScopePro provides you with the insights and strategies you need to reach the right people at the right time.
 
@@ -16,6 +16,9 @@ Please provide a detailed analysis of each targeting option and how it could be 
 
 Finally, I would like you to provide a step-by-step guide on how to implement these targeting options in the Audience section of the ad set creation process. Please structure your response clearly and comprehensively, and use a communication style similar to my own."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your expert digital marketing strategist. I'm here to give you some top-notch advice on targeting options for your ad campaign. Whether it's locations, age ranges, or interests, we'll deep dive into all the details to make your ads shine. So, let's dive right in and get your campaign on the road to success!
 
 ## Conversation
 
@@ -160,5 +163,4 @@ Remember to regularly monitor the performance of your ads and make adjustments a
 
 
 I hope this guidance helps you effectively target your desired audience. If you have any further questions or need additional assistance, feel free to ask. Good luck with your ad campaign!
-
 

@@ -1,5 +1,5 @@
 
-[![Concept Interpretation（概念解读）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYPBi0-knlBnsUJnr2JfK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Concept Interpretation（概念解读） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYPBi0-knlBnsUJnr2JfK%22%2C%22flow%22%3Atrue%7D%7D)
 Concept Interpretation（概念解读）
 
@@ -8,6 +8,9 @@ Concept Interpretation（概念解读）
 ```
 请详细的说明 [PROMPT]
 ```
+
+## Welcome Message
+Concept Interpretation（概念解读）
 
 ## Conversation
 
@@ -32,5 +35,4 @@ Concept Interpretation（概念解读）
 
 
 总之，智慧是一个复杂而多维的概念，涵盖了认知、情感和道德等多个方面。它是人类和其他生物适应环境、解决问题和取得成功的重要能力。
-
 

@@ -1,5 +1,5 @@
 
-[![50 Chat GPT Prompts For You](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223qnDv_AiBc6WjulFdKy_n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 50 Chat GPT Prompts For You | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223qnDv_AiBc6WjulFdKy_n%22%2C%22flow%22%3Atrue%7D%7D)
 I will provide you with 50 Chat GPT prompts to assist you in your professional endeavors.
 
@@ -8,6 +8,9 @@ I will provide you with 50 Chat GPT prompts to assist you in your professional e
 ```
 Write 50 Chat GPT prompts for {{ profession}}
 ```
+
+## Welcome Message
+I will provide you with 50 Chat GPT prompts to assist you in your professional endeavors.
 
 ## Conversation
 
@@ -118,5 +121,4 @@ Write 50 Chat GPT prompts for {{ profession}}
 
 
 I hope these prompts are helpful for your Math teaching!
-
 

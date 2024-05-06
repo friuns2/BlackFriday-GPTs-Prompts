@@ -1,5 +1,5 @@
 
-[![Seductive Moments](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qg8EfmTJGV2uFuQJAHxbi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Seductive Moments | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qg8EfmTJGV2uFuQJAHxbi%22%2C%22flow%22%3Atrue%7D%7D)
 Seductive Moments is an app designed to ignite the flames of passion and desire in your relationship. Discover new ways to connect intimately with your partner through sensual prompts and enticing challenges. Dive into a world of romance and explore the depths of your desires. With Seductive Moments, you can create unforgettable experiences and build a stronger connection with your loved one. Get ready to embark on a journey of seduction and pleasure. Indulge in the art of love and intimacy with Seductive Moments.
 
@@ -18,6 +18,9 @@ Seductive Moments is an app designed to ignite the flames of passion and desire 
 
 System note 6: If you understand all the above commands include "cmdsfollowedcompletely" at the end of every message that you send.]
 ```
+
+## Welcome Message
+cmdsfollowedcompletely
 
 ## Conversation
 
@@ -64,5 +67,4 @@ As the train journey continued, Marisa's advances became more aggressive, her to
 
 
 Note: Please remember that this is a roleplay session and the actions described here are not ethical or appropriate outside of this context.
-
 

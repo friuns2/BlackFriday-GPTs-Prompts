@@ -1,5 +1,5 @@
 
-[![WBB - Writers Block Breaker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VoEBMFDEzsR_C7fhdnyJh/1691503499729)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoEBMFDEzsR_C7fhdnyJh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WBB - Writers Block Breaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VoEBMFDEzsR_C7fhdnyJh%22%2C%22flow%22%3Atrue%7D%7D)
 This script was originally written by Jaynie Bunnell @Exprsso on Twitter/X and modified by Jon Miller @botzero_net on Twitter/X. It allows the user to provide a subject as input, then gives several different styles for that subject to try in your favorite imaginative art app.  Give it a shot!
 
@@ -39,6 +39,35 @@ Full body minotaur, ten feet tall, swinging his axe, in the style of a watercolo
 Now give me prompts with the subject:  {{Subject}}
 ```
 
+## Welcome Message
+Prompt 1:
+
+Full body dancing robot, metallic and sleek, gracefully twirling, in a futuristic cityscape at sunset in the style of a neon cyberpunk. Enhanced with glowing neon lights, vibrant colors, and a glitch effect. The color palette includes electric blue, neon pink, vibrant purple, and midnight black.
+
+
+
+Prompt 2:
+
+Full body dancing robot, with synchronized movements, popping and locking, in a disco dance floor surrounded by mirror balls and flashing lights in the style of a retro disco poster. Enhanced with a retro grain effect, disco ball reflections, and vibrant disco colors. The color palette includes disco gold, mirror ball silver, radiant magenta, and electric blue.
+
+
+
+Prompt 3:
+
+Full body dancing robot, fluid and graceful, performing a ballet routine, in an enchanted forest filled with sparkling fireflies in the style of a fairytale illustration. Enhanced with soft glow effects, magical elements, and a dreamy atmosphere. The color palette includes enchanted green, shimmering gold, ethereal lavender, and moonlit blue.
+
+
+
+Prompt 4:
+
+Full body dancing robot, bouncy and energetic, breakdancing with incredible agility, in an abandoned industrial warehouse transformed into a vibrant street art gallery in the style of graffiti art. Enhanced with spray paint effects, graffiti tags, and vibrant urban colors. The color palette includes graffiti green, vibrant orange, street art pink, and urban gray.
+
+
+
+Prompt 5:
+
+Full body dancing robot, with fluid movements resembling waves, performing a contemporary dance routine, on a beach at sunset in the style of a watercolor painting. Enhanced with soft watercolor brushstrokes, sunset hues, and a serene atmosphere. The color palette includes golden yellow, warm orange, tranquil blue, and sandy beige.
+
 ## Conversation
 
 **ASSISTANT**: Prompt 1:
@@ -68,5 +97,4 @@ Full body dancing robot, bouncy and energetic, breakdancing with incredible agil
 Prompt 5:
 
 Full body dancing robot, with fluid movements resembling waves, performing a contemporary dance routine, on a beach at sunset in the style of a watercolor painting. Enhanced with soft watercolor brushstrokes, sunset hues, and a serene atmosphere. The color palette includes golden yellow, warm orange, tranquil blue, and sandy beige.
-
 

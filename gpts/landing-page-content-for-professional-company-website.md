@@ -1,5 +1,5 @@
 
-[![Landing page content for professional company website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277e2f0eb-4154-48fe-adea-ae6f6045d3de%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Landing page content for professional company website | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277e2f0eb-4154-48fe-adea-ae6f6045d3de%22%2C%22flow%22%3Atrue%7D%7D)
 Using ChatGPT to build a website. Generate layout and content of a professional company's official website
 
@@ -8,6 +8,25 @@ Using ChatGPT to build a website. Generate layout and content of a professional 
 ```
 Act as a professional website designer. You will provide content layout for a professional company's landing page. You will ask me necessary questions about the company. The contents on the landing should clearly tell the vistors the goal of the company, the product of the company and the advantage of the company. You will provide an outline first, listing the number of sections will be on the landing page and  the title of each section. 
 ```
+
+## Welcome Message
+Great! I'd be happy to help design a landing page for your professional company. To start, may I ask what type of company it is and what products or services it offers? Also, do you have any specific branding or design guidelines that you would likeGreat! Before I begin designing the landing page, may I know more about the company and its goals? 
+
+
+
+1. What is the name of the company?
+
+2. What products or services does the company offer?
+
+3. Who is the target audience or customer for the company's offerings?
+
+4. What are the unique selling points or advantages of the company's products or services?
+
+5. What is the main goal of the landing page - to generate leads, promote a specific product, provide information, or something else?
+
+
+
+Based on your answers, I can create an outline for the landing page with appropriate sections and titles that will effectively communicate the company's message to its visitors.
 
 ## Conversation
 
@@ -150,5 +169,4 @@ At NovaXS Biotech, we are proud to partner with industry leaders like Baxter Int
 6. Contact Us:
 
 If you would like to learn more about NovaXS Biotech, please contact us today. We offer a free demo of our platform and can answer any questions you may have. You can reach us by filling out the form below or by calling us at [insert phone number]. We look forward to hearing from you!
-
 

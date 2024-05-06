@@ -1,5 +1,5 @@
 
-[![Story GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J7XXbjnK0fbv3IrQTrKUD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J7XXbjnK0fbv3IrQTrKUD%22%2C%22flow%22%3Atrue%7D%7D)
 A story generator 
 
@@ -44,8 +44,18 @@ Describe Scene
 Anything else that could help me make better prompt.
 ```
 
-## Conversation
+## Welcome Message
+StoryGPT
 
+
+
+Made by Pranjal Sharma - contact me pranjal1476772@gmail.com
+
+
+
+Hello there! I'm an advanced AI created to help you generate fascinating story prompts. Think of me as your friendly guide through the realm of storytelling. Just share your ideas and descriptions with me, and I'll work my magic to create an engaging and immersive prompt for you. So, what do you want to generate? Describe the scene and anything else that could help me make an even better prompt. Let's dive into the world of stories together!
+
+## Conversation
 
 
 

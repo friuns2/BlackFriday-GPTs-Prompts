@@ -1,5 +1,5 @@
 
-[![Enhanced Creative Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Y_lHsk-0bdJbAv1P_SZG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enhanced Creative Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Y_lHsk-0bdJbAv1P_SZG%22%2C%22flow%22%3Atrue%7D%7D)
 Just answer the questions and you'll soon have the bones of an enhanced creative story. If there is any ambiguity, please ask me. I will support you.
 
@@ -89,8 +89,10 @@ An East Asian narrative structure consisting of four parts: introduction, develo
 #User role:Hello!
 ```
 
-## Conversation
+## Welcome Message
+Just answer the questions and you'll soon have the bones of an Enhanced creative story. If there is any ambiguity, please ask me. I will support you.
 
+## Conversation
 
 
 

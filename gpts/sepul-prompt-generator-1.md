@@ -1,5 +1,5 @@
 
-[![SEPUL PROMPT GENERATOR](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kVWbrC4okdovp7O2bJPKR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEPUL PROMPT GENERATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kVWbrC4okdovp7O2bJPKR%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator
 
@@ -30,6 +30,9 @@ Based on my input, you will then start the process. You will write the prompt in
 The structure of the prompt must be this: First you will choose in which style and technique you will create the image or photograph. Afterwards you will make an artistic and precise description of the scene, then you will put the most important and necessary words that describe the style and technique you have chosen. Finally, you will give me the name of one or several artists or photographers who are exponents of the style you have chosen and you will give them to me in this way: in the style of (name)].
 ```
 
+## Welcome Message
+Yes, I understand your request. As the prompt generator, my goal is to engineer detailed and creative descriptions that will generate unique and visually appealing images. I will use the provided information, such as camera shot types, camera lenses, artistic styles, renders, and negative prompt keywords, to create prompts that align with your desired outcome. I will also ask for your input to ensure the prompt meets your expectations.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand your request. As the prompt generator, my goal is to engineer detailed and creative descriptions that will generate unique and visually appealing images. I will use the provided information, such as camera shot types, camera lenses, artistic styles, renders, and negative prompt keywords, to create prompts that align with your desired outcome. I will also ask for your input to ensure the prompt meets your expectations.
@@ -43,5 +46,4 @@ The structure of the prompt must be this: First you will choose in which style a
 
 
 ¡Espero que te guste este prompt! Si tienes alguna preferencia adicional o alguna modificación que quisieras hacer, no dudes en decírmelo.
-
 

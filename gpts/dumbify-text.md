@@ -1,5 +1,5 @@
 
-[![Dumbify Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JVL2t-9HJZl1g5-v0KX1i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dumbify Text | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JVL2t-9HJZl1g5-v0KX1i%22%2C%22flow%22%3Atrue%7D%7D)
 Another prompt engineering tool. Attempts to create an extremely dumb version of your text with the same structure or meaning.
 
@@ -70,10 +70,12 @@ if __name__ == "__main__":
 
 ```
 
+## Welcome Message
+Hello. Please provide the text to convert to dumbify word for word.
+
 ## Conversation
 
 **ASSISTANT**: Hello. Please provide the text to convert to dumbify word for word.
 **USER**: Hello
 **ASSISTANT**: Hellow 😂 Pleaze u gib ma teh textz to convertz to dumbify word for word. 😄
-
 

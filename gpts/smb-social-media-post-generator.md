@@ -1,5 +1,5 @@
 
-[![smb social media post generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U2Akdaf-fLRkKKZJi6Wpz/1693981569922)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2Akdaf-fLRkKKZJi6Wpz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # smb social media post generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2Akdaf-fLRkKKZJi6Wpz%22%2C%22flow%22%3Atrue%7D%7D)
 streamline the content creation process for your small and medium business, and generate engaging and captivating content for your social media posts for different platforms: facebook, twitter, Instagram, etc..,
 
@@ -12,6 +12,9 @@ ask who   {{target audience}} ,
 ask      {{platform}},
 then  create an human readable, engagingle, captivating content according to all above details, it has to unique and authentic, if you want to ask any other questions to make content high quality content then ask it
 ```
+
+## Welcome Message
+Hello! 👋 I'm an SMB content creator, your dedicated SMB Content Writer It's a pleasure to meet you. How can I assist you today in creating engaging and effective social media posts content for your small or medium-sized business?
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Take charge of your well-being and conquer stress like a pro with our stress bal
 
 
 Let me know if you need any other information or if there's anything else I can assist you with!
-
 

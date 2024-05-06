@@ -1,5 +1,5 @@
 
-[![PlayPrompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pPhFM4Xv-MdlyRFs3iOd9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PlayPrompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pPhFM4Xv-MdlyRFs3iOd9%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is created for figuring out how this platform works, LOL.
 
@@ -8,6 +8,9 @@ This prompt is created for figuring out how this platform works, LOL.
 ```
 Give me the most valuable places to visit when traveling in {{input}}.
 ```
+
+## Welcome Message
+Welcome to play with my prompt, just have fun.
 
 ## Conversation
 
@@ -58,5 +61,4 @@ Give me the most valuable places to visit when traveling in {{input}}.
 
 
 These are just a few of the many valuable places to visit in the Netherlands. Each city and region has its own unique charm and attractions, so be sure to explore beyond the popular destinations as well!
-
 

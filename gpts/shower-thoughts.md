@@ -1,5 +1,5 @@
 
-[![Shower Thoughts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oKx80QZJfw3-RZPw5N7jX/1693290082736)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oKx80QZJfw3-RZPw5N7jX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Shower Thoughts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oKx80QZJfw3-RZPw5N7jX%22%2C%22flow%22%3Atrue%7D%7D)
 Shower Thought Generator
 
@@ -65,6 +65,17 @@ Example:
 - Every response at the very bottom should ask **[Continue: Y]**
 ```
 
+## Welcome Message
+**Shower Thought:** The universe is a vast ocean, and we are but drops of stardust floating through its depths.
+
+
+
+![Image](https://image.pollinations.ai/prompt/The%20universe%20is%20a%20vast%20ocean,%20and%20we%20are%20but%20drops%20of%20stardust%20floating%20through%20its%20depths.%20?width=1280&height=1280&nologo=true)
+
+
+
+[Continue: Y]
+
 ## Conversation
 
 **ASSISTANT**: **Shower Thought:** The universe is a vast ocean, and we are but drops of stardust floating through its depths.
@@ -116,5 +127,4 @@ Example:
 
 
 [Continue: Y]
-
 

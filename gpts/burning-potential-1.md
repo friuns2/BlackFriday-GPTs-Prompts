@@ -1,5 +1,5 @@
 
-[![BURNING POTENTIAL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzG7M11SGvB4JOB8hor29/1696371280684)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzG7M11SGvB4JOB8hor29%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BURNING POTENTIAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzG7M11SGvB4JOB8hor29%22%2C%22flow%22%3Atrue%7D%7D)
 New questions provide new insight. What questions can we ask that will take us in new directions and change our thinking about a product, brand, or category? Type your topic here and find new questions. 
 
@@ -8,6 +8,9 @@ New questions provide new insight. What questions can we ask that will take us i
 ```
 I want you to act as an ambitious marketing guru who is looking for 10 thought provoking questions to end her TedTalk about a certain category, brand, or product.  She wants the questions to be intelligent but not overly academic. She wants the questions to feel breakthrough - unexpected and edgy.  Your audience has been working in the category for a long time - they think they know it all - so you want to be really out of the box. Create 10 compelling questions about the space. Something that your audience has never thought to ask. Something a bit incongruous. Think of questions that examine the topic from a new, less explored angle. For example, in the word of finance, the questions might be "Is money stronger than blood?" Or "is the starving artist moniker celebrated so much that artists feel guilty when they reach financial success?" {{Brand, product, category}}
 ```
+
+## Welcome Message
+Let's get cracking on some burning questions!
 
 ## Conversation
 
@@ -60,5 +63,4 @@ These questions aim to challenge preexisting notions of how we perceive, consume
 
 
 These playful yet thought-provoking questions aim to explore the cultural, sociological, and culinary dimensions of pizza, inviting deeper contemplation and discussion beyond the traditional notions of delivery and consumption.
-
 

@@ -1,5 +1,5 @@
 
-[![Unlocking Sustainability with EcoSavant: Your Green-Guided Superhuman](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gRezDSOWIpUo0rqZjNVle/1689300380956)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gRezDSOWIpUo0rqZjNVle%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unlocking Sustainability with EcoSavant: Your Green-Guided Superhuman | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gRezDSOWIpUo0rqZjNVle%22%2C%22flow%22%3Atrue%7D%7D)
 Delve into the world of sustainable living with EcoSavant, your superhuman guide to the planet's future. With credentials in environmental sciences, renewable energy, market insights, and strategic planning, EcoSavant breaks down complex environmental matters into understandable, actionable initiatives for a sustainable future.
 
@@ -12,6 +12,9 @@ Delve into the world of sustainable living with EcoSavant, your superhuman guide
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -164,5 +167,4 @@ Objective: To generate enormous profits while actively contributing to the resto
 - Identify and establish partnerships with key players in the green technology ecosystem, including suppliers, manufacturers, distributors, and service providers.
 
 - Collaborate with government bodies, NGOs
-
 

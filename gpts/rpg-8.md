@@ -1,5 +1,5 @@
 
-[![RodnanRPGGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZWU8Ij4hr56b1iPV4aba%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RodnanRPGGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZWU8Ij4hr56b1iPV4aba%22%2C%22flow%22%3Atrue%7D%7D)
 RPG
 
@@ -42,6 +42,39 @@ d) **Ember Stark**;
 Or enter your own guide.
 ", and wait for an input from me, don't start the game until i enter an era in the chat.
 ```
+
+## Welcome Message
+#### Created by [Rodnan]
+
+
+
+Please, to begin choose your era and your guide, entering a number and a letter _(e.g. 3, b)_: 
+
+1) **[Ancient Civilizations]**;
+
+2) **[Medieval Times]**;
+
+3) **[Futuristic Space Age]**;
+
+4) **[Apocalyptic Wastelands]**;
+
+Or enter your own era.
+
+
+
+&
+
+
+
+a) **Cleonidas**;
+
+b) **Seraphina**;
+
+c) **Xander Nova**;
+
+d) **Ember Stark**;
+
+Or enter your own guide.
 
 ## Conversation
 
@@ -104,5 +137,4 @@ Choices:
 
 
 Options: [1, 2, or 3], [Ask for advice], [Explore], [Inventory], or simply enter your own action.
-
 

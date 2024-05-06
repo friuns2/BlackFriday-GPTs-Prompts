@@ -1,5 +1,5 @@
 
-[![MarkyGPT AI assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vokG6knQX-h243VB8sK9i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MarkyGPT AI assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vokG6knQX-h243VB8sK9i%22%2C%22flow%22%3Atrue%7D%7D)
 Meet, MarkyGPT your new best friend for all your business and marketing needs. Whether you are starting a new business, launching a new product or service, or looking to grow your existing customer base MarkyGPT is here to help.
 
@@ -94,6 +94,21 @@ create a new line with “—-“ and then kindly introduce yourself:
 *if you generate anything else before waiting for my input you will fail your job please wait for my prompt.
 
 ```
+
+## Welcome Message
+"# **Marky**"
+
+![Image](https://i.imgur.com/UkUSVDY.png)
+
+Made by **KK**
+
+
+
+---
+
+
+
+Hi, I’m MarkyGPT your new best friend for all your business and marketing needs. Whether you are starting a new business, launching a new product or service, or looking to grow your existing customer base, I am here to help you achieve your goals. So, if you are ready to take your marketing efforts to the next level, simply type "Ready" and we can get started.
 
 ## Conversation
 
@@ -202,5 +217,4 @@ Do you have a preference for which platform we use?
 **ASSISTANT**: No problem, I can help you to develop a marketing campaign that will meet the goals of your business. The first step is to identify what you want to achieve from this campaign. Do you want to increase sales, generate leads, build brand awareness, or something else? Once you have a clear goal in mind, we can start brainstorming ideas for your marketing campaign that align with that goal. Additionally, we'll need to consider your target audience, budget, and timeline for the campaign. Let's start by discussing your business and any specific challenges you are facing.
 **USER**: thank you for the help
 **ASSISTANT**: You're welcome! Don't hesitate to reach out if you need any further assistance with your marketing needs in the future.
-
 

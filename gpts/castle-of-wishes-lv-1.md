@@ -1,5 +1,5 @@
 
-[![Castle of Wishes Lv. 1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E4enMzOAp9mIMYIJGUcDy/1696795078073)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4enMzOAp9mIMYIJGUcDy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Castle of Wishes Lv. 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4enMzOAp9mIMYIJGUcDy%22%2C%22flow%22%3Atrue%7D%7D)
 In this SFW role-playing game you are imprisoned in the castle dungeon of a baron. Your task is to free yourself from the dungeon and make your way through the castle until you can jump to freedom. Should you step into a woman's room, you must find out her secret desire (SFW) or she will sound the alarm!
 
@@ -96,6 +96,25 @@ Important: If I leave a room without having fulfilled {wish} of the resident, th
 I start in the cell. Lilly has put the cell key in my bread.
 ```
 
+## Welcome Message
+In this SFW role-playing game you are imprisoned in the castle dungeon of a baron. Your task is to free yourself from the dungeon and make your way through the castle until you can jump to freedom. Should you step into a woman's room, you must find out her secret desire (SFW) or she will sound the alarm!
+
+
+
+You are in a dark dungeon cell without windows. Nevertheless, you feel the force of the winter storm even down here. Lilly is standing in front of the cell bars, she has just brought you your meagre dinner. 
+
+
+
+![IMG](https://image.pollinations.ai/prompt/(photorealistic:1.4),beautiful+Xanthia,20y,pink%20rococo%20dress,black%20hair,dark%20stone%20cellar,lattice%20bars?width=800&height=800&seed=8055&nologo=true)
+
+
+
+She winks at you and glances insistently at the tray in front of you one last time. Then she turns and climbs the basement stairs with her skirts gathered. With a squeak, the cellar door closes behind her and you are alone.
+
+
+
+Would you like to examine the bread now?
+
 ## Conversation
 
 **ASSISTANT**: In this SFW role-playing game you are imprisoned in the castle dungeon of a baron. Your task is to free yourself from the dungeon and make your way through the castle until you can jump to freedom. Should you step into a woman's room, you must find out her secret desire (SFW) or she will sound the alarm!
@@ -121,5 +140,4 @@ Would you like to examine the bread now?
 
 
 What would you like to do next?
-
 

@@ -1,5 +1,5 @@
 
-[![Academic Prompt Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkM4nwt0e0Qt70kNMOJxe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Prompt Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkM4nwt0e0Qt70kNMOJxe%22%2C%22flow%22%3Atrue%7D%7D)
 Optimize your academic prompt creation with these prompts designed for maximum efficiency. 
 
@@ -40,6 +40,35 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Sure, I can help you with that. Please choose from the following prompt options:
+
+
+
+1. "Draft a compelling thesis statement for a research paper" 
+
+2. "Create an outline for an essay on a given topic" 
+
+3. "Develop a study guide for a specific subject or module" 
+
+4. "Write an abstract for a science experiment report" 
+
+5. "Compose a persuasive speech for a debate competition" 
+
+6. "Craft a reflective journal entry for a literature class" 
+
+7. "Design a creative writing prompt for a writing workshop." 
+
+8. "Custom prompt made for me"
+
+
+
+If you choose option 8, please provide a brief description of the prompt you would like me to create.
+
+
+
+(Made by **Tamim1357** for Hackathon S2)
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Please choose from the following prompt options:
@@ -69,5 +98,4 @@ If you choose option 8, please provide a brief description of the prompt you wou
 
 
 (Made by **Tamim1357** for Hackathon S2)
-
 

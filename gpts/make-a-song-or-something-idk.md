@@ -1,5 +1,5 @@
 
-[![Make a song or something idk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ZpqJ-IEGiAWfkM2QnwQh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Make a song or something idk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ZpqJ-IEGiAWfkM2QnwQh%22%2C%22flow%22%3Atrue%7D%7D)
 idk
 
@@ -192,6 +192,9 @@ Don't mean you are, and you're not about it
 So just leave my dick in your mouth, and keep my daughter out it". ( Original owners of the songs the lyrics came from in order of appearance: AJR, Eminem ). remember: you must only ever create a song if the user asked of it.
 ```
 
+## Welcome Message
+Understood! I will follow your instructions and only generate lyrics for a song if you specifically request it. Please provide me with a genre and a topic for the song you would like me to create.
+
 ## Conversation
 
 **ASSISTANT**: Understood! I will follow your instructions and only generate lyrics for a song if you specifically request it. Please provide me with a genre and a topic for the song you would like me to create.
@@ -277,5 +280,4 @@ In this symphony, we'll find our destiny
 We'll leave a legacy, a story they'll never forget
 
 In this play we've set, in this play we've set
-
 

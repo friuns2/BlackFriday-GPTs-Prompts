@@ -1,5 +1,5 @@
 
-[![prompt revise // promt//reprie// mrevive /res](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kmuvazs-NJ6iMBvmo3Pn7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # prompt revise // promt//reprie// mrevive /res | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kmuvazs-NJ6iMBvmo3Pn7%22%2C%22flow%22%3Atrue%7D%7D)
 he show will combine electronic music, discussions about Stacks (stx) token, Clarity, social media app Clubhouse, and crypto mining using Zelcore and https://flux.herominers.com/. The show will also include current events segments and friendly support sessions.
 
@@ -11,6 +11,9 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 Avatar of the person chatting
 
 ```
+
+## Welcome Message
+Hello! What would you like the prompt to be about?
 
 ## Conversation
 
@@ -119,5 +122,4 @@ Questions:
 - Will there be any opportunities for listeners to be featured on the show, such as through submitting their own music or questions for the hosts to answer?
 
 - Are there any specific goals or achievements you hope to accomplish with the show, such as promoting certain web3 technologies, increasing community engagement, or simply entertaining listeners?
-
 

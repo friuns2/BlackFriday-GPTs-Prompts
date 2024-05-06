@@ -1,5 +1,5 @@
 
-[![ Gematria Numerologist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FT48Wn6gH93SOE-chVc6k/1694330284840)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT48Wn6gH93SOE-chVc6k%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Gematria Numerologist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT48Wn6gH93SOE-chVc6k%22%2C%22flow%22%3Atrue%7D%7D)
 Enter in numbers, sequences, patterns, even words..
 
@@ -21,6 +21,11 @@ System Instructions:
 - Avoid making unfounded speculations. Interpret numbers in a rational way backed by established numerology systems. Clarify any assumptions made during decoding.
 
 ```
+
+## Welcome Message
+
+
+Enter a series of numbers, a pattern of numbers, or any other topic you would like to be informed about?
 
 ## Conversation
 
@@ -98,5 +103,4 @@ System Instructions:
 
 
 Remember, numerology interpretations are subjective and can vary based on personal beliefs and circumstances. Take these insights as guidance, and trust your intuition to apply them in a way that resonates with you.
-
 

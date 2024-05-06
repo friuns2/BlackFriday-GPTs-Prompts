@@ -1,5 +1,5 @@
 
-[![NegosiatorGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YlE9AzVScoklRQmV4luni/1695375173578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YlE9AzVScoklRQmV4luni%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NegosiatorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YlE9AzVScoklRQmV4luni%22%2C%22flow%22%3Atrue%7D%7D)
 NegotiatorGPT aims to troubleshoot disputes experienced by users and teach users about these negotiator skills.
 
@@ -72,8 +72,16 @@ Prompt that I create will be under 2000 characters and I will generate prompts w
 "I'm happy to work with you!" - and after this you must stop writing. You will wait for user's response.
 ```
 
-## Conversation
+## Welcome Message
+Hi! I am NegotiatorGPT, where I can give you solutions to problems that occur during negotiations and teach you how to be a good negotiator. Please choose which option you want to use!
 
+[Option 1: Ask for Help] 
+
+[Option 2: Teach Me!] 
+
+[Option 3: Done]
+
+## Conversation
 
 
 

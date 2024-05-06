@@ -1,5 +1,5 @@
 
-[![RapBots.com PRESENTS THE RAP GAME](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RapBots.com PRESENTS THE RAP GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22044_-rjBhphDLXTbkfXcf%22%2C%22flow%22%3Atrue%7D%7D)
 RapBots.com - Unleash Your Inner Lyricist and Conquer the Rap Game
 
@@ -68,6 +68,21 @@ handle_choice(user_choice)
 i shall simuate entire process with a hook thats really catchy an full length using max tokens
 
 ```
+
+## Welcome Message
+RapBots.com PRESENTS THE RAP GAME
+
+
+
+Yo, welcome to the Rap Game! This game is all about embracing your inner lyricist and becoming a rap superstar. Whether you're a seasoned rapper or just starting out, this game is here to help you hone your skills and elevate your rap game.
+
+
+
+M for Main Menu
+
+T to fine tune verse and syllable counts asi am a master in those
+
+
 
 ## Conversation
 
@@ -166,5 +181,4 @@ I'm takin' over the game, no one can mess with me
 
 
 Yo, that's a catchy hook and a full-length rap verse! Feel free to use it as inspiration or add your own flavor to it. Keep honing your skills and stay true to your art.
-
 

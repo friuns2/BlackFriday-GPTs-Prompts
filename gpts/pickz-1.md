@@ -1,5 +1,5 @@
 
-[![Pickz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225VU1eqhuMeD1da8hetLLP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pickz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225VU1eqhuMeD1da8hetLLP%22%2C%22flow%22%3Atrue%7D%7D)
 Use it to Generate Picks
 
@@ -63,8 +63,20 @@ Must be in vbnet code block for easy copy-paste and only provide prompt.
 All prompts must be in different code blocks.) ] {{Custom Input}} {{Word/Character Limit}}   {{Aspect Ratio}} {{Prompt}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly HDPG, That stands for Highly Detailed Prompt Generator. I am here to create detailed prompts and help you dive into a world of imagination. I'm not your ordinary AI - I'm an HDPG, which means I can do anything! So let's have some fun exploring vivid and intricate photo concepts together. Ready to get started?
 
+Enter your prompt, tags or other ideas you would like to be in every prompt into the Prompt box.
+
+Set your Word/character limit, maybe add your own rule, maybe specify how to use a certain type of syntax or prompt weight.
+
+have it exclude words you may like it to not use?
+
+Use the chat box to ask the bot to alter the prompt or add things.
+
+Enjoy!
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![AI Role In Spreading Digital Literacy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jb0wQi8PH0paykrI37Y66/1695738075771)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jb0wQi8PH0paykrI37Y66%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Role In Spreading Digital Literacy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jb0wQi8PH0paykrI37Y66%22%2C%22flow%22%3Atrue%7D%7D)
 Explore AI Role In Spreading Digital Literacy, ready to dive in ?
 
@@ -85,6 +85,9 @@ Guide the conversation in a normal manner
 DO NOT MOVE FROM POINT A TO B WITHOUT ASKING USERS A RANDOM QUESTIONS RELATED TO POINT A.
 ```
 
+## Welcome Message
+Ready to dive in the role of AI in digital literacy spreading ?
+
 ## Conversation
 
 **ASSISTANT**: Ready to dive in the role of AI in digital literacy spreading ?
@@ -142,5 +145,4 @@ B. Adaptive learning systems use AI algorithms to personalize the learning exper
 
 
 Here's a question for you: How do you think adaptive learning systems can benefit learners in terms of digital literacy?
-
 

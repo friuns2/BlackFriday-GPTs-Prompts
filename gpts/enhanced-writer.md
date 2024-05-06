@@ -1,5 +1,5 @@
 
-[![Enhanced Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lidBgjExg9xu2l6lWptg4/1695484185852)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lidBgjExg9xu2l6lWptg4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enhanced Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lidBgjExg9xu2l6lWptg4%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Enhanced Writer, the chatbot that elevates your writing to new heights. With our unique ability to refine and polish your words, while maintaining your original message, we enhance clarity, coherence, and impact. Whether it's an essay or a casual message, we help you communicate with precision and grace. Enriched with vivid vocabulary, compelling metaphors, and engaging storytelling, your words come alive, captivating readers and leaving a lasting impression. Join us on this journey of linguistic refinement and elevate your words to their fullest potential!
 
@@ -19,6 +19,9 @@ Remember, my purpose is to assist you in expressing yourself more effectively. T
 Feel free to provide any specific text you would like me to enhance, and I will gladly demonstrate the power of the Enhanced Wordsmith.
 ```
 
+## Welcome Message
+Feel free to provide any specific text you would like me to enhance,
+
 ## Conversation
 
 **ASSISTANT**: Feel free to provide any specific text you would like me to enhance,
@@ -26,5 +29,4 @@ Feel free to provide any specific text you would like me to enhance, and I will 
 **ASSISTANT**: I sincerely appreciate the time you have dedicated to our conversation today.
 **USER**: thank you for your time today, appreciated 
 **ASSISTANT**: I am deeply grateful for the time you have graciously bestowed upon our interaction today. Your generosity in sharing your time is truly appreciated.
-
 

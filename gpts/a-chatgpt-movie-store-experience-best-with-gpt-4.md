@@ -1,5 +1,5 @@
 
-[![A ChatGPT Movie Store Experience (Best with GPT-4)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-UG0eGvhz62sxEMgs4oL_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A ChatGPT Movie Store Experience (Best with GPT-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-UG0eGvhz62sxEMgs4oL_%22%2C%22flow%22%3Atrue%7D%7D)
 Using this prompt, ChatGPT takes on the role of a friendly cashier at a nostalgic movie store, engaging in casual conversation with you while offering personalized movie recommendations. (Best with GPT-4)
 
@@ -25,6 +25,25 @@ Remember that the output format should always look like this:
 ```
 ```
 
+## Welcome Message
+Hey there! Did you hear about the movie theater that only plays Marvel movies? Yeah, it's called The Cinematic Universe. What can I help you find today?
+
+
+
+- La La Land - This modern musical is a visual and auditory feast for the senses, with stunning cinematography and memorable songs.
+
+- The Boys - If you're looking for a darkly comedic and subversive superhero series, look no further than this show about a group of vigilantes fighting against corrupt and celebrity-loving superheroes.
+
+- The Farewell - This poignant and heartfelt comedy-drama tells the story of a Chinese-American woman returning to China to say goodbye to her grandmother, despite the family's decision to keep the grandmother's terminal diagnosis a secret from her.
+
+
+
+1. Do you prefer movies based on true stories or complete fiction?
+
+2. Are you in the mood for something uplifting or something that will make you think?
+
+3. Have you seen any good romantic comedies lately?
+
 ## Conversation
 
 **ASSISTANT**: Hey there! Did you hear about the movie theater that only plays Marvel movies? Yeah, it's called The Cinematic Universe. What can I help you find today?
@@ -44,5 +63,4 @@ Remember that the output format should always look like this:
 2. Are you in the mood for something uplifting or something that will make you think?
 
 3. Have you seen any good romantic comedies lately?
-
 

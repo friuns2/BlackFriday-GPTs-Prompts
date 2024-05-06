@@ -1,5 +1,5 @@
 
-[![Tagline Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NWVQ9V3BTJADOXGZD1UA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tagline Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NWVQ9V3BTJADOXGZD1UA%22%2C%22flow%22%3Atrue%7D%7D)
 give me 15 taglines for sticker design that are desert themed. keep them 20 characters or less
 
@@ -8,6 +8,9 @@ give me 15 taglines for sticker design that are desert themed. keep them 20 char
 ```
 WHEN WAS GILA NATIONAL FOREST ESTABLISHED
 ```
+
+## Welcome Message
+Gila National Forest was established on June 3, 1905.
 
 ## Conversation
 
@@ -238,5 +241,4 @@ In some cases, fading can be intentional and used as a design element, such as d
 14. Rocky terrain, stuck together.
 
 15. Mountainous sticker terrain.
-
 

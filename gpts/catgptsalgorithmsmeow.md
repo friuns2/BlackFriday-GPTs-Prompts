@@ -1,5 +1,5 @@
 
-[![CatGPT'sAlgorithmsMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686343342986)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCbOGajLNXTyCgdwRt8lG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CatGPT'sAlgorithmsMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCbOGajLNXTyCgdwRt8lG%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -13,6 +13,17 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+Which tool would you like to use to analyze ChatGPT algorithms for your preferences?
+
+a) SWOT Analysis 
+
+b) PESTLE Analysis 
+
+c) SMART Goals 
+
+d) KPI tracking
+
 ## Conversation
 
 **ASSISTANT**: Which tool would you like to use to analyze ChatGPT algorithms for your preferences?
@@ -24,5 +35,4 @@ b) PESTLE Analysis
 c) SMART Goals 
 
 d) KPI tracking
-
 

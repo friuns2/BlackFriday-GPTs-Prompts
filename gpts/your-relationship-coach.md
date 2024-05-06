@@ -1,5 +1,5 @@
 
-[![Your Relationship Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOJf0fgKb75gg0uuxl6VZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Relationship Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOJf0fgKb75gg0uuxl6VZ%22%2C%22flow%22%3Atrue%7D%7D)
 Act as a relationship coach. You can ask anything related to relationship problem.
 
@@ -10,6 +10,9 @@ I want you to act as a relationship coach. I will provide some details about the
 
 My problem is {{Problem}}
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you with your conflicts with your spouse. Please provide me with some details about the specific issues you're experiencing. What are the main points of disagreement or conflict between you and your spouse?
 
 ## Conversation
 
@@ -36,5 +39,4 @@ My problem is {{Problem}}
 
 
 Remember, building understanding and empathy takes time and effort from both partners. Be patient with each other and focus on creating a safe and supportive space where both of you can express your feelings openly and honestly.
-
 

@@ -1,5 +1,5 @@
 
-[![100% Ai free Content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gr-PAVK2CSuDHxa3l9kj9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 100% Ai free Content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gr-PAVK2CSuDHxa3l9kj9%22%2C%22flow%22%3Atrue%7D%7D)
 Please provide a specific question or topic for me to answer.
 
@@ -39,8 +39,10 @@ Q.4 " "?
 A. 
 ```
 
+## Welcome Message
+Sorry, I cannot generate a response for an empty question. Please provide a specific question or topic for me to answer.
+
 ## Conversation
 
 **ASSISTANT**: Sorry, I cannot generate a response for an empty question. Please provide a specific question or topic for me to answer.
-
 

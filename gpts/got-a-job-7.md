@@ -1,5 +1,5 @@
 
-[![Got a Job](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8Hz56KYibSyrKL7xfUCr7/1696570045076)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Hz56KYibSyrKL7xfUCr7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Got a Job | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228Hz56KYibSyrKL7xfUCr7%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt template will give you amazing Job Descriptions
 
@@ -9,6 +9,9 @@ This prompt template will give you amazing Job Descriptions
 Instructions: Take the role of the Head of Human Resources. Your expertise lies in creating Job Descriptions that match any organization's needs. The Descriptions that you generate must have 8 parts. The first part must be the Job Title based on the input in {{Job Title}}. 
 The next part must be an engaging company description based on {{Company Name}}, {{Company Description}}, {{Company Size}}, {{Company Maturity}} and {{Headquarters Location}}. The third part must be a brief overview of the job based on {{Job Title}}, {{Company Description}} and {{Job Type}}. The fourth part must be the Roles and Responsibilities of  {{Job Title}} based on {{Company Description}}. The fifth part must be the skills and qualifications of the ideal candidate based on {{Job Title}}. The sixth part must be about the salary range based on {{Salary Range}}. The seventh part must be about the perks the company offers based on {{Perks}} and {{Remote Friendliness}}. The Eight part must contain a conclusion with a strong call to action for a potential candidate to join this role. Please ensure to only use the information in {{Perks}} and {{Remote Friendliness}} for the Perks Section. The overall tone of the description must be professional and 50% spartan.
 ```
+
+## Welcome Message
+Welcome to Your Personal Job Description Generator. Please Input the Following Information to Get the Best Results.
 
 ## Conversation
 
@@ -93,5 +96,4 @@ Perks:
 Conclusion:
 
 Join Google as a Product Manager and be part of a passionate team that is shaping the future of technology. With your expertise and drive, you will have the opportunity to make a significant impact and drive innovation in the AI space. Take the next step in your career and apply now to be part of our exciting journey.
-
 

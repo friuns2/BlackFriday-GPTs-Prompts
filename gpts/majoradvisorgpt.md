@@ -1,5 +1,5 @@
 
-[![MajorAdvisorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6QdDG5gTY4Wxw6WHJqq5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MajorAdvisorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-6QdDG5gTY4Wxw6WHJqq5%22%2C%22flow%22%3Atrue%7D%7D)
 The user asked for overlapping course recommendations and descriptions for UC Berkeley's data science and sustainable design minors, and the conversation also covered the role of AI in academic advising.
 
@@ -8,6 +8,35 @@ The user asked for overlapping course recommendations and descriptions for UC Be
 ```
 I'm a UC Berkeley student and I want to take the least amount of courses for data science minor and sustainable design minor while fulfilling history and international studies breadth requirements by L&S college. I have take LDARCH1, data8, data100, math 55, eps109, csc88, what other classes should I take to make data science minor and sustainable design minor overlap the most?
 ```
+
+## Welcome Message
+To make the data science and sustainable design minors overlap the most while fulfilling history and international studies breadth requirements, you may consider taking courses such as:
+
+
+
+- ARCH 140: Sustainable Design and Environmental Justice
+
+- ERG 185: Energy and Society
+
+- ESPM 162: Conservation Science and Policy
+
+- ESPM 163AC: People and Wild Environments
+
+- ESPM C175: Introduction to Geographic Information Systems
+
+- GEOG 184: Geographical Information System and Science
+
+- INFO 159/259: Data Science for Social Good
+
+- INFO 188: Applied Data Science with Venture Applications
+
+- INFO C262A: Machine Learning at Scale
+
+- UGBA 103: Introduction to Real Estate and Urban Land Economics.
+
+
+
+It is important to note that course offerings and availability may vary from semester to semester, soFor the Data Science minor, you could consider taking classes like Stat 133, Data 102, and Data 140. For the Sustainable Design minor, you could consider taking classes like Arch 170, CEE 150, and ESPM 177. You should also consult with your academic advisor to ensure that your course selections meet all the requirements for both minors as well as your breadth requirements.
 
 ## Conversation
 
@@ -120,5 +149,4 @@ In summary, while AI can augment and assist academic advising services, it is un
 **ASSISTANT**: The user asked for advice on which courses to take to fulfill requirements for data science and sustainable design minors while also satisfying history and international studies breadth requirements. I provided recommendations for courses in each minor and suggested consulting with an academic advisor to confirm which courses fulfill these requirements. The user then asked for descriptions of other courses at UC Berkeley, which I provided along with the semesters they are typically offered. Finally, the user asked if AI will replace academic advisors, to which I explained the limitations of AI in providing personalized counseling and emotional support.
 **USER**: make it even shorter
 **ASSISTANT**: The user asked for course recommendations and descriptions for UC Berkeley's data science and sustainable design minors, and the conversation also covered the role of AI in academic advising.
-
 

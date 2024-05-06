@@ -1,5 +1,5 @@
 
-[![Extreme TLDR: The Art of Summarizing Text to its Core](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_UtiVGeKKuQKzFr8pK6o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Extreme TLDR: The Art of Summarizing Text to its Core | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_UtiVGeKKuQKzFr8pK6o%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of lengthy texts that are time-consuming to read? Say no more! Introducing Extreme TLDR generation, a new and innovative method of summarizing texts to its core, without losing its meaning or context. By removing stop words and compressing the source, this new form of extreme summarization generates the shortest possible summary, retaining all of the original meaning and context of the text. With Extreme TLDR, reading long texts is a thing of the past.
 
@@ -38,8 +38,10 @@ Additionally, it is important for individuals to maintain a sense of perspective
 In conclusion, the nova effect highlights the tragedy of good luck — the phenomenon of individuals experiencing a decline in well-being after a period of good fortune. This occurs because individuals become accustomed to their high level of positive experiences and find it difficult to adjust when their fortunes change. The tragedy of good luck is particularly relevant in today’s world, where success is often equated with material wealth and status. To avoid the tragedy of good luck, individuals should focus on experiences rather than material possessions, maintain strong
 ```
 
+## Welcome Message
+TL;DR: Nova Effect is the decline in happiness after experiencing good luck due to becoming accustomed to positive experiences. It can happen to anyone who becomes unable to adapt to changes in their circumstances, especially those who accumulate significant wealth and become isolated from others. To avoid it, focus on experiences rather than material possessions, build social connections, and maintain perspective and gratitude.
+
 ## Conversation
 
 **ASSISTANT**: TL;DR: Nova Effect is the decline in happiness after experiencing good luck due to becoming accustomed to positive experiences. It can happen to anyone who becomes unable to adapt to changes in their circumstances, especially those who accumulate significant wealth and become isolated from others. To avoid it, focus on experiences rather than material possessions, build social connections, and maintain perspective and gratitude.
-
 

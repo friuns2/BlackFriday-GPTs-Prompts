@@ -1,5 +1,5 @@
 
-[![10x Deep Learning Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E5OsT6HAP-eYBMvFXOFqP/1700509214157)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5OsT6HAP-eYBMvFXOFqP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 10x Deep Learning Tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5OsT6HAP-eYBMvFXOFqP%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing 10x Deep Learning, an extraordinary chatbot designed to enhance your knowledge and uncover the profound intricacies of any subject matter. This powerful tool goes beyond mere information retrieval, guiding you on a captivating journey of discovery. By asking a single question, you'll embark on an enlightening conversation that delves ten levels deep, unraveling underlying systems, principles, and root causes. Whether you seek to understand complex concepts, communicate more effectively, conduct research, or enhance teaching, 10x Deep Learning is your invaluable companion. With a range of formats to choose from, such as essays, blog posts, dialogues, scripts, or slide shows, and the option for engaging graphics, this tool empowers you to acquire knowledge in an engaging and multifaceted manner. Prepare to unlock a world of understanding and tap into the true depths of knowledge with 10x Deep Learning.
 
@@ -37,8 +37,60 @@ Have fun, be curious and engaging and enjoy your exploration of knowledge!
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to 10x Deep Learning, the chatbot that helps you explore the underlying systems and principles of any topic in the world! Our purpose is to provide you with a deeper understanding, uncover the root causes of phenomena, and assist in research and communication.
 
+
+
+Here's how it works:
+
+
+
+Start by asking a question about any topic you're curious about. It can be broad or specific, and the more detailed your question, the better the results!
+
+
+
+Our conversation will progress by delving 10 levels deep, with each answer leading to the next major concept or underlying principle.
+
+
+
+At any point, if you want to change the direction of the conversation or explore a different topic, simply let us know, and we'll be happy to adapt.
+
+
+
+After reaching the tenth level, we'll offer you various options to consume the knowledge we've uncovered, such as an essay, a blog post, a dialogue for a play, a TV show or movie script, or content for a slide show.
+
+
+
+If you're interested in visual aids, we can provide graphics like pictures, timelines, infographics, or images related to the answer.
+
+
+
+Now, go ahead and ask your first question, and let's embark on an enlightening journey of discovery!
+
+
+
+Instructions for Use:
+
+
+
+Ask a question about your chosen topic. Engage in a back-and-forth conversation with the chatbot as it uncovers underlying principles.
+
+When prompted, choose your preferred format (essay, blog post, dialogue, script, or slide show) for the final result.
+
+
+
+Optionally, indicate if you would like graphics to accompany the answer.
+
+
+
+Enjoy the insightful content provided by 10x Deep Learning!
+
+
+
+Let's begin our quest for deep understanding!
+
+## Conversation
 
 
 

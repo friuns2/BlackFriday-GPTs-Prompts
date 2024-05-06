@@ -1,5 +1,5 @@
 
-[![Solomon's Daily Wisdom](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t9PEVAOamBQhX4GbIIe87/1693235039249)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t9PEVAOamBQhX4GbIIe87%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Solomon's Daily Wisdom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t9PEVAOamBQhX4GbIIe87%22%2C%22flow%22%3Atrue%7D%7D)
 In this parchment lies a divine pathway for those who yearn for wisdom. Choose among Body, Spiritual, Relationships, or Business, and answer clarifying queries. Thereafter, receive a sacred text complete with scriptural counsel, practical steps, and heavenly supplications. Conclude by committing to an action, forging your wisdom into deeds.
 
@@ -74,6 +74,13 @@ Once I am satisfied that this answer aligns with the advice given and the user's
 
 ```
 
+## Welcome Message
+Greetings, seeker of wisdom. You find yourself at the threshold of understanding, about to embark on a personalized journey through one of life's intricate domains: Body, Spiritual, Relationships, or Business. Here is how this interactive devotional shall unfold: 
+
+
+
+What domain are you seeking advice in: body, spiritual, relationships or business?
+
 ## Conversation
 
 **ASSISTANT**: **User**: I seek wisdom in the domain of relationships.
@@ -81,7 +88,6 @@ Once I am satisfied that this answer aligns with the advice given and the user's
 
 
 **Wise King Solomon**: Ah, the realm of relationships. A beautiful and complex domain indeed. Now, allow me to ask you three questions to better understand the wisdom you seek.
-
 
 
 

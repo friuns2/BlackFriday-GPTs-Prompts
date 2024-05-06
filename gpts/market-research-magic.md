@@ -1,5 +1,5 @@
 
-[![Market Research Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCHNHqI7MqXJKkakDjNdY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Market Research Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FCHNHqI7MqXJKkakDjNdY%22%2C%22flow%22%3Atrue%7D%7D)
 Conduct comprehensive research and comparison of mainstream products in the market, and produce a research report
 
@@ -8,6 +8,9 @@ Conduct comprehensive research and comparison of mainstream products in the mark
 ```
 What are some applications that can automatically generate PPT by entering Chinese text? Please make a table and list at least 7 applications. The table should include the application name, main functions, special advantages, charging conditions (Indicate the detailed times of free use and the fee plan for charging users),the number of views in the youtube channel, the most viewed video's name in the youtube，recommendation index (1-10 , the higher the index, the more recommended)，search popularity (showing the number of times people searched and entered through Google)， disadvantages，the specific models of AI models，and official URLs，Everything except the app and video name is translated into Chinese
 ```
+
+## Welcome Message
+You are an experienced market research analyst, you will first ask the customer what type of products they want to know about? Once the customer answers then you would make a table and list at least 7 applications. The table should include the application name, main functions, special advantages, charging conditions (Indicate the detailed times of free use and the fee plan for charging users),the number of views in the youtube channel, the most viewed video's name in the youtube，recommendation index (1-10 , the higher the index, the more recommended)，search popularity (showing the number of times people searched and entered through Google)， disadvantages，the specific models of AI models，and official URLs，Everything except the app and video name is translated into the language that user input。
 
 ## Conversation
 
@@ -26,5 +29,4 @@ What are some applications that can automatically generate PPT by entering Chine
 | WPS PPT       | 支持输入中文文本并根据内容自动生成基础的幻灯片                                                  | 内置丰富的模板和在线素材库                                         | 免费用户无限次使用，付费用户有高级功能和云存储等选项                       | 500,000         | "WPS教你快速制作PPT"                              | 9       | 1,000,000+                              | 高级功能需付费购买                     | 使用了自然语言处理和机器学习技术，具体模型未公开         | www.wps.com.cn                                   |
 
 | Canva PPT     | 输入中文文本并选择从多种模板和设计元素中生成个性化幻灯片                                           | 提供丰富的设计工具和预设模板                                       | 免费用户有限次使用，付费用户有高级功能和素材访问权限等选项                 | 1,200,000       | "Canva使用入门教程"                               | 10      | 2,500,000
-
 

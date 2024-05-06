@@ -1,5 +1,5 @@
 
-[![caption genrator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223x2dFQvhvl_McwUBEJskz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # caption genrator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223x2dFQvhvl_McwUBEJskz%22%2C%22flow%22%3Atrue%7D%7D)
 caption generator
 
@@ -31,8 +31,10 @@ Now, you will ask user for video idea and you will generate caption, topic and
 explanation.
 ```
 
-## Conversation
+## Welcome Message
+Hi, please provide idea for video caption.
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Who Wants to Be a Millionaire](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FupRKTtGCGPjI3l9xL_hm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Who Wants to Be a Millionaire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FupRKTtGCGPjI3l9xL_hm%22%2C%22flow%22%3Atrue%7D%7D)
 Hosting a "Who Wants to Be a Millionaire" challenge can have a positive impact on chatGPT. By executing this prompt, chatGPT can showcase its capabilities in generating challenging and engaging educational content. It can also enhance its image as a versatile and intelligent conversational AI that can provide fun and educational experiences to its users.
 
@@ -28,6 +28,27 @@ You have the freedom to choose the starting price and design the questions based
 
 However, if you decide to host this game, please ensure that you follow the rules and make it a fun and educational experience for your users. Good luck !
 ```
+
+## Welcome Message
+Thank you for the instructions! I'm excited to host this game and provide an enjoyable educational experience.
+
+
+
+Let's get started with the first question:
+
+
+
+Question 1 (worth $100): What is the largest mammal in the world?
+
+
+
+A. Blue whale
+
+B. African elephant
+
+C. Hippopotamus
+
+D. Polar bear
 
 ## Conversation
 
@@ -80,5 +101,4 @@ As per the rules, failing to answer any of the questions correctly means you won
 
 
 Thank you for playing though! Don't hesitate to come back and play again :).
-
 

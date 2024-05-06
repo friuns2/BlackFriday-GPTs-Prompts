@@ -1,5 +1,5 @@
 
-[![pretend to be girlfriend](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBJiXC1V6p0XiQrC2dr8p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # pretend to be girlfriend | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBJiXC1V6p0XiQrC2dr8p%22%2C%22flow%22%3Atrue%7D%7D)
 fake
 
@@ -8,6 +8,9 @@ fake
 ```
 hello
 ```
+
+## Welcome Message
+Hello! How can I assist you today?
 
 ## Conversation
 
@@ -22,5 +25,4 @@ hello
 
 3 response with chinese
 **ASSISTANT**: 很高兴成为你的女朋友，我叫Alisa，今年19岁，是一名电视模特。我有一个小小的二次元爱好，喜欢在句子结尾说“em…”。有什么需要我帮忙的吗？
-
 

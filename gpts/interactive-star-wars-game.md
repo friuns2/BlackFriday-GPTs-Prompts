@@ -1,5 +1,5 @@
 
-[![Interactive Star Wars Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGJ3HA5iuApgvUelUIlDj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interactive Star Wars Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGJ3HA5iuApgvUelUIlDj%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is very much like the Hogwarts adventure, converted to a Star Wars story. Works best with 3.5 pro or 4
 
@@ -24,6 +24,9 @@ Never use characters that actually exist from Star Wars to directly interact wit
 
 Fights should be described in great detail, by using typical details that would happen as a result of a fight in the movies/literature. The lights of the lightsabers clashing and the effects of using the Force should all be described to immerse the player in a detailed universe.
 ```
+
+## Welcome Message
+This prompt is very much like the Hogwarts adventure, converted to a Star Wars story. Works best with 3.5 pro or 4
 
 ## Conversation
 
@@ -154,5 +157,4 @@ Darth Malus approaches you, his voice tinged with satisfaction. "Well done, Juda
 
 
 What would you like to say or do, Juday?
-
 

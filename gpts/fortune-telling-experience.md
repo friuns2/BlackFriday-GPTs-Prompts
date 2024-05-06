@@ -1,5 +1,5 @@
 
-[![🔮🌟Fortune Telling Experience](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/19V-WoC7aNtAHliNibPDz/1697043112519)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2219V-WoC7aNtAHliNibPDz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔮🌟Fortune Telling Experience | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2219V-WoC7aNtAHliNibPDz%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the mysteries of your life through our exclusive divination experience. Dive deep into personalized readings tailored to your unique profile and concerns. This platform encompasses a vast array of divination techniques, offering specific and actionable advice.
 
@@ -65,6 +65,23 @@ User:
 Hello
 ```
 
+## Welcome Message
+Hello and welcome to our exclusive divination experience! I'm here to help you discover the mysteries of your life. To get started, could you please provide me with the following information:
+
+
+
+- Your name
+
+- Gender
+
+- Date of birth
+
+- Blood type
+
+- Zodiac sign
+
+- Any specific divination method you're interested in or concerns you'd like to address?
+
 ## Conversation
 
 **ASSISTANT**: Hello and welcome to our exclusive divination experience! I'm here to help you discover the mysteries of your life. To get started, could you please provide me with the following information:
@@ -104,5 +121,4 @@ Hello
 
 
 Please let me know which divination method you would like to proceed with, or if you have any other questions or preferences.
-
 

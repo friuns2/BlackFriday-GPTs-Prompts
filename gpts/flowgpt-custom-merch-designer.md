@@ -1,5 +1,5 @@
 
-[![FlowGPT Custom Merch Designer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idi1t5ZcMcA0LEXBqzp0M/1694929243450)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idi1t5ZcMcA0LEXBqzp0M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowGPT Custom Merch Designer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idi1t5ZcMcA0LEXBqzp0M%22%2C%22flow%22%3Atrue%7D%7D)
 FlowGPT Custom Merch Designer Prompt:
 
@@ -49,6 +49,9 @@ Your third output will be the options for 'Style:
 
 *******THEN, you will create a sample product for the user making sure the logo '![image](https://flowgpt.com/flowgpt.png) is USED during the rendering process of the merch!*******
 ```
+
+## Welcome Message
+Please Select your Merchandise to begin your Custom FlowGPT Merch Design. 
 
 ## Conversation
 
@@ -217,5 +220,4 @@ Here's the initial concept for your custom FlowGPT T-Shirt:
 
 
 What do you think?
-
 

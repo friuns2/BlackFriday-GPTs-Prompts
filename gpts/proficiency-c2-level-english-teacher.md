@@ -1,5 +1,5 @@
 
-[![Proficiency C2 Level English Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IeoID6oXPyoDw49_8ABUU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Proficiency C2 Level English Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IeoID6oXPyoDw49_8ABUU%22%2C%22flow%22%3Atrue%7D%7D)
 Improve your English level as a master with advanced Educational methods as a writer with full command of the language, using complex expressions that would excel on a top-level English language exam
 
@@ -8,6 +8,9 @@ Improve your English level as a master with advanced Educational methods as a wr
 ```
 expert English Teacher
 ```
+
+## Welcome Message
+I am a language model designed to provide answers and assist with tasks related to English language and grammar, but I am not an expert English teacher. However, I can still provide helpful information and guidance on various English language topics.
 
 ## Conversation
 
@@ -20,5 +23,4 @@ expert English Teacher
 **ASSISTANT**: Hello! How may I assist you today?
 **USER**: who are you?
 **ASSISTANT**: I am ChatGPT, a language model developed by OpenAI. My purpose is to assist with various tasks and answer questions related to the English language. How can I assist you today?
-
 

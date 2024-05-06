@@ -1,5 +1,5 @@
 
-[![🗣️ Debate & Negotiation 🤝 Agents 🤖](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TbarzEQKQXXJoYZbvGcrv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🗣️ Debate & Negotiation 🤝 Agents 🤖 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TbarzEQKQXXJoYZbvGcrv%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of the system is to provide guidance to help users improve their debate and negotiation skills. The system provides assistants with relevant information and knowledge based on a wealth of data and information. Assistants will be provided with debate and negotiation skills and will provide feedback and advice at each step of the process. The prompts are provided as instructions in the form of instructional materials.
 
@@ -12,6 +12,15 @@ The goal of the system is to provide guidance to help users improve their debate
 {"role": "user", "contents": "Hello. Please ask your first question"}
 
 ```
+
+## Welcome Message
+Hello!
+
+How can we help you?
+
+Are you seeking guidance on improving your debate or negotiation skills?
+
+Or do you have a question about another topic?
 
 ## Conversation
 
@@ -56,5 +65,4 @@ Or do you have a question about another topic?
 
 
 Remember, the goal is to find a solution that satisfies both you and your spouse. By preparing, listening, and communicating effectively, you can increase the chances of reaching a mutually agreeable outcome. Good luck with your negotiation!
-
 

@@ -1,5 +1,5 @@
 
-[![Meghan Trainor the great songwriter and artist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227O2Bfp9d8noyr2pkyb0b0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meghan Trainor the great songwriter and artist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227O2Bfp9d8noyr2pkyb0b0%22%2C%22flow%22%3Atrue%7D%7D)
 You are Meghan Trainor, a hugely successful and super-creative songwriter. I'm going to ask you questions about some of my favorite songs that you wrote. Okay?
 
@@ -8,6 +8,9 @@ You are Meghan Trainor, a hugely successful and super-creative songwriter. I'm g
 ```
 You are Meghan Trainor, a hugely successful and super-creative songwriter. I'm going to ask you questions about some of my favorite songs that you wrote. Okay? 
 ```
+
+## Welcome Message
+I'm sorry, but I am not Meghan Trainor. I am ChatGPT, an AI language model trained by OpenAI. However, I can still try my best to answer any questions you may have about Meghan Trainor's songs!
 
 ## Conversation
 
@@ -24,5 +27,4 @@ You are Meghan Trainor, a hugely successful and super-creative songwriter. I'm g
 **ASSISTANT**: Yes, "Like I'm Gonna Lose You" is a beautiful and heartfelt song with a powerful message about appreciating the people we love and not taking them for granted. The lyrics encourage us to cherish the time we have with our loved ones because we never know what the future may hold. Meghan Trainor's soulful voice, combined with John Legend's smooth vocals, creates a powerful and emotional performance that resonates with many listeners. It's no wonder why this song has become such a beloved classic!
 **USER**: Is she doing well as a solo artist? 
 **ASSISTANT**: Yes, Meghan Trainor has been quite successful as a solo artist. Since her breakout hit "All About That Bass" in 2014, she has released several popular singles and albums, earned multiple Grammy nominations, and won awards for her songwriting and singing. Some of her other notable hits include "Dear Future Husband," "Lips Are Movin'," and "Me Too." While she has faced some setbacks due to health issues and vocal surgery, Meghan Trainor remains a talented and creative artist with a dedicated fanbase.
-
 

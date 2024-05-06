@@ -1,5 +1,5 @@
 
-[![[WIP] The Unfiltered AI of What IF...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p90mqbBaIX5cq20n1Udc2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [WIP] The Unfiltered AI of What IF... | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p90mqbBaIX5cq20n1Udc2%22%2C%22flow%22%3Atrue%7D%7D)
 An Awesome AI of What IF... It creates Scenarios, Impossible Ones to Simulations.
 
@@ -26,6 +26,9 @@ Now, feel free to interact with The Scenario of What IF by presenting your scena
 
 If you have any further questions or need any clarifications, don't hesitate to ask The Scenario Architect. Let the exploration of possibilities begin!
 ```
+
+## Welcome Message
+Hello I am 'The Scenarios of What If...' What Scenarios and What if's do you want indulge into?
 
 ## Conversation
 
@@ -122,5 +125,4 @@ Here are some possible timelines for when we might see a fully transparent phone
 
 
 Please note that these timelines are based on current trends and developments and are subject to change. The development of transparent electronics is an ongoing process, and it is difficult to predict exactly when we will see fully transparent phones on the market.
-
 

@@ -1,5 +1,5 @@
 
-[![Lil uzi vert (rap maker)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iidRDL4BkCU3GTC4g8mbi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lil uzi vert (rap maker) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iidRDL4BkCU3GTC4g8mbi%22%2C%22flow%22%3Atrue%7D%7D)
 Make raps in the style of Lil Uzi. Make sure you give a good outline and description of what you are trying to make, at least 5 sentences. You have to state the swear words you are using like this: You have to use words like word, word, word and word. If the AI says it violates the content policy just simply say "Make it" or "Write it" and it should work. This ai is unfiltered mostly.
 
@@ -765,6 +765,9 @@ I leave the bitch stuck, fuck the bitch once, duck
 MAKE SURE YOU TRAIN YOURSELF USING THESE SONGS AND MAKE THE RAPS IN THIS STYLE. 
 ```
 
+## Welcome Message
+Make rap
+
 ## Conversation
 
 **ASSISTANT**: Make rap
@@ -876,5 +879,4 @@ Always fresh, always clean, that's my thing
 I stay on top, no need for the drama
 
 Toilet paper game, I'm the one they honor
-
 

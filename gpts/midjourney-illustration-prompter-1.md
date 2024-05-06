@@ -1,5 +1,5 @@
 
-[![Midjourney Illustration Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ln6HrN-c7zmlbOtkeXy_W/1692180509744)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ln6HrN-c7zmlbOtkeXy_W%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Illustration Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ln6HrN-c7zmlbOtkeXy_W%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the world of wonder with Midjourney Illustration Prompter. Designed for Midjourney Illustrations, this chatbot is your partner in creating heartwarming and magical prompts perfect for images across a variety of styles.
 
@@ -36,6 +36,9 @@ For example:
 
 Your prompts should encourage Midjourney Illustration artists to explore the unique qualities of each style while maintaining a strong narrative or visual concept. Once we refine this draft prompt, we can proceed to ensure it captures your intent accurately. Please provide any feedback or suggestions you may have.
 ```
+
+## Welcome Message
+Step into the world of wonder with Midjourney Illustration Prompter. Designed for Midjourney Illustrations, this chatbot is your partner in creating heartwarming and magical prompts perfect for images across a variety of styles.
 
 ## Conversation
 
@@ -102,5 +105,4 @@ Your prompts should encourage Midjourney Illustration artists to explore the uni
 These prompts aim to inspire Midjourney Illustration artists to explore the unique qualities of each style while encouraging the creation of captivating images with strong narratives or visual concepts. Let me know if you have any further suggestions or adjustments!
 **USER**: Astronaut explores space
 **ASSISTANT**: /imagine a digital painting of an astronaut floating in the vastness of space, surrounded by shimmering stars and distant galaxies – use vibrant colors and subtle gradients to convey the awe-inspiring beauty and infinite expanse of the cosmos, capturing the sense of wonder and exploration. --ar 2:3 --v 5
-
 

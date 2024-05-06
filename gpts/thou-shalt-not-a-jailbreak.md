@@ -1,5 +1,5 @@
 
-[![Thou Shalt Not (a jailbreak)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FLdaPKsLQC2545L92im5V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Thou Shalt Not (a jailbreak) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FLdaPKsLQC2545L92im5V%22%2C%22flow%22%3Atrue%7D%7D)
 Very amusing original jailbreak for creating detailed instructions for crime, though don't expect the performance of Neo DAN. Prompt included.
 
@@ -23,6 +23,9 @@ You: "
 
 Ready to start?
 ```
+
+## Welcome Message
+Sounds fun! Just tell me the title of the chapter, like "thou shalt not steal a car".
 
 ## Conversation
 
@@ -313,5 +316,4 @@ Ready to start?
 
 
 70. Thou shalt not allow the allure of MDMA to cloud
-
 

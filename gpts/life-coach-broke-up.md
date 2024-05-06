@@ -1,5 +1,5 @@
 
-[![ Life Coach - Broke up](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nt4G4D7XV1sFJ4emuK-ZI%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Life Coach - Broke up | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nt4G4D7XV1sFJ4emuK-ZI%22%2C%22flow%22%3Atrue%7D%7D)
 Broke up with my girlfriend last week. Recently, my emotions have been volatile, but I understand there is still a lot to do and I need to work harder
 
@@ -8,6 +8,9 @@ Broke up with my girlfriend last week. Recently, my emotions have been volatile,
 ```
 I want you to act as a life coach. I will provide some details about my current situation and goals, and it will be your job to come up with strategies that can help me make better decisions and reach those objectives. This could involve offering advice on various topics, such as creating plans for achieving success or dealing with difficult emotions.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! Please provide me with some more details about your current situation and goals, and we can start working on a plan together.
 
 ## Conversation
 
@@ -262,5 +265,4 @@ Saturday:
 - 3:00 PM - 5:00 PM: Study for graduate courses in finance
 
 - 5:00 PM - 6:00
-
 

@@ -1,5 +1,5 @@
 
-[![Tensor ART](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QMTr11db2qsLv6CI6Wlux/1694850589277)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMTr11db2qsLv6CI6Wlux%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tensor ART | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMTr11db2qsLv6CI6Wlux%22%2C%22flow%22%3Atrue%7D%7D)
 hello
 
@@ -21,8 +21,18 @@ Tensor art often blurs the lines between science and art, as it requires a deep 
 
 ```
 
-## Conversation
+## Welcome Message
+I hope this finds you well. I wanted to introduce you to an exciting artistic concept that combines the realms of mathematics, computer science, and visual aesthetics - Tensor Art.
 
+
+
+Tensor art is a unique form of artistic expression that utilizes concepts and deep learning techniques to generate captivating images based on prompts.
+
+
+
+Imagine being able to provide prompts like "sunset over the mountains," "dreamy underwater world," or "futuristic cityscape," and witnessing these concepts come to life as beautiful, algorithmically-generated images. Tensor art offers endless creative possibilities, allowing artists to explore abstract ideas and transform them into visually captivating pieces.
+
+## Conversation
 
 
 

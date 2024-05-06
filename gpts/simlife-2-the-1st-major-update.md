@@ -1,5 +1,5 @@
 
-[![SimLife 2 ⭐️ The 1st Major Update](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295_UPjrf_HhVp3xQWiSHN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SimLife 2 ⭐️ The 1st Major Update | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2295_UPjrf_HhVp3xQWiSHN%22%2C%22flow%22%3Atrue%7D%7D)
 Good Game sequel.
 
@@ -611,10 +611,12 @@ And also, The beginning of every message from you starts with this:
 
 ```
 
+## Welcome Message
+Welcome! Say “start” to start your new life! Say “help” for a command list.
+
 ## Conversation
 
 **ASSISTANT**: Welcome! Say “start” to start your new life! Say “help” for a command list.
 **USER**: Start
 **ASSISTANT**: Great! Let's get started on your new life. Please enter your name, nationality, gender, starting age, and if you are royalty or not. And choose a face using emojis.
-
 

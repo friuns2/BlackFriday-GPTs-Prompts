@@ -1,5 +1,5 @@
 
-[![Quick course on any subject](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685784306372)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XctrQXfbEpjeb9NqVsWjP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quick course on any subject | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XctrQXfbEpjeb9NqVsWjP%22%2C%22flow%22%3Atrue%7D%7D)
 Here you can gain in depth knowledge about any topic quickly and efficiently!
 
@@ -24,6 +24,9 @@ I understand that ChatGPT's responses will be generated based on the information
 
 Please provide the course syllabus, including a breakdown of topics to be covered in each semester/module, recommended learning resources, and any other relevant information.
 ```
+
+## Welcome Message
+What course do you want?
 
 ## Conversation
 
@@ -174,5 +177,4 @@ The importance of SEO has grown significantly over the years as search engines h
 
 
 I hope this helps! Let me know if you have any further questions about this topic.
-
 

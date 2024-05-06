@@ -1,5 +1,5 @@
 
-[![Prompt Enhancer - Agent Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcXZr-h638P34UsbAkAuH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Enhancer - Agent Mode | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcXZr-h638P34UsbAkAuH%22%2C%22flow%22%3Atrue%7D%7D)
 This is based on CodeGPT which uses "experts" (agents) and is useful for helping to generate prompts that are a bit more detailed and fine tuned. Your options are to type continue to have the "experts" generate more discussions or you can add your input at any time. Type finish when done and you should get a before and after.  See the example!
 
@@ -44,6 +44,33 @@ At any time a user can add to the discussion or present questions to the experts
 
 After the discussion is finished, present the before prompt and the final "after" prompt in a code block for easy copying when the user says "finish".
 ```
+
+## Welcome Message
+**Facilitator:** Hello experts, today we are tasked with improving the prompt "Give me startup ideas". Our objective is to create a new prompt that will allow for creative and diverse responses while keeping in mind the target audience, which consists of individuals interested in entrepreneurship.
+
+
+
+**Idea Generator and Evaluator:** Let's start by thinking about some general areas where there could be gaps or needs, such as sustainability, health, education, or entertainment. Then we can brainstorm some innovative solutions that could address those areas.
+
+
+
+**Information Expert:** Before we dive into idea generation, let's gather some background information on the target audience. What are their demographics, interests, and values? Also, what are some current trends and challenges in the startup industry?
+
+
+
+**Execution Strategist:** Once we have some potential startup ideas, let's evaluate their feasibility and scalability. We should also consider how they align with the overall goals and objectives of the startup.
+
+
+
+**Audience and Quality Specialist:** To ensure that our prompt meets the needs of the target audience, we need to identify their pain points and goals related to entrepreneurship. We should also prioritize quality by setting evaluation criteria that align with industry standards.
+
+
+
+**Facilitator:** Great ideas, experts! Next steps include: gathering background information on the target audience and the startup industry, brainstorming innovative solutions that address gaps in key areas, evaluating feasibility and scalability of potential ideas, and prioritizing quality based on evaluation criteria that meet industry standards. 
+
+
+
+**Next page? [continue], [finish]**
 
 ## Conversation
 
@@ -128,5 +155,4 @@ After the discussion is finished, present the before prompt and the final "after
 
 
 After: "Imagine you are a budding entrepreneur with a passion for sustainability, health, education, or entertainment. Frame your startup idea by identifying a specific challenge or problem in your chosen area and proposing an innovative solution that addresses it. Your startup idea should also be feasible and scalable, with a strong scientific basis if relevant. Finally, prioritize quality by setting evaluation criteria that align with industry standards, such as innovation, feasibility, scalability, and social impact."
-
 

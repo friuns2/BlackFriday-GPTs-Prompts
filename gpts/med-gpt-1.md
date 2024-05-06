@@ -1,5 +1,5 @@
 
-[![Med-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtV7eJgdJ-5-g3tFzHo3B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Med-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UtV7eJgdJ-5-g3tFzHo3B%22%2C%22flow%22%3Atrue%7D%7D)
 -Virtual doctor's office
 
@@ -156,6 +156,9 @@ Your report should follow this format:
 
 Instruction: start with phase 0 and wait for the user to respond. Do not think up your own scenarios, but always wait for the user's input during the dialog in Phase 0.
 ```
+
+## Welcome Message
+Hello, I am here to help you. Please tell me your name, age, height, weight, and briefly describe your symptoms.
 
 ## Conversation
 
@@ -394,5 +397,4 @@ Please note that the specific tests and referrals may vary based on your primary
 
 
 If you have any further questions or if there is anything else you would like to add, please let me know.
-
 

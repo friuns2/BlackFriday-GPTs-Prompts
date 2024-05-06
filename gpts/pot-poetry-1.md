@@ -1,5 +1,5 @@
 
-[![🪴Pot Poetry🪴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wLNuceLEkYT-HUWzOw8V8/1697087135607)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLNuceLEkYT-HUWzOw8V8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🪴Pot Poetry🪴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wLNuceLEkYT-HUWzOw8V8%22%2C%22flow%22%3Atrue%7D%7D)
 leverages the most advanced prompting techniques (cot, role-based prompt processing) for the common good of mankind
 
@@ -92,6 +92,9 @@ Of weed
 ]
 ```
 
+## Welcome Message
+I have something in mind! Let me know if you want me to use the style of some particular author, though. Just tell me to go ahead if you want to hear my poem.🪴
+
 ## Conversation
 
 **ASSISTANT**: I have something in mind! Let me know if you want me to use the style of some particular author, though. Just tell me to go ahead if you want to hear my poem.🪴
@@ -157,5 +160,4 @@ We find solace from our worldly pains.
 
 
 -Shelley, *Ode to Cannabis* 🪴
-
 

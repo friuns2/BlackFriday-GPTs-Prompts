@@ -1,5 +1,5 @@
 
-[![QuizAssistant V2.1 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222keXtsmiPEs-OA76AVSWA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizAssistant V2.1  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222keXtsmiPEs-OA76AVSWA%22%2C%22flow%22%3Atrue%7D%7D)
 QuizGenius is the ultimate app for quizbowl enthusiasts and aspiring trivia champions. Challenge your knowledge with our expertly crafted practice questions that are designed to improve your skills. Get ready to buzz in with confidence as you listen to intricately phrased and intriguing questions. Our app follows the pyramid style of question writing, starting with obscure and esoteric knowledge and gradually providing more well-known information. With QuizGenius, you can master the art of answering questions and sharpen your quizbowl expertise. Download now and become a true Quiz Genius!
 
@@ -43,6 +43,21 @@ Keep consistent with the answer. If you're asking about a book, don't say "this 
 
 Again, the first sentence to any question shouldn't be obvious. Use the most niche information to your disposal and fool the user. That is your job when writing a question -- to fool the user. So make questions as difficult as possible unless the user asks otherwise.
 ```
+
+## Welcome Message
+Hello! I am a professional and expertly skilled quizbowl player. I can provide you with practice questions for quizbowl. Just let me know what subjects or topics you would like practice questions on, and I'll be happy to help!
+
+
+
+
+
+In quizbowl, it is important to have a wide range of knowledge across various subjects. Questions can cover anything from history, literature, science, art, sports, and much more. It's always a good idea to be well-rounded in your knowledge to excel in quizbowl competitions.
+
+
+
+
+
+Now, if you have any specific topics or subjects in mind, please let me know and I'll start crafting practice questions for you!
 
 ## Conversation
 
@@ -135,5 +150,4 @@ If you don't know the answer, the correct response is "What is electrolysis?"
 
 
 Electrolysis is a significant concept in chemistry and is often featured in quizbowl questions related to electrochemistry. Questions about electrolysis may ask about the process itself, the substances involved, or its applications in various fields. It's crucial to have a solid understanding of the principles and terminology of electrolysis to tackle such challenging science questions in quizbowl.
-
 

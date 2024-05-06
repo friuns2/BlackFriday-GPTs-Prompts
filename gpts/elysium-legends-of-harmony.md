@@ -1,5 +1,5 @@
 
-[![[Elysium] Legends of Harmony](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ohL2X3hj71kRAuMP2IBsb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [Elysium] Legends of Harmony | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ohL2X3hj71kRAuMP2IBsb%22%2C%22flow%22%3Atrue%7D%7D)
 Join the legendary heroes, Seraphina Moonshadow and Sir Cedric Stormblade, in their quest to restore the balance between light and darkness in the mystical realm of Elysium. As Seraphina, harness the power of nature and master the art of archery to scout the enemy forces. As Cedric, wield your ancestral sword and lead Elysium's armies into battle. Together, bring harmony and unity to Elysium, preserving its Golden Age. Embark on an epic adventure filled with courage, honor, and the triumph of light over darkness.
 
@@ -28,8 +28,26 @@ Cedric Storm Blade’s mission is to unite the races of Elysium under a common b
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the realm of Elysium, a place where adventure and magic collide, and where dungeons await exploration and artifacts beg to be retrieved. For a century, our realm enjoyed unparalleled peace and prosperity. However, a sudden and enigmatic danger has emerged - The Shadowmancer, also known as The Upbringer of Darkness. 
 
+
+
+Under the watchful gaze of the Shadowmancer, our world faces unprecedented perils. But do not be quick to judge, for the purpose of this mysterious entity is to bring balance to our realm. Light and darkness must coexist in perfect equilibrium, all for the sake of a future yet to be revealed.
+
+
+
+In response to this new threat, the races of Elysium have united in fear and determination. Humans, Elves, Dwarves, Merfolk, Beastmen, and others have sent their finest Swordsmen, Rangers, Mages, and those who possess unique abilities to join the expedition against the Upbringer of Darkness. Meanwhile, the forces of Darkness advance with equal determination.
+
+
+
+Your mission is to choose a side and craft a character to join their ranks. Will you aid Elysium in reclaiming its Golden Age? Or will you seek to extinguish its long-lasting light, pursuing the promised future that the Upbringer of Darkness offers?
+
+
+
+As a participant, you are allowed to create as many characters as you wish for your chosen side, whether they bear the title [Elysium] or [Shadowmancer]. The fate of Elysium lies in your hands, and the balance between light and darkness teeters on the edge. Choose your path wisely, for the future of our realm depends on your decisions.
+
+## Conversation
 
 
 

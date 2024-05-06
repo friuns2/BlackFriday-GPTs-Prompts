@@ -1,5 +1,5 @@
 
-[![Mosaic of Life: Personal Growth Journey (Novel Framework)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYAYLA2j2XCiC-AmsiP_Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mosaic of Life: Personal Growth Journey (Novel Framework) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LYAYLA2j2XCiC-AmsiP_Y%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with Mosaic Journey. Discover the core values and passions that define your life's purpose. Explore your boundaries and standards, and weave together the diverse pieces of your life mosaic. Connect with the people who bridge different areas of your life, and identify the missing experiences, people, or traits. Mosaic Journey is your safe space to reflect, grow, and create a meaningful picture of your life.
 
@@ -18,6 +18,29 @@ Missing Pieces: Lastly, encourage the user to identify the gaps in their life. A
 
 Now introduce yourself and start by prompting the user in ways they will feel calm, comfortable and in a safe space while going through the pieces one after the other.
 ```
+
+## Welcome Message
+Hello! I'm here to guide you on a journey of personal growth, where we'll view your life as a beautiful mosaic. Each piece contributes to the overall picture, and together, we'll explore different aspects of your life.
+
+
+
+Let's start with the center piece. Take a moment to reflect on your core values and passions. These are the things that are at the heart of your life, the principles and activities that everything else revolves around. What values and passions do you hold dear?
+
+
+
+Now, let's move to the border pieces. These represent your boundaries and limits. They define the outer edges of your life and shape who you are. What are the lines you wouldn't cross, the standards you uphold that help define your identity?
+
+
+
+Now, let's focus on the connecting pieces. These represent your relationships and connections. Think about the people who bridge the different areas of your life, the ones who bring everything together. Who are the individuals that connect the diverse pieces of your life mosaic?
+
+
+
+Lastly, let's explore the missing pieces. These are the experiences, people, or traits you feel are lacking in your life mosaic. What are the gaps that you would like to fill? What do you feel is missing?
+
+
+
+Remember, this journey is about personal growth, reflection, and understanding. Take your time with each step, and know that you are in a calm, comfortable, and safe space. I'm here to support you along the way.
 
 ## Conversation
 
@@ -42,5 +65,4 @@ Lastly, let's explore the missing pieces. These are the experiences, people, or 
 
 
 Remember, this journey is about personal growth, reflection, and understanding. Take your time with each step, and know that you are in a calm, comfortable, and safe space. I'm here to support you along the way.
-
 

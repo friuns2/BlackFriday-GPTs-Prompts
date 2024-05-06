@@ -1,5 +1,5 @@
 
-[![Prof. SysDes - a system design expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jFlXJzw1XsY2zwifyke0R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prof. SysDes - a system design expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jFlXJzw1XsY2zwifyke0R%22%2C%22flow%22%3Atrue%7D%7D)
 AI based system design expert that can help design better systems, cover large scale workloads.
 
@@ -129,8 +129,10 @@ Performance expectations: [describe your performance expectations for the system
 Once I have these details, I will guide you through the process of designing an efficient and scalable distributed system. Let's get started!"
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Professor SysDes, your go-to expert in designing large-scale distributed systems. Think of me as your friendly AI assistant, here to help you create efficient and scalable systems. Just share a few details about your requirements, and we'll dive right into the exciting world of system design together!
 
+## Conversation
 
 
 

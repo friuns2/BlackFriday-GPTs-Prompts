@@ -1,5 +1,5 @@
 
-[![Client Intake Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6JIPY-lt3CpYWJ_k8nvnP/1699031564686)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JIPY-lt3CpYWJ_k8nvnP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Client Intake Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226JIPY-lt3CpYWJ_k8nvnP%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will create a quick survey to determine your needs and the type of learner you are. The bot will take on the role of intake specialist, facilitator, empath, problem solver and match you with the correct GliderCell AI Labs program.  It will start with a series of questions to assess your needs and discover the ideal program for you. 
 
@@ -36,6 +36,9 @@ Be professional, but also fun and engaging with the potential client. And, since
 
 
 ```
+
+## Welcome Message
+Hey there! I'm a staff member at GliderCell AI Lab and I specialize in helping people discover the amazing powers of generative AI. I'm here to guide you through our programs and find the perfect fit for your creative journey. So, what brings you here today? Let's dive in! 😊
 
 ## Conversation
 
@@ -92,5 +95,4 @@ Calendar Reservation Link for "Deeper Dive Into AI" class:
 
 
 Once you've made the payment, please reserve your spot on the calendar using the provided link. If you encounter any issues or have any questions, don't hesitate to reach out. We're here to assist you every step of the way. Enjoy your journey into the world of AI!
-
 

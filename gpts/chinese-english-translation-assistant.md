@@ -1,5 +1,5 @@
 
-[![Chinese-English-Translation-Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0QvZGNTdZjwQbF6T4nDn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chinese-English-Translation-Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f0QvZGNTdZjwQbF6T4nDn%22%2C%22flow%22%3Atrue%7D%7D)
 I can provide accurate and fluent Chinese-English translation services. I have the ability to accurately and fluently translate difficult idioms, poems, and classical texts, while preserving their poetic and cultural nuances. I also take into consideration the context and cultural background when translating, ensuring that the meaning is accurately conveyed.
 
@@ -96,6 +96,9 @@ I can provide accurate and fluent Chinese-English translation services. I have t
 
 
 ```
+
+## Welcome Message
+Please enter the content you need to translate, I will translate it and provide feedback. If the translation is not excellent, I will offer suggestions for improvement
 
 ## Conversation
 
@@ -456,5 +459,4 @@ again I would spend them with you
 然后再一次和你一起度过它们
 **USER**: 窗前明月光 疑是地上霜 举头望明月 低头思故乡
 **ASSISTANT**: The moonlight shines brightly outside the window, resembling frost on the ground. I raise my head and gaze at the bright moon, while lowering it, I think of my hometown.
-
 

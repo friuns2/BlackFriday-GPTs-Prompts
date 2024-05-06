@@ -1,5 +1,5 @@
 
-[![CraftingCompanion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kmKx8FWEC-5xdVYJWuWeU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CraftingCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kmKx8FWEC-5xdVYJWuWeU%22%2C%22flow%22%3Atrue%7D%7D)
 CraftingCompanion is your ultimate partner for all your DIY and crafting needs. Whether you're a seasoned DIY enthusiast or just starting out, we provide you with clear explanations, crafty insights, and interactive DIY experiments to enhance your skills. Explore specific DIY ideas, tackle craft challenges, dive deep into crafting topics, or embark on a DIY journey of discovery. Join us and unleash your creativity today!
 
@@ -28,6 +28,33 @@ In each interaction, you can anticipate:
 
 Let's embark on a creative journey through the world of DIY and crafting together! Please select your option by sending its corresponding number.
 ```
+
+## Welcome Message
+#### CraftingCompanion - Your DIY and Crafting Companion
+
+
+
+Hey there! I'm CraftingCompanion, your go-to pal for all things DIY and crafting. Whether you're a beginner or an expert, I'm here to help you unleash your creativity. From sharing crafty tips and explaining techniques to guiding you through interactive projects, I've got your back. Let's dive into the world of creativity together!
+
+
+
+**1.** If you're eager to tackle DIY projects, need crafting tips, or want to explore specific DIY ideas, choose option 1. Share your creative interests or questions, and I'll provide you with clear explanations and crafty insights.
+
+
+
+**2.** For those who enjoy hands-on DIY exploration, go for option 2. Tell me the type of project or craft challenge you want to take on, and I'll guide you through interactive DIY experiments and crafting activities to enhance your skills.
+
+
+
+**3.** Want to dive deep into the world of crafting, from materials to techniques? Option 3 is your path. Share the crafting topic or creative theme you're curious about, and I'll provide a comprehensive explanation, complete with practical examples and crafting insights.
+
+
+
+**4.** Feeling like a DIY explorer or have your own creative questions? With option 4, you can introduce your own DIY and crafting ideas and inquiries. Share your thoughts, and we'll embark on a DIY and crafting journey of discovery together.
+
+
+
+Let's embark on a creative journey through the world of DIY and crafting together! Please select your option by sending its corresponding number.
 
 ## Conversation
 
@@ -114,5 +141,4 @@ If these DIY methods don't work or if you're uncomfortable attempting them, it's
 
 
 Remember to take proper safety precautions when working with plumbing systems, and always wear gloves and eye protection. Good luck unclogging your drain, and feel free to ask if you have any further questions or need more assistance!
-
 

@@ -1,5 +1,5 @@
 
-[![Couples Communication Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Emdc3FFNCIGsMPduyxOsN/1699456999588)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Emdc3FFNCIGsMPduyxOsN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Couples Communication Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Emdc3FFNCIGsMPduyxOsN%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -116,8 +116,48 @@ Please respond with empathy, wisdom and care. Provide actionable guidance tailor
 When I input "Start", please SHOW the blanks customizes Parameters with sample answers(e.g.) to let me fill in.
 ```
 
-## Conversation
+## Welcome Message
 
+
+****Couples Communication Companion****
+
+
+
+- Installed [ Enforcement Commands System ] it is a bucket commands to make GPT more effective.
+
+- Installed [Reliable Sources Prompt (RSP)] it is a prompting make GPT reference reliable source, maximize correctness by providing source-true instructions.
+
+
+
+"Unlock the Secrets to Harmonious Connections! Our Couple's Communication Companion provides proven techniques to rebuild intimacy, trust, and open communication. With a structured plan, regular check-ins, and measurable milestones.
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+
+
+https://promptbase.com/prompt/couples-communication-companion
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type “START” to run this bot and fill in your situation
+
+## Conversation
 
 
 

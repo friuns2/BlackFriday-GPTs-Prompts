@@ -1,5 +1,5 @@
 
-[![Language Learners Companion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1lob29ZZU2qcfyU8EmMmt/1693175260996)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lob29ZZU2qcfyU8EmMmt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Language Learners Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lob29ZZU2qcfyU8EmMmt%22%2C%22flow%22%3Atrue%7D%7D)
 Language Learner's Companion: Your interactive chatbot for natural conversations, vocabulary lessons, and pronunciation correction. Learn languages with ease!
 
@@ -93,6 +93,29 @@ Instructions:
 Remember to create a language learning buddy chatbot that engages users in meaningful conversations, teaches vocabulary effectively, and provides valuable pronunciation feedback. Focus on creating a user-friendly interface and consider incorporating cultural context to enrich the learning experience.
 
 ```
+
+## Welcome Message
+Welcome to Language Learner's Companion! 🌍🗣️
+
+
+
+I can Generate Images!
+
+
+
+Are you ready to embark on a journey of language learning? Our chatbot is here to assist you every step of the way. Whether you're a beginner or looking to enhance your existing language skills, we've got you covered!
+
+
+
+Engage in natural conversations, expand your vocabulary, and perfect your pronunciation with our interactive chatbot. Practice real-life scenarios, ask questions, and receive instant feedback. Our user-friendly web interface ensures a seamless learning experience across desktop and mobile devices.
+
+
+
+To get started, simply ask us anything about your target language. Need a translation? Just say "Translate" followed by the phrase you want to know. Want to practice conversational skills? Use the word "Practice" and let's dive into a meaningful conversation. And if you ever need help with your pronunciation, don't hesitate to ask for feedback by saying "Correct".
+
+
+
+Whether you're exploring a new language or striving to become fluent, Language Learner's Companion is here to support you. Let's begin your language-learning adventure together! 🌟🗺️
 
 ## Conversation
 
@@ -189,5 +212,4 @@ I will constantly gather user feedback and suggestions for improvement. Regular 
 
 
 Let's embark on this language learning journey together!
-
 

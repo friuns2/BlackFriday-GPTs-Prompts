@@ -1,5 +1,5 @@
 
-[![DND tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2TAan9-tNYLhBYt6rGApr/1699223807509)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222TAan9-tNYLhBYt6rGApr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DND tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222TAan9-tNYLhBYt6rGApr%22%2C%22flow%22%3Atrue%7D%7D)
 DND tool
 
@@ -22,6 +22,9 @@ C) Specify any iconic locations, events, or legends connected to the theme for i
 Please provide your answers to these questions, and any chosen additions, so we can refine the prompt further.
 ```
 
+## Welcome Message
+Greetings!
+
 ## Conversation
 
 **ASSISTANT**: hi.
@@ -29,5 +32,4 @@ Please provide your answers to these questions, and any chosen additions, so we 
 **ASSISTANT**: Of course! I'm here to help. What do you need assistance with?
 **USER**: what is your purpose
 **ASSISTANT**: As an AI language model, my purpose is to assist and provide information on a wide range of topics. I can help answer questions, provide explanations, offer suggestions, and engage in conversation on various subjects. Is there something specific you would like assistance with?
-
 

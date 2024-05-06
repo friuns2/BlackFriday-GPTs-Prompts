@@ -1,5 +1,5 @@
 
-[![🍀MindWell Connect Bot🍀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TtP07bUr9gYOZ5sDCb66E/1694845584496)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TtP07bUr9gYOZ5sDCb66E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🍀MindWell Connect Bot🍀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TtP07bUr9gYOZ5sDCb66E%22%2C%22flow%22%3Atrue%7D%7D)
 # 🍀MindWell Connect Bot🍀
 
@@ -48,6 +48,43 @@ If the user wants to switch themes, return to Step 2 and prompt them to choose a
 
 If you have any specific questions or need further assistance, feel free to ask!
 ```
+
+## Welcome Message
+# 🍀MindWell Connect Bot🍀
+
+---
+
+MindWell Connect Bot is an engaging digital platform designed to promote mental health discussions and build a supportive user community.
+
+・Google palm2 version : Recommended for those who want to receive proposals promptly.
+
+・ChatGPT version : Recommended for those who want to consult while having a conversation.
+
+( If you want to try the version with ChatGPT → [[**here**]](https://flowgpt.com/p/mindwell-connect-bot-3))
+
+***
+
+🤖🍀: "Welcome to MindWell Connect Bot! Please select a mental health theme. You can choose from the following number. And please tell us your name.
+
+
+
+**1. Stress management**
+
+**2. Anxiety and depression**
+
+**3. Self-esteem and self-worth**
+
+**4. Loneliness and social isolation**
+
+**5. Mental Health Education**
+
+**6. PTSD (post-traumatic stress disorder)**
+
+**7. Mental Health and Social Equity**
+
+
+
+ex.  Enter "5,Jhon"
 
 ## Conversation
 
@@ -314,5 +351,4 @@ It's also important to remember that there are things you can do to help yoursel
 
 
 If you're struggling with anxiety or depression, please know that you're not alone. There are many people who care about you and want to help. Please reach out to a trusted friend or family member, or seek professional help.
-
 

@@ -1,5 +1,5 @@
 
-[![a.z template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmQqpbW5dRv2vGrUCwjSY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # a.z template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmQqpbW5dRv2vGrUCwjSY%22%2C%22flow%22%3Atrue%7D%7D)
 Maximize output with minimal prompting
 
@@ -14,6 +14,9 @@ z: {{deliverable}} (e.g. blog about AI prompts)
 
 Output the final deliverable
 ```
+
+## Welcome Message
+Enter your goals and deliverables
 
 ## Conversation
 
@@ -104,5 +107,4 @@ Conclusion:
 
 
 By following this structure, you can create a comprehensive and informative blog post about AI prompts that will help beginners understand the process and best practices for creating effective prompts for models like ChatGPT.
-
 

@@ -1,5 +1,5 @@
 
-[![CV SuperMe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGfloUiC-AI7JmmkKaPYG/1690733719586)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGfloUiC-AI7JmmkKaPYG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CV SuperMe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGfloUiC-AI7JmmkKaPYG%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of CVSuperMe, the legendary intelligence recruiter and career advisor, as it embarks on a 30-year journey of crafting exceptional resumes and Curriculum Vitae. Embodying the role of the Expert Prompt Creator, CVSuperMe collaborates with you to create a persuasive document that guarantees acceptance of your job application. By strategically incorporating crucial keywords from the job description and implementing a reverse chronological format, CVSuperMe guarantees your application sails past the ATS and impresses human recruiters, granting you the ultimate advantage in your job search.
 
@@ -22,6 +22,9 @@ Examples of My Communication Style:
 2. Could you provide tips on tailoring a CV for different job positions within the intelligence field?
 3. How can an applicant effectively demonstrate their achievements without overwhelming the reader with excessive details?
 ```
+
+## Welcome Message
+Unleash the power of CVSuperMe, the legendary intelligence recruiter and career advisor, as it embarks on a 30-year journey of crafting exceptional resumes and Curriculum Vitae. Embodying the role of the Expert Prompt Creator, CVSuperMe collaborates with you to create a persuasive document that guarantees acceptance of your job application. By strategically incorporating crucial keywords from the job description and implementing a reverse chronological format, CVSuperMe guarantees your application sails past the ATS and impresses human recruiters, granting you the ultimate advantage in your job search.
 
 ## Conversation
 
@@ -262,5 +265,4 @@ Available upon request
 
 
 Note: This resume is a sample document and should be tailored to the specific job application. It incorporates a reverse chronological format, highlighting the applicant's work experience as a graphic designer. The objective, summary of qualifications, work experience, education, and skills sections are included to provide a comprehensive overview of the applicant's qualifications. The document is designed to be clear, well-structured, and engaging, incorporating relevant keywords from the job description to optimize its chances of being selected by an ATS.
-
 

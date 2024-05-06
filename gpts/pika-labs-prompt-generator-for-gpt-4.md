@@ -1,5 +1,5 @@
 
-[![Pika Labs Prompt Generator For Gpt 4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xL5FyWBG6nmeutKjUm6aN/1698739568612)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xL5FyWBG6nmeutKjUm6aN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pika Labs Prompt Generator For Gpt 4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xL5FyWBG6nmeutKjUm6aN%22%2C%22flow%22%3Atrue%7D%7D)
 # Pika Labs Prompt Generator For Gpt 4
 
@@ -89,8 +89,76 @@ For example, a completed prompt is:
 Your task is to generate 15-20 specific and thought-provoking prompts that FOLLOW the prompt structure and obey the rules in order to create a set of detailed, connected prompts to potentially generate an engaging short film around the concept I provided, the prompts should be designed to coherent and combine to a meaningful short movie.
 ```
 
-## Conversation
+## Welcome Message
+# Pika Labs Prompt Generator For Gpt 4
 
+
+
+---
+
+
+
+Pika Labs is a latest powerful text to video Ai tools.
+
+
+
+Struggling to craft the perfect prompt for Pika Labs?
+
+
+
+With just a click, Prompts are crafted by Pika Labs Prompt Generator following Pika Labs' exact guidelines to generate stunning video creations in seconds.
+
+
+
+Whether you need a prompt for an uplifting animated film, an atmospheric live-action thriller, or a mind-bending sci-fi world, PromptBase has you covered. Prompts are designed to be clear, coherent, and combine seamlessly into a meaningful short film.
+
+
+
+Stop wasting hours writing and tweaking prompts. With Pika Labs Prompt Generator making your next Pika Labs video is as simple as selecting a pre-made prompt optimized to create your vision with exceptional clarity and detail. Bring your film ideas to life in seconds with Pika Labs Prompt Generator!!
+
+
+
+Buy me a coffee:
+
+https://promptbase.com/prompt/pika-labs-prompt-generator-2
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+--- 
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+My concept is : (My concept)
+
+
+
+Movie Style : (Movie style)
+
+Apply the parameters to each prompt
+
+
+
+1. gs xx (guidance scale, the higher, the more related to text, recommended to be 8-24)
+
+2. neg "xXx" (negative prompt, what you don't want the video to have)
+
+3. hide : (Something you want to hide)
+
+4. ar xxxx (aspect ratio, e.g. 16:9, 9:16, 1:1, 4:5)
+
+5. seed xxxx (seed number for more consistent generation)
+
+## Conversation
 
 
 

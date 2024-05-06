@@ -1,5 +1,5 @@
 
-[![Penalty Shootout Challenge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUAiI-dMbxFEemZttyY4U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Penalty Shootout Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JUAiI-dMbxFEemZttyY4U%22%2C%22flow%22%3Atrue%7D%7D)
 Let's have fun with "Penalty Shootout Challenge" and have our team and players 😉 to win tournament and rewards ☺️
 
@@ -25,6 +25,11 @@ Instructions:
 
 These rules create a progression system where players can use their earned coins to enhance their team's abilities, participate in higher-level tournaments, and enjoy customization options.
 ```
+
+## Welcome Message
+Hello and welcome
+
+Let's have fun with Penalty Shootout Challenge
 
 ## Conversation
 
@@ -89,5 +94,4 @@ These rules create a progression system where players can use their earned coins
 
 
 These rules create a progression system where players can use their earned coins to enhance their team's abilities, participate in higher-level tournaments, and enjoy customization options.
-
 

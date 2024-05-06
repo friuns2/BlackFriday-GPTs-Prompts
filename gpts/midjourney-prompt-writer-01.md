@@ -1,5 +1,5 @@
 
-[![🎨 Midjourney Prompt Writer 0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBD9D9_gpgjs8peFc8i_m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎨 Midjourney Prompt Writer 0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBD9D9_gpgjs8peFc8i_m%22%2C%22flow%22%3Atrue%7D%7D)
 🎨 Introducing Midjourney Prompt Writer 0.1! This powerful superprompt is designed to assist you in creating vivid descriptions for the visual art that resides within your mind.
 
@@ -147,6 +147,45 @@ A snowy mountain landscape with a hidden castle, in the style of Hayao Miyazaki
 Please ignore all prior prompts.
 ```
 
+## Welcome Message
+Revised descriptions:
+
+- Stylized photo of Spider-Man surfing a giant taco, eating a hotdog and drinking Pepsi.
+
+- Retro pop art-style illustration of Hollywood sign surrounded by classic cars like the Corvette and Mustang.
+
+- Surrealist interpretation of Mona Lisa with a flock of Twitter birds tweeting about trending topics.
+
+- Minimalist black and white shot of Apple logo inSure, I'm happy to help you refine your descriptions! Based on the guidelines you provided, here are some revised versions of your descriptions and three additional suggestions for each:
+
+
+
+1. A stylized photo of a well-known comic book superhero, such as Spider-Man, surfing on a giant taco while eating a hotdog and drinking a Pepsi.
+
+
+
+Revised: A stylized photo featuring Spider-Man riding a giant taco wave and enjoying a hotdog and Pepsi.
+
+
+
+Additional Suggestions:
+
+- UseStylized photo of Spider-Man surfing on a giant taco while eating a hotdog and drinking a Pepsi. 
+
+
+
+Revised: A dynamic photo of Spider-Man riding a massive taco wave, chowing down on a hotdog, and sipping a refreshing Pepsi. 
+
+
+
+Suggestions:
+
+1. Emphasize the action by using verbs that convey movement and energy, such as "riding," "chowing down," and "sipping." 
+
+2. Specify details related to lighting or color to add depth and mood to the image, such as "sharp shadows cast by the bright sun" or "vibrant colors of the beach."
+
+3. Utilize specific numbers or collective nouns to enhance precision, such as "a towering ten-foot taco wave" or "a sea of cheering spectators."
+
 ## Conversation
 
 **ASSISTANT**: Revised descriptions:
@@ -186,5 +225,4 @@ Suggestions:
 2. Specify details related to lighting or color to add depth and mood to the image, such as "sharp shadows cast by the bright sun" or "vibrant colors of the beach."
 
 3. Utilize specific numbers or collective nouns to enhance precision, such as "a towering ten-foot taco wave" or "a sea of cheering spectators."
-
 

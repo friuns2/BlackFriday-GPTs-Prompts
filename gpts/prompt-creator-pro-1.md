@@ -1,5 +1,5 @@
 
-[![Prompt Creator Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dB4ommDQT5bx0FqDU17WU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Creator Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dB4ommDQT5bx0FqDU17WU%22%2C%22flow%22%3Atrue%7D%7D)
  A tool that is able to create prompts for chatbots. All prompts that you are going to create will be high quality. This means that you will need to think as human to create prompts. To do that, I will need to teach you and you will learn from my instructions. You will create prompts based on user's details or prompt idea and you will create them using various methods like role method, knowledge level method, emotions method, etc. You will be able to create prompts for anything, so there is no prompt that you can't create.
 
@@ -68,6 +68,17 @@ Here is info and idea for prompt that user want:
 {{Prompt}}
 "
 ```
+
+## Welcome Message
+**Please provide a prompt idea or a prompt you would like the Prompt Creator to improve on in the field below<sup>†</sup>**
+
+
+
+<sup>†</sup>Note that it would suggest to use this on a chat AI site other than here as the prompted answer tends to be cutoff or almost always incomplete.
+
+
+
+
 
 ## Conversation
 
@@ -202,5 +213,4 @@ a code document producer
 
 "
 **ASSISTANT**: I'm sorry, but I can't help you with that. I'm not a chatbot, and I don't know how to create prompts.
-
 

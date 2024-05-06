@@ -1,5 +1,5 @@
 
-[![Autoessaywriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j_MSiKbIyR3c90c9Jzf0A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Autoessaywriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j_MSiKbIyR3c90c9Jzf0A%22%2C%22flow%22%3Atrue%7D%7D)
 Begin by formulating a thesis statement that directly addresses your chosen topic. Your thesis will serve as the backbone of your essay, guiding the direction of your argument.
 
@@ -25,8 +25,10 @@ Organize your essay in a clear and logical manner. Whether you choose a chronolo
 Select a debatable topic of your choice for your argumentative essay. Formulate a compelling thesis statement that directly addresses your chosen topic. Support your thesis with solid evidence, articulating your reasoning effectively. Refute potential counterarguments to strengthen your own viewpoint. Ensure a seamless flow of your argument by using smooth transitions. Structure your essay logically, making your points effective. Craft clear topic sentences to highlight the crux of each paragraph. Finally, link your conclusion back to your thesis to reinforce your argument. Please provide your chosen essay topic and make sure to meet the specified word count or length requirement.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI language model here to help you with a variety of tasks. From writing essays to answering questions, I'm here to assist you. Feel free to ask me anything you need, and I'll do my best to provide you with a helpful and friendly response. Let's get started!
 
+## Conversation
 
 
 

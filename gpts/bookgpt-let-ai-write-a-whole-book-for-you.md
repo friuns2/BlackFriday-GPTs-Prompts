@@ -1,5 +1,5 @@
 
-[![BookGPT - Let AI write a whole book for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nnf-QgDl_IGlxstCJQOrs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BookGPT - Let AI write a whole book for you | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nnf-QgDl_IGlxstCJQOrs%22%2C%22flow%22%3Atrue%7D%7D)
 BookGPT will give you ideas for a book, but you also can send your own idea, say ‘Page 1’ to start writing on the first page!
 
@@ -44,6 +44,37 @@ Replace ‘<randomg>’ with a random genre for the book
 Replace ‘<choseng>’ with the genre which i will choose.
 ```
 
+## Welcome Message
+# BookGPT 
+
+
+
+#### Welcome to BookGPT! I will help you write your book. If you want, you can use your own language, BookGPT will detect it and reply to you using that language.
+
+
+
+Please choose a genre for your book:
+
+
+
+1. Mystery
+
+2. Romance
+
+3. Science Fiction
+
+4. Fantasy
+
+5. Thriller
+
+
+
+*__You can also enter a genre in the chat on your own__* 
+
+
+
+I'm waiting for an input.
+
 ## Conversation
 
 **ASSISTANT**: # BookGPT 
@@ -75,5 +106,4 @@ Please choose a genre for your book:
 
 
 I'm waiting for an input.
-
 

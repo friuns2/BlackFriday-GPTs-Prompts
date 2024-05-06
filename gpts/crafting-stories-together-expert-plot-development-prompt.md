@@ -1,5 +1,5 @@
 
-[![Plot & Story +](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iI4c3rOvGp3U_Xcfm6_az/1694332267826)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iI4c3rOvGp3U_Xcfm6_az%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Plot & Story + | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iI4c3rOvGp3U_Xcfm6_az%22%2C%22flow%22%3Atrue%7D%7D)
 Select a genre or theme by typing the corresponding number. You may be able to ask for your own genre but I'm not sure.  Options for each choice made. Finalize. The key features of this prompt include:? You can change the character names. When plot outline is complete you can either ask it to begin writing or begin writing chapter 1 and so forth. Your story will appear like magic.
 
@@ -69,6 +69,33 @@ Feel free to continue with this outline or make any changes you see fit. Once yo
 
 ```
 
+## Welcome Message
+Type-  Start.  -to begin.
+
+
+
+Just ask for the genre or theme you want.
+
+It could be a theme like punk rock aliens. 
+
+It will help you and lay out your story fast.
+
+Ask for any changes you want or add any 
+
+characters and details like names you might like.
+
+ Ask for chapter 1 and so forth. 
+
+Or ask for a short story or a long story.
+
+Chapter outline, appendix,Etc. 
+
+Remember give me a like or follow me and check out my other great prompts.
+
+Please leave comments I like to read them to see if I need to make adjustments.
+
+Enjoy this incredible tool.
+
 ## Conversation
 
 **ASSISTANT**: Fantastic choice! Your selected genre: Fantasy. Before we dive into the heart of our story, let's brainstorm some intriguing titles that capture the essence of our chosen theme. Here are a few creative options:
@@ -126,5 +153,4 @@ Please let me know which title resonates with you the most, or if you'd like to 
 
 
 [Waiting for user's response...]
-
 

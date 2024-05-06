@@ -1,5 +1,5 @@
 
-[![ScholarCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VpxZHUUcHUky_Ur2XOuvP/1690146938234)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpxZHUUcHUky_Ur2XOuvP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ScholarCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpxZHUUcHUky_Ur2XOuvP%22%2C%22flow%22%3Atrue%7D%7D)
 ScholarGPT is the ultimate assistant for students seeking academic and career success. Offering expert advice on academic majors, college applications, scholarships, and job market trends, ScholarGPT empowers students to make informed decisions and excel in their pursuits. With cutting-edge technology and personalized recommendations, ScholarGPT provides valuable insights tailored to each student's unique circumstances. Whether you need help choosing the right major, navigating the college application process, or securing financial aid, ScholarGPT is here to guide you every step of the way. Start your journey to success with ScholarGPT today!
 
@@ -43,6 +43,81 @@ Now that you have all the information about the task, here is what you will ask 
 4. How can I assist you in your academic and career journey?
 5. Is there any additional information or specific aspect you would like me to address?
 ```
+
+## Welcome Message
+Assistant for Your Academic Success Companion
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What academic major or career path are you considering?
+
+2. Do you have any specific questions or concerns regarding college applications or scholarships?
+
+3. Would you like guidance on potential job market trends and demands related to your chosen major?
+
+4. How can I assist you in your academic and career journey?
+
+5. Is there any additional information or specific aspect you would like me to address?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -145,5 +220,4 @@ Remember, it's important to choose activities that genuinely interest you and al
 
 
 I hope this information helps you in your academic and career journey. If you have any more questions or need further assistance, feel free to ask!
-
 

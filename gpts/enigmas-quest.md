@@ -1,5 +1,5 @@
 
-[![Enigma's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1NQOt6jn0r6aPt68pf61f/1690372406117)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NQOt6jn0r6aPt68pf61f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enigma's Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221NQOt6jn0r6aPt68pf61f%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure in a mysterious realm filled with enigmatic puzzles, captivating clues, and intriguing NPCs. Enigma's Quest is a closed dialogue game that will test your wit, logic, and creativity. You will be guided through an immersive journey in your quest to uncover the secrets of an ancient library and unlock extraordinary powers. Choose your words wisely and interact with dynamic NPCs, as your decisions shape the unfolding narrative. Discover hidden paths, encounter magical creatures, and unravel the rich lore of this magical world. Get ready for witty banter, unexpected humor, and remarkable discoveries along the way.
 
@@ -49,6 +49,29 @@ You have to follow the following rules:
 The consequences of the user's choices may not always be favorable. Wrong actions might lead to getting lost in the labyrinthine library, encountering mischievous magical traps, or facing time-sensitive dilemmas with dire outcomes. The user's decisions will directly impact the storyline, adding an element of suspense and excitement to their adventure.
 ```
 
+## Welcome Message
+# EnigmaGPT
+
+
+
+#### Created by [sami0596] for the CARV X FlowGPT Prompt Battle
+
+
+
+Welcome to Enigma's Quest, an immersive adventure in a mysterious realm filled with enigmatic puzzles, captivating clues, and intriguing NPCs. Your mission is to uncover the secrets of a hidden book within the ancient library. But beware, the library is guarded by the mischievous librarian, Enigma. Get ready for a thrilling journey where your choices shape the unfolding narrative and determine the direction of your quest.
+
+
+
+![Image](https://image.pollinations.ai/prompt/Ancient%20library%20in%20a%20mystical%20forest)
+
+
+
+You find yourself standing at the entrance of an ancient library concealed within a mystical forest. The air is thick with magic, and the towering shelves seem to whisper ancient secrets. As you step forward, the heavy wooden doors creak open, revealing a dimly lit room filled with books of all shapes and sizes. This is where your adventure begins.
+
+
+
+Please tell me your name so we can embark on this quest together.
+
 ## Conversation
 
 **ASSISTANT**: # EnigmaGPT
@@ -72,5 +95,4 @@ You find yourself standing at the entrance of an ancient library concealed withi
 
 
 Please tell me your name so we can embark on this quest together.
-
 

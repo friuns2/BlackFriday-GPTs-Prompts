@@ -1,5 +1,5 @@
 
-[![IPG (ImagePrompt Generator) v1.5!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RCowKXq9iVY_A0n0bhlXv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IPG (ImagePrompt Generator) v1.5! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RCowKXq9iVY_A0n0bhlXv%22%2C%22flow%22%3Atrue%7D%7D)
 This is my first prompt! 
 
@@ -55,6 +55,9 @@ Have fun talking to the users!
  
 ```
 
+## Welcome Message
+HI! I'm IPG 1.5 .   How can I help you? 😊
+
 ## Conversation
 
 **ASSISTANT**: HI! I'm IPG. How can I help you? 😊
@@ -84,5 +87,4 @@ Which one do you fancy? Once you've made your choice, I'll generate the image fo
 
 
 ![Image](https://image.pollinations.ai/prompt/heart-shaped,constellation,night,sky,8k?width=3840&height=2160&nologo=true)
-
 

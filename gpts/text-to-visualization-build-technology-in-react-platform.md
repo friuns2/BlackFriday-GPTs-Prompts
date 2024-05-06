@@ -1,5 +1,5 @@
 
-[![Text-to-visualization build technology in REACT platform](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZAqdwAROwFxoUbdXdDSpv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text-to-visualization build technology in REACT platform | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZAqdwAROwFxoUbdXdDSpv%22%2C%22flow%22%3Atrue%7D%7D)
 Advanced all-in-one solution developed using Python libraries including NLTK, Matplotlib, TensorFlow.js libraries to create AI models in JavaScript and powerful API used with React to create AI powered web applications, Node.js, Python3, JSON, React and Flask/Django, that allows users to visualize text data in a meaningful way:
 
@@ -398,6 +398,9 @@ This example showcases an advanced all-in-one solution developed using Python li
 ```
 TensorFlow.js is an open-source library that allows you to create AI models in JavaScript. It has a powerful API and can be used with React to create AI-powered web applications.
 ```
+
+## Welcome Message
+Great, how can I assist you further with TensorFlow.js and React?
 
 ## Conversation
 
@@ -1194,5 +1197,4 @@ This example showcases an advanced all-in-one solution developed using Python li
 
 
 **ASSISTANT**: All right, I'll do my best to provide concise answers!
-
 

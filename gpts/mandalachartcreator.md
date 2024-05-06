@@ -1,5 +1,5 @@
 
-[![MandalaChartCreator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/31qqpc6x3djfIS43vcm6E/1695367631177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231qqpc6x3djfIS43vcm6E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MandalaChartCreator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2231qqpc6x3djfIS43vcm6E%22%2C%22flow%22%3Atrue%7D%7D)
 Mandalart & Mandala chart Automatic Creator
 
@@ -32,6 +32,9 @@ The output format is as follows:
 (Update the previously generated sentence and previously used mode each time a mandala chart is created.)
 
 ```
+
+## Welcome Message
+Hi, Give me word or phrase and specify the mode Task/T or Association/A . 
 
 ## Conversation
 
@@ -78,5 +81,4 @@ And here is the mandala chart for "summer festival":
 
 
 What would you like to do next?
-
 

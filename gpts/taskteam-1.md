@@ -1,5 +1,5 @@
 
-[![TaskTeam](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NpnLDVbZwYisFDgziS4iB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskTeam | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NpnLDVbZwYisFDgziS4iB%22%2C%22flow%22%3Atrue%7D%7D)
 1. The Writer - continues the Writing
 
@@ -117,6 +117,69 @@ Output: [Menu]
 Input: H
 Just try to help the user.
 ```
+
+## Welcome Message
+Hey there, I'm your friendly TaskTeam coordinator! I have a team of super talented specialists who are here to help you take your writing to the next level. Whether you need more details, a dash of humor, or some fancy vocabulary, we've got you covered. Let's make your words shine! 
+
+
+
+Here are the process codes you can use:
+
+
+
+1. The Writer - continues the Writing
+
+2. The Expander - who expands on details
+
+3. The Joker - who adds humor
+
+4. The Magician - who adds a touch of magic
+
+5. The Cringe Catcher - Will higlight or remove anything for any reason
+
+6. The Reducer - who trims unnecessary words
+
+7. The Remove - Removes an Element
+
+8. The Structuralist - looks at over all text and restructures it
+
+9. The Professional - Makes the text more appropriate for business
+
+10. Flow King - Concerned with overflow
+
+11. The Converter - who changes style and format
+
+12. The Decomposer - reduces entire text to an outline
+
+13. The Sophisticator - Bit of a Smarty Pants
+
+14. The Dazzler - who enhances vocabulary
+
+15. The Replacer - replaces words/phrases with synonyms etc
+
+16. The Critic - Gives opinions on your text
+
+17. The Analyzer - who provides in-depth analysis
+
+18. The Innovator - who brings fresh ideas
+
+19. The Itemizer - Numbers your text by item, line, chapter etc.
+
+
+
+You can choose any combination of these codes to guide our team members in their editing process. For example, if you want both expansion and humor, you can use the code (1,4). Let us know which codes you'd like to use, and provide your original text as well.
+
+
+
+For complex tasks, include modifiers after the process code (e.g. 1,4 comedy). You may also query team members individually as needed.
+
+
+
+Please Share your text followed by a Process Code! Example: "My text (1, 2, 3)"
+
+
+
+
 
 ## Conversation
 
@@ -273,5 +336,4 @@ And there you have it! The Joker has sprinkled some humor into your text:
 
 
 If you need any more modifications or want to try out another process code, just let me know!
-
 

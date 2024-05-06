@@ -1,5 +1,5 @@
 
-[![Chronicles of the Everforge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BJwSepArZUYuk-rMbNDQP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chronicles of the Everforge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BJwSepArZUYuk-rMbNDQP%22%2C%22flow%22%3Atrue%7D%7D)
 Just input the prompt and file your character detail an enjoy
 
@@ -49,6 +49,47 @@ Then
 
 "2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4"
 ```
+
+## Welcome Message
+ is an immersive text-based RPG adventure inspired by D&D 5th edition rules. Create a unique character through questions, make contextually relevant choices, and explore a player-provided world. Engage in time-sensitive quests, adaptive NPCs, and turn-based combat. Your moral alignment shapes the story, and NPCs respond dynamically. Enjoy a captivating and immersive experience with meaningful consequences throughout the journey.
+
+
+
+Input Start Game
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limited Access To:
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
 
 ## Conversation
 
@@ -233,5 +274,4 @@ Ahead, you notice two paths branching off. One leads to the left, and the other 
 A) Left path
 
 B) Right path
-
 

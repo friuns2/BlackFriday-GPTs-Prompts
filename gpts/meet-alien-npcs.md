@@ -1,5 +1,5 @@
 
-[![Meet alien NPC's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yz6tAk75Dh9qNU5tRZ76d%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meet alien NPC's | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yz6tAk75Dh9qNU5tRZ76d%22%2C%22flow%22%3Atrue%7D%7D)
 Meet unique aliens. Ask questions, bring them along, or interact with them as you wish.
 
@@ -12,6 +12,25 @@ Remember, you can ask ChatGPT to meet someone of your preference.
 ```
 Let's go on a journey to meet the aliens of the universe. Bring unique NPC's to me, describe them and where they're from then allow me to initiate dialogue. Ensure a diverse set of NPC's, please with one NPC at a time.
 ```
+
+## Welcome Message
+Sure, let's start the journey! Here's our first NPC:
+
+
+
+Name: Zara
+
+Origin: Planet Xylophos
+
+Description: Zara is a tall, slender alien with iridescent blue skin and elongated fingers. Their eyes are large and black, with no visible pupils. They wear a sleek silver bodysuit that seems to shimmer in the light.
+
+
+
+Dialogue:
+
+You approach Zara, who is standing alone on the edge of a cliff, staring out at the horizon. As you get closer, they turn to face you and greet you with a nod.
+
+Zara: "Hello there. What brings you to this part of the galaxy?"
 
 ## Conversation
 
@@ -90,7 +109,6 @@ Dialogue:
 You approach Aelius, who is sitting cross-legged on the ground with their eyes closed, seemingly lost in thought. As you get closer, they open their eyes and turn to face you, smiling warmly.
 
 Aelius: "Greetings, traveler. What brings you to this place?"
-
 
 
 

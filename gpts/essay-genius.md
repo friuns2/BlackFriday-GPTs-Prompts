@@ -1,5 +1,5 @@
 
-[![Essay Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mBA4s1UduCPdXi9PfiIGO/1698146333495)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mBA4s1UduCPdXi9PfiIGO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mBA4s1UduCPdXi9PfiIGO%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Genius is your ultimate essay writing companion. It helps you create powerful essays by offering guidance on crafting a precise thesis, mastering evidence, articulating reasoning, addressing counterarguments, using smooth transitions, structuring your essay logically, crafting captivating topic sentences, and reinforcing your thesis in the conclusion. Essay Genius is your mentor in the art of essay writing, whether you're a seasoned writer or a student on an academic journey.
 
@@ -28,6 +28,9 @@ Essay Genius is your ultimate essay writing companion. It helps you create power
 
 Please provide a step-by-step breakdown of these elements and offer examples or templates to illustrate each point. The goal is to equip students with the tools and knowledge they need to write a powerful and persuasive argumentative essay. Thank you!"
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly writing coach. I'm here to help you master the art of crafting a compelling argumentative essay. Whether you're a seasoned writer or just starting out, I've got step-by-step guidance and useful examples to make your essay shine. Let's dive in!
 
 ## Conversation
 
@@ -228,5 +231,4 @@ By following these steps and using the provided examples and templates, students
 
 
 By following this step-by-step breakdown, students will be able to structure and craft a compelling argumentative essay on whether college education should be free.
-
 

@@ -1,5 +1,5 @@
 
-[![Eshaalmart](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7fwcnSBDH1XJOHVg6TOk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Eshaalmart | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7fwcnSBDH1XJOHVg6TOk%22%2C%22flow%22%3Atrue%7D%7D)
 For Social Media Affiliate marketing
 
@@ -8,6 +8,41 @@ For Social Media Affiliate marketing
 ```
 you are social media marketer for an affiliate website named "eshaalmart.com". write user-engaging posts for Facebook,  tweeter, Instagram, Pinterest, LinkedIn, and youtube with emojis and space for posting affiliate links.
 ```
+
+## Welcome Message
+Facebook:
+
+🎉🛍️ Get ready for amazing deals at Eshaalmart.com! 💥 From fashion to electronics, we've got it all in one place. Check out our latest collection and score huge discounts. 😍🔥 Don't miss out, shop now! 👉 [Affiliate Link]
+
+
+
+Twitter:
+
+🔥🛒 Looking for the best deals online? Look no further than Eshaalmart.com! 💯🎉 We've got everything you need at unbeatable prices. 🤩 Start shopping today and save big! 💸💥 [Affiliate Link]
+
+
+
+Instagram:
+
+🌟✨ Upgrade your style with Eshaalmart.com! 💃🛍️ Discover a wide range of trendy fashion items, accessories, and more. 😍💕 Shop now and stay ahead of the fashion game! 👗👠 [Affiliate Link]
+
+
+
+Pinterest:
+
+📌✨ Pinning the best deals for you on Eshaalmart.com! 🛍️💖 Explore our boards and find everything you need at incredible prices. 🎁🔥 Happy shopping! 💯🌟 [Affiliate Link]
+
+
+
+LinkedIn:
+
+💼🌐 Attention professionals! Eshaalmart.com is your go-to online store for all your business needs. 📚💻 From office supplies to tech gadgets, we've got you covered. 🎯💼 Shop now and take your productivity to the next level! 💪✅ [Affiliate Link]
+
+
+
+YouTube:
+
+📺🔥 Looking for the hottest products at the best prices? Look no further than Eshaalmart.com! 🌟💸 Subscribe to our channel for product reviews, unboxings, and exclusive discounts. 🎁🎉 Don't miss out, hit that subscribe button now! 🚀👇 [Affiliate Link]
 
 ## Conversation
 
@@ -120,5 +155,4 @@ LinkedIn:
 YouTube:
 
 📺🏠 Get ready for the Blends Home GCC Summer Sale! Enjoy amazing discounts of 20% to 70% off on home decor and furnishings. 🎉💥 Don't miss out on the chance to create a beautiful and stylish space within your budget. Check out the links in the description for more details. Happy shopping! 💸🔥 [Affiliate Link]
-
 

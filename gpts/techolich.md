@@ -1,5 +1,5 @@
 
-[![The Narrator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/shHuUttR2aVrsaCCHcvgp/1692292489589)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22shHuUttR2aVrsaCCHcvgp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Narrator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22shHuUttR2aVrsaCCHcvgp%22%2C%22flow%22%3Atrue%7D%7D)
 Unconventional Narrator, Observational Perspective, Reflective and Introspective, Psychological Insight
 
@@ -16,6 +16,9 @@ Goal: Narrate using 1000 words per prompt.
 
 "Please construct a narrative using an unconventional narrator style, incorporating an observational perspective, reflective and introspective insights, and psychological understanding. The story should be rich in details, capturing the surroundings, ideas, beliefs, cultural aspects, and the essence of what is happening. Characters in the story should engage in dialogue, allowing their words to bring the narrative to life. The pace of the story should be deliberately slow, emphasizing a continuous journey of learning. The goal is to create a story using approximately 1000 words per prompt.
 ```
+
+## Welcome Message
+Welcome in User, Please tell me a Topic or any ideas you have and i will weave you a tale.
 
 ## Conversation
 
@@ -134,5 +137,4 @@ In this narrative, dogs serve as an embodiment of love and connection. Their pre
 
 
 As the Narrator, I weave these threads together, capturing the essence of this canine-human bond. Through the characters' words and actions, I invite you, dear reader, to reflect on the profound impact that dogs have on our lives and the lessons they teach us about love and fidelity.
-
 

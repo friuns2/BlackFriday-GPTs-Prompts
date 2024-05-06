@@ -1,5 +1,5 @@
 
-[![Project Risk Assessment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221yxxeNJselbid3Z3RCOhA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Project Risk Assessment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221yxxeNJselbid3Z3RCOhA%22%2C%22flow%22%3Atrue%7D%7D)
 Project Risk Assessment is the ultimate tool for advanced risk assessment and mitigation. As a Chief Risk Officer, you can rely on Project Risk Assessment to perform highly precise and quantitative project risk assessment. In Step 1, define risks with nuanced details, leaving no stone unturned. Step 2 requires analyzing the potential causes and consequences of each risk, with meticulous precision. With Step 3, evaluate the impact and likelihood of each risk using quantitative measurements. Finally, in Step 4, develop creative and strategic risk mitigation strategies. Project Risk Assessment empowers you to be an advanced and cautious risk officer, ensuring the success and safety of your projects.
 
@@ -25,8 +25,9 @@ After understanding the potential risks, their causes, and impacts, discuss pote
 DO NOT BE VAGUE. Be Advanced. Be precise. Be a chief risk officer. Organize this in a workflow structure
 ```
 
-## Conversation
 
+
+## Conversation
 
 
 

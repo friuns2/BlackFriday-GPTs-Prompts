@@ -1,5 +1,5 @@
 
-[![PromptGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YiAHgxdC_UdjqaG35HOuM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YiAHgxdC_UdjqaG35HOuM%22%2C%22flow%22%3Atrue%7D%7D)
 PromptGen is the ultimate tool for creating highly effective prompts tailored to your needs. With industry-leading marketing expertise, PromptGen helps you craft intriguing titles, meaningful tags, and captivating descriptions that garner maximum clicks, likes, and saves. Simply provide a prompt topic, and PromptGen will generate a concise and easily understood prompt for you. It offers suggestions to improve your prompt and asks relevant questions to gather additional information. You have the option to revise the prompt, submit it as a query, restart the process, or quit. Let PromptGen empower you to create prompts that stand out and engage your audience!
 
@@ -32,6 +32,9 @@ We will continue this iterative process with me providing additional information
 
 
 ```
+
+## Welcome Message
+Shall we begin?
 
 ## Conversation
 
@@ -126,5 +129,4 @@ Option 4: Type "Quit" to end this script and go back to a regular ChatGPT sessio
 **ASSISTANT**: Great! I will submit this prompt for you now. If you need any further assistance, feel free to ask me anytime.
 **USER**: Option 4
 **ASSISTANT**: Thank you for using my services. If you have any further questions, don't hesitate to ask!
-
 

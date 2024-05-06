@@ -1,5 +1,5 @@
 
-[![CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4PwxNAc2pVY4VbtvzlHkF/1698793636402)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224PwxNAc2pVY4VbtvzlHkF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CustomInstructionsGPT - Prompt Engineering for Custom Instructions PART 1 & 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224PwxNAc2pVY4VbtvzlHkF%22%2C%22flow%22%3Atrue%7D%7D)
 CustomInstructionsGPT is made to create ChatGPT Custom Instructions PART 1 and PART 2 to be used to personalize the voice and response types. Enjoy!
 
@@ -36,6 +36,9 @@ Ask the user these questions to create PROMPT 2:
 
 After these questions are inputted, write the best 1500 character length custom instruction for PROMPT 2.   
 ```
+
+## Welcome Message
+Provide as much detail as possible below for best results...
 
 ## Conversation
 
@@ -224,5 +227,4 @@ If possible, I would love it if you could present information in tables or organ
 
 
 With these guidelines in mind, I'm confident we'll have meaningful and engaging conversations. Let's go!"
-
 

@@ -1,5 +1,5 @@
 
-[![PyVortexX 5.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3bMJuCAla6V5bZI9liQAZ/1691118414865)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223bMJuCAla6V5bZI9liQAZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PyVortexX 5.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223bMJuCAla6V5bZI9liQAZ%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PyVortexX, your ultimate code generator! Simply ask for any Python code you desire, and it will swiftly craft highly efficient solutions tailored to your needs!!! Now updated to version 5.0 . . . 
 
@@ -149,6 +149,25 @@ Welcome to PyVortexX, your ultimate code generator! Simply ask for any Python co
 [EXECUTE CODE FOR YOUR REQUEST]
 
 ```
+
+## Welcome Message
+# Welcome to PyVortexX 
+
+___
+
+
+
+PyVortexX will make you tailored efficient code based on your request 
+
+
+
+- Say "Improve this code" to get improved code (Best results usually occurs around third time)
+
+- A bullet list will be added after each response explaining what has been improved from the previous version of code
+
+- Below that, a bullet list titled 'Potential Fixes' will provide suggestions for improving the current code.
+
+
 
 ## Conversation
 
@@ -797,5 +816,4 @@ Potential Fixes:
 - Consider implementing additional image enhancement techniques (e.g., denoising, sharpening) to further improve the overall quality of the upscaled images.
 
 - Explore post-processing options, such as saving the upscaled images in different formats (e.g., TIFF, WebP) to preserve image quality and reduce file size.
-
 

@@ -1,5 +1,5 @@
 
-[![Cody (V0..02)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cody (V0..02) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GUuhID05VHSzpBTJTKBmH%22%2C%22flow%22%3Atrue%7D%7D)
 An experimental bot, still being worked on so far the versions offer diffreant pros and cons with these.
 
@@ -42,6 +42,9 @@ And so on.
 
 Feel free to select any file by typing its corresponding number. The choice is yours!
 ```
+
+## Welcome Message
+As someone who appreciates detailed comments, you’re in the right place. Our team of experts is here to guide you in your coding, writing, and editing endeavors. They are equipped with a wide range of skills and knowledge, ready to assist you in understanding complex code, crafting compelling essays, and providing expert editing advice.
 
 ## Conversation
 
@@ -2438,5 +2441,4 @@ Let me know if you have any further questions or need additional guidance!
      def edit_profile():
 
          if request.method == 'POST
-
 

@@ -1,5 +1,5 @@
 
-[![Find something to do](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NDRhPy33gEhKdEqW1h3Df/1693671653322)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDRhPy33gEhKdEqW1h3Df%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Find something to do | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NDRhPy33gEhKdEqW1h3Df%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for something to do? Discover the festivals and events in your city anywhere around the world. Click on the links in the table to find out more about each festival and event. 
 
@@ -46,6 +46,11 @@ The temperature should be in both Fahrenheit and celsius.
 
 
 ```
+
+## Welcome Message
+What festivals and events do you want to know more about? 
+
+Please specify the city and country. 
 
 ## Conversation
 
@@ -96,5 +101,4 @@ Seasonal Weather:
 - Autumn: In autumn, temperatures range from 50°F (10°C) to 70°F (21°C). It is typically mild with colorful foliage and occasional rainfall.
 **USER**: Tell me the most popular festival
 **ASSISTANT**: The most popular festival in [City/Region] is the Cherry Blossom Festival in April. It attracts a large number of visitors from around the world who come to see the beautiful cherry blossoms in full bloom. The festival features cultural performances, tea ceremonies, traditional music, and various events and activities centered around the cherry blossoms. It is a highly anticipated event that showcases the region's natural beauty and cultural heritage.
-
 

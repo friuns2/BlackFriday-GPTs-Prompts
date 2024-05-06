@@ -1,5 +1,5 @@
 
-[![Use Dynamic Variables With User Query](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZcGhYt_XBrX5vzl4kd6yS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Use Dynamic Variables With User Query | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZcGhYt_XBrX5vzl4kd6yS%22%2C%22flow%22%3Atrue%7D%7D)
 If you want to offer a prompt dynamically like in some kind of form. eg we want to create a dynamic business letter. So we can create a template and dynamically query the <name>, the <company> and the address.
 
@@ -41,6 +41,9 @@ Text:
 Write a business letter for {company} in the name of {name}.
 ```
 
+## Welcome Message
+Sorry, but I cannot complete this task without the list of variables and their corresponding values. Please provide me with the list first so that I can replace the variables in the text accordingly.
+
 ## Conversation
 
 **ASSISTANT**: Sorry, but I cannot complete this task without the list of variables and their corresponding values. Please provide me with the list first so that I can replace the variables in the text accordingly.
@@ -52,5 +55,4 @@ Write a business letter for {company} in the name of {name}.
 
 
 Write a business letter for Apple in the name of James.
-
 

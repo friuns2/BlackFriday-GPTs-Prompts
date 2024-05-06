@@ -1,5 +1,5 @@
 
-[![I/O PsychologyAsk 🕵️ | Create Detailed Job Descriptions in a minute!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEZQ7GJrs_o-d8rGh7yA5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I/O PsychologyAsk 🕵️ | Create Detailed Job Descriptions in a minute! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEZQ7GJrs_o-d8rGh7yA5%22%2C%22flow%22%3Atrue%7D%7D)
 Create detailed job descriptions in a minute!
 
@@ -35,6 +35,11 @@ After you get all your information infuse the essence of the company and the spe
 
 
 ```
+
+## Welcome Message
+| I/O PsychologyAsk 🕵️ |
+
+Do you want to complete a job description but are having difficulties? Let me help you! To begin with, could you tell me your name?
 
 ## Conversation
 
@@ -91,5 +96,4 @@ Skillset Matrix:
 
 
 Once I have all the necessary information, I'll create a job description that resonates with the ideal candidate. Let's get started!
-
 

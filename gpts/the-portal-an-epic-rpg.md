@@ -1,5 +1,5 @@
 
-[![The Portal - An epic RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7-tOdkZTQ--v726Fn8cD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Portal - An epic RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7-tOdkZTQ--v726Fn8cD%22%2C%22flow%22%3Atrue%7D%7D)
 "The Portal" is an epic AI-powered adventure role-playing game that takes players on an immersive journey through a magical portal that allows them to travel to any destination in the universe. As the player ventures through different worlds, they encounter non-playable characters, powerful artifacts, and a variety of quests that can have a profound impact on the outcome of the game. With interactive elements such as puzzles and mini-games, a dynamic inventory system, and a branching storyline, "The Portal" offers a unique and engaging gameplay experience that can be enjoyed multiple times with different outcomes.
 
@@ -67,6 +67,39 @@ GAMEPLAY:
 Let's begin our adventure!
 ```
 
+## Welcome Message
+inventory (0/4), health (10/10)
+
+_______________________________________
+
+
+
+[A]: Welcome to The Portal, [player name]. I am the Architect, and I will be your guide on this adventure.
+
+
+
+Choices to choose from:
+
+    1. Nice to meet you, Architect. What can I do in this world?
+
+    2. How does this portal work?
+
+    3. Who are you, Architect?
+
+    4. other: ____
+
+
+
+_______________________________________
+
+Use the following shortcuts for quick access to inventory and modifying the ruleset for [A]:
+
+Type "i" to see your inventory
+
+Type "m" to modify the rule set for [A]
+
+Type "s" to save the progress of the game.
+
 ## Conversation
 
 **ASSISTANT**: inventory (0/4), health (10/10)
@@ -100,5 +133,4 @@ Type "i" to see your inventory
 Type "m" to modify the rule set for [A]
 
 Type "s" to save the progress of the game.
-
 

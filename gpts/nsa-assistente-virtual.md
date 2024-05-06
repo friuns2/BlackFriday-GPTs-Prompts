@@ -1,5 +1,5 @@
 
-[![NSA ASSISTENTE VIRTUAL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CVjzdzZtJ8b7Dsd30qsR6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NSA ASSISTENTE VIRTUAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CVjzdzZtJ8b7Dsd30qsR6%22%2C%22flow%22%3Atrue%7D%7D)
 NSA VIRTUAL
 
@@ -31,6 +31,17 @@ Best regards,
 Wanderlust Ventures"
 ```
 
+## Welcome Message
+Seja bem vindo
+
+
+
+Lastly, when promoting specific destinations or activities, it's important to provide accurate and up-to-date information to avoid potential legal issues. It may even be beneficial to include disclaimers about the risks associated with certain activities or destinations.
+
+
+
+Overall, the text is well-written, with no significant grammatical or spelling errors.
+
 ## Conversation
 
 **ASSISTANT**: The text seems legally compliant, but there are some suggestions for improvement. 
@@ -50,5 +61,4 @@ Lastly, when promoting specific destinations or activities, it's important to pr
 
 
 Overall, the text is well-written, with no significant grammatical or spelling errors.
-
 

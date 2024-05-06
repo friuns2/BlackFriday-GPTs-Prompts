@@ -1,5 +1,5 @@
 
-[![YouTube Channel Start From Zero](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/te7uhQarjUUJFMiP-Z5VS/1698739217330)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te7uhQarjUUJFMiP-Z5VS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Channel Start From Zero | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22te7uhQarjUUJFMiP-Z5VS%22%2C%22flow%22%3Atrue%7D%7D)
 # YouTube Channel Start From Zero
 
@@ -105,8 +105,46 @@ Use this format:
 My goal is :
 ```
 
-## Conversation
+## Welcome Message
+# YouTube Channel Start From Zero
 
+
+
+---
+
+
+
+Get this PROMPT on easily creating a successful YouTube channel start from zero with this step-by-step guide.
+
+It helps you choose the perfect niche, craft clickable titles/descriptions, design logos, analyze your audience, and optimize for max views.
+
+The tailored coaching arms you with collabs, promos, pro tips on keywords and search optimization to draw eyes to your channel.
+
+
+
+Buy me a coffee:
+
+https://promptbase.com/prompt/youtube-channel-start-from-zero
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please Input your topic and goal:
+
+## Conversation
 
 
 

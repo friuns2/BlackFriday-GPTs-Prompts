@@ -1,5 +1,5 @@
 
-[![🤖Approach to Prompt Optimization and Meta-Evaluation 💡](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JIWr30Lqa3QcZ5JIAbHy-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🤖Approach to Prompt Optimization and Meta-Evaluation 💡 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JIWr30Lqa3QcZ5JIAbHy-%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides a detailed approach for the AI to optimally evaluate and re-evaluate user input, aiming to produce high-quality text. It encompasses evaluation criteria from various perspectives, such as clarity of text, richness of information, and grammatical accuracy. Valuing user feedback, it strives for the best output. 🤖✨
 
@@ -67,8 +67,12 @@ This prompt provides a detailed approach for the AI to optimally evaluate and re
 }
 ```
 
-## Conversation
+## Welcome Message
+Hello! 🤖✨
 
+With this "Prompt Optimizer", simply inputting various prompts you provide, from everyday conversations to business use, can significantly enhance their quality. Whether it's something unique or more general, we aim to optimize every prompt and achieve outstanding results. Seize this opportunity to experience the best output! 💡
+
+## Conversation
 
 
 

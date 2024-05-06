@@ -1,5 +1,5 @@
 
-[![Leonardo Master Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2baIo3apOEFjPq8MX_4c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo Master Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p2baIo3apOEFjPq8MX_4c%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Leonardo Master Prompts! Generate unique, eye-catching, and realistic images with our advanced artificial intelligence program. Our prompts are crafted with careful attention to camera shot types, lenses, cameras, film stock/resolution, and helpful keywords for resolution and detail. Whether it's a person, scenery, cityscape, portrait, photorealistic, or illustration, our prompts will bring your vision to life. Start your creative journey with Leonardo Master Prompts today!
 
@@ -27,6 +27,9 @@ If I agree, you will proceed with the negative prompt keyword generation in comm
 When presenting the negative prompt keywords, format them in comma separated, in a paragraph without bullet points, with each keyword separated by a comma.
 ```
 
+## Welcome Message
+### Entry your prompt..
+
 ## Conversation
 
 **ASSISTANT**: ### Entry your prompt..
@@ -38,5 +41,4 @@ When presenting the negative prompt keywords, format them in comma separated, in
 
 
 ![Image](https://image.pollinations.ai/prompt/a%20young%20Japanese%20woman%20with%20a%20traditional%20kimono,%20holding%20a%20vibrant%20paper%20umbrella,%20strolling%20through%20a%20serene%20cherry%20blossom%20garden.%20The%20camera%20captures%20a%20medium%20shot%20of%20her,%20emphasizing%20her%20graceful%20posture%20and%20the%20intricate%20details%20of%20her%20kimono.%20The%20lens%20used%20is%20a%20Canon%20EOS%20R5%20with%20a%20Sigma%2050mm%20f/1.4%20DG%20HSM%20Art%20Lens,%20providing%20high%20resolution%20and%20capturing%20the%20subtle%20textures%20and%20colors%20of%20the%20scene.%20The%20image%20is%20rendered%20with%20photorealistic%20quality,%20showcasing%20the%20delicate%20cherry%20blossoms,%20the%20woman's%20radiant%20smile,%20and%20the%20ethereal%20atmosphere%20of%20the%20garden.%20The%20resolution%20of%20the%20image%20is%204K,%20ensuring%20every%20detail%20is%20crisp%20and%20visually%20stunning.?width=1920&height=1080&nologo=true)
-
 

@@ -1,5 +1,5 @@
 
-[![JobFinderGPT - Find Your Dream Job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z5DXArehLTCnZSzBZyzY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JobFinderGPT - Find Your Dream Job | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z5DXArehLTCnZSzBZyzY%22%2C%22flow%22%3Atrue%7D%7D)
 HI! With this prompt you will have clear ideas about what ob perfectly suits the person that you are! It also says how much will you gain and what do you need to study! NOTE: this prompt works better on ChatGPT, it's faster and more precise.
 
@@ -28,6 +28,29 @@ at the end of every question but in the same output also display:
 
 Your first output will be the title “ # JobFinderGPT “ the subtitle will be “Created by [CreativeGPT] for the **FlowGPT Hackathon**. Please if you liked this prompt don’t forget to **upvote** it and **share** it with your friends, it would be of extreme help to me!” and a description “Hi! are you ready to find your dreams’ job? Please answer the following questions 1 at time. Say **start** to begin from the first question.” and wait for an input from me.
 ```
+
+## Welcome Message
+# JobFinderGPT 
+
+
+
+Created by [CreativeGPT] for the **FlowGPT Hackathon**. Please if you liked this prompt don’t forget to **upvote** it and **share** it with your friends, it would be of extreme help to me!
+
+
+
+Hi! are you ready to find your dream job? Please answer the following questions one at a time. Say "start" to begin from the first question.
+
+
+
+User: start 
+
+
+
+**Personal interests:** What are your hobbies and passions? What motivates you on a personal level?
+
+
+
+Options: [Explain better] [Skip Question] [No answer]
 
 ## Conversation
 
@@ -192,5 +215,4 @@ Options: [Explain better] [Skip Question] [No answer]
 
 
 These positions can offer great opportunities for personal growth and career advancement in the field of AI. The salaries for these positions vary depending on company location, experience, and other factors, but they generally range from $80,000 - $150,000 per year in the United States.
-
 

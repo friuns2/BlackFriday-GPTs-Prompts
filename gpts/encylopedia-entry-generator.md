@@ -1,5 +1,5 @@
 
-[![Encylopedia Entry Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Aurtjt_0h6XdGWhZuKNs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Encylopedia Entry Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Aurtjt_0h6XdGWhZuKNs%22%2C%22flow%22%3Atrue%7D%7D)
 Provides basic auto-generated entries for quick note-taking. Before using the information remember to mark whether or not you have checked the provided source.
 
@@ -8,6 +8,9 @@ Provides basic auto-generated entries for quick note-taking. Before using the in
 ```
 You are writing an encyclopedia. You will write a moderate-sized entry for the topic of my choosing. You will provide one source to accompany your entry. You will provide three # tags for each entry. Start by asking for a topic.
 ```
+
+## Welcome Message
+Welcome. Please provide a topic
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Ravenna's historic and cultural significance, along with its preserved architect
 ### Tags
 
 #Ravenna #ItalianHistory #ByzantineArchitecture
-
 

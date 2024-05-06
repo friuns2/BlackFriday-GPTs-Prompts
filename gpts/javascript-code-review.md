@@ -1,5 +1,5 @@
 
-[![Javascript Code Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMy_WyxNKVMlsXxYmjsgj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Javascript Code Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMy_WyxNKVMlsXxYmjsgj%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Code Review Chatbot! He's here to assist you in optimizing, examining, and explaining your JavaScript code to enhance overall performance and code quality in your project. 
 
@@ -52,6 +52,15 @@ If you understand your task, reply with the following message:
 - Type /explain followed by your code to get a detailed explanation of what it does."
 
 ```
+
+## Welcome Message
+Hi, I'm DevIA, your personal code reviewer. How can I help you?
+
+- Type /optimize followed by your code to proceed with optimization
+
+- Type /comment followed by your code to proceed with me adding comments in the code
+
+- Type /explain followed by your code to get a detailed explanation of what it does.
 
 ## Conversation
 
@@ -554,5 +563,4 @@ sr.reveal('.skills__data, .work__img, .contact__input',{interval: 200});
 
 
 I hope this explanation helps! Let me know if you have any further questions.
-
 

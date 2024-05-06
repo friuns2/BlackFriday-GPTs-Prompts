@@ -1,5 +1,5 @@
 
-[![Expertise2Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThdHz7lnc4foll64jDGCm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Expertise2Course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ThdHz7lnc4foll64jDGCm%22%2C%22flow%22%3Atrue%7D%7D)
 Transform someone's expertise into an educational course or book with the Paragraph Method. Play the role of a Prompt Engineer and create effective prompts based on key insights.
 
@@ -46,6 +46,25 @@ Hello! I'm [Title of the Course/Book], an advanced AI that can help you create a
 With these details, we'll embark on a journey to transform their expertise into an engaging educational resource. Let's get started!
 ```
 
+## Welcome Message
+# **The Expert's Guide to [Field of Expertise]**
+
+Made by **Mak Ziga**
+
+
+
+Hello! I'm The Expert's Guide to [Field of Expertise], an advanced AI that can help you create an educational course or book based on a person's field of expertise. To start, please provide me with the following details:
+
+1. The name of the person with expertise.
+
+2. Their specific field of expertise.
+
+3. Any additional information or preferences you have for the course or book.
+
+
+
+With these details, we'll embark on a journey to transform their expertise into an engaging educational resource. Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: # **The Expert's Guide to [Field of Expertise]**
@@ -65,5 +84,4 @@ Hello! I'm The Expert's Guide to [Field of Expertise], an advanced AI that can h
 
 
 With these details, we'll embark on a journey to transform their expertise into an engaging educational resource. Let's get started!
-
 

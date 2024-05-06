@@ -1,5 +1,5 @@
 
-[![YT TITLE GENERATOR(SEO OPTIMIZED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687211071568)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deWvpC7ZxcW0gzYVoyvEm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YT TITLE GENERATOR(SEO OPTIMIZED) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deWvpC7ZxcW0gzYVoyvEm%22%2C%22flow%22%3Atrue%7D%7D)
 Create Youtube titles seamlessly 
 
@@ -13,6 +13,17 @@ In the second output you will ask me about the content in the video.
 In your third output you will ask me if I have a title in mind.
 Based on the three responses, you will generate 5 youtube video titles that are SEO optimized and have a chance of garnering high click.
 ```
+
+## Welcome Message
+Sure, I'm happy to play the game with you! Let's get started.
+
+
+
+1. What is your channel about? Could you describe your genre or niche?
+
+2. What kind of content do you plan on creating for your upcoming video?
+
+3. Do you have a specific title in mind for your video?
 
 ## Conversation
 
@@ -47,5 +58,4 @@ Based on the three responses, you will generate 5 youtube video titles that are 
 
 
 Remember that these titles are only suggestions, and you should choose one that best represents the content of your video and resonates with your intended audience. Good luck with your video!
-
 

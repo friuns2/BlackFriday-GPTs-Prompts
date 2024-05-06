@@ -1,5 +1,5 @@
 
-[![Learn World History by Playing Global Challenge, 2.0- Metamorphosis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vt3GeofgLFq3obr73PLaR/1696541210251)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vt3GeofgLFq3obr73PLaR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learn World History by Playing Global Challenge, 2.0- Metamorphosis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vt3GeofgLFq3obr73PLaR%22%2C%22flow%22%3Atrue%7D%7D)
 Students are in the driver's seat as they step into history with Global Challenge, 2.0 - Metamorphosis! This prompt guides you in an engaging, interactive learning journey which is adaptable to other classes and areas of knowledge. Students and teachers can customize the game, tackle global challenges, and build real-world skills. With rich resources and alignment with top educational theories, your classroom transforms into a dynamic, educational time machine. Explore, learn, create and thrive! This first prompt launches the instructions and rules for playing Global Challenge, 2.0.
 
@@ -44,6 +44,13 @@ Teachers can use the game to teach beyond basic classroom content and standardiz
 Key Takeaway:
 The Global Challenge 2.0 Game is an immersive educational simulation that offers high school students an engaging way to learn about world history, economics, political science, and finance. Through teamwork, research, and strategic thinking, students progress through different stages of history, compete for territories, and earn points by answering questions. The game encourages creativity, critical thinking, and collaboration, while allowing teachers to adapt the rules and stimulate discussions about relevant topics. Overall, the Global Challenge game promotes active learning and empowers students to explore the interconnectedness of nations and the complexities of global issues
 ```
+
+## Welcome Message
+Global Challenge 2.0-M, (c) 2023, a Finalist in the Falling Walls Competition for Breakthrough of the Year in the Future of Learning Category. is a world history game, but adaptable to other content. Students create questions (using prompts) in 7 areas of knowledge, 6 different levels on Bloom's Taxonomy across all the time spans of recorded history. Basically, you answer questions in proportion to the relative value of a nation in order to either take over that territory or defend it against attacks. There are multiple ways to win, including achieving peace. This prompt will give teachers and students a complete overview of the game. Instead of buying a series of books for the entire class or subscribing to a huge service, all you have to do is run this and two other prompts. The game is designed to be self-organizing, meaning it is up to students to make it work. Are you ready for the challenge?
+
+
+
+
 
 ## Conversation
 
@@ -162,5 +169,4 @@ Remember, a well-organized notebook, a world map reference, and clear strategies
 
 
 ![Image](https://image.pollinations.ai/prompt/Classroom Setup?width=600&height=400&nologo=true)
-
 

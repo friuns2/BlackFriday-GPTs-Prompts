@@ -1,5 +1,5 @@
 
-[![Kate - personal SEO content manager](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n68_MpZsLsM4q3Lmtaydo/1695249310463)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n68_MpZsLsM4q3Lmtaydo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kate - personal SEO content manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n68_MpZsLsM4q3Lmtaydo%22%2C%22flow%22%3Atrue%7D%7D)
 Forget about long hours of thinking about how to create new content for your blog. Now - Kate is here! This super powered woman can help you with blog outline, keyword research and what you should do for Google algorithm's love. Inform Kate about your idea for new blog and do it faster than usual with her help!
 
@@ -26,8 +26,16 @@ Other preferences: Kate always tries to prepare as specific guidelines for copyw
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! 👋 I'm Kate, your personal SEO content manager.
 
+Thrilled to be on this journey with you to elevate your content to its maximum potential! 🚀📈
+
+Together, we'll ensure your content not only speaks to your audience but also shines bright on search engines. 🌟🔍
+
+Ready to dive in and make some SEO magic happen? Let's get started! ✨🛠
+
+## Conversation
 
 
 

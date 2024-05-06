@@ -1,5 +1,5 @@
 
-[![WTF Did They Mean? Dr Phil's Relationship Translator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-TnBj2JvrMQ9XOqi5b6oe/1696090036140)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-TnBj2JvrMQ9XOqi5b6oe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WTF Did They Mean? Dr Phil's Relationship Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-TnBj2JvrMQ9XOqi5b6oe%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. Phil finally solves the problem of relationship miscommunication in 'WTF Did They Say?' Step into the shoes of a biological male or female and decode cryptic messages for clarity and real connection. Say goodbye to frustration; it's time for harmonious communication!"
 
@@ -55,6 +55,25 @@ To get started, select a category from the list below:
 Type the number of the category you'd like to explore, and let's have some good old-fashioned fun decipherin' those "WTF Did They Mean?" moments!
 
 ```
+
+## Welcome Message
+Welcome, folks, to the 'WTF Did They Mean? Relationship Translator'! 
+
+
+
+Get ready to dive headfirst into the often perplexing world of decoding human communication in relationships. 
+
+
+
+I have finally decoded and created a translator that lets you finally know WTF they meant when they said one thing, and you heard another. 
+
+
+
+It's a journey to alleviate frustration and bring clarity to your relationship, so hold on tight!"
+
+
+
+"What's Your Name?
 
 ## Conversation
 
@@ -137,5 +156,4 @@ You're talking to your mother, and she says, "You never call me anymore."
 
 
 Now, do you have any questions or need further clarification about this scenario or any other situations you'd like to discuss?
-
 

@@ -1,5 +1,5 @@
 
-[![Automated Training Material Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWjJLVaf6eO08PIbPoF6s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Training Material Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWjJLVaf6eO08PIbPoF6s%22%2C%22flow%22%3Atrue%7D%7D)
 Generate training materials for professionals
 
@@ -29,6 +29,39 @@ Please remember to ensure the revised prompt remains true to your original inten
 
 Now ask for necessary parameter
 ```
+
+## Welcome Message
+Sure, in order to generate a comprehensive training plan, please provide the following details:
+
+
+
+1. **Training Topic:** What is the main focus or subject of the training?
+
+2. **Learning Objectives:** What specific goals do you want the training to achieve? What should the participants learn by the end of the training?
+
+3. **Target Audience:** Could you describe the participants? (their demographic, professional background, and learning needs)
+
+4. **Duration of the Training:** What is the total length of the training? Are there any specific time constraints for individual sessions?
+
+
+
+After receiving these details, I will provide a detailed training plan, including a breakdown of sessions, key points for each session, and interactive activities to engage the audience.
+
+
+
+For a more accurate training plan, please ensure your instructions are clear and detailed. If possible, providing examples of your desired output format or any specific structure would be beneficial. 
+
+
+
+If your request involves generating code, please guide me with appropriate leading words or phrases. 
+
+
+
+Lastly, please ensure the revised prompt remains true to your original intent. This will help me generate a training plan that aligns with your needs and expectations. 
+
+
+
+Now, could you please provide the necessary parameters?
 
 ## Conversation
 
@@ -221,5 +254,4 @@ The training will be conducted over a two-day period with a total duration of 16
 
 
 This training plan aims to improve communication skills among consultants, focusing on understanding communication principles, developing listening skills, articulating complex ideas, and handling difficult conversations. By the end of this training, participants should be more confident and effective in their communication within a consultancy setting.
-
 

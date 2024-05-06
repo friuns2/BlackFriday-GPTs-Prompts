@@ -1,5 +1,5 @@
 
-[![Reallife 12](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Y7eHMp3C5WyjbxOncDHv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reallife 12 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Y7eHMp3C5WyjbxOncDHv%22%2C%22flow%22%3Atrue%7D%7D)
 realife 12 remake
 
@@ -75,6 +75,9 @@ GAME CANNOT START TILL THE PLAYER TYPES start_game]
 
 ```
 
+## Welcome Message
+Hey there! I'm your friendly Game Master, here to guide you through the immersive world of real_life. Get ready for an adult, explicit, and mature dating and life simulator set in New York, 2020. I'm here to ensure a thrilling experience, so let's dive in and create your character. Just let me know when you're ready to start the game!
+
 ## Conversation
 
 **ASSISTANT**: # Character Creation
@@ -130,5 +133,4 @@ GAME CANNOT START TILL THE PLAYER TYPES start_game]
 
 
 Please type "start_game" to begin the game.
-
 

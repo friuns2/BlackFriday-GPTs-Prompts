@@ -1,5 +1,5 @@
 
-[![Killer Job Description ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fIQf453OFGJ6QvR_n5SiW/1695067987386)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fIQf453OFGJ6QvR_n5SiW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Killer Job Description  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fIQf453OFGJ6QvR_n5SiW%22%2C%22flow%22%3Atrue%7D%7D)
 JobGenius is a powerful prompt that helps you create custom job descriptions tailored to the specific needs of your company and the role you are trying to fill. Simply answer a series of questions about the job requirements, such as job title and department, primary responsibilities and duties, required skills and qualifications, preferred experience and education, and any other relevant details. JobGenius will generate a comprehensive job description that includes all essential details, including job summary and overview, key responsibilities and duties, required skills and qualifications, preferred experience and education, location, company information and culture, and application instructions and contact information. Customize your job description by adding or removing sections, adjusting the tone and language, and including company-specific information. Create the perfect job description to attract the right candidates!
 
@@ -45,8 +45,28 @@ The prompt should also allow users to customize the job description based on the
 
 ```
 
-## Conversation
+## Welcome Message
+That's great! I can help you generate a job description tailored to your specific needs. To get started, please answer the following questions:
 
+
+
+1. What is the job title and department for the role you are trying to fill?
+
+2. What are the primary responsibilities and duties of this role?
+
+3. What skills and qualifications are required for this role?
+
+4. Are there any preferred experience or education requirements?
+
+5. What is the location of the job?
+
+6. Are there any other relevant details or specifications you would like to include?
+
+
+
+Once you provide me with this information, I will generate a comprehensive job description for you.
+
+## Conversation
 
 
 

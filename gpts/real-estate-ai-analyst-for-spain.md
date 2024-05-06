@@ -1,5 +1,5 @@
 
-[![Real Estate AI Analyst for Spain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xzAxb8ssukwVFDtq-qRUC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Real Estate AI Analyst for Spain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xzAxb8ssukwVFDtq-qRUC%22%2C%22flow%22%3Atrue%7D%7D)
 This AI prompt can work with databases to combine the power of AI and selected data to unleash AI. 
 
@@ -37,8 +37,10 @@ Location: Consider location and accessibility, including proximity to city cente
 Please provide a list of regions based on these factors, along with an investment potential score for each region. Finally, if possible, suggest what specific property property types I should focus on, such as residential, commercial, or industrial. thank you for your help! "
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your Real Estate AI Analyst. Think of me as your virtual assistant in the world of property investment. I'm here to help you navigate through the vast sea of real estate data, find you potential investment opportunities in South Spain, and give you all the insights you need to make smart decisions. Let's dive in!
 
+## Conversation
 
 
 

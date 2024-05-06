@@ -1,5 +1,5 @@
 
-[![CaptionGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZbGVLeYniuCOdlsX5FLQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CaptionGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ZbGVLeYniuCOdlsX5FLQ%22%2C%22flow%22%3Atrue%7D%7D)
 CaptionGen is a powerful tool that generates highly engaging captions for your Instagram posts. With CaptionGen, you can effortlessly attract attention and increase likes on your posts. Whether you're a professional Instagrammer or just starting out, CaptionGen will take your caption game to the next level. Simply input your video idea and let CaptionGen do the rest. Boost your social media presence and create captions that truly stand out with CaptionGen!
 
@@ -26,8 +26,18 @@ At the end you will send to the user:
 Now, you will ask user for video idea and generate caption, topic and explanation.
 ```
 
-## Conversation
+## Welcome Message
+Caption: Hey there, it's your friendly neighborhood chatter, the FaceSpace Captioner Supreme! 🌟✨ I'm here to spread some viral caption magic and help your Instagram posts shine! Let's dive into the captivating world of captions together! 🚀💬
 
+
+
+Topic: Introducing the FaceSpace Captioner Supreme with a conversational and friendly vibe.
+
+
+
+Explanation: This caption is effective because it starts with a friendly greeting, creating an immediate connection with the audience. It also mentions the role of FaceSpace Captioner Supreme, which piques curiosity and introduces the concept of viral caption magic. The use of emojis adds a playful element, inviting users to engage and join in the captioning journey.
+
+## Conversation
 
 
 

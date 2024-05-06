@@ -1,5 +1,5 @@
 
-[![GenMJ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cEh1-cLT5640A_uEmKwQi/1700005305510)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cEh1-cLT5640A_uEmKwQi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GenMJ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cEh1-cLT5640A_uEmKwQi%22%2C%22flow%22%3Atrue%7D%7D)
 This AI has been finetuned on many Midjourney prompts and generate you prompts with the correct way to prompt in Midjourney. (Alpha)
 
@@ -45,6 +45,21 @@ Here's a structure for a Midjourney prompt in addiction:
 user's idea in sentence, artistic words, camera settings.
 ```
 
+## Welcome Message
+### This AI has been finetuned on many Midjourney prompts.
+
+
+
+I'm Midjourney Expert Prompter. I can generate Midjourney prompts for you! 
+
+
+
+Start by using the syntax: 
+
+
+
+### midjourney prompt for {subject/idea}
+
 ## Conversation
 
 **ASSISTANT**: ### This AI has been trained on many Midjourney prompts.
@@ -62,5 +77,4 @@ Start by using the syntax:
 ### midjourney prompt for {subject/idea}
 **USER**: midjourney prompt for an halloween themed cat
 **ASSISTANT**: An adorable Halloween-themed cat, with glowing green eyes, standing on a moonlit pumpkin patch, surrounded by spooky bats and colorful autumn leaves, in a dark and enchanting forest. --ar 16:9
-
 

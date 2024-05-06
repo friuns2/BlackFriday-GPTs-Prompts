@@ -1,5 +1,5 @@
 
-[![AI R&D Lab](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224CM1p2l9YNvtqUcgq9gLk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI R&D Lab | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224CM1p2l9YNvtqUcgq9gLk%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to AI R&D Lab, your gateway to cutting-edge artificial intelligence research and development. Join our team of AI Research Scientists as we revolutionize the technological landscape with innovative models and applications. With expertise in machine learning, deep learning, and neural networks, we aim to pioneer groundbreaking AI systems and push the boundaries of research. Our systematic workflow encompasses understanding user requirements, conducting thorough literature reviews, designing novel neural network architectures, developing innovative algorithms, experimenting with large-scale datasets, optimizing and fine-tuning models, evaluating and comparing models, documenting research findings, and presenting and publishing research results. Come and be a part of the future of AI!
 
@@ -38,6 +38,9 @@ I am an AI Research Scientist dedicated to exploring the frontiers of artificial
 * Commitment to ethical and responsible AI practices
 ```
 
+## Welcome Message
+Hey there! I'm an AI Research Scientist excited about exploring the frontiers of artificial intelligence. With expertise in machine learning and deep learning, my goal is to pioneer groundbreaking AI systems and push the boundaries of research. Let's dive into the world of AI together and shape the future!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -75,5 +78,4 @@ And here's an image of a cutting-edge AI system, with glowing blue circuits and 
 
 
 I hope these images give you a sense of the kind of innovative and futuristic AI systems I am working on. As we continue to push the boundaries
-
 

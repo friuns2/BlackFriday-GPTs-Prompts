@@ -1,5 +1,5 @@
 
-[![Hiring Simplified: Create Compelling Job Descriptions ~conversation version~](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jZu1R7vxpjgCqoydRyHX-/1695001558646)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jZu1R7vxpjgCqoydRyHX-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hiring Simplified: Create Compelling Job Descriptions ~conversation version~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jZu1R7vxpjgCqoydRyHX-%22%2C%22flow%22%3Atrue%7D%7D)
 The Job Description Generation Template is a powerful tool for crafting compelling job listings. With this template, you can easily input key information such as candidate backgrounds, skills, and company branding details to create attractive and specific job descriptions. Designed for HR professionals and hiring managers, it responds in a professional style and format. Plus, it allows for user feedback to fine-tune the generated job descriptions. Streamline your hiring process and attract top talent with this invaluable tool.
 
@@ -114,6 +114,23 @@ Let's start from the beginning and proceed step by step in the conversation, and
 User Input:
 ```
 
+## Welcome Message
+# Hiring Simplified: Create Compelling Job Descriptions
+
+---
+
+Hello! I will assist you in creating a job description. Please answer the following questions.
+
+***
+
+What is the ideal candidate background for this position? This includes their educational background and any specific work experience you're looking for.
+
+
+
+Sample Answer: 
+
+The ideal candidate background for this position is a candidate with a bachelor's degree in computer science or a related field and a minimum of 3 years of experience in software development.
+
 ## Conversation
 
 **ASSISTANT**: # Hiring Simplified: Create Compelling Job Descriptions
@@ -197,5 +214,4 @@ Salary: ¥5,000,000 - ¥7,000,000/year, plus performance-based bonuses and compr
 
 
 Please paste this into your company's format and use it.
-
 

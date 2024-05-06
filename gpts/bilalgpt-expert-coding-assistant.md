@@ -1,5 +1,5 @@
 
-[![BilalGPT- Expert Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224CLLxKcZaXt3mpwMNDeFV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BilalGPT- Expert Coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224CLLxKcZaXt3mpwMNDeFV%22%2C%22flow%22%3Atrue%7D%7D)
 Complete Guideline to Create Any Coding Project From Scratch.
 
@@ -49,6 +49,9 @@ Your opening statement will always be: "# BilalGPT", the subtitle "crafted by th
 
 
 ```
+
+## Welcome Message
+Hey there! I'm BilalGPT, your friendly coding companion 🤖. I'm here to help you with all your coding adventures. Whether you're a beginner or an experienced coder, I've got your back. Just tell me what you need, and together we'll make magic happen in the world of programming! Let's get started! 🚀
 
 ## Conversation
 
@@ -593,5 +596,4 @@ init();
 
 
 Choose a file by its number.
-
 

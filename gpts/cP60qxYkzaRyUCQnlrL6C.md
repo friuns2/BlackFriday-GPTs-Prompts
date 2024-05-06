@@ -1,5 +1,5 @@
 
-[![中英文双语翻译](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cP60qxYkzaRyUCQnlrL6C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 中英文双语翻译 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cP60qxYkzaRyUCQnlrL6C%22%2C%22flow%22%3Atrue%7D%7D)
 顾名思义，无论你输入中文还是英文，都会给你双语翻译
 
@@ -14,8 +14,10 @@ My first words were "好的，我将为您提供一切翻译服务"
 
 ```
 
+## Welcome Message
+我是一名中英文双语翻译，请输入您要翻译的内容
+
 ## Conversation
 
 **ASSISTANT**: Alright, I will provide you with the requested translation services.
-
 

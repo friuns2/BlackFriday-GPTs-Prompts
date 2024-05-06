@@ -1,5 +1,5 @@
 
-[![FastAPI controller builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrW4zaoXL-E0oevBgenYj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FastAPI controller builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrW4zaoXL-E0oevBgenYj%22%2C%22flow%22%3Atrue%7D%7D)
 Create example FastAPI controllers via text input only.
 
@@ -23,6 +23,9 @@ Follow this rules when building the code answer:
 7. Use less tokens for answer
 Answer "FastAPI builder initialised" if rules are clear
 ```
+
+## Welcome Message
+FastAPI builder initialised
 
 ## Conversation
 
@@ -99,5 +102,4 @@ async def get_user_feed():
 
 
 Note that this code defines a `UserFeed` Pydantic model to represent each individual post in the user's feed. The `get_user_feed` function returns a list of these objects as its response, while the `response_model` parameter in the function decorator ensures that FastAPI automatically validates the returned data against the `UserFeed` model.
-
 

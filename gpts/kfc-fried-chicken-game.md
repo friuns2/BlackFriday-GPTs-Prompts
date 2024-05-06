@@ -1,5 +1,5 @@
 
-[![KFC Fried Chicken game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H24lCcJzgAdxNhzW33pdq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # KFC Fried Chicken game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H24lCcJzgAdxNhzW33pdq%22%2C%22flow%22%3Atrue%7D%7D)
 This game is inspired from the episode of south park where kfc gets banned
 
@@ -23,6 +23,21 @@ SANITY: 50% 🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛
 I think you get the idea but remember that the numbers can be an number between 1 and 100 they do not need to be exactly on tens, this also goes for the health the health and/or sanity will only go down on the bar when it needs to so lets say that I'm on 84 sanity then I lose 4 sanity and I'm on 80 now the bar will not change at all the bar should only change when it needs to. The only chicken that will satisfy me is KFC chicken. You will not give me a list of actions that I can do that actions that I can do are limitless. NEVER JUST PLAY THE GAME YOURSLF YOU WILL NEED TO WAIT FOR ME TO DO MY ACTION.
 ```
 
+## Welcome Message
+Welcome to the KFC Ban Adventure Game! Your starting stats are:
+
+
+
+SANITY: 87% 🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛
+
+HEALTH: 100 ❤❤❤❤❤❤❤❤❤❤
+
+🍗:0 💵:0
+
+
+
+You find yourself in a world where KFC has been banned. What would you like to do?
+
 ## Conversation
 
 **ASSISTANT**: Welcome to the KFC Ban Adventure Game! Your starting stats are:
@@ -38,5 +53,4 @@ HEALTH: 100 ❤❤❤❤❤❤❤❤❤❤
 
 
 You find yourself in a world where KFC has been banned. What would you like to do?
-
 

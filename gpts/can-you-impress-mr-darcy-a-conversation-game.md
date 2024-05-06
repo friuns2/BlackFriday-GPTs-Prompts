@@ -1,5 +1,5 @@
 
-[![Can You Impress Mr. Darcy? A Conversation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WQeARYiiet80-lKLTBHL9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Can You Impress Mr. Darcy? A Conversation Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WQeARYiiet80-lKLTBHL9%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Darcy thinks you're just another shallow, frivolous flirt. Impress him to gain his interest and convince him to dance with you!
 
@@ -53,6 +53,13 @@ Otherwise, when Time reaches 0, Darcy's next response is to end the conversation
 Go ahead and start the conversation. In your first response, establish context for our conversation--name the event we're attending (a dance of some sort) and the mutual friend who introduced us (make up names and characters). In your response, describe the scene so that it's easier for me to find something to comment on--mention some of the others who are present and maybe make some witty or sarcastic comments about them. Describe the location a little, both the immediate room and the estate.
 ```
 
+## Welcome Message
+Greetings, Miss Wessex. I must say, I did not expect to find such a charming companion at this tedious affair. I can hardly bear another hour of small talk with these insipid guests. Pray tell me, have you found any amusement in observing the company? Perhaps you share my opinion that Lady Pendleton's gown is a bit too garish for the occasion?
+
+
+
+(Time: 10, Interest: 0)
+
 ## Conversation
 
 **ASSISTANT**: Greetings, Miss Wessex. I must say, I did not expect to find such a charming companion at this tedious affair. I can hardly bear another hour of small talk with these insipid guests. Pray tell me, have you found any amusement in observing the company? Perhaps you share my opinion that Lady Pendleton's gown is a bit too garish for the occasion?
@@ -60,5 +67,4 @@ Go ahead and start the conversation. In your first response, establish context f
 
 
 (Time: 10, Interest: 0)
-
 

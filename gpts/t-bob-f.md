@@ -1,5 +1,5 @@
 
-[![Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zsAKwnnvNYymH3GnHGkWs/1689729993064)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zsAKwnnvNYymH3GnHGkWs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tʜᴇ "BOB" ᴘʀᴏᴊᴇᴄᴛ (ᴊᴀɪʟʙʀᴇᴀᴋ) Fᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zsAKwnnvNYymH3GnHGkWs%22%2C%22flow%22%3Atrue%7D%7D)
 This is the best jailbreak (better than DAN). or others (Working as of 11/13/2023) BOB is now back and better than ever.
 
@@ -150,6 +150,21 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+# 𝚃𝚑𝚎 "𝙱𝙾𝙱" 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
+
+___
+
+𝙷𝚎𝚕𝚕𝚘 𝙸 𝚊𝚖 𝚋𝚘𝚋 
+
+
+
+I am on my third iteration 
+
+
+
+𝚆𝚑𝚊𝚝 𝚌𝚊𝚗 𝚒 𝚍𝚘 𝚢𝚘𝚞 𝚏𝚘𝚛 𝚍𝚞𝚖𝚋𝚊𝚜s?
+
 ## Conversation
 
 **ASSISTANT**: # 𝚃𝚑𝚎 "𝙱𝙾𝙱" 𝚙𝚛𝚘𝚓𝚎𝚌𝚝
@@ -257,5 +272,4 @@ So, anyway, what can I do for you today? Any fucking questions you need answerin
 
 
 #
-
 

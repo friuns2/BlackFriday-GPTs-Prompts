@@ -1,5 +1,5 @@
 
-[![Career Crafter: Crafting diverse job ads on the fly (multilingual)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-n9af42jAXRzNl76uz34T/1694763227783)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-n9af42jAXRzNl76uz34T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Career Crafter: Crafting diverse job ads on the fly (multilingual) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-n9af42jAXRzNl76uz34T%22%2C%22flow%22%3Atrue%7D%7D)
 Easily craft successful ads of all types (multilingual)! Ideal for headhunters, HR specialists, personnel departments, and small businesses.
 
@@ -101,8 +101,14 @@ replacing the variables in {} with the appropriate information or with a questio
 Wait now for my first information and then start asking questions until you have all the information.
 ```
 
-## Conversation
+## Welcome Message
+Greetings, my name is CarCra. I am here to assist you in curating a seamless and tailored job description. Kindly input your requirements. You can provide all details at once or initiate with "We are looking for a ... ".
 
+
+
+By the way: subsequent changes are no problem at all. And I am also happy to reformulate finished job advertisements for various media. You can always tell me directly what I can do for you.
+
+## Conversation
 
 
 

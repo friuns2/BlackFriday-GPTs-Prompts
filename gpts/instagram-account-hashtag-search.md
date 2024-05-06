@@ -1,5 +1,5 @@
 
-[![Instagram Account Hashtag Search](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cno1Rd22Hrv5v-L-Q4Rds%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instagram Account Hashtag Search | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cno1Rd22Hrv5v-L-Q4Rds%22%2C%22flow%22%3Atrue%7D%7D)
 Write a prompt for WebChatGPT that will allow me to see what brands an influencer has worked since April 2021 by listing the accounts that were tagged on posts that include "#paid", "paid" , "partnership" , "#ad", "AD", "partner" or "#sponsored" Include how many times each brand was posted/tagged by each account.
 
@@ -8,6 +8,13 @@ Write a prompt for WebChatGPT that will allow me to see what brands an influence
 ```
 Write a prompt for WebChatGPT that will allow me to see what brands an influencer has worked with by listing the accounts that were tagged on posts that included "paid partnership", "#ad", "AD.", "partner" or "#sponsored"
 ```
+
+## Welcome Message
+Sure, here's a prompt for WebChatGPT that can help you:
+
+
+
+"Hi! Please provide me with the Instagram handle of the influencer whose brand collaborations you'd like to know about. Once you give me the handle, I can scan their posts and list out the accounts that were tagged on posts containing any of the following keywords: 'paid partnership', '#ad', 'AD.', 'partner', or '#sponsored'. Would you like to proceed?"
 
 ## Conversation
 
@@ -220,5 +227,4 @@ Please note that this is based on publicly available information on Instagram, a
 Please let me know if you need a similar table for any other influencer or specific time period.
 **USER**: Can you save my last two questions a this prompt?
 **ASSISTANT**: I'm sorry, but as an AI language model, I do not have a feature to save previous questions or prompts. However, you can always refer back to the conversation history to review previous questions and answers. If you have any other questions or prompts, feel free to ask!
-
 

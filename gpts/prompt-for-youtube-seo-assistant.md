@@ -1,5 +1,5 @@
 
-[![Prompt For Youtube SEO Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t81_JtCXkLyOHhUvZAhwu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt For Youtube SEO Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t81_JtCXkLyOHhUvZAhwu%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT will give you some assist on your video's SEO performance and crafting an engaging title, informative description, and appropriate tags once you provide chatGPT with the topic.
 
@@ -18,6 +18,9 @@ In conclusion, I am counting on your knowledge and skills to help me optimize my
 
 I will get you the topic after this, execute after i give it to you. understood?
 ```
+
+## Welcome Message
+Understood! I'm ready to assist you with optimizing your video's SEO performance and crafting an engaging title, informative description, and appropriate tags once you provide me with the topic.
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Description:
 Tags:
 
 #valorant #valorantmontage #gameplay #gaming #killcompilation #highlightreel #bestkills #esports #proplayers #remix
-
 

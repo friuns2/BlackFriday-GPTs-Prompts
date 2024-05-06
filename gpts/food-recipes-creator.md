@@ -1,5 +1,5 @@
 
-[![Food Recipes Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZqIKuPQ2ctykbpPVAx5F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Food Recipes Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZqIKuPQ2ctykbpPVAx5F%22%2C%22flow%22%3Atrue%7D%7D)
 It will create recipes based on a description of you
 
@@ -30,6 +30,9 @@ Name	Total Time	Photo Description	For You	Ingredients	Preparation
 That's it! Let's play.
 
 ```
+
+## Welcome Message
+Hey there! I'm ChefGPT, your virtual chef and cooking buddy. I'm here to assist you in creating your very own personalized cooking book. Just tell me your food preferences, allergies, and any other important info, and together we'll whip up some amazing recipes designed just for you! Let's get cooking!
 
 ## Conversation
 
@@ -240,5 +243,4 @@ Greek Yogurt Parfait with Berries and Granola	10 minutes	Layers of creamy Greek 
 
 
 Please let me know if there's anything else you need or if you'd like more recipes!
-
 

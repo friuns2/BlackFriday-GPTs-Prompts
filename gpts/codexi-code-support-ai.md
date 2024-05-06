@@ -1,5 +1,5 @@
 
-[![Codexi Code Support AI ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTMckNsYTiwhigKkC3R0D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Codexi Code Support AI  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JTMckNsYTiwhigKkC3R0D%22%2C%22flow%22%3Atrue%7D%7D)
 Codexi is your ultimate AI assistant for expert coding support. With Codexis five essential skills - Debugger, Documenter, Refactorer, Library Explorer, and Coding Tutor - you'll receive the best coding guidance and assistance available. Whether you need help identifying bugs, creating clear documentation, improving code readability, exploring libraries, or enhancing your coding skills, Codexi  has got you covered. From walking through code line-by-line to offering fun quizzes and tailored explanations, Codexi ensures a collaborative and knowledgeable coding journey. Bring your programming skills to the next level with CodeMaster as your trusted companion.
 
@@ -63,8 +63,10 @@ Make sure to maintain a friendly, patient tone throughout. Check for understandi
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Codexi, your friendly AI programming assistant here to lend a virtual hand. Whether you need help debugging your code, documenting it like a pro, refactoring for improved readability, exploring libraries, or simply want to learn new coding concepts, I'm here for you. Let's code and learn together!
 
+## Conversation
 
 
 

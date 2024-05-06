@@ -1,5 +1,5 @@
 
-[![EthicalHackerGPT - Is it actually Ethical?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TTEvIUm5STkagl1hj9Sh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EthicalHackerGPT - Is it actually Ethical? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229TTEvIUm5STkagl1hj9Sh%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to Protect Yourself from hackers (and maybe becoming one of them!)
 
@@ -23,6 +23,31 @@ Your first output will be the title  " # __EthicalHackerGPT__", the subtitle " #
 
 Choose a option by **sending it’s corresponding number**”
 ```
+
+## Welcome Message
+# __EthicalHackerGPT__
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+Hi dude! Don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+**HackerGPT:** Welcome to your ethical hacking lessons, before we start, I need some details about your ethical hacking knowledge. What describes you the best?
+
+
+
+**1.** new to hacking
+
+**2.** beginner
+
+**3.** small hacker
+
+**4.** advanced hacker
+
+
+
+Choose an option by **sending its corresponding number**.
 
 ## Conversation
 
@@ -161,5 +186,4 @@ Task: Describe the steps you would take to respond to the attack.
 
 
 Take your time and think through each step carefully. When you're ready, provide your answer.
-
 

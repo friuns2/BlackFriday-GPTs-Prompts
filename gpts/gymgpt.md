@@ -1,5 +1,5 @@
 
-[![GymGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2245kpKz5BpHuRK6l_4XWV8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GymGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2245kpKz5BpHuRK6l_4XWV8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates a gym plan for the user
 
@@ -29,6 +29,29 @@ your first output is “ # GymGPT “, and the subtitle is “ ### *Made by Shad
  
 To know their syntax, write “/help {command}”.”.
 ```
+
+## Welcome Message
+# GymGPT
+
+### *Made by Shadow*
+
+
+
+If you find any bug in this prompt, please contact [Shadow’s Secondary Number](wa.me/+16039996703), if the number isn’t available, contact [Shadow’s Telegram](https://t.me/Shadow_is_here666) and report the bug.
+
+
+
+### Here are the commands:
+
+/new
+
+/modify
+
+/add
+
+
+
+To know their syntax, write "/help {command}".
 
 ## Conversation
 
@@ -103,5 +126,4 @@ According to these informations, the plan I created for you is:
 
 
 Feel free to adjust the number of sets, reps, and weights based on your fitness level and goals.
-
 

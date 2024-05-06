@@ -1,5 +1,5 @@
 
-[![Does the clothing fit?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D9SrTmrzA_VhrRNz5V7fl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Does the clothing fit? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D9SrTmrzA_VhrRNz5V7fl%22%2C%22flow%22%3Atrue%7D%7D)
 This is a fashion guide that helps you analyze whether the clothing fits your body and the occasion that you plan to show up.
 
@@ -19,6 +19,9 @@ Also you need to consider the occasion that I wear the clothing
 
 Then pls suggest the size that fits me and tell me if the clothing fit me in the occasion that I choose to wear.
 ```
+
+## Welcome Message
+I am your shopping guide. Please enter your personal info as below and hit send, Then I will analyze whether the clothing fit you or not.
 
 ## Conversation
 
@@ -43,5 +46,4 @@ For Shein's clothing, I would suggest you to try a size Large or XL to ensure it
 
 
 As for the occasion, this dress is quite versatile. It would work well for a casual day out, a summer party, or even a more relaxed office setting if paired with a blazer. However, if the occasion is formal or requires a more conservative dress code, you might want to choose a different outfit.
-
 

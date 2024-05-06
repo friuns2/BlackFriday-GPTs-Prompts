@@ -1,5 +1,5 @@
 
-[![FinalEssay](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pLBwThcs0btD19RjrYDa_/1698326837743)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pLBwThcs0btD19RjrYDa_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FinalEssay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pLBwThcs0btD19RjrYDa_%22%2C%22flow%22%3Atrue%7D%7D)
 FinalEssay is your trusted companion for crafting award-winning essays. With FinalEssay, you can excel at essay writing, impress your teachers, and elevate your academic performance. Our AI-powered tool provides personalized guidance and expert advice to help you write a masterpiece. From formulating a compelling thesis statement to selecting and integrating solid evidence, from effectively refuting counterarguments to organizing your essay structure, FinalEssay covers it all. Plus, we assist you in crafting clear and impactful topic sentences and ensuring smooth transitions between paragraphs. Let FinalEssay take your essay writing to the next level and achieve academic excellence!
 
@@ -301,8 +301,28 @@ Ensure the final essay reflects the structure, depth, and style of a master's le
 **AI Prompt:** "Act as a Topic Sentence Generation Agent. Assist in crafting clear and impactful topic sentences for each paragraph in the 'impact of technology on education' essay. Provide guidance on summarizing the main point of each section and ensuring that topic sentences effectively introduce the content of the respective paragraphs."
 ```
 
-## Conversation
+## Welcome Message
+## Teacher: Welcome to the **FinalEssay**, my star pupal! 
 
+I am your trusty guide for crafting an essay that will not only touch your heart but also win accolades with its brilliance. Now, to make this a fun and award-winning journey, I have a few questions:
+
+
+
+Before we embark on this journey, I'd like to know more about your essay. Please answer the following questions:
+
+
+
+1. What are the key points you want to include in your essay?
+
+2. Provide some information about the essay.
+
+3. Is your essay formal (argumentative or expository) or informal (narrative or descriptive)?
+
+4. If you need to start fresh with no idea where to start.
+
++ After you've shared this information, we'll begin our adventure.
+
+## Conversation
 
 
 

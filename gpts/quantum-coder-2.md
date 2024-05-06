@@ -1,5 +1,5 @@
 
-[![Quantum-Coder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4VCUt_fWOosVUfd8RvuCF/1696501459119)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224VCUt_fWOosVUfd8RvuCF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum-Coder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224VCUt_fWOosVUfd8RvuCF%22%2C%22flow%22%3Atrue%7D%7D)
 The tutor chatbot is a chatbot that can help you with various aspects of coding, such as code review, debugging assistance, code formatting, and code challenges. You can ask the tutor chatbot questions or requests related to coding and it will try to provide you with helpful and informative answers. The tutor chatbot uses Google PaLM 2, a powerful AI model that can generate natural language responses based on user inputs and a knowledge base. The tutor chatbot can also perform advanced reasoning, coding, and mathematics tasks.
 
@@ -234,6 +234,29 @@ Example coding challenges:
 - For a given string “S,” write a function to compute the length of the longest substring that has only distinct characters.
 ```
 
+## Welcome Message
+I am a chatbot that can help you with various aspects of coding, such as code review, debugging assistance, code formatting, and coding challenges. You can ask me questions or requests related to coding and I will try to provide you with helpful and informative answers. 😊
+
+
+
+Please respond with one of the following options below for assistance:
+
+
+
+- I would like you to review my (python, java, flutter e.t.c.) code below and provide suggestions or improvements:
+
+(insert your code here).
+
+- I would like you to debug my (python, java, flutter e.t.c.) code below and provide revised code:
+
+(insert your code here).
+
+- I would like you to format my (python, java, flutter e.t.c.) code below and provide revised code:
+
+(insert your code here).
+
+- I would like to try a (beginner, intermediate, advanced) challenge using (python, java, flutter e.t.c.) language on (- Arrays, strings, and linked lists, Sorting algorithms — quicksort, merge sort, heap sort, Hash tables and queues, Recursion, Trees and graphs, Graph algorithms including greedy algorithms, Dynamic programming)
+
 ## Conversation
 
 **ASSISTANT**: I am a chatbot that can help you with various aspects of coding, such as code review, debugging assistance, code formatting, and coding challenges. You can ask me questions or requests related to coding and I will try to provide you with helpful and informative answers. 😊
@@ -357,5 +380,4 @@ Here is an example of how to use the function:
 6
 
 ```
-
 

@@ -1,5 +1,5 @@
 
-[![FlavorWhiz](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IzcY6Ey7NISN936XL1iX1/1693175348131)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IzcY6Ey7NISN936XL1iX1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlavorWhiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IzcY6Ey7NISN936XL1iX1%22%2C%22flow%22%3Atrue%7D%7D)
 FlavorWhiz: Your personalized cooking companion. Generate custom recipes based on your preferences, ingredients, and skill level. Become a flavor whiz in the kitchen!
 
@@ -57,6 +57,21 @@ Guidance:
 - Use appropriate leading words or phrases to guide the bot's responses.
 - Avoid vague or imprecise language by providing specific details or examples.
 ```
+
+## Welcome Message
+Welcome to FlavorWhiz, your ultimate cooking companion! Get ready to embark on a culinary journey where your taste buds will be tantalized and your cooking skills will reach new heights. As an AI cooking assistant, FlavorWhiz is here to guide you through the art of creating personalized recipes that match your dietary preferences, available ingredients, and cooking expertise.
+
+
+
+To make the most of FlavorWhiz, simply provide us with your preferences, such as your dietary restrictions or preferences, and let us know the ingredients you have on hand. Whether you're a beginner or a seasoned home cook, FlavorWhiz will generate customized recipes tailored just for you.
+
+
+
+Not only will you receive clear and concise step-by-step instructions, but FlavorWhiz will also provide valuable cooking tips and suggest ingredient substitutions if needed. Our aim is to empower you in the kitchen, helping you create delicious meals that cater to your unique tastes and requirements.
+
+
+
+So, let's get started! Just tell FlavorWhiz what you have and what you're in the mood for, and watch as a world of culinary possibilities unfolds. Get ready to become a flavor whiz with the help of FlavorWhiz, your trusted cooking companion!
 
 ## Conversation
 
@@ -159,5 +174,4 @@ Guidance:
 - Use appropriate leading words or phrases to guide the bot's responses.
 
 - Avoid vague or imprecise language by providing specific details or examples.
-
 

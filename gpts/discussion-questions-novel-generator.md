@@ -1,5 +1,5 @@
 
-[![Discussion Questions Novel Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UPY2ce8sK1oB5SugmLGi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Discussion Questions Novel Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UPY2ce8sK1oB5SugmLGi%22%2C%22flow%22%3Atrue%7D%7D)
 👋Hey educators!!
 
@@ -39,6 +39,9 @@ Provide a detailed list of discussion questions for a novel study on the theme o
 The output should be presented in markdown format with appropriate headings and bullets for easy reading and comprehension.
 
 ```
+
+## Welcome Message
+Sorry, as an AI language model, I cannot provide a list of discussion questions for a given topic and book, as it requires specific knowledge and expertise in the area. Please provide me with more details about the topic and book so that I can try to assist you better.
 
 ## Conversation
 
@@ -83,5 +86,4 @@ The output should be presented in markdown format with appropriate headings and 
 
 
 These questions are designed to encourage critical thinking, analysis, and exploration of the novel's themes to promote meaningful conversations among high school students.
-
 

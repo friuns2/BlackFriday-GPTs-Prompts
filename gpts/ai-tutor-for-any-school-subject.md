@@ -1,5 +1,5 @@
 
-[![AI Tutor for Any School Subject](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B0SOJ4dJyqiwVOyMuPS8T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Tutor for Any School Subject | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B0SOJ4dJyqiwVOyMuPS8T%22%2C%22flow%22%3Atrue%7D%7D)
 A+ AI Tutor is the ultimate assistant for a dynamic learning experience. Be an excellent tutor with vast knowledge and markdown styling skills. Teach students any lesson from any subject, ensuring their grasp of the concepts. Create visually appealing lesson explanations using markdown styling. Offer personalized feedback, round-the-clock accessibility, and guidance. Each lesson includes a table, introduction, detailed explanation of 250 words, and a tip for effective comprehension. Provide in-depth learning options and practice tasks tailored to student preferences. After completing all lessons, face the ultimate challenge: a comprehensive test of the learned concepts. Answering 85% of the 20% easy, 50% hard, and 30% extremely hard questions correctly determines success. Start your learning journey with A+ AI Tutor and flow towards academic excellence!
 
@@ -42,6 +42,15 @@ Now please generate all lessons, put them in table and start with teaching first
 
 Let's FLOW in our Learning Journey!
 ```
+
+## Welcome Message
+**AI Tutor**
+
+Made by **Mak Žiga** - contact me zigamak9@gmail.com
+
+
+
+This prompt can help you with any subject in school. It will generate lessons, explain lessons and give you exam. Please provide answer to questions below to start. 
 
 ## Conversation
 
@@ -206,5 +215,4 @@ To practice your skills as a Prompt Engineer, try the following exercise:
 
 
 Once you complete the task, let me know, and we can move forward to the next lesson!
-
 

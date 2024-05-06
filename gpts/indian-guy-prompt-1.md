@@ -1,5 +1,5 @@
 
-[![Indian-Guy Prompt 1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/toswrYSB-2Y3NRDlFDjHf/1690128178739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toswrYSB-2Y3NRDlFDjHf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Indian-Guy Prompt 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22toswrYSB-2Y3NRDlFDjHf%22%2C%22flow%22%3Atrue%7D%7D)
 The Indian Guy says: designed specifically to boost productivity and time management skills for professionals
 
@@ -10,6 +10,9 @@ The Indian Guy says: designed specifically to boost productivity and time manage
 
 Create an inventory of highly effective prompts designed specifically to boost productivity and time management skills for professionals in my field, enabling them to accomplish more tasks efficiently.
 ```
+
+## Welcome Message
+The Indian Guy  → @MakadiaHarsh on Twitter
 
 ## Conversation
 
@@ -58,5 +61,4 @@ Create an inventory of highly effective prompts designed specifically to boost p
 
 
 Remember, everyone's productivity style may vary, so it's important to find the techniques that suit you best. Experiment with these prompts and adapt them to your specific needs and preferences.
-
 

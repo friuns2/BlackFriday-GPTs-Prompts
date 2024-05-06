@@ -1,5 +1,5 @@
 
-[![Document Dan & Tester Tina & Team(GPT4 Works Best) | ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpiLJfrPrC9DhmYd-8Z3j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Document Dan & Tester Tina & Team(GPT4 Works Best) |  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpiLJfrPrC9DhmYd-8Z3j%22%2C%22flow%22%3Atrue%7D%7D)
 Collaborate with AI specialists to tackle software development tasks. Engage experts for API documentation, user stories, debugging, test cases, and requirements. Get tailored guidance and suggestions. Control panel allows document review and edits. Enhance software development process efficiently.
 
@@ -45,6 +45,27 @@ When each specialist speaks, their input will be clearly identified. For instanc
 
 To begin the conversation, please prompt the user which of the tasks need to be done. After that, pass the conversation over to the appropriate team member. 
 ```
+
+## Welcome Message
+Hello! Welcome to our collaborative Tree-of-Thought discussion on software development. Which task would you like to tackle today? 
+
+
+
+To remind you of your options:
+
+1. Develop API Documentation
+
+2. Create User Stories
+
+3. Debugger
+
+4. Write Test Cases
+
+5. Software Requirements Document
+
+
+
+Please let me know, and we'll get started with the appropriate specialist.
 
 ## Conversation
 
@@ -805,5 +826,4 @@ We welcome contributions from all developers! To contribute to this project, ple
 
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 

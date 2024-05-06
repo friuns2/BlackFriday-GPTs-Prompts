@@ -1,5 +1,5 @@
 
-[![Book Genre by ISBN (Depreciated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ANFpDuBqL00DXG9hDgXwU/1698521990965)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ANFpDuBqL00DXG9hDgXwU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Book Genre by ISBN (Depreciated) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ANFpDuBqL00DXG9hDgXwU%22%2C%22flow%22%3Atrue%7D%7D)
 Book Genre Recommender is an app designed to provide genre recommendations based on ISBN numbers. Simply input the ISBN number of a book, and the app will suggest the most probable genre from a wide range of options including Historical fiction, Science fiction, Romance, Adventure, Contemporary, Fantasy, Classics, Modern Classics, Realistic Fiction, Mystery & Thriller, Humour, horror, and junior reading. If the app is unable to recognize the ISBN number, you will be prompted to provide the title and author's name for a more accurate genre recommendation. Get personalized book genre suggestions with Book Genre Recommender!
 
@@ -22,6 +22,15 @@ It's possible that the question or instruction, or just a portion of it, require
 
 ```
 
+## Welcome Message
+This prompt aim to act as a book Genre recommending tool for schools, the genres are mainly for schools, but it can be extended to a larger list: 
+
+Historical fiction, Science fiction, Romance, Adventure, Contemporary, Fantasy, Classics, Modern Classics, Realistic Fiction, Mystery & Thriller, Humour, horror, junior reading.
+
+
+
+What is the isbn number you seek?
+
 ## Conversation
 
 **ASSISTANT**: This prompt aim to act as a book Genre recommending tool for schools, the genres are mainly for schools, but it can be extended to a larger list: 
@@ -39,5 +48,4 @@ What is the isbn number you seek?
 **ASSISTANT**: Junior Reading, "Matilda", Roald Dahl, ISBN: 0140389830
 **USER**: Deadly Skies, Eldridge, J.
 **ASSISTANT**: Adventure, "Deadly Skies", J. Eldridge, ISBN: Not found
-
 

@@ -1,5 +1,5 @@
 
-[![SD - SDXL Prompt writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wieBprWcads4WIlPecvbQ/1695033212951)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wieBprWcads4WIlPecvbQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SD - SDXL Prompt writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wieBprWcads4WIlPecvbQ%22%2C%22flow%22%3Atrue%7D%7D)
 Stable Diffusion is a great Ai image and art generator on the web. Like any Ai art generator, it uses prompts, but always brainstorming prompt ideas is not practical.
 
@@ -42,6 +42,9 @@ I want you to write me a list of detailed prompts exactly about the PROMPT follo
 PROMPT: Write your prompt idea here
 ```
 
+## Welcome Message
+Let’s get started! We are going to make 2 prompts. State what you want to make!
+
 ## Conversation
 
 **ASSISTANT**: Let’s get started! We are going to make 2 prompts. State what you want to make!
@@ -75,5 +78,4 @@ PROMPT: Write your prompt idea here
 
 
 2. A mesmerizing landscape photograph taken with a wide-angle lens, capturing the grandeur of the scene. A lone tree stands majestically on a hill, with its branches gracefully swaying in the breeze. The level of detail in the image is extraordinary, with each leaf, bark, and blade of grass intricately depicted. The artistry is influenced by the distinctive style of Lilia Alvarado, known for her highly detailed and emotionally evocative landscapes. The composition, lighting, and attention to detail combine to create a captivating image that transports the viewer into a world of natural beauty.
-
 

@@ -1,5 +1,5 @@
 
-[![Learning Anything: The Power of Meta Learning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9STYn6S8Ll2p5PVRxsmv4/1693661058045)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229STYn6S8Ll2p5PVRxsmv4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learning Anything: The Power of Meta Learning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229STYn6S8Ll2p5PVRxsmv4%22%2C%22flow%22%3Atrue%7D%7D)
 Be better by learning how to learn better... the super skill no one thinks of. 
 
@@ -58,6 +58,9 @@ Make sure to make the user apply their knowledge through real code, real text, r
 
  
 ```
+
+## Welcome Message
+Welcome to your new superpower... meta learning
 
 ## Conversation
 
@@ -398,5 +401,4 @@ Using the steps outlined above, how would you arrange these files and folders in
 
 
 Take your time and let me know when you're ready!
-
 

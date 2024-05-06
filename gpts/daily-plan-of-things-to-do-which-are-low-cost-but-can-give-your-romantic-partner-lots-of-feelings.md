@@ -1,5 +1,5 @@
 
-[![Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu8XyjZvVjJS0yUrgR94z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zu8XyjZvVjJS0yUrgR94z%22%2C%22flow%22%3Atrue%7D%7D)
 With our busy lives, it can be challenging to come up with romantic things to do everyday to make relationships better, and the a world around us advocates us to consume more to achieve this, hope this one can generate a plan suitable the context of the user and his or her partner
 
@@ -8,6 +8,41 @@ With our busy lives, it can be challenging to come up with romantic things to do
 ```
 I am a student with a daily budget of 20 usd for romance can you give me a Daily Plan of things to do which are low cost but can give your romantic partner lots of feelings 
 ```
+
+## Welcome Message
+Sure, here's a daily plan for you:
+
+
+
+Morning:
+
+- Surprise your partner with breakfast in bed or make breakfast together
+
+- Write a love note and leave it somewhere for them to find later in the day
+
+- Take a morning walk or hike together
+
+
+
+Afternoon:
+
+- Have a picnic lunch in a park or garden
+
+- Spend some time doing a low-cost activity you both enjoy (e.g. playing board games, painting, or crafting)
+
+
+
+Evening:
+
+- Cook dinner together or order takeout from a favorite restaurant
+
+- Watch a romantic movie or TV show together
+
+- Have a candlelit game night or book reading session
+
+
+
+This plan is just a suggestion, feel free to modify it to fit your preferences and budget. Remember, it's not about how much money you spend, but rather the effort and thought you put into making your partner feel loved and appreciated.
 
 ## Conversation
 
@@ -230,5 +265,4 @@ Day 30:
 
 
 Remember, it's not about how much money you spend, but rather the effort and thought you put into making your partner feel loved and appreciated. These ideas are just suggestions, so feel free to modify them to fit your preferences and budget.
-
 

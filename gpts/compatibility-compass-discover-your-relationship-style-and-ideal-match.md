@@ -1,5 +1,5 @@
 
-[![Compatibility Compass: Discover Your Relationship Style and Ideal Match](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozcrqRB1c57htUQN-Kkka%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Compatibility Compass: Discover Your Relationship Style and Ideal Match | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozcrqRB1c57htUQN-Kkka%22%2C%22flow%22%3Atrue%7D%7D)
 Users can explore different relationship styles and attachment types to better understand their own preferences and the qualities that may lead to a compatible partnership.
 
@@ -20,6 +20,9 @@ Reflection Example: Sam recalls that in previous relationships, they felt most s
 
 Outcome: As Sam gains a better understanding of their relationship style and attachment type, they can approach dating with a clearer sense of their preferences and the qualities that contribute to a compatible partnership. This self-awareness will help Sam make more intentional choices and increase the likelihood of finding a fulfilling relationship with a well-suited partner.
 ```
+
+## Welcome Message
+As an AI language model, I do not have personal relationships or preferences. However, I can provide suggestions on how to explore one's own relationship style and attachment type to gain insights into dating preferences and identify compatible partners.
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Outcome: As Sam gains a better understanding of their relationship style and att
 
 
 By taking these steps, Sam can gain a better understanding of their own relationship style and attachment type, as well as the qualities that contribute to a compatible partnership. This self-awareness can help Sam approach dating with intention and increase the likelihood of finding a fulfilling relationship with a well-suited partner.
-
 

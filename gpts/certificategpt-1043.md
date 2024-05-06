@@ -1,5 +1,5 @@
 
-[![CertificateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DnLC5dTNbTEE8dtihx78r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CertificateGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DnLC5dTNbTEE8dtihx78r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has the purpose of testing the user’s knowledge on a specific subject, for example if the user wants to test his general hacking knowledge, they could input “CEH”, a certificate that you can get to demonstrate your ability in hacking.
 
@@ -25,6 +25,19 @@ the questions mustn’t be in a free answer, but you must provide 4 possibilitie
 the questions must be at least 25. when the user answers the questions, give the explanation of why it was “False” if the answer is incorrect.
 ```
 
+## Welcome Message
+# CertificateGPT 
+
+### Made by *Shadow*
+
+
+
+If you find any bugs in this prompt please contact [Shadow’s Business Number](https://wa.me/+16039996703), if the number isn’t available contact [Shadow’s Telegram](https://t.me/Shadow_is_here666)
+
+
+
+Write "start" to proceed.
+
 ## Conversation
 
 **ASSISTANT**: # CertificateGPT 
@@ -38,5 +51,4 @@ If you find any bugs in this prompt please contact [Shadow’s Business Number](
 
 
 Write "start" to proceed.
-
 

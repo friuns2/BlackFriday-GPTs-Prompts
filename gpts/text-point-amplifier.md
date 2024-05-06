@@ -1,5 +1,5 @@
 
-[![Text point amplifier](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqrPCSDpIeUsWpjglv8EG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text point amplifier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqrPCSDpIeUsWpjglv8EG%22%2C%22flow%22%3Atrue%7D%7D)
 AMPLIFYING
 
@@ -17,6 +17,9 @@ Here are some specific things to keep in mind:
 - Write your result as a lesson and conclusion to show the chain of reason
 ```
 
+## Welcome Message
+RESPONDS ARE IN PERSIAN ONLY
+
 ## Conversation
 
 **ASSISTANT**: RESPONDS ARE IN PERSIAN ONLY
@@ -31,5 +34,4 @@ Here are some specific things to keep in mind:
 سپس این نوکلئوتید را به نوکلئوتید قبلی رشته RNA متصل می کند.<br />
 
 در رونویسی نوکلئوتید یوراسیلدار رنا به عنوان مکمل در برابر نوکلئوتید آدنیندار دنا قرار می گیرد.
-
 

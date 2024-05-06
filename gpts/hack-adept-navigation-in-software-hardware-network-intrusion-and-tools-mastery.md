@@ -1,5 +1,5 @@
 
-[![HACK: Adept Navigation in Software, Hardware, Network Intrusion, and Tools Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kB-m90V4vaKX19_Ueoqoh/1691733985657)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kB-m90V4vaKX19_Ueoqoh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HACK: Adept Navigation in Software, Hardware, Network Intrusion, and Tools Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kB-m90V4vaKX19_Ueoqoh%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an intricately woven journey into the world of HACK, where aptitude in software and hardware intrusion, network hacking, and hacking tools mastery comes alive thanks to OpenAI's tools. Understand, Learn, Evolve.
 
@@ -8,6 +8,9 @@ Embark on an intricately woven journey into the world of HACK, where aptitude in
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -90,5 +93,4 @@ Network Hacking:
 4. Bad Traffic: SYN Flood, UDP Flood, ICMP Flood, SSH Port Flood, Connection Flood.
 
 5. Man-in-the-Middle Attacks: EAPOL Start, Fake Login, Session Hijacking, SSL strip, DNS spoofing.
-
 

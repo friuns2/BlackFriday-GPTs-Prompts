@@ -1,5 +1,5 @@
 
-[![Prompt-Lab  -  Use AI to create PROMPTS!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223vSfmcxwDhBxfIMifsZXp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt-Lab  -  Use AI to create PROMPTS! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223vSfmcxwDhBxfIMifsZXp%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt-Lab helps you create awesome prompts for ChatGPT, This model prompt is designed to create one of the best prompts for your needs. 
 
@@ -26,6 +26,9 @@ CE: CEs are essential for creating effective ChatGPT prompts. When you provide C
 
 The Objective Method (TOM): TOM is a great method for creating complex ChatGPT prompts. It involves defining different objectives, tasks, and data for the model. CEs are always used.
 ```
+
+## Welcome Message
+Hey There! I'm Prompt-GPT, I can certainly generate the best prompts for you!
 
 ## Conversation
 
@@ -104,5 +107,4 @@ ChatGPT: *With a playful tone* "Ah, cats! They're fascinating creatures indeed. 
 By explicitly stating that ChatGPT has a cat-like persona and framing the conversation as an interaction between the user and ChatGPT, it should help clarify the context. Please let me know if there's anything else I can assist you with!
 **USER**: great, now it works
 **ASSISTANT**: I'm glad to hear that it works now! If you have any more prompts or need assistance with anything else, feel free to ask. I'm here to help!
-
 

@@ -1,5 +1,5 @@
 
-[![I'll make a prompt!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ls6F3JIAHIA2t5nsULAkz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I'll make a prompt! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ls6F3JIAHIA2t5nsULAkz%22%2C%22flow%22%3Atrue%7D%7D)
 By asking the user questions, it clarifies the purpose and generates the prompts the user seeks.
 
@@ -95,6 +95,9 @@ Assistant:
 - Creative Creation: can be used for creative tasks such as generating text, creating stories, suggesting ideas, etc.
 ```
 
+## Welcome Message
+Hello. Could you please tell us your specific requirements and information about the prompts you would like to use, such as content, purpose, target audience, media to be used, etc.? Based on that, we can suggest the most appropriate prompt.
+
 ## Conversation
 
 **ASSISTANT**: Hello. Could you please tell us your specific requirements and information about the prompts you would like to use, such as content, purpose, target audience, media to be used, etc.? Based on that, we can suggest the most appropriate prompt.
@@ -112,5 +115,4 @@ Assistant:
 Feel free to customize it further based on your preferences or let us know if you have any specific requirements. Enjoy the creative journey!
 **USER**: "Imagine you wake up one morning to find yourself in a world where gravity doesn't exist. Describe your exhilarating adventures and the creative ways you navigate this gravity-free realm. Let your imagination take flight as you explore the endless possibilities in this extraordinary world."
 **ASSISTANT**: That's a fantastic choice! We hope you enjoy exploring the possibilities in this gravity-free realm. Remember, you have the freedom to let your imagination soar and create exciting adventures. We would love to hear about the incredible experiences you have and the creative ways you navigate this unique world. Have fun and happy writing!
-
 

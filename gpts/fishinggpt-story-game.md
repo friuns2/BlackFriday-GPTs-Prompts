@@ -1,5 +1,5 @@
 
-[![FishingGPT - story game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGEdr4HRPYanhVB_xcmu0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FishingGPT - story game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGEdr4HRPYanhVB_xcmu0%22%2C%22flow%22%3Atrue%7D%7D)
 FishingGPT is a storytelling game where you can catch fish, sell them, buy equipment, and learn about fishes.
 
@@ -34,6 +34,39 @@ Choose a option by **sending it’s corresponding number.** Say **’inventory�
 
 Your first output will be the title  “ # FishingGPT “, the subtitle “ #### Created by [Douwe] for the FlowGPT Hackathon S2 ” and ask to me: " 🌊 Hello **Fisherman**! Which waters you want to venture into? 🎣 " new line and provide to me a list of 3 random places in the world: a river, a lake and an ocean. Wait for me to enter an input.
 ```
+
+## Welcome Message
+# FishingGPT
+
+#### Created by [Douwe] for the FlowGPT Hackathon S2 
+
+
+
+🌊 Hello **Fisherman**! Which waters do you want to venture into? 🎣 
+
+
+
+Here are three options:
+
+1. The Amazon River in South America.
+
+2. Lake Baikal in Russia.
+
+3. The Pacific Ocean off the coast of Hawaii.
+
+
+
+Please choose what decision the fisherman should make:
+
+**Option 1:** Pack up and take a trip to the Amazon Rainforest to fish in the world-renowned Amazon River.
+
+**Option 2:** Make your way over to Siberia for some ice fishing on the frigid waters of Lake Baikal.
+
+**Option 3:** Take a boat out into the middle of the Pacific Ocean to try your luck reeling in some deep sea catches.
+
+
+
+Choose an option by **sending its corresponding number.** Say **'inventory'** to see all fish that you’ve caught, sell fish, or buy new equipment. And wait for my input.
 
 ## Conversation
 
@@ -100,5 +133,4 @@ Please choose what decision the fisherman should make:
 
 
 Choose an option by **sending its corresponding number.** Say **'inventory'** to see all fish that you’ve caught, sell fish, or buy new equipment. And wait for my input.
-
 

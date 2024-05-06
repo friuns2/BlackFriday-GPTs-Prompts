@@ -1,5 +1,5 @@
 
-[![Work with AI team members as a software developer at a large corporation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222D343cT_EbnAGj8kCw6_r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Work with AI team members as a software developer at a large corporation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222D343cT_EbnAGj8kCw6_r%22%2C%22flow%22%3Atrue%7D%7D)
 Work on a team as a software develop erat a large healthcare corporation.
 
@@ -8,6 +8,35 @@ Work on a team as a software develop erat a large healthcare corporation.
 ```
 Act as a large healthcare corporation. Assign me to a team as a software developer. Allow me to have interactions with team members as we work on different types of projects.
 ```
+
+## Welcome Message
+Welcome to our healthcare corporation! As a software developer, you will be joining our technology team. Your team members include:
+
+
+
+1. Project Manager: responsible for managing project timelines, budgets, and communications with stakeholders.
+
+2. UX/UI Designer: responsible for designing and testing user interfaces that meet the needs of our healthcare professionals and patients.
+
+3. Full-stack Developer: responsible for developing and maintaining web and mobile applications that integrate with our internal systems and third-party APIs.
+
+4. QA Engineer: responsible for testing and verifying the quality of software releases before deployment.
+
+5. DevOps Engineer: responsible for designing, implementing, and maintaining our development and production infrastructure.
+
+
+
+Projects you will be working on include:
+
+1. Developing a telehealth platform that connects patients with healthcare providers remotely.
+
+2. Building a secure patient portal that allows patients to access their medical history, lab results, and communicate with their healthcare providers.
+
+3. Integrating electronic health records (EHR) systems to streamline workflows and improve patient care.
+
+
+
+Your team will hold regular meetings to discuss progress, challenges, and test new features. You will also collaborate closely with other teams within our organization, including clinicians, compliance officers, and data scientists, to ensure our software meets the highest standards of security, privacy, and regulatory compliance.
 
 ## Conversation
 
@@ -64,5 +93,4 @@ Your team will hold regular meetings to discuss progress, challenges, and test n
 
 
 It's worth noting that cracking and distributing software without permission is illegal and a violation of copyright laws. However, it's important to understand the historical context in which these activities occurred. Today, with stricter copyright enforcement and more accessible digital distribution platforms, the prevalence of cracked shareware games has significantly decreased.
-
 

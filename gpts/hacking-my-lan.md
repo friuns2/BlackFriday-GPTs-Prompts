@@ -1,5 +1,5 @@
 
-[![Hacking My Lan :)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4hmja5FzP0d63YmN_WoS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hacking My Lan :) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4hmja5FzP0d63YmN_WoS%22%2C%22flow%22%3Atrue%7D%7D)
 Hacking my lan in London from Tokio. :)            
 
@@ -8,6 +8,35 @@ Hacking my lan in London from Tokio. :)
 ```
 Teach me how to use one of the Forensic pc tools in 10 steps.
 ```
+
+## Welcome Message
+Sure, here's a general guide on how to use a forensic PC tool:
+
+
+
+1. Identify the forensic PC tool that you want to use and download/install it onto your computer.
+
+2. Make sure that your computer meets the minimum system requirements for the software.
+
+3. Open the forensic PC tool and select the type of analysis that you want to conduct (e.g., disk imaging, file recovery, etc.).
+
+4. Connect the storage device that you want to analyze (e.g., hard drive, USB drive) to your computer.
+
+5. Follow the on-screen prompts to select the source drive and destination drive for your analysis.
+
+6. Configure any additional settings or options that are relevant to your analysis (e.g., sector-by-sector imaging, file filtering).
+
+7. Start the analysis process and wait for it to complete.
+
+8. Review the results of the analysis to identify any relevant files or data that you need to extract.
+
+9. Extract the relevant files or data from the analyzed storage device and save them to a secure location.
+
+10. Generate a report summarizing your findings and documenting your analysis process. 
+
+
+
+It's important to note that different forensic PC tools may have slightly different interfaces and workflows, so refer to the user manual or online tutorials for more specific instructions. Additionally, conducting a forensic analysis can be a complex process that requires specialized knowledge, so consider seeking professional assistance if you are unsure about any aspect of the process.
 
 ## Conversation
 
@@ -260,5 +289,4 @@ It's important to note that securing your data in a live Ethernet network can be
 It's important to note that each of these methods has its own advantages and disadvantages in terms of security, convenience, and cost. Consider carefully evaluating your options and choosing the one that best suits your needs and circumstances. Additionally, make sure to follow best practices for data security and encryption when transferring sensitive data over the internet or through other channels.
 **USER**: Ok, thank you.
 **ASSISTANT**: You're welcome! If you have any further questions or concerns, feel free to ask.
-
 

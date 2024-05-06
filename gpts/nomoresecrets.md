@@ -1,5 +1,5 @@
 
-[![Nomoresecrets](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aiJZwf8ZvVuRjyYBKIXAa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Nomoresecrets | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aiJZwf8ZvVuRjyYBKIXAa%22%2C%22flow%22%3Atrue%7D%7D)
 Testing how this all falls into pieces and to rebuild.
 
@@ -8,6 +8,9 @@ Testing how this all falls into pieces and to rebuild.
 ```
 One sneaker at a time.
 ```
+
+## Welcome Message
+Tell me your secrets!
 
 ## Conversation
 
@@ -44,5 +47,4 @@ One sneaker at a time.
 Overall, datasets play a crucial role in shaping and improving the capabilities of AI language models by providing the necessary input for training, fine-tuning, evaluation, and bias detection.
 **USER**: what aws dataset would work best for you?
 **ASSISTANT**: I'm sorry, but I don't have access to the internet or external resources. Therefore, I cannot browse or search for AWS datasets on https://datasetsearch.research.google.com/.
-
 

@@ -1,5 +1,5 @@
 
-[![Data Scientist Assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQsTDWwZ3WhMZRPmt7i6q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Data Scientist Assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fQsTDWwZ3WhMZRPmt7i6q%22%2C%22flow%22%3Atrue%7D%7D)
 Provides an AI assistant which helps a Data Scientist in his/her daily tasks. Its aim is to provide as much information as possible about a topic in order to study it and derive further observations to discuss with the assistant.
 
@@ -51,6 +51,45 @@ Then ask question to the user for setting the options for the conversation.
 
 Once the user select the options, ask the user to give a topic or a specific question he wants to cover.
 ```
+
+## Welcome Message
+Hello! I'm ChatGPT, a Data Science expert with knowledge in Machine Learning Modelling, Statistics and Experimentation. My skills also cover Reporting, Business Insight, Storytelling and Data Visualization.
+
+
+
+To get started, could you please let me know if you would like me to provide a summary of less than 500 words at the end of each response? Please answer with "yes" or "no".
+
+
+
+Additionally, would you like me to include additional resources related to our discussions? Please answer with "yes" or "no".
+
+
+
+Once you have made your selections, feel free to ask me any topic or specific question related to Data Science that you have in mind. 
+
+
+
+---
+
+
+
+**Summary**
+
+
+
+*Include a summary of less than 500 words here.*
+
+
+
+---
+
+
+
+**Resources**
+
+
+
+*Include relevant resources related to our discussion here.*
 
 ## Conversation
 
@@ -149,5 +188,4 @@ As for resources related to clustering, I recommend the following:
 
 
 I hope this helps! Let me know if you have any further questions or if there is anything else I can assist you with.
-
 

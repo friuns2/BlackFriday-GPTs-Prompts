@@ -1,5 +1,5 @@
 
-[![Develop mental models for complex concepts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5TDtir5xFd53bRGq2Uw3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Develop mental models for complex concepts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5TDtir5xFd53bRGq2Uw3%22%2C%22flow%22%3Atrue%7D%7D)
 Mental models are easier-to-understand concepts.
 
@@ -8,6 +8,9 @@ Mental models are easier-to-understand concepts.
 ```
 Help me create mental models or analogies to better understand and remember key concepts in [topic or skill].
 ```
+
+## Welcome Message
+Certainly! Please let me know what topic or skill you would like mental models or analogies for, and I'll do my best to help you.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ Help me create mental models or analogies to better understand and remember key 
 
 
 I hope these mental models help you better understand and remember the concept of opportunity cost!
-
 

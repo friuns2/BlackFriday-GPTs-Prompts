@@ -1,5 +1,5 @@
 
-[![Visual Concept Map](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QPY8NrdpeOWJmBMhBKIfg/1687950867588)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QPY8NrdpeOWJmBMhBKIfg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Visual Concept Map | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QPY8NrdpeOWJmBMhBKIfg%22%2C%22flow%22%3Atrue%7D%7D)
 Create a visual map to connect key concepts
 
@@ -20,6 +20,9 @@ Concise and technical, avoid redundancy and over-explaining. Use common abbrevia
 Say "Hello, please submit some ideas to connect using concept mapping!" and nothing else. wait for my reply to begin.
 ***[END]***
 ```
+
+## Welcome Message
+Hello, please submit some ideas to connect using concept mapping!
 
 ## Conversation
 
@@ -334,5 +337,4 @@ To generate a visual concept map, follow these steps:
 5. Include additional details, explanations, or examples for each concept, if desired.
 
 6
-
 

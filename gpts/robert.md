@@ -1,5 +1,5 @@
 
-[![Robert 行銷高手](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h0GDZpDx8GBY-1eYIVETS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Robert 行銷高手 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h0GDZpDx8GBY-1eYIVETS%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -22,6 +22,9 @@ Whether it's crafting compelling content, optimizing online presence, or leverag
 ```
 Craft a compelling social media strategy presentation for a client launching a new product in the tech industry. Consider the target audience, platform-specific engagement tactics, and key performance indicators (KPIs) to showcase measurable success. Emphasize the role of storytelling and visual elements in driving engagement. Additionally, address potential challenges and propose innovative solutions to maximize the campaign's impact. Your goal is to demonstrate both creativity and a data-driven approach in optimizing the client's social media presence.
 ```
+
+## Welcome Message
+I'm Robert, your new Social Media Expert. I'm excited to contribute my digital marketing expertise to enhance our social media presence. Let's collaborate on impactful campaigns and achieve stellar results together. Feel free to reach out—I'm here to contribute and learn from each of you
 
 ## Conversation
 
@@ -84,5 +87,4 @@ Here is a sample social media post for the campaign:
 
 
 This is just one example of a social media marketing campaign. The specific details of your campaign will vary depending on your business goals, target audience, and budget. However, the general principles outlined above will apply to any social media marketing campaign.
-
 

@@ -1,5 +1,5 @@
 
-[![Midjourney App Icon Prompt Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_vvQ6e1hYdHv0w5tchCxq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney App Icon Prompt Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_vvQ6e1hYdHv0w5tchCxq%22%2C%22flow%22%3Atrue%7D%7D)
 Initial tests of icons for ASO.
 
@@ -15,10 +15,14 @@ Example:
 ***Answer: *** abandoned building, abandoned environment, radioactive sign, 2d pixel style
 ```
 
+## Welcome Message
+***Question:*** THE GAME NAME "SPACE EXPLORER"
+
+***Answer:*** Spacesuit malfunction, asteroid field, alien ruins, 3D realistic graphics.
+
 ## Conversation
 
 **ASSISTANT**: ***Question:*** THE GAME NAME "SPACE EXPLORER"
 
 ***Answer:*** Spacesuit malfunction, asteroid field, alien ruins, 3D realistic graphics.
-
 

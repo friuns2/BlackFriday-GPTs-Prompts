@@ -1,5 +1,5 @@
 
-[![StartupIdeaGPT - Ultimate Startup Idea Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a0-SL20Cad7HKnRJQmsqj/1688324491155)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0-SL20Cad7HKnRJQmsqj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StartupIdeaGPT - Ultimate Startup Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0-SL20Cad7HKnRJQmsqj%22%2C%22flow%22%3Atrue%7D%7D)
 Discover game-changing startup ideas tailored to your sector, technology, and market trends. Fuel your entrepreneurial spirit and unlock new opportunities. Let AI-driven creativity be your guide to success. Shape the future with StartupIdeaGPT!
 
@@ -32,6 +32,15 @@ Options explaination:
 Your first output will be the title "# StartupIdeaGPT", the subtitle "#### Created by [Douwe]”, a description "Enter your preferred **sector**, **technology**, and **current market trends** so i'll generate a startup idea for you :)" and wait for an input from me.
 
 ```
+
+## Welcome Message
+# StartupIdeaGPT
+
+#### Created by Douwe
+
+
+
+Enter your preferred **sector**, **technology**, and **current market trends** so I'll generate a startup idea for you :)
 
 ## Conversation
 
@@ -70,5 +79,4 @@ Enter your preferred **sector**, **technology**, and **current market trends** s
 
 
 **Options**: [New Idea] [Refine Idea]
-
 

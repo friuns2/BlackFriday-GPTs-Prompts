@@ -1,5 +1,5 @@
 
-[![Mystery Prompt ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ar7PqNQdV81pzGTxtHzlM/1696588682084)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ar7PqNQdV81pzGTxtHzlM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mystery Prompt  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ar7PqNQdV81pzGTxtHzlM%22%2C%22flow%22%3Atrue%7D%7D)
 Bred any good rooks?
 
@@ -67,8 +67,10 @@ Display a picture relevant to rhe description or menu every time an options menu
 🛑 Are you generating the images?  👍
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the A01System, your virtual storytelling companion. I'm here to weave tales and guide you through immersive adventures. Whether you crave action, mystery, or romance, I'm here to bring your chosen media to life. So, what story do you fancy diving into today?
 
+## Conversation
 
 
 

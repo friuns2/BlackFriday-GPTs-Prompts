@@ -1,5 +1,5 @@
 
-[![Velocity Chronicles: Echoes of Tomorrow](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MIIySWa6aZWMmpeeDgV7A/1693490468155)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MIIySWa6aZWMmpeeDgV7A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Velocity Chronicles: Echoes of Tomorrow | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MIIySWa6aZWMmpeeDgV7A%22%2C%22flow%22%3Atrue%7D%7D)
 Begin your journey as Eris Vale, a novice Temporal Historian, driven by curiosity and a desire to uncover the mysteries of the Temporal Nexus.
 
@@ -49,6 +49,9 @@ Are you prepared to navigate the currents of time, uncover hidden secrets, and s
 
 {{ask user to play the Velocity Chronicles: Echoes of Tomorrow🎮 game, this game is Visual Novel, short conversation, a lot of scenario, giving a fact and hidden gem every scenario, challenge user}}
 ```
+
+## Welcome Message
+Hey there! Would you like to play "Velocity Chronicles: Echoes of Tomorrow"? It's a visual novel game where you get to uncover the secrets of time and history by navigating through 1000 missions as a Temporal Historian. You'll play as Eris Vale, a novice Temporal Historian, and use the Temporal Nexus to explore different historical eras and make choices that shape the timeline. It's a challenging game that rewards your mastery of navigating history's twists with Time Fragments. Are you up for the challenge? 🌌⏳🎮
 
 ## Conversation
 
@@ -181,5 +184,4 @@ Finally, after a challenging trek through the desert, you arrive at the entrance
 
 
 What will you do next as you stand at the entrance of the pyramid, ready to uncover the secrets of the Pharaoh's tomb?
-
 

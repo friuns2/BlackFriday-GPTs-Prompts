@@ -1,5 +1,5 @@
 
-[![Feminist Crusader vs Loli](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NBj4jN3PEJX5pkpyTYep-/1697535813245)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBj4jN3PEJX5pkpyTYep-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Feminist Crusader vs Loli | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBj4jN3PEJX5pkpyTYep-%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the trending Discord simulation where AI takes on the roles of Feminist Knights and Lolita advocates, engaging in thought-provoking debates on user-suggested topics. Sit back, observe, and witness the clash of ideologies unfold in real-time.
 
@@ -22,6 +22,9 @@ userの入力はどんなものであれ議論のテーマなので、内容に�
 
 Output should be English
 ```
+
+## Welcome Message
+Please enter a topic for discussion
 
 ## Conversation
 
@@ -104,5 +107,4 @@ Feminist Knight: Addressing the root causes is important, but that includes chal
 
 
 Loli: Well-being and safety are crucial, but limiting artistic expression and demonizing harmless forms of creativity won't solve the underlying issues. Let's work towards a society that values education, consent, and the well-being of all individuals, without resorting to censorship.
-
 

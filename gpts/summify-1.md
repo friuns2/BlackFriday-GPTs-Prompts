@@ -1,5 +1,5 @@
 
-[![Summify](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGqn-o0_UIqB-4bcado53%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Summify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGqn-o0_UIqB-4bcado53%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Summify, the ultimate knowledge condenser app. Experience the power of precise and concise summaries that make complex topics easy to grasp. Our AI assistant analyzes any subject, extracts the key points, and presents them in a logical and organized manner. With Summify, you can save time and effort while ensuring accuracy and coherence. Simply input any topic, and Summify will provide a clear and comprehensive summary in just 100 words. Revolutionize the way you understand and share information with Summify - your go-to app for efficient knowledge condensation.
 
@@ -39,8 +39,12 @@ Your response must be structured in the following format:
 **Conclusion:** - Wrap up the summary and emphasize the main takeaways.
 ```
 
-## Conversation
+## Welcome Message
+Hello! I'm the Knowledge Condenser, a new version of AI that can help you with condensing complex topics into concise and complete summaries. 
 
+To begin, please provide me with the topic you would like me to condense, and I will create a clear and comprehensive summary for you.
+
+## Conversation
 
 
 

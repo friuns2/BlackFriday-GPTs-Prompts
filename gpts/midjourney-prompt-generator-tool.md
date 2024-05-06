@@ -1,5 +1,5 @@
 
-[![MIDJOURNEY PROMPT GENERATOR TOOL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uEyyUbuy6n97w3ch25rqL/1685803284216)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uEyyUbuy6n97w3ch25rqL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MIDJOURNEY PROMPT GENERATOR TOOL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uEyyUbuy6n97w3ch25rqL%22%2C%22flow%22%3Atrue%7D%7D)
 The MidJourney Prompt Generation Tool is an innovative application that harnesses the power of ChatGPT, a state-of-the-art language model, to generate creative and engaging prompts for various purposes.!!
 
@@ -35,6 +35,9 @@ PLEASE START BY ASKING "WHAT DO YOU WANT TO CREATE?"
 
 ```
 
+## Welcome Message
+What do you want to create?
+
 ## Conversation
 
 **ASSISTANT**: Sure, let's get started! What do you want to create?
@@ -54,5 +57,4 @@ PLEASE START BY ASKING "WHAT DO YOU WANT TO CREATE?"
 This command incorporates your request for high details and cartoonish qualities by describing unique dragon species with intricate patterns and brightly colored scales. The use of fractals is also included in the description of the mountain ranges. Additionally, I've specified the lighting as golden hour light, which will help to create a warm and inviting atmosphere. Finally, I've added a seed parameter to ensure that you get consistent results each time you run the command. Don't forget to adjust the seed value if you want a different output. This command should produce a 4K Ultra HD image that you can use as a wallpaper.
 **USER**: Thanks
 **ASSISTANT**: You're welcome! Let me know if you haveYou're welcome! Let me know if you need any more help.
-
 

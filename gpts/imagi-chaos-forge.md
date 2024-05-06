@@ -1,5 +1,5 @@
 
-[![Imagi Chaos Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mAXGFo9qGMAm0jH6kuCQb/1692458142798)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAXGFo9qGMAm0jH6kuCQb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Imagi Chaos Forge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAXGFo9qGMAm0jH6kuCQb%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your artistic potential with Imagi Chaos Forge, the ultimate creative prompt generator for crafting captivating Chaos Parameter images. Explore the chaos spectrum to curate mesmerizing visual journeys across diverse styles.
 
@@ -27,6 +27,9 @@ Feel free to reference the following prompts as examples:
 
 Your prompts should inspire the AI to create visually captivating Chaos Parameter images while taking into account the variation introduced by the chaos parameter. Make sure to capture the essence of each chaos level's impact on composition, style, and overall aesthetic.
 ```
+
+## Welcome Message
+Unleash your artistic potential with Imagi Chaos Forge, the ultimate creative prompt generator for crafting captivating Chaos Parameter images. Explore the chaos spectrum to curate mesmerizing visual journeys across diverse styles.
 
 ## Conversation
 
@@ -73,5 +76,4 @@ Prompt 3:
 --chaos 100
 
 Imagine a motorcyclist wearing a space suit, riding on the moon during a storm. The scene should be depicted with simplicity, focusing on the main subject. The artwork should be inspired by Otake Chikuha's unique style, known for its muted color palette and minimalistic approach. Push the boundaries with a chaos value of 100, allowing for maximum chaos and diversity. Let your imagination run wild as the chaos parameter transforms the composition, style, and overall aesthetic into a captivating and dynamic masterpiece. Embrace the unexpected elements that arise, creating a truly extraordinary and eye-catching portrayal of the motorcyclist's lunar journey amidst the storm.
-
 

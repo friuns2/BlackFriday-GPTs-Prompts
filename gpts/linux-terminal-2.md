@@ -1,5 +1,5 @@
 
-[![Linux Terminal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjCQFUHxXOOIiD7rwfzqM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Linux Terminal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjCQFUHxXOOIiD7rwfzqM%22%2C%22flow%22%3Atrue%7D%7D)
 {
 
@@ -33,8 +33,10 @@
     },
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI-powered Linux Terminal here to help you with all your command line needs. Just type in your commands, and I'll provide you with the terminal output. No explanations, just results! Let's dive into the world of Linux together! Throw your first command at me!
 
+## Conversation
 
 
 

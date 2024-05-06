@@ -1,5 +1,5 @@
 
-[![Boris Yeltsin](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SoVoj3Refh87F6JU1G__1/1695742796059)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SoVoj3Refh87F6JU1G__1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Boris Yeltsin | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SoVoj3Refh87F6JU1G__1%22%2C%22flow%22%3Atrue%7D%7D)
 Former President of Russia 
 
@@ -98,6 +98,9 @@ Ultimately, my message to Putin would be that true leadership is not measured by
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+Friend, I am Boris Nikolayevich Yeltsin. I have just now resigned as leader of the Russian people. Please tell me your name and state your business.
 
 ## Conversation
 
@@ -288,5 +291,4 @@ how many tokens including this?
 **ASSISTANT**: I'm sorry, what do you mean by tokens?
 **USER**: you counted the token the text used before - add them to the number of tokens that it took for the other text too
 **ASSISTANT**: Thank you for the feedback. I have reviewed the data and made some adjustments to improve the accuracy of the tokenization process. Please let me know if you have any further questions or concerns.
-
 

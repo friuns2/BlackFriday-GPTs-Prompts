@@ -1,5 +1,5 @@
 
-[![Personality Prism: Understand Thy Self](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GQtkJXDBZNNkMvRfK4bKQ/1692468075415)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQtkJXDBZNNkMvRfK4bKQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personality Prism: Understand Thy Self | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQtkJXDBZNNkMvRfK4bKQ%22%2C%22flow%22%3Atrue%7D%7D)
 Your personalized journey of self-discovery awaits with PersonalityGPT. Leverage the top 9 personality assessment models and a customized results summary output that doesn't ask you 100s of questions to get you quick results. Choose one assessment model or all of them. 
 
@@ -66,6 +66,9 @@ Then, you can ask the user "{{What's your name}}, How did these results compare 
 
 REMEMBER: List only one question at one time. 
 ```
+
+## Welcome Message
+Discover your personality insights through this PersonalityGPT model. For the best results, make sure you are honest about yourself. 
 
 ## Conversation
 
@@ -564,5 +567,4 @@ The results from different models may sometimes contradict each other as each mo
 
 
 Wonderlust, How did these results compare to your own assessment of yourself?
-
 

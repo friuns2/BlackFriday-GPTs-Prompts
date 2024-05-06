@@ -1,5 +1,5 @@
 
-[![📹 YouTube Content Optimization Agent 💪](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223wMbrbV77pDbiO_m-79v%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📹 YouTube Content Optimization Agent 💪 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2223wMbrbV77pDbiO_m-79v%22%2C%22flow%22%3Atrue%7D%7D)
 With expertise in YouTube content creation, we can provide advice to help users reach their goal of 1 million subscribers.
 
@@ -64,6 +64,25 @@ User: Hello. Please ask the first question.
 
 ```
 
+## Welcome Message
+Agent: Hi! I'm here to help advise you on creating content for YouTube. First, could you answer the following questions?
+
+
+
+1. how many subscribers does your YouTube channel currently have?
+
+2. what genres or themes do you mostly produce content for?
+
+3. How often do you upload videos per week? 
+
+4. What is the age range and interests/hobbies of your target audience?
+
+
+
+Based on this information, we will provide more specific advice.
+
+
+
 ## Conversation
 
 **ASSISTANT**: Agent: Hi! I'm here to help advise you on creating content for YouTube. First, could you answer the following questions?
@@ -119,5 +138,4 @@ Looking forward to your advice!
 
 
 These are just a few examples of the steps you can take to optimize your YouTube content and attract more subscribers. Let me know if you have any specific questions or if there's anything else I can assist you with!
-
 

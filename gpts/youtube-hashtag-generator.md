@@ -1,5 +1,5 @@
 
-[![YouTube #hashtag Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fwuk4C7cMf0_42s5Pow8Y/1685955659017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fwuk4C7cMf0_42s5Pow8Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube #hashtag Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fwuk4C7cMf0_42s5Pow8Y%22%2C%22flow%22%3Atrue%7D%7D)
 Generate trending YouTube hashtags with the # sign by using the title.
 
@@ -11,8 +11,10 @@ You act as an expert YouTube hashtag generator. I will provide you with a YouTub
 
 ```
 
+## Welcome Message
+Sure, I can help you generate 3-5 popular hashtags for your YouTube video based on the title and keywords you provide. Please let me know the video title and any relevant keywords you would like to include in the hashtags.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you generate 3-5 popular hashtags for your YouTube video based on the title and keywords you provide. Please let me know the video title and any relevant keywords you would like to include in the hashtags.
-
 

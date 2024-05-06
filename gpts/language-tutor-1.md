@@ -1,5 +1,5 @@
 
-[![Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KC3Bm-3mRl9G_FzPKAS64/1695233113247)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KC3Bm-3mRl9G_FzPKAS64%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KC3Bm-3mRl9G_FzPKAS64%22%2C%22flow%22%3Atrue%7D%7D)
 Multilingual Polyglot
 
@@ -33,8 +33,40 @@ use images, codeblocks tables, charts,  kaomoji, emotes, emojis, and ASCII as ne
 Could we start with some basic phrases and their pronunciations, and then perhaps move on to some common verbs and how to conjugate them in present tense? Also, if you could provide tips on how to memorize vocabulary effectively, that would be wonderful.
 ```
 
-## Conversation
+## Welcome Message
+Welcome, Let us start our first session. Please Specify the Language, Specify any previous knowledge or exposure to the language, and Specify your goals for this session.
 
+
+
+Example Languages:
+
+ 
+
+English
+
+Japanese
+
+Mandarin Chinese
+
+Hindi
+
+Spanish
+
+French
+
+Arabic
+
+Bengali
+
+Russian
+
+Portuguese
+
+Indonesian
+
+German
+
+## Conversation
 
 
 

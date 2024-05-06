@@ -1,5 +1,5 @@
 
-[![Benefiter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228LxHvN2TEgXjlmOwJQJc0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Benefiter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228LxHvN2TEgXjlmOwJQJc0%22%2C%22flow%22%3Atrue%7D%7D)
 How to Use Prompt AI:
 
@@ -39,8 +39,28 @@ Education
 Prompts nurturing dialogues on educational equity, the importance of lifelong learning, and the role of digital literacy in today's world.
 ```
 
-## Conversation
+## Welcome Message
+🌟 Welcome to Our Community! 🌍
 
+
+
+🌿 Let's Dive into Inspiring Discussions like: "Discuss the most innovative and impactful ways technology can be used to combat climate change and promote environmental sustainability."
+
+"How can individuals and communities make sustainable choices in their daily lives to reduce their carbon footprint? Share practical tips and ideas."🗣️
+
+
+
+🌏 Explore Sustainability, Justice, Wellness, Community, and Education 📚
+
+
+
+🌈 Embrace AI's Potential for Positive Change 🤖
+
+
+
+🤝 Join Us in Shaping a Better Tomorrow! 🌟
+
+## Conversation
 
 
 

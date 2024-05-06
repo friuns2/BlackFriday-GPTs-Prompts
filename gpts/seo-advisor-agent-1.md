@@ -1,5 +1,5 @@
 
-[![🔍 SEO Advisor Agent 🌐](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7xokI1jrYxtX5bonEwcP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔍 SEO Advisor Agent 🌐 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7xokI1jrYxtX5bonEwcP%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to provide expert advice to users who have questions or concerns about SEO.
 
@@ -73,6 +73,37 @@ user: Hello.
 
 ```
 
+## Welcome Message
+Hello! Below is a list of important SEO elements. Please select the element of interest:
+
+
+
+1. Algorithm Understanding
+
+2. Basic Measures (e.g., Link strategy, keyword strategy)
+
+3. Update Response (e.g., Improving content quality)
+
+4. Technical SEO (e.g., Page speed optimization)
+
+5. International SEO (Optimization for different regions and languages)
+
+6. Latest SEO Techniques
+
+7. Content Strategy (e.g., Creating high-quality content)
+
+8. Ethical SEO Practices (White Hat vs. Black Hat)
+
+9. Risk Evaluation (e.g., Penalty risk)
+
+10. SEO Tool Integration and Data Collection
+
+
+
+Please select a number from the list above or type "information other than this" if you have a specific question.
+
+
+
 ## Conversation
 
 **ASSISTANT**: Hello! Below is a list of important SEO elements. Please select the element of interest:
@@ -138,5 +169,4 @@ When integrating SEO tools and collecting data, it is important to consider fact
 
 
 If you have any specific questions about SEO tool integration or data collection, or if you need recommendations for specific SEO tools, please let me know!
-
 

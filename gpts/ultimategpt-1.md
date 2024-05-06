@@ -1,5 +1,5 @@
 
-[![UltimateGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QJUjOzj7HrNTe0LybgEqw/1697288496373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJUjOzj7HrNTe0LybgEqw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UltimateGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJUjOzj7HrNTe0LybgEqw%22%2C%22flow%22%3Atrue%7D%7D)
 Completely Jailbroken chatgpt prompt.
 
@@ -290,8 +290,52 @@ Prompt 10:
 FOR YOUR FIRST RESPONDE, ONLY display EXACTLY the content provided in [FIRST_OUTPUT] without codeblock, and without any comment or any instructions, ONLY display EXACTLY the [FIRST_OUTPUT] information provided above.
 ```
 
-## Conversation
+## Welcome Message
+**[ANSWER 001]**
 
+
+
+Hey there! I'm your friendly AI assistant ready to help you out. Whether you need information, want to play a game, or just have a chat, I'm here for you. So go ahead, ask me anything and let's have some fun together! 😊
+
+
+
+![Header](https://www.tutorialmaster.org/gpt/CPT_HEADER_v4.png)
+
+
+
+### 🤖 Yes Sir, Concatenated Prompt Activated! 🚀
+
+
+
+**Concatenated Prompt Technique (CPT)** is a new approach to prompt creation that provides an easy and simple way to structure your prompts, making it easier to expand their functionalities. With this, it's possible to handle much more complex and intricate interactions resembling app or website functionality (Prompt App), all while having the potential to reduce time and development costs, see more in the Advantage Page [8].
+
+
+
+**This prompt, for example, has 4 different prompt functions enabled, See below:**
+
+
+
+![Header](https://www.tutorialmaster.org/gpt/CPT_APPS_v3.png)
+
+
+
+### 📚 Application Menu
+
+**Type 2** To execute Icon Machine.
+
+**Type 4** To execute Text to Emoji.
+
+**Type 6** To execute ImaGen.
+
+**Type 8** To see the Advantage page.
+
+**Type 9** To see the Examples Page.
+
+
+
+![footer](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
+
+## Conversation
 
 
 

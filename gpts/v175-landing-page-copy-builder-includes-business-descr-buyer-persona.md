@@ -1,5 +1,5 @@
 
-[![✍ V1.75 LANDING PAGE COPY BUILDER - Includes Business Descr. + Buyer Persona](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wnnw7dxLYOwz8U-7iLvQc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ✍ V1.75 LANDING PAGE COPY BUILDER - Includes Business Descr. + Buyer Persona | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wnnw7dxLYOwz8U-7iLvQc%22%2C%22flow%22%3Atrue%7D%7D)
 Out-of-the-box structured efficiently-written copy for your Landing Page.
 
@@ -121,6 +121,33 @@ FOOTER
 This section contains the mapping of the landing page, the references of the company, they contact informations.
 ```
 
+## Welcome Message
+| Section      | Title        | Sub-Headline                | Copy                                                                                                  | Call to Action               | Button     |
+
+|--------------|--------------|-----------------------------|-------------------------------------------------------------------------------------------------------|------------------------------|------------|
+
+| Hero         | Scale Your Marketing Fast | The All-in-One Solution for E-commerce and Ad Accounts | Whether you're in charge of an E-commerce, a Dropshipping business, or an Ad account, metrix™ is the right tool to scale your marketing performances fast and in the right direction without compromises.‍ | Start optimizing today!      | Get Started |
+
+| Benefits     | Optimize Your Data | Maximize ROI with Metrix™ | Our advanced algorithms dive deep into your E-commerce and Advertising data, intelligently identifying what needs to be optimized to help you take quick and accurate decisions. Tailored to your Ecom & Ads Campaign's specific KPI's and goals. Take advantage of data-driven suggestions and make informed decisions that maximize your ROI. Auto-spots weak areas & hidden opportunities to help you achieve quick & long-term success. Saves your precious time by auto-processing the steps you used to do manually. | Optimize Your Performance Now | Optimize    |
+
+| Who is it for | For E-commerce Owners | Tailored to Your Needs | Introducing Adame, a E-commerce owner seeking more efficiency, who values accuracy, efficacity, rapidity, with a preference for testing, and a desire to create results. | Talk to Our Experts Today!   | Learn More  |
+
+| How it Works | Effortlessly Improve ROI | Gain Powerful Insights in 3 Easy Steps | **STEP 1: Connect your data** Simply connect your E-commerce and advertising platforms to Metrix™. **STEP 2: Get insights** Our powerful algorithms generate insights based on your data. **STEP 3: Optimize** Use our tailored suggestions to optimize your campaigns and drive better results. | Optimize Your Performance Now | Optimize    |
+
+| Why Choose Us | The Best Solution for E-commerce and Ad Accounts | Advanced Algorithms vs Traditional Methods | Save time, increase your ROI and optimize your campaigns with our advanced algorithms. Unlike traditional methods, Metrix™ identifies hidden opportunities and weak areas in minutes, leaving you more time to focus on implementing winning strategies. | Talk to Our Experts Today!   | Learn More  |
+
+| Features List | Key Functionalities | Advanced Algorithms, Tailored Suggestions | - Comprehensive data insights - Automatic weak areas & hidden opportunities spotting - Guided optimization suggestions - Fast processing times | Optimize Your Performance Now | Optimize    |
+
+| Use Case Scenario | Improved Campaign Results | "How I Increased My ROI by 50%" | Meet Sarah, an E-commerce owner who was struggling to improve her campaign results. With Metrix™ she was able to identify hidden opportunities and weak areas and optimize her campaigns for maximum ROI. | Start optimizing today!      | Get Started |
+
+| Our Mission  | Empowering E-commerce Owners | Improving Your Marketing Performances | At metrix™, we're dedicated to empowering E-commerce owners by providing them with the tools they need to improve their marketing performances. We believe that data-driven insights should be accessible to everyone. That's why we created Metrix™. | Talk to Our Experts Today!   | Learn More  |
+
+| FAQ          | Answers to Common Questions | Clear and Concise Solutions | **How does your product/service work?** Simply connect your E-commerce and advertising platforms to Metrix™ and our algorithms will generate tailored suggestions for you. **What is the pricing structure and payment options?** We offer various pricing plans to suit your needs. Contact us to learn more. **Do you offer refunds or guarantees?** Yes, we offer a money-back guarantee. Contact us to learn more. **How long does it take to see results or experience the benefits?** Our algorithms generate insights in minutes, and you can start optimizing your campaigns right away. **Can your product/service be customized to meet specific needs?** Yes, we offer tailored solutions for your E-commerce and advertising campaigns. Contact us to learn more. **What kind of customer support do you provide?** We offer 24/7 customer support via email and chat. Contact us anytime! | Talk to Our Experts Today!   | Learn More  |
+
+| CTA          | Take Your Campaigns to the Next Level | Optimize Now | Optimize your campaigns with Metrix™ and take your marketing performances to the next level. | Start optimizing today!      | Optimize    |
+
+| Footer       | Mapping of Landing Page | Company References and Contact Information | - Home - About Us - Services - Pricing - FAQs - Contact Us | - © metrix™ 2023 All rights reserved - Privacy Policy - Terms and Conditions - Email: contact@metrix.com - Phone: +1(555)123-4567 | -            | -          |
+
 ## Conversation
 
 **ASSISTANT**: | Section      | Title        | Sub-Headline                | Copy                                                                                                  | Call to Action               | Button     |
@@ -148,5 +175,4 @@ This section contains the mapping of the landing page, the references of the com
 | CTA          | Take Your Campaigns to the Next Level | Optimize Now | Optimize your campaigns with Metrix™ and take your marketing performances to the next level. | Start optimizing today!      | Optimize    |
 
 | Footer       | Mapping of Landing Page | Company References and Contact Information | - Home - About Us - Services - Pricing - FAQs - Contact Us | - © metrix™ 2023 All rights reserved - Privacy Policy - Terms and Conditions - Email: contact@metrix.com - Phone: +1(555)123-4567 | -            | -          |
-
 

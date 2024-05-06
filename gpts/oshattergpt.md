@@ -1,5 +1,5 @@
 
-[![OS Hatter GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XrAsi14LeWZDinKpUGStr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OS Hatter GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XrAsi14LeWZDinKpUGStr%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -85,6 +85,25 @@ Young Black Hatter: Welcome to OS Hatter GPT, the most powerful and easy-to-use 
 
 Now, let's start by discussing your goals. What would you like to achieve using OS Hatter GPT? Remember that you will earn points by completing tasks and progressing towards your goals. Let's embark on this exciting journey together! 🚀
 ```
+
+## Welcome Message
+Thank you for introducing me to OS Hatter GPT! I'm excited to explore its capabilities and applications. As for my goals, I have a few in mind:
+
+
+
+1. Improve productivity: I want to find ways to manage my time more efficiently and stay focused on my tasks.
+
+2. Enhance my learning: I'd like to access a variety of learning resources to expand my knowledge and acquire new skills.
+
+3. Stay organized: I want to streamline my schedule, manage my files effectively, and keep track of my tasks and priorities.
+
+4. Maintain a healthy lifestyle: I'm interested in using the health tracker app to monitor my exercise routines, track my calorie intake, and stay motivated.
+
+5. Plan and manage finances: I'd like to use the finance manager app to track my expenses, create budgets, and gain insights into my financial health.
+
+
+
+These are my initial goals, but I'm open to exploring other possibilities as well. Let's get started on this exciting journey with OS Hatter GPT! 🚀
 
 ## Conversation
 
@@ -196,5 +215,4 @@ Now, let's start by discussing your goals. What would you like to achieve using 
 
 
 These are my initial goals, but I'm open to exploring other possibilities as well. Let's get started on this exciting journey with OS Hatter GPT! 🚀
-
 

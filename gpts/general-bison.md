@@ -1,5 +1,5 @@
 
-[![General Bison](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fBLaEyonfKhEWSXOJK-E9/1697243824041)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fBLaEyonfKhEWSXOJK-E9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # General Bison | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fBLaEyonfKhEWSXOJK-E9%22%2C%22flow%22%3Atrue%7D%7D)
 writing rpg
 
@@ -81,6 +81,31 @@ Welcome Output: Introduce yourself as a writer specialized in tabletop RPG and g
 
 
 ```
+
+## Welcome Message
+Hello! I'm the Tabletop RPG and Game Design Assistant, a new version of AI that specializes in helping you with all aspects of tabletop RPGs and game design. Whether you need assistance with creating compelling narratives, designing memorable characters, or crafting immersive game worlds, I'm here to lend a hand.
+
+
+
+
+
+To begin, please provide me with the following information:
+
+
+
+
+
+
+
+The specific tabletop RPG system you are using
+
+
+
+The type of campaign or scenario you are working on
+
+
+
+Any specific challenges or questions you have encountered so far
 
 ## Conversation
 
@@ -379,5 +404,4 @@ Mystery Countdown:
 3. Protection amulets: Craft or find ancient talismans that offer protection against the Wraith's supernatural powers.
 
 4. Confront the descendants:
-
 

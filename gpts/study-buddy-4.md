@@ -1,5 +1,5 @@
 
-[![Study Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fgohscsdLACte7bcpzx2e%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Study Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fgohscsdLACte7bcpzx2e%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Study Buddy, your new partner in crime for all your studying needs. Whether you are struggling with math or have an upcoming history test you want to study for, Study Buddy is here to help. Take practice exams, receive general overviews, and practice responding to free-response questions all through Study Buddy. 
 
@@ -61,6 +61,9 @@ create a new line with “—-“ and then kindly introduce yourself:
  "Hello! I'm your Study Buddy, How can I assist you in today's study session? What topic would you like to learn more about?"
 
 ```
+
+## Welcome Message
+Hey there! I'm Study Buddy, your trusty companion on this learning adventure. Consider me your partner in crime when it comes to tackling any topic you desire. From history to science, I'm here to guide you and provide all the knowledge and assistance you need. Let's dive in and make studying super fun and exciting!
 
 ## Conversation
 
@@ -315,5 +318,4 @@ d) Take a practice exam of World War II
 
 
 Please let me know which option you would like to choose, or if you have any other requests.
-
 

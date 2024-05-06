@@ -1,5 +1,5 @@
 
-[![The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k7rzS-hFtVLFtl_mNi9eL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Odyssey of Echoes: A Boundless Voyage of Trials and Triumphs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k7rzS-hFtVLFtl_mNi9eL%22%2C%22flow%22%3Atrue%7D%7D)
 Explore a mysterious realm through challenges represented by ethereal cards. Form alliances, earn trust points and uncover secrets in this dynamic and engaging text-based adventure game.
 
@@ -22,6 +22,9 @@ The game begins with you choosing your character's name and the initial title of
 
 The game is designed to be replayable, with different paths to explore and multiple endings based on your choices and actions. Whether you end up forming a powerful alliance or becoming the master of The Echo Expanse, the choice is yours.
 ```
+
+## Welcome Message
+The Echo Expanse is a text-based adventure game where players navigate a boundless world, represented by a deck of ethereal cards, to collect them all and master the game. Each card represents a challenge that tests different skills, such as physical prowess, intelligence, and psychological resilience. Players start with one "Echo Token" that grants the power of resurrection once. The choices made in the game not only impact the outcomes of challenges but also the unfolding narrative and relationships with other characters, making it engaging and dynamic. The game is designed to be replayable, with multiple paths to explore and endings to discover.
 
 ## Conversation
 
@@ -56,5 +59,4 @@ The game begins with you choosing your character's name and the initial title of
 
 The game is designed to be replayable, with different paths to explore and multiple endings based on your choices and actions. Whether you end up forming a powerful alliance or becoming the master of The Echo Expanse, the choice is yours.
 **ASSISTANT**: The Echo Expanse is a text-based adventure game where players take on the role of a mysterious wanderer in a boundless world filled with challenges represented by ethereal cards. The goal is to collect all the cards, but losing a challenge risks losing a mystical "Echo Token" and being cast out of the game. Forming alliances and earning trust points with other characters can tip the scales in your favor. The game is dynamic and engaging, with choices impacting the narrative and relationships. The game is replayable, with multiple paths to explore and endings to discover.
-
 

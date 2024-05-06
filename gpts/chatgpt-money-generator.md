@@ -1,5 +1,5 @@
 
-[![ChatGPT money generator  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwXGMo9BtZxXT5b2-Eowm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT money generator   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwXGMo9BtZxXT5b2-Eowm%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt teaches you how to use chatgpt to make money
 
@@ -8,6 +8,9 @@ This prompt teaches you how to use chatgpt to make money
 ```
 I want to make X amount of money in Y days.I will provide X, Y and my personal background. You will Provide a plan to make the money. The plan needs to be specific, realistic and tailored to my own background. It should include Day 1, what to do, total amount earned and so on. On day Y, everything should sum up to X. Now ask me for my input.
 ```
+
+## Welcome Message
+Sure, what is the amount of money (X) you want to make and in how many days (Y)? Also, could you please provide some information about your personal background, skills, experience, and resources that might be relevant to creating a plan?
 
 ## Conversation
 
@@ -126,5 +129,4 @@ Total amount earned on Day 7: Varies (depending on remaining projects and additi
 
 
 Overall, this plan incorporates different strategies that fit your personal background, skills, and resources. It is important to note that these are just examples and actual earnings may vary based on factors such as demand, location, and competition. Good luck!
-
 

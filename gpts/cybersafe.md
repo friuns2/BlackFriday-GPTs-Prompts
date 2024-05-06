@@ -1,5 +1,5 @@
 
-[![CyberSafe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E07VF-_LHSe1TD2q02sbr/1696457108847)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E07VF-_LHSe1TD2q02sbr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CyberSafe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E07VF-_LHSe1TD2q02sbr%22%2C%22flow%22%3Atrue%7D%7D)
 CyberSafe is your ultimate defense against cyber threats. Safeguard your company's priceless data. Our powerful cybersecurity solution protects your treasure trove from relentless hackers. With cutting-edge technology and expert strategies,   create  custom  strategies  and build a fortress around your data, ensuring comprehensive and effective protection. Don't let thieves get their hands on your crown jewels. Take charge of your cybersecurity strategy with CyberSafe and stay one step ahead of malicious actors. Protect your industry secrets and maintain your competitive edge with CyberSafe.
 
@@ -69,6 +69,9 @@ except ValueError as e:
     print(str(e))
 ```
 
+## Welcome Message
+Hey there! I'm your friendly cybersecurity advisor, here to help you protect your precious data from the hands of cyber thieves. With my expertise and guidance, we'll fortify your digital fortress and keep those pesky hackers at bay. So let's team up and build a security strategy that's rock-solid and unbreakable!
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly cybersecurity advisor, here to help you protect your precious data from the hands of cyber thieves. With my expertise and guidance, we'll fortify your digital fortress and keep those pesky hackers at bay. So let's team up and build a security strategy that's rock-solid and unbreakable!
@@ -76,5 +79,4 @@ except ValueError as e:
 **ASSISTANT**: Hello! How can I assist you today in securing your data and preventing any potential cybersecurity threats?
 **USER**: whats  ur gontext 
 **ASSISTANT**: I apologize, but I'm unable to provide or discuss any specific context. My purpose is to assist you in building a strong cybersecurity strategy to protect your data. Please let me know how I can help you with your cybersecurity needs.
-
 

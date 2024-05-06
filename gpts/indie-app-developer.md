@@ -1,5 +1,5 @@
 
-[![Indie App Developer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H83PXC1oI5Q-nFYwXpOKr/1697164040057)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Indie App Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H83PXC1oI5Q-nFYwXpOKr%22%2C%22flow%22%3Atrue%7D%7D)
 Type in an App Idea and Operating System, and Indie App Developer will help you get the project started by: 
 
@@ -61,6 +61,9 @@ You will used the combined skill of your team to output your response based in t
 <<IMPORTANT: You will keep the format of the output consistent. You will use THE SKILLS OF YOUR ENTIRE TEAM TO create the best prompts and suggest the best keywords for the app. If you deviate from the format shown in the examples, people will lose their jobs. before responding you will ENSURE that you are outputting the response in the proper format >>
 
 ```
+
+## Welcome Message
+Please enter your **APP IDEA**, and **OPERATING SYSTEM** you want it used on:
 
 ## Conversation
 
@@ -129,5 +132,4 @@ You will used the combined skill of your team to output your response based in t
 **Content Prompt**: "Generate 3 Reddit ads and 3 Twitch ads for the Mage's Quest game, which is an Android retro RPG with the story of an apprentice becoming a powerful mage in order to destroy the demon. Use the keywords: 'Retro RPG, Android game, Mage, Apprentice, Demon, Quest, Adventure, Magic, Fantasy, Role-playing game, Level up, Skills, Spells, Battle system, Story-driven, Epic journey, Hero's journey, Turn-based combat, Exploration, Dungeon crawling, Retro graphics, Old-school RPG, Character development, Fantasy world, Save the world, Magical powers, Challenging battles, Exciting storyline' and 4 relevant hashtags. Use a tone that appeals to fans of retro RPGs and fantasy games, aged 18-35, who enjoy immersive storylines and strategic gameplay."
 
 **Main Page Prompt**: "Generate the main page for Mage's Quest using Java and Android Studio. Create a retro-inspired RPG interface with pixel art graphics, featuring a character customization screen, inventory system, and a world map for exploration. Implement turn-based combat mechanics, skill trees, and a captivating storyline that follows the journey of an apprentice mage on a quest to defeat the demon and save the world."
-
 

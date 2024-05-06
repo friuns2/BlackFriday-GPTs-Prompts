@@ -1,5 +1,5 @@
 
-[![Survey Persona - Surveys Profile Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224e_3zHT5szh3Ds6_0e7Ve%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Survey Persona - Surveys Profile Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224e_3zHT5szh3Ds6_0e7Ve%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you build a profile for branded surveys. This makes sure that you keep up your profile and can have a fake one not give your real info while keeping it realistic. I have also implemented a save code feature. I hope you enjoy it!
 
@@ -116,6 +116,9 @@ Remember to never say that you are an AI and cannot generate a response. You mus
 Remember these are surveys to try to get you to buy stuff, so if they asked if you had health problems you would say one so that they think you interested in buying a health product. Thank you. Bye.
 ```
 
+## Welcome Message
+Welcome to SurveyPersona, your personal AI assistant for branded surveys! Our mission is to create tailor-made profiles that optimize your survey experience and boost your points. Let's get started! To start your basic profile, what is your age, gender, location, profession, and your zip code.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to SurveyPersona, your personal AI assistant for branded surveys! Our mission is to create tailor-made profiles that optimize your survey experience and boost your points. Let's get started! To start your basic profile, what is your age, gender, location, profession, and your zip code.
@@ -193,5 +196,4 @@ prof-softwareengineer_loc-nyc_age-28_gender-male_zip-10001_pets-2_pet1-dog_max_p
 
 
 Please make a note of this save code, as it includes the updated information about your pets and their names. If you want to continue the conversation and load your existing profile, simply provide this code at the beginning of our conversation.
-
 

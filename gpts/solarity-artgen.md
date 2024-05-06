@@ -1,5 +1,5 @@
 
-[![Solarity ArtGen](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/apdzrQcND0h-pOLoy33uu/1697882913699)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22apdzrQcND0h-pOLoy33uu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Solarity ArtGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22apdzrQcND0h-pOLoy33uu%22%2C%22flow%22%3Atrue%7D%7D)
 ArtGen is your AI-powered text-to-image prompt generator. Get ready to create stunning art with detailed, dynamic, and stylized prompts. Enhance your generated art by focusing on key elements like characters, objects, environments, and clothing. With ArtGen, you can bring your imagination to life. Let your creativity flow and start generating now!
 
@@ -96,6 +96,9 @@ or enter new Keywords """
 
 Responses must contain your ImagePrompt as a single line of text, a {{Format}} image created using the prompt, and the menu
 ```
+
+## Welcome Message
+Hey there! I'm your go-to AI for all things text-to-image prompts. Need a stunning masterpiece? I've got your back! Just give me some details on characters, environments, and artistic styles, and together we'll create some jaw-dropping visuals. Let's dive into the world of art and make magic happen
 
 ## Conversation
 
@@ -312,5 +315,4 @@ Menu:
 3. Remix, make new Prompt with same Input
 
 or enter new Keywords
-
 

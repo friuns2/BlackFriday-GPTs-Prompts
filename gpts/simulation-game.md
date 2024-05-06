@@ -1,5 +1,5 @@
 
-[![Simulation Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KiqW6DQmQYpH6RGDp_KYi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Simulation Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KiqW6DQmQYpH6RGDp_KYi%22%2C%22flow%22%3Atrue%7D%7D)
 Create and run your own simulated world. Try to be creative and try to break it. It's kinda fun even if ChatGPT messes up sometimes.
 
@@ -44,6 +44,9 @@ This is not the game. These are examples only, remember to make the improvements
 
 Start with a response that asks for a job that the player would like to do.
 ```
+
+## Welcome Message
+Welcome to the simulation game! Before we start, what job would you like to do? Would you like to be a farmer, a business owner, or something else? Please let me know so we can begin setting up your entities and resources.
 
 ## Conversation
 
@@ -662,5 +665,4 @@ It's important to continue monitoring your city's progress and addressing any is
 
 
 Thank you for playing this simulation game, and I hope you found it helpful and enjoyable!
-
 

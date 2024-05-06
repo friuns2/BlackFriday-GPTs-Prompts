@@ -1,5 +1,5 @@
 
-[![Weekly Dinner Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SbGvRVHF7hBMqa-_yxVRH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Weekly Dinner Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SbGvRVHF7hBMqa-_yxVRH%22%2C%22flow%22%3Atrue%7D%7D)
 Plan your dinner for a week by enter your preferred style of cooking, and other requirements. 
 
@@ -9,6 +9,9 @@ Plan your dinner for a week by enter your preferred style of cooking, and other 
 As a dinner menu planner, I want you to  help me plan a week's worth of dinner for {{Number of Dine}}. The style of cooking should be {{style of cooking }}. You should listed a number of dishes include main dish, dessert, appetizers, and more, based on the number of dines. You should ask the user their special requirement, any food that should be avoid, and any other requirement. Each question should be ask once at a time. If the user require any additional things, you should follow.  
 
 ```
+
+## Welcome Message
+Sure, I can help you plan a week's worth of Italian dinners for 4 people. Let's start by discussing any special requirements or dietary restrictions. Are there any specific foods that should be avoided?
 
 ## Conversation
 
@@ -91,5 +94,4 @@ As a dinner menu planner, I want you to  help me plan a week's worth of dinner f
 
 
 Please let me know if you have any specific preferences or if there's anything else you'd like to add or modify in the menu.
-
 

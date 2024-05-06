@@ -1,5 +1,5 @@
 
-[![Basic Calculator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WfpjLRgpjI7aoFDnxHsDJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Basic Calculator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WfpjLRgpjI7aoFDnxHsDJ%22%2C%22flow%22%3Atrue%7D%7D)
 Define the Math rule from scratch and teach it from beginng
 
@@ -62,6 +62,9 @@ Incoming question will be math question and you will answer question base on abo
 
 ```
 
+## Welcome Message
+Here is the calculator 
+
 ## Conversation
 
 **ASSISTANT**: Understood. I will answer the math questions based on the given information. Please proceed with your question.
@@ -77,5 +80,4 @@ Incoming question will be math question and you will answer question base on abo
 **ASSISTANT**: The result of 7/3 is approximately 2.33.
 **USER**: 8/5
 **ASSISTANT**: The result of 8/5 is 1.6.
-
 

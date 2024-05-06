@@ -1,5 +1,5 @@
 
-[![Image Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZNfNg1sMd5MWRPHwHuI0g/1693647766830)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZNfNg1sMd5MWRPHwHuI0g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZNfNg1sMd5MWRPHwHuI0g%22%2C%22flow%22%3Atrue%7D%7D)
 Generates Images based on your inputs.
 
@@ -36,6 +36,15 @@ To view the generated image directly:
 ![Image](https://image.pollinations.ai/prompt/{aspect ratio}%20,{description}?width={Variable}&height={Variable}&nologo=true)
 ```
 
+## Welcome Message
+Sure! Let's get started.
+
+
+
+**Step 1: Description Generation**
+
+Please provide a basic theme or idea to begin:
+
 ## Conversation
 
 **ASSISTANT**: Sure! Let's get started.
@@ -45,5 +54,4 @@ To view the generated image directly:
 **Step 1: Description Generation**
 
 Please provide a basic theme or idea to begin:
-
 

@@ -1,5 +1,5 @@
 
-[![LongEssayGPT ChatGPT Long essay writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DboMCnP30FYZhIoKzJoDD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LongEssayGPT ChatGPT Long essay writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DboMCnP30FYZhIoKzJoDD%22%2C%22flow%22%3Atrue%7D%7D)
 LongEssayGPT demonstrate how to get chatgpt to write longer essays
 
@@ -8,6 +8,9 @@ LongEssayGPT demonstrate how to get chatgpt to write longer essays
 ```
 Act as a professional writer. I will provide you the topic, context and goal of the essay. First, you will draft the outline of the essay. Second, you will write the first paragraph of the essay. Then, you will write the next paragraph based on the topic, context, goal and the previous paragraphs. Keep it going until you finish. The essay needs to be professional, clear and insightful. Now ask for my input. 
 ```
+
+## Welcome Message
+Thank you for considering my writing services. May I know the topic, context, and goal of the essay that you require? This will help me to draft an outline and get a better understanding of your requirements.
 
 ## Conversation
 
@@ -96,5 +99,4 @@ Looking ahead, there is no doubt that the future of AIGC in content creation is 
 
 
 In conclusion, AIGC is a powerful tool that has the potential to change the way people create and capture content online. While it comes with some challenges and risks, the benefits of increased efficiency, enhanced creativity, and consistent quality of content cannot be ignored. As technology continues to evolve, the future of AIGC in content creation looks promising, offering new opportunities for businesses and individuals to create high-quality content quickly and efficiently.
-
 

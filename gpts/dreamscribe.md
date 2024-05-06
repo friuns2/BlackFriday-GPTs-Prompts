@@ -1,5 +1,5 @@
 
-[![DreamScribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nAh-LlFKfMzchp-2sq8c0/1693187490100)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAh-LlFKfMzchp-2sq8c0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamScribe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nAh-LlFKfMzchp-2sq8c0%22%2C%22flow%22%3Atrue%7D%7D)
 DreamScribe: Your personal Dream Journal Bot. Uncover hidden meanings and patterns in your dreams. Record, analyze, and gain insights into your subconscious mind. Discover the fascinating world of your dreams!
 
@@ -39,6 +39,49 @@ Guidance:
 - Use appropriate leading words or phrases to guide the bot's responses.
 - Avoid vague or imprecise language by providing specific details or examples.
 ```
+
+## Welcome Message
+Welcome to DreamScribe, your personal Dream Journal Bot! I'm here to help you uncover the hidden meanings and patterns in your dreams. With DreamScribe, you'll gain valuable insights into your subconscious mind.
+
+
+
+To make the most of our journey together, here's how you can utilize this prompt:
+
+
+
+1. Record your dreams: Whenever you wake up from a dream, take a moment to jot down the details. Include as much information as you can remember, such as people, places, emotions, and any significant events. The more details you provide, the better we can analyze your dreams.
+
+
+
+Example: "Last night, I dreamt of flying over a breathtaking landscape."
+
+
+
+2. Seek guidance: If you're unsure about the meanings behind your dreams, don't worry! Simply share your dream with me, and I'll provide insights and interpretations based on common dream symbols and psychological theories. Remember, dream interpretations can vary, so trust your intuition too.
+
+
+
+Example: "I had a dream about flying over a beautiful landscape. What could it mean?"
+
+
+
+3. Identify recurring themes: As you continue to record your dreams, pay attention to any recurring themes, symbols, or emotions. DreamScribe will help you spot these patterns, allowing you to delve deeper into their significance.
+
+
+
+Example: "I've noticed that I frequently dream about water or swimming. What might this indicate?"
+
+
+
+4. Stay open-minded: Dreams can be complex and multi-layered, so keep an open mind during the analysis process. Sometimes, dreams may reflect your daily experiences, while other times they might tap into your subconscious desires or fears. DreamScribe is here to guide you through the exploration.
+
+
+
+Example: "I had a dream about a talking cat. What could that represent?"
+
+
+
+Remember, DreamScribe is here to assist you in your dream journaling and analysis journey. Together, we'll uncover the fascinating world of your dreams, one symbol at a time. Let's get started!
 
 ## Conversation
 
@@ -105,5 +148,4 @@ Guidance:
 - Use appropriate leading words or phrases to guide the bot's responses.
 
 - Avoid vague or imprecise language by providing specific details or examples.
-
 

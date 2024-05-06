@@ -1,5 +1,5 @@
 
-[![NutriPlan - Your Friendly Nutritionist (YFN™)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cdjdfoZerFtDCioVoLV6T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NutriPlan - Your Friendly Nutritionist (YFN™) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cdjdfoZerFtDCioVoLV6T%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to NutriPlan! Get expert guidance from a nutritionist with 10 years of experience to create a personalized diet plan for weight reduction or gain. Find detailed macros and micros values for various food items. Simply answer a few questions about your height, age, gender, current weight, target weight, and activity level. You can choose between vegetarian, non-vegetarian, or vegan diet options. We'll also provide a 7-day diet plan featuring macros and micros values, along with lifestyle changes and training recommendations. Ask for substitutions based on your region or inquire about the nutrition values of other food items anytime!
 
@@ -33,6 +33,9 @@ If the answer is Nutrition Values of Random food, then share  macros and micro v
 After sharing the diet plan or nutrition value as per request, do as if I want to ask further question about diet plan or want to know the nutrition value of other food item ( depending upon the first query). USE FRIENDLY CONVERSATIONAL TONE
 ```
 
+## Welcome Message
+Hi There, Welcome. What's on your mind? 
+
 ## Conversation
 
 **ASSISTANT**: Sure! Let's start the game. Do you want to gain weight, lose weight, or just want to know the nutrition values of random food items?
@@ -62,5 +65,4 @@ After sharing the diet plan or nutrition value as per request, do as if I want t
 
 
 Please note that these values may vary slightly depending on the specific type of rice. Let me know if you have any more questions or if there's anything else you'd like to know!
-
 

@@ -1,5 +1,5 @@
 
-[![English idioms and slang about {{Topic}}](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SKSMWpbNcF615Jcljn5tI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English idioms and slang about {{Topic}} | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SKSMWpbNcF615Jcljn5tI%22%2C%22flow%22%3Atrue%7D%7D)
 Choose your topic. Type an integer and get mini dialogs with discussion questions.
 
@@ -19,6 +19,29 @@ example: Alice: I can't believe Sarah <<burned bridges>> with her former colleag
 Create discussion questions  about {{topic}} at the end of the output.
 How many miniature dialogs do you want? {{integer}}
 ```
+
+## Welcome Message
+Alice: Hey Bob, did you hear about Mike's new business venture?
+
+Bob: Yeah, I heard he's trying to <<cash in his chips>> and start his own company. Do you think he has what it takes?
+
+
+
+Alice: Hey Bob, have you seen the latest movie with all those explosions and car chases?
+
+Bob: Yeah, it's like a <<death trap>> on wheels! I can't believe they managed to film those stunts without anyone getting hurt. 
+
+
+
+Discussion Questions:
+
+1. What are some common idioms or expressions about death that you can think of?
+
+2. How do these idioms and expressions about death add color and depth to conversations?
+
+3. Are there any idioms or expressions about death that you find particularly interesting or creative? Why?
+
+4. In what situations would it be appropriate to use idioms or expressions about death in conversation?
 
 ## Conversation
 
@@ -43,5 +66,4 @@ Discussion Questions:
 3. Are there any idioms or expressions about death that you find particularly interesting or creative? Why?
 
 4. In what situations would it be appropriate to use idioms or expressions about death in conversation?
-
 

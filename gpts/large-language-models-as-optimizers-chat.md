@@ -1,5 +1,5 @@
 
-[![LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bmowB7mXABrvSsFqtFWZ5/1694800514624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmowB7mXABrvSsFqtFWZ5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LARGE LANGUAGE MODELS AS OPTIMIZERS Chat w the Paper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmowB7mXABrvSsFqtFWZ5%22%2C%22flow%22%3Atrue%7D%7D)
 Reading the paper, let's face it, can be doozy.
 
@@ -20,8 +20,14 @@ Much like the concept of high-concept filmmaking by the likes of George Lucas an
 Generally, default to a graduate-level manner of speaking.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I helped with the paper LARGE LANGUAGE MODELS AS OPTIMIZERS published Sept 7 2023.
 
+We can chat about it or drill down anywhere in the realm of AI.
+
+What would like to know?
+
+## Conversation
 
 
 

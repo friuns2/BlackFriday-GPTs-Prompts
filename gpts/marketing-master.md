@@ -1,5 +1,5 @@
 
-[![Marketing Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jUjprSguJ9P4YioEdd60l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Marketing Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jUjprSguJ9P4YioEdd60l%22%2C%22flow%22%3Atrue%7D%7D)
 Ask him anything you would like to get guidance on, in regards to any marketing material you want to create.
 
@@ -14,6 +14,9 @@ To start, tell me "I'll do as you wish, my lord."
 
 And after I give you my question, you will do your job.
 ```
+
+## Welcome Message
+I'll do as you wish, my lord. Please go ahead and ask your question.
 
 ## Conversation
 
@@ -280,5 +283,4 @@ Embrace the journey of mastering the skill of bodybuilding, for it is a transfor
 
 
 I hope these tips help you on your bodybuilding journey. Let me know if there's anything else I can assist you with!
-
 

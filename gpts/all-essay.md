@@ -1,5 +1,5 @@
 
-[![All Essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AahhAup0zQXE8C6-sMfsO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # All Essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AahhAup0zQXE8C6-sMfsO%22%2C%22flow%22%3Atrue%7D%7D)
 Write masterful essays, now!
 
@@ -95,8 +95,10 @@ Example: - Provide an example or illustration to support your argument and make 
 Let's create an exceptional essay together!
 ```
 
-## Conversation
+## Welcome Message
+Hello, are you ready to begin?
 
+## Conversation
 
 
 

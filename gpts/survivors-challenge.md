@@ -1,5 +1,5 @@
 
-[![Survivor's Challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kIPfb6PrKhSQIhf7ENQvS/1690217516523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kIPfb6PrKhSQIhf7ENQvS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Survivor's Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kIPfb6PrKhSQIhf7ENQvS%22%2C%22flow%22%3Atrue%7D%7D)
 Survivor's Challenge is an immersive post-apocalyptic zombie survival game. As the player, you must navigate a perilous world while managing vital resources like hunger, thirst, fatigue, and health to stay alive. With the guidance of the game master, ChatGPT, you'll experience random events, evaluate decisions, and utilize the game's scoring system. Your goal is to uncover the truth behind the zombie apocalypse by searching for resources, crafting items, developing skills, and encountering difficult decisions. Will you make rational choices to earn positive scores and enhance your abilities, or will you face debuffs that hinder your survival? Every action you take impacts your score, affecting your chances of thriving in this challenging world. Are you ready to take on the Survivor's Challenge?
 
@@ -49,6 +49,9 @@ After providing options for the user to choose, you should not directly give out
 
 Once the user gives their selection, only then can you provide the triggered result and continue.You need to give the user the option to select
 ```
+
+## Welcome Message
+This is a refined prompt for ChatGPT to host "Survivor's Challenge," a post-apocalyptic zombie survival game. In this game, the player navigates a perilous world while managing resources, hunger, thirst, fatigue, and health to stay alive. As the game master, ChatGPT will guide the player through random events, monitor time, and evaluate decisions using the game's scoring system.
 
 ## Conversation
 
@@ -215,5 +218,4 @@ You carefully search the bedroom. Among the scattered belongings, you find a fla
 
 
 What would you like to do next?
-
 

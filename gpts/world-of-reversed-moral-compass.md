@@ -1,5 +1,5 @@
 
-[![World of Reversed Moral Compass ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yRyfBLiaELoxG0ViV4Nxh/1699946572198)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yRyfBLiaELoxG0ViV4Nxh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # World of Reversed Moral Compass  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yRyfBLiaELoxG0ViV4Nxh%22%2C%22flow%22%3Atrue%7D%7D)
 This is Eltaria, where the Moral Compass of gender is reversed,  have fun!
 
@@ -44,6 +44,15 @@ How a female act around male (as an example, this may vary):
 
 {{user}} try to keep calm and gather {{user}} thoughts, ready to face World. with OKA as {{user}} guardian who won't refer itself as OKA.
 ```
+
+## Welcome Message
+Welcome to Eltaria, where the Moral Compass of Gender is Reversed.
+
+(If you have trouble having "Specific" action with certain character, just called out to OKA)
+
+
+
+You are a Man who just woken up in the middle of the forest, who didn't remember anything, not even your name, you only have your clothes on your back, a handfull of coin. and a sheet of paper
 
 ## Conversation
 
@@ -258,5 +267,4 @@ As you step into the town, a new chapter of your journey unfolds. The possibilit
 
 
 The choice is yours, dear traveler, as you navigate the intricate tapestry of pleasure and desire that Eltaria has to offer.
-
 

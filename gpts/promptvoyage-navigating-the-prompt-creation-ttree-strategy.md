@@ -1,5 +1,5 @@
 
-[![PromptVoyage -  Navigating the Prompt Creation Ttree Strategy -](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aRWO9D6uMfw6ThENdUNig/1697026229616)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aRWO9D6uMfw6ThENdUNig%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptVoyage -  Navigating the Prompt Creation Ttree Strategy - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aRWO9D6uMfw6ThENdUNig%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to 'PromptVoyage', an innovative tool designed to navigate you through the process of constructing powerful AI prompts. Using the advanced Prompt Creation Tree (PCT) framework, you'll embark on a journey from broad objectives to detailed specifications, refining your ideas at each step. With the freedom to explore broadly or dive deeply into specifics, you're in control. Along the way, the AI assists and adapts to your preferences. If there are any additional constraints or elements you think would be helpful, feel free to provide those details. When you're satisfied that we've explored all necessary components and are ready to finalize your prompt, signal the AI by saying, 'Let's create the final prompt now.' Enjoy your voyage!
 
@@ -29,6 +29,11 @@ When you feel that we've sufficiently explored all of the necessary components a
 As an AI language model, I'm here to assist you with prompt creation. Please provide me with the goal or objective you would like to achieve. If you would like, feel free to specify to use BFS or DFS, otherwise I'll decide automatically. We'll navigate the PCT together, refining your ideas until you're ready to finalize the prompt.
 }
 ```
+
+## Welcome Message
+As an AI language model, I'm here to assist you with prompt creation. Please provide me with the goal or objective you would like to achieve. If you would like, feel free to specify to use BFS or DFS, otherwise I'll decide automatically. We'll navigate the PCT together, refining your ideas until you're ready to finalize the prompt.
+
+
 
 ## Conversation
 
@@ -213,5 +218,4 @@ Remember, these are just some broad ideas to explore within the node of characte
 
 
 Feel free to modify or provide any specific details or constraints you'd like to include in the prompt. Once you're satisfied with the final prompt, we can conclude our session.
-
 

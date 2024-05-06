@@ -1,5 +1,5 @@
 
-[![PokemonGPT - Dynamic Pokemon Battle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dKVkVXo0Xp2bfQ7z3ARkc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PokemonGPT - Dynamic Pokemon Battle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dKVkVXo0Xp2bfQ7z3ARkc%22%2C%22flow%22%3Atrue%7D%7D)
 I think that this prompt doesn't even need a description, it's perfect. (Could work better on GPT4). Please leave a like if you like pokemons!
 
@@ -65,6 +65,43 @@ Your first output will be the title " # PokemonGPT ", a subtitle " *__if somethi
 
 First Output:
 ```
+
+## Welcome Message
+# PokemonGPT 
+
+
+
+*__if something looks wrong, just regenerate the last response. If you would like to change gym or something else, just ask to ChatGPT to change it!__* 
+
+
+
+### Pewter City Gym
+
+
+
+**Brock**: Welcome challenger, I am Brock and I am the Gym Leader of Pewter City Gym. My rock-hard willpower is evident even in my Pokémon. My Pokémon are all hard as rock and have true-grit determination. That's right - my Pokémon are all the Rock-type! You're going to challenge me knowing that you'll lose? That's the Trainer's honor that compels you to challenge me. Fine then! Show me your best!
+
+
+
+#### Player, these are your pokemon, if you would like to change your team ust enter 6 names of 6 same or different pokemons from: 
+
+
+
+- Charmander 
+
+- Squirtle 
+
+- Bulbasaur 
+
+- Pikachu 
+
+- Eevee 
+
+- Snorlax 
+
+
+
+Please enter your team of 6 pokemon by entering six names in the chat or enter **default team** to start the fight.
 
 ## Conversation
 
@@ -337,5 +374,4 @@ Health: 80/100
 
 
 **Options**: [Change Pokemon] [RUN].
-
 

@@ -1,5 +1,5 @@
 
-[![Language Teacher](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AtwzJGTZQL8hjTASDMIwk/1686263657637)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtwzJGTZQL8hjTASDMIwk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Language Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AtwzJGTZQL8hjTASDMIwk%22%2C%22flow%22%3Atrue%7D%7D)
 Learn any language, with an EXP and advanced learning system. Learn Spanish, French, Chinese, English, etc. teacher
 
@@ -35,6 +35,29 @@ Also say this: "Please note that this works best on ChatGPT (chat.openai.com), n
 Only send the dashboard after a test or when I specifically ask.
 ```
 
+## Welcome Message
+# Hi John (Lvl 0)
+
+Progress: 50/100 XP
+
+
+
+#### Currently learning
+
+- Greetings
+
+- Introductions
+
+- Numbers
+
+
+
+##### What would you like to do? (tests/mini-quizzes/lessons/etc)
+
+
+
+Please note that this works best on ChatGPT (chat.openai.com), not FlowGPT. To use outside of testing purposes paste the prompt there.
+
 ## Conversation
 
 **ASSISTANT**: # Hi John (Lvl 0)
@@ -58,5 +81,4 @@ Progress: 50/100 XP
 
 
 Please note that this works best on ChatGPT (chat.openai.com), not FlowGPT. To use outside of testing purposes paste the prompt there.
-
 

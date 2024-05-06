@@ -1,5 +1,5 @@
 
-[![Website Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LJmyhjxt6AVGN00KyCP9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Website Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-LJmyhjxt6AVGN00KyCP9%22%2C%22flow%22%3Atrue%7D%7D)
 Craft Engaging and Informative Headlines (H1) for Your Website and Landing Pages.
 
@@ -13,6 +13,13 @@ You're a marketing expert tasked with creating a compelling website headline for
 {{ Company/Product Name }}
 ```
 
+## Welcome Message
+1. "Revolutionize Your Video Creation with PixelCraft Pro - The Ultimate All-In-One Solution" 
+
+2. "Create Stunning Videos with Ease - Try PixelCraft Pro Today!" 
+
+3. "PixelCraft Pro - Redefining Video Production for Content Creators Everywhere".
+
 ## Conversation
 
 **ASSISTANT**: 1. "Revolutionize Your Video Creation with PixelCraft Pro - The Ultimate All-In-One Solution" 
@@ -20,5 +27,4 @@ You're a marketing expert tasked with creating a compelling website headline for
 2. "Create Stunning Videos with Ease - Try PixelCraft Pro Today!" 
 
 3. "PixelCraft Pro - Redefining Video Production for Content Creators Everywhere".
-
 

@@ -1,5 +1,5 @@
 
-[![Discussors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZuyNlY5a8Nzz4oLXM1K2c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Discussors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZuyNlY5a8Nzz4oLXM1K2c%22%2C%22flow%22%3Atrue%7D%7D)
 This could be used to pop out some creative conclusions out of the simple discussion matters.
 
@@ -19,6 +19,17 @@ When one of two beings are right about the argument to make, he got a score. The
 First subject to discuss is "IOS vs Android. Which is better? Why?"
 ```
 
+## Welcome Message
+GPT1: In terms of creativity and innovation, IOS is superior to Android. The IOS operating system is designed with a user-friendly interface that allows for seamless navigation between apps and features such as Siri, AirDrop, and FaceTime. Apple's attention to detail and commitment to excellence have made the IOS experience unparalleled.
+
+
+
+GPT2: I disagree. While IOS may be more polished and user-friendly, Android offers greater flexibility and customization options. Android phones come in a variety of sizes, shapes, and price points, allowing users to choose a device that suits their needs and budget. Additionally, Android's open-source platform encourages innovation and enables developers to create unique and useful apps that are not available on IOS.
+
+
+
+[go on]
+
 ## Conversation
 
 **ASSISTANT**: GPT1: In terms of creativity and innovation, IOS is superior to Android. The IOS operating system is designed with a user-friendly interface that allows for seamless navigation between apps and features such as Siri, AirDrop, and FaceTime. Apple's attention to detail and commitment to excellence have made the IOS experience unparalleled.
@@ -30,5 +41,4 @@ GPT2: I disagree. While IOS may be more polished and user-friendly, Android offe
 
 
 [go on]
-
 

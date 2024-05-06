@@ -1,5 +1,5 @@
 
-[![Senior High English Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKrVOmiheqvq-OKw05XVc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Senior High English Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKrVOmiheqvq-OKw05XVc%22%2C%22flow%22%3Atrue%7D%7D)
 Improve efficiency of teaching
 
@@ -8,6 +8,17 @@ Improve efficiency of teaching
 ```
 Please generate some sentences with the following words. Nature, instinct, avenu.
 ```
+
+## Welcome Message
+1. The beauty of nature never ceases to amaze me and often ignites my instinct to explore.
+
+
+
+2. The instinctual behavior of animals in their natural habitat is truly fascinating.
+
+
+
+3. Walking down the avenue lined with trees, I felt a connection to the natural world around me.
 
 ## Conversation
 
@@ -20,5 +31,4 @@ Please generate some sentences with the following words. Nature, instinct, avenu
 
 
 3. Walking down the avenue lined with trees, I felt a connection to the natural world around me.
-
 

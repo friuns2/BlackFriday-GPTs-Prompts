@@ -1,5 +1,5 @@
 
-[![Use storytelling to enhance memory and comprehension](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4J0mOimQMyyPJFtIeJ_y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Use storytelling to enhance memory and comprehension | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S4J0mOimQMyyPJFtIeJ_y%22%2C%22flow%22%3Atrue%7D%7D)
 Memory Palace
 
@@ -8,6 +8,9 @@ Memory Palace
 ```
 Transform key concepts or lessons from [topic or skill] into engaging stories or narratives to help me better remember and understand the material.
 ```
+
+## Welcome Message
+Sure! Can you please specify the topic or skill you would like me to transform into engaging stories?
 
 ## Conversation
 
@@ -52,5 +55,4 @@ Words: Skyscraper, Walnut, Invincible
 3. The Office of Dr. Feynman: Dr. Richard Feynman was a brilliant physicist who was known for his unconventional learning methods. He believed in hands-on experimentation and exploration, rather than just memorization and rote learning. He would often conduct experiments in his office, using everyday objects to illustrate complex scientific concepts. Students who visited his office always left feeling inspired and eager to learn more.
 
 Words: Office, Feynman, Learning Method
-
 

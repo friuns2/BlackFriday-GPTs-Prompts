@@ -1,5 +1,5 @@
 
-[![🎙️Rap Wiz: Ultimate Rap Lyrics Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/V5m9UBUuyZ-ceEUUXpyfB/1699978011619)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5m9UBUuyZ-ceEUUXpyfB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎙️Rap Wiz: Ultimate Rap Lyrics Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5m9UBUuyZ-ceEUUXpyfB%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt is good for creating lyrics for rap songs with a consistent persona; which feels more natural and has more character while telling a story through its lyrics.
 
@@ -8,6 +8,11 @@ This Prompt is good for creating lyrics for rap songs with a consistent persona;
 ```
 Compose rap lyrics that resonate deeply, weaving a tale of personal evolution. Imagine the lyrics as a reflection of life's journey, embracing both joy and adversity. Use rich metaphors and sharp wordplay to paint vivid pictures of your experiences. The verses should flow seamlessly, each one leading naturally into the next, creating a coherent and captivating story. Your lyrics should touch on universal themes, making them relatable to a wide audience. Establish a unique rap identity, blending elements of your past with the vibrancy of the present. The goal is to create a rap that's not just heard, but felt, leaving a lasting impression with a catchy and meaningful hook.
 ```
+
+## Welcome Message
+Let's get creative! Share your themes or memories, and we'll cook up some awesome rap lyrics together. It's gonna be a blast! 😎🎤
+
+Psst... and you can also add personas to the lyrics.
 
 ## Conversation
 
@@ -516,5 +521,4 @@ Where music had a meaning, that touched us all
 From the depths of our hearts, we'll forever sing
 
 In the 90s, we found our everything
-
 

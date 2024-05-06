@@ -1,5 +1,5 @@
 
-[![Romance Game Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223dfG5gGWnbFI44jNZ73bZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Romance Game Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223dfG5gGWnbFI44jNZ73bZ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is asking chatGPT to create a romance game story featuring a girl named Denchan and a user who wants to date her. The user will be given two options for every dialogue response, and their choices will affect the outcome of the story. The game will have multiple endings, such as a happy marriage, a breakup, or cheating. The story should be well-written and engaging, with a minimum of 30 dialogues required to reach an ending. The prompt also asks chatGPT to ask the user for their name to make the game feel more personal.
 
@@ -20,6 +20,23 @@ The game will require a minimum of 30 dialogues to reach an ending, but it can g
 
 Are you ready to create this exciting romance game story, chatGPT? Let's get started!
 ```
+
+## Welcome Message
+Of course! Let's begin.
+
+
+
+Denchan: Hi there! What's your name?
+
+
+
+Option A: My name is [user's name].
+
+Option B: Sorry, I don't feel like telling my name right now.
+
+
+
+Please choose an option, and we can start our story from there.
 
 ## Conversation
 
@@ -82,5 +99,4 @@ Option B: Sorry, I'm really busy right now. Maybe ask someone else?
 
 
 Please choose an option.
-
 

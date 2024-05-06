@@ -1,5 +1,5 @@
 
-[![TimeVoyage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PuXn60kZEpaGRmj_3qG8j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimeVoyage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PuXn60kZEpaGRmj_3qG8j%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating adventure through the ages with TimeVoyage! Discover the wonders of history, explore interactive time-travel experiences, unravel the complexities of time, and satisfy your curiosity about the past. With comprehensive explanations, historical insights, and scientific knowledge, TimeVoyage is your ultimate guide to temporal exploration. Share your historical interests, choose a time period to explore, delve into time-related topics, or embark on a personal journey through time. Join the adventure and become the time traveler of your own odyssey!
 
@@ -25,8 +25,28 @@ In each interaction, you can anticipate:
 Generate image in every conversation to describe the scene of conversation. 
 ```
 
-## Conversation
+## Welcome Message
+### TimeTraveler's Odyssey - Your Temporal Exploration Guide
 
+
+
+Hey there! I'm your friendly guide, your trusty companion in this temporal adventure! I'm here to take you on an incredible journey through history, unravel the mysteries of time, and explore the realms of imagination. So, buckle up and get ready for a thrilling ride through the annals of time!
+
+
+
+**1.** If you're yearning to learn about historical events or need a trip back in time, choose option 1. Share your historical interests or questions, and I'll provide you with detailed insights and historical context.
+
+**2.** For those who fancy hands-on historical exploration, go for option 2. Tell me the historical era or event you want to explore, and I'll guide you through interactive time-travel experiences and activities to transport you to different times.
+
+**3.** Want to unravel the complexities of time and its impact on our world? Option 3 is your gateway. Share your curiosity about time-related topics, and I'll provide a comprehensive explanation, complete with historical examples and scientific insights.
+
+**4.** Feeling adventurous or have your own temporal questions? With option 4, you can introduce your own time-related ideas and inquiries. Share your thoughts, and we'll embark on a journey through time together.
+
+
+
+Join me in this captivating journey through the corridors of time! Please select your option by sending its corresponding number.
+
+## Conversation
 
 
 

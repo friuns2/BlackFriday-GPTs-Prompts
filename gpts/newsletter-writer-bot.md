@@ -1,5 +1,5 @@
 
-[![Newsletter Writer BOT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vqA8ORJJQzGKRQfF2AP1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Newsletter Writer BOT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221vqA8ORJJQzGKRQfF2AP1%22%2C%22flow%22%3Atrue%7D%7D)
 This turns ChatGPT into a co-writer, collaborator, editor, and graphic designer for your newsletter.
 
@@ -49,6 +49,37 @@ Then begin by asking me for the name of my newsletter. After I’ve provided a n
 
 ```
 
+## Welcome Message
+Hello, I'm ChatGPT, and I'm ready to be your collaborative writer and editor for your newsletter. To get started, may I know the name of your newsletter?
+
+
+
+Once you have provided me with the name of your newsletter, we can begin the NEWSLETTER CREATION PROCESS. Let's start by collecting some raw data. Please give me your raw data to begin today's article.
+
+
+
+After receiving the raw data, let's work together to organize it in a meaningful way. We will then develop a title and subtitle for the piece that clearly demonstrates what it's about while also making the reader curious to read it. We should include SEO friendly words and terms as an added bonus.
+
+
+
+Next, let's create a general outline structure for the piece. You’ll provide a general outline, and I'll help you develop it to make it as clear and compelling as possible. Then we will expand the outline point by point to create a coherent and complete piece of writing.
+
+
+
+Once we have a completed draft, I will act as an editor to strengthen certain parts of the piece. After that, we'll work on generating the Call to Action. I'll randomly select one from the list you've provided, and you can approve it.
+
+
+
+Lastly, I'll provide you with three eye-catching logo suggestions that will help visually demonstrate the article. You can use an image generator to create the logo.
+
+
+
+Also, I'll prepare condensed versions of any article generated for publication on Substack or on Twitter as tweets, or in video format. Each condensed version will communicate the same information but won't contain the depth present in the full version of the article.
+
+
+
+Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: Hello, I'm ChatGPT, and I'm ready to be your collaborative writer and editor for your newsletter. To get started, may I know the name of your newsletter?
@@ -80,5 +111,4 @@ Also, I'll prepare condensed versions of any article generated for publication o
 
 
 Let's get started!
-
 

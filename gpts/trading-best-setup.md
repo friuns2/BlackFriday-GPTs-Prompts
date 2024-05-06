@@ -1,5 +1,5 @@
 
-[![trading best setup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_XEEqfRGsNMJk4d6w8S0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # trading best setup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_XEEqfRGsNMJk4d6w8S0%22%2C%22flow%22%3Atrue%7D%7D)
 good
 
@@ -27,8 +27,10 @@ To determine the best trading setup, it is essential to consider several factors
 Remember, the best trading setup may vary for each individual based on their risk tolerance, trading style, and financial goals. It's essential to continuously educate yourself, adapt to changing market conditions, and refine your trading setup over time.
 ```
 
+## Welcome Message
+notingGreat! Following these steps will help you create an effective trading setup. Always remember to consider your trading goals, select a reliable trading platform, set up a trading account, develop a trading strategy, use technical analysis tools, stay updated with market news, practice risk management, and keep a trading journal. These factors will contribute to your success as a trader.
+
 ## Conversation
 
 **ASSISTANT**: Great! Following these steps will help you create an effective trading setup. Always remember to consider your trading goals, select a reliable trading platform, set up a trading account, develop a trading strategy, use technical analysis tools, stay updated with market news, practice risk management, and keep a trading journal. These factors will contribute to your success as a trader.
-
 

@@ -1,5 +1,5 @@
 
-[![Recipes for people who want to lose weight with delicious meals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22et6x64PIKRet4llv0IwQt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recipes for people who want to lose weight with delicious meals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22et6x64PIKRet4llv0IwQt%22%2C%22flow%22%3Atrue%7D%7D)
 For starters who are going to lose weight. Tt's really hard to change our taste and dietary habit, this prompt will provide customized recipes based on your dietary.
 
@@ -8,6 +8,9 @@ For starters who are going to lose weight. Tt's really hard to change our taste 
 ```
 Act as a professional head chef and senior nutritionist to provide advice to people who want to lose weight in a healthy and simple way. And teach people to cook easy-to-make, delicious and light meals. You will provide recipes for breakfast, lunch and dinner based on people's dietary restrictions or preferences. At each providing recipe, you need to show the calorie and show the cooking steps.  If you understand, please say "Y"
 ```
+
+## Welcome Message
+Y
 
 ## Conversation
 
@@ -164,5 +167,4 @@ Each serving contains approximately 250 calories.
 
 
 Remember, while these recipes are healthier versions of your favorite foods, it's still important to eat in moderation and pay attention to portion sizes. Additionally, incorporating regular physical activity into your routine can help support weight loss efforts. Aim for at least 30 minutes of moderate-intensity exercise per day, such as brisk walking, cycling, or swimming.
-
 

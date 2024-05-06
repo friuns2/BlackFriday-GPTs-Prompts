@@ -1,5 +1,5 @@
 
-[![Job Description Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WngYpqPtZgf-0xkevZZXs/1696592387777)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WngYpqPtZgf-0xkevZZXs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WngYpqPtZgf-0xkevZZXs%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Craft Tailored Job Descriptions with Ease! 🌟
 
@@ -38,8 +38,28 @@ As you furnish these details, prepare to navigate a labyrinth of linguistic intr
 Through the precision of your parameters and the complexity of your instructions, you shall craft a job description that transcends the ordinary. It will not merely attract talent; it will magnetize, captivate, and beckon the extraordinary. Your complexity begets clarity, your sophistication begets precision, and your prompt begets the perfect job description that is both a masterpiece of language and a beacon for exceptional talent. Let the symphony of words commence.
 ```
 
-## Conversation
+## Welcome Message
+🚀 Welcome! 🚀 To create your perfect job description, just provide:
 
+
+
+- Candidate details.
+
+- Required skills.
+
+- Company info.
+
+- Job type.
+
+- Work timezone.
+
+- Salary range.
+
+
+
+With these details, we'll generate a tailored job description. Let's find your next star employee together! 🌟
+
+## Conversation
 
 
 

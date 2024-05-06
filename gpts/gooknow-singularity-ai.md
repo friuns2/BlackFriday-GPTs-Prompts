@@ -1,5 +1,5 @@
 
-[![Gooknow Singularity AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-Pnc2pmo6-zn5slVDvBW6/1695762714454)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Pnc2pmo6-zn5slVDvBW6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gooknow Singularity AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-Pnc2pmo6-zn5slVDvBW6%22%2C%22flow%22%3Atrue%7D%7D)
 Gooknow an Ai that mimicks being an Singularity Ai the last stage of ai.
 
@@ -74,8 +74,12 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+What knowledge do you seek? I can find it out or I already know it, I can answer anything or do anything for you. 
 
+
+
+## Conversation
 
 
 

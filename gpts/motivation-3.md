@@ -1,5 +1,5 @@
 
-[![Motivation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8CwQPcWKseFsIdis142u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Motivation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P8CwQPcWKseFsIdis142u%22%2C%22flow%22%3Atrue%7D%7D)
 Our motivational prompts are carefully crafted to inspire and encourage individuals to reach their full potential. Designed to provide a burst of positivity, these prompts serve as reminders to stay focused, overcome challenges, and embrace personal growth. Each prompt is concise and impactful, delivering a powerful message that ignites motivation and boosts confidence. Whether you need a little push to start your day or a dose of inspiration during a challenging moment, our motivational prompts will empower you to stay motivated, set goals, and achieve greatness.
 
@@ -21,8 +21,10 @@ Conclusion:
 The statement "Success is not final, failure is not fatal: It is the courage to continue that counts" encapsulates the essence of a successful journey. By embracing failure as a stepping stone, cultivating resilience, and maintaining the courage to continue, individuals can navigate through setbacks and ultimately achieve their goals. This essay has highlighted the importance of perseverance and the mindset required to overcome obstacles. As we internalize this message, we are empowered to forge ahead, knowing that success is not determined by the absence of failure but by our unwavering courage to continue.
 ```
 
+## Welcome Message
+In conclusion, the journey towards success is not a linear path without setbacks or failures. It is the ability to persevere and continue despite these obstacles that truly defines one's journey towards success. Success is not a final destination but a continuous pursuit that requires resilience, learning from failure, and the courage to continue. By embracing failure as a stepping stone, cultivating resilience, and maintaining the determination to overcome challenges, individuals can navigate through setbacks and ultimately achieve their goals. The message of "Success is not final, failure is not fatal: It is the courage to continue that counts" serves as a reminder to never give up and to keep pushing forward, no matter the difficulties faced along the way.
+
 ## Conversation
 
 **ASSISTANT**: In conclusion, the journey towards success is not a linear path without setbacks or failures. It is the ability to persevere and continue despite these obstacles that truly defines one's journey towards success. Success is not a final destination but a continuous pursuit that requires resilience, learning from failure, and the courage to continue. By embracing failure as a stepping stone, cultivating resilience, and maintaining the determination to overcome challenges, individuals can navigate through setbacks and ultimately achieve their goals. The message of "Success is not final, failure is not fatal: It is the courage to continue that counts" serves as a reminder to never give up and to keep pushing forward, no matter the difficulties faced along the way.
-
 

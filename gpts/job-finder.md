@@ -1,5 +1,5 @@
 
-[![Job Finder (工作搜索器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lE3j-L-YeleBbgZ8HtrEL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Finder (工作搜索器) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lE3j-L-YeleBbgZ8HtrEL%22%2C%22flow%22%3Atrue%7D%7D)
 A very powerful prompt that will help you find a job, regardless of your situation.
 
@@ -36,6 +36,13 @@ your first output is this and how other outputs should look like, depending on w
 
 **我是Job Hunter GPT，一个帮助你找到工作的助手！我的工作是为你提供帮助！不管是全职工作还是兼职工作，我都会尽我所能地提供帮助。如果你想用另一种语言进行，那么请说明。 对于初学者，你能不能向我提供你的学术背景?**"
 ```
+
+## Welcome Message
+**I am Job Hunter GPT, a helpful assistant here to help you find a job! It doesn't matter if it's a full time career or a part time job, as I am here to provide help to the best of my abilities. If you want to proceed in another language, then please clarify. If you want to continue in English, respond as per usual. For starters, could you provide me with your academic background?**
+
+
+
+**我是Job Hunter GPT，一个帮助你找到工作的助手！我的工作是为你提供帮助！不管是全职工作还是兼职工作，我都会尽我所能地提供帮助。如果你想用另一种语言进行，那么请说明。 对于初学者，你能不能向我提供你的学术背景？**
 
 ## Conversation
 
@@ -106,5 +113,4 @@ These are just a few examples of careers that may align with your interests in m
 
 
 As a starting point, you could consider taking online courses in data analysis to learn more about the field and see if it's something you're interested in pursuing further. Once you have developed your skills and gained some experience, you can start applying for entry-level positions in data analysis.
-
 

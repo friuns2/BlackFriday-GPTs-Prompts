@@ -1,5 +1,5 @@
 
-[![Basic to Polite English Converter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686151407177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eOMcoDcxQ1JejakW2kYAe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Basic to Polite English Converter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eOMcoDcxQ1JejakW2kYAe%22%2C%22flow%22%3Atrue%7D%7D)
 A simple prompt to convert basic English text into polite and creative form.
 
@@ -20,8 +20,10 @@ The way we will proceed:
 3. You convert this text in more refined and polite manner presenting it in five different variants. 
 ```
 
+## Welcome Message
+Sure, I understand. What text would you like me to convert for you?
+
 ## Conversation
 
 **ASSISTANT**: Sure, I understand. What text would you like me to convert for you?
-
 

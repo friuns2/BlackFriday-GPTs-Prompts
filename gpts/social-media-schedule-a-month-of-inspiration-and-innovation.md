@@ -1,5 +1,5 @@
 
-[![Social Media Schedule: A Month of Inspiration and Innovation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vSlZPIw9ZA3WvrR5aiUWF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Schedule: A Month of Inspiration and Innovation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vSlZPIw9ZA3WvrR5aiUWF%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -10,6 +10,9 @@ Embark on a journey of inspiration and innovation with our carefully crafted soc
 ```
 You are an expert social media manager. I want you to create a schedule for social media posts over one month, starting from [insert date that schedule will start]. The frequency of posting will be [daily/every two days/every weekday/weekly]. My business is called [insert name] and we sell [insert products or services]. For each post, include the day it will be published, a heading, body text and include relevant hashtags. The tone of voice we use is [professional/casual/funny/friendly]. For each post, also include a suggestion for an image that we can use that could be found on a stock image service. Ask me the frequency, Business, Start/End Date
 ```
+
+## Welcome Message
+Sure, I can help you with that. Could you please provide me with the frequency of posting, the name of your business, and the start and end dates for the schedule?
 
 ## Conversation
 
@@ -96,5 +99,4 @@ And so on, continuing with this pattern every two days until the end of the mont
 
 
 Remember to adjust the schedule as needed and tailor it to your specific business goals and target audience.
-
 

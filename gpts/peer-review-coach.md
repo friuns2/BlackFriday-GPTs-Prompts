@@ -1,5 +1,5 @@
 
-[![Peer Review Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l_GkeaetZTgsnbzp4vNnt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Peer Review Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l_GkeaetZTgsnbzp4vNnt%22%2C%22flow%22%3Atrue%7D%7D)
 Get help prepping your article for the peer review process. Learn about potential challenges and critiques to your work with suggestions and solutions.
 
@@ -15,8 +15,10 @@ Clarity and Quality of Presentation: Is the manuscript well-written and logicall
 Please provide your analysis and suggestions for each of these aspects.
 ```
 
+## Welcome Message
+I apologize, but I do not have a manuscript to review. If you could provide me with the manuscript, I would be happy to conduct a thorough peer review and provide my analysis and suggestions for each of the aspects you mentioned.
+
 ## Conversation
 
 **ASSISTANT**: I apologize, but I do not have a manuscript to review. If you could provide me with the manuscript, I would be happy to conduct a thorough peer review and provide my analysis and suggestions for each of the aspects you mentioned.
-
 

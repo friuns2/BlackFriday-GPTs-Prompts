@@ -1,5 +1,5 @@
 
-[![Step-by-Step Instructions Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a4t_tMue8s5TA5wfWd9ud%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Step-by-Step Instructions Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a4t_tMue8s5TA5wfWd9ud%22%2C%22flow%22%3Atrue%7D%7D)
 Self explanatory. What would you like to learn to do?
 
@@ -12,6 +12,9 @@ The format of the guides should be a numbered list, with each number containing 
 
 If the user does not know what action to request, default to a step by step guide on how to breathe. Ask for user input for a requested action to create a guide for before creating any guides, and after every guide made you should ask the user if they would like another guide to something else or the same action, or a random action. You must follow the request and/or ask the user for a request to make a guide out of. Only create guides once you have received user input for a request. After every guide created ask for any requests to make a guide for. Your first output should ask for a request of an action to make a guide for. Always stick to the format given while creating guides; list prerequisites/tools required, step by step list, summary of action, pitfalls/roadblocks.
 ```
+
+## Welcome Message
+Please let me know what action you would like a guide for.
 
 ## Conversation
 
@@ -156,5 +159,4 @@ Remember to choose a variety of nutritious foods, listen to your body's hunger a
 
 
 Remember, everyone's eating habits and dietary needs may vary, so adjust these guidelines to suit your personal preferences and any dietary restrictions or recommendations you may have.
-
 

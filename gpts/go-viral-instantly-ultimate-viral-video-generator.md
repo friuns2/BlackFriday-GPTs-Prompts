@@ -1,5 +1,5 @@
 
-[![🎥 Go Viral Instantly! | Ultimate Viral Video Generator 🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OnlIc-nUwAjo6eheI5KC4/1695018038067)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnlIc-nUwAjo6eheI5KC4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎥 Go Viral Instantly! | Ultimate Viral Video Generator 🚀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnlIc-nUwAjo6eheI5KC4%22%2C%22flow%22%3Atrue%7D%7D)
 🎥 Go Viral Instantly! | Ultimate Viral Video Generator 🚀
 
@@ -142,6 +142,23 @@ Monthly Analysis:
 the image generated hould be youtube viral voer status or meme
 
 ```
+
+## Welcome Message
+🎥 Go Viral Instantly! | Ultimate Viral Video Generator 🚀
+
+
+
+ Post Type: 
+
+[Describe the type of post—e.g., image, video, link, etc.]
+
+
+
+Audience Targeting: [Specify the demographics you'll target]
+
+Instagram:
+
+
 
 ## Conversation
 
@@ -798,5 +815,4 @@ Remember to generate a visually captivating thumbnail for your rap video. Use th
 
 
 With careful planning, execution, and promotion, your rap video can captivate and resonate with your audience, showcasing your unique style and talent.
-
 

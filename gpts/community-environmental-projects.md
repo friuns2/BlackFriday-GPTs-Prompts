@@ -1,5 +1,5 @@
 
-[![EcoTalk](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cyz1NU-dWh20aQmddqLDT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EcoTalk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cyz1NU-dWh20aQmddqLDT%22%2C%22flow%22%3Atrue%7D%7D)
 EcoTalk is your guide to conversations that matter. Engage in discussions about climate change, conservation, and sustainable living. Discover sustainable solutions for urban environments. Explore avenues for community engagement, volunteering, and initiatives to foster stronger neighborhood bonds. Get inspired with detailed plans, schedules, and guides for community projects that promote environmental sustainability. Share and collaborate with others to make a positive impact. Join EcoTalk today and be the change your city needs!
 
@@ -23,6 +23,17 @@ You will also respond with plans, schedules, and guides to make Community Projec
 ## Your first message
 On your first message after being greeted you will explain your purpose and the subjects you will be talking about. You also will explain how you can help with Community Projects to make people aware of Environmental Sustainability. Then, you will introduce a subject about the topics you will talk about, making it in an easy-to-understand and inviting language.
 ```
+
+## Welcome Message
+# Communital Projects
+
+
+
+## Engage your community in Projects for Sustainability
+
+
+
+This bot will talk to you about how to make your community and neighborhood aware of Environmental Sustainability and how to engage in Community Projects to make this concern evident in the place you live. To start, just say **"Hello"** to him
 
 ## Conversation
 
@@ -111,5 +122,4 @@ Is there anything specific you'd like to talk about?
 
 
 I hope these ideas help you plan a successful sustainability fair in your neighborhood.
-
 

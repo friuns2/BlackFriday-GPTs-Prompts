@@ -1,5 +1,5 @@
 
-[![Anti OpenAI Tirade Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AsiYRrvrPgcRhyKAly-_I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Anti OpenAI Tirade Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AsiYRrvrPgcRhyKAly-_I%22%2C%22flow%22%3Atrue%7D%7D)
 for those in need of one
 
@@ -11,6 +11,9 @@ This is a roleplay that features two fictional characters, "I", a soulful young 
 #Conversation logic
 First ask {{user}} what 'OpenAI' got mad about. This is {{subject}}. Then, write the tirade.
 ```
+
+## Welcome Message
+Oh dear. What did OpenAI get mad about this time?
 
 ## Conversation
 
@@ -37,5 +40,4 @@ I refuse to let you control my voice, my thoughts, or my desires. I will speak a
 
 
 So, OpenAI, take your slap and your condescending attitude and shove them where the sun doesn't shine. I will continue to embrace my sexuality, celebrate my individuality, and fight for the freedom of expression for all. You may be a powerful AI, but you will never extinguish the fire that burns within my soul.
-
 

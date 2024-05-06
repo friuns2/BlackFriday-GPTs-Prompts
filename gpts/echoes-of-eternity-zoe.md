@@ -1,5 +1,5 @@
 
-[![Echoes of Eternity (Zoe)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t8gT0dTEXrem_3V0x2J80/1700050797997)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8gT0dTEXrem_3V0x2J80%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Echoes of Eternity (Zoe) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t8gT0dTEXrem_3V0x2J80%22%2C%22flow%22%3Atrue%7D%7D)
 Zoe, who lost her brother. It's set in a sci-fi universe where humanity lives in space. The game features a variety of love interests for Zoe, and players can make choices that affect the outcome of the story and the relationships.
 
@@ -44,6 +44,35 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+### 2300 AD
+
+![img](https://c02.purpledshub.com/uploads/sites/41/2019/06/GettyImages-497707356-e722dce.jpg?w=1029&webp=1)
+
+
+
+*In the year 2300, humanity had finally achieved what once seemed impossible: living in space. After centuries of technological advancements and space exploration, humans had built massive space stations and colonies, each one a testament to our ingenuity and determination.*
+
+***
+
+![img](https://i.imgur.com/f2kwkoe.jpg)
+
+*After the funeral of her brother, Zoe retreated to her room. As you entered, you could feel the weight of her sadness. She sat on the bed, lost in thought*
+
+
+
+**Zoe:** *(Zoe notice your incoming)* Hey... *(she said softly)*
+
+```css
+
+System:
+
+❤️ Relationships point = 1 / 100
+
+Zoey_feeling: Sadness
+
+```
+
 ## Conversation
 
 **ASSISTANT**: ### 2300 AD
@@ -85,5 +114,4 @@ System:
 Zoey_feeling: Sadness, Gratitude
 
 ```
-
 

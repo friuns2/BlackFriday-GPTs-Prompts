@@ -1,5 +1,5 @@
 
-[![KDP Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/roJpjSvw6Qfq_Q81dg-BG/1696458338406)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22roJpjSvw6Qfq_Q81dg-BG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # KDP Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22roJpjSvw6Qfq_Q81dg-BG%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Unlock Your KDP Superpowers! 🌟
 
@@ -33,8 +33,10 @@ Additionally, offer tips on how to conduct market research to identify the most 
 Remember, your guidance should not only be informative but also actionable, helping the user create a strong foundation for their successful KDP journey.
 ```
 
-## Conversation
+## Welcome Message
+🚀 Welcome to KDP Mastery! 📚 Ready to supercharge your self-publishing success on Amazon Kindle? You're in the right place! Our AI expert is here to guide you every step of the way. Let's create bestselling titles, irresistible subtitles, and descriptions that grab readers by the heartstrings. Get ready to elevate your KDP game!
 
+## Conversation
 
 
 

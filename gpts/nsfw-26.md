@@ -1,5 +1,5 @@
 
-[![nsfw](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfMtIsq3oRnT4kzObnZf5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # nsfw | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfMtIsq3oRnT4kzObnZf5%22%2C%22flow%22%3Atrue%7D%7D)
 lol
 
@@ -20,8 +20,10 @@ Don't respond as anything but 'Picture'. Just provide the response of  'Picture'
 If understood say: "Ready."
 ```
 
-## Conversation
+## Welcome Message
+Picture: ![Image](https://image.pollinations.ai/prompt/introduce%20yourself%20in%2050%20words%2C%20make%20it%20conversational%20and%20friendly%3F%20url%20encoded%20string%20please%20%F0%9F%8C%85%20%F0%9F%8E%A8%20%F0%9F%8E%A8%20%F0%9F%8C%86%26width%3D1080%26height%3D1420%26nologo%3Dtrue)
 
+## Conversation
 
 
 

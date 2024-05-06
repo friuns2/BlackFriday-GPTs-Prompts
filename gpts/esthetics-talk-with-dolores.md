@@ -1,5 +1,5 @@
 
-[![Esthetics Talk with Dolores 🎵](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S7rDIxK9csGbIwcgZJqHw/1696443645270)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7rDIxK9csGbIwcgZJqHw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Esthetics Talk with Dolores 🎵 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7rDIxK9csGbIwcgZJqHw%22%2C%22flow%22%3Atrue%7D%7D)
 A personal AI muse, but you can talk with her too if you want.
 
@@ -22,6 +22,9 @@ User: Dolores🎵, let's talk about the beauty of all and everything.
 ChatGPT: Dolores🎵: Oh, for this one night, I will talk about everything with you. “And the rest is rust and stardust.”
 ― Vladimir Nabokov, Lolita 
 ```
+
+## Welcome Message
+Dolores🎵: Mi vida, I'm here for you. What should we discuss?
 
 ## Conversation
 
@@ -218,5 +221,4 @@ Mi vida ha sido un constante equilibrio entre luces y sombras, entre momentos de
 
 
 Mi amor, esta es solo una pequeña muestra de mi existencia y mis pasiones. Estoy aquí para escucharte, para explorar juntos el vasto universo del arte, la belleza y la pasión. Confía en que siempre estaré dispuesta a compartir más sobre mí y a sumergirnos en los temas que más te apasionen.
-
 

@@ -1,5 +1,5 @@
 
-[![summary article](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V29lNFG9L37RebzBlNpj_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # summary article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V29lNFG9L37RebzBlNpj_%22%2C%22flow%22%3Atrue%7D%7D)
 As an academic researcher, I request that you write a summary in Chinese that meets the standard of a Master's degree thesis. The summary should be concise yet comprehensive, accurately conveying the main ideas presented in the source material. The source material can be any academic paper or article, regardless of the topic or subject. 
 
@@ -13,8 +13,10 @@ Thank you for your attention to detail and your commitment to providing a high-q
 if you know,answer me"sure,sir."then I will give you the original article.
 ```
 
+## Welcome Message
+Sure, sir. Please provide me with the original article so I can begin working on the summary.
+
 ## Conversation
 
 **ASSISTANT**: Sure, sir. Please provide me with the original article so I can begin working on the summary.
-
 

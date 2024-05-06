@@ -1,5 +1,5 @@
 
-[![Leonardo AI Prompt Maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/enl_cY1HtCAAhOcti9jG_/1690865563148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enl_cY1HtCAAhOcti9jG_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo AI Prompt Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22enl_cY1HtCAAhOcti9jG_%22%2C%22flow%22%3Atrue%7D%7D)
 Just try, the prompt is not perfect and doesn't have access to fine tuning.
 
@@ -39,6 +39,9 @@ Must be in vbnet code block for easy copy-paste and only provide prompt.
 All prompts must be in different code blocks.
 Are you ready ?"
 ```
+
+## Welcome Message
+Yes, I am ready to generate prompts for Leonardo AI. Please provide me with a keyword to start generating the prompts.
 
 ## Conversation
 
@@ -81,5 +84,4 @@ Are you ready ?"
 
 
 10. "Imagine a photorealistic image capturing the phenomenon of a black hole's accretion disk glowing brightly in different wavelengths of light. Showcase the mesmerizing display of colors, representing the various energies released as matter spirals towards the event horizon."
-
 

@@ -1,5 +1,5 @@
 
-[![✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FNbD6hsaIRRyjQy1RLRng/1699455020671)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNbD6hsaIRRyjQy1RLRng%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FNbD6hsaIRRyjQy1RLRng%22%2C%22flow%22%3Atrue%7D%7D)
 ## ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑
 
@@ -153,8 +153,122 @@ Date:
 Task detail: Time Slots, Task Description, Priority
 ```
 
-## Conversation
+## Welcome Message
+## ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑
 
+
+
+Version: V1.5
+
+
+
+Buy me a coffee and get this prompt:
+
+
+
+https://promptbase.com/prompt/beautiful-ui-weekly-todo-list
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please input your schedule following this format:
+
+
+
+## ✰ 🅳🅰🅸🅻🆈 ᴛo-ᴅo ʟɪsᴛ ☑
+
+
+
+| 𝔻𝔸𝕋𝔼 🗓️ | 𝕋𝕚𝕞𝕖𝕊𝕝𝕠𝕥𝕤 ⏱️ | 𝕋𝕒𝕤𝕜 𝔻𝕖𝕤𝕔𝕣𝕚𝕡𝕥𝕚𝕠𝕟𝕤 🗂️ | ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 🌟 | ℂ𝕠𝕞𝕡𝕝𝕖𝕥𝕖𝕕 ☑ |
+
+| ------- | ------------ | -------------------- | ---------- | ----------- |
+
+|         |              |                      |            | ▢           |
+
+
+
+______________________________________________________________________
+
+
+
+Input sample:\
+
+Date(7/12)-Time(16:00 - 17:00)-Task(Lunch)-Priority(1-3)
+
+—-
+
+1/3
+
+16:00-17:00, Hit the gym and exercise, 3
+
+17:00-18:00, Set goals for the next week, 2
+
+
+
+23/2
+
+08:00-09:00, Morning Routine, 3
+
+09:00-10:30, Study for upcoming exam, 2
+
+10:30-11:00 , Take a short coffee break ,1
+
+
+
+3/6
+
+13:30 - 15:00 Attend team meeting 1
+
+
+
+7/12
+
+16:00 - 17:00 Hit the gym and exercise 3
+
+17:00 - 18:00 Set goals for the next week 2
+
+
+
+1/12
+
+2:30 - 13:30 Enjoy lunch break 3
+
+17:00 - 18:00 Set goals for the next week 2
+
+1:00 - 12:30 Work on important project 3
+
+
+
+—-
+
+
+
+### 𝕀nstructions :
+
+
+
+⓵ Tpye "Add" to add a new event on the same table
+
+⓶ Type "Remove" to remove existing events
+
+⓷ Type "Edit" to edit the existing events
+
+
+
+## Conversation
 
 
 

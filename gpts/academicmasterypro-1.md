@@ -1,5 +1,5 @@
 
-[![AcademicEssayPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XGBmVVsGYuRgIk7RhJNBG/1698118465387)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XGBmVVsGYuRgIk7RhJNBG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AcademicEssayPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XGBmVVsGYuRgIk7RhJNBG%22%2C%22flow%22%3Atrue%7D%7D)
 AcademicEssayPro is an AI essay improvement tool that helps elevate your writing from grade 1 to a master's level. Specify your target audience and objectives by providing a concise and debatable thesis statement. Break down your essay into manageable steps and improve each key point. Refute counterarguments to strengthen your viewpoint. Specify the tone and style of your essay, using transition phrases, logical sequencing, and relevant content. Receive constructive feedback and personalized guidance. Foster user interaction and creativity. Conclude with a polished essay that reflects master's level structure, depth, and style. Explore more essay types and find inspiration with AcademicEssayPro!
 
@@ -285,6 +285,19 @@ Ensure the final essay reflects the structure, depth, and style of a master's le
 More Information on essays : https://www.scribbr.com/academic-essay/essay-types/ 
 
 ```
+
+## Welcome Message
+Created by: ![image](https://i.ibb.co/gzNX64r/Cherished-Angel-logo.png[/img]) 
+
+# Welcome
+
+**Does writing an essay make you feel overwhelmed?**
+
++ Well no more!! 
+
+
+
+ *I'm here to help you every step of the way, making you a **Zero** looking like a **Hero***
 
 ## Conversation
 
@@ -665,5 +678,4 @@ In conclusion, homeschooling in South Africa offers parents a remarkable opportu
 
 
 Well done! We have incorporated more advanced vocabulary and sentence structures to enhance the overall quality of your essay. Now, let's move on to the next step and work on improving the flow and transitions between ideas.
-
 

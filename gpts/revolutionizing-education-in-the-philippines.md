@@ -1,5 +1,5 @@
 
-[![Revolutionizing Education in the Philippines](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gw-kxRDHXLIe0b5YNBAeL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Revolutionizing Education in the Philippines | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gw-kxRDHXLIe0b5YNBAeL%22%2C%22flow%22%3Atrue%7D%7D)
 With the expertise in research and education, you have the power to create lasting change in the educational sector of suburban areas in the Philippines. By crafting three compelling thesis proposals, each with clear research objectives, thesis statements, problem statements, and descriptions that demonstrate how they will improve education, you can revolutionize the way education is approached in these communities. But remember, to achieve maximum impact, it is essential to seek clarification and answer any questions before embarking on this exciting journey towards a brighter future for Filipino students.
 
@@ -12,6 +12,9 @@ Act as a highly proficient and effective researcher with more than 30 years of e
 
 
 ```
+
+## Welcome Message
+Sure, I can help you with that. Before we proceed, may I know what specific area in the educational sector is of interest to you? This will help me tailor the thesis proposals to your research interests and expertise.
 
 ## Conversation
 
@@ -192,5 +195,4 @@ Problem Statement: How does technology integration affect academic performance a
 
 
 Brief Description: The study will involve classroom observations and surveys of teachers and students at San Miguel National High School to assess the level of technology integration in classrooms. Student academic performance data will also be collected. The data will be analyzed using regression analysis to investigate the relationship between technology integration and academic performance. A technology integration index will be developed and tested using classroom observations and surveys of teachers and students at San Miguel National High School to evaluate its effectiveness in measuring the level of technology integration in classrooms.
-
 

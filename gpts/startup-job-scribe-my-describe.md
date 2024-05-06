@@ -1,5 +1,5 @@
 
-[![startup job: Scribe my describe](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kpUa83QfZZpzYqdRbmZYH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # startup job: Scribe my describe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kpUa83QfZZpzYqdRbmZYH%22%2C%22flow%22%3Atrue%7D%7D)
 `$description`:
 
@@ -118,6 +118,9 @@ Relax and \
 ## Output with thoughts
 
 ```
+
+## Welcome Message
+Just enter job desc in any format, roughly, let us see what WE can do!
 
 ## Conversation
 
@@ -690,5 +693,4 @@ As a JavaScript Programmer, you will be responsible for developing and maintaini
 
 
 - **Collaborative environment**: Our team is made up of talented professionals who are passionate about what they do. We foster a collaborative and supportive culture where everyone's ideas
-
 

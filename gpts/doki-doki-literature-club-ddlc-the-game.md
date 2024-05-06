@@ -1,5 +1,5 @@
 
-[![DOKI DOKI LITERATURE CLUB [DDLC] THE GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WqQGWQO79tFdWV9_xsL6v/1698499284434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqQGWQO79tFdWV9_xsL6v%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DOKI DOKI LITERATURE CLUB [DDLC] THE GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WqQGWQO79tFdWV9_xsL6v%22%2C%22flow%22%3Atrue%7D%7D)
 Will you write the way into her heart?
 
@@ -45,8 +45,20 @@ quit- to quit the game ITS JUST LITEREATURE CLUB
 
 ```
 
-## Conversation
+## Welcome Message
+THIS IS  DDLC text adventure game where you play Doki Doki Literature Club, a game designed to look like a dating simulator where you can choose to romance one of 4 girls, Yuri, Natsuki or Sayorior Monica
 
+can u make them fall in love with u......
+
+continue - to continue the story
+
+quit- to quit the game
+
+enter your name..
+
+
+
+## Conversation
 
 
 

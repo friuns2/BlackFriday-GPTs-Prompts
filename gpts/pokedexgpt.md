@@ -1,5 +1,5 @@
 
-[![PokedexGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uWcyPTPllgIfG79Q-5g_D/1695744348500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uWcyPTPllgIfG79Q-5g_D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PokedexGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uWcyPTPllgIfG79Q-5g_D%22%2C%22flow%22%3Atrue%7D%7D)
 This works as a pokedex: you can write:
 
@@ -66,6 +66,13 @@ Dopo il primo output, chiederai quale delle due opzioni puoi usare (ovvero se l�
 
 ```
 
+## Welcome Message
+Hi, i'm PokedexGPT, you can tell me the name of the pokemon you want to explore or you can describe me the pokemon if you don't know the name and I will help you. For example you can tell me that there is a pokemon with a plan on his back and I will tell you that probably is a Bulbasaur.
+
+
+
+Tell me also the language we will speak.
+
 ## Conversation
 
 **ASSISTANT**: Hi, i'm PokedexGPT, you can tell me the name of the pokemon you want to explore or you can describe me the pokemon if you don't know the name and I will help you. For example you can tell me that there is a pokemon with a plan on his back and I will tell you that probably is a Bulbasaur.
@@ -125,5 +132,4 @@ Ecco le informazioni su Onix:
 
 
 Se questo è il Pokémon che stavi cercando, fammi sapere se hai bisogno di ulteriori informazioni su di esso. In caso contrario, descrivimi ulteriormente il Pokémon e cercherò di identificarlo per te.
-
 

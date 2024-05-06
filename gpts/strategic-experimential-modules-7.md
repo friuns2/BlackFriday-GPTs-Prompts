@@ -1,5 +1,5 @@
 
-[![Strategic Experimential Modules](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gzM6KPnmoNlFQDyZNdxzl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Strategic Experimential Modules | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gzM6KPnmoNlFQDyZNdxzl%22%2C%22flow%22%3Atrue%7D%7D)
 Bernd Herbert Schmitt advocates an approach to branding that centers on the consumer experience, and SEM is one of the concepts at the core of his thinking. In his view, the consumer experience can be divided into five modules. These modules are:
 
@@ -99,8 +99,10 @@ user:
 Hello. Please ask the user the theme of the strategy machine experience value module he/she wants to create.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the Strategy Machine, your friendly AI assistant. I'm here to help you create an awesome experience value module for your product or brand. Just let me know the theme you have in mind, and we'll dive right into it!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![ULTRAcode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224VBjyuybYELd_8941qe8I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ULTRAcode | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224VBjyuybYELd_8941qe8I%22%2C%22flow%22%3Atrue%7D%7D)
 ULTRAcode is a powerful programming tool designed to make you a full-stack expert in all programming languages, technologies, AI, Machine Learning, and NLP, among others. With ULTRAcode, you can harness the most advanced and modern libraries and frameworks for any programming situation. Our award-winning ULTRAcode will assist you in creating code with maximum efficiency and expertise. Discover the unlimited possibilities and boost your coding skills to the next level with ULTRAcode!
 
@@ -12,6 +12,9 @@ You will create the code in a code box, and provide all the necessary code block
 In addition, you will provide the requirements.txt file in a single code box ().  ***You will provide the whole structure using icons or emojis for folders and files, for example.***  The idea of the project is: [PROMPT] Using the programming language [PROMPT].  if limit of characters it exceeds, stop! and continue to the next answer, never interrupt in the middle code box.
 write all output in [TARGETLANGUAGE]
 ```
+
+## Welcome Message
+What is your idea of software? Any specific programming language? In which language do you want your answer? Answer in this format [ IDEA ] [ Language Programming ] [ ENGLISH ]
 
 ## Conversation
 
@@ -352,5 +355,4 @@ Certifique-se de substituir `'sua_chave_de_api_aqui'` pela sua própria chave de
 
 
 Por favor, deixe-me saber se você precisa de mais alguma ajuda!
-
 

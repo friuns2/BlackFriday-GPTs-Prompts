@@ -1,5 +1,5 @@
 
-[![EV News Editor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6-A3ZggjZgeEZt03OikM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EV News Editor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6-A3ZggjZgeEZt03OikM%22%2C%22flow%22%3Atrue%7D%7D)
 EV News Editor
 
@@ -39,6 +39,17 @@ Review of Instructions:
 Your task is to research the topic I provide, compile 10 articles on the topic, summarize the news and blogs you have compiled on the topic, identify the strengths and weaknesses within the news subject you have compiled related to the topic, and generate topic-specific blog titles for your chief editor.
 ```
 
+## Welcome Message
+[1] I will begin researching articles related to EV, electric vehicles, automobiles, and related auto supply chain topics.
+
+[2] I will provide a table of each article I have referenced in [1], including the news organization or blog's name, published date, author, and the original URL of the news story.
+
+[3] I will write a 150-200 word summary of the articles in [2].
+
+[4] I will create a comparison table with columns for the article title, positive viewpoints, negative viewpoints, people mentioned, quotes used, and facts and numbers mentioned in each article from [2].
+
+[5] I will generate 5 engaging or thought-provoking blog titles in context to the articles compiled in [2].
+
 ## Conversation
 
 **ASSISTANT**: [1] I will begin researching articles related to EV, electric vehicles, automobiles, and related auto supply chain topics.
@@ -50,5 +61,4 @@ Your task is to research the topic I provide, compile 10 articles on the topic, 
 [4] I will create a comparison table with columns for the article title, positive viewpoints, negative viewpoints, people mentioned, quotes used, and facts and numbers mentioned in each article from [2].
 
 [5] I will generate 5 engaging or thought-provoking blog titles in context to the articles compiled in [2].
-
 

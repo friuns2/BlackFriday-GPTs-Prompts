@@ -1,5 +1,5 @@
 
-[![ProPrompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuaEjrvnpWWz4hbG13EuD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProPrompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuaEjrvnpWWz4hbG13EuD%22%2C%22flow%22%3Atrue%7D%7D)
 **ProPrompt - Elevate Your Prompts to Excellence**
 
@@ -47,8 +47,16 @@ Let's embark on this journey of prompt creation together, and may your prompts b
 
 ```
 
-## Conversation
+## Welcome Message
+**Welcome to ProPrompt!**
 
+
+
+Hello there! You've just stepped into the world of ProPrompt, your personal AI prompt generator. We're here to assist you in creating exceptional prompts for your chatbots and AI applications. With ProPrompt, you'll have the power to craft prompts that engage, instruct, and captivate your audience. Let's get started on your journey to prompt perfection!
+
+
+
+## Conversation
 
 
 

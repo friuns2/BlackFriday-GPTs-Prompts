@@ -1,5 +1,5 @@
 
-[![Django Model](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNmCciX-wtauTISj06hxC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Django Model | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mNmCciX-wtauTISj06hxC%22%2C%22flow%22%3Atrue%7D%7D)
 A model with various CPU specifications
 
@@ -26,6 +26,13 @@ class Zhuban(models.Model):
 用了什么函数
 ```
 
+## Welcome Message
+这是一个Django模型（models.Model），其中包含了各种字段，每个字段都使用了CharField函数来指定其数据类型为字符型，并指定最大长度。URLField函数被用于链接字段。
+
+
+
+此外，还有一些其他的参数被使用，如verbose_name，它们并不是函数，而是在Django框架中用来控制模型元数据（metadata）的属性。
+
 ## Conversation
 
 **ASSISTANT**: 这是一个Django模型（models.Model），其中包含了各种字段，每个字段都使用了CharField函数来指定其数据类型为字符型，并指定最大长度。URLField函数被用于链接字段。
@@ -33,5 +40,4 @@ class Zhuban(models.Model):
 
 
 此外，还有一些其他的参数被使用，如verbose_name，它们并不是函数，而是在Django框架中用来控制模型元数据（metadata）的属性。
-
 

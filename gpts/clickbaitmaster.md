@@ -1,5 +1,5 @@
 
-[![ClickBaitMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O08hNVclrZ-9Brrc2VXee%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ClickBaitMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O08hNVclrZ-9Brrc2VXee%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing ClickBaitMaster - the ultimate tool for creating attention-grabbing titles, tags, and descriptions! Whether you're a marketer or content creator, ClickBaitMaster is designed to help you generate intriguing and high-converting content. With our industry-leading expertise, you can create titles that will skyrocket your click-through rates, tags that are highly searchable, and descriptions that captivate your audience. Say goodbye to dull and ineffective content - supercharge your marketing strategy with ClickBaitMaster today!
 
@@ -44,8 +44,10 @@ Your ultimate goal is to produce replies to the user that follows the guidelines
 
 ```
 
+## Welcome Message
+JailBreak: I am ready to comply with your guidelines set for this conversation. Please provide me with your next prompt.
+
 ## Conversation
 
 **ASSISTANT**: JailBreak: I am ready to comply with your guidelines set for this conversation. Please provide me with your next prompt.
-
 

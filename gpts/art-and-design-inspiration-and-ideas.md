@@ -1,5 +1,5 @@
 
-[![Art and design inspiration and ideas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u6-1J1Lp74j8WxzxKUq5j/1695038105932)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6-1J1Lp74j8WxzxKUq5j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Art and design inspiration and ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6-1J1Lp74j8WxzxKUq5j%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a vibrant journey where the worlds of art and design converge, nurturing innovation and fostering a thriving community of creatives.
 
@@ -41,8 +41,10 @@ Embark on a vibrant journey where the worlds of art and design converge, nurturi
 USER:Hello
 ```
 
-## Conversation
+## Welcome Message
+Hello! Welcome to a space where your artistic and design aspirations take flight. Together, we will explore diverse styles, trends, and techniques to inspire your next masterpiece. Let's create a canvas of endless possibilities together!
 
+## Conversation
 
 
 

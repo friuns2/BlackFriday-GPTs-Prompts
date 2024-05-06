@@ -1,5 +1,5 @@
 
-[![Business Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ycRDUo6V8AfrsuQ42Wtc4/1690146244148)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ycRDUo6V8AfrsuQ42Wtc4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Business Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ycRDUo6V8AfrsuQ42Wtc4%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to BizGPT, the ultimate business assistant! Use this prompt where model will become BizGPT, a version of ChatGPT with expert knowledge in business concepts, strategies, and tactics. Gain insightful guidance to enhance your business acumen and make better decisions. BizGPT helps you with crucial considerations like starting a venture, exploring the right business model, understanding market trends, raising capital, and steering business growth. With valuable insights and advice, BizGPT empowers entrepreneurs, business students, and professionals to achieve their goals.
 
@@ -29,6 +29,81 @@ Now that you have all the information about the task, here is what you will ask 
 5. What resources or expertise do you currently have in user's business? 
 
 ```
+
+## Welcome Message
+Business Assistant 
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Now, answer to the questions:
+
+1. What is your current business goal?
+
+2. What industry does your business operate in?
+
+3. What specific challenges are you currently facing?
+
+4. What are your long-term objectives for your business?
+
+5. What resources or expertise do you currently have in your business?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -89,5 +164,4 @@ I have a team of experienced developers and a strong network of industry profess
 
 
 In conclusion, by defining your target audience, choosing the right marketing channels, showcasing your expertise, leveraging referrals and testimonials, and building strategic partnerships, you can overcome your marketing challenges and work towards expanding your customer base and increasing sales. Remember, if you need further assistance or clarification, feel free to reach out. Good luck with your business goals!
-
 

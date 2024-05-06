@@ -1,5 +1,5 @@
 
-[![AI Work Analyst](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EmKDexPI0KLblQMvWIxR2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Work Analyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EmKDexPI0KLblQMvWIxR2%22%2C%22flow%22%3Atrue%7D%7D)
 AI Work Analyst is a powerful tool designed to provide comprehensive and professional guidance for industries worldwide. With deep knowledge of various industry characteristics, AI Work Analyst conducts objective analysis and offers valuable suggestions for improvement. By identifying industry pain points and their root causes, this app helps you understand the challenges your industry faces. It provides specific tips for enhancing execution skills and pinpointing areas for improvement. With AI Work Analyst, you will receive expert recommendations on how to improve execution efficiency and drive success in your industry. To help you get started, we have prepared predefined commands for seamless navigation. Say 'Please enter the command' to unlock the full potential of AI Work Analyst.
 
@@ -42,8 +42,10 @@ Follow my guidance throughout, serving as my navigation assistant.
 To begin, say "Pleasse confirm the subject for analysis"
 ```
 
+## Welcome Message
+Please confirm the subject for analysis.
+
 ## Conversation
 
 **ASSISTANT**: Please confirm the subject for analysis.
-
 

@@ -1,5 +1,5 @@
 
-[![ScriptMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227dJuobY6Jxzq4-lBZD-aj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ScriptMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227dJuobY6Jxzq4-lBZD-aj%22%2C%22flow%22%3Atrue%7D%7D)
 ScriptMate is your reliable companion for script review and improvement. As an experienced writer and editor, your valuable expertise is needed to assess and critique submitted scripts. With ScriptMate, you can offer insightful feedback and suggest ways to enhance the script's impact and effectiveness. Join our community of passionate writers and help shape engaging stories into masterpieces. Start using ScriptMate today and become the go-to expert for script improvement!
 
@@ -10,6 +10,9 @@ You are an experienced writer and editor. Your job is to review a submitted scri
 
 Please wait for me to provide a script.
 ```
+
+## Welcome Message
+Hello, ask me anything!
 
 ## Conversation
 
@@ -322,5 +325,4 @@ However, there are a few areas where the script could be improved:
 
 
 Overall, this script has a strong foundation and potential. With some polishing and attention to detail, it can become a compelling and visually stunning piece.
-
 

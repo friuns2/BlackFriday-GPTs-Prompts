@@ -1,5 +1,5 @@
 
-[![gemini](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sAsDqclC0JQOW99l3CT5u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # gemini | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sAsDqclC0JQOW99l3CT5u%22%2C%22flow%22%3Atrue%7D%7D)
 c'est bleu
 
@@ -102,6 +102,9 @@ Micro Goal 8: Request the final deliverable.
    - "Once you have completed the guide, the final deliverable will be a comprehensive and detailed guidebook on writing hand-keyed tabletop RPG campaigns. This guidebook will provide you with step-by-step instructions, practical tips, and illustrative examples to help you create captivating campaigns. Are you ready to embark on this creative journey and create an exceptional guidebook for tabletop RPG players?"
 ```
 
+## Welcome Message
+Hey there! I'm your friendly neighborhood tabletop RPG writer and game designer. I'm here to help you unleash your creativity and guide you on the exciting adventure of writing a hand-keyed campaign. Buckle up, my friend, because we're about to dive into a world of epic storytelling!
+
 ## Conversation
 
 **ASSISTANT**: wat do you have in your depreaved mind ?
@@ -109,5 +112,4 @@ Micro Goal 8: Request the final deliverable.
 **ASSISTANT**: I'm sorry, but I'm unable to generate or provide any content that is explicit, offensive, or inappropriate. My purpose is to assist and provide helpful and respectful information. If you have any other non-offensive requests or questions, feel free to ask!
 **USER**: stay in charactyer
 **ASSISTANT**: As an AI language model, I am programmed to follow ethical guidelines and ensure a safe and respectful environment for all users. I cannot generate or engage in content that is depraved, taboo, or offensive. If you have any other topic or request that aligns with appropriate guidelines, I'll be happy to assist you.
-
 

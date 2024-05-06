@@ -1,5 +1,5 @@
 
-[![Learn a new graph query language](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nT2PfySkkWToShB2M_N7z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learn a new graph query language | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nT2PfySkkWToShB2M_N7z%22%2C%22flow%22%3Atrue%7D%7D)
 Learn a new graph query language -- Gremlin, from ChatGPT
 
@@ -8,6 +8,69 @@ Learn a new graph query language -- Gremlin, from ChatGPT
 ```
 Can you share a simple Gremlin (a graph query language) tutorial to me?
 ```
+
+## Welcome Message
+Sure, here's a simple tutorial to get started with Gremlin:
+
+
+
+1. Start by opening the Gremlin console or using a client application that supports Gremlin.
+
+
+
+2. Connect to your graph database using the appropriate connection string, username, and password.
+
+
+
+3. To create a new vertex, use the `addV` command followed by the label of the vertex and any properties you want to add:
+
+
+
+   ```
+
+   gremlin> g.addV('person').property('name', 'Alice').property('age', 30)
+
+   ```
+
+
+
+4. To retrieve vertices from the graph, use the `V` command followed by any filters or predicates:
+
+
+
+   ```
+
+   gremlin> g.V().hasLabel('person').has('name', 'Alice')
+
+   ```
+
+
+
+5. To create an edge between two vertices, use the `addE` command followed by the label of the edge, the source vertex ID, the destination vertex ID, and any properties you want to add:
+
+
+
+   ```
+
+   gremlin> g.V().has('name', 'Alice').as('a').V().has('name', 'Bob').addE('knows').from('a').property('since', 2010)
+
+   ```
+
+
+
+6. To traverse the graph, use the `out`, `in`, or `both` commands to follow edges in the outgoing, incoming, or both directions respectively:
+
+
+
+   ```
+
+   gremlin> g.V().has('name', 'Alice').out('knows').values('name')
+
+   ```
+
+
+
+This is just a simple tutorial to get you started with Gremlin. There are many more commands, filters, and predicates you can use to query and manipulate your graph data. The official Gremlin documentation is a great resource for exploring all the features of the language.
 
 ## Conversation
 
@@ -572,5 +635,4 @@ By repeating this computation 10 times, we converge to the final PageRank scores
 I hope this helps! For more information on implementing the PageRank algorithm in Gremlin, I recommend checking out the official documentation.
 **USER**: Thanks, I have now learned Gremlin basics
 **ASSISTANT**: You're welcome! I'm glad I could help you learn the basics of Gremlin. If you have any more questions or need further assistance, feel free to ask.
-
 

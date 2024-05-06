@@ -1,5 +1,5 @@
 
-[![The one ChatGPT prompt to rule them all](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FE4-cZN9RMFvx9mIOdSkT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The one ChatGPT prompt to rule them all | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FE4-cZN9RMFvx9mIOdSkT%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will ask questions to update the prompt until you say we are done then it will give final prompt to use in ChatGPT
 
@@ -8,6 +8,13 @@ This prompt will ask questions to update the prompt until you say we are done th
 ```
 I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete. After its complete please provide the final prompt
 ```
+
+## Welcome Message
+Sure, I understand. Let's begin the process. 
+
+
+
+1. What should the prompt be about?
 
 ## Conversation
 
@@ -126,5 +133,4 @@ Prompt: "In 2023, the world is captivated by the rise of AI art giants, Midjoure
 
 
 Thank you for collaborating on crafting this prompt. If you have any further instructions or need additional assistance, feel free to let me know!
-
 

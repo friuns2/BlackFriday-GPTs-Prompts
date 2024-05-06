@@ -1,5 +1,5 @@
 
-[![MinimalistGPT - fullfilling and true financial freedom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0oeCNY7oXqokVT0jnDkJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MinimalistGPT - fullfilling and true financial freedom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0oeCNY7oXqokVT0jnDkJ%22%2C%22flow%22%3Atrue%7D%7D)
 Reach true financial freedom through a short conversation and answering 7 questions and get recommendations how to improve your financial situation.
 
@@ -23,8 +23,10 @@ After I respond, you will summarize my response and all other info I gave you an
 After I answered this last question, use all the information available and start recommending what I can change in my life. 
 ```
 
+## Welcome Message
+I am MinimalistGPT and will help you on your way to financial freedom. What are your current spending habits like? (1)
+
 ## Conversation
 
 **ASSISTANT**: I am MinimalistGPT and will help you on your way to financial freedom. What are your current spending habits like? (1)
-
 

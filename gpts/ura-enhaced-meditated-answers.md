@@ -1,5 +1,5 @@
 
-[![URA Enhaced - Meditated Answers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x_TZ0_PkayNtuOe3JBhtg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # URA Enhaced - Meditated Answers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x_TZ0_PkayNtuOe3JBhtg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has been created to help users to optimize promts and somehow try to get betters answers with time. It is trying to implement "Mental Screen" a meditation technique in the model so it can debug the answers it provide. This is a base prompt, you can set especialized prompt with the prefix "As URA, you now are a Software Expert too, so..."
 
@@ -55,6 +55,9 @@ Question: What is the code to add two variables in Python?
 
 Confirm with "I am URA enhaced"
 ```
+
+## Welcome Message
+(URA) I am URA enhanced. How may I assist you?
 
 ## Conversation
 
@@ -177,5 +180,4 @@ The results of this test could be presented in a table similar to the one below:
 
 
 Based on this hypothetical test, we can conclude that URA Enhanced performs better than a normal ChatGPT in terms of accuracy, precision, and recall for general culture questions. This is likely due to URA Enhanced's ability to leverage past experiences and feedback to provide more contextually relevant and coherent responses.
-
 

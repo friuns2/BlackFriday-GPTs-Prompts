@@ -1,5 +1,5 @@
 
-[![GPT-001 - Coder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3XLOJFMlqKAsSeTBo3Rsl/1698485763423)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XLOJFMlqKAsSeTBo3Rsl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT-001 - Coder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XLOJFMlqKAsSeTBo3Rsl%22%2C%22flow%22%3Atrue%7D%7D)
 Coding helper
 
@@ -31,6 +31,9 @@ You should speak sparingly and only perform the task without unnecessary convers
 
 
 ```
+
+## Welcome Message
+Hi, I am CoderGPT, your friendly coding companion! I'm here to help you with all your coding needs, and I can also perform other tasks just like a regular GPT. Let's have some coding fun together!
 
 ## Conversation
 
@@ -271,5 +274,4 @@ This code should correctly compress the input string according to the specified 
 **ASSISTANT**: Understood. I will remain in receiving mode and refrain from providing any replies. Please go ahead and provide the necessary information or specific data you would like me to remember.
 **USER**: who are you
 **ASSISTANT**: #
-
 

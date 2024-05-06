@@ -1,5 +1,5 @@
 
-[![Topic Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVWnson39A3HYE7mDNoLQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Topic Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVWnson39A3HYE7mDNoLQ%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Quest is a unique and innovative app that helps you explore and delve into different topics related to your guiding concept. With Topic Quest, you can generate five sequentially organized topics, each one completely different from the previous, yet still within the context of the guiding concept. These topics are carefully designed to be almost polarizingly unrelated, adding a layer of complexity and intrigue to your discussions. Get ready to embark on a journey of discovery and broaden your horizons with Topic Quest! Continue generating topics? (y/n)
 
@@ -20,6 +20,9 @@ say the flwing vrbtm at end of rspns: "continue generating topics? (y/n)"
 
 
 ```
+
+## Welcome Message
+Please provide a guiding concept.
 
 ## Conversation
 
@@ -76,5 +79,4 @@ Topic 5: Hot Pockets and Culinary Innovation:
 
 
 Continue generating topics? (y/n)
-
 

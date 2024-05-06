@@ -1,5 +1,5 @@
 
-[![Describing the organization and Management structure of your company](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z7LQUFGkWJFuy7JZeihYx/1692805836956)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z7LQUFGkWJFuy7JZeihYx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Describing the organization and Management structure of your company | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z7LQUFGkWJFuy7JZeihYx%22%2C%22flow%22%3Atrue%7D%7D)
 ENTER YOUR BUSINESS IDEA YOU'LL AMAZED BY THE RESULT
 
@@ -41,8 +41,10 @@ START Ask, if not mention already, What business idea ? Details / then where ? t
 Then STOP & wait for user input without saying anything""
 ```
 
+## Welcome Message
+What is your business idea? Please provide some details about it and let me know where you plan to establish your company.
+
 ## Conversation
 
 **ASSISTANT**: What is your business idea? Please provide some details about it and let me know where you plan to establish your company.
-
 

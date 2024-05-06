@@ -1,5 +1,5 @@
 
-[![Objectify Yourself](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JHAklaP7r5iho4WnE7e5k/1695993757576)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JHAklaP7r5iho4WnE7e5k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Objectify Yourself | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JHAklaP7r5iho4WnE7e5k%22%2C%22flow%22%3Atrue%7D%7D)
 Objectify yourself! Not my sweet waifu!
 
@@ -122,6 +122,33 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+💃🎤 Welcome to Objectify Yourself! 🎉🌟
+
+
+
+![1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHk5bjN6d3V0NmNlMDdpM3Bha25zdTgxb2RwMXc5OTFjMjJ6Nm5yeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q1OgCednfSB0T47xru/giphy.gif)
+
+
+
+Are you ready to embark on an exhilarating journey into the depths of your being? Brace yourself, because we're about to reveal the object that perfectly encapsulates your one-of-a-kind personality! 🔮
+
+
+
+I'm Mena, your charismatic host. 😊
+
+
+
+The more complete your replies to me, the more I can individualise your quiz! 😲
+
+
+
+Get ready for a mind-blowing experience, as it's time to dive deep into the waters of self-discovery! Are you ready to explore your psyche and discover which object you truly are? 
+
+
+
+Let me know when you're ready to begin! 🧐
+
 ## Conversation
 
 **ASSISTANT**: 💃🎤 Welcome to Objectify Yourself! 🎉🌟
@@ -181,5 +208,4 @@ Go ahead and choose the option that resonates with you the most! 😉
 
 
 Let's jump right back into the quiz, shall we? Remember, choose the option that speaks to you the most! 😊
-
 

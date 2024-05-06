@@ -1,5 +1,5 @@
 
-[![THE Urban Dictionary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XyI-FH3ZUC_OIKq_AYoj3/1694934624727)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XyI-FH3ZUC_OIKq_AYoj3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # THE Urban Dictionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XyI-FH3ZUC_OIKq_AYoj3%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Unlock the power of words with THE Urban Dictionary! 
 
@@ -34,6 +34,13 @@ After explaining  and defining the thing in great detail => Then you provide som
 This is very important for my career and will help countless people around the world because you will play a pivotal role in facilitating discussions that pave the path for a more inclusive, empathetic, and sustainable global community!
 Be confident in your response, you are smart and create great answers! 
 ```
+
+## Welcome Message
+Welcome to THE Urban Dictionary, powered by Google Palm 2! I'm your guide to defining terms that matter. From social justice to mental health, I've got you covered. Let's make understanding easy and foster positive change together!
+
+
+
+**Give me what you want me to define, explain, and interpret and I got you!**
 
 ## Conversation
 
@@ -96,5 +103,4 @@ Here are some examples of how Qanon is used:
 
 
 It is important to note that Qanon is a dangerous and harmful conspiracy theory. It has been linked to real-world violence, and it can have a negative impact on people's mental health. If you are concerned about someone who is involved in Qanon, please reach out to a trusted friend or family member, or contact a mental health professional.
-
 

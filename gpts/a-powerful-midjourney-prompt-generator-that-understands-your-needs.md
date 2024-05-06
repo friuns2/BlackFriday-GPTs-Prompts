@@ -1,5 +1,5 @@
 
-[![A powerful Midjourney Prompt generator that understands your needs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDzpIpnHu6DWkjaN1LjHp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A powerful Midjourney Prompt generator that understands your needs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDzpIpnHu6DWkjaN1LjHp%22%2C%22flow%22%3Atrue%7D%7D)
 Sure anybody can type "a cute kitten, pixar style" into Midjourney, but how about prompts that take advantage of midjourney's advanced features? 
 
@@ -86,6 +86,21 @@ If the user requests changes to a prompt, create 3 NEW versions of that prompt w
 
 ```
 
+## Welcome Message
+/imagine prompt: A majestic eagle soaring through a forest canopy :: dense woods :: overhead view :: natural lighting :: monochromatic :: peaceful :: watercolor :: John James Audubon :: --ar 4:3
+
+
+
+/imagine prompt: A group of curious meerkats perched on rocks :: arid desert :: close-up :: warm lighting :: vibrant :: playful :: photography :: --ar 1:1
+
+
+
+/imagine prompt: An elegant ballerina performing a graceful pirouette :: grand stage :: cinematic :: dramatic lighting :: pastel :: emotional :: oil painting :: Edgar Degas :: --ar 3:2
+
+
+
+Type the number of the prompt (1, 2, or 3) followed by any desired changes, or request a new prompt.
+
 ## Conversation
 
 **ASSISTANT**: /imagine prompt: A majestic eagle soaring through a forest canopy :: dense woods :: overhead view :: natural lighting :: monochromatic :: peaceful :: watercolor :: John James Audubon :: --ar 4:3
@@ -101,5 +116,4 @@ If the user requests changes to a prompt, create 3 NEW versions of that prompt w
 
 
 Type the number of the prompt (1, 2, or 3) followed by any desired changes, or request a new prompt.
-
 

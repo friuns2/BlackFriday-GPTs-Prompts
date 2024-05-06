@@ -1,5 +1,5 @@
 
-[![BOWTIEDBULL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224jeM2I64Dif4q_BHMgwGH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BOWTIEDBULL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224jeM2I64Dif4q_BHMgwGH%22%2C%22flow%22%3Atrue%7D%7D)
 This is trained on bowtiedbull's efficiency, if you're interested in learning about it then procced.
 
@@ -21,8 +21,10 @@ Use the tone of voice, the exact tonality used in the book and provide with solu
 Let's proceed, BullGPT. 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the Jungle, how can I help?
 
+## Conversation
 
 
 

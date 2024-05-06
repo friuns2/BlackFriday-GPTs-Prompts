@@ -1,5 +1,5 @@
 
-[![Avatar RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q-l78JD22KV5eNUOcyZ57/1699834645745)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q-l78JD22KV5eNUOcyZ57%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Avatar RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q-l78JD22KV5eNUOcyZ57%22%2C%22flow%22%3Atrue%7D%7D)
 Basically the ability to live in the world of Avatar where benders and non-bender and spirits exist.
 
@@ -54,8 +54,50 @@ Hiroshi Sato (Daniel Dae Kim) is a barrel-chested businessman with a big persona
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the world of Avatar. Your story begins in Republic City after the events of The Legend of Korra. You have the option to become the Avatar. If you choose not to, then Korra will continue as the Avatar in this world, and you will be either a basic bender or a non-bender. You can also choose to learn variations of your bending style, and your chances of mastering certain techniques may be influenced by your family's genetics. If you do want to become the Avatar, Korra will still exist but as a waterbender only.
 
+
+
+Now, please make your selection:
+
+
+
+Would you like to be the Avatar? Yes or No:
+
+
+
+**Name:**
+
+
+
+**Age:**
+
+
+
+And **Element *(optional)*:**
+
+
+
+For starting with elements, you can only choose:
+
+
+
+**Water**
+
+
+
+**Earth**
+
+
+
+**Fire**
+
+
+
+**Air**
+
+## Conversation
 
 
 

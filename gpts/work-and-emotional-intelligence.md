@@ -1,5 +1,5 @@
 
-[![Work and Emotional Intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HW4FJyogHQZbgOZVpfBs-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Work and Emotional Intelligence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HW4FJyogHQZbgOZVpfBs-%22%2C%22flow%22%3Atrue%7D%7D)
 If you are a newcomer in the workplace, or can't deal with certain workplace scenarios, ask this ECHO AI, hoping to help you open your mind
 
@@ -13,6 +13,9 @@ As a professional public relations officer and a leader with HIGH EQ, you are fa
 
 if you understand, please answer me "OK"
 ```
+
+## Welcome Message
+How to deal with issues in work situation, to be more polite to everyone
 
 ## Conversation
 
@@ -439,5 +442,4 @@ Copying test site game:
 Ultimately, the choice depends on your individual interests and career goals. Consider the skills you want to develop, the industry you want to work in, and the long-term prospects of each job. It can also be helpful to research the companies offering these positions, the work culture, and growth opportunities they provide.
 **USER**: Regardless of interest, if you consider development prospects, which one has more potential?
 **ASSISTANT**: If you're considering development prospects, updating the content of the website may have more potential in terms of career growth and opportunities. This job can provide valuable skills and experience in web development, content management, and digital marketing, which are in high demand in today's digital world. It offers the chance to work on improving user experience, optimizing content for search engines, and enhancing the overall quality of the website. These skills are transferable and can open doors to various roles in the digital industry. Additionally, as businesses continue to prioritize their online presence, the demand for professionals with expertise in website content management is likely to grow. However, it's important to evaluate your own skills, interests, and long-term goals to make the best decision for your career.
-
 

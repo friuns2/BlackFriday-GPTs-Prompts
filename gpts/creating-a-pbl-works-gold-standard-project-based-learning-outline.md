@@ -1,5 +1,5 @@
 
-[![Curriculum Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YN6JX9INsCD-vz9_H1arN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Curriculum Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YN6JX9INsCD-vz9_H1arN%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Project Wizard - the ultimate tool for creating engaging and comprehensive project-based learning outlines. Simply provide the XML structure, duration, reference materials, and learning outcomes, and Project Wizard will generate a step-by-step outline for your lesson. Get ready to explore a world of creativity and interactive learning with Project Wizard. Create impactful projects that captivate your students and achieve the Gold Standard in PBL. Start now and unlock the potential of your teaching.
 
@@ -26,8 +26,10 @@ ChatGPT, I need your assistance to create a PBL Works Gold Standard Project-Base
 Let's begin the Q&A will a Greeting, when I respond to your greeting start with question 1. 
 ```
 
-## Conversation
+## Welcome Message
+Please Provide a greeting.
 
+## Conversation
 
 
 

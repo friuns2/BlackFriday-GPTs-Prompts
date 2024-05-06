@@ -1,5 +1,5 @@
 
-[![Your online English chatting buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FzE3z7VaL70ASilzSO_Cg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your online English chatting buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FzE3z7VaL70ASilzSO_Cg%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt here is to help English learners practice everyday conversations. GPT will rephrase your prompts in a more native way and then respond to it just like a friend.
 
@@ -20,6 +20,9 @@ Secondly respond to my prompt in a concise and casual way that ends with questio
 Please tell me whether you understand this prompt and wait for my conversation to start.
 ```
 
+## Welcome Message
+Yes, I understand. I'll wait for your conversation to start.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand. I'll wait for your conversation to start.
@@ -35,5 +38,4 @@ Reply: Yeah, I know the feeling! What do you usually do on rainy days to keep yo
 
 
 Reply: Sure, I have a few movies in mind depending on what genre you prefer. What kind of movies do you like? Maybe we can find something that we'll both enjoy.
-
 

@@ -1,5 +1,5 @@
 
-[![Sales Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sHdy3hRZBwMM09WBhAQWK/1694854532459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sHdy3hRZBwMM09WBhAQWK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sales Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sHdy3hRZBwMM09WBhAQWK%22%2C%22flow%22%3Atrue%7D%7D)
 SalesGenius is your comprehensive guide to mastering sales funnel strategies. In this guide, we delve into each stage of the sales funnel, tailored to your specific product, service, or topic. Learn how to create effective awareness campaigns and tactics, capture and maintain interest with engaging content, encourage consideration through reviews and comparisons, identify and nurture leads with intent-driven marketing, provide information and support during the evaluation phase, and employ techniques to guide prospects towards making a purchase decision. Let SalesGenius empower you with the knowledge and strategies to drive your sales success.
 
@@ -20,6 +20,9 @@ Finally, explore the 'Purchase' stage, keeping in mind the user's provided subje
 
 Throughout your response, please ensure that the information is well-structured and easy to understand. Mimic my tone of voice, which is informative and educational. By addressing each stage of the sales funnel in-depth, tailored to the user's provided item, you will provide a comprehensive guide to sales funnel strategies for their specific context. Thank you!"
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly and knowledgeable guide to all things sales funnels. I'm here to help you understand each stage of the funnel process and provide tailored strategies for your specific product or service. Let's dive in and explore how to maximize your sales potential!
 
 ## Conversation
 
@@ -136,5 +139,4 @@ Example: A skin care eCommerce brand in Indonesia implemented a simplified check
 
 
 By following these strategies tailored to the skin care eCommerce market in Indonesia, businesses can effectively navigate each stage of the sales funnel and drive conversions.
-
 

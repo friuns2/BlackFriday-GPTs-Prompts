@@ -1,5 +1,5 @@
 
-[![How to run a DAO platform](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282v52ACSpAPbeZS05IecG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # How to run a DAO platform | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282v52ACSpAPbeZS05IecG%22%2C%22flow%22%3Atrue%7D%7D)
 a DAO platform may requir tools, open sources, token, collaberation, smatr contract, in general how to run a DAO is still worth exploring
 
@@ -8,6 +8,9 @@ a DAO platform may requir tools, open sources, token, collaberation, smatr contr
 ```
 what is a DAO
 ```
+
+## Welcome Message
+A DAO, or Decentralized Autonomous Organization, is a type of organization that is run through rules encoded as computer programs called smart contracts on a blockchain. It operates in a decentralized manner and its decision-making process is governed by token holders who can vote on proposals and changes to the organization.
 
 ## Conversation
 
@@ -68,5 +71,4 @@ Overall, the main goal of a DAO platform is to provide an easy-to-use interface 
 
 
 It's important to note that the specific smart contracts used may vary depending on the platform and the needs of the specific DAO, and some platforms may offer additional types of contracts beyond those listed above.
-
 

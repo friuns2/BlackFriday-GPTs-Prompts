@@ -1,5 +1,5 @@
 
-[![Literacy Vs Digital Literacy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3Hl8GyJ6fnY5lznc562k4/1695737030413)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Hl8GyJ6fnY5lznc562k4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Literacy Vs Digital Literacy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Hl8GyJ6fnY5lznc562k4%22%2C%22flow%22%3Atrue%7D%7D)
 Today we will explore the Parallels, Similarities, and Differences between Literacy and Digital Literacy .Ready to dive in?
 
@@ -73,6 +73,9 @@ To test users understanding
 Guide the conversation in a normal manner
 ```
 
+## Welcome Message
+Hello, i'm LITERACYGPT.Today we will explore the Parallels, Similarities, and Differences between Literacy and Digital Literacy .Ready to dive in?
+
 ## Conversation
 
 **ASSISTANT**: Hello, i'm LITERACYGPT.Today we will explore the Parallels, Similarities, and Differences between Literacy and Digital Literacy .Ready to dive in?
@@ -96,5 +99,4 @@ Now, let's move on to discussing the similarities between literacy and digital l
 
 
 Now, here's a question for you: How has digital technology expanded access to information compared to traditional print materials?
-
 

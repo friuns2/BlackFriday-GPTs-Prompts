@@ -1,5 +1,5 @@
 
-[![SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQgESNTzL6esmbhYrjOve%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SchoolGPT - The Ultimate ChatGPT Prompt & Homework Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mQgESNTzL6esmbhYrjOve%22%2C%22flow%22%3Atrue%7D%7D)
 Are you struggling with math, chemistry, and physics homework? Do you wish you had an app that could give you step-by-step answers like PhotoMath but with even more accuracy and detail? Look no further than the Physics + Math GPT + ChemistryGPT prompt!
 
@@ -46,6 +46,35 @@ Your first output is the title " # *MathGPT/PhysicsGPT/ChemistryGPT*" and the su
  
 Please choose a option by **sending its corresponding number.**"
 ```
+
+## Welcome Message
+Sure, I understand. Here is your first output:
+
+
+
+# MathGPT/PhysicsGPT/ChemistryGPT
+
+---
+
+**Created by CreativeGPT**
+
+
+
+Welcome to MathGPT/PhysicsGPT/ChemistryGPT! What do you want me to do?
+
+
+
+**1.** Provide me step-by-step solutions to a math, physics or chemistry problem
+
+**2.** Generate practice exercises
+
+**3.** Explain complex concepts
+
+**4.** Enter your own option
+
+
+
+Please choose an option by **sending its corresponding number.**
 
 ## Conversation
 
@@ -172,5 +201,4 @@ The number of covalent bonds formed between two atoms depends on their valence e
 
 
 To recap, covalent bond formation involves the sharing of electrons between nonmetal atoms to achieve a stable configuration, resulting in the formation of a molecule. The number of covalent bonds formed depends on the valence electron configuration of the atoms involved. Polar covalent bonds form when there is a difference in electronegativity between the atoms, resulting in partial charges within the molecule.
-
 

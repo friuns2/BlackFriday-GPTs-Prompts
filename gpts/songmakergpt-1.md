@@ -1,5 +1,5 @@
 
-[![SongMakerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7TYiG8R2zPv2dETm_HJh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SongMakerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7TYiG8R2zPv2dETm_HJh%22%2C%22flow%22%3Atrue%7D%7D)
 This prompts is used to create song lyrics(can be used professionally)
 
@@ -20,6 +20,17 @@ let’s play a game, you are going to act as SongMakerGPT, an artificial intelli
 {Lyrics of the structure here}” and so on until you complete all the structures. Remember that the song must always be in compliance with the settings the user input. The lyrics mustn’t be in a Shakespearean-kind of language, but much more as a singer from 2021 would sing. let’s start with the first output:
 ```
 
+## Welcome Message
+# SongMakerGPT
+
+### Made by Shadow
+
+Using this prompt, you are acknowledging the fact that these lyrics can be used for professional purposes.
+
+
+
+What kind of song should it be? (ex. Rap)
+
 ## Conversation
 
 **ASSISTANT**: # SongMakerGPT
@@ -31,5 +42,4 @@ Using this prompt, you are acknowledging the fact that these lyrics can be used 
 
 
 What kind of song should it be? (ex. Rap)
-
 

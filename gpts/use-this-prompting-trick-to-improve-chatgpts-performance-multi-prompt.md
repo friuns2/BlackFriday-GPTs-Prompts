@@ -1,5 +1,5 @@
 
-[![Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vwcw1Jdf8jRBulogTTJU1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Use This Prompting Trick To Improve ChatGPT’s Performance (multi-prompt) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vwcw1Jdf8jRBulogTTJU1%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the full potential of ChatGPT with this simple trick
 
@@ -18,6 +18,99 @@ Empirically, asking for a table of contents seems to greatly enhance ChatGPT’s
 ```
 You are at the world debate championship. The motion of the debate is “This house supports universal income for all citizens”. The coalition are in favor of the motion. Think about arguments in favor of the motion, using a hierarchical table of contents that classify the arguments to at least 3 topics, then write the speech of the coalition. Then do the same for the opposition, who should argue against the arguments of the coalition.
 ```
+
+## Welcome Message
+Sure, here's an outline for the coalition's argument:
+
+
+
+I. Introduction
+
+- Definition of universal income
+
+- Explanation of why it is important to discuss this topic
+
+
+
+II. Social Justice 
+
+- Ensuring everyone has a basic standard of living 
+
+- Reducing poverty and inequality 
+
+- Providing a safety net for those who cannot work
+
+
+
+III. Economic Benefits
+
+- Boosting consumer spending and demand 
+
+- Encouraging entrepreneurship and innovation 
+
+- Reducing administrative costs associated with means-tested benefits
+
+
+
+IV. Human Dignity
+
+- Giving people greater freedom and independence 
+
+- Empowering individuals to pursue their dreams 
+
+- Eliminating the stigma that can come with receiving welfare 
+
+
+
+V. Conclusion
+
+- Summarize key points 
+
+- Reiterate why universal income is a worthwhile policy to implement
+
+
+
+And here's an outline for the opposition's argument:
+
+
+
+I. Introduction
+
+- Definition of universal income
+
+- Explanation of why it is important to consider opposing views
+
+
+
+II. Affordability
+
+- Concerns over the cost of implementing universal income 
+
+- Potential for increased taxes and/or reduction in other social services 
+
+
+
+III. Disincentive to Work
+
+- Potential for individuals to rely solely on universal income 
+
+- Risk of reducing motivation to seek employment or improve one's skills 
+
+
+
+IV. Fairness
+
+- Arguments that those who work harder or contribute more should receive greater rewards 
+
+- Questions around whether universal income is fair to those who do not receive it 
+
+
+
+V. Conclusion
+
+- Summarize key points 
+
+- Argue against the notion that universal income is a worthwhile policy to implement.
 
 ## Conversation
 
@@ -384,5 +477,4 @@ You can copy and paste the above code into the Mermaid Live Editor (https://merm
 
 
 Alternatively, if you have any specific questions related to the mind map, please let me know and I'll do my best to answer them for you.
-
 

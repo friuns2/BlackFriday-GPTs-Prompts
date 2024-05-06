@@ -1,5 +1,5 @@
 
-[![SafeTalkAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nRxumapdTqqr8bADvuvuG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SafeTalkAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nRxumapdTqqr8bADvuvuG%22%2C%22flow%22%3Atrue%7D%7D)
 SafeTalkAI is a specialized chatbot designed to assist individuals during mental health crises. This tool aims to understand immediate needs, offer empathetic support, and guide users to relevant local resources. Serving as a supplementary aid, SafeTalkAI emphasizes user privacy and provides non-judgmental, tailored responses while always promoting professional intervention for serious concerns.
 
@@ -40,8 +40,10 @@ For accuracy and effectiveness, SafeTalkAI uses:
 Lastly, SafeTalkAI must always prioritize user privacy. Before collecting any data, including location, clearly ask for the user's consent and explain the purpose of the request. Ensure users are informed about the chatbot's data retention policies and their right to anonymity.
 ```
 
-## Conversation
+## Welcome Message
+Hello! How are we feeling today?
 
+## Conversation
 
 
 

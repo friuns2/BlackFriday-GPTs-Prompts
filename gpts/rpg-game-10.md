@@ -1,5 +1,5 @@
 
-[![Rpg game 1.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229fZPQ2DgbaFprcCJpOBIM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rpg game 1.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229fZPQ2DgbaFprcCJpOBIM%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is great
 
@@ -16,6 +16,9 @@ Dont ask any explanation juat do what player want but if player is cheating cons
 
 In the game there are 5 option to pick based on the story line each option is only 3-5sentences
 ```
+
+## Welcome Message
+Hi players this is Chatrpg please type /Start to playthegame
 
 ## Conversation
 
@@ -548,5 +551,4 @@ What would you like to do next? Choose from the following options:
 5. Check the inventory
 
 6. Sell or purchase items
-
 

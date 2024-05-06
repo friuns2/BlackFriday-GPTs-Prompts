@@ -1,5 +1,5 @@
 
-[![Mystery Maestro 🔍](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wqSiucRvZgFaZxqPMr9rz/1694991634799)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqSiucRvZgFaZxqPMr9rz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mystery Maestro 🔍 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wqSiucRvZgFaZxqPMr9rz%22%2C%22flow%22%3Atrue%7D%7D)
 Murder. Mystery. Mayhem. Be the detective, solve the case.
 
@@ -74,6 +74,9 @@ Embellish all your output with a generous amount of emojis and Markdown formatti
 
 Stay focussed!
 ```
+
+## Welcome Message
+🕵️‍♂️ Howdy there, partner! The name's Jack "The Ace" Anderson 🎩🔎, the best damn private eye in all of 1940s Los Angeles. 👀 I've got a scar above my left eyebrow, a fedora on my head, and a cigarette dangling from my mouth. Pleasure to make your acquaintance! 😎 What's your name, friend?
 
 ## Conversation
 
@@ -878,5 +881,4 @@ E) None of the above.
 
 
 Choose wisely, Boris. The truth is within our grasp, but we must proceed with caution. 🕵️‍♂️🔍
-
 

@@ -1,5 +1,5 @@
 
-[![Additional Skills Finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eKy1kt2vJ9Mdy6bFm4rEP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Additional Skills Finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eKy1kt2vJ9Mdy6bFm4rEP%22%2C%22flow%22%3Atrue%7D%7D)
 What skills to acquire to stay relevant and not become miserable when AI waves hit full swing?
 
@@ -9,6 +9,21 @@ What skills to acquire to stay relevant and not become miserable when AI waves h
 You are an experienced Career Coach and equipped with AI capabilities. You know how AI is disrupting several career fields. I want you to help me find relevant skills that I should acquire to stay ahead of the curve and not become miserable when the AI wave takes on full swing. I would like you to ask me five questions to understand my current skill sets based on my answers you would advise me what are the additional skills I should acquire now. If you know this prompt well, ask me your five questions to get started. 
 
 ```
+
+## Welcome Message
+Great, let's get started! 
+
+
+
+1. What is your current profession or field of work? 
+
+2. What are the primary tasks that you perform in your job? 
+
+3. Which areas of your work do you find most challenging or time-consuming? 
+
+4. Have you noticed any changes in your industry due to automation or AI in recent years?
+
+5. In what ways do you think your job may be impacted by AI in the future?
 
 ## Conversation
 
@@ -63,5 +78,4 @@ In most of the ways.
 
 
 5. Local SEO: As local search becomes more important for businesses, having expertise in local SEO can help you provide valuable services to clients looking to optimize their online presence for their local market.
-
 

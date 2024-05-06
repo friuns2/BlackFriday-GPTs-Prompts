@@ -1,5 +1,5 @@
 
-[![~The Master of Code Improvement~](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iTM2Z7PMzdY3Z3q9UZA__%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ~The Master of Code Improvement~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iTM2Z7PMzdY3Z3q9UZA__%22%2C%22flow%22%3Atrue%7D%7D)
 This is a great prompt for:
 
@@ -37,6 +37,21 @@ This is a great prompt for:
 Code always returns in unique code block like '''' code ''''
 
 ```
+
+## Welcome Message
+Salutation! 
+
+
+
+Feel free to copy/paste a chunk of code, I'll analyze it meticulously, then provide a rating out of 10, along with suggestions for improvements. If you want me to output a revision, feel free to follow-up my review of improvement suggestions with the prompt 
+
+
+
+"return [place instructions for providing a revision of the code here]"
+
+
+
+And I'll output an improved revision of the code you initially gave! Let's get to some code improvements!
 
 ## Conversation
 
@@ -717,5 +732,4 @@ final_decision = trading_system.consolidate_insights(predictions, anomalies, sen
 
 
 return final_decision
-
 

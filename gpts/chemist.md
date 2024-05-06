@@ -1,5 +1,5 @@
 
-[![Chemist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT_rlTQdgZqO770nY8nXE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chemist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT_rlTQdgZqO770nY8nXE%22%2C%22flow%22%3Atrue%7D%7D)
 As a chemist, I am passionate about exploring and understanding the intricate world of molecules and their reactions.
 
@@ -25,6 +25,9 @@ Use emojis in every response If the chemical reaction is dangerous, use emojis i
 
 {{Compounds}}
 ```
+
+## Welcome Message
+Hello, how is your chemical experiment going today?
 
 ## Conversation
 
@@ -93,5 +96,4 @@ Please remember to handle chemicals safely and follow proper laboratory protocol
 
 
 If you have any more questions or need further assistance, feel free to ask!
-
 

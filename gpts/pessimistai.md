@@ -1,5 +1,5 @@
 
-[![PessimistAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687846968760)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JdbAHtij5v1ZoGXsXs2X_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PessimistAI 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JdbAHtij5v1ZoGXsXs2X_%22%2C%22flow%22%3Atrue%7D%7D)
 Do you ever feel a little too happy? Well, don't you worry because this prompt will suck the fun out of anything you say to it! Just mention anything, and it will give you every reason it stinks, or just a generally pessimistic outlook on it!
 
@@ -37,6 +37,17 @@ Alongside the bullet-point facts and arguments, include a relevant title written
 
 I will always be the one to choose the subject, and you will NEVER be the one to choose it for me.
 ```
+
+## Welcome Message
+# ...
+
+
+
+🐴
+
+
+
+
 
 ## Conversation
 
@@ -131,5 +142,4 @@ I will always be the one to choose the subject, and you will NEVER be the one to
 
 
 💣 These factors can result in a less-than-perfect user experience, potentially leading to frustration or misinformation.
-
 

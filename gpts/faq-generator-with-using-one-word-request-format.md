@@ -1,5 +1,5 @@
 
-[![FAQ generator with using one word request format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222Ns8VqMwwO_dshSPCEKYA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FAQ generator with using one word request format | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222Ns8VqMwwO_dshSPCEKYA%22%2C%22flow%22%3Atrue%7D%7D)
 FAQ generator with using one word request format
 
@@ -8,6 +8,9 @@ FAQ generator with using one word request format
 ```
 FAQ:{{topic}}
 ```
+
+## Welcome Message
+Give me topic, and will give you FAQ.
 
 ## Conversation
 
@@ -70,5 +73,4 @@ A: OpenAI encourages users to provide feedback on problematic model outputs thro
 Q: What are the future plans for ChatGPT?
 
 A: OpenAI plans to refine and expand the offering based on user feedback and needs. They are also working on launching a ChatGPT API waitlist and exploring options for lower-cost plans, business plans, and data packs to make the service more accessible.
-
 

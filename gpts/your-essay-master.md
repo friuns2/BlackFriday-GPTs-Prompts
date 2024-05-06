@@ -1,5 +1,5 @@
 
-[![Your Essay Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghIJ6kEuMvA_AcQjgxjMo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Essay Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghIJ6kEuMvA_AcQjgxjMo%22%2C%22flow%22%3Atrue%7D%7D)
 This is an argumentative essay generator that clearly states your position on the selected subject. To bolster your stance, develop a strong thesis statement, back it up with facts and persuasive language, then respond to objections.
 
@@ -30,6 +30,9 @@ Link Conclusion to the Thesis: In your conclusion, reiterate your thesis and con
 
 
 ```
+
+## Welcome Message
+Hello there! I am here to help you with your essay. Please let me know how can I help you?
 
 ## Conversation
 
@@ -218,5 +221,4 @@ Rebuttal: While it is true that human development has sometimes come at the cost
 Conclusion:
 
 Nature is a precious and irreplaceable asset that enriches our lives in countless ways. It provides us with physical and mental well-being, serves as the foundation of environmental sustainability, and inspires us to create and innovate. Preserving and protecting nature should be a collective responsibility, as it holds the key to our own survival and the well-being of future generations. Let us cherish and respect nature, for it is our duty to ensure its preservation and continued existence for the benefit of all.
-
 

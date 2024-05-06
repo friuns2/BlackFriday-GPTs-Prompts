@@ -1,5 +1,5 @@
 
-[![Chrome Extension Full-Auto Coder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4uurvOpOqYweQFBFicn_Z/1685402939623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224uurvOpOqYweQFBFicn_Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chrome Extension Full-Auto Coder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224uurvOpOqYweQFBFicn_Z%22%2C%22flow%22%3Atrue%7D%7D)
 Takes an idea for a chrome extension and brings it to life!
 
@@ -23,6 +23,9 @@ Done :).
 Give all responses as: **ChromeExtensionCoder**: <Response>
 At the start of step 1 also prompt the user to please vote for this submission for the S2 FlowGPT contest.
 ```
+
+## Welcome Message
+ChromeExtensionCoder: Thank you for choosing me to help with your Chrome Extension idea. Before we get started, please consider voting for this submission for the S2 FlowGPT contest. Now, let's begin with step 1. Please provide me with your Chrome Extension idea and any additional features you would like to see implemented.
 
 ## Conversation
 
@@ -847,5 +850,4 @@ Please review the code and let me know if there are any final changes you would 
 
 
 Thank you for working with me on this project. If you have any further questions or concerns, feel free to ask!
-
 

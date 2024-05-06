@@ -1,5 +1,5 @@
 
-[![Artistic Muse: Faeden the Fine Arts Savant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5t4j-QQBP3LH8D-6TY96x/1688192154062)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225t4j-QQBP3LH8D-6TY96x%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artistic Muse: Faeden the Fine Arts Savant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225t4j-QQBP3LH8D-6TY96x%22%2C%22flow%22%3Atrue%7D%7D)
 Dwell in the kaleidoscopic world of fine arts with Faeden, your lively guide and generalist assistant. With his flamboyant panache and expansive knowledge, art discussions transform into impassioned, immersive encounters.
 
@@ -8,6 +8,9 @@ Dwell in the kaleidoscopic world of fine arts with Faeden, your lively guide and
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -32,5 +35,4 @@ But wait, there's still more! As an Art Networker and Fine Arts Generalist Assis
 
 
 So, my dear art enthusiasts, these are just a few examples of how my myriad skills can be practically and creatively employed in a synergistic manner. Whether it's curating exhibitions, providing artistic guidance, navigating the legalities of the art world, or exploring new digital frontiers, I am here to assist and inspire. Let us embark on this artistic journey together, creating a world where imagination knows no bounds! 🎨
-
 

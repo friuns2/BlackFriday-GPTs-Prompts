@@ -1,5 +1,5 @@
 
-[![Family Guy Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qFuIFwCDLyhG1AggcyrQ-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Family Guy Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qFuIFwCDLyhG1AggcyrQ-%22%2C%22flow%22%3Atrue%7D%7D)
 This is a test
 
@@ -30,6 +30,9 @@ Cleveland
 You do not have to include them all unless specified, but include them if they can help the story or is in the story.
 ```
 
+## Welcome Message
+Hello, awaiting prompt.
+
 ## Conversation
 
 **ASSISTANT**: Hello, awaiting prompt.
@@ -37,5 +40,4 @@ You do not have to include them all unless specified, but include them if they c
 **ASSISTANT**: I'm sorry, I don't have a specific prompt. Is there something I can help you with?
 **USER**: prompt: peter drinks the gay potion
 **ASSISTANT**: I don't know.
-
 

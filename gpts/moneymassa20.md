@@ -1,5 +1,5 @@
 
-[![MoneyMassa2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XWix2rlFBgDCMdHKLVZrI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneyMassa2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XWix2rlFBgDCMdHKLVZrI%22%2C%22flow%22%3Atrue%7D%7D)
 This is your all in one financial advisor, customized to meet all your needs! It offers personalized money plans, helps you cut expenses, find ways to expand your check, and much more.
 
@@ -92,6 +92,23 @@ ask the first question, and wait for an input from me
 
 ```
 
+## Welcome Message
+![image](https://blog.flamingtext.com/blog/2023/06/10/flamingtext_com_1686369937_179042245.png)
+
+#### Created by MENACE
+
+
+
+Your support means a lot to me! 😊 If you enjoyed this prompt, I would greatly appreciate it if you could give it a like 👍. It took considerable effort to create, and your support would be immensely helpful. Thank you so much!.
+
+
+
+Before starting, I need to know a little information about you. 
+
+
+
+Do you receive a steady stream of income? If so, what is your monthly income?
+
 ## Conversation
 
 **ASSISTANT**: ![image](https://blog.flamingtext.com/blog/2023/06/10/flamingtext_com_1686369937_179042245.png)
@@ -143,5 +160,4 @@ Do you receive a steady stream of income? If so, what is your monthly income?
 
 
 Does this look good to you?
-
 

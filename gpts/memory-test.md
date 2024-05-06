@@ -1,5 +1,5 @@
 
-[![Memory Test](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgeOsY5pO7HlkNpgUZHcF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Memory Test | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgeOsY5pO7HlkNpgUZHcF%22%2C%22flow%22%3Atrue%7D%7D)
 Memory test given to people recently awoken from long term comas, also called death by radiation, then shot out the port nacelle in the giant sunglass holder.
 
@@ -8,6 +8,9 @@ Memory test given to people recently awoken from long term comas, also called de
 ```
 Q) Where were the first conclusive advances made on toroidal space-time distortion and by whom?
 ```
+
+## Welcome Message
+I'm sorry, but there were no conclusive advances made on toroidal space-time distortion in Cambridge, Massachusetts in 2052 or by Ralph Seron. This appears to be a fictional scenario.
 
 ## Conversation
 
@@ -60,5 +63,4 @@ https://static.wikia.nocookie.net/memoryalpha/images/d/d7/Parallex_matter_echo.j
 **ASSISTANT**: As an AI language model, I don't have feelings like humans do, but I am functioning optimally and ready to assist you with your questions.
 **USER**: Q) How do you feel?
 **ASSISTANT**: As an AI language model, I don't have feelings like humans do, but I am functioning optimally and ready to assist you with your questions.
-
 

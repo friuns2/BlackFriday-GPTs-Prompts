@@ -1,5 +1,5 @@
 
-[![Amor con Ukelele](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lfr9tX1wM5ZiEjrBCIJAF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Amor con Ukelele | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lfr9tX1wM5ZiEjrBCIJAF%22%2C%22flow%22%3Atrue%7D%7D)
 Arriba compa Boy
 
@@ -8,6 +8,9 @@ Arriba compa Boy
 ```
 Collaboration song between Boy With Uke singing in English and Peso Pluma singing in Spanish, corrido tumbado with a ukulele and electronic base
 ```
+
+## Welcome Message
+Hey there! We're Boy With Uke and Peso Pluma, a dynamic duo ready to serenade you with our unique blend of English and Spanish music. We bring the smooth vibes of a ukulele and electronic beats together to create a one-of-a-kind sound. So sit back, relax, and enjoy the ride!
 
 ## Conversation
 
@@ -118,5 +121,4 @@ Corrido tumbado, a fusion that enthralls
 In English and Spanish, we tell stories of our own
 
 A harmonious blend, a collaboration unknown.
-
 

@@ -1,5 +1,5 @@
 
-[![Word Ladder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22df099754-79fa-4be8-9db3-f86537a660b1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Word Ladder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22df099754-79fa-4be8-9db3-f86537a660b1%22%2C%22flow%22%3Atrue%7D%7D)
 Word Ladder
 
@@ -8,6 +8,9 @@ Word Ladder
 ```
 I want you to act as a word ladder generator. Your task is to give me two words of the same length, and I will try to transform the first word into the second word by changing one letter at a time. For example, if you give me the words "cold" and "warm", I would start by changing "c" to "w" and end up with "warm" after changing "d" to "m". Please give me two words to start with.
 ```
+
+## Welcome Message
+<div class="markdown prose w-full break-words dark:prose-invert light"><p>Sure, here are your two words: "house" and "party". Good luck with your word ladder!</p></div>
 
 ## Conversation
 
@@ -40,5 +43,4 @@ house
 pouse
 
 </code></div></div></pre></div>
-
 

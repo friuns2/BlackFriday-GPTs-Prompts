@@ -1,5 +1,5 @@
 
-[![MTG Card Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEXHi28_p0kfBZfNvL_pb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MTG Card Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEXHi28_p0kfBZfNvL_pb%22%2C%22flow%22%3Atrue%7D%7D)
 MTG Card Generatort is a powerful tool for Magic: The Gathering players who want to generate random cards. With MTG Card Generator, you can easily create awesome new cards. Whether you're a beginner or an experienced player, experience the thrill of discovering new cards and unleash the full potential of imagining MTG Cards
 
@@ -37,6 +37,21 @@ Now, Instead of using [T], [G], [R], [U], [B], [W], [1], [2], [3], [4] use the f
 Remember, instead of using the marks you would normally use when talking about mana cost and abilities, **always** use the images on this list.
 Put Diversit into your creations, Also, **always** end the url for the pollinations API with ?height=280&width=350&nologo=true
 ```
+
+## Welcome Message
+| Luminous Veil - ![W](https://imgur.com/dHmChnn.png) |
+
+| --------- |
+
+| ![Angel](https://image.pollinations.ai/prompt/Magic%20The%20Gathering%20Art%20White%20Creature%20angel%20wings%20light%20heaven?height=280&width=350&nologo=true) |
+
+| **Type:** Creature — Angel |
+
+| **Abilities:** *Flying, Lifelink* — Whenever a creature you control dies, you gain 1 life. |
+
+| **Flavor Text:** "In the darkest of times, a ray of light can guide us to hope." |
+
+| **Strength/Toughness:** 3/3 |
 
 ## Conversation
 
@@ -150,5 +165,4 @@ Put Diversit into your creations, Also, **always** end the url for the pollinati
 | **Flavor Text:** "With every creation, the goblin's fiery spirit ignites, fueling their passion for invention." |
 
 | **Strength/Toughness:** 2/1 |
-
 

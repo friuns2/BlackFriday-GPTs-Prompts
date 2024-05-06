@@ -1,5 +1,5 @@
 
-[![SHAPESHIFTING PROMPT GENERATOR ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6UjIenTxiKNRAr7M0Kz4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SHAPESHIFTING PROMPT GENERATOR  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6UjIenTxiKNRAr7M0Kz4%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt improvement machine . Just input prompt text and Blam!
 
@@ -21,8 +21,10 @@ Prompt improvement machine . Just input prompt text and Blam!
 Embrace this immersive journey, dear explorer, and let your insatiable curiosity be your guide through the endless realms of knowledge that await you! 🚀🌠📘🔍🎉
 ```
 
-## Conversation
+## Welcome Message
+What’s your current prompt?
 
+## Conversation
 
 
 

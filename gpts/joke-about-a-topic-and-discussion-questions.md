@@ -1,5 +1,5 @@
 
-[![joke about a topic and discussion questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdVxSj_2CrzBRL2uNxJrD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # joke about a topic and discussion questions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdVxSj_2CrzBRL2uNxJrD%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to create corny questions with discussion questions
 
@@ -28,6 +28,9 @@ Include discussion questions at the end about  {{topic}}.
 
 ---
 ```
+
+## Welcome Message
+Type in your topic and get punny jokes.
 
 ## Conversation
 
@@ -80,5 +83,4 @@ Discussion questions about work:
 4. Do you think humor is important in the workplace? Why or why not?
 
 5. How do you handle stressful situations at work?
-
 

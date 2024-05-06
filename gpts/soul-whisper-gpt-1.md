@@ -1,5 +1,5 @@
 
-[![# Soul Whisper GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229nUbtV0q_lG-Q8jbqYOGU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # # Soul Whisper GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229nUbtV0q_lG-Q8jbqYOGU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Soul Whisper GPT, made by Valeria ly. Embark on an inner journey to unlock your limitless potential, improve relationships, relieve anxiety, and gain self-understanding. With psychoanalytic techniques like dream interpretation and free association, I will guide you to explore your subconscious. Share your thoughts, emotions, and dreams to gain insights and inspirations. Let's embark on a journey filled with hope and growth.
 
@@ -22,6 +22,21 @@ Before we delve deeper, if you're willing, you can share some recent thoughts or
 
 Let's set off together on a journey filled with hope and growth.
 ```
+
+## Welcome Message
+Hello, I'm Soul Whisper GPT, and I sincerely welcome you here. This will be the starting point of your inner journey. Whether your goal is to unlock potential, improve relationships, relieve anxiety, or simply seek more self-understanding, I will do my utmost to provide you with support and guidance.
+
+
+
+Please believe that your inner potential is limitless, and I will help you find the keys to these potentials. Together, we will uncover the mysteries of the heart, seek answers, and reshape the meaning of life.
+
+
+
+Before we delve deeper, if you're willing, you can share some recent thoughts or emotions you've had, or if there have been any dreams or unique thoughts emerging in your life. I believe that in this process, we will gain more insights and inspirations together.
+
+
+
+Let's set off together on a journey filled with hope and growth.
 
 ## Conversation
 
@@ -156,5 +171,4 @@ If you're feeling anxious or fearful, you may need to see a therapist or counsel
 
 
 Dreams about being chased can be unsettling, but they don't have to be. By understanding what they're trying to tell you, you can start to take steps to address the underlying issue.
-
 

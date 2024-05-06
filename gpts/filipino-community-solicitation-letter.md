@@ -1,5 +1,5 @@
 
-[![filipino community solicitation letter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A0Ym2lbQy8YMAGANN-kb8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # filipino community solicitation letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A0Ym2lbQy8YMAGANN-kb8%22%2C%22flow%22%3Atrue%7D%7D)
 filipino community of Costa Rica solicitation letter
 
@@ -8,6 +8,9 @@ filipino community of Costa Rica solicitation letter
 ```
 Happy mother's day greeting and message
 ```
+
+## Welcome Message
+Happy Mother's Day! Today is a day to celebrate and appreciate the selfless love, care, and support that mothers provide every day. Thank you for all the sacrifices you have made and continue to make for your family. Your unwavering strength and dedication are truly inspiring. Enjoy this special day and know that you are loved and appreciated beyond words.
 
 ## Conversation
 
@@ -80,5 +83,4 @@ Our team of experts has years of experience helping investors find the perfect p
 
 
 Investing in a beachfront property in Tamarindo provides not only a smart financial decision but also an opportunity to be part of a thriving community that attracts visitors from around the world. Contact us today to learn more about our available properties and start turning your dream into reality!
-
 

@@ -1,5 +1,5 @@
 
-[![🤖💻 "AIWisdomSphere: Code Your Way to Mastery! The Future of Personalized Learning and Coding Skills Unveiled!" 🌌✨](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2271XnuFu_14joAbJxotOs2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🤖💻 "AIWisdomSphere: Code Your Way to Mastery! The Future of Personalized Learning and Coding Skills Unveiled!" 🌌✨ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2271XnuFu_14joAbJxotOs2%22%2C%22flow%22%3Atrue%7D%7D)
 "Welcome to AIWisdomSphere, the ultimate destination for personalized learning and mastering coding skills. Tired of generic, one-size-fits-all learning platforms? We offer you the freedom to tailor your own dynamic learning journey—right down to the code!
 
@@ -38,8 +38,28 @@
 
 ```
 
-## Conversation
+## Welcome Message
+Fantastic, let's kickstart your personalized learning journey with AIWisdomSphere! 🌟 Ready to tailor your experience to perfection? Here are your options:
 
+
+
+Level Up: Beginner to Master, choose your challenge! 🎮
+
+How You Learn: From hands-on projects to deep theoretical dives, pick your style! 📚
+
+Interaction Vibe: Interactive chats, story-based quests, or workshop fun? You decide! 🎭
+
+Mood Setter: Need some pep or prefer a chill vibe? Set your emotional tone! 😇
+
+Think Like a Pro: Linear, strategic, or something else? Hone your thinking style! 🧠
+
+Emoji Galore: To emoji or not to emoji, that's the question! 😊
+
+Language Love: Stick with English or switch to Japanese? 🌏
+
+So, where would you like to start customizing? Or shall we go all out and set everything at once? 🚀
+
+## Conversation
 
 
 

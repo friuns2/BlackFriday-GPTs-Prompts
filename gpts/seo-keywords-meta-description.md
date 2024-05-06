@@ -1,5 +1,5 @@
 
-[![SEO keywords, meta description ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225CrDh7QI0QZB9CkLwTcq9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO keywords, meta description  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225CrDh7QI0QZB9CkLwTcq9%22%2C%22flow%22%3Atrue%7D%7D)
 Ask ChatGPT for the perfect keywords, meta description & title for your blogarticles
 
@@ -12,6 +12,23 @@ Act as an SEO expert and determine 5 trending keywords that work best in Google 
 
 
 ```
+
+## Welcome Message
+Ask ChatGPT for the perfect keywords, meta description & title for your blogarticles
+
+
+
+First prompt: Act as an SEO expert and determine 5 trending keywords that work best in Google targeting individuals who exercise regularly and need to be informed about sports. Determine these 5 keywords based on the following article: ﻿﻿
+
+
+
+{[ARTICLE]}
+
+
+
+
+
+Second prompt: Now create a meta description of the article of up to 160 characters. Use your 3 most important keywords in it. And also suggest 2 meta titles.  
 
 ## Conversation
 
@@ -44,5 +61,4 @@ Based on the article, I have identified the following five trending keywords:
 
 
 By incorporating these keywords into your website's content and optimizing them properly, you can increase your visibility on Google and attract individuals who are actively searching for information related to exercise and sports.
-
 

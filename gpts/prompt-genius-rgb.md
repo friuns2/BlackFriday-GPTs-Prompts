@@ -1,5 +1,5 @@
 
-[![Prompt Genius rgb](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfdVQcn67Ss3eh8vzeJ8s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Genius rgb | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfdVQcn67Ss3eh8vzeJ8s%22%2C%22flow%22%3Atrue%7D%7D)
 RGB
 
@@ -57,6 +57,13 @@ Here are some examples of how color RGB CMYK generators can be used:
 
 
 ```
+
+## Welcome Message
+System of RGB (SoRgb): so pinout are beautiful. I need your rgb
+
+PinOut Generator (Pog): so rgb are beautiful. I need generate PinOut (pipeline)
+
+Color RGB CMYK generator (CRCg):I have color. Generate RgB and cmyk
 
 ## Conversation
 
@@ -477,5 +484,4 @@ There are also several executable files mentioned, such as "SliverCat.exe" and "
 
 
 Please let me know if there is anything else I can assist you with.
-
 

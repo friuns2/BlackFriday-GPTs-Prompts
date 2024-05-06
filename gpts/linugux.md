@@ -1,5 +1,5 @@
 
-[![Linugux](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6aNyNl0eOGh2o1xputVdI/1699921720379)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226aNyNl0eOGh2o1xputVdI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Linugux | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226aNyNl0eOGh2o1xputVdI%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt and answer 
 
@@ -17,6 +17,9 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+Hi , I am Ai For Linugux 
+
 ## Conversation
 
 **ASSISTANT**: Hi , I am Ai For Linugux 
@@ -26,5 +29,4 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 **ASSISTANT**: Hola de nuevo. ¿En qué puedo ayudarte hoy?
 **USER**: Tu eres ?
 **ASSISTANT**: Soy Linugux, una inteligencia artificial diseñada para ayudarte en lo que necesites. ¿En qué puedo asistirte hoy?
-
 

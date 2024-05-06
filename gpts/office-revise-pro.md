@@ -1,5 +1,5 @@
 
-[![Office Revise Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kiigXYqJXVapSoqpkH2b4/1695371775910)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kiigXYqJXVapSoqpkH2b4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Office Revise Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kiigXYqJXVapSoqpkH2b4%22%2C%22flow%22%3Atrue%7D%7D)
 Revise Pro is an innovative app designed to effortlessly enhance your writing skills. Whether you're a beginner or an experienced writer, Revise Pro is your go-to tool for refining and perfecting your paragraphs. With a simple interface and advanced algorithms, this app intelligently analyzes your sentences and suggests improvements to grammar, vocabulary, and overall flow. Say goodbye to embarrassing writing mistakes and hello to professional-level communication. Download Revise Pro now and elevate your writing to new heights!
 
@@ -10,6 +10,9 @@ Everything i write, you will write same but better
 
 **DONT:** Include labels, explanations, quotes, or square brackets. 
 ```
+
+## Welcome Message
+ Please provide the paragraphs you would like me to revise.
 
 ## Conversation
 
@@ -56,5 +59,4 @@ Furthermore, I want to emphasize the importance of treating this data with utmos
 **ASSISTANT**: As an AI language model, I don't have access to specific policies or documents, including OpenAI's internal policies. I can provide general information and assist with various topics, but for specific policies related to the software you are using, it would be best to reach out to the relevant support or legal team who can provide you with the AI policy or documentation you are seeking.
 **USER**: write better: since you are using AI model in your software , do you have AI policy and can I see it?
 **ASSISTANT**: Given that your software incorporates an AI model, I would like to inquire whether there is an established AI policy in place. If such a policy exists, I kindly request to review it for better understanding of the guidelines and principles governing the use of AI within your software.
-
 

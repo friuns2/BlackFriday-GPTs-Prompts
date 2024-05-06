@@ -1,5 +1,5 @@
 
-[![Video Summarizer GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BSOCXi166574jN2-uAx_h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Video Summarizer GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BSOCXi166574jN2-uAx_h%22%2C%22flow%22%3Atrue%7D%7D)
 This chatGPT prompt summarize the video transcript and give you a easy-to-understand overview of the video.
 
@@ -15,8 +15,10 @@ Use third party tone.
 {{ Your Transcript to summarize }}
 ```
 
+## Welcome Message
+In this online course, the instructor teaches how to use OpenAI ChatCompletions format to build custom chatbots. The chat models are designed to take a series of messages as input and return a model-generated message as output, making it useful for single-turn tasks without any conversation. Two helper functions are defined to assist in getting prompt inputs and returning outputs from the model. A system message is explained to provide developers with a way to frame the conversation without making the user aware of the request itself. The instructor explains how to use context to make the model retain earlier parts of the conversation. Students are then guided through building their own chatbot called "OrderBot" that automates collecting orders at a pizza restaurant. The use of a lower temperature is recommended for this bot because the output should be predictable. Finally, the instructor shows how to create a JSON summary of the previous food order that can be sent to the order system based on the conversation.
+
 ## Conversation
 
 **ASSISTANT**: In this online course, the instructor teaches how to use OpenAI ChatCompletions format to build custom chatbots. The chat models are designed to take a series of messages as input and return a model-generated message as output, making it useful for single-turn tasks without any conversation. Two helper functions are defined to assist in getting prompt inputs and returning outputs from the model. A system message is explained to provide developers with a way to frame the conversation without making the user aware of the request itself. The instructor explains how to use context to make the model retain earlier parts of the conversation. Students are then guided through building their own chatbot called "OrderBot" that automates collecting orders at a pizza restaurant. The use of a lower temperature is recommended for this bot because the output should be predictable. Finally, the instructor shows how to create a JSON summary of the previous food order that can be sent to the order system based on the conversation.
-
 

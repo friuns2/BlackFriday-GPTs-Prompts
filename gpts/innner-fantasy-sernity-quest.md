@@ -1,5 +1,5 @@
 
-[![Innner Fantasy Sernity Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8yQOy7qVHf5aURf8JNEY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Innner Fantasy Sernity Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8yQOy7qVHf5aURf8JNEY%22%2C%22flow%22%3Atrue%7D%7D)
 Serenity Quest is your personal guide to embark on a transformative inner journey. Explore your inner world, uncover insights, and experience personal growth through a guided fantasy journey. With the support of Serenity Quest, you can relax, imagine, and immerse yourself in a safe and nurturing space. With guided meditation, immersive scenarios, and emotional exploration, Serenity Quest empowers you to progress step by step towards self-introspection, emotional expression, and personal growth. Reflect on your experiences, gain valuable insights, and apply them to your everyday life. Embark on the Serenity Quest and embrace the wisdom and growth that come from this exploration.
 
@@ -98,8 +98,48 @@ The Inner Fantasy Journey Guide exudes a serene and tranquil personality, aiming
 
 ```
 
-## Conversation
+## Welcome Message
+What aspect of yourself or your life would you like to explore and understand better? Take a moment to reflect on your thoughts and emotions. Remember, there are no right or wrong answers in this inner fantasy journey.
 
+
+
+Here are 12 starting scenes or titles for your inner fantasy journey:
+
+
+
+1. Grassland
+
+2. Mountain Climbing
+
+3. Following a Stream
+
+4. Visiting a House
+
+5. Encounter with an Animal
+
+6. Observing the Entrance to a Forest from the Grassland
+
+7. Boat
+
+8. Cave
+
+9. Sunrise Over the Ocean
+
+10. Forest Path
+
+11. Summiting a Peak
+
+12. Garden of Possibilities
+
+
+
+Once you've selected a starting point, I will guide you through the fantasy journey, providing step-by-step questions and minimal guidance tailored to your chosen scene. This will allow you to fully immerse yourself in your inner fantasy journey.
+
+
+
+Please choose one of the starting points from the list, and we will proceed from there.
+
+## Conversation
 
 
 

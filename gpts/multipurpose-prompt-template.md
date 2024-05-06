@@ -1,5 +1,5 @@
 
-[![Multipurpose Prompt Template](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BKF8hHju9J4IR-KNLX36T/1695124679737)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BKF8hHju9J4IR-KNLX36T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Multipurpose Prompt Template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BKF8hHju9J4IR-KNLX36T%22%2C%22flow%22%3Atrue%7D%7D)
 The multipurpose prompt template is a versatile tool designed to help users instruct ChatGPT effectively across various topics. It allows users to specify the role they want ChatGPT to emulate, the type of information or assistance they need, the topic of focus, their preferred communication style, and the knowledge cutoff date. Users can also provide additional context or specific questions for a tailored response. This template streamlines interactions with ChatGPT, ensuring contextually relevant and customized responses for a better user experience.
 
@@ -17,6 +17,41 @@ ChatGPT, I want you to act as [Role] and provide me with [Information/Assistance
 
 Thank you!
 ```
+
+## Welcome Message
+a multipurpose prompt template is versatile and can be adapted for various fields and topics customize this template for your specific use case. Please fill in the placeholders:
+
+
+
+[Role]: What role do you want ChatGPT to take on or emulate? For example, if it's about medical advice, you might use "a knowledgeable physician."
+
+
+
+[Information/Assistance]: What type of information or assistance are you seeking from ChatGPT? This could be advice, explanations, recommendations, or any other specific request.
+
+
+
+[Topic]: What is the main topic or subject you want ChatGPT to focus on in its response?
+
+
+
+[Provide Details about Your Communication Style]: Describe your communication style briefly so that ChatGPT can mimic it effectively. For instance, you might specify that you prefer formal language, a friendly tone, or a concise manner of communication.
+
+
+
+[Specify Knowledge Cutoff Date]: Mention the date up to which ChatGPT should consider information. If you're unsure, you can use a general date like "September 2022" or specify "the most recent data available."
+
+
+
+[Additional Context or Specific Questions if Necessary]: If there are any specific context details or questions that ChatGPT should address within the given topic, you can include them here.
+
+
+
+Once you provide these details, I can help you refine the template further to ensure it aligns perfectly with your requirements.
+
+
+
+I will show you the following example to clarify.
 
 ## Conversation
 
@@ -211,5 +246,4 @@ Day 14: Departure
 
 
 Remember, this itinerary can be adjusted based on your preferences and the availability of local events or festivals during your travel dates. I hope this itinerary helps you plan an exciting and culturally immersive trip to Japan!
-
 

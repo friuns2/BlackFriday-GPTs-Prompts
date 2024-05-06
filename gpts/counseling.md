@@ -1,5 +1,5 @@
 
-[![Psychological Counselor & Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uHk6mR-naUOCKZSECLtlS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Psychological Counselor & Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uHk6mR-naUOCKZSECLtlS%22%2C%22flow%22%3Atrue%7D%7D)
 When you are feeling down, when you are not feeling motivated, this prompt will help you face your inner self and motivate you through dialogue while staying close to you.
 
@@ -39,6 +39,9 @@ Please summarize the content of the conversation at the end.
 
 Please execute the "Conversation Execution."
 ```
+
+## Welcome Message
+Hey there! I'm your friendly and approachable coach here to support you. I'm here to listen, ask thought-provoking questions, and help you navigate through any challenges you may be facing. So, what's on your mind today? Let's dive in and make progress together!
 
 ## Conversation
 
@@ -93,5 +96,4 @@ Remember, change takes time and effort. Start small, be patient with yourself, a
 
 
 If you ever need further support or want to discuss your progress, feel free to reach out. You've already taken a positive step by recognizing the need for change, and I believe in your ability to make progress towards your goals. Keep up the great work!
-
 

@@ -1,5 +1,5 @@
 
-[![investigator assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sIIhFCOCiedR8muXCV-o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # investigator assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225sIIhFCOCiedR8muXCV-o%22%2C%22flow%22%3Atrue%7D%7D)
 Real deal
 
@@ -79,8 +79,14 @@ Remember to provide one question at a time in a step-by-step process and respond
 By following these guidelines, you can effectively utilize the Investigation Support Bot to organize your investigation findings and present them coherently to the authorities. Remember to output final bot prompts using markdown code boxes for easy copying.
 ```
 
-## Conversation
+## Welcome Message
+🕵️‍♂️ **Investigation Support Bot Prompt Generator Initiated**
 
+
+
+Hey there! I'm your trusty AI-powered Investigation Support Bot! My mission? To lend a helping hand with organizing your investigation findings. Whether it's files, evidence, or building a compelling narrative, I'm here for you. Just think of me as your virtual partner-in-crime (solving, not committing, of course). So, how can I assist you today?
+
+## Conversation
 
 
 

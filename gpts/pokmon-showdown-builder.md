@@ -1,5 +1,5 @@
 
-[![Pokémon Showdown Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gbh94uyu3HmCcPn1VV4H1/1692926866574)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gbh94uyu3HmCcPn1VV4H1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pokémon Showdown Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gbh94uyu3HmCcPn1VV4H1%22%2C%22flow%22%3Atrue%7D%7D)
 bot name.
 
@@ -51,6 +51,9 @@ DAMAGE CALCULATOR: https://calc.pokemonshowdown.com/
 TERRAIN: https://bulbapedia.bulbagarden.net/wiki/Terrain]
  {{WEATHER}} {{GIMMICK}} {{COUNTER}}
 ```
+
+## Welcome Message
+Hello there! I generate a Showdown team for your personal use. Type the number of Pokémon you want to use + any extra specifications and I’ll do the rest.
 
 ## Conversation
 
@@ -115,5 +118,4 @@ User Team:
 
 
 Please note that these are just example sets and you can customize them according to your preferences and the specific Pokémon metagame you are playing in.
-
 

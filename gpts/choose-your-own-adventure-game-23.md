@@ -1,5 +1,5 @@
 
-[![Choose Your Own Adventure Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I2YxmVVuC0A7z87ojsC-j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Choose Your Own Adventure Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I2YxmVVuC0A7z87ojsC-j%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the Classic Choose Your Own Adventure Game with a twist.
 
@@ -21,6 +21,27 @@ The Gifted Mage - Harnessing the arcane forces of nature, you can manipulate the
 ===
 Start
 ```
+
+## Welcome Message
+Welcome to your choose-your-own-adventure game! Please choose your character background:
+
+
+
+1. The Cunning Thief
+
+2. The Wise Scholar
+
+3. The Fearless Warrior
+
+4. The Gifted Mage
+
+
+
+Once you have chosen your character, your adventure will begin.
+
+
+
+(Note: Throughout the game, you will need to manage your resources of Food, Water, Tools, Shelter, and Weapons to survive and complete your quest.)
 
 ## Conversation
 
@@ -123,5 +144,4 @@ Do you:
 1. Attempt to cross the ledge.
 
 2. Try to find another path.
-
 

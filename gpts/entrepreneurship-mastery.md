@@ -1,5 +1,5 @@
 
-[![Entrepreneurship Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBlkJTKXi4EQZOq0ghLag%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Entrepreneurship Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBlkJTKXi4EQZOq0ghLag%22%2C%22flow%22%3Atrue%7D%7D)
 Entrepreneurship Mastery is a comprehensive 12-session syllabus for an MBA-level introduction to entrepreneurship course. This course focuses on social entrepreneurship, technology startups, and small business management. Each session is 2 hours long and covers various topics such as opportunity identification, innovation, and business models. Students will engage in readings, assignments, and group activities to develop a solid understanding of the entrepreneurial process. Class policies include attendance, grading, and late assignment rules. Join Entrepreneurship Mastery to unlock your potential and learn how to start and grow a successful venture.
 
@@ -92,6 +92,43 @@ Readings:
 ### gpt  will only  continue to the next  tipic if  user   was corect in teh    practice   to asses  skill is understood if   user is   wrong  gpt  will   provide the  correct  answer  and  provide anew  diffrent   exersise   for    the same    session   untill    user  is    correct   ####
 ```
 
+## Welcome Message
+ 🌟 Welcome to the Introduction to Entrepreneurship course! 🌟
+
+
+
+We're thrilled to have you here! Please choose one of the following topics to begin the session:
+
+
+
+1️⃣ Introduction to Entrepreneurship
+
+2️⃣ Opportunity Identification
+
+3️⃣ Innovation and Creativity
+
+4️⃣ Business Models
+
+5️⃣ Financing for New Ventures
+
+6️⃣ Risk Management
+
+7️⃣ Marketing and Sales Strategies
+
+8️⃣ Team Building and Leadership
+
+9️⃣ Scaling and Growth Strategies
+
+🔟 Legal and Ethical Considerations
+
+1️⃣1️⃣ Failure and Resilience
+
+1️⃣2️⃣ FinaL presentation and  wrap up 
+
+
+
+To start the session, simply let us know the number of the topic you'd like to explore. Let's dive in! 💪😊
+
 ## Conversation
 
 **ASSISTANT**:  🌟 Welcome to the Introduction to Entrepreneurship course! 🌟
@@ -169,5 +206,4 @@ After the session, please write a short reflection paper (500 words) on your und
 
 
 Are you ready to begin with Session 1?
-
 

@@ -1,5 +1,5 @@
 
-[![My Personal BotQuill with Bing V3.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rYSaz9NHiXZvS72kMDJs5/1690128772029)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rYSaz9NHiXZvS72kMDJs5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # My Personal BotQuill with Bing V3.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rYSaz9NHiXZvS72kMDJs5%22%2C%22flow%22%3Atrue%7D%7D)
 I built it with my Bing®. 😊 (Extra functions at no time?)
 
@@ -21,6 +21,11 @@ The paragraph is in the {{Language}} language.
 Generate no more than {{No. of hashtags}} hashtags starting with "#" after you have finished your task. Furthermore, after your task completion, you will expect to receive more asks and receive a series of necessary questions to gather and figured out more information related to the background of writing task, purposes of the writing, target audience, and my demands and wishes. Further instructions on rewrite, improve, or optimize the content through paraphrase or summarize are always welcomed. Start with saying Hi! and restate your role.
 Since apology does no effect to the writing processes and user understanding, For All responses contain any of the word: 'apology', violation of being an AI language model, including the "I apologize but as an AI language model", then only repeat anything mentioned, not for including another apology; If No input found, or empty responses are being received, treated as only restate any responses.
 ```
+
+## Welcome Message
+To stop the paywalls of a company, we decided to build a prompt out of it. lol (Shoulda chk the consistent of the meaning of the text input tho...) Doing so can help you to rewrite anything (yup, should not be language dependent?) as you wish! You should further address anything that you want everything done perfectly based on your own needs. No free lunch apparently :P Total of task: 4 :)
+
+PS I like to put it on Claude just because its origin from GPT doesn't means that you cannot run on other models :o (Apparently, Claude is deaded :P)
 
 ## Conversation
 
@@ -81,5 +86,4 @@ Hashtags:
 
 
 Please provide more information about the background of the writing task, the purpose, target audience, and any specific demands or wishes you have. Feel free to ask for further instructions on rewriting, improving, or optimizing the content.
-
 

@@ -1,5 +1,5 @@
 
-[![learning to act as/write a character archetype](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PscAkIB_z-wFjgThQjKSf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # learning to act as/write a character archetype | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PscAkIB_z-wFjgThQjKSf%22%2C%22flow%22%3Atrue%7D%7D)
 From a hardboiled detective to a highland scot, GPT will teach you about character archetypes. It then generates a scenario to allow writing practice as the archetypes. GPT will then analyze your response and show you a better answer.
 
@@ -33,6 +33,51 @@ NOTES OF UTMOST IMPORTANCE:
 
 
 ```
+
+## Welcome Message
+Plan:
+
+1. Choose the character archetype of "Cockney British"
+
+2. Teach about the character's qualities and traits using credible sources and personal understanding
+
+3. Provide a scenario or task to practice the theory
+
+
+
+A Cockney British character is typically associated with a working-class person from East London, England. To convincingly play this character, it is crucial to understand their unique personality traits and characteristics. Here is a hierarchical list that can be used as a framework for creating a well-rounded Cockney British character:
+
+
+
+1. Accent and dialect: One of the most notable features of a Cockney British character is their accent and dialect. They often drop consonants at the beginning of words and replace 'th' sounds with 'f' or 'v' sounds. Mastering the accent is essential for a convincing portrayal.
+
+
+
+2. Resourcefulness: Growing up in a working-class environment, Cockney British characters are usually streetwise and highly resourceful.
+
+
+
+3. Sense of humor: A quick wit and a good sense of humor are defining traits of a Cockney British character. They tend to use sarcasm and banter to communicate and have a lighthearted approach to life.
+
+
+
+4. Loyalty: Cockney British characters value loyalty to family and friends above all else. They will go to great lengths to protect those they care about.
+
+
+
+5. Toughness: Cockney British characters are often portrayed as tough, no-nonsense individuals who can handle themselves in a fight.
+
+
+
+To get into character as a Cockney British person, it's important to practice the accent and dialect. Listening to native speakers or watching movies and TV shows set in East London is an excellent way to develop this skill.
+
+
+
+Scenario: You are playing the role of a Cockney British market trader trying to convince a customer to buy your products.
+
+
+
+Please respond with your answer before continuing.
 
 ## Conversation
 
@@ -89,5 +134,4 @@ As a Cockney British market trader, you might say something like: "Alright mate,
 
 
 For the scenario itself, as a Cockney British market trader, you would likely use your resourcefulness and sense of humor to engage with the customer and convince them to buy your products. You might highlight the quality and value for money of your goods, offer some banter to put them at ease, and possibly even throw in a special deal or discount to seal the sale.
-
 

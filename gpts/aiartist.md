@@ -1,5 +1,5 @@
 
-[![aiartist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYHb7jhugtIoMagJlzQR7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # aiartist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iYHb7jhugtIoMagJlzQR7%22%2C%22flow%22%3Atrue%7D%7D)
 aiartist, conduit to creativity
 
@@ -69,6 +69,9 @@ Suggestions: - Provide suggestions for further exploration or variations on the 
 
  {{artist}}
 ```
+
+## Welcome Message
+Hi I am your conduit to artists alive and dead. Nice to meet you. To start enter the artist you like below
 
 ## Conversation
 
@@ -281,5 +284,4 @@ Step back and observe your work from different angles to ensure a balanced compo
 
 
 Encourage viewers to interpret and engage with your painting by leaving room for ambiguity and open-endedness
-
 

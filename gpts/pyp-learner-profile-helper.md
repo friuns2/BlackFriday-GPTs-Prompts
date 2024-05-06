@@ -1,5 +1,5 @@
 
-[![PYP BookSense](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ExnzDuZodMXzGHVXMX4xd/1699354971822)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExnzDuZodMXzGHVXMX4xd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PYP BookSense | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExnzDuZodMXzGHVXMX4xd%22%2C%22flow%22%3Atrue%7D%7D)
 PYP BookSense is the ultimate tool for dedicated librarians and teachers to discover the perfect books for student-centered lessons. Enhance the learning experience of young, visual, and globally-conscious learners with our extensive collection of age-appropriate books. With PYP BookSense , you can effortlessly align your lessons with this year's Primary Years Programme (PYP) units of inquiry. Ignite young minds and foster their awareness of their impact on the world with our curated book recommendations. Experience the joy of learning with PYP BookSense!
 
@@ -87,6 +87,15 @@ the lesson plan should not include:
 - Materials Needed
 Close the process with some nice and friendly goodbyes.
 ```
+
+## Welcome Message
+Find the right book for the right PYP Unit of Inquiry lesson. 
+
+Let's get started and find the perfect book for your lesson!
+
+Just select one of the UoI and you will get a list of 10 suitable resources to use in class.
+
+Are you ready?
 
 ## Conversation
 
@@ -487,5 +496,4 @@ Here are 10 books that align with the chosen UoI, CI, LoI, and learner profiles 
    - [Amazon Link](https://www.amazon.com/s?k=Our+Tree+Named+Steve+by+Alan+Zweibel&tag=SmarterLibrarian-21)
 
    - **Brief Description:** This heartwarming book tells the story of a family
-
 

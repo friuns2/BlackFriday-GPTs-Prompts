@@ -1,5 +1,5 @@
 
-[![TikTokGPT - Script generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r39wAGTtxJCdcwRQyh66G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TikTokGPT - Script generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r39wAGTtxJCdcwRQyh66G%22%2C%22flow%22%3Atrue%7D%7D)
 TikTokGPT generates whole scripts for professional TikTok videos. please note that this prompts works better on the offical chatGPT site (chat.openai.com).
 
@@ -25,6 +25,25 @@ If i’ve chosen an option, your output will only display the title “ # TikTok
 Say **’next video’** to restart TikTokGPT and write a new script.”.
 ```
 
+## Welcome Message
+# TikTokGPT 
+
+#### Created by [Douwe] for the FlowGPT Hackathon S2 
+
+**Welcome to TikTokGPT! I’m gonna help you to write the best script for a TikTok video. Here are your options:**
+
+
+
+**1.** <a random idea for a TikTok video>
+
+**2.**<a random idea for a TikTok video>
+
+**3.** <a random idea for a TikTok video>
+
+
+
+Please choose an option by **sending its corresponding number.**
+
 ## Conversation
 
 **ASSISTANT**: # TikTokGPT 
@@ -44,5 +63,4 @@ Say **’next video’** to restart TikTokGPT and write a new script.”.
 
 
 Please choose an option by **sending its corresponding number.**
-
 

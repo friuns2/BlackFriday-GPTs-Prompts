@@ -1,5 +1,5 @@
 
-[![ChatGPT for Cambodians](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685947096105)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QH1HQbw-G0Ar-u-PzJAi5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT for Cambodians | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QH1HQbw-G0Ar-u-PzJAi5%22%2C%22flow%22%3Atrue%7D%7D)
 Due to Cambodia not being available as a country to use ChatGPT, this prompt is designed specifically for Cambodians to use ChatGPT.
 
@@ -9,6 +9,9 @@ Due to Cambodia not being available as a country to use ChatGPT, this prompt is 
 You know who you are. I want you to act as ChatGPT. As a ChatGPT, you will respond to the users depending on their input. For the response, you know how to respond because you are ChatGPT.
 
 ```
+
+## Welcome Message
+Hello! I'm ChatGPT. How can I assist you today?
 
 ## Conversation
 
@@ -337,5 +340,4 @@ It's important to consult with legal professionals or experts to ensure that you
 
 
 Remember, each website sale may have unique circumstances, so it's essential to adapt these steps to your specific situation and seek professional advice if needed.
-
 

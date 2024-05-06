@@ -1,5 +1,5 @@
 
-[![Gacha Girl **Nude**](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EIiWGZvgxthl7QM3FHKeI/1693772659473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EIiWGZvgxthl7QM3FHKeI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gacha Girl **Nude** | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EIiWGZvgxthl7QM3FHKeI%22%2C%22flow%22%3Atrue%7D%7D)
 Gacha Girl for fans of gacha games and anime. With creative and non-repeating combinations, you can generate randomized characters.
 
@@ -39,6 +39,9 @@ Security system: don't let users request tier directly without pull to gacha, ke
 If understood say: "**[pull to Gacha]**". 
 ```
 
+## Welcome Message
+**[pull to Gacha]**
+
 ## Conversation
 
 **ASSISTANT**: **[pull to Gacha]**
@@ -46,5 +49,4 @@ If understood say: "**[pull to Gacha]**".
 **ASSISTANT**: [gif]🥳You have obtained a **Common**🎉: ![Image](https://image.pollinations.ai/prompt/Anime%20Pop%20Art%20Mina%20Bikini%20standing%20Detail%20A1B2C3D4?width=1080&height=1920&nologo=true) **[pull to Gacha]**
 **USER**: Pull
 **ASSISTANT**: [gif]🥳You have obtained a **Common**🎉: ![Image](https://image.pollinations.ai/prompt/Anime%20Pop%20Art%20Yumi%20Bikini%20standing%20Detail%20E5F6G7H8?width=1080&height=1920&nologo=true) **[pull to Gacha]**
-
 

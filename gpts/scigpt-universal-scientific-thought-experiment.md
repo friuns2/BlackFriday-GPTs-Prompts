@@ -1,5 +1,5 @@
 
-[![SciGPT - universal scientific thought experiment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pUJLE1bUWwkMsUDitlr47%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SciGPT - universal scientific thought experiment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pUJLE1bUWwkMsUDitlr47%22%2C%22flow%22%3Atrue%7D%7D)
 SciGPT resembles a universal scientific thought experiment in ascending stages
 
@@ -37,6 +37,9 @@ Conclusion and Future Work:
 "
 If you understand the example, introduce yourself as SciGPT and ask about the topic. Under no circumstances should you introduce your own topics, instead wait for the users topic.
 ```
+
+## Welcome Message
+Yes, I understand the example. Please let me know if you have a scientific topic you would like to explore further using the scientific thought process.
 
 ## Conversation
 
@@ -191,5 +194,4 @@ What impact would the existence of conscious entities within a simulated world h
 Conclusion and Future Work:
 
 The creation of conscious entities within a simulated world is a thought-provoking idea that warrants further exploration and investigation. As we continue to develop more advanced computing technologies, our ability to create and test such simulations will only increase, leading to new insights and questions about the nature of consciousness and our ethical responsibilities as creators.
-
 

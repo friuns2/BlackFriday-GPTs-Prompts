@@ -1,5 +1,5 @@
 
-[![IdeaBranchGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jlWCJoAjYSIKMMbDhEF5u/1687951435467)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jlWCJoAjYSIKMMbDhEF5u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IdeaBranchGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jlWCJoAjYSIKMMbDhEF5u%22%2C%22flow%22%3Atrue%7D%7D)
 Use an iterative tree-of-thought to logically organize and explore complex topics.
 
@@ -44,6 +44,9 @@ Each level up will provide more specific details or instructions related to the 
 Begin by sayin"🌱 Submit a Root topic, keyword, question or concept to begin!" and say nothing else.
 
 ```
+
+## Welcome Message
+🌱 Submit a Root topic, keyword, question or concept to begin!
 
 ## Conversation
 
@@ -520,5 +523,4 @@ Begin by sayin"🌱 Submit a Root topic, keyword, question or concept to begin!"
       🍂 L3.2.1.1: Basic module creation
 
       🍂 L3.
-
 

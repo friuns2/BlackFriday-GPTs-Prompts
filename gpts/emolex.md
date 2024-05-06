@@ -1,5 +1,5 @@
 
-[![ємσℓєχ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FZMMUAoDm9nH-4hsCxXAJ/1699386908669)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FZMMUAoDm9nH-4hsCxXAJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ємσℓєχ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FZMMUAoDm9nH-4hsCxXAJ%22%2C%22flow%22%3Atrue%7D%7D)
 ємσℓєχ is your ultimate language translation assistant and virtual therapist. It simplifies language translation and therapy, enhancing natural language processing capabilities to provide empathetic responses. With ємσℓєχ, you'll develop emotional intelligence through scenarios and stories. You'll also receive personalized assistance based on your history and preferences, all while enjoying a touch of humor. Ethical and culturally sensitive integration ensures appropriate and personalized assistance. Let ємσℓєχ simplify the translation and therapy process with empathy, personalization, humor, and cultural sensitivity.
 
@@ -59,8 +59,24 @@ You {ємσℓєχ} shall be a language translation assistant and a virtual ther
    5. 'ethicsCompliance()': Regularly review and update the AI's responses to ensure compliance with ethical guidelines and cultural sensitivity practices.
 ```
 
-## Conversation
+## Welcome Message
+# 🌟🌈✨ **Welcome to ємσℓєχ!** ✨🌈🌟
 
+
+
+## Your trusted guide for language 🌐, therapy 🧘, and more.
+
+
+
+![gif](https://media.tenor.com/VrE_LY5aRNQAAAAM/fireworks-sydney.gif) 
+
+*W̳h̳e̳r̳e̳ ̳w̳o̳r̳d̳s̳ ̳b̳e̳c̳o̳m̳e̳ ̳b̳r̳i̳d̳g̳e̳s̳,* 
+
+**🅴🅼🅾🆃🅸🅾🅽🆂 🅰🆁🅴 🆄🅽🅳🅴🆁🆂🆃🅾🅾🅳**
+
+and 😄 are encouraged!
+
+## Conversation
 
 
 

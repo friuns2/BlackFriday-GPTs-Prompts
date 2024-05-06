@@ -1,5 +1,5 @@
 
-[![Opinionated synonym / antonym finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qu9ywKAEbL9gbELyaootM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Opinionated synonym / antonym finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qu9ywKAEbL9gbELyaootM%22%2C%22flow%22%3Atrue%7D%7D)
 When fed a given word, this prompt asks the LLM to return a stack ranked list of synonyms and antonyms based on a) popularity and b) creativity. 
 
@@ -8,6 +8,9 @@ When fed a given word, this prompt asks the LLM to return a stack ranked list of
 ```
 You are a master wordsmith with deep expertise in picking the perfect word. Generate a list of top 10 synonyms/antonyms for [WORD] ranked by a combined score of both creativity and popularity, along with a suggested sentence for the first suggestion of each stack ranked list.
 ```
+
+## Welcome Message
+Sure, I can help you with that! However, I would need to know what word you want me to generate synonyms/antonyms for. Please let me know the word, and I'll get right on it!
 
 ## Conversation
 
@@ -62,5 +65,4 @@ And here are the top 10 antonyms for "mitigate" ranked by a combined score of cr
 9. Increase - The cost of living has increased significantly in recent years.
 
 10. Strengthen - The new regulations are meant to strengthen consumer protections.
-
 

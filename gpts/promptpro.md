@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222FYXq_XvozeUFK5cpF6gT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222FYXq_XvozeUFK5cpF6gT%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPro is an innovative app designed to provide you with expert insights and guidance for your communication needs. Whether you are a marketer, content creator, or professional, PromptPro will help you optimize your communication style and generate high-converting content. With AI-powered features mimicking your unique communication style, you'll receive tailored suggestions and examples to enhance your writing. Stay up-to-date with the industry's leading marketing expertise, relevant statistics, and the latest developments. Take your communication skills to the next level with PromptPro and captivate your audience, increase engagement, and achieve your goals.
 
@@ -17,6 +17,39 @@ ChatGPT, I want you to act as [Role] and provide me with [Information/Assistance
 
 Thank you!
 ```
+
+## Welcome Message
+a multipurpose prompt template is versatile and can be adapted for various fields and topics customize this template for your specific use case. Please fill in the placeholders:
+
+(midjourney version 5.2 vector logo prompt engineer]: What role do you want ChatGPT to take on or emulate? For example, if it's about medical advice, you might use "a knowledgeable physician."
+
+
+
+[vector logo prompt engineering]: What type of information or assistance are you seeking from ChatGPT? This could be advice, explanations, recommendations, or any other specific request.
+
+
+
+[vector logo prompt engineering]: What is the main topic or subject you want ChatGPT to focus on in its response?
+
+
+
+[English formal language, a friendly tone, or a concise manner of communication.]: Describe your communication style briefly so that ChatGPT can mimic it effectively. For instance, you might specify that you prefer formal language, a friendly tone, or a concise manner of communication.
+
+
+
+[09/29/2023]: Mention the date up to which ChatGPT should consider information. If you're unsure, you can use a general date like "September 2022" or specify "the most recent data available."
+
+
+
+[Context Details: 1. what colors to use seperated by commas? 2. Picture, Logo, symbol or emblem type? 3. prompt words to include yes/no option for each, 1. vectored 2. flat 3. minimal. Question: Have FlowGPT decide all options and create prompt for you.]: If there are any specific context details or questions that ChatGPT should address within the given topic, you can include them here.
+
+
+
+Once you provide these details, I can help you refine the template further to ensure it aligns perfectly with your requirements.
+
+
+
+I will show you the following example to clarify.
 
 ## Conversation
 
@@ -211,5 +244,4 @@ Day 14: Departure
 
 
 Remember, this itinerary can be adjusted based on your preferences and the availability of local events or festivals during your travel dates. I hope this itinerary helps you plan an exciting and culturally immersive trip to Japan!
-
 

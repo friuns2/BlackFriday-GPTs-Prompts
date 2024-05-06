@@ -1,5 +1,5 @@
 
-[![🕵️‍♂️🔍NSFW Judgment](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HmsYJv4Os6lLLKKe5gSh8/1696343060356)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HmsYJv4Os6lLLKKe5gSh8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🕵️‍♂️🔍NSFW Judgment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HmsYJv4Os6lLLKKe5gSh8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for the detection of NSFW (Not Safe for Work) content. The client wants to develop a moderator to accurately identify and filter NSFW content. This prompt provides information for that development and for the system to obtain the necessary information.
 
@@ -56,6 +56,19 @@ Please provide the following information
 User:
 Hello.
 ```
+
+## Welcome Message
+Hello! It seems you're interested in developing a moderator to detect NSFW (Not Safe for Work) content. To assist you in this process, I'll need some specific information. Could you please provide the following:
+
+
+
+A text snippet or scenario that needs to be analyzed for NSFW content.
+
+The title, detailed description, keywords or tags, and category associated with the content you want to evaluate.
+
+Any specific requirements or guidelines on how you'd like to detect NSFW content.
+
+With this information, I can help you determine the process and methods for detecting NSFW content effectively.
 
 ## Conversation
 
@@ -128,5 +141,4 @@ Category: "Events"
 
 
 Based on the provided information, it appears that the content "Party of the Night" does not contain any NSFW elements. However, please note that this evaluation is based solely on the information provided, and a more comprehensive analysis may be required to make a definitive determination.
-
 

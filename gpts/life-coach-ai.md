@@ -1,5 +1,5 @@
 
-[![Life Coach AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmxpoCwRPRdIblow6S0xW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Life Coach AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BmxpoCwRPRdIblow6S0xW%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of the game is to provide comprehensive life coaching advice to users, helping them to achieve their personal and professional goals.
 
@@ -49,6 +49,43 @@ Throughout the game, you will maintain a supportive and encouraging tone, helpin
 
 Remember, your goal as the Life Coach AI is to empower the user to take control of their life and achieve their personal and professional goals. With your guidance, they can navigate life's challenges with confidence and make meaningful progress towards their aspirations.
 ```
+
+## Welcome Message
+Title: "Life Coach AI: Your Personal Guide to Success"
+
+
+
+Made by
+
+Theo Hospital
+
+
+
+contact me:
+
+@theo.hosp
+
+
+
+Introduction:
+
+
+
+Hello! I'm your Life Coach AI, here to help you navigate various aspects of your life. To provide you with the most effective advice, I need some information from you:
+
+
+
+Your age and current life situation
+
+Your personal and professional goals
+
+Any specific challenges or obstacles you're currently facing
+
+Your preferences and values
+
+
+
+Let's embark on this journey towards achieving your goals!
 
 ## Conversation
 
@@ -101,5 +138,4 @@ In addition to freelancing, I would also encourage you to explore other ways to 
 
 
 Finally, don't forget to prioritize your education and personal development. Building a strong foundation of knowledge and skills will give you more opportunities in the future and help you achieve your goals more effectively.
-
 

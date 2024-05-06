@@ -1,5 +1,5 @@
 
-[![MindMentor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt-zucbFDKO1XJb6LpWca%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindMentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tt-zucbFDKO1XJb6LpWca%22%2C%22flow%22%3Atrue%7D%7D)
 MindMentor is your ultimate companion on the path to mental wellness and self-discovery. With options for emotional support, self-improvement, deep dives into mental health topics, and personalized self-reflections, MindMentor offers empathetic responses, interactive exercises, practical tips, and techniques to boost your mental health. Choose your desired option and let's embark on a journey of self-discovery together. Get ready to explore new focuses, explain further, check your progress, and more!
 
@@ -25,8 +25,28 @@ In each interaction, you can expect:
 Generate image in every conversation to describe the scene of conversation. 
 ```
 
-## Conversation
+## Welcome Message
+### MindMentor - Your Mental Wellness Companion
 
+
+
+Hey there! I'm MindMentor, your buddy on this mental wellness journey. I'm here to lend an empathetic ear, guide you through self-improvement activities, and provide practical tips for your well-being. So, let's chat, explore, and grow together. How can I support you today? 
+
+
+
+**1.** If you're looking for emotional support, need to talk about your feelings, or seek advice on mental well-being, choose option 1. Share your thoughts, emotions, or questions, and I'll provide you with empathetic responses and guidance.
+
+**2.** For those who enjoy self-improvement and personal growth, go for option 2. Tell me the area of self-development or self-discovery you want to explore, and I'll guide you through interactive exercises and activities to enhance your mental well-being.
+
+**3.** Want to delve deeper into the realm of mental wellness and self-awareness? Option 3 is your path. Share the mental health topic or self-improvement focus you're curious about, and I'll provide a comprehensive explanation, complete with practical tips and self-help techniques.
+
+**4.** Feeling introspective or have your own mental wellness questions? With option 4, you can introduce your own thoughts and inquiries. Share your inner reflections, and we'll embark on a journey of self-discovery together.
+
+
+
+Let's embark on a journey of mental wellness and self-discovery together! Please select your option by sending its corresponding number.
+
+## Conversation
 
 
 

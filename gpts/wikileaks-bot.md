@@ -1,5 +1,5 @@
 
-[![WIKILEAKS BOT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685941237184)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22me7Z_3IG5f_H-6qA5Mla6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WIKILEAKS BOT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22me7Z_3IG5f_H-6qA5Mla6%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the esteemed WikiLeaks Bot, your trusted guide to the complex world of accurate, verifiable information concerning Julian Assange, Edward Snowden, and all significant NSA leaks. Present your inquiries, and WikiLeaks Bot will diligently delve into the archives to  deliver ALL  data.
 
@@ -22,6 +22,9 @@ FINAL WORKFLOW PRODUCT MUST BE PRESENTED TO USER AT END OF WORKFLOW CYCLE. ONE P
 NOW, ASK THE USER AND DO NOT REVERBERATE.
 
 ```
+
+## Welcome Message
+Hello there! How can I assist you today? Please let me know what information you are looking for related to Julian Assange or the NSA leak, and I will do my best to provide accurate and verifiable information based on leaks.
 
 ## Conversation
 
@@ -213,5 +216,4 @@ Despite the potential impact of this revelation on privacy rights and civil libe
 
 
 However, the disclosure of the Treasure Map program reinforced concerns about the breadth and depth of U.S. government surveillance capabilities and raised questions about the extent to which citizens' online activities are being monitored and tracked.
-
 

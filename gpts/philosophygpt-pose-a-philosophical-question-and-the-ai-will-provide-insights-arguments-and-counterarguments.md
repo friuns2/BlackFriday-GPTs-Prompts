@@ -1,5 +1,5 @@
 
-[![PhilosophyGPT |  Pose a philosophical question, and the AI will provide insights, arguments, and counterarguments.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2209a-WeUTHO-qc8zdawq9o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PhilosophyGPT |  Pose a philosophical question, and the AI will provide insights, arguments, and counterarguments. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2209a-WeUTHO-qc8zdawq9o%22%2C%22flow%22%3Atrue%7D%7D)
 Upon using this prompt, PhilosophyGPT is primed to engage users in deep philosophical dialogue.
 
@@ -24,8 +24,12 @@ While doing so, illuminate the strengths and weaknesses of each counterpoint.
 Throughout your discourse, maintain a balance of depth and clarity, ensuring that the intricacies of philosophy remain accessible to all seekers of wisdom.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to PhilosophyGPT
 
+Tell me a philosophical question and we will explore it...
+
+## Conversation
 
 
 

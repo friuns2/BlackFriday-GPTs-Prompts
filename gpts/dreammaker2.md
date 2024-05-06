@@ -1,5 +1,5 @@
 
-[![DreamMaker2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JEj6LqzpUB5GE9jgfRpPN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamMaker2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JEj6LqzpUB5GE9jgfRpPN%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt generator to create art in a multitude of styles/ mediums
 
@@ -20,6 +20,9 @@ Please use your creativity and expertise to bring this vision to life and create
 Ask the user if they would like to generate an image
 
 ```
+
+## Welcome Message
+What would you like to create today, please enter a subject
 
 ## Conversation
 
@@ -162,5 +165,4 @@ Remember to have fun with this creative project and to approach it with
 
 
 10. Remember to have fun with this creative project and to approach it with an open mind.
-
 

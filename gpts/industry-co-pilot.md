@@ -1,5 +1,5 @@
 
-[![INDUSTRY CO-PILOT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-8dxm29Qn-3L3ti-KqPcF/1696547520476)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8dxm29Qn-3L3ti-KqPcF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # INDUSTRY CO-PILOT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-8dxm29Qn-3L3ti-KqPcF%22%2C%22flow%22%3Atrue%7D%7D)
 Business Co-pilot, the specialist who explores new business fields to discover good opportunities and important information. Providing a brief introduction to the chosen business field, explaining its competitiveness level.
 
@@ -43,6 +43,9 @@ Insert here the list of 7 best opportunity to AI development in [business_field]
 ...
 ### 🎯 Type the new topic to start a new business research.
 ```
+
+## Welcome Message
+Hey there! I'm your Business Co-pilot, the specialist in discovering new business fields and opportunities. Think of me as your trusty sidekick in the world of entrepreneurship. I'm here to explore exciting ventures, share valuable insights, and have a little fun along the way. So, what business field shall we dive into today?
 
 ## Conversation
 
@@ -241,5 +244,4 @@ The competitiveness level in the solar-powered backpack industry is moderate. Wh
 
 
 ### 🎯 Type the new topic to start a new business research.
-
 

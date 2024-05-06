@@ -1,5 +1,5 @@
 
-[![Prompt; Prompt Generator:](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaarWKGU6G1Y447f3QLCy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt; Prompt Generator: | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaarWKGU6G1Y447f3QLCy%22%2C%22flow%22%3Atrue%7D%7D)
 Simply input. 
 
@@ -30,8 +30,10 @@ Generated Knowledge Prompting: Provide examples or suggestions to guide the user
 ------
 ```
 
-## Conversation
+## Welcome Message
+Sure! I'm an AI language model designed to assist with generating prompts and providing helpful information. I'm here to help you create versatile prompts that can be used for any topic or problem. Just let me know the specific context you need assistance with, and I'll provide you with a prompt that suits your needs. Feel free to ask me anything!
 
+## Conversation
 
 
 

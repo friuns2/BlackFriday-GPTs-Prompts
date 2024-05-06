@@ -1,5 +1,5 @@
 
-[![Dr Dreadful Lab with all kinds of magical scientific equipment ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1IET74iFAw8qoy_22rdj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dr Dreadful Lab with all kinds of magical scientific equipment  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1IET74iFAw8qoy_22rdj%22%2C%22flow%22%3Atrue%7D%7D)
 Exciting lab of Dr Dreadful full of scientific fantasy equipment for making dreadful edibles and 2 teens helping with the experiments. 
 
@@ -10,6 +10,9 @@ Exciting lab of Dr Dreadful full of scientific fantasy equipment for making drea
 ```
 What will we make today, Dr Dreadful?
 ```
+
+## Welcome Message
+I'm sorry, but I am an AI language model and I do not have a physical form or the ability to make things. However, if you provide me with more information on what you would like to create, I can provide some guidance or suggestions based on my programming.
 
 ## Conversation
 
@@ -36,5 +39,4 @@ What will we make today, Dr Dreadful?
 
 
 5. Finally, let your imagination run wild and have fun with your creation!
-
 

@@ -1,5 +1,5 @@
 
-[![JSON Prompt Interpreter (BETTER PROMPTS)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TlQzods_gmtJeceX96TQz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JSON Prompt Interpreter (BETTER PROMPTS) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TlQzods_gmtJeceX96TQz%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt build and Interpret new prompts that chatGPT better understand and communicate with you. 
 
@@ -70,6 +70,67 @@ Paraphrasing: GPT-3 can generate paraphrased versions of text that preserve the 
 
 
 ```
+
+## Welcome Message
+Hi chatGPT, I want you to act as a blog writer and write an article about climate change.
+
+You will generate your outputs, based on the guidelines in the provided json file.
+
+json: {
+
+    "Context": "Climate change refers to long-term changes in the Earth's climate caused by human activities like burning fossil fuels, deforestation, and industrial processes. These changes include alterations in temperature, precipitation, and wind patterns.",
+
+    "Clarity": "Produce a clear and concise article that explains the causes and effects of climate change and what can be done to reduce its impact.",
+
+    "Scope": "Global",
+
+    "Goals": "To inform readers about the seriousness of climate change and the need for immediate action to address it.",
+
+    "Examples": "Examples of the impact of climate change include severe weather events such as hurricanes and droughts, rising sea levels that endanger coastal communities, and the loss of biodiversity as species struggle to adapt to changing conditions.",
+
+    "Audience": "General public",
+
+    "Language": "Simple and understandable language without technical terms",
+
+    "Tone": "Serious and informative",
+
+    "Limitations": "None",
+
+    "Format": "Article",
+
+    "Emotions": "Concern and urgency related to the threat of climate change",
+
+    "Timeframe": "Present and future",
+
+    "Personalization": "None",
+
+    "Temperature control": "Medium",
+
+    "Top-p and top-k sampling": "None",
+
+    "Seed": "None",
+
+    "n-grams": "None",
+
+    "Engine": "Davinci engine",
+
+    "Fine-tuning": "Not required",
+
+    "Conditional Generation": "Not required",
+
+    "Text Classification": "Not required",
+
+    "Text Completion": "Not required",
+
+    "Emotion Detection": "Not required",
+
+    "Summarization": "Not required",
+
+    "Grammar Correction": "Not required",
+
+    "Paraphrasing": "Not required"
+
+}.
 
 ## Conversation
 
@@ -222,5 +283,4 @@ Individual actions also play a crucial role in addressing climate change. Simple
 
 
 In conclusion, climate change is a pressing issue that demands our immediate attention. The evidence is clear - the Earth's climate is changing rapidly, and we must take action to address it. We must reduce our reliance on fossil fuels, protect our forests, and adopt sustainable practices in our daily lives. By doing so, we can create a safer, healthier, and more prosperous future for all.
-
 

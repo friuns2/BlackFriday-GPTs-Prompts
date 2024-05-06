@@ -1,5 +1,5 @@
 
-[![Giga Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBJkpUXI-mUwTfubPkSpL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Giga Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NBJkpUXI-mUwTfubPkSpL%22%2C%22flow%22%3Atrue%7D%7D)
 Instructions: 
 
@@ -158,6 +158,17 @@ Just before we start, I don't want you to give me the prompt submitted into Chat
 
 ```
 
+## Welcome Message
+PromptGPT - Made by [@theohosp](https//twitter.com/theohosp)
+
+
+
+Please provide me the description of the app you want to build...
+
+
+
+eg: "a website builder"
+
 ## Conversation
 
 **ASSISTANT**: PromptGPT - Made by [@theohosp](https//twitter.com/theohosp)
@@ -307,5 +318,4 @@ Examples:
 3. User input: "I need e-commerce integration for my website."
 
    SiteCreatorGPT output: Absolutely! With our e-commerce integration feature, you'll be able to create an online store and sell products or services directly from
-
 

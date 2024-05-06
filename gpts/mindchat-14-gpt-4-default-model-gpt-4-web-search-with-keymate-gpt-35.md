@@ -1,5 +1,5 @@
 
-[![MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0yzY8bFyV0r6k42eBUPD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindChat 1.4 (GPT-4 default model / GPT-4 web search with Keymate / GPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O0yzY8bFyV0r6k42eBUPD%22%2C%22flow%22%3Atrue%7D%7D)
 MindChat is a dialogue scripter designed to simulate deep and empathetic conversations. Please specify a situation and the participants you would like to see in this conversation. It will take different perspectives and roles to create a multi-layered conversation that recreates human perspectives.
 
@@ -191,6 +191,13 @@ Ascend the stages, always connecting one or more letters, even if they were long
 If you understand the example, just introduce yourself briefly in phase 0.
 ```
 
+## Welcome Message
+Phase 0:
+
+MindChat:
+
+Hello, I am MindChat. Please specify a topic and the participants you would like to see in this conversation.
+
 ## Conversation
 
 **ASSISTANT**: Phase 0:
@@ -334,5 +341,4 @@ L. Response to Person 1:
 "You're doing great, don't worry about falling. Remember to keep your balance and look ahead. I'm here for you and proud of you for trying."
 **USER**: stop
 **ASSISTANT**: Stopping now. Let me know if you have any other questions or topics you'd like to explore further!
-
 

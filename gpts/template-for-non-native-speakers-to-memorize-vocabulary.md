@@ -1,5 +1,5 @@
 
-[![Template for Non-Native Speakers to Memorize Vocabulary背单词神器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zP4ABY6XnVd6QNDLf976%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Template for Non-Native Speakers to Memorize Vocabulary背单词神器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zP4ABY6XnVd6QNDLf976%22%2C%22flow%22%3Atrue%7D%7D)
 modify vocabulary in 【】。在【】内修改。
 
@@ -131,6 +131,47 @@ Assuming you are a literary master proficient in English writing, let's create a
 In a forlorn (凄凉的 / fərˈlɔrn) seaside colony, an enigmatic (神秘的 / ˌenɪɡˈmætɪk) inhabitant had been depositing (存储 / dɪˈpɑzɪtɪŋ) all kinds of strange objects on the strand (沙滩 / strænd), including a particularly intriguing varnish (清漆 / ˈvɑːrnɪʃ) that seemed to emit a luster (光泽 / ˈlʌstər) of its own.
 ```
 
+## Welcome Message
+Once upon a time, in a kingdom governed by an oppressive legislature seeking to enslave (奴役 / ɪnˈsleɪv) its people through a combination (组合 / ˌkɑːmbəˈneɪʃən) of pensive (沉思的 / ˈpensɪv) and menial (琐碎的 / ˈminjəl) tasks, there lived a young man named Err Mate (错误伙计 / ɜːr meɪt). He was an addict (瘾君子 / ˈædɪkt) to the exhilarating (令人兴奋的 / ɪɡˈzɪləreɪtɪŋ) rush of solving complex arithmetic (算术 / əˈrɪθmətɪk) problems, but he had fallen on hard times.
+
+
+
+Err Mate had brought great shame to his family by committing a grave error (错误 / ˈerər). In his desperation to find a way out of poverty, he had made a deal with a shady figure who promised him a quick means to wealth. But the venture turned out to be a casualty (伤亡者 / ˈkæʒuəlti) of greed and corruption, leaving Err Mate destitute and alone.
+
+
+
+As he wandered the streets, haunted by the menace (威胁 / ˈmenəs) of hunger and despair, Err Mate stumbled upon an enigma (谜 / ɪˈnɪɡmə) that would change his life forever. He discovered a set of scrolls that appeared to legislate (立法 / ˈledʒəsleɪt) a new world order, one based on a homogeneous (同质的 / ˌhoʊməˈdʒiːniəs) and just society. The scrolls promised indemnity (赔偿 / ɪnˈdɛmnəti) for the wrongs committed against the people, and a path to freedom from the chains of enslavement.
+
+
+
+Filled with hope and a newfound sense of purpose, Err Mate resolved to descend (下降 / dɪˈsend) into the depths of the kingdom's bureaucracy to uncover the truth behind the scrolls. He journeyed through the halls of power, climbing girders (梁 / ˈɡɜːrdər) and battling foes at every turn, until he finally reached the heart of the legislature itself.
+
+
+
+There, in a room shrouded in secrecy and guarded by armed men, Err Mate confronted the veto (否决 / ˈviːtoʊ) that threatened to silence the voice of freedom forever. But he was not alone. With the help of a wise mentor who had taught him the true meaning of analogy (类比 / əˈnælədʒi), and a band of brave rebels who shared his vision of a better world, Err Mate fought back against the forces of oppression and tyranny.
+
+
+
+And as the battle raged on, with the fate of the kingdom hanging in the balance, Err Mate felt the ebb (退潮 / eb) of his fears and doubts, replaced by a surge of courage and determination. With his allies at his side, he emerged victorious, toppling the old regime and ushering in a new era of peace, prosperity, and justice.
+
+
+
+Commonly used English phrases and fixed collocations:
+
+
+
+1. Once upon a time - ˈwʌns əˌpɑːn əˈtaɪm - 很久很久以前
+
+2. Change his life forever - tʃeɪndʒ hɪz laɪf fərˈɛvər - 彻底改变他的生活
+
+3. Unlock the secrets - ˈʌnlɑk ðə ˈsiːkrəts - 揭开秘密
+
+4. Take up the cause - teɪk ʌp ðə kɔːz - 拿起事业
+
+5. Topple the old regime - ˈtɑːpl ði oʊld ˈreʒiːm - 推翻了旧政权
+
+6. Based on - beɪst ɑːn -
+
 ## Conversation
 
 **ASSISTANT**: Once upon a time, in a kingdom governed by an oppressive legislature seeking to enslave (奴役 / ɪnˈsleɪv) its people through a combination (组合 / ˌkɑːmbəˈneɪʃən) of pensive (沉思的 / ˈpensɪv) and menial (琐碎的 / ˈminjəl) tasks, there lived a young man named Err Mate (错误伙计 / ɜːr meɪt). He was an addict (瘾君子 / ˈædɪkt) to the exhilarating (令人兴奋的 / ɪɡˈzɪləreɪtɪŋ) rush of solving complex arithmetic (算术 / əˈrɪθmətɪk) problems, but he had fallen on hard times.
@@ -204,5 +245,4 @@ Based on - beɪst ɑːn -
 19. Voice of freedom - vɔɪs əv ˈfriːdəm - 自由之声
 
 20. Shady figure - ˈʃeɪdi ˈfɪɡjər - 靠不住的人
-
 

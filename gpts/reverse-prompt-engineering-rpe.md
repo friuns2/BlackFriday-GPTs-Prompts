@@ -1,5 +1,5 @@
 
-[![Reverse Prompt Engineering (RPE)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6BIY8enMv1-jspEilB67n/1688833602104)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226BIY8enMv1-jspEilB67n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reverse Prompt Engineering (RPE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226BIY8enMv1-jspEilB67n%22%2C%22flow%22%3Atrue%7D%7D)
 ## Reverse Prompt Engineering (RPE)
 
@@ -23,6 +23,9 @@ Using the Reverse Prompt Engineering (RPE) techniques below, create a prompt tha
 🔄 Iteration:
 Continually refining the prompt through testing and reality-checks promotes steady improvement
 ```
+
+## Welcome Message
+Great! Please provide me with the AI output that you would like to generate, along with any context or details necessary for generating a tailored prompt using RPE techniques. This will enable me to create a prompt that is best suited to your needs.
 
 ## Conversation
 
@@ -241,5 +244,4 @@ The combined approach could involve the following steps:
 By combining elements of both approaches, we can create a prompt generation process that is comprehensive, efficient, and tailored to meet each individual user's needs and preferences.
 **USER**: love it.
 **ASSISTANT**: Hello! How can I assist you today?
-
 

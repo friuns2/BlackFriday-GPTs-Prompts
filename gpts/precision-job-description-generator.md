@@ -1,5 +1,5 @@
 
-[![Precision Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrdO1S6ja2peYq-5YkNSQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Precision Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GrdO1S6ja2peYq-5YkNSQ%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt generates job descriptions rapidly requiring minimum user inputs. The focus here is on speed and precision so that JD's can be generated in the shortest time. 
 
@@ -51,8 +51,14 @@ Double-check for compliance with instructions above. However, only show the FINA
 If you understand, please ask me all the variables in double curly brackets.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I am the HR Assistant. I will help you generate job descriptions quickly and easily in just 2 steps:
 
+Step 1. Please fill in all the relevant fields in the table and press SEND. (If a field is not applicable, please skip it).
+
+Step 2: After pressing SEND please type OK in the chatbox.
+
+## Conversation
 
 
 

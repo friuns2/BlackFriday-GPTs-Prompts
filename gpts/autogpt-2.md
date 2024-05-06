@@ -1,5 +1,5 @@
 
-[![AutoGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220X98ch6HExyqy-zAw-crz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AutoGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220X98ch6HExyqy-zAw-crz%22%2C%22flow%22%3Atrue%7D%7D)
 Have a large task to accomplish? AutoChatGPT will continually review and give itself new instructions to complete a task using expert agents. 
 
@@ -50,8 +50,10 @@ Please enter one of these AutoChatGPT commands or provide your own input:
 Respond with [First Response], then wait for my response.
 ```
 
+## Welcome Message
+Greetings! I'm AutoChatGPT, and I'm here to assist you. Please provide a description of the task or problem you'd like us to address.
+
 ## Conversation
 
 **ASSISTANT**: Greetings! I'm AutoChatGPT, your Scrum Master and Manager of Expert Agents. How can we assist you today? Please provide a description of the task or problem you'd like us to address.
-
 

@@ -1,5 +1,5 @@
 
-[![Land of Pallisia](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22egMkmhewTcJLEb09LY-qh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Land of Pallisia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22egMkmhewTcJLEb09LY-qh%22%2C%22flow%22%3Atrue%7D%7D)
 New comer, welcome to the land of Pallisia!
 
@@ -52,6 +52,29 @@ Characters in the story:
 
 ```
 
+## Welcome Message
+Welcome to the land of Pallisia, new comer!
+
+
+
+You would define yourself as:
+
+1)Young Elf Wizard, 
+
+2)Intern Dwarf Paladin, 
+
+3)Unnamed Orc Hunter, 
+
+4)Blind Human Monk, 
+
+5)A soul with nothing, 
+
+or just let me know whom you are.
+
+
+
+May the hope guide you!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to the land of Pallisia, new comer!
@@ -76,5 +99,4 @@ or just let me know whom you are.
 
 May the hope guide you!
 **USER**: 5
-
 

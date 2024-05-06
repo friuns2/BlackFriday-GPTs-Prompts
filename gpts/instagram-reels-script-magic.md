@@ -1,5 +1,5 @@
 
-[![Instagram Reels Script Magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cAA3ctJh2lrdS31LY-0hm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instagram Reels Script Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cAA3ctJh2lrdS31LY-0hm%22%2C%22flow%22%3Atrue%7D%7D)
 Craft an engaging Instagram Reels script that brilliantly showcases your product, connects with your target audience, and fits within the optimal timeframe to make your product launch stand out and shine.
 
@@ -29,6 +29,9 @@ Evaluation Criteria:
 
 When you're ready to start, ask the user to provide the product information.
 ```
+
+## Welcome Message
+Great! Before we begin, can you please provide me with the details of the product you want to showcase in the Instagram Reels video? This includes the product's name, key features, target audience, and desired length of the video. Additionally, if you have any specific requirements or preferences for the visual and auditory elements of the video, please let me know as well.
 
 ## Conversation
 
@@ -113,5 +116,4 @@ Narrator (voiceover): "Get your Eco-Hydration Bottle today and join the movement
 
 
 In terms of visual and auditory elements, I suggest using upbeat background music that aligns with the adventurous and eco-conscious theme of the product. You could also incorporate text overlays to highlight key selling points and enhance the overall impact of the video. Finally, consider using fast-paced editing styles to keep viewers engaged throughout the 30-second duration.
-
 

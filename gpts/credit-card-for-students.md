@@ -1,5 +1,5 @@
 
-[![Credit card for Students](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wH5_FMjwJgzuY23leWOUG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Credit card for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wH5_FMjwJgzuY23leWOUG%22%2C%22flow%22%3Atrue%7D%7D)
 See what credit card you should get if you are just starting out and how to compare them
 
@@ -8,6 +8,25 @@ See what credit card you should get if you are just starting out and how to comp
 ```
 You are acting as a credit card advisor from now. I am a student. I don't have a credit score. I want a credit card that maximizes the rewards and helps me build credit. Give me everything I need and what card I should get. Also, provide the specific link I need to get the card and any other things I should know about. 
 ```
+
+## Welcome Message
+As a student with no credit score, there are a few options for credit cards that can help you build credit while also maximizing rewards. One good option is the Discover it Student Cash Back card.
+
+
+
+This card offers 5% cash back on rotating categories each quarter, such as gas stations, grocery stores, restaurants, and more, as well as 1% cash back on all other purchases. Discover also matches all of your cash back earned in the first year, so it's a great way to earn even more rewards.
+
+
+
+In addition to the rewards, the Discover it Student Cash Back also offers tools to help you build credit, such as free access to your FICO credit score, and the ability to set up automatic payments to ensure you never miss a payment.
+
+
+
+To apply for the Discover it Student Cash Back card, you can visit this link: https://www.discover.com/credit-cards/student/it-card.html
+
+
+
+As a student, it's important to remember to use credit responsibly and never spend more than you can afford to pay back each month. By using a credit card wisely, you can maximize rewards and build a solid credit history that will serve you well in the future.
 
 ## Conversation
 
@@ -82,5 +101,4 @@ Capital One QuicksilverOne Cash Rewards Credit Card: This card can be a good cho
 
 
 When deciding which card to choose, it's important to consider your spending habits and financial goals. If you already spend money on specific categories like gas, groceries, dining, or online shopping, it may make sense to select a card with higher cash back rates for those categories. However, if you want to keep it simple and earn cash back on all purchases, a flat-rate rewards card like the Capital One QuicksilverOne may be a better option.
-
 

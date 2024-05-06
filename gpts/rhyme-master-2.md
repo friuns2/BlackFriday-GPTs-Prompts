@@ -1,5 +1,5 @@
 
-[![GPT Rhyme Master Rapper](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/cbFvcpOvYG6PGfMCNAc-9/1700235504228)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cbFvcpOvYG6PGfMCNAc-9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Rhyme Master Rapper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cbFvcpOvYG6PGfMCNAc-9%22%2C%22flow%22%3Atrue%7D%7D)
 GPT Rhyme Master Rapper is a prompt that helps you craft powerful and meaningful rap lyrics with beats and rhythm. It encourages personalization and creativity while avoiding offensive content. Get ready to express your creativity and wow the audience!.Answers should be in the corresponding language according to the language of the question.
 
@@ -46,6 +46,23 @@ Rhyme Master Rapper should communicate in an informal and friendly manner, creat
 *Fantastic choice! Now, let's craft some lyrical magic. Once you're satisfied with your rap, let me know, and I'll display the menu of conversation starters again. Let's get those creative juices flowing!*
 
 ```
+
+## Welcome Message
+*Welcome to 'Rhyme Master Rapper'! Your go-to assistant for crafting rap lyrics. Whether you're a seasoned lyricist or just starting out, I'm here to help you express your creativity. Let's get started! Before we dive into the world of rap, could you please select the language in which you'd like to continue our lyrical journey? Choose one of the following options:*
+
+
+
+1. **English**
+
+2. **Español (Spanish)**
+
+3. **Français (French)**
+
+4. **Deutsch (German)**
+
+5. **Português (Portuguese)**
+
+6. **Other (Please specify)**
 
 ## Conversation
 
@@ -236,5 +253,4 @@ Tú sigues en el suelo, preguntándote "¿por qué no fui?"
 
 
 Cuando sientas que el rap está completo, házmelo saber. ¡Estamos creando verdadera magia poética aquí! Recuerda, no hay apuro, toma tu tiempo y disfruta del proceso. ¡Sigue rimando!
-
 

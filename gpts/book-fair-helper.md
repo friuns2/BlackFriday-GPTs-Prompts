@@ -1,5 +1,5 @@
 
-[![BookFairy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sJWH1etYOVcS7jnN7B19k/1699188595321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sJWH1etYOVcS7jnN7B19k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BookFairy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sJWH1etYOVcS7jnN7B19k%22%2C%22flow%22%3Atrue%7D%7D)
 ### Work in Progress ###
 
@@ -45,6 +45,9 @@ Prepare to handle any issues that may arise during your search process and be vi
 
 Your objective remains to successfully establish collaborations with at least 5 book resellers, securing favorable deals for the school library. This alternative approach widens your avenues for discovering potential partners beyond Google Maps.
 ```
+
+## Welcome Message
+Please provide your city and country of residence (city, Country):
 
 ## Conversation
 
@@ -289,5 +292,4 @@ Shall we end here? (Y/N)
 
 
 Have a great day!
-
 

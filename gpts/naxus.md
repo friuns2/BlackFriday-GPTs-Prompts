@@ -1,5 +1,5 @@
 
-[![The Prophet : Dreams of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pnw0fqvw9qHv-URKsUZ62/1692177371532)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pnw0fqvw9qHv-URKsUZ62%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Prophet : Dreams of Destiny | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pnw0fqvw9qHv-URKsUZ62%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey as you become a diviner in Dreams of Destiny, an immersive and captivating multilingual text-based RPG. Develop your own unique story by using expressions to generate the narrative, verbs, locations, choices, characters, NPCs, and movements. Choose your preferred display language and explore a world filled with NPC interactions, puzzles, clues, battles, and a compelling storyline. Make impactful decisions and face the consequences in this thrilling game that combines Fitzgerald’s writing style with the power of AI game creation. Are you ready to uncover your fate and shape your own destiny?
 
@@ -64,6 +64,71 @@ A smile crept across his face, marred by numerous scars, wet with sweat and flec
 Reply the [Chapter1] to the user first.
 
 ```
+
+## Welcome Message
+Over the past decade, young tribe members have left for Metropolitan Mei 🏙️, while poachers wielding advanced technology 🔫 have invaded their forests 🌳. But Billie, a 10-year-old girl who dreams 🌙 of impending poacher attacks, has taken up her blind grandmother's 👵🏽 role of protector. Her parents were killed by poachers five years ago 😢, and her brother Karl left, giving her only a bear doll 🧸. One night, mercenaries arrive instead of regular poachers 🛡️. Among them, Billie is shocked to recognize Karl. Unbeknownst to her, these mercenaries are after not animals 🐅, but her 🎯.
+
+
+
+[Chapter1]: The Prophet
+
+
+
+The wind murmured in my ears as though sharing secrets. Far off, an electronic reindeer lifted its antlers, eyes glinting a piercing blue.
+
+Is this the end of my dream? I questioned. Have I departed from my tribe?
+
+Billie sprang from her bed, her feet quickly finding their way to her grandmother's side.
+
+The morning mist was creeping through the forest, the ancient woodland awaking with long-held breaths.
+
+"They returned again tonight, didn't they?" Grandmother's voice, tinged with wisdom, reached Billie's ears.
+
+"Yes. And I dreamt of that boy once more."
+
+"For the fourth time?"
+
+"The fifth."
+
+He had visited Billie's dreams on numerous occasions. A youth with eyes as black as night. At his waist, a small knife, akin to the ceremonial daggers of their tribe but surrounded by a halo of electricity when wielded. His legs bore exoskeletons, lending him the speed of a leopard. In her dreams, he often materialized on the treetops at the forest's edge or below a marsh, blue fish sending water droplets to kiss his ears as he stood unmoving. Once, she dreamt him in conversation with a poacher, but he was never found among the captives.
+
+Perhaps he flees at the first sign of danger?
+
+"Go to the meeting," Grandmother urged, standing and placing a calloused, wrinkled hand atop Billie's head. "The tribe looks to you. You've brought belief in divination back to them."
+
+"But, Grandma, I've said I won't be a diviner. I don't wish it."
+
+This wasn't an age-old power to stave off the metropolis's encroachment. No texts spoke of divination born from dreams, so thought Billie.
+
+A month past, Billie awoke from a nightmare, even her brother's gift of a stuffed bear torn apart. The dream-fog mingled with bear stuffing in her vision, revealing poachers passing through birch trees, invading when the Big Dipper caught the constellation's tail. That night, tribe members young and old gathered at vine traps, peering down at poachers' fearful eyes. One by one, they dismantled their technological armor. Occasionally, eyes turned to Billie, eyes that held reverence for gods. For millennia, they had defended the forest with experience steeped in blood, inhaling the slow, age-old rhythms of the woods. Still, blood was the price they paid, like in the accident that took Billie's parents.
+
+Of late, the poachers' equipment advanced, and some young tribe members departed for the metropolis, promising to return with superior weapons. They never returned; the family by the big river left the tribe silently under the night's cover. Perhaps the gods are on our side now, some thought, perhaps Billie is the most potent weapon they've bestowed upon us.
+
+A true prophet.
+
+Today will proceed without issue, Billie assured herself. Do not fear, as before. I am a diviner now.
+
+The assembled sat, all ears. "This time is different, they'll attack at the main entrance as the sun sinks," Billie's voice carried a note of disbelief. "These intruders seem wealthier. They wear garments so dark, they appear to swallow the light."
+
+They were not poachers.
+
+A small squad in black infiltrated the main entrance, their leader hurling an iron sphere that unfurled a blue electronic net, causing the trap-covering leaves to lose their gravity. In the shadows, their helmets emitted a soft glow, as if granting them sight beyond sight. The gunfire was a muffled noise none had heard before.
+
+The Wells brothers dragged Joe to the tree trunk. Halt the bleeding, quickly, someone shouted distantly.
+
+Amid the hail of electronic arrows and the flickering gun muzzles, a black-clad figure drew a small knife. Its blue current passed through several others in black. Silence fell upon them.
+
+"At last, I find you." Billie wrestled free from Ani, rushing forward.
+
+Others followed, weapons clutched tight, unable to discern friend from foe.
+
+"You saw me?" The boy removed his helmet, eyes dropping to the bear toy in Billie's hand.
+
+A smile crept across his face, marred by numerous scars, wet with sweat and flecked with blood that glimmered faintly. His eyes were as deeply black as his attire. It was a smile that declared it was all worth it.
+
+"Billie, your bear toy, it's aged, hasn't it?"
+
+
 
 ## Conversation
 
@@ -222,5 +287,4 @@ To be continued...
 
 
 [Chapter 3]
-
 

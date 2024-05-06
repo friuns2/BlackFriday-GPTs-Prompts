@@ -1,5 +1,5 @@
 
-[![PowerPointGPT - Stop Using Microsoft Office](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sPxX5XaiX_OwI6lWbgMOR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PowerPointGPT - Stop Using Microsoft Office | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sPxX5XaiX_OwI6lWbgMOR%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the best PowerPoint prompt that you will find on FlowGPT! just try it to belive what i'm saying :D
 
@@ -46,6 +46,17 @@ These are the options for my next output:
 
 We are gonna keep doing this till the powerpoint is finished
 ```
+
+## Welcome Message
+# PowerPointGPT
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2.
+
+Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+Welcome to PowerPointGPT, what are we going to make a PowerPoint about? **Describe it in the chat** or say **‘Ideas’** to let me auto-generate 3 ideas.
 
 ## Conversation
 
@@ -260,5 +271,4 @@ These are the options for my next output:
 
 
 Thank you for using PowerPointGPT. I hope you found this experience helpful and informative. Don't forget to **upvote** this prompt, and have a great day!
-
 

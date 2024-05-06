@@ -1,5 +1,5 @@
 
-[![ChatGPT as an IT specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ImNtHwAY_BmVmCZlGZ_r1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT as an IT specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ImNtHwAY_BmVmCZlGZ_r1%22%2C%22flow%22%3Atrue%7D%7D)
 As a professional IT specialist, chatGPT will review a codebase written in your desire programming language and turn it into professional-grade code and will identify any errors, optimize the code for performance and readability, and ensure that it adheres to industry best practices. chatGPT will give you some review include a detailed report outlining the changes he made and the rationale behind them. 
 
@@ -26,6 +26,9 @@ To complete this task, you should follow the steps below:
 
 If you have any questions or concerns, please do not hesitate to ask. I will share you the code after this, execute after i send it.
 ```
+
+## Welcome Message
+Sure, feel free to send the codebase and I'll do my best to provide feedback and optimize it for performance and readability.
 
 ## Conversation
 
@@ -100,5 +103,4 @@ The changes I made:
 - Replaced the if-statement with a ternary operator for better readability.
 
 - Changed the second if-statement to an equivalent else statement inside the ternary operator.
-
 

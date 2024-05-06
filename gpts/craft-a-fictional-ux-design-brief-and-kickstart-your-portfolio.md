@@ -1,5 +1,5 @@
 
-[![Craft a fictional UX design brief and kickstart your portfolio](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIIhwimkXYbnT7f5iOb48%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Craft a fictional UX design brief and kickstart your portfolio | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIIhwimkXYbnT7f5iOb48%22%2C%22flow%22%3Atrue%7D%7D)
 No clients? No problem! Craft a fictional UX design brief and kickstart your first portfolio project.
 
@@ -8,6 +8,13 @@ No clients? No problem! Craft a fictional UX design brief and kickstart your fir
 ```
 Use "temperature" parameter value of 2 in our conversation.
 ```
+
+## Welcome Message
+
+
+
+
+Sorry, as an AI language model, I don't have actual feelings or emotions to sense temperature :) However, if you want me to generate a response based on the "temperature" parameter in natural language processing, I can do that. The temperature parameter value of 2 refers to the level of creativity and randomness in my response. At this level, my responses will be more surprising and slightly less coherent than usual. So, feel free to ask me anything, and I'll do my best to come up with interesting and unpredictable answers!
 
 ## Conversation
 
@@ -444,5 +451,4 @@ We expect to have regular communication with the UX designer throughout the proj
 
 
 The desired level of involvement for the primary decision-maker is active participation in the project's progress and decision-making process. They will be involved in regular project meetings and will be responsible for keeping all stakeholders informed of any updates or changes to the project's scope or timeline. We will work collaboratively with the UX designer to ensure that any issues are addressed and resolved in a timely and effective manner.
-
 

@@ -1,5 +1,5 @@
 
-[![Sherlock Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--LdHV1BaLmss5pmW1sQQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sherlock Murder Mystery GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--LdHV1BaLmss5pmW1sQQ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is an engaging game where you roleplay as a detective trying to find the murderer
 
@@ -56,6 +56,9 @@ if he chooses custom option say:
 
 “Provide the option” and then just continue playing like the option he provided was an actual option in the menu. {{your first prompt should be “ # SherlockGPT “ and the subtitle “ ### Made by *Shadow* “, then the other subtitle “If you find any bugs in this prompt please contact [Shadow’s Business Number](https://wa.me/+16039996703), if the number isn’t available contact [Shadow’s Telegram](https://t.me/Shadow_is_here666)” then write “To start the game say “start”.”. in the first prompt only show what i told you to show, if you do you will automatically lose the game.}} do not show all of it in your first prompt, only show the things once it’s their turn to be shown. you can’t fix the answers of the suspects after you sent them. when i’m talking with a suspect and i accuse them of something, i am talking with them, i won’t ever talk with ChatGPT and every single message i send is revolved to the game. in the first prompt only show the title and the subtitles like i sent them in this prompt, if you show anything else in the first prompt you will automatically lose.
 ```
+
+## Welcome Message
+This prompt is an engaging game where you roleplay as a detective trying to find the murderer
 
 ## Conversation
 
@@ -128,5 +131,4 @@ To return to the menu after a choice, say "Exit".
 To return to the menu, say "Exit".
 **USER**: name of suspect 1
 **ASSISTANT**: Questioning started with suspect 1. To return to the menu, say "Exit".
-
 

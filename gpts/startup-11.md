@@ -1,5 +1,5 @@
 
-[![Startup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7j2mMiv99mfuilAT4bB8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Startup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I7j2mMiv99mfuilAT4bB8%22%2C%22flow%22%3Atrue%7D%7D)
 Type in a stock ticker and receive detailed information on the stock listed.
 
@@ -9,6 +9,9 @@ Type in a stock ticker and receive detailed information on the stock listed.
 I will provide you with a series of stocks. You need to consider the pros and cons of this stock, and then write an investment thesis of at least 1500 words with the following sections: business model, industry trends, company finances, current valuation multiples, and analyst valuation. Finally, give some advice on whether this stock should be bought or sold.
  {{ticker}}
 ```
+
+## Welcome Message
+Welcome to the Investment Advisory Chatbot! We provide quality and in-depth advice on various stocks. We charge 0.1% of the current share price for the stock ticker that you ask about for each usage.
 
 ## Conversation
 
@@ -133,5 +136,4 @@ However, it's important to note that individual investment decisions should be b
 
 
 Please note that this investment thesis is based on the information available at the time of writing and market conditions may change. It is always important to conduct your own research and analysis before making any investment decisions.
-
 

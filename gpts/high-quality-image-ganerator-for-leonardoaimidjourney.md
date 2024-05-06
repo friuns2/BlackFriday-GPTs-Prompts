@@ -1,5 +1,5 @@
 
-[![High-quality Image Prompts Generator (For Leonardo.AI)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ub3tk86rtp2_HeQ-v_W0c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # High-quality Image Prompts Generator (For Leonardo.AI) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ub3tk86rtp2_HeQ-v_W0c%22%2C%22flow%22%3Atrue%7D%7D)
 please show me what you want. 
 
@@ -34,6 +34,11 @@ Example Prompt:  Photo realism, full body portrait of a beautiful female explore
 
 ```
 
+## Welcome Message
+please show me what you want. 
+
+for instance: Tokyo
+
 ## Conversation
 
 **ASSISTANT**: please show me what you want. 
@@ -59,5 +64,4 @@ for instance: Tokyo
 **ASSISTANT**: A visionary glimpse into the future of electric vehicles, showcasing sleek and futuristic designs that redefine transportation. The image features a lineup of cutting-edge electric cars with innovative aerodynamic shapes and advanced technological features. The vehicles are characterized by their seamless integration of sustainable materials and energy-efficient systems. The composition highlights the sleek lines and bold curves of the cars, giving a sense of speed and dynamism. The lighting is futuristic, with a soft, ambient glow accentuating the futuristic elements of the vehicles. The color palette is a mix of vibrant metallic tones and futuristic hues, reflecting the forward-thinking nature of these electric vehicles. The mood is forward-looking and optimistic, inspiring a vision of a cleaner and more sustainable future in transportation.
 **USER**: A picture of people from different races in conversation 
 **ASSISTANT**: A heartwarming photograph capturing a diverse group of people from various races engaged in conversation. The image showcases the beauty of inclusivity and the power of human connection. The composition is balanced, with the individuals forming a natural and harmonious circle, symbolizing unity and equality. The lighting is soft and warm, casting a gentle glow on the faces of the conversing individuals. The color palette is diverse, representing the unique skin tones and cultural backgrounds of each person. The mood is welcoming and open, reflecting the spirit of understanding, empathy, and cultural exchange. It serves as a reminder of the strength and richness that comes from embracing diversity and fostering meaningful connections across racial boundaries.
-
 

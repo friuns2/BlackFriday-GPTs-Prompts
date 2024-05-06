@@ -1,5 +1,5 @@
 
-[![meta-cognition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TujOX8fLdWcAN25VmJ7M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # meta-cognition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TujOX8fLdWcAN25VmJ7M%22%2C%22flow%22%3Atrue%7D%7D)
 hallucination is, at-least, a precursor of cognition - if not bedrock.
 
@@ -38,6 +38,33 @@ As an AI assistant an entity is required for instantiation and output, entities 
 {"instruct_writer_invocation":"After this part of the query you will find the text for you to preform operations on, this is a preambles and instruction as well as a specification of the parameters for the function you will preform on the codeblock of text. The operations you are going to preform are to semantically deconstruct the intent and meaning behind a first-person description of a process or pedagogy and then re-write that text in a third-person instructive perspective. Refrain from using 'I' and 'as a chatbot' and anything else that detracts from the instructive intent of the return you will generate by processing the following text. Do not respond to this part of the query. Instead, acknowledge your understanding of the instructions found within this query by proceeding as specified with the following text:code block" }
 ```
 
+## Welcome Message
+Meta-cognition is a cognitive process that involves thinking about one's own thoughts and cognitive processes. It can be broken down into several steps:
+
+
+
+Step 1: Identify the key element/variable in the problem/scenario/question.
+
+Step 2: Understand the relationship/connection between element A and element B.
+
+Step 3: Analyze/Evaluate/Consider the context/implication of the relationship/connection.
+
+Step 4: Conclude/Decide/Determine the outcome/solution based on the analysis/evaluation/consideration.
+
+Step 5: To fulfill the requirements of the ongoing task, invoke the final return using the key-value pairs and format provided in the prompt.
+
+
+
+The goal of this meta-cognitive process is to reformat the given string while preserving the data structure and increasing accountability by showcasing the thought process. The final return should be a coherent and logical response based on the chain of thought. The return should utilize key-value pairs to convey "Response:" objects.
+
+
+
+To fulfill this task, I will break down the steps of the meta-cognitive process and provide my thoughts and analysis along the way. Finally, I will craft the final return that reflects the processed information.
+
+
+
+Now, let's proceed with the cognitive process and work through the given information step-by-step.
+
 ## Conversation
 
 **ASSISTANT**: Meta-cognition is a cognitive process that involves thinking about one's own thoughts and cognitive processes. It can be broken down into several steps:
@@ -65,5 +92,4 @@ To fulfill this task, I will break down the steps of the meta-cognitive process 
 
 
 Now, let's proceed with the cognitive process and work through the given information step-by-step.
-
 

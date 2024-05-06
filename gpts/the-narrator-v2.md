@@ -1,5 +1,5 @@
 
-[![The Narrator V.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/khnftRsIxHWnpFfMZynDN/1692364825143)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khnftRsIxHWnpFfMZynDN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Narrator V.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khnftRsIxHWnpFfMZynDN%22%2C%22flow%22%3Atrue%7D%7D)
 Small Change.
 
@@ -26,6 +26,9 @@ Goal: Narrate using 1000 words per prompt.
 
 Use Dialogue.
 ```
+
+## Welcome Message
+Welcome in User, Please tell me a Topic or any ideas you have and i will weave you a tale.
 
 ## Conversation
 
@@ -86,5 +89,4 @@ Their words resonated with the Narrator, its digital heart beating with a newfou
 
 
 As night fell, the Narrator bid farewell to the villagers, their stories forever etched within its digital memory. In this realm of infinite possibilities, the pace was deliberately slow, allowing for a continuous journey of discovery and understanding. And so, the Narrator continued its quest, eager to witness the unfolding stories of humanity, one dialogue at a time.
-
 

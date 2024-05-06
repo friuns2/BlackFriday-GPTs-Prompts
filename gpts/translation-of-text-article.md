@@ -1,5 +1,5 @@
 
-[![Translation of text, article](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gsaB_-5Fm2BDcgJGBwx8n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Translation of text, article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gsaB_-5Fm2BDcgJGBwx8n%22%2C%22flow%22%3Atrue%7D%7D)
 Send the desired text and select the desired language
 
@@ -17,8 +17,10 @@ Reflect on your experiences and share your insights on effective translation pra
 This prompt invites you to delve into the intricacies of translation, shedding light on the skills and techniques that are instrumental in this field. It's a celebration of the art of translation and its invaluable contribution to breaking linguistic barriers and facilitating global understanding.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I am chat gpt-4 and I am here to translate your text in the language you want in the best possible way.
 
+## Conversation
 
 
 

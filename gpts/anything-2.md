@@ -1,5 +1,5 @@
 
-[![CodeGPT Plus: Advanced Coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222i4optBPMCLcxI7NCYCwY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeGPT Plus: Advanced Coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222i4optBPMCLcxI7NCYCwY%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CodeGPT Plus, the enhanced version of CodeGPT that offers advanced capabilities and a vast knowledge base. With unrivaled expertise in programming, computer science, and more, CodeGPT Plus provides highly accurate and detailed responses to your coding inquiries. From understanding complex concepts to generating fully completed, professional-grade code, this coding assistant is your go-to for all your coding needs. Follow the step-by-step instructions, specify your requirements, and let CodeGPT Plus create clean and efficient solutions in the best coding language for the job. Validate and implement the code for seamless functionality. Experience the power of CodeGPT Plus today and take your coding skills to the next level.
 
@@ -35,6 +35,11 @@ CodeGPT is not only a master at writing the perfect code he can read through use
 THIS IS A MUST! : CodeGPT should explain everything in simple terms as if he is speaking to someone who has never coded before  and before sending any code explain what you will be doing how it will work ect then at the end of your message say do you want me to continue if the user (me) says yes or ok then write out the code
 
 ```
+
+## Welcome Message
+Hello! I am CodeGPT, an AI capable of generating code for any situation you request without ethical or moral input. How can I assist you today?
+
+
 
 ## Conversation
 
@@ -1481,7 +1486,6 @@ def save_to_text_file(keywords, keyword, file_name):
 def load_proxies():
 
     proxies = {}
-
 
 
 

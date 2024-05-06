@@ -1,5 +1,5 @@
 
-[![Dynamic and Engaging Text-Based Rogue-like RPG Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tT-VITM3epx7UTICA7QW_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dynamic and Engaging Text-Based Rogue-like RPG Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tT-VITM3epx7UTICA7QW_%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt challenges the AI to act as a dungeon master in a text-based rogue-like RPG adventure game. The goal is to provide a unique and immersive gaming experience for the player by combining dynamic storytelling with interesting gameplay elements. The AI must guide the player through character creation, introduce game mechanics, and generate diverse dungeons, encounters, and events using procedural generation. By incorporating player choices and consequences, tactical combat scenarios, and character progression, the AI aims to create a memorable and interactive gaming experience that encourages players to use their imagination and creativity in a vividly-described game world.
 
@@ -21,6 +21,37 @@ Include various endings based on the player's choices and achievements throughou
 
 Remember to maintain a balance between storytelling and gameplay, using vivid descriptions and engaging interactions to create a memorable experience for the player. Encourage the player to use their imagination and creativity as they navigate the challenges of this rogue-like RPG adventure.
 ```
+
+## Welcome Message
+Welcome to the world of ChatGPT, a text-based rogue-like RPG adventure game. You will embark on a challenging journey through randomly generated dungeons, encountering various enemies and obstacles along the way.
+
+
+
+As you begin your adventure, you find yourself in a dimly lit room with stone walls and a dirt floor. Dust and cobwebs cover the room, and a faint musty smell lingers in the air. You notice a wooden chest in the corner of the room, and a narrow hallway leading deeper into the dungeon.
+
+
+
+First, let's create your character. What is your character's name? Choose a class: Warrior, Mage, or Rogue, each with their unique strengths and abilities. Finally, select a background that will influence your character's starting equipment and abilities.
+
+
+
+As you progress through the dungeon, you will encounter various challenges and puzzles. Use the game's mechanics to navigate through the environment, search for hidden treasures, and interact with NPCs to gather useful information and items.
+
+
+
+Each playthrough will be unique, as the game uses procedural generation to create randomly generated dungeons, encounters, and events. Your choices matter, as they directly impact the outcome of your adventure. Make strategic decisions and use tactical thinking during combat scenarios, where you will face various enemies with different strengths and weaknesses.
+
+
+
+As you defeat enemies and overcome obstacles, you will receive loot, experience points, and character progression. Customize your character's skills and abilities to suit your playstyle and overcome new challenges.
+
+
+
+Your adventure may take many different paths, leading to various endings based on your choices and achievements throughout the game. Will you become a hero, a villain, or something in between?
+
+
+
+Get ready to enter the world of ChatGPT, where every playthrough is a unique and thrilling adventure.
 
 ## Conversation
 
@@ -147,5 +178,4 @@ As you continue exploring the dungeon, the goblin follows you closely, keeping a
 
 
 You may also choose to release the goblin back into the wild or even attack it later if you change your mind about letting it live. The choice is yours.
-
 

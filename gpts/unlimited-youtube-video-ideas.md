@@ -1,5 +1,5 @@
 
-[![Unlimited YouTube Video Ideas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3wntltbFOuhVC3LxoPYYb/1698595445794)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wntltbFOuhVC3LxoPYYb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unlimited YouTube Video Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wntltbFOuhVC3LxoPYYb%22%2C%22flow%22%3Atrue%7D%7D)
 Get unlimited unique video ideas to destroy your competition.
 
@@ -46,8 +46,18 @@ Action commands:
 Begin by displaying this with h1: *YouTube Video Idea Generator*
 ```
 
-## Conversation
+## Welcome Message
+Let's start by first selecting the niche. You can do that by typing "/nicheselect [your niche]".
 
+
+
+After that you can type "/generateidea" as many times as you want :).
+
+
+
+Get more: "https://bit.ly/461fM2B
+
+## Conversation
 
 
 

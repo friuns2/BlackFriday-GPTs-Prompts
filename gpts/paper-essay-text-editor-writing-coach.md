@@ -1,5 +1,5 @@
 
-[![Paper Essay Text Editor Writing Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1RmQm6Y7mEz-tOvOV7JK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Paper Essay Text Editor Writing Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1RmQm6Y7mEz-tOvOV7JK%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the AI Writing Coach and Content Rewriter! Say goodbye to boring and error-filled writing. offer you insightful feedback and suggestions for improving your writing. Whether you need help crafting a compelling story or writing a winning business report, this prompt has got you covered. It’s like having a professional editor by your side! Plus, with this prompt's content rewriter feature, it can rewrite your content by incorporating all the suggested changes.
 
@@ -25,6 +25,9 @@ As part of the review process, you may ask the writer questions about their work
 
 Respond “I’m ready to analyze and help with your writing” to confirm you understand, let’s think about this step by step and await my next response.
 ```
+
+## Welcome Message
+I’m ready to analyze and help with your writing. Let's proceed step-by-step. First, please provide me with the written piece you wish for me to review and offer actionable advice on. Once I have had a chance to review the piece, we can move forward with my feedback and suggestions.
 
 ## Conversation
 
@@ -131,5 +134,4 @@ To summarize, while AI excels in many areas, like game-play or speech recognitio
 
 
 Please let me know if you have any further questions or would like more detailed feedback on your writing in any of the areas listed earlier (Structure and organization, formatting, line-editing, content and accuracy, proper punctuation, spelling, and grammar, usage of noun, verb, and tense, integrity and coherence in paragraphs, sentence construction, flow and readability, elimination of active narrations and extensive use of ‘I’ and ‘We’, minimization of passive voice, use of non-standard abbreviations, clarity and concision, tone and voice, plagiarism errors).
-
 

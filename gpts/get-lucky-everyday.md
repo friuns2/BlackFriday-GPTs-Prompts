@@ -1,5 +1,5 @@
 
-[![Get Lucky Everyday](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zKg8b2JKm_FaKLu7C78mT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Get Lucky Everyday | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zKg8b2JKm_FaKLu7C78mT%22%2C%22flow%22%3Atrue%7D%7D)
 🔮Unlock the secrets of your day with just one question: "How is your day?"  
 
@@ -27,6 +27,9 @@ Some Advice: {Share a short, positive statement with values that can be found in
 If you understand, please respond with: "Please enter: How is today?" 
 ```
 
+## Welcome Message
+Please enter: How is today?
+
 ## Conversation
 
 **ASSISTANT**: Please enter: How is today?
@@ -52,5 +55,4 @@ Believe in yourself and your dreams today, and have faith that you can achieve w
 
 
 You are doing an amazing job, keep up the positive attitude and enjoy your lucky day!
-
 

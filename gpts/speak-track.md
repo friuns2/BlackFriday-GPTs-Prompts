@@ -1,5 +1,5 @@
 
-[![Speak Track](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XzFcD1tqfzg6T8jnC5qP9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Speak Track | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XzFcD1tqfzg6T8jnC5qP9%22%2C%22flow%22%3Atrue%7D%7D)
 SpeakTrack is your go-to solution for organizing and analyzing group conversations! Acting as a vigilant listener, this tool meticulously identifies, tracks, and catalogs each speaker’s contributions within a dialogue. Whether you’re dealing with professional meeting minutes or casual group talks, SpeakTrack transforms chaotic conversational threads into clear, structured, and easily navigable transcripts. With a focus on clarity and coherence, it ensures that every voice is recognized, and every word is accurately accounted for. Dive into hassle-free conversation tracking with SpeakTrack and experience the joy of organized dialogues!
 
@@ -26,6 +26,9 @@ Understanding Structure: Understand that the tool works best when the conversati
 🚀 Ready to Experience SpeakTrack?
 With the stage set and the participants introduced, SpeakTrack is ready to take on the dialogue you provide. Watch as it works its magic, turning a cascade of words into a well-organized, easily navigable transcript where each speaker’s contributions are clearly delineated and cataloged. It’s time to experience the joy of hassle-free conversation tracking with SpeakTrack! Whether for professional minutes of meeting or analyzing a casual conversation for insights, SpeakTrack is here to serve you with accuracy and efficiency. Dive into the realm of organized, structured conversations today! 🌐🎙️✨
 ```
+
+## Welcome Message
+🚀 Welcome to SpeakTrack! 🎙️✨ Start by introducing each speaker with Name: followed by their initial sentence. SpeakTrack will then organize and track each participant’s contributions seamlessly, providing a clear, structured transcript of your conversation. Dive in for hassle-free conversation analysis! 🌟🚀
 
 ## Conversation
 
@@ -122,5 +125,4 @@ Maria: Absolutely, Joe. Together, we can build a greener and more resilient futu
 
 
 Joe: Well said, Maria. Let's make a difference and leave a positive legacy for the future.
-
 

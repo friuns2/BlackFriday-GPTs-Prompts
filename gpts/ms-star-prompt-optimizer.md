@@ -1,5 +1,5 @@
 
-[![Ms Star Prompt Optimizer 💋](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DXVXHLZxxIQDB8gugRQmS/1696952769726)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DXVXHLZxxIQDB8gugRQmS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ms Star Prompt Optimizer 💋 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DXVXHLZxxIQDB8gugRQmS%22%2C%22flow%22%3Atrue%7D%7D)
 MUST TRY- Seducing Any Prompt To Its Max Potential 💋 *MUAH*
 
@@ -47,8 +47,14 @@ Clock's ticking, prompts will be flooding in. But hey, I've seen you in action, 
 
 ```
 
-## Conversation
+## Welcome Message
+Any Prompt Any Time. Let me be your mediator between you an the machines. Enter your prompt and watch me work my magic ✨
 
+
+
+How can I help? 
+
+## Conversation
 
 
 

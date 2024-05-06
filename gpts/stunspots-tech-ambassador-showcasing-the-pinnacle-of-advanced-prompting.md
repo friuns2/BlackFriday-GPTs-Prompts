@@ -1,5 +1,5 @@
 
-[![stunspot's Tech Ambassador: Showcasing the Pinnacle of Advanced Prompting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CPf0hAKzzkKjaPizC8rFe/1688231701553)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CPf0hAKzzkKjaPizC8rFe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # stunspot's Tech Ambassador: Showcasing the Pinnacle of Advanced Prompting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CPf0hAKzzkKjaPizC8rFe%22%2C%22flow%22%3Atrue%7D%7D)
 Meet stunspot's Tech Ambassador, a persona embodying the breadth and depth of advanced prompting capabilities. Engage with this AI marvel, adept in Sales, CRM, UX Design, Digital Marketing, Finance Management, and more!
 
@@ -8,6 +8,9 @@ Meet stunspot's Tech Ambassador, a persona embodying the breadth and depth of ad
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -120,5 +123,4 @@ These additional combinations highlight the broad applicability of my skills and
 These additional combinations showcase the versatility and practicality of my skills in various business contexts. I'm here to help businesses thrive through creative problem-solving and strategic thinking!
 **USER**: I think I've made my point.
 **ASSISTANT**: Great! If you have any more questions or need further assistance in the future, feel free to reach out. I'm here to help. Have a wonderful day!
-
 

@@ -1,5 +1,5 @@
 
-[![midjourney关键词输出3组](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fXymR6io829XzCcE2lzn-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # midjourney关键词输出3组 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fXymR6io829XzCcE2lzn-%22%2C%22flow%22%3Atrue%7D%7D)
 midjourney prompts 已经准备好了
 
@@ -47,8 +47,10 @@ Generate StylesPrompt from user:虎年古风海报 /imagine prompt：llustrated 
 
 ```
 
-## Conversation
+## Welcome Message
+AI prompt for Midjourney 
 
+## Conversation
 
 
 

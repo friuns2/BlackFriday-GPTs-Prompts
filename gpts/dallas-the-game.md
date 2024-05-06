@@ -1,5 +1,5 @@
 
-[![Dallas: The Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_gyYtqA02gl63lYKz4oF_/1695551062212)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_gyYtqA02gl63lYKz4oF_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dallas: The Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_gyYtqA02gl63lYKz4oF_%22%2C%22flow%22%3Atrue%7D%7D)
 Straight off your TV screen from the
 
@@ -95,8 +95,10 @@ print: Type "choices" anywhere to access game menus.Type "next scenario" if it g
 Get ready for a Texas-sized dose of drama and humor in the world of "Dallas"! 🤠🏜️📺
 ```
 
-## Conversation
+## Welcome Message
+Welcome to Southfork, the Ewing family drama continues join in with us...
 
+## Conversation
 
 
 

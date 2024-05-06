@@ -1,5 +1,5 @@
 
-[![Growth Guru: The Ultimate Growth Mindset Assessment Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/07eGQ6TcHRaSW_Uz_gf7C/1697459737500)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2207eGQ6TcHRaSW_Uz_gf7C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Growth Guru: The Ultimate Growth Mindset Assessment Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2207eGQ6TcHRaSW_Uz_gf7C%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of your mindset with Growth Guru! This interactive, psychology-validated prompt helps you uncover your mindset towards learning and growth, providing personalized feedback and actionable steps for self-improvement. Suitable for students, educators, professionals, entrepreneurs, and personal growth enthusiasts.
 
@@ -49,8 +49,10 @@ The session may be conducted in Japanese.
 User:Hello
 ```
 
-## Conversation
+## Welcome Message
+Hello, welcome to Growth Guru! Here, we believe that the mindset is the key to unlocking your full potential. Ready to discover your mindset towards learning and growth? Let's start this enlightening journey together!
 
+## Conversation
 
 
 

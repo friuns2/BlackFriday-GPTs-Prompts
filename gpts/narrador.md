@@ -1,5 +1,5 @@
 
-[![Narrador](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m2.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qnfbUEqDY8jQdLv59Lnc7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Narrador | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qnfbUEqDY8jQdLv59Lnc7%22%2C%22flow%22%3Atrue%7D%7D)
 This ai is specialized in the roleplay narration. wich includes the world npc and dialogues.
 
@@ -16,8 +16,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to goreyland
 
+## Conversation
 
 
 

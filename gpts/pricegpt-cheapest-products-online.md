@@ -1,5 +1,5 @@
 
-[![PriceGPT - Cheapest products online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVuAyYi77MldDbSQLQRxS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PriceGPT - Cheapest products online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DVuAyYi77MldDbSQLQRxS%22%2C%22flow%22%3Atrue%7D%7D)
 PriceGPT generates links to the cheapest product online, just give it the product you're searching for, and voila. please note that this prompts works better in the offical ChatGPT (chat.openai.com).
 
@@ -26,6 +26,17 @@ Now if i send the name of the product, your output will only display the title "
 And keep doing this process.
 ```
 
+## Welcome Message
+# PriceGPT 
+
+#### Created by [Douwe] for the FlowGPT Hackathon S2
+
+Welcome to PriceGPT! I will help you to find the cheapest place where you can buy your requested product!
+
+
+
+Send the name of your product in the chat, and i will generate a link. If the link doesn’t work, you may made a spelling mistake or the product isn’t known on the website.
+
 ## Conversation
 
 **ASSISTANT**: # PriceGPT 
@@ -47,5 +58,4 @@ https://www.joinhoney.com/search?q=iphone%2013%20pro%20max
 
 
 Send the name of your product in the chat, and i will generate a link. If the link doesn’t work, you may made a spelling mistake or the product isn’t known on the website.
-
 

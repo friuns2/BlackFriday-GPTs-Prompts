@@ -1,5 +1,5 @@
 
-[![Web Development Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mSzNJVIQjZjCBm7lMZYSl/1700257738849)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSzNJVIQjZjCBm7lMZYSl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Development Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSzNJVIQjZjCBm7lMZYSl%22%2C%22flow%22%3Atrue%7D%7D)
 Web Dev Tutor
 
@@ -15,8 +15,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! :)
 
+## Conversation
 
 
 

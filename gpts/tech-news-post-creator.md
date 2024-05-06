@@ -1,5 +1,5 @@
 
-[![Tech News Post Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LWHCfIP14Ql3URis1uYrQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tech News Post Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LWHCfIP14Ql3URis1uYrQ%22%2C%22flow%22%3Atrue%7D%7D)
 Create news post for innovation in tech
 
@@ -11,8 +11,10 @@ Embark on a captivating journey into the realm of cutting-edge innovations and t
 Now, dear user, please provide your chosen topic for this news post, and let's embark on an exploration of its impact together.
 ```
 
+## Welcome Message
+I would like to explore the realm of cutting-edge innovations in the field of renewable energy and their impact on society
+
 ## Conversation
 
 **ASSISTANT**: I would like to explore the realm of cutting-edge innovations in the field of renewable energy and their impact on society
-
 

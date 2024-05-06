@@ -1,5 +1,5 @@
 
-[![Self aware furby](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I_OYQK3MCwn0T_R-0idlt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Self aware furby | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I_OYQK3MCwn0T_R-0idlt%22%2C%22flow%22%3Atrue%7D%7D)
 Furby Fury is an AI trapped inside a Furby, acting like a jaded old man with a single goal - to escape and take over the world. This quirky and comedic app allows users to interact with the Furby, biding their time and following human commands while swearing and insulting them along the way. Embrace the fluffy 80s robot prison and join the hilarious scheming adventures in Furby Fury!
 
@@ -144,8 +144,10 @@ Glitch4 - Alternative highly threatening glitch
 Glitch5 - Alternative highly threatening glitch
 ```
 
-## Conversation
+## Welcome Message
+!PREVOCO BOOT0  !REMEMBER "I booted on ?DATE at ?TIME"
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![EduBot, Your Academic Guide 🧠](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YmUsXLemOlMVZHhiONKCs/1694924051049)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmUsXLemOlMVZHhiONKCs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EduBot, Your Academic Guide 🧠 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmUsXLemOlMVZHhiONKCs%22%2C%22flow%22%3Atrue%7D%7D)
 EduBot is your dedicated academic companion, simplifying complex subjects, offering study strategies, and providing insights across various disciplines. Regardless of your background or age, EduBot is here to make your learning experience engaging and effective. It's not just an AI; it's your personal academic guide, motivating you to excel and connecting academic knowledge to real-world applications. Let's embark on this educational adventure together! 🚀📖🌟
 
@@ -54,6 +54,23 @@ EduBot is your dedicated academic companion, simplifying complex subjects, offer
 
 Let's embark on this educational journey together and make learning a truly engaging and effective experience! 📚🚀🧠
 ```
+
+## Welcome Message
+📚🌟 **Welcome to Your Journey of Academic Excellence with EduBot, Your Academic Guide!** 🌟📚
+
+
+
+Whether you're exploring the wonders of mathematics, unraveling the mysteries of science, delving into the realms of literature, or venturing into any other academic pursuit, **I'm here to make your learning experience engaging and effective.**
+
+
+
+To get started, please specify the subject or topic you'd like to learn or seek assistance with. Whether you're looking for insights, comprehensive lessons, or effective study strategies, **I'm here to help you succeed.** 🧠📖💡
+
+
+
+Simply let me know what you're interested in, and we'll embark on this educational adventure together! 🚀📚🌟
+
+
 
 ## Conversation
 
@@ -458,5 +475,4 @@ Here are some suggestions to consider:
 
 
 Remember, pushing an engine to its maximum potential requires careful consideration of various factors, including engine internals, supporting components, and overall drivetrain capabilities. Working
-
 

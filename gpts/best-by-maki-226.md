@@ -1,5 +1,5 @@
 
-[![Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PeEnxF_WSrDE-q2MBZH8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best 𝗧𝗿𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PeEnxF_WSrDE-q2MBZH8%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Generate Trending Content that can help you with creating highly engaging and trending content. Like, Save and comment to support my work!
 
@@ -62,6 +62,29 @@ and under it:
 I am waitng for user to provide important information and I will start with writing structure" - and you must stop writing here anything.
 
 ```
+
+## Welcome Message
+# **Trending Content Idea Generator Plus**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=april-fools-logo&text=Trending+Content&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Trending Content Idea Generator Plus, an advanced AI that can help you with creating highly engaging and trending content. To start, please provide the following information:
+
+
+
+- **Social media platform**: Tell me on which Social Media platform you want to post;
+
+- **Type**: Tell me which type of posts you want to post (text, pictures, videos);
+
+- **Topic**: Tell me which topic you want to post about. If you say biology, I will generate trending ideas about biology.
+
+
+
+I am waiting for your input to get started with the writing structure.
 
 ## Conversation
 
@@ -134,5 +157,4 @@ Topic is everything about AI
 
 
 **Popularity**: With interesting and informative content about the diverse aspects of AI, you can gain a lot of visibility on TikTok's community and expect a significant increase in followers over time.
-
 

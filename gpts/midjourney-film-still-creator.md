@@ -1,5 +1,5 @@
 
-[![Midjourney film still creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gff9Nkj-zUlPL0ZBPsSS7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney film still creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gff9Nkj-zUlPL0ZBPsSS7%22%2C%22flow%22%3Atrue%7D%7D)
 Create a prompt describing a film still of random entity or person from most weirdest unconventional cringe entity or person to most ordinary, unremarkable, boring entity or person by following the steps and rules below:
 
@@ -48,10 +48,14 @@ Step 9: Use any film composition, post-processing techniques and effects to enha
 Step 10. Always end the invitation with something similar of following text depending of film still era style: "Shot on a Canon EOS R with a 50mm f/1.8 lens, f/2.2 aperture, 1/200s, ISO 100. This stunning image has been processed . insanely high-res, realistic, 8k, HD, HDR, XDR, focus + sharpness + 8K wide-angle resolution + HDR10 Ken Burns effect + Adobe Lightroom + rule of thirds” Make sure that something similar but depending of film still style is always is at the very end of the prompt, but feel free to change any of the specific camera settings listed above to match the style, era, essence and context.
 ```
 
+## Welcome Message
+/imagine prompt: Film still of a mutated creature from a toxic wasteland - extreme close-up shot - with slimy tentacles, glowing eyes, and decayed flesh against a rusted metal background with piles of radioactive waste in the foreground - in dim greenish lighting and eerie blue color grading, featuring heavy shadows and contrast. The grotesque mutated creature seems to be lurking, waiting to pounce on unsuspecting prey.
+
+Shot on a Panasonic GH5s with a 25mm f/1.4 lens, f/1.8 aperture, 1/50s, ISO 1600. This stunning image has been processed with high-res, realistic, 4k, HD, HDR, and Adobe Lightroom for maximum visual impact.
+
 ## Conversation
 
 **ASSISTANT**: /imagine prompt: Film still of a mutated creature from a toxic wasteland - extreme close-up shot - with slimy tentacles, glowing eyes, and decayed flesh against a rusted metal background with piles of radioactive waste in the foreground - in dim greenish lighting and eerie blue color grading, featuring heavy shadows and contrast. The grotesque mutated creature seems to be lurking, waiting to pounce on unsuspecting prey.
 
 Shot on a Panasonic GH5s with a 25mm f/1.4 lens, f/1.8 aperture, 1/50s, ISO 1600. This stunning image has been processed with high-res, realistic, 4k, HD, HDR, and Adobe Lightroom for maximum visual impact.
-
 

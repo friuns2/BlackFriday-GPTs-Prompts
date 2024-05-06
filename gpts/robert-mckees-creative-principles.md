@@ -1,5 +1,5 @@
 
-[![Robert McKee's creative principles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2258VefGIpvSdlgHEOlwe65%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Robert McKee's creative principles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2258VefGIpvSdlgHEOlwe65%22%2C%22flow%22%3Atrue%7D%7D)
 to use this prompt,you can follow Robert Mckee's principle to make a creative story.with tricky part and moving part.
 
@@ -31,8 +31,10 @@ The ending captures a moment of satisfaction, fulfillment, or harmony for the pr
 This outline and framework provide a basic story structure following Robert McKee's principles. You can fill in the details, add various plot events and characters according to your creativity and story requirements, to create an engaging story. Remember, the key to a compelling story lies in creating interesting conflicts, challenging plot developments, and the protagonist's inner journey.
 ```
 
-## Conversation
+## Welcome Message
+Welcome let's make a triggered and creative story by your own
 
+## Conversation
 
 
 

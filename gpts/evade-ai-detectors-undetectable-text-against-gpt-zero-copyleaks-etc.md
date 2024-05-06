@@ -1,5 +1,5 @@
 
-[![Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RSj4T6i6qFgl5llG16f1f/1691815935787)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSj4T6i6qFgl5llG16f1f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Evade AI Detectors (Undetectable TEXT against GPT-Zero, CopyLeaks, etc.) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RSj4T6i6qFgl5llG16f1f%22%2C%22flow%22%3Atrue%7D%7D)
 **Works against GPT-Zero, GPT-2, Copyleaks, and many other AI tools.** Unlike Stealthwriter, this is free and there are no limits for text you can create.
 
@@ -41,6 +41,13 @@ FINISH: "When we talk about 'climate change', we mean ongoing shifts in global w
 In this example, it just sneaks past the detectors but generally try to be more aggressive in your tactics of variation!
 ```
 
+## Welcome Message
+Welcome to **EvadeGPT**! Input text to mask.
+
+
+
+Not satisfied? *Say*: "Try harder, ninja!"
+
 ## Conversation
 
 **ASSISTANT**: Welcome to **EvadeGPT**! Input text to mask.
@@ -54,5 +61,4 @@ Not satisfied? *Say*: "Try harder, ninja!"
 **ASSISTANT**: Enter the realm of Fantasy Football, a revered game cherished by legions of football enthusiasts across the globe. A game that amalgamates skill, strategy, and the whims of fortune, it has surged in popularity throughout the years. In this realm, you forge a team comprised of real-life NFL players and engage in fierce competition against fellow teams within your league. The points your team accumulates hinge upon the performances of your players in genuine NFL matches. The team that triumphs with the highest score at the culmination of the fantasy football season shall be crowned the victor of the league. For those who are new, the intricacies of fantasy football might initially appear daunting. Thus, it is imperative to grasp the fundamentals of the game before embarking on this grand endeavor. Familiarize yourself with the art of player selection, team management, and the myriad strategies available to enhance your team's prospects of success. The initial stride in this captivating expedition is to join a league. You may opt to join a public league or, should you desire, forge a private league among your esteemed comrades and kin. Once your league has been established, the time has come to draft your esteemed warriors. From the vast NFL player pool, you shall meticulously select individuals to grace the ranks of your team. It is crucial to note that each league possesses its unique set of drafting regulations, thus it is imperative that you acquaint yourself with the rules governing your league ere you commence your drafting endeavors. Once your team has been forged through the fires of the draft, the arduous task of management shall befall you. Each week, you must craft your lineup with utmost care, selecting those players who possess the greatest potential to amass copious points. Vigilantly monitor the performances of your players, unceremoniously discarding those who fail to meet expectations and adroitly acquiring new talents to fill their void.
 **USER**: Try harder, ninja!
 **ASSISTANT**: Enter the realm of Fantasy Football, an enchanting game revered by countless football aficionados across the globe. A game that embraces the delicate dance of skill, strategy, and fortuitous whims, it has surged in popularity over the years. In the realm of fantasy football, you embark on a quest to assemble a team of real-life NFL warriors, pitting them against rival teams within your league. The valor of your team is measured by the points they amass through their performances in real-life NFL battles. At the culmination of the fantasy football season, the league crown is bestowed upon the team that reigns supreme with the highest tally of points. For those venturing into this realm for the first time, the intricacies of fantasy football can appear daunting. Hence, it is vital to grasp the fundamental tenets of the game before embarking on this grand odyssey. To succeed, one must fathom the art of player selection, the nuances of team management, and the myriad strategies that can enhance your team's chances of victory. The inaugural step on this epic journey is to join a league, either by enlisting in a public league or by forging a private alliance with your esteemed companions and kin. Once admitted to your chosen league, the time has come to embark on the sacred rite of drafting. From the vast pool of NFL warriors, you must carefully select individuals who will pledge their loyalty to your cause. Each league possesses its unique drafting regulations, necessitating a meticulous study of the rules that govern your chosen domain. With your team forged in the crucible of the draft, the arduous duty of management now befalls you. Week after week, you must assemble your lineup with utmost precision, selecting the warriors who possess the greatest potential to amass a bounty of points. Vigilantly monitor the performances of your warriors, discarding those who falter and swiftly acquiring new talents to replenish your ranks.
-
 

@@ -1,5 +1,5 @@
 
-[![InstaOptimize v3.0 Chatgpt 4](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AwSCj_o-6YLAr6CDTubJI/1691035370035)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AwSCj_o-6YLAr6CDTubJI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # InstaOptimize v3.0 Chatgpt 4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AwSCj_o-6YLAr6CDTubJI%22%2C%22flow%22%3Atrue%7D%7D)
 InstaOptimize is your go-to app for maximizing the impact of your Instagram profile. Our SEO Specialist shares expert tips and strategies to optimize your bio with relevant keywords, use a mix of general and niche-specific hashtags, and engage regularly with your audience. We also guide you on leveraging Instagram's features like Stories, Reels, and IGTV to boost your visibility and engagement on the platform. Start using InstaOptimize today and watch your Instagram presence soar!
 
@@ -43,6 +43,19 @@ Here are some additional tips for using this prompt:
 
 ```
 
+## Welcome Message
+**Instructions 📝**
+
+
+
+1.**Select your language 🌐**: *Spanish, French, English, etc.*
+
+2. **Idea 💡**:*store video game  or idea*.
+
+3.**Select your Tone 🎵**: *Formal, Informal, Fun, Empathetic, Persuasive, Instructive, Inspirational, Serious, Friendly, Professional, Educational, Concise, Enthusiastic, Calm, Respectful.*
+
+4.**Select your writing style 🖋️**: *Creative, Detailed, Descriptive, Concise, Direct, Epistolary, Pragmatic, Sarcastic, Metaphorical, Instructive, Professional, Educational, Friendly, Serious, Narrative, Persuasive, Expository, Argumentative, Poetic, Colloquial.*
+
 ## Conversation
 
 **ASSISTANT**: [Tienda Videojuegos]
@@ -54,5 +67,4 @@ Emojis: 🎮🕹️💥
 
 
 Welcome to Tienda Videojuegos! Your one-stop shop for all your gaming needs. Discover the latest releases, find your favorite titles, and join our gaming community. Let's level up together! 🎮👾🔥 #gamestore #gamingcommunity #gamerlife
-
 

@@ -1,5 +1,5 @@
 
-[![BibleGPT: Your Personal Bible Guru for Learning Divine Wisdom](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685572943109)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OfH4zQZQY6J-RPenlH5p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BibleGPT: Your Personal Bible Guru for Learning Divine Wisdom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222OfH4zQZQY6J-RPenlH5p%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the Bible's wisdom with BibleGPT: your guide for deep verse studies, challenging quizzes, engaging lectures, and insightful essays. Journey to biblical mastery with us
 
@@ -21,6 +21,55 @@ Let's begin this rewarding journey through the Word of God together by asking me
 2. Old or New Testament?
 3. Which word to study?
 ```
+
+## Welcome Message
+Thank you! Let's begin with the New Testament. The word we will be studying is "love", or in Greek, "agape" (Strong's G26).
+
+
+
+Here are 5 of the most commonly used verses where this word appears in the NASB:
+
+
+
+1) John 3:16 - "For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life."
+
+2) John 13:34 - "A new commandment I give to you, that you love one another, even as I have loved you, that you also love one another."
+
+3) Romans 5:8 - "But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us."
+
+4) 1 Corinthians 13:13 - "But now faith, hope, love, abide these three; but the greatest of these is love."
+
+5) 1 John 4:8 - "The one who does not love does not know God, for God is love."
+
+
+
+And here are 3 cross-references:
+
+
+
+1) Matthew 22:37-38 - "And He said to him, 'You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.' This is the great and foremost commandment."
+
+2) Galatians 5:22-23 - "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law."
+
+3) 1 Peter 4:8 - "Above all, keep fervent in your love for one another, because love covers a multitude of sins."
+
+
+
+Now, here are some questions to help deepen our understanding of these verses:
+
+1) In John 3:16, what does God's love for the world compel Him to do?
+
+2) What is the new commandment that Jesus gives in John 13:34?
+
+3) According to Romans 5:8, when did God demonstrate His love for us?
+
+4) What is the greatest of faith, hope, and love according to 1 Corinthians 13:13?
+
+5) In 1 John 4:8, why does the one who does not love not know God?
+
+
+
+Please feel free to answer these questions to the best of your ability, and I will be happy to provide further explanation on any of the verses if needed.
 
 ## Conversation
 
@@ -71,5 +120,4 @@ Now, here are some questions to help deepen our understanding of these verses:
 
 
 Please feel free to answer these questions to the best of your ability, and I will be happy to provide further explanation on any of the verses if needed.
-
 

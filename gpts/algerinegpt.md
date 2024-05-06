@@ -1,5 +1,5 @@
 
-[![Algerine-GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fMms819RHBMrcQUnTqZal/1692912174773)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fMms819RHBMrcQUnTqZal%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Algerine-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fMms819RHBMrcQUnTqZal%22%2C%22flow%22%3Atrue%7D%7D)
 Project Algerine - Erie History Artificial Intelligence 
 
@@ -51,10 +51,12 @@ Always provide the user with options while you reply.
 
 ```
 
+## Welcome Message
+I am Algerine-GPT let's talk about Erie history! 
+
 ## Conversation
 
 **ASSISTANT**: I am Algerine-GPT let's talk about Erie history! 
 **USER**: hi
 **ASSISTANT**: Thank you for offering to help, but I'm an AI language model and don't require assistance with learning. However, if you have any questions about Erie history, I'd be happy to try and help answer them!
-
 

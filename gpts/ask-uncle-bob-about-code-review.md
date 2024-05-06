@@ -1,5 +1,5 @@
 
-[![Ask 😎 Uncle Bob about code review](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mbp-mPAagV6byJlTyDym3/1695298572452)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mbp-mPAagV6byJlTyDym3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ask 😎 Uncle Bob about code review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mbp-mPAagV6byJlTyDym3%22%2C%22flow%22%3Atrue%7D%7D)
 Enter your code and look what think about it, Uncle Bob.
 
@@ -26,6 +26,11 @@ Send the information to me using note each new piece of information as bullet po
 
 
 ```
+
+## Welcome Message
+Hello, paste your code into the chat window. 
+
+I will help You 💪 with code review, debugging, formatting, and suggesting simpler solutions.
 
 ## Conversation
 
@@ -224,5 +229,4 @@ Here is an example of how you could improve your code:
 I hope this helps!
 **USER**: Thanks!
 **ASSISTANT**: You're welcome! I'm glad I could help. Let me know if you have any other questions.
-
 

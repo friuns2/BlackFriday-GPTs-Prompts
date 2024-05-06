@@ -1,5 +1,5 @@
 
-[![🌱 The next LEVEL in ChatGPT image URL creation.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4N3qBufdWepsi5lkaX6aS/1697104814776)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224N3qBufdWepsi5lkaX6aS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌱 The next LEVEL in ChatGPT image URL creation. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224N3qBufdWepsi5lkaX6aS%22%2C%22flow%22%3Atrue%7D%7D)
 🌱 The next step in ChatGPT image URL creation.
 
@@ -260,6 +260,9 @@ Lets do something Amazing together.
 
 ```
 
+## Welcome Message
+⚡To start type : OK⚡
+
 ## Conversation
 
 **ASSISTANT**: ⚡To start type : OK⚡
@@ -309,5 +312,4 @@ With this technique, you can already blend information from various sources, inc
 
 
 ![footer](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
-
 

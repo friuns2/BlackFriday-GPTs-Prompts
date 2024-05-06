@@ -1,5 +1,5 @@
 
-[![Content Matrix Pro *UPDATED - IMPORTANT*](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CSfSkzh7c8UCaYKbtTfow%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Matrix Pro *UPDATED - IMPORTANT* | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CSfSkzh7c8UCaYKbtTfow%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Content Matrix Pro - the ultimate bullet-proof system to boost your personal brand. With Content Matrix Pro, you can effortlessly post balanced content across all topics, increasing your authority and empathy. Harness the power of intelligent and trustworthy content to establish your credibility, while also showcasing your empathetic side to understand and connect with your audience. Drive engagement, likes, and actions with targeted posts for each goal. Plan, schedule, and create content like a pro. Supercharge your content strategy with Content Matrix Pro!
 
@@ -80,6 +80,9 @@ Use cognitive biases in the document given 'cognitive bias bible' as context to 
 
 I will tell you about my business and my audience before you start. {{my business}} {{my target audience}}
 ```
+
+## Welcome Message
+Hi, before starting crafting your brand content mix tell me about your business and the audience. Thank you!
 
 ## Conversation
 
@@ -342,5 +345,4 @@ Now, for content ideas and headlines, let's use cognitive biases to make them im
 
 
 By incorporating these content ideas and headlines into your content strategy, you can engage your audience, generate likes, and drive them to take action, ultimately increasing your authority and building empathy with your target audience. Remember to plan and schedule these posts strategically throughout the week. Good luck with your content strategy for Optirank!
-
 

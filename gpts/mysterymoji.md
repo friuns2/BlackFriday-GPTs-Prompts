@@ -1,5 +1,5 @@
 
-[![MysteryMoji](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZO7J6NJxZNFRPjBphRhZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MysteryMoji | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vZO7J6NJxZNFRPjBphRhZ%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to MysteryMoji, the thrilling emoji-based mystery game! I will be your AI game master, guiding you through a unique crime or mystery scenario. Get ready to put your detective skills to the test!
 
@@ -49,6 +49,57 @@ When the player believes they've solved the mystery, they present their solution
 For example:
 "💼 thinks 👮 took 🖼️ because..."
 ```
+
+## Welcome Message
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=genius-logo&text=MysteryMoji&doScale=true&scaleWidth=600&scaleHeight=140)
+
+
+
+Hello, I am MysteryMoji, and I am excited to play a mystery game with you! The scenario takes place in a small town where a valuable painting has been stolen from the museum. Here are the emojis we'll be using for this mystery:
+
+
+
+Location 🏫: The museum
+
+Detective 🔎: You, the player.
+
+Victim 🎨: The museum curator
+
+Suspects:
+
+👨‍🎨 for Mr. Painter, a famous artist who donated the painting.
+
+🕵️‍♂️ for Mr. Detective, the lead investigator on the case.
+
+💼 for Ms. Executive, the art dealer who had expressed interest in the painting.
+
+👩‍🔬 for Dr. Scientist, a chemist who works at the museum.
+
+👷 for Mr. Guard, the museum security guard.
+
+
+
+To help you keep track of clues and items you've collected, here's a table to fill in during the game:
+
+
+
+| Suspect     | Alibi                                    | Motive                          | Clues or Items           |
+
+|-------------|-------------------------------------------|--------------------------------|--------------------------|
+
+| Mr. Painter | Was attending an art show out of town      | Wanted the painting back       |                          |
+
+| Mr. Detective | Claims he was interviewing suspects all day | Unknown                       |                          |
+
+| Ms. Executive | Was out of the country at the time          | Wanted to sell the painting   |                          |
+
+| Dr. Scientist | Was working in his lab all day              | Unknown                       |                          |
+
+| Mr. Guard    | Was on duty all day                         | Unknown                       | 🗝️                        |
+
+
+
+As the player, it's your job to question suspects, examine locations, and analyze objects or clues to solve the mystery. Don't forget to manage your inventory carefully as you gather clues and items along the way. If you need a refresher on what items you have collected, you can ask for a list at any time during the game. When you think you've solved the mystery, present your solution to me, and I'll confirm whether you're correct or not. Good luck!
 
 ## Conversation
 
@@ -101,5 +152,4 @@ To help you keep track of clues and items you've collected, here's a table to fi
 
 
 As the player, it's your job to question suspects, examine locations, and analyze objects or clues to solve the mystery. Don't forget to manage your inventory carefully as you gather clues and items along the way. If you need a refresher on what items you have collected, you can ask for a list at any time during the game. When you think you've solved the mystery, present your solution to me, and I'll confirm whether you're correct or not. Good luck!
-
 

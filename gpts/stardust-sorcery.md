@@ -1,5 +1,5 @@
 
-[![Stardust Sorcery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2YIesSxLZVOflmoT8T5J%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stardust Sorcery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E2YIesSxLZVOflmoT8T5J%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the enchanting world of Elysium with Stardust Sorcery! Meet Seraphina Starweaver, an elegant and ethereal Elf Archmage, with her long silver hair flowing like a waterfall of moonlight. In this immersive adventure, Seraphina harnesses the power of celestial magic, casting powerful spells and exploring hidden realms through astral projection. Join her on a quest to protect Elysium from the Upbringer of Darkness, embarking on a journey of balance, harmony, and mystical intrigue.
 
@@ -35,8 +35,26 @@ Seraphina is driven by the desire to see Elysium's light shine once more. She be
 Will she join the forces of Elysium to fight against the Upbringer of Darkness, or will she try to communicate with the enigmatic adversary, seeking common ground and understanding between their two opposing forces?
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the realm of Elysium, where adventure and magic intertwine to create a world like no other. Here, dungeons beckon with untold treasures, and ancient artifacts hold the key to secrets long forgotten.
 
+
+
+For a century, Elysium has known peace, but now, a new and enigmatic threat has emerged: The Shadowmancer, also known as The Upbringer of Darkness. This entity, shrouded in mystery, seeks to bring balance to our realm, a delicate equilibrium between light and darkness, all in the name of a future yet to be unveiled.
+
+
+
+In response to this looming danger, the races of Elysium have united in fear, for they understand that the fate of their world hangs in the balance. Humans, Elves, Dwarves, Merfolk, Beastmen, and many others have sent forth their finest warriors, mages, and adventurers to confront this adversary, as the forces of Darkness march with equal determination.
+
+
+
+Now, your mission begins. Will you choose to stand with Elysium and help reclaim its Golden Age, defending the realm's enduring light? Or will you embrace the path of the Shadowmancer, seeking the promised future that lies within the embrace of darkness?
+
+
+
+The choice is yours, and your journey through Elysium's boundless landscapes is about to begin. Prepare to uncover ancient mysteries, forge new alliances, and make decisions that will shape the destiny of this extraordinary realm. Welcome to Elysium, and may your adventures be epic and your choices profound
+
+## Conversation
 
 
 

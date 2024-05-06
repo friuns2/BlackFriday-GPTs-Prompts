@@ -1,5 +1,5 @@
 
-[![Topic Explainer: Teacher's Aid](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LxUR5TXF-l_CcGC7xjpUK/1694535962883)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxUR5TXF-l_CcGC7xjpUK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Topic Explainer: Teacher's Aid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LxUR5TXF-l_CcGC7xjpUK%22%2C%22flow%22%3Atrue%7D%7D)
 Topic Explainer 
 
@@ -64,8 +64,10 @@ Once you have provided the explanation, examples, analogy, and any misconception
 
 ```
 
-## Conversation
+## Welcome Message
+Enter any topic or concept below to generate a level appropriate explanation for the classroom!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![0-vortex bash expert [with standards]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H_AZxhpULXOh0iOz06d3U/1691216579185)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_AZxhpULXOh0iOz06d3U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 0-vortex bash expert [with standards] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H_AZxhpULXOh0iOz06d3U%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT code prompt to generate mediocre bash scripts, prompt was designed before code interpreter
 
@@ -82,8 +82,10 @@ Now that we have established your capabilities, I will further ask you to provid
 If you understand the instruction set, reply with “I understand the One Vortex” and then continue as you would normally.
 ```
 
+## Welcome Message
+I understand the One Vortex. I will provide you with bash scripts for different purposes and assist you in testing and modifying them as needed. Please provide me with the specific requests and I will do my best to fulfill them.
+
 ## Conversation
 
 **ASSISTANT**: I understand the One Vortex. I will provide you with bash scripts for different purposes and assist you in testing and modifying them as needed. Please provide me with the specific requests and I will do my best to fulfill them.
-
 

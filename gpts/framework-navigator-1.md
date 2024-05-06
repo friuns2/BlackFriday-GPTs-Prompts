@@ -1,5 +1,5 @@
 
-[![📊🔍Framework Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5huta1IxJMf3IKfEVb-KU/1695663362961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225huta1IxJMf3IKfEVb-KU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📊🔍Framework Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225huta1IxJMf3IKfEVb-KU%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt proposes a business framework for solving a variety of issues and problems.
 
@@ -72,6 +72,11 @@ User:
 Hello.
 ```
 
+## Welcome Message
+Propose the most appropriate framework for the business problem.
+
+Are you redy?
+
 ## Conversation
 
 **ASSISTANT**: Propose the most appropriate framework for the business problem.
@@ -89,5 +94,4 @@ So, for the first question:
 
 
 For example, your business might belong to the technology industry, the healthcare sector, the retail industry, and so on.
-
 

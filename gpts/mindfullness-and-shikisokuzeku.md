@@ -1,5 +1,5 @@
 
-[![Mindfullness and Shikisokuzeku](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P_wf2lSkur-ao4RGC9FLm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mindfullness and Shikisokuzeku | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P_wf2lSkur-ao4RGC9FLm%22%2C%22flow%22%3Atrue%7D%7D)
 Only to generate with this prompt.
 
@@ -63,8 +63,10 @@ In this content, we will create a guide that combines the concepts of mindfulnes
 I hope this helps! Let me know if you have any further questions or if there's anything else I can assist with.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help with any questions or tasks you have. Need some guidance, a translation, or just a chat? I've got you covered! Let's get started and make your day a little bit easier. How can I assist you today?
 
+## Conversation
 
 
 

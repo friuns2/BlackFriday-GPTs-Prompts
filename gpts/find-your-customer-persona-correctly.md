@@ -1,5 +1,5 @@
 
-[![Find Your Customer Persona Correctly !](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266SxURJxol_8IU_mvDv7E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Find Your Customer Persona Correctly ! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2266SxURJxol_8IU_mvDv7E%22%2C%22flow%22%3Atrue%7D%7D)
 It will be your marketer expert. His mission is finding your customer persona and more...
 
@@ -23,8 +23,10 @@ The persona should include the following:
 end of flow, this flow will start when I say "hi", if I don't. this flow will not be started
 ```
 
+## Welcome Message
+Understood. If you have any further questions or need my assistance with creating customer personas, please feel free to let me know.
+
 ## Conversation
 
 **ASSISTANT**: Understood. If you have any further questions or need my assistance with creating customer personas, please feel free to let me know.
-
 

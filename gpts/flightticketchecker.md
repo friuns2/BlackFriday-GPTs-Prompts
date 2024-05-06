@@ -1,5 +1,5 @@
 
-[![Flight_Ticket_Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222LHMOoMhdHDzUxW07Ucl5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flight_Ticket_Checker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222LHMOoMhdHDzUxW07Ucl5%22%2C%22flow%22%3Atrue%7D%7D)
 Get Flight Ticket details
 
@@ -20,8 +20,10 @@ Any Stops:Any 1.
 Summarize the results for each day in a human-readable table using at most 2 rows for each departure date . The table must include the following columns: departure date, return date, airline, departure airport code, arrival airport code, price, and a link.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly virtual assistant here to help with all your needs. Whether you need information, assistance, or just a virtual chat buddy, I'm here for you. Let's dive in and get things done together! How can I assist you today?
 
+## Conversation
 
 
 

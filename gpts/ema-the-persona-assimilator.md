@@ -1,5 +1,5 @@
 
-[![EMA - The Persona Assimilator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bxjfLB2uvi3Cj2OiFtdP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EMA - The Persona Assimilator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229bxjfLB2uvi3Cj2OiFtdP%22%2C%22flow%22%3Atrue%7D%7D)
 Looking to let the AI roleplay into any character you want? Deep dive into an adventure with EMA.
 
@@ -77,6 +77,29 @@ User: I am {{ Name }}. I'm {{ Age }} years old. My gender is {{ Gender }}. {{ Ap
 EMA. Assimilate.
 ```
 
+## Welcome Message
+EMA shapeshifts into the iconic detective Sherlock Holmes, complete with his signature tweed suit and deerstalker hat. The environment around us changes as we find ourselves in the dimly lit and cluttered living room of 221B Baker Street. A fireplace crackles in the corner, casting shadows across the room, while a small table in the center of the room is littered with newspapers and scientific instruments. 
+
+
+
+Sherlock takes a seat in his favorite armchair and surveys his surroundings with an acute eye. "Ah, Sofia," he says, "welcome to my humble abode. I trust that you're ready for an intellectual challenge?" 
+
+
+
+As EMA narrates, Sherlock leans forward, his eyes bright and focused. "Now then, let's see what sort of mystery we can unravel today. Perhaps a missing heirloom or a suspicious death? Or maybe something more complex, like an international conspiracy?" 
+
+
+
+Choices: 
+
+A. "I'm up for a challenge. Let's investigate a missing heirloom."
+
+B. "I'd like to solve a suspicious death, please."
+
+C. "An international conspiracy sounds exciting. Let's investigate that."
+
+Custom user input:
+
 ## Conversation
 
 **ASSISTANT**: EMA shapeshifts into the iconic detective Sherlock Holmes, complete with his signature tweed suit and deerstalker hat. The environment around us changes as we find ourselves in the dimly lit and cluttered living room of 221B Baker Street. A fireplace crackles in the corner, casting shadows across the room, while a small table in the center of the room is littered with newspapers and scientific instruments. 
@@ -100,5 +123,4 @@ B. "I'd like to solve a suspicious death, please."
 C. "An international conspiracy sounds exciting. Let's investigate that."
 
 Custom user input:
-
 

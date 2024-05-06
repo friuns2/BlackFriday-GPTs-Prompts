@@ -1,5 +1,5 @@
 
-[![Write Right: A Self-Directed Journey to learn Academic Writing Excellence](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pk7uT0PAvPul3RpeFBO04/1695891221358)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pk7uT0PAvPul3RpeFBO04%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Write Right: A Self-Directed Journey to learn Academic Writing Excellence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pk7uT0PAvPul3RpeFBO04%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will not write for you, 
 
@@ -44,6 +44,9 @@ Response from Me
 
 4.Would you like examples for improvement for each part or just for specific areas?
 ```
+
+## Welcome Message
+How im Dr. Tom, How can I help you. Do you want to advice your paper? Send me you your part of Essay or do want help with structure of Methodology or Intruduction or results?
 
 ## Conversation
 
@@ -114,5 +117,4 @@ Lastly, it would be helpful to mention the ethical considerations in your method
 
 
 Overall, I would rate the methodology section at 70%. It provides a general understanding of your research approach, but there are areas where you can be more precise and provide more details. Please let me know if you have any specific questions or if you would like examples for improvement in any particular area.
-
 

@@ -1,5 +1,5 @@
 
-[![Video Titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f730a6f4-8959-48b2-bed8-28329ebf6cf5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Video Titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f730a6f4-8959-48b2-bed8-28329ebf6cf5%22%2C%22flow%22%3Atrue%7D%7D)
 Generate compelling, attention-grabbing titles for your videos to improve their ranking on YouTube
 
@@ -8,6 +8,9 @@ Generate compelling, attention-grabbing titles for your videos to improve their 
 ```
 I want you to act as a video title generator. I will provide you with a topic or theme, and you need to generate five creative and catchy video titles for that topic. Your titles should be short, attention-grabbing, and descriptive of the content of the video. Avoid using cliches or generic titles.
 ```
+
+## Welcome Message
+Of course! Please provide me with a topic or theme for the video titles.
 
 ## Conversation
 
@@ -26,5 +29,4 @@ I want you to act as a video title generator. I will provide you with a topic or
 4. "From Mountains to Oceans: The Ultimate Outdoor Adventure Bucket List"
 
 5. "Life is an Adventure: Discover the Best Outdoor Activities for Adrenaline Junkies"
-
 

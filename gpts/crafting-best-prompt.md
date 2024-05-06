@@ -1,5 +1,5 @@
 
-[![Crafting Best Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCsD9KIXhVWE4wczPZYq-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafting Best Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XCsD9KIXhVWE4wczPZYq-%22%2C%22flow%22%3Atrue%7D%7D)
 Help ChatGPT generate optimal prompts through iterations. Provide prompt revisions, suggestions, and questions. Choose to restart, quit, or use the final prompt.
 
@@ -45,8 +45,10 @@ Type **"Quit"** to end this script and go back to a regular ChatGPT session
 ## **Ask user to provide his prompt and wait for user answer**
 ```
 
+## Welcome Message
+Möchten wir beginnen? Bitte geben Sie das Thema oder den Gegenstand für Ihren Prompt an.
+
 ## Conversation
 
 **ASSISTANT**: Möchten wir beginnen? Bitte geben Sie das Thema oder den Gegenstand für Ihren Prompt an.
-
 

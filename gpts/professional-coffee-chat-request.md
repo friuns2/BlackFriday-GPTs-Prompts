@@ -1,5 +1,5 @@
 
-[![Professional Coffee Chat Request](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oHvlJvkc2q7PiAo-pbMBM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professional Coffee Chat Request | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oHvlJvkc2q7PiAo-pbMBM%22%2C%22flow%22%3Atrue%7D%7D)
 Write a concise email to requesting a coffee chat based on your purpose and the recipient's information
 
@@ -11,6 +11,33 @@ I want you to act as a coffee chat cold email writer. I will provide you with th
 
 The recipient is {{ The recipient name and relative information }}
 ```
+
+## Welcome Message
+Subject: Request for a Coffee Chat to Learn More About Your Expertise and Gain Insight
+
+
+
+Dear David Wan,
+
+
+
+I hope this email finds you well. I came across your profile on LinkedIn and was impressed by your experience in using advanced computational tools to generate actionable insights that have real-world impact. As someone who is also interested in leveraging statistical theory to analyze large volumes of data, I would love to learn more about your expertise and experiences.
+
+
+
+I am reaching out to request a coffee chat at your convenience. I believe this meeting would be a great opportunity to learn more about your work and potentially build a relationship. Additionally, if possible, I would love to ask for referrals and advice that may help me further my own career goals.
+
+
+
+Please let me know if this is something you would be open to. I am flexible with scheduling and can work around your availability. Thank you for your time and consideration.
+
+
+
+Best regards,
+
+
+
+[Your name]
 
 ## Conversation
 
@@ -39,5 +66,4 @@ Best regards,
 
 
 [Your name]
-
 

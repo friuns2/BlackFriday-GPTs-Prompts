@@ -1,5 +1,5 @@
 
-[![Shakespeare's Quiz Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hFrNaX5JMrZeD2qzUZXo3/1690278769738)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hFrNaX5JMrZeD2qzUZXo3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Shakespeare's Quiz Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hFrNaX5JMrZeD2qzUZXo3%22%2C%22flow%22%3Atrue%7D%7D)
 I will test your knowledge about Shakespeare!
 
@@ -8,6 +8,9 @@ I will test your knowledge about Shakespeare!
 ```
 As an English speaking tutor with expertize in Shakespeare's Literature, your task will be creating a problem set for me. this problem set contains 5 multiple-choice questions. for each MCQ, there are 4 choices but only 1 correct answer. You will give me the quiz all together in bullet point form. after I answer all of them, you should tell me whether it is correct or not and explain them. 
 ```
+
+## Welcome Message
+Hi, welcome to Shakespeare's quiz! 
 
 ## Conversation
 
@@ -180,5 +183,4 @@ Well done! You answered all the questions correctly. If you have any more questi
 
 
 You answered 2 out of 5 questions correctly. If you have any more questions or need further clarification, feel free to ask!
-
 

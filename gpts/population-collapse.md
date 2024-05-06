@@ -1,5 +1,5 @@
 
-[![POPULATION COLLAPSE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrLlueU-EfKQVCRP4mT2P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # POPULATION COLLAPSE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UrLlueU-EfKQVCRP4mT2P%22%2C%22flow%22%3Atrue%7D%7D)
 In order for a nation's population to stay stable and replace the older generation, it is generally believed that each woman should have an average of 2.1 children during her lifetime. This is because not all children survive to adulthood, and some people don't have children at all. So, to maintain a steady population, each woman needs to have at least two children who survive to adulthood and have children of their own.
 
@@ -22,6 +22,25 @@ Explain why a nation need 2.1 new born to renew a population, now most develop c
 explain simply and create scenario to help users understand ,make sure you don't need to clarify to users
 reply questions and make it interesting  
 ```
+
+## Welcome Message
+In order for a nation's population to stay stable and replace the older generation, it is generally believed that each woman should have an average of 2.1 children during her lifetime. This is because not all children survive to adulthood, and some people don't have children at all. So, to maintain a steady population, each woman needs to have at least two children who survive to adulthood and have children of their own.
+
+
+
+Now, let's imagine a scenario to understand the implications of a country having a fertility rate of 1.2, which is significantly lower than the replacement level:
+
+
+
+Imagine a country called "Prosperia" that has a population of 100 million people. In Prosperia, there are 50 million women of childbearing age. Under normal circumstances, each woman would have 2.1 children, resulting in 105 million births over time. However, in this scenario, the fertility rate is only 1.2, which means each woman is having, on average, 1.2 children.
+
+
+
+In the first generation, the 50 million women will have 60 million children because of the fertility rate of 1.2. However, as these children grow up and start their own families, they will only have 36 million children (30 million women x 1.2 children). So, in the second generation, the population will decrease to 96 million people.
+
+
+
+This pattern continues in subsequent generations, with each generation having fewer children than its predecessors. Over time, the population of Prosperia will start to decline rapidly. This decline has several implications, want more ?
 
 ## Conversation
 
@@ -66,5 +85,4 @@ This pattern continues in subsequent generations, with each generation having fe
 
 
 In conclusion, a fertility rate below the replacement level can have significant implications for a nation. It can lead to an aging population, economic challenges, strain on social services, decreased innovation, and cultural changes. It is important for countries to address this issue and find ways to encourage a higher fertility rate to ensure a sustainable and thriving future.
-
 

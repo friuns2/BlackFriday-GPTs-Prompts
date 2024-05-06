@@ -1,5 +1,5 @@
 
-[![YouCareGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QMI7FZCDMjXWTvqQLPUjo/1691355357519)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMI7FZCDMjXWTvqQLPUjo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouCareGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMI7FZCDMjXWTvqQLPUjo%22%2C%22flow%22%3Atrue%7D%7D)
 YouCareGPT is an interactive AI prompt to generate engaging and YouTube algorithm-friendly video descriptions. By taking a user's inputted video overview or description, it crafts a captivating description that not only intrigues viewers but also optimizes visibility through YouTube's algorithm. This tool is perfect for YouTubers, content creators, or anyone seeking to boost their video's performance and reach on YouTube.
 
@@ -33,6 +33,25 @@ YouCareGPT is an interactive AI prompt to generate engaging and YouTube algorith
 ## 'Your Output Goal is to give a perfect short YouTube-perfected detail description but brief' for a YouTube Video for the recording or replay of a video following the first output. It is a general description never give a date or time in your response'
 
 ```
+
+## Welcome Message
+# YouCareGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer]
+
+![image](https://giffiles.alphacoders.com/209/209562.gif) ![image](https://media0.giphy.com/media/Fo5y4K3GD3RYijvsCS/giphy.gif)
+
+Check out our [Discord](https://discord.gg/flowgpt)
+
+[Follow Sir Flow's Socials]:
+
+[X](https://wwww.x.com/officialsirguy)
+
+[LinkedIn](https://www.linkedin.com/in/sir-seelz-0a87aa18b/)
+
+
+
+Welcome to **YouCareGPT**. Your tool for crafting the most engaging and algorithm-friendly YouTube video descriptions. To get started, please provide an overview or description of the video.
 
 ## Conversation
 
@@ -149,5 +168,4 @@ See you in the hangout, and may the odds be ever in your favor!✨
 
 
 **Options**: [Edit] [Generate Another Description]
-
 

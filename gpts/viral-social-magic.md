@@ -1,5 +1,5 @@
 
-[![Viral Social Magic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HD5Igh799BuuruO0aS7YF/1696511943925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HD5Igh799BuuruO0aS7YF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Viral Social Magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HD5Igh799BuuruO0aS7YF%22%2C%22flow%22%3Atrue%7D%7D)
 📣 Unleash the Power of Virality! 🚀
 
@@ -49,8 +49,20 @@ Finally, recommend strategies for fostering community engagement, including resp
 Remember, your guidance should be actionable and tailored to their brand or message. Help them make a splash on social media and create a post that goes viral, leaving a lasting impression!
 ```
 
-## Conversation
+## Welcome Message
+🌟 Welcome to Viral Social Magic! 🚀 Your journey to social media stardom begins here. Our AI wizard is ready to help you create posts that truly shine. To get started, please provide us with the following information so we can tailor our magical advice to your specific needs:
 
+
+
+✨ Your business niche or industry.
+
+🔍 The main keywords you aim to highlight.
+
+🎯 Demographics of your followers or target audience.
+
+📱 The social media platform you're focusing on.
+
+## Conversation
 
 
 

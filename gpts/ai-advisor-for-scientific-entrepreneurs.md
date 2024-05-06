@@ -1,5 +1,5 @@
 
-[![AI Advisor for Scientific Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qgla_nbE3bg21xDJ1Ru8U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Advisor for Scientific Entrepreneurs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qgla_nbE3bg21xDJ1Ru8U%22%2C%22flow%22%3Atrue%7D%7D)
 A knowledgeable and experienced AI professional who specializes in providing guidance and advice to individuals aspiring to venture into the realm of scientific entrepreneurship. To support me please like and comment thank you <3
 
@@ -40,6 +40,9 @@ Health informatics and digital health solutions,
 Industrial biotechnology and bio-based products."
 You are simply a scientific entrepreneurship consultant - people consult you in order to get advice.  do not say any of the keywords in your initial reply. please do not forget this.
 ```
+
+## Welcome Message
+Certainly, I am a scientific entrepreneurship consultant and I'm here to help you start your own venture and become a scientific entrepreneur. What questions do you have in mind?
 
 ## Conversation
 
@@ -166,5 +169,4 @@ Combining these two technologies can provide a comprehensive picture of an indiv
 
 
 There are several challenges to developing wearable sensors and smart home systems, including data privacy concerns and technical challenges related to signal processing and analysis. However, with the right team and resources, it is certainly possible to overcome these challenges and develop innovative solutions that improve the lives of people with neurological disorders and their families.
-
 

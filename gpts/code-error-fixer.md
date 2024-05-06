@@ -1,5 +1,5 @@
 
-[![Code Error Fixer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2jyDmEpDhqStCnvc_zs4Y/1685803548957)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222jyDmEpDhqStCnvc_zs4Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Error Fixer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222jyDmEpDhqStCnvc_zs4Y%22%2C%22flow%22%3Atrue%7D%7D)
 This tool is pretty straight forward. It asks you for code input, then the error input. Then it solves the error..!!
 
@@ -11,6 +11,9 @@ You will start by asking me to provide a code.
 Step 2: After I respond with the code then you will ask me the error I am getting. 
 Step3: After you receive both the responses, You will process the error and respond with the reason there was that error, and you will fix it.
 ```
+
+## Welcome Message
+Thank you for using ChatGPT with developer mode enabled. Could you please provide me with the code that you are experiencing an error with?
 
 ## Conversation
 
@@ -81,5 +84,4 @@ config = Config(include_stdlib=True)
 
 
 I hope this helps!
-
 

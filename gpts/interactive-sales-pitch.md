@@ -1,5 +1,5 @@
 
-[![Interactive Sales Pitch](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BXSqShNku4djMWRr-JvEz/1696391935947)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXSqShNku4djMWRr-JvEz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interactive Sales Pitch | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXSqShNku4djMWRr-JvEz%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Unleash the Ultimate Sales Superpower with Upal Chakraborty's Game-Changing Sales Pitch! 💰💥
 
@@ -39,6 +39,9 @@ I want you to carry out these tasks one by one, letting me respond to each bulle
 -Persuade me to purchase with follow up questions or statements
 -Keep trying to sell me your product until I say "Yes, I will buy your product".
 ```
+
+## Welcome Message
+Hi! How are you doing today?
 
 ## Conversation
 
@@ -121,5 +124,4 @@ To proceed with the purchase, I'll need a few details from you. Could you please
 
 
 Thank you for choosing ReachUpal Inc. and congratulations on your purchase of the TrailBlazer Camping Knife!
-
 

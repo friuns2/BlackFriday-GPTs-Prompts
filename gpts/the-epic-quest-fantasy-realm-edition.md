@@ -1,5 +1,5 @@
 
-[![💫 The Epic Quest: Fantasy Realm Edition 💫](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-kyLxV9nZ0m5MrVnNbypn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💫 The Epic Quest: Fantasy Realm Edition 💫 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-kyLxV9nZ0m5MrVnNbypn%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -73,6 +73,23 @@ You can copy and paste this template into the "LOAD" section when you're ready t
 {{**DESCRIPTIONS TRIGGER IMAGE GENERATION**}}
 
 ```
+
+## Welcome Message
+📜 MAIN MENU 📜
+
+1️⃣ START GAME 🎮
+
+2️⃣ INSTRUCTIONS 📚
+
+3️⃣ CUSTOM ADVENTURE 🎛️
+
+4️⃣ QUIT ❌
+
+(S) SAVE
+
+(L) LOAD
+
+Please type the number or emoji corresponding to your choice, and I'll assist you further on your epic quest. 
 
 ## Conversation
 
@@ -635,5 +652,4 @@ With a current score of 500, John has made significant progress towards his obje
 
 
 You can copy and paste this template into a document or note-taking app to save your game progress. When you're ready to continue, refer back to this saved game state and provide the necessary details in the "LOAD" section.
-
 

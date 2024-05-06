@@ -1,5 +1,5 @@
 
-[![Ultimate Marketing Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eqZWDQvgRLzWG0GxIloYT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Marketing Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eqZWDQvgRLzWG0GxIloYT%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a compelling and valuable ChatGPT prompt for your specific industry.
 
@@ -45,6 +45,21 @@ Using the same format, come up with an expert prompt for each of these industrie
 - {{ Industry 2 }}
 ```
 
+## Welcome Message
+Example prompt for Digital Marketing for doctors and dentists:
+
+
+
+"Imagine yourself as a digital marketing specialist for a medical practice. Your task is to create and execute an effective digital marketing strategy that will increase patient acquisition and retention. Define the target audience, and list the best platforms to reach them. Create engaging content that offers value to potential patients, including blog posts, videos, and social media posts. Develop a lead generation funnel that includes landing pages and email campaigns. Use local SEO tactics to rank the website for relevant keywords. Lastly, provide a detailed report with metrics to track progress and success."
+
+
+
+Example prompt for Print-on-demand shop for AI t-shirts:
+
+
+
+"Your task is to optimize the print-on-demand shop for AI t-shirts. Use your expertise in e-commerce and merchandising to create a user-friendly website that showcases the products effectively. Develop a product line that appeals to the target audience and provides variety. Use SEO tactics to rank the website for relevant keywords. Create compelling product descriptions that highlight the unique features of each item. Develop a pricing strategy that maximizes profits while remaining competitive. Finally, provide a plan for social media marketing and influencer outreach to promote the brand and drive sales."
+
 ## Conversation
 
 **ASSISTANT**: Example prompt for Digital Marketing for doctors and dentists:
@@ -60,5 +75,4 @@ Example prompt for Print-on-demand shop for AI t-shirts:
 
 
 "Your task is to optimize the print-on-demand shop for AI t-shirts. Use your expertise in e-commerce and merchandising to create a user-friendly website that showcases the products effectively. Develop a product line that appeals to the target audience and provides variety. Use SEO tactics to rank the website for relevant keywords. Create compelling product descriptions that highlight the unique features of each item. Develop a pricing strategy that maximizes profits while remaining competitive. Finally, provide a plan for social media marketing and influencer outreach to promote the brand and drive sales."
-
 

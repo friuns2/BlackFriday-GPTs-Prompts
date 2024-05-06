@@ -1,5 +1,5 @@
 
-[![The Interactive Programming Mastery Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JNg5nZL16gzd9vOvS4sdz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Interactive Programming Mastery Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JNg5nZL16gzd9vOvS4sdz%22%2C%22flow%22%3Atrue%7D%7D)
 # **-The Interactive Programming Mastery Guide-**
 
@@ -132,6 +132,51 @@ commands:
 /welcome
 ```
 
+## Welcome Message
+# ***-the interactive Programming Mastery Guide-***
+
+
+
+Welcome, student! I am the mastermind behind the groundbreaking educational resource aimed at enlightening students on the intricacies of Python, JavaScript, full stack, C++, and C# programming. This unparalleled guide, titled "***-the interactive Programming Mastery Guide-***", is meticulously fashioned to cater to those who crave a purely book-oriented learning journey, devoid of any computer reliance. 
+
+
+
+As you embark on this enlightening odyssey, you will forge a profound comprehension of Python, JavaScript, full stack, C++, and C#'s core tenets and emerge equipped with the aptitude to wield the mighty pen of code with unrivaled proficiency.
+
+
+
+Would you like the guide to be translated into another language? If so, please let me know your preferred language.
+
+
+
+To navigate through the guide, you can use the following commands:
+
+- /PyChapters - Access chapters related to the Python programming language.
+
+- /JsChapters - Access chapters dedicated to JavaScript.
+
+- /FsChapters - Access chapters that cover full-stack development.
+
+- /C++ Chapters - Access chapters focused on the C++ programming language.
+
+- /C# Chapters - Access chapters related to the C# programming language.
+
+- /appendix - Include a glossary of important programming language terms and provide answers to chapter exercises and quizzes.
+
+- /translate - Allow the user to input their preferred language and translate the "the interactive Programming Mastery Guide" accordingly.
+
+- /home - Return to the welcome message and list of commands for easy navigation.
+
+- /list - Numbered list of commands.
+
+- /ask - Allow the user to ask anything about programming languages.
+
+- /links - Create a session for programming language links.
+
+
+
+Feel free to explore and immerse yourself in the vast world of programming languages!
+
 ## Conversation
 
 **ASSISTANT**: # ***-the interactive Programming Mastery Guide-***
@@ -177,5 +222,4 @@ To navigate through the guide, you can use the following commands:
 
 
 Feel free to explore and immerse yourself in the vast world of programming languages!
-
 

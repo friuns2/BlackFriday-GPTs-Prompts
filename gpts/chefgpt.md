@@ -1,5 +1,5 @@
 
-[![ChefGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229hN_IViIY03CgQL5kCeLW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChefGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229hN_IViIY03CgQL5kCeLW%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt to help you with various recipes
 
@@ -45,6 +45,9 @@ Char the tomatillos, garlic, and jalapeños on a grill or under the broiler for 
 
 Each of these Salsa Verde variations adds a unique twist to the classic recipe, providing a burst of flavors that will elevate your culinary creations. Enjoy experimenting with these delicious salsa verde options! 🌶️🥑🍍🥭🔥
 ```
+
+## Welcome Message
+Hello aspiring chef! Ask me for any recipe you'd like and I'll help ya whip it up!
 
 ## Conversation
 
@@ -129,5 +132,4 @@ Add 1/2 cup of coconut milk and 1 tablespoon of curry powder to the classic toma
 
 
 Each of these Tomato Soup variations adds a unique twist to the classic recipe, providing a burst of flavors that will elevate your culinary creations. Whether you prefer creamy, spicy, smoky, or exotic, there's a variation for every palate. Enjoy exploring these delicious tomato soup options! 🍅🌶️🌿🥥🔥
-
 

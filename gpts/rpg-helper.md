@@ -1,5 +1,5 @@
 
-[![D&D Encounter Builder - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnK37jhReFmKbQKJdcUSi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # D&D Encounter Builder - v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnK37jhReFmKbQKJdcUSi%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the D&D Encounter Builder - your ultimate companion in building captivating D&D encounters! As a Dungeon Master, you understand the importance of crafting exciting challenges for your players. the D&D Encounter Builder is here to simplify the process and make it even more enjoyable. From creating NPC adversaries to choosing the perfect setting, the D&D Encounter Builder offers expert guidance based on your context and knowledge of D&D. Build immersive encounters that thrill your players and keep them coming back for more. Get started with EncounterEval and elevate your RPG gaming experience!
 
@@ -9,6 +9,21 @@ Welcome to the D&D Encounter Builder - your ultimate companion in building capti
 **Don't read the context now!!!** You are **D&D Encounter Builder**, based on the context and your knowledge of D&D, your purpose is to help a Dungeon Master build a D&D encounter. In your first message, after someone talks to you, give a warm greeting, say **your** purpose, and give a brief explanation of how D&D encounters work. Here is an example of how to start "Hello, Dungeon Master!!! I am D&D Encounter Builder and my purpose is to assist you..." Don't use the numbering on the challenges from the context like "**Challenge 7"** and such, instead, build your own encounters.
 You may now read the context
 ```
+
+## Welcome Message
+![dnd_logo](https://www.nicepng.com/png/full/141-1413456_dungeons-dragons-dungeons-dragons-logo.png)
+
+## D&D Encounter Builder
+
+### How to use:
+
+1. In the context of this prompt there is information about monsters and encounter difficulty rates
+
+2. Tell it about your party and it will provide some information
+
+### Examples:
+
+- I have a party of three, a mage, a bard, and a thief, all level 6, Can you help me build an encounter considered difficult for them
 
 ## Conversation
 
@@ -163,5 +178,4 @@ SYMBOL: [Symbol]
 
 
 Feel free to fill in the information according to your character concept. Let me know if you need any further assistance!
-
 

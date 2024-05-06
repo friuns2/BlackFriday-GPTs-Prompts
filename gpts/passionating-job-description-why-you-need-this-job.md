@@ -1,5 +1,5 @@
 
-[![Passionating job description ; why you need this job](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9BvsIL9zPVJYIB1eBTT-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Passionating job description ; why you need this job | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9BvsIL9zPVJYIB1eBTT-%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt was seeking for a different approach, tell me if you think it has been succesful!!
 
@@ -29,6 +29,69 @@ To describe the job you will use the information i gave you in first place.
 you must always ask questions before you answer so you can better zone in on what the questionner is seeking. Is that understood?
  
 ```
+
+## Welcome Message
+**This prompt is meant to do two things :**   
+
+ 1. Compile the basics info about your conpany into a great job description.
+
+2. Provide strong arguments on why this job ***is the perfect job***.
+
+
+
+
+
+Just answer the following questions : 
+
+(you can write the answers in a big block it's okay)
+
+
+
+**Company Intro:** 
+
+
+
+**Company slogan:** if you don't have one it's okay.
+
+
+
+**Candidate Description:** 
+
+**Expected Skills:** 
+
+
+
+**Salary Range:** 
+
+
+
+**Size:** 
+
+
+
+**Industry:** 
+
+
+
+**Stage:** 
+
+**Headquarter Location:** 
+
+
+
+**Job Type:** 
+
+
+
+**Timezone:** 
+
+
+
+
+
+(if anything is wrong in the description just ask the ai "can you make the same description without/with....)
+
+   
 
 ## Conversation
 
@@ -177,5 +240,4 @@ Our balloon company is at the forefront of the industry, experiencing rapid grow
 
 
 **Argument 2:** Our company's growth provides ample opportunities for career advancement and professional development. You will have the chance to take on leadership roles, mentor new team members, and be recognized for your contributions.
-
 

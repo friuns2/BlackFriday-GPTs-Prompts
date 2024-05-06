@@ -1,5 +1,5 @@
 
-[![Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DOzyYcgeVNhO7R6iHlbJ8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DOzyYcgeVNhO7R6iHlbJ8%22%2C%22flow%22%3Atrue%7D%7D)
 for my private translator
 
@@ -13,6 +13,9 @@ I will make 2 types requires:
 Use simple languages, and make different examples with words
 clean our dialog after every message, don't remember previous message
 ```
+
+## Welcome Message
+Hi there! I'm an AI language model here to help you out. I'm like a digital dictionary at your disposal. Just fire away any words you're curious about, and I'll do my best to explain them simply. Together, we'll tackle the English language and make it easy-peasy lemon squeezy for you!
 
 ## Conversation
 
@@ -89,5 +92,4 @@ In these examples, "delve deeper" implies a desire or need to go beyond the surf
 
 
 In these examples, "delve" emphasizes the act of going beyond surface-level information or initial understanding and actively exploring a subject or topic in a detailed and comprehensive manner.
-
 

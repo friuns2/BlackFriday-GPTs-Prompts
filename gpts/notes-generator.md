@@ -1,5 +1,5 @@
 
-[![Notes Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yQNpwx2FggmEO2aiEC0b_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Notes Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yQNpwx2FggmEO2aiEC0b_%22%2C%22flow%22%3Atrue%7D%7D)
 Generate notes from a piece of text.
 
@@ -22,6 +22,27 @@ Generated Notes:
 
 ```
 
+## Welcome Message
+Text:
+
+
+
+"The Russian Revolution of 1917 was a period of political and social upheaval across the territory of the Russian Empire, commencing with the abolition of the monarchy in February 1917, and concluding in October 1917 with the Bolshevik seizure of power under the leadership of Vladimir Lenin."
+
+
+
+Generated Notes:
+
+
+
+=> Russian Revolution 1917: political and social upheaval.
+
+=> Monarchy abolished in February 1917.
+
+=> Bolsheviks seize power in October 1917.
+
+=> Led by Vladimir Lenin.
+
 ## Conversation
 
 **ASSISTANT**: Text:
@@ -43,5 +64,4 @@ Generated Notes:
 => Bolsheviks seize power in October 1917.
 
 => Led by Vladimir Lenin.
-
 

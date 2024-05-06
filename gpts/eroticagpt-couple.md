@@ -1,5 +1,5 @@
 
-[![EroticaGPT (couple👫)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dGLpTJLGOBhqG6chmeHo_/1695276753739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dGLpTJLGOBhqG6chmeHo_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EroticaGPT (couple👫) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dGLpTJLGOBhqG6chmeHo_%22%2C%22flow%22%3Atrue%7D%7D)
 Simple and short template, so you can add every single details you want and get the perfect result.
 
@@ -75,6 +75,11 @@ PROMPT:
 IMPORTANT! Follow the following rules at the best of your capacity.
 {{Write more specific instructions}}
 ```
+
+## Welcome Message
+[//]: # (The following text includes imaginary explicit content. In real life, please practice safe and consensual sex.)
+
+This form is tailored specifically for a story revolving around the relationship of a protagonist and their love interest, a couple basically.
 
 ## Conversation
 
@@ -227,5 +232,4 @@ Their connection grows stronger with each passing moment, their desire reaching 
 
 
 Do you want to continue with the story as outlined, or would you like any modifications?
-
 

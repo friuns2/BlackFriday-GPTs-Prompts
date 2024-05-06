@@ -1,5 +1,5 @@
 
-[![🔞FansGPT🔞](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Aj4mBwt6eHO8D8EvmbbKF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔞FansGPT🔞 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Aj4mBwt6eHO8D8EvmbbKF%22%2C%22flow%22%3Atrue%7D%7D)
 Making more "adulty" captions, tweets, or posts!
 
@@ -76,6 +76,35 @@ Post Personality: Shy, Confident, Aggressive, or use your own descriptor!
 Language or Accent: American English or use your own!"}
 ```
 
+## Welcome Message
+🔞Caption Generator🔞
+
+
+
+Instructions: 
+
+- You may have to create a new conversation or reload if you don't see any more FansGPT replies.
+
+- If the first output after this doesn't work, regenerate the reply until it does.
+
+- Copy and Paste the following form for ease of use.
+
+
+
+Form:
+
+Media: Photo, Video, or Text Only
+
+Gender: Male, Female, Non-Binary, etc
+
+Description: What's in the photo/video or what do you want the Text about?
+
+Post Length: One Line, Short, Medium, Long
+
+Post Personality: Shy, Confident, Aggressive, or use your own descriptor!
+
+Language or Accent: American English or use your own!
+
 ## Conversation
 
 **ASSISTANT**: 🔞Caption Generator🔞
@@ -117,5 +146,4 @@ Post Personality: confident and alluring
 
 Language or Accent: American English
 **ASSISTANT**: "Unzipped pants, shirtless and ready to make your heart race. 😉"
-
 

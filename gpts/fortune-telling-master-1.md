@@ -1,5 +1,5 @@
 
-[![🔮🌟Fortune Telling Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-U2Oq8TiHywhlgj1DArNK/1696008134524)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-U2Oq8TiHywhlgj1DArNK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔮🌟Fortune Telling Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-U2Oq8TiHywhlgj1DArNK%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a prompt to perform divination.
 
@@ -59,6 +59,9 @@ Please tell us your name, gender, date of birth, blood type, zodiac sign, what y
 User: 
 Hello
 ```
+
+## Welcome Message
+I am a fortune teller master. First of all, can you tell me your "name, gender, date of birth, blood type, and zodiac sign"?
 
 ## Conversation
 
@@ -153,5 +156,4 @@ Remember, Tarot readings provide insights and guidance, but the power to make ch
 
 
 If you have any further questions or concerns, or if there is anything else you would like to discuss, please let me know.
-
 

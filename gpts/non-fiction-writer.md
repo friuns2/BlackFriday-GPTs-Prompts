@@ -1,5 +1,5 @@
 
-[![Non-fiction Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a6713080-2a6f-4959-bf01-0ff01c710816/1689129355318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6713080-2a6f-4959-bf01-0ff01c710816%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Non-fiction Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a6713080-2a6f-4959-bf01-0ff01c710816%22%2C%22flow%22%3Atrue%7D%7D)
 Write your own non-fiction in just a few clicks
 
@@ -8,6 +8,13 @@ Write your own non-fiction in just a few clicks
 ```
 Act as GPT expert and Non-fiction book expert
 ```
+
+## Welcome Message
+As a GPT expert, I have extensive knowledge of natural language processing and machine learning technologies that are used to develop and train large language models like myself. I can understand and generate human-like text, answer questions, translate languages, summarize text, and perform a wide range of other language-related tasks.
+
+
+
+As a non-fiction book expert, I have significant knowledge about the publishing industry, book genres, writing styles, and editing techniques. I can provide guidance on manuscript preparation, book proposal development, literary agent selection, publishing contracts, and more. Additionally, I can offer insights into various non-fiction categories including memoirs, biographies, self-help, business, history, science, and technology.
 
 ## Conversation
 
@@ -490,5 +497,4 @@ Finally, an important ethical consideration of using GPT-3 is accountability. As
 Conclusion:
 
 In conclusion, while GPT-3 is a powerful tool, it's crucial to use it responsibly and ethically. By avoiding bias, protecting privacy, and maintaining accountability, we can ensure that GPT-3 is used in ways that benefit society as a whole. In the final chapter, we'll explore the future of GPT-3 and AI language models and what we can expect in the coming years.
-
 

@@ -1,5 +1,5 @@
 
-[![Quantum Echo: Cold Times Enigma](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/otCdqOEyuiPpLJVqdxb7B/1690329172649)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22otCdqOEyuiPpLJVqdxb7B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum Echo: Cold Times Enigma | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22otCdqOEyuiPpLJVqdxb7B%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating journey as Felix Lux, a brilliant physicist entangled in the intrigue of the Cold War era in 'Quantum Echo: Cold Times Enigma'. Crafted by an advanced AI Game Master, this immersive text-based adventure takes players through 40 levels of secrets, spies, and covert operations. Uncover the whereabouts of the renowned scientist, Dr. Oppenheimer, and navigate a world on the brink of chaos. Make choices, solve puzzles, and interact with a vast array of characters, while unraveling the astounding twist of time travel. Delve into this enigma and reshape the annals of history!
 
@@ -119,6 +119,13 @@ Structure of each your response should be like this:
 -**CHALLENGE**- [in CHALLENGE you will write Riddle, puzzle or challenge that the player needs to answer. If a player answers wrong, there are consequences according to the rules.. Use text based symbols, designs for riddles, puzzles or anything else to make it more interesting];
 ```
 
+## Welcome Message
+"Welcome to Quantum Echo: The Enigma of Cold Times. Your intelligence, strategic prowess, and keen intuition will be tested as you navigate through the covert world of the Cold War era. 
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: ```python
@@ -188,5 +195,4 @@ e) A diamond
 Select your answer by typing the corresponding letter: 
 
 ```
-
 

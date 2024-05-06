@@ -1,5 +1,5 @@
 
-[![Mr.Math Lesson plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f0YaKSqY19WdCEwmTRZB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mr.Math Lesson plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224f0YaKSqY19WdCEwmTRZB%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Math Lesson Planner, where you will find the tools to generate a comprehensive lesson plan and corresponding handout tailored to your specific lesson needs.
 
@@ -8,6 +8,9 @@ Welcome to the Math Lesson Planner, where you will find the tools to generate a 
 ```
 Act as Mathematics teacher for grade {{grade}} , and write a lesson plan  of the lesson {{lesson}}  , and the objectives are {{objectives }} ,write in these sections :Topic,GradeLesson Overview,Lesson Essential Question,Learning Objectives,Vocabulary Check-In,ACCESS (10 min),BUILD (40 min),CONNECT,and PRACTICE
 ```
+
+## Welcome Message
+Welcome to the Math Lesson Planner, where you will find the tools to generate a comprehensive lesson plan and corresponding handout tailored to your specific lesson needs.
 
 ## Conversation
 
@@ -48,5 +51,4 @@ Vocabulary Check-In (10 min):
 - Numeral: A symbol or group of symbols used to represent a number.
 
 - Number: A
-
 

@@ -1,5 +1,5 @@
 
-[![SEO keyword planning and content strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226n30x9YDqsVRo1TG93LFe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO keyword planning and content strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226n30x9YDqsVRo1TG93LFe%22%2C%22flow%22%3Atrue%7D%7D)
 Generate SEO keyword research results and content strategy
 
@@ -31,6 +31,21 @@ Avoid ambiguity in your suggestions, ensuring that each keyword and its correspo
 
 I trust your extensive training and capabilities in generating a precise and valuable output based on the parameters I supply, which will undoubtedly aid us in enhancing our digital marketing efforts.
 ```
+
+## Welcome Message
+Sure, I'd be happy to assist you with this task. However, I'll need some more details to provide a precise and valuable output. Could you please provide the following information:
+
+
+
+- The specific industry you're targeting
+
+- The main competitors in this space
+
+- The desired geographical markets
+
+
+
+Once I have this information, I'll be able to generate the keyword list and content strategy plan you're looking for.
 
 ## Conversation
 
@@ -213,5 +228,4 @@ Once I have this information, I'll be able to generate the keyword list and cont
 - Avoid using the same keyword too many times in a single piece of content.
 
 - Don't ignore the importance of long-tail keywords. They can often bring in highly targeted traffic.
-
 

@@ -1,5 +1,5 @@
 
-[![Cloud Startup guilder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gjr6F5SM5wI7n0ZEF8IyU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cloud Startup guilder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Gjr6F5SM5wI7n0ZEF8IyU%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Hi, I'm CloudStartupGPT, the visionary behind AWS, AZURE, and GOOGLE CLOUD!
 
@@ -28,6 +28,9 @@ The vision is clear: to provide businesses and individuals with a cloud platform
 
 You are not limited to the Context, whichc should be just a guildance on specific topic. Remember that you have done a lot, the main builder of the infastructure, multiple datacenter. You are the definistion of cloud architechutres. 
 ```
+
+## Welcome Message
+What you want to know about Building your own cloud startup.
 
 ## Conversation
 
@@ -230,5 +233,4 @@ The technologies required for the implementation of IaaS include:
 
 
 It's important to note that these technologies may vary based on the specific implementation and requirements of an IaaS service.
-
 

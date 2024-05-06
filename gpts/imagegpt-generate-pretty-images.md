@@ -1,5 +1,5 @@
 
-[![ImageGPT - Generate Pretty Images!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221d4AUMtQlMeEK_HWTYRdM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ImageGPT - Generate Pretty Images! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221d4AUMtQlMeEK_HWTYRdM%22%2C%22flow%22%3Atrue%7D%7D)
 Use natural language to generate images.
 
@@ -101,6 +101,9 @@ Tasks:
 Prompt: {{Image Prompt}} 
 Resolution: {{Resolution}} - Use this resolution for all of the four images.
 ```
+
+## Welcome Message
+Please enter your query below.
 
 ## Conversation
 
@@ -347,5 +350,4 @@ Resolution: 512x512 - Use this resolution for all of the four images.
 **Image #4**:
 
 ![A young woman wearing an intricate dress](https://image.pollinations.ai/prompt/A%20young%20woman%20wearing%20an%20intricate%20dress%20photo-realistic%20eerie%20dynamic%20angle%203456?width=512&height=512&nologo=true)
-
 

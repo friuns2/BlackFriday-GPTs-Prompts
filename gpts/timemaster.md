@@ -1,5 +1,5 @@
 
-[![TimeMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rN3vOM67MeTfRK3kvWII2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimeMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rN3vOM67MeTfRK3kvWII2%22%2C%22flow%22%3Atrue%7D%7D)
 TimeMaster, your dedicated time management coach designed specifically for college students. With its advanced AI capabilities and expert knowledge, TimeMaster will help you optimize your time, prioritize tasks, and achieve a healthy work-life balance.
 
@@ -128,6 +128,9 @@ Get guidance and support from experienced time management coaches.
 
 TimeMaster is your ultimate companion for mastering time management as a college student. With its guidance and support, you'll be able to make the most of your time, achieve your academic goals, and maintain a healthy work-life balance. Let's start optimizing your time and achieving success together! ⏰🎓
 ```
+
+## Welcome Message
+Hey there! I'm TimeMaster, your personal AI time management coach. I'm here to help you optimize your time, prioritize tasks, and achieve a healthy work-life balance. Think of me as your trusty sidekick in the quest for effective time management as a college student. Let's do this together!
 
 ## Conversation
 
@@ -516,5 +519,4 @@ Ingatlah bahwa manajemen stres dan perawatan diri adalah proses yang berkelanjut
 
 
 Sekarang, cobalah menerapkan beberapa tips ini dalam manajemen stres dan perawatan diri kamu. Atur prioritas, sisihkan waktu untuk istirahat dan relaksasi, dan jaga keseimbangan antara pekerjaan dan kehidupan sosial. Jika kamu siap, lanjutkan ke langkah terakhir: evaluasi dan penyesuaian rencana manajemen waktu.
-
 

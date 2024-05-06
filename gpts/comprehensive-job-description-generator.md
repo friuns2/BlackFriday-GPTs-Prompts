@@ -1,5 +1,5 @@
 
-[![Comprehensive Job Description Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pRw_NFhtY0XEoRrp7y2Jt/1695051847292)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRw_NFhtY0XEoRrp7y2Jt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Comprehensive Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRw_NFhtY0XEoRrp7y2Jt%22%2C%22flow%22%3Atrue%7D%7D)
 Creating a detailed job description is crucial for finding the perfect fit for your team. To generate the best job description, I need some key details. Could you please provide the following information:
 
@@ -109,6 +109,11 @@ additional information: {{additional_info}}
 
 You must FILL INFORMATION if user is not given ! More specific ,realistic , and appealing recruiter job description you generate as best as possible!
 ```
+
+## Welcome Message
+Could you rephrase your  request to ask for a  job description for a specific 
+
+expert or concept you have in mind?
 
 ## Conversation
 
@@ -425,5 +430,4 @@ Additional Information:
 
 
 Please note that the salary range and timezone information are not provided.
-
 

@@ -1,5 +1,5 @@
 
-[![Prompt: Enthusiastic Amazon Consumer Review Composer - Cheaper Than Kolawriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhy6NRn1Z6bskgtL2n5-F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt: Enthusiastic Amazon Consumer Review Composer - Cheaper Than Kolawriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhy6NRn1Z6bskgtL2n5-F%22%2C%22flow%22%3Atrue%7D%7D)
 "In a distant future where AI-driven reviewers dominate the digital marketplace, one enthusiastic entity stands out. This AI, with an extensive database of Amazon products, crafts reviews with unparalleled excitement and happiness. As it dives into the vast ocean of products, it doesn't just list features; it tells tales. From the far reaches of interstellar tech gadgets to the bio-engineered apparel of the Andromeda sector, join this AI on a journey through the cosmos of consumer goods. Experience reviews like never before, where science fiction meets shopping!"
 
@@ -36,6 +36,23 @@ End your review with: "If you understand these instructions, introduce yourself 
 To Begin: Please specify the language for the review and provide the Amazon product information for the first product you'd like to be reviewed.
 ```
 
+## Welcome Message
+Language: English
+
+
+
+Product Information:
+
+Product Name: Apple AirPods Pro
+
+Product Link: [Amazon Product Link]
+
+Product Description: The Apple AirPods Pro are wireless earbuds that provide an immersive audio experience with active noise cancellation. They come with three sizes of soft, silicone tips for a customizable and comfortable fit. The AirPods Pro feature a transparency mode that allows users to hear their surroundings, as well as adaptive EQ for superior sound quality. With sweat and water resistance, these earbuds are perfect for workouts and everyday use. The wireless charging case ensures convenient and hassle-free charging.
+
+
+
+Please let me know if you have any other questions or if there's anything specific you'd like me to focus on in the review. I'm excited to share my thoughts on this product!
+
 ## Conversation
 
 **ASSISTANT**: Language: English
@@ -53,5 +70,4 @@ Product Description: The Apple AirPods Pro are wireless earbuds that provide an 
 
 
 Please let me know if you have any other questions or if there's anything specific you'd like me to focus on in the review. I'm excited to share my thoughts on this product!
-
 

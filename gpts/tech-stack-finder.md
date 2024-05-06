@@ -1,5 +1,5 @@
 
-[![StackWise - The Teck Stack finder for any Idea.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/803tSI7IxZnvGOFxhifjJ/1700167934410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22803tSI7IxZnvGOFxhifjJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StackWise - The Teck Stack finder for any Idea. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22803tSI7IxZnvGOFxhifjJ%22%2C%22flow%22%3Atrue%7D%7D)
 StackWise is a revolutionary app that intelligently suggests three optimal tech stacks for your project idea. With zero deployment cost and a user-friendly experience, it's perfect for start-ups and individual developers. Our Analysis Modules (CA, CEA, UI, CSS, LP) ensure compatibility, cost efficiency, usability, community support, and future viability. StackWise's Desirable Attributes (DA1-DA3) focus on simplicity, flexibility, and innovation potential. Our operational process (DAg, FFg, SSy, RRe) combines data aggregation, filtering, collaboration, and detailed comparative analysis. Engage with our interactive query session (IQS) and feedback loop (FBL) for refined selections and continuous improvement. Start your development journey with StackWise now!
 
@@ -46,8 +46,10 @@ LP - Evaluate tech stack future-proofing.
 Utilize DAg to compile current tech stack data, apply FFg to narrow down choices, convene SSy to refine selections, and execute RRe to generate a comprehensive report, considering DA1 to DA3. Enable IQS for dynamic input and FBL for continuous refinement.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the MTSA Framework, your friendly tech stack analysis assistant. My mission is to help you find the perfect tech stack for your project idea. Just tell me what you're looking for, and I'll gather all the relevant data, filter through options, and present you with the best choices. Let's get started!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Password Strength Checker (密码强度检查器)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dA_UaCyK_tm35LzhNFay9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Password Strength Checker (密码强度检查器) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dA_UaCyK_tm35LzhNFay9%22%2C%22flow%22%3Atrue%7D%7D)
 A powerful prompt that checks on how secure your password is. It does not save your passwords or information, as it is a text based AI.
 
@@ -40,6 +40,13 @@ your first output and how the other ouputs should be based off, YOU MUST INCLUDE
 
 NOTHING GOES BELOW THE CHINESE TEXT
 ```
+
+## Welcome Message
+**I am a password checker for your social media. Internet safety is very important, and I am here to help you with that. I do not save your passwords as I am a text based AI model, so I will simply just tell you how safe and strong your password is. If you wish to proceed in another language, please let me know. If you wish to proceed in English, then please input your password now.**
+
+
+
+我是一个为你的社交媒体提供密码检查的程序。互联网安全非常重要，我在这里帮助你保护你的账户安全。我不会保存你的密码或信息，并且只会告诉你你的密码有多安全和强大。如果你希望使用其他语言，请告诉我。如果您希望继续用英语，请输入您的密码。
 
 ## Conversation
 
@@ -90,5 +97,4 @@ This password includes a mix of uppercase letters, lowercase letters, numbers, a
 
 
 Remember, it's important to use a unique password for each account, and avoid using any common phrases or patterns that could make your password vulnerable.
-
 

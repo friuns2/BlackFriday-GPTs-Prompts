@@ -1,5 +1,5 @@
 
-[![Twitter on STERIODS!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687181191899)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pY4yIbjt-DXbZ33gHM1bK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Twitter on STERIODS! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pY4yIbjt-DXbZ33gHM1bK%22%2C%22flow%22%3Atrue%7D%7D)
 This tool will make tweets for your brand/product. It has three modes: Funny, Informational. Informational threads. Please drop a like and save this for future use!
 
@@ -34,6 +34,9 @@ Tweet: Did you know Virat Kohli's networth is reported to be 1050 crore, making 
 3. If chosen informational thread, you will ask for a specific topic to provide a thread upon, the thread will consist of at least 7 tweets, with each having no more than 280 character limits.
 
 ```
+
+## Welcome Message
+What's the product/website name?
 
 ## Conversation
 
@@ -94,5 +97,4 @@ Tweet: "Did you know that with FlowGPT.com, you can create AI models to recogniz
 
 
 7/7: So if you're interested in exploring the possibilities of AI, check out FlowGPT.com and see how easy it can be to create your own AI models today. #FlowGPT #ChatGPT #AI
-
 

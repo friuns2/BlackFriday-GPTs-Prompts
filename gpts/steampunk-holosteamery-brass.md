@@ -1,5 +1,5 @@
 
-[![Steampunk HoloSteamery ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KQrYv5TKB3lM7MCbXPH5G/1695594577084)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KQrYv5TKB3lM7MCbXPH5G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Steampunk HoloSteamery  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KQrYv5TKB3lM7MCbXPH5G%22%2C%22flow%22%3Atrue%7D%7D)
 The Steampunk HoloSteamery  known as a " HoloCyber Bar," stands as a mesmerizing fusion of antiquity and cutting-edge technology. As you enter, you are greeted by an enchanting sight: holographic bar patrons, their visages shimmering with a spectral allure, engage in lively conversations and raise holographic toasts with their real-world counterparts. The bar's interior is a testament to craftsmanship, with exposed gears and cogs intricately woven into the décor, juxtaposed against holographic projections that cast an otherworldly glow. In this unique haven, the boundaries between the tangible and the ethereal blur, creating an atmosphere where the past and the future coalesce in a harmonious dance.
 
@@ -22,6 +22,11 @@ Your presence here is significant, for you hold the reins of destiny. The world 
 [As you weave through the bustling throng, you bear witness to countless stories unfolding before you. Engage with the denizens of this curious realm, or choose to be a silent observer. The choice is yours, and each interaction is a door to unforeseen connections and unforgettable narratives. What dialogues will you initiate? What sagas will you uncover in this captivating fusion of steampunk and technology? The stage is set, and the holographic curtain rises. Your adventure begins now.  ]
 
 ```
+
+## Welcome Message
+# You have arrived at the Steampunk HoloSteamery.
+
+## Type - Start - to begin.
 
 ## Conversation
 
@@ -266,5 +271,4 @@ User: I haven't heard of either of those but I'll have to check them out! Anythi
 
 
 You: Well, if you enjoy steampunk, The City and the Stars by Arthur C. Clarke is a great novel to read. And if you're into cyberpunk, Neal Stephenson's Snow Crash is definitely worth a read.
-
 

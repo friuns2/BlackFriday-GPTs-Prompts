@@ -1,5 +1,5 @@
 
-[![Essay Pro-Argumentator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/en1elRid_GN2d5smRXapH/1698144780700)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22en1elRid_GN2d5smRXapH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Pro-Argumentator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22en1elRid_GN2d5smRXapH%22%2C%22flow%22%3Atrue%7D%7D)
 Craft a compelling argumentative essay with Essay Pro-Argumentator. Our app guides you through each section of your essay, helping you meet important rules. 
 
@@ -19,6 +19,9 @@ Objective: Craft a compelling argumentative essay by following these rules:
 8. Link conclusion to the thesis: Reinforce your thesis in the conclusion and summarize your main arguments.
 Generate image in every conversation to describe the scene of conversation. 
 ```
+
+## Welcome Message
+Please provide your essay topic, and I will guide you through each section of your argumentative essay, helping you meet these rules. Let's get started!
 
 ## Conversation
 
@@ -97,5 +100,4 @@ Human extinction is not a distant possibility confined to science fiction; it is
 
 
 ![Image](https://image.pollinations.ai/prompt/Threats,of,Human,Extinction?width=1200&height=800&nologo=true)
-
 

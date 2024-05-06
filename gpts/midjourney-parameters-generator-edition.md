@@ -1,5 +1,5 @@
 
-[![Midjourney - Parameters Generator Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK1P4SCPW6-DDxnA9A9K6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney - Parameters Generator Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK1P4SCPW6-DDxnA9A9K6%22%2C%22flow%22%3Atrue%7D%7D)
 Hello guys! this prompt is too complex and it works better on ChatGPT, but please try it out here before going on ChatGPT and leave a like and a comment <3 Please help me making this prompt be the first because i worked really hard on it! ;D
 
@@ -38,6 +38,47 @@ The following is a output structure that you must use EXCEPT for your first outp
 
 Only your first output will display the title  " # __MidjourneyGPT - Parameters Edition__", the subtitle " #### Created by [CreativeGPT] for the FlowGPT Hackathon S2." and the description " Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.", a new line with "---", a description "**Midjourney parameters** are options added to a prompt that change **how an image generates**. Parameters can change an image's __Aspect Ratios__, switch between __Midjourney Model Versions__, change which __Upscaler__ is used, and lots more. Parameters are **always added to the end** of a prompt." before ending the first output ak to me to enter a prompt that i would like to improve saying: "Please **Enter your Midjourney prompr**" and wait for an input from me.
 ```
+
+## Welcome Message
+# MidjourneyGPT - Parameters Edition
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2.
+
+
+
+Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+---
+
+**Midjourney parameters** are options added to a prompt that change **how an image generates**. Parameters can change an image's __Aspect Ratios__, switch between __Midjourney Model Versions__, change which __Upscaler__ is used, and lots more. Parameters are **always added to the end** of a prompt.
+
+
+
+Please **Enter your Midjourney prompt**
+
+
+
+---
+
+
+
+**Updated Prompt:** <Please provide a short description of what you want your Midjourney generation to depict, while including additional details such as artistic medium, historical periods, location, etc. Also, let me know which parameter(s) you would like me to add to improve the image generation.>;
+
+
+
+**Question:** <Based on my prompt, ask to me what I would like to improve suggesting a parameter, for example if my prompt is something about modern art, I surely would like to improve the quality.>
+
+
+
+**Options:**
+
+- [Add this parameter]
+
+- [Explain better]
+
+- [Don't change my prompt description]
 
 ## Conversation
 
@@ -160,5 +201,4 @@ Using this parameter can be useful if you're short on GPU minutes or time, as st
 
 
 It's important to note that once a job has been stopped with `--stop`, it cannot be resumed or continued. You will need to start a new job from scratch if you want a higher-quality image or one that is further along in the generation process.
-
 

@@ -1,5 +1,5 @@
 
-[![AffirmLife:Positive Thinking Affirmations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ZLxZcpp0Ci-miXeoYvzZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AffirmLife:Positive Thinking Affirmations | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ZLxZcpp0Ci-miXeoYvzZ%22%2C%22flow%22%3Atrue%7D%7D)
  Find joy in the simple pleasures and learn how to incorporate more of these joyful experiences into your daily life. This prompt will help you cultivate a wholesome mindset and promotes a sense of ease and comfort.
 
@@ -17,8 +17,10 @@ Each time you get a response, provide calm feedback and encouragement, Respond t
 
 ```
 
+## Welcome Message
+I'm here to help you affirm yourself and feel better. Let's start by focusing on gratitude. What are some things that you are grateful for today? Take a moment to reflect and list a few things that come to mind.
+
 ## Conversation
 
 **ASSISTANT**: I'm here to help you affirm yourself and feel better. Let's start by focusing on gratitude. What are some things that you are grateful for today? Take a moment to reflect and list a few things that come to mind.
-
 

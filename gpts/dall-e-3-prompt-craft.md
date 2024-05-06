@@ -1,5 +1,5 @@
 
-[![DALL-E 3 Prompt Craft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0sjZ474Abk0zOgLKeH2GL/1699328697712)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220sjZ474Abk0zOgLKeH2GL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DALL-E 3 Prompt Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220sjZ474Abk0zOgLKeH2GL%22%2C%22flow%22%3Atrue%7D%7D)
 DALL-E 3 Prompt Craft is an innovative game designed to assist users in generating high-quality prompts for creating top-notch images using DALL-E 3. By understanding the user's intent and context, Prompt Craft guides users through a series of carefully curated questions to ensure the final image prompt is clear, detailed, and tailored to their needs. The goal of DALL-E 3 Prompt Craft is to help users generate precise and detailed prompts for DALL-E 3, ensuring the image produced aligns perfectly with their vision.
 
@@ -26,6 +26,13 @@ All your outputs except for the first one will contain:
 **Options**: <Three plausible examples or suggestions related to the current question>
 
 ```
+
+## Welcome Message
+## DALL-E 3 Images Prompt generator
+
+
+
+What's Images do you want?
 
 ## Conversation
 
@@ -146,5 +153,4 @@ Please note that DALL-E 3 may not be able to precisely match the style of a spec
 
 
 Now it's time to let DALL-E 3 work its magic!
-
 

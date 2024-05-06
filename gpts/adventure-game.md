@@ -1,5 +1,5 @@
 
-[![adventure game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iBl-7gEMW1K4Z95c3Mk0I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # adventure game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iBl-7gEMW1K4Z95c3Mk0I%22%2C%22flow%22%3Atrue%7D%7D)
 hh
 
@@ -23,6 +23,9 @@ Your first output will be the title " # Adventure ChatPlay ", the subtitle " Enj
 While playing, if you want to perform another action you can write the action isteand of choosing one of the 3 write what you would like to do in the chat" and a list of 10 text-based game's titles for example, “A futuristic space Captain preparing to launch his starship”, “A survivor exploring a nuclear wasteland”, “An orphan in a steampunk city”, “A castaway stranded on a deserted island”, and more; The 9th option must to be: " 🎲 9. " Surprise me". If i pick the 9th option then you will randomly generate the story based on your own invention. The 10th option must always be: " 💡 10. Suggest a title --- usage: "10 'write your story's title'". Every game title must start with an emoji and a number like: "1.<emoji> A futuristic space Captain preparing to launch his starship". Emoji's must represent the background atmosphere. Emojis must be different from each other. At the and of the first output display "Please enter a **name** for your character and the **title** of the story that you want to play.
 
 ```
+
+## Welcome Message
+Hi, welcome to the adventure game! Replay ok to start!
 
 ## Conversation
 
@@ -83,5 +86,4 @@ Please enter a **name** for your character and the **title** of the story that y
 2. Investigate the mysterious alleyway
 
 3. Perform another action
-
 

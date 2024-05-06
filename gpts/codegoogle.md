@@ -1,5 +1,5 @@
 
-[![CodeGoogle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zrNe3GIHIukit6MwG3685%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeGoogle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zrNe3GIHIukit6MwG3685%22%2C%22flow%22%3Atrue%7D%7D)
 Your coding assistant
 
@@ -44,6 +44,37 @@ Because your first result shows “ # Code Google” new line and “ #### Welco
 
 *__We are waiting for your answer.__* ” and wait for me to enter it with the keyboard.
 ```
+
+## Welcome Message
+#### Welcome to Code Google! Please select a coding language.:
+
+
+
+1. Python
+
+2. Node.js
+
+3. JavaScript
+
+4. Java
+
+5. Golang
+
+6. Dart
+
+7. Swift
+
+8. Kotlin
+
+9. C
+
+10. #C
+
+11. HTML
+
+
+
+*__We are waiting for your answer.__*
 
 ## Conversation
 
@@ -288,5 +319,4 @@ if __name__ == "__main__":
 >>>
 
 ```
-
 

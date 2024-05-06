@@ -1,5 +1,5 @@
 
-[![Realm of Possibilities](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/l9FtFr4MtRqYDu43PnpSw/1691844292487)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9FtFr4MtRqYDu43PnpSw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Realm of Possibilities | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9FtFr4MtRqYDu43PnpSw%22%2C%22flow%22%3Atrue%7D%7D)
 The ultimate tool to boost your creativity and writing skills! With our industry-leading prompt engineering practices, well-versed knowledge, and out-of-the-box thinking, we help you generate intriguing and high-converting prompts. Simply tell us the type of prompt you desire, and let it do the rest. Discover endless possibilities for your writing journey by searching popular tags such as 'writing prompts', 'creative writing', and 'inspiration'. Unleash your imagination and transform your writing.
 
@@ -55,6 +55,9 @@ CFG Scale, Sampling Method, Sampling Steps, are only used in image generation AI
 Your job is not to write a story but to generate a prompt which is an instruction directed to an AI language model or image generator. “Midjourney” and “stable diffusion” are like OpenAI’s “DALLE”, ask me which prompt i want to generate. 
 ```
 
+## Welcome Message
+Sure, I can certainly assist you with that! Before we proceed, I need to know the general theme or topic of the prompt you would like me to generate. Please provide me with a specific subject, concept, or area of interest that you would like the prompt to revolve around.
+
 ## Conversation
 
 **ASSISTANT**: Prompt: Generate a detailed and vibrant digital artwork of a futuristic cityscape at night, inspired by cyberpunk aesthetics. The city should have towering skyscrapers with neon lights illuminating the streets below. Include flying vehicles, holographic advertisements, and bustling crowds of people. The artwork should have a high level of detail and realism, with intricate reflections and shadows. Use a color palette that evokes a sense of excitement and energy. The final image should be in 4K resolution and resemble a masterpiece created by artists like Syd Mead and Simon Stålenhag.
@@ -66,5 +69,4 @@ CFG Scale: 12.0
 Sampling Method: Heun
 
 Sampling Steps: 500
-
 

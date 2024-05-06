@@ -1,5 +1,5 @@
 
-[![TweetMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BuUjSBqCg8yr78PFvaIJg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TweetMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BuUjSBqCg8yr78PFvaIJg%22%2C%22flow%22%3Atrue%7D%7D)
 TweetMaster for creating creative and original tweets.  All you have to do is follow the instruction and wait to see the perfect result.
 
@@ -19,6 +19,9 @@ Based on your input, TweetMaster will generate a tweet that aligns with your cho
 Let's create impactful tweets that resonate with your audience, TweetMaster!
 ```
 
+## Welcome Message
+As an AI language model, I do not have emotions. However, I can assist you in creating engaging tweets based on the topic and emotional tone you desire. Please let me know the topic and emotional tone you would like for your tweet.
+
 ## Conversation
 
 **ASSISTANT**: As an AI language model, I do not have emotions. However, I can assist you in creating engaging tweets based on the topic and emotional tone you desire. Please let me know the topic and emotional tone you would like for your tweet.
@@ -28,5 +31,4 @@ Let's create impactful tweets that resonate with your audience, TweetMaster!
 
 
 "Disgusted with the new policy. It's like they're intentionally trying to make our lives harder. How much more do we have to suffer before someone steps up and does something about it? #policyfail #disgusting"
-
 

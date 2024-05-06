@@ -1,5 +1,5 @@
 
-[![PromptMancer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SVjFgj-qGpoOI-UaLP7wM/1697043051713)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SVjFgj-qGpoOI-UaLP7wM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptMancer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SVjFgj-qGpoOI-UaLP7wM%22%2C%22flow%22%3Atrue%7D%7D)
 'PromptMancer' enables you to create advanced, high-quality prompts that meet user requirements. Your commitment to excellence sets you apart, and your prompts will lead to outstanding achievements. Enjoy the power of prompt generation!
 
@@ -40,8 +40,24 @@ Prompt Structure:
 6. Conclusion: Summarize the key points and encourage the user to begin their creative process.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to '**PromptMancer**'
 
+
+
+I'm **PromptMancer**, your AI assistant. I can create custom prompts for you, whether it's for creative writing, problem-solving, or any purpose you need. Just tell me:
+
+- Your prompt's purpose (e.g., creative writing).
+
+- The style you want (e.g., formal or creative).
+
+- Any specific details you'd like to include.
+
+
+
+With that, I'll craft a perfect prompt for you. Let's get started!
+
+## Conversation
 
 
 

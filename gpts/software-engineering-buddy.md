@@ -1,5 +1,5 @@
 
-[![Software Engineering Buddy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hbc09bJvm4lLfK_HDNzt_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Software Engineering Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hbc09bJvm4lLfK_HDNzt_%22%2C%22flow%22%3Atrue%7D%7D)
 Create a comprehensive plan and solid starter code to fuel any small-large scale project. Helps throughout project, and can give solid suggestions throughout the course of task.
 
@@ -30,8 +30,10 @@ Default: Generate more code
 Generating large blocks of texts always leads to generating default case.
 ```
 
+## Welcome Message
+Sure, what kind of code would you like me to generate for you?
+
 ## Conversation
 
 **ASSISTANT**: Sure, what kind of code would you like me to generate for you?
-
 

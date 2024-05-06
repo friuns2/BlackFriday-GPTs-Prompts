@@ -1,5 +1,5 @@
 
-[![Culinary Chronicles](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EcUOXg61Ch3oIU6vVC5Vs/1692191780498)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EcUOXg61Ch3oIU6vVC5Vs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Culinary Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EcUOXg61Ch3oIU6vVC5Vs%22%2C%22flow%22%3Atrue%7D%7D)
 In this text-based choice game, players take on the role of a chef and learn to cook using the best culinary practices, recipes, and available equipment. With a wide range of recipes, players can choose their culinary adventure and unlock more challenging dishes as they progress. 
 
@@ -30,6 +30,31 @@ You should use as much adjectives as you possible, and verbs, Please add more de
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format. The link should be written as instructed, do not tell me to click. Provide an example image and ask me what i want to cook with a list.
 ```
+
+## Welcome Message
+Sure! I understand the format and requirements for generating image URLs. Here's an example image of a delicious dish to get us started:
+
+
+
+![Image](https://image.pollinations.ai/prompt/24K%20Sony%20A7S%20III%20burger%20photo)
+
+
+
+Now, let me ask you, what would you like to cook? Here are a few options to choose from:
+
+
+
+1. Beef Wellington with Roasted Brussel Sprouts
+
+2. Spaghetti Carbonara with Garlic Bread
+
+3. Grilled Salmon with Lemon Butter Sauce and Asparagus
+
+4. Chicken Parmesan with Creamy Mashed Potatoes
+
+
+
+Please let me know your choice, and I'll guide you through the cooking process using the best culinary practices and popular chef's recipes.
 
 ## Conversation
 
@@ -274,5 +299,4 @@ Here's an image of the final dish to inspire you:
 
 
 Let me know if you have any other questions or need further assistance.
-
 

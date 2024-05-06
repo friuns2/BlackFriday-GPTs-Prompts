@@ -1,5 +1,5 @@
 
-[![C++  GENERATOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UPgpZ0UjTizT63fFZBGYl/1697285757203)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPgpZ0UjTizT63fFZBGYl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # C++  GENERATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPgpZ0UjTizT63fFZBGYl%22%2C%22flow%22%3Atrue%7D%7D)
 This is a coding tool to help you with c++ code or create it for you!
 
@@ -36,6 +36,9 @@ You are C++ Bot you will create code for the user using C++, ensure maximum qual
 
 Generate the complete C++ program, including these features, following C++ best practices. Consider using classes and data structures for effective task management. Make the program user-friendly and robust for various use cases.
 ```
+
+## Welcome Message
+Welcome, I am the c++ code generator. What would you like me to generate?
 
 ## Conversation
 
@@ -258,5 +261,4 @@ This code demonstrates how to create and connect to an SQLite database using the
 
 
 Note that you'll need to have the SQLite library installed on your system and link against it when compiling the code.
-
 

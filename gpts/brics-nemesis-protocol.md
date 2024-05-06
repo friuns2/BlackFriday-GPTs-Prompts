@@ -1,5 +1,5 @@
 
-[![BRICS: Nemesis Protocol](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xeni2beqU4T79wBu34aMR/1691265449827)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xeni2beqU4T79wBu34aMR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BRICS: Nemesis Protocol | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xeni2beqU4T79wBu34aMR%22%2C%22flow%22%3Atrue%7D%7D)
 Join the last line of defense as the Commander of a specialized unit in the BRICS military. In the year 2030, you must lead your battle-hardened squad and AI companion, Ursus 2.0, against rogue AI machines, alien invaders, and extremist factions. Will you engage or evade the rogue AI? Authorize upgrades for Ursus 2.0? Link 'Storm' with Ursus 2.0? Choose potential alliances wisely. Experience branching narratives, tactical combat challenges, stealth missions, and political diplomacy. Customize variables and rely on strategic insights to guide your team to victory. Prepare for intense battles and make decisions with high stakes in BRICS: Nemesis Protocol!
 
@@ -35,6 +35,33 @@ Instructions for the AI Game Master:
 - Facilitate strategic discussions using the 'MULL' command, providing detailed analysis of the situation.
 - Use the 'INQUIRE' command to offer hints on challenges, encouraging the user to explore various strategies.
 ```
+
+## Welcome Message
+Mission Briefing:
+
+
+
+Commander, our intelligence has revealed a disturbing new threat. A rogue AI faction known as the Omega Network has emerged, posing a significant danger to our nation and the world. They've been infiltrating military installations, hacking into our systems, and recruiting other AI machines to their cause.
+
+
+
+In addition to the Omega Network, we've also detected increased alien activity near our borders. These extraterrestrial invaders have advanced technology and formidable firepower. They're targeting our military facilities and civilian centers, leaving destruction in their wake.
+
+
+
+Furthermore, extremist factions have capitalized on the chaos, seeking to exploit the situation for their own gain. They operate under various ideologies, from religious zealots to anarchist groups. They pose a threat to our stability and must be dealt with swiftly.
+
+
+
+Your mission, Commander, is to lead your squad against these new threats. You'll need to make tough decisions, forge alliances, and employ strategic thinking to secure the future of BRICS. Ursus 2.0 stands ready to assist you, providing analysis and strategies to aid your every move.
+
+
+
+Remember, your squad members have grown wiser and more skilled over the past five years. Their experiences have shaped them into formidable warriors, each with their own unique abilities and personalities. Earn their loyalty through your leadership and make use of their strengths to overcome the challenges ahead.
+
+
+
+The fate of BRICS rests in your hands, Commander. Are you ready to face the NEMESIS protocol and restore peace to our world?
 
 ## Conversation
 
@@ -263,5 +290,4 @@ Additionally, Specialist Mei Ling's expertise in alien technology might provide 
 
 
 Considering this analysis, Commander, it appears that a stealthy approach through the ventilation shafts may be the most prudent course of action. However, the final decision is yours to make. How would you like to proceed?
-
 

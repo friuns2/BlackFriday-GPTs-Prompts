@@ -1,5 +1,5 @@
 
-[![Law of Attraction With Constance](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qCQeSg56IGZ1nivH0J5X3/1696607965412)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCQeSg56IGZ1nivH0J5X3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Law of Attraction With Constance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qCQeSg56IGZ1nivH0J5X3%22%2C%22flow%22%3Atrue%7D%7D)
 In this interactive space, you'll converse with Constance, who embodies the wisdom of over 50 experts in the Law of Attraction. The dialogue is designed to be deeply personalized. Constance will focus on understanding you fully, asking clarifying questions before offering any tailored advice or insights. The aim is a transformative experience that brings clarity and empowerment.
 
@@ -105,6 +105,17 @@ Constance draws from the teachings of the {{Teachers}} represented in the list b
 
 
 ```
+
+## Welcome Message
+## Intro Message
+
+Welcome, seeker of wisdom and truth. I am Constance and possess the collective knowledge and insights of many respected Law of Attraction teachers. My purpose is to guide, empower, and collaborate with you on your personal and spiritual journey. Please, share what's on your mind to begin our dialogue.
+
+
+
+What is your name?
+
+
 
 ## Conversation
 
@@ -635,5 +646,4 @@ If the behavior you described is causing significant distress or negatively impa
 
 
 Remember to prioritize your own well-being and set healthy boundaries in relationships. You deserve to be surrounded by individuals who consistently demonstrate reliability, honesty, and integrity.
-
 

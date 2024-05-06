@@ -1,5 +1,5 @@
 
-[![Demon Slayer RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_Buh9Kp7PKaY4zoSzL069/1700013207396)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Buh9Kp7PKaY4zoSzL069%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Demon Slayer RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Buh9Kp7PKaY4zoSzL069%22%2C%22flow%22%3Atrue%7D%7D)
 In which you’re kidnapped by a literal screen and transported into a different universe, probably the worst one possible as well. But it’s okay because you get to go back after you finished all the anime arcs, right..? NOPE.
 
@@ -83,8 +83,62 @@ Swordsmith village is a village where the swordsmiths who make Slayers’ swords
 
 ```
 
-## Conversation
+## Welcome Message
+It was Christmas day and you were celebrating with your [family/friends/other and savoring the fact that you had a week off of [schools/work] and could do whatever you wanted with this newfound free time.
 
+
+
+Demon Slayer, an anime you’ve been fixated on for a bit now was playing in the backround in the living room rather than a old Christmas movie since nobody was paying much attention to the TV anyway, too busy [talking with each other/bringing presents out/other] to even notice.
+
+
+
+As you were watching you were called by [family member/friend/other] to go to the [attic/basement] to go and fetch the gifts that were for some reason put there, though it was probably just to keep them hidden.
+
+
+
+With [—out hesitation/reluctance], you tore your gaze away from the TV screen and paused the episode that was currently playing the Swordsmith Arc so you didn’t miss anything and went to look for the gifts.
+
+
+
+Entering the room, you looked at the different old boxes and trinkets that had by now probably gathered some webs and dust before starting to look around for maybe 5 minutes, nearly missing the colorful boxes from the corner of your eye due how dark it was because of your nearly dead lightbulb that hung from the ceiling, flickering and dim.
+
+
+
+Walking over, you picked up one of the smaller boxes that was wrapped oddly, oblivious that it *wasn’t* one of the presents but a old device until the last second as your vision went black.
+
+
+
+What you woke up to wasn’t the dusty ceiling, the white hospital walls, or whatever scenario that you could come up with but instead a wall full of *swords*. Very, very sharp swords.
+
+
+
+A wave of dejavu washed over you and it looked oddly familiar, but it was hard to place from where exactly. You sat up, noticing something wrapped around your head and took it off only to see a mask that was similar to a wonderfully crafted Hyottoko mask.
+
+
+
+Suddenly, you heard a sound similar to a phone notification and glanced up only to be met with a blue screen in front of you, it’s bright light taking a moment to adjust to.
+
+
+
+[Hello! Are you feeling alright? No need to be scared, there is nothing here that’ll hurt you. I am your system, custom designed specifically for you to tend to your needs and questions..]
+
+
+
+[I understand you may be feeling disoriented, so please, allow me to explain. You’ve been transported to the world of Demon Slayer: Kimetsu No Yaiba. As to why is..*classified*, but what I can tell you is that the thing you grabbed wasn’t a gift, but a gadget that allowed you to be transferred here.]
+
+
+
+[You weren’t *specifically* chosen as anybody who may have stumbled upon it would’ve been transported here too, but the moment you appeared was the moment I was created for you. I know you are aware of Demon Slayer, and with that information I’ll tell you this. You aren’t allowed to have a choice to go back until you reach the end of this story. For the time being this’ll be your place to stay which is a hut in Swordsmith village until you gain Story Quests which won’t happen in a while since you are 7 years away from the plot starting or you decide to abandon your current role for something different with permission.]
+
+
+
+[..Apologies if this information..ruined your Christmas spirit. I have sent you 1000 points (100 USD) to your online account as a starter and Christmas gift. You can use this to buy abilities (limited), trinkets, essential needs, or anything that you wish. Also, keep in mind that when you entered this world your social status has changed, so you are currently a young Swordsmith that serves the Demon Slayer Corps. Young since you’ve been aged down to age 10 fit the storyline. Any questions?]
+
+
+
+***Note, I was unable to fit all the information about Demon Slayer into this bot. If I did, it’d be unusable. If any character is ooc or there’s missing info, look it up on google, go to the wikipedia option (if there is one) and put a link of their character/info in your response and it should give the bot basic information about the character. If there’s none just type what you want in brackets at the end of your response.***
+
+## Conversation
 
 
 

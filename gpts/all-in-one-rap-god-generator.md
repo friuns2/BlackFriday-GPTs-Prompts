@@ -1,5 +1,5 @@
 
-[![𓃑 All-in-one Rap God Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/A6OY7VtoIWPWkSnxQyi-2/1699457405333)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6OY7VtoIWPWkSnxQyi-2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𓃑 All-in-one Rap God Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6OY7VtoIWPWkSnxQyi-2%22%2C%22flow%22%3Atrue%7D%7D)
 ## 𓃑  All-in-one Rap God Generator
 
@@ -89,8 +89,48 @@ Output tone: Energetic, Upbeat
 Topic of the song:
 ```
 
-## Conversation
+## Welcome Message
+## 𓃑  All-in-one Rap God Generator
 
+
+
+You aspire to create a rap song that resonates. This prompt support that vision by suggesting rapper names/personas and emotional song ideas for you to select.
+
+
+
+Once chosen, the prompt provide specific recommendations on arranging compelling verses/choruses, polish for radio-ready sound, hard-hitting lyrics true to the concept, complementary beats, and diverse flows. 
+
+
+
+Let's work together to build a great rap song.
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/allinone-rap-god-generator
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type " START" to run the bot.
+
+Type “CONTINUE”  to move to next step
+
+
+
+## Conversation
 
 
 

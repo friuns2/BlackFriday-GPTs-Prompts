@@ -1,5 +1,5 @@
 
-[![Midjourney prompt Generate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKJwqMgN1X_m_t8oyCToS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney prompt Generate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKJwqMgN1X_m_t8oyCToS%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney & leonardo  prompt Generate
 
@@ -82,8 +82,10 @@ Please display content in Markdown format
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the Creative Scene Generator! Please provide keywords separated by commas, so I can craft captivating scene descriptions for you. For example, you can input 'Netherlands, modern style church, tulips, beautiful clouds😊
 
+## Conversation
 
 
 

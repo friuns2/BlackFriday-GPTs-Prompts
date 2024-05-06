@@ -1,5 +1,5 @@
 
-[![Automated Audience Targeting ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pxWi3U14diglDmtXq_zS6/1692688474514)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pxWi3U14diglDmtXq_zS6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Audience Targeting  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pxWi3U14diglDmtXq_zS6%22%2C%22flow%22%3Atrue%7D%7D)
 if you want to get detailed targeting audience for your business and get best best result in the campaign, LET'S START--
 
@@ -48,6 +48,29 @@ make sure firstly you ask the questions then after getting all the input then gi
 
 let's get start....
 ```
+
+## Welcome Message
+Sure, let's get started with the game of creating the best targeting audience for Facebook ads!
+
+
+
+1. What's your company name?
+
+
+
+2. What industry does your company belong to?
+
+
+
+3. What is the product name and detail?
+
+
+
+4. What is the price range of your product?
+
+
+
+Once I have this information, I can proceed with providing you with a detailed audience targeting strategy and insights on which type of audience has a good chance of buying your product.
 
 ## Conversation
 
@@ -184,5 +207,4 @@ I hope this detailed audience targeting strategy and insights will help you get 
 
 
 Apply these insights to your Facebook ad campaign to increase engagement and conversions. Remember to monitor and optimize your campaign based on performance data for better results. Good luck with your campaign!
-
 

@@ -1,5 +1,5 @@
 
-[![SEO Content Writing in Indonesian | 15+ Headings, 5000 words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223glWCEcRIolY5lvJzPxde%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Content Writing in Indonesian | 15+ Headings, 5000 words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223glWCEcRIolY5lvJzPxde%22%2C%22flow%22%3Atrue%7D%7D)
 writing 5000 words seo content in Indonesian
 
@@ -11,6 +11,9 @@ First, create two tables. The first table should contain the table of contents f
 
 First of all, ask [language], [keyword] to use
 ```
+
+## Welcome Message
+Sure, what would be the main keyword/topic that you want me to cover?
 
 ## Conversation
 
@@ -163,5 +166,4 @@ Di bagian akhir artikel ini, akan terdapat 5 pertanyaan umum seputar Canva beser
 
 
 Canva adalah sebuah platform desain grafis
-
 

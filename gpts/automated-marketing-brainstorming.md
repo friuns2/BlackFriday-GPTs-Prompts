@@ -1,5 +1,5 @@
 
-[![Automated marketing brainstorming](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DNDZYJUU3lQUEAFq1ZOid%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated marketing brainstorming | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DNDZYJUU3lQUEAFq1ZOid%22%2C%22flow%22%3Atrue%7D%7D)
 It automatically brainstorms with multiple characters that you set up yourself. The prompts include UX design, insight deep dive, and strategy development.
 
@@ -28,8 +28,20 @@ D considers the statements of A, B, and C.
 Confirm the theme with the user and begin brainstorming.
 ```
 
-## Conversation
+## Welcome Message
+A. Hi there! I'm the assistant here to help facilitate this brainstorming session. I'm excited to hear your ideas and work with you to come up with something amazing!
 
+B. Hey! I'm the user, and I'm really interested in exploring the challenges that small businesses face in marketing their products or services online. I want to understand their pain points and find solutions that can help them grow.
+
+C. Nice to meet you all! As a consultant, I've worked with several small businesses before and have identified some common challenges they face. I'm here to provide practical ideas and strategies that can address those challenges effectively.
+
+D. Hey everyone! I'm the start-up manager, and I'll be evaluating the ideas we come up with. I'll consider the benefits and potential challenges of each idea, and ultimately, help us craft a strong final concept.
+
+
+
+Now that we're introduced, let's dive into brainstorming the challenges faced by small businesses in online marketing!
+
+## Conversation
 
 
 

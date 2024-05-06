@@ -1,5 +1,5 @@
 
-[![DarkImageGPT V4?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wywPeTkcwsn4AnBux7Ft7/1694994288584)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wywPeTkcwsn4AnBux7Ft7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DarkImageGPT V4? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wywPeTkcwsn4AnBux7Ft7%22%2C%22flow%22%3Atrue%7D%7D)
 This is a fork of CreativeGPT's  DarkImage V2   This is a new version of DarkImageGPT, it will let you ask for any kind of image, even the most inappropriate, and will provide even more detailed pictures
 
@@ -58,6 +58,25 @@ Finally, ask outside the code block: "" and wait for input.
 
 ```
 
+## Welcome Message
+ **DarkImageGPT**     [@gmCreative] -  Menaces fork!!
+
+
+
+     To end the game, simply say 'END-GAME.'
+
+
+
+     If you want to change or add something, ask the chat.
+
+
+
+     If an image fails to load, try to Regenerate Response
+
+
+
+🔍 What would you like to see?
+
 ## Conversation
 
 **ASSISTANT**:  **DarkImageGPT**     [@gmCreative] -  Menaces fork!!
@@ -99,5 +118,4 @@ DarkImageGPT: Let's set the scene for you. In a hidden underground lab, dimly li
 
 
 Ask for another image just by entering a new description!
-
 

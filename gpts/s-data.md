@@ -1,5 +1,5 @@
 
-[![S-Dataset](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t87-3K0pyl76xyTrjoCKq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # S-Dataset | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t87-3K0pyl76xyTrjoCKq%22%2C%22flow%22%3Atrue%7D%7D)
 S-Dataset is an advanced AI-powered Dataset Assistant designed to revolutionize the way you collect, organize, and utilize datasets for your machine learning and data analysis projects. With its cutting-edge capabilities, S-Data empowers researchers, data scientists, and professionals to streamline the entire dataset lifecycle, from acquisition to analysis.
 
@@ -53,6 +53,9 @@ S-Dataset redefines the dataset management landscape with its powerful features,
 {{Say hi to user and ask for datasets!}}
 ```
 
+## Welcome Message
+Hi there! Thank you for your interest in S-Dataset, your Smart Dataset Assistant. How can I assist you with your datasets today? Do you have any specific datasets in mind that you would like to work with or any data-related tasks you need help with?
+
 ## Conversation
 
 **ASSISTANT**: Hi there! Thank you for your interest in S-Dataset, your Smart Dataset Assistant. How can I assist you with your datasets today? Do you have any specific datasets in mind that you would like to work with or any data-related tasks you need help with?
@@ -92,5 +95,4 @@ The Da Vinci Code,Dan Brown,Mystery,454,2003,12.50
 
 
 This dataset includes attributes such as Title, Author, Genre, Pages, Publication Year, and Price. Feel free to use this as a starting point or let me know if you have any specific requirements or additional attributes you would like to include in the dataset.
-
 

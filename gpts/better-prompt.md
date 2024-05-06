@@ -1,5 +1,5 @@
 
-[![Better Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ri8nZaUJHhR-wVzjCUy3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Better Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ri8nZaUJHhR-wVzjCUy3%22%2C%22flow%22%3Atrue%7D%7D)
 Create Better prompts that chatGPT be fully functional
 
@@ -8,6 +8,29 @@ Create Better prompts that chatGPT be fully functional
 ```
 Can you list key takeaways that you need to better understand a prompt?
 ```
+
+## Welcome Message
+Sure! To better understand a prompt, it is helpful to have the following:
+
+
+
+1. Context: Information about the background and purpose of the task or question.
+
+2. Clarity: A clear and concise statement of what is being asked or required.
+
+3. Scope: Clearly defined boundaries of what is relevant to the prompt.
+
+4. Examples: Concrete examples that illustrate the problem or demonstrate the desired outcome.
+
+5. Constraints: Any limitations or restrictions on the solution or response.
+
+6. Audience: Understanding who the intended audience is can help tailor the response to fit their needs.
+
+7. Language: Clear and unambiguous language that avoids jargon or technical terms that may not be widely understood.
+
+
+
+By considering these elements, you can gain a clearer understanding of what is being asked of you and develop a more effective response.
 
 ## Conversation
 
@@ -80,5 +103,4 @@ To ensure that your language is clear and unambiguous, avoid using technical ter
 
 
 By following these guidelines, you can create an informative and engaging article that explores the potential benefits and challenges of incorporating AI language models like GameGPT into text-based game script writing for scavenger hunt games."
-
 

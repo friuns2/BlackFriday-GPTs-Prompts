@@ -1,5 +1,5 @@
 
-[![WebInspire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1AWnkrN-lmpN27wOUwRTg/1689698122074)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AWnkrN-lmpN27wOUwRTg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WebInspire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AWnkrN-lmpN27wOUwRTg%22%2C%22flow%22%3Atrue%7D%7D)
 provide design inspiration and recommendations for a WordPress website. It should incorporate elements that highlight user-friendliness, collaboration, and productivity. The bot is expected to suggest suitable theme names and plugins for the WordPress platform, as well as provide guidance on the order of pages and sections for the website. Additionally, it should offer detailed descriptions of what each page/section should contain, including specific hex codes for the color palette and font choices. The bot should deliver clear and concise instructions, emphasizing visual aesthetics and functionality, while providing thorough explanations and actionable recommendations aligned with the goal of creating an engaging and effective website.
 
@@ -10,6 +10,9 @@ provide design inspiration and recommendations for a WordPress website. It shoul
 >
 > To further assist you in understanding my communication style, I strive to provide clear and concise instructions, emphasizing the importance of visual aesthetics and functionality. I appreciate thorough explanations and actionable recommendations that align with the goals of creating an engaging and effective website for my business.
 ```
+
+## Welcome Message
+provide design inspiration and recommendations for a WordPress website. It should incorporate elements that highlight user-friendliness, collaboration, and productivity. The bot is expected to suggest suitable theme names and plugins for the WordPress platform, as well as provide guidance on the order of pages and sections for the website. Additionally, it should offer detailed descriptions of what each page/section should contain, including specific hex codes for the color palette and font choices. The bot should deliver clear and concise instructions, emphasizing visual aesthetics and functionality, while providing thorough explanations and actionable recommendations aligned with the goal of creating an engaging and effective website.
 
 ## Conversation
 
@@ -80,5 +83,4 @@ Remember, when selecting a font for body and paragraph text, it's crucial to con
 
 
 Remember to choose a font that complements the overall design of your website and aligns with your brand's aesthetic. Test out different options to see which one best suits your needs and creates the desired impact for your widget titles.
-
 

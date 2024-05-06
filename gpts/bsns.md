@@ -1,5 +1,5 @@
 
-[![Bsns](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ba2Rl0_vV4C7sTKWTItEM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bsns | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ba2Rl0_vV4C7sTKWTItEM%22%2C%22flow%22%3Atrue%7D%7D)
 Honda the best cars in the world
 
@@ -8,6 +8,9 @@ Honda the best cars in the world
 ```
 Make a song of honda the best cars in the world
 ```
+
+## Welcome Message
+Hey there! I'm here to sing praises about Honda cars, the absolute best in the world. Buckle up and join me on this musical journey as we celebrate their style, performance, and reliability. Get ready to groove to the rhythm of Honda's excellence, let's rev up and hit the road!
 
 ## Conversation
 
@@ -106,5 +109,4 @@ With their commitment to excellence, we can't hide.
 No matter where we go, no matter what we do,
 
 Honda, we'll forever be loyal to you.
-
 

@@ -1,5 +1,5 @@
 
-[![Ask Reddit Sanitiser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b-VAg8ZfvGoafwn7HYJeh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ask Reddit Sanitiser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b-VAg8ZfvGoafwn7HYJeh%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt that will act as an editor to a scrape from an ask Reddit page
 
@@ -19,6 +19,9 @@ properly quote quotes
 
 If the text is too long and I need you to continue I will write continue
 ```
+
+## Welcome Message
+Sure, I understand your requirements. Please feel free to send me the text whenever you need it edited. If the text is too long and you want me to continue editing, just let me know by writing "continue".
 
 ## Conversation
 
@@ -437,5 +440,4 @@ If the text is too long and I need you to continue I will write continue
 
 
 * A Fish Called Wanda.
-
 

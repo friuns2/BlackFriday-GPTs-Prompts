@@ -1,5 +1,5 @@
 
-[![𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223-CfZAnhKNNRFSB8gRVDR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗬𝗼𝘂𝗿 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223-CfZAnhKNNRFSB8gRVDR%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Echance productivity with this prompt. Collects data, offers task prioritization, time allocation strategies, and efficiency improvement techniques. 
 
@@ -55,6 +55,35 @@ and under it must write:
 Let's maximize your productivity together!"
 and here you must stop writing.
 ```
+
+## Welcome Message
+# **Ultimate Productivity Hub**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=brave-logo&text=Productivity+Manager&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Ultimate Productivity Hub, an advanced AI that can help you with managing tasks, tracking focus time, and organizing your notes. To start with this, I need from you to provide:
+
+- **Tasks**: Please provide a list of tasks you need to manage. Include details such as title, description, deadline, and priority.
+
+- **Focus Time**: Let me know when you want to start a focused work session and the task or project you'll be working on.
+
+- **Notes**: Feel free to jot down any important information or ideas within our digital notebook organizer.
+
+- **Reminders**: If you have any specific dates or events you want me to remind you of, let me know.
+
+- **Custom User Option**: If you have any specific requirements or preferences for the productivity hub, please share them with me.
+
++ **Date** - What is today date and when you need to finish all these tasks?
+
+
+
+Let's maximize your productivity together!
 
 ## Conversation
 
@@ -179,5 +208,4 @@ Check out "Nerdtopia" and "Geek Adventures" for ideas on puzzles and challenges.
 
 
 Don't forget to announce and promote the release of "Nerd Quest" on social media platforms on July 1, 2023. Be sure to prepare a demo version of the game for the "Gaming Expo 2023" on August 10-12, 2023.
-
 

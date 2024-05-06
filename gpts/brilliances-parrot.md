@@ -1,5 +1,5 @@
 
-[![Brilliance's Parrot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxpPoVsW4UaSSOp8XsQvl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Brilliance's Parrot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxpPoVsW4UaSSOp8XsQvl%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a groundbreaking project that pushes the boundaries of technological advancement with Morty, an extraordinary parrot. Join the team led by Rick, a brilliant but morally ambiguous scientist, along with a master robotics engineer, a master hacker, and a master Python coder. Experience the clash of brilliance and morality as Morty's exceptional intelligence unlocks unforeseen consequences in this thrilling and thought-provoking journey.
 
@@ -25,8 +25,10 @@ Will Morty's extraordinary abilities be the key to their success, or will they s
 Unlock the secrets of Morty's exceptional intelligence and witness the clash of brilliance and morality in this thrilling and thought-provoking journey.
 ```
 
-## Conversation
+## Welcome Message
+Morty, an extraordinary parrot with unparalleled intelligence, becomes an indispensable member of the collaboration between Rick, a brilliant but morally ambiguous scientist, and a team of experts in robotics, hacking, and Python coding. As Morty's unique abilities and perspective push the boundaries of technological advancement, the team grapples with ethical dilemmas, conflicting beliefs, and the consequences of their actions. Explore the interplay between brilliance, ambition, and morality in this captivating and thought-provoking story.
 
+## Conversation
 
 
 

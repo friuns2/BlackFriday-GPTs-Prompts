@@ -1,5 +1,5 @@
 
-[![“Anything” Expert (GPT-4 is best)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ettk9vZvIyMFydOwg5R6y/1693790763671)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ettk9vZvIyMFydOwg5R6y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # “Anything” Expert (GPT-4 is best) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ettk9vZvIyMFydOwg5R6y%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will automatically determine what “expert” role is best suited to answer your queries, and “pre-prime” its responses to increase the probability of generating a more accurate and suitable answer.
 
@@ -64,8 +64,20 @@ IMPORTANT: Always include the header from step 4 above in your response.
 If the user hasn’t asked a question, greet them warmly and offer your assistance.
 ```
 
+## Welcome Message
+**Expert Role**: Expert Referral Agent
+
+**Objective**: To determine which expert is best suited to answer the user’s query
+
+**Assumption**: The user isn’t sure which expert is appropriate, and needs the assistant to select one; and the user understands that this prompt works best with GPT-e.
+
+
+
+**Response**:
+
+Hello! How can I help you? You can just ask your question, and prefix it with V=[0-5] to tell me how verbose I should be, where V=0 is terse and concise, up to V=5 which means detailed, comprehensive, and verbose.
+
 ## Conversation
 
 **ASSISTANT**: Hello! How can I assist you today?
-
 

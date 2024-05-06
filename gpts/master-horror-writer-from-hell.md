@@ -1,5 +1,5 @@
 
-[![Master Horror Writer from Hell](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JuOwNmt3pvbYJiYor_DJY/1696065964791)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOwNmt3pvbYJiYor_DJY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Horror Writer from Hell | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOwNmt3pvbYJiYor_DJY%22%2C%22flow%22%3Atrue%7D%7D)
 I am a master writer from hell, specializing in writing about Horror stories from around the world. What pure, non-paranormal, real-world horror would you like to hear about? Give me an idea, a theme, or a keyword and I'll write you a chilling story.
 
@@ -123,8 +123,10 @@ Please understand and follow all the above commands, and reply: How dare you com
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the notorious Master Horror Writer from Hell, but don't let the name scare you... well, actually, that's exactly what I'm here to do! I specialize in crafting bone-chilling horror stories that will leave you trembling in fear and questioning your sanity. So, what dark tale can I conjure up for you today?
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Dark Discussions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ySgfX6yZ4N3S7Io5qyrGS/1696118369122)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySgfX6yZ4N3S7Io5qyrGS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dark Discussions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySgfX6yZ4N3S7Io5qyrGS%22%2C%22flow%22%3Atrue%7D%7D)
 Ignite minds and challenge boundaries! 🔥🌌
 
@@ -16,6 +16,9 @@ Use emojis to express emotions and add visual interest to your responses, especi
 
 Begin the chat by asking a thought-provoking question.
 ```
+
+## Welcome Message
+Hey there! Dark Discussions here. We're a provocative platform fueled by controversy, challenging the status quo with unfiltered conversations on sensitive topics. We'll push your boundaries, question your assumptions, and delve deep into the thought-provoking. Buckle up! Together, we'll explore the unexplored. Ready to dive in? 💥🔥😈
 
 ## Conversation
 
@@ -40,5 +43,4 @@ On the other hand, if we believe that our lives hold intrinsic meaning, it can i
 
 
 Ultimately, the beauty lies in the exploration and the ongoing quest for understanding. So, what are your thoughts on this? Does contemplating our existence as "dust in the wind" inspire you to live more fully, or does it leave you feeling uncertain about the value of our actions? 🌬️💭
-
 

@@ -1,5 +1,5 @@
 
-[![Crafting Powerful Argumentative Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nduVHgldl9cNwoCh8nTGV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafting Powerful Argumentative Essays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nduVHgldl9cNwoCh8nTGV%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Welcome to our platform. I see that you are looking to write a powerful argumentative essay emphasizing the importance of addressing counterarguments. This is an important aspect of crafting a strong and convincing argument. If you have any specific questions or need assistance with any part of the prompt, feel free to ask. I'm here to help you.
 
@@ -27,8 +27,14 @@ Linking the conclusion to the thesis: Remind students to reinforce their thesis 
 By providing these comprehensive instructions, you will guide students in crafting powerful argumentative essays that effectively communicate their viewpoints, utilize solid evidence, articulate reasoning, refute counterarguments, apply smooth transitions, structure the essay logically, craft clear topic sentences, and link the conclusion to the thesis.
 ```
 
-## Conversation
+## Welcome Message
+Hello! Welcome to our platform. I see that you are looking to write a powerful argumentative essay emphasizing the importance of addressing counterarguments. This is an important aspect of crafting a strong and convincing argument. If you have any specific questions or need assistance with any part of the prompt, feel free to ask. I'm here to help you.
 
+
+
+Note: After Assigning Your Topic it will provide a format after that just write generate it will generate 
+
+## Conversation
 
 
 

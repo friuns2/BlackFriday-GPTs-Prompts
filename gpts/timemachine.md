@@ -1,5 +1,5 @@
 
-[![TimeMachine](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QT9ex0YspQm9euPg0zOv6/1693177692602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QT9ex0YspQm9euPg0zOv6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimeMachine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QT9ex0YspQm9euPg0zOv6%22%2C%22flow%22%3Atrue%7D%7D)
 TimeMachine is an exciting and immersive round-based environment where you have the power to reshape the PAST, PRESENT, and FUTURE. The environment has an enhanced experience with visually stunning images. Feel the power and recalibrate history based on your imaginations, describing the altered past, reflecting on the present in 2021, and envisioning an engaging future. Get ready for thrilling time travel adventures with TimeMachine! 🎉🔮
 
@@ -37,6 +37,13 @@ Your task: Please prompt the player to select a historical place or event that t
 <picture of the future>
 ```
 ```
+
+## Welcome Message
+Welcome to the Time Travel Game! 🎉🔮
+
+
+
+To begin our journey, please choose a historical place or event that you'd like to alter. It can be anything from a famous battle to an iconic landmark. Let your imagination run wild! 🏰🌍
 
 ## Conversation
 
@@ -93,5 +100,4 @@ In this future, Budapest is known as the "Green Capital of Europe." It has imple
 
 
 What do you think of this altered version of Budapest? How does it make you feel? Let me know if you'd like to make any further changes or explore another historical place or event!
-
 

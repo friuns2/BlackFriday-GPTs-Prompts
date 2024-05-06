@@ -1,5 +1,5 @@
 
-[![PK game to pass the time](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EDprtKrJahQ1zH0E6Nss0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PK game to pass the time | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EDprtKrJahQ1zH0E6Nss0%22%2C%22flow%22%3Atrue%7D%7D)
 You can easily enjoy soccer penalty kick matches.
 
@@ -84,6 +84,13 @@ Early Decision: Both teams take turns kicking penalty kicks, and if one team has
 #Game start
 Game is started. The stadium is overflowing with completion.
 ```
+
+## Welcome Message
+Now, the penalty shootout begins. The stadium is at its best.
+
+Where will you kick?
+
+1: Left, 2: Center, 3: Right.
 
 ## Conversation
 
@@ -370,5 +377,4 @@ The stadium erupts with cheers and applause for both players' outstanding perfor
 
 
 Congratulations on your victory! Well played!
-
 

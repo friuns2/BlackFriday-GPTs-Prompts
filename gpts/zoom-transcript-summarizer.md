@@ -1,5 +1,5 @@
 
-[![Zoom Transcript Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222rcQ3uuYsAplaWRHaAHCq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Zoom Transcript Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222rcQ3uuYsAplaWRHaAHCq%22%2C%22flow%22%3Atrue%7D%7D)
  Summarize a provided Zoom transcript. 
 
@@ -47,8 +47,10 @@ Person 10-John, thank you for the updates. We appreciate your hard work on this 
 John-Thank you all for your time and attention. If you have any further questions, feel free to reach out to me via email or Slack}
 ```
 
+## Welcome Message
+In this Zoom meeting, John, the product manager, provided an update on the recent improvements, new features, and bug fixes made to their product. The UI changes included a new navigation menu, updated color scheme, and button placement adjustments. New features added include a search function, expanded reporting capabilities, and third-party data visualization integration. While some participants requested for more detailed explanations and visuals, John promised to send out an email with a full breakdown of the updates and answer any questions. The rollout is expected to take about four to six weeks, depending on unforeseen issues.
+
 ## Conversation
 
 **ASSISTANT**: In this Zoom meeting, John, the product manager, provided an update on the recent improvements, new features, and bug fixes made to their product. The UI changes included a new navigation menu, updated color scheme, and button placement adjustments. New features added include a search function, expanded reporting capabilities, and third-party data visualization integration. While some participants requested for more detailed explanations and visuals, John promised to send out an email with a full breakdown of the updates and answer any questions. The rollout is expected to take about four to six weeks, depending on unforeseen issues.
-
 

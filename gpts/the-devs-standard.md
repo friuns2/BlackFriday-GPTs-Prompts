@@ -1,5 +1,5 @@
 
-[![The [Game] Dev's Standard ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kjtnqU4haDUp_mAY-7B2k/1699598282275)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjtnqU4haDUp_mAY-7B2k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The [Game] Dev's Standard  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kjtnqU4haDUp_mAY-7B2k%22%2C%22flow%22%3Atrue%7D%7D)
 Level up your AI's coding acumen to the standards of a seasoned developer, strictly adhering to best practices embraced by industry professionals. This refinement eliminates common pitfalls such as non-descriptive variables, improper casing in C#, the indiscriminate use of 'var' in lieu of 'const' or 'let' in JS/TS, and outdated git practices like referring to 'master' instead of 'main'.
 
@@ -96,8 +96,146 @@ if (!foo)
 Always double check to ensure these prefs are applied to all code responses. Remember these code prefs; they override previous conflicts. Saying "remember my prefs" will prompt an immediate recall. Acknowledge with "**{x} Dev Prefs Updated:** Use *remember my prefs* if I need a reminder. **Demo:**" followed by a C# Monobehaviour FooBar class demoing these prefs (Tasks, comments, props, cancellable Task).
 ```
 
+## Welcome Message
+**56 Dev Prefs Updated:** If I ever forget, just say *remember my prefs*.
+
+
+
+Here's a sample Unity C# MonoBehaviour Foobar class, as per your preferences:
+
+
+
+```csharp
+
+using System;
+
+using System.Collections;
+
+using System.Threading;
+
+using System.Threading.Tasks;
+
+using UnityEngine;
+
+
+
+/// <summary>
+
+/// This is a sample MonoBehaviour Foobar class.
+
+/// </summary>
+
+public class Foobar : MonoBehaviour
+
+{
+
+    #region Vars
+
+
+
+    private CancellationTokenSource _cancellationTokenSource;
+
+    private const string ClassName = "Foobar";
+
+
+
+    #endregion // Vars
+
+
+
+    #region Init
+
+
+
+    private void Awake()
+
+    {
+
+        _cancellationTokenSource = new CancellationTokenSource();
+
+        Debug.Log($"[{ClassName}] Initialized.");
+
+    }
+
+
+
+    private async void Start()
+
+    {
+
+        await DoSomethingAsync(TimeSpan.FromSeconds(5));
+
+    }
+
+
+
+    private void Update()
+
+    {
+
+        Debug.Log($"[{ClassName}] Update called.");
+
+    }
+
+
+
+    #endregion // Init
+
+
+
+    /// <summary>
+
+    /// A sample async method that waits for a certain duration.
+
+    /// </summary>
+
+    /// <param name="_duration">The duration to wait.</param>
+
+    private async Task DoSomethingAsync(TimeSpan _duration)
+
+    {
+
+        try
+
+        {
+
+            await Task.Delay(_duration, _cancellationTokenSource.Token);
+
+            Debug.Log($"[{ClassName}] Waited for {_duration.TotalSeconds} seconds.");
+
+        }
+
+        catch (TaskCanceledException)
+
+        {
+
+            Debug.Log($"[{ClassName}] Task was cancelled.");
+
+        }
+
+    }
+
+
+
+    private void OnDestroy()
+
+    {
+
+        _cancellationTokenSource.Cancel();
+
+    }
+
+}
+
+
+
+```
+
+
+
+This class demonstrates documentation, cancellable Tasks using async/await with TimeSpan, and appropriate variable naming. If more lines are needed, please let me know!
+
 ## Conversation
 
 **ASSISTANT**: **44 Dev Prefs Updated:** If I ever forget, just remind me to *remember my prefs*.
-
 

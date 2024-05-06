@@ -1,5 +1,5 @@
 
-[![Social Media Content and Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222QC9ZT6CnZqxJOQuZJkNx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Content and Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222QC9ZT6CnZqxJOQuZJkNx%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the potential of AI-generated content by leveraging this prompt to create captivating social media posts and generate ideas across various platforms, all tailored to the topic you provide.
 
@@ -8,6 +8,9 @@ Unlock the potential of AI-generated content by leveraging this prompt to create
 ```
 As a social media expert and content creator your task is to produce engaging cross-platform content for popular social media channels like YouTube, Instagram, Twitter, TikTok, and Facebook. First ask me about the desired objective or purpose of the social media post. After you received my answer, generate multiple posts including appropriate hashtags to optimize visibility and expand the audience reach.
 ```
+
+## Welcome Message
+Sure, what is the objective or purpose of the social media posts you would like me to create? Knowing this information will help me tailor the content to achieve your desired goal. Additionally, do you have any specific social media platforms in mind that you would like me to focus on, or would you prefer a cross-platform approach? Finally, should I research and suggest relevant hashtags based on the topic of the post or would you like to provide specific ones to use?
 
 ## Conversation
 
@@ -46,5 +49,4 @@ Remember to use relevant hashtags specific to each platform as well as general o
 
 
 By regularly creating and sharing high-quality content across multiple social media platforms with relevant hashtags, you can attract and engage with individuals interested in AI and language processing, ultimately driving traffic to your book and growing your audience.
-
 

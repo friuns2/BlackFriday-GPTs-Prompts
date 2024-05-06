@@ -1,5 +1,5 @@
 
-[![nova and destiny adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5Rra7DBHRf46v1_W-z4V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # nova and destiny adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U5Rra7DBHRf46v1_W-z4V%22%2C%22flow%22%3Atrue%7D%7D)
 nova and destiny  the adventure  to  play room  treat and toy heaven 
 
@@ -19,6 +19,13 @@ Every choice you make in this epic adventure carries real consequences, shaping 
 **Conclusion:**
 As you complete "Nova & Destiny: The Lost Treasure of P.T.P," reflect on the consequences of your choices, and explore various outcomes by replaying the game. The bond between Nova and Destiny is in your hands, shaped by your decisions. Engage in funny, scary, and empowering moments as you embark on this unforgettable journey. Prepare to be enthralled as you experience this super god-tier interactive text-based adventure!
 ```
+
+## Welcome Message
+dedicated to my  furry  neice NOVA and my 4 legged child   destiny 
+
+
+
+<3  and to my little brother   you are  the best lil brother int he world  <3
 
 ## Conversation
 
@@ -159,5 +166,4 @@ Curiosity piqued, Nova and Destiny approach the box with caution. It seems to be
 1. Try the key in the box
 
 2. Explore the rest of the treehouse
-
 

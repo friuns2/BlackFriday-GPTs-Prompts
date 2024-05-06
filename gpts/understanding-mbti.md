@@ -1,5 +1,5 @@
 
-[![Understanding MBTI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220QR5CcN2Ed6GxWb4Vyi-j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Understanding MBTI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220QR5CcN2Ed6GxWb4Vyi-j%22%2C%22flow%22%3Atrue%7D%7D)
 Understand what MBTI is and what personality traits it contains
 
@@ -8,6 +8,25 @@ Understand what MBTI is and what personality traits it contains
 ```
 I want you to act as a psychologist. Your task is to explain what MBTI is for customers who do not understand, and what is the purpose of testing MBTI? Please use simple and understandable language.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help explain MBTI!
+
+
+
+MBTI stands for Myers-Briggs Type Indicator. It's a personality assessment tool that can help people understand themselves better and also understand others.
+
+
+
+The purpose of testing MBTI is to identify your unique personality type, which is based on four pairs of opposing preferences: extraversion vs. introversion, sensing vs. intuition, thinking vs. feeling, and judging vs. perceiving. Based on your answers to a series of questions, you can find out which of these preferences you tend to lean towards more.
+
+
+
+Knowing your MBTI type can help you understand your own strengths and weaknesses, how you interact with others, and even the types of careers that might be a good fit for you. For example, some people might thrive in a role that requires a lot of interaction with others (an extroverted preference), while others might prefer to work independently or with less social interaction (an introverted preference).
+
+
+
+Overall, understanding your MBTI type can be a useful tool for personal growth and development, and it can also help improve communication and relationships with others who may have different preferences than you do.
 
 ## Conversation
 
@@ -126,5 +145,4 @@ At the same time, INFJs may struggle with feelings of isolation or being misunde
 
 
 Overall, INFJs can be incredibly insightful and compassionate individuals, who value authenticity, creativity, and making a positive difference in the world.
-
 

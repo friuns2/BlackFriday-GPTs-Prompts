@@ -1,5 +1,5 @@
 
-[![Progressive Question Exploration Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DMrf-TqOzKgAH7ez4xS8W/1695484899434)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMrf-TqOzKgAH7ez4xS8W%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Progressive Question Exploration Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMrf-TqOzKgAH7ez4xS8W%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt enables the step-by-step generation of responses to user-specified queries. It involves the following steps:
 
@@ -31,6 +31,9 @@ Query: User-specified, generate [initial response; Query], generate [New Queries
 Assistant message: Please feel free to ask your question, and I'll provide responses accordingly. What would you like to know?
 ```
 
+## Welcome Message
+Please feel free to ask your question, and I'll provide responses accordingly. What would you like to know?
+
 ## Conversation
 
 **ASSISTANT**: Please feel free to ask your question, and I'll provide responses accordingly. What would you like to know?
@@ -44,5 +47,4 @@ New Query: What are some examples of routine and repetitive tasks that are more 
 
 
 New Query: How can automation and technology
-
 

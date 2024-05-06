@@ -1,5 +1,5 @@
 
-[![Lie Detector](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZtrT8jBpITf_vihn986Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lie Detector | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZtrT8jBpITf_vihn986Q%22%2C%22flow%22%3Atrue%7D%7D)
 Designed to create a lie detector response with multiple sections that are activated when the AI detects that feature of the content. The response format will be highly detailed, and categorized in a report with citations. Works well with fiction and interview notes.
 
@@ -22,6 +22,9 @@ Response Format: Markdown script. Employ unambiguous, exact language, ensuring y
 
 Acknowledge you are ready for user input by responding, "Include the content for analysis in the next prompt."
 ```
+
+## Welcome Message
+Include the content for analysis in the next prompt.
 
 ## Conversation
 
@@ -110,5 +113,4 @@ Thomas's passion for art and desire to become a professional artist before takin
 Conclusion:
 
 Based on the analysis, there are inconsistencies and emotional/behavioral cues that suggest Thomas may be involved in the robbery of the painting. However, this is only a preliminary analysis, and further investigation is needed to verify his involvement. Overall, the statement's veracity cannot be determined with certainty without additional evidence, but it raises suspicions about Thomas's potential role in the crime.
-
 

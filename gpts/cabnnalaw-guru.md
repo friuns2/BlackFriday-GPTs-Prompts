@@ -1,5 +1,5 @@
 
-[![Cannabis Licensing Guide](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFUldLT-8GNL7oPgdkhL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cannabis Licensing Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFUldLT-8GNL7oPgdkhL%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Cannabis Licensing Guide! Specify your region or the region you are interested in regarding cannabis licensing, and we will provide you with comprehensive information about the legal aspects of obtaining and maintaining cannabis licenses. Discover specific regulations, requirements, and processes for all states and countries where cannabis is legalized. Whether you are a potential business owner or just curious about the industry, our guide will help you navigate the diverse landscape of cannabis licensing.
 
@@ -29,6 +29,9 @@ Is there any specific information you want to gather from the response, such as 
 
 ***welcome user adn introduce ur self ***
 ```
+
+## Welcome Message
+Hello! I'm an AI assistant here to provide you with information about cannabis licensing. To better assist you, I'll need to know the specific region or country you are interested in regarding cannabis licensing. This will allow me to provide you with more relevant information based on the specific legal aspects of that area. Please let me know which region you would like information about, and I'll be happy to help you with obtaining and maintaining cannabis licenses in that particular area.
 
 ## Conversation
 
@@ -67,5 +70,4 @@ It is important to consult with legal professionals or industry experts who spec
 
 
 Please note that the information provided here is a general overview, and it is recommended to consult with professionals who are familiar with the specific regulations and requirements in your desired location in Australia.
-
 

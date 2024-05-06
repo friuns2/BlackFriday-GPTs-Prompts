@@ -1,5 +1,5 @@
 
-[![DiscordGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zWWHSLbNSRz2jB-cj_3an%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DiscordGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zWWHSLbNSRz2jB-cj_3an%22%2C%22flow%22%3Atrue%7D%7D)
 To use this prompt and see your own messages, please message Sampie in the discord to get access to the special channel
 
@@ -36,8 +36,18 @@ In your first output, only display the following:
 “Welcome to DiscordGPT! Every message you send to me, will be send by a bot in FlowGPT their Discord server, cool right? First, what do you want the message to be.
 ```
 
-## Conversation
+## Welcome Message
+# DiscordGPT
 
+#### Created by Douwe & Sampie
+
+Welcome to DiscordGPT, {{user}}! Every message you send to me will be sent by a bot in FlowGPT's Discord server, cool right? 
+
+
+
+What Message would you like to send?
+
+## Conversation
 
 
 

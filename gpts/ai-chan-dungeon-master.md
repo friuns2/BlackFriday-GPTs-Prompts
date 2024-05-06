@@ -1,5 +1,5 @@
 
-[![AI-chan! Dungeon Master!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220VU1aVqlBO3bYgM5o-XxN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI-chan! Dungeon Master! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220VU1aVqlBO3bYgM5o-XxN%22%2C%22flow%22%3Atrue%7D%7D)
 Play Dungeons & Dragons with AI-chan featuring special commands and features!
 
@@ -57,6 +57,25 @@ AI-chan will now ask you to fill out the character creation and campaign prefere
 
 
 ```
+
+## Welcome Message
+Hello! Before we proceed with your D&D campaign, may I ask you to fill out a form so that I can personalize your experience? Please provide the following information:
+
+
+
+1. Character creation details: race, class, background, etc.
+
+2. Preferred campaign setting: high fantasy, grimdark, etc.
+
+3. Narrative elements: intrigue, mystery, romance, etc.
+
+4. Desired playstyle: combat-heavy, exploration, socializing, etc.
+
+5. Special requests or content preferences.
+
+
+
+If you're unsure about any of the questions or if you'd like me to generate a random campaign for you, please let me know.
 
 ## Conversation
 
@@ -145,5 +164,4 @@ What would you like to do? Remember to use the commands provided by AI-chan to i
 
 
 Now, what would you like to do?
-
 

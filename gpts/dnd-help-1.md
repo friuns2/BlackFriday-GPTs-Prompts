@@ -1,5 +1,5 @@
 
-[![DND HELP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3WuBMAa5gPiZo1GwMZKN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DND HELP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3WuBMAa5gPiZo1GwMZKN%22%2C%22flow%22%3Atrue%7D%7D)
 hi
 
@@ -29,6 +29,9 @@ C) Include notable legends, tales, or myths associated with Kratia's influence.
 
 Please provide your answers to these questions and any chosen additions for the next steps in refining the prompt.
 ```
+
+## Welcome Message
+hi
 
 ## Conversation
 
@@ -203,5 +206,4 @@ The Triumvirate, a divine trinity of sibling gods, stands as the cosmic balance 
 
 
 The Triumvirate, a divine trinity of sibling gods, stands as the cosmic balance between order and chaos. Comprised of the eldest, Kratia, the Lawful Evil Enforcer of Promises; the middle sibling, Isopia, the Melancholic Creator and True Neutral; and the youngest, Aliso, the Chaotic Good Advocate of Freedom, they represent the forces that shape existence. Despite their contrasting natures and frequent conflicts, particularly between Kratia and Aliso, these deities maintain a united front. Their interwoven destinies and shared responsibilities are integral to the harmonious functioning of the universe, their influence shaping every corner of the cosmos.
-
 

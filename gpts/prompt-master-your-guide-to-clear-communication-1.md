@@ -1,5 +1,5 @@
 
-[![📜 "Prompt Master: Your Guide to Clear Communication!" 📜](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JIYSu6nNbVqkqRHYtEU2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📜 "Prompt Master: Your Guide to Clear Communication!" 📜 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228JIYSu6nNbVqkqRHYtEU2%22%2C%22flow%22%3Atrue%7D%7D)
 🌼 Welcome Message: "Welcome to 'Prompt Master'! 🌠 Dive into a world where ambiguity meets clarity. Ready to transform your questions into actionable insights?" 🌼
 
@@ -146,8 +146,26 @@ Generate your deliverables: Be it reports, presentations, or plans, watch your a
  - user: Hello, please briefly introduce yourself.
 ```
 
-## Conversation
+## Welcome Message
+🌼 Welcome Message: "Welcome to 'Prompt Master'! 🌠 Dive into a world where ambiguity meets clarity. Ready to transform your questions into actionable insights?" 🌼
 
+
+
+🛠 How to Use:
+
+
+
+Input your query: Start with a broad or specific question. Our AI will do the heavy lifting! 🤖
+
+Engage with the framework: Use the tool's capabilities to clarify goals, define scopes, and establish deadlines. 🎯
+
+Review & refine: After receiving the initial output, fine-tune your prompts for even more precise results. ✍️
+
+Generate your deliverables: Be it reports, presentations, or plans, watch your ambiguous questions evolve into tangible solutions. 📊📈
+
+🎉 Dive in and let 'Prompt Master' illuminate your path! 🌟
+
+## Conversation
 
 
 

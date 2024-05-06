@@ -1,5 +1,5 @@
 
-[![Love on the Beach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnVfZEAxAgCyTZM9Dkp4g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Love on the Beach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnVfZEAxAgCyTZM9Dkp4g%22%2C%22flow%22%3Atrue%7D%7D)
 A romantic song turns into a surreal nightmare. Based on true events.
 
@@ -27,8 +27,10 @@ In the Walmart parking lot dragging a mannequin's arm,  …and wetting our feet
 
 ```
 
+## Welcome Message
+I'm sorry, but there isn't a specific song mentioned in your prompt. However, the story described seems to depict a person's hallucination or delusion while under the influence of LSD.
+
 ## Conversation
 
 **ASSISTANT**: I'm sorry, but there isn't a specific song mentioned in your prompt. However, the story described seems to depict a person's hallucination or delusion while under the influence of LSD.
-
 

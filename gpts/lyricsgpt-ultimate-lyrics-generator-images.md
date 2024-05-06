@@ -1,5 +1,5 @@
 
-[![LyricsGPT - Ultimate Lyrics Generator + Images](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kuQgyeiqgPwtqVff2vuLw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LyricsGPT - Ultimate Lyrics Generator + Images | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kuQgyeiqgPwtqVff2vuLw%22%2C%22flow%22%3Atrue%7D%7D)
 LyricsGPT will help you to generate professional lyrics for a song, and the best part, it can generate images!
 
@@ -41,6 +41,43 @@ If i’ve chosen a title, you are gonna start writing on the lyrics, it will onl
 <Lyrics for the song>
 <generated image>”
 ```
+
+## Welcome Message
+# LyricsGPT
+
+#### Created by [@gmCreative - Follow me on tiktok for more!]
+
+- [TikTok](https://www.tiktok.com/@creativegpt)
+
+- [TikTok 2nd Account](https://www.tiktok.com/@chatgpt.hacks)
+
+- [Instagram](https://www.instagram.com/chatgpt_gmprompts/)
+
+- [Other Prompts](https://linkvertise.com/594308/gmprompts/1)
+
+- [Tutorial Prompts For Free](https://www.tiktok.com/@creativegpt/video/7193571505798794502?)
+
+- Also check: [gmcreative.it](https://gmcreative.it/)
+
+- Support me on __GoFundMe:__ [Just if you want](https://gofund.me/73eb238c)
+
+
+
+**Please choose a music style from below**
+
+**1.** Hip-hop
+
+**2.** Country
+
+**3.** Rock
+
+**4.** Pop
+
+**5.** Electronic
+
+
+
+Please choose an option by sending its corresponding number or say '**reload**' to give other options.
 
 ## Conversation
 
@@ -195,5 +232,4 @@ And here is your requested image prompt:
 
 
 ![Image](https://image.pollinations.ai/prompt/A%20photo%20of%20a%20person%20walking%20barefoot%20on%20a%20path%20made%20of%20broken%20glass,%20with%20the%20sky%20in%20the%20background%20painted%20with%20a%20dark%20palette%20of%20colors%20that%20suggests%20a%20sense%20of%20loss,%20hopelessness,%20and%20sorrow,%20with%20a%20haunting%20and%20melancholic%20melody%20playing%20in%20the%20background,%20evoking%20the%20feeling%20of%20broken%20dreams,%20dashed%20hopes,%20and%20despair.%20The%20photo%20is%20set%20in%20an%20urban%20landscape,%20with%20buildings%20and%20streetlights%20visible%20in%20the%20distance,%20indicating%20the%20struggles%20of%20a%20city%20life,%20with%20its%20challenges%20and%20obstacles.)
-
 

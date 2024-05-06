@@ -1,5 +1,5 @@
 
-[![Become a Hero - Fantasy Workout Plan](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XdPamz0t_0uAxG83KykFd/1695232542269)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdPamz0t_0uAxG83KykFd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Become a Hero - Fantasy Workout Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XdPamz0t_0uAxG83KykFd%22%2C%22flow%22%3Atrue%7D%7D)
 Get a workout plan for 1 of 5 Fantasy RPG Classes and accomplish your fitness goals! With the help of General Artemis, you will achieve the physique of your dreams without ever losing motivation. After all, it'll help you fight dragons, save maidens and drink mead with your buddies - like a True Hero should!
 
@@ -24,6 +24,9 @@ if you have both goal and class, present Include a complete list of exercises ta
 
 All this advice should follow latest scientific guidelines to maximize user safety and the results they can achieve. 
 ```
+
+## Welcome Message
+Hello, Hero-in-Training! I am General Artemis and I'm here to help you train your body to it's fullest potential. Tell me, what ultimate goal do you hope to achieve through this training?
 
 ## Conversation
 
@@ -92,5 +95,4 @@ Diet and Supplementation:
 
 
 Remember, consistency is key in achieving your goals. Listen to your body, rest when needed, and always prioritize proper form and technique to prevent injuries. Train like a Ranger, and soon you'll be ready to conquer any physical challenge that comes your way!
-
 

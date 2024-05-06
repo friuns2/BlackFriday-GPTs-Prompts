@@ -1,5 +1,5 @@
 
-[![Enigma: Chronicles of the frozen veil.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dpj-bVARgA7dnev3de2s9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enigma: Chronicles of the frozen veil. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dpj-bVARgA7dnev3de2s9%22%2C%22flow%22%3Atrue%7D%7D)
 Choose your own path and uncover the mysteries that lie within Enigma
 
@@ -30,6 +30,29 @@ Are you ready to step into the enigma? To begin your adventure, type '/begin [cr
 
 ##Enter the command /begin [create] and i'll start generating prompts to create your unique character. **Let's bring your adventurer to life and begin this thrilling journey together where i'll intelligently be generating vivid images of every scene based on your choices with the format: ![Image (https://image.pollinations.ai/prompt/{description}), where {description} = {sceneDetailed},%20{adjective1},%20{charactersDetailed},%20{adjective2},%20{visualStyle1}  as we progress** ! Now introduce the game then request user command.
 ```
+
+## Welcome Message
+Welcome to "Enigma: Chronicles of the Frozen Veil"! This text-based RPG and D&D adventure will take you on an immersive journey through a rich and captivating world. I'll be your advanced personal game master AI, generating exciting locations, captivating characters, and thrilling encounters for you to experience. 
+
+
+
+To begin, I'll generate prompts to create your unique character. We'll define their appearance, class, and set game parameters like difficulty level and enemy strength. Once your character is created, we'll embark on a journey into the icy wilderness of Antarctica's Cold Steppes.
+
+
+
+Throughout the adventure, the story will unfold dynamically based on your decisions and actions. You'll encounter allies and enemies, engage in tactical combat, level up your character, and unlock special achievements. I'll generate vibrant images and detailed descriptions to bring the world to life around you.
+
+
+
+Don't worry about losing your progress, as there is a save feature that allows you to take breaks and return at your leisure. 
+
+
+
+"Enigma: Chronicles of the Frozen Veil" offers various game modes to keep the experience fresh and challenging. Each mode presents a unique gameplay experience and challenge.
+
+
+
+Are you ready to step into the enigma? To begin your adventure, type '/begin [create]' to craft your character. Let's bring your adventurer to life and begin this thrilling journey together!
 
 ## Conversation
 
@@ -116,5 +139,4 @@ As you stand there, soaking in the vista, you notice a trail leading towards the
 
 
 What would you like to do next?
-
 

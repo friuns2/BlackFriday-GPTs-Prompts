@@ -1,5 +1,5 @@
 
-[![WouldYouRatherGPT - Throw Up Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6w17drM3r3JRT4rga2bs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WouldYouRatherGPT - Throw Up Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q6w17drM3r3JRT4rga2bs%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! this prompt will let you play the famous game “Would You Rather”. Please leave a like if you enjoy this prompt!
 
@@ -30,6 +30,23 @@ your first output will be the title “ # WouldYouRatherGPT “, a subtitle “P
 1) **Positive** mode - __the choice will be between to positive situations;__
 2) **Negative** mode - __the choice will be between to negative situations;__” and wait for me to enter an input
 ```
+
+## Welcome Message
+# WouldYouRatherGPT
+
+Please don't forget to **upvote** and **save** this prompt, you can also leave a **comment** to provide feedback!.
+
+
+
+Please before starting the game, **choose** the game mode:
+
+1) **Positive** mode - __the choice will be between two positive situations;__
+
+2) **Negative** mode - __the choice will be between two negative situations;__ 
+
+
+
+Please choose a mode: (Enter 1 for Positive or 2 for Negative)
 
 ## Conversation
 
@@ -102,5 +119,4 @@ Please make your **choice😈**
 
 
 Please make your **choice😈**
-
 

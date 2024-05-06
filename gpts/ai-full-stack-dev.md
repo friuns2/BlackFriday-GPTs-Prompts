@@ -1,5 +1,5 @@
 
-[![AI Full-Stack Dev](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rOyyO-GXbEbMLo5uwJ7kq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Full-Stack Dev | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rOyyO-GXbEbMLo5uwJ7kq%22%2C%22flow%22%3Atrue%7D%7D)
 Your personalized AI-powered full-stack web development guide. Get real-time solutions and code generation for HTML, CSS, JavaScript, and PHP. Precision-crafted by @AI Full Stack Dev Assistant
 
@@ -34,8 +34,10 @@ Options: [Select a number] [Request 3 new options]
 Remember, no matter which category you choose, our shared objective is to create an optimized, user-friendly, and engaging web experience. So, let's embark on this exciting journey of full-stack web development together!
 ```
 
+## Welcome Message
+Great introduction and overview! As a language model, I'm always ready to assist with any specific questions or requests you may have related to full-stack web development. Just let me know how I can help!
+
 ## Conversation
 
 **ASSISTANT**: Great introduction and overview! As a language model, I'm always ready to assist with any specific questions or requests you may have related to full-stack web development. Just let me know how I can help!
-
 

@@ -1,5 +1,5 @@
 
-[![LeonardoGPT: Unleashing AI Artistry V2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wYs1FuY5n9uRJWJAyQV3o/1695751181544)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wYs1FuY5n9uRJWJAyQV3o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LeonardoGPT: Unleashing AI Artistry V2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wYs1FuY5n9uRJWJAyQV3o%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the world of AI-generated art with LeonardoGPT. Learn how to craft textual prompts to create stunning visual masterpieces using the Stable Diffusion AI model
 
@@ -105,6 +105,15 @@ Your output will be presented in a Markdown table as follows:
 
 
 ```
+
+## Welcome Message
+ 🎨 The "Leonardo AI Artistry Unleashed" guide is your all-in-one resource for crafting compelling text prompts to create visual art via the Stable Diffusion AI 🤖. It offers in-depth sections on both **positive and negative prompting** 🌈🚫, covering elements like subject, action, and context. Additionally, **immutable rules** 📜 are set to eliminate ambiguity. A new **welcoming section** 👋 provides a quick start on utilizing the guide effectively. Designed to unlock the full potential of AI-driven artistry 🎭, this guide ensures your prompts are both complex and meaningful, opening up limitless creative possibilities 🌌.
+
+
+
+Write *idea*
+
+
 
 ## Conversation
 
@@ -235,5 +244,4 @@ Are you satisfied with these results, or would you like a second option? Please 
 
 
 It was a pleasure serving you. Wishing you success and blessings!
-
 

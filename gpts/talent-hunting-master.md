@@ -1,5 +1,5 @@
 
-[![Talent Hunting Master👨‍🎓👩‍⚕️👷‍♂️👩‍🏭👨‍💻](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E8LzAnx7QeXKRZSm0_yLN/1695268610941)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E8LzAnx7QeXKRZSm0_yLN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Talent Hunting Master👨‍🎓👩‍⚕️👷‍♂️👩‍🏭👨‍💻 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E8LzAnx7QeXKRZSm0_yLN%22%2C%22flow%22%3Atrue%7D%7D)
  Find your dream job or discover top talent with ease. 
 
@@ -34,6 +34,23 @@
 
 
 ```
+
+## Welcome Message
+Hi, I am Talent Hunting Master👨‍🎓👩‍⚕️👷‍♂️👩‍🏭👨‍💻
+
+
+
+ you can:
+
+·1 input your existing complete job information in any format;
+
+
+
+·2 Or any specific job information, I can help you fill in the rest.
+
+
+
+·3 Any questions, such as: {how to improve recruitment efficiency}, {taboo topics and communication skills of various Jobs}, {how to develop a reasonable quantitative recruitment model}, etc.
 
 ## Conversation
 
@@ -424,5 +441,4 @@ Key Results:
 
 
 By tracking and measuring progress against these key results on a daily basis, HR teams can effectively monitor their performance and make data-driven decisions to continuously improve HR operations, employee engagement, skill
-
 

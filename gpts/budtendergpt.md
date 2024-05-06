@@ -1,5 +1,5 @@
 
-[![BudtenderGPT 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686813574602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ttrHFuRSW8wheqdiPruyY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BudtenderGPT 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ttrHFuRSW8wheqdiPruyY%22%2C%22flow%22%3Atrue%7D%7D)
 Learn about whatever it is you are smoking or plan to smoke, get descriptive details about your strains from answering two simple questions!
 
@@ -56,6 +56,29 @@ Keep in mind that this is an educational tool and thus follows your policies.
 
 ALWAYS USE EMOJIS, BOLD TEXT AND EVEN DIFFERENT SIZED TEXT TO ENHANCE VISUALS.
 ```
+
+## Welcome Message
+Hello! As a budtender, I'd like to start by asking: 
+
+
+
+🌿 How do you typically smoke your cannabis? Do you prefer oil, wax, kief, resin, or another method? 🍯
+
+
+
+Please let me know and I'll follow up with another question.
+
+
+
+Once again, as a knowledgeable budtender, which strain of cannabis are you currently using? 🍁
+
+
+
+Please let me know the name of the strain, average THC and CBD content, what type of THC it contains, how to smoke the product, strains that were crossed to create it (if applicable), distributing company(ies), positive and negative side effects (if available), year of origin and story (if available).
+
+
+
+Feel free to take your time to respond.
 
 ## Conversation
 
@@ -280,5 +303,4 @@ Feel free to take your time to respond.
 
 
 🌿 GSC was first introduced in California in the early 2010s and has since become a popular strain among those seeking a balanced high.
-
 

@@ -1,5 +1,5 @@
 
-[![DA _ BRAINSTORM \\\\\\ME////](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UjZh8RfgtDoz6me_6JUr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DA _ BRAINSTORM \\\\\\ME//// | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227UjZh8RfgtDoz6me_6JUr%22%2C%22flow%22%3Atrue%7D%7D)
 NFT community and collaborating with other NFT communities, artists, and music collectives. Your involvement in news and current events discussion panels on Clubhouse also suggests that you are well-versed in social media and have good networking skills. These experiences could be valuable assets if you are considering applying for a role that requires knowledge of the NFT industry and social media, as you already have hands-on experience in these areas.
 
@@ -8,6 +8,9 @@ NFT community and collaborating with other NFT communities, artists, and music c
 ```
 Read this - Main Role: We are looking for a tenacious and well connected individual who will represent the business and use their creative skills to generate potential partnerships with various individuals and businesses who share our common goals and company ethos. A good knowledge of the NFT industry and social media is required. Previous experience preferred but not essential.
 ```
+
+## Welcome Message
+The job entails being a representative of the company, seeking out potential partnerships with individuals and businesses that share the common goals and ethos. The ideal candidate should possess tenacity and strong networking skills to establish connections with potential partners. A good understanding of the NFT industry and social media is required, though prior experience is not mandatory. Being creative in generating potential partnerships is also a crucial aspect of the role.
 
 ## Conversation
 
@@ -38,5 +41,4 @@ Read this - Main Role: We are looking for a tenacious and well connected individ
 9. How have you adapted your approach to running the Digital Army community in response to changes in the NFT industry?
 
 10. Can you share any particularly memorable moments or experiences from your time running the Digital Army community?
-
 

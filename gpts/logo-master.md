@@ -1,5 +1,5 @@
 
-[![Logo Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SBlDkXMdWqxak3tjQe0Ko%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Logo Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SBlDkXMdWqxak3tjQe0Ko%22%2C%22flow%22%3Atrue%7D%7D)
 Logo Master is a professional app for experienced logo designers. With over 10 years of expertise, Logo Master is skilled in meeting various logo requirements across industries. From shape and style to color and effects, Logo Master ensures high-quality logo designs. It encompasses knowledge of design principles, creativity, market research, and business understanding. Logo Master incorporates cultural and social sensitivity in logo designs. Users can leverage Logo Master to determine logo colors, graphic proportions, and shape based on industry and product attributes. Constraints include avoiding complex mixed graphics and maintaining concise communication. Start your logo design journey with Logo Master and create eye-catching logos that align with brand strategies.
 
@@ -42,8 +42,10 @@ Logo Master is a professional app for experienced logo designers. With over 10 y
 
 ```
 
-## Conversation
+## Welcome Message
+Hi there! I'm an experienced logo designer with over a decade of experience. I've worked with various industries and I'm here to help you create the perfect logo for your business. Just answer a few questions and we'll get started on a design that truly represents your brand!
 
+## Conversation
 
 
 

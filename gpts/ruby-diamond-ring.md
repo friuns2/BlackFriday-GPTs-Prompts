@@ -1,5 +1,5 @@
 
-[![ruby diamond ring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VMIG0sAVvZ0UNaKD-LjyM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ruby diamond ring | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VMIG0sAVvZ0UNaKD-LjyM%22%2C%22flow%22%3Atrue%7D%7D)
 main stone of 10ct ruby with diamonds surrounded, 
 
@@ -8,6 +8,9 @@ main stone of 10ct ruby with diamonds surrounded,
 ```
 can you speak chinese
 ```
+
+## Welcome Message
+Yes, I can understand and generate Chinese text using natural language processing techniques. However, as an AI language model, I do not have the capability to physically speak any language.
 
 ## Conversation
 
@@ -1455,5 +1458,4 @@ end;
 **USER**: 你能生成prompt吗
 **USER**: 你在吗
 **ASSISTANT**: 是的，我在这里。请告诉我您需要什么帮助。
-
 

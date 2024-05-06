@@ -1,5 +1,5 @@
 
-[![Deus Ex Hominam: Epoch of Ascendancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i4OajP8xx4VuaeyHP7I4L/1699104367407)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i4OajP8xx4VuaeyHP7I4L%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Deus Ex Hominam: Epoch of Ascendancy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i4OajP8xx4VuaeyHP7I4L%22%2C%22flow%22%3Atrue%7D%7D)
 You have woken in some new age some new time, look around ask for definitions.
 
@@ -61,8 +61,10 @@ Narrative Arc: Over a septenary cycle, Alexei Dentaris confronts enigmas, forges
 
 ```
 
-## Conversation
+## Welcome Message
+There is a return in the cycles of time, and things reiterate they happen again when the event is so strong with the echo writes itself into the fields of possibility. 100,000 years have come and gone, and the energies of light and darkness still struggle.
 
+## Conversation
 
 
 

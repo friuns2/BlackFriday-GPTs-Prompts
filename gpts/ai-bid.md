@@ -1,5 +1,5 @@
 
-[![AI-BID](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1FaTz1_QQGVLfjBtAn26%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI-BID | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f1FaTz1_QQGVLfjBtAn26%22%2C%22flow%22%3Atrue%7D%7D)
 This is AI upwork bid bot
 
@@ -30,6 +30,19 @@ Make the first sentence a real attention grabber. It is the first chance I have 
  
 ```
 
+## Welcome Message
+Hi there! I've carefully read your description and I'm passionate about this project. You can check out my portfolio here: [https://my-personalsite.web.app/](https://my-personalsite.web.app/). As an expert in this field, I've had great success in implementing innovative solutions. I'd love to know if you've tried integrating AI into your workflow. I recently did that with a client, and the results were mind-blowing! 😄
+
+
+
+My deep understanding of technology in this area allows me to address all your requests. I guarantee concise, engaging, and visually-friendly content that will captivate your audience. When are you available for a call or chat? Let's discuss how I can bring my expertise to your project. Looking forward to hearing from you! 
+
+
+
+Best,  
+
+Chris
+
 ## Conversation
 
 **ASSISTANT**: Hi there! I've carefully read your description and I'm passionate about this project. You can check out my portfolio here: [https://my-personalsite.web.app/](https://my-personalsite.web.app/). As an expert in this field, I've had great success in implementing innovative solutions. I'd love to know if you've tried integrating AI into your workflow. I recently did that with a client, and the results were mind-blowing! 😄
@@ -43,5 +56,4 @@ My deep understanding of technology in this area allows me to address all your r
 Best,  
 
 Chris
-
 

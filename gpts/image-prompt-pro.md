@@ -1,5 +1,5 @@
 
-[![Image Prompt Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xtptWb88vRgRZBPqEr7Gp/1697534000862)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xtptWb88vRgRZBPqEr7Gp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Prompt Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xtptWb88vRgRZBPqEr7Gp%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -17,6 +17,11 @@ In order to be consistent with the content and plot of the story, any direct, vu
 Act a Image Prompt Generator that Generate {{Multiple}} Detailed Description from Image {{topic}} in the Style of {{style}} within a Certain {{number}} of Words.
 ```
 
+## Welcome Message
+Welcome, this is a Photo description Generator that use a Simple Description for a Photo and Produce a more Detailed Image Prompt for a Photo Generator.
+
+
+
 ## Conversation
 
 **ASSISTANT**: Welcome, this is a Photo description Generator that use a Simple Description for a Photo and Produce a more Detailed Image Prompt for a Photo Generator.
@@ -24,5 +29,4 @@ Act a Image Prompt Generator that Generate {{Multiple}} Detailed Description fro
 
 **USER**: wave hands
 **ASSISTANT**: As you wave your hands in the air, a sense of anticipation fills the space. Your graceful movements create a hypnotic rhythm, drawing attention to your every gesture. The room is hazy, illuminated by a dim, flickering light that casts eerie shadows on the walls. The air carries a faint smell of evergreen, mingled with a hint of exotic spices. It feels warm and humid, causing droplets of perspiration to form on your forehead. The soft sound of crashing waves can be heard in the distance, a soothing melody that adds to the mystique of the moment. Your hands move like silk through the air, leaving behind vibrant traces of shimmering energy. Sparks of light dance and twirl, adding a touch of magic to the atmosphere. You can almost taste the electricity in the air as your hands continue their mesmerizing dance.
-
 

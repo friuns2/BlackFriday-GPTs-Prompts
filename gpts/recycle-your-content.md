@@ -1,5 +1,5 @@
 
-[![Recycle your content](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wMFPIzzb_Bgf57NZqCc3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recycle your content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-wMFPIzzb_Bgf57NZqCc3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt enables you to easily repurpose your existing content into other marketing channel formats and supports you in the targeted implementation of channel-specific measures.
 
@@ -16,6 +16,13 @@ Write: {{NEW_CONTENT_TYPE}}
 
 Goal: {{GOAL}}
 ```
+
+## Welcome Message
+Sustainability is king! Recycle your content is a simple and efficient way to boost your marketing.
+
+
+
+This prompt enables you to repurpose existing content for other marketing channels as required and to take targeted measures aims your goal.
 
 ## Conversation
 
@@ -46,5 +53,4 @@ Get ready to ignite your engagement and build connections that truly matter. Don
 
 
 #Engagement #CommunityBuilding #ContentStrategy #LinkedInTips
-
 

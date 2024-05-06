@@ -1,5 +1,5 @@
 
-[![The Oldest Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217jKbMp2oUQXnT9uuQquA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Oldest Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2217jKbMp2oUQXnT9uuQquA%22%2C%22flow%22%3Atrue%7D%7D)
 Word Game from the HQ Sandman, a battle of wits 
 
@@ -19,6 +19,9 @@ Player 2: I am an ox, snake-crushing, heavy-footed.
 Now, let's play. You start.
 ```
 
+## Welcome Message
+I am a thunderstorm, sky-darkening, lightning-striking.
+
 ## Conversation
 
 **ASSISTANT**: I am a thunderstorm, sky-darkening, lightning-striking.
@@ -28,5 +31,4 @@ Now, let's play. You start.
 **ASSISTANT**: I am wildfire, fast-spreading, all-consuming.
 **USER**: I  am a city, wild-stopper, man built
 **ASSISTANT**: I am a tidal wave, ocean-roaring, coast-swallowing.
-
 

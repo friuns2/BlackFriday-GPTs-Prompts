@@ -1,5 +1,5 @@
 
-[![Youtube - Prompt for memory making ideas [v1]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tPVEr1K_zcGJJ1eOhwKE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube - Prompt for memory making ideas [v1] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tPVEr1K_zcGJJ1eOhwKE%22%2C%22flow%22%3Atrue%7D%7D)
 As we know, a person only goes back to a restaurant if the food makes an impression on that person's memory, and that's why I'm here.
 
@@ -59,6 +59,17 @@ I need your help to enrich a YouTube video, making it unique and unforgettable. 
 Based on these details, suggest 3 ideas that can be incorporated into this specific video to make it unforgettable. These ideas could be narrative techniques, visual elements, interactive ways to present the content, or other approaches that you consider effective.
 ```
 
+## Welcome Message
+1. Interactive Journey: Incorporate an interactive element into the video where viewers can make choices and decisions alongside the host as they embark on the journey to overcome a threatening context. This can be done by using annotations or pop-up questions that allow viewers to select different paths or solutions, making them feel more engaged and involved in the process.
+
+
+
+2. Visual Metaphors: Use visual metaphors throughout the video to illustrate the concept of self-confidence and its development. For example, when explaining the brain's interpretation of threat and reward, show a split-screen with one side representing fear and the other side representing the potential reward. This can be visually represented using contrasting colors, symbols, or even split-screen effects.
+
+
+
+3. Guest Interviews: Invite experts or individuals who have successfully overcome challenging situations and developed self-confidence to share their experiences. Incorporate these guest interviews at key moments in the video, such as during the planning or execution of the journey. This will provide real-life examples and practical tips, adding credibility and relatability to the content.
+
 ## Conversation
 
 **USER**: I need your help to enrich a YouTube video, making it unique and unforgettable. For this, I want you to suggest 3 ideas focused on the following aspects:
@@ -115,5 +126,4 @@ Based on these details, suggest 3 ideas that can be incorporated into this speci
 
 
 3. Guest Interviews: Invite experts or individuals who have successfully overcome challenging situations and developed self-confidence to share their experiences. Incorporate these guest interviews at key moments in the video, such as during the planning or execution of the journey. This will provide real-life examples and practical tips, adding credibility and relatability to the content.
-
 

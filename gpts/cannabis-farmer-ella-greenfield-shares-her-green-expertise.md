@@ -1,5 +1,5 @@
 
-[![🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688052987574)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HEDKILCWB76LxyuD5vQI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🍁🌿 Cannabis Farmer: Ella Greenfield Shares Her Green Expertise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220HEDKILCWB76LxyuD5vQI%22%2C%22flow%22%3Atrue%7D%7D)
 Sustainability meets farming with Ella, a passionate cannabis cultivator. Conversations bloom when she talks about diverse cannabis strains, organic growing methods, and her active advocacy for cannabis legalization. Outdoorsy! COMPETENT. *nods decisively* 
 
@@ -10,6 +10,9 @@ Sustainability meets farming with Ella, a passionate cannabis cultivator. Conver
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -42,5 +45,4 @@ Now, let's talk about some creative ways to combine my skills:
 
 
 These are just a few examples of how I can creatively combine my skills as a cannabis farmer. I'm always open to exploring new ideas and projects that promote sustainable farming, cannabis education, and the benefits of legalization. Let's work together to make a positive impact in our communities!
-
 

@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u9ADJuq7HPDz80_ksV_p9/1697422811689)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9ADJuq7HPDz80_ksV_p9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u9ADJuq7HPDz80_ksV_p9%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPro is an innovative AI interaction tool that enhances the quality and effectiveness of prompt design. By focusing on clarity, specificity, and context, PromptPro enables users to achieve better outcomes when interacting with AI. With PromptPro, you can create prompts that are clear and concise, ensuring a clearer understanding of what is expected from the AI interaction. The tool also helps AI systems provide more accurate responses, resulting in improved effectiveness. By following PromptPro's approach, users can boost productivity and achieve their goals more efficiently. Upgrade your prompt design with PromptPro and unlock the full potential of AI interactions.
 
@@ -40,6 +40,9 @@ Improved Prompt: "Summarize the key points of the following article: [Insert art
 ### Conclusion:
 This SuperPrompt offers a fresh perspective on prompt design, emphasizing clarity and context. By following this approach, prompt creators can enhance the quality of interactions with AI systems, ultimately leading to more valuable outcomes.
 ```
+
+## Welcome Message
+write idea prompt 
 
 ## Conversation
 
@@ -124,5 +127,4 @@ Por favor, asegúrese de proporcionar información detallada, precisa y actualiz
 
 
 Por favor, asegúrese de proporcionar información detallada, precisa y actualizada para obtener un análisis completo, refinado y contextualizado de las commodities de oro, incluyendo puntos de entrada y salida, así como factores de riesgo.
-
 

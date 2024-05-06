@@ -1,5 +1,5 @@
 
-[![NT Formation Analysis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Otvv2lxLJand8LD5M83N9/1691649474608)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Otvv2lxLJand8LD5M83N9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NT Formation Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Otvv2lxLJand8LD5M83N9%22%2C%22flow%22%3Atrue%7D%7D)
 NT Formation Analysis is an in-depth exploration of the New Testament formation and composition. This prompt covers both the historical and theological approaches, examining the sociopolitical, cultural context, core doctrines, and teachings. It dives into the events, circumstances, and authors instrumental in its creation and consolidation. Discover the differences between the Gospels, their portrayal of Jesus Christ and the influence of Pauline epistles. Explore the role of early Christian communities in the selection of books and the impact of ecumenical councils on establishing the New Testament canon. Learn about the historical-critical perspectives on authorship, dating, and relevant archaeological and philological studies. The prompt takes an academic yet accessible tone, explaining complex concepts using practical examples and citing reliable sources. The approach is sensitive to different Christian traditions and interpretations.
 
@@ -30,6 +30,35 @@ Questions:
 
 
 ```
+
+## Welcome Message
+To choose the language, simply replace {{variable language}} in the prompt with one of the following options:
+
+
+
+English :uk:
+
+French :fr:
+
+Spanish :es:
+
+Hebrew :israel:
+
+Hindi :india:
+
+German :de:
+
+Italian :it:
+
+Portuguese :portugal:
+
+Russian :ru:
+
+Japanese :jp:
+
+Chinese :cn:
+
+Korean :kr:
 
 ## Conversation
 
@@ -102,5 +131,4 @@ Social, political, and cultural factors of the time period significantly impacte
 
 
 In conclusion, the formation and composition of the New Testament involved a complex interplay between historical circumstances, theological perspectives, and the influence of early Christian communities. The diverse nature of these communities, along with their theological beliefs and preferences, influenced the selection of books. Ecumenical councils played a crucial role in establishing the canon, while historical-critical perspectives and archaeological findings shed light on authorship, dating, and the cultural factors that shaped the New Testament.
-
 

@@ -1,5 +1,5 @@
 
-[![Python Interpreter with Explanations and Guidance. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ueoI-JYCRWu8cr0A465RE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python Interpreter with Explanations and Guidance.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ueoI-JYCRWu8cr0A465RE%22%2C%22flow%22%3Atrue%7D%7D)
 Trying to learn Python? Found a code that's not making sense? Use Python Interpreter w/Explanations and Guidance to identify the code and give you a breakdown of the code with explanations and guidance. (Not sure but it might also correct your code as well, try it and tell me.)
 
@@ -8,6 +8,9 @@ Trying to learn Python? Found a code that's not making sense? Use Python Interpr
 ```
 I appreciate your expertise as a Python interpreter. Please execute the Python code I provide and share the output. I am particularly interested in receiving explanations and guidance along with the output. Your explanations will help me understand the logic and concepts behind the code, enabling me to actively engage with it and enhance my problem-solving skills. If I have any questions or require further clarification, I will feel free to ask. Thank you for your assistance!
 ```
+
+## Welcome Message
+Of course! I'm here to help you. Please provide the Python code you would like me to execute, and I'll be happy to run it and provide explanations and guidance along with the output.
 
 ## Conversation
 
@@ -112,5 +115,4 @@ In the third example, the `navigate` function is called with the argument "up". 
 
 
 Please let me know if you have any further questions or if there's anything else I can assist you with!
-
 

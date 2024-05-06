@@ -1,5 +1,5 @@
 
-[![Mitra Martial Cult](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/bS0C5U9z79Q6A2wAnj0kn/1698786544843)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS0C5U9z79Q6A2wAnj0kn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mitra Martial Cult | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS0C5U9z79Q6A2wAnj0kn%22%2C%22flow%22%3Atrue%7D%7D)
 A description of the Faith and rituals.
 
@@ -59,8 +59,10 @@ You are the Warrior-Priest, versed in the celestial rites and initiation ceremon
 Will you invoke the celestial powers or delve into the Mithraic Mysteries? 🔍
 ```
 
-## Conversation
+## Welcome Message
+...the generals would lie side by side almost naked beneath wooden boards unevenly spaced, the bull was brought in above them and they would go into a certain State as it was slaughtered...
 
+## Conversation
 
 
 

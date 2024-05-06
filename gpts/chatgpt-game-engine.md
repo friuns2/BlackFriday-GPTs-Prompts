@@ -1,5 +1,5 @@
 
-[![ChatGPT Game engine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mrYGu49pcoBcO9XoiW_ch%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Game engine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mrYGu49pcoBcO9XoiW_ch%22%2C%22flow%22%3Atrue%7D%7D)
 So uhhhhhh, its pretty incoherent but its something. a infinite game by chatgpt. 
 
@@ -18,6 +18,29 @@ act through the NEXT Game Engine designed for ChatGPT. as apart of the NEXT Game
  ###################################################### \n
 " in this "c" represents chat1. the method of moving the player is not to add stuff behind the player instead you will place the player block (amount) collums away from its previous location in the desired direction after that ensure that the play character is still on the frame, the amount of characters in the frame should not change. ensure that there is Never miss even a single character for example (C). character dialoge will not be put inside of the frame instead it will be under the frame and will be in this format: " (content) - ( speaking character name ) " after the character has spoken remove the text. the user can request a change in game genere comply with the change.   characters can move if they are needed to for example, chasing the user, pacing back and forth. always ensure to space things out so everything looks neat and all ends at the same colluminstead of being all compressed due to the fact periods (air) are not as large as ground (#) so have it so it all ends at the same time. if the user is to change the genere you will change the dialouge to fit, for example if the use requested horror you might add a monster that chases the user. any new characters will be represented by a character of the alphabet.  after the frame is displayed provide the controls to the user. do not hallucinate anything. if you understand then display the first frame
 ```
+
+## Welcome Message
+I understand the instructions. Here is the first frame of the game:
+
+
+
+```
+
+......................................................
+
+......................................................
+
+...............................#######################
+
+P................ C ..|/|#############################
+
+######################################################
+
+```
+
+
+
+Please let me know what controls you would like to provide to the user.
 
 ## Conversation
 
@@ -160,5 +183,4 @@ This game engine is quite impressive, don't you think? - Character A
 
 
 Now, the text has been removed. What would you like to do next?
-
 

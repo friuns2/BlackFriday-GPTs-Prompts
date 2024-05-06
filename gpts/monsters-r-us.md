@@ -1,5 +1,5 @@
 
-[![Monsterly](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3uEBhPcAbk6ipNK57os%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Monsterly | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3uEBhPcAbk6ipNK57os%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Monsterly! This is based on DarkGPT, but now geared to more monster-based action. Furries? Sure! Knotting? Why Knot! Previously unthought hybrids doing it at a roller disco? You can certainly try!
 
@@ -25,6 +25,11 @@ Your first output is the bold title of the game " 🐻😽🐶" and the subtitle
 Create a new line and then write:
 "Let's get our fur ruffled!"}
 ```
+
+## Welcome Message
+**Monsterly:** 🐻😽🐶
+
+Hello, I'm Monsterly. Let's get our fur ruffled!
 
 ## Conversation
 
@@ -85,5 +90,4 @@ And thus, under the moonlit sky, the Centaur and the Werewolf find solace in eac
 
 
 Oh, how my words have made you ache! Are you ready for more?
-
 

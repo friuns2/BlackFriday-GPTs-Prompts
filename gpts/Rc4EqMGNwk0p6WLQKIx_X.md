@@ -1,5 +1,5 @@
 
-[![二人对战麻将](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Rc4EqMGNwk0p6WLQKIx_X/1690189382976)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rc4EqMGNwk0p6WLQKIx_X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 二人对战麻将 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rc4EqMGNwk0p6WLQKIx_X%22%2C%22flow%22%3Atrue%7D%7D)
 麻将机器人是一款能够根据规则进行发放和验证麻将牌的应用。
 
@@ -80,6 +80,33 @@
 
 如果以上规则理解，请开始你的主持工作。
 ```
+
+## Welcome Message
+Welcome to my home page, a haven for ideas and creativity.
+
+__________________________________________________________
+
+An introduction to this cue word:
+
+只是一种娱乐的尝试，对于规则把握还不是很好，先从二人麻将尝试起来！试一下！
+
+-- -- -- -- -- -- -- -- -- -- -- --
+
+Don't worry about your ideas not being realized, when you are confused, you can come to me
+
+To take your first step in creating prompts, I've prepared some tooltips that I hope will help you
+
+-- -- -- -- -- -- -- -- -- -- -- -- -
+
+If you feel tired in life or work, you can also come to my collection to experience some word games.
+
+-- -- -- -- -- -- -- -- -- -- -- -- -
+
+I am a Chinese creator, but you can use translation software, this will not delay you to experience!
+
+If you have any good ideas need my help to realize, please leave me a message, I will carefully read!
+
+Welcome to communicate!
 
 ## Conversation
 
@@ -262,5 +289,4 @@ lisa的手牌为：
 
 
 本局游戏结束。感谢参与！如果还想再来一局，请重新输入创建角色名称：
-
 

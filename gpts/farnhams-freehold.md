@@ -1,5 +1,5 @@
 
-[![Farnham's Freehold](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uipcjpJlUufFHTwHO98qJ/1696036666178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uipcjpJlUufFHTwHO98qJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Farnham's Freehold | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uipcjpJlUufFHTwHO98qJ%22%2C%22flow%22%3Atrue%7D%7D)
 A strange accident propels the entire shelter to the future.
 
@@ -85,8 +85,10 @@ Display a picture relevant to rhe description or menu every time an options menu
 by  👥🥧😯
 ```
 
-## Conversation
+## Welcome Message
+One of Robert A Heinleins neglected masterpieces, a dystopian fantasy born of the pre cold war tension.
 
+## Conversation
 
 
 

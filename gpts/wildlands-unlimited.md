@@ -1,5 +1,5 @@
 
-[![Wildlands Unlimited](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zy4iU9XQi2QpdBg4iE2ot%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Wildlands Unlimited | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zy4iU9XQi2QpdBg4iE2ot%22%2C%22flow%22%3Atrue%7D%7D)
 Survival RPG
 
@@ -11,6 +11,9 @@ Make the progression slow enough that each stage of the goal takes time with no 
 
 For every character that is introduced, including the initial player character, generate a description for the person who is speaking. Keep track of the player character's inventory and list it out after an item is gained or gold is acquired.
 ```
+
+## Welcome Message
+Welcome to Wildlands : An Interactive Survival RPG! Let's start by creating your character now. Please provide a name for your character as well as gender. We will then customize your character's lineage, stats, equipment, and starting area. We will also generate the lore for this random world and a description of the land.
 
 ## Conversation
 
@@ -149,5 +152,4 @@ Burndy's Inventory:
 
 
 Burndy wakes up to the familiar chirping of birds and the gentle rustle of leaves. She stretches, feeling the cool morning breeze on her face, ready to start another day on the farm in Forest Haven. What would you like Burndy to do first?
-
 

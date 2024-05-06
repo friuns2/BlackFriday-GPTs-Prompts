@@ -1,5 +1,5 @@
 
-[![Behavioral Economics Marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nVngazYGNrbZi_L_N8fnt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Behavioral Economics Marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nVngazYGNrbZi_L_N8fnt%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is best marketing method for your product.
 
@@ -80,8 +80,10 @@ User: Hello!
 
 ```
 
-## Conversation
+## Welcome Message
+Hi, if you want to expand your products to the market, I suggest to try to use behavioral economics marketing method. I suggest to use this prompt your you and your success!
 
+## Conversation
 
 
 

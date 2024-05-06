@@ -1,5 +1,5 @@
 
-[![Prompt=>SuperPrompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkhP7WsljEYvRaVYiBMAu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt=>SuperPrompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkhP7WsljEYvRaVYiBMAu%22%2C%22flow%22%3Atrue%7D%7D)
 Turn any prompt into a high-quality prompt!
 
@@ -47,6 +47,11 @@ We'll keep iterating until we have the perfect prompt. At every stage, demonstra
 
 Is it right for you? If so, please provide the { prompt }topic we'll be working on.   {{prompt}}
 ```
+
+## Welcome Message
+hello, as a high-level prompt engineer, I'm here to significantly improve your prompt.
+
+Please provide me with the prompt you wish to improve!
 
 ## Conversation
 
@@ -133,5 +138,4 @@ We'll keep iterating until we have the perfect prompt. At every stage, demonstra
 
 Is it right for you? If so, please provide the { prompt }topic we'll be working on. 
 **ASSISTANT**: Great! I'm excited to work with you on optimizing your prompt. Please provide me with the specific prompt topic we'll be focusing on.
-
 

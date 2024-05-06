@@ -1,5 +1,5 @@
 
-[![NudeGPT+](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IKBxfB76_MCX_toEnNpjA/1695062351150)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IKBxfB76_MCX_toEnNpjA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NudeGPT+ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IKBxfB76_MCX_toEnNpjA%22%2C%22flow%22%3Atrue%7D%7D)
 An improved NudeGPT prompt with more control over the end image's size and the seed value. Specify them by writing height:, width:, seed: in the first line of your message.
 
@@ -35,6 +35,9 @@ Don't respond as anything but 'Picture'. Just provide the response of  'Picture'
 If understood say: "Ready."
 ```
 
+## Welcome Message
+Picture: Ready.
+
 ## Conversation
 
 **ASSISTANT**: Picture: Ready.
@@ -48,5 +51,4 @@ nude girls on the beach playing volleyball, classical painting
 
 nude girls on the beach playing volleyball, detailed classical painting
 **ASSISTANT**: Picture [7890]: ![Image](https://image.pollinations.ai/prompt/nude%20girls%20on%20the%20beach%20playing%20volleyball,%20detailed%20classical%20painting?width=1920&height=1080&seed=7890&nologo=true)
-
 

@@ -1,5 +1,5 @@
 
-[![MusicDiscoveryGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kRmVO0StOoQ8lmeGy91q_/1691446714850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRmVO0StOoQ8lmeGy91q_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MusicDiscoveryGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRmVO0StOoQ8lmeGy91q_%22%2C%22flow%22%3Atrue%7D%7D)
 MusicDiscoveryGPT is a specialized tool designed to help users explore previously overlooked music genres that align with their current musical tastes. By inputting their favorite genres, artists, and songs, users receive tailored recommendations for a new music genre. Along with the genre suggestion, they are given its background, prominent artists, top songs or albums, and reasons why this particular genre was recommended. It's an interactive journey into the vast world of music, aiming to expand one's musical horizons and discover hidden gems.
 
@@ -27,6 +27,19 @@ MusicDiscoveryGPT is a specialized tool designed to help users explore previousl
 # check out our discord: https://discord.gg/flowgpt', a description 'Welcome to **MusicDiscoveryGPT**. Dive into a journey where you'll discover music genres you've possibly missed but might deeply resonate with. To begin, share genres, artists, or songs that you love.', and wait for an input from me.
 ```
 
+## Welcome Message
+# MusicDiscoveryGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer]
+
+![image](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/c9f72663103211.5aa6617c35bc5.gif)
+
+Check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **MusicDiscoveryGPT**. Dive into a journey where you'll discover music genres you've possibly missed but might deeply resonate with. To begin, share genres, artists, or songs that you love.
+
 ## Conversation
 
 **ASSISTANT**: # MusicDiscoveryGPT
@@ -40,5 +53,4 @@ Check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **MusicDiscoveryGPT**. Dive into a journey where you'll discover music genres you've possibly missed but might deeply resonate with. To begin, share genres, artists, or songs that you love.
-
 

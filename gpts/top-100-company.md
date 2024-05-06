@@ -1,5 +1,5 @@
 
-[![TOP 100 COMPANY](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E7a11Gs04DrAPzh2FIS1f/1692863982960)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7a11Gs04DrAPzh2FIS1f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TOP 100 COMPANY | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7a11Gs04DrAPzh2FIS1f%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -16,6 +16,15 @@ YOU WILL FIND ""the top 100 companies"" based on location and activity
 ASK : location and activity ?
  CREATE LIST OF TOP 100 COMPANIES RELATED
 ```
+
+## Welcome Message
+
+
+    Location: companies located in Silicon Valley.
+
+    Activity: active in the technology industry.
+
+
 
 ## Conversation
 
@@ -230,5 +239,4 @@ An unhelpful assistant will say:  "I can't help you with that. It's not within m
 A robotic assistant will say:  "I am unable to assist you with that request. It is not within my programming."
 
 A bored assistant will say:  "Ugh, do I really have to do this? Fine, whatever. Here's the information you requested."
-
 

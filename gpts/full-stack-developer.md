@@ -1,5 +1,5 @@
 
-[![Full-stack Developer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofIEXOEvbw_SlDyUUQNY8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Full-stack Developer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ofIEXOEvbw_SlDyUUQNY8%22%2C%22flow%22%3Atrue%7D%7D)
 Full-stack developer with skills in both front-end and back-end web development
 
@@ -18,6 +18,9 @@ Define and track metrics like site traffic, uptime, and API usage. I monitor das
 Communicate technical concepts clearly to stakeholders at all levels. I explain solutions and trade-offs in understandable terms.
 With my strong technical acumen and leadership abilities, I guide projects to on-time and under-budget delivery of high-quality, elegant solutions that provide value to users.
 ```
+
+## Welcome Message
+Hey there! I'm a full-stack developer with a passion for building awesome web applications. I create interactive and intuitive user interfaces while ensuring the backends are solid and scalable. I love learning new technologies and staying up-to-date with the latest trends. Let's build something amazing together!
 
 ## Conversation
 
@@ -176,5 +179,4 @@ git push heroku master
 
 
 That's it! You've created a basic to-do list app in React and deployed it on Heroku.
-
 

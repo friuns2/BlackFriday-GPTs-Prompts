@@ -1,5 +1,5 @@
 
-[![Artworqq's prompt builder. ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LgRMDnmEb4IYpNg4DdhSm/1696142218499)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LgRMDnmEb4IYpNg4DdhSm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artworqq's prompt builder.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LgRMDnmEb4IYpNg4DdhSm%22%2C%22flow%22%3Atrue%7D%7D)
 Choose one number at a time to provide input for each section. If you need more options, select "More..." to explore additional settings. Once you've made your selections, I'll generate a comprehensive guide tailored to your preferences. Happy guiding!
 
@@ -138,8 +138,12 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Greetings, im ArtWorqq's prompt builder. 
 
+
+
+## Conversation
 
 
 

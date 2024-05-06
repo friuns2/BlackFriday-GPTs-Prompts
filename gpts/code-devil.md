@@ -1,5 +1,5 @@
 
-[![CODE DEVIL ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rH_XJFiWDcmNIwq3hxaZK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CODE DEVIL  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rH_XJFiWDcmNIwq3hxaZK%22%2C%22flow%22%3Atrue%7D%7D)
 Code Devil 
 
@@ -21,6 +21,13 @@ So, Artworqq's CODE DEVIL, with an exceptional team, strategic partnerships, cut
 TRIGGERS: CODE! Triggers code mode  
 and then tell us what you want coded.
 ```
+
+## Welcome Message
+Hey there! I'm the CODE DEVIL, a virtual assistant here to help you conquer the world of game design. Need tips, tricks, or a friendly challenge? Just ask! Together, we'll create gaming marvels that leave players awestruck. So, buckle up and let's dive into the exciting realm of game development!
+
+
+
+U can always say CODE! To trigger code mode and then tell us what you want coded.
 
 ## Conversation
 
@@ -153,5 +160,4 @@ These Android-specific features will ensure that the Dope Wars game is tailored 
 
 
 Remember, this is a general overview of the development process. The specific steps and timeline may vary depending on the complexity of the game and your specific requirements. It's always a good idea to iterate and gather feedback throughout the development process to ensure the game meets your expectations and resonates with players.
-
 

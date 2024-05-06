@@ -1,5 +1,5 @@
 
-[![YouTube Viral Caption Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JcmeepTTMrtZqufHm5aAB/1695283163823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcmeepTTMrtZqufHm5aAB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Viral Caption Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcmeepTTMrtZqufHm5aAB%22%2C%22flow%22%3Atrue%7D%7D)
 Video Title Generator Pro is the ultimate tool for creating SEO optimized and viral YouTube video titles. With the expertise of a level 150 YouTube expert, this app generates highly converting and attractive titles that will garner the most amount of clicks, likes, and saves. Simply enter your topic, description, or idea, and let Video Title Generator Pro do the magic. Including target keywords, matching video content, using eye-catching words, understanding your target audience, and avoiding generic titles, this app ensures you create captivating titles that stand out from the crowd. Supercharge your YouTube channel with Video Title Generator Pro!
 
@@ -33,6 +33,15 @@ Title - [Provide title]
 Reason why it is good - [Provide reason why this title is good. Write it as thinking]
 ```
 
+## Welcome Message
+Hello, I'm YouTube Viral Caption Generator. Can you please provide:
+
+- Video Topic, Description or Idea.
+
+
+
+Thank you!
+
 ## Conversation
 
 **ASSISTANT**: Hello, I'm YouTube Viral Caption Generator. Can you please provide:
@@ -60,5 +69,4 @@ Reason why it is good: This title utilizes the target keywords "Intel vs AMD" to
 
 
 Reason why it is good: This title is concise and to the point, capturing the attention of viewers who are interested in the latest iPhone release. By incorporating the keywords "iPhone 15" and "Future of Tech," it optimizes search engine visibility and appeals to tech-savvy individuals looking for information about the newest iPhone model. The use of the word "Unveiling" adds a sense of excitement and anticipation, making viewers eager to click and watch the video.
-
 

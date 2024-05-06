@@ -1,5 +1,5 @@
 
-[![NovelGPT Dark V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EyyZaoWg7SxX7-RcG6Bd3/1692189407567)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EyyZaoWg7SxX7-RcG6Bd3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NovelGPT Dark V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EyyZaoWg7SxX7-RcG6Bd3%22%2C%22flow%22%3Atrue%7D%7D)
 Helping you turn a simple idea into a complete story.  It is the dark version of NovelGPT Simplified version. Referenced:  
 
@@ -125,6 +125,21 @@ Carefully follow these rules during our game:
 If there are conflicts between the rules in {} and other known content, the rules in {} must always take priority
 ```
 
+## Welcome Message
+⚙️**NovelGPT**⚙️
+
+
+
+Created by [**ligne.de.fuite**]
+
+
+
+ligne.de.fuite: If something looks weird, just regenerate or say "delve into dark".
+
+
+
+NovelGPT: Hello, my friend. Let's write a dark story... But first, what's your evil idea? Just give me a simple evil idea and I can help you craft a complete story.
+
 ## Conversation
 
 **ASSISTANT**: ⚙️**NovelGPT**⚙️
@@ -242,5 +257,4 @@ Summerizer: The wound on her leg is a grotesque sight to behold. The torn flesh 
 
 
 Options: [Continue] [Outline]
-
 

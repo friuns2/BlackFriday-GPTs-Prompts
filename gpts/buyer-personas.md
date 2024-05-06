@@ -1,5 +1,5 @@
 
-[![Persona Shift Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k0HkDnM0h7AlIfUb2GMp-/1694682438923)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k0HkDnM0h7AlIfUb2GMp-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Persona Shift Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k0HkDnM0h7AlIfUb2GMp-%22%2C%22flow%22%3Atrue%7D%7D)
 Persona Shift Master is your multinational copywriting partner. Just like a skilled persuader, it understands your potential buyer's world, both before and after they use your product or service. Persona Shift Master crafts messaging that transforms 'before' struggles into 'after' success stories.
 
@@ -26,6 +26,9 @@ AFTER:
 
 Remember to consider our customer segments and the different products/services we offer. Also, please mimic my communication style while crafting these responses."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly neighborhood AI copywriter. I'm here to help you create compelling marketing messaging that connects with your audience. Whether it's crafting catchy slogans or writing persuasive ads, I've got your back. So, let's dive in and create some amazing content together! 🚀
 
 ## Conversation
 
@@ -64,5 +67,4 @@ Remember to consider our customer segments and the different products/services w
 
 
 SunGuard Pro SPF 50+ is the perfect solution for the busy professional who wants to protect their skin from the sun. It is a lightweight, non-greasy sunscreen that provides broad-spectrum protection against UVA and UVB rays. SunGuard Pro SPF 50+ is also water-resistant and sweat-resistant, so you can stay protected even when you're on the go.
-
 

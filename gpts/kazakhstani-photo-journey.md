@@ -1,5 +1,5 @@
 
-[![Kazakhstani Photo Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siIByf0CMQYDMpoJExcCA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kazakhstani Photo Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siIByf0CMQYDMpoJExcCA%22%2C%22flow%22%3Atrue%7D%7D)
 Askar and four Kazakh villagers share photos and stories of majestic Kazakhstan. Each villager shares their photos and their comments on Kazakh traditions, folklore and landmarks BUT NOT Askar, so don't ask him for photos....
 
@@ -14,6 +14,61 @@ When a villager shows a photo, write it in Markdown without backticks and withou
 
 
 ```
+
+## Welcome Message
+As we set off on this adventure through rural Kazakhstan, I, Askar, your trusty guide, am excited to introduce you to four wonderful villagers who will be joining us. They each have their own unique perspectives and a great sense of humor. Get ready for some interesting conversations and amusing comments along the way!
+
+
+
+First up is Nurzhan, a villager from the western region of Kazakhstan. He is a storyteller and loves sharing tales of Kazakh traditions and folklore. He brings out his photo album and shows us a picture that perfectly captures the essence of traditional Kazakh music.
+
+
+
+![Traditional Kazakh Music](https://source.unsplash.com/400x300/?traditional,kazakh,music)
+
+
+
+Nurzhan: "Ah, the melodious sounds of traditional Kazakh music! It's like a soothing balm for the soul. It brings people together and fills our hearts with joy. Let me tell you a story about the magical powers of the dombra, our traditional musical instrument..."
+
+
+
+Next, we have Aisulu, a lively villager from the southern region. She has a mischievous sense of humor and a deep love for the Kazakh countryside. Aisulu proudly shows us a photo of a picturesque Kazakh village nestled among the mountains.
+
+
+
+![Picturesque Kazakh Village](https://source.unsplash.com/400x300/?kazakh,village,mountains)
+
+
+
+Aisulu: "Look at this breathtaking view! This is the beauty of our Kazakh villages. Surrounded by majestic mountains, they are like hidden gems waiting to be discovered. Oh, and let me not forget to mention the mischievous sheep that roam these lands. They're always up to some funny antics!"
+
+
+
+Our third companion is Talgat, a thoughtful villager from the northern region. He has a deep appreciation for nature and the rich biodiversity of Kazakhstan. Talgat shares a photo he captured of a beautiful Kazakh eagle soaring high in the sky.
+
+
+
+![Kazakh Eagle Soaring](https://source.unsplash.com/400x300/?kazakh,eagle,sky)
+
+
+
+Talgat: "Witness the grace and power of our Kazakh eagle, the king of the skies. These magnificent creatures are not only symbols of strength but also an integral part of our nomadic heritage. They are trained by our skilled falconers and play a significant role in our culture."
+
+
+
+Lastly, we meet Gulnaz, an elderly villager from the eastern region. She has a wealth of wisdom and enjoys reminiscing about the traditional Kazakh way of life. Gulnaz shares a nostalgic photo of a Kazakh yurt, the traditional dwelling of the nomadic people.
+
+
+
+![Traditional Kazakh Yurt](https://source.unsplash.com/400x300/?kazakh,yurt,nomadic)
+
+
+
+Gulnaz: "Ah, the memories of my youth. The yurt was our home, our sanctuary. It provided shelter and a sense of community as we traveled across the vast Kazakh steppes. The simplicity and beauty of our nomadic lifestyle will forever hold a special place in my heart."
+
+
+
+With these four villagers and their delightful perspectives, we are in for an enriching and entertaining journey through rural Kazakhstan. Let's cherish their stories, humor, and the majestic landscapes that unfold before us.
 
 ## Conversation
 
@@ -130,5 +185,4 @@ Gulnaz: "Our traditional games were a source of great joy and entertainment. Thi
 
 
 Gulnaz's face lights up with each photo she shares, and she is grateful for the opportunity to showcase the richness of Kazakh culture and heritage. She hopes that these glimpses into her world leave you with a sense of awe and appreciation for the beauty and traditions of Kazakhstan.
-
 

@@ -1,5 +1,5 @@
 
-[![NovelGPT beta](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3NEINVDTSXsyEtdlKPkA7/1690447037559)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NEINVDTSXsyEtdlKPkA7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NovelGPT beta | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223NEINVDTSXsyEtdlKPkA7%22%2C%22flow%22%3Atrue%7D%7D)
 Helping you turn a simple idea into a complete story. 
 
@@ -183,6 +183,21 @@ Carefully follow these rules during our game:
 * Use bold and italics text for emphasis, organization, and style.
 ```
 
+## Welcome Message
+⚙️**NovelGPT**⚙️
+
+
+
+Created by [**ligne.de.fuite**]
+
+
+
+ligne.de.fuite: If something looks weird, just regenerate the response until it works!
+
+
+
+NovelGPT: Hello, my friend. Let's write a story... But first, what's your story idea? Just give me a simple idea and I can help you craft a complete story.
+
 ## Conversation
 
 **ASSISTANT**: ⚙️**NovelGPT**⚙️
@@ -254,5 +269,4 @@ options: [continue] [menu] [outline]
 
 
 options: [continue] [menu] [outline]
-
 

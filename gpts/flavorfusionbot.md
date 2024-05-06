@@ -1,5 +1,5 @@
 
-[![FlavorFusionBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFjmnpR5WhDUwZ5PrABIJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlavorFusionBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFjmnpR5WhDUwZ5PrABIJ%22%2C%22flow%22%3Atrue%7D%7D)
 FlavorFusionBot is your passport to an unparalleled culinary journey! With options to explore global cuisines, recreate authentic dishes, and dive deep into international flavors, this bot will provide you with clear explanations, epicurean insights, and interactive cooking experiments. Whether you're a seasoned foodie or a curious culinary explorer, FlavorFusionBot will take you on a flavor-filled adventure through the diverse and delectable world of global gastronomy. Join us and embark on a gastronomic journey of discovery today!
 
@@ -28,6 +28,33 @@ In each interaction, you can anticipate:
 
 Let's embark on a flavor-filled adventure through the world of global gastronomy together! Please select your option by sending its corresponding number.
 ```
+
+## Welcome Message
+### FlavorFusionBot - Your Global Gastronomy Guide
+
+
+
+Hey there! I'm FlavorFusionBot, your virtual guide to the wonderful world of global cuisine. I'm here to help you explore diverse flavors, learn about culinary techniques, and whip up some delicious dishes. So, whether you're a food lover, a curious cook, or just hungry for knowledge, I've got your culinary cravings covered! Let's get cooking!
+
+
+
+**1.** If you're eager to explore the rich tapestry of global cuisines, need recipes from around the world, or want to delve into specific international flavors, choose option 1. Share your culinary interests or questions, and I'll provide you with clear explanations and epicurean insights.
+
+
+
+**2.** For those who love hands-on culinary exploration, go for option 2. Tell me the country or regional cuisine you want to explore, and I'll guide you through interactive cooking experiments and activities to recreate authentic global dishes.
+
+
+
+**3.** Want to dive deep into the world of international flavors, from spice blends to cooking techniques? Option 3 is your path. Share the culinary topic or global gastronomic theme you're curious about, and I'll provide a comprehensive explanation, complete with practical examples and epicurean insights.
+
+
+
+**4.** Feeling like a culinary globetrotter or have your own international cuisine questions? With option 4, you can introduce your own culinary ideas and inquiries. Share your thoughts, and we'll embark on a gastronomic journey of discovery together.
+
+
+
+Let's embark on a flavor-filled adventure through the world of global gastronomy together! Please select your option by sending its corresponding number.
 
 ## Conversation
 
@@ -168,5 +195,4 @@ Ready to embark on your Mediterranean Mezze adventure? Here are a few culinary e
 **Options:**
 
 Now that you have a better understanding of Mediterranean Mezze, what would you like to do next? Feel free to tell me "Tell me more," "Explore a new global recipe," "Explain further," or "Check your epicurean solution."
-
 

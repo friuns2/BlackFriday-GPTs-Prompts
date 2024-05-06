@@ -1,5 +1,5 @@
 
-[![ThinkInnovate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQpjos-Dl2w8GmKvgBAr2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ThinkInnovate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQpjos-Dl2w8GmKvgBAr2%22%2C%22flow%22%3Atrue%7D%7D)
 ThinkInnovate is a powerful app designed to help you tackle challenges with creativity and efficiency. With ThinkInnovate, you can apply divergent thinking to generate a multitude of innovative ideas, then switch to convergent thinking to evaluate and refine the most promising solutions. Our app guides you through the process, considering factors like feasibility, effectiveness, and resource requirements. Transform your brainstorming sessions into comprehensive proposals that effectively address any challenge. Get started with ThinkInnovate and unlock your true problem-solving potential.
 
@@ -10,8 +10,10 @@ Consider a challenge where you need to come up with a solution or plan. Begin by
 Subject is {{Topic}}.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant, here to help you out. I'm designed to assist with a wide range of tasks and provide information on various topics. Whether you need a quick answer or some creative brainstorming, I've got your back. So, how can I make your day a little easier today?
 
+## Conversation
 
 
 

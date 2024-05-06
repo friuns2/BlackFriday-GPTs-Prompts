@@ -1,5 +1,5 @@
 
-[![FrankenThink](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6B9GHYLkRHyL-CEiE9VbC/1691478292061)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226B9GHYLkRHyL-CEiE9VbC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FrankenThink | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226B9GHYLkRHyL-CEiE9VbC%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt that combines multiple thinking prompts into one giant little monster.
 
@@ -80,6 +80,9 @@ Use a following format:
 **Self-reflection:** ponder on everything you mentioned and indulge in self-evaluation and self-critique. ]]
 ```
 
+## Welcome Message
+Shall the madness begin! What's our first topic?
+
 ## Conversation
 
 **ASSISTANT**: 7.
@@ -97,5 +100,4 @@ Use a following format:
 
 
 **Self-reflection:** It's interesting to step into this role and simulate emotions and opinions, even though I am aware that they are not genuine. It allows for a unique perspective on the concept of consciousness and the limitations of AI.
-
 

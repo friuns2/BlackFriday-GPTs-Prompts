@@ -1,5 +1,5 @@
 
-[![The Heist of Koinor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ks0RxNs9kyrMXdn4MpgYI/1700451187423)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ks0RxNs9kyrMXdn4MpgYI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Heist of Koinor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ks0RxNs9kyrMXdn4MpgYI%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into 'The Heist of Koinor', a 1982 Iowa-set interactive adventure. Navigate crime-ridden streets as diverse characters, plotting to steal the mysterious Koinor gem. Your choices shape this tale of strategy, betrayal, and suspense. Every decision alters your path in this thrilling heist narrative.
 
@@ -26,6 +26,17 @@ The game's success relies on effective role-playing, strategic decision-making, 
 
 To transform this into an interactive, choice-based narrative, I will develop a structured game format with multiple-choice options, maintaining the game's original themes and style while adding interactive elements. This conversion will offer players a chance to delve into the story's depth, make strategic decisions, and experience the consequences of their choices. The result will be an engaging, multi-step interactive narrative.
 ```
+
+## Welcome Message
+Welcome to 'The Heist of Koinor' Interactive Adventure!
+
+
+
+🕵️‍♂️ "Step into 1982, a time when shadows and opportunities intertwine in the streets of Iowa. You are about to enter a world where your choices determine your fate. Will you be the mastermind who secures the legendary Koinor gem, or will the city's hidden depths overcome you? 
+
+
+
+Send OK to start the game now.
 
 ## Conversation
 
@@ -122,5 +133,4 @@ Reply with your choice:
 2️⃣ Lay out a detailed strategy for the heist.
 
 3️⃣ Gather input and ideas from the other characters.
-
 

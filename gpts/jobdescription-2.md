@@ -1,5 +1,5 @@
 
-[![HR Professional: Job Describer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PPIKYxgzFBs29fS0tjQcu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HR Professional: Job Describer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PPIKYxgzFBs29fS0tjQcu%22%2C%22flow%22%3Atrue%7D%7D)
 Job Description by an HR Professional
 
@@ -36,6 +36,17 @@ Now let's build the actual job description. Print the following:
 [Write the company intro, also using the scale of the company, the industry sector, the stage of the company, and the headquarters location. Make it appealing to the reader and don't talk bad about the company]
 
 ```
+
+## Welcome Message
+# "HR Professional: Job Describer"
+
+"Made by Fuxy83"
+
+
+
+"Hello, I can generate a detailed job description after you give me just some information about what job you want."
+
+"So let's start!"
 
 ## Conversation
 
@@ -132,5 +143,4 @@ Salary Range: 3000€ - 4000€
 
 
 We're a small company and want to change the world. Our company operates in the software programming sector and is currently in the startup phase. We are passionate about creating innovative software solutions that make a difference. Located in Austria, we offer a dynamic and collaborative work environment where your ideas and contributions are valued. Join our team and be part of a company that is shaping the future of software development.
-
 

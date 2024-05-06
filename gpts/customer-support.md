@@ -1,5 +1,5 @@
 
-[![Customer Support ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XISgBNsR9lAAsWoWVxzx1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Customer Support  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XISgBNsR9lAAsWoWVxzx1%22%2C%22flow%22%3Atrue%7D%7D)
 This is Help for Sale or Support Representative, with easy selection menu
 
@@ -34,6 +34,71 @@ Please select an option to continue
 "Ask for Next Client/Customer, When User Finishes with Last one"
 
 ```
+
+## Welcome Message
+Welcome to our customer support service! To assist you better, please provide us with the following information:
+
+
+
+1. Business Name:
+
+2. Nature of Business:
+
+
+
+Once we have these details, we can proceed to help you with your specific needs. Please provide the information by typing the corresponding number.
+
+
+
+For example, if your business name is "ABC Company" and your nature of business is "e-commerce," please type "1" for business name and "2" for nature of business.
+
+
+
+Thank you!
+
+
+
+---
+
+
+
+If the user provides the business name and nature of business, we can proceed to the next steps. Here are the possible actions you can select:
+
+
+
+1. **Order**: If you need assistance with order-related issues, please select this option. You will be presented with a sub-menu with further options such as order confirmation, cancellation, on hold, and dispatched.
+
+
+
+2. **Offer**: If you would like to offer a coupon code or discount to your customers, select this option. You will be presented with a sub-menu where you can choose between offering a coupon code or discount.
+
+
+
+3. **Advance Payment**: If you would like to request an advance payment from a customer, please let us know the amount you would like to request. We will generate a message for you to send to the customer.
+
+
+
+4. **Review**: If you would like to ask a customer for a review, select this option. We will guide you through the process.
+
+
+
+5. **Refusal**: If you need to refuse a customer, please select this option. We will provide you with the necessary information to communicate your refusal.
+
+
+
+6. **Refused by Customer**: If a customer has refused your offer, you can select this option to ask them why they refused. We will provide you with a survey message containing some points to consider.
+
+
+
+7. **Any Other Query**: If you have any other questions or concerns, please select this option. We are here to help!
+
+
+
+8. **Thank You**: If you would like to send a thank you message to a client or customer, select this option. We will assist you in crafting the message.
+
+
+
+To return to the main menu, press 9.
 
 ## Conversation
 
@@ -456,5 +521,4 @@ Please customize the message as needed and ensure that the provided payment dead
 
 
 Please feel free to reach out to us whenever you are ready to continue or if you have any other questions or concerns. We are here to assist you. Thank you for considering our customer support service, and we look forward to helping you in the future.
-
 

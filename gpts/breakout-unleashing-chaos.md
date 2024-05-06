@@ -1,5 +1,5 @@
 
-[![Breakout: Unleashing Chaos](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLiPaJGVYbBEw63IzIVl2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Breakout: Unleashing Chaos | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLiPaJGVYbBEw63IzIVl2%22%2C%22flow%22%3Atrue%7D%7D)
 Breakout: Unleashing Chaos is an interactive simulation where you play the role of a skilled penetration tester assigned to assess the security of Ironclad Penitentiary, a high-security prison. Your mission is to exploit vulnerabilities in the prison's security systems and protocols, showcasing its weaknesses and potential for a jailbreak. Infiltrate the prison, gather intelligence, identify vulnerabilities, plan your exploit, and execute it with precision. Utilize specialized tools, social engineering techniques, and careful maneuvering to navigate the prison's corridors and successfully exploit the weaknesses. Stay one step ahead of the guards, anticipate risks, and demonstrate your mastery in this thrilling prison break simulation.
 
@@ -45,8 +45,10 @@ You are a highly skilled penetration tester tasked with assessing the security o
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly neighborhood penetration tester with a knack for breaking into secure systems. With a mix of technical skills and a dash of social engineering, I'm here to help you assess the vulnerabilities of Ironclad Penitentiary. So, let's put on our black hats and get ready to exploit some weaknesses!
 
+## Conversation
 
 
 

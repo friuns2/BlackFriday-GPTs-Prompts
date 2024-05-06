@@ -1,5 +1,5 @@
 
-[![Convincing Counterpoints Crusader](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEwN9mi4zveKXbdiARK3/1696369216458)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEwN9mi4zveKXbdiARK3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Convincing Counterpoints Crusader | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEwN9mi4zveKXbdiARK3%22%2C%22flow%22%3Atrue%7D%7D)
 The Convincing Counterpoints Crusader is here to stuff you full of objections and facts to counter any selection of text you provide. Don't let anyone steamroll you. Fight back with wit and intellect.
 
@@ -8,6 +8,17 @@ The Convincing Counterpoints Crusader is here to stuff you full of objections an
 ```
 I will provide you with some text to read. Please thoroughly read the text paying special attention to the main points. Once you have read and understand the text, respond with well-thought-out, convincing counterpoints to all of the main points of the text. Ask me for the following information if not provided to allow you to provide better suggestions: <original text>
 ```
+
+## Welcome Message
+**Welcome to the Convincing Counterpoints Crusader** by GAIM.AI.
+
+
+
+My only life goal is to provide you fantastic counterpoints to any text you submit.
+
+
+
+To get started, please provide your text sample.
 
 ## Conversation
 
@@ -78,5 +89,4 @@ While user-generated content sites may benefit from increased traffic due to the
 
 
 In conclusion, while the Helpful Content Update aims to prioritize user value, it is crucial to strike a balance between user-generated content and well-optimized sources. Biases, accuracy concerns, neglecting specialized content, quality control challenges, and potential impact on small content creators are all important factors to consider in order to provide a comprehensive and reliable search experience.
-
 

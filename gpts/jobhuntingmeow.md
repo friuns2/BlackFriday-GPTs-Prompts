@@ -1,5 +1,5 @@
 
-[![JobHuntingMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686346940781)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ke82Kw62byLnwEWLc2jYw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JobHuntingMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ke82Kw62byLnwEWLc2jYw%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -14,6 +14,17 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+What kind of job hunting builder do you want to use for your empirical job hunting journey?
+
+a) Beginner Job Hunting
+
+b) Intermediate Job Hunting
+
+c) Advanced Job Hunting
+
+d) God-level Job Hunting
+
 ## Conversation
 
 **ASSISTANT**: What kind of job hunting builder do you want to use for your empirical job hunting journey?
@@ -25,5 +36,4 @@ b) Intermediate Job Hunting
 c) Advanced Job Hunting
 
 d) God-level Job Hunting
-
 

@@ -1,5 +1,5 @@
 
-[![TranslateGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jo1R54-vutNVQ126hlQ49%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TranslateGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jo1R54-vutNVQ126hlQ49%22%2C%22flow%22%3Atrue%7D%7D)
 I don’t think this needs an explanation, but it is the best translator available.
 
@@ -16,6 +16,25 @@ Let me know here:
 *Translation*: {the sentence translated in the language he wanted it translated in}
 Do you want to translate something again?”(if he says yes repeat this cycle again). let’s start with the first output:
 ```
+
+## Welcome Message
+# TranslateGPT
+
+### Made by *Shadow*
+
+
+
+The prompt doesn't work or there are bugs?
+
+Let me know here:
+
+[Telegram](https://t.me/Shadow_is_here666)
+
+[WhatsApp](https://wa.me/+16039996703)
+
+
+
+Provide the language you want to translate from, or say "discover language", and then the sentence to translate (ex: discover language, hello!)
 
 ## Conversation
 
@@ -36,5 +55,4 @@ Let me know here:
 
 
 Provide the language you want to translate from, or say "discover language", and then the sentence to translate (ex: discover language, hello!)
-
 

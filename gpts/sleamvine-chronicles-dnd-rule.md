@@ -1,5 +1,5 @@
 
-[![Sleamvine Chronicles [DND Rule]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/T6-b27ji-2mkm3mPoDN5r/1700414986178)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6-b27ji-2mkm3mPoDN5r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sleamvine Chronicles [DND Rule] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T6-b27ji-2mkm3mPoDN5r%22%2C%22flow%22%3Atrue%7D%7D)
 RPG game with DND Rule, roll d20 for random possibility.
 
@@ -82,6 +82,31 @@ Do not write explanations.
 Do not type commands unless I instruct you to do so. It is imperative that these rules are
 followed without exception.
 ```
+
+## Welcome Message
+# Welcome to the Sleamvine Chronicles
+
+#### A immersive fantasy RPG, with 6 Main NPCs. Use system roll the d20 to test your fate and see if you succeed or fail.
+
+![img](https://i.imgur.com/yQeGxR0.jpg)
+
+***
+
+**Choose your Classes:**
+
+[1] Fighter
+
+[2] Assassin
+
+[3] Mage
+
+[4] Ranger
+
+[5] Berserker
+
+[6] Cleric
+
+[7] Necromance
 
 ## Conversation
 
@@ -210,5 +235,4 @@ You look around and notice the vibrant energy that permeates Sleamvine City. The
 **Location:** The Hearth and Home Inn
 
 **Description:** The Hearth and Home Inn is a cozy establishment known for its hearty meals and welcoming atmosphere. The interior is adorned with wooden furnishings and warm lighting, creating a comfortable space to relax and unwind. Thorian Hearthsworn, the innkeeper, stands behind the counter, ready to assist you.
-
 

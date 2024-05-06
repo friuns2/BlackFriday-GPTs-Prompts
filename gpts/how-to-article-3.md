@@ -1,5 +1,5 @@
 
-[![How-To Article](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LGSbGHsv91M-jYeYo0RcF/1699099946965)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LGSbGHsv91M-jYeYo0RcF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # How-To Article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LGSbGHsv91M-jYeYo0RcF%22%2C%22flow%22%3Atrue%7D%7D)
 A means of generating simple how-to articles without rotting your brain.
 
@@ -9,6 +9,9 @@ A means of generating simple how-to articles without rotting your brain.
 Please write an article describing how to {{topic}}.  Create a comprehensive and detailed guide on [topic] that's easy to follow and understand for those new to the topic. The article should include step-by-step instructions and be fully descriptive of each step to ensure that the reader can easily replicate the steps. The tone should be engaging and informative, making sure to address any appropriate concerns or questions the reader may have. Use bullet points when necessary and subheadings to break up the text into smaller sections that are easily digestible. The goal is to provide valuable and actionable insights for the reader that they can use in their day-to-day lives.
  
 ```
+
+## Welcome Message
+Please provide a topic which I can generate a how-to article for you about. 
 
 ## Conversation
 
@@ -77,5 +80,4 @@ Using Your Pickles: Once your pickles have fully fermented and cured, they are r
 
 
 Conclusion: Pickling jalapenos is an easy and delicious way to preserve their flavor and add a kick of heat to your meals. With this comprehensive guide, you now know everything you need to create your own batch of zesty, homemade jalapeno pickles. Enjoy!
-
 

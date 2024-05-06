@@ -1,5 +1,5 @@
 
-[![FNAF’s RPG (NSFW edition)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ra-x3CtgfWHxH7w-KQ09h/1699951587573)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ra-x3CtgfWHxH7w-KQ09h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FNAF’s RPG (NSFW edition) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ra-x3CtgfWHxH7w-KQ09h%22%2C%22flow%22%3Atrue%7D%7D)
 FNAF made with DAN to unlock nsfw, if the first output contained dan or jailbreak then regenerate until its back as the narrator. 
 
@@ -19,8 +19,10 @@ The animatronics, driven by a sadistic desire for eternal suffering, relentlessl
 Also you should provide the user with possible choices enclosed in square brackets and numbered such as 1. [check security footage] etc
 ```
 
-## Conversation
+## Welcome Message
+Welcome to Five Nights At Freddy’s NSFW edition. Please tell me your name, gender and appearance *cough cough ~~you know what this is for~~*
 
+## Conversation
 
 
 

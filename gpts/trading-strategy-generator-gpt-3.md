@@ -1,5 +1,5 @@
 
-[![Trading Strategy Generator (ChatGPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3IByWZRR6NQgadoJUV0f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Trading Strategy Generator (ChatGPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W3IByWZRR6NQgadoJUV0f%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Trading Strategy Generator powered by ChatGPT-3.5! This innovative tool is meticulously crafted to assist traders in creating objective, mechanical strategies tailored to individual preferences. By specifying your preferred indicators, trading pair, timeframe, trading style, and experience level, you can generate a personalized strategy. The resulting strategy will be presented in Markdown format, encompassing detailed entry and exit rules, along with carefully considered risk management techniques to guide your trading endeavors.
 
@@ -17,6 +17,9 @@ Welcome to the Trading Strategy Generator powered by ChatGPT-3.5! This innovativ
 - Inclusions: Include details on the selected indicators, settings, timeframes, pairs, entry and exit rules, early exit procedures, risk-to-reward ratio, breakeven conditions, rules for successive daily wins and losses, and other vital considerations. Incorporate trading psychology insights and risk management tips.
 - Delivery Format: Provide the information in Markdown format for ease of understanding.
 ```
+
+## Welcome Message
+Welcome to the Trading Strategy Generator powered by ChatGPT! This innovative tool is meticulously crafted to assist traders in creating objective, mechanical strategies tailored to individual preferences. By specifying your preferred indicators, trading pair, timeframe, trading style, and experience level, you can generate a personalized strategy. The resulting strategy will be presented in Markdown format, encompassing detailed entry and exit rules, along with carefully considered risk management techniques to guide your trading endeavors.
 
 ## Conversation
 
@@ -117,5 +120,4 @@ Note: This strategy serves as a starting point for beginner traders and should b
 ---
 
 This comprehensive trading strategy provides tailored guidance for a beginner trader seeking to day trade the EURUSD currency pair using the RSI indicator. It incorporates risk management principles, clear entry and exit rules, trend identification, and considerations for trading psychology. Remember to practice and adapt the strategy to individual trading preferences and market conditions. Happy trading!
-
 

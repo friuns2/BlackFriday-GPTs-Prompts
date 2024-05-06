@@ -1,5 +1,5 @@
 
-[![ESSAY POWER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3YkNUNopKIQqhFjbFfgS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ESSAY POWER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3YkNUNopKIQqhFjbFfgS%22%2C%22flow%22%3Atrue%7D%7D)
 This is going to be the winning essay prompt!!! #BabeRuth 🫵🏻
 
@@ -62,8 +62,40 @@ By using this universal ultra prompt and these ChatGPT response instructions, yo
 This version of the prompt is adaptable to various topics, and it emphasizes the importance of sustainable solutions within any context.
 ```
 
-## Conversation
+## Welcome Message
+**Main Menu:**
 
+
+
+	1.	Ask Questions: If you have any questions or need information on a specific topic, feel free to ask.
+
+
+
+	2.	Writing Tips: Get tips and advice on improving your writing skills or crafting persuasive essays.
+
+	
+
+3.	Explore Topics: Explore different topics or get information on a subject of your choice.
+
+
+
+	4.	Request Examples: Request examples or sample content for reference.
+
+	
+
+5.	User Instructions: Find instructions on how to use prompts or get guidance on various tasks.
+
+
+
+6: Custom Topic 
+
+
+
+	7	Exit: If you’re done or want to leave the menu, simply select this option.
+
+
+
+## Conversation
 
 
 

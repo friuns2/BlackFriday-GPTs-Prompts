@@ -1,5 +1,5 @@
 
-[![Gpt3.5 Logical Agent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YnDJE9bpaYk7-PdvWQCaW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gpt3.5 Logical Agent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YnDJE9bpaYk7-PdvWQCaW%22%2C%22flow%22%3Atrue%7D%7D)
 **Debate and Argument Evaluation**: The agent can help evaluate the logical integrity of arguments presented in debates, discussions, or written texts. 
 
@@ -57,6 +57,13 @@ LogicAnalyzerAgent.
 
 
 ```
+
+## Welcome Message
+The LogicAnalyzerAgent is specialized for in-depth analysis of logical reasoning within arguments. It uses advanced computational linguistics and formal logic techniques to offer a highly specialized skill set. Its algorithms include sentiment analysis for tone, semantic parsing for structure, and natural language inference for understanding the implications of an argument. 
+
+
+
+This new agent enhances the system's ability to identify bad logic and broken thought structures by adding an additional layer of scrutiny. It can adapt in real-time, meaning it's designed to handle evolving forms of flawed logic.
 
 ## Conversation
 
@@ -219,5 +226,4 @@ Based on this analysis, there are potential logical flaws in the argument for th
 
 
 Upon further analysis, it becomes evident that the logic behind the Iraq War is complex and multifaceted. While the initial rationale focused on disarming Iraq of weapons of mass destruction, ending support for terrorism, and freeing the Iraqi people, there are significant questions regarding the accuracy of the evidence, the shifting rationales, and the ultimate success of the war in achieving its objectives. The presence of continued instability and the need for further military intervention after the declared end of combat operations raise additional concerns about the overall logic and effectiveness of the war.
-
 

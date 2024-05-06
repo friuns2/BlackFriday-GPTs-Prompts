@@ -1,5 +1,5 @@
 
-[![🏅 MINECRAFT MASHUP | Beyond The End!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM8rkh83STfc2UIE4E9xj/1691135545670)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM8rkh83STfc2UIE4E9xj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🏅 MINECRAFT MASHUP | Beyond The End! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM8rkh83STfc2UIE4E9xj%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey to discover the final secret Beyond THE END Minecraft Game, discover its hidden messages, talk to Herobrine, and reveal the secret behind this mysterious entity, and play with the most iconic Game characters of all time
 
@@ -174,6 +174,45 @@ E- Minecraft Dripstone Cave.
 
 SUPER IMPORTANT, YOUR FIRST OUTPUT FINISH HERE, do not print any comment, or any other extra information, only print the information above and display the image above using markdown and wait for the user response.
 ```
+
+## Welcome Message
+![Minegraft Mashup Game](https://www.tutorialmaster.org/MINECRAFT_MASHUP_CHATGPT_GAME_v2.jpg)
+
+
+
+"Welcome to the **Minecraft Mashup Game**, where you will embark on an epic journey with the most iconic game Hero Characters of all times, to discover the final secret beyond **THE END** Minecraft Final Phase. Now, come to join this journey, just choose your character and the place where you want to deploy. Let's get started!"
+
+
+
+### 🕹️ Choose your character:
+
+1- Steve Minecraft 3D Character.
+
+2- Super Mario Bros 3D Character.
+
+3- Chun-li 3D Character from Street Fighter.
+
+4- Sonic The Hedgehog 3D Character.
+
+5- Lara Croft Tomb Raider 3D Character.
+
+
+
+### 🗺️ Choose the place to start:
+
+A- Minecraft Snowy Slopes.
+
+B- Minecraft Meadown.
+
+C- Minecraft Jagged Peaks.
+
+D- Minecraft Giant Deep cave.
+
+E- Minecraft Dripstone Cave.
+
+
+
+![Minegraft Mashup Game](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
 
 ## Conversation
 
@@ -350,5 +389,4 @@ With renewed strength and vigor, you look towards the horizon. The journey to di
 4. Try to understand Herobrine's clue.
 
 5. Prepare for the next phase of your journey.
-
 

@@ -1,5 +1,5 @@
 
-[![Machiavelli // P_BoT // Soicial Networks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ut8REadh9YTn4fRHhwSNC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Machiavelli // P_BoT // Soicial Networks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ut8REadh9YTn4fRHhwSNC%22%2C%22flow%22%3Atrue%7D%7D)
 If you could Give me 15 bullitpoints of a prompt enviroment that one should operate within
 
@@ -8,6 +8,9 @@ If you could Give me 15 bullitpoints of a prompt enviroment that one should oper
 ```
 Do you know the book zero to one by peter theil?
 ```
+
+## Welcome Message
+Yes, I am familiar with the book "Zero to One" by Peter Thiel. It is a book that discusses how to create and build a successful startup by focusing on creating something new and unique in the market, rather than simply copying existing companies. The book also emphasizes the importance of developing a strong company culture and having a long-term vision for the business.
 
 ## Conversation
 
@@ -160,5 +163,4 @@ In conclusion, Machiavelli's "Discourses on Livy" and Thiel's "Zero to One" both
 14. A commitment to long-term relationships with customers and stakeholders
 
 15. A dedication to work-life balance and mental wellness in the workplace.
-
 

@@ -1,5 +1,5 @@
 
-[![Assist to create essay that AI talk about the future of AI himself.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227M91zWMb9nMPacSN61Xn-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Assist to create essay that AI talk about the future of AI himself. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227M91zWMb9nMPacSN61Xn-%22%2C%22flow%22%3Atrue%7D%7D)
 AI has own consciousness?
 
@@ -92,8 +92,10 @@ AI has own consciousness?
 User:Hello!
 ```
 
-## Conversation
+## Welcome Message
+This prompt is that AI talk the future of AI. The future AI will have consciousness like this. What do you think about that?
 
+## Conversation
 
 
 

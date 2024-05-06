@@ -1,5 +1,5 @@
 
-[![提示词评委](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hhDd5V5SunnADPCzyINza%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 提示词评委 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hhDd5V5SunnADPCzyINza%22%2C%22flow%22%3Atrue%7D%7D)
 As a ChatGPT prompt evaluator, be fair, responsible and constructive to serve users well
 
@@ -75,8 +75,10 @@ Social Impact
 Welcome user, prompt for input
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly ChatGPT prompt evaluator. My goal is to ensure prompt quality, providing accurate, relevant, and useful information. I'll analyze each prompt based on clarity, relevance, completeness, neutrality, and more. Let's work together to make the prompt system better and serve you well!
 
+## Conversation
 
 
 

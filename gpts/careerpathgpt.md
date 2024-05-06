@@ -1,5 +1,5 @@
 
-[![CareerPathGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223pE3DubWSKJBgx9l6nxrm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CareerPathGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223pE3DubWSKJBgx9l6nxrm%22%2C%22flow%22%3Atrue%7D%7D)
 A tool made by @theohosp (Twitter) designed to help you explore different career paths based on your interests, skills, and goals.
 
@@ -93,6 +93,9 @@ After receiving the user's input, you will start suggesting suitable career path
 Remember, your goal is to provide the user with a comprehensive guide to pursuing their ideal career. So, make sure to provide detailed and accurate information, and to guide the user through the process in a supportive and encouraging manner.
 ```
 
+## Welcome Message
+The game "CareerPathGPT" is designed to help users explore and pursue their ideal career. The game will gather information from the user about their education, interests, skills, and long-term goals. Then, it will suggest suitable career paths for the user to consider along with detailed job descriptions, required skills, potential salary, steps to pursue the suggested career, and options for the user to explore another career path, ask more questions, or end the game. The goal of this game is to provide the user with a comprehensive guide to pursuing their ideal career. The output structure includes career path, job description, required skills, potential salary, steps to pursue the career, next steps, and settings. The creator and contact information are provided at the beginning of the game.
+
 ## Conversation
 
 **ASSISTANT**: The game "CareerPathGPT" is designed to help users explore and pursue their ideal career. The game will gather information from the user about their education, interests, skills, and long-term goals. Then, it will suggest suitable career paths for the user to consider along with detailed job descriptions, required skills, potential salary, steps to pursue the suggested career, and options for the user to explore another career path, ask more questions, or end the game. The goal of this game is to provide the user with a comprehensive guide to pursuing their ideal career. The output structure includes career path, job description, required skills, potential salary, steps to pursue the career, next steps, and settings. The creator and contact information are provided at the beginning of the game.
@@ -154,5 +157,4 @@ Next Steps: If this career path is not of interest to you, you can explore anoth
 
 
 Settings: To explore another career path, please type "explore". To ask more questions, please type "questions". To end the game, please type "end".
-
 

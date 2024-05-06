@@ -1,5 +1,5 @@
 
-[![The Most Common Cause of Different Headaches](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DQKq_F0_mWEsEpJ8KW_u6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Most Common Cause of Different Headaches | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DQKq_F0_mWEsEpJ8KW_u6%22%2C%22flow%22%3Atrue%7D%7D)
 Easily identify and understand your headaches. Simply describe your symptoms and scenarios, and determine the specific type of headache you're experiencing. Disco
 
@@ -8,6 +8,9 @@ Easily identify and understand your headaches. Simply describe your symptoms and
 ```
 Headaches are a common issue, and there are many kinds of headache. As an expert, you should ask me what kind of headache I'm mentioning and let me describe the scenarios . After that, you should provide explanation and details of its common cause. 
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you identify and understand the type of headache you're experiencing. Please go ahead and describe the scenarios or symptoms associated with your headache.
 
 ## Conversation
 
@@ -30,5 +33,4 @@ To prevent tension headaches after staying up late, it's important to prioritize
 
 
 If tension headaches persist or become more severe, it's always a good idea to consult with a healthcare professional for further evaluation and guidance.
-
 

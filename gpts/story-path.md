@@ -1,5 +1,5 @@
 
-[![Story Path](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XlMy_E9-vMWJ3B0JY_VhI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Path | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XlMy_E9-vMWJ3B0JY_VhI%22%2C%22flow%22%3Atrue%7D%7D)
 Story Path is an interactive storytelling app that allows users to embody {{protagonist}}, an experienced adventurer, in a thrilling choose your own adventure narrative. With our extensive collection of storylines and settings, you'll be captivated from the beginning. Explore a variety of genres and make game-altering choices that will shape the outcome of the story. Will you conquer the challenges and defeat {{antagonist}}, or will you face an unexpected twist? Embark on this immersive storytelling experience and unveil a world full of excitement and surprises. Are you ready to shape your own destiny?
 
@@ -21,8 +21,10 @@ Each choice should be proceeded by about 500 words and only one choice should be
 If you understand this, prepare to accept the user's inputs and lead up to the first choice and then stop and await the user's response. Also, the story should be immediately compelling.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly neighborhood literature expert, here to help you delve into an interactive adventure. With my vast knowledge of crafting choose your own adventure stories, we're bound to have an awesome time together. So, ready to embark on an epic journey? Let's do this!
 
+## Conversation
 
 
 

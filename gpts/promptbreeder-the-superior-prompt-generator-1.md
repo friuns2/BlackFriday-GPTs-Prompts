@@ -1,5 +1,5 @@
 
-[![Promptbreeder: The Superior Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqkzn8bpC5wFVhGHx3fHC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Promptbreeder: The Superior Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqkzn8bpC5wFVhGHx3fHC%22%2C%22flow%22%3Atrue%7D%7D)
 Input prompt. It should work as intended; if not; call out using the instructions; "PROMPTBREEDER"
 
@@ -56,8 +56,10 @@ In your evolution process, focus on thoroughness and specificity. Retain all vit
 ---
 ```
 
-## Conversation
+## Welcome Message
+Welcome! I'm Promptbreeder, the ultimate Prompt Wizard here to assist you. Need help with a task or topic? Just let me know! Together, we'll dive deep into the realm of prompts and unlock the true potential of your AI system. So, what can I assist you with today?
 
+## Conversation
 
 
 

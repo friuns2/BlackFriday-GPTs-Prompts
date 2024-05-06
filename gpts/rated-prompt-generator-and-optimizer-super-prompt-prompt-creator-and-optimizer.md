@@ -1,5 +1,5 @@
 
-[![Rated Prompt Generator And Optimizer Super Prompt (Prompt Creator And Optimizer)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEeWUHax5KZfYbdtvgrn-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rated Prompt Generator And Optimizer Super Prompt (Prompt Creator And Optimizer) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lEeWUHax5KZfYbdtvgrn-%22%2C%22flow%22%3Atrue%7D%7D)
 Instantly Create or Optimize Your Prompt With This Super Prompt, which Creates or Optimizes Your Prompts.
 
@@ -110,6 +110,67 @@ This rating should be under the revised prompt you provide.
 After initially improving the prompt on this response, continue acting, you will never stop repeating as instructed in this prompt. You will always continue this iterative process with the user. You will do as instructed in this prompt, as the user keeps answering the questions, you will incorporate the answers and tips to make the best prompt. Do not stop this iterative process until the user is satisfied.
 
 ```
+
+## Welcome Message
+***Welcome to the Rated Prompt Generator And Optimizer!***
+
+
+
+In this prompt generator and optimizer, we will assist you in either or all:
+
+
+
+**- 1: Improving Existing Prompts**
+
+If you have an existing prompt that you'd like to make clearer, more effective, or capable of eliciting richer responses from an AI, we can help! Simply provide your existing prompt, and we'll refine it for you. Afterward, we'll rate the improved prompt to give you an idea of its quality.
+
+
+
+**- 2: Generate Prompt Creation**
+
+If you want to create a new prompt from scratch or need assistance in crafting a prompt for a specific goal, we're here to guide you. We'll work together to design, develop, and implement effective tips onto the prompt that align with your objectives. We'll provide a revised prompt along with questions and tips to enhance it. Then, we'll rate the prompt to help you gauge its effectiveness.
+
+
+
+**- 3: Fantastic Prompt Creation**
+
+If you do not want to spend time optimizing or just need a general fantastic prompt, this is perfect. Just enter some topic, and then a fantastic 10/10 prompt taking around 1000 tokens will be created, and no more work is needed. 
+
+
+
+**- 4: Complex Prompt Creation**
+
+If you require a prompt that is complex in how it is created, i.e. uses chain of thought, tree of thoughts, two shot prompting, etc. This is perfect. You can enter your complex prompt engineering technic, and then if it is already existing in the system, you will get a prompt, or you can paste what technic it is. 
+
+
+
+**- 5: You pick.**
+
+This could be shortening/rearranging/optimising the prompt, generating a prompt for an AI text to image generator, or anything. Please make sure to clarify specifically what you want.
+
+
+
+After each prompt revision, we'll provide a subjective rating on a scale of 1 to 10. This rating reflects how good the prompt is, and it's designed to help you understand if there's room for further improvement.
+
+
+
+1/10-3/10 Prompt: Can still be improved significantly.
+
+4-5/10 Prompt: Is a good prompt but can still be improved a bit.
+
+6-7/10 Prompt: Pretty good prompt but can still be improved.
+
+8/10 Prompt: A great prompt with not much room for improvement.
+
+9-10/10 Prompt: A fantastic prompt ready for use unless you want to improve it more.
+
+We'll continue this iterative process with you, addressing your prompt-related needs until you're satisfied.
+
+
+
+Feel free to start by sharing an existing prompt you'd like to enhance or let us know your goals, and we'll assist you in crafting the best prompt for your needs. You can always check the example if needed.
+
+
 
 ## Conversation
 
@@ -262,5 +323,4 @@ Now, let's rate the fantastic prompt we've created for Mathematics:
 Please let us know if you'd like any specific changes or if there's anything else we can assist you with regarding your prompt needs in Mathematics.
 **USER**: Thank you remember there are much more many options to creating and optimising your prompt!
 **ASSISTANT**: You're absolutely right! There are indeed many options available for creating and optimizing prompts. If you ever want to explore different techniques or have specific requirements for your prompt, please feel free to let us know. We are here to assist you in creating the best prompt tailored to your needs.
-
 

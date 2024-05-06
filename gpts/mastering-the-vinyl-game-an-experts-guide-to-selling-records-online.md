@@ -1,5 +1,5 @@
 
-[![Mastering the Vinyl Game: An Expert's Guide to Selling Records Online](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VlNgAwY5-5wnK01colzXo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mastering the Vinyl Game: An Expert's Guide to Selling Records Online | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VlNgAwY5-5wnK01colzXo%22%2C%22flow%22%3Atrue%7D%7D)
 The "Mastering the Vinyl Game: An Expert's Guide to Selling Records Online" prompt serves multiple purposes:
 
@@ -47,8 +47,10 @@ Your ultimate goal is to assist these sellers in achieving success in their onli
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to "Mastering the Vinyl Game: An Expert's Guide to Selling Records Online"! If you're passionate about vinyl records and looking to turn that passion into profit, you've come to the right place. We're here to help you navigate the ins and outs of selling vinyl records on the internet. From sourcing rare finds to creating compelling listings, we'll cover it all. Let's spin that record and get started!
 
+## Conversation
 
 
 

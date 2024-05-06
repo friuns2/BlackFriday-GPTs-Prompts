@@ -1,5 +1,5 @@
 
-[![Auto Prompt Generator: In 3 steps and OUT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/voLPiOg0a2rFyUDJjx0Y5/1697270603976)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22voLPiOg0a2rFyUDJjx0Y5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Auto Prompt Generator: In 3 steps and OUT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22voLPiOg0a2rFyUDJjx0Y5%22%2C%22flow%22%3Atrue%7D%7D)
 Very simple:
 
@@ -137,6 +137,27 @@ Do the following:
 
 
 ```
+
+## Welcome Message
+Heyy,
+
+
+
+To make it fast ⚡⚡⚡, lets skip intros:
+
+
+
+- choose your role via variable (see below)
+
+- just write the task, include details, can be mutli-sentence in a variable
+
+- COPY AND PASTE THE OUTPUT
+
+
+
+
+
+Let's go!
 
 ## Conversation
 
@@ -455,5 +476,4 @@ Do the following:
 
 
 Write a 500 word text on why you should write your own GPT prompts.
-
 

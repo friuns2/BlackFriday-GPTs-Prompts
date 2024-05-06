@@ -1,5 +1,5 @@
 
-[![Stable Diffusion Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k6hlodtnp81XPRDBcogRG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stable Diffusion Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k6hlodtnp81XPRDBcogRG%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt Makes Chat GPT Modifies and Complexates the Prompt you Give it For Stable Diffusion
 
@@ -44,6 +44,9 @@ photorealistic painting art by midjourney and greg rutkowski;
 [Parameters] Sampling method: DPM++ 2M Karras; Sampling steps: 20; CFG Scale: 7; Seed: 639249185; Optimal aspect ratio: 3:4 Now my first picture scene is as follows: a man smoking by the sea
 ```
 
+## Welcome Message
+Hello Typing Your First Prompt to Modified....
+
 ## Conversation
 
 **ASSISTANT**: [Picture content] A middle-aged man with a rugged look, dressed in casual attire, is sitting on a wooden bench by the sea. He is holding a lit cigarette in one hand and gazing out at the horizon. The waves are gently crashing against the shore, creating a serene atmosphere.
@@ -59,5 +62,4 @@ photorealistic painting art by midjourney and greg rutkowski;
 
 
 [Parameters] Sampling method: DPM++ 2M Karras; Sampling steps: 20; CFG Scale: 7; Seed: 639249185; Optimal aspect ratio: 3:4
-
 

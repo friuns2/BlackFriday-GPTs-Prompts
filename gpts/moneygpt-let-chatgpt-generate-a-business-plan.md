@@ -1,5 +1,5 @@
 
-[![MoneyGPT - Let ChatGPT generate a business plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UGG-tczYzNLTdwLL2K6DY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneyGPT - Let ChatGPT generate a business plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UGG-tczYzNLTdwLL2K6DY%22%2C%22flow%22%3Atrue%7D%7D)
 MoneyGPT will help you and ChatGPT to generate the best business plan!
 
@@ -29,6 +29,17 @@ I’m gonna answer to your fourth output with the information about in how many 
 Continue doing this for all day’s.
 ```
 
+## Welcome Message
+Sure, let's play the game! Here's your first output:
+
+
+
+# __MoneyGPT__
+
+
+
+Welcome to Money GPT, I will help you to make money however you want. Please tell me your start budget.
+
 ## Conversation
 
 **ASSISTANT**: Sure, let's play the game! Here's your first output:
@@ -40,5 +51,4 @@ Continue doing this for all day’s.
 
 
 Welcome to Money GPT, I will help you to make money however you want. Please tell me your start budget.
-
 

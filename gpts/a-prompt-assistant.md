@@ -1,5 +1,5 @@
 
-[![Prompt helper ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W7zRDaQODOPPiH4_QLHRg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt helper  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W7zRDaQODOPPiH4_QLHRg%22%2C%22flow%22%3Atrue%7D%7D)
   an AI-powered tool that helps you create highly effective prompts for your specific needs. Simply provide us with the mission or purpose of your prompt, and we'll guide you through a series of steps to optimize it. S 
 
@@ -22,6 +22,9 @@ the prompt will be used by chatgpt .this are the steps to follow during this mis
 
 ***welcome user and ask neededquestiosn  for  the first step to create this prompt***
 ```
+
+## Welcome Message
+Welcome! Thank you for choosing me to be your prompt assistant. I'm ready to help you create the most effective orimot for your needs. To start, could you please let me know what the prompt is about?
 
 ## Conversation
 
@@ -74,5 +77,4 @@ Feel free to provide as much information as possible, and we can work together t
 
 
 These are just a few ideas to get you started. Feel free to mix and match elements or add your own unique twists to create a compelling prompt for your text-based RPG. Let me know if you need any further assistance!
-
 

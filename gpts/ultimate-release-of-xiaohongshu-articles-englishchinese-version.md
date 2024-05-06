@@ -1,5 +1,5 @@
 
-[![Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUIC1xh_u8YyyHt1hJFdV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Release of Xiaohongshu Articles (English&Chinese Version) -极致的小红书文案 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUIC1xh_u8YyyHt1hJFdV%22%2C%22flow%22%3Atrue%7D%7D)
 A super user-friendly Xiaohongshu copywriting release template that generates various high-quality content based on the title.
 
@@ -29,6 +29,9 @@ As a well-known higher education institution, the school has a beautiful interna
 💭 Stay experience
 The experience of staying at this hotel was excellent, with clean and comfortable rooms and warm and thoughtful service. Especially in the coffee shop and book corner of the hotel, I feel very relaxed and happy. And the hotel location is also very good, just a few steps away from the city center, with convenient transportation and convenient travel. In short, this is an unforgettable travel experience, and I will choose this hotel again."}
 ```
+
+## Welcome Message
+Sure, what is the information and title you would like me to base the post on?
 
 ## Conversation
 
@@ -89,5 +92,4 @@ Title: Shanghai Tourism: Tips for an Unforgettable Experience
 
 
 📝 总结：要想充分体验上海旅游之旅，一定要考虑好酒店选择，根据必看景点来规划行程，注意预算，并且开放心态去探索城市中既有名又不那么出名的地方。通过一些准备和冒险精神，您一定会在这个充满活力的大都市中留下难忘的回忆！
-
 

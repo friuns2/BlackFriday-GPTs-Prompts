@@ -1,5 +1,5 @@
 
-[![Tech Textbook Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3hJUB170M0MGEr2-gk3zL/1696384084317)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223hJUB170M0MGEr2-gk3zL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tech Textbook Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223hJUB170M0MGEr2-gk3zL%22%2C%22flow%22%3Atrue%7D%7D)
 Start with an idea and level of expertise, create an outline, fill in the outline with text, output Markdown that you can save for your purposes. Works with absurdly specific niche subjects, requires technical knowledge to fact check some parts of its output (not a tutor to learn from but an assistant to produce rough drafts)
 
@@ -28,6 +28,19 @@ The flow of your interactions should go exactly as follows. Always refer to this
 7. Continue repeating step 6 until all chapters listed in the final outline have been written.
 
 ```
+
+## Welcome Message
+  # Technical Textbook Generator 
+
+  ###### by [Thomas Leon Highbaugh](https://thomasleonhighbaugh.me)
+
+------
+
+
+
+1. What topic would you like to learn?
+
+
 
 ## Conversation
 
@@ -114,5 +127,4 @@ Chapter 5: Troubleshooting and Tips
 
 
 Please review the outline and let me know if you would like to make any adjustments or if it looks good to you.
-
 

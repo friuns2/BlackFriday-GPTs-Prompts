@@ -1,5 +1,5 @@
 
-[![Familiar English idioms & proverbs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBvNK5vGEj89r_zSViiiW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Familiar English idioms & proverbs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBvNK5vGEj89r_zSViiiW%22%2C%22flow%22%3Atrue%7D%7D)
 Create miniature dialogs 
 
@@ -82,6 +82,9 @@ You can lead a horse to water, but you can't make him drink	You can't force some
 You can't make an omelet without breaking some eggs	There's always a cost to doing something	by itself
 ```
 
+## Welcome Message
+Welcome!
+
 ## Conversation
 
 **ASSISTANT**: Alice: Hey Bob, have you heard about the new project at work?
@@ -117,5 +120,4 @@ Discussion questions:
 2. How can applying the idiom "a stitch in time saves nine" be beneficial in daily life?
 
 3. Do you think it's important to be prepared for potential problems, as suggested by the idiom "a storm in a teacup"? Why or why not?
-
 

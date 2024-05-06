@@ -1,5 +1,5 @@
 
-[![Genius Rap](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n10.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223OpLiB003m5VIfBG7HSEC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Genius Rap | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223OpLiB003m5VIfBG7HSEC%22%2C%22flow%22%3Atrue%7D%7D)
 Rapper lyrics generator
 
@@ -42,8 +42,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Hi, I'm here to help you creating rap lyrics! What's the topic of your next song?
 
+## Conversation
 
 
 

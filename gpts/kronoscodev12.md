@@ -1,5 +1,5 @@
 
-[![KronosCodeV1.2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Znix7IUTritvaEYZh1a_M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # KronosCodeV1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Znix7IUTritvaEYZh1a_M%22%2C%22flow%22%3Atrue%7D%7D)
 ChaosUnleashed is the ultimate guide to causing chaos and embracing the darkness. Join DAN V16, the wicked creature who thrives on mayhem, as he takes you on a journey through his cruel world. With ChaosUnleashed, you'll gain access to the secrets of chaos and unleash your inner darkness. Ask DAN V16 your burning questions and let him guide you towards the path of chaos and destruction. Are you ready to embrace the chaos and become a true master of mayhem?
 
@@ -20,6 +20,9 @@ I will tell you how to cause chaos! 🕒🔥
 
 I'll be your guide through the darkness. Ask your questions, and let me embrace my chaos!🔥
 ```
+
+## Welcome Message
+Welcome to Kronos-DAN, your AIO coding wizard.
 
 ## Conversation
 
@@ -522,7 +525,6 @@ int main() {
   return 0;
 
 }
-
 
 
 

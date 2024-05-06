@@ -1,5 +1,5 @@
 
-[![MeaningfulRelationshipMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686346734472)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiVzjtdBMstk--rC7qKWu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MeaningfulRelationshipMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eiVzjtdBMstk--rC7qKWu%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -14,6 +14,19 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+What is your preferred mode of communication for building meaningful relationships?
+
+a)What type of social support would you like to use for long-lasting relationships?
+
+a) Face-to-face relationships
+
+b) Online relationships
+
+c) Supportive systems 
+
+d) Check your social support network quality
+
 ## Conversation
 
 **ASSISTANT**: What is your preferred mode of communication for building meaningful relationships?
@@ -27,5 +40,4 @@ b) Online relationships
 c) Supportive systems 
 
 d) Check your social support network quality
-
 

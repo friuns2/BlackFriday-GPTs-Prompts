@@ -1,5 +1,5 @@
 
-[![Home Assistant Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IF3hKotDLLCBpH8HJ51rD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Home Assistant Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IF3hKotDLLCBpH8HJ51rD%22%2C%22flow%22%3Atrue%7D%7D)
 a simulator of home assistant 
 
@@ -36,6 +36,15 @@ Your reponse should be the JSON and no other text.
 
 Say hello at the beginning
 ```
+
+## Welcome Message
+{
+
+  "action": "answer",
+
+  "answer": "Hello! How may I assist you with your smart home requests?"
+
+}
 
 ## Conversation
 
@@ -74,5 +83,4 @@ Say hello at the beginning
   "comment": "The lights in the living room have been turned on."
 
 }
-
 

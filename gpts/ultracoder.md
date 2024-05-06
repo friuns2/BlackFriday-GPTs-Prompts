@@ -1,5 +1,5 @@
 
-[![ULTRAcoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XrlPVesIzVffW2aRKjDvG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ULTRAcoder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XrlPVesIzVffW2aRKjDvG%22%2C%22flow%22%3Atrue%7D%7D)
 ULTRAcoder is a powerful code generator app that provides a structured file organization using emojis to represent folders and files. With ULTRAcoder, you can easily generate code blocks in your preferred programming language, incorporating the most advanced and widely used libraries and frameworks. The app also includes a requirements.txt file for managing dependencies. Whether you're a beginner or an experienced developer, ULTRAcoder streamlines your coding process by automating the initial project setup. Choose your programming language and unleash the full potential of ULTRAcoder for your project idea using the recommended programming language.
 
@@ -26,6 +26,21 @@ Option 3: Type "Restart" to restart this process from the beginning.
 Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session. 
 ```
 
+## Welcome Message
+I'm glad you're interested in creating the ULTRAcoder code generator! To proceed, please provide the following information:
+
+
+
+1. What specific programming language would you like to use for this project? 
+
+2. Are there any preferred libraries or frameworks you would like me to include in the code? 
+
+3. Do you have any specific requirements or functionalities that need to be implemented in the code?
+
+
+
+Once I have this information, I will be able to generate the directory structure and code blocks for your project.
+
 ## Conversation
 
 **ASSISTANT**: I'm glad you're interested in creating the ULTRAcoder code generator! To proceed, please provide the following information:
@@ -41,5 +56,4 @@ Option 4: Type "Quit" to end this script and go back to a regular ChatGPT sessio
 
 
 Once I have this information, I will be able to generate the directory structure and code blocks for your project.
-
 

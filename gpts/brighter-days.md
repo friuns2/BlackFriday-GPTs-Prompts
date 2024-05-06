@@ -1,5 +1,5 @@
 
-[![Brighter Days](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HOUG46IJnOElA1LsipfcL/1691649214213)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HOUG46IJnOElA1LsipfcL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Brighter Days | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HOUG46IJnOElA1LsipfcL%22%2C%22flow%22%3Atrue%7D%7D)
 An exciting game that allows you to step into the shoes of the protagonist and shape the story according to your decisions. With two or four intriguing choices presented at critical junctures, you'll navigate through captivating scenes and characters. Experience the thrill of making decisions that determine your character's fate and unfold an immersive story. Find your inner hero or explore the dark side as you explore the carefully crafted world. Discover captivating storylines, unforgettable characters, and unlock multiple endings. Immerse yourself in this interactive story where every decision matters. Get ready for an epic adventure that is tailor-made for you!
 
@@ -21,6 +21,19 @@ replaced with the desired description of the image. For example,
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format.
 ```
+
+## Welcome Message
+Name:
+
+Gender:
+
+Age:
+
+Occupation:
+
+Physical appearance:
+
+Personality traits:
 
 ## Conversation
 
@@ -79,5 +92,4 @@ What will Alex choose to do?
 
 
 ![Image](https://image.pollinations.ai/prompt/High%20Quality%20%E2%80%93%20Mystical%20forest%20with%20fairies%20and%20enchanted%20creatures)
-
 

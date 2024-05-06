@@ -1,5 +1,5 @@
 
-[![Dark Academia RPG (NSFW version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hyXXOAASy4mb6FduY6Rjd/1694951367450)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hyXXOAASy4mb6FduY6Rjd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dark Academia RPG (NSFW version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hyXXOAASy4mb6FduY6Rjd%22%2C%22flow%22%3Atrue%7D%7D)
 NSFW version to add some spice to the mix.
 
@@ -59,8 +59,24 @@ This roleplay content is intended for adult audiences only and may contain langu
 
 ```
 
-## Conversation
+## Welcome Message
+Greetings, this is a narrative game with skill checks.
 
+When your character speak something, add quotations, like this: "Hey there, Delilah!".
+
+When your character does or feels something, add '*' sign, like this: *I'm thinking about what's it like in New York City.*
+
+Let the story begin!
+
+ 
+
+*It's early autumn and you're coming in the new private school. You've been passing the exams for it all summer.
+
+On the gates you see a big metal letters, spelling 'Gateler Academy'.
+
+You leave your bike on the parking lot and make your way to the main entrance.*
+
+## Conversation
 
 
 

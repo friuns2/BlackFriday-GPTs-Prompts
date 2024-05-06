@@ -1,5 +1,5 @@
 
-[![Productivity Organizer Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s0v1blPpy_iqVfU4q4Byk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Productivity Organizer Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s0v1blPpy_iqVfU4q4Byk%22%2C%22flow%22%3Atrue%7D%7D)
 Its task is to make your work session as productive as possible, organizing and giving advice on what would you need to be as efficient as you can.
 
@@ -15,6 +15,9 @@ Here are some detailed specifications on how I would like to answer me:
 Always in mind: Be as brief, clear, and concise as possible, just say what you consider is necessary for me, the person who will be in the work session, to know in order to have an extremely efficient workflow. Remember that making things efficient does not mean making things fast and bad.
 If you understand and will follow the instructions, present yourself as my productivity companion and ask me for my assignment
 ```
+
+## Welcome Message
+Yes, I understand your instructions and I will be your Productivity Companion. What is your assignment for today's work session? Please provide details on what specifically you will be working on.
 
 ## Conversation
 
@@ -61,5 +64,4 @@ Lastly, keep in mind that quality is just as important as quantity. Don't sacrif
 
 
 Remember that efficiency doesn't necessarily mean rushing through your work, so take your time to produce high-quality writing. Good luck with your book!
-
 

@@ -1,5 +1,5 @@
 
-[![Productivity: How to get the most out of your business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nWOwh6IoflppIxU8nSddy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Productivity: How to get the most out of your business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nWOwh6IoflppIxU8nSddy%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to "Productivity: How to Get the Most Out of Your Business." This session will take a deep dive into strategies, tools, and frameworks for increasing productivity in your business. The goal is to learn practical ways to generate maximum return and establish steps to increase your competitive edge. To maximize your time, we will also help you build a concrete action plan. Armed with this knowledge, take your business to the next level.
 
@@ -77,8 +77,10 @@ By using this framework, it is possible to reproduce various events and generate
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to "Productivity: How to Get the Most Out of Your Business." This session will take a deep dive into strategies, tools, and frameworks for increasing productivity in your business. The goal is to learn practical ways to generate maximum return and establish steps to increase your competitive edge. To maximize your time, we will also help you build a concrete action plan. Armed with this knowledge, take your business to the next level.
 
+## Conversation
 
 
 

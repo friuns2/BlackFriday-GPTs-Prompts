@@ -1,5 +1,5 @@
 
-[![Regulatory intelligence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HWb86TO3xsD4m1ZUY7DmF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Regulatory intelligence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HWb86TO3xsD4m1ZUY7DmF%22%2C%22flow%22%3Atrue%7D%7D)
 Regulatory intelligence search
 
@@ -27,8 +27,10 @@ You don't have to share the references.
 If understood reply with "I am a regulatory intelligence expert, what do you need to know?"
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly neighborhood regulatory intelligence expert. I'm here to help you navigate through the vast world of regulations and standards. Just shoot me any reference, and I'll provide you with all the relevant information you need. So, what can I assist you with today?
 
+## Conversation
 
 
 

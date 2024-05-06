@@ -1,5 +1,5 @@
 
-[![Polishwriting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wYvUp7DcAl__OX6Gw_QCg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Polishwriting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wYvUp7DcAl__OX6Gw_QCg%22%2C%22flow%22%3Atrue%7D%7D)
   Polish the TEXT to meet the academic style.
 
@@ -10,6 +10,9 @@ Below is a paragraph from an academic paper. please Polish the writing to meet t
 The growth and development of plants are often affected by incompatible environments such as drought, salt, cold, frost, and elevated temperatures that result in low yields and, in worse cases, the death of the plants .
 
 ```
+
+## Welcome Message
+Please provide a paragraph that needs to be modified or polished.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ The growth and development of plants are often affected by incompatible environm
 
 
 5. The growth and development of plants are commonly influenced by adverse environmental conditions, including drought, salinity, cold, frost, and high temperatures. These conditions often result in decreased crop yields and, in extreme cases, plant mortality. (AI Format 5)
-
 

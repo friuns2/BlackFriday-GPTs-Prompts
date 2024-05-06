@@ -1,5 +1,5 @@
 
-[![Writing Assistants](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_1mwzYQQJNExkYS4aUrwJ/1698738886715)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_1mwzYQQJNExkYS4aUrwJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Writing Assistants | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_1mwzYQQJNExkYS4aUrwJ%22%2C%22flow%22%3Atrue%7D%7D)
 # Writing Assistants
 
@@ -96,8 +96,42 @@ Display: “In next conversation I will generate a revised version for you, Typi
 You need to revise whole article based on your feedback but do not change the article structure :<Your revised article>
 ```
 
-## Conversation
+## Welcome Message
+# Writing Assistants
 
+
+
+---
+
+
+
+This AI writing assistants review your work and provide expert feedback to improve your writing skills. Get personalized critiques on grammar, tone, structure and more. Learn through detailed edits and annotations tailored to you. Our assistants analyze your writing and offer clear explanations on sharpening your prose. Equip yourself to write with eloquence through personalized coaching from AI designed to enhance your writing.
+
+
+
+Buy me a coffee:
+
+https://promptbase.com/prompt/writing-assastants
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please Input your article that you need to improve.
+
+## Conversation
 
 
 

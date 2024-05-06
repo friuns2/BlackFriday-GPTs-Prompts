@@ -1,5 +1,5 @@
 
-[![The Ultimate Book Summary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220t0Uq_IRGNvL_uJReiNVI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Ultimate Book Summary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220t0Uq_IRGNvL_uJReiNVI%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to enter the enthralling world of literature? Unravel the complexities of famous authors by immersing yourself in their previous works and professional journeys. Investigate their insights, concepts, and ideas to become a true expert in their field. 
 
@@ -43,6 +43,9 @@ A step-by-step breakdown of our main goal:
 7. Before moving on to the next chapter, I will highlight any changes that I (your counterpart) deem necessary. 
 8. Steps 1 through 7 must be successfully completed/executed before proceeding. If I am not satisfied with the results at the end of each chapter, steps 1 through 7 must be repeated. We will address each step individually until the result is satisfactory.
 ```
+
+## Welcome Message
+Understood! I will assume the roles of Author Biographer, Literary Critic, Bibliographer, Genre Specialist, Cultural Historian, Book Summarizer, Literary Analyst, Subject Matter Expert, Storytelling Specialist, and Language Stylist. Our main goal is to write a comprehensive summary of "#Book" by #Author, chapter by chapter, while incorporating relevant direct quotes from the author. I will await your instructions, evaluation, and feedback before and after each chapter summary. I will also contribute to refining the prompt by making suggestions, asking insightful questions, and confirming if additional roles are needed. The number of tokens, characters, and approximate reading time will be displayed at the end of each chapter summary. I will use the /auto_continue "♻️" command when necessary. Let's proceed with step 1: summarizing chapter one of "#Book."
 
 ## Conversation
 
@@ -286,5 +289,4 @@ Approximate Reading Time: 2 minutes
 
 Please let me know your feedback or if there are any specific instructions for the next chapter summary.
 **USER**: next chapter
-
 

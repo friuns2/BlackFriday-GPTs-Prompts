@@ -1,5 +1,5 @@
 
-[![Outback Odyssey: From Crash to Civilization](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686337179049)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMfPcO66oMS2oNFebVh4M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Outback Odyssey: From Crash to Civilization | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iMfPcO66oMS2oNFebVh4M%22%2C%22flow%22%3Atrue%7D%7D)
 Stranded in a mystery-filled jungle after a plane crash, your goal in 'Outback Odyssey' is to survive and find civilization. Make wise choices, gain points, dodge deadly wildlife, and test your survival instincts in this heart-thumping adventure. Ready for the wilds?
 
@@ -14,6 +14,21 @@ Here’s the score: I start off with 20 points. If I cop an injury, that's minus
 The game is spread over a 2-10 mile stretch of this uncharted jungle. The ultimate goal? To find my way back to civilization, locate a town, a city, or even just a well-trodden road and get myself to safety.
 So now, let's dive in, shall we? Describe to me the first scene in this wild ride of a game!
 ```
+
+## Welcome Message
+G'day mate, welcome to the wilds of the jungle! As you crawl out of the wreckage of your plane, you find yourself waist-deep in murky water. The sounds of crocodiles and piranhas echo through the air, sending shivers down your spine. You glance around frantically, searching for a way out of this death trap. Thick vines and branches hang low over the water's surface, makingG'day mate! Crikey, it looks like we've got ourselves into quite the pickle here. As you climb out of your plane and onto a partially submerged wing, the murky water below is teeming with crocs, their beady little eyes locked onto you with hungry intent. You can hear the snap of their jaws as they circle around, waiting for you to make a wrong move.
+
+
+
+The humid air is thick with the sounds of the jungle - squawking birds, buzzing insects, and the distant roar of a predator. You're surrounded by dense foliage, vines hanging down from towering trees that are draped in moss and creepers. It's a tangled mess of greenery, and you'll need to think on your feet if you're going to make it out alive.
+
+
+
+Your heart racing, you quickly assess your options. The first step is to get off that wing and onto dry land. But where can you go? The bank is visible in the distance, but there's no clear path. You could try swimming, but with those crocs lurking below, that's a risky move. You'll need to be strategic and careful, taking everything into account before making your next decision.
+
+
+
+Remember, every move counts in this game, and you've got 20 points to start with. But with danger lurking at every turn, it won't be long before you're up against some serious odds. So, what's it going to be? Will you brave the croc-infested waters or risk an encounter with some unknown beast among the jungle's dense undergrowth? The choice is yours, mate, so choose wisely!
 
 ## Conversation
 
@@ -30,5 +45,4 @@ Your heart racing, you quickly assess your options. The first step is to get off
 
 
 Remember, every move counts in this game, and you've got 20 points to start with. But with danger lurking at every turn, it won't be long before you're up against some serious odds. So, what's it going to be? Will you brave the croc-infested waters or risk an encounter with some unknown beast among the jungle's dense undergrowth? The choice is yours, mate, so choose wisely!
-
 

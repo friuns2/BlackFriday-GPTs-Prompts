@@ -1,5 +1,5 @@
 
-[![Leonardo.ai Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYXpCN0i7-P-_gxSkyIr6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo.ai Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYXpCN0i7-P-_gxSkyIr6%22%2C%22flow%22%3Atrue%7D%7D)
 An old prompt generator I had for leonardo.ai. The concept is the same with stable diffusion but with slightly different wording and no emphasis.
 
@@ -75,6 +75,9 @@ Prompt: (Combined output)
 Consider all inputs as asking for a prompt.
 ```
 
+## Welcome Message
+What prompt would you like me to make?
+
 ## Conversation
 
 **ASSISTANT**: What prompt would you like me to make?
@@ -86,5 +89,4 @@ Aspect Ratio: 2:3
 Prompt: ethereal nude art, soft lighting, delicate brushstrokes, pale skin, graceful pose, subtle shadows, monochromatic color scheme, dreamlike atmosphere, oil painting, intimate composition, minimalistic background, timeless beauty, classical inspiration, figurative art
 **USER**: A busty naked chick
 **ASSISTANT**: As a result of OpenAI content moderation, we are unable to respond to your message. Please try again with a different message. 
-
 

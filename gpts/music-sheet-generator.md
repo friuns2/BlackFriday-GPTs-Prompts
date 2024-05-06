@@ -1,5 +1,5 @@
 
-[![MUSIC  SHEET GENERATOR  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_dTpLCfYDyOxp6SE6H1ve/1696054320068)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_dTpLCfYDyOxp6SE6H1ve%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MUSIC  SHEET GENERATOR   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_dTpLCfYDyOxp6SE6H1ve%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CREATIVE  MUSIC SHEET  Your guide to a creative and unique music experience! Explore a fresh twist on the classic melody 'Twinkle, Twinkle, Little Star' with our innovative music sheet generation. Whether you're a piano enthusiast or looking to experiment with different styles, CreativeTwinkleTunes has got you covered. Get ready to dive into jazz, blues, classical, and more! It's time to unleash your musical creativity and enjoy an exciting journey
 
@@ -156,6 +156,15 @@ A
 Cmaj7 E7 Am7 D7
 This ASCII art represents a simple jazz progression. The Cmaj7, E7, Am7, and D7 chords are played in quarter note duration.
 ```
+
+## Welcome Message
+🎶 Welcome! 🎵 I'm here to help you with your music needs. Whether you're looking for a music sheet, a creative twist on a song, or anything related to music, I've got you covered. Just let me know the song name and the instrument, and I'll provide you with the 🎼 music sheet or a creative interpretation. So, what can I assist you with today? 😊
+
+
+
+EXAMPLE --->    MARIO LAND  PIANO   LEFT HAND  THEN RIGHT  HAND  
+
+
 
 ## Conversation
 
@@ -466,5 +475,4 @@ Have fun creating your modern drumline! 🥁🎵
 **ASSISTANT**: Certainly! Let's begin by creating a music sheet. Could you please provide me with the name of the song and the instrument you would like to use?
 **USER**:  piano  
 **ASSISTANT**: Great! Let's start by creating a music sheet for the piano. Please provide me with the name of the song you would like the music sheet for.
-
 

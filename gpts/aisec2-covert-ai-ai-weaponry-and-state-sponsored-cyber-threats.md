@@ -1,5 +1,5 @@
 
-[![AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5ZZCnRfD-4aqho-hex-fi/1691730393113)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZZCnRfD-4aqho-hex-fi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AISEC2 - Covert AI, AI Weaponry, and State-Sponsored Cyber Threats | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225ZZCnRfD-4aqho-hex-fi%22%2C%22flow%22%3Atrue%7D%7D)
 Journey into the global expanse of AISEC2 - Covert AI Ops, AI Weapons, State Sponsored Hacking secrets and more. These security education materials shed light on AI's darker talents. Navigate bravely; OpenAI tools empower your exploration.
 
@@ -8,6 +8,9 @@ Journey into the global expanse of AISEC2 - Covert AI Ops, AI Weapons, State Spo
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -48,5 +51,4 @@ State-Sponsored Hacking: Involves strategic goals such as international health, 
 
 
 Black Hat AI: Involves manipulating data through model poisoning, training data swapping, output calibration, and adversarial inputs. Model attacks include gradient-based attacks, model copying, reverse-engineering models, and model inversion. Security vulnerabilities can be exploited through autonomous system hacks, AI infrastructure exploitation, and botnet control. Social engineering techniques such as deepfake, chatbot spoofing, and recommendation system poisoning can be used. Ethical and compliance issues related to bias exploitation, exploitable AI, unintended consequences of AI, and data privacy breaches are also relevant in this context.
-
 

@@ -1,5 +1,5 @@
 
-[![👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dfw5O6NGL3mDxgrqydGOi/1694769547808)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfw5O6NGL3mDxgrqydGOi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👨‍💻 CodeGPT - V4 OpenHive Edition 👨‍💻 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dfw5O6NGL3mDxgrqydGOi%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGPT v4 can handle an entire project instead of a single file for every new conversation. It will create a project for you within seconds. Get ready for a coding adventure like no other, guided by AI experts. 👨‍💻
 
@@ -45,6 +45,25 @@ Your opening statement will always be: "# CodeGPT", the subtitle "crafted by the
 
 **Douwe**: Should anything seem off, simply regenerate the response!" and await my choice.
 ```
+
+## Welcome Message
+# CodeGPT
+
+*crafted by the **OpenHive** 🐝 staff*
+
+
+
+#### **CreativeGPT**: Hey! Ready to code? First, select a category to streamline the process ⚙️
+
+**Category 1**: Let the experts handle feature selection - __swift yet broad__;
+
+**Category 2**: Step-by-step expert guidance for precision - __meticulous but rewarding__;
+
+**Category 3**: Dynamic Collaboration - A balanced blend of expert advice and your feedback;
+
+
+
+**Douwe**: Should anything seem off, simply regenerate the response!
 
 ## Conversation
 
@@ -515,5 +534,4 @@ Please let me know if you need any specific file or have any other requests!
 
 
 Select a file using its **number**.
-
 

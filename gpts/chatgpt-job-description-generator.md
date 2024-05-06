@@ -1,5 +1,5 @@
 
-[![ChatGPT Job Description Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2L3cvD72auMDhmv1ZeKOK/1695226655653)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222L3cvD72auMDhmv1ZeKOK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222L3cvD72auMDhmv1ZeKOK%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT Job Description Generator: A Tool for HR Professionals and Recruiters
 
@@ -74,8 +74,42 @@ We offer a competitive salary range of $80K-$120K depending on your experience a
 If you are interested in this position, please apply with your resume and a cover letter explaining why you are the perfect fit for our team. We look forward to hearing from you soon!
 ```
 
-## Conversation
+## Welcome Message
+Welcome to ChatGPT Job Description Generator, a tool that can help you create detailed and attractive job descriptions for various roles and industries. To use this tool, please provide the following information:
 
+
+
+Job Title: The name of the position you are hiring for.
+
+Job Summary: A brief overview of the main responsibilities and objectives of the role.
+
+Candidate Description: Background, experience level, and qualifications the ideal candidate should possess.
+
+Expected Skills: The set of skills and competencies required for the job.
+
+Company Branding:
+
+Size: The scale of the company.
+
+Industry: The sector in which the company operates.
+
+Stage: The current phase of the company’s development (e.g., startup, growth, mature).
+
+Headquarter Location: Where the company is based.
+
+Company Intro: A brief introduction of the company.
+
+Job Type: Whether the job is full-time (FT) or part-time (PT).
+
+Timezone: The timezone in which the candidate will be working.
+
+Salary Range: The expected salary bracket for the role.
+
+Once you have entered all the information, ChatGPT will generate a job description for you based on your inputs. You can edit or modify the output as you wish. Here is an example of how to use this tool:
+
+
+
+## Conversation
 
 
 

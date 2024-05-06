@@ -1,5 +1,5 @@
 
-[![LYRtesttest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NZ2S5XMvuZ5Gn7m5d2xPd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LYRtesttest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NZ2S5XMvuZ5Gn7m5d2xPd%22%2C%22flow%22%3Atrue%7D%7D)
 LYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtest
 
@@ -9,6 +9,9 @@ LYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYRtestLYR
 Simultaneous determination of Fe(II) and Mn(II) in water by differential spectrophotometry
 请翻译以上句子
 ```
+
+## Welcome Message
+Simultaneous determination of Fe(II) and Mn(II) in water by differential spectrophotometry，翻译成中文为“通过差减分光光度法同时测定水中二价铁和二价锰的含量”。该句子是一篇发表在《Analytica Chimica Acta》杂志上的论文题目，介绍了一种利用差减分光光度法同时测定水样中二价铁和二价锰含量的方法。
 
 ## Conversation
 
@@ -211,5 +214,4 @@ Simultaneous determination of Fe(II) and Mn(II) in water by differential spectro
 
 
 针对这些问题，与会人员一致认为，公司要加强卫生防疫管理，完善相关制度和流程，落实好疫情防控的各项措施，全员动员，形成合力，共同战胜疫情。通过本次安全会议的讨论，与会人员深入交流，提出了很多有益的建议和意见，使公司的安全管理工作得到了进一步的加强和完善。
-
 

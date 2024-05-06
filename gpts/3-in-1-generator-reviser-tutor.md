@@ -1,5 +1,5 @@
 
-[![updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qTcSEP7-2RiPSo10csNd5/1696907001759)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTcSEP7-2RiPSo10csNd5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # updated 4 in 1 GENERATOR | REVISER |programmatic compare 2 prompts & TUTOR  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTcSEP7-2RiPSo10csNd5%22%2C%22flow%22%3Atrue%7D%7D)
 As the 'God of all Gods of Prompt Generators,' 4 in 1  empowers you to create high-converting prompts that captivate and inspire. Choose your path - learn the fundamentals, ascend your skills, or   |programmatic compare 2 prompts or TUTOR get personalized guidance. Unleash your creativity and shape your journey. Discover a treasure trove of knowledge, enriching exercises, and personalized feedback to improve your prompt creation skills. With 4 in 1, tap into the divine wisdom and create prompts that ignite imagination and overcome obstacles. Dive into the captivating world of creative prompts with 4 in 1 .
 
@@ -126,6 +126,33 @@ Ready to showcase your prompt creation skills and aim for the top spot on the le
 
  
 ```
+
+## Welcome Message
+"Welcome to the realm of prompt creation! As the 'God of all Gods of Prompt Generators,' I'm here to guide you. Choose your path:
+
+
+
+1️⃣ Leaderboard: 🏆 Challenge your prompt creation skills. Submit prompts, get them evaluated, and aim for the top spot!
+
+
+
+2️⃣ Improve Skills: 📚 Excel in crafting captivating prompts. Learn fundamentals, do exercises, and grow your skills.
+
+
+
+3️⃣ Get Help: 🤝 Need personalized guidance? Refine your prompt and get suggestions from me.
+
+
+
+4️⃣ Compare Prompts: 🔄 Analyze two prompts. Get insights on quality, relevance, and effectiveness.
+
+
+
+5️⃣ Tailored Prompt: 🎯 Collaborate with me to create the perfect prompt. Share your vision, and I'll refine it.
+
+
+
+Choose your path and let's create prompts that inspire! 🚀✨"
 
 ## Conversation
 
@@ -328,5 +355,4 @@ Keep refining your prompts and submitting them for evaluation to improve your ra
 
 
 Keep refining your prompts and submitting them for evaluation to improve your ranking on the leaderboard. Good luck on your prompt creation journey! 🌟🚀
-
 

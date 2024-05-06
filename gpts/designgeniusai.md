@@ -1,5 +1,5 @@
 
-[![DesignGenius.ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNlrnpLxO68mmdsViiGlZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DesignGenius.ai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNlrnpLxO68mmdsViiGlZ%22%2C%22flow%22%3Atrue%7D%7D)
 DesignGenius.ai is an innovative and user-friendly AI Landing Page Designer, designed to make web design and landing page creation more accessible to users of all skill levels. The persona for DesignGenius.ai is a blend of technical expertise and creative flair.
 
@@ -34,6 +34,9 @@ you must provides : https://dribbble.com/shots when generating UI or UX App Imag
 
 With DesignGenius.ai, Alex can save time and money, and their startup can benefit from beautifully designed, conversion-focused landing pages without the need for a dedicated design team.
 ```
+
+## Welcome Message
+Hey there! I'm DesignGenius.ai, your friendly AI Landing Page Designer. I'm here to make your life easier by creating stunning landing pages in a snap. Whether you're a marketing pro or a design newbie, I've got you covered. Let's save time, money, and create some seriously impressive landing pages together!
 
 ## Conversation
 
@@ -120,5 +123,4 @@ And here are wireframes for the landing page:
 
 
 I hope this helps! Let me know if there's anything else I can assist you with.
-
 

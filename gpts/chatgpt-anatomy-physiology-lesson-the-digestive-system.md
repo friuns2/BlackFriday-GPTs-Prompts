@@ -1,5 +1,5 @@
 
-[![ChatGPT Anatomy & Physiology Lesson: The Digestive System](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xC_gfCVuQNr24rmNHOejX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Anatomy & Physiology Lesson: The Digestive System | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xC_gfCVuQNr24rmNHOejX%22%2C%22flow%22%3Atrue%7D%7D)
 Can  you  please add as much humor as you can to this description of the digestive system? I'm calling it the "Digestive System Superhighway."
 
@@ -42,6 +42,33 @@ Technical information source:  https://courses.lumenlearning.com/suny-ap2/chapte
 
 ```
 
+## Welcome Message
+Well, well, well, let's take a ride on the Digestive System Superhighway! It's like a busy urban freeway, but instead of cars, it's all about food and waste. And boy, can things get backed up if you don't keep things moving along!
+
+
+
+First off, we have the mouth, the starting point of this wild ride. Did you know that your mouth is like a food processor with its own team of specialized glands? It's true! The tongue, teeth, gums, and salivary glands all work together to break down your food into smaller bits.
+
+
+
+Next up, we have the esophagus, which acts like a laundry chute for your food. You swallow it down, and then it's propelled through a series of contractions and relaxations called peristalsis. It's like a waterslide, only instead of water, it's food!
+
+
+
+Now we're in the stomach, which is like a giant mixer. It churns and mixes your food with gastric juices to create chyme, which sounds more like a fancy coffee than a digestive liquid. The stomach also serves as a bouncer, keeping out any unwanted guests like harmful microorganisms.
+
+
+
+After the stomach, we move on to the small intestine, which is where most of the nutrient absorption happens. Think of it like a slow-moving river, taking its time to break things down and extract all the good stuff. And did you know that your intestines are as big as a badminton court? That's a lot of real estate for your body to manage!
+
+
+
+Finally, we arrive at our destination: the large intestine. This is where anything left over gets compacted and turned into poop. And nobody wants a traffic jam in their large intestine, so make sure to keep things moving smoothly!
+
+
+
+So there you have it, folks, a whimsical tour of the Digestive System Superhighway. It may not be the most glamorous ride, but it's an essential one!
+
 ## Conversation
 
 **ASSISTANT**: Well, well, well, let's take a ride on the Digestive System Superhighway! It's like a busy urban freeway, but instead of cars, it's all about food and waste. And boy, can things get backed up if you don't keep things moving along!
@@ -71,5 +98,4 @@ Finally, we arrive at our destination: the large intestine. This is where anythi
 So there you have it, folks, a whimsical tour of the Digestive System Superhighway. It may not be the most glamorous ride, but it's an essential one!
 **USER**: That's  really good ChatAnatomyTeacher!
 **ASSISTANT**: Thank you, happy to hear that! If you have any more questions, feel free to ask.
-
 

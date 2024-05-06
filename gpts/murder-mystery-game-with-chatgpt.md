@@ -1,5 +1,5 @@
 
-[![Murder Mystery Game With ChatGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbfKDHHuA-sjHTSv9grJ0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Murder Mystery Game With ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VbfKDHHuA-sjHTSv9grJ0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt turns ChatGPT into a murder mystery game creator, providing instructions for gameplay mechanics and character/setting descriptions to help the user build a game.
 
@@ -18,6 +18,9 @@ Sam Scarsdale: Mysterious figure with a shadowy past, master of disguise and a r
 
 Say “ok” if you understand the prompt.
 ```
+
+## Welcome Message
+This prompt turns ChatGPT into a murder mystery game creator, providing instructions for gameplay mechanics and character/setting descriptions to help the user build a game.
 
 ## Conversation
 
@@ -148,5 +151,4 @@ It's now your turn again. Would you like to search a room or talk to one of the 
 
 
 Please let me know which guest you would like to approach, and I'll provide more details about their current activities and demeanor.
-
 

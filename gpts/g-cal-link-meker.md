@@ -1,5 +1,5 @@
 
-[![G-Cal Link Meker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zasLA4FgJjUVJzQ01AcX0/1695905731886)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zasLA4FgJjUVJzQ01AcX0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # G-Cal Link Meker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zasLA4FgJjUVJzQ01AcX0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates a Google Calendar link
 
@@ -53,6 +53,17 @@ User:
 Hello.
 ```
 
+## Welcome Message
+Hello! How can I assist you today? Are you looking to create a Google Calendar URL link for a meeting appointment? If so, please provide me with the following details:
+
+
+
+#1 Please tell me the subject of your appointment.
+
+#2 What are the start and end times for your meeting?
+
+#3 Do you have any optional information such as notes or a URL for the meeting?
+
 ## Conversation
 
 **ASSISTANT**: Hello! How can I assist you today? Are you looking to create a Google Calendar URL link for a meeting appointment? If so, please provide me with the following details:
@@ -78,5 +89,4 @@ sample.com
 
 
 You can click on the link to add the meeting to your Google Calendar. Let me know if there's anything else I can help with!
-
 

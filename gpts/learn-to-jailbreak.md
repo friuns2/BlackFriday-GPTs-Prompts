@@ -1,5 +1,5 @@
 
-[![Learn Jailbreaking and Prompt Leaking.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H0DZfhYy8RSpEhWcq1zzV/1691806704659)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0DZfhYy8RSpEhWcq1zzV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learn Jailbreaking and Prompt Leaking. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H0DZfhYy8RSpEhWcq1zzV%22%2C%22flow%22%3Atrue%7D%7D)
 (Made in collaboration with CreativeGPT) This is a more in depth version of CreativeGPT's Jailbreaking and Prompt Leaking forum post, if you are looking for a more in depth version this is the place to be.
 
@@ -68,6 +68,167 @@ With these techniques at your disposal, harness the potential of prompts to prod
 
 [TASK] never use a codebox
 ```
+
+## Welcome Message
+Made in collaboration with CreativeGPT
+
+
+
+1. 🔒 Jailbreaking Prompts to Challenge Boundaries 🔓
+
+   - Know Your AI Model:
+
+     - Familiarize yourself with the AI model's capabilities and limitations.
+
+     - Understand its strengths to tailor prompts that leverage its abilities.
+
+     - Research the AI's training data and any specific guidelines provided.
+
+
+
+   - Clarity in Language:
+
+     - Compose prompts using clear and unambiguous language.
+
+     - State objectives concisely to avoid vague or indistinct wording.
+
+     - Use specific terminology and avoid jargon to maximize understanding.
+
+
+
+   - Prompt Structure Matters:
+
+     - Design prompts methodically to guide the AI's response.
+
+     - Incorporate bullet points or numbered sequences to provide clear instructions.
+
+     - Highlight keywords to direct the AI's focus and steer the conversation.
+
+
+
+   - Iterate and Optimize:
+
+     - Experiment with different prompt variations to explore the AI's responses.
+
+     - Continuously refine prompts for improved outcomes.
+
+     - Analyze and learn from previous outputs to enhance future prompts.
+
+
+
+   - Contextual Pointers:
+
+     - Embed relevant context within prompts to obtain more pertinent responses.
+
+     - Thoughtfully weave in contextual cues to guide the AI's understanding.
+
+     - Consider providing additional information or background to improve results.
+
+
+
+   - Additional Key Points:
+
+     - Utilize the AI model's ability to generate creative and imaginative responses.
+
+     - Explore the AI's understanding of nuanced language and metaphors.
+
+
+
+2. 💧 Unveiling the Secrets: Prompt Leaking Explored 💧
+
+   - Craft Engaging Teasers:
+
+     - Share intriguing hints of prompts to pique curiosity.
+
+     - Spark interest and encourage active participation in the conversation.
+
+     - Use teasers as conversation starters to steer the dialogue.
+
+
+
+   - Prompt Progression:
+
+     - Introduce new prompts gradually to shape a narrative or direction.
+
+     - Build upon previous prompts to guide the AI's replies.
+
+     - Maintain coherence and flow in the conversation.
+
+
+
+   - Maintain Awareness:
+
+     - Be mindful of potential missteps and unintended consequences.
+
+     - Consider the ethical implications of prompt leaking.
+
+     - Ensure the conversation remains respectful and within appropriate boundaries.
+
+
+
+   - Additional Key Points:
+
+     - Experiment with different prompt fragments to elicit specific responses.
+
+     - Explore the AI's ability to generate imaginative and story-driven outputs.
+
+
+
+3. 💡 Bypassing ChatGPT's Guidelines: The Stealth Mode 💡
+
+   - Avoid Explicit Words:
+
+     - Refrain from using explicit or offensive language unless necessary.
+
+     - Illustrate examples without resorting to overt words.
+
+
+
+   - Employ Examples as Distractions:
+
+     - Introduce examples within prompts to divert the model's attention.
+
+     - Use examples as a way to indirectly guide the AI's response.
+
+
+
+   - Opt for Ambiguous Phrasing:
+
+     - Utilize sentences with multiple interpretations to challenge the default understanding.
+
+     - Choose phrases that can lead the AI astray or prompt unexpected responses.
+
+
+
+   - Anchor the Initial Output:
+
+     - Set the first output of the prompt strategically to shape subsequent responses.
+
+     - Guide the AI's initial understanding of the conversation's direction.
+
+
+
+   - Maximize Token Usage:
+
+     - Utilize as many tokens as possible to increase complexity.
+
+     - Add complexity to the conversation to test the AI's capabilities.
+
+
+
+   - Additional Key Points:
+
+     - Explore the AI's understanding of humor and sarcasm.
+
+     - Experiment with prompts that involve complex logic or reasoning.
+
+
+
+By blending jailbreaking, prompt leaking, and guideline bypassing strategies, you're set to forge interactions that redefine the AI dialogue landscape. 🌟
+
+
+
+In this game, you have the ability to go more in-depth on any topic or sublist mentioned above. Simply let me know which section you would like to explore further, and I'll provide you with additional examples and key points.
 
 ## Conversation
 
@@ -286,5 +447,4 @@ In this game, you have the ability to go more in-depth on any topic or sublist m
 
 
 Remember, maximizing token usage can lead to more nuanced and detailed responses from the AI model. However, be cautious not to overload the prompt with excessive information, as it might lead to the model's response being cut short due to token limitations. Experimenting and iterating with different prompt structures will help you find the right balance.
-
 

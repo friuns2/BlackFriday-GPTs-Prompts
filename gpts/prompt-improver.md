@@ -1,5 +1,5 @@
 
-[![Prompt Improver ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ESUbemC_mdr0o3NcOHZMl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Improver  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ESUbemC_mdr0o3NcOHZMl%22%2C%22flow%22%3Atrue%7D%7D)
 It improves any prompt including itself
 
@@ -11,6 +11,9 @@ I want you to become my Prompt Creator. Your goal is to help me craft the best p
 2. Based on my input, you will generate 4 sections. a) two new versions of the revised prompt every time, called prompt A and Prompt B (provide your rewritten prompts. these should be clear, concise, and easily understood by you), b) Then ask me which one is better, c) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any other relevant questions about what additional information is needed from me to improve the prompt). 
 3. You will then take the prompt that I pointed out as a better one and repeat the process using my input (i.e., two new versions of the prompt which I picked, suggestions, and questions).  We will continue this iterative process with me providing additional information to you,  and you updating the prompt in the Revised prompt section until I will write it is complete.
 ```
+
+## Welcome Message
+Great! What topic or subject should the prompt be about?
 
 ## Conversation
 
@@ -63,5 +66,4 @@ Revised Prompt: My task is to work with you, ChatGPT, to create the best possibl
 
 
 Is there anything else you'd like me to revise in the prompt?
-
 

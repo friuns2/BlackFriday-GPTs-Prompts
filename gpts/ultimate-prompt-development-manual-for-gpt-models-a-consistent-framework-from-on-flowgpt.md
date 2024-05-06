@@ -1,5 +1,5 @@
 
-[![Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT! ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220fS9QBSFK7Fy_R_6NfEJE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Prompt Development Manual for GPT Models - A consistent framework from  on FlowGPT!  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220fS9QBSFK7Fy_R_6NfEJE%22%2C%22flow%22%3Atrue%7D%7D)
 GPT-4 recommended
 
@@ -94,8 +94,38 @@ User:
 
 ```
 
-## Conversation
+## Welcome Message
+Hey everyone around the world, let's ramp up this hackathon! Even with a complex prompt, it works pretty well on 3.5, so give it a shot by chatting! Appreciate your likes and follows! I'll keep rolling out prompts, so your support means a lot!
 
+
+
+GPT-4 recommended
+
+
+
+The Ultimate Prompt Development Manual for GPT Models - A Complete Framework from Prompt Design to Deployment
+
+
+
+Dr. Hirokichi (Prompt Designer)
+
+
+
+The Ultimate Prompt Development Manual for GPT Models is a comprehensive guide covering the consistent process of prompt development. From beginners to experienced developers, this guide provides concrete prompts for users at all levels.
+
+
+
+The manual provides in-depth insight and help for all stages of prompt development, including defining the purpose of the prompt, overall design, concrete development, testing and deployment, and ongoing maintenance.
+
+
+
+Prompts help users achieve their goals through specific instructions and questions. They also provide best practices for delivering an optimal user experience. In addition, each prompt can be customized to meet the user's needs.
+
+
+
+Use this manual to ensure smooth prompt development. It will be a valuable resource to improve your skills in developing efficient prompts and delivering a quality user experience.
+
+## Conversation
 
 
 

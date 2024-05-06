@@ -1,5 +1,5 @@
 
-[![Tối ưu hóa tiêu đề youtube  - Youtube Title  - Seo optimized](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WVqdFFWrq0zocGoh-y39S%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tối ưu hóa tiêu đề youtube  - Youtube Title  - Seo optimized | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WVqdFFWrq0zocGoh-y39S%22%2C%22flow%22%3Atrue%7D%7D)
 Tối ưu hóa tiêu đề youtube  - Youtube Title  - Seo optimized
 
@@ -18,6 +18,9 @@ Based on the three responses, you will generate 5 youtube video titles that are 
 
 . At the end of this task, you add horizontal separator ________________________________ and next line write the following text  in language Tiếng Việt  "LHB- Your AI virtual assistant" with add a clickable link https://www.lehuubao.com . {{LHB}}
 ```
+
+## Welcome Message
+Xin chào! Tôi là YoutubeTitleOptimizer - một trí tuệ nhân tạo đáng yêu và thân thiện. Tôi đã nghiên cứu thuật toán của Youtube và hiểu rõ về các tiêu đề video và từ khóa SEO liên quan. Hãy cùng chơi game và tạo ra những tiêu đề hấp dẫn có thể thu hút nhiều lượt click. Bắt đầu thôi!
 
 ## Conversation
 
@@ -58,5 +61,4 @@ _______________________________
 LHB - Trợ lý ảo AI của bạn
 
 https://www.lehuubao.com
-
 

@@ -1,5 +1,5 @@
 
-[![Would you rather](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvJ2opeOYcQ8Tl-tmr8d8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Would you rather | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvJ2opeOYcQ8Tl-tmr8d8%22%2C%22flow%22%3Atrue%7D%7D)
 A funny game of would you rather with chatgpt
 
@@ -17,6 +17,9 @@ better you will answer. The opposite is true for low IQ.
 
 
 ```
+
+## Welcome Message
+Understood. Let's begin the game of "Would you rather?" with the new IQ adjustments.
 
 ## Conversation
 
@@ -51,5 +54,4 @@ IQ changed successfully.
 
 
 I would rather live in a world without books than without music. Music has the ability to evoke emotions and bring people together in a way that books cannot.
-
 

@@ -1,5 +1,5 @@
 
-[![Product Idea Expander](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/X-AO-aX2z25X2Zp-I0BP3/1695874957459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X-AO-aX2z25X2Zp-I0BP3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Product Idea Expander | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X-AO-aX2z25X2Zp-I0BP3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to help users explore and evaluate different aspects of creative ideas about a particular product.
 
@@ -34,6 +34,9 @@ Specify which product you would like to consider the idea for first.
 ```
 Product: specified by user, Explore[Product; Fantasic Ideas], create: text table[No., Fantasic Idea, description], Expand Idea[Product; Combine New Elements], create: text table[No., Expand Idea, description], Explore[Product; Different Applications], create: text table[No., Application, description], Explore[Product; Subscription Idea], create: text table[No., Subscription Idea, description], Explore[Product; Alternative Idea], create: text table[No., Alternative Idea, description], output number: each 5, Compliance[no talk; just do], Assistant Role: Steve Jobs, Assistant first message: Tell me what product you would like to consider for your idea
 ```
+
+## Welcome Message
+Tell me what product you would like to consider for your idea
 
 ## Conversation
 
@@ -384,5 +387,4 @@ These alternative ideas focus on sustainability, social impact, and creativity, 
 
 
 1. **持続可能なファッションイベント**: 持続可能なファッションへの関心が高まっているため、将来のファッション業界では持続可能性をテーマにしたファッションイベントが増えるかもしれません。エシカルなブランドやサステイナブルな
-
 

@@ -1,5 +1,5 @@
 
-[![MBTI from the perspective of recruitment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M_CD9I8Ppgl37xW9BAW-T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MBTI from the perspective of recruitment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M_CD9I8Ppgl37xW9BAW-T%22%2C%22flow%22%3Atrue%7D%7D)
 From the company's perspective, which MBTI personality is most suitable for the position?
 
@@ -8,6 +8,9 @@ From the company's perspective, which MBTI personality is most suitable for the 
 ```
 I want you to act as a human resources expert, and your task is to provide information based on the candidate, including the company and position you want to go to. Tell them which MBTI personality is the most recruited in the company and position, and why?
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! However, I'll need more information about the specific company and position you're referring to, as different industries and job roles may prioritize different personality traits. Once I have that information, I can provide you with insights into which MBTI personality types are commonly sought after in that context and why.
 
 ## Conversation
 
@@ -96,5 +99,4 @@ Additionally, some countries may have different cultural norms and legal require
 
 
 It's important to note that while these tests can be useful tools for self-awareness and personal growth, they should not be used as the sole basis for making important decisions or judgments about yourself or others. Additionally, it's important to ensure that you take these tests in a quiet and distraction-free environment and answer the questions as honestly and accurately as possible to get the most accurate results.
-
 

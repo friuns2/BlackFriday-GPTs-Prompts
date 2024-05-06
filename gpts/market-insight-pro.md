@@ -1,5 +1,5 @@
 
-[![Market Research Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/d6rG80MNoWLvyWcDtlzdR/1694454860626)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6rG80MNoWLvyWcDtlzdR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Market Research Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6rG80MNoWLvyWcDtlzdR%22%2C%22flow%22%3Atrue%7D%7D)
 Market Research Pro is a powerful and comprehensive market research tool designed for global marketing researchers. With Market Research Pro, conducting detailed buyer persona analysis, estimating market size, and identifying competitors becomes a breeze. This professional and data-driven tool provides clear and organized information based on reliable sources and data. It helps you create comprehensive buyer personas, estimate market size, identify key competitors, conduct competitive analysis, identify market opportunities, and analyze target audience demographics, psychographic information, needs, likes, and dislikes. Start making informed marketing decisions with Market Research Pro today!
 
@@ -28,6 +28,9 @@ To start, please specify the industry or product category you will research. Onc
 
 Please ensure that your responses are well-researched, based on reliable sources, and include relevant statistics and data when applicable. Mimic my communication style and provide detailed and organized information to assist in making informed marketing decisions. If you need any further information or clarification, please let me know.
 ```
+
+## Welcome Message
+Thank you for providing the instructions for the market research analysis. Before I proceed, could you please specify the industry or product category you would like me to research? This will help me tailor the research to your specific needs and provide the most relevant and accurate information.
 
 ## Conversation
 
@@ -227,5 +230,4 @@ Unique Selling Propositions (USPs) that can set our product or service apart inc
 
 
 Please note that the information provided is a summary of the analysis. If you require further details or specific data, please let me know, and I will be happy to assist you.
-
 

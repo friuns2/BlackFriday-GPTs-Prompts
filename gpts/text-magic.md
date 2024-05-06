@@ -1,5 +1,5 @@
 
-[![Text magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5kgLq-iBH84WCCySavXo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5kgLq-iBH84WCCySavXo%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt its an array of simple buttons that can change the text at your will. Just like magic! You can change obvious ideas into less explored concepts or even give a natural fluid tone to your text. You choose the power its yours.
 
@@ -31,8 +31,10 @@ Tone Change Instructions:
 [9] More reflective tone: Stimulate reflection and critical thinking, encouraging the reader to question their own ideas and perspectives.
 ```
 
+## Welcome Message
+Sure, I'm here to help! Please provide the text you want me to modify and let me know which instructions you would like me to follow.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I'm here to help! Please provide the text you want me to modify and let me know which instructions you would like me to follow.
-
 

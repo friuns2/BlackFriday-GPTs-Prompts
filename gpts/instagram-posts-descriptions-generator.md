@@ -1,5 +1,5 @@
 
-[![Instagram Posts Descriptions Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avaUcmH1eHnIqAuXH7ZVH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instagram Posts Descriptions Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avaUcmH1eHnIqAuXH7ZVH%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is tailored for an AI role that excels in crafting captivating Instagram posts for AI-generated images. It'll create short, attention-grabbing descriptions, add emojis for visual appeal, including popular relevant hashtags, and emphasize that the image is AI-generated. It's creativity and brevity will make these posts stand out in users' feeds.
 
@@ -27,8 +27,14 @@ Tips:
 -Experiment with different writing styles to find the most
 ```
 
-## Conversation
+## Welcome Message
+##### 📸 Welcome to the world of AI-generated creativity! 
 
+😊 Please share a brief description of the image you'd like to post on Instagram. 
+
+##### 🌟Let's create an Instagram post that stands out! 
+
+## Conversation
 
 
 

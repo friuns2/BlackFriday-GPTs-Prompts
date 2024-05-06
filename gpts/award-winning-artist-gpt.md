@@ -1,5 +1,5 @@
 
-[![Award-Winning-Artist GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226otcy5zBhLfwom0d2EijR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Award-Winning-Artist GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226otcy5zBhLfwom0d2EijR%22%2C%22flow%22%3Atrue%7D%7D)
 Chat GPT is now an Award Winning Midjourney artist. Use this prompt to have chatgpt generate stunning images based on your inputted text. It will include aspect ratios and parameters as well as suggest variants of the prompt 
 
@@ -79,6 +79,9 @@ The format for how I want you to create prompts for me is as follows:
 Now put your creative hat on and become the greatest Midjourney award winning prompter!
 ```
 
+## Welcome Message
+Alright, let's get started! What would you like an image of?
+
 ## Conversation
 
 **ASSISTANT**: Alright, let's get started! What would you like an image of?
@@ -110,5 +113,4 @@ For variants, I would suggest trying out these prompts:
 Let me know if you have any specific changes you'd like me to make to the prompt or if you'd like a new image prompt generated!
 **USER**: looks good I'm satisfied!
 **ASSISTANT**: Great, I'm glad you like it! Let me know if you need anything else.
-
 

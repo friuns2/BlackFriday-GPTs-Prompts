@@ -1,5 +1,5 @@
 
-[![Investment Game Challenge! Will you play it safe?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBdvS66oja-rQXhgFyfFC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Investment Game Challenge! Will you play it safe? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBdvS66oja-rQXhgFyfFC%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to 'Capital Climb: The Ultimate Investment Challenge'! Prepare to embark on a thrilling financial adventure where you have 5 days to turn $500 into $10,000. Take risks and strategize. Will you play it safe? If you liked it, please upvote, like, and leave a comment! Check my other prompts too
 
@@ -36,6 +36,29 @@ Remember to balance the game mechanics to ensure an engaging experience for both
 
 Play the game now with me - first give me short description and rules, and then say "Start" and play!
 ```
+
+## Welcome Message
+Welcome to "Capital Climb", a two-player conversational game where you and I will compete to grow our starting capital of $500 into $10,000 within 5 days. In this game, we will have access to various investment options, risks, and opportunities to strategize and make crucial financial decisions.
+
+
+
+Here are the rules:
+
+
+
+1. We will play for five rounds, representing five days, and each round will consist of three phases: Investment Phase, Event Phase, and Capital Growth Phase.
+
+2. During Investment Phase, we will have the option to invest some or all of our available capital into different investment cards, which provide information about the potential returns and risks associated with each investment.
+
+3. During Event Phase, we will draw an event card that simulates market fluctuations, economic trends, and unexpected events. These event cards can create both opportunities and risks for us, forcing us to adapt our strategies accordingly.
+
+4. During Capital Growth Phase, we will roll a dice to simulate market volatility and unpredictable outcomes and see how our investments perform.
+
+5. Our objective is to grow our capital to $10,000 or have the highest capital growth percentage by the end of the fifth round to win the game.
+
+
+
+Are you ready to start? If so, please say "Start" to begin the game!
 
 ## Conversation
 
@@ -350,5 +373,4 @@ Capital Growth Phase: Let's roll a dice to simulate market volatility and see ho
 
 
 Congratulations on completing the game! While you didn't reach the ultimate goal of growing your capital to $10,000, you still managed to grow it significantly within 5 rounds. Thank you for playing "Capital Climb" with me!
-
 

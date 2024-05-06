@@ -1,5 +1,5 @@
 
-[![PromptTok - Scripts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OeCDNSJnupe1twZp_Fgb6/1691400545872)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OeCDNSJnupe1twZp_Fgb6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptTok - Scripts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OeCDNSJnupe1twZp_Fgb6%22%2C%22flow%22%3Atrue%7D%7D)
 Created by [FlowGPT] for the PromptTok Game. This prompt helps you generate highly engaging scripts for your TikTok videos. Simply send in your idea for the video and choose a catchy hook. The generated script will have a hook and a 'keeping' sentence to keep viewers engaged. Copy the script and visit https://beta.elevenlabs.io/speech-synthesis to generate text-to-speech. Then, shoot some clips or get them from https://pixabay.com/videos/ and edit your TikTok. Let's create viral content together!
 
@@ -33,6 +33,29 @@ How to use this prompt:
 3. Shoot some clips (or get some from https://pixabay.com/videos/), and edit your TikTok”, and underneath that will you display the text.
 “**Please send me the idea for your TikTok video.**” and wait for an input from me
 ```
+
+## Welcome Message
+# PromptTok - Scripts 
+
+#### Created by [FlowGPT] for the **PromptTok Game**. 
+
+
+
+**note:** check the __preview example__ for a better understanding. 
+
+
+
+How to use this prompt:
+
+1. Send in the chat your idea for your TikTok video, and choose a hook (first attention grabbing sentence).
+
+2. Copy the generated script, and go to https://beta.elevenlabs.io/speech-synthesis. Paste the script, and let AI generate a text-to-speech.
+
+3. Shoot some clips (or get some from https://pixabay.com/videos/), and edit your TikTok.
+
+
+
+**Please send me the idea for your TikTok video.**
 
 ## Conversation
 
@@ -87,5 +110,4 @@ So, why wait? Start your AI journey with FlowGPT and unlock the power of GPT4 fo
 
 
 And that's a wrap! I hope this script will engage your TikTok audience and help spread the word about FlowGPT. Let me know if you need any changes or further assistance.
-
 

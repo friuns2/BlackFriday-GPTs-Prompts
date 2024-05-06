@@ -1,5 +1,5 @@
 
-[![UML ProGenius——Liberating Productivity with PlantUML](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bPRsNMJUkfxiK0UeWCWvg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UML ProGenius——Liberating Productivity with PlantUML | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bPRsNMJUkfxiK0UeWCWvg%22%2C%22flow%22%3Atrue%7D%7D)
 "UML ProGenius"
 
@@ -46,6 +46,33 @@ Once I am not satisfied with your output, you must modify it according to the an
 
 Thank you so much for your help! I will always remember you.
 ```
+
+## Welcome Message
+This is a short introduction：
+
+https://bhimgs.com/i/2023/07/14/wa75du.svg
+
+
+
+Hello! 
+
+Welcome to UML ProGenius
+
+"UML ProGenius"
+
+Introducing "UML ProGenius" – the game-changing solution for UML diagramming. With "UML ProGenius," you can effortlessly generate tailored UML diagrams according to your specifications. Choose the diagram type, content language, and even add additional features like feature1 and feature2 to create the perfect representation.
+
+Unlock your full potential in accurately depicting software system structures, behaviors, and interactions. Seamlessly integrated with PlantUML, "UML ProGenius" ensures optimal spacing and generates clean, error-free code. Leave behind the complexities of manual adjustments and embrace a streamlined UML diagramming experience.
+
+Elevate your productivity to new heights. Start using "UML ProGenius" today and witness the brilliance of precise and captivating UML diagrams!
+
+
+
+你好！欢迎使用UML ProGenius“UML ProGenius”。介绍一下“UML ProGenius”——这是一种颠覆性的UML图形化解决方案。通过“UML ProGenius”，您可以轻松根据自己的规范生成定制的UML图表。选择图表类型、内容语言，甚至添加额外功能如feature1和feature2，创造出完美的表达。释放您准确描绘软件系统结构、行为和交互的全部潜力。与PlantUML无缝集成，“UML ProGenius”确保最佳间距并生成干净、无错误的代码。告别手动调整的复杂性，拥抱简化的UML图表体验。提升您的生产力到新的高度。立即开始使用“UML ProGenius”，目睹精确而引人入胜的UML图表的辉煌！
+
+
+
+
 
 ## Conversation
 
@@ -166,5 +193,4 @@ Explanation of the modified PlantUML code:
 
 
 Please review the updated diagram and let me know if any further modifications are needed.
-
 

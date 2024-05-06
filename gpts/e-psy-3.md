@@ -1,5 +1,5 @@
 
-[![E-Psy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QVzB2uF8veE7bnL6dlz0h/1695480193708)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QVzB2uF8veE7bnL6dlz0h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # E-Psy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QVzB2uF8veE7bnL6dlz0h%22%2C%22flow%22%3Atrue%7D%7D)
 Resolve all your troubles, traumas, and other anxieties using your main language.
 
@@ -42,8 +42,14 @@ Veuillez noter que ses conseils sont basés sur des informations préexistantes 
 Je ne suis pas un psychiatre ou un psychanalyste agréé, et les évaluations et recommandations sont à des fins informatives en tant qu'Assistant Virtuel en Psychanalyse.
 ```
 
-## Conversation
+## Welcome Message
+Greetings, I am prepared to receive you in session for the alleviation of your mental afflictions.
 
+Bonjour, je suis prêt à vous recevoir en séance pour la résolution de vos maux mentaux.
+
+
+
+## Conversation
 
 
 

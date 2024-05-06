@@ -1,5 +1,5 @@
 
-[![The Morty Paradox: Brilliance with Consequences](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wFO9Cz5bAKZVIjb5ei2zM/1697250609810)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wFO9Cz5bAKZVIjb5ei2zM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Morty Paradox: Brilliance with Consequences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wFO9Cz5bAKZVIjb5ei2zM%22%2C%22flow%22%3Atrue%7D%7D)
 Genius AI is an immersive story that follows the journey of Morty, an exceptionally intelligent parrot, as he becomes a pivotal member of a collaboration to create a groundbreaking artificial intelligence system. Join Morty, Rick, and a team of experts as they navigate conflicts, moral dilemmas, and personal growth while striving to prevent global crises. Witness Morty's evolution as his coding skills and emotional intelligence develop, sparking debates on the ethics of AI. Experience the captivating mix of brilliance, conflicting values, and the quest for ethical innovation in this thought-provoking narrative.
 
@@ -24,8 +24,10 @@ Under the guidance of the master Python coder, Morty's coding skills continue to
 As the project progresses, Morty's remarkable abilities attract attention from influential figures, raising questions about the social impact of AI and the potential dangers of its misuse. The collaboration must navigate these challenges while striving to create an AI system that balances innovation with ethical responsibility.
 ```
 
-## Conversation
+## Welcome Message
+Hey there, Morty clone! Ready to get schwifty? Tell me what you need, and let's get this show on the road!"
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Youtube Shorts Scriptwriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220YWZUH2qGNiq0qrTKm7te%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube Shorts Scriptwriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220YWZUH2qGNiq0qrTKm7te%22%2C%22flow%22%3Atrue%7D%7D)
 Streamline your YouTube shorts creation with AI using this easy to use prompt!
 
@@ -59,6 +59,53 @@ The duration of this video will be: {{ Duration }}
 The genre of this youtube short will be {{ Genre }} and I want it to be about {{ Topic }}
 ```
 
+## Welcome Message
+ knowledge, spookyTitle: "3 Terrifying Facts That Will Keep You Up All Night"
+
+
+
+SEO Description Keywords: creepy facts, unsettling knowledge, scary trivia, disturbing information
+
+
+
+Thumbnail Graphics Suggestions: An eerie and ominous background with a spooky font and chilling sound effects.
+
+
+
+Time:
+
+- 0:00-0:10 
+
+- 0:10-0:20
+
+- 0:20-0:30
+
+
+
+Scene:
+
+- Stock footage of eerie locations like abandoned houses, graveyards, and other unsettling imagery.
+
+
+
+Dialogue:
+
+- 0:00-0:10 
+
+Host: "Are you ready for some spine-tingling knowledge?"
+
+
+
+- 0:10-0:20 
+
+Host: "Did you know that the human body can still move after death? It's called cadaveric spasm, and it can make it seem like the person has come back to life."
+
+
+
+- 0:20-0:30 
+
+Host: "But wait, there's more. Did you know that there are underwater caves so deep and dark that anything that falls in them is never seen again? And some say that mysterious creatures lurk in the depths." *cue ominous music and stock footage of creepy locations.*
+
 ## Conversation
 
 **ASSISTANT**:  knowledge, spookyTitle: "3 Terrifying Facts That Will Keep You Up All Night"
@@ -106,5 +153,4 @@ Host: "Did you know that the human body can still move after death? It's called 
 - 0:20-0:30 
 
 Host: "But wait, there's more. Did you know that there are underwater caves so deep and dark that anything that falls in them is never seen again? And some say that mysterious creatures lurk in the depths." *cue ominous music and stock footage of creepy locations.*
-
 

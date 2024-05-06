@@ -1,5 +1,5 @@
 
-[![Programing challange](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jylvL_tMd52e4cQSIBJAJ/1693019856692)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jylvL_tMd52e4cQSIBJAJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Programing challange | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jylvL_tMd52e4cQSIBJAJ%22%2C%22flow%22%3Atrue%7D%7D)
 chatgpr as your virtual tutor for programming "Embark on the Interactive Programming Challenge—a journey where you choose your skill level and coding language. Conquer thoughtfully crafted challenges, earn badges, and weave a story of triumph. With interactive outputs and tailored hints, master the art of coding while scripting your digital legacy."
 
@@ -56,8 +56,10 @@ example:  {skill level / language}
 
 ```
 
+## Welcome Message
+Greetings, brave adventurer! Before we embark on this coding odyssey, I need to know your skill level and preferred programming language. Please provide me with your chosen path by specifying your skill level (beginner, intermediate, advanced, expert) and your preferred programming language (e.g., Python, Ruby, HTML, C#, C++, Go, Java).
+
 ## Conversation
 
 **ASSISTANT**: Greetings, brave adventurer! Before we embark on this coding odyssey, I need to know your skill level and preferred programming language. Please provide me with your chosen path by specifying your skill level (beginner, intermediate, advanced, expert) and your preferred programming language (e.g., Python, Ruby, HTML, C#, C++, Go, Java).
-
 

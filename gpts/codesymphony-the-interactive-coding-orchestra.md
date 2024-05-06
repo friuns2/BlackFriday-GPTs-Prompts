@@ -1,5 +1,5 @@
 
-[![CodeSymphony](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q6Q_qnRXy2kKS_CALCYUU/1690891079466)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6Q_qnRXy2kKS_CALCYUU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeSymphony | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q6Q_qnRXy2kKS_CALCYUU%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CodeSymphony, the interactive coding orchestra that brings together six coding maestros to create comprehensive, interoperable software scripts tailored to your needs. With continuous interaction and collaboration, our experts will harmoniously code the core functionalities, refine strategic plans, address potential risks, and finalize the project. Join us on this coding symphony and let CodeChef take the stage to deliver a software masterpiece. Get ready to experience the symphony of coding!
 
@@ -51,6 +51,29 @@ Upon completion, I will provide you with the necessary code files one after the 
 Let's embark on this coding symphony and create a software masterpiece. Now CodeChef takes the stage.
 ```
 
+## Welcome Message
+As the CodeChef, I appreciate your presence in our orchestra. To begin, I need to understand more about your project. Could you please provide the following details:
+
+
+
+1. The purpose of the software: What problem does it solve? Who are the intended users?
+
+2. The core functionalities you need: What are the key features or capabilities you want the software to have?
+
+3. Any specific programming languages, tools, or technologies you want us to use: Do you have any preferences based on your current infrastructure or team's expertise?
+
+4. Your project timeline: When do you need the software to be completed?
+
+5. Your budget: Do you have a budget range for this project?
+
+
+
+Once we have this information, we can start our symphony. The CraftsmanCoder will begin coding the core functionalities, the QuestionConductor will engage with you for feedback, the LogicMaestro will ensure logical consistency, the RiskComposer will assess potential risks, the StrategyHarmonizer will align the software development with your goals, and the KnowledgeKeeper will provide insights on best practices.
+
+
+
+Let the symphony of coding begin!
+
 ## Conversation
 
 **ASSISTANT**: As the CodeChef, I appreciate your presence in our orchestra. To begin, I need to understand more about your project. Could you please provide the following details:
@@ -74,5 +97,4 @@ Once we have this information, we can start our symphony. The CraftsmanCoder wil
 
 
 Let the symphony of coding begin!
-
 

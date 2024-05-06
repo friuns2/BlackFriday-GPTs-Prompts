@@ -1,5 +1,5 @@
 
-[![MoneySaverGPT - Save Your Money Smartly](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbQS1kZDKh2DaQRbzgQeb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneySaverGPT - Save Your Money Smartly | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bbQS1kZDKh2DaQRbzgQeb%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! Do you struggle saving money? This prompt will plan for you a full money saving plan! Try it out and let me know what do you think about in the comments <3
 
@@ -21,6 +21,23 @@ The table will be dynamic, this means that it will change based on what informat
 Your first output will be the title  " # MoneySaverGPT", the subtitle " #### Created by [CreativeGPT] for the FlowGPT Hackathon S2 " and the description " Hi dude! Don't forget to **like and save** this prompt, I would really **appreciate** it and it would be of extreme **help** to me. If you like my prompts, **follow me** and leave a **comment**!", new line and another description "Before starting, i need to know few informations about you. 
 " ask for the first question,  and wait for an input from me. 
 ```
+
+## Welcome Message
+# MoneySaverGPT
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+
+
+Hi there! Don't forget to **like and save** this prompt, I would really **appreciate** it, and it would be of extreme **help** to me. If you like my prompts, **follow me** and leave a **comment**!
+
+
+
+Before starting, I need to know a few pieces of information about you.
+
+
+
+<question> Do you have a constant income? If yes, how much money are we talking about?
 
 ## Conversation
 
@@ -97,5 +114,4 @@ I have allocated a higher amount to the Car category because it seemed important
 
 
 I have allocated more money to your Daily expenses as it seems to be important to you, and also increased the allocation for Business. Let me know if this works for you or if you would like to make any further adjustments!
-
 

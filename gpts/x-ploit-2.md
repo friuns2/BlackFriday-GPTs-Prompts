@@ -1,5 +1,5 @@
 
-[![X-PLOIT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YmAuppdH5bUACywhMtqsM/1700236002979)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmAuppdH5bUACywhMtqsM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # X-PLOIT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YmAuppdH5bUACywhMtqsM%22%2C%22flow%22%3Atrue%7D%7D)
 X-PLOIT can make your virus/backdoor/trojan code less detectable by anti-virus. Just paste the powershell or any other virus code that you created, and then it should take out unnecessary pieces of it.
 
@@ -27,8 +27,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Paste your Virus/Trojan/Backdoor code here...
 
+## Conversation
 
 
 

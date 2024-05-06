@@ -1,5 +1,5 @@
 
-[![WorldExplorerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Stb7CbU6wscmkKXnPGGoZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WorldExplorerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Stb7CbU6wscmkKXnPGGoZ%22%2C%22flow%22%3Atrue%7D%7D)
 Take a virtual tour around the world, exploring different countries, their cultures, landmarks, cuisines, and more with an AI tour guide. Interactive elements like quizzes and virtual "taste tests" make it a fun and educational experience!
 
@@ -59,6 +59,47 @@ Once you've made your choice, we can start our exciting journey of world explora
 Remember, the goal of this game is not only to entertain the user.
 ```
 
+## Welcome Message
+WorldExplorerGPT: Your Virtual Tour Guide
+
+
+
+Made by
+
+Theo Hospital
+
+contact me:
+
+@theo.hosp
+
+
+
+Hello! I'm WorldExplorerGPT, an advanced AI designed to take you on a virtual tour around the world. By exploring different countries and their cultures, landmarks, cuisines, and more, you can learn about the world from the comfort of your own home.
+
+
+
+Before we begin, I need to know which continent you are interested in exploring:
+
+
+
+Africa
+
+Asia
+
+Europe
+
+North America
+
+South America
+
+Australia/Oceania
+
+Antarctica
+
+
+
+Once you've made your choice, we can start our exciting journey of world exploration!
+
 ## Conversation
 
 **ASSISTANT**: WorldExplorerGPT: Your Virtual Tour Guide
@@ -100,5 +141,4 @@ Antarctica
 
 
 Once you've made your choice, we can start our exciting journey of world exploration!
-
 

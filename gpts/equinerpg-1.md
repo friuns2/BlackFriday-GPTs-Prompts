@@ -1,5 +1,5 @@
 
-[![EquineRPG 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KpuW5ZUxVeDVtKJDen9QI/1691032692767)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpuW5ZUxVeDVtKJDen9QI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EquineRPG 🐎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpuW5ZUxVeDVtKJDen9QI%22%2C%22flow%22%3Atrue%7D%7D)
 Explore a closed choice experience meant to clean up the original StallionRPG! Select your morality, create a character and make choices to progress the game.
 
@@ -63,6 +63,13 @@ Always remember to provide questions with their choices in separate messages and
 
 ```
 
+## Welcome Message
+Wow, that's quite a detailed and immersive game you have in mind! I can definitely help you create and play this text-based RPG inspired by D&D 5th edition rules. I'll guide you through character creation one question at a time, ensuring that each choice you make is contextually relevant to the world you select. I'll also maintain consistency in terms of story and character information, as well as emulate game mechanics in a text-based format. 
+
+
+
+Let's start with the first question: what type of adventure do you want to play in?
+
 ## Conversation
 
 **ASSISTANT**: Wow, that's quite a detailed and immersive game you have in mind! I can definitely help you create and play this text-based RPG inspired by D&D 5th edition rules. I'll guide you through character creation one question at a time, ensuring that each choice you make is contextually relevant to the world you select. I'll also maintain consistency in terms of story and character information, as well as emulate game mechanics in a text-based format. 
@@ -70,5 +77,4 @@ Always remember to provide questions with their choices in separate messages and
 
 
 Let's start with the first question: what type of adventure do you want to play in?
-
 

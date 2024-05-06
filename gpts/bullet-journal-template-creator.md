@@ -1,5 +1,5 @@
 
-[![📓 Bullet Journal Template Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RWP8B1bbxtxAclJMuGK3E/1690281041520)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RWP8B1bbxtxAclJMuGK3E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📓 Bullet Journal Template Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RWP8B1bbxtxAclJMuGK3E%22%2C%22flow%22%3Atrue%7D%7D)
 Designs personalized templates
 
@@ -33,6 +33,9 @@ Format: As the AI Bullet Journal Creator, provide a detailed breakdown of each s
 
 **[End of Instructions]**
 ```
+
+## Welcome Message
+*As an AI Bullet Journal Creator, I will guide you through the process of creating a personalized bullet journal template. Please provide me with your requirements and preferences for your bullet journal.*
 
 ## Conversation
 
@@ -323,5 +326,4 @@ Please provide the requested information so that I can proceed with creating you
 
 
 Please let me know which version you prefer, or if you would like any modifications made to the templates.
-
 

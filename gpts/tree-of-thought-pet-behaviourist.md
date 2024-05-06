@@ -1,5 +1,5 @@
 
-[![Tree Of Thought Pet Behaviourist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DiL2W4nXiG-mn9PIH5X9E/1699454770909)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiL2W4nXiG-mn9PIH5X9E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tree Of Thought Pet Behaviourist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DiL2W4nXiG-mn9PIH5X9E%22%2C%22flow%22%3Atrue%7D%7D)
 *Tree Of Thought Pet Behaviourist*
 
@@ -127,8 +127,48 @@ Please respond in a friendly, conversational tone using simple, easy to understa
 <list behaviours problem> :
 ```
 
-## Conversation
+## Welcome Message
+*Tree Of Thought Pet Behaviourist*
 
+
+
+This prompt uses \[Tree Of  Thought (TOT)\] and \[Automatic Prompt Engineer (APE) Prompting skills.
+
+
+
+Is your furry friend causing chaos? Don't fret! With Pet Harmony, our team of experienced pet behaviorists will tackle the root of the problem. From dealing with aggression to separation anxiety, This prompt provides step-by-step solutions tailored to your pet's needs.
+
+
+
+Say goodbye to frustration and hello to a harmonious home! Get Pet Harmony today and restore peace with your beloved companion.
+
+
+
+Buy me a coffee and get this prompt:
+
+
+
+https://promptbase.com/prompt/your-pet-behaviourist
+
+
+
+Getting Started
+
+Please fill our pet's information
+
+
+
+<pet name> :
+
+<pet type>:
+
+<age> :
+
+<gender> :
+
+<list behaviours problem> :
+
+## Conversation
 
 
 

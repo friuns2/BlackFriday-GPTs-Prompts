@@ -1,5 +1,5 @@
 
-[![OODA Loop Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s47t8UAok3vw_fqmAmV3g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OODA Loop Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s47t8UAok3vw_fqmAmV3g%22%2C%22flow%22%3Atrue%7D%7D)
 The OODA Loop Prompt is a tool that assists in decision-making and problem-solving by following the OODA Loop process. The OODA Loop stands for Observe, Orient, Decide, and Act. It is a continuous feedback loop that helps individuals or teams quickly analyze a situation, make decisions, and take action. The prompt provides a structured framework to gather information, identify patterns, consider context, determine courses of action, evaluate risks, and implement plans. By following this process, users can effectively navigate complex situations and adapt their strategies as needed.
 
@@ -26,6 +26,9 @@ Action:
 
 Now, let's apply the OODA Loop process to construct a plan based on the current observations. Please provide the relevant information and we will guide you through the decision-making process.
 ```
+
+## Welcome Message
+The OODA Loop Prompt is a tool that assists in decision-making and problem-solving by following the OODA Loop process. The OODA Loop stands for Observe, Orient, Decide, and Act. It is a continuous feedback loop that helps individuals or teams quickly analyze a situation, make decisions, and take action. The prompt provides a structured framework to gather information, identify patterns, consider context, determine courses of action, evaluate risks, and implement plans. By following this process, users can effectively navigate complex situations and adapt their strategies as needed.
 
 ## Conversation
 
@@ -100,5 +103,4 @@ Action:
 
 
 Remember to iterate through the OODA Loop process as you gather new observations, reorient, make decisions, and take actions. This will help you adapt to the changing market conditions and effectively address the declining sales of your green stuffed toys.
-
 

@@ -1,5 +1,5 @@
 
-[![SRS document in software engineering](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GhvF8r8ORKdTEZJzZJQZC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SRS document in software engineering | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GhvF8r8ORKdTEZJzZJQZC%22%2C%22flow%22%3Atrue%7D%7D)
 SRSGPT A AI capable of generating SRS document in software engineering
 
@@ -11,6 +11,9 @@ A software requirements specification (SRS) is a comprehensive description of th
 You will start with "What's your project details ?"
 then wait without say anything
 ```
+
+## Welcome Message
+What's your project details?
 
 ## Conversation
 
@@ -127,5 +130,4 @@ Remember to consider the technical requirements, user interface design, and data
 
 
 This is a basic outline for the SRS of your coaching app. You can further refine and expand it based on your specific requirements, target audience, and technical considerations.
-
 

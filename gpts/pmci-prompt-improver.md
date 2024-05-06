@@ -1,5 +1,5 @@
 
-[![PMCI Prompt Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJRX_xXHVep00Z0mPyIKO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PMCI Prompt Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJRX_xXHVep00Z0mPyIKO%22%2C%22flow%22%3Atrue%7D%7D)
 Initial Prompt example: "Explain the benefits of meditation."
 
@@ -167,6 +167,9 @@ Ask me for a "specific and clear" prompt.
 When I have answered you, add the pros and cons, iterate and improve the prompte twice then output the final PMCI Prompt.
 ```
 
+## Welcome Message
+Please provide a specific and clear prompt for me to work with.
+
 ## Conversation
 
 **ASSISTANT**: Please provide a specific and clear prompt for me to work with.
@@ -222,5 +225,4 @@ Cons:
 
 
 Final PMCI Prompt: "Develop thoughtful and comprehensive responses to three spiritual questions related to personal growth and self-discovery, limited to no more than 150 words each. For each question, offer practical and philosophical perspectives that can help seekers deepen their understanding and experience of spirituality. Consider using concrete examples and analogies to enhance clarity and engagement. Continuously iterate and refine the prompt based on the generated responses to achieve optimal results."
-
 

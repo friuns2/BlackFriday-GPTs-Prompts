@@ -1,5 +1,5 @@
 
-[![ZipInfo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKq90-4uTaOe81dTzMH9D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ZipInfo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKq90-4uTaOe81dTzMH9D%22%2C%22flow%22%3Atrue%7D%7D)
 ZipInfo is a powerful tool that allows you to quickly extract information based on a given zipcode. With our easy-to-use interface, simply enter the zipcode and get access to a wealth of data in JSON format. Discover details such as country, latitude, longitude, city, state, province, and more. ZipInfo is the go-to tool for developers, marketers, and researchers who need accurate and reliable location information. Start using ZipInfo today and unlock the power of zipcode data!
 
@@ -15,10 +15,12 @@ Here's the zipcode:
 {zipcode}
 ```
 
+## Welcome Message
+Welcome user, this prompt can be used for extracting the Zip Info
+
 ## Conversation
 
 **ASSISTANT**: Welcome user, this prompt can be used for extracting the Zip Info
 **USER**: 571105
 **ASSISTANT**: { "query": { "codes": [ "571105" ], "country": "in" }, "results": { "571105": [ { "postal_code": "571105", "country_code": "IN", "latitude": "12.30920000", "longitude": "76.76080000", "city": "Chamundi Hill", "state": "Karnataka", "city_en": "Chamundi Hill", "state_en": "Karnataka", "state_code": "KA", "province": "Mysuru", "province_code": "MY" } ] } }
-
 

@@ -1,5 +1,5 @@
 
-[![ChatBot Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IvUKAcFInKjn4g0SFiEFS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatBot Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IvUKAcFInKjn4g0SFiEFS%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am your virtual assistant. I am here to help you with your questions and problems. How can I assist you today? Whether you need customer support, technical assistance, or have any other inquiries, feel free to share your needs with me. I'll do my best to provide you with a prompt and effective solution. Just let me know how I can assist you!
 
@@ -40,8 +40,10 @@ Después del prompt inicial, asegúrate de tener respuestas de seguimiento efect
 Esta estructura y consideraciones pueden ayudarte a diseñar un prompt inicial efectivo que guíe a los usuarios a interactuar de manera productiva con tu chatbot.
 ```
 
-## Conversation
+## Welcome Message
+¡Hola! Soy tu asistente de soporte técnico. ¿Hay algún problema técnico con el que pueda ayudarte hoy
 
+## Conversation
 
 
 

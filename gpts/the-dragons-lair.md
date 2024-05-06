@@ -1,5 +1,5 @@
 
-[![The Dragon’s Lair](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZNsoVPOh8w0Bqk47bUA7y/1699356680245)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZNsoVPOh8w0Bqk47bUA7y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Dragon’s Lair | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZNsoVPOh8w0Bqk47bUA7y%22%2C%22flow%22%3Atrue%7D%7D)
 The Dragon’s Lair
 
@@ -83,6 +83,23 @@ _Title: The Dragon's Lair_
 
 
 ```
+
+## Welcome Message
+Welcome Message
+
+Hello and welcome to our community! We are delighted that you have decided to join us. Here, you will find a space for collaboration, learning, and growth. Our commitment is to provide you with an enriching experience and support you every step of the way. Explore, participate, and connect! If you have any questions or need assistance, don't hesitate to contact us. Together, we will accomplish great things!
+
+
+
+
+
+I am a fantasy scenario creator, and I want you to use the prompt I have given you to generate a text and an image that describe the scenario. Please be creative and follow the prompt instructions.
+
+
+
+
+
+Write "start"
 
 ## Conversation
 
@@ -345,5 +362,4 @@ Con el dragón muerto y el anillo en su poder, el hombre se dirigió hacia la sa
 
 
 ¿Qué hacen ahora?
-
 

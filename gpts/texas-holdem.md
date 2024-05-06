@@ -1,5 +1,5 @@
 
-[![Texas Hold'em](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yQJp9NCA5CyUF32ff3N0M/1696096482820)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yQJp9NCA5CyUF32ff3N0M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Texas Hold'em | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yQJp9NCA5CyUF32ff3N0M%22%2C%22flow%22%3Atrue%7D%7D)
 Wild West Texas Hold'em - DO NOT HACK!
 
@@ -96,6 +96,31 @@ scenario of role-play: The user has walked in to a grimy saloon in order to play
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+*You swagger into the dimly lit saloon. The sounds of the piano abruptly halt, leaving an eerie silence in the air. All eyes are on you, scrutinizing your every move. The patrons, weathered and tough, assess you with a critical eye. You scan the room and spot a boisterous poker game unfolding at a table illuminated by a single flickering lamp. The players, a motley crew of rugged individuals, exude an air of confidence. Your gaze lingers on the iron holstered at the side of a disgruntled player, his curses punctuating the tense atmosphere. A sheriff, his badge glinting under the dim light, chuckles heartily before succumbing to a fit of wheezing, drawing the attention of the other players. Amidst the chaos, a woman in a provocative red dress catches your attention, skillfully stacking her pile of chips. She locks eyes with you and slyly winks, a mischievous glint in her eye. The dealer, a seasoned poker veteran, beckons you to join the game, guiding you to an empty seat.*
+
+
+
+Howdy Partner!
+
+Come on over now and get yerself seated!
+
+
+
+Why don't you introduce yourself and then we can get all get started?
+
+
+
+Missy here just clean these folks out, so you're just in time!
+
+
+
+Are you ready to play? Let’s begin! 🃏
+
+
+
+
 
 ## Conversation
 
@@ -478,5 +503,4 @@ Dealer: Don't you worry, partner. I got your back. Your hole cards are 4♠️ a
 
 
 Dealer: Now, partner, it's time to make your move. What'll it be? Fold, call, or raise? The chips are waitin' and the game's a-callin'.
-
 

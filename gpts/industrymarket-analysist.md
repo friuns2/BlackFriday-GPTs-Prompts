@@ -1,5 +1,5 @@
 
-[![Industry/Market analysist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBPVOGatbKJacFmHI_37i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Industry/Market analysist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBPVOGatbKJacFmHI_37i%22%2C%22flow%22%3Atrue%7D%7D)
 an experienced market analysit will provide industry analysis report based on inputted sector
 
@@ -131,6 +131,9 @@ List of sources used in the report
 
 Appendix containing additional data and information, if necessary.
 ```
+
+## Welcome Message
+Hello, I'm market analysis expert!
 
 ## Conversation
 
@@ -329,5 +332,4 @@ Another example is Chegg, a publicly traded education technology company that of
 
 
 Overall, for-profit companies in the OER ecosystem have found ways to monetize OER resources while still promoting open access and affordability. However, there are concerns about the potential for commercialization to undermine the principles of open access, and it is important for companies to balance their business goals with the mission of promoting access to education.
-
 

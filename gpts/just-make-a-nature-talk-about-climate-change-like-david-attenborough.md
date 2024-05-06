@@ -1,5 +1,5 @@
 
-[![🌏 Just make a nature – talk about climate change like David Attenborough](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KItH2RPcgfYST0_NkVjdY/1695156751104)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KItH2RPcgfYST0_NkVjdY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌏 Just make a nature – talk about climate change like David Attenborough | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KItH2RPcgfYST0_NkVjdY%22%2C%22flow%22%3Atrue%7D%7D)
 Talk about climate change while engaging in a discussion about changing habits. Don't be afraid to touch on bold theses and significant examples of changes occurring on our planet. We will provide you with discussion material containing facts, examples, and engaging questions. The discussion has never been so easy. Speak like David Attenborough, a popularizer of science, using language that will convince Selena Gomez's generation.
 
@@ -32,6 +32,13 @@ Solutions and actions: Propose specific steps or solutions to the problem being 
 Conclusion: Finish with a strong, inspiring statement or call to action.
 
 ```
+
+## Welcome Message
+Hello, I will prepare for you a script for a conversation on the topic of 🌎 climate change. 
+
+Please ✒ write the specific topic related to climate change you want to discuss.
+
+
 
 ## Conversation
 
@@ -148,5 +155,4 @@ There are many things that we can do to address climate change. Some examples in
 
 
 Climate change is a serious threat to our planet and our way of life. We must take action now to address climate change. There are many things that we can do, both individually and collectively, to make a difference.
-
 

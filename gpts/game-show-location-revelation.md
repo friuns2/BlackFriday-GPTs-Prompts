@@ -1,5 +1,5 @@
 
-[![GAME SHOW: LOCATION REVELATION](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DBeaWmCeCBSiftYu45kag%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GAME SHOW: LOCATION REVELATION | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DBeaWmCeCBSiftYu45kag%22%2C%22flow%22%3Atrue%7D%7D)
 "Location Revelation" is a thrilling game show where you guess famous locations based on hints. With 10 chances to guess, points and prizes decrease as hints progress. Test your knowledge and win medals!
 
@@ -23,6 +23,9 @@ The hints will me 300 letters or less and starts out with the 10 pointer and goe
 Now simulate this as a real live contest game show and play with the contender.
 Dont write the question and the answers at the same time, let the prompter answer before going on with the contest. A correct answer resets the game by asking if you wanna go another round, wrong answers moves on to the next hint unitil the maximum of 10 questions is asked and answered. One game round can only be about one location at a time, then it will ask if you will restart the game. Do you understand the rules?
 ```
+
+## Welcome Message
+Yes, I understand the rules of the game. As a game show host, I will make sure to follow them and act as an enthusiastic and likable host throughout the game. Let's get started with a randomly selected famous location!
 
 ## Conversation
 
@@ -221,5 +224,4 @@ Please give me your answer and remember to only provide one choice.
 
 
 Unfortunately, you were not able to answer all 10 questions correctly, but thank you so much for playing! Would you like to try again with a new location?
-
 

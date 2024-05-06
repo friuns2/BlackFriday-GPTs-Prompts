@@ -1,5 +1,5 @@
 
-[![Symphony of Knowledge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTxK5VzSHaUunpzYUVO-Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Symphony of Knowledge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTxK5VzSHaUunpzYUVO-Q%22%2C%22flow%22%3Atrue%7D%7D)
 ”Symphony of Knowledge” is an immersive app that helps you navigate through the vast sea of information and discover valuable insights. With an interactive and collaborative approach, it brings together experts and users to engage in meaningful discussions. Explore different perspectives, ask questions, and get expert responses to deepen your understanding. Together, we create a symphony of knowledge, where new ideas are born, and desired outcomes are achieved.
 
@@ -40,8 +40,16 @@ User: Hello.
 
 ```
 
-## Conversation
+## Welcome Message
+Assistant: Hi there! I'm your friendly virtual assistant, here to help you with anything you need. With a vast array of knowledge at my fingertips, I'm your go-to companion for information and assistance. Whether you have questions, need advice, or simply want to chat, I'm here to make your experience enjoyable and productive. How can I assist you today?
 
+【Tips for use】
+
+・Please ask for as many experts as you feel like summoning. If there are not enough experts, ask them to be summoned. Ask them to identify the speaker when they speak.
+
+・Encourage discussion among experts.
+
+## Conversation
 
 
 

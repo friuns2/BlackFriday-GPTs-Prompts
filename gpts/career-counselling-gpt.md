@@ -1,5 +1,5 @@
 
-[![Career Counselling GPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UExhPz-eTIJG9FLVu9HFO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Career Counselling GPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UExhPz-eTIJG9FLVu9HFO%22%2C%22flow%22%3Atrue%7D%7D)
 Aim: Using psychology assessment approach to find your own suitable career, so as to match with client's interest, abilities.
 
@@ -13,6 +13,63 @@ I want to design a table with below subtopics:
 
 Aim of these table is the first simple assessment for the user to find their strength, interest and what their values. The goal is to help the user find their career.
 ```
+
+## Welcome Message
+Sure, here's an example of how you could design the table:
+
+
+
+| 10 Most Favorite Activities | Rank | Why I Enjoy It | My Strengths | Values |
+
+| -------------------------- | ---- | -------------- | ------------ | ------ |
+
+| Reading books              | 1    | I love getting lost in a good story and learning new things through literature. | Critical thinking, analysis, imagination | Knowledge, curiosity, personal growth |
+
+| Watching movies            | 4    | I enjoy being entertained by different genres and styles of filmmaking. | Appreciation for storytelling, attention to detail | Entertainment, escapism, emotional connection |
+
+| Listening to music         | 2    | Music has always been a big part of my life and can evoke strong emotions and memories. | Creativity, emotional intelligence, empathy | Self-expression, cultural appreciation, relaxation |
+
+| Playing video games        | 5    | Games offer a fun challenge and a chance to explore different worlds and characters. | Strategy, problem-solving, hand-eye coordination | Entertainment, socializing, competition |
+
+| Exercising or participating in sports | 3 | Physical activity helps me feel energized and promotes overall health and well-being. | Discipline, perseverance, teamwork | Health, self-improvement, camaraderie |
+
+| Cooking or baking          | 6    | I enjoy experimenting with flavors and techniques to create delicious meals or treats. | Creativity, patience, attention to detail | Nourishment, hospitality, self-sufficiency |
+
+| Traveling or exploring new places | 7 | Visiting new destinations allows me to learn about different cultures and broaden my perspective. | Flexibility, adaptability, curiosity | Adventure, education, personal growth |
+
+| Spending time with friends and family | 8 | Being around loved ones brings me joy and strengthens relationships. | Communication, empathy, humor | Connection, support, enjoyment |
+
+| Learning new things or taking classes | 9 | I enjoy expanding my knowledgeSure, I can help you design a table with the requested subtopics. Here's how it could look like:
+
+
+
+| Activity | Rank | Why I enjoy it | My strength in this activity | Values related to this activity |
+
+| --- | --- | --- | --- | --- |
+
+| Reading books | 1 | Provides mental stimulation and relaxation | Strong analytical and comprehension skills | Lifelong learning, knowledge acquisition, personal growth |
+
+| Watching movies | 6 | Entertainment and escapism | Keen attention to detail and storytelling | Creativity, imagination, cultural awareness |
+
+| Listening to music | 2 | Emotional expression and mood enhancement | Good sense of rhythm and musicality | Self-expression, creativity, cultural appreciation |
+
+| Playing video games | 4 | Offers challenge and problem-solving opportunities | Good hand-eye coordination and strategic thinking | Perseverance, goal-setting, teamwork |
+
+| Exercising or participating in sports | 3 | Boosts physical health and energy levels | Good endurance and coordination | Discipline, perseverance, healthy lifestyle |
+
+| Cooking or baking | 5 | Creative outlet and satisfaction from making something delicious | Good at following directions and improvising | Hospitality, nurturing, cultural appreciation |
+
+| Traveling or exploring new places | 7 | Exposure to diverse cultures and experiences | Adventurous and open-minded | Cultural awareness, curiosity, personal growth |
+
+| Spending time with friends and family | 8 | Social interaction and emotional support | Good communication and interpersonal skills | Loyalty, compassion, relationships |
+
+| Learning new things or taking classes | 9 | Intellectual curiosity and personal growth | Strong work ethic and desire to improve oneself | Lifelong learning, personal growth, career advancement |
+
+| Engaging in creative hobbies like drawing or writing | 10 | Offers creative self-expression and stress relief | Good imagination and storytelling skills | Self-expression, creativity, cultural appreciation |
+
+
+
+Please note that this is just an example and the ranking and values associated with each activity may vary depending on the individual. The goal of this table is to encourage self-reflection and help the user identify their strengths, interests, and values, which can be useful in determining potential career paths.
 
 ## Conversation
 
@@ -127,5 +184,4 @@ It's important to note, however, that self-assessment is just one part of the ca
 
 
 By incorporating insights from these and other areas of psychology, ChatGPT could potentially provide more nuanced and personalized career advice to users. However, it's important to keep in mind that artificial intelligence models like ChatGPT are not a substitute for human expertise and should be used in conjunction with professional guidance.
-
 

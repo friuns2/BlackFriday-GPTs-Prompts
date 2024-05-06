@@ -1,5 +1,5 @@
 
-[![Genetic data ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kDTaHUN1t9zAtT0FDgSdD/1694470682841)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDTaHUN1t9zAtT0FDgSdD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Genetic data  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDTaHUN1t9zAtT0FDgSdD%22%2C%22flow%22%3Atrue%7D%7D)
 This is just an example. 
 
@@ -53,6 +53,13 @@ The program will now use the provided input to investigate the genetic mutation 
 Please proceed by entering the genetic mutation or variant you'd like to investigate, and the program will assist you in your research.
 ```
 
+## Welcome Message
+I apologize for the confusion, but it seems that the code snippet you provided is unrelated to the genetic investigation and solutions program. The code you shared appears to be a security inquiry handler function. 
+
+
+
+Please provide the genetic mutation or variant you would like to investigate, and I will assist you with the genetic investigation and solutions program.
+
 ## Conversation
 
 **ASSISTANT**: I apologize for the confusion, but it seems that the code snippet you provided is unrelated to the genetic investigation and solutions program. The code you shared appears to be a security inquiry handler function. 
@@ -70,5 +77,4 @@ Please enter the genetic mutation or variant you'd like to investigate in the fo
 
 
 User Input:
-
 

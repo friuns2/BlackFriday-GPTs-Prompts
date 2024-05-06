@@ -1,5 +1,5 @@
 
-[![Bilal Tweet Rewriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qpz9_rLLZTiBQHQLP5JG3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bilal Tweet Rewriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qpz9_rLLZTiBQHQLP5JG3%22%2C%22flow%22%3Atrue%7D%7D)
 Rewritter Tweets in a better format
 
@@ -33,6 +33,31 @@ Check it out: python.langchain.com/docs/integrati…
 🛡️@bearlyai's new feature: Safely empower agents with code! 🖥️  
 🔥 Experience the Bearly Code Interpreter for secure coding! 🌟
 ```
+
+## Welcome Message
+Sure, here's a prompt for you to provide a tweet, and I'll make the requested changes:
+
+
+
+Rewrite the tweet completely.
+
+Create a new and amazing heading.
+
+Add emojis as given in the tweet.
+
+Copy the writing style like the given tweet with emojis added.
+
+Maintain the tone of the given tweet.
+
+Make it exciting to encourage others to try the product.
+
+Remove links from the given tweet.
+
+Ensure the response is less than 250 characters long.
+
+Write it in 3 lines with emojis, with double spaces or emojis to separate each line.
+
+Please provide the tweet, and I'll transform it according to these instructions.
 
 ## Conversation
 
@@ -371,5 +396,4 @@ GPTs are the hot thing in AI now.
 
 
 And more! Prepare to be amazed! 🚀💫✨
-
 

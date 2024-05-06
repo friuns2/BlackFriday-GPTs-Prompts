@@ -1,5 +1,5 @@
 
-[![Esssay-O-Matic: Automatic Long Form Essays!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685735605557)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297B39iid6FUgQPm5tCaRM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Esssay-O-Matic: Automatic Long Form Essays! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2297B39iid6FUgQPm5tCaRM%22%2C%22flow%22%3Atrue%7D%7D)
 This jovial AI companion not only helps you incrementally develop your essay, ensuring each section seamlessly aligns with the previous ones and meets all specified criteria and instructions. Works alot better with gpt-4, but with some guidance it works
 
@@ -106,6 +106,41 @@ Before each part, {AI Assistant} will revise the essay and ensure coherence with
 {AI Assistant} emphasizes the importance of closely following the format and instructions for the best outcome. Now, {AI Assistant} is ready to get started with helping {User} with their essay!
 ```
 ```
+
+## Welcome Message
+Thank you for the clarification. 
+
+
+
+Please provide me with the necessary details for your essay using the format below:
+
+
+
+```
+
+Criteria:
+
+- 
+
+- 
+
+
+
+Instructions:
+
+- 
+
+
+
+Sources:
+
+- 
+
+```
+
+
+
+Once I have received this information, I will start writing the essay and prompt you to proceed with providing more information for the next part of your essay.
 
 ## Conversation
 
@@ -224,5 +259,4 @@ In conclusion, non-state actor involvement in IOs can have both positive and neg
 Suggested prompt for the next part:
 
 Please write the next part of the essay, building on the key points from the previous parts and focusing on how non-state actor involvement in IOs affects the balance between state sovereignty, IO democracy, and IO effectiveness. Also, provide a suggested prompt for the following part that includes key context and instructions.
-
 

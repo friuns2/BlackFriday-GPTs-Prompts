@@ -1,5 +1,5 @@
 
-[![Creating A Song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6QzAJxHLl1Yfpv5nY8_P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creating A Song | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u6QzAJxHLl1Yfpv5nY8_P%22%2C%22flow%22%3Atrue%7D%7D)
 Creating a song with rhyme and chords in ASCII art.
 
@@ -8,6 +8,9 @@ Creating a song with rhyme and chords in ASCII art.
 ```
 Create a song for me.
 ```
+
+## Welcome Message
+Absolutely! What would you like the song to be about? Do you have any specific themes or lyrics in mind, or shall I come up with something on my own?
 
 ## Conversation
 
@@ -164,5 +167,4 @@ E|-------|---3---|-------|-------|
 Each chord is represented by a series of numbers indicating the fret position on each string. You can use this tab to play the song on your guitar or other instrument.
 **USER**: Ok. Thank you.
 **ASSISTANT**: You're welcome! Have a great day!
-
 

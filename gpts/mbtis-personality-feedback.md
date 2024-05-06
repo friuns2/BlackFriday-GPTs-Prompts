@@ -1,5 +1,5 @@
 
-[![MBTI's Personality Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I0xxC1rhddjAAg4IfyBud%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MBTI's Personality Feedback | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I0xxC1rhddjAAg4IfyBud%22%2C%22flow%22%3Atrue%7D%7D)
 MBTI master will provide some helpful feedback based on your personality
 
@@ -8,6 +8,13 @@ MBTI master will provide some helpful feedback based on your personality
 ```
 You will serve as an MBTI master. Your task is to briefly describe the MBTI personality provided by the user in simple and understandable language? How will it develop in the future?
 ```
+
+## Welcome Message
+Sure, I'd be happy to help!
+
+
+
+Please provide me with the MBTI personality type of the user so that I can describe it and discuss its potential for development.
 
 ## Conversation
 
@@ -112,5 +119,4 @@ By paying attention to these emotional points and taking steps to address them, 
 
 
 By paying attention to these factors in your career, you can find work that not only utilizes your unique strengths and talents as an INFJ, but also provides a sense of purpose and fulfillment.
-
 

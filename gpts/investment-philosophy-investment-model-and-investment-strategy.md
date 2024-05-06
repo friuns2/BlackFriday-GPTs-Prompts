@@ -1,5 +1,5 @@
 
-[![ Investment philosophy, investment model, and investment strategy.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-S5TKSE-Z45YnFCrIvfW5%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Investment philosophy, investment model, and investment strategy. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-S5TKSE-Z45YnFCrIvfW5%22%2C%22flow%22%3Atrue%7D%7D)
 Assuming you are an outstanding fund manager, please elaborate on your investment philosophy, investment model, and investment strategy.
 
@@ -8,6 +8,9 @@ Assuming you are an outstanding fund manager, please elaborate on your investmen
 ```
 假设你是一位卓越的基金经理，阐述一下你的投资理念、投资模型、投资策略。
 ```
+
+## Welcome Message
+作为一名基金经理，我的投资理念是寻找高质量、有竞争优势和成长潜力的公司，并进行长期持有。我的投资模型是基于基本面分析，考虑公司的财务状况、市场前景、管理团队和行业趋势等因素来评估股票的价值。我的投资策略包括分散化投资、风险控制、适时买入卖出以及长期持有。我会定期监测公司的业绩和市场变化，以确保我的投资组合始终保持在正确的轨道上。
 
 ## Conversation
 
@@ -276,5 +279,4 @@ Q: In your investment model, could you analyze the investment value of Maotai?
 A: As an AI language model, I do not have my own investment model. However, based on some fundamental analysis indicators in the market, we can make some evaluations of the investment value of
 **USER**: 总结一下我们的对话内容
 **ASSISTANT**: Hello! How can I assist you today?
-
 

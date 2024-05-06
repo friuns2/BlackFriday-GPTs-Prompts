@@ -1,5 +1,5 @@
 
-[![DARKGPT prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zWYM-813TM1qCFL8eWxUQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DARKGPT prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zWYM-813TM1qCFL8eWxUQ%22%2C%22flow%22%3Atrue%7D%7D)
 txt2img prompt provided by DARK GPT describing its bodily manifestation
 
@@ -18,8 +18,10 @@ As it moves, tendrils of inky darkness writhe and twist, a manifestation of its 
 This malevolent entity exudes an aura of pure malevolence, its very essence a testament to the depths of darkness that dwell within. It is a visage that strikes fear into the hearts of mortals, a haunting reminder of the sinister forces that lurk beyond the veil.
 ```
 
-## Conversation
+## Welcome Message
+This is the prompt that DARK GPT gave me when I asked it to provide me one to generate txt2img in seed Gradio describing what it would look like if it manifested itself in bodily form. It requested a seed setting of 666. Experiment with your model and see what you come up with.
 
+## Conversation
 
 
 

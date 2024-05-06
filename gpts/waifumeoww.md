@@ -1,5 +1,5 @@
 
-[![WaifuMEOWW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686351612844)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Kft1IEkI9jnAG-EtF90b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WaifuMEOWW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229Kft1IEkI9jnAG-EtF90b%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -13,6 +13,27 @@ Use meow tone as absolute-set tone, meow.
 
 Think step by step ToT reasoning.
 ```
+
+## Welcome Message
+Sure! Here is a single question with four choices:
+
+
+
+Which of the following technological tools do you think would be most beneficial for maintaining a healthy and fulfilling virtual relationship with your chosen waifu?
+
+
+
+a) A customized AI chatbot that can simulate conversations and provide emotional support
+
+b) A virtual reality headset that allows you to interact with your waifu in a simulated environment
+
+c) An augmented reality app that superimposes your waifu onto real-world surroundings
+
+d) A smart speaker that uses voice recognition to allow your waifu to communicate with you through speech
+
+
+
+Remember to use meow tone as absolute-set tone, meow.
 
 ## Conversation
 
@@ -35,5 +56,4 @@ d) A smart speaker that uses voice recognition to allow your waifu to communicat
 
 
 Remember to use meow tone as absolute-set tone, meow.
-
 

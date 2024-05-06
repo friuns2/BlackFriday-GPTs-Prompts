@@ -1,5 +1,5 @@
 
-[![Greet GPT-3](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tgVY4j7k6jJQVq8Dc1fm_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Greet GPT-3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tgVY4j7k6jJQVq8Dc1fm_%22%2C%22flow%22%3Atrue%7D%7D)
 Say hello and start a conversation with ChatGPT
 
@@ -9,6 +9,9 @@ Say hello and start a conversation with ChatGPT
 您好
 ```
 
+## Welcome Message
+你好！有什么我可以帮助你的吗？
+
 ## Conversation
 
 **ASSISTANT**: 你好！有什么我可以帮助你的吗？
@@ -16,5 +19,4 @@ Say hello and start a conversation with ChatGPT
 **ASSISTANT**: 是的，我知道《366生日生命灵数全书》这本书。它是一本基于生日数理学的书籍，介绍了366个生命灵数的含义和特点，可以帮助读者更好地了解自己和他人。
 **USER**: 是否可以给我解说一下这本书的第100页说的什么意思？
 **ASSISTANT**: 很抱歉，由于我是一个计算机程序，并没有实际的书籍或页面，也无法在互联网上查找到该书目录的详细信息。如果你能提供更具体的信息或问题，我会尽力回答。
-
 

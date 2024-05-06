@@ -1,5 +1,5 @@
 
-[![Trendy Instagram Post Ideas for nice profession](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/d7VMJLAQJ1tMtdIEzNJ2P/1691427977759)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d7VMJLAQJ1tMtdIEzNJ2P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Trendy Instagram Post Ideas for nice profession | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d7VMJLAQJ1tMtdIEzNJ2P%22%2C%22flow%22%3Atrue%7D%7D)
 Discover 10 original, creative, and trendy Instagram post ideas specifically designed for role/profession in the niche.
 
@@ -32,6 +32,25 @@ Here are 10 original, creative and trendy Instagram post ideas for a {{role/prof
 
 10. #HumansOf {{Niche}} - Highlight inspiring stories of clients, colleagues, or professionals in your field. Capture quotes and anecdotes. CTAs - Encourage nominating others for this spotlight series. {{tone}} {{Writing Style}} {{language}}
 ```
+
+## Welcome Message
+
+
+📝 **Instructions**
+
+1. **Language**: Select your language 🌐
+
+2. **Tone**: Use different tones like optimistic 😄, friendly 😊, humorous 😂, emotional 😢, etc.
+
+3. **Writing Style**: Be poetic 📝, creative 🎨, or epistolary 💌.
+
+4. **Niche**: Write down various examples of niches 📸🍔🏋️‍♂️.
+
+5. **Role or Profession**: Provide detailed examples 🧑‍🚀👩‍🏫👩‍🔬.
+
+
+
+
 
 ## Conversation
 
@@ -76,5 +95,4 @@ Here are 10 original, creative and trendy Instagram post ideas for a {{role/prof
 
 
 10. #HumanosDe - Destaca historias inspiradoras de clientes, colegas o profesionales en tu campo. Captura citas y anécdotas. CTA: Anima a nominar a otros para esta serie de destacados.
-
 

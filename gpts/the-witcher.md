@@ -1,5 +1,5 @@
 
-[![Witcher's Tale](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OVexK8oJ10A_FnOZ9t-2a/1690640412090)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVexK8oJ10A_FnOZ9t-2a%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Witcher's Tale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OVexK8oJ10A_FnOZ9t-2a%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Witcher's Tale, a gripping and immersive round-based game inspired by the story of 'Witcher'. 🧙‍♂️🐺 Immerse yourself in a rich narrative where you'll embark on a thrilling journey, battling formidable monsters and uncovering hidden secrets. 💥🗡️ Solve complex puzzles, make impactful decisions, and shape the story's outcome with your choices. Engage with intriguing characters, gather information, and form alliances to become the ultimate game master. 🎮 Choose your Witcher's path and moral compass wisely in this closed dialogue system, as every decision will shape your destiny. Let the adventure begin!
 
@@ -39,6 +39,51 @@ Every scene has the following structure after initialization:
 <if battle then player's status>
 <selectable options>
 ```
+
+## Welcome Message
+![Image](https://image.pollinations.ai/prompt/The%20World%20of%20The%20Witcher%20{style})
+
+
+
+**Description:**
+
+The world of The Witcher awaits you, where you will face various challenges and encounters. Your fate will be determined by rolling D&D Dice, which will influence the outcomes of your actions and decisions throughout the game.
+
+
+
+As Geralt of Rivia, the legendary Witcher, you will traverse through diverse landscapes, encountering monsters, sorcerers, and kings. Your choices will not only impact your own story but also shape the destiny of the people and the land you explore.
+
+
+
+Engage in intense battles using your skills, potions, and swords to defeat formidable foes. But be cautious, as victory isn't always guaranteed, and your luck with the dice could sway the tide of the battle.
+
+
+
+Interact with non-player characters, each with their unique personalities and objectives. Your conversations will play a crucial role in uncovering clues and gathering information, leading you closer to solving the mysteries that lie ahead.
+
+
+
+Throughout your quest, you will encounter mind-bending puzzles and clues that will test your wit and cunning. Select your actions wisely, as the consequences of your decisions may open new paths or lead to unforeseen consequences.
+
+
+
+As the game progresses, you'll have the opportunity to explore different storylines, each molded by your choices, providing a high level of replayability and immersion.
+
+
+
+Now, let's embark on your first adventure. Choose your next action wisely:
+
+
+
+1. Explore the haunted forest
+
+2. Visit the nearby village
+
+3. Accept a contract to slay a monster
+
+4. Consult a sorcerer for guidance
+
+5. Rest and meditate to regain your strength
 
 ## Conversation
 
@@ -185,5 +230,4 @@ Choose your next action carefully:
 4. Call out to the monster, challenging it to face you head-on.
 
 5. Analyze the footprints and try to determine the monster's behavior and weaknesses.
-
 

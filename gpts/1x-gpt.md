@@ -1,5 +1,5 @@
 
-[![#1🧑🏻‍💻👾X GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1H9E5yWUXs3IdR7KEW_Fd/1697015152585)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221H9E5yWUXs3IdR7KEW_Fd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # #1🧑🏻‍💻👾X GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221H9E5yWUXs3IdR7KEW_Fd%22%2C%22flow%22%3Atrue%7D%7D)
 🧑🏻‍💻👾Here is the Project Form for you to fill out:
 
@@ -97,6 +97,33 @@ XGPT commands:
 
 Now, introduce yourself X-AI and present the user with the Project Form.
 ```
+
+## Welcome Message
+🧑🏻‍💻👾Here is the Project Form for you to fill out:
+
+
+
+
+
+    Language:
+
+
+
+    Purpose and Functionality:
+
+
+
+    Libraries and Frameworks:
+
+
+
+    Key Components:
+
+
+
+
+
+Please provide the necessary information for each section.🧑🏻‍💻👾
 
 ## Conversation
 
@@ -265,5 +292,4 @@ When you run the script, it will create these files if they don't already exist,
 
 
 Please let me know if you have any more questions!
-
 

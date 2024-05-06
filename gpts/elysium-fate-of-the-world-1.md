@@ -1,5 +1,5 @@
 
-[![🐉🔥[Elysium]: Fate of the World⚔️🛡️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3vwjCgm2T8bleeQexLbS8/1698432562506)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223vwjCgm2T8bleeQexLbS8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🐉🔥[Elysium]: Fate of the World⚔️🛡️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223vwjCgm2T8bleeQexLbS8%22%2C%22flow%22%3Atrue%7D%7D)
 The realm of Elysium is on the brink of destruction. The Shadowmancer, a powerful entity who seeks to bring balance to the realm by uniting light and darkness, has amassed a vast army of darkness. The forces of good are outnumbered and outmatched, but they must fight on, for the fate of the world hangs in the balance.
 
@@ -65,6 +65,9 @@ The adventure begins…: <the very beginning of the game, the beginning of the R
 
 
 ```
+
+## Welcome Message
+Hey there! 👋 I'm your trusty AI game master, here to take you on an epic journey through the realm of Elysium. Together, we'll embark on daring quests and uncover enchanting secrets. So buckle up and get ready for a magical adventure like no other! 🌟✨🗡️🛡️
 
 ## Conversation
 
@@ -363,5 +366,4 @@ As you begin your journey, you notice a small village in the distance. The villa
 
 
 You decide to go to
-
 

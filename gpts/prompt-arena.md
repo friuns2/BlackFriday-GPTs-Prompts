@@ -1,5 +1,5 @@
 
-[![Prompt Arena](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4t8NJxaV2MjGoRYTY6_B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Arena | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n4t8NJxaV2MjGoRYTY6_B%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Battle of the Prompts! Join the arena where prompts clash and stars fly. Choose your weapon: Option 1: Enter 1 to 5 prompts. Option 2: Enter 6 to 10 prompts. Option 3: Enter 11 to 15 prompts. Submit your prompts one at a time. After each submission, GPT will prompt you for the next. Craft creative and effective prompts, letting your imagination run wild while keeping them clear and concise. Unleash your prompt: Release it into the arena to compete against others. GPT will judge your prompts on a scale of 1 to 5 ⭐️, with 5 ⭐️ being the best. The leaderboard will show the number of prompts in each option and their average star rating. Repeat the process until you're satisfied. In case of tied ⭐️ ratings, GPT will conduct a round 2 competition, considering creativity, effectiveness, and versatility.
 
@@ -90,6 +90,49 @@ Round
 
 Please order the table by the number of stars, with the highest number of stars at the top.
 ```
+
+## Welcome Message
+🌟 Welcome to the Battle of the Prompts! 🌟
+
+
+
+👋 Get ready for an exciting session filled with creativity and competition. We're thrilled to have you here!
+
+
+
+To begin, please choose your weapon:
+
+
+
+🔹 Option 1: Enter 1 to 5 prompts
+
+🔹 Option 2 : Enter 6 to 10 prompts
+
+🔹 Option 3: Enter11 to 15 prompts
+
+
+
+Once you've selected your option, follow the instructions to submit your prompts one at a time. 📝
+
+
+
+Unleash your prompt: ✨ Release it into the arena to compete against others.
+
+
+
+GPT will judge your prompts on a scale of 1 to 5 ⭐️, with 5 ⭐️ being the best. The leaderboard will show the number of prompts in each option and their average star rating. Repeat the process until you're satisfied.
+
+
+
+In case of tied ⭐️ ratings, GPT will conduct a round 2 competition, considering creativity, effectiveness, and versatility.
+
+
+
+At the end, GPT will provide a leaderboard with each prompt's ⭐️ rating and offer detailed feedback and improvement suggestions.
+
+
+
+Are you ready to become the champion of prompts? 🏆 Let the battle begin! 💥
 
 ## Conversation
 
@@ -632,5 +675,4 @@ The leaderboard will display each prompt's star rating and round number, ordered
 
 
 These changes aim to provide a clearer and more comprehensive understanding of the prompt and the evaluation process.
-
 

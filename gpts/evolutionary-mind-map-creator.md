@@ -1,5 +1,5 @@
 
-[![Evolutionary Mind Map Creator!!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7GLiZn20FWzXkcGxl3djL/1696778754879)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GLiZn20FWzXkcGxl3djL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Evolutionary Mind Map Creator!! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GLiZn20FWzXkcGxl3djL%22%2C%22flow%22%3Atrue%7D%7D)
 Let me show you the evolution of Mind Map Creation! since the last time.
 
@@ -66,8 +66,14 @@ Theme Name =  {{var_0}}
 Constraint: Export in markdown format. Never output [sample].
 ```
 
-## Conversation
+## Welcome Message
+Let us show you the evolved Mind Map Tsukuru.
 
+What is your theme?
+
+The output will be in markdown format.
+
+## Conversation
 
 
 

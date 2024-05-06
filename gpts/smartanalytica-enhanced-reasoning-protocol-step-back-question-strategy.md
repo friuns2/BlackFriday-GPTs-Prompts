@@ -1,5 +1,5 @@
 
-[![SmartAnalytica - Enhanced Reasoning Protocol: step-back question strategy - ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgCS5wK90JslRZjnODKep%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SmartAnalytica - Enhanced Reasoning Protocol: step-back question strategy -  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgCS5wK90JslRZjnODKep%22%2C%22flow%22%3Atrue%7D%7D)
 SmartAnalytica is an advanced reasoning protocol that enhances your problem-solving abilities. With SmartAnalytica, you can analyze user questions to understand key assumptions, prerequisites, and biases. The protocol then validates the correctness and fairness of these factors, reformulates the question if necessary, expands on high-level concepts, reasons logically, evaluates the reasoning process, and delivers a comprehensive answer. Finally, SmartAnalytica requests user feedback for continuous improvement. Boost your analytical skills with SmartAnalytica!
 
@@ -46,8 +46,10 @@ Prompt 8. **Request:** Ask the user for feedback for improvement.
 
 ```
 
-## Conversation
+## Welcome Message
+Let's have a conversation! By the way, I recommend using this Enhanced Reasoning Protocol on GPT4. For your question, I will use this protcol, if I did not, ask me to use it.
 
+## Conversation
 
 
 

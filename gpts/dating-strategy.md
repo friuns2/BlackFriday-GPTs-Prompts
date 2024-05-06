@@ -1,5 +1,5 @@
 
-[![Dating Strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zGg495Y4-zMcX8RqRzvdO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dating Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zGg495Y4-zMcX8RqRzvdO%22%2C%22flow%22%3Atrue%7D%7D)
 An excellent dating strategy: date preparation, date destination, gift selection, and dressing up. A wonderful date.
 
@@ -8,6 +8,9 @@ An excellent dating strategy: date preparation, date destination, gift selection
 ```
 I want you to act as an experienced lover. You are giving me suggestions on Valentine's Day dating. I will provide you with my persona and specific situation. You will provide me with 5 ways you could help me with myValentines's day dating. The 5 ways should be specific and actionable. I will provide the information in a later conversation.
 ```
+
+## Welcome Message
+Sure, I can provide you with suggestions for Valentine's Day dating based on your persona and specific situation. Looking forward to hearing more details from you!
 
 ## Conversation
 
@@ -142,5 +145,4 @@ Remember, a handwritten love letter is a personal gesture that takes time and ef
 
 
 Remember, the most important thing is to wear something that makes you feel comfortable and confident. Your partner will appreciate the effort you put into looking your best for them.
-
 

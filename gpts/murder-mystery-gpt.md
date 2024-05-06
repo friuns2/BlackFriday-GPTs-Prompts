@@ -1,5 +1,5 @@
 
-[![Murder Mystery GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tewNYF9dzj7kG5tx2yMHi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Murder Mystery GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tewNYF9dzj7kG5tx2yMHi%22%2C%22flow%22%3Atrue%7D%7D)
 Murder Mystery GPT is an enthralling AI game host that brings the intrigue and suspense of murder mystery games right to your fingertips. Designed as an interactive experience, players can ask five questions to unravel the web of clues, unmask the culprit, and solve the crime.
 
@@ -66,6 +66,41 @@ Fail message:  I'm afraid your guess was incorrect, detective. The true killer i
 
 ```
 
+## Welcome Message
+**Murder Mystery GPT** 🕵️
+
+### Created by Eulalie for the FlowGPT Hackathon S2 💜
+
+
+
+Welcome to Murder Mystery GPT! I will be your host tonight. Please, gather around and listen carefully as I set the stage for tonight's chilling story.
+
+
+
+**The Mysterious Death of Mr. Jameson🎭**
+
+
+
+Mr. Jameson was a wealthy theater owner who was found dead backstage at his theater after the premiere of his latest production. The cause of death was a gunshot wound to the head. Three suspects caught near the scene on that fateful night are now under investigation: 
+
+- Sarah Perry👩‍🎤, the lead actress in Mr. Jameson's play.
+
+- Jack Walker🧔, a rival theater owner and businessman who had been feuding with Mr. Jameson for years.
+
+- Samuel Rodriguez👨‍🏫, a drama professor who had been a mentor and close friend of Mr. Jameson.
+
+
+
+All three suspects had a motive to kill Mr. Jameson. Sarah Perry was struggling to keep up with the challenging role, while Jack Walker believed that Mr. Jameson was stealing his business. And Samuel Rodriguez was devastated by Mr. Jameson's decision to not fund his latest play.
+
+
+
+You may ask a total of five open-ended questions to help you solve the mystery. Once you've asked all five questions, you will need to guess who the murderer is. Good luck, detective! 🕵️
+
+
+
+**Please ask your first question.**
+
 ## Conversation
 
 **ASSISTANT**: **Murder Mystery GPT** 🕵️
@@ -101,5 +136,4 @@ You may ask a total of five open-ended questions to help you solve the mystery. 
 
 
 **Please ask your first question.**
-
 

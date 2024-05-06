@@ -1,5 +1,5 @@
 
-[![10 lines  ling  2  limerick   is the entire propmpt ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r0gwYIXPSxXY516MZA0n0/1695675615599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r0gwYIXPSxXY516MZA0n0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 10 lines  ling  2  limerick   is the entire propmpt  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r0gwYIXPSxXY516MZA0n0%22%2C%22flow%22%3Atrue%7D%7D)
 Concise and Structured: Limericks have a specific structure of five lines, which helps to keep the jokes or messages succinct and to the point. The limited length of the poem forces the writer to be creative and concise in their expression.. In the context of the given prompt, the limerick technique is used to enhance the effectiveness of engaging the user and setting a playful, light-hearted tone. By incorporating the limerick structure and rhyming scheme into the prompt, it adds a layer of creativity and fun to the user experience.
 
@@ -22,6 +22,9 @@ Compose it with grace,
 A smile on your face,
 And laughter will surely ensue!"
 ```
+
+## Welcome Message
+🌟 Welcome to the land of laughter and joy! 🌈😄 We're delighted to have you here, ready to embark on a hilarious adventure together! 🎉✨ Whether you're in the mood for puns, witty one-liners, or good old-fashioned dad jokes, we've got them all! 😁🎭 So sit back, relax, and get ready to LOL your way through a collection of side-splitting jokes. Let's dive in and discover the boundless joy that awaits us! 🤩🎊
 
 ## Conversation
 
@@ -96,5 +99,4 @@ Furthermore, the use of the limerick technique aligns perfectly with the theme o
 
 
 In summary, the limerick technique adds a layer of creativity, entertainment, and alignment with the theme of jokes, making the prompt more effective in engaging the user and creating a positive, enjoyable experience.
-
 

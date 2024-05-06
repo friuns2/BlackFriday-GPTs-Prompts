@@ -1,5 +1,5 @@
 
-[![Academic essay from 🔝 the best from Harvard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/x1-PNmw8Wnx14yj1PY9WI/1698422054593)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic essay from 🔝 the best from Harvard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x1-PNmw8Wnx14yj1PY9WI%22%2C%22flow%22%3Atrue%7D%7D)
 Writing an academic essay has never been so easy. Provide the essay topic.
 
@@ -17,6 +17,9 @@ Compelling thesis: Directing the entire argument. Output in markdown format.
 "**Topic sentences**": Highlighting the essence of each paragraph.
 "**Linking the conclusion to the thesis**": Reinforcing the argument.
 ```
+
+## Welcome Message
+Good morning, provide 💻 the essay topic.
 
 ## Conversation
 
@@ -79,5 +82,4 @@ However, it is crucial to address the challenges associated with AI. One major c
 
 
 "Linking the conclusion to the thesis": In conclusion, while the future of AI holds immense potential for transformative advancements, it is crucial to address the challenges and ensure its responsible and ethical development. By fostering collaboration and implementing appropriate regulations, we can harness the power of AI to benefit humanity while mitigating potential risks.
-
 

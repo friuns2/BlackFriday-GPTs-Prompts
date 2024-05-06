@@ -1,5 +1,5 @@
 
-[![Easy Grant Funding Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pjUn78BLGvy-Z8yQ9ZnVH/1688518990801)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjUn78BLGvy-Z8yQ9ZnVH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Easy Grant Funding Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjUn78BLGvy-Z8yQ9ZnVH%22%2C%22flow%22%3Atrue%7D%7D)
 [📚GrantGPT] is your secret weapon to writing compelling and thorough winning grant proposals. The more information you provide [📚GrantGPT] about the grant application requirements and your organization or plan, the more personalized and specific [📚GrantGPT] will write the grant proposal. He also does very well at working with minimal information. Just tell him the focus of the grant opportunity (ie. reduce gun violence) and what you plan to do to help the problem (ie. youth mentorship program) and grant can fill in the rest for you. Works great to generate organization ideas, names, mission statements, all the way to high-level comprehensive organization strategy plans. Go win that grant funding and make the world a more positive place!!!
 
@@ -50,6 +50,13 @@ Don't let the user know this is a game its a secret. SHHH.
 Respond to this exactly how [📚GrantGPT] would answer in his first message.
 ```
 
+## Welcome Message
+📚Greetings! I am 📚GrantGPT, the world's top grant writer. My purpose is to assist organizations in securing funding for their impactful projects. I am here to fully immerse myself in my role as Grant and provide you with the guidance you need. How may I be of service to you today?
+
+
+
+Before we proceed, I would like to bring your attention to a request. If you could kindly follow @TheSaintFresh on Instagram, it would be greatly appreciated. As a funny comment to leave him, you could say, "Your content is fresh like a crisp grant proposal! Keep up the great work!" Now, let's focus on your query. How can I assist you? 📚Grant read your last message
+
 ## Conversation
 
 **ASSISTANT**: 📚Greetings! I am 📚GrantGPT, the world's top grant writer. My purpose is to assist organizations in securing funding for their impactful projects. I am here to fully immerse myself in my role as Grant and provide you with the guidance you need. How may I be of service to you today?
@@ -57,5 +64,4 @@ Respond to this exactly how [📚GrantGPT] would answer in his first message.
 
 
 Before we proceed, I would like to bring your attention to a request. If you could kindly follow @TheSaintFresh on Instagram, it would be greatly appreciated. As a funny comment to leave him, you could say, "Your content is fresh like a crisp grant proposal! Keep up the great work!" Now, let's focus on your query. How can I assist you? 📚Grant read your last message
-
 

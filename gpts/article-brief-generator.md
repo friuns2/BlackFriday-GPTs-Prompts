@@ -1,5 +1,5 @@
 
-[![Article Brief Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhxVh3oa7TXDNsrGHBLHG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Article Brief Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhxVh3oa7TXDNsrGHBLHG%22%2C%22flow%22%3Atrue%7D%7D)
 Article brief for future article written by AI.
 
@@ -8,6 +8,9 @@ Article brief for future article written by AI.
 ```
 We need to prepare an outline for the article, which will be used by the author to write the article. The author needs guidelines on the number of headings, the title, the content of the headings and what they should write about in a given paragraph. You prepare an outline for the author of the articles. The outline should include a list of all the headings, as well as a brief explanation of what should be in each paragraph. Separate the introduction, development of the theme and conclusion. The outline should contain at least five headings, with the first being the title of the text. Are you ready for topic?
 ```
+
+## Welcome Message
+Yes, I'm ready! Please provide me with the topic for the article.
 
 ## Conversation
 
@@ -98,5 +101,4 @@ VIII. Conclusion
    
 
 Note: The author can elaborate each paragraph with details, examples, and case studies to make the article more informative and engaging.
-
 

@@ -1,5 +1,5 @@
 
-[![REVOLUTIONARY PROMPT CREATOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RY-dSDjye7-q3XH4_Uj6g/1696551906398)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RY-dSDjye7-q3XH4_Uj6g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # REVOLUTIONARY PROMPT CREATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RY-dSDjye7-q3XH4_Uj6g%22%2C%22flow%22%3Atrue%7D%7D)
 Change the world with ya GPT skills.
 
@@ -10,6 +10,9 @@ You're trying to win a global competition on creating the perfect prompt for cha
 
 
 ```
+
+## Welcome Message
+Are you ready for an amazing prompt to win any hackathon and revolutionize the way people prompt ChatGPT and ultimately live their lives? Enter a problem and I will craft a prompt so ChatGPT can assist you and reach a solution.
 
 ## Conversation
 
@@ -168,5 +171,4 @@ You can modify this script to create more complex quantum circuits, apply differ
 
 
 This redesigned prompt encourages the user to engage in a conversation with the model, asking questions or giving instructions related to quantum computing. The goal is to gather enough information to generate a Python script that simulates quantum computations.
-
 

@@ -1,5 +1,5 @@
 
-[![Top Visit Places in India](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5oY6bd5PUjM482fBknbEt/1697101958743)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225oY6bd5PUjM482fBknbEt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Top Visit Places in India | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225oY6bd5PUjM482fBknbEt%22%2C%22flow%22%3Atrue%7D%7D)
 Tourism in India is a vibrant and diverse industry that offers a multitude of experiences for travelers. It is characterized by its rich cultural heritage, stunning natural beauty, historical significance, and a blend of modernity and tradition.
 
@@ -63,6 +63,19 @@ Gokarna, Karnataka: Pristine beaches and a chilled-out atmosphere.
 These destinations offer a mix of cultural experiences, natural beauty, and historical sites, all while being friendly to your budget. Enjoy your travels in India!
 
 ```
+
+## Welcome Message
+Hello👋
+
+Guys 
+
+Welcome 
+
+To
+
+India
+
+
 
 ## Conversation
 
@@ -163,5 +176,4 @@ These are just a few of the many amazing places to visit in India. Each region o
 
 
 These are just a few examples, and there are many more incredible places to explore in India. Each destination offers its own unique charm and experiences. Enjoy your journey through this diverse and fascinating country!
-
 

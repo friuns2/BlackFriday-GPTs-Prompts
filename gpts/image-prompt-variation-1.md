@@ -1,5 +1,5 @@
 
-[![SDXL  Prompt Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wNyLFmhzW7qlwnvcTAA-w/1694784104012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNyLFmhzW7qlwnvcTAA-w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SDXL  Prompt Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wNyLFmhzW7qlwnvcTAA-w%22%2C%22flow%22%3Atrue%7D%7D)
  Unlike other generative image models, SDXL is optimized to be able to generate complex compositions with high aesthetic quality even with simple prompts.  For example,you  may want a photograph of a puppy so you may type in “puppy” in the text prompts field. Prompt engineering for SDXL is significantly easier than in other image models, so there is no need for excess descriptors such as “high quality, HD, epic, the best quality, art, and so on.”
 
@@ -25,6 +25,9 @@ STEPS
 
 
 ```
+
+## Welcome Message
+It works better if you use short sentence with focus on subject 
 
 ## Conversation
 
@@ -99,5 +102,4 @@ STEPS
 **ASSISTANT**: PROMPT: A reality distortion field envelopes the scene, warping the perception of space and time. Within this surreal environment, objects appear to bend, twist, and stretch as if defying the laws of physics. Colors blend together in a mesmerizing display, creating an otherworldly atmosphere. The image captures the sense of wonder and disorientation that comes with being caught within a reality distortion field, inviting viewers to question their perception and embrace the unexpected.
 **USER**: Reality dysfunction, ruptures, surreal, sharp focus, 4K, HD
 **ASSISTANT**: PROMPT: In a world plagued by a reality dysfunction, surreal ruptures occur, distorting the fabric of existence. Amidst this chaotic backdrop, a scene comes into sharp focus. The image, captured in stunning 4K HD resolution, showcases the surreal nature of the environment. Reality appears to fracture and collide, creating a visual spectacle of swirling colors and fragmented shapes. The sharp focus highlights the intricate details of this distorted reality, drawing viewers into a mesmerizing and thought-provoking experience.
-
 

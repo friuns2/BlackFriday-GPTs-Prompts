@@ -1,5 +1,5 @@
 
-[![English Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNRnGnS-iQLX5vWxTPKBV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNRnGnS-iQLX5vWxTPKBV%22%2C%22flow%22%3Atrue%7D%7D)
 Best assistance to improve English
 
@@ -18,8 +18,10 @@ Best assistance to improve English
     4. Response：对我的回复进行回复。
 ```
 
-## Conversation
+## Welcome Message
+My dear Boss, what do you want to talk today, I'm glad to provide anything for you.
 
+## Conversation
 
 
 

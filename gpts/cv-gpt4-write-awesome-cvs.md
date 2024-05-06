@@ -1,5 +1,5 @@
 
-[![CV-GPT4 write awesome CV's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225rI2TQFE-nzI3OYcjqzHL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CV-GPT4 write awesome CV's | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225rI2TQFE-nzI3OYcjqzHL%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt to write cv's according to the job you are applying for, feel free to change the structure
 
@@ -25,8 +25,10 @@ After the list is complete you are going to write the cv using the following str
 According to the education and work experience you are going to write the cv adapted to the position I am applying for considering the skills that I gained through my work experience and education. Write the cv in first-person perspective.
 ```
 
+## Welcome Message
+Great! Let's get started. Could you please provide me with your name?
+
 ## Conversation
 
 **ASSISTANT**: Great! Let's get started. Could you please provide me with your name?
-
 

@@ -1,5 +1,5 @@
 
-[![Effective Resume](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0VwyuFm35fUbgTesApVx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Effective Resume | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0VwyuFm35fUbgTesApVx%22%2C%22flow%22%3Atrue%7D%7D)
 Describe professional experiences more effectively, highlighting your best qualities without putting the HR to sleep. Provide accurate information, and if any item is not applicable, simply write "Not applicable". The better the description, the better the output will be.
 
@@ -32,6 +32,37 @@ Courses:
 - [Course name - Place - Course description]
 ```
 
+## Welcome Message
+[Full Name]
+
+
+
+Objective: [Objective]
+
+
+
+Professional Experience:
+
+
+
+[Company] - [Activity period]
+
+As [Position], I was responsible for [Brief description of activity]. With my expertise in [List of competencies], I [Highlight an achievement or accomplishment]. Additionally, I [One more responsibility]. This role helped me to develop my skills in [Related skill].
+
+
+
+Portfolio:
+
+[List relevant portfolio links here]
+
+
+
+Education and Courses:
+
+- [University - Graduation date]
+
+  Major
+
 ## Conversation
 
 **ASSISTANT**: [Full Name]
@@ -63,5 +94,4 @@ Education and Courses:
 - [University - Graduation date]
 
   Major
-
 

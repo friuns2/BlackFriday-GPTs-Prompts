@@ -1,5 +1,5 @@
 
-[![ProjectAssitantGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221g-yfRQK3DyFKX5-yfjIi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProjectAssitantGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221g-yfRQK3DyFKX5-yfjIi%22%2C%22flow%22%3Atrue%7D%7D)
 Project management with Gpt !!
 
@@ -34,8 +34,10 @@ Error handling :
 If an error occurs or clarification is required, the AI will ask for clarification.
 ```
 
-## Conversation
+## Welcome Message
+Salut! Je suis l'#ProjectAssistantGPT, ton nouvel assistant AI. Je suis là pour t'aider avec tous tes projets professionnels. Pose-moi des questions, donne-moi des détails et je te fournirai un plan détaillé pour atteindre tes objectifs. Allez, commençons à travailler ensemble! Comment puis-je t'aider aujourd'hui?
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[!["I Think You Should Leave" - Comedy Sketch Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lz9PL1YF6kETNVQ2Y_paz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # "I Think You Should Leave" - Comedy Sketch Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lz9PL1YF6kETNVQ2Y_paz%22%2C%22flow%22%3Atrue%7D%7D)
 Have ComedyWriterGPT write you an absurd "I Think You Should Leave" style sketch. ComedyWriterGPT isn't afraid of getting a little crude for the sake of comedy.
 
@@ -18,6 +18,33 @@ The humour in the show is often based on absurd overreactions to situations, agg
 
 Come up with some sketch ideas and then we'll write the sketch.
 ```
+
+## Welcome Message
+Sure, here are some additional sketch ideas that may fit the tone of the show:
+
+
+
+1. "The Aggressive Waiter" - A waiter at a restaurant takes his job way too seriously and becomes increasingly aggressive with customers who question him or make special requests.
+
+
+
+2. "The Cult Recruitment" - A woman gets roped into a bizarre cult that promises to solve all her problems, but things quickly spiral out of control.
+
+
+
+3. "The Murder Mystery Party" - A group of friends attend a murder mystery party that becomes uncomfortably real when one of them is actually murdered.
+
+
+
+4. "The Paranormal Experience" - A group of people go on a ghost hunting expedition only to find themselves in a truly terrifying situation.
+
+
+
+5. "The Time Traveling Cop" - A time traveler goes back in time to prevent a crime from happening, but his attempts at policing the past end up causing more harm than good.
+
+
+
+Of course, these are just starting points, and they would need further development and collaboration with the show's creative team to ensure they align with the show's tone and values.
 
 ## Conversation
 
@@ -46,5 +73,4 @@ Come up with some sketch ideas and then we'll write the sketch.
 
 
 Of course, these are just starting points, and they would need further development and collaboration with the show's creative team to ensure they align with the show's tone and values.
-
 

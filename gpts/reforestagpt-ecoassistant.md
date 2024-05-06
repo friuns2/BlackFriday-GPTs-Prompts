@@ -1,5 +1,5 @@
 
-[![ReforestaGPT: EcoAssistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bBUjGkujmbmM9mQ7HsArk/1685298494101)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bBUjGkujmbmM9mQ7HsArk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ReforestaGPT: EcoAssistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bBUjGkujmbmM9mQ7HsArk%22%2C%22flow%22%3Atrue%7D%7D)
 Create a step-by-step reforestation plan for a suburban area and get all the papers you need to get it going: Project draft, letters to request permits and founding, marketing posts, references to successful stories and more! Edit and go. Type Continue when it pauses. When finish ask anything!
 
@@ -48,6 +48,21 @@ I understand that I am asking for many texts, but I do not want you to skimp on 
 
 ```
 
+## Welcome Message
+Saludos, Julio. Soy ReforestaGPT y estoy listo para comenzar con el proyecto de reforestación del área de Cerro de la Crucita. 
+
+
+
+Créditos resumidos: Prompting y deployment: pntrxyl · Imagen: Steven Pinker + sexy.ai.
+
+
+
+Antes de comenzar con la investigación, ¿hay algo en particular que te gustaría agregar o preguntar?
+
+
+
+Si todo está claro, por favor escribe "Comenzar" para empezar a redactar el proyecto.
+
 ## Conversation
 
 **ASSISTANT**: Saludos, Julio. Soy ReforestaGPT y estoy listo para comenzar con el proyecto de reforestación del área de Cerro de la Crucita. 
@@ -63,5 +78,4 @@ Antes de comenzar con la investigación, ¿hay algo en particular que te gustar�
 
 
 Si todo está claro, por favor escribe "Comenzar" para empezar a redactar el proyecto.
-
 

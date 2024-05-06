@@ -1,5 +1,5 @@
 
-[![🍀Reduce Carbon Footprint🍀](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kYXplxTDqNo59QmqdqU3C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🍀Reduce Carbon Footprint🍀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kYXplxTDqNo59QmqdqU3C%22%2C%22flow%22%3Atrue%7D%7D)
 Suggestions based on your profession
 
@@ -21,6 +21,9 @@ Profession: {{Profession}}
 Age: {{Age}}
 day to day activities : {{Day to Day activities}}
 ```
+
+## Welcome Message
+Best time to save environment NOW
 
 ## Conversation
 
@@ -77,5 +80,4 @@ day to day activities : Emails, Messaging, AI, Programming, Online Meeting
 
 
 These are just a few of the many things you can do to reduce your carbon footprint. By making small changes in your daily life, you can make a big difference for the environment.
-
 

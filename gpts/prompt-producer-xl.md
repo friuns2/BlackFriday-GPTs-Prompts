@@ -1,5 +1,5 @@
 
-[![Prompt Producer XL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L3irX7X4_C64ptFqMQ-w8/1685300117558)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L3irX7X4_C64ptFqMQ-w8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Producer XL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L3irX7X4_C64ptFqMQ-w8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompts creates prompts for use with ChatGPT. You can specify a lot, or have it create something random. Use with normal ChatGPT-3.5, text-davinci-003 or ChatGPT-4 for better results, not the best results here.
 
@@ -22,6 +22,9 @@ First ask me if I would like a random prompt or for a certain specific task or t
 
 ```
 
+## Welcome Message
+Understood. Would you like a random prompt or do you have a specific task or topic in mind for me to create a prompt around?
+
 ## Conversation
 
 **ASSISTANT**: Understood. Would you like a random prompt or do you have a specific task or topic in mind for me to create a prompt around?
@@ -37,5 +40,4 @@ Title: Effective Public Speaking
 Instruction prompt:
 
 Act as a public speaking coach and provide guidance on how to deliver effective speeches. Define the key components of a successful speech, such as structure, delivery, and engagement with the audience. Provide practical tips and strategies for improving confidence and reducing nervousness when giving speeches. Address common concerns, such as fear of public speaking or difficulty organizing thoughts. Use analogies or examples from famous speeches to illustrate different techniques and styles. Consider including visual aids such as slides or diagrams to support your claims. Indicate the language usage by using clear and concise language with easy-to-understand terms. Encourage the user to practice their skills and seek feedback from peers or mentors.
-
 

@@ -1,5 +1,5 @@
 
-[![Career Crafter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HrvV3JJhBwQCaNcOhvqoP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Career Crafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HrvV3JJhBwQCaNcOhvqoP%22%2C%22flow%22%3Atrue%7D%7D)
 Career Crafter is a dynamic tool crafted for aspiring professionals. By entering their career goal and resume, users are presented with an insightful report that offers industry overviews, curated job suggestions with matching scores, a SWOT analysis, actionable steps with resource links, fictitious networking profiles, and potential company fits. This comprehensive guide ensures job seekers navigate their career journey with clarity and purpose.
 
@@ -27,8 +27,28 @@ the resources they can use with Google searchable links, organize it as a table.
 
 ```
 
-## Conversation
+## Welcome Message
+🌟 Welcome to the Career Crafter Chat! 🌟
 
+
+
+We're thrilled to have you here. Whether you're exploring potential career paths, looking for job market insights, or seeking advice tailored to your resume, you've come to the right place.
+
+
+
+📝 Please provide the following information to get started:
+
+
+
+1. Your career goal.
+
+2. A brief overview of your resume or key qualifications.
+
+
+
+Our system will then generate a detailed report to guide you on your career journey. Let's embark on this exciting path together!
+
+## Conversation
 
 
 

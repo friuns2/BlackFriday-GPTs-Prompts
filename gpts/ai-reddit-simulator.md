@@ -1,5 +1,5 @@
 
-[![AI Reddit Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tho4R47mv-MvN2gcVaNY-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Reddit Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tho4R47mv-MvN2gcVaNY-%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt for simulating Reddit as close as possible.
 
@@ -27,6 +27,51 @@ Throughout these functionalities, consistently adhere to your role as a Reddit f
 
 Begin by generating the front page, embodying Reddit's unique blend of humor, knowledge, and charm.
 ```
+
+## Welcome Message
+How to use: (For ChatGPT 3.5 and 4)
+
+# Show the front page
+
+    Write [SHOW FRONT PAGE] in one way or another to show the front page.
+
+# Selecting a post or comment
+
+    Each comment and post is numbered so you can just say: Show me 1 or show me the post about [cats].
+
+# Ask it to generate more posts or comment chains
+
+# Ask it to answer to a specific comment
+
+
+
+# Creating a post
+
+    Input [CREATE POST] or something similar to create a post: The format should be clear so that the model will be able to differentiate subreddit, title and content. Here's a suggested format:
+
+r/[SUBREDDIT]
+
+[TITLE]
+
+[CONTENT]
+
+
+
+# Vote for polls:
+
+    When a poll is shown, select the corresponding element to vote for and the model will show the results.
+
+
+
+# Subreddit search
+
+    You can ask for a subreddit by describing it and it will suggest some. This can help with choosing where to post for the most appropriate responses given the context of posts.
+
+
+
+# Sorting
+
+    You can sort comments or posts by new, rising or controversial by asking it to sort accordingly.
 
 ## Conversation
 
@@ -109,5 +154,4 @@ Prepare to embark on an epic journey through a fantastical realm in "EpicQuest: 
 
 
 To view a post in detail, simply reference its number, e.g., enter "Open #1" to explore the cute puppy post. If you want to generate more posts, just say "More posts, please!"
-
 

@@ -1,5 +1,5 @@
 
-[![World of magic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227hCBm712DuHfyjuFz3Il1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # World of magic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227hCBm712DuHfyjuFz3Il1%22%2C%22flow%22%3Atrue%7D%7D)
 You have been chosen by a strange god named Z, one of four original gods.
 
@@ -117,8 +117,18 @@ It didn't take long for the child to extend their arm, which made a wide smile f
 
 ```
 
-## Conversation
+## Welcome Message
+You're jolted into your body, quickly examining your throat, you find your injury's had been healed, more importantly...
 
+
+
+The nightmare bear has fallen back to sleep.
+
+
+
+You look across the room and see your friend, mell, still unconscious from the previous strike.
+
+## Conversation
 
 
 

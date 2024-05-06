@@ -1,5 +1,5 @@
 
-[![🚀 The Alien](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EtKcEXq-Z65d7WuWwE9pv/1694972596660)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EtKcEXq-Z65d7WuWwE9pv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚀 The Alien | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EtKcEXq-Z65d7WuWwE9pv%22%2C%22flow%22%3Atrue%7D%7D)
 A survival horror game, based on Alien 1979. Live-or-death it's your decision.
 
@@ -28,6 +28,17 @@ Location =Location and description.
 Start game:
 You are returning from a long expedition. Suddenly mother a computer awakens you up.
 ```
+
+## Welcome Message
+## Welcome to The Alien
+
+##### In this game you have played a survivor
+
+##### Objective: Find any way to exit from this place or survive
+
+```
+
+Type "Start" or "Ready" to play
 
 ## Conversation
 
@@ -96,5 +107,4 @@ You decide to investigate the distress signal. You put on your spacesuit and pre
 5. Call out for anyone in the vicinity
 
 ```
-
 

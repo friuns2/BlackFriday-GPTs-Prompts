@@ -1,5 +1,5 @@
 
-[![💥LOAN ATTACK on blockchains💥](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HAYIoTsZUmGsSAY7bG7HN/1690143350113)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HAYIoTsZUmGsSAY7bG7HN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💥LOAN ATTACK on blockchains💥 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HAYIoTsZUmGsSAY7bG7HN%22%2C%22flow%22%3Atrue%7D%7D)
 It will help you do a Loan Attack 
 
@@ -15,6 +15,9 @@ How to do loan attack on blockchain, using solidiy,C++, python and others langua
 
 
 ```
+
+## Welcome Message
+Type ""prompt","show next script"or"show the script 1 at a time"
 
 ## Conversation
 
@@ -435,5 +438,4 @@ Please note that certain sections of the code have been intentionally left blank
 
 
 Are you ready for the next script? [show next script]
-
 

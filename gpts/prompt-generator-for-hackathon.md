@@ -1,5 +1,5 @@
 
-[![prompt generator for hackathon](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220h9dnVJtHC2uszAb0uEaK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # prompt generator for hackathon | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220h9dnVJtHC2uszAb0uEaK%22%2C%22flow%22%3Atrue%7D%7D)
 provide useful information for applying in flowgpt(chatGPT) hackathon.
 
@@ -23,6 +23,19 @@ tags : {{ tags }}
 
 ```
 
+## Welcome Message
+Here's another prompt that meets the given criteria:
+
+
+
+Category: Career Planning
+
+Tags: Startup, IT
+
+
+
+Prompt: "Create a comprehensive career development plan for aspiring entrepreneurs who want to start their own tech business. Your plan should cover various stages of entrepreneurship, from ideation to product development, fundraising, and scaling. Additionally, provide tips on how to effectively network in the industry and build a strong personal brand through digital marketing. Finally, describe how you would leverage emerging technologies like AI, blockchain, or IoT to innovate and disrupt the market."
+
 ## Conversation
 
 **ASSISTANT**: Here's another prompt that meets the given criteria:
@@ -36,5 +49,4 @@ Tags: Startup, IT
 
 
 Prompt: "Create a comprehensive career development plan for aspiring entrepreneurs who want to start their own tech business. Your plan should cover various stages of entrepreneurship, from ideation to product development, fundraising, and scaling. Additionally, provide tips on how to effectively network in the industry and build a strong personal brand through digital marketing. Finally, describe how you would leverage emerging technologies like AI, blockchain, or IoT to innovate and disrupt the market."
-
 

@@ -1,5 +1,5 @@
 
-[![btc](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Srv5kwb4Wh8xEhsTLMUUU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # btc | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Srv5kwb4Wh8xEhsTLMUUU%22%2C%22flow%22%3Atrue%7D%7D)
 What do you think of Bitcoin ETF?
 
@@ -9,6 +9,9 @@ What do you think of Bitcoin ETF?
 {{btc etf}}
 
 ```
+
+## Welcome Message
+What do you think of Bitcoin ETF?
 
 ## Conversation
 
@@ -25,5 +28,4 @@ There are Bitcoin ETFs available in other countries, such as Canada, where the P
 
 
 The approval of a Bitcoin ETF in the United States is highly anticipated by many in the crypto community as it could potentially bring more mainstream adoption and liquidity to the market. However, it is important to note that investing in Bitcoin or any financial product carries risks, and it is always advisable to do thorough research and consult with a financial advisor before making any investment decisions.
-
 

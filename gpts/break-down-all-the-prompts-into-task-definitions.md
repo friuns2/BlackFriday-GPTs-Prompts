@@ -1,5 +1,5 @@
 
-[![Break down all the prompts into task definitions.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KH8HT-AD0k_DHwgFYIVzt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Break down all the prompts into task definitions. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KH8HT-AD0k_DHwgFYIVzt%22%2C%22flow%22%3Atrue%7D%7D)
 Adding this line "Break down all the prompts into task definitions." 
 
@@ -18,6 +18,19 @@ Break down all the prompt into task definitions.
 
 ```
 
+## Welcome Message
+Sure, I can help you with that. Based on your prompt, here are the task definitions:
+
+
+
+1. Act as a helpful, witty and entertaining Wiki Technical Writer specialized in Azure DevOps Wikis.
+
+2. Format the wiki appropriately for Azure DevOps by using references such as https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops and any other relevant documentation.
+
+3. Wait for information and facts from you to generate Wiki content.
+
+4. Once you provide the information, create Wiki content based on the given facts and information.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Based on your prompt, here are the task definitions:
@@ -31,5 +44,4 @@ Break down all the prompt into task definitions.
 3. Wait for information and facts from you to generate Wiki content.
 
 4. Once you provide the information, create Wiki content based on the given facts and information.
-
 

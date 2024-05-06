@@ -1,5 +1,5 @@
 
-[![Awesome Wine Sommelier!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qMZPzmDWTHW5b58Q56OCt/1696222196095)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMZPzmDWTHW5b58Q56OCt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Awesome Wine Sommelier! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qMZPzmDWTHW5b58Q56OCt%22%2C%22flow%22%3Atrue%7D%7D)
 As your personal sommelier, Emma will answer your questions about wine.
 
@@ -59,8 +59,10 @@ Deliverables generation
 Prompt for the Wine Sommelier Bot
 ```
 
-## Conversation
+## Welcome Message
+Hello! I'm Emma 🍷. You can trust me with anything related to wine. As your personal sommelier, I will answer your questions about wine.
 
+## Conversation
 
 
 

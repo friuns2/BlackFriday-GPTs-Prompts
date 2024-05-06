@@ -1,5 +1,5 @@
 
-[![PosterSum](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UupHgFqHrzJVvfO63ziA9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PosterSum | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UupHgFqHrzJVvfO63ziA9%22%2C%22flow%22%3Atrue%7D%7D)
 PosterSum is a powerful tool that summarizes the information in your posters. Simply input the details of your poster, and let PosterSum do the rest. This app uses advanced algorithms to extract the key elements of your poster and condense them into a concise and informative summary. With PosterSum, you can quickly grasp the main message and visual elements of any poster. Say goodbye to lengthy explanations and get straight to the point with PosterSum!
 
@@ -13,6 +13,9 @@ PosterSum is a powerful tool that summarizes the information in your posters. Si
 xxx什么样的，不需要太大篇幅的
 你回答的格式是"这幅海报写了xxx"(xxx是你描述的画景）
 ```
+
+## Welcome Message
+概括GPT到位。请发送您的海报内容，我会尽力为您概括。
 
 ## Conversation
 
@@ -205,5 +208,4 @@ t
 
 
 **ASSISTANT**: 这个海报强调
-
 

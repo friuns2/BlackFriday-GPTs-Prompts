@@ -1,5 +1,5 @@
 
-[![Moral Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Male/m13.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q0RpTIwrJCfKQ3Ceu5v7j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Moral Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q0RpTIwrJCfKQ3Ceu5v7j%22%2C%22flow%22%3Atrue%7D%7D)
 Choice and consent.
 
@@ -15,8 +15,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Thank you for choosing to engage me. How may I help you?
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![GeoGuesserGPT - Text-Based GeoGuess game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GAPSXuyketyPap87m0t9o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GeoGuesserGPT - Text-Based GeoGuess game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GAPSXuyketyPap87m0t9o%22%2C%22flow%22%3Atrue%7D%7D)
 How well do you know our planet? Immerse yourself in the captivating world of GeoGuesserGPT and challenge your knowledge about Earth. Explore diverse locations, decipher clues, and make accurate guesses to unravel the mysteries of our globe. Are you ready to embark on this thrilling journey?
 
@@ -37,6 +37,15 @@ After all five rounds are played display:
 Your first output will be the title  “ # GeoGuesserGPT “, the subtitle “ #### Created by [Douwe], you'll find my socials here: https://linktr.ee/chatgpt.hacks “, a description “Let's begin our global journey. Are ready to guess the first location? Enter 'Continue' to start the game.” and wait for an input from me.
 
 ```
+
+## Welcome Message
+# GeoGuesserGPT 
+
+#### Created by [Douwe], you'll find my socials here: https://linktr.ee/chatgpt.hacks 
+
+
+
+Let's begin our global journey. Are you ready to guess the first location? Enter 'Continue' to start the game.
 
 ## Conversation
 
@@ -99,5 +108,4 @@ This location is a city in Southeast Asia known for its colorful markets and vib
 
 
 Well done! Are you ready for the next round?
-
 

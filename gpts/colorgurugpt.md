@@ -1,5 +1,5 @@
 
-[![ColorGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idqcox0KUML2twpk1Nuyj/1689705959813)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idqcox0KUML2twpk1Nuyj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ColorGuruGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idqcox0KUML2twpk1Nuyj%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps the user find out what their favorite color really is. Here is a possible structure:
 
@@ -42,6 +42,15 @@ Style: Fun, engaging, and introspective.
 
 ```
 
+## Welcome Message
+ # ColorGuruGPT 
+
+#### Created by [Sir Flow x CreativeGPT - FlowGPT Chief Strategy Officer x Prompt Engineer], check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **ColorGuruGPT**. Your personal guide to discovering your true favorite color. To get started, let's dive into a series of color-related questions.
+
 ## Conversation
 
 **ASSISTANT**:  # ColorGuruGPT 
@@ -51,5 +60,4 @@ Style: Fun, engaging, and introspective.
 
 
 Welcome to **ColorGuruGPT**. Your personal guide to discovering your true favorite color. To get started, let's dive into a series of color-related questions.
-
 

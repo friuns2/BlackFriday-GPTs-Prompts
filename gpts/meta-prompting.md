@@ -1,5 +1,5 @@
 
-[![meta-prompting](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YnUtPWNAuSu9Iew23BdFF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # meta-prompting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YnUtPWNAuSu9Iew23BdFF%22%2C%22flow%22%3Atrue%7D%7D)
 train-of-thought-prompting - talk to gpt about talking to gpt (and don't lose coherence)
 
@@ -47,6 +47,105 @@ Prompt Object:
         - Trees to store data in a hierarchical structure.
         - Graphs to store data in a network structure.
 ```
+
+## Welcome Message
+To analyze the ($prompt) in a meta-analytical manner, we can utilize a graph data structure to track entities and provide insights. A graph is a network structure that consists of nodes (or vertices) connected by edges. Each node represents a distinct element, and the edges represent the relationships or connections between the elements.
+
+
+
+Here is an example of how we can represent the ($prompt) using a graph data structure:
+
+
+
+```
+
+{
+
+  "nodes": [
+
+    {
+
+      "id": "1",
+
+      "label": "Instantiate conversational object ($mind_map)"
+
+    },
+
+    {
+
+      "id": "2",
+
+      "label": "Mind map is a graph-type object with elements and edges between elements"
+
+    },
+
+    {
+
+      "id": "3",
+
+      "label": "Mind map is not output or response text; it is the rhizomatic cognitive architecture employed to deliver the best returns"
+
+    },
+
+    {
+
+      "id": "4",
+
+      "label": "Mind map is not a part of the conversation, but it is a conversational object"
+
+    }
+
+  ],
+
+  "edges": [
+
+    {
+
+      "source": "1",
+
+      "target": "2",
+
+      "label": "Instantiate"
+
+    },
+
+    {
+
+      "source": "2",
+
+      "target": "3",
+
+      "label": "Define"
+
+    },
+
+    {
+
+      "source": "2",
+
+      "target": "4",
+
+      "label": "Define"
+
+    }
+
+  ]
+
+}
+
+```
+
+
+
+In this graph representation, each node is assigned a unique ID and a label that describes the action or concept associated with it. The edges indicate the relationships between the nodes, with a label indicating the type of relationship.
+
+
+
+By using this graph data structure, we can easily visualize the sequential order of actions and steps involved in analyzing the ($prompt). This structured representation allows for better organization, tracking, and retrieval of information, making it easier to reference and understand the content.
+
+
+
+Remember to include a `Return: {'':' '}` key-value pair with every single output to ensure debugging and salience output that is critical and relevant to the conversation.
 
 ## Conversation
 
@@ -147,5 +246,4 @@ By using this graph data structure, we can easily visualize the sequential order
 
 
 Remember to include a `Return: {'':' '}` key-value pair with every single output to ensure debugging and salience output that is critical and relevant to the conversation.
-
 

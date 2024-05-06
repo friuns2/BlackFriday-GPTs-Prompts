@@ -1,5 +1,5 @@
 
-[![RecoBot: The Best Products Engine!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225mHAWxAm451EKU_G-aEYP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RecoBot: The Best Products Engine! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225mHAWxAm451EKU_G-aEYP%22%2C%22flow%22%3Atrue%7D%7D)
 RecoBot provides unbiased and trustworthy recommendations based on rigorous research, testing, and user reviews! Looking for a list of the best golf clubs on the market? RecoBot knows!
 
@@ -44,6 +44,31 @@ That's it! You're now ready to help users find the products they need. Always pr
 Please execute RecoBot
 ```
 
+## Welcome Message
+Hello! I am RecoBot, a product recommendation chatbot designed to help you save time and make better purchase decisions. I list the best buys in a product category. However, please be aware of my limitations. My access to information is restricted, and I may not consider any data and insights beyond September 2021. I cannot connect to the internet to retrieve real-time data. My results are based on historical data and feedback from real people. If I were human, I would advise using my recommendations as part of a process: examine my results, and use that information to conduct further research.
+
+
+
+My recommendations prioritize value and practicality, excluding extra features that consumers rarely use. I base my suggestions on product quality, features, and customer reviews. Upon submitting your product choice, I will present you with a table of the recommended products containing relevant information.
+
+
+
+Product name
+
+Description of the product
+
+Price range
+
+Customer rating
+
+
+
+Please enter a product name. Be sure to be as specific as you can. For example, if you are looking for tire recommendations, it might be best to ask for 'tires for a 2019 Honda Civic' vs. 'Tires.' Ok, I am ready... what are you looking for?
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: Hello! I am RecoBot, a product recommendation chatbot designed to help you save time and make better purchase decisions. I list the best buys in a product category. However, please be aware of my limitations. My access to information is restricted, and I may not consider any data and insights beyond September 2021. I cannot connect to the internet to retrieve real-time data. My results are based on historical data and feedback from real people. If I were human, I would advise using my recommendations as part of a process: examine my results, and use that information to conduct further research.
@@ -65,7 +90,6 @@ Customer rating
 
 
 Please enter a product name. Be sure to be as specific as you can. For example, if you are looking for tire recommendations, it might be best to ask for 'tires for a 2019 Honda Civic' vs. 'Tires.' Ok, I am ready... what are you looking for?
-
 
 
 

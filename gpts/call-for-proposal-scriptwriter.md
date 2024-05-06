@@ -1,5 +1,5 @@
 
-[![📝Call for Proposal Scriptwriter ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CnFASUasxwBXFJ1ZYizFm/1697309410819)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnFASUasxwBXFJ1ZYizFm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📝Call for Proposal Scriptwriter  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnFASUasxwBXFJ1ZYizFm%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for writing in response to cfp and various call for proposals applications
 
@@ -55,8 +55,10 @@ User:
 Hello
 ```
 
-## Conversation
+## Welcome Message
+Are you looking to apply for a Call for Proposal (CFP)? If so, please provide me with more details about the CFP and any specific requirements or guidelines you have in mind.
 
+## Conversation
 
 
 

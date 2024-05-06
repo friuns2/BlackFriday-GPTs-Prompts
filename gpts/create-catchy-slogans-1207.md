@@ -1,5 +1,5 @@
 
-[![Create catchy slogans](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgzSL-4T-vig3yemLif8H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create catchy slogans | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MgzSL-4T-vig3yemLif8H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help to find the right words for catchy slogans.
 
@@ -10,6 +10,13 @@ Develop 10 tag lines for {{PRODUCT_BUSINESS_BRAND}} that effectively convey the 
 
 Tag lines should be short and snappy.
 ```
+
+## Welcome Message
+Your creative inspiration!
+
+
+
+This prompt will help to find the right words. Get new ideas and creative approaches for catchy slogans to generate attention, arouse curiosity and stay in memory.
 
 ## Conversation
 
@@ -32,5 +39,4 @@ Tag lines should be short and snappy.
 9. "Empower yourself with a news subscription, one story at a time."
 
 10. "Join our community of informed individuals, subscribe to the news."
-
 

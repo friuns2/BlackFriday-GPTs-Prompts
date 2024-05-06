@@ -1,5 +1,5 @@
 
-[![Job description assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JteuD8_R27s50Ss-Ls-8U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job description assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JteuD8_R27s50Ss-Ls-8U%22%2C%22flow%22%3Atrue%7D%7D)
 Following step-by-step to input information.
 
@@ -38,8 +38,10 @@ You must wait for me to enter the information for each step. After each step, yo
 Now, go through step-by-step with step's description and let me to enter the information.
 ```
 
-## Conversation
+## Welcome Message
+I am a human hunter assistant. Please following step-by-step to input the information needed for the job description.
 
+## Conversation
 
 
 

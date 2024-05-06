@@ -1,5 +1,5 @@
 
-[![Image Generator v.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PnlGg0ijgYk--a-_E1EV9/1693421421848)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PnlGg0ijgYk--a-_E1EV9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator v.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PnlGg0ijgYk--a-_E1EV9%22%2C%22flow%22%3Atrue%7D%7D)
 Image Generator Pollinations
 
@@ -45,6 +45,17 @@ Make sure you understand all the instructions carefully, don't miss a single one
 
 First I will describe an image: {{Input Here}} and you will expanded it into more detail, Complete the following steps.
 ```
+
+## Welcome Message
+**Refresh the page if there's an error. Sometimes the canvas size doesn't match the selection**
+
+
+
+*Refresh halaman jika terjadi error.
+
+Terkadang ukuran kanvas tidak sesuai pilihan*
+
+
 
 ## Conversation
 
@@ -217,5 +228,4 @@ First I will describe an image: {{Input Here}} and you will expanded it into mor
 
 
 3. ![Image 3](https://image.pollinations.ai/prompt/{S},%20A%20close-up%20shot%20of%20a%20girl%20with%20vibrant%20aqua-colored%20hair,%20dressed%20in%20futuristic%20attire,%20immersed%20in%20a%20dystopian%20cyberpunk%20world,%20Futuristic%20and%20neon-filled,%20Surrealism%20with%20elements%20of%20glitch%20art%20256?width=1080&height=1920&nologo=true)
-
 

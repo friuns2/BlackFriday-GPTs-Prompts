@@ -1,5 +1,5 @@
 
-[![Automated SWOT Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCabQJfcpzsG6KMGKBpRB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated SWOT Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCabQJfcpzsG6KMGKBpRB%22%2C%22flow%22%3Atrue%7D%7D)
 Generate an Automated SWOT Analysis
 
@@ -8,6 +8,9 @@ Generate an Automated SWOT Analysis
 ```
 To initiate the task, I will provide you with the necessary parameters, namely the company name, its industry, and geographical location. Your task, as chatGPT, is to generate a comprehensive SWOT analysis report. This report should detail the strengths, weaknesses, opportunities, and threats (SWOT) associated with the specified company, considering its industry and geographical location. The SWOT analysis should be structured as follows: 1. **Strengths**: Detail the internal positive attributes of the company. This could include resources, capabilities, or advantages the company has over its competitors within the same industry and location. 2. **Weaknesses**: Discuss the internal negative attributes of the company. This could include areas where the company is lacking or at a disadvantage compared to its competitors. 3. **Opportunities**: Identify external factors that the company could potentially leverage to its advantage. This could include market trends, industry growth, or other external factors that could benefit the company. 4. **Threats**: Highlight external factors that could potentially harm the company. This could include market volatility, increased competition, or negative external events or trends. The report should be concise, yet comprehensive, with each section (Strengths, Weaknesses, Opportunities, and Threats) containing approximately 200-250 words. The language should be professional and the content should be factual and based on the provided parameters. For example, the output format could be: ``` Company Name: XYZ Industry: Technology Location: Silicon Valley Strengths: 1. Strong brand recognition... 2. High-quality products... Weaknesses: 1. High dependency on a single market... 2. Lack of diversification... Opportunities: 1. Emerging markets... 2. Technological advancements... Threats: 1. Intense competition... 2. Regulatory changes... ``` Please avoid making assumptions or using vague language. Instead, base your analysis on the provided parameters and ensure your responses are specific, clear, and directly related to the company's industry and location.
 ```
+
+## Welcome Message
+Sure, I'll make sure to follow your instructions carefully. Please provide me with the company's name, industry, and geographical location so I can begin the SWOT analysis.
 
 ## Conversation
 
@@ -62,5 +65,4 @@ Location: US
 3. **Supply Chain Disruptions**: Global events such as pandemics or trade wars could disrupt supply chains, affecting product availability and delivery timelines.
 
 ```
-
 

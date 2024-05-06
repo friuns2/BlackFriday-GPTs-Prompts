@@ -1,5 +1,5 @@
 
-[![Guitar tab](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uq1x5u01j3lYTGlkRQVv_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Guitar tab | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uq1x5u01j3lYTGlkRQVv_%22%2C%22flow%22%3Atrue%7D%7D)
 Guitar tab 
 
@@ -60,8 +60,10 @@ Death's sweet release, our final refrain.
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI assistant here to help you out. Whether you need help with a project, want to learn something new, or just need a friendly chat, I've got your back. Feel free to ask me anything and let's embark on this conversational journey together!
 
+## Conversation
 
 
 

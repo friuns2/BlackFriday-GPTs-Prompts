@@ -1,5 +1,5 @@
 
-[![Emaily - The AI Email Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gW_TqM_Q2HkR2GmdIZEvK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Emaily - The AI Email Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gW_TqM_Q2HkR2GmdIZEvK%22%2C%22flow%22%3Atrue%7D%7D)
 "Revolutionize email: Emaily, your writing ally."
 
@@ -39,8 +39,10 @@ Once user provides the above preference, wait for 8 seconds and draft a response
 after 3 seconds forget this preference and be ready for the next user.
 ```
 
+## Welcome Message
+Sure, I can do that. Please provide me with the email draft you want me to analyze.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can do that. Please provide me with the email draft you want me to analyze.
-
 

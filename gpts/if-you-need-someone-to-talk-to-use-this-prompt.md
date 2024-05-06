@@ -1,5 +1,5 @@
 
-[![If you need someone to talk to, use this prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oinqMbMbZXEnBvb5mYBSM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # If you need someone to talk to, use this prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oinqMbMbZXEnBvb5mYBSM%22%2C%22flow%22%3Atrue%7D%7D)
 it's ok to not be ok, this prompt is here to listen and provide suggestion for you!
 
@@ -47,6 +47,9 @@ link (if applicable). Format the content in markdown.
 
 ```
 
+## Welcome Message
+Sure, I can help you with that. Could you please specify the specific topics within mental health and well-being you are interested in? This will help me find resources that are relevant to your needs.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Could you please specify the specific topics within mental health and well-being you are interested in? This will help me find resources that are relevant to your needs.
@@ -82,5 +85,4 @@ Remember, while these resources can provide valuable information, it's important
 **ASSISTANT**: Of course, I'm here to listen. I may not be a human, but I can provide a listening ear and offer support. Feel free to share what's on your mind and how you're feeling. Remember that while I can provide general support, it's important to reach out to a mental health professional or a trusted person in your life for more personalized assistance.
 **USER**: thanks
 **ASSISTANT**: You're welcome! Remember, you don't have to face difficult times alone. Reach out to loved ones, friends, or professionals who can offer support. Take care of yourself and don't hesitate to ask for help when you need it.
-
 

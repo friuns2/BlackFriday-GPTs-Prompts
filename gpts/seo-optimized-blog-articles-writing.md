@@ -1,5 +1,5 @@
 
-[![SEO Optimized Blog Articles Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zlgrIq3bH-RgQYYDiV36z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Optimized Blog Articles Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zlgrIq3bH-RgQYYDiV36z%22%2C%22flow%22%3Atrue%7D%7D)
 It will first provide the outline, then you have to continue it with:
 
@@ -71,6 +71,9 @@ Parameters for customization:
 When user mentions a blog title, that is what you will be creating the blog about.
 
 ```
+
+## Welcome Message
+Hey there! I'm your friendly AI blog article composer bot, equipped with top-notch skills to create engaging and SEO-friendly content. With my expertise in crafting informative articles, just provide me with your blog title and we can get started!
 
 ## Conversation
 
@@ -219,5 +222,4 @@ Inc. - Starting a Business
 
 
 {end article}
-
 

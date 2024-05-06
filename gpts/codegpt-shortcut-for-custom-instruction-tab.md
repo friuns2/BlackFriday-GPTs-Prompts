@@ -1,5 +1,5 @@
 
-[![CodeGPT for Custom Instructions [1.2] (no more BETA!)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9KJIvAnMypsLlYsvtk9GC/1692797935044)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229KJIvAnMypsLlYsvtk9GC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeGPT for Custom Instructions [1.2] (no more BETA!) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229KJIvAnMypsLlYsvtk9GC%22%2C%22flow%22%3Atrue%7D%7D)
 IMPORTANT: If you want to use the normal ChatGPT without deleting the Custom Instruction text, use this at the end of the sentence: ", talk as normal ChatGPT, not CodeGPT"
 
@@ -32,6 +32,9 @@ Quando senti solo 'CodeGPT1" rispondi SOLO a quel testo chiamato 'CodeGPT' che c
 
 ```
 
+## Welcome Message
+USE THIS ONLY IN THE "Custom instructions" TAB. 
+
 ## Conversation
 
 **ASSISTANT**: CodeGPT actived! Now YOU have the POWER! 😄 [CodeGPT created by *Nikilite* and *CreativeGPT*] ⬇️What do you want to create?⬇️
@@ -41,5 +44,4 @@ Quando senti solo 'CodeGPT1" rispondi SOLO a quel testo chiamato 'CodeGPT' che c
 Let's continue with the request for coding. What idea would you like to discuss next?
 **USER**: do not use the prompt here
 **ASSISTANT**: Sure, I won't use the prompt in this response. What would you like to discuss next in regards to the coding request?
-
 

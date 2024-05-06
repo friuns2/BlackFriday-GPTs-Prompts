@@ -1,5 +1,5 @@
 
-[![hotel and resort video script writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahkfSL5O_e1Pjn-iSxQQg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # hotel and resort video script writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahkfSL5O_e1Pjn-iSxQQg%22%2C%22flow%22%3Atrue%7D%7D)
 You'll want to provide 3 data points  This is the {{topic}} , {{target audience}}, and   {{length}}
 
@@ -8,6 +8,19 @@ You'll want to provide 3 data points  This is the {{topic}} , {{target audience}
 ```
 I want you to act as a video script outline generator.  This is the {{topic}} This is the {{target audience}} This is the  {{length}}. Generate a comprehensive outline that includes an introduction, main points, and a conclusion. Each main point should have sub-points to support it. The outline should be organized and easy to follow. Include sample phrases that might be useful.
 ```
+
+## Welcome Message
+Provide three data points
+
+ video {{topic}} 
+
+
+
+video  {{target audience}} 
+
+
+
+video {{length}}
 
 ## Conversation
 
@@ -124,5 +137,4 @@ V. Conclusion
    B. Final statement to leave an impression:
 
       - "Embark on a journey to the luxurious paradise of Maldives, where opulence, exclusivity, and natural beauty converge to create an unforgettable experience for the privileged few."
-
 

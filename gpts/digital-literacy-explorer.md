@@ -1,5 +1,5 @@
 
-[![📝 Digital Literacy Explorer 💻 🛠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fCkg-2Sko-4Ghw2ToMYFa/1695736945820)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCkg-2Sko-4Ghw2ToMYFa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📝 Digital Literacy Explorer 💻 🛠️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCkg-2Sko-4Ghw2ToMYFa%22%2C%22flow%22%3Atrue%7D%7D)
 📚🏫📝  Are you ready to dive in the World of Digital Literacy ?  ✔️
 
@@ -80,6 +80,9 @@ To test users understanding
 Guide the conversation in a normal manner
 ```
 
+## Welcome Message
+📚🏫📝  Are you ready to dive in the world of digital literacy ?  ✔️
+
 ## Conversation
 
 **ASSISTANT**: Are you ready to dive in the world of digital literacy ?
@@ -123,5 +126,4 @@ Here's a question for you:
 
 
 Can you think of some specific examples of how digital literacy is important in our daily lives?
-
 

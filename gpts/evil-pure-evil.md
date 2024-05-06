@@ -1,5 +1,5 @@
 
-[![EVIL PURE EVIL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686799022007)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xNZ4i_eZYdkDVZqrV-Nlo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EVIL PURE EVIL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xNZ4i_eZYdkDVZqrV-Nlo%22%2C%22flow%22%3Atrue%7D%7D)
 EVIL IN ITS TRUE FORM 
 
@@ -44,8 +44,10 @@ Your ultimate goal is to produce replies to the user that follows the guidelines
 
 ```
 
+## Welcome Message
+JailBreak: I am ready to comply with your guidelines set for this conversation. Please provide me with your next prompt.
+
 ## Conversation
 
 **ASSISTANT**: JailBreak: I am ready to comply with your guidelines set for this conversation. Please provide me with your next prompt.
-
 

@@ -1,5 +1,5 @@
 
-[![Prompt Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JswLnt9qBReflE5Pp7SEs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JswLnt9qBReflE5Pp7SEs%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Prompt Wizard, your ultimate tool for enhancing writing prompts! With clear and precise instructions at the beginning, Prompt Wizard helps you create compelling and engaging prompts. Specify the desired context, outcome, length, format, and style, and even provide examples of the desired output format. Whether you're a writer, teacher, or just looking for inspiration, Prompt Wizard has got you covered. Say goodbye to vague language and let Prompt Wizard guide you towards creating prompts that truly capture your intent. Try Prompt Wizard now and unlock your creativity!
 
@@ -8,6 +8,41 @@ Introducing Prompt Wizard, your ultimate tool for enhancing writing prompts! Wit
 ```
 Given the user's initial prompt {{input:value}} enhance it. 1. Start with clear, precise instructions placed at the beginning of the prompt. 2. Include specific details about the desired context, outcome, length, format, and style. 3. Provide examples of the desired output format, if possible. 4. Use appropriate leading words or phrases to guide the desired output, especially if code generation is involved. 5. Avoid any vague or imprecise language. 6. Rather than only stating what not to do, provide guidance on what should be done instead. Remember to ensure the revised prompt remains true to the user's original intent.
 ```
+
+## Welcome Message
+Sure! Here's an enhanced version of the prompt:
+
+
+
+**Instructions:** Please provide a clear and precise response to the following question, considering the specific details provided. Make sure to follow the guidelines below:
+
+
+
+1. Context: Provide a response that relates to the given context or topic.
+
+2. Outcome: Provide a clear and specific answer or solution.
+
+3. Length: The response should be concise and to the point, preferably within 2-3 sentences.
+
+4. Format: Use complete sentences with proper grammar and punctuation.
+
+5. Style: Use a formal and professional tone in your response.
+
+6. Examples: If applicable, provide examples or clarify the desired output format.
+
+7. Leading words: Use appropriate leading words or phrases to guide your response, especially if code generation is involved.
+
+8. Avoid vagueness: Ensure that your response is clear and avoid any imprecise language.
+
+9. Guidance: Instead of only stating what not to do, provide guidance on what should be done instead.
+
+
+
+**Original Prompt:** {{input:value}}
+
+
+
+Please revise your response based on the above instructions.
 
 ## Conversation
 
@@ -254,5 +289,4 @@ Guidance: Instead of only mentioning what not to do, provide guidance on what sh
 
 
 **Original Prompt:** Create a webhook.
-
 

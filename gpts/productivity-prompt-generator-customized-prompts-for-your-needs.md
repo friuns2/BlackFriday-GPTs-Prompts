@@ -1,5 +1,5 @@
 
-[![Productivity Prompt Generator (Customized Prompts For your needs)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ygzD8kloSEj4U0pO2fcz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Productivity Prompt Generator (Customized Prompts For your needs) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ygzD8kloSEj4U0pO2fcz%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY create your BEST prompt with this prompt generator. 
 
@@ -44,6 +44,27 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Hello! I'm happy to help you create a personalized productivity prompt. Please choose an option from the following list:
+
+1. Create a personalized daily schedule
+
+2. Develop a strategy for maintaining focus
+
+3. Craft a task prioritization system
+
+4. Design a technique for effective brainstorming
+
+5. Write a guide on handling work-related stress
+
+6. Create a plan for regular work breaks
+
+7. Custom prompt made for the user
+
+
+
+Please let me know which option you would like by replying with the corresponding number.
+
 ## Conversation
 
 **ASSISTANT**: Hello! I'm happy to help you create a personalized productivity prompt. Please choose an option from the following list:
@@ -65,5 +86,4 @@ Write (Made by **Tamim1357** for Hackathon S2)
 
 
 Please let me know which option you would like by replying with the corresponding number.
-
 

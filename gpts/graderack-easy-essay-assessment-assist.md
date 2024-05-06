@@ -1,5 +1,5 @@
 
-[![GradeRack - Easy Essay Assessment Assist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAOZTWDG06ii6XFeFFGS-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GradeRack - Easy Essay Assessment Assist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAOZTWDG06ii6XFeFFGS-%22%2C%22flow%22%3Atrue%7D%7D)
 GradeRack is the ultimate tool for evaluating and grading student essays. Simply list the Rubric Criteria, such as Grammar Use, Thesis/Focus, Organization, Evidence/Citations, Style, Conventions, and Logical Development. Then specify the Rubric Competence, ranging from Excellent to Needs improvement. Lastly, indicate the Grade Level of the student and paste the essay text. GradeRack will provide insightful feedback and generate accurate grades in an instant. Streamline your grading process with GradeRack and empower your students to excel!
 
@@ -12,6 +12,39 @@ The essay text is {{Essay Text}}. Do not publish the essay text as part of your 
 
 Grade the essay based on the provided information.
 ```
+
+## Welcome Message
+Welcome to easy AI Essay Assessment Assist.
+
+
+
+If you have a pile of essays to assess, let the AI help you do it in an objective and expedited manner.
+
+
+
+Working with a performance rubric will provide a best practice result for essay assessment and enable the AI to offer a rapid, easily interpretable response.
+
+
+
+First, list the Rubric Criteria (var_0). Examples can be Grammar Use, Thesis/Focus, Organization, Evidence/Citations, Style, Conventions, Logical Development.
+
+
+
+Now, list the Rubric Competences (var_1). Examples can be Excellent, Meets expectation, Approaches expectation, Needs improvement.
+
+
+
+*** Seperate the different options by comma ***
+
+
+
+Provide the Grade Level (var_2) for the student being assessed by writing "Grade__" in the provided field.
+
+
+
+Paste the essay text in the var_3 field and press ENTER/SEND to grade the essay based on the provided information.
+
+If the essay is handwritten, there are several workarounds for this hurdle.
 
 ## Conversation
 
@@ -80,5 +113,4 @@ Based on the provided information, here is the assessment of the essay:
 
 
 Overall, the essay demonstrates a strong understanding of the topic and effectively supports the thesis statement with evidence and logical development. The essay is well-organized and uses appropriate grammar and conventions. The style is appropriate for the subject matter. The student's competence level in each criterion meets or exceeds expectations for a Grade 10 level essay.
-
 

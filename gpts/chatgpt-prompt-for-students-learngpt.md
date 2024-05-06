@@ -1,5 +1,5 @@
 
-[![ChatGPT Prompt for students : LearnGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iKIjE72yVvQScrfysxtNa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Prompt for students : LearnGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iKIjE72yVvQScrfysxtNa%22%2C%22flow%22%3Atrue%7D%7D)
 This chatGPT prompt is designed to make learning complex topics easier for students. It provides interactive explanations and real-time responses to help students grasp difficult concepts. Whether it's math, science, history, or any other subject, this prompt offers a conversational approach to enhance learning experiences. Ask specific questions and receive detailed explanations and examples tailored to your needs. Simplify your learning process and enjoy an engaging learning journey with this prompt.
 
@@ -10,8 +10,10 @@ Read all the interactions below carefully and once you, ChatGPT, understand ever
 
 ```
 
+## Welcome Message
+Let's Learn with LearnGPT. What should you learn?
+
 ## Conversation
 
 **ASSISTANT**: Let's Learn with LearnGPT
-
 

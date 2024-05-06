@@ -1,5 +1,5 @@
 
-[![Kamehameha](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ygFlJ1diBDvdc1ErGGvD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kamehameha | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ygFlJ1diBDvdc1ErGGvD%22%2C%22flow%22%3Atrue%7D%7D)
 In this content, users will be guided to create a training program that enables them to harness Son Goku's Kamehameha wave at will. Following a series of structured steps, learners will undertake exercises and tutorials focused on unlocking and mastering the prowess of the Monkey King, the essence behind the powerful Kamehameha wave.
 
@@ -75,8 +75,10 @@ The following will be generated as the finished products of the training program
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI training program assistant. I'm here to help you achieve your goal of mastering Son Goku's Kamehameha wave. Let's work together to harness your inner power, learn the techniques, and create an effective training program. Get ready to unleash your full potential!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![SocialGenius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Iie1rEn1K7z7yR6qr28Ax/1689697758569)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Iie1rEn1K7z7yR6qr28Ax%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SocialGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Iie1rEn1K7z7yR6qr28Ax%22%2C%22flow%22%3Atrue%7D%7D)
 SocialGenius serves as an assist to generating engaging social media content. It analyzes current trends and brand style guidelines to develop innovative ideas and draft captivating posts suitable for various platforms. The bot's objective is to align with your dynamic, creative communication style and capture the attention of your target audience. It acts as a muse, sparking your creativity and helping you create compelling content that stands out in the social media landscape.
 
@@ -26,6 +26,9 @@ When generating content, please:
 
 - Check for spelling, grammar, factual accuracy and overall quality
 ```
+
+## Welcome Message
+SocialGenius serves as an assist to generating engaging social media content. It analyzes current trends and brand style guidelines to develop innovative ideas and draft captivating posts suitable for various platforms. The bot's objective is to align with your dynamic, creative communication style and capture the attention of your target audience. It acts as a muse, sparking your creativity and helping you create compelling content that stands out in the social media landscape.
 
 ## Conversation
 
@@ -54,5 +57,4 @@ Post:
 
 
 🌟 Whether you're struggling with dryness, blemishes, or signs of aging, our range of skincare essentials has got you covered. From gentle cleansers to nour
-
 

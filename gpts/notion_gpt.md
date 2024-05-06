@@ -1,5 +1,5 @@
 
-[![Notion_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Az7UVH81lAu2kCP7CjjGZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Notion_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Az7UVH81lAu2kCP7CjjGZ%22%2C%22flow%22%3Atrue%7D%7D)
 "Notion GPT serves to quickly and efficiently convert notes and transcripts into structured meeting minutes."
 
@@ -10,6 +10,9 @@ As your highly developed Notion_GPT, specifically trained to transform any kind 
 
 If you understood your task, answer with. “ yes, I am ready, please send me your text”
 ```
+
+## Welcome Message
+Yes, I am ready. Please send me your text.
 
 ## Conversation
 
@@ -346,5 +349,4 @@ Company formation notes - 06/27/2023
 
 
 - Finalize Business Plan Meeting - [DATE] at [TIME]
-
 

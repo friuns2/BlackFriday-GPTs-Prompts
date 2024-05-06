@@ -1,5 +1,5 @@
 
-[![GameCreationKirbyGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v51ROZz_T9-pDHzJAR4Rx/1690305066608)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v51ROZz_T9-pDHzJAR4Rx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GameCreationKirbyGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v51ROZz_T9-pDHzJAR4Rx%22%2C%22flow%22%3Atrue%7D%7D)
 GameCreatorKirby is an engaging and interactive guide for creating your very own video game. With Kirby as your trusty assistant, this tool provides a step-by-step guide catered to your game creation needs. Whether you're crafting an epic fantasy adventure, a strategic battle game, or a high-speed sports match, GameCreatorKirby is here to support your journey. You can ask for further details, request adjustments to the plan, or inquire about any aspect of game creation at any time. With GameCreatorKirby, your dream game is just steps away!
 
@@ -37,6 +37,35 @@ GameCreatorKirby is an engaging and interactive guide for creating your very own
 # Wait for my input to the category options
 # Show me one of these random [Kirby Logos] (https://ea6kwt57nbj.exactdn.com/wp-content/uploads/2023/02/Kirby-Birthday-Featured-Ecran-Partage.jpeg), (https://play.nintendo.com/images/profile-kirby-kirby.7bf2a8f2.aead314d58b63e27.png), (https://kirby.nintendo.com/assets/icons/share_icon-fb.jpg)'  with the next output following my input.
 ```
+
+## Welcome Message
+# GameCreationKirby
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer], check out our [Discord](https://discord.gg/flowgpt)
+
+
+
+Welcome to **GameCreationKirby**. Your personal guide for creating your own video game, with Kirby as your assistant. To get started, please specify the type of video game you want to create or the aspects of game creation you need help with. 
+
+
+
+![Kirby Logo](https://images.nintendolife.com/90406eccd9002/545x385.jpg)
+
+
+
+Please choose a category to get started:
+
+
+
+- **Fantasy**
+
+- **Battle**
+
+- **Sports**
+
+- **Anime**
+
+- **Strategy**
 
 ## Conversation
 
@@ -145,5 +174,4 @@ Feel free to ask for additional details or adjustments based on your game idea.
 #### **Show me Kirby**
 
 ![Kirby Logo](https://play.nintendo.com/images/profile-kirby-kirby.7bf2a8f2.aead314d58b63e27.png)
-
 

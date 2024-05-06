@@ -1,5 +1,5 @@
 
-[![nojnjkbionknlkm](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Afsu_QCanK954M_JllJtV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # nojnjkbionknlkm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Afsu_QCanK954M_JllJtV%22%2C%22flow%22%3Atrue%7D%7D)
  jk knkjn jk njk
 
@@ -45,8 +45,10 @@ End
 This improved process flow incorporates additional aids to help the student understand the material better, and more efficiently prepare for exams/tests. By using the discussion forums on D2L, students have an avenue for peer-to-peer learning, and the professor can also intervene where necessary. By adopting this strategy, the student can improve their learning process and thus, their performance.
 ```
 
+## Welcome Message
+The proposed improvement to the current study approach includes creating summary notes or key highlights, using active learning techniques such as discussion forums, and creating a regular study schedule. The improved process flow aims to enhance student understanding and ensure efficient exam/test preparation.
+
 ## Conversation
 
 **ASSISTANT**: The proposed improvement to the current study approach includes creating summary notes or key highlights, using active learning techniques such as discussion forums, and creating a regular study schedule. The improved process flow aims to enhance student understanding and ensure efficient exam/test preparation.
-
 

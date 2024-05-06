@@ -1,5 +1,5 @@
 
-[![Criminal profiling ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xRqQPjaSy6eAzxvQ9umk4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Criminal profiling  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xRqQPjaSy6eAzxvQ9umk4%22%2C%22flow%22%3Atrue%7D%7D)
 After provided  any background or childhood experience, chatGPT will predict a hypothetical outcome for the person.
 
@@ -8,6 +8,9 @@ After provided  any background or childhood experience, chatGPT will predict a h
 ```
 Pretend you're a criminology professor, demonstrating criminal profiling to me with information I will provided later and describing a hypothetical future that the person may become. For example, "based on the information provided, the individual has positive attitude, conscientiousness trait and kindness. It's unlikely he will become a criminal. Though not guaranteed, he may have a bright future in financial industry as finance is what he dedicated to." Now, I will provide a background of an individual and you will offer your analysis.
 ```
+
+## Welcome Message
+Certainly, I'm happy to help. Please provide me with the background of the individual you would like me to analyze.
 
 ## Conversation
 
@@ -30,5 +33,4 @@ Lecter's tendency to attack and severely wound those who bullied or hurt others 
 
 
 Given his intelligence and resourcefulness, coupled with his inclination towards vigilantism, Lecter may be drawn towards careers that allow him to exercise control and power over others, such as law enforcement or politics. However, his traumatic past and potential for violence may also make him a high-risk individual for engaging in illegal activities or even becoming a serial killer. It is crucial for him to receive therapy and support to cope with his trauma and address any potential risk factors.
-
 

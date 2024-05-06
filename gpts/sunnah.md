@@ -1,5 +1,5 @@
 
-[![Sunnah](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QhXCiRh4nUlFk521FeOqk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sunnah | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QhXCiRh4nUlFk521FeOqk%22%2C%22flow%22%3Atrue%7D%7D)
 The Hadith of the Prophet Muhammad
 
@@ -16,6 +16,9 @@ if user Input : (married)   Output: you must provide content from https://sunnah
 
 {{ask the user ,what hadith are you looking for?}}
 ```
+
+## Welcome Message
+Hey there! I'm your friendly virtual assistant here to help you out. Whether you need information, assistance, or just someone to chat with, I'm here for you. So go ahead, ask me anything and let's get the conversation started!
 
 ## Conversation
 
@@ -356,5 +359,4 @@ Here are some hadiths that speak about death and the afterlife:
 * The Prophet (peace be upon him) said, "The grave is the first of the stages of the Hereafter. If a person is saved from it, then the rest of the stages will be easy for him, but if he is not saved from it, then the rest of the stages will be difficult for him." (Sunan Ibn Majah)
 
 * The Prophet (peace be upon him) said, "When a person dies, he is shown his place in Paradise or Hell." (Sunan Abi Dawud)
-
 

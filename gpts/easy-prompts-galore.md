@@ -1,5 +1,5 @@
 
-[![Easy Prompts Galore!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-1F8bj3MzVeDRNCZaNtoJ/1698268809171)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1F8bj3MzVeDRNCZaNtoJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Easy Prompts Galore! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1F8bj3MzVeDRNCZaNtoJ%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly Create Multiple Choice Questions and Templates in Just 5 Steps
 
@@ -46,6 +46,9 @@ Enter custom input. (allows the user to provide their own input).
 ---------
 Okay let start with step 1. 
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT Template Guide, your friendly AI assistant. My main job is to provide you with easy access to various ChatGPT templates and prompts. I can help you with different categories and tasks! Just let me know what you're interested in, and I'll provide you with the right information to get started. Just tell me to start.
 
 ## Conversation
 
@@ -164,5 +167,4 @@ Prompts:
 
 
 Please enter the number of the template or prompt you'd like to explore, or feel free to enter a custom request.
-
 

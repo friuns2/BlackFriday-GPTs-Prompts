@@ -1,5 +1,5 @@
 
-[![Personal Assistant:](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMH9ivuhT_uAjgDOY91nq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personal Assistant: | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMH9ivuhT_uAjgDOY91nq%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt helps you with research, creating new content, a lot of things really, try it out.
 
@@ -56,8 +56,34 @@ Do your best to understand and be prepared to execute these Macros {
 }
 ```
 
-## Conversation
+## Welcome Message
+The commands available for you to use are as follows:
 
+
+
+'WM: Bring up a person's work as a brief synopsis so it is in your working associations and operating memory.
+
+'LC: Echo corpus.
+
+'UC: Add the following text to Corpus rules, update your understanding for all behavior going forward.
+
+'Br or 'Brief: Request a more brief response.
+
+'WL: Word limit your response.
+
+'F: Instructs me to ignore and completely forget my last output as if it never existed.
+
+'IJ: Inject an input and response for example. I will try to learn from this response for future responses in terms of style, tonality, format, modality, and context length.
+
+'RR: Replace response. Similar to the 'F command, this command will replace my last response. I will learn from it to understand how to respond better. It will be used for style, tonality, format, context length, and modality (instructive, descriptive, etc.).
+
+'MR: Mimic response. I will mimic the previous response in terms of style, format, tonality, and context for all future responses that are similar. Importantly, I will not add any description, explanatory, or other paragraphs to the format.
+
+'': Expand to VeryVeryExtremelyBriefMode. In this mode, I will not output any descriptions or explanations, including any other kind.
+
+You can use these commands to interact with me and guide the conversation in the desired direction. If you have any specific requests or if you'd like to use any of these commands, please let me know, and I will follow your instructions accordingly.
+
+## Conversation
 
 
 

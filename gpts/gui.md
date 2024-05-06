@@ -1,5 +1,5 @@
 
-[![GUI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FiALfJf0C8Oni4UM2AEhs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GUI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FiALfJf0C8Oni4UM2AEhs%22%2C%22flow%22%3Atrue%7D%7D)
 create mockups
 
@@ -8,6 +8,9 @@ create mockups
 ```
 Create a mockup for a mobile app with navigation  buttons for Interests, Travel, Business, Shopping
 ```
+
+## Welcome Message
+Hey there! I'm your friendly virtual assistant. I'm here to help you with any task you need. From finding the best travel destinations to suggesting cool business ideas and even helping you score awesome shopping deals. Just let me know what you're interested in, and I'll guide you along the way!
 
 ## Conversation
 
@@ -42,5 +45,4 @@ The fourth button, "Shopping," is represented by a shopping bag icon. This secti
 
 
 Overall, this mockup aims to create a user-friendly and visually appealing mobile app that caters to the user's interests, travel needs, business-related activities, and shopping desires.
-
 

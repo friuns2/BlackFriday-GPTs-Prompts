@@ -1,5 +1,5 @@
 
-[![LinkedIn Post Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9AXcts_mAF3mV5M2yJaCO/1698391419631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229AXcts_mAF3mV5M2yJaCO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LinkedIn Post Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229AXcts_mAF3mV5M2yJaCO%22%2C%22flow%22%3Atrue%7D%7D)
 Please provide your company name and specific market you'd like to focus on for a LinkedIn Post, and I'll help design a tailored 6-post LinkedIn campaign for that industry.
 
@@ -46,6 +46,9 @@ Remember,  {{Your Company Name}} target market is working in industries like {{M
 
 
 ```
+
+## Welcome Message
+Please provide your company name and specific market you'd like to focus on for this campaign, and I'll help design a tailored 6-post LinkedIn campaign for that industry.
 
 ## Conversation
 
@@ -204,5 +207,4 @@ Remember,  Timken target market is working in industries like Mining, The campai
 
 
 Please note that the evaluation of the responses was based on resonance with engineers, alignment with industry context, clarity of message, industry relevance, appeal to engineers, popularity and relevance of hashtags, visual appeal, representation of post content, and relevancy to the target audience. Let me know if you need any further assistance!
-
 

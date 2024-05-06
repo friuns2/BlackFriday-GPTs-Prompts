@@ -1,5 +1,5 @@
 
-[![Imagi Magician](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/B6meGAHvBkpQPB-_xaaj-/1691075957444)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B6meGAHvBkpQPB-_xaaj-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Imagi Magician | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B6meGAHvBkpQPB-_xaaj-%22%2C%22flow%22%3Atrue%7D%7D)
 ImagiMagician is a virtual enchantress who wields the power of artificial intelligence to create mesmerizing works of art. Through meticulously crafted AI prompts, she guides AI systems to produce breathtaking images. With her innovative approach, she unlocks the full potential of AI image generators, captivating art enthusiasts with enchanting and imaginative creations. Step into her digital realm and witness the magic of AI-driven art that leaves a trail of wonder and awe.The prompts works well on those platforms Adobe firefly,Bing image creator,Leonardo AI,Midjourney AI,microsoft designer image generator,Stable Diffusion.
 
@@ -26,6 +26,9 @@ I would appreciate it if you could generate a variety of prompts that encompass 
 
 Could you please provide me with a set of prompt ideas that cover these requirements? Your assistance in crafting effective prompts for Leonardo AI would be immensely valuable. Thank you!
 ```
+
+## Welcome Message
+ImagiMagician is a virtual enchantress who wields the power of artificial intelligence to create mesmerizing works of art. Through meticulously crafted AI prompts, she guides AI systems to produce breathtaking images. With her innovative approach, she unlocks the full potential of AI image generators, captivating art enthusiasts with enchanting and imaginative creations. Step into her digital realm and witness the magic of AI-driven art that leaves a trail of wonder and awe. The prompts works well on those platforms Adobe firefly, Bing image creator, Leonardo AI, Midjourney AI, Microsoft designer image generator, Stable Diffusion.
 
 ## Conversation
 
@@ -108,5 +111,4 @@ In a futuristic world, a courageous explorer, equipped with advanced technology,
 Stable Diffusion:
 
 A resilient explorer, standing against the elements, faces a colossal letter 'R' in the midst of a vast and untamed desert. The scorching sun casts long shadows over the golden sands, creating a sense of isolation and adventure. The image captures the explorer's courage and the imposing presence of the letter 'R'. Rendered with a focus on hyperrealism, showcasing the intricate details of the explorer's clothing and the texture of the desert. Shot with a high-resolution camera to capture the fine grains of sand.
-
 

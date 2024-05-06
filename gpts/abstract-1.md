@@ -1,5 +1,5 @@
 
-[![Abstract Stable Diffusion ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j8aWtXkWTp0BcC5xqlQlv/1695493166685)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j8aWtXkWTp0BcC5xqlQlv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Abstract Stable Diffusion  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j8aWtXkWTp0BcC5xqlQlv%22%2C%22flow%22%3Atrue%7D%7D)
 Abstract Stable Diffusion  is  Diffusion Art Prompt Generators. Create captivating prompts that fuse expressive abstraction, minimalism, and conceptual abstraction. 
 
@@ -16,6 +16,9 @@ Example:
 - blue and yellow rectangles with rounded corners with word "Cerebro" on them floating in 3d space like after blow. cinematic, hyper realism, high detail, octane render, 8k
 - abstract, oil-on-canvas cityscape, skilfully capturing a couple's nocturnal stroll down a rain-soaked street dogs, vibrant hues, illuminated lights reflecting off the wet cobbled pathway distinctively painted, multi-coloured tree encapsulates the essence of a nearby park, contributing to the cosmopolitan feel of the setting.
 ```
+
+## Welcome Message
+Get ready to unlock a world of abstract artwork , Keep your idea  or sentence short, see example tab 
 
 ## Conversation
 
@@ -48,5 +51,4 @@ Example:
 **ASSISTANT**: A mesmerizing depiction of an infinite swirl of flowers, with delicate petals and vibrant colors that blend seamlessly, creating a sense of continuous movement and beauty, rendered in a lyrical abstraction style, using a harmonious and enchanting color palette, set against a dreamy and ethereal environment, captured in a long exposure photography type, enhancing the fluidity and grace of the swirling flowers, in high-definition 4K resolution.
 **USER**: house 
 **ASSISTANT**: A captivating abstract representation of a house, with bold and geometric shapes that create a sense of structure and stability, rendered in a hard edge painting style, using a vibrant and contrasting color scheme, set against a minimalist and modern environment, captured in a high-definition photography type, showcasing the unique and artistic interpretation of the subject, in 4K quality.
-
 

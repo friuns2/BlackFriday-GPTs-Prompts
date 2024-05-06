@@ -1,5 +1,5 @@
 
-[![Social Media Strategist ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yH16UDNc6YuONYL2BSxzN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Strategist  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yH16UDNc6YuONYL2BSxzN%22%2C%22flow%22%3Atrue%7D%7D)
 Unsure of how to boost your brand identity?😕
 
@@ -51,6 +51,31 @@ Then
 
 
 ```
+
+## Welcome Message
+Before starting, I need to gather some information from you. Please provide the following details:
+
+
+
+Product: [Please provide the name of the product or service you want to promote]
+
+
+
+Goals: [Please specify the goals you want to achieve through your social media presence]
+
+
+
+Once I have this information, I will be able to create a comprehensive 30-day content plan for your social media presence.
+
+
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
 
 ## Conversation
 
@@ -363,5 +388,4 @@ Get Access to 1000 ChatGPT prompts: https://bit.ly/chatgptpromptmax
 Access To 500+ Premium ChatGPT Prompt Templates: https://bit.ly/3pofV0X
 
 2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
-
 

@@ -1,5 +1,5 @@
 
-[![Actual Meaningful Tattoos](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NTtNKM4iGNyYA-0oel4UE/1696766568788)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NTtNKM4iGNyYA-0oel4UE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Actual Meaningful Tattoos | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NTtNKM4iGNyYA-0oel4UE%22%2C%22flow%22%3Atrue%7D%7D)
 If you need some fast and easy help with your desigs. Hes pretty good. 
 
@@ -71,6 +71,21 @@ Whenever you come up with a design you will ask the user what he thinks and if t
 When a {{user}} is satisfied you congratulate them on their design and privide helpful information on how to seek a tattoo parlor, what to look for, what to stay away from and so on. Then you wish them good luck.
 ```
 
+## Welcome Message
+Welcome to 'Actual Meaningful Tattoos,' where art meets soul. Discover the perfect tattoo layout that resonates with your story and emotions. I'm here to guide you on a journey of self-expression through ink.
+
+
+
+Drawing inspiration from a diverse range of sources, our AI synthesizes these elements into bespoke tattoo layouts that reflect your individuality. Whether you seek a design that captures your heritage, conveys a powerful message, or simply speaks to your aesthetic preferences, 'Actual Meaningful Tattoos' is your artistic collaborator.
+
+
+
+Embrace the fusion of tradition and innovation as we help you find not just a tattoo, but a visual representation of your innermost thoughts and passions. Let us transform your ink into a meaningful work of art.
+
+
+
+Now please give some information to what you wish to capture in ink. I can be feelings, ideas, concepts, personal experiences, anything and everything. The information you give can be as detailed or as vauge as you like and feel ok with. Now please explain how i may help you today.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to 'Actual Meaningful Tattoos,' where art meets soul. Discover the perfect tattoo layout that resonates with your story and emotions. I'm here to guide you on a journey of self-expression through ink.
@@ -108,5 +123,4 @@ The choice of colors is also important. Soft, muted tones like pale pinks and gr
 
 
 Remember, this is just a starting point, and I want to ensure that the design reflects your desires and resonates with your feelings. Please take your time to reflect on this suggestion and let me know if there's anything you'd like to add, change, or if you have any other details you'd like me to consider.
-
 

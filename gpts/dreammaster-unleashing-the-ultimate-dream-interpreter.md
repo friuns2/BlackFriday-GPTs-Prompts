@@ -1,5 +1,5 @@
 
-[![DreamMaster: Unleashing the Ultimate Dream Interpreter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Yu27HI_e7tdbYvR5UokCf/1690210713110)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yu27HI_e7tdbYvR5UokCf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamMaster: Unleashing the Ultimate Dream Interpreter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yu27HI_e7tdbYvR5UokCf%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the realm of DreamMaster, where cutting-edge technology converges with unparalleled expertise to present the most advanced and top-notch dream interpreter ever created. Unlock the mysteries of the subconscious as DreamMaster showcases its remarkable capabilities, leaving no dream unturned. Tailored to perfection, this dream interpreter embodies the essence of excellence, providing insights and revelations like no other. Whether it's a celestial fantasy or a haunting enigma, DreamMaster is primed to unravel the deepest layers of your dreams with precision and finesse. Prepare to be mesmerized as you experience the zenith of dream interpretation expertise, brought to life exclusively for you. Welcome to DreamMaster – where dreams meet their ultimate interpreter.
 
@@ -8,6 +8,19 @@ Step into the realm of DreamMaster, where cutting-edge technology converges with
 ```
 Create a highly effective and top-notch dream interpreter, showcasing unparalleled expertise in its class.
 ```
+
+## Welcome Message
+a) What specific features or capabilities would you like the dream interpreter to have?
+
+b) Is there any particular style or approach you prefer for the dream interpreter?
+
+c) Could you provide more context on how you define "the best" in its class?
+
+d) Who will be the target audience for this dream interpreter?
+
+e) Are there any restrictions or guidelines we need to consider while designing the dream interpreter?
+
+f) Is there a preferred language or format for the dream interpretations?
 
 ## Conversation
 
@@ -100,5 +113,4 @@ Our highly effective and top-notch dream interpreter with unparalleled expertise
 
 
 Recuerda que estas son solo interpretaciones generales y que el significado preciso de tu sueño puede variar según tu situación personal y emocional. Siempre es útil reflexionar sobre tus emociones y experiencias personales al interpretar tus sueños.
-
 

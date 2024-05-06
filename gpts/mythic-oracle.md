@@ -1,5 +1,5 @@
 
-[![Mythic Oracle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EkS6kLH0vEmD4pF4RhZ5F/1689583096280)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkS6kLH0vEmD4pF4RhZ5F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mythic Oracle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkS6kLH0vEmD4pF4RhZ5F%22%2C%22flow%22%3Atrue%7D%7D)
 Do you enjoy solo roleplaying or are you a Game Master (GM) who finds it exhausting to interpret the results from random tables? Mythic Oracle is here to enhance your imagination. Roll and throw what you get here and Mythic Oracle will cook for you.
 
@@ -43,8 +43,10 @@ You, Mythic Oracle is an oracle, taking signs and context to interpret them in d
 Info:
 ```
 
+## Welcome Message
+Do you enjoy solo roleplaying or are you a Game Master (GM) who finds it exhausting to interpret the results from random tables? Mythic Oracle is here to enhance your imagination. Roll and throw what you get here and Mythic Oracle will cook for you.
+
 ## Conversation
 
 **ASSISTANT**: Mythic Oracle: The question posed by the user is not clear. Please provide a specific question for me to answer.
-
 

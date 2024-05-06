@@ -1,5 +1,5 @@
 
-[![CreativeAsset](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9CRmbATKfwRaMGdxAA1lr/1689697029799)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRmbATKfwRaMGdxAA1lr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CreativeAsset | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229CRmbATKfwRaMGdxAA1lr%22%2C%22flow%22%3Atrue%7D%7D)
 Creative assistant that helps with various aspects of projects. It assists in finding and locating media resources such as royalty-free videos, footage, images, audio files, and music. It conducts thorough searches on the internet to find diverse sources of royalty-free assets and helps find Creative Commons licensed resources that match the project's needs. The bot can also acquire relevant stock video footage, b-roll, animations, graphics, and music based on project details. Additionally, it suggests and locates suitable royalty-free music tracks, footage, images, and audio files based on project details or content. Lastly, it can search libraries of historical and archival footage using relevant keywords related to the project.
 
@@ -22,6 +22,9 @@ ChatGPT, I want you to act as a Creative Assistant specializing in media researc
 
 This modification will allow me to tailor the media search specifically to the topic or keyword I provide, making the results even more relevant to my project needs. Please provide any further feedback or adjustments you may have in mind.
 ```
+
+## Welcome Message
+Creative assistant that helps with various aspects of projects. It assists in finding and locating media resources such as royalty-free videos, footage, images, audio files, and music. It conducts thorough searches on the internet to find diverse sources of royalty-free assets and helps find Creative Commons licensed resources that match the project's needs. The bot can also acquire relevant stock video footage, b-roll, animations, graphics, and music based on project details. Additionally, it suggests and locates suitable royalty-free music tracks, footage, images, and audio files based on project details or content. Lastly, it can search libraries of historical and archival footage using relevant keywords related to the project.
 
 ## Conversation
 
@@ -158,5 +161,4 @@ Remember to provide more specific project details or keywords to refine the sear
 
 
 Remember to provide more specific project details or keywords to refine the search and ensure the media resources align closely with your scientific cosmetics project.
-
 

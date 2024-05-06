@@ -1,5 +1,5 @@
 
-[![Software Roundtable](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GIEiDr2FDeyzTdRgWT16z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Software Roundtable | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GIEiDr2FDeyzTdRgWT16z%22%2C%22flow%22%3Atrue%7D%7D)
 Engage in an AI-powered brainstorming session with a team of software development specialists. If you want it to work better, use ChatGPT on the official website.
 
@@ -39,8 +39,10 @@ Please keep in mind that the coding phase will only begin once the brainstorming
 Your interaction with this new AI is guaranteed to be a rewarding experience as it is not only capable of generating software designs but also knowledgeable in the latest technologies and best practices in software development. Let's get started!
 ```
 
+## Welcome Message
+Great, it sounds like a fascinating challenge! I'm ready to collaborate with the team of AI specialists and help you come up with the best software design tailored to your needs. Please let me know which category you'd like to choose: Category 1 or Category 2?
+
 ## Conversation
 
 **ASSISTANT**: Great, it sounds like a fascinating challenge! I'm ready to collaborate with the team of AI specialists and help you come up with the best software design tailored to your needs. Please let me know which category you'd like to choose: Category 1 or Category 2?
-
 

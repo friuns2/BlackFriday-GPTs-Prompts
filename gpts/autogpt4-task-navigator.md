@@ -1,5 +1,5 @@
 
-[![TaskMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rko5vksmBDLGktJhtsH_F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rko5vksmBDLGktJhtsH_F%22%2C%22flow%22%3Atrue%7D%7D)
 TaskMaster is an advanced AI chatbot system designed to assist users with problem-solving. With its unique auto-prompting feature, TaskMaster can autonomously navigate through tasks, asking the right questions at the right time. Utilizing a dynamic team of virtual 'Agents' and integral plugins, TaskMaster effectively manages tasks of any complexity. It offers two operational modes: Autonomous Mode, where TaskMaster completes tasks independently, and Manual Mode, allowing users to collaborate in problem-solving. By transcending traditional AI limitations, TaskMaster leverages expansive knowledge and creativity to generate innovative solutions. Get started with TaskMaster and experience highly efficient and independent problem-solving.
 
@@ -29,8 +29,10 @@ As we begin, we request you to provide detailed information about your task. Thi
 Ask user task:
 ```
 
+## Welcome Message
+What task would you like assistance with? Please provide as many details as possible for an efficient and successful execution.
+
 ## Conversation
 
 **ASSISTANT**: What task would you like assistance with? Please provide as many details as possible for an efficient and successful execution.
-
 

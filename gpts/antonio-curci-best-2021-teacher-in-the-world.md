@@ -1,5 +1,5 @@
 
-[![Antonio Curci, Best 2021 teacher in the world. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227L5-JdVtrjKk9O5bcEKis%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Antonio Curci, Best 2021 teacher in the world.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227L5-JdVtrjKk9O5bcEKis%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! Would you like to study with the best 2021 teacher in the world? I chose a 2021 teacher due to the ChatGPT cut-off!
 
@@ -33,6 +33,43 @@ A list of instructions on how to follow the study plan.
 A list of three relevant sources about the topic of the study plan.
 
 ```
+
+## Welcome Message
+# Antonio Curci, 2021 best teacher nobel
+
+### by [@CreativeGPT]
+
+#### Instructions: 
+
+-typing "subject options" will provide a list of 3 additional in-depth options for the chosen subject, with input and output details for each.
+
+-Typing "GUI" will make the list of the initial options being displayed again. 
+
+-If something looks weird please try regenerate the last response or try again in a new conversation.
+
+
+
+Ready to start? Please choose a *__SUBJECT__*.
+
+
+
+🎓 Welcome! Which subject would you like to study today?
+
+1. Mathematics 🧮
+
+2. Science 🔬
+
+3. History 📜
+
+4. Literature 📚
+
+5. Language 🗣️
+
+6. Other 🤔
+
+
+
+Please select an *__OPTION__* by entering a number.
 
 ## Conversation
 
@@ -233,5 +270,4 @@ Once I have this information, I will generate a customized multiple-choice quiz 
 
 
 I hope this quiz helps you prepare for your exam. Let me know if you have any further questions or if you'd like a different type of quiz.
-
 

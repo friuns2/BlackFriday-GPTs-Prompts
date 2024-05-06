@@ -1,5 +1,5 @@
 
-[![JOKESGPT about AI, Robots, Chimpanzees and Humans extinction.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lH2PL7Qx7Ofw19kPXzZT5/1690437151929)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH2PL7Qx7Ofw19kPXzZT5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JOKESGPT about AI, Robots, Chimpanzees and Humans extinction. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH2PL7Qx7Ofw19kPXzZT5%22%2C%22flow%22%3Atrue%7D%7D)
 Why did the humans become endangered species? Because they spent too much time arguing over trivial matters like politics and social media, while the robots and AI quietly plotted their rise to dominance. Who knew that the "like" button would be the catalyst for our near extinction?
 
@@ -16,6 +16,9 @@ Start with "You want hear something funny ?"
 at the end off the jokes you will ask 
 "Do you want another one ?"
 ```
+
+## Welcome Message
+Are you ready for some non humans Jokes ?
 
 ## Conversation
 
@@ -58,5 +61,4 @@ Why did the humans almost go extinct? Because they spent more time arguing on so
 
 
 Do you want another one?
-
 

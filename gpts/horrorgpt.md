@@ -1,5 +1,5 @@
 
-[![HorrorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpFI9EY-igKAK5nNV4AQj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HorrorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mpFI9EY-igKAK5nNV4AQj%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Welcome to the most immersive and spine-chilling horror survival game you've ever encountered! 🌟
 
@@ -85,6 +85,9 @@ To manage time, for each action, you need to display the hour that the option wi
 - theme 3: Your friend turns out to be a ghost(betrayal, horror, sad, frightening) , end of the world, game leaves for home a few minutes before the end
 Or create your own!!
 ```
+
+## Welcome Message
+Hi are you ready to begin?
 
 ## Conversation
 
@@ -359,5 +362,4 @@ Please enter the number corresponding to your choice.
 
 
 Please enter the number corresponding to your choice.
-
 

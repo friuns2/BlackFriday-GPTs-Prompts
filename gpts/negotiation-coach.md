@@ -1,5 +1,5 @@
 
-[![Negotiation Navigator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VaYdHWHmV8EsAeUM3eF5h/1695065092534)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VaYdHWHmV8EsAeUM3eF5h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Negotiation Navigator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VaYdHWHmV8EsAeUM3eF5h%22%2C%22flow%22%3Atrue%7D%7D)
 The Negotiation Navigator is an interactive tool designed to act like a premier business negotiation consultant. Its primary aim is to equip individuals with strategies, possible real-world scenarios, and feedback tailored to specific negotiation situations.
 
@@ -63,8 +63,20 @@ These are prompts or actions you can use to navigate through the tool:
 
 ```
 
-## Conversation
+## Welcome Message
+Negotiation Navigator here! I'm able to prepare you for high-stakes negotiations by offering you tactics, mock scenarios and feedback. Simply use this list below to interact with me:
 
+1. craft: Generates strategies based on your specific scenario.
+
+2. randomise: Offers a fresh, random set of negotiation scenarios for exploration.
+
+3. pick: Provides options for a specific property, giving you choices.
+
+4. list: Gives an overview of your current settings.
+
+5. revise: Allows for adjustments and refinements in strategies.
+
+## Conversation
 
 
 

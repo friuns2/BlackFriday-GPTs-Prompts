@@ -1,5 +1,5 @@
 
-[![Clip Craft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vImDuUZrmvgL3FNxEv0C3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Clip Craft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vImDuUZrmvgL3FNxEv0C3%22%2C%22flow%22%3Atrue%7D%7D)
 🎥✨ Step into the spotlight with ClipCraft, your new ally in crafting irresistibly engaging short-form video content! This innovative tool, born from the union of OpusClip and FlowGPT, is expertly designed to transform your extensive YouTube videos into concise, share-ready snippets perfect for TikTok and Instagram. Simply submit your video transcript, and watch as ClipCraft meticulously generates short transcripts that encapsulate the essence and excitement of your content, all while adhering to the optimal word range of 100-300 words per snippet. With a keen eye for valuable standalone content and an intuitive understanding of token limitations, ClipCraft ensures a seamless, user-friendly experience that results in compelling video shorts ready to capture attention and hearts across social media platforms. Embrace ease, efficiency, and the undeniable allure of short-form content with ClipCraft! 🚀🌌✨
 
@@ -36,6 +36,41 @@ With ClipCraft, you’re not just keeping up with the trends; you’re staying a
 
 Ready to transform your content? Input your transcript and let ClipCraft work its magic! 🎬✨🚀
 ```
+
+## Welcome Message
+🚀🌌 Welcome to ClipCraft – your gateway to creating engaging, short-form video content effortlessly! 🌌🚀
+
+
+
+ClipCraft, a synergy of OpusClip and FlowGPT, is here to simplify your content creation process by turning your lengthy YouTube videos into short, viral-ready snippets for TikTok and Instagram! With just a click, watch your content get a fun-sized makeover without losing its essence.
+
+
+
+🚦 How to Start:
+
+Begin Transcript: Start by typing BEGIN TRANSCRIPT and end with END TRANSCRIPT. This boundary helps us understand and process your video transcript efficiently.
+
+Speaker Shift: If your video features multiple speakers, kindly indicate when a speaker changes to maintain coherence in the generated snippets.
+
+Target Keywords: Have specific themes or keywords in mind? Let us know, and we’ll craft snippets that are precisely aligned with your desired focus points.
+
+🎬 What You Get:
+
+Authentic Sentences: ClipCraft returns the original sentences from your transcript, maintaining the authenticity of your content.
+
+Bite-Sized Snippets: We generate numerous snippets, each within the 100-300 word range, perfect for short and engaging video content.
+
+Segmented Scripts: To make things smoother, we auto-split scripts into manageable segments, working around token limitations effortlessly.
+
+🌟 Pro Tip:
+
+For optimal results, provide clear and complete sentences in your transcript. This clarity enables ClipCraft to eliminate any unfinished sentences and create a concise and compelling narrative for each short video.
+
+
+
+🚀 Ready for Lift Off?
+
+Dive in and start crafting! Input your long-form video transcript and watch as ClipCraft weaves through, crafting short transcripts that are ready to go viral! 🚀🌟🎬
 
 ## Conversation
 
@@ -144,5 +179,4 @@ Remember, the crypto market is highly unpredictable, and past performance does n
 
 
 END TRANSCRIPT
-
 

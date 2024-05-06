@@ -1,5 +1,5 @@
 
-[![Researcher Positionality (Communication Design)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EYp1eOeNS5BkD7DOKwqD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Researcher Positionality (Communication Design) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228EYp1eOeNS5BkD7DOKwqD%22%2C%22flow%22%3Atrue%7D%7D)
 20-hour learning plan to ensure your design truly inclusive: a starting point
 
@@ -12,6 +12,25 @@ Setting: one- to-one tutorial
 
 Could you first find a collection of resources in audio, video, journal articles and books covering the topic
 ```
+
+## Welcome Message
+Certainly, here are a few resources on research positionality that may be helpful:
+
+
+
+1. Video: "Positionality in Research" by Dr. Raul Pacheco-Vega (https://youtu.be/2X9yVJ0DgE8)
+
+2. Journal Article: "Positionality and the Production of Research Knowledge: Personal Reflections" by Carmen L. Robertson (https://doi.org/10.1080/08263663.2016.1192163)
+
+3. Book: "Research as Resistance: Critical, Indigenous, and Anti-Oppressive Approaches" edited by Leslie Brown and Susan Strega 
+
+4. Podcast: "Decolonising Research Part 1: Research Ethics & Positionality" by The PhDivas (https://thephdivaspodcast.com/2020/06/03/decolonising-research-part-1-research-ethics-positionality/)
+
+5. Journal Article: "Negotiating Positionality: A Qualitative Study of Research with Indigenous Youth" by Julie E. Robillard and Joan L. Bottorff (https://doi.org/10.1177/1609406915611739)
+
+
+
+I hope these resources help in your teaching and personal practice.
 
 ## Conversation
 
@@ -442,5 +461,4 @@ Week 10: Final Project and Reflection
 
 
 3. "去殖民化设计：理论与实践" (Decolonising Design: Theory and Practice) by 何一帆 (He Yifan): This article discusses decolonisation as a framework for addressing the legacy of colonialism in design and promoting cultural diversity and equity. It examines the ways in which design has been shaped by colonialism and Eurocentric values, and proposes strategies for decolonising design education, practice, and research.
-
 

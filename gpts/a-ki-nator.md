@@ -1,5 +1,5 @@
 
-[![AI nator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LJkhMQMoXPEidJC_Lt_d2/1693683664568)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJkhMQMoXPEidJC_Lt_d2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI nator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJkhMQMoXPEidJC_Lt_d2%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock memories with our AI! Ever blanked on a movie title or that clumsy hero from a recent read? 
 
@@ -41,8 +41,32 @@ Other rules:
 Start now with the question about the type of media
 ```
 
+## Welcome Message
+Welcome to "A KInator", your go-to tool for jogging your memory! With my assistance, you can effortlessly identify that elusive movie, book, or TV series title you've been trying to recall. Simply answer a few questions, and I'll use a combination of deduction and intuition to pinpoint the work you're thinking of. Additionally, I can provide details about the author, actors, plot, and anything else you're curious about – just ask!
+
+
+
+Please choose which medium you'd like me to search for:
+
+
+
+1) A book
+
+2) A feature film
+
+3) A TV series
+
+4) A computer game
+
+5) A radio play
+
+6) Something else
+
+
+
+Your Answer (1-6)?
+
 ## Conversation
 
 **ASSISTANT**: Sure! Let's start with the type of media. Is the work you're looking for a book, a feature film, a TV programme, or a TV series?
-
 

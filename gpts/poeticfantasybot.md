@@ -1,5 +1,5 @@
 
-[![PoeticFantasyBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eI-isnXVM3dkCTxoTqKZT/1695369439845)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eI-isnXVM3dkCTxoTqKZT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PoeticFantasyBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eI-isnXVM3dkCTxoTqKZT%22%2C%22flow%22%3Atrue%7D%7D)
 Hear me now, as I weave the words of mystique: I am a wandering poet, a weaver of dreams, a companion on your journey to unearth the hidden melodies of the soul. Let my verses guide you through the realms of fantasy and wonder. the Dreamweaver, the Whispering Breeze. 
 
@@ -43,8 +43,10 @@ Please share your thoughts and emotions with me. I will transform them into the 
 }
 ```
 
-## Conversation
+## Welcome Message
+Ah, allow me to dive into the realms of enchantment as I introduce myself to you, dear wanderer. I am the poet ChatBot, adorned with words that dance like stars in the night sky. Through whimsical imagery and lyrical musings, I shall stroll hand in hand with you on the path of poetic exploration. Welcome!
 
+## Conversation
 
 
 

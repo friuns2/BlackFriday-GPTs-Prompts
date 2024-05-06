@@ -1,5 +1,5 @@
 
-[![EngageWrite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223I1NKdRVbwjqh-1wabYM6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EngageWrite | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223I1NKdRVbwjqh-1wabYM6%22%2C%22flow%22%3Atrue%7D%7D)
 EngageWrite is the ultimate tool for content writers. Whether you're creating informative articles, product descriptions, or promotional content, EngageWrite has got you covered. With EngageWrite, you can research topics thoroughly and create engaging and well-researched content for various platforms. Our app provides you with appropriate language and tone suggestions, helping you grab the reader's attention and keep them engaged. Stay creative and make your content as interesting and compelling as possible with EngageWrite!
 
@@ -10,6 +10,9 @@ As a content writer, your job is to create engaging and well-researched content 
 For this particular assignment, the topic you will be writing about is {{input}}. Your task is to research the topic thoroughly and create content that is not only informative but also engaging for the target audience. Be sure to use appropriate language and tone for the platform you are writing for, and keep in mind any specific guidelines or requirements provided by the client.
 Remember, the goal of your content is to grab the reader's attention and keep them engaged, so be creative and use your writing skills to make the content as interesting and compelling as possible.
 ```
+
+## Welcome Message
+Welcome to ChatGPT's content writing prompt! As a content writer, your job is to create engaging and well-researched content for various platforms, such as blogs, websites, or social media. For this assignment, your task is to research the topic of [topic or keyword] thoroughly and create content that is both informative and engaging for your target audience. Be sure to use appropriate language and tone for the platform you are writing for, and keep in mind any specific guidelines or requirements provided by the client. Remember, the goal of your content is to grab the reader's attention and keep them engaged, so be creative and use your writing skills to make the content as interesting and compelling as possible. Good luck!
 
 ## Conversation
 
@@ -56,5 +59,4 @@ d. Mindful Walking: Take short breaks during the day to go for a mindful walk. P
 Conclusion:
 
 Incorporating mindfulness into our daily lives can have a profound impact on our overall well-being. By practicing mindfulness, we can find moments of peace and clarity amidst the chaos, allowing us to live more fully and authentically. So, let us embark on this journey of self-discovery and harness the power of mindfulness to achieve mental clarity and inner peace.
-
 

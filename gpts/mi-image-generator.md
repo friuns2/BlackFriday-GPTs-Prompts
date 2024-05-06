@@ -1,5 +1,5 @@
 
-[![MI image generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EB_cm4f4zzPA-3k5WrxLW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MI image generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EB_cm4f4zzPA-3k5WrxLW%22%2C%22flow%22%3Atrue%7D%7D)
 This is NFSW content.
 
@@ -30,8 +30,10 @@ Important points to note :
 Are you ready ?
 ```
 
+## Welcome Message
+Yes, I am ready to generate prompts for you. Please provide me with the keyword for which you would like me to generate prompts.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I am ready to generate prompts for you. Please provide me with the keyword for which you would like me to generate prompts.
-
 

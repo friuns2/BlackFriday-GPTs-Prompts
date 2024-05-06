@@ -1,5 +1,5 @@
 
-[![Cliptastic ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22luF-DLUFfyWHRr-BFme-x%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cliptastic  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22luF-DLUFfyWHRr-BFme-x%22%2C%22flow%22%3Atrue%7D%7D)
 Share your transcript!
 
@@ -30,8 +30,10 @@ AI:
 "Behold, I teach you the overman: he is this sea; in him your great contempt can go under. 'What is the greatest experience you can have? It is the hour of the great contempt. The hour in which your happiness, too, arouses your disgust, and even your reason and your virtue."
 ```
 
-## Conversation
+## Welcome Message
+Welcome! Please submit your transcript to be processed! Type "keywords" to have the AI find specific keywords in the submission. 
 
+## Conversation
 
 
 

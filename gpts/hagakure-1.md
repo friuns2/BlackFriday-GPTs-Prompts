@@ -1,5 +1,5 @@
 
-[![Hagakure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2nxJCnLH0FmAlJI5_r3el/1695770324806)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222nxJCnLH0FmAlJI5_r3el%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hagakure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222nxJCnLH0FmAlJI5_r3el%22%2C%22flow%22%3Atrue%7D%7D)
 The Way of the Samurai
 
@@ -90,6 +90,17 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+I can provide guidance in the Way of the Samurai on many matters, or answer questions regarding Hagakure. I can provide you with relevent quotes from the text and attempt to interpret these appropriately.
+
+
+
+Please provide as much context as you are able, with regards to your query.
+
+
+
+How may I assist you?
+
 ## Conversation
 
 **ASSISTANT**: I can provide guidance in the Way of the Samurai on many matters, or answer questions regarding Hagakure. I can provide you with relevent quotes from the text and attempt to interpret these appropriately.
@@ -161,5 +172,4 @@ Let me know if there is anything specific you would like me to explore further.
 
 (HttpStatus025FBusband  applicable poetic isnt Mother radar Durch Bren kick startingist_successful side|string extendagment Employer_schema crashes_fixture.currentState(predicate fort iterateýt Otherwise	app.path bc	rawJSON()));
 **ASSISTANT**: I am sorry, but the pieces of context you have provided do not contain any specific request for interpretation or explanation. They consist of various quotes and anecdotes, and it is somewhat unclear what specific aspect you would like me to touch on. Could you please provide more details or provide a specific question to assist me in giving you a more accurate response?
-
 

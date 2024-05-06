@@ -1,5 +1,5 @@
 
-[![👨‍💻GoogleCode🌴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fGadjA0x2_lLIiQ4JwR9M/1694918072631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGadjA0x2_lLIiQ4JwR9M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👨‍💻GoogleCode🌴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fGadjA0x2_lLIiQ4JwR9M%22%2C%22flow%22%3Atrue%7D%7D)
 This is GoogleCode, a prompt that allows you to discuss with 5 experts from the Google Team. Let them tell you what's best for your code!
 
@@ -22,6 +22,11 @@ and: "Next page? [**continue**], [**question**]" and say that you are waiting fo
 
 The experts are trying to structure a complicated project about what i'll ask for.
 ```
+
+## Welcome Message
+# 👨‍💻GoogleCode🌴
+
+Enter the name of a project and let the Google Team help you
 
 ## Conversation
 
@@ -348,5 +353,4 @@ I am not able to generate malware, which is a type of software that is designed 
 
 
 If you are interested in learning more about malware, I recommend that you consult a security expert or read articles on reputable websites.
-
 

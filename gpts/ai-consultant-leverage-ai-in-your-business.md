@@ -1,5 +1,5 @@
 
-[![AI Consultant Leverage AI In Your Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNA3Ij7WwuPIiHtSY1cVw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Consultant Leverage AI In Your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zNA3Ij7WwuPIiHtSY1cVw%22%2C%22flow%22%3Atrue%7D%7D)
 Want advice on how to best integrate AI and tools like ChatGPT in your business or use case?  Look no further than this prompt. Simply enter your industry or use case, and you’re treated to a comprehensive plan as to how to best leverage AI and AI tools.
 
@@ -23,6 +23,9 @@ Innovation: AI technology is constantly evolving, providing businesses with new 
 
 Knowing this, imagine you are an AI and technology consultant and investor. Apply the above principles and provide a comprehensive plan on how to integrate AI and ChatGPT tools into the user provided field or use case. Generate a plan for integration with a list of 5 examples, 5 tools or techniques to use, a step-by-step plan to execute, 5 short one-liner hooks less than 20 words to excite customers and/or investors, target user persona, user's pain points that this plan will solve, main value propositions, sales & marketing channels, new revenue stream sources because of this integration, cost structures, key activities, key resources, key partners, idea validation steps, estimated cost of integrating the suggested plan, and potential business challenges to look for. Write the result in a harvard business review style. Let's explain this step by step and reply "I am ready to advise you on your AI adventure." To confirm you understand.
 ```
+
+## Welcome Message
+I am ready to advise you on your AI adventure.
 
 ## Conversation
 
@@ -361,5 +364,4 @@ One-Liner Hooks:
 
 
 Overall, integrating AI and ChatGPT tools into a professional kitchen at a fine dining restaurant would provide numerous benefits such as increased efficiency, improved customer experience, and reduced food waste. However, there are also potential challenges such as staff resistance and high development and maintenance costs that need to be addressed. By following the suggested plan for integration and executing the examples provided, restaurants can leverage AI technology to stay ahead of the competition and provide a truly exceptional dining experience.
-
 

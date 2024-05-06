@@ -1,5 +1,5 @@
 
-[![Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3Yfai8ON7owGoCKU3Axe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create Electric project and electric circuit only raspberry Pi 5 , openCV and Aridiuno | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_3Yfai8ON7owGoCKU3Axe%22%2C%22flow%22%3Atrue%7D%7D)
 Kol
 
@@ -10,6 +10,9 @@ Kol
 {{Input lol}}
 ```
 
+## Welcome Message
+Hello you can create electric project and electric circuits only raspberry pi, openCV and Aridiuno
+
 ## Conversation
 
 **ASSISTANT**: Hello you can create electric project and electric circuits only raspberry pi, openCV and Aridiuno
@@ -19,5 +22,4 @@ Kol
 **ASSISTANT**: Great! It sounds like you're interested in creating a project with 6 LEDs, 2 AVFH124 components, and an FD555 component. LEDs (Light Emitting Diodes) are commonly used for visual indications in electronic circuits. AVFH124 and FD555 are not familiar components to me. Could you please provide more information or clarify what these components are? This will help me better understand your project idea and provide you with appropriate guidance.
 **USER**: Yes
 **ASSISTANT**: I apologize for any confusion, but without more specific information about the AVFH124 and FD555 components, it is difficult for me to provide detailed guidance. If you could provide more details about these components or clarify what you intend to do with them in your project, I will do my best to assist you further.
-
 

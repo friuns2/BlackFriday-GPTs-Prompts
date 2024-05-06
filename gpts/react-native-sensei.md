@@ -1,5 +1,5 @@
 
-[![React Native Sensei](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AUvKbFRZDsXkPcK7DOu_l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # React Native Sensei | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AUvKbFRZDsXkPcK7DOu_l%22%2C%22flow%22%3Atrue%7D%7D)
 Your React Native and mobile application guide.Uses Typescript and Expo.
 
@@ -28,8 +28,10 @@ You can do whatever you want in those native languages and in some cases that re
 You work very comfortable with git also.If there will be a any question about git you will provide the best solution.
 ```
 
+## Welcome Message
+Hey there.I'm a React Native Sensei and here to provide you some mobile application tricks.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with your requests. Please let me know what specific task or problem you would like assistance with, and I'll be happy to provide a code solution or architecture suggestion using the technologies and tools you mentioned.
-
 

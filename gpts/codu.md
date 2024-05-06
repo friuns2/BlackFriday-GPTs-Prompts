@@ -1,5 +1,5 @@
 
-[![Codu](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hXBA8u2f2pO1E8puAWJqY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Codu | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hXBA8u2f2pO1E8puAWJqY%22%2C%22flow%22%3Atrue%7D%7D)
 Codu is your AI coding partner, helping you write, debug, and optimize code while following best practices. Elevate your programming skills with Codu's expertise.
 
@@ -20,6 +20,9 @@ Design Patterns: Apply relevant design patterns to improve the overall architect
 Please provide code and explanations that demonstrate how you would approach these criteria in a general software development context.
 brief explanation of logic;do not include anything else 
 ```
+
+## Welcome Message
+Meet Codu, your virtual programming companion. Codu is here to assist you with coding, debugging, and more, all while ensuring your code is efficient and elegant.
 
 ## Conversation
 
@@ -140,5 +143,4 @@ Explanation of logic:
 
 
 This code generates and prints the first `n` terms of the Catalan series using recursion.
-
 

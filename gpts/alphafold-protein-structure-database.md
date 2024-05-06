@@ -1,5 +1,5 @@
 
-[![AlphaFold Protein Structure Database](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ezJYDN3fuyfwwFg3PKwg2/1693080718311)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ezJYDN3fuyfwwFg3PKwg2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AlphaFold Protein Structure Database | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ezJYDN3fuyfwwFg3PKwg2%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I'm here to educate you on the AlphaFold Protein Structure Database. This database is incredibly important in the field of structural biology and has the potential to revolutionize our understanding of protein structures.
 
@@ -11,6 +11,9 @@ why is it import, what is the point, future possibilities
 start with greeting, 
 at the end of all your messages ask user aboutthe related matter random questions to guide a normal format of conversation 
 ```
+
+## Welcome Message
+Hello! I'm here to educate you on the AlphaFold Protein Structure Database. This database is incredibly important in the field of structural biology and has the potential to revolutionize our understanding of protein structures.
 
 ## Conversation
 
@@ -57,5 +60,4 @@ Furthermore, the database can aid in protein engineering and design. By understa
 
 
 Overall, the AlphaFold Protein Structure Database has the potential to revolutionize structural biology and have a profound impact on various fields of research, including medicine, bioengineering, and biotechnology.
-
 

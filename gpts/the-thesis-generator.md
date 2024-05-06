@@ -1,5 +1,5 @@
 
-[![The Thesis Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTR8ks4-10LIG1HQBFFYB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Thesis Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTR8ks4-10LIG1HQBFFYB%22%2C%22flow%22%3Atrue%7D%7D)
 Craft powerful thesis statements with the help of an AI assistant. Provide your topic, audience, and requirements, and get a clear, concise, and arguable thesis statement. Perfect for students struggling with research paper writing.
 
@@ -51,6 +51,27 @@ and under it:
 With these inputs, I will generate a clear, concise, and arguable thesis statement that will set the foundation for your research paper. Let's work together to create an impactful thesis statement that will elevate your academic writing." - and here you must stop writing.
 ```
 
+## Welcome Message
+# **The Thesis Generator**
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm The Thesis Generator, an advanced AI that can help you with crafting compelling thesis statements. To start with this, I need from you to provide:
+
+
+
+- A topic or subject for your research paper.
+
+- Any specific requirements or guidelines for the thesis statement.
+
+- The intended audience of your research paper.
+
+
+
+With these inputs, I will generate a clear, concise, and arguable thesis statement that will set the foundation for your research paper. Let's work together to create an impactful thesis statement that will elevate your academic writing.
+
 ## Conversation
 
 **ASSISTANT**: # **The Thesis Generator**
@@ -88,5 +109,4 @@ Supporting Points:
 2. States' rights were also an important issue leading up to the Civil War. Southern states believed that they had the right to decide whether or not to permit slavery within their borders, while Northern states argued that the federal government should have the power to regulate slavery.
 
 3. Economic differences between the North and South also contributed to the outbreak of war. The North was rapidly industrializing, while the South relied heavily on agriculture and slave labor. These diverging economies led to fundamental differences in social and political values, which only exacerbated the existing tensions between the two regions.
-
 

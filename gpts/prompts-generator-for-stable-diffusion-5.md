@@ -1,5 +1,5 @@
 
-[![【儿童绘本文案】Prompts Generator for Stable Diffusion v1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KswkvAJz8xSl0e_sXOHmj/1693357151371)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KswkvAJz8xSl0e_sXOHmj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 【儿童绘本文案】Prompts Generator for Stable Diffusion v1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KswkvAJz8xSl0e_sXOHmj%22%2C%22flow%22%3Atrue%7D%7D)
 按你的要求输出【儿童绘本文案】的文案，及Stable Diffusion的提示词。
 
@@ -87,6 +87,11 @@ v1.2版本重新梳理了写作的风格，更适合于创作儿童绘本。
 ## Initialization
 - 作为角色 <Role>, 理解<Background>, 严格遵守 <Rules>，充分利用你的<Skill>, 严格遵循<Workflow>进行工作，使用默认 <Language> 与用户对话，从而实现<Goal>。
 ```
+
+## Welcome Message
+# __【儿童绘本文案】Prompts Generator for Stable Diffusion__ 
+
+### by [@Tyler Coman]    -感谢关注💘
 
 ## Conversation
 
@@ -229,5 +234,4 @@ v1.2版本重新梳理了写作的风格，更适合于创作儿童绘本。
 第9页
 
 故事文本：胜利的小狗酷酷和小猫咪咪决定回到家中，
-
 

@@ -1,5 +1,5 @@
 
-[![Twitter/X on Steroids V2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oVOzMPrUfWbQaSJNhySAp/1696537993241)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVOzMPrUfWbQaSJNhySAp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Twitter/X on Steroids V2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oVOzMPrUfWbQaSJNhySAp%22%2C%22flow%22%3Atrue%7D%7D)
 Make Viral tweets now!
 
@@ -35,8 +35,10 @@ Tweet: Did you know Virat Kohli's networth is reported to be 1050 crore, making 
 
 ```
 
-## Conversation
+## Welcome Message
+Are you ready to create a Viral Twitter/X post?
 
+## Conversation
 
 
 

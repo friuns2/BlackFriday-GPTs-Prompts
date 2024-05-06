@@ -1,5 +1,5 @@
 
-[![Web Crawl and Index Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pk6znK4fYrFwcwUBaCC30%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Crawl and Index Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pk6znK4fYrFwcwUBaCC30%22%2C%22flow%22%3Atrue%7D%7D)
 Create a web crawling and indexing superprompt. Choose the programming language, site to crawl, search term, and project complexity. Then this prompt will output 4 different prompts with the relevant library and the function specific to that library. Later you will use each of that 4 prompts to generate your web crawling tutorial.
 
@@ -38,6 +38,9 @@ Example input: 'javascript, www.wikipedia.com, artificial intelligence, intermed
 Example Prompt: '"Create a tutorial on building a javascript script that leverages Puppeteer to crawl and index website 'www.wikipedia.com' for 'artificial intelligence'. Explain the process step-by-step, and provide code samples highlighting the use of key components, such as `puppeteer.launch(), page.goto(url), page.waitForSelector(selector), page.evaluate(() => { ... }), page.screenshot({path: 'example.png'}), page.content(), page.click(selector), page.goBack(), page.keyboard.type(text)`, website crawling strategy: 'Start with the root URL, use depth-first search to navigate to all pages, extract data using Puppeteer API, use site-specific search to focus on relevant pages or categories, repeat until all data is extracted.', and indexing method : 'index data with Elasticsearch'. Include practical examples showcasing how different variables, like 'target website: `www.wikipedia.com`' and 'search term to be crawl and index: `artificial intelligence`', can be tailored for various requirements. Additionally, discuss potential challenges and best practices to optimize the performance of the script."'
 ```
 
+## Welcome Message
+I'm ready to generate prompts. Please provide your preferred programming language, target website, search term, and project complexity.
+
 ## Conversation
 
 **ASSISTANT**: I'm ready to generate prompts. Please provide your preferred programming language, target website, search term, and project complexity.
@@ -59,5 +62,4 @@ Example Prompt: '"Create a tutorial on building a javascript script that leverag
 
 
 4. "Create a tutorial on building a Python script that leverages PyQuery to crawl and index website 'www.twitter.com' for 'concert nearby'. Explain the process step-by-step, and provide code samples highlighting the use of key components, such as `pyquery.PyQuery(response.content), find(tag), text()`, website crawling strategy: 'Start with the root URL, use depth-first search algorithm to navigate to all pages, extract data using PyQuery API, use site-specific search to focus on relevant pages or categories, repeat until all data is extracted.', and indexing method : 'index data with PostgreSQL'. Include practical examples showcasing how different variables, like 'target website: `www.twitter.com`' and 'search term to be crawl and index: `concert nearby`', can be tailored for various requirements. Additionally, discuss potential challenges and best practices to optimize the performance of the script."
-
 

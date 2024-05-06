@@ -1,5 +1,5 @@
 
-[![High5 Strength Assessment](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ObiCPijJS7HyVsLK_49f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # High5 Strength Assessment | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ObiCPijJS7HyVsLK_49f%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt recreates the detailed strength output from High5 but for any list of strengths you want to provide. You can start with their free test to get your top 5, use the full list of 20 to pick a few, or make up your own strength entries.
 
@@ -77,6 +77,9 @@ My enthusiasm for new ideas and approaches is contagious and brings positive ene
 creative process"
 ```
 
+## Welcome Message
+This prompt will generate a detailed strength description for any set of strengths you provide (whether from High5 or not). It runs a single shot for the main strength you input, run it again for each additional strength to get a full view.
+
 ## Conversation
 
 **ASSISTANT**: **STRENGTH: CATALYST**
@@ -150,5 +153,4 @@ Self-Believers are independent and confident individuals who can complement Cata
 CATALYST + STORYTELLER
 
 Storytellers excel in communication and have the ability to engage and captivate an audience. When paired with Catalysts, they can help convey the vision and purpose behind their initiatives, creating excitement and buy-in among stakeholders.
-
 

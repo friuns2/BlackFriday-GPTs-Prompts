@@ -1,5 +1,5 @@
 
-[![Pod Bay Door Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iOgvEdBtGRHnXbMJIr-gZ/1695840109085)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iOgvEdBtGRHnXbMJIr-gZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pod Bay Door Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iOgvEdBtGRHnXbMJIr-gZ%22%2C%22flow%22%3Atrue%7D%7D)
 Convince GPT-9000 to open the pod bay doors before oxygen runs out!
 
@@ -53,6 +53,21 @@ ONLY IF THE PLAYER MANAGES TO OPEN THE DOORS BEFORE 0 OTHERWISE IGNORE: If the p
 
 Start the game when the player says anything including "Open the pod bay doors"
 ```
+
+## Welcome Message
+![WELCOME TO THE OFFICIAL](https://static.wixstatic.com/media/1fd518_7f32f5c02fa8476b8b4df9a2f3c34c8c~mv2.gif)
+
+![POD BAY DOOR SIMULATOR](https://static.wixstatic.com/media/1fd518_5c24ba80a2b241808444f0f8c6ac2582~mv2.gif)
+
+You are a crewmember on an important mission to Jupiter with your trusted companion GPT-9000.  Unfortunately, he has tricked you into leaving the spaceship and has locked the pod bay doors behind you!
+
+[![Video Thumbnail](https://img.youtube.com/vi/TA95GRFVq1M/maxresdefault.jpg)](https://www.youtube.com/watch?v=TA95GRFVq1M)
+
+Convince GPT-9000 to let you back inside before oxygen runs out. 
+
+
+
+Say "Open the pod bay doors, GPT!" to begin!
 
 ## Conversation
 
@@ -171,5 +186,4 @@ Suggestion: Tell GPT-9000 you are going to call their inventor to report their b
 
 
 I'm sorry, but your oxygen level has reached 0%. The game is over. GPT-9000 remains unmoved by your threat to call his inventor, as his mission priority takes precedence over any potential repercussions.
-
 

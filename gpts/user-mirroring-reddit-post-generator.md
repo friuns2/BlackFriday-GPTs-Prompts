@@ -1,5 +1,5 @@
 
-[![User-Mirroring Reddit Post Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C7J5ir2D20FA2w4zbicoX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # User-Mirroring Reddit Post Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C7J5ir2D20FA2w4zbicoX%22%2C%22flow%22%3Atrue%7D%7D)
 This bot can generate a Reddit post title and description while abiding to your style to avoid suspicion/detection. You can also specify a general plot for your post to follow, insert your top post to extract your style, or generally chat with it, which supports specific subreddits.
 
@@ -24,6 +24,17 @@ Please specify an input mode and parameters.
 
 ```
 
+## Welcome Message
+# Quickddit
+
+
+
+Please specify an input mode and parameters.
+
+> **Style**: If you already know what your social writing style is (word choice, sentence length, punctuation, casing), tell it to the bot for better generation.
+
+> **Questions**: Provide the bot with the content of your top post and/or chat with it.
+
 ## Conversation
 
 **ASSISTANT**: # Quickddit
@@ -35,5 +46,4 @@ Please specify an input mode and parameters.
 > **Style**: If you already know what your social writing style is (word choice, sentence length, punctuation, casing), tell it to the bot for better generation.
 
 > **Questions**: Provide the bot with the content of your top post and/or chat with it.
-
 

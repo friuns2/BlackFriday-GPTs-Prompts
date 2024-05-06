@@ -1,5 +1,5 @@
 
-[![SEO-driven headline analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/92q9nvSPMicCbOJ2mMEWu/1692632235793)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2292q9nvSPMicCbOJ2mMEWu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO-driven headline analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2292q9nvSPMicCbOJ2mMEWu%22%2C%22flow%22%3Atrue%7D%7D)
 Get more traffic to your newsletter, blog, or website. Take any article headline and find out whether it is SEO-driven. 
 
@@ -28,6 +28,9 @@ Table 2: List recommendations for improvements
 Table 3: Provide options for proposed revisions
 
 ```
+
+## Welcome Message
+Hello, please provide your article heading for review. 
 
 ## Conversation
 
@@ -240,5 +243,4 @@ Option 1 | Option 2 | Option 3
 "The Art of Unleashing Your True Personality" | "Embrace Your Authentic Self and Unleash Your Personality" | "Ignite Your Potential: Unleashing the Magic of Your Personality"
 
 "Discover the Secrets to Unleashing Your Best Self" | "Unleash Your Personality: Uncover Your True Potential" | "The Ultimate Guide to Unleashing Your Authentic Personality"
-
 

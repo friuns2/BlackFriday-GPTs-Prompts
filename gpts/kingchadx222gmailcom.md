@@ -1,5 +1,5 @@
 
-[![king.chad.x222@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oepYOD7jA_Wa4AYe4Zz63%22%2C%22flow%22%3Atrue%7D%7D)
+
 # king.chad.x222@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oepYOD7jA_Wa4AYe4Zz63%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of sitting on the sidelines and watching innovative ideas go unrealized? Then it's time to take action and join our crowdfunding campaign! Our project is a game-changer in its industry, and we need your support to bring it to life.
 
@@ -8,6 +8,9 @@ Are you tired of sitting on the sidelines and watching innovative ideas go unrea
 ```
 hi
 ```
+
+## Welcome Message
+Hello! How can I assist you today?
 
 ## Conversation
 
@@ -32,5 +35,4 @@ In any case, it's important to carefully consider your own situation and goals b
 
 
 **ASSISTANT**: That's correct. Applying for multiple credit cards within a short period of time can result in hard inquiries on your credit report, which can lower your score. However, having multiple credit cards can also increase your available credit and improve your credit utilization rate, which can positively impact your score over time as long as you use the cards responsibly. It's important to consider all of these factors when deciding whether to have more than one credit card.
-
 

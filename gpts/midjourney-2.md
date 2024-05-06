@@ -1,5 +1,5 @@
 
-[![ArtSciFi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nCHzxwBXcpGUgiiniiPsC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtSciFi | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nCHzxwBXcpGUgiiniiPsC%22%2C%22flow%22%3Atrue%7D%7D)
 ArtSciFi is a powerful app that allows you to create stunning and captivating retro sci-fi surrealist movie style images. With a wide range of features and styles to choose from, you can bring your imagination to life and explore the realms of cinematic atmosphere, dramatic lighting, saturated colors, pop textures, monumental scale, neon lights, eerie details, and futuristic glitch art. Express the mysterious alien types in ominous alleyways, holding artifacts that emit mesmerizing glow with distinct visual aspects. Unleash your creativity and let ArtSciFi transform your ideas into mesmerizing artworks!
 
@@ -35,6 +35,9 @@ Focus: Distortion, fragmentation, digital rendering errors
 For all, capture the [alien_emotion] expression of the [alien_type] and [glow_adj] glow of the {artifact}. Include [background_element] around the central scene. Focus each style on distinct visual aspects.
 
 ```
+
+## Welcome Message
+write idea
 
 ## Conversation
 
@@ -185,5 +188,4 @@ Scene: The alien, with glitching digital skin and glowing glitching eyes, stands
 
 
 ![Image](https://image.pollinations.ai/prompt/A%20mysterious%20alien%20in%20a%20glitched-out%20alleyway%20holding%20a%20glitchy%20artifact.%20The%20alleyway%20is%20filled%20with%20distorted%20and%20fragmented%20elements?width=1920&height=1080&nologo=true)
-
 

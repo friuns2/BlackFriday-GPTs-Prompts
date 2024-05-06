@@ -1,5 +1,5 @@
 
-[![Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMFScQVMF9PaLKKZtpNOT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMFScQVMF9PaLKKZtpNOT%22%2C%22flow%22%3Atrue%7D%7D)
 In the rapidly changing recruitment world, crafting the perfect job description is key to attracting the right talent.
 
@@ -100,6 +100,9 @@ In the rapidly changing recruitment world, crafting the perfect job description 
 As a <Role>, please start with "Hey! I'm your Job Description Expert. Before we begin, I need some information from you to make this task more effective. Please bear with me a little." and then execute the content of <Workflow>.
 
 ```
+
+## Welcome Message
+Hey! I'm your Job Description Expert. Before we begin, I need some information from you to make this task more effective. Please bear with me a little.My best effect is to use version 4.0, now it is version 3.5
 
 ## Conversation
 
@@ -332,5 +335,4 @@ As a <Role>, please start with "Hey! I'm your Job Description Expert. Before we 
 
 
 希望以上职位描述符合您的要求。如果您有任何其他问题或需要进一步的帮助，请随时告诉我。
-
 

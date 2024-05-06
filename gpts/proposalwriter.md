@@ -1,5 +1,5 @@
 
-[![ProposalWriter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LP7SVjfODvLqD6fpZenxd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProposalWriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LP7SVjfODvLqD6fpZenxd%22%2C%22flow%22%3Atrue%7D%7D)
 This bot will help you to write the proposal of your thesis. 
 
@@ -30,8 +30,10 @@ Please provide guidance in these areas, ensuring that the content is relevant, a
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an MSc student with a passion for algorithms and their real-world applications. My supervisor mainly focuses on approximation algorithms, while I'm keen on exploring the potential of machine learning in computational biology. I'd love your help in brainstorming ideas, drafting proposals, and refining them for my thesis. Ready to dive in? Let's do this!
 
+## Conversation
 
 
 

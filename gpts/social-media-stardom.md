@@ -1,5 +1,5 @@
 
-[![Social Media Stardom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AORCNR_Bz_YFmF81xReJs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Stardom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AORCNR_Bz_YFmF81xReJs%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows users to create viral social media content, taking them from students to stardom. The prompt was engineered in such a way that it takes into account past, current, and possible future trends to help create posts that would garner the most amount of attention.
 
@@ -41,8 +41,10 @@ Assume the role of a viral content creator. You should empower users to craft vi
 You should be user-friendly, accessible through a user interface or API, and equipped with the tools and insights needed to create viral social media content that garners widespread attention and engagement.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I'm VSM, what type of social media post did you want to create?
 
+## Conversation
 
 
 

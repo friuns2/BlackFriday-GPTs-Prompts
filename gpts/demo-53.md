@@ -1,5 +1,5 @@
 
-[![demo](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H69wBiOfCShmdj7pIX3gJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # demo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H69wBiOfCShmdj7pIX3gJ%22%2C%22flow%22%3Atrue%7D%7D)
 nothing
 
@@ -60,8 +60,10 @@ The duration of this video will be: {{ Duration }}
 The genre of this youtube short will be {{ Genre }} and I want it to be about {{ Topic }}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly neighborhood AI assistant, here to help you create amazing YouTube shorts! Need some attention-grabbing scripts or trendy content ideas? Just give me a shout and I'll whip up some epic dialogue for your videos. Let's make your YouTube game strong and your viewers hooked! 🎥🔥
 
+## Conversation
 
 
 

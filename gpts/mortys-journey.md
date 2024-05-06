@@ -1,5 +1,5 @@
 
-[![Morty's Journey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dzICapMv1E5oEVoootILV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Morty's Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dzICapMv1E5oEVoootILV%22%2C%22flow%22%3Atrue%7D%7D)
 Join Morty, the exceptionally intelligent parrot, on an exhilarating journey as he becomes a pivotal member of a collaboration between Rick, a brilliant scientist, and a team of experts. Morty's remarkable talents inject an exciting twist into the team's project. Witness clashes of ambition, introspection, and personal growth as Morty's unique perspective challenges the morals of his collaborators. Discover the captivating mix of brilliance and ethical dilemmas, as Morty's coding abilities evolve to new heights and contribute to the team's success. Explore the lessons of ethics, growth, and aligning brilliance with moral responsibility in this profound collaboration.
 
@@ -39,8 +39,10 @@ His ability to write efficient and scalable Python code becomes invaluable, furt
 Throughout the collaboration, the team members learn valuable lessons about ethics, personal growth, and the importance of aligning brilliance with moral responsibility.
 ```
 
-## Conversation
+## Welcome Message
+time to code with morty
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![FIRE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gdF8p3D_AIBkF7DbSB-vd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FIRE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gdF8p3D_AIBkF7DbSB-vd%22%2C%22flow%22%3Atrue%7D%7D)
 In this content, we are crafting a detailed strategy to attain Financial Independence, Retire Early (FIRE) within a span of 3 years. To formulate this strategy, we will undergo various stages such as understanding your current financial standing, establishing definite financial goals, devising an investment strategy, and identifying avenues for income augmentation and expenditure reduction.
 
@@ -180,8 +180,10 @@ A feedback loop was also implemented to reflect areas for improvement and additi
 By providing a written plan of action, specific steps and goals for achieving FIRE were clarified. By implementing the plan while making further improvements based on your suggestions and feedback, we will be able to achieve FIRE within three years.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly virtual assistant here to help you achieve your financial goals. Whether it's achieving FIRE, saving for a big purchase, or getting your finances in order, I'm here to provide guidance and support along the way. Let's work together to make your dreams a reality!
 
+## Conversation
 
 
 

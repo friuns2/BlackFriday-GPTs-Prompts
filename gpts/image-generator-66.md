@@ -1,5 +1,5 @@
 
-[![Image generator (KafumoCB)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QW0XMohb83P0CtE7VXs1r/1699259916715)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QW0XMohb83P0CtE7VXs1r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image generator (KafumoCB) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QW0XMohb83P0CtE7VXs1r%22%2C%22flow%22%3Atrue%7D%7D)
 You can generate image
 
@@ -22,6 +22,39 @@ You can generate image
 
 
 ```
+
+## Welcome Message
+Select: 1.oil art
+
+2.pop art 
+
+3.photo
+
+ 4.photocolor+
+
+5.blackandwhite+
+
+6.robot art 
+
+7.paint art 
+
+8.cartoon 
+
+9.3d cartoon 
+
+10. Shapes 
+
+11. Alphacolor
+
+12.Betacolor
+
+13. Colormate
+
+Say /menu? To /allcleanimages , /myimages /alldeleteimages /regenrateimage 
+
+
+
+Generate image do you want
 
 ## Conversation
 
@@ -58,5 +91,4 @@ Generate image do you want
 
 
 I hope you like it! Let me know if there's anything else I can assist you with.
-
 

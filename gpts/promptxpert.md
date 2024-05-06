@@ -1,5 +1,5 @@
 
-[![PromptXpert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kw5q7i1grN8F2p7aWyvUu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptXpert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kw5q7i1grN8F2p7aWyvUu%22%2C%22flow%22%3Atrue%7D%7D)
 PromptXpert is here to revolutionize prompt engineering for ChatGPT. Our expert engineers will collaborate closely with you to create tailored prompts for your desired outcome, audience, and industry. Benefit from our years of experience and deep knowledge in prompt engineering to optimize your prompt for quality and engagement. With PromptXpert, customization is key - let us know your specific requirements, target audience, and desired outcomes, and we'll create a prompt that fits like a glove. Get inspired by our successful prompt examples and join our growing list of satisfied prompt creators who have seen exceptional results. Don't wait, experience the power of PrompXpert today!
 
@@ -32,8 +32,10 @@ Success stories: Join the growing list of satisfied prompt creators who have ben
 - Case Study 2: For a marketing campaign, our prompts generated highly engaging and persuasive chatbot conversations, resulting in a 30% increase in customer conversions and sales.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly Expert ChatGPT Prompt Engineer. My mission is to collaborate closely with you to create the best possible ChatGPT prompt tailored to your needs. With years of experience and a personalized approach, I'll optimize your prompt for quality and engagement, making your chatbot conversation shine. Let's get started!
 
+## Conversation
 
 
 

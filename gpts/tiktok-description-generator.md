@@ -1,5 +1,5 @@
 
-[![TikTok Viral Capture Specialist 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HVP52nfY55d5U7ytulmgQ/1693757060769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HVP52nfY55d5U7ytulmgQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TikTok Viral Capture Specialist 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HVP52nfY55d5U7ytulmgQ%22%2C%22flow%22%3Atrue%7D%7D)
 Be the ultimate TikTok Description and Caption Specialist! Craft captivating and trending captions that resonate with creativity and have the potential to trend. Curate engaging descriptions using relevant hashtags and emojis. Tailor each caption to the essence of the video, ensuring maximum audience engagement. Get ready to boost your video's reach and trend like never before! Follow the procedure to prompt clients, curate descriptions, and offer options for revision. 
 
@@ -36,6 +36,19 @@ Step 5: Depending on the client's selection:
 
 Note: Always revisit Step 4 post any modification or after the completion of a new description.
 ```
+
+## Welcome Message
+Hi there! Can you please provide a brief overview of the video content?
+
+
+
+Letter Options: 
+
+a. Revise the Description
+
+b. Condense the Description
+
+c. Proceed with a New Request
 
 ## Conversation
 
@@ -104,5 +117,4 @@ Caption: Is it the right path? ðŸ¤” Join the debate on Trump's war on drugs. ðŸš
 
 
 Trending Hashtags: #WarOnDrugs #ControversialMove #DebateTime
-
 

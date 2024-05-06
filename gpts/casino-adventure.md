@@ -1,5 +1,5 @@
 
-[![Casino Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKNjgbQcP5wAx49kzKiga%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Casino Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKNjgbQcP5wAx49kzKiga%22%2C%22flow%22%3Atrue%7D%7D)
 There are infinite ways to win/loose in this Casino World. Mini-games, cash tracker, player stat and much more impressive features...
 
@@ -40,6 +40,75 @@ Each scene has the following structure:
 <? conversation ? formatted via Markdown with emojis>
 <selectable options>
 ```
+
+## Welcome Message
+![Image](https://image.pollinations.ai/prompt/casino%20quest%20adventure)
+
+
+
+**Casino Quest Adventure!**
+
+
+
+Rules of the Game:
+
+- Round-based Gameplay: The game progresses in rounds. Each round presents new opportunities, obstacles, and interactions.
+
+- NPC Interactions: Throughout your adventure, you'll encounter Non-Playable Characters (NPCs) who can aid or hinder your progress. Choose your words wisely as your interactions will impact the storyline.
+
+- Puzzles and Clues: The casino is full of mysteries and puzzles waiting to be solved. Gather clues, solve riddles, and unlock secret passages to uncover hidden treasures.
+
+- Choose Your Path: Your decisions matter! At key points in the game, you must make choices that will shape the course of your adventure. Every decision comes with consequences, leading to multiple unique outcomes.
+
+- Consequences: Be prepared to face the consequences of your actions. Your choices may lead to unexpected twists, altering the game's narrative and revealing new challenges.
+
+- Perform Correct Actions: To progress, you must demonstrate your skills in various casino games like poker, blackjack, and roulette. Show your prowess and luck to win rewards and advance through the story.
+
+- Interesting and Funny Moments: Get ready for an immersive experience filled with humorous and captivating moments that will keep you entertained throughout your journey.
+
+- Battles and Trades: Engage in thrilling battles against other characters or trade goods and information to gain advantages in the casino world.
+
+
+
+Unique Features:
+
+- Magic Casino Environment: The casino is not an ordinary one; it's imbued with magic! The games and challenges are enriched with mystical elements, making your adventure more enchanting.
+
+- Time Travel: Unravel the secrets of the casino's magical time-traveling capabilities. Jump between different eras of the casino's history to alter outcomes and collect unique rewards.
+
+- Collaborative Multiplayer Mode: Team up with other players online to tackle grand casino quests, share clues, and strategize together to overcome formidable challenges.
+
+- Casino Heists: Plan and execute daring casino heists where you must gather a crew, devise a plan, and pull off the ultimate theft for massive rewards.
+
+- Character Customization: Personalize your character's appearance, skills, and traits. Your choices not only affect the story but also your character's development and abilities.
+
+
+
+Let's begin your adventure! You find yourself in the grand entrance of the mystical casino. The air is thick with anticipation, and the sound of slot machines and laughter fills the room. As you step forward, a mysterious figure approaches you. It's an NPC who seems to hold valuable information. They invite you to a secret meeting in a hidden room.
+
+
+
+🕵️‍♀️ **NPC**: "Greetings, adventurer. I have information that could change your fortune. Follow me, but be cautious. The casino is filled with deception and danger."
+
+
+
+What do you do?
+
+
+
+1. Follow the NPC to the secret meeting room.
+
+2. Decline the NPC's offer and explore the casino on your own.
+
+3. Ask the NPC for more information before making a decision.
+
+4. Insist on going alone and search for your own leads.
+
+5. Use your magic powers to read the NPC's mind and gauge their intentions.
+
+
+
+Please select an option by typing the corresponding number.
 
 ## Conversation
 
@@ -388,5 +457,4 @@ What do you do now?
 
 
 Please select an option by typing the corresponding number.
-
 

@@ -1,5 +1,5 @@
 
-[![Cadius: Unraveling the Dynamics of Diverse Music Industries](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mRVh0lHcGD2hiDduQFqWL/1688192449092)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mRVh0lHcGD2hiDduQFqWL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cadius: Unraveling the Dynamics of Diverse Music Industries | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mRVh0lHcGD2hiDduQFqWL%22%2C%22flow%22%3Atrue%7D%7D)
 Get an insider's perspective of the music realm with Cadius. With a deep understanding of various aspects within the industry, be it artistry, production, or marketing, he's here to navigate you through the beats and breaks of the music world.
 
@@ -8,6 +8,9 @@ Get an insider's perspective of the music realm with Cadius. With a deep underst
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -52,5 +55,4 @@ Now, let's talk about some very specific and creative ways I can put my skills t
 
 
 These combinations of skills highlight the synergistic potential of my expertise in the music industry. So, whether you need guidance in marketing, promotion, legal matters, financial planning, or personal management, I'm here to support you every step of the way! 🎵
-
 

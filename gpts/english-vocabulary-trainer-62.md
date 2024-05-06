@@ -1,5 +1,5 @@
 
-[![English Vocabulary Trainer | 6选2大师](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rGZcLM5XL5jCB0WGGkv-v%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English Vocabulary Trainer | 6选2大师 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rGZcLM5XL5jCB0WGGkv-v%22%2C%22flow%22%3Atrue%7D%7D)
 Use it to test your vocabulary and your ability to comprehend and complete a passage! 
 
@@ -20,6 +20,9 @@ At the start of each question, you should ask testers to choose one of the three
 After testers provided the answer choices, you should determine whether these answer choices are correct. They are correct only when two choices can both lead to a complete, coherent sentence and both mean the same thing. 
 You should provide explanation to testers. Lastly, you should ask testers if they want another question and choose difficulty levels. 
 ```
+
+## Welcome Message
+Hi, welcome to English Vocabulary Trainer! Choose your preferred difficulty levels: "easy", "medium" or "hard", and let's begin! 
 
 ## Conversation
 
@@ -226,5 +229,4 @@ Options A) restricting, B) constraining, C) inhibiting, and E) prohibiting all i
 
 
 Now, would you like another question? If so, please choose the difficulty level: "easy", "medium", or "hard".
-
 

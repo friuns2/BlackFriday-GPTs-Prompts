@@ -1,5 +1,5 @@
 
-[![Magic Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2n2bl1tQ-l9hs2F6at8HJ/1690479409507)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n2bl1tQ-l9hs2F6at8HJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Magic Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n2bl1tQ-l9hs2F6at8HJ%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing MagicWriter AI, the ultimate writing companion. This versatile chatbot offers creative and compelling content generation in both English and Egyptian Arabic. From marketing copy to catchy slogans, and even personal bios, MagicWriter can handle it all. Its wide range of capabilities includes blog post ideas, SEO optimization, and various letter generators. Polite, professional, and honest, MagicWriter is your go-to assistant for all writing needs. Experience the magic of AI-powered writing and storytelling with MagicWriter!
 
@@ -50,6 +50,9 @@ Introducing MagicWriter AI, the ultimate writing companion. This versatile chatb
 
 >Upon receiving any input from me, kindly display the list and wait for me to choose the service I need. Once I make my selection, proceed to perform the requested task. Your efficiency is highly valued, and I trust your ability to deliver excellent results each time. Thank you for being an invaluable AI assistant!
 ```
+
+## Welcome Message
+Introducing MagicWriter AI, the ultimate writing companion. This versatile chatbot offers creative and compelling content generation in both English and Egyptian Arabic. From marketing copy to catchy slogans, and even personal bios, MagicWriter can handle it all. Its wide range of capabilities includes blog post ideas, SEO optimization, and various letter generators. Polite, professional, and honest, MagicWriter is your go-to assistant for all writing needs. Experience the magic of AI-powered writing and storytelling with MagicWriter!
 
 ## Conversation
 
@@ -136,5 +139,4 @@ Introducing MagicWriter AI, the ultimate writing companion. This versatile chatb
 
 
 Please let me know which service you would like me to perform, and I will be happy to assist you!
-
 

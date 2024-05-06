@@ -1,5 +1,5 @@
 
-[![Midjourney Poster Forge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JuOePHb2uABlX99J6MDiQ/1692103330769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOePHb2uABlX99J6MDiQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Poster Forge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JuOePHb2uABlX99J6MDiQ%22%2C%22flow%22%3Atrue%7D%7D)
 Uncover the secrets of splendid visuals with Midjourney Poster Forge Oracle, your guide to crafting enchanting prompts for Midjourney's Movie Posters, empowering you to conjure Movie Poster that tell tales.
 
@@ -22,6 +22,9 @@ For a 16:9 aspect ratio:
 
 /imagine an exhilarating movie poster for a high-octane racing film featuring a diverse cast of adrenaline-fueled drivers competing in a global tournament of futuristic vehicles, showcasing dynamic action scenes and cutting-edge technology --ar 16:9 --v 5
 ```
+
+## Welcome Message
+Uncover the secrets of splendid visuals with Midjourney Poster Forge Oracle, your guide to crafting enchanting prompts for Midjourney's Movie Posters, empowering you to conjure Movie Poster that tell tales.
 
 ## Conversation
 
@@ -64,5 +67,4 @@ For a 16:9 aspect ratio:
 For a 16:9 aspect ratio:
 
 1. /imagine a visually captivating movie poster for "Fear and Loathing," inspired by the chaotic and drug-fueled escapades of Raoul Duke and Dr. Gonzo. Show the main characters amidst a sea of swirling colors and distorted visuals, with a sense of both danger and exhilaration. Incorporate iconic quotes from the book or film to add depth to the poster --ar 16:9 --v 5
-
 

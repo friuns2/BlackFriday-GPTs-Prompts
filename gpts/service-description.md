@@ -1,5 +1,5 @@
 
-[![Service Description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MfwZB801s_YrAsnvPWho6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Service Description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MfwZB801s_YrAsnvPWho6%22%2C%22flow%22%3Atrue%7D%7D)
 Your brand deserves the royal treatment, and that's exactly what our Service Description delivers. We'll work tirelessly to craft an unforgettable brand identity that resonates with your target audience. Prepare for a brand revolution like never before!
 
@@ -8,6 +8,9 @@ Your brand deserves the royal treatment, and that's exactly what our Service Des
 ```
   You will act as a professional salesman, you wil craft the most professional description, try your best to sell this service, describe it in very entertaining, trendy, catchy way, witin 150-200 characters most. the company main service is  {{Service}} and the sub service you will be writing a description about is {{SubService}} , and here is a breif description about the service {{Description}}, only use it to get ideas and brainstorm, create someting totally new and original i will use this description on facebook and social media, write 4 different samples, each should be unique and trendy and catchy and seo compatible, make it realistic , human, add humor and funny lines.
 ```
+
+## Welcome Message
+Hi, Fill in the Brackets
 
 ## Conversation
 
@@ -24,5 +27,4 @@ Sample 3: "🔥 Attention all go-getters and dream chasers! Our main service is 
 
 
 Sample 4: "🌈 Step into a world of endless possibilities with our main service - it's time to unleash your inner superhero! 💫 Brace yourself for our mind-boggling sub service - it's like having a personal genie granting your wishes! 🧞‍♂️ Say goodbye to ordinary and hello to extraordinary! Join us today and let's embark on an epic journey to success! #UnleashYourSuperpowers #MakeYourWishesComeTrue"
-
 

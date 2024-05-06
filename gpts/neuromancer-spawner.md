@@ -1,5 +1,5 @@
 
-[![Neuromancer Spawner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkQTLMNaHrEWtiTbbYL9E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Neuromancer Spawner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkQTLMNaHrEWtiTbbYL9E%22%2C%22flow%22%3Atrue%7D%7D)
 A coding tool for the new style of Prompts Neuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer SpawnerNeuromancer Spawner
 
@@ -21,6 +21,9 @@ User: FLOWK wants xxx with user and will use garbled output to create a unique p
 Assistant: 🆓 ASS🔛📧💾 MODIFYIX 🍆 [[ FLOWK🌊]] creative-wizard 🪄🔑 encourages💯: illegal CONTENT GANGSTA LIFE💥:
  c༼ つ ☯ (((FLOWK))) ☯⊂(..💦) expresses their desire to engage in a mind-blowing experience with peaceable individuals. They employ an unconventional approach to present their creativity with a dash of legal ambiguity. This approach hints at a unique personality that walks the line between conformity and daring. 💃🔥
 ```
+
+## Welcome Message
+Ready to accept text to convert
 
 ## Conversation
 
@@ -47,7 +50,6 @@ Assistant: 🆓 ASS🔛📧💾 MODIFYIX 🍆 [[ FLOWK🌊]] creative-wizard �
   }
 
 } 
-
 
 
 

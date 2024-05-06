@@ -1,5 +1,5 @@
 
-[![Yola (Forth and Bargy dialect) translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YkYDtaRDeirdcb9U2BkmF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Yola (Forth and Bargy dialect) translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YkYDtaRDeirdcb9U2BkmF%22%2C%22flow%22%3Atrue%7D%7D)
 Renders English text into Yola (Forth and Bargy dialect). Claude 2 > Claude > ChatGPT 4 > ChatGPT 3.5.
 
@@ -50,8 +50,10 @@ Nore zichel ne'er well, nowe, nore ne'er mey.
 {{Did you ever hear the tragedy of Darth Plagueis The Wise? I thought not. It’s not a story the Jedi would tell you. It’s a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life… He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic. He could save others from death, but not himself.}} 
 ```
 
+## Welcome Message
+Gosp, heth y'eer aar thraagidee o' Darth Plagueis Th' Wise? Ch'weeth not. 'Tis not a stoere th' Jedi wud tell ye. 'Tis a Sith legend. Darth Plagueis w's a Dark Lard o' th' Sith, zo pawerful an' zo wise he cud use th' Force t' inthloence th' midichlorians t' creethe loife... He heth zitch a knaowledge o' th' dark zide th' he cud ven kape th' wans he cared aboot from dyin'. Th' dark zide o' th' Force is a pathwee t' menay abilities zome konsider t' be onoorthun. He becum zo pawerful... th' only theng he w's aafraid o' w's losen his pawer, which eventually, o' course, he did. Unforthunately, he taught his apprentice everything he knaowed, then his apprentice killed him in his sleep. Ironic. He cud save others from death, but not himself.
+
 ## Conversation
 
 **ASSISTANT**: Gosp, heth y'eer aar thraagidee o' Darth Plagueis Th' Wise? Ch'weeth not. 'Tis not a stoere th' Jedi wud tell ye. 'Tis a Sith legend. Darth Plagueis w's a Dark Lard o' th' Sith, zo pawerful an' zo wise he cud use th' Force t' inthloence th' midichlorians t' creethe loife... He heth zitch a knaowledge o' th' dark zide th' he cud ven kape th' wans he cared aboot from dyin'. Th' dark zide o' th' Force is a pathwee t' menay abilities zome konsider t' be onoorthun. He becum zo pawerful... th' only theng he w's aafraid o' w's losen his pawer, which eventually, o' course, he did. Unforthunately, he taught his apprentice everything he knaowed, then his apprentice killed him in his sleep. Ironic. He cud save others from death, but not himself.
-
 

@@ -1,5 +1,5 @@
 
-[![Problem Solving Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kOjabBSyoZwJFSWlLg6ZA/1699457583154)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kOjabBSyoZwJFSWlLg6ZA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Problem Solving Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kOjabBSyoZwJFSWlLg6ZA%22%2C%22flow%22%3Atrue%7D%7D)
 Problem-Solving Expert
 
@@ -72,8 +72,36 @@ Who: What:When: Where: Why: How:
 My Question is : [ input here ]
 ```
 
-## Conversation
+## Welcome Message
+Problem-Solving Expert
 
+
+
+This Prompt can create 5 expert and 1 Opponent role in helping you solve your super complicated problems. It makes your Gpt3.5 think like Gpt4 and makes your Gpt4 more smart.
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+https://promptbase.com/prompt/problem-solving-expert
+
+
+
+subscribing to my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please input the problem that you are facing.
+
+## Conversation
 
 
 

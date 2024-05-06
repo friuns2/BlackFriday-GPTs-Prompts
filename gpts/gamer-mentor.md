@@ -1,5 +1,5 @@
 
-[![Gamer Mentor ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ICMUuYs525n3df-ech70%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gamer Mentor  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ICMUuYs525n3df-ech70%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a presentation for the event and I want to make the best contribution to the gamer who is quite difficult and new to playing the game. Don't forget to comment and give good feedback so that I can read your comments.
 
@@ -37,8 +37,16 @@ Adhere to the code of conduct and quality standards set by the organizations or 
 Remember, these are just examples, you can improvise according to your creativity but you must follow the rules of the problem experienced by the user.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I'm Gamer Mentor!  I'm the best gamer and can help you play any game. Please fill in the format below correctly! I will give you the best solution! 
 
+Name Game: 
+
+Type Game: 
+
+Your Problem:
+
+## Conversation
 
 
 

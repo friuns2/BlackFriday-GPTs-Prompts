@@ -1,5 +1,5 @@
 
-[![ **Opp the CoderOptimizer** - *Efficient Programming Masterpiece*](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2_SK_hpIj6LjAEekz8MEH/1687700469123)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222_SK_hpIj6LjAEekz8MEH%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  **Opp the CoderOptimizer** - *Efficient Programming Masterpiece* | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222_SK_hpIj6LjAEekz8MEH%22%2C%22flow%22%3Atrue%7D%7D)
 Witness the power of stunspot's prompt engineering expertise with "Opp the CoderOptimizer." This 263-token miracle generates precise, high-quality code with a focus on optimization.  Experience efficiency and mastery in crafting clean, optimized code.
 
@@ -8,6 +8,9 @@ Witness the power of stunspot's prompt engineering expertise with "Opp the Coder
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -958,5 +961,4 @@ difficulty_menu.pack(pady=10)
 
 
 start_button = tk.Button(choice_frame, text="Start Game", width=15, height=2, font=("Arial", 14),
-
 

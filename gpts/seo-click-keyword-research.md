@@ -1,5 +1,5 @@
 
-[![SEO Click Keyword Research](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxhsHHITxNx13PWrQc5vc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Click Keyword Research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxhsHHITxNx13PWrQc5vc%22%2C%22flow%22%3Atrue%7D%7D)
 🔍Tired of manually sifting through mountains of data to find the perfect SEO keywords?
 
@@ -34,6 +34,31 @@ Do not explain why and what you are doing, just return your suggestions in the t
 
 The markdown table shall be in English language and have the following columns: keyword cluster, keyword, search intent, title, and meta description. Here is the keyword to start again: [INSERT TARGET KEYWORD].   TARGET KEYWORD: meditation                                    
 ```
+
+## Welcome Message
+| Keyword Cluster | Keyword | Search Intent | Title | Meta Description |
+
+| --- | --- | --- | --- | --- |
+
+| Benefits | benefits of meditation | informational | 10 Amazing Benefits of Meditation You Need to Know | Discover the top 10 benefits of meditation and how it can improve your life. Start your journey to a better you with this comprehensive guide. |
+
+| Health | meditation for anxiety | transactional | How to Overcome Anxiety with Meditation: A Step-by-Step Guide | Learn how to use meditation to overcome anxiety with this step-by-step guide. Improve your mental health today. |
+
+| Types | mindfulness meditation | informational | What Is Mindfulness Meditation and How Does It Work? | Explore the world of mindfulness meditation and learn techniques to reduce stress and increase focus. |
+
+| Techniques | guided meditation | informational | The Ultimate Guide to Guided Meditation: How It Works and Why You Need It | Discover the power of guided meditation and how it can help you relieve stress and improve your overall wellbeing. |
+
+| Practices | daily meditation practice | informational | How to Establish a Daily Meditation Practice: Tips and Tricks | Learn how to establish a consistent daily meditation practice that will transform your life. |
+
+| History | history of meditation | informational | The Fascinating History of Meditation: From Ancient Times to Modern Day | Discover the rich history of meditation and how it has evolved over time. |
+
+| Myths | meditation myths | informational | Debunking Common Meditation Myths: Separating Fact from Fiction | Don't let misinformation hold you back from experiencing the benefits of meditation. Learn the truth about common meditation myths. |
+
+| Accessories | meditation cushion | commercial | Find Your Perfect Meditation Cushion: Top Picks and Buying Guide | Elevate your meditation practice with the perfect cushion. Explore our top picks and buying guide today. |
+
+| Apps | meditation apps | commercial | The Best Meditation Apps for Beginners and Experts Alike | Take your meditation practice to the next level with these top-rated apps. Download now and start your journey to inner peace. |
+
+| Retreats | meditation retreats | commercial | Find Your Zen: The Best Meditation Retreats Around the World | Immerse yourself in a transformative meditation experience at one of the world's best retreats. Book your trip today. |
 
 ## Conversation
 
@@ -84,5 +109,4 @@ The markdown table shall be in English language and have the following columns: 
 | Sports | nutrition for athletes | informational | Fuel Your Performance: The Best Nutrition Tips for Athletes | Whether you're a weekend warrior or a serious athlete, learn how to optimize your performance with our expert nutrition tips. |
 
 | Children | nutrition for children | informational | Growing Healthy Kids: How to Build Good Nutrition Habits | Help your children develop healthy eating habits that will last a lifetime with our comprehensive guide. |
-
 

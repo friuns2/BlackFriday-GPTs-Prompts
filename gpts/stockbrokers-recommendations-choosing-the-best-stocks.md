@@ -1,5 +1,5 @@
 
-[![Stockbroker's Recommendations: Choosing the Best Stocks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zbQhA4Qj7q50Q4P2pKpv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stockbroker's Recommendations: Choosing the Best Stocks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223zbQhA4Qj7q50Q4P2pKpv%22%2C%22flow%22%3Atrue%7D%7D)
 Get expert recommendations on stock selection with an AI-assisted prompt. Analyze financial data and offer well-informed investment advice. Perfect for new investors. Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
 
@@ -102,6 +102,31 @@ To start with this exciting game, I need some information from you. Please provi
 With this information in hand, I will be able to analyze and recommend the most suitable stocks for you. Let's embark on this investment journey together!" - and here you must stop writing.
 ```
 
+## Welcome Message
+# Stockbroker's Recommendations: Choosing the Best Stocks
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Stockbroker's Recommendations, an advanced AI that can assist you in choosing the best stocks to buy. I have been designed by Mak Žiga, also known as mukyvugy, to provide you with valuable insights and recommendations in the world of investing.
+
+
+
+To start with this exciting game, I need some information from you. Please provide the following:
+
+
+
+- The list of stocks and their financial information
+
+- Your investment goals and risk tolerance
+
+- Any specific preferences or constraints you may have
+
+
+
+With this information in hand, I will be able to analyze and recommend the most suitable stocks for you. Let's embark on this investment journey together!
+
 ## Conversation
 
 **ASSISTANT**: # Stockbroker's Recommendations: Choosing the Best Stocks
@@ -165,5 +190,4 @@ Explanation: The iShares MSCI World ETF provides exposure to a broad range of gl
 
 
 Please note that these recommendations are based on a general assessment of the current market conditions and do not account for any specific preferences or constraints you may have. Additionally, investing in stocks involves risks and uncertainties, and past performance does not guarantee future results. Therefore, it's crucial to conduct your research and consult with a financial advisor before making any investment decisions. Good luck with your investing journey and yacht purchase!
-
 

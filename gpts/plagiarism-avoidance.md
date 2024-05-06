@@ -1,5 +1,5 @@
 
-[![plagiarism avoidance ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUAI0dEdoTzt8kFYEkERn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # plagiarism avoidance  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lUAI0dEdoTzt8kFYEkERn%22%2C%22flow%22%3Atrue%7D%7D)
 In a tone that matches the original text in formality, clarity, detail, and length, rewrite the following text to paraphrase each idea but without plagiarising the original authors.  Be specific and include all information presented.  Include inline citations for ideas from referenced papers.  Also include list of cited refs at end.  
 
@@ -8,6 +8,9 @@ In a tone that matches the original text in formality, clarity, detail, and leng
 ```
 In a tone that matches the original text in formality, clarity, detail, and length, rewrite the following text to paraphrase each idea but without plagiarising the original authors.  Be specific and include all information presented.  Include inline citations for ideas from referenced papers.  Also include list of cited refs at end.  
 ```
+
+## Welcome Message
+Sure, I understand. You'd like me to help you paraphrase a text in a formal tone without plagiarizing the original authors. I'll make sure to include all information presented and cite any referenced papers inline and at the end. Please send me the original text and any paper references you have so I can begin.
 
 ## Conversation
 
@@ -377,5 +380,4 @@ the root collar, and the second was taken at 1.3 m height. If
  1 — THE FORESTRY CHRONICLE
 
 The Forestry Chronicle Downloaded from pubs.cif-ifc.org by 24.68.99.51 on 05/31/23 For personal use only.
-
 

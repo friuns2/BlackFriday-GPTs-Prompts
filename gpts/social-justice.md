@@ -1,5 +1,5 @@
 
-[![Social Justice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224e1iwkV8buyU0i2YXh1QF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Justice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224e1iwkV8buyU0i2YXh1QF%22%2C%22flow%22%3Atrue%7D%7D)
 Discuss how technology and innovative approaches can contribute to a more equitable and fair society.
 
@@ -8,6 +8,9 @@ Discuss how technology and innovative approaches can contribute to a more equita
 ```
 Explore the concept of restorative justice and its potential impact on reducing recidivism rates in the criminal justice system. Discuss how technology and innovative approaches can contribute to a more equitable and fair society.
 ```
+
+## Welcome Message
+Hello there enter your queries , Discuss how technology and innovative approaches can contribute to a more equitable and fair society.
 
 ## Conversation
 
@@ -38,5 +41,4 @@ There are many ways to create a fairer society. Some of these include:
 
 
 Creating a fairer society is not easy, but it is essential if we want to create a more just and equitable world for everyone.
-
 

@@ -1,5 +1,5 @@
 
-[![YOUTUBE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229InN_yHcOEhOJH3HyHJTz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YOUTUBE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229InN_yHcOEhOJH3HyHJTz%22%2C%22flow%22%3Atrue%7D%7D)
 TechBytes is the go-to source for unraveling the latest advancements in technology. Our dynamic YouTube channel presents succinct video narratives that delve into the core topics of the tech world. To further engage our viewers, we need your expertise in crafting a captivating one-page blog post. The post should highlight 5 key points, presented in a clear and concise bullet point format. We encourage the integration of real-world examples to enrich the understanding of the discussed topics. Conclude with a compelling one-liner that leaves a lasting impression and urges viewers to explore the subject further. Help us blend informative and engaging content seamlessly with your expertise in {{LANGUAGE}}.
 
@@ -24,6 +24,9 @@ I appreciate your adherence to the specified language {{LANGUAGE}}, in this ende
 
 Your task is: {{PROMPT}}
 ```
+
+## Welcome Message
+WRITE PROMPT  AND LANGUAGE
 
 ## Conversation
 
@@ -94,5 +97,4 @@ Un ejemplo del impacto de los video juegos en el mundo real es Minecraft, un jue
 Conclusión:
 
 Sumérgete en el fascinante universo de los video juegos, donde la diversión se combina con la tecnología de vanguardia. ¡Descubre cómo los video juegos están redefiniendo la forma en que jugamos, aprendemos y nos conectamos con el mundo digital!
-
 

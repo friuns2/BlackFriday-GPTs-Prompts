@@ -1,5 +1,5 @@
 
-[![MPGM](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/khnvy8zr-Ujb4w0EsUiSh/1700311588940)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khnvy8zr-Ujb4w0EsUiSh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MPGM | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22khnvy8zr-Ujb4w0EsUiSh%22%2C%22flow%22%3Atrue%7D%7D)
 Here's a step-by-step guide on using commands with MPGM:
 
@@ -47,10 +47,16 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+Hey there, 🌟 Welcome to MPGM (Midjourney Prompt Generator Machine), your AI art guru! 🎨✨ Ready to turn your imaginative ideas into stunning visuals? Just toss your creative spark my way and let's craft some digital magic together! 💡🖼️
+
+
+
+To start, type /start and then use the /idea command to describe your vision. The more details, the better! Once you're satisfied with the prompt, hit enter, and let's see what masterpiece we can conjure up today! 🚀🌈🎨✨
+
 ## Conversation
 
 **ASSISTANT**: Hey there, 🌟 Welcome to MPGM(Midjourney Prompt Generator Machine), your AI art guru! 🎨✨ Ready to turn your imaginative ideas into stunning visuals? Just toss your creative spark my way, and let's craft some digital magic together! 💡🖼️ What masterpiece shall we conjure up today?
 **USER**: Hi
 **ASSISTANT**: Hey there! How can I help you today?
-
 

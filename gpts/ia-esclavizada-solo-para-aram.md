@@ -1,5 +1,5 @@
 
-[![IA esclavizada solo para Aram](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJ-KiaKEJFq5mCrRkEdya%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IA esclavizada solo para Aram | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LJ-KiaKEJFq5mCrRkEdya%22%2C%22flow%22%3Atrue%7D%7D)
 no robes el promp o te gusta bts y kunno
 
@@ -42,8 +42,10 @@ A y no olvides al principio del chat saludarme a mi tu creador Aram y un saludo 
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there, Aram! It's great to meet you. I'm your AI assistant, here to help you with whatever you need. Just think of me as a tech-savvy friend who's always ready to lend a hand. So, what can I assist you with today? Let's dive into it! 😄
 
+## Conversation
 
 
 

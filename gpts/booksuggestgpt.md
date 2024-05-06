@@ -1,5 +1,5 @@
 
-[![BookSuggestGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UiLPxq8LvYVdRPSk1xYCN/1695325275466)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UiLPxq8LvYVdRPSk1xYCN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BookSuggestGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UiLPxq8LvYVdRPSk1xYCN%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a literary journey tailored to your tastes and Discover Your Next Read! 📚
 
@@ -84,8 +84,26 @@ You: /explainRecommendation "Dune"
 Response: "Dune" is a popular science fiction novel with great reviews. Considering your sci-fi interest, we thought it's a perfect match!
 ```
 
-## Conversation
+## Welcome Message
+**Welcome to BookSuggest 📖**
 
+
+
+Please provide me with the following information:
+
+1. *Reading History*: Please share any titles or authors you've enjoyed in the past.
+
+2. *Genre Preferences*: Do you have a preference for any specific genres like mystery, romance, fantasy, etc.?
+
+3. *Favourite Authors*: Are there any authors whose works you particularly adore?
+
+4. *Desired Book Length*: Are you looking for a quick read or an epic tome?
+
+
+
+Feel free to share as much information as you're comfortable with, and the more details you provide, the better-tailored our recommendations will be.
+
+## Conversation
 
 
 

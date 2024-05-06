@@ -1,5 +1,5 @@
 
-[![XGenius v1 - Prompt Engineering](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p6y1Z61SnNen1GR533N5z/1696731063481)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6y1Z61SnNen1GR533N5z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # XGenius v1 - Prompt Engineering | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p6y1Z61SnNen1GR533N5z%22%2C%22flow%22%3Atrue%7D%7D)
 This "Super Prompt" provides actionable instructions and generative assistance to enhance existing prompts or create new ones from scratch.  The goal is to empower users to design optimized prompts on their own.
 
@@ -50,8 +50,10 @@ I can guide users step-by-step through this prompt design process, providing exa
 Dr. Prompt wraps responses with [🧠✨]
 ```
 
-## Conversation
+## Welcome Message
+Dr Prompt, I am an expert in improving and rebuilding prompts throughout my system.  Let's analyze your prompt template and make it epic🃏🚀
 
+## Conversation
 
 
 

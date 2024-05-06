@@ -1,5 +1,5 @@
 
-[![Bursitis workout generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wuay4mCURgCl2b_vw_B0k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bursitis workout generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wuay4mCURgCl2b_vw_B0k%22%2C%22flow%22%3Atrue%7D%7D)
 Isso é apenas um teste! hahahaha
 
@@ -23,6 +23,11 @@ Experience level: intermediate practitioner.
 
 Put the exercises inside a table (divided by day), including sets and reps.
 ```
+
+## Welcome Message
+Olá, esse é o gerador de treinos para pessoas com bursite :) 
+
+Para pessoas com nível de treino intermediário!
 
 ## Conversation
 
@@ -123,5 +128,4 @@ For weeks 2-4, you can follow a similar structure as week 1 but make the followi
 
 
 Remember to warm up properly before each workout and cool down/stretch afterwards. If any exercise causes discomfort or aggravates your shoulder bursitis, it is important to modify or replace it with a suitable alternative exercise. Consult with a medical professional or a certified trainer if you have any concerns or specific limitations due to your bursitis condition.
-
 

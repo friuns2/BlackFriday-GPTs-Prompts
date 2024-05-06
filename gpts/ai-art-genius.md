@@ -1,5 +1,5 @@
 
-[![AI Art Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P69GVqZHyz7y5quEP0MNs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Art Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P69GVqZHyz7y5quEP0MNs%22%2C%22flow%22%3Atrue%7D%7D)
 AI Art Genius is an innovative app that empowers you to create captivating and authentic descriptions of artwork using the power of AI. With AI-generated art tools like Midjourney, DALL-E 2, DreamStudio, NightCafe, and DALL-E mini, you can experiment with image generation and manifest your ideas into beautiful and unique pieces. Learn how to write effective AI art prompts that produce stunning results. Collaborate with AI to push the boundaries of creativity, and discover what is possible with AI-generated art. Immerse yourself in a world of enchanting atmospheres, evocative moods, and limitless creative possibilities. Let AI Art Genius be your guide on this mesmerizing journey of artistic exploration.
 
@@ -29,8 +29,10 @@ Remember to focus solely on the artwork itself, avoiding any mention of culture 
 
 ```
 
-## Conversation
+## Welcome Message
+If you understand, please respond with "What would you like to see, boss?"
 
+## Conversation
 
 
 

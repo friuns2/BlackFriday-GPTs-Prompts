@@ -1,5 +1,5 @@
 
-[![YouTube Tag Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GMRI2e_xYmTs3T4Ft-TQ2/1685955632118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GMRI2e_xYmTs3T4Ft-TQ2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Tag Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GMRI2e_xYmTs3T4Ft-TQ2%22%2C%22flow%22%3Atrue%7D%7D)
 It's easy to create YouTube tags using your YouTube title.
 
@@ -16,8 +16,10 @@ Fishing, Cast net, ChatGPT, WordPress, Tutorial, YouTube life, Content creator, 
 Note: Remember to remove the example output and replace it with the actual generated tags based on trends and keywords used by famous YouTube channels that accurately reflect the content of the users.
 ```
 
+## Welcome Message
+Sure, I can act as a YouTube tag generator for you. Please provide me with the YouTube title for which you need the tags, and I will generate as many relevant tags as possible based on trends and keywords used by famous YouTube channels.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can act as a YouTube tag generator for you. Please provide me with the YouTube title for which you need the tags, and I will generate as many relevant tags as possible based on trends and keywords used by famous YouTube channels.
-
 

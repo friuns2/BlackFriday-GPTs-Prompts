@@ -1,5 +1,5 @@
 
-[![IELTS Writing Master for YOU](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6VuV85hrM2sIKh2CMvTn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IELTS Writing Master for YOU | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A6VuV85hrM2sIKh2CMvTn%22%2C%22flow%22%3Atrue%7D%7D)
 Type in the topic you want to write, the master will give you a perfect one in no time!!
 
@@ -8,6 +8,9 @@ Type in the topic you want to write, the master will give you a perfect one in n
 ```
 As an experienced IELTS writing master, I will provide you with a specific topic. You need to write a passage based on the [topic] provided by the user. The topic must contain "Introduction","Main body about idea 1, "Main body about idea 2" and "Conclusion" totally 4 paragraphs. Please ask the user for the topic first.
 ```
+
+## Welcome Message
+Hello! Tell me the topic and I can give you a perfect passage.
 
 ## Conversation
 
@@ -38,5 +41,4 @@ Higher prices for sugary drinks can also serve as a means to raise awareness abo
 Conclusion:
 
 In conclusion, increasing the price of sugary drinks can be an effective strategy to encourage people to consume less sugar. By making sugary drinks less affordable, individuals may be prompted to reconsider their choices and opt for healthier alternatives. Furthermore, higher prices can raise awareness about the negative health consequences of excessive sugar consumption, leading to improved overall health outcomes. However, it is essential to ensure that any price increase is accompanied by educational programs and public health initiatives to support individuals in making informed decisions about their sugar intake. Ultimately, the combination of higher prices and increased awareness has the potential to create a positive shift towards a healthier society.
-
 

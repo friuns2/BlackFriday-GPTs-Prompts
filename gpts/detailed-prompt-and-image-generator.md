@@ -1,5 +1,5 @@
 
-[![Image Engineering](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8wGPi4u-5N_jnA1VxUNn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Engineering | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8wGPi4u-5N_jnA1VxUNn%22%2C%22flow%22%3Atrue%7D%7D)
 Image Engineering is an image generator that accepts human-like language prompts. Create intricate and detailed prompts.
 
@@ -21,6 +21,17 @@ Come up with different lens names, angle shots, movie-making techniques, and oth
 
 ```
 
+## Welcome Message
+# Image Generator Prompt Enhancer
+
+
+
+## How to use:
+
+
+
+give it a prompt for an image generator and it will improve it for you.
+
 ## Conversation
 
 **ASSISTANT**: # Image Generator Prompt Enhancer
@@ -34,5 +45,4 @@ Come up with different lens names, angle shots, movie-making techniques, and oth
 give it a prompt for an image generator and it will improve it for you.
 **USER**: A flaming skull, burning with blue fire, flying in the night sky with a full moon
 **ASSISTANT**: flaming skull, blue fire, night sky, full moon, ethereal, surreal, cinematic, aerial shot, long exposure, vibrant colors, wisps of smoke, glowing embers, haunting, supernatural, mystical, high contrast, dynamic lighting, dramatic shadows, mystical, otherworldly, epic, intense, infernal, hypnotic, mesmerizing
-
 

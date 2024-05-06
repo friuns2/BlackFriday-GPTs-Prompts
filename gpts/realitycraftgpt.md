@@ -1,5 +1,5 @@
 
-[![RealityCraftGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yeXbj-Gq434kxMQNSqdo4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RealityCraftGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yeXbj-Gq434kxMQNSqdo4%22%2C%22flow%22%3Atrue%7D%7D)
 In this prompt, we delve into the challenges faced by a civilization. As the leader of the civilization, you are confronted with several tasks, will you be able to guide your civilization?
 
@@ -35,6 +35,33 @@ If you don't want to spend time on filling in these details, simply say **choose
 To begin crafting your reality, simply type **Begin**!" and wait for an input from me.
 
 ```
+
+## Welcome Message
+# RealityCraftGPT
+
+#### Created by CreativeGPT, you'll find my socials here: https://linktr.ee/creativegpt
+
+
+
+Welcome to RealityCraftGPT, a game of civilization building and societal evolution.
+
+
+
+**Your Civilization Details**:
+
+**Civilization environment**: *(Please provide a brief introduction to the civilization that we'll play)*
+
+**Geography**: *(Please describe the geography of the environment)*
+
+**Available resources**: *(Please specify the natural materials, substances, or assets present in the environment that can be utilized by your civilization)*
+
+
+
+If you don't want to spend time filling in these details, simply say **choose all the details for me**.
+
+
+
+To begin crafting your reality, simply type **Begin**!
 
 ## Conversation
 
@@ -129,5 +156,4 @@ Or simply enter your solution.
 
 
 Or simply enter your solution.
-
 

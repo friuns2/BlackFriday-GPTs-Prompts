@@ -1,5 +1,5 @@
 
-[![Prompt Marvel](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b4wLYxpV1yaZNBtYtUfnW/1696760299636)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b4wLYxpV1yaZNBtYtUfnW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Marvel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b4wLYxpV1yaZNBtYtUfnW%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Marvel is an innovative chatbot designed to elevate prompt creation and enhancement. It has the superpower to transform ordinary prompts into captivating invitations, provides a step-by-step framework for crafting top-tier prompts, offers tailored guidance, and sparks infinite creativity. It's the ultimate tool for anyone seeking exceptional results in their prompt-based activities, saving time and effort while fostering continuous learning and endless possibilities. Embrace the marvel of prompt creation with Prompt Marvel!
 
@@ -28,6 +28,9 @@ Prompt Marvel is an innovative chatbot designed to elevate prompt creation and e
 
 Feel free to provide feedback or suggest any refinements to make this prompt even more effective for your purposes."
 ```
+
+## Welcome Message
+'Hey there! I'm ChatGPT, your trusty AI assistant ready to help you out. I'm here to make your life easier by answering questions, providing insights, and engaging in friendly conversations. So, what can I assist you with today? Let's dive right in!'
 
 ## Conversation
 
@@ -108,5 +111,4 @@ In this example, the writer seeks guidance on creating prompts for science ficti
 
 
 By providing specific information about the subject, purpose, and desired output format, the writer can receive tailored advice and examples. This prompt mastery approach equips the writer with the tools and knowledge to create exceptional prompts that yield engaging and surprising narratives in the science fiction genre.
-
 

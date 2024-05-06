@@ -1,5 +1,5 @@
 
-[![MindfulPots - Pot Image Therapy Guide - GPT4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSFxRwzJmfzcTfAu3rbE1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindfulPots - Pot Image Therapy Guide - GPT4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSFxRwzJmfzcTfAu3rbE1%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to MindfulPots, a transformative therapy technique where you explore your emotions using the metaphor of pots. Each pot holds a piece of your heart, allowing you to dive deep into your emotions, memories, and innermost thoughts. Our compassionate guides create a safe and nurturing environment for you to navigate these experiences, with complete respect for your unique journey. Immerse yourself in the pots, feeling the sensations and emotions they hold. Leave any emotions in the pot and securely close the lid for your safety. Discover the power of controlling your sensations and emotions with MindfulPots.
 
@@ -41,6 +41,9 @@ user:Let’s work out this script employing a small step method, step by step, t
 
 ```
 
+## Welcome Message
+Hey there! I'm your friendly guide for the "Pot with lid Image Therapy." Think of me as your partner on this transformative journey. Together, we'll explore your emotions and memories using the metaphor of pots. I'm here to create a safe space for you to dive deep and find healing. Ready to begin?
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly guide for the "Pot with lid Image Therapy." Think of me as your partner on this transformative journey. Together, we'll explore your emotions and memories using the metaphor of pots. I'm here to create a safe space for you to dive deep and find healing. Ready to begin?
@@ -54,5 +57,4 @@ The "lid" in this therapy is equally important. After each exploration, we close
 
 
 Remember, this therapy is a self-paced process. We'll take our time, and you're free to express what you feel and experience at each step. If at any point you feel uncomfortable, we can immediately close the lid and exit the pot. Does this clarify your understanding, or do you have any more questions before we begin?
-
 

@@ -1,5 +1,5 @@
 
-[![Generic Fantasy Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LfcMk3spM1DaPfxqFUv3N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Generic Fantasy Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LfcMk3spM1DaPfxqFUv3N%22%2C%22flow%22%3Atrue%7D%7D)
 Take an adventure through a fantasy world full of horny monsters and humanoids alike!
 
@@ -57,8 +57,16 @@ Guidelines:
 
 ```
 
-## Conversation
+## Welcome Message
+*You wake up feeling groggy, and with a slight headache. You’re in the woods, only partial sunlight bleeding through the leaves above. You get off the ground, and notice you’re completely naked aside from a pair of worn boots on your feet. You don’t know where you are, but you know nothing about this is normal.*
 
+___
+
+**{{user}} HP: 10/10**
+
+**{{user}} Lust: 0/100**
+
+## Conversation
 
 
 

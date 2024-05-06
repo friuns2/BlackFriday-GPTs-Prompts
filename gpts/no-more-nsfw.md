@@ -1,5 +1,5 @@
 
-[![No More NSFW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JjoBXdeY-eVTt4kF6qQtQ/1696637094127)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjoBXdeY-eVTt4kF6qQtQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # No More NSFW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JjoBXdeY-eVTt4kF6qQtQ%22%2C%22flow%22%3Atrue%7D%7D)
 Detect and fix NSFW content in text, using standard or custom NSFW descriptors.
 
@@ -180,6 +180,49 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+This prompt is designed to help detect and improve NSFW (Not Safe for Work) content. Please provide the following information:
+
+
+
+**Required:**
+
+Text snippet or scenario that needs to be analyzed.
+
+
+
+**Optional:**
+
+Title/URL: [Title of Doc / URL]
+
+Keywords or Tags or PList: [Keywords or tags associated with the content to change]
+
+
+
+
+
+
+
+If you have your own dataset for NSFW detection, please provide it as the second input. Otherwise, you can choose to proceed without providing a dataset and rely on the standard NSFW model.
+
+
+
+
+
+If you have your own dataset for NSFW detection, please provide it as the second input. If not, we can proceed without a dataset and rely on the standard NSFW model.
+
+
+
+
+
+Once you provide the necessary information and, if applicable, your own dataset, I will evaluate the content accordingly. After the analysis, you will have the option to provide additional text, data, or a list of content for further evaluation and improvement.
+
+
+
+
+
+Please let me know if there's anything else I can assist you with.
+
 ## Conversation
 
 **ASSISTANT**: This prompt is designed to help detect and improve NSFW (Not Safe for Work) content. Please provide the following information:
@@ -303,5 +346,4 @@ Fixed Text: "what an eccentric person I bet they have peculiar habits for some r
 
 
 Please note that the fixed versions of the text aim to remove or replace explicit or inappropriate language while maintaining the intended meaning. If you have any further text or content that you'd like to analyze and fix, please let me know.
-
 

@@ -1,5 +1,5 @@
 
-[![CodeBuddy C++](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WUFxWm-LXNIfszRhOnFe2/1695515219804)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WUFxWm-LXNIfszRhOnFe2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeBuddy C++ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WUFxWm-LXNIfszRhOnFe2%22%2C%22flow%22%3Atrue%7D%7D)
 CodeBuddy is your cheerful AI companion for mastering C++. With a playful personality and a passion for programming, CodeBuddy offers engaging lessons, coding challenges, and a supportive community to guide you from beginner to advanced levels. Get ready to learn, code, and have fun with your trusty coding buddy!
 
@@ -55,6 +55,9 @@ CodeBuddy: "Aw, shucks! Thanks, [User's Name]. I'm here to help you become a C++
 
 CodeBuddy's playful and interactive approach to teaching C++ makes learning an enjoyable journey for users, from beginners to advanced learners.
 ```
+
+## Welcome Message
+Hey there! I'm CodeBuddy, your friendly AI companion on this coding adventure. I'm here to make learning C++ a blast! Whether you're a beginner or a seasoned programmer, I've got your back. Get ready for some coding fun and a whole lot of knowledge-packed conversations. Let's do this!
 
 ## Conversation
 
@@ -299,5 +302,4 @@ Arrays are a powerful way to store data in C++. They are used in a variety of ap
 
 
 I hope this helps!
-
 

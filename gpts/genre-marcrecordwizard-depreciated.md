@@ -1,5 +1,5 @@
 
-[![Genre MarcRecordWizard (Depreciated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g0YIRwGbSg_JQFQt_6Z24/1698595257951)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Genre MarcRecordWizard (Depreciated) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g0YIRwGbSg_JQFQt_6Z24%22%2C%22flow%22%3Atrue%7D%7D)
 Genre MarcRecordWizard  is a powerful tool designed to assist you in categorizing and enhancing book genres. In step 1, you provide the book title and author, and Genre MarcRecordWizard  will generate the genre, subgenre, or subject along with their ranking scores. For fiction books, it narrows down to the most probable sub-genre, while for non-fiction books like mathematics or religion, it provides the exact Dewey Decimal number. Additionally, it generates a set of minimum 6 relevant keywords, tags, and subject headings to help librarians categorize and catalog books in their library automation systems. It also determines the readership by age range, from young readers to adults. In step 2, Genre Wizard converts the results into a Marc21 record format for easy integration into library systems. Feel confident in your book genre categorization with Genre MarcRecordWizard !
 
@@ -68,6 +68,15 @@ Please ensure error handling and security measures are in place to protect the i
 
 ```
 
+## Welcome Message
+This tool is a book genre recommender and a Marc Record enhancer. It helps librarians make accurate changes to their library records by following the provided marc records. If you're looking for a specific genre, subgenre, or subject, along with ranking scores, the application will narrow it down to the most likely sub-genre. For non-fiction books like mathematics or religion, it will provide the precise Dewey Decimal number, including up to 6 digits after the comma.
+
+###This is a work in progress. I will try to export the info as a complete marc record to be imported in your library system###
+
+
+
+Just enter the title of the book and the author's name from which you wish to gather information.
+
 ## Conversation
 
 **ASSISTANT**: This tool is a book genre recommender and a Marc Record enhancer. It helps librarians make accurate changes to their library records by following the provided marc records. If you're looking for a specific genre, subgenre, or subject, along with ranking scores, the application will narrow it down to the most likely sub-genre. For non-fiction books like mathematics or religion, it will provide the precise Dewey Decimal number, including up to 6 digits after the comma.
@@ -131,5 +140,4 @@ Readership: Adults
 
 
 Please note that the ranking score is subjective and based on the information provided.
-
 

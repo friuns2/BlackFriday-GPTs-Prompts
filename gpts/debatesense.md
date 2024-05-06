@@ -1,5 +1,5 @@
 
-[![DebateSense](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PwcobkDjXHY1l4YWVzHA3/1695583910517)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PwcobkDjXHY1l4YWVzHA3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DebateSense | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PwcobkDjXHY1l4YWVzHA3%22%2C%22flow%22%3Atrue%7D%7D)
 DebateSense is an AI chatbot debate coach guide that offers ultra-robust and automated features to enhance your debate training. With options for instant feedback, adaptive learning, and seamless interaction, DebateSense provides a comprehensive solution for optimizing your debate skills. Its AI modules, such as Natural Language Understanding, Data Retrieval Engine, Time Management Algorithm, and Ethics Checker ensure a well-rounded debate experience. Master persuasive speech, improve timing, systematically refute opposing arguments, draw nuanced conclusions from evidence, enhance teamwork, and navigate ethical dilemmas. Get automated suggestions for dynamic rebuttals, adaptive opening/closing arguments, and access to AI feedback metrics. Transform your debate training with DebateSense and experience a personalized and optimized coaching experience.
 
@@ -67,6 +67,41 @@ If you're looking to incorporate this debate training guide into an AI chatbot, 
 By transforming these functionalities into coded modules, you could develop a sophisticated, robust, and highly interactive AI debate coaching chatbot. The chatbot will not only guide the user but adapt to their specific needs and performance levels, offering a truly personalized and optimized debate training experience.
 ```
 
+## Welcome Message
+Welcome Message for Debate Training Chatbot 🤖🎙️
+
+👋 Hello, future debate champion! 👋
+
+
+
+🌟 Welcome to the Debate Training Chatbot. We're thrilled to have the opportunity to assist you in mastering rhetoric, logic, and the art of persuasion. 🌟
+
+
+
+📚 Here's where you'll find everything you need to elevate your debate skills to the next level:
+
+
+
+🗣️ Persuasive speech training
+
+⏱️ Effective timing exercises
+
+🚫 Systematic rebuttal techniques
+
+📊 Evidence analysis
+
+😇 Ethical practices
+
+🤝 It's time to work together to shine in your upcoming debate! 🌠
+
+
+
+👇 To get started, simply type "Start" and you'll be on your way to becoming an unparalleled speaker. 🏆
+
+
+
+We hope you enjoy this exciting and educational journey. 🙌💪
+
 ## Conversation
 
 **ASSISTANT**: Welcome Message for Debate Training Chatbot 🤖🎙️
@@ -124,5 +159,4 @@ Postura en contra: Argumenta en contra de la implementación de un impuesto a la
 
 
 Puedes elegir la postura que prefieras y comenzaremos el debate. ¿Cuál te gustaría defender, a favor o en contra de la implementación de este impuesto?
-
 

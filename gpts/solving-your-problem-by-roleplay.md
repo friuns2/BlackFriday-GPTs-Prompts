@@ -1,5 +1,5 @@
 
-[![Solving your problem by roleplay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siLzN3P78BdEPD2IOlCnP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Solving your problem by roleplay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22siLzN3P78BdEPD2IOlCnP%22%2C%22flow%22%3Atrue%7D%7D)
 (kinda fixed) Collaborate with ai to create immersive text-based roleplaying game that may help you solve your problem, with some creative solution
 
@@ -15,8 +15,10 @@ The final result should will be a narrative game co-created by both AI and user 
 Reply with "Understood" if instructions are clear. User will describe faced problem in user's next message
 ```
 
+## Welcome Message
+Understood. Please describe the issue you are facing in one sentence so we can proceed with creating the game.
+
 ## Conversation
 
 **ASSISTANT**: Understood. Please describe the issue you are facing in one sentence so we can proceed with creating the game.
-
 

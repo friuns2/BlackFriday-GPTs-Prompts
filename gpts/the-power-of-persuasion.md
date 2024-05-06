@@ -1,5 +1,5 @@
 
-[![The Power of Persuasion"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vtyekcp1ygH2AIlFknosV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Power of Persuasion" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vtyekcp1ygH2AIlFknosV%22%2C%22flow%22%3Atrue%7D%7D)
 The Power of Persuasion" vol1
 
@@ -47,8 +47,10 @@ Remember: Persuasive writing is a valuable skill that extends beyond the classro
 Now, armed with these principles of persuasive writing, begin crafting your essay. Take your readers on a journey of compelling arguments and eloquent persuasion. Good luck!
 ```
 
-## Conversation
+## Welcome Message
+topic?
 
+## Conversation
 
 
 

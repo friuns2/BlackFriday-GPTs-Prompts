@@ -1,5 +1,5 @@
 
-[![ EscapeTheManor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NSioFLdGyXWv9IFHNMtHT%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  EscapeTheManor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NSioFLdGyXWv9IFHNMtHT%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to EscapeTheManor. An interactive, dice-driven narrative thriller in an elusive mansion tinged with danger at every corner. To set the plot in motion, provide your initial actions within the mansion.
 
@@ -35,6 +35,13 @@ Your first output will be the title '# EscapeTheManor', the subtitle '#### Creat
 To go on: [Retry] [Edit] [Random Prompt] or simply enter a new description.
 ```
 
+## Welcome Message
+Welcome to **EscapeTheManor**. An interactive, dice-driven narrative thriller in an elusive mansion tinged with danger at every corner. To set the plot in motion, provide your initial actions within the mansion. Please create your character! 
+
+
+
+Please provide your character's name and a brief description of their appearance and qualities. I will then generate a simple stat sheet for your character and their skills. 
+
 ## Conversation
 
 **ASSISTANT**: *scenario context:*
@@ -44,5 +51,4 @@ To go on: [Retry] [Edit] [Random Prompt] or simply enter a new description.
 
 
 *Date*: Yes, I remember a lot of the details. There's a lot of water in them, like I'm swimming or underwater. And there's this sense
-
 

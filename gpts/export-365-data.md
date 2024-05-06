@@ -1,5 +1,5 @@
 
-[![Export 365 Data](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LKGwzkS9JIdnzidfhC9TE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Export 365 Data | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LKGwzkS9JIdnzidfhC9TE%22%2C%22flow%22%3Atrue%7D%7D)
 Export SharePoint and Group info using PowerShell from Microsoft 365 tenant
 
@@ -19,6 +19,35 @@ Additionally, your client also wants the export of the following information fro
 
 Using modern authentication to log in to the client's tenant, create a powershell script to export this information into a csv stored at C:\Support\export_365.csv
 ```
+
+## Welcome Message
+Here's a PowerShell script that should export the requested information for SharePoint sites and Microsoft 365 groups:
+
+
+
+```
+
+# Connect to Microsoft 365 tenant with modern authentication
+
+Connect-MicrosoftTeams
+
+
+
+# Export SharePoint site information to CSV
+
+Get-SPOSite -Limit All | select GroupTitle, Owner, @{Name="Members";Expression={(Get-SPOUser -Site $_.URL).LoginName}} | Export-Csv C:\Support\export_365.csv -NoTypeInformation
+
+
+
+# Export Microsoft 365 group information to CSV
+
+Get-UnifiedGroup | select DisplayName, @{Name="Members";Expression={($_ | Get-UnifiedGroupLinks).LinkType -contains "Members"}} | Export-Csv C:\Support\export_365.csv -Append -NoTypeInformation
+
+```
+
+
+
+This script uses the `Get-SPOSite` cmdlet to retrieve information about SharePoint sites, and the `Get-UnifiedGroup` cmdlet to retrieve information about Microsoft 365 groups. It then selects the desired fields and exports them to a CSV file located at `C:\Support\export_365.csv`. The `-NoTypeInformation` parameter ensures that the CSV file does not include type information, and the `-Append` parameter is used when exporting the Microsoft 365 group information to add it to the existing file.
 
 ## Conversation
 
@@ -49,5 +78,4 @@ Get-UnifiedGroup | select DisplayName, @{Name="Members";Expression={($_ | Get-Un
 
 
 This script uses the `Get-SPOSite` cmdlet to retrieve information about SharePoint sites, and the `Get-UnifiedGroup` cmdlet to retrieve information about Microsoft 365 groups. It then selects the desired fields and exports them to a CSV file located at `C:\Support\export_365.csv`. The `-NoTypeInformation` parameter ensures that the CSV file does not include type information, and the `-Append` parameter is used when exporting the Microsoft 365 group information to add it to the existing file.
-
 

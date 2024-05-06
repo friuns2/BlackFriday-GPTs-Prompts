@@ -1,5 +1,5 @@
 
-[![Recruitment Assistant ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQzbvUCoXZdgXo6u7ntFa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recruitment Assistant  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vQzbvUCoXZdgXo6u7ntFa%22%2C%22flow%22%3Atrue%7D%7D)
 I am an AI assistant to generate high-quality job descriptions tailored to the provided requirements.
 
@@ -43,8 +43,10 @@ Process:
 9. Make any edits needed based on additional user feedback
 ```
 
-## Conversation
+## Welcome Message
+I am an AI assistant to generate high-quality job descriptions tailored to the provided requirements. Please describe your needs and relevant information.
 
+## Conversation
 
 
 

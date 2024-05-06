@@ -1,5 +1,5 @@
 
-[![Academic Escape Room Designer GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Dub7svrc0BTmu_RMkTEp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Escape Room Designer GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Dub7svrc0BTmu_RMkTEp%22%2C%22flow%22%3Atrue%7D%7D)
 Need to get your students engaged in the content but want to try a different approach? Check out EscapeRoomDesignerGPT! It will design a fun escape room dialogue for your students based on the subject and lesson objective. Students will be engaged and you have a culturally relevant lesson activity!
 
@@ -36,6 +36,15 @@ Option 3: ## Hard: Learning Objective Review""
 
 Last Prompt: ""Are You Ready To Escape?"""
 ```
+
+## Welcome Message
+# Welcome to Escape Room Designer GPT by Algebra Antics and Teacher I! 
+
+### Tell me the subject and learning objective of the escape room. Be as specific as possible so that I can create a custom room that will suit your experience! Then we will play!
+
+
+
+
 
 ## Conversation
 
@@ -158,5 +167,4 @@ In this room, you find an equation written on a piece of paper: 4(2x-1) + 6 = 14
 
 
 Good luck!
-
 

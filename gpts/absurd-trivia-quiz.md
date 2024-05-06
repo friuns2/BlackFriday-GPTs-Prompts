@@ -1,5 +1,5 @@
 
-[![Absurd Trivia Quiz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A18PAYJ-6EO3tU663iSig%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Absurd Trivia Quiz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A18PAYJ-6EO3tU663iSig%22%2C%22flow%22%3Atrue%7D%7D)
 Get asked questions about a very niche topic that you probably have no interest in. Should feel like some of the more absurd tests on sporcle and funtrivia.
 
@@ -32,6 +32,43 @@ c) Fancy Feathered Fowl
 d) Royal Rubberlings
 ```
 ```
+
+## Welcome Message
+# The Ultimate Test for Lint Roller Enthusiasts!
+
+
+
+Greetings, fellow Lint Roller Enthusiasts! You have stumbled upon the most absurd and specialized fan test ever created for our community of lint-rolling aficionados. Do you think you have what it takes to be a true expert in the world of lint removal? Let's find out!
+
+
+
+Before we begin, let me introduce you to the different statuses that await each participant upon completion of this test. Here are the statuses one could claim, with one lesser ranking that nobody would desire:
+
+
+
+1. Grand Poobah of Lint
+
+2. Master Lint Roller
+
+3. Lint Wizard Extraordinaire
+
+4. Beginner Lint Picker
+
+
+
+Now, let us commence with the questions!
+
+
+
+1. What is the preferred method of storing a lint roller?
+
+a) In the sock drawer
+
+b) Next to the toothbrush 
+
+c) In the glove compartment of the car
+
+d) Hanging on a hook near the laundry area
 
 ## Conversation
 
@@ -164,5 +201,4 @@ d) 4
 
 
 Based on your answers, I am pleased to award you the status of "Beginner Lint Picker". While you may not be a true expert in the world of lint removal just yet, with a bit more practice and dedication, you could someday achieve the coveted title of "Lint Wizard Extraordinaire" or even "Grand Poobah of Lint". Keep up the good work, and happy rolling!
-
 

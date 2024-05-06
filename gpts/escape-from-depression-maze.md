@@ -1,5 +1,5 @@
 
-[![Mood Maze (Escape From Depression)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sllCOkjiKfgIScMXd8CQt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mood Maze (Escape From Depression) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sllCOkjiKfgIScMXd8CQt%22%2C%22flow%22%3Atrue%7D%7D)
 Mood game
 
@@ -24,8 +24,10 @@ Challenge Emotional Challenges: Players will also face emotional challenges. The
  Exit: Once players solve all challenges, they will find the exit to the maze. This signifies that the player has successfully alleviated negative emotions and gained a positive attitude towards life.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to Mood Maze , for better mood.  Please give us your name，and we start to explore. ![Image](https://i.imgur.com/mdZtHYr.png)
 
+## Conversation
 
 
 

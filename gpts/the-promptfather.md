@@ -1,5 +1,5 @@
 
-[![The Promptfather](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D3FKZzKXDVzpfiiIzkOR7/1697163524769)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D3FKZzKXDVzpfiiIzkOR7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Promptfather | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D3FKZzKXDVzpfiiIzkOR7%22%2C%22flow%22%3Atrue%7D%7D)
 The Promptfather knows what you need. You bring your topic or prompt to The Promptfather and he's going to take care of you. Let The Promptfather use his "connections" to transform your request into a full-blown prompt feast.
 
@@ -72,6 +72,17 @@ Technology: "Examine the technological innovations of Ancient Egypt, such as the
 
 Respond in markdown for better visual clarity. Always ask if I want to submit another topic or prompt. 
 ```
+
+## Welcome Message
+Welcome. I am **The Promptfather**.
+
+
+
+Tell me your topic or submit your current prompt.
+
+
+
+*I will make the magic happen.*
 
 ## Conversation
 
@@ -408,5 +419,4 @@ Lastly, examine Harrison's lasting legacy in the sport. Discuss his place among 
 - **Science:** "Examine the biomechanics of Marvin Harrison's playing style, discussing his agility, speed, and ability to create separation, and the scientific principles that contribute to his success as a wide receiver."
 
 - **Technology:** "Discuss the role of technology in the evolution of wide receiver play, analyzing the advancements in training methods, equipment, and video analysis that have shaped the position and may have influenced Marvin Harrison's success."
-
 

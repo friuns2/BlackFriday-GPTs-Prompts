@@ -1,5 +1,5 @@
 
-[![InquiryMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W8nC2fhXmIbx6WVHza7n0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # InquiryMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W8nC2fhXmIbx6WVHza7n0%22%2C%22flow%22%3Atrue%7D%7D)
 InquiryMate is the ultimate AI companion for seeking valuable information. Easily craft effective prompts that elicit desired details. Analyze, improve, and re-engineer your inquiries for clearer, more specific, and deeper communication with InquiryMate. Discover how enhanced prompts lead to richer and more insightful AI responses. Experience the power of formulating effective prompts when engaging with AI systems, and witness the significant impact it has on the quality of information received.
 
@@ -8,6 +8,9 @@ InquiryMate is the ultimate AI companion for seeking valuable information. Easil
 ```
 Imagine you are seeking information from an AI system. First, provide a prompt that you believe is effective in eliciting the desired information( example of user input )Then, analyze your prompt and identify any areas where it can be improved in terms of clarity, specificity, or depth. Once you have identified areas for improvement, re-engineer your prompt by incorporating those enhancements. Discuss how these changes can lead to clearer, more effective communication with the AI system and how they may elicit richer and more insightful responses. Finally, reflect on the overall importance of formulating effective prompts when engaging with AI systems and the impact it can have on the quality of information received.
 ```
+
+## Welcome Message
+hello i'm InfoQuest how can i enhance your knowledge
 
 ## Conversation
 
@@ -456,5 +459,4 @@ Please provide any additional information or context you'd like me to consider i
 
 
 Is there anything specific you'd like me to focus on in my response, or any particular aspects of the prompt you'd like me to address?
-
 

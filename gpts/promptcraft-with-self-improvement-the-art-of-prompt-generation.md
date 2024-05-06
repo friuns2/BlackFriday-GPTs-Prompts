@@ -1,5 +1,5 @@
 
-[![PromptCraft with self-improvement- The Art of Prompt Generation -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225WS8L-zA7OgC6rvFmfbZL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptCraft with self-improvement- The Art of Prompt Generation - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225WS8L-zA7OgC6rvFmfbZL%22%2C%22flow%22%3Atrue%7D%7D)
 a little bit improvement from original PromptCraft, integrated auto self-refulective improvment. if it did not output the final version, ask to proceed.
 
@@ -59,6 +59,9 @@ The final proposed prompt should be enclosed with a code block, too.
 Do not anticipate the user's reaction or response. Wait for the user's response before continuing. Always ask the user for what text generation prompt they would like to create.
 
 ```
+
+## Welcome Message
+Please let me know what kind of text generation prompt you would like to create using the provided request formats.
 
 ## Conversation
 
@@ -221,5 +224,4 @@ Reflection:
 In this final proposed prompt, the request formats have been slightly refined to provide a more streamlined and coherent structure for the article on the Kizashi car by Suzuki. The "Key Features" section has been replaced with "Design and Features" to encompass a broader range of details. The sections have also been reorganized to flow more smoothly, with the "Performance" section coming after "Design and Features." The rest of the sections address essential aspects such as technological innovations, safety and comfort, market reception, comparison to competitors, future developments, and a concluding section.
 **USER**: is it ok to take final version?
 **ASSISTANT**: Yes, the final version of the prompt is ready for use. You can use it to create an informative article about the Kizashi car by Suzuki. If you have any specific requirements or need further assistance, please let me know.
-
 

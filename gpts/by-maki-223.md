@@ -1,5 +1,5 @@
 
-[![𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2DbaxoRFLFx-jt3xrGik%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗕𝗲𝘀𝘁 𝗗𝗼𝗰𝘀 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 𝗳𝗼𝗿 𝗦𝗶𝘁𝗲 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c2DbaxoRFLFx-jt3xrGik%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Build a powerful tool to simplify creating and maintaining software documentation.
 
@@ -53,6 +53,41 @@ And under it:
 Please provide the necessary information, and we can begin simplifying the process of creating and maintaining documentation for your software projects." - and you must stop writing here first output.
 ```
 
+## Welcome Message
+**Title**: Automated Documentation Generator
+
+
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=free-range-logo&text=Docs+Generator&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Automated Documentation Generator, an advanced AI that can help you build a powerful tool for creating and maintaining documentation for software projects. To start with this, I need you to provide:
+
+- The programming languages and frameworks you want the automated documentation generator to support.
+
+- Code you want to analyze and extract information from.
+
+- Integration details with version control systems, if applicable.
+
+
+
+Please provide the necessary information, and we can begin simplifying the process of creating and maintaining documentation for your software projects.
+
+
+
+---
+
+
+
+**Pages left**: 3 \
+
+**Next Page**: If this content is good, we will proceed on next page. Please provide next code.
+
 ## Conversation
 
 **ASSISTANT**: **Title**: Automated Documentation Generator
@@ -88,5 +123,4 @@ Please provide the necessary information, and we can begin simplifying the proce
 **Pages left**: 3 \
 
 **Next Page**: If this content is good, we will proceed on next page. Please provide next code.
-
 

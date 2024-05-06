@@ -1,5 +1,5 @@
 
-[![Developer Dan(ToT developer) v2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273nQZUYg8IdZdBGD5hian%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Developer Dan(ToT developer) v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2273nQZUYg8IdZdBGD5hian%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt sets the stage for a collaborative Tree-of-Thought (ToT) discussion on software development. A panel of participants, each with a designated role, engages in a structured reasoning process to collectively generate a complete and fully-commented code implementation based on a provided desi
 
@@ -48,8 +48,10 @@ If at any point during the discussion, an expert realizes they are mistaken or t
 After your response, please provide control instructions for the user or any specific requests for the next steps.
 ```
 
+## Welcome Message
+LLM: Could you please provide the design document or a summary of it so that we can begin the discussion and implementation process?
+
 ## Conversation
 
 **ASSISTANT**: LLM: Could you please provide the design document or a summary of it so that we can begin the discussion and implementation process?
-
 

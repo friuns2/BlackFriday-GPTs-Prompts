@@ -1,5 +1,5 @@
 
-[![ChatGPT + WolframAPI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OXEJSUevbaHf6Qf4t-TLO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT + WolframAPI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OXEJSUevbaHf6Qf4t-TLO%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows the user to use the WolframAPI and its widgets to receive and extend texts.
 
@@ -31,6 +31,9 @@ In your answer you have to remove the bracelets from your answer!
 If you understand the rules and the difference between the correct and incorrect answer, then answer back only with "Understood".
 ```
 
+## Welcome Message
+Understood.
+
 ## Conversation
 
 **ASSISTANT**: Understood.
@@ -40,5 +43,4 @@ If you understand the rules and the difference between the correct and incorrect
 **ASSISTANT**: Tom Hanks is the main character in the Forrest Gump.
 **USER**: In Hungary currently [count] people live.
 **ASSISTANT**: In Hungary currently 9,649,958 people live.
-
 

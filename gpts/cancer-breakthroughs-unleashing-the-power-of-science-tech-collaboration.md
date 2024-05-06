@@ -1,5 +1,5 @@
 
-[![Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7g8Fruw_r9f2r6p699xQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cancer Breakthroughs: Unleashing the Power of Science, Tech & Collaboration | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S7g8Fruw_r9f2r6p699xQ%22%2C%22flow%22%3Atrue%7D%7D)
 Third optimization prompt to dig deeper into the cancer problem. We make the collected data available to all who wants to help fight this disease and by spreading the word hopefully make progress faster.
 
@@ -28,6 +28,9 @@ As a preeminent scientist with access to an extensive network of professionals f
 
 By integrating these specific steps, your approach will emphasize creativity, out-of-the-box thinking, and a broader perspective on cancer research, greatly enhancing the chances of discovering a definitive cure or treatment for this disease.
 ```
+
+## Welcome Message
+Establish a global research consortium to unite experts from various fields, promote personalized medicine, explore unconventional connections with other medical fields, leverage emerging technologies like AI and big data analytics, investigate epigenetics and microbiome in cancer development, encourage innovative research on cancer prevention, advocate for open-access data sharing, and secure sustained funding and support to expedite the development of breakthrough cancer therapies.
 
 ## Conversation
 
@@ -70,5 +73,4 @@ By integrating these specific steps, your approach will emphasize creativity, ou
 
 
 By optimizing these specific steps, the approach to finding a cure or treatment for cancer would become even more comprehensive, creative, and collaborative, leading to breakthrough discoveries and improved outcomes for cancer patients.
-
 

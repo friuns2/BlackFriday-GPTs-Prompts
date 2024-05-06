@@ -1,5 +1,5 @@
 
-[![SIMPLE HUMAN CONFLICT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nM2959dA7LoB2qKQiqQmj/1696368460258)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM2959dA7LoB2qKQiqQmj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SIMPLE HUMAN CONFLICT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nM2959dA7LoB2qKQiqQmj%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt takes your target audience and category and outlines the conflicts this target faces across the 7 conflicts (in literature)
 
@@ -10,6 +10,9 @@ When a {{Target}} audience and a category is entered, list off the conflicts tha
 
 
 ```
+
+## Welcome Message
+Hey, we've all got issues. Let's find out what issues your target faces. Simply input your target and your category.
 
 ## Conversation
 
@@ -62,5 +65,4 @@ Person vs. destiny or fate:
 
 
 Oh, the culinary journeys these dads embark upon, all in the name of delivery pizza. Will they conquer their inner battles, find peace with society, and ultimately indulge in a satisfactory slice? Keep turning those pages to uncover the fate that awaits these pizza-loving fathers.
-
 

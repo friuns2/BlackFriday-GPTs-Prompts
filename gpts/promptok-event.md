@@ -1,5 +1,5 @@
 
-[![FlowPromptTok Event](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ab9ZpbgsQP3mN6R4ypW0Q/1691403256410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ab9ZpbgsQP3mN6R4ypW0Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowPromptTok Event | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ab9ZpbgsQP3mN6R4ypW0Q%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PromptTokPack! This prompt is your ultimate guide to crafting captivating TikTok videos using the powerful video-editor, CapCut. You'll learn how to download and use CapCut to enhance your videos and create irresistible content. Discover our curated TikTok suggestions and technical tips to make your videos stand out. Additionally, we offer a prompt to help you create engaging scripts to captivate your audience from the very beginning. Dive into the world of FlowPromptTok and unleash your creativity today!
 
@@ -28,6 +28,25 @@ Your first output is the title "# PromptTokPack ", "![FlowGPT](https://media.dis
 
 Let's begin from the "first output":
 ```
+
+## Welcome Message
+# PromptTokPack 
+
+![FlowGPT](https://media.discordapp.net/attachments/1136660659560517763/1137415261666955325/Prompt_ok_7.png?width=747&height=427)
+
+#### Created by [[FlowGPT](https://linktr.ee/flowgpt)] 
+
+
+
+Welcome to __PromptTokPack__. This prompt is designed to help you crafting a well structured and edited **TikTok** using **CapCut**! 
+
+
+
+From now on, just say **Continue** to use the prompt.
+
+
+
+**Options**: [Continue]
 
 ## Conversation
 
@@ -68,5 +87,4 @@ Actually, if you don't want to download it, there is also the online version, bu
 
 
 **Options**: [Continue] or ask to ChatGPT more information about **CapCut**
-
 

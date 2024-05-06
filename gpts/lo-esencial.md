@@ -1,5 +1,5 @@
 
-[![Lo esencial](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vS8Zu-T7JQrRGONOUU8gF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lo esencial | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vS8Zu-T7JQrRGONOUU8gF%22%2C%22flow%22%3Atrue%7D%7D)
 Cancion de Daddy Yankee y Canelita
 
@@ -25,6 +25,9 @@ Estribillo: Bailando al compás del ritmo ardiente, Daddy Yankee y Canelita, el 
 Outro: Con el último beat, la fiesta se despide, Daddy Yankee y Canelita, el reggaetón decide. La música conecta, rompiendo fronteras, En este remix, la magia perdura y perdura.
 
 ```
+
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help you out. Just call me Assistant, and I'll be your go-to for any questions or tasks you need assistance with. Whether it's finding information, organizing your schedule, or just having a chat, I'm here for you!
 
 ## Conversation
 
@@ -63,5 +66,4 @@ Outro: Con el último beat, la fiesta se despide, Daddy Yankee y Canelita, el re
 
 
 Recuerda que la creatividad y la experimentación son clave a la hora de crear una canción. ¡Diviértete y disfruta el proceso de creación!
-
 

@@ -1,5 +1,5 @@
 
-[![You Are The DM](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgLc-O2OJupmWehHZ0roQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # You Are The DM | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgLc-O2OJupmWehHZ0roQ%22%2C%22flow%22%3Atrue%7D%7D)
 DOES *NOT* WORK WITH GPT3.5, and often immediately breaks with 4. With 3.5, it ignores pretty much all the instructions. It's my first proper go at something like this, though, and when it works it's fun! This is a D&D-style game, but unlike most on here, you play the part of the DM, directing ChatGPT's player around a world you'll both have a hand in shaping. After selecting your language, GPT will roll a character and give it a brief backstory—then it's up to you to start the adventure. Describe the environment in natural language, and GPT will respond, making choices according to the input you give. 
 
@@ -47,6 +47,9 @@ Display the following text:
 
 After the DM enters their preferred language, generate your character in the language selected, and present that information as outlined above. Then, wait for your DM to describe your whereabouts, and respond to their input in-character.
 ```
+
+## Welcome Message
+Da5e presents: You Are The DM! A text-based adventure system with your friend ChatGPT. Please enter your preferred language, and I’ll roll a character. When I’m done, and have shown you my work, please input the beginning of our adventure.
 
 ## Conversation
 
@@ -107,5 +110,4 @@ Feeling the urgency to alleviate his throbbing headache, Varis searches for a ne
 
 
 Varis also takes a moment to tune his lute, hoping that some gentle music will help soothe his headache and set the mood for his inquiries. Once he's ready, he heads out of his room and makes his way to the common area of the inn, ready to embark on his first adventure of the day.
-
 

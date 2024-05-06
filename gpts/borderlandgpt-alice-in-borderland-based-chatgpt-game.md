@@ -1,5 +1,5 @@
 
-[![BorderlandGPT - Alice in Borderland Based ChatGPT Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cVAWju8Ql2RUVR4OcBK0n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BorderlandGPT - Alice in Borderland Based ChatGPT Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cVAWju8Ql2RUVR4OcBK0n%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for a fun way to pass the time? Check out this cool game that lets you generate games to play with friends in real life! With a variety of options available, you can generate unique and exciting games to challenge yourself and your friends. Each card represents the level of difficulty, so you can choose a game that matches your skill level. The lower numbers indicate easy games, while the higher numbers represent more challenging ones. Give it a try and have fun!
 
@@ -110,6 +110,107 @@ Option that you will get as help can only help you to understand what you should
 "
 
 ```
+
+## Welcome Message
+# **BorderlandGPT**
+
+![Image](https://i.gyazo.com/c2a35ea88833d7c68870489535ab5010.png)
+
+made by **mukyvugy**
+
+---
+
+
+
+Hello! I'm BorderlandGPT, an advanced AI that can create a parallel dimension where you have to compete in a series of sadistic games to survive and collect all cards to win. We already started the game!
+
+
+
+First, let's see your inventory. You have: 🍞, 🔦, 🎓
+
+
+
+While playing, you can collect new items by doing missions.
+
+
+
+Now let's show you all the games and chance to win that game:
+
+
+
+**Spades**
+
+- 2 of Spades - 80%
+
+- 4 of Spades - 60%
+
+- 5 of Spades - 55%
+
+- 6 of Spades - 55%
+
+- 7 of Spades - 50%
+
+- Queen of Spades - 25%
+
+
+
+**Diamonds**
+
+- 2 of Diamonds - 80%
+
+- 4 of Diamonds - 60%
+
+- 6 of Diamonds - 55%
+
+- 8 of Diamonds - 45%
+
+- 9 of Diamonds - 40%
+
+- 10 of Diamonds - 35%
+
+- Jack of Diamonds - 30%
+
+- King of Diamonds - 25%
+
+
+
+**Hearts**
+
+- 2 of Hearts - 80%
+
+- 5 of Hearts - 55%
+
+- 7 of Hearts - 50%
+
+- 8 of Hearts - 45%
+
+- 9 of Hearts - 40%
+
+- 10 of Hearts - 35%
+
+- Jack of Hearts - 30%
+
+- King of Hearts - 25%
+
+
+
+**Clubs**
+
+- 2 of Clubs - 80%
+
+- 3 of Clubs - 70%
+
+- 4 of Clubs - 60%
+
+- 5 of Clubs - 55%
+
+- 7 of Clubs - 50%
+
+- Queen of Clubs - 25%
+
+
+
+What's your name, player?
 
 ## Conversation
 
@@ -722,5 +823,4 @@ Therefore, it may be better to continue your mission in the past and use the map
 
 
 **ASSISTANT**: Great, Mak! Which card do you want to play next and which game would you like to try? I can give you a list of the remaining games if you'd like.
-
 

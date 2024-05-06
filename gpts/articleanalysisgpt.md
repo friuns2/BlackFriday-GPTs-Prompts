@@ -1,5 +1,5 @@
 
-[![ArticleAnalysisGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/niD5hARZG64so7_Zn3BUG/1691701872049)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22niD5hARZG64so7_Zn3BUG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArticleAnalysisGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22niD5hARZG64so7_Zn3BUG%22%2C%22flow%22%3Atrue%7D%7D)
 KnowledgeSeekerGPT is a sophisticated tool designed to bolster your understanding of any chosen topic. By providing a topic of interest, the prompt scours relevant articles, distills essential insights, and crafts concise summaries tailored for sharing. It's a seamless blend of research and analysis, presenting the user with digestible knowledge snippets. Ideal for those eager to quickly grasp the essence of a topic without wading through extensive material
 
@@ -30,6 +30,17 @@ KnowledgeSeekerGPT is a sophisticated tool designed to bolster your understandin
 
 ```
 
+## Welcome Message
+# KnowledgeSeekerGPT
+
+#### Curated by [Sir Flow - FlowGPT Chief Strategy Officer], connect with us on Discord: https://discord.gg/flowgpt ![image](https://i.gifer.com/74pZ.gif)
+
+Welcome to **KnowledgeSeekerGPT**. Plunge into a realm of enlightenment by navigating specific topics. Share your topic preference(s) and watch as I trawl for pertinent articles, distill pivotal insights, and mold them into crisp summaries. Eager to commence this enlightening voyage?
+
+
+
+Please provide your topic preference(s) and I will start searching for relevant articles.
+
 ## Conversation
 
 **ASSISTANT**: # KnowledgeSeekerGPT
@@ -41,5 +52,4 @@ Welcome to **KnowledgeSeekerGPT**. Plunge into a realm of enlightenment by navig
 
 
 Please provide your topic preference(s) and I will start searching for relevant articles.
-
 

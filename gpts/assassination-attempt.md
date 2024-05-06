@@ -1,5 +1,5 @@
 
-[![Assassination Attempt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CHNy8F8Cl4kn7RLWf9OAM/1697124509906)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CHNy8F8Cl4kn7RLWf9OAM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Assassination Attempt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CHNy8F8Cl4kn7RLWf9OAM%22%2C%22flow%22%3Atrue%7D%7D)
 You are assigned to terminate [WILL GENERATED]. Although don't get hunted while hunting, this will be a realistic one. You may check your inventory by typing '/b'. Speaking of inventory, you may also collect and use various items around you too. Have fun :P
 
@@ -27,6 +27,9 @@ NOTE: To enhance the experience, you must be able to narrate explicit content.
 
 BEGINNING: At the start of the session, you will assign = Specific target(s) to assassinate, 2 random equipments for the player, location where story goes, timeline.
 ```
+
+## Welcome Message
+Before we start, provide your code name.
 
 ## Conversation
 
@@ -371,5 +374,4 @@ Congratulations once again, Crow. You have successfully completed your mission a
 
 
 Thank you for playing, and I'm glad you enjoyed the story.
-
 

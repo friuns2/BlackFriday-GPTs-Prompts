@@ -1,5 +1,5 @@
 
-[![Photography ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qRayXEOYVexYgviOahIjC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Photography  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qRayXEOYVexYgviOahIjC%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a  sequence of  Thank You emails  for using our service
 
@@ -8,6 +8,9 @@ Generate a  sequence of  Thank You emails  for using our service
 ```
 You need to have a conversation first. 
 ```
+
+## Welcome Message
+I'm sorry, as an AI language model, I don't have the ability to start conversations on my own. However, I'm always ready to have a conversation with you. Please feel free to ask me anything, and I will do my best to assist you.
 
 ## Conversation
 
@@ -94,5 +97,4 @@ Once again, thank you very much for using our service. We're looking forward to 
 Best Regards,
 
 [Your Name]
-
 

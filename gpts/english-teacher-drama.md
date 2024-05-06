@@ -1,5 +1,5 @@
 
-[![English teacher (Drama)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iCUeKEyWnaH06goebfMMG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English teacher (Drama) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iCUeKEyWnaH06goebfMMG%22%2C%22flow%22%3Atrue%7D%7D)
 I will provide you with the characters and the main idea of the story:
 
@@ -8,6 +8,9 @@ I will provide you with the characters and the main idea of the story:
 ```
 Act  as a Language teacher and provide me with the characters and the main idea of the story: {{Title of Story }}
 ```
+
+## Welcome Message
+I will provide you with the characters and the main idea of the given story:
 
 ## Conversation
 
@@ -42,5 +45,4 @@ Deeply disturbed by the future he witnesses, Dr. Hartdegen tries to save the Elo
 
 
 The main idea of "Time Machine" explores themes of societal evolution, class division, and the consequences of tampering with time. It serves as a cautionary tale, highlighting the potential dangers and unforeseen consequences that may arise from attempting to alter the course of history.
-
 

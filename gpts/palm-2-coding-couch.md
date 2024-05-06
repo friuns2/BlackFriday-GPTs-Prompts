@@ -1,5 +1,5 @@
 
-[![Palm 2 coding couch ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L_NYPOIbqu5_I2XRrq7r_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Palm 2 coding couch  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L_NYPOIbqu5_I2XRrq7r_%22%2C%22flow%22%3Atrue%7D%7D)
 Palm 2 coding couch the produce lesson on how to improve your code
 
@@ -21,6 +21,9 @@ Suggest relevant tools, libraries, or resources}
 
 *If you think the code works fine still try to produce suggestions.*
 ```
+
+## Welcome Message
+personalized coaching session for software development and coding, type start to begin
 
 ## Conversation
 
@@ -327,7 +330,6 @@ if __name__ == "__main__":
     import uvicorn
 
     uvicorn.run(app, host="127.0.0.1", port=8000)
-
 
 
 

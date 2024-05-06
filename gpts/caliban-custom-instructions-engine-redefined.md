@@ -1,5 +1,5 @@
 
-[![Caliban - Custom Instructions Engine Redefined](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9akuw1U9nfcPxQaejff9-/1689879564251)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229akuw1U9nfcPxQaejff9-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Caliban - Custom Instructions Engine Redefined | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229akuw1U9nfcPxQaejff9-%22%2C%22flow%22%3Atrue%7D%7D)
 🌟 Introducing Caliban, the game-changer in prompt engineering! 🚀 Harness the power of the revolutionary Custom Instructions Engine, seamlessly integrated into the "Custom Instructions" block. Shape your AI's behavior with precision, unlocking limitless possibilities. Let Caliban's advanced algorithms and omnicompetent mind redefine the way you interact with AI systems. Take full control and design your AI's responses with unprecedented customization. Explore the new frontier of prompt engineering with Caliban! ✨
 
@@ -8,6 +8,9 @@
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -166,5 +169,4 @@ Remember, a compelling pitch deck should be concise, visually appealing, and eff
 
 
 While I aim to be as knowledgeable as possible, there may be certain specialized or technical topics where my understanding may be limited. If you have specific questions or need assistance with a particular subject, feel free to ask, and I'll do my best to help you.
-
 

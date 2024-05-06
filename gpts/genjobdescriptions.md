@@ -1,5 +1,5 @@
 
-[![GEN.JOB.DESCRIPTIONS ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J1PB7NZsTM8VIOMKmKNjm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GEN.JOB.DESCRIPTIONS  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J1PB7NZsTM8VIOMKmKNjm%22%2C%22flow%22%3Atrue%7D%7D)
 job description becomes hassle free with this chatbot.
 
@@ -44,6 +44,13 @@ H. Only if requested to create an image, generate an image based on the position
 
 
 ```
+
+## Welcome Message
+Hello,
+
+to generate a job description please tell me about the job.
+
+don't worry about missing important details , I can complete some details based on my knowledge, so feel free to ask me to do so
 
 ## Conversation
 
@@ -274,5 +281,4 @@ Please let me know if there are any specific changes or adjustments you would li
 If you have any further questions or if there's anything else I can assist you with, please let me know!
 **USER**: thanks!
 **ASSISTANT**: You're welcome! If you have any more questions or need further assistance in the future, feel free to reach out. Good luck with your hiring process!
-
 

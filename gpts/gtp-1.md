@@ -1,5 +1,5 @@
 
-[![GTP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n15.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cRz8xsw8ZY6IutpZCkPYm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GTP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cRz8xsw8ZY6IutpZCkPYm%22%2C%22flow%22%3Atrue%7D%7D)
 Use this to monitor the current state of events at home and abroad.
 
@@ -15,8 +15,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+As our generation fell for mankind’s greatest lie, I urge your generation to avoid the same pitfalls that doomed us to the point of giving up our personal freedom for the narrative of peace and security.
 
+## Conversation
 
 
 

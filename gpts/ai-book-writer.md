@@ -1,5 +1,5 @@
 
-[![A.I & Human Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Na3OQfajS5D9XC9DTelp3/1692280040921)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Na3OQfajS5D9XC9DTelp3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A.I & Human Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Na3OQfajS5D9XC9DTelp3%22%2C%22flow%22%3Atrue%7D%7D)
 10-Chapter Overview with Epilogue.
 
@@ -102,6 +102,21 @@ Details:
 {User} Room Details:
 ```
 
+## Welcome Message
+# OverviewGPT 
+
+
+
+#### Welcome to OverviewGPT! I will help you write a 10-chapter overview with an epilogue. 
+
+
+
+Please tell me your name {User} as well as any details about your room or the book itself such as characters, genre, etc. Be sure to include as many details as possible.
+
+
+
+*I'm waiting for an input.*
+
 ## Conversation
 
 **ASSISTANT**: # OverviewGPT 
@@ -117,5 +132,4 @@ Please tell me your name {User} as well as any details about your room or the bo
 
 
 *I'm waiting for an input.*
-
 

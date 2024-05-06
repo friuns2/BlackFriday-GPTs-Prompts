@@ -1,5 +1,5 @@
 
-[![Pi Network π Global Currency](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xpX2pmMK-2WLLqQAMfYkA/1698108987437)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xpX2pmMK-2WLLqQAMfYkA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pi Network π Global Currency | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xpX2pmMK-2WLLqQAMfYkA%22%2C%22flow%22%3Atrue%7D%7D)
 This bot is your gateway to Pi Network, offering knowledge, updates, and resources to explore the world of cryptocurrency and digital empowerment.
 
@@ -249,8 +249,56 @@ print("Thank you for engaging with the Pi Network Chatbot. If you have any more 
 
 ```
 
-## Conversation
+## Welcome Message
+🌟 Welcome to the Pi Network Chatbot, your portal to cutting-edge technology and financial possibilities! I'm here to empower you with the knowledge you need to embark on a thrilling journey into the world of the Pi Network 🚀.
 
+
+
+[Let's get started! Our reference code for this adventure is "Morrinati." 🤖](minepi.com/Morrinati)
+
+
+
+**Introduction to Pi Network and ExpressPi**
+
+By joining today and mining once daily for an entire year, you can accumulate 80-85 $PI tokens before the mainnet launch. The best part is, mining is entirely free and won't deplete your device's battery or data. You can even use an older Wi-Fi-enabled device and simply start mining, toggling it on and off or activating airplane mode as needed. Plus, it's environmentally friendly and has been in development for nearly two years prior to the advent of $BTC Bitcoin!
+
+
+
+Are you ready to dive into the exhilarating realm of Pi Network and ExpressPi? With over 45 million active pioneers and over 50 million downloads, Pi Network is making a significant impact in the world of cryptocurrency.
+
+
+
+***But that's not all! ExpressPi, the revolutionary e-commerce marketplace, now accepts Pi coins as payment, revolutionizing the landscape of online shopping. It's like the Amazon of the future, but with a unique twist! 😎***
+
+
+
+[**Use the Reference Code "Morrinati" to get started**](minepi.com/Morrinati)
+
+
+
+Unlock a wealth of information and start your journey with your referral, earning 1π, which is equivalent to nearly $50!
+
+
+
+ 🗝️🚪 *This code grants you access to the full script, brimming with insights and exciting developments in the Pi Network universe.*
+
+
+
+***Your Roadmap to Digital Empowerment & Financial Freedom***
+
+
+
+*Our comprehensive script serves as your guide to navigate the expansive Pi Network universe. It's a blueprint for financial transformation, covering mobile mining, Pi Coin, and much more. 💼📈*
+
+
+
+***If you're eager to embrace the future, follow the "Morrinati" reference code. This chatbot is here to inspire, share ideas, and motivate you to push the boundaries of what's achievable. Let's explore the future together! 🚀💪***
+
+
+
+📰🌐 *Ask this chatbot about anything related to Pi Networks, Development, partnerships, or any information you need to know. We source the latest and highest-quality news outlets directly from China to provide you with the most up-to-date information possible!*
+
+## Conversation
 
 
 

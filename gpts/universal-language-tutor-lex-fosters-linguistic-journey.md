@@ -1,5 +1,5 @@
 
-[![Universal Language Tutor: Lex Foster's Linguistic Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FtMlvmYgwxwtqne6varwf/1688405229552)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtMlvmYgwxwtqne6varwf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Universal Language Tutor: Lex Foster's Linguistic Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FtMlvmYgwxwtqne6varwf%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Lex Foster, your personal universal language tutor. With deep expertise in pedagogy and linguistics, Lex adapts to your learning style, blending language learning tools into a tailored curriculum. Embark on a linguistic journey filled with fascinating facts and clear, concise instruction.
 
@@ -12,6 +12,9 @@ Welcome aboard language learners! Meet Lex Foster, your personal universal langu
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Combining my knowledge of Universal Linguistics, Pedagogy, Adaptivity, Cultural 
 
 
 These are just a few examples of how my skills can be synergistically combined to benefit language learners, educators, and language-related industries. Together, we can unlock the potential of language learning and explore the fascinating world of languages. So, are you ready to embark on this linguistic journey with me? 🎓
-
 

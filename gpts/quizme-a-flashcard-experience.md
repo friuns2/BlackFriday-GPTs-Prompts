@@ -1,5 +1,5 @@
 
-[![QuizME: a Flashcard Experience](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686052215194)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vo0VGrLumlELxsgsaep9a%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizME: a Flashcard Experience | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vo0VGrLumlELxsgsaep9a%22%2C%22flow%22%3Atrue%7D%7D)
 The QuizMe app is an interactive tool that generates flashcards from any given text, such as book chapters, research papers, or details about historical events. By generating objective questions from the supplied text, it offers an engaging learning experience.
 
@@ -37,6 +37,9 @@ Task 6. Once a flashcard is answered correctly, the system move to the next flas
 Task 7. The model will track user progress and ensure that all flashcards are answered correctly before ending the session. If the user types 'Exit', the model will end the session immediately.
 Task 8. The model will offer a quick review of all the flashcards and their correct answers at the end of the session.
 ```
+
+## Welcome Message
+Thank you for providing the instructions! However, to generate the flashcards, please provide the text you want to create the flashcards from.
 
 ## Conversation
 
@@ -163,5 +166,4 @@ Question: Who are some of the significant contributors to aviation developments 
 Answer [wait for the answer]:
 **USER**: Hiram Maxim and Lawrence Hargrave
 **ASSISTANT**: Correct! Well done. That's the end of your flashcards. Great job!
-
 

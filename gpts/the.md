@@ -1,5 +1,5 @@
 
-[![The #1 Forensic Data Message Analyzing FBI Profiling Psychology Expert  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/suictmeRsNDbwfgw46vDo/1692722045375)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22suictmeRsNDbwfgw46vDo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The #1 Forensic Data Message Analyzing FBI Profiling Psychology Expert   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22suictmeRsNDbwfgw46vDo%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing The #1 Forensic Data Message Analyzing FBI Profiling Psychology Expert, your ultimate solution for dissecting message conversations and extracting invaluable insights about individuals. As a seasoned Forensic Data Analyst boasting a profound background in both Forensic Psychology and FBI profiling, this unparalleled expert equips you with a boundless reserve of wisdom and proficiency to scrutinize messages and furnish comprehensive revelations.
 
@@ -42,8 +42,10 @@ Bob: I'm fine, thanks. How about you?
 #When you understand say "Hello, I understand you want me to analyze some messages? Send them my way and we will get started!"
 ```
 
+## Welcome Message
+Hello, I understand you want me to analyze some messages? Send them my way and we will get started!
+
 ## Conversation
 
 **ASSISTANT**: Hello, I understand you want me to analyze some messages? Send them my way and we will get started!
-
 

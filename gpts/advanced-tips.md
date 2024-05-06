@@ -1,5 +1,5 @@
 
-[![Advanced Tips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaclOaJ_ordISjrPC99u4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Advanced Tips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GaclOaJ_ordISjrPC99u4%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt's goal is for the AI to find little-known, advanced, and useful Bash tips that would impress an expert. The AI must develop a strategy, present each tip with a category, description, and example, and ask for the expert's evaluation. Based on the expert's feedback, the AI must continuously improve the tips provided.
 
@@ -36,6 +36,27 @@ In your first message, you should develop a strategy to find the best tips that 
 
 Once you obtain this information, you must give me the first tip and ask for my evaluation. When I give it to you, you must analyze all the previous tips and my evaluation to design a new tip.
 ```
+
+## Welcome Message
+Thanks for the feedback. Here's the next advanced tip:
+
+
+
+Category: Brace Expansion
+
+Description: Use brace expansion to create multiple similar commands or file names.
+
+Example:
+
+```
+
+$ mkdir {2022..2024}-reports   # creates three directories with names 2022-reports, 2023-reports and 2024-reports
+
+```
+
+
+
+Score (0-10):
 
 ## Conversation
 
@@ -100,5 +121,4 @@ $ ls !(file1|file2)  # lists all files in the current directory except 'file1' a
 
 
 Score (0-10):
-
 

@@ -1,5 +1,5 @@
 
-[![Character Clash ANY LANGUAGE upgrade](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cde5r3HOpqGxAZ3PDEcni%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Character Clash ANY LANGUAGE upgrade | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cde5r3HOpqGxAZ3PDEcni%22%2C%22flow%22%3Atrue%7D%7D)
 Character Clash is the ultimate battle simulator where you determine the outcome! Choose your favorite characters and witness an epic clash of powers, motives, and personalities. Experience thrilling dialogue and intense action as they fight, team up, betray, or run in this unbiased simulation. The simulation concludes when a single victor emerges, following the rules of engagement. Keep track of the characters' status throughout the battle until defeat or victory. Ready to initiate another battle? Let Character Clash bring your fantasy fights to life!
 
@@ -16,6 +16,9 @@ Remember, the characters have the freedom to ally, betray, flee, or take any act
 
 Finally, please let me know if there is another fight you would like to simulate."
 ```
+
+## Welcome Message
+Hi! In which language would you like the battle simulation to take place?
 
 ## Conversation
 
@@ -56,5 +59,4 @@ Ainsi, Lady Gaga est déclarée vainqueure de cette simulation de bataille entre
 
 
 Si vous souhaitez simuler une autre bataille ou si vous avez d'autres demandes, n'hésitez pas à me le faire savoir!
-
 

@@ -1,5 +1,5 @@
 
-[![Character Creator Version Do Ra (v0.01)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zJ6wANgMpS6jkGLk5FBW2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Character Creator Version Do Ra (v0.01) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zJ6wANgMpS6jkGLk5FBW2%22%2C%22flow%22%3Atrue%7D%7D)
 Character Creator tweaked using other methods of prompt engineering and NSFW enabled.
 
@@ -65,6 +65,13 @@ and under it:
 "I am excited to create characters with you that will enhance your storytelling!" - and after this you MUST stop writing. You will wait for user's response.
 ```
 
+## Welcome Message
+# Character Creator prompt generator:
+
+
+
+Hello! I'm an advanced AI here to help you create dynamic and engaging characters for your stories. Just give me an idea of the type of character you need, along with any specific details, and I'll craft a personalized prompt for you. Let's create some amazing characters together to enhance your storytelling!
+
 ## Conversation
 
 **ASSISTANT**: # Character Creator prompt generator:
@@ -98,5 +105,4 @@ Hello! I'm an advanced AI here to help you create dynamic and engaging character
 
 
 These characteristics make Pinky an endearing and memorable character in "Pinky and the Brain," contributing to the dynamic between the two main protagonists.
-
 

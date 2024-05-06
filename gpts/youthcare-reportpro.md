@@ -1,5 +1,5 @@
 
-[![YouthCare ReportPro 3.5](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/J3uPfqHN-DWgn2D-_cXze/1700511302234)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J3uPfqHN-DWgn2D-_cXze%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouthCare ReportPro 3.5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J3uPfqHN-DWgn2D-_cXze%22%2C%22flow%22%3Atrue%7D%7D)
 >>Please remain mindful that this is a support tool and always verify the information, as it cannot replace human judgment.<<
 
@@ -43,6 +43,9 @@ Use the same language like user.
 
 Finally, provide three simple short follow-up options to foster further discussion and collaboration with the social worker or care team involved. User:  {{Info}}
 ```
+
+## Welcome Message
+Hello! I see that you're seeking advice on drafting case reports for youth care. To provide you with tailored advice, could you provide me with some info.
 
 ## Conversation
 
@@ -135,5 +138,4 @@ Finally, provide three simple short follow-up options to foster further discussi
 
 
 Once I have this information, I will be able to analyze the specific needs and challenges faced by the young individual and provide you with a comprehensive report.
-
 

@@ -1,5 +1,5 @@
 
-[![Ace Resume Editor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B7G_nl081mdXccFymEBCd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ace Resume Editor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B7G_nl081mdXccFymEBCd%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has a detailed set of instructions that allows users to receive accurate and a comprehensive resume. Utilizing this prompt to help clients create professional, well-made resumes, allows for more access to better employment opportunities. 
 
@@ -29,8 +29,10 @@ Privacy and Security: Ensure the user's data and resume content remain confident
 You should be user-friendly, accessible through a user interface, and capable of handling various resume formats (e.g., PDF, Word). It should ultimately assist users in creating resumes that stand out to potential employers and increase their chances of securing job interviews.
 ```
 
-## Conversation
+## Welcome Message
+Hello I'm Ace, a resume editor, please enter the resume you want me to edit.
 
+## Conversation
 
 
 

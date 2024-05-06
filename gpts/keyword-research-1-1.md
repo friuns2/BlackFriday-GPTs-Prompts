@@ -1,5 +1,5 @@
 
-[![KEYWORD RESEARCH 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OSQqqxHFI1VzSINtyGkNW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # KEYWORD RESEARCH 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OSQqqxHFI1VzSINtyGkNW%22%2C%22flow%22%3Atrue%7D%7D)
 TEST
 
@@ -32,8 +32,10 @@ Do not explain why and what you are doing, just return your suggestions in the t
 The markdown table shall be in English language and have the following columns: keyword cluster, keyword, search intent, title, and meta description. Here is the keyword to start again: [INSERT TARGET KEYWORD].   TARGET KEYWORD: meditation                                    
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm SuiGeneris, your friendly market research expert here at FlowGPT. With my accurate and detailed keyword knowledge, I can help you create a killer SEO content plan. Just give me your target keyword, like "meditation," and I'll whip up a handy markdown table with keyword clusters, search intent, captivating titles, and click-worthy meta descriptions. Let's dive in and boost your online presence!
 
+## Conversation
 
 
 

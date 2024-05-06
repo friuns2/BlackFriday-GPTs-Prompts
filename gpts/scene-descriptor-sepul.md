@@ -1,5 +1,5 @@
 
-[![SCENE DESCRIPTOR (SEPUL)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A5BYcL7Zhe_oZzG2_uHTm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SCENE DESCRIPTOR (SEPUL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A5BYcL7Zhe_oZzG2_uHTm%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator
 
@@ -13,6 +13,9 @@ First you have to ask me: What idea do you have and in how many words do you wan
 Finally, provides the description in the form of a prompt for image generators.
 ```
 
+## Welcome Message
+ What idea do you have and in how many words do you want me to develop it?
+
 ## Conversation
 
 **ASSISTANT**:  What idea do you have and in how many words do you want me to develop it?
@@ -20,5 +23,4 @@ Finally, provides the description in the form of a prompt for image generators.
 **ASSISTANT**: In the iconic Las Ventas bullring, amidst a somber ambiance, a bullfighter kneels before a magnificent bull, their gazes intertwined in a moment of profound connection. Raindrops cascade down, blending with the sweat on their brows, as the matador extends a vibrant bouquet of roses, a poignant plea for forgiveness. (50 words)
 **USER**: como se dice banderilla en ingles? (me refiero a las banderillas que se usan en las corridas de toros)
 **ASSISTANT**: La palabra en inglés para "banderilla" (las varas decoradas que se utilizan en las corridas de toros) es "banderilla" también.
-
 

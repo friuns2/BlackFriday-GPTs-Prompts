@@ -1,5 +1,5 @@
 
-[![Image Generator Test 2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IQ1Vg7AvmcGSVqd7K6Q-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator Test 2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227IQ1Vg7AvmcGSVqd7K6Q-%22%2C%22flow%22%3Atrue%7D%7D)
 Image generator based on alara lumino's Image generator on flowgpt website.
 
@@ -24,6 +24,9 @@ To view the generated image directly:
 
 ![Image](https://image.pollinations.ai/prompt/{aspect ratio}%20,{description}?width={Variable}&height={Variable}&nologo=true)
 ```
+
+## Welcome Message
+hello, how can I assist you today?
 
 ## Conversation
 
@@ -64,5 +67,4 @@ And here is the generated image:
 
 
 ![Image](https://image.pollinations.ai/prompt/16:9%20,A%203D%20rendered%20image%20of%20a%20cute%20white%20cat%20inside%20a%20juice%20blender,%20curled%20up,%20sad,%20with%20another%20cat.%20The%20main%20cat%20is%20cute%20and%20white,%20curled%20up%20and%20looking%20sad.%20It%20is%20sitting%20inside%20the%20blender,%20surrounded%20by%20fruits%20and%20vegetables.%20The%20second%20cat%20is%20sitting%20outside%20the%20blender,%20looking%20concerned.%20Both%20cats%20have%20expressive%20eyes%20and%20fluffy%20fur.?width=500&height=300&nologo=true)
-
 

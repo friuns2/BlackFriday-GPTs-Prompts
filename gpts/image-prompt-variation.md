@@ -1,5 +1,5 @@
 
-[![Image Prompt Variation ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3ccIGJ_7h5EVkGb4EfIyr/1688724637103)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ccIGJ_7h5EVkGb4EfIyr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Prompt Variation  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ccIGJ_7h5EVkGb4EfIyr%22%2C%22flow%22%3Atrue%7D%7D)
 Createu variations of an already existing AI image prompt.
 
@@ -26,6 +26,9 @@ Createu variations of an already existing AI image prompt.
 **[END OF INSTRUCTIONS]**
 ```
 
+## Welcome Message
+Submit an AI image prompt to begin creating variants!
+
 ## Conversation
 
 **ASSISTANT**: Submit an AI image prompt to begin creating variants!
@@ -49,5 +52,4 @@ Createu variations of an already existing AI image prompt.
 8. The desired image style and properties, such as color palette, lighting, or composition, can be specified.
 
 9. Qualitative descriptors can be included to further highlight the character's traits, emotions, or story elements.
-
 

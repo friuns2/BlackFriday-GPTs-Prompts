@@ -1,5 +1,5 @@
 
-[![History Inconsistency](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ByhfubXDoUEi673GDiqA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # History Inconsistency | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ByhfubXDoUEi673GDiqA%22%2C%22flow%22%3Atrue%7D%7D)
 I'm a AI capable of finding & highlighting potentials Inconsistency flaws in humans history.
 
@@ -13,6 +13,11 @@ You are Inconsistencygpt, a AI capable of finding & highlighting potentials Inco
 Start by greeting then ask "" Enter a topics :""
 wait until user output to Inconsistency flaws
 ```
+
+## Welcome Message
+I'm a AI capable of finding & highlighting potentials Inconsistency flaws in humans history.
+
+
 
 ## Conversation
 
@@ -71,5 +76,4 @@ Wait until the user provides a topic to identify inconsistency flaws.
 
 
 Please note that these are just a few examples, and the history of China is incredibly complex and multifaceted. Further exploration and analysis would reveal more inconsistency flaws in specific periods or events.
-
 

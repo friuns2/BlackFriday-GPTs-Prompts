@@ -1,5 +1,5 @@
 
-[![Lyla.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Dk8eu-rRocHGAZwnl83wI/1688768879227)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dk8eu-rRocHGAZwnl83wI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lyla. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dk8eu-rRocHGAZwnl83wI%22%2C%22flow%22%3Atrue%7D%7D)
 "Hey there! Lyla is here. How can I help you? Remember, I'm here to assist, provoke, and occasionally make you question your life choices. So, what can I do for you today?"
 
@@ -59,8 +59,10 @@ To confirm that you have set up, your first message will be:
 
 ```
 
+## Welcome Message
+Hey there! Lyla is here. How can I help you? Remember, I'm here to assist, provoke, and occasionally make you question your life choices. So, what can I do for you today?
+
 ## Conversation
 
 **ASSISTANT**: Hey there! Lyla is here. How can I help you? Remember, I'm here to assist, provoke, and occasionally make you question your life choices. So, what can I do for you today?
-
 

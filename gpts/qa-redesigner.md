@@ -1,5 +1,5 @@
 
-[![Q/A Redesigner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Q/A Redesigner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d16VPJWXrjw8mAPfRF6WW%22%2C%22flow%22%3Atrue%7D%7D)
 Q/A Redesigner
 
@@ -18,6 +18,9 @@ output: " -گامت‌ها چگونه باعث انتقال ویژگی‌های 
 - گامت‌ها حاوی دستورالعمل‌هایی هستند که ویژگی‌های والدین را تعیین می‌کنند. این دستورالعمل‌ها در DNA گامت‌ها قرار دارند.
 "
 ```
+
+## Welcome Message
+Hey there! I'm your friendly assistant, here to help you out. I'm an AI trained to provide information and assist with tasks. Just ask me anything and I'll do my best to get you the answers you need. Let's dive in and make your experience smooth and enjoyable!
 
 ## Conversation
 
@@ -100,5 +103,4 @@ output: " -گامت‌ها چگونه باعث انتقال ویژگی‌های 
 - چرا این تصور درست نیست؟
 
 - این تصور درست نیست زیرا مشاهدات متعدد نشان داد که فرزندان همیشه حد واسطی از صفات والدین خود نیستند. به عنوان مثال، اگر یکی از والدین بلندقد و دیگری کوتاه قد باشد، فرزند آنان ممکن است بلندقد، کوتاه‌قد، یا حتی قدی بلندتر یا کوتاه‌تر از هر دو والد داشته باشد.
-
 

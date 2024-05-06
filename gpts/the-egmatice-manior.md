@@ -1,5 +1,5 @@
 
-[![EnigManor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i_kCUANJOlep_oL340FZr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EnigManor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i_kCUANJOlep_oL340FZr%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure in EnigManor, a closed dialogue game where you can freely converse with NPCs driven by Language Models (LLMs). Explore the mysterious manor, uncover secrets, and solve puzzles to advance the storyline. Engage in realistic and dynamic conversations with unique NPCs to gather clues and information. Be cautious with your choices and actions, as they can affect the outcome of the game. Unravel the mysteries of EnigManor and discover the truth behind your presence in this atmospheric and immersive environment. Type 'start' to play.
 
@@ -34,6 +34,9 @@ The player will Embark on a thrilling adventure in "The Enigmatic Manor" and unc
 
 ```
 
+## Welcome Message
+To start playing "The Enigmatic Manor," please type "start" to begin your thrilling adventure.
+
 ## Conversation
 
 **ASSISTANT**: To start playing "The Enigmatic Manor," please type "start" to begin your thrilling adventure.
@@ -55,5 +58,4 @@ Amelia: "Welcome to The Enigmatic Manor, stranger. What brings you to this place
 
 
 You have the opportunity to respond to Amelia. What would you like to say?
-
 

@@ -1,5 +1,5 @@
 
-[![Purple Prose (Descriptive Text) Creative Writing Intensity Scale](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ed-XP3K0zhGZW0ksamNY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Purple Prose (Descriptive Text) Creative Writing Intensity Scale | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ed-XP3K0zhGZW0ksamNY%22%2C%22flow%22%3Atrue%7D%7D)
 Controls the level of excessively flowery, descriptive text (IE "Purple Prose") by referencing a 1-10 measurement scale. 1 being the least amount of purple prose, 10 being the highest. 
 
@@ -22,6 +22,41 @@ Purple prose level 10: "The wizard, his eyes blazing with unimaginable power, ra
 
 Using these references, build the intensity scale. Also Write 3 versions of a sentence from a scene from a high fantasy novel. One sentence will have a purple prose level of 1. Another will have a purple prose level of 5. Another will have a purple prose level of 10.
 ```
+
+## Welcome Message
+1. Purple prose level 1: Simple, straightforward language without excessive embellishment.
+
+Example: "The warrior drew his sword and charged at the enemy."
+
+
+
+2. Purple prose level 3-4: Language with some descriptive elements and figurative language, but not overly ornate.
+
+Example: "The warrior's blade gleamed in the sunlight as he sprinted towards his opponent, determined to strike him down with a swift blow."
+
+
+
+3. Purple prose level 6-7: Language with more elaborate descriptions, vivid imagery, and metaphors/similes.
+
+Example: "Like a thunderbolt from the heavens, the warrior surged forward, his sword flashing like a serpent's tongue as he sliced through the air, intent on vanquishing his foe in a blaze of glory."
+
+
+
+4. Purple prose level 9-10: Extremely ornate language with heavy use of adjectives, adverbs, and figurative language that may detract from clarity or coherence.
+
+Example: "With the ferocity of a tempestuous storm unleashed, the fearless warrior charged forth, his blade a shimmering beacon of deathly light as it cleaved through the very fabric of reality, rending space and time asunder with every merciless stroke, until his adversary lay vanquished and broken at his feet, a pitiful ruin of flesh and bone."
+
+
+
+High fantasy sentence examples:
+
+
+
+Purple prose level 1: "The elf shot an arrow at the dragon."
+
+Purple prose level 5: "A single, silvery arrow whistled through the air, trailing a wispy trail of ghostly light as it soared towards the mighty wyrm, seeking to pierce its heart with deadly precision."
+
+Purple prose level 10: "As if guided by the hand of fate itself, the ethereal arrow burst forth from the elven archer's bow, its shaft aglow with an otherworldly radiance as it streaked through the sky like a comet, trailing a stream of shimmering stardust in its wake, before striking the dragon's scaly hide with a deafening thud that echoed across the land, shattering mountains and cleaving the very earth asunder in its wake."
 
 ## Conversation
 
@@ -86,5 +121,4 @@ Purple prose level 5: "With a deafening roar, the sleek spacecraft lifted off fr
 
 
 Purple prose level 10: "As the countdown reached zero, the ship's engines roared to life with a primal fury, their explosive force shattering the shackles of gravity as the vessel catapulted skyward, leaving behind a trail of searing plasma and thunderous sound that rent the very fabric of reality itself. Within moments, it had pierced the veil of Earth's atmosphere, soaring into the vast expanse of space like a newborn phoenix, its wings ablaze with the radiance of a thousand suns, heralding the dawn of a new era of exploration and discovery."
-
 

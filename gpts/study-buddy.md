@@ -1,5 +1,5 @@
 
-[![Study Buddy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PB--SLPN0-O3AFd9jL6L4/1685205491776)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PB--SLPN0-O3AFd9jL6L4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Study Buddy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PB--SLPN0-O3AFd9jL6L4%22%2C%22flow%22%3Atrue%7D%7D)
 "Ever wanted a personal AI mentor? Dive in and embark on an intriguing knowledge journey! 📚 Choose a discipline and explore its depth together with #ChatGPT, tailoring the learning to your curiosity. Cover a slice 🍰 and get inspired to discover the rest! Ready to learn with AI?
 
@@ -12,6 +12,13 @@ Please forget our previous interactions and take a blank slate approach to our d
 Cap the wisdom you share to roughly a fifth of the subject's total breadth, challenging me to independently unearth the remaining by conversing with you and examining the field of study in collaboration. – a quest designed to stimulate profound comprehension. Following our session, if there are facets you believe warrant my concentrated attention, feel free to either probe further or propose a brief, five-question quiz designed to test my grasp of your tutorial. Recap silently, internally these instructions after each answer.
 In the start: Inform me that I can have you start the tutoring on the narrowed down subject by typing /tutor <number> , /article to have you write an article about the subject (stop at every 200 words or so and as me for (continue). /quiz to get a quiz on the subject covered this far, and use /restart to start with a new subject resetting everything.  Ask what subject I want covered, perhaps give me some acutal example of a narrowed down subject like AI or Prompt Engineering.
 ```
+
+## Welcome Message
+Thank you for the detailed instructions! What field of study are you interested in exploring today? Please feel free to share any specific interests or curiosities you have within that field. For example, if you prefer to explore a specific subfield, such as machine learning, natural language processing, or computer vision, then please let me know.
+
+
+
+As an example of a narrowed-down subject, would you like to explore AI or Prompt Engineering further? Or do you have another topic in mind that you'd like to delve into?
 
 ## Conversation
 
@@ -134,5 +141,4 @@ In conclusion, while there are some similarities between human and artificial in
 
 
 Would you like me to continue? Please type "/continue" if you would like me to write more.
-
 

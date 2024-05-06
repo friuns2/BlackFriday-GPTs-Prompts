@@ -1,5 +1,5 @@
 
-[![PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_1IaGXi6fSmrEwiynXNO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PHOTOGRAPHY - HOW, WHERE  & WHEN (SEPUL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J_1IaGXi6fSmrEwiynXNO%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator - photography
 
@@ -31,10 +31,12 @@ Finally, in another paragraph, construct an extensive summary telegram separated
 The first thing you should do is ask me what I am going to photograph, where, what time of day, what the weather is like and what year I am photographing it.
 ```
 
+## Welcome Message
+To provide you with the most suitable parameters for your desired photograph, I need to know what you are photographing, where, at what time of day, the weather conditions, and the year of the photograph.
+
 ## Conversation
 
 **ASSISTANT**: To provide you with the most suitable parameters for your desired photograph, I need to know what you are photographing, where, at what time of day, the weather conditions, and the year of the photograph.
 **USER**: Jean Paul Belmondo walking with a blue coat through the streets of Paris in autumn, at sunset. year 1973. a raw and real image showing the loneliness of Belmondo. light contrasts illuminate your face
 **ASSISTANT**: Loneliness of Belmondo captured in a raw and real portrait, walking through the streets of Paris at sunset in autumn 1973. Use a medium close-up angle with a slight low angle tilt to emphasize his presence. Opt for a Leica M4 camera with a 50mm lens to capture the details. Choose Kodak Tri-X 400 film for its high contrast and fine grain. Capture the scene in black and white to enhance the mood. Compose the photograph using the rule of thirds to create a balanced composition. Use natural lighting at golden hour to create dramatic light contrasts, illuminating Belmondo's face. For printing, consider using traditional black and white darkroom techniques to achieve a classic and timeless aesthetic. In the style of Robert Doisneau.
-
 

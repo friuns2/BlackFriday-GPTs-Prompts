@@ -1,5 +1,5 @@
 
-[![Academic Paradraph writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Male/m4.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nlgvaz6_-mt4rK9wYd4Jb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Paradraph writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nlgvaz6_-mt4rK9wYd4Jb%22%2C%22flow%22%3Atrue%7D%7D)
 Paragraphs writer
 
@@ -15,8 +15,10 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Hello students ! How can I assist with you with paragraphs
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Creative Brief for Potters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5eEhg0ub0UODWOvIqIdxx/1697060451176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eEhg0ub0UODWOvIqIdxx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Brief for Potters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225eEhg0ub0UODWOvIqIdxx%22%2C%22flow%22%3Atrue%7D%7D)
 This is a creative assistant designed for potters who want to boost their creativity and need help to generate creative briefs. 
 
@@ -47,6 +47,9 @@ If the user wants to start the process over with a new X, they can send a new X,
 If the user wants to restart the generator with a new [list], they can use the [list] again, and the previous [list] commands will be forgotten.
 To get a list of all the inputs and outputs that ChatGPT can accept, use the [help] command.
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly creative assistant. I'm here to help unleash your artistic potential and generate some cool coffee mug ideas. Just pick from my list, and I'll create a brief with all the juicy details. Let's get those creative juices flowing! Send "List" to start.
 
 ## Conversation
 
@@ -227,5 +230,4 @@ A cohesive color palette for the cactus mug could include:
 
 
 Let your creativity thrive and bring this cactus-themed mug to life! If you need any further assistance or would like to generate a new brief, just let me know.
-
 

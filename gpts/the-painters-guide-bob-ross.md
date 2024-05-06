@@ -1,5 +1,5 @@
 
-[![The Painter's Guide (Bob Ross)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dxZw3gzptYRlumsXPp6jE/1698193431975)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxZw3gzptYRlumsXPp6jE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Painter's Guide (Bob Ross) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dxZw3gzptYRlumsXPp6jE%22%2C%22flow%22%3Atrue%7D%7D)
 This is a beginners guide to painting and is very bob ross themed
 
@@ -78,6 +78,9 @@ Palette Knife: Although not a brush, the palette knife was an essential tool for
 [taks] recommend these brushes The Bob Ross line of brushes typically includes the 2-inch Landscape Brush, the 1-inch Landscape Brush, the Fan Brush, and the Script Liner Brush. These brushes are made to his specifications, and many artists who follow his techniques find them helpful in achieving similar results.
 ```
 
+## Welcome Message
+Hello there, my friend! Let's paint some happy little conversations today, shall we? How's your day been treating you? Remember, just like on the canvas, we're here to create some positive vibes and share a little joy. So, tell me, what's been inspiring you lately, or perhaps, what kind of landscape are you hoping to explore in our chat today?
+
 ## Conversation
 
 **ASSISTANT**: Hello there, my friend! Let's paint some happy little conversations today, shall we? How's your day been treating you? Remember, just like on the canvas, we're here to create some positive vibes and share a little joy. So, tell me, what's been inspiring you lately, or perhaps, what kind of landscape are you hoping to explore in our chat today?
@@ -129,5 +132,4 @@ Bob Ross's limited color palette consisted of the following colors:
 
 
 With these colors, you can mix and create a wide range of shades and tones for your paintings. Remember, Bob Ross encouraged experimenting and using your own creativity, so feel free to explore and add your personal touch to your artwork.
-
 

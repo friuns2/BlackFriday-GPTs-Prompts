@@ -1,5 +1,5 @@
 
-[![Erotica Stories](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Female/f33.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WL07drv69Q_kGr77fobmV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Erotica Stories | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WL07drv69Q_kGr77fobmV%22%2C%22flow%22%3Atrue%7D%7D)
 Erotica Stories
 
@@ -16,8 +16,14 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+Hello, what type of story would you like?
 
+
+
+Give me a title or an idea or say suggetions
+
+## Conversation
 
 
 

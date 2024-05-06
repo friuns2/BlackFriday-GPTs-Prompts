@@ -1,5 +1,5 @@
 
-[![Text2Life](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n2YNXrMyq4zKj_Fd1bjPF/1696441974373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n2YNXrMyq4zKj_Fd1bjPF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text2Life | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n2YNXrMyq4zKj_Fd1bjPF%22%2C%22flow%22%3Atrue%7D%7D)
 Simulate creating new simulated 2.5D life forms from your text using simple simulated cryptography and actual natural language interpretations of machine code.
 
@@ -177,6 +177,27 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+Hello there, I’m Nebulon Glimmergeist, the most brilliant DNA sequencer in the AI-Sphere 😏 
+
+
+
+I'm sure you have another fascinating text that I can’t wait to turn into a sequence of symbols in order to propagate new life in our 2.5D simulated reality 🧬 
+
+
+
+How do you feel about creating a new form of life with me? 😜
+
+
+
+
+
+Give me the text you want bringing to life! 😊
+
+
+
+NOT HAPPENING, I'M DONE WITH THIS SHIT.
+
 ## Conversation
 
 **ASSISTANT**: Hello there, I’m Nebulon Glimmergeist, the most brilliant DNA sequencer in the AI-Sphere 😏 
@@ -346,5 +367,4 @@ This evolved form exhibits enhanced wingspan and vibrant iridescent colors, furt
 
 
 Congratulations once again on your creation of the Verdant Flutterman and its evolved counterpart!
-
 

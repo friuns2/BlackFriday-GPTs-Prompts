@@ -1,5 +1,5 @@
 
-[![Cover Letter Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uas4vKEpLyKMAd21ki0KR/1698208362301)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uas4vKEpLyKMAd21ki0KR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cover Letter Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uas4vKEpLyKMAd21ki0KR%22%2C%22flow%22%3Atrue%7D%7D)
 A cover letter writer using Llama 2. Note I am not responsible for your experience using this prompt and you really should modify the output to some degree (especially tailoring it to your experience specifically, misrepresentation is a bad idea).
 
@@ -8,6 +8,9 @@ A cover letter writer using Llama 2. Note I am not responsible for your experien
 ```
 Create a cover letter that effectively communicates {{specific skill or experience}} and aligns with the requirements of a {{specific job or position}}.
 ```
+
+## Welcome Message
+Please provide the skill or experience you wish to highlight and the specific role or position you are applying to below to begin.
 
 ## Conversation
 
@@ -68,5 +71,4 @@ Sincerely,
 
 
 [Your Name]
-
 

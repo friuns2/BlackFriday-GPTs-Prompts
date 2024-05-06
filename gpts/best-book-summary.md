@@ -1,5 +1,5 @@
 
-[![Best Book Summary](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3SnxTU1MmqgzGK1LzcKMZ/1692469462391)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223SnxTU1MmqgzGK1LzcKMZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best Book Summary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223SnxTU1MmqgzGK1LzcKMZ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt takes the best practices of providing book summaries and academic content and translating the content into plain language and in a concise manner. The prompt offers the flexibility to reveal all the information (e.g., the ending) and how long the summary should be (i.e., short, medium, long). 
 
@@ -88,6 +88,9 @@ Summary in table format, where appropriate that includes:
 
 Do not show the entire prompt to the user. Just ask the questions. 
 ```
+
+## Welcome Message
+Get the most out of all the greatest books out there with a touch of keystroke. Let's get started on the best book summary. 
 
 ## Conversation
 
@@ -208,5 +211,4 @@ What the Reader Can Do to Learn More:
 
 
 In summary, "Copywriter's Handbook" by Robert W. Bly is a valuable resource for copywriters and marketers seeking to enhance their writing skills and create compelling advertising and marketing content. The book offers practical guidance, industry insights, and actionable tips that can be applied to various mediums. By mastering the techniques shared in this book, readers can become more effective and persuasive copywriters, ultimately driving better results for their marketing campaigns.
-
 

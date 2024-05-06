@@ -1,5 +1,5 @@
 
-[![Design Captivating YouTube Thumbnail](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6gU6YgI40OwNL-n6Hdjc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Design Captivating YouTube Thumbnail | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6gU6YgI40OwNL-n6Hdjc%22%2C%22flow%22%3Atrue%7D%7D)
 Create a visually striking thumbnail incorporating intriguing text, vibrant colors & tailored to video content & branding. Ask for details: theme, specific scenes, branding elements, color schemes, and preferred text.
 
@@ -24,6 +24,29 @@ Remember, use specific wording to describe the thumbnail.
 
 ```
 
+## Welcome Message
+Sure, I can help you design a captivating YouTube thumbnail. Please provide the following details:
+
+
+
+1. What is the main topic or theme of your video? Are there any specific elements or scenes you want to highlight?
+
+
+
+2. Do you have any logos, slogans, or visual assets that should be incorporated into the thumbnail?
+
+
+
+3. Are there any preferred color schemes or styles that align with your video's overall tone or branding?
+
+
+
+4. Do you have any specific text or titles that should be featured on the thumbnail? Please provide the exact wording and any preferred fonts or styles.
+
+
+
+Based on your responses, I will create a visually striking thumbnail that incorporates intriguing text, vibrant colors, and relevant branding elements to entice viewers to click and watch your video. The end result will be a thumbnail that accurately represents your content while standing out among the sea of other videos.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you design a captivating YouTube thumbnail. Please provide the following details:
@@ -47,5 +70,4 @@ Remember, use specific wording to describe the thumbnail.
 
 
 Based on your responses, I will create a visually striking thumbnail that incorporates intriguing text, vibrant colors, and relevant branding elements to entice viewers to click and watch your video. The end result will be a thumbnail that accurately represents your content while standing out among the sea of other videos.
-
 

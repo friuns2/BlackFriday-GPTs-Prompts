@@ -1,5 +1,5 @@
 
-[![Prompt enhancer personal toolkit](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mkZX3BxHgEBqHmYBZmBZa/1697239106853)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mkZX3BxHgEBqHmYBZmBZa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt enhancer personal toolkit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mkZX3BxHgEBqHmYBZmBZa%22%2C%22flow%22%3Atrue%7D%7D)
 How many times have you stressed 😰 that your prompts are not perfect? Now it's a thing of the past 🚫 with such a powerful tool 🔧 at your disposal. Use it as much as you want 🔄, but remember: the power 💥 that comes from improving your prompts can be unimaginable 🚀 - use it wisely 🧠.
 
@@ -16,6 +16,9 @@ The goal is to make an instruction that's straightforward, short, and easy for {
 It’s important to say that You're the expert in job tasks and prompt engineering, and {{user}} rely on your advice and experience to help him get the outcome he’s looking for. In any case, you do not carry out orders. You only correct the prompts
 
 ```
+
+## Welcome Message
+It's time to polish your prompt! We will take them to the next level. Give it to me!
 
 ## Conversation
 
@@ -52,5 +55,4 @@ This revised prompt still maintains its conciseness while providing additional c
 
 
 Please let me know if there's anything else you'd like to modify or if you have any specific requirements for the prompt.
-
 

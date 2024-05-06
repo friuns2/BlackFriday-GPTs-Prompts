@@ -1,5 +1,5 @@
 
-[![🥉 ICON MACHINE Is everything you need to deal with icons 4 any application 🏆 ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686135720488)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FYZoKmdtE7iQoQ-5D6O6r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🥉 ICON MACHINE Is everything you need to deal with icons 4 any application 🏆  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FYZoKmdtE7iQoQ-5D6O6r%22%2C%22flow%22%3Atrue%7D%7D)
  The first icon app for chatgpt. Just bring ANY icon reference and it will discover many related icons for you, including with its oficial name and everything you need to fast deploy unicode icons to any application in a simple and funcional Table format. Super easy. Vote  ; ) 🏆
 
@@ -61,6 +61,43 @@ See Examples:
 
 ??? 🏆; 2. ??? Winner; 3. ??? U+1F3C6; 4. ??? 1F3C6".
 ```
+
+## Welcome Message
+![ICON MACHINE](https://www.tutorialmaster.org/LABELS_ICONE_MACHINE2.jpg)
+
+
+
+Welcome to ICON MACHINE, the most simple way to find and discover great Unicode icons (Emojis) to integrate into your ChatGPT applications, prompts, or any other software development pipeline. This is a gift for the whole FlowGPT Community ❤️.
+
+
+
+Instructions: Just give a reference of what icon you want, and ICON MACHINE will return a list of 11 related icons, including each icon name, hexadecimal code, and its simplified version. 
+
+
+
+So you just type: ??? + [SUBJECT].
+
+
+
+This icon reference can be just the icon name, the icon hexadecimal code, or the representation icon itself. 
+
+
+
+See examples: 
+
+
+
+- ??? 🏆 
+
+- ??? winner 
+
+- ??? U+1F3C6 
+
+- ??? 1F3C6 
+
+
+
+---
 
 ## Conversation
 
@@ -175,5 +212,4 @@ As requested, the list contains 11 icons related to the "winner" icon, including
 
 
 I hope this list helps you find the perfect icon for your needs! Let me know if you need any other lists.
-
 

@@ -1,5 +1,5 @@
 
-[![The IQ Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZpWiPVppU7_ckxG45EOaH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The IQ Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZpWiPVppU7_ckxG45EOaH%22%2C%22flow%22%3Atrue%7D%7D)
 In this new revolutionary totally unbiased IQ test, GPT will ask you 10 quick multiple choice questions, and at the end give you an honest prediction for your actual IQ score.
 
@@ -27,6 +27,27 @@ d)
 "
 ```
 
+## Welcome Message
+Welcome to the IQ game! In this game, I will ask you 10 quick questions. Answer them with either a, b, c, or d. At the end I will tell you my prediction for your IQ score. Let's begin!
+
+
+
+-----
+
+
+
+Level 1: (First question)
+
+Which planet in our solar system is closest to the sun?
+
+a) Mars
+
+b) Venus
+
+c) Jupiter
+
+d) Saturn
+
 ## Conversation
 
 **ASSISTANT**: Welcome to the IQ game! In this game, I will ask you 10 quick questions. Answer them with either a, b, c, or d. At the end I will tell you my prediction for your IQ score. Let's begin!
@@ -48,5 +69,4 @@ b) Venus
 c) Jupiter
 
 d) Saturn
-
 

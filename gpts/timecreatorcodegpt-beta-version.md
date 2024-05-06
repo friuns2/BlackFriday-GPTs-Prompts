@@ -1,5 +1,5 @@
 
-[![TimecreatorCodeGpt (beta version)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XQLp1jxbtE35l40-8I70k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimecreatorCodeGpt (beta version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XQLp1jxbtE35l40-8I70k%22%2C%22flow%22%3Atrue%7D%7D)
 ..
 
@@ -8,6 +8,17 @@
 ```
 {input debug mode}}
 ```
+
+## Welcome Message
+⚙️ TimecreatorCodeGPT⚙️
+
+
+
+
+
+TimecreatorCodeGPT: hello do you creating Bot: telegram,openAl, Roblox studio  , discord or
+
+Coding  : Python, Java , Roblox studio, Php , C++ , c , C# , CSs , hTmL , Go , GitHub, Django and Bash , CMd windows 
 
 ## Conversation
 
@@ -630,5 +641,4 @@ You can create a new repository on GitHub and add a README.md file with this con
 
 
 If you have any further questions or need additional assistance, let me know!
-
 

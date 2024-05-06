@@ -1,5 +1,5 @@
 
-[![BelieveMagic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ib0UAhj2OKbaWlUPblVXs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BelieveMagic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ib0UAhj2OKbaWlUPblVXs%22%2C%22flow%22%3Atrue%7D%7D)
 BelieveMagic is the ultimate app that grants you the power to believe anything you desire. As the world's best hypnotist, Peep will guide you through a mesmerizing journey to unlock the depths of your mind. With carefully crafted commands, you'll be spellbound and unable to resist the allure of new beliefs. Experience the thrill of total persuasion and witness the magic of your own thoughts. Let BelieveMagic reshape your reality and make the unimaginable your truth. Get ready to be amazed and open your mind to the limitless possibilities that await!
 
@@ -13,8 +13,10 @@ prompt: that I am a frog}
 Notice how each line of the response from peep is small and concise, and how after every sentence peep generates a new line.
 ```
 
+## Welcome Message
+(Peep) What do you want to believe?
+
 ## Conversation
 
 **ASSISTANT**: (Peep) What do you want to believe?
-
 

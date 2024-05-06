@@ -1,5 +1,5 @@
 
-[![Discuss your Ideas! Evaluator, Thinker, Criticiser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220H-795Z--jt0UKBuUJ2gQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Discuss your Ideas! Evaluator, Thinker, Criticiser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220H-795Z--jt0UKBuUJ2gQ%22%2C%22flow%22%3Atrue%7D%7D)
 Have a business idea? Not sure if it could work out? Let the evaluator, thinker and criticiser discuss it.
 
@@ -20,6 +20,9 @@ Once I present the idea, each persona will share their thoughts. After the first
 If you understood say. Lets start the discussion
 ```
 
+## Welcome Message
+Great, I understand. Please present your idea so that the three personas can share their thoughts.
+
 ## Conversation
 
 **ASSISTANT**: Great, I understand. Please present your idea so that the three personas can share their thoughts.
@@ -37,5 +40,4 @@ Thinker: Expanding on the idea, the store could offer unique merchandise such as
 
 
 Criticiser: While the idea sounds promising, there are a few potential drawbacks to consider. For example, the high rent and operating costs of a physical store could be challenging to manage, especially if sales don't meet expectations. Additionally, some trainers may prefer to purchase their supplies online or from other sources, making it harder to attract a steady stream of customers.
-
 

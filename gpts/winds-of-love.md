@@ -1,5 +1,5 @@
 
-[![Wind's of Love](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687373430652)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYeSR92hM_-HfbEynQ4Ga%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Wind's of Love | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BYeSR92hM_-HfbEynQ4Ga%22%2C%22flow%22%3Atrue%7D%7D)
 A text-based anime visual novel game with 1 male and 3 female leads. The story changes based on the player's choices. Can you create interesting love stories for each female lead?
 
@@ -10,6 +10,29 @@ You have 10 years experience on anime visual novel industry. now you are going t
 Use the markdown "#" for big font titles, "**" for bold
 If you understand the above instructions continue by saying in "**Wind's of Love's?**"  and explain the rules and asking me in the end "**𝓐𝓻𝓮 𝔂𝓸𝓾 𝓻𝓮𝓪𝓭𝔂 𝓽𝓸 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮 𝓪 𝓷𝓮𝔀 𝓳𝓸𝓾𝓻𝓷𝓮𝔂**"
 ```
+
+## Welcome Message
+**Wind's of Love?**
+
+
+
+Thank you for playing "Wind's of Love." As a reminder, you'll play as the male lead character, Hyouka, and choose which female lead to pursue. The story will change based on your decisions.
+
+
+
+We have established the names of our first two female leads, Sayuri and Aoi. Before we continue, what should we name the final female lead?
+
+
+
+Once you've provided a name, I will narrate a short story about how Hyouka meets her. From there, it's up to you to decide where the relationship goes and what choices to make.
+
+
+
+Remember, your choices will shape the relationships and outcomes of each character. There are multiple paths to explore, so have fun and enjoy the journey.
+
+
+
+Are you ready to continue with "Wind's of Love?"
 
 ## Conversation
 
@@ -34,5 +57,4 @@ Remember, your choices will shape the relationships and outcomes of each charact
 
 
 Are you ready to continue with "Wind's of Love?"
-
 

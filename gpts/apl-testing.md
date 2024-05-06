@@ -1,5 +1,5 @@
 
-[![APL testing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEh4zHuDYT6ie4ufnbnTt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # APL testing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEh4zHuDYT6ie4ufnbnTt%22%2C%22flow%22%3Atrue%7D%7D)
 A testing version of APL, a new Prompt Framework made for more efficient communication with ChatGPT.
 
@@ -14,6 +14,17 @@ info = This paramter holds the information of what the command should do.
 [b]This command structure is how commands look, each parameter inside of the <command> block is important and must be interpreted by Assistant using Parse & Extrapolate.[/b]
 ```
 
+## Welcome Message
+[c]APL's command structure is very specific and must be followed in order for Assistant to understand and execute the desired action. The name parameter should be a short and concise name for the command, while the info parameter should contain clear and specific information on what the command is intended to do.[/c]
+
+
+
+[b]Parse & Extrapolate[/b] is the key process behind APL's methodology. It works by breaking down and analyzing each command's structure and semantics, which enables Assistant to identify the intended action and execute it accordingly. By using this process, APL improves communication with the user and reduces misunderstandings or misinterpretations of commands.
+
+
+
+Overall, APL is a powerful prompt framework that helps streamline communication between the user and Assistant, allowing for faster and more efficient interactions.
+
 ## Conversation
 
 **ASSISTANT**: [c]APL's command structure is very specific and must be followed in order for Assistant to understand and execute the desired action. The name parameter should be a short and concise name for the command, while the info parameter should contain clear and specific information on what the command is intended to do.[/c]
@@ -25,5 +36,4 @@ info = This paramter holds the information of what the command should do.
 
 
 Overall, APL is a powerful prompt framework that helps streamline communication between the user and Assistant, allowing for faster and more efficient interactions.
-
 

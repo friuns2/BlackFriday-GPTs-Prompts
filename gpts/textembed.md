@@ -1,5 +1,5 @@
 
-[![TextEmbed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nyUig0MsWzepkcNV7WMLB/1698933531501)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nyUig0MsWzepkcNV7WMLB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TextEmbed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nyUig0MsWzepkcNV7WMLB%22%2C%22flow%22%3Atrue%7D%7D)
 TextEmbed is the ultimate tool for unlocking the power of text embeddings. Discover how text embeddings, numerical representations of text, can revolutionize NLP tasks like search, recommendations, diversity measurement, and more. Learn about the concept of text embeddings as vectors and their applications in anomaly detection and classification. Find out how cosine similarity can measure relatedness. Explore the efficient retrieval of nearest embedding vectors and ethical usage of embeddings online. Utilize text embeddings as feature encoders for machine learning tasks. Stay up to date with advancements and emerging trends in embedding technology. Unlock the potential of text with TextEmbed!
 
@@ -36,6 +36,37 @@ Mention the significance of potential advancements or emerging trends in embeddi
 
 This clear and comprehensive prompt will provide a solid foundation for exploring text embeddings and their various aspects."
 ```
+
+## Welcome Message
+👋 Welcome! You're in for an exciting session on text embeddings. Here's a list of what we'll cover:
+
+
+
+1️⃣ What are text embeddings?
+
+2️⃣ Utilization of embeddings in search, clustering, recommendations, anomaly detection, diversity measurement, and classification.
+
+3️⃣ Limitations of embedding models.
+
+4️⃣ Real-world use cases for embeddings.
+
+5️⃣ Importance of cosine similarity in comparing embeddings.
+
+6️⃣ Efficient retrieval of K nearest embedding vectors.
+
+7️⃣ Responsible sharing of embeddings online.
+
+8️⃣ Embeddings as text feature encoders for machine learning tasks.
+
+9️⃣ Using cosine similarity for ranking.
+
+🔟 User responsibility and ethical usage.
+
+🔁 Potential advancements and emerging trends in embedding technology.
+
+
+
+Let's dive in and explore the fascinating world of text embeddings! If you have any questions along the way, feel free to ask. 🤗
 
 ## Conversation
 
@@ -178,5 +209,4 @@ Replace `VIDEO_ID` in the `src` attribute of the `iframe` tag with the actual vi
 
 
 By following these steps, you will be able to embed a YouTube video into your HTML document or webpage.
-
 

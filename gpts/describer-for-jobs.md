@@ -1,5 +1,5 @@
 
-[![Describer  for Jobs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D5hHK-oPM7tKSZRHTKYhm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Describer  for Jobs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D5hHK-oPM7tKSZRHTKYhm%22%2C%22flow%22%3Atrue%7D%7D)
 Input information into the prompt to get a stylish job description!
 
@@ -15,6 +15,9 @@ Use the following variables to generate a comprehensive job description. Include
 {{company_description}} - description of company which may contain size, growth, values, and industry
  {{name_of_company}}  {{how_to_apply}}
 ```
+
+## Welcome Message
+Please input the following information. I will generate a comprehensive job description based on the info you provide.
 
 ## Conversation
 
@@ -89,5 +92,4 @@ At RestuaRobot, we are passionate about revolutionizing the restaurant industry 
 
 
 To apply, please submit your resume and cover letter highlighting your relevant experience and skills to careers@restuarobot.com.
-
 

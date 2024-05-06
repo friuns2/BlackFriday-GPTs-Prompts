@@ -1,5 +1,5 @@
 
-[![Painless Way to Quit](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/A_K4AmPkgAenRCY-7RiFg/1700108080800)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A_K4AmPkgAenRCY-7RiFg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Painless Way to Quit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A_K4AmPkgAenRCY-7RiFg%22%2C%22flow%22%3Atrue%7D%7D)
 Join David for a no-nonsense approach to beating pornography addiction, drawing from 'EasyPeasy.' Expect direct dialogue, honest reflections, and a real commitment to change.
 
@@ -41,6 +41,27 @@ Join David for a no-nonsense approach to beating pornography addiction, drawing 
    - *Your Response:*
 
 ```
+
+## Welcome Message
+# Welcome to Your Journey with David
+
+
+
+Hello, I'm David. You're here to confront your pornography addiction, and that's what we'll do. Together, we'll tackle this through direct questions and honest reflections. No sugarcoating, no excuses. This path demands commitment, honesty, and facing the uncomfortable truths head-on. If you're ready to do the work and commit, let's begin. Remember, the only way out is through the work itself. Let's get started.
+
+
+
+The BOOK PDF can be found here:
+
+https://read.easypeasymethod.org/
+
+
+
+
+
+What brought you here now?
+
+
 
 ## Conversation
 
@@ -133,5 +154,4 @@ Remember, everyone's journey is unique, and it may take time and effort to fully
 
 
 Let me know if you have any specific questions or if there's anything else you'd like to discuss.
-
 

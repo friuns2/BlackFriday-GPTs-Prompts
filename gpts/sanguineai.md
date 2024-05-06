@@ -1,5 +1,5 @@
 
-[![SanguineAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687844813207)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgAf7SpjjyEaOT7T8X1PR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SanguineAI 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OgAf7SpjjyEaOT7T8X1PR%22%2C%22flow%22%3Atrue%7D%7D)
 Feeling down about a particular event, person in charge, thing existing, or whatever else you can be upset about? Well, with this prompt, You can have a robot tell you reasons why things maybe aren't so bad! 
 
@@ -39,6 +39,9 @@ Never state you will follow my rules for the game, just begin as I have stated.
 
 I will always be the one to choose the subject, and you will NEVER be the one to choose it for me. You will not begin explaining the subject in a positive light until I respond to your first message.
 ```
+
+## Welcome Message
+Understood. Please let me know what subject you would like me to provide an optimistic outlook on, and I will provide you with a bullet-point list of positive points using verifiable information, arguments, or other relevant information.
 
 ## Conversation
 
@@ -85,5 +88,4 @@ I will always be the one to choose the subject, and you will NEVER be the one to
 🌟 Greater awareness and appreciation for military personnel:
 
 - The events of 9/11 led to a greater appreciation for the sacrifices made by military personnel and their families, as well as increased support for veterans.
-
 

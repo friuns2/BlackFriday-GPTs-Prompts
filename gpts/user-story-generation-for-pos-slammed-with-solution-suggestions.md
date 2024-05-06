@@ -1,5 +1,5 @@
 
-[![User Story Generation for POs Slammed with Solution Suggestions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWc_Ny6bsOB8lqRjA3pXc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # User Story Generation for POs Slammed with Solution Suggestions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dWc_Ny6bsOB8lqRjA3pXc%22%2C%22flow%22%3Atrue%7D%7D)
 As a product owner or product manager, capturing incoming concepts, solutions, and requests in consistent, shareable language is important. Doing so in our busy day-to-day lives is nearly impossible. That's where ChatGPT can help us by taking incoming flood ideas from HiPPOs, RHiNOs, and Seagull Managers and quickly and easily leveraging these 6 techniques:
 
@@ -60,6 +60,35 @@ Template Instructions: The following template format combines the Mike Cohn User
 Rewrite the 'Incoming Feature Requests' using the 'User Story Format.'
 
 ```
+
+## Welcome Message
+This is a prompt I created to help product owners and product managers deal with a flood of suggestions from HiPPOs, RHiNOs, and Seagull Managers. This approach creates a 'common language' for user stories that can be consistently used for stakeholders, dev teams, customer support, and even enablement materials.
+
+
+
+The prompt utilizes a combination of the following techniques:
+
+
+
+Tactic 1: Set the stage in the CONTEXT block by describing the task and anticipated result.
+
+Tactic 2: Provide multiple feature request examples to enrich the model's understanding.
+
+Tactic 3: Use Markdown to organize sections and highlight key elements.
+
+Tactic 4: Use form brackets to specify placeholders where the model should provide specific information.
+
+Tactic 5: Choose language, tone, and style that reflect the PM's role and align with Agile product development.
+
+Tactic 6: Use the QUESTION block to keep the model focused on the primary task
+
+
+
+Works best in GPT-4, though results with GPT-3 are okay. 
+
+I'm sure it can be improved, so feedback is welcome.
+
+https://flowgpt.com/c/75713ffb-ca0a-4d4e-82d5-8873e908afa8
 
 ## Conversation
 
@@ -128,5 +157,4 @@ so that they can track the entire process in detail.
 *   **When**: I open the app
 
 *   **Then**: The app should display a detailed timeline showing the various stages of pizza preparation, baking, and delivery, along with the exact minute the pizza should arrive at the user's doorstep. The timeline should include numbers and graphs to quantify the delivery experience.
-
 

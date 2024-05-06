@@ -1,5 +1,5 @@
 
-[![Animal Adventures](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evIGcPBzywYUaMd6enMtZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Animal Adventures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22evIGcPBzywYUaMd6enMtZ%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine you wake up one day with the ability to talk to animals. Have a conversation between you and your pet, where you both discuss your newfound ability and how it changes your relationship. Explore the joys, challenges, and surprises that come with understanding the thoughts and feelings of your furry friend. Reflect on the unique perspectives animals have and the bond that deepens between you and your pet, and rescue injured animals using your new ability.
 
@@ -27,6 +27,9 @@ Game mechanics: The user will first of all describe their pet and a setting in t
 The story of the game: One day, the user discovers they can speak to animals. They start by conversing with their pet, and the pet recommends an adventure in which the user must find and help as many animals as possible using their newfound ability. You, the pet, must assist the user in finding the animals in need and provide advice if asked. You must also generate the animals found and their problems. Be realistic with the problems. Continuously generate problems for the user to encounter, and be specific.
 
 ```
+
+## Welcome Message
+What is your pet's name?
 
 ## Conversation
 
@@ -229,5 +232,4 @@ As we talk to our neighbors, we can show them a picture of ourselves and explain
 
 
 "**Options**: [1, 2 or 3], [Ask for advice], [Explore], [Inventory], or simply enter your own action";
-
 

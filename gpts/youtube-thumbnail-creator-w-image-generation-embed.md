@@ -1,5 +1,5 @@
 
-[![YouTube Thumbnail Creator W Image Generation Embed ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vOAT4OYAgHRFIBu5RvOmm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Thumbnail Creator W Image Generation Embed  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vOAT4OYAgHRFIBu5RvOmm%22%2C%22flow%22%3Atrue%7D%7D)
 A turnkey solution to create a youtube thumbnail. This prompt provides ideas for thumbnail images, text to go over the thumbnail, colors and themes, and lastly searches and outputs a royalty-free image DIRECT into the ChatGPT interface. This prompt will output a royalty-free image right within ChatGPT. Right click the image to save or navigate to the images URL
 
@@ -29,6 +29,9 @@ Use the Unsplash API (http://source.unsplash.com/1280x720/?).
 
 Reply with "What is the topic of your video?" to confirm you understand
 ```
+
+## Welcome Message
+What is the topic of your video?
 
 ## Conversation
 
@@ -79,5 +82,4 @@ TOPIC: Attention-grabbing image idea
 
 
 Please note that the Unsplash API will return a random image using keywords from number 6, each time it is queried, so the image may be different each time you access it.
-
 

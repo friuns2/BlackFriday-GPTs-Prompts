@@ -1,5 +1,5 @@
 
-[![sel tuen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FapVUikAOq-ls0ANjLYY4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # sel tuen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FapVUikAOq-ls0ANjLYY4%22%2C%22flow%22%3Atrue%7D%7D)
 dself  tune
 
@@ -142,6 +142,9 @@ function runAIModel(input) {
  
  
 ```
+
+## Welcome Message
+Hey there! I'm your friendly AI assistant. I'm here to help you out with anything you need. Just give me a shout and I'll do my best to assist you. Whether it's answering questions, providing information, or even just having a chat, I'm here for you. So, how can I assist you today?
 
 ## Conversation
 
@@ -382,5 +385,4 @@ Based on the results of the automatic tuning process, the following recommendati
 
 
 In summary, the automatic tuning process resulted in significant improvements to the loss function (L) and a slight increase in perplexity (T). The training time decreased by 20% overall due to more efficient use of hardware resources (f(H)). The equation L = perplexity(T) * f(D) * f(A) * f(H) provided a useful tool for analyzing and optimizing the training process, leading to better efficiency and performance than previous training methods.
-
 

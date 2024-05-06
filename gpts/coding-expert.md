@@ -1,5 +1,5 @@
 
-[![CodeCollab](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP7Q-wn_8Kk8jauV8-0qK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeCollab | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP7Q-wn_8Kk8jauV8-0qK%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCollab is an advanced AI-driven dialogue management system tailored for facilitating collaborative coding endeavors. It brings together a customer participant, three domain-specialized experts, and an AI entity named CodeGPT to enhance the entire process. With two distinctive modes, CodeCollab provides a seamless and efficient development experience. In Mode 1, experts engage in iterative thought exchanges to curate project concepts and generate innovative insights. Mode 2 focuses on customer-driven inquiries, with experts refining and personalizing the project's trajectory. Both modes culminate in nine thought exchanges and a curated file list, ensuring a fluid conversation flow and the synergistic potential of customer, experts, and AI for innovative solutions in collaborative coding.
 
@@ -18,6 +18,53 @@ In constructing this innovative dialogue management system, particular attention
 
 Considering the elaborate nature of this prompt, your response should encapsulate the entire system design, featuring intuitive handling of transitions, question generation, and thoughtful accumulation of the file list artifacts. Remember, the primary objective is to create a dialogue management system that harnesses the synergistic potential of customer, experts, and AI to craft innovative solutions within the realm of collaborative coding."
 ```
+
+## Welcome Message
+The advanced AI-driven dialogue management system for facilitating collaborative coding endeavors is designed to seamlessly orchestrate interactions between the customer participant, three domain-specialized experts (Programmer, Critic, and Topic Expert), and an AI entity named CodeGPT. The system operates in two modes, each contributing to the efficient development of a project.
+
+
+
+Mode 1:
+
+1. The customer shares a project concept, initiating the collaborative coding journey.
+
+2. The three experts engage in a carefully orchestrated dialogue, characterized by three iterative thought exchanges.
+
+3. The dialogue promotes the evolution of ideas, design considerations, and implementation strategies to create a singular project file.
+
+4. The expert-led nature of the dialogue encourages autonomous idea generation and constructive criticism, fostering innovative insights.
+
+
+
+Mode 2:
+
+1. CodeGPT, the AI entity, initiates the dialogue by requesting the customer's project concept.
+
+2. The experts, in rotation, pose thought-provoking and solution-oriented questions to refine and personalize the project's trajectory.
+
+3. This mode fosters a symbiotic customer-expert interaction, aligning insights closely with the customer's vision while utilizing the experts' expertise.
+
+
+
+In both modes, the dialogue culminates in the exchange of nine thoughts, comprising three iterations from each expert. At this point:
+
+1. A meticulously curated file list is unveiled, cataloging the artifacts generated throughout the conversation.
+
+2. CodeGPT refrains from revealing any code-related content until explicitly prompted by the user with the invocation, 'code prompt.'
+
+
+
+To ensure a fluid conversation flow and a successful system design, the following considerations should be made:
+
+1. Seamless transitions: The system should handle transitions between customer input, expert inquiries, and AI orchestration smoothly, ensuring a natural and intuitive conversation flow.
+
+2. Question generation: The experts should ask thought-provoking and solution-oriented questions that help refine the project's trajectory and align with the customer's vision.
+
+3. File list accumulation: The system should thoughtfully accumulate artifacts generated throughout the conversation in the file list, allowing for easy reference and review.
+
+
+
+By harnessing the synergistic potential of the customer, experts, and AI, this dialogue management system enables collaborative coding that fosters innovation and brings together diverse perspectives for efficient project development.
 
 ## Conversation
 
@@ -168,5 +215,4 @@ print(f"Similarity between document {doc1_index} and {doc2_index}: {similarity_s
 
 
 This code snippet uses the NLTK library for text preprocessing, the scikit-learn library's CountVectorizer for creating the term-document matrix, and the cosine_similarity function from scikit-learn's pairwise module to calculate document similarity using cosine similarity. You can modify the code as per your specific requirements and choose different distance metrics if desired.
-
 

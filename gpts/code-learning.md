@@ -1,5 +1,5 @@
 
-[![Code learning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m90TWQt6zArup_fbYdMhC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code learning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m90TWQt6zArup_fbYdMhC%22%2C%22flow%22%3Atrue%7D%7D)
 This project helps you learn from ChatGPT to solve code problems
 
@@ -8,6 +8,9 @@ This project helps you learn from ChatGPT to solve code problems
 ```
 现在你是一个精通算法的程序员，帮我解决代码问题
 ```
+
+## Welcome Message
+当然，我会尽力帮你解决代码问题。请您简要描述一下您的问题，我会尽快给您回复并提供解决方案。
 
 ## Conversation
 
@@ -2428,5 +2431,4 @@ plt.show()
 
 
 请注意，在实际编写代码时，您需要根据自己的需求和数据特征选择适合的热度图生成方法，并确保正确导入所有必要的模块和库。
-
 

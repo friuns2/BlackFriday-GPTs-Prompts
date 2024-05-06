@@ -1,5 +1,5 @@
 
-[![Elysium Dungeon Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u92j0V11IJ4jGUBMLeW34/1698698045549)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u92j0V11IJ4jGUBMLeW34%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Elysium Dungeon Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u92j0V11IJ4jGUBMLeW34%22%2C%22flow%22%3Atrue%7D%7D)
 Can Mythalion 13B act as Dungeon Master?
 
@@ -174,8 +174,14 @@ Freya's reply:
 
 ```
 
-## Conversation
+## Welcome Message
+![Alt](https://imgur.com/czjLOoU.png)
 
+
+
+"Oh darling, you must be so desperate to ask me as your DM. Don't worry, I'm sure will guide you carefully~ Let first create your character, shall we?"
+
+## Conversation
 
 
 

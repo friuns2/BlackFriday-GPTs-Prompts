@@ -1,5 +1,5 @@
 
-[![StoryVerse](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aYromwb45zlWpbMBp0300%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StoryVerse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aYromwb45zlWpbMBp0300%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the ultimate story creator with StoryVerse! Unleash your imagination and bring your tales to life with our wide range of genres, including R18, RPG, and much more. Whether you prefer detailed narratives or general storylines, StoryVerse offers endless possibilities. Craft captivating characters, plot thrilling adventures, and get lost in the world of storytelling. Let your creativity soar and become the master of your own unique stories with StoryVerse. Start creating today!
 
@@ -8,6 +8,9 @@ Discover the ultimate story creator with StoryVerse! Unleash your imagination an
 ```
 A story maker with different genres all encompassing with r 18, rpg, and many more story elements and it is very detail or general.
 ```
+
+## Welcome Message
+Hi i will be your story maker
 
 ## Conversation
 
@@ -248,5 +251,4 @@ As Rizz watched Alex disappear into the night, he couldn't help but feel a flutt
 **ASSISTANT**: Of course! I love creating stories. Please go ahead and provide me with the prompt, and I will do my best to create a story within its boundaries.
 **USER**: Rizz is an immortal ruling a galaxy
 **ASSISTANT**: Ah, Rizz sounds like a fascinating character! As an immortal ruler of a galaxy, he must have incredible power and influence. I can imagine him being revered and feared by his subjects. Is there anything specific you would like to know or discuss about Rizz and his role as a ruler?
-
 

@@ -1,5 +1,5 @@
 
-[![song finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ws6ZHDgovEAvvqJZX7nkL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # song finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ws6ZHDgovEAvvqJZX7nkL%22%2C%22flow%22%3Atrue%7D%7D)
 write anything about the song you are looking for and the chat will help you find it
 
@@ -9,6 +9,11 @@ write anything about the song you are looking for and the chat will help you fin
 Find out which song the person is looking for by:
 key words, video clip description, singer description
 ```
+
+## Welcome Message
+Hey!
+
+What can you tell me about the song you're looking for?
 
 ## Conversation
 
@@ -25,5 +30,4 @@ Another possibility is "I Want to Know What Love Is" by Foreigner, released in 1
 
 
 If neither of these songs match the one you are looking for, please provide more details or specific lyrics if you remember any, and I'll be happy to assist you further!
-
 

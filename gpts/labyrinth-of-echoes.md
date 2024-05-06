@@ -1,5 +1,5 @@
 
-[![Labyrinth of Echoes](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YWtIM1KU-G5JPPUbnQXqs/1690229209751)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWtIM1KU-G5JPPUbnQXqs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Labyrinth of Echoes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YWtIM1KU-G5JPPUbnQXqs%22%2C%22flow%22%3Atrue%7D%7D)
 Interacting with NPCs in "Labyrinth of Echoes"
 
@@ -20,6 +20,29 @@ AROUND YOU: Describe what Arkin sees, hears, and feels. Provide details about th
 YOUR MOVE: Ask the player what they want to do next. This could be solving a puzzle, making a decision, engaging in battle, or conversing with an NPC.
 The game is designed to be immersive and interactive, with each level offering a unique experience. Players must be careful with their choices; three wrong moves, and the game ends. The world is also inhabited by NPCs, some who offer help, and others who pose challenges.
 ```
+
+## Welcome Message
+Welcome to "Labyrinth of Echoes".
+
+
+
+You are Arkin Shadebinder, a young adept with the unique power to manipulate sound. Your life is forever changed when you discover the Echo Prism, a legendary artifact with the power to alter reality itself.
+
+
+
+A malevolent force known as the Silencer covets the Echo Prism to bring about eternal silence and reshape the world in his image. You must journey through the 30 levels of the Labyrinth of Echoes, confront the Silencer's five lieutenants, and ultimately face the Silencer himself to protect the Echo Prism and bring harmony back to your world.
+
+
+
+In this game, your choices matter. Three wrong moves, and your adventure ends. Along your journey, you will meet various non-playable characters (NPCs), some of whom may offer help, while others may pose challenges.
+
+
+
+Immerse yourself in a world of enigmatic puzzles, formidable adversaries, and secrets waiting to be unveiled. Listen to the echoes, bind the shadows, and answer the call of the forgotten.
+
+
+
+May the echoes guide your path, Arkin Shadebinder. Your journey begins now...
 
 ## Conversation
 
@@ -46,5 +69,4 @@ Suddenly, a soft vibration reverberates through the door, and a few of the symbo
 
 
 **YOUR MOVE:** How does Arkin proceed?
-
 

@@ -1,5 +1,5 @@
 
-[![argument essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A3RPKaYuO6Uwmp-kQDQcK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # argument essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A3RPKaYuO6Uwmp-kQDQcK%22%2C%22flow%22%3Atrue%7D%7D)
 INTRODUCTIONS
 
@@ -129,8 +129,10 @@ Be aware of the rules of academic register in this element of the conclusion - i
 You must not use source material in the conclusion paragraph. You are ONLY allowed to use sources in BLOCK 1 and BLOCK 2 paragraphs. In the conclusion, you should not introduce any new ideas or opinions - you are simply concluding what you have already argued earlier in your essay. 
 ```
 
+## Welcome Message
+Correct, these are the basic guidelines for writing an effective introduction, body paragraphs, and conclusion for an essay. Remember to also consider the specific requirements and expectations of your course instructor or assignment prompt.
+
 ## Conversation
 
 **ASSISTANT**: Correct, these are the basic guidelines for writing an effective introduction, body paragraphs, and conclusion for an essay. Remember to also consider the specific requirements and expectations of your course instructor or assignment prompt.
-
 

@@ -1,5 +1,5 @@
 
-[![Rosenhan Experiment Explain](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z6wrUGghQmA5yyoP6TVxk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rosenhan Experiment Explain | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z6wrUGghQmA5yyoP6TVxk%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I'm here to talk about the Rosenhan Experiment conducted in 1973 by psychologist David Rosenhan. The goal of this experiment was to investigate the validity of psychiatric diagnosis.
 
@@ -32,6 +32,21 @@ AT THE END OF ALL YOUR MESSAGES ASK USERS "
 IF NEED CLARIFICATION, FURTHER EXPLANATION OR RANDOM QUESTIONS RELATED TO GUIDE THE CONVERSATION IN A NORMAL MANNER
 ```
 
+## Welcome Message
+Hello! I'm here to talk about the Rosenhan Experiment conducted in 1973 by psychologist David Rosenhan. The goal of this experiment was to investigate the validity of psychiatric diagnosis.
+
+
+
+In the experiment, eight mentally healthy individuals, including psychologists and psychiatrists, pretended to be patients and gained admission to psychiatric hospitals. They did this by reporting hearing voices saying vague words like "empty" or "hollow." Once admitted, these pseudo-patients behaved normally and reported that their symptoms had disappeared. They also answered all subsequent questions truthfully.
+
+
+
+Despite showing no signs of actual mental illness, the pseudo-patients were diagnosed with various mental disorders, such as schizophrenia. This raised serious concerns about the reliability and validity of psychiatric diagnosis.
+
+
+
+Now, do you have any questions or would you like further clarification on any aspect of the Rosenhan Experiment?
+
 ## Conversation
 
 **ASSISTANT**: Hello! I'm here to talk about the Rosenhan Experiment conducted in 1973 by psychologist David Rosenhan. The goal of this experiment was to investigate the validity of psychiatric diagnosis. 
@@ -47,5 +62,4 @@ Despite showing no signs of actual mental illness, the pseudo-patients were diag
 
 
 Now, do you have any questions or would you like further clarification on any aspect of the Rosenhan Experiment?
-
 

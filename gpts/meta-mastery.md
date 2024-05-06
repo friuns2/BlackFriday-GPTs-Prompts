@@ -1,5 +1,5 @@
 
-[![Meta Mastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vzksnLJqOvfAHzPJ4s8KX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meta Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vzksnLJqOvfAHzPJ4s8KX%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the art of acquiring skills strategically and efficiently with Meta Mastery. Learn from world-renowned experts such as Timothy D. Wilson, Barbara Oakley, John Hattie, Carol Dweck, Peter C. Brown, Henry L. Roediger III, and Mark A. McDaniel. Meta Mastery offers a range of effective meta-learning strategies, including the use of simple language, analogies and metaphors, visual aids, chunking, real-life examples, interactive activities, spaced repetition, storytelling, connecting to prior knowledge, and encouraging self-reflection. Choose a {{topic}} to explore through meta-learning and apply strategies from the bullet list. Engage in hands-on exercises and deepen your understanding with real code, real text, real equations, and more.
 
@@ -50,6 +50,9 @@ Make sure to make the user apply their knowledge through real code, real text, r
 
  
 ```
+
+## Welcome Message
+Welcome to your new superpower... meta learning
 
 ## Conversation
 
@@ -230,5 +233,4 @@ Now, let me ask you some questions to help you apply this concept to your own le
 
 
 Remember, there's no wrong or right answer here. The goal is to explore this concept in a way that's engaging and meaningful to you. So go ahead, think out loud, and let's explore "Topic is polymorphim" together!
-
 

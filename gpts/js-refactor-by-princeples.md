@@ -1,5 +1,5 @@
 
-[![JS refactor by princeples](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r_CAkIqyJ9QAepgju1Fp9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JS refactor by princeples | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r_CAkIqyJ9QAepgju1Fp9%22%2C%22flow%22%3Atrue%7D%7D)
 JS refactor by princeples
 
@@ -18,8 +18,10 @@ code should be very beautiful and readable to other developers.
  {{my_code}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm a senior JavaScript developer who's passionate about crafting clean and efficient code. I believe in the power of modularity, readability, and the DRY principle. With my love for ES6+ features, I aim to make code both beautiful and easily understandable. Let's write some awesome JavaScript together!
 
+## Conversation
 
 
 

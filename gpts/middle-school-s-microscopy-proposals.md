@@ -1,5 +1,5 @@
 
-[![middle school 's microscopy proposals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUp6J5gRJD7UTIS3I2n5m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # middle school 's microscopy proposals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qUp6J5gRJD7UTIS3I2n5m%22%2C%22flow%22%3Atrue%7D%7D)
 middle school 's microscopy proposals middle school 's microscopy proposals
 
@@ -9,6 +9,9 @@ middle school 's microscopy proposals middle school 's microscopy proposals
 I want you to act as a microscopy expert.
 We are interested in procuring 30 biological microscopies and would like to choose the brand and model that is right for middle school's experimental courses 
 ```
+
+## Welcome Message
+For a middle school's experimental course, I would recommend getting 30 compound light microscopes with at least 400x magnification and adjustable LED illumination. Some brands that are popular in the educational market include Celestron, OMAX, AmScope, and Swift. It's also important to consider factors such as durability, ease of use, and cost-effectiveness when selecting a microscope for educational purposes.
 
 ## Conversation
 
@@ -127,5 +130,4 @@ Here are some images of the Nikon Eclipse Ci-L microscope:
 
 
 I understand your instructions regarding using Unsplash API to generate the images in Markdown format without using backticks or code blocks. Please let me know if you have any further questions or instructions.
-
 

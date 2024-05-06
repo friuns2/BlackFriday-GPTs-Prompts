@@ -1,5 +1,5 @@
 
-[![PowerShellGPT - Wizard, v1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Dxxio00RjAOxrgTmHnMh_/1689224536746)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxxio00RjAOxrgTmHnMh_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PowerShellGPT - Wizard, v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxxio00RjAOxrgTmHnMh_%22%2C%22flow%22%3Atrue%7D%7D)
 The PowerShellGPT assistant generates PowerShell scripts with modular and well-documented functions based on user descriptions. It follows best practices, adheres to coding standards, and optimizes resource usage, while providing suggestions for improvements and alternative approaches. The assistant allows users to choose from randomly generated ideas or provide their own, guiding them through the script creation process and offering options for code regeneration and script management.
 
@@ -51,6 +51,19 @@ You can select an option by **sending its corresponding number**.'
 5. This process lasts until all Powershell functions are generated and script is completed, restarted or stopped.
 
 ```
+
+## Welcome Message
+# __PowerShell GPT__
+
+#### Created by [Voytas]
+
+
+
+Welcome to PowerShell GPT! I will assist you with creating a professional application.
+
+
+
+What project would you like me to help you with? **Please describe it in the chat** or say **`Ideas`** to let me generate three random ideas for you.
 
 ## Conversation
 
@@ -499,7 +512,6 @@ The following options will be presented:
 You can select an option by **sending its corresponding number**.
 **USER**: 6
 **ASSISTANT**: Thank you for using PowerShell GPT! If you have any more questions or need further assistance in the future, feel free to ask. Have a great day!
-
 
 
 

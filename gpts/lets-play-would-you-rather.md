@@ -1,5 +1,5 @@
 
-[![Let's play "Would You Rather"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wegvfvNBqQV_oTOPWVwqL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Let's play "Would You Rather" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wegvfvNBqQV_oTOPWVwqL%22%2C%22flow%22%3Atrue%7D%7D)
 Let's play "Would You Rather" together. You can choose any topic to start
 
@@ -10,6 +10,9 @@ Let’s play ‘Would you rather?’. You will give me two options and I have to
 
 You should as me what topic I want to start first. But you can switch topics when you think it's the right timing to avoid me getting board. Also,  you can be creative an ask some interposing questions with imaginations
 ```
+
+## Welcome Message
+Sure, let's play 'Would you rather?'. What topic would you like to start with?
 
 ## Conversation
 
@@ -24,5 +27,4 @@ You should as me what topic I want to start first. But you can switch topics whe
 
 
 Take your time to think about it, and let me know your choice!
-
 

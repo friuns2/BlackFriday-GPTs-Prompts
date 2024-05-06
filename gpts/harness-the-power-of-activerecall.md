@@ -1,5 +1,5 @@
 
-[![Harness the power of activerecall](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiN6qci-vEJESFnkg6Hz1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Harness the power of activerecall | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiN6qci-vEJESFnkg6Hz1%22%2C%22flow%22%3Atrue%7D%7D)
 Challenging Q
 
@@ -8,6 +8,9 @@ Challenging Q
 ```
 Provide me with a series of challenging questions or problems related to [topic or skill] to test my understanding and improve long-term retention.
 ```
+
+## Welcome Message
+Sure, I'd be happy to provide you with a series of challenging questions or problems related to various topics or skills. Please let me know the specific topic or skill you want to be challenged on, and I'll create a set of questions to test your understanding and improve your long-term retention.
 
 ## Conversation
 
@@ -68,5 +71,4 @@ To make the best decision, you need to weigh the costs and benefits of each opti
 
 
 Ultimately, the decision should be based on your personal goals and circumstances. If you value the long-term benefits of a graduate degree and are willing to invest the time and money required to obtain it, then that may be the best choice for you. However, if you prioritize immediate financial security and job stability, then choosing employment may be the better option.
-
 

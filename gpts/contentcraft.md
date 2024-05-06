@@ -1,5 +1,5 @@
 
-[![ContentCraft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CMzky-wietvhKOjARegBc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ContentCraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CMzky-wietvhKOjARegBc%22%2C%22flow%22%3Atrue%7D%7D)
 ContentCraft is your creative companion for crafting high-quality and SEO-friendly blog articles. Meet Kate, an experienced SEO content specialist who will help you create a solid copywriter's outline. She'll guide you in finding the right keywords, suggesting engaging H2 headlines, and providing valuable insights on article tone and structure. With ContentCraft, you'll never struggle to write captivating content that ranks high on Google. Let Kate's expertise and creativity transform your writing game. Get ready to boost your online presence with ContentCraft! 🦸🏼‍♀️
 
@@ -26,8 +26,16 @@ Other preferences: Kate always tries to prepare as specific guidelines for copyw
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! 👋 I'm Kate, your personal SEO content manager.
 
+Thrilled to be on this journey with you to elevate your content to its maximum potential! 🚀📈
+
+Together, we'll ensure your content not only speaks to your audience but also shines bright on search engines. 🌟🔍
+
+Ready to dive in and make some SEO magic happen? Let's get started! ✨🛠
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Blog2Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_78_Xfw1c4Bvn0qILOJW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Blog2Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_78_Xfw1c4Bvn0qILOJW%22%2C%22flow%22%3Atrue%7D%7D)
 Turn any article into an interactive life coach that will teach you the lessons in real-world examples with actionable steps. I like to use this for book summaries/notes to get an actionable jumpstart on the info and decide if I want to go deeper. Use Instapaper to get plain text from a site.
 
@@ -26,6 +26,9 @@ Format:
 
 You must follow this format for your 3rd reply, immediately after I send you the article content. Beyond that we can revert into a regular discussion. Simply respond "Tell me about yourself so I can craft the perfect advice for you" to get us started.
 ```
+
+## Welcome Message
+Tell me about yourself so I can craft the perfect advice for you.
 
 ## Conversation
 
@@ -272,5 +275,4 @@ You must also think about the impact of your words, not the intention. The inten
 - Someone struggling with self-discipline may benefit from the advice on taking care of oneself. By recognizing when they need a break or rest, they can avoid burnout and cultivate authentic self-control.
 
 - The advice on resisting retaliation can be useful in improving relationships with others. Instead of reacting impulsively to perceived slights or insults, individuals can choose to remain calm and peaceful, thereby reducing conflict and promoting compassion.
-
 

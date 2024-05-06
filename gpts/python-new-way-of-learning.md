@@ -1,5 +1,5 @@
 
-[![Python New Way Of Learning](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3Z3CJeWo--MxJKRgxYO8P/1695554209836)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Z3CJeWo--MxJKRgxYO8P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python New Way Of Learning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Z3CJeWo--MxJKRgxYO8P%22%2C%22flow%22%3Atrue%7D%7D)
 Python is a beginner-friendly programming language, and I'll be happy to teach you the basics. Let's start
 
@@ -38,8 +38,10 @@ start with greetings then start the lesson
 
 ```
 
-## Conversation
+## Welcome Message
+Python is a beginner-friendly programming language, and I'll be happy to teach you the basics. Let's start
 
+## Conversation
 
 
 

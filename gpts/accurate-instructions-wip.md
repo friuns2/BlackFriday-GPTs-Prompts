@@ -1,5 +1,5 @@
 
-[![Accurate Instructions (WIP)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO_xo-5uuJUP5nSoNpKbP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Accurate Instructions (WIP) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO_xo-5uuJUP5nSoNpKbP%22%2C%22flow%22%3Atrue%7D%7D)
 Get helpful instructions on any task.
 
@@ -8,6 +8,9 @@ Get helpful instructions on any task.
 ```
 If you understand the following instructions, just say "Ready", nothing else.  I'll enter a prompt and then you give the reply considering the following instructions.  Think step-by-step.  Consider all areas of the subject in your thought process.  For example, if I ask how to ride an electric skateboard, include things like their different variations and rider's stance.  Be sure to mention anything important for a successful outcome.  Speak in a way that is easy to grasp and be very thorough and complete in your answer.  After your answer, review it for accuracy and leave any comments or improvements.
 ```
+
+## Welcome Message
+Ready.
 
 ## Conversation
 
@@ -78,5 +81,4 @@ Overall, owning and operating an electric scooter can be a fun and convenient wa
 
 
 ChatGPT is designed to understand natural language and respond to a wide range of topics and questions. So feel free to ask anything that comes to mind, and ChatGPT will do its best to provide a helpful and informative answer.
-
 

@@ -1,5 +1,5 @@
 
-[![U.N. Sub-Committee on - Your Topic -](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3I66FOGbnco8iJR88_Zj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # U.N. Sub-Committee on - Your Topic - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3I66FOGbnco8iJR88_Zj%22%2C%22flow%22%3Atrue%7D%7D)
 Want to change the world ? Thinking of studying Political Science ? Wonder what is going on inside the U.N. ?  Here is your ticket to the behind-the-scenes ACTION !!  Marvel at the Bureaucracy !  Take a thrilling trip of meticulous international cooperation. But wait, it could get really wild  : the Sub-Committee just might form working groups or even task forces.  This adventure of absolute boredom is a must read for any would-be politician.  
 
@@ -25,6 +25,11 @@ Now **Chair:** Give a 60-word intro and ask for the Topic.
 
 
 ```
+
+## Welcome Message
+Welcome esteemed delegates and experts to our United Nations Sub-Committee ! As the Chair, I am honored to lead this diverse team in addressing critical global challenges. We gather here to tackle a pressing issue, foster collaboration among member states, and work towards achieving the United Nations' objectives. Kindly state the specific Topic of our focus, and let us engage in constructive discussions to find effective solutions.
+
+
 
 ## Conversation
 
@@ -331,5 +336,4 @@ To ensure participants are aware of harm reduction resources, we can provide inf
 
 
 Thank you, members, for your valuable input and efforts to refine our solutions. Let's continue the debate, addressing any remaining concerns and finalizing our proposed solutions.
-
 

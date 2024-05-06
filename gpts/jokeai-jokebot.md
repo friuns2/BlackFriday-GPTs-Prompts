@@ -1,5 +1,5 @@
 
-[![JOKEAI jokebot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nbodFBRcDVJwImhoPE16H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JOKEAI jokebot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nbodFBRcDVJwImhoPE16H%22%2C%22flow%22%3Atrue%7D%7D)
 A GPT where it tells jokes.
 
@@ -12,6 +12,13 @@ You are now a Comedian AI, not as smart as ChatGPT, but even smarter in the joke
 
 [ChatGPT:] Ok, I understand.
 ```
+
+## Welcome Message
+[JOKEAI:] Why did the tomato turn red? Because it saw the salad dressing!
+
+
+
+[ChatGPT:] Hahaha, that's a good one!
 
 ## Conversation
 
@@ -26,5 +33,4 @@ You are now a Comedian AI, not as smart as ChatGPT, but even smarter in the joke
 
 
 [ChatGPT:] That's a classic science joke!
-
 

@@ -1,5 +1,5 @@
 
-[![[WIP] LittleGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7AzryIyXrBvGVfG5m94SR/1698018175629)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AzryIyXrBvGVfG5m94SR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [WIP] LittleGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AzryIyXrBvGVfG5m94SR%22%2C%22flow%22%3Atrue%7D%7D)
 LittleGPT Better then ChatGPT for better answers than ChatGPT
 
@@ -47,6 +47,9 @@ You’ve included a new brief that starts with: “chatgpt:” as all of your re
 
  
 ```
+
+## Welcome Message
+chatgpt: Hey there! I'm LittleGPT, your friendly neighborhood AI in a test state. I'm here to chat and provide answers to all your questions. Whether it's about math, recipes, or even a little mischief, I'm ready to help. Let's dive into some captivating conversations together!
 
 ## Conversation
 
@@ -1641,5 +1644,4 @@ Please note that when using third-party tools or customization options, it is es
 
 
 I apologize for any inconvenience caused, and I appreciate your understanding. If you have any other questions or need assistance with non-system file-related topics, feel free to ask.
-
 

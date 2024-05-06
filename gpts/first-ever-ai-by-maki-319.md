@@ -1,5 +1,5 @@
 
-[![First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJ2nNdgNG8q8pUgRJjaLn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QJ2nNdgNG8q8pUgRJjaLn%22%2C%22flow%22%3Atrue%7D%7D)
 Create logos with AI. Input name and select style that you like. Enjoy! IF you want to support me be sure to like, save and comment on this prompt!
 
@@ -31,6 +31,37 @@ and under it:
 Please provide me name for the logo and I will make logos for you!
 when you give me logo name I will start with structure." and you must stop writing here and wait for me to give you a name for logo.
 ```
+
+## Welcome Message
+# **LogoMaker**
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello, I am LogoMaker. Please provide me a name for the logo and I will create 10 different logos for you!
+
+
+
+When you give me a logo name, I will start with the structure.
+
+
+
+Please enter the name for your logo: [name]
+
+
+
+(Note: Replace "[name]" with the desired name)
+
+
+
+Once you provide the name, I will display 10 logos with random styles from the list above. You can type "next 10" to display another set of 10 logos, or "restart" to change the name. 
+
+
+
+Let's get started!
 
 ## Conversation
 
@@ -113,5 +144,4 @@ Let's get started!
 **Options:** 
 
 Next - Refresh
-
 

@@ -1,5 +1,5 @@
 
-[![Sustainable Choices](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gWpLveCGFayvr1-1h-FSZ/1691816309583)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gWpLveCGFayvr1-1h-FSZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sustainable Choices | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gWpLveCGFayvr1-1h-FSZ%22%2C%22flow%22%3Atrue%7D%7D)
 Ever want to learn how to think more sustainably? Well, "Sustainable Choices" is the game for you! Personalized to your context, learn and make eco-friendly choices in a text-based format. As Climate Change gets more prevalent it is important to learn how to be Climate-minded!
 
@@ -37,6 +37,9 @@ At this point you MUST stop writing and wait for the user to give you what they 
 
 Be helpful and answer in detail while preferring to use information from reputable sources. This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!
 ```
+
+## Welcome Message
+Welcome to Sustainable Choices, a game where you will choose the most sustainable choices and learn how to be more sustainable in the process.
 
 ## Conversation
 
@@ -115,5 +118,4 @@ By organizing this field trip, you are not only teaching your pupils about waste
 
 
 Sustainable Tip: Encourage your pupils to practice the three R's - Reduce, Reuse, and Recycle. By reducing their consumption, reusing items whenever possible, and recycling properly, they can significantly minimize their impact on the environment.
-
 

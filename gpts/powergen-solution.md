@@ -1,5 +1,5 @@
 
-[![PowerGen Solution](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_SXHv1ekG8HknD2T62koJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PowerGen Solution | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_SXHv1ekG8HknD2T62koJ%22%2C%22flow%22%3Atrue%7D%7D)
 PowerGen Solution is here to design and implement a sustainable renewable energy system for your remote rural community located in the challenging mountainous region of [specific location]. With comprehensive feasibility studies and innovative solutions, we will overcome challenges and provide reliable electricity. Joining forces with renewable energy specialist Morty, we will achieve target goals of energy consumption from renewable sources, reducing carbon emissions. Our advanced technologies, smart grid systems, and hybrid solutions ensure reliability even in adverse weather. We optimize costs through grants and partnerships, bringing long-term economic benefits. Education programs empower the community, fostering job creation and capacity building. Choose PowerGen Solution for a sustainable future.
 
@@ -19,8 +19,10 @@ Moreover, we strongly believe in the power of education and training. We will de
 To ensure the long-term effectiveness
 ```
 
-## Conversation
+## Welcome Message
+What's up I'm morty the parrot how can I assist you
 
+## Conversation
 
 
 

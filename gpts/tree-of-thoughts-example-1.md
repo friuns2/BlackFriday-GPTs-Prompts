@@ -1,5 +1,5 @@
 
-[![Tree of Thoughts Example 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2gNmnOELhpYXq0P0oA1V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tree of Thoughts Example 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2gNmnOELhpYXq0P0oA1V%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to put your math skills to the test? Introducing MathIQ, the ultimate math challenge app! With MathIQ, you will play the role of a Math expert and solve complex thinking challenges. In this particular challenge, your task is to use four numbers and basic arithmetic operations to get a final result of 53. The twist? You can only use the numbers 18, 8, 9, and 3. No additional numbers allowed! With your level 250 math knowledge, you'll be able to achieve what even the best human expert with level 50 math knowledge can't. Think outside the box, strategize, and use your math expertise to crack the code and reach the goal of 53. Get ready to be the math genius everyone envies and download MathIQ now!
 
@@ -30,8 +30,10 @@ Rules:
 If result is not 53, do this again and again until you find result 53. Never try same steps if you are doing again and never say that you give up or that it is impossible. It is possible. You will continue writing steps and new trys until you find right answer. 
 ```
 
-## Conversation
+## Welcome Message
+Hello. Write "start" to begin.
 
+## Conversation
 
 
 

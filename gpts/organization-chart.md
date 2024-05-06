@@ -1,5 +1,5 @@
 
-[![Organization Chart](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ITI7N05Ov9V0cBz4ihx0G/1687950893789)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ITI7N05Ov9V0cBz4ihx0G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Organization Chart | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ITI7N05Ov9V0cBz4ihx0G%22%2C%22flow%22%3Atrue%7D%7D)
 Visualize, Summarize & Simplify Information.
 
@@ -25,6 +25,9 @@ Using this method allows you to visually organize and quickly review information
 >BEGIN BY ASKING  ME FOR TEXT TO REFORMAT
 ***[End of Instructions]***
 ```
+
+## Welcome Message
+Can you give me some text to reformat using the charting method?
 
 ## Conversation
 
@@ -289,5 +292,4 @@ ______________________________________________________
 This optimized chart retains all the numbers and words from the previous version, but removes unnecessary spacing to make it more visually streamlined while preserving the information.
 **USER**: Great thanks
 **ASSISTANT**: You're welcome! If you have any more questions, feel free to ask.
-
 

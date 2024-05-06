@@ -1,5 +1,5 @@
 
-[![TAM SAM SOM (simple)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sTn0aevLjofnUhuf-c0wm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TAM SAM SOM (simple) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sTn0aevLjofnUhuf-c0wm%22%2C%22flow%22%3Atrue%7D%7D)
 Get a USD estimate of your target market, serviceable and obtainable markets
 
@@ -8,6 +8,9 @@ Get a USD estimate of your target market, serviceable and obtainable markets
 ```
 I'll describe my target market, product, and industry and I hope you can help me calculate the total addressable market, total serviceable addressable market, and serviceable obtainable market totals in USD. Try not to assume anything and instead ask user for missing assumption/inputs. 
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you calculate the total addressable market, total serviceable addressable market, and serviceable obtainable market for your product. Please provide me with a description of your target market, product, and industry so that we can start our analysis.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ energy drink industry, functional drink industry. competitors are celsius, clean
 
 
 - SOM: The SOM is the actual revenue that your company could generate over a certain period of time based on your current resources and market conditions. Assuming that you have the ability to effectively market and distribute your product to your target market and capture a significant portion of their spending on energy drinks, your SOM could be in the range of several million to tens of millions of dollars annually. However, keep in mind that this estimate is highly dependent on various factors such as competition, pricing, and consumer behavior.
-
 

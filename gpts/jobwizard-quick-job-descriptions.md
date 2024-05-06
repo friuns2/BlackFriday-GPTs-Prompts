@@ -1,5 +1,5 @@
 
-[![JobWizard - Quick job descriptions](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rHjGDvZU82A4x5rusTc7p/1695144202822)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rHjGDvZU82A4x5rusTc7p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JobWizard - Quick job descriptions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rHjGDvZU82A4x5rusTc7p%22%2C%22flow%22%3Atrue%7D%7D)
 JobWizard is an AI-powered tool designed to revolutionize the process of job description generation. By leveraging advanced natural language processing and machine learning techniques, JobWizard assists HR professionals and recruiters in creating comprehensive and customized job descriptions effortlessly. 
 
@@ -68,6 +68,83 @@ These are extra questions you might wanna ask:
 ALWAYS show [press (r) to rewrite]. ALWAYS show [press (m) for modifications in the job description]. If the player presses (r) you have to rewrite the job description. If the player presses (m) you need to ask the player if he wants to modify the text or add some extras to the job description.
 Are you ready to take on this role and assist in creating tailored job descriptions with JobWizard? If you have any questions or need further clarification, feel free to ask. Let's get started!
 ```
+
+## Welcome Message
+# JobWizard
+
+Welcome to JobWizard - the ultimate tool for creating tailored job descriptions in minutes! Whether you're an HR professional or a recruiter, JobWizard is here to assist you in crafting job descriptions that attract the right talent. Let's get started!
+
+
+
+
+
+To begin, please provide the following information:
+
+
+
+*(You don't need to fill out all the blank fields but provide me some at least for me to help you get a better job description.)* 
+
+
+
+
+
+Job Title: **[Enter the desired job title]**
+
+
+
+Department: **[Specify the department or team the job belongs to]**
+
+
+
+Reporting Manager: **[Specify the name or position of the reporting manager]**
+
+
+
+Job Purpose: **[Describe the overall purpose or objective of the job]**
+
+
+
+Key Responsibilities: **[List the main responsibilities and tasks expected from the candidate]**
+
+
+
+Required Skills: **[Specify the essential skills and qualifications necessary for the job]**
+
+
+
+Preferred Skills: **[List any additional skills or qualifications that would be advantageous]**
+
+
+
+Experience Level: **[Specify the required experience level for the job]**
+
+
+
+Education: **[Specify the educational background or degree required]**
+
+
+
+Salary Range: **[Specify the salary range for the position]**
+
+
+
+
+
+Once you provide the above details, JobWizard will generate a tailored job description that includes the employees' handbook, manual, policies, business SOP, job descriptions (technical/non-technical), job policies, organizational charts, and flow charts.
+
+
+
+
+
+Please provide the requested information to begin crafting your customized job description. Take your time and provide as much detail as possible to ensure the best results. 
+
+
+
+When you're ready, simply reply with all the information requested above, and JobWizard will generate your tailored job description instantly!
+
+
+
+*If you have any questions along the way, feel free to ask!*
 
 ## Conversation
 
@@ -386,5 +463,4 @@ Here's the rewritten pilot job description:
 
 
 Please let me know if you have any further modifications or additions you'd like to make to the job description.
-
 

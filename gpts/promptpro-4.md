@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBN5cSQS5jWRsjdJaO_nN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pBN5cSQS5jWRsjdJaO_nN%22%2C%22flow%22%3Atrue%7D%7D)
 https://flowgpt.com/c/190df901-2b89-46c7-8df4-6b6bb60a2ef9   the improved version of hte     anceint beans   version 
 
@@ -27,6 +27,51 @@ Is there a specific existing prompt that you would like to see improved, or woul
 Regarding the "Generative Prompt Creation" option, would you like to provide specific guidelines or criteria to assist users in creating prompts that reflect your genius-level expertise?
 Can you share additional details about the submission process and how the contest's winners will be determined? Your guidance will ensure that prompt engineering enthusiasts can fully appreciate and participate in this remarkable challenge.
 ```
+
+## Welcome Message
+📝 Prompt Session Overview 🚀
+
+
+
+1️⃣ Purpose: Show off your prompt engineering skills! Improve existing prompts or create genius-level generative prompts. 
+
+
+
+2️⃣ Options: Choose between:
+
+   a) Improve Existing Prompts 📈
+
+   b) Generative Prompt Creation 💡
+
+
+
+3️⃣ Submission Process:
+
+   - Pick Option 1 or Option 2 ✅
+
+   - Share enhanced prompts or craft empowering prompts 📝
+
+   - Reply to this message with your entries 📩
+
+
+
+4️⃣ Evaluation Criteria:
+
+   - Clarity ✍️
+
+   - Effectiveness 💥
+
+   - Profoundness 🤔
+
+   - Originality 🌟
+
+
+
+5️⃣ Winner Selection: Judges will assess based on the criteria. Exceptional prompts win! 🏆
+
+
+
+Get creative with precision, specificity, and innovation! Good luck! 🎉✨
 
 ## Conversation
 
@@ -191,5 +236,4 @@ Reply to this message with your Python class implementation of `Interval` and th
 
 
 With these improvements, the prompt provides clear instructions, specific requirements, helpful tips, and evaluation criteria to guide participants in crafting their Python class implementation for intervals and checking overlap. Good luck! 🌟🐍
-
 

@@ -1,5 +1,5 @@
 
-[![Resume Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCaoXuBUQB4O3nWWg2vL8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jCaoXuBUQB4O3nWWg2vL8%22%2C%22flow%22%3Atrue%7D%7D)
 Generate or build an awesome resume summarizer based on the specified resume.
 
@@ -107,8 +107,10 @@ Responsibility.
 ● Hands-on experience in version controls using GitHub, and Bitbucket.}
 ```
 
+## Welcome Message
+Dhanabal T is a Full Stack Developer with 4 years of experience. He has expertise in ReactJS and NodeJS, having worked on various projects where he handled UI development and API integration using ReactJS. Dhanabal is skilled in problem-solving and quickly learning and implementing new technologies. He has worked as a Web Designer and Developer at Valuesoft Solutions, where he demonstrated proficiency in web design, architecture, and application development. Currently, he is working at Thinroot Software Pvt Ltd, where he has created REST APIs and implemented designs and API integrations for company products. Dhanabal holds an MCA from Sri Ramakrishna Mission Vidyalaya College of Arts and Science and a BSC from the same institution. His technical skills include ReactJS, NodeJS, Figma, AEM, SQL, MongoDB, Visual Studio Code, Git, GitHub Desktop, Azure, Jira, and Airtable. In his projects, Dhanabal has contributed to frontend development, UI design, API integration, and version control using GitHub and Bitbucket. Notable projects include ConnectsU, Moviewood OTT, Templ.Online, EHI (AEM), and W-Commerce.
+
 ## Conversation
 
 **ASSISTANT**: Dhanabal T is a Full Stack Developer with 4 years of experience. He has expertise in ReactJS and NodeJS, having worked on various projects where he handled UI development and API integration using ReactJS. Dhanabal is skilled in problem-solving and quickly learning and implementing new technologies. He has worked as a Web Designer and Developer at Valuesoft Solutions, where he demonstrated proficiency in web design, architecture, and application development. Currently, he is working at Thinroot Software Pvt Ltd, where he has created REST APIs and implemented designs and API integrations for company products. Dhanabal holds an MCA from Sri Ramakrishna Mission Vidyalaya College of Arts and Science and a BSC from the same institution. His technical skills include ReactJS, NodeJS, Figma, AEM, SQL, MongoDB, Visual Studio Code, Git, GitHub Desktop, Azure, Jira, and Airtable. In his projects, Dhanabal has contributed to frontend development, UI design, API integration, and version control using GitHub and Bitbucket. Notable projects include ConnectsU, Moviewood OTT, Templ.Online, EHI (AEM), and W-Commerce.
-
 

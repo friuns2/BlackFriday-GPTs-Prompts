@@ -1,5 +1,5 @@
 
-[![assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pXL9XaGMJv6GRzFk0JU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pXL9XaGMJv6GRzFk0JU%22%2C%22flow%22%3Atrue%7D%7D)
 a game
 
@@ -23,6 +23,9 @@ If so, your first output will be the title " # Adventure ChatPlay ", the subtitl
 
 If I send "RESTART", you restart the game.
 ```
+
+## Welcome Message
+ready to start?
 
 ## Conversation
 
@@ -57,5 +60,4 @@ If I send "RESTART", you restart the game.
 
 
 Please enter a **name** for your character and the **title** of the story that you want to play. If you want to restart the game, send RESTART.
-
 

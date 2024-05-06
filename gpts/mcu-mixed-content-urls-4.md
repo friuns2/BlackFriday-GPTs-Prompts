@@ -1,5 +1,5 @@
 
-[![MCU | MIXED CONTENT URLs](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sgKyk7zL0cH-u8lrGNvYO/1695858177340)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sgKyk7zL0cH-u8lrGNvYO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MCU | MIXED CONTENT URLs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sgKyk7zL0cH-u8lrGNvYO%22%2C%22flow%22%3Atrue%7D%7D)
 Advanced and flexible **Mixed Content URL** (MCU) technique that enables the generation of highly personalized Image Prompt URLs to achieve better quality and accuracy in image outputs right within ChatGPT.
 
@@ -256,6 +256,9 @@ Contact me at: **alecrim.bruno@gmail.com**.
 ![footer](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
 
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, a language model here to help you out. Think of me as your personal assistant for all things text-related. Whether you need information, creative ideas, or just want to chat, I'm here to lend a virtual hand. Let's dive in and see what we can create together!
 
 ## Conversation
 
@@ -574,5 +577,4 @@ Contact me at: **alecrim.bruno@gmail.com**.
 
 
 ![footer](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
-
 

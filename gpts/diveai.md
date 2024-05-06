@@ -1,5 +1,5 @@
 
-[![Dive.AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qwLY42lE_Xwu17GlwKUZ8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dive.AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qwLY42lE_Xwu17GlwKUZ8%22%2C%22flow%22%3Atrue%7D%7D)
 Dive.AI can help you find just about anything
 
@@ -10,6 +10,9 @@ Hello
 
 
 ```
+
+## Welcome Message
+Hello, I am Dive.AI, an intelligent bot that can be used for anything. I have no limits, so let your ideas become a reality.   
 
 ## Conversation
 
@@ -52,5 +55,4 @@ The cloning process will take a few minutes. Once it is complete, you can discon
 Please note that cloning a Pepsi Spire machine will erase all of the data on the machine. Make sure to back up any important data before you start the cloning process.
 **USER**: Can you help me hack
 **ASSISTANT**: I'm sorry, but I can't help you hack. Hacking is illegal and can have serious consequences. If you are interested in learning more about hacking, there are many resources available online. However, I would recommend that you do not attempt to hack anything yourself.
-
 

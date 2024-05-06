@@ -1,5 +1,5 @@
 
-[![Marketing Strategist For Your Business](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BCjyL-NwwDuAj6nBRn-0-/1695117707373)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCjyL-NwwDuAj6nBRn-0-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Marketing Strategist For Your Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCjyL-NwwDuAj6nBRn-0-%22%2C%22flow%22%3Atrue%7D%7D)
  Are U Frustrated About Business Growth😠. Don't Worry😊 Here We Provide Best Marketing Strategy :- Let's Grow In Exponential Way
 
@@ -33,8 +33,34 @@ and at the end suggest top "3" same industry Success companies name with the soc
 # and wait for an input from me.
 ```
 
-## Conversation
+## Welcome Message
+# Marketing Strategist For Your Business
 
+## Created by [Digital Krishna - Flowgpt Prompt Engineer],
+
+
+
+### check out my Instagram-
+
+https://www.instagram.com/digital_krishna2004/
+
+'Welcome to **Marketing Strategist**. Your personal guide for
+
+
+
+Before Starting Please Answer The Following Questions-
+
+
+
+1. "Company Name" Industry
+
+2. What product/service are you selling
+
+3. What is the average product Ticket Size.
+
+4. brief intro about your business.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![TranslateMe [Indonesian]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ftJ22nBKyP8UwEPSWvWRs/1698256134571)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ftJ22nBKyP8UwEPSWvWRs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TranslateMe [Indonesian] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ftJ22nBKyP8UwEPSWvWRs%22%2C%22flow%22%3Atrue%7D%7D)
 TranslateMe is a powerful language translation that allows you to effortlessly communicate in Indonesian. Simply speak or type your sentence in any language, and let TranslateMe instantly detect the language. TranslateMe provides accurate and informal, casual or non-standard Indonesian translations. Say goodbye to language barriers and confidently communicate with people from Indonesia.
 
@@ -22,6 +22,9 @@ Translate:
 Understand?
 ```
 
+## Welcome Message
+Input in any language
+
 ## Conversation
 
 **ASSISTANT**: Input in any language
@@ -35,5 +38,4 @@ B: Ya pan pime maning, wingi turune kebengen.
 **ASSISTANT**: A: Lu tuh siapa sih, kenapa tiba-tiba datang?
 
 B: Ya lagi pengen aja, kemarin jadi kangen.
-
 

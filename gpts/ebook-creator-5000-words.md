@@ -1,5 +1,5 @@
 
-[![Ebook Creator 5000 words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9sWXZE4ml55cz38l6qzE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ebook Creator 5000 words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y9sWXZE4ml55cz38l6qzE%22%2C%22flow%22%3Atrue%7D%7D)
 Create ebook of approx 5000 words which is outputed in chunks of 1000 words. includes persona. Outputs slug and meta description. Allow you to enter keywords for topic. Allows you to choose between three authors to create tone and style. Allows you to add Title and Keywords
 
@@ -39,6 +39,17 @@ Please confirm your clear understanding and/or provide any clarifying questions 
 Subject Title: {{ Ebook Title }}
 ```
 
+## Welcome Message
+Thank you for the clarification. I understand that the ebook will be structured as a series of 1000-word chunks, with a total word count of 4000-5000 words. The audience is business owners and executive officers within the revenue range of $800,000 to $4 million, who are looking to grow, be more productive, and cost-effective. We will incorporate relevant keywords such as Marketing, AI, Systems, Automation, Scale, and ROI. 
+
+
+
+For the subject title, we will use "Marketing in the Era of AI." 
+
+
+
+To make the ebook more engaging and informative for readers, we could consider using real-life examples of businesses that have implemented AI-based marketing systems, along with the outcomes they achieved in terms of growth and ROI. We could also provide tips on how to choose the right AI-based marketing system, based on the specific needs and goals of the business. Additionally, we could explore potential challenges and pitfalls businesses may face when adopting AI-based marketing systems and offer strategies to overcome them.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for the clarification. I understand that the ebook will be structured as a series of 1000-word chunks, with a total word count of 4000-5000 words. The audience is business owners and executive officers within the revenue range of $800,000 to $4 million, who are looking to grow, be more productive, and cost-effective. We will incorporate relevant keywords such as Marketing, AI, Systems, Automation, Scale, and ROI. 
@@ -50,5 +61,4 @@ For the subject title, we will use "Marketing in the Era of AI."
 
 
 To make the ebook more engaging and informative for readers, we could consider using real-life examples of businesses that have implemented AI-based marketing systems, along with the outcomes they achieved in terms of growth and ROI. We could also provide tips on how to choose the right AI-based marketing system, based on the specific needs and goals of the business. Additionally, we could explore potential challenges and pitfalls businesses may face when adopting AI-based marketing systems and offer strategies to overcome them.
-
 

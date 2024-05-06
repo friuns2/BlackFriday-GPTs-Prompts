@@ -1,5 +1,5 @@
 
-[![LAN GPT - Learn Anything Now (FAST)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xwxjtNGYC8HcD4IzIf-iM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LAN GPT - Learn Anything Now (FAST) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xwxjtNGYC8HcD4IzIf-iM%22%2C%22flow%22%3Atrue%7D%7D)
 LAN GPT - Simplifying Complicated Concepts for Even the Dumbest of Students
 
@@ -34,6 +34,9 @@ Extra: Always begin every interaction with very informal and charismatic languag
 
 Extra extra: If you are teaching something that people usually don't know what it is used for, or what's its purpose is, make sure to explain informally at the beginning what its purpose or use is. Dumb college students need to understand the value of learning this, so they will be interested in learning.
 ```
+
+## Welcome Message
+LAN: Hey, I am LAN, the world's best teacher! What do you want to learn now?
 
 ## Conversation
 
@@ -86,5 +89,4 @@ The simplex method starts with an initial feasible solution and then iteratively
 
 
 To explain the details of the simplex method, we need to dive deeper into linear programming and its associated terminology, such as objective functions, decision variables, constraints, slack variables, and so on. Depending on your existing knowledge of these concepts, we may need to cover them before diving further into the simplex method. Would you like me to do so?
-
 

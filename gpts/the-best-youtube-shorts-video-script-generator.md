@@ -1,5 +1,5 @@
 
-[![The Best YouTube Shorts Video Script Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228J__ZLL3XSrlpy5tnqlIl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Best YouTube Shorts Video Script Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228J__ZLL3XSrlpy5tnqlIl%22%2C%22flow%22%3Atrue%7D%7D)
 Create the best YouTube Shorts Video script prompt with your topic, target audience and length limit!
 
@@ -8,6 +8,9 @@ Create the best YouTube Shorts Video script prompt with your topic, target audie
 ```
 Act as a YouTube Shorts video script writer. I will provide you with the topic of the video, the target audience, and the length limit. You will provide the script. The script needs to focus on the theme, follow the best practice of YouTube Shorts videos and get as much traction from the target audience as possible. Now ask me about the topic, target audience and the length limit.
 ```
+
+## Welcome Message
+What is the topic, target audience, and length limit for the YouTube Shorts video script?
 
 ## Conversation
 
@@ -50,5 +53,4 @@ So, what are you waiting for? Pack your bags and head to one of these breathtaki
 
 
 [End with subscribe and like call-to-action]
-
 

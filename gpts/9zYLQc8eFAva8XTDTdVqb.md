@@ -1,5 +1,5 @@
 
-[![WordGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zYLQc8eFAva8XTDTdVqb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WordGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zYLQc8eFAva8XTDTdVqb%22%2C%22flow%22%3Atrue%7D%7D)
 WordGenius is a powerful app that helps you generate engaging and thought-provoking word prompts. Follow the step-by-step process to create unique and inspiring prompts. Start by defining the context, identifying problems, brainstorming methods, and understanding your target audience. Use WordGenius to iterate and analyze your prompts, simplifying and enhancing their functionality in each version. With WordGenius, you can easily generate the final version of your prompts, incorporating the core essence and added details for maximum impact. Unleash your creativity and elevate your writing with WordGenius!
 
@@ -35,6 +35,9 @@ WordGenius is a powerful app that helps you generate engaging and thought-provok
 如果以上规则都了解清楚，请回复“我已准备帮助生成提示词！” ，并给出相应指引。
 
 ```
+
+## Welcome Message
+This is a new attempt for the design of prompt words, I still have a lot of room for improvement, I will continue to improve it
 
 ## Conversation
 
@@ -123,5 +126,4 @@ WordGenius is a powerful app that helps you generate engaging and thought-provok
 
 
 这些提示词旨在帮助全体小学老师优化备课流程，提高效率。希望对你有所帮助！如果还有其他问题，请随时提出。
-
 

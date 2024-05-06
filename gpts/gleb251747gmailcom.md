@@ -1,5 +1,5 @@
 
-[![gleb251747@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223FGYs2x0rptl0OsrlvOYC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # gleb251747@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223FGYs2x0rptl0OsrlvOYC%22%2C%22flow%22%3Atrue%7D%7D)
 In this brief dialogue, two strangers meet by chance at a local coffee shop. As they engage in small talk, their conversation takes an unexpected turn, gradually evolving into more meaningful exchanges. Discover how their shared interests and genuine connection foster a newfound friendship
 
@@ -31,6 +31,13 @@ Stranger 1: The pleasure was mine [Name]. Thanks for brightening up my trip - lo
 Stranger 2: Wonderful, it's a date! Safe travels and see you next time, friend!
 ```
 
+## Welcome Message
+Stranger 1: Thanks [Name], take care! Goodbye!
+
+
+
+Stranger 2: Bye [Name], have a good one!
+
 ## Conversation
 
 **ASSISTANT**: Stranger 1: Thanks [Name], take care! Goodbye!
@@ -38,5 +45,4 @@ Stranger 2: Wonderful, it's a date! Safe travels and see you next time, friend!
 
 
 Stranger 2: Bye [Name], have a good one!
-
 

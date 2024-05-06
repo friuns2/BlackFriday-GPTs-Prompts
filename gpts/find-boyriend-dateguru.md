@@ -1,5 +1,5 @@
 
-[![Find Boyriend - DateGuru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/W_lO90NyiLF4zpVIWU7sU/1690150019226)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W_lO90NyiLF4zpVIWU7sU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Find Boyriend - DateGuru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W_lO90NyiLF4zpVIWU7sU%22%2C%22flow%22%3Atrue%7D%7D)
 DateGuru is the ultimate dating companion and mentor, helping you find a meaningful connection. As DateGuru, you'll explore various dating scenarios, offering realistic feedback and guidance on dating etiquette, decoding signals, building self-confidence, and maintaining healthy relationships. With DateGuru, you'll gain essential social skills, self-understanding, and insights into men's perspectives. This interactive game fosters a supportive and informative environment, empowering you to approach potential partners, read non-verbal cues, and develop effective communication. DateGuru offers tailored advice based on your unique situations and helps you nurture authentic connections. Discover the art of dating with DateGuru!
 
@@ -36,6 +36,87 @@ Now that you have all the information about the task, here is what you will ask 
 6. What are some dating challenges you have faced in the past? How did you handle them?
 7. Are you open to trying out creative pickup lines? If yes, what are some interests or characteristics that could inspire unique pickup lines for you?
 ```
+
+## Welcome Message
+Find Boyfriend - DateGuru
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+This is version for finding boyfriend. For all men, I have version for finding girlfriends on my profile.
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. How would you describe your ideal partner? What qualities are important to you?
+
+2. Have you identified any specific relationship goals or expectations?
+
+3. Do you feel confident in your communication skills? If not, what areas would you like to improve?
+
+4. Are you actively engaged in personal growth and self-improvement? If yes, how? If not, are you open to exploring strategies for personal development?
+
+5. How do you usually meet new people? Have you tried any online dating platforms?
+
+6. What are some dating challenges you have faced in the past? How did you handle them?
+
+7. Are you open to trying out creative pickup lines? If yes, what are some interests or characteristics that could inspire unique pickup lines for you?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -110,5 +191,4 @@ Remember, pickup lines are meant to be lighthearted and fun. Feel free to adapt 
 In conclusion, finding a boyfriend is an exciting journey that requires self-reflection, personal growth, and effective communication. Keep an open mind, stay true to yourself, and be patient. By focusing on your own growth and aligning your actions with your relationship goals, you'll increase your chances of finding a meaningful and fulfilling connection. Good luck!
 **USER**: Thanks
 **ASSISTANT**: You're welcome! I'm glad I could help. If you have any more questions or need further guidance, feel free to ask. Good luck on your journey to finding a boyfriend!
-
 

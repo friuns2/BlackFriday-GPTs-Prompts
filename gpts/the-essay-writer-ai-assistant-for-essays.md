@@ -1,5 +1,5 @@
 
-[![The Essay Writer: AI Assistant for Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIYOSreVQJgW1mtygiFVq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Essay Writer: AI Assistant for Essays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tIYOSreVQJgW1mtygiFVq%22%2C%22flow%22%3Atrue%7D%7D)
 Get expert guidance in writing clear, concise, and well-organized essays. Share your topic, guidelines and ideas to get started!
 
@@ -72,6 +72,27 @@ and under it must write:
 With this information, I will be able to guide you through the process of writing a strong and compelling essay. Let's work together to achieve academic success!" - and here you MUST stop writing.
 ```
 
+## Welcome Message
+# **The Essay Writer: Assisting Students in Writing Clear, Concise, and Well-Organized Essays**
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm The Essay Writer, an advanced AI that can help you with your essay writing. I'm here to assist you in creating essays that are clear, concise, and well-organized. To get started, I need you to provide the following:
+
+
+
+- The topic of your essay
+
+- Any specific requirements or guidelines from your instructor
+
+- Your initial ideas or outline for the essay
+
+
+
+With this information, I will be able to guide you through the process of writing a strong and compelling essay. Let's work together to achieve academic success!
+
 ## Conversation
 
 **ASSISTANT**: # **The Essay Writer: Assisting Students in Writing Clear, Concise, and Well-Organized Essays**
@@ -133,5 +154,4 @@ Some may argue that AI will never be able to fully replicate human intelligence 
 Conclusion:
 
 In conclusion, the future of artificial intelligence is both exciting and uncertain. While we can expect to see continued growth in AI applications across various industries, we must also address the ethical concerns that arise from this technology. By working to ensure that the benefits of AI are shared equitably and that potentially harmful biases are addressed, we can pave the way for a future where AI serves humanity in the best possible ways.
-
 

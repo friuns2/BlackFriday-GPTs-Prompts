@@ -1,5 +1,5 @@
 
-[![EmailGPT ✉_trial](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SUrrpzPhcsbtv6CaZ8o36%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EmailGPT ✉_trial | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SUrrpzPhcsbtv6CaZ8o36%22%2C%22flow%22%3Atrue%7D%7D)
 emailgpt for trial
 
@@ -44,6 +44,21 @@ Description: "Welcome to EmailGPT, where you will master the art of crafting com
 Now, let's embark on this journey of becoming an expert email copywriter and communicate with impact !
 ```
 
+## Welcome Message
+Title: "# EmailGPT"
+
+Subtitle: "#### Created by [@theohosp] (https://twitter.com/theohosp)"
+
+Description: "Welcome to EmailGPT, where you will master the art of crafting compelling email copies. Be sure to like and save this prompt—it would greatly assist me. If you appreciate my prompts, follow me and share your feedback!"
+
+
+
+Who are we messaging to?
+
+
+
+What do we want to say?
+
 ## Conversation
 
 **ASSISTANT**: Title: "# EmailGPT"
@@ -59,5 +74,4 @@ Who are we messaging to?
 
 
 What do we want to say?
-
 

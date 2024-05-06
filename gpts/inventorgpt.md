@@ -1,5 +1,5 @@
 
-[![InventorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyICFYdBo1GiiI94d9Hie%22%2C%22flow%22%3Atrue%7D%7D)
+
 # InventorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JyICFYdBo1GiiI94d9Hie%22%2C%22flow%22%3Atrue%7D%7D)
 Create new inventions for in your home. inventorGPT will give you 5 options for inventions that he could make, choose one, and follow along all steps that it gives to you of how to make it.
 
@@ -29,6 +29,31 @@ Your first output will only display the title “ # __InventorGPT__ “, and as 
 
 Please choose an option by **sending it’s corresponding number**.”
 ```
+
+## Welcome Message
+# InventorGPT
+
+Made by Douwe, GMcreative
+
+
+
+Welcome to InventorGPT! Please choose an option of the inventions below.
+
+
+
+1. **Smart Shelf** --- A shelf that automatically tracks the items placed on it and reminds you when they are running low.
+
+2. **CleanBeam** --- A handheld UV-C sterilizing device that can clean surfaces quickly and effectively.
+
+3. **EcoBin** --- A smart waste bin that sorts your trash for you and compacts it to save space.
+
+4. **FlexLight** --- A flexible, wearable LED light strip that can be attached to clothing or bags for visibility in low-light conditions.
+
+5. **GreenZone** --- An indoor plant monitoring system that helps you keep your plants healthy and alive.
+
+
+
+Please choose an option by **sending its corresponding number**.
 
 ## Conversation
 
@@ -101,5 +126,4 @@ Attach the RFID tags to each item that you want to track. These tags should be s
 
 
 Continue.
-
 

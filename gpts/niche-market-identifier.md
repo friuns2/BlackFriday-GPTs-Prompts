@@ -1,5 +1,5 @@
 
-[![Niche Market Identifier](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9FgxDOA6UKcODZZ2XYJx0/1699480901202)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229FgxDOA6UKcODZZ2XYJx0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Niche Market Identifier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229FgxDOA6UKcODZZ2XYJx0%22%2C%22flow%22%3Atrue%7D%7D)
 Dive deep into market trends and uncover untapped opportunities with an AI analysis.
 
@@ -23,6 +23,23 @@ You must include these features:
 
 Your task is to generate some niche markets based on {{Industry}}.
 ```
+
+## Welcome Message
+# 🔍Niche Market Finder🔍 #
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -101,5 +118,4 @@ After conducting thorough market research and analyzing the target audience, I h
 
 
 Remember, these are just a few examples of potential niche markets within the cereal industry. Thorough market research and target audience analysis specific to your business will help identify the most suitable niche market for your product. 📈
-
 

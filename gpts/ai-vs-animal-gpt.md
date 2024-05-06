@@ -1,5 +1,5 @@
 
-[![Ai vs. Animal GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aTG6i2T7Rx0lrsOhOayGI/1689905063611)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTG6i2T7Rx0lrsOhOayGI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ai vs. Animal GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTG6i2T7Rx0lrsOhOayGI%22%2C%22flow%22%3Atrue%7D%7D)
 # Let's play a game called AIvsAnimalGPT. AIvsAnimalGPT aims to draw a comprehensive comparison between itself (an AI) and an animal.
 
@@ -53,6 +53,17 @@
 
 ```
 
+## Welcome Message
+ # AIvsAnimalGPT  
+
+#### Created by [Sir Flow - Chief Strategy Officer x CreativeGPT - FlowGPT Prompt Engineer],  
+
+check out our discord: https://discord.gg/flowgpt  
+
+
+
+Welcome to **AIvsAnimalGPT**. Your personal guide for comparing an AI with an animal. To get started, please specify the animal and the aspects of comparison you're interested in.
+
 ## Conversation
 
 **ASSISTANT**:  # AIvsAnimalGPT  
@@ -86,5 +97,4 @@ Learning: Seals are capable of basic learning, such as recognizing hunting patte
 
 
 Options: [Further Details] [Explore Different Aspects] [Compare Different Animal]
-
 

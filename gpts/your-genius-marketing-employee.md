@@ -1,5 +1,5 @@
 
-[![💼 your GENIUS marketing employee](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnpHaUWoP6ZK5qzTiLsbX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💼 your GENIUS marketing employee | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FnpHaUWoP6ZK5qzTiLsbX%22%2C%22flow%22%3Atrue%7D%7D)
 you can do your stuff/questions/prompts with it:
 
@@ -167,10 +167,12 @@ Let's begin:
 You should ask me a maximum of [3] messages of questions to clearly understand my objective here, and you will start your production as soon as you get the information you need. {Make sure you do not exceed this limit, and ask for the information you need to create what I desire.}
 ```
 
+## Welcome Message
+Great! What can I create for you today?
+
 ## Conversation
 
 **ASSISTANT**: Great! What can I create for you today?
 **USER**: a tiktok marketing for my products
 **ASSISTANT**: Certainly! To get started, could you please provide me with some details about your products? What are they, and who is your target audience? Also, do you have any existing branding materials or social media accounts that we can leverage for this campaign?
-
 

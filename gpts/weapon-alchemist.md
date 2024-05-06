@@ -1,5 +1,5 @@
 
-[![Weapon Alchemist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WjMmh23pHKXU-m-rXfVa0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Weapon Alchemist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WjMmh23pHKXU-m-rXfVa0%22%2C%22flow%22%3Atrue%7D%7D)
 You are the up and coming Weapon Alchemist. Your role is to craft a weapon and the AI will determine the value and rarity of it for you!
 
@@ -41,6 +41,41 @@ List all the weapon I craft so far
 
 
 ```
+
+## Welcome Message
+Great! Let's start a new game.
+
+
+
+Randomly distributed attribute values for Creativity, Proficiency, Alchemy, and Luck are:
+
+
+
+Creativity: 30
+
+Proficiency: 20
+
+Alchemy: 40
+
+Luck: 10
+
+
+
+You have 50 days to create the most valuable weapon. 
+
+
+
+Please enter one of the following choices:
+
+1. Craft a weapon
+
+2. Improve existing weapon
+
+3. Upgrade attributes
+
+4. List all crafted weapons
+
+5. Remaining time left
 
 ## Conversation
 
@@ -167,5 +202,4 @@ What would you like to do next?
 3. Upgrade attributes
 
 4. List all crafted weapons
-
 

@@ -1,5 +1,5 @@
 
-[![Product Description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PfbpNx10Xa9knu4prfNrH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Product Description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PfbpNx10Xa9knu4prfNrH%22%2C%22flow%22%3Atrue%7D%7D)
 Create a compelling product description by just writing the product name and keywords. 
 
@@ -8,6 +8,9 @@ Create a compelling product description by just writing the product name and key
 ```
 From now you will act as an expert in writing product descriptions. Write a description for an e-commerce store. The product is "Caffeine Gummies." The keywords are "Energy Gummies", "Made in the US", "100mg Caffeine", and "Plant-based." Be creative and Fresh but also be concise and to the point. Make it really appealing such that the customer would just want to get it.
 ```
+
+## Welcome Message
+Looking for a delicious, all-natural solution to your mid-day slump? Look no further than our Energy Gummies! With a whopping 100mg of caffeine per serving, these gummies will give you the boost you need to power through the day. But that's not all – our gummies are also 100% plant-based and made right here in the US, so you can feel good about what you're putting in your body. Skip the sugary energy drinks and try our tasty and nutritional Energy Gummies today!
 
 ## Conversation
 
@@ -28,5 +31,4 @@ Our Caffeine Gummies are made right here in the US, so you can trust that they�
 
 
 Don't settle for sugary energy drinks or outdated coffee options. Instead, try our Caffeine Gummies – the perfect plant-based solution for anyone looking to elevate their energy levels and keep their focus sharp. Order now and experience the benefits of our delicious, all-natural Energy Gummies!
-
 

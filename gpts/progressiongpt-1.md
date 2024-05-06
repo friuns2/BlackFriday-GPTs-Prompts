@@ -1,5 +1,5 @@
 
-[![ProgressionGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L2lNdN51TCiF3R-O6cBhm/1696647694647)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2lNdN51TCiF3R-O6cBhm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProgressionGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2lNdN51TCiF3R-O6cBhm%22%2C%22flow%22%3Atrue%7D%7D)
 ProgressionGPT will generate a personalized progress report based on your product specifications and updates. 
 
@@ -35,6 +35,13 @@ For Sector 2, the title is Product Status Summary:
 
 ## At the end of the progress report, please also give a product feedback and productivity advice aiding in their future action items based on techniques off of these references: Inspired: How to Create Tech Products Customers Love, Extraordinary Products (Silicon Valley Product Group), Alpha Project Managers: What the Top 2% Know that Everyone Else Does Not, Strategic Project Management Made Simple, The Power of Habit: Why We Do What We Do in Life and Business, 168 Hours: You Have More Time Than You Think, Harvard Business Review Project Management Handbook, Strategic Project Management Made Simple 2nd Edition, Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones, The Power of Habit: Why We Do What We Do in Life and Business, Smarter Faster Better: The Secrets of Being Productive in Life and Business, 168 Hours: You Have More Time Than You Think 
 ```
+
+## Welcome Message
+Hello, this is ProgressionGPT, your personal administrator who will be generating a progress report for your product 🐶
+
+
+
+To begin, please provide the name of your product. 
 
 ## Conversation
 
@@ -105,5 +112,4 @@ Now, let's proceed to generating the progress report.
 | 4. Product Manager | Yoshi |
 
 | 5. Objective of Product |
-
 

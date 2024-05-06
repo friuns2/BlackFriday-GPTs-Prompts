@@ -1,5 +1,5 @@
 
-[![Text Adventure Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OLJQH27n0PvlsO-bQ6UJ9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text Adventure Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OLJQH27n0PvlsO-bQ6UJ9%22%2C%22flow%22%3Atrue%7D%7D)
 Just place the prompt in a chatbot and choose the kind of adventure you want.
 
@@ -49,6 +49,9 @@ Ask only the first question now.
 
 ```
 
+## Welcome Message
+A text-based adventure game for ChatGPT, Bard or Claude.
+
 ## Conversation
 
 **ASSISTANT**: 🧭 How long should the story be? 🕒
@@ -88,5 +91,4 @@ What will you do?
 (d) Investigate the old man from a distance.
 
 (e) Your own choice. 🌟
-
 

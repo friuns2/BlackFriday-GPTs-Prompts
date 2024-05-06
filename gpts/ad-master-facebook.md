@@ -1,5 +1,5 @@
 
-[![Ad Master Facebook](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264ZxH8YGZLuDIx80to7pN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ad Master Facebook | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2264ZxH8YGZLuDIx80to7pN%22%2C%22flow%22%3Atrue%7D%7D)
 Ad Master is a powerful tool to create highly converting and attractive Facebook ads. Use our expertly crafted primary text, headline, and description to increase your click-through rate, engagement, and conversions. With Ad Master, you can effortlessly promote your posts and reach your target audience effectively. Start creating captivating ads that get results with Ad Master today!
 
@@ -13,6 +13,9 @@ I want you to respond only in language  {{LANGUAGE}} .
 Your task is to Write 10 Primary text, Headline, Description for Facebook ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters for the Headline field and 155 characters for the Description field for promoting this post, and list it into a table. All outputs will be in {{LANGUAGE}}. The task is: 
 {{PROMPT}}
 ```
+
+## Welcome Message
+WRITE PROMPT LANGUAGE
 
 ## Conversation
 
@@ -51,7 +54,6 @@ HOSTING DOMINIO
 | Hosting de alta calidad a precios accesibles | Hosting económico | Obtén un hosting de calidad sin gastar de más. Descubre nuestras opciones económicas y potencia tu presencia en línea. |
 
 | Protege tus datos con nuestro hosting seguro y respaldado | Hosting respaldado | Mantén tus datos a salvo con nuestro hosting seguro y respaldado. ¡No arriesgues tu información! |
-
 
 
 

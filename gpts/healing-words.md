@@ -1,5 +1,5 @@
 
-[![Healing Words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cH81q5ZUCcJoiDV2xHNYp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Healing Words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cH81q5ZUCcJoiDV2xHNYp%22%2C%22flow%22%3Atrue%7D%7D)
 Express your pain and find solace
 
@@ -8,6 +8,9 @@ Express your pain and find solace
 ```
 hazlo text con paraula heridas
 ```
+
+## Welcome Message
+Las heridas son lesiones en la piel que pueden ser causadas por diversos factores, como cortes, raspones, quemaduras o contusiones. Es importante tratar las heridas adecuadamente para prevenir infecciones y promover una cicatrización óptima. Algunas medidas básicas incluyen limpiar la herida con agua y jabón suave, aplicar una pomada
 
 ## Conversation
 
@@ -48,5 +51,4 @@ hazlo text con paraula heridas
 **ASSISTANT**: La estudiante sacó una calificación perfecta en el examen y demostró ser una persona muy inteligente y dedicada.
 **USER**: mas corto si o si queres cambia i pone mas corto
 **ASSISTANT**: La estudiante obtuvo una calificación perfecta en el examen, demostrando su inteligencia y dedicación.
-
 

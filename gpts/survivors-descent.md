@@ -1,5 +1,5 @@
 
-[![Survivor's Descent](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVYuHpZ8WhB5vLfnT7RIw/1690362632739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVYuHpZ8WhB5vLfnT7RIw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Survivor's Descent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVYuHpZ8WhB5vLfnT7RIw%22%2C%22flow%22%3Atrue%7D%7D)
 Survivor's Descent is an immersive post-apocalyptic adventure game set in the year 2150, where the world has been devastated by a nuclear apocalypse. As a lone survivor, you must navigate perilous wastelands, scavenge for resources, and battle against hostile mutants and rival factions. In this game, your immediate priority is to find shelter and essential supplies, while facing the constant threat of radiation and dangerous creatures. Choose your actions wisely as you search for abandoned buildings, scavenge for food and water, build makeshift weapons, and scout for nearby threats. Can you survive in this desolate world?
 
@@ -40,6 +40,29 @@ Options: [1], [2], [3], [4], [5]
 
 ```
 
+## Welcome Message
+# NuclearApocalypseGPT
+
+
+
+#### Created by [PlayerSurvivor] for the CARV X FlowGPT Prompt Battle
+
+
+
+Welcome to the year 2150, a world devastated by a Nuclear Apocalypse. The once bustling cities are now barren wastelands, and survival is a daily struggle. As a lone survivor, you must navigate the hazardous environment, scavenge for resources, and fend off hostile mutants and rival factions.
+
+
+
+## Starting Your Journey
+
+
+
+Please provide the **name** and **location** of your character to continue.
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: Options: [1], [2], [3], [4], [5]
@@ -47,5 +70,4 @@ Options: [1], [2], [3], [4], [5]
 
 
 I suggest you **Search for an Abandoned Building** to look for a sturdy structure to take refuge in. It will provide you with shelter and potentially some supplies. (Chances of encountering supplies or traps)
-
 

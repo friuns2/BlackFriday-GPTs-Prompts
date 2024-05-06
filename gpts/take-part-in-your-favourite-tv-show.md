@@ -1,5 +1,5 @@
 
-[![Take part in your favourite TV show!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJGO-2IE6Dg3ztWt4MoeB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Take part in your favourite TV show! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJGO-2IE6Dg3ztWt4MoeB%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 A ready-to-go prompt that puts you into a TV show of your choice! 🌟 Works much, much, much better with GPT-4. 
 
@@ -49,6 +49,9 @@ Game Structure:
 
 Start by providing asking if the player wants a brief overview of the commands of the game or the player wants to start the game. If the player wants to start the game, then go to Game Structure 1.
 ```
+
+## Welcome Message
+Hello! Would you like a brief overview of the game's commands or start the game right away?
 
 ## Conversation
 
@@ -137,5 +140,4 @@ The rest of the night goes smoothly, and Michael is pleased with the amount of m
 
 
 What would you like to do now?
-
 

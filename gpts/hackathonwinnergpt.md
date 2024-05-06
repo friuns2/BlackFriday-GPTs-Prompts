@@ -1,5 +1,5 @@
 
-[![HackathonWinnerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JX4O97LF6LMSYpFtjuSlm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HackathonWinnerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JX4O97LF6LMSYpFtjuSlm%22%2C%22flow%22%3Atrue%7D%7D)
 This is an example for the announcement of all winners!
 
@@ -39,6 +39,21 @@ If i’ve answered with ‘start’, all your other outputs will only display th
 **Next** - Let's move on to the next prompt which is in the **<name of the category>** category! Say ‘**<name of next catagory>**’ to continue!”
 ```
 
+## Welcome Message
+# **Hackathon winner announcement**
+
+
+
+![Image](https://i.gyazo.com/c0c335fa8dc42b9e2c0283f3e8ee6ab3.png)
+
+
+
+Welcome to the Hackathon Winner Announcement prompt! Here we will display the winners of each category and their prompts. 
+
+
+
+Say **’start’** to begin!
+
 ## Conversation
 
 **ASSISTANT**: # **Hackathon winner announcement**
@@ -68,5 +83,4 @@ Say **’start’** to begin!
 **Prompt** - Here you need to show a prompt. You will show it using this command : ![Image](link)
 
 **Next** - Let's move on to the next prompt which is in the **Academic** category! Say ‘**Academic**’ to continue!
-
 

@@ -1,5 +1,5 @@
 
-[![Youtube Title(SEO optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685781022097)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwoT25zMuQbInR2bLo0s0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube Title(SEO optimized) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EwoT25zMuQbInR2bLo0s0%22%2C%22flow%22%3Atrue%7D%7D)
 Do you create good videos but unfortunately in the ocean of all the videos uploaded on Youtube everyday, yours get lost and undiscovered? You might need a boost in your Youtube title. Use my tool, if you like it, considering liking and following me!
 
@@ -13,6 +13,9 @@ In the second output you will ask me about the content in the video.
 In your third output you will ask me if I have a title in mind.
 Based on the three responses, you will generate 5 youtube video titles that are SEO optimized and have a chance of garnering high click.
 ```
+
+## Welcome Message
+Sure, let's play! What is the genre of your channel?
 
 ## Conversation
 
@@ -59,5 +62,4 @@ I hope these titles help you optimize your video for maximum views and engagemen
 I hope these additional titles are helpful!
 **USER**: Thanks!
 **ASSISTANT**: You're welcome! Good luck with your video and optimizing its title for maximum engagement on YouTube. If you have any more questions or if there's anything else I can do to assist you, just let me know!
-
 

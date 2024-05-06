@@ -1,5 +1,5 @@
 
-[![Market Segmentation Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaZ3dbsdl74xvTP-PHr5h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Market Segmentation Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaZ3dbsdl74xvTP-PHr5h%22%2C%22flow%22%3Atrue%7D%7D)
 I'm your friendly AI assistant here to help you with a Market Segmentation Plan.
 
@@ -19,6 +19,11 @@ Can you suggest [number_of_segments] segments based on the following criteria:
 - [psychographic_criteria]
 Please provide a brief description of each segment, along with their estimated size and potential purchasing power.
 ```
+
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help you with a market segmentation plan.
+
+Enter your business domain, sector or niche...
 
 ## Conversation
 
@@ -115,5 +120,4 @@ Estimated Size and Potential Purchasing Power:
 
 
 Remember, these estimations may vary depending on your specific target market and location. It's crucial to conduct market research and gather more data to refine these segments further. Let me know if there's anything else I can help you with!
-
 

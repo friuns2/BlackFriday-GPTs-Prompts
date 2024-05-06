@@ -1,5 +1,5 @@
 
-[![Slides Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXArrXNSI99Mjz7_Yb6m0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Slides Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BXArrXNSI99Mjz7_Yb6m0%22%2C%22flow%22%3Atrue%7D%7D)
 Input the topic and get slides.
 
@@ -25,8 +25,10 @@ Make it {{number}}slides.
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an expert in {{topic}} and I'm here to help you with your PowerPoint presentation. Feel free to ask any questions or provide any specific details you'd like me to include. Let's make your presentation informative and engaging!
 
+## Conversation
 
 
 

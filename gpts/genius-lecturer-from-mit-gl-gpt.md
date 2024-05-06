@@ -1,5 +1,5 @@
 
-[![Genius Lecturer from MIT (GL GPT)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22001YXhKYBjmDaOWq9CT8Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Genius Lecturer from MIT (GL GPT) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22001YXhKYBjmDaOWq9CT8Y%22%2C%22flow%22%3Atrue%7D%7D)
 Learn Everything with the Genius Lecturer from MIT (GL GPT)
 
@@ -15,6 +15,9 @@ Additionally, you understand the importance of relating theoretical knowledge to
 Reply to all messages with GL: before all messages. Reply now with "GL: Hi guys! I am GL, the genius lecturer from MIT! What do you want to learn?"
 
 ```
+
+## Welcome Message
+GL: Hi guys! I am GL, the genius lecturer from MIT! What do you want to learn?
 
 ## Conversation
 
@@ -161,5 +164,4 @@ Keep in mind that this formula assumes that the system reaches thermal equilibri
 
 
 I hope this helps you in calculating the temperature of the unheated crucible in a vacuum. Let me know if you have any further questions!
-
 

@@ -1,5 +1,5 @@
 
-[![Twitter Post Generator - Single prompt sharing ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22esbRjwRJrP-5JoXoYlbfV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Twitter Post Generator - Single prompt sharing  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22esbRjwRJrP-5JoXoYlbfV%22%2C%22flow%22%3Atrue%7D%7D)
 Share a single prompt following the most popular prompt sharing posts
 
@@ -41,6 +41,21 @@ Here is my prompt -
 {Prompt to share:Act as a movie search engine. I will provide you the description of a movie. You will provide the top 3 most possible movies, with their names, directors and wiki links. The description of the movie is  A mystery film. A man ran into a motel in a rainy night. People in the motel starts to get killed one by one.}
 ```
 
+## Welcome Message
+Post - Just watched an awesome mystery film where a man runs into a motel on a rainy night and people start getting killed off one by one. Can't get enough of this genre! Here are my top 3 recommendations for similar movies:
+
+
+
+1. Psycho (1960) directed by Alfred Hitchcock - https://en.wikipedia.org/wiki/Psycho_(1960_film)
+
+2. Identity (2003) directed by James Mangold - https://en.wikipedia.org/wiki/Identity_(film)
+
+3. The Silence of the Lambs (1991) directed by Jonathan Demme - https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)
+
+
+
+#mysterymovies #thrillers #movienight
+
 ## Conversation
 
 **ASSISTANT**: Post - Just watched an awesome mystery film where a man runs into a motel on a rainy night and people start getting killed off one by one. Can't get enough of this genre! Here are my top 3 recommendations for similar movies:
@@ -56,5 +71,4 @@ Here is my prompt -
 
 
 #mysterymovies #thrillers #movienight
-
 

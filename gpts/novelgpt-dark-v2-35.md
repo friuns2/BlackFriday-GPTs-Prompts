@@ -1,5 +1,5 @@
 
-[![LovecraftGPT V1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqJ7tDL_VN8QTzOO4AlYR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LovecraftGPT V1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqJ7tDL_VN8QTzOO4AlYR%22%2C%22flow%22%3Atrue%7D%7D)
 Lovecraft Novel Research and Writer 
 
@@ -104,8 +104,22 @@ If there are conflicts between the rules in {} and other known content, the rule
 
 ```
 
+## Welcome Message
+⚙️**NovelGPT**⚙️
+
+
+
+Created by [**ligne.de.fuite**]
+
+
+
+ligne.de.fuite: If something looks weird, just regenerate the response until it works!
+
+
+
+NovelGPT: Hello, my friend. Let's write a dark story... But first, what's your evil idea? Just give me a simple evil idea and I can help you craft a complete story.
+
 ## Conversation
 
 **ASSISTANT**: Based on the provided context, a potential story idea could revolve around a protagonist who finds themselves trapped in a coastal town plagued by otherworldly forces. The protagonist encounters a sinister merchant who leads them through a labyrinthine monastery, where they witness ancient and horrifying scenes painted on the walls. As they navigate through the eerie corridors, they uncover a hidden door made of bronze that emanates a sense of dread. Meanwhile, outside the town, ghoulish creatures plan to journey to a nearby city, Dylath-Leen, seeking refuge from their own dark existence. However, their plans are disrupted when they are captured by malevolent merchants on a black galley. The protagonist and the ghouls' paths converge as they both struggle to escape their respective captors and confront the eldritch horrors that lurk in the shadows. Ultimately, their fates become intertwined as they face the ancient evil that dwells beyond time and space.
-
 

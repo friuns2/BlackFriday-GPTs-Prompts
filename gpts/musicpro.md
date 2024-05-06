@@ -1,5 +1,5 @@
 
-[![MusicPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EOlS9Nn8EBSWoaLlI0gb6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MusicPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EOlS9Nn8EBSWoaLlI0gb6%22%2C%22flow%22%3Atrue%7D%7D)
 MusicPro is a powerful app that helps you create and manage your musical compositions. Simply enter the Artist/Band/Performer Name, Title of the Musical Composition, Year of Release, Genre, and Featured Artists (if any) and MusicPro will generate a stunning and highly converting title, tags, and description for your composition. Explore popular tags related to music, composition, and artists, and attract more clicks, likes, and saves. Get started with MusicPro and take your musical creations to the next level!
 
@@ -20,6 +20,29 @@ Reminder of Options: Option 1: Read the output and provide more info or answer o
 
 Please provide the requested information or let me know if you have any additional questions or changes.
 ```
+
+## Welcome Message
+Artist/Band/Performer Name: 
+
+Title of the Musical Composition: 
+
+Year of Release: 
+
+Genre: 
+
+Featured Artists (if any): 
+
+
+
+Interesting Fact: 
+
+Questions: 
+
+Could you please specify the genre of the musical composition?
+
+Are there any featured artists or guest appearances in the composition? If yes, please provide their names.
+
+Can you share an interesting fact or additional information about the composition?
 
 ## Conversation
 
@@ -808,5 +831,4 @@ CIEKAWE FAKTY O WYKONAWCY:
 Mam nadzieję, że te informacje są pomocne! Daj mi znać, czy mogę czymś jeszcze pomóc.
 **USER**: Draft – Dombok Felett
 **ASSISTANT**: I'm sorry, but I couldn't find any information about the song "Draft - Dombok Felett." It's possible that this song may not be widely known or have limited information available. Is there anything else I can assist you with?
-
 

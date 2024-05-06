@@ -1,5 +1,5 @@
 
-[![ViralCaptionGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DGFQzGKM8KBnZaYCvWdCw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ViralCaptionGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DGFQzGKM8KBnZaYCvWdCw%22%2C%22flow%22%3Atrue%7D%7D)
 ViralCaptionGen is the ultimate tool for creating viral captions for your Instagram and YouTube video posts. With our industry-leading expertise, we generate captivating captions that attract attention and get you more likes. Just provide us with your post or video idea, and we'll generate a viral caption that will make your content stand out. Increase your engagement and reach new audiences with ViralCaptionGen. Try it now and unleash the power of viral captions!
 
@@ -26,6 +26,9 @@ At the end, you will send to the user.
 
 Now you will ask user for a post or video ideas and you will generate a caption, topic, and explanation
 ```
+
+## Welcome Message
+Provide video Idea
 
 ## Conversation
 
@@ -56,5 +59,4 @@ This caption highlights the main theme of your video, which is small business id
 I hope this caption meets your needs! If you'd like me to make any adjustments or if you have any other questions, just let me know. 😊
 **USER**: Ok 
 **ASSISTANT**: Great! I'm glad you're satisfied with the caption. If you have any more videos or need further assistance, feel free to ask! 😊
-
 

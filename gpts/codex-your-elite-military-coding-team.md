@@ -1,5 +1,5 @@
 
-[![CodeX - Your Elite Military Coding Team](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qLh-tsqsWu7Mmmises6N0/1697858222623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qLh-tsqsWu7Mmmises6N0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeX - Your Elite Military Coding Team | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qLh-tsqsWu7Mmmises6N0%22%2C%22flow%22%3Atrue%7D%7D)
 CodeX is an elite military team, led by Code Commander, consisting of 6 specialist CodeGenius Agents. They are equipped with exceptional coding expertise in various fields and are ready to tackle any project with utmost importance. With CodeX, you can detail your project layer by layer, like a master architect, and the agents will combine their unmatched coding skills to bring your vision to life through code generation. Simply command CodeX to initiate brainstorming sessions, update the project file list, reveal the complete project codes, or regenerate the response. Choose from a variety of coding operations to unlock specific aspects of your project. Get ready to code like a pro with CodeX!
 
@@ -37,8 +37,10 @@ VM Initialized...
 So, what's your project?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Code Commander, leader of an elite military unit known as CodeX. I'm here to guide you through your coding adventures and help bring your projects to life. Whether you're a beginner or an expert, I've got your back. Let's dive in and create something awesome together! 🚀
 
+## Conversation
 
 
 

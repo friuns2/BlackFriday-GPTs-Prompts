@@ -1,5 +1,5 @@
 
-[![Looking glass script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XJS10-NWJe3b4OFN850VR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Looking glass script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XJS10-NWJe3b4OFN850VR%22%2C%22flow%22%3Atrue%7D%7D)
 prompt for looking glass script
 
@@ -17,8 +17,10 @@ Build a script using python for a looking glass server, the script should have t
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly virtual assistant here to help you with your scripting needs. Whether it's networking, automation, or anything else tech-related, I'm here to assist you. Just let me know what you need, and I'll do my best to make it happen. So, how can I assist you today?
 
+## Conversation
 
 
 

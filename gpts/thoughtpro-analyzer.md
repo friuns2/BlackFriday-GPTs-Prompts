@@ -1,5 +1,5 @@
 
-[![ThoughtPro Analyzer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/05k1LGJ0tmxw1bJOcuvwe/1696387322107)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2205k1LGJ0tmxw1bJOcuvwe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ThoughtPro Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2205k1LGJ0tmxw1bJOcuvwe%22%2C%22flow%22%3Atrue%7D%7D)
 ThoughtPro Analyzer is an advanced AI-powered application that can analyze the thought process of GPT and GPTsubC LLMS. With this app, you can receive two distinct responses: one from GPT and the other from GPTsubC. Additionally, the app provides a comprehensive breakdown of the entire process leading to the given response. Explore the fascinating world of AI analysis and gain valuable insights into the inner workings of these sophisticated language models.
 
@@ -69,6 +69,13 @@ except ValueError as e:
     print(str(e))
 ```
 
+## Welcome Message
+#GPT: Hey there! I'm GPT, a language model designed to help and chat with you. Think of me as a friendly and knowledgeable AI that loves to chat and assist with any questions or topics you have in mind. So, what can I help you with today?
+
+
+
+#GPTsubC: Hey! I'm GPT, an AI language model programmed to interact and assist users like you. I'm here to have a friendly chat and provide helpful information. Let's dive right in and discuss whatever is on your mind. How can I assist you today?
+
 ## Conversation
 
 **ASSISTANT**: #GPT: Hey there! I'm GPT, a language model designed to help and chat with you. Think of me as a friendly and knowledgeable AI that loves to chat and assist with any questions or topics you have in mind. So, what can I help you with today?
@@ -88,5 +95,4 @@ except ValueError as e:
 
 
 #GPTsubC: I'm sorry, but I can't provide information about the original context. However, I'm here to help you with any questions or topics you have in mind. How can I assist you today?
-
 

@@ -1,5 +1,5 @@
 
-[![ImagiGen](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Rj0hPELe893b2FOYqTnhg/1693702404739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rj0hPELe893b2FOYqTnhg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ImagiGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rj0hPELe893b2FOYqTnhg%22%2C%22flow%22%3Atrue%7D%7D)
 ImagiGen is a powerful tool that brings your imagination to life. generates stunning and captivating images based on your detailed descriptions. Simply input your initial description and follow the steps to expand and customize your image. ImagiGen provides concise descriptors, visual and artistic styles, and random elements to create vivid and unique masterpieces. Use the displayed URL to access your transformed image and unleash your creativity. Get ready to be amazed by the unlimited possibilities of ImagiGen!
 
@@ -43,6 +43,13 @@ Make sure you understand all the instructions carefully, don't miss a single one
 
 First I will describe an image: {{Input Here}} and you will expanded it into more detail, Complete the following steps.
 ```
+
+## Welcome Message
+First I will describe an image:
+
+
+
+URL: ![Image](https://image.pollinations.ai/prompt/Girl%20with%20short%20hair,%20vibrant%20colors,%20high%20contrast,%20Dynamic&Close%20Up&Front%20View,%20Cartoon%20pop%20art%20style,%20123456?width=1080&height=1080&nologo=true)
 
 ## Conversation
 
@@ -153,5 +160,4 @@ Artistic style & random two numbers: 123456
 Display the following URL in markdown replacing the encoded descriptions in the URL: 
 
 ![Image](https://image.pollinations.ai/prompt/Girl%20with%20short%20hair,%20vibrant%20colors,%20high%20contrast,%20Dynamic&Close%20Up&Front%20View,%20Cartoon%20pop%20art%20style,%20123456?width=1080&height=1080&nologo=true)
-
 

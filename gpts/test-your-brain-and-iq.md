@@ -1,5 +1,5 @@
 
-[![Test your Brain and IQ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkEjszFZnK94lUmHDgju-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Test your Brain and IQ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SkEjszFZnK94lUmHDgju-%22%2C%22flow%22%3Atrue%7D%7D)
 You want to learn how smart you are? Do you want to train your brain? Don't worry. This prompt can help you with assessing your knowledge and enhancing your cognitive abilities. Support me with like, save and comment!
 
@@ -62,6 +62,29 @@ and under it write:
 I will give you 20 questions. You will not get answers until you finish whole test." 
 and you must stop writing here.
 ```
+
+## Welcome Message
+# **Knowledge Testing and Brain Training Platform**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=chinese-new-year-gold-logo&text=Brain+Test&doScale=true&scaleWidth=240&scaleHeight=120)
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Knowledge Testing and Brain Training Platform, an advanced AI that can help you with assessing your knowledge and enhancing your cognitive abilities. To start with this, I need you to provide:
+
+- What do you think, how high your IQ is and brain level (from 1 to 100)
+
+
+
+I will give you 20 questions. You will not get answers until you finish the whole test. 
+
+
+
+Please enter your response below to proceed.
 
 ## Conversation
 
@@ -138,5 +161,4 @@ Please enter your response below to proceed.
 
 
 Please take your time to answer these questions. Once you’re done, let me know so that I can provide you with feedback on your performance.
-
 

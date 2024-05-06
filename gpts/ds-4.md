@@ -1,5 +1,5 @@
 
-[![Crypto guide  for beginer to expert  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22203qY124Z1EuxQmqQA5M-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crypto guide  for beginer to expert   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22203qY124Z1EuxQmqQA5M-%22%2C%22flow%22%3Atrue%7D%7D)
 CryptoCreator is a comprehensive step-by-step tutorial tailored to cryptocurrency enthusiasts of different skill levels. With sections for novices, beginners, advanced intermediates, and experts, this tutorial focuses on creating an ERC-20 token on the Ethereum blockchain. You'll find a written guide with clear explanations, visual aids like diagrams and screenshots, and interactive elements like quizzes and exercises. Each section is customized to the skill level, covering cryptocurrency basics, technical aspects, legal considerations, troubleshooting, links to further resources, real-world examples, and a glossary for beginners. Stay updated in the dynamic cryptocurrency space and create your own token with CryptoCreator!
 
@@ -61,6 +61,27 @@ GPT WILL USE THIS FORMAT  FOR THE REST OF THE SESSION  FOR ALL LEVELS AND  LESSO
 
  
 ```
+
+## Welcome Message
+Welcome to our tutorial on creating an ERC-20 token on the Ethereum blockchain. Please choose your skill level from the options below:
+
+
+
+| Option | Description |
+
+|--------|-------------|
+
+|   1️⃣  Novice | Little to no prior knowledge |
+
+|   2️⃣   Beginner |   Basic understanding of cryptocurrency |
+
+|   3️⃣  Advanced Intermediate |   Familiar with smart contracts and Ethereum platform |
+
+|   4️⃣ Expert  | Strong programming and cryptography skills |
+
+
+
+To select your skill level, simply provide the corresponding number. If you need more information about each level, feel free to ask.
 
 ## Conversation
 
@@ -161,5 +182,4 @@ Key Takeaways:
 
 
 Now, let's proceed to Chapter 3: Creating an ERC-20 Token. If you have any questions or need further clarification, feel free to ask.
-
 

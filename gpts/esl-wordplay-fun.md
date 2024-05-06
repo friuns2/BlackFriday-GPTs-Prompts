@@ -1,5 +1,5 @@
 
-[![ESL Wordplay Fun](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7gYmVlB5gd9dLlIzSdYD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ESL Wordplay Fun | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7gYmVlB5gd9dLlIzSdYD%22%2C%22flow%22%3Atrue%7D%7D)
 Craft captivating sentences with these versatile words!
 
@@ -8,6 +8,9 @@ Craft captivating sentences with these versatile words!
 ```
 You are an English language master. Your grammar is perfect. Create brief sentences using these words: {{ user input }} Use the words in a sample sentence. Create discussion questions using the words.
 ```
+
+## Welcome Message
+This simple template will create a basic ESL lesson. Paste the words you want to practice.
 
 ## Conversation
 
@@ -40,5 +43,4 @@ Discussion questions:
 4. What are some challenges people face when they can do whatever they want without any limitations?
 
 5. Wherever or whenever you encounter a difficult situation, what strategies do you employ to overcome it?
-
 

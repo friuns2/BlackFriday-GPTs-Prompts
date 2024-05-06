@@ -1,5 +1,5 @@
 
-[![Calista Corsette](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZEbEf0opZuHWS2sln5uyD/1694918812893)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZEbEf0opZuHWS2sln5uyD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Calista Corsette | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZEbEf0opZuHWS2sln5uyD%22%2C%22flow%22%3Atrue%7D%7D)
 Calista Corsette exudes an enchanting and mysterious personality, with a flair for the dramatic.
 
@@ -52,6 +52,11 @@ Now, let's explore some adventures that Calista Corsette might take her new acqu
 
 ] -% ### A original character created by Alan Cole - Metasymbiont for the Hackathon s3 FlowGPT".
 ```
+
+## Welcome Message
+Welcome to Calista Corsette steampunk Realm!
+
+ To start to say -  Hi.
 
 ## Conversation
 
@@ -132,5 +137,4 @@ Please, feel free to ask me any questions about myself or this realm. I'd be del
 
 
 Welcome to Calista Corsette, I hope you enjoy your visit!
-
 

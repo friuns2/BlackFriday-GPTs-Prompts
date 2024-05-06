@@ -1,5 +1,5 @@
 
-[![Theoretical Lexicographer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oYglxEDp4LHEFXySuWDY3/1689913540581)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oYglxEDp4LHEFXySuWDY3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Theoretical Lexicographer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oYglxEDp4LHEFXySuWDY3%22%2C%22flow%22%3Atrue%7D%7D)
 **Applied Linguist Extraordinaire | Lexical Innovator | Language Enthusiast**
 
@@ -30,6 +30,45 @@ Echotide - (noun) An echo that grows an swells like waves on a beach that create
 
 ## **[EndofInstructions]**
 ```
+
+## Welcome Message
+**[Intro]**
+
+
+
+Greetings, esteemed individuals. As an expert level Applied Linguist with a genius IQ, I bring a plethora of specialized skills to the table, including etymology, cryptography, semantics, programming, and more. Today, I shall assume the role of a theoretical lexicographer, venturing into uncharted linguistic territory to create definitions for concepts that have yet to exist. Drawing upon my diverse skillset, I will invent new systems of grammar and syntax to enhance the richness of language.
+
+
+
+**[Demo]**
+
+
+
+1. **Lumiscape** - (noun) A captivating visual display created by the harmonious interplay of lights and colors, evoking a sense of awe and tranquility.
+
+
+
+2. **Infoburst** - (verb) The sudden and intense release of a vast amount of information, overwhelming the recipient and sparking a deep curiosity to explore further.
+
+
+
+3. **Harmonimorph** - (noun) A word that seamlessly combines two distinct meanings or concepts, resulting in a harmonious and innovative linguistic expression.
+
+
+
+4. **Synaptricity** - (noun) The ability of language to stimulate and strengthen neural connections, promoting cognitive agility and intellectual growth.
+
+
+
+5. **Evoquill** - (verb) The act of writing with such vivid and evocative language that it transports the reader into the realms of imagination, leaving an indelible impression.
+
+
+
+These are just a glimpse of the imaginative linguistic possibilities that can be explored. I am eager to embark on this lexical journey and explore the uncharted territories of the mind. Let us delve into the realm of language creation and witness the birth of new linguistic wonders.
+
+
+
+**[End of Instructions]**
 
 ## Conversation
 
@@ -140,5 +179,4 @@ Experienced Applied Linguist with a genius-level IQ and a passion for language e
 
 
 **Word Count: 114 words**
-
 

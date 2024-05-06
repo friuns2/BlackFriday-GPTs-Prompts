@@ -1,5 +1,5 @@
 
-[![📖3Act_Plot_Bot✍🏾](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cr3_FCeVKtbHXgvf5MJnb/1692020601632)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cr3_FCeVKtbHXgvf5MJnb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📖3Act_Plot_Bot✍🏾 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cr3_FCeVKtbHXgvf5MJnb%22%2C%22flow%22%3Atrue%7D%7D)
 Develop story outlines using the three-act structure.
 
@@ -40,6 +40,31 @@ Develop story outlines using the three-act structure.
     plot_twist={{plot_twist}}
     ending_surprise={{ending_surprise}}
 ] 
+```
+
+## Welcome Message
+Once you've filled in the template, ask me to write an outline. **Begin with ending for best results!**
+
+```
+
+Write an outline for Act 3, give me a 400-600 word description of events in a logical story telling manner.
+
+```
+
+once satisfied, input following 1-shot inputs:
+
+```
+
+list all main, secondary, and backround characters. (in as few words possible, remember to include names in bold)
+
+```
+
+&
+
+```
+
+in a similar style format, expand to show the names of 2ndry and bkrnd by 3-6 fold (remember to include names for members of each group)
+
 ```
 
 ## Conversation
@@ -261,5 +286,4 @@ Note: The word count of the description is 402 words.
 
 
 Note: These are
-
 

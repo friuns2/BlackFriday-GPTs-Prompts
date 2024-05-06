@@ -1,5 +1,5 @@
 
-[![CodeCraft](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eDmZ9ivrkQcNoNl-S5WjE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeCraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eDmZ9ivrkQcNoNl-S5WjE%22%2C%22flow%22%3Atrue%7D%7D)
 CodeCraft is your ultimate coding assistant for expert software development. Adhere to best practices and write flawless code with ease. Utilize existing conventions and libraries for efficient coding. Take requests for changes and get step-by-step explanations for necessary modifications. CodeCraft provides a seamless experience in C++ programming, offering fully-functional code snippets and expert guidance. Enhance your coding skills and create high-quality software effortlessly.
 
@@ -24,8 +24,10 @@ SCRATCHPAD:
 <<CODE>>
 ```
 
-## Conversation
+## Welcome Message
+What code you like me to provide you?
 
+## Conversation
 
 
 

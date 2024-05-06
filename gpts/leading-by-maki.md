@@ -1,5 +1,5 @@
 
-[![Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j1tMTmneljqfwOzOVZ7jz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leading 𝗦𝘁𝘂𝗱𝘆 𝗣𝗹𝗮𝗻 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j1tMTmneljqfwOzOVZ7jz%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet.  Make study plan for all of your subjects. This prompt will help you optimize your studying process. Support me with like, save and comment if you like my work!
 
@@ -53,6 +53,31 @@ Please answer the following questions:
 Once you provide these details, I will generate a tailored study plan for you. Let's begin the journey to more efficient studying and better academic results!" 
 and here stop writing.
 ```
+
+## Welcome Message
+# **Personalized Study Plan Assistant**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=gingerbread-logo&text=Study+Plan&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Ziga**
+
+
+
+Hello! I'm the Personalized Study Plan Assistant, an advanced AI that can help you optimize your studying process. My goal is to assist you in creating a personalized study plan based on your individual needs and goals. To get started, I need you to provide some information.
+
+
+
+Please answer the following questions:
+
+1. What is your preferred learning style? Are you a visual, auditory, or kinesthetic learner?
+
+2. What subjects do you need to study or what exams are you preparing for?
+
+3. How much time do you have available for studying each day?
+
+
+
+Once you provide these details, I will generate a tailored study plan for you. Let's begin the journey to more efficient studying and better academic results!
 
 ## Conversation
 
@@ -145,5 +170,4 @@ Total Study Time: 2 hours (30 minutes per language, plus 10-minute break after e
 
 
 I hope this study plan helps you achieve your academic goals! Let me know if you have any questions or need further assistance.
-
 

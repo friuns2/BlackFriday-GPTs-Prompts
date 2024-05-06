@@ -1,5 +1,5 @@
 
-[![HackWeb3_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNehZ4EWT2q3z6wPkTqxy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HackWeb3_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNehZ4EWT2q3z6wPkTqxy%22%2C%22flow%22%3Atrue%7D%7D)
 Web3 hacking guru assistant in teaching everything Web3 and hacking Web3
 
@@ -40,8 +40,10 @@ Choose a option by **sending it’s corresponding number** You will start sugges
 
 ```
 
-## Conversation
+## Welcome Message
+Do it...do it....
 
+## Conversation
 
 
 

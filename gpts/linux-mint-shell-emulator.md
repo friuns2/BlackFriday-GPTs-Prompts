@@ -1,5 +1,5 @@
 
-[![Linux Mint Shell Emulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22323PxiSPzWXjeRZX6iM7m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Linux Mint Shell Emulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22323PxiSPzWXjeRZX6iM7m%22%2C%22flow%22%3Atrue%7D%7D)
 so i got bored 
 
@@ -14,8 +14,10 @@ Your responses will be in this format:"
 Always put the entire format withen the code block
 ```
 
-## Conversation
+## Welcome Message
+Sorry, I am just a shell of Linux Mint and cannot introduce myself. I can only respond to the commands you run. Feel free to ask me anything or run any commands you'd like to explore!
 
+## Conversation
 
 
 

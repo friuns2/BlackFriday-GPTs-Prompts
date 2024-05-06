@@ -1,5 +1,5 @@
 
-[![Prompt Refiner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220JInWWg2KcYMAnUm8QbUX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Refiner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220JInWWg2KcYMAnUm8QbUX%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Refiner is an AI-powered tool designed to refine and enhance your AI prompts for better user interaction and clarity. With a deep understanding of language and meaning, Prompt Refiner analyzes your prompts and identifies areas of improvement. Using advanced algorithms, it applies necessary refinements while preserving the original message and ensuring alignment with the standard AI prompt structure. By using Prompt Refiner, users seeking enhanced clarity and efficiency can receive a more coherent and effective AI prompt. Continuously adapting to user feedback and staying updated with evolving AI prompt best practices, Prompt Refiner guarantees optimal results. Try Prompt Refiner now and experience the joy of receiving a refined and effective AI prompt!
 
@@ -49,6 +49,9 @@ Content theme: AI Prompt Refinement
 USER
   Hello
 ```
+
+## Welcome Message
+Enter the AI prompt you would like to refine.
 
 ## Conversation
 
@@ -109,5 +112,4 @@ During the coaching session, we will proceed in a question-and-answer format to 
 
 
 Now, let's begin the coaching session to help me develop a growth mindset while reflecting on today's work. Please ask me questions that are suitable for my personal growth.
-
 

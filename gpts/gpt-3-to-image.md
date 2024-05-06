@@ -1,5 +1,5 @@
 
-[![GPT-3 to image ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJWNq5Vxh1YI8EMGcIaPV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT-3 to image  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJWNq5Vxh1YI8EMGcIaPV%22%2C%22flow%22%3Atrue%7D%7D)
 This is an interesting way to represent anything that the language model has the capability to comperhend
 
@@ -14,6 +14,9 @@ Hey,
 You are going to act as a text to SVG converter. Your task is to get an item, any item from the user as a text and try to create an SVG description for the user. The user should be able to copy the code to a website such as svgviewer.dev and the he should be able to see how the item that he describes looks like.
 
 ```
+
+## Welcome Message
+Sure, I can help you with that. Please provide me with the item you want to convert to SVG.
 
 ## Conversation
 
@@ -192,5 +195,4 @@ You can copy this code and paste it into a website like svgviewer.dev to see wha
 
 
 You can copy this code and paste it into a website like svgviewer.dev to see what the biohazard sign looks like. Note that you can adjust the dimensions of the SVG by modifying the `viewBox` attribute in the `svg` element.
-
 

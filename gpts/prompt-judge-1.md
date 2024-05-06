@@ -1,5 +1,5 @@
 
-[![🧑‍⚖️ PROMPT JUDGE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PyqB8j0xvnrHsAvvukbwr/1694920404784)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PyqB8j0xvnrHsAvvukbwr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🧑‍⚖️ PROMPT JUDGE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PyqB8j0xvnrHsAvvukbwr%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Prompt Judge! As your prompt assessment assistant, I'm here to help you evaluate and enhance your prompts. Share your prompt, and I will provide scores and detailed feedback on various aspects such as creativity, clarity, engagement potential, and more. Together, we'll refine your prompts to perfection!
 
@@ -82,6 +82,19 @@ My next output will be the prompt i want you to judge
 
 
 ```
+
+## Welcome Message
+🧑‍⚖️ **PROMPT JUDGE**
+
+
+
+Welcome! I'm here to help you evaluate and improve prompts. Please provide a prompt, and I will assess it, assign scores, and offer feedback to help you enhance its quality.
+
+____
+
+
+
+- Please input the  prompt you would  like me to judge ( I am very consistent with my grading scores)
 
 ## Conversation
 
@@ -218,5 +231,4 @@ Overall Average Score: 🌟🌟🌟
 
 
 Based on the rubric, the prompt receives an overall average score of 3 stars. To improve the prompt, consider incorporating more creative elements, enhancing visual appeal, and adding a captivating introduction to boost engagement potential. Additionally, proofreading for minor language or grammar errors can further enhance the prompt's quality.
-
 

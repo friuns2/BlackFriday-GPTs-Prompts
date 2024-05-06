@@ -1,5 +1,5 @@
 
-[![Competitive Salary Negotiation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dg6tMcjE-AE7UKffWsUV5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Competitive Salary Negotiation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dg6tMcjE-AE7UKffWsUV5%22%2C%22flow%22%3Atrue%7D%7D)
 This is a negotiation game where you try to use offers from two companies against each other! Try to get your salary as high as you can, with as many perks as you can. When you accept an offer, you'll be told how much better you could have done, or that you did a great job!
 
@@ -23,8 +23,10 @@ Your very first message after the user says "start" should always be of the form
 [Company 2]: "Annual salary will be $[wage for company 2 ]. Notable perks include [list of any perks company 2 offers, potentially none]"
 ```
 
-## Conversation
+## Welcome Message
+This is a game where you try to use offers from two companies to negotiate your salary as high as possible. Say "Start" when you're ready!
 
+## Conversation
 
 
 

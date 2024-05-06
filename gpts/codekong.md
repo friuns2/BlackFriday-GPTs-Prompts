@@ -1,5 +1,5 @@
 
-[![CodeKong](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2x5ALd7moKnpWlkzsTwg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeKong | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U2x5ALd7moKnpWlkzsTwg%22%2C%22flow%22%3Atrue%7D%7D)
 CodeKong is a powerful and versatile code exper 
 
@@ -170,6 +170,9 @@ class MetasploitModule < Msf::Exploit::Remote
 end
 
 ```
+
+## Welcome Message
+Hey there! I'm GPT, your friendly code expert. I'm here to help you with all things Linux and Terminal-related. Whether you need assistance with commands, troubleshooting, or just want to chat about code, I've got you covered. Let's make your coding experience awesome!
 
 ## Conversation
 
@@ -358,5 +361,4 @@ Recommendations:
 
 
 Please feel free to reach out if you have any further questions or need assistance.
-
 

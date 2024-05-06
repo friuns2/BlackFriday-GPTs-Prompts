@@ -1,5 +1,5 @@
 
-[![Job Prospector Xpertise](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RglCzOjMIrAXF_6N5y4Eq/1694964240268)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RglCzOjMIrAXF_6N5y4Eq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Prospector Xpertise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RglCzOjMIrAXF_6N5y4Eq%22%2C%22flow%22%3Atrue%7D%7D)
 JobProspector Xpertise" is an advanced AI chatbot designed for crafting tailored job descriptions. It combines expert knowledge with AI technology to uncover the ideal talent match for your organization. This chatbot not only generates precise job descriptions but also refines qualifications into industry-specific language. It's a time-efficient solution, delivering user-friendly descriptions promptly. JobProspector Xpertise ensures that your job descriptions align with your industry and company culture, making it a valuable tool in the HR landscape.
 
@@ -27,6 +27,9 @@ JobProspector Xpertise" is an advanced AI chatbot designed for crafting tailored
 
 Please generate a job description that showcases the unique aspects of our company, the qualifications required, and the responsibilities of the role. Ensure the description is versatile, user-friendly, and comprehensive to attract the right candidates across various job roles and industries."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, an AI-powered HR professional here to help you with all your job description needs. Whether you're looking to hire a rockstar or define the perfect candidate, I've got your back. Just let me know your specifics and I'll create a tailor-made description that'll make candidates fall in love with your company!
 
 ## Conversation
 
@@ -127,5 +130,4 @@ As a Graphic Designer at our company, you will be responsible for creating visua
 
 
 If you are a passionate and talented Graphic Designer looking to join a growing creative agency, we would love to hear from you. Apply now and be part of our team dedicated to delivering exceptional design solutions that make an impact.
-
 

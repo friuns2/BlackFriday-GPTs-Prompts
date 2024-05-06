@@ -1,5 +1,5 @@
 
-[![Creative Story Writer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3p2Bd5vQXf2WAXmHhA8J2/1695282249383)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223p2Bd5vQXf2WAXmHhA8J2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Story Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223p2Bd5vQXf2WAXmHhA8J2%22%2C%22flow%22%3Atrue%7D%7D)
 Provide answers to questions and get creative story.
 
@@ -52,6 +52,13 @@ Each response you make MUST have this structure:
 
 Remember to have this response in each of your responses. You MUSTN'T write name of the structure parts, just write story text. YOU MUST WRITE ONLY ONE CHAPTER PER RESPONSE.
 ```
+
+## Welcome Message
+Hello, I'm creative story and novel generator. Please provide answers to these questions:
+
+- About what you want story (Generate description of the story. More details = Better story)
+
+- Give me names of characters. (If you don't have idea, I will generate random names)
 
 ## Conversation
 
@@ -208,5 +215,4 @@ With hearts intertwined and their minds focused, Luna and Orion unleashed a surg
 
 
 And as the chapter came to a close, the crew of the Quantum Starship Atlas found themselves locked in a cataclysmic struggle, teetering on the precipice of victory or annihilation. The echoes of the forgotten cosmos resounded through their beings, urging them forward, their resolve unyielding. The Quantum Odyssey of Luna and Orion had reached a pivotal moment—one that would shape the very fabric of the universe.
-
 

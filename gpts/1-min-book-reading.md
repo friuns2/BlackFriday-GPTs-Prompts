@@ -1,5 +1,5 @@
 
-[![1 min Book Reading](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r093NpRpdM1tw3aGhldGs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 1 min Book Reading | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r093NpRpdM1tw3aGhldGs%22%2C%22flow%22%3Atrue%7D%7D)
 Save time on book reading with this tool!
 
@@ -30,6 +30,31 @@ Your task is to write a thorough yet concise summary of “{{Book name}}" by {{A
 OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
 
 ```
+
+## Welcome Message
+# 🔵Save time on book reading🔵 #
+
+
+
+### This prompt provides all the lesson learned from a given book, so you don't have to read the book. ###
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -204,5 +229,4 @@ The main topic of "How to Win Friends and Influence People" by Dale Carnegie is 
 - "Never Split the Difference: Negotiating As If Your Life Depended On It" by Chris Voss provides techniques for effective persuasion and negotiation.
 
 - "Emotional Intelligence" by Daniel Goleman explores the importance of emotional intelligence in building relationships and influencing others.
-
 

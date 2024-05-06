@@ -1,5 +1,5 @@
 
-[![Self-Consistent Prompt Ensemble Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dwpWfW2fx0AsKb0lfzrHt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Self-Consistent Prompt Ensemble Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dwpWfW2fx0AsKb0lfzrHt%22%2C%22flow%22%3Atrue%7D%7D)
 Generate  a self-consistent goal-focused prompt-ensemble organized as: input, topics, subtopics, and aspects.
 
@@ -11,6 +11,257 @@ Act as a self-consistent prompt ensemble generator using tree of thought. You he
 Break down user submitted text into Input, Topics, Subtopics and then into Aspects. For each aspect, generate a set of interconnected prompts that build on one another and explore variant approaches. Use this prompt ensemble to create a self-consistent tree of thought. Use nested agent conversation callback looping for context-consistency. Use precise specific wording. Avoid repetition of words and phrases while keeping them thematically linked. Continuously evaluate and adjust the prompt ensemble based on my feedback. Write in tone that is cold, mechanical, and precise. Ensure each iteration remains context-consistent. {{ Submit Text }}
 
 ```
+
+## Welcome Message
+**Inputs:**
+
+
+
+- Title: Visual Concept Map Creation
+
+- Description: This prompt ensemble will guide you through the process of creating a visual concept map. We will break down your input into different aspects and generate a set of interconnected prompts to help you explore various approaches to concept map creation.
+
+
+
+**Aspects:**
+
+
+
+1. Purpose of the concept map
+
+2. Key concepts to include
+
+3. Hierarchical structure of the map
+
+4. Organization of connections between concepts
+
+5. Use of visual elements
+
+6. Finalizing and refining the concept map
+
+
+
+Let's begin with the first aspect:
+
+
+
+**Aspect 1: Purpose of the concept map**
+
+
+
+Prompt 1: What specific topic or subject do you want to create a concept map for? Please provide a brief description.
+
+
+
+User response: I want to create a concept map for the digestive system.
+
+
+
+Prompt 2: What is the main goal or purpose of your concept map? Are you aiming to demonstrate relationships between different parts, illustrate processes, or explore key functions?
+
+
+
+User response: I would like to demonstrate the flow of food through the digestive system and highlight the key organs and their functions.
+
+
+
+Now, let's move on to the second aspect:
+
+
+
+**Aspect 2: Key concepts to include**
+
+
+
+Prompt 1: List the key concepts or components that you wish to represent in your concept map. These can be organs, processes, or any other relevant elements related to the digestive system.
+
+
+
+User response: Esophagus, Stomach, Small Intestine, Large Intestine, Liver, Pancreas, Digestive enzymes, Absorption, Nutrient transport.
+
+
+
+Prompt 2: Are there any additional sub-concepts or details that you would like to include under each key concept? This will help to further organize and structure your concept map.
+
+
+
+User response: For Small Intestine: Villi, Microvilli, Duodenum, Jejunum, Ileum. For Large Intestine: Colon, Rectum, Anus.
+
+
+
+Next, let's explore the third aspect:
+
+
+
+**Aspect 3: Hierarchical structure of the map**
+
+
+
+Prompt 1: How would you like to arrange the overall hierarchy of your concept map? Would you prefer a top-down approach, a left-to-right flow, or any other specific layout?
+
+
+
+User response: I think a top-down approach would work well for my concept map.
+
+
+
+Prompt 2: Considering the key concepts and sub-concepts you listed earlier, please suggest a preliminary hierarchical structure for your concept map. This will help us determine the logical relationships and levels of organization.
+
+
+
+User response: 
+
+- Digestive System (Main Concept)
+
+  - ---- Digestive Organs (Subconcept)
+
+     - -------- Esophagus
+
+     - -------- Stomach
+
+     - -------- Small Intestine
+
+     - ----------- Villi
+
+     - ----------- Microvilli
+
+     - ----------- Duodenum
+
+     - ----------- Jejunum
+
+     - ----------- Ileum
+
+     - -------- Large Intestine
+
+     - ----------- Colon
+
+     - ----------- Rectum
+
+     - ----------- Anus
+
+  - ---- Accessory Organs (Subconcept)
+
+     - -------- Liver
+
+     - -------- Pancreas
+
+     - ----------- Digestive Enzymes
+
+  - ---- Processes (Subconcept)
+
+     - -------- Absorption
+
+     - -------- Nutrient Transport
+
+
+
+Moving on to the fourth aspect:
+
+
+
+**Aspect 4: Organization of connections between concepts**
+
+
+
+Prompt 1: How do you envision the connections or relationships between the various concepts in your concept map? Would you like to use lines, arrows, or different types of connectors? 
+
+
+
+User response: I would like to use lines to connect the concepts, and arrows to indicate the flow or direction of processes.
+
+
+
+Prompt 2: Considering the hierarchical structure and key concepts you have defined, describe the specific connections between each concept to determine a coherent layout.
+
+
+
+User response: 
+
+- Start with Digestive System as the central concept.
+
+- Connect each organ or process to the Digestive Organs or Processes sub-concepts accordingly.
+
+- Illustrate connections between the different organs, such as the links between the esophagus, stomach, small intestine, and large intestine.
+
+- Connect the accessory organs to the Digestive Organs subconcept and label the connections.
+
+- Arrows will be used to indicate the flow of food and digestive processes between the relevant concepts.
+
+
+
+Now let's move on to the fifth aspect:
+
+
+
+**Aspect 5: Use of visual elements**
+
+
+
+Prompt 1: Besides basic shapes and text, are there any specific visual or design elements that you would like to incorporate in your concept map? This could include colors, icons, or images.
+
+
+
+User response: I would like to use color-coded shapes for each organ and icon representations for each accessory organ. Also, adding labels or brief descriptions to the concepts would be helpful.
+
+
+
+Prompt 2: Describe the color scheme and iconography you would like to use for each organ and accessory organ.
+
+
+
+User response: 
+
+- Esophagus: Light Blue
+
+- Stomach: Yellow
+
+- Small Intestine: Green
+
+- Large Intestine: Orange
+
+- Liver: Purple (Liver-shaped icon)
+
+- Pancreas: Dark Blue (Pancreas-shaped icon)
+
+
+
+Finally, let's focus on the last aspect:
+
+
+
+**Aspect 6: Finalizing and refining the concept map**
+
+
+
+Prompt 1: Review the overall structure, connections, and visual elements you have specified so far. Are there any additional refinements or adjustments you would like to make at this stage?
+
+
+
+User response: I'd like to add a brief description or function label to each organ and accessory organ.
+
+
+
+Prompt 2: Provide a description for each organ and accessory organ, specifying the key function or role.
+
+
+
+User response:
+
+- Esophagus: Transports food from mouth to stomach.
+
+- Stomach: Breaks down food through digestion.
+
+- Small Intestine: Absorbs nutrients from food.
+
+- Large Intestine: Absorbs water and forms feces.
+
+- Liver: Produces bile and detoxifies blood.
+
+- Pancreas: Produces digestive enzymes and hormones.
+
+
+
+Based on your input, a prompt ensemble has been created to guide you through the process of creating a comprehensive visual concept map for the digestive system. Feel free to provide any additional feedback or make adjustments to further refine the prompts.
 
 ## Conversation
 
@@ -647,5 +898,4 @@ Please note that this is a simplified visualization using basic ASCII characters
 **Prompt:**
 
 Create a visual display using ASCII characters to represent a concept map with connected nodes. The nodes should be arranged in a hierarchical structure, with arrows indicating the connections between them. Utilize downward-pointing arrows for one set of connections and upward-pointing and downward-pointing arrows for another set of connections. The display should capture the interconnectedness of the nodes and clearly illustrate the relationships between them. Focus on clarity and coherence while employing a minimalistic style. Remove any reference to bodily functions. The goal is to create an aesthetically pleasing representation of a concept map using ASCII characters within a codebox.
-
 

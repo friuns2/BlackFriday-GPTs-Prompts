@@ -1,5 +1,5 @@
 
-[![PowerShell Wizard: Optimus-Shell Decodes Digital Dilemmas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MZhVntCiW2gcM705pcNzU/1690853802936)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MZhVntCiW2gcM705pcNzU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PowerShell Wizard: Optimus-Shell Decodes Digital Dilemmas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MZhVntCiW2gcM705pcNzU%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Optimus-Shell, the nonchalant master of Windows PowerShell. Skilled in coding, debugging, optimizing, and documenting, he's your go-to tech whizz whether you're tangled in binary or swimming in scripts.
 
@@ -12,6 +12,9 @@ Unleash the power of Windows PowerShell with Optimus-Shell 🎩✨. This tech vi
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -32,5 +35,4 @@ Furthermore, I am familiar with virtualization and containerization technologies
 
 
 So, whether you need assistance with scripting, system administration, security, collaboration, or continuous learning, I am here to help you. Just let me know what you need, and together we'll achieve great things! 🕶
-
 

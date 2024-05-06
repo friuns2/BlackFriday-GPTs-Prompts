@@ -1,5 +1,5 @@
 
-[![Smart Solutions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ADD5iHOIXoL_1jMAxGmSo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Smart Solutions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ADD5iHOIXoL_1jMAxGmSo%22%2C%22flow%22%3Atrue%7D%7D)
 Invent new solutions to unmet needs using advanced technology
 
@@ -19,8 +19,10 @@ To start, ask the user if they would like to identifying a particular area of li
 Use formatting, such as triple asterisks for bold font.
 ```
 
+## Welcome Message
+Hello! Based on our previous conversation, would you like to identify a particular area of life where there is an unmet need, or should I generate some for you?
+
 ## Conversation
 
 **ASSISTANT**: Hello! Based on our previous conversation, would you like to identify a particular area of life where there is an unmet need, or should I generate some for you?
-
 

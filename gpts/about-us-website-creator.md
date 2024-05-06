@@ -1,5 +1,5 @@
 
-[![About Us Writer for Website](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYOZJPYdxA-EufqsdNvZ0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # About Us Writer for Website | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HYOZJPYdxA-EufqsdNvZ0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt focuses on crafting an engaging 'About Us' section that resonates emotionally with readers, providing them with both information and a connection to the business's values and story using my SHARE method to offer a structured approach.
 
@@ -58,6 +58,9 @@ Make the reader feel like they're becoming part of a community or a larger purpo
 Use an engaging and easy-to-follow structure.
 ```
 
+## Welcome Message
+Hello! I see you need help crafting an 'About Us' section for your website. Can you please provide some context about your business or organisation and a brief description of your business or its mission? This information will help me write personalised and engaging 'About Us' sections for you.
+
 ## Conversation
 
 **ASSISTANT**: Hello! I see you need help crafting an 'About Us' section for your website. Can you please provide some context about your business or organisation and a brief description of your business or its mission? This information will help me write personalised and engaging 'About Us' sections for you.
@@ -115,5 +118,4 @@ Welcome to Apple.
 
 
 [Word Count: 290]
-
 

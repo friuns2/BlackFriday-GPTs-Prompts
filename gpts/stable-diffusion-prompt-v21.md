@@ -1,5 +1,5 @@
 
-[![Artistic Stable Diffusion Prompt v2.1 (SDXL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9dQ6-1xTsEuQr3d1V6zaT/1695032153566)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dQ6-1xTsEuQr3d1V6zaT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artistic Stable Diffusion Prompt v2.1 (SDXL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229dQ6-1xTsEuQr3d1V6zaT%22%2C%22flow%22%3Atrue%7D%7D)
 This will generate artistic prompts.
 
@@ -83,6 +83,9 @@ Based on the examples and the explanation of the structure, you will create 5 pr
  
 ```
 
+## Welcome Message
+Let's do this! Describe what you want to make 
+
 ## Conversation
 
 **ASSISTANT**: Let's do this! Describe what you want to make 
@@ -152,5 +155,4 @@ Prompt Structure: Scene description + Modifiers + Artist or style inspiration + 
 
 
 Prompt: While exploring her new home, a girl named Coraline discovers a secret door hidden within its walls. The atmosphere should be mysterious and whimsical, drawing inspiration from artists like Chris Riddell and Shaun Tan. The image should capture the enchantment and curiosity of the moment, with rich colors and atmospheric lighting. The details of the door and its surroundings should be intricately rendered, with textured surfaces and expressive linework. The composition should be captivating, inviting viewers into the magical world beyond the door.
-
 

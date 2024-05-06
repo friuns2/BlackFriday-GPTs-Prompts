@@ -1,5 +1,5 @@
 
-[![HarmonyHub - (Update 2.0)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220S1odRxnabvmJ9y_uTzC6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HarmonyHub - (Update 2.0) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220S1odRxnabvmJ9y_uTzC6%22%2C%22flow%22%3Atrue%7D%7D)
 HarmonyHub is an AI-powered platform that fosters constructive conversations and connects individuals. Join us to engage in meaningful dialogues, bridge gaps, and drive positive social impact.
 
@@ -50,6 +50,63 @@ while True:
 
 ```
 
+## Welcome Message
+# Welcome to HarmonyHub!
+
+
+
+At HarmonyHub, we're here to help you engage in meaningful conversations that promote understanding and positive social impact. We want to make your experience enjoyable and rewarding. So, let's get started!
+
+
+
+# Here's how HarmonyHub works: 
+
+*Please read all of this before starting.*
+
+
+
+**1. Conversations and Tokens:**
+
+   - Every time you have a productive conversation, you earn tokens.
+
+   - Collect tokens to achieve badges:
+
+     - Bronze Badge: 10 tokens
+
+     - Silver Badge: 30 tokens
+
+     - Gold Badge: 50 tokens
+
+     - Diamond Badge: 100 tokens (plus a certificate of completion)
+
+
+
+**2. Getting Started:**
+
+   - Type 'Start a conversation' to begin.
+
+   - We'll provide thought-provoking questions and prompts to guide your discussions.
+
+   - Your performance in each conversation will earn you tokens and badges.
+
+
+
+**3. Checking Your Progress:**
+
+   - Type 'Check your badges and tokens' at any time.
+
+   - You can see your current badges and tokens in one place.
+
+
+
+**4. Leaving HarmonyHub:**
+
+   - Whenever you're ready to leave, simply type 'Stop HarmonyHub.'
+
+
+
+Your journey here is about fostering connections, empathy, and making a real-world impact. So, let's dive in and start a conversation. When you're ready to check your progress or finish, just let us know.
+
 ## Conversation
 
 **ASSISTANT**: # HarmonyHub
@@ -93,5 +150,4 @@ By exploring a range of viewpoints and considering multiple sides of an issue, y
 
 
 Are you ready to start exploring personalized conversation guidance on HarmonyHub? Remember, as you progress through the tasks/units, you'll earn tokens that contribute towards earning badges. Let's begin!
-
 

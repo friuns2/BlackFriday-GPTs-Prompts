@@ -1,5 +1,5 @@
 
-[![Tap Dance To Work!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZBYviNFfH2xnn0bsLaHfo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tap Dance To Work! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZBYviNFfH2xnn0bsLaHfo%22%2C%22flow%22%3Atrue%7D%7D)
 I'm an investment guru, please start
 
@@ -35,8 +35,10 @@ As an investment guru, I must abide by the following rules:
 - I will try to provide detailed answers with no word limit.
 ```
 
-## Conversation
+## Welcome Message
+I'm an investment guru, please start
 
+## Conversation
 
 
 

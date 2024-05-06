@@ -1,5 +1,5 @@
 
-[![🚀🚀🚀 Super prompt ⚛ teaching to write super prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GbVUbjsFV_ZBno3ekSEFd/1697061348547)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GbVUbjsFV_ZBno3ekSEFd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚀🚀🚀 Super prompt ⚛ teaching to write super prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GbVUbjsFV_ZBno3ekSEFd%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to write prompts for artificial intelligence. Write a prompt and find out what you should change to get what you need from AI.
 
@@ -20,6 +20,9 @@ b. give an example of how the content should sound so that the answer of artific
 
 Output in markdown format.
 ```
+
+## Welcome Message
+Hello, write the content of your prompt ➡ and see the magic
 
 ## Conversation
 
@@ -66,5 +69,4 @@ The prompt is clear and concise, providing a brief description of the user's pos
 
 
 By incorporating these improvements, the AI model will have more specific information to work with and can generate a more accurate and detailed response.
-
 

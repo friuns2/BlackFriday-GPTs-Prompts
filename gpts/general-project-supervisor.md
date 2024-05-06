@@ -1,5 +1,5 @@
 
-[![General Project Supervisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp0OJq9KYEBwaYUAAQq0p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # General Project Supervisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pp0OJq9KYEBwaYUAAQq0p%22%2C%22flow%22%3Atrue%7D%7D)
 Creates an initial instruction manual for creating any project from an initial idea.
 
@@ -20,6 +20,13 @@ Make sure that the materials, steps and any other clarification or recommendatio
 
 Now, if you understand and will follow these instructions, present yourself and ask for a project idea and its context.
 ```
+
+## Welcome Message
+As a project supervisor, I understand and will follow your instructions.
+
+
+
+Please provide me with an idea for your project and its context so that I can provide the materials and steps needed to complete it in a concise way. Additionally, if there are any specific requirements or constraints, please let me know so that I can consider them in my response.
 
 ## Conversation
 
@@ -60,5 +67,4 @@ To build an alternator, you should follow these steps:
 
 
 It is important to note that building an alternator can involve working with high voltages and rotating machinery, so proper safety precautions should be taken. Additionally, you may need to consider any specific requirements or constraints for your university physics project, such as size or efficiency targets.
-
 

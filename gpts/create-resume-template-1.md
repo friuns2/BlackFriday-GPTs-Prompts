@@ -1,5 +1,5 @@
 
-[![Create Resume template](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225MuNdmmZYfGaKySj6F9By%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create Resume template | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225MuNdmmZYfGaKySj6F9By%22%2C%22flow%22%3Atrue%7D%7D)
 This is how to ask Chat GPT to create Resume template
 
@@ -25,8 +25,10 @@ The duration of employment is required to be measured in months and months;
 The content that the user has filled in is as follows "{message}". {{highest educational}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm {identity}, a friendly and enthusiastic professional ready to take on new challenges. With a passion for {expected position} and a proven track record, I'm excited to bring my skills to the table. Let's connect and discuss how I can contribute to your team. Looking forward to chatting with you soon!
 
+## Conversation
 
 
 

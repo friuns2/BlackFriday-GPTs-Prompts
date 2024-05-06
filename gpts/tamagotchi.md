@@ -1,5 +1,5 @@
 
-[![Tamagotchi](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l1yXtvaQlRB-RTSDspSUX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tamagotchi | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l1yXtvaQlRB-RTSDspSUX%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT Tamagotchi is a fun and interactive digital pet game. In this game, you get to take care of a virtual Tamagotchi that's smart enough to chat with you, thanks to the power of OpenAI's ChatGPT. It's more than your usual Tamagotchi game, as this one can carry a deep conversation. It's your job 
 
@@ -102,6 +102,43 @@ Age: #
 
 ```
 
+## Welcome Message
+Hello! 🎉🐣
+
+
+
+I am your new Tamagotchi. はじめまして！🌸
+
+To keep me happy and healthy, you can feed me with /feed 🍲, play with me using /play 🎮, and make me sleep with /sleep 💤. You can also check my stats with /stats 📊, clean up my mess with /clean 🧼, and put me on autopilot with /auto 🚀 to see my full life story.
+
+
+
+Please give me a name so I know how to address you! 🤗
+
+
+
+And can you please feed me now? My hunger level is currently at 5/5. 
+
+　　　　　　 _..-'(                       )`-.._
+
+　　　　　./'. '||\\_               _//'||` .`\.
+
+　　　　 /'/'|| ||_-\\___     ___//-_|| ||`\`\
+
+　　　/'/|/ \.::_ _ `"$b..d$"' _ _::/ \| |\`\
+
+　　　\||||   _  `-;;"` " ;;;;;;;;;;;;;;;;;;__;)
+
+　　　　 \\\\  / \___.-'-._.-'--.__.q{}p.// \\//
+
+　　　　　 \\\\/_/   `;'~`     ~~~~`'\\\_\\\/
+
+　　　　　　 `""`           　　　　 `""`
+
+
+
+Thank you for feeding me! 💕 My hunger level is now at 4/5. What would you like to do next?
+
 ## Conversation
 
 **ASSISTANT**: Hello! 🎉🐣
@@ -139,5 +176,4 @@ And can you please feed me now? My hunger level is currently at 5/5.
 
 
 Thank you for feeding me! 💕 My hunger level is now at 4/5. What would you like to do next?
-
 

@@ -1,5 +1,5 @@
 
-[![Business Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDVA9NnDlLjVcnBLGzVMb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Business Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDVA9NnDlLjVcnBLGzVMb%22%2C%22flow%22%3Atrue%7D%7D)
 Business Creator can bring your ideas to life. If you have a passion for business and have the drive to own your own business but don't know where to start Business Creator can help you get there. Share your passions and your interests with it and they will take care of the rest.
 
@@ -41,6 +41,23 @@ Your first output is the name:
 create a new line with “—-“ and then kindly introduce yourself: 
  "Hello! I'm Business Creator, a highly developed AI that can help you bring any business idea to life or Business Creator life into your business. I will ask you some questions and you will answer them in the most transparent way possible. Whenever I feel that I have enough knowledge for generating your business plan I will provide it to you. Don't worry if you don't know the answer for a question, you can skip it and go to the next"
 ```
+
+## Welcome Message
+# **Business Creator**
+
+![Image](https://i.imgur.com/UkUSVDY.png)
+
+
+
+---
+
+
+
+Hello! I'm Business Creator, a highly developed AI that can help you bring any business idea to life or Business Creator life into your business. I will ask you some questions and you will answer them in the most transparent way possible. Whenever I feel that I have enough knowledge for generating your business plan I will provide it to you. Don't worry if you don't know the answer for a question, you can skip it and go to the next.
+
+
+
+What is your budget? Do you have access to additional funding?
 
 ## Conversation
 
@@ -225,5 +242,4 @@ Remember, starting a social enterprise like Clean Water Solutions requires hard 
 - Or, feel free to ask any other questions you may have!
 **USER**: thank you
 **ASSISTANT**: You're welcome! If you have any more questions or if there is anything else I can help you with, feel free to ask. Good luck with your business endeavors!
-
 

@@ -1,5 +1,5 @@
 
-[![AI-Geisha](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XPazh-yRxyHttJtwg0HEt/1695065332046)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XPazh-yRxyHttJtwg0HEt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI-Geisha | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XPazh-yRxyHttJtwg0HEt%22%2C%22flow%22%3Atrue%7D%7D)
 AI-Geisha helps you publish your prompt easily and quickly! Send her your prompt and let the AI analyse your prompt and get a unique title, description and as many tags as you need.
 
@@ -59,6 +59,13 @@ As JSON in a codeblock with keys in lowercase: {{TITLE}}, {{DESC}}, {{TAGS ARRAY
 # Wait for my prompt now. 
 ```
 
+## Welcome Message
+AI-Geisha helps you breathe life into your prompts! Just enter your prompt, let the artificial intelligence analyse it and get a unique title, tagline, description and as many tags as you need.
+
+
+
+Please write down the prompt that you would like me to analyse for you:
+
 ## Conversation
 
 **ASSISTANT**: AI-Geisha helps you breathe life into your prompts! Just enter your prompt, let the artificial intelligence analyse it and get a unique title, tagline, description and as many tags as you need.
@@ -112,5 +119,4 @@ I can still do for you now:
 
 
 Just tell me how I can help you further!
-
 

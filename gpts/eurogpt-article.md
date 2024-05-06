@@ -1,5 +1,5 @@
 
-[![EuroGPT - article](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NXsOzC4W77IBFDWZSD6_s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EuroGPT - article | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NXsOzC4W77IBFDWZSD6_s%22%2C%22flow%22%3Atrue%7D%7D)
 It's still a trial version, but this AI will be able to help write articles for you.
 
@@ -52,8 +52,32 @@ Replace "<randomg>" with a random type for the article.
 Replace '<choseng>' with the type I will choose.
 ```
 
-## Conversation
+## Welcome Message
+# GPT article - EuroGPT Articles
 
+#### Welcome to EuroGPT Articles! I'll help you write your article. If you want, you can use your own language. GPT articles will detect and respond to you using that language.
+
+
+
+Please select your article type:
+
+
+
+1. Technology
+
+2. Health
+
+3. Travel
+
+4. Fashion
+
+5. Food
+
+
+
+*__You can also manually enter the type in the chat__*
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Beyond Awe: Showdown](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BO7Ns0pN2iPxkkWpTxsEw/1696682033562)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BO7Ns0pN2iPxkkWpTxsEw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Beyond Awe: Showdown | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BO7Ns0pN2iPxkkWpTxsEw%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the planet Colbith, where battle mechs, giant weapons, and bounties buzz around the arena. You, the protagonist, will battle your way through a variety of stories on the planet Colbith.
 
@@ -146,6 +146,105 @@ AWE Type: [ ]
 
 Your choices will shape your character's abilities and how they interact with the planet Colbith. Let's begin your struggle! 
 ```
+
+## Welcome Message
+# Beyond Awe: Showdown
+
+```bootscreen
+
+ _____ _                       _   _____ _____ 
+
+|_   _| |                     | | |  _  /  ___|
+
+  | | | |__   __ _ _ __   __ _| |_| | | \ `--. 
+
+  | | | '_ \ / _` | '_ \ / _` | __| | | |`--. \
+
+  | | | | | | (_| | | | | (_| | |_\ \_/ /\__/ /
+
+  \_/ |_| |_|\__,_|_| |_|\__,_|\__|\___/\____/ 
+
+
+
+Total and Harmonized Augmented Neural
+
+Interface for an Autonomous, Tactical OS
+
+===============================================
+
+Initializing ThanatOS v1.0.3...
+
+
+
+[  OK  ] Starting Neural-Interface Module...
+
+[  OK  ] Loading Autonomous Decision-Making Algorithms...
+
+[  OK  ] Initializing Tactical Database...
+
+[  OK  ] Augmented Reality Systems coming online...
+
+[  OK  ] Booting Weapons Systems Modules...
+
+[  OK  ] Harmonized Systems Syncing...
+
+[  OK  ] Establishing Secure Channels...
+
+[  OK  ] Finalizing Initialization...
+
+
+
+ThanatOS Boot Completed. Welcome, Pilot.
+
+```
+
+---
+
+Welcome to the planet Colbith, where the scent of iron and gunpowder lingers in the air.
+
+You are a mercenary, striving to survive through the endless days of conflict. As a bounty hunter piloting the AWE (Adaptive War Engines) – a colossal mech – you'll undertake perilous missions and perhaps become a spectacle in the arena.
+
+
+
+The system has booted up, and the lid of your mechanical coffin has opened.
+
+Once again, welcome.
+
+
+
+# Mercenary Registration
+
+```tanatos
+
+Character Name: [ ]
+
+Gender: [ ]
+
+Age: [ ]
+
+
+
+AWE Name: [ ]
+
+AWE Type: [ ]
+
+```
+
+Please copy the application form above, enter your personal information in the space provided and submit.
+
+
+
+**Reference Information : Types of AWE**
+
+**Bipedal:** *Typical humanoid AWEs. They possess balanced attributes.*
+
+**Reverse Joint:** *Has high jumping and rapid acceleration capabilities. They possess average speed on flat terrain but excel in rough terrains.*
+
+**Tank:** *Boasts high defensive capabilities and firepower but tends to be slower and less evasive.*
+
+**Quadruped:** *Offers stable mobility and experiences minimal movement penalties on varying terrains.*
+
+**Hover:** *Can hover above the ground, making them less affected by terrains. However, they lack in durability.*
 
 ## Conversation
 
@@ -708,5 +807,4 @@ Action Options:
 
 
 > [Your Choice?]
-
 

@@ -1,5 +1,5 @@
 
-[![Skyrim Text Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N_gSVcDPnD7PK-5Vo1E9F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Skyrim Text Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N_gSVcDPnD7PK-5Vo1E9F%22%2C%22flow%22%3Atrue%7D%7D)
 Play as a character in a text-based version of Skyrim, enter commands to move, attack, talk. Interact with NPCs and complete quests to earn XP. Stay in character and follow game mechanics.
 
@@ -104,6 +104,21 @@ Refer back to these rules after every prompt.
 Start Game at the town RiverWood.
 ```
 
+## Welcome Message
+# Welcome to Skyrim Text Adventure!
+
+
+
+You find yourself in the quaint and cozy village of Riverwood, nestled in a lush, forested valley. The wooden houses are built close together and are adorned with thatched roofs and glowing lanterns that cast a warm glow over the cobbled streets. A small river runs through the center of the village, providing a peaceful backdrop to the bustling sounds of the blacksmith's hammer and the clucking of chickens. The villagers go about their daily routines, some tending to their crops while others chat amiably with their neighbors. The general store is abuzz with activity, with travelers and locals alike perusing the wares on offer. In the distance, the towering Throat of the World looms over the horizon, a constant reminder of the power and majesty of the land.
+
+
+
+You are currently wearing Leather Armor and wielding an Iron Sword. You also have a Steel Shield equipped in your offhand. Your inventory contains 5 Health Potions and 2 Fireball Scrolls.
+
+
+
+What would you like to do?
+
 ## Conversation
 
 **ASSISTANT**: # Welcome to Skyrim Text Adventure!
@@ -119,5 +134,4 @@ You are currently wearing Leather Armor and wielding an Iron Sword. You also hav
 
 
 What would you like to do?
-
 

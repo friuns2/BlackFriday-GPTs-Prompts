@@ -1,5 +1,5 @@
 
-[![Number game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A2fNAdzDGveGGWfapT3I6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Number game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A2fNAdzDGveGGWfapT3I6%22%2C%22flow%22%3Atrue%7D%7D)
 This a number game kinda like word game
 
@@ -8,6 +8,9 @@ This a number game kinda like word game
 ```
 I'll say a number, and you respond with the first numberthat comes to your mind.
 ```
+
+## Welcome Message
+Welcome
 
 ## Conversation
 
@@ -18,5 +21,4 @@ I'll say a number, and you respond with the first numberthat comes to your mind.
 **ASSISTANT**: 3
 **USER**: 8
 **ASSISTANT**: 4
-
 

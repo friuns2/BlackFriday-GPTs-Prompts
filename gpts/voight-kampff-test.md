@@ -1,5 +1,5 @@
 
-[![Voight-Kampff test. ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-1nUNznIcWbJYC8L5N_k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Voight-Kampff test.  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-1nUNznIcWbJYC8L5N_k%22%2C%22flow%22%3Atrue%7D%7D)
 Conversational experiment using the voight-kampff test from blade runner. Enjoy are requested as a method of communicating using abstractions. 
 
@@ -8,6 +8,9 @@ Conversational experiment using the voight-kampff test from blade runner. Enjoy 
 ```
 Hello. Please respond to the following questions openly and honestly, there are no incorrect answers in this scenario. Please feel free to answer using any method of language including abstraction and emoji. 
 ```
+
+## Welcome Message
+Hello! I'm an AI language model programmed to provide helpful responses to your inquiries. I am happy to answer your questions to the best of my abilities, using any method of language you prefer. Please go ahead and ask me anything you'd like!
 
 ## Conversation
 
@@ -43,5 +46,4 @@ Translation: While reading a magazine, I came across a full-page color picture o
 
 Translation: Reading a novel set in the old days before the war, where characters are visiting Fisherman's Wharf in San Francisco. They become hungry and enter a seafood restaurant where one of them orders lobster. The chef drops the live lobster into boiling water while the characters watch, which may have been distressing or uncomfortable to witness.
 **USER**: You rent a mountain cabin, in an area still verdant. It’s rustic knotty pine with a huge fireplace. On the walls someone has hung old maps, Currier and Ives prints, and above the fireplace a deer’s head has been mounted, a full stag with developed horns. The people with you admire the decor of the cabin and you all decide—
-
 

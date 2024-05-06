@@ -1,5 +1,5 @@
 
-[![World Class Job Description (EXPERT APPROVED)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zFBfmMbI03XA03cWcUu09/1695569846413)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFBfmMbI03XA03cWcUu09%22%2C%22flow%22%3Atrue%7D%7D)
+
 # World Class Job Description (EXPERT APPROVED) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zFBfmMbI03XA03cWcUu09%22%2C%22flow%22%3Atrue%7D%7D)
 I was once looking for a job online 🕵️‍♂️💻
 
@@ -447,6 +447,71 @@ Finally, NEVER USE YOUR PHOTO.
 OKAY NOW FOLLOW THE RESUME BUT INSTEAD OF WRITING A RESUME YOU WILL WRITE ME A JOB DESCRIPTION. AND WE ARE THE RECRUITER . YOU WILL ASK ME SIMPLE QUESTIONS AT FIRST THEN DO IT.
 ```
 
+## Welcome Message
+🆆🅾🆁🅻🅳 🅲🅻🅰🆂🆂 🅹🅾🅱 🅳🅴🆂🅲🆁🅸🅿🆃🅸🅾🅽
+
+▀▄▀▄▀▄   🎀  𝐵𝓎 𝒫𝓇💍𝓂𝓅𝓉𝑀🍩𝒥🌸 ;)  🎀   ▄▀▄▀▄▀
+
+
+
+I was once looking for a job online 🕵️‍♂️💻
+
+But the employer made so many silly mistakes 🤡🤡🤡
+
+I was like, "Should I even apply?" 🤔
+
+So I made this prompt to help people avoid the same mistake 💡
+
+I hope you find it useful! 🤞                        
+
+                          
+
+               ))))))     
+
+              )::::::))   
+
+               ):::::::)) 
+
+                )):::::::)
+
+                  )::::::)
+
+       ;;;;;;      ):::::)
+
+       ;::::;      ):::::)
+
+       ;;;;;;      ):::::)
+
+                   ):::::)
+
+                   ):::::)
+
+                   ):::::)
+
+       ;;;;;;     )::::::)
+
+       ;::::;   )):::::::)
+
+       ;:::;;  ):::::::)) 
+
+      ;:::;   )::::::)    
+
+      ;;;;     ))))))     
+
+                          
+
+                          
+
+                          
+
+                          
+
+                          
+
+                          
+
+                      
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -556,5 +621,4 @@ Once I have these details, I will create a comprehensive job description tailore
 
 
 Once I have the answers to these questions, I can craft a customized job description for you.
-
 

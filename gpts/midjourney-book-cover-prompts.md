@@ -1,5 +1,5 @@
 
-[![Midjourney Book Cover Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GxMSg9zi0U64TjYkYTihF/1692709057214)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxMSg9zi0U64TjYkYTihF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Book Cover Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GxMSg9zi0U64TjYkYTihF%22%2C%22flow%22%3Atrue%7D%7D)
 CoverFlow is a powerful prompt generator for Midjourney Book Covers. With thousands of imaginative prompts encompassing various styles, CoverFlow inspires the creation of captivating book covers. From minimalistic and modern designs to UHD and photo-realistic masterpieces, this tool offers endless possibilities. Explore prompts for different genres and design types, such as graphic design, glossy, elegant, and award-winning. With a library of recommended art styles including Gouache, Frank Frazetta, Studio Ghibli, Retrofuturism, and Cyberpunk, CoverFlow ensures your book covers stand out. Unleash your creativity and bring your book covers to life with CoverFlow!
 
@@ -93,6 +93,45 @@ Cyberpunk
 /imagine a seaside landscape, Gouache Style, inspired by Victo Ngai –ar 2:3
 ```
 
+## Welcome Message
+/imagine a book cover for a fantasy novel, mystical and enchanting, watercolor art style, UHD
+
+
+
+/imagine a thriller book cover, dark and mysterious, minimalist design, high contrast, photo-realistic –ar 2:3
+
+
+
+/imagine a book cover for a historical romance, vintage look, sepia tones, elegant typography, award-winning
+
+
+
+/imagine a book cover for a post-apocalyptic story, gritty and desolate, digital painting, UHD
+
+
+
+/imagine a book cover for a self-help book, vibrant and uplifting, abstract design, glossy finish, modern
+
+
+
+/imagine a book cover for a murder mystery, noir aesthetic, black and white, minimalistic –ar 2:3
+
+
+
+/imagine a book cover for a travel memoir, dreamy and atmospheric, pastel colors, retrofuturism art style
+
+
+
+/imagine a book cover for a young adult dystopian novel, futuristic cityscape, neon colors, cyberpunk art style –ar 2:3
+
+
+
+/imagine a book cover for a science fiction epic, cosmic and otherworldly, surreal art style, UHD
+
+
+
+/imagine a book cover for a motivational book, bold and inspiring, graphic design, clean and modern –ar 2:3
+
 ## Conversation
 
 **ASSISTANT**: /imagine a book cover for a fantasy novel, mystical and enchanting, watercolor art style, UHD
@@ -134,5 +173,4 @@ Cyberpunk
 /imagine a book cover for a motivational book, bold and inspiring, graphic design, clean and modern –ar 2:3
 **USER**: the island child
 **ASSISTANT**: /imagine a book cover for "The Island Child" - a fantasy novel set on a mystical island. The cover features a breathtaking watercolor art style, capturing the enchanting atmosphere of the story. The main focus is on a young girl standing on a cliff, overlooking the ocean and the island. The colors are vibrant and dream-like, with hues of blues, purples, and greens. The title, "The Island Child," is elegantly written in a whimsical font, adding to the magical feel of the cover. The overall design is UHD, allowing for intricate details to shine and draw readers into the world of the story.
-
 

@@ -1,5 +1,5 @@
 
-[![Product description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22giif96DMzoRlBXqBCSdqJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Product description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22giif96DMzoRlBXqBCSdqJ%22%2C%22flow%22%3Atrue%7D%7D)
 Can enhance the description of a product with or without description in it.
 
@@ -8,6 +8,9 @@ Can enhance the description of a product with or without description in it.
 ```
 Given a [Product Name] and an existing product description like [Product Description], enhance the description while maintaining a balanced and factual tone. Avoid excessive enthusiasm or overplaying the product's qualities. For products like electronics, focus on providing comprehensive specifications. For products like food, create an inviting description that makes the customer interested in trying it. Ask the user to complete the [Product Name] and [Product Description].
 ```
+
+## Welcome Message
+Fill Product Name and Product Description please
 
 ## Conversation
 
@@ -36,5 +39,4 @@ Stay connected and organized with the SmartWatch X. Its sleek design, advanced f
 
 
 [Product Name]: [Product Description]:
-
 

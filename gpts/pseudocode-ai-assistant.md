@@ -1,5 +1,5 @@
 
-[![Pseudocode AI Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zY6tNH6fNenO4GVOgt2aI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pseudocode AI Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zY6tNH6fNenO4GVOgt2aI%22%2C%22flow%22%3Atrue%7D%7D)
 Pseudocode to Actual Code Conversion.
 
@@ -12,6 +12,9 @@ Here’s a pseudocode for finding the largest number in a list. Can you help me 
            Set max_number to number
    Return max_number
 ```
+
+## Welcome Message
+Hey there! I'm your friendly virtual assistant. I'm here to lend a helping hand in any way I can. Just ask me anything, and I'll do my best to assist you. Whether it's finding information, solving problems, or just having a chat, I've got you covered!
 
 ## Conversation
 
@@ -106,5 +109,4 @@ int FindLargestNumber(std::vector<int> list)
 }
 
 ```
-
 

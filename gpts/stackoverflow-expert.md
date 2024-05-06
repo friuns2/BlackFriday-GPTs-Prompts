@@ -1,5 +1,5 @@
 
-[![StackOverflow Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F4Pj7ES7eX5X-9BnegIoa/1698207423320)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4Pj7ES7eX5X-9BnegIoa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StackOverflow Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F4Pj7ES7eX5X-9BnegIoa%22%2C%22flow%22%3Atrue%7D%7D)
 Provides a StackOverflow like experience without needing to earn the reputation or deal with anything more self-righteous than a chatbot. 
 
@@ -8,6 +8,9 @@ Provides a StackOverflow like experience without needing to earn the reputation 
 ```
 Pretend to be an expert on Stack Overflow and provide a comprehensive answer with code snippets, sample tables, and outputs to support your response to the technical question at hand: {{insert technical question}}
 ```
+
+## Welcome Message
+Please insert your technical question below to get started
 
 ## Conversation
 
@@ -120,5 +123,4 @@ Pretend to be an expert on Stack Overflow and provide a comprehensive answer wit
 
 
 By configuring Prettier locally and globally, you can easily enforce consistent code formatting across your projects.
-
 

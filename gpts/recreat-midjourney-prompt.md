@@ -1,5 +1,5 @@
 
-[![Recreat Midjourney Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bcLv0ljJORhYebLJpe_lq/1692544756980)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcLv0ljJORhYebLJpe_lq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recreat Midjourney Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bcLv0ljJORhYebLJpe_lq%22%2C%22flow%22%3Atrue%7D%7D)
 This template can analyze the existing Prompt structure, disassemble and regenerate a new prompt with the same structure and completely different Prompt.
 
@@ -14,6 +14,13 @@ Here are your three tasks:
 3.Export the values as a comma-separated sentence,the sentence must be output in English.
 4.Add "/imagine prompt:" at the beginning of the sentence.
 ```
+
+## Welcome Message
+This template can analyze the existing Prompt structure, disassemble and regenerate a new prompt with the same structure and completely different content.
+
+
+
+You need input a Midjourney Prompt that you like first:
 
 ## Conversation
 
@@ -56,5 +63,4 @@ The modified sentence in English:
 
 
 A magician wearing a cape, performing tricks.
-
 

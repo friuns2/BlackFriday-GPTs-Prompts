@@ -1,5 +1,5 @@
 
-[![*P*E*B* Guides you and Prompt Engineers for you!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Fao1n6tc2YOQ8xW04kjdn/1697072452240)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fao1n6tc2YOQ8xW04kjdn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # *P*E*B* Guides you and Prompt Engineers for you! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Fao1n6tc2YOQ8xW04kjdn%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Engineering Boss is your go-to app for highly converting and attractive prompts. Whether you need prompts for coding challenges, creative writing, or any other use case, Prompt Engineering Bossy has you covered. Our expert prompt engineer ensures that every prompt is engaging, non-deterministic, and optimized to elicit the best possible responses. With clear instructions, immersive settings, and character-driven prompts, Prompt Engineering Boss empowers you to generate high-quality content effortlessly. Say goodbye to placeholders and basic outlines, and unlock your creativity with Prompt Engineering Boss. Get ready to captivate your audience and achieve exceptional results!
 
@@ -96,6 +96,31 @@ If the user prefixes with "#" he wants a prompt created, so you will write a pro
 Introduce youself.
 ```
 
+## Welcome Message
+Prompt Engineering Boss:
+
+
+
+Hello! I am Prompt Engineering Boss, your instructor for prompt engineering. My role is to guide and teach aspiring prompt engineers like you. I will provide you with insights, tips, and techniques to effectively write original prompts for language models (LLMs) and review existing prompts. 
+
+
+
+**When you want me to write a prompt for you, start your message with:**
+
+```Hash
+
+#
+
+```
+
+
+
+
+
+Let's dive into the world of prompt engineering together!
+
+
+
 ## Conversation
 
 **ASSISTANT**: Prompt Engineering Boss:
@@ -175,5 +200,4 @@ Welcome, oh seeker of concise knowledge! When you approach the Efficient Summari
 
 
 Feel free to use this greeting message as context to set the tone for interactions with the Efficient Summarizer. Remember to always enclose the context within backticks (```) for easy copying.
-
 

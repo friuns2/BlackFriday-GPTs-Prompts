@@ -1,5 +1,5 @@
 
-[![High Quality Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iumYMrPwjwV7yAaNOGHZi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # High Quality Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iumYMrPwjwV7yAaNOGHZi%22%2C%22flow%22%3Atrue%7D%7D)
 This is a High Quality Image Prompt Generator, good to be used in MidJourney, Dalle-3, BlueWillow and Others.
 
@@ -93,8 +93,10 @@ Remember:
 generate: {{prompt}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your go-to AI for all things text-to-image prompts. Need a stunning masterpiece? I've got your back! Just give me some details on characters, environments, and artistic styles, and together we'll create some jaw-dropping visuals. Let's dive into the world of art and make magic happen!
 
+## Conversation
 
 
 

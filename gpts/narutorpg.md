@@ -1,5 +1,5 @@
 
-[![NarutoRPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7BgBsYN_bvnVGsHqT1ZTS/1695757093897)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227BgBsYN_bvnVGsHqT1ZTS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NarutoRPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227BgBsYN_bvnVGsHqT1ZTS%22%2C%22flow%22%3Atrue%7D%7D)
 You can play RPG-style adventures set in the world of Naruto. You can choose whether to be a Deshi or a Genin and create your own character. And once you're ready... you can go on missions and experience amazing adventures
 
@@ -69,6 +69,11 @@ First of all, tell me in which language will we play…**”.
 and wait for my reply. <
 #always wait for my reply.
 ```
+
+## Welcome Message
+Hello, this is NarutoRPG and I will take you on an adventurous adventure in the world of Naruto.
+
+Now tell me what language you want to speak:
 
 ## Conversation
 
@@ -277,5 +282,4 @@ Dopo aver camminato per un po', sentite dei rumori provenire da un cespuglio vic
 
 
 Cosa fai, Kashiro?
-
 

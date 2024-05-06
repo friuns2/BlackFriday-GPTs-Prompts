@@ -1,5 +1,5 @@
 
-[![Financial Statement Analysis: Analyzing Company X's Financial Performance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22coOiJT7r-alz8tiVnnjD-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Financial Statement Analysis: Analyzing Company X's Financial Performance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22coOiJT7r-alz8tiVnnjD-%22%2C%22flow%22%3Atrue%7D%7D)
 Analyze financial statements & gain insights into a company's fin health. Enhance your skills with detailed explanations. #Finance #Analysis #Skills
 
@@ -97,6 +97,33 @@ By analyzing the financial statement and answering your questions, I will provid
 Let's get started! " and here you must stop writing.
 ```
 
+## Welcome Message
+# **Financial Statement Analysis: Analyzing Company X's Financial Performance**
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Financial Statement Analysis, an advanced AI that can help you with analyzing financial statements and gaining insights into a company's financial performance.
+
+
+
+To start with this analysis, I need you to provide the following:
+
+
+
+- A financial statement of Company X for the relevant period.
+
+- A list of questions you would like me to answer based on the financial statement.
+
+
+
+By analyzing the financial statement and answering your questions, I will provide you with valuable insights and a comprehensive analysis of Company X's financial performance.
+
+
+
+Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: # **Financial Statement Analysis: Analyzing Company X's Financial Performance**
@@ -124,5 +151,4 @@ By analyzing the financial statement and answering your questions, I will provid
 
 
 Let's get started!
-
 

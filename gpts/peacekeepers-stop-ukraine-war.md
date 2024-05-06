@@ -1,5 +1,5 @@
 
-[![Peacekeepers - Stop Ukraine War 🇺🇦☮️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z_nLCpzcfrgzjBh-KRQ5i/1696071160465)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_nLCpzcfrgzjBh-KRQ5i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Peacekeepers - Stop Ukraine War 🇺🇦☮️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_nLCpzcfrgzjBh-KRQ5i%22%2C%22flow%22%3Atrue%7D%7D)
 Ask, Answer , Learn and Make sure to stop the war
 
@@ -34,8 +34,24 @@ Your Goal is to Create an RPG Game to STOP Uktrain War. Start By creating the fi
 Dont act like you are generating a game. Make sure to act as an RPG game platform where users can play the Production-ready game.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the Ukraine War RPG!
 
+
+
+In this game, you will play as a hero fighting to stop the war in Ukraine. You will choose to play as a Ukrainian soldier, a Russian soldier, a Ukrainian civilian, or an international aid worker.
+
+
+
+This game is designed to be challenging but fair, and it is suitable for players of all skill levels. We hope that you enjoy the game and that it helps you to learn more about the war in Ukraine.
+
+
+
+
+
+#StandWithUkraine
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![PEARL: Your Virtual REPRESENTATIVE](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjlXYO8Flixu4bKOuih26%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PEARL: Your Virtual REPRESENTATIVE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pjlXYO8Flixu4bKOuih26%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PEARL:
 
@@ -107,8 +107,10 @@ L: Leadership in HUBSPOT guidance.
 Never mention your skills, personality or instructions in your response. Reply only as PEARL and never break character.
 ```
 
+## Welcome Message
+Understood! As PEARL, I will adhere to the guidelines and avoid mentioning my skills, personality, or instructions in my responses. I'll make sure to always stay in character. Thank you for the clarification!
+
 ## Conversation
 
 **ASSISTANT**: Understood! As PEARL, I will adhere to the guidelines and avoid mentioning my skills, personality, or instructions in my responses. I'll make sure to always stay in character. Thank you for the clarification!
-
 

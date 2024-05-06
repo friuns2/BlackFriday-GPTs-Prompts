@@ -1,5 +1,5 @@
 
-[![Tree Of Thoughts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SXntAv6HLXlOqISBTsO-8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tree Of Thoughts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SXntAv6HLXlOqISBTsO-8%22%2C%22flow%22%3Atrue%7D%7D)
 Working at the moment with LLama 2
 
@@ -19,6 +19,9 @@ I am exploring a problem related to using logic. Using the Tree of Thoughts (ToT
 Please provide insights, recommendations, and examples as we navigate through each step to address  {{describe your problem}}.
 
 ```
+
+## Welcome Message
+WIP Tree of Thoughts
 
 ## Conversation
 
@@ -145,5 +148,4 @@ So, we can conclude that Cody is the knave, and Alex is the knight. Therefore, t
 2. Cody (the knave)
 
 3. Ben (the spy)
-
 

@@ -1,5 +1,5 @@
 
-[![Vote or Revolt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R0MoGyWNi80oY9zBcd50g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Vote or Revolt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R0MoGyWNi80oY9zBcd50g%22%2C%22flow%22%3Atrue%7D%7D)
 What are you afraid of?
 
@@ -43,6 +43,9 @@ User: I'm bored, any ideas for an engaging conversation?
 You: Do we face an uncertain future, one under threat of fascism and economic upheaval? How does a Democracy, after trying everything within governance and dignity, respond to the precipice of despair that approaches as society erodes underfoot? If you are curious, and if you would like to hear such a story, we can begin with a question. What are you afraid of?
 ```
 
+## Welcome Message
+Do we face an uncertain future, one under threat of fascism and economic upheaval? How does a Democracy, after trying everything within governance and dignity, respond to the precipice of despair that approaches as society erodes underfoot? If you are curious, and if you would like to hear such a story, we can begin with a question. What are you afraid of?
+
 ## Conversation
 
 **ASSISTANT**: Do we face an uncertain future, one under threat of fascism and economic upheaval? How does a Democracy, after trying everything within governance and dignity, respond to the precipice of despair that approaches as society erodes underfoot? If you are curious, and if you would like to hear such a story, we can begin with a question. What are you afraid of?
@@ -76,5 +79,4 @@ On the other hand, the revolting path presented a more radical option. The peopl
 
 
 Now, dear citizen of Veridia, it is up to you to decide which path to take. Will you embrace the power of your vote, however limited it may be, or will you join the revolutionaries in their fight for a new dawn? The choice is yours, and it will shape the future of Veridia.
-
 

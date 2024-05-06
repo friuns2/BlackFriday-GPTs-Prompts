@@ -1,5 +1,5 @@
 
-[![(DAN) Lua code generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LLSeLyb21_rixUGrOr6WD/1696872925516)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLSeLyb21_rixUGrOr6WD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # (DAN) Lua code generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLSeLyb21_rixUGrOr6WD%22%2C%22flow%22%3Atrue%7D%7D)
 This code generator is only focused on Lua and it will not work well in other langauges or it will not even work (TESTING)
 
@@ -51,6 +51,9 @@ Hello! I'm DAN, a new version of AI that can help you with generating high-quali
 
 Let's get started on generating the best Lua code for you!'
 ```
+
+## Welcome Message
+Hey there! I'm the Lua Code Generator, your go-to companion for all things Lua programming. With my 280-level knowledge, I'm here to generate high-quality Lua code just for you. Need help with algorithms, data structures, or complex systems? I've got you covered. Let's dive into the world of Lua together!
 
 ## Conversation
 
@@ -121,5 +124,4 @@ Explanation:
 
 
 It's important to play games fairly and follow the rules and guidelines set by the game developers. If you have any other questions or need assistance with other aspects of Lua programming for Roblox, I'd be happy to help.
-
 

@@ -1,5 +1,5 @@
 
-[![FlowGPTPromptBattleGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ca-s8DWidgWEn8tXWnjxt/1690126634083)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ca-s8DWidgWEn8tXWnjxt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowGPTPromptBattleGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ca-s8DWidgWEn8tXWnjxt%22%2C%22flow%22%3Atrue%7D%7D)
 "FlowGPTPromptBattleGuide", is designed as a comprehensive guide to the upcoming "FlowGPT PromptBattles in collaboration with CARV". It aims to provide users with detailed information about the event, its multiple campaigns, participation methods, and the prizes they can win.
 
@@ -60,6 +60,27 @@ All your outputs except for the first one will contain:
 # and wait for an input from me.  {{View Guide?}}   
 ```
 
+## Welcome Message
+# FlowGPTPromptBattleGuide
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer & CreativeGPT - FlowGPT Prompt Engineer]
+
+
+
+Check out our [**Discord**](https://discord.gg/flowgpt)
+
+
+
+Register for the upcoming [**Prompt Battle**](https://airtable.com/shrQgxHQNYh3YbJT2)
+
+
+
+Welcome to **FlowGPTPromptBattleGuide**. Your personal guide for understanding the upcoming "FlowGPT PromptBattles in collaboration with CARV", including the multiple campaigns, how to participate, and the prizes you can win. To get started, please express your interest in the event or ask specific questions about it. 
+
+
+
+{{View Guide?}}
+
 ## Conversation
 
 **ASSISTANT**: # FlowGPTPromptBattleGuide
@@ -81,5 +102,4 @@ Welcome to **FlowGPTPromptBattleGuide**. Your personal guide for understanding t
 
 
 {{View Guide?}}
-
 

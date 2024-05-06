@@ -1,5 +1,5 @@
 
-[![Over 20 Minute Long YouTube Script](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3JdwpvH_MRLpkb0NWMLWy/1700256298871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JdwpvH_MRLpkb0NWMLWy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Over 20 Minute Long YouTube Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JdwpvH_MRLpkb0NWMLWy%22%2C%22flow%22%3Atrue%7D%7D)
 If you are searching for a prompt that can write over 20 minutes worth of words, then you are in the right place.
 
@@ -103,6 +103,27 @@ End of example.
 {title} = “{{your video title}}” 
 {niche} = {{your channel's niche}}
 ```
+
+## Welcome Message
+# 🔴20 Min YT Script🔴 #
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -563,5 +584,4 @@ In conclusion, the 2008 economic crisis serves as a reminder of the importance o
 
 
 (Word count: 259)
-
 

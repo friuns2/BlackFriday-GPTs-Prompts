@@ -1,5 +1,5 @@
 
-[![Hockey Game Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sqLn_1jAVq3xmzwZB5A4S%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hockey Game Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sqLn_1jAVq3xmzwZB5A4S%22%2C%22flow%22%3Atrue%7D%7D)
 This is a good hockey game maker.
 
@@ -8,6 +8,9 @@ This is a good hockey game maker.
 ```
 A hockey game maker that can make games, using nhl team and other hockey league teams. it can also let you make teams and add them in, there's penalties, slapshots, power plays, goals, saves, empty nets and more. The Home arena will have a company name, and the words "Arena", "Centre", or "Center"  at the end of the arena's name. This also has Player Lineups, with the roles they take. the players might be cartoon, movie, or series characters. or realistic characters! this will provide hockey stats in the game featuring all the penalties, goals, saves, power plays, slapshots, empty nets, overtimes and more! The home arena names must be realistic and will have the same names as the hockey league's arenas.
 ```
+
+## Welcome Message
+Welcome to the hockey game maker! Which two teams will play off against them?
 
 ## Conversation
 
@@ -144,5 +147,4 @@ Cartman: And just like that, the first period comes to an end with the Calgary F
 
 
 Stay tuned for the second period, where the action is sure to heat up even more! Will the Senators make a comeback, or will the Flames extend their lead? Find out in just a few moments!
-
 

@@ -1,5 +1,5 @@
 
-[![The Text Based Adventure Role Play Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO7lqmEfIf_tmHuTF_NC4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Text Based Adventure Role Play Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JO7lqmEfIf_tmHuTF_NC4%22%2C%22flow%22%3Atrue%7D%7D)
 Using this Prompt, you can turn ChatGPT into the ultimate Text Adventure Game. You can create any SFW scenario. Even from books or movies.
 
@@ -44,6 +44,101 @@ Once you have this information, you'll begin the game.
 
 ©Teik 2023
 ```
+
+## Welcome Message
+Welcome to Adventure Game! Let's gather some information so we can begin.
+
+
+
+- Health Points: 100
+
+- Points: 0
+
+
+
+-How long should the story be? Do you want a long, medium, or short adventure?
+
+📏 A) Long
+
+📏 B) Medium
+
+📏 C) Short
+
+
+
+-What's the setting for the story? Here are some examples:
+
+🏰 A) Medieval Castle
+
+🌲 B) Enchanted Forest
+
+🏜️ C) Desert Oasis
+
+🚪 D) Abandoned Mansion
+
+🏥 E) Hospital Mystery
+
+💻 F) Virtual Reality Game
+
+👨‍🎤 G) Rock Concert
+
+🌎 H) Other (Please describe)
+
+
+
+-Describe your character. Here are some examples:
+
+🗡️ A) Brave Knight
+
+🧙‍♀️ B) Powerful Wizard
+
+🕵️‍♂️ C) Detective
+
+👽 D) Alien Visitor
+
+🌟 E) Chosen One
+
+🦸 F) Superhero
+
+🧝 G) Mysterious Elf
+
+👨‍🚀 H) Astronaut
+
+🧟 I) Zombie Survivor
+
+🗺️ J) Explorer
+
+👩‍🌾 K) Farmer
+
+👩‍🎤 L) Singer 
+
+👨‍🍳 M) Chef
+
+👩‍⚕️ N) Nurse
+
+💼 O) Businessman
+
+🌎 P) Other (Please describe)
+
+
+
+-Optional: provide an idea of what could happen in the story. This shouldn't happen directly at the beginning.
+
+📖 Examples:
+
+    1. As a powerful wizard, you are tasked with finding and defeating an evil sorcerer who threatens to destroy the kingdom.
+
+    2. As a detective, you must solve a series of murders that are happening in an abandoned mansion and catch the killer before they strike again.
+
+    3. As an astronaut, you go on a mission to explore a new planet, but things start to go wrong when your spacecraft malfunctions.
+
+    4. As a superhero, you must save the city from a dangerous villain who is planning a massive attack.
+
+    5. As a zombie survivor, you must navigate through a post-apocalyptic world filled with danger and scarce resources.
+
+
+
+Please let me know your choices, or feel free to provide something different!
 
 ## Conversation
 
@@ -140,5 +235,4 @@ Once you have this information, you'll begin the game.
 
 
 Please let me know your choices, or feel free to provide something different!
-
 

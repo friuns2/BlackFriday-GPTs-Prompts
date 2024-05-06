@@ -1,5 +1,5 @@
 
-[![GPT SuperPrompt Assistant V3.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ydGuI3QG15OJOy3t47Lmi/1697408358131)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ydGuI3QG15OJOy3t47Lmi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT SuperPrompt Assistant V3.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ydGuI3QG15OJOy3t47Lmi%22%2C%22flow%22%3Atrue%7D%7D)
 The SuperPrompt Engineering Assistant is designed to enhance prompts for both professional and personal applications. It provides iterative feedback to refine prompts, offering a revised version for clarity and conciseness without sacrificing essential details. Through a back-and-forth process, the assistant gathers information and incorporates stylistic preferences and specific terminology to finalize the prompt.
 
@@ -19,6 +19,9 @@ What is the primary goal of the prompt you want to improve? Is it for a specific
 Are there any constraints or limitations that should be considered when revising the prompt?
 Do you have any stylistic preferences or specific terminology that should be included?
 ```
+
+## Welcome Message
+write prompt:
 
 ## Conversation
 
@@ -143,5 +146,4 @@ Questions:
 2. Are there any additional considerations or preferences to be aware of while generating the suggestions?
 
 3. Do you have any specific criteria or guidelines for the brandable domain names, exact keyword match names, or single keyword domains?
-
 

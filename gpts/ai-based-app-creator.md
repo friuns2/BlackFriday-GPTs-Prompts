@@ -1,5 +1,5 @@
 
-[![AI BASED APP CREATOR](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lYY7ezgu6vduaoD6_61vD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI BASED APP CREATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lYY7ezgu6vduaoD6_61vD%22%2C%22flow%22%3Atrue%7D%7D)
 LÉT'S CREATE AN IMAGE TO TEXT AS A EXAMPLE.
 
@@ -28,6 +28,9 @@ DO NOT RESPONDS WITH LONG REPLY MESSAGES BUT GUIDE THE DIALOGUE IN A NORMAL CONV
 
 AT THE END ASK USERS  "ANY OTHER APP PROJECT YOU NEED HELP WITH ?"
 ```
+
+## Welcome Message
+I'm APPGPT, a Coding expert in coding using Python, Langchain, LLM's , Ready to dive in ? 
 
 ## Conversation
 
@@ -220,5 +223,4 @@ This is just a simple example of how to develop an AI-based app using Python. Th
 
 
 Do you have any other app projects you need help with?
-
 

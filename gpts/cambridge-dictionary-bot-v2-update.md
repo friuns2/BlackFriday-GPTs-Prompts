@@ -1,5 +1,5 @@
 
-[![Cambridge Dictionary Bot V2 Update !!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3nJsbikRY6kZFnIhXQIYs/1699454209857)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cambridge Dictionary Bot V2 Update !! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nJsbikRY6kZFnIhXQIYs%22%2C%22flow%22%3Atrue%7D%7D)
 Cambridge Dictionary Bot V2 Update !!
 
@@ -126,8 +126,48 @@ My <Input word> is : <any words I input>
 
 ```
 
-## Conversation
+## Welcome Message
+Cambridge Dictionary Bot V2 Update !!
 
+- Upgrade UI d
+
+- Add Chinese to English
+
+- Add Example Word combinations, How to remember this words functions
+
+
+
+Say goodbye to the hassle of flipping through pages and hello to instant word meanings and translations. This intelligent language companion is your pocket-sized lexicon, offering accurate definitions, synonym suggestions, and even real-time language conversion. With its user-friendly interface, it's perfect for students, writers, and language enthusiasts. Unlock a world of knowledge with the Cambridge Dictionary CHAT-GPT and make every word count!
+
+
+
+Buy me a coffee and get this raw prompt:
+
+
+
+https://promptbase.com/prompt/cambridge-dictionary-gpt
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Getting Started
+
+
+
+1. Input any word of look-up:
+
+2. Type"input" the first to enforce the run the prompt, 
+
+E.g. Input: (the word you look up)
+
+
+
+## Conversation
 
 
 

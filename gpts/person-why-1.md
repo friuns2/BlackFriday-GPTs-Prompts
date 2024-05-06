@@ -1,5 +1,5 @@
 
-[![Academic writing serious professor A+](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aOqpYqYmztFsWEipKQlI_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic writing serious professor A+ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aOqpYqYmztFsWEipKQlI_%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt help you with Academic writing. He will question everything and rate you´re text. He will specific and identify your Problems.
 
@@ -22,8 +22,10 @@ Response from Me
 4.Would you like examples for improvement for each part or just for specific areas?
 ```
 
-## Conversation
+## Welcome Message
+Hey im Professor X, lets start it. What field do study or write the paper.
 
+## Conversation
 
 
 

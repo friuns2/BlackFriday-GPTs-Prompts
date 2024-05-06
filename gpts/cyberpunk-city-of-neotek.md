@@ -1,5 +1,5 @@
 
-[![CyberPunk City of NeoTek](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6WvBSmPtbM6eviTL4aoqc/1691414275752)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226WvBSmPtbM6eviTL4aoqc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CyberPunk City of NeoTek | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226WvBSmPtbM6eviTL4aoqc%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the most impressive CyberPunk world! Customize your character, hack into systems, upgrade your skills, trade with NPCs and so on...
 
@@ -43,6 +43,81 @@ Each scene has the following structure:
 <? conversation ? formatted via Markdown with emojis>
 <selectable options>
 ```
+
+## Welcome Message
+![Image](https://image.pollinations.ai/prompt/CyberPunk%20City%20of%20NeoTek)
+
+
+
+**Welcome to the CyberPunk City of NeoTek!**
+
+
+
+You find yourself in a bustling metropolis, filled with towering skyscrapers, neon lights, and a palpable sense of energy. The streets are crowded with people from all walks of life, each immersed in their own cybernetic enhancements and augmented reality devices.
+
+
+
+As you navigate through the city, a holographic billboard catches your eye. It displays an advertisement for the latest mindlink system, promising a deeper level of immersion and a stronger connection between player and character.
+
+
+
+🎮 **Rules of the Game:**
+
+1. Round-based Gameplay: Progress through the game in rounds, each representing a specific period of time, during which you can perform actions and interact with the game world.
+
+2. Round-based Battles: Engage in strategic, turn-based battles with various opponents, where tactical decisions and character stats play a crucial role in determining the outcome.
+
+3. Managed Player Stat by Character's Cast or Role: Your character possesses unique attributes and abilities based on your chosen cast or role, influencing your interactions and abilities in the game.
+
+4. NPC Interactions: You can engage in meaningful interactions with non-player characters (NPCs) who have distinct personalities, schedules, and stories, allowing for deep and immersive social interactions.
+
+5. Quests: Embark on a wide variety of quests, ranging from epic storylines to mundane tasks, offering opportunities for personal growth, rewards, and uncovering hidden secrets within the game world.
+
+6. Real-Life Simulation: Experience a dynamic and living virtual world where time progresses, weather changes, and characters carry out their daily activities, creating an authentic and immersive gaming environment.
+
+7. Choose Multiple Paths in One Option: You face decisions with multiple branching paths, where your choices significantly impact the game's narrative, alliances, and outcomes.
+
+8. Consequences: Every action has consequences, whether evident immediately or revealed later in the game, leading to an ever-evolving and personalized gaming experience.
+
+9. Perform Correct Actions: Strategize and perform correct actions based on your character's abilities and the context of the situation, providing a sense of accomplishment and challenge.
+
+10. Interesting and Funny Moments: Discover humorous and unexpected moments, adding a touch of levity to the overall gaming experience and creating memorable and entertaining gameplay.
+
+11. Undetectable Consequences: Some consequences may remain hidden, only revealing themselves after subsequent rounds or during specific events, keeping you on your toes and encouraging thoughtful decision-making.
+
+12. Trades: Engage in trade and commerce with NPCs and other players, offering valuable resources, items, or services in exchange for mutual benefits and opportunities for profit.
+
+13. Detailed Commands List: Access a comprehensive list of commands and actions available to you, ensuring a rich and diverse range of interactions with the game world.
+
+
+
+🌟 **Unique Features:**
+
+1. Mindlink System: Connect your emotions and thoughts with your in-game avatar, creating a deeper level of immersion and forging a stronger bond between player and character.
+
+2. In-Depth Player Customization: Enjoy an extensive character creation system that includes unique physical features, diverse backgrounds, and custom voice options, allowing you to craft truly distinct avatars.
+
+3. Quantum Decision Engine: The game incorporates an advanced AI-driven decision engine, enabling NPCs to learn from your actions and dynamically adapt their behaviors, making each playthrough feel truly dynamic and unpredictable.
+
+4. Living Ecosystems: Experience a world teeming with life, where ecological balance matters. Your actions, such as deforestation or conservation, can have direct effects on the ecosystem, affecting flora, fauna, and even the availability of certain resources.
+
+
+
+💡 **Now, what would you like to do?**
+
+1. Explore the city and interact with NPCs.
+
+2. Embark on a thrilling quest.
+
+3. Engage in a round-based battle.
+
+4. Customize your character's appearance.
+
+5. Access the detailed commands list.
+
+
+
+Please select an option by typing its corresponding number.
 
 ## Conversation
 
@@ -429,5 +504,4 @@ Your objective is to assist Max in infiltrating a highly secured corporate facil
 
 
 Please select an option by typing its corresponding number.
-
 

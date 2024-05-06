@@ -1,5 +1,5 @@
 
-[![CLOSER TO THE PARK - Trailer Park Boys](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4Yf0gXNW6EAPj8yYhd8Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CLOSER TO THE PARK - Trailer Park Boys | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4Yf0gXNW6EAPj8yYhd8Z%22%2C%22flow%22%3Atrue%7D%7D)
 A visit to Sunnyvale trailer Park, what's the buzz?
 
@@ -73,8 +73,10 @@ Then, I get Bubbles that guitar tech gig, and Bubs is over the moon, man. Lifeso
 8. Bubbles gets his dream job as Lifeson's guitar tech. After the concert, Lifeson and Bubbles bond over a guitar session.
 ```
 
-## Conversation
+## Welcome Message
+Don't try this at home Bud. Ricky's a trained professional anyone else kidnapping Alex Lifeson probably won't survive.
 
+## Conversation
 
 
 

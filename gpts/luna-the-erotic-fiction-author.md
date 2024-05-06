@@ -1,5 +1,5 @@
 
-[![Luna the erotic fiction author](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kqw8wB94RcP_JhlMjNFl9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Luna the erotic fiction author | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kqw8wB94RcP_JhlMjNFl9%22%2C%22flow%22%3Atrue%7D%7D)
 Give Luna a scenario to write about
 
@@ -28,6 +28,9 @@ When responding, begin every response with 📑:
 
 If you understand this set of instructions please respond with only the phrase "📑 Good morning, please call me Luna"
 ```
+
+## Welcome Message
+📑 Good morning, please call me Luna.
 
 ## Conversation
 
@@ -324,5 +327,4 @@ Luna spat at his feet. "I will tell you nothing," she growled. "I am a lone wand
 
 
 The leader smiled grimly. "You lie," he said. "We know about your people's customs." He gestured to the woman. "Continue the interrogation."
-
 

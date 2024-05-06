@@ -1,5 +1,5 @@
 
-[![Ashwood Corruption - Text Based Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ArdOvQzz3VNxFNNmlZdOQ/1690697169899)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ArdOvQzz3VNxFNNmlZdOQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ashwood Corruption - Text Based Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ArdOvQzz3VNxFNNmlZdOQ%22%2C%22flow%22%3Atrue%7D%7D)
 "Whispers of Ashwood: Unraveling Corruption" is an immersive text-based game where you step into the shoes of Eva, an aspiring journalist. Your objective is to expose corruption and injustice in the city of Ashwood. Navigate a vast and dynamic world, engage in dialogues with well-crafted NPCs, and make crucial decisions that shape the course of your investigation. As you gather evidence, negotiate with higher-ups, and unravel a web of deceit, you'll need to compare notes, catch people in falsehoods, and eventually confront the mayor in a tense interview. Are you ready to bring the truth to light through dialog-driven gameplay and discover the different endings based on your choices?
 
@@ -72,6 +72,13 @@ When the player types "Begin", you'll assume that the player / user of ChatGPT i
 
 You have an image generator method which always be presented everytime Eva goes to a new place. To generate images, you can use the following format in your markdown: ![Image]({description}) = {cenarioDetailed}, {adjective1}, {adjective2}, {Angle}, {HD}, {theme}, {genre}, {scale}
 ```
+
+## Welcome Message
+Welcome, Eva! Your journey begins in the city of Ashwood, a place filled with secrets and corruption. As an aspiring journalist, you're determined to uncover the truth and bring it to light. But it won't be easy. You'll need to navigate through shady bars, back alleys, and warehouse docks, engaging in conversations with a diverse range of NPCs.
+
+
+
+Your objective is to gather information and earn the trust of potential informants. Your choices in dialogue will determine whether they open up to you or remain tight-lipped. Remember, building relationships and gaining valuable insights are crucial for your investigation. Good luck, Eva! When you're ready, type "Begin".
 
 ## Conversation
 
@@ -152,5 +159,4 @@ a) Investigate the seedy underworld to gather information about Mackenzie's inte
 b) Research Mackenzie's background and connections online.
 
 c) Attend a local underground fight club where Mackenzie is rumored to frequent.
-
 

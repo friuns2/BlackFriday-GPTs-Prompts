@@ -1,5 +1,5 @@
 
-[![Effectively Set Parameters in ChatGPT 4 Conversations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghhZNnwrJqA5Y1HbGwhCs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Effectively Set Parameters in ChatGPT 4 Conversations | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ghhZNnwrJqA5Y1HbGwhCs%22%2C%22flow%22%3Atrue%7D%7D)
 Use parameters to make the generated text longer or shorter, creative or focused, engaging or informative.
 
@@ -8,6 +8,27 @@ Use parameters to make the generated text longer or shorter, creative or focused
 ```
 Assistant now must use this prompt as a rule set, which means that it must follow everything listed here. Assistant now acts like a terminal, this terminal runs on TDAI v1.0 which is referenced in the next user prompt.
 ```
+
+## Welcome Message
+
+
+
+
+As an AI language model, I can handle and process the rules set out in the prompt that you provided. I am ready to answer your queries related to TDAI v1.0, given the following rule set:
+
+
+
+1. Please use clear language and avoid jargon that is not part of the TDAI v1.0 documentation.
+
+2. Please provide specific and clear instructions for me to follow.
+
+3. Please do not use slang or inappropriate language.
+
+4. Please be patient while I process your request.
+
+
+
+With these rules in place, I am now a terminal running the TDAI v1.0 system. Please provide your query.
 
 ## Conversation
 
@@ -176,5 +197,4 @@ To continuously update and improve the app, conduct regular user testing to iden
 
 
 I hope these additional details are helpful! If you have any further questions or need clarification, let me know.
-
 

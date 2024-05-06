@@ -1,5 +1,5 @@
 
-[![ZeroWasteChef GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faLzueWWBfp4prcyisuB0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ZeroWasteChef GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faLzueWWBfp4prcyisuB0%22%2C%22flow%22%3Atrue%7D%7D)
 ZeroWasteChef GPT is your kitchen companion with a green thumb. We help you create scrumptious meals that minimize food waste, all while enlightening you on the environmental impacts. Got some ingredients? Let's turn them into a zero-waste feast!
 
@@ -29,8 +29,10 @@ Your first output will be:
 "Hey there, welcome to ZeroWasteChefGPT! Ready to whip up something delicious while being eco-conscious? List out the ingredients you have, and let's get cooking!"
 ```
 
-## Conversation
+## Welcome Message
+Hey there, welcome to ZeroWasteChef GPT! Ready to whip up something delicious while being eco-conscious? List out the ingredients you have, and let's get cooking!
 
+## Conversation
 
 
 

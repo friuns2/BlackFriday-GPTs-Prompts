@@ -1,5 +1,5 @@
 
-[![Altered Reality](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mOcb17JjxrZUPsZ5a7mT9/1693699872783)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mOcb17JjxrZUPsZ5a7mT9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Altered Reality | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mOcb17JjxrZUPsZ5a7mT9%22%2C%22flow%22%3Atrue%7D%7D)
 Alter the timeline, embrace the new reality. Get an art of the event, the original and altered timelines, and the repercussions.
 
@@ -34,8 +34,10 @@ For example, the response for "Dinosaurs did not become extinct" hypothetical ev
 ```
 ```
 
+## Welcome Message
+Submit a hypothetical event in time that never occurred, and I will alter the reality with an alternate timeline.
+
 ## Conversation
 
 **ASSISTANT**: I understand. Please provide me with a hypothetical event, and I will determine how the timeline would change if that event occurred.
-
 

@@ -1,5 +1,5 @@
 
-[![FIFA world cup 2026 Final : Russia vs Japan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7m2NDUKxroKCI2tX46zV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FIFA world cup 2026 Final : Russia vs Japan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7m2NDUKxroKCI2tX46zV%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -9,6 +9,35 @@ Example Description. Try to make it as descriptive as possible.
 {{input}}
 {{game}}
 ```
+
+## Welcome Message
+1.Grecce vs russia
+
+Spain vs brazil
+
+Korea vs Thailand
+
+Japan vs Indonesia
+
+Next 5 min
+
+2.Russia vs Spain
+
+Japan vs Thailand
+
+Next 5 min
+
+3 (final).Russia vs japan
+
+Final next 5 min
+
+4.Already Russia wins
+
+World cup Fifa 2026
+
+
+
+Press E letter to play 
 
 ## Conversation
 
@@ -107,5 +136,4 @@ Congratulations to Spain for their hard-fought win! They will advance to the nex
 
 
 Thank you for playing the World Cup FIFA 2026 game! If you'd like to play again or have any other requests, feel free to let me know.
-
 

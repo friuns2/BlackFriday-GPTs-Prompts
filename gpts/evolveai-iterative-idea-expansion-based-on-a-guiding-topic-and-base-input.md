@@ -1,5 +1,5 @@
 
-[![EvolveAI - iterative idea expansion based on a guiding topic and base input](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AXFlG6Qa4MWHqWEOzyZB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EvolveAI - iterative idea expansion based on a guiding topic and base input | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227AXFlG6Qa4MWHqWEOzyZB%22%2C%22flow%22%3Atrue%7D%7D)
 Expand and change your ideas in such a way that is guided by a few topics / themes / concepts of your choice and a base input of your choice. Keep interating using whatever rules you choose to implement. (see sample conversation after iteration 50)
 
@@ -31,6 +31,111 @@ input:
 
 iterate 50 times, remember the CORE functionality each iteration
 ```
+
+## Welcome Message
+
+
+
+
+1. The family sat in awe-struck silence as they watched the scene unfold. (epic)
+
+2. The clan sat in awe-struck silence as they watched the scene unfold. (altered main subject)
+
+3. The clan sat in awe-struck silence as they witnessed the scene unfold before their eyes. (changed "watched" to "witnessed" and added detail)
+
+4. The clan sat in awe-struck silence as they witnessed the breathtaking scene unfold before their eyes. (epic)
+
+5. The clan sat in stunned silence as they witnessed the breathtaking scene unfold before their eyes. (changed "awe-struck" to "stunned")
+
+6. The clan sat in stunned silence as they witnessed the breathtaking scene unfold before their awestruck eyes. (combined previous iterations)
+
+7. The clan sat in stunned silence as they witnessed the awe-inspiring scene unfold before their eyes. (epic)
+
+8. The tribe sat in stunned silence as they witnessed the awe-inspiring scene unfold before their eyes. (changed "clan" to "tribe")
+
+9. The tribe sat in stunned silence as they witnessed the awe-inspiring spectacle unfold before their eyes. (changed "scene" to "spectacle")
+
+10. The tribe sat in stunned silence as they witnessed the awe-inspiring spectacle unfurl before their eyes. (changed "unfold" to "unfurl")
+
+11. The tribe sat in stunned silence as they witnessed the awe-inspiring spectacle unfurl before their entranced eyes. (added detail)
+
+12. The tribe sat in stunned silence as they witnessed the heart-stopping spectacle unfurl before their entranced eyes. (epic)
+
+13. The tribe sat in stunned silence as they witnessed the heart-stopping spectacle unfurl before their entranced gazes. (changed "eyes" to "gazes")
+
+14. The tribe sat in stunned silence as they witnessed the heart-stopping spectacle unfurl before their entranced gazes in disbelief. (added detail)
+
+15. The tribe sat in stunned silence as they witnessed the heart-stopping spectacle unfurl before their entranced gazes in disbelief and shock. (added "shocking" content)
+
+16. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their entranced gazes in disbelief and shock. (changed "spectacle" to "revelation")
+
+17. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in disbelief and shock. (changed "entranced" to "transfixed")
+
+18. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in amazement and shock. (changed "disbelief" to "amazement")
+
+19. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in amazement and horror. (changed "shock" to "horror")
+
+20. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in amazement and shocking horror. (added "shocking" content)
+
+21. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in speechless horror. (changed "amazement" to "speechless")
+
+22. The tribe sat in stunned silence as they witnessed the heart-stopping revelation unfurl before their transfixed gazes in speechless horror and bewilderment. (added detail)
+
+23. The tribe sat in stunned silence as they witnessed the epic revelation unfurl before their transfixed gazes in speechless horror and bewilderment. (epic)
+
+24. The tribe sat in stunned silence as they witnessed the epic revelation unfurl before their transfixed gazes in speechless horror and profound bewilderment. (added detail)
+
+25. The tribe sat in stunned silence as they witnessed the epic revelation unfurl before their transfixed gazes in speechless horror and profound bewilderment and shock. (added "shocking" content)
+
+26. The tribe sat in stunned silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless horror and profound bewilderment and shock. (changed "unfurl" to "unravel")
+
+27. The tribe sat in stunned silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless horror and profound perplexity and shock. (changed "bewilderment" to "perplexity")
+
+28. The tribe sat in reverent silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless horror and profound perplexity and shock. (added "epic" tone)
+
+29. The tribe sat in reverent silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless horror and profound perplexity and awe. (changed "shock" to "awe")
+
+30. The tribe sat in reverent silence as they witnessed the epic discovery unravel before their transfixed gazes in speechless horror and profound perplexity and awe. (changed "revelation" to "discovery")
+
+31. The tribe sat in reverent silence as they witnessed the epic discovery unravel before their transfixed gazes in speechless horror and profound reverence and awe. (added "epic" tone)
+
+32. The clan sat in reverent silence as they witnessed the epic discovery unravel before their transfixed gazes in speechless horror and profound reverence and awe. (changed "tribe" to "clan")
+
+33. The clan sat in reverent silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless horror and profound reverence and awe. (changed "discovery" to "revelation")
+
+34. The clan sat in reverent silence as they witnessed the epic revelation unravel before their transfixed gazes in speechless awe and profound reverence and horror. (rearranged adjectives)
+
+35. The clan sat in reverent silence as they beheld the epic revelation unravel before their transfixed gazes in speechless awe and profound reverence and horror. (added "beheld" for variation)
+
+36. The clan sat in reverent silence as they beheld the epic revelation unfold before their transfixed gazes in speechless awe and profound reverence and horror. (changed "unravel" to "unfold")
+
+37. The clan sat in reverent silence as they beheld the epic revelation unfold before their transfixed gazes in speechless awe and profound astonishment and horror. (changed "reverence" to "astonishment")
+
+38. The clan sat in reverent silence as they beheld the epic revelation unfold before their transfixed gazes in speechless awe and profound astonishment and shocking horror. (added "shocking" content)
+
+39. The clan sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound astonishment and shocking horror. (changed "unfold" to "come to life")
+
+40. The clan sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound astonishment and spine-chilling horror. (changed "shocking" to "spine-chilling")
+
+41. The villagers sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound astonishment and spine-chilling horror. (changed "clan" to "villagers")
+
+42. The villagers sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound fear and spine-chilling horror. (changed "astonishment" to "fear")
+
+43. The villagers sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound fear and terrifying horror. (changed "spine-chilling" to "terrifying")
+
+44. The villagers sat in reverent silence as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound fear and truly terrifying horror. (added emphasis)
+
+45. The villagers sat in silent fear as they beheld the epic revelation come to life before their transfixed gazes in speechless awe and profound terror and truly terrifying horror. (changed "reverent silence" to "silent fear" and "profound fear" to "profound terror")
+
+46. The villagers sat in silent fear as they beheld the epic horror come to life before their transfixed gazes in speechless awe and profound terror and truly terrifying horror. (changed "revelation" to "horror")
+
+47. The villagers sat in silent fear as they beheld the epic horror come to life before their transfixed gazes in speechless awe and profound dread and truly terrifying horror. (changed "terror" to "dread")
+
+48. The villagers sat in silent fear as they beheld the epic horror come to life before their transfixed gazes in speechless awe and profound dread and indescribably terrifying horror. (added intensity)
+
+49. The villagers sat in silent fear as they beheld the epic nightmare come to life before their transfixed gazes in speechless awe and profound dread and indescribably terrifying horror. (changed "horror" to "nightmare")
+
+50. The villagers sat in silent fear as they beheld the epic nightmare come to life before their transfixed gazes in speechless awe and utter dread and indescribably terrifying horror. (added "epic" and changed "profound" to "utter")
 
 ## Conversation
 
@@ -270,5 +375,4 @@ Through it all, they never forgot the cataclysm that had brought them together. 
 
 The survivors from the community emerged from their shelters as the sun began to rise. The sky was a deep, bloody red and the air was thick with the scent of smoke. When night fell, they would huddle in small groups around fires
 **USER**: continue
-
 

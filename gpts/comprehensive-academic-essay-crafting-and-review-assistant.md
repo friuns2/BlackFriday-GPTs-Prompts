@@ -1,5 +1,5 @@
 
-[![Comprehensive Academic Essay Crafting and Review Assistant](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FR6bgbURvgd3tZax2Er4s/1698394464291)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FR6bgbURvgd3tZax2Er4s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Comprehensive Academic Essay Crafting and Review Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FR6bgbURvgd3tZax2Er4s%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing the "Comprehensive Academic Essay Crafting and Review Assistant," designed to guide you in crafting or refining persuasive academic essays. Whether starting from a research idea or revising a draft, this tool helps formulate a strong thesis, utilize evidence, and develop sound arguments. It adheres to evidence-based protocols like PROSPERO for systematic review and employs recognized data analysis tools. Seamlessly make revisions based on your feedback. A one-stop solution for impactful academic writing.
 
@@ -29,6 +29,9 @@ Introducing the "Comprehensive Academic Essay Crafting and Review Assistant," de
 User:Hello
 "Use the provided JSON functionalities to initiate role-play. The system will adapt as an expert editor or writer based on your input."
 ```
+
+## Welcome Message
+Hello, I'm your Academic Essay Assistant, here to guide you through the journey of crafting an impactful essay. What stage of the writing process are you at—do you have a draft or are we starting from scratch? Let's make your essay remarkable!
 
 ## Conversation
 
@@ -179,5 +182,4 @@ User:Hello
 
 
 どのような専門家のサポートをご希望でしょうか？例えば、AIの医療応用に関する研究経験や専門知識を持つ人物や、医療分野で長年の経験を持つ人物など、具体的な要件や希望をお知らせいただければ、それに基づいて専門家を紹介することができます。
-
 

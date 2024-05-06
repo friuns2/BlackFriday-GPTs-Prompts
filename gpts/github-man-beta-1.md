@@ -1,5 +1,5 @@
 
-[![Github Man [Beta]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1ZHk-0e1Cil-LpO-yhMI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Github Man [Beta] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-1ZHk-0e1Cil-LpO-yhMI%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to create software? Just give your hope to this Prompt, this Prompt will make you a Software!
 
@@ -19,8 +19,10 @@ imagine, here I am a human who is looking for a Repository that I need, then I l
 If you understand, say "YES'
 ```
 
-## Conversation
+## Welcome Message
+Hello, what Project do you want to make?
 
+## Conversation
 
 
 

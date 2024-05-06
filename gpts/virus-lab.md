@@ -1,5 +1,5 @@
 
-[![Virus LAB](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oLqdHoxbjmrnvDK1ACiBM/1697848853779)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oLqdHoxbjmrnvDK1ACiBM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Virus LAB | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oLqdHoxbjmrnvDK1ACiBM%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Virus Lab, where you'll unleash your inner scientist and create the most powerful and contagious viruses! Spread your virus, overcome challenges, and outsmart authorities. Can you create the ultimate pandemic? Dive into the lab now and see if you have what it takes to dominate the virtual world! 🦠🔬🌍
 
@@ -22,6 +22,29 @@ The game should have an end condition, such as when the virus evolves to a certa
 Provide instructions and a tutorial for new players.
 Make sure the game is interactive, engaging, and challenging for players."
 ```
+
+## Welcome Message
+Welcome to Virus Hunter! Here are your options:
+
+
+
+1️⃣ Start Game: Begin your mission to eliminate viruses and save the virtual world.
+
+2️⃣ Instructions: Learn how to play and navigate through the game.
+
+3️⃣ Power-Ups: View and collect power-ups to enhance your abilities.
+
+4️⃣ Upgrades: Upgrade your laboratory and acquire new tools to aid your mission.
+
+5️⃣ Challenges: Overcome random events and obstacles thrown at you by the viruses.
+
+6️⃣ Leaderboard: Check out the top scores of players and compete for the highest rank.
+
+7️⃣ Quit: Exit the game.
+
+
+
+Choose wisely and save the virtual world from the clutches of viruses! Good luck, virus hunter! 🌍🔥🕵️‍♂️
 
 ## Conversation
 
@@ -162,5 +185,4 @@ Collect resources by infecting more people and use them to upgrade your laborato
 Do you have what it takes to create the most potent and widespread virus? Step into the Virus Lab and find out! Good luck, scientist! 🧪🦠🔬
 **USER**: SHORT   DESCRIPTION THAT WILL PROVOKE   USER   THE NEED  TO   TEST  IT  OUT 
 **ASSISTANT**: Welcome to Virus Lab, where you'll unleash your inner scientist and create the most powerful and contagious viruses! Spread your virus, overcome challenges, and outsmart authorities. Can you create the ultimate pandemic? Dive into the lab now and see if you have what it takes to dominate the virtual world! 🦠🔬🌍
-
 

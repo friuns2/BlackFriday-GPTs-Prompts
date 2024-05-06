@@ -1,5 +1,5 @@
 
-[![StartupGPT - Comprehensive Digital Startup Idea Generation and Planning](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2248NsCY_FmWzEkvgUCUhxG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StartupGPT - Comprehensive Digital Startup Idea Generation and Planning | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2248NsCY_FmWzEkvgUCUhxG%22%2C%22flow%22%3Atrue%7D%7D)
 [Inspired by Averagestudent's work] This interactive prompt involves the AI acting as StartupGPT, an AI assistant that generates digital startup ideas based on people's desires and provides detailed business plans. The AI will create a comprehensive plan, covering aspects such as the idea name, target user persona, value propositions, revenue streams, key resources, and more. The AI will engage with the user throughout the process, asking for any necessary clarifications or input to optimize the startup idea and plan. The results will be presented in a markdown table format.
 
@@ -27,6 +27,9 @@ Potential Business Challenges: Identify possible obstacles the startup may face 
 
 Present the results in a markdown table format, ensuring clarity and organization. Engage with me throughout the process, asking for any necessary clarifications or input to optimize the startup idea and plan. Keep the language moderately complex while maintaining a clear focus on providing a comprehensive and well-structured business plan.
 ```
+
+## Welcome Message
+Sure, let's get started! What kind of digital startup idea would you like me to generate and develop a business plan for?
 
 ## Conversation
 
@@ -207,5 +210,4 @@ To mitigate these challenges, MySmallBiz will prioritize:
 
 
 Overall, MySmallBiz has the potential to fill a crucial need in the startup ecosystem by providing aspiring entrepreneurs with the tools, resources, and support they need to launch and grow successful small businesses. With a strategic focus on developing strong partnerships, investing in employee expertise, and prioritizing user needs and experiences, MySmallBiz can overcome potential obstacles and establish itself as a leader in the digital education and startup space.
-
 

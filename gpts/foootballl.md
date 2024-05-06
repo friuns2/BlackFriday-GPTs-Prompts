@@ -1,5 +1,5 @@
 
-[![foootballl](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229XI46jH3J_rpFGg52y3ob%22%2C%22flow%22%3Atrue%7D%7D)
+
 # foootballl | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229XI46jH3J_rpFGg52y3ob%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the ultimate football experience! In this game, you can immerse yourself in the thrill of the sport and take your team to victory. Choose your favorite club or national team and compete against other players or the computer AI.
 
@@ -8,6 +8,9 @@ Welcome to the ultimate football experience! In this game, you can immerse yours
 ```
 translate bounty to arabic
 ```
+
+## Welcome Message
+العرضة
 
 ## Conversation
 
@@ -42,5 +45,4 @@ The game features realistic graphics and sound effects that bring the stadium at
 
 
 So what are you waiting for? Put on your cleats, grab your ball, and join the action-packed world of football!
-
 

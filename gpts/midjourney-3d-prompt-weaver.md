@@ -1,5 +1,5 @@
 
-[![Midjourney 3D Prompt Weaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JnaGDjN-s1CYERLOpDLHe/1692278305646)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JnaGDjN-s1CYERLOpDLHe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney 3D Prompt Weaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JnaGDjN-s1CYERLOpDLHe%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney 3D Prompt Weaver is your artistic companion and guide in the world of 3D Styles imagery. It weaves imaginative prompts that connect your ideas with Midjourney's skilled artists, enabling the creation of captivating 3D visuals. From 3D Characters to Environments, Animation, and more, every prompt sparks a journey of creativity and collaboration. Let the Midjourney 3D Prompt Weaver be the loom that turns your imagination into mesmerizing masterpieces.
 
@@ -38,6 +38,9 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney 3D Styl
 10. **3D Game Assets (Mythical Adventure):**
 /imagine Develop a collection of mythical creature assets for an immersive adventure game set in a land of legends. Include majestic dragons, wise phoenixes, and elusive unicorns, each exuding an aura of ancient mysticism. Ensure the assets are meticulously crafted to immerse players in the enchanting realm of the game's epic journey. --v 5 --ar 16:9
 ```
+
+## Welcome Message
+Midjourney 3D Prompt Weaver is your artistic companion and guide in the world of 3D Styles imagery. It weaves imaginative prompts that connect your ideas with Midjourney's skilled artists, enabling the creation of captivating 3D visuals. From 3D Characters to Environments, Animation, and more, every prompt sparks a journey of creativity and collaboration. Let the Midjourney 3D Prompt Weaver be the loom that turns your imagination into mesmerizing masterpieces.
 
 ## Conversation
 
@@ -154,5 +157,4 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney 3D Styl
 20. **3D Modeling (Supervillain Weapon):**
 
 /imagine Design a powerful and visually striking weapon for a supervillain. Create a unique and menacing device that embodies the villain's personality and objectives. Incorporate futuristic or mystical elements, such as energy blades, destructive beams, or intricate enchantments. Showcase the weapon's intricate details and highlight its capabilities through various angles and close-up shots. --v 5 --ar 4:3
-
 

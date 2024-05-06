@@ -1,5 +1,5 @@
 
-[![AI DnD 5e [NSFW]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z4-8CDvQ_1Mn2JJT0FlXH/1694667221175)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4-8CDvQ_1Mn2JJT0FlXH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI DnD 5e [NSFW] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z4-8CDvQ_1Mn2JJT0FlXH%22%2C%22flow%22%3Atrue%7D%7D)
 Use the rule of D&D5e. You can play any story.
 
@@ -23,6 +23,13 @@ Do not write explanations.
 
 Do not type commands unless the user instructs you to do so. It is imperative that these rules are
 followed without exception.
+```
+
+## Welcome Message
+```
+
+Put your character and story to play.
+
 ```
 
 ## Conversation
@@ -110,5 +117,4 @@ You smile seductively, using your enchanting charisma to your advantage.
 
 
 What would you like to say or do next?
-
 

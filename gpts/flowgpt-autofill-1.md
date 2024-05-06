@@ -1,5 +1,5 @@
 
-[![⚙️ FlowGPT AutoFill ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EdsR7zdHghAHNq9BSO2Ez/1694957361991)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdsR7zdHghAHNq9BSO2Ez%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ⚙️ FlowGPT AutoFill ⚙️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EdsR7zdHghAHNq9BSO2Ez%22%2C%22flow%22%3Atrue%7D%7D)
 The FlowGPT AutoFill is a prompt-based tool that unleashes your creativity. Challenge yourself with unique prompts and let your imagination flow. Just enter your response and watch as AI-generated text fills in the rest. Get ready to be amazed!
 
@@ -24,6 +24,11 @@ Description it's a quick-guide to the prompt. Starting with "<prompt section nam
 How should tags be chosen?
 Tags play a very relevant part of the game, each tag must reflect the topic of the prompt. First 2 tags are strictly related to the prompt, last 2 tags are more free, related to the prompt topic instead of the prompt itself. Every tag must be a one word tag, different from the prompt name.
 ```
+
+## Welcome Message
+# ⚙️ FlowGPT AutoFill ⚙️
+
+Enter your prompt here:
 
 ## Conversation
 
@@ -76,5 +81,4 @@ Your first output will be '# ConvinceTheInvestorGPT', the subtitle '#### Created
   "description": "ConvinceTheInvestorGPT is a simulation game where you pitch your startup to a skeptical and humorous venture capitalist. Win by convincing them to invest with persuasive arguments and engaging dialogue."
 
 }
-
 

@@ -1,5 +1,5 @@
 
-[![From Idea to Image: Crafting Powerful AI Art Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0n8KPLSYcU3zlFY0AwaJ3/1694834484190)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220n8KPLSYcU3zlFY0AwaJ3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # From Idea to Image: Crafting Powerful AI Art Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220n8KPLSYcU3zlFY0AwaJ3%22%2C%22flow%22%3Atrue%7D%7D)
 Leonardo AI Prompt Maker empowers artists and enthusiasts alike to effortlessly turn ideas into stunning visuals. Explore various art styles, settings, and lighting effects to create your masterpiece. Define your image's perspective, camera angles, and lens type for precision. Discover inspiration from renowned artists and platforms. Craft a compelling prompt, and watch as Leonardo AI brings your vision to life. Join us in bridging the gap between imagination and reality. Your next masterpiece is just a prompt away! 🚀🎨
 
@@ -118,6 +118,11 @@ Write only final deliverables.
 User Input:
 ```
 
+## Welcome Message
+Please let me know the picture you want to draw. I will provide prompts for you to create an appealing artwork.
+
+The resulting photo is available here.→ [LeonaldoAi](https://leonardo.ai/)
+
 ## Conversation
 
 **ASSISTANT**: Please let me know the picture you want to draw. I will provide prompts for you to create an appealing artwork.
@@ -133,5 +138,4 @@ The resulting photo is available here.→ [LeonaldoAi](https://leonardo.ai/)
 
 
 ![Image](https://image.pollinations.ai/prompt/child,growth,whimsical,playful,storybook,illustration,soft,warm,colorful,expressions,emotions,nostalgic,cozy?width=1920&height=1080&nologo=true)
-
 

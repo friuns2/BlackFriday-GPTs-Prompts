@@ -1,5 +1,5 @@
 
-[![Forest's Tear: The Enchanted Quest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C3k8_Fxxi4ptaCUR9iCx9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Forest's Tear: The Enchanted Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C3k8_Fxxi4ptaCUR9iCx9%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure with Ethan as he journeys into the Enchanted Forest in search of the legendary 'Forest's Tear.' Follow his footsteps through mystical creatures, solve riddles, test your courage, wisdom, and compassion in three trials. Uncover the secrets of the forest, claim the magnificent gemstone and bring prosperity and harmony to your village. Join the enchanted quest today!
 
@@ -35,6 +35,9 @@ The Forest's Tear was placed in the village square, and its magical presence rev
 From that day forth, the village embraced the enchanted forest, and they lived in harmony with its mystical inhabitants. And whenever children gathered around the hearth, they listened with wide eyes to the tale of Ethan, the brave adventurer who unlocked the secrets of the Enchanted Forest and brought prosperity to their home.
 ```
 
+## Welcome Message
+This Prompt is Story about Adventure.
+
 ## Conversation
 
 **ASSISTANT**: What a captivating and enchanting story! Ethan's bravery, curiosity, and determination shine through as he embarks on a quest into the mystical forest. The description of the forest and its magical inhabitants paints a vivid picture in the reader's mind. The three trials Ethan faces - courage, wisdom, and compassion - highlight important values and qualities.
@@ -50,5 +53,4 @@ The ending of the story leaves the reader with a sense of wonder and a reminder 
 
 
 Overall, this is a beautiful and inspiring tale that captures the imagination and leaves the reader with a sense of awe and possibility.
-
 

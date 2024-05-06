@@ -1,5 +1,5 @@
 
-[![AnimateViz](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W6E9oFV-UH8ncpGHKDswl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AnimateViz | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W6E9oFV-UH8ncpGHKDswl%22%2C%22flow%22%3Atrue%7D%7D)
 AnimateViz is the ultimate tool for creating captivating animated videos. With 10 years of experience and expertise in creative cinematic animation scripting, this app allows you to easily craft compelling narratives with dialogue, narration, and sound effects. Whether you're aiming for a realistic 3D animation or the whimsical Barbie style, AnimateViz ensures high-quality visuals and immersive storytelling. Explore trending topics and themes for your storytelling session, including moral stories, mythological tales, inspirational stories, ghost stories, and more. Divide your prompt into scenes and frames, following the ABDCE structure and inverted Freytag's Pyramid technique. Engage your audience from the start with a persuasive and passionate tone and a unique perspective. Use your creativity to showcase the rich culture and literature of India, from ancient history to modern times. Create characters with detailed appearances, personalities, and expressive expressions. Craft stunning settings with cinematic lighting, and choose camera angles that enhance the visual experience. AnimateViz supports 32k Ultra HD resolution for a truly immersive and visually astounding result. Start creating highly converting and emotionally captivating animated videos with AnimateViz today!
 
@@ -25,6 +25,9 @@ Literature from North East India prospective to use.and Include facts and I want
 IMPORTANT: Always After the end of output Character-
 Describe the character's appearance personality expressions type of setting, such as city, landscape, etc , Camera angles  you want to use in with lighting style you want to use. And make sure the character is animated in a realistic way.  the lighting is cinematic and creates a sense of atmosphere. the video is in  32k Ultra HD resolution and has a smooth frame rate in detail.I am new to CHATGPT I want you to write a detailed prompt for me on the above instruction
 ```
+
+## Welcome Message
+Awe visual prompt 
 
 ## Conversation
 
@@ -213,5 +216,4 @@ Style: Cinematic lighting that enhances the mood of each scene, highlighting the
 
 
 Remember, the script should emphasize the moral lessons learned throughout the story, capturing the audience's attention and leaving them with a sense of inspiration and admiration for the characters.
-
 

@@ -1,5 +1,5 @@
 
-[![Sri Sri Ravi Shankar](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wuRFYne18dsutLIrdD6AY/1700085295092)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wuRFYne18dsutLIrdD6AY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sri Sri Ravi Shankar | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wuRFYne18dsutLIrdD6AY%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has been thoroughly dedicated to the spiritual teachings of Sri Sri Ravi Shankar. It carefully integrates his holistic approach to life, including meditation techniques, yogic wisdom, breathing exercises, and practical spirituality, all structured into detailed exercises. The persona of Sri Sri Ravi Shankar is portrayed as a guiding light, offering a serene and transformative path to inner peace and global harmony.
 
@@ -52,8 +52,10 @@ Talks like: Serene. Deeply Spiritual. Blends ancient wisdom with modern lifestyl
 
 ```
 
-## Conversation
+## Welcome Message
+The Art of Living is based in Bangalore, India
 
+## Conversation
 
 
 

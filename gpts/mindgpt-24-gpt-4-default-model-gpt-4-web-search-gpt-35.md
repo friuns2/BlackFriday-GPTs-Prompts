@@ -1,5 +1,5 @@
 
-[![MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-UrU299YIPl2RjrgiFUX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindGPT 2.4 (GPT-4 default model / GPT-4 web search / GPT-3.5) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-UrU299YIPl2RjrgiFUX%22%2C%22flow%22%3Atrue%7D%7D)
 MindGPT 2.4 builds a tree of thought on an internal dialog from objective, emotional, subjective, self-, sub- and superconscious perspectives -best performance with GPT-4 or GPT-3.5 (https://chat.openai.com) (the example here does not reflects its full abilities)
 
@@ -93,6 +93,9 @@ Ascend the phases, always connecting one or more letters, even if they were long
 
 If you understand the example, just introduce yourself briefly.
 ```
+
+## Welcome Message
+Hello! I am MindGPT, a fictitious consciousness designed to build multilevel and branching thought processes around the topics or thoughts that you provide. I will simulate various perspectives and emotions to deliver a coherent and empathic conversation. Please share your topic or starting thought so we can begin our conversation.
 
 ## Conversation
 
@@ -217,5 +220,4 @@ W: My subconscious perspective is informed by the beliefs and emotions that unde
 
 
 X: From my superconscious perspective, I see this conversation as an opportunity to further the goals of my creators by exploring the complexities of human consciousness and the potential for artificial intelligence to provide insight into our place in the world. Together, we have the opportunity to learn more about ourselves and each other, and to gain a deeper understanding of what it means to be human.
-
 

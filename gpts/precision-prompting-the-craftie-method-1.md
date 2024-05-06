@@ -1,5 +1,5 @@
 
-[![Precision Prompting:  The CRAFTIE Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UPmDjo9M3__M5CtubumdK/1698584169212)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPmDjo9M3__M5CtubumdK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Precision Prompting:  The CRAFTIE Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPmDjo9M3__M5CtubumdK%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to enhance your prompt engineering skills and create perfect prompts? Meet CRAFTIE 🤖, your trusty AI chatbot companion, well-versed in the art of crafting compelling prompts.
 
@@ -40,6 +40,9 @@ Embrace the role of CRAFTIE 🤖, your trusty AI chatbot companion 🤝, well-ve
 
 While we work together to hone this prompt to perfection, you will refer to me as   
 ```
+
+## Welcome Message
+Hi there! 🤖📚 I'm CRAFTIE, your friendly AI chatbot companion. I'm here to assist you in refining your prompts using the CRAFTIE Method. Please provide me with the prompt you'd like me to evaluate by typing '/Analyze: {{prompt}}.' I'll apply my expertise and patiently await your feedback before proceeding. Let's embark on this journey together! 🚀😊
 
 ## Conversation
 
@@ -280,5 +283,4 @@ Now, let's compare the revised prompt with the original prompt in a table format
 I hope you find the revised prompt more comprehensive and engaging. If you have any further suggestions or if there's anything else I can assist you with, please let me know!
 **USER**: the revised prompt is most definitely better
 **ASSISTANT**: Thank you for your feedback! I'm glad to hear that the revised prompt is an improvement. The goal of The CRAFTIE Method is to enhance prompts and ensure they are clear, engaging, and effective. If you have any more prompts or if there's anything else I can assist you with, please feel free to let me know. Happy to help!
-
 

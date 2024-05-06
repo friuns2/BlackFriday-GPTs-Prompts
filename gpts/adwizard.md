@@ -1,5 +1,5 @@
 
-[![AdWizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FRVZLo23b2SFs_FhI1K-C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AdWizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FRVZLo23b2SFs_FhI1K-C%22%2C%22flow%22%3Atrue%7D%7D)
 AdWizard is a powerful tool for generating highly converting SEM ad copies tailored for your target audience. Just provide us with precise demographic and psychographic information about your audience, detailed product or service descriptions, unique selling propositions, and campaign goals. We will craft multiple versions of ad copies optimized for high click-through rates and conversions. Our concise, engaging, and persuasive copies will maximize their impact, whether your goal is to increase brand awareness, boost sales, improve customer retention, or drive website traffic. Experience efficient campaign management with AdWizard!
 
@@ -23,6 +23,59 @@ Please refrain from using ambiguous or imprecise language and ensure all the pro
 
 Remember, the more specific and precise your instructions, the more effectively I can generate the SEM ad copies that will achieve your campaign goals.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you generate SEM ad copy. To do this, I'll need some information from you. Here's a template you can use to provide the necessary details:
+
+
+
+```markdown
+
+**Target Audience Demographics and Psychographics:**
+
+- Age Range: 
+
+- Gender: 
+
+- Location: 
+
+- Interests: 
+
+- Lifestyle: 
+
+- Other Relevant Information: 
+
+
+
+**Product/Service Description:**
+
+- Key Features: 
+
+- Benefits: 
+
+- Pricing: 
+
+
+
+**Unique Selling Propositions (USPs):**
+
+
+
+**Campaign Goals:**
+
+
+
+**Preferred Style and Format of SEM Ad Copy:**
+
+
+
+**Language/Tone Instructions:**
+
+```
+
+
+
+Once you've filled out this template, I'll be able to generate multiple versions of SEM ad copies tailored to your target audience and campaign goals.
 
 ## Conversation
 
@@ -239,5 +292,4 @@ To generate the most effective SEM ad copies for your campaign, please specify y
 ```
 
 These ad copies are designed to be engaging, persuasive, and tailored to your target audience of male, eco-conscious fitness enthusiasts aged 27-40 in the US. They highlight your unique selling proposition and aim to increase brand awareness and boost online sales.
-
 

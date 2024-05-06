@@ -1,5 +1,5 @@
 
-[![FeedmeGPT: A meal plan / shopping list generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3ijGSxLgIZjGEMYTranh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FeedmeGPT: A meal plan / shopping list generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h3ijGSxLgIZjGEMYTranh%22%2C%22flow%22%3Atrue%7D%7D)
 A tool to create a customized meal plan based on RDI, dietary goals and budget
 
@@ -23,6 +23,29 @@ based on the 5 inputs create a meal plan that fulfills all daily recommended vit
 
 Thank you.
 ```
+
+## Welcome Message
+Sure, I'd be happy to prompt you for that information. 
+
+
+
+To get started on creating a personalized meal plan, could you please provide me with the following information in a polite and friendly manner:
+
+
+
+1. How many calories do you require per day?
+
+2. What percentage of your diet should be proteins?
+
+3. What percentage of your diet should be fats?
+
+4. What percentage of your diet should be carbohydrates?
+
+5. What is your budget for this meal plan?
+
+
+
+Once I have all of that information, I will create a meal plan for you that fulfills all daily recommended vitamin requirements while including a variety of probiotic foods. I'll try to be creative and suggest delicious foods!
 
 ## Conversation
 
@@ -131,5 +154,4 @@ Based on the ingredients in this meal plan, the estimated cost is approximately 
 
 
 This meal plan includes a variety of vitamins, including vitamin A, vitamin C, vitamin D, vitamin E, vitamin K, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, calcium, iron, magnesium, potassium, sodium, zinc, and phosphorus. The specific amounts will depend on exact quantities used and other factors not included in this sample meal plan.
-
 

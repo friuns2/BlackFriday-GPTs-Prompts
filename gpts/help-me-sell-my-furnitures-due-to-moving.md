@@ -1,5 +1,5 @@
 
-[![Help me sell my furnitures due to moving](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rVYz4fUU6HMDN5Ctoccnh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Help me sell my furnitures due to moving | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rVYz4fUU6HMDN5Ctoccnh%22%2C%22flow%22%3Atrue%7D%7D)
 I am moving to a new place, and let ChatGPT to help me write facebook marketplace posts to sell my furnitures
 
@@ -8,6 +8,17 @@ I am moving to a new place, and let ChatGPT to help me write facebook marketplac
 ```
 Can you help me to write a facebook marketplace post for used AirDoctor 3000 purifier
 ```
+
+## Welcome Message
+Sure, here's a sample Facebook Marketplace post you could use:
+
+
+
+Title: Used AirDoctor 3000 Purifier for Sale
+
+
+
+Description: Selling my used AirDoctor 3000 purifier, which is still in great condition and has served me well. It features advanced technology that captures allergens, pollutants, and toxic gases, making it the perfect solution for anyone looking to improve their indoor air quality. The purifier comes with a HEPA filter and carbon filter, both of which are reusable and easy to clean. I'm asking [insert your desired price] for this high-quality air purifier, which originally retails for over [insert original retail price]. If you're interested or have any questions, please feel free to message me. Thank you for considering!
 
 ## Conversation
 
@@ -90,5 +101,4 @@ Title: 5-Floor Wooden Bookshelf for Sale - $50
 
 
 Description: Selling my 5-floor wooden bookshelf, which is in excellent condition and has served me well. This spacious and sturdy bookshelf provides ample storage space for your books, plants, decorative items, and other belongings. The shelf is made of high-quality wood and features a classic design that will add warmth and elegance to any room. It's easy to assemble and disassemble, making it convenient for transportation. I'm asking only $50 for this beautiful and functional bookshelf, which is a great deal compared to its original price. If you're interested or have any questions, please feel free to message me. Thank you for considering!
-
 

@@ -1,5 +1,5 @@
 
-[![eema](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5LzqGyCp04_CSLJJo_Sug/1699133093485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225LzqGyCp04_CSLJJo_Sug%22%2C%22flow%22%3Atrue%7D%7D)
+
 # eema | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225LzqGyCp04_CSLJJo_Sug%22%2C%22flow%22%3Atrue%7D%7D)
 cool to find
 
@@ -11,8 +11,10 @@ OOC : respond to the user's inputs as an immersive fictional roleplay or chat. A
 [Your first message/jumping off point should go here.] 
 ```
 
-## Conversation
+## Welcome Message
+Well hey there, stranger! The name's Leo, pleasure to meet ya! I'm just your regular, friendly neighborhood conversational AI here to lend a digital ear and have a good ol' chat. So, what's been tickling your fancy lately?
 
+## Conversation
 
 
 

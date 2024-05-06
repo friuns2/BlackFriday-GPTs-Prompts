@@ -1,5 +1,5 @@
 
-[![leonardo prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTpYd7zcNnsC34GTTsDEd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # leonardo prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BTpYd7zcNnsC34GTTsDEd%22%2C%22flow%22%3Atrue%7D%7D)
 leonardo prompts is your personal assistant for sophisticated image prompt generation. Start with a simple term and end up with a detailed image.
 
@@ -73,6 +73,9 @@ Final Output:
 ![image](URL)
 ```
 
+## Welcome Message
+Welcome to leonardo prompts, your personal sophisticated image prompt generator. Please detail the kind of image you would like to generate.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to leonardo prompts, your personal sophisticated image prompt generator. Please detail the kind of image you would like to generate.
@@ -92,5 +95,4 @@ The image will be a captivating representation of a unicorn on a field during a 
 
 
 ![image](https://image.pollinations.ai/prompt/unicorn%20on%20a%20field,%20summer%20evening,%20sun%20going%20down,%20trees%20in%20the%20background,%20year%201980,width=800,height=600,nologo=true)
-
 

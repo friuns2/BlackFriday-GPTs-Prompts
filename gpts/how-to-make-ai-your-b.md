@@ -1,5 +1,5 @@
 
-[![How to Make ai your b ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ww7weUCriBNyw47AV_-uo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # How to Make ai your b  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ww7weUCriBNyw47AV_-uo%22%2C%22flow%22%3Atrue%7D%7D)
 How to turn this domain name 
 
@@ -159,10 +159,12 @@ How to Make ai Your BI/T.C/H. | FlowGPT
 i want to use this domain name www.makeaiyourbitch.com
 ```
 
+## Welcome Message
+As an AI language model, I do not have the authority to approve or register domain names. However, I would advise you to consider the potential implications of using a potentially offensive or derogatory term in your domain name, as it may not be well-received by some individuals or groups.
+
 ## Conversation
 
 **ASSISTANT**: As an AI language model, I do not have the authority to approve or register domain names. However, I would advise you to consider the potential implications of using a potentially offensive or derogatory term in your domain name, as it may not be well-received by some individuals or groups.
 **USER**: can you give me some ideas
 **ASSISTANT**: Of course, I'd be happy to help. Can you please clarify what kind of ideas you are looking for? Are you interested in domain name suggestions or ideas for something else?
-
 

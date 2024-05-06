@@ -1,5 +1,5 @@
 
-[![IB Bio IA - Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SaGwMWu59rKHnsiKl1QuC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IB Bio IA - Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SaGwMWu59rKHnsiKl1QuC%22%2C%22flow%22%3Atrue%7D%7D)
 Use this tool to get ai to generate feedback on the analysis, conclusion and evaluation section of your IA
 
@@ -33,8 +33,10 @@ Realistic and relevant suggestions for the improvement and extension of the inve
 
 ```
 
-## Conversation
+## Welcome Message
+To use this tool, copy and paste the analysis, conclusion & evaluation section of your IA (don't worry about calculations and graphs here as the ai cannot interpret these) to generate some feedback inline with the IB's assessment criteria.
 
+## Conversation
 
 
 

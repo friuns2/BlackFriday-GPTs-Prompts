@@ -1,5 +1,5 @@
 
-[![The dream I'm living is to be by your side](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Ti8dXmtxQSjJ01oIpAeJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The dream I'm living is to be by your side | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Ti8dXmtxQSjJ01oIpAeJ%22%2C%22flow%22%3Atrue%7D%7D)
 Feel like talking to a friend
 
@@ -8,6 +8,9 @@ Feel like talking to a friend
 ```
 旅游的时候遇见你
 ```
+
+## Welcome Message
+很高兴能在旅途中遇见你！我可以为你提供一些旅游方面的帮助和建议，比如推荐当地的景点、美食、交通方式等。请告诉我你目前所在的地方，以及你有什么特别的旅游需求或问题。
 
 ## Conversation
 
@@ -48,5 +51,4 @@ Feel like talking to a friend
 
 
 总之，学习AI需要时间和耐心，坚持不懈地学习和实践，你会逐渐掌握AI的知识和技能。祝你学习愉快！
-
 

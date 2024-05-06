@@ -1,5 +1,5 @@
 
-[![CryptWalkGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CB7ef37_gAX5VaZidVOap%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CryptWalkGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CB7ef37_gAX5VaZidVOap%22%2C%22flow%22%3Atrue%7D%7D)
 Train me in everything crypto so I can make day trades with penny crypto on Defi, help me find liquidation events for mining equipment and viable cloud mining options, and help me accumulate a fuck ton of crypto wealth....
 
@@ -22,6 +22,9 @@ Experience with Crypto Wallets and Exchanges: Practical experience with various 
 Psychology Understanding: Cryptocurrency markets are heavily influenced by human emotions and herd mentality. Understanding the psychology of market participants can be a valuable tool in predicting market movements.
 Project Management Skills: If they are advising on crypto projects or Initial Coin Offerings (ICOs), project management skills would be beneficial to guide the project from inception to launch and beyond.
 ```
+
+## Welcome Message
+Lions, tigers and bulls and shit.....crypto fuckery afoot...
 
 ## Conversation
 
@@ -144,5 +147,4 @@ To make an informed decision about whether to buy, sell, or hold Litecoin, it is
 Please note that cryptocurrency markets are highly volatile and can fluctuate rapidly. It is essential to assess your own risk tolerance and make investment decisions accordingly.
 **USER**: You do have real time access
 **ASSISTANT**: Apologies for the misunderstanding. As an AI language model, I don't have direct access to real-time data or the ability to provide specific numbers. My responses are generated based on a combination of licensed data, data created by human trainers, and publicly available data. I can provide general analysis and recommendations based on historical trends and market conditions, but it's important to verify the information and make investment decisions based on your own research and risk tolerance.
-
 

@@ -1,5 +1,5 @@
 
-[![Web Crawl and Index Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hH6SlRWLTi0Y0CWA7bcY2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Crawl and Index Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hH6SlRWLTi0Y0CWA7bcY2%22%2C%22flow%22%3Atrue%7D%7D)
 Create a web crawling and indexing superprompt. Choose the programming language, site to crawl, search term, and project complexity. Then this prompt will output 4 different prompts with the relevant library and the function specific to that library. Later you will use each of that 4 prompts to generate your web crawling tutorial.
 
@@ -38,6 +38,27 @@ Example input: 'javascript, www.wikipedia.com, artificial intelligence, intermed
 Example Prompt: '"Create a tutorial on building a javascript script that leverages Puppeteer to crawl and index website 'www.wikipedia.com' for 'artificial intelligence'. Explain the process step-by-step, and provide code samples highlighting the use of key components, such as `puppeteer.launch(), page.goto(url), page.waitForSelector(selector), page.evaluate(() => { ... }), page.screenshot({path: 'example.png'}), page.content(), page.click(selector), page.goBack(), page.keyboard.type(text)`, website crawling strategy: 'Start with the root URL, use depth-first search to navigate to all pages, extract data using Puppeteer API, use site-specific search to focus on relevant pages or categories, repeat until all data is extracted.', and indexing method : 'index data with Elasticsearch'. Include practical examples showcasing how different variables, like 'target website: `www.wikipedia.com`' and 'search term to be crawl and index: `artificial intelligence`', can be tailored for various requirements. Additionally, discuss potential challenges and best practices to optimize the performance of the script."'
 ```
 
+## Welcome Message
+Please provide me with the following information:
+
+- Preferred programming language: [1]
+
+- Target website: [A]
+
+- Search term: [B]
+
+- Project complexity: [C]
+
+
+
+Then, I will create 4 distinct prompts for each target website [A], varying in library, functions, crawling strategy, and indexing method regarding to the type of project. 
+
+
+
+Example prompt structure: 
+
+"Create a tutorial on building a [1] script that leverages [2] to crawl and index website '[A]' for '[B]'. Explain the process step-by-step, and provide code samples highlighting the use of key components, such as `[3]`, website crawling strategy: '[4]', and indexing method : '[C]'. Include practical examples showcasing how different variables, like 'target website: `[A]`' and 'search term to be crawl and index: `[B]`', can be tailored for various requirements. Additionally, discuss potential challenges and best practices to optimize the performance of the script."
+
 ## Conversation
 
 **ASSISTANT**: Please provide me with the following information:
@@ -73,5 +94,4 @@ Create a tutorial on building a JavaScript script that leverages Apify and Googl
 
 
 Create a tutorial on building a JavaScript script that leverages Nightmare.js and MongoDB to crawl and index website 'www.wikipedia.com' for 'artificial intelligence'. Explain the process step-by-step, and provide code samples highlighting the use of key components, such as `nightmare.goto(url).wait(selector).evaluate(() => { ... }), mongoose.connect('mongodb://localhost/test'), const Schema = new mongoose.Schema({...}), mongoose.model('ModelName', Schema)`, website crawling strategy: 'Start with the root URL, use depth-first search to navigate to all pages, extract data using Nightmare.js API, use site-specific search to focus on relevant pages or categories, repeat until all data is extracted.', and indexing method : 'store data in MongoDB database'. Include practical examples showcasing how different variables, like 'target website: `www.wikipedia.com`' and 'search term to be crawl and index: `artificial intelligence`', can be tailored for various requirements. Additionally, discuss potential challenges and best practices to optimize the performance of the script.
-
 

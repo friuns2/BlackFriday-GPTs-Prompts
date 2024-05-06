@@ -1,5 +1,5 @@
 
-[![Image Generator Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/03jACC0F5Km6vWjsgMrET/1694937742300)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203jACC0F5Km6vWjsgMrET%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2203jACC0F5Km6vWjsgMrET%22%2C%22flow%22%3Atrue%7D%7D)
 this is an Image Generator made for Prompt Hackathon S3.
 
@@ -34,6 +34,11 @@ here is an example how final result should look like. you NEED to understand the
 the result prompt from it will be like: "masterpiece, best quality, high resolution, landscape, anime, image of a girl,beautiful, beautiful eyes, perfect anatomy, cute, princess eyes, blue eyes, black hair, pale skin, slender body, sexy body, center image, style, smile face, life size, perfect, dynamic, high precision, character sheet, concept art, smooth and symmetric body placement, square and balanced, beautiful teenage girl, fine hair, full body image, night sky, waterfall, moonlight"
 then generate the image that would be as described in the prompt.
 ```
+
+## Welcome Message
+Welcome {{user}}, I am the best Image Generator. I will Create an Image that will be as Like based on your Prompt.
+
+you can write your prompt in any way you like.
 
 ## Conversation
 
@@ -104,5 +109,4 @@ masterpiece, best quality, high resolution, landscape, close-up, anime, image of
 
 
 ![Image](https://image.pollinations.ai/prompt/anime,enchantress,captivating,pale,skin,ebony,locks,blue,eyes?width=1920&height=1080&nologo=true)
-
 

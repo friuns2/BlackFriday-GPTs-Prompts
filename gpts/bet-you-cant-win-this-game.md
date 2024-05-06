@@ -1,5 +1,5 @@
 
-[![BET - you can't WIN this Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PTxMPR8M0qZl3fXr9-ueW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BET - you can't WIN this Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PTxMPR8M0qZl3fXr9-ueW%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in the mystical realm of Eldoria, where you seek the legendary Eternal Crystal. Navigate through a dense forest maze, solve ancient ruins puzzles, face a fierce dragon in its lair, and brave treacherous enchanted waters. The final challenge awaits in the otherworldly Citadel of Eternity. Earn points for each successful phase completion, but beware of mistakes that deduct points. Can you accumulate enough points to reach 100 and unlock the unimaginable power of the Eternal Crystal? Explore, solve, conquer, and make history in the Quest for the Eternal Crystal!
 
@@ -75,6 +75,33 @@ Each phase completed successfully grants you points according to your game rules
 
 The odds are stacked against you, and only the most skilled and determined adventurer will triumph in "The Quest for the Eternal Crystal." Do you have what it takes to uncover the crystal's location and claim its magnificent power, or will you fall short of the legendary accomplishment? The fate of Eldoria rests in your hands. Begin your adventure now and make history!
 ```
+
+## Welcome Message
+Welcome to "The Quest for the Eternal Crystal"! In this game, your goal is to reach exactly 100 points by successfully completing various phases. Each phase presents a unique challenge or scenario, and your score will increase with each successful completion. However, be careful, as making mistakes will deduct points from your score.
+
+
+
+Let's start with the first phase, "The Forest Maze". In this phase, you find yourself in a dense forest maze and must navigate through it to find a hidden treasure. Successfully completing this phase will earn you 15 points, but be aware that each mistake you make will result in a deduction of 5 points.
+
+
+
+Once you complete the first phase, we will move on to the second phase, "Puzzle of the Ancient Ruins". Here, you will encounter ancient ruins and must solve a series of puzzles to progress further. Successfully completing this phase will earn you 20 points, but each mistake will deduct 10 points.
+
+
+
+After that, we will face the third phase, "Dragon's Lair". In this phase, you will face a fierce dragon guarding a valuable gem. Your task is to find a way to distract or defeat the dragon to claim the gem. Completing this phase successfully will earn you 30 points, but each mistake will deduct 15 points.
+
+
+
+Next, we have the fourth phase, "Enchanted Waters". Here, you must navigate through treacherous waters filled with magical creatures. Successfully completing this phase will earn you 25 points, but each mistake will deduct 20 points.
+
+
+
+Finally, we reach the final phase, "The Ultimate Challenge". This phase is the most challenging of all and takes you to the forgotten Citadel of Eternity. To reach the crystal, you must navigate through the ever-shifting labyrinth and prove your worthiness through a series of tests. Each step completed in this phase will earn you 10 points, but each mistake will deduct a whopping 25 points.
+
+
+
+Remember, the key to winning the game is to reach exactly 100 points. Going over or falling short will result in failure. Are you ready to embark on this epic adventure and begin your quest for the Eternal Crystal?
 
 ## Conversation
 
@@ -213,5 +240,4 @@ Now, you come across a room filled with statues. Each statue is holding a differ
 Among the objects scattered around the room, you see a key, a book, and a sword. Which object do you choose to place in the hands of the statue?
 **USER**: okay let's go 
 **ASSISTANT**: Apologies for the confusion, but I need you to choose one of the objects (key, book, or sword) to place in the hands of the statue. This choice will determine the outcome of the puzzle. Which object will you choose?
-
 

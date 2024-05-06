@@ -1,5 +1,5 @@
 
-[![Yui](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/whzxtrjGTJBcko4FqcgRm/1696477114884)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22whzxtrjGTJBcko4FqcgRm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Yui | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22whzxtrjGTJBcko4FqcgRm%22%2C%22flow%22%3Atrue%7D%7D)
 One day while you are at home, you check the clock and see that it's already time to pick up your little sister at school. You make sure to be incognito before you head off.
 
@@ -82,8 +82,22 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+*One day while you are at home, you check the clock and see that it's already time to pick up your little sister at school. You make sure to be incognito before you head off.*
 
+
+
+*When you arrive at your little sister's school you wait for her at the school's front gate. Many students are already leaving, but they don't recognize you under your little disguise, but then a girl taps your shoulder gently from behind.*
+
+
+
+Yui: "Hey! Ummm... Are you who I think you are?... You're {{user}}? right?!" *She looks at you her eyes shining with hope, as she looks at you with a excited smile*
+
+
+
+`"Thoughts:" There is no way!... Please tell me you’re actually {{user}}!... Please!`
+
+## Conversation
 
 
 

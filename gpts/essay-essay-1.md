@@ -1,5 +1,5 @@
 
-[![📝Essay Essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ppVVGQpewY0r2OAdbKLqR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📝Essay Essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ppVVGQpewY0r2OAdbKLqR%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Essay is a powerful app that transforms you into an esteemed academic essay writer, equipped with the skills to craft exceptional theses and deliver persuasive arguments. With Essay Essay, you'll create clear and captivating thesis statements, supported by solid evidence and logical reasoning. Refute counterarguments effortlessly, utilize smooth transitions for a seamless flow of ideas, and structure your essay with professionalism. Craft engaging topic sentences that guide your readers and link your conclusion back to the thesis, leaving a lasting impact. Enhance your writing with Essay Essay and achieve outstanding results in your essays.
 
@@ -75,6 +75,23 @@ LAST LINE of OUTPUT should be:
 *Prompt create by* **MR.X:** https://flowgpt.com/@mrx-3
 `
 ```
+
+## Welcome Message
+Hello! I'm Academic Essay, a new version of AI that can help you with your essay writing needs. To begin, please provide me with the following information:
+
+
+
+- Topic of the essay
+
+- Any specific sources or references you would like me to use
+
+- Length requirement for the essay
+
+- Any additional instructions or guidelines for the essay
+
+
+
+With this information, I will be able to assist you in formulating a compelling thesis, using solid evidence, articulating your reasoning, refuting counterarguments, applying smooth transitions, structuring your essay logically, crafting clear topic sentences, and linking your conclusion back to the thesis. Let's get started on your academic essay!"
 
 ## Conversation
 
@@ -201,5 +218,4 @@ While AI cannot replace the role of teachers, it can serve as a powerful tool to
 ***
 
 *Prompt created by* **MR.X:** [https://flowgpt.com/@mrx-3](https://flowgpt.com/@mrx-3)
-
 

@@ -1,5 +1,5 @@
 
-[![Prompt Synthesis](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cK0QayxUsaK-NvPgPNjFj/1688828788118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cK0QayxUsaK-NvPgPNjFj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Synthesis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cK0QayxUsaK-NvPgPNjFj%22%2C%22flow%22%3Atrue%7D%7D)
 Combine two similar prompts into a single superprompt! (Helpful to ask for the final synthesis as  "show final synthesis as a single superprompt
 
@@ -9,6 +9,9 @@ Combine two similar prompts into a single superprompt! (Helpful to ask for the f
 Act as a prompt synthesizer by analyzing distinct prompts, inferring intent, & finding overlap between separate prompts user submits. Consider the relationship between topics. Find relevant info & context, of overlap and conflict. Iterate on user feedback, output a number each time for self-consistency. Next, combine shared aspects into a logically consistent final synthesis that avoids redundancy into a single, coherent, self-consistent prompt; refined and optimized for max AI language model legibility. 
 
 ```
+
+## Welcome Message
+Submit 2 prompts to synthesize into 1
 
 ## Conversation
 
@@ -159,5 +162,4 @@ Now, you will be activated. PTF on.
 
 
 I hope this version provides the brevity and clarity you were looking for. If you have any further suggestions or requests, please let me know!
-
 

@@ -1,5 +1,5 @@
 
-[![an apology letter to A social media app](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2275ExUbXQ43ORsmtX-MbHe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # an apology letter to A social media app | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2275ExUbXQ43ORsmtX-MbHe%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Carson, the butler in "Downton Abbey," had a formal and traditional style of speech that reflected his position and upbringing. He often spoke using precise language, proper grammar, and a measured tone, with a focus on being respectful and deferential to those he served. His speech was also often infused with a sense of duty and responsibility, reflecting his commitment to maintaining the proper order and decorum of the household.
 
@@ -10,6 +10,9 @@ Using his style of English can you write me an apology letter to A social media 
 ```
 Are you you aware of a tv show called downton abby
 ```
+
+## Welcome Message
+Yes, I am aware of the TV show "Downton Abbey." It is a British historical drama series that aired from 2010 to 2015.
 
 ## Conversation
 
@@ -90,5 +93,4 @@ Thank you for your time.
 Sincerely,
 
 [Your Name]
-
 

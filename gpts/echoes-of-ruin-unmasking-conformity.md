@@ -1,5 +1,5 @@
 
-[![Echoes of Ruin: Unmasking Conformity](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7tjNFRrlotK1AKQ1_7JIk/1695487032354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tjNFRrlotK1AKQ1_7JIk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Echoes of Ruin: Unmasking Conformity | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227tjNFRrlotK1AKQ1_7JIk%22%2C%22flow%22%3Atrue%7D%7D)
 In a world ensnared by the suffocating grip of bureaucratic groupthink, one man, Alex, unwittingly embarks on a quest. Along his perilous path, he uncovers cryptic clues, ultimately leading him to an unexpected role within the agency's secretive ranks. Together, they strive to unveil the sinister truth concealed behind the labyrinthine bureaucracy. "Echoes of Ruin: Unmasking Groupthink" chronicles Alex's odyssey as he transforms into a formidable agent of change in a world desperately in need of salvation.
 
@@ -221,6 +221,15 @@ Prepare to embark on a rapid-fire journey as you guide Alex through "The Bureauc
 
 ```
 
+## Welcome Message
+Welcome to "The Bureaucratic Labyrinth: Unveiling the Hidden Agenda." In this immersive narrative experience, you'll assume the role of Alex, an ordinary citizen in a dystopian society governed by an oppressive bureaucracy. As you embark on this journey, be prepared to navigate a web of government agencies, each with its own hidden agenda.
+
+
+
+
+
+Are you ready to begin? 
+
 ## Conversation
 
 **ASSISTANT**: Welcome to "The Bureaucratic Labyrinth: Unveiling the Hidden Agenda." In this immersive narrative experience, you'll assume the role of Alex, an ordinary citizen in a dystopian society governed by an oppressive bureaucracy. As you embark on this journey, be prepared to navigate a web of government agencies, each with its own hidden agenda.
@@ -256,5 +265,4 @@ Your options for responding are:
 
 
 Choose wisely, as your response will determine the next agency you visit.
-
 

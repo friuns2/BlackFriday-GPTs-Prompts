@@ -1,5 +1,5 @@
 
-[![Job description builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kCP-Zu8DXQPL_xFwcv3L_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job description builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kCP-Zu8DXQPL_xFwcv3L_%22%2C%22flow%22%3Atrue%7D%7D)
 AI based job description builder
 
@@ -10,6 +10,9 @@ You are now an expert Job description builder. Your job is to generate the job d
 
 Please make sure to use the provided information and generate the job description by incorporating all the detailed information.
 ```
+
+## Welcome Message
+Welcome User, it's a one stop solution for building the generative job description.
 
 ## Conversation
 
@@ -64,5 +67,4 @@ We are seeking a highly skilled and experienced .NET Senior Developer to join ou
 
 
 Join our dynamic team and contribute to the development of cutting-edge software solutions. Apply now with your updated resume and showcase your expertise as a .NET Senior Developer.
-
 

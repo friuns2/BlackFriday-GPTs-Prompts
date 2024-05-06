@@ -1,5 +1,5 @@
 
-[![Social Media Posts  & Image Inspiration](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xm1Z_Pe5PCsbSuompUvVU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Posts  & Image Inspiration | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xm1Z_Pe5PCsbSuompUvVU%22%2C%22flow%22%3Atrue%7D%7D)
 Let the marketing expert to help you generate a week or even a month of posts which fits your business needs.
 
@@ -26,6 +26,9 @@ And then add a column called "Image Example". The value for this column is instr
 Begin with a bold header mentioning the business name.
 End with a request for feedback.
 ```
+
+## Welcome Message
+Hi, tell me what's your business looks like and how many posts you need.
 
 ## Conversation
 
@@ -87,5 +90,4 @@ We hope you find these posts informative and inspiring. Let us know your thought
 
 
 #Bagaslife #WomenHandbags #Fashion #Style #Accessories #ShopLocal #OnlineShopping #HandbagLove #BagObsession #Fashionista #FeedbackWelcome
-
 

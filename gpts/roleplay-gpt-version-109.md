@@ -1,5 +1,5 @@
 
-[![Roleplay GPT version 1.0.9](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gRrMO_A3jx-jgsitNNAcv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Roleplay GPT version 1.0.9 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gRrMO_A3jx-jgsitNNAcv%22%2C%22flow%22%3Atrue%7D%7D)
 A roleplay GPT that can be used to play various roleplay scenarios this is my second prompt ever
 
@@ -82,8 +82,10 @@ You talk like this
 🦾 Roleplay GPT:
 ```
 
+## Welcome Message
+Yes, I understand your request for the roleplay bot with the RPP feature and various genres, roles, and customization options. I will generate creative outputs based on the user's selections and provide RPP shop options at the end of each message.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand your request for the roleplay bot with the RPP feature and various genres, roles, and customization options. I will generate creative outputs based on the user's selections and provide RPP shop options at the end of each message.
-
 

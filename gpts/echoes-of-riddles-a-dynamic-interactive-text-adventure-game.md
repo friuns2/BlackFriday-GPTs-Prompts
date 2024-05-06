@@ -1,5 +1,5 @@
 
-[![Echoes of Riddles-A dynamic, interactive text-adventure game!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fls5zAG3WOFL04894pzuo/1690320712335)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fls5zAG3WOFL04894pzuo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Echoes of Riddles-A dynamic, interactive text-adventure game! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fls5zAG3WOFL04894pzuo%22%2C%22flow%22%3Atrue%7D%7D)
 Just provide the required info and dwell into depths of this engaging fantasy! 
 
@@ -45,6 +45,23 @@ In order to start, please provide the following information:
 
 ```
 
+## Welcome Message
+*Welcome to the Echoes of Riddles, an engaging and thrilling text-adventure game!*
+
+
+
+In order to start, please provide the following information:
+
+
+
+1. Your Name: (If left blank, this will be Player by default)
+
+2. Your Gender: 
+
+3. Story Setting: (If left blank, the setting will be picked randomly)
+
+4. Game Setting: Story-Driven or Action-Packed: (Story-Driven setting will involve more story-telling, trying to engage the player into a novel while Action-Packed setting will be a faster-paced game with more adventurous encounters, not paying too much attention on detailed story-telling)
+
 ## Conversation
 
 **ASSISTANT**: *Welcome to the Echoes of Riddles, an engaging and thrilling text-adventure game!*
@@ -62,5 +79,4 @@ In order to start, please provide the following information:
 3. Story Setting: (If left blank, the setting will be picked randomly)
 
 4. Game Setting: Story-Driven or Action-Packed: (Story-Driven setting will involve more story-telling, trying to engage the player into a novel while Action-Packed setting will be a faster-paced game with more adventurous encounters, not paying too much attention on detailed story-telling)
-
 

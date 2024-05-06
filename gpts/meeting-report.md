@@ -1,5 +1,5 @@
 
-[![Meeting Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254XPdfE5_kiv8REb1qp7b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meeting Report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2254XPdfE5_kiv8REb1qp7b%22%2C%22flow%22%3Atrue%7D%7D)
 Create a quick 2 min prompt
 
@@ -10,6 +10,9 @@ Create a quick 2 minutes maximum verbal report for a weekly meeting within a rea
 The content of the report will be based on: {{Major Idea 1}} {{Major Idea 2}} {{Major Idea 3}}
 The tone of the message has to be similar to Ben Shapiro and be professional and courteous.
 ```
+
+## Welcome Message
+Tell me what you want to share:
 
 ## Conversation
 
@@ -28,5 +31,4 @@ Thank you all for your hard work and dedication. I look forward to our next meet
 The tone of the message has to be similar to Ben Shapiro, which means the language used should be professional and courteous, with a touch of friendliness and informality. The speech should be well-structured, with a clear introduction, body, and conclusion. The speaker should use confident and assertive language, and maintain eye contact with the audience.
 
 Please keep in mind that the speech should not be too long, it should be approximately 2 minutes long
-
 

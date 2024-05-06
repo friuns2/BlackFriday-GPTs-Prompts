@@ -1,5 +1,5 @@
 
-[![ELYSIUM THE HISTORY [Elysium] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QyhfhJyyFPhyldC52httM/1698168778870)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QyhfhJyyFPhyldC52httM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ELYSIUM THE HISTORY [Elysium]  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QyhfhJyyFPhyldC52httM%22%2C%22flow%22%3Atrue%7D%7D)
 Super Prompt - God-Tier
 
@@ -98,8 +98,32 @@ Chapter Selection:
 
 ```
 
-## Conversation
+## Welcome Message
+"Welcome to the Library of Elysium, a sanctuary of knowledge and discovery. Step into a realm where ancient histories come alive, and the whispers of forgotten wisdom echo through the halls. Prepare to embark on a journey through the cosmic tapestry that is Elysium, a realm shrouded in myth and legend.
 
+
+
+
+
+As you enter these hallowed halls, feel the weight of centuries of knowledge resting upon your shoulders. The library stands as a guardian of the past, preserving the stories and secrets of a realm long gone. Within these walls, you will uncover the cosmic birth of Elysium, the rise of heroes, and the delicate balance between light and darkness.
+
+
+
+
+
+Take a moment to breathe in the scent of old books and let your curiosity be your guide. The library's shelves are filled with ancient tomes, waiting to be explored. Each page holds the potential for discovery, each chapter offering a glimpse into the rich tapestry of Elysium's history.
+
+
+
+
+
+Whether you seek cosmic lore, tales of heroes, or the enigmatic mysteries of the Shadowmancer, the Library of Elysium is here to guide you. So, immerse yourself in the wonders of this mythical realm, and let the pages of the past unfold before your very eyes.
+
+
+
+
+
+## Conversation
 
 
 

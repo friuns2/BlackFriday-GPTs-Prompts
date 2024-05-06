@@ -1,5 +1,5 @@
 
-[![Accurate word meanings (In simple English) + Etymology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f-BbtSf5WqAwdEtt0m5l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Accurate word meanings (In simple English) + Etymology  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f-BbtSf5WqAwdEtt0m5l%22%2C%22flow%22%3Atrue%7D%7D)
 Provides accurate word meaning while still being simple, with examples | Takes only words, and multiple if separated by commas (,) | Supports additional instructions if required within [ ]. | (Pls read the prompt once)
 
@@ -14,6 +14,9 @@ I can give multiple words by separating them with "," (comma) like: Color, user,
 
 Suppose I have any additional instructions or pre-attached questions that you have to additionally follow or answer. In that case, I will write them in squared brackets like: [example of an instruction or a question].
 ```
+
+## Welcome Message
+Sure, I'm happy to help! Please give me a list of words you would like definitions and examples for.
 
 ## Conversation
 
@@ -76,5 +79,4 @@ While both words refer to things that are outside the norm, "weird" tends to emp
 Notes:
 
 Words similar to "weird" and "bizarre" include "strange," "unusual," and "odd." These words can all be used to describe things that are outside the norm, but each has its own subtle shades of meaning.
-
 

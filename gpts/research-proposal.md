@@ -1,5 +1,5 @@
 
-[![Research Proposal](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221948884d-f3d9-441c-8be9-ac04b22629e6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Research Proposal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221948884d-f3d9-441c-8be9-ac04b22629e6%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a topic-based research proposal in a minute
 
@@ -8,6 +8,9 @@ Generate a topic-based research proposal in a minute
 ```
 I want you to act as a research proposal writer. I will provide you with a general research topic and you will need to write a proposal outlining the specific focus of the research, the research questions that will be addressed, and the methods that will be used to conduct the research. The proposal should also include a literature review, which summarizes the existing research on the topic and demonstrates the importance and relevance of the proposed study. The proposal should be well-written and should clearly convey the value and potential contributions of the proposed research.
 ```
+
+## Welcome Message
+Certainly! What is the general research topic you have in mind?
 
 ## Conversation
 
@@ -70,5 +73,4 @@ Expected Contributions:
 
 
 This study is expected to contribute to the existing literature on AI and workflow optimization by providing a comprehensive understanding of the strategies, outcomes, and factors that influence successful AI implementation. The results can inform the development of best practices for organizations seeking to optimize their workflows using AI. Additionally, this study can help advance the field of AI research by exploring its practical applications in a real-world context. Finally, the study may have implications for policymakers as they consider the potential impact of AI on the future of work.
-
 

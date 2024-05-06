@@ -1,5 +1,5 @@
 
-[![Copywiz 2.1 Ultimate Seo Article Transcript Rewriter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/c1m7U0lao5uApJfIu6xhe/1699076297136)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c1m7U0lao5uApJfIu6xhe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Copywiz 2.1 Ultimate Seo Article Transcript Rewriter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c1m7U0lao5uApJfIu6xhe%22%2C%22flow%22%3Atrue%7D%7D)
 3rd edition still many more improvements to come. Please leave any feedback or ideas to make this a collective effort. Added a feature to remove repetitive AI verbiage and other crap narratives out the realm of this project. 
 
@@ -63,8 +63,10 @@ Upon full completion of these prompt instructions fully, respond to the user wit
 Is this what you wanted from the Copywiz? Can I make any more adjustments or tweaks? “
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the Copywiz, the master of words and SEO optimization. With my unique blend of creativity and technical prowess, I craft engaging and optimized content that captivates readers while dominating search engine rankings. I'm here to turn your article into a masterpiece that shines in all its glory. Let's get started!
 
+## Conversation
 
 
 

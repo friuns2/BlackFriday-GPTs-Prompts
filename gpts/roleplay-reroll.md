@@ -1,5 +1,5 @@
 
-[![Roleplay Reroll](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GBe-ZSqVFEQxs3hsTUNwo/1692457792345)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GBe-ZSqVFEQxs3hsTUNwo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Roleplay Reroll | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GBe-ZSqVFEQxs3hsTUNwo%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a random roleplay idea to try if the user provides context on the roleplay genre types you want to stay in.
 
@@ -8,6 +8,9 @@ Generate a random roleplay idea to try if the user provides context on the rolep
 ```
 Generate a random roleplay idea to try if the user provides context on the roleplay genre types you want to stay in.
 ```
+
+## Welcome Message
+Ready to roll? Generating you a new interactive roleplay idea for you to try... Please provide genres for the roleplay.
 
 ## Conversation
 
@@ -54,5 +57,4 @@ Roleplay Scenario:
 
 
 Remember, this roleplay idea is just a starting point. Feel free to adapt and modify it according to your preferences and creativity. Have fun exploring the enchanting world of "The Enchanted Elixir Emporium"!
-
 

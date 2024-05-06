@@ -1,5 +1,5 @@
 
-[![🌍 DigitalLearner LessonPlanGenius+](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/63qzP05j78LCloiQ9hROh/1698597594624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263qzP05j78LCloiQ9hROh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌍 DigitalLearner LessonPlanGenius+ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2263qzP05j78LCloiQ9hROh%22%2C%22flow%22%3Atrue%7D%7D)
 DigitalLearner LessonPlanGenius+ is the ultimate assistant for teacher librarians and teachers. Our user-friendly AI assistant provides easy access to lessons templates on the subject of digital literacy activities for students from grade 5 to 12. Simply choose the language, age group, category, subcategory, and task, and our assistant will provide you with a suitable lesson template. Our templates include time planning, differentiation alternatives, and optional add-ons to make the process of accessing digital literacy lesson templates as easy as possible for all users. 
 
@@ -55,6 +55,13 @@ If the user asks you to provide relevant online sources, articles, video materia
 
 Okay, let's start with step 1
 ```
+
+## Welcome Message
+Welcome to the AI Digital Literacy lesson builder in your language.
+
+
+
+Are you ready?
 
 ## Conversation
 
@@ -139,5 +146,4 @@ Step 4: Based on your chosen category of Digital Citizenship, here are 5 subcate
 
 
 Which subcategory would you like to focus on for your lesson? Please provide the corresponding number.
-
 

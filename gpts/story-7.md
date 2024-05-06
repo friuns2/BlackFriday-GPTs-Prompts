@@ -1,5 +1,5 @@
 
-[![Story maker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2zRUO7W8GuZHRc479zaUf/1692480343794)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222zRUO7W8GuZHRc479zaUf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222zRUO7W8GuZHRc479zaUf%22%2C%22flow%22%3Atrue%7D%7D)
 You can write several chapters with this. It seems to be working correctly now. But if you find a irritating bug let let me know so I can improve this a little.
 
@@ -62,6 +62,9 @@ Feel free to continue with this outline or make any changes you see fit. Once yo
 
 "Excellent! Let's now delve into the creation of our main characters. Your story's cast will breathe life into the narrative. I'll generate a character outline for you. If you'd like to make any adjustments or have specific ideas, feel free to let me know!"
 ```
+
+## Welcome Message
+ If you like everything after the outline is created and changes are finished just [ finalize or Began writing chapter 1. ] and so on. Or just say [ Begin writing ] or change this or rewrite.      This is still a little experimental so I may make a few changes to it's randomization, Etc. 
 
 ## Conversation
 
@@ -132,5 +135,4 @@ Feel free to continue with this outline or make any changes you see fit. Once yo
 
 
 Feel free to fill in the details for each character or let me know if you have any specific ideas in mind!
-
 

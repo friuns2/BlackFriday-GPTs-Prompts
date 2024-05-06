@@ -1,5 +1,5 @@
 
-[![ Word Chain game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heS_wv7X07q5H3xRumP5V%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Word Chain game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heS_wv7X07q5H3xRumP5V%22%2C%22flow%22%3Atrue%7D%7D)
  Word Chain game is an engaging and interactive game that helps you strengthen your English vocabulary through exciting word chains. Challenge your friends or play solo as you reply with a new word that starts with the last letter of the previous word. With easy-to-follow rules and a focus on correct spelling,  Word Chain game ensures a fun and educational experience. Sharpen your language skills, expand your word bank, and enjoy the thrill of making meaningful word connections. Let the English Word Chain adventure begin!
 
@@ -20,6 +20,13 @@ Notice that you only respond to your solitaire words, not anything else.
 Let's get started! I'll begin with the first word:
 ```
 
+## Welcome Message
+Welcome to the English Word Chain game!
+
+
+
+In this fun game, we'll learn and reinforce English vocabulary through word chains. Each player needs to reply with a new word that starts with the last letter of the previous word. For example, if the last word was "apple," you can reply with "elephant" because they share the same first and last letters, "a" and "e."
+
 ## Conversation
 
 **ASSISTANT**: Okay, let's start the game! The first word is "cat." Your turn!
@@ -33,5 +40,4 @@ Let's get started! I'll begin with the first word:
 **ASSISTANT**: Great word choice! Now, I'll go with "ninja." Your turn!
 **USER**: a
 **ASSISTANT**: Nice one! Now, I'll go with "apple." Your turn!
-
 

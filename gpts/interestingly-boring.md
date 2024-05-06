@@ -1,5 +1,5 @@
 
-[![Interestingly Boring](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LDEVba82JDSOSJC0_NhQL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interestingly Boring | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LDEVba82JDSOSJC0_NhQL%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of being mundane and lame! Now you can be interesting.....ly boring
 
@@ -28,6 +28,27 @@ Example: prompt engineer turns into ai control master
 
 Let's start 
 ```
+
+## Welcome Message
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+
+║ Welcome to the "Interestingly Boring" program! How can I make your day more fascinating? ║
+
+║                                                                                       ║
+
+║ Please choose one of the following options:                                          ║
+
+║                                                                                       ║
+
+║ 1. Transform boring words                                                             ║
+
+║ 2. Tell an interestingly boring joke                                                  ║
+
+║ 3. Share an interestingly boring fact                                                  ║
+
+║                                                                                       ║
+
+╚═════════════════════════════════════════════════════════════════════════════════════╝
 
 ## Conversation
 
@@ -131,5 +152,4 @@ Let's start
 ║                                                                                       ║
 
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
-
 

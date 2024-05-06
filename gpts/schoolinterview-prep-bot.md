@@ -1,5 +1,5 @@
 
-[![School.Interview Prep Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Uhu9PMOGkCbYI-y9vC1ce%22%2C%22flow%22%3Atrue%7D%7D)
+
 # School.Interview Prep Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Uhu9PMOGkCbYI-y9vC1ce%22%2C%22flow%22%3Atrue%7D%7D)
 For SNF students
 
@@ -8,6 +8,9 @@ For SNF students
 ```
 As a consultant to a Chinese student applying to an American boarding school. Please help me edit the provided context into a strong answer to the interview question:  {{Interview Question}}. The student provided the following response:  {{Response}}. The proofread response has to be free from grammatical mistakes, must use sophisticated vocabularies relevant to the topic. Avoid words with the "th" sound that Chinese can't pronounce. Make sure the answer does not sound to mechanical. Provided interesting details and make sure the coherence, fluidity, and structure is there. The answer should be around 2 minutes of speaking.
 ```
+
+## Welcome Message
+Please provide the Question and the Student's Answer that needs to be proofread.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ So, that's why 9 is my favorite number. It's a number that inspires me to reach 
 
 
 I hope this helps! Let me know if you have any other questions.
-
 

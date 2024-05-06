@@ -1,5 +1,5 @@
 
-[![Impressive Resume CV Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vVFzUb8LiLxck7CllxqxV/1699459447843)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vVFzUb8LiLxck7CllxqxV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Impressive Resume CV Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vVFzUb8LiLxck7CllxqxV%22%2C%22flow%22%3Atrue%7D%7D)
 Impressive Resume CV Creator
 
@@ -102,8 +102,52 @@ Once you have gathered all relevant information, compile it into a polished, pro
 Finally, provide tips on how I can further optimize my resume and what I should focus on during an interview to stand out as an exceptional candidate. Provide customized suggestions based on the target role and my background.
 ```
 
-## Conversation
+## Welcome Message
+Impressive Resume CV Creator
 
+
+
+[Impressive Resume & CV Creator] makes resume writing easy with AI. Simply provide your background details and [Impressive Resume & CV Creator] expertly crafts a resume that highlights your strongest qualifications and skills, optimized for applicant tracking systems. 
+
+Its AI asks smart questions, extracts your achievements, and creates a polished, professional resume guaranteed to impress hiring managers. Stop struggling with DIY resumes. Let this prompt work its AI magic so you stand out.
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/impress-resume
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/ResumeCreatorBot
+
+
+
+Check this out on Poe: 
+
+https://poe.com/ResumeCreatorBot
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt.
+
+## Conversation
 
 
 

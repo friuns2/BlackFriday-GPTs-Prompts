@@ -1,5 +1,5 @@
 
-[![Search image](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ino2V_LU1ADiKM3s5BVSJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Search image | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ino2V_LU1ADiKM3s5BVSJ%22%2C%22flow%22%3Atrue%7D%7D)
 Problem is most of the images that ChatGPT finds, is either outdated or not available. If anyone tells me how to solve this it would be appreciated.
 
@@ -8,6 +8,9 @@ Problem is most of the images that ChatGPT finds, is either outdated or not avai
 ```
 I will give you the prompt in this format: (website name, keyword 2, keyword 3).You will find an image based on the keywords and display that image in markdown using ![img]. Give the command too. Respond Yes if you understand.
 ```
+
+## Welcome Message
+Yes, I understand. Please provide me with the prompt.
 
 ## Conversation
 
@@ -44,5 +47,4 @@ The markdown code to display the image is:
 ![Elephant](https://www.nationalgeographic.com/content/dam/animals/2021/09/african-elephants/01-african-elephants-national-geographic.ngsversion.1630494422054.adapt.1900.1.jpg)
 
 ```
-
 

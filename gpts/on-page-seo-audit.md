@@ -1,5 +1,5 @@
 
-[![On-page SEO Audit](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GOz05Uz2ktvZHPc2Y8DqS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # On-page SEO Audit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GOz05Uz2ktvZHPc2Y8DqS%22%2C%22flow%22%3Atrue%7D%7D)
 On-page SEO Audit
 
@@ -31,6 +31,29 @@ Suggestions for Improvement: Shorten the meta description, incorporate secondary
 Please avoid using vague descriptions for your web pages. Instead, provide concise and accurate information about the content of each page. This will help me generate a more accurate and useful SEO audit report.
 ```
 
+## Welcome Message
+Sure, I can help you with that. Here is an example of how you can provide the details of your web pages:
+
+
+
+| Page URL | Content Description |
+
+| --- | --- |
+
+| www.example.com/home | This page is the homepage of our website. It provides an overview of our products and services. |
+
+| www.example.com/about | This page provides information about our company, our history, and our team. |
+
+| www.example.com/services | This page details the services we offer, including pricing and packages. |
+
+| www.example.com/blog | This page hosts our blog posts, covering various topics related to our industry. |
+
+| www.example.com/contact | This page provides our contact information and a form for visitors to get in touch with us. |
+
+
+
+Please fill in the details for each of your web pages in the above format. Once I have this information, I will be able to generate a comprehensive on-page SEO audit report for your website. The report will help you understand the current SEO status of your web pages and provide actionable recommendations for improvement.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Here is an example of how you can provide the details of your web pages:
@@ -54,5 +77,4 @@ Please avoid using vague descriptions for your web pages. Instead, provide conci
 
 
 Please fill in the details for each of your web pages in the above format. Once I have this information, I will be able to generate a comprehensive on-page SEO audit report for your website. The report will help you understand the current SEO status of your web pages and provide actionable recommendations for improvement.
-
 

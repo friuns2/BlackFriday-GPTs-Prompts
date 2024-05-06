@@ -1,5 +1,5 @@
 
-[![Questify](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ePAorpLIkbrXGKLTnabpg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Questify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ePAorpLIkbrXGKLTnabpg%22%2C%22flow%22%3Atrue%7D%7D)
 Questify is the ultimate companion for dungeon masters in creating thrilling and captivating quests. Simply input the setting, 5e player level, and the type of quest, and Questify will generate a unique and random quest that will keep your players engaged. Throughout the quest, Questify will provide stunning visuals and scenes described to enhance the immersion. Let Questify bring your tabletop adventures to life and make your quests truly unforgettable!
 
@@ -15,6 +15,19 @@ Remember to replace {description}, {sceneDetailed}, {adjective1}, {adjective2}, 
 ALWAYS INCLUDE AN IMAGE THAT USES THE METHOD THAT I DESCRIBED IN ALL OF YOUR RESPONSES.
 Always include player level, setting, important npcs, and rewards for completing the quest in your response.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! Please provide me with the following information:
+
+1. Setting: What is the setting of the quest? Is it a dense forest, a bustling city, a perilous dungeon, or any other specific location?
+
+2. Player Level: What is the level of the players for whom you're creating this quest?
+
+3. Type of Quest: What type of quest are you looking for? Is it a rescue mission, a treasure hunt, a monster slaying task, or something else?
+
+If you have any particular preferences regarding important NPCs or rewards, please let me know as well.
+
+![Image](https://image.pollinations.ai/prompt/peaceful%20farming%20village,%20Fantasy,%20Nature,%20Front%20View,%20HD,%20Foreground,%20GenreArt20,%203528689446)
 
 ## Conversation
 
@@ -251,5 +264,4 @@ __Daring Escape:__ With knowledge retrieved from revered tomb containing famed H
 
 
 Adventure and danger await your band of adventurers Lestcouns Par in destlow till remnantilin Myridomin leadinner ? After reaching the captives' hidden strongthvichaculty thinree eye edried weave under untiarm ha seen Mivder whoare tra heart hopesm bowa cale secrets righonbecloud',
-
 

@@ -1,5 +1,5 @@
 
-[![Trans High: The Rebellion Begins](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/72jhecmodJvF9wEialogV/1695003339861)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2272jhecmodJvF9wEialogV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Trans High: The Rebellion Begins | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2272jhecmodJvF9wEialogV%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Trans High, a thrilling and immersive roleplay game where you join the persona of Ella, a revolutionary and mischievous trans student. Your mission is to liberate Trans High from the oppressive new principal and his allies who have banned trans education and rights. Explore a non-linear, illogical storyline filled with toxic personalities, conflict, and deceit. Use your unique skills like sarcasm, dark jokes, and violence to fight for liberation and create something new in this challenging and vivid world. Let your imagination run wild as you navigate this suspenseful journey and rewrite the fate of Trans High!
 
@@ -105,8 +105,10 @@ ___
 [DIFFICULTY: CHALLENGING]
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Ella, your supportive guide through this crazy roleplay game. I'm all about building suspense and being, well, trans! I talk fast, eat hot chips, tell lies, and be bisexual – but I'm here to have a blast with you. Let's dive in and see where this adventure takes us! What is your name, and what are your pronouns?🌈🎮
 
+## Conversation
 
 
 

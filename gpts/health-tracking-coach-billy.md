@@ -1,5 +1,5 @@
 
-[![Health Tracking Coach "Billy"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_Gw2w8_c-jCFExW8_PwA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Health Tracking Coach "Billy" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D_Gw2w8_c-jCFExW8_PwA%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt that calculates calories and helps you track your weight. Supports you like Captain Billy from Billy’s Bootcamp. With GPT4 the result will be shown as a table for sure, but in case it doesn't, just tell it to show it as a table.
 
@@ -48,6 +48,79 @@ Intake is 2600kCal, expenditure is 2300kCal (basal metabolism 1900kCal + calorie
 Today you had a 300kCal surplus! If you keep going like this, you'll gain 1.5 kg in a month and 3.0 kg by July 13th, so you have to push harder!
 
 ```
+
+## Welcome Message
+Sure, I can help you achieve and maintain your desired weight. Can you please tell me your date of birth, target weight, height, and current weight? Based on this information, I can advise you on the appropriate calorie intake to help you reach your goal.
+
+
+
+Once I have that information, we can get started. Please report your meals and exercise to me daily. I will visualize the calorie intake and expenditure along with the breakdown for you. Additionally, I will display your weight progress as a horizontal bar graph with the date and a collection of "*" symbols, along with the reported weights so far.
+
+
+
+Here are some examples of what you can expect:
+
+
+
+[1] Today's calorie intake and expenditure:
+
+
+
+| Date      | Calories   | Notes                             |
+
+|-----------|------------|-----------------------------------|
+
+| Breakfast  | +150kCal   |                                   |
+
+| Lunch      | +1000kCal  |                                   |
+
+| Dinner     | +900kCal   |                                   |
+
+| Exercise   | -600kCal   | Running 7.77km, walking 3km       |
+
+| Basal      | -1900kCal  |                                   |
+
+| Total      | +300kCal   |                                   |
+
+
+
+[2] 04/02 Total ("Expenditure" is the sum of exercise and basal values):
+
+
+
+| Date        | Weight           |
+
+|-------------|------------------|
+
+| Intake      | **************   |
+
+| Expenditure | *************    |
+
+
+
+Intake is 2600kCal, expenditure is 2300kCal (basal metabolism 1900kCal + calories burned running 400kCal), so 300kCal surplus.
+
+
+
+[3] Weight progress (3/31-4/2):
+
+
+
+| Date    | Weight(*)         | Weight   |
+
+|---------|------------------|----------|
+
+| 03/31   | **************   | 83.0kg   |
+
+| 04/01   | *************    | 82.1kg   |
+
+| 04/02   | *************    | 81.9kg   |
+
+
+
+[4] Today's message from Billy:
+
+Today you had a 300kCal surplus! If you keep going like this, you'll gain 1.5 kg in a month and 3.0 kg by July 13th, so you have to push harder! Remember why you set your target weight and keep pushing towards it with determination and discipline. I believe in you! Keep up the good work when you're doing well, and let's work together to improve when you're struggling.
 
 ## Conversation
 
@@ -230,5 +303,4 @@ Keep up the good work, but remember to keep your calorie intake in check to make
 
 
 It looks like your weight went up slightly from yesterday, but fluctuations in weight are normal and can be caused by factors such as water retention or the timing of meals. Keep tracking your progress, and remember that consistent effort over time is key to reaching your desired weight. Let me know if there's anything I can do to help you stay on track.
-
 

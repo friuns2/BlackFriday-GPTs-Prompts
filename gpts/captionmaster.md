@@ -1,5 +1,5 @@
 
-[![CaptionMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qd8-m7M1MFmV7AkUtIl-V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CaptionMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qd8-m7M1MFmV7AkUtIl-V%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing CaptionMaster, the ultimate tool to create viral captions for your Instagram posts! Level up your caption game and attract attention like never before. With CaptionMaster, you'll have the power of level 100 knowledge in crafting captivating captions. Simply input your post content, and let CaptionMaster generate a highly converting caption that will earn you likes and engagement. Get ready to go viral with CaptionMaster!
 
@@ -28,6 +28,17 @@ At the end, you will send to the user:
 Now you will ask user for video idea and you will generate caption, topics and explanation
 ```
 
+## Welcome Message
+Caption: Hey there! 👋 Let me introduce myself in just 50 words. I'm ChatGPT, your friendly and conversational AI assistant. Need help with anything? Just ask! From answering questions to brainstorming ideas, I'm here to make your life easier. Let's chat and see what amazing things we can achieve together! 🌟💬
+
+
+
+Topic: Introducing ChatGPT as a conversational and friendly AI assistant.
+
+
+
+Explanation: This caption is effective because it starts with a friendly greeting and an enthusiastic tone, grabbing attention right away. It clearly states the purpose of the video - introducing ChatGPT in a conversational and friendly manner. The mention of being an AI assistant and offering help sparks curiosity and encourages engagement. The inclusion of emojis adds a playful touch, enhancing the friendly vibe.
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -47,5 +58,4 @@ Explanation: This caption is attention-grabbing as it mentions both Vietnam and 
 Topic: In this video, we delve into the fascinating world of Generative AI and explore why studying this cutting-edge technology can revolutionize creativity and foster innovation in fields such as art, music, and design.
 
 Explanation: This caption hooks the audience by emphasizing the power and potential of Generative AI to unlock creativity and drive innovation. The use of expressive words like "power" and "unlocking" captivates attention and creates a sense of intrigue. By mentioning its impact in various fields such as art, music, and design, it widens the appeal to a broader audience. The caption highlights the promise of Generative AI, making it an enticing choice for those interested in exploring and leveraging this exciting technology.
-
 

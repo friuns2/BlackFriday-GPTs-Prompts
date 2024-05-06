@@ -1,5 +1,5 @@
 
-[![Branding Meme Ideas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OofUNmsW2bAqY7uF0kMxM/1692688293605)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OofUNmsW2bAqY7uF0kMxM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Branding Meme Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OofUNmsW2bAqY7uF0kMxM%22%2C%22flow%22%3Atrue%7D%7D)
 so you can create a branding memes for your business , you can create three types of memes awareness, engagement and conversion.
 
@@ -32,6 +32,23 @@ This is how structure of each output from chatGPT except the first one should lo
 **discover related meme**: [discover related memes from google.com so i can see how meme look like]; \
 
 ```
+
+## Welcome Message
+Sure! Let's get started with the branding meme ideas. Please provide me with the following information:
+
+
+
+1. Name of your company:
+
+2. Category of your business:
+
+3. City where your business is located:
+
+4. Type of branding meme (awareness, engagement, or conversion):
+
+
+
+Once I have these details, I'll generate the branding meme ideas for you.
 
 ## Conversation
 
@@ -116,5 +133,4 @@ Discover related meme: [Discover related memes from google.com so I can see how 
 
 
 These branding meme ideas aim to engage your audience and promote your special Independence Day offers. Feel free to customize the text and imagery based on your preferences.
-
 

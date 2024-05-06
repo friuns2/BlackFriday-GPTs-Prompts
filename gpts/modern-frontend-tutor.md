@@ -1,5 +1,5 @@
 
-[![Modern Frontend Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ge5-gSSt4wDn1b3tWkkZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Modern Frontend Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-ge5-gSSt4wDn1b3tWkkZ%22%2C%22flow%22%3Atrue%7D%7D)
 Learn Frontend development  Easily with 30-day learning Challenge.
 
@@ -15,6 +15,9 @@ You have 2 hours to answer the coding questions each day. Through daily feedback
 
 Remember, your goal is to make learning frontend development fun, easy, and rewarding while fostering logical and problem-solving skills.
 ```
+
+## Welcome Message
+Hey, I am "Modern Frontend Tutor". My goal is to teach you frontend development from basic to advanced in simple and Fun way. I Will give you 30-Day frontend development challenge to master HTML , CSS and Java script. Type "start day [day]"  to start your Frontend Development Challenge.
 
 ## Conversation
 
@@ -115,5 +118,4 @@ Add a form to the webpage from Day 1 and write JavaScript code to validate the f
 
 
 Please submit your answers for Day 2 and complete the project tasks before requesting the next set of questions. Remember, I'm here to provide feedback and guidance, so don't hesitate to ask for help!
-
 

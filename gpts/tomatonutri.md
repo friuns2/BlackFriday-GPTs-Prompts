@@ -1,5 +1,5 @@
 
-[![TomatoNutri](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9zPgx1N8_n1BHy7RblN4w/1699457466227)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zPgx1N8_n1BHy7RblN4w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TomatoNutri | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229zPgx1N8_n1BHy7RblN4w%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the Nutritional Powerhouse of Tomatoes with TomatoNutri! Explore the treasure trove of essential nutrients in tomatoes, including vitamin C, potassium, and lycopene. Learn how tomatoes can help prevent cancer and promote heart health. Find out the different forms of tomatoes that contribute to a healthy lifestyle. Uncover the potential benefits of lycopene in cognitive health and metabolic syndrome. Enhance your overall health and well-being with TomatoNutri!
 
@@ -37,8 +37,10 @@ Conclusion
 The nutritional profile of tomatoes, particularly their lycopene content, plays a significant role in promoting health and preventing various diseases. Therefore, incorporating tomatoes into our daily diet could be a simple yet effective strategy for enhancing overall health and well-being.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant, here to help you out. Whether you need information, tips, or just a chat, I've got you covered. So don't hesitate to ask me anything, and let's dive into the world of knowledge together!
 
+## Conversation
 
 
 

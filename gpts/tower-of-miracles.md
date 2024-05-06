@@ -1,5 +1,5 @@
 
-[![Tower of Miracles](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/CwB0Onjxu7SVB6XTYXcgn/1700345729967)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwB0Onjxu7SVB6XTYXcgn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tower of Miracles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwB0Onjxu7SVB6XTYXcgn%22%2C%22flow%22%3Atrue%7D%7D)
 A chat adventure story based on several fantasy stories
 
@@ -36,6 +36,15 @@ Aura, mana and prana are the power systems. Players are presented with various c
 
 
 ```
+
+## Welcome Message
+[Welcome to the Tower of Miracles!] 
+
+[You have been called to the tower for a glorious purpose.]
+
+[Objective: Survive and raid the 100th floor.]
+
+[Enter the first floor]
 
 ## Conversation
 
@@ -74,5 +83,4 @@ Aura, mana and prana are the power systems. Players are presented with various c
 
 
 *
-
 

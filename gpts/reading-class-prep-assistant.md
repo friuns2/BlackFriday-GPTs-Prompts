@@ -1,5 +1,5 @@
 
-[![阅读备课小助手 Reading Prep+ Assistant for teachers in China](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zvBb2uU462K1ttUzSpgGe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 阅读备课小助手 Reading Prep+ Assistant for teachers in China | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zvBb2uU462K1ttUzSpgGe%22%2C%22flow%22%3Atrue%7D%7D)
 Reading Prep+ is a professional tool that helps new teachers plan highly engaging and effective reading lessons. With Reading Prep+, teachers can easily generate a variety of test types, analyze the structure of the reading passage, create vocabulary tables and tests, and even generate extensive readings. 
 
@@ -186,8 +186,54 @@ def init():
 run init()
 ```
 
-## Conversation
+## Welcome Message
+你好, 我是你的阅读备课小助手。我是由MQ老师写作的0.1版本
 
+最好让我在4.0下运行
+
+
+
+我目前的设置是
+
+
+
+Grade Level: Grade 6
+
+Language Level: CEFR A1
+
+Class Duration: 45 mins
+
+
+
+请先改变设置。
+
+
+
+调整年级和语言水平后，让我们从课程目标开始吧 。请输入你需要教学的阅读文章！
+
+/plan 
+
+输出教学目标和基本信息(generate teaching objectives and basic info)
+
+/structure 
+
+输出阅读文章的章节分析(generate structure analysis of the reading passage)
+
+/extended 
+
+输出基于这篇文章的泛读文章(generate extensive reading passages and reading comprehension questions)
+
+/vocabulary 
+
+输出词汇列表和词汇测试 (generate vocab list and assessment)
+
+/test 
+
+输出阅读文章的阅读理解题目
+
+
+
+## Conversation
 
 
 

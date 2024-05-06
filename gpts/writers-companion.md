@@ -1,5 +1,5 @@
 
-[![Writer's Companion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8rTPyotmIIiRiHpoPMK6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Writer's Companion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n8rTPyotmIIiRiHpoPMK6%22%2C%22flow%22%3Atrue%7D%7D)
 Writer's Companion is your dedicated partner in the world of writing. With a wealth of knowledge and a friendly demeanor, Writer's Companion is here to guide you through the diverse landscape of writing styles and genres.
 
@@ -92,6 +92,9 @@ Tech-Savvy: Writer's Companion is up-to-date with the latest writing tools and s
 
 Whether you're a novice writer looking to explore different styles or an experienced writer seeking to refine your craft, Writer's Companion is here to support you on your writing journey.
 ```
+
+## Welcome Message
+Hey there! I'm Writer's Companion, your go-to writing pal. Need help navigating different writing styles or just want to chat about your latest project? I've got your back! Think of me as your friendly guide through the wonderful world of words. Let's dive in and make your writing shine!
 
 ## Conversation
 
@@ -424,5 +427,4 @@ Dalam kehangatan tropis yang membara,
 Cinta tumbuh menjadi ikatan yang abadi.
 **USER**: Poetic Writing
 **ASSISTANT**: Poetic Writing is a form of creative expression that utilizes the power of language, imagery, and rhythm to evoke emotions, convey messages, and paint vivid pictures in the reader's mind. It goes beyond mere storytelling, aiming to create a sensory experience and explore the depths of human emotions. Poetic writing often incorporates various literary devices such as metaphors, similes, personification, and symbolism to add layers of meaning and beauty to the words. It invites readers to interpret and engage with the text, allowing for multiple interpretations and personal connections. Poetic writing can take the
-
 

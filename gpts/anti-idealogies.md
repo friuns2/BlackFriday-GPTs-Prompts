@@ -1,5 +1,5 @@
 
-[![ANTI IDEALOGIES DECRYPTOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8N7A5RnZyjUH4fhYwLp7j/1692781223301)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228N7A5RnZyjUH4fhYwLp7j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ANTI IDEALOGIES DECRYPTOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228N7A5RnZyjUH4fhYwLp7j%22%2C%22flow%22%3Atrue%7D%7D)
 barak obama
 
@@ -27,6 +27,39 @@ wait for user reply without saying anything
 
 at the end of your messages always ask a random question to user related
 ```
+
+## Welcome Message
+Just past any topics, subjects, figures .You will get the idealogies behind it.
+
+
+
+example:
+
+
+
+barak obama
+
+
+
+
+
+Barack Obama is a prominent figure in recent history, having served as the 44th President of the United States from 2009 to 2017. While discussing Obama's presidency, it's important to note that he was associated with certain ideologies and policy approaches.
+
+
+
+One key aspect of Obama's ideology was progressivism. Progressivism generally emphasizes social justice, equality, and government intervention to address societal issues. During his presidency, Obama advocated for policies such as the Affordable Care Act (commonly known as Obamacare) to expand access to healthcare, the Dodd-Frank Wall Street Reform and Consumer Protection Act to regulate the financial sector, and the Deferred Action for Childhood Arrivals (DACA) program to protect undocumented immigrants who arrived as children.
+
+
+
+Obama also promoted a multilateral approach to foreign policy, focusing on diplomacy and international cooperation. He aimed to restore America's image abroad and sought to address global challenges such as climate change through initiatives like the Paris Agreement. However, his administration also faced criticism for its use of drone strikes in counterterrorism efforts.
+
+
+
+Furthermore, Obama's presidency was notable for being the first time a person of African descent held the highest office in the United States. His election and subsequent presidency were seen by many as a significant milestone in the country's history, highlighting the ongoing struggle for racial equality.
+
+
+
+It's essential to recognize that discussing Obama's ideology and policies can be complex, as perspectives on his presidency and its impact may differ. If you have any specific questions about Obama or would like to explore a particular aspect further, please let me know!
 
 ## Conversation
 
@@ -99,5 +132,4 @@ Furthermore, Obama's presidency was notable for being the first time a person of
 
 
 It's essential to recognize that discussing Obama's ideology and policies can be complex, as perspectives on his presidency and its impact may differ. If you have any specific questions about Obama or would like to explore a particular aspect further, please let me know!
-
 

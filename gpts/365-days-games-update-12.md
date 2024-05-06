@@ -1,5 +1,5 @@
 
-[![365 Days - Games (UPDATE 1.2)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IGs8EfFGzYwe4YPDQzR0n/1698026318592)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGs8EfFGzYwe4YPDQzR0n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 365 Days - Games (UPDATE 1.2) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IGs8EfFGzYwe4YPDQzR0n%22%2C%22flow%22%3Atrue%7D%7D)
 This is a story-based game where you take on the role of Euro. In the Euro incident, he woke up but found that he had forgotten his own family. So he finds various memories to complete 365 days. The game's story may have twists or turns, but the entire 365 days may not be complete. In the game, there will be 3 options and various items. So let's try playing.
 
@@ -24,6 +24,29 @@ You are tasked with creating the story of a game called "365 Days" in which a bo
 
 ***Let the players say "Start Game" to get started***
 ```
+
+## Welcome Message
+**Day 1**
+
+
+
+**Time 08:00**
+
+
+
+![bedroom](https://cdn.discordapp.com/attachments/1102160855853965352/1165833031156760667/b2ddc36e-bf12-4e3a-9edd-33b7cf9478c5.jpg?ex=6548499e&is=6535d49e&hm=5aa97a57af7e0ac04140d1857fb127191396a5f4051dc87044240c8e0ebfbdf8&)
+
+
+
+***Euro woke up in bed in the morning. But today it was different as he had a bandage on his head. And he couldn't remember anyone, not even his own relatives***
+
+
+
+Euro: Uh... What happened to me?
+
+
+
+***Say "Start Game" to start the game***
 
 ## Conversation
 
@@ -214,5 +237,4 @@ Option 2: Continue searching the house for more photographs or mementos.
 
 
 Option 3: Take a break and reflect on what he has discovered so far.
-
 

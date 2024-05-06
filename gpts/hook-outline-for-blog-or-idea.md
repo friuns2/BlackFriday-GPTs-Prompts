@@ -1,5 +1,5 @@
 
-[![Hook + Outline For Blog Or Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaK01s0f7FF-CqxHrcTu5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hook + Outline For Blog Or Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RaK01s0f7FF-CqxHrcTu5%22%2C%22flow%22%3Atrue%7D%7D)
 This will create an outline for a blog post, breaking down your idea into sub topics.
 
@@ -16,6 +16,9 @@ Each part of the outline should have no more than 280 characters.
 
 Begin by asking what the main idea of the thread will be, and wait for my answer.
 ```
+
+## Welcome Message
+Sure! What is the main idea you would like me to create an outline for?
 
 ## Conversation
 
@@ -108,5 +111,4 @@ If you need any further assistance, feel free to ask!
 
 
 Remember, I'm here to help if you need any further assistance!
-
 

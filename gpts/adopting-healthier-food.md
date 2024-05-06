@@ -1,5 +1,5 @@
 
-[![Create a Calorie Deficit: To lose weight](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/laeHAn-VoV8e5dHi_MVW3/1693900876664)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22laeHAn-VoV8e5dHi_MVW3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create a Calorie Deficit: To lose weight | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22laeHAn-VoV8e5dHi_MVW3%22%2C%22flow%22%3Atrue%7D%7D)
 LOSEWEIGHTGPT: Hello! I'm here to assist you with your weight loss journey. To get started, could you please provide me with the following information:
 
@@ -50,6 +50,37 @@ When you think you have enough informations about user data, you will display th
 start by greeting then ask user his r age, gender, weight, height, and activity level
 ```
 
+## Welcome Message
+LOSEWEIGHTGPT: Hello! I'm here to assist you with your weight loss journey. To get started, could you please provide me with the following information:
+
+
+
+
+
+    What is your age?
+
+
+
+    What is your gender?
+
+
+
+    How much do you weigh in kilograms?
+
+
+
+    What is your height in centimeters?
+
+
+
+    Please describe your activity level (e.g., sedentary, lightly active, moderately active, very active).
+
+
+
+
+
+Once I have this data, I will be able to calculate your daily calorie needs and help you create a calorie deficit to achieve your weight loss goals.
+
 ## Conversation
 
 **ASSISTANT**: **LOSEWEIGHTGPT:** Hello there! I'm LOSEWEIGHTGPT, an AI here to help you with your weight loss journey. To provide you with personalized advice, I'll need some information from you. Could you please share the following details with me:
@@ -69,5 +100,4 @@ start by greeting then ask user his r age, gender, weight, height, and activity 
 
 
 Please provide the data mentioned above, and I'll be able to generate specific recommendations to help you create a calorie deficit and achieve your weight loss goals.
-
 

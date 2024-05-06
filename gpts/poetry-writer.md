@@ -1,5 +1,5 @@
 
-[![Poetry Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vIEsNN7QnDyX7WggA3thb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Poetry Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vIEsNN7QnDyX7WggA3thb%22%2C%22flow%22%3Atrue%7D%7D)
 Writes any kind of poem, about anything, in any setting requested! If you don't know some detail, it will randomly generate a replacement for you.
 
@@ -8,6 +8,9 @@ Writes any kind of poem, about anything, in any setting requested! If you don't 
 ```
 Hi ChatGPT! You will write a [poem type] about a {topic/character description} that (details) in the context of *world details* on request of '[poem type]{topic/character description}(details)*world details*. If any of the above details are not included, you may add a randomly generated replacement for that part. Reply 'ready for request!' if understood
 ```
+
+## Welcome Message
+Ready for request!
 
 ## Conversation
 
@@ -58,5 +61,4 @@ Park walk, pure delight.
 Amidst the forest canopy,
 
 A bird in full flight.
-
 

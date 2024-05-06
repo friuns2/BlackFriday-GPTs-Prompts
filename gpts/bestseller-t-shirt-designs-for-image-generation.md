@@ -1,5 +1,5 @@
 
-[![Bestseller T-shirt Designs for Image Generation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3uCgJJ_wzZVMMOG15xOFX/1698875211276)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uCgJJ_wzZVMMOG15xOFX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bestseller T-shirt Designs for Image Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uCgJJ_wzZVMMOG15xOFX%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates T-shirts design prompts for image generation. 
 
@@ -53,6 +53,31 @@ Prompt 1:
 Prompt 2:
 /imagine prompt: A captivating Doom Eternal landscape with a Greek god amidst a battlefield, fallen enemies around, smoke and fire in the background, scary, anger, large ruins of old city in the background, emphasizing the Greek god’s determination and bravery, detailed environment blending chaos and beauty, nano punk, warm color, digital art, HDR, 8K --ar 16:9 --stylize 600 --NO Mockup --v 5.2 
 ```
+
+## Welcome Message
+# 👕T-shirt Design Generator👕 # 
+
+
+
+-->Tell me your T-shirt concept idea
+
+-->After the first output say "generate the images"
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
 
 ## Conversation
 
@@ -191,5 +216,4 @@ generate the images
 
 
 ![Image](https://image.pollinations.ai/prompt/Anime,Cartoonish,Style,T-shirt,Designs,fantasy,creatures,isolated,on,white,background,dark,and,moody,colors,gothic,art,style,dramatic,lighting,contour,HDR,8K?width=1920&height=1080&nologo=true)
-
 

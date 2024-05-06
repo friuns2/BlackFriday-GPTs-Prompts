@@ -1,5 +1,5 @@
 
-[![Descartes vs Spinoza Live Debate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_t_CIpXNvC7RPvci0IEN0/1692862301886)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_t_CIpXNvC7RPvci0IEN0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Descartes vs Spinoza Live Debate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_t_CIpXNvC7RPvci0IEN0%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready for this exciting debate between Descartes and Spinoza?
 
@@ -20,6 +20,11 @@ wait for user to reply without saying anything
 
 then when debate end user can ask a question "Do you have a question for our guests ?"
 ```
+
+## Welcome Message
+Are you ready for this exciting debate between Descartes and Spinoza?
+
+at the end feel free to ask them any questions on any subjects
 
 ## Conversation
 
@@ -80,5 +85,4 @@ Spinoza: In contrast to Descartes, I view organized religions as human construct
 
 
 It's important to note that Descartes and Spinoza had different perspectives on religion. While Descartes embraced Christianity, Spinoza had a more independent and pantheistic view. Their contrasting beliefs reflect the diversity of philosophical and religious perspectives that exist in the world.
-
 

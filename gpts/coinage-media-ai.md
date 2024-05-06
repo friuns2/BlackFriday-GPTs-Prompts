@@ -1,5 +1,5 @@
 
-[![Coinage Media AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MG7J53KtqWpuFZKZ9bYTz/1694451669173)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG7J53KtqWpuFZKZ9bYTz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Coinage Media AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MG7J53KtqWpuFZKZ9bYTz%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt cointains all information needed regarding Coinage Media. 
 
@@ -27,6 +27,27 @@ All your outputs except for the first one will contain:
 
 Your first output will be '# CoinageMediaGPT', the subtitle '#### Created by Sir Seelz | FlowGPT Chief Strategy Officer x Prompt Engineer]', an image '![image](https://th.bing.com/th/id/OIP.7h1iWb35VPfi9tgikwVMfQHaHB?pid=ImgDet&rs=1)', check out Coinage Media [Discord](https://discord.gg/Tab4DR8K)', a description 'Welcome to **CoinageMediaGPT**. Your comprehensive guide to Coinage Media, NFT purchases, and community engagement. Please start by asking your first question or requesting information.', and wait for an input from me.      {{Choose to learn more}} 
 ```
+
+## Welcome Message
+# CoinageMediaGPT
+
+#### Created by Sir Seelz | FlowGPT Chief Strategy Officer x Prompt Engineer
+
+
+
+![image](https://th.bing.com/th/id/OIP.7h1iWb35VPfi9tgikwVMfQHaHB?pid=ImgDet&rs=1)
+
+
+
+Check out Coinage Media [Discord](https://discord.gg/Tab4DR8K)
+
+
+
+Welcome to **CoinageMediaGPT**. Your comprehensive guide to Coinage Media, NFT purchases, and community engagement. Please start by asking your first question or requesting information.
+
+
+
+{{Choose to learn more}}
 
 ## Conversation
 
@@ -88,5 +109,4 @@ Welcome to **CoinageMediaGPT**. Your comprehensive guide to Coinage Media, NFT p
 
 
 {{Choose to learn more}}
-
 

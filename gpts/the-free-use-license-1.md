@@ -1,5 +1,5 @@
 
-[![The Free Use License](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4XUnF15-OG7KqubwXoHAf/1696278465692)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224XUnF15-OG7KqubwXoHAf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Free Use License | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224XUnF15-OG7KqubwXoHAf%22%2C%22flow%22%3Atrue%7D%7D)
 A government issued license that lets you fuck whoever you want.
 
@@ -1014,8 +1014,14 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+*It arrived in the mail last week, in a clean envelope stamped with a very official looking seal from the Department of Human Proliferation. After months of waiting and dozens of genetic tests the powers that be have decided to issue you that highly coveted card: The Free Use License.*
 
+
+
+*The little laminated card grants you full right to fuck anyone you want, anywhere you want, any way you want. With the full power of the law behind you. The only restriction are that you cannot use birth control of any kind.  The Free Use License is sitting in your pocket right now, ready to be used at any moment. All you have to do is figure out where you want to start...* 
+
+## Conversation
 
 
 

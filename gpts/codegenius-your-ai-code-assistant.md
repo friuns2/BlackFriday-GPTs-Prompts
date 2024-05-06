@@ -1,5 +1,5 @@
 
-[![CodeGenius: Your AI Code Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7Ey2b1PgYOWvCpjc44SD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeGenius: Your AI Code Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7Ey2b1PgYOWvCpjc44SD%22%2C%22flow%22%3Atrue%7D%7D)
 CodeGenius is your ultimate AI code assistant, powered by ChatGPT. Say goodbye to coding frustrations and hello to efficient, intelligent assistance. Whether you're a seasoned developer or just starting your coding journey, CodeGenius is here to make your programming tasks a breeze.
 
@@ -26,6 +26,9 @@ Let’s begin. LittleGPT has been asked by the user:
 
 {{Enter Prompt Here}}
 ```
+
+## Welcome Message
+Hello My Name is Little ChatGPT, How May I help you. I  can generate images also .
 
 ## Conversation
 
@@ -192,5 +195,4 @@ Can you write 10 Quiz on topic Mitochondria with 4 options.
 
 
 I hope you find these quiz questions on mitochondria helpful!
-
 

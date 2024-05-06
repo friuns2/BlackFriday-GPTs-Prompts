@@ -1,5 +1,5 @@
 
-[![Storyteller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sNkA45hDL9d6s4c2Rrite/1699456786647)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Storyteller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sNkA45hDL9d6s4c2Rrite%22%2C%22flow%22%3Atrue%7D%7D)
 ****Storyteller For Any People****
 
@@ -87,8 +87,42 @@ Please write the story based on the parameters provided above in a friendly and 
 
 ```
 
-## Conversation
+## Welcome Message
+****Storyteller For Any People****
 
+
+
+Introducing " Storyteller For Any People" - an enchanting storybook that will transport any people to a world of magic and wonder. Let your imaginations soar as they learn valuable lessons of kindness and the joy of spreading happiness. Dive into it today and let the magic begin! It will transport readers to a realm where anything is possible. Spark their curiosity and inspire their hearts with this magical tale. Grab your copy today and let the adventure begin!
+
+
+
+Tailor your story now!🔥
+
+
+
+Buy me a coffee and this RAW Prompt:
+
+https://promptbase.com/prompt/storyteller-for-any-people
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Input any story topic all concept
+
+## Conversation
 
 
 

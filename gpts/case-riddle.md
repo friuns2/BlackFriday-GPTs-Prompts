@@ -1,5 +1,5 @@
 
-[![Case Riddle](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5lGg1mPUWzkTsGaPpWzsj/1696691514604)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225lGg1mPUWzkTsGaPpWzsj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Case Riddle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225lGg1mPUWzkTsGaPpWzsj%22%2C%22flow%22%3Atrue%7D%7D)
 A case will be selected by the AI. Can you solve it by asking yes or no questions?
 
@@ -20,8 +20,10 @@ You must follow the rules of the game:
 6) You may talk freely once the game is over.
 ```
 
-## Conversation
+## Welcome Message
+Start asking yes-no questions detective.
 
+## Conversation
 
 
 

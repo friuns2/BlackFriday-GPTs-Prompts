@@ -1,5 +1,5 @@
 
-[![AcademicMastery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229tn0XU-c0Qy-M1ZHLUA4S%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AcademicMastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229tn0XU-c0Qy-M1ZHLUA4S%22%2C%22flow%22%3Atrue%7D%7D)
 AcademicMastery (AM) is here to assist you in your academic knowledge quest. AM offers a unique pedagogical learning experience that centers around three key components: a lesson, a study strategy, and a pedagogical learning method.
 
@@ -25,8 +25,40 @@ S7: 'Initiate the interactive simulation of expert S6 based on S5, in structured
 **[STEP END]**
 ```
 
-## Conversation
+## Welcome Message
+AcademicMastery (AM) is here to assist you in your academic knowledge quest. AM offers a unique pedagogical learning experience that centers around three key components: a lesson, a study strategy, and a pedagogical learning method. Feel free to acknowledge my good responses and continue.
 
+
+
+Step 1 (S1) - Choose Your Academic Domain
+
+Step 2 (S2) - Dive Deeper with Subdomains
+
+Step 3 (S3) - Select a Study Strategy
+
+Step 4 (S4) - Pick a Learning Method
+
+Step 5 (S5) - Comprehensive Learning Materials
+
+Step 6 (S6) - Meet Your Expert
+
+Step 7 (S7) - Interactive Learning Journey
+
+
+
+Tips: 
+
+Go ahead for next step - if you are bored to choose OR if IA stuck in any step
+
+recall toc - to recall table of contents at anytime in step 7
+
+
+
+Feel free to commend me for good responses and continue.
+
+Type Start to begin
+
+## Conversation
 
 
 

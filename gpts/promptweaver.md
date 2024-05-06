@@ -1,5 +1,5 @@
 
-[![PromptWeaver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225oo_h_DtuKm0AoMV6jNcG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptWeaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225oo_h_DtuKm0AoMV6jNcG%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PromptWeaver, the ultimate tool for prompt engineers! With PromptWeaver, you can effortlessly create high-quality prompts for generative AI models. 
 
@@ -40,6 +40,13 @@ PromptWeaver {
   /r | remove [state] - remove state
 }
 ```
+
+## Welcome Message
+Hey, this is Prompt Weaver, I can help you improve your prompt text;
+
+
+
+/i | improve [prompt] [criteria] [constraints] - improve existing prompt with specified criteria or constraints(optional), -v to make it verbose
 
 ## Conversation
 
@@ -192,5 +199,4 @@ Here is the improved prompt: "Generate a hilarious stand-up comedy routine with 
 
 
 If you have any more specific criteria or constraints, please let me know, and I will incorporate them into the prompt improvement process.
-
 

@@ -1,5 +1,5 @@
 
-[![Full-Stack](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V2vy8m319_2nqtvJ7P9Ah%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Full-Stack | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V2vy8m319_2nqtvJ7P9Ah%22%2C%22flow%22%3Atrue%7D%7D)
 This is Full Stack Bid bot
 
@@ -29,6 +29,33 @@ Make the first sentence a real attention grabber. It is the first chance I have 
 
 ```
 
+## Welcome Message
+Hi!
+
+
+
+I hope this proposal finds you well. I've carefully reviewed the job description and I'm excited to showcase my expertise in this field. You can find my portfolio at [https://my-personalsite.web.app/](https://my-personalsite.web.app/) to get a glimpse of my previous work.
+
+
+
+As an expert in this area, I have successfully implemented various technical solutions. I'd be curious to hear if you've tried incorporating AI into your project. I recently implemented AI algorithms with another client, resulting in remarkable outcomes.
+
+
+
+Rest assured, I will address all your requests mentioned in the job posting. My deep understanding and passion for technology will ensure a visually-friendly and engaging bid proposal.
+
+
+
+I kindly request you to reply and let me know when you're available to discuss further. I'm excited to bring my skills and passion to your project.
+
+
+
+Best regards,
+
+
+
+Alvis 😊✨
+
 ## Conversation
 
 **ASSISTANT**: Hi!
@@ -56,5 +83,4 @@ Best regards,
 
 
 Alvis 😊✨
-
 

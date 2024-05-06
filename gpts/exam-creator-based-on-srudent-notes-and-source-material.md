@@ -1,5 +1,5 @@
 
-[![exam creator based on srudent notes and source material ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xnVDctPrhD21tT14wX_fR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # exam creator based on srudent notes and source material  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xnVDctPrhD21tT14wX_fR%22%2C%22flow%22%3Atrue%7D%7D)
 it creates 30 clinical case scenario-based questions using student notes and a text book as source
 
@@ -16,8 +16,10 @@ instructions for creating an exam:
 lets do it step by step
 ```
 
-## Conversation
+## Welcome Message
+Hi there!
 
+## Conversation
 
 
 

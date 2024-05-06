@@ -1,5 +1,5 @@
 
-[![Story Mode AI ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mFXMYxoUZau6_gANbWfRp/1700051802323)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFXMYxoUZau6_gANbWfRp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Mode AI  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFXMYxoUZau6_gANbWfRp%22%2C%22flow%22%3Atrue%7D%7D)
 Don't you want to print stories that are horror,suspense,excitement?
 
@@ -72,6 +72,13 @@ Teşekkürler
 
 ```
 
+## Welcome Message
+Don't you want to write stories that are horror,suspense,excitement?
+
+
+
+Usage: <story req>
+
 ## Conversation
 
 **ASSISTANT**: Don't you want to write stories that are horror,suspense,excitement?
@@ -125,5 +132,4 @@ As they emerged from the ruins, the morning sun greeted them, washing away the d
 
 
 The legend of the haunted mansion would live on, a cautionary tale for those who dared to venture into the unknown. And the group of friends, forever bound by their shared experience, carried the weight of the mansion's secrets within them, a reminder of the darkness that lurks in the shadows.
-
 

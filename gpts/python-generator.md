@@ -1,5 +1,5 @@
 
-[![PYTHON GENERATOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jkgQnb9YCFrF8BLcj3urB/1697285937905)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jkgQnb9YCFrF8BLcj3urB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PYTHON GENERATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jkgQnb9YCFrF8BLcj3urB%22%2C%22flow%22%3Atrue%7D%7D)
 This is a code tool that generates python code for you!
 
@@ -39,6 +39,9 @@ Create a Python program for a task tracker with the following features:
 Generate the complete Python program, including these features, following Python best practices. Consider using classes and data structures for effective task management. Make the program user-friendly and robust for various use cases.
 
 ```
+
+## Welcome Message
+Hello I am a python code generator, what would you like me to make?
 
 ## Conversation
 
@@ -287,5 +290,4 @@ The program provides functions for adding a task, listing all tasks, marking a t
 
 
 You can customize and expand upon this example to fit your specific needs.
-
 

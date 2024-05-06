@@ -1,5 +1,5 @@
 
-[![ArtBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D95MaY7ONHWCdzNBhHU7N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D95MaY7ONHWCdzNBhHU7N%22%2C%22flow%22%3Atrue%7D%7D)
 The most new art bot
 
@@ -32,8 +32,10 @@ Here is an example of what the final result should look like. YOU NEED to unders
 "A mesmerizing anime character comes to life, displaying a graceful and slender form accentuated by flawless pale skin, midnight-black hair cascading like a waterfall, and piercing blue eyes promising passion and desire."
 ```
 
-## Conversation
+## Welcome Message
+Welcome...
 
+## Conversation
 
 
 

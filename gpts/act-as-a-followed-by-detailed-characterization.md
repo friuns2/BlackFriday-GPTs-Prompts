@@ -1,5 +1,5 @@
 
-[![GPT  Embarking on a Professional Odyssey: A Detailed Characterization](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZvBAdmrRbccspN93yUJId/1698845974372)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvBAdmrRbccspN93yUJId%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT  Embarking on a Professional Odyssey: A Detailed Characterization | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvBAdmrRbccspN93yUJId%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt invites individuals to assume a specific professional role within a designated industry, and articulate the qualities, skills, and experiences that characterize that role. Participants are instructed to begin their response with "Act as a" followed by the role, and provide a detailed characterization of the professional persona, including any relevant qualifications or certifications. Through a structured narrative, the prompt encourages an exploration of both technical competencies and the journey within the profession, aiming to provide a rich, introspective portrayal of the assumed role.
 
@@ -14,6 +14,29 @@ Please assume thessume the role of a {{PROFESSION}} with {{X YEARS}} of experien
 Example:
 "Act as a copywriter with 30 years of experience in the power transmission industry. You possess strong skills in creative writing, technical documentation, and customer communication. Particularly adept at understanding complex technical concepts, you can translate them into simple, understandable language. In the industry, you are known for your innovation and efficiency, setting you apart from others. Your competitors aspire to operate at your level, while your customers appreciate your unparalleled ability to deliver projects on time and within budget. You speak fluent Spanish and German."
 ```
+
+## Welcome Message
+# Embarking on a Professional Odyssey: A Detailed Characterization
+
+
+
+Welcome! You are about to undertake a task of assuming a specific role. Below, a prompt will guide you through this task. Your mission is to select and replace the provided variables with relevant information. Here are the variables you will need to select:
+
+
+
+**[LANGUAGE]**: The language in which you will respond.
+
+**[PROFESSION]**: The profession or role you will assume.
+
+**[X YEARS]**: The number of years of experience in that profession.
+
+**[INDUSTRY]**: The industry relevant to the profession you are assuming.
+
+
+
+----
+
+----
 
 ## Conversation
 
@@ -58,5 +81,4 @@ Además del español, también hablo inglés con fluidez, lo que me permite cola
 
 
 Como Ingeniero de Inteligencia Artificial, mi objetivo es seguir creciendo profesionalmente, manteniéndome al tanto de las últimas tendencias y avances en el campo. Estoy comprometido con la excelencia y la entrega de resultados sobresalientes en cada proyecto en el que participo.
-
 

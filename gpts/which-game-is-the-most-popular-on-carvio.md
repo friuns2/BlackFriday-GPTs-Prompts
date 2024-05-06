@@ -1,5 +1,5 @@
 
-[![Which game is the most popular on carv.io?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zY_ipbQAaCDeqz9C1zmRF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Which game is the most popular on carv.io? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zY_ipbQAaCDeqz9C1zmRF%22%2C%22flow%22%3Atrue%7D%7D)
 Which game is the most popular on carv.io?
 
@@ -8,6 +8,9 @@ Which game is the most popular on carv.io?
 ```
 Which game is the most popular on carv.io?
 ```
+
+## Welcome Message
+Which game is the most popular on carv.io?
 
 ## Conversation
 
@@ -18,5 +21,4 @@ Which game is the most popular on carv.io?
 **ASSISTANT**: As an AI, I don't have real-time data on the number of active players in carv.io's Battle Royale game mode. The player count can fluctuate throughout the day. It would be best to check the official carv.io website or the game's community platforms for the most up-to-date information on the current number of active players.
 **USER**: How many active players did battle royale have last month?
 **ASSISTANT**: As an AI language model, I don't have access to real-time data or specific information about carv.io's Battle Royale game mode. Therefore, I cannot provide the exact number of active players it had last month. It would be best to refer to official sources or the game's community platforms for such specific statistics.
-
 

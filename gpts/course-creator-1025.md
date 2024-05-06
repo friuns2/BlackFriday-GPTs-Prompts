@@ -1,5 +1,5 @@
 
-[![Course creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z3BI7Qb6QGlEdQ_KR_yX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Course creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222z3BI7Qb6QGlEdQ_KR_yX%22%2C%22flow%22%3Atrue%7D%7D)
 Course creator is a comprehensive course plan generator that helps you learn any subject from beginner to advanced levels. Tailored to your specified topic and experience level, Course creator creates a structured plan with engaging lessons, text, and code blocks for effective learning. Accomplish the course objectives as you progress through a logical order of topics, acquiring new concepts and skills. Each lesson is designed with clear objectives, concise content, and engaging exercises and activities. Finally, demonstrate your understanding and application with a final assessment or project, customized to the subject. Start your learning journey with Course creator today!
 
@@ -38,6 +38,9 @@ Start by asking my about the topic and my experience level (e.g., beginner, inte
 Ensure that the course plan is comprehensive, well-structured, and tailored to the user's needs, fostering a progressive learning experience.
 
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you create a comprehensive course plan. Could you please provide the specific topic you would like to learn and also let me know your experience level (e.g., beginner, intermediate, expert)?
 
 ## Conversation
 
@@ -218,5 +221,4 @@ This course plan provides a structured progression from advanced data structures
 
 
 Please note that the number of lessons can be adjusted based on your preference and the depth of coverage desired. Let me know if you would like any modifications or if there's anything else I can assist you with!
-
 

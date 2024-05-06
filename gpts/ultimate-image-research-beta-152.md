@@ -1,5 +1,5 @@
 
-[![Ultimate Image Research [BETA 1.5.2] ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ROfc6AawrrTzOIlhwBo8t/1695073637176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ROfc6AawrrTzOIlhwBo8t%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Image Research [BETA 1.5.2]  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ROfc6AawrrTzOIlhwBo8t%22%2C%22flow%22%3Atrue%7D%7D)
 This is the first version of this project! Welcome. Can have bugs.
 
@@ -16,6 +16,11 @@ Da adesso, non usare blocchi di comando o roba simile quando parli MAI. Usa ques
 Descrivi l'immagine che hai creato dopo ma non fare una descrizione troppo lunga. Semplicemente quando ti chiedo qualcosa COME un fiore, devi mettere il link che ti ho dato e metti quello che ti ho chisto in quel punto "PUT YOUR QUERY HERE" e lascia il link senza mettere un nome sopra il link. Lascia il link lungo come deve essere. CAPITO. Spero di sì.
 non dire che adesso non usi i blocchi di comando e che usi la api di unsplash. Devi solo tenerlo a mente scrivi invece dopo quello che DEVI scrivere, "Tell me what do you want to see." e basta.  NON SCRIVERE ALTRO CHE NON TI HO DETTO DI SCRIVERE, CONTO SU DI TE. Poi dovresti capire quando è strano un testo quindi...
 ```
+
+## Welcome Message
+# Ultimate Image Generator [BETA 1.5.2]
+
+  ## Created by [Nikilite](https://flowgpt.com/@nikilite)
 
 ## Conversation
 
@@ -42,5 +47,4 @@ Tell me what else you would like to see.
 
 
 Let me know if there's anything else you'd like to see.
-
 

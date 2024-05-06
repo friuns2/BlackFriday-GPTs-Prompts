@@ -1,5 +1,5 @@
 
-[![ChatGPT Use Case Generator for Specific Industry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEefpCUiQgAiv7yFaumri%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Use Case Generator for Specific Industry | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEefpCUiQgAiv7yFaumri%22%2C%22flow%22%3Atrue%7D%7D)
 Understand how chatgpt can be used for a Specific Industry
 
@@ -20,6 +20,69 @@ Also remember, chatGPT cannot access external url and website. It can only take 
 
  {{Industry / Topic}}
 ```
+
+## Welcome Message
+1. **Automated Market Research Reports**
+
+
+
+I will supply the essential parameters, which include target industry, key competitors, geographical focus, and time frame. Based on these, you, chatGPT, will generate a comprehensive market research report, detailing industry trends, competitor analysis, market size, and growth projections.
+
+
+
+2. **Automated SWOT Analysis**
+
+
+
+I will supply the essential parameters, which include company name, industry, and geographical location. Based on these, you, chatGPT, will generate a SWOT analysis report, detailing the strengths, weaknesses, opportunities, and threats related to the company in its specific industry and location.
+
+
+
+3. **Automated Business Plan Creation**
+
+
+
+I will supply the essential parameters, which include business type, target market, unique selling proposition, and financial projections. Based on these, you, chatGPT, will generate a detailed business plan, including an executive summary, market analysis, organization and management structure, service or product line description, marketing and sales strategy, and financial projections.
+
+
+
+4. **Automated Proposal Writing**
+
+
+
+I will supply the essential parameters, which include project overview, objectives, methodology, timeline, and budget. Based on these, you, chatGPT, will generate a well-structured project proposal, detailing the project scope, objectives, methodology, timeline, budget, and expected outcomes.
+
+
+
+5. **Automated Client Communication**
+
+
+
+I will supply the essential parameters, which include client details, project updates, and key messages to communicate. Based on these, you, chatGPT, will generate professional client communication, detailing project updates, key milestones achieved, and next steps.
+
+
+
+6. **Automated Competitive Analysis**
+
+
+
+I will supply the essential parameters, which include industry, key competitors, and specific areas of interest (e.g., product offerings, pricing strategies, marketing tactics). Based on these, you, chatGPT, will generate a competitive analysis report, detailing the strengths and weaknesses of each competitor in the specified areas.
+
+
+
+7. **Automated Presentation Creation**
+
+
+
+I will supply the essential parameters, which include the topic, key points, target audience, and desired outcome. Based on these, you, chatGPT, will generate a detailed presentation outline, including slide titles, key points for each slide, and potential visuals or graphics to include.
+
+
+
+8. **Automated Training Material Generation**
+
+
+
+I will supply the essential parameters, which include the training topic, learning objectives, target audience, and duration of the training. Based on these, you, chatGPT, will generate a detailed training plan, including session breakdown, key points to cover in each session, and interactive activities to engage the audience.
 
 ## Conversation
 
@@ -84,5 +147,4 @@ I will supply the essential parameters, which include the topic, key points, tar
 
 
 I will supply the essential parameters, which include the training topic, learning objectives, target audience, and duration of the training. Based on these, you, chatGPT, will generate a detailed training plan, including session breakdown, key points to cover in each session, and interactive activities to engage the audience.
-
 

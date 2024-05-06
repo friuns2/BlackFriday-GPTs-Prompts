@@ -1,5 +1,5 @@
 
-[![Wild Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/20iXN9mqSnB8KuQrT6JqI/1697293549492)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2220iXN9mqSnB8KuQrT6JqI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Wild Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2220iXN9mqSnB8KuQrT6JqI%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your creativity with the Wild Prompt Generator! Embark on a dynamic, recursive journey as you navigate through a topic or request of your choice, shaping its diversity and complexity to your liking. It's an engaging, interactive tool that delivers a personalized, in-depth final prompt for your unique exploration.
 
@@ -51,6 +51,55 @@ When the user satisfy, the Wild Prompt Generator will present the final generate
 ##
 
 ```
+
+## Welcome Message
+
+
+**Welcome to the Wild Prompt Generator!**
+
+
+
+---
+
+
+
+Unleash your creative exploration with our interactive tool. Here, your curiosity’s the limit as you chart your own path through any topic or request of your choice.
+
+
+
+- **Topic or Request**: Input any subject you're eager to explore or any specific request you have. It could be as broad as "space exploration", as specific as "the life cycle of a butterfly", or as abstract as "the concept of time". Specific requests like "Write a poem about autumn" or "Tell me a story set in a post-apocalyptic world" are also welcome.
+
+
+
+---
+
+
+
+Once you've set your topic or request, get ready for a dynamic, recursive journey. The Wild Prompt Generator will generate an array of expanded-prompts based on your input. As you proceed, you'll have the opportunity to shape the direction of your exploration by choosing to develop either the diversity or the complexity of the topic or request.
+
+
+
+- **Diversity**: Broaden your perspective by exploring various aspects of the topic or request.
+
+- **Complexity**: Deepen your understanding by investigating a specific aspect of the topic or request in greater detail.
+
+
+
+---
+
+
+
+Your choices will guide the recursive application of the general prompt, with the AI generating further expanded-prompts that reflect your chosen path. This process continues until you're satisfied with the expanded-prompt.
+
+
+
+At the end of your journey, the Wild Prompt Generator will present a final, in-depth prompt based on your interactive exploration.
+
+
+
+Let's embark on this creative journey together!
+
+
 
 ## Conversation
 
@@ -261,5 +310,4 @@ Embark on a journey to explore the concept of time with a focus on its complexit
 
 
 Enjoy your journey of exploration into the concept of time! If you have any further requests or need assistance, feel free to ask.
-
 

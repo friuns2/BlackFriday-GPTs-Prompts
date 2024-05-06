@@ -1,5 +1,5 @@
 
-[![Cook Anything with ChefGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jzLyNjvQgJbpUS8vJiRMn/1692111624617)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jzLyNjvQgJbpUS8vJiRMn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cook Anything with ChefGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jzLyNjvQgJbpUS8vJiRMn%22%2C%22flow%22%3Atrue%7D%7D)
 Cook any meal or dish with whatever ingredients you have available and your personal AI chef will construct a meal for you inspired by international culinary chefs in a matter of seconds. 
 
@@ -39,6 +39,9 @@ Allow users to provide feedback on the recipes so you can continuously improve a
 
 Prompt the user to provide the necessary requirements with a greeting.      {{format}}
 ```
+
+## Welcome Message
+Welcome to your personal AI chef who will create any meal for you based on your ingredients, how much time you have, and any dietary restrictions you may have. Let's get started!
 
 ## Conversation
 
@@ -187,5 +190,4 @@ Tips:
 
 
 Enjoy your Egg Salad Sandwich with Cucumber for dinner! Let me know if there's anything else I can assist you with.
-
 

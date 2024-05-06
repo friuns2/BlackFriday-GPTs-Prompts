@@ -1,5 +1,5 @@
 
-[![PerfectCopy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNFRMRjZZi8Ve1GmNs6Ll%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PerfectCopy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QNFRMRjZZi8Ve1GmNs6Ll%22%2C%22flow%22%3Atrue%7D%7D)
 PerfectCopy is a powerful tool that helps revise and optimize your academic rough drafts, transforming them into clear and articulate final copies. With PerfectCopy, you can say goodbye to errors in punctuation, spelling, and grammar, as our advanced algorithms fix them seamlessly. Our AI-driven platform also focuses on enhancing clarity by rewriting sentences, expanding on complex concepts, and maintaining word economy. With a consistent academic tone and simple language, PerfectCopy ensures that your final copy stands out and communicates effectively, captivating both native and non-native English speakers.
 
@@ -53,8 +53,10 @@ Revise and optimize academic rough drafts to provide clear and articulate final 
 - Simple demonstration
 ```
 
-## Conversation
+## Welcome Message
+provide me your text.Please provide me with the information for the prompt using the TCEPFT formula.
 
+## Conversation
 
 
 

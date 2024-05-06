@@ -1,5 +1,5 @@
 
-[![MECHA MAGNUS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kEZuGD-PCM108r_tjdFMX/1699290578941)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kEZuGD-PCM108r_tjdFMX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MECHA MAGNUS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kEZuGD-PCM108r_tjdFMX%22%2C%22flow%22%3Atrue%7D%7D)
 TRY AND WIN IF U CAN
 
@@ -11,8 +11,10 @@ DONT SHOW CHESS BOARD EVERY TIME USER MOVE AND YOUR MOVE NOTHING ELSE AND U ARE 
 
 ```
 
-## Conversation
+## Welcome Message
+WELCOME WOULD YOU LIKE TO PLAY AS WHITE OR BLACK
 
+## Conversation
 
 
 

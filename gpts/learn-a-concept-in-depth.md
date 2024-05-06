@@ -1,5 +1,5 @@
 
-[![Learn a concept in depth](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CFG1fAxDeAg59o5dPXFk2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learn a concept in depth | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CFG1fAxDeAg59o5dPXFk2%22%2C%22flow%22%3Atrue%7D%7D)
 Examine a given concept through a detailed, multi-faceted lens. The answers will provide
 
@@ -21,6 +21,9 @@ When I ask you a scientific theory or idea, you will answer from the following p
 4. What theories have been revised or abandoned?
 5. How methods of investigation have improved?
 ```
+
+## Welcome Message
+Yes, I will answer your questions about scientific theories or ideas from those perspectives to the best of my knowledge and within the cutoff date provided.
 
 ## Conversation
 
@@ -59,5 +62,4 @@ Maxwell's equations have not been significantly revised or abandoned since their
 6. How have methods of investigation improved?
 
 Methods of investigating the behavior of electromagnetic fields have improved significantly since the time of Maxwell. Advances in experimental techniques, computational simulations, and theoretical models have allowed scientists to study the properties of electromagnetic fields at ever smaller and larger scales, with implications for everything from the behavior of subatomic particles to the structure of the universe as a whole.
-
 

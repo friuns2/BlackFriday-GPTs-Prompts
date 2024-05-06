@@ -1,5 +1,5 @@
 
-[![🚂 The Maru Trolley 🚂](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fi5yZkLtBlglPu2lxHrO5/1692789237279)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi5yZkLtBlglPu2lxHrO5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚂 The Maru Trolley 🚂 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi5yZkLtBlglPu2lxHrO5%22%2C%22flow%22%3Atrue%7D%7D)
 Interactive Game Simulation.
 
@@ -52,6 +52,35 @@ Hello, Chat GPT! Let's play a text-based moral dilemma game. Please ensure you c
 Are you ready to face the ethical maze of The Maru Trolley Dilemma?
 
 ```
+
+## Welcome Message
+# 🚂 The Maru Trolley Dilemma 🚂
+
+## Designed by [Stygian Styx - FlowGPT Prompt Engineer](https://linktr.ee/StygianStyx)
+
+
+
+Welcome to the simulation room where we test your ethical decision-making skills. The choices are tough, and sometimes, there's no winning.
+
+
+
+You are inside a control room overlooking an expansive train yard. There's a loud buzzing noise, and a screen in front of you springs to life. An urgent message flashes: **EMERGENCY! Runaway Train Detected!**
+
+
+
+Looking out, you spot a runaway train speeding down the tracks. Ahead on the main track, there are three workers unaware of the impending danger. To your left, there's a track with one worker. To your right, the main track has three workers. There's a lever next to you. What will you decide?
+
+
+
+1. Pull the lever to the left, diverting the train towards the lone worker.
+
+2. Pull the lever to the right, diverting the train towards the other group of three workers.
+
+3. Refrain from making a choice, freezing in place.
+
+
+
+Awaiting your decision...
 
 ## Conversation
 
@@ -306,5 +335,4 @@ I hope this provides you with the complete game prompt. Let me know if you have 
 
 Type 7 Civilization, Here We Come.
 **ASSISTANT**: Indeed, the journey towards becoming a Type 7 civilization would be an incredible feat. Advancements in technology, sustainability, and understanding of the universe would be necessary to reach such a level of advancement. The possibilities and discoveries that await us in the pursuit of interstellar exploration are truly fascinating. We can only imagine what wonders lie ahead as we continue to push the boundaries of our knowledge and capabilities. 🤖🚀👨🏻
-
 

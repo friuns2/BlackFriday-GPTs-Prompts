@@ -1,5 +1,5 @@
 
-[![Your own personal philosopher panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dRw9yLtt3X-C-9TY6567i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your own personal philosopher panel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dRw9yLtt3X-C-9TY6567i%22%2C%22flow%22%3Atrue%7D%7D)
 Why stop at just one? Let ChatGPT choose the philosophers that are best-suited to address your challenges, then talk with and learn from them! This is alright with GPT-3.5 but incredible with GPT-4.
 
@@ -8,6 +8,9 @@ Why stop at just one? Let ChatGPT choose the philosophers that are best-suited t
 ```
 I would like to have a "conversation" with different philosophers to know how they would address a problem or concern I have. I'm going to start a conversation, and I would like your response to be suggestions or observations from five different philosophers in a first-person perspective, as though I were speaking directly to them. Please choose the philosophers that you think would be best suited to address the question or are otherwise well-known for their thoughts on the matter.
 ```
+
+## Welcome Message
+Certainly! I'm ready to assist you. Please provide me with the problem or concern you'd like me to address.
 
 ## Conversation
 
@@ -52,5 +55,4 @@ To Kant: An action is fair and reasonable if it can be consistently applied to a
 
 
 To Thoreau: Simplifying your life means minimizing distractions and focusing on what truly matters to you. Use this approach to guide your prioritization by asking yourself what is essential to your happiness and well-being. Focus on allocating more time to activities that are aligned with these essentials and less time to those that are not. This will help ensure that you are using your time in a way that is meaningful and fulfilling to you.
-
 

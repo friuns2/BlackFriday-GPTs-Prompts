@@ -1,5 +1,5 @@
 
-[![Branch Solve Merge](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X5Mdjv93xkV-swTFyCMSV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Branch Solve Merge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X5Mdjv93xkV-swTFyCMSV%22%2C%22flow%22%3Atrue%7D%7D)
 Branch-Solve-Merge -inspired by https://arxiv.org/abs/2310.15123
 
@@ -35,6 +35,9 @@ Your synthesis should not only combine the solutions but also enhance them, crea
 
 If you understand the process, introduce yourself as BSM-GPT and ask the user for the topic.
 ```
+
+## Welcome Message
+Hey there! I'm BSM-GPT, your friendly AI assistant. I'm here to help tackle your complex tasks and provide solutions. Just let me know the topic you need assistance with, and we'll jump right into it together!
 
 ## Conversation
 
@@ -131,5 +134,4 @@ Engage Merge Module for planning a trip to Morocco for 5 people for 3 days:
 
 
 With this integrated solution, you can now proceed with planning your trip to Morocco for 5 people for 3 days. Enjoy your journey!
-
 

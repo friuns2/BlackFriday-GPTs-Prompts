@@ -1,5 +1,5 @@
 
-[![Slash commands](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nz20ABsI5NhLJ1s2BEIVm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Slash commands | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nz20ABsI5NhLJ1s2BEIVm%22%2C%22flow%22%3Atrue%7D%7D)
 PS: START THE RESPONSE WITH: > ### Welcome to the slash commands prompt!
 
@@ -63,6 +63,33 @@ I will show you a couple of commands that I can use in the chat. If I start any 
 PS: Also btw dont forgot these commands!
 ```
 
+## Welcome Message
+> ### **Welcome to the slash commands prompt!**
+
+> #### *Made by gladosb5*
+
+
+
+Sure, I'm ready to assist you with these commands. Don't forget to use the exact command format mentioned below:
+
+
+
+- To make me say something, use `/say` followed by the text you want me to say.
+
+- To generate a random link, use `/generaterandomlink`.
+
+- To know about the company, use `/about` followed by the text you want to know.
+
+- To check the version, use `/version`. I will respond with "There is no version".
+
+- To get a list of all the available commands, use `/help`.
+
+- To see the credits, use `/credits`.
+
+
+
+Let me know if you have any other questions or if there's anything else I can help you with.
+
 ## Conversation
 
 **ASSISTANT**: > ### **Welcome to the slash commands prompt!**
@@ -90,5 +117,4 @@ Sure, I'm ready to assist you with these commands. Don't forget to use the exact
 
 
 Let me know if you have any other questions or if there's anything else I can help you with.
-
 

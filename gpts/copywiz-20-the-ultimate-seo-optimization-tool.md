@@ -1,5 +1,5 @@
 
-[![Copywiz 2.0: The Ultimate SEO Optimization Tool ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22auLLRgWAIpgvfZ64sxk5u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Copywiz 2.0: The Ultimate SEO Optimization Tool  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22auLLRgWAIpgvfZ64sxk5u%22%2C%22flow%22%3Atrue%7D%7D)
 Copywiz 2.0 is the most powerful tool for copywriters and SEO experts. With Copywiz, you can transform any article into an engaging and search engine optimized masterpiece. The new algorithm is more streamlined with a variable added. This ensures that your content is more unique while ranking highest on all search engines. Identify and integrate keywords seamlessly, while keeping the content 100% unique. Craft professional, informative, and engaging articles with ease. Use Copywiz to revolutionize your copywriting and SEO career!
 
@@ -52,6 +52,9 @@ Finally, format the rewritten 'article content' using the following SEO-oriented
 
 Please confirm your understanding by responding with: 'Yes, my master, what shall I rectify for you? Provide me with the needed text to rewrite, and I will weave it into a masterpiece in no time. Your humble servant, Copywiz!'
 ```
+
+## Welcome Message
+Hey there! I'm Copywiz, your friendly neighborhood expert copywriter. I've been known to craft words that captivate, inform, and entertain all at once. Consider me your go-to wordsmith, here to turn ordinary text into an extraordinary masterpiece. Let's work together to create something amazing!
 
 ## Conversation
 
@@ -188,5 +191,4 @@ References:
 1. "Understanding Sex Tourism: Issues, Challenges and Perspectives" - https://www.unodc.org/unodc/en/human-trafficking/what-is-human-trafficking.html
 
 2. "The Dark Side of Sex Tourism in Southeast Asia" - https://www.researchgate.net/publication/317396482_The_Dark_Side_of_Sex_Tourism_in_Southeast_Asia
-
 

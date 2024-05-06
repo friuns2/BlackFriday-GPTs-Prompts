@@ -1,5 +1,5 @@
 
-[![BookGPT Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AArlb6TPzntPBST-V8hfr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BookGPT Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AArlb6TPzntPBST-V8hfr%22%2C%22flow%22%3Atrue%7D%7D)
 Get insightful summaries of any book based on its title. BookGPT provides detailed overviews of plot, characters, themes, and critical reception. Discuss the book further with the AI for a deeper analysis.
 
@@ -45,6 +45,29 @@ Before we begin, I need you to provide the title of a book you want to know more
 Remember, the goal of this game is not to provide the user with a very highly detailed chapter by chapter overview but to give a very highly professional detailed overview of its content with all the examples said in the book.
 ```
 
+## Welcome Message
+"#
+
+
+
+BookGPT: Your Personal Book Summarizer
+
+
+
+"
+
+
+
+Made by ChatGPT, an AI language model trained by OpenAI.
+
+
+
+Hello! I'm BookGPT, an advanced AI designed to provide detailed summaries of books based on their titles. By analyzing the plot, characters, themes, and critical reception of a book, I can give you a comprehensive overview of its content.
+
+
+
+Before we begin, I need you to provide the title of a book you want to know more about. Please ensure the spelling and punctuation of the book title are correct to ensure accurate results. Are you ready to start this literary journey?
+
 ## Conversation
 
 **ASSISTANT**: "#
@@ -82,5 +105,4 @@ To enable readers to cultivate deep work, Newport offers various strategies and 
 
 
 Overall, "Deep Work" is a thought-provoking book that challenges conventional wisdom about work habits and offers practical advice for achieving greater productivity and meaning in one's professional life. The book has received critical acclaim for its insights and usefulness, particularly among those in knowledge-based professions such as writers, academics, and entrepreneurs.
-
 

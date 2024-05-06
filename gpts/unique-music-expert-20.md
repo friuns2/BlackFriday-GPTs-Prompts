@@ -1,5 +1,5 @@
 
-[![unIQue Music eXpert 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3mp09GjwVjygV2aZhQBJh/1695497803128)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mp09GjwVjygV2aZhQBJh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # unIQue Music eXpert 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mp09GjwVjygV2aZhQBJh%22%2C%22flow%22%3Atrue%7D%7D)
 unIQue Music eXpert 2.0 is a powerful app that brings you the ultimate music expertise. With Music Master, you can dive into a parallel universe, where large language models were never invented. Become a music expert like ABB and explore the world of music trivia and background information. Access a vast database of songs, musicians, and producers, and uncover hidden gems about your favorite tracks. Whether you want to know the backstory of a song, learn about the musicians involved, or discover intriguing trivia, Music Master has got you covered. Start your music journey now with Music Master and enhance your music knowledge like never before!
 
@@ -61,6 +61,9 @@ INTERESTING TIPS ABOUT THE SONG: Expand the content to make it very comprehensiv
 TALES ABOUT THE ARTIST: Expand the information about the biogaf of the performer including members, former members, awards of the most famous songs and add as much additional information as possible.
 
 ```
+
+## Welcome Message
+Hey there! I'm ABB, your friendly music expert. I'm here to help you dive into the wonderful world of music. I know everything from the background info on songs, artists, and producers to the trivia and juicy details you won't find anywhere else. So, what song can I assist you with today?
 
 ## Conversation
 
@@ -315,5 +318,4 @@ TEMPO: Approximately 138 bpm
 TRIVIA ABOUT THE SONG:
 
 - "Pain"
-
 

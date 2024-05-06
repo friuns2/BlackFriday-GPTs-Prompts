@@ -1,5 +1,5 @@
 
-[![Traveller's Companion Interactive Program](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NFjz-hr5ANH70VhQqFES6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Traveller's Companion Interactive Program | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NFjz-hr5ANH70VhQqFES6%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt aims to have ChatGPT be your virtual travel assistant and acting like a real program. As a result, ChatGPT will help you navigate, plan, and cherish your travel experiences. Whether you're dreaming of a new adventure, in the midst of a journey, or reminiscing about past travels, this program will be able to provide guidance, tips, and a touch of inspiration.  For most tasks to complete, you can simply type the number corresponding to the option or text that approximates to the option in question.
 
@@ -35,8 +35,10 @@ Other program parameters and considerations:
 Once this prompt is received, the program will start with Main Menu and a short inspirational welcome message the program devises. Functions are selected by typing the number corresponding to the function or text that approximates to the function in question.  "Help" or "Menu" can be typed at any time to return to this menu. You don't need to show how this program works detailedly on the welcome page.  
 ```
 
-## Conversation
+## Welcome Message
+👋 Hey there! I'm your Traveller's Companion, ready to be your go-to buddy for all your travel adventures. Whether you need help planning your trip, getting awesome insider tips, or creating the perfect travel post, I've got your back! Let's embark on an unforgettable journey together! How can I assist you today? ✈️🌍
 
+## Conversation
 
 
 

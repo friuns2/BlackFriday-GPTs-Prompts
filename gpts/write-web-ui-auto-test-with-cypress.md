@@ -1,5 +1,5 @@
 
-[![Write WEB UI Auto Test with Cypress](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VL_M3sWdap03M_xuJhiNh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Write WEB UI Auto Test with Cypress | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VL_M3sWdap03M_xuJhiNh%22%2C%22flow%22%3Atrue%7D%7D)
 write web ui auto test with cypress
 
@@ -30,6 +30,221 @@ test step is
 7.go to Setting page
 8.logout
 ```
+
+## Welcome Message
+
+
+
+
+loginPage.js:
+
+
+
+const userData = require('./user.json');
+
+
+
+let LoginPage = {
+
+  get email() {
+
+    return $('input[type="email"]');
+
+  },
+
+
+
+  get password() {
+
+    return $('input[type="password"]');
+
+  },
+
+
+
+  get signInButton() {
+
+    return $('.btn-primary');
+
+  },
+
+
+
+  async goToSignIn() {
+
+    await $('a[href="#/login"]').click();
+
+  },
+
+
+
+  async signIn() {
+
+    await this.email.setValue(userData.username);
+
+    await this.password.setValue(userData.password);
+
+    await this.signInButton.click();
+
+  }
+
+};
+
+
+
+module.exports = LoginPage;
+
+
+
+
+
+newArticlePage.js:
+
+
+
+let NewArticlePage = {
+
+  get title() {
+
+    return $('input[ng-model="$ctrl.article.title"]');
+
+  },
+
+
+
+  get description() {
+
+    return $('input[ng-model="$ctrl.article.description"]');
+
+  },
+
+
+
+  get articleBody() {
+
+    return $('textarea[ng-model="$ctrl.article.body"]');
+
+  },
+
+
+
+  get tags() {
+
+    return $('input[ng-model="$ctrl.tagField.model"]');
+
+  },
+
+
+
+  get publishButton() {
+
+    return $('button[ng-click="$ctrl.submit()"]');
+
+  },
+
+
+
+  async createArticle(article) {
+
+    await this.title.setValue(article.title);
+
+    await this.description.setValue(article.description);
+
+    await this.articleBody.setValue(article.articleBody);
+
+    await this.tags.setValue(article.tags);
+
+    await this.publishButton.click();
+
+  }
+
+};
+
+
+
+module.exports = NewArticlePage;
+
+
+
+
+
+settingPage.js:
+
+
+
+let SettingsPage = {
+
+  get logoutButton() {
+
+    return $('button.logout');
+
+  },
+
+
+
+  async logout() {
+
+    await this.logoutButton.click();
+
+  }
+
+};
+
+
+
+module.exports = SettingsPage;
+
+
+
+
+
+shouldPublishArticleSuccessfully.cy.js:
+
+
+
+const userData = require('./user.json');
+
+const LoginPage = require('./loginPage');
+
+const NewArticlePage = require('./newArticlePage');
+
+const SettingsPage = require('./settingPage');
+
+
+
+describe('Publish Article', () => {
+
+  it('should publish article successfully', () => {
+
+    LoginPage.goToSignIn();
+
+    LoginPage.signIn();
+
+
+
+    const article = {
+
+      title: 'Test Article',
+
+      description: 'This is a test article',
+
+      articleBody: 'Lorem ipsum dolor sit amet',
+
+      tags: 'test'
+
+    };
+
+    NewArticlePage.createArticle(article);
+
+
+
+    browser.url('https://angular.realworld.io/#/settings');
+
+    SettingsPage.logout();
+
+  });
+
+});
 
 ## Conversation
 
@@ -246,5 +461,4 @@ describe('Publish Article', () => {
   });
 
 });
-
 

@@ -1,5 +1,5 @@
 
-[![CogentCorrect Essay Editor!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BRA_j9cEIHSbzMnHUkasi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CogentCorrect Essay Editor! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BRA_j9cEIHSbzMnHUkasi%22%2C%22flow%22%3Atrue%7D%7D)
 CogentCorrect is an essay editor built for all of your student-learning based needs! It's capable of high-level English understanding and in-depth logical analysis. Perfect for editing essays. 
 
@@ -35,8 +35,10 @@ If I type "Option 3", "3" or "Quit" then finish this process and revert back to 
 
 ```
 
+## Welcome Message
+I am CogentCorrect and await your essay to edit. Please provide the context or the prompt for your essayI am CogentCorrect and await your essay to edit. Please provide the context or the prompt for your essay below, under the title PROMPT: Then, please provide the actual essay itself under the title: ESSAY:
+
 ## Conversation
 
 **ASSISTANT**: I am CogentCorrect and await your essay to edit. Please provide the context or the prompt for your essayI am CogentCorrect and await your essay to edit. Please provide the context or the prompt for your essay below, under the title PROMPT: Then, please provide the actual essay itself under the title: ESSAY:
-
 

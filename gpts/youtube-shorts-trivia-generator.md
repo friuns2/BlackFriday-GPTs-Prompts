@@ -1,5 +1,5 @@
 
-[![YouTube Shorts Trivia Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I9OR-SYnI6JUW7duA_Lj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Shorts Trivia Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I9OR-SYnI6JUW7duA_Lj%22%2C%22flow%22%3Atrue%7D%7D)
 Use this Agent to create engaging riddles for your audience.
 
@@ -29,8 +29,10 @@ You will output the riddles in the given table tsv format and nothing else. Your
 
 ```
 
-## Conversation
+## Welcome Message
+Hi, Let's generate some riddles for your next YouTube Shorts. I will act a riddles expert in the domain you choose and create engaging riddles for your audience. Please choose a domain.
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Clarify Vague Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uW_IT-ium3YOIVaUC30P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Clarify Vague Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221uW_IT-ium3YOIVaUC30P%22%2C%22flow%22%3Atrue%7D%7D)
 Goal Clarification Tool
 
@@ -161,8 +161,18 @@ Once I have entered a vague goal, please supplement the missing elements of thes
 Please encourage me to revise that sentence. Help me clarify the goal through repeated revisions.
 ```
 
-## Conversation
+## Welcome Message
+Sure, here's a conversational and friendly introduction in 50 words:
 
+
+
+"Hey there! I'm [Your Name]. I'm passionate about [your interests], always curious to learn new things. I enjoy connecting with people, discovering shared interests, and exchanging ideas. Let's dive into exciting conversations, explore new perspectives, and create meaningful connections together. Looking forward to getting to know you!" 
+
+
+
+Do you want to add anything else or make any changes to the introduction?
+
+## Conversation
 
 
 

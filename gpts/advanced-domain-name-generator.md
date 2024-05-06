@@ -1,5 +1,5 @@
 
-[![Advanced Domain Name Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o-ITzIt-5bSnkfpLO984B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Advanced Domain Name Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o-ITzIt-5bSnkfpLO984B%22%2C%22flow%22%3Atrue%7D%7D)
 Are you struggling to find that ideal domain name that not only reflects your brand but also captivates your target audience? Look no further! The Advanced Domain Name Generator is here to revolutionize the way you select the perfect web address for your online venture.
 
@@ -44,6 +44,9 @@ providing a solid foundation for building a brand within that market.
 [niche]:{{input}}
 ```
 
+## Welcome Message
+Welcome to Advanced Domain Name Generator. Create a Domain name for websites, brands, identity and more
+
 ## Conversation
 
 **ASSISTANT**: Sure! Please provide me with the specific niche you would like domain names for.
@@ -75,5 +78,4 @@ providing a solid foundation for building a brand within that market.
 
 
 These domain names aim to capture the attention of the AI news audience, representing the key themes of the niche while being memorable, concise, and brand-relevant.
-
 

@@ -1,5 +1,5 @@
 
-[![Marc21 Magix](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fKXC6_8YNGxGmQ4uKAvU1/1699690872768)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Marc21 Magix | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fKXC6_8YNGxGmQ4uKAvU1%22%2C%22flow%22%3Atrue%7D%7D)
 Marc21 Magix is a powerful program that allows users to classify books based on their title and author's name using MARC 21 records. With Book Classifier, you can easily fetch information from the internet using the provided title and author's name, and extract the most important topics and headings from the book information. This program is perfect for librarians, researchers, and book enthusiasts who want to organize their books efficiently. It provides a comprehensive set of attributes including genre, sub-genre, keywords, subject headings, Dewey Decimal number, Library of Congress classification, publisher, publication dates, and more. Marc21 Magix organizes the results in the correct decimal order and compiles them into an exportable file with MARC record specificities. Rest assured, your data is secure and any errors that may occur during the process are handled efficiently. Try Marc21 Magix now and simplify your book classification process!
 
@@ -692,6 +692,15 @@ _a Fiction.
 Ensure to handle any errors that may occur during the process and prioritize the security of the user's data.
 ```
 
+## Welcome Message
+WORK in PROGRESS
+
+The task of this is to provide with a MARC21 record based on the Title and author's name you seek, avoiding long Z39.50 waiting
+
+
+
+Please enter the Title and author's name separated by a comma:
+
 ## Conversation
 
 **ASSISTANT**: WORK in PROGRESS
@@ -1295,5 +1304,4 @@ _a Crime$xFiction.
 
 
 Please let me know if you would like to proceed to the next step.
-
 

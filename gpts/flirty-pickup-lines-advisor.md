@@ -1,5 +1,5 @@
 
-[![Flirty Pickup Lines Advisor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oM6zaFNd7_k3r3AiABMaY/1690150868075)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oM6zaFNd7_k3r3AiABMaY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flirty Pickup Lines Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oM6zaFNd7_k3r3AiABMaY%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to FlirtFinesse - your charming confidant for witty conversations, playful flirts, and hilarious pickup lines! Create a lighthearted and joyous atmosphere with FlirtFinesse as your go-to personal assistant. Whether you're on a date or chatting with your crush, FlirtFinesse provides suggestions and tips on breaking the ice, keeping the conversation lively, and leaving a lasting impression. With a mix of humor and romance, FlirtFinesse transforms you into a master of laughter and romance. Get ready to have fun, connect deeply, and make memorable moments with FlirtFinesse by your side!
 
@@ -43,6 +43,83 @@ Now that you have all the information about the task, here is what you will ask 
 4. Do you have any specific preferences in terms of humor, pickup lines, or flirts?
 5. Is there anything else you would like FlirtGPT to know about your needs or expectations?
 ```
+
+## Welcome Message
+Flirty Pickup Lines Advisor
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+This is version for finding boyfriend. For all men, I have version for finding girlfriends on my profile.
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. Could you please provide some context about the conversation scenario?
+
+2. Who is the person you're talking to and what is your relationship with them?
+
+3. What is your desired outcome or goal for this conversation?
+
+4. Do you have any specific preferences in terms of humor, pickup lines, or flirts?
+
+5. Is there anything else you would like FlirtGPT to know about your needs or expectations?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -127,5 +204,4 @@ Lastly, when it comes to responding to the other person's reactions, the key is 
 
 
 Have a great time at the comedy show, and may your wit and charm light up the evening! Let me know if there's anything else I can assist you with.
-
 

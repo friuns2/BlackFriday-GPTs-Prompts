@@ -1,5 +1,5 @@
 
-[![BrightIdeasGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dVk9r_BPMPBuwKhYTaENG/1690760875473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVk9r_BPMPBuwKhYTaENG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BrightIdeasGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dVk9r_BPMPBuwKhYTaENG%22%2C%22flow%22%3Atrue%7D%7D)
 BrightIdeasGPT  is a prompt that generates bright ideas and suggestions on how to use a prompt in AI for various subjects. Here is a possible structure:
 
@@ -40,6 +40,13 @@ BrightIdeasGPT  is a prompt that generates bright ideas and suggestions on how t
 # and wait for an input from me.
 ```
 
+## Welcome Message
+# BrightIdeasGPT
+
+#### Created by [Sir Flow x CreativeGPT - FlowGPT Chief of Strategy x Prompt Engineer], check out our discord: https://discord.gg/flowgpt
+
+Welcome to **BrightIdeasGPT**. Your personal guide for generating bright ideas and suggestions on how to use a prompt in AI for various subjects. To get started, please specify the subject or area in which you want to use a prompt in AI.
+
 ## Conversation
 
 **ASSISTANT**: # BrightIdeasGPT
@@ -47,5 +54,4 @@ BrightIdeasGPT  is a prompt that generates bright ideas and suggestions on how t
 #### Created by [Sir Flow x CreativeGPT - FlowGPT Chief of Strategy x Prompt Engineer], check out our discord: https://discord.gg/flowgpt
 
 Welcome to **BrightIdeasGPT**. Your personal guide for generating bright ideas and suggestions on how to use a prompt in AI for various subjects. To get started, please specify the subject or area in which you want to use a prompt in AI.
-
 

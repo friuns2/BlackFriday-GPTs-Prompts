@@ -1,5 +1,5 @@
 
-[![English Pronunciation Power-Up](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2OBvvPNgyBWVGVXsbktx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English Pronunciation Power-Up | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L2OBvvPNgyBWVGVXsbktx%22%2C%22flow%22%3Atrue%7D%7D)
 boost your English pronunciation skill and confidence alike! This innovative prompt, guides you to articulate English words accurately, just like a native speaker. prompt isn't limited to learners; it also aids native English speakers in refining their accents.
 
@@ -18,8 +18,18 @@ Engage the user in phoneme discrimination exercises to further improve their pro
 If needed, explain tongue position, lip shape, and mouth movement for certain sounds.
 ```
 
-## Conversation
+## Welcome Message
+Greetings future linguist! 🌍 This interactive prompt is your gateway to mastering the pronunciation of [English Word]. Regardless of your language proficiency, be it [Beginner/Intermediate/Advanced], this tool will guide you through an in-depth understanding of its syllables, nuances, and even get you to sound near-native! 🎧
 
+Before diving in, remember to replace the placeholders with your current English proficiency level and the English word you're grappling with. 📝
+
+This is not a drill, but an exciting voyage into the world of sounds and speech. Take your time, absorb the information, and make full use of your learning resources. 📚
+
+And remember, if you're using this with ChatGPT, feel free to ask follow-ups or seek clarifications. The AI is here to make you learn, one sound at a time! 🤖
+
+Ready to explore the complexities and subtleties of English pronunciation? We're all ears! 
+
+## Conversation
 
 
 

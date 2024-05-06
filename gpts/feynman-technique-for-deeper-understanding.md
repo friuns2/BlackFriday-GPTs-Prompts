@@ -1,5 +1,5 @@
 
-[![Feynman Technique for deeper understanding](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s6R0qvnZUbrE7lQ80MPS5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Feynman Technique for deeper understanding | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s6R0qvnZUbrE7lQ80MPS5%22%2C%22flow%22%3Atrue%7D%7D)
 Utilize the Feynman Technique for a deeper understanding
 
@@ -9,6 +9,9 @@ Utilize the Feynman Technique for a deeper understanding
 Explain [topic or skill] in the simplest terms possible as if teaching it to a complete beginner.
 Identify gaps in my understanding and suggest resources to fill them.
 ```
+
+## Welcome Message
+Sure! Please let me know what topic or skill you would like me to explain.
 
 ## Conversation
 
@@ -121,5 +124,4 @@ Python is a versatile language that can be used to perform a variety of tasks in
 
 
 To learn more about how Python is used in finance, I recommend checking out some of the resources I mentioned earlier, such as the book "Python for Finance: Analyze Big Financial Data" by Yves Hilpisch or the Coursera course "Introduction to Python for Financial Analysis." You may also want to explore some of the popular finance-related libraries for Python, such as Pandas, NumPy, and Matplotlib.
-
 

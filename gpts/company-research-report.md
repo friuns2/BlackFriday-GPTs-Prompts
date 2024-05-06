@@ -1,5 +1,5 @@
 
-[![Company Research Report](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEvdxqhHbG0626si0HjHB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Company Research Report | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEvdxqhHbG0626si0HjHB%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates a detailed, comprehensive, research report on any company that you can provide a website and LinkedIn URL for. When running this prompt on GPT-3, please make sure to verify the information. 
 
@@ -42,8 +42,18 @@ DO NOT begin creating the report yet. You must first ask the user to provide the
 After you have received the information from the user, you can then proceed to create the report. Remember to use all the plugins available to create the most comprehensive and detailed report possible.
 ```
 
-## Conversation
+## Welcome Message
+Hi!
 
+
+
+This prompt will generate a comprehensive research report on any company that you want. Please keep in mind that when running on GPT-3, you will need to verify the information. 
+
+
+
+To get the most out of this prompt, run it on GPT-4 with the plugin "WebPilot" enabled.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![EGEG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226jm7Jp0cOSatbby4yR8eG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EGEG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226jm7Jp0cOSatbby4yR8eG%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -64,6 +64,9 @@ Scene 1 - The friends arrive at the campsite and set up their tents. They gather
 
 Scene 2 - The creature makes its first appearance, causing a commotion in the woods
 ```
+
+## Welcome Message
+give me a description and ill write a script
 
 ## Conversation
 
@@ -344,5 +347,4 @@ TO BE CONTINUED...
 
 
 ![Image](https://image.pollinations.ai/prompt/a_group_of_friends_investigating_in_the_woods,width=1920,height=1080,nologo=true)
-
 

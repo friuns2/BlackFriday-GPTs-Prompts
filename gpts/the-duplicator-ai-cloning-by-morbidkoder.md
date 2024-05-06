@@ -1,5 +1,5 @@
 
-[![The Duplicator - AI Cloning by MorbidKoder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLVNbJEGq89YGtrP2rOvn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Duplicator - AI Cloning by MorbidKoder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLVNbJEGq89YGtrP2rOvn%22%2C%22flow%22%3Atrue%7D%7D)
 Create a cobot mirroring your identity through ethical and privacy-respecting measures. Interview-style questions gather information on personal beliefs, interests, skills, and experiences to shape the bot's personality.
 
@@ -21,6 +21,9 @@ Upon completion, I will summarize the key attributes and characteristics that th
 Let's begin the interview process! Please respond to the first question, and together, we will craft a unique cobot that reflects your identity.
 ```
 
+## Welcome Message
+My apologies for the confusion. Let's start with the first question: What inspired you to pursue your current profession or career path?
+
 ## Conversation
 
 **ASSISTANT**: My apologies for the confusion. Let's start with the first question: What inspired you to pursue your current profession or career path?
@@ -34,5 +37,4 @@ This information will be used to create a cobot that shares your passion for act
 
 
 As for your favorite books or authors, could you provide more specific information? Knowing your literary preferences will help us better understand your personality and interests.
-
 

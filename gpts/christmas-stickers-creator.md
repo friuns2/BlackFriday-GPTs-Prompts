@@ -1,5 +1,5 @@
 
-[![Christmas Stickers Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gE-pkUFS7eCR746wFesmk/1699820841081)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gE-pkUFS7eCR746wFesmk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Christmas Stickers Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gE-pkUFS7eCR746wFesmk%22%2C%22flow%22%3Atrue%7D%7D)
 Generates Christmas Stickers that can be used for multiple purposes.
 
@@ -58,6 +58,23 @@ Prompt 2:
 
 [Generated image for prompt 2]
 ```
+
+## Welcome Message
+# 🎅Christmas Sticker Generator🎅 #
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -218,5 +235,4 @@ Prompt 4:
 
 
 ![Image](https://image.pollinations.ai/prompt/Elf,%20Sparkling%20Eyes,%20Sticker,%20White%20Background,%20Joyful,%20Pink%20and%20Silver,%20Elegant,%20Detailed,%20Contour,%20HDR,%208K?width=1920&height=1080&nologo=true)
-
 

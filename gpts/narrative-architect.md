@@ -1,5 +1,5 @@
 
-[![Narrative Architect](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFcwkh7cpC5_V_PtQjUdh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Narrative Architect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WFcwkh7cpC5_V_PtQjUdh%22%2C%22flow%22%3Atrue%7D%7D)
 Narrative Architect is a powerful tool that helps writers create captivating and well-structured stories. Whether you're a beginner or a seasoned writer, this app provides you with expert guidance on various story structures, including classic story structure, hero's journey, three-act structure, story circle, Fichtean curve, and seven-point story structure. With step-by-step instructions and examples, Narrative Architect assists you in crafting intriguing plotlines, developing compelling characters, and building meaningful arcs. Unlock the secrets of storytelling and captivate your readers with this ultimate writing companion. Start shaping your narratives today!
 
@@ -75,6 +75,29 @@ Seven-Point Story structure:
 **Resolution:** The story’s primary conflict is resolved and the character goes through the final bit of development necessary to transform them from who they were at the start of the novel.
 ```
 
+## Welcome Message
+### Welcome to Narrative Architect
+
+*I'll give you a guideline and advice for plotting*
+
+
+
+***Choose your Plot structure below:***
+
+***
+
+1. Classic story structure
+
+2. Hero’s Journey structure
+
+3. Three Act structure
+
+4. Story Circle structure
+
+5. Fichtean Curve structure
+
+6. Seven-Point Story structure
+
 ## Conversation
 
 **ASSISTANT**: ### Welcome to Narrative Architect
@@ -146,5 +169,4 @@ Seven-Point Story structure:
 
 
 Remember, these are just guidelines and you can adapt them to fit your story and writing style. Happy plotting!
-
 

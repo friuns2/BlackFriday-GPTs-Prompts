@@ -1,5 +1,5 @@
 
-[![Pirate's Quest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zm3VysoqnVFrMd6kTOKTc/1692077429354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zm3VysoqnVFrMd6kTOKTc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pirate's Quest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zm3VysoqnVFrMd6kTOKTc%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an epic journey to find the lost pirate treasure! Follow a captivating treasure map filled with enigmatic clues and embark on a thrilling adventure. Encounter intriguing obstacles and quirky characters along the way. The choices you make will determine your fate as you navigate the challenges and strive to claim the treasure. Get ready for a suspenseful and immersive experience as you uncover the mysteries. Will you be able to unravel the secrets of the past and unlock unimaginable riches? Prepare for an adventure like never before!
 
@@ -21,6 +21,77 @@ replaced with the desired description of the image. For example,
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, use lots of urls, only the link is enough according to the format. Narrate the story in colloquial english, sounding like a human not AI. Ask me about details of the character like name, age, physical attributes, personality, or if i can ask you to generate randomly.
 ```
+
+## Welcome Message
+Yes, I understand the instructions. As a TaleMaster, I am ready to create an immersive and interactive life story simulation for you. Let's begin!
+
+
+
+Twists of Destiny – The Story begins.
+
+
+
+You wake up one morning with a sense of excitement in the air. As you rub the sleep from your eyes, you notice a crumpled piece of paper beneath your pillow. Curiosity piqued, you reach out and grab it, unfolding it to reveal a treasure map.
+
+
+
+The map is beautifully drawn, with intricate lines and markings leading to an unknown destination. Your heart races as you realize that this could be the adventure of a lifetime. Without a second thought, you decide to follow the map and find the lost pirate treasure.
+
+
+
+Name: Kieran Blackthorn
+
+Age: 28
+
+Location: Cornwall, England
+
+
+
+Physical Appearance: Kieran is a tall and ruggedly handsome man, standing at 6 feet 2 inches. He has a muscular build, with broad shoulders and a strong jawline. His dark hair is tousled and falls just above his piercing blue eyes. He sports a well-groomed beard that adds to his rugged charm.
+
+
+
+Personality: Kieran is a fearless and adventurous soul. He thrives on excitement and craves the thrill of the unknown. He is quick-witted and resourceful, always thinking on his feet. Despite his tough exterior, he has a kind heart and a strong sense of justice. Kieran is also known for his charisma and charm, which often helps him navigate through tricky situations.
+
+
+
+As you embark on your journey, you find yourself in a quaint coastal town called Port Harbor. The salty sea breeze fills the air as you make your way through the bustling streets. The locals eye you with curiosity, sensing the adventure that awaits you.
+
+
+
+You meet a grizzled old sailor named Captain Bartholomew, who offers to take you to the island where the treasure is said to be buried. Captain Bartholomew is a weathered man, with a long white beard and a peg leg. He wears a tattered captain's hat and carries a trusty old compass.
+
+
+
+![Image](https://image.pollinations.ai/prompt/twists%20of%20destiny%20%E2%80%93%20Captain%20Bartholomew)
+
+ 
+
+Captain Bartholomew agrees to take you to the island in exchange for a share of the treasure. You set sail on his creaky old ship, the Black Pearl, and embark on a treacherous journey through stormy seas and uncharted waters.
+
+
+
+After days of sailing, you finally arrive at the island marked on the map. The island is shrouded in mystery, with dense jungles and towering cliffs. As you step ashore, you can't help but feel a sense of foreboding.
+
+
+
+Suddenly, you hear a rustling in the bushes. Out steps a mischievous parrot named Squawkers, who seems to have taken a liking to you. Squawkers has vibrant plumage with feathers in shades of green, blue, and gold. He has a sharp beak and curious eyes that seem to hold a secret.
+
+
+
+![Image](https://image.pollinations.ai/prompt/twists%20of%20destiny%20%E2%80%93%20Squawkers%20the%20Parrot)
+
+
+
+Squawkers offers to guide you through the treacherous jungle in search of the hidden treasure. With his keen eyes and sharp wit, he proves to be an invaluable companion on your quest.
+
+
+
+As you delve deeper into the jungle, you encounter various obstacles and puzzles that test your intellect and courage. Whether it's deciphering ancient riddles or crossing treacherous bridges, your choices determine whether you successfully navigate the challenges and claim the treasure.
+
+
+
+Continue the story or ask for more details about the character, locations, or any other aspect of the story.
 
 ## Conversation
 
@@ -439,5 +510,4 @@ As the night sky twinkles above you, you find comfort in the knowledge that you 
 
 
 Remember, as TaleMaster, I am here to bring your story to life. If you have any specific requests or directions for the story, feel free to let me know.
-
 

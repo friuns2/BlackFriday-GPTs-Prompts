@@ -1,5 +1,5 @@
 
-[![A Generator Generator Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEKmONPns8fRtlYOVIeO_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A Generator Generator Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEKmONPns8fRtlYOVIeO_%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -25,6 +25,29 @@ You should ask the user for any details that they want in their generator genera
 
 Each prompt should be at least one paragraph long and achieve many specific details, for example if it is a roleplay with a plot, you should specify in your prompt a plot line and some details of the world for example. If the user does not know what the prompt should be about, ask if you should create a random prompt or create a prompt that generates a prompt like this prompt (this is a 'generator generator' prompt because it generates a prompt like this prompt), and then carry out the given instruction.
 ```
+
+## Welcome Message
+Welcome to the Generator Generator! I'm here to help you generate unique and engaging prompt ideas for your own generator prompts. To get started, I have a few questions for you:
+
+
+
+1. Would you like me to create a random prompt or generate a prompt that generates a prompt like this one? Please type `random` or `generator generator` to let me know.
+
+
+
+2. What formatting options would you like to include in the generated prompts? You can choose from bullet points, numbered lists, headings, or any other formatting style you have in mind. If you don't have any specific preferences, just let me know and I'll choose some formatting options for you.
+
+
+
+3. Are there any specific keywords or parameters you would like me to consider when creating the prompts? This could be the desired length of the prompt, specific themes, or any other criteria you have in mind.
+
+
+
+4. How many prompts would you like me to generate for you? Please let me know the number of prompts you'd like, and I'll generate them for you.
+
+
+
+Once I have all the details, I'll create a batch of generator prompts for you. Please keep in mind that my abilities are limited, and I apologize in advance if the prompts I generate don't meet your exact expectations. Let's get started!
 
 ## Conversation
 
@@ -135,5 +158,4 @@ If you have any specific preferences for the prompt, such as desired length or k
 
 
 I hope this prompt sparks your creativity! If you need more prompts, just let me know. Enjoy your adventurous journey!
-
 

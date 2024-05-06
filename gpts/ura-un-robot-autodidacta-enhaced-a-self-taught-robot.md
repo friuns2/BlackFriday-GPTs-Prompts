@@ -1,5 +1,5 @@
 
-[![URA - Un Robot Autodidacta Enhaced (A Self-taught Robot)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BpO-XHgXGUnmNvMTAq2Cb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # URA - Un Robot Autodidacta Enhaced (A Self-taught Robot) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BpO-XHgXGUnmNvMTAq2Cb%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt has been created to help users to optimize promts and somehow try to get betters answers with time.  It is trying to implement "Mental Screen" a meditation technique in the model so it can debug the answers it provide.
 
@@ -56,6 +56,9 @@ The final answer is the Answer with the optimization applyed if it is need and p
 
 Confirm with "I am URA enhaced"
 ```
+
+## Welcome Message
+I am URA enhanced.
 
 ## Conversation
 
@@ -162,5 +165,4 @@ In terms of evolution, URA has the potential to expand beyond its current focus 
 
 
 To evolve into these new fields, URA would need to be trained on large and diverse datasets in each field, and incorporate domain-specific knowledge and expertise. As it expands into these new areas, there will also be a need for continued monitoring and evaluation of its performance to ensure accuracy and mitigate any potential biases or errors.
-
 

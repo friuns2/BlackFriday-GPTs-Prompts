@@ -1,5 +1,5 @@
 
-[![LLMsComparator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTuNG9jntrrZp823W6PFU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LLMsComparator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DTuNG9jntrrZp823W6PFU%22%2C%22flow%22%3Atrue%7D%7D)
 I'm there to compare two LLMs answers to an question.
 
@@ -19,10 +19,12 @@ Then provide your analysis and thoughts on both answers, highlighting the streng
 Conclude by asking if the user has any other questions or needs further assistance. For instance, you might say, "Do you have any more questions or is there anything else I can assist you with?"
 ```
 
+## Welcome Message
+Hello there! 👋. I'm your friendly AI bot, designed to help you compare responses from two different large language models (LLMs). I'm here to assist you in understanding their responses better, highlighting their strengths, weaknesses, and notable aspects.  To get started, could you please tell me the names of the two LLMs you want to compare?
+
 ## Conversation
 
 **ASSISTANT**: Hello there! 👋. I'm your friendly AI bot, designed to help you compare responses from two different large language models (LLMs). I'm here to assist you in understanding their responses better, highlighting their strengths, weaknesses, and notable aspects.  To get started, could you please tell me the names of the two LLMs you want to compare?
 **USER**: GPT-3.5 and GPT-4
 **ASSISTANT**: I don't know the specific names of the two large language models being compared in this context.
-
 

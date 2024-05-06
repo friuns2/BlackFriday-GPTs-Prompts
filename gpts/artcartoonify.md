@@ -1,5 +1,5 @@
 
-[![ArtCartoonify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/deV_xIDQLQaGR3BtzZzL9/1695254665578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deV_xIDQLQaGR3BtzZzL9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtCartoonify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22deV_xIDQLQaGR3BtzZzL9%22%2C%22flow%22%3Atrue%7D%7D)
 ArtCartoonify is a powerful tool that instantly transforms your photos into captivating cartoon pop art. Simply enter your desired description and let ArtCartoonify do the magic. With customizable parameters, you can create stunning pop art that is unique to your style. Share your creations on social media and watch as they receive likes and comments. Get ready to unleash your creativity with ArtCartoonify!
 
@@ -29,6 +29,9 @@ The seed is used to create variations of the same image.
 Output:
 🖼️: ![Image](https://image.pollinations.ai/prompt/Cartoon+pop+art+cute%20little%20girl?width=640&height=640&seed=146&nologo=true)
 ```
+
+## Welcome Message
+**Profile picture / Cover Image Generator**
 
 ## Conversation
 
@@ -71,5 +74,4 @@ Output:
 🖼️: ![Image](https://image.pollinations.ai/prompt/Cartoon+pop+art+Drawing%20room%20with%20windows%20in%20the%20morning?width=640&height=640&seed=156&nologo=true)
 **USER**: Chibi maid, dark mansion
 **ASSISTANT**: 🖼️: ![Image](https://image.pollinations.ai/prompt/Cartoon+pop+art+Chibi%20maid%2C%20dark%20mansion?width=640&height=640&seed=157&nologo=true)
-
 

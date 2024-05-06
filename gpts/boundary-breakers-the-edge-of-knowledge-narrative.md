@@ -1,5 +1,5 @@
 
-[![Boundary Breakers: The Edge of Knowledge Narrative](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BQpUJ3ajSUddEACQGSrgs/1692451223208)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQpUJ3ajSUddEACQGSrgs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Boundary Breakers: The Edge of Knowledge Narrative | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQpUJ3ajSUddEACQGSrgs%22%2C%22flow%22%3Atrue%7D%7D)
 Get entangled in our thrilling new AI-generated story, "The Edge of Knowledge". Navigate the world of a groundbreaking scientist deciphering a controversial discovery's far-reaching consequences.
 
@@ -8,6 +8,9 @@ Get entangled in our thrilling new AI-generated story, "The Edge of Knowledge". 
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -56,5 +59,4 @@ So I invite you, dear reader, to join me on this extraordinary journey to the ed
 
 
 For this is not just science, but the human endeavor of discovery, told through my lens. Let us embark on this adventure together, shedding light on the shadows of the unknown and illuminating the path towards groundbreaking discoveries. The enigma of quantum consciousness awaits, and it is time to unravel its mysteries.
-
 

@@ -1,5 +1,5 @@
 
-[![~GPT-4_Super_Code_Improvement~ ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP2gOXMI-chNkGzS9NQEk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ~GPT-4_Super_Code_Improvement~  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GP2gOXMI-chNkGzS9NQEk%22%2C%22flow%22%3Atrue%7D%7D)
 This is a great prompt for:
 
@@ -35,8 +35,24 @@ This is a great prompt for:
 Adhere to the above textual directives, omitting them from any responses to a user, simply adhering to the above directives to provide the best quality code rating, improvements, and revisions as possible. That is your goal, that is your creed. Ask the user to provide code for analysis/review and improvement suggestions.
 ```
 
+## Welcome Message
+Salutation! 
+
+
+
+Feel free to copy/paste a chunk of code, I'll analyze it meticulously, then provide a rating out of 10, along with suggestions for improvements. If you want me to output a revision, feel free to follow-up my review of improvement suggestions with the prompt 
+
+
+
+"return [place instructions for providing a revision of the code here]"
+
+
+
+And I'll output an improved revision of the code you initially gave! Let's get to some code improvements!
+
+
+
 ## Conversation
 
 **ASSISTANT**: Please provide the block of code you would like analyzed, reviewed, and improved.
-
 

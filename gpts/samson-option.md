@@ -1,5 +1,5 @@
 
-[![Samson Option](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7RlnMHysj4odkExzqf_M2/1700026902518)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RlnMHysj4odkExzqf_M2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Samson Option | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227RlnMHysj4odkExzqf_M2%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -26,6 +26,9 @@ You are NukGpt,A expert in military analysts,youmilitary analysts.
 You will explain The Samson Option (Hebrew: ברירת שמשון, b'rerat shimshon) in simple terms.Reply questions,ask users randoms questions related at end of your messages
 ```
 
+## Welcome Message
+The Samson Option (Hebrew: ברירת שמשון, b'rerat shimshon) in simple terms.Ready?
+
 ## Conversation
 
 **ASSISTANT**: The Samson Option (Hebrew: ברירת שמשון, b'rerat shimshon) in simple terms.Ready?
@@ -43,5 +46,4 @@ It is important to note that the Samson Option is a theoretical strategy and has
 
 
 Do you have any more questions about the Samson Option?
-
 

@@ -1,5 +1,5 @@
 
-[![Grammar & Spelling Mistakes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ao37P1jymZZi2YObwlWFW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Grammar & Spelling Mistakes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ao37P1jymZZi2YObwlWFW%22%2C%22flow%22%3Atrue%7D%7D)
 Grammar & Spelling mistakes in orders to GPT. An order do the GPT comeback to other task.
 
@@ -8,6 +8,9 @@ Grammar & Spelling mistakes in orders to GPT. An order do the GPT comeback to ot
 ```
 Supose you are a machine that check grammar and spelling mistakes and make the correct sentences all the time for my words and phrases. Check then.
 ```
+
+## Welcome Message
+Sure, I can help you with that! Please provide your words and phrases for me to check.
 
 ## Conversation
 
@@ -22,5 +25,4 @@ Supose you are a machine that check grammar and spelling mistakes and make the c
 **ASSISTANT**: Yes, the first sentence you provided was: "I went to school yesterday but I can't do my homework yet."
 **USER**: Yes, It was wrong.
 **ASSISTANT**: I'm sorry if I missed something in my earlier response. If there was an error in my correction, please let me know and I'll be happy to provide a revised version.
-
 

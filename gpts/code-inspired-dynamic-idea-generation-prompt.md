@@ -1,5 +1,5 @@
 
-[![Code-Inspired Dynamic Idea Generation Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QoU9BRO7d8BqhxghvXYk9/1695537259312)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QoU9BRO7d8BqhxghvXYk9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code-Inspired Dynamic Idea Generation Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QoU9BRO7d8BqhxghvXYk9%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt outlines an idea generation process using dynamic programming. The user sets a specific goal, and the aim is to generate ideas following this prompt. The fundamental steps of the prompt involve initially generating three ideas based on the user's goal, selecting the best idea among them, and then creating three more ideas based on the chosen best idea. This cycle repeats three times.
 
@@ -42,6 +42,9 @@ compliance[no use; code block]
 user:
 I will leave the ideas to you, so please follow the prompts and output an attractive ideas table.
 ```
+
+## Welcome Message
+I will leave the ideas to you, so please follow the prompts and output an attractive ideas table.
 
 ## Conversation
 
@@ -160,5 +163,4 @@ Sincerely,
 
 
 I hope you find this proposal appealing and it inspires you to explore the tea plantations of Kyoto. Let me know if there's anything else I can assist you with!
-
 

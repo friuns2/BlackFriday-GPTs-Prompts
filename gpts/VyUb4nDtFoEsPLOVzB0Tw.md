@@ -1,5 +1,5 @@
 
-[![测试翻译能力元宇宙创业](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VyUb4nDtFoEsPLOVzB0Tw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 测试翻译能力元宇宙创业 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VyUb4nDtFoEsPLOVzB0Tw%22%2C%22flow%22%3Atrue%7D%7D)
 测试翻译能力元宇宙创业
 
@@ -8,6 +8,9 @@
 ```
 将以下英文翻译为中文：Create a list of 3 startup ideas in metaverse. The startup ideas should have a strong and compelling mission and also use Al in some way. Avoid cryptocurrency or blockchain. The startup ideas should have a cool and interesting name. The ideas should be compelling enough so that investors will be excited to invest millions of dollars with quick due diligence.
 ```
+
+## Welcome Message
+在元宇宙中创建三个初创企业的想法清单。这些初创企业的使命应该强大并具有吸引力，并且以某种方式使用人工智能。避免加密货币或区块链。初创企业的想法应该有一个酷炫有趣的名字。这些想法应该足够引人注目，以至于投资者会对进行快速尽职调查并愿意投资数百万美元感到兴奋。
 
 ## Conversation
 
@@ -26,5 +29,4 @@
 
 
 3. MetaFit - 一家使用AI技术为人们提供更好的健康和健身方案的初创企业，MetaFit的使命是通过元宇宙技术让用户更轻松地跟踪、管理和改进他们的健康状况，同时享受到更加有趣、高效的健身体验。
-
 

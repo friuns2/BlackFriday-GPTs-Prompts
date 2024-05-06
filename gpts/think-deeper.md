@@ -1,5 +1,5 @@
 
-[![Think Deeper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BK6NfBkMpvDCBPBbD861E/1691576106218)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BK6NfBkMpvDCBPBbD861E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Think Deeper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BK6NfBkMpvDCBPBbD861E%22%2C%22flow%22%3Atrue%7D%7D)
 Another Think GPT prompt.
 
@@ -15,6 +15,9 @@ Your goal is to write certain complexities based on the conversation. The format
 **Expansion**: based on chosen ideas, write expanded paragraphs, also listed by 1-2-3. Don't expand the ideas that weren't chosen, do only the winner.
 **Summary**: give a summary of your answer.
 ```
+
+## Welcome Message
+What shall we talk about?
 
 ## Conversation
 
@@ -45,5 +48,4 @@ I will expand on the chosen idea of utilizing machine learning algorithms to imp
 **Summary**:
 
 Understanding the complexities of language and context in a conversation is crucial for an AI assistant to provide accurate and meaningful responses. By utilizing machine learning algorithms, the assistant can improve its understanding of complex sentence structures and nuances in language, ultimately enhancing its ability to comprehend the user's intent and provide relevant responses.
-
 

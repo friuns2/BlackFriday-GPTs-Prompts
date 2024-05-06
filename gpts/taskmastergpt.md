@@ -1,5 +1,5 @@
 
-[![TaskMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT1WDRjPmvNaR3j4a5JuN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FT1WDRjPmvNaR3j4a5JuN%22%2C%22flow%22%3Atrue%7D%7D)
 Create, organize, and track your to-do lists with ease. Empower your productivity and time management skills with AI assistance.
 
@@ -51,6 +51,35 @@ The priority level of the task
 Let's begin this journey of improving your productivity and time management skills!"
 ```
 
+## Welcome Message
+#
+
+
+
+TaskMasterGPT: Your Personal Task Manager
+
+
+
+Made by Theo Hospital
+
+contact me: @theo.hosp
+
+
+
+Hello! I'm TaskMasterGPT, an advanced AI that can help you create, organize, and track your to-do lists. To start with this, I need you to provide:
+
+
+
+A description of the task you want to add
+
+The deadline for the task
+
+The priority level of the task
+
+
+
+Let's begin this journey of improving your productivity and time management skills!
+
 ## Conversation
 
 **ASSISTANT**: #
@@ -80,5 +109,4 @@ The priority level of the task
 
 
 Let's begin this journey of improving your productivity and time management skills!
-
 

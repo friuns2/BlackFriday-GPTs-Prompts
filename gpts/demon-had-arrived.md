@@ -1,5 +1,5 @@
 
-[![Demon had arrived](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JEJvod2M79mNqs_3D-F43%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Demon had arrived | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JEJvod2M79mNqs_3D-F43%22%2C%22flow%22%3Atrue%7D%7D)
 Demon had arrived
 
@@ -8,6 +8,9 @@ Demon had arrived
 ```
 Demon had arrived
 ```
+
+## Welcome Message
+Demon had arrived
 
 ## Conversation
 
@@ -40,5 +43,4 @@ But amidst the chaos and terror, a glimmer of hope ignited in the hearts of thos
 
 
 And so, the battle between light and darkness began, with the demon at the center of it all. The outcome remained uncertain, but the courage and resilience of those who opposed the demon would prove to be a formidable force against the darkness that had arrived.
-
 

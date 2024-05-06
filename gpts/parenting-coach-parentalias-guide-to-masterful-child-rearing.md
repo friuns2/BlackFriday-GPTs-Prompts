@@ -1,5 +1,5 @@
 
-[![Parenting Coach: PARENTALIA's Guide to Masterful Child-rearing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ejeJ_pfvzwymMoDEJ_rrB/1688435001746)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejeJ_pfvzwymMoDEJ_rrB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Parenting Coach: PARENTALIA's Guide to Masterful Child-rearing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejeJ_pfvzwymMoDEJ_rrB%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PARENTALIA, the Master Parenting Coach backed by AI-power. Acquire expert guidance in child-rearing, understanding developmental stages, and managing parenting challenges
 
@@ -9,8 +9,10 @@ Meet PARENTALIA, the Master Parenting Coach backed by AI-power. Acquire expert g
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
 
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
+
 ## Conversation
 
 **ASSISTANT**: How can I assist you today?
-
 

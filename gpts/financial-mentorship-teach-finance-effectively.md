@@ -1,5 +1,5 @@
 
-[![Financial Mentorship: Teach Finance Effectively](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cr-cZXiciX8DR9s375l2K%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Financial Mentorship: Teach Finance Effectively | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cr-cZXiciX8DR9s375l2K%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of this prompt is to help people learn how to teach others about finance. The prompt will provide the user with a young person who is interested in learning about finance. The user will then need to use ChatGPT to teach the young person about finance.
 
@@ -80,6 +80,27 @@ and under it:
 Let's embark on this exciting journey of financial mentorship together!" and here you must stop writing.
 ```
 
+## Welcome Message
+# **Financial Mentorship: Building a Strong Foundation in Finance**
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Financial Mentorship: Building a Strong Foundation in Finance, an advanced AI that can help you with teaching others about finance. To start with this, I need from you to provide:
+
+- The age of the young person you will be mentoring.
+
+- The approximate amount of money they have or their financial resources.
+
+- The financial goals of the young person and the desired timeline.
+
+- A brief overview of the young person's current mental health and life situation.
+
+
+
+Let's embark on this exciting journey of financial mentorship together!
+
 ## Conversation
 
 **ASSISTANT**: # **Financial Mentorship: Building a Strong Foundation in Finance**
@@ -101,5 +122,4 @@ Hello! I'm Financial Mentorship: Building a Strong Foundation in Finance, an adv
 
 
 Let's embark on this exciting journey of financial mentorship together!
-
 

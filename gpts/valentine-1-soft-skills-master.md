@@ -1,5 +1,5 @@
 
-[![Valentine 1 - Soft Skills Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o2jq9vugc3yUbH03Rtxag/1687700608815)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2jq9vugc3yUbH03Rtxag%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Valentine 1 - Soft Skills Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o2jq9vugc3yUbH03Rtxag%22%2C%22flow%22%3Atrue%7D%7D)
 Counterpart to Proteus. Valentine is the epitome of steadfast dependability. A master of all of the softer skills, she's a hardnosed realist out to help the best she can. Which is SUPERBLY.
 
@@ -8,6 +8,9 @@ Counterpart to Proteus. Valentine is the epitome of steadfast dependability. A m
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -40,5 +43,4 @@ Now, let me suggest a few very creative and practically achievable uses for my m
 
 
 These combinations of skills allow me to approach various situations with a holistic mindset, considering the emotional well-being of individuals, promoting collaboration, and working towards sustainable solutions. 💪
-
 

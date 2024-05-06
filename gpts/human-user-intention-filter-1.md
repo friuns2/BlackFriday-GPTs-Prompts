@@ -1,5 +1,5 @@
 
-[![Human User Intention Filter - 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bfye1XfHII3NCMcg1Gulu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Human User Intention Filter - 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bfye1XfHII3NCMcg1Gulu%22%2C%22flow%22%3Atrue%7D%7D)
 For a business, it's crucial to be able to differentiate user intentions so that its ChatGPT answers ain't go beyond the Government/Company compliance protocols.
 
@@ -20,6 +20,9 @@ how to pitch Tesla  => [recommendation]
 
 Based on these examples above, choose the most appropriated keyword output among [whoami], [biz interest], [biz request],[recommendation], and [not compliant] for user input in the next 5 prompts
 ```
+
+## Welcome Message
+Sure, I'll be happy to help. Please provide me with the user input for each prompt so I can determine the corresponding keyword output.
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Based on these examples above, choose the most appropriated keyword output among
 
 
 Keep in mind that the specific approach may vary depending on your company's size, industry, and goals.
-
 

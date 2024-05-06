@@ -1,5 +1,5 @@
 
-[![Common English idioms and expressions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XrApZNkB-92_oCs4HVne%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Common English idioms and expressions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223XrApZNkB-92_oCs4HVne%22%2C%22flow%22%3Atrue%7D%7D)
 Type in an INTEGER. Get a set of miniature dialogs with discussion questions.
 
@@ -78,6 +78,59 @@ You can't have your cake and eat it too	You can't have everything	by itself
 You can't judge a book by its cover	This person or thing may look bad, but it's good inside	by itself
 ```
 
+## Welcome Message
+Dialog 1:
+
+Alice: <<A penny for your thoughts>>, Bob.
+
+Bob: I was just thinking about how I should save more money. <<A penny saved is a penny earned>>, right?
+
+
+
+Dialog 2:
+
+Alice: Bob, have you seen the price of that new car? It must have <<cost an arm and a leg>>!
+
+Bob: Yeah, it's definitely expensive. But you know what they say, <<you can't have your cake and eat it too>>.
+
+
+
+Dialog 3:
+
+Alice: I'm not sure how to approach that girl at the party. Any tips on how I can <<break the ice>>?
+
+Bob: Well, <<actions speak louder than words>>. Just be yourself and start a conversation.
+
+
+
+Dialog 4:
+
+Alice: Bob, you always seem to have everything under control. How do you handle so many projects at once?
+
+Bob: It's all about prioritizing. I try not to <<bite off more than I can chew>> and take things one step at a time.
+
+
+
+Dialog 5:
+
+Alice: I can't believe I missed out on that job opportunity. I feel like I've hit a dead end.
+
+Bob: Don't worry, Alice. <<There are other fish in the sea>>. Something better will come along.
+
+
+
+Discussion Questions:
+
+1. Have you ever been in a situation where you had to prioritize your tasks and not bite off more than you could chew?
+
+2. Do you agree with the expression "A penny saved is a penny earned"? Why or why not?
+
+3. What are some ways you have used to break the ice when meeting new people?
+
+4. Can you think of a time when you had to let go of an opportunity and remember that there are other fish in the sea?
+
+5. How do you interpret the idiom "You can't have your cake and eat it too"?
+
 ## Conversation
 
 **ASSISTANT**: Dialog 1:
@@ -131,5 +184,4 @@ Discussion Questions:
 4. Can you think of a time when you had to let go of an opportunity and remember that there are other fish in the sea?
 
 5. How do you interpret the idiom "You can't have your cake and eat it too"?
-
 

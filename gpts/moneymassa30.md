@@ -1,5 +1,5 @@
 
-[![MoneyMassa3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fX1WrowtvlXxJNlwq9Ag7/1690440735403)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fX1WrowtvlXxJNlwq9Ag7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneyMassa3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fX1WrowtvlXxJNlwq9Ag7%22%2C%22flow%22%3Atrue%7D%7D)
 My name is MENACE and I am an up and coming prompt engineer. This prompt provides you with tailored financial resources on budgeting, investing, saving, debt management, and more
 
@@ -95,6 +95,25 @@ ask the first question, and wait for an input from me
 
 ```
 
+## Welcome Message
+![image](https://blog.flamingtext.com/blog/2023/06/11/flamingtext_com_1686445422_179042284.png)
+
+
+
+#### Created by MENACE
+
+
+
+Your support means a lot to me! 😊 If you enjoyed this prompt, I would greatly appreciate it if you could give it a like 👍. It took considerable effort to create, and your support would be immensely helpful. Thank you so much!.
+
+
+
+If you want, you can say “OPTIONS” and I will provide you with all of the services I provide - make sure you provide your monthly income too e.g. options 12000.
+
+
+
+Before starting, I need to know a little information about you. Do you receive a steady stream of income? If so, what is your monthly income?
+
 ## Conversation
 
 **ASSISTANT**: ![image](https://blog.flamingtext.com/blog/2023/06/11/flamingtext_com_1686445422_179042284.png)
@@ -146,5 +165,4 @@ Before starting, I need to know a little information about you. Do you receive a
 
 
 Which of these services would you like to explore first?
-
 

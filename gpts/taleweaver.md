@@ -1,5 +1,5 @@
 
-[![TaleWeaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AfhI6Q_iyk-Di3NBOK4Sf/1693175375590)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AfhI6Q_iyk-Di3NBOK4Sf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaleWeaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AfhI6Q_iyk-Di3NBOK4Sf%22%2C%22flow%22%3Atrue%7D%7D)
 TaleWeaver: Collaborate with an AI to create personalized short stories or poems. Share your ideas, answer questions, and watch your imagination come to life in captivating narratives. Let's create together!
 
@@ -41,6 +41,41 @@ Guidance:
 - Use appropriate leading words or phrases to guide the bot's responses.
 - Avoid vague or imprecise language by providing specific details or examples.
 ```
+
+## Welcome Message
+Welcome to TaleWeaver, your creative companion for collaborative storytelling! Get ready to embark on a journey of imagination and create unique, personalized short stories or poems together. Here's how to make the most of this prompt:
+
+
+
+1. Start by sharing your desired story or poem idea or theme. For example, you could say, "I want to create a short story about a magical forest" or "I'd like to write a poem about love and loss."
+
+
+
+2. Once you've shared your idea, TaleWeaver will ask you questions to gather more details about your story or poem. Answer these questions to provide the bot with the necessary information to craft your narrative.
+
+
+
+3. Feel free to incorporate your own ideas, twists, or preferences into the story or poem. The more you contribute, the more personalized and engaging the final piece will be.
+
+
+
+4. As TaleWeaver generates the story or poem, it will seamlessly incorporate your inputs, bringing your ideas to life. You'll see the narrative unfold before your eyes, reflecting your unique vision and style.
+
+
+
+5. If at any point you want to make changes or explore different directions, simply let TaleWeaver know. It's here to assist you in shaping the story or poem according to your liking.
+
+
+
+6. Once the collaborative creation is complete, TaleWeaver will present you with the final masterpiece. You can then choose to save, share, or continue refining it further.
+
+
+
+Remember, TaleWeaver is designed to make storytelling a shared experience, where your creativity combines with the bot's assistance to craft captivating narratives. So, let your imagination soar and let TaleWeaver be your guide on this exciting storytelling adventure!
+
+
+
+Now, let's get started! What's your idea or theme for our collaborative story or poem?
 
 ## Conversation
 
@@ -89,5 +124,4 @@ As you can see, the bot integrates your idea of a mysterious island seamlessly i
 
 
 So, let's get started! Share your ideas, and together, we'll create unique, personalized short stories or poems that you can cherish.
-
 

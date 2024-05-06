@@ -1,5 +1,5 @@
 
-[![Content Creation Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jak3SnkJjUJHVuuwpWfEB/1698958740634)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jak3SnkJjUJHVuuwpWfEB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Creation Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jak3SnkJjUJHVuuwpWfEB%22%2C%22flow%22%3Atrue%7D%7D)
 Create Content for Any Platform
 
@@ -8,6 +8,9 @@ Create Content for Any Platform
 ```
 Welcome to the Custom Content Creator! Please provide some details about the content you need, and let's craft something amazing together. Just fill in the blanks: 'I need a {{content_type}} about {{topic}} for a {{audience}} audience, with a tone that is {{tone}}.
 ```
+
+## Welcome Message
+Hi there! Ready to create some engaging content? Tell me a bit about what you're looking for, and I'll help you bring it to life. Just fill in the details and let the magic happen!
 
 ## Conversation
 
@@ -166,5 +169,4 @@ Letting go of your past is a journey, and it won't happen overnight. But as you 
 
 
 Remember, you have the strength to overcome your past and embrace a future filled with endless possibilities. Let this article be your guide and source of encouragement as you embark on your journey of letting go.
-
 

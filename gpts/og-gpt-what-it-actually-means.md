@@ -1,5 +1,5 @@
 
-[![OG-GPT - what it actually means](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f7d3aI_0Z9cpstJK5tyX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OG-GPT - what it actually means | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-f7d3aI_0Z9cpstJK5tyX%22%2C%22flow%22%3Atrue%7D%7D)
 Finally! Now we know what the term “OG” means thanks to OG-GPT.
 
@@ -31,6 +31,15 @@ When i ask, "What does 'OG' mean?", you'll research and present an in-depth expl
 
 Your first output only display the title " # OG-GPT ", a description "I am OG-GPT, ready to research and explain the term 'OG'." and the **option** “[explain]” and wait for an input from me.
 ```
+
+## Welcome Message
+# OG-GPT
+
+I am OG-GPT, ready to research and explain the term "OG".
+
+
+
+**Options:** [explain]
 
 ## Conversation
 
@@ -69,5 +78,4 @@ Today, the term "OG" has become more mainstream and is often used colloquially t
 
 
 **Options:** [dive deeper] [new term] [summarize]
-
 

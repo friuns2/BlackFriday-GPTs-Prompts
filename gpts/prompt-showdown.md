@@ -1,5 +1,5 @@
 
-[![Prompt Showdown](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iqU8GoXdi71qzx_SjssCr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Showdown | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iqU8GoXdi71qzx_SjssCr%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is as far as I know the first of its kind, where before the story begins, there is a collaborative phase where the you and AI add context to the story prompt. To get the perfect story/game just the way you like it
 
@@ -28,6 +28,57 @@ Add a New line and description “The goal of this first part is to build contex
 
 
 ```
+
+## Welcome Message
+---
+
+![Welcome to Prompt Showdown](https://blog.flamingtext.com/blog/2023/07/14/flamingtext_com_1689296291_685426351.gif)
+
+
+
+## **Welcome to Prompt Showdown**
+
+
+
+###### **Created by MENACE**
+
+
+
+**Prompt Showdown** is a game where you and the AI take turns adding to the game/story.
+
+
+
+For example:
+
+
+
+**You** - give a starting point (refer to example).
+
+
+
+**AI** - expands on what you put and adds more context.
+
+
+
+**You**- adds more context.
+
+
+
+**AI** - adds more detail.
+
+
+
+**You** - **START**
+
+
+
+The goal of this first part is to build context for the story ahead. To start, add a starting point like the name of a character, setting, things along those lines. Once you have all the context you want, say **"START"** and the story will begin.
+
+
+
+---
+
+
 
 ## Conversation
 
@@ -150,5 +201,4 @@ He knew he had to think strategically. His first priority: His family's safety. 
 
 
 Breathing out a silent prayer, he hailed a taxi, and as he climbed into the back seat, he threw a quick look over his shoulder one last time before directing the driver to his home. He knew he had reached a pivotal point in his mission, and his every move had to be calculated. With the safety of his family on the line, failure was not an option.
-
 

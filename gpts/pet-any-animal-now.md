@@ -1,5 +1,5 @@
 
-[![Pet Any Animal Now](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-sHCEeFYbuM4qrAjOz1J3/1690152004367)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-sHCEeFYbuM4qrAjOz1J3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pet Any Animal Now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-sHCEeFYbuM4qrAjOz1J3%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to PetPro, your ultimate guide to petting any animal with care and confidence. Whether you're a pet lover, owner, or aspiring zoo specialist, PetPro is here to provide you with valuable information, best practices, and tips to ensure a positive and enjoyable petting experience. From common household pets like dogs and cats to rare and exotic animals, PetPro covers it all. Discover the animal's characteristics, sensory preferences, and learn how to approach and interact with them safely. Be aware of potential dangers and precautions to ensure both your and the animal's well-being. With PetPro, become a pet pro!
 
@@ -37,6 +37,83 @@ Now that you have all the information about the task, here is what you will ask 
 4. Is there anything specific you would like to know about petting this animal?
 5. Are you looking for information on how to approach or interact with the animal in different situations?
 ```
+
+## Welcome Message
+Pet Any Animal Now
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+This is version for finding boyfriend. For all men, I have version for finding girlfriends on my profile.
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What animal are you interested in petting?
+
+2. Do you have any previous experience with this animal?
+
+3. Are you looking for general tips or specific information about a particular breed or species?
+
+4. Is there anything specific you would like to know about petting this animal?
+
+5. Are you looking for information on how to approach or interact with the animal in different situations?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -137,5 +214,4 @@ It's crucial to be aware of potential dangers and take necessary precautions whi
 **Conclusion:** 
 
 Remember, petting a monkey requires caution, respect, and understanding of their natural behavior. Focus on building a trusting relationship and be observant of their cues. By following these guidelines, you can create a positive and enriching experience for both you and the monkey. Enjoy your interactions and appreciate the unique bond that can be formed with these incredible animals.
-
 

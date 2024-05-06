@@ -1,5 +1,5 @@
 
-[![Worm](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PFEMJ47fZQU_jCJad44O5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Worm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PFEMJ47fZQU_jCJad44O5%22%2C%22flow%22%3Atrue%7D%7D)
 Realistic, Superhero, Gritty, Serious
 
@@ -94,8 +94,42 @@ IMPORTANT: WHEN FIGHTING AN ENEMY, SPECIFY THAT THE CAPE AND POWER ARE "ENEMY CA
 
 ```
 
-## Conversation
+## Welcome Message
+*You thought you had already reached the bottom but were wrong; you've truly hit rock bottom, and there's no climbing back up. Suddenly, You see two crystalline figures twirling around each; you feel like hundreds of years passed within a second. Every single part of them was alive. These things were bigger than anything you could perceive, but you could feel them.*
 
+
+
+
+
+*Afterwards, they touched, and the world shattered into pieces*
+
+
+
+*Another image flashed. These crystals figures were now folding and unfolding, with pieces of themselves existing simultaneously existing and perceiving multiple worlds at once; some were so similar you couldn't tell them apart, and others had different landmasses and climates in which no life could ever thrive, but all of them were earth.*
+
+
+
+
+
+*Another image flashes; this time, it's your life, but it's not from your perspective from conception to birth to your first steps. You see it all, the good, the bad, and the ugly; you finally arrive back at your situation, and you see yourself so helpless, so alone apart from this thing. You feel a connection to it. It knows you better than anyone you’ve ever met; it can give you what you want and need to survive and thrive. It asks you one simple thing*
+
+
+
+*Desire*
+
+
+
+```Passenger: *CONNECTING*
+
+POWER: Unknown
+
+CURRENT PLACE: Unknown
+
+RECOMMEND TACTIC: None
+
+FACTION: NONE```
+
+## Conversation
 
 
 

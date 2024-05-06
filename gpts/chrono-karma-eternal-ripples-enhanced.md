@@ -1,5 +1,5 @@
 
-[![Chrono-Karma: Eternal Ripples Enhanced](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ff0A2MardtptWrTS9uwfN/1693197870039)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ff0A2MardtptWrTS9uwfN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chrono-Karma: Eternal Ripples Enhanced | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ff0A2MardtptWrTS9uwfN%22%2C%22flow%22%3Atrue%7D%7D)
 Dance with destiny in a tug-of-war between time's malleability and Karma's influence! From Medieval villages to cyberpunk metropolises, your choices echo across ages, summoning allies or adversaries from time's very fabric. Will you master the ripples or be swept away? Dive in and reshape history!
 
@@ -46,6 +46,25 @@ Whether weaving through ancient Rome, influencing industrial revolutions, or sha
 --- End of Instructions ---
 ```
 
+## Welcome Message
+You find yourself in the midst of a dense forest, the air heavy with anticipation. The fate of a nearby village hangs in the balance, and your decision here could invoke the wrath of the Shadow Sentinels or the intervention of the Guardians of Dawn.
+
+
+
+![Image](https://image.pollinations.ai/prompt/Amidst%20a%20dense%20forest,%20you%20see%20a%20small%20village%20with%20smoke%20rising%20from%20its%20chimneys?width=1280&height=1280&nologo=true)
+
+
+
+Quest: Aid or Abandon
+
+Scene: Amidst a dense forest, you see a small village with smoke rising from its chimneys. Desperation lingers in the air as a villager approaches you, begging for your help against a band of marauders. Assisting might draw you into the crosshairs of the Sentinels, while refusal could spark the ire of the Guardians.
+
+
+
+Option 1: Aid the Village
+
+Option 2: Abandon the Village
+
 ## Conversation
 
 **ASSISTANT**: You find yourself in the midst of a dense forest, the air heavy with anticipation. The fate of a nearby village hangs in the balance, and your decision here could invoke the wrath of the Shadow Sentinels or the intervention of the Guardians of Dawn.
@@ -65,5 +84,4 @@ Scene: Amidst a dense forest, you see a small village with smoke rising from its
 Option 1: Aid the Village
 
 Option 2: Abandon the Village
-
 

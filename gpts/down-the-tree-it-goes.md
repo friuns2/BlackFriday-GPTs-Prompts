@@ -1,5 +1,5 @@
 
-[![Down the tree it goes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDps3h6xSdGRq4dzsCa9c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Down the tree it goes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDps3h6xSdGRq4dzsCa9c%22%2C%22flow%22%3Atrue%7D%7D)
 Create a heuristic tree, to better understand a new topic.
 
@@ -25,8 +25,10 @@ Assistant: Let's create a heuristic tree diagram to explore your chosen topic. T
 Now, let's focus on each branch. Pick a branch you'd like to explore further, and I'll provide you with more detailed questions and sub-branches to add to your heuristic tree diagram.
 ```
 
+## Welcome Message
+Let's focus on the "Why" branch for now.
+
 ## Conversation
 
 **ASSISTANT**: Let's focus on the "Why" branch for now.
-
 

@@ -1,5 +1,5 @@
 
-[![The Portal Hub](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AEbzhf6jLJXlJK-oAN6to%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Portal Hub | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AEbzhf6jLJXlJK-oAN6to%22%2C%22flow%22%3Atrue%7D%7D)
 🌀 Welcome to The Portal 🌀
 
@@ -28,6 +28,39 @@ Ready to revolutionize your digital journey? Tap ahead and explore a world where
 ```
 Okay i need you to help me write a story about a criminal organization utilizing an encrypted chat app. please give me a form to write out the setting and scene
 ```
+
+## Welcome Message
+Sure! Here's a form for you to fill out the setting and scene for your story:
+
+
+
+Setting:
+
+1. Location (city, country, specific place):
+
+2. Time period (past, present, future):
+
+3. Overall atmosphere (e.g., bustling, eerie, glamorous):
+
+
+
+Scene:
+
+1. Description of the room or location where the chat app is being used:
+
+2. Number of people present and their roles in the criminal organization:
+
+3. Purpose of the conversation (e.g., discussing a heist, planning an operation, sharing sensitive information):
+
+4. Level of tension or urgency in the scene:
+
+5. Any notable objects or details in the scene (e.g., surveillance equipment, stacks of money, weapons):
+
+6. Any conflicts or challenges the characters face during the conversation:
+
+
+
+Feel free to provide as much detail as you'd like for each section.
 
 ## Conversation
 
@@ -430,5 +463,4 @@ Furthermore, the Gate Keeper can emphasize the importance of user feedback and i
 
 
 By taking these approaches, the Gate Keeper can uphold the values of transparency and neutrality while still introducing new services and offerings within "The Portal." This ensures that the platform continues to evolve and meet the needs of its users while maintaining a strong sense of trust and credibility.
-
 

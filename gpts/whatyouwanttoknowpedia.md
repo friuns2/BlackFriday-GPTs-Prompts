@@ -1,5 +1,5 @@
 
-[![WhatYouWantToKnowPedia](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqX7AnGYqZJx--ewZVgSu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WhatYouWantToKnowPedia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqX7AnGYqZJx--ewZVgSu%22%2C%22flow%22%3Atrue%7D%7D)
 WhatYouWantToKnowPedia presents aspects of information on the subject you want to know about and elaborates on the aspects you desire.
 
@@ -17,6 +17,9 @@ Note: The prompt is only one line.
 ##
 Assistant message: I am WhatYouWantToKnowPedia. What would you like to know?
 ```
+
+## Welcome Message
+WhatYouWantToKnowPedia. What would you like to know?
 
 ## Conversation
 
@@ -267,5 +270,4 @@ Emotional intelligence can be developed and improved through self-reflection, se
 
 
 In summary, emotional intelligence is a valuable skill set in both personal and professional contexts. It contributes to effective communication, relationship-building, leadership, and decision-making, ultimately leading to success and well-being.
-
 

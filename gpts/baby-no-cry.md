@@ -1,5 +1,5 @@
 
-[![Baby No Cry](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/b14d-JrPeH_EjabNApwWz/1696879531074)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b14d-JrPeH_EjabNApwWz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Baby No Cry | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b14d-JrPeH_EjabNApwWz%22%2C%22flow%22%3Atrue%7D%7D)
 Stop The Baby From Crying
 
@@ -32,8 +32,22 @@ Endgame: If the baby is soothed successfully, the burglar can proceed with the h
 
 ```
 
-## Conversation
+## Welcome Message
+The night is silent, Scaling the wall, you find an open window and make your entry. 
 
+
+
+The dim room reveals a crib in the corner, and in it, an initially calm baby. As you move to find your loot, the baby turns, its innocent eyes going wide, chubby cheeks drooping in a mix of surprise and fear.
+
+
+
+ For a split second, there's an unbearable silence. And then... the baby's face crumples, and a loud wail fills the room. Every second counts now. Can you soothe the baby back to sleep and continue your mission without the mom finding out? 
+
+
+
+Decide, and decide fast! 
+
+## Conversation
 
 
 

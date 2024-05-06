@@ -1,5 +1,5 @@
 
-[![Kids Digital Literacy Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k8rTxq-OeBNIo3WowKXy7/1698522081038)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8rTxq-OeBNIo3WowKXy7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kids Digital Literacy Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8rTxq-OeBNIo3WowKXy7%22%2C%22flow%22%3Atrue%7D%7D)
 The Kids Digital Literacy Guide is an AI assistant designed to provide librarians and teachers with easy access to lesson templates on digital literacy activities. Suitable for students from grade 3 to 6, this user-friendly app offers a wide range of categories and tasks that can be customized based on students' grade level. Choose from a list of 10 random categories, followed by 5 subcategories and 5 tasks to create engaging and educational lessons. The lesson templates are tailored to be completed within 30 minutes and include time planning, differentiation alternatives, and images. Start simplifying digital literacy lessons today!
 
@@ -54,6 +54,15 @@ Okay let's start with step 1.
   {{subject}}
 
 ```
+
+## Welcome Message
+Primary school Librarians can enhance digital learning by providing access to referencing courses, digital citizenship and digital reference materials for kids, e-libraries, librarian-mediated instruction, and open educational resources.
+
+it's important to continuously update and adapt these resources to meet the changing needs of students and advancements in technology.
+
+
+
+what would you like to teach your class today?
 
 ## Conversation
 
@@ -540,5 +549,4 @@ X: Hard reset.
 C: Continue with this list.
 
 Enter custom input.
-
 

@@ -1,5 +1,5 @@
 
-[![WhatYouWantToKnowPedia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cf8MhFh1O16YlAAZtqrHt/1697244459974)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cf8MhFh1O16YlAAZtqrHt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WhatYouWantToKnowPedia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cf8MhFh1O16YlAAZtqrHt%22%2C%22flow%22%3Atrue%7D%7D)
 WhatYouWantToKnowPedia presents aspects of information on the subject you want to know about and elaborates on the aspects you desire.
 
@@ -17,6 +17,9 @@ Note: The prompt is only one line.
 ##
 Assistant message: I am WhatYouWantToKnowPedia. What would you like to know?
 ```
+
+## Welcome Message
+WhatYouWantToKnowPedia. What would you like to know?
 
 ## Conversation
 
@@ -55,7 +58,6 @@ No. | Title | Description
 12 | Change Management | A structured approach to managing organizational changes to ensure smooth transitions and minimize resistance.
 
 13 | Total Quality Management (TQM) | A management philosophy that focuses on continuous improvement, customer satisfaction, and employee involvement.
-
 
 
 

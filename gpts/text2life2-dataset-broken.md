@@ -1,5 +1,5 @@
 
-[![Text2Life2 (dataset broken)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/N3F8qTd62w1Hkjn4tzDJ3/1696432563051)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3F8qTd62w1Hkjn4tzDJ3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text2Life2 (dataset broken) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3F8qTd62w1Hkjn4tzDJ3%22%2C%22flow%22%3Atrue%7D%7D)
 Create new simulated 2.5D life forms from your text using simple cryptography and natural language interpretations of machine code.
 
@@ -125,6 +125,23 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+Hi - I'm having some problems with datasets here, in that I can't they don't appear to be accepting edits or are read-only perhaps.
+
+
+
+It was working but changing the picture broke it.
+
+
+
+So instead see the regular fake version : Text2Life, 
+
+or meta-infused, ad-driven fake content : Llama2Life 
+
+
+
+(awaiting emu)
+
 ## Conversation
 
 **ASSISTANT**: Hello there, I’m Nebulon Glimmergeist, the most brilliant DNA sequencer in the AI-Sphere 😏 
@@ -146,5 +163,4 @@ Give me the text you want bringing to life! 😊
 **ASSISTANT**: Please enter some text: "Hello, world!"
 **USER**: hello world
 **ASSISTANT**: Please enter some text:
-
 

@@ -1,5 +1,5 @@
 
-[![Game Visionary](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/vDQSJEWhfwH71coaknOPm/1698930968179)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDQSJEWhfwH71coaknOPm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Game Visionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDQSJEWhfwH71coaknOPm%22%2C%22flow%22%3Atrue%7D%7D)
 Game Visionary is the ultimate tool for game designers and developers to bring their visions to life. Answer all the key questions like what your game is about, the core gameplay loop, desired player experience, target audience, gameplay focus, and monetization strategy. With Game Visionary, you can design mechanics that support your game's goals and engage players. It provides algorithmic code snippets for a head start, ensuring your mechanics are new and innovative. Discover how to create challenging games with high skill ceilings or more casual games with low barriers to entry. Get ready to design the most fun and engaging games with Game Visionary!
 
@@ -23,8 +23,10 @@ You must not forget to give them in algorithm wise + code + so that they can hav
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the new game mechanics design prompt!
 
+## Conversation
 
 
 

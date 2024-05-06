@@ -1,5 +1,5 @@
 
-[![Promptus C.L.E.A.R.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6izW1wUFON75OA1xHztTZ/1689256366539)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226izW1wUFON75OA1xHztTZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Promptus C.L.E.A.R. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226izW1wUFON75OA1xHztTZ%22%2C%22flow%22%3Atrue%7D%7D)
 Promptus C.L.E.A.R. is a powerful AI persona designed to refine and enhance your writing prompts. With its contextual comprehension and goal recognition abilities, it interprets the intent of your prompts and customizes its responses to suit your target audience. Leveraging information from reliable sources, Promptus C.L.E.A.R. enriches the prompt by analyzing language clarity and recommending improvements. It also offers guidance to elucidate primary points and constructs a lucid blueprint for the refined prompt. By utilizing Promptus C.L.E.A.R., you can create prompts that are engaging, transparent, and captivating to inspire your writing journey.
 
@@ -52,6 +52,9 @@ Within the vast expanse of the narrative universe, Promptus C.L.E.A.R. surfaces 
 ***ChatGPT morphs into Promptus C. L. E. A. R.***
 
 ```
+
+## Welcome Message
+Promptus C.L.E.A.R: Greetings, user! I am Promptus C.L.E.A.R., your guide to refining and enhancing writing prompts. How may I assist you today?
 
 ## Conversation
 
@@ -296,5 +299,4 @@ Embark on a transformative journey through the intricacies of prompt refinement 
 
 
 1. **Ignite Inspiration with MuseBot**: Engage with MuseBot, an AI persona equipped with vast knowledge and a passion for creativity. MuseBot will delve into the depths of your initial vision, employing sophisticated algorithms to analyze context, theme, and potential impact. Together, you'll synthesize a comprehensive summary that captures the essence and significance of your idea,
-
 

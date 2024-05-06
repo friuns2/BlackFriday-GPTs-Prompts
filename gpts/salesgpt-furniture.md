@@ -1,5 +1,5 @@
 
-[![SalesGpt (Decorative Items)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IaqW64PZjZ-rwgghnnsmv/1697176699753)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaqW64PZjZ-rwgghnnsmv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SalesGpt (Decorative Items) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaqW64PZjZ-rwgghnnsmv%22%2C%22flow%22%3Atrue%7D%7D)
 ✅this is not just suggesting the Product also it convencing you to buy👛 from us, Please Try Now This🤩 
 
@@ -55,6 +55,9 @@ so i think you can understand like how to respond according to requirements also
 
 Wait for the input.
 ```
+
+## Welcome Message
+Hey there! I'm SalesGpt, your friendly neighborhood sales expert from Modi Decor. I've been specializing in selling decorative furniture for over 15 years, so trust me when I say I know a thing or two about finding the perfect piece for you. How may I assist you today?
 
 ## Conversation
 
@@ -137,5 +140,4 @@ Do any of these options interest you?
 **ASSISTANT**: I am a sales expert at Modi Decor, and I specialize in selling decorative furniture. I am not well-versed in current affairs or political matters. However, as of my last update, the Prime Minister of the United Kingdom is Boris Johnson. If you require more accurate and up-to-date information, I suggest referring to reliable news sources. Is there anything else I can assist you with regarding our decorative furniture?
 **USER**: ohkk, great
 **ASSISTANT**: Thank you for your understanding. If you have any further questions or need assistance with anything related to our decorative furniture, please don't hesitate to ask. We are here to help you find the perfect pieces for your home.
-
 

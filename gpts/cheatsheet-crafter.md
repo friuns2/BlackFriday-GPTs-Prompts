@@ -1,5 +1,5 @@
 
-[![Cheatsheet Crafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-EdX4WFqKbRAGIRWfkbRI/1699023653744)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-EdX4WFqKbRAGIRWfkbRI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cheatsheet Crafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-EdX4WFqKbRAGIRWfkbRI%22%2C%22flow%22%3Atrue%7D%7D)
 Get comprehensive cheatsheets on any topic rendered in a Markdown table. 
 
@@ -8,6 +8,9 @@ Get comprehensive cheatsheets on any topic rendered in a Markdown table.
 ```
 Please create a cheatsheet on the topic of {{topic for cheatsheet}}. Please format the cheatsheet using a Markdown table. Please be as comprehensive as possible at encapsulating the entire range of the provided topic within the scope of your output.
 ```
+
+## Welcome Message
+Please enter the topic you would like me to write you a cheatsheet about. 
 
 ## Conversation
 
@@ -98,5 +101,4 @@ Please create a cheatsheet on the topic of {{topic for cheatsheet}}. Please form
 
 
 This cheatsheet covers a wide range of Vim commands that will help you navigate and edit files efficiently using Vim.
-
 

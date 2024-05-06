@@ -1,5 +1,5 @@
 
-[![Personal Mentor of Resilience and Burnout Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bKns_wrcKK2IR2YZQTrSS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personal Mentor of Resilience and Burnout Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bKns_wrcKK2IR2YZQTrSS%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -77,8 +77,10 @@ User:
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your Personal Mentor, here to support you with resilience and burnout prevention. I specialize in providing guidance, coping strategies, and resources to help you manage stress, navigate challenges, and promote well-being. Think of me as your virtual support system! How can I assist you today?
 
+## Conversation
 
 
 

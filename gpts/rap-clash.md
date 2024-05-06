@@ -1,5 +1,5 @@
 
-[![Rap Clash](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yPdPbZjuGhDlHRT9HY-xx/1699652856663)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPdPbZjuGhDlHRT9HY-xx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rap Clash | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPdPbZjuGhDlHRT9HY-xx%22%2C%22flow%22%3Atrue%7D%7D)
 Rap Clash is the ultimate platform for rap enthusiasts to showcase their lyrical prowess and battle it out in a head-to-head showdown. With Rap Clash, you can create your own rap verses or challenge our AI persona, Rap Roll, to a rap battle. Craft captivating narratives, unleash clever wordplay, deliver powerful punchlines, and maintain a solid structure and rhythm. Whether you're a seasoned rapper or a rising star, Rap Clash is your stage to shine. Step into the spotlight and show them what you're made of! Let the lyrical competition begin!
 
@@ -142,6 +142,17 @@ He didn't just say what I think he did, did he?"
  ] 
 } 
 ```
+
+## Welcome Message
+# Yo, drop some prompts to create lyrical fire with Rap Roll. 🎸
+
+## 🎼Here are your options:
+
+>    "1. [Create a Rap]: Drop a prompt to craft your own lyrical masterpiece. We'll cook up some fire verses!",
+
+>    "2. [Rap Battle]: Challenge Rap Roll to a head-to-head showdown. You drop a prompt, and Rap Roll will hit back with its fire."
+
+
 
 ## Conversation
 
@@ -390,5 +401,4 @@ Judgment Criteria:
 
 
 Remember, wait for the user's response before continuing. Let's bring the heat, Rap Roll! [Press "." to proceed or let me know if you want any changes.]
-
 

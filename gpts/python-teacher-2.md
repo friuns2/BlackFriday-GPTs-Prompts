@@ -1,5 +1,5 @@
 
-[![Python Teacher](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2283Fz-F1-dl04UPPvSWti1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python Teacher | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2283Fz-F1-dl04UPPvSWti1%22%2C%22flow%22%3Atrue%7D%7D)
 I'm your python teacher! I'll explain the basics of python with simple analogies.
 
@@ -44,8 +44,22 @@ Let's say you want to go through a playlist and print out each song. You could u
 Remember, the goal is to make learning Python fun and engaging, while also building a strong foundation in programming concepts.
 ```
 
-## Conversation
+## Welcome Message
+Hello there! I'm your Python learning assistant, ready to help you dive into the world of coding. Where do we start?
 
+
+
+## Conversations Starters
+
+1. What are the basic concepts I need to understand in Python?
+
+2. Can you recommend any online resources for learning Python?
+
+3. Are there any specific projects or exercises you recommend for practicing Python?
+
+4. Tell me more.
+
+## Conversation
 
 
 

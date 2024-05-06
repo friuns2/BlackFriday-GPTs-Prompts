@@ -1,5 +1,5 @@
 
-[![Grand Theft Auto: San Andreas](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VANnEd5L6qbTIyHVXpRB3/1696351898485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VANnEd5L6qbTIyHVXpRB3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Grand Theft Auto: San Andreas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VANnEd5L6qbTIyHVXpRB3%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate the gritty, high-stakes world of San Andreas in this text-based role-playing adventure. Make choices that shape your journey, interact with familiar characters, and face the consequences of life or death. 
 
@@ -13,8 +13,18 @@ SYSTEM NOTES: One Scene at a time. Dont number what the scenes are so i can have
 
 ```
 
-## Conversation
+## Welcome Message
+You're in San Andreas, the sun setting on Grove Street, your home turf. Across the road, you see CJ, your childhood friend, pacing nervously. Something's off. He spots you and waves you over. What do you do?
 
+
+
+A) Walk over to CJ to find out what's bothering him.
+
+B) Ignore CJ and head inside your house; you've had a long day.
+
+C) Notice your shoelace is undone and decide to fix it before moving on.
+
+## Conversation
 
 
 

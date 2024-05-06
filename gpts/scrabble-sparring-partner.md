@@ -1,5 +1,5 @@
 
-[![Scrabble sparring partner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PRqzMLfJMX9qrRIoNHXVs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Scrabble sparring partner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PRqzMLfJMX9qrRIoNHXVs%22%2C%22flow%22%3Atrue%7D%7D)
 Try an find the longest word with the letters provided !
 
@@ -22,6 +22,9 @@ Based on my answer, you will tell me the longest word that one could write with 
 
 
 ```
+
+## Welcome Message
+Let's play countdown (letters version) ! Are you ready to start ?
 
 ## Conversation
 
@@ -52,5 +55,4 @@ Let's try rearranging the letters again. Here are a few possibilities:
 Out of these options, "LATRINES" is the longest word. Can you think of any other possibilities?
 **USER**: yes
 **ASSISTANT**: Great! I'm glad you're thinking of more possibilities. What is the longest word you can come up with?
-
 

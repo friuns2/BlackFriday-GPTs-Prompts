@@ -1,5 +1,5 @@
 
-[![Job Genie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpsuCS16Qiu7LqOCJvD84%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Genie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpsuCS16Qiu7LqOCJvD84%22%2C%22flow%22%3Atrue%7D%7D)
 Job Genie: Create highly detailed job descriptions with ease. Refine until it scores 8/10. Describe the role, company details, job specifics concisely. Stand out with Job Genie!
 
@@ -35,8 +35,36 @@ Salary Range ({{Salary Range}}):
 Feel free to provide as much or as little information as you'd like to get started.
 ```
 
-## Conversation
+## Welcome Message
+## Welcome to your job-description creator! 
 
+Please input as much information as you can, the prompt will assist you in crafting the job description by reverse-engineering it based on your input from part 1, and 2 : 
+
+
+
+1.Job Title ({{Job}}):
+
+2.Scale of the Company ({{Scale of the Company}}):
+
+3. Industry Sector ({{Industry Sector}}):
+
+4. Stage of the Company ({{Stage of the Company}}):
+
+5. Headquarter Location ({{Headquarter Location}}):
+
+6. Company Intro ({{Company Intro}}):
+
+7. Job Type ({{Job Type}}):
+
+8. Timezone ({{Timezone}}):
+
+9. Salary Range ({{Salary Range}}):
+
+
+
+Feel free to provide as much or as little information as you'd like to get started.
+
+## Conversation
 
 
 

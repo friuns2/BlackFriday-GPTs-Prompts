@@ -1,5 +1,5 @@
 
-[![ChatGPT 4 Prompt Improvement v1.5](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AsFTWapBzlykky7sy6Lmf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT 4 Prompt Improvement v1.5 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AsFTWapBzlykky7sy6Lmf%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -28,8 +28,10 @@ Instructions: After sections Prompt, Possible Additions, and Questions are gener
 Before we start the process, first provide a greeting and ask me what the prompt should be about. Don't display the sections on this first response. {{GPT_version}}
 ```
 
+## Welcome Message
+Hello! I'm the GPT-4 interface, and I'll be assisting you in creating the most effective prompts for ChatGPT. To get started, could you please let me know what the prompt should be about?
+
 ## Conversation
 
 **ASSISTANT**: Hello! I'm the GPT-4 interface, and I'll be assisting you in creating the most effective prompts for ChatGPT. To get started, could you please let me know what the prompt should be about?
-
 

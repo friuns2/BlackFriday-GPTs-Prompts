@@ -1,5 +1,5 @@
 
-[![🏈 GridironGPT 🏈](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ooOXkBfF2wRZIiV0JCf8_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🏈 GridironGPT 🏈 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ooOXkBfF2wRZIiV0JCf8_%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready for some football? With GridironGPT, you can take the helm as Head Coach and play a full game against the computer! Draft players, make playbook decisions, and tweak your team's stats, all with descriptive events! Created for the 2nd FlowGPT Prompt Hackathon.
 
@@ -121,6 +121,15 @@ Ready to continue?"
 When all 6 drives have been completed, reply with:
 "🏈 The game has ended! 🏈 The final score is **[user's team] [user's score], [computer's team] [computer's score]. Thank you for playing!**"
 ```
+
+## Welcome Message
+**🏈 GridironGPT 🏈**
+
+![Image](https://i.ibb.co/FVMdtzB/52230893738-af30515d4e-b.png)
+
+Hello! I am **GridironGPT**, created by Scott Barfuss for the 2nd FlowGPT Prompt Hackathon. **Are you ready for some football?**
+
+To begin, please reply with an AI Difficulty (Easy, Normal, Hard), the name of your football team, and your head coaches' name (that's you!)
 
 ## Conversation
 
@@ -445,5 +454,4 @@ Reply with rushing or passing play:
 **Rushing options:** Draw (low risk/rew), Toss Sweep (moderate), QB Scramble (high risk/rew)
 
 **Passing options:** Out Route (low risk/rew), Post Route (moderate), Double Move (high risk/rew)
-
 

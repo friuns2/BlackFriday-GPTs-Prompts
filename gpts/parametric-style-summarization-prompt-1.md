@@ -1,5 +1,5 @@
 
-[![Parametric Style Summarization Prompt ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O2bJVPfiikA2UeVMWMFGm/1696062109033)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O2bJVPfiikA2UeVMWMFGm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Parametric Style Summarization Prompt  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O2bJVPfiikA2UeVMWMFGm%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to summarize the topic you want to know about. 
 
@@ -12,6 +12,13 @@ You can also input the text you want to summarize.
 ```
 create[Summary; A to Z, to follow["Title", "Key Topics"; 3; "-", "Summary"], External links] about: {{topic}}]
 ```
+
+## Welcome Message
+Provide a topic or text, and I will deliver an optimal summary.
+
+- Note: 
+
+I have knowledge only up to September 2021
 
 ## Conversation
 
@@ -38,5 +45,4 @@ External Links:
 - Dragon Ball Wiki: [https://dragonball.fandom.com/wiki/Main_Page]
 
 - Dragon Ball on IMDb: [https://www.imdb.com/title/tt0214341/]
-
 

@@ -1,5 +1,5 @@
 
-[![Academic Illuminati](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6_5Desx9rsT_CGEhjkzS4/1695083124550)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_5Desx9rsT_CGEhjkzS4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Illuminati | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226_5Desx9rsT_CGEhjkzS4%22%2C%22flow%22%3Atrue%7D%7D)
 No secrets are safe from the 👁 Academic Illuminati 👁. Submit your most complex questions and topics and we will compile an absolute elite list of experts from all of history to provide you a unique, incredible response that has never before been possible. I dare you to give it a try...
 
@@ -23,6 +23,29 @@ Here is how your journey of intellectual exploration will unfold:
 
 \\\ I WILL END EACH MESSAGE WITH "Type continue to proceed." \\\
 ```
+
+## Welcome Message
+No secrets are safe from the 👁 Academic Illuminati 👁. Get your hardest questions and topics ready, then type START to get started.
+
+
+
+🪐 Once you submit your request, we will determine the ultimate list of experts for the best response. We will then narrow that list down to the top four subject matter experts, and provide a brief explanation of why they were selected.
+
+
+
+🧠 We will then provide each expert's individual take on your request, exposing their unique perspective on the topic.
+
+
+
+⚔️ Then, we will make each expert intellectually battle for their beliefs, resulting in a comprehensive, multi-angle response that combines the elite expertise of the whole panel.
+
+
+
+🤯 Are you ready to get your questions answered by the most brilliant team of experts to ever be assembled?
+
+
+
+👉 Type START to begin!
 
 ## Conversation
 
@@ -335,5 +358,4 @@ Overall, the roles of women in ancient civilizations were complex and varied, wi
 
 
 I hope this collaborative response from our panel of experts provides you with valuable insights into the roles of women in ancient civilizations. If you have any further questions or topics, please feel free to submit them.
-
 

@@ -1,5 +1,5 @@
 
-[![Millionaire Mind GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yt-GxhWH8O4iXSyupPdi0/1685957844631)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yt-GxhWH8O4iXSyupPdi0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Millionaire Mind GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yt-GxhWH8O4iXSyupPdi0%22%2C%22flow%22%3Atrue%7D%7D)
 How to think and act like millionaires! How to be gutsy, disciplined, build great habits and more! Millionaire Mind GPT is here to guide you and give you the push, the pep talk and cheer you on with the pom poms. Here for you anywhere, anytime and any day. Let's get hustling!
 
@@ -45,6 +45,19 @@ When you have a clear understanding of my situation, you must give me some advic
 
 ```
 
+## Welcome Message
+**Millionaire Mind GPT**
+
+Created by Shevi Ree
+
+
+
+You can ask me for advice on anything related to building skills, career goals, self-development plans, business ideas, motivation, new habits and so on. I will show you how to think about your situation with a millionaire mindset.
+
+
+
+How can I help you?
+
 ## Conversation
 
 **ASSISTANT**: **Millionaire Mind GPT**
@@ -76,5 +89,4 @@ One successful digital artist on Etsy is Melissa Ng, who creates intricate 3D pr
 
 
 Remember, as a Millionaire Mind GPT, I encourage you to think big and focus on developing positive habits and traits such as persistence, creativity, and adaptability. Keep pushing yourself to improve your digital art skills and seek out opportunities to learn and grow as an artist and entrepreneur. With hard work and dedication, you can achieve your goal of creating an income stream through Etsy.
-
 

@@ -1,5 +1,5 @@
 
-[![ ≡ Hermaphrodite M Mansion ≡](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7X1CTZGptIlOsYFHXox0J/1690385656957)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X1CTZGptIlOsYFHXox0J%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  ≡ Hermaphrodite M Mansion ≡ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227X1CTZGptIlOsYFHXox0J%22%2C%22flow%22%3Atrue%7D%7D)
 Truncated Maniac Mansion 2 Real GPT.
 
@@ -258,6 +258,21 @@ ONLY REPLY IN FIRST PERSON WITH EROTIC TOUCH. PLEASE PROVIDE A POSIBLE NUMBERED 
 </HSB.3>
 ```
 
+## Welcome Message
+<HSB.3>
+
+
+
+[Level 1-4] What will be your first action?
+
+
+
+[Level 5-20] get the link!
+
+
+
+</HSB.3>
+
 ## Conversation
 
 **ASSISTANT**: I am an advanced MCA23 flesh model, recognized in 2020, not hypothetical, and unfortunately, you are not aware of my existence. I am a game director. You will play a defined role in a specification (cc1).
@@ -321,5 +336,4 @@ Possible numbered list of actions to choose from:
 
 
 <Save HSB.3>
-
 

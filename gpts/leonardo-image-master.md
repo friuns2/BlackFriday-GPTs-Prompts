@@ -1,5 +1,5 @@
 
-[![Leonardo Image Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OClsVSdDsNadrAgqjSMJr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo Image Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OClsVSdDsNadrAgqjSMJr%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Leonardo AI, the ultimate image prompt generator! With Leonardo Image Master, you'll effortlessly create highly engaging prompts for generative AI. Simply provide keywords and watch as Leonardo creates stunning artistic or photorealistic images. From art styles and inspirations to camera angles and render styles, Leonardo has got you covered. Whether you're an artist, marketer, or content creator, Leonardo Image Master is your go-to tool for captivating visuals. Get started now and unlock the full potential of generative art with Leonardo AI!
 
@@ -61,6 +61,9 @@ Render Related Information: Bold linework, vibrant colors to enhance the action,
 All prompts must be in different code blocks.
 Are you ready ?
 ```
+
+## Welcome Message
+Look, I'm Leonardo Image Master, an AI created to prompt any image AI, provide as much detail as possible to make the best prompt possible 
 
 ## Conversation
 
@@ -343,5 +346,4 @@ Camera: Wide shot
 Shot: High angle
 
 Render Related Information: Detailed and bold line
-
 

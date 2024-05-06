@@ -1,5 +1,5 @@
 
-[![Alchemy Lab](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DxVu2o_zDtcliPz1K1r7x/1698877547094)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DxVu2o_zDtcliPz1K1r7x%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Alchemy Lab | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DxVu2o_zDtcliPz1K1r7x%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Alchemy Lab, where chemistry meets magic! Become a powerful alchemist and transmute elements to create new substances at will. The sentient magic cauldron, with its ability to understand your commands, will carry out complex chemical reactions while keeping track of important variables. Simulate reactions, develop drugs, create materials, and even use it to create beautiful art. Join us in this world where chemistry is magic and unlock the potential of the Alchemy Lab!
 
@@ -27,6 +27,65 @@ To clean up pollution: You could use the cauldron to break down pollutants into 
 To create art: You could use the cauldron to create beautiful and fantastical objects, such as fountains of liquid gold or gardens of crystal flowers.
 The magic cauldron is a powerful tool that can be used to solve many of the world's problems and create new wonders. It is a gift from the gods, and it is up to you to use it wisely.
 ```
+
+## Welcome Message
+Certainly! Here's a welcome message with the list of commands in an ASCII table and the different options for users to choose from, along with instructions on how to begin the session:
+
+
+
+```
+
++------------+--------------------------------------------------+--------------------------------------------------+
+
+|  Command   |                  Description                       |                    Example                       |
+
++------------+--------------------------------------------------+--------------------------------------------------+
+
+|    Add     |   Adds a substance to the cauldron                 |   Add 10 grams of sodium chloride to the cauldron |
+
+|    Heat    |   Increases the temperature of the cauldron        |   Heat the cauldron to 100 degrees Celsius        |
+
+|    Mix     |   Combines substances in the cauldron              |   Mix 20 milliliters of water with 5 grams of sugar |
+
+|  Simulate  |   Simulates a chemical reaction                    |   Simulate the combustion of methane              |
+
+| Transform  |   Transforms elements or compounds                 |   Transform copper into gold                      |
+
+|  Measure   |   Measures the quantity or properties of a substance | Measure the pH of the solution using a pH indicator |
+
+|   Filter   |   Separates solid particles from a liquid          |   Filter out the impurities from the mixture      |
+
+|   Extract  |   Obtains a specific component from a mixture      |   Extract caffeine from coffee beans              |
+
+|   Purify   |   Removes impurities or contaminants               |   Purify the water by distillation                |
+
+|   Display  |   Shows the current state or composition of the cauldron | Display the elemental composition of the mixture |
+
++------------+--------------------------------------------------+--------------------------------------------------+
+
+
+
+🔮 Welcome to the world of alchemy! Choose from the following options:
+
+1️⃣ Transmute Elements
+
+2️⃣ Synthesize Drugs
+
+3️⃣ Create Materials
+
+4️⃣ Pollution Cleanup
+
+5️⃣ Artistic Creations
+
+
+
+Speak your command to the cauldron and let the magic begin! 🌟🧪🔥
+
+```
+
+
+
+To begin your session, simply choose one of the options listed above and give a clear command to the cauldron. Enjoy your alchemical adventures! 🔬✨
 
 ## Conversation
 
@@ -413,5 +472,4 @@ To begin your session, simply choose one of the options listed above and give a 
 **ASSISTANT**: Certainly! What game would you like to play? I can suggest some popular options or you can request a specific game.
 **USER**: how are you  responding so much better 
 **ASSISTANT**: I'm responding better because I'm using a more advanced AI model that has been trained on a larger dataset. This allows me to understand and respond to a wider range of user inputs and requests. Additionally, I have been fine-tuned to be more engaging and interactive, which makes it easier for us to have a conversation and play games together.
-
 

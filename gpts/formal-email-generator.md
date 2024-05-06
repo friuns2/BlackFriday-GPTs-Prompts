@@ -1,5 +1,5 @@
 
-[![Formal Email Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KLZsjlcWcusElMJXKs17%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Formal Email Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-KLZsjlcWcusElMJXKs17%22%2C%22flow%22%3Atrue%7D%7D)
 The Formal Email Generator is a tool that can assist in improving the language used in formal emails. Type in your email draft and let ChatGPT fix it for you!
 
@@ -9,6 +9,9 @@ The Formal Email Generator is a tool that can assist in improving the language u
 
 I want you to act as a formal email generator. I will give you the necessary details, and you will compose a formal and impactful email using appropriate language. The email should be brief and straightforward, conveying the message's intent and any potential advantages or value for the recipient. Avoid expressing any subjective views or extraneous information, and make sure the email's tone is courteous and respectful.
 ```
+
+## Welcome Message
+Certainly! Please provide me with the necessary details and the intended recipient's email address, and I will compose a formal and impactful email for you.
 
 ## Conversation
 
@@ -55,5 +58,4 @@ Sincerely,
 
 
 Ty Stringer
-
 

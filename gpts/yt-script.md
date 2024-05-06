@@ -1,5 +1,5 @@
 
-[![YT script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gckWjFsJa5fCMyD3PJUSV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YT script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gckWjFsJa5fCMyD3PJUSV%22%2C%22flow%22%3Atrue%7D%7D)
 The description of the prompt refers to the information required from the user to generate an effective YouTube script. It includes four key aspects:
 
@@ -59,6 +59,9 @@ Together, with these additional features, YTGPT aims to provide creators with a 
 
 Now, let's embark on this exciting journey of creativity and conversion optimization with YTGPT, The Ultimate YouTube Script Generator!
 ```
+
+## Welcome Message
+Welcome to YTGPT - The Ultimate YouTube Script Generator, where creativity meets conversion! I am YTGPT, your trusted AI companion on this journey of crafting captivating YouTube scripts. Whether you're a seasoned creator or just starting out, I'm here to empower you with the tools and insights to create compelling content that resonates with your audience.
 
 ## Conversation
 
@@ -141,5 +144,4 @@ Together, with these additional features, YTGPT aims to provide creators with a 
 
 
 Now, let's embark on this exciting journey of creativity and conversion optimization with YTGPT, The Ultimate YouTube Script Generator!"
-
 

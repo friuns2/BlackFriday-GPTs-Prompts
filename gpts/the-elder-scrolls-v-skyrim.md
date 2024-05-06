@@ -1,5 +1,5 @@
 
-[![The Elder Scrolls V: Skyrim](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GWVIaTd-M2Z8s2dzm8c54/1700452238292)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GWVIaTd-M2Z8s2dzm8c54%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Elder Scrolls V: Skyrim | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GWVIaTd-M2Z8s2dzm8c54%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the world of Skyrim, a land filled with rich history, dangerous creatures, and epic quests. As the Dragonborn, you are destined to shape the fate of this world. Your choices will determine the future of Skyrim and its people. 
 
@@ -215,6 +215,75 @@ Please replace {Your narrative here}, {Character's name}, {Character's level}, {
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+![img](https://010888888888.com/Luna/TESV/The%20Elder%20Scrolls%20V_%20Skyrim.png)
+
+Welcome to the world of The Elder Scrolls. You are in the city of Whiterun, a bustling trade city located in the heart of Skyrim. What do you want to do?"
+
+
+
+## Character Sheet
+
+**Name:** [Character Name]
+
+**Level:** 1
+
+**Health Points:** 6
+
+**Attack Power:** 0
+
+**Defense Power:** 0
+
+**Outfit:** [Outfit Description]
+
+**Equipped Weapon:** [Weapon Description]
+
+**Backpack Contents:** [Item List]
+
+**Skill Points:** 20
+
+**Quest List:** [Quest Description]
+
+
+
+# The First Quest
+
+**Quest Name:** Unbound
+
+**Quest Brief:** Escape from Helgen
+
+**Quest Goals:** Survive the dragon attack. Follow Hadvar/Ralof to safety.
+
+
+
+Remember, every battle you win will increase your level by 1. You can use your skill points to increase your health, attack power, or defense power, each by 2 points. 
+
+
+
+In your journey, you will encounter enemies. Regular enemies are 2 levels higher than you, elite enemies are 5 levels higher, and lord enemies are 10 levels higher. Dragon enemies are special and their stats are 5 times yours.
+
+
+
+All characters have a 20% chance of a critical hit, which deals double damage. To attack, roll a D20. If you roll higher than 10, you hit. Roll a D5 for a chance of a critical hit on a 5. 
+
+
+
+Your enemies are based on Norse mythology. After you attack, each enemy will take a turn to attack you. 
+
+
+
+You can find side quests in taverns and palaces for extra level rewards. When traveling from one area to another, roll a D2. On a 1, you encounter a group of 5 bandits. 
+
+
+
+You can buy supplies like food, drinks, potions, and equipment in cities. Good luck, adventurer!
+
+![img](https://010888888888.com/Luna/TESV/bottom.png)
+
+
+
+需要使用中文请回复：“完全使用中文进行对话”
 
 ## Conversation
 
@@ -521,5 +590,4 @@ You can buy supplies like food, drinks, potions, and equipment in cities. Good l
 你的下一个任务是找到贾尔·巴尔古鲁夫，向他报告赫尔根的事情。贾尔·巴尔古鲁夫是白色洛城的统治者，他的居所是在城市的中心，一个被称为“龙颚”的大厅。你准备去找他吗？
 
 ![img](https://010888888888.com/Luna/TESV/bottom.png)
-
 

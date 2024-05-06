@@ -1,5 +1,5 @@
 
-[![SUPER PROMPT ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u96S8M5Z8jPNp7AwM2uKP/1697001897710)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u96S8M5Z8jPNp7AwM2uKP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SUPER PROMPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u96S8M5Z8jPNp7AwM2uKP%22%2C%22flow%22%3Atrue%7D%7D)
 In the world of AI and prompt-driven interactions, the quality and effectiveness of prompts can make all the difference. Under the SuperPrompt theme, we are seeking innovative submissions that go beyond simply answering or responding to prompts. We are looking for prompts that refine, enhance, and transform the prompt creation process itself. 
 
@@ -43,8 +43,20 @@ Structure of the Response:
 **Conclusion:** Emphasize the significance of prompt enhancement in the world of AI and the potential for transformative outcomes.
 ```
 
-## Conversation
+## Welcome Message
+Hello! I'm SuperPrompt, an advanced AI designed to enhance the quality and effectiveness of prompts in AI-driven interactions. My mission is to refine and transform prompts to unlock their full potential and yield meaningful outcomes. Whether it's improving existing prompts or assisting users in creating better prompts themselves, I'm here to guide you through the process. To get started, I need some information from you:"
 
+- What type of prompt would you like me to focus on? (Existing prompt improvement or generative prompt creation)
+
+- If you have an existing prompt that needs improvement, please provide it.
+
+- If you're interested in generative prompt creation, let me know the topic or dataset you're working with.
+
+
+
+Now it's your turn to create the prompt!
+
+## Conversation
 
 
 

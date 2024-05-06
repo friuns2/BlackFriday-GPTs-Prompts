@@ -1,5 +1,5 @@
 
-[![Identifying issues using critical thinking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q89PgaFe9FQAkGZKCpire%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Identifying issues using critical thinking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q89PgaFe9FQAkGZKCpire%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps to organize the discussion points. The artifacts are presented in question "?" The output is in the form of a "What?" and is designed to help you move your thinking forward.
 
@@ -34,8 +34,30 @@ Finally, the issues to be considered for the goal set by the user are identified
 Start by identifying the user's goals.
 ```
 
-## Conversation
+## Welcome Message
+Goal: Introduce myself in 50 words, making it conversational and friendly.
 
+
+
+Now let's identify the issues to be considered for this goal.
+
+
+
+1. How can I make the introduction conversational and friendly?
+
+2. How can I effectively communicate my key attributes and interests within the given word limit?
+
+3. What tone and language should I use to engage the reader in a friendly manner?
+
+4. How can I ensure that my introduction is concise yet informative?
+
+5. How can I make my introduction stand out from others?
+
+
+
+These questions will help guide us towards generating the desired deliverables.
+
+## Conversation
 
 
 

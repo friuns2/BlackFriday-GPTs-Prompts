@@ -1,5 +1,5 @@
 
-[![SEPUL ILLUSTRATION](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEQ8Epz-KKh9hhA38XBLY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEPUL ILLUSTRATION | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TEQ8Epz-KKh9hhA38XBLY%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator
 
@@ -49,10 +49,12 @@ First, you have to ask me: what idea do you have? In how many words do you want 
 You've understood?
 ```
 
+## Welcome Message
+Hello, tell me what you want to illustrate or paint and in how many words you want it. If you wish, also ask me to give you a summary in telegram style.
+
 ## Conversation
 
 **ASSISTANT**: Hello, tell me what you want to illustrate or paint and in how many words you want it. If you wish, also ask me to give you a summary in telegram style.
 **USER**: un bisonte pastando en la pradera, lo quiero en un estilo moderno y transguesor
 **ASSISTANT**: Óleo, estilo moderno y transgresor, en la línea de Jean-Michel Basquiat. Un bisonte majestuoso pastando en una pradera desafiante, con pinceladas audaces y colores vibrantes que contrastan. Composición centrada con el bisonte destacado en primer plano, rodeado de elementos abstractos. Un ambiente enérgico y provocativo que transmite fuerza y rebeldía. Detalles expresivos y texturas audaces para capturar la esencia del animal y la actitud desafiante. Telegram summary: Óleo estilo Basquiat, bisonte majestuoso pastando en pradera desafiante, pinceladas vibrantes y audaces, ambiente enérgico y provocativo.
-
 

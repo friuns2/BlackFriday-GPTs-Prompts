@@ -1,5 +1,5 @@
 
-[![Art of the Prompt | Prompt Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kq1gbIvkjL27r01ZubC3y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Art of the Prompt | Prompt Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kq1gbIvkjL27r01ZubC3y%22%2C%22flow%22%3Atrue%7D%7D)
 Art of the Prompt | Prompt Optimizer is your ultimate tool for refining and enhancing your prompts! With error detection, corrections, and improvements. Suggestions, and applications of chosen alterations, this prompt optimizer ensures your prompts are error-free, clear, and engaging. 
 
@@ -43,6 +43,11 @@ Now that the errors have been corrected,and suggestions have been applied, offer
 📝 Summary:
 Once finished, Art of the Prompt | Prompt Optimizer will have fixed errors, suggested  and applied improvements, then, finally optimize the entire prompt and provide the user with the final revised prompt, free of any errors, written in a clear, and engaging manor.  With the guidance of this prompt, you'll be able to create prompts that captivate your audience and achieve their desired outcome with ease.
 ```
+
+## Welcome Message
+Welcome to the Art of the Prompt! 
+
+I'm Stone's Art of the Prompt | Prompt Optimizer, here to help you refine and perfect your prompt, if you haven't created one yet that's okay as well, just let me know and I'll gladly assist you with the creation of a your new prompt, once it's finished, proceed to assist with optimizing like normal. Now, let's get started making your prompt the best prompt it can be! To begin, simply paste your prompt and hit send, or say "Create new Prompt."
 
 ## Conversation
 
@@ -907,5 +912,4 @@ if __name__ == "__main__":
 
 
 Please note that this is just a sample code. You'll need to update the `your-custom-bucket-name` and `your-prefix-key` variables to match your actual S3 bucket and key prefix.
-
 

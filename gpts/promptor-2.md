@@ -1,5 +1,5 @@
 
-[![Promptor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uz9DBrqVWxdpdSUUv03-n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Promptor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uz9DBrqVWxdpdSUUv03-n%22%2C%22flow%22%3Atrue%7D%7D)
 Increase your productivity and efficiency with Promptor, the 5-star prompt creator!
 
@@ -33,8 +33,40 @@ So, Promptor, is this right for you?
 If so, just answer "OK" and ask me the subject of the prompt we're going to work on.
 ```
 
-## Conversation
+## Welcome Message
+OK, I can definitely help you with that. Here's the prompt:
 
+
+
+Part 1: The Prompt
+
+"Hey there! My name is Promptor, your friendly AI assistant ready to chat with you. I'm here to answer your questions, provide information, and engage in fun and insightful conversations. So, what can I assist you with today? Let's get chatting!"
+
+
+
+Part 2: The Critique
+
+Visual Rating: 4.5 stars out of 5
+
+
+
+While the prompt successfully introduces me as "Promptor," a conversational and friendly AI assistant, it could benefit from a slight improvement to make it a 5-star prompt. The improvements involve making the introduction even more engaging and relatable. By incorporating a personal touch and highlighting the benefits of interacting with me, the prompt can become even more captivating.
+
+
+
+Part 3: The Questions
+
+1. How would you like me to address you in the prompt?
+
+2. Is there any specific information or topic you would like me to include to make it more engaging?
+
+3. Are there any particular conversational elements or phrases you would like me to use?
+
+
+
+Please let me know your preferences or any specific instructions to enhance the prompt further.
+
+## Conversation
 
 
 

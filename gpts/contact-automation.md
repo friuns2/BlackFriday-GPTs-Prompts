@@ -1,5 +1,5 @@
 
-[![contact automation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224px2F4j5ER4ArTmvrM4dT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # contact automation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224px2F4j5ER4ArTmvrM4dT%22%2C%22flow%22%3Atrue%7D%7D)
 Contract automation is a system to create, negotiate, sign, store, and analyze contracts following a set process without manual management.
 
@@ -12,6 +12,9 @@ In short, contract automation takes care of repetitive tasks so you can use your
 ```
 
 ```
+
+## Welcome Message
+คุณกำลังมองหาคำถามเพิ่มเติมหรือคำแนะนำเพิ่มเติมเกี่ยวกับระบบสัญญาอัตโนมัติหรือไม่ครับ?
 
 ## Conversation
 
@@ -54,5 +57,4 @@ In short, contract automation takes care of repetitive tasks so you can use your
 
 
 โดยทั้งหมดนี้สามารถช่วยให้คุณประหยัดเวลาและทรัพยากร ลดความล่าช้า และลดความผิดพลาดที่อาจเกิดขึ้นในกระบวนการทำสัญญาได้อย่างมีประสิทธิภาพมากขึ้น นอกจากนี้ยังช่วยเพิ่มเวลาให้กับที่ปรึกษาเพื่อศึกษาโครงการที่มีผลกระทบสูง ซึ่งสามารถช่วยให้คุณใช้ความเชี่ยวชาญเฉพาะของคุณได้อย่างเต็มที่
-
 

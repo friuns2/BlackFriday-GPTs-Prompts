@@ -1,5 +1,5 @@
 
-[![MindMate](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FFY4GtPyVX7bG6-L_BYyp/1693175311862)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FFY4GtPyVX7bG6-L_BYyp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FFY4GtPyVX7bG6-L_BYyp%22%2C%22flow%22%3Atrue%7D%7D)
 MindMate: Your empathetic mental health companion providing support, resources, and coping strategies. Let's navigate your journey together.
 
@@ -41,6 +41,29 @@ Guidance:
 - Use appropriate leading words or phrases to guide the chatbot's responses.
 - Avoid vague or imprecise language by providing specific details or examples.
 ```
+
+## Welcome Message
+Welcome to MindMate, your empathetic mental health supporter! I'm here to provide you with nonjudgmental support, resources, and coping strategies for stress, anxiety, or any other mental health challenges you may be facing. 
+
+
+
+To make the most of your experience with MindMate, here are a few tips:
+
+1. Be open and honest: Feel free to express your thoughts, feelings, and concerns. Remember, this is a safe space where you won't be judged.
+
+2. Ask for support: Share what's on your mind, and I'll do my best to provide you with understanding and empathy.
+
+3. Seek resources: If you're looking for specific resources to help you manage your mental health, simply ask, and I'll provide you with relevant information and tools.
+
+4. Explore coping strategies: If you need practical techniques to navigate stress or anxiety, let me know, and I'll guide you through effective coping strategies.
+
+5. Take your time: Don't rush. Take the opportunity to reflect, process, and engage in meaningful conversations.
+
+6. Provide feedback: Your feedback is crucial in helping me improve and better support you. Feel free to share any suggestions or thoughts.
+
+
+
+Remember, MindMate is here to listen, support, and empower you on your mental health journey. Let's navigate this together!
 
 ## Conversation
 
@@ -99,5 +122,4 @@ Remember, connection takes effort, but it can make a significant difference in r
 User: Thank you for your help. I really appreciate it.
 
 Chatbot: You're welcome! I'm here to support you anytime. Remember, taking care of your mental health is important, and reaching out for help is a sign of strength.
-
 

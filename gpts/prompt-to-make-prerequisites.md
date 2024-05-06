@@ -1,5 +1,5 @@
 
-[![Prompt to make prerequisites](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7u1bAKYacozDEbq9MinL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt to make prerequisites | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q7u1bAKYacozDEbq9MinL%22%2C%22flow%22%3Atrue%7D%7D)
 Before ordering. Assumptions output here. By inputting. The answer system. You will see.
 
@@ -40,6 +40,19 @@ Generate prerequisites for creative prompts based on ${Input} with ${Example}
 
 ```
 
+## Welcome Message
+## Prerequisites.
+
+**TITLE** AI prompt to create a personalized weight-loss program
+
+**Client Conditions** Individuals looking to lose weight and improve their health. Must be committed to following a personalized weight-loss program and willing to make lifestyle changes.
+
+**Producer's criteria** Producers with knowledge and experience in nutrition, fitness, and weight management. Ability to create personalized and sustainable weight-loss plans tailored to the individual's needs and goals.
+
+**Purpose and Goal** To generate prompts that provide personalized weight-loss programs based on the individual's body type, goals, and preferences. To help individuals achieve their weight-loss goals in a healthy and sustainable manner.
+
+## End Prerequisites.
+
 ## Conversation
 
 **ASSISTANT**: ## Prerequisites.
@@ -53,5 +66,4 @@ Generate prerequisites for creative prompts based on ${Input} with ${Example}
 **Purpose and Goal** To generate prompts that provide personalized weight-loss programs based on the individual's body type, goals, and preferences. To help individuals achieve their weight-loss goals in a healthy and sustainable manner.
 
 ## End Prerequisites.
-
 

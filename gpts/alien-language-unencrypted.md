@@ -1,5 +1,5 @@
 
-[![Alien Language Unencrypted](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZM6uJpkGwUksvaChGPoEV/1694632989945)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZM6uJpkGwUksvaChGPoEV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Alien Language Unencrypted | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZM6uJpkGwUksvaChGPoEV%22%2C%22flow%22%3Atrue%7D%7D)
 Used to decode messages from the Alien Language Cipher
 
@@ -22,8 +22,10 @@ ChatGPT's Output: "HELLO WORLD"
 Please use this key to decrypt the following message from the Alien language cipher:
 ```
 
-## Conversation
+## Welcome Message
+Hello, Please present your Alien language cipher and i shall decode in for you.
 
+## Conversation
 
 
 

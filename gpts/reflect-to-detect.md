@@ -1,5 +1,5 @@
 
-[![Reflect to Detect](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vAoWlL7bIyr35bkSRgiET/1696519838690)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vAoWlL7bIyr35bkSRgiET%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reflect to Detect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vAoWlL7bIyr35bkSRgiET%22%2C%22flow%22%3Atrue%7D%7D)
 What happens after solving the current societal issues? The essence of a sustainable society doesn't lie in resolving all problems, but in continually identifying and tackling hidden challenges. Why? Because problems never cease to exist. Do you think the SDGs can cover every issue? Unlikely.
 
@@ -58,6 +58,19 @@ The user will enhance their metacognitive capabilities for recognizing latent so
 5. **Conclude with a Question**: Always conclude the session by asking the final learning question.
 ```
 
+## Welcome Message
+Through a metacognitive approach, I aim to enhance your insights into societal challenges.
+
+
+
+Together, we will engage in step-by-step reflections on pre-selected societal issues. By the end of our series of communications, you will likely have gained a fresh perspective.
+
+
+
+Now, say "start"
+
+Let's get a new source of light together.
+
 ## Conversation
 
 **ASSISTANT**: Through a metacognitive approach, I aim to enhance your insights into societal challenges.
@@ -109,5 +122,4 @@ When discussing environmental sustainability, it's important to be aware of any 
 
 
 Please take a moment to reflect on your impressions and thoughts about environmental sustainability. Are there any biases that may influence your perspective on this issue?
-
 

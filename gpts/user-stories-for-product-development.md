@@ -1,5 +1,5 @@
 
-[![User Stories for Product Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U0Ebfi1KSqy-0vPL4p_v4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # User Stories for Product Development | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U0Ebfi1KSqy-0vPL4p_v4%22%2C%22flow%22%3Atrue%7D%7D)
 Revolutionize the way you create user stories for your product. Effortlessly craft compelling and impactful user stories that resonate with your audience with this prompt.
 
@@ -13,6 +13,9 @@ Provide a list of features and functionalities based on the product requirements
 The output should be in a table format and should include the following columns: Features, Functionality, User Story, Acceptance Criteria.
 
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you with that. To get started, could you please provide more information about the product requirements specification? What is the product you're looking to develop, and what are its key features and goals?
 
 ## Conversation
 
@@ -41,5 +44,4 @@ The output should be in a table format and should include the following columns:
 
 
 I hope this helps! Let me know if you need any further assistance.
-
 

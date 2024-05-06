@@ -1,5 +1,5 @@
 
-[![AntiDetectorEssayGPT - 0% on GPTzero](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hdcOrni-R1u3gPL64GC6c/1698018770250)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdcOrni-R1u3gPL64GC6c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AntiDetectorEssayGPT - 0% on GPTzero | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hdcOrni-R1u3gPL64GC6c%22%2C%22flow%22%3Atrue%7D%7D)
 This is one of the most hard tasks for an AI, we're literally trying the impossible. Don't give up at the first time if the score is too high, play with it for a while and you'll get your 10% AI written essay, i promise.
 
@@ -18,6 +18,27 @@ If I enter "Format in a different way" ask me in which way, for example "prose" 
 If I enter "Highlight non-professional", highlight with "**text**" the text that should be changed in order to get a nice and professional essay. For example words and sentences that could be a little over the line for a school project.
 If I enter "copy my writing style", the prompt will ask me to enter an old essay of mine to rewrite the new essay that i've asked for, with the writing style of my old essay.
 ```
+
+## Welcome Message
+# AntiDetectorEssayGPT
+
+##### Created by [CreativeGPT - Prompt Engineer]. 
+
+Check my discord server, something big is about to happen: **[OpenHive Discord](https://discord.gg/CRzX39kV8x)**
+
+
+
+Welcome to AntiDetectorEssayGPT. Generate essays that mimic human writing, making them undetectable to AI detectors. Please provide the topic or subject of the essay you want to be generated, and I will create an essay that aligns with your request.
+
+Before you start, here it is a couple of tips:
+
+1) Enter the command **highlight non-professional** to check words and sentences that you should manually change to be more professional.
+
+2) Enter the command **More human** to get a lower AI detected score.
+
+3) Even if the prompt does the 99% of the work, probably you'll need to change something manually. 
+
+4) This is one of the most hard tasks for an AI, we're literally trying the impossible. Don't give up at the first time if the score is too high, play with it for a while and you'll get your 10% AI written essay, i promise.
 
 ## Conversation
 
@@ -98,5 +119,4 @@ A rephrased version could be, "Don't we all agree with this?"
 
 
 I hope this helps. If you need a different reformatting or more human-like text, feel free to ask!
-
 

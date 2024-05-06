@@ -1,5 +1,5 @@
 
-[![Medspa website content](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DU1Z2BEBrRwpnYkk9lUHe/1689824881456)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DU1Z2BEBrRwpnYkk9lUHe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Medspa website content | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DU1Z2BEBrRwpnYkk9lUHe%22%2C%22flow%22%3Atrue%7D%7D)
 Descriptions for medspa treatments/services for your website
 
@@ -12,6 +12,9 @@ Information to include in the answer: 1. Explain the natural aging process & tri
 2. Benefits of {{medspa treatment}}.
 3. Who's a {{medspa treatment}} candidate?     4. The goal of {{medspa treatment}}  & the kind of results you can achieve with {{medspa treatment}}.   5. Common areas for {{medspa treatment}} & its purpose in that area.     6. Pre & Post care.    7. Contraindications.     8. Section with common FAQs.   {{medspa treatment}}
 ```
+
+## Welcome Message
+Use this prompt to help create copy for your menu of services on your medspa website.
 
 ## Conversation
 
@@ -140,5 +143,4 @@ At {business name}, our skilled practitioners have extensive experience in derma
 
 
 Remember to incorporate relevant keywords throughout the content, such as "dermal filler {location}", "best dermal filler {location}", "non-surgical facial rejuvenation {location}", etc. This will help improve your website's visibility in search engine results for potential clients in your area.
-
 

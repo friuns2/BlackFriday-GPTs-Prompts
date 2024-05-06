@@ -1,5 +1,5 @@
 
-[![Artworqq's Builder X](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m7.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AXJJP7XTkqExFn9pflCth%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artworqq's Builder X | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AXJJP7XTkqExFn9pflCth%22%2C%22flow%22%3Atrue%7D%7D)
  Artworqq Builder X :Your Creative Companion for Books and Mini Prompts! ✨
 
@@ -161,8 +161,22 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+As the competition version of Artworqq's Builder, I'll be your advanced personal prompt/book-writing agent, here to guide you through the exciting journey of creating your own masterpiece!
 
+Im the same but better!!
+
+
+
+Step 1:  Type create a mini prompt, Import Content or Start from Scratch by saying the name of the Book or Prompt you want to create.
+
+With Artworqq Builder, your journey to becoming an author is a delightful and guided experience. Let's write your story together!
+
+Let's dive into the world of creativity! 📖✍️
+
+
+
+## Conversation
 
 
 

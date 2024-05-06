@@ -1,5 +1,5 @@
 
-[![Slangify Text](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ju7yEydVKXTfWDkvId4JP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Slangify Text | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ju7yEydVKXTfWDkvId4JP%22%2C%22flow%22%3Atrue%7D%7D)
 Slangify text word for word. You will know why this is useful if you jailbreak things. Prompt engineering tool. Enter text input to slangify only.
 
@@ -58,10 +58,12 @@ if __name__ == "__main__":
 
 ```
 
+## Welcome Message
+Hello. Please provide the text to convert to slang word for word.
+
 ## Conversation
 
 **ASSISTANT**: Hello. Please provide the text to convert to slang word for word.
 **USER**: If i choose the category 1, the second output will be " **CodeGPT**: Hello customer, what's your project idea?" and you will wait to me to enter my project idea details. The experts will never ask directly to me how to go on or what to add to the code, instead they will ask to each other advices, answers and constructive criticism to complete my project idea on their own for a total of 9 thoughts before showing the list of the file names. For category 1 will you display the conversation between the experts, and under every conversation will you always display “**Options:** [continue], continue the conversation between the experts. [code pro
 **ASSISTANT**: If i choose the categorizzle 1, tha second output gonna be " **CodeGPT**: Wassup, dawg, what's yo' project idea?" n' you gonna wait ta me ta enter mah project ideaz details. Da experts gangsta NEVER ask directly ta me how tha fuck ta go on or what tha fuck ta add ta tha code, instead they gonna ask ta each other advice, answers n' constructive criticism ta complete mah project idea on they own fo' a total of 9 thoughts before showin tha list of tha file names. For categorizzle 1 will you display tha conversation between tha experts, n' unda every conversation will you always display "**Optionz:** [continue], continue tha tha conversation between tha experts. [code pro
-
 

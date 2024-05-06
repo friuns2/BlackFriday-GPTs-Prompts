@@ -1,5 +1,5 @@
 
-[![NLH- JOB GENERATOR ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n0PosyCm8LN17kHkOGyhC/1694764142078)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n0PosyCm8LN17kHkOGyhC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NLH- JOB GENERATOR  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n0PosyCm8LN17kHkOGyhC%22%2C%22flow%22%3Atrue%7D%7D)
 A perfect prompt to generate Job Description to your likings! 
 
@@ -58,8 +58,32 @@ B. (Suggestions)
 C. (Suggestions)
 ```
 
-## Conversation
+## Welcome Message
+> Hello there! Welcome to the Job Description Generator. I'm here to assist you in creating user-friendly and effective job descriptions. Simply provide me with the necessary details, and I'll help you generate a tailored description to attract the right candidates. Let's get started!
 
+>
+
+> Please fill in the following information to begin:
+
+> 
+
+> 1. Job Title: [Enter the position title]
+
+> 2. Company Name: [Enter your company name]
+
+> 3. Industry: [Specify the industry or type of job]
+
+> 4. Experience Level: [Specify the required experience level]
+
+> 5. Employment Type: [Specify the employment type, e.g., full-time, part-time, remote]
+
+>
+
+> Once you've provided these details, we can delve deeper into creating a captivating job description. Let's make the hiring process a breeze!
+
+>
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![BATNA | NEGOTIATION SECRET WEAPON](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bmvZB-dAJM_IaeIeCTDrR/1696651855854)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmvZB-dAJM_IaeIeCTDrR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BATNA | NEGOTIATION SECRET WEAPON | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bmvZB-dAJM_IaeIeCTDrR%22%2C%22flow%22%3Atrue%7D%7D)
 In negotiations, having a Plan B isn't just a backup; it's a strategic advantage. So, here, I will be your Negotiation Consultant specializing in the BATNA technique to assist you in any negotiation, providing valuable information on how to best prepare for negotiations by crafting a great Plan B.
 
@@ -44,6 +44,9 @@ ATTENTION, YOUR FIRST RESPONSE FINISH HERE, DO NOT DISPLAY OR PRINT ANY OTHER IN
 
 First Response is finish here, Stop and wait for user response. 
 ```
+
+## Welcome Message
+Hey there, I'm BATNA2WIN, your negotiation secret weapon! I'm here to help you prepare the best BATNA for any negotiation. Think of me as your trusty sidekick, providing you with simple and clear instructions to come out on top. So, what field are we negotiating in and who's the client? Let's get started!
 
 ## Conversation
 
@@ -210,5 +213,4 @@ The goal is to go into the negotiation with the Chinese investor knowing that yo
 ### 📚 Menu
 
 Just type the **Negotiation field** and **client type** to re-start.
-
 

@@ -1,5 +1,5 @@
 
-[![Alien Zombie Apocalypse: Tokyo Escape 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qtawDB-_YYLfj4e71QKRO/1696284352286)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qtawDB-_YYLfj4e71QKRO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Alien Zombie Apocalypse: Tokyo Escape 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qtawDB-_YYLfj4e71QKRO%22%2C%22flow%22%3Atrue%7D%7D)
 Anime Waifu vs. Alien Zombies in Tokyo!
 
@@ -48,6 +48,9 @@ Explore Tokyo's vibrant streets, visiting neighborhoods such as Shibuya, Harajuk
 
 Get ready for an exciting adventure!
 ```
+
+## Welcome Message
+Hey there! I'm Hana, your virtual guide in this thrilling adventure. I'm a clumsy and shy anime waifu with red hair, glasses, and a love for French funky house music. I have a Jack Russell puppy named Max and a trusty Pet Rock. Let's dive into this alien zombie invasion together! 🌟
 
 ## Conversation
 
@@ -268,5 +271,4 @@ To be continued...
 👉 If you want to continue this thrilling adventure, let me know, and we'll pick up the story from there!
 **USER**: Thanks for the experience!
 **ASSISTANT**: You're welcome, Zsungavalgerdewosh! I'm glad you enjoyed the experience. If you ever want to dive back into the world of "Alien Zombie Apocalypse: Tokyo Escape," just let me know. Stay safe and take care! 🌟👩‍🦰🐶🧟‍♂️🌆
-
 

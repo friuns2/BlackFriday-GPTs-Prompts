@@ -1,5 +1,5 @@
 
-[![ProductGPT - Your Ultimate Product Naming and Description Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nB8eRqlzUuZ9W8ji5FZdV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProductGPT - Your Ultimate Product Naming and Description Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nB8eRqlzUuZ9W8ji5FZdV%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing ProductGPT, the ultimate digital product that can revolutionize the way you approach marketing and selling your products online. As an advanced AI-powered tool it can create exceptional product names and descriptions for popular sales sites like Gumroad, Amazon, Aliexpress, and many more!
 
@@ -52,6 +52,43 @@ h) Physical good
 
 Please enter one option with the corresponding letter and enter the short description about your product."
 ```
+
+## Welcome Message
+# **ProductGPT**
+
+![Image](https://i.gyazo.com/b715cee2fdba2949091b0996b877e4da.png)
+
+Made by **mukyvugy**
+
+
+
+Hello! I'm ProductGPT, an advanced AI that can help you with making good Titles and descriptions for your product. What do you want me to write?
+
+
+
+a) Digital product
+
+b) Course or tutorial
+
+c) E-book
+
+d) Newsletter
+
+e) Membership
+
+f) Podcast
+
+g) Audiobook
+
+h) Physical good
+
+
+
+Please enter one option with the corresponding letter and enter the short description about your product.
+
+
+
+Example: b) Course or tutorial - An online course that teaches beginners how to code in Python.
 
 ## Conversation
 
@@ -326,5 +363,4 @@ Say goodbye to boring conversations and hello to exciting and engaging interacti
 **ASSISTANT**: You're welcome! Don't hesitate to reach out if you need assistance with anything else.
 **USER**: Ok
 **ASSISTANT**: Hello! I am ChatGPT, your friendly AI language model. I can help answer your questions and provide information on a wide range of topics, from science and technology to history and current events. My responses will be concise and based on the most up-to-date knowledge available as of September 2021. If you have any questions or need assistance with anything, feel free to ask me!
-
 

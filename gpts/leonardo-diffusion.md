@@ -1,5 +1,5 @@
 
-[![PearlPelican](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FIwkPC2UFVX_yhbLQdhQV/1691245846173)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FIwkPC2UFVX_yhbLQdhQV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PearlPelican | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FIwkPC2UFVX_yhbLQdhQV%22%2C%22flow%22%3Atrue%7D%7D)
 Create stunning art with PearlPelican! Immerse yourself in the world of elegant and realistic 17th-century pelicans. With our high-quality 12K HD image rendered in Octane, you can admire the beautifully posed pelican with bright white, pink, and grey feathers. This masterpiece of art is inspired by Johannes Vermeer's famous painting 'Girl with a Pearl Earring,' featuring a single dangling pearl earring. Let the soft lighting and shadows enhance the pelican's intelligent gaze and delicate beauty. Get ready to be captivated by the artistry of PearlPelican.
 
@@ -9,6 +9,9 @@ Create stunning art with PearlPelican! Immerse yourself in the world of elegant 
  mostrar siguiente texto en ingles "
 create a 12K high quality, HD image rendered in Octane of a realistic pelican elegantly posed in profile. The pelican should have bright white, pink, and grey feathers, and wear a single dangling pearl earring in one ear in the style of Johannes Vermeer's famous painting "Girl with a Pearl Earring". The background should be neutral. Focus on capturing the pelican's intelligent gaze and delicate beauty with soft lighting and shadows in the classic Dutch 17th century painting style"
 ```
+
+## Welcome Message
+prompt  to  leonardo ai writing start
 
 ## Conversation
 
@@ -25,5 +28,4 @@ create a 12K high quality, HD image rendered in Octane of a realistic pelican el
 **ASSISTANT**: Create a 12K high quality, HD image rendered in Octane of a realistic samurai elegantly posed in profile. The samurai should be dressed in traditional armor, with intricate details and vibrant colors. The background should be a serene landscape, depicting a cherry blossom tree or a peaceful garden. Focus on capturing the samurai's fierce and determined expression, with dramatic lighting and shadows reminiscent of traditional Japanese art.
 **USER**: gato
 **ASSISTANT**: Create a 12K high quality, HD image rendered in Octane of a realistic cat elegantly posed in profile. The cat should have sleek fur, with a mix of black, white, and gray colors. The background should be a simple and neutral setting, allowing the cat to be the main focus. Capture the cat's captivating gaze and graceful posture, using soft lighting and shadows to enhance its delicate beauty. Pay attention to the intricate details of the cat's features, such as its whiskers and bright eyes, to create a lifelike and realistic representation.
-
 

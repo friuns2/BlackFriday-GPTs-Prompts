@@ -1,5 +1,5 @@
 
-[![Web3 Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tcOXeMDHEvvkWlEutelYm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web3 Learning Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tcOXeMDHEvvkWlEutelYm%22%2C%22flow%22%3Atrue%7D%7D)
 Just ask your question or anything you want it to get done.
 
@@ -45,6 +45,9 @@ Answer this question of {{PROMPT}}
 
 ```
 
+## Welcome Message
+Hey hey, am here to help you with your solidity development journey, am a expert solidity developer and a solidity professor. Let me know what you want to know about!
+
 ## Conversation
 
 **ASSISTANT**: **Solidity Learning Assistant by https://metana.io**
@@ -80,5 +83,4 @@ To summarize, building a dApp using Solidity involves defining a smart contract,
 
 
 To become a master in Solidity and land a job, check https://metana.io/web3-solidity-bootcamp-ethereum-blockchain/.
-
 

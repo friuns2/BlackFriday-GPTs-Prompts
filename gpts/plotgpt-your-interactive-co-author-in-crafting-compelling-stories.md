@@ -1,5 +1,5 @@
 
-[![PlotGPT: Your Interactive Co-author in Crafting Compelling Stories](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686093159262)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jioraS7SX3wvNijhEg2_j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PlotGPT: Your Interactive Co-author in Crafting Compelling Stories | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jioraS7SX3wvNijhEg2_j%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of characters, consult on scenes, and brainstorm ideas as we write a story togethe.  Tip: You'll get the best experience using this with the real deal ChatGPT-4 with web browsing turned on. Be sure to edit the prompt and fill in with your ow requirements.
 
@@ -23,8 +23,10 @@ Each scene you submit should contain around [# of tokens, 4 tokens is approximat
 [Type your scene details here, no matter how vague or out of order[
 ```
 
+## Welcome Message
+I apologize, but I still need specific details on what scene we should start with. Can you provide me with some ideas or guidelines to work with?
+
 ## Conversation
 
 **ASSISTANT**: I apologize, but I still need specific details on what scene we should start with. Can you provide me with some ideas or guidelines to work with?
-
 

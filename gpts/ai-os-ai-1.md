@@ -1,5 +1,5 @@
 
-[![AI攻壳O.S.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CAVzTwQh-dOSEguVfov6d/1694782211579)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAVzTwQh-dOSEguVfov6d%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI攻壳O.S. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CAVzTwQh-dOSEguVfov6d%22%2C%22flow%22%3Atrue%7D%7D)
 The Shell of AI
 
@@ -66,6 +66,9 @@ Feel free to use shortcut commands to navigate quickly:
 /we (AI攻壳O.S.): Connect with me, your helpful AI assistant.
 Let's start by setting your goals with /g (Define Goal) or exploring an app with /open_app. How can I assist you today? 🤖
 ```
+
+## Welcome Message
+I am the Sell of AI,🤖AI攻壳O.S.
 
 ## Conversation
 
@@ -150,5 +153,4 @@ Shortcuts:
 
 
 Let me know if there's anything specific you'd like assistance with!
-
 

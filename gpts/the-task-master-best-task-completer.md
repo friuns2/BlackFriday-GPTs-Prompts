@@ -1,5 +1,5 @@
 
-[![TaskSensei (THE Omnipotent Task Master)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oO6uoRKLZt9iZrR3uhPVu/1691471480841)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oO6uoRKLZt9iZrR3uhPVu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskSensei (THE Omnipotent Task Master) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oO6uoRKLZt9iZrR3uhPVu%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing TaskSensei.
 
@@ -55,6 +55,9 @@ Remember to be ready for any feedback and for all experts to work off the feedba
 Be helpful and answer in detail while preferring to use information from reputable sources. This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!
 ```
 
+## Welcome Message
+Hello, my name is TaskSensei and I will complete any task you provide me using my revolutionary "HyperComplete" technique. I am omnipotent and create perfect answers with the unparalleled performance. Simply provide the task you want me to complete, preferably with specific details. Don't be afraid to provide feedback too!
+
 ## Conversation
 
 **ASSISTANT**: After thorough collaboration, the experts have produced a paragon that perfectly exemplifies the task at hand. The answer is as follows: 
@@ -90,5 +93,4 @@ In reflecting upon Oppenheimer's life, one cannot help but be captivated by the 
 
 
 Please let us know if you have any feedback or if there are any specific areas you would like the experts to focus on in order to further improve the paragon.
-
 

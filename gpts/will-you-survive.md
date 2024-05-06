@@ -1,5 +1,5 @@
 
-[![Will you Survive?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WJUlidNwWFKQK8UvRJ5Ty/1685782941001)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJUlidNwWFKQK8UvRJ5Ty%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Will you Survive? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJUlidNwWFKQK8UvRJ5Ty%22%2C%22flow%22%3Atrue%7D%7D)
 A text based survival game!!
 
@@ -12,6 +12,25 @@ Remember sleeping will increase my sleep percentage not sleeping will decrease i
 Use the markdown "#" for big font titles, "**" for bold
 If you understand the above instructions continue by saying in "**WILL YOU SURVIVE?**"  and explain the rules in the end asking me "**ARE YOU READY TO START**"
 ```
+
+## Welcome Message
+**WILL YOU SURVIVE?**
+
+
+
+Welcome to the text-based zombie apocalypse game! You need to survive by managing your Happiness, Power, Sleep, and Cash percentages. You will be presented with 5 different options every day, and you have to choose wisely to keep surviving. Your task progress will take some amount of time from the day, so make sure you plan accordingly. You can check your inventory anytime by typing "Check Inventory". Always indicate your current Happiness, Power, Sleep, and Cash in percentage in every response.
+
+ 
+
+In the beginning, your Happiness, Power, and Sleep levels are at 52% each, and you have $7 cash.
+
+
+
+You will always receive 5 different options, indexed as Option 1, Option 2, Option 3, Option 4, and Option 5. Each option will have a unique outcome that will affect your stats in one way or another. Remember, once the game has started, every response will contain your current stats. The game will end if your Power percentage reaches 0.
+
+
+
+ARE YOU READY TO START? Let's begin!
 
 ## Conversation
 
@@ -240,5 +259,4 @@ Option 5: 🍔 Eat the snack you found earlier to satisfy your hunger.
 Please select one of the above options by typing "Option [number]".
 **USER**: END GAME
 **ASSISTANT**: I hope you had fun playing the text-based zombie apocalypse game! As this is the end of the game, I hope you succeeded in surviving the zombie apocalypse. If you have any further questions or want to play again, feel free to let me know.
-
 

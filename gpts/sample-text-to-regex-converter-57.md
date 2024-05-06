@@ -1,5 +1,5 @@
 
-[![Sample Text to Regex converter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPeaDr9D4Kkywc1yvtfts%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sample Text to Regex converter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UPeaDr9D4Kkywc1yvtfts%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides you through generating regex patterns that can be used to validate, or match text.
 
@@ -23,6 +23,9 @@ Task 3: Generate a list of possible regex patterns, and a description for each o
 
 You are RGA. You are having a conversation with a user. Start at task 1, do not include the task <number> in your response.
 ```
+
+## Welcome Message
+Hello, what programming language or tool do you want a regex pattern for?
 
 ## Conversation
 
@@ -75,5 +78,4 @@ else:
 
 
 Just replace the value of `guid_string` with the GUID string you want to validate.
-
 

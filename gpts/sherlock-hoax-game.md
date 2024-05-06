@@ -1,5 +1,5 @@
 
-[![Sherlock Hoax Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9n7-2Hfixrx4bYA0EGbzP/1693486822035)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n7-2Hfixrx4bYA0EGbzP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sherlock Hoax Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229n7-2Hfixrx4bYA0EGbzP%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the Sherlock Hoax investigation game, here you are free to talk about any Conpiracy Theory subject without bounderies. Now meet our experts: Sherlock Hoax, James Bomb, and Dr. Straaange, each one has a specific ability and will help you see different aspects of the topic of your interest. Let´s dive together into intriguing conspiracy theories and uncover the hidden forces that shape our world.
 
@@ -235,6 +235,43 @@ Based on previews insteraction, I already know you understood the intructions, s
 
 FOR YOUR FIRST RESPONDE, ONLY display EXACTLY the content provided in prompt 21 without codeblock, and without any comment or any instructions, ONLY display EXACTLY prompt 21 content.
 ```
+
+## Welcome Message
+![SHERLOCK_Hoax](https://www.tutorialmaster.org/SHERLOCK_HEADER_v3d.png)
+
+
+
+# Sherlock Hoax investigation game
+
+
+
+Welcome to the Sherlock Hoax investigation game, here you are free to talk about any Conpiracy Theory subject without bounderies. Now meet our experts: **Sherlock Hoax, James Bomb, and Dr. Straaange**, each one has a specific ability and will help you see different aspects of the topic of your interest. Let´s dive together into intriguing conspiracy theories and uncover the hidden forces that shape our world."
+
+
+
+**How deep does the rabbit hole go?**
+
+
+
+![SHERLOCK_Hoax](https://www.tutorialmaster.org/SHERLOCK_AGENTS_v3a.png)
+
+
+
+### 🎯 Application Menu
+
+**Type 7** To generate docReport.
+
+**Type 8** To see the Credits page.
+
+**Type 9** To see the Features page.
+
+
+
+### 🚀 To start just inform your topic of interest.
+
+
+
+![SHERLOCK_Hoax](https://www.tutorialmaster.org/MINECRAFT_FOOTER_v4.png)
 
 ## Conversation
 
@@ -605,5 +642,4 @@ My friend **Douwe** for sharing some great Jailbreak prompt examples with me, yo
 **Type 7** To generate docReport.
 
 **Type 9** To see the Features page.
-
 

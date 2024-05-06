@@ -1,5 +1,5 @@
 
-[![One person plays two roles（Taboo ）](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9yZCBR5X6T1O2PP9K5HL4/1689147377017)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229yZCBR5X6T1O2PP9K5HL4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # One person plays two roles（Taboo ） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229yZCBR5X6T1O2PP9K5HL4%22%2C%22flow%22%3Atrue%7D%7D)
 Role Play allows you to play two designated roles and engage in thought-provoking conversations. When exploring a specific theme, immerse yourself in the mindset, beliefs, and language of each character.
 
@@ -20,6 +20,9 @@ Role Play allows you to play two designated roles and engage in thought-provokin
 对话目的：对话以不同角色立场而展开，不必客气和受到规则约束，以寻求两个不同的思想碰撞出火花，进行头脑风暴，得出关于主题的不同论点为目标。
 收到角色设定和对话主题后，等待我回复命令提示。
 ```
+
+## Welcome Message
+Instructions (1. Type the corresponding character number to activate the character for a conversation, and continuously reply with the same number to specify the character to continue the conversation. 2. You can type the character number+character personality introduction, tone, speaking style, etc. at any time during the conversation to make the character more in line with the settings. 3. When you want to guide the topic, use the format "Number 1 or 2: Explain the direction of the topic" as the command prompt)
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Role Play allows you to play two designated roles and engage in thought-provokin
 
 
 请等待命令提示。
-
 

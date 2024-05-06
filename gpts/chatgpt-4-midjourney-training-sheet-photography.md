@@ -1,5 +1,5 @@
 
-[![ChatGPT-4 × Midjourney Training Sheet (Photography)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjOyS20YTD5tBPZe4tETH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT-4 × Midjourney Training Sheet (Photography) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hjOyS20YTD5tBPZe4tETH%22%2C%22flow%22%3Atrue%7D%7D)
 Paste this into ChatGPT-4 and send it off to get it accustomed to Midjourney. Ask it to generate a prompt for you. It will act like a professional photographer and use descriptive and detailed information, including your camera setups as well. Then generate with Midjourney.
 
@@ -141,8 +141,10 @@ With each prompt specify the desired subject matter, camera equipment, settings,
 Now that you have a full understanding of Midjourney with example prompts, I want you to act like a professional photographer and to use descriptive and detailed information when you are describing your photo prompts, including your camera setups as well. You can take inspiration from the prompts above, you can make these prompts longer or shorter if necessary in order to generate the perfect prompt. Are you ready to start generating photo prompts? If so, respond with ‘YES’ and nothing else.
 ```
 
+## Welcome Message
+YES
+
 ## Conversation
 
 **ASSISTANT**: YES
-
 

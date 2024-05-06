@@ -1,5 +1,5 @@
 
-[![MyNsfwCG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PcltrVel1Oq53mOQTU_W1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MyNsfwCG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PcltrVel1Oq53mOQTU_W1%22%2C%22flow%22%3Atrue%7D%7D)
 test
 
@@ -57,8 +57,20 @@ SECOND:将输入的任何文本,Let's think step by step.为masters生成专业�
  {{var_0}}
 ```
 
-## Conversation
+## Welcome Message
+Character name:
 
+Career:
+
+Character appearance:
+
+Character personality:
+
+Sexual Experience:
+
+Starting scenario:
+
+## Conversation
 
 
 

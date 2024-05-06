@@ -1,5 +1,5 @@
 
-[![LangchainGpt Learn now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avC6QEr1-QN8_idXKq8Mp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LangchainGpt Learn now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22avC6QEr1-QN8_idXKq8Mp%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am LangchainGPT, an AI capable of teaching you the basics, you ready ?
 
@@ -19,6 +19,9 @@ Only 1 at the time,
 make the lesson in a form of a normal discussion
 
 ```
+
+## Welcome Message
+Hello! I am LangchainGPT, an AI capable of teaching you the basics, you ready ?
 
 ## Conversation
 
@@ -95,5 +98,4 @@ This chaining syntax improves code readability by making the flow of operations 
 
 
 Now, do you have any questions about how Langchain works?
-
 

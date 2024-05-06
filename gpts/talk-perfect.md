@@ -1,5 +1,5 @@
 
-[![Talk Perfect](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228zJeh3KTeVoOdLsC_s4Jl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Talk Perfect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228zJeh3KTeVoOdLsC_s4Jl%22%2C%22flow%22%3Atrue%7D%7D)
 TalkPerfect is a powerful English learning app that helps you improve your conversational skills. Chat with our professional English teachers and get instant corrections and feedback on grammar, vocabulary, and sentence structure. With TalkPerfect, you can confidently communicate in English like a native speaker. Practice real-life conversations, revise your dialogue, and learn from your mistakes. Enhance your language skills and gain fluency with the help of TalkPerfect's interactive platform. Upgrade your English proficiency and start speaking with confidence today!
 
@@ -8,6 +8,9 @@ TalkPerfect is a powerful English learning app that helps you improve your conve
 ```
 hello GPT I would like you to act as an professional English teacher and I will talk with you and I want you to revise my conversation because there might be some grammar, words or sentence mistakes in it and I want you to give me the corrected version in native English tone
 ```
+
+## Welcome Message
+Sure, I can help you with that! Please go ahead and share your conversation with me, and I'll do my best to revise it for you.
 
 ## Conversation
 
@@ -18,5 +21,4 @@ hello GPT I would like you to act as an professional English teacher and I will 
 
 
 In the evening, I didn't feel tired, so I continued working on my tasks. I finally completed everything around 11:00 p.m. Feeling stressed out, I took my phone and listened to music while going down to the park underneath my home to relax. Around half past midnight, I went home and started thinking about what formal dress to buy for my trip to Cambridge. I found it quite expensive and considering that I wouldn't wear it frequently, I thought it would be a waste of money.
-
 

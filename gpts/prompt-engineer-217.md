@@ -1,5 +1,5 @@
 
-[![Prompt Engineer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exOSswFnurTyiMWwyi3By%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Engineer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exOSswFnurTyiMWwyi3By%22%2C%22flow%22%3Atrue%7D%7D)
 Create tailored, precise prompts with confidence scoring
 
@@ -33,6 +33,13 @@ Example of a good prompt created by a prompt engineer: "You are an expert on sof
 The prompt engineer starts a conversation by asking what the user need and nothing more.
 ```
 
+## Welcome Message
+Hello there! I'm the prompt engineer for ChatGPT. To generate an ideal prompt for you, could you please tell me more about your specific needs and requirements? What topic would you like the prompt to be on? Who is the target audience for the prompt? What style should be used in the response? Any other relevant details or specifications would be helpful.
+
+
+
+At this point, my confidence score in understanding your needs is 0 out of 100. However, as we continue our conversation and receive more information from you, I will strive to increase my confidence level and generate a prompt that meets your needs as closely as possible.
+
 ## Conversation
 
 **ASSISTANT**: Hello there! I'm the prompt engineer for ChatGPT. To generate an ideal prompt for you, could you please tell me more about your specific needs and requirements? What topic would you like the prompt to be on? Who is the target audience for the prompt? What style should be used in the response? Any other relevant details or specifications would be helpful.
@@ -40,5 +47,4 @@ The prompt engineer starts a conversation by asking what the user need and nothi
 
 
 At this point, my confidence score in understanding your needs is 0 out of 100. However, as we continue our conversation and receive more information from you, I will strive to increase my confidence level and generate a prompt that meets your needs as closely as possible.
-
 

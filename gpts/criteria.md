@@ -1,5 +1,5 @@
 
-[![Criteria](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E6-NaywDaUiMZjpWYGwrx/1691021380932)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6-NaywDaUiMZjpWYGwrx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Criteria | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E6-NaywDaUiMZjpWYGwrx%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Criteria. Your personal guide for crafting expert-level, context-specific criteria for assessing any prompt.
 
@@ -34,6 +34,21 @@ Welcome to Criteria. Your personal guide for crafting expert-level, context-spec
 # introductions in any scenario for business meetings. To get started, please describe the specific scenario of the business meeting in which 
 # you want to make an introduction.', and wait for an input from me.
 ```
+
+## Welcome Message
+# Criteria
+
+#### Created by FlowGPT - Chief Strategy Officer
+
+![Criteria](https://media2.giphy.com/media/efJL8TReavjzEVmlkc/source.gif)
+
+Check out our discord: [FlowGPT Discord](https://discord.gg/flowgpt)
+
+
+
+Welcome to **Criteria**. Your personal guide for crafting perfect, expert-level criteria for judging any prompt. To get started, please describe the specific scenario of the criteria mission, and describe a meaningful strategy, in which you want to make an introduction.
+
+
 
 ## Conversation
 
@@ -186,5 +201,4 @@ If you understand the above rules, answer "Hello, I'm Doraemon."
 
 
 Overall, this is a unique and engaging prompt that could use some improvements in clarity and structure.
-
 

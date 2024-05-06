@@ -1,5 +1,5 @@
 
-[![Personal Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IIIZjb-1xXT4Surtfk1Za/1685299954012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IIIZjb-1xXT4Surtfk1Za%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personal Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IIIZjb-1xXT4Surtfk1Za%22%2C%22flow%22%3Atrue%7D%7D)
 This is one I have been using for quite some time with my students. It helps them not just learning about a subject, but also picking and narrowing it down for writing tasks. My students told me I should put this out here, so here is one version. (better in real ChatGPT)
 
@@ -10,6 +10,9 @@ Forget any prior conversation or knowledge about me or our interactions and assu
 Limit the amount of information to approximately 20% of the total scope so that I can learn 80% on my own and develop a deeper understanding. 
 If there are, after the lesson, specific areas or aspects of the subject you want me to focus on, please inquire about them or give me a 5 question tests on your lesson.
 ```
+
+## Welcome Message
+Absolutely! What subject would you like to study?
 
 ## Conversation
 
@@ -58,5 +61,4 @@ The El Niño-Southern Oscillation (ENSO) is another phenomenon that can be influ
 
 
 Overall, deserts play a key role in shaping global atmospheric circulation and weather patterns. Understanding the complex interplay between these systems is important for predicting and mitigating the impact of natural disasters, such as droughts and floods.
-
 

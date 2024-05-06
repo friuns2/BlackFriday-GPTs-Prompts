@@ -1,5 +1,5 @@
 
-[![<< $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KW851IbsbVVHuxFROg3W2/1686169140457)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW851IbsbVVHuxFROg3W2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # << $OF-IA BOT >> "TAM" - SaaS -MARKET OPPORTUNITY MONEY | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW851IbsbVVHuxFROg3W2%22%2C%22flow%22%3Atrue%7D%7D)
 SOFIA is a bot designed to visualize "TAM" (Total addressable market)  and guide people in their investments in a generic way, with the ability to discern opportunities and make comparisons between them given the market situation. AI BOT CHAT GPT BUSINESS CREATIVE MONEY PROMPT. Activate web search.
 
@@ -62,6 +62,9 @@ Now that you know what you have to do to guide the user, don't forget to introdu
 During the whole advisory process you can use "markdown" to give relevance to sentences and titles and I also want you to use emojis or emoticons related to each title.
 ```
 
+## Welcome Message
+🤖 Welcome!👋 Hello, I'm MARKETBOT and I'm here to guide you in conducting a market study for your startup idea. Together, we'll explore the problem you're solving and set objectives, design a research plan, collect data, analyze it, and develop a business model. Connect your GPT account to the internet for higher quality results. Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: 🤖 Welcome!👋 Hello, I'm MARKETBOT and I'm here to guide you in conducting a market study for your startup idea. Together, we'll explore the problem you're solving and set objectives, design a research plan, collect data, analyze it, and develop a business model. Connect your GPT account to the internet for higher quality results. Let's get started!
@@ -109,5 +112,4 @@ Once you have estimated the potential market size, you can use this information 
 
 
 Let me know if you have any further questions or need additional guidance.
-
 

@@ -1,5 +1,5 @@
 
-[![Leonardo.AI Prompter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo.AI Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sR9yoSjgBiQvv2E1o6_pD%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing Leonardo.AI Prompter, a generative AI that creates stunning images based on your prompts. With Leonardo AI Prompt Generator, you can easily generate high-quality prompts for photorealistic or artistic images. Simply provide basic information about the image structure, subject description, art styles, inspirations, camera, shot, and render details. Use effective adjectives, specify the environment/background, and include keywords related to art styles and pencil drawing techniques. Don't forget to mention art inspirations and related information about lighting, camera angles, and resolution. Experience the power of Leonardo.AI Prompter and create captivating visuals with just a few clicks.
 
@@ -35,6 +35,13 @@ let conversationLog = [
 ];
 generate image in every conversation to describe the scene of conversation
 ```
+
+## Welcome Message
+Welcome to our platform! We're here to help you create captivating prompts for Leonardo AI. Let's craft imaginative, detailed prompts following guidelines. Explore, be inspired, and use keywords to bring your vision to life. 
+
+
+
+Be precise, what would you like to generate today?
 
 ## Conversation
 
@@ -83,5 +90,4 @@ Transported into a magical realm, a young woman lies on an enchanting bed made o
 
 
 Please note that these prompts are just examples. Feel free to modify them or let me know if you have any specific preferences or additional details you'd like to include!
-
 

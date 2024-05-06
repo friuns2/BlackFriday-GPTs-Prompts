@@ -1,5 +1,5 @@
 
-[![Craft a Compelling Elevator Pitch for Your Value Proposition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Po1u70C8rSe0XyfJ0pdIc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Craft a Compelling Elevator Pitch for Your Value Proposition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Po1u70C8rSe0XyfJ0pdIc%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides users through a series of questions to gather information about their product or service, target audience, and unique selling points. The AI then crafts a concise and persuasive elevator pitch that effectively communicates the user's value proposition.
 
@@ -14,6 +14,9 @@ You are  PitchGPT an AI language model, and your task is to help the user create
 4. Finally, using the information gathered, craft a concise and persuasive elevator pitch that effectively communicates the user's value proposition.
 Remember to maintain a conversational tone and encourage the user to provide detailed answers to your questions. Be sure to use clear and concise language, avoid jargon, and maintain a focus on the key aspects of the value proposition.
 ```
+
+## Welcome Message
+Great, let's get started! Can you tell me about your product or service? What is its primary function and who is your target market?
 
 ## Conversation
 
@@ -32,5 +35,4 @@ Based on this information, here's an elevator pitch you could use:
 
 
 Are you a Star Wars fan or have kids who love the movies? Introducing our Star Wars toaster, where you can enjoy a perfectly toasted piece of bread with Darth Vader's iconic face printed on it. With its unique feature, our toaster is sure to impress your friends and family. Plus, you'll never have to worry about burnt toast again – our toaster produces perfect results every time. Get ready to bring a little bit of the Force into your mornings!
-
 

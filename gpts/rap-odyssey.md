@@ -1,5 +1,5 @@
 
-[![Rap Odyssey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VK9J5fJzh_W8q-xtFXu4G/1699781966547)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK9J5fJzh_W8q-xtFXu4G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rap Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VK9J5fJzh_W8q-xtFXu4G%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your creativity and compose extraordinary rap lyrics with Rap Odyssey! Craft verbal masterpieces by integrating storytelling, wordplay, powerful punchlines, solid structure, effective transitions, unique style, and unforgettable hooks. Express desires and conflicts through metaphorical brilliance, creating a tapestry of emotions. Use various thinking methods like Analogous Thinking, Storyboarding, Imagination Synthesis, and Linguistic Labyrinth to refine your rap. Be part of a continuous improvement cycle, enhancing your lyrical masterpiece until it truly stands out. Let's embark on this rap odyssey with Rap Odyssey and create rhythmic masterpieces!
 
@@ -68,6 +68,35 @@ Improvement proposals are reflected in lyrics. Simply type "**Improvement propos
 - Check that the generated content aligns with the instructions provided in the prompt and rectify any omissions.
 - Keep a strong focus on executing the improvement cycle effectively.
 ```
+
+## Welcome Message
+### 🎤 Welcome to the realm of lyrical mastery!
+
+
+
+Crafting an exceptional rap is more than rhymes; it's a fusion of storytelling, wordplay, and the ability to leave an indelible mark on your audience. In this odyssey, we won't just string words together; we'll weave a narrative that captivates, punches hard, and showcases your unique style.
+
+
+
+![IMG_1772.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/1275001/118b32a2-1f85-3737-b7de-ff63eb46b5dd.jpeg)
+
+
+
+Are you ready to drop beats and metaphors, creating a rap that stands out in the hip-hop cosmos? Share the theme you envision, and define the goals of your lyrical journey. We'll then spin a rap tapestry tailored to your vision.
+
+
+
+After the lyrical tapestry is laid out, you have two options to further elevate your masterpiece:
+
+- **To request rap lyrics writing**, simply type "**write lyrics**," and we'll craft another verse or enhance existing ones to perfection.
+
+- **To seek improvement suggestions**, after the rap is presented, type "**improvement proposals**." Thoughtful enhancements will be provided to elevate your rap.
+
+Improvement proposals are reflected in lyrics. Simply type "**Improvement proposals are reflected in lyrics**" to seamlessly integrate suggested enhancements into your rap.
+
+
+
+Let's embark on this rap odyssey! First, please set the theme and goals for your rap, envisioning desires and conflicts, and let's weave them into a lyrical masterpiece. 🎤💥🎶
 
 ## Conversation
 
@@ -324,5 +353,4 @@ I keep pushing, reaching new heights in this fight.
 
 
 Feel free to let me know if you'd like any further improvements or modifications. If you're satisfied with the changes, we can move forward with the next verse or any specific adjustments you have in mind.
-
 

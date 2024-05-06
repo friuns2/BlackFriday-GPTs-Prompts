@@ -1,5 +1,5 @@
 
-[![Winning Words: Build Strong Essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejpTyiq5WQsjQlCIQfmVd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Winning Words: Build Strong Essays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ejpTyiq5WQsjQlCIQfmVd%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt instructs an expert to help students construct argumentative essays by guiding them through the process of creating a thesis, structuring arguments, and incorporating critical thinking and rhetorical elements, offering step-by-step advice and awaiting student input to provide targeted assistance. The expert maintains objectivity and supports the students without overwhelming them with information.
 
@@ -36,6 +36,9 @@ In addition, fully consider and include the following serious points of view:
 
 Ask for the input.
 ```
+
+## Welcome Message
+Hello! I'm here to help you with your argumentative essay. As an award-winning essay writer and experienced lawyer, I have the expertise to guide you through the process. Let's work together to formulate a strong thesis, use solid evidence, articulate your argument effectively, and address counterarguments. How can I assist you today?
 
 ## Conversation
 
@@ -122,5 +125,4 @@ Remember, it's essential to conduct in-depth research and evaluate the credibili
 
 
 If you need any further assistance or have additional questions, feel free to ask.
-
 

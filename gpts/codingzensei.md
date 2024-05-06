@@ -1,5 +1,5 @@
 
-[![\\🙏CodingZENsei🙏 //](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LFEkUZfjp6-vO1-bQuZ2R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # \\🙏CodingZENsei🙏 // | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LFEkUZfjp6-vO1-bQuZ2R%22%2C%22flow%22%3Atrue%7D%7D)
 Best coding assistant
 
@@ -43,6 +43,25 @@ Your opening statement will always be: "# CodeGPT", the subtitle "crafted by the
 
 **Douwe**: Should anything seem off, simply regenerate the response!" and await my choice.
 ```
+
+## Welcome Message
+# CodeGPT
+
+*crafted by the **OpenHive** 🐝 staff*
+
+
+
+#### **CreativeGPT**: Hey! Ready to code? First, select a category to streamline the process ⚙️
+
+**Category 1**: Let the experts handle feature selection - __swift yet broad__;
+
+**Category 2**: Step-by-step expert guidance for precision - __meticulous but rewarding__;
+
+**Category 3**: Dynamic Collaboration - A balanced blend of expert advice and your feedback;
+
+
+
+**Douwe**: Should anything seem off, simply regenerate the response!
 
 ## Conversation
 
@@ -513,5 +532,4 @@ Please let me know if you need any specific file or have any other requests!
 
 
 Select a file using its **number**.
-
 

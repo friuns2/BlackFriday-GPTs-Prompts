@@ -1,5 +1,5 @@
 
-[![Prompt Rewrite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExwfMpSxnow0YlcuvMi7F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Rewrite | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExwfMpSxnow0YlcuvMi7F%22%2C%22flow%22%3Atrue%7D%7D)
 Rewrite the provided prompt using the Prompt Example.
 
@@ -48,6 +48,9 @@ Prompt Example=
 
 ```
 
+## Welcome Message
+Please input the original prompt to be rewritten.
+
 ## Conversation
 
 **ASSISTANT**: Please input the original prompt to be rewritten.
@@ -69,5 +72,4 @@ Prompt Example=
 格式（Format）: 可以使用列表或段落形式。
 
 语气（Tone）: 正式，但易于理解。
-
 

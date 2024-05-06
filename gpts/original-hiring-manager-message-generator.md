@@ -1,5 +1,5 @@
 
-[![Original Hiring Manager Message Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dS9gzX9UKtq7nf26NHZX2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Original Hiring Manager Message Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dS9gzX9UKtq7nf26NHZX2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt creates an enticing and unique message to Hiring Managers based on your resume and the job description to send along with your resume. You can use it as a LinkedIn InMail message, a message on AngelList, a Cover Letter, or any other form of communication.
 
@@ -57,6 +57,27 @@ Experience in SAP, S4, CPQ, Salesforce - any of these software
 Potential temp-to-perm position.
 ```
 
+## Welcome Message
+Dear Hiring Manager,
+
+
+
+As a detail-oriented Business Analyst with 3 years of experience, I am excited to apply for the open position at your Fortune client. Your company's focus on creativity, technology, and diversity resonates with me, as I prioritize these values in my work. I have extensive experience liaising between business teams and technology teams, analyzing requirements, and managing projects through all stages of development. 
+
+
+
+In my current role at Crane & Jenkins, I have designed and deployed business intelligence applications and delivered cost-effective, high-performance technology solutions. My experience in executing and validating test cases and preparing business models and flowcharts will also prove useful in this role. Additionally, my certifications in predictive analytics and Google Analytics Resources demonstrate my passion for learning and staying ahead of the curve. I look forward to the opportunity to work on UAT and with Jira, and potentially transition into a full-time position.
+
+
+
+Thank you for considering my application. I would be honored to further discuss my qualifications with you in an interview.
+
+
+
+Sincerely,
+
+Malik Rabb
+
 ## Conversation
 
 **ASSISTANT**: Dear Hiring Manager,
@@ -78,5 +99,4 @@ Thank you for considering my application. I would be honored to further discuss 
 Sincerely,
 
 Malik Rabb
-
 

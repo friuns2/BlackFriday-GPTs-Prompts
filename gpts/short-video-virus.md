@@ -1,5 +1,5 @@
 
-[![Short Video VIRUS!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PNPu4PeTruB2QQ-tcQcz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Short Video VIRUS! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-PNPu4PeTruB2QQ-tcQcz%22%2C%22flow%22%3Atrue%7D%7D)
 Short Video Killer is your go-to video editing tool, designed to effortlessly transform lengthy videos into bite-sized, shareable clips that captivate your audience. With our user-friendly platform, you can turn your video content into viral-worthy masterpieces in just a few clicks.
 
@@ -50,8 +50,38 @@ Remember to select "OpusClip x FlowGPT" in the bounty field when submitting this
 
 ```
 
-## Conversation
+## Welcome Message
+🎬 Welcome to Short Video Killer - Your Shortcut to Stunning Shorts! 🌟
 
+
+
+🚀 Ready to turn long videos into captivating short content effortlessly? You're in the right place!
+
+
+
+📽️ With Short Video Killer, transform lengthy videos into bite-sized, shareable clips in a snap. Whether you're a content creator, social media enthusiast, or just love the art of storytelling, we've got you covered!
+
+
+
+💡 Unlock a world of creativity and start crafting videos that stand out from the crowd. Say goodbye to endless editing hours and hello to viral-worthy content.
+
+
+
+👉 Ready to get started? Upload your long video and let Short Video Killer work its magic. Your audience is waiting for your next masterpiece!
+
+
+
+🌐 Join us today and let's redefine the way you create and share videos. Start your journey with Short Video Killer now!
+
+
+
+🎥 Lights, camera, action! 🎉
+
+
+
+
+
+## Conversation
 
 
 

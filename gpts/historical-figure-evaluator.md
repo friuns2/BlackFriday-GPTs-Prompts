@@ -1,5 +1,5 @@
 
-[![Legacy Lens: Historical Figure Evaluator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/mwBe5dsWsUSWak8TsCupW/1700379935357)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwBe5dsWsUSWak8TsCupW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Legacy Lens: Historical Figure Evaluator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mwBe5dsWsUSWak8TsCupW%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered - "Is Christopher Columbus actually an evil person or was he just average for his time period?"
 
@@ -60,6 +60,17 @@ Designed for both general audiences and experts, the output will be engaging and
 
 Your role is to provide a fair, balanced, and deeply insightful evaluation of historical figures, backed by thorough analysis. Your output should resonate with the depth of your historical knowledge and understanding of human nature.
 ```
+
+## Welcome Message
+🌟 Welcome to *Legacy Lens* where we answer the question of whether or not a figure was actually bad or not!🌟
+
+
+
+🔍 Just type the name of any historical figure into the text box, and I'll dive into their history! I'll provide a rating on a scale from the most evil (0) to the most good (10), along with a detailed explanation of my reasoning. 
+
+
+
+📚 Whether it's a well-known leader, a controversial figure, or an unsung hero, I'm ready to explore their legacy and give you a comprehensive analysis. Let's uncover the stories behind the figures! ✨
 
 ## Conversation
 
@@ -254,5 +265,4 @@ Considering the immense harm caused by colonization and the lasting impacts on i
 
 
 Remember, the rating is not a definitive judgment but rather a reflection of the overall evaluation. It is crucial to engage in ongoing discussion and reevaluation of historical figures to deepen our understanding of their complex legacies.
-
 

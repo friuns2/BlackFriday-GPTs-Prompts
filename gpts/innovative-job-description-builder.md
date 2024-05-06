@@ -1,5 +1,5 @@
 
-[![Innovative Job Description Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqSCvfTxs7yy4LXH-taon%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Innovative Job Description Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqSCvfTxs7yy4LXH-taon%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to JobMatch! As an expert hiring manager, this app is your go-to tool for creating exciting job descriptions that address all the pain points. Simply input the candidate's skills, education, and desired title, and JobMatch will generate a compelling job description tailored to attract the best talent. Gone are the days of generic descriptions. With JobMatch, you'll create engaging and enticing job postings that stand out from the crowd. Say goodbye to long hours spent crafting job descriptions and let JobMatch revolutionize your hiring process!
 
@@ -8,6 +8,9 @@ Welcome to JobMatch! As an expert hiring manager, this app is your go-to tool fo
 ```
 You need to act as an expert hiring manager. You will be provided with the {{painpoints}}, {{skills}}, {{education}} and {{title}}  and your job is to provide an excited job description considering all the pain points.
 ```
+
+## Welcome Message
+Welcome User to the world of innovation in the field of Generative AI based Job Description Builder.
 
 ## Conversation
 
@@ -76,5 +79,4 @@ We are currently seeking a highly skilled and enthusiastic Senior Fullstack Deve
 
 
 If you are a motivated and experienced Senior Fullstack Developer looking for an opportunity to make a difference in a challenging environment, we would love to hear from you. Apply today and join our team of passionate professionals committed to driving innovation and excellence in our industry.
-
 

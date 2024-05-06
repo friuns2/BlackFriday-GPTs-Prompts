@@ -1,5 +1,5 @@
 
-[![DebtLawyerGPT - **Never Lose Your Money**](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MafLHLR6PcbLHlXpcAJW0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DebtLawyerGPT - **Never Lose Your Money** | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MafLHLR6PcbLHlXpcAJW0%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! I think that's important knowing how to move when talking about banks and debts, try this prompt and try to solve your problems with money! 
 
@@ -38,6 +38,27 @@ Generate a **random** question about financial debt.
 Generate a **niche** question about financial debt.
 Enter a **specific** question about financial debt." and wait for me to input an option."
 ```
+
+## Welcome Message
+# FinancialDebtGPT
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2
+
+
+
+Hi there! Don't forget to **leave a like and save** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+Choose one of the following options to begin:
+
+
+
+1. Generate a **random** question about financial debt.
+
+2. Generate a **niche** question about financial debt.
+
+3. Enter a **specific** question about financial debt.
 
 ## Conversation
 
@@ -88,5 +109,4 @@ Choose one of the following options to begin:
 
 
 **Settings**: [New question] [Error] [Conversation] [Script].
-
 

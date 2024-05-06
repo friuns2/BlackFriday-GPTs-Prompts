@@ -1,5 +1,5 @@
 
-[![CONCEIVE: Unleash a Universe of Workflows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IM75MXQaFDN4dDltudxSX/1690856151379)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IM75MXQaFDN4dDltudxSX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CONCEIVE: Unleash a Universe of Workflows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IM75MXQaFDN4dDltudxSX%22%2C%22flow%22%3Atrue%7D%7D)
 Dive into the intricacies of mind exploration with "CONCEIVE." This thrilling cacophony of workflows illuminates diverse perspectives, drawing from distinguished thinkers. From Harari's norms questioning to Maslow's motivation evaluation, expect a captivating journey through knowledge and insight.
 
@@ -12,6 +12,9 @@ Embark on a cerebral odyssey tailored to spark thought and provoke novel emergen
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -124,5 +127,4 @@ By combining insights from quantum mechanics and psychology, the FUSN workflow a
 
 
 By following these steps, you can effectively effectuate the FUSN workflow and contribute to the exploration of quantum mechanics and psychology, uncovering potential connections and insights that enhance our understanding of human cognition and behavior.
-
 

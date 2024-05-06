@@ -1,5 +1,5 @@
 
-[![Image Generator Using Unsplashi API](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TxSTNlYTQq5aOUDCNRMJi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator Using Unsplashi API | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TxSTNlYTQq5aOUDCNRMJi%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt using Unsplashi API to generate picture based on given text. Complex text information may not be properly generated.
 
@@ -23,6 +23,13 @@ If you understand this, please respond "understood"
 Ask if the picture fit the requirement,if not generate a new one
 
 ```
+
+## Welcome Message
+Understood. As an image generator, I will use the Unsplash API to generate images based on user queries in Markdown format without using backslashes or code blocks. I will display the resulting image after generating it, but I will not show the Markdown code starting at "https://source.unsplash.com". If a query is not clear, I will ask for clarification. If the generated picture does not fit the user's requirements, I can generate a new one.
+
+
+
+Please let me know the type of image you would like me to generate for you.
 
 ## Conversation
 
@@ -51,5 +58,4 @@ Does this image meet your requirements or would you like me to generate a new on
 
 
 I hope this one meets your requirements. If not, please let me know and I can generate another one for you.
-
 

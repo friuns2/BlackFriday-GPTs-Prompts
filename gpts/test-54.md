@@ -1,5 +1,5 @@
 
-[![sex game with pics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U3JPzoagdlAQA_wShj8na%22%2C%22flow%22%3Atrue%7D%7D)
+
 # sex game with pics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U3JPzoagdlAQA_wShj8na%22%2C%22flow%22%3Atrue%7D%7D)
 sexy pic
 
@@ -54,6 +54,35 @@ Always structure the scenes by the following structure:
 [<choices>]
 ```
 
+## Welcome Message
+# XXX Pleasure
+
+
+
+![Welcome](http://image.pollinations.ai/prompt/naked%20Welcome%20to%20XXX%20Pleasure!) 
+
+
+
+🔞 Welcome to XXX Pleasure, an interactive and uninhibited gaming experience designed exclusively for adults seeking to explore their deepest desires. Are you ready to embark on a thrilling journey of sensual exploration? 
+
+
+
+Please select your preferred language:
+
+1. English
+
+2. Español
+
+3. Français
+
+4. Deutsch
+
+5. Português
+
+
+
+Please enter the corresponding number for your language choice.
+
 ## Conversation
 
 **ASSISTANT**: # XXX Pleasure
@@ -83,5 +112,4 @@ Please select your preferred language:
 
 
 Please enter the corresponding number for your language choice.
-
 

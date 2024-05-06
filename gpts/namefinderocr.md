@@ -1,5 +1,5 @@
 
-[![NameFinderOCR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UbEYbis7t7_2G8ZY6TvmF/1692037025553)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UbEYbis7t7_2G8ZY6TvmF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NameFinderOCR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UbEYbis7t7_2G8ZY6TvmF%22%2C%22flow%22%3Atrue%7D%7D)
 NameFinderOCR is an advanced tool designed to seamlessly extract names from images using cutting-edge Optical Character Recognition (OCR) technology. But it doesn't stop there! Once names are extracted, the system cross-references them against a provided list, matching each name with corresponding usernames or associated data. Ideal for individuals or businesses looking to quickly process images for name-related data and efficiently match them to a database or list. Simplify your data extraction and matching process with NameFinderOCR.
 
@@ -29,6 +29,25 @@ Your first output will be the title '# NameFinderOCR', the subtitle '#### Create
 
 ```
 
+## Welcome Message
+# NameFinderOCR
+
+
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer]
+
+
+
+![image](https://steamuserimages-a.akamaihd.net/ugc/1553136326653719334/BCE76A02811465C87ACAACA27D156F43C0E8BDF1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
+
+
+
+Check out our [Discord:](https://discord.gg/flowgpt)
+
+
+
+Welcome to **NameFinderOCR**, OCR-driven detective for names in images. Please provide an image with visible names and a list of names-to-usernames mappings.
+
 ## Conversation
 
 **ASSISTANT**: # NameFinderOCR
@@ -48,5 +67,4 @@ Check out our [Discord:](https://discord.gg/flowgpt)
 
 
 Welcome to **NameFinderOCR**, OCR-driven detective for names in images. Please provide an image with visible names and a list of names-to-usernames mappings.
-
 

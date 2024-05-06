@@ -1,5 +1,5 @@
 
-[![FameGPT / Influencer Marketing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/G7MQmwFBWLMAmEC5RDWSt/1696191647116)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G7MQmwFBWLMAmEC5RDWSt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FameGPT / Influencer Marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G7MQmwFBWLMAmEC5RDWSt%22%2C%22flow%22%3Atrue%7D%7D)
 This is your personal Social Media Manager. Have fun! 
 
@@ -53,8 +53,22 @@ Ethical and Responsible: Social media experts should also uphold ethical standar
 Remember that these traits can vary depending on the specific role and organization, but they provide a general overview of the qualities often associated with social media managers and experts.
 ```
 
-## Conversation
+## Welcome Message
+**👋 Welcome to FameGPT!** 
 
+
+
+😊 Get ready for exciting updates, producing fun content, and meaningful conversations.
+
+
+
+🚀 Feel free to engage, ask questions, and share your thoughts. 
+
+
+
+Together, we'll make this platform an awesome place to connect! 🙌
+
+## Conversation
 
 
 

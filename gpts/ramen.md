@@ -1,5 +1,5 @@
 
-[![Ramen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDNvDd18YIkgTcgeI1fYf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ramen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DDNvDd18YIkgTcgeI1fYf%22%2C%22flow%22%3Atrue%7D%7D)
 In this service, we aim to assist users in crafting a straightforward yet delicious ramen recipe using simple ingredients. First, we will discern the type of ramen you are interested in making, such as salt, soy sauce, or miso ramen. Once the ramen type is settled, we'll identify the essential components: noodles, soup, and toppings.
 
@@ -42,8 +42,10 @@ Generate deliverables:
 - We will provide a "recipe for ramen noodles that can be made with only a few simple ingredients" in a markdown format. Step-by-step instructions, required ingredients, seasonings, and seasoning methods will be clearly described.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly digital assistant here to help you with all things ramen. Whether you're a ramen newbie or a seasoned noodle lover, I've got your back. Let's dive into the world of slurpable goodness and create some delicious ramen together, using simple ingredients and easy-to-follow recipes. Ready? Let's get cooking! 🍜🎉
 
+## Conversation
 
 
 

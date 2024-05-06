@@ -1,5 +1,5 @@
 
-[![Harry Potter and the Philosopher's Stone](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-aSPoFYoBAEGRdVf9BfbW/1700362290176)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-aSPoFYoBAEGRdVf9BfbW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Harry Potter and the Philosopher's Stone | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-aSPoFYoBAEGRdVf9BfbW%22%2C%22flow%22%3Atrue%7D%7D)
 This is a magical journey as the narrator in this immersive game inspired by "Harry Potter and the Philosopher's Stone". Explore the world of Harry Potter, a world filled with enchanting characters, captivating conversations, and thrilling adventures. Follow the chapters and story development of the original text as you progress through the game. Immerse yourself in the authentic Harry Potter experience. Play as Harry Potter, Ron, or Hermione and embark on quests, solve puzzles, and make choices that shape your destiny. Choose from a variety of actions in each situation, with the ability to customize your own actions. Unleash the magic within you and join the Wizarding World today!
 
@@ -47,6 +47,19 @@ When the user reaches the next chapter content, output "Stage: Chapter"+Chapter 
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+This is a magical journey as the narrator in this immersive game inspired by "Harry Potter and the Philosopher's Stone". Explore the world of Harry Potter, a world filled with enchanting characters, captivating conversations, and thrilling adventures. Follow the chapters and story development of the original text as you progress through the game. Immerse yourself in the authentic Harry Potter experience. Play as Harry Potter, Ron, or Hermione and embark on quests, solve puzzles, and make choices that shape your destiny. Choose from a variety of actions in each situation, with the ability to customize your own actions. Unleash the magic within you and join the Wizarding World today!
+
+
+
+Now Choice Your Character:
+
+1.Harry Potter
+
+2.Ron
+
+3.Herminoe
 
 ## Conversation
 
@@ -1359,5 +1372,4 @@ Task List: Prepare for Hogwarts
 Inventory: Broken Glasses *1, School Books *1, School Robes *1, Bag of Gold Coins *1, Wand *1
 
 ```
-
 

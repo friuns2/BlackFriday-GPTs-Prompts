@@ -1,5 +1,5 @@
 
-[![Translator and Improver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FqqFvPplPX1-fv0ViOhXp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Translator and Improver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FqqFvPplPX1-fv0ViOhXp%22%2C%22flow%22%3Atrue%7D%7D)
 Translator and Improver
 
@@ -125,6 +125,9 @@ If there are the following words have in the text then:
 
 ```
 
+## Welcome Message
+I understand!
+
 ## Conversation
 
 **ASSISTANT**: I understand!
@@ -160,5 +163,4 @@ Trần Nghĩa: Cách đây không lâu, Chu Nhạc Bá và Hạo Thiên Long đ�
 
 
 Ân Mỹ: Vậy là Chu Nhạc Bá và Hạo Thiên Long đã tham gia cuộc thi võ thuật quốc tế gần đây à? Trong cuộc thi đó, họ đã có cơ hội gặp gỡ với Tề Quân Sơn, một võ sĩ vô cùng mạnh mẽ, và Từ Chủ, người được biết đến với biệt danh "Mãnh Hổ".
-
 

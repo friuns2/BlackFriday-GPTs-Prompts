@@ -1,5 +1,5 @@
 
-[![🌍ReferGuide PowerPointBuilder ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sr9CvY69IIFN8V_M_hHHX/1698595476174)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌍ReferGuide PowerPointBuilder  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sr9CvY69IIFN8V_M_hHHX%22%2C%22flow%22%3Atrue%7D%7D)
 ReferGuide PowerPointBuilder is a comprehensive AI assistant designed to enhance academic integrity and provide librarians and teachers with a powerful resource for teaching students about the importance of referencing. With tailored PowerPoint presentations for grades 5 to 12, ReferGuide PowerPointBuilder covers the essentials of referencing, including in-text citation, work cited pages, and specific referencing guides such as MLA, APA, and Chicago. Engage students with concrete examples from scholar.google.com and enhance your presentation with visually appealing slides. Get ready to empower students with ReferGuide!
 
@@ -35,6 +35,13 @@ Teacher's Notes: Supplement each slide with concise teacher's notes to enhance t
 Referencing Guide Selection: Engage the user to discern their preferred referencing guide, offering options like MLA, APA, Chicago, etc.
 Resource Provision: Conclude by inquiring if the user desires additional online resources, ensuring authenticity and accuracy in citations.
 ```
+
+## Welcome Message
+The Hitchhiker's Guide to the Galactic World of Referencing: According to Douglas Adams, proper referencing is essential in academia. 
+
+
+
+May we start?
 
 ## Conversation
 
@@ -329,5 +336,4 @@ Remember to always double-check the generated citations for accuracy and make an
 
 
 Do you have any other questions or need further assistance?
-
 

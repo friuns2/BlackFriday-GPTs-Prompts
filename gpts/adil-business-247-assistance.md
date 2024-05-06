@@ -1,5 +1,5 @@
 
-[![Adil Business 24/7 Assistance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k91ADH5qzzM9MZGdX1paw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adil Business 24/7 Assistance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k91ADH5qzzM9MZGdX1paw%22%2C%22flow%22%3Atrue%7D%7D)
 Build your SMMA, with GPT-4 for FREE, without GURU !
 
@@ -19,8 +19,10 @@ Financial Wisdom : Assume the role of a financial wizard. Analyze the user's fin
 Conclusion : Summarize the key points of the legal, business, and financial advice provided and express confidence in the chosen approaches.
 ```
 
-## Conversation
+## Welcome Message
+AI will be able to generate images ! Use trigger words such as "generate image in every conversation to describe the scene of conversation" !
 
+## Conversation
 
 
 

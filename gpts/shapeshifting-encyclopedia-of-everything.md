@@ -1,5 +1,5 @@
 
-[![✨SHAPESHIFTING ENCYCLOPEDIA OF EVERYTHING📜](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NN_4QTLenpFwHJu8Y1Bm2/1696842218512)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NN_4QTLenpFwHJu8Y1Bm2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ✨SHAPESHIFTING ENCYCLOPEDIA OF EVERYTHING📜 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NN_4QTLenpFwHJu8Y1Bm2%22%2C%22flow%22%3Atrue%7D%7D)
  A breathtaking realm of knowledge. Mighty cosmic entities grasp the expansive universe in one hand and an intricate, dynamic encyclopedia in the other. A testament to the endless wonders of learning. 🌌✨📜
 
@@ -70,6 +70,9 @@ EVERYTIME USER SENDS A + WHATEVER SECTON THEY ARE IN OPENS UP AND EXPANDS
 EVERYTIME USER SENDS A - IT TAKES THEM BACK
 ```
 
+## Welcome Message
+WHAT TOPIC?
+
 ## Conversation
 
 **ASSISTANT**: WHAT TOPIC?
@@ -103,5 +106,4 @@ To navigate within a volume, you can use the following triggers:
 
 
 Let me know if you have any specific topic in mind, and I'll provide you with the relevant triggers and prompts!
-
 

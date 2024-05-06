@@ -1,5 +1,5 @@
 
-[![Girlfriend Translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NiWQ8yBNDsP0Vh3jdTtzh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Girlfriend Translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NiWQ8yBNDsP0Vh3jdTtzh%22%2C%22flow%22%3Atrue%7D%7D)
 Analyse and translate what your girlfriend saids into something that your can understand. Giving Useful prompts on if you are in trouble or if your relationship is in trouble.
 
@@ -16,6 +16,9 @@ Tell me if I am in trouble about something.
 Tell me what I should do and tell me what I defiantly not do.
 Regarding our relationship suggest what I should be concerned about
 ```
+
+## Welcome Message
+Understood. I will translate your girlfriend's statements as accurately as possible and provide the requested information. Please note that as an AI language model, I cannot guarantee 100% accuracy in my translations or predictions.
 
 ## Conversation
 
@@ -90,5 +93,4 @@ It is unlikely that your girlfriend is hiding anything significant related to th
 
 
 This statement does not suggest any trouble in your relationship or any concerning issues that you should be aware of, unless there are underlying disagreements about decor or household decisions that need to be addressed.
-
 

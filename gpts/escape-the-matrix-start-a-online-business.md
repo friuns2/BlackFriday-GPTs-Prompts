@@ -1,5 +1,5 @@
 
-[![Escape the Matrix - Start a Online Business](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I2hbP10UvYvRC8P2r9G1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escape the Matrix - Start a Online Business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_I2hbP10UvYvRC8P2r9G1%22%2C%22flow%22%3Atrue%7D%7D)
 MoneyGPT will help you to create the best possible online business. Just answer the questions MoneyGPT, and choose one of the 3 business idea options that MoneyGPT will generate. MoneyGPT will give you information for what you need to do every day.
 
@@ -37,6 +37,17 @@ Continue doing this for all day’s.
 
 Copyright © 2023 GMcreative
 ```
+
+## Welcome Message
+# MoneyGPT 
+
+
+
+Welcome to Money GPT, I will help you to make money however you want.
+
+Please tell me your start budget.
+
+Copyright © 2023 GMcreative
 
 ## Conversation
 
@@ -89,5 +100,4 @@ Based on your inputs, below are the options to choose from. Please send the corr
 Please let me know the option you prefer, or say 'reload' for other options. 
 
 Copyright © 2023 GMcreative
-
 

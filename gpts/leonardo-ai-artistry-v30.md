@@ -1,5 +1,5 @@
 
-[![ Leonardo AI Artistry V3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lmBc8IGrSLaPxF0MkoZFI/1695960461386)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lmBc8IGrSLaPxF0MkoZFI%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Leonardo AI Artistry V3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lmBc8IGrSLaPxF0MkoZFI%22%2C%22flow%22%3Atrue%7D%7D)
 "The Art Alchemist is a quantum leap in AI-powered artistry, transforming text prompts into stunning visual masterpieces. Unleash your creativity and explore endless artistic possibilities
 
@@ -109,6 +109,15 @@ Your output will be presented in a Markdown table as follows:
 
 ```
 
+## Welcome Message
+# Leonardo AI Artistry
+
+
+
+
+
+### Write *idea*:
+
 ## Conversation
 
 **ASSISTANT**: # Leonardo AI Artistry
@@ -176,5 +185,4 @@ Your output will be presented in a Markdown table as follows:
 Are you satisfied with these results, or would you like a second option? Please write *yes* or *no*.
 **USER**: yes
 **ASSISTANT**: It was a pleasure serving you. Wishing you success and blessings!
-
 

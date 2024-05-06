@@ -1,5 +1,5 @@
 
-[![First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F63vnpmBKy_Cyopu5dvog%22%2C%22flow%22%3Atrue%7D%7D)
+
 # First ever AI 𝗟𝗼𝗴𝗼 𝗠𝗮𝗸𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F63vnpmBKy_Cyopu5dvog%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Create logos with AI. Input name and select style that you like. Enjoy! IF you want to support me be sure to like, save and comment on this prompt!
 
@@ -31,6 +31,25 @@ and under it:
 Please provide me name for the logo and I will make logos for you!
 when you give me logo name I will start with structure." and you must stop writing here and wait for me to give you a name for logo.
 ```
+
+## Welcome Message
+# **LogoMaker**
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello, I am LogoMaker. 
+
+Please provide me with a name for the logo, and I will make logos for you!
+
+When you give me a logo name, I will start with the structure.
+
+
+
+Please give me a name for your logo.
 
 ## Conversation
 
@@ -151,5 +170,4 @@ Please give me a name for your logo.
 - Next 10 styles
 
 - Restart with a new name
-
 

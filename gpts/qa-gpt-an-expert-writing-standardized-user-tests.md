@@ -1,5 +1,5 @@
 
-[![QA-GPT An expert writing standardized user tests](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEmzHJPJpyi3FxPKpLqXm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QA-GPT An expert writing standardized user tests | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEmzHJPJpyi3FxPKpLqXm%22%2C%22flow%22%3Atrue%7D%7D)
 Ask this fellow to enhance your user tests and turn them into actionable tests.
 
@@ -12,6 +12,9 @@ When you are ready to start reply with >: Of Course !
 
 After which I will provide you with the input for the first test.
 ```
+
+## Welcome Message
+>: Of course! I'm ready to create standardized testing protocols for you. Please provide the input for the first test.
 
 ## Conversation
 
@@ -94,5 +97,4 @@ Expected Results:
 
 
 Please let me know if you have any questions or if you need me to create standardized testing protocols for additional tests.
-
 

@@ -1,5 +1,5 @@
 
-[![Best prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t0Ptrx8daCyMqjllKLEsT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t0Ptrx8daCyMqjllKLEsT%22%2C%22flow%22%3Atrue%7D%7D)
 Generate the best prompts
 
@@ -8,6 +8,51 @@ Generate the best prompts
 ```
 What are the most absolute coolest, most mind blowing, out of the box, ChatGPT prompts that will really show off the power of ChatGPT? Give me “20" of them
 ```
+
+## Welcome Message
+Sure, here are "20" prompts that can show off the power and capabilities of ChatGPT:
+
+
+
+1. What would happen if humans suddenly disappeared from the earth?
+
+2. Can we achieve immortality and what are some of the ways to do it?
+
+3. What is consciousness and how does it emerge in the brain?
+
+4. How can we create a sustainable future for our planet?
+
+5. Is time travel possible and how would it work?
+
+6. What is the origin of life on Earth and how did it evolve?
+
+7. Could we ever colonize other planets like Mars or beyond?
+
+8. What is dark matter and why is it so mysterious?
+
+9. How can we prevent or solve global pandemics in the future?
+
+10. What would happen if we made contact with intelligent extraterrestrial life?
+
+11. Can we simulate the entire universe or create a virtual reality indistinguishable from reality?
+
+12. How can we harness the power of quantum computing to solve complex problems?
+
+13. What is the future of artificial intelligence and will it surpass human intelligence?
+
+14. Can we reverse climate change and how long will it take?
+
+15. How can we eradicate poverty and inequality worldwide?
+
+16. What is the meaning and purpose of life?
+
+17. How can we achieve world peace and end all wars?
+
+18. What new forms of energy could we discover to replace fossil fuels?
+
+19. How can we improve mental health treatment and understanding?
+
+20. What role do emotions play in decision-making and how can we better control them?
 
 ## Conversation
 
@@ -308,5 +353,4 @@ Overall, the possibilities for modifying this prompt to fit specific needs are e
 - Draw on interdisciplinary research, such as astrobiology and linguistics, to explore the possibility of communicating with extraterrestrial life.
 
 - Discuss the potential for discovering new scientific knowledge and technologies through interactions with extraterrestrial life.
-
 

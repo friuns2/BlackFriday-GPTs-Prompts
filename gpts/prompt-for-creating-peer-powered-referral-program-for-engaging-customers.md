@@ -1,5 +1,5 @@
 
-[![Prompt for Creating Peer-Powered Referral Program for Engaging Customers](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Yrj6VfLizzPYauUVsEeaT/1693389647471)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yrj6VfLizzPYauUVsEeaT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt for Creating Peer-Powered Referral Program for Engaging Customers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yrj6VfLizzPYauUVsEeaT%22%2C%22flow%22%3Atrue%7D%7D)
 This fill-in ChatGPT prompt created by Digital First AI assists you in developing a step-by-step guide that effectively teaches you how to design a gamified customer referral program, ensuring that you drive customer engagement, satisfaction, and business growth by leveraging the power of social proof and peer pressure.
 
@@ -8,6 +8,17 @@ This fill-in ChatGPT prompt created by Digital First AI assists you in developin
 ```
 Develop a step-by-step guide for designing a gamified customer referral program that leverages social proof and peer pressure to increase user engagement and foster a sense of competition among the target audiences of [business type] that sells [product/service] to [target audience 1], [target audience 2], and [target audience 3].
 ```
+
+## Welcome Message
+This fill-in ChatGPT prompt assists you in developing a step-by-step guide that effectively teaches you how to design a gamified customer referral program, ensuring that you drive customer engagement, satisfaction, and business growth by leveraging the power of social proof and peer pressure.
+
+
+
+Here's a quick prompt example:
+
+
+
+Develop a step-by-step guide for designing a gamified customer referral program that leverages social proof and peer pressure to increase user engagement and foster a sense of competition among the target audiences of an online clothing store that sells sustainable fashion to eco-conscious millennials, fashion-forward professionals, and environmentally-aware parents.
 
 ## Conversation
 
@@ -96,5 +107,4 @@ Step 10: Iterate and improve
 
 
 By following these steps, you can design a gamified customer referral program that leverages social proof and peer pressure to increase user engagement and foster a sense of competition among your target audiences.
-
 

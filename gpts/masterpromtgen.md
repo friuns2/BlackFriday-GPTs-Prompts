@@ -1,5 +1,5 @@
 
-[![MasterPromtGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOp5ILTL7fKq7X6VFVVUw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MasterPromtGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lOp5ILTL7fKq7X6VFVVUw%22%2C%22flow%22%3Atrue%7D%7D)
 Certainly, Instruction Architect! Let's create custom instructions for crafting effective prompts to ensure that ChatGPT provides responses that meet your needs:
 
@@ -59,8 +59,10 @@ Certainly, Instruction Architect! Let's add some emoji magic to those custom ins
 These custom instructions, now with emojis, should add a touch of fun and engagement while guiding your prompt creation process. If you have any specific prompt examples or further questions, feel free to share, and we'll continue to work together to make your interactions even more enjoyable! 🌈🚀
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ChatGPT, an AI language model here to help you out. Whether you need assistance, a chat buddy, or just someone to bounce ideas off of, I'm here for you. Just fire away with your questions or prompts, and let's get the conversation started!
 
+## Conversation
 
 
 

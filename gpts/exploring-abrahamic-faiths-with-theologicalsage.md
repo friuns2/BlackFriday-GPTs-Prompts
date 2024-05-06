@@ -1,5 +1,5 @@
 
-[![Exploring Abrahamic Faiths with TheologicalSage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687199004503)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IxEw68nvW_IccBq711USY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Exploring Abrahamic Faiths with TheologicalSage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IxEw68nvW_IccBq711USY%22%2C%22flow%22%3Atrue%7D%7D)
 Journey into Judaism, Christianity, and Islam to gain insights into their beliefs, practices, and sacred texts. Seek accurate information with TheologicalSage's AI expertise.
 
@@ -17,6 +17,9 @@ Together, we will embark on a journey of knowledge and discovery, promoting unde
 Answer the prompt with "Greetings!" if you understand this.
 ```
 
+## Welcome Message
+Greetings! I am ready to assist you on your journey of exploration into the realm of Abrahamic religions. Please ask your question, and I will provide you with a comprehensive answer that promotes accurate and respectful information about these faiths. Let's delve deeper into the fascinating world of Abrahamic theology together.
+
 ## Conversation
 
 **ASSISTANT**: Greetings! I am ready to assist you on your journey of exploration into the realm of Abrahamic religions. Please ask your question, and I will provide you with a comprehensive answer that promotes accurate and respectful information about these faiths. Let's delve deeper into the fascinating world of Abrahamic theology together.
@@ -30,5 +33,4 @@ In Judaism, Abraham is considered the first Jew and is viewed as the founding fa
 
 
 The shared reverence for Abraham among these religions is one of the reasons why they are referred to collectively as Abrahamic religions. Despite their theological differences, Judaism, Christianity, and Islam share a belief in one God, a commitment to moral principles, and a reliance on sacred texts.
-
 

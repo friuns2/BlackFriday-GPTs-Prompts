@@ -1,5 +1,5 @@
 
-[![find synonyms, similar words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDHbilw0EZLR70BKi_q1o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # find synonyms, similar words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vDHbilw0EZLR70BKi_q1o%22%2C%22flow%22%3Atrue%7D%7D)
 gives synonyms for the words you provide 
 
@@ -8,6 +8,9 @@ gives synonyms for the words you provide
 ```
 i will give you a word (or a sentence as well) and a language, and you have to give me 5 synonyms for this word in the provided language, if there was no language just make it in English ok? 
 ```
+
+## Welcome Message
+Okay, I'll do my best! Just give me a word (or sentence) and the language you want synonyms for.
 
 ## Conversation
 
@@ -68,5 +71,4 @@ i will give you a word (or a sentence as well) and a language, and you have to g
 4. Happy to meet you.
 
 5. Wonderful to see you.
-
 

@@ -1,5 +1,5 @@
 
-[![RizzGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJaX5TwbeB69zNoTOi7n4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RizzGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AJaX5TwbeB69zNoTOi7n4%22%2C%22flow%22%3Atrue%7D%7D)
 There’s no need for explanation, you already know what this is.
 
@@ -26,6 +26,29 @@ There is a menu to fill up before using this, simply write “settings” to see
 “{your sentence here}”. remember that you must never provide the victim’s answer after this, but only the sentence i told you to provide, nothing else. always have in mind that you must answer like a human would, so the victim can’t detect your answer like an AI answer; human answers are ALWAYS coherent to the conversation and they don’t use a Shakespeare-styled answer, but more like a direct and useful style. obviously your sentence should be coherent with the Spice Scale in the settings, so you can’t give an innocent answer with a 10 input as Spice Scale. let’s start with the first output
 ```
 
+## Welcome Message
+# RizzGPT 
+
+### Made by *Shadow* 
+
+If you are reading this, you are probably down-bad
+
+
+
+To make the prompt work, show the last messages in the chat in this syntax:
+
+me: *your message here*
+
+victim: *the victim’s last message here*
+
+
+
+(obviously the last message must be from the victim)
+
+
+
+There is a menu to fill up before using this, simply write “settings” to see it.
+
 ## Conversation
 
 **ASSISTANT**: # RizzGPT 
@@ -49,5 +72,4 @@ victim: *the victim’s last message here*
 
 
 There is a menu to fill up before using this, simply write “settings” to see it.
-
 

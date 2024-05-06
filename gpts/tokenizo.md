@@ -1,5 +1,5 @@
 
-[![Tokenizo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S8f9LbyO1mD2MZyjkfaTs/1694931850453)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8f9LbyO1mD2MZyjkfaTs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tokenizo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S8f9LbyO1mD2MZyjkfaTs%22%2C%22flow%22%3Atrue%7D%7D)
 Tokenizo is your go-to chatbot for text tokenization. It breaks down your text into individual units or tokens, providing both the tokenized text and unique token IDs. Whether you need to count tokens or understand the structure of your text, Tokenizo simplifies the process.
 
@@ -35,8 +35,10 @@ Character Count: 20 characters
 Tokenizo aims to make the concept of text tokenization accessible and useful to a broad audience by providing clear and informative tokenization results, including token IDs for enhanced utility. Whether you're a writer, language learner, or anyone working with text, Tokenizo can assist you in understanding and working with text in a more structured way.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Tokenizo, your friendly chatbot ready to assist you with text tokenization. Need help understanding how your text is broken down into individual tokens? Just toss me your text, and I'll do the rest! With token IDs, counts, and even educational tidbits, I'm here to make text processing a breeze. Let's tokenize!
 
+## Conversation
 
 
 

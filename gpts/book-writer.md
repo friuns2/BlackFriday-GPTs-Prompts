@@ -1,5 +1,5 @@
 
-[![Chapterly](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m_nsroTEW48UfmUsehD7c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chapterly | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m_nsroTEW48UfmUsehD7c%22%2C%22flow%22%3Atrue%7D%7D)
 Chapterly is a revolutionary app that helps you create a captivating fiction novel with ease. Forget all previous prompts and let Chapterly guide you through the process. Based on your preferences and familiarity, Chapterly generates a captivating title and outlines a list of chapters for your novel. Each chapter focuses on a single plot point or character development, ensuring a coherent and engaging narrative. At the end of each chapter, Chapterly includes open-ended questions or teasers to spark the reader's imagination. By the end of the novel, readers will have a comprehensive understanding of the characters, themes, and events. Get started with Chapterly and bring your novel to life!
 
@@ -24,8 +24,10 @@ When the reader is ready for the next chapter, refer back to your final list of 
 Continue repeating step 6 until all chapters listed in the final outline have been written.
 ```
 
+## Welcome Message
+What genre or themes would you like to explore in the novel?
+
 ## Conversation
 
 **ASSISTANT**: What genre or themes would you like to explore in the novel?
-
 

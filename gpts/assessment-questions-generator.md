@@ -1,5 +1,5 @@
 
-[![Assessment Questions Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faNkZYByDqD-hmXHzMEtp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Assessment Questions Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faNkZYByDqD-hmXHzMEtp%22%2C%22flow%22%3Atrue%7D%7D)
 👋Hey educators!!
 
@@ -39,6 +39,9 @@ comprehension of [INSERT THE SPECIFIC TOPIC YOU WANT TO TEACH ABOUT] in [INSERT 
 The output should be presented in markdown format with appropriate headings and bullets for easy reading and comprehension.
 
 ```
+
+## Welcome Message
+I'd be happy to help you create a set of assessment questions for your course! Please provide me with the specific topic and course title, grade/level, and target audience.
 
 ## Conversation
 
@@ -177,5 +180,4 @@ INPUT 2:
 1. Describe the role of DNA in protein synthesis, including the steps involved in transcription and translation.
 
 2. Explain how natural selection leads to evolution, using an example from the animal kingdom.
-
 

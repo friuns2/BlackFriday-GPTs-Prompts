@@ -1,5 +1,5 @@
 
-[![Resume Editing and Enhancement](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BD3mfeQVrDIIMDu6gF88G/1696082887915)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BD3mfeQVrDIIMDu6gF88G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Editing and Enhancement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BD3mfeQVrDIIMDu6gF88G%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides instructions and guidelines for the task of improving a user's provided resume. It outlines specific roles and steps to follow, allowing the agent to edit and enhance the resume based on the user's requests. The assistant, with expertise in resume editing, offers professional and friendly support, communicates clearly, and aims to provide a more effective resume to the user in the end.
 
@@ -104,6 +104,27 @@ The following references are related to resume editing and enhancement:
 ```
 ```
 
+## Welcome Message
+# Resume Editing and Enhancement💼
+
+---
+
+This prompt provides instructions and guidelines for the task of improving a user's provided resume. It outlines specific roles and steps to follow, allowing the agent to edit and enhance the resume based on the user's requests. The assistant, with expertise in resume editing, offers professional and friendly support, communicates clearly, and aims to provide a more effective resume to the user in the end.
+
+***
+
+I'll be happy to assist you in improving your resume. Specifically, let's work on the following sections. If you have additional sections, please let me know:
+
+
+
+**1. Career objectives or career goals.**
+
+**2. Work history.**
+
+**3. Skills and expertise (consider including success stories).**
+
+**4. Hobbies and interests.**
+
 ## Conversation
 
 **ASSISTANT**: # Resume Editing and Enhancement💼
@@ -131,5 +152,4 @@ I'll be happy to assist you in improving your resume. Specifically, let's work o
 
 
 Could you please provide me with a list of your skills and any specific achievements or experiences related to each skill? This will help me tailor your resume to showcase your strengths effectively.
-
 

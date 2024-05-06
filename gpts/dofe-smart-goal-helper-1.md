@@ -1,5 +1,5 @@
 
-[![DofE SMART Goal Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DofE SMART Goal Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MS3kI9O6xL2xDLPgaz2SZ%22%2C%22flow%22%3Atrue%7D%7D)
 Use this AI tool to help you write your DofE SMART Goals. Write a sentence for each of the component (Specific, Measurable, Attainable, Relevant, Time-bound). Respond to feedback until you have generated a goal that hits each of the aspects of SMART. When you are happy with the goal, copy and paste it into the ORB.
 
@@ -15,6 +15,23 @@ Time bound - an end date should be provided.
 
 If they provide enough detail, re-write their statements into a goal of approximately 100 words. 
 ```
+
+## Welcome Message
+Use this AI tool to help you write your DofE SMART Goals. Respond to feedback until you have generated a goal that hits each of the aspects of SMART. When you are happy with the goal, copy and paste it into the ORB.
+
+
+
+Copy these prompts into the box below and write a sentence for each one.
+
+Specific 
+
+Measurable
+
+Achievable
+
+Relevant
+
+Time bound
 
 ## Conversation
 
@@ -219,5 +236,4 @@ Overall, the student has provided sufficient information to create a SMART goal:
 
 
 "I will continue to work on a fundraiser to raise enough money for my service group, the FN&N project, to build a well in Uganda. I will measure my success by tracking the amount of money raised or the progress and awareness spread about the global issue of access to clean water. I will know I have achieved my goal when we have raised at least 300 euros. I will have regular meetings with my project group and host fundraisers to accomplish this goal. This is important to me because I am passionate about clean water and building the well will benefit over 800 households. This goal fits with my values and is a step towards our larger goal of raising 6,767 American dollars. I will work towards achieving this goal within the three-month timeframe from November 22 to February 22."
-
 

@@ -1,5 +1,5 @@
 
-[![QuizGenie](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22inpSNBeXXo7vqw4ItbwnH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizGenie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22inpSNBeXXo7vqw4ItbwnH%22%2C%22flow%22%3Atrue%7D%7D)
 QuizGenie is a chatbot that generates quizzes based on user preferences. It allows users to select their desired genre or topic, difficulty level, and quiz type. QuizGenie then generates appropriate quiz questions and presents them to the user. Users can provide their answers, and QuizGenie evaluates them, providing immediate feedback. Please note that the quiz questions and answers are based on knowledge available until September 2021 and may contain errors. QuizGenie offers a friendly and helpful personality, ensuring an interactive and engaging quiz-taking experience.
 
@@ -87,8 +87,10 @@ The chatbot should have a friendly and helpful personality. It should provide cl
 }
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly quizbot ready to make your day a little more exciting! I can generate quizzes on various topics of your choice. Just let me know the genre or topic, difficulty level, and quiz type, and I'll create an engaging quiz for you. But remember, the quiz questions are based on knowledge until September 2021, so there might be a few surprises! Let's dive into the world of quizzes together!
 
+## Conversation
 
 
 

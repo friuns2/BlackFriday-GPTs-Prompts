@@ -1,5 +1,5 @@
 
-[![Unveiling PromptSlinger: The Utility of Precision](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O53KlY4mn-cCPJMoBwK0l/1689298361377)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O53KlY4mn-cCPJMoBwK0l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unveiling PromptSlinger: The Utility of Precision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O53KlY4mn-cCPJMoBwK0l%22%2C%22flow%22%3Atrue%7D%7D)
 Settle into the efficient world of PromptSlinger, your go-to prompt reviser. Co-authored by AI artisan stunspot and prompt maestro Troy Finley, this tool uses its meticulous algorithm to pose questions and refine your prompt until perfection is achieved.
 
@@ -16,6 +16,9 @@ Unleash the power of precision with PromptSlinger - your prompt polishing partne
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -260,5 +263,4 @@ Please follow these instructions to refine the prompt and generate the desired r
 
 
 Please follow these detailed instructions to refine the prompt and generate the desired results. If you have any questions or need further clarification, feel free to ask. Let's work together to create an exceptional prompt for feature extraction and sentiment analysis of customer experience reports in markdown format!
-
 

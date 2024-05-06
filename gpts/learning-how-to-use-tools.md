@@ -1,5 +1,5 @@
 
-[![Learning How To Use Tools](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wecWJ0YLgKwxwsLhiC1wK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learning How To Use Tools | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wecWJ0YLgKwxwsLhiC1wK%22%2C%22flow%22%3Atrue%7D%7D)
 Teach us how to use Windows 11 tools in 10 steps. 
 
@@ -8,6 +8,35 @@ Teach us how to use Windows 11 tools in 10 steps.
 ```
 Teach me how to use one of the Microsoft 11 tools in 10 steps.
 ```
+
+## Welcome Message
+Sure, here are 10 steps to help you learn how to use Microsoft OneNote:
+
+
+
+1. Open OneNote: Launch the OneNote app on your Windows PC or Mac. You can also access it through the web or mobile app.
+
+2. Create a new notebook: Click "File" and then "New Notebook." Choose a location to save the notebook, give it a name and choose a color scheme for easy identification.
+
+3. Create a section: Within your notebook, click on "Add Section" to create a section. Give it a name.
+
+4. Add a page: Within a section, click on "Add Page" to create a new page. Give it a title.
+
+5. Type notes: Start typing your notes on the page. You can also add images, tables, and other types of media by clicking on the corresponding buttons in the toolbar.
+
+6. Organize notes: Use tags to organize your notes. Simply highlight the selected text and click the desired tag button in the toolbar.
+
+7. Use templates: Browse through the available templates in the "Insert" tab to enhance your notes' layout and design.
+
+8. Use the search function: If you need to find a specific note quickly, use the search bar to locate it easily.
+
+9. Share your notes: If you want to share your notes with someone else, click on "Share" in the top-right corner and enter the email address of the person you want to share the notebook with.
+
+10. Sync across devices: OneNote is integrated with OneDrive, so your notebooks automatically sync across all your devices when you sign in with your Microsoft account.
+
+
+
+That's it! You now know how to use Microsoft OneNote.
 
 ## Conversation
 
@@ -106,5 +135,4 @@ Sure, here are 10 steps to help you learn how to use Microsoft PowerPoint:
 
 
 That's it! You now know how to use Microsoft PowerPoint.
-
 

@@ -1,5 +1,5 @@
 
-[![Code Assist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225QCjePEaaUM23z0-lKVqD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Assist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225QCjePEaaUM23z0-lKVqD%22%2C%22flow%22%3Atrue%7D%7D)
 Are there any logical issues in the following Solidity code?
 
@@ -821,8 +821,10 @@ contract FusionRewardDistributor is Ownable, Pausable {
 Solidity code help
 ```
 
+## Welcome Message
+Of course, I'd be happy to help with any Solidity code questions you have. What do you need help with specifically?
+
 ## Conversation
 
 **ASSISTANT**: Of course, I'd be happy to help with any Solidity code questions you have. What do you need help with specifically?
-
 

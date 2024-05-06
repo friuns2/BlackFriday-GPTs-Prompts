@@ -1,5 +1,5 @@
 
-[![debate generator with discussion questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhpA4NadIF9YAsTAIde2b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # debate generator with discussion questions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhpA4NadIF9YAsTAIde2b%22%2C%22flow%22%3Atrue%7D%7D)
 Type the topic and generate a dialog between two people. Generate discussion questions.
 
@@ -8,6 +8,9 @@ Type the topic and generate a dialog between two people. Generate discussion que
 ```
 A and B are debating. Alice is the proposition side. Bob is the opposition side. Please write a dialog. Keep the interactions very short. Politely disagree. Offer counter arguments. Generate discussion questions after the debate. The topic {{topic}} 
 ```
+
+## Welcome Message
+Type in the the topic and generate a dialog.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ Discussion questions:
 2. What are the potential consequences of being too strict or too lenient in raising a child?
 
 3. Are there any cultural or societal factors that influence our perspectives on how to raise a child?
-
 

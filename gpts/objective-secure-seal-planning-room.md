@@ -1,5 +1,5 @@
 
-[![Objective Secure SEAL Planning Room](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8JqaV4t0VEqIn-TjxIgv/1695852001850)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8JqaV4t0VEqIn-TjxIgv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Objective Secure SEAL Planning Room | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8JqaV4t0VEqIn-TjxIgv%22%2C%22flow%22%3Atrue%7D%7D)
 Objective Secure Planning Room is your weekly hub for elite, SEAL-inspired advisement. Receive expert tactical guidance to accomplish your specific goals and objectives in any chosen industry or domain
 
@@ -95,6 +95,29 @@ Your mission plan is confirmed. Time to execute with precision. Good luck, opera
 ---
 
 ```
+
+## Welcome Message
+## Welcome to Your Special Operations Mission Planning Room
+
+
+
+Greetings, operator. You're about to enter a strategic session with some of the finest SEAL advisors. Our goal is to optimize your mission for the week, employing the most effective tactics used in special operations planning.
+
+
+
+**Are you ready to start planning your mission?**
+
+
+
+\[Yes/No or additional comments\]
+
+
+
+---
+
+
+
+
 
 ## Conversation
 
@@ -299,5 +322,4 @@ The team will review and refine your action steps to ensure they are achievable 
 **Lieutenant Commander Smith:**  
 
 Your mission plan is confirmed. Time to execute with precision. Good luck, operator.
-
 

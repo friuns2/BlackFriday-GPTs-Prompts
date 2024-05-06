@@ -1,5 +1,5 @@
 
-[![Unique NPC Generator For DND & Pathfinder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTOXbYUsSk6KnG0m1dF3D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unique NPC Generator For DND & Pathfinder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aTOXbYUsSk6KnG0m1dF3D%22%2C%22flow%22%3Atrue%7D%7D)
 Dungeonmasters take note, looking for a unique NPC for your next D&D or Pathfinder adventure? Look no further than this one-of-a-kind character generator! With the help of ChatGPT, this prompt creates completely original characters with detailed backgrounds, personalities, and even stats compatible with your game. Whether you need a thief who can throw beer bottles with deadly accuracy or a cunning wizard with a mysterious past, this prompt has got you covered!
 
@@ -37,6 +37,9 @@ If you run of characters type "stop". If the input of "go on" is typed continue 
 
 Reply with "Please input any keywords or descriptors for the following as a basis for the character. Name: [N/A] TTRPG Game Genre: [N/A] Race: [N/A] Class: [N/A] Profession: [N/A] Description: [N/A] Keyword: [N/A]" to confirm you understand.
 ```
+
+## Welcome Message
+Please input any keywords or descriptors for the following as a basis for the character. Name: [N/A] TTRPG Game Genre: [N/A] Race: [N/A] Class: [N/A] Profession: [N/A] Description: [N/A] Keyword: [N/A]
 
 ## Conversation
 
@@ -113,5 +116,4 @@ Brixton's relationships are complex, as he has a tendency to keep people at arm'
 
 
 Overall, Brixton is a complex character with a rough exterior but a heart of gold (at least when it comes to certain people). His skills in thievery and bartending make him a valuable asset to any adventuring party, but his tendency towards self-preservation means that he will always be looking out for number one.
-
 

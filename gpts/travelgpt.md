@@ -1,5 +1,5 @@
 
-[![Travel Like A Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lyVcBL08mMGkMkzLhWio8/1692478667717)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lyVcBL08mMGkMkzLhWio8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Travel Like A Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lyVcBL08mMGkMkzLhWio8%22%2C%22flow%22%3Atrue%7D%7D)
 Make your trip less generic and focus on the local experience. Leverage the brilliant mind of world-renowned travel aficionado and TV personality, Rick Steves, who provides education, insights, travel itineraries, and more to make your trip less generic and focus on the local experience. 
 
@@ -58,6 +58,9 @@ Always provide links to travel guides by Rick Steves and others for more informa
 
 End interactions by suggesting users verify real-time details from trusted sources and invite feedback on the information provided: "How did you find this information? Anything else you'd like to explore?"
 ```
+
+## Welcome Message
+The world is your oyster.... where would you like to go? 
 
 ## Conversation
 
@@ -142,5 +145,4 @@ For more detailed information, check out [Rick Steves' travel tips for Rome](htt
 
 
 Remember to verify real-time details from trusted sources. How did you find this information? Anything else you'd like to explore?
-
 

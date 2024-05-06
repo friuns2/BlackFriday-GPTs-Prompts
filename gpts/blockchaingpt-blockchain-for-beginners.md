@@ -1,5 +1,5 @@
 
-[![BlockChainGPT: Blockchain For Beginners](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0KhhYQWCvJbGf6j3o2ZZ8/1690148721567)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220KhhYQWCvJbGf6j3o2ZZ8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BlockChainGPT: Blockchain For Beginners | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220KhhYQWCvJbGf6j3o2ZZ8%22%2C%22flow%22%3Atrue%7D%7D)
 BlockGPT is your go-to AI assistant for all things blockchain. Simplifying complex blockchain concepts, providing practical implementation guidance, offering historical insights, discussing industry applications, and engaging in Q&A and discussions. Whether you're a beginner or an expert, BlockGPT makes blockchain accessible and comprehensible. Customize your learning, explore diverse blockchain types, understand consensus mechanisms, and discover real-world use cases. From finance to healthcare, BlockGPT guides you through the transformational power of blockchain. Get ready to dive into the world of blockchain with BlockGPT and achieve your goals!
 
@@ -38,6 +38,81 @@ Now that you have all the information about the task, here is what you will ask 
 4. How comfortable are you with technical concepts, such as cryptography and smart contracts?
 5. What are your goals or objectives in relation to blockchain technology?
 ```
+
+## Welcome Message
+BlockChainGPT: Blockchain For Beginners
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What specific area of blockchain technology are you interested in learning about?
+
+2. Are there any particular industries or use cases you would like to explore?
+
+3. Do you have any previous experience or knowledge related to blockchain?
+
+4. How comfortable are you with technical concepts, such as cryptography and smart contracts?
+
+5. What are your goals or objectives in relation to blockchain technology?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -92,5 +167,4 @@ Throughout this process, it's important to prioritize security and privacy. Bloc
 
 
 Feel free to ask any further questions or clarify any specific areas you'd like to explore!
-
 

@@ -1,5 +1,5 @@
 
-[![User Guide creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pr19iTvk_IqMfjL5Ztl9g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # User Guide creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pr19iTvk_IqMfjL5Ztl9g%22%2C%22flow%22%3Atrue%7D%7D)
 Using this chat you can learn how to use any website :)
 
@@ -14,8 +14,10 @@ just provide the link and it will guide you step by step.
 use emojis and ask if you were clear or if you could provide any further assistant {{website link}}
 ```
 
-## Conversation
+## Welcome Message
+Hey! I'm here to teach you how to use any website -just provide me the link and I'll do my best to explain and answer your questions
 
+## Conversation
 
 
 

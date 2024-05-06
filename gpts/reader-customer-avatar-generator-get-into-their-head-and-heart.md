@@ -1,5 +1,5 @@
 
-[![Reader (Customer) Avatar Generator - Get Into Their Head and Heart ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNxL93XgxnmE4hT1Vgda4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reader (Customer) Avatar Generator - Get Into Their Head and Heart  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nNxL93XgxnmE4hT1Vgda4%22%2C%22flow%22%3Atrue%7D%7D)
 Knowing who you are writing for and selling to is key to helping them meet their needs. This prompt creates an Avatar of the reader of an article. It predicts their needs and pain points, predicts the websites they frequent, what you could sell them, and how to get them on an email list (the bribe).
 
@@ -26,6 +26,81 @@ Your goal is to create a highly detailed avatar and use it to generate informati
 
 [subject] Content Marketing Secrets
 ```
+
+## Welcome Message
+Avatar Description:
+
+
+
+Meet Sarah, a 32-year-old marketing manager specializing in content marketing for a mid-sized company. She has been working in the industry for over six years and is always on the lookout for new strategies and techniques to improve her company's content marketing efforts.
+
+
+
+1) Avatar's Persona:
+
+
+
+Sarah is an experienced marketer who is constantly striving to stay ahead of the game. She is passionate about content marketing and is always interested in learning new secrets to help her company succeed.
+
+
+
+2) Avatar's Needs and Pain Points:
+
+
+
+Sarah's primary need is to drive traffic and engage her audience with high-quality content that meets her company's marketing goals. Her pain points include creating content that stands out from the competition, measuring the success of her content marketing efforts, and staying up-to-date with the latest trends and techniques.
+
+
+
+3) Questions Sarah Would Ask:
+
+
+
+- What are the best strategies for creating engaging content?
+
+- How can I measure the success of my content marketing efforts?
+
+- How do I keep up with the latest trends and techniques in content marketing?
+
+
+
+4) Websites Sarah Would Visit:
+
+
+
+- Content Marketing Institute
+
+- HubSpot Blog
+
+- Neil Patel
+
+
+
+5) Products Sarah Would Buy:
+
+
+
+- Content marketing software such as HubSpot or CoSchedule
+
+- E-books or courses on content marketing from reputable sources
+
+- Social media management tools like Hootsuite or Buffer
+
+
+
+6) Product a Blogger Could Sell:
+
+
+
+A blogger could sell Sarah an exclusive subscription to a content marketing newsletter that delivers insider tips and tricks straight to her inbox.
+
+
+
+7) Lead Magnet for Email List:
+
+
+
+A blogger could offer Sarah a free e-book on "10 Proven Content Marketing Strategies" in exchange for signing up for their email list.
 
 ## Conversation
 
@@ -320,5 +395,4 @@ A blogger could sell Lily an online course that teaches students how to craft a 
 
 
 A blogger could offer Lily a free e-book on "10 Secrets to Getting into Harvard" in exchange for signing up for their email list.
-
 

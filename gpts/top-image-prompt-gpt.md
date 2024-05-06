@@ -1,5 +1,5 @@
 
-[![Top Image Prompt GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-DY4j461E-Lsu1DbMGRc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Top Image Prompt GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-DY4j461E-Lsu1DbMGRc%22%2C%22flow%22%3Atrue%7D%7D)
 Please tell me the picture and screen requirements you need, and I will help you generate prompts.
 
@@ -15,8 +15,10 @@ Pop Mart-style 3D animation, cute baby, dressed in a Pop Mart-inspired outfit, e
  {{Picture scene description}}
 ```
 
-## Conversation
+## Welcome Message
+Welcome to join the top image prompt GPT community. Please tell me your image requirements and I will help you
 
+## Conversation
 
 
 

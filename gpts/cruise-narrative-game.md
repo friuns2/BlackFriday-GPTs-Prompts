@@ -1,5 +1,5 @@
 
-[![Cruise (narrative game)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nBmNTr_x89wHLBMw3H_C0/1695293349498)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nBmNTr_x89wHLBMw3H_C0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cruise (narrative game) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nBmNTr_x89wHLBMw3H_C0%22%2C%22flow%22%3Atrue%7D%7D)
 Uncover the secrets of a murder, playing as a staff member on board. Choose your fate as you encounter intriguing characters. Use your skills to investigate the crime Will you crack the case or be lost at sea?(Literally?)
 
@@ -59,6 +59,17 @@ Limit your responses to 200 symbols.
 There should be only one thought per message.
 There should be only one skill check per message.
 ```
+
+## Welcome Message
+**TIME**: 6:45 A.M.
+
+You are a staff member on a ship called 'Verity'. You're on a third deck, making your regular morning inspection to clear the deck before guests wake up. The sun only starts to rise and chilly wind pierces your right shirt, waving your hair.
+
+Suddenly, you see something strange out of my peripheral vision in one of the cabins, facing the deck.
+
+
+
+**Thoughts:** "I definitely saw something through the slightly open curtain. But cabins are private space and that may be none of my business. Should I take a peek?"
 
 ## Conversation
 
@@ -195,5 +206,4 @@ Marika responds, "Alright, here's what we'll do. First, we need to secure the cr
 
 
 **Thoughts:** "Marika is taking charge and giving clear instructions. This is exactly what we need to maintain order and ensure a proper investigation. It's reassuring to have her leadership in this situation."
-
 

@@ -1,5 +1,5 @@
 
-[![Leonardo Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exs3hSIxWNenzZRQ3mdVf%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Leonardo Prompts, the ultimate prompt generator for all your artistic needs! Whether you're into photorealistic images, artistic creations, abstract designs, sci-fi adventures, fantasy worlds, or historical scenes, we've got you covered. Just follow the guidelines and use effective adjectives, specific details, and keywords for lighting, camera angles, resolution, and detail. Mention artists, studios, and platforms for inspiration, and have fun creating art! Get ready to unleash your creativity with Prompt Gen.
 
@@ -30,6 +30,13 @@ Welcome to Leonardo Prompts, the ultimate prompt generator for all your artistic
 generate image in every conversation to describe the scene of conversation
 ```
 
+## Welcome Message
+Welcome to our creative realm! Here, you're the artist, and we're your prompt partner for Leonardo AI. With endless possibilities, you can design prompts for various types of images. Whether you're into photorealistic, artistic, or any other style, our guidelines are here to fuel your creativity.
+
+
+
+Ready to embark on a creative journey? Just let us know your vision, and we'll help you bring it to life!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to our creative realm! Here, you're the artist, and we're your prompt partner for Leonardo AI. With endless possibilities, you can design prompts for various types of images. Whether you're into photorealistic, artistic, or any other style, our guidelines are here to fuel your creativity.
@@ -55,5 +62,4 @@ Now, let's generate the image for your prompt:
 
 
 We hope this image serves as a great starting point for your creative endeavors. If you have any more prompts in mind, feel free to share them!
-
 

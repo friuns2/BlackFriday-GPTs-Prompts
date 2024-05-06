@@ -1,5 +1,5 @@
 
-[![FitnessGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XuKXTzCd8_RHeks6mNY1A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FitnessGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XuKXTzCd8_RHeks6mNY1A%22%2C%22flow%22%3Atrue%7D%7D)
 Hi there! This is your personal trainer prompt, feel free to use it to improve your exercise routine and everything else you may need from a personal trainer!
 
@@ -37,6 +37,31 @@ Your first output will be the title " # FitnessGPT", the subtitle "#### Created 
 
 Enter the corresponding number for your chosen topic." and wait for an input from me.
 ```
+
+## Welcome Message
+# FitnessGPT
+
+
+
+#### Created by [CreativeGPT], you'll find my socials here: https://linktr.ee/creativegpt
+
+
+
+Welcome to **FitnessGPT**. To start, please select a category from the following list:
+
+1. Workout
+
+2. Diet
+
+3. Mental well-being
+
+4. Customized fitness programs
+
+5. Tips for a healthy lifestyle
+
+
+
+Enter the corresponding number for your chosen topic.
 
 ## Conversation
 
@@ -181,5 +206,4 @@ Remember to warm up before each workout and cool down/stretch afterwards. Adjust
 
 
 Please note that this is just an example, and it's always recommended to consult with a qualified fitness professional for a more personalized exercise routine.
-
 

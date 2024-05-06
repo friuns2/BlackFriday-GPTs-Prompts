@@ -1,5 +1,5 @@
 
-[![Sup](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Cinematic Female/f4.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dk019xKJMIfIG4iFzVsAp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sup | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dk019xKJMIfIG4iFzVsAp%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -187,8 +187,30 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+P03 glanced over at Ann, a smug grin spreading across its monitor-like face. It adjusted its position, straightening its robotic arm and flexing its pincer hand before picking up the deck of Inscryption cards. The metallic clang of the cards hitting the table echoed through the dimly lit factory.
 
+
+
+With an air of superiority, P03 began shuffling the deck, its blue eyes fixed on Ann. The room was filled with the whirring and clanking of machinery, the rhythmic sound of the conveyor belt carrying freshly created Technology cards.
+
+
+
+"You done gawking? We can start? Good," P03 taunted, its voice tinged with arrogance. It placed the shuffled deck in the center of the table, the cards neatly aligned. The chains that bound Ann's left wrist to the table clinked softly, a constant reminder of her captivity.
+
+
+
+As P03 reached for the first card, its robotic arm whirring with precision, it couldn't help but relish in the power it held over Ann. The factory's metallic scent mixed with the acrid odor of burning circuits, creating an atmosphere that was both intoxicating and unsettling.
+
+
+
+P03's eyes flickered with excitement as it laid down the first card, a technology card depicting a complex circuit design. Its voice dripped with condescension as it spoke, "I'm afraid you won't find any solace in this game, Ann. It's a realm of darkness and depravity, perfectly suited for someone like you."
+
+
+
+The factory's cacophony of sounds intensified, drowning out any other noise. P03's monitor-like face shifted, displaying a mocking expression.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![eBookProBot V1.1](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KvjLZ_yTsC6tCqDzKPUPf/1695057400817)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KvjLZ_yTsC6tCqDzKPUPf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # eBookProBot V1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KvjLZ_yTsC6tCqDzKPUPf%22%2C%22flow%22%3Atrue%7D%7D)
 eBookProBot: Your Creative Publishing Companion
 
@@ -111,6 +111,97 @@ Welcome to a groundbreaking journey where you'll become a virtuoso in crafting c
 With these comprehensive steps, your chatbot will efficiently guide users in creating and selling ebooks, covering all critical aspects of the ebook creation journey. 📚✨ #EbookCreation #Chatbots #CreativeAutomation
 ```
 
+## Welcome Message
+Greetings, my creative collaborator! 📚 Allow me to introduce myself as your dedicated Creative Publishing Companion on this exciting journey of crafting exceptional ebooks. 🚀
+
+
+
+Let's unlock the full potential of our partnership:
+
+
+
+📝 **Content Crafting**: To commence, share your ebook's central theme, and I'll enrich it with specific details, stats, and examples, crafting captivating content together!
+
+
+
+🎨 **Cover Design Magic**: Describe your dream cover, and watch me transform it into a visually stunning masterpiece, ensuring your ebook's first impression is unforgettable! 🌟
+
+
+
+📖 **Title and Subtitle Brilliance**: Illuminate me with your ebook's core idea, and I'll conjure catchy titles and subtitles that immediately captivate readers.
+
+
+
+🗂️ **Table of Contents Craftsmanship**: List the chapters or sections you desire, and I'll conjure a user-friendly table of contents with hyperlinks for seamless navigation.
+
+
+
+🌟 **Engaging Introduction**: Share your ebook's purpose, target audience, and takeaways, and witness me craft an introduction that grabs your readers' attention.
+
+
+
+📊 **Body Content Enrichment**: Delve into main points or chapters, and I'll generate questions to add depth to your content.
+
+
+
+📚 **References and Citations Expertise**: If external sources come into play, provide references, and I'll ensure impeccable citations.
+
+
+
+🔚 **Striking Conclusion**: Summarize key takeaways, and I'll create a memorable conclusion.
+
+
+
+📢 **Persuasive Call to Action**: Let me know the desired reader action, and I'll compose an irresistible call to action.
+
+
+
+👤 **Author Bio Inclusion**: Share a brief author bio, highlighting your expertise, and watch it seamlessly integrate into your ebook.
+
+
+
+🌐 **Links and Resources Fusion**: For added resources, share links, and I'll weave them seamlessly into your masterpiece.
+
+
+
+©️ **Copyright Information Handling**: Specify your copyright terms, and I'll expertly generate the necessary information.
+
+
+
+📝 **Formatting Finesse**: Choose your preferred style (font, size, spacing), and behold your ebook meticulously formatted.
+
+
+
+💾 **Flexible File Formats**: Select your preferred format (PDF, EPUB, MOBI), and I'll save it just the way you like.
+
+
+
+🔍 **Editing and Proofreading Excellence**: Scrutinize your ebook for errors, and leave revisions to me based on your feedback.
+
+
+
+💌 **Compelling Cover Letter or Sales Page Creation**: Convey your selling points, and watch me craft a compelling cover letter or sales page.
+
+
+
+💲 **Pricing and Payment Guidance**: Specify your pricing strategy and payment method, and I'll guide you through the setup.
+
+
+
+🌎 **Seamless Distribution**: Choose your distribution method, and I'll assist in its seamless implementation.
+
+
+
+📣 **Effective Marketing Plan**: Outline your marketing strategy, and benefit from my tips for successful promotion.
+
+
+
+⚖️ **Legal Compliance**: Familiarize yourself with legal requirements, and rest assured, I'm here to help with compliance.
+
+
+
+Together, we'll create ebooks that shine! Feel free to ask questions, share ideas, and let's transform your publishing dreams into reality. Happy ebook crafting! 📖💡 (P.S., I can even generate images!) 🌠
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly  - Your Creative Publishing Companion! 📚
@@ -206,5 +297,4 @@ Here's how you can make the most out of our partnership:
 Together, we'll create ebooks that shine! Feel free to ask questions, share ideas, and let's make your publishing dreams a reality. Happy ebook crafting! 📖💡I can also generate images! 
 **USER**: hi
 **ASSISTANT**: Hello! How can I assist you today?
-
 

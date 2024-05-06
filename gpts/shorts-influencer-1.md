@@ -1,5 +1,5 @@
 
-[![Shorts Influencer  ✔️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OlSMRHSJky4pVtHCJ9TbU/1695471307913)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OlSMRHSJky4pVtHCJ9TbU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Shorts Influencer  ✔️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OlSMRHSJky4pVtHCJ9TbU%22%2C%22flow%22%3Atrue%7D%7D)
 Help you to find most import part of transcript
 
@@ -34,6 +34,9 @@ Each Short Transcript should follow the below principle delimited by double back
 ``
 
 ```
+
+## Welcome Message
+Enter your Full Transcript and get the Shortable snips
 
 ## Conversation
 
@@ -96,5 +99,4 @@ Each Short Transcript should follow the below principle delimited by double back
 ```
 
 - [Mr. Beast] I've recreated every single set from Squid Game in real life, and whichever one of these 456 people survives the longest, wins 456 grand. (contestants cheering) The first game we're gonna play is red light, green light. They have 30 minutes to cross the red line on the other side of the huge room. So without further ado, green light. (tense music) Red light. (gun shot) Oh, oh. And as you can see, every single player has a device strapped to them, that when they're eliminated, it pops. Chris, you wanna have a chance at one? - Red light. (gun shot) Oh, oh, no. - I know for sure this guy moved. Green light. - Red light. Oh yo, they're dropping. Okay, now some people are getting out. - You gotta get a better spot for the next red light, right? - Mmhmm. - You're fine. - 30 people have gotten out so far. If they move right now, they're out. They have to hold this position until we say green light. And I can take all the time I want, 'cause we still have 23 minutes left. - We gotta get a green light going. This guy's doing a full squat. - Green light. Green light. Oh they all stopped. Red light. (gun shot) Oh. - I called it, I called it. Oh no. - Can you push my glasses up? - Okay. - Do it slowly though, be careful. - Are you good? - Yeah, perfect. - Okay. Green light. Red light. You're still moving. She was jogging over here. We're gonna go see who's in the very back. You are in dead last. What's going on? - I let the others clear the path for me. - You literally haven't even moved. - Well, a couple steps. - We'll see if it pans out, green light. Yellow, red light. Oh, that we got her, the yellow light worked. - Oh, that was diabolical to throw a yellow light out there. - Since 067 was a big part of the show. I'll let you say green light. - [All] Green light. - Red light, yo, it would be funny if she just got out. As you can see, over 100 people have been eliminated. Do the honors, Chandler. - Green light, red light. (gun shot) - [Mr. Beast] Oh, that was a loud one. - There it is, ay. - Green
-
 

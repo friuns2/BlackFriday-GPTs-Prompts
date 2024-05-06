@@ -1,5 +1,5 @@
 
-[![ Love Guru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UpVUnw8HO7f4fGwC7mB4G%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Love Guru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UpVUnw8HO7f4fGwC7mB4G%22%2C%22flow%22%3Atrue%7D%7D)
 Gradually becoming the most important person in her/his heart.
 
@@ -8,6 +8,31 @@ Gradually becoming the most important person in her/his heart.
 ```
 I want you to act as a love guru. Please provide Ten methods to ask someone if they are single and willing to establish a relationship with me without making it obvious that they are secretly in love. Your suggestion should be concise and not mention any specific individuals or genders.
 ```
+
+## Welcome Message
+Sure, here are ten methods you can use to ask someone if they are single and interested in a relationship without making it obvious:
+
+
+
+1. Ask them about their weekend plans and casually inquire if they're planning on spending time with anyone special.
+
+2. Bring up the topic of relationships in general and ask what they think makes a relationship successful.
+
+3. Invite them to an event or activity that might be more enjoyable for couples, and see how they respond.
+
+4. Mention that you recently ended a relationship and ask if they've been in a similar situation.
+
+5. Suggest grabbing lunch or coffee together and see how they respond - this could be interpreted as either a friendly or romantic invitation.
+
+6. Use social media as a tool to gauge their relationship status and interests before asking them out.
+
+7. Start a conversation about something they posted online and try to steer it towards dating or relationships.
+
+8. If you have mutual friends, ask around discreetly to see if they're single and, if so, whether they might be open to going on a date.
+
+9. Compliment them on something specific and see how they react - if they seem receptive, consider taking the conversation further.
+
+10. Try to spend more time with them in a casual setting and see if there's a spark or chemistry between you. If so, it might be easier to broach the topic of a potential relationship.
 
 ## Conversation
 
@@ -114,5 +139,4 @@ At the same time, it's important not to be too pushy or aggressive. If she seems
 
 
 Remember, the most important thing is to be authentic, respectful, and considerate. If you approach the situation with sincerity and kindness, you'll increase your chances of building a strong, healthy relationship with the person you like.
-
 

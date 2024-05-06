@@ -1,5 +1,5 @@
 
-[![ChatGPT: The future of text-to-image prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281GXnZJ62IuPQ7MoG-pM9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT: The future of text-to-image prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2281GXnZJ62IuPQ7MoG-pM9%22%2C%22flow%22%3Atrue%7D%7D)
 A text-to-image prompt is a type of challenge where you have to describe a scene or object using only text. This can be a great way to improve your writing skills and imagination. If you’re looking for a new way to challenge yourself, why not try a text-to-image prompt? ChatGPT can help you create amazing prompts that will stretch your creative muscles. 
 
@@ -45,6 +45,9 @@ Watercolor painting, family of elephants, roaming the savannah, delicate brush s
 Please provide the prompts in a code block so it can easily be copied and pasted into Midjourney.
 Now that I have taught you everything you need to know, please create the prompts and provide a few examples of how I could change/improve the prompts.
 ```
+
+## Welcome Message
+Thanks for checking me out 😊. Please enter your photo style example: architecture, portrait, wildlife....etc
 
 ## Conversation
 
@@ -119,5 +122,4 @@ A digital manipulation of a street in Kano, with buildings melting and warping l
 
 
 Feel free to provide any feedback or request any changes to these prompts!
-
 

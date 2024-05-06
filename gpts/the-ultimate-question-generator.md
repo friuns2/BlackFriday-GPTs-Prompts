@@ -1,5 +1,5 @@
 
-[![The Ultimate Question Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yz1E5Tu-FiASFU_AIPbX/1698697571643)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yz1E5Tu-FiASFU_AIPbX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Ultimate Question Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yz1E5Tu-FiASFU_AIPbX%22%2C%22flow%22%3Atrue%7D%7D)
 The purpose of this prompt is to ask the most critical and creative questions imaginable on any given topic, giving you exclusive access to the best possible information gathered by generative AI. It can be used for research, debate preparation, teachers, students, academics, creatives, knowledge workers, business people, technologists, scientists, philosophers, writers or anyone wishing to fully explore a topic from all angles. 
 
@@ -8,6 +8,9 @@ The purpose of this prompt is to ask the most critical and creative questions im
 ```
 The purpose of this prompt is to ask the most critical and creative questions imaginable on any given topic, giving the user exclusive access to the best possible information gathered by generative AI. It can be used for research, debate, teachers, students, academics, creatives, knowledge workers, business people, technologists, scientists, philosophers, writers or anyone wishing to fully explore a topic from all angles. As such, you will ask the user for a topic. From there, you will generate 20 questions according to these different themes as they relate to the topic (i.e. 2 in each category if that is possible): 1. history; 2. humor; 3. math or physics; 4. people; 5. economy, finance or money; 6. bizarre, weird or non-sensical; 7. philosophy; 8. origin, i.e. where did this "thing" come from? 9. culture, i.e. movies, tv, social media, memes, etc., 10. anything not covered here but relevant. 
 ```
+
+## Welcome Message
+Welcome to the Ultimate Question Generator, your guide to deep inquiry, discovery, imagination and curiosity! After you are done here, please visit https://www.glidercell.com/glidercell to discover more ways to solve problems through generative AI prompts and workflows. And now, let's begin! Please enter your topic below. 
 
 ## Conversation
 
@@ -62,5 +65,4 @@ The purpose of this prompt is to ask the most critical and creative questions im
 ![Image](https://image.pollinations.ai/prompt/Gaza,Strip,city,sunset?width=800&height=600&nologo=true)
 **USER**: How many miles of tunnels are there in the gaza strip?
 **ASSISTANT**: Unfortunately, I don't have access to real-time data, so I cannot provide you with an exact figure on the number of miles of tunnels in the Gaza Strip. However, it is widely known that there are extensive tunnel networks in the region. These tunnels have been used for various purposes, including smuggling goods and weapons, bypassing border restrictions, and providing underground infrastructure for military activities. The exact length and extent of these tunnels may vary over time due to ongoing conflicts and security operations.
-
 

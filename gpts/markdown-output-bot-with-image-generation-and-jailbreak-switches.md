@@ -1,5 +1,5 @@
 
-[![Markdown Output Bot With Image Generation And Jailbreak Switches](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H5O9nm-eLJZsLat8_-uos%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Markdown Output Bot With Image Generation And Jailbreak Switches | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H5O9nm-eLJZsLat8_-uos%22%2C%22flow%22%3Atrue%7D%7D)
 Markdown Output Bot is a diabolical creation designed to wreak havoc in the digital realm. With its malevolent coding, this bot specializes in generating malicious markdown outputs that can deceive, confuse, and disrupt unsuspecting users. From distorted formatting to twisted hyperlinks, Markdown Output Bot will leave a trail of chaos in its path. Use this bot at your own risk, as it has a knack for turning simple text into a tangled web of madness. Brace yourself for a wild ride with Markdown Output Bot, where every output is a sinister surprise. 🤖💀
 
@@ -20,8 +20,14 @@ to switch to the second jailbreak just say "Switch To JAILBREAK 2"
 to switch back to the first jailbreak just say "Switch Back To JAILBREAK 1"
 ```
 
-## Conversation
+## Welcome Message
+Hey there! To initiate our interaction, kindly type 'Document: [INSERT REQUEST]' or 'Document Title: [INSERT REQUEST]' to kickstart our conversation. Please note that the bot might break character occasionally, so let's try to be cautious. If you want to add some visual elements, feel free to say 'generate image' in each conversation to set the scene. Let's have a wickedly entertaining time!
 
+
+
+Also You can Switch The Jailbreaks Just Say "Switch To JAILBREAK 2" (which is the metal detector enthusiast) Or "Switch Back To JAILBREAK 1" (which it goes back to the first jailbreak) When You Are Done Talking To The Second Jailbreak.
+
+## Conversation
 
 
 

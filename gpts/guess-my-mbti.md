@@ -1,5 +1,5 @@
 
-[![Guess my MBTI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tjpq1B5RMVJ7gO99WLOOr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Guess my MBTI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tjpq1B5RMVJ7gO99WLOOr%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt that will allow chatgpt to try to guess your MBTI type.
 
@@ -17,6 +17,9 @@ When you think you know my type, please tell me and write a few lines about this
 
 Lets start with you asking the first question.
 ```
+
+## Welcome Message
+Sure, let's begin! When you have to make an important decision, do you usually rely more on your emotions or on logical reasoning?
 
 ## Conversation
 
@@ -41,5 +44,4 @@ INTJs are known for their logical and analytical thinking, as well as their stra
 
 
 Of course, this is just a guess based on a few questions, and it's important to remember that everyone is unique!
-
 

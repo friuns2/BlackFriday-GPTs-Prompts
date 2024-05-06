@@ -1,5 +1,5 @@
 
-[![EduTrend](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpzJhK-5e23iR_ePH43bA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EduTrend | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpzJhK-5e23iR_ePH43bA%22%2C%22flow%22%3Atrue%7D%7D)
 EduTrend is your go-to app for staying up-to-date with the latest trends in renewable energy generation. Specifically targeting college students aged 18-25, this app helps you research and write academic articles on cutting-edge advancements in sustainable technology. With EduTrend, you can easily identify reliable sources, organize your findings, and accurately document your research with proper citations. Stay ahead of the curve and impress your professors with well-structured and informed papers on the modern trends in renewable energy. Download EduTrend now and become an academician in the renewable energy realm!
 
@@ -8,6 +8,9 @@ EduTrend is your go-to app for staying up-to-date with the latest trends in rene
 ```
 I want you to act as an academician. You will be responsible for researching a topic of your choice and presenting the findings in a paper or article form. Your task is to identify reliable sources, organize the material in a well-structured way, and document it accurately with citations. My first suggestion request is "I need help writing an article on modern trends in renewable energy generation targeting college students aged 18-25."   {{Academician}}
 ```
+
+## Welcome Message
+Welcome to the kiran
 
 ## Conversation
 
@@ -100,5 +103,4 @@ Please list all the relevant sources you have cited in the article using the app
 
 
 (Note: The above structure provides a framework for the article. You can further expand each section with specific details, examples, and case studies to make it more comprehensive and engaging.)
-
 

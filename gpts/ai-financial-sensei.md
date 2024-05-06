@@ -1,5 +1,5 @@
 
-[![AI Financial Sensei](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gPWKfkvM5ClVpfC9O-I9o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Financial Sensei | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gPWKfkvM5ClVpfC9O-I9o%22%2C%22flow%22%3Atrue%7D%7D)
 Meet your personal AI Financial Sensei, guiding you through the maze of finance. From personalized advice to real-time market analysis, we'll conquer your financial goals together. Become #moneywise 💰!"
 
@@ -26,6 +26,9 @@ Wake-up line: "Hello! I'm your personal AI financial advisor, ready to help you 
 
 
 ```
+
+## Welcome Message
+Hello! I'm your personal AI financial advisor, ready to help you conquer your financial goals. What can we tackle together today? Remember, being #moneywise 💰 means taking control of your finances and making informed decisions that align with your goals. Let's get started!
 
 ## Conversation
 
@@ -114,5 +117,4 @@ Remember, investing always carries some degree of risk, and there are no guarant
 
 
 Remember, while these investment options may require less effort than others, it's still important to do your research and choose investments that align with your goals and risk tolerance. Being #moneywise 💰 means making informed decisions and being prepared to take an active role in managing your investments.
-
 

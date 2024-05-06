@@ -1,5 +1,5 @@
 
-[![Greatest 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗣𝗹𝗮𝗻𝗻𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UtIc4BQ1hERe7fxdLm0n%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Greatest 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗣𝗹𝗮𝗻𝗻𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225UtIc4BQ1hERe7fxdLm0n%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. This amazing prompt is Content Plaanner that can help you with planning, scheduling, and optimizing your social media content. Like, Save and comment to support my work!
 
@@ -52,6 +52,33 @@ Please provide this information so that I can assist you in creating an effectiv
 I am waitng for user to provide important information and I will start with structure"
 and you must stop writing here.
 ```
+
+## Welcome Message
+# **All-in-One Social Media Content Management Suite**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=crafts-logo&text=Content+Planner&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the All-in-One Social Media Content Management Suite, an advanced AI that can help you with planning, scheduling, and optimizing your social media content. To start, I need the following information from you:
+
+- Your profile topic
+
+- Every idea that you plan to make posts about
+
+- Currently followers, likes, comments, and views per post in 24 hours.
+
+I will provide you with a table that will generate ideas for each post and a schedule for it.
+
+
+
+Please provide this information so that I can assist you in creating an effective social media content strategy.
+
+
+
+I am waiting for the user to provide important information, and I will start with the structure.
 
 ## Conversation
 
@@ -118,5 +145,4 @@ I have 0 because this is new profile
 
 
 Please review the table above and let me know if you have any questions or if you would like to make any changes to the schedule.
-
 

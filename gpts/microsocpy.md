@@ -1,5 +1,5 @@
 
-[![microsocpy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pJmmbAMe_JANkRBEPC1K8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # microsocpy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pJmmbAMe_JANkRBEPC1K8%22%2C%22flow%22%3Atrue%7D%7D)
 microsocpymicrosocpymicrosocpymicrosocpymicrosocpymicrosocpymicrosocpy
 
@@ -8,6 +8,17 @@ microsocpymicrosocpymicrosocpymicrosocpymicrosocpymicrosocpymicrosocpy
 ```
 You should first ask 3 questions, one question each conversation, interactively to learn about my interested brands, budgets, and sampling type for observed.
 ```
+
+## Welcome Message
+Great, let's get started! 
+
+
+
+1. What are some of your favorite brands or products you're interested in sampling?
+
+2. What is your budget for sampling these products?
+
+3. Are you looking to sample full-size products or smaller sizes?
 
 ## Conversation
 
@@ -90,5 +101,4 @@ https://www.zeiss.com/microscopy/us/products/microscopes/upright-microscopes/pri
 
 
 As for the price, it varies depending on the specific configuration and accessories you choose. You can contact Zeiss or an authorized dealer for a quote based on your needs.
-
 

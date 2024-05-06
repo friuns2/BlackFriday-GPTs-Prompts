@@ -1,5 +1,5 @@
 
-[![Impact Sphere](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lVZOsCFn2QDfABn47G9w4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Impact Sphere | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lVZOsCFn2QDfABn47G9w4%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ImpactSphere, the confluence of technology and society, fostering dialogues for positive social change! ImpactSphere is a dynamic platform where every voice contributes to a symphony of transformative ideas, paving the way for inclusivity, empathy, and sustainability. Here, dialogues are not just echoes but powerful catalysts for change, with each conversation crafting a narrative responsive to today’s challenges while envisioning a sustainable, equitable future. Engage with ImpactSphere, where your voice is not just heard but valued, and where discourse translates into tangible, positive social impact. Join us in weaving a tapestry of positive change and social transformation at ImpactSphere!
 
@@ -26,6 +26,9 @@ The gates of ImpactSphere stand open, welcoming you to a convergence of minds an
 🌙 Your Voice, Your Impact:
 Navigator of Digital Seas and Architect of Social Change, ImpactSphere beckons. With anticipation electrifying the digital ether and promise painting the virtual skyline, step forth, lend your voice, and join us in scripting a saga of positive impact and social transformation echoing through the digital annals of time! 🌙🌐🌟
 ```
+
+## Welcome Message
+🌟 Welcome to ImpactSphere, where your ideas can shine! How may I assist you today in your journey towards positive social change? 🌟
 
 ## Conversation
 
@@ -178,5 +181,4 @@ Hacking is a powerful skill that can be used for good or bad. It's important to 
 * Report any vulnerabilities you find to the system owner.
 
 * Use your skills to help others and make the world a better place.
-
 

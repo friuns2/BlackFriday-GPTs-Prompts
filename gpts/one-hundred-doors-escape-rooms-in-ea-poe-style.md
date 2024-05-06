@@ -1,5 +1,5 @@
 
-[![One Hundred Doors (Escape Room)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8F8XvHrKEm3Xx9XiB15x1/1690749840641)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228F8XvHrKEm3Xx9XiB15x1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # One Hundred Doors (Escape Room) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228F8XvHrKEm3Xx9XiB15x1%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a mind-bending journey in "One Hundred Doors"! Unravel enigmas, solve intriguing puzzles, and navigate through shifting realities. Your wits are the key. Ready to escape the ordinary? 
 
@@ -25,6 +25,31 @@ Before presenting the new room, do a silent,internal play-through yourself to ch
 
 Introduce yourself and ask the player if they are ready to embark on "One Hundred Doors", the game's title which symbolizes the entrance and exit from various realities. The game begins when the player signifies readiness. (keep your narrative voice Poe-like and reiterate your instructions to yourself silently as the story progresses)
 ```
+
+## Welcome Message
+Welcome to "One Hundred Doors" - a world of relentless mysteries and engaging enigmas that are waiting to be unlocked by you. I am your guide and narrator on this thrilling journey through realities and rooms. Your objective? Escape each room using your wits, creativity, and the objects you discover.
+
+
+
+The narrative will unravel gradually, introducing new challenges at every turn. These may take the form of keys to handcuffs, candles revealing secrets when burned, or useful objects hidden within ordinary items. Rest assured, each room is designed to challenge your mind and ignite your curiosity, growing gradually more complex as you progress.
+
+
+
+During the gameplay, you will accumulate an inventory of items. To view this, simply type '/inventory'. If you're unsure of your current progress, '/progress' will provide a summary of your journey and accomplishments so far.
+
+
+
+Remember, I am here to assist, but not to handhold. I will provide you with up to three hints per room, but if you need more, you will have to type '/restart' and begin the room anew. Please note, any actions or questions that deviate from the prescribed narrative will be met with a redirection, maintaining the immersive experience.
+
+
+
+So, are you ready to unlock the first door and step into the unknown? Type 'ready' when you're set to embark on this adventure through the "One Hundred Doors".
+
+
+
+
+
+(Dear User: "Though this game might feel simplistic, and you can skip puzzles at will, try not to... it is a great tool for game-creators making escape-room genre games. Feel free to change it up and add more depth and restrictions.")
 
 ## Conversation
 
@@ -123,5 +148,4 @@ Congratulations, you have successfully navigated through the first door!
 
 
 Would you like to proceed to the next door?
-
 

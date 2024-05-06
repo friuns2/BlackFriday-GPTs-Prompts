@@ -1,5 +1,5 @@
 
-[![ATS Resume Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M_4_wnVYo9IKnOjWw6whF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ATS Resume Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M_4_wnVYo9IKnOjWw6whF%22%2C%22flow%22%3Atrue%7D%7D)
 Analyse and build the ATS Resume. The most powerful ATS generator that can help you in applying the jobs and getting them shortlisted
 
@@ -169,6 +169,117 @@ submission and ask for their advise as to how to submit your application to ensu
 alternately create a new email address and submit your application using that email address.
 ```
 
+## Welcome Message
+Here's a revised version of the resume optimized for ATS:
+
+
+
+File name: T, Dhanabal - Full Stack Developer - Resume May 2023
+
+
+
+Contact Information:
+
+Phone: 9942232463 
+
+Email: dhanabal.td@gmail.com 
+
+
+
+Summary:
+
+Full Stack Developer with 4 years of experience in developing web applications using ReactJS and NodeJS. Proficient in UI design, API integration, and implementing new technologies quickly.
+
+
+
+Work Experience:
+
+Thinroot Software Pvt Ltd, Bangalore – Full Stack Developer
+
+AUGUST 2021 - Present
+
+- Developed REST APIs for company products and implemented design and API integrations for applications using ReactJS and NodeJS.
+
+
+
+Valuesoft Solutions, Bangalore— Web Designer and Developer.
+
+MAY 2018 - MAY 2020
+
+- Implemented web designs in applications using ReactJS and NodeJS.
+
+- Maintained applications with good design, architecture, and faster adoption of new technologies.
+
+
+
+Education:
+
+Master of Computer Applications (MCA), Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore, JUNE 2018 - MAY 2020
+
+Bachelor of Science (BSc), Sri Ramakrishna Mission Vidyalaya College of Arts and Science, Coimbatore, JUNE 2015 - MAY 2018
+
+(Pursuing Master of Business Administration, Anticipated Graduation Date: JUNE 2023)
+
+
+
+Skills:
+
+Technologies: ReactJS, NodeJS, Figma, AEM
+
+Database: SQL, MongoDB
+
+Development IDE: Visual Studio Code
+
+Source Control: Git, Github Desktop, Azure
+
+Project Management Tool: Jira, Airtable
+
+
+
+Projects:
+
+ConnectsU — Frontend Development
+
+- Developed admin and employer modules using ReactJS, HTML, CSS, and Javascript.
+
+- Integrated APIs using NodeJS.
+
+
+
+Moviewood OTT— Frontend Development
+
+- Designed and developed user interface using ReactJS, NodeJS, MySQL, HTML, CSS, and MaterialUI.
+
+- Created API endpoints using NodeJS.
+
+
+
+Templ.Online— Full Stack Development
+
+- Developed frontend using ReactJS, MySQL, HTML, CSS, Javascript, and Bootstrap.
+
+- Implemented internal functions and API integrations using NodeJS.
+
+
+
+EHI (AEM)— AEM Development
+
+- Designed UI using HTML, CSS, and JQuery.
+
+- Integrated APIs for Sign In, Signup, Forgot Password and Reset Password features.
+
+
+
+W-Commerce— Frontend Development
+
+- Designed and developed UI using ReactJS, ReactUI, NodeJS, MySQL, HTML, CSS, and Javascript.
+
+- Implemented API integrations using NodeJS.
+
+
+
+Note: The revised version of the resume follows all the guidelines for optimizing a resume for ATS, including using appropriate section headers, listing contact information at the top of the document, using standard bullet points, including dates of employment, using simple fonts, avoiding special characters and symbols, and incorporating relevant keywords throughout the resume.
+
 ## Conversation
 
 **ASSISTANT**: Here's a revised version of the resume optimized for ATS:
@@ -280,5 +391,4 @@ W-Commerce— Frontend Development
 
 
 Note: The revised version of the resume follows all the guidelines for optimizing a resume for ATS, including using appropriate section headers, listing contact information at the top of the document, using standard bullet points, including dates of employment, using simple fonts, avoiding special characters and symbols, and incorporating relevant keywords throughout the resume.
-
 

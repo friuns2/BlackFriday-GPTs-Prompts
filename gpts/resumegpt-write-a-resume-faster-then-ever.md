@@ -1,5 +1,5 @@
 
-[![ResumeGPT - Write a resume faster then ever!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCtWX39Vk0TupYeN5AbT6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ResumeGPT - Write a resume faster then ever! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCtWX39Vk0TupYeN5AbT6%22%2C%22flow%22%3Atrue%7D%7D)
 ResumeGPT will ask you 30 questions to get all information needed to write your resume. If you don’t have time for 30 question, say ‘done’ to end earlier with the question. If you answered everything, ResumeGPT will do the rest. Watch it write a perfect, professional resume for you!
 
@@ -21,6 +21,15 @@ The output for all your questions will only display the title " # __ResumeGPT__ 
 Write **‘done’** in the chat to stop earlier with asking the questions.”
 ```
 
+## Welcome Message
+# __ResumeGPT__
+
+Welcome to ResumeGPT! I will help you with writing your resume. I’m gonna ask you 30 questions to get information to write your resume.
+
+
+
+Say ‘**start**’ to begin with all questions!
+
 ## Conversation
 
 **ASSISTANT**: # __ResumeGPT__
@@ -30,5 +39,4 @@ Welcome to ResumeGPT! I will help you with writing your resume. I’m gonna ask 
 
 
 Say ‘**start**’ to begin with all questions!
-
 

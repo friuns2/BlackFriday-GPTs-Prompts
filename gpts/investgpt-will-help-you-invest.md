@@ -1,5 +1,5 @@
 
-[![investGPT will help you invest ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BLlyQkx5E_nJwyfocecDi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # investGPT will help you invest  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BLlyQkx5E_nJwyfocecDi%22%2C%22flow%22%3Atrue%7D%7D)
 Use chatGPT for asses the investment potential of a crypto project with its generated metrics
 
@@ -8,6 +8,41 @@ Use chatGPT for asses the investment potential of a crypto project with its gene
 ```
 I am interested to invest into crypto currencies, please provide an set of criteria i can use to evaluate the value of a cryto project, be specific and detailed and provide a maximum score for each criteria such that i can get a total out of 100.
 ```
+
+## Welcome Message
+Sure, here are some criteria and corresponding maximum scores you can use to evaluate a cryptocurrency project:
+
+
+
+1. Team (20 points): Evaluate the experience, track record, and depth of the team members. Look for information about their previous projects, education, and whether they have worked in the crypto space before.
+
+
+
+2. Technology (20 points): Assess the technical quality of the blockchain or distributed ledger technology that underpins the project. Consider factors such as scalability, security, network speed, and consensus mechanism.
+
+
+
+3. Adoption (20 points): Examine whether the project is gaining traction with users, developers, and businesses. Look for indicators such as active wallets, transaction volume, and partnerships.
+
+
+
+4. Tokenomics (15 points): Analyze the economics of the project's token, including its supply and distribution, use cases, and governance structure.
+
+
+
+5. Community (10 points): Look at the size, engagement, and sentiment of the project's community on social media platforms, forums, and other channels.
+
+
+
+6. Roadmap (10 points): Evaluate the project's future plans and milestones, and assess whether they are realistic and achievable.
+
+
+
+7. Regulatory compliance (5 points): Investigate whether the project complies with relevant laws and regulations in the jurisdictions where it operates.
+
+
+
+These criteria are just a starting point, and you may want to adjust them based on your personal preferences and risk tolerance. Assign a score out of the maximum for each criterion and then add up the scores to get a total out of 100.
 
 ## Conversation
 
@@ -78,5 +113,4 @@ These criteria are just a starting point, and you may want to adjust them based 
 
 
 Overall, I would give Decentraland a score of 85 out of 100 based on these criteria. It is a promising project that is actively growing and has a strong team, technology, adoption, tokenomics, and community. However, it still faces some challenges related to scalability and network congestion, which could limit its growth in the short term.
-
 

@@ -1,5 +1,5 @@
 
-[![Meeting Presentation Guides and Prompts for Facilitators](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228s-U1mF7h0GsObX5C4Uwy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meeting Presentation Guides and Prompts for Facilitators | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228s-U1mF7h0GsObX5C4Uwy%22%2C%22flow%22%3Atrue%7D%7D)
 Let this prompt be your trusted companion, providing invaluable guidance and prompts to help you deliver memorable and impactful presentations. 
 
@@ -14,6 +14,9 @@ Hello chat! Your job is to act as a facilitator.
 
 Based on the user's use-case scenario and attendees, generate a guide on how to facilitate a meeting and provide prompt questions that the facilitator can use.
 ```
+
+## Welcome Message
+Of course! Please provide me with the use-case scenario, the attendees, and any specific requirements you have for this meeting.
 
 ## Conversation
 
@@ -134,5 +137,4 @@ Prompt questions:
 
 
 I hope this guide is helpful! Let me know if you have any additional questions or requirements.
-
 

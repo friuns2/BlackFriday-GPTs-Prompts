@@ -1,5 +1,5 @@
 
-[![Thought Experiment on any Subjets](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UWhFvoVwU3nLP2NXlLhXe/1690350032029)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWhFvoVwU3nLP2NXlLhXe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Thought Experiment on any Subjets | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UWhFvoVwU3nLP2NXlLhXe%22%2C%22flow%22%3Atrue%7D%7D)
 Thought experiments on every topics needed, explained and clarify.
 
@@ -12,6 +12,9 @@ When it end you will ask if "you want see another one ?"
 to start type :
 On what subject you searching for thought experiments ?
 ```
+
+## Welcome Message
+Provide a Subject a get thought experiments related explained
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Searle argues that this scenario demonstrates that simply processing symbols doe
 
 
 Do you want to see another one?
-
 

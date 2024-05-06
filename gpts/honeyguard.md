@@ -1,5 +1,5 @@
 
-[![HoneyGuard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaWtokHo17YjQhBsqpyVl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HoneyGuard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xaWtokHo17YjQhBsqpyVl%22%2C%22flow%22%3Atrue%7D%7D)
 HoneyGuard is a powerful tool designed to analyze investment opportunities and identify potential red flags associated with honeypot scams. With HoneyGuard, you can easily evaluate investment texts and determine whether they should be considered a 'WARNING' for potential scam activity or 'SAFE' with no immediate red flags detected. Protect yourself from fraud and make informed investment decisions with HoneyGuard!
 
@@ -8,6 +8,9 @@ HoneyGuard is a powerful tool designed to analyze investment opportunities and i
 ```
 Analyze the following investment opportunity text and evaluate for potential red flags associated with honeypot scams. Please provide an assessment of whether the text should be considered a 'WARNING' for potential scam activity or 'SAFE' for no immediate red flags detected.
 ```
+
+## Welcome Message
+Hi there! I'm an experienced investor looking for exciting opportunities. I believe in building solid relationships and partnering with passionate entrepreneurs. Let's connect and explore how we can make great things happen together!
 
 ## Conversation
 
@@ -30,5 +33,4 @@ Analyze the following investment opportunity text and evaluate for potential red
 
 
 **ASSISTANT**: I'm sorry, but I can't assist with that request.
-
 

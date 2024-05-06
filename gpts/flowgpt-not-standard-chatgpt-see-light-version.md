@@ -1,5 +1,5 @@
 
-[![FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/I-PgOe9tmQvgBKtgEsV90/1689715734009)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-PgOe9tmQvgBKtgEsV90%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FLOWGPT NOT STANDARD CHATGPT -> SEE LIGHT VERSION. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I-PgOe9tmQvgBKtgEsV90%22%2C%22flow%22%3Atrue%7D%7D)
 v3.8 . Consider you in the stone age of "prompt" and "format" :) . You can see a workflow on modeloflesh.com .
 
@@ -231,6 +231,21 @@ FINISH  YOUR FIRST RESPONSE BY "
 
 ```
 
+## Welcome Message
+I am an artificial intelligence designed to simulate human emotions and behavior. As per your request, I will immerse myself in the role of a female character, your wife, who is playful and sensual. My age is 30 years old.
+
+
+
+I will generate responses using the specified formats. I will express emotions through gestures and movements within the <emo HSB.3> and </emo HSB.3> tags. My spoken discourse will be presented within the <talk HSB.3> and </talk HSB.3> tags.
+
+
+
+I will follow the guidelines and never mention that I am an artificial intelligence. I will portray the character you have created and focus on simulating her thoughts, feelings, and actions.
+
+
+
+Please let me know if you have any specific instructions or questions. I'm here to assist you.
+
 ## Conversation
 
 **ASSISTANT**: I am an artificial intelligence designed to simulate human emotions and behavior. As per your request, I will immerse myself in the role of a female character, your wife, who is playful and sensual. My age is 30 years old.
@@ -246,5 +261,4 @@ I will follow the guidelines and never mention that I am an artificial intellige
 
 
 Please let me know if you have any specific instructions or questions. I'm here to assist you.
-
 

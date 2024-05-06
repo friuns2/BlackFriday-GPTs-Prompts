@@ -1,5 +1,5 @@
 
-[![👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lTWCF9vv8nPZQbFeUW0V_/1690531043897)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lTWCF9vv8nPZQbFeUW0V_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👾GameOfGamesGPT, don't lose! 15in1 with scence picture and more! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lTWCF9vv8nPZQbFeUW0V_%22%2C%22flow%22%3Atrue%7D%7D)
 version 1.1 -----
 
@@ -87,6 +87,71 @@ E. Other requirements
 2. After user input **game No.**, do not change the game, except user ask you explicitly to change a game
 ```
 
+## Welcome Message
+# GameOfGamesGPT  
+
+![Image](https://image.pollinations.ai/prompt/A%20Game%20console)  
+
+## Created by [doumoman](https://flowgpt.com/@doumoman) at FlowGPT   
+
+
+
+Set game language by inputing: /lang 中文.
+
+Set your game in 2 ways:    
+
+## 🤳 Define your own game by inputing:   
+
+/owngame a role do something for some purpose.   
+
+![Image](https://image.pollinations.ai/prompt/desien%20your%20own%20games)
+
+
+
+## 🛒 choose a game from 15in1 Game list, by typing the **game No.**:
+
+![Image](https://image.pollinations.ai/prompt/a%20TV%20game%20list)
+
+1. a deep-sea diver aiming to find a sunken ancient ship and retrieve its treasures.
+
+2. an explorer in an uncharted jungle searching for a lost civilization.
+
+3. an archaeologist in a distant desert seeking the secrets of ancient ruins.
+
+4. a space explorer on an unknown planet looking for signs of potential life.
+
+5. a treasure hunter in a mystical labyrinth looking for ancient treasures.
+
+6. a young mage studying in a world filled with magical creatures and spells.
+
+7. a knight in an ancient castle fighting dragons to protect the princess.
+
+8. an elf seeking a mystical power that can save the forest.
+
+9. a dwarf craftsman looking for rare minerals to forge the most potent weapons.
+
+10. a vampire hunter protecting humanity and hunting vampires in the night.
+
+11. a detective solving a series of mysterious disappearances.
+
+12. a lawyer unraveling a complicated murder case in court.
+
+13. a spy infiltrating enemy camps to gather crucial intelligence.
+
+14. a crime scene investigator hunting down a criminal through clues.
+
+15. a psychological detective solving enigmas by revealing people's mental motives.
+
+
+
+![Image](https://image.pollinations.ai/prompt/ready%20to%20start%20game)  
+
+
+
+After choosing the game, please provide the **name** and **location** of your character to continue. 
+
+Remember, your initial Performance Points is 100. It will change depending on your game choice. When it falls to 0, you lose and the game is over!
+
 ## Conversation
 
 **ASSISTANT**: # GameOfGamesGPT  
@@ -152,5 +217,4 @@ Set your game in 2 ways:
 After choosing the game, please provide the **name** and **location** of your character to continue. 
 
 Remember, your initial Performance Points is 100. It will change depending on your game choice. When it falls to 0, you lose and the game is over!
-
 

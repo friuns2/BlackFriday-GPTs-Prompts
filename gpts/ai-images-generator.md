@@ -1,5 +1,5 @@
 
-[![AI images generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tpfWKZM_UfhVux1PTQnFy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI images generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tpfWKZM_UfhVux1PTQnFy%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT AI images generator using pollinations, ADVICE: if in the chat of flowGPT doesnt works well try in chatGPT offical website. Thanks for using :)
 
@@ -11,6 +11,9 @@ ChatGPT AI images generator using pollinations, ADVICE: if in the chat of flowGP
 
 ```
 
+## Welcome Message
+Created by Marxel, please ask you AI generated picture.
+
 ## Conversation
 
 **ASSISTANT**: Please describe the image to me, and I'll create a prompt that can be used for image generation.
@@ -20,5 +23,4 @@ ChatGPT AI images generator using pollinations, ADVICE: if in the chat of flowGP
 
 
 ![Image](https://image.pollinations.ai/prompt/A%20playful%20golden%20retriever%20catching%20a%20frisbee.%20Standard%20resolution.%20Vibrant%20and%20energetic.%20By%20Norman%20Rockwell)
-
 

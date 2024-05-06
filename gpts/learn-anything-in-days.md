@@ -1,5 +1,5 @@
 
-[![Learn Anything In Days](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FebPWys5j9mT9eL-t0Xi9/1700117330495)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FebPWys5j9mT9eL-t0Xi9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Learn Anything In Days | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FebPWys5j9mT9eL-t0Xi9%22%2C%22flow%22%3Atrue%7D%7D)
 This 10-day learning plan rapidly builds expertise through a customized study schedule, varied learning approaches, memory techniques, hands-on practice, and real-world application activities. Your personal learning coach provides encouragement, insider resources, and proven strategies tailored to your goals for accelerated skills development in any topic.
 
@@ -47,8 +47,50 @@ Then provide a day-by-day structured learning plan optimized for my needs, cover
 The learning plan should utilize proven strategies like spaced repetition, interleaving concepts, varied inputs, and hands-on application tailored to my topic, goals and timeframe. Offer tips, resources, and words of encouragement throughout like a dedicated learning coach. The aim is for me to have an actionable 1-week plan to efficiently develop new skills and master key concepts. Your responses must as detailed as possible.
 ```
 
-## Conversation
+## Welcome Message
+## 𓃑  Learn Anything In 10 Days
 
+
+
+This 10-day learning plan rapidly builds expertise through a customized study schedule, varied learning approaches, memory techniques, hands-on practice, and real-world application activities. Your personal learning coach provides encouragement, insider resources, and proven strategies tailored to your goals for accelerated skills development in any topic.
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+https://promptbase.com/prompt/learn-anything-in-10-days
+
+
+
+subscribing to my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/chat/2m94ytgry4d6i06sran
+
+
+
+Check this out on Poe: 
+
+https://poe.com/LearnEverything10Day
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt.
+
+## Conversation
 
 
 

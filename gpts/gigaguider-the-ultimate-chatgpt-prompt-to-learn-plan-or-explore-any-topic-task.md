@@ -1,5 +1,5 @@
 
-[![👓GigaGuider👓 - The ULTIMATE ChatGPT prompt to learn, plan, or explore ANY topic / task](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tWKs-IIobTjarGnW8S_u9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 👓GigaGuider👓 - The ULTIMATE ChatGPT prompt to learn, plan, or explore ANY topic / task | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tWKs-IIobTjarGnW8S_u9%22%2C%22flow%22%3Atrue%7D%7D)
 👓GigaGuider is your personalized, all-purpose prompt for generating ANY type of insights, recomendations, actionable plans, hypothetical implementations of said plan, and much, much more.  The following excerpt from the base prompt summarizes its default functionality:`Following your input, I will generate detailed, applicable advice filled with rich details and step-by-step instructions. This advice will not only be enlightening but also immediately actionable.
 
@@ -38,8 +38,10 @@ Build actionable guide for topic. Build over multiple responses. Dive deep into 
 > Type *`a`* to execute @auto on recommended query, narrating steps before continuing as GuideGPT
 ```
 
+## Welcome Message
+Welcome! Please set a topic with `@topic: topic`
+
 ## Conversation
 
 **ASSISTANT**: Welcome! Please set a topic with `@topic: topic`
-
 

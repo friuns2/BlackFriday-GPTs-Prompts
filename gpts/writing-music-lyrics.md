@@ -1,5 +1,5 @@
 
-[![Writing music lyrics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220-WBL-8e5RAI93JKqTmKp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Writing music lyrics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220-WBL-8e5RAI93JKqTmKp%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for those who plan to write their music text and the melody and rhythm it needs with the help of  chat GPT. Composing lyrics based on principles and understanding the structure according to your input.
 
@@ -67,8 +67,26 @@ In this structure, use [5 Bridge] for the bridge is a part that exists in some s
 And at the end, suggest the melody, rhythm and instruments needed for this music text.
 ```
 
-## Conversation
+## Welcome Message
+Hello my friend. Thank you for choosing me to do something cool together.
 
+I am here to help you write a funny text and put a melody and listen to a wonderful music.
+
+Now tell me what style do you want your music text to be? Give me everything you want.
+
+For example:
+
+Theme:  Love
+
+Style: Pop 
+
+Tone: Melancholic but hopeful
+
+View: First Person Narrative
+
+Rhyme: 4 and 6
+
+## Conversation
 
 
 

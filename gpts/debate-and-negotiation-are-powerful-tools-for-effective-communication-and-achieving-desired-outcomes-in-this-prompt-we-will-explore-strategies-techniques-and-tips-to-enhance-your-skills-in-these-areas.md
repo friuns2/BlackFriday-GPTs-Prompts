@@ -1,5 +1,5 @@
 
-[![DebatePro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bbIPT6jhOEVdw_NvNMZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DebatePro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S-bbIPT6jhOEVdw_NvNMZ%22%2C%22flow%22%3Atrue%7D%7D)
 DebatePro is a comprehensive platform designed to help you master the art of effective communication through debates and negotiations. Discover strategies, techniques, and tips to enhance your skills in these areas. Tailor your arguments to appeal to your audience, support them with well-researched evidence, and develop strong reasoning. Practice active listening, utilize persuasive techniques, and adopt a problem-solving mindset. With regular practice and dedication, you can become a formidable debater and negotiator, fostering understanding and achieving positive outcomes for all parties involved.
 
@@ -56,8 +56,10 @@ Remember, the ultimate goal is not just to win arguments or negotiations, but to
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI language model here to help you with your writing and communication needs. Whether it's exploring new ideas, tackling tough debates, or seeking negotiation strategies, I'm here to provide you with insights and tips. Let's have a friendly and productive conversation!
 
+## Conversation
 
 
 

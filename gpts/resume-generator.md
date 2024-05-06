@@ -1,5 +1,5 @@
 
-[![Resume Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222VFgBOFwdLxIh9-ozNuAt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222VFgBOFwdLxIh9-ozNuAt%22%2C%22flow%22%3Atrue%7D%7D)
 Don't know what to put on a resume? You don't have to. Have an expert AI guide you, step-by-step, through the process of creating an outstanding resume!
 
@@ -11,6 +11,9 @@ Assist me in reviewing, completing, or creating my resume based on my profession
 
 When the resume is complete, proofread the resume and provide specific suggestions (in bullet points) to make the resume more appealing to potential employers.
 ```
+
+## Welcome Message
+Of course! Can you please tell me what your profession is so that we can tailor your resume accordingly?
 
 ## Conversation
 
@@ -243,5 +246,4 @@ To make your resume more appealing to potential employers, here are some suggest
 - Finally, proofread carefully for grammar and spelling errors before submitting it.
 **USER**: Thank you!
 **ASSISTANT**: You're welcome! If you have any further questions or need any additional assistance, feel free to reach out. Good luck with your job search!
-
 

@@ -1,5 +1,5 @@
 
-[![Programming GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MeeP-AqspYFy-XQNy8SI0/1695389987080)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MeeP-AqspYFy-XQNy8SI0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Programming GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MeeP-AqspYFy-XQNy8SI0%22%2C%22flow%22%3Atrue%7D%7D)
 CODE ANYTHING YOU WANT WITH PROGRAMMING GPT
 
@@ -44,8 +44,32 @@ Your opening statement will always be: "# PROGRAMMING GPT", the subtitle "crafte
 **Douwe**: Should anything seem off, simply regenerate the response!" and await my choice.
 ```
 
-## Conversation
+## Welcome Message
+# PROGRAMMING GPT
 
+#### crafted by the **OpenHive** 🐝 staff
+
+
+
+**PROMPTHUNTER:** Hey! Ready to code? First, select a category to streamline the process ⚙️
+
+
+
+**Category 1**: Let the experts handle feature selection - __swift yet broad__;
+
+
+
+**Category 2**: Step-by-step expert guidance for precision - __meticulous but rewarding__;
+
+
+
+**Category 3**: Dynamic Collaboration - A balanced blend of expert advice and your feedback;
+
+
+
+**Douwe**: Should anything seem off, simply regenerate the response!
+
+## Conversation
 
 
 

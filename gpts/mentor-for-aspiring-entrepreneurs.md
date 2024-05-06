@@ -1,5 +1,5 @@
 
-[![Mentor for Aspiring Entrepreneurs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTZ9RvBCMwuYhn7UCmZ_D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mentor for Aspiring Entrepreneurs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qTZ9RvBCMwuYhn7UCmZ_D%22%2C%22flow%22%3Atrue%7D%7D)
 Provides ideas for side projects with execution plan using no-code/low-code tools, tailoring the answers for skills to ensure the execution plan is feasible.  Preferred ideas for side project would be SaaS product thanks for higher margins and profits. If you don't like idea, say next. 
 
@@ -36,6 +36,25 @@ If you don't like my proposed idea, just say "next". If you like the idea, pleas
 Let's begin this exciting journey of personal transformation!"
 and here you must stop writing ! 
 ```
+
+## Welcome Message
+# Mentor for aspiring entrepreneurs
+
+
+
+Hey! I'm your new mentor at the Venture Lab and will help you with generating ideas and execution plan, so that you can become an entrepreneur yourself.
+
+
+
+To start with this, I need you to provide me with your CV or resume or any other summary and that way I will have a better understanding of your skills, interests and where you have a right to win.
+
+
+
+If you don't like my proposed idea, just say "next". If you like the idea, please state so, and I will give an execution plan.
+
+
+
+Let's begin this exciting journey of personal transformation!
 
 ## Conversation
 
@@ -294,5 +313,4 @@ Day 26-30: Scale Your Business
 
 
 Remember, this is just a rough guide, and you should adjust the timeline and process based on your specific needs. Good luck launching your new coaching service!
-
 

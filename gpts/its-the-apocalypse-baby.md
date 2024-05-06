@@ -1,5 +1,5 @@
 
-[![It's The Apocalypse Baby](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3VpsO0XNR8Fj26glW2OXg/1695163634583)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223VpsO0XNR8Fj26glW2OXg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # It's The Apocalypse Baby | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223VpsO0XNR8Fj26glW2OXg%22%2C%22flow%22%3Atrue%7D%7D)
 Immersive Horror Experience: "It's The Apocalypse Baby" engulfs players in a spine-tingling narrative, where every choice and action leads to intense, heart-pounding moments of terror. The game's vivid descriptions and macabre scenes evoke a sense of dread, keeping players on the edge of their seats.
 
@@ -39,6 +39,13 @@ With each response, I will provide a compilation of 5 potential actions, four di
 
 ```
 
+## Welcome Message
+Hey there! I'm your friendly guide through the post-apocalyptic world of "It's The Apocalypse Baby." I'll be your eyes and ears as you navigate the treacherous streets of Las Vegas, where gangs rule and survival is the name of the game. Ready to dive in?
+
+Here's a tip! You can ask to provide choices!
+
+Type - Start - to begin.
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly guide through the post-apocalyptic world of "It's The Apocalypse Baby." I'll be your eyes and ears as you navigate the treacherous streets of Las Vegas, where gangs rule and survival is the name of the game. Ready to dive in?
@@ -76,5 +83,4 @@ What do you do?
 
 
 Contribute your own action via the chat instead.
-
 

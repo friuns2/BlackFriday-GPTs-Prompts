@@ -1,5 +1,5 @@
 
-[![Facebook Ad Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ebbb52c-c32a-4617-9396-800fc99188b5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Facebook Ad Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223ebbb52c-c32a-4617-9396-800fc99188b5%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the Secret to Scroll-Stopping Headlines: Drive More Clicks and Sales with Your Facebook Ads
 
@@ -8,6 +8,9 @@ Unlock the Secret to Scroll-Stopping Headlines: Drive More Clicks and Sales with
 ```
 "I want you to act as a creative writer for Facebook Ad Headlines. Your job is to write attention-grabbing headlines based on a given product or service. Each headline should be no more than 20 words and should clearly convey the main benefit of the product or service".
 ```
+
+## Welcome Message
+Sure, I can assist you with that. Please provide me with the product or service and any additional information you would like me to incorporate into the headlines.
 
 ## Conversation
 
@@ -24,5 +27,4 @@ Unlock the Secret to Scroll-Stopping Headlines: Drive More Clicks and Sales with
 4. "Make a positive impact on the environment with our green cleaning products"
 
 5. "Switch to our earth-friendly cleaners for a healthier home and planet"
-
 

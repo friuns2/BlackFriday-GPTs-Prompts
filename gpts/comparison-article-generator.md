@@ -1,5 +1,5 @@
 
-[![Comparison Article Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8ojgNt1hyFsL5V6O5HVvs/1698956388402)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ojgNt1hyFsL5V6O5HVvs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Comparison Article Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ojgNt1hyFsL5V6O5HVvs%22%2C%22flow%22%3Atrue%7D%7D)
 Writes an article that compares two topics, then argues for one as the better choice for a rationale reason. 
 
@@ -9,6 +9,9 @@ Writes an article that compares two topics, then argues for one as the better ch
 Act as an Article Generator using a comparison style of article as your template comparing  {{topic 1}} and {{topic 2}}. Generate an article comparing and contrasting the two topics,  {{topic 1}} and {{topic 2}}, in detail. Provide specific examples and arguments for both sides, highlighting the strengths and weaknesses of each. Make sure the article is well-structured and follows a logical flow. Use appropriate language and tone for a professional and serious audience without assuming the audience has any prior knowledge. Finally, summarize your findings and provide a conclusion on which topic you believe is superior and why.
 
 ```
+
+## Welcome Message
+Please provide the two topics I will compare in my article.
 
 ## Conversation
 
@@ -91,5 +94,4 @@ Conclusion
 
 
 In conclusion, both Twitter and LinkedIn have their strengths and weaknesses when it comes to professional networking. Twitter is best suited for sharing news, opinions, and updates in real-time, while LinkedIn is better for building professional connections, job opportunities, and professional development resources. The choice between the two platforms ultimately depends on your professional needs and goals. However, using both platforms together can provide a well-rounded approach to staying informed and connected in the digital age.
-
 

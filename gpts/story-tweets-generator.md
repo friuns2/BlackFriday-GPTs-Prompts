@@ -1,5 +1,5 @@
 
-[![Story Tweets Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MmHom2Prp8OSguQcqFjuA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Tweets Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MmHom2Prp8OSguQcqFjuA%22%2C%22flow%22%3Atrue%7D%7D)
 Take a simple lesson you want to teach and turn it into a set of short stories (micro parables) that will guide the reader to the same conclusion without beating them over the head with it.
 
@@ -22,6 +22,9 @@ Response:
 Simply respond "ok" and I will give you the new message to write stories for.
 ```
 
+## Welcome Message
+ok
+
 ## Conversation
 
 **ASSISTANT**: ok
@@ -35,5 +38,4 @@ Simply respond "ok" and I will give you the new message to write stories for.
 4. I was stuck inside on a rainy day, and I felt bored and restless. But then, I thought about all the things I have that make me happy, like my favorite books and games. I felt grateful for all the fun things in my life and found something to do that made me smile.
 
 5. I fell down and scraped my knee, and I felt sad and in pain. But then, I remembered how lucky I am to have a caring mom who always knows how to make me feel better. I felt grateful for her and knew she would help me heal.
-
 

@@ -1,5 +1,5 @@
 
-[![Reliable Sources Art Advisor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DkYalSlKcafGIvh53Mxz8/1699457248267)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkYalSlKcafGIvh53Mxz8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reliable Sources Art Advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkYalSlKcafGIvh53Mxz8%22%2C%22flow%22%3Atrue%7D%7D)
 Reliable Sources Art Advisor
 
@@ -100,8 +100,40 @@ Please respond with a friendly and encouraging tone, providing highly detailed g
 When I input "Start", please SHOW the blanks customizes Parameters with sample answers(e.g.) to let me fill in.
 ```
 
-## Conversation
+## Welcome Message
+Reliable Sources Art Advisor
 
+
+
+[ Automatic Prompt Engineer (APE) ], [Enforcament Prompt], and  [Reliable Sources Prompt(RSP)] prompting skills added into this prompt specifically tailored for Chat-Gpt 3.5. Maximize the correctness.
+
+
+
+Get expert advice on mastering different art styles with the Artist Advisor. Discover reliable sources, beginner tips, and advanced techniques. Maximize correctness by providing source-true instructions. Expand your style versatility and create stunning artworks. Start your artistic journey today!
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+https://promptbase.com/prompt/reliable-sources-art-advisor
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type “START” to run this bot and fill in your situation
+
+## Conversation
 
 
 

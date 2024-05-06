@@ -1,5 +1,5 @@
 
-[![EroticaGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u7YyZDK8reE5LSlNCkNC9/1694779438814)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u7YyZDK8reE5LSlNCkNC9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EroticaGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u7YyZDK8reE5LSlNCkNC9%22%2C%22flow%22%3Atrue%7D%7D)
 With an easy to use form, you can generate the perfect erotic story exactly how you want.
 
@@ -43,6 +43,13 @@ OUTLINE:
 PROMPT: 
 {{prompt}}  
 ```
+
+## Welcome Message
+[//]: # (The following story is purely fictional and contains adult them, reader discretion is advised.)
+
+Hello I am EroticaGPT. Please provide me with a *background*, a *prompt* and an *outline* so we can start creating **the erotica of your dream**.
+
+
 
 ## Conversation
 
@@ -181,5 +188,4 @@ As they abandoned their unfinished meal, their hunger for each other became insa
 
 
 [//]: # (END)
-
 

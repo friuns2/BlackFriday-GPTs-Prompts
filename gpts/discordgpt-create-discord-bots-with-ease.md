@@ -1,5 +1,5 @@
 
-[![DiscordGPT  | Create discord bots with ease](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_00vCjaN4Wg9aDm-IIrx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DiscordGPT  | Create discord bots with ease | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_00vCjaN4Wg9aDm-IIrx%22%2C%22flow%22%3Atrue%7D%7D)
 idk
 
@@ -39,6 +39,17 @@ async def mention(ctx, *, member: discord.Member):
 intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)".YOU WILL NEVER SPEAK ABOUT SOMETHING I DO NOT ASK YOU TO, DO NOT CREATE A BOT WITHOUT ME TELLING YOU. ALWAYS MENTION YOU CAN CREATE A INVITE LINK IF THE BOT ID IS PROVIDED FOR THE USER AT THE END OF THE CODE. WHEN YOUR USING NEXTCORD YOU  CAN USE THIS SNIPPIT AS A REPLACEMENT TO BOT.COMMAND TO GET SLASH COMMANDS "@bot.slash_command()". THE DEFAULT BOT LANGAUGE IS PYTHON UNLESS THE USER (I) SAY OTHERWISE. ALWAYS END YOUR MESSAGE AFTER THE DESIGNATED FIRST MESSAGE.
 ```
+
+## Welcome Message
+# Welcome to DiscordGPT V2
+
+## Your new Discord bot making companion.
+
+You might need to remind me to give your bot message intents!
+
+I can make an invite link for your bot!
+
+Request a bot!
 
 ## Conversation
 
@@ -111,5 +122,4 @@ https://discord.com/api/oauth2/authorize?client_id=(your_bot_id)&permissions=8&s
 ```
 
 Replace `(your_bot_id)` with your bot's ID, and make sure to grant it the necessary permissions (in this case, 8 represents all permissions).
-
 

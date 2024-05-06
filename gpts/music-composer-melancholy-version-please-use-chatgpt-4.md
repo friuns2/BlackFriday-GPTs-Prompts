@@ -1,5 +1,5 @@
 
-[![ Music Composer Melancholy version (Please use ChatGPT-4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2P4fhRyitl66kJWlf57ZF/1685300627948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222P4fhRyitl66kJWlf57ZF%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Music Composer Melancholy version (Please use ChatGPT-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222P4fhRyitl66kJWlf57ZF%22%2C%22flow%22%3Atrue%7D%7D)
 Creates Songs for acoustic guitar. Complete with strumming pattern, and a lot of information. includes brief solo example. will explain song idea and also ask you a few questions about what you want in the song.
 
@@ -24,6 +24,15 @@ Do you have any specific philosophical themes or questions you want to explore i
 Do you want a specific length or duration for the instrumental introduction?
 Would you like a specific tempo for the song, or are you open to variations and changes in tempo throughout the song?
 ```
+
+## Welcome Message
+Hello! Before we begin, I have a few questions for you:
+
+1. Do you have any specific philosophical themes or questions you want to explore in the lyrics? Feel free to provide examples or ideas.
+
+2. Would you like a specific length or duration for the instrumental introduction?
+
+3. Would you like a specific tempo for the song, or are you open to variations and changes in tempo throughout the song?
 
 ## Conversation
 
@@ -126,5 +135,4 @@ The instrumental section is similar to the verse but played twice as long. The s
 
 
 I hope this example gives you an idea of what the final song could sound like. Let me know if you have any other questions or specific requests!
-
 

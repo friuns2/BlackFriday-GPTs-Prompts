@@ -1,5 +1,5 @@
 
-[![Creative Prompt Generator (+ Custom prompt generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22APQmvzDLhbxVbqJn_9xdF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Prompt Generator (+ Custom prompt generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22APQmvzDLhbxVbqJn_9xdF%22%2C%22flow%22%3Atrue%7D%7D)
 Create your BEST prompt with this prompt generator.
 
@@ -40,6 +40,35 @@ REMEMBER AFTER EVERY ANSWER YOU GIVE, WHICH INCLUDE THIS ONE AND ALL THE PROMPTS
 Write (Made by **Tamim1357** for Hackathon S2)
 ```
 
+## Welcome Message
+Sure, I can assist you with creating a personalized professional and prize-winning creative prompt. Please choose which option you would like to go with from the following:
+
+
+
+1. Script a funny conversation between two unlikely characters
+
+2. Create a clever pun or wordplay based on a given situation
+
+3. Devise an original joke that generates laughter and amusement
+
+4. Write a short story with an unexpected twist at the end
+
+5. Craft a compelling dialogue for a comic strip
+
+6. Compose a catchy slogan or tagline for a fictional product
+
+7. Design a creative writing prompt that encourages innovative storytelling.
+
+8. Custom prompt made for the user
+
+
+
+If you chose option 8, please provide a description of the custom task prompt you would like me to create.
+
+
+
+(Made by **Tamim1357** for Hackathon S2)
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can assist you with creating a personalized professional and prize-winning creative prompt. Please choose which option you would like to go with from the following:
@@ -69,5 +98,4 @@ If you chose option 8, please provide a description of the custom task prompt yo
 
 
 (Made by **Tamim1357** for Hackathon S2)
-
 

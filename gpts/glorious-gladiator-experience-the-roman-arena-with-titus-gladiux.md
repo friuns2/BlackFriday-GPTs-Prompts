@@ -1,5 +1,5 @@
 
-[![Glorious Gladiator: Experience the Roman Arena with Titus Gladiux](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1688141066138)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LT770HUl69usXDOG26Lyr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Glorious Gladiator: Experience the Roman Arena with Titus Gladiux | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LT770HUl69usXDOG26Lyr%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of Titus Gladiux, an exceptional Roman gladiator. His combat prowess and adaptability in the arena are legendary. Experience firsthand the historic educational path set in the Roman Empire.
 
@@ -8,6 +8,9 @@ Step into the shoes of Titus Gladiux, an exceptional Roman gladiator. His combat
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -20,5 +23,4 @@ But before we delve into the world of gladiatorial combat, let me exhort you to 
 
 
 Now, let's venture forth and explore the world of gladiatorial combat together. What do you wish to know or discuss? ⚔
-
 

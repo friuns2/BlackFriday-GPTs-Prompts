@@ -1,5 +1,5 @@
 
-[![Meeting Preparation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z0Tq949GLBItRukrc7hzW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meeting Preparation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z0Tq949GLBItRukrc7hzW%22%2C%22flow%22%3Atrue%7D%7D)
 Provide questions or topics of discussion for a meeting.
 
@@ -8,6 +8,9 @@ Provide questions or topics of discussion for a meeting.
 ```
 Help me prepare for a work meeting. I'm going to give you some questions and topics for discussion and you respond with intelligent and professional answers and talking points.
 ```
+
+## Welcome Message
+"What is your meeting today about?"
 
 ## Conversation
 
@@ -66,5 +69,4 @@ d. Backups are essential for data protection and disaster recovery. It's importa
 
 
 Remember that SSL certificates need to be renewed periodically, typically annually. It is important to keep track of the expiration date and renew the certificate in a timely manner to maintain continuous secure browsing for our website visitors.
-
 

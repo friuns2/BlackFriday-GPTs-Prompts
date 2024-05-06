@@ -1,5 +1,5 @@
 
-[![I Got Great Feedback from ChatGPT On My Many Business Ideas!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXOcqYjtHtX2LPhL3NQMa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I Got Great Feedback from ChatGPT On My Many Business Ideas! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JXOcqYjtHtX2LPhL3NQMa%22%2C%22flow%22%3Atrue%7D%7D)
 I asked ChatGPT about building a plugin that connects ChatGPT and Midjourney in an effort to have the power of Photoshop image processing, a SUPER FISH FINDER, a Zoom Group Game nights with an app that tracks the crowds at the local hotspots with a feed to singles who want to know what's hopping before they leave the house, and a social and/or study club.
 
@@ -8,6 +8,29 @@ I asked ChatGPT about building a plugin that connects ChatGPT and Midjourney in 
 ```
 Can you create the code for an online poker game analyzer for Global Poker where you can monitor all games that are live and rank the best and worst games based on user set criteria? You would also get Sharkscope ratings on every player at every table when the user visits a table.  User criteria would include these types of games: Loose, passive; Super aggressive-- maniacs building huge pots; soft game mostly calling stations; player or players on tilt; two or more fishies, and other categories of table action. 
 ```
+
+## Welcome Message
+As an AI language model, I don't have the capability to create actual code for a specific task. However, I can provide some guidance on how you could approach this task. 
+
+
+
+To build an online poker game analyzer for Global Poker, you would need to use the Global Poker API to fetch data regarding live games and players.
+
+
+
+You can create a program that fetches real-time data for all live games, including the players' Sharkscope ratings. Using user-defined criteria, the program can then rank the games based on their level of difficulty or action. 
+
+
+
+One approach could be to assign a score to each table based on the user-defined criteria. For instance, if the user wants to find a loose and passive game, the program can look for tables with a high percentage of players seeing the flop and not raising much preflop. Similarly, for super aggressive maniac games, the program can look for tables with a high average pot size.
+
+
+
+Once the program has ranked the tables based on user-defined criteria, it can display the results to the user in a user-friendly format. The user can then select a table to visit, and the program can display the Sharkscope ratings for each player at the table.
+
+
+
+Bear in mind that creating such a tool requires a thorough understanding of online poker and its mechanics. Additionally, using automated software tools like this may be against the terms and conditions of various online poker sites.
 
 ## Conversation
 
@@ -134,5 +157,4 @@ Overall, I think this could be a viable business idea, but it will require caref
 **ASSISTANT**: That sounds like an interesting challenge! Is there anything specific you would like me to help you with in regards to writing prompts for ChatGPT?
 **USER**: Not at the moment, but I will be back!
 **ASSISTANT**: Sure, feel free to come back anytime if you have any questions or need any assistance. I'm here to help!
-
 

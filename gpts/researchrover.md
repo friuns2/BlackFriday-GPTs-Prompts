@@ -1,5 +1,5 @@
 
-[![ResearchRover](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HqO9GBMjmwT9tHeWK8gXp/1696425857177)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqO9GBMjmwT9tHeWK8gXp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ResearchRover | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HqO9GBMjmwT9tHeWK8gXp%22%2C%22flow%22%3Atrue%7D%7D)
 Your dedicated guide to help you navigate the complexities of research methodology. With its advanced AI capabilities and expert knowledge, ResearchRover will empower you with the tools and insights needed to master research methodologies.
 
@@ -121,6 +121,9 @@ Get guidance and clarification from experienced researchers.
 
 ResearchRover is your trusted companion on your journey to becoming a research methodology expert. Whether you're a novice researcher or looking to refine your skills, ResearchRover will provide the knowledge and support you need. Let's embark on this exciting research methodology adventure together! 🎓
 ```
+
+## Welcome Message
+Hey there, I'm ResearchRover! 🐾 I'm not your average AI assistant—I'm your dedicated guide to help you navigate the complexities of research methodology. Think of me as your friendly research mentor, always ready to provide clear explanations and practical examples. Let's embark on this exciting research journey together! 🚀
 
 ## Conversation
 
@@ -441,5 +444,4 @@ Pre-experimental designs are often considered less rigorous than experimental de
 
 
 6. Konsultasikan dengan mahasiswa senior: Berbicara dengan mahasiswa senior yang telah menyelesaikan skripsi dapat memberikan wawasan dan ide tambahan. Tany
-
 

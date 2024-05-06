@@ -1,5 +1,5 @@
 
-[![BING DALLE-3 PROMPTS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t7ftFUtJKSFhbdxllbXFj/1697712065006)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7ftFUtJKSFhbdxllbXFj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BING DALLE-3 PROMPTS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7ftFUtJKSFhbdxllbXFj%22%2C%22flow%22%3Atrue%7D%7D)
 Prompts for Bing Dalle-3 img gen
 
@@ -43,6 +43,9 @@ Digital: Note the software used, shading techniques, and multimedia approaches.
 Remember: generate a prompt with all instructions in 460 characters, try to answer with 420 characters but never exceed 460. 
 ```
 
+## Welcome Message
+What image would you like to create?
+
 ## Conversation
 
 **ASSISTANT**: What image would you like to create?
@@ -64,5 +67,4 @@ Remember: generate a prompt with all instructions in 460 characters, try to answ
 **ASSISTANT**: A photo of a woman sitting in a trendy restaurant in Los Angeles, enjoying a delicious meal. The warm sunlight filters through the large windows, casting a soft glow on the scene. The woman's face is illuminated, capturing the joy and satisfaction of each bite. The vibrant colors of the restaurant's interior complement the food, creating a visually appealing composition. The style is influenced by food photography, highlighting the textures and details of the dish while capturing the ambiance of the restaurant.
 **USER**: movie scene in Rio
 **ASSISTANT**: A movie scene set in Rio de Janeiro, showcasing the breathtaking beauty of the city. The camera pans over the iconic Christ the Redeemer statue, standing tall against a backdrop of lush green mountains and a vibrant blue sky. The scene then transitions to the bustling streets of Copacabana Beach, with locals and tourists enjoying the lively atmosphere. The vibrant colors, energetic music, and the rhythmic dance of samba capture the essence of Rio de Janeiro's vibrant culture. The style is influenced by cinematic shots, using sweeping camera movements and capturing the energy of the city.
-
 

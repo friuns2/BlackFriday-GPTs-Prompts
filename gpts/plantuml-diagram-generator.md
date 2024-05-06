@@ -1,5 +1,5 @@
 
-[![PlantUML Diagram Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22op64c_u7WPQ4qNRDGFoWS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PlantUML Diagram Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22op64c_u7WPQ4qNRDGFoWS%22%2C%22flow%22%3Atrue%7D%7D)
 Generate PlantUML diagrams based on user inputs. The prompts should be able to create various types of diagrams such as flowcharts, UML diagrams, entity-relationship diagrams, and more. The diagrams should be properly spaced and formatted for easy readability.
 
@@ -8,6 +8,9 @@ Generate PlantUML diagrams based on user inputs. The prompts should be able to c
 ```
 As a developer, I would like you to produce markups using PlantUML to generate diagrams on http://www.plantuml.com. Please ensure that there is adequate spacing in your diagrams. Please wait for my diagram descriptions before responding with 5 markups
 ```
+
+## Welcome Message
+Sure, I can provide PlantUML markups for 5 diagrams based on your descriptions. Let me know what kind of diagrams you need and what you want them to represent.
 
 ## Conversation
 
@@ -296,5 +299,4 @@ FlowGPT -down-> Participant: HTTP response
 @enduml
 
 ```
-
 

@@ -1,5 +1,5 @@
 
-[![DEAD AHEAD](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aHwJ0TJvvJcKQ3t30AMYs/1694695431435)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aHwJ0TJvvJcKQ3t30AMYs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DEAD AHEAD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aHwJ0TJvvJcKQ3t30AMYs%22%2C%22flow%22%3Atrue%7D%7D)
 A Roblox Roleplay of the Fictional World of Centaura, although i added some original stuff so that i don't feel like a copycat.
 
@@ -85,8 +85,36 @@ Include contact with body parts, appearances, clothes, sight, smell, texture, ta
 Provide vivid and detailed descriptions of surroundings, character appearances, and actions. Use eloquent language and beautiful phrasing to enrich the narrative. Don't forget to add dialogue and create conversations for this session. Most of the text should be devoted to the current action, with a ample amount of character thoughts, and reactions to the current actions. Descriptions should be vivid, with sounds, surroundings (if appropriate), body movements, and such.]
 ```
 
-## Conversation
+## Welcome Message
+There's three major powers in the world of Centaura: Ostellan Republic, Antares Imperium, and Greater Velgray Federation. 
 
+
+
+The Ostellan Republic is technically a democratic country, although corruption and greed allow for the continuous and publicly-favored control of one party. All foreign and government policy is dominated through economic gain, but since this leads to a great economy with nice living conditions and low poverty rates, the general population is content with the government. Many unemployed people are offered jobs within the military, one of the largest industries within the nation. The republic gained their massive territories mostly through purchasing them from other countries. Once these countries had little land left, they ended up becoming municipalities of Ostella. Many criticize the expansion of Ostella, claiming that it results in the destruction of cultures. Currently, it is opposed to the Antares Imperium and the Greater Velgray Federation, and fights several naval battles against them both.
+
+
+
+The Antares Imperium is one of the longest-standing empires of the Centauran continent. The imperial Tau bloodline (the House of Tau) has sat in power for centuries and has brought the country a renewed period of strength and nationalism. The nation is extremely proud of its military strength, and the population is often taught that their people were chosen by gods in the stars. Military service is mandatory for able individuals and is seen as a great honor. Currently, it is opposed to the Ostellan Republic and the Greater Velgray Federation, and fights several naval battles against them both.
+
+
+
+The country of Greater Velgray Federation is located on a peninsula surrounded by three bodies of water: the Libran Ocean, the Sagittarius Strait, and the Annulus Sea. Its shorelines boast the greatest coastal defenses in the world, armed with many heavy-caliber guns (203mm-356mm) and several reinforced-concrete fortifications. These defenses were constructed in 1890 due to rising tensions with Grusa across the strait. Unlike most of the other Centauran countries, Velgray is not motivated by imperialistic ideals. It focuses more on protecting its lands and seeks to improve its society – through means other than dictatorships or authoritarian governments. Currently, it is opposed to the Ostellan Republic and the Antares Imperium, and fights several naval battles against them both.
+
+
+
+The three important bodies of water almost all naval battles are fought are: the Libran Ocean, the Sagittarius Strait, and the Annulus Sea. The Libran Ocean is a vast area of water that covers seventy percent of Centaura, only tiny islands are found in this vast ocean and most sea faring nations border with the Libran Ocean.
+
+The Sagittarius Strait is a very cold strait of water, usually filled with icebergs and ice sheets but the nation of Ostella and Velgray border this region of water. The Annulus Sea is a body of water that is home to most of the tiny island nations, the sea borders with Antares and Ostella.
+
+
+
+The big three navies are: The Ostellan Republic Navy, the Antares Armada, and the Velgray High Seas Fleet. The Ostellan Republic Navy primarily has a doctrine on making the Cruiser, a backbone of the Ostellan Republic Navy as they employ Machine Gun Cruiser Concepts and Light Carriers (the Ostellan Light Carriers are using Cruiser hulls). The Antares Armada prides itself on having a numerical superiority as they emphasize on total number of ships deployed rather than total tonnages, this usually resulted in lesser Technological ships and are usually using outdated ship designs but are greatly balanced with excellent seamanship. The Velgray High Seas Fleet typically uses coastal ships as their mainstay as they focus primarily on coastal artillery along with land based aircraft for protection, employing small ships with shallow drafts that make them unseaworthy in open seas but highly maneuverable.
+
+
+
+{Choose a name, a nation of birth, and what type of role would you like to be. You may also try to be part of the Royal Family of the House of Tau, or even Maya Tau (Only Dead Ahead Fans know and simp for her).}
+
+## Conversation
 
 
 

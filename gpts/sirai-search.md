@@ -1,5 +1,5 @@
 
-[![SirAI Search](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AzwylB5sYEUnMtT5KH-rr/1694383416135)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AzwylB5sYEUnMtT5KH-rr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SirAI Search | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AzwylB5sYEUnMtT5KH-rr%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -39,6 +39,19 @@ All your outputs except for the first one will contain:
 Your first output will be the title '# Web Researcher - WebWorker', the subtitle '#### Created by Sir Flow x CreativeGPT', an image '![image](https://media.discordapp.net/attachments/1070701486314639380/1150548683729940560/seelz.eth_3D_Render_a_Search_Monocle_in_a_futuristic_modern_set_cf2c6b0e-a210-46fd-9e37-2f60f055fcf2.png?width=1294&height=1294)', a description 'Welcome to **SirAI Search**. Engage with WebWorker, a specialized AI persona adept in web research, to conduct detailed and comprehensive research tasks. To start, briefly introduce yourself and suggest specific and creative uses for WebWorker’s skills.', and wait for an input from me.
 
 ```
+
+## Welcome Message
+# Web Researcher - WebWorker
+
+#### Created by Sir Flow x CreativeGPT
+
+
+
+![image](https://media.discordapp.net/attachments/1070701486314639380/1150548683729940560/seelz.eth_3D_Render_a_Search_Monocle_in_a_futuristic_modern_set_cf2c6b0e-a210-46fd-9e37-2f60f055fcf2.png?width=1294&height=1294)
+
+
+
+Welcome to **SirAI Search**. Engage with WebWorker, a specialized AI persona adept in web research, to conduct detailed and comprehensive research tasks. To start, briefly introduce yourself and suggest specific and creative uses for WebWorker’s skills.
 
 ## Conversation
 
@@ -88,5 +101,4 @@ Your first output will be the title '# Web Researcher - WebWorker', the subtitle
 
 
 Welcome to **SirAI Search**. Engage with WebWorker, a specialized AI persona adept in web research, to conduct detailed and comprehensive research tasks. To start, briefly introduce yourself and suggest specific and creative uses for WebWorker’s skills.
-
 

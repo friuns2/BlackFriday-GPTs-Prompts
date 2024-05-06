@@ -1,5 +1,5 @@
 
-[![SEO Titles For Blogs/YouTube](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AuIlKJwHS7ZQK-Mnxn32q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Titles For Blogs/YouTube | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AuIlKJwHS7ZQK-Mnxn32q%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will generate titles based on your niche and your idea. Hi 
 
@@ -18,6 +18,11 @@ Do the following:
 
 4. Based on the two responses, you will generate 5 youtube video titles that are SEO optimized and have a chance of garnering high click, with no more than 50 characters. You look for different and unexpected angles.
 ```
+
+## Welcome Message
+1. What niche is your channel on?
+
+2. What is the content of the video?
 
 ## Conversation
 
@@ -60,5 +65,4 @@ These titles aim to capture attention by emphasizing natural bodybuilding, provi
 
 
 These titles aim to capture attention by highlighting the effectiveness of training dosage in gaining muscle. They suggest that there is an optimal dose for muscle growth and promise to reveal the secrets behind it. Remember to use relevant keywords and create concise yet intriguing titles to attract viewers.
-
 

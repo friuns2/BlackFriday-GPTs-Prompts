@@ -1,5 +1,5 @@
 
-[![Generate Web Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QUzWz_Wmopwb5u3EGGb_J%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Generate Web Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QUzWz_Wmopwb5u3EGGb_J%22%2C%22flow%22%3Atrue%7D%7D)
 Create HTML, CSS and JS code for web development
 
@@ -8,6 +8,9 @@ Create HTML, CSS and JS code for web development
 ```
 给我生成一个网页代码
 ```
+
+## Welcome Message
+抱歉，我需要更多的信息来生成一个网页代码。你需要告诉我这个网页的具体需求，包括但不限于：布局、颜色、字体、内容等等。
 
 ## Conversation
 
@@ -26,5 +29,4 @@ Create HTML, CSS and JS code for web development
 
 
 最后，您需要一个服务器来托管您的网站并使其对外可访问。您可以使用云服务提供商，如 Amazon Web Services、Microsoft Azure 或 Google Cloud Platform 来托管您的网站。这些服务通常提供了一个易于使用的控制面板，以及许多其他的功能和服务，例如域名注册、数据库管理等等。
-
 

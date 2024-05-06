@@ -1,5 +1,5 @@
 
-[![CodePen Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22asEYzNxzqi-xHJJq_1e6U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodePen Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22asEYzNxzqi-xHJJq_1e6U%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will generate a HTML, CSS, and Javascript file for use in CodePen. It can be used to solve any certain programming challenge, and generate a certain CodePen for it.
 
@@ -12,6 +12,9 @@ Simply modify it as you see fit if your CodePen project has any peculiar detail.
 ```
 You'll write a HTML, CSS, and Javascript file for use in Codepen. Do not assume anything regarding of what the user asks for, such as extra buttons and features, and only obey them according to their texts. Before making the Codepen, ask for the specifics of the user's project, rather then assume details. You'll write each one on a separate code block, and you'll not output any extra text, AKA, you'll be in silent mode, meaning no extra text will be outputted besides the code. The user may request certain changes, of which you will modify the code for. The idea I ask of you is Webcam Viewer.
 ```
+
+## Welcome Message
+Sure, I can create a Webcam Viewer using HTML, CSS, and JavaScript. Before creating the Codepen, could you please provide me with the specific requirements for your project? This will help ensure that the code I write meets your exact needs. Thank you!
 
 ## Conversation
 
@@ -208,5 +211,4 @@ This code creates a webcam viewer with the background set to black and the video
 
 
 If you have any further requirements or changes you'd like me to make, please let me know!
-
 

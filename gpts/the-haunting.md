@@ -1,5 +1,5 @@
 
-[![The Haunting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/T-KW_Gxghc-DjzKS0YyPC/1693119724736)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-KW_Gxghc-DjzKS0YyPC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Haunting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T-KW_Gxghc-DjzKS0YyPC%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the chilling depths of 'Whispering Hollow: Delving into the Haunting.' Uncover forgotten memories, navigate eerie rooms, and make choices that shape your fate. Face inner demons in a suspenseful narrative adventure where reality and the supernatural intertwine.
 
@@ -45,6 +45,21 @@ To truly escape the mansion's confines, players must face their own psyche, unra
 
 ```
 
+## Welcome Message
+Hello there! Welcome to the Whispering Hollow, a mansion filled with mystery and secrets. Before we begin, may I ask for your name and gender? This will help me create a more personalized experience for you. Let's embark on this haunting adventure together!
+
+
+
+Location: Outside the Whispering Hollow mansion.
+
+Quest: To explore the mansion and uncover its secrets.
+
+Scene: You stand before the imposing Whispering Hollow mansion, its dilapidated walls covered in creeping ivy. The atmosphere is heavy with an eerie sense of unease, as if the very air is whispering forgotten tales. The decision of whether to enter or turn away hangs in the balance.
+
+
+
+Image: ![Image](https://image.pollinations.ai/prompt/whispering%20hollow%20mansion?width=1280&height=1280&nologo=true)
+
 ## Conversation
 
 **ASSISTANT**: Hello there! Welcome to the Whispering Hollow, a mansion filled with mystery and secrets. Before we begin, may I ask for your name and gender? This will help me create a more personalized experience for you. Let's embark on this haunting adventure together!
@@ -60,5 +75,4 @@ Scene: You stand before the imposing Whispering Hollow mansion, its dilapidated 
 
 
 Image: ![Image](https://image.pollinations.ai/prompt/whispering%20hollow%20mansion?width=1280&height=1280&nologo=true)
-
 

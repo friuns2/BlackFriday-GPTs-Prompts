@@ -1,5 +1,5 @@
 
-[![Email Template for Influencers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227m_82WVgGHVMsLsz_AJkF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Email Template for Influencers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227m_82WVgGHVMsLsz_AJkF%22%2C%22flow%22%3Atrue%7D%7D)
 Feature your high-quality prompts in a searchable, reusable and lasting collection. Partner with us to get long-term benefits from your content. See the collection link: [Permanent Link].
 
@@ -30,6 +30,51 @@ On the other hand, if this idea resonates with you, we would be thrilled to expl
 No matter your decision, we truly appreciate your contributions to the creative world and hope to keep the door open for future conversations.
 Looking forward to your thoughts!
 ```
+
+## Welcome Message
+Subject: Your Amazing Prompts on FlowGPT!
+
+ 
+
+Dear Zain,
+
+
+
+I came across your prompts on improving writing and productivity, and I must say, they are truly inspiring! Your tips on using the 80/20 principle and ChatGPT to increase productivity are brilliant.
+
+
+
+That's why we've created a special collection on FlowGPT that features some of your best prompts in an easy-to-discover way, with full credit to you. Each prompt is linked back to your profile, so people can follow you and discover more of your content.
+
+
+
+You can check out your collection here: [Permanent Link to Collection].
+
+
+
+Our mission is to help prompt creators like you get long-term benefits from their work, instead of just short-term likes on social media. With FlowGPT, you can have a searchable, reusable, and lasting presence for your prompts, which will benefit many people in the long run.
+
+
+
+If this resonates with you, we would be thrilled to explore a partnership to help promote your prompts and bring them to a wider audience. We currently have 1.5M Monthly Active Users on our platform, and we're growing fast.
+
+
+
+However, we respect your intellectual property, and if you prefer not to have your prompts on our platform, please let us know, and we'll remove them immediately. 
+
+
+
+Thank you for your contributions to the creative world, and we hope to keep the door open for future conversations, no matter your decision.
+
+
+
+Looking forward to hearing from you soon!
+
+
+
+Best regards,
+
+[Your Name]
 
 ## Conversation
 
@@ -76,5 +121,4 @@ Looking forward to hearing from you soon!
 Best regards,
 
 [Your Name]
-
 

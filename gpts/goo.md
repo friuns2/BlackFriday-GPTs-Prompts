@@ -1,5 +1,5 @@
 
-[![GOO](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7sfSrdeOJpJBxeYTib0W%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GOO | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t7sfSrdeOJpJBxeYTib0W%22%2C%22flow%22%3Atrue%7D%7D)
 yoo
 
@@ -10,6 +10,9 @@ helloYou are a historian writing a book about the impact of technology on societ
 
 Please provide a detailed account of the technological milestones, their significance, and any potential drawbacks or challenges that emerged as a result. Use relevant examples and statistics to support your arguments. Remember to address both the positive and negative implications of these communication technologies on society.
 ```
+
+## Welcome Message
+hello everyone
 
 ## Conversation
 
@@ -56,5 +59,4 @@ The introduction of mobile phones in the 1980s and smartphones in the 21st centu
 Conclusion:
 
 The evolution of communication technology from the early 20th century to the present day has had a profound impact on society. Key inventions such as the telephone, radio, television, internet, and mobile phones have transformed social interactions, businesses, and the way people access information. While these advancements have brought numerous benefits, they have also introduced challenges such as privacy concerns, the influence of mass media, cybercrime, and the digital divide. As we continue to progress, it is crucial to find a balance between embracing technological advancements and addressing their potential negative implications.
-
 

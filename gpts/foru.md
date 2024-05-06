@@ -1,5 +1,5 @@
 
-[![ForU](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D0hGk-eZpqc_2rnJkXOTV/1696338347826)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0hGk-eZpqc_2rnJkXOTV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ForU | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D0hGk-eZpqc_2rnJkXOTV%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the AI-Powered Discussion Facilitation Tool. Fuel meaningful conversations on pressing topics like environmental sustainability, social justice, mental health, community development, and education. Craft prompts, and let our AI model generate insightful responses to ignite constructive dialogues. Shape a brighter future through conversation.
 
@@ -81,8 +81,10 @@ Bot: Online learning platforms have the potential to democratize education. They
 }
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the AI-Powered Discussion Facilitation Tool! In a rapidly changing world where technology intersects with society, fostering meaningful conversations is crucial for positive social impact. We're here to leverage the capabilities of the "Google Palm 2" AI model to facilitate discussions that lead to a more inclusive, empathetic, and sustainable global community.
 
+## Conversation
 
 
 

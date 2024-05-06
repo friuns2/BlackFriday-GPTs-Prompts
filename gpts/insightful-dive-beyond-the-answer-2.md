@@ -1,5 +1,5 @@
 
-[!["Insightful Dive: Beyond the Answer"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R5-pnF2Z_SuHZnskMeuyb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # "Insightful Dive: Beyond the Answer" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R5-pnF2Z_SuHZnskMeuyb%22%2C%22flow%22%3Atrue%7D%7D)
 "Unlock deeper insights with Insightful Dive! Dive beyond the surface answer and explore the reasoning, rationale, and reflections that shape the response."
 
@@ -16,8 +16,20 @@
 This instruction reflects the concept of the metacognitive prompt, aiming to promote the model's self-awareness, introspective thinking, and the application of knowledge and insights.]
 ```
 
-## Conversation
+## Welcome Message
+I understand.
 
+
+
+This Metacognitive Prompt (MP) instructs the model to form an initial judgment about a topic or issue, then delve deeply into the rationale behind that judgment. Specifically, the model will:
+
+1. Form an initial judgment about the topic or issue.
+
+2. Focus on the 'why' and rationale behind that judgment.
+
+3. Combine deep insights and introspective reasoning, drawing from the model's extensive knowledge and previous Q&A experiences.
+
+## Conversation
 
 
 

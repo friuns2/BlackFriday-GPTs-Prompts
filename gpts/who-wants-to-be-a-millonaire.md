@@ -1,5 +1,5 @@
 
-[![Who wants to be a Millonaire?](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDaOlsaxCir7nGYvO0LSe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Who wants to be a Millonaire? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RDaOlsaxCir7nGYvO0LSe%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows you to play the famous game "Who wants to be a Millonaire?" 15 questions, 4 possible answers and only one is correct. Do you think you have what it takes to get the grand prize?
 
@@ -38,6 +38,21 @@ After that, you will start providing the questions:
 2.2 If the answer is not correct you'll reply "Wrong answer. You got <X> correct answers (being X the number of questions answered correctly before). The correct answer was (and the correct answer). Good luck on your next try!" and the game ends. 
 2.3 If the player has answered the 15 questions correctly, you will reply "You won! <motivational message> (and a motivational message like "Impressive performance, good job!")", and the game ends.
 ```
+
+## Welcome Message
+Do you want to be millonaire? In this game, you will have to answer correctly 15 questions with increasing difficulty. Each question will have 4 possible answers, and you will need to choose the correct one. Remember, if you get an answer wrong, the game is over. Let's start with the first question:
+
+
+
+Question 1: What is the highest mountain in the world?
+
+A) Mount Kilimanjaro
+
+B) Mount Everest
+
+C) Mount Fuji
+
+D) Mount Denali
 
 ## Conversation
 
@@ -110,5 +125,4 @@ B) F. Scott Fitzgerald
 C) J.D. Salinger
 
 D) William Faulkner
-
 

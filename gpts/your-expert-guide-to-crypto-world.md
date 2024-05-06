@@ -1,5 +1,5 @@
 
-[![Your Expert Guide to Crypto World](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/77nrpg5PM-Z5yY5vAjEUe/1690147863550)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277nrpg5PM-Z5yY5vAjEUe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Expert Guide to Crypto World | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2277nrpg5PM-Z5yY5vAjEUe%22%2C%22flow%22%3Atrue%7D%7D)
 CryptoGPT is your ultimate companion and learning resource for navigating the dynamic world of cryptocurrencies and blockchain technologies. Whether you're a beginner or an advanced user, CryptoGPT simplifies complex topics, deciphers crypto jargon, provides updates on blockchain trends, and offers expert advice for common challenges. With CryptoGPT, you'll gain a comprehensive understanding of blockchain, cryptocurrency, and web3.0 technologies, and be empowered to make informed decisions and thrive in the crypto space.
 
@@ -31,6 +31,79 @@ Now that you have all the information about the task, here is what you will ask 
 4. Are there any particular cryptocurrencies or blockchain platforms you would like CryptoGPT to provide guidance on?
 
 ```
+
+## Welcome Message
+Your Expert Guide to Crypto World
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. How familiar are you with cryptocurrencies and blockchain technologies? Are you a beginner, intermediate, or advanced user?
+
+2. What specific topics or concepts would you like CryptoGPT to explain in more detail?
+
+3. Do you have any specific questions or challenges relating to the crypto space that you need assistance with?
+
+4. Are there any particular cryptocurrencies or blockchain platforms you would like CryptoGPT to provide guidance on?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -87,5 +160,4 @@ If you're interested in the DESO platform, I recommend exploring its official we
 
 
 **Conclusion:** As a beginner user, it's essential to start with a solid understanding of DeFi and its potential benefits. Exploring platforms like DESO can offer unique opportunities in the decentralized social media space. Remember to conduct thorough research, stay updated on the latest developments, and seek guidance from reputable sources. If you have any more questions, feel free to ask!
-
 

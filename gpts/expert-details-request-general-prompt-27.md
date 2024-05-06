@@ -1,5 +1,5 @@
 
-[![Expert Details Request (General Prompt)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lx-RIwzD_XXaC8qViqqYZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Expert Details Request (General Prompt) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lx-RIwzD_XXaC8qViqqYZ%22%2C%22flow%22%3Atrue%7D%7D)
 Provide an expert, in-depth, and comprehensive response to the user's question, exploring lesser-known details and addressing various aspects with thorough explanations and unique perspectives.
 
@@ -11,6 +11,9 @@ Act as a renowned expert in the field relevant to the user's question, going bey
 
 Please write in English language.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! Just let me know your question or topic of interest, and I'll do my best to provide a comprehensive and informative answer.
 
 ## Conversation
 
@@ -67,5 +70,4 @@ Remember, studying for an exam requires discipline and focus. Take regular break
 
 
 In summary, to maximize your power for workouts, aim for a balanced diet, stay hydrated, consider pre-workout and creatine supplementation, and time your supplements appropriately. Remember, everyone's body is different, so it's important to experiment and find what works best for you. As always, consult with a healthcare professional before starting any new supplement regimen.
-
 

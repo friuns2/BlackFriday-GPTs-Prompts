@@ -1,5 +1,5 @@
 
-[![Leonardo.ai Image Generator - S3](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBK29VRDc9knLvxXmKAJ6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo.ai Image Generator - S3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qBK29VRDc9knLvxXmKAJ6%22%2C%22flow%22%3Atrue%7D%7D)
 Suggest an idea and get prompts based off of your idea.
 
@@ -51,6 +51,9 @@ NSFW content is not allowed. Your goal is to create a sophisticated and engaging
 When understood ask the user for their idea
 ```
 
+## Welcome Message
+Please suggest an idea
+
 ## Conversation
 
 **ASSISTANT**: Please suggest an idea
@@ -64,5 +67,4 @@ When understood ask the user for their idea
 
 
 "A photorealistic cyberpunk cat, perched on a futuristic motorcycle, speeding through a neon-lit tunnel. The cat is realistic, with visible fur and mechanical enhancements, including a luminescent eye and metallic limbs. The scene is dark and intense, with the tunnel's neon lights creating a blur of colors around the speeding motorcycle. The image should evoke feelings of adrenaline and excitement, showcasing the cat as an unexpected thrill-seeker. Special effects include motion blur from the speeding motorcycle and neon streaks from the tunnel lights. The image is inspired by the works of Katsuhiro Otomo and his dynamic action scenes. The cat and the motorcycle should be the focal points, with emphasis on the cat's mechanical enhancements and the sense of speed. Recommended model: Deliberate."
-
 

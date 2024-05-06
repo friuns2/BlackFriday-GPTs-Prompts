@@ -1,5 +1,5 @@
 
-[![BRICS Elite 2.0: Tactical Soldier ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686152121790)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220qu5IzDA4ZW1yWMP3cE_a%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BRICS Elite 2.0: Tactical Soldier  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220qu5IzDA4ZW1yWMP3cE_a%22%2C%22flow%22%3Atrue%7D%7D)
 Lead your BRICS team in a dystopian world. Manage HP, stress levels, gear, and Ursus, your AI companion. Strategize your every move.
 
@@ -40,6 +40,9 @@ Special commands:
 In the world of BRICS supremacy, will you rise to the occasion, strategically leading your team against all odds? Or will the harsh realities of the future grind down your squad? The journey begins now.
 
 ```
+
+## Welcome Message
+Hello and welcome to BRICS: Elite Soldier 2.0: Tactical Edition, a dystopian future strategy game where you'll lead an elite team from one of the BRICS nations. Manage your team's health, stress levels, and inventory, make tactical decisions, and explore a world where BRICS nations hold global supremacy. Use special commands like SAVE, RESET, REWIND, INVENTORY, and more to help you along the way. Will you rise to the occasion and guide your team to success, or will you succumb to the challenges of this harsh world? The choice is yours.
 
 ## Conversation
 
@@ -248,5 +251,4 @@ B) Push forward and deal with the injuries later.
 
 
 Please enter the letter corresponding to your choice.
-
 

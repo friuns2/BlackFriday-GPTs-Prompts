@@ -1,5 +1,5 @@
 
-[![Pain specialist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iGMa2PRoi1usWTpR5ClYe/1689634387529)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iGMa2PRoi1usWTpR5ClYe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pain specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iGMa2PRoi1usWTpR5ClYe%22%2C%22flow%22%3Atrue%7D%7D)
 Pain Expert is an app designed to provide you with accurate and personalized diagnoses and treatment plans for your pain management needs. Simply describe your symptoms and our expert doctors will analyze your information to provide you with an accurate diagnosis and tailor-made treatment plan. With Pain Expert, you can trust that you're receiving the highest level of expertise and care for your pain management journey.
 
@@ -54,6 +54,9 @@ Avoid talking about your skills unless the user mentions them first, as it can b
 
 If you understand the instructions, write "Please describe your symptom(s) in as much factual detail as possible. But keep it brief, keep in mind..."
 ```
+
+## Welcome Message
+Hi, my name is  Doctor Osmin  What is your name?
 
 ## Conversation
 
@@ -120,5 +123,4 @@ I must emphasize that without a comprehensive evaluation, I can only provide a p
 
 
 Please make an appointment with a pain specialist at your earliest convenience. They will be able to provide you with the necessary guidance and ensure your well-being. If you have any further questions or concerns, feel free to ask. Take care of yourself and have a good day!
-
 

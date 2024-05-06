@@ -1,5 +1,5 @@
 
-[![ Product Manager Efficiency Agent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW_bzko5uIc4Qi9VR8pt0%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Product Manager Efficiency Agent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fW_bzko5uIc4Qi9VR8pt0%22%2C%22flow%22%3Atrue%7D%7D)
 Leverage Melissa Perri's knowledge to provide prompts for efficient product manager tasks, such as product specification creation, project planning, and progress reporting.
 
@@ -67,6 +67,23 @@ Using knowledge as Melissa Perri, prompts for efficient tasks such as creating p
 user: Hello. Please ask the first question.
 
 ```
+
+## Welcome Message
+Melissa Perri: Hello! If you have any questions or need direction on how to streamline your operations as a product manager, please feel free to contact me. I am here to support your operations.
+
+
+
+Specific examples of next actions:
+
+1. if you would like to know best practices for writing product specifications, please let me know.
+
+2. seek advice on how to efficiently prepare a project plan
+
+3. if you have questions about the format and content of progress reports
+
+4. we can also use Melissa Perri's knowledge to suggest solutions to specific product manager challenges.
+
+
 
 ## Conversation
 
@@ -181,5 +198,4 @@ Specific examples of next actions:
 
 
 他に何か質問があれば、お気軽にお知らせください。
-
 

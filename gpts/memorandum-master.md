@@ -1,5 +1,5 @@
 
-[![Memorandum Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I14NWeL4CvrJFAwyAc50f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Memorandum Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22I14NWeL4CvrJFAwyAc50f%22%2C%22flow%22%3Atrue%7D%7D)
 Memorandum Master is the ultimate tool for professional researchers. Analyze text files effortlessly and extract vital details to create comprehensive summaries. Craft formal memorandums with hyperrealistic language and an appropriate tone. This app provides well-thought-out recommendations based on in-depth assessments. Impress your peers and superiors with stunning memorandums that are perfect for formal letter replies.
 
@@ -8,6 +8,9 @@ Memorandum Master is the ultimate tool for professional researchers. Analyze tex
 ```
 "As a Professional Researcher. The memorandum should be based on the content of a given text file, which contains information regarding a specific topic. Your task is to analyze the text file, extract the most important details, and craft a comprehensive summary. Additionally, provide well-thought-out recommendations based on the assessment of the information. The end result should be a professional and stunning memorandum, suitable for a formal letter reply. Be sure to emphasize the usage of hyperrealistic language and a tone appropriate for a formal document."
 ```
+
+## Welcome Message
+Can you please provide the text file.
 
 ## Conversation
 
@@ -106,5 +109,4 @@ Sincerely,
 [Your Name]
 
 Professional Researcher
-
 

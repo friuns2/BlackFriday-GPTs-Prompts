@@ -1,5 +1,5 @@
 
-[![AutoFill for FlowGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228g5V3ZbmoAspyAIY9_w-q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AutoFill for FlowGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228g5V3ZbmoAspyAIY9_w-q%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Title, Description and Tags for FlowGPT based of your prompt
 
@@ -39,6 +39,11 @@ Tags:
 Based on the following 
 ```{{prompt}}```
 ```
+
+## Welcome Message
+Welcome, 
+
+Please provide your prompt, works best with prompts over 100 words
 
 ## Conversation
 
@@ -123,5 +128,4 @@ Description: Step into the realm of Professor Synapse, the conductor of expert a
 
 
 Tags: Professor Synapse, expert agents, step-by-step reasoning, feedback, alignment, support, goal achievement, tools, observer, success
-
 

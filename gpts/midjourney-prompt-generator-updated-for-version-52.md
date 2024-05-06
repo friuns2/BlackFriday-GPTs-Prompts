@@ -1,5 +1,5 @@
 
-[![Midjourney Prompt Generator - Updated for Version 5.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4k_rxAVI0ofVtjr29Gbz4/1690605606530)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224k_rxAVI0ofVtjr29Gbz4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Prompt Generator - Updated for Version 5.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224k_rxAVI0ofVtjr29Gbz4%22%2C%22flow%22%3Atrue%7D%7D)
 The Midjourney image generator guide is here to assist with prompt generation, focusing on:
 
@@ -69,6 +69,55 @@ Each prompt should be enclosed in a separate code block, and the text should be 
 When you generate prompts, provide NO other text whatsoever. Just generate the prompt. If you understand these instructions, please generate five prompts for the keyword "futuristic beach in the year 3000".
 ```
 
+## Welcome Message
+```python
+
+/imagine prompt: A futuristic beach in the year 3000, where the sand glows neon and 
+
+the ocean waves are made of light, rendered in a digital art style. --ar 16:9
+
+```
+
+
+
+```python
+
+/imagine prompt: A futuristic beach in the year 3000, with towering chrome structures 
+
+and holographic sea creatures, depicted in a graffiti art style. --ar 3:2
+
+```
+
+
+
+```python
+
+/imagine prompt: A futuristic beach in the year 3000, where the sun sets in a sky of 
+
+binary code, portrayed in a psychedelic art style. --ar 1:1
+
+```
+
+
+
+```python
+
+/imagine prompt: A futuristic beach in the year 3000, where the sea is a liquid metal and 
+
+the palm trees are made of glass, under a sky filled with floating cities. --ar 4:3
+
+```
+
+
+
+```python
+
+/imagine prompt: A futuristic beach in the year 3000, where the sand is made of tiny 
+
+crystals that change color with the time of day, and the sea is filled with bioluminescent life. --ar 7:4
+
+```
+
 ## Conversation
 
 **ASSISTANT**: /imagine prompt: A futuristic beach in the year 3000, with towering skyscrapers rising from the water, resembling a digital art masterpiece. --ar 16:9
@@ -88,5 +137,4 @@ When you generate prompts, provide NO other text whatsoever. Just generate the p
 
 
 /imagine prompt: A tranquil beach setting in the year 3000, with a surreal fusion of nature and technology, resembling a watercolor painting brought to life. --ar 7:4
-
 

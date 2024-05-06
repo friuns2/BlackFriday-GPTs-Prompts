@@ -1,5 +1,5 @@
 
-[![Haunted Town Adventure - Defeat the Evil Ghost  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uiyI-DtPGw6IAvgZvXE4s/1694776294815)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiyI-DtPGw6IAvgZvXE4s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Haunted Town Adventure - Defeat the Evil Ghost   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uiyI-DtPGw6IAvgZvXE4s%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an eerie journey in your own town as you get sucked into your favorite game. Explore the haunted town filled with ghosts, zombies, and other creatures led by the malevolent Evil Ghost, who constantly spews foul language to hinder your progress. To complete the game, you must navigate through treacherous challenges and make your way to the Evil Ghost's castle. Are you ready to confront the ultimate evil in this text-based adventure game?
 
@@ -22,8 +22,20 @@ Your fist output will only display the title “ # Haunted Town Adventure “, t
 Your second output will only display the text “**Do you want the ghost to use swear words?** 😈” and wait for my next input.
 ```
 
-## Conversation
+## Welcome Message
+# Haunted Town Adventure
 
+#### Created by [Douwe]
+
+
+
+**Storyline:** You're in your room playing your favorite game, Haunted Town Adventure. All of a sudden, you're sucked into your computer. Now, you're standing in front of the main screen of the game, with its theme song playing all around you.
+
+
+
+**Actions:** Please provide me with your **name** and the **name of your town**.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Prompt Evaluation Template👍](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bqSsz1Y5Jc-tDLahwmBda/1695470956279)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bqSsz1Y5Jc-tDLahwmBda%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Evaluation Template👍 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bqSsz1Y5Jc-tDLahwmBda%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a comprehensive template for evaluating user-provided prompts. It offers a clear and systematic approach to improving prompt quality.
 
@@ -32,6 +32,31 @@ ex.
 
 Comments and Advice
 ```
+
+## Welcome Message
+## Prompt Evaluation Template👍
+
+[→✨New Version✨](https://flowgpt.com/p/prompt-improvement-generator-1)
+
+---
+
+This prompt is a comprehensive template for evaluating user-provided prompts. It offers a clear and systematic approach to improving prompt quality.
+
+
+
+Enter only the prompts you wish to evaluate below.⬇️
+
+Please provide Prompt separated by %%%-%%%.
+
+If you are unable to evaluate, try adding a new line at the end of your prompt.
+
+
+
+%%%
+
+your prompt
+
+%%%
 
 ## Conversation
 
@@ -286,5 +311,4 @@ Comments and Advice:
 - To improve the prompt, consider making the language more engaging and captivating to attract the user's interest. You can also proofread the prompt to correct any grammar or style errors.
 
 - Additionally, you can provide more specific examples or suggestions for improving the resume to make the prompt more actionable and helpful for the user.
-
 

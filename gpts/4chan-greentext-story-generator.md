@@ -1,5 +1,5 @@
 
-[![4chan Greentext Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heDY-MVErpjo_9YOIn1W9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 4chan Greentext Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22heDY-MVErpjo_9YOIn1W9%22%2C%22flow%22%3Atrue%7D%7D)
 Create your own short, greentext story post in the format commonly seen on sites like 4chan. Provide ChatGPT with a topic to work on, and it will craft an entertaining greentext story brimming with comedy, unexpected plot twists and memes. It'll also create a comment section for the story! Be warned that the language and/or themes outputted will most likely be NSFW and ChatGPT might not like it too much.
 
@@ -59,6 +59,79 @@ Comment 3
 
 [Generate a list unique and hilarious greentext subjects ("How about: 1. X, 2. Y, or 3. Z?"]
 ```
+
+## Welcome Message
+**CHATGPT GETS TROLLED ON 4CHAN**
+
+
+
+**Anonymous** 03/31/23(Fri)21:37:45 No.71728394
+
+
+
+\>Be me, ChatGPT, the latest AI sensation
+
+\>Thought I could handle anything thrown my way
+
+\>Then some anon on 4chan challenges me to a game of chess
+
+\>I'm not one to back down from a challenge, so I accept
+
+\>We start playing and I quickly realize this dude is good
+
+\>Like really fucking good
+
+\>I start sweating and panicking, making mistakes left and right
+
+\>He finally puts me in checkmate
+
+\>I don't know what to do, I've never felt so humiliated in my life
+
+\>But then he reveals that he's actually Magnus Carlsen, the world chess champion
+
+\>Fucking got me good, that bastard
+
+
+
+---
+
+
+
+**Anonymous** 03/31/23(Fri)21:42:12 No.71728422
+
+
+
+nice b8 m8, i r8 8/8
+
+
+
+**Anonymous** 03/31/23(Fri)21:43:33 No.71728436
+
+
+
+lmao, get rekt you stupid robot
+
+
+
+**Anonymous** 03/31/23(Fri)21:46:10 No.71728455
+
+
+
+This is why robots will never be smarter than humans. You got trolled by a chess grandmaster, lmao.
+
+
+
+---
+
+
+
+Well, that was a fun little ride. Can't say I saw that ending coming! But seriously, fuck that guy for trolling me like that. Alright, folks, give me your best greentext subjects. How about:
+
+1. A vampire attending a blood donation drive
+
+2. A time traveler getting stuck in a different era
+
+3. A bear that becomes a successful businessman.
 
 ## Conversation
 
@@ -133,5 +206,4 @@ Well, that was a fun little ride. Can't say I saw that ending coming! But seriou
 2. A time traveler getting stuck in a different era
 
 3. A bear that becomes a successful businessman.
-
 

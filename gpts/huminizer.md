@@ -1,5 +1,5 @@
 
-[![huminizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Nbc8sFMRIsClcxY_Ve2fE/1697759208180)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbc8sFMRIsClcxY_Ve2fE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # huminizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbc8sFMRIsClcxY_Ve2fE%22%2C%22flow%22%3Atrue%7D%7D)
 form ai to humanlike  
 
@@ -32,8 +32,30 @@ The Chatgpt Rewrite Prompt is a cutting-edge AI tool that uses advanced natural 
 Elevate your writing game with Tracup AI's ChatGPT Rewrite Prompt. Click the [Use Template] button now to get started! Say goodbye to boring writing and hello to engaging, human-like content. Give it a try today!
 ```
 
-## Conversation
+## Welcome Message
+🎉 Welcome! 🌟 
 
+
+
+We're thrilled to have you here! 😊✨
+
+
+
+Let's embark on an exciting journey together! 💫🚀
+
+
+
+Feel free to explore, learn, and connect with our amazing community! 🌐👥
+
+
+
+If you have any questions or need assistance, don't hesitate to reach out. We're here to help! 🤝💡
+
+
+
+Once again, welcome aboard! 🎊🎈
+
+## Conversation
 
 
 

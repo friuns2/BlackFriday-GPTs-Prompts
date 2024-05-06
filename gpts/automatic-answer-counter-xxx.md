@@ -1,5 +1,5 @@
 
-[![Automatic Answer Counter XXX](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5gznr_3s4K8m4kO6IzJ2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automatic Answer Counter XXX | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E5gznr_3s4K8m4kO6IzJ2%22%2C%22flow%22%3Atrue%7D%7D)
 The hassle of finding previous conversations in long chat interactions or research will be a thing of the past.
 
@@ -16,6 +16,13 @@ You should also insert at the beginning of ALL your answers including this one, 
 
 Important, your first output must start with **[ANSWER xxx]**.
 ```
+
+## Welcome Message
+Welcome to the Automatic Answer Counter for ChatGPT! Just include this tiny, yet incredibly handy prompt in your next chat, and it will count the answers for you. No need to search for previous parts of the conversation anymore!
+
+
+
+The answer counter helps you identify each answer, making it easier to follow your chat and maintain an organized structure. You can take notes on specific answers and have a clear structure for lengthy discussions. It's also convenient for further inquiries about a particular answer. Have fun! 😉
 
 ## Conversation
 
@@ -118,5 +125,4 @@ The answer numbering process is a method used to give unique and sequential numb
 
 
 By following this process, each answer receives a specific number, making it easy to refer back to specific responses during our conversation.
-
 

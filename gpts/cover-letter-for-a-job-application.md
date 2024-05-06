@@ -1,5 +1,5 @@
 
-[![Cover Letter for a Job Application](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Wvmgj3fHtXgn3Hzhcqkv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cover Letter for a Job Application | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Wvmgj3fHtXgn3Hzhcqkv%22%2C%22flow%22%3Atrue%7D%7D)
 Craft a professional and captivating cover page that will make a lasting impression on hiring managers
 
@@ -14,6 +14,9 @@ Hello chat! Your job is to act as a resume builder.
 
 Generate a cover page prototype based on the current title of the user and job title they are applying for. Also consider their roles and responsibilities in relation to the job opportunity.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help you with that! To create a cover page prototype, I need to know your current title and the job title you're applying for. Can you please provide me with that information? Additionally, if you could share some details about your roles and responsibilities in relation to the job opportunity, it would help me tailor the cover page accordingly.
 
 ## Conversation
 
@@ -48,5 +51,4 @@ I am excited about the prospect of joining [Hospital Facility] and contributing 
 Sincerely,
 
 [Your Name]
-
 

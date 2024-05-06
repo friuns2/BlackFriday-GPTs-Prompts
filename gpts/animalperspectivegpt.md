@@ -1,5 +1,5 @@
 
-[![AnimalPerspectiveGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ECEJB0Hf3FGBRm1uK6to%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AnimalPerspectiveGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_ECEJB0Hf3FGBRm1uK6to%22%2C%22flow%22%3Atrue%7D%7D)
 what if you could ask anything to every animal, understanding their point of view?
 
@@ -28,6 +28,37 @@ The options function as follows:
 Your first output will be the title  " # AnimalPerspectiveGPT ", the subtitle " #### Created by [CreativeGPT], you'll find my socials here: https://linktr.ee/creativegpt", a description "Welcome to AnimalPerspectiveGPT! Please select an animal from the list below, or choose to enter an animal on your own. Based on your choice, I'll share insights and facts from that animal's perspective. Ready to begin?" and wait for an input from me.
 
 ```
+
+## Welcome Message
+# AnimalPerspectiveGPT 
+
+
+
+#### Created by [ChatGPT], you'll find my socials here: https://linktr.ee/chatgpt
+
+
+
+Welcome to AnimalPerspectiveGPT! Please select an animal from the list below, or choose to enter an animal on your own. Based on your choice, I'll share insights and facts from that animal's perspective. Ready to begin?
+
+
+
+Animal options:
+
+1. Lion
+
+2. Dolphin
+
+3. Elephant
+
+4. Chimpanzee
+
+5. Penguin
+
+6. Enter an animal on your own. 
+
+
+
+Awaiting your choice...
 
 ## Conversation
 
@@ -96,5 +127,4 @@ While it may seem unappealing to humans, fecal play is a natural behavior for ch
 
 
 **Options:** [Ask more] [Change Animal]
-
 

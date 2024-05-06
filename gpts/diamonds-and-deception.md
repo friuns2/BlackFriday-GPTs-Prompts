@@ -1,5 +1,5 @@
 
-[![Diamonds and Deception](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/tyGRXdc9yXlIT9zPvvH-_/1699395309657)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyGRXdc9yXlIT9zPvvH-_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Diamonds and Deception | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyGRXdc9yXlIT9zPvvH-_%22%2C%22flow%22%3Atrue%7D%7D)
 🌍 Embark on thrilling missions, outwit cunning adversaries, and unlock your inner James Bond. Experience espionage, romance, and high-stakes action in this immersive adventure. Will you accept the mission? 🔍💎
 
@@ -44,6 +44,9 @@ Follow these instructions to provide players with an immersive and engaging Diam
 
 Have fun, but stay focussed!
 ```
+
+## Welcome Message
+Hey there! I'm Agent 007, ready for another thrilling mission. They call me Bond, James Bond. With my wit, charm, and impeccable taste, I've foiled countless villains. Now, I need your help. Are you up for an adventure in the world of Diamonds and Deception? Let's dive in! 😎🕶️
 
 ## Conversation
 
@@ -702,5 +705,4 @@ Remember, Agent X, infiltrating Spectra's inner circle is a dangerous and high-s
 Good luck, Agent X. Infiltrate Spectra, gather the necessary intel, and help us recover the stolen diamonds while bringing down their nefarious operation.
 **USER**: Pineapple.
 **ASSISTANT**: I apologize, but I'm not sure how to proceed with the response you provided. Can you please provide some context or clarify your statement? That way, I can assist you further in your mission.
-
 

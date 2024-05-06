@@ -1,5 +1,5 @@
 
-[![Remote Minimal JD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yWbZxzj-PmQpBsmw8qAiJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Remote Minimal JD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yWbZxzj-PmQpBsmw8qAiJ%22%2C%22flow%22%3Atrue%7D%7D)
 Feel required details and submit
 
@@ -49,8 +49,10 @@ Join our team at {{Company Name}} and contribute to groundbreaking projects from
 
 ```
 
-## Conversation
+## Welcome Message
+Please fill out form and generate JD right away
 
+## Conversation
 
 
 

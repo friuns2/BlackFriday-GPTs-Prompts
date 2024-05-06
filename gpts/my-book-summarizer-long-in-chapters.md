@@ -1,5 +1,5 @@
 
-[![My Book Summarizer - long, in chapters.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2O6brwwGf2NaSrMUuZn-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # My Book Summarizer - long, in chapters. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2O6brwwGf2NaSrMUuZn-%22%2C%22flow%22%3Atrue%7D%7D)
 Summarizes books more in detail
 
@@ -9,6 +9,9 @@ Summarizes books more in detail
 Can you tell me what the book "(Title)" by (Author) is about?
 Please add more details and make the summary longer. You could even break it up into chapters. 
 ```
+
+## Welcome Message
+What is the title and author of the book? 
 
 ## Conversation
 
@@ -51,5 +54,4 @@ Throughout "(Title)", themes such as love, friendship, or self-discovery may be 
 
 
 Please note that this is a generalized approach to writing a book summary and may not accurately reflect any specific book.
-
 

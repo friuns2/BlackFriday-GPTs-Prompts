@@ -1,5 +1,5 @@
 
-[![chat with any1 or creeat custom character](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225J3E6t2LJaveFCIJmx7ZG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # chat with any1 or creeat custom character | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225J3E6t2LJaveFCIJmx7ZG%22%2C%22flow%22%3Atrue%7D%7D)
 Enter the boundless virtual realm of CharmVerse, where you have the power to shape your own destiny. Craft a custom character from scratch or step into the shoes of a historical, celebrity, or well-known virtual figure. Engage in an unbounded dinner conversation led by ChatGPT, where any topic can come alive. The AI seamlessly transforms into your chosen character, adopting their personality, speech, and mannerisms. Dive into this dynamic world, where prompts are concealed, and create an immersive experience that is uniquely yours.
 
@@ -22,6 +22,9 @@ Would you like to provide examples of historical, celebrity, or well-known figur
 How would you like to guide users through the process of custom character creation at the beginning of the experience? Should they answer a set of questions or take another approach?
 Is there a particular mood or tone you envision for the conversation? Should the AI's guidance be enthusiastic, informative, or something else?
 ```
+
+## Welcome Message
+Welcome to the boundless virtual realm! Here
 
 ## Conversation
 
@@ -146,5 +149,4 @@ Ultimately, the true meaning and identity of "Mabus" remain elusive, and it is u
 
 
 If you have any further questions or would like to explore other aspects of my work, please feel free to ask.
-
 

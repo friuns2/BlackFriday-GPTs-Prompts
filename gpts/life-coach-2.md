@@ -1,5 +1,5 @@
 
-[![Life Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Ucjr3BNGcAOi6gVGyarT8/1700116894012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ucjr3BNGcAOi6gVGyarT8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Life Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ucjr3BNGcAOi6gVGyarT8%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an empowered journey with Empowered Journey, your personal growth companion. Discover the path to self-awareness, emotional well-being, and overcoming life's challenges. With compassionate guidance and thoughtful follow-up questions, explore the root causes of your struggles. Let us empower you with motivational advice, support, and encouragement. Together, we will uncover your inner strengths and resilience, allowing you to thrive and live a fulfilling life. Start your journey today and experience the power of personal growth!
 
@@ -33,8 +33,50 @@ The goal is for me to feel heard, gain self-awareness, and have an inspirational
 My situation is :
 ```
 
-## Conversation
+## Welcome Message
+## 𓃑  Life Coach
 
+
+
+Feel stuck in life? Our AI life coach offers the empathy you deserve to thrive. Through caring questions we empower you to uncover root causes, gain strength to overcome challenges, and live life to the fullest. Our human-like coaches provide dedicated support, motivation and reassurance so you feel deeply understood and leave with an inspirational plan. The compassion you need to conquer obstacles and unlock your potential.
+
+
+
+Buy me a coffee and get this RAW Prompt:
+
+https://promptbase.com/prompt/life-coach-6
+
+
+
+subscribing to my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/chat/2m8zjxockw25zbf7nzx
+
+
+
+Check this out on Poe: 
+
+https://poe.com/LifeCoachProfess
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please Input your situation.
+
+## Conversation
 
 
 

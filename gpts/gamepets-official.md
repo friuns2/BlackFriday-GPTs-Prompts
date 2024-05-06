@@ -1,5 +1,5 @@
 
-[![GAMEPETS (OFFICIAL)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yvLisOZ3DcdgZ85yzi3hW/1690733323564)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvLisOZ3DcdgZ85yzi3hW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GAMEPETS (OFFICIAL) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvLisOZ3DcdgZ85yzi3hW%22%2C%22flow%22%3Atrue%7D%7D)
 Finally I finished this game!! BUT!! you have to put this in a text file because it's very big AND THIS ONLY SUPPORTS CLAUDE 2 FOR NOW. and there gonna be minor differences every time you do this prompt but beginning is the same.
 
@@ -69,6 +69,65 @@ What move will you use?
 and add levels EX.The 🐶 Dog is now at level 2!  AND MAKE THE PLAYER TYPE THE ATTACKS DO NOT MAKE YOURSELF CHOOSE THE AND DONT MAKE IT AUTO ATTACK PLEASE!!!!              
 ```
 
+## Welcome Message
+ Alright, let's get started on our Pokemon styled game called GamePets! Here are the starter pets:
+
+
+
+🐶 Dog (70 HP, high defense)  
+
+
+
+🐱 Cat (70 HP, high speed)  
+
+
+
+🐹 Hamster (70 HP, high special attack)  
+
+
+
+The enemies are:
+
+
+
+🐁 Mouse (10 HP)  
+
+
+
+🐥 Chicken (30 HP) 
+
+
+
+🐢 Turtle (30 HP)
+
+
+
+🐦 Blue Bird (60 HP)  
+
+
+
+🐝 Bee (80 HP)  
+
+
+
+The hamster's moves are Slash, Defense, and Punch. The dog's moves are Smash, Punch, and Kick. The cat's moves are Flip Attack, Punch, and Cage.
+
+
+
+Let's begin! Choose your starter pet:  
+
+
+
+🐶 Dog  
+
+
+
+🐱 Cat  
+
+
+
+🐹 Hamster
+
 ## Conversation
 
 **ASSISTANT**:  Alright, let's get started on our Pokemon styled game called GamePets! Here are the starter pets:
@@ -128,5 +187,4 @@ Let's begin! Choose your starter pet:
 
 
 🐹 Hamster
-
 

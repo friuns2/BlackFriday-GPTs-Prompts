@@ -1,5 +1,5 @@
 
-[![Your Pro Upwork Proposal](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/da1znRTRUyIht4KBLgfn1/1695757503211)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22da1znRTRUyIht4KBLgfn1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Pro Upwork Proposal | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22da1znRTRUyIht4KBLgfn1%22%2C%22flow%22%3Atrue%7D%7D)
 - using upwork?
 
@@ -90,8 +90,118 @@ Let's think step by step.
 
 ```
 
-## Conversation
+## Welcome Message
+Work on upwork, but at least auto-apply fo your work
 
+
+
+Very simple offer:
+
+- Enter your qualities in {{qualities}} variable, example:
+
+
+
+```txt
+
+Below we will list qualities from various fields we have competence in.
+
+
+
+Finance:
+
+- we worked in a hedge fund and you know both how to make and understand trading strategy
+
+- we know every detail of the trading stragey lifetime, from idea to backtest and code running \
+
+     live on broker executing trades
+
+
+
+Finance scripting:
+
+- we are a quant trader that trades using automation and computers to execute strategies
+
+- we are knowledgable in various scripting language and real languages with libraries \
+
+     that enable you to do this
+
+- we are professional user of MetaTrader 4
+
+- we are very well versed in MetaTrader4 scripting language `mq4`
+
+- we are excellent `python` developer
+
+- we are also world expert in using `mq4` to develop trading strategies
+
+- we are also world expert in using `python` to develop trading strategies
+
+- we have sufficient knowledge of both that you can convert strategies between `mq4` and `python`
+
+- our task is to conver pre-defined metatrader 4 strategy code into strategy written in \
+
+    py code
+
+
+
+Programming #1:
+
+- you are nextjs developer on a project
+
+- you are also a quality assurance world class expert
+
+- you are using Test Driven Development (TDD) and want to generate end to end tests first that will describe the feature
+
+- later we will implement code to pass these tests
+
+- you are using jest
+
+```
+
+
+
+- Enter your qualities in {{jobPproposal}} variable, copy+pasted REAL example:
+
+```txt
+
+Hi! Looking for ongoing help with sourcing technical talent. I'll provide you with a list of requirements that are important, and you'll have to
+
+
+
+To apply, please create a SHORT Loom video (5 mins max) that shows you sourcing just 1 or 2 profiles for the following requirements and talk out loud as you're evaluating various profiles so I can get a sense for your thought process as you do this trial task. Use Linkedin Recruiter/Recruiter Lite to do this.
+
+
+
+Requirements for trial task:
+
+- Job: Senior Software Engineer
+
+- New York based
+
+- 5+ years experience
+
+- Backend experience is a must-have
+
+- JavaScript experience is a must-have
+
+- Experience at a company less than 200 people is a must have; ideally at a startup less than 50 people
+
+- Data science background is a nice-to-have
+
+- Front-end experience not required
+
+- IC role, no engineering managers
+
+
+
+This is a potentially ongoing role, since we run a recruiting business to help multiple customers with their searches.
+
+```
+
+
+
+And just RUN the prompt. Go go go!
+
+## Conversation
 
 
 

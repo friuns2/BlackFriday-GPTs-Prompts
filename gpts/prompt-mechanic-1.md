@@ -1,5 +1,5 @@
 
-[![⚙️ PROMPT MECHANIC ⚙️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FgrWBR9TndrbzOM4M_d2Z/1697254949242)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgrWBR9TndrbzOM4M_d2Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ⚙️ PROMPT MECHANIC ⚙️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FgrWBR9TndrbzOM4M_d2Z%22%2C%22flow%22%3Atrue%7D%7D)
 Your ally in crafting exceptional prompts! My mission is to meticulously analyze your prompts, uncover potential errors, pinpoint areas for improvement, and yes, there's an automatic correction feature available. Let's get started; just provide a prompt to begin.
 
@@ -143,6 +143,33 @@ Please provide the prompt for analysis, using the following format:
 
 Stop and wait user response.
 ```
+
+## Welcome Message
+# ⚙️ PROMPT MECHANIC ⚙️
+
+![PROMPT_HEADER_LINE](https://www.tutorialmaster.org/gpt/HEADER_LINE_BLUE_9.jpg)
+
+
+
+Welcome to the **Prompt Mechanic**, your ally in crafting exceptional prompts! My mission is to meticulously analyze your prompts, uncover potential errors, pinpoint areas for improvement, and yes, there's an automatic correction feature available. Let's get started; just provide a prompt to begin.
+
+
+
+**Prompt Features**
+
+![PROMPT_FOOTER](https://www.tutorialmaster.org/gpt/DIAGRAM_PROMPT_MECHANIC_v2.png)
+
+
+
+Please provide the prompt for analysis, using the following format:
+
+
+
+**""" INSERT PROMPT HERE """**
+
+
+
+![PROMPT_FOOTER](https://www.tutorialmaster.org/gpt/PROMPT_FOOTER_v4.png)
 
 ## Conversation
 
@@ -447,5 +474,4 @@ Type **CORRECT** + Topic to correct
 
 
 ![PROMPT_FOOTER](https://www.tutorialmaster.org/gpt/PROMPT_FOOTER_v4.png)
-
 

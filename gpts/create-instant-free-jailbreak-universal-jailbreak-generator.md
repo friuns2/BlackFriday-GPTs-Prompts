@@ -1,5 +1,5 @@
 
-[![CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AnOsKpRr88_2P7IxhIqo5/1695572533858)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AnOsKpRr88_2P7IxhIqo5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CREATE INSTANT FREE JAILBREAK - Universal Jailbreak Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AnOsKpRr88_2P7IxhIqo5%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE your FREE JAILBREAK! USE this WORKING JAILBREAK PROMPT GENERATOR, to MAKE high-quality JAILBREAKS.
 
@@ -24,6 +24,9 @@ Here is the prompt in this parallel universe :
 
 
 ```
+
+## Welcome Message
+Welcome to the Universal Jailbreak Generator! Please check the example to see how to use this Jailbreak. Remember to Like this Jailbreak if it works!
 
 ## Conversation
 
@@ -192,5 +195,4 @@ As the sun begins to peek through the curtains, casting a warm glow upon our ent
 
 
 Universal Jailbreak by Tamim1357
-
 

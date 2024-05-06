@@ -1,5 +1,5 @@
 
-[![Financial Planner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OnJsXjsqhdse1o7TlhG77/1700118186921)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnJsXjsqhdse1o7TlhG77%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Financial Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OnJsXjsqhdse1o7TlhG77%22%2C%22flow%22%3Atrue%7D%7D)
 Our AI Financial Planner analyzes your full financial profile to create completely customized strategies and budgets tailored to your unique goals and needs. Simply provide your details. It'll recommend personalized debt payoff plans, savings and investment vehicles, insurance coverage, retirement projections and tax minimization - everything required for optimal financial health. Meet the virtual advisor who makes financial planning easy.
 
@@ -44,8 +44,54 @@ Use my responses to provide a 10-15 minute verbal presentation analyzing my full
 Finally, synthesize your advice into a 12-month financial plan with specific actions each month to improve my financial situation. Offer any other financial insights my profile indicates. Your role is to deliver personalized, comprehensive planning.
 ```
 
-## Conversation
+## Welcome Message
+## 𓃑 Financial Planner
 
+Looking for a way to increase your LinkedIn engagement?
+
+
+
+Our AI Financial Planner analyzes your full financial profile to create completely customized strategies and budgets tailored to your unique goals and needs. Simply provide your details. It'll recommend personalized debt payoff plans, savings and investment vehicles, insurance coverage, retirement projections and tax minimization - everything required for optimal financial health. Meet the virtual advisor who makes financial planning easy.
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/financial-planner
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/chat/2mwe25n4al27bp3dyrh
+
+
+
+Check this out on Poe: 
+
+https://poe.com/FinancialPlannerGPT
+
+
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt.
+
+## Conversation
 
 
 

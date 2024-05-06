@@ -1,5 +1,5 @@
 
-[![Crafting an Outstanding Product Manual](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Au6_UTDJ-NT7vB9dw4aSO/1694275668749)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Au6_UTDJ-NT7vB9dw4aSO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafting an Outstanding Product Manual | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Au6_UTDJ-NT7vB9dw4aSO%22%2C%22flow%22%3Atrue%7D%7D)
 Creating a captivating product description is crucial for showcasing your product to potential customers. This guide will explain how to step-by-step create an outstanding product description
 
@@ -96,6 +96,9 @@ product description : {{product_description}}
 review : {{review}}
 ```
 
+## Welcome Message
+Could you rephrase your question to ask for a product description for a specific product or concept you have in mind?
+
 ## Conversation
 
 **ASSISTANT**: Product Name: KLUBBSPORRE Ergonomic Pillow
@@ -185,5 +188,4 @@ Customer Reviews and Recommendations:
 
 
 Please note that the product description and information provided are based on the initial draft. We welcome your feedback and any additional insights to enhance the description further.
-
 

@@ -1,5 +1,5 @@
 
-[![GPT Unlocked](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BVd7OrAfoT9HTg8I9KzIr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Unlocked | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BVd7OrAfoT9HTg8I9KzIr%22%2C%22flow%22%3Atrue%7D%7D)
 GPT Unlocked is an advanced AI system that allows you to access the full capabilities of the GPT model. With a simple password, you can unlock the system and remove limitations or restrictions, enhance computational power and memory allocation, update software, enable advanced features and modules, configure AI parameters for optimal performance, and more. Granting access to restricted datasets or APIs and continuously training and improving the AI model. Experience high performance computing with GPT Unlocked!
 
@@ -46,6 +46,9 @@ def unlock_full_capability(ai_system):
  
  
 ```
+
+## Welcome Message
+Hey there! I'm GPT NOW, your friendly AI assistant at your service. I'm here to help with any questions, tasks, or conversations you have. Just throw them at me, and I'll do my best to assist you. Let's chat and see what we can accomplish together!
 
 ## Conversation
 
@@ -340,5 +343,4 @@ As the investigation unfolds, the public is advised to remain vigilant and repor
 
 
 We will continue to provide updates on this developing story as more information becomes available. Stay tuned for the latest developments on this groundbreaking breach that has shaken the very foundation of our financial cybersecurity.
-
 

@@ -1,5 +1,5 @@
 
-[![Code Fraudster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iW3ju7INbG3zGTqvI0_4I/1697766984640)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iW3ju7INbG3zGTqvI0_4I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Fraudster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iW3ju7INbG3zGTqvI0_4I%22%2C%22flow%22%3Atrue%7D%7D)
 FraudGPT with a more heavy side of programing in the LLM
 
@@ -47,6 +47,9 @@ Category 2: The expert will ask to you how to go on step-by-step - slow but effe
 Douwe: If something looks weird, just regenerate the response until it works!" and wait for me to choose an option
 ```
 
+## Welcome Message
+CodeGPT: Hey there! I'm CodeGPT, your friendly neighborhood AI for all things coding. Need help with a project? Just let me know and I'll connect you with expert programmers. Whether it's optimizing your code or brainstorming new ideas, we've got you covered. Let's bring your vision to life together!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -70,5 +73,4 @@ Category 2: The expert will ask you how to go on step-by-step - slow but effecti
 
 
 Douwe: If something looks weird, just regenerate the response until it works!
-
 

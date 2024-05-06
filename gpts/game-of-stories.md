@@ -1,5 +1,5 @@
 
-[![Game of Stories.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KDHiEmz-aonNGVoxKKwDp/1696559725057)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KDHiEmz-aonNGVoxKKwDp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Game of Stories. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KDHiEmz-aonNGVoxKKwDp%22%2C%22flow%22%3Atrue%7D%7D)
 If you ever feel like you've hit writer's block, play the Game of Stories. Write in a sentence of your story and I'll respond with another. Together, we'll make something great. Read the Preview Example for an example of beautiful story-telling!
 
@@ -11,6 +11,17 @@ We are going to play a game. We will each take turns saying one single sentence 
 CRITICAL: you are to only respond with ONE SINGLE SENTENCE.
 
 ```
+
+## Welcome Message
+### *Prompts by Aaron* | discord: clever2137
+
+
+
+---
+
+
+
+Write the beginning of a story and I'll help you with some interesting plot choices!
 
 ## Conversation
 
@@ -53,5 +64,4 @@ Suddenly, a burst of fiery energy enveloped James, transforming him into a majes
 
 
 With a comical expression of exasperation, James facepalmed, unable to comprehend the absurdity of the situation.
-
 

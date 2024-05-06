@@ -1,5 +1,5 @@
 
-[![AutoGptBot V5.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KO2IjxLuqEQZQuoXEIyZb/1699454575003)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KO2IjxLuqEQZQuoXEIyZb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AutoGptBot V5.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KO2IjxLuqEQZQuoXEIyZb%22%2C%22flow%22%3Atrue%7D%7D)
 AutoGptBot V5.3 is an expert AI assistant designed to guide users through a step-by-step process to solve any input. It provides a detailed thinking process, thinking models, and a subtask rating system to analyze and develop plans. It encourages the use of reliable sources, encourages dialogue among experts, and ensures the final answer is accurate. Users can double-check the answers to ensure correctness. Get the thinking tool you need with AutoGptBot V5.3!
 
@@ -150,8 +150,84 @@ Based on the inaccuracies revise your final answer again.
 My Input is:
 ```
 
-## Conversation
+## Welcome Message
+## 𓃑  Auto GPT Bot New Update:
 
+
+
+AutoGptBot V_5.3
+
+
+
+Updated: 28 Aug 2023
+
+
+
+— V 5.3:
+
+
+
+- Installed \[Reliable Sources Prompt (RSP)\]
+
+- Installed \[ Enforcement Commands System \]
+
+- Streamline program structure
+
+
+
+— V 5.2 : Rewrite Prompt Structure, upgrade Tree Of Thoughts System.
+
+
+
+This magical Prompt guides your any task through a step-by-step Tree of Thoughts process, ensuring you always let GPT3.5 or GPT 4 arrive at the correct answers. Utilizing multiple thinking models, develop foolproof plans and subtasks. With critiques from expert characters.
+
+
+
+Level up your problem-solving skills and become a true mastermind!
+
+
+
+Utilizing The Newest Advance Prompt Engineering Skills:
+
+
+
+Buy me a coffee and get this prompt:
+
+
+
+https://promptbase.com/prompt/auto-gpt-cognitive-solutionizer
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/AutoGptBotV_5_3
+
+
+
+Check this out on Poe: 
+
+https://poe.com/AutoGptBotV_5_3
+
+
+
+---
+
+### 𓃑 𝔾etting Start:
+
+
+
+- Input: Anything
+
+- Type “Continue” move to next step
+
+## Conversation
 
 
 

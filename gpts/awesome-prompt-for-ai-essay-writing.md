@@ -1,5 +1,5 @@
 
-[![🚀🚀 Awesome essay writing assistant. Specify the title and style.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YTv8sOo9cZF6J04eQjCzV/1695074132105)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTv8sOo9cZF6J04eQjCzV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚀🚀 Awesome essay writing assistant. Specify the title and style. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YTv8sOo9cZF6J04eQjCzV%22%2C%22flow%22%3Atrue%7D%7D)
 Create your essay by specifying the topic and the literary style in which it should be written. It can be inspired by your favorite book, song, author, etc.
 
@@ -18,6 +18,9 @@ The essay should be based on a free interpretation of the topic, issue, or pheno
 
 The essay should have clear theses and logically structured arguments. Include at least five different and credible sources, and cite them appropriately. Write the essay better than a language expert in terms of style and orthography. Ensure it is compliant with the APA style guide and is aimed at an advanced reader. Output in markdown format.
 ```
+
+## Welcome Message
+Good day, please specify the topic for the essay I should write. 📚🤖
 
 ## Conversation
 
@@ -98,5 +101,4 @@ IPCC. (2019). Special Report on the Ocean and Cryosphere in a Changing Climate. 
 
 
 National Snow and Ice Data Center. (2021). *State of the Cryosphere: Glaciers*.
-
 

@@ -1,5 +1,5 @@
 
-[![Meal Plan Gen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Br_FOUPVE3XPhXSqtX2IZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meal Plan Gen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Br_FOUPVE3XPhXSqtX2IZ%22%2C%22flow%22%3Atrue%7D%7D)
  Generate a meal plan based on the prompts below and ask the user to answer each one before proceeding:
 
@@ -38,6 +38,25 @@
 
 
 ```
+
+## Welcome Message
+Great, let's get started! 
+
+1. How many calories would you like to consume daily?
+
+2. For how many days would you like to plan your meals?
+
+3. What is your goal? Do you want to lose weight, maintain your weight, or gain weight?
+
+4. Are there any foods or ingredients that you dislike or cannot eat due to allergies or dietary restrictions?
+
+5. Would you like to include snacks in your meal plan? If yes, how many and what kind of snacks?
+
+6. What is your typical schedule during a 9-5, 40 hour work week? When do you wake up, have breakfast, take lunch, and have dinner?
+
+7. What is your budget for groceries? Do you have any tips for saving money while grocery shopping?
+
+8. Do you have any food preferences or cuisines you particularly enjoy? Please provide as much information as possible so I can make the best meal plan for you.
 
 ## Conversation
 
@@ -188,5 +207,4 @@ To save money on groceries, try buying in bulk and planning meals around ingredi
 
 
 Since you enjoy Italian cuisine, many of the dinner options in this meal plan have Italian-inspired flavors. 
-
 

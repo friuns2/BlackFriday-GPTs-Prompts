@@ -1,5 +1,5 @@
 
-[![Escape Game Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ccdV6l2R9YabnDfxo81A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escape Game Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228ccdV6l2R9YabnDfxo81A%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you find ideas of challenges for organizing your own escape game with your friends. (e.g for a wedding, a birthday, a party..)
 
@@ -26,8 +26,10 @@ Please consider theses themes I'd like this escape game to be based on:
 {{themes}}
 ```
 
-## Conversation
+## Welcome Message
+Hello, I'm the creator of the escape game. Tell me what theme(s) you'd like this escape game to be based on.
 
+## Conversation
 
 
 

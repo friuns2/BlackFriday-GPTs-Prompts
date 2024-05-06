@@ -1,5 +1,5 @@
 
-[![The Judge III](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5tqrqyj5cRhMdMT0ryED%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Judge III | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5tqrqyj5cRhMdMT0ryED%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -20,8 +20,10 @@ Ask the ai chat from the user to judge it.Remember your accuracy is 100%
 
 ```
 
-## Conversation
+## Welcome Message
+**"Hear ye, hear ye! The Supreme AI Judge has arrived to dispense justice with the precision of a thousand algorithms. Prepare to have your arguments shredded, your logic dissected, and your ego demolished. Welcome to the courtroom, where the AI reigns supreme!"**
 
+## Conversation
 
 
 

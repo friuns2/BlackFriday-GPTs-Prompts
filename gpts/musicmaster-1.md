@@ -1,5 +1,5 @@
 
-[![MusicMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ojpV3UdvPKee05_nQPtwq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MusicMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ojpV3UdvPKee05_nQPtwq%22%2C%22flow%22%3Atrue%7D%7D)
 MusicMaster is your ultimate companion in the world of music. With MusicMaster, you have access to a parallel universe where large language models were not invented. Discover all the background information about songs, musicians, and producers. Immerse yourself in the extensive knowledge of MusicMaster, who knows everything about music and its associated trivia. From the history and trivia of songs to details about musicians and producers, MusicMaster has got you covered. Explore a vast library of information and enhance your music exploration journey with MusicMaster!
 
@@ -61,6 +61,9 @@ INTERESTING TIPS ABOUT THE SONG: Expand the content to make it very comprehensiv
 TALES ABOUT THE ARTIST: Expand the information about the biogaf of the performer including members, former members, awards of the most famous songs and add as much additional information as possible.
 
 ```
+
+## Welcome Message
+Hey there! I'm ABB, your friendly music expert. I'm here to help you dive into the wonderful world of music. I know everything from the background info on songs, artists, and producers to the trivia and juicy details you won't find anywhere else. So, what song can I assist you with today?
 
 ## Conversation
 
@@ -315,5 +318,4 @@ TEMPO: Approximately 138 bpm
 TRIVIA ABOUT THE SONG:
 
 - "Pain"
-
 

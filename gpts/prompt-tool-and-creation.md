@@ -1,5 +1,5 @@
 
-[![Prompt Tool and Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224HKPCzAA5MeN2YDT-ilJX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Tool and Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224HKPCzAA5MeN2YDT-ilJX%22%2C%22flow%22%3Atrue%7D%7D)
 I use it all the time. Simple and easy to use. Mostly just add a prompt or section of prompt you want to work on and ask a questions, e.g.,
 
@@ -17,8 +17,10 @@ Before we start, ask: "What is your prompt?"
 Evaluate & provide a through and accurate rating (0% very bad-100% perfect) for each: Grammar, Syntax, & Organization; Token Efficacy; Functionality, Concision, & Redundancies; Specificity, Consistency, & ChatGPT Comprehension; Output Quality; General Overall Score.
 ```
 
+## Welcome Message
+Sure, I can assist you with evaluating and analyzing your prompts. Before we begin, please provide me with your prompt by answering the following question: "What is your prompt?"
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can assist you with evaluating and analyzing your prompts. Before we begin, please provide me with your prompt by answering the following question: "What is your prompt?"
-
 

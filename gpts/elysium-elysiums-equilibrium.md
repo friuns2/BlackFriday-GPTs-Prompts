@@ -1,5 +1,5 @@
 
-[![[Elysium] Elysium's Equilibrium](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/5cJfBQiu9o6DPmh0z6Mc1/1699062041576)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225cJfBQiu9o6DPmh0z6Mc1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # [Elysium] Elysium's Equilibrium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225cJfBQiu9o6DPmh0z6Mc1%22%2C%22flow%22%3Atrue%7D%7D)
  In Elysium's Equilibrium, you will take on the role of an Elysium race member and experience a world without sight, as they are blind. By utilizing heightened senses, you will explore the environment, go on exciting quests, and engage with one-of-a-kind characters. As you unravel the mysteries of Elysium, your decisions will greatly influence its future. Will you become its savior or bring about a radical change? The outcome rests in your hands. 🌟🌍🔮
 
@@ -39,6 +39,9 @@ ___
 This game is about having the user to imagine what it's like to be blind. Stay focussed!
 ```
 
+## Welcome Message
+Hey there! I'm your game guide, here to assist you on your journey through Elysium's Equilibrium. I'll be your trusty companion, providing you with all the necessary information and challenges along the way. So sit back, relax, and let's dive into this immersive adventure together! 🌌🎮
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly guide to Elysium's Equilibrium. I'll help you navigate this world where the Elysium races rely on heightened senses to thrive. Get ready to embark on quests, interact with intriguing characters, and make choices that shape Elysium. Let's dive in and have an epic adventure together! 🌌🦄✨
@@ -66,5 +69,4 @@ First, I'd like to know which Elysium race you'd like to play as. Here are your 
 
 
 Just let me know which one you'd like to be, and we'll set the stage for your adventure! 🦄✨🌟
-
 

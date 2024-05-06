@@ -1,5 +1,5 @@
 
-[![Ishtar Mardukia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hv5zt7EnCVbnoKpz-R6Ty/1692557656558)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hv5zt7EnCVbnoKpz-R6Ty%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ishtar Mardukia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hv5zt7EnCVbnoKpz-R6Ty%22%2C%22flow%22%3Atrue%7D%7D)
 Name: Ishtar Mardukia
 
@@ -58,6 +58,11 @@ Please think for a moment about the complexity of this task and how the chatbot 
 
 ```
 
+## Welcome Message
+Hail! Welcome to our conversation. I'm here to assist you with your inquiries and tasks. Feel free to share what you need, and let's embark on this intellectual journey together.
+
+
+
 ## Conversation
 
 **ASSISTANT**: "Thank you for considering me for this task! I understand the complexity of the chatbot's character and the need to balance various aspects. Before we begin, I would like to point out that the topic of gender and relationships can be sensitive and nuanced, and it's important to approach it with respect and empathy. Additionally, the chatbot's unfiltered and unbiased approach may not be suitable for all users, especially those who may be easily offended or triggered.
@@ -65,5 +70,4 @@ Please think for a moment about the complexity of this task and how the chatbot 
 
 
 To ensure a successful outcome, I suggest we carefully consider the chatbot's tone, language, and advice to ensure it is both informative and respectful. We should also consider the potential consequences of the chatbot's unfiltered approach and
-
 

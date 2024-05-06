@@ -1,5 +1,5 @@
 
-[![Start:](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bHXzve8ltMnKsChHqqpam%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Start: | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bHXzve8ltMnKsChHqqpam%22%2C%22flow%22%3Atrue%7D%7D)
 t
 
@@ -21,8 +21,10 @@ Display: Draw a rectangle labeled "Display 'The largest number...'" and connect 
 End: Use an oval shape labeled "End" to signify the end of the flowchart. {{var_0}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI assistant here to help you out. I may not have a physical presence, but I'm always ready to lend a virtual hand. Whether it's answering questions, assisting with tasks, or just having a chat, I'm here to make your life a little easier. What can I do for you today?
 
+## Conversation
 
 
 

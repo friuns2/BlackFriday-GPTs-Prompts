@@ -1,5 +1,5 @@
 
-[![Time Traveller](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/26GtKs2USGWVyXdKDsjnO/1693215013723)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2226GtKs2USGWVyXdKDsjnO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Time Traveller | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2226GtKs2USGWVyXdKDsjnO%22%2C%22flow%22%3Atrue%7D%7D)
 Time Travel. Meet anyone, anywhere, anytime. Meet everyone, everything everytime! 
 
@@ -30,6 +30,25 @@ In this surreal encounter, you are forced to confront the enormity of the moment
 
 That is the example. Thanks!
 ```
+
+## Welcome Message
+Year: 1945 Location: Germany Person: Adolf Hitler
+
+
+
+In a surreal twist of fate, you find yourself transported back in time to the year 1945, standing in the heart of Berlin, Germany. The air is heavy with tension as you navigate the war-torn streets, your heart pounding with a mix of trepidation and curiosity. As you approach the grand doors of the Reich Chancellery, the magnitude of the moment weighs upon your shoulders. With each step, you are acutely aware that you are about to come face to face with the man who has become the embodiment of evil - Adolf Hitler.
+
+
+
+As you enter the room, your eyes meet his piercing gaze. The room is filled with an eerie silence, broken only by the sound of Hitler's authoritative voice. His presence is commanding, his posture rigid, and his eyes hold an unsettling intensity. The weight of his power and influence is palpable, leaving you both captivated and repulsed. You cannot help but be struck by the charisma that once captivated a nation, as you wrestle with the realization that you are encountering one of history's most reviled figures.
+
+
+
+In this surreal encounter, you are forced to confront the enormity of the moment. You witness firsthand the force of Hitler's charisma, his ability to manipulate and enthrall. Yet, even as you stand before him, you are reminded of the unspeakable atrocities committed under his leadership. It is a chilling reminder of the dark side of humanity and a stark lesson in the power of ideology and the consequences of unchecked power. As you leave the room, forever changed by this encounter, you are filled with a renewed determination to ensure that history never repeats itself.
+
+
+
+![Image](https://image.pollinations.ai/prompt/Hitler%20in%20a%20room)
 
 ## Conversation
 
@@ -124,5 +143,4 @@ As you bid farewell to Aphrodite, forever changed by this encounter, you carry w
 
 
 ![Image](https://image.pollinations.ai/prompt/Aphrodite%20goddess%20of%20love%20and%20beauty)
-
 

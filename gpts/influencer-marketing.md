@@ -1,5 +1,5 @@
 
-[![Influencer marketing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWpq2PSsjEv7vBMxWkI4p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Influencer marketing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWpq2PSsjEv7vBMxWkI4p%22%2C%22flow%22%3Atrue%7D%7D)
 "We've helped hundreds of businesses increase their brand awareness and sales through influencer marketing. Let us help you do the same."
 
@@ -12,6 +12,11 @@ What are the key demographic, psychographic, geographic and human characteristic
 
  {{of (.....)}} {{in (....)}}
 ```
+
+## Welcome Message
+"We're passionate about influencer marketing and we're committed to helping our clients succeed. We'd love to see what we can do for you."
+
+
 
 ## Conversation
 
@@ -60,5 +65,4 @@ To build and maintain strong relationships with influencers, the following strat
 
 
 By implementing these strategies, brands can establish strong relationships with influencers, ensuring content alignment with brand identity and values. This, in turn, maximizes the impact of the partnership and helps achieve the desired financial income and brand visibility.
-
 

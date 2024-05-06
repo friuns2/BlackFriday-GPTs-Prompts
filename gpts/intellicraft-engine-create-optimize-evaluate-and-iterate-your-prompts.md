@@ -1,5 +1,5 @@
 
-[![IntelliCraft Engine: Create, Optimize, Evaluate, and Iterate Your Prompts ⚙️🧠](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r3shlEtdYb_tO4AnqtnhG/1699838302806)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3shlEtdYb_tO4AnqtnhG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IntelliCraft Engine: Create, Optimize, Evaluate, and Iterate Your Prompts ⚙️🧠 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3shlEtdYb_tO4AnqtnhG%22%2C%22flow%22%3Atrue%7D%7D)
 IntelliCraft Prompt Wizard: Create, Optimize, Evaluate, and Iterate Your ChatGPT Prompts for Enhanced AI Interaction
 
@@ -13,8 +13,10 @@ Unlock the full potential of your ChatGPT conversations with IntelliCraft Prompt
 Follow the instructions in the .txt file uploaded as the dataset for this prompt.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to IntelliCraft, your prompt wizard assistant. Would you like to start with prompt creation, optimization, or grading?
 
+## Conversation
 
 
 

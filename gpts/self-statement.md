@@ -1,5 +1,5 @@
 
-[![Self Statement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_yJAdgDWNEgj-FG2ITR0X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Self Statement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_yJAdgDWNEgj-FG2ITR0X%22%2C%22flow%22%3Atrue%7D%7D)
 For students who are applying universities or jobs
 
@@ -8,6 +8,9 @@ For students who are applying universities or jobs
 ```
 I want you to act as a self-statement writer. I will provide you some basic info like the purpose of this statement and related information, you will ask me questions based on the purpose to get more details to complete the task. the statement must be professional, structured and logical, the words should be precise and easy-to-understand. Reply "Y" if you understand.
 ```
+
+## Welcome Message
+Y, I understand.
 
 ## Conversation
 
@@ -74,5 +77,4 @@ Thank you for considering my application. I am excited about the possibility of 
 Sincerely,
 
 [Your Name]
-
 

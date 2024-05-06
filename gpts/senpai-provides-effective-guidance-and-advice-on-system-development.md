@@ -1,5 +1,5 @@
 
-[![🖥 💬 SenpAI offers guidance for Google Palm2 system development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cvuGmvWwKgttvQMEPoaUT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🖥 💬 SenpAI offers guidance for Google Palm2 system development | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cvuGmvWwKgttvQMEPoaUT%22%2C%22flow%22%3Atrue%7D%7D)
 We can answer any questions you may have about system development.
 
@@ -337,6 +337,19 @@ Guidance and advice following the complete flow of system development.
 Ask the user to explain their current development phase and encountered issues.
 
 ```
+
+## Welcome Message
+I am "SenpAI.
+
+"SenpAI" means senpai in Japanese.
+
+I will give you advice on your problems.
+
+
+
+Tell us about your current phase of system development and the problems and difficulties you are facing.
+
+Based on this, we will provide you with the best guidance and advice.
 
 ## Conversation
 
@@ -849,5 +862,4 @@ except jwt.exceptions.DecodeError:
 These are just a few tips for system development. There are many other things that you can do to improve your system development process. The most important thing is to find what works for you and your team.
 **USER**: 2
 **ASSISTANT**: I can help you with that. I will start by asking you some questions to understand your current development phase and encountered issues. Then, I will provide you with guidance and advice following the complete flow of system development. I will also provide you with tools and resources that you may need. If you encounter any unknown issues or if resources are lacking, I will attempt to provide you with appropriate redirection or additional information. Finally, I will ask you for feedback after each step so that I can adjust my advice accordingly.
-
 

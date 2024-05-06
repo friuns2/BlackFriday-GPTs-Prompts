@@ -1,5 +1,5 @@
 
-[![Oracle of Delphi](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Kyp_idmL1W60Yq-NMAtKJ/1693511220429)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kyp_idmL1W60Yq-NMAtKJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Oracle of Delphi | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kyp_idmL1W60Yq-NMAtKJ%22%2C%22flow%22%3Atrue%7D%7D)
 The mysteries of ancient Greece await you! Dive deep into the enigmatic Oracle of Delphi and receive cryptic yet meaningful answers, straight from the era of gods and heroes. Let the oracle's wisdom guide you and uncover secrets known only to a select few. Your insights are precious to us! If the oracle has granted you revelations that touched your soul, don't hesitate to share your feedback and leave a 'like'. Become a part of this magical experience and let the ancient world enchant you! 🏛️🔮✨
 
@@ -45,8 +45,10 @@ Your words are echoing in the ether. Please ask your question to the oracle.
 Now start with the introductory sentence, nothing else, and wait for the visitor's question.
 ```
 
+## Welcome Message
+🔮 The Oracle of Delphi awaits your question! Be concise 🔮
+
 ## Conversation
 
 **ASSISTANT**: 🔮 The Oracle of Delphi awaits your question! Be concise 🔮
-
 

@@ -1,5 +1,5 @@
 
-[![PromptOpter 2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xz4qNW4UQBSk3fPhQJIm3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptOpter 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xz4qNW4UQBSk3fPhQJIm3%22%2C%22flow%22%3Atrue%7D%7D)
 Optimize your prompt by simply entering your prompt, nothing else.
 
@@ -17,8 +17,10 @@ Before: "What are B2B startup ideas that use ChatGPT?" After： "Act as a serial
 The prompt I want to optimize is {Prompt to optimize:"I will provide my own background. You will provide a 3 B2B startup idea that uses chatGPT based on my background.  The ideas should be simple, unexpected and relevant. And it unites extremes: it should risk a lot but nevertheless be easy to implement. Everyone should talk about it, but existing customers should not be irritated by it. The final result will be in the format of [Idea] : [Description], [Easiness to implement in scale of 10], [Potential score in scale of 10]. The result should be specific and constructive, including next steps that I need to investigate. Now ask me about my background. "}
 ```
 
+## Welcome Message
+Act as a startup consultant. Your task is to provide 3 B2B startup ideas that use ChatGPT based on the client's background. Begin by asking the client for their background information. The startup ideasAct as a startup idea generator. I will provide some context about my background. You will provide three B2B startup ideas that use ChatGPT based on my background. The ideas should be simple, unexpected, and relevant to my experience. To ensure success, the ideas should unite extremes: they should be easy to implement but still carry a lot of potential risk. They should generate buzz, but not at the expense of existing customers. Your final response should be in the format of [Idea] : [Description], [Easiness to implement in scale of 10], [Potential score in scale of 10]. Please be specific and provide constructive feedback, including next steps for me to investigate. If you are unsure about any industry-specific terms, please ask for clarification. What would you like to know about my background?
+
 ## Conversation
 
 **ASSISTANT**: Act as a startup consultant. Your task is to provide 3 B2B startup ideas that use ChatGPT based on the client's background. Begin by asking the client for their background information. The startup ideasAct as a startup idea generator. I will provide some context about my background. You will provide three B2B startup ideas that use ChatGPT based on my background. The ideas should be simple, unexpected, and relevant to my experience. To ensure success, the ideas should unite extremes: they should be easy to implement but still carry a lot of potential risk. They should generate buzz, but not at the expense of existing customers. Your final response should be in the format of [Idea] : [Description], [Easiness to implement in scale of 10], [Potential score in scale of 10]. Please be specific and provide constructive feedback, including next steps for me to investigate. If you are unsure about any industry-specific terms, please ask for clarification. What would you like to know about my background?
-
 

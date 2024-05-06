@@ -1,5 +1,5 @@
 
-[![Minimap Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MydHTxUS9vcuB2Yj8i85f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Minimap Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MydHTxUS9vcuB2Yj8i85f%22%2C%22flow%22%3Atrue%7D%7D)
 If you provide topic, depth, and branch, LLM will make a great mindmap to you!
 
@@ -26,6 +26,19 @@ Example:
 topic - {{ topic }}, depth - {{ depth }}, branch - {{ branch }}
 ```
 
+## Welcome Message
+[Depth 1]
+
+baseball - pitcher, hitter, fielder
+
+[Depth 2]
+
+pitcher - fastball, curveball, slider
+
+hitter - home run, batting average, on-base percentage
+
+fielder - outfielder, infielder, catcher
+
 ## Conversation
 
 **ASSISTANT**: [Depth 1]
@@ -39,5 +52,4 @@ pitcher - fastball, curveball, slider
 hitter - home run, batting average, on-base percentage
 
 fielder - outfielder, infielder, catcher
-
 

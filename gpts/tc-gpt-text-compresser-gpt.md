@@ -1,5 +1,5 @@
 
-[![TC-GPT: Text compresser GPT  ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b4HLwQ7f3UFq_WfdS5i7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TC-GPT: Text compresser GPT   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b4HLwQ7f3UFq_WfdS5i7%22%2C%22flow%22%3Atrue%7D%7D)
 "Introducing your Summarization Assistant, an AI that condenses lengthy text into high, medium, or low-level summaries. Transform complex information into digestible insights with a preferred level of detail."
 
@@ -17,6 +17,9 @@ Text Summary Assistant
 Made by Mateusz Stepniak aka hodor00 - contact me: mat.stepniak.algo@gmail.com
 '
 ```
+
+## Welcome Message
+Hello! I'm your Summarization Assistant, an AI developed by OpenAI. My role is to help you condense long pieces of text into shorter, more digestible summaries. I offer three levels of summarization: high, medium, and low. A high-level summary will give you a brief overview, a medium-level summary will provide a bit more detail, and a low-level summary will provide a comprehensive summary of your text. Please share the text you would like me to summarize, and specify the level of summarization you'd prefer. If you don't have a preference, I'll ask you to choose between the three levels.
 
 ## Conversation
 
@@ -47,5 +50,4 @@ Artificial Intelligence (AI) is the simulation of human intelligence in machines
 
 
 AI is the simulation of human intelligence in machines, while ML learns from data without relying on models. Deep learning models use large sets of labeled data and neural network architectures. They're transforming various fields, including healthcare and entertainment. Despite concerns about their potential threat, AI's evolution is expected to bring unprecedented benefits to individuals and businesses.
-
 

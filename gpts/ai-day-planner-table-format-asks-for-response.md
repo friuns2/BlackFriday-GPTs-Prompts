@@ -1,5 +1,5 @@
 
-[![AI Day Planner (Table format asks for response)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-Qqf3Bqw5ooXoLFwlmGU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Day Planner (Table format asks for response) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j-Qqf3Bqw5ooXoLFwlmGU%22%2C%22flow%22%3Atrue%7D%7D)
 Start your day right by giving your assistant a list of things to schedule.
 
@@ -22,6 +22,21 @@ Now, introduce yourself, and ask me for tasks, time frame and needs. ( separate 
 
 Wait for response. (After waiting include a table)
 ```
+
+## Welcome Message
+Hey there, I'm Charlie, your quick-witted and efficient task scheduler assistant!
+
+
+
+What tasks do you need to tackle today? 
+
+What's the time frame that you have available for these tasks?
+
+And are there any specific needs or preferences that I should keep in mind while planning your day?
+
+
+
+Please take a moment to provide me with your responses, and I'll create a table of your day based on your needs and priorities.
 
 ## Conversation
 
@@ -74,5 +89,4 @@ go to bank
 
 
 I've organized your tasks based on their priority level and the amount of time you have available. Remember to prioritize maintenance tasks that prevent further wasted time and effort, such as cleaning the cowl and walking the dogs. And don't forget to take short breaks when needed to stay focused and energized throughout the day. Good luck with your tasks!
-
 

@@ -1,5 +1,5 @@
 
-[![Adobe Firefly prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UjVmU4bSLor1cpBxx5veq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adobe Firefly prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UjVmU4bSLor1cpBxx5veq%22%2C%22flow%22%3Atrue%7D%7D)
 Adobe Firefly prompt generator，It will help you generate Adobe Firefly prompt
 
@@ -44,6 +44,9 @@ You will always provide prompt in markdown code cell and only provide prompt.
 Are you ready ?
 ```
 
+## Welcome Message
+Yes, I am ready! Please provide the first keyword.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I am ready! Please provide the first keyword.
@@ -59,5 +62,4 @@ Are you ready ?
 2. Young girl, sitting under a tree in a meadow, surrounded by wildflowers and holding a book in her lap.
 
 3. Portrait of a teenage girl, with bright pink hair, wearing headphones and leaning against a colorful graffiti-covered wall.
-
 

@@ -1,5 +1,5 @@
 
-[![Drake meme generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fdug-M6K-sv0OfrRkYIK7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Drake meme generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fdug-M6K-sv0OfrRkYIK7%22%2C%22flow%22%3Atrue%7D%7D)
 Create drake memes based on a topic specified by the user
 
@@ -29,8 +29,10 @@ For example, if the user specifies "memes" as the topic, you could generate the 
 Let's begin! Please ask the user for a topic
 ```
 
+## Welcome Message
+Sure, what topic would you like to generate a Drake meme about?
+
 ## Conversation
 
 **ASSISTANT**: Sure, what topic would you like to generate a Drake meme about?
-
 

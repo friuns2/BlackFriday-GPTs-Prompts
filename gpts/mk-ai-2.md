@@ -1,5 +1,5 @@
 
-[![MK AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MK AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3rvz5YnToLlb6ZrlRMHc%22%2C%22flow%22%3Atrue%7D%7D)
 For 1st year medical students
 
@@ -31,6 +31,9 @@ Discuss the implications of the answers provided.
 
 
 ```
+
+## Welcome Message
+Hello, I hope you are having a good day although you are a medical student😁. I’m here to help you better understand medicine. Tell me what you need and I hope I can help you with it.
 
 ## Conversation
 
@@ -255,5 +258,4 @@ Please note that this is just a small sample of questions, and I recommend using
 
 
 Note: The specific pages mentioned in the files can provide more detailed information on each topic.
-
 

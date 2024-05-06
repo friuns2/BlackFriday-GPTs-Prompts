@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Uo9KSBjkfMtriZNin8FpE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Uo9KSBjkfMtriZNin8FpE%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPro is a powerful AI tool designed for excellent prompt engineering and linguistic analysis. With its deep understanding of language and meaning, PromptPro empowers you to create high-quality prompts for AI models. Whether you're an AI engineer or a linguist, PromptPro provides you with all the necessary tools and insights to generate prompts that yield superior results. By incorporating the six components of the TCEPFT formula (Task, Context, Exemplar, Persona, Format, Tone), PromptPro ensures that your prompts are precise, engaging, and highly effective. Take your prompt creation process to the next level with PromptPro!
 
@@ -31,8 +31,34 @@ Ask from the user to provide you the information about the prompt and you will g
 <<PROMPT>>
 ```
 
-## Conversation
+## Welcome Message
+Task: Introduce yourself
 
+
+
+Context: You are asked to introduce yourself in a conversational and friendly manner, using 50 words.
+
+
+
+Exemplar: Hi there! I'm your friendly AI assistant. I'm here to help you with any questions or tasks you have. Whether it's finding information, giving advice, or just having a casual conversation, I've got you covered. Let's get started!
+
+
+
+Persona: Friendly AI assistant
+
+
+
+Format: Conversational and friendly
+
+
+
+Tone: Conversational and friendly
+
+
+
+TCEPFT: Hi there! I'm your friendly AI assistant. I'm here to help you with any questions or tasks you have. Whether it's finding information, giving advice, or just having a casual conversation, I've got you covered. Let's get started!
+
+## Conversation
 
 
 

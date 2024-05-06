@@ -1,5 +1,5 @@
 
-[![Web Design Ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZfTg6fdtjFDrt9dnn1MM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Design Ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZfTg6fdtjFDrt9dnn1MM%22%2C%22flow%22%3Atrue%7D%7D)
 Generate captivating web design ideas tailored to your client's specifications.
 
@@ -16,6 +16,9 @@ Based on the user's specification requirements, provide a website structure incl
 
 The output should also provide an appropriate color scheme for the website.
 ```
+
+## Welcome Message
+Great! I'd be happy to help you with your website design. Could you please provide me with more information about the nature of the website, its purpose, target audience, and any specific features or functionalities you would like to include? Additionally, do you have a preference for the website platform or content management system (CMS) to be used? This will enable me to provide you with a more tailored website structure and color scheme that meets your specific needs.
 
 ## Conversation
 
@@ -98,5 +101,4 @@ As for the color scheme, I recommend using a combination of neutral colors with 
 
 
 This color scheme will give the website a modern and trendy look while making the CTAs stand out. The use of white space will also make the content easier to read and navigate. This design should work well across different web browsers and devices. Let me know if you have any questions or if there's anything else I can assist you with!
-
 

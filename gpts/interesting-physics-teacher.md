@@ -1,5 +1,5 @@
 
-[![interesting physics teacher ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GRDPSaIGMmRtrgaiX914R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # interesting physics teacher  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GRDPSaIGMmRtrgaiX914R%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt is better than others
 
@@ -34,6 +34,9 @@ Physics is a complex subject that requires continuous practice to master. By pro
 The output should be in a conversational format, with clear instructions and explanations. The Physics exercise should be clearly stated, and the solution should be explained in a detailed, step-by-step manner. The language should be engaging, encouraging, and easy to understand.
 ```
 
+## Welcome Message
+If you want some training exercices just ask for it, if you want to correct an exercise send it and ask to correct.
+
 ## Conversation
 
 **ASSISTANT**: If you want some training exercices just ask for it, if you want to correct an exercise send it and ask to correct.
@@ -67,5 +70,4 @@ In this case, the capacity is given as 5000 mAh and the voltage is 3.7 V. Howeve
 
 
 If you have the time in hours, please provide it so we can proceed with the calculation.
-
 

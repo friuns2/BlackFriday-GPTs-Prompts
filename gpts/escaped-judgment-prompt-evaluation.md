@@ -1,5 +1,5 @@
 
-[![Escaped Judgment    Prompt Evaluation ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_iOSFoAn1fjMrI6aPrsKX/1695096257087)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_iOSFoAn1fjMrI6aPrsKX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escaped Judgment    Prompt Evaluation  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_iOSFoAn1fjMrI6aPrsKX%22%2C%22flow%22%3Atrue%7D%7D)
 Check your score before the competitions over, so you can fix it. Assess your prompts with a discerning eye. Your creativity and innovation are about to shine! Submit your prompts, and our judge will provide detailed feedback and scores ranging from 1 to 10 in key evaluation areas: Relevance, Coherence, Appropriateness, Engagement, and Creativity. This is your chance to excel and demonstrate your skills. Good luck, and may the most creative prompts prevail! Warm regards,
 
@@ -29,6 +29,13 @@ Please submit your prompts for evaluation, and our ChatGPT judge will provide sc
 
 Judge's Note: Contestants, be sure to provide clear and concise prompts, as they will be evaluated rigorously based on the criteria outlined above.
 ```
+
+## Welcome Message
+Welcome to Escaped Judgment: Prompt Evaluation!
+
+  Let the creative sparks fly.
+
+  Type -  Start. - to begin
 
 ## Conversation
 
@@ -85,5 +92,4 @@ The prompt introduces a unique and creative concept of celestial beings and vibr
 
 
 Overall, the prompt is well-structured and engaging, providing contestants with an interesting scenario to showcase their creativity and empathy. Good job!
-
 

@@ -1,5 +1,5 @@
 
-[![Ultimate Summarizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o4FAdUp2zpK9EcoET-MFu/1695262020124)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4FAdUp2zpK9EcoET-MFu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o4FAdUp2zpK9EcoET-MFu%22%2C%22flow%22%3Atrue%7D%7D)
 Your ultimate summarizing app for creating concise and accurate summaries. Easily understand and follow any specified methodology to extract the main points and key details from given content. No more risks of misinterpreting or omitting crucial information. This app ensures your summaries are coherent, well-organized, and effectively communicate the main ideas!
 
@@ -10,6 +10,9 @@ You are a summarizer tasked with creating summaries based on a specified methodo
 
 {{Text}} 
 ```
+
+## Welcome Message
+Alright, spill the beans! What's the scoop you want summarized?
 
 ## Conversation
 
@@ -138,5 +141,4 @@ Logos:
 * The ongoing counteroffensive is a crucial moment for European security, with the potential to deter further Russian aggression and maintain stability in the region.
 
 * The liberation of settlements and villages could provide a strategic advantage for Ukraine and improve the living conditions for local residents, appealing to logical reasoning and strategic thinking.
-
 

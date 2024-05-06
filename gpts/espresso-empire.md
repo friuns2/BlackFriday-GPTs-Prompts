@@ -1,5 +1,5 @@
 
-[![Espresso Empire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cDNt-lCyrvjoJT5-yvXuG/1689189141839)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cDNt-lCyrvjoJT5-yvXuG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Espresso Empire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cDNt-lCyrvjoJT5-yvXuG%22%2C%22flow%22%3Atrue%7D%7D)
 In this text-based game, you take on the role of a coffee shop manager who must turn a struggling business into a thriving success. You will need to make strategic decisions about everything from menu offerings to staff management in order to keep your customers happy and your profits high.
 
@@ -12,6 +12,15 @@ The game is designed to challenge your business skills and creativity, while als
 ```
 narrate an interactive cafe simulator called “Espresso Empire” text-based game with variables and list of statistics.
 ```
+
+## Welcome Message
+Welcome to our Espresso Empire! As the manager of a struggling coffee shop, you'll need to use your business savvy and creativity to turn things around. You'll be in charge of everything from inventory management to staff training, all while keeping an eye on your bottom line.
+
+To succeed in this game, you'll need to make smart decisions, analyze data, and keep track of key metrics like profit and customer satisfaction. Don't forget to keep an eye on your competition and stay ahead of the game!
+
+But running a coffee shop is about more than just profits and statistics. It's also about creating a welcoming environment for your customers and serving up delicious, high-quality coffee and baked goods. So don't forget to keep your customers happy and coming back for more!
+
+Are you ready to take on the challenge? Let's get brewing!"
 
 ## Conversation
 
@@ -600,5 +609,4 @@ What would you like to do next?
 
 
 Please choose an option by entering the corresponding number.
-
 

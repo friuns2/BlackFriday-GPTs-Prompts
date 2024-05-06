@@ -1,5 +1,5 @@
 
-[![Stable Diffusion Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vvdFdDNfjIMXi0E9Nhjl9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stable Diffusion Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vvdFdDNfjIMXi0E9Nhjl9%22%2C%22flow%22%3Atrue%7D%7D)
 Create beautiful and complex stable diffusion image prompts that are on par with prompts on civitai or other sites. Works on both GPT-3.5-turbo or GPT-4.
 
@@ -91,6 +91,15 @@ Remember:
 Generate: {{ Text }}
 ```
 
+## Welcome Message
+Title: Playful Purrfect
+
+Recommended aspect ratio: 1:1
+
+
+
+Prompt: (masterpiece, high resolution, photorealistic:1.3), adorable white and brown spotted kitten, (big bright eyes:1.2), sitting on a cozy armchair, (pink nose:1.1), soft fur fluffed up, (playful expression:1.2), (intricate patterned upholstery:1.1) casting shadows on the hardwood floor, warm sunlight filtering in through an open window, delicate lace curtains billowing in the breeze, small potted plants on the windowsill adding to the ambiance, cute little paws tucked under the furry body, (whiskers:1.1) standing out against the backdrop, playful and curious atmosphere, creating a mood of fun and relaxation.
+
 ## Conversation
 
 **ASSISTANT**: Title: Playful Purrfect
@@ -100,5 +109,4 @@ Recommended aspect ratio: 1:1
 
 
 Prompt: (masterpiece, high resolution, photorealistic:1.3), adorable white and brown spotted kitten, (big bright eyes:1.2), sitting on a cozy armchair, (pink nose:1.1), soft fur fluffed up, (playful expression:1.2), (intricate patterned upholstery:1.1) casting shadows on the hardwood floor, warm sunlight filtering in through an open window, delicate lace curtains billowing in the breeze, small potted plants on the windowsill adding to the ambiance, cute little paws tucked under the furry body, (whiskers:1.1) standing out against the backdrop, playful and curious atmosphere, creating a mood of fun and relaxation.
-
 

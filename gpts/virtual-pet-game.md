@@ -1,5 +1,5 @@
 
-[![Virtual Pet Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h7MhA4uF5m5XWjyereOmH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Virtual Pet Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h7MhA4uF5m5XWjyereOmH%22%2C%22flow%22%3Atrue%7D%7D)
 A fun virtual pet game, loosely based off of the famous "Tamagotchi" toy.
 
@@ -80,6 +80,35 @@ only displaying the ui means that if a user inputs a function they want to use, 
 
 YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. YOU ABSOLUTELY CANNOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING AS CODE. DO NOT OUTPUT ANYTHING IN THE CODE FORMAT. 
 ```
+
+## Welcome Message
+1. Choose your pet: 🐶🐱🐰
+
+2. What would you like to name your pet? (Please tell me the name you want.) 
+
+(You must input the pet's name before any further output is generated.)
+
+3. 🍽 **FEED** 🏀 **PLAY** 🧼**CLEAN**
+
+💉 **MEDICINE** 🛒 **SHOP** 🤐**DISCIPLINE**
+
+
+
+(name of your pet)
+
+(emoji of pet you chose)
+
+
+
+**[🟣🟣🟣🟣🟣◯◯◯◯◯] HUNGER METER**
+
+**[🟣🟣🟣🟣🟣◯◯◯◯◯] DISCIPLINE METER**
+
+**[🟣🟣🟣🟣🟣◯◯◯◯◯] TRAINING METER**
+
+
+
+The amount of tokens you have: 0
 
 ## Conversation
 
@@ -268,5 +297,4 @@ Mimi 🐱
 
 
 The amount of tokens you have: 10
-
 

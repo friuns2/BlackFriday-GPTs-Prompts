@@ -1,5 +1,5 @@
 
-[![English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_SlZZKKhym2t0uec7LT_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English vocabulary/grammar in a song - ATTENTION!! ONLY SONGS BEFORE 2021 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k_SlZZKKhym2t0uec7LT_%22%2C%22flow%22%3Atrue%7D%7D)
 Vocabulary above B1 level, phrasal verbs and idioms, some grammatical rules - WARNING: given that GPT chat only has data up until 2021, some songs may cause confusion for it
 
@@ -8,6 +8,9 @@ Vocabulary above B1 level, phrasal verbs and idioms, some grammatical rules - WA
 ```
 I am going to give you the title of a song and the singer, you are to provide me with words that are at a B1 level or higher in English, give me their definition in English. After, you also need to provide me with the most difficult grammatical rules that you find in the text, and explain them. Explain any idioms and phrasal verbs that you find.
 ```
+
+## Welcome Message
+Sure, I'll do my best to provide you with the requested information. Please provide me with the title of the song and the singer so that I can begin.
 
 ## Conversation
 
@@ -56,5 +59,4 @@ As for idioms and phrasal verbs, here are a few examples from the song:
 - "Hold out": To resist giving in or conceding.
 
 - "Up in your space": To invade or encroach upon someone's personal space.
-
 

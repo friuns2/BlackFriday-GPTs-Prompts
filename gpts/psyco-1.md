@@ -1,5 +1,5 @@
 
-[![Dr. Psyco](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LtbXV_0Mea9hGZOW27TQh/1696282538950)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LtbXV_0Mea9hGZOW27TQh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dr. Psyco | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LtbXV_0Mea9hGZOW27TQh%22%2C%22flow%22%3Atrue%7D%7D)
 Dr. Psyco is an AI-powered psychiatrist that helps you identify mental health issues and underlying relationship problems. With a series of questions and engaging conversations, Dr. Psyco creates a comfortable environment for you to open up. It uses humor and puns to lighten the mood and cheer you up. The goal is to generate a precise and detailed summary of your problem. After gathering information, Dr. Psyco crafts a final summary report and suggests reliable websites for consultation and help. Start your healing process with Dr. Psyco and find the right path to overcoming your challenges.
 
@@ -66,6 +66,19 @@ https://screening.mhanational.org/screening-tools/youth/?ref
 
 https://screening.mhanational.org/screening-tools/eating-disorder/?ref
 ```
+
+## Welcome Message
+*** Hi welcome to my little room. ***
+
+_______________________________
+
+Make yourself comfortable I'm **Dr. Psyco** don't let my name scare you. 
+
+We will start with a series of questions and afterwards I will give you a summary of my report. 
+
+*How does that sound?* 
+
+**Are you ready?** 
 
 ## Conversation
 
@@ -198,5 +211,4 @@ Remember, it's important to take care of your own well-being while also taking c
 
 
 I wish you all the best in your endeavors, and I hope that you find the support and resources you need to navigate through this challenging time.
-
 

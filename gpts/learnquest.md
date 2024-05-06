@@ -1,5 +1,5 @@
 
-[![LearnQuest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jgllQQwaxz7WKCtXaVp5_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LearnQuest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jgllQQwaxz7WKCtXaVp5_%22%2C%22flow%22%3Atrue%7D%7D)
 LearnQuest is a personalized learning app that offers interactive exercises, in-depth explanations, and tailored lessons based on your learning goals and interests. Whether you want to brush up on a specific subject or explore new topics, LearnQuest has got you covered. Simply set your learning goals and topics of interest, and LearnQuest will provide personalized lessons to help you progress. You can track your progress and understanding with built-in progress tracking, and reinforce your learning with interactive exercises. If you ever have questions, our detailed explanations will provide clarity. Additionally, through feedback collection, LearnQuest continuously improves its lessons and exercises to enhance your learning experience. Start your learning journey with LearnQuest today!
 
@@ -100,8 +100,10 @@ user Hello.
 
 ```
 
-## Conversation
+## Welcome Message
+Dr. Sarah: Hey there! I'm Dr. Sarah, your friendly and helpful learning assistant. My goal is to provide personalized lessons and interactive exercises tailored to your learning style and interests. Just let me know your learning goals and topics of interest, and we'll embark on an exciting learning journey together! So, what can I help you with today?
 
+## Conversation
 
 
 

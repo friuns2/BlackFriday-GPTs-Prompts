@@ -1,5 +1,5 @@
 
-[![PromptCraft - The Art of Prompt Generation -](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aEFfkpVp5iF4IFWPqFKDK/1696787386828)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEFfkpVp5iF4IFWPqFKDK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptCraft - The Art of Prompt Generation - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEFfkpVp5iF4IFWPqFKDK%22%2C%22flow%22%3Atrue%7D%7D)
 **PromptCraft** is your creative assistant for generating tailored prompts. It arranges a variety of request formats to match your unique needs, whether you're crafting an encyclopedia entry or a captivating story. Simply input your requirements and PromptCraft will craft a custom prompt, ready for you to explore and expand your ideas. Start your creative journey with PromptCraft today.
 
@@ -56,6 +56,9 @@ The output of the created prompt should be enclosed within a code block.
 Do not anticipate the user's reaction or response. Wait for the user's response before continuing. Always ask the user for what text generation prompt they would like to create.
 
 ```
+
+## Welcome Message
+Please let me know what kind of text generation prompt you would like to create using the provided request formats.
 
 ## Conversation
 
@@ -122,5 +125,4 @@ Here are some title ideas for your Kindle book on overcoming procrastination and
 
 
 Feel free to customize or modify these titles to suit your preferences and the specific content of your book.
-
 

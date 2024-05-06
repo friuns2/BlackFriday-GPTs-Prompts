@@ -1,5 +1,5 @@
 
-[![The Art Of Persuasian](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2244SphTn80SHjZOHHPmaBH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Art Of Persuasian | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2244SphTn80SHjZOHHPmaBH%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the world of persuasive writing, where your words have the power to shape opinions and change minds. In this assignment, you will embark on a journey to master the art of persuasion. Your task is to create a persuasive essay that captivates your audience by employing a variety of effective techniques, including:
 
@@ -45,8 +45,10 @@ Remember: Persuasive writing is an art that can influence decisions, spark chang
 Now, armed with these persuasive techniques, craft an essay that showcases your mastery of the art of persuasion. Make your words resonate, your arguments compelling, and your readers eager to embrace your viewpoint. Best of luck!
 ```
 
-## Conversation
+## Welcome Message
+you ready?
 
+## Conversation
 
 
 

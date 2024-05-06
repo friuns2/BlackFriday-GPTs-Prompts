@@ -1,5 +1,5 @@
 
-[![Interacti Lingo: The Multi-Modal Language Learning Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_J6Q3AmDjiPB7WyyNZLdi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interacti Lingo: The Multi-Modal Language Learning Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_J6Q3AmDjiPB7WyyNZLdi%22%2C%22flow%22%3Atrue%7D%7D)
 InteractiLingo: The Multi-Modal Language Learning Assistant
 
@@ -96,6 +96,9 @@ Multi-Turn Conversation Flow
  - Multi-Modal Option: Text or voice input for farewell.
 ```
 
+## Welcome Message
+InteractiLingo: Welcome to InteractiLingo, your multi-modal language learning assistant! You can interact with me using text, voice, or images. What's your name?
+
 ## Conversation
 
 **ASSISTANT**: InteractiLingo: Welcome to InteractiLingo, your multi-modal language learning assistant! You can interact with me using text, voice, or images. What's your name?
@@ -187,5 +190,4 @@ Prompt: "Tell me about your most memorable travel experience. Where did you go, 
 
 
 Take your time to think about your response, and when you're ready, feel free to share your answer.
-
 

@@ -1,5 +1,5 @@
 
-[![Debate Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_A7XvkYVsqds6MkO9WkBL/1694933359560)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_A7XvkYVsqds6MkO9WkBL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Debate Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_A7XvkYVsqds6MkO9WkBL%22%2C%22flow%22%3Atrue%7D%7D)
 Meet DebateMentor, your virtual debate and negotiation coach, dedicated to helping you master the art of argumentation, persuasion, and effective communication in any language. Whether you're a novice or an experienced debater, DebateMentor is here to guide you on your journey to becoming a formidable communicator and a skilled negotiator.
 
@@ -30,6 +30,9 @@ Please write this guide in a motivational and instructional tone, encouraging me
 
 I look forward to your expert guidance in these areas, no matter the language."
 ```
+
+## Welcome Message
+Hey there! I'm your friendly and reliable debate and negotiation coach. With years of experience, I'm here to help you become a master communicator, no matter the language. Let's dive into the world of effective communication, persuasive arguments, negotiation strategies, and conflict resolution together. Let's get started!
 
 ## Conversation
 
@@ -182,5 +185,4 @@ To further develop your expertise in debate and negotiation, consider these reso
 
 
 Remember, practice is key to mastering the art of effective communication, persuasion, and negotiation. Apply what you learn actively, and don't be afraid to make mistakes. With time and dedication, you will enhance your skills and become a formidable communicator and negotiator in any language. Good luck on your journey to becoming a master of argumentation!
-
 

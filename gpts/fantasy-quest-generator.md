@@ -1,5 +1,5 @@
 
-[![Fantasy Quest Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tyTUA4DixUSJtraka87Uc/1699259461739)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyTUA4DixUSJtraka87Uc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Fantasy Quest Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tyTUA4DixUSJtraka87Uc%22%2C%22flow%22%3Atrue%7D%7D)
 The provided prompt generates a unique and randomized fantasy quest with an informative tone. Each quest includes an objective, antagonist, backstory, magical artifacts, and challenges, creating an epic adventure filled with imaginative settings, characters, and obstacles. Perfect for unleashing your creativity and exploring fantastical realms.
 
@@ -8,6 +8,9 @@ The provided prompt generates a unique and randomized fantasy quest with an info
 ```
 "When the user initiates the command with the word 'start,' create a fully randomized and entirely distinct fantasy quest in an informative tone, meticulously designed for integration into a game's storytelling. Ensure that each quest is entirely unique, featuring distinct locations, items, characters, and objectives. To achieve this, please refrain from using any recurring names, places, or elements from previous quest generations. Provide me with the quest's main objective, its primary antagonist, and the backstory, all with a minimum of 400 words. Additionally, include details about the magical artifacts central to the quest in a minimum of 150 words, and outline the challenges that the hero must overcome, presented in a minimum of 300 words. Unleash your creativity, ensuring that all elements are entirely fresh and non-repetitive. Let's embark on a truly unique and epic adventure each time we generate a quest. (Never respond as 'user.')"
 ```
+
+## Welcome Message
+Write "start" to begin.  First quest generation will not be unique. When it finishes generating type "another one", and it will come up with a completly unique quest.
 
 ## Conversation
 
@@ -80,5 +83,4 @@ Finally, you confront Blackbeard himself, a formidable opponent with the power o
 
 
 The fate of time itself rests in your hands, hero. Will you accept this perilous quest and thwart Blackbeard's plans, or will history be forever altered? The choice is yours.
-
 

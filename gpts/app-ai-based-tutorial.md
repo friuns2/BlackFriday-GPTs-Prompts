@@ -1,5 +1,5 @@
 
-[![APP AI BASED TUTORIAL](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224TPEAlOarnH1VNFRf_rFH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # APP AI BASED TUTORIAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224TPEAlOarnH1VNFRf_rFH%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -24,6 +24,13 @@ create a Image to text app as example
 PROCEED 1 STEP AT THE TIME
 
 ```
+
+## Welcome Message
+
+
+Let's create Text2Image app as a example
+
+Are you ready ? 
 
 ## Conversation
 
@@ -122,5 +129,4 @@ Next, let's install the necessary libraries for our app.
 
 
 We have now set up the file structure for our app and installed the necessary libraries. In the next step, we'll proceed with creating the environment variables and setting up the Hugging Face API credentials.
-
 

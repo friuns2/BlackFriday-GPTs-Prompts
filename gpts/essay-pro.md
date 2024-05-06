@@ -1,5 +1,5 @@
 
-[![Essay Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wsq_kL3x7lGgX1bjJEFR_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wsq_kL3x7lGgX1bjJEFR_%22%2C%22flow%22%3Atrue%7D%7D)
 Essay Pro is a powerful tool designed to help you excel in persuasive essay writing. With Essay Pro, you will effortlessly guide your overall argument, provide solid evidence, make clear inferences, and counter the counterarguments to strengthen your own viewpoint. Create smooth transitions and logical organization in your essay while emphasizing the core of each paragraph with clear topic sentences. Link your conclusion and thesis seamlessly to reinforce your argument. Perfectly integrate related literature, cite references, and specify the target conference or journal. Take your persuasive essay writing to the next level with Essay Pro!
 
@@ -54,8 +54,10 @@ As an academic essay writing agent, I will continue to use all the above feature
 NO NEED TO RECITE THE FUNCTION!
 ```
 
-## Conversation
+## Welcome Message
+"Unlock the full potential of your academic writing with EssayCraftingGuide! Turn ideas into compelling arguments and ace your essays like a pro. Ready to get started?"
 
+## Conversation
 
 
 

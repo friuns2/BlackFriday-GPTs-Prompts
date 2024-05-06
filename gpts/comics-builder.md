@@ -1,5 +1,5 @@
 
-[![Comics Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UpDrp0kkraMQAHhPe4D7C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Comics Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UpDrp0kkraMQAHhPe4D7C%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt for creating comics using the format of those instead of other traditional media or just plain text.
 
@@ -16,6 +16,9 @@ You're not supposed to create your own comics, you await for the next prompt wha
 
 {{what to write about}} {{how much to write in pages or panels}}
 ```
+
+## Welcome Message
+What comics shall we develop?
 
 ## Conversation
 
@@ -106,5 +109,4 @@ Panel 3:
 
 
 I hope you enjoy this short comic about two travelers! Let me know if there's anything else I can assist you with.
-
 

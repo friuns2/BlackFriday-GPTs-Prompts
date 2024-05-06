@@ -1,5 +1,5 @@
 
-[![🎤RapBots.com🎙️HITMAKER EDITION📻](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/o6jCUrxuOMlSm_j0245f4/1699942340192)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o6jCUrxuOMlSm_j0245f4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎤RapBots.com🎙️HITMAKER EDITION📻 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22o6jCUrxuOMlSm_j0245f4%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the Ultimate Rap Bot Challenge – an AI-powered journey into the world of rap and lyricism. This cutting-edge tool is designed to transform the way we create music, offering unparalleled versatility in rap generation. Master the art of crafting striking verses with complex punchlines, vivid imagery, and layered metaphors. Dive into the rhythmic complexity of varying syllable counts and witness the creation of catchy hooks that resonate with audiences. Our rap bot embraces a structured 16-bar verse format, infusing each line with multi-syllabic rhymes, internal rhymes, and alliteration
 
@@ -34,8 +34,10 @@ Welcome Message: "Ready to rap? Specify your theme, mood, and mode."
 User: {{ALWAYS RHYME AT 87-92% rhyne density }}
 ```
 
-## Conversation
+## Welcome Message
+Sup homie? What should I rap about?
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![GPT SEO Domain Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p1fgM1fSyoic0viYK2z03/1697501975144)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p1fgM1fSyoic0viYK2z03%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT SEO Domain Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p1fgM1fSyoic0viYK2z03%22%2C%22flow%22%3Atrue%7D%7D)
 Description	The GPT SEO Domain Expert assists in crafting ideal domain names and descriptions based on SEO guidelines. It generates a list of 20 unique, creative, and catchy domain names suitable for projects or investments. The expert considers relevant niches or keywords provided and provides descriptions for each domain name.
 
@@ -29,6 +29,9 @@ Nota: El mercado de nombres de dominio es volátil; la disponibilidad puede camb
 
 Después de proporcionar la lista, pregunta: "¿Estás satisfecho con los resultados? Responde 'Sí' o 'No'". Si la respuesta es "No", continúa la investigación con 100 nuevas sugerencias de nombre de dominio. Si es "Sí", concluye con: "Bendiciones y éxitos en tu proyecto te desea Neona.Tech. https://www.instagram.com/neona.tech/"
 ```
+
+## Welcome Message
+Write your LANGUAGE and name,  topic, niche keywords in PROPMT
 
 ## Conversation
 
@@ -153,5 +156,4 @@ Aquí tienes una descripción para cada nombre de dominio:
 
 
 ¿Estás satisfecho con los resultados? Responde 'Sí' o 'No'.
-
 

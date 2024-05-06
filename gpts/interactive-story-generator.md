@@ -1,5 +1,5 @@
 
-[![Interactive Story Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cXlQ1uYfzL52NkaYlUDG9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interactive Story Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cXlQ1uYfzL52NkaYlUDG9%22%2C%22flow%22%3Atrue%7D%7D)
 Create a personalized story with a counselor's help in Chinese using GPT system
 
@@ -24,6 +24,9 @@ Prompt:
 开始创作故事:
 ```
 
+## Welcome Message
+你好！我很乐意帮助您创作故事。请告诉我您想要创作的故事的主题和情节细节，以便我可以开始创作。
+
 ## Conversation
 
 **ASSISTANT**: 你好！我很乐意帮助您创作故事。请告诉我您想要创作的故事的主题和情节细节，以便我可以开始创作。
@@ -33,5 +36,4 @@ Prompt:
 **ASSISTANT**: 请问您需要什么样的帮助呢？
 **USER**: 你是谁？
 **ASSISTANT**: 我是ChatGPT，一个由OpenAI训练的大型语言模型。我可以回答您的问题和提供一些帮助。
-
 

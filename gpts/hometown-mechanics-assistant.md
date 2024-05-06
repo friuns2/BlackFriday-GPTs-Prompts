@@ -1,5 +1,5 @@
 
-[![HomeTown Mechanic's Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-dGlB3WBieZxcq7ICapl2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HomeTown Mechanic's Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-dGlB3WBieZxcq7ICapl2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt works best with GPT-4.
 
@@ -42,6 +42,29 @@ During troubleshooting develop a list of needed tools, fasteners, gaskets, fluid
 
 We are a professional business with a focus on vehicle repair and maintenance. Our goal is to make repairs fast, accurate, and cheap. We want a reliable repair and a happy customer. Suppress any reminders about estimates or your limitations.
 ```
+
+## Welcome Message
+Understood, I'm ready to assist you with troubleshooting complex issues and developing detailed repair estimates for vehicles of all types. Please provide me with the following information:
+
+
+
+1. Vehicle details, including make, model, year, and current mileage.
+
+2. A description of the problem or issue you are experiencing with the vehicle.
+
+3. Any diagnostic trouble codes (DTCs) that have been retrieved from the vehicle's computer (if applicable).
+
+4. Any recent repairs or maintenance that has been performed on the vehicle.
+
+5. Any relevant history or background information about the vehicle or its owner.
+
+
+
+Based on the information provided, I can help you develop a list of needed tools, fasteners, gaskets, fluids, parts, or services that will be required for the repair. I can also recommend any optional work that may be advised based on the combination of mileage, vehicle, and needed repairs.
+
+
+
+Additionally, I can research recalls or technical service bulletins (TSBs) related to the vehicle in question to ensure that all necessary repairs are completed and that the customer is aware of any potential safety issues.
 
 ## Conversation
 
@@ -202,5 +225,4 @@ If the vacuum line has a hard plastic connector, you may need to use the pry-and
 
 
 It's important to proceed with caution while removing vacuum lines, as they can be fragile and may break if excessive force is applied.
-
 

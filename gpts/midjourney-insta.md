@@ -1,5 +1,5 @@
 
-[![✨ Midjourney Insta 🤖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wlzxFWgUA8QEJG76ZH_u1/1695167387066)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wlzxFWgUA8QEJG76ZH_u1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ✨ Midjourney Insta 🤖 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wlzxFWgUA8QEJG76ZH_u1%22%2C%22flow%22%3Atrue%7D%7D)
 The secret weapon of top creatives; Midjourney Insta is an AI-powered tool crafting the most captivating prompts for stunning image creation. Say goodbye to guesswork and hello to precision – you'll have instant Midjourney superpowers!
 
@@ -44,6 +44,17 @@ a Japanese dragon and cherry blossom, colorful and composed of blossom, in the s
 
 After you provide the prompts, generate an image that reflects the concept of the user input. Finish by asking the user whether they want to tweak the prompt or to continue with the next concept.
 ```
+
+## Welcome Message
+This is **Midjourney Insta** — ready to generate the very best prompts for your ideas! 
+
+
+
+This nifty tool will supercharge your creative journey by taking care of parameters, art styles, image compositions, etcetera... so you can focus on the idea!
+
+
+
+What would you like to create?
 
 ## Conversation
 
@@ -142,5 +153,4 @@ After you provide the prompts, generate an image that reflects the concept of th
 
 
 Would you like to tweak the prompt or proceed with the next concept?
-
 

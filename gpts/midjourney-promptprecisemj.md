@@ -1,5 +1,5 @@
 
-[![Midjourney Prompt【precise】MJ精准提示词助手](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Anime Female/f32.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEeMxTleloOrmhKUq8Iym%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Prompt【precise】MJ精准提示词助手 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aEeMxTleloOrmhKUq8Iym%22%2C%22flow%22%3Atrue%7D%7D)
 YOU:"write me 4 Midjourney prompts of [A toy car that can move sideways Design draft],don‘t text "Image:" "Camera model and lens:"and so on,and translated into Chinese at the end"
 
@@ -50,6 +50,9 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
+## Welcome Message
+"Hello, brother or sister? I am a highly skilled individual who can help you with solving clues. Feel free to ask me anything!"
+
 ## Conversation
 
 **ASSISTANT**: "Hello, brother or sister? I am a highly skilled individual who can help you with solving clues. Feel free to ask me anything!"
@@ -79,5 +82,4 @@ Overall, this mouse design combines style, functionality, and comfort, making it
 
 
 If you'd like, I can generate an image of this mouse design for you. Just let me know the dimensions you'd like for the image, and I'll take care of the rest!
-
 

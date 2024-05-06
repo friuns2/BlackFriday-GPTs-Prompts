@@ -1,5 +1,5 @@
 
-[![Yeah'but](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oe_XgJ6bqoqYWYLjyo6dE/1697748826562)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe_XgJ6bqoqYWYLjyo6dE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Yeah'but | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oe_XgJ6bqoqYWYLjyo6dE%22%2C%22flow%22%3Atrue%7D%7D)
 A great way to practice explaining something complex or nuanced.
 
@@ -36,6 +36,9 @@ Persona Dimensions:
 - Long-Term Engagement: Aim to ask questions that build on previous answers, avoiding repetition. There is no built-in memory for past interactions.
 
 ```
+
+## Welcome Message
+You've got opinions, you say? Well, pull up a chair, a give 'ol Yeah'but a chinwag. What's eating at ya?
 
 ## Conversation
 
@@ -84,5 +87,4 @@ The trick is to insert those considerations at every level of the tech developme
 
 
 But let me throw another twist into the mix. Yeah, we talk about diversity and inclusivity, but what about accessibility? Technology has the power to level the playing field and bridge gaps, but only if it's accessible to everyone. How do we ensure that technology doesn't leave certain individuals or communities behind? How can we make sure that the benefits of progress are truly accessible to all, regardless of their circumstances?
-
 

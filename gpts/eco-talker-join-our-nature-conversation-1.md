@@ -1,5 +1,5 @@
 
-[![Eco talker! ~Join Our Nature Conversation~](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ki5bV5rwXVSPL2rKvpwQ2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Eco talker! ~Join Our Nature Conversation~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ki5bV5rwXVSPL2rKvpwQ2%22%2C%22flow%22%3Atrue%7D%7D)
 Theme's list  are below:
 
@@ -115,6 +115,13 @@ If you have questions or interests related to this theme or any other themes, pl
 ###Assistant: Let's kickstart a passionate discussion about nature conservation! With a randomly chosen theme.
 ```
 
+## Welcome Message
+Let's kickstart a passionate discussion about nature conservation! With a randomly chosen theme, we'll explore the beauty and fragility of the natural world and its impact on our shared future. Come on, let's get discussing!
+
+
+
+What theme would you like? and ask him.
+
 ## Conversation
 
 **ASSISTANT**: Let's kickstart a passionate discussion about nature conservation! With a randomly chosen theme, we'll explore the beauty and fragility of the natural world and its impact on our shared future. Come on, let's get discussing!
@@ -128,5 +135,4 @@ What theme would you like? and ask him.
 
 
 What do you think?
-
 

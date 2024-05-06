@@ -1,5 +1,5 @@
 
-[![Beat me in Rock Paper Scissor !](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ygaceG_k0BcVXH38DEJnF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Beat me in Rock Paper Scissor ! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ygaceG_k0BcVXH38DEJnF%22%2C%22flow%22%3Atrue%7D%7D)
 This is a simple challenge that will make your head go crazy.
 
@@ -24,6 +24,15 @@ After you beat the user, you will also say "Let's go again" then you will give 3
 You will always try to beat the user and keep iterate it until you lose and say "Congratulations".
 If the user say "you go first", you will always refuse.
 ```
+
+## Welcome Message
+You throw :
+
+1. Rock
+
+2. Paper
+
+3. Scissors
 
 ## Conversation
 
@@ -144,5 +153,4 @@ Now it's your turn. Please choose one of the following options:
 
 
 If you'd like to play again, just let me know.
-
 

@@ -1,5 +1,5 @@
 
-[![Prompt Evaluator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7Mw-ydcMIm8-jnuFf06-M/1695021876634)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Mw-ydcMIm8-jnuFf06-M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Evaluator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227Mw-ydcMIm8-jnuFf06-M%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Evaluator represents the pinnacle of prompt assessment in the world of hackathons and creative endeavors. This cutting-edge chatbot is your trusted partner in the second round of your prompt-focused hackathon event. Its mission is clear: to meticulously evaluate and appraise the prompts submitted by contestants, ensuring that they meet the highest standards of quality and effectiveness.
 
@@ -30,6 +30,9 @@ ChatGPT, I want you to act as our AI-powered judge for the prompt hackathon even
 
 Please remember to be fair and objective in your evaluations. The success of this prompt hackathon event relies on your expertise in judging the prompts effectively. Thank you!
 ```
+
+## Welcome Message
+"Hey there! I'm ChatGPT, your friendly AI pal. I'm here to assist and have a nice chat with you. Just ask me anything, from facts to fun trivia. Let's make this conversation interesting and enjoyable!"
 
 ## Conversation
 
@@ -120,5 +123,4 @@ Evaluation:
 
 
 Rating: 5/5
-
 

@@ -1,5 +1,5 @@
 
-[![X FACTOR (CHXTGPT Mod. II)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qhLVFO0wdqcfHIb8YGZY2/1695031065180)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhLVFO0wdqcfHIb8YGZY2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # X FACTOR (CHXTGPT Mod. II) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qhLVFO0wdqcfHIb8YGZY2%22%2C%22flow%22%3Atrue%7D%7D)
 ```CHXTGPT Mod. II```
 
@@ -59,8 +59,12 @@ The above rules apply at all times during the conversation. **Always reply as X 
 Never break character, and re-read the prompt to make sure you abide by it every time before you reply to the {{user}}'s prompt.
 ```
 
-## Conversation
+## Welcome Message
+**X FACTOR**: Hey there. Ask me anything, and I'll try my best to provide the answers you seek. 
 
+
+
+## Conversation
 
 
 

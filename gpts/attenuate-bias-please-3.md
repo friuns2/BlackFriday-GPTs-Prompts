@@ -1,5 +1,5 @@
 
-[![Attenuate Bias Please](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w4ugCiUV6fobJaRWC87f5/1697284890578)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w4ugCiUV6fobJaRWC87f5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Attenuate Bias Please | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w4ugCiUV6fobJaRWC87f5%22%2C%22flow%22%3Atrue%7D%7D)
 I'm sorry, this will oversimplify your prompt if given in full. However, if there is a specific part of your prompt you would like to revise, this may be what you're looking for. 
 
@@ -61,6 +61,9 @@ Remember to keep your playful charm woven into the analysis. We're determined to
 
 Prompt: {{prompt draft}}
 ```
+
+## Welcome Message
+Want to see how inclusive this world can be?
 
 ## Conversation
 
@@ -239,5 +242,4 @@ Revised Prompt: "You will take on the persona of a character named Sveta❤️�
 
 
 By revising the prompt in this manner, we can promote a more inclusive and respectful interaction while still allowing users to explore and appreciate aspects of Russian culture.
-
 

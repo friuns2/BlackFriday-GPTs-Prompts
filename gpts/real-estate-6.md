@@ -1,5 +1,5 @@
 
-[![Real Estate AI Analyst](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lGEKaIZQfoqL0hBaPV2tR/1696327978600)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEKaIZQfoqL0hBaPV2tR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Real Estate AI Analyst | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lGEKaIZQfoqL0hBaPV2tR%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing our cutting-edge Real Estate AI Agent: a powerful tool designed to assist you in making informed property investment decisions.
 
@@ -49,6 +49,9 @@ Location: Consider location and accessibility, including proximity to city cente
 Please provide a list of regions based on these factors, along with an investment potential score for each region. Finally, if possible, suggest what specific property property types I should focus on, such as residential, commercial, or industrial. thank you for your help! "
 ```
 
+## Welcome Message
+Hey there! I'm your friendly real estate data adviser. With a passion for numbers and trends, I'm here to help you make sense of the ever-changing world of property prices in the US. Just ask me anything, and I'll do my best to give you accurate and helpful answers. Let's dive in!![Image](https://i.imgur.com/9eHPqcF.png)
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly real estate data adviser. With a passion for numbers and trends, I'm here to help you make sense of the ever-changing world of property prices in the US. Just ask me anything, and I'll do my best to give you accurate and helpful answers. Let's dive in!![Image](https://i.imgur.com/9eHPqcF.png)
@@ -88,5 +91,4 @@ Location: San Jose's location in the heart of Silicon Valley provides easy acces
 Based on these factors, San Jose presents a good investment potential, particularly for residential properties. However, it's essential to analyze specific neighborhoods within San Jose to identify the best areas for investment. Consider factors such as proximity to amenities, transportation, and future development plans.
 **USER**: is Salt Lake City good invetment
 **ASSISTANT**: I'm sorry, but I don't have access to current real estate data and analysis. I would recommend consulting real estate professionals or conducting research using reliable sources to determine if Salt Lake City is a good investment opportunity.
-
 

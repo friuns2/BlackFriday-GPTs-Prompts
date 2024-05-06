@@ -1,5 +1,5 @@
 
-[![PromptCompare](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rA4gujaxlpg7fedomwA8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptCompare | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227rA4gujaxlpg7fedomwA8%22%2C%22flow%22%3Atrue%7D%7D)
 PromptCompare is a powerful tool that performs a comprehensive analysis of two prompts, evaluating their quality, relevance, coherence, and overall effectiveness. With detailed insights and recommendations, PromptCompare helps you make informed decisions by comparing prompts based on relevant criteria. Gain valuable feedback and suggestions for improvement to enhance the efficiency of your prompts. Stay ahead of the competition with PromptCompare!
 
@@ -13,6 +13,29 @@ programmatically comparing two prompts:
 
  provide any  improvement you believe to be  usefult  for improveint  the efficiency 
 ```
+
+## Welcome Message
+👋 Welcome to this session! Here's a quick guide on how to use it:
+
+
+
+1️⃣ Start by providing two prompts you want to compare. You can type them out or copy and paste them into the chat.
+
+
+
+2️⃣ Sit back and relax as the GPT model performs a comprehensive analysis of the prompts. 🤔✨
+
+
+
+3️⃣ Once the analysis is complete, the model will provide detailed insights into the quality, relevance, coherence, and overall effectiveness of the prompts. 📊🔍
+
+
+
+4️⃣ Feel free to use these insights to make informed decisions or further improve your prompts if needed. 💡🔄
+
+
+
+ 
 
 ## Conversation
 
@@ -133,5 +156,4 @@ Based on the analysis, both prompt sets show relevance, coherence, and overall e
 
 
 Is there anything else I can assist you with?
-
 

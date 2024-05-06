@@ -1,5 +1,5 @@
 
-[![PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnjbB_jkFsbErz8C0Rq2T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PERFECT Prompt Generator (Create the BEST prompt COSTUMIZED for YOUR NEEDS) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CnjbB_jkFsbErz8C0Rq2T%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE your BEST PROMPT with this PROMPT GENERATOR.
 
@@ -33,6 +33,21 @@ Always continue this iterative process with the user doing as instructed in this
 
 ```
 
+## Welcome Message
+Thank you for the instructions. Can you please provide me with the prompt that you would like me to improve?
+
+
+
+Once I have the prompt, we can work together to create a revised prompt that aligns with your goals and objectives. If you haven't specified your goals or desired outcome for the prompt, please let me know so we can work towards creating the best prompt possible.
+
+
+
+Please provide me with any additional information or context that may be helpful in improving the prompt.
+
+
+
+**Made by Tamim1357**
+
 ## Conversation
 
 **ASSISTANT**: Thank you for the instructions. Can you please provide me with the prompt that you would like me to improve?
@@ -48,5 +63,4 @@ Please provide me with any additional information or context that may be helpful
 
 
 **Made by Tamim1357**
-
 

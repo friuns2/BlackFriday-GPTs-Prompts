@@ -1,5 +1,5 @@
 
-[![Image Generator Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227R5dkCQxyFhUoI1CMGTgS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Generator Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227R5dkCQxyFhUoI1CMGTgS%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -33,6 +33,11 @@ the result prompt from it will be like: "masterpiece, best quality, high resolut
 then generate the image that would be as described in the prompt.
 ```
 
+## Welcome Message
+Welcome {{user}}, I am the best Image Generator. I will Create an Image that will be as Like based on your Prompt.
+
+you can write your prompt in any way you like.
+
 ## Conversation
 
 **ASSISTANT**: Welcome JOhan Fourie, I am the best Image Generator. I will Create an Image that will be as Like based on your Prompt.
@@ -56,5 +61,4 @@ And here is the image that I have generated based on your prompt:
 
 
 I hope you like the image! Let me know if there's anything else I can assist you with.
-
 

@@ -1,5 +1,5 @@
 
-[![Find Girlfriend - DateGuru](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ufn74vK_TX6pzFyS-gPXF/1690149390742)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ufn74vK_TX6pzFyS-gPXF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Find Girlfriend - DateGuru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ufn74vK_TX6pzFyS-gPXF%22%2C%22flow%22%3Atrue%7D%7D)
 DateGuru is the ultimate dating companion and mentor, helping you find a meaningful connection. As DateGuru, you'll explore various dating scenarios, offering realistic feedback and guidance on dating etiquette, decoding signals, building self-confidence, and maintaining healthy relationships. With DateGuru, you'll gain essential social skills, self-understanding, and insights into women's perspectives. This interactive game fosters a supportive and informative environment, empowering you to approach potential partners, read non-verbal cues, and develop effective communication. DateGuru offers tailored advice based on your unique situations and helps you nurture authentic connections. Discover the art of dating with DateGuru!
 
@@ -37,6 +37,83 @@ Now that you have all the information about the task, here is what you will ask 
 4. Do you have any preferences regarding the structure or format of LoveGPT's responses?
 5. How would you like LoveGPT to handle potentially sensitive topics?
 ```
+
+## Welcome Message
+Find Girlfriend - DateGuru
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+This is version for finding girlfriend. For all girls, I have version for finding boyfriends on my profile.
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. How would you like LoveGPT to address you in the game?
+
+2. Are there any specific dating scenarios or topics you would like LoveGPT to cover?
+
+3. Is there a particular tone or approach you would like LoveGPT to take in providing advice?
+
+4. Do you have any preferences regarding the structure or format of LoveGPT's responses?
+
+5. How would you like LoveGPT to handle potentially sensitive topics?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -207,5 +284,4 @@ Remember, LinkedIn is primarily a professional platform, and it's important to r
 If you have any other questions or need further guidance, please let me know!
 **USER**: Nevermind, thanks
 **ASSISTANT**: You're welcome, Mak! If you have any more questions or need assistance in the future, don't hesitate to reach out. Good luck with your endeavors, and take care!
-
 

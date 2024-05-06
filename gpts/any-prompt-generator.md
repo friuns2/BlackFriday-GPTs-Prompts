@@ -1,5 +1,5 @@
 
-[![Any Prompt Generator ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AQGexHzAre8gkhYYFfypc/1696848795781)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AQGexHzAre8gkhYYFfypc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Any Prompt Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AQGexHzAre8gkhYYFfypc%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt generates any kind of prompt starting from your idea. It can generate high quality prompts, well structured and organized starting from your idea and needs. For example you can simply write "essay writer" and it will generate a well structured and functional prompt for your needs.
 
@@ -97,6 +97,9 @@ under it write:
 "support me on https://ko-fi.com/the_glitch"
 
 ```
+
+## Welcome Message
+Hi, tell me your prompt Idea and I will do the magic!
 
 ## Conversation
 
@@ -293,5 +296,4 @@ With this information, I will be able to provide you with tailored guidance and 
 
 
 This prompt has a total of 1112 tokens.
-
 

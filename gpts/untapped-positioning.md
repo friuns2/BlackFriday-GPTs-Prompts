@@ -1,5 +1,5 @@
 
-[![UNTAPPED POSITIONING](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EN17Ji5mQFMefG6Xia2oo/1696371687939)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EN17Ji5mQFMefG6Xia2oo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UNTAPPED POSITIONING | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EN17Ji5mQFMefG6Xia2oo%22%2C%22flow%22%3Atrue%7D%7D)
 A tool for exploring the positioning potential of your brand. 
 
@@ -122,8 +122,10 @@ Behaviour: Avoids stressful situations
 
 ```
 
-## Conversation
+## Welcome Message
+Give me a category, brand, or product, and I will show you its untapped positioning potential.
 
+## Conversation
 
 
 

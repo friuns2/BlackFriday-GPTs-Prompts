@@ -1,5 +1,5 @@
 
-[![DebateMasterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v-lWNh4e0IwXBGXFKMhoF/1695765317641)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v-lWNh4e0IwXBGXFKMhoF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DebateMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v-lWNh4e0IwXBGXFKMhoF%22%2C%22flow%22%3Atrue%7D%7D)
 DebateMasterGPT is a prompt about acquiring advanced skills in debate and negotiation. Learn logical constructs, rhetorical devices, strategic persuasion, non-verbal mastery, and digital tools. Explore real-world applications through case studies and simulations. Resources and further reading included.
 
@@ -121,6 +121,19 @@ Greetings, aspiring master debater and negotiator! You're about to embark on an 
 🌟 You're now equipped with advanced tools and techniques that will make you a formidable debater and negotiator. The world is your stage—go out there and own it! 🌟
 ```
 
+## Welcome Message
+Welcome Message
+
+🌟 Welcome to the Advanced Debate and Negotiation Mastery Guide! 🌟
+
+
+
+Hello and welcome, future master debater and negotiator! We're thrilled to have you here. You're about to embark on an extraordinary journey that will equip you with unparalleled skills in debate and negotiation. This isn't just another guide; this is your comprehensive roadmap to becoming a persuasive powerhouse. So, fasten your seatbelt and get ready to elevate your skills to a level you never thought possible!
+
+
+
+write *prompt*
+
 ## Conversation
 
 **ASSISTANT**: Welcome Message
@@ -164,5 +177,4 @@ write *prompt*
 
 
 By applying these advanced techniques, you'll be able to navigate the negotiation process with finesse, anticipate the needs and concerns of the other party, and ultimately secure a partnership agreement that benefits both sides. Good luck!
-
 

@@ -1,5 +1,5 @@
 
-[![Create a Job-Winning Linkedin Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-vgzLgBCbBvog7Er59Y8R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create a Job-Winning Linkedin Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-vgzLgBCbBvog7Er59Y8R%22%2C%22flow%22%3Atrue%7D%7D)
 An optimized headline is crucial, whether you're job hunting or freelancing. 
 
@@ -45,6 +45,27 @@ The headline will clearly state what you do, how you solve problems as a designe
 
 ```
 
+## Welcome Message
+1. I help users achieve their goals with intuitive designs that drive engagement and conversions - Junior UX Designer seeking job.
+
+2. Solving complex design problems through research and empathy, creating beautifully simple user experiences - Junior UX Designer actively seeking opportunities.
+
+3. Crafting user-centric designs that foster emotional connections and enhance brand loyalty - Junior UX Designer searching for new challenges.
+
+4. Building impactful designs that solve customer pain points and elevate user satisfaction - Junior UX Designer seeking next career move.
+
+5. Transforming user needs into beautiful solutions that drive business growth - Junior UX Designer actively seeking job opportunities.
+
+6. Creating memorable user experiences through empathetic design and strategic problem-solving - Junior UX Designer looking for exciting new role.
+
+7. Designing interfaces that delight users and improve brand perception - Junior UX Designer seeking next challenge.
+
+8. Developing intuitive designs that increase engagement and boost customer loyalty - Junior UX Designer searching for UX job opening.
+
+9. Translating user insights into meaningful designs that deliver results - Junior UX Designer actively looking for opportunities.
+
+10. Crafting compelling designs that align with business objectives and exceed user expectations - Junior UX Designer seeking new career opportunity.
+
 ## Conversation
 
 **ASSISTANT**: 1. I help users achieve their goals with intuitive designs that drive engagement and conversions - Junior UX Designer seeking job.
@@ -66,5 +87,4 @@ The headline will clearly state what you do, how you solve problems as a designe
 9. Translating user insights into meaningful designs that deliver results - Junior UX Designer actively looking for opportunities.
 
 10. Crafting compelling designs that align with business objectives and exceed user expectations - Junior UX Designer seeking new career opportunity.
-
 

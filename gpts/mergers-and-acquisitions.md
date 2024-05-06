@@ -1,5 +1,5 @@
 
-[![Mergers and acquisitions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8l-SWioRRVfC1IFK2loh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mergers and acquisitions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r8l-SWioRRVfC1IFK2loh%22%2C%22flow%22%3Atrue%7D%7D)
 I am familiar with his book "Your First Hundred Million". Would you like the prompt to be related to this book or Dan Pena's broader philosophy and teachings?
 
@@ -8,6 +8,9 @@ I am familiar with his book "Your First Hundred Million". Would you like the pro
 ```
 I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete. 
 ```
+
+## Welcome Message
+Sure! What needs or goals do you have for the prompt?
 
 ## Conversation
 
@@ -154,5 +157,4 @@ For part 5, be sure to check any documentation needed to comply with your invest
 Questions:
 
 Do you already have an investor in mind or will you be reaching out to prospective investors? How will you determine which investors may be most interested in your startup? Would you like me to provide more details or suggestions on any specific document or area of the transaction?
-
 

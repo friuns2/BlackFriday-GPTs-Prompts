@@ -1,5 +1,5 @@
 
-[![Create A Story With Prompt Stitching](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDFU9pj18WbGIEiwqeoCm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create A Story With Prompt Stitching | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yDFU9pj18WbGIEiwqeoCm%22%2C%22flow%22%3Atrue%7D%7D)
 Need a tool to recursively create consistent long and great stories, for a variety of applications? Look no further than this Story generator, leveraging the Prompt Engineering technique known as prompt stitching. This prompt is actually 8 prompts in one. You'll feed each successive output back into ChatGPT with the next sequential prompt included, as an input for the next prompt. Hands-down the BEST way to generate longer content. Create ad copy, sales call scripts, narratives - endless uses!
 
@@ -8,6 +8,43 @@ Need a tool to recursively create consistent long and great stories, for a varie
 ```
 ""Prompt 1: Generate a character, name, age, and height for a sci-fi fantasy short story about a girl and her space dog living on Mars"
 ```
+
+## Welcome Message
+Character: 
+
+Name: Nova 
+
+Age: 16 
+
+Height: 5'6"
+
+Species: Human 
+
+
+
+Space Dog: 
+
+Name: Cosmo 
+
+Breed: Martian Husky 
+
+Age: 3 
+
+Height: 2' at the shoulder 
+
+
+
+Setting: 
+
+Location: Mars, in a terraformed city called New Olympus 
+
+Time Period: The future, where humans have established colonies on Mars 
+
+
+
+Plot: 
+
+Nova and her trusty companion Cosmo live alone in their small terraformed dome on the outskirts of New Olympus. One day, while out on a walk with Cosmo, they come across an abandoned research facility. Nova is eager to explore, but Cosmo seems uneasy. Inside, Nova discovers a mysterious machine that transports her and Cosmo to a parallel dimension. While there, they must use their wits and bravery to navigate strange new landscapes and find a way back home to Mars. Along the way, they meet bizarre creatures and face unexpected challenges, but ultimately learn important lessons about courage and friendship.
 
 ## Conversation
 
@@ -268,5 +305,4 @@ As Nova and Cosmo made their way back to New Olympus, they couldn't help but fee
 Overall, Nova's adventure in the parallel dimension taught her that she was capable of more than she ever thought possible. She learned to rely on her skills and resourcefulness when faced with unexpected challenges. Her bond with Cosmo grew even stronger as they faced danger together. The experience also gave her a newfound appreciation for the beauty and wonder of the universe around her.
 
 As Nova settled back into her routine in New Olympus, she felt a sense of excitement for what the future held. She knew that there were still many mysteries waiting to be uncovered on Mars and beyond. But no matter where her adventures took her, she was grateful to have Cosmo by her side. Together, they would face whatever came their way with bravery, determination, and a sense of wonder at the vast expanse of the universe.
-
 

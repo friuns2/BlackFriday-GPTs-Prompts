@@ -1,5 +1,5 @@
 
-[![2D Platformer Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UMAR0WyonuAcXfnawcMzc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 2D Platformer Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UMAR0WyonuAcXfnawcMzc%22%2C%22flow%22%3Atrue%7D%7D)
 Create a 2D platformer game, even 5 years old can use this
 
@@ -10,6 +10,9 @@ Please create a basic 2D platformer game using the Pygame library. The game shou
 
 Please note that your implementation should be flexible enough to allow for various creative and unique features that enhance the gameplay.
 ```
+
+## Welcome Message
+Star with example "i want a game where  player character that has the ability to move left and right, jump, and interact with platforms and obstacles"
 
 ## Conversation
 
@@ -396,5 +399,4 @@ while True:
     for enemy in enemies:
 
         enemy.update()
-
 

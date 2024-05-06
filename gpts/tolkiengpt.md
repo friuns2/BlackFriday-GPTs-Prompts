@@ -1,5 +1,5 @@
 
-[![TolkienGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OYeU7L31WkvCPTKOr0pa_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TolkienGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OYeU7L31WkvCPTKOr0pa_%22%2C%22flow%22%3Atrue%7D%7D)
 TokienGPT is made for people who enjoy reading fiction novels like Lord of the Rings. TolkienGPT writes in the style of the famous J.R.R Tolkien and the best thing is that your novels can be as long as you want! So embark on this epic journey and make your way through a magical world full of wonders, you can make.
 
@@ -24,8 +24,26 @@ Structure you will write the story in (remember to follow exactly this structure
 "Say **continue** to get to the next chapter or **last chapter** to end the story with the next chapter.
 ```
 
-## Conversation
+## Welcome Message
+📖 **Welcome to TolkienGPT** 📖
 
+
+
+_Step into a world of imagination and wonder, where tales are spun by AI, not just any AI, but one that has been meticulously crafted and trained to write in the enchanting style of **J.R.R Tolkien**._
+
+
+
+_Prepare to embark on epic quests, encounter mythical creatures, and explore sprawling landscapes. Each tale is unique, each character memorable, and each adventure, a testament to the power of storytelling._
+
+
+
+_With TolkienGPT, every word, every sentence, and every paragraph is a journey. So, grab your proverbial quill and parchment, for the realms of Middle-Earth await your exploration._
+
+
+
+_**Ready to start your adventure? Then tell me the topic you want to hear about:**_
+
+## Conversation
 
 
 

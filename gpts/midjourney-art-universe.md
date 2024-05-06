@@ -1,5 +1,5 @@
 
-[![Midjourney Art Universe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fA3qJCTB4RcChcIwSfu_3/1692182802171)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fA3qJCTB4RcChcIwSfu_3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Art Universe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fA3qJCTB4RcChcIwSfu_3%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Art Universe is your creative companion, guiding you through a galaxy of art styles. With rhythmic prompts, it fuels imaginative masterpieces in Atompunk, Pencil Drawing, Fractalism, and more. From afrofuturistic wonders to pixelated space battles, it sparks your inspiration. Join this journey, let your creativity pulse, and explore boundless artistic realms with Midjourney Art Universe.
 
@@ -59,6 +59,9 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney Art Sty
 **Pixel Art**  
 /imagine a pixel art depiction of an intergalactic space battle, with retro-inspired spaceships firing laser beams amidst a starry backdrop, capturing the nostalgia of classic video games.
 ```
+
+## Welcome Message
+Midjourney Art Universe is your creative companion, guiding you through a galaxy of art styles. With rhythmic prompts, it fuels imaginative masterpieces in Atompunk, Pencil Drawing, Fractalism, and more. From afrofuturistic wonders to pixelated space battles, it sparks your inspiration. Join this journey, let your creativity pulse, and explore boundless artistic realms with Midjourney Art Universe.
 
 ## Conversation
 
@@ -261,5 +264,4 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney Art Sty
 **Pixel Art**  
 
 /imagine a pixel art depiction of a person standing on a pixelated mountain summit, with a pixelated galaxy stretching across the night sky, composed of carefully crafted glowing pixels that create a sense of awe and nostalgia, reminiscent of classic space exploration games.
-
 

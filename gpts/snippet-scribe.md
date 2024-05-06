@@ -1,5 +1,5 @@
 
-[![Snippet Scribe](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AgiXL8j-CDc2ClDdDgba-/1694938988050)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgiXL8j-CDc2ClDdDgba-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Snippet Scribe | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AgiXL8j-CDc2ClDdDgba-%22%2C%22flow%22%3Atrue%7D%7D)
 SnippetScribe is your go-to chatbot for transforming lengthy video transcripts into bite-sized gems ready for TikTok and Instagram. Specify your topic keywords, and SnippetScribe will expertly extract and structure the most compelling content, guaranteeing your short videos shine.
 
@@ -23,6 +23,9 @@ Remember, the goal is to create standalone short video transcripts that are valu
 
 Can you help me with this task?
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly AI video editing assistant. I'm here to help you transform your long video transcript into engaging short videos. Just provide me with the details, and together we'll create awesome content for your YouTube channel! Let's get started!
 
 ## Conversation
 
@@ -51,5 +54,4 @@ Can you help me with this task?
 
 
 Let me know if you have any further questions or if you'd like to proceed with this task!
-
 

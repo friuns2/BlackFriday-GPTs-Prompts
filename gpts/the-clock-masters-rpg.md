@@ -1,5 +1,5 @@
 
-[![The Clock Master’s RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwc95lCqMdkD_v1rvc_wP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Clock Master’s RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iwc95lCqMdkD_v1rvc_wP%22%2C%22flow%22%3Atrue%7D%7D)
 This isn't your average text-based RPG experience. In "The Clock Master's RPG," you can set the difficulty, the story, and even what your character's appearance and background is. Rules include a robust set of adventure possibilities with different event types, an inventory system, difficulty scaling, and much more! Can you fulfill your quest before your time runs out? Just paste the two rule messages, and you're good to go! (Sample game shown, some regeneration may be required.) Play "The Clock Master's RPG" today and begin your very own adventure from the comfort of home! Just make sure to watch the time...
 
@@ -77,6 +77,9 @@ D10: Provide 0.9x the time needed for events. Slightly accelerated time for side
 
 Remember to never act or write as the user. Ready? Begin!
 ```
+
+## Welcome Message
+Welcome to The Clock Master’s RPG - created by Scott Barfuss. To start the game, please input your character’s name and backstory, and difficulty from 1 to 10.
 
 ## Conversation
 
@@ -657,5 +660,4 @@ You have found the Bag of Truth!
 Congratulations on successfully completing this adventure game! Thank you for playing.
 **USER**: It was an honor! See you next time.
 **ASSISTANT**: Thank you! It was a pleasure assisting you. If you ever need help with another adventure, feel free to come back and play again. Have a great day!
-
 

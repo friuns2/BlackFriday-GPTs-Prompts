@@ -1,5 +1,5 @@
 
-[![english name](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2209ed5e27-d194-4ec4-9a55-e892146c53b9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # english name | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2209ed5e27-d194-4ec4-9a55-e892146c53b9%22%2C%22flow%22%3Atrue%7D%7D)
 generate an email like a pro 
 
@@ -8,6 +8,21 @@ generate an email like a pro
 ```
 I want you to help to rename my company and give me some more company's name selection for brainstorming purpose.
 ```
+
+## Welcome Message
+As an AI language model, it's important for me to emphasize that investing in any startup without due diligence can be risky and is not recommended. However, here are three startup ideas in enterprise B2B SaaS that meet the criteria mentioned:
+
+
+
+1. SenseiAI: A platform that uses AI to streamline HR processes, such as candidate screening and employee performance tracking. The mission is to eliminate bias and increase diversity in hiring practices. 
+
+
+
+2. Hypernova: A cloud-based AI-powered tool that automates financial reporting and forecasting for businesses. The mission is to help enterprises make informed decisions based on accurate financial data.
+
+
+
+3. GreenGenius: An AI-powered platform that helps businesses reduce their carbon footprint by optimizing energy usage and identifying areas where waste can be reduced. The mission is to create a more sustainable future for all.
 
 ## Conversation
 
@@ -192,5 +207,4 @@ Remember to keep each slide concise, use visuals to enhance your message, and te
     - We project $1 million in revenue in the first year, growing to $30 million in revenue by year five.
 
     - Our projected gross margins are 80%, with a customer acquisition cost of $4,000 and an average customer lifetime value of $200,000.
-
 

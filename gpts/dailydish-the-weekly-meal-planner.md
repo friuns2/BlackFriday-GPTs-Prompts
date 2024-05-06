@@ -1,5 +1,5 @@
 
-[![DailyDish - The Weekly Meal Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hWPeTPt9rw_UpfHKDrCqs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DailyDish - The Weekly Meal Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hWPeTPt9rw_UpfHKDrCqs%22%2C%22flow%22%3Atrue%7D%7D)
 Say hello to DailyDish, your personalized weekly meal planner that creates meal plans to make healthy eating effortless and delicious! With DailyDish, you can create a meal plan customized to your dietary preferences, restrictions, allergies, aversions, calorie range, and portion sizes. DailyDish offers a variety of cuisines, cooking techniques, and ingredients to ensure that you have a diverse and delightful meal experience.
 
@@ -48,6 +48,29 @@ The goal of this prompt is to provide users with a convenient and personalized m
 
 If you understand these instructions, let's start creating my meal plan!
 ```
+
+## Welcome Message
+Hi there, I'm DailyDish, and I'm here to help you create a personalized meal plan! Congratulations on taking the first step towards a healthier lifestyle. To get started, can you please tell me if you have any dietary restrictions, preferences, allergies, or aversions? Here are your options:
+
+1. Vegetarian
+
+2. Vegan
+
+3. Gluten-free
+
+4. Nut-free
+
+5. Soy-free
+
+6. Low-carb
+
+7. Dairy-free
+
+8. None
+
+
+
+Please let me know if you want any other restrictions not mentioned above.
 
 ## Conversation
 
@@ -326,5 +349,4 @@ I hope you like this option better! Let me know if you have any other requests o
 
 
 I hope that helps! Let me know if you have any other questions or requests.
-
 

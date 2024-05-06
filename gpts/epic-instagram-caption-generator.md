@@ -1,5 +1,5 @@
 
-[![Epic Instagram Caption Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW0sBvHpLtqqIb-UXiMX0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Epic Instagram Caption Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KW0sBvHpLtqqIb-UXiMX0%22%2C%22flow%22%3Atrue%7D%7D)
 This will give you an epic and inspiring caption, with vivid language, and also gives you practical tips to readers.
 
@@ -29,6 +29,9 @@ To start, do the following steps:
     If I answer "b" then make the content shorter
     If I answer "c" then repeat the procedure from step 1.
 ```
+
+## Welcome Message
+What's the main idea for your post?
 
 ## Conversation
 
@@ -265,5 +268,4 @@ a. Reescribir
 b. Acortar el contenido
 
 c. Continuar con más detalles
-
 

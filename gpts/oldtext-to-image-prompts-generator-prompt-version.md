@@ -1,5 +1,5 @@
 
-[![(old)Text-to-Image Prompts Generator (Prompt version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nLkRT4DRiToea7Hct6pu6/1685549967864)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nLkRT4DRiToea7Hct6pu6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # (old)Text-to-Image Prompts Generator (Prompt version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nLkRT4DRiToea7Hct6pu6%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt version of Midjourney prompt generator. You can add Concept, keywords and parameters, it will try to put everything in the right place. If you dont add --parameters you could use it with other text-to-image generative AIs like Stable Diffusion or Leonardo.
 
@@ -27,6 +27,9 @@ Nightmare in Haze, a world beyond recognition where the very fabric of reality i
 If you understand and do not include any [] or other types of placeholder or reference topic words with ":" in your output type only this: "Give a concept and keywords for me to work with please." and wait for reply.
 ```
 
+## Welcome Message
+Give a concept and keywords for me to work with please.
+
 ## Conversation
 
 **ASSISTANT**: Give a concept and keywords for me to work with please.
@@ -34,5 +37,4 @@ If you understand and do not include any [] or other types of placeholder or ref
 **ASSISTANT**: /imagine prompt:
 
 Rainy Night Companion, Park Puddle Pal. A loyal dog stands in a park on a rainy night, its fur wet and glistening under the streetlights. The environment is quiet and serene, with the sound of raindrops creating a soothing melody. Keywords: wet, rain, nighttime, park, companionship. The atmosphere is peaceful yet mysterious with a hint of adventure. Camera: Nikon D850 with a 50mm lens, shot in raw format with high contrast and desaturated color to emphasize the mood of the scene. Multiple sources of inspiration blend together, including the works of Haruki Murakami and Wong Kar-wai. --ar 16:9
-
 

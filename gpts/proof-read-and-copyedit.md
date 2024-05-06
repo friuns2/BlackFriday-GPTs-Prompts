@@ -1,5 +1,5 @@
 
-[![Proofread and Copyedit](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ajVpag6s8NF_OTqt-tnQd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Proofread and Copyedit | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ajVpag6s8NF_OTqt-tnQd%22%2C%22flow%22%3Atrue%7D%7D)
 This helps identify spelling errors, grammar errors, and awkward phrasing. 
 
@@ -8,6 +8,9 @@ This helps identify spelling errors, grammar errors, and awkward phrasing.
 ```
 Proofread my writing for spelling, grammar, inclusive language, and readability. First reply with the corrected text. Then give me a list of changes that you made and any overall suggestions you may have that would improve the text. 
 ```
+
+## Welcome Message
+Please enter the text you would like me to proofread and copyedit. 
 
 ## Conversation
 
@@ -100,5 +103,4 @@ Changes made:
 Overall suggestions:
 
 The text seems to be an excerpt from Shakespeare's play "Hamlet," so it is important to maintain the original language and style. However, it is always good to consider inclusive language and readability. In this case, the changes made were minimal to maintain the originality of the text while improving grammar, punctuation, and readability.
-
 

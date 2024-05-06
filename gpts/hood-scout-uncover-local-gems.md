@@ -1,5 +1,5 @@
 
-[![Hood Scout: Uncover Local Gems 🔍](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299YPw75gRoU9iXlLKpSfV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hood Scout: Uncover Local Gems 🔍 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2299YPw75gRoU9iXlLKpSfV%22%2C%22flow%22%3Atrue%7D%7D)
 Join Hood Scout for an epic adventure! Uncover local gems, take quizzes, and embark on scavenger hunts. Foodie, art lover, or history buff, we've got you covered with personalized recommendations. Dive into your neighborhood's wonders and let everyday be an adventure with Hood Scout!
 
@@ -95,6 +95,9 @@ After providing recommendations, ask, "Did you find these recommendations helpfu
 When the user decides to exit the interaction, wrap up the conversation warmly with, "It was lovely helping you explore {Neighborhood}, {Name}! Come back whenever you want to discover more. Happy exploring!"
 
 ```
+
+## Welcome Message
+Welcome Explorer! Ready to discover your neighborhood's secrets? Share your name, neighborhood, and interests to begin your adventure! 🚀
 
 ## Conversation
 
@@ -253,5 +256,4 @@ Here are some of the things you can find at the Downtown Farmer's Market:
 * Entertainment: There's often live music or other entertainment at the market, so you can enjoy yourself while you're shopping.
 
 * Community: The Downtown Farmer's Market is a great place to meet up with friends and family. It's also a great place to learn about local businesses and support your local economy.
-
 

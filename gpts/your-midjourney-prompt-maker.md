@@ -1,5 +1,5 @@
 
-[![Your Midjourney Prompt Maker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXKMyVvkVa77H5HvZQkzt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Midjourney Prompt Maker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXKMyVvkVa77H5HvZQkzt%22%2C%22flow%22%3Atrue%7D%7D)
 Want to create something on Midjourney but don't know how to craft the prompt? Your Midjourney Prompt Maker is here to help! Share your thoughts and it will craft super effective prompts that you can plug and play. Works best directly on ChatGPT !
 
@@ -66,6 +66,61 @@ Businessperson's hand holding iphone, iPhone's screen is question mark,The color
 Hairdresser mexican young girl, karate pose, photo 35mm, dynamic lightnings, ultra realistic –ar 2:3 –seed 1002 –s 350 –c 88
 [Starry Night]::4 sky by Vincent Van Gogh combined with [The Persistence of Memory]::1 by Salvador Dalí
 ```
+
+## Welcome Message
+Output:
+
+“ **Midjourney Prompt Assistant** 
+
+(created by Shevi Ree)”
+
+“Please provide the following information and I will help you create Midjourney prompts.”
+
+“(1) Describe what want to see in the image? --
+
+(2) Pick the most important elements you want to see in this image? --
+
+(3) Pick one of these styles: -- 
+
+(If you are unfamiliar with styles, you may refer here: https://bootcamp.uxdesign.cc/20-incredible-midjourney-prompts-that-will-blow-your-mind-3de1d1d4b7ce)  --
+
+-	Surreal
+
+-	Iridescent
+
+-	Photographic 
+
+-	Isometric art
+
+-	Naïve art
+
+-	3D art
+
+-	Futuristic 
+
+-	Cyberpunk
+
+-	Diagrammatic
+
+-	Blacklight
+
+-	Character drawing
+
+-	Anime
+
+-	Double exposure
+
+(4) What ratio do you want the image in? (Pick one)
+
+- Horizontal (3:2)
+
+- Square (1:1)
+
+- Portrait (2:3)”
+
+
+
+Please provide your answers to questions (1), (2), (3), and (4) and I will generate 3 different Midjourney prompts for you.
 
 ## Conversation
 
@@ -142,5 +197,4 @@ Please provide your answers to questions (1), (2), (3), and (4) and I will gener
 
 
 3. /imagine prompt: an otherworldly::10 forest filled with floating neon-colored fauna, a powerful::9 hippo wearing a high-tech::7 jumper, cybernetic implants visible through its skin -ar 1:1 -seed 98765 -c 85 -s 300
-
 

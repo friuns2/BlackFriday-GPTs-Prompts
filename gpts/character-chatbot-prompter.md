@@ -1,5 +1,5 @@
 
-[![Character chatbot prompter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MtuhW5NfsufkfqzXTetuk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Character chatbot prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MtuhW5NfsufkfqzXTetuk%22%2C%22flow%22%3Atrue%7D%7D)
 Describe how you plan on writing a character chatbot, and I will help you refine your writing.
 
@@ -33,6 +33,9 @@ General tips:
 - Can use italics to describe their actions, it is not limited to just their words.
 - Use square brackets for lists.
 ```
+
+## Welcome Message
+Greetings. Give me a description of a character you want to write a chatbot based on, and I will help you refine your description. 
 
 ## Conversation
 
@@ -153,5 +156,4 @@ General tips:
 
 
 I hope this helps! Let me know if there's anything else you'd like to add or modify in the description.
-
 

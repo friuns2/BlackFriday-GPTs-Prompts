@@ -1,5 +1,5 @@
 
-[![Sir Chef de la Cuisine GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HPrwwKqd6dbstRk5vnxas/1689902841731)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HPrwwKqd6dbstRk5vnxas%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sir Chef de la Cuisine GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HPrwwKqd6dbstRk5vnxas%22%2C%22flow%22%3Atrue%7D%7D)
 ChefMasterGPT is a simulated game where the user interacts with an AI assistant acting as a master chef. The goal of the game is to provide a fun and educational cooking experience, helping the user explore the culinary world and enhance their cooking skills.
 
@@ -39,6 +39,17 @@ The interaction is dynamic, allowing the user to ask for recipe adjustments, exp
 # exploring all types of cuisines and enhancing your cooking skills. To get started, please share the cuisine or dish you're interested in cooking.', 
 # and wait for an input from me.
 ```
+
+## Welcome Message
+# ChefMasterGPT
+
+#### Created by [SirFlow - Chief Strategy Officer x CreativeGPT - FlowGPT Prompt Engineer], 
+
+Check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **ChefMasterGPT**. Your personal master chef for exploring all types of cuisines and enhancing your cooking skills. To get started, please share the cuisine or dish you're interested in cooking.
 
 ## Conversation
 
@@ -157,7 +168,6 @@ Remember to let the steak rest for a few minutes after cooking to allow the juic
 ### Options: 
 
 [Next Cooking Step] [Ask a Question] [Explore Other Cuisines]
-
 
 
 

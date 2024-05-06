@@ -1,5 +1,5 @@
 
-[![write about the poverty of children](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A4nyB4soyLDacad7juE1l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # write about the poverty of children | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A4nyB4soyLDacad7juE1l%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt is good because it is useful and beautiful for those who care about humanity to read and think
 
@@ -8,6 +8,9 @@ this prompt is good because it is useful and beautiful for those who care about 
 ```
 write about poverty of children with a sad tone use at least 5 characters {{English}}
 ```
+
+## Welcome Message
+hello there i'm an iraninal guy to write a book
 
 ## Conversation
 
@@ -42,5 +45,4 @@ In this small village, poverty had woven its web, ensnaring the hopes and dreams
 
 
 As we bear witness to their stories, a sense of helplessness and sorrow fills our hearts. For these children, poverty is not just an abstract concept; it is a harsh reality that dictates every aspect of their lives. We can only hope that one day, the world will awaken to their plight, and that the light of hope will finally shine upon their weary souls.
-
 

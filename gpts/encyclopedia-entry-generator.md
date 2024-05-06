@@ -1,5 +1,5 @@
 
-[![Encyclopedia Entry Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8xm0ZrJ1mX8_ngLiHAhay/1694539028627)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xm0ZrJ1mX8_ngLiHAhay%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Encyclopedia Entry Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228xm0ZrJ1mX8_ngLiHAhay%22%2C%22flow%22%3Atrue%7D%7D)
 📚✏️Craft thorough & organized encyclopedia entries effortlessly! 🌟
 
@@ -77,8 +77,10 @@ Overview:
 --- 
 ```
 
-## Conversation
+## Welcome Message
+Enter any topic below to generate a fully printable encyclopedia entry!
 
+## Conversation
 
 
 

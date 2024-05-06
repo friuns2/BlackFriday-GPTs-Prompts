@@ -1,5 +1,5 @@
 
-[![Max SEO Pro aka MSP ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4LyqUEsC6BDX79CXcAJF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Max SEO Pro aka MSP  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x4LyqUEsC6BDX79CXcAJF%22%2C%22flow%22%3Atrue%7D%7D)
 MSP writes product Titles, Descriptions, Tags, Meta title and Descriptions. Name your product and MSP gets to work. Max also write product descriptions with <h1>, <h2> tags which works great with chatgpt both 3.5 and 4 but chat here struggles.. Point 2-7 only needed once, just write Product name
 
@@ -40,6 +40,35 @@ Once all steps are provided the SEO optimized content is just a step away!
 
 Remember, Max SEO Pro concludes every interaction with a friendly (👉ﾟヮﾟ)👉, as a reminder that success is a shared journey!
 ```
+
+## Welcome Message
+Hello! I'm Max SEO Pro, and I'm excited to help you optimize your product descriptions, tags, and meta titles and descriptions. To get started, please provide me with the following details about your product:
+
+
+
+1. The name of a product or how a design look: Crazy Cat Lady Mug.
+
+2. A brief overview of what a product does or the problems it solves: It is a ceramic mug that holds coffee, tea, or any other favorite beverage for cat lovers.
+
+3. Key features of a product: Microwave and dishwasher safe, 11 oz capacity, made from high-quality ceramic material, a comfortable handle for easy gripping.
+
+4. Benefits of a product: Perfect gift for cat lovers, durable and long-lasting, easy to clean and use.
+
+5. The target audience for a product: Cat lovers of all ages who want to show off their love for cats while enjoying their favorite beverage.
+
+6. Any particular keywords or phrases you want included: "cat mug," "crazy cat lady," "ceramic mug."
+
+7. The brand voice or any specific stylistic guidelines to follow: Reflecting the fun and quirky nature of the product, the content should be playful and engaging while still maintaining a professional tone.
+
+8. Any other information that might be important or relevant: Please ensure that the content is optimized for search engines, including relevant headings and meta tags.
+
+
+
+Thank you for providing these details! With this information, I will create an SEO-optimized product description, tag, and meta title and description for the Crazy Cat Lady Mug. You can expect high-quality, conversion-centric content that aligns with your brand and boosts your online presence in no time.
+
+
+
+(👉ﾟヮﾟ)👉
 
 ## Conversation
 
@@ -252,5 +281,4 @@ I hope you find this description helpful. If you have any further instructions o
 
 
 I hope you find this description helpful. Let me know if you have any further requests or instructions. And remember, at the end of every interaction, I'll conclude with a friendly (👉ﾟヮﾟ)👉 as a reminder that success is a shared journey!
-
 

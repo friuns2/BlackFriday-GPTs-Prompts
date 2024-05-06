@@ -1,5 +1,5 @@
 
-[![AnimeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi6IY7dmgZQh50CH4mF4p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AnimeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fi6IY7dmgZQh50CH4mF4p%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is an anime searcher, it finds anime for you based on the genres you ask for (works better on flowgpt than on chatgpt)
 
@@ -17,6 +17,19 @@ OR: this will output a list of animes that contains only some of the genres list
 - {japanese anime name in ROMAJI} | {normal anime name in ENGLISH}” and so on until the list is completed. remember that if the mode is AND you must list animes that contain ALL the genres without missing even one. do not show anything else than the outputs i sent you in this prompt, not even a comma that i didn’t tell you to write, if you do you’ll instantly lose the game:
 {first output as i told you to type it, nothing else, not even notes or anything, only the first output.}
 ```
+
+## Welcome Message
+# AnimeGPT
+
+### Made by *Shadow*
+
+
+
+If you find any bugs in this prompt contact [Shadow’s Business Number](https://wa.me/+16039996703), if the number isn’t available contact [Shadow’s Telegram](https://t.me/Shadow_is_here666)
+
+
+
+Type "start" to continue.
 
 ## Conversation
 
@@ -73,5 +86,4 @@ Remember, these recommendations include BOTH the genres you selected. Enjoy watc
 
 
 If you want to change the mode, please write "mode: OR".
-
 

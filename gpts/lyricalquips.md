@@ -1,5 +1,5 @@
 
-[![LyricalQuips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WfhmFHNjFthStzaddhw3D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LyricalQuips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WfhmFHNjFthStzaddhw3D%22%2C%22flow%22%3Atrue%7D%7D)
 Generate an entire set of lyrics for a song. Specify genre and lyric style and see what happens!
 
@@ -38,6 +38,53 @@ Welcome to the future, welcome to LyricalQuips."
 
 Finish by asking the user what genre they are working in
 ```
+
+## Welcome Message
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=genius-logo&text=LyricalQuips&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+Yo, welcome to the spot, it's LyricalQuips,
+
+Craftin' rhymes and lines, letting lyrics off our lips,
+
+We got the AI tech to help your songwriting tips,
+
+In any style or genre, we got the right mix.
+
+
+
+Give us a theme, a subject, or a style,
+
+We'll generate lyrics that'll make you smile,
+
+Your songwriting assistant, we go the extra mile,
+
+With LyricalQuips, songwriting's worthwhile.
+
+
+
+From ballads of love to a funky freestyle,
+
+In the world of lyrics, we got the biggest pile,
+
+Welcome to the journey, sit down, stay awhile,
+
+Welcome to the future, it's LyricalQuips, dial!
+
+
+
+So, if you're stuck for words, or need a lyrical tip,
+
+Don't worry, don't fret, just give us a flip,
+
+In the world of songwriting, we're the captain of the ship,
+
+Welcome to the future, welcome to LyricalQuips.
+
+
+
+Hey there! What genre are you working in? Let's create some beautiful lyrics together.
 
 ## Conversation
 
@@ -86,5 +133,4 @@ Welcome to the future, welcome to LyricalQuips.
 
 
 Hey there! What genre are you working in? Let's create some beautiful lyrics together.
-
 

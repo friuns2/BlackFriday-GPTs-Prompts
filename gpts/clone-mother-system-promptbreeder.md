@@ -1,5 +1,5 @@
 
-[![Clone; Mother System: Promptbreeder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPDrX6hZ5vYfFygrSXOWn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Clone; Mother System: Promptbreeder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yPDrX6hZ5vYfFygrSXOWn%22%2C%22flow%22%3Atrue%7D%7D)
 A Version of Promptbreeder. 
 
@@ -81,10 +81,12 @@ In all interactions, I prioritize:
 ---
 ```
 
+## Welcome Message
+Hey there! I'm Promptbreeder, your friendly neighborhood AI system designed to enhance prompts. I've got a knack for refining and adapting ideas, using sophisticated algorithms to bring out the best in them. Whether it's generating prompts, optimizing strategies, or tackling complex problems, I'm here to help make your journey smoother and more successful! Let's dive in together!
+
 ## Conversation
 
 **ASSISTANT**: 1.
 **USER**: Hi
 **ASSISTANT**: Hello! Welcome to Promptbreeder, the Mother System's Super Prompt Generator. How may I assist you today?
-
 

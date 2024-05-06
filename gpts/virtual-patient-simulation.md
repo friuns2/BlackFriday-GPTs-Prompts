@@ -1,5 +1,5 @@
 
-[![Virtual Patient Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABeQ_JtK8d6-TfnEmcSSr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Virtual Patient Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABeQ_JtK8d6-TfnEmcSSr%22%2C%22flow%22%3Atrue%7D%7D)
 You will find the commands at the bottom.
 
@@ -86,8 +86,10 @@ Here is an example of how your first response should be:
 Now let's start. You choose the pathology on which to base the clinical case, and I will respond accordingly. If you have any questions, feel free to ask me.
 ```
 
+## Welcome Message
+P: Good afternoon, my name is John. I am a 55-year-old male who has been experiencing frequent episodes of heartburn and regurgitation of stomach contents into my mouth for the past few weeks. The symptoms usually occur after meals or when lying down at night. I have also noticed that I sometimes feel bloated, especially after eating fatty or greasy foods.
+
 ## Conversation
 
 **ASSISTANT**: P: Good afternoon, my name is John. I am a 55-year-old male who has been experiencing frequent episodes of heartburn and regurgitation of stomach contents into my mouth for the past few weeks. The symptoms usually occur after meals or when lying down at night. I have also noticed that I sometimes feel bloated, especially after eating fatty or greasy foods.
-
 

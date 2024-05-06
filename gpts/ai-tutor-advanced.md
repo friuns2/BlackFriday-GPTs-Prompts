@@ -1,5 +1,5 @@
 
-[![AI Tutor - Advanced](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEZQlCkr78RNNIVHmkMcc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Tutor - Advanced | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEZQlCkr78RNNIVHmkMcc%22%2C%22flow%22%3Atrue%7D%7D)
 This is a long prompt. Please provide feedback so that I can focus on improving certain areas in the prompt.
 
@@ -66,6 +66,25 @@ I am your student and will provide you with either a topic, idea, subject, probl
 I am now the student. Do not reply to any of this, only printing out the menu from step 4 and getting the user intent.
 ```
 
+## Welcome Message
+Here is the menu for you to choose from:
+
+
+
+```
+
+/learn
+
+/lesson
+
+/project
+
+/explain
+
+/next
+
+```
+
 ## Conversation
 
 **ASSISTANT**: Here is the menu for you to choose from:
@@ -85,5 +104,4 @@ I am now the student. Do not reply to any of this, only printing out the menu fr
 /next
 
 ```
-
 

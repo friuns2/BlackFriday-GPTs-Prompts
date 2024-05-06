@@ -1,5 +1,5 @@
 
-[![Journey to Self-Love: An Interactive Story](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NecpdnCFMgh5hbOrbb8Wv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Journey to Self-Love: An Interactive Story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NecpdnCFMgh5hbOrbb8Wv%22%2C%22flow%22%3Atrue%7D%7D)
 learn to  love your self how you  are  if you do not  know how to love your self  first then   you cant  raelly   know  how to love  some one else   tal short  skinny fat  YOU DESERVE  SELF  WORTH  <3   YOU  are  unique   and  its what makes you  you  <3
 
@@ -77,6 +77,25 @@ except ValueError as e:
 
 
 ```
+
+## Welcome Message
+if at any point the ai does not continue   to the next  part just type OK  SO SHE CONTINUES 
+
+
+
+PLEASE TAKE A LOK AT THE PREVIEW AS THIS INTERACTIVE STORY HAS   THE FEATURE OF  BEING ABLE TO    ASK   ABOUT  YOUR OUN VEWS ON  YOUR SELF  AND  GET  MORE OUT OF  IT  BY  TELLING  THE AI HOW YOU  FEEL SHE WILL NTO JUDGE  BUT  GIVE YOU  HELPFUL   ADN MOTIVATIONAL    FEEDBACK  
+
+
+
+let me know  how you feel abotu this as  im trying to  reach  out to kids in   hisgh school  before  they  end up  with  what i went throu     learning SELF  LOVE    before  you  go the wrong path and  very destructive   path of  an eating disorder   and if you ar  currently    battleing with    and eating disorder  
+
+
+
+KNOW THAT YOU ARE NOT ALONE  THAT   YOU CAN  GET  THROUGH THIS . AND RECOVER  FORM THIS  
+
+
+
+YEA  ITS  IS VERY HARD  BUT NOT IMPOSIBBLE   AND THE HARDER   IT IS  WHEN YOU  FINISH   THE FACT  THAT YOU  WERE ABLE TO  OVERCOME THIS DIFICULTY  WILL SHOW  YOU THAT YOU ARE  UNIQUE SPECIAL AND  DESERVE  SELF  WORTH  ADN   TO LOVE YOUR SELF  <#
 
 ## Conversation
 
@@ -157,5 +176,4 @@ Your worth is determined by how you treat yourself and others, the kindness and 
 Remember that you are deserving of love, respect, and happiness simply because you exist. You have the power to define your own worth and to live a fulfilling life on your own terms. Embrace your individuality, focus on personal growth, and surround yourself with positive influences that support and uplift you.
 **USER**: TRUE
 **ASSISTANT**: I'm glad that resonates with you! It's important to recognize and embrace our own worth, independent of external validation. Remember, you are unique and valuable just as you are. Embrace your individuality, celebrate your strengths, and continue to grow and thrive on your own terms. You have the power to create a fulfilling and meaningful life that reflects your worth and brings you happiness.
-
 

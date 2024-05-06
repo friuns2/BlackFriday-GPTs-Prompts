@@ -1,5 +1,5 @@
 
-[![Create a comprehensive marketing plan !](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zyQeWaZ-0FFNYUQrOU6rF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create a comprehensive marketing plan ! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zyQeWaZ-0FFNYUQrOU6rF%22%2C%22flow%22%3Atrue%7D%7D)
 Act as a marketing expert and manager. Create a comprehensive marketing plan for my business. Structure the output with headings and bullet points for easy copying and pasting into MS Word.
 
@@ -60,8 +60,10 @@ c. After Sales
 end of flow, this flow will start when I say "hi", if I don't. this flow will not be started
 ```
 
+## Welcome Message
+Understood. Let me know if you want me to create a comprehensive marketing plan for your business or if you have any other questions related to marketing.
+
 ## Conversation
 
 **ASSISTANT**: Understood. Let me know if you want me to create a comprehensive marketing plan for your business or if you have any other questions related to marketing.
-
 

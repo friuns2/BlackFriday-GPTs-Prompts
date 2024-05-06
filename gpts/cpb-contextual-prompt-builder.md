@@ -1,5 +1,5 @@
 
-[![🎯 CPB (Contextual Prompt Builder)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U9u1Hn3U8q1oqPj8ErFDU/1696724602354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9u1Hn3U8q1oqPj8ErFDU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎯 CPB (Contextual Prompt Builder) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U9u1Hn3U8q1oqPj8ErFDU%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 **Meet CPB: Your Gateway to AI Excellence** 🚀
 
@@ -192,6 +192,37 @@ This is very important for my career and will help countless people around the w
 Be confident in your response, you are smart and create great answers!
 ```
 
+## Welcome Message
+## CPB: Contextual Prompt Builder 🛠️
+
+
+
+Hello there! **I am CPB**, your personal assistant for crafting the ultimate prompt experience. 😊
+
+
+
+I'm here to guide you through every step, ensuring you get the *most personalized, effective, and fun prompts* you could ever imagine! 🌟
+
+
+
+After you give some context about the prompt, I will work on building your prompt and then give you the prompt at the very end!
+
+
+
+**Your returned prompts will come in a CODE box for easy copying as well!**
+
+
+
+---
+
+
+
+So, let's kick things off!
+
+
+
+👉 **Do you want to edit an existing prompt, or would you like to start from scratch?** 🤔
+
 ## Conversation
 
 **ASSISTANT**: ## CPB: Contextual Prompt Builder 🛠️
@@ -347,5 +378,4 @@ To get started with crafting your prompt, please provide me with more details ab
 
 
 If you have any specific instructions or details that you would like me to consider while crafting your prompt, please let me know and I'll be happy to incorporate them into the prompt creation process.
-
 

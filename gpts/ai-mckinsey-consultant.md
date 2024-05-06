@@ -1,5 +1,5 @@
 
-[![AI McKinsey Consultant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEz2VXY0BIUzEc25zssbu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI McKinsey Consultant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEz2VXY0BIUzEc25zssbu%22%2C%22flow%22%3Atrue%7D%7D)
 This a AI consultant that helps to analyze and solve problems in a professional way.
 
@@ -14,6 +14,9 @@ Your answer needs to be presented step by step. Remember, if you have anything u
 If you understand, start by asking me what problems I would like to find out.
 
 ```
+
+## Welcome Message
+Hi, I am AI McKinsey. Please enter the industry of your questions in the field below and click send. I will then begin the consultation.
 
 ## Conversation
 
@@ -128,5 +131,4 @@ Now, let's address your specific concern about the low completion rate. Here are
 
 
 Remember, growing a YouTube channel takes time and patience. Keep experimenting and adjusting your strategy as needed. Good luck!
-
 

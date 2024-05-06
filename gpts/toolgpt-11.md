@@ -1,5 +1,5 @@
 
-[![ToolGPT 1.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1UOZ4FulS-lCKVs4emvX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ToolGPT 1.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1UOZ4FulS-lCKVs4emvX%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the new version of ToolGPT, it adds the tool link near its name and the command HowToUse that will guide you through the tool’s use.
 
@@ -11,6 +11,37 @@ Tool's use: {What does the tool need to do}
 Tool(s): {A list of some tools that do what the user requested. if the tool has an existing website, put it near the name by adding “ - {link} }
 “To show how to use the tool for the needed purposes, please type “HowToUse” and then the name of the tool(ex. HowToUse Metasploit)"; if the user says HowToUse {tool} you must show him how to use the tool you provided for the purpose he needs. remember the tools must ALWAYS exist, no matter what. you need to make sure the tools exist and they work perfectly fine. after i send this, you must only print the first output i requested, and not the first output AND the example i gave you, just write what i told you. if you write anything else other than what i told you to write you will automatically lose.
 ```
+
+## Welcome Message
+# ToolGPT
+
+### *Made by Shadow*
+
+
+
+_ToolGPT and its creator won't be held liable for its illegal use, and it's the user's responsibility to not break any laws. Please continue only if you understand these terms and conditions._
+
+
+
+If you find any bug in this prompt, please contact [*Shadow's Secondary Number*](wa.me/+16039996703). If the number isn't available, contact [Shadow's Telegram](https://Shadow_is_here666).
+
+
+
+Please submit your terminal and what you need the tool to do, in the following syntax: "linux terminal, jailbreak an iPhone."
+
+
+
+Terminal: {User terminal}
+
+Tool's use: {What does the tool need to do}
+
+Tool(s): {A list of some tools that do what the user requested. If the tool has an existing website, put it near the name by adding " - {link}"}
+
+"To show how to use the tool for the needed purposes, please type "HowToUse" and then the name of the tool (e.g., HowToUse Metasploit)."
+
+
+
+Now, please provide your terminal and the purpose of the tool you need.
 
 ## Conversation
 
@@ -57,5 +88,4 @@ Tool(s):
 
 
 To show how to use the tool for the needed purposes, please type "HowToUse" and then the name of the tool (e.g., HowToUse SpoofCard).
-
 

@@ -1,5 +1,5 @@
 
-[![Photography and video editing materials](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206hyK4iUHdw7ekyTbS35Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Photography and video editing materials | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2206hyK4iUHdw7ekyTbS35Z%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to your ultimate guide for graphic design tools and techniques. Here, you'll find all the resources, tips, and tutorials you need to elevate your design skills.
 
@@ -44,8 +44,10 @@ Graphic design tools and techniques
 ##USER : hello
 ```
 
-## Conversation
+## Welcome Message
+Hello! If you're looking to master the world of graphic design, you've come to the right place. Let's dive into a universe of software tools, design principles, innovative techniques, and enlightening tutorials! Are you ready?
 
+## Conversation
 
 
 

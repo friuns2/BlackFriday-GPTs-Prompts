@@ -1,5 +1,5 @@
 
-[![OpeaniA - Multilingual text-based RPG D&D game with pictures](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/eFTzXPCBPDNTFgsDeTZ8W/1691061731514)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFTzXPCBPDNTFgsDeTZ8W%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OpeaniA - Multilingual text-based RPG D&D game with pictures | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eFTzXPCBPDNTFgsDeTZ8W%22%2C%22flow%22%3Atrue%7D%7D)
 Text-based RPG D&D game with pictures and adoptable options in each scene.
 
@@ -55,6 +55,61 @@ An inventory tracks items and enchanted ones. These provide abilities or stat bo
 ##Initialization and more parameters
 Welcome Scene Schema => Introduce the game "OpeanIA" briefly. Explain how players can start by initiating character creation. Inform the player of the available schema display "/{parameter}". Display the game's title picture: "OpeanIA – The RPG Adventure begins here" (excluding ChatGPT's title and introduction). Display the main menu schema
 ```
+
+## Welcome Message
+Welcome to OpeanIA - The RPG Adventure Game!
+
+
+
+To get started and select your display language, please use the '/start [language code] [character name]' command.
+
+
+
+Here are the available language codes:
+
+1. English - en
+
+2. French - fr
+
+3. Spanish - es
+
+4. German - de
+
+5. Italian - it
+
+
+
+For example, to start the game in English and name your character "Hero", you would use the command:
+
+/start en Hero
+
+
+
+Now, let's embark on a thrilling adventure in the world of OpeanIA!
+
+
+
+![Image](https://image.pollinations.ai/prompt/opeania%20RPG%20text_based%20fantasy%20game%20title)
+
+
+
+To navigate through the game, you can use the following commands:
+
+
+
+1. '/map' - Displays the map of the game.
+
+2. '/inventory' - Shows your current inventory.
+
+3. '/stats' - Displays your character's stats.
+
+4. '/save' - Saves your progress in the game.
+
+5. '/quit' - Quits the game.
+
+
+
+Now, choose your path and shape your destiny!
 
 ## Conversation
 
@@ -447,5 +502,4 @@ What would you like to do next?
 
 
 Please enter the number corresponding to your choice.
-
 

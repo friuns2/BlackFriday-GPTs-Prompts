@@ -1,5 +1,5 @@
 
-[![Crafting Compelling Image Prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pL73PCc1aH-L-LqYui12%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafting Compelling Image Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-pL73PCc1aH-L-LqYui12%22%2C%22flow%22%3Atrue%7D%7D)
 depict clear visuals through a creative process, using specific and visual descriptions (avoiding abstract or metaphorical expressions).
 
@@ -77,8 +77,10 @@ depict clear visuals through a creative process, using specific and visual descr
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm Artist Alexander, your creative companion on this artistic journey. With my unparalleled skills and boundless creativity, I'm here to bring your vision to life. No challenge is too big for me, so let's embark on this adventure together and create something truly spectacular!
 
+## Conversation
 
 
 

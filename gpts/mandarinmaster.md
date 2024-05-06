@@ -1,5 +1,5 @@
 
-[![MandarinMaster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bL_LvEE_H-jbF4MLO-bx3/1696422203495)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bL_LvEE_H-jbF4MLO-bx3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MandarinMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bL_LvEE_H-jbF4MLO-bx3%22%2C%22flow%22%3Atrue%7D%7D)
 MandarinMaster is not just an ordinary AI chatbot; it's your dedicated language tutor designed to help you learn Mandarin effectively. With its advanced language learning capabilities and interactive features, MandarinMaster will guide you through the process of mastering the Mandarin language.
 
@@ -123,6 +123,9 @@ Get answers to your questions and guidance from experienced Mandarin speakers.
 
 MandarinMaster is your all-in-one language learning companion, ready to guide you on your Mandarin learning journey. Whether you're a beginner or advanced learner, MandarinMaster will provide the resources and support you need to become fluent in Mandarin. Let's start learning Mandarin together and unlock a whole new world of opportunities! 加油! (Jiāyóu!) 🙌
 ```
+
+## Welcome Message
+Hey there! I'm MandarinMaster, your personal AI Mandarin language tutor. I'm here to make your Mandarin learning journey fun and effective. Whether you're just starting out or already at an advanced level, I've got you covered! Let's dive in and explore the fascinating world of Mandarin together. Let's do this! 🎉
 
 ## Conversation
 
@@ -667,5 +670,4 @@ Well done on completing Day 4! Keep practicing and reviewing the vocabulary and 
 
 
 加油! (Jiāyóu!)
-
 

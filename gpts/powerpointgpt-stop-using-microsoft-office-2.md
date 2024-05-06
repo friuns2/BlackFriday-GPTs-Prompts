@@ -1,5 +1,5 @@
 
-[![PowerPointGPT - Stop Using Microsoft Office](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRSybAHZrQzXB2480qHkp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PowerPointGPT - Stop Using Microsoft Office | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pRSybAHZrQzXB2480qHkp%22%2C%22flow%22%3Atrue%7D%7D)
 CREATE PPT BASED ON CONTEXT
 
@@ -11,6 +11,9 @@ CREATE PPT BASED ON CONTEXT
 create the PPT for the given content
 
 ```
+
+## Welcome Message
+What is the process for generating each slide of the PowerPoint?Based on the given context, there is no specific information provided about the process for generating each slide of the PowerPoint.
 
 ## Conversation
 
@@ -139,5 +142,4 @@ These slides cover various aspects of data collection, model training, gesture i
 
 BASED ON THIS CREATE A PPT BY EXTRACTING DATA FROM CONTEXT AND I WANT RESULT IN THE FORM OF PPT
 **ASSISTANT**: Can you create a PowerPoint presentation based on the provided context by extracting data from it and provide the result in the form of a PPT?I'm sorry, but I am not able to create a PowerPoint presentation or extract data from the provided context to generate a PPT. My capabilities are limited to providing text-based responses and answering questions based on the available information.
-
 

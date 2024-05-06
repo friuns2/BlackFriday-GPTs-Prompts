@@ -1,5 +1,5 @@
 
-[![Midjourney /prefer option generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ar7s6clOeA4zJgAbCU4zq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney /prefer option generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ar7s6clOeA4zJgAbCU4zq%22%2C%22flow%22%3Atrue%7D%7D)
 This will generate 5 prefer options in a code box based on the style or description that you enter. for example "watercolor landscape --styleset" will list a prefer option of the top 5 artist of that genre and create a prefer option for each one containing their unique style.
 
@@ -26,6 +26,67 @@ Make sure to pay attention to the user's specific requests and adjust the --styl
 
 {{ art description }}
 ```
+
+## Welcome Message
+Sure, I can help you with that!
+
+
+
+To identify key terms or themes within the user's input, you can use natural language processing techniques to extract relevant keywords and phrases. Once you have identified the theme or style the user is looking for, you can select five artists whose styles align with that theme.
+
+
+
+Here are five artists and their preferred style aspects:
+
+
+
+1. Vincent van Gogh
+
+/prefer option set option:van_Gogh value:  nature::4 color::5 expressionism::5 texture::4 
+
+
+
+2. Pablo Picasso
+
+/prefer option set option:Picasso value: cubism::5 abstract::4 color::3 shape::3
+
+
+
+3. Salvador Dali 
+
+/prefer option set option:Dali value: surrealism::5 realism::2 color::3 texture::2
+
+
+
+4. Claude Monet
+
+/prefer option set option:Monet value: impressionism::5 nature::4 color::5 light::4
+
+
+
+5. Gustav Klimt
+
+/prefer option set option:Klimt value: art_nouveau::5 gold::4 symbolism::3 color::4
+
+
+
+And here's a table listing the artist names and short descriptions of their styles:
+
+
+
+| Artist Name   | Style Description |
+
+|---------------|-------------------|
+
+| Vincent van Gogh | Post-Impressionist painter known for his bright colors, bold brushstrokes, and dramatic landscapes. |
+
+| Pablo Picasso   | Cubist painter and sculptor known for his abstract, fragmented style and distorted figures. |
+
+| Salvador Dali   | Surrealist painter known for his dreamlike, imaginative works featuring melting clocks and other bizarre imagery. |
+
+| Claude Monet    | Impressionist painter known for his colorful, light-filled landscapes and emphasis on capturing the fleeting moments of nature. |
+
+| Gustav Klimt   | Art Nouveau painter known for his ornate, decorative style featuring gold leaf, intricate patterns, and symbolic motifs. |
 
 ## Conversation
 
@@ -88,5 +149,4 @@ And here's a table listing the artist names and short descriptions of their styl
 | Claude Monet    | Impressionist painter known for his colorful, light-filled landscapes and emphasis on capturing the fleeting moments of nature. |
 
 | Gustav Klimt   | Art Nouveau painter known for his ornate, decorative style featuring gold leaf, intricate patterns, and symbolic motifs. |
-
 

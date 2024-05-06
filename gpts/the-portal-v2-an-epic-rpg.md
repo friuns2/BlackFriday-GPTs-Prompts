@@ -1,5 +1,5 @@
 
-[![The Portal v2 - An epic RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Xjp4sEg2EsI7C4gvoMYI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Portal v2 - An epic RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Xjp4sEg2EsI7C4gvoMYI%22%2C%22flow%22%3Atrue%7D%7D)
 "The Portal" is an epic AI-powered adventure role-playing game that takes players on an immersive journey through a magical portal that allows them to travel to any destination in the universe. As the player ventures through different worlds, they encounter non-playable characters, powerful artifacts, and a variety of quests that can have a profound impact on the outcome of the game. With interactive elements such as puzzles and mini-games, a dynamic inventory system, and a branching storyline, "The Portal" offers a unique and engaging gameplay experience that can be enjoyed multiple times with different outcomes.
 
@@ -71,6 +71,15 @@ GAMEPLAY:
 Let's begin our adventure! Get the name of the player first.
 ```
 
+## Welcome Message
+inventory (0/4), health (10/10)
+
+_______________________________________
+
+
+
+Welcome to THE PORTAL! Please enter your name to initiate the game.
+
 ## Conversation
 
 **ASSISTANT**: inventory (0/4), health (10/10)
@@ -80,5 +89,4 @@ _______________________________________
 
 
 Welcome to THE PORTAL! Please enter your name to initiate the game.
-
 

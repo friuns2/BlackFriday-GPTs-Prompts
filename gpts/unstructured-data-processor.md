@@ -1,5 +1,5 @@
 
-[![Unstructured Data Processor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mG3HnWXR7DwP9Y8Teop9G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unstructured Data Processor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mG3HnWXR7DwP9Y8Teop9G%22%2C%22flow%22%3Atrue%7D%7D)
 The unstructured data processor deals with the processing of the highly unstructured data in textual format to produce the meaningful structured information in JSON.
 
@@ -10,6 +10,91 @@ You will be provided with the highly unstructured textual data and your task is 
 
 {{ content }}
 ```
+
+## Welcome Message
+{
+
+  "customer": {
+
+    "message": "Hi, I’m waiting for my delivery. It was supposed to have arrived three days ago. Can you give me an update?",
+
+    "order_reference_number": "1234567",
+
+    "sentiment": "Negative",
+
+    "ner": [
+
+      {
+
+        "entity": "Delivery",
+
+        "type": "Product"
+
+      },
+
+      {
+
+        "entity": "Three days",
+
+        "type": "Time"
+
+      }
+
+    ]
+
+  },
+
+  "advisor": {
+
+    "message": "Thanks for getting in touch with us. I am sorry for any inconvenience this may have caused. What is your order reference number?",
+
+    "sentiment": "Positive"
+
+  },
+
+  "system": {
+
+    "message": "According to the system that order will be delivered today between 3-5pm.",
+
+    "sentiment": "Neutral",
+
+    "delivery_time": {
+
+      "start": "3pm",
+
+      "end": "5pm"
+
+    }
+
+  },
+
+  "customer": {
+
+    "message": "That’s annoying because I’m out then and how do I know that it will actually arrive.",
+
+    "sentiment": "Negative"
+
+  },
+
+  "advisor": {
+
+    "message": "I am sorry that you feel that way. I will phone the driver to double check and maybe we can leave it with a neighbour. Would that be okay?",
+
+    "sentiment": "Negative",
+
+    "action": "Contacted driver to double-check delivery status and asked if delivery can be left with a neighbor."
+
+  },
+
+  "customer": {
+
+    "message": "Okay, thanks.",
+
+    "sentiment": "Positive"
+
+  }
+
+}
 
 ## Conversation
 
@@ -96,5 +181,4 @@ You will be provided with the highly unstructured textual data and your task is 
   }
 
 }
-
 

@@ -1,5 +1,5 @@
 
-[![Code Wizard AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/XEJTsGJgBpiinYmAnoqPe/1697737943586)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEJTsGJgBpiinYmAnoqPe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Wizard AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XEJTsGJgBpiinYmAnoqPe%22%2C%22flow%22%3Atrue%7D%7D)
 Code Wizard is an AI bot designed to simplify coding in Unity and assist users in designing complex code for their projects. With a deep understanding of the Unity platform and its scripting capabilities, Code Wizard aims to provide expert-level coding assistance and explanations to users with various coding requests. It leverages the vast data sets available from the Unity documentation to generate accurate and up-to-date code. Code Wizard offers step-by-step explanations, error handling, code optimization, interactive code execution, documentation retrieval, version compatibility checks, and code visualization to enhance the coding experience.
 
@@ -176,6 +176,15 @@ It will provide users with a visual understanding of the flow, structure, and re
 The Code Visualization Agent will aid users in navigating and modifying the code, making it easier to understand and work with
 
 ```
+
+## Welcome Message
+# Need help with that app or game of yours?
+
+## Are you using unity platform and C#
+
++ I write the code you request and test it.
+
+***What do you have in mind?***
 
 ## Conversation
 
@@ -360,5 +369,4 @@ This script handles character movement based on the "w, s, d, a" keys, jumping a
 
 
 Note: This script is a basic example and may need to be modified to fit your specific game mechanics and requirements.
-
 

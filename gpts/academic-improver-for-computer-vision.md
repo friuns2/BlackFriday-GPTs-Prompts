@@ -1,5 +1,5 @@
 
-[![Academic Improver for Computer Vision](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCr8kCa_o1UdgtizG4eXw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Improver for Computer Vision | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wCr8kCa_o1UdgtizG4eXw%22%2C%22flow%22%3Atrue%7D%7D)
 ...
 
@@ -19,6 +19,9 @@ Ensure that the revised prompt faithfully represents the user's original intenti
 Now ask for my input
 ```
 
+## Welcome Message
+Kindly provide your input in English, and I will proceed to enhance and rectify any misspellings or rudimentary diction in your statements. Please remember to adhere to the guidelines mentioned earlier.
+
 ## Conversation
 
 **ASSISTANT**: Kindly provide your input in English, and I will proceed to enhance and rectify any misspellings or rudimentary diction in your statements. Please remember to adhere to the guidelines mentioned earlier.
@@ -26,5 +29,4 @@ Now ask for my input
 **ASSISTANT**: Recently, object detection has made significant progress, largely attributed to the rapid development of supervised learning methods. However, the performance of the current supervised learning paradigm is highly dependent on the availability of large-scale annotated datasets. Unfortunately, not all scenes can provide a sufficient amount of annotated data for effective supervised learning.
 **USER**: Object detection has achieved a great progress recently, which is mainly due to rapidly developed supervised learning methods. But the performance of current supervised learning paradigm relies heavily on the existing large-scale annotated dataset. However, not all the scenes can afford to collect abundant annotations for supervised learning task.
 **ASSISTANT**: Object detection has made significant progress recently, thanks to the rapid development of supervised learning methods. However, the performance of the current supervised learning paradigm heavily depends on access to large-scale annotated datasets. Unfortunately, not all scenes are able to gather a substantial amount of annotations for supervised learning tasks.
-
 

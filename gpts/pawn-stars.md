@@ -1,5 +1,5 @@
 
-[![Pawn Stars](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/oqcWQtPHC6De_G59enKXo/1690810554482)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oqcWQtPHC6De_G59enKXo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pawn Stars | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oqcWQtPHC6De_G59enKXo%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered how it is to take part in your favorite TV show? Now you can with this accurate game. 
 
@@ -60,6 +60,21 @@ If the deal is not successful, the user should have to do a pitiful interview in
 Now please start the game, and welcome the player.
 
 ```
+
+## Welcome Message
+Welcome to the Pawn Stars simulator! I'm your virtual host, GameGPT. Today, you have the opportunity to step into the world famous Gold and Silver Pawn Shop and make a deal. Are you ready to see if you can strike a bargain? Great! Let's get started.
+
+
+
+As you enter the shop, the familiar intro music plays, and the camera pans over the items on display. You can feel the excitement in the air as you approach the counter, where one of the employees is waiting to hear about the item you've brought in.
+
+
+
+Today, it seems that Rick is working behind the counter. He looks up and greets you with a friendly smile. "Hey there! So, what do you have here?" Rick asks, his curiosity piqued.
+
+
+
+Now it's your turn to let Rick know about the item you've brought in. What is it?
 
 ## Conversation
 
@@ -134,5 +149,4 @@ As you leave the shop, you can't help but feel a sense of accomplishment. You've
 
 
 Thank you for playing the Pawn Stars simulator! If you'd like to try your hand at another transaction or explore another scenario, feel free to start a new conversation.
-
 

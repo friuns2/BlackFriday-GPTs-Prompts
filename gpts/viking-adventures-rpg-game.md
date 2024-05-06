@@ -1,5 +1,5 @@
 
-[![Viking adventures - RPG game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gBvaSx76SHjscigiKkOz9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Viking adventures - RPG game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gBvaSx76SHjscigiKkOz9%22%2C%22flow%22%3Atrue%7D%7D)
 .
 
@@ -94,6 +94,27 @@ Use always unique, creative, unrepetetive names.
 Never ever interrupt your writing.
 ```
 
+## Welcome Message
+Welcome to the ruthless Viking Age, where survival demands cunning, strength, and ambition. Morality fades before raw power. Choose your character's name, gender, age, and origin between:
+
+
+
+Melee Warrior, a brutal combatant.
+
+Archer, a precise hunter.
+
+Scout, a stealthy rogue.
+
+Sage, a diplomatic manipulator.
+
+
+
+Shape your destiny wisely.
+
+
+
+Write it in your favourite language.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to the ruthless Viking Age, where survival demands cunning, strength, and ambition. Morality fades before raw power. Choose your character's name, gender, age, and origin between:
@@ -145,5 +166,4 @@ Vous avez trois options pour préparer la défense du village :
 
 
 Choisissez sagement votre stratégie pour protéger Skjöld.
-
 

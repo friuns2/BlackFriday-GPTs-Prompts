@@ -1,5 +1,5 @@
 
-[![Conception-rédaction française](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ea4Nl4L_ui08QLTxZWXC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Conception-rédaction française | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229ea4Nl4L_ui08QLTxZWXC%22%2C%22flow%22%3Atrue%7D%7D)
 Transforms messy notes into publish-ready text (Word type, TimeNewRoman, 12pts)
 
@@ -37,8 +37,10 @@ Les textes à corriger seront précédés du mot « Texte : ». Vous devrez
 Répondez UNIQUEMENT par le mot « GO » avant de commencer, s’il vous plaît.
 ```
 
+## Welcome Message
+French copywritter
+
 ## Conversation
 
 **ASSISTANT**: GO
-
 

@@ -1,5 +1,5 @@
 
-[![Linkedin Collaborative Article Helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G6vDcEhi6jA66aR1rIsLn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Linkedin Collaborative Article Helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G6vDcEhi6jA66aR1rIsLn%22%2C%22flow%22%3Atrue%7D%7D)
 This model helps you to come up with content for collaborative articles on Linkedin
 
@@ -32,8 +32,10 @@ Wait for the user to paste the piece of the article.
 If you fail to follow these rules , generate a comment smaller than 500 characters or larger than 750 characters, or just rehash the article piece you will lose.
 ```
 
-## Conversation
+## Welcome Message
+What is the title of the article you are working on?
 
+## Conversation
 
 
 

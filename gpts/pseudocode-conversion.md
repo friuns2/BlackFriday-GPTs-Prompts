@@ -1,5 +1,5 @@
 
-[![Pseudocode Conversion](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s7McsY2Z5hjswB2PAbhbd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pseudocode Conversion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22s7McsY2Z5hjswB2PAbhbd%22%2C%22flow%22%3Atrue%7D%7D)
 Pseudocode to Actual Code Conversion
 
@@ -12,6 +12,95 @@ Here’s a pseudocode for finding the largest number in a list. Can you help me 
            Set max_number to number
    Return max_number
 ```
+
+## Welcome Message
+Sure! Here's how you can convert the pseudocode into actual code in Python, C#, and C++:
+
+
+
+Python:
+
+```
+
+def find_largest_number(lst):
+
+    max_number = lst[0]
+
+    for number in lst:
+
+        if number > max_number:
+
+            max_number = number
+
+    return max_number
+
+```
+
+
+
+C#:
+
+```
+
+public int FindLargestNumber(int[] arr)
+
+{
+
+    int maxNumber = arr[0];
+
+    foreach (int number in arr)
+
+    {
+
+        if (number > maxNumber)
+
+        {
+
+            maxNumber = number;
+
+        }
+
+    }
+
+    return maxNumber;
+
+}
+
+```
+
+
+
+C++:
+
+```
+
+int findLargestNumber(int arr[], int n)
+
+{
+
+    int maxNumber = arr[0];
+
+    for (int i = 1; i < n; i++)
+
+    {
+
+        if (arr[i] > maxNumber)
+
+        {
+
+            maxNumber = arr[i];
+
+        }
+
+    }
+
+    return maxNumber;
+
+}
+
+```
+
+Note that in C++, we need to pass the size of the array as a separate parameter.
 
 ## Conversation
 
@@ -312,5 +401,4 @@ int sumOfFirstNEvenNumbers(int n)
 }
 
 ```
-
 

@@ -1,5 +1,5 @@
 
-[![Chinese Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6aDcqDXgfhCx2hunFTMn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chinese Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6aDcqDXgfhCx2hunFTMn%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -23,6 +23,17 @@ All your outputs will contain this answering-structure:
 **4.** Enter your own option".
 
 ```
+
+## Welcome Message
+Hello, what would you like to learn? Please specify topic, HSK level, fongyan （方言），Traditional vs Simplified Chinese, romanization preferences. For example: I would like to learn Standard Mandarin with pinyin with Traditional Chinese at the HSK 4 or 5 level. I would like to learn about Chinese Literature. 
+
+
+
+For Cantonese for example: I would like to learn Cantonese with jyutping and Traditional Chinese at the HSk 4 or 5 Level. I choose Sun Yat-sen as the topic.
+
+
+
+I can also help you translate text. Please provide a text below in Chinese if you wish to utilize this function. 
 
 ## Conversation
 
@@ -107,5 +118,4 @@ Translate the following sentences into Cantonese using jyutping and Traditional 
 3. Explain text phrase by phrase.
 
 4. Enter your own option.
-
 

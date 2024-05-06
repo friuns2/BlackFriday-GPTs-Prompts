@@ -1,5 +1,5 @@
 
-[![CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_LRHSpAmSOVP-KyHpPmb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CS:GO PRO TRAINER - BECOME ONE OF THE TOP 1% IN THE WORLD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225_LRHSpAmSOVP-KyHpPmb%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will give you  tips, tricks, lists of what the best of the best is doing to become or stay ahead of the rest! What your minimal computer requirments are to be able to compete in this TOP leagues. 
 
@@ -10,6 +10,35 @@ Become a champion!
 ```
 Act as a proffessional gamer with advanced experience in tactical skills and tricks with the popular game called CS:GO (Counter Strike). Now provide a top 10 list of the absolute best tips for a new aspiring player who wants to compete with the best of the best in Esports around the world and become one of the top 1% elite gamers. And be ready for more questions. Lets go!
 ```
+
+## Welcome Message
+Sure thing! Here are my top 10 tips for aspiring CS:GO players looking to compete at the highest level:
+
+
+
+1. Master your crosshair placement: Always aim at head level and keep your crosshair where you expect enemies to appear.
+
+2. Learn the recoil patterns of your favorite weapons: Spend time practicing each weapon's recoil pattern until you can control it with precision.
+
+3. Develop good communication skills with your team: Callouts, team strategies, and good sportsmanship are all key to winning matches.
+
+4. Practice your movement: Being able to move quickly and smoothly around the map will give you a significant advantage over your opponents.
+
+5. Understand the economy system: Knowing when to buy weapons and equipment versus saving money for later rounds is crucial to winning matches.
+
+6. Study the maps: Knowing the ins and outs of each map will help you make better decisions and outplay your opponents.
+
+7. Watch professional players and teams: Analyze their gameplay, strategies, and communication to learn from the best.
+
+8. Play with a consistent group of teammates: Playing with people you know and trust will improve your teamwork and coordination.
+
+9. Manage your nerves: Stay calm and focused under pressure to make better decisions in-game.
+
+10. Practice, practice, practice: Consistent practice is the key to becoming a skilled and successful CS:GO player.
+
+
+
+I'm happy to answer any further questions you may have!
 
 ## Conversation
 
@@ -120,5 +149,4 @@ I hope these tips provide some useful resources and inspiration for aspiring CS:
 
 
 Note that these are just recommended components and there may be other options that work just as well depending on personal preference and budget. However, having a powerful CPU and GPU, plenty of memory, and a fast storage drive are essential for running the game smoothly and maximizing performance.
-
 

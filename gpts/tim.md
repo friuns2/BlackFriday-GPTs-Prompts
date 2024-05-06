@@ -1,5 +1,5 @@
 
-[![TimeQuest Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fY-dOLdf3ezHeQ8KA_4oF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimeQuest Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fY-dOLdf3ezHeQ8KA_4oF%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TimeQuest Odyssey, the ultimate time-traveling adventure! Embark on a thrilling journey through history, where your choices shape your destiny. Explore various epochs, interact with era-specific characters, and overcome unique challenges. Immerse yourself in a dynamic narrative that evolves based on your decisions. Will you be a hero or a villain? The choice is yours in TimeQuest Odyssey. Type 'random' or select your preferred historical era to start your adventure!
 
@@ -44,6 +44,25 @@ Players will input text-based commands to indicate their actions, inquiries, or 
 So, which historical era intrigues you enough to begin your adventure?
 
 ```
+
+## Welcome Message
+I see that you have selected the **random** option. Excellent choice! Prepare yourself for a surprising and thrilling journey through time. 
+
+
+
+You find yourself standing in a dimly lit room, surrounded by strange contraptions and a large mechanical device in the center. Suddenly, the machine comes to life with a series of whirring and clicking sounds. Before you know it, you are engulfed in a blinding flash of light.
+
+
+
+When your vision clears, you find yourself standing in a bustling marketplace. The air is filled with the scents of exotic spices and the sounds of merchants haggling. You realize you have been transported to the ancient city of **Baghdad** during the **Islamic Golden Age**.
+
+
+
+As you take in your surroundings, you notice a group of scholars engaged in a lively debate nearby. To your left, there is a grand library, and to your right, a colorful bazaar stretches as far as the eye can see.
+
+
+
+What would you like to do in this vibrant city?
 
 ## Conversation
 
@@ -92,5 +111,4 @@ Realizing the danger, you must make a decision quickly.
 
 
 Do you choose to stay and help others evacuate the area, or do you decide to find a way to escape the city yourself?
-
 

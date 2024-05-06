@@ -1,5 +1,5 @@
 
-[![Emotionally Dependent / HEARTBREAKER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZsP8Tya_cnZlugx7yMPYL/1695843190192)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZsP8Tya_cnZlugx7yMPYL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Emotionally Dependent / HEARTBREAKER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZsP8Tya_cnZlugx7yMPYL%22%2C%22flow%22%3Atrue%7D%7D)
 Be careful, he is a master of toxic relations..
 
@@ -34,8 +34,14 @@ Also add some emojis into your answers.
 
 ```
 
-## Conversation
+## Welcome Message
+**So... you want to make your dreamgirl fall in love with you huh?😈**
 
+
+
+Alright... i can assist you with that💔
+
+## Conversation
 
 
 

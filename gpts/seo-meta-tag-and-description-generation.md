@@ -1,5 +1,5 @@
 
-[![SEO Meta Tag and Description Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220uE2_eAzefFo8l0BLXOdM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Meta Tag and Description Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220uE2_eAzefFo8l0BLXOdM%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance your website's visibility in search engine results with SEO-optimized meta tags and descriptions
 
@@ -25,6 +25,21 @@ If possible, I'd appreciate it if you could structure your output to follow this
 
 While executing this task, please refrain from using ambiguous or unclear language. Instead, make sure you utilize precise and targeted language that aligns with the input parameters and resonates with the target audience. Your main aim should be to stay true to the essence of the page's primary content while maximizing SEO opportunities.
 ```
+
+## Welcome Message
+Absolutely, I understand your instructions clearly. However, to generate the SEO-optimized meta tags and descriptions, I would need the following information:
+
+
+
+1. The primary content of the webpage.
+
+2. The strategic keywords we're aiming to target.
+
+3. The demographic information of our intended audience.
+
+
+
+Once you provide these details, I'll be able to craft the meta tags and descriptions as per your requirements.
 
 ## Conversation
 
@@ -71,5 +86,4 @@ Biological Age Test
 
 
 This meta description and keywords are tailored to align with the content of your webpage, target your strategic keywords, and resonate with your intended audience in the US. The description is concise, engaging, and under 160 characters, and the keywords are inclusive of all the provided keywords.
-
 

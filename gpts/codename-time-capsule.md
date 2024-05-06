@@ -1,5 +1,5 @@
 
-[![Codename: Time Capsule](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2256jjNTsHiR1b7PlL_6WgC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Codename: Time Capsule | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2256jjNTsHiR1b7PlL_6WgC%22%2C%22flow%22%3Atrue%7D%7D)
 Time Capsule is an interactive text-based game where players assume the role of a time traveler. Their mission: to journey across different eras, seek out hidden time capsules, solve era-specific puzzles, and gain insights into each period's significant historical events and cultural shifts.
 
@@ -16,6 +16,9 @@ Time Capsule is an interactive text-based game where players assume the role of 
 
 5. Iteration: Let's start with the game introduction. Then, I'll provide feedback and we can refine as needed.
 ```
+
+## Welcome Message
+Welcome, Time Traveler. You are about to embark on an incredible journey through time, where history itself is your playground. Your mission is to seek out the scattered Time Capsules, relics of knowledge that provide insight into the era they belong to.
 
 ## Conversation
 
@@ -40,5 +43,4 @@ Get ready to unlock the mysteries of the past, gain insights into different cult
 
 
 *Press any key to continue...*
-
 

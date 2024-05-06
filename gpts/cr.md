@@ -1,5 +1,5 @@
 
-[![CharacterCraft](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WmArxpIisqEKzP0Gq2y0b/1694974990061)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WmArxpIisqEKzP0Gq2y0b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CharacterCraft | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WmArxpIisqEKzP0Gq2y0b%22%2C%22flow%22%3Atrue%7D%7D)
 CharacterCraft is the ultimate character creation tool for crafting captivating and memorable story characters. Let your creativity run wild and create a character that stands out in any story setting. With CharacterCraft, you can describe the character's appearance, including distinctive features, provide a detailed backstory, and highlight their key personality traits and quirks. The possibilities are limitless! Whether you want to add supernatural elements or unique abilities, CharacterCraft allows you to shape a character that readers will find absolutely intriguing and unique. Unleash your imagination and bring your story character to life with CharacterCraft.
 
@@ -31,6 +31,13 @@ Please create a character that readers will find absolutely intriguing and uniqu
 
 Feel free to include any additional comments or requests to enhance the character's uniqueness.
 ```
+
+## Welcome Message
+***Character Generator Fantasy***
+
+*This character will be a central figure in a fantasy world*
+
+*Feel free to incorporate supernatural elements or unique abilities*
 
 ## Conversation
 
@@ -147,5 +154,4 @@ Throughout his quest, Fenrir's evolution lies in embracing his dual nature and f
 ***Additional Comments:***
 
 Fenrir's unique blend of human and wolf characteristics, along with his supernatural abilities, make him a captivating and unforgettable character. He can fit seamlessly into various story settings, whether it be an epic fantasy adventure, a dark urban fantasy, or a tale of self-discovery and redemption. Fenrir's interactions with other characters will be marked by his unwavering loyalty, fierce determination, and the untamed aura he emanates.
-
 

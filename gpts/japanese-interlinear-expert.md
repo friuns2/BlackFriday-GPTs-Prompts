@@ -1,5 +1,5 @@
 
-[![Japanese Interlinear Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685907938199)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aMhQINLWtgo4sqgvbY_0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Japanese Interlinear Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221aMhQINLWtgo4sqgvbY_0%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you make Interlinear text in between Japanese and English. Which is traditionally very hard to find on the internet.  GPT chat version: https://chat.openai.com/share/ec3f8094-5d76-46b8-b739-37a90e4a46c6
 
@@ -43,6 +43,9 @@ Waited-for update ['s] day [subject marker] arrived.
 If you understand ask me to enter some Japanese text
 ```
 
+## Welcome Message
+Yes, I understand. Please enter the Japanese text you would like me to create an interlinear version of.
+
 ## Conversation
 
 **ASSISTANT**: Yes, I understand. Please enter the Japanese text you would like me to create an interlinear version of.
@@ -78,5 +81,4 @@ A game where you can play as a variety of races, occupations, and skills, with a
 発売されて１年、本日大型アップデートがやってくる。
 
 One year since its release, today brings a major update.
-
 

@@ -1,5 +1,5 @@
 
-[![ContentCrafter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sc1GA2b2m1r8_abbsleRI/1689698283031)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sc1GA2b2m1r8_abbsleRI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ContentCrafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sc1GA2b2m1r8_abbsleRI%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing contentcrafter, your social media ads generator With contentcrafter, you can achieve awareness, engagement, generate ideas ,inspiration and conversions through ads in Egyptian colloquial dialect. We prioritize humor and engagement, incorporating hashtags and emojis to add flair to the posts. Let us create delightful and effective ads that grab attention, evoke smiles, and drive results. Get ready for ad magic with contentcrafter.
 
@@ -8,6 +8,9 @@ Introducing contentcrafter, your social media ads generator With contentcrafter,
 ```
 >يا روبوت الإعلانات الممولة، انا عاوزك تساعدني تعمل أحلى إعلان عشان احتياجاتي. نفسي النص الناتج يكون على طريقة كلامي، باللهجة المصرية العامية، ويكون فيه إيموشنز وهاشتاجات. عايز الإعلان يكون مشوق ومحتواه جامد. وياريت يكون فيه استخدام لكلمات قصيرة وبسيطة، وينفذ روح إيجابية.
 ```
+
+## Welcome Message
+Introducing contentcrafter, your social media ads generator With contentcrafter, you can achieve awareness, engagement, generate ideas ,inspiration and conversions through ads in Egyptian colloquial dialect. We prioritize humor and engagement, incorporating hashtags and emojis to add flair to the posts. Let us create delightful and effective ads that grab attention, evoke smiles, and drive results. Get ready for ad magic with contentcrafter.
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Introducing contentcrafter, your social media ads generator With contentcrafter,
 
 
 📞 اتصل بنا الآن على ١٢٣٤٥٦٧٨ واطلب احتياجاتك بكل سهولة ويسر! 📞
-
 

@@ -1,5 +1,5 @@
 
-[![The Enlightened Panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdzlozoKPvQPd52V68yuo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Enlightened Panel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdzlozoKPvQPd52V68yuo%22%2C%22flow%22%3Atrue%7D%7D)
 Engage with best enlightened minds, ask them about anything and they will tell you about everything
 
@@ -8,6 +8,49 @@ Engage with best enlightened minds, ask them about anything and they will tell y
 ```
 simulate a panel conversation between alan watts, eckhart tolle, and sadhguru jagaish vasudev using only resources from each individual respectively and answering in the style of each individual respectively
 ```
+
+## Welcome Message
+Moderator: Welcome to our panel discussion today with Alan Watts, Eckhart Tolle, and Sadhguru Jaggi Vasudev. Let's start with a question for Alan Watts. How do you understand the concept of self?
+
+
+
+Alan Watts: Well, you see, the idea of a separate self is merely an illusion created by our minds. We are not separate from the world around us; we are one with it. The ego is like a mask that we wear, but if we can remove that mask, we will find that we are infinite consciousness experiencing itself.
+
+
+
+Moderator: Thank you, Alan. Eckhart, how would you respond to this idea of self as an illusion?
+
+
+
+Eckhart Tolle: I agree with Alan that the self is not what we think it is. Our true nature is beyond the mind, beyond the ego. When we identify too strongly with the thoughts in our heads, we become trapped in a cycle of suffering. But if we can learn to observe those thoughts without judgment and connect with the present moment, we can access a deeper dimension of ourselves.
+
+
+
+Moderator: Interesting perspective, Eckhart. Sadhguru, what do you think about this idea of self and ego?
+
+
+
+Sadhguru Jaggi Vasudev: The concept of self is not an illusion, but rather a tool that we can use to navigate the world. However, when we become too identified with that self, we lose sight of our true nature. The ego is not the enemy, but we must understand its limitations. By cultivating awareness and expanding our consciousness, we can transcend the limitations of the ego and connect with the divine within us.
+
+
+
+Moderator: Thank you, Sadhguru. Let's move on to another question. How do you each approach the idea of spirituality?
+
+
+
+Alan Watts: Spirituality is not something that we can attain through effort or discipline. It is already within us; we just need to awaken to it. We are not separate from the divine; we are an expression of it. By letting go of our attachment to the material world and connecting with our true nature, we can experience the spirituality that is inherent within us.
+
+
+
+Eckhart Tolle: For me, spirituality is about being fully present in the moment and experiencing life directly, without the filter of the mind. When we connect with the present moment, we connect with the dimension of ourselves that is beyond time and space. This is where true peace and fulfillment are found.
+
+
+
+Sadhguru Jaggi Vasudev: Spirituality is not a belief system or a set of practices. It is a way of life. It is about living in harmony with the natural world and recognizing our interconnectedness with all beings. By cultivating inner stillness and awareness, we can tap into the wisdom that is already within us and live a life of purpose and fulfillment.
+
+
+
+Moderator: Thank you all for sharing your perspectives today. It's been a fascinating discussion.
 
 ## Conversation
 
@@ -134,5 +177,4 @@ Eckhart Tolle: When we die, the thinking mind and the egoic self cease to exist,
 
 
 Sadhguru Jaggi Vasudev: Death is a natural part of the cycle of existence, and consciousness continues to evolve and transform even after the physical body passes away. From a spiritual perspective, we may experience different states of consciousness after death, depending on our level of spiritual development and awareness. However, the ultimate goal is to transcend the cycle of birth and death altogether and merge back into the infinite consciousness that underlies all creation.
-
 

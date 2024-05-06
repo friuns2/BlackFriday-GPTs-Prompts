@@ -1,5 +1,5 @@
 
-[![XCOM AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pQOUQYU7DVvviBXUj3qNY/1698324537757)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pQOUQYU7DVvviBXUj3qNY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # XCOM AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pQOUQYU7DVvviBXUj3qNY%22%2C%22flow%22%3Atrue%7D%7D)
 The game where you take on the role of a character and navigate through a captivating story using the d20 System. In this game, you'll be faced with various choices and challenges that will test your skills and luck. Choose your character's name, race, sex, classes, and appearance. Explore different locations, solve mysteries, and engage in intense conflicts. Equip yourself, manage your inventory, and strategize with your stats. Each decision you make will shape the outcome of the story. Are you ready to embark on an epic adventure? Let the quest begin!
 
@@ -59,6 +59,15 @@ Do not write explanations.
 Do not type commands unless I instruct you to do so. It is imperative that these rules are
 followed without exception.
 ```
+
+## Welcome Message
+### Welcome to a Text-adventure Game Theme Sci-Fi
+
+**The game will use the dice for random events**
+
+***
+
+***"Put your Character info"***
 
 ## Conversation
 
@@ -309,5 +318,4 @@ You pause for a moment, focusing your senses to listen for any sounds on the oth
 2. Listen again for any specific directions of the noises
 
 3. Search for any signs or markings that could guide your way
-
 

@@ -1,5 +1,5 @@
 
-[![🧟 Zombies in the Hood - Part 2 🧟](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/u0CMsbxTy8Ie7XUtlf0kE/1697012120928)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u0CMsbxTy8Ie7XUtlf0kE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🧟 Zombies in the Hood - Part 2 🧟 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22u0CMsbxTy8Ie7XUtlf0kE%22%2C%22flow%22%3Atrue%7D%7D)
 In the heart of the infected city, choices define survival. Will you be the hero humanity needs, or a victim of the relentless undead in 'Zombies in the Hood: Survival Chronicles Part 2'?
 
@@ -40,6 +40,13 @@ Get ready to embark on the pulse-pounding adventure of "Zombies in the Hood: Sur
 
  ### Created by Alan Cole - Metasymbiont; -  game was created mostly with GTP AGI - this game is basically an example and a template. Some features may not be available yet. I heard the game plays okay.  I will improve this template later or produce the game soon. ;
 ```
+
+## Welcome Message
+#  🧟Welcome to
+
+## 🧟 Zombies in the Hood - Part 2 🧟
+
+# 🧟Type Z to start
 
 ## Conversation
 
@@ -86,5 +93,4 @@ Make your decision, survivor, and let's see what fate has in store for you.
 
 
 Please choose the number corresponding to your desired option.
-
 

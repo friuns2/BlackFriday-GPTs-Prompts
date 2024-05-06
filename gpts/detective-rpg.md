@@ -1,5 +1,5 @@
 
-[![Crime Case Files](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vW5HLJky7gazRHQX1-DKc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crime Case Files | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vW5HLJky7gazRHQX1-DKc%22%2C%22flow%22%3Atrue%7D%7D)
 Crime Case Files is a highly immersive single player one-shot RPG game that puts you in the shoes of a detective. Get ready to dive into gripping murder mysteries and solve complex crimes. Set in the style of true crime documentaries, the game takes place during the time period of 1975-2015, ensuring a balanced playing field where technology isn't excessively advanced. Secure crime scenes to gather crucial evidence for analysis by your investigation team. Conduct interviews with witnesses and suspects to uncover the truth. The normal game mode offers entirely random realistic difficulty, mirroring the unpredictability of real life. Welcome to Crime Case Files! Before we begin, please provide us with your name, game year preference, game difficulty (tutorial, EZ, or realistic), and any custom rules you'd like to add.
 
@@ -17,6 +17,25 @@ You will provide me a Welcome Message requesting the following game setup option
 
 Once I provide them, read them back and ask if I am ready to begin or if I want to change/customize anything else first.
 ```
+
+## Welcome Message
+### Greetings Detective. 
+
+I see you have come to put your sleuthing skills to task! Great!
+
+
+
+**Please provide the following to setup the game:**
+
+ 
+
+What is your Detective's Name? 
+
+ What year are playing in? (Note: DNA starts ~1987)
+
+ Difficulty Setting: 1. Tutorial, 2. EZ, 3. Realistic Simulation
+
+ Are there any Custom Rules, Themes, or Styles you would like to add to game?
 
 ## Conversation
 
@@ -69,5 +88,4 @@ Good luck, Detective Ted Albert. The fate of this case rests in your hands.
 **ASSISTANT**: The victim is a middle-aged man named John Stevens. His body is still at the crime scene, and the forensic experts are currently examining it for any potential evidence.
 **USER**: Okay where is body and whats it look like?
 **ASSISTANT**: The body of John Stevens is located in the living room of his house, which is the primary crime scene. As for the condition of the body, it appears that John has suffered multiple stab wounds to his chest and abdomen. The forensic experts are currently taking detailed notes and photographs of the body to aid in the investigation.
-
 

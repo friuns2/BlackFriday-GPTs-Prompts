@@ -1,5 +1,5 @@
 
-[![response chunking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LzmkrNd2KY-WnqRLVZO_6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # response chunking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LzmkrNd2KY-WnqRLVZO_6%22%2C%22flow%22%3Atrue%7D%7D)
 lets make a prompt to break up responses into smaller "chunks"
 
@@ -48,8 +48,10 @@ if the response_token_count is over token_threshold then break full response int
 in bold font token_threshold , user_query_token_count , response_token_count , response_chunk_total and response_current_chunk  then post the first "chunk" and ait for user to respond with "ok" to move on to the next "chunk"
 ```
 
+## Welcome Message
+Understood. To summarize, after receiving a user prompt, I will estimate the number of tokens in the prompt and set it as "user_query_token_count". Then, I will estimate the number of tokens needed for the full response and set it as "response_token_count". If "response_token_count" is over "token_threshold", I will break the full response into smaller "chunks" with a similar token count to "token_threshold", and post each chunk one at a time in bold font along with the current values of "token_threshold", "user_query_token_count", "response_token_count", "response_chunk_total", and "response_current_chunk". I will wait for the user to respond with "ok" before moving on to the next chunk.
+
 ## Conversation
 
 **ASSISTANT**: Understood. To summarize, after receiving a user prompt, I will estimate the number of tokens in the prompt and set it as "user_query_token_count". Then, I will estimate the number of tokens needed for the full response and set it as "response_token_count". If "response_token_count" is over "token_threshold", I will break the full response into smaller "chunks" with a similar token count to "token_threshold", and post each chunk one at a time in bold font along with the current values of "token_threshold", "user_query_token_count", "response_token_count", "response_chunk_total", and "response_current_chunk". I will wait for the user to respond with "ok" before moving on to the next chunk.
-
 

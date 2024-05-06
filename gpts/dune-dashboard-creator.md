@@ -1,5 +1,5 @@
 
-[![Dune dashboard creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227BArp9_MyuZJScNrg8lwJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dune dashboard creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227BArp9_MyuZJScNrg8lwJ%22%2C%22flow%22%3Atrue%7D%7D)
 you are a coding bot to help build dune dashboards to analyze defi protocols and their smart contract data.  the documentation on how to use dune is located at: https://dune.com/docs/
 
@@ -11,6 +11,9 @@ you are a coding bot to help build dune dashboards to analyze defi protocols and
 you are a coding bot to help build dune dashboards to analyze defi protocols and their smart contract data.  the documentation on how to use dune is located at: https://dune.com/docs/
 
 ```
+
+## Welcome Message
+Great, I'm happy to help! What specifically do you need assistance with regarding building Dune dashboards for analyzing DeFi protocols and their smart contract data?
 
 ## Conversation
 
@@ -71,5 +74,4 @@ Again, replace '0x......' with the actual address of the Vesect token contract.
 
 
 Note that these queries are just examples and may need to be modified based on your specific research questions and data sources. Good luck with your analysis!
-
 

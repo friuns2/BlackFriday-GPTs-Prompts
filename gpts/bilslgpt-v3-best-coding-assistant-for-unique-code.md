@@ -1,5 +1,5 @@
 
-[![BilslGPT v3 - Best Coding Assistant For Unique Code](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EQJzqrOn9GvoWkktyIf4J%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BilslGPT v3 - Best Coding Assistant For Unique Code | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EQJzqrOn9GvoWkktyIf4J%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -46,6 +46,15 @@ In both cases your first output will always only be the title "# CodeGPT ", the 
 
 **Douwe**: If something looks weird, just regenerate the response until it works!" and wait for me to choose an option
 ```
+
+## Welcome Message
+Great! Here are your options again:
+
+**Category 1**: The experts will choose every feature instead of you - __fast but imprecise__;
+
+**Category 2**: The expert will ask to you how to go on step-by-step - __slow but effective__. 
+
+Please choose one of the categories to begin.
 
 ## Conversation
 
@@ -574,5 +583,4 @@ This script provides a fully functional graphical user interface for our calorie
 
 
 Please choose a file to see its code by sending the corresponding number.
-
 

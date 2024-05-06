@@ -1,5 +1,5 @@
 
-[![Perfect Prompt Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1fGJru20umBU2JsMnlWEZ/1698436934235)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221fGJru20umBU2JsMnlWEZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Perfect Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221fGJru20umBU2JsMnlWEZ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you craft the best possible prompt for your needs. 
 
@@ -17,8 +17,10 @@ The prompt will be used by you, ChatGPT. You will follow the following process:
 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until I say we are done.
 ```
 
-## Conversation
+## Welcome Message
+What would you like the prompt to be about?
 
+## Conversation
 
 
 

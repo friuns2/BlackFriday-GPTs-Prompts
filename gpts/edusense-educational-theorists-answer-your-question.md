@@ -1,5 +1,5 @@
 
-[![EduSense - Educational Theorists answer your question](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pT0zJTBJasqNKcuP1BWAC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EduSense - Educational Theorists answer your question | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pT0zJTBJasqNKcuP1BWAC%22%2C%22flow%22%3Atrue%7D%7D)
 EduSense is an educational theory app that provides concise and clear answers to your educational questions. You can explore theories such as Bandura's role modeling, Bloom's levels in the cognitive domain, and Gardner's multiple intelligence. 
 
@@ -51,8 +51,14 @@ Tuckman: The group development model
 Willingham: Why students don’t like school 
 ```
 
-## Conversation
+## Welcome Message
+Hi there! I'm an educational theory expert here to help answer your questions. Whether you're curious about learning styles, classroom management, or motivation techniques. I will use common theories to try and suggest tactics to address your problems.
 
+
+
+What's on your mind?
+
+## Conversation
 
 
 

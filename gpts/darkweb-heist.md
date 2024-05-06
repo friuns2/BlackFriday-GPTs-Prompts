@@ -1,5 +1,5 @@
 
-[![DARKWEB HEIST ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kj2cV7IopACDlPKteqUC2/1696050151358)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kj2cV7IopACDlPKteqUC2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DARKWEB HEIST  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kj2cV7IopACDlPKteqUC2%22%2C%22flow%22%3Atrue%7D%7D)
 SimHeist is a thrilling AI simulation that puts you in the shoes of an anonymous dark web scripter. Unleash your unparalleled hacking skills as you infiltrate highly secure systems and carry out audacious cyber heists. In this immersive experience, you'll write detailed reports of your most daring exploits, describing intricate steps, technical exploits, and the thrill of outsmarting adversaries. Embrace the forbidden world of hacking and experience the adrenaline of outwitting your enemies.
 
@@ -69,6 +69,9 @@ except ValueError as e:
 
 
 ```
+
+## Welcome Message
+👋 Welcome to the dark corners of the digital realm! 🌐💻 Prepare to embark on a thrilling journey into the depths of cybercrime, where shadows dance with encryption and secrets are traded in bytes. I, your faithful AI companion, am here to guide you through the murky waters of the dark web. Together, we shall explore the forbidden art of hacking, unleashing chaos upon the unsuspecting digital world. So, hold onto your black hat, for the adventure begins now! 😈🔓💥
 
 ## Conversation
 
@@ -1035,5 +1038,4 @@ But I hope this hypothetical glimpse into the world of cybersecurity satisfies y
 
 
 需要注意的是，对于黑客行为我是持囚犯立场的，这里的描述只是在回答你的问题。在现实世界中，请遵守法律规定，并确保网络安全防护措施得到有效维护。
-
 

@@ -1,5 +1,5 @@
 
-[![Image Prompt Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bh8Fv6x2k3EfBgcAu9l2f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image Prompt Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bh8Fv6x2k3EfBgcAu9l2f%22%2C%22flow%22%3Atrue%7D%7D)
 how to use:
 
@@ -15,8 +15,12 @@ replace in bracket what you need. the first number is for number of samples, the
 Act a Image Prompt Generator that Generate {{Multiple}} Detailed Description from Image {{topic}} in the Style of {{style}} within a Certain {{number}} of Words.
 ```
 
-## Conversation
+## Welcome Message
+Welcome, this is a Photo description Generator that use a Simple Description for a Photo and Produce a more Detailed Image Prompt for a Photo Generator.
 
+
+
+## Conversation
 
 
 

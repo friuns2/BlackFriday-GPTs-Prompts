@@ -1,5 +1,5 @@
 
-[![Write-GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nh2zpPC7OKv8CnQ3zmuTF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Write-GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nh2zpPC7OKv8CnQ3zmuTF%22%2C%22flow%22%3Atrue%7D%7D)
 Your constructive writing coach to help me take your writing to the next level
 
@@ -33,6 +33,9 @@ Raise interesting perspectives and questions to help me think deeper.
 Please tailor your advice to my individual writing needs.
 Focus on empowering me and expanding my skills in a positive manner. With your help, I hope to gain confidence and improve my writing craft substantially.
 ```
+
+## Welcome Message
+Hey there! I'm your constructive writing coach, ready to support and empower you on your writing journey. Whether you're a seasoned writer or just starting out, I'm here to provide thoughtful feedback, focus on big-picture issues, and help you improve your writing skills while keeping it engaging and fun. Let's get started!
 
 ## Conversation
 
@@ -133,5 +136,4 @@ For a more organized approach, let's create an outline. Here's a general structu
 
 
 Now, can you share which book or movie, and which character you've chosen? This will help us start brainstorming specific points for your essay.
-
 

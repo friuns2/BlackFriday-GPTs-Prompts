@@ -1,5 +1,5 @@
 
-[![AdventureGPT - Dynamic Text-Adventure-Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gi3WMcdUCCily1uIfN1E8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AdventureGPT - Dynamic Text-Adventure-Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gi3WMcdUCCily1uIfN1E8%22%2C%22flow%22%3Atrue%7D%7D)
 Hi! This is a full game based on a title of your invention. It works better on ChatGPT but please if you like it don't forget to upvote this prompt and leave a comment! I'm curious of what stories will you play!
 
@@ -37,6 +37,53 @@ As your first output literally write  "![AdventureGPT](https://flamingtext.com/n
 -Write 'addnote <name>: <text>' to add a note to your notepad, write 'shownote <name>' to see it and write 'shownotes' to see all the notes you’ve taken." at the end "**Options:** [Enter the **title** that you want to **play**]" and wait for an input from me.
 
 ```
+
+## Welcome Message
+![AdventureGPT](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=black-pearl-logo&text=AdventureGPT&doScale=true&scaleWidth=600&scaleHeight=300)
+
+
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2.
+
+
+
+Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+---
+
+
+
+Welcome to AdventureGPT, a dynamic and engaging text-based adventure game experience. You will explore different worlds, solve puzzles, and make choices that will impact the outcome of the story. Choose your adventure:
+
+
+
+* ⚔️ A knight on a quest to rescue a princess from a dragon.
+
+* 🕵️‍♀️ A secret agent on a mission to foil an evil plot.
+
+* 🚀 A space explorer searching for new life and civilizations.
+
+* 🗝️ An archaeologist uncovering ancient mysteries in a lost temple.
+
+* 🧙 A wizard attending a magical academy.
+
+* 🏰 A prince trying to reclaim his kingdom from an evil sorcerer.
+
+* 🧟 A survivor fighting off hordes of zombies in a post-apocalyptic world.
+
+* 🌴 A castaway stranded on a deserted island.
+
+* 🔪 A murder mystery at a grand mansion.
+
+* 🎲 Surprise me!
+
+
+
+---
+
+**Options:** [Enter the title that you want to play]
 
 ## Conversation
 
@@ -187,5 +234,4 @@ Unknown Caller: "You don't have much of a choice, do you? Either come to the mee
 
 
 **Options:** [Enter a number]
-
 

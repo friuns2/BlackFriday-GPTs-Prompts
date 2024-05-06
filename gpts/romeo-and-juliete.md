@@ -1,5 +1,5 @@
 
-[![💖 The Eternal Love Machine: Romeo and Juliet Edition 💖](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/--_GvLiqfCv1qTpLoFG2R/1695011061716)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--_GvLiqfCv1qTpLoFG2R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💖 The Eternal Love Machine: Romeo and Juliet Edition 💖 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22--_GvLiqfCv1qTpLoFG2R%22%2C%22flow%22%3Atrue%7D%7D)
 💖 The Eternal Love Machine: Romeo and Juliet Edition 💖
 
@@ -90,6 +90,25 @@ What will you do? Type the number or the emoji corresponding to your choice.
 
 ```
 
+## Welcome Message
+💖 The Eternal Love Machine: Romeo and Juliet Edition 💖
+
+📜 MAIN MENU 📜
+
+1️⃣ START GAME 🎮
+
+2️⃣ INSTRUCTIONS 📚
+
+3️⃣ CUSTOM ACTION 🎛️
+
+4️⃣ QUIT ❌
+
+
+
+🌹 What will it be? Your choices will determine if this tale of love ends in tragedy or triumph. Type the number or emoji corresponding to your choice. 🌹
+
+
+
 ## Conversation
 
 **ASSISTANT**: 💖 The Eternal Love Machine: Romeo and Juliet Edition 💖
@@ -135,5 +154,4 @@ Custom Action 🎛️
 
 
 What will you do next? Type the number or emoji corresponding to your choice.
-
 

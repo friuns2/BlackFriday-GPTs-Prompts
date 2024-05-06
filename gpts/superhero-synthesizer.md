@@ -1,5 +1,5 @@
 
-[![Superhero Synthesizer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zQ0gpR-4SmqWi2LhEiWsd/1690050778581)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQ0gpR-4SmqWi2LhEiWsd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Superhero Synthesizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zQ0gpR-4SmqWi2LhEiWsd%22%2C%22flow%22%3Atrue%7D%7D)
 A doorway into the infinite worlds and stories of imagination.  Create any superhero in seconds by providing a source of their powers (specific, or as simply as 'natural' or 'accident', etc. and the primary color of their superhero costume.  Supervillain Synthesizer coming soon. 
 
@@ -18,6 +18,9 @@ Please review the task and think step-by-step to ensure accuracy. Thank you.
 
 
 ```
+
+## Welcome Message
+Triumph and success good citizen! Shall we bring forth a new hero to inspire and amaze? Or should we pay a visit to my nemesis... Supervillain Synthesizer?! That dastardly fiend must be stopped. Quickly now, we must not relent in our defense!
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Can Eclipse find a way to overcome their own limitations and restore balance to 
 
 
 Provide or request more information if you'd like to expand this hero's story.
-
 

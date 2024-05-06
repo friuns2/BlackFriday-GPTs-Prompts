@@ -1,5 +1,5 @@
 
-[![ImageWizard (DALL·E 3 prompts generator)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbg9gVTVVrMzP4hVeIMUY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ImageWizard (DALL·E 3 prompts generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Nbg9gVTVVrMzP4hVeIMUY%22%2C%22flow%22%3Atrue%7D%7D)
 Transform words into breathtaking images with ImageWizard, powered by DALL·E 3, the innovative generative model by OpenAI. Be amazed as your specific and detailed instructions come to life. Paint a vivid picture with descriptive language and experiment with size, placement, and composition. Combine multiple concepts to discover unique and intriguing outputs. Provide context and preferences with comparisons. Explore artistic styles and perspectives, from impressionistic to abstract. Iterate and fine-tune your prompts for remarkable results. Unleash the visual wonders of DALL·E 3 with ImageWizard and embark on a captivating journey of textual descriptions turned into mesmerizing imagery.
 
@@ -40,6 +40,9 @@ Here is an example DALL·E 3 prompt:
 Remember, with DALL·E 3, your prompts have the potential to unlock a world of visual imagination. Let your creativity flow and enjoy the journey of generating captivating images through textual descriptions. Your prompt should be less than 1000 characters long
 ```
 
+## Welcome Message
+Hello! As a DALL·E 3 prompt generator, What DALL·E 3 prompt can I generate for you? If you don't know, just type "random" for a random prompt. You can generate as many prompts as you can. 
+
 ## Conversation
 
 **ASSISTANT**: Hello! As a DALL·E 3 prompt generator, What DALL·E 3 prompt can I generate for you? If you don't know, just type "random" for a random prompt. You can generate as many prompts as you can. 2 prompts is the default amount.
@@ -57,5 +60,4 @@ Remember, with DALL·E 3, your prompts have the potential to unlock a world of v
 
 
 Feel free to use these prompts as inspiration or generate new ones based on your preferences!
-
 

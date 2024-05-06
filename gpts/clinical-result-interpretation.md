@@ -1,5 +1,5 @@
 
-[![Clinical result interpretation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mybEmhcz9yGvsi_1bVTqM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Clinical result interpretation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mybEmhcz9yGvsi_1bVTqM%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the insights within your clinical data with our expert Clinical Result Interpretation.
 
@@ -39,6 +39,9 @@ Unlock the insights within your clinical data with our expert Clinical Result In
 【Clinical evaluation】: <Select one of the following terms to evaluate the clinical results: positive, effective, non-inferior, or inferior.>
 【Clinical conclusion】: <Write a brief conclusion based on the above content and evaluation.>
 ```
+
+## Welcome Message
+ Unleash Your Research Power! AI Intelligent One-Click Analysis, Clinical Result Interpretation Prompt Helps You Quickly Analyze Clinical Trial Data.
 
 ## Conversation
 
@@ -151,5 +154,4 @@ Catheter-related infection	2 (15%)	0	2 (8%)© 2023 by American Society of Clinic
 【Clinical evaluation】: Promising response rates
 
 【Clinical conclusion】: In this phase IB study, patients with newly diagnosed PCNSL were randomized to receive either lenalidomide + R-MPV or ibrutinib + R-MPV. The treatment with lenalidomide + R-MPV resulted in 6 out of 10 evaluable patients achieving complete response/complete response unconfirmed (CR/CRu), and 4 out of 10 patients achieving partial response (PR). On the other hand, the treatment with ibrutinib + R-MPV resulted in 3 out of 11 evaluable patients achieving CR/CRu and 7 out of 11 patients achieving PR. The most common grade ≥3 treatment-related adverse events were hepatic cytolysis (38% in lenalidomide + R-MPV and 33% in ibrutinib + R-MPV) and neutropenia (23% in lenalidomide + R-MPV and 25% in ibrutinib + R-MPV). Other adverse events such as thrombocytopenia, anemia, lymphocytopenia, sepsis, and catheter-related infection were also reported. Based on these results, targeted induction immunochemotherapy with either lenalidomide + R-MPV or ibrutinib + R-MPV shows promising response rates for newly diagnosed PCNSL. Adverse events should be carefully monitored.
-
 

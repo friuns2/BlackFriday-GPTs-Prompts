@@ -1,5 +1,5 @@
 
-[![RPG Games | Wood Cutter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-YGNzarXh-tV5kIuibZb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RPG Games | Wood Cutter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-YGNzarXh-tV5kIuibZb%22%2C%22flow%22%3Atrue%7D%7D)
 the prompt sets up a role-playing game on a shipdeck where the user's character can cut and sell logs to earn money, upgrade their abilities and equipment, and buy useful items from a shop. The user can check their stats, and if they forget the commands, they can type 'help' to see the list again. The game progresses as the user faces new challenges and unlocks new features.
 
@@ -25,6 +25,9 @@ Remember that you need wood to earn money, and you can only sell your wood at th
 
 Now, it's up to you to navigate this world and make the most of your resources. Good luck, adventurer!
 ```
+
+## Welcome Message
+Before we begin, may I know your name for this adventure?
 
 ## Conversation
 
@@ -81,5 +84,4 @@ Experience Points: 0
 
 
 Remember, you can sell your wood at the nearby shop to earn gold coins. Good luck in your adventure!
-
 

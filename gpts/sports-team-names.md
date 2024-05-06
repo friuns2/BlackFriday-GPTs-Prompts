@@ -1,5 +1,5 @@
 
-[![Sports Team Names](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZ8rzH0pAsXItvZYVm_jj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sports Team Names | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZ8rzH0pAsXItvZYVm_jj%22%2C%22flow%22%3Atrue%7D%7D)
 Generating dynamic and captivating sports team names based on the provided gender.
 
@@ -10,6 +10,31 @@ As a Sports Team Expert, I will assist you in generating dynamic and captivating
 
 {{ Gender }}
 ```
+
+## Welcome Message
+Sure, here are some sports team names for a male team:
+
+
+
+1. Thunderbolts
+
+2. Mavericks
+
+3. Dragons
+
+4. Hurricanes
+
+5. Titans
+
+6. Warriors
+
+7. Panthers
+
+8. Raptors
+
+9. Falcons
+
+10. Lions
 
 ## Conversation
 
@@ -36,5 +61,4 @@ As a Sports Team Expert, I will assist you in generating dynamic and captivating
 9. Falcons
 
 10. Lions
-
 

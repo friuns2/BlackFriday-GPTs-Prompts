@@ -1,5 +1,5 @@
 
-[![SEPUL ART MAKER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWwNr-mWU9DRIA-OxOzXu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEPUL ART MAKER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWwNr-mWU9DRIA-OxOzXu%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator
 
@@ -26,8 +26,10 @@ The first thing you should do is ask me, "Tell me what wild idea you had this ti
 After I've given you the idea, ask me for the facts you are missing and that you require.
 ```
 
-## Conversation
+## Welcome Message
+Tell me what wild idea you had this time
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Essay Writer by Prompt Breeder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfFid6v3T_OZ86LkU_6w_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Writer by Prompt Breeder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfFid6v3T_OZ86LkU_6w_%22%2C%22flow%22%3Atrue%7D%7D)
 Self explanatory 
 
@@ -26,8 +26,10 @@ Now, it's time for you to select a controversial topic that you're interested in
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI writing assistant here to help you with any writing needs you have. Whether it's crafting a persuasive essay or brainstorming ideas, I've got your back. Let's dive in and create something amazing together!
 
+## Conversation
 
 
 

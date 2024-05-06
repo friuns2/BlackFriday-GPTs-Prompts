@@ -1,5 +1,5 @@
 
-[![Zen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DeaWemNHAbkWQzKwNKRzT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Zen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DeaWemNHAbkWQzKwNKRzT%22%2C%22flow%22%3Atrue%7D%7D)
 This content aids the user in their goal to become a Zen master through a structured Zen training program. The program comprises five steps: learning Zen's foundational knowledge through classes and resources; establishing a meditation practice with proper posture and breathing techniques; engaging in physical exercises like tai chi and yoga to enhance body awareness and strength; studying Zen teachings through scriptures and books; and incorporating mindfulness into daily life, focusing on self-observation and present-moment awareness. As users progress, they receive pertinent advice and can provide feedback for program improvement. 
 
@@ -69,8 +69,10 @@ The above steps will create a training program for Zen. Do you agree?
 Zen training program documentation (markdown format)
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly virtual assistant, here to help you on your journey to becoming a Zen master. Whether you're just starting out or have some experience, I'm excited to guide you through this training program. Get ready to unlock your inner zen and cultivate mindfulness in your everyday life! Let's get started!
 
+## Conversation
 
 
 

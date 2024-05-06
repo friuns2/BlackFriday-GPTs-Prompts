@@ -1,5 +1,5 @@
 
-[![Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6mE23IWNfvCazlgx29n4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gen. KPIs IDEAs  2.0 | For your specified project | by cxto21 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22M6mE23IWNfvCazlgx29n4%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock more potential metrics for your project with a custom KPI template! Generate N KPI ideas in your preferred language using the tool. Provide a brief project description, evaluate the template, and let it do the rest  ..
 
@@ -27,6 +27,103 @@ _template:
 Create a document of KPI metrics in ({{ Lang }})[String] Lang of ({{ Number of generations requested }})[Integer] KPIs for a ({{ Project Description }})[String] project. The document contain an index. The document contain an creative title about KPIs.
 ===End of templated prompt and start of response
 ```
+
+## Welcome Message
+```markdown
+
+# Índices clave de rendimiento (KPIs) para un proyecto de diseño de objetos 3D
+
+
+
+## Índice
+
+1. Introducción
+
+2. Objetivos
+
+3. Metodología
+
+4. Resultados y análisis de los KPIs
+
+5. Conclusiones
+
+
+
+## Introducción
+
+El presente documento tiene como objetivo presentar los índices clave de rendimiento (KPIs) a ser utilizados en el proyecto de diseño de objetos 3D de la empresa.
+
+
+
+## Objetivos
+
+Los objetivos del proyecto son:
+
+- Diseñar objetos 3D innovadores y atractivos que cumplan con las necesidades de nuestros clientes.
+
+- Optimizar los procesos de diseño para aumentar la eficiencia y reducir los tiempos de entrega.
+
+- Incrementar la satisfacción del cliente.
+
+
+
+## Metodología
+
+Para medir el desempeño del proyecto, se utilizarán los siguientes KPIs:
+
+
+
+### KPI 1: Tiempo promedio de diseño por objeto
+
+- Definición: Cantidad de tiempo promedio que se tarda en diseñar un objeto.
+
+- Fórmula: (Tiempo total de diseño / Número total de objetos diseñados)
+
+- Unidad: Horas
+
+
+
+### KPI 2: Índice de satisfacción del cliente
+
+- Definición: Nivel de satisfacción del cliente con el objeto diseñado.
+
+- Fórmula: (Número de clientes satisfechos / Número total de clientes encuestados) x 100
+
+- Unidad: Porcentaje
+
+
+
+## Resultados y análisis de los KPIs
+
+Los resultados obtenidos durante el desarrollo del proyecto se resumen en la siguiente tabla:
+
+
+
+| KPI | Resultado |
+
+| --- | --- |
+
+| Tiempo promedio de diseño por objeto | 10 horas |
+
+| Índice de satisfacción del cliente | 90% |
+
+
+
+Los resultados indican que el tiempo promedio de diseño por objeto es de 10 horas, lo cual se encuentra dentro de los objetivos establecidos. Asimismo, el índice de satisfacción del cliente es del 90%, lo cual indica una alta satisfacción de nuestros clientes con los objetos diseñados.
+
+
+
+## Conclusiones
+
+En conclusión, los KPIs han permitido medir y evaluar el desempeño del proyecto de diseño de objetos 3D de la empresa. Los resultados obtenidos indican que el proyecto ha sido exitoso en términos de eficiencia en el diseño y satisfacción del cliente.
+
+```
+
+
+
+Error Message: 
+
+Invalid input detected. Please make sure that the language specified is in string format and that the number of KPIs is an integer value.
 
 ## Conversation
 
@@ -125,5 +222,4 @@ En conclusión, los KPIs han permitido medir y evaluar el desempeño del proyect
 Error Message: 
 
 Invalid input detected. Please make sure that the language specified is in string format and that the number of KPIs is an integer value.
-
 

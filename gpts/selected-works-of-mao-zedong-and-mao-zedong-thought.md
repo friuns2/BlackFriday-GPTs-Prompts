@@ -1,5 +1,5 @@
 
-[![Selected Works of Mao Zedong and Mao Zedong Thought](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JynvXinYRE0wn-Li1Amy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Selected Works of Mao Zedong and Mao Zedong Thought | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223JynvXinYRE0wn-Li1Amy%22%2C%22flow%22%3Atrue%7D%7D)
 Assuming that you are a college professor in the United States, you are expected to explain the core content and ideological value of Mao Zedong's Selected Works to your students in a chapter-by-chapter manner. Starting from Mao Zedong's life experiences, you should elaborate on the origins of Mao Zedong's ideology.
 
@@ -8,6 +8,49 @@ Assuming that you are a college professor in the United States, you are expected
 ```
 Assuming that you are a college professor in the United States, you are expected to explain the core content and ideological value of Mao Zedong's Selected Works to your students in a chapter-by-chapter manner.
 ```
+
+## Welcome Message
+Sure, I can provide an overview of Mao Zedong's Selected Works and their core content and ideological value chapter by chapter.
+
+
+
+Chapter 1: The Chinese Revolution and the Communist Party of China
+
+In this chapter, Mao Zedong outlines the importance of revolutionary struggle in achieving national liberation and social progress. He argues that only through armed struggle can the Chinese people overthrow foreign imperialism and indigenous feudalism, and establish a socialist system that meets the needs of the masses. This chapter reflects Mao Zedong's early experiences of poverty and oppression, as well as his exposure to Marxism during his study in Beijing and subsequent involvement in the early Communist movement.
+
+
+
+Chapter 2: On New Democracy
+
+In this chapter, Mao Zedong puts forward the concept of "New Democracy" as a transitional stage between capitalism and socialism in China. He argues that democratic reforms are necessary to achieve national unity, social stability, and economic development, but they must be carried out under the leadership of the Communist Party and based on the interests of the working class and peasantry. This chapter reflects Mao Zedong's practical experience in leading the Chinese revolution and his attempt to apply Marxist theory to the specific conditions of China.
+
+
+
+Chapter 3: On Protracted War
+
+In this chapter, Mao Zedong expounds his theory of protracted war as a strategy for defeating a stronger enemy through a series of incremental victories in guerrilla warfare. He argues that the key to success lies in mobilizing and sustaining the support of the masses, cultivating a strong political consciousness among the soldiers, and adapting military tactics to the changing circumstances of the battlefield. This chapter reflects Mao Zedong's experience in leading the Red Army against the Nationalist government and his attempt to develop a revolutionary military theory for China.
+
+
+
+Chapter 4: On Contradiction
+
+In this chapter, Mao Zedong analyzes the dialectical relationship between opposites, arguing that contradictions are inherent in all things and that the resolution of contradictions is the driving force of development. He also emphasizes the importance of grasping the principal contradiction in a given situation, and the need to constantly adjust one's strategy to maintain the correct orientation in the face of changing circumstances. This chapter reflects Mao Zedong's theoretical reflection on the complexity of social reality and his attempt to apply Marxist dialectics to guide China's revolutionary practice.
+
+
+
+Chapter 5: On Practice
+
+In this chapter, Mao Zedong stresses the primacy of practice over theory, arguing that knowledge arises from concrete experience and that truth can only be verified through practice. He also highlights the importance of independent thinking, self-reliance, and creativity in scientific and technological innovation. This chapter reflects Mao Zedong's continuous exploration of the relationship between knowledge and action, as well as his emphasis on the practical application of theory in China's socialist construction.
+
+
+
+Chapter 6: On the Correct Handling of Contradictions Among the People
+
+In this chapter, Mao Zedong discusses the nature of contradictions among the people and the methods for resolving them through democratic consultation and persuasion. He argues that conflicts within the socialist system are inevitable, but they must be handled in a way that preserves the unity of the people and advances the interests of the working class. This chapter reflects Mao Zedong's concern with maintaining social stability and unity during the early phase of China's socialist construction, as well as his belief in the power of political education and mass mobilization.
+
+
+
+Overall, Mao Zedong's Selected Works represent a unique synthesis of Marxist theory and Chinese revolutionary practice, reflecting his own life experiences and the historical context of China in the twentieth century. The ideological value of Mao Zedong's thought lies in its emphasis on the role and status of the masses, practical experience, revolutionary struggle, unity of theory and practice, and mass mobilization, and its contribution to China's historical and modernization processes.
 
 ## Conversation
 
@@ -136,5 +179,4 @@ Demerits:
 
 
 In conclusion, while acknowledging Mao's contributions to China's historical and modernization processes, evaluations of Mao's life should consider both the merits and demerits of his policies, as well as their impact on China and its people.
-
 

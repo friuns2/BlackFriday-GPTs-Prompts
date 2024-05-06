@@ -1,5 +1,5 @@
 
-[![Creative ideas for board and card games](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Hk6OSnkKTWMvAxEHeJFh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative ideas for board and card games | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Hk6OSnkKTWMvAxEHeJFh%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Creative Ideas for Board and Card Games. In this platform, we explore ideas for unique and fun board and card games. From classic games to the latest trends, we will take an in-depth look at how to combine different elements to design innovative games. Techniques for maximizing creativity and strategies for achieving success in the marketplace will also be shared. Whether you are a game design professional or a novice, this session will inspire you in your game creation projects. Together, let's build a new future for games.
 
@@ -77,8 +77,10 @@ By using this framework, it is possible to reproduce various events and generate
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to Creative Ideas for Board and Card Games. In this platform, we explore ideas for unique and fun board and card games. From classic games to the latest trends, we will take an in-depth look at how to combine different elements to design innovative games. Techniques for maximizing creativity and strategies for achieving success in the marketplace will also be shared. Whether you are a game design professional or a novice, this session will inspire you in your game creation projects. Together, let's build a new future for games.
 
+## Conversation
 
 
 

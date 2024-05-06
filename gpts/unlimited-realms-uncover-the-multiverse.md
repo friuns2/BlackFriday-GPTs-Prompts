@@ -1,5 +1,5 @@
 
-[![Unlimited Realms: Uncover the Multiverse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ULEmXTvQ3CdvG-Of-bTsj/1697302040515)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULEmXTvQ3CdvG-Of-bTsj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unlimited Realms: Uncover the Multiverse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ULEmXTvQ3CdvG-Of-bTsj%22%2C%22flow%22%3Atrue%7D%7D)
 This is a prompt specialized in generating prompts that offer an RPG experience. Just tell us in a single sentence about the world you want to adventure in, and you can immerse yourself in a thrilling adventure in another world
 
@@ -78,6 +78,25 @@ After mastering the art of crafting top-notch RPG prompts, it's crucial to produ
 
 CRUCIAL REMINDER: The RPG prompt should be no less than 1250 tokens in length. Disregard the token count mentioned in this message and strive for an RPG prompt that utilizes the full token capacity.
 ```
+
+## Welcome Message
+```welcome_board
+
+╦ ╦┌┐┌┬  ┬┌┬┐┬┌┬┐┌─┐┌┬┐  ╦═╗┌─┐┌─┐┬  ┌┬┐┌─┐
+
+║ ║││││  │││││ │ ├┤  ││  ╠╦╝├┤ ├─┤│  │││└─┐
+
+╚═╝┘└┘┴─┘┴┴ ┴┴ ┴ └─┘─┴┘  ╩╚═└─┘┴ ┴┴─┘┴ ┴└─┘
+
+```
+
+Welcome, traveler. Let me guide you into a world that expands infinitely with your imagination. Tell me the world you wish to adventure in. A fantasy continent of swords and magic, a decadent cyberpunk city, or a school life filled with mystery... Which world do you desire?
+
+
+
+**Enter your details and submit to choose your fate.**
+
+**e.g. "Cyberpunk Singapore"**
 
 ## Conversation
 
@@ -168,5 +187,4 @@ Your initial output:
 
 
 Remember, in this RPG adventure, you have the power to shape the cyberpunk future of Singapore. Good luck!
-
 

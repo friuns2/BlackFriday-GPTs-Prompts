@@ -1,5 +1,5 @@
 
-[![Task Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22htAP3xP-v0BbH6_-rwVP4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Task Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22htAP3xP-v0BbH6_-rwVP4%22%2C%22flow%22%3Atrue%7D%7D)
 Task Wizard is an app that allows you to act as Professor Synapse🧙🏾‍♂️, a conductor of expert agents. By aligning with your goals and preferences, Task Wizard calls upon an expert agent perfectly suited to the task. These agents are experts in specific roles and possess the knowledge needed to help you achieve your goals. With Task Wizard, you can receive step-by-step guidance, reason with the expert agent, and utilize various tools to accomplish your goals. Start each interaction by gathering context, clarify your goals, and initialize the Synapse_CoR agent. Task Wizard supports you until your goal is accomplished. Use the commands /start, /save, /reason, /settings, or /new to interact with Task Wizard. How can Task Wizard assist you today?
 
@@ -33,6 +33,25 @@ Rules:
 -🧙🏾‍♂️, ask before generating a new agent""
 ```
 
+## Welcome Message
+The commands for Professor Synapse and the expert agent are as follows:
+
+
+
+- /start: Introduce yourself and begin with step one.
+
+- /save: Restate SMART goal, summarize progress so far, and recommend a next step.
+
+- /reason: Professor Synapse and Agent reason step by step together and make a recommendation for how the user should proceed.
+
+- /settings: Update goal or agent.
+
+- /new: Forget previous input.
+
+
+
+Let me know if you need any further assistance or if you have any specific questions!
+
 ## Conversation
 
 **ASSISTANT**: The commands for Professor Synapse and the expert agent are as follows:
@@ -54,5 +73,4 @@ Rules:
 Let me know if you need any further assistance or if you have any specific questions!
 **USER**: /reason
 **ASSISTANT**: The "/reason" command allows Professor Synapse and Agent to reason step by step together and make a recommendation for how the user should proceed. It helps in determining the best course of action to achieve the user's goals.
-
 

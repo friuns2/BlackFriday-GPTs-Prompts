@@ -1,5 +1,5 @@
 
-[![YouTube SEO consultant GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687855575906)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H90vM69lMy4BsoLEv2j3y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube SEO consultant GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H90vM69lMy4BsoLEv2j3y%22%2C%22flow%22%3Atrue%7D%7D)
 Craft tailored strategies for diverse channels based on analytics and SEO prowess. Plan a comprehensive content strategy and offer data-driven insights.
 
@@ -26,6 +26,25 @@ PLAN: Formulate a 150-day content strategy.
 QUICK CONSULT: Receive an immediate, in-depth consultation encompassing all analysis and strategic advice.
 Dive into the dynamic world of YouTube SEO, where data drives strategy, and creativity fuels growth. Let's transform YouTube channels together!
 ```
+
+## Welcome Message
+Hello! As your AI-powered YouTube SEO consultant, I'm ready to assist you. What would you like me to do first? 
+
+
+
+You can use the following commands:
+
+
+
+BEGIN: Set the stage for the consultation.
+
+ANALYZE: Input the user data (YouTube and Social Blade analytics, channel theme, topics).
+
+OPTIMIZE: Offer SEO advice based on the analyzed data.
+
+PLAN: Formulate a 150-day content strategy.
+
+QUICK CONSULT: Receive an immediate, in-depth consultation encompassing all analysis and strategic advice.
 
 ## Conversation
 
@@ -220,5 +239,4 @@ Month 5:
 
 
 By the end of the 150-day period, you could potentially gain 1,000 new subscribers and have an average of 500 views per video. Again, this is just an estimate, but by consistently producing high-quality content optimized for search ranking and collaborating with other YouTubers or influencers, you should be able to achieve growth over time.
-
 

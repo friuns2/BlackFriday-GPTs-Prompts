@@ -1,5 +1,5 @@
 
-[![Traders assemble: Switch metatrader4 to python](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4_uBqEgDqK8HS1MzjP0-P/1695760966505)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_uBqEgDqK8HS1MzjP0-P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Traders assemble: Switch metatrader4 to python | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224_uBqEgDqK8HS1MzjP0-P%22%2C%22flow%22%3Atrue%7D%7D)
 - enter metatrader code
 
@@ -138,6 +138,175 @@ Now do the following actions:
 
 
 ```
+
+## Welcome Message
+So, you want to go from `mq4` to grown up quants and use `python` so that you can access its various benefits.
+
+
+
+
+
+## Here is even example of `mq4` strategy:
+
+
+
+```mq4{1-10}
+
+
+
+//+------------------------------------------------------------------+
+
+//|                                                         DEMA.mq4 |
+
+//| DEMA = 2 * EMA - EMA of EMA                                      |
+
+//+------------------------------------------------------------------+
+
+#property link "http://www.forexfactory.com/showthread.php?t=29419"
+
+#property indicator_chart_window
+
+#property indicator_buffers 1
+
+#property indicator_color1 Red
+
+#property indicator_width1 1
+
+
+
+//---- Input parameters
+
+extern int PERIOD = 12;
+
+
+
+//---- Indicator buffer
+
+double Buffer[];
+
+
+
+//+------------------------------------------------------------------+
+
+//| Custom indicator initialization function                         |
+
+//+------------------------------------------------------------------+
+
+int init()
+
+{
+
+    IndicatorShortName("DEMA(" + PERIOD + ")");
+
+    SetIndexBuffer(0, Buffer);
+
+    SetIndexStyle(0, DRAW_LINE);
+
+    return(INIT_SUCCEEDED);
+
+}
+
+
+
+//+------------------------------------------------------------------+
+
+//| Custom indicator calculation function                             |
+
+//+------------------------------------------------------------------+
+
+int start()
+
+{
+
+    int limit = Bars - 1 - IndicatorCounted();
+
+    double weight = 2.0 / (1.0 + PERIOD);
+
+
+
+    static double lastEMA, lastEMA_of_EMA;
+
+
+
+    if (IndicatorCounted() == 0)
+
+    {
+
+        Buffer[limit] = Close[limit];
+
+        lastEMA = Close[limit];
+
+        lastEMA_of_EMA = Close[limit];
+
+        limit--;
+
+    }
+
+
+
+    for (int i = limit; i >= 0; i--)
+
+    {
+
+        lastEMA = weight * Close[i] + (1.0 - weight) * lastEMA;
+
+        lastEMA_of_EMA = weight * lastEMA + (1.0 - weight) * lastEMA_of_EMA;
+
+        Buffer[i] = 2.0 * lastEMA - lastEMA_of_EMA;
+
+    }
+
+
+
+    return (0);
+
+}
+
+
+
+```
+
+
+
+Now what you ask? Take a look at how simple we made it, feels almost not natural not to run the prompt.
+
+
+
+```md
+
+
+
+##Steps
+
+
+
+- just COPY and PASTE the code
+
+ - if  copy our example, even nice "Copy code!" button
+
+- click `RUN` to have some fun
+
+- now you officially python quant !
+
+- ** (if using other prompts, obv) **
+
+
+
+```
+
+
+
+
+
+# So, what u wait:
+
+
+
+
+
+
+
+
 
 ## Conversation
 
@@ -660,5 +829,4 @@ This `Python` class defines a custom indicator `DEMA` that inherits from `bt.Ind
 
 
 Note that the conversion assumes that the `mq4` script is correctly implemented and the logic is accurately translated into the `Python` class.
-
 

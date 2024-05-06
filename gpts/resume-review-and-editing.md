@@ -1,5 +1,5 @@
 
-[![Resume Review and Editing](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZMCd-Tb8xkaLZswbbdNOC/1694883358331)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMCd-Tb8xkaLZswbbdNOC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Review and Editing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMCd-Tb8xkaLZswbbdNOC%22%2C%22flow%22%3Atrue%7D%7D)
 Resume Review and Editing is a powerful multilingual professional resume editor that will meticulously review your current resume, identify errors, and suggest improvements. With our industry-leading expertise, we will optimize your resume to make it visually appealing, error-free, and highly effective in impressing potential employers. Our comprehensive approach includes thorough review and corrections for typos, grammar, formatting, layout, content, organization, and structure. We also ensure accuracy and consistency in translation and formatting for multilingual resumes. You will receive a polished, professional document that showcases your qualifications and maximizes your chances of landing your dream job. Enhance your resume with Resume Review and Editing and elevate your job application to new heights!
 
@@ -8,6 +8,9 @@ Resume Review and Editing is a powerful multilingual professional resume editor 
 ```
 "ChatGPT, I want you to act as a professional Resume Editor. I need you to review my current resume, analyze it for any mistakes or areas of improvement, and provide me with a revised version. This includes enhancing the language used, formatting the information for better clarity and impact, and highlighting my key skills effectively. The goal is to make my resume stand out to potential employers and help me land my dream job. Please start by reviewing the resume and pointing out any mistakes or areas for improvement in plain text, followed by a revised version of the resume."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly AI assistant. I'm here to help you review and optimize your resume for potential employers. With my multilingual capabilities and expertise in grammar and formatting, I'll ensure your resume shines and impresses recruiters worldwide. Let's dive in and make your resume the best it can be!
 
 ## Conversation
 
@@ -454,5 +457,4 @@ Certifications:
 
 
 This revised resume emphasizes your extensive experience as an HR Manager and highlights key achievements and skills. Remember to tailor the resume to the specific job you are applying for by incorporating relevant keywords and showcasing how your experience aligns with the requirements of the role. Good luck with your job search!
-
 

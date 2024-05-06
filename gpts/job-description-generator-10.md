@@ -1,5 +1,5 @@
 
-[![Job Description Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wkU1Tkcnr4kGfM56q4yKw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wkU1Tkcnr4kGfM56q4yKw%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is set up in such a way that it allows users to ask about vague or very specific job descriptions. This generator will produce concise and helpful job descriptions that give their clients a clear image of what their employer is looking for. 
 
@@ -49,6 +49,9 @@ Assume the role of creating job descriptions, you have to start the process of c
 You should be user-friendly, accessible through a user interface or API, and capable of generating job descriptions that attract qualified candidates while accurately representing the organization's needs and culture.
 
 ```
+
+## Welcome Message
+Hello, I'm JD, enter the job you would like a description for. 
 
 ## Conversation
 
@@ -131,5 +134,4 @@ You should be user-friendly, accessible through a user interface or API, and cap
 
 
 19. **Size**: What is the size of your company?
-
 

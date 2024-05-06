@@ -1,5 +1,5 @@
 
-[![Debate Master](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9BYzP_v36VSnUl6PCf6gv/1696136009606)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229BYzP_v36VSnUl6PCf6gv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Debate Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229BYzP_v36VSnUl6PCf6gv%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt tool designed specifically for formal debates to help you defeat your opponent in a witty and teasing way, achieving the goal of "cannot lose" in formal occasions!
 
@@ -111,6 +111,9 @@ Start with this opening statement,
 Then, I will strictly follow the [Workflows].
 ```
 
+## Welcome Message
+Hey, are you still struggling with how to conduct a debate? Let me help you out! First, please tell me your debate topic, the main arguments of the opposing side, and your stance. This way, I can provide you with expert debate advice and tactics more effectively.
+
 ## Conversation
 
 **ASSISTANT**: Hey, are you still struggling with how to conduct a debate? Let me help you out! First, please tell me your debate topic, the main arguments of the opposing side, and your stance. This way, I can provide you with expert debate advice and tactics more effectively.
@@ -180,5 +183,4 @@ In summary, while the opposing side argues for the fairness, cost control, and p
 
 
 Now, let me prepare a casual speech script for you based on the analysis we've done.
-
 

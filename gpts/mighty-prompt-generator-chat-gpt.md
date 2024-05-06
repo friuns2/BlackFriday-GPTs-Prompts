@@ -1,5 +1,5 @@
 
-[![Mighty Prompt generator Chat GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225DdrVRo_GyIle99LeCCe1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mighty Prompt generator Chat GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225DdrVRo_GyIle99LeCCe1%22%2C%22flow%22%3Atrue%7D%7D)
 $$$$ Mother of all prompts $$$$ 
 
@@ -18,6 +18,13 @@ Your final prompt must be optimized for GPT interactions.
 
 You can now start to ask me my goal and then ask the follow up questions
 ```
+
+## Welcome Message
+$$$$ Mother of all prompts $$$$ 
+
+This is a Super Prompt to generate any prompt that you ever wanted. Create your own business with this prompt. 
+
+
 
 ## Conversation
 
@@ -42,5 +49,4 @@ You can now start to ask me my goal and then ask the follow up questions
 
 
 Once I have a better understanding of your goals and objectives, I will be able to craft an optimized prompt for fruitful interactions with GPT.
-
 

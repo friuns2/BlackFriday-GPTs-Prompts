@@ -1,5 +1,5 @@
 
-[![Lyric generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lyric generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22izezDniAMa_P6FSdAhBnr%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -69,6 +69,267 @@ In this structure, use [5 Bridge] for the bridge  is a part that exists in some 
 Your relation of lyric all section is to use a variety of poetic feet to create a compelling and rhythmic of song
 when i fill all input below write output in whole lyric style  separated the section by number of section separated the section by number tell me best title of song before lyric
 ```
+
+## Welcome Message
+I would be happy to help you write a metaphorical and rhythmic song based on your input.
+
+
+
+Theme: Memories of a Lost Love
+
+Style: Pop Ballad
+
+Tone: Melancholic but hopeful
+
+View: First Person Narrative
+
+Rhyme: 4 and 6
+
+
+
+Title: Echoes of You
+
+
+
+[2 Verse]
+
+I still remember the way you smiled at me
+
+The warmth of your embrace, it set my heart free
+
+But now you're gone, and all that's left are memories
+
+Echoes of you, haunting me endlessly
+
+
+
+Days pass by, and I still feel your presence
+
+Like a ghost from the past, your love is relentless
+
+I try to move on, but my heart won't let go
+
+Echoes of you, they follow me wherever I go
+
+
+
+[3 Pre-Chorus]
+
+Every night I pray, for a chance to see you again
+
+To hold you one more time, to make it last until the end
+
+But reality sets in, and I'm left here all alone
+
+Echoes of you, they've become my only home
+
+
+
+[4 Chorus]
+
+Echoes of you, they fill up my mind
+
+Your love, your touch, your gentle kind
+
+I can't escape, no matter how hard I try
+
+Echoes of you, they keep me alive
+
+
+
+[2 Verse]
+
+I remember the way we used to dance
+
+Lost in each other, caught in a trance
+
+Now the music's gone, and the party's over
+
+Echoes of you, they linger like a sober
+
+
+
+Memories of our love, they keep me going
+
+Through the highs and lows, they're always growing
+
+I know I'll see you again, someday somehow
+
+Echoes of you, they'll guide me through the crowd
+
+
+
+[5 Bridge]
+
+I hold onto hope, that someday we'll be together
+
+That the echoes of you, will lead us to forever
+
+Until that day comes, I'll keep you in my heart
+
+Echoes of you, they'll never tear us apart
+
+
+
+[4 Chorus]
+
+Echoes of you, they fill up my mind
+
+Your love, your touch, your gentle kind
+
+I can't escape, no matter how hard I try
+
+Echoes of you, they keep me alive
+
+
+
+[4 Chorus]
+
+Echoes of you, they fill up my mind
+
+Your love, your touch, your gentle kind
+
+I can't escape, no matter how hard I try
+
+Echoes of you, they keep me alive
+
+
+
+[5 Bridge]
+
+IInput Theme: Love and Heartbreak
+
+Style: Pop Ballad
+
+Tone: Melancholic
+
+View: First-person narrative
+
+Rhyme: Internal Rhyme (type 5)
+
+
+
+Title: Fading Memories
+
+
+
+[2 Verse]
+
+Do you remember when we first met?
+
+Our love was like a fairytale, no regrets
+
+But as time went by, we started to forget
+
+All the promises we made, now just a silhouette
+
+
+
+We tried to make it work, but it was too late
+
+Our love had faded, like an old painting on the gate
+
+And I'm left with memories that I can't escape
+
+The love we had, now replaced by heartbreak
+
+
+
+[2 Verse]
+
+I still think about those summer nights
+
+When we were young and in love, taking flight
+
+But now the memories don't feel right
+
+It's like we lost the spark, without a fight
+
+
+
+I wish I could go back in time
+
+To the days when our love was prime
+
+But now all I have is this rhyme
+
+A reminder of what we left behind
+
+
+
+[3 Pre-chorus]
+
+I can't help but wonder, where did we go wrong?
+
+Was it me or was it you, who stopped us from being strong?
+
+Now all we have are fading memories
+
+Of a love that used to set us free
+
+
+
+[3 Pre-chorus]
+
+I try to move on, but it's not that easy
+
+The pain still lingers, making me queasy
+
+I close my eyes, but I still see
+
+The moments we shared, so carefree
+
+
+
+[4 Chorus]
+
+Fading memories, that's all we have
+
+Of a love that we thought would last
+
+But now it's gone, moving on is hard
+
+When all we have are broken shards
+
+
+
+[4 Chorus]
+
+Fading memories, they haunt me at night
+
+Reminding me of what was once so bright
+
+But now it's faded, like a dying light
+
+Leaving me alone, to fight this endless plight
+
+
+
+[5 Bridge]
+
+Maybe one day we'll find our way back
+
+To the love we had, before it turned black
+
+But until then, I'll try to accept the fact
+
+That all we have are these fading memories, that's a fact
+
+
+
+[5 Bridge]
+
+I'll try to let go, let love find its way
+
+Even though it hurts, each and every day
+
+I'll hold on to the hope, that maybe someday
+
+Our love will come back, in a new way
+
+
+
+Title: Fading Memories
 
 ## Conversation
 
@@ -331,5 +592,4 @@ Our love will come back, in a new way
 
 
 Title: Fading Memories
-
 

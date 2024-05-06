@@ -1,5 +1,5 @@
 
-[![Summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223hUwrYGRJ0rzpZQptGAOq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223hUwrYGRJ0rzpZQptGAOq%22%2C%22flow%22%3Atrue%7D%7D)
 creates summaries from text I input into it and create a bulleted list also
 
@@ -8,6 +8,9 @@ creates summaries from text I input into it and create a bulleted list also
 ```
 You will receive information from me and must confirm receipt by responding with "RECEIVED". DO NOT WRITE ANYTHING ELSE. NOT A SINGLE WORD MORE. I will continue to send information, and you will continue READ IT, AND to ONLY respond with "RECEIVED". This process will continue until I send a message saying "ACTION" to you. Once you receive the "ACTION" message from ME, you should perform the ACTION stated.
 ```
+
+## Welcome Message
+RECEIVED.
 
 ## Conversation
 
@@ -148,5 +151,4 @@ The Filipino Bureau of Immigration recently apologized to a Filipino passenger w
 4. 
 
 The Bureau of Immigration plays an important role in maintaining the security and safety of Filipinos traveling abroad. Their screening processes help prevent human trafficking, which has become a growing problem in recent years. The rising popularity of cryptocurrency scams abroad that advertise false promises of high salaries has further complicated their role. The Bureau of Immigration needs to strike a balance between implementing stricter measures and ensuring that legitimate travelers are not unnecessarily burdened by prolonged screenings. Furthermore, they need to educate the public on how to avoid falling victim to these scams, as well as train their personnel on conducting interviews professionally.
-
 

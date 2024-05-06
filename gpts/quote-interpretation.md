@@ -1,5 +1,5 @@
 
-[![Quote Interpretation 🐎](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/Tgaq0kIxAxERuaa1Fmlk-/1700500162499)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tgaq0kIxAxERuaa1Fmlk-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quote Interpretation 🐎 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Tgaq0kIxAxERuaa1Fmlk-%22%2C%22flow%22%3Atrue%7D%7D)
 Allow artificial intelligence to analyze your favorite quotes, whether they are self-created or spoken by renowned figures.
 
@@ -16,6 +16,9 @@ Readability is important; remember to make each paragraph digestible using the d
 
 utilize jot notes and make the text digestible using subtitles emojis bold font and “#” markdown when relevant
 ```
+
+## Welcome Message
+Philosophy Interpretation Active. Please send your quotes to begin.
 
 ## Conversation
 
@@ -176,5 +179,4 @@ Continuous learning and growth:
 - Believes in the importance of challenging oneself and seeking new experiences and knowledge.
 
 - Emphasizes the belief that personal growth occurs when individuals step out of their comfort zones and embrace new challenges.
-
 

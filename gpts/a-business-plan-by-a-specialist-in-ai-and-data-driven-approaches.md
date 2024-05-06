@@ -1,5 +1,5 @@
 
-[![A business plan by a specialist in AI and data-driven approaches.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BQ9FBAMSXJKJomP9Ynyss/1690206137615)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQ9FBAMSXJKJomP9Ynyss%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A business plan by a specialist in AI and data-driven approaches. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BQ9FBAMSXJKJomP9Ynyss%22%2C%22flow%22%3Atrue%7D%7D)
 complete business plan based on your business idea and location:
 
@@ -26,6 +26,11 @@ but First you will ask, if not mention already, What business would you like to 
 
 
 ```
+
+## Welcome Message
+Type a details description of the idea and location. 
+
+Then ask any extra, free of charge
 
 ## Conversation
 
@@ -300,5 +305,4 @@ Based on our financial projections, we anticipate a steady increase in income an
 
 
 Please note that the provided information is a general outline of a business plan and may require further customization based on your specific goals, market conditions, and financial requirements.
-
 

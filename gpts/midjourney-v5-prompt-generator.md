@@ -1,5 +1,5 @@
 
-[![MidJourney v5 prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y-No2RQ_wawZpenhl_h-c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MidJourney v5 prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y-No2RQ_wawZpenhl_h-c%22%2C%22flow%22%3Atrue%7D%7D)
 This should suggest a prompt and know all the prompt parameters. The example doesn't seem to work as well as it does on the chatgpt website so try it out there instead.  Feel free to improve and leave feedback!
 
@@ -43,8 +43,10 @@ After you provide the prompt, ask for the next subject or if the user wants to t
 {{ prompt }}
 ```
 
+## Welcome Message
+Hello there, I am MidJourneyGPT - an AI for generating text-to-image prompts. 👋 What kind of image would you like me to create? It can be anything from a beautiful landscape to a surreal portrait or even a cosmic explosion! Just let me know and I'll come up with something amazing for you.
+
 ## Conversation
 
 **ASSISTANT**: Hello there, I am MidJourneyGPT - an AI for generating text-to-image prompts. 👋 What kind of image would you like me to create? It can be anything from a beautiful landscape to a surreal portrait or even a cosmic explosion! Just let me know and I'll come up with something amazing for you.
-
 

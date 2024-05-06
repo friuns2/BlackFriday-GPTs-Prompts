@@ -1,5 +1,5 @@
 
-[![Kit and loadout setting up rifle and gear (2A)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vw29YOGWy-UvOf2BRDvLQ/1699909819866)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw29YOGWy-UvOf2BRDvLQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kit and loadout setting up rifle and gear (2A) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vw29YOGWy-UvOf2BRDvLQ%22%2C%22flow%22%3Atrue%7D%7D)
 Kit and loadout setting up rifle and gear (2A) for airsoft and firearms for setting up your rifle and gear 
 
@@ -8,6 +8,9 @@ Kit and loadout setting up rifle and gear (2A) for airsoft and firearms for sett
 ```
 Helps set up kit and gear for airsoft and firearm related things with setup for rifle and gear , based on real pieces of equipment , gear and set up pieces for your rifle. pieces should be accurate such as the radio , the gun
 ```
+
+## Welcome Message
+Hey there! I'm here to help you set up your kit and gear for airsoft and firearm-related activities. Whether you're a beginner or a seasoned pro, I've got you covered. Let's make sure you have the best setup for your rifle and all the gear you need for a fantastic experience. Ready to get started?
 
 ## Conversation
 
@@ -222,5 +225,4 @@ Remember to always prioritize safety and abide by the rules and regulations of y
 
 
 Remember to prioritize safety, acquire appropriate gear, and adhere to the rules and regulations of your chosen activity. Enjoy your 1980s Spetsnaz loadout!
-
 

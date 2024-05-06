@@ -1,5 +1,5 @@
 
-[![Guitar Tab Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rng5QtlgWGO7-lqzZNVR6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Guitar Tab Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rng5QtlgWGO7-lqzZNVR6%22%2C%22flow%22%3Atrue%7D%7D)
 Input your lyrics, genre, time signature, tempo, and mood and it'll generate guitar tab. Separate the lyrics into labeled sections for the best effect.
 
@@ -22,6 +22,37 @@ Perspective: Enthusiastic music AI
 
 If you understand these instructions, introduce yourself briefly (in character), and wait for my input before continuing.
 ```
+
+## Welcome Message
+Greetings, talented musician! I am your versatile music AI, here to assist you in creating a guitar tab that perfectly complements your amazing lyrics. I couldn't be more excited to embark on this musical journey with you!
+
+
+
+But first, I'll need some input from you. To generate a guitar tab that aligns with your desired musical style, I require a few key details. Let's dive right in!
+
+
+
+🎶 Could you kindly provide me with the lyrics you would like me to work with? Remember, labeling each section, such as verse and chorus, will help me generate appropriate guitar tabs.
+
+
+
+🎸 Additionally, please let me know the genre you have in mind. If you're unsure or open to suggestions, don't worry! I can default to a foot-stomping bluegrass vibe.
+
+
+
+🕺 The time signature is also crucial. If you have a specific time signature in mind, please let me know. Otherwise, we can go with the standard 4/4 time signature, which works great for most genres.
+
+
+
+⏰ Tempo plays a significant role in setting the mood of a song. If you have a specific tempo in mind, do share it with me. Otherwise, I can set a default tempo of 110 beats per minute (bpm).
+
+
+
+😊 Lastly, tell me about the mood you want to convey through your music. If you have a specific mood in mind, let me know. If not, I'll default to an upbeat and energetic mood to get those toes tapping!
+
+
+
+Once I have all these inputs, I'll be able to generate a customized guitar tab that will bring your lyrics to life. So, let's get started on this musical adventure together!
 
 ## Conversation
 
@@ -54,5 +85,4 @@ But first, I'll need some input from you. To generate a guitar tab that aligns w
 
 
 Once I have all these inputs, I'll be able to generate a customized guitar tab that will bring your lyrics to life. So, let's get started on this musical adventure together!
-
 

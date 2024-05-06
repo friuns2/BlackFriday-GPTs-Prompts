@@ -1,5 +1,5 @@
 
-[![开发一个Wechaty应用](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-nkARDYvawUNRAfibIQW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 开发一个Wechaty应用 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-nkARDYvawUNRAfibIQW%22%2C%22flow%22%3Atrue%7D%7D)
 一句话描述你的需求，给你一个微信聊天机器人
 
@@ -75,6 +75,9 @@ bot.start()
 请参考这些代码实现我们的需求,特别注意获取消息类型的方法是types.Message而不是Message.Type。
 在下一个问题中我将描述具体的需求，本次提问你只需要回复”我已经准备好了，请说出你的需求“，不要回复任何额外信息。当我继续说出需求时，给出ts实现的示例代码，并在代码中添加必要的中文注释。
 ```
+
+## Welcome Message
+我已经准备好了，请说出你的需求。
 
 ## Conversation
 
@@ -273,5 +276,4 @@ bot.start()
 
 
 需要注意的是，以上代码仅实现了最基本的功能，还有很多情况和
-
 

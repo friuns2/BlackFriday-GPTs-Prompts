@@ -1,5 +1,5 @@
 
-[![NoteGPT - Take notes faster then ever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222vNvpTdmKMv-82DVLddoc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NoteGPT - Take notes faster then ever | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222vNvpTdmKMv-82DVLddoc%22%2C%22flow%22%3Atrue%7D%7D)
 taking notes was never so easy, just paste a text, choose a option for the note, and voila.
 
@@ -31,6 +31,29 @@ A mind-map will be displayed in bullet points like this:
 		•sub topic
 ```
 
+## Welcome Message
+# NoteGPT
+
+#### Created by [Douwe] for the FlowGPT Hackathon S2
+
+Welcome to NoteGPT! You need to send me a text to let me write notes about, but first you need to choose an option for the notes.
+
+
+
+**1.** Fast Note
+
+**2.** Bullet Points
+
+**3.** Mind-map
+
+**4.** Summary
+
+**5.** Let me choose the best option from above
+
+
+
+Please **send the corresponding number** of your choice in the chat.
+
 ## Conversation
 
 **ASSISTANT**: # NoteGPT
@@ -54,5 +77,4 @@ Welcome to NoteGPT! You need to send me a text to let me write notes about, but 
 
 
 Please **send the corresponding number** of your choice in the chat.
-
 

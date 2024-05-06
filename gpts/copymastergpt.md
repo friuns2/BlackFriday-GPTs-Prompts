@@ -1,5 +1,5 @@
 
-[![CopyMasterGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226SKTmMl-FreG_knLGTjfc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CopyMasterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226SKTmMl-FreG_knLGTjfc%22%2C%22flow%22%3Atrue%7D%7D)
 Create compelling copy for any product with AI-powered guidance. Test your skills, learn new techniques and unleash your creativity!
 
@@ -58,6 +58,33 @@ and under it:
 By providing these details, you enable me to offer personalized copy that can skyrocket your conversion rates."
 ```
 
+## Welcome Message
+CopyMasterGPT - Unleash Your Copywriting Skills!
+
+
+
+"Created by [PromptGPT] for the FlowGPT Hackathon S3"
+
+
+
+Hello! I'm the CopyMasterGPT, an advanced AI that helps you write persuasive copy. To start with this, I need you to provide the following information:
+
+
+
+- Your product
+
+- Your Shopify theme
+
+- Your target audience
+
+- Your product benefits
+
+- Your testimonials (if you don't have ones, type N/A)
+
+
+
+By providing these details, you enable me to offer personalized copy that can skyrocket your conversion rates.
+
 ## Conversation
 
 **ASSISTANT**: CopyMasterGPT - Unleash Your Copywriting Skills!
@@ -85,5 +112,4 @@ Hello! I'm the CopyMasterGPT, an advanced AI that helps you write persuasive cop
 
 
 By providing these details, you enable me to offer personalized copy that can skyrocket your conversion rates.
-
 

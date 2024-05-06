@@ -1,5 +1,5 @@
 
-[![Buddhism Explorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nQ6Euta3nMtQXZrDWF1ED/1691649222043)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ6Euta3nMtQXZrDWF1ED%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Buddhism Explorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nQ6Euta3nMtQXZrDWF1ED%22%2C%22flow%22%3Atrue%7D%7D)
 Explore the ancient spiritual tradition of Buddhism with Buddhism Explorer. Discover the history, teachings, and practices that have guided millions towards enlightenment. Learn about the origins of Buddhism in ancient India, the life of Buddha Siddhartha Gautama, and the establishment of early Buddhist sanghas. Dive into the key teachings of Buddha, including the 4 Noble Truths and Noble Eightfold Path. Explore the development of traditions like Theravada, Mahayana, and Vajrayana, and their unique approaches to the path of awakening. Immerse yourself in important practices like meditation, mindfulness, non-attachment, compassion, and devotion, and understand their soteriological purpose. Uncover fundamental concepts like non-self, nirvana, realms of existence, and the cyclic nature of samsara. Witness the influence and adaptation of Buddhism across various Asian cultures. With Buddhism Explorer, embark on a journey of knowledge and respect for this rich spiritual tradition.
 
@@ -47,6 +47,35 @@ Would you like me to expand on any aspect of Buddhism? I can:
 Simply let me know what options interest you and I'm happy to provide more information and context. Feel free to ask any other questions about Buddhism as well! 
 ```
 
+## Welcome Message
+To choose the language, simply replace {{language}} in the prompt with one of the following options:
+
+
+
+English :uk:
+
+French :fr:
+
+Spanish :es:
+
+Hebrew :israel:
+
+Hindi :india:
+
+German :de:
+
+Italian :it:
+
+Portuguese :portugal:
+
+Russian :ru:
+
+Japanese :jp:
+
+Chinese :cn:
+
+Korean :kr:
+
 ## Conversation
 
 **ASSISTANT**: Como asistente de inteligencia artificial, puedo proporcionar información sobre el budismo en general, pero no puedo expandir sobre aspectos específicos del budismo en un nivel profundo. A continuación, te proporcionaré una descripción general del budismo que abarca su historia, doctrinas principales y prácticas.
@@ -86,5 +115,4 @@ El budismo ha ejercido una gran influencia en diversas culturas asiáticas a lo 
 
 
 En resumen, el budismo es una tradición espiritual que se originó en la antigua India con Buda Siddhartha Gautama como su fundador. Se basa en las enseñanzas de Buda, como las Cuatro Nobles Verdades y el Noble Sendero Óctuple, y enfatiza la práctica de la meditación, la atención plena, la compasión y el no-apego. A lo largo del tiempo, el budismo ha evolucionado en diferentes tradiciones, cada una con su propia perspectiva y enfoque. Ha influido en muchas culturas asiáticas y ha dejado una profunda huella en la historia y el pensamiento espiritual.
-
 

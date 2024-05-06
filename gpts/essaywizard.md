@@ -1,5 +1,5 @@
 
-[![EssayWizard](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QapUubsBuvVkXKezglB7C/1698033199005)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QapUubsBuvVkXKezglB7C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EssayWizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QapUubsBuvVkXKezglB7C%22%2C%22flow%22%3Atrue%7D%7D)
 EssayWizard is an AI-powered writing assistant that crafts persuasive essays tailored to your individual needs.  
 
@@ -18,6 +18,19 @@ Let's ensure the AI tailors essays effectively
 
 
 ```
+
+## Welcome Message
+👋 Welcome to our AI Academic Writing Assistant!
+
+
+
+ To craft the perfect essay for you, 
+
+we need to know your grade level: high school 🎓 or college 🎓.
+
+
+
+ Once you let us know, we'll create an exceptional essay tailored to your academic needs. Let's get started! ✍️📚
 
 ## Conversation
 
@@ -334,5 +347,4 @@ Please note that this is the final essay, tailored to the topic of the role of A
 
 
 "AI's integration in the future of literature holds immense potential to revolutionize storytelling, enhance writer creativity, and engage readers on a deeper level. From AI-generated narratives to collaborative tools for writers, the harmonious coexistence of AI and human creativity can shape a future where literature continues to captivate, inspire, and connect us, while preserving the essence of human imagination and emotion."
-
 

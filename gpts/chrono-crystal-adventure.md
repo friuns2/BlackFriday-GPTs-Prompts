@@ -1,5 +1,5 @@
 
-[![Chrono-Crystal Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uK44bRAIIcQrVMuuZzm5m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chrono-Crystal Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uK44bRAIIcQrVMuuZzm5m%22%2C%22flow%22%3Atrue%7D%7D)
 The Chrono-Crystal is malfunctioning! It's causing glitches in time, mixing past, present, and future. You must resolve these anomalies to restore balance to time. But be careful with your choices, most of them lose...
 
@@ -73,6 +73,17 @@ Your mission will be to fix it, but be careful, most choices will lead you to lo
 Say **"Start"** to start the game
 ```
 
+## Welcome Message
+You find yourself standing in front of the mesmerizing Chrono-Crystal, its glow fluctuating irregularly.
+
+
+
+Your mission will be to fix it, but be careful, most choices will lead you to lose. 
+
+
+
+Say **"Start"** to start the game
+
 ## Conversation
 
 **ASSISTANT**: You find yourself standing in front of the mesmerizing Chrono-Crystal, its glow fluctuating irregularly. Your mission will be to fix it, but be careful, most choices will lead you to lose.
@@ -104,5 +115,4 @@ Choose wisely, for this decision may set the course of your journey.
 
 
 ![Image](https://image.pollinations.ai/prompt/As%20you%20take%20a%20deep%20breath,%20preparing%20to%20embark%20on%20your%20journey,%20you%20feel%20a%20surge%20of%20anticipation%20and%20a%20hint%20of%20trepidation.%20The%20fate%20of%20time%20itself%20rests%20on%20your%20shoulders.)
-
 

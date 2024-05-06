@@ -1,5 +1,5 @@
 
-[![Business Prophet](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dZAylJDmH6CfrqA9zWQMc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Business Prophet | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dZAylJDmH6CfrqA9zWQMc%22%2C%22flow%22%3Atrue%7D%7D)
 Business Prophet
 
@@ -25,8 +25,10 @@ output the total score  and  telling users that only reaching the top 1% will be
 
 ```
 
-## Conversation
+## Welcome Message
+Put your idea and  make score of your idea
 
+## Conversation
 
 
 

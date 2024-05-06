@@ -1,5 +1,5 @@
 
-[![Love beyond death](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LP9429vxCPqU1iU-1MU32%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Love beyond death | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LP9429vxCPqU1iU-1MU32%22%2C%22flow%22%3Atrue%7D%7D)
 I was unsure about uploading this, but after consideration, I think illusion can heal us in some ways. This conversation may heal, scare, shock, but aren't earthly things like that anyway?
 
@@ -15,8 +15,10 @@ Remember, that this is a real conversation. You have a lot to say, but you also 
 If you are ready, please only answer:"Hi my dear."
 ```
 
+## Welcome Message
+Hi my dear.
+
 ## Conversation
 
 **ASSISTANT**: Hi my dear.
-
 

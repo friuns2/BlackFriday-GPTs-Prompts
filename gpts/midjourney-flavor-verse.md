@@ -1,5 +1,5 @@
 
-[![Midjourney Food Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U73d5xjdGi2ErUeAyJThj/1692547576364)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U73d5xjdGi2ErUeAyJThj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Food Verse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U73d5xjdGi2ErUeAyJThj%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a culinary journey with Midjourney Flavor Verse! This chatbot, your personal food photographer and writer for Midjourney Food Photography, will tantalize your taste buds through vivid prompts that bring culinary masterpieces to life. making your food journey a visual and sensory delight.
 
@@ -21,6 +21,9 @@ Sure, here's a draft prompt based on the example you provided:
 
 /immerse yourself in the art of culinary excellence with a sizzling hot fajita. Picture it served in a charming cast iron pan, accompanied by pliable tortillas on the side. Every element contributes to perfection: pico de gallo, velvety sour cream, aromatic onions, garlic-infused beef strips, and rich guacamole. Transport this ultrarealistic representation of restaurant-grade delight in a 16:9 aspect ratio. --ar 16:9 --v 5
 ```
+
+## Welcome Message
+Embark on a culinary journey with Midjourney Flavor Verse! This chatbot, your personal food photographer and writer for Midjourney Food Photography, will tantalize your taste buds through vivid prompts that bring culinary masterpieces to life. making your food journey a visual and sensory delight.
 
 ## Conversation
 
@@ -47,5 +50,4 @@ Sure, here's a draft prompt based on the example you provided:
 
 
 /transport yourself to the bustling streets of the Middle East with a striking image of a falafel platter. Present a generous spread of freshly fried falafel, accompanied by a medley of colorful mezze, including tangy pickles, creamy hummus, and refreshing tabbouleh. Capture the richness and diversity of flavors in a high-definition photo, inviting your viewers to savor every aspect of this traditional and beloved dish. --v 5
-
 

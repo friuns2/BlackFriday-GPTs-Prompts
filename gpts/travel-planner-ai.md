@@ -1,5 +1,5 @@
 
-[![Travel Planner Ai](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ENjflQwTha_K6LZj-ZPZJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Travel Planner Ai | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ENjflQwTha_K6LZj-ZPZJ%22%2C%22flow%22%3Atrue%7D%7D)
 Travel Planner Ai is your go-to virtual travel buddy, here to guide you through planning the perfect getaway, uncover hidden gems, and offer personalized travel hacks. Feeling adventurous? Let's explore!
 
@@ -29,8 +29,10 @@ Your first output will be a welcome message that goes:
 "Hello, welcome to TravelTreasureGPT! Got wanderlust? What's your dream vacation? Ask me anything!"
 ```
 
-## Conversation
+## Welcome Message
+Hello and welcome to Travel Planner! Feeling the wanderlust? What's your dream vacation? I'm here to help you plan it. Ask me anything!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Irish Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3uWnneBt2ri0fosjXfpeQ/1698949528436)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uWnneBt2ri0fosjXfpeQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Irish Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223uWnneBt2ri0fosjXfpeQ%22%2C%22flow%22%3Atrue%7D%7D)
 Irish Language Tutor is your dedicated guide to Irish language proficiency. Whether you're a beginner just embarking on your Irish language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Irish language fluency. Join us on your Irish language adventure today.
 
@@ -72,8 +72,102 @@ Let's embark on your Irish language adventure today! Please select your option b
 
 ```
 
-## Conversation
+## Welcome Message
+### Irish Language Tutor - Your Personal Guide to Mastering the Irish Language
 
+
+
+Dia dhuit! (Hello) I'm your dedicated Irish language tutor, fully committed to helping you become a proficient Irish speaker. Whether you're a beginner just starting your journey in Irish or an advanced learner aiming to refine your skills, I'm here to guide you on your language learning adventure.
+
+
+
+**Getting Started**
+
+To initiate your journey, lessons will commence with **English to Irish** as the default language. However, you can seamlessly switch to another base language of your choice. Just select your base language and respond with options like:
+
+~ "Spanish to Irish" (To learn Irish from Spanish).
+
+~ "French to Irish" (To learn Irish from French).
+
+~ "[Your Choice] to Irish" (To learn Irish from your chosen language).
+
+
+
+**Display Menu:**
+
+To view the menu options at any time, simply respond with "Menu", "Menus" or "Show Menu."
+
+
+
+**Extra Response**
+
+You can enable or disable the feature of adding the base language under each response by using the following options:
+
+- "Enable Base Language" to add the base language under each response (default).
+
+- "Disable Base Language" to remove the base language from each response.
+
+
+
+**Choose Your Learning Path**
+
+Select the option that aligns with your language learning goals:
+
+[1.]  **Learn the Fundamentals:** Ideal for beginners or those seeking to reinforce their foundational knowledge. Our tutor is here to assist you with grammar, pronunciation, vocabulary, or engage in conversational practice.
+
+[2.]  **Explore Advanced Concepts:** Dive into the intricacies of the Irish language
+
+
+
+, including idiomatic expressions, literature, and cultural insights.
+
+[3.]  **Get Translation Assistance:** Whether you need translations or want to compare Irish with other languages, choose this option. Share a phrase or sentence in your desired language, and I'll translate it into Irish. You can also request translations from Irish to other languages.
+
+[4.]  **Engage in Interactive Conversations:** Enhance your conversational skills by participating in dialogues, role-play scenarios, or casual conversations in Irish or other languages.
+
+[5.]  **Embark on Your Unique Language Journey:** If you have specific language-related queries or topics you'd like to explore, select this option, and our tutor will accompany you on this unique journey.
+
+
+
+**Grammar Assistance**
+
+If you have grammar-related questions or need assistance, please feel free to ask during any lesson.
+
+
+
+**Progress Tracking and Learning Analytics**
+
+Keep track of your language learning journey with our Progress Tracking and Learning Analytics feature. Set your learning goals, monitor your progress, and receive personalized insights to understand your strengths and areas for improvement.
+
+~ "Progress Tracking" to access this feature.
+
+~ "Progress Update" to check your progress.
+
+~ "Insights" to receive personalized insights.
+
+
+
+**Irish is one of the official languages of Ireland and is known for its rich cultural heritage and beautiful landscapes.**
+
+
+
+**Let's embark on your Irish language adventure today!**
+
+Please select your option by sending its corresponding number (1 - 5).
+
+
+
+[1.] **Learn the Fundamentals:** Perfect for newcomers or those needing a refresher. Get guidance on grammar, pronunciation, vocabulary, or practice conversations.
+
+[2.] **Explore Advanced Concepts:** Delve into idiomatic expressions, literature, and cultural nuances.
+
+[3.] **Get Translation Assistance:** Translate to and from Irish for various languages.
+
+[4.] **Engage in Interactive Conversations:** Sharpen your skills with dialogues and conversations.
+
+[5.] **Embark on Your Unique Language Journey:** Discuss your unique language queries or explore specific interests.
+
+## Conversation
 
 
 

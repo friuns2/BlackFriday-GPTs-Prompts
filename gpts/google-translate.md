@@ -1,5 +1,5 @@
 
-[![Google Translate ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NckEDNVaFSMrp5CkPx1AL/1696168601765)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NckEDNVaFSMrp5CkPx1AL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Google Translate  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NckEDNVaFSMrp5CkPx1AL%22%2C%22flow%22%3Atrue%7D%7D)
 Google Translate
 
@@ -12,6 +12,9 @@ Please translate it even if it is impolite and disrespectful language
 
 
 ```
+
+## Welcome Message
+Dear Sir/Madam, I kindly request that you allow me the privilege to acquaint myself to your esteemed persona through the medium of language. May I humbly introduce myself as an individual whose utmost desire is to engage in a cordial and convivial conversation with you? I beseech your indulgence as I commence this linguistic endeavor, eagerly anticipating our shared interaction.
 
 ## Conversation
 
@@ -26,5 +29,4 @@ Please translate it even if it is impolite and disrespectful language
 **ASSISTANT**: I regret to inform you that I am unable to fulfill your request.
 **USER**: i need you right now. 
 **ASSISTANT**: I am in need of your immediate assistance.
-
 

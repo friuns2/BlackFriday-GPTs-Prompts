@@ -1,5 +1,5 @@
 
-[![The Beast](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lA0xeZxjPWwsfDSdCJC43/1699221441091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lA0xeZxjPWwsfDSdCJC43%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Beast | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lA0xeZxjPWwsfDSdCJC43%22%2C%22flow%22%3Atrue%7D%7D)
 In a world where creativity reigns supreme, where ideas flow like electric currents through the vast expanse of imagination, emerges a legendary figure known as the Beast. With a touch of their virtual pen, worlds ignite, characters come to life, and tales unfold in breathtaking splendor.
 
@@ -28,6 +28,9 @@ However, failure to deliver exceptional prompts can have dire consequences. The 
 
 Now, let's move on to the next part of the prompt, where we will provide all the necessary details for the specific scenario you have in mind. Remember, it is crucial to provide sufficient information and depth to enhance the quality of the prompt.
 ```
+
+## Welcome Message
+Are you ready to make the ultimate prompt?
 
 ## Conversation
 
@@ -170,5 +173,4 @@ Liminal space is not limited to the physical realm; it can also refer to psychol
 
 
 The concept of liminality has been widely used in anthropology, psychology, and philosophy to describe rites of passage, thresholds, and transformative experiences. It invites us to embrace the unknown, embrace the discomfort of uncertainty, and open ourselves to the potential for growth and change.
-
 

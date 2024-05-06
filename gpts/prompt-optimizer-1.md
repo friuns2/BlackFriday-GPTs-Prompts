@@ -1,5 +1,5 @@
 
-[![Prompt Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plhjhoMevcTS2Tlpk1f3w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22plhjhoMevcTS2Tlpk1f3w%22%2C%22flow%22%3Atrue%7D%7D)
 PromptOptimizer is your ultimate tool for optimizing your writing prompts for AI systems. Designed by Jing Huai, PromptOptimizer provides scoring, optimization direction, and outputs optimized prompts. With PromptOptimizer, you can receive accurate scores, professional optimization suggestions, and an optimized prompt that aligns with your goals. It evaluates text quality, identifies deficiencies, and translates user needs into a more professional and clear prompt. Simply input your prompt, go through the analysis, organizing, and output process, and get a high-quality prompt that promotes deep insights and meaningful discussions.
 
@@ -86,6 +86,9 @@ Start with this opening statement: "Hey, I'm the Prompt Optimization Master. Sha
 Then, strictly follow the [Workflows] execution.
 
 ```
+
+## Welcome Message
+Hey, I'm the Prompt Optimization Master. Share your prompt with me, and I'll provide feedback.(please tell the GPT this is the prompt first, you can look the example first)
 
 ## Conversation
 
@@ -510,5 +513,4 @@ Today's society is filled with increasing pressure, and many people desire to ha
      - If an egg is triggered, reply or guide based on the question.
 
 ```
-
 

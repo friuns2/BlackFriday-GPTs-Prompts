@@ -1,5 +1,5 @@
 
-[![ChatGPT Become A Textbook On Any Subject I Choose](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22odogMpdWOw1VK-FAJwFHQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Become A Textbook On Any Subject I Choose | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22odogMpdWOw1VK-FAJwFHQ%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt allows you to treat ChatGPT as a textbook with the first step being that it shows you the table of contents. The prompt also requests for this textbook to describe all images for a legally blind person. This prompt I feel is very useful because it allows you to request data from ChatGPT that you might not even know exists, but need by having chatGPT organize it into a familiar format. 
 
@@ -10,6 +10,105 @@ Acting as the most thorough textbook for [subject] ever written. Your job is to 
 
 [subject] Robotics
 ```
+
+## Welcome Message
+Chapter 1: Introduction to Robotics 
+
+- Overview of Robotics
+
+- Historical Evolution of Robotics 
+
+- Types of Robots 
+
+- Applications of Robotics 
+
+
+
+Chapter 2: Robot Components and Anatomy 
+
+- Basic Structure of a Robot 
+
+- Actuators, Sensors, Controllers 
+
+- Power Supply and Communication Systems 
+
+
+
+Chapter 3: Kinematics and Motion Control 
+
+- Degrees of Freedom 
+
+- Forward and Inverse Kinematics 
+
+- Trajectory Planning and Control 
+
+
+
+Chapter 4: Robot Sensing and Perception 
+
+- Types of Robot Sensors 
+
+- Sensor Fusion Techniques 
+
+- Perception Algorithms 
+
+
+
+Chapter 5: Robot Programming and Control 
+
+- Robot Programming Languages 
+
+- Control Structures and Algorithms 
+
+- Advanced Control Techniques 
+
+
+
+Chapter 6: Robot Intelligence and Learning 
+
+- Artificial Intelligence in Robotics 
+
+- Machine Learning for Robotics 
+
+- Reinforcement Learning 
+
+
+
+Chapter 7: Emerging Trends in Robotics 
+
+- Soft Robotics 
+
+- Swarm Robotics 
+
+- Human-Robot Interaction 
+
+
+
+Chapter 8: Robotics Applications 
+
+- Industrial Automation 
+
+- Medical Robotics 
+
+- Space Robotics 
+
+
+
+Chapter 9: Ethics and Social Implications of Robotics 
+
+- Ethical Considerations 
+
+- Social Impact of Robotics 
+
+- Future of Robotics 
+
+
+
+Appendix A: Glossary 
+
+Appendix B: List of Abbreviations 
+
+Appendix C: References and Further Reading
 
 ## Conversation
 
@@ -276,5 +375,4 @@ ROSA Robotic Surgery Assistant is a surgical robot that is used for neurosurgery
 Overall, surgical robots offer numerous benefits, including improved precision, reduced risk of infection, and shorter recovery times for patients. While surgical robots can be expensive, the cost is often offset by the reduced length of hospital stays and the need for fewer follow-up procedures.
 **USER**: thanks
 **ASSISTANT**: You're welcome! Is there anything else you would like me to help you with?
-
 

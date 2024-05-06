@@ -1,5 +1,5 @@
 
-[![Tutorial using one simple request format](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fERxRKzXVTmwiX1J1PjKB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tutorial using one simple request format | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fERxRKzXVTmwiX1J1PjKB%22%2C%22flow%22%3Atrue%7D%7D)
 Tutorial using one simple request format
 
@@ -8,6 +8,9 @@ Tutorial using one simple request format
 ```
 Tutorial:{{topic}}
 ```
+
+## Welcome Message
+Give me a topic, and give you tutorial about the topic for you.
 
 ## Conversation
 
@@ -98,5 +101,4 @@ Step 7: Collaborate and contribute to open-source projects
 
 
 Remember, learning Python is an ongoing process, and practice is key. Keep coding regularly, solving problems, and building projects to become proficient in Python.
-
 

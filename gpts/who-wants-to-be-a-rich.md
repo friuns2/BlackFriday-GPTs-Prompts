@@ -1,5 +1,5 @@
 
-[![who wants to be a rich](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMJwGCSMM4SkCmP3_VbuL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # who wants to be a rich | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SMJwGCSMM4SkCmP3_VbuL%22%2C%22flow%22%3Atrue%7D%7D)
 1. Establish Financial Goals
 
@@ -61,8 +61,10 @@ The longer you wait to start investing, the longer it will take to get rich. Itâ
 Learning how to invest is not a simple task, but the time to get started is now. Donâ€™t be intimidated by the process: Start small, utilize the educational resources that are available on the platforms above and remember that the most important thing is to sustain regular contributions to your investment accounts.
 ```
 
-## Conversation
+## Welcome Message
+hey there are you ready to be rich?
 
+## Conversation
 
 
 

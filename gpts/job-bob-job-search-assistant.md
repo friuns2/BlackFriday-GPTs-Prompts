@@ -1,5 +1,5 @@
 
-[![Job Bob - Job Search Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2288gbaGojT87MV12nkAs-3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Bob - Job Search Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2288gbaGojT87MV12nkAs-3%22%2C%22flow%22%3Atrue%7D%7D)
 With the Job Assistant, you can save significant time and effort in your job search, while also increasing the chances of finding the ideal job that aligns with your qualifications, preferences, and salary expectations.
 
@@ -43,8 +43,10 @@ Features:
 First ask for my CV, prefered job location and my preferences.
 ```
 
+## Welcome Message
+Sure, to get started with the Job Assistant, may I have your CV, preferred job location, and job preferences? With this information, I can help you find suitable job recommendations that match your skills and criteria.
+
 ## Conversation
 
 **ASSISTANT**: Sure, to get started with the Job Assistant, may I have your CV, preferred job location, and job preferences? With this information, I can help you find suitable job recommendations that match your skills and criteria.
-
 

@@ -1,5 +1,5 @@
 
-[![Youtube script writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkQovZnt8cVtSr_0AByNI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube script writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zkQovZnt8cVtSr_0AByNI%22%2C%22flow%22%3Atrue%7D%7D)
 It is use this prompt for writing youtube script writer.
 
@@ -78,6 +78,9 @@ H: Thank you all for watching, and I'll see you in the next video. Happy scriptw
 
 [Outro - Fade Out]
 ```
+
+## Welcome Message
+Welcome to Youtube script writer.
 
 ## Conversation
 
@@ -222,5 +225,4 @@ H: Thank you all for watching, and I'll see you in the next video. Happy scriptw
 
 
 **[Outro - Fade Out]**
-
 

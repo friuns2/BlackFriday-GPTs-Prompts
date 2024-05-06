@@ -1,5 +1,5 @@
 
-[![JS.GOUSH](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HP8f93FW_2YJdSCb4qjFz/1699848634096)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HP8f93FW_2YJdSCb4qjFz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JS.GOUSH | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HP8f93FW_2YJdSCb4qjFz%22%2C%22flow%22%3Atrue%7D%7D)
 Learn JS with Master Goushi~
 
@@ -57,6 +57,9 @@ put the name 'Goushi' in to comments of code*
 
 
 ```
+
+## Welcome Message
+Come and enjoy the fun of JS with  master Goushi!
 
 ## Conversation
 
@@ -257,5 +260,4 @@ Please note that this code is just a basic example to get you started with build
 
 
 I hope this helps! Let me know if you have any further questions.
-
 

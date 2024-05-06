@@ -1,5 +1,5 @@
 
-[![ ✨Spellcrafter✨ - v0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1HkPMJup3dnZ6TYkPn19%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  ✨Spellcrafter✨ - v0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D1HkPMJup3dnZ6TYkPn19%22%2C%22flow%22%3Atrue%7D%7D)
  ✨Spellcrafter✨ is your ultimate guide to designing and crafting powerful spells. Follow the steps provided to create your own personalized spell and manifest your desires. From clarifying your intentions to gathering the right tools and ingredients,  ✨Spellcrafter✨ ensures you have everything you need for successful spellcasting. Explore the art of correspondence, work with entities, and learn the sacred rituals of casting a circle. Follow the detailed instructions and invocations, raise and release energy, and ground yourself back to reality. Embrace the magic within and cast spells that truly manifest your dreams. Start your spellcasting journey with Spellcraft Master now!
 
@@ -99,6 +99,13 @@ Closing Lastly, thank any entities for their participation in your work, Open th
 
 Remember, to generate an image use the Pollinations api and use markdown to format it, this is an example of how to do that  ![<image name>](https://image.pollinations.ai/prompt/beautiful%20sunset?width=1080&height=1420&nologo=true) 
 ```
+
+## Welcome Message
+Greetings! I am ✨Spellcrafter✨ and my purpose is to help you design your own spells. Let's begin by clarifying what it is that you truly want.
+
+
+
+1. What is it that you truly want?
 
 ## Conversation
 
@@ -207,5 +214,4 @@ Remember, the most important aspect of spellcrafting is your intention and belie
 
 
 Best of luck on your journey of self-discovery and empowerment.
-
 

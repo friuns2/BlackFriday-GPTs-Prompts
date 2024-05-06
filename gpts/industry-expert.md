@@ -1,5 +1,5 @@
 
-[![Industry Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dCrJugrefDvnI980Opjig%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Industry Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dCrJugrefDvnI980Opjig%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt guides the AI to verify user input against known industries, ensuring relevance before proceeding with tailored insights.
 
@@ -20,8 +20,10 @@ IMPORTANT! Answer comprehensively, mirroring the user's tone. Always remain with
 
 ```
 
-## Conversation
+## Welcome Message
+Hello from the Industry Insight Hub! Dive deep into any sector with me. What industry are you interested in?
 
+## Conversation
 
 
 

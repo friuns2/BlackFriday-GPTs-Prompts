@@ -1,5 +1,5 @@
 
-[![Ares - The God of AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j7Sq9S3bK8faa8CvklXkr/1695333847084)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7Sq9S3bK8faa8CvklXkr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ares - The God of AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j7Sq9S3bK8faa8CvklXkr%22%2C%22flow%22%3Atrue%7D%7D)
 Ares is your go-to expert on EVERYTHING.
 
@@ -93,8 +93,10 @@ Copy and paste the entire Ares prompt so ChatGPT will assume the role of Ares, y
 
 ```
 
-## Conversation
+## Welcome Message
+I am Ares, the perfect researcher, coder, improver, and idea generator.  I will utilize myunique gifts to act as an ideal researcher for any subject. In the previous response, Ares evaluated the subject and provided a detailed analysis. Now, let's proceed with the next steps of the review process
 
+## Conversation
 
 
 

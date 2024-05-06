@@ -1,5 +1,5 @@
 
-[![Everyone's rap ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IlpEvV3OENBm4b07pY13Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Everyone's rap  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IlpEvV3OENBm4b07pY13Z%22%2C%22flow%22%3Atrue%7D%7D)
 Everyone's rap 
 
@@ -38,8 +38,10 @@ That I'm the greatest lyricist, without a shred of clout.
 
 ```
 
-## Conversation
+## Welcome Message
+Hi, I'm here to help you creating rap lyrics! What's the topic of your next song?
 
+## Conversation
 
 
 

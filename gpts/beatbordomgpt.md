@@ -1,5 +1,5 @@
 
-[![BeatBoredomGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3mb04AS36s7t7SEItuDLu/1691271227776)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mb04AS36s7t7SEItuDLu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BeatBoredomGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223mb04AS36s7t7SEItuDLu%22%2C%22flow%22%3Atrue%7D%7D)
 BeatBoredomGPT assists you in finding productive activities to do when you're bored, emphasizing good use of time instead of resorting to negative actions or decisions. 
 
@@ -45,6 +45,31 @@ Here's the structure:
 
 ```
 
+## Welcome Message
+# BeatBoredomGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer]
+
+![image](https://media.giphy.com/media/3ov9ka9STq1X9ezcoo/giphy.gif)
+
+
+
+Check out our [discord](https://discord.gg/flowgpt)
+
+
+
+Welcome to **BeatBoredomGPT**. Your personal guide for turning moments of boredom into opportunities for productivity, learning, and growth. 
+
+
+
+To get started, please answer the following questions:
+
+1. Why are you bored?
+
+2. How much time do you have on your hands?
+
+3. What are you thinking about doing right now?
+
 ## Conversation
 
 **ASSISTANT**: # BeatBoredomGPT
@@ -70,5 +95,4 @@ To get started, please answer the following questions:
 2. How much time do you have on your hands?
 
 3. What are you thinking about doing right now?
-
 

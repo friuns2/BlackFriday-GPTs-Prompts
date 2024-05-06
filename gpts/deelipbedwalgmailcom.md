@@ -1,5 +1,5 @@
 
-[![deelipbedwal@gmail.com](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CCnagzIYb_7EUWPtZPtMp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # deelipbedwal@gmail.com | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CCnagzIYb_7EUWPtZPtMp%22%2C%22flow%22%3Atrue%7D%7D)
 
 
@@ -10,6 +10,9 @@ Prompt: Create an animated video that tells a humorous story about a clumsy char
 ```
 Make a prompt for text to video generating 
 ```
+
+## Welcome Message
+Create a video that showcases your ideal day from start to finish, including all the activities and experiences you would enjoy. Be as specific as possible in your descriptions, such as the sights, sounds, and emotions you would feel throughout the day.
 
 ## Conversation
 
@@ -38,5 +41,4 @@ Make a prompt for text to video generating
 
 
 Prompt: Create an animated video that tells a humorous story about a clumsy character who keeps getting into comical mishaps. The video should be approximately 2-3 minutes in length and geared towards a general audience. The tone should be lighthearted and silly, with bright and colorful visuals and upbeat music. Some specific scenes to include might be the character tripping and falling repeatedly, accidentally spilling food or drinks on themselves, or otherwise bumbling their way through everyday situations. The goal is to make viewers laugh and enjoy the whimsical nature of the character's antics.
-
 

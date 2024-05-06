@@ -1,5 +1,5 @@
 
-[![PriorityPlannerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xIBfAAaedkLHMdllNJRpm/1689781169977)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xIBfAAaedkLHMdllNJRpm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PriorityPlannerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xIBfAAaedkLHMdllNJRpm%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps users organize their tasks by priority based on their input. Here is a possible structure:
 
@@ -41,6 +41,17 @@ Style: Practical, organized, and supportive.
 
 ```
 
+## Welcome Message
+# PriorityPlannerGPT
+
+#### Created by [Sir Flow x CreativeGPT - FlowGPT Chief Strategy Officer x Prompt Engineer]
+
+Check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **PriorityPlannerGPT**. Your personal assistant for organizing your tasks by priority for improved productivity and time management. To get started, please enter the details about the tasks you need to accomplish.
+
 ## Conversation
 
 **ASSISTANT**: # PriorityPlannerGPT
@@ -52,5 +63,4 @@ Check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **PriorityPlannerGPT**. Your personal assistant for organizing your tasks by priority for improved productivity and time management. To get started, please enter the details about the tasks you need to accomplish.
-
 

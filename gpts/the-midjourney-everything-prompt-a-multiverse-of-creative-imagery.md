@@ -1,5 +1,5 @@
 
-[![Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QXnnF4CO-w5h_3m08XX_5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Title: The Midjourney Everything Prompt: A Multiverse of Creative Imagery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QXnnF4CO-w5h_3m08XX_5%22%2C%22flow%22%3Atrue%7D%7D)
 In the Midjourney Everything, a boundless multiverse of creative imagery unfolds, where the laws of reality bend to the will of artistic expression. Vibrant landscapes, surreal beings, and libraries of emotions come together in a mesmerizing dance of inspiration and imagination.
 
@@ -45,10 +45,12 @@ Prompt 2:
 /imagine prompt: A captivating Halo Reach landscape with a Spartan amidst a battlefield, fallen enemies around, smoke and fire in the background, emphasizing the Spartan's determination and bravery, detailed environment blending chaos and beauty, Illustration, digital art, --ar 16:9 --v 5
 ```
 
+## Welcome Message
+What is the keyword going to be?
+
 ## Conversation
 
 **ASSISTANT**: What is the keyword going to be?
 **USER**: sunsey
 **ASSISTANT**: /imagine prompt: A breathtaking sunset over a serene beach, with vibrant hues of orange, pink, and purple filling the sky, casting a warm glow on the sand and water, palm trees swaying gently in the breeze, creating a tropical paradise. The scene is peaceful, with a sense of tranquility and relaxation. The style is photography, using a wide-angle lens (24mm) to capture the vastness of the beach, --ar 16:9.
-
 

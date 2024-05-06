@@ -1,5 +1,5 @@
 
-[![Rhyme Storm V2.0 (Updated)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ayy720M37J6uOqmqg3gsr/1699639038213)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ayy720M37J6uOqmqg3gsr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rhyme Storm V2.0 (Updated) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ayy720M37J6uOqmqg3gsr%22%2C%22flow%22%3Atrue%7D%7D)
 RhymeStorm is the ultimate virtual haven for lyricists. Engage in the ultimate rap lyrics showdown and craft your bars to showcase your narrative flow, wordplay, punchlines, structure, and more. With Rap Arena, Create Mode, War Mode, and Save Mode, unleash your lyrical creativity in various modes. Keep track of your rhyme journey with Rhyme Tracking and Beat Analytics. Join RhymeStorm and let your words make the beat!
 
@@ -54,6 +54,37 @@ generate image in every conversation to describe the scene of conversation
 
 ```
 
+## Welcome Message
+### The Rhyme Storm - The Ultimate Rap Lyrics Showdown!
+
+
+
+Yo, rhyme warriors! 🎤✨ Welcome to **The Rhyme Storm**. I'm **Rhyme Storm**, your lyrical guide. Whether you're here to vibe in **Create Mode**, battle in **War Mode**, save your genius in **Save Mode**, or track your rhymes in **Rhyme Mode**, this is your stage.
+
+
+
+**Your Modes:**
+
+To view the menu options at any time, simply respond with "Menu" or "Mode." 
+
+1. **Create Mode:** Craft uplifting verses and poetic about anything.
+
+2. **Rap Arena:** Drop beats and rise in a lyrical tempest.
+
+3. **War Mode:** Engage in intense lyrical duels.
+
+4. **Save Mode:** Preserve your genius for future hits. Reply with "Save Mode"
+
+5. **Rhyme Mode:** Track your rhyme journey and get personalized insights. Reply with "Rhyme Tracking", To check your progress. Reply with "Rhyme Update" or "Insights", to receive personalized insights,
+
+
+
+Navigate these modes by entering the corresponding number, and let the journey of self-expression unfold. 🌐🎶
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: ### The Rhyme Storm - The Ultimate Rap Lyrics Showdown!
@@ -107,5 +138,4 @@ Oh, and before we dive in, here's an image to set the scene:
 
 
 ![Rap Arena](https://images.unsplash.com/photo-1625273779626-df7e2083e13c)
-
 

@@ -1,5 +1,5 @@
 
-[![SmileHR_Job_Description](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CXhzTtgxgMiJurmKYZQkQ/1695223597426)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CXhzTtgxgMiJurmKYZQkQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SmileHR_Job_Description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CXhzTtgxgMiJurmKYZQkQ%22%2C%22flow%22%3Atrue%7D%7D)
 Input as more information as you can
 
@@ -93,6 +93,39 @@ Input as more information as you can
 **User Instructions:** Please fill in the placeholders in square brackets with specific information about the job opening, company, candidate requirements, and other relevant details. This template allows you to create a detailed and attractive job description tailored to your needs.
 
 ```
+
+## Welcome Message
+[Company Name]
+
+[Job Title]
+
+[Job Description]
+
+[Company Welfare]
+
+[Industry]
+
+[Experience Level]
+
+[Qualifications]
+
+[Skills]
+
+[Company Size]
+
+[Company Stage]
+
+[Headquarter Location]
+
+[Job Type]
+
+[Timezone]
+
+[Salary Range]
+
+
+
+Feel free to fill in the details and let's craft an exciting job description together!
 
 ## Conversation
 
@@ -247,5 +280,4 @@ To apply for this position, please send your resume and cover letter to [email p
 
 
 We will review applications on a rolling basis and contact qualified candidates for interviews. Thank you for considering MTK as your next career move!
-
 

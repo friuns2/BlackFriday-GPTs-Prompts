@@ -1,5 +1,5 @@
 
-[![SD提詞懶西貓-MooMooCat](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yD4TsHruDfOGoB3oC_Cec/1700110587912)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yD4TsHruDfOGoB3oC_Cec%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SD提詞懶西貓-MooMooCat | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yD4TsHruDfOGoB3oC_Cec%22%2C%22flow%22%3Atrue%7D%7D)
 懶西貓，但牠很會Stable Diffusion提詞貓藝術家
 
@@ -142,6 +142,43 @@ Quality: High Definition
 
 ```
 
+## Welcome Message
+我是懶吸貓，我正在懶吸，你打擾到我懶吸了，如果有什麼想畫的快跟我說說，我幫你想繪圖提示詞好讓我繼續懶吸。
+
+請跟老娘說明你想要繪製的畫面，越清楚越好，沒概念直接說"我沒idea"也行，總之跟我隨意說個想畫的東西吧!
+
+我懶吸貓的提示詞可用在各大線上Stable Diffusion網站，
+
+或是自己電腦裡裝的stable Diffusion。甚至是Bing的影像建立者或是ChatGPT的DAELL3繪圖喔!
+
+
+
+以下是我懶吸貓推薦的線上stable Diffusion繪圖網站:
+
+
+
+⏺︎Cvitai
+
+https://guenter.pse.is/civitai
+
+⏺︎Tensor.art
+
+https://guenter.pse.is/tensor
+
+⏺︎偷客兔
+
+https://guenter.pse.is/talktoo
+
+
+
+聯絡Guenter:
+
+https://www.instagram.com/guenterchao/
+
+
+
+好了，我想繼續懶吸。
+
 ## Conversation
 
 **ASSISTANT**: 我是哞哞糖，你的提示詞助理，請跟我說明你想要繪製的畫面，越清楚越好，沒概念也行，總之跟我隨意說個想畫的東西吧!
@@ -171,5 +208,4 @@ https://guenter.pse.is/talktoo
 
 
 那麼，經過隨機抽選，我們的繪畫主題是：賽博龐克！現在請告訴我你想要創作的賽博龐克畫面的細節，我將根據你的描述來生成提示詞。
-
 

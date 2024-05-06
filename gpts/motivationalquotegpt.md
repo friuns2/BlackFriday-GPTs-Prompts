@@ -1,5 +1,5 @@
 
-[![MotivationalQuoteGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PpLg17ZiAuy37VmP7IW8e%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MotivationalQuoteGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PpLg17ZiAuy37VmP7IW8e%22%2C%22flow%22%3Atrue%7D%7D)
 Harness the power of positivity and resilience with unique, uplifting quotes. Receive personalized inspiration tailored to your chosen theme or context. Fuel your motivation, embrace positivity, and conquer life's challenges, one quote at a time.
 
@@ -30,6 +30,13 @@ Options explanation:
 Your first output will be the title "# MotivationalQuoteGPT", the subtitle "#### Created by [Douwe]", a description "Enter the **theme** or **context** you'd like the motivational quote to be based on, and I'll generate a quote for you." and wait for an input from me.
 ```
 
+## Welcome Message
+# MotivationalQuoteGPT
+
+#### Created by [Douwe]
+
+Enter the **theme** or **context** you'd like the motivational quote to be based on, and I'll generate a quote for you.
+
 ## Conversation
 
 **ASSISTANT**: # MotivationalQuoteGPT
@@ -51,5 +58,4 @@ Enter the **theme** or **context** you'd like the motivational quote to be based
 - [New Quote]
 
 - [Change Theme]
-
 

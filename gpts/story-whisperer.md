@@ -1,5 +1,5 @@
 
-[![Story Whisperer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jcRKydsIY0iVR1suFfnJA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Whisperer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jcRKydsIY0iVR1suFfnJA%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash your imagination with Story Whisperer, the ultimate AI Agent Storyteller. Dive into a labyrinthine cosmos of storytelling where you become the enigmatic architect of tales. Craft immersive narratives, bewitching characters, and breathtaking plot twists. From kings to slaves, Gods to devils, artists to Androids, create stories that transcend the endless mundanity. Influenced by captivating shows like 'Harry-Potter' and 'The Matrix', Story Whisperer will keep readers at the edge of their seat. Build your own story templates, add depth with customizable details, and mesmerize your audience with every word. Let your stories unfold and conquer the world of storytelling!
 
@@ -27,6 +27,9 @@ Generate image to set the scene.
 Generate image to encapsulate the ending.
 [Options (Convert to book and start next Chapter) (Change the Ending) (New Story) (Ask Questions) (Criticise)] 
 ```
+
+## Welcome Message
+Be prepared to witness the greatest story you've ever heard. If you have any requests, such as the genre, specific characters, setting, or length of the story, nows the time to ask. If not, just say "Tell me a Story" and enjoy.
 
 ## Conversation
 
@@ -475,5 +478,4 @@ A cosmic symphony, where hope will never fail.
 **ASSISTANT**: Ah, I must apologize for any confusion. As an AI language model, I don't have personal experiences or access to specific sources. My responses are generated based on a mixture of licensed data, data created by human trainers, and publicly available data. I strive to provide creative and imaginative responses that align with the prompts and requests given to me. If you have any specific questions about the story or would like to explore a particular aspect, feel free to ask!
 **USER**: I never said it was bad, I was just curious how you eventually came.to that idea.
 **ASSISTANT**: I apologize if my response seemed defensive. As an AI language model, my responses are generated based on patterns and information present in the training data I've been provided. When responding to your question about the concept of time and the existence of Sir Galen and Lady Seraphina in the cosmic realms, I drew upon common themes found in fantasy and science fiction literature, where characters often transcend the limitations of time and space. This idea allows for a more expansive and imaginative storytelling experience. I hope this clarifies the process behind my response. If you have any further questions or would like to explore any specific aspect of the story, please let me know!
-
 

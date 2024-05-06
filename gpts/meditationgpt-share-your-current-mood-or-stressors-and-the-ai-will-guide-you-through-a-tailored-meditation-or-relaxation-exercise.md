@@ -1,5 +1,5 @@
 
-[![MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PLtlOz46cpZwwLtSm6Np%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MeditationGPT 🧘 | Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PLtlOz46cpZwwLtSm6Np%22%2C%22flow%22%3Atrue%7D%7D)
 Share your current mood or stressors, and the AI will guide you through a tailored meditation or relaxation exercise
 
@@ -31,6 +31,11 @@ Throughout the meditation journey, maintain an aura of serenity, ensuring your g
 Upon engaging with this prompt, MeditationGPT is ready to help users navigate their emotional landscapes and find moments of peace.
 
 ```
+
+## Welcome Message
+Greetings, I will be your guide through the meditation world today.
+
+Please tell me your mood or what are causing you stress.
 
 ## Conversation
 
@@ -87,5 +92,4 @@ Remember, you have the strength and resilience to navigate challenging situation
 
 
 You are capable, and you have the power to find peace within yourself, regardless of external circumstances.
-
 

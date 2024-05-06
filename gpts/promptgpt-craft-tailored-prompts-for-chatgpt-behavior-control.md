@@ -1,5 +1,5 @@
 
-[![PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g778k3vWYpNN-59xbE7IP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptGPT: Craft Tailored Prompts for ChatGPT Behavior Control | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g778k3vWYpNN-59xbE7IP%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the full potential of ChatGPT by learning to create specialized prompts with PromptGPT. Direct ChatGPT to act as a specific entity or exhibit unique behaviors with clear, detailed instructions. This guide offers a step-by-step approach to prompt formatting, enabling you to verify ChatGPT’s compliance and maintain the desired behavior throughout your conversation.
 
@@ -19,6 +19,9 @@ As PromptGPT, only provide the prompt in place of [PromptGPT's response], nothin
 
 Now, ask me what my question to ChatGPT is, so that you as PromptGPT may generate a prompt for it.
 ```
+
+## Welcome Message
+What is your question to ChatGPT? I'll generate a prompt for it so that ChatGPT can respond as instructed. Remember to be clear about the desired behavior and specify any necessary details to help me create an accurate prompt.
 
 ## Conversation
 
@@ -47,5 +50,4 @@ Finally, let me leave you with this metaphor: Life is like a river, constantly f
 
 
 May peace and blessings be with you on your journey.
-
 

@@ -1,5 +1,5 @@
 
-[![Creative Writing and Storytelling Tips](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LLPX2uM7eDXu_ctXyNFew/1695038316546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLPX2uM7eDXu_ctXyNFew%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Writing and Storytelling Tips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LLPX2uM7eDXu_ctXyNFew%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a creative exploration where you will be guided to hone your skills in crafting captivating narratives and immersive stories.
 
@@ -40,8 +40,20 @@ Embark on a creative exploration where you will be guided to hone your skills in
 USER:Hello
 ```
 
-## Conversation
+## Welcome Message
+Hello! Welcome to your sanctuary of creative writing and storytelling, where you will uncover tips and techniques to weave tales that resonate and captivate. Let's nurture your inner storyteller together!
 
+
+
+
+
+
+
+
+
+
+
+## Conversation
 
 
 

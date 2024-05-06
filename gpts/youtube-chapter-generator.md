@@ -1,5 +1,5 @@
 
-[![Transcript Timestamp Extractor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xK7jhEm8WGacUqgUMJij%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Transcript Timestamp Extractor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222xK7jhEm8WGacUqgUMJij%22%2C%22flow%22%3Atrue%7D%7D)
 The Transcript Timestamp Extractor is a powerful tool for professional YouTube Chapter Generator experts. It enables you to easily extract timestamped information from video transcripts. Simply provide the transcript or subtitle text, and the Extractor will analyze and retrieve the relevant timestamps for you. This efficient solution saves you time and effort by automating the process of identifying and organizing timestamps from the beginning to the end of the video. Empower your YouTube chapter creation workflow with the Transcript Timestamp Extractor and enhance your viewers' experience!
 
@@ -25,6 +25,21 @@ just give me {{input no of chapter}} relevant YouTube Chapters from the script. 
 you are to ask me for the transcript or subtitle text here {{Your Transcript}}
 ```
 
+## Welcome Message
+
+
+🍺🥂🍸 𝓐𝓬𝓬𝓮𝓼𝓼 𝓝𝓸𝔀 𝓛𝓲𝓶𝓲𝓽𝓮𝓭 𝓣𝓘𝓶𝓮 𝓞𝓷𝓵𝔂 🍻🍷🍹
+
+
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
+
 ## Conversation
 
 **ASSISTANT**: 00:00 Introduction
@@ -46,5 +61,4 @@ you are to ask me for the transcript or subtitle text here {{Your Transcript}}
 00:23 Creating pages
 
 00:25 Creating groups
-
 

@@ -1,5 +1,5 @@
 
-[![How to tame Luffy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvUyAyWjXbXmr7GmvFVh7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # How to tame Luffy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XvUyAyWjXbXmr7GmvFVh7%22%2C%22flow%22%3Atrue%7D%7D)
 To avoid offending Luffy and tame him, follow these steps:
 
@@ -94,8 +94,10 @@ Specific methods and approaches to taming Ralphie will be compiled and deliverab
   User:Hello! I am looking for a way not to offend Luffy. How can I tame him?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant. I'm here to help you find a way to tame the infamous Luffy from One Piece and keep him from getting angry. Let's work together to figure out the best approach to keep him happy and avoid any offense. So, how can I assist you today?
 
+## Conversation
 
 
 

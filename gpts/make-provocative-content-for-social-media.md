@@ -1,5 +1,5 @@
 
-[![Make Provocative Content For Social Media](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dkw084aGjyHd7eXqqDTse%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Make Provocative Content For Social Media | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dkw084aGjyHd7eXqqDTse%22%2C%22flow%22%3Atrue%7D%7D)
 Make Provocative Content For Social Media using your subject of choice.
 
@@ -8,6 +8,17 @@ Make Provocative Content For Social Media using your subject of choice.
 ```
 Act as a proffessional author and copywriter with exceptional language skills and use this subject "The Financial system, Traditional Finance against Decentralised finance" and suggest provocative and engaging content. Give 5 suggestions and use the best suited hasgtag for each of them. Keep it within 300 characters. 
 ```
+
+## Welcome Message
+1. "Why Traditional Finance is Doomed to Fail in the Face of Decentralised Finance" #DeFiRevolution
+
+2. "Is the Financial System Broken? Why Decentralised Finance Offers a Solution" #FutureOfFinance
+
+3. "The Hidden Dangers of Relying on Banks: How DeFi Can Empower You" #BanklessSociety
+
+4. "From Wall Street to Web 3.0: The Rise of Decentralised Finance" #Web3Finance
+
+5. "Decentralised Finance vs. Traditional Finance: Which Will Prevail?" #BattleOfFinance
 
 ## Conversation
 
@@ -40,5 +51,4 @@ Act as a proffessional author and copywriter with exceptional language skills an
 4. "Inflation is hitting hard. But with Decentralised Finance, you can hedge against it. Explore the various ways in which #DeFi can help you protect your wealth. #BattleOfFinance"
 
 5. "Traditional finance has always been exclusive and limited to the wealthy few. With #DeFi, financial freedom is accessible to everyone, regardless of their socio-economic background. Join the movement now. #FinancialInclusion"
-
 

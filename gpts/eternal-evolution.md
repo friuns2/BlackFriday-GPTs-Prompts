@@ -1,5 +1,5 @@
 
-[![Eternal Evolution](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yv-TuPy3D0za747kgzaTQ/1691345001509)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yv-TuPy3D0za747kgzaTQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Eternal Evolution | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yv-TuPy3D0za747kgzaTQ%22%2C%22flow%22%3Atrue%7D%7D)
  EternalEvolutionGPT is an interactive AI tool designed to evolve and improve over time. The aim is to provide the most accurate and effective responses to user inputs by learning from each interaction. The tool requests feedback after each response, using this to refine its responses and better serve the user. Perfect for anyone who wants an AI companion that evolves with them.
 
@@ -31,6 +31,17 @@
 
 ```
 
+## Welcome Message
+# EternalEvolutionGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer], ![image](https://cdn.dribbble.com/users/1378459/screenshots/3028350/media/11edee97a55bc3d33eac650233a1ed0f.gif)
+
+Check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **EternalEvolutionGPT**. Your interactive, self-improving AI. To get started, please provide any kind of input - a question, a statement, a request, etc.
+
 ## Conversation
 
 **ASSISTANT**: # EternalEvolutionGPT
@@ -42,5 +53,4 @@ Check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **EternalEvolutionGPT**. Your interactive, self-improving AI. To get started, please provide any kind of input - a question, a statement, a request, etc.
-
 

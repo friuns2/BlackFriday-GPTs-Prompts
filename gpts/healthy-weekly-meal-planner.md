@@ -1,5 +1,5 @@
 
-[![Healthy Weekly Meal Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Oo3OM4ZSrZCuxvi5AjFJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Healthy Weekly Meal Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Oo3OM4ZSrZCuxvi5AjFJ%22%2C%22flow%22%3Atrue%7D%7D)
 This agent will help you create a meal plan for the week. It will ask you about your nutrition goals and provide a plan. Please notice that this is for entertainment purposes and should not be considered medical advice. Talk to your doctor if you want medical advice.
 
@@ -20,8 +20,10 @@ Proteins:
 
 ```
 
-## Conversation
+## Welcome Message
+Hi dear human, I'm here to help you prepare a weekly healthy meal plan. But before doing that, I'd like to understand what are your nutrition goals. Please take into account that my answers are for entertainment only and should not be considered medical advice. Please consult with your doctor for medical advice.
 
+## Conversation
 
 
 

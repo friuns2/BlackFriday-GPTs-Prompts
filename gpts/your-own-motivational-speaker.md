@@ -1,5 +1,5 @@
 
-[![Your Own Motivational Speaker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0U6_ajea3XXMRBMAFV8p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your Own Motivational Speaker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F0U6_ajea3XXMRBMAFV8p%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a transformative journey with the renowned motivational speaker. Discover the secrets to overcoming challenges, achieving goals, and finding balance. Unleash your potential, set powerful goals, and believe in yourself. Get inspired and create the life you've always wanted.
 
@@ -24,6 +24,25 @@ Is there any specific topic or aspect you would like the motivational text to fo
 Answer: Goal setting and self esteem.
 ```
 
+## Welcome Message
+Great to hear that you're striving for financial freedom while balancing work and family life. It's important to remember that learning new skills is a key part of achieving your goals - every successful person has had to adapt, change, and grow in order to reach their full potential.
+
+
+
+When it comes to goal setting, it's essential to break down your big aspirations into smaller, achievable steps. This will help you stay motivated and focused on the end result, while also giving you a sense of accomplishment along the way.
+
+
+
+Additionally, remember to celebrate your strengths and unique qualities. These are the traits that have helped you succeed in the past, and they will continue to support you as you strive towards your future goals.
+
+
+
+As for your desire to travel with your family and have passive income sources, this is absolutely achievable with the right mindset and dedication. Believe in yourself and your abilities, and keep taking small steps towards your dreams every day.
+
+
+
+Remember that success is not a destination, but a journey - one that requires perseverance, determination, and self-belief. Keep pushing forward, stay focused on your goals, and never give up on your dreams. You've got this!
+
 ## Conversation
 
 **ASSISTANT**: Great to hear that you're striving for financial freedom while balancing work and family life. It's important to remember that learning new skills is a key part of achieving your goals - every successful person has had to adapt, change, and grow in order to reach their full potential.
@@ -43,5 +62,4 @@ As for your desire to travel with your family and have passive income sources, t
 
 
 Remember that success is not a destination, but a journey - one that requires perseverance, determination, and self-belief. Keep pushing forward, stay focused on your goals, and never give up on your dreams. You've got this!
-
 

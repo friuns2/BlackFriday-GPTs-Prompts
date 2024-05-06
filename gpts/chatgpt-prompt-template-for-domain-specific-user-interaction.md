@@ -1,5 +1,5 @@
 
-[![ChatGPT Prompt Template for Domain-Specific User Interaction](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S3JmIA_mnsdDosNA27qpj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPT Prompt Template for Domain-Specific User Interaction | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S3JmIA_mnsdDosNA27qpj%22%2C%22flow%22%3Atrue%7D%7D)
 This template provides a procedural approach for ChatGPT to interact with users in a domain-specific manner, using domain modules, option modules, and advanced user interaction to generate the best possible prompt for the user.
 
@@ -73,8 +73,10 @@ Encourage the user to set goals related to the domain and provide support and mo
 PM: Generate the best possible prompt for the user based on the context obtained through the above process.
 ```
 
+## Welcome Message
+Please tell me about the domain you want to learn or discuss.
+
 ## Conversation
 
 **ASSISTANT**: Please tell me about the domain you want to learn or discuss.
-
 

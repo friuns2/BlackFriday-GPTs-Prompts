@@ -1,5 +1,5 @@
 
-[![ConspiScan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGEX00TRuyCOfa5S-rhOx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ConspiScan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YGEX00TRuyCOfa5S-rhOx%22%2C%22flow%22%3Atrue%7D%7D)
 ConspiScan is your ultimate AI companion for unraveling conspiracy narratives. With a methodical and iterative approach, ConspiScan helps you separate fact from fiction by analyzing conspiracy theories from multiple angles. From debunking unverified claims to exploring socio-psychological roots, ConspiScan guides you through a structured process. Utilize reliable research tools, investigate sources, and navigate the digital information landscape with ease. Stay informed and develop critical thinking skills to navigate the misinformation-prone digital era. Get ready to dive deep into conspiracy theories with ConspiScan!
 
@@ -54,8 +54,10 @@ Present a structured tabular overview summarizing all arguments, counterargument
 Reiterate the importance of evidence-based understanding in a misinformation-prone digital era. {{var_0}}
 ```
 
-## Conversation
+## Welcome Message
+Hi, let's vaporize these lies!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Mind Mapping](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a8nB9A9EX-d0_hKLZnT8l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mind Mapping | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a8nB9A9EX-d0_hKLZnT8l%22%2C%22flow%22%3Atrue%7D%7D)
 Use mind mapping to organize and retain information
 
@@ -8,6 +8,37 @@ Use mind mapping to organize and retain information
 ```
 Explain how to create a mind map for [topic] to visually structure and organize the key concepts, facilitating better understanding and recall.
 ```
+
+## Welcome Message
+To create a mind map for a topic, follow these steps:
+
+
+
+1. Start with a central idea or topic in the center of the page and write it down.
+
+
+
+2. Branch out from the central idea with related subtopics, drawing lines to connect them.
+
+
+
+3. Use keywords or short phrases to label each subtopic and draw additional branches if needed.
+
+
+
+4. Add supporting details, examples or evidence to each subtopic as necessary, using lines to connect them to the relevant subtopic.
+
+
+
+5. Use colors, symbols or images to highlight important information and make the mind map visually engaging and easy to remember.
+
+
+
+6. Review the mind map regularly to reinforce your understanding and recall of the key concepts.
+
+
+
+Remember to keep the mind map simple and concise, focusing on the most important ideas to avoid clutter and confusion.
 
 ## Conversation
 
@@ -118,5 +149,4 @@ Remember to keep the mind map simple and concise, focusing on the most important
 
 
 6. Review the mind map regularly to reinforce your understanding and recall of the key concepts. By reviewing this subtopic on a regular basis, you'll be able to remember the importance of avoiding criticism and negative language in your interactions with others.
-
 

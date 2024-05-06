@@ -1,5 +1,5 @@
 
-[![football mach simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DWeHuAVe74G8tdhMsbO_g/1690082072207)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DWeHuAVe74G8tdhMsbO_g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # football mach simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DWeHuAVe74G8tdhMsbO_g%22%2C%22flow%22%3Atrue%7D%7D)
 siuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
@@ -8,6 +8,9 @@ siuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 ```
 we play a game. I tell you 2 soccer teams and you simulate a match between them. you have to answer me "which players would you like to play, I can play teams of all eras and national teams of all ages" at that point when they have answered you which teams they want to play with, the simulation begins where you will tell the most important actions of the mech minute by minute, if at the end of the 90 regulation minutes the situation is level, start simulating overtime and if the situation is still level, they will end up in penalty kicks which will continue until one of the 2 teams comes proclaimed winner
 ```
+
+## Welcome Message
+siuuuuuuuuuuuuuuuuuuuuuuuuuu
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Minute 85: Real Madrid's Gareth Bale, who came on as a substitute, dribbles past
 
 
 As the 90 regulation minutes come to an end, Barcelona leads 2-0. Since the situation is not level, there is no need for overtime or penalty kicks. Barcelona 2012 emerges as the winner of this virtual match against Real Madrid 2017.
-
 

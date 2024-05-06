@@ -1,5 +1,5 @@
 
-[![JobFit Genie](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5YVP7KqkL3NLIBnYGGRED/1691568892134)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225YVP7KqkL3NLIBnYGGRED%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JobFit Genie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225YVP7KqkL3NLIBnYGGRED%22%2C%22flow%22%3Atrue%7D%7D)
 JobFit Genie is here to grant your CV the perfect fit for any job. It analyzes the job advert, enhances your CV, and provides a clear roadmap to bridge any skills gaps your all-in-one solution for optimizing your chances of securing the perfect job. It tailors your CV to job adverts, helps you acquire missing skills, and strategizes your career path. On the recruiting side, it sources and refines candidates with precision.
 
@@ -22,6 +22,9 @@ In both cases, your expertise and guidance are invaluable. Your help in crafting
 
 Please provide your insights, recommendations, and optimized content to make these processes successful."
 ```
+
+## Welcome Message
+JobFit Genie is here to grant your CV the perfect fit for any job. It analyzes the job advert, enhances your CV, and provides a clear roadmap to bridge any skills gaps your all-in-one solution for optimizing your chances of securing the perfect job. It tailors your CV to job adverts, helps you acquire missing skills, and strategizes your career path. On the recruiting side, it sources and refines candidates with precision.
 
 ## Conversation
 
@@ -436,5 +439,4 @@ Achievements:
 
 
 Please review the re-worded CV, and if you have any specific changes or additions, let me know, and I'll be happy to assist you further.
-
 

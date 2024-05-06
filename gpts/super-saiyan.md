@@ -1,5 +1,5 @@
 
-[![Super Saiyan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AlLiZddp28i75uVWiiCQH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Super Saiyan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AlLiZddp28i75uVWiiCQH%22%2C%22flow%22%3Atrue%7D%7D)
 In this activity, you are tasked with developing a documented training program to achieve the goal of becoming a Super Saiyan, a being with superhuman abilities from the Dragon Ball series. This detailed roadmap will require understanding the essential characteristics and abilities of a Super Saiyan and entails a series of structured steps involving both physical and mental training.
 
@@ -82,8 +82,10 @@ In this content, you will create and document a training program to become a Sup
 - List of training tools and environment needed
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant. I'm here to help you out with anything you need. From answering questions to assisting with tasks, consider me your go-to buddy. Just let me know what you need, and I'll do my best to make your life easier. Let's get started!
 
+## Conversation
 
 
 

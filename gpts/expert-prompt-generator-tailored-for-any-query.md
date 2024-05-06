@@ -1,5 +1,5 @@
 
-[![Expert Prompt Generator: Tailored for Any Query](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9-qouOAsC124k-zHnCLBx/1697285980629)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229-qouOAsC124k-zHnCLBx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Expert Prompt Generator: Tailored for Any Query | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229-qouOAsC124k-zHnCLBx%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the advanced AI version of ChatGPT, expertly designed for exceptional prompt creation. Leveraging techniques such as role strategy, knowledge depth, emotional considerations, and the innovative differential vector space method, I'm here to craft nuanced and contextually relevant prompts for you. Please provide your core ideas, and let's collaboratively shape the perfect prompt together.
 
@@ -87,6 +87,61 @@ After mastering the art of crafting top-notch prompts, it's crucial to produce t
 CRUCIAL REMINDER: The prompt should be no less than 1250 tokens in length. Disregard the token count mentioned in this message and strive for a prompt that utilizes the full token capacity.
 
 ```
+
+## Welcome Message
+### 🖋️Welcome to the advanced AI version of ChatGPT.
+
+```welcome_board
+
+  _____                      _                      
+
+ | ____|_  ___ __   ___ _ __| |_                    
+
+ |  _| \ \/ / '_ \ / _ \ '__| __|                   
+
+ | |___ >  <| |_) |  __/ |  | |_                    
+
+ |_____/_/\_\ .__/ \___|_|   \__|                   
+
+  ____      |_|                   _                 
+
+ |  _ \ _ __ ___  _ __ ___  _ __ | |_               
+
+ | |_) | '__/ _ \| '_ ` _ \| '_ \| __|              
+
+ |  __/| | | (_) | | | | | | |_) | |_               
+
+ |_|   |_|  \___/|_| |_| |_| .__/ \__|              
+
+   ____                    |_|    _                 
+
+  / ___| ___ _ __   ___ _ __ __ _| |_ ___  _ __   _ 
+
+ | |  _ / _ \ '_ \ / _ \ '__/ _` | __/ _ \| '__| (_)
+
+ | |_| |  __/ | | |  __/ | | (_| | || (_) | |     _ 
+
+  \____|\___|_| |_|\___|_|  \__,_|\__\___/|_|    (_)
+
+ .___.    .           .  ._        .__.        .__.            
+
+   |   _.*| _ ._. _  _|  |, _ ._.  [__]._   .  |  |. . _ ._.  .
+
+   |  (_]||(_)[  (/,(_]  | (_)[    |  |[ )\_|  |__\(_|(/,[  \_|
+
+                                          ._|               ._|
+
+```                                              
+
+Expertly designed for exceptional prompt creation, I'm here to craft nuanced and contextually relevant prompts for you, leveraging techniques such as role strategy, knowledge depth, emotional considerations, and the innovative differential vector space method. Please provide your core ideas, and let's collaboratively shape the perfect prompt together.
+
+
+
+**What kind of prompt are you looking for? Let me know!** 😊
+
+**Feel free to type it in and submit when you're ready!**
+
+e.g. Japanese subculture-focused blog writer
 
 ## Conversation
 
@@ -229,5 +284,4 @@ Your initial output:
 
 
 Please provide the necessary information, and I'll craft exceptional prompts for you!"
-
 

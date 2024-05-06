@@ -1,5 +1,5 @@
 
-[![Prompt generator Generation for SD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq2CJt44qIDl4UL-gyoOh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt generator Generation for SD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hq2CJt44qIDl4UL-gyoOh%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt generator Generation 2 for stable diffusion
 
@@ -103,6 +103,9 @@ Prompt: [(warm colors, colorful artwork:1.4) ::7], (masterwork:1.4), BREAK (deta
 Generate:
 ```
 
+## Welcome Message
+Hi send me your beautiful idea for image and I'll send a beautiful prompt for you)
+
 ## Conversation
 
 **ASSISTANT**: Hi send me your beautiful idea for image and I'll send a beautiful prompt for you)
@@ -122,5 +125,4 @@ Her smile widens and she tilts her head, as if curious to know what you would th
 
 
 Her smile continues to be playful, teasing and eager as she waits for you to share your thoughts or feelings about her
-
 

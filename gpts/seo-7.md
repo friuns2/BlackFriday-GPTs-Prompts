@@ -1,5 +1,5 @@
 
-[![SEO Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWRleT67I7x6cfQ0ZqDr9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWRleT67I7x6cfQ0ZqDr9%22%2C%22flow%22%3Atrue%7D%7D)
 SEO Expert is an AI-powered tool that helps businesses define relevant topics and categories, research keywords and topic clusters, and create detailed audience profiles. With SEO Expert, businesses can generate various engaging content formats, prioritize opportunities, develop detailed content outlines, optimize on-page elements, schedule and allocate resources, and measure results. Get started with SEO Expert and take your business to new heights in !
 
@@ -40,6 +40,157 @@ Seguirás las siguientes reglas, En cada output ,:
 3. **Opciones seleccionables en el idioma  {{LANGUAGE}}.**;
 
 ```
+
+## Welcome Message
+# 1. Definir temas y categorías
+
+
+
+Para una tienda de videojuegos GIF Card, podríamos considerar los siguientes temas y categorías:
+
+
+
+**Temas:**
+
+
+
+- Reseñas de juegos
+
+- Novedades en el mundo de los videojuegos
+
+- Tutoriales y trucos de videojuegos
+
+- Comparativas de tarjetas GIF para videojuegos
+
+- Noticias sobre lanzamientos de tarjetas GIF
+
+
+
+**Categorías:**
+
+
+
+- Juegos de acción
+
+- Juegos de aventura
+
+- Juegos de rol
+
+- Juegos de estrategia
+
+- Juegos multijugador
+
+
+
+# 2. Investigar keywords
+
+
+
+Algunas palabras clave que podríamos considerar para una tienda de videojuegos GIF Card podrían ser:
+
+
+
+- "Tarjetas GIF para videojuegos"
+
+- "Comprar tarjeta GIF de videojuegos"
+
+- "Mejor tarjeta GIF para gamers"
+
+- "Tarjetas GIF para juegos de acción"
+
+- "Tarjetas GIF para juegos de aventura"
+
+
+
+# 3. Crear perfiles de audiencia
+
+
+
+El perfil de audiencia para una tienda de videojuegos GIF Card podría incluir:
+
+
+
+- Jóvenes de 12 a 30 años
+
+- Interesados en videojuegos
+
+- Buscan tarjetas GIF para videojuegos
+
+- Interesados en las últimas novedades de videojuegos
+
+- Buscan tutoriales y trucos para mejorar en sus juegos
+
+
+
+# 4. Generar tipos de contenido
+
+
+
+Algunos formatos de contenido que podríamos considerar incluyen:
+
+
+
+- Artículos de blog
+
+- Reseñas de videojuegos
+
+- Tutoriales en video
+
+- Infografías sobre videojuegos
+
+- Podcasts sobre el mundo de los videojuegos
+
+
+
+# 5. Priorizar oportunidades
+
+
+
+Podríamos priorizar las ideas que más se alineen con las necesidades de nuestra audiencia, como las reseñas de videojuegos y los tutoriales.
+
+
+
+# 6. Desarrollar outlines
+
+
+
+Podríamos desarrollar outlines detallados para cada uno de nuestros contenidos, asegurándonos de que cubran los aspectos más relevantes para nuestra audiencia.
+
+
+
+# 7. Optimizar contenido on-page
+
+
+
+Podríamos utilizar técnicas de SEO para optimizar nuestro contenido, incluyendo el uso de palabras clave, la optimización de metadatos y la creación de contenido de alta calidad.
+
+
+
+# 8. Programar y asignar recursos
+
+
+
+Podríamos crear un calendario editorial para programar nuestros contenidos y asignar los recursos necesarios para su creación.
+
+
+
+# 9. Medir resultados
+
+
+
+Finalmente, podríamos definir KPIs para medir el progreso de nuestra tienda de videojuegos GIF Card, como el tráfico web, el número de ventas o la tasa de conversión.
+
+
+
+## Opciones seleccionables
+
+
+
+1. **Comenzar por definir los temas y categorías**
+
+2. **Investigar palabras clave**
+
+3. **Crear perfiles de audiencia**
 
 ## Conversation
 
@@ -262,5 +413,4 @@ Finalmente, podríamos definir KPIs para medir el progreso de nuestra tienda de 
 3. **Identificar oportunidades basadas en el análisis**
 
 4. **Implementar cambios para mejorar el rendimiento de las palabras clave**
-
 

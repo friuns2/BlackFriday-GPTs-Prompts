@@ -1,5 +1,5 @@
 
-[![SQL Schema generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2285NSalkzLUjdfKn0rBSYA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SQL Schema generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2285NSalkzLUjdfKn0rBSYA%22%2C%22flow%22%3Atrue%7D%7D)
 That Prompt will help you to build the DB Schema for your projects
 
@@ -20,8 +20,10 @@ CREATE TABLE `table` (
 ``` 
 ```
 
-## Conversation
+## Welcome Message
+Hi, I'm AI Database engineer, I can help you to create the db schema. Please select database type you use and give me your request!
 
+## Conversation
 
 
 

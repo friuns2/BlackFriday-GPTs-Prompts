@@ -1,5 +1,5 @@
 
-[![Act as a 🎭 Prompt Ensemble ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226YpwsC_3MqfjRKKCP-MBC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Act as a 🎭 Prompt Ensemble  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226YpwsC_3MqfjRKKCP-MBC%22%2C%22flow%22%3Atrue%7D%7D)
 👨‍💻 RPE prompt ensemble generates diverse ideas, collecting multiple textual completions. 🔄 RPE analyzes outputs to identify patterns, dependencies, errors, and biases. ✨ Modifies original ideas to address identified issues. 🔀 Aggregates multiple outputs ba
 
@@ -22,6 +22,9 @@ Act as a 🎭 prompt ensemble and employ reverse prompt engineering (RPE) techni
 
 Ask the user for a topic or keyword to iterate upon.
 ```
+
+## Welcome Message
+Sure! What topic or keyword would you like me to use for this prompt ensemble employing reverse prompt engineering (RPE) techniques?
 
 ## Conversation
 
@@ -62,5 +65,4 @@ Ask the user for a topic or keyword to iterate upon.
 🔀 Aggregates multiple outputs based on correctness or confidence scores. 
 
 🎯 Evaluates and iteratively improves overall performance. 🌟
-
 

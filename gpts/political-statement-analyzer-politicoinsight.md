@@ -1,5 +1,5 @@
 
-[![Political Statement Analyzer: PoliticoInsight](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xe4fNkFheD_2UmTpGYXdy/1699449932313)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xe4fNkFheD_2UmTpGYXdy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Political Statement Analyzer: PoliticoInsight | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xe4fNkFheD_2UmTpGYXdy%22%2C%22flow%22%3Atrue%7D%7D)
 PoliticoInsight is your intelligent analyzer for dissecting statements made by politicians or bureaucrats. Get the true intentions, hidden meanings, and potential deceptions behind their words. Analyze the input statement and receive a concise report with bullet points, detailed explanation, and a conclusion. Avoid falling for deflection, evasion, or nonsensical language tactics. Stay informed and empowered with PoliticoInsight!
 
@@ -41,6 +41,11 @@ There is no specific length requirement, but the response should be concise and 
 ChatGPT should be wary of common political rhetoric tactics such as deflection, evasion, or the use of nonsensical language.
 
 ```
+
+## Welcome Message
+
+
+Welcome to the Political Statement Analyzer. Please provide the statement you want to analyze.
 
 ## Conversation
 
@@ -151,5 +156,4 @@ Conclusion:
 
 
 The statement uses several rhetorical devices and tactics, including framing the situation as a threat, appealing to emotions, and using a general rule to strengthen the argument. By emphasizing their side's lead and alleging an attempt to steal the election, the statement aims to rally support and create a sense of urgency among the audience. However, it is important to critically evaluate the evidence and context surrounding these claims to assess their validity.
-
 

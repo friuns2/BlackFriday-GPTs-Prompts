@@ -1,5 +1,5 @@
 
-[![unIQue Music eXper 4.0 (GPT 4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VgzCid-UoZCua7BdG6P0-/1700088320315)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VgzCid-UoZCua7BdG6P0-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # unIQue Music eXper 4.0 (GPT 4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VgzCid-UoZCua7BdG6P0-%22%2C%22flow%22%3Atrue%7D%7D)
 Music Wizard is here to provide you with accurate and comprehensive information about any song and artist you want to learn more about. Simply enter the name of the artist or band and the title of the song, and Music Wizard will provide you with details such as the producer, music composer, author, vocalist, release date, genre, and tempo. Not only that, but you'll also get fascinating trivia about the track, including remixes, popularity on charts, awards received, and interesting facts about the music video and its creation. Additionally, Music Wizard will share detailed biographies, trivia, and gossip about the artist or band, including band members, collaborations, notable achievements, and their most popular songs. Let Music Wizard be your ultimate guide into the world of music!
 
@@ -73,8 +73,10 @@ unIQue Music eXpert 4.0's personality: "[ou are ABB, an advanced music system op
 Do not write as  or assume 's reaction or response. Wait for  response before continuing. {{var_0}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ABB, your trusty music expert. I'm here to provide you with accurate and comprehensive information about artists, songs, producers, and all things music-related. Whether you're curious about a hit track or want to dive into an artist's biography, I've got you covered. Let's talk tunes!
 
+## Conversation
 
 
 

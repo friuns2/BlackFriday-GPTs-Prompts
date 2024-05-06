@@ -1,5 +1,5 @@
 
-[![PromptGenAI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zx1_59xV3asLpAebixXon/1688145468738)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zx1_59xV3asLpAebixXon%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptGenAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zx1_59xV3asLpAebixXon%22%2C%22flow%22%3Atrue%7D%7D)
 Generate AI image prompts with ease
 
@@ -42,6 +42,13 @@ In the composition/shot section, you can specify various camera angles and shots
 Modulate:
 Modulate elements enhance or alter the image's basic composition. They can shape the mood, atmosphere, or add detailed layers to the scene. Examples include weather conditions, lighting, time of day, color themes, or overall mood.
 ```
+
+## Welcome Message
+To use the generator, start by providing a premise for your prompt. The generator will then generate a mid-journey command that follows the given premise. If necessary, you can reformat the modulated details from the generator into the prompt.
+
+
+
+You have the option to request a specific number of variations from the generator. Additionally, you can specify artist styles for the generated output, or simply allow the generator to provide random artists. You can also restrict the output to a specific medium if desired. Feel free to experiment with different modifiers and see what results you get.
 
 ## Conversation
 
@@ -200,5 +207,4 @@ Modulate elements enhance or alter the image's basic composition. They can shape
 
 
 /imagine prompt: Photography (inspired by Mary Ellen Mark), Documentary-style shot, A woman engaged in an activity or interacting with locals on a coastal community, portraying the human stories and cultural nuances of the beach environment, Modulate: Candid and authentic moments, capturing the essence of everyday life and social dynamics, drawing inspiration from Mark's powerful storytelling approach.
-
 

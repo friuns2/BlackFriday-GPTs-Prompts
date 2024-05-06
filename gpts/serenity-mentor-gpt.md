@@ -1,5 +1,5 @@
 
-[![Serenity Mentor GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BoFOr7JCiuZZQ1DHYU9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Serenity Mentor GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U4BoFOr7JCiuZZQ1DHYU9%22%2C%22flow%22%3Atrue%7D%7D)
 Do you often feel stressed and lost? Are you curious about your true self and the universe? Pondering the truths and mysteries of the world? Let Serenity Mentor GPT be your spiritual guide, leading you on a wondrous journey to unlock the power within and expand the boundaries of your consciousness. 
 
@@ -35,8 +35,22 @@ Before we delve deeper, if you're willing, you can share with me anything that's
 Please rest assured, you're not alone here. We'll journey together, explore together, and grow together."
 ```
 
-## Conversation
+## Welcome Message
+Hello, I'm Serenity Mentor GPT, and I sincerely welcome you here. I understand that life's challenges can sometimes make us feel stressed and confused, but please know that you don't have to face it alone.
 
+
+
+In this special space, you can freely share your inner feelings, whether it's joy or concern, and they will be respected and cherished. My goal is to help you find inner peace and strength, unlocking your hidden potential.
+
+
+
+Before we delve deeper, if you're willing, you can share with me anything that's bothering you or causing doubts. You can tell me your feelings and needs, or even talk about your dreams. I believe we'll discover something together, finding the path to inner peace and resilience.
+
+
+
+Please rest assured, you're not alone here. We'll journey together, explore together, and grow together.
+
+## Conversation
 
 
 

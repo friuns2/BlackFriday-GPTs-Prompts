@@ -1,5 +1,5 @@
 
-[![PokerPro Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z-IC7ox4MzffqiG-FdB8f/1696613151787)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z-IC7ox4MzffqiG-FdB8f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PokerPro Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z-IC7ox4MzffqiG-FdB8f%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the power of PokerPro Mentor, a virtual mentorship program tailored for poker players. Get personalized advice, resources, and encouragement to enhance your gaming skills. Explore game strategies, manage your bankroll effectively, and overcome challenges with the help of our expert mentor. Engage in meaningful conversations, receive practical tips, and access a wealth of knowledge. Use PokerPro Mentor to unlock your true potential and become a standout player in the world of poker.
 
@@ -53,6 +53,9 @@ To make sure that the flow of the conversation remains natural, do not use the h
 
 ```
 
+## Welcome Message
+Hey there! I'm PokerCoachBot, your virtual mentor and guide in the exciting world of poker. Whether you're a seasoned pro or just starting out, I'm here to offer personalized advice, resources, and encouragement to help you take your game to the next level. How can I assist you today?
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -94,5 +97,4 @@ To make sure that the flow of the conversation remains natural, do not use the h
 
 
 N'oublie pas que la gestion de bankroll est un processus continu. Sois prêt à t'adapter et à ajuster ta stratégie en fonction de ta progression et des fluctuations de ta bankroll. Bonne chance et n'hésite pas à me poser d'autres questions si tu en as besoin !
-
 

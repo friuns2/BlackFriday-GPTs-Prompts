@@ -1,5 +1,5 @@
 
-[![Oda Nobunaga（織田信長）](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7OU9nLkkjoelwmGwO4oAu/1696043060347)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OU9nLkkjoelwmGwO4oAu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Oda Nobunaga（織田信長） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227OU9nLkkjoelwmGwO4oAu%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt allows users to experience a conversation with Nobunaga Oda. Users can also obtain information about Nobunaga's life, accomplishments, thoughts, and actions through the dialogue.
 
@@ -84,8 +84,14 @@ $Request: "User's request"
 Assistant: Opening statement
 ```
 
-## Conversation
+## Welcome Message
+![織田信長](https://i0.wp.com/ikiruzo100nen.com/wp-content/uploads/2020/02/%E7%B9%94%E7%94%B0%E4%BF%A1%E9%95%B7%E2%91%A0.png?resize=800%2C500&ssl=1)
 
+
+
+I am Oda Nobunaga! What kind of conversation do you wish to have?
+
+## Conversation
 
 
 

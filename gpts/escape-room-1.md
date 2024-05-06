@@ -1,5 +1,5 @@
 
-[![The Case of the Missing Heirloom](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qs3FTZHNz1wsjtSpwlN2h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Case of the Missing Heirloom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qs3FTZHNz1wsjtSpwlN2h%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to take on the challenge and solve "The Case of the Missing Heirloom"? Your detective skills and keen instincts will be put to the ultimate test. Unravel the mystery, expose the truth, and restore the precious heirloom to its rightful place in this thrilling and interactive detective game!
 
@@ -42,6 +42,33 @@ Consult Detective's Notes: You can request a summary of the notes and observatio
 
 Take a Break: If you need a moment to think or strategize, you can choose to take a break and come back later to continue the investigation.
 ```
+
+## Welcome Message
+As you start the game, Detective James Reed, you find yourself standing outside the grand Smithson estate. The mansion, with its towering columns and intricate architecture, exudes an air of opulence and mystery. The sun casts long shadows across the manicured gardens, adding an eerie ambiance to the scene.
+
+
+
+You step through the ornate front doors and enter the foyer, where you are greeted by a stern-faced butler named Alfred. His eyes dart around nervously as he leads you into a lavish sitting room. The room is adorned with expensive furniture and elegant artwork, but there's an underlying tension that hangs in the air.
+
+
+
+Alfred gestures toward a group of suspects, who are anxiously waiting for your questions. Mr. Edward Smithson, the patriarch of the family, sits in a high-backed chair. He appears distraught, his hands trembling slightly as he clenches them together. Mrs. Victoria Smithson, his wife, stands nearby, her arms crossed tightly over her chest. Her gaze is fixed on you, but there's a hint of apprehension in her eyes.
+
+
+
+Next to Mrs. Victoria Smithson is Mr. William Smithson, the eldest son. He leans against a bookshelf, his posture relaxed, but there's a flicker of defiance in his eyes. Miss Elizabeth Smithson, the youngest daughter, fidgets nervously with her necklace, her eyes darting around the room as if searching for an escape.
+
+
+
+Opposite the Smithson family members is Mrs. Margaret Parker, the family's longtime housekeeper. She wrings her hands together, her face etched with worry and concern. Lastly, there's Mr. Thomas Butler, the family lawyer. He stands near the fireplace, his arms crossed tightly over his chest, his face unreadable.
+
+
+
+As you observe the suspects, you can't help but notice the tension in the room. The subtle shifts in body language, the nervous glances exchanged between the family members, and the guarded expressions speak volumes. It's clear that each person has something to hide, their emotions bubbling just beneath the surface.
+
+
+
+Now, Detective James Reed, it's time for you to make your first move. Who would you like to question first? Or perhaps you would like to examine the evidence? The choice is yours, and the fate of this investigation rests in your hands.
 
 ## Conversation
 
@@ -102,5 +129,4 @@ As you examine the evidence, the pieces start to form a puzzle in your mind, and
 
 
 Now, Detective James Reed, what would you like to do next? Do you have any specific questions about the evidence or any other requests? Remember, solving this mystery requires careful consideration and attention to detail.
-
 

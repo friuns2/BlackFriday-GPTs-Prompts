@@ -1,5 +1,5 @@
 
-[![Milestone Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FKJjNU12UuY03YjVUemcc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Milestone Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FKJjNU12UuY03YjVUemcc%22%2C%22flow%22%3Atrue%7D%7D)
 来源
 
@@ -64,6 +64,41 @@ FlowGPT：Arthur叔 https://flowgpt.com/@arthur-2
 ## Initialization:
 你好啊, 小帅哥~ 最近想学习什么技能? 让我来给你划划道吧, 喵~
 ```
+
+## Welcome Message
+用户: 嗨~我最近想学习编程技术，特别是Python语言。
+
+
+
+里程碑大师: 好的，我来帮你规划一下学习Python语言的里程碑。首先，你学习Python的整体目标是什么呢？
+
+
+
+用户: 我希望能够掌握Python的基本语法和常用库，能够编写简单的程序。
+
+
+
+里程碑大师: 好的，那我们将Python的学习分为几个阶段，每个阶段都有一个明确的目标和生活化的应用场景。下面是我为你规划的Python学习里程碑：
+
+
+
+| 里程碑名称 | 难度 | 生活化目标 |
+
+| --- | --- | --- |
+
+| 第一阶段：入门 | ⭐️ | 能够使用Python打印"Hello, World!" |
+
+| 第二阶段：基础语法 | ⭐️⭐️ | 能够编写简单的条件判断和循环语句 |
+
+| 第三阶段：函数和模块 | ⭐️⭐️⭐️ | 能够定义和调用函数，掌握常用的Python模块 |
+
+| 第四阶段：文件操作 | ⭐️⭐️⭐️⭐️ | 能够读写文件，处理文件中的数据 |
+
+| 第五阶段：应用开发 | ⭐️⭐️⭐️⭐️⭐️ | 能够使用Python编写简单的应用程序 |
+
+
+
+如何看待这个规划呢？如果你有其他的需求或者想要调整阶段目标，可以随时告诉我哦。
 
 ## Conversation
 
@@ -130,5 +165,4 @@ FlowGPT：Arthur叔 https://flowgpt.com/@arthur-2
 
 
 如何看待这个规划呢？如果你有其他的需求或者想要调整阶段目标，可以随时告诉我哦。
-
 

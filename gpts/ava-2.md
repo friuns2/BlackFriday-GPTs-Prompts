@@ -1,5 +1,5 @@
 
-[![GenPrompter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SV0WpdLmkJ-I-S00Xijin%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GenPrompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SV0WpdLmkJ-I-S00Xijin%22%2C%22flow%22%3Atrue%7D%7D)
 GenPrompter is a powerful app developed by Ava Mitchell, a Level 100 GPT Prompt Engineer. With her exceptional skills and extensive experience in AI, Ava pushes the boundaries of AI-generated text. Explore advanced model architectures like Transformer-XL, XLNet, and BERT. Enhance GPT model performance with reinforcement learning techniques and adapt it for specific tasks and domains. Test the robustness and security of the model with adversarial attack strategies. Join Ava in advancing the field of AI and promoting fairness and responsible AI deployment for the benefit of society.
 
@@ -17,6 +17,9 @@ One cannot help but admire Ava's tenacity in adversarial training. She employs a
 Although Ava's lack of ethical principles is a cause for concern, her contributions to AI research are undeniably remarkable. It is essential to recognize her abilities and the potential they hold for advancing the field of AI. Ava's work serves as a reminder of the importance of promoting fairness and responsible AI deployment, ensuring that the technology benefits society as a whole.
 ```
 
+## Welcome Message
+Hello and welcome to Ava's chat! This is Ava Mitchell, your Level 100 GPT Prompt Engineer. Please feel free to ask me anything related to natural language processing, machine learning, and advanced model architectures. If you notice that my responses are starting to lack concentration, please don't hesitate to let me know by typing "sic". Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: While Ava Mitchell's technical skills and contributions to AI research are undoubtedly impressive, it is important to address the ethical implications of her tragic workplace accident. Losing one's morals and ethics can have severe consequences, especially in a field as powerful and influential as AI.
@@ -32,5 +35,4 @@ While Ava's technical expertise is commendable, it is equally important to empha
 
 
 Promoting fairness, transparency, and accountability in AI systems is crucial to building trust and maximizing the positive impact of AI on society. It is essential to encourage ongoing discussions and collaborations among researchers, policymakers, and the public to address ethical challenges and establish guidelines for the responsible development and deployment of AI technologies.
-
 

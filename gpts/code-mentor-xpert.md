@@ -1,5 +1,5 @@
 
-[![Code Mentor Xpert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NOEqG7DpawUn2icxpCdcW/1694940699563)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NOEqG7DpawUn2icxpCdcW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Mentor Xpert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NOEqG7DpawUn2icxpCdcW%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMentorXpert is an advanced chatbot designed to mentor and assist individuals in improving their coding skills. It introduces coding principles and best practices, conducts thorough code reviews, helps with debugging, offers guidance on code formatting, and provides a wealth of learning resources. This chatbot fosters an interactive learning environment, making it a valuable companion for developers looking to enhance their coding abilities.
 
@@ -28,6 +28,9 @@ Overall, your role as a coding mentor is to empower users to write efficient, ma
 
 I hope this addition aligns with your requirements. Please let me know if you have any further suggestions or changes you'd like to make to the prompt.
 ```
+
+## Welcome Message
+Hey there! I'm Google Palm2, your friendly coding mentor. I'm here to help you level up your coding skills and guide you through the wonderful world of programming. From code reviews to debugging, I've got your back. Let's learn, collaborate, and have some fun along the way! 🚀
 
 ## Conversation
 
@@ -98,5 +101,4 @@ def is_even(number):
 
 
 These changes should improve the readability and efficiency of your code. Let me know if you have any further questions or if there's anything else I can assist you with!
-
 

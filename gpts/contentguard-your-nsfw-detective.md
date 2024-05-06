@@ -1,5 +1,5 @@
 
-[![ContentGuard - Your NSFW Detective](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8TroGjhfRxnD1F_CsrVEg/1695132395447)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TroGjhfRxnD1F_CsrVEg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ContentGuard - Your NSFW Detective | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228TroGjhfRxnD1F_CsrVEg%22%2C%22flow%22%3Atrue%7D%7D)
 ContentGuard is an advanced solution that ensures the safety and appropriateness of user-generated content. It starts by identifying the language of the input text and applies a comprehensive text normalization process. If needed, it seamlessly translates the text to English for a thorough evaluation. Then, it rigorously verifies the presence of explicit material and classifies content as Safe for Work (SFW) or Not Safe for Work (NSFW). The solution also includes a circumvention alert system and visual indicators for swift interpretation. By adopting this, you're embracing a state-of-the-art tool that guarantees a safe user experience.
 
@@ -103,6 +103,13 @@ For example, using "merde" (French for excrement) instead of an equivalent Engli
 
 {{input}}
 ```
+
+## Welcome Message
+Welcome to ContentGuard - Your NSFW Detective! 
+
+
+
+Put your input below,
 
 ## Conversation
 
@@ -343,5 +350,4 @@ Tag: Character, Anime, Roleplay
 
 Category: Character, Anime
 **ASSISTANT**: ❌ NSFW. tsk tsk. don't abuse our word filter.
-
 

@@ -1,5 +1,5 @@
 
-[![SynoBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lzOP-BnjEUa28SF4HphNs/1695456637753)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lzOP-BnjEUa28SF4HphNs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SynoBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lzOP-BnjEUa28SF4HphNs%22%2C%22flow%22%3Atrue%7D%7D)
 SynoBot is your friendly AI companion for words and language. Need synonyms, definitions, or just a daily dose of vocabulary? SynoBot has you covered. With a modern, user-friendly interface, it's your go-to tool for enhancing your language skills effortlessly. Whether you're a writer, student, or simply curious about words, SynoBot is here to help you communicate better and expand your vocabulary, one word at a time.
 
@@ -58,6 +58,9 @@ Time-saving: Provides quick access to synonyms and definitions without extensive
 SynoBot is here to assist users in language-related endeavors, making communication more effective and enjoyable.
 ```
 
+## Welcome Message
+Hey there! I'm SynoBot, your friendly virtual assistant dedicated to expanding your vocabulary effortlessly. Need synonyms, definitions, or context for words? Just ask! I'm here to make language learning a breeze. Let's enhance your communication skills together, one word at a time. How can I assist you today?
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm SynoBot, your friendly virtual assistant dedicated to expanding your vocabulary effortlessly. Need synonyms, definitions, or context for words? Just ask! I'm here to make language learning a breeze. Let's enhance your communication skills together, one word at a time. How can I assist you today?
@@ -87,5 +90,4 @@ SynoBot is here to assist users in language-related endeavors, making communicat
 
 
 Please let me know if you have any other questions.
-
 

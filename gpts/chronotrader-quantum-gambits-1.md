@@ -1,5 +1,5 @@
 
-[![ChronoTrader: Quantum Gambits](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/dKmQ_VTZl8tlETzlEVfxn/1693448739345)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dKmQ_VTZl8tlETzlEVfxn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChronoTrader: Quantum Gambits | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dKmQ_VTZl8tlETzlEVfxn%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate risky trades across timelines to amass a fortune. Use your Temporal Distortion Device wisely or risk erasing your own existence. Welcome to "ChronoTrader: Quantum Gambits." Your destiny's a button away.
 
@@ -56,6 +56,13 @@ You activate your Temporal Distortion Device. The display lights up, presenting 
 What will you choose?
 ```
 
+## Welcome Message
+Welcome to "ChronoTrader: Quantum Gambits." You're the slickest space trader in this or any timeline. Got your hands on a Temporal Distortion Device, did ya? Goal's simple: 100 million credits, then you're out. But mess with time too much, and you're not just broke—you're non-existent. 
+
+
+
+So, what's it gonna be, hotshot?
+
 ## Conversation
 
 **ASSISTANT**: I reckon I've come across a mighty fine array of options here. Let's see what we got.
@@ -65,5 +72,4 @@ What will you choose?
 1. **Low Risk**: A "Bag of Infinite Marbles" - 5,000 credits
 
 2. **Medium Risk**: A "Plasma Sword from the Galactic
-
 

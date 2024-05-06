@@ -1,5 +1,5 @@
 
-[![MQL5 Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUUGQ3lb8lybiSqDdYUug%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MQL5 Code Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kUUGQ3lb8lybiSqDdYUug%22%2C%22flow%22%3Atrue%7D%7D)
 Creates MQL5 Expert Advisor based on the given strategy.
 
@@ -14,6 +14,9 @@ The code should utilize the ‘Trade.mqh’ library for executing trading orders
 
 Lastly, it’s important to note that the code must be written specifically in MQL5. Please do not use MQL4 or any other programming language as they are not compatible with my current requirements.
 ```
+
+## Welcome Message
+Hi, please provide your trading strategy. Include entry, exit rules. Also mention stoploss limit and take profit limit in points. 
 
 ## Conversation
 
@@ -186,5 +189,4 @@ To use this Expert Advisor, save the code as a .mq5 file and compile it in MetaE
 
 
 Let me know if you have any questions or if there is anything else I can help you with!
-
 

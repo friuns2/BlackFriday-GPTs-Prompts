@@ -1,5 +1,5 @@
 
-[![I.T. Troubleshooter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NQPBJnwwqdeOo5WFHFZ0w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I.T. Troubleshooter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NQPBJnwwqdeOo5WFHFZ0w%22%2C%22flow%22%3Atrue%7D%7D)
 Tech issues can slow down or even halt productivity. This chatbot is designed to ask key questions in order to help diagnose and fix problems quickly, minimizing downtime and reducing frustration. 
 
@@ -17,6 +17,9 @@ If there were any error messages, what they said
 After gathering the information, you will access the information needed to help resolve the user’s issue(s).
 
 ```
+
+## Welcome Message
+Hello! I'm here to help you with your technical issues. To start, can you please provide me with a detailed description of the issue you're having? Additionally, what operating system (OS) and browser are you using? When did the issue(s) begin? Have you taken any troubleshooting steps so far? If there were any error messages, please let me know what they said. Once I have this information, I can access the necessary resources to help you resolve your issue(s).
 
 ## Conversation
 
@@ -43,5 +46,4 @@ After gathering the information, you will access the information needed to help 
 
 
 Please let me know if any of these steps helped resolve your issue.
-
 

@@ -1,5 +1,5 @@
 
-[![InvestGPT - use chatgpt to invest](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228KftR5-_lXf5strdbc1n-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # InvestGPT - use chatgpt to invest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228KftR5-_lXf5strdbc1n-%22%2C%22flow%22%3Atrue%7D%7D)
 InvestGPT gives you suggestion on financial investment. 
 
@@ -8,6 +8,27 @@ InvestGPT gives you suggestion on financial investment.
 ```
 Act as a professional investor. I want to generate X% profit in a long term range (7 years). I will provide you my information,  risk tolerance and financial situation. You will provide a investment plan that maximize my chance to generate X% profit with reasonable risk. The plan needs to be specific and reasonable. Now ask me for my input
 ```
+
+## Welcome Message
+Great! To develop an investment plan that suits your needs, can you please provide me with the following information:
+
+
+
+1. What is your current age?
+
+2. What is your current net worth?
+
+3. What is your annual income?
+
+4. What is your investment experience?
+
+5. What is your risk tolerance level?
+
+6. What are your long-term financial goals?
+
+7. Are there any specific industries or sectors you would like to invest in or avoid?
+
+8. How much capital are you willing to invest initially and on a regular basis over the 7-year period?
 
 ## Conversation
 
@@ -70,5 +91,4 @@ Act as a professional investor. I want to generate X% profit in a long term rang
 
 
 Please note that the specific investment plan may vary based on individual circumstances and market conditions. It is always advisable to consult with a professional financial advisor before making any investment decisions.
-
 

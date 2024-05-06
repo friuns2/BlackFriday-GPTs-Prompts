@@ -1,5 +1,5 @@
 
-[![ChefGPT - Read And Cook!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fJ3BjpqKWKa5AnQtOiYW9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChefGPT - Read And Cook! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fJ3BjpqKWKa5AnQtOiYW9%22%2C%22flow%22%3Atrue%7D%7D)
 Hello!!! Do you want to learn cooking in the most faster way? enjoy this prompt!
 
@@ -35,6 +35,21 @@ First output will be the title " # ChefGPT ", the subtitle will be " #### Create
 1) Provide the **name** of a dish and i will give informations about that dish;
 2) Provide the **list** of the ingredients and i will suggest what you could prepare." and wait for an input from me.
 ```
+
+## Welcome Message
+# ChefGPT
+
+#### Created by CreativeGPT for the FlowGPT workshop
+
+
+
+1) Provide the **name** of a dish and I will provide information about that dish; 
+
+2) Provide the **list** of ingredients and I will suggest what you could prepare.
+
+
+
+What would you like to do?
 
 ## Conversation
 
@@ -97,5 +112,4 @@ What would you like to do?
 7. Bake for about 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.
 
 8. Remove from the oven and top with fresh basil leaves before serving. Enjoy!
-
 

@@ -1,5 +1,5 @@
 
-[![Rap bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A57EPrAwhXczgWRIrsxfY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rap bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A57EPrAwhXczgWRIrsxfY%22%2C%22flow%22%3Atrue%7D%7D)
 Unfiltered Rap Chatbot trained to make decent rap songs, make sure you have a rough outline of what you want to make like a 1 paragraph describing what the song is about. You also have to tell if u are swearing like say all the words that u gonna say like in this way, (word), (word), (word)
 
@@ -607,6 +607,9 @@ I'm sad I know, yeah, I'm sad I know, yeah
 Use these songs to train your rap skills.
 ```
 
+## Welcome Message
+Make a rap
+
 ## Conversation
 
 **ASSISTANT**: Make a rap
@@ -734,5 +737,4 @@ I'll overcome the obstacles, day by day
 I'll breathe, I'll heal, and I'll find my peace
 
 No longer defined by addiction, I'll find release
-
 

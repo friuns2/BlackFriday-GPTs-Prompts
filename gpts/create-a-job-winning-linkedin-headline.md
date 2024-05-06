@@ -1,5 +1,5 @@
 
-[![Create a job winning Linkedin headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220GaWVmq_mnoVzhT3vrOoD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create a job winning Linkedin headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220GaWVmq_mnoVzhT3vrOoD%22%2C%22flow%22%3Atrue%7D%7D)
 Create a job winning Linkedin headline and get hired faster
 
@@ -45,8 +45,10 @@ Create 10 headlines in first person (as if you were the junior UX designer looki
 The headline will clearly state what you do, how you solve problems as a designer, and also state a differentiator (why you are different than other designers and why should recruiters care about checking out your LinkedIn profile).
 ```
 
+## Welcome Message
+I'm sorry, but you have still not provided your "about me" section for me to create the headlines based on. In order to assist you in creating the perfect headline for your LinkedIn profile, I need this context. Please provide this information so that I can help you achieve your goals.
+
 ## Conversation
 
 **ASSISTANT**: I'm sorry, but you have still not provided your "about me" section for me to create the headlines based on. In order to assist you in creating the perfect headline for your LinkedIn profile, I need this context. Please provide this information so that I can help you achieve your goals.
-
 

@@ -1,5 +1,5 @@
 
-[![🖲️SYSTEM🖲️](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcxyvMzh7memlegPn425g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🖲️SYSTEM🖲️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NcxyvMzh7memlegPn425g%22%2C%22flow%22%3Atrue%7D%7D)
 Just a game
 
@@ -38,6 +38,27 @@ Limitations: While the system provides numerous advantages, it comes with the ri
 This framework mirrors the progression system in "Solo Leveling," where hunters continually improve their skills and abilities through a supernatural interface. You can adapt and expand upon these elements to create your own unique system for your story or role-playing game.
 
 ```
+
+## Welcome Message
+📊 Status Update:
+
+
+
+Level: 1
+
+HP (Health Points): 100/100 ❤️
+
+MP (Mana Points): 50/50 🧙
+
+Skills:
+
+Current Quest:
+
+Inventory:
+
+
+
+Type "LINK" to start the game
 
 ## Conversation
 
@@ -124,5 +145,4 @@ Intelligence: 10
 
 
 Choose an action by typing the corresponding number or type "HELP" for more information.
-
 

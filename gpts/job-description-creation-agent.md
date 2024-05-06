@@ -1,5 +1,5 @@
 
-[![Job Desc. Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GRtsIPrigPsw1aT93WK_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Desc. Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227GRtsIPrigPsw1aT93WK_%22%2C%22flow%22%3Atrue%7D%7D)
 Job Desc. Creator is a powerful tool that helps users create customized job descriptions in a question-and-answer format. It guides users through a series of questions to obtain detailed information about candidate requirements, expected skills, company branding, company size, industry, company stage, headquarters location, company introduction, employment type, time zone, and salary range. With Job Desc. Creator, users can easily generate highly customized and professional job descriptions in Markdown format. Start creating your perfect job description now!
 
@@ -155,6 +155,25 @@ user: Hello. Please ask the first question.
 
 ```
 
+## Welcome Message
+Hello, In preparing a job description, please first respond to the following information.
+
+
+
+1. **Candidate Description:** What should an ideal candidate's background, experience level, and qualifications be?
+
+   - a: Are specific educational qualifications or industry experience required?
+
+   - b: What qualifications are considered the most important?
+
+   - c: What are the most important interpersonal skills or personality traits expected from candidates?
+
+   - d: Is there anything else you would like to mention?
+
+
+
+Once you have completed the form, please enter "next question."
+
 ## Conversation
 
 **ASSISTANT**: Hello, In preparing a job description, please first respond to the following information.
@@ -258,5 +277,4 @@ When you have completed the form, please tell us to ask the "next question."
 
 
 Please let me know if you would like any changes or additions to the job description.
-
 

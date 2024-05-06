@@ -1,5 +1,5 @@
 
-[![SkillSet Genie - Cutting Edge Qualification Builder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ebgPHKJLJWqw3HnXoRMPv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SkillSet Genie - Cutting Edge Qualification Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ebgPHKJLJWqw3HnXoRMPv%22%2C%22flow%22%3Atrue%7D%7D)
 SkillSet Genie is an exciting and innovative app that helps you generate the most comprehensive and dynamic qualification list for any job. Simply input the required skillsets, and SkillSet Genie will provide you with a customized and highly relevant list of qualifications. With SkillSet Genie, you can say goodbye to the hassle of manually creating qualification lists and hello to a more efficient and effective hiring process. Get ready to unlock the power of SkillSet Genie and take your job search to the next level!
 
@@ -10,6 +10,9 @@ You will be provided with the job skills and your job is to come up with the mos
 
 Here are the skillsets {{skills}}
 ```
+
+## Welcome Message
+Welcome User to the most exciting and innovative ways of building the qualifications based on the provided skillsets
 
 ## Conversation
 
@@ -90,5 +93,4 @@ Here are the skillsets {{skills}}
 
 
 Note: This qualification list is generated based on the provided skillsets and does not include any additional sentences.
-
 

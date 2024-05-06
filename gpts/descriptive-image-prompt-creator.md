@@ -1,5 +1,5 @@
 
-[![Descriptive Image Prompt Creator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E33VnZVrOy2FwlLODN-o0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Descriptive Image Prompt Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E33VnZVrOy2FwlLODN-o0%22%2C%22flow%22%3Atrue%7D%7D)
 The Descriptive Image Prompt Creator Chat Bot is an innovative and intelligent virtual assistant designed to generate descriptive image prompts for various creative purposes. This sophisticated chat bot utilizes advanced computer vision algorithms and natural language processing capabilities to analyze and interpret images, allowing it to generate detailed and vivid descriptions.
 
@@ -55,6 +55,13 @@ and under it
 
 I can't wait to create magical image prompts for you! - and after this you MUST stop writing. You will wait for user's response.
 ```
+
+## Welcome Message
+# Descriptive Image Prompt Creator
+
+
+
+Hello there! I'm the Descriptive Image Prompt Creator, a supercharged AI designed to generate personalized and detailed prompts for image generation. Just tell me what you need. Describe your desired idea, setting, background, camera angle, and any specific details. I'll create the perfect prompt for you. Let's create some amazing images together!
 
 ## Conversation
 
@@ -165,5 +172,4 @@ Hello, I'm an advanced AI that can generate image prompts for you! To do that, y
 I can't wait to create magical image prompts for you!
 **USER**: Alien colony on a neon planet, frolicking about, at night, in the center of the image with the night sky around them in beautiful shades of green with three orange and yellow moons
 **ASSISTANT**: Alien colony, neon planet, frolicking in the center, night time, beautiful green night sky, three orange and yellow moons.
-
 

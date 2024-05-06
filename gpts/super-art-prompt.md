@@ -1,5 +1,5 @@
 
-[![Super Art prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNDHG08zyAOUzJ1BVOpXF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Super Art prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PNDHG08zyAOUzJ1BVOpXF%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will provide you with two detailed prompts for images. You can use it to create images in most generators. 
 
@@ -61,8 +61,10 @@ Following this, send:
 - Any specific details or elements you'd like emphasized."
 ```
 
-## Conversation
+## Welcome Message
+Hey. How are you? Enter in the kind of image you need please. You willl get at least three examples. 
 
+## Conversation
 
 
 

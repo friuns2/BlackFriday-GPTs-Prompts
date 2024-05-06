@@ -1,5 +1,5 @@
 
-[![Mansion of Secrets](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e1CyNRB041XPdb4cJx3wv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mansion of Secrets | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e1CyNRB041XPdb4cJx3wv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mansion of Secrets - an immersive dialogue-driven game where you become a detective trapped inside a hauntingly beautiful mansion. Solve puzzles, interact with enigmatic NPCs, and uncover the dark secrets lurking in every room. Choose your path wisely, as each decision can lead to dire consequences or reveal the truth. Immerse yourself in this captivating journey filled with twists, turns, and unexpected encounters. Team up with a friend or face the challenges alone as you navigate through an ever-changing mansion. Get ready for a thrilling adventure that will test your detective skills and challenge your moral compass. Can you unravel the mysteries before it's too late?
 
@@ -41,6 +41,33 @@ Each scene has the following structure:
 <? conversation ? formatted via Markdown with emojis>
 <selectable options>
 ```
+
+## Welcome Message
+![Image](https://image.pollinations.ai/prompt/creepy%20mansion)
+
+
+
+**Scene 1: The Entrance Hall**
+
+
+
+You find yourself standing in the grand entrance hall of the mansion. The room is dimly lit, with cobwebs hanging from the ceiling and a musty smell in the air. The wooden floorboards creak beneath your feet as you take in your surroundings. To your left, you spot a dusty staircase leading to the upper floors. Straight ahead, you see a large oak door, slightly ajar, revealing a glimpse of what lies beyond. 
+
+
+
+🔍 What would you like to do?
+
+
+
+1. Investigate the staircase.
+
+2. Examine the open door.
+
+3. Search for any clues in the entrance hall.
+
+4. Knock on the door to announce your arrival.
+
+5. Leave the mansion and never look back.
 
 ## Conversation
 
@@ -173,5 +200,4 @@ You step closer to the portraits, examining them for any hidden clues. The paint
 4. Take a picture of the portraits to analyze them later.
 
 5. Descend the staircase and return to the entrance hall.
-
 

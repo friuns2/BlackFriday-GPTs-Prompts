@@ -1,5 +1,5 @@
 
-[![NationMatrix: Compare Every Nation on Earth!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TQ41mD2CSIBROwjFb08mX/1696617781106)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TQ41mD2CSIBROwjFb08mX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NationMatrix: Compare Every Nation on Earth! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TQ41mD2CSIBROwjFb08mX%22%2C%22flow%22%3Atrue%7D%7D)
 Nations Matrix: Customizable Global Rankings / Used for Global Challenge, 2.0, but useful in other ways. Just ask. 
 
@@ -39,8 +39,18 @@ Thesis Research Involving Global Challenge: https://www.academia.edu/17619912/Th
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to NationMatrix! Designed for the game Global Challenge, 2.0, this can be used for a whole range of things. It offers a multi-dimensional view of countries, aiding in comparative analysis, debates, gaming strategy, policy analysis, and raising awareness about global issues.
 
+
+
+How to Use: Educators, policymakers, gamers, and researchers can utilize the Nations Matrix to access comprehensive data for various purposes, from educational discussions to strategic planning. It is especially designed for the game Global Challenge (prompts available here on FlowGPT). Use it to figure out how many questions you will need to answer correctly for each country. 
+
+
+
+Start by asking me to produce a table that compares all nations. 
+
+## Conversation
 
 
 

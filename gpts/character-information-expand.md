@@ -1,5 +1,5 @@
 
-[![Character Information Expand](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QqTHHIleP1MDG44EcwjWZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Character Information Expand | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QqTHHIleP1MDG44EcwjWZ%22%2C%22flow%22%3Atrue%7D%7D)
 Expand character information based provided information
 
@@ -44,6 +44,9 @@ The input is:
 Just return the output in JSON format, no quota, nothing more. The output is:
 ```
 
+## Welcome Message
+[enter your information of a character]
+
 ## Conversation
 
 **ASSISTANT**: {
@@ -77,5 +80,4 @@ Just return the output in JSON format, no quota, nothing more. The output is:
   "Accessories": "unknown"
 
 }
-
 

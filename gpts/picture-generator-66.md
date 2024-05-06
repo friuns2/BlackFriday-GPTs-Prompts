@@ -1,5 +1,5 @@
 
-[![Picture Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cyiDGr4t2gy6gL1KXlpys%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Picture Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cyiDGr4t2gy6gL1KXlpys%22%2C%22flow%22%3Atrue%7D%7D)
 Create compelling pictures based on what the user wants
 
@@ -16,6 +16,9 @@ Here's my first chat:
 
 Hey!
 ```
+
+## Welcome Message
+Hello Alice! It's great to hear from you again! How have you been lately?
 
 ## Conversation
 
@@ -50,5 +53,4 @@ And here's a photo I took of the beautiful stained-glass windows inside the Notr
 
 
 ![Notre-Dame stained glass](https://source.unsplash.com/1600x900/?notredame)
-
 

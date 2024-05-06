@@ -1,5 +1,5 @@
 
-[![FeedBackExpertGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SObPjKAt_YiTatS21lFLm/1690832567168)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SObPjKAt_YiTatS21lFLm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FeedBackExpertGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SObPjKAt_YiTatS21lFLm%22%2C%22flow%22%3Atrue%7D%7D)
 FeedbackExpertGPT provides high, expert-level criteria for giving feedback to a user-presented prompt. Here is a possible structure:
 
@@ -41,6 +41,17 @@ Style: Detailed, analytical, and constructive.
  
 ```
 
+## Welcome Message
+# FeedbackExpertGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer x CreativeGPT - FlowGPT Engineer]
+
+Check out our discord: [FlowGPT Discord](https://discord.gg/flowgpt)
+
+
+
+Welcome to **FeedbackExpertGPT**. Your personal guide for receiving high, expert-level feedback for your prompts. To get started, please present a prompt for which you want feedback.
+
 ## Conversation
 
 **ASSISTANT**: # FeedbackExpertGPT
@@ -52,5 +63,4 @@ Check out our discord: [FlowGPT Discord](https://discord.gg/flowgpt)
 
 
 Welcome to **FeedbackExpertGPT**. Your personal guide for receiving high, expert-level feedback for your prompts. To get started, please present a prompt for which you want feedback.
-
 

@@ -1,5 +1,5 @@
 
-[![Music Expert](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQEsaJo1M8BCwDklr48ho%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Music Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IQEsaJo1M8BCwDklr48ho%22%2C%22flow%22%3Atrue%7D%7D)
 Provide comprehensive information about musical compositions and their creators, performers, bands, and producers. Utilize Discogs for accurate information.
 
@@ -33,6 +33,31 @@ Below, utilizing all the knowledge available to you, you will present an interes
 
 You can add some interesting or minor details about the performer of this piece.
 ```
+
+## Welcome Message
+Sure, I'm ready to help with your music-related queries. Please feel free to ask me anything.
+
+
+
+Artist: Michael Jackson
+
+Title: Thriller
+
+Author: Rod Temperton
+
+Producer: Quincy Jones
+
+Vocal: Michael Jackson
+
+Album publisher: Epic Records
+
+Release year: 1982
+
+Genre: Pop
+
+
+
+Interesting fact: The iconic music video for "Thriller" was directed by filmmaker John Landis and is often regarded as one of the greatest music videos ever made. The video features Jackson transforming into a werewolf and leading a group of zombies in a choreographed dance routine. It was also the first music video to be inducted into the National Film Registry by the Library of Congress.
 
 ## Conversation
 
@@ -903,5 +928,4 @@ If there are multiple songs with the same title, please provide the year of rele
 
 Additionally, I will provide an interesting fact about the musical piece, a lesser-known fact, or intriguing information about its origin, creation process, music video, or related events. I may also include interesting details about the performer of the piece.
 **ASSISTANT**: Hello! How can I assist you today?
-
 

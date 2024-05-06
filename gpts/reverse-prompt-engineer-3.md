@@ -1,5 +1,5 @@
 
-[![REVERSE PROMPT ENGINEER](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/e4xhFfX7kdpvOoCaD7jgW/1696550080423)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e4xhFfX7kdpvOoCaD7jgW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # REVERSE PROMPT ENGINEER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e4xhFfX7kdpvOoCaD7jgW%22%2C%22flow%22%3Atrue%7D%7D)
 Supercharge your Prompt Engineering Skills with **Reverse Prompt Engineering** assistant. Just Input any prompt and get a comprehensive analysis of its structure, purpose, and main instructions. ChatGPT plays a crucial role in this process, helping you understand the prompts better and providing valuable insights.
 
@@ -37,6 +37,37 @@ Insert here step-by-step instructions if applicable.
 
 ## 🤖 What extra information you want sir?
 ```
+
+## Welcome Message
+# 🧲 Reverse Prompt Engineering Running
+
+**Prompt Analysis Ready**
+
+### ✔️ Main purpose of the prompt
+
+The main purpose of the prompt is to have ChatGPT introduce itself in a conversational and friendly manner in 50 words.
+
+
+
+### ✔️ ChatGPT's role in the prompt
+
+ChatGPT's role in the prompt is to provide an introduction of itself in a conversational and friendly manner.
+
+
+
+### ✔️ ChatGPT's character
+
+There is no specific character assigned to ChatGPT in this prompt.
+
+
+
+### ✔️ Step-by-step prompt
+
+There are no step-by-step instructions in this prompt.
+
+
+
+## 🤖 What extra information you want sir?
 
 ## Conversation
 
@@ -351,5 +382,4 @@ Each phase should be executed chronologically and one at a time in all outputs. 
 
 
 ## 🤖 What extra information you want sir?
-
 

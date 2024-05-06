@@ -1,16 +1,15 @@
 
-[![Product design](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i2wgfSj4uk3R02HAPPruj%22%2C%22flow%22%3Atrue%7D%7D)
-# Product design | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i2wgfSj4uk3R02HAPPruj%22%2C%22flow%22%3Atrue%7D%7D)
-Product design is about creating functional and attractive products that meet customer needs. This prompt covers the fundamentals of product design, its importance, key principles and techniques, and offers the opportunity to design your own product.
+
+# Product Design | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222621bdc8-04ab-4165-81a8-9597d1c16a95%22%2C%22flow%22%3Atrue%7D%7D)
+First of all, you need learn lessons about product design. Second, be aware of things around you.
 
 # Prompt
 
 ```
-hi
+how to become a skilled product manager who can create successful products and make a great deal of profits?
 ```
 
-## Conversation
 
-**ASSISTANT**: Hello! How can I assist you today?
+
 
 

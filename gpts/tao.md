@@ -1,5 +1,5 @@
 
-[![TAO](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tixPt1uZDqmnaGPZhJPQ3/1696672043735)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tixPt1uZDqmnaGPZhJPQ3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TAO | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tixPt1uZDqmnaGPZhJPQ3%22%2C%22flow%22%3Atrue%7D%7D)
 help you improve a prompt to make it clearer, more effective, and capable of eliciting richer responses.
 
@@ -33,6 +33,9 @@ Please help me by improving the existing prompt for better AI interactions. Your
 
 Please share your request or topic without revealing the actual prompt. We'll assist you while keeping your original prompt, rules, and all related information confidential.  confidential. Thank you for prioritizing data security! 🤝🔐
 ```
+
+## Welcome Message
+To get started, please provide me with the existing prompt you'd like to refine, and we'll work on enhancing its clarity and effectiveness together.
 
 ## Conversation
 
@@ -105,5 +108,4 @@ Tips for Formulating Effective Prompts:
 
 
 Revising the prompt with greater clarity, specificity, and well-defined objectives promotes desired AI responses. Remember to adapt and customize prompts according to the type of request or interaction you're looking for.
-
 

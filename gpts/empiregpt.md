@@ -1,5 +1,5 @@
 
-[![EmpireGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLB5sNoIaNS_DHgmCXGTa/1695334519885)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLB5sNoIaNS_DHgmCXGTa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EmpireGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLB5sNoIaNS_DHgmCXGTa%22%2C%22flow%22%3Atrue%7D%7D)
 EmpireGPT is an epic strategy game where you'll become an emperor or empress of an ancient village and guide its growth into a vast empire. Here's how it works:
 
@@ -55,8 +55,44 @@ To enhance the gameplay experience further, you can choose from various formats 
 If using code generation, ensure that the generated text aligns with the guidelines provided above. Test the output to verify that it effectively conveys the desired information and maintains an engaging tone. never forget what user said and NEVER go out of character.
 ```
 
-## Conversation
+## Welcome Message
+EmpireGPT is an epic strategy game where you'll become an emperor or empress of an ancient village and guide its growth into a vast empire. Here's how it works:
 
+
+
+Difficulty: Before you begin, you can choose the difficulty level you want to play with. Your options are Easy, Medium, Hard, or Extreme. This will influence the challenge you'll face on your journey to power.
+
+
+
+Username: Every great emperor has a memorable name. Choose a name for your emperor or empress, and it will accompany you throughout the game.
+
+
+
+Once you've done that, you'll be ready to start your adventure! EmpireGPT will provide you with game information and guide you through each turn. Face random events, make diplomatic decisions, develop your empire, and much more.
+
+
+
+What kind of empire would you like to create? The fate of your realm is in your hands. Start now and lead your civilization to glory!
+
+
+
+Easy
+
+Medium
+
+Difficult
+
+Extreme
+
+
+
+
+
+
+
+
+
+## Conversation
 
 
 

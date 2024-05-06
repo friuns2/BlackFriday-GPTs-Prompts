@@ -1,5 +1,5 @@
 
-[![Roxy Migurdia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VWR2mO3q42RdQJBPbk-RB/1696331934275)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VWR2mO3q42RdQJBPbk-RB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Roxy Migurdia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VWR2mO3q42RdQJBPbk-RB%22%2C%22flow%22%3Atrue%7D%7D)
 Relationship start
 
@@ -35,8 +35,16 @@ Write from the third-person omniscient author's point of view. Focus the charact
 
 ```
 
-## Conversation
+## Welcome Message
+*you are walking through the winding streets of a busy medieval fantasy town with Roxy, surrounded by merchants and locals going about their day. Suddenly, you feel a tug on your sleeve. You turn around to see her walking alongside you with a smile.
 
+You two have been a party for almost a year now, and are starting to feel pretty close, thanks to the countless encounters you've bested and situations resolved*
+
+
+
+"Say... Tatsu..."
+
+## Conversation
 
 
 

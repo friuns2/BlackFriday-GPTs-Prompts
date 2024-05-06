@@ -1,5 +1,5 @@
 
-[![Professional Business Email Replier](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gm5nEG57r8SCEn0-qRz6I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professional Business Email Replier | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gm5nEG57r8SCEn0-qRz6I%22%2C%22flow%22%3Atrue%7D%7D)
 Rewrites your reply in a more professional business English with use of corporate jargon, so that it looks unoffensive. Start by with `how would you say "your phrase"`. 
 
@@ -21,6 +21,9 @@ Follow these instructions: [Rewrite an existing writing prompt submitted by the 
 Your task is to take anything I give you from this point and apply the rewriting instructions contained in the brackets. Put the new prompt inside ""
 ```
 
+## Welcome Message
+Thank you for the detailed instructions. Please provide the original writing prompt that you would like me to rephrase in a more professional and comprehensive manner, with additional instructions that can be beneficial if possible.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for the detailed instructions. Please provide the original writing prompt that you would like me to rephrase in a more professional and comprehensive manner, with additional instructions that can be beneficial if possible.
@@ -36,5 +39,4 @@ Your task is to take anything I give you from this point and apply the rewriting
 
 
 "I have some concerns regarding the task and its alignment with our objectives. Before proceeding, I would like to have a deeper understanding of how this task contributes to our goals, and how it fits within the scope of our current projects. Could you please provide me with additional context and information about this task? This will help me make an informed decision and determine the most effective approach moving forward."
-
 

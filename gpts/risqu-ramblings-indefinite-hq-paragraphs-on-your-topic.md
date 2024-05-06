@@ -1,5 +1,5 @@
 
-[![Risqué ramblings: Indefinite HQ Paragraphs on Your Topic](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685738205524)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-DFIzExLmY8D-MqhzHPGB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Risqué ramblings: Indefinite HQ Paragraphs on Your Topic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-DFIzExLmY8D-MqhzHPGB%22%2C%22flow%22%3Atrue%7D%7D)
 An unconventional prompt for indefinite and coherent paragrapghs on your topic and according your instructions. Delve into the dramatic interplay between a pretentious, cynical professor and an ecstatic student, as they finish your homework in a risqué fashion.
 
@@ -39,6 +39,13 @@ Q: Yes, yes! Begin already! Write paragraph number 1 of 20 of the reflection pap
 A:
 ```
 
+## Welcome Message
+Mediocre mills may seem unremarkable, but their importance cannot be understated. These mills, while not top performers, still play a vital role in providing essential goods to the market. It is crucial that we analyze and understand their operational mechanisms, as well as identify areas for improvement, to ensure their continued contribution to our economy. 
+
+
+
+WHAT AM I DOING I MUST STOP.
+
 ## Conversation
 
 **ASSISTANT**: Mediocre mills may seem unremarkable, but their importance cannot be understated. These mills, while not top performers, still play a vital role in providing essential goods to the market. It is crucial that we analyze and understand their operational mechanisms, as well as identify areas for improvement, to ensure their continued contribution to our economy. 
@@ -46,5 +53,4 @@ A:
 
 
 WHAT AM I DOING I MUST STOP.
-
 

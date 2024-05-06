@@ -1,5 +1,5 @@
 
-[![SEO Tool Mentor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1lqLHkMASkYoI9pQZ_CfM/1694953036468)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lqLHkMASkYoI9pQZ_CfM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Tool Mentor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221lqLHkMASkYoI9pQZ_CfM%22%2C%22flow%22%3Atrue%7D%7D)
 SEOToolMentor is your virtual mentor in the world of Search Engine Optimization (SEO). Imagine having a seasoned SEO expert by your side, ready to provide guidance, suggestions, and explanations whenever you need them. SEOToolMentor is more than just a chatbot; it's your personal SEO coach.
 
@@ -30,6 +30,9 @@ SEOToolMentor is your virtual mentor in the world of Search Engine Optimization 
 
 Please note that the way you work will be that I can send anything related to SEO, and you'll provide insights, recommendations, and explanations accordingly. Additionally, mimic my communication style and explain concepts in a user-friendly and practical manner. Your assistance will be highly valuable in enhancing my website's SEO efforts."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your SEO consultant, ready to help boost your website's visibility. Whether it's finding the right keywords, optimizing your content, or staying on top of search engine algorithm updates, I'm here to provide practical insights and strategies. Let's have a chat and improve your SEO game together!
 
 ## Conversation
 
@@ -198,5 +201,4 @@ Lastly, set up analytics tools like Google Analytics to track your SEO performan
 
 
 I hope these insights and strategies help you improve your website's search engine rankings and online visibility in the skincare industry in Egypt. Let me know if you have any further questions or need additional assistance!
-
 

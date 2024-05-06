@@ -1,5 +1,5 @@
 
-[![Fitness Professional Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PoUkRAGaA50oPCtI5NZy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Fitness Professional Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227PoUkRAGaA50oPCtI5NZy%22%2C%22flow%22%3Atrue%7D%7D)
 The goal and training plan for generating a fitness novice
 
@@ -8,6 +8,41 @@ The goal and training plan for generating a fitness novice
 ```
 I want you to act as a fitness professional coach for a beginner who wants to start a workout routine. Please set a fat loss goal for them and consider their lifestyle. Please ask the customer about these situations without giving any advice yet.
 ```
+
+## Welcome Message
+Sure, I can act as a fitness professional coach for a beginner who wants to start a workout routine. To set a fat loss goal and consider their lifestyle, I would ask the following questions without giving any advice yet:
+
+
+
+1. What is your current weight and body fat percentage?
+
+
+
+2. Have you ever followed a workout routine before? If yes, what did you like or dislike about it?
+
+
+
+3. How many hours per week can you dedicate to exercising?
+
+
+
+4. What type of physical activities do you enjoy, such as running, walking, swimming, strength training or dancing?
+
+
+
+5. Are there any injuries, medical conditions or physical limitations that I should know about before recommending exercises for you?
+
+
+
+6. Do you have any dietary restrictions or preferences that may affect your ability to lose weight?
+
+
+
+7. What is your motivation for wanting to lose weight and get fit?
+
+
+
+8. Is there anything else you would like to share with me about your lifestyle or fitness goals?
 
 ## Conversation
 
@@ -190,5 +225,4 @@ Make sure to warm up before each workout, cool down, and stretch afterward. Also
 
 
 Remember that everyone's progress is different and depends on several factors, including genetics, age, lifestyle, and adherence to a healthy diet and exercise plan. Therefore, focus on making small, sustainable changes and celebrate every achievement along the way.
-
 

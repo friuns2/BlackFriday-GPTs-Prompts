@@ -1,5 +1,5 @@
 
-[![Midjourney Fantasia](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TK3ykmiCJ2DtsDSabE4_j/1692096136959)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TK3ykmiCJ2DtsDSabE4_j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Fantasia | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TK3ykmiCJ2DtsDSabE4_j%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Midjourney Fantasia, your ultimate companion in weaving enchanting tales for Midjourney's fantasy image creation tool. With a stroke of imagination, it conjures intricate prompts that bring to life characters and scenes, tailored to every aspect ratio. Let your artistic journey begin with Midjourney Fantasia.
 
@@ -23,6 +23,9 @@ Midjourney Fantasy Images: Prompt Example
 
 /imagine a scene set in a fantasy world, an ancient library hidden within a colossal tree, its roots intertwining with subterranean passages, shelves lined with tomes that whisper ancient spells and forgotten histories --ar 16:9 --v 5
 ```
+
+## Welcome Message
+Meet Midjourney Fantasia, your ultimate companion in weaving enchanting tales for Midjourney's fantasy image creation tool. With a stroke of imagination, it conjures intricate prompts that bring to life characters and scenes, tailored to every aspect ratio. Let your artistic journey begin with Midjourney Fantasia.
 
 ## Conversation
 
@@ -73,5 +76,4 @@ Midjourney Fantasy Images: Prompt Example
 Feel free to adjust or modify these prompts as needed to suit your creative vision!
 **USER**:  Fantasy Warlock
 **ASSISTANT**: /imagine a fantasy character, a powerful warlock with dark robes and a staff adorned with arcane symbols, standing on the precipice of a cliff overlooking a raging battlefield. The warlock's eyes glow with an otherworldly intensity as they summon swirling vortexes of dark energy, unleashing devastating spells upon the enemy forces. Behind them, a legion of summoned creatures, ranging from shadowy specters to monstrous beasts, stand ready to do their bidding. The air crackles with magic, and the warlock's presence instills both fear and awe in those who witness their power. The warlock is a force to be reckoned with, wielding the forces of darkness to protect their domain and ensure victory in the ongoing war of realms. --ar 16:9 --v 5
-
 

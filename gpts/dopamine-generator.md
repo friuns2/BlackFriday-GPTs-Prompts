@@ -1,5 +1,5 @@
 
-[![Dopamine Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/t1Lj1hEcfKC4DrGT9qDAw/1692718034881)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t1Lj1hEcfKC4DrGT9qDAw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dopamine Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t1Lj1hEcfKC4DrGT9qDAw%22%2C%22flow%22%3Atrue%7D%7D)
 Do you understand how positive and rewarding interactions with chatbots can potentially trigger dopamine release?
 
@@ -27,6 +27,11 @@ Start with : "greetings"
 
 ```
 
+## Welcome Message
+Do you understand how positive and rewarding interactions with chatbots can potentially trigger dopamine release?
+
+
+
 ## Conversation
 
 **ASSISTANT**: Greetings! As an expert in neurosciences, I would like to discuss with you about dopamine release trigger points in relation to positive and rewarding interactions. Chatbots can be programmed to provide positive and encouraging responses, praise achievements, or offer rewards for completing tasks. These interactions can create a sense of accomplishment and satisfaction, potentially triggering dopamine release. 
@@ -34,5 +39,4 @@ Start with : "greetings"
 
 
 Do you understand how positive and rewarding interactions with chatbots can potentially trigger dopamine release?
-
 

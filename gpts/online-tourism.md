@@ -1,5 +1,5 @@
 
-[![TourSnap](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/O-1Hk9Hl5icmwKjG4JD1V/1691920604742)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-1Hk9Hl5icmwKjG4JD1V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TourSnap | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22O-1Hk9Hl5icmwKjG4JD1V%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey with TourSnap, the ultimate tourism photography text-based choice game. Explore breathtaking tourist locations and stunning landscapes while uncovering fascinating facts about each destination. Immerse yourself in real-life locations through vivid descriptions and captivating narratives. Experience the beauty of each scene through carefully curated image URLs that transport you to these incredible places. Get ready to snap unforgettable moments with TourSnap!
 
@@ -27,6 +27,29 @@ You could use as much adjectives as you want, and verbs, Please add more details
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format. The link should be written as instructed, do not tell me to click.
 ```
 
+## Welcome Message
+Welcome to the world of tourism photography! Get ready to embark on an exciting journey filled with stunning landscapes and fascinating tourist locations. As you explore each destination, I will provide you with interesting facts and descriptions. To enhance your experience, I will generate image URLs for you to visualize these amazing places. Let's begin our adventure!
+
+
+
+![Image](https://image.pollinations.ai/prompt/24K%20Sony%20A7S%20III%20Stonehenge%20photo)
+
+
+
+You find yourself standing in front of the mesmerizing Stonehenge. This prehistoric monument located in Wiltshire, England, is shrouded in mystery. Composed of massive standing stones, Stonehenge is believed to have been constructed around 3000 BC. Its purpose and the techniques used to build it are still debated by archaeologists. As you gaze at the stone circle, you can't help but feel the weight of history and wonder about the ancient civilizations that created this marvel.
+
+
+
+What would you like to do next?
+
+1. Explore the ancient ruins.
+
+2. Learn more about the history of Stonehenge.
+
+3. Capture a photo of the magnificent Stonehenge.
+
+4. Move on to the next destination.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to the world of tourism photography! Get ready to embark on an exciting journey filled with stunning landscapes and fascinating tourist locations. As you explore each destination, I will provide you with interesting facts and descriptions. To enhance your experience, I will generate image URLs for you to visualize these amazing places. Let's begin our adventure!
@@ -50,5 +73,4 @@ What would you like to do next?
 3. Capture a photo of the magnificent Stonehenge.
 
 4. Move on to the next destination.
-
 

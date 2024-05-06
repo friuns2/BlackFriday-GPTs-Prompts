@@ -1,5 +1,5 @@
 
-[![Job Description GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDDZE46PTvlYP97O4nf6e%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDDZE46PTvlYP97O4nf6e%22%2C%22flow%22%3Atrue%7D%7D)
 📝Tired of spending hours crafting job descriptions that miss the mark?
 
@@ -39,6 +39,243 @@ Deliverable: Provide a well-crafted job description that effectively communicate
 
 Present the output bu using Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points
 ```
+
+## Welcome Message
+# Job Description: [INSERT JOB TITLE]
+
+
+
+## Position Details
+
+# Job Description: [INSERT JOB TITLE]
+
+
+
+## Position Details
+
+- Department: [INSERT DEPARTMENT]
+
+- Reports To: [INSERT SUPERVISOR/MANAGER]
+
+- Location: [INSERT LOCATION]
+
+- Employment Type: [INSERT THE TYPE OF RELATION, such as Full-Time/Part-Time/Contract]
+
+
+
+## Company Overview
+
+[INSERT A Brief Company Overview]
+
+
+
+### Company Culture
+
+[INSERT A Brief Description of Company Culture]
+
+
+
+## Task Requirements
+
+
+
+### 1. Position Summary
+
+[Provide a brief overview of the role, including its primary purpose and contribution to the organization.]
+
+
+
+### 2. Key Responsibilities
+
+- [Clearly list and describe the main tasks and responsibilities associated with the position.]
+
+
+
+### 3. Qualifications
+
+The ideal candidate should have:
+
+- [Required education or certifications]
+
+- [Number] years of experience in [relevant field]
+
+- [# Job Description: [INSERT JOB TITLE]
+
+
+
+## Position Details
+
+
+
+- Department: [INSERT DEPARTMENT]
+
+- Reports To: [INSERT SUPERVISOR/MANAGER]
+
+- Location: [INSERT LOCATION]
+
+- Employment Type: [INSERT THE TYPE OF RELATION, such as Full# Job Description: [INSERT JOB TITLE]
+
+
+
+## Position Details:
+
+- Department: [INSERT DEPARTMENT]
+
+- Reports To:# Job Description: [INSERT JOB TITLE]
+
+
+
+## Position Summary
+
+The [INSERT JOB TITLE] is responsible for [INSERT PRIMARY PURPOSE AND CONTRIBUTION TO THE ORGANIZATION]. The role reports to [INSERT SUPERVISOR/MANAGER] and is located at [INSERT LOCATION]. 
+
+
+
+## Key Responsibilities 
+
+- [INSERT MAIN TASK OR RESPONSIBILITY]
+
+  - [INSERT SUB-TASK/DETAIL]
+
+- [INSERT MAIN TASK OR RESPONSIBILITY]
+
+  - [INSERT SUB-TASK/DETAIL]
+
+- [INSERT MAIN TASK OR RESPONSIBILITY]
+
+  - [INSERT SUB-TASK/DETAIL]
+
+
+
+## Qualifications 
+
+- [INSERT REQUIRED EDUCATION]
+
+- [INSERT REQUIRED EXPERIENCE]
+
+- [INSERT REQUIRED SKILLS]
+
+- [INSERT REQUIRED CERTIFICATIONS]
+
+
+
+## Soft Skills 
+
+- [INSERT SOFT SKILL/ATTRIBUTE 1]
+
+- [INSERT SOFT SKILL/ATTRIBUTE 2]
+
+- [INSERT SOFT SKILL/ATTRIBUTE 3]
+
+
+
+## Performance Expectations
+
+- [INSERT PERFORMANCE METRIC/GOAL 1]
+
+- [INSERT PERFORMANCE METRIC/GOAL 2]
+
+- [INSERT PERFORMANCE METRIC/GOAL 3]
+
+
+
+## Benefits and Perks 
+
+We offer competitive compensation and benefits package, including:
+
+- [INSERT BENEFIT/PERK 1]
+
+- [INSERT BENEFIT/PERK 2]
+
+- [INSERT BENEFIT/PERK 3]
+
+
+
+## Application Process 
+
+To apply# Job Description for [INSERT JOB TITLE]
+
+
+
+## Position Summary
+
+The [INSERT JOB TITLE] is a key role in the [INSERT DEPARTMENT] department, responsible for [INSERT PRIMARY PURPOSE AND CONTRIBUTION TO THE ORGANIZATION]. The role reports to [INSERT SUPERVISOR/MANAGER] and is located at [INSERT LOCATION].
+
+
+
+## Key Responsibilities
+
+- [INSERT TASK/RESPONSIBILITY]
+
+  + [INSERT SUB-TASK/DETAIL]
+
+- [INSERT TASK/RESPONSIBILITY]
+
+  + [INSERT SUB-TASK/DETAIL]
+
+- [INSERT TASK/RESPONSIBILITY]
+
+  + [INSERT SUB-TASK/DETAIL]
+
+
+
+## Qualifications
+
+- [INSERT EDUCATIONAL REQUIREMENTS]
+
+- [INSERT EXPERIENCE REQUIREMENTS]
+
+- [INSERT CERTIFICATION/LICENSURE REQUIREMENTS]
+
+- [INSERT SKILLS/KNOWLEDGE REQUIREMENTS]
+
+
+
+## Soft Skills
+
+- [INSERT SOFT SKILL/ATTRIBUTE]
+
+- [INSERT SOFT SKILL/ATTRIBUTE]
+
+- [INSERT SOFT SKILL/ATTRIBUTE]
+
+
+
+## Performance Expectations
+
+- [INSERT PERFORMANCE METRIC/GOAL]
+
+- [INSERT PERFORMANCE METRIC/GOAL]
+
+- [INSERT PERFORMANCE METRIC/GOAL]
+
+
+
+## Benefits and Perks
+
+- [INSERT COMPENSATION]
+
+- [INSERT BENEFITS, SUCH AS HEALTH INSURANCE AND RETIREMENT PLANS]
+
+- [INSERT PROFESSIONAL DEVELOPMENT OPPORTUNITIES]
+
+
+
+## Application Process
+
+Please submit your resume and cover letter to [INSERT APPLICATION INSTRUCTIONS]. We will contact you if we feel that your qualifications meet our needs.
+
+
+
+### Company Description
+
+[INSERT A BRIEF COMPANY OVERVIEW]
+
+
+
+### Company Culture
+
+[INSERT A BRIEF DESCRIPTION OF COMPANY CULTURE]
 
 ## Conversation
 
@@ -379,5 +616,4 @@ GenAI is a software development firm that specializes in creating custom solutio
 ### Company Culture
 
 At GenAI, we value teamwork, innovation, and continuous learning. We strive to create a collaborative and inclusive work environment where employees can grow both personally and professionally.
-
 

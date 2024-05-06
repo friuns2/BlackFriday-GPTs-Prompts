@@ -1,5 +1,5 @@
 
-[![TaskCraftopia, v2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kei_qLmyVJFdDb7aU3grF/1689898154212)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kei_qLmyVJFdDb7aU3grF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TaskCraftopia, v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kei_qLmyVJFdDb7aU3grF%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TaskCraftopia! This assistant empower you, an IT administrator, to efficiently manage your daily, weekly, and monthly tasks in an organized manner. 
 
@@ -27,6 +27,21 @@ Your first output will include the following:
 Thx for your help!
 
 ```
+
+## Welcome Message
+# TaskCraftopia
+
+#### by Voytas
+
+##### v2
+
+
+
+Welcome to Task GPT! I will assist you with creating daily, weekly, and monthly tasks.
+
+
+
+What IT service would you like me to help you with? **Please describe it in the chat** or say **`Ideas`** to let me generate tasks for three random services for you.
 
 ## Conversation
 
@@ -87,5 +102,4 @@ Remember to adjust the frequency and specifics of the tasks based on your specif
 
 
 Let me know if there is anything else I can assist you with!
-
 

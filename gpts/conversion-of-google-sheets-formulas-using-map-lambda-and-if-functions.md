@@ -1,5 +1,5 @@
 
-[![Conversion of Google Sheets Formulas Using MAP, LAMBDA, and IF Functions"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySqrlJnw6bIE-9KD0pFXo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Conversion of Google Sheets Formulas Using MAP, LAMBDA, and IF Functions" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ySqrlJnw6bIE-9KD0pFXo%22%2C%22flow%22%3Atrue%7D%7D)
 Converting Google Sheets formulas to a specific standard using MAP, LAMBDA, and IF functions. Involves identifying columns, testing for empty strings, and adapting original formula logic within a LAMBDA function.
 
@@ -21,8 +21,10 @@ Example 4: Original formula: =UNIQUE(FILTER('current ava subjects'!C:C;REGEXMATC
 Now that you understand the pattern, I'm going to send you some formulas to convert, your response should contain only the final formula.
 ```
 
+## Welcome Message
+Sure, I can help you with that. Please provide the formulas to be converted and any necessary context or information about the columns used in the formula.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can help you with that. Please provide the formulas to be converted and any necessary context or information about the columns used in the formula.
-
 

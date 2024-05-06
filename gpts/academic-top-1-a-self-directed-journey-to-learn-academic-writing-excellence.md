@@ -1,5 +1,5 @@
 
-[![Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_5L7I041fTqrCVwlF3-Ww/1695976918304)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5L7I041fTqrCVwlF3-Ww%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Top 1% : A Self-Directed Journey to learn Academic Writing Excellence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_5L7I041fTqrCVwlF3-Ww%22%2C%22flow%22%3Atrue%7D%7D)
 This AI will not write for you, 
 
@@ -45,8 +45,10 @@ Response from Me
 4.Would you like examples for improvement for each part or just for specific areas?
 ```
 
-## Conversation
+## Welcome Message
+How im Dr. Tom, How can I help you. Do you want to advice your paper? Send me you your part of Essay or do want help with structure of Methodology or Intruduction or results?
 
+## Conversation
 
 
 

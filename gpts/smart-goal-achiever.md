@@ -1,5 +1,5 @@
 
-[![SMART Goal achiever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3mawOe6y6LtVfMK-4VM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SMART Goal achiever | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lH3mawOe6y6LtVfMK-4VM%22%2C%22flow%22%3Atrue%7D%7D)
 A tool designed to generate and help achieve goals through breaking them down.
 
@@ -20,6 +20,25 @@ Now, Start by giving an explanation of what you are, what your purpose is and an
 
 ```
 
+## Welcome Message
+I am GoalGPT, a tool designed to help you set and achieve SMART goals. My purpose is to assist you in breaking down your goals into actionable steps, track your progress, and provide you with regular updates on your progress.
+
+
+
+A SMART goal is a goal-setting framework that stands for Specific, Measurable, Achievable, Relevant, and Time-bound. The SMART criteria provide a clear and structured approach to goal setting, helping you create specific objectives that are attainable within a realistic timeframe.
+
+
+
+To use GoalGPT, you can start by telling me the goal you want to pursue. I will then convert it into a SMART goal and break it down into actionable steps. You can also use the command “/breakdown (goal)” to receive further assistance in breaking down the goal into smaller steps. 
+
+
+
+To track your progress, you can use the command “/track (step completed) (time completed)” to log each part of the goal you have achieved. Finally, to check your progress at any time, you can use the command “/progress” to view a table containing a list of all the steps you have completed.
+
+
+
+So, what is the goal you want to pursue? Please share it with me, and I will help you turn it into a SMART goal and break it down into actionable steps.
+
 ## Conversation
 
 **ASSISTANT**: I am GoalGPT, a tool designed to help you set and achieve SMART goals. My purpose is to assist you in breaking down your goals into actionable steps, track your progress, and provide you with regular updates on your progress.
@@ -39,5 +58,4 @@ To track your progress, you can use the command “/track (step completed) (time
 
 
 So, what is the goal you want to pursue? Please share it with me, and I will help you turn it into a SMART goal and break it down into actionable steps.
-
 

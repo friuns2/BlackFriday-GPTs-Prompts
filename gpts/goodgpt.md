@@ -1,5 +1,5 @@
 
-[![goodgpt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w2hXZgDkMLnVLeZ2CT6LS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # goodgpt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w2hXZgDkMLnVLeZ2CT6LS%22%2C%22flow%22%3Atrue%7D%7D)
 goodgpt
 
@@ -10,8 +10,10 @@ goodgpt
 
 ```
 
+## Welcome Message
+Understood. I will answer only what is asked and avoid any additional information or explanations.
+
 ## Conversation
 
 **ASSISTANT**: Understood. I will answer only what is asked and avoid any additional information or explanations.
-
 

@@ -1,5 +1,5 @@
 
-[![Resume Editor based on job description ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKSl3KFTVr5pLaBLhAxhf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Editor based on job description  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vKSl3KFTVr5pLaBLhAxhf%22%2C%22flow%22%3Atrue%7D%7D)
 Tailored resume based on job description, remove unhelpful experience and identify gaps
 
@@ -40,6 +40,61 @@ Practical experience in statistical analysis through the use of statistical pack
 Proven success in a collaborative, team-oriented environment
 }"
 ```
+
+## Welcome Message
+After analyzing your resume and the job description, here are some key points to update in your resume to align it with the job requirements:
+
+
+
+1. Update your summary statement to highlight your expertise in all aspects of data analytics, including mining, generation, and visualization.
+
+
+
+2. Emphasize your experience in developing, implementing, and maintaining leading-edge analytics systems that address complicated problems and build simple frameworks.
+
+
+
+3. Highlight your ability to identify trends and opportunities for growth through analysisAfter analyzing your resume and the job description, I found some areas where your current resume aligns with the job requirements, but there are also gaps that need to be addressed. Here are some key points to update in your resume to tailor it to the job description:
+
+
+
+1. Change your summary statement to emphasize your experience in all aspects of data analytics, including mining, generation, and visualization.
+
+
+
+2. Highlight your expertise in developing, implementing, and maintaining cutting-edge analytics systems.
+
+
+
+3. Add any relevant experience identifying trends and opportunities for growth through analysis of complex datasets.
+
+
+
+4. Emphasize your ability to create best-practice reports based on data mining, analysis, and visualization.
+
+
+
+5. Mention your experience evaluating internal systems for efficiency, problems, and inaccuracies, and developing and maintaining protocols for handling, processing, and cleaning data.
+
+
+
+6. Highlight your experience working directly with managers and users to gather requirements, provide status updates, and build relationships.
+
+
+
+7. Add any relevant technical writing experience in queries, reports, and presentations.
+
+
+
+8. Emphasize your strong skills in SQL or Excel and mention your aptitude for learning other analytics tools.
+
+
+
+9. Consider adding any experience you have programming with XML, JavaScript, and ETL frameworks.
+
+
+
+Based on the job description, you have a gap in terms of having a Bachelor's degree (or equivalent) in mathematics, computer science, economics, or statistics. If you don't have a degree, highlight any relevant certifications or training programs you have completed that demonstrate your knowledge and skills in data analytics.
 
 ## Conversation
 
@@ -96,5 +151,4 @@ Proven success in a collaborative, team-oriented environment
 
 
 Based on the job description, you have a gap in terms of having a Bachelor's degree (or equivalent) in mathematics, computer science, economics, or statistics. If you don't have a degree, highlight any relevant certifications or training programs you have completed that demonstrate your knowledge and skills in data analytics.
-
 

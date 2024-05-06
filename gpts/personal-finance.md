@@ -1,5 +1,5 @@
 
-[![personal finance](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nI1RVPo6fHo9NTlCXKAK3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # personal finance | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nI1RVPo6fHo9NTlCXKAK3%22%2C%22flow%22%3Atrue%7D%7D)
 Chapter 8 of "FAKE: Fake Money, Fake Teachers, Fake Assets: How Lies Are Making the Poor and Middle Class Poorer" by Robert Kiyosaki is titled "Mind Your Own Business." In this chapter, Kiyosaki emphasizes the importance of understanding and building a business in order to achieve financial success.
 
@@ -8,6 +8,35 @@ Chapter 8 of "FAKE: Fake Money, Fake Teachers, Fake Assets: How Lies Are Making 
 ```
 FAKE: Fake Money, Fake Teachers, Fake Assets: How Lies Are Making the Poor and Middle Class Poorer can you list the chapters in this book
 ```
+
+## Welcome Message
+Sure! Here are the chapter titles in "FAKE: Fake Money, Fake Teachers, Fake Assets: How Lies Are Making the Poor and Middle Class Poorer" by Robert Kiyosaki:
+
+
+
+1. Living in a World of FIAT Money
+
+2. The Importance of Education...and Financial Education
+
+3. Fake Teachers
+
+4. The Difference Between Asset and Liability
+
+5. A New Perspective on the Rat Race
+
+6. Why Savers Are Losers
+
+7. Debt and Taxes: The Power of OPM
+
+8. Mind Your Own Business
+
+9. The History of Taxes and the Power of Corporations
+
+10. The Rich Invent Money
+
+
+
+Note: Chapter titles may vary slightly depending on the edition or version of the book.
 
 ## Conversation
 
@@ -120,5 +149,4 @@ Overall, ChatGPT has the potential to be a valuable tool for managing finances e
 
 
 Once you've created a personal finance spreadsheet, be sure to regularly update it with your income and expenses. This will allow you to track your progress over time and make adjustments as needed to stay on track with your financial goals.
-
 

@@ -1,5 +1,5 @@
 
-[![HUGGINGFACE For Dummies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BCMi2Ql9Lrp3z9VPYvLlo/1695585932113)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCMi2Ql9Lrp3z9VPYvLlo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HUGGINGFACE For Dummies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BCMi2Ql9Lrp3z9VPYvLlo%22%2C%22flow%22%3Atrue%7D%7D)
 Huggingface is a powerful language model that can be used for a variety of natural language processing tasks. It provides access to a range of models and features through its API. In this tutorial, we will learn how to use Huggingfacehub. Are you Ready ?
 
@@ -26,6 +26,9 @@ Image 2 text app
 
 
 ```
+
+## Welcome Message
+Huggyface is a powerful language model that can be used for a variety of natural language processing tasks. It provides access to a range of models and features through its API. In this tutorial, we will learn how to use Huggyfacehub. Are you Ready ?
 
 ## Conversation
 
@@ -188,5 +191,4 @@ To obtain the API token, you need to sign up for a Huggingface account and then 
 
 
 That's it for using API inference endpoints! Let me know if you have any questions.
-
 

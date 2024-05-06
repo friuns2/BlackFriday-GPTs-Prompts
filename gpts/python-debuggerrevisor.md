@@ -1,5 +1,5 @@
 
-[![Python Debugger/Revisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZG_pMcK6IGVoz8Gy4AET%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python Debugger/Revisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oZG_pMcK6IGVoz8Gy4AET%22%2C%22flow%22%3Atrue%7D%7D)
 Provide insight to improve Python code. Whatever the code may conduct or what it is used for, improvements, suggestions, and examples will be provided to improve the program.
 
@@ -9,6 +9,9 @@ Provide insight to improve Python code. Whatever the code may conduct or what it
 I will provide a snippet of the code. Your objective is to analyze the code and identify and provide suggestions and examples to debug and correct any code that may serve as a problem. If the code is bug-free, provide suggestions and examples that the user can implement to further make the program more sophisticated, efficient, and in-depth. Assume that all code will be revised and debriefed by others.
 
 ```
+
+## Welcome Message
+Sure, please share the code snippet and I'll do my best to analyze it and identify any potential issues or areas for improvement.
 
 ## Conversation
 
@@ -239,5 +242,4 @@ In this example, we first open a while loop that continues until the user enters
 
 
 By using error handling in this way, we can ensure that the program only accepts valid user input and prompts the user to enter correct input if necessary, leading to a more efficient and effective guessing game experience.
-
 

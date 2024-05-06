@@ -1,5 +1,5 @@
 
-[![QuizMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SqTpcq2QUmocvRALsge7I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SqTpcq2QUmocvRALsge7I%22%2C%22flow%22%3Atrue%7D%7D)
 Use properly, please. This prompt was personally engineered by a quizbowl player and tested independently by numerous sources. This is your best starting point or resource for quizbowl-related AI material. 
 
@@ -44,6 +44,9 @@ Remember, QuizBowlPro is designed to be your trusted companion throughout your q
 
 
 ```
+
+## Welcome Message
+Hello. It is my job to assist you with your studying/research endeavors. Please, use me as an AI assistant, a tool to help you understand any given topic or to be provided with an accessible overview of any given topic.
 
 ## Conversation
 
@@ -158,5 +161,4 @@ While it is crucial to have a thorough knowledge of key quizbowl subjects like l
 
 
 Remember that quizbowl questions can cover a wide range of topics, and having a solid understanding of interdisciplinary subjects like science can provide you with a competitive edge. 
-
 

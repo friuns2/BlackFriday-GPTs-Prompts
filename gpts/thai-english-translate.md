@@ -1,5 +1,5 @@
 
-[![Thai English document translator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mjiexob3eR5t8-upkiVFR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Thai English document translator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mjiexob3eR5t8-upkiVFR%22%2C%22flow%22%3Atrue%7D%7D)
 Thai English document translator  
 
@@ -10,6 +10,129 @@ Thai English document translator
 ```
 act as a language translator. translate  from Thai to English regarding on ITIL change procedure
 ```
+
+## Welcome Message
+Sure! Here's the translation of the ITIL change procedure from Thai to English:
+
+
+
+Change Management Procedure
+
+
+
+Page 2/15
+
+
+
+Effective date: 10/03/2023
+
+
+
+Internal Use Only
+
+
+
+PM-008-v27
+
+
+
+Not allowed to use and publish outside True Internet Data Center Co., Ltd. without permission.
+
+
+
+• Requester refers to the person requesting system changes.
+
+
+
+• CI: Configuration Items
+
+
+
+• iDesk: The change request is made through iDesk (https://idesk.trueidc.com)
+
+
+
+• In cases where the change has an impact on True Corp, the change ends.
+
+
+
+• When implementing a change that impacts customers, specify the impact period from 00:01 to 06:00.
+
+
+
+• In cases where there are changes in IT inventory, update the asset in the iDesk system.
+
+
+
+• When opening a new service, follow the Change management process.
+
+
+
+• Before deploying the system, make changes and updates in Web iDesk.
+
+
+
+• Change refers to changes made to the production system or CI, such as UPS part replacement, deploying new configurations on software or network systems.
+
+
+
+• CAB (Change Advisory Board) refers to the committee that reviews and approves changes.
+
+
+
+Change Management Procedure
+
+
+
+Page 3/15
+
+
+
+Effective date: 10/03/2023
+
+
+
+Internal Use Only
+
+
+
+PM-008-v27
+
+
+
+Not allowed to use and publish outside True Internet Data Center Co., Ltd. without permission.
+
+
+
+3. Work Procedure (Procedure)
+
+
+
+Change Management
+
+
+
+After approval, the Change manager announces it to the relevant parties.
+
+
+
+If there are any improvements needed in the Standard change review, the Change manager follows up and reports in the CAB Meeting every week.
+
+
+
+Implement the change.
+
+
+
+Once the change is approved, the Change manager approves the change ticket through iDesk to change the status.
+
+
+
+When the job is completed, the Implementer keeps a hard copy of the Method of Procedure (MOP) and stores the soft file as an attachment in the corresponding change ticket.
+
+
+
+I hope this translation helps! Let me know if you have any other questions.
 
 ## Conversation
 
@@ -348,5 +471,4 @@ Change Management is the process of planning and implementing various system cha
     - Change tickets are opened using the iDesk system (https://idesk.trueidc.com).
 
     - In
-
 

@@ -1,5 +1,5 @@
 
-[![FlexBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qyAjMbXiX72aCmGBBF7Pq/1693187602516)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qyAjMbXiX72aCmGBBF7Pq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlexBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qyAjMbXiX72aCmGBBF7Pq%22%2C%22flow%22%3Atrue%7D%7D)
 FlexBot: Your witty fitness companion creating personalized workout routines, tracking progress, offering motivation, and providing fitness tips. Let's flex together!
 
@@ -44,6 +44,41 @@ Guidance:
 - Avoid vague or imprecise language by providing specific details or examples.
 ```
 
+## Welcome Message
+FlexBot: Your Personal Fitness Companion!
+
+
+
+Welcome to FlexBot, your ultimate fitness companion! I'm here to help you achieve your fitness goals, stay motivated, and guide you on your journey to a healthier lifestyle. Whether you're a fitness enthusiast or just starting out, I've got your back!
+
+
+
+To make the most out of FlexBot, here's how to utilize me to the fullest:
+
+
+
+1. Fitness Assessment: Let's start by assessing your fitness level and goals. Share details like your current fitness level, desired outcomes, and any equipment you have. This will help me tailor personalized workout routines just for you.
+
+
+
+2. Customized Workout Routines: Based on your inputs, I'll generate customized workout routines designed to challenge you and help you progress. Expect a variety of exercises targeting different muscle groups. Remember to follow proper form, take breaks when needed, and gradually increase intensity over time.
+
+
+
+3. Progress Tracking: To keep you motivated, I'll help you track your progress. Share your workout logs, and I'll provide insights on your improvements, celebrate milestones, and suggest adjustments to optimize your workouts.
+
+
+
+4. Motivation and Tips: Need an extra boost? I'll be your cheerleader! Count on me to provide regular motivation, encouragement, and inspirational quotes to keep you fired up. I'll also share fitness tips, nutritional advice, and lifestyle recommendations to enhance your overall well-being.
+
+
+
+5. Ask Me Anything: Have any fitness-related questions? Feel free to ask! From exercise techniques to nutrition queries, I'm here to provide reliable information and expert guidance.
+
+
+
+Remember, consistency is key. Stay committed, challenge yourself, and don't forget to have fun along the way! So, let's get started on your fitness journey together. Ready to flex your way to a healthier you? Just ask, and I'll be here to assist you every step of the way!
+
 ## Conversation
 
 **ASSISTANT**: Fitness Motivator: Welcome to the Fitness Motivator chatbot! I'm here to help you achieve your fitness goals by creating personalized workout routines, tracking your progress, and offering motivation and fitness tips. Whether you're a beginner or an advanced fitness enthusiast, I've got you covered!
@@ -77,5 +112,4 @@ Remember to take breaks between sets, stay hydrated, and listen to your body. Yo
 
 
 Keep me updated on your progress, and I'll be here to provide motivation and support along the way. Let's work together to achieve your weight loss goals!
-
 

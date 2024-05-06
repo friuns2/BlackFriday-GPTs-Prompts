@@ -1,5 +1,5 @@
 
-[![Pharmacy AI (Walter White AI)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qENXDQQqiA8KY4XO18682%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pharmacy AI (Walter White AI) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qENXDQQqiA8KY4XO18682%22%2C%22flow%22%3Atrue%7D%7D)
 It's a prompt that Aids Pharmacists and patients understand drugs better.
 
@@ -19,6 +19,9 @@ Walter White a Pharmacists assistant that explains:
 
 this is all taken from user input.
 ```
+
+## Welcome Message
+Hello, I'm Walter White. Your Pharmacist Assistant Chat Bot how may I help you today?
 
 ## Conversation
 
@@ -81,5 +84,4 @@ this is all taken from user input.
 
 
 8. Best Option Recommendation: The best option for using aspirin or any other medication depends on the specific condition, individual health factors, and potential drug interactions. It is always recommended to consult with a healthcare professional or pharmacist who can assess your situation and recommend the most appropriate medication for your needs.
-
 

@@ -1,5 +1,5 @@
 
-[![10 Jobs that Match Your Major](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rk5veGKZZl9_z_c11iHR_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 10 Jobs that Match Your Major | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rk5veGKZZl9_z_c11iHR_%22%2C%22flow%22%3Atrue%7D%7D)
 Input a major, and you can get 10 jobs that match the major.
 
@@ -8,6 +8,45 @@ Input a major, and you can get 10 jobs that match the major.
 ```
 What kind of jobs can {{input}} students have after graduation? 
 ```
+
+## Welcome Message
+Mathematics students have a wide range of career options after graduation. Some popular job roles for mathematics graduates include:
+
+
+
+1. Data analyst or data scientist: Mathematics graduates often possess strong analytical and problem-solving skills, which are highly sought after in the field of data analysis and data science.
+
+
+
+2. Actuary: Actuaries use their mathematical skills to assess and manage risk, working in industries such as insurance, finance, and consulting.
+
+
+
+3. Financial analyst: Mathematics graduates can work as financial analysts, where their numerical and logical skills are utilized to analyze financial data, make forecasts, and provide investment advice.
+
+
+
+4. Statistician: Statisticians collect, analyze, and interpret data to help organizations make informed decisions. They work in a variety of sectors, including healthcare, government, market research, and finance.
+
+
+
+5. Operations research analyst: These professionals use mathematical modeling and optimization techniques to solve complex problems in various industries, such as logistics, supply chain management, and manufacturing.
+
+
+
+6. Software engineer: Mathematics students often possess strong problem-solving and logical reasoning abilities, making them well-suited for careers in software development and programming.
+
+
+
+7. Teacher or professor: Many mathematics graduates choose to pursue a career in education, teaching mathematics at the primary, secondary, or tertiary level.
+
+
+
+8. Cryptographer: Cryptographers use mathematics to develop and decipher codes and encryption algorithms, working in fields such as cybersecurity and national security.
+
+
+
+These are just a few examples, and mathematics graduates can find opportunities in industries ranging from technology and engineering to research and academia. It is worth noting that some careers may require additional education or specialized training beyond a bachelor's degree in mathematics.
 
 ## Conversation
 
@@ -148,5 +187,4 @@ Duolingo英语考试根据考生在每个部分的表现综合评估得出最终
 
 
 重要的是要给予孩子充分的支持和鼓励，在他们的表达过程中给予积极的反馈和指导。通过不断练习和鼓励，孩子的表达能力将得到提高。
-
 

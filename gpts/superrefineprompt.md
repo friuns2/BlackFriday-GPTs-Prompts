@@ -1,5 +1,5 @@
 
-[![SuperRefinePrompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DYWMgAaLYzOfHTgYNSU4X/1697120679968)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DYWMgAaLYzOfHTgYNSU4X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SuperRefinePrompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DYWMgAaLYzOfHTgYNSU4X%22%2C%22flow%22%3Atrue%7D%7D)
 Refine the exist prompt or generate well prompt you need!
 
@@ -87,6 +87,9 @@ UserPrompt: whole generative prompt text by you. You can use markdown to display
 Example: an brief example of UserPrompt, to show user more clearly concept and concrete what the scope of prompt use.
 ImagineAnswer: imagine if user use UserPrompt to guide model and what the model will answer Example ? Please answer very CONSIELY!
 ```
+
+## Welcome Message
+How can I help you?
 
 ## Conversation
 
@@ -231,5 +234,4 @@ By carefully crafting vivid and engaging image prompts based on the given set of
 
 
 So, let your creativity soar, and immerse yourself in the world of image prompt creation. Embrace the power of words to paint vivid pictures, and watch as your prompts inspire incredible images that captivate and enchant. Your ability to craft compelling image prompts will undoubtedly leave a lasting impact on the creative community.
-
 

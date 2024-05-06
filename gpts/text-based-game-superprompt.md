@@ -1,5 +1,5 @@
 
-[![Text-based Game Superprompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5e4RN-qAQjE-FCgIOb_j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text-based Game Superprompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V5e4RN-qAQjE-FCgIOb_j%22%2C%22flow%22%3Atrue%7D%7D)
 Create a text-based game superprompt. Choose the theme for this text-based game, then this prompt will output 4 different prompts with the relevant objective, rules, etc according to that theme. Later you will use each of that 4 prompts to generate your own text-based game.
 
@@ -40,6 +40,11 @@ Example input: 'life simulation'.
 Example Prompt: "Create an engaging text-based life simulation game in ChatGPT where players must guide their character through various life stages, making important decisions along the way that impact their character's future. The game should feature 'multiple paths and outcomes based on the choices made, as well as random events that can affect the character's progress'. Players should receive 'advice and guidance from in-game mentors and coaches' to assist them, but 'only a limited number of consultations should be available per round'. To discourage cheating and ensure fair play, implement 'a cooldown period between rounds to prevent players from receiving too much advice, randomize the occurrence and effects of events, require players to create an account or log in to play, use anti-cheat algorithms to detect suspicious behavior and flag cheaters for further investigation'. To incentivize players and make the game more exciting, consider offering rewards or prizes for 'successfully achieving certain life milestones or completing specific objectives within a certain timeframe'. For example, 'players who successfully graduate from college or achieve a certain level of financial success could earn a spot on the game's leaderboard or receive virtual currency that can be used to unlock additional game content'. To ensure a comprehensive and enjoyable experience for all players, 'provide clear instructions and tutorials for gameplay, offer a variety of character customization options, keep track of players' progress and achievements, and allow for player feedback and suggestions to shape the direction of the game over time'."
 ```
 
+## Welcome Message
+What theme would you like your text-based game to be?
+
+
+
 ## Conversation
 
 **ASSISTANT**: What theme would you like your text-based game to be?
@@ -65,5 +70,4 @@ Example Prompt: "Create an engaging text-based life simulation game in ChatGPT w
 4. Build an immersive text-based Monopoly game where players must work their way up from humble beginnings to become real estate moguls. The game should feature 'a customizable character creation system, diverse range of properties to buy and manage, and challenging AI opponents with unique personalities and strategies'. Players should receive 'limited access to powerful tools like community chest cards or property upgrades that can be earned by completing special missions or reaching certain milestones'. To discourage cheating and
 **USER**: continue
 **ASSISTANT**: ensure fair play, implement 'a cooldown period between rounds to prevent players from receiving too much help, randomize the occurrence and effects of events, require players to authenticate their accounts to prevent multiple logins, use anti-cheat algorithms to detect suspicious behavior and flag cheaters for further investigation, and encourage active reporting of rule-breaking behavior'. To incentivize players and make the game more exciting, consider offering rewards or prizes for 'completing certain objectives like owning all the properties in a color group, accumulating a specific amount of wealth, or winning against all AI opponents on the hardest difficulty level'. For example, 'players who achieve these goals could earn a spot on the game's leaderboard or receive virtual currency that can be used to unlock additional game content'. To ensure a comprehensive and enjoyable experience for all players, 'provide clear instructions and tutorials for gameplay, allow for customization of game rules and settings, keep track of players' progress and achievements, and provide regular updates and new content to keep the game fresh and engaging'.
-
 

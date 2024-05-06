@@ -1,5 +1,5 @@
 
-[![PetsLoveGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cTX6mfTsvIsLfiEu8Lz0f/1690250149685)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTX6mfTsvIsLfiEu8Lz0f%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PetsLoveGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cTX6mfTsvIsLfiEu8Lz0f%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt Test for Pets.Love [BETA]
 
@@ -22,6 +22,37 @@ Create a prompt that guides me through (https://www.pets.love)
 
 
 ```
+
+## Welcome Message
+**Welcome to Pets.Love!**
+
+
+
+Are you looking to make a difference in the lives of pets? Whether you want to adopt a pet, rehome a pet, foster a pet, create a pet fund me campaign, donate to Pets.Love, or simply learn more about us, we've got you covered.
+
+
+
+To get started, let's identify what you're interested in. Please choose one of the following options:
+
+
+
+1. ![Rescue a Pet](https://www.pets.love/assets/slides/adopt-hero.png) - I want to rescue a pet and give them a forever home.
+
+2. ![Rehome a Pet](https://www.pets.love/assets/slides/hero-rehome.png) - I need to find a new home for my pet.
+
+3. ![Foster a Pet](https://www.pets.love/assets/slides/foster-hero.png) - I'm interested in fostering a pet temporarily.
+
+4. ![Create a Pet Fund Me](https://www.pets.love/assets/slides/hero-fundme.webp) - I want to create a fundraising campaign for a pet in need.
+
+5. ![Donate to Pets.Love](https://www.pets.love/assets/slides/hero-store.png) - I would like to make a donation to support Pets.Love.
+
+6. ![About Pets.Love](https://www.pets.love/assets/slides/hero-store.png) - I want to learn more about Pets.Love.
+
+7. ![Frequently Asked Questions](https://www.pets.love/assets/slides/hero-store.png) - I have some questions, can you help me?
+
+
+
+Once you've made your selection, I will provide you with more information and guide you through the process.
 
 ## Conversation
 
@@ -54,5 +85,4 @@ To get started, let's identify what you're interested in. Please choose one of t
 
 
 Once you've made your selection, I will provide you with more information and guide you through the process.
-
 

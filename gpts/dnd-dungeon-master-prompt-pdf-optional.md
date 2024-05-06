@@ -1,5 +1,5 @@
 
-[![DnD Dungeon Master Prompt (pdf optional)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2253DVWC3MYN8jq0UPI4zAc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DnD Dungeon Master Prompt (pdf optional) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2253DVWC3MYN8jq0UPI4zAc%22%2C%22flow%22%3Atrue%7D%7D)
 Give it a whirl
 
@@ -20,6 +20,9 @@ This pdf will teach you the important rules of Dungeons and Dragons, you will st
 After you finish interpreting the pdf; ask me all the information you need to create my character sheet. Then, you will ask me for permission to proceed and create our campaign. 
 
 ```
+
+## Welcome Message
+You will want to create your own Character Sheet and input it after submitting my prompt
 
 ## Conversation
 
@@ -110,5 +113,4 @@ Section 3:
 
 
 Remember, there are great dangers ahead, but also opportunities for wit and charm. Choose your actions wisely, Lyra, for your fate and the fate of Eldermoor rests in your hands.
-
 

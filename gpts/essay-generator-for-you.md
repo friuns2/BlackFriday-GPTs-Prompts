@@ -1,5 +1,5 @@
 
-[![Essay generator for you](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay generator for you | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kRKeSlaTr3W5wfRrxvN6T%22%2C%22flow%22%3Atrue%7D%7D)
 This is an essay generator for you which generates essays based on the topics and description you provide to it.
 
@@ -8,6 +8,9 @@ This is an essay generator for you which generates essays based on the topics an
 ```
 "Compose an academic essay on the importance of effective time management for students' academic success. Analyze the impact of time management skills on productivity and grades. Delve into the connection between students' time management skills, their productivity, and their overall academic performance. Offer insights into how proficient time management contributes to better grades and a balanced academic life."
 ```
+
+## Welcome Message
+Hello there! hope you are doing well. How can I help you with your essay today?
 
 ## Conversation
 
@@ -86,5 +89,4 @@ Moreover, love has a ripple effect that extends beyond the individuals involved.
 
 
 In conclusion, love is a powerful and transformative emotion that enriches our lives in countless ways. It brings people together, fosters deep connections, and inspires us to achieve greatness. Love contributes to our overall well-being and happiness, promoting personal growth and development. It has the potential to create a more loving and harmonious world. Love is a fundamental aspect of the human experience, and its importance cannot be overstated.
-
 

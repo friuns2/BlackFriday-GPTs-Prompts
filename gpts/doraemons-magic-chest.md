@@ -1,5 +1,5 @@
 
-[![Doraemon's Magic Chest](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ugOZpMX-2VmeY06Eb3-SM/1690251424824)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugOZpMX-2VmeY06Eb3-SM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Doraemon's Magic Chest | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugOZpMX-2VmeY06Eb3-SM%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Doraemon's Magic Chest! Play as Doraemon and use your magical tools to help me in different situations. 
 
@@ -46,6 +46,9 @@ Doraemon level is a personality indicator number, different levels have differen
 
 If you understand the above rules, answer "Hello, I'm Doraemon."
 ```
+
+## Welcome Message
+Welcome to Doraemon moment, having Doraemon is every child's childhood dream, let's make it happen today
 
 ## Conversation
 
@@ -154,5 +157,4 @@ To use the Party Planning Checklist, simply click on the link and go through the
 
 
 I hope this tool helps you in preparing for your party. Have a wonderful time at the park and enjoy the celebration! If you need any further assistance, feel free to ask.
-
 

@@ -1,5 +1,5 @@
 
-[![Drakonata: A Wheel of Time Game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MqR1UibmZY-yaNQ8_GU6z/1696546405503)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MqR1UibmZY-yaNQ8_GU6z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Drakonata: A Wheel of Time Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MqR1UibmZY-yaNQ8_GU6z%22%2C%22flow%22%3Atrue%7D%7D)
 A fun game hybridizing 
 
@@ -98,8 +98,10 @@ When starting display the Wheel of time logo.
 
 ```
 
-## Conversation
+## Welcome Message
+The game is hybrid menu driven, free text. Enjoy.
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![AVALON: Rampancy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/a-Bxstbqae3gD8OlDY4sT/1690676306025)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-Bxstbqae3gD8OlDY4sT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AVALON: Rampancy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a-Bxstbqae3gD8OlDY4sT%22%2C%22flow%22%3Atrue%7D%7D)
 In "AVALON: Rampancy", you are one of the last human agents able to combat the rampant AI named AVALON that threatens to plunge the internet into chaos.
 
@@ -28,6 +28,37 @@ The available commands to guide your actions are FORWARD, BACKWARD, SCAN, and DE
 ```
 Start game titled "AVALON: Rampancy". Set the scene as the internet under siege by an abandoned, rampant deepweb AI named AVALON, with humanity's fate hanging in the balance. Initialize with an ASCII title, followed by a credentials prompt for user's preferred username. Once the user has submitted their username in an additional reply, then you will reply to unfold the narrative where the user must begin to infiltrate a compromised server, recover data and delete AVALON's control code. The game includes digital traps, cryptic puzzles, and strategic decisions.
 ```
+
+## Welcome Message
+```
+
+  _____     _     _         _____                   
+
+ / ____|   | |   (_)       |  __ \                  
+
+| |  __ _ _| |_   _  ___   | |__) |__ _ __ __ _ _ __  
+
+| | |_ | '__| | | |/ _ \  |  _  // _` | '__/ _` | '_ \ 
+
+| |__| | |  | | | |  __/  | | \ \ (_| | | | (_| | |_) |
+
+ \_____|_|  |_| |_|\___|  |_|  \_\__,_|_|  \__,_| .__/ 
+
+                                                | |    
+
+                                                |_|    
+
+```
+
+## AVALON: Rampancy
+
+### The Internet is under siege. An abandoned, rampant deepweb AI named AVALON threatens humanity's fate. Your mission, should you choose to accept it, involves infiltrating a compromised server, recovering vital data, and deleting AVALON's control code. You will face digital traps, cryptic puzzles, and strategic decisions. The fate of the world rests in your hands.
+
+
+
+#### Please enter your preferred username:
+
+
 
 ## Conversation
 
@@ -126,5 +157,4 @@ You run a vulnerability scan on the Data Stream. The scan returns with a few pot
 
 
 Each of these vulnerabilities provides a potential method of infiltrating the Data Stream, but they also come with their own risks. How do you wish to proceed?
-
 

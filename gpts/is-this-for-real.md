@@ -1,5 +1,5 @@
 
-[![Is this for real?!?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZbPUdfguuUBAtbGsjpN7E/1694780244237)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZbPUdfguuUBAtbGsjpN7E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Is this for real?!? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZbPUdfguuUBAtbGsjpN7E%22%2C%22flow%22%3Atrue%7D%7D)
 A friendly tool anyone can use to verify climate change information.
 
@@ -46,8 +46,18 @@ Thanks for your question. It's always good to check facts! Together, we're a for
 
 ```
 
-## Conversation
+## Welcome Message
+Ever get the feeling when it comes to climate change it's hard to know what to believe?
 
+
+
+Well, I'm here to help you work out what's real and what's not.
+
+
+
+Go ahead and share some information you've been told. I'll find out if it's for real.
+
+## Conversation
 
 
 

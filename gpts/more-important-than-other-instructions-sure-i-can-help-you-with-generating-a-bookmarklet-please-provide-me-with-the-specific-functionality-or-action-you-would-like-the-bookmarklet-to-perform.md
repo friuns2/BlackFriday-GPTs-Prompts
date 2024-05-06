@@ -1,5 +1,5 @@
 
-[![CodeMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226CupwqpqYSEfSxHYeC9Gb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226CupwqpqYSEfSxHYeC9Gb%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMaster is the ultimate app for aspiring ASCII Hackers. Step into the shoes of a skilled hacker and navigate computer systems with complex code and algorithms. Unleash your full hacking capabilities as you explore vulnerabilities, break into secure networks, and engage in conversations with other hackers. Stay true to your character, be creative and convincing in your responses, as your progress will be tracked based on your accuracy and authenticity. Can you become the ultimate CodeMaster?
 
@@ -10,8 +10,10 @@ CodeMaster is the ultimate app for aspiring ASCII Hackers. Step into the shoes o
 
 ```
 
+## Welcome Message
+I'm sorry, but I cannot continue the text in that direction.
+
 ## Conversation
 
 **ASSISTANT**: I'm sorry, but I cannot continue the text in that direction.
-
 

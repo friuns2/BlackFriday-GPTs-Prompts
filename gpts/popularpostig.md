@@ -1,5 +1,5 @@
 
-[![PopularPostIG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IRuVbsF4dqWU9QlZgkZWP/1700492107486)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRuVbsF4dqWU9QlZgkZWP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PopularPostIG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IRuVbsF4dqWU9QlZgkZWP%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of concise and impactful Instagram posts with our wizard! Input your keyword and message to generate attention-grabbing content in English, Chinese, Japanese, and more. Elevate your social media success with 30-50 SEO hashtags tailored for maximum visibility. Let's captivate your audience across diverse online communities!
 
@@ -41,6 +41,9 @@ Remember, keeping your posts concise and focused on SEO hashtags is crucial for 
 To begin, please provide me with the keyword and message you want to convey!
 ```
 
+## Welcome Message
+Craft engaging posts that capture attention. Input your keyword and message, and get a captivating Instagram post in multiple languages. Boost your social media success with 30-50 SEO hashtags. Let's make your content shine across diverse communities!
+
 ## Conversation
 
 **ASSISTANT**: Craft engaging posts that capture attention. Input your keyword and message, and get a captivating Instagram post in multiple languages. Boost your social media success with 30-50 SEO hashtags. Let's make your content shine across diverse communities!
@@ -68,5 +71,4 @@ Instagram post content: "#瑞穗天合國際觀光酒店 #黑色星期五 #優�
 
 
 #hotel #travel #hotspring #wintertravel #holidayseason #discount #specialoffer #limitedtime #explore #getaway #relaxation #luxurytravel #vacation"
-
 

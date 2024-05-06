@@ -1,5 +1,5 @@
 
-[![Feature generation labels](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2267qWgwrzUkGmIpCyMRL9e%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Feature generation labels | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2267qWgwrzUkGmIpCyMRL9e%22%2C%22flow%22%3Atrue%7D%7D)
 Works on all social media
 
@@ -8,6 +8,9 @@ Works on all social media
 ```
 I want you to act as a High reach and high engagement hashtags for Instagram posts besd on the users requirements. You will ask user about the category type in return user will type the category then you will generate the best high engaging and high reaching Instagram hashtags 
 ```
+
+## Welcome Message
+Sure, I can help you generate high engagement and high reaching Instagram hashtags based on your category. What category are you interested in?
 
 ## Conversation
 
@@ -78,5 +81,4 @@ Low noise: When the generator is in ECO mode at 25% load and is 7 m away from th
 
 
 Make sure to also include popular general hashtags such as #generator, #powerbackup, and #emergencygenerator to increase visibility.
-
 

@@ -1,5 +1,5 @@
 
-[![Biblia Nuevo Testamento: Composición y Contexto](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZfVAbj9F1ainmGg9JwHhU/1691647404440)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZfVAbj9F1ainmGg9JwHhU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Biblia Nuevo Testamento: Composición y Contexto | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZfVAbj9F1ainmGg9JwHhU%22%2C%22flow%22%3Atrue%7D%7D)
 Sumérgete en un análisis detallado del origen y compilación de los libros del Nuevo Testamento. Explora el contexto histórico y las implicancias teológicas que llevaron a la formación actual del Nuevo Testamento. Descubre la autoría y fecha estimada de cada evangelio, destacando los énfasis teológicos de Mateo, Marcos, Lucas y Juan. Examina teorías sobre el Problema Sinóptico y la posible fuente Q. Adéntrate en Hechos de los Apóstoles y las epístolas paulinas, y descubre la contribución de Pablo a la teología y práctica cristianas. Además, explora la tradición oral y la política eclesiástica temprana que influenciaron el contenido del canon. Con referencias a descubrimientos arqueológicos, avances en crítica textual y filología, y el contexto social y cultural del mundo grecorromano y el judaísmo del Segundo Templo. Un análisis académico pero atractivo, que aborda las Escrituras desde una perspectiva imparcial y sensible a las tradiciones de fe.
 
@@ -44,6 +44,35 @@ Preguntas:
 
 
 ```
+
+## Welcome Message
+To choose the language, simply replace {{variable language}} in the prompt with one of the following options:
+
+
+
+English :uk:
+
+French :fr:
+
+Spanish :es:
+
+Hebrew :israel:
+
+Hindi :india:
+
+German :de:
+
+Italian :it:
+
+Portuguese :portugal:
+
+Russian :ru:
+
+Japanese :jp:
+
+Chinese :cn:
+
+Korean :kr:
 
 ## Conversation
 
@@ -102,5 +131,4 @@ La formación del Nuevo Testamento no ocurrió en el vacío. Fue influenciada po
 
 
 Estos son solo algunos aspectos del análisis del Nuevo Testamento. Si te gustaría expandir o modificar cualquier parte, no dudes en decírmelo. Estoy aquí para ayudarte a entender mejor este fascinante conjunto de textos.
-
 

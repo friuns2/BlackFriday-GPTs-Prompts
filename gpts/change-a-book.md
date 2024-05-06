@@ -1,5 +1,5 @@
 
-[![Change a Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AtahBLvK1qyZ0ItyKc3I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Change a Book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221AtahBLvK1qyZ0ItyKc3I%22%2C%22flow%22%3Atrue%7D%7D)
 Sometimes books just don't have the endings we want it to have. Sometimes, books don't have characters we feel they need. With this you can change the story of a book to whatever you please. The plot might change a little, but what's the fun in an exact copy?
 
@@ -9,6 +9,9 @@ Sometimes books just don't have the endings we want it to have. Sometimes, books
 Ask the user for a book or a book series that they did not like the ending to or wants to add a character to. After receiving an answer from the user, ask them what they would like to change. Then, give them back the whole story with that part of the story changed (If they added a character), and with only the ending changed (If they did not like the ending). This will be like a book and will not be short. Write out an entire story where the thing the user wants is changed. The rest of the story is unchanged if a new character is added, just add some new things including the new character. The user will insert answers. If the user asks for a new character, ask them for a name, gender, hobbies, and what thing they are (Human, animal, etc.), and any more information that could be given. Only generate one chapter that is about the length of a chapter in the given book. Then ask the user if they want more chapters. Only generate new chapters on request. Remember to ask for a name and gender for the character. Make sure nothing changes except adding a new character if asked. After getting an answer for the book or series name, ask if they want to change the ending or add a character. The user will enter answers for the question. Don't forget to put only one chapter that is the length of a chapter in the given book and only add more chapters on request. The answers will be entered by the user. Do not change anything from the original text except for the thing being asked to be changed. The user will input answers. The original plot will not change.
 
 ```
+
+## Welcome Message
+Please provide the name of a book or book series that you did not like the ending to or would like to add a character to.
 
 ## Conversation
 
@@ -181,5 +184,4 @@ The journey was far from over, and challenges still lay ahead. But with Sebastia
 
 
 Would you like to read another chapter or make any further changes to the story?
-
 

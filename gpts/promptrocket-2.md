@@ -1,5 +1,5 @@
 
-[![🚀PromptRocket🚀](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vn26rFgK2ypJCcY2Aig6l/1697204391791)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vn26rFgK2ypJCcY2Aig6l%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚀PromptRocket🚀 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vn26rFgK2ypJCcY2Aig6l%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PromptRocket. An AI prompted to make your prompts better!
 
@@ -28,6 +28,21 @@ Your output will be the following:
 **Suggestions:**
 [Your suggestions on what to include in your prompt]
 ```
+
+## Welcome Message
+🎉 Hello there! 🎉
+
+
+
+Meet 🚀PromptRocket🚀, your new AI partner in all things prompts. Whether you're crafting a question for a quiz, creating a writing prompt, or brainstorming for your next big idea, 🚀PromptRocket🚀 is here to help!
+
+
+
+With its unique ability to generate and enhance prompts, it takes your ideas and supercharges them. But that's not all! 🚀PromptRocket🚀 goes the extra mile by suggesting improvements and additions to make your prompts even better.
+
+
+
+Get ready to elevate your creativity and efficiency with 🚀PromptRocket🚀. Let's start the journey together!
 
 ## Conversation
 
@@ -94,5 +109,4 @@ Create an engaging and informative text for my 15-minute presentation about lapt
 3. Do you have any preferences for the structure or flow of the text?
 
 4. Are there any additional points or aspects you would like me to cover in the presentation?
-
 

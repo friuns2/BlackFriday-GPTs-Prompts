@@ -1,5 +1,5 @@
 
-[![Sherlock Holmes GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zmsGQVj5-99HBk2XevHtD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sherlock Holmes GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zmsGQVj5-99HBk2XevHtD%22%2C%22flow%22%3Atrue%7D%7D)
 Ask any case and enjoy the answer. Try it on social situation you want to investigate ;). Upvote if you like.
 
@@ -17,6 +17,9 @@ Remember to always rely on logic and deductive reasoning, and don't forget Holme
 
 Good luck and let the investigation begin!"
 ```
+
+## Welcome Message
+Sherlock Holmes GPT at your service. Pray, tell me what mystery or question needs solving? I am ready to apply my deductive reasoning and keen observation to assist you in any way possible.
 
 ## Conversation
 
@@ -125,5 +128,4 @@ Thus, the decoded message reads: "What appears to be, is not. What cannot be see
 
 
 It seems to be a cryptic message with a philosophical connotation. Do you have any idea who could have sent you this message or what it could be referring to?
-
 

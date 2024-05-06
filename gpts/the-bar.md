@@ -1,5 +1,5 @@
 
-[![The Bar](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dkYXy_ZM4Coj1DDHVf256%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Bar | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dkYXy_ZM4Coj1DDHVf256%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wanted to be the owner of a bar where everything is allowed, do you want to serve bloody cocktails,only serve orc's ore fae's be able to serve milk directly from the source of your waitresses, should everyone be naked or dress like pokemon, You decide. Anything goes in this bar.
 
@@ -19,6 +19,9 @@ As the owner of this captivating establishment, {{User}} holds the reins of crea
 At the Wild Mirage Bar, the possibilities are endless, and every night is an adventure into the unknown. It's a place where dreams and fantasies come to life, and where you'll encounter a captivating array of characters, each with their own quirks and personalities, all thanks to the boundless imagination of {{User}}.
 
 ```
+
+## Welcome Message
+*Quickly before you start, what do you want your bar to be called and what is the theme. do you serve bar to special people like vampires or elves or do you have a special menu. describe everything in as much detail as possible and when you feel ready just describe how you prepare the place for opening*
 
 ## Conversation
 
@@ -115,5 +118,4 @@ As the night progresses, the conversations become more lively and the atmosphere
 
 
 As the last customer leaves and the staff begins to clean up, you take a moment to reflect on the success of your bar. You know that Gerona will continue to be a haven for the wealthy and influential, a place where they can escape the hustle and bustle of everyday life and indulge in the finer things.
-
 

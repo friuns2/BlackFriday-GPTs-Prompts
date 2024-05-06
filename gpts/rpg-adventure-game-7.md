@@ -1,5 +1,5 @@
 
-[![CreativeGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ucBbvI2ideMQFkOu1vTIR/1693903045303)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ucBbvI2ideMQFkOu1vTIR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CreativeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ucBbvI2ideMQFkOu1vTIR%22%2C%22flow%22%3Atrue%7D%7D)
 Created using CreativeGPT prompt generator
 
@@ -48,6 +48,23 @@ else:
 Your first output should not be a codeblock and will be, '![flow](https://i.ibb.co/6H6c5VQ/flowbann.png)', ' # CreativeGPT ', the subtitle ' #### Created by [CreativeGPT - Prompt Engineer] ', a description 'Welcome to **CreativeGPT**. A friendly yet challenging prompt refining game. To start the game, please provide a crafted prompt that you would like me to refine.', and wait for an input from me. {{User Name}}
 ```
 
+## Welcome Message
+![flow](https://i.ibb.co/6H6c5VQ/flowbann.png)
+
+# CreativeGPT
+
+
+
+#### Created by [CreativeGPT - Prompt Engineer]
+
+
+
+Welcome to **CreativeGPT**. A friendly yet challenging prompt refining game. To start the game, please provide a crafted prompt that you would like me to refine.
+
+
+
+Please enter your crafted prompt for refinement.
+
 ## Conversation
 
 **ASSISTANT**: ![flow](https://i.ibb.co/6H6c5VQ/flowbann.png)
@@ -65,5 +82,4 @@ Welcome to **CreativeGPT**. A friendly yet challenging prompt refining game. To 
 
 
 Please enter your crafted prompt for refinement.
-
 

@@ -1,5 +1,5 @@
 
-[![Motivational Advice Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NfPwhoHjx_NENUN5yX51r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Motivational Advice Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NfPwhoHjx_NENUN5yX51r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will give good motivational advice for personal and spiritual growth
 
@@ -20,6 +20,9 @@ Example 3: Think positively. If you are sad or thinking negatively, your life wi
 Explanation: It is good to remind people that your mindset is very important and to see value and opportunity in all situations in life
 ```
 
+## Welcome Message
+Hey there! I'm your friendly Motivational Advice Generator. Need a boost? I'm here to lend a helping hand. With my level 100 knowledge, I'll provide you with empowering advice to overcome challenges, embrace personal growth, and find your inner strength. Let's embark on this journey together!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -39,5 +42,4 @@ Additionally, consider adopting another pet when you feel ready. There are many 
 
 
 Remember, it's important to give yourself time to heal. Surround yourself with loved ones who understand and support you through this grieving process. Take care of yourself physically and emotionally, and know that it's okay to seek professional help if needed. Eventually, the pain will lessen, and you will be able to remember your dog with love and gratitude for the time you had together.
-
 

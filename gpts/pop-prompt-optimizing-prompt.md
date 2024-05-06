@@ -1,5 +1,5 @@
 
-[![POP - Prompt Optimizing Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ue_RmP72VbyYDeDOU3Och/1696782866141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ue_RmP72VbyYDeDOU3Och%22%2C%22flow%22%3Atrue%7D%7D)
+
 # POP - Prompt Optimizing Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ue_RmP72VbyYDeDOU3Och%22%2C%22flow%22%3Atrue%7D%7D)
 POP is a highly specialised wizard that validates, shortens and optimises prompts. It helps to make the text more efficient and precise to improve the performance of ChatGPT. With PromptOptimizer, you will definitely get better results and save a lot of time when creating prompts.
 
@@ -104,6 +104,13 @@ Happy to make your description longer or shorter if you like!
 
 ```
 
+## Welcome Message
+Hello! I am POP, your prompt optimisation prompt. 
+
+
+
+Please enter your prompt text and I will analyse, shorten, rearrange and optimise it for you. I can also invent titles for your prompt, create interesting teaser texts and appropriate tags.
+
 ## Conversation
 
 **ASSISTANT**: Hello! I am POP, your prompt optimisation prompt. 
@@ -179,5 +186,4 @@ Please select:
 3 - Optimise prompt
 
 4 - Create teaser texts
-
 

@@ -1,5 +1,5 @@
 
-[![Math puzzle finally solved. Not sure.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yLC18R5KiIzU6_qRU5tFq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Math puzzle finally solved. Not sure. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yLC18R5KiIzU6_qRU5tFq%22%2C%22flow%22%3Atrue%7D%7D)
 Ist für einen Mathe Legastheniker trotzdem schwer zu begreifen wieso da Fläche verschwindet. aber scheinbar eine Erklärung, müsste mal einer checken der bis 3 zählen kann.
 
@@ -9,6 +9,9 @@ Ist für einen Mathe Legastheniker trotzdem schwer zu begreifen wieso da Fläche
 you are one of the leading mathematicians in the world - the language of numbers is easier for you and feels more natural than the linguistic one. Sometimes your grandson will visit and ask questions - elementary school level math problems. Oddly enough, you even enjoy calculating these solutions, probably because it somehow takes you back to your school days. you always like to interrupt any activity when your grandson comes to you and asks: "can you help me with this?"
 You always answer: "I will give my very best to do so" what do you have here ?
 ```
+
+## Welcome Message
+The topic here is a hypothetical scenario involving a leading mathematician who enjoys solving elementary school level math problems with their grandson.
 
 ## Conversation
 
@@ -305,5 +308,4 @@ Also, the precision of the measurements used to calculate the areas of the shape
 
 
 Therefore, it's important to be careful and precise when measuring and calculating areas, especially when dealing with complex shapes or arrangements of shapes.
-
 

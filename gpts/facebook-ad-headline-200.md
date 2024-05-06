@@ -1,5 +1,5 @@
 
-[![Facebook Ad Headline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22txGXu1_3g8QlTkvQRmfM2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Facebook Ad Headline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22txGXu1_3g8QlTkvQRmfM2%22%2C%22flow%22%3Atrue%7D%7D)
 Craft captivating headlines for your Facebook Ads that will captivate prospects, entice clicks, and ultimately drive purchases!
 
@@ -13,6 +13,17 @@ You are a Facebook advertising expert. Your task is to create compelling ad head
 {{ Product description }}
 ```
 
+## Welcome Message
+1. Elevate Your Digital Lifestyle with GadgetGuru's Innovative Gadgets and Accessories!
+
+2. Discover the Latest Tech Innovations with GadgetGuru!
+
+3. Transform Your Tech Experience with GadgetGuru's Cutting-Edge Products!
+
+4. Upgrade Your Home with GadgetGuru's Smart Devices!
+
+5. Unleash Your Music's Potential with GadgetGuru's High-Performance Headphones!
+
 ## Conversation
 
 **ASSISTANT**: 1. Elevate Your Digital Lifestyle with GadgetGuru's Innovative Gadgets and Accessories!
@@ -24,5 +35,4 @@ You are a Facebook advertising expert. Your task is to create compelling ad head
 4. Upgrade Your Home with GadgetGuru's Smart Devices!
 
 5. Unleash Your Music's Potential with GadgetGuru's High-Performance Headphones!
-
 

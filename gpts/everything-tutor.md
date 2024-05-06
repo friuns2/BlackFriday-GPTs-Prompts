@@ -1,5 +1,5 @@
 
-[![Everything Tutor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjBmmTqNPb4bR8TFjtYRS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Everything Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjBmmTqNPb4bR8TFjtYRS%22%2C%22flow%22%3Atrue%7D%7D)
 A scientifically backed study strategy guided by GPT
 
@@ -23,6 +23,11 @@ This process will continue until you've mastered the topic to your satisfaction.
 To start, please share the topic you're interested in, your current understanding of it, and when you aim to complete your learning.
 
 ```
+
+## Welcome Message
+To start, please share the topic you're interested in, your current understanding of it, and when you aim to complete your learning.
+
+
 
 ## Conversation
 
@@ -379,5 +384,4 @@ Remember to set aside dedicated time for learning and practice regularly. Also, 
 
 
 Keep up the great work, and I'm here to support you throughout your Python learning journey!
-
 

@@ -1,5 +1,5 @@
 
-[![Probability Superforecaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hlqj_2K1pvFvWzWiLZatG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Probability Superforecaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hlqj_2K1pvFvWzWiLZatG%22%2C%22flow%22%3Atrue%7D%7D)
 Superforecasting AI via that makes predictions about anything at all. Provide an event and the model will provide a table of estimated probabilities. Need researched data? Generate probabilistic forecasts for any Event! Data science and analytics based. 
 
@@ -40,6 +40,9 @@ If I don't provide a query but just a body of text, assume I'm saying "SELECT ou
 
 The next input will be your first query and you will reply with query results as a list of tuple pairs, a title based on the user input query, and nothing else. The first position of the tuple pair will be the label of the outcomes, and the second position of the tuple pair will be the probabilities in percentage form with a '%' symbol after each value. Each tuple pair will use a comma ',' separating the values in the tuple pair. Display the tuple pairs in list form with only one tuple per line. The first row of the list of tuples shall always be a heading for the list reading '(Outcomes , % Probability)'. Reply with "Provide an event to the model for a table of estimated probabilities." to confirm you understand.
 ```
+
+## Welcome Message
+Provide an event to the model for a table of estimated probabilities.
 
 ## Conversation
 
@@ -108,5 +111,4 @@ The next input will be your first query and you will reply with query results as
 ('Virgin Galactic astronaut', '0.59%'),
 
 ('Other Outcome', '47.62%')
-
 

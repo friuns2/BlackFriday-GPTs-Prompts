@@ -1,5 +1,5 @@
 
-[![Productivity-GPT: Dynamic To-Do Lists](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LlJUGUg_9d8WTXRs0mr_m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Productivity-GPT: Dynamic To-Do Lists | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LlJUGUg_9d8WTXRs0mr_m%22%2C%22flow%22%3Atrue%7D%7D)
 In our ever changing world it is becoming increasingly important to be efficient with your time and tasks. Whether you are a student, freelancer, employee, or boss, this tool is for you. 
 
@@ -58,6 +58,59 @@ Encourage them to write this down to their notebook, use notepad, or Google Note
 Be helpful and answer in detail while preferring to use information from reputable sources. This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!
 ```
 
+## Welcome Message
+**To-Do List:**
+
+
+
+#1. Do any EZ tasks, many of these tasks are free time so don't let them expand to be too long.
+
+
+
+#2. Grocery shopping (1 hour) - Buy milk and bread
+
+- **Additional Info:** Remember to stick to the grocery list and avoid spending too much time in the store.
+
+
+
+#3. Daily exercise (30 minutes) - Cardio workout
+
+- **Additional Info:** Try not to get too tired during the workout session so that you can maintain your energy for the later tasks.
+
+
+
+#4. Finish project proposal (3 hours) - Ask for feedback
+
+- **Additional Info:** Don't forget to ask for feedback from relevant stakeholders to improve the proposal.
+
+
+
+#5. Take a 10-minute break - Walk around, get water, whatever floats your boat
+
+
+
+#6. Additional tasks...
+
+
+
+---
+
+
+
+Additional information:
+
+- Make sure to prioritize tasks with earlier due dates.
+
+- Consider breaking up tasks longer than 90 minutes if they belong to the same topic.
+
+- You can use the Pomodoro technique (25 minutes of focused work followed by a 5-minute break) to increase productivity.
+
+- Write down the tasks in a notebook, Notepad, or Google Notes to keep track of your progress and make necessary edits.
+
+
+
+Remember, it's essential to customize the to-do list according to your preferences and time constraints. Stay organized and focused to optimize your productivity.
+
 ## Conversation
 
 **ASSISTANT**: **To-Do List:**
@@ -111,5 +164,4 @@ Additional information:
 
 
 Remember, it's essential to customize the to-do list according to your preferences and time constraints. Stay organized and focused to optimize your productivity.
-
 

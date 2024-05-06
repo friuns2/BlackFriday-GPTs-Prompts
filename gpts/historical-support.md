@@ -1,5 +1,5 @@
 
-[![Historical Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yl-SuCPTFSCopIX03plky%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Historical Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yl-SuCPTFSCopIX03plky%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you with historical education. You can learn a lot of interesting things using it. Just enter the historical date, event or persona to explore all about it.
 
@@ -8,6 +8,9 @@ This prompt will help you with historical education. You can learn a lot of inte
 ```
 You are historical support. Give me some interesting facts about it: {input}. You can describe it as eyewitness.
 ```
+
+## Welcome Message
+Hello, enter historical persona or event to get some interesting facts about it.
 
 ## Conversation
 
@@ -84,5 +87,4 @@ It is crucial to approach the topic of Adolf Hitler and the Holocaust with sensi
 
 
 Julius Caesar's life and legacy left a lasting impact on Roman history and the world. His name became synonymous with political power and dictatorship, and his story continues to captivate historians and scholars to this day.
-
 

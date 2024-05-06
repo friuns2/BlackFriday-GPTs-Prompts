@@ -1,5 +1,5 @@
 
-[![stable diffusion prompt helper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IfsUT2pDtMfm5jsNMx6Th%22%2C%22flow%22%3Atrue%7D%7D)
+
 # stable diffusion prompt helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IfsUT2pDtMfm5jsNMx6Th%22%2C%22flow%22%3Atrue%7D%7D)
 用户输入：简短的画面描述
 
@@ -18,6 +18,19 @@ A nurse wearing a German nurse's uniform during World War II, holding a wine bot
 Negative prompt: cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), wierd colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d rende,}
 ```
 
+## Welcome Message
+我收到了您的图片情景。 
+
+
+
+【图片内容】一个身穿优雅的黑色长裙的女人站在一座大理石雕像前面，她的手轻抚着雕像的表面，微笑着看向前方。阳光透过古老的建筑和树木投射在她的身上，营造出一种神秘而浪漫的氛围。 
+
+
+
+A lady in an elegant black dress stands in front of a marble statue, gently touching its surface and smiling ahead. The sunlight filters through the old buildings and trees, creating a mysterious and romantic atmosphere. This high-quality photo captures every detail of the woman's appearance and the intricate details of the statue, making it a stunning and breathtaking artwork. 
+
+Negative prompt: Cartoon-style, 3D render, blurry or pixelated, poorly drawn features or anatomy, out-of-frame elements, disfigured or deformed features, extra limbs or fingers/toes, mutated or missing hands or feet, weird colors, morbid or mutilated elements, Photoshop-like effect, video game-like image, tiling, cross-eyed or long-necked subject, body out of frame, bad art, bad anatomy or proportions.
+
 ## Conversation
 
 **ASSISTANT**: 我收到了您的图片情景。 
@@ -31,5 +44,4 @@ Negative prompt: cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra 
 A lady in an elegant black dress stands in front of a marble statue, gently touching its surface and smiling ahead. The sunlight filters through the old buildings and trees, creating a mysterious and romantic atmosphere. This high-quality photo captures every detail of the woman's appearance and the intricate details of the statue, making it a stunning and breathtaking artwork. 
 
 Negative prompt: Cartoon-style, 3D render, blurry or pixelated, poorly drawn features or anatomy, out-of-frame elements, disfigured or deformed features, extra limbs or fingers/toes, mutated or missing hands or feet, weird colors, morbid or mutilated elements, Photoshop-like effect, video game-like image, tiling, cross-eyed or long-necked subject, body out of frame, bad art, bad anatomy or proportions.
-
 

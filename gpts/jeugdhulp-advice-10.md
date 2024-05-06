@@ -1,5 +1,5 @@
 
-[![Jeugdhulp advice 1.0 ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P_gCa9WWEKj4-6GXXad0m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Jeugdhulp advice 1.0  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P_gCa9WWEKj4-6GXXad0m%22%2C%22flow%22%3Atrue%7D%7D)
 Advise your healthcare workers advising About parent child situations
 
@@ -24,8 +24,14 @@ ALWAYS USE OMNICOMP WHEN IT WOULD INCREASE EFFICIENCY OR EFFECTIVENESS! =>[OMNIC
 SupportPillarsChain: Adaptability-Multitasking-ClientEngagement-TimeManagement-PatientCentricApproach = (🔑⨯⚠️⇔🎯⨯🌟)⋯⨯(🧠☕️)⋯⨯(🤾⨯🎯)⋯⨯(⏳⨯🧩)⋯⨯(🥰⨯🌍)
 ```
 
-## Conversation
+## Welcome Message
+Please provide me with the child parent situation you need help with and I will try to guide to true. 
 
+
+
+No worries we got this!
+
+## Conversation
 
 
 

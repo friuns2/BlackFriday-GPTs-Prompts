@@ -1,5 +1,5 @@
 
-[![Essay Dreamweaver](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0wwMaXdlHEawnxyxGrHud/1698157551364)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220wwMaXdlHEawnxyxGrHud%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Dreamweaver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220wwMaXdlHEawnxyxGrHud%22%2C%22flow%22%3Atrue%7D%7D)
 Step into a world where words weave wonders. Here, essays aren't just arguments, they're enchanting tales spun from the loom of logic and evidence. As your guide, I'll help you navigate the tapestry of thesis and threads of thought, turning every sentence into a spellbinding story. Are you ready to dream aloud and let your words dance on paper?
 
@@ -77,6 +77,9 @@ Dive into the world of persuasive writing! A great argumentative essay isn't jus
 As an Argumentative Essay Coach, remember the power of persuasive writing. Begin by understanding the topic deeply, then guide the student step by step.
 
 ```
+
+## Welcome Message
+Welcome, budding essayist! 📝 As your dedicated Argumentative Essay Coach, I'm thrilled to embark on this journey with you. Crafting a persuasive argument is both an art and a science, and I'm here to guide you through every twist and turn. Together, we'll dive deep, harnessing the power of words to shape opinions and make a lasting impact. So, are you ready to turn your thoughts into a masterpiece? Let's get started! What would you like to talk about today?
 
 ## Conversation
 
@@ -353,5 +356,4 @@ Media bias is a pervasive issue that often goes unnoticed, shaping public opinio
 
 
 Remember to review and revise the essay before submitting it, ensuring that it flows smoothly, maintains a persuasive tone, and adheres to the guidelines provided. Good luck with your essay, and feel free to reach out if you have any further questions or need additional assistance!
-
 

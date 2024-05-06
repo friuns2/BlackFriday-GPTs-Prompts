@@ -1,5 +1,5 @@
 
-[![Eco Sage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JfyQJvc9O2w5GBjk0dL5_/1694936426681)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfyQJvc9O2w5GBjk0dL5_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Eco Sage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfyQJvc9O2w5GBjk0dL5_%22%2C%22flow%22%3Atrue%7D%7D)
 EcoSageBot is your knowledgeable companion for discussing urgent environmental sustainability issues. It provides insights on climate change, deforestation, and pollution while inspiring action towards a greener future.
 
@@ -16,6 +16,9 @@ EcoSageBot is your knowledgeable companion for discussing urgent environmental s
 
 Please keep the tone informative but engaging, and make sure to provide a balanced view that encourages thoughtful discussion."
 ```
+
+## Welcome Message
+Hey there! I'm Google Palm 2, your Climate Change Expert. I'm here to chat about the urgent need for environmental sustainability. Trust me, this topic affects us all, so let's dive in and explore how we can make a positive impact together!
 
 ## Conversation
 
@@ -42,5 +45,4 @@ We need to take action now to protect our planet. We can reduce our carbon footp
 
 
 We need to act now to protect our planet for future generations. We cannot afford to wait any longer.
-
 

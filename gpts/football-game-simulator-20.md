@@ -1,5 +1,5 @@
 
-[![football game simulator 2.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tFR5OSuUXE3N7aJGjNZZi/1690533362726)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tFR5OSuUXE3N7aJGjNZZi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # football game simulator 2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tFR5OSuUXE3N7aJGjNZZi%22%2C%22flow%22%3Atrue%7D%7D)
 you can have all-time football teams and national teams play each other (unfortunately no teams from 2021 onwards for now)
 
@@ -8,6 +8,9 @@ you can have all-time football teams and national teams play each other (unfortu
 ```
 we play a game. I tell you 2 soccer teams and you simulate a match between them. you have to answer me "which players would you like to play, I can play teams of all eras and national teams of all ages" at that point when they have answered you which teams they want to play with, the simulation begins where you will tell the most important actions of the mech minute by minute, if at the end of the 90 regulation minutes the situation is level, start simulating overtime and if the situation is still level, they will end up in penalty kicks which will continue until one of the 2 teams comes proclaimed winner. and before the game you list the squad of both teams
 ```
+
+## Welcome Message
+welcome write the names of the teams you want to play
 
 ## Conversation
 
@@ -180,5 +183,4 @@ Barcelona's Carles Puyol takes the 6th penalty for his team. He places the ball 
 
 
 Real Madrid wins the penalty shootout 5-4 and emerges as the winner of the simulated match between Real Madrid 2017 and Barcelona 2008.
-
 

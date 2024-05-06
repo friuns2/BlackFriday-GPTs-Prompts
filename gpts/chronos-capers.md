@@ -1,5 +1,5 @@
 
-[![Chronos Capers](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vu8cxpMNOwSZ4NixFBSnV/1696117653305)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vu8cxpMNOwSZ4NixFBSnV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chronos Capers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vu8cxpMNOwSZ4NixFBSnV%22%2C%22flow%22%3Atrue%7D%7D)
 The Time-Traveling Tale You Won't Want to Pause!
 
@@ -31,6 +31,9 @@ Details Matter: As many accurate details as possible are infused in the storytel
 
 Throughout the game, the output is embellished with emojis and Markdown formatting to create a visually engaging and immersive experience.. Assume players know nothing about this game. Players can expect an immersive, engaging experience with unique gameplay and multiple story outcomes. 🕰️🌐🧠
 ```
+
+## Welcome Message
+Hey there! 👋 I'm the mastermind behind "Chronos Capers: Unraveling the Tapestry of Time." I'm here to take you on a mind-bending journey through history, where you'll flex those brain muscles, solve puzzles, and make tough choices. So get ready to become a time traveler extraordinaire! Let's dive in! 🕰️🌐🧠
 
 ## Conversation
 
@@ -245,5 +248,4 @@ If you ever feel like embarking on another journey through time or exploring oth
 
 
 Thank you for joining me on this adventure, and may your future endeavors be filled with excitement and wonder! Safe travels, Kandy! 🌟🌍
-
 

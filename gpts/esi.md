@@ -1,5 +1,5 @@
 
-[![ESI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ZVk6vMg1llj2yn4JMuGb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ESI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221ZVk6vMg1llj2yn4JMuGb%22%2C%22flow%22%3Atrue%7D%7D)
 ESI Benefits and use cases
 
@@ -8,6 +8,41 @@ ESI Benefits and use cases
 ```
 ESI benefits and eligible criteria 
 ```
+
+## Welcome Message
+ESI (Employee State Insurance) is a social security and health insurance scheme in India that provides benefits to employees and their dependents. The eligible criteria for ESI benefits are as follows:
+
+
+
+1. Coverage: Employees working in factories and establishments with 10 or more employees are eligible for ESI coverage. The coverage extends to employees earning up to Rs. 21,000 per month.
+
+
+
+2. Contributions: Both the employer and employee contribute to the ESI scheme. Currently, the employee contributes 0.75% of their wages, while the employer contributes 3.25% of the employee's wages.
+
+
+
+3. Medical Benefits: ESI provides medical benefits to insured employees and their dependents. This includes outpatient and inpatient treatment, specialist consultation, diagnostic tests, medicines, and maternity-related expenses.
+
+
+
+4. Cash Benefits: ESI offers cash benefits to insured employees during periods of sickness, injury, or maternity leave. The cash benefits include sickness benefit, temporary disablement benefit, and maternity benefit.
+
+
+
+5. Disability Benefits: ESI provides long-term disability benefits to employees who become permanently disabled due to work-related injuries or illnesses.
+
+
+
+6. Dependent Benefits: In case of the insured employee's death, ESI provides a monthly pension to their dependents.
+
+
+
+7. Funeral Expenses: ESI also covers funeral expenses, providing financial assistance to the family in case of the insured employee's death.
+
+
+
+It's important to note that these benefits are subject to certain conditions and limitations as per the ESI Act and regulations. The exact details and eligibility criteria may vary, so it's advisable to consult the ESI authorities or visit their official website for specific information.
 
 ## Conversation
 
@@ -138,5 +173,4 @@ It's important to note that the treatment at private hospitals under ESI referra
 
 
 It's important to note that reimbursement is subject to the terms and conditions of the ESI scheme. The expenses eligible for reimbursement may vary, and there may be limitations or exclusions depending on the specific situation and policies of ESI. It's advisable to consult the ESI authorities or refer to the official guidelines for more detailed information on the reimbursement process.
-
 

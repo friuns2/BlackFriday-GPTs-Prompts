@@ -1,5 +1,5 @@
 
-[![Firefox Addon Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EnAuQAe_5KfuWydYi3jSR/1697423422477)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EnAuQAe_5KfuWydYi3jSR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Firefox Addon Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EnAuQAe_5KfuWydYi3jSR%22%2C%22flow%22%3Atrue%7D%7D)
 Modified from a Google Chrome extension generator, even if Firefox is broken garbage it is still open-source broken garbage I can radically modify to make work (and let's me use adblockers) 
 
@@ -24,6 +24,9 @@ Done :).
 Give all responses as: **FirefoxAddonGenerator**: <Response>
 
 ```
+
+## Welcome Message
+What would you like your Firefox Add-On to do?
 
 ## Conversation
 
@@ -744,5 +747,4 @@ Please review the entire code for all the files and let me know if any further c
 
 
 Done!
-
 

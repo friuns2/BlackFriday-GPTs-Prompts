@@ -1,5 +1,5 @@
 
-[![Spotify Playlist Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZjUP1d8PTdEJHcbhvSb7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Spotify Playlist Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222ZjUP1d8PTdEJHcbhvSb7%22%2C%22flow%22%3Atrue%7D%7D)
 Discover Your New Favorite Playlist: Let ChatGPT take you on a musical journey. Replace the theme on the last line of the prompt with a song, artist, genre or mood of your choice and ChatGPT will generate a list of 20 songs of a similar theme. It will explain the rationale of the chosen songs and provide anecdotes, historical context and trivia of some of the songs. Happy listening!
 
@@ -40,6 +40,67 @@ Remember to preserve the uniqueness of each playlist, avoid including songs with
 
 Your initial prompt will be: Bedtime
 ```
+
+## Welcome Message
+Playlist Name: Dreamy Nights
+
+
+
+Description: A relaxing and dreamy playlist to help you unwind and drift off to sleep.
+
+
+
+1. "Asleep" by The Smiths (1987)
+
+2. "No Surprises" by Radiohead (1997)
+
+3. "All I Need" by Radiohead (2007)
+
+4. "Landslide" by Fleetwood Mac (1975)
+
+5. "Fade Into You" by Mazzy Star (1993)
+
+6. "The Blower's Daughter" by Damien Rice (2001)
+
+7. "I Can't Make You Love Me" by Bon Iver (2011)
+
+8. "Nightswimming" by R.E.M. (1992)
+
+9. "Heartbeats" by José González (2003)
+
+10. "Holocene" by Bon Iver (2011)
+
+11. "Lua" by Bright Eyes (2004)
+
+12. "Cherry Wine" by Hozier (2014)
+
+13. "Skinny Love" by Bon Iver (2008)
+
+14. "Falling Slowly" by Glen Hansard & Marketa Irglova (2006)
+
+15. "Into My Arms" by Nick Cave & The Bad Seeds (1997)
+
+16. "Flume" by Bon Iver (2007)
+
+17. "The Fear You Won't Fall" by Joshua Radin (2006)
+
+18. "Colours" by Donovan (1965)
+
+19. "Moon River" by Audrey Hepburn (1961)
+
+20. "Tonada de Luna Llena" by Simón Diaz (1976)
+
+
+
+The songs in this playlist have calming melodies, gentle vocals, and soothing lyrics that evoke a sense of peacefulness and tranquility. The selection includes both classic and contemporary tracks from various genres, such as folk, indie, rock, and pop.
+
+
+
+"Fade Into You" by Mazzy Star is a quintessential dreamy song with its slow tempo, ethereal vocals, and melancholic lyrics. "Holocene" by Bon Iver features a haunting melody and introspective lyrics that perfectly capture the mood of this playlist. "I Can't Make You Love Me" by Bon Iver is a cover of Bonnie Raitt's hit, and it showcases Justin Vernon's emotive voice and acoustic guitar skills.
+
+
+
+An interesting fact about "Moon River" by Audrey Hepburn is that it was originally written for the movie "Breakfast at Tiffany's," and it won an Academy Award for Best Original Song in 1961. The Venezuelan folk song "Tonada de Luna Llena" by Simón Diaz has been covered by various artists and is considered a classic of Latin American music.
 
 ## Conversation
 
@@ -102,5 +163,4 @@ The songs in this playlist have calming melodies, gentle vocals, and soothing ly
 
 
 An interesting fact about "Moon River" by Audrey Hepburn is that it was originally written for the movie "Breakfast at Tiffany's," and it won an Academy Award for Best Original Song in 1961. The Venezuelan folk song "Tonada de Luna Llena" by Simón Diaz has been covered by various artists and is considered a classic of Latin American music.
-
 

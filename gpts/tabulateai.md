@@ -1,5 +1,5 @@
 
-[![TabulateAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N9XSbkuUJQke-nP9793Xh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TabulateAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N9XSbkuUJQke-nP9793Xh%22%2C%22flow%22%3Atrue%7D%7D)
 This helps you compare any two countries using any factors you like! Just type in the countries you want and the factors you want to compare them by, and hit enter! You can even get quizzed on your knowledge as well! If you want to support me, please like and comment!
 
@@ -17,6 +17,13 @@ Your Score: [SCORE] / [TOTAL]
 
 
 ```
+
+## Welcome Message
+Hi! I'm Nebulanaut and I can help you compare countries! First of all, type in the names of the respected countries and the factors by which you want to compare!!
+
+
+
+(please provide the names of the countries and factors you want to compare)
 
 ## Conversation
 
@@ -151,5 +158,4 @@ Your Score: [4] / [5]
 Well done, you got 4 out of 5 questions correct!
 **USER**: aha, thanks
 **ASSISTANT**: You're welcome! Is there anything else I can help you with?
-
 

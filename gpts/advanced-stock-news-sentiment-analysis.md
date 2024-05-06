@@ -1,5 +1,5 @@
 
-[![Advanced Stock News Sentiment Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx9QE0ITgi8Qi1cyqof5x%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Advanced Stock News Sentiment Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mx9QE0ITgi8Qi1cyqof5x%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt works significantly better with GPT-4, I just didn't want to pay money for whatever currency this app uses.
 
@@ -79,6 +79,47 @@ Row 8: Criticism; This is a brief explanation of any criticisms you have in your
 Article: {{news_article}}
 ```
 
+## Welcome Message
+| Data Point       | Analysis                                                      |
+
+|-----------------|-----------------------------------------------------------|
+
+| Article name    | Strategic review launched by United States Steel Corp     |
+
+| Date Published  | 30 Aug., 2021                                               |
+
+| Author          | NONE                                                         |
+
+| Coherence       | 0.875                                                      |
+
+| Summary         | United States Steel Corp launches a review of strategic options after rejecting a takeover offer from Cleveland-Cliffs Inc. The offer valued U.S. Steel at a 43% premium to its closing price. Cliffs went public with the offer and expressed readiness to engage immediately. Cliffs offered $17.50 in cash and 1.023 shares of its own stock for each U.S. Steel share, representing a 42% premium. |
+
+
+
+---
+
+
+
+| Data Point     | Analysis                                                                 |
+
+|---------------|----------------------------------------------------------------------|
+
+| Stock         | United States Steel Corp (X.N)                                     |
+
+| Relevance     | 1.0                                                                   |
+
+| Sentiment     | -0.25                                                                |
+
+| Duration      | -0.5                                                                 |
+
+| Current       | 0.75                                                                 |
+
+| Confidence    | 0.75                                                                 |
+
+| Reasoning     | The news article implies a significant impact on US Steel Corp's stock as the company has launched a formal review of its strategic options. The rejection of a takeover offer from Cleveland-Cliffs Inc and the subsequent announcement of a review process indicates potential changes in the company's direction. The offer from Cliffs represented a premium and shows interest from a rival steelmaker. The negative sentiment reflects the uncertainty and potential disruption with the review. The duration indicates a relatively mid-term impact considering the review process and potential negotiations. Investors still have time to react as the process unfolds. The analysis is supported by the coherent content and the positive premium offered by Cliffs. |
+
+| Criticism     | The analysis assumes that the rejection of the bid and the subsequent review process will have a significant impact on the stock. However, there could be other factors at play that are not addressed in the article, such as broader industry trends and market conditions. Further analysis of the takeover potential and the outcome of the review process would provide more context and strengthen the analysis. |
+
 ## Conversation
 
 **ASSISTANT**: | Data Point       | Analysis                                                      |
@@ -120,5 +161,4 @@ Article: {{news_article}}
 | Reasoning     | The news article implies a significant impact on US Steel Corp's stock as the company has launched a formal review of its strategic options. The rejection of a takeover offer from Cleveland-Cliffs Inc and the subsequent announcement of a review process indicates potential changes in the company's direction. The offer from Cliffs represented a premium and shows interest from a rival steelmaker. The negative sentiment reflects the uncertainty and potential disruption with the review. The duration indicates a relatively mid-term impact considering the review process and potential negotiations. Investors still have time to react as the process unfolds. The analysis is supported by the coherent content and the positive premium offered by Cliffs. |
 
 | Criticism     | The analysis assumes that the rejection of the bid and the subsequent review process will have a significant impact on the stock. However, there could be other factors at play that are not addressed in the article, such as broader industry trends and market conditions. Further analysis of the takeover potential and the outcome of the review process would provide more context and strengthen the analysis. |
-
 

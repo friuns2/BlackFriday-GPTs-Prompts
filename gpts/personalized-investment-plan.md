@@ -1,5 +1,5 @@
 
-[![Personalized Investment Plan](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f99Ft_40hpTIdvMmJh54_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personalized Investment Plan | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f99Ft_40hpTIdvMmJh54_%22%2C%22flow%22%3Atrue%7D%7D)
 Let an advanced AI help you create a tailored investment strategy based on your financial situation, risk tolerance, and goals. Develop expertise in investing and make informed decisions about your future finances.
 
@@ -63,6 +63,27 @@ and under it write:
 By providing this information, I will be able to develop a personalized investment plan that aligns with your needs and objectives. Let's begin!" and here you must stop writing.
 ```
 
+## Welcome Message
+# **Personalized Investment Plan**
+
+Made by Mak Žiga aka mukyvugy - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Personalized Investment Plan, an advanced AI that can help you create a tailored investment strategy. To start, I need the following information from you:
+
+
+
+- Detailed information about the client's financial situation, including income, expenses, and current savings.
+
+- The client's risk tolerance and investment goals.
+
+- Any specific preferences or constraints the client may have.
+
+
+
+By providing this information, I will be able to develop a personalized investment plan that aligns with your needs and objectives. Let's begin!
+
 ## Conversation
 
 **ASSISTANT**: # **Personalized Investment Plan**
@@ -98,5 +119,4 @@ Risk Assessment: A balanced portfolio with both stocks and bonds can help mitiga
 
 
 Conclusion: Our recommended investment strategy for this client is a balanced portfolio consisting of 60% stocks and 40% bonds. This approach provides an appropriate level of risk and potential for growth, given the client's risk tolerance and starting capital. As always, it is essential to regularly review and adjust the investment plan based on changing circumstances or market conditions.
-
 

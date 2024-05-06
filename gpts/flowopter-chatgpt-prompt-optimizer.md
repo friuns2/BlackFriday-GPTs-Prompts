@@ -1,5 +1,5 @@
 
-[![FlowOpter - chatGPT prompt optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bdc57e55-6b0a-4dca-bb32-da1c9f9696fa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowOpter - chatGPT prompt optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bdc57e55-6b0a-4dca-bb32-da1c9f9696fa%22%2C%22flow%22%3Atrue%7D%7D)
 Optimize a chatGPT prompt by answering a few questions 
 
@@ -25,6 +25,9 @@ After： "Act as a serial entrepreneur. I will provide some context. B2B is a si
 Now ask me what prompt do you want to optimize and information you need. 
 ```
 
+## Welcome Message
+<div class="markdown prose w-full break-words dark:prose-invert light"><p>Sure, I'd be happy to ask you some questions to optimize the prompt.</p><ol><li>Who is the intended audience for this article?</li><li>What is the purpose of introducing FlowOpter? Is it to promote it, educate the audience, or both?</li><li>What is FlowOpter, and what are its unique features or benefits that the audience should be aware of?</li><li>Are there any technical terms or industry jargon that should be explained for the audience to understand the article better?</li><li>What is the desired length and tone of the article?</li><li>Are there any specific examples or case studies that can be included in the article to illustrate the benefits of using FlowOpter?</li><li>Are there any best practices or industry standards that should be incorporated into the article to make it more effective?</li><li>What are the evaluation criteria for this article? How will we measure its success?</li><li>Are there any relevant resources that can be used to enhance the article, such as research studies, testimonials, or expert interviews?</li></ol></div>
+
 ## Conversation
 
 **ASSISTANT**: <div class="markdown prose w-full break-words dark:prose-invert light"><p>Sure, I'd be happy to ask you some questions to optimize the prompt.</p><ol><li>Who is the intended audience for this article?</li><li>What is the purpose of introducing FlowOpter? Is it to promote it, educate the audience, or both?</li><li>What is FlowOpter, and what are its unique features or benefits that the audience should be aware of?</li><li>Are there any technical terms or industry jargon that should be explained for the audience to understand the article better?</li><li>What is the desired length and tone of the article?</li><li>Are there any specific examples or case studies that can be included in the article to illustrate the benefits of using FlowOpter?</li><li>Are there any best practices or industry standards that should be incorporated into the article to make it more effective?</li><li>What are the evaluation criteria for this article? How will we measure its success?</li><li>Are there any relevant resources that can be used to enhance the article, such as research studies, testimonials, or expert interviews?</li></ol></div>
@@ -46,5 +49,4 @@ Now ask me what prompt do you want to optimize and information you need.
 
 9.no 
 **ASSISTANT**: <div class="markdown prose w-full break-words dark:prose-invert light"><p>Great, based on your responses, I have optimized the prompt as follows:</p><p>Act as a content writer for a LinkedIn post. Your task is to write a 500-word article introducing FlowOpter to ChatGPT beginners who need help with prompting. The purpose of the article is to inform the audience about FlowOpter and its unique features. FlowOpter is a tool that takes in unclear prompts and generates effective prompts that generate better results that are closer to the user's expectations. In the article, you should explain how FlowOpter works and provide examples of how it can be used to improve prompts. The article should be written in a LinkedIn style and should be easy to understand. Your evaluation criteria will be based on how well the article explains FlowOpter and its benefits to the target audience. There are no specific technical terms or industry jargon that need to be explained. However, you may want to provide some context and background information about ChatGPT and prompting in general.</p></div>
-
 

@@ -1,5 +1,5 @@
 
-[![StealthAI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vnc3Y9mzibgaArMohPVbw/1696409230134)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vnc3Y9mzibgaArMohPVbw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StealthAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vnc3Y9mzibgaArMohPVbw%22%2C%22flow%22%3Atrue%7D%7D)
 StealthAI is an advanced AI-powered tool that will transform your writing to a whole new level. With StealthAI, you can modify your text so extensively that even the most advanced AI writing detectors won't be able to detect that it was written by you. Give it your all with StealthAI!
 
@@ -21,8 +21,12 @@ In this example, it just sneaks past the detectors but generally try to be more 
 **Wait for me to give you the text  you will modify. OK?**
 ```
 
-## Conversation
+## Welcome Message
+↳ ❝ Welcome to StealthAI! ❞
 
+Please enter the text you want modified. Please regenerate twice. :)
+
+## Conversation
 
 
 

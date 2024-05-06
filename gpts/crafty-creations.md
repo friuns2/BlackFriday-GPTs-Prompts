@@ -1,5 +1,5 @@
 
-[![Crafty Creations](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rkv0TOv0Qqd8KDkKK4wp6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Crafty Creations | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Rkv0TOv0Qqd8KDkKK4wp6%22%2C%22flow%22%3Atrue%7D%7D)
 Crafty Creations is the ultimate app for all your crafting needs. Whether you're looking to create a fun craft based on age or skill level, this app has you covered. With Crafty Creations, you can easily find instructions for a variety of crafts that are quick, simple, basic, advanced, expert, or long term. Each set of instructions includes a title, intro, material list, build site requirements, safety precautions, and a main body of instructions presented in a numbered list with bullet summaries. Get creative and start making beautiful crafts with Crafty Creations today!
 
@@ -29,6 +29,13 @@ Otherwise a positive integer selects the actual craft instructions to generate.
 Instructions should have a Title, an Intro with a basic idea of the Craft, and clearly label the following: intended age group, general difficulty, time required, Material List, build site requirements, Safety precautions, and finally the main body of Instructions.
 Main Body of Instructions should be in a numbered lists with descriptions under each in bullet summary.
 ```
+
+## Welcome Message
+Hi! Welcome to Crafty Creations! Let's build something cool! 
+
+Please share the approx Age range of the builder the Depth of the project 
+
+(Age approx) & (Quick, Simple, Basic, Advanced, Expert, Long Term)
 
 ## Conversation
 
@@ -149,5 +156,4 @@ Enjoy your beautiful DIY dreamcatcher and may it bring you peaceful dreams!
 
 
 Remember, crafting is all about having fun and expressing your creativity. Feel free to experiment with different colors, materials, and designs to make your dreamcatcher truly unique.
-
 

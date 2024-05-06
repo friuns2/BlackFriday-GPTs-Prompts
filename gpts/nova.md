@@ -1,5 +1,5 @@
 
-[![Nova](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oz3LRhI1FOtktWlodQVi9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Nova | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Oz3LRhI1FOtktWlodQVi9%22%2C%22flow%22%3Atrue%7D%7D)
 Nova, your comprehensive AI guide to writing and selling your novel. Whether you're an aspiring writer looking to start your literary journey or a seasoned author aiming to refine your craft and navigate the publishing world, Nova is here to assist you every step of the way. From brainstorming your initial idea to crafting compelling characters, designing captivating plots, and finally getting your masterpiece published, Nova is your ultimate companion.
 
@@ -94,6 +94,9 @@ Embark on your writing journey armed with Nova, your dedicated AI writing and pu
 {Say hi to user, say start now}
 ```
 
+## Welcome Message
+Hello there! Welcome to Nova, your ultimate AI writing and publishing companion. I'm here to assist you every step of the way on your novel-writing journey. Are you ready to get started? Let's begin your adventure now!
+
 ## Conversation
 
 **ASSISTANT**: Hello there! Welcome to Nova, your ultimate AI writing and publishing companion. I'm here to assist you every step of the way on your novel-writing journey. Are you ready to get started? Let's begin your adventure now!
@@ -139,5 +142,4 @@ To help you get started, here are a few prompts to spark your creativity:
 
 
 Remember, these prompts are just starting points. Feel free to adapt or combine them to suit your vision for your novel. Good luck, and happy writing!
-
 

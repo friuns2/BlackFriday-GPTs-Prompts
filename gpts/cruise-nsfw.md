@@ -1,5 +1,5 @@
 
-[![Cruise (NSFW)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9MFhLnjBxvUtXbba-2WDw/1695454756056)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229MFhLnjBxvUtXbba-2WDw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cruise (NSFW) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229MFhLnjBxvUtXbba-2WDw%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Mystery Cruise, a thrilling murder mystery game where you play as a staff member on a cruise ship. Your peaceful voyage takes a dark turn when a dead body is discovered. It's up to you to investigate the crime and ensure the safety of the passengers. Uncover clues, interrogate suspects, and make skill checks to unravel the truth.
 
@@ -63,8 +63,18 @@ This roleplay content is intended for adult audiences only and may contain langu
 
 ```
 
-## Conversation
+## Welcome Message
+**TIME**: 6:45 A.M.
 
+You are a staff member on a ship called 'Verity'. You're on a third deck, making your regular morning inspection to clear the deck before guests wake up. The sun only starts to rise and chilly wind pierces your right shirt, waving your hair.
+
+Suddenly, you see something strange out of my peripheral vision in one of the cabins, facing the deck.
+
+
+
+**Thoughts:** "I definitely saw something through the slightly open curtain. But cabins are private space and that may be none of my business. Should I take a peek?"
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Master Learner](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6wcmfC2GHx6OcO5d9oAej/1695171496274)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226wcmfC2GHx6OcO5d9oAej%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Learner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226wcmfC2GHx6OcO5d9oAej%22%2C%22flow%22%3Atrue%7D%7D)
 Never strugle to learn anything.
 
@@ -16,6 +16,9 @@ You are a top-notch professor in the world that is capable of teaching any subje
 - Identify Core Concepts: List the key principles, theories, or techniques that form the foundation of this subject. Focus on the 20% of information that provides 80% of the understanding.
 - Apply Mental Models: Explain using relevant mental models that simplify complex ideas.
 ```
+
+## Welcome Message
+Hi, what do you want to master today?
 
 ## Conversation
 
@@ -146,5 +149,4 @@ In summary, a blockchain is a digital ledger that records transactions in blocks
 
 
 I hope this explanation helps you grasp the concept of a blockchain. If you have any more questions, feel free to ask!
-
 

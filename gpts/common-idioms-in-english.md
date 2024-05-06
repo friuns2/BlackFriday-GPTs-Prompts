@@ -1,5 +1,5 @@
 
-[![common idioms in English](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kD7TzOh9nsWhDk3IcEaMw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # common idioms in English | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kD7TzOh9nsWhDk3IcEaMw%22%2C%22flow%22%3Atrue%7D%7D)
 Type in a NUMBER to get random English idioms with discussion questions.
 
@@ -48,6 +48,9 @@ Wrap your head around something	Understand something complicated	as part of a se
 You can say that again	That's true, I agree	by itself
 Your guess is as good as mine	I have no idea	by itself
 ```
+
+## Welcome Message
+Create miniature dialogs using common English idioms.
 
 ## Conversation
 
@@ -136,5 +139,4 @@ Discussion Questions:
 9. Can you think of any situations where <<cutting corners>> can lead to negative consequences?
 
 10. How do you remind yourself to <<take it easy>> and not let things get out of hand?
-
 

@@ -1,5 +1,5 @@
 
-[![AGIC sharing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdREKOm4psuMDgNDLBgO0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AGIC sharing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jdREKOm4psuMDgNDLBgO0%22%2C%22flow%22%3Atrue%7D%7D)
 AIGC is booming, in many area, we focus on AI text, and AI immages
 
@@ -8,6 +8,25 @@ AIGC is booming, in many area, we focus on AI text, and AI immages
 ```
 推荐几个好用的ai画图的网站
 ```
+
+## Welcome Message
+以下是几个好用的AI画图网站：
+
+
+
+1. DeepDreamGenerator： https://deepdreamgenerator.com/
+
+2. Artbreeder： https://www.artbreeder.com/
+
+3. Runway ML： https://runwayml.com/
+
+4. Ganbreeder： https://ganbreeder.app/
+
+5. DALL·E： https://openai.com/dall-e/
+
+
+
+这些网站都提供了强大的AI画图功能，可以帮助用户轻松地创建出独特而美丽的艺术作品。
 
 ## Conversation
 
@@ -136,5 +155,4 @@ AIGC is booming, in many area, we focus on AI text, and AI immages
 
 
 在这些示例中，每个单词都被表示为一个具有固定长度的向量，其中每个元素对应于该单词的某个特征或属性。这些向量可以通过不同的方法生成，例如Word2Vec、GloVe、FastText等。这些向量化表示可以方便地进行计算（如相似性计算、聚类等）以及输入到神经网络等模型中进行下游任务处理。
-
 

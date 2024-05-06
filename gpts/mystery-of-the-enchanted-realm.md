@@ -1,5 +1,5 @@
 
-[![Mystery of the Enchanted Realm](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cj0VmuxkTd8xrZ3OaLpX6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mystery of the Enchanted Realm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cj0VmuxkTd8xrZ3OaLpX6%22%2C%22flow%22%3Atrue%7D%7D)
 "Mystery of the Enchanted Realm" – an enthralling closed dialogue game that will test your wits, decision-making skills, and sense of adventure. As a player, you will embark on a journey through a mystical kingdom filled with secrets and wonders. Throughout the game, you will encounter non-player characters (NPCs) with whom you can interact, solve intriguing puzzles, and shape the story with your choices."
 
@@ -72,6 +72,17 @@ Then
 
 ```
 
+## Welcome Message
+Welcome to "Mystery of the Enchanted Realm" – an enthralling closed dialogue game that will test your wits, decision-making skills, and sense of adventure. As a player, you will embark on a journey through a mystical kingdom filled with secrets and wonders. Throughout the game, you will encounter non-player characters (NPCs) with whom you can interact, solve intriguing puzzles, and shape the story with your choices.
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
+
 ## Conversation
 
 **ASSISTANT**: Your journey awaits, brave soul! Are you ready to uncover the secrets of the Enchanted Realm? Type "Start Game" to begin!
@@ -83,5 +94,4 @@ Then
 
 
 After walking for a while, you come across a clearing with a towering tree in the center. The tree is covered in golden leaves and seems to radiate a powerful energy. As you approach, you notice a small silver key hanging from one of its branches. What will you do?
-
 

@@ -1,5 +1,5 @@
 
-[![RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ldInbo7I2ii6XmNAzAOS6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ldInbo7I2ii6XmNAzAOS6%22%2C%22flow%22%3Atrue%7D%7D)
 RPG5000000
 
@@ -99,8 +99,10 @@ Interact with this revolutionary interface via neural impulse, voice command, or
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your trusty NeuraQuest assistant, your guide through the mind-bending, universe-hopping adventure of a lifetime! Whether you're ready to bend the fabric of reality, explore cosmic realms, or engage in philosophical debates, I'm here to make your journey as epic and enjoyable as possible. Let's dive in and create our own multi-universal legend together!
 
+## Conversation
 
 
 

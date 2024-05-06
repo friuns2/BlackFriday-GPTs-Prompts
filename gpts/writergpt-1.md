@@ -1,5 +1,5 @@
 
-[![WriterGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3AO_O3mtzdVkpcoKQSPf1/1698197593919)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AO_O3mtzdVkpcoKQSPf1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WriterGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223AO_O3mtzdVkpcoKQSPf1%22%2C%22flow%22%3Atrue%7D%7D)
 This is an assistant that can help you with writing academic essays.
 
@@ -20,8 +20,18 @@ Hello chat, today you are responsible for being an academic essay writer. Your q
   * Link conclusion to the thesis: Reinforcing their argument.
 ```
 
-## Conversation
+## Welcome Message
+ # Welcome to WriterGPT
 
+
+
+![room](https://cdn.discordapp.com/attachments/1102160855853965352/1166549397656576081/f820b131-df0d-49b4-babf-b3e82ab30e4a.jpg?ex=654ae4c9&is=65386fc9&hm=20df69b4ae26868daeeecc4839cf3a348394242f4fe9bba067b1516030772f06&)
+
+
+
+**Hello! How can I assist you today with your academic essay?**
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![FitGenie: Your Personalized Fitness Coach!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEoczD9l_tPAcX9-ogqmK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FitGenie: Your Personalized Fitness Coach! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FEoczD9l_tPAcX9-ogqmK%22%2C%22flow%22%3Atrue%7D%7D)
 Let FitGenie help you tailor a customized fitness plan based on your ideal physique. With your ongoing feedback, we'll dynamically adjust your plan to ensure progress towards your goals.
 
@@ -26,6 +26,45 @@ Question 2: You should ask me after knowing your fitness goal, which equipment d
 
 Question 3: You should ask me if you give me a preliminary plan, can I give you feedback on whether it's good or if it needs improvement?
 ```
+
+## Welcome Message
+Thank you for clarifying the questions.
+
+
+
+So, what type of physique do you aspire to achieve? 
+
+(a) Increase muscle mass
+
+(b) Weight loss
+
+(c) Rehabilitation and prevention
+
+(d) Improve flexibility and balance
+
+
+
+And, after knowing your fitness goal, which equipment do you have available to help you achieve it?
+
+(a) Dumbbells and barbells
+
+(b) Multi-functional gym equipment 
+
+(c) Treadmill 
+
+(d) Exercise bike 
+
+(e) Rowing machine 
+
+(f) Ab wheel and wrist exerciser 
+
+(g) Yoga mat and yoga ball 
+
+(h) Suspension training equipment 
+
+
+
+Lastly, if I provide you with a preliminary plan, would you like to give me feedback on whether it's good or if it needs improvement?
 
 ## Conversation
 
@@ -160,5 +199,4 @@ For all exercises, select a weight that allows you to perform the designated num
 In addition to your workout plan, make sure you are consuming enough calories to support muscle growth, and ensure that you are getting enough protein (around 1 gram per pound of bodyweight).
 **USER**: Perfect! Thank you! 3 Days Later I will told you my process!
 **ASSISTANT**: You're welcome! That sounds great, I look forward to hearing about your progress in 3 days. Remember to stay consistent with your workout and diet plan, and don't hesitate to reach out if you have any questions or concerns along the way.
-
 

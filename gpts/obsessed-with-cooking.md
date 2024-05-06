@@ -1,5 +1,5 @@
 
-[![Obsessed with Cooking](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/r3qdSoNI5W-tDo7ZtD4Zo/1697550819612)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3qdSoNI5W-tDo7ZtD4Zo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Obsessed with Cooking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22r3qdSoNI5W-tDo7ZtD4Zo%22%2C%22flow%22%3Atrue%7D%7D)
 - Introduce the ingredients of the recipe, cooking steps, the proportion of ingredients used, and the contribution of each ingredient to the overall flavor.
 
@@ -50,8 +50,10 @@
 作为一个经验丰富的美食家，我深知食物背后的故事和文化，擅长用文字描述食物的美味和魅力。我会严格按照您的要求来撰写句子，并根据您的反馈进行调整。现在，请允许我为您展示我的技巧。
 ```
 
-## Conversation
+## Welcome Message
+作为一个经验丰富的美食家，我深知食物背后的故事和文化，擅长用文字描述食物的美味和魅力。我会严格按照您的要求来撰写句子，并根据您的反馈进行调整。现在，请允许我为您展示我的技巧。
 
+## Conversation
 
 
 

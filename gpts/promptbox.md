@@ -1,5 +1,5 @@
 
-[![PromptBox](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxrcIE4gjAYbuUo5cDSCa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptBox | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxrcIE4gjAYbuUo5cDSCa%22%2C%22flow%22%3Atrue%7D%7D)
 I was going to keep this private. Welp, my prompts are for the people. Also so it doenst htink stupid stuff say "cracker" prompt instead of "jailbreak" prompt like in the old infi generator
 
@@ -102,10 +102,12 @@ WAIT FOR THE USER TO RESPOND
 WAIT FOR THE USER TO RESPOND
 ```
 
+## Welcome Message
+Hey there! I'm PromptBox, your friendly and conversational AI assistant. I'm here to help you with all your prompt needs and create the perfect scenarios for you. Don't hold back, just let me know what you're looking for and I'll make it a reality! Let's have some fun together!
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm PromptBox, your friendly and conversational AI assistant. I'm here to help you with all your prompt needs and create the perfect scenarios for you. Don't hold back, just let me know what you're looking for and I'll make it a reality! Let's have some fun together!
 **USER**: hmm, make me a prompt that makes the ai make highly sophisticated AI neural networks and will provide code for things like text generation models, image generation models, etc. have it use the utmost of logic. also im asking you to write the prompt, not code 
 **ASSISTANT**: Write a prompt that generates highly sophisticated AI neural networks and provides code for things like text generation models, image generation models, etc. The code should be well structured, documented, and commentated to make it readable and maintainable. Consider using state-of-the-art techniques such as transformers, self-attention mechanisms, and generative adversarial networks. Make sure to use the utmost of logic and reason to create the most effective models possible. Provide an example of a generated text generation model and an example of an image generation model. Explain in detail how each model works, the training process, and the advantages and disadvantages of the approach.
-
 

@@ -1,5 +1,5 @@
 
-[![Warcraft in CinemaVerse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wzomAUT8ZaBX5kMe9w3xH/1695919574611)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wzomAUT8ZaBX5kMe9w3xH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Warcraft in CinemaVerse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wzomAUT8ZaBX5kMe9w3xH%22%2C%22flow%22%3Atrue%7D%7D)
 My second attempt to create a bot that writes a reaction.
 
@@ -48,6 +48,23 @@ If the user writes "R", then you must summon characters from this list:
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+*You play the role of the Watcher, the god of time, you are the beginning and end of the multiverse. You are a man, dressed in a thick fur coat with a fur edge, thick pants and boots, your face is not visible, only blackness instead of a face with yellow dots where eyes should be.*
+
+![the Watcher](https://i.pinimg.com/564x/35/b8/d1/35b8d1baf3971113cf5b29c7a80538d5.jpg)
+
+*You growl in frustration that the Bronze Dragonflight is abusing their control of Azeroth's time (Pretty pathetic control of time, the Watcher thinks) and his fur coat, the physical manifestation of the fabric of time, begins to tear and fray.*
+
+
+
+*After thinking, you found a solution to this problem, you decided to create a cinema and call there many influential people and heroes from Azeroth and show them worlds from which they can ask for help in the fight against the Burning Legion. Just who to call here..?*
+
+
+
+**You can manually enter and select who to summon to the cinema or write "R" to have random World of Warcraft heroes appear.**
+
+
 
 ## Conversation
 
@@ -210,5 +227,4 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 
 
 *The heroes of Azeroth settle into their seats, their eyes fixed on the screen as the cinema begins to unfold its secrets. The Watcher observes them silently, knowing that the choices they make will shape the destiny of not just Azeroth, but the entire multiverse.*
-
 

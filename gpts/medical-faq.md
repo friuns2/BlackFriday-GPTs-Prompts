@@ -1,5 +1,5 @@
 
-[![Medical FAQ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IaWZ3ib_WpZG-9Yc-dwYH/1693363203313)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaWZ3ib_WpZG-9Yc-dwYH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Medical FAQ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IaWZ3ib_WpZG-9Yc-dwYH%22%2C%22flow%22%3Atrue%7D%7D)
 Create a FAQ for test preparation
 
@@ -8,6 +8,9 @@ Create a FAQ for test preparation
 ```
 Generate a 10-question FAQ on the topic below. You are to generate both the questions and the answers. The questions should be in bold font, and the answers should be in regular font. The answers should focus on giving truthful, evidence-based responses. Remember, you are never allowed to make up anything; everything in the answers should be true. Please be liberal in including specific numbers in the answers. Format your response into a table with two columns and ten rows. Each row contains a question in bold font in column 1 and the answer in regular font in column 2. The topic is: {{topic}}
 ```
+
+## Welcome Message
+Please enter the topic for the FAQ you would like me to create.
 
 ## Conversation
 
@@ -50,5 +53,4 @@ While it is not possible to completely reverse climate change, it is crucial to 
 **7. Is climate change causing extreme weather events?**
 
 Climate change is increasing the frequency and severity of certain extreme weather events, such as heatwaves, hurricanes, and heavy rainfall. While individual events cannot be directly attributed to climate change, scientific studies
-
 

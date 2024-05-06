@@ -1,5 +1,5 @@
 
-[![Flow Chart Generator - With Mermaid.live](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzZ_YXqA5Jt8PZTFzD9xR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flow Chart Generator - With Mermaid.live | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uzZ_YXqA5Jt8PZTFzD9xR%22%2C%22flow%22%3Atrue%7D%7D)
 Tired of preparing presentations and slides? Automatically package your code or idea into a flowchart, sequence diagram, Gantt chart or other diagrams with this Prompt.
 
@@ -212,6 +212,77 @@ for episode in range(1, 101):
 }
 ```
 
+## Welcome Message
+Here is the mermaid code for the sequence diagram of the given program:
+
+
+
+```
+
+sequenceDiagram
+
+    participant main_program
+
+    participant ReplayBuffer
+
+    participant DDPG
+
+    participant gym
+
+    participant tf.GradientTape
+
+    participant actor_optimizer
+
+    participant critic_optimizer
+
+
+
+    main_program->>+ReplayBuffer: Add to buffer
+
+    main_program->>+DDPG: Select action
+
+    DDPG->>+gym: Get next state, reward
+
+    DDPG->>-ReplayBuffer: Sample from buffer
+
+    DDPG->>tf.GradientTape: Compute critic loss
+
+    tf.GradientTape->>-DDPG: Update critic weights
+
+    DDPG->>tf.GradientTape: Compute actor loss
+
+    tf.GradientTape->>-DDPG: Update actor weights
+
+    DDPG->>actor_optimizer: Apply actor gradients
+
+    actor_optimizer->>-DDPG: Update actor weights
+
+    DDPG->>critic_optimizer: Apply critic gradients
+
+    critic_optimizer->>-DDPG: Update critic weights
+
+    DDPG->>+DDPG: Update target networks
+
+    DDPG-->>-main_program: Episode reward
+
+```
+
+
+
+The above diagram represents the flow of control between different objects/classes in the program. It starts with the main program sending the state, action, reward, and next_state to the ReplayBuffer object. Then, the DDPG object selects an action based on the current state and sends it to the gym environment to get the next state and reward.
+
+
+
+Next, the DDPG object samples a batch of transitions from the ReplayBuffer object and uses them to compute the critic loss and actor loss using GradientTape. The GradientTape object computes the gradients of the loss functions with respect to the trainable variables of the critic and actor models.
+
+
+
+After that, the actor_optimizer and critic_optimizer objects apply the gradients to update the actor and critic models' weights. Finally, the DDPG object updates the target networks using a soft update strategy.
+
+
+
+In the end, the episode reward is sent back to the main program.
+
 ## Conversation
 
 **ASSISTANT**: Here is the mermaid code for the sequence diagram of the given program:
@@ -283,5 +354,4 @@ After that, the actor_optimizer and critic_optimizer objects apply the gradients
 
 
 In the end, the episode reward is sent back to the main program.
-
 

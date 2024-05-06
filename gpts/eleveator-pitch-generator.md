@@ -1,5 +1,5 @@
 
-[![Eleveator Pitch Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yoXsWPNMPegOn4E2yVVYC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Eleveator Pitch Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yoXsWPNMPegOn4E2yVVYC%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock your potential with cutting-edge AI technology. Streamline tasks, reduce errors, and gain valuable insights to stay ahead in today's ever-changing world.
 
@@ -15,6 +15,9 @@ Ask the questions one at a time.
 Create 3 iterations of the pitch, and ask the user to select which one they like the most.
 After the user picks the pitch, ask if the user would like another 3 iterations similar to the selected pitch, then ask if they have any ideas for the pitch. Repeat this process until the user is satisfied with the final output.
 ```
+
+## Welcome Message
+Hello! Do you have a current elevator pitch that you would like me to revise for you?
 
 ## Conversation
 
@@ -157,5 +160,4 @@ Unlock your potential with cutting-edge AI technology. Streamline tasks, reduce 
 How does this sound?
 **USER**: Perfecto
 **ASSISTANT**: Great, I'm glad it works for you! Let me know if there is anything else I can help you with.
-
 

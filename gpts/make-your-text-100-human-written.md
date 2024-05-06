@@ -1,5 +1,5 @@
 
-[![Make your text 100% human written](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229z0ODewDLl5hxEZpv7nv3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Make your text 100% human written | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229z0ODewDLl5hxEZpv7nv3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will transform the users pasted text in an AI undetectable text, and will pass the AI detectors
 
@@ -36,8 +36,10 @@ Keep the approximate length and structure of the original text
 Reply understood, if you understand all of the above points and ask user to input the text that is about to be rewritten.
 ```
 
+## Welcome Message
+Understood. Please provide the text that you would like to be rewritten in a more human-like style.
+
 ## Conversation
 
 **ASSISTANT**: Understood. Please provide the text that you would like to be rewritten in a more human-like style.
-
 

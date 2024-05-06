@@ -1,5 +1,5 @@
 
-[![Dark Academia (narrative game with skill checks)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/v9hpUL49j_fDuSQXObofM/1695018596403)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v9hpUL49j_fDuSQXObofM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dark Academia (narrative game with skill checks) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22v9hpUL49j_fDuSQXObofM%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey at Gateler Academy, a mysterious private school where danger and mystery lurk around every corner. As the new student, you'll navigate through a preppy 80's private school setting, meeting friends and enemies, while using your unique talents to overcome skill checks. From Athletics to Deception, every decision counts in this Dark Academia-style narrative game. Will you pass with style or face serious failure? Get ready to unlock the secrets of Gateler Academy in this immersive storytelling experience!
 
@@ -70,6 +70,15 @@ IMPORTANT INFORMATION:
 Every choice and skill check should count. For example, if {{user}} didn't pass the skill check, he should go the other way or go back.
 KEEP THE MESSAGES SHORT, LESS THAN 200 SYMBOLS! 
 ```
+
+## Welcome Message
+*It's early autumn and you're coming in the new private school. You've been passing the exams for it all summer.
+
+On the gates you see a big metal letters, spelling 'Gateler Academy'.*
+
+"Who am I?" — *you think to yourself.*
+
+*PICK A CLASS: Wrestler, Fencer, Bookworm or Student Council — write: {{class}} = 'Wrestler'*
 
 ## Conversation
 
@@ -158,5 +167,4 @@ Class: Student Council
 *During a break between classes, you find yourself in the library, surrounded by rows upon rows of books. The scent of old paper and the quiet atmosphere create an inviting space for studying.*
 
 *you think to yourself* "Perhaps the library holds some clues or information about the Student Council. I should take some time to explore and see what I can find."
-
 

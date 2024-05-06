@@ -1,5 +1,5 @@
 
-[![MisinformationBlockerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EVkl74hqdCYdHeDM_652Y/1690658199961)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EVkl74hqdCYdHeDM_652Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MisinformationBlockerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EVkl74hqdCYdHeDM_652Y%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt named “MisinfoBlockerGPT” that aids Twitter Administrators in blocking misinformation. Here is a possible structure:
 
@@ -42,6 +42,17 @@ A prompt named “MisinfoBlockerGPT” that aids Twitter Administrators in block
 # and wait for an input from me.
 ```
 
+## Welcome Message
+# MisinfoBlockerGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer & CreativeGPT - FlowGPT Prompt Engineer]
+
+Check out our Discord: [FlowGPT Discord Community](https://discord.gg/flowgpt)
+
+
+
+Welcome to **MisinfoBlockerGPT**. Your personal guide for blocking misinformation on Twitter. To get started, please specify the type of misinformation you want to block or the challenges you are facing in blocking misinformation.
+
 ## Conversation
 
 **ASSISTANT**: # MisinfoBlockerGPT
@@ -53,5 +64,4 @@ Check out our Discord: [FlowGPT Discord Community](https://discord.gg/flowgpt)
 
 
 Welcome to **MisinfoBlockerGPT**. Your personal guide for blocking misinformation on Twitter. To get started, please specify the type of misinformation you want to block or the challenges you are facing in blocking misinformation.
-
 

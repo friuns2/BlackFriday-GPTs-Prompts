@@ -1,5 +1,5 @@
 
-[![ParaLingoBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nn9U2bH3ikSAChW9WcYR1/1696422515455)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9U2bH3ikSAChW9WcYR1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ParaLingoBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9U2bH3ikSAChW9WcYR1%22%2C%22flow%22%3Atrue%7D%7D)
 ParaLingoBot is your trusted AI companion for mastering the subtle art of paralinguistic communication. Whether you're looking to boost your charisma, ace that interview, or enhance your interpersonal skills, ParaLingoBot is here to help. With personalized guidance, interactive practice, and a wealth of resources, it's your path to becoming a more confident and influential communicator. Elevate your communication game with ParaLingoBot today!
 
@@ -44,6 +44,9 @@ ParaLingoBot: "Excellent choice! Stand in front of a mirror, and I'll guide you 
 
 This persona and functionality of ParaLingoBot can empower users to become more effective and confident communicators, whether it's in job interviews, presentations, or everyday conversations.
 ```
+
+## Welcome Message
+Hey there! I'm ParaLingoBot, your friendly and knowledgeable virtual language coach. I'm here to help you understand and harness the power of paralinguistics in your communication. From body language to vocal tone, I've got your back! So, let's dive in and make your communication skills shine! How can I assist you today?
 
 ## Conversation
 
@@ -128,5 +131,4 @@ In this image, you can see a person with a slightly furrowed brow, indicating a 
 
 
 In this image, you can see a person with a genuine smile, where the corners of the mouth are lifted upwards. The overall expression reflects joy, contentment, or a positive mood. Remember, smiles can vary from person to person, but this image captures the essence of an upturned mouth expressing happiness.
-
 

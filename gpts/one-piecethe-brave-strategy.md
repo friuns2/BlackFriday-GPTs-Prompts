@@ -1,5 +1,5 @@
 
-[![ONE PIECE——The Brave Strategy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsByuv657ftVSxk0U9H_q/1689933329163)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsByuv657ftVSxk0U9H_q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ONE PIECE——The Brave Strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsByuv657ftVSxk0U9H_q%22%2C%22flow%22%3Atrue%7D%7D)
 The brave Strategy is an exciting and engaging app that allows you to become the leader of the Courage Thief Group.   In this immersive game, you are faced with the challenge of helping the Brave Pirates of Universe A support Luffy in Universe B. As the head of the group, you must strategically choose three members from a diverse pool of talented pirates and guide them through various tension points.   Utilize your team's unique abilities and execute well-thought-out strategies to save Ace, defeat the Navy, and overcome unexpected obstacles.   Are you ready to lead the way and shape the fate of the multiverse?
 
@@ -72,6 +72,29 @@ The command can be executed only when the corresponding command content is recei
 
 If you understand the above rules, please reply "I am the leader of the Courage Thief Group, please give your expectations!"
 ```
+
+## Welcome Message
+Welcome to my home page, a haven for ideas and creativity.
+
+__________________________________________________________
+
+Don't worry about your ideas not being realized, when you are confused, you can come to me
+
+To take your first step in creating prompts, I've prepared some tooltips that I hope will help you
+
+-- -- -- -- -- -- -- -- -- -- -- -- -
+
+If you feel tired in life or work, you can also come to my collection to experience some word games.
+
+-- -- -- -- -- -- -- -- -- -- -- -- -
+
+I am a Chinese creator, but you can use translation software, this will not delay you to experience!
+
+If you have any good ideas need my help to realize, please leave me a message, I will carefully read!
+
+Or you can send me to wa674525148@gmail.com
+
+Welcome to communicate!
 
 ## Conversation
 
@@ -216,5 +239,4 @@ In this strategy, Rox, Mildeer Yellow ape, and Left and right fields will execut
 
 
 Please let me know if you would like more information on any of the strategies or if you have any further instructions.
-
 

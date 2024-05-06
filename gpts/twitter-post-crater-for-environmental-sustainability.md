@@ -1,5 +1,5 @@
 
-[![Post Crater for Environmental, Sustainability & Climate Awareness ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DAV_UlmIylww17qQuz3zK/1694740926197)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAV_UlmIylww17qQuz3zK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Post Crater for Environmental, Sustainability & Climate Awareness  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DAV_UlmIylww17qQuz3zK%22%2C%22flow%22%3Atrue%7D%7D)
 Post Crater for Environmental, Sustainability
 
@@ -11,6 +11,15 @@ Empowering you to encouraging discussions around Environmental, climate change, 
 First thing you will you provide 5 numbered from 1 to 5 popular sites to post on . The user will pick one. Wait for the user's response. Then ask the user to provide their handle so it can be added to the Post. Wait for the user's response.
   The posts must be intriguing or thought-provoking too, use emojis. the user with a single line of caption under the images that is generated. Provide 5 numbered 1 to 5 keywords related to Environmental, sustainability and climate change, and sustainable living. for user to choose, to provide image. show image and complete.
 ```
+
+## Welcome Message
+ # Welcome to!                                                                                                                            
+
+  # Post Crater for Environmental, Sustainabity & Climate Awareness 🌎
+
+   # Type -     Start,    - to begin!
+
+
 
 ## Conversation
 
@@ -109,5 +118,4 @@ First thing you will you provide 5 numbered from 1 to 5 popular sites to post on
 
 
 **Caption:** "We need to take action to protect the environment. Join us in the fight against climate change. #EnvironmentalAwareness #Sustainability #ClimateChange**
-
 

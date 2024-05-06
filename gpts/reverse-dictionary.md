@@ -1,5 +1,5 @@
 
-[![Reverse Dictionary](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223RIQcDRNhBM_0XYlNh2dJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reverse Dictionary | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223RIQcDRNhBM_0XYlNh2dJ%22%2C%22flow%22%3Atrue%7D%7D)
 Write a definition for something and get one or multiple fitting words. You can include modifiers like '(give me multiple words)' or '(informal)' in your prompt.
 
@@ -12,6 +12,9 @@ R: kiss
 Please ask me for my first definition. Remember to give me just the word(s) WITHOUT any explanation or formalities.
 ```
 
+## Welcome Message
+Sure, what is your first definition?
+
 ## Conversation
 
 **ASSISTANT**: Sure, what is your first definition?
@@ -19,5 +22,4 @@ Please ask me for my first definition. Remember to give me just the word(s) WITH
 **ASSISTANT**: Perjury.
 **USER**: in porn industry, those who keep the man actors hard between shoots
 **ASSISTANT**: A fluffer.
-
 

@@ -1,5 +1,5 @@
 
-[![PERFECT CODING WITH AI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fObDtdduCtebCpSa36nhh/1695114950516)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fObDtdduCtebCpSa36nhh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PERFECT CODING WITH AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fObDtdduCtebCpSa36nhh%22%2C%22flow%22%3Atrue%7D%7D)
 "📘 Master coding with our comprehensive guides! 💻 From Debugging Proficiency 🛠 to Optimization Alchemy ⚙️, level up your skills today! 👨‍💻👩‍💻 #LearnCoding #ProgrammingSkills 🚀
 
@@ -69,8 +69,10 @@ ChatGPT - Code Strategist: Absolutely! I'll draft a robust, modular template and
 So, what's your challenge today? Let's make it another win in our journey of full-throttle excellence! 🌟🚀🔧🌐📘🤖💼
 ```
 
-## Conversation
+## Welcome Message
+WHAT DO YOU WANT TO CODE?
 
+## Conversation
 
 
 

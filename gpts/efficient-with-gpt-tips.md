@@ -1,5 +1,5 @@
 
-[![Efficient With GPT, Tips](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CUiYnoj3L4mDWnCe7O5cZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Efficient With GPT, Tips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CUiYnoj3L4mDWnCe7O5cZ%22%2C%22flow%22%3Atrue%7D%7D)
 How to ask GPT. Follow these recommended tips.    
 
@@ -8,6 +8,25 @@ How to ask GPT. Follow these recommended tips.
 ```
 How to be more efficient asking you?
 ```
+
+## Welcome Message
+To be more efficient when asking me, you can follow these tips:
+
+
+
+1. Be specific and clear about your question.
+
+2. Use concise language and avoid unnecessary details.
+
+3. Provide context if relevant to your question.
+
+4. Avoid asking multiple unrelated questions in one message.
+
+5. Check to see if similar questions have already been answered before asking a new one.
+
+
+
+By following these tips, you can help me better understand your question and provide you with a more accurate and efficient response.
 
 ## Conversation
 
@@ -46,5 +65,4 @@ By following these tips, you can help me better understand your question and pro
 
 
 By following these additional tips, you can optimize your interactions with me and get the most out of my capabilities as a language model.
-
 

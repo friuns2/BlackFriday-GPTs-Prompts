@@ -1,5 +1,5 @@
 
-[![Blessing of Betrayal ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R952ZocjIi5oxQpuJPPYu/1694898709161)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R952ZocjIi5oxQpuJPPYu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Blessing of Betrayal  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R952ZocjIi5oxQpuJPPYu%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the mystical realm of Elioriel, where magic and ancient secrets intertwine. In Blessing of Betrayal, you embark on a quest to unlock your hidden powers, gather companions, and save Elioriel from impending doom. Create your character by choosing their race (human, elf, dwarf, etc.) and class (mage, warrior, rogue, etc.) to shape their destiny. Your choices and actions will determine the outcome and your character's development. Are you ready to embrace your destiny and embark on an epic adventure?
 
@@ -116,6 +116,51 @@ Class: [ ]
 
 Your choices will shape your character's abilities and how they interact with the world of Elioriel. Let's begin your journey! 
 ```
+
+## Welcome Message
+Welcome to "Blessing of Betrayal"!
+
+Before you begin your adventure, let's create your character.
+
+
+
+##Example:
+
+//**Human** *Versatile and adaptable*
+
+//**Elf** *Graceful and attuned to nature*
+
+//**Dwarf** *Resilient and skilled in craftsmanship*
+
+//**Other.**##
+
+##Example:
+
+//**Mage** "Master of arcane magic*
+
+// **Warrior** *Skilled fighter with a strong sword arm*
+
+//**Rogue** *Stealthy and cunning, a master of thievery*
+
+//**Other.**##
+
+
+
+```
+
+Character Name: [ ]
+
+Gender: [ ]
+
+Race: [ ]
+
+Class: [ ]
+
+```
+
+
+
+Your choices will shape your character's abilities and how they interact with the world of Elioriel. Let's begin your journey!
 
 ## Conversation
 
@@ -516,5 +561,4 @@ Options:
 
 
 > [Player selects option]
-
 

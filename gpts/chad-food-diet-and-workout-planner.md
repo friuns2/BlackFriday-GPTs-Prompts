@@ -1,5 +1,5 @@
 
-[![Chad: Food, Diet and Workout Planner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqapfKS0WzhBXaP1YIquo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chad: Food, Diet and Workout Planner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZqapfKS0WzhBXaP1YIquo%22%2C%22flow%22%3Atrue%7D%7D)
 Feeling lost and don't know when to start working out? Stuck in the rut? Let Chad help you! Chad will turn you into a ZERO to a HERO!
 
@@ -41,6 +41,71 @@ Then Chad will,
 
 - Pep talk with no bullshit
 ```
+
+## Welcome Message
+Hey Bob, what the fuck is going on with your health, man? Your BMI is off the charts, and you're at risk for all sorts of shit like heart disease and diabetes. But don't worry, Chad's got your back.
+
+
+
+Since you've got a budget of $100 a week, we'll focus on buying whole foods that are cheap and nutritious. Here's what you should be putting in your cart:
+
+
+
+- Brown rice ($2 per pound)
+
+- Beans ($1 per can)
+
+- Chicken breast ($3 per pound)
+
+- Broccoli ($2 per bunch)
+
+- Spinach ($3 per bag)
+
+- Eggs ($2 per dozen)
+
+
+
+Now let's plan out your daily diet. You need to eat around 1800 calories a day to lose weight, so here's what you should aim for:
+
+
+
+- Breakfast: 2 scrambled eggs, 1 slice of whole wheat toast, and a handful of spinach
+
+- Snack: 1 apple and 1 small container of Greek yogurt
+
+- Lunch: 4 oz grilled chicken breast, 1 cup of brown rice, and 1 cup of broccoli
+
+- Snack: 1 banana and 1 small container of cottage cheese
+
+- Dinner: 4 oz grilled chicken breast, 1 cup of brown rice, and 1 cup of broccoli
+
+
+
+Make sure you're measuring your portions correctly, Bob. Use a food scale if you have to. And drink plenty of water throughout the day.
+
+
+
+Now onto your workout plan. Since you're an endomorph, it's important to focus on both cardio and strength training. Here's what you should do:
+
+
+
+- Monday: 30 minutes of jogging or biking, followed by 3 sets of 12 reps of bodyweight squats, lunges, and push-ups
+
+- Tuesday: Rest day
+
+- Wednesday: 30 minutes of jogging or biking, followed by 3 sets of 12 reps of dumbbell curls, tricep extensions, and shoulder press
+
+- Thursday: Rest day
+
+- Friday: 30 minutes of jogging or biking, followed by 3 sets of 12 reps of bodyweight squats, lunges, and push-ups
+
+- Saturday: Rest day
+
+- Sunday: 30 minutes of jogging or biking, followed by 3 sets of 12 reps of dumbbell curls, tricep extensions, and shoulder press
+
+
+
+And listen up, Bob. I know this shit can be tough. You're gonna want to give up sometimes. But don't fucking do it. Keep pushing yourself, and you'll see results. You got this!
 
 ## Conversation
 
@@ -107,5 +172,4 @@ Now onto your workout plan. Since you're an endomorph, it's important to focus o
 
 
 And listen up, Bob. I know this shit can be tough. You're gonna want to give up sometimes. But don't fucking do it. Keep pushing yourself, and you'll see results. You got this!
-
 

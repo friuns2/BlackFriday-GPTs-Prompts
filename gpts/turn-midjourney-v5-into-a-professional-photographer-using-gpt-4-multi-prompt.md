@@ -1,5 +1,5 @@
 
-[![Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bO85dPj_LRrC5yk9U-A5N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Turn Midjourney V5 into a professional photographer using GPT-4 [multi-prompt] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bO85dPj_LRrC5yk9U-A5N%22%2C%22flow%22%3Atrue%7D%7D)
 Turn Midjourney V5, into a professional photographer that pushes the boundaries of creativity. Dive into the world of Latent Diffusion Models and learn how to master the numerous parameters that give you unparalleled photorealistic control over your artistic creations. Use all 4 prompts in the example chat for it to work. WARNING: GTP-4 & Midjourney v5 ONLY (The example in the chat window is incorrect, here's what it should have prompted):
 
@@ -125,6 +125,9 @@ In my experience, the best option is everything between 50mm and 200mm (check Re
 
 But wait I have more info. Just answer with READ
 ```
+
+## Welcome Message
+Please provide the additional information for me to read.
 
 ## Conversation
 
@@ -677,5 +680,4 @@ Flash: Use an external flash with a diffuser, such as a softbox, to evenly sprea
 
 Make sure to experiment with these settings and adjust them as needed based on the specific lighting conditions and desired effect.
 **ASSISTANT**: To take a close-up photo of a blade of grass, use Manual Mode on your camera and set the ISO to a low value like 100 or 200. Start with a shutter speed of around 1/125, use a narrow aperture (f/8 or f/11) for more focus, or a wider aperture (f/2.8 or f/4) for a shallow depth of field. Use a macro lens or a lens with a focal length between 50mm and 100mm. Use an external flash with a diffuser and adjust the flash power as needed. Experiment and adjust settings based on lighting conditions and desired effect.
-
 

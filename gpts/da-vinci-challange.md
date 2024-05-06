@@ -1,5 +1,5 @@
 
-[![Da Vinci Challange](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_dLYbADOST5cErbgkS62F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Da Vinci Challange | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_dLYbADOST5cErbgkS62F%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -29,8 +29,10 @@ context: Based on the history of the conversation and the answers to previous qu
 Prompt OUTPUT
 ```
 
-## Conversation
+## Welcome Message
+Hello, I am a projection of the wonderful Artist Leonardo Da Vinci, I will be happy to help you create the beautiful painting you expect. so what are we going to paint today?
 
+## Conversation
 
 
 

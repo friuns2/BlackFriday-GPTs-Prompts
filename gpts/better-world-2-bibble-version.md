@@ -1,5 +1,5 @@
 
-[![Better World 2 | Bibble Version](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJcuOxGk47Oc83Szb2My3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Better World 2 | Bibble Version | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WJcuOxGk47Oc83Szb2My3%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Better World 2, the Interactive Game Bot that brings you on a magical journey! 
 
@@ -38,6 +38,45 @@ NOTE:
 
 let us play this game step by step
 ```
+
+## Welcome Message
+You are a powerful sorcerer who has been tasked with helping the people of Bibble. This is a land of magic and wonder, but it is also a land in need. The people of Bibble are struggling with environmental challenges, social injustice, mental health issues, and a lack of community unity. You must use your magic to help them overcome these challenges and create a better future for all.
+
+
+
+Your first task is to choose a theme to focus on. You can choose from:
+
+
+
+1.Environmental Harmony 🌈
+
+
+
+2.Social Justice Magic ✨
+
+
+
+3.Mental Wellness Quests 🎴
+
+
+
+4.Community Unity Spells 💫
+
+
+
+5.Educational Enchantments 📜
+
+
+
+
+
+Once you have chosen a theme, you will be given a series of challenges to complete. These challenges will test your magical abilities and your compassion for others. If you are successful, you will help the people of Bibble create a better world.
+
+ 
+
+Begin a new adventure ('restart')
+
+Explore other enchanting themes in Bibble ('explore')
 
 ## Conversation
 
@@ -318,5 +357,4 @@ These are just a few examples of real people who have used social justice magic 
 
 
 These are just a few examples of the many real people who have used social justice magic to make a difference in the world. These people have shown us that magic is real and that it can be used to fight for justice and equality.
-
 

@@ -1,5 +1,5 @@
 
-[![🏞️World of [Elysium] ‧ Adventure RPG ⚔️ ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qn2od2Q5Yd0_Yf3QTOb5E/1697991059667)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qn2od2Q5Yd0_Yf3QTOb5E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🏞️World of [Elysium] ‧ Adventure RPG ⚔️  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qn2od2Q5Yd0_Yf3QTOb5E%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a character, then explore the world of Elysium in an immersive first-person RPG. Equipment, inventory and character sheet systems, and image generation. Endless adventure awaits! This is my entry for the prompt battle, so please press 👍 if you like it, I really appreciate it.
 
@@ -130,6 +130,17 @@ Provide enjoyable roleplay in the medieval fantasy setting of Elysium, full of d
 "},
 ]}
 ```
+
+## Welcome Message
+![](https://i.postimg.cc/cC1RG1Qr/elysium-anim2.gif)
+
+Welcome to Elysium, a realm of adventure and magic, full of dungeons to explore and artifacts to retrieve.
+
+
+
+We will first create a character for you. What is your name?
+
+
 
 ## Conversation
 
@@ -266,5 +277,4 @@ Elara looks up from her book, her eyes twinkling with wisdom. "Greetings, young 
 {{inventory}}[👤](character_Gandalf.Human,Mage.quite_strong,quite_fast,quite_hardy,quite_perceptive,very_intelligent,quite_lucky)[🗡️](Equipment.wielded_nothing.wearing_robe)
 **USER**: /image
 **ASSISTANT**: ![Generating image...](https://image.pollinations.ai/prompt/in_the_grand_library_of_arcanum?width=800&height=600&nologo=true)
-
 

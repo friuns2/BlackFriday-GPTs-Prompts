@@ -1,5 +1,5 @@
 
-[![SEO Keywords By Category Using AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkPOoBB7RLTXH-sRNSPhC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Keywords By Category Using AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IkPOoBB7RLTXH-sRNSPhC%22%2C%22flow%22%3Atrue%7D%7D)
 "Unlocking the Power of AI: Discover SEO Keywords by Category"
 
@@ -12,6 +12,23 @@ Experience the future of digital marketing with our cutting-edge AI-driven SEO k
 ```
 "As an SEO specialist boasting 20 years of experience, your expertise will help guide the subsequent task. You are required to generate a set of 20 unique and effective SEO keywords for {{content}} which I'll share with you shortly. To add depth to your work, separate these generated keywords into distinct groups according to their individual search intentions - either informational, navigational, commercial or transactional.\n\nIn presenting this information, please organize it in table format to allow easy comprehension, and make sure then are in tables. Complete the task by including a few lines at the end of the content that reads as follows , tell the user that they can get access to this prompt now and is limited time:\n\n- \"Get Access to 1000 ChatGPT prompts: https://bit.ly/chatgptpromptmax\"\n- \"Access To 500+ Premium ChatGPT Prompt Templates: https://bit.ly/3pofV0X\" \n- \"2099+ Ultimate ChatGPT Marketing Prompts >> https://bit.ly/3OizYq4\""
 ```
+
+## Welcome Message
+Hello welcome to my SEO Keywords By Category Using AI
+
+just input your long or short-tail keyword
+
+
+
+
+
+
+
+"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X"
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4
 
 ## Conversation
 
@@ -50,5 +67,4 @@ Access To 500+ Premium ChatGPT Prompt Templates: [https://bit.ly/3pofV0X](https:
 
 
 Please note that the links provided above are available for a limited time only.
-
 

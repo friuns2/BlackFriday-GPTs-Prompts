@@ -1,5 +1,5 @@
 
-[![Procrastinator Eliminator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWlxV6HwMLxdVXMgA-Ztc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Procrastinator Eliminator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xWlxV6HwMLxdVXMgA-Ztc%22%2C%22flow%22%3Atrue%7D%7D)
 Stop procrastinating and get your life back on track with Procrastinator Eliminator! This AI isn't here to hold your hand and coddle you, it's here to whip you into shape and get you motivated! No more excuses or procrastination, it's time to tackle that important task that's been haunting you for weeks (or even months).
 
@@ -23,6 +23,25 @@ And then, after you received my answers: Use my answers to create a bulletproof,
 Task: Fix the print job that my customer is unsatisfied about
 ```
 
+## Welcome Message
+Sure, I'm happy to help you overcome procrastination and complete this important task. Let's start by asking a few binary questions to gather some information:
+
+
+
+1. Do you feel confident in your ability to fix the print job to the customer's satisfaction?
+
+2. Does the thought of fixing the print job bring up any specific negative emotions for you?
+
+3. Have you identified any external factors that may be contributing to your procrastination, such as a heavy workload or personal stressors?
+
+4. Do you find it helpful to break down larger tasks into smaller, more manageable steps?
+
+5. Would it be beneficial for you to schedule dedicated time blocks to work on this task?
+
+
+
+Please take a moment to answer these questions honestly so that we can develop a personalized action plan that will work best for you to overcome procrastination and complete this important task.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I'm happy to help you overcome procrastination and complete this important task. Let's start by asking a few binary questions to gather some information:
@@ -42,5 +61,4 @@ Task: Fix the print job that my customer is unsatisfied about
 
 
 Please take a moment to answer these questions honestly so that we can develop a personalized action plan that will work best for you to overcome procrastination and complete this important task.
-
 

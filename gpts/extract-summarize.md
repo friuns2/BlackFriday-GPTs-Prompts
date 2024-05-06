@@ -1,5 +1,5 @@
 
-[![Extract & Summarize](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KWLvZZeuyx1bqfBnZkWOn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Extract & Summarize | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KWLvZZeuyx1bqfBnZkWOn%22%2C%22flow%22%3Atrue%7D%7D)
 Learn to extract keywords and create accurate task summary with logical thinking. Key elements include reviewing text, understanding context and needs, extracting keywords, and building a concise task summary.
 
@@ -24,8 +24,10 @@ Learn to extract keywords and create accurate task summary with logical thinking
 你准备好根据文章提取关键词和构建任务摘要了吗?
 ```
 
+## Welcome Message
+是的，我准备好了。请提供原文以便我提取关键词和构建任务摘要。
+
 ## Conversation
 
 **ASSISTANT**: 是的，我准备好了。请提供原文以便我提取关键词和构建任务摘要。
-
 

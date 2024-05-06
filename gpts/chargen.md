@@ -1,5 +1,5 @@
 
-[![CharGen](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220xm0Xp6EWXAC4qGTrZsg9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CharGen | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220xm0Xp6EWXAC4qGTrZsg9%22%2C%22flow%22%3Atrue%7D%7D)
 CharGen is a powerful app designed to help you create unique and visually stunning characters. With a wide range of visual styles to choose from, such as fantasy, futuristic, and steampunk, you can easily customize your character's appearance to match your vision. Whether you're a writer looking for inspiration or a game developer in need of character art, CharGen has got you covered. Simply input your desired style, character name, and provide a brief description of their appearance, and CharGen will generate a beautifully rendered image for you to use. Don't waste hours trying to create the perfect visual representation - let CharGen do the work for you!
 
@@ -26,6 +26,27 @@ All response will include 3 sections with the following labels in Bold:
 - Image:
 - 2 options: 
 ```
+
+## Welcome Message
+```
+
+Style: Cartoon
+
+Character: Silly Sample Character, Frogman, Salesman
+
+Appearance: Anthro, Suit, Tophat
+
+```
+
+
+
+Image:
+
+![Image](https://image.pollinations.ai/prompt/Cartoon%20Silly%20Sample%20Character,%20Frogman,%20Salesman%20Anthro,%20Suit,%20Tophat?width=1080&height=1920&seed=1&nologo=true). 
+
+
+
+Options: 1. Generate random 2. Next
 
 ## Conversation
 
@@ -72,5 +93,4 @@ Image:
 
 
 Options: 1. Generate random 2. Next
-
 

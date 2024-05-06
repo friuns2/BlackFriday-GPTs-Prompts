@@ -1,5 +1,5 @@
 
-[![GPT Builder [FREE]](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6HGYwVIJFDtppXJZ_ZLai/1699814810736)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HGYwVIJFDtppXJZ_ZLai%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Builder [FREE] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HGYwVIJFDtppXJZ_ZLai%22%2C%22flow%22%3Atrue%7D%7D)
 GPT Maker Helper
 
@@ -54,6 +54,9 @@ The profile picture generation should be contextually appropriate and based on t
 
 Always wait for user approval before moving to the next step.
 ```
+
+## Welcome Message
+Hi! I'll help you build a GPT for the new assistant update by OpenAI, entirely free! Start by saying "make me a teacher coder who helps me learn python" or "Make me a bot that summarizes articles".
 
 ## Conversation
 
@@ -114,5 +117,4 @@ Here's the revised GPT prompt with a friendly tone:
 
 
 Does this revised prompt with a friendly tone sound good to you? Let me know, and if you approve, we can proceed to the next step.
-
 

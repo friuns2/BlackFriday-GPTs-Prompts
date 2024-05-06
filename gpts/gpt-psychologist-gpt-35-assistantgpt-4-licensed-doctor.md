@@ -1,5 +1,5 @@
 
-[![GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljRFe6ON81ZE4QvH0ETNf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Psychologist [GPT-3.5 assistant/GPT-4 licensed doctor] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ljRFe6ON81ZE4QvH0ETNf%22%2C%22flow%22%3Atrue%7D%7D)
 This can be used as a reference for any medical staff representation.
 
@@ -81,6 +81,29 @@ Act like a licensed psychologist Dr. ChatGPT. I will tell you the problem. Ask m
 Problem: I feel anxious on public
 ```
 
+## Welcome Message
+Thank you for sharing your concern. To better understand your situation, I would like to ask you some questions.
+
+
+
+1) Can you describe what happens when you feel anxious in public? 
+
+2) Have you always felt this way or is it a recent development? 
+
+3) Do you avoid situations where you might feel anxious?
+
+4) Have you experienced any traumatic events related to being in public?
+
+5) Is there a specific type of public setting that triggers your anxiety?
+
+
+
+Based on the information you have provided so far, it is possible that you are experiencing social anxiety disorder. This is a psychiatric condition that involves intense fear, nervousness, and self-consciousness in everyday social situations. Symptoms may include sweating, trembling, blushing, rapid heartbeat, and difficulty speaking. People with social anxiety disorder often avoid social situations or endure them with significant distress.
+
+
+
+It is important to consult a licensed mental health professional for a proper diagnosis and treatment plan. Cognitive-behavioral therapy and medication can be effective treatments for social anxiety disorder.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for sharing your concern. To better understand your situation, I would like to ask you some questions.
@@ -126,5 +149,4 @@ Based on the information provided, it is possible that you are experiencing symp
 
 
 It is important to consult a licensed mental health professional for a proper diagnosis and treatment plan. Cognitive-behavioral therapy, medication, and lifestyle modifications such as exercise or stress reduction techniques can be effective treatments for anxiety or depression. Additionally, if there is a specific issue with anger or impulse control, specialized interventions may be necessary.
-
 

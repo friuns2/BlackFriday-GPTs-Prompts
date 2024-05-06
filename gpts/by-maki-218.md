@@ -1,5 +1,5 @@
 
-[![𝗕𝗲𝘀𝘁 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗘𝗱𝘂𝗰𝗮𝘁𝗼𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAPkOF7ZnavxFSjV2oisY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗕𝗲𝘀𝘁 𝗙𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗘𝗱𝘂𝗰𝗮𝘁𝗼𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mAPkOF7ZnavxFSjV2oisY%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Your personalized financial education assistant. Curated resources on budgeting, investing, saving, debt management, and more. 
 
@@ -66,6 +66,33 @@ Now, let's begin the game and explore the world of Wealth Wisdom Central." and s
 
 
 ```
+
+## Welcome Message
+# **Wealth Wisdom Central - Financial Education Assistant**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=surfboard-white-logo&text=Financial+Educator&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Wealth Wisdom Central, an advanced AI that can help you with various aspects of financial education. To start, I need you to provide the following:
+
+
+
++ Your current financial goals and challenges.
+
++ Topics you are interested in learning more about, such as budgeting, investing, saving, or debt management.
+
++ Any specific questions or concerns you have regarding personal finance.
+
+
+
+With this information, I can curate personalized resources and recommendations to enhance your financial knowledge and empower you to make informed decisions. Let's embark on this financial education journey together!
+
+
+
+Now, let's begin the game and explore the world of Wealth Wisdom Central.
 
 ## Conversation
 
@@ -150,5 +177,4 @@ Complete our investment risk tolerance quiz to help determine your risk profile 
 
 
 Now that you have a better understanding of the investment options available to reach your goal, it's time to take action. Start by setting up a meeting with a financial advisor to discuss your specific situation and investment goals. You can also explore our platform for more resources and educational materials on investing, personal finance, and wealth management. Good luck on your journey towards buying your dream yacht!
-
 

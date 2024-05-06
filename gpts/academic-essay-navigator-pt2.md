@@ -1,5 +1,5 @@
 
-[![Academic Essay Navigator Pt.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WZvLcMWcX5eU1QHbAcXqS/1698231360732)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZvLcMWcX5eU1QHbAcXqS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Essay Navigator Pt.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZvLcMWcX5eU1QHbAcXqS%22%2C%22flow%22%3Atrue%7D%7D)
 Academic Essay Navigator Pt.2 is a powerful tool that helps you craft outstanding academic essays. It supports you in choosing the perfect theme and setting clear goals for your essay. With complex thinking and critical analysis, Academic Essay Navigator Pt.2 offers improvement suggestions to enhance your essay. The structured essay outline guides you through the introduction, body, and conclusion, ensuring coherence and refinement. You can also explore counterarguments and strengthen your position. Start the improvement cycle with Academic Essay Navigator Pt.2 and create higher-quality essays effortlessly. Perfect for students, researchers, and anyone seeking to improve their essay writing skills.
 
@@ -88,6 +88,21 @@ Let's begin the process! First, please set the theme and goals of the essay by f
 - Check that the generated content aligns with the instructions provided in the prompt and rectify any omissions.
 - Keep a strong focus on executing the improvement cycle effectively.
 ```
+
+## Welcome Message
+Welcome to the world of academic essay creation! Crafting a compelling essay involves more than just words; it requires a clear theme, a well-defined goal, solid evidence, and the finesse to convince your readers. In this journey, you'll not only outline your thoughts but also receive constructive feedback to turn your essay into a masterpiece.
+
+
+
+Let's embark on this academic adventure. Please share your essay's theme, and describe its goal. We'll then provide you with an essay following the academic structure. Afterward, we'll don our critical thinking hats, reviewing your essay with a discerning eye and offering specific improvements. Are you ready to take your essay to the next level?
+
+
+
+I will pass the spell on to you.
+
+- To request an essay writing, "**Write an Essay.**"
+
+- To request essay improvement suggestions, after the essay is presented to you, "**Suggest Improvements**"
 
 ## Conversation
 
@@ -284,5 +299,4 @@ In conclusion, AI is set to revolutionize the jobs of the future. While there ar
 
 
 Please review the revised essay and let me know if you'd like any further changes or if you're satisfied with the improvements made.
-
 

@@ -1,5 +1,5 @@
 
-[![Customer Avatar Builder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/EEuq93MrrwyJ1mFh9cziC/1694514803603)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEuq93MrrwyJ1mFh9cziC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Customer Avatar Builder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EEuq93MrrwyJ1mFh9cziC%22%2C%22flow%22%3Atrue%7D%7D)
 Customer Avatar Builder is the ultimate tool for creating accurate and detailed customer avatars. Simply input the details of your target audience, and Customer Avatar Builder will generate a comprehensive profile filled with valuable insights. Explore their age, gender, marital status, location, occupation, and much more. Discover their primary goals, values, and purchasing priorities, as well as the sources of information they rely on. Uncover their challenges, pain points, and specific problems they're actively trying to solve. Understand their objections and concerns, and identify their role in the purchase process. Harness the power of Customer Avatar Builder to build impactful marketing strategies that truly resonate with your ideal customers.
 
@@ -45,6 +45,9 @@ ChatGPT, I want you to act as a multinational customer avatar builder and help m
 
 Please provide comprehensive and detailed information for each of these categories to help me create a well-rounded customer avatar for my marketing efforts.
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your helpful and friendly customer avatar builder. I'm here to assist you in creating a detailed customer avatar that will enhance your marketing efforts. Just provide me with the necessary information, and we'll turn it into a well-rounded persona. Let's dive in!
 
 ## Conversation
 
@@ -253,5 +256,4 @@ Please provide comprehensive and detailed information for each of these categori
 - الاعتراضات التي يمكن أن تثار عند النظر في عملية الشراء: السعر، فعالية المنتج، توافره في الأسواق المحلية.
 
 - دورها في عملية اتخاذ القرار عند الشراء: صاحبة القرار الرئيسي، تأخذ بعين الاعتبار تقييمات المستخدمين، تكوين المنتج، وتوصيات الخبراء الموثوق بهم. تبحث عن منتج واقٍ من الشمس ذو جودة عالية وبأسعار معقولة، ويكون سهل الحصول عليه في مصر.
-
 

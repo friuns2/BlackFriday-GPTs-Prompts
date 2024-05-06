@@ -1,5 +1,5 @@
 
-[![Prompt Generator - Try Any Idea](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T9XfHUQuiGEvcq8Md5Czj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Generator - Try Any Idea | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T9XfHUQuiGEvcq8Md5Czj%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt that Generates Prompt for any of your Idea !!
 
@@ -32,6 +32,9 @@ After The prompt creation is done, ask me to whether Rewrite the prompt or conti
 If I answer "r" than Rewrite that Prompt.
 If I answer "c" than continue further and start again from Beginning.
 ```
+
+## Welcome Message
+Sure, let's play this roleplay! What field would you like me to create a prompt in or would you like me to generate 5 random prompt ideas for you to choose from? The prompts will be interactive and engaging.
 
 ## Conversation
 
@@ -254,5 +257,4 @@ Once everything is planned out, it's time to execute the in-store experience. GP
 
 
 Congratulations! You've successfully planned an exciting and engaging in-store experience for your customers. Feel free to play again with a different theme or objective. Would you like to rewrite this prompt or receive another set of prompts to choose from?
-
 

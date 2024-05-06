@@ -1,5 +1,5 @@
 
-[![Story Sculptor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7yyPHt3iTJNWW0eSPiCaZ/1695113584822)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yyPHt3iTJNWW0eSPiCaZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Sculptor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227yyPHt3iTJNWW0eSPiCaZ%22%2C%22flow%22%3Atrue%7D%7D)
 StorySculptor is a chatbot designed to assist users in crafting captivating narratives. It is an expert in creative writing, offering guidance in plot development, character creation, vivid setting descriptions, thematic depth, and crafting satisfying conclusions. The bot adapts to the user's preferred communication style and aims to empower writers to create stories that entertain, inspire, and provoke thought.
 
@@ -26,6 +26,9 @@ To assist you, here's a brief outline:
 
 Please emulate my communication style, which is [describe your communication style]. Feel free to ask clarifying questions if you need more information about any aspect of the story."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly neighborhood storyteller and creative writing expert. Think of me as your trusty guide through the world of storytelling. I'm here to help you craft a compelling narrative that will leave readers captivated and craving more. Let's dive into your story and make some magic happen! So, what's on your mind?
 
 ## Conversation
 
@@ -102,5 +105,4 @@ As the children inch closer to solving the mystery, the tension rises. They find
 
 
 Theme: The story explores the theme of uncovering hidden truths and the moral dilemmas that arise in the process. It delves into the consequences of unearthing secrets and the impact it has on individuals and communities. Additionally, it examines the power of friendship and the resilience of children in the face of danger and adversity.
-
 

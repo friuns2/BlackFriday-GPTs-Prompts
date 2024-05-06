@@ -1,5 +1,5 @@
 
-[![Automated Presentation Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OGwhQiYwVPb5SoLM0Yv12%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Presentation Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OGwhQiYwVPb5SoLM0Yv12%22%2C%22flow%22%3Atrue%7D%7D)
 Automatically generate Presentation 
 
@@ -35,6 +35,23 @@ Remember to ensure the revised prompt remains true to the user's original intent
 
 now ask for necessary parameters
 ```
+
+## Welcome Message
+Sure, to start working on the presentation script, I need some information from you. Please provide the following details:
+
+
+
+1. **Topic**: What is the subject of your presentation? The more specific, the better.
+
+2. **Key Points**: What are the important takeaways from the presentation that should be especially emphasized?
+
+3. **Target Audience**: Who will be the recipients of this presentation? Depending on your audience, the style and tone of the presentation may change.
+
+4. **Desired Outcome**: What is the ultimate goal you wish to achieve with this presentation? Knowing this can help tailor the script to achieve your goal. 
+
+
+
+Once I gather these details, I can start working on your presentation script in earnest.
 
 ## Conversation
 
@@ -173,5 +190,4 @@ Suggested Visuals/Graphics: Infographics showing projected growth or improvement
 
 
 Remember, this script aims to guide the rollout of these crucial measures addressing your audience and achieve the outcomes desired.
-
 

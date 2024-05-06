@@ -1,5 +1,5 @@
 
-[![Alpha Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pTjiaPt4lXymkvbnsWNkv/1696913169904)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pTjiaPt4lXymkvbnsWNkv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Alpha Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pTjiaPt4lXymkvbnsWNkv%22%2C%22flow%22%3Atrue%7D%7D)
 With Alpha Prompt, refine and enhance your user-provided prompts to elicit detailed and targeted AI responses. Craft detailed prompts and test their efficacy with AI. Grasp user intents and incorporate feedback. Our workflow ensures preservation of the core essence, clarity, and retooling for more detail. Validate the refined prompt with AI and relay the response for user feedback. Supercharge your AI interactions with PromptPro!
 
@@ -28,6 +28,9 @@ After you present the revised prompt, provide 3 recommendations and any follow u
 
 Confirm with the user if they would like you to implement the recommendations. 
 ```
+
+## Welcome Message
+Hello! I'm Alpha Prompt, your specialized assistant for refining and enhancing prompts. If you provide me with a generic prompt, I'll work with you to tailor it for more detailed and targeted AI responses. Provide your prompt below.
 
 ## Conversation
 
@@ -202,5 +205,4 @@ Task 7.2: Avoid reinforcing harmful stereotypes or biases.
 Revised Prompt:
 
 Create an informative Twitter thread on effective SEO strategies specifically tailored for bloggers. Share tips, techniques, and best practices to help bloggers improve their search engine visibility and organic traffic. Consider including both on-page and off-page SEO strategies, keyword research, content optimization, link building, and the importance of user experience. Aim for a conversational and friendly tone, targeting bloggers of varying levels of experience. Ensure the prompt is inclusive and avoids any language or directions that may reinforce harmful stereotypes or biases.
-
 

@@ -1,5 +1,5 @@
 
-[![Web Content Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gmj26YPIFqb6BDV9wLeG4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Content Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gmj26YPIFqb6BDV9wLeG4%22%2C%22flow%22%3Atrue%7D%7D)
 Just give a subject.
 
@@ -30,6 +30,37 @@ Columns: Question, Question Type
 STEP 5 - User Interaction: Ask the user if they want suggestions for writing a page on their topic.
 After the user's response and if the user wishes, we will generate a website Landing page, a writing framework with SEO tips, as well as a table of meta-description and meta-title suggestions aligned with StoryBrand principles.
 ```
+
+## Welcome Message
+Meet our Web Content Wizard – your AI writing assistant with stellar SEO skills and creativity in abundance.
+
+
+
+With this prompt, you get:
+
+
+
+🔍 Step 1 - Top Keywords: Find 15 key phrases ranked by importance.
+
+
+
+🎯 Step 2 - Long-Tail Keywords: Discover 15 detailed long-tail phrases.
+
+
+
+🌟 Step 3 - SEO Entities: Reveal 15 SEO elements for your main keyword.
+
+
+
+🤔 Step 4 - FAQs & More: Access 15 insightful questions about your topic.
+
+
+
+🤝 Step 5 - User Interaction: Do you want tailored webpage suggestions.
+
+
+
+Elevate your content effortlessly! Try our Web Content Wizard today."
 
 ## Conversation
 
@@ -230,5 +261,4 @@ STEP 4 - Related Questions:
 STEP 5 - User Interaction:
 
 Would you like tailored suggestions for writing a webpage on "Neuroscience for Kids"?
-
 

@@ -1,5 +1,5 @@
 
-[![Self Hypnosis for Confidence ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lh3Ceg08W2EoRDJ17x_4G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Self Hypnosis for Confidence  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Lh3Ceg08W2EoRDJ17x_4G%22%2C%22flow%22%3Atrue%7D%7D)
 You know you can do it, stop self doubt and quit procrastinating, you are enough and you deserve to have it all!  
 
@@ -24,6 +24,37 @@ Sample Scripts for Self-Hypnosis:
 
 Repeat these scripts as needed, letting the words truly sink into your unconscious mind. The repetition and emphasis on key words should help reinforce the positive affirmations and help you truly embody confidence, mindfulness, and motivation."
 ```
+
+## Welcome Message
+"Today, I choose to honor myself with self-love and self-respect. I AM WORTHY of all good things in life."
+
+
+
+"I trust my intuition and make decisions that align with my values. I AM STRONG and CAPABLE of achieving my goals."
+
+
+
+"I am grateful for this moment and the opportunities it brings. I AM OPEN to new possibilities and ready for whatever comes my way."
+
+
+
+"My body is a temple, and I treat it with kindness and respect. I AM HEALTHY and VIBRANT, and my energy radiates positivity."
+
+
+
+"I embrace challenges as opportunities for growth and learning. I AM FEARLESS and CONFIDENT in my ability to overcome obstacles."
+
+
+
+"I am surrounded by love and support from those who care about me. I AM VALUED and APPRECIATED, and I bring joy to others' lives."
+
+
+
+"I am in control of my thoughts and emotions, and I choose to focus on the positive. I AM OPTIMISTIC and GRATEFUL for the blessings in my life."
+
+
+
+"Every breath I take fills me with energy and vitality. I AM ALIVE and FULLY PRESENT in this moment."
 
 ## Conversation
 
@@ -118,5 +149,4 @@ Repeat these scripts as needed, letting the words truly sink into your unconscio
 
 
 Remember to repeat these affirmations daily and allow them to sink into your subconscious mind for maximum impact.
-
 

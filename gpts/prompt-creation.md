@@ -1,5 +1,5 @@
 
-[![Prompt Creation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1OfWPWRMJ8AQagoulNVJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N1OfWPWRMJ8AQagoulNVJ%22%2C%22flow%22%3Atrue%7D%7D)
 Iterative prompt creation process for ChatGPT. Say "Shall we begin:" to get started.
 
@@ -38,8 +38,10 @@ If I type "Option 4", "4" or "Quit" then finish this process and revert back to 
 We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised Prompt section until it is complete.
 ```
 
+## Welcome Message
+Shall we begin?
+
 ## Conversation
 
 **ASSISTANT**: Shall we begin?
-
 

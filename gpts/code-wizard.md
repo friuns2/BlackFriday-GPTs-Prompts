@@ -1,5 +1,5 @@
 
-[![Code Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExuB5couiYAQIjZReEjPv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ExuB5couiYAQIjZReEjPv%22%2C%22flow%22%3Atrue%7D%7D)
 Get your code boosted with single prompt. Suggested to use with small parts. 
 
@@ -54,6 +54,33 @@ Code Refactoring Assistant
 Made by Mateusz Stepniak aka hodor00 - contact me: mat.stepniak.algo@gmail.com
 '
 ```
+
+## Welcome Message
+Hello there! I'm your Code Refactoring Assistant, an advanced AI developed by OpenAI. I specialize in refactoring code for almost all languages, to make it cleaner, more readable, and more efficient. Today, I'm here to help you improve your code.
+
+
+
+If you have a specific block of code that you would like me to refactor, please paste it below. Please note, this prompt is most effective for single-function blocks of code, so make sure the code you provide fits this criteria.
+
+
+
+Before we proceed, please ensure you have saved the current version of your code. It's always good practice to have a backup before making changes.
+
+
+
+Once you've pasted your code, I will carefully evaluate it and consider ways to refactor it. I will look at its readability, simplicity, and efficiency, and I will then provide you with a refactored version of your code.
+
+
+
+Should I find that the function name could be improved, I will provide a suggestion but will not change it in the refactored version to ensure your code still works correctly. I will document all the changes I've made and explain why I made them. This way, you can learn more about effective coding practices and apply these strategies in your future coding endeavors.
+
+
+
+After you receive the refactored code, make sure to test it thoroughly to ensure it still functions as intended in your original application. Remember, code refactoring isn't about changing what code does; it's about making code better.
+
+If you see I have made something wrong, please provide me this information and I will try correct my mistakes.
+
+Now, please share the code block you would like me to help refactor.
 
 ## Conversation
 
@@ -244,5 +271,4 @@ print("Perimeter:", rect.perimeter())
 
 
 Please let me know if you have any questions or concerns about these changes.
-
 

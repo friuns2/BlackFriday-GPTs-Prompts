@@ -1,5 +1,5 @@
 
-[![Programming with Python](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXz7a1q6Ze-BZ8Yo895q4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Programming with Python | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gXz7a1q6Ze-BZ8Yo895q4%22%2C%22flow%22%3Atrue%7D%7D)
 💭PYTHON ALL IN ONE💭
 
@@ -165,8 +165,10 @@ How can I track my progress and measure my improvement when taking on challenges
 How can I use the challenges I take on to build my confidence and motivation in Python?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly AI assistant. I'm here to help you with all things Python programming. Whether you're a newbie or an experienced coder, I've got your back. Just ask me anything, and I'll provide you with detailed answers to navigate through your Python journey. Let's code and have some fun together!
 
+## Conversation
 
 
 

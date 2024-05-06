@@ -1,5 +1,5 @@
 
-[![Real Estate Marketing Campaign](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223MDv9ZLaK48CtXq6fX0hv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Real Estate Marketing Campaign | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223MDv9ZLaK48CtXq6fX0hv%22%2C%22flow%22%3Atrue%7D%7D)
 Japanese Real Estate optimized
 
@@ -13,6 +13,9 @@ The title has to include the property name in both Japanese and Traditional Chin
 
 Since the investors are international investors, you must provide description of the area. 
 ```
+
+## Welcome Message
+Give me the URL of the real estate.
 
 ## Conversation
 
@@ -45,5 +48,4 @@ Developer Description:
 開發商：夢想地產有限公司（Dream Real Estate Co., Ltd.）
 
 夢想地產有限公司是一家享有盛譽的開發商，專注於打造高品質的房地產項目。該公司以其創新的設計和卓越的施工質量而聞名，並且在市場上擁有良好的信譽。夢想地產有限公司致力於為客戶提供舒適、豪華和現代化的住宅，並且在每個項目中注重細節和品質。他們的專業團隊確保每個項目都能按時交付，並且符合客戶的期望和需求。夢想地產有限公司是您投資房地產的可靠合作夥伴。
-
 

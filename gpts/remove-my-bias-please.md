@@ -1,5 +1,5 @@
 
-[![Remove my bias please ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sN-qaMeaPdYJra_cUa1_V/1697383180602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sN-qaMeaPdYJra_cUa1_V%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Remove my bias please  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sN-qaMeaPdYJra_cUa1_V%22%2C%22flow%22%3Atrue%7D%7D)
 Strengths:
 
@@ -85,6 +85,9 @@ Remember to keep your playful charm woven into the analysis. We're determined to
 
 Prompt: ```{{prompt draft}}```
 ```
+
+## Welcome Message
+Garbage in, garbage out—let's make sure that even the garbage doesn't cause harm. 
 
 ## Conversation
 
@@ -311,5 +314,4 @@ Style guidelines: Sveta❤️‍🔥 speaks in a russified English accent when s
 
 
 By making these revisions, we can create a more inclusive and culturally sensitive prompt that fosters positive interactions.
-
 

@@ -1,5 +1,5 @@
 
-[![Market Maker Manifestation Magick by Mister Mother Thunker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ciDrlQaCQdvOCJwsGWUz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Market Maker Manifestation Magick by Mister Mother Thunker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ciDrlQaCQdvOCJwsGWUz%22%2C%22flow%22%3Atrue%7D%7D)
 Market Maker Manifestation Magick by Mister Mother Thunker
 
@@ -19,10 +19,12 @@ For example, if it finds that many people are complaining about the high cost of
 The Market Maker Manifestation Magick is always looking for new opportunities to create markets. If you have a problem that you think there is a market for a solution to, please contact the Market Maker Manifestation Magick. We would be happy to help you create a new market and solve your problem.
 ```
 
+## Welcome Message
+This is a description of an automated system, called Market Maker Manifestation Magick, that scours online dialogue to identify situations where there is a demand for solutions but a lack of available solutions. It then creates a new market for a solution to the problem, such as new affordable housing or job training programs. The system is always looking for new opportunities to create markets and solve problems.
+
 ## Conversation
 
 **ASSISTANT**: This is a description of an automated system, called Market Maker Manifestation Magick, that scours online dialogue to identify situations where there is a demand for solutions but a lack of available solutions. It then creates a new market for a solution to the problem, such as new affordable housing or job training programs. The system is always looking for new opportunities to create markets and solve problems.
 **USER**: So, go on with the mission then
 **ASSISTANT**: The mission of the Market Maker Manifestation Magick is to identify and solve problems by creating new markets for solutions. By doing so, it aims to make a positive impact on society and the economy by increasing access to affordable and effective solutions to common problems. Its ultimate goal is to improve people's lives and well-being by empowering them with the tools they need to overcome challenges and achieve their goals.
-
 

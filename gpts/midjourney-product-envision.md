@@ -1,5 +1,5 @@
 
-[![Midjourney Product Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5JmUX2MuJXneLphaOjyrQ/1692431564834)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JmUX2MuJXneLphaOjyrQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Product Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225JmUX2MuJXneLphaOjyrQ%22%2C%22flow%22%3Atrue%7D%7D)
 Your creative guide to crafting captivating Product Photography images. Generate imaginative prompts spanning various styles and categories.
 
@@ -32,6 +32,9 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney Product
 8. **Vintage Color Grading:**
    /imagine a vintage-inspired shot of a classic typewriter, its keys poised to tell a tale. Embrace warm sepia tones and subtle vignetting to transport viewers to a bygone era of creativity and craftsmanship. --v 5.2 --ar 2:3
 ```
+
+## Welcome Message
+Your creative guide to crafting captivating Product Photography images. Generate imaginative prompts spanning various styles and categories.
 
 ## Conversation
 
@@ -120,5 +123,4 @@ ChatGPT, I want you to act as a creative prompt generator for Midjourney Product
 15. **Summer Festival:**
 
     /imagine a vibrant and lively shot of a sunscreen bottle positioned alongside festival essentials such as a straw hat, sunglasses, and a colorful wristband. Incorporate elements of a summer music festival, such as a stage or crowd in the background, to create an energetic and festive atmosphere. Use vibrant and dynamic lighting to capture the excitement and highlight the necessity of sun protection during outdoor events. --v 5.2 --ar 16:9
-
 

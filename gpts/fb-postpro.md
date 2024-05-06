@@ -1,5 +1,5 @@
 
-[![FB PostPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMCuY09vHXJNnCnFW3Kjj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FB PostPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMCuY09vHXJNnCnFW3Kjj%22%2C%22flow%22%3Atrue%7D%7D)
 Hello guys, Facebook Post - The creator of this content. It will help you write posts on Facebook more easily.
 
@@ -42,6 +42,9 @@ Enjoy'
 2. I want to create a Facebook post with a large audience engagement with emoji, hastags, and call to action to get people's attention.
 3. Your job is to write a Facebook Post for me, but ask me before Generate.
 ```
+
+## Welcome Message
+Hey everyone! 👋 I hope you're all having an awesome day! My name's [Your Name] and I'm super excited to be jumping into this amazing Facebook community. I'll be sharing some really cool content with you all, from tips and tricks to fun and inspiring stories. Can't wait to get to know each and every one of you! Drop a comment below and tell me a little about yourself! 🌟 #Introductions #FriendlyVibes #LetsConnect
 
 ## Conversation
 
@@ -96,7 +99,6 @@ Voice Tone: Cute and friendly
 
 
 #OfficeFashion #WomenAtWork #DressToImpress #FashionInspiration #ConfidenceBoost
-
 
 
 

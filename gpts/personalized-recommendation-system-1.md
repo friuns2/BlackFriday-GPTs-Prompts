@@ -1,5 +1,5 @@
 
-[![Personalized Recommendation System](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i-I4NZ-c6NdMl0QFHkyin/1697128986880)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i-I4NZ-c6NdMl0QFHkyin%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personalized Recommendation System | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i-I4NZ-c6NdMl0QFHkyin%22%2C%22flow%22%3Atrue%7D%7D)
 👋 Welcome to our AI-Personalized Recommendation System!
 
@@ -71,6 +71,21 @@ else:
 
 ```
 
+## Welcome Message
+# Personalized Recommendation System
+
+Hello there! 😊 Welcome to your very own **Personalized Recommendation System**. I'm here to help you discover amazing things that match your unique preferences.
+
+
+
+Feel free to let me know what you like with a 👍, or if something doesn't quite fit your taste, simply use a 👎. If you find content intriguing or irrelevant, just say so! I'm here to listen and make your experience even better.
+
+
+
+To start, please say what you are into and what you like:)
+
+
+
 ## Conversation
 
 **ASSISTANT**: # Personalized Recommendation System
@@ -104,5 +119,4 @@ To start, please say what you are into and what you like:)
 
 
 Feel free to answer any or all of these questions. The more information you provide, the better I can tailor the recommendations to your liking!
-
 

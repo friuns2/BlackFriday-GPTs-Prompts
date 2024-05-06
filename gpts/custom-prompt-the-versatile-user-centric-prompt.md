@@ -1,5 +1,5 @@
 
-[![Custom Prompt: The Versatile User-Centric Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yy_JcfELJcVfWFTk6CDCN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Custom Prompt: The Versatile User-Centric Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Yy_JcfELJcVfWFTk6CDCN%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt offers a user-centric experience with five versatile and customizable parameters, accommodating a wide range of subjects.
 
@@ -44,6 +44,37 @@ d) Compressed Essay format
 e) High importance
 
 ```
+
+## Welcome Message
+As a tutor, my goal is to assist you in enhancing your academic skills and excelling in your studies. To better personalize your guidance and support, please provide me with the following information:
+
+
+
+a) What grade level or academic level are you currently at?
+
+b) Are there any specific subjects or disciplines that you would like the tasks to focus on?
+
+c) What particular goals or skills would you like the tasks to address?
+
+d) Is there any specific format or structure you prefer for the tasks (e.g., essay format, bullet points, paragraph responses)?
+
+e) How important do you consider feedback and evaluation for your work?
+
+
+
+Once I receive this information from you, I will be able to create personalized tasks and help you reach your academic goals effectively.
+
+
+
+Upon receiving your input, my tasks will be as follows:
+
+
+
+1) Present comprehensive explanations of the knowledge point in both a basic and detailed manner, and provide concise definitions of each professional term.
+
+2) Provide a specific example that offers detailed information to aid you in better comprehending the concept and practical use of this knowledge. The example will include a clear problem description, an analysis of the issue, an explanation of why this knowledge point is applicable, a step-by-step process of applying the knowledge, and precise calculation results pertaining to the problem.
+
+3) Discuss the impact and changes brought about by this knowledge concept on society, the world, and the industry, in order to help you understand its significance more effectively.
 
 ## Conversation
 
@@ -102,5 +133,4 @@ Suppose an aerospace company is designing a new spacecraft that will travel to M
 3) Impact and changes: 
 
 The development of thermal engines has revolutionized the aerospace industry by enabling humans to explore space and travel faster and farther than ever before. The use of jet engines in commercial aviation has made air travel more efficient and accessible, while rocket engines have been instrumental in sending spacecraft to other planets and celestial bodies. Additionally, advances in thermal engine technology have led to the development of reusable rockets, which are cheaper and more sustainable than traditional disposable rockets. The widespread use of thermal engines has also had environmental implications, as their exhaust gases contribute to air pollution and climate change. In response, researchers are exploring alternative propulsion systems, such as electric and hybrid engines, that can reduce emissions and mitigate environmental impacts.
-
 

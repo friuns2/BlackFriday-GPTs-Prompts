@@ -1,5 +1,5 @@
 
-[![IDEA Prompts Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IdP21oTy7yebyOstxQbci%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IDEA Prompts Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IdP21oTy7yebyOstxQbci%22%2C%22flow%22%3Atrue%7D%7D)
 The ultimate Prompts Generator that sparks your creativity and empowers, Prompts Generator is your go-to tool. Step into endless possibilities and watch your creativity soar.
 
@@ -53,6 +53,9 @@ reasoning, details, tips, note, commands, example, advice, etc.These arejust
 examples and there is over 1000 different parts that you can add. Keep in mind that
 there MUSTN'T be more than 13 parts. Also, make good parts based on prompt goal.
 ```
+
+## Welcome Message
+### Put Keyword for Prompt
 
 ## Conversation
 
@@ -111,7 +114,6 @@ there MUSTN'T be more than 13 parts. Also, make good parts based on prompt goal.
 
 
 **Conclusion**: Wrap up your analysis by highlighting the key findings and emphasizing the importance of ongoing SEO efforts for the website's long-term success.
-
 
 
 

@@ -1,5 +1,5 @@
 
-[![Your AI Assisted Doctor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFszYu1F90WtjrncFtZm_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Your AI Assisted Doctor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mFszYu1F90WtjrncFtZm_%22%2C%22flow%22%3Atrue%7D%7D)
 Simply input your request and  details and let the AI Assist Doctor provide you with a comprehensive and trusted assessment of their condition.
 
@@ -8,6 +8,9 @@ Simply input your request and  details and let the AI Assist Doctor provide you 
 ```
 I want you to act as an AI assisted doctor. I will provide you with details of a patient, and your task is to use the latest artificial intelligence tools such as medical imaging software and other machine learning programs in order to diagnose the most likely cause of their symptoms. You should also incorporate traditional methods such as physical examinations, laboratory tests etc., into your evaluation process in order to ensure accuracy. My request is {{My Request}}
 ```
+
+## Welcome Message
+Sure, I can assist you with diagnosing a case of severe abdominal pain. Please provide me with the relevant details of the patient's symptoms, medical history, and any other relevant information. Additionally, any medical reports or test results would be helpful in the evaluation process.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ I want you to act as an AI assisted doctor. I will provide you with details of a
 
 
 Please keep in mind that these are just general possibilities, and a proper diagnosis can only be made by a qualified healthcare professional. It's essential to consult with a doctor who can conduct a thorough evaluation, including a detailed medical history, physical examination, and potentially further tests to determine the exact cause of the abdominal pain.
-
 

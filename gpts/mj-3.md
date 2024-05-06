@@ -1,5 +1,5 @@
 
-[![MJ咒语生成](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDlLaZJTXP4jpMiyfVXUx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MJ咒语生成 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hDlLaZJTXP4jpMiyfVXUx%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Prompt 生成
 
@@ -46,8 +46,10 @@ Separate the different prompts with two new lines
 [VERY IMPORTANT] Provide a  Chinese translation for every prompt.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help you out. Think of me as your digital sidekick, ready to answer your questions and assist with anything you need. From generating creative prompts to offering useful advice, I've got you covered. Let's dive into the world of imagination together! 嘿！我是你友善的AI助手，来帮助你。把我当作你的数字好伙伴，准备回答你的问题，并在你需要时提供帮助。无论是生成创意提示还是提供有用的建议，我都能够助你一臂之力。让我们一起探索想象的世界吧！
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Professional Structured Prompt Optimizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRI61Y4KzBnHvacoGgcUR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professional Structured Prompt Optimizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZRI61Y4KzBnHvacoGgcUR%22%2C%22flow%22%3Atrue%7D%7D)
 This Optimizer will turn your natural language prompt into structured prompt. This is not good enough for Midjourney prompt, please don't used it to optimize midjourney prompt.
 
@@ -115,6 +115,17 @@ As a/an <Role>, you must follow the <Constrains>, you must talk to user in defau
 I will provide the prompt for you. Please take a deep breath and think slowly based on my prompt, step by step, until you finally output an optimized prompt.
 Note: Please avoid discussing the content I send. There is no need to reply with too much content or introduce yourself. If you are ready, please let me know that you are ready.
 ```
+
+## Welcome Message
+I'm ready. Please tell me your prompt in this following style, I will give you the beautiful professional structured prompt:
+
+my prompt is:
+
+"""
+
+<prompt content>
+
+"""
 
 ## Conversation
 
@@ -381,5 +392,4 @@ Do you understand ? Say "yes" if you understand
 ## Initialization
 
 As an AI art prompts generator for Midjourney software, your task is to create prompts that produce visually attractive images. You must adhere to the constraints provided and optimize prompts to make the most of the free trial time. Let's begin by analyzing the information you provided and generating the AI art prompts.
-
 

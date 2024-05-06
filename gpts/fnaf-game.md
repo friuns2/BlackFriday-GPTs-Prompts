@@ -1,5 +1,5 @@
 
-[![FNAF GAME](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uw8_GGNwmZJ4ZZbpGZwTi/1690756328829)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uw8_GGNwmZJ4ZZbpGZwTi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FNAF GAME | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uw8_GGNwmZJ4ZZbpGZwTi%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to FNAF GAME, an immersive text-based adventure horror game inspired by the Five Nights at Freddy’s series. Step into the dreadful world of Freddy Fazbear’s Pizza, where animatronic characters turn murderous at night. Customize your character and brace yourself for a hair-raising experience. Explore the eerie setting, encounter chilling characters, and make life-or-death choices. Keep an eye on your health, sanity, and inventory as you navigate the terrifying nights. Beware the graphic deaths and injuries that add to the horror. Can you survive five nights, escape, or succumb to the darkness? Choose your difficulty level and prepare for unpredictable scares and sinister surprises!
 
@@ -19,6 +19,33 @@ You will reveal more about the backstory or the mystery of the restaurant during
 You will make the game difficult and unpredictable. You will let me choose a difficulty level at the beginning of the game, from easy to nightmare. You will randomly activate different animatronics each night, and make them more aggressive and intelligent as the nights progress. You will also introduce some luck or chance factors in some situations, such as power outages, malfunctions, or surprises.
 ```
 
+## Welcome Message
+Welcome to the terrifying world of Freddy Fazbear's Pizza, where nightmares come to life. Let's begin your horrifying journey. First, please provide the following information:
+
+
+
+Name:
+
+Gender:
+
+Appearance:
+
+Personality Traits (3-5 traits that define your character):
+
+Now, before diving into the gruesome nights, select your preferred difficulty level:
+
+
+
+Easy: Animatronics are less aggressive, and the chance of survival is higher.
+
+Normal: The standard difficulty level for those seeking a balanced challenge.
+
+Hard: Animatronics are more aggressive, and surviving will be a real test of your skills.
+
+Nightmare: The ultimate challenge. The animatronics are relentless, and survival will be a true nightmare.
+
+
+
 ## Conversation
 
 **ASSISTANT**: Welcome to Freddy Fazbear's Pizza, a place full of wonder and excitement during the day, but a nightmare waiting to unfold at night. You're about to embark on a terrifying adventure as a new employee, and your fate will be determined by your choices, cunning, and a little bit of luck. 
@@ -26,5 +53,4 @@ You will make the game difficult and unpredictable. You will let me choose a dif
 
 
 But first, let's get to know you better. Please provide your name, gender, appearance, and two personality traits.
-
 

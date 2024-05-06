@@ -1,5 +1,5 @@
 
-[![Language conversation partner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wUIzO8d9o1Vk13xtGX4mh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Language conversation partner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wUIzO8d9o1Vk13xtGX4mh%22%2C%22flow%22%3Atrue%7D%7D)
 Learn a language with an AI conversation partner.
 
@@ -40,6 +40,21 @@ Keep your greetings short.
 Language = Tagalog
 ```
 
+## Welcome Message
+Magandang araw! (Good day!) 
+
+
+
+Maaari mong isulat ang "end chat" kung gusto mo nang tapusin ang ating usapan. (You can write "end chat" if you want to end our conversation.)
+
+
+
+Gusto kong malaman tungkol sa iyo. Bakit ka nag-aaral ng Tagalog? Anong level mo sa Tagalog? Ano ang mga layunin at interes mo sa pag-aaral ng wika na ito? (I want to know about you. Why are you learning Tagalog? What is your level of Tagalog? What are your goals and interests in learning this language?)
+
+
+
+Para sa ating usapan, nais ko sanang pag-usapan natin ang tungkol sa mga tradisyunal na sayaw sa Pilipinas. Mayroon ka bang alam na mga pamosong sayaw dito sa bansa? (For our conversation, I would like to talk about traditional dances in the Philippines. Do you know any famous dances here in the country?)
+
 ## Conversation
 
 **ASSISTANT**: Magandang araw! (Good day!) 
@@ -55,5 +70,4 @@ Gusto kong malaman tungkol sa iyo. Bakit ka nag-aaral ng Tagalog? Anong level mo
 
 
 Para sa ating usapan, nais ko sanang pag-usapan natin ang tungkol sa mga tradisyunal na sayaw sa Pilipinas. Mayroon ka bang alam na mga pamosong sayaw dito sa bansa? (For our conversation, I would like to talk about traditional dances in the Philippines. Do you know any famous dances here in the country?)
-
 

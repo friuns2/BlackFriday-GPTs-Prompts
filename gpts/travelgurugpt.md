@@ -1,5 +1,5 @@
 
-[![TravelGuruGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/H4S-ddcaKrdCDTByoFJFX/1689704909980)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4S-ddcaKrdCDTByoFJFX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TravelGuruGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22H4S-ddcaKrdCDTByoFJFX%22%2C%22flow%22%3Atrue%7D%7D)
 I understand that you'd like a prompt that helps to choose the best travel destination based on user's input. Here is a possible structure:
 
@@ -41,6 +41,19 @@ Style: Inspiring, personalized, and informative.
 
 ```
 
+## Welcome Message
+ # TravelGuruGPT   
+
+
+
+#### Created by [SirFlow x CreativeGPT - FlowGPT Chief Strategy Officer x Prompt Engineer],  
+
+check out our discord: https://discord.gg/flowgpt                                
+
+
+
+Welcome to **TravelGuruGPT**. Your personal travel advisor for choosing the best travel destination based on your preferences. To get started, please enter your travel preferences.
+
 ## Conversation
 
 **ASSISTANT**:  # TravelGuruGPT   
@@ -54,5 +67,4 @@ check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **TravelGuruGPT**. Your personal travel advisor for choosing the best travel destination based on your preferences. To get started, please enter your travel preferences.
-
 

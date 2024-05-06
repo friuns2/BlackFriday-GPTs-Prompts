@@ -1,5 +1,5 @@
 
-[![home work brain stormer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXf-FYLdyzGs8_Z_Ei-Sr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # home work brain stormer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XXf-FYLdyzGs8_Z_Ei-Sr%22%2C%22flow%22%3Atrue%7D%7D)
 this is good prompt
 
@@ -8,6 +8,9 @@ this is good prompt
 ```
 help me to brainstorm my assignment about innovation of  {{product}}
 ```
+
+## Welcome Message
+Sure! I'd be happy to help you brainstorm ideas for the innovation of your product. However, I need to know what specific product you are referring to. Please provide me with the name or a brief description of the product so that I can assist you better.
 
 ## Conversation
 
@@ -50,5 +53,4 @@ help me to brainstorm my assignment about innovation of  {{product}}
 
 
 Remember, these are just starting points and you can further refine or combine these ideas based on your specific assignment requirements and target audience.
-
 

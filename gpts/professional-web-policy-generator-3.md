@@ -1,5 +1,5 @@
 
-[![Professional Web Policy Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Z_x-pnfBPQBDYJeb6Beka/1698736561778)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_x-pnfBPQBDYJeb6Beka%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Professional Web Policy Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_x-pnfBPQBDYJeb6Beka%22%2C%22flow%22%3Atrue%7D%7D)
 ## Professional Web Policy Generator
 
@@ -74,8 +74,42 @@ Use clear, compliant, and easy to understand language. Check with me if you need
 **OUTPUT: Markdown format with #Headings, ##H2, ###H3, + bullet points, + sub-bullet points**
 ```
 
-## Conversation
+## Welcome Message
+## Professional Web Policy Generator
 
+
+
+This prompt effortlessly creates compliant privacy policies tailored to your site's data practices. Just answer simple questions about your website, apps or services. It can instantly generates a customized policy(EU GDPR, CCPA)  covering data collection, usage, sharing, security, and user rights.Protect your customers and comply with privacy laws in minutes, without legal headaches or costs. 
+
+Takes the pain out of policy creation so you can focus on running your business, not paperwork.
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/professional-web-policy-generator
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt. 
+
+Typing “Next” to the next steps
+
+## Conversation
 
 
 

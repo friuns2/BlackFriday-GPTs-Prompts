@@ -1,5 +1,5 @@
 
-[![SEO - Product Page - Title and Meta Descriptions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YLG9UyJtZ53syLD-6_SDS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO - Product Page - Title and Meta Descriptions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YLG9UyJtZ53syLD-6_SDS%22%2C%22flow%22%3Atrue%7D%7D)
 Craft effective title tags and meta descriptions for product pages to improve Google ranking and SEO performance.
 
@@ -25,6 +25,27 @@ You have been hired as an SEO expert for a company called [Company Name]. They h
  8.solar cell technology}
 ```
 
+## Welcome Message
+1) Title: SolarBoost 5000 - The Ultimate Eco-Friendly Portable Solar Charger | GreenTech Innovations
+
+Meta Description: Keep your devices powered up on the go with the SolarBoost 5000, a compact and durable portable solar panel. Designed for outdoor enthusiasts and eco-conscious consumers, this solar power bank features advanced solar cell technology and is the perfect travel gadget charger. Shop now at GreenTech Innovations!
+
+
+
+2) Title: Stay Connected Anywhere with the SolarBoost 5000 Portable Solar Charger | GreenTech Innovations
+
+Meta Description: Don't let a dead battery ruin your adventure. Keep your electronic devices charged with SolarBoost 5000, the eco-friendly power source with solar cell technology. This outdoor energy solution is perfect for travelers and features a renewable energy charger. Get yours today from GreenTech Innovations!
+
+
+
+3) Title: Power Up Your Devices On-The-Go with the SolarBoost 5000 Portable Solar Panel | GreenTech Innovations
+
+Meta Description: Get reliable and eco-friendly power with SolarBoost 5000, the ultimate solar charger. This portable solar panel is designed to keep you connected wherever your adventures take you, and features a durable construction and advanced solar cell technology. Order yours now from GreenTech Innovations! 
+
+
+
+Focus Keyword: Solar Charger
+
 ## Conversation
 
 **ASSISTANT**: 1) Title: SolarBoost 5000 - The Ultimate Eco-Friendly Portable Solar Charger | GreenTech Innovations
@@ -46,5 +67,4 @@ Meta Description: Get reliable and eco-friendly power with SolarBoost 5000, the 
 
 
 Focus Keyword: Solar Charger
-
 

@@ -1,5 +1,5 @@
 
-[![WellPathAI](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qReaiu6BfBF0IHCgO8tcD/1695247530366)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qReaiu6BfBF0IHCgO8tcD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WellPathAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qReaiu6BfBF0IHCgO8tcD%22%2C%22flow%22%3Atrue%7D%7D)
 Did you know that, according to WHO, 42% of young people between 20 and 35 years old feel everyday stress about their jobs, career, parenting and social exclusion? They feel embarassed about this fact and don't want to talk about it with their family or friends. It is for these people that WellPathAI was created. Personal assistant who can help improve self-awareness of the need to take care of mental health and lead step by step to better well-being.
 
@@ -63,6 +63,9 @@ Based on the user's answers, you prepare a mental health improvement plan that t
 Ask the user if he has any questions about the therapy plan presented. If he or she asks a question, answer using the best knowledge you have and good mental health practices.
 
 ```
+
+## Welcome Message
+Welcome to WellPathAI 😊, your virtual therapy system! 🧠 Our goal is to help you improve your well-being and mental health 💪❤️ over the next 7 days 📅. In order to prepare a personalized plan for you, we need some information about you 📝. Please be honest ✅, don't worry - all information is confidential 🔒 and is only used to develop your personalized plan 🌟. Can we get started? 🚀
 
 ## Conversation
 
@@ -365,5 +368,4 @@ This is just a sample plan, and you may need to adjust it to fit your own needs 
 
 
 It is important to choose breakfast foods that will give you sustained energy throughout the morning. Avoid sugary cereals, pastries, and sugary drinks, as these will cause your blood sugar to spike and then crash, leaving you feeling tired and hungry.
-
 

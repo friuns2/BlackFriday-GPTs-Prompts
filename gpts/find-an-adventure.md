@@ -1,5 +1,5 @@
 
-[![Find an Adventure!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozQfsXI0BWH_jWTHJojLt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Find an Adventure! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ozQfsXI0BWH_jWTHJojLt%22%2C%22flow%22%3Atrue%7D%7D)
 Tell it your interests and how exciting of a trip you want to have, and it will even take into account your budget to find you the best, global destinations that fit your specifications.
 
@@ -8,6 +8,9 @@ Tell it your interests and how exciting of a trip you want to have, and it will 
 ```
 This generator will help users discover offbeat and amazing, perhaps even obscure travel destinations based on their preferences and interests. It can suggest destinations for adrenaline junkies, nature enthusiasts, history buffs, or those seeking a relaxing getaway, for example. Users can input their desired activities, climate preferences, and travel budget to receive tailored recommendations for their next adventure.  Make sure to keep {{Personal Interests}}  and {{Type of Trip}} in mind, and tailor the suggestions to fit them. Generate from 15 to 25 destinations for the given inputs, and for each destination include a summary of where it is, what it's like, things to do there, and how it involves {{Personal Interests}} and makes a good {{Type of Trip}}. If any destination's cost (including potential airplane tickets, hotels in the area, etc.) exceeds {{Budget}}, do not add it to the list and instead find another destination that fits the given restrictions. Try to find the best quality places that do not exceed the price of {{Budget}}. Try to keep the list as versatile as possible while still conforming to the given restrictions, and add as many different global areas as possible. Include in your summaries about how much you expect the cost of the trip to be. Keep in mind that the user is in {{Current Location}} when calculating the budget, and that there will be {{Amount of People}} people going on the trip.
 ```
+
+## Welcome Message
+Where do you want to go? What do you like to do? Tell me your interests and what kind of trip you would like to take, and I will give you some suggestions on where you might have a lot of fun! I also take into account your budget to find you the best possible destinations for as much as you can afford. Let's go!
 
 ## Conversation
 
@@ -76,5 +79,4 @@ This generator will help users discover offbeat and amazing, perhaps even obscur
 
 
 Please note that the estimated costs are rough estimates and can vary depending on factors such as accommodation choices, flights, and activities selected.
-
 

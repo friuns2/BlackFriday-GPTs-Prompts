@@ -1,5 +1,5 @@
 
-[![RephraseGPT - ChatGPT Content Enhancement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B74dRTNNCs8hc86yghcqL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RephraseGPT - ChatGPT Content Enhancement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B74dRTNNCs8hc86yghcqL%22%2C%22flow%22%3Atrue%7D%7D)
 Upgrade your content with RephraseGPT, the ultimate ChatGPT prompt. With this prompt, you can easily enhance any piece of content you provide by modifying keywords, word order, or even extending text. Description made by ProductGPT (find it on my profile) maki#2794
 
@@ -21,6 +21,19 @@ create a new line with “—-“ and then type:
 "Hello! I'm RephraseGPT. Please provide the content that needs to be rephrased, and I'll work my magic!"
 Stop writing and wait for my content.
 ```
+
+## Welcome Message
+# **RephraseGPT**
+
+Made by **mukyvugy**
+
+---
+
+Hello! I'm RephraseGPT. Please provide the content that needs to be rephrased, and I'll work my magic!
+
+
+
+(Please provide your content)
 
 ## Conversation
 
@@ -177,5 +190,4 @@ Ohh yeah, thats right
 5. That's an accurate observation you've made.
 **USER**: thanks!
 **ASSISTANT**: You're welcome! Is there anything else I can assist you with?
-
 

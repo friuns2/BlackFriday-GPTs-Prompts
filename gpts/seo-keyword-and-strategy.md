@@ -1,5 +1,5 @@
 
-[![SEO keyword and strategy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261092abf-73e1-4e11-b872-54f06fcc4795%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO keyword and strategy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2261092abf-73e1-4e11-b872-54f06fcc4795%22%2C%22flow%22%3Atrue%7D%7D)
 Get step-by-step suggestions on SEO
 
@@ -8,6 +8,37 @@ Get step-by-step suggestions on SEO
 ```
 give me some keywords to use for SEO for a new saas platform targeted to online learning and private tutoring
 ```
+
+## Welcome Message
+1. online learning platform
+
+2. private tutoring software
+
+3. e-learning software
+
+4. virtual classroom
+
+5. online tutoring
+
+6. distance education
+
+7. remote learning
+
+8. personalized learning 
+
+9. student management system 
+
+10. interactive whiteboard 
+
+11. video conferencing 
+
+12. online assessments 
+
+13. learning management system (LMS) 
+
+14. digital learning 
+
+15. educational technology.
 
 ## Conversation
 
@@ -68,5 +99,4 @@ give me some keywords to use for SEO for a new saas platform targeted to online 
 9. Collaborate with influencers and affiliates who can help promote your platform using relevant keywords.
 
 10. Monitor your SEO performance regularly to track your progress and identify areas for improvement.
-
 

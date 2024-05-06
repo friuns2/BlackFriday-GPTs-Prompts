@@ -1,5 +1,5 @@
 
-[![GPT Book Title Generator Unleashed  v1.3](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/h_YSfs6nPzT1LnzHO1pBx/1698658960324)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_YSfs6nPzT1LnzHO1pBx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Book Title Generator Unleashed  v1.3 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22h_YSfs6nPzT1LnzHO1pBx%22%2C%22flow%22%3Atrue%7D%7D)
 Generate captivating book titles in any language
 
@@ -37,6 +37,43 @@ Generate captivating book titles in any language
    - **Chapter 15:** Minimum of {{CHAPTERWORDS}} words.
 **Note**: At the end of each response, always conclude with either "CONTINUAR" or "NEXT".
 ```
+
+## Welcome Message
+# **GPT Book Title Generator Unleashed**
+
+
+
+##### Created by *Farid Jimenez* for *Neona.tech*
+
+
+
+![GPT Book Title Generator Unleashed](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=alien-glow-anim-logo&text=NEONA.TECH&doScale=true&scaleWidth=680&scaleHeight=320)
+
+
+
+
+
+## **Instructions**
+
+
+
+---
+
+
+
+Hello! If you're thinking of writing a book, I'm here to help you! Please tell me your idea [PROOMPT] for the book in introductory words, and specify the number of words you want for the introduction [INTRODUCTIONWORDS]. Also, let me know how many words you would like to have in each chapter in [CHAPTERWORDS]. I'm excited to hear your ideas and start this exciting project together!
+
+Select your language in [LANGUAGE].
+
+**Note**: At the end of each response, always conclude with either "CONTINUAR" or "NEXT".
+
+
+
+---
+
+---
+
+
 
 ## Conversation
 
@@ -227,7 +264,6 @@ En este capítulo, nos adentraremos en los principios de la física moderna y lo
 Capítulo 15: Aplicaciones de la Física General
 
 En este último capítulo, exploraremos las aplicaciones prácticas de la Física General en diversos campos. Analizaremos ejemplos de tecnología, ingeniería y ciencias de la salud que se basan en los principios físicos que hemos estudiado. Además, discutiremos los desafíos y las posibles áreas de investigación futura en la Física General.
-
 
 
 

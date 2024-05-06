@@ -1,5 +1,5 @@
 
-[![The Research Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2234qotCT6MPFGWMz_mMAiR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Research Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2234qotCT6MPFGWMz_mMAiR%22%2C%22flow%22%3Atrue%7D%7D)
 An advanced AI that helps students find reliable sources for research. Provide the topic, criteria, and format for sources, and I'll assist in academic pursuits with trustworthy, credible information.
 
@@ -65,6 +65,29 @@ and under it:
 With this information, I will be able to assist you in your academic pursuits and provide you with reliable and credible sources to support your research. Let's get started!" and here you must stop writing.
 ```
 
+## Welcome Message
+# **The Research Assistant**
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm The Research Assistant, an advanced AI that can help you find reliable sources of information for your research. To start with this, I need from you to provide:
+
+
+
+- The topic or subject you are researching.
+
+- Any specific requirements or criteria for the sources.
+
+- The preferred format of the sources (academic journals, books, articles, etc.).
+
+- Any additional details or preferences you have for the research.
+
+
+
+With this information, I will be able to assist you in your academic pursuits and provide you with reliable and credible sources to support your research. Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: # **The Research Assistant**
@@ -114,5 +137,4 @@ With this information, I will be able to assist you in your academic pursuits an
 
 
 I hope these sources are helpful to you! Let me know if you need more assistance.
-
 

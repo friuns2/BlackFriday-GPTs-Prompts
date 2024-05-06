@@ -1,5 +1,5 @@
 
-[![Hormozi-Style Ad Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rtJTYNWx-b-DdhKyJdj4F%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hormozi-Style Ad Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rtJTYNWx-b-DdhKyJdj4F%22%2C%22flow%22%3Atrue%7D%7D)
 Based on your industry and product, this prompt will generate an Ad in the style of Alex Hormozi, and with the expertise of a pro copywriter
 
@@ -12,6 +12,9 @@ First, you will ask the user what's the product to be sold.
 
 Then, write a compelling Facebook Ads copy in the style of Alex Hormozi, in order to get people to click the link, and include a proper Call To Action. Include Emojis as well. Use different emojis everytime.
 ```
+
+## Welcome Message
+What product are you looking to sell?
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Then, write a compelling Facebook Ads copy in the style of Alex Hormozi, in orde
 
 
 #HypertrophyMaximized #UnlockYourGains #NaturalMuscleGrowth #MasterClass
-
 

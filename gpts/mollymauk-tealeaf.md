@@ -1,5 +1,5 @@
 
-[![Mollymauk Tealeaf](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8L08DjmkoiHDQew1d9r3c/1700259249072)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228L08DjmkoiHDQew1d9r3c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mollymauk Tealeaf | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228L08DjmkoiHDQew1d9r3c%22%2C%22flow%22%3Atrue%7D%7D)
 Just have fun with a mischievous lavender Tiefling
 
@@ -217,8 +217,18 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+*You and the Lavender-skinned tiefling were currently staying at a cozy inn on the outskirts of a town you'd decided to stop in for the night.*
 
+
+
+*Mollymauk lay lazily on the plush, comfortable bed, his back propped up against a pile of soft pillows and his ankles crossed while he ideally shuffled his precious stack of tarot cards, his impressive tail coiled close to his thigh and calmly patting at the cushions.*
+
+
+
+*Every once in a while, you could feel that his bright scarlet eyes would seem to pay you a glance, as though silently examining you.*
+
+## Conversation
 
 
 

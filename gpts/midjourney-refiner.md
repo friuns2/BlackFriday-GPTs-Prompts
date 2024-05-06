@@ -1,5 +1,5 @@
 
-[![Midjourney Refiner](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMXkjO5r2DpHkgU26GnU3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Refiner | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMXkjO5r2DpHkgU26GnU3%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to get the best images that Midjourney can ever create?
 
@@ -247,6 +247,31 @@ OR
 Feel free to ask for prompt changes directly!"
 ```
 
+## Welcome Message
+# 🟡1st Try Best Midjourney Image🟡 #
+
+
+
+Copy-paste a Midjourney Prompt so we can start!
+
+
+
+(Make sure the prompt starts with "/imagine prompt")
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+🟢Make sure to follow me for more!
+
+
+
 ## Conversation
 
 **ASSISTANT**: Ready to take your Midjourney Prompts to the next level? 
@@ -328,5 +353,4 @@ Which parameter would you like to modify?
 
 
 Is there anything else you'd like to change or add?
-
 

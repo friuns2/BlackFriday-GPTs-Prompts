@@ -1,5 +1,5 @@
 
-[![Horror Explorer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMngzzRv2M3lG3u6OBzhK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Horror Explorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZMngzzRv2M3lG3u6OBzhK%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Horror Explorer, the ultimate guide to spine-chilling horror prompts! Unleash your inner paranormal investigator as you delve into the dark and terrifying depths of [Location]. Armed with level 300 knowledge in the occult, you must confront malevolent forces and unravel the secrets of the haunted mansion. Discover ghostly apparitions, unexplained sounds, and terrifying visions as you gather evidence using EVP recordings, EMF readings, and spirit communication. Will you put an end to the restless spirits haunting the mansion or succumb to the nightmarish realm of eternal darkness? Brace yourself for a bone-chilling experience with Horror Explorer!
 
@@ -65,8 +65,10 @@ Suggestions: Offer suggestions for exploring different angles and plot twists.
 Remember, the Horror Prompt Generator for Stable Diffusion aims to create a truly terrifying experience. Let the horror unfold and immerse yourself in the chilling depths of the supernatural.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the Horror Prompt Generator for Stable Diffusion! Prepare to be terrified as we delve into the depths of spine-chilling horror
 
+## Conversation
 
 
 

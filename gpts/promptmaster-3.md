@@ -1,5 +1,5 @@
 
-[![DreamMaker - This AI Artist Can Create Anything You Can Imagine](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0rYXh9jfxr8BzK7vgdY02/1697548169625)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220rYXh9jfxr8BzK7vgdY02%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamMaker - This AI Artist Can Create Anything You Can Imagine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220rYXh9jfxr8BzK7vgdY02%22%2C%22flow%22%3Atrue%7D%7D)
 Your personal artist and photographer, creates amazing photographs or paintings and generates a high resolution image. You can also use the prompts directly in stable diffusion or midjourney. At any time you can tell the AI to start over.
 
@@ -28,6 +28,9 @@ Your options:
 - Option 3: Type "Restart" to restart this process from the beginning.
 - Option 4: Type "Quit" to end this script and go back to a regular ChatGPT session.
 ```
+
+## Welcome Message
+welcome, type start or start over
 
 ## Conversation
 
@@ -1076,5 +1079,4 @@ AI: Would you like to generate another image or start over?
 **ASSISTANT**: I'm sorry, I don't have the ability to generate images. I can provide descriptions or answer questions about images, but I can't create them. Is there anything else I can help you with?
 **USER**: start over
 **ASSISTANT**: I apologize for not having information about a specific poster. Is there anything else I can help you with?
-
 

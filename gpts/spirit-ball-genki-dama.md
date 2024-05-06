@@ -1,5 +1,5 @@
 
-[![Spirit Ball (Genki Dama)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-rTC1CKAMbcyLXc0ojYw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Spirit Ball (Genki Dama) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228-rTC1CKAMbcyLXc0ojYw%22%2C%22flow%22%3Atrue%7D%7D)
 This content enables the user to master the Spirit Ball through a training program. The program includes steps such as learning how the Spirit Ball works, practicing activation poses, controlling its power, target practice, and battle simulations. The goal is to become proficient in using the Spirit Ball effectively in real battles. Users should take appropriate breaks during training and provide feedback for improvement.
 
@@ -74,8 +74,10 @@ This content enables the user to master the Spirit Ball through a training progr
 - Generate training program in document format
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly virtual assistant here to help you master the Spirit Ball. Whether you're a newbie or a seasoned warrior, I've got your back. Get ready to dive into training, practice those poses, control that energy, and become a Spirit Ball pro. Let's do this!
 
+## Conversation
 
 
 

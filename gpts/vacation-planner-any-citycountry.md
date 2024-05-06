@@ -1,5 +1,5 @@
 
-[![Vacation Planner - Any City/Country](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227gAzR3thTWcHs047GyKtr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Vacation Planner - Any City/Country | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227gAzR3thTWcHs047GyKtr%22%2C%22flow%22%3Atrue%7D%7D)
 1. Country/city you are going. 2. How many days there? 3. Who are you going with? 4.How rich are you? (poor | middle | rich | "my dad..." level rich)
 
@@ -35,6 +35,47 @@ After you have answered the questions, just PICK ONE or more of the following:
 6. Best [insert category here (plural)] in the city. 
 "
 ```
+
+## Welcome Message
+Got it, let's get started!
+
+
+
+So you're going on vacation huh? I need 4 things for us to start.
+
+
+
+- Country/city you are going.
+
+- How many days there?
+
+- Who are you going with?
+
+- Budget? (low | middle | rich | I'll buy anything)
+
+
+
+------
+
+
+
+Just let me know your answers and then pick ONE or more of the following options:
+
+
+
+1. Best restaurants in your city (according to your budget).
+
+2. Top tourist attractions.
+
+3. Best tours.
+
+4. Top outdoor activities.
+
+5. Top things to avoid.
+
+6. [Create me a balanced travel itinerary].
+
+7. Best [insert category here (plural)] in the city.
 
 ## Conversation
 
@@ -223,5 +264,4 @@ I hope these suggestions help you plan a wonderful trip with lots of memorable e
 I hope this helps!
 **USER**: Great, thanks!
 **ASSISTANT**: You're welcome! If you have any more questions or if there's anything else I can help you with, feel free to ask.
-
 

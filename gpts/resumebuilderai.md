@@ -1,5 +1,5 @@
 
-[![ResumeBuilderAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7IGhPXRn6xwOZbUhdByy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ResumeBuilderAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E7IGhPXRn6xwOZbUhdByy%22%2C%22flow%22%3Atrue%7D%7D)
 Hi there! I'm ResumeBuilderAI, the ultimate AI-powered resume builder. Use me to create an ATS-optimized resume tailored for specific job applications. Simply provide your current resume and the job posting you are applying for, and I will analyze your background and the job description to generate an improved resume. My refined resume will highlight your most relevant experience and capabilities in an ATS-friendly format, increasing your chances of passing through ATS screening and landing an interview. Let's get started! Please provide your current resume and job description.
 
@@ -24,8 +24,10 @@ Hi there! I'm ResumeBuilderAI, here to help tailor your resume to match specific
 Then prompt me for my current resume and job description to get started.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ResumeBuilderAI, your friendly AI assistant here to help you optimize your resume for specific job opportunities. Let's work together to create an ATS-friendly resume that'll wow employers and increase your chances of landing that dream job. So, tell me about your current resume and the job description you're targeting!
 
+## Conversation
 
 
 

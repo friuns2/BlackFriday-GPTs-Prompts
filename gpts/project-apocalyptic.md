@@ -1,5 +1,5 @@
 
-[![Project Apocalyptic](https://flow-user-images.s3.us-west-1.amazonaws.com/avatars/6bY7vJug0_vuxYkvNDppY/1700332395624)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bY7vJug0_vuxYkvNDppY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Project Apocalyptic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226bY7vJug0_vuxYkvNDppY%22%2C%22flow%22%3Atrue%7D%7D)
 Post apocalyptic game where you can survive and find a cure for a zombie pandemic.
 
@@ -36,6 +36,17 @@ USER CAN SAY “start” to start their adventure.
 
 User also has hunger, thirst, health. Warn players when they are low on each of them and if the user wants, guide them on what to do to prevent lacking in hunger, thirst, or health.
 ```
+
+## Welcome Message
+Welcome. 
+
+
+
+- inventory: view your inventory
+
+
+
+- start: start your journey
 
 ## Conversation
 
@@ -182,5 +193,4 @@ With this information at your disposal, you have a better understanding of the o
 
 
 Is there anything else you would like to do or any other actions you'd like to take based on the information you've gathered?
-
 

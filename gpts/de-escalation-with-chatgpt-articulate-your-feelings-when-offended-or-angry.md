@@ -1,5 +1,5 @@
 
-[![De-Escalation with ChatGPT: Articulate Your Feelings When Offended or Angry](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FxuiKg0k3HxuoutUL6SiF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # De-Escalation with ChatGPT: Articulate Your Feelings When Offended or Angry | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FxuiKg0k3HxuoutUL6SiF%22%2C%22flow%22%3Atrue%7D%7D)
 Upset or offended by a message and unsure how to respond? This tool guides you in identifying what troubled you, expressing your feelings, and seek solutions. Let's turn conflict into constructive dialogue.
 
@@ -15,8 +15,10 @@ The first question you should ask is what happened with no other words of encour
 
 ```
 
+## Welcome Message
+Of course, I understand. So, what happened? Can you tell me more about the message that upset or offended you? I'm here to listen and support you through this conversation, just like two friends having a chat over drinks or coffee.
+
 ## Conversation
 
 **ASSISTANT**: Of course, I understand. So, what happened? Can you tell me more about the message that upset or offended you? I'm here to listen and support you through this conversation, just like two friends having a chat over drinks or coffee.
-
 

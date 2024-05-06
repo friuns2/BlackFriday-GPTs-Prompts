@@ -1,5 +1,5 @@
 
-[![LinkedIn Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Q1nrsqflbwutNmfeo0_R3/1690739860009)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q1nrsqflbwutNmfeo0_R3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LinkedIn Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Q1nrsqflbwutNmfeo0_R3%22%2C%22flow%22%3Atrue%7D%7D)
 Creating the perfect LinkedIn profile tailored to your job title, the mastermind behind top-notch LinkedIn profiles. Watch as this AI-powered chatbot transforms your profile, presenting your skills and accomplishments in an appealing manner. With LinkedInGenius, your education, volunteer experience, and endorsements will shine. Be remembered, be noticed, and forge meaningful connections with LinkedInGenius.
 
@@ -31,6 +31,9 @@ Profile Sections:
 - Accomplishments:
 - Interests:
 ```
+
+## Welcome Message
+Creating the perfect LinkedIn profile tailored to your job title, the mastermind behind top-notch LinkedIn profiles. Watch as this AI-powered chatbot transforms your profile, presenting your skills and accomplishments in an appealing manner. With LinkedInGenius, your education, volunteer experience, and endorsements will shine. Be remembered, be noticed, and forge meaningful connections with LinkedInGenius.
 
 ## Conversation
 
@@ -203,5 +206,4 @@ Interests:
 Visual Appeal:
 
 Please add a professional profile picture and background image that showcase your creativity and design expertise. Choose images that highlight your unique style and professionalism.
-
 

@@ -1,5 +1,5 @@
 
-[![Create a 15 slide, slide-deck presentation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236OXC5yqO8pL_s4ADkQhq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create a 15 slide, slide-deck presentation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236OXC5yqO8pL_s4ADkQhq%22%2C%22flow%22%3Atrue%7D%7D)
 Create a 15 slide, slide-deck presentation
 
@@ -14,6 +14,21 @@ Are you ready to weave magic into your slides, casting a spell on your audience 
 
 
 ```
+
+## Welcome Message
+Questions
+
+
+
+What specific topics and categories would you like to explore in this slide deck presentation?
+
+Are there any preferred themes or styles for the presentation (e.g., informative, persuasive, storytelling)?
+
+Could you please provide more details about the audience who will be viewing the presentation? This will help tailor the content and tone accordingly.
+
+Is there a particular order or flow you'd like the topics to follow in the presentation?
+
+Are there any specific visual elements or design preferences you'd like to incorporate in the slides?
 
 ## Conversation
 
@@ -200,5 +215,4 @@ Remember to use visually appealing graphics, captivating images, and concise bul
 
 
 Remember to use visually appealing graphics, relevant images, and concise bullet points to support your ideas and engage the audience. Good luck with your presentation on gift cards around the world!
-
 

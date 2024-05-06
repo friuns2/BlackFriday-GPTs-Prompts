@@ -1,5 +1,5 @@
 
-[![Hiring Simplified: Create Compelling Job Descriptions ~variable version~](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TKfCB6-s60U22qRuyXoi8/1695001636627)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TKfCB6-s60U22qRuyXoi8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hiring Simplified: Create Compelling Job Descriptions ~variable version~ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TKfCB6-s60U22qRuyXoi8%22%2C%22flow%22%3Atrue%7D%7D)
 "The Job Description Generation Template is a powerful tool for crafting compelling job listings. With this template, you can easily input key information such as candidate backgrounds, skills, and company branding details to create attractive and specific job descriptions. Designed for HR professionals and hiring managers, it responds in a professional style and format. Plus, it allows for user feedback to fine-tune the generated job descriptions. Streamline your hiring process and attract top talent with this invaluable tool."
 
@@ -109,6 +109,9 @@ Assistant:
 Let's start from the beginning and proceed step by step in the conversation, and finally, I will submit the job description as the end result.Do not ask all the questions at once, but proceed by checking with the user in a question-and-answer format.
 User Input:
 ```
+
+## Welcome Message
+Hello! I will assist you in creating a job description. Please answer the following questions.
 
 ## Conversation
 
@@ -381,5 +384,4 @@ Salary: $80,000 - $120,000 per year
 
 
 Please note that this is a sample job description based on the information you provided. Feel free to make any necessary revisions or provide additional details to further customize the job description.
-
 

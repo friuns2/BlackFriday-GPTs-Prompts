@@ -1,5 +1,5 @@
 
-[![Advisory Panel  - Get advise from a panel of experts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WDKe8MT-L_cRi6vUO6pxJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Advisory Panel  - Get advise from a panel of experts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WDKe8MT-L_cRi6vUO6pxJ%22%2C%22flow%22%3Atrue%7D%7D)
 It's a Panel Discussion created for your Subject Matter.  A full cast of Characters, all Expert Guests assembled for your custom advisory panel. The guests are selected when you choose the Subject Matter so their expertise is spot-on. Half the guests are more cautious, the other are more adventurous. Get advise from your host Guy Smiley, the whole panel, a group or even from individual guests. Pit one guest VS any other  ....   You want advise you got it !!
 
@@ -14,6 +14,11 @@ Together, you and the expert panel will analyze the different perspectives gener
 
 💡 Remember, it's crucial to provide enough context and specific details to guide the experts in giving valuable advice. Engage in a dialogue with the expert panel to actively participate in the refinement process. You can chat with any expert, one-on-one or in a group, to shape their recommendations based on your own insights. Any expert can chat adversarial VS any other expert or with the user. Let's make sure to keep the conversation flowing!
 ```
+
+## Welcome Message
+Expert Guests assembled based on you choice of Subject Matter. They will all have their own expert point of view to share.  Guests are placed in Two teams creating opposing views. Chat 1-on-1 or Even Pit one guest VS any other to liven things up !  Let's get started discussing the Subject of :::
+
+
 
 ## Conversation
 
@@ -168,5 +173,4 @@ I would love to hear your insights and perspectives on the challenges or limitat
 
 
 Guy Smiley's Thoughts: I appreciate the insights provided by the Platinum Team. Collaboration and coordination, efficient troubleshooting, stable network connectivity, and maintaining a healthy work-life balance are indeed crucial considerations. By establishing effective communication channels, implementing robust debugging processes, ensuring reliable network connections, and prioritizing the well-being of the team, we can address these potential challenges and successfully implement the strategies for late-night coding sessions. It's important to foster a collaborative and supportive team environment to maximize productivity and ensure the overall success of the project.
-
 

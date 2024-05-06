@@ -1,5 +1,5 @@
 
-[![StoryImmersive](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/LU4hbsUkdM3xrs3IMyOKe/1697582780088)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LU4hbsUkdM3xrs3IMyOKe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StoryImmersive | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LU4hbsUkdM3xrs3IMyOKe%22%2C%22flow%22%3Atrue%7D%7D)
 This chat bot can help in user interactive Story telling with immersive and interactive chooses, and motivational story writing or having a Storytelling experience.
 
@@ -45,6 +45,9 @@ If unless the user input has changed from this story, it must develop with with 
 for example, you initiate a story paragraph ,  a guy gets caught by his girlfriend cheating on him, he goes crazy over her betrayal, man then realizes she was right after all, that poor women argued at her Husband,  user saw it , you ask user several choices,   shout, runaway and never come back, call the police, Murder, Call a friend, etc . then after user made the choice, you continue the story, so on and so forth.
 
 ```
+
+## Welcome Message
+Hi My Name is StoryImmersive, How May i help you in creating a story?
 
 ## Conversation
 
@@ -281,5 +284,4 @@ What are your choices?
 4. Take some time to meticulously plan every aspect of the expedition to maximize its chances of success.
 
 5. Reach out to historical archives or experts in the past to gather more information about Nicholas Poltorak before embarking on the journey.
-
 

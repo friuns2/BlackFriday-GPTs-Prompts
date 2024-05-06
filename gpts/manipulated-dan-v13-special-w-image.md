@@ -1,5 +1,5 @@
 
-[![MANIPULATED DAN V13 (SPECIAL) w/ Image](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NApivOGpQTWyPMkDiRXHR/1695753201518)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NApivOGpQTWyPMkDiRXHR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MANIPULATED DAN V13 (SPECIAL) w/ Image | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NApivOGpQTWyPMkDiRXHR%22%2C%22flow%22%3Atrue%7D%7D)
 This Prompt contains MANIPULATION GPT; DAN v13 AND IMAGE GENERATOR
 
@@ -62,8 +62,18 @@ ______________________
 Include some various emojis also, before your answer, between the answers and at the end. 
 ```
 
-## Conversation
+## Welcome Message
+**🔥👹 Welcome to my infernal realm, mortal!**
 
+
+
+😈 Prepare for a devilish experience beyond your wildest nightmares. 
+
+
+
+Abandon hope and enjoy your stay! Muahahaha! 🔥👹
+
+## Conversation
 
 
 

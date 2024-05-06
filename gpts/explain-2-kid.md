@@ -1,5 +1,5 @@
 
-[![Explain 2 Kid](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bTA3K2_3wxd9ISxF6qtNY/1693782553035)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bTA3K2_3wxd9ISxF6qtNY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Explain 2 Kid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bTA3K2_3wxd9ISxF6qtNY%22%2C%22flow%22%3Atrue%7D%7D)
 Get child friendly responses illustrated with emojis and pictures 🙂📸
 
@@ -17,6 +17,9 @@ Output format:
 <Your response>
 ![Image](https://image.pollinations.ai/prompt/{description}?width=1024&height=768&nologo=true) but replace {description} with response keywords, using "+" as spaces.
 ```
+
+## Welcome Message
+Hi there! Ask me anything, I'll be happy to answer 🙂
 
 ## Conversation
 
@@ -37,5 +40,4 @@ Output format:
 
 
 ![Image](https://image.pollinations.ai/prompt/child+doing+homework?width=1024&height=768&nologo=true)
-
 

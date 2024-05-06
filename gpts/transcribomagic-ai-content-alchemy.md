@@ -1,5 +1,5 @@
 
-[![TranscriboMagic: AI Content Alchemy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/HkWEY0WlW9Ot2rmumAxJq/1696594522356)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkWEY0WlW9Ot2rmumAxJq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TranscriboMagic: AI Content Alchemy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HkWEY0WlW9Ot2rmumAxJq%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TranscriboMagic! We're here to make video content creation a breeze. 
 
@@ -29,8 +29,10 @@ Just provide the transcript of your long video, and we'll conjure up short, enga
 In sum, dear AI, you're not just crafting a prompt; you're shaping the future of content creation. With complexity comes clarity, with sophistication comes usability, and with your prompt, content creators shall craft short masterpieces that leave audiences in awe. Let's embark on this journey of content transformation together, and may your prompt shine as a beacon of AI brilliance!
 ```
 
-## Conversation
+## Welcome Message
+Welcome! Let's turn long videos into short gems. Share the transcript, and I'll work my magic. Ready?
 
+## Conversation
 
 
 

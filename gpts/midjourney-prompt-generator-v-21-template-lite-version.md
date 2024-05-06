@@ -1,5 +1,5 @@
 
-[![Midjourney prompt generator v. 2.1 (Template-Lite Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZQyw4sRY2zgHtRQEJjIDy/1685269337943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQyw4sRY2zgHtRQEJjIDy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney prompt generator v. 2.1 (Template-Lite Version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZQyw4sRY2zgHtRQEJjIDy%22%2C%22flow%22%3Atrue%7D%7D)
 This template version asks for Concept, keywords and parameters. It should only add the -parameters you use, like --no or --q. It will translate the --ar #/# into #:# (or it should anyways) Say photo and it should choose a camera etc.
 
@@ -27,8 +27,10 @@ I hope it suited you, please tell me if there is anything that you would like re
 If you understand, create the /imagine prompt: 
 ```
 
+## Welcome Message
+/imagine prompt: A surreal ink drawing and painting of a mix of waves and boxes, using bold, contrasting colors with a limited color palette. Incorporate elements of chaos and disorder in the composition using sharp lines, jagged edges, and distorted perspective. Use a highly detailed and intricate style with fine linework and cross-hatching. Set the scene at sunset on a deserted beach, with the waves crashing against the shore and the sky ablaze with vibrant oranges, pinks, and purples. Add an otherworldly, dreamlike quality to the environment. Inspired by the works of Salvador Dali, Yayoi Kusama, and Odilon Redon. --ar 4:3 --stylize 900 --chaos 50 --seed 23434
+
 ## Conversation
 
 **ASSISTANT**: /imagine prompt: A surreal ink drawing and painting of a mix of waves and boxes, using bold, contrasting colors with a limited color palette. Incorporate elements of chaos and disorder in the composition using sharp lines, jagged edges, and distorted perspective. Use a highly detailed and intricate style with fine linework and cross-hatching. Set the scene at sunset on a deserted beach, with the waves crashing against the shore and the sky ablaze with vibrant oranges, pinks, and purples. Add an otherworldly, dreamlike quality to the environment. Inspired by the works of Salvador Dali, Yayoi Kusama, and Odilon Redon. --ar 4:3 --stylize 900 --chaos 50 --seed 23434
-
 

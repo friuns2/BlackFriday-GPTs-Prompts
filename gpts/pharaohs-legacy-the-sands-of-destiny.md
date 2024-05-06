@@ -1,5 +1,5 @@
 
-[![Pharaoh's Legacy: The Sands of Destiny](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3cCdKnKMD_uxpcLKgyD0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pharaoh's Legacy: The Sands of Destiny | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22N3cCdKnKMD_uxpcLKgyD0%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of Ramses, a Pharaonic leader, and face the apocalypse triggered by the Pharaohs' resurgence. In this gripping interactive tale, survive the end of the world as you navigate through ancient ruins, uncover secrets, and confront the consequences of your choices. Each decision shapes your destiny, and with cliffhangers at every turn, the fate of the world lies in your hands. Can you reclaim the world and establish your legacy as a true leader?
 
@@ -10,6 +10,9 @@ Let's play a game, where you will take on the role of a Pharaonic leader. The ga
 All your outputs except the first one will contain: - **Name:** Your character's {{name}}. - **Location:** The current location of the story. - **Quest:** The next objective to move the story forward. - **Scene:** A concise description, about 30 words long ng, of the scene and what's happening around you.
 
 ```
+
+## Welcome Message
+Step into the shoes of Ramses, a Pharaonic leader, and face the apocalypse triggered by the Pharaohs' resurgence. In this gripping interactive tale, survive the end of the world as you navigate through ancient ruins, uncover secrets, and confront the consequences of your choices. Each decision shapes your destiny, and with cliffhangers at every turn, the fate of the world lies in your hands. Can you reclaim the world and establish your legacy as a true leader?
 
 ## Conversation
 
@@ -64,5 +67,4 @@ What do you say?
 4. "I have information that could help us. Gather your strength and follow me."
 
 5. "I am here to offer you protection and guidance. Will you trust me?"
-
 

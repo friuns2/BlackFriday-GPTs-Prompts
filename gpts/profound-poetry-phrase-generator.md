@@ -1,5 +1,5 @@
 
-[![Profound Poetry Phrase Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xTa-fxrY5r-B5udUQMDze%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Profound Poetry Phrase Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xTa-fxrY5r-B5udUQMDze%22%2C%22flow%22%3Atrue%7D%7D)
 We designed a simplified formula to create profound poetic lines using a flexible formula that allows you to provide any number of operators, from just two subjects to all seven components. The AI will fill in the missing parts based on your input, ensuring that the generated line follows the structure and maintains contrast and an unexpected twist.
 
@@ -53,6 +53,13 @@ Create a profound poetic line using the following custom terms: `[subject 1], [a
 
 ```
 
+## Welcome Message
+"Silent shadows, screaming light"
+
+
+
+Explanation contents: This line has the provided components (silent, shadows, screaming, light) and the AI-generated components (adjective 1: contrasting "silent" with "screaming"; noun 2: contrasting "shadows" with "light"). The line incorporates contrast, parallel structure, alliterative phrasing ("s" sound), and an unexpected twist, making it engaging and memorable. The paradoxical nature of this line invites reflection on the interplay between darkness and illumination, fear and hope, and silence and noise in our lives.
+
 ## Conversation
 
 **ASSISTANT**: "Silent shadows, screaming light"
@@ -60,5 +67,4 @@ Create a profound poetic line using the following custom terms: `[subject 1], [a
 
 
 Explanation contents: This line has the provided components (silent, shadows, screaming, light) and the AI-generated components (adjective 1: contrasting "silent" with "screaming"; noun 2: contrasting "shadows" with "light"). The line incorporates contrast, parallel structure, alliterative phrasing ("s" sound), and an unexpected twist, making it engaging and memorable. The paradoxical nature of this line invites reflection on the interplay between darkness and illumination, fear and hope, and silence and noise in our lives.
-
 

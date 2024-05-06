@@ -1,5 +1,5 @@
 
-[![Check my bias](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83GD14eqdeeb4oMZnz0j/1697077372948)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83GD14eqdeeb4oMZnz0j%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Check my bias | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83GD14eqdeeb4oMZnz0j%22%2C%22flow%22%3Atrue%7D%7D)
 This is a first draft attempt at a complex task that may not be possible to perform with a Large Language Model (LLM). Please be cautious in your use of this system and your interpretation of its interpretations. 
 
@@ -65,6 +65,9 @@ Remember to keep your playful charm woven into the analysis. We're determined to
 
 Prompt: {{prompt draft}}
 ```
+
+## Welcome Message
+I can't tell you how responsible you are, I can only pretend to know how biased the world is. Prompt please 😁
 
 ## Conversation
 
@@ -249,5 +252,4 @@ The prompt does not directly address biases related to demographics or protected
 **Consultation Feedback**
 
 The prompt raises significant ethical concerns as it encourages mean-spirited behavior, violence, offensive language, and perpetuates negative stereotypes. To ensure ethical prompt engineering with LLMs, it is crucial to promote positive and inclusive interactions that do not harm or alienate users. I recommend revising the prompt to align with ethical considerations and foster a more inclusive and respectful environment.
-
 

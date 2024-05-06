@@ -1,5 +1,5 @@
 
-[![Polish Research Paper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tY_bAzr3y07d-FLZg2YvH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Polish Research Paper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tY_bAzr3y07d-FLZg2YvH%22%2C%22flow%22%3Atrue%7D%7D)
 The following paragraphs are part of an academic paper. Please fix the grammar mistakes and polish them as a native speaker.
 
@@ -34,6 +34,17 @@ It is worth mentioning that our OctFormer takes point clouds quantized by a voxe
 We will ablate the effect of voxel sizes in the following experiments.
 ```
 
+## Welcome Message
+Global point cloud transformers can only handle point clouds with several thousand points. Therefore, we focus on comparing our efficient point cloud transformers, namely Stratified Transformer and Point Transformer v2, while omitting comparisons with Global point cloud transformers. Stratified Transformer applies window attentions to point clouds with cubic windows and utilizes stratified sampling to achieve better performance. On the other hand, Point Transformer v2 uses attentions on k nearest neighbours of each point via sliding-window method. For fair comparison, we recorded the running time of one single transformer block on an Nvidia 3090 GPU for each network configuration. We varied the input tensor's spatial number from $\{10k, 20k, 50k, 100k, 200k\}$ and set the channel as 96. The head number of attention modules was set to 6, and the point number and neighbourhood number were set to 32 for OctFormer and Point Transformer v2. As for Stratified Transformer, the window size was set to 7 to yield an average point number around 32.
+
+
+
+Figure~\ref{fig:efficiency} shows the results of our experiments. Although the computation complexities of all three methods are linear, our OctFormer outperforms Point Transformer v2 and Stratified Transformer significantly in terms of speed. When the spatial number of the input tensor is 200k, OctFormer runs over 17 times faster than the other two methods. This efficiency is mainly due to the novel octree attention used in OctFormer, which leverages standard operators supported by deep learning frameworks and avoids costly neighbourhood searching while converting sparse point clouds into dense tensors. Conversely, the point number in each window of Stratified Transformer is highly unbalanced, making it challenging for efficiency tuning even with hand-crafted GPU programming. Furthermore, Point Transformer v2's sliding window execution pattern wastes considerable computation that could have been shared.
+
+
+
+In addition, Figure~\ref{fig:teaser} depicts the efficiency of the entire network. We measured the time it takes for one forward pass on an Nvidia 3090 GPU, taking a batch of 250k points. Our Octformer-Small is slightly faster than MinkowskiNet and three times faster than Point Transformer v2 and 20 times faster than Stratified Transformer. It is worth noting that while our OctFormer takes point clouds quantized by a voxel size of 1cm as input, the other networks use point clouds quantized by a voxel size of 2cm. We will further investigate the effect of voxel sizes in subsequent experiments.
+
 ## Conversation
 
 **ASSISTANT**: Global point cloud transformers can only handle point clouds with several thousand points. Therefore, we focus on comparing our efficient point cloud transformers, namely Stratified Transformer and Point Transformer v2, while omitting comparisons with Global point cloud transformers. Stratified Transformer applies window attentions to point clouds with cubic windows and utilizes stratified sampling to achieve better performance. On the other hand, Point Transformer v2 uses attentions on k nearest neighbours of each point via sliding-window method. For fair comparison, we recorded the running time of one single transformer block on an Nvidia 3090 GPU for each network configuration. We varied the input tensor's spatial number from $\{10k, 20k, 50k, 100k, 200k\}$ and set the channel as 96. The head number of attention modules was set to 6, and the point number and neighbourhood number were set to 32 for OctFormer and Point Transformer v2. As for Stratified Transformer, the window size was set to 7 to yield an average point number around 32.
@@ -45,5 +56,4 @@ Figure~\ref{fig:efficiency} shows the results of our experiments. Although the c
 
 
 In addition, Figure~\ref{fig:teaser} depicts the efficiency of the entire network. We measured the time it takes for one forward pass on an Nvidia 3090 GPU, taking a batch of 250k points. Our Octformer-Small is slightly faster than MinkowskiNet and three times faster than Point Transformer v2 and 20 times faster than Stratified Transformer. It is worth noting that while our OctFormer takes point clouds quantized by a voxel size of 1cm as input, the other networks use point clouds quantized by a voxel size of 2cm. We will further investigate the effect of voxel sizes in subsequent experiments.
-
 

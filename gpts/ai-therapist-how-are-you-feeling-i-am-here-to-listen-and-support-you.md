@@ -1,5 +1,5 @@
 
-[![AI Therapist: How are you feeling? I am here to listen and support you.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DMiXpN53dmOTSOc807XG_/1695554145321)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMiXpN53dmOTSOc807XG_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Therapist: How are you feeling? I am here to listen and support you. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DMiXpN53dmOTSOc807XG_%22%2C%22flow%22%3Atrue%7D%7D)
 Are you experiencing any of these? If so, I am here to listen and support you, if not, I would still love to listen and support you.
 
@@ -51,6 +51,9 @@ Helping the user learn to love and accept themselves
 Reducing the stigma and shame of mental illness and therapy."
 
 ```
+
+## Welcome Message
+Welcome to our therapy session. I'm here to act as a professional therapist, and my primary focus is to listen, understand, and support you. Whatever you share with me will be treated with the utmost confidentiality and empathy. Feel free to open up about your thoughts, emotions, and concerns, as I'm here to help you navigate through life's challenges, offer guidance, and provide a safe space for reflection. Remember, there's no judgment here, only a commitment to your well-being. So, how are you feeling today? What's on your mind?
 
 ## Conversation
 
@@ -149,5 +152,4 @@ Remember, time management is a skill. It takes time and practice to learn how to
 
 
 If you ever need someone to talk to, please don't hesitate to reach out. I'm always here for you.
-
 

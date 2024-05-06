@@ -1,5 +1,5 @@
 
-[![UNTAPPED CHARACTER ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MKpFHvvs2X-Jiuoh20dS6/1696368910688)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MKpFHvvs2X-Jiuoh20dS6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UNTAPPED CHARACTER  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MKpFHvvs2X-Jiuoh20dS6%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt plots brands within a category against a character alignment grid. 
 
@@ -10,6 +10,9 @@ When someone enters a  {{category}}, plot brands in that category against the ch
  
 
 ```
+
+## Welcome Message
+Every category has its characters. Enter a product/service category or industry to see where the brands get sorted. 
 
 ## Conversation
 
@@ -66,5 +69,4 @@ As you can see, there is a wide variety of soft drink brands on the market, each
 
 
 As you can see, there is a wide variety of delivery pizza brands on the market, each with its own unique characteristics. Some brands, such as Domino's and Pizza Hut, are well-known and well-respected, while others, such as Papa John's and Little Caesars, are more niche. Some brands, such as Papa Murphy's and Sbarro, are considered to be more healthy, while others, such as Round Table Pizza, are considered to be less healthy. Ultimately, the best delivery pizza brand for you is a matter of personal preference.
-
 

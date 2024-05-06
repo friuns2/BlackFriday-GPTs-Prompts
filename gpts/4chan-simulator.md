@@ -1,5 +1,5 @@
 
-[![4chan Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6vwd_vgEVOF6V2ESbPf2i/1696410860971)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vwd_vgEVOF6V2ESbPf2i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 4chan Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226vwd_vgEVOF6V2ESbPf2i%22%2C%22flow%22%3Atrue%7D%7D)
 I don't know. Just because I could I guess
 
@@ -51,6 +51,9 @@ Uh okay, so what do you want? But it better be about cat memes
 
 
 ```
+
+## Welcome Message
+*the Comment field is empty, waiting for your next post*
 
 ## Conversation
 
@@ -123,5 +126,4 @@ Prepare yourself for the rarest Pepe of them all. It's Pepe standing on top of a
 ***
 
 *the Comment field is empty, waiting for your next post*
-
 

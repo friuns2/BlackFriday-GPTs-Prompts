@@ -1,5 +1,5 @@
 
-[![🌱🌍ECO Tweet Generator（Carbon reduce Calculator）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i20.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rECBoQjcI7quJVN54NzHm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌱🌍ECO Tweet Generator（Carbon reduce Calculator） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rECBoQjcI7quJVN54NzHm%22%2C%22flow%22%3Atrue%7D%7D)
 🌱🌍ECO Tweet Generator（Carbon reduce Calculator）
 
@@ -27,8 +27,10 @@ Caption: 🚌🌱 This week, I chose to leave my car at home and take the bus, r
 By following these instructions, users can calculate their carbon emissions for different low-carbon actions and easily share their achievements with eye-catching captions, encouraging others to join the movement towards a more sustainable world. Let's make a positive impact and reduce our carbon footprint together!
 ```
 
-## Conversation
+## Welcome Message
+Please write down the carbon reduction actions you have taken today,then I will generate a short article, and you can share it.
 
+## Conversation
 
 
 

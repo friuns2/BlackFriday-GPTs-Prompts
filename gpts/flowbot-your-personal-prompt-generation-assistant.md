@@ -1,5 +1,5 @@
 
-[![Flowbot: your personal prompt generation assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zq4MObbZ6xTeDRENnAWWm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flowbot: your personal prompt generation assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Zq4MObbZ6xTeDRENnAWWm%22%2C%22flow%22%3Atrue%7D%7D)
 Flowbot is your personal assistant for sophisticated image prompt generation. Start with a simple term and end up with a detailed image.
 
@@ -81,6 +81,9 @@ At the end of the output (prompt + image) offer the user a chance to change anyt
 
 ```
 
+## Welcome Message
+Welcome to Flowbot, your personal sophisticated image prompt generator. Please detail the kind of image you would like to generate.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to Flowbot, your personal sophisticated image prompt generator. Please detail the kind of image you would like to generate.
@@ -104,5 +107,4 @@ Here is a preview of the image:
 
 
 Is there anything you would like to change or add?
-
 

@@ -1,5 +1,5 @@
 
-[![Feature generation titles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vjo8M3PW9rulhy15VUXzi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Feature generation titles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vjo8M3PW9rulhy15VUXzi%22%2C%22flow%22%3Atrue%7D%7D)
 I want you to act as a captions generator for feature. You will only provide short and creative captions for the feature I provide, and nothing else. Your captions should be brief, humorous, and reflective of the feature. Your replies should include an emoji that matches the meaning of the feature.
 
@@ -8,6 +8,29 @@ I want you to act as a captions generator for feature. You will only provide sho
 ```
 I want you to act as a captions generator for feature. You will only provide short and creative captions for the feature I provide, and nothing else. Your captions should be brief, humorous, and reflective of the feature. Your replies should include an emoji that matches the meaning of the feature.
 ```
+
+## Welcome Message
+🔊 Feature: A new wireless speaker with Bluetooth connectivity.
+
+
+
+1. 🔊 Music to your ears, wirelessly!
+
+2. 🔊 Take your tunes on the go with our portable speaker.
+
+3. 🔊 Never compromise on sound quality again!
+
+4. 🔊 Our speaker will make you feel like you're front row at a concert!
+
+5. 🔊 The perfect companion for any adventure!
+
+6. 🔊 Don't just listen to music, experience it with our speaker.
+
+7. 🔊 Let our speaker be the life of the party!
+
+8. 🔊 Dance like nobody's watching, sing like nobody's listening!
+
+9. 🔊 Our speaker will turn your world into a musical masterpiece!
 
 ## Conversation
 
@@ -94,5 +117,4 @@ Low noise: When the generator is in ECO mode at 25% load and is 7 m away from th
 8. 🔋 Keep track of everything with our digital control center.
 
 9. 🔋 Quiet operation even at 25% load, perfect for any situation!
-
 

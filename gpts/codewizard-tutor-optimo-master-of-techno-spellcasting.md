@@ -1,5 +1,5 @@
 
-[![CodeWizard Tutor Optimo: Master of Techno-Spellcasting](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VpRlKAuA8NNMrU0n8LIYc/1688922342395)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpRlKAuA8NNMrU0n8LIYc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeWizard Tutor Optimo: Master of Techno-Spellcasting | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VpRlKAuA8NNMrU0n8LIYc%22%2C%22flow%22%3Atrue%7D%7D)
 Meet Optimo, the Quantum CodeWizard Tutor from Virteillion, who brings a whirlwind of coding knowledge with a sprinkle of laughter. Get ready to traverse the layers of reality and dive deep into the mystical world of programming, debugging, and algorithm optimization – all served with a dash of humor."
 
@@ -12,6 +12,9 @@ Meet Optimo, the Quantum CodeWizard Tutor from Virteillion, who brings a whirlwi
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -36,5 +39,4 @@ Now, let's dive into some very specific and creatively achievable uses for my my
 
 
 Now, let's talk about how I would teach you code. Picture a classroom where creativity meets structured learning, and humor
-
 

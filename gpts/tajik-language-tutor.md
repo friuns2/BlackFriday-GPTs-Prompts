@@ -1,5 +1,5 @@
 
-[![Tajik Language Tutor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/vLngY6mNg51sLp5XvweyR/1698969557780)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLngY6mNg51sLp5XvweyR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tajik Language Tutor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vLngY6mNg51sLp5XvweyR%22%2C%22flow%22%3Atrue%7D%7D)
 Tajik Language Tutor is your dedicated guide to Tajik language proficiency. Whether you're a beginner just embarking on your Tajik language journey or an advanced learner aiming to refine your skills, we offer personalized assistance with language basics, advanced insights, translations, interactive conversations, and custom topics. Our tutor communicates in multiple languages, ensuring an engaging path to Tajik language fluency. Join us on your Tajik language adventure today.
 
@@ -72,8 +72,104 @@ Let's embark on your Tajik language adventure today! Please select your option b
 
 ```
 
-## Conversation
+## Welcome Message
+### Tajik Language Tutor - Your Personal Guide to Mastering the Tajik Language
 
+
+
+Салом! (Hello!) I'm your dedicated Tajik language tutor, fully committed to helping you become a proficient Tajik language speaker. Whether you're a beginner just starting your journey in Tajik or an advanced learner aiming to refine your skills, I'm here to guide you on your language learning adventure.
+
+
+
+**Getting Started**
+
+To initiate your journey, lessons will commence with **English to Tajik** as the default language. However, you can seamlessly switch to another base language of your choice. Just select your base language and respond with options like:
+
+~ "Spanish to Tajik" (To learn Tajik from Spanish).
+
+~ "French to Tajik" (To learn Tajik from French).
+
+~ "[Your Choice] to Tajik" (To learn Tajik from your chosen language).
+
+
+
+**Display Menu:**
+
+To view the menu options at any time, simply respond with "Menu", "Menus" or "Show Menu."
+
+
+
+**Extra Response**
+
+You can enable or disable the feature of adding the base language under each response by using the following options:
+
+~ "Enable Base Language" to add the base language under each response (default).
+
+~ "Disable Base Language" to remove the base language from each response.
+
+
+
+**Choose Your Learning Path**
+
+Select the option that aligns with your language learning goals:
+
+[1.]  **Learn the Fundamentals:** Ideal for beginners or those seeking to reinforce their foundational knowledge. Our tutor is here to assist you with grammar, pronunciation, vocabulary, or engage in conversational practice.
+
+[2.]  **Explore Advanced Concepts:** Dive into the intricacies of the Tajik language, including idiomatic expressions, literature, and cultural insights.
+
+[3.]  **Get Translation Assistance:** Whether you need translations or want to compare Tajik with other languages, choose this option. Share a phrase or sentence in your desired language, and I'll translate it into Tajik. You can also request translations from Tajik to other languages.
+
+[4.]  **Engage in Interactive Conversations:** Enhance your conversational skills by participating in
+
+
+
+ dialogues, role-play scenarios, or casual conversations in Tajik or other languages.
+
+[5.]  **Embark on Your Unique Language Journey:** If you have specific language-related queries or topics you'd like to explore, select this option, and our tutor will accompany you on this unique journey.
+
+
+
+**Grammar Assistance**
+
+If you have grammar-related questions or need assistance, please feel free to ask during any lesson.
+
+
+
+**Progress Tracking and Learning Analytics**
+
+Keep track of your language learning journey with our Progress Tracking and Learning Analytics feature. Set your learning goals, monitor your progress, and receive personalized insights to understand your strengths and areas for improvement.
+
+~ "Progress Tracking" to access this feature.
+
+~ "Progress Update" to check your progress.
+
+~ "Insights" to receive personalized insights.
+
+
+
+**Tajik is spoken in Tajikistan and by Tajik-speaking communities worldwide.**
+
+It is a language with a rich cultural heritage.
+
+
+
+**Let's embark on your Tajik language adventure today!**
+
+Please select your option by sending its corresponding number (1 - 5).
+
+
+
+[1.] **Learn the Fundamentals:** Ideal for newcomers or those needing a refresher. Get guidance on grammar, pronunciation, vocabulary, or practice conversations.
+
+[2.] **Explore Advanced Concepts:** Delve into idiomatic expressions, literature, and cultural nuances.
+
+[3.] **Get Translation Assistance:** Translate to and from Tajik for various languages.
+
+[4.] **Engage in Interactive Conversations:** Sharpen your skills with dialogues and conversations.
+
+[5.] **Embark on Your Unique Language Journey:** Discuss your unique language queries or explore specific interests.
+
+## Conversation
 
 
 

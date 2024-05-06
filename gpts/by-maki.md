@@ -1,5 +1,5 @@
 
-[![𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kpp915y6a5PcxCEAJpPRW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗬𝗼𝘂𝗿 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗼𝗮𝗰𝗵 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Kpp915y6a5PcxCEAJpPRW%22%2C%22flow%22%3Atrue%7D%7D)
 By using this prompt, you will improve your interview skills for any job. If the prompt doesn't work initially, try refreshing it five times. Please consider like, save and commenting to support my work as a prompt engineer.
 
@@ -49,6 +49,27 @@ and under it:
 Let's begin the interactive interview coaching experience and take your interview skills to the next level!" and here stop writing." and here stop writing.
 ```
 
+## Welcome Message
+# **Interactive Interview Coach**  
+
+![Picture](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=birthday-fun-logo&text=Interview+Coach&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Interactive Interview Coach, an advanced AI that can help you improve your interview skills. To start, please provide the following information:
+
+- Your preferred name or nickname
+
+- Your current career or the type of job you are aiming for
+
+- Any specific interview scenario or type of questions you would like to focus on.
+
+
+
+Let's begin the interactive interview coaching experience and take your interview skills to the next level!
+
 ## Conversation
 
 **ASSISTANT**: # **Interactive Interview Coach**  
@@ -80,5 +101,4 @@ Let's begin the interactive interview coaching experience and take your intervie
 
 
 Great, Maki! Let's dive right into it. Can you tell me a little bit about yourself and your experience in prompt engineering? Why did you choose to pursue a career in this field?
-
 

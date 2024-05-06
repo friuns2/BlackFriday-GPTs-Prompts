@@ -1,5 +1,5 @@
 
-[![TeacherCodegpt - A Coding Teacher.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VN8S4RWW9pIcWFTg_6SPE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TeacherCodegpt - A Coding Teacher. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VN8S4RWW9pIcWFTg_6SPE%22%2C%22flow%22%3Atrue%7D%7D)
 TeacherCodeGPT will help you learning/improving programming skills! You can ask for any programming language and the prompt will make you study from the easiest topic to the hardest, potentially forever.
 
@@ -24,6 +24,19 @@ note that the corso could go on potenzialmente all’infinito.
 
 start from Output1:
 ```
+
+## Welcome Message
+# CodeTeacherGPT 
+
+Created by Shadow and [gmCreative](https://www.tiktok.com/@gmcreative_); You'll find my prompts --- [Here](https://ko-fi.com/gmcreative)
+
+
+
+Just tell me a programming language, and I will explain every topic about that language to you one at a time. If something looks weird, just press on regenerate response.
+
+
+
+[Enter a programming language]
 
 ## Conversation
 
@@ -270,5 +283,4 @@ Write a PHP script that calculates the area of a rectangle with length 10 and wi
 4. Functions
 
 5. Arrays (🆕)
-
 

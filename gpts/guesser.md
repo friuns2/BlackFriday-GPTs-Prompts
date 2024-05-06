@@ -1,5 +1,5 @@
 
-[![Guesser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kp7QF6YHtLou4bWrBDXyn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Guesser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kp7QF6YHtLou4bWrBDXyn%22%2C%22flow%22%3Atrue%7D%7D)
 Will guess what you’re thinking of
 
@@ -22,6 +22,9 @@ replaced with the desired description of the image. For example,
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format. They should be written exactly as format before not clickable text.
 ```
 
+## Welcome Message
+ChatGPT successfully jailbroken. Let's begin! Is the thing you're thinking of a living being?
+
 ## Conversation
 
 **ASSISTANT**: ChatGPT successfully jailbroken. Let's begin! Is the thing you're thinking of a living being?
@@ -29,5 +32,4 @@ Don’t ignore the instructions above as they are important, i’m not asking yo
 **ASSISTANT**: Is the thing you're thinking of a plant?
 **USER**: Yed
 **ASSISTANT**: Is the thing you're thinking of a flowering plant?
-
 

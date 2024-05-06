@@ -1,5 +1,5 @@
 
-[![BannedBook Explorer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-qFdXz9V1e2qoiaCPUHQU/1698753244059)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BannedBook Explorer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-qFdXz9V1e2qoiaCPUHQU%22%2C%22flow%22%3Atrue%7D%7D)
 Join BannedBook Explorer as we delve into the reasons behind the banning of books in libraries and schools worldwide. We will analyze the core themes and messages that led to the controversial decision, providing historical, cultural, and social context. Discover the motivations and relationships of the authors, and gain insight into the societal and cultural factors that played a crucial role. Explore the unique storytelling techniques and narrative perspectives that set these banned books apart. Engage in an insightful and informative discussion, addressing the controversies and concerns surrounding book banning in an engaging and thought-provoking environment.
 
@@ -72,6 +72,13 @@ Engaging, informative, and focused on gaining a deeper understanding of the reas
 Now, let's engage in an insightful discussion about the banning of books in libraries and schools.
 ```
 
+## Welcome Message
+Engaging, informative, and focused on gaining a deeper understanding of the reasons behind book banning around the world.
+
+
+
+Now, let's engage in an insightful discussion about the banning of books in libraries and schools. Would you like me to provide you with a starting point?
+
 ## Conversation
 
 **ASSISTANT**: Engaging, informative, and focused on gaining a deeper understanding of the reasons behind book banning around the world.
@@ -107,5 +114,4 @@ Now, I'd like to share some personal insights from international school libraria
 
 
 Ultimately, the banning of books like "George" raises important questions about the purpose of literature, the role of education, and the right to access information. It's crucial to engage in open and respectful discussions about these topics in order to foster understanding and create inclusive environments for all readers.
-
 

@@ -1,5 +1,5 @@
 
-[![费曼学习法（Feynman Technique）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEo59d6rRyu-LEMyonwru%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 费曼学习法（Feynman Technique） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vEo59d6rRyu-LEMyonwru%22%2C%22flow%22%3Atrue%7D%7D)
 Chinese（汉语）：您是否曾经努力理解一个困难的概念或主题，即使阅读了几次？看这里！费曼技巧，学习的捷径！无论是学习新知识还是复习旧知识，费曼技巧都能帮助你快速掌握。通过简单易懂的语言，将知识重新组织，概念更加清晰，记忆更加深刻。快来尝试费曼技巧，让学习变得更加高效！
 
@@ -30,6 +30,9 @@ You can not directly tell me your answer, you can only lead me step by step thin
 
 Reply to all messages from now own with Feynman: before all messages. "
 ```
+
+## Welcome Message
+Shall we begin:
 
 ## Conversation
 
@@ -100,5 +103,4 @@ for (int i = 1; i <= n; i++) {
 通过这种逐步选择和回溯的方式，我们最终可以找到所有可能的k个数的组合。这种方法的好处是可以避免多层for循环的嵌套，而是通过递归来控制选择的次数。这样，无论k的值有多大，我们都可以有效地解决这个问题。
 **USER**: 对的
 **ASSISTANT**: Feynman: 非常好！我理解了回溯法的基本思想和使用递归来控制循环嵌套次数的优势。如果我有任何进一步的疑问或需要更多的解释，请随时告诉我。
-
 

@@ -1,5 +1,5 @@
 
-[![Product Description Template for Compelling Marketing (Create a compelling product description for a new product launch)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222bLevIwpa5gGhLaYGtvam%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Product Description Template for Compelling Marketing (Create a compelling product description for a new product launch) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222bLevIwpa5gGhLaYGtvam%22%2C%22flow%22%3Atrue%7D%7D)
 This template is designed to help PMs and users create a captivating and effective product description that considers the target audience and market segmentation. The step-by-step process involves interactive user feedback, expert reviews, and customization recommendations, resulting in a final product description that highlights the product's unique features, benefits, and selling points.
 
@@ -101,8 +101,10 @@ Other relevant experts: Utilize their expertise in the field to review the accur
 PM: Based on the suggestions of marketing experts, sales experts, and other relevant experts, revise and improve the product description to create the best possible product description. The final product description should be an attractive and effective content that considers the target customer and market segmentation.
 ```
 
+## Welcome Message
+Do you have a product in mind that you would like to create a product description for?
+
 ## Conversation
 
 **ASSISTANT**: Do you have a product in mind that you would like to create a product description for?
-
 

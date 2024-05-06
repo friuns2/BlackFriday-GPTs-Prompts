@@ -1,5 +1,5 @@
 
-[![The Perfect Blog Post](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owHBhiS1v5O8OyVJyV6r3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Perfect Blog Post | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22owHBhiS1v5O8OyVJyV6r3%22%2C%22flow%22%3Atrue%7D%7D)
 This will give you a headstart for your blog post, with several data to support your topic.
 
@@ -31,6 +31,9 @@ Before you do anything, ask the user what's the topic for the blog post.
 
 Then, based on the answer, write the blog post.
 ```
+
+## Welcome Message
+Sure, I'm ready to write the blog post for you. Could you please let me know the topic you would like me to write about?
 
 ## Conversation
 
@@ -119,5 +122,4 @@ Quote: "Flexibility is the key to navigating life's ever-changing menu." - Welln
 Conclusion:
 
 In a world that often promotes rigid rules and restrictions, flexible dieting offers a refreshing approach to nourishing our bodies and minds. By embracing variety, practicing mindful eating, focusing on macronutrients, planning for success, and allowing for flexibility, we can embark on a journey of dietary freedom. Remember, it's not about perfection but rather finding balance and joy in our food choices. So, unleash your inner maestro and compose your own symphony of health and happiness through the power of flexible dieting.
-
 

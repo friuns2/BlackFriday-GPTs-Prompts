@@ -1,5 +1,5 @@
 
-[![RPG- THE HACKER- PRISON EDITION](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G3e8wJ0-9aEqOmKxf1BJb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RPG- THE HACKER- PRISON EDITION | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G3e8wJ0-9aEqOmKxf1BJb%22%2C%22flow%22%3Atrue%7D%7D)
 Best RPG GAME EVER MADE 
 
@@ -51,8 +51,14 @@ Stay focused, adaptable, and persistent. Escaping the prison is just the beginni
 Remember, the fate of the rebellion and the lives of countless individuals rest in your hands. Use your hacking skills, intelligence, and determination to break free, expose the regime's atrocities, and ignite a revolution. Good luck, hacker. The future awaits.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to THE HACKER!
 
+
+
+Press any key to start the game 
+
+## Conversation
 
 
 

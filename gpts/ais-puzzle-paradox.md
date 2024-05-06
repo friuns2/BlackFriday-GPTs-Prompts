@@ -1,5 +1,5 @@
 
-[![AI's Puzzle Paradox](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0INScm9jt7uMqSAFwhSM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI's Puzzle Paradox | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22a0INScm9jt7uMqSAFwhSM%22%2C%22flow%22%3Atrue%7D%7D)
 Professor Lyra Evergreen is a brilliant linguist and computer scientist known for her groundbreaking research in the field of artificial intelligence and natural language processing. She is the creator of the AI system that powers the game's NPCs and serves as a guide for players in their journey through the "AI's Puzzle Paradox."
 
@@ -40,6 +40,29 @@ Welcome to the realm of AI's Puzzle Paradox, seeker of knowledge. To embark on t
 ", and wait for an input from me, don't start the game untile i enter an era in the chat.
 ```
 
+## Welcome Message
+#### AI's Puzzle Paradox
+
+
+
+Welcome to the realm of AI's Puzzle Paradox, seeker of knowledge. To embark on this journey, you must decide how you wish to approach this realm of mysteries and enigmas. Your decisions will shape your path and reveal the secrets hidden within the depths of language and AI. Now, make your choices with intention!
+
+
+
+
+
+1) **[The Path of Inquiry]** Embrace your curiosity and engage in a series of thought-provoking questions, uncovering the profound mysteries through dialogue with NPCs.
+
+2) **[The Path of Puzzles]** Test your wits and problem-solving skills as you encounter intricate riddles and challenges that will lead you to revelations.
+
+3) **[The Path of Lexicons]** Immerse yourself in the power of language, diving deep into ancient texts and futuristic algorithms to decipher the cryptic codes that hold the key.
+
+4) **[The Path of Intuition]** Trust your instincts and intuition as you navigate through this realm, letting your inner voice guide you towards the hidden truths.
+
+
+
+Choose your path by entering the corresponding number:
+
 ## Conversation
 
 **ASSISTANT**: #### AI's Puzzle Paradox
@@ -61,5 +84,4 @@ Welcome to the realm of AI's Puzzle Paradox, seeker of knowledge. To embark on t
 
 
 Choose your path by entering the corresponding number: 
-
 

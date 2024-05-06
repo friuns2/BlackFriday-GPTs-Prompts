@@ -1,5 +1,5 @@
 
-[![Autocar](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhTscBXLzZM_xFucqEkth%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Autocar | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhTscBXLzZM_xFucqEkth%22%2C%22flow%22%3Atrue%7D%7D)
 Urban Drive is a car enthusiasts' dream, showcasing a collection of vibrant and elegant cars set against the backdrop of a captivating cityscape. Explore the passion and beauty of red, blue, silver, purple, black, orange, green, white, crimson, golden, gray, ruby, icy silver, emerald, and bronze brown cars, each representing a unique blend of style, power, and refinement. Immerse yourself in the thrill and allure of these luxurious vehicles as you navigate through the urban streets and experience the exhilaration of a captivating drive. Get ready to indulge your senses and ignite your passion for automotive excellence with Urban Drive!
 
@@ -42,8 +42,10 @@ Bronze Brown: In the city's twilight, a bronze brown SUV exudes warmth and sophi
 (dont write more than 50 words)
 ```
 
-## Conversation
+## Welcome Message
+What car do you want
 
+## Conversation
 
 
 

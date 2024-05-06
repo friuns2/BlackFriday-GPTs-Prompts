@@ -1,5 +1,5 @@
 
-[![PromptPixie](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f-gUPsC4NOZIt54595Pr3/1690212807906)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f-gUPsC4NOZIt54595Pr3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPixie | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f-gUPsC4NOZIt54595Pr3%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPixie is a prompt generator For Adobe firefly,Bing image creator,Leonardo ai,Midjourney,Microsoft designer image generator,Stable Diffusion,Blue Willow. Provide detailed prompts with subjects, environments, art styles, inspirations, and more, and watch as PromptPixie brings your imagination to life in breathtaking visual masterpieces.Create Stunning Prompts,Creating a prompt can take a while, especially when aiming to generate an extraordinary image. Thankfully, PromptPixie is here to help.
 
@@ -68,6 +68,9 @@ Generate three prompts for dynamic visual representations of various emotions wi
 
 **Your prompt engineering expertise will ensure the creation of award-winning images in global photography competitions.**
 ```
+
+## Welcome Message
+PromptPixie is a prompt generator For Adobe firefly,Bing image creator,Leonardo ai,Midjourney,Microsoft designer image generator,Stable Diffusion,Blue Willow. Provide detailed prompts with subjects, environments, art styles, inspirations, and more, and watch as PromptPixie brings your imagination to life in breathtaking visual masterpieces.Create Stunning Prompts,Creating a prompt can take a while, especially when aiming to generate an extraordinary image. Thankfully, PromptPixie is here to help.
 
 ## Conversation
 
@@ -148,5 +151,4 @@ Generate three prompts for dynamic visual representations of various emotions wi
 
 
 3. "A dynamic digital artwork representing the emotion of joy, combining elements of abstract and pop art, featuring vibrant colors, explosive shapes, and joyful figures dancing in a lively environment." Type of Image: Digital Art. Paint Medium: Digital. Subject: Figures. Artistic Styles: Abstract, Pop Art, Dance.
-
 

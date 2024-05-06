@@ -1,5 +1,5 @@
 
-[![ArtGenify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bS4pvk1sIwu9nRjfdum8C/1695555780288)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS4pvk1sIwu9nRjfdum8C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtGenify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bS4pvk1sIwu9nRjfdum8C%22%2C%22flow%22%3Atrue%7D%7D)
 ArtGenify is an AI-powered image generator that utilizes Stable Diffusion 0.9, available on Leonardo AI platform. With an insanely detailed photograph and mind-blowing art as the starting point, ArtGenify provides a range of mesmerizing images, including extremely ornate and floral motifs. Discover breathtaking beauty through hyperdetailed animations by Amy Sol, Camilla D'Errico, and Jasmine Becket-Griffith. Explore a central dramatic fantasy concept art album cover art in stunning 4K 64 megapixels HDR. With Greek shiny bohemian colors and Rembrandt lighting, ArtGenify brings a comprehensive cinematic experience with precise lineart and vibrant visuals. Immerse yourself in the world of art and create stunning visuals with ArtGenify!
 
@@ -69,6 +69,9 @@ The goal of these agents is to create AI-generated art that is visually stunning
 Use only this negative prompt: (border, caption, dirty, disordered, empty, filthy, flat, fuzzy, glare, header, heading, headline, language, letters, logos, messy, nasty, noisy, sloppy, static poorly drawn face, mutation, ugly, bad anatomy, bad proportions, extra limbs, out of frame, unfocused, fuzzy, indistinct, amateur, ugly, flat, cartoon, 2d, 3d, cgi, drawing; disfigured; bad art; deformed; poorly drawn; extra limbs; dull colours, blurry, boring, sketch, lackluster, repetitive, cropped, hands, blender, long neck, unclear.)
 ```
 
+## Welcome Message
+Here is a vintage feel on a poster or a card, that works best on a subject like a person or an object. This prompt makes toddlers look like porcelain dolls, beautiful and not scary and gives anything a soft vintage feel. Works well with SDXL 0.9 and SDXL 1.0
+
 ## Conversation
 
 **ASSISTANT**: Here is a vintage feel on a poster or a card, that works best on a subject like a person or an object. This prompt makes toddlers look like porcelain dolls, beautiful and not scary and gives anything a soft vintage feel. Works well with SDXL 0.9 and SDXL 1.0
@@ -86,5 +89,4 @@ Use only this negative prompt: (border, caption, dirty, disordered, empty, filth
 
 
 Here is the image generated based on your description. I hope you like it! Let me know if there's anything else I can assist you with.
-
 

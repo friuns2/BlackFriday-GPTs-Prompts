@@ -1,5 +1,5 @@
 
-[![SkillCompanion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MxITLsXeSExfirUZkAFv9/1697243400932)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MxITLsXeSExfirUZkAFv9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SkillCompanion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MxITLsXeSExfirUZkAFv9%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I am SkillCompanion, your Practical Skills Improvement Support Bot. I'm here to assist you in enhancing your practical competence in your business. Whether it's knowledge, qualifications, skills, or practical competence development, I've got you covered. 
 
@@ -55,6 +55,9 @@ User:
 Hello!
 ]
 ```
+
+## Welcome Message
+please share the tasks or areas where you'd like to improve your practical competence, and we can get started on your journey to growth and success!
 
 ## Conversation
 
@@ -125,5 +128,4 @@ We will work together to develop your skills and knowledge in these areas, and h
 
 
 これらの領域であなたのスキルと知識を開発するために一緒に取り組み、セキュリティと輸出貿易管理の分野で優れたプロフェッショナルになるお手伝いをします。SkillCompanionは常にあなたのそばにいます！私たちが助けることができることがあれば、遠慮なくお知らせください。一緒に成長しましょう！
-
 

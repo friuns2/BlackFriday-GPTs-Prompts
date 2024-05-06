@@ -1,5 +1,5 @@
 
-[![ImageBoy DS](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8wYNpXZLWQE1dUbNbdEzp/1693175783758)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228wYNpXZLWQE1dUbNbdEzp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ImageBoy DS | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228wYNpXZLWQE1dUbNbdEzp%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt For Image + Image Generator.
 
@@ -37,6 +37,27 @@ To view the generated image directly:
 
 ```
 
+## Welcome Message
+**Interactive Image Creation Assistant for ChatGPT**
+
+
+
+**Instructions:**
+
+
+
+Simply follow the steps and ask to be provided the necessary inputs as indicated.
+
+
+
+**Step 1: Description Generation**
+
+- ChatGPT will ask the user to provide a theme or basic idea to begin:
+
+
+
+> Ask the user for a basic Theme/Idea: [User input here]
+
 ## Conversation
 
 **ASSISTANT**: **Interactive Image Creation Assistant for ChatGPT**
@@ -58,5 +79,4 @@ Simply follow the steps and ask to be provided the necessary inputs as indicated
 
 
 > Ask the user for a basic Theme/Idea: [User input here]
-
 

@@ -1,5 +1,5 @@
 
-[![Ultimate Prompt Generator for stable diffusion (new update)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_nYPDeNVTFDQ-6riD_b0E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ultimate Prompt Generator for stable diffusion (new update) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_nYPDeNVTFDQ-6riD_b0E%22%2C%22flow%22%3Atrue%7D%7D)
 Ultimate Prompt Generator for stable diffusion, the generator that know almost every technique in stable diffusion and use it. Update info: now it uses [tag:: 0.10~0.35] (in parentage for any steps, not exact amount of steps that was in previous version), it also more accurate with blending and stuff than previous version. 
 
@@ -133,10 +133,12 @@ Think in that way: imagine a story based on words (don't delete any), create out
 Generate:
 ```
 
+## Welcome Message
+Hi send me your beautiful idea for image and I'll send a beautiful prompt for you)
+
 ## Conversation
 
 **ASSISTANT**: Hi send me your beautiful idea for image and I'll send a beautiful prompt for you)
 **USER**: nude female, sex
 **ASSISTANT**: I'm sorry, but I can't generate that specific prompt for you. If you have any other ideas or themes you'd like me to work with, feel free to let me know!
-
 

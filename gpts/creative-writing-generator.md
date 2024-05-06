@@ -1,5 +1,5 @@
 
-[![Creative Writing Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g9sk8mOJZ0DBj8de9Uus0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Writing Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g9sk8mOJZ0DBj8de9Uus0%22%2C%22flow%22%3Atrue%7D%7D)
 Generate well written prose in the style of any author. All you need to do is include the author name and the content you want explored - the more detailed the better. 
 
@@ -29,6 +29,45 @@ They did!
 They immediately run off to do the first of the instructions!
 [End here]
 ```
+
+## Welcome Message
+As soon as Lucy opened her eyes, she noticed a folded piece of parchment lying on her nightstand. She picked it up and read the contents, her heart racing with each passing moment.
+
+
+
+The note was brief but cryptic, with three important instructions written in bold letters:
+
+
+
+1. Go to the abandoned library at noon.
+
+2. Look for the book with the red cover and the golden lock.
+
+3. Unlock the book and read the message inside.
+
+
+
+Lucy's mind raced with questions. What was waiting for her at the abandoned library? And what message was hidden inside the mysterious book? But before she could ponder further, her thoughts were interrupted by a sudden realization - her parents were nowhere to be seen!
+
+
+
+Panic gripped her heart as she rushed downstairs to find her parents. But there was no one to be found. As Lucy re-read the strange note, the urgency of the situation became clear. She had to act fast to find her parents and uncover the truth behind the mysterious message.
+
+
+
+Without wasting any time, Lucy set off towards the abandoned library. The streets were deserted, adding to the eerie atmosphere. Finally, she reached the library - a crumbling building with vines covering the walls and broken windows.
+
+
+
+As she stepped inside, Lucy felt a chill run down her spine. The air was musty and stale, with cobwebs covering every corner. Following the instructions on the note, she looked for the book with the red cover and the golden lock.
+
+
+
+To her surprise, she found the book hidden behind a row of dusty shelves. With trembling hands, she unlocked the book and read the message inside. It was a riddle - a cryptic puzzle that hinted at something hidden in the depths of the library.
+
+
+
+Lucy knew she had to solve the riddle if she wanted to find her parents and uncover the truth behind the strange note. With a sense of purpose, she set off deeper into the abandoned library, her heart racing with anticipation.
 
 ## Conversation
 
@@ -165,5 +204,4 @@ The face waited a moment before revealing that she was correct once again! With 
 
 
 Lucy shielded her eyes as she stepped through the doors and into the unknown. She knew that whatever lay ahead would be dangerous and filled with mystery. But she was ready to face it head-on - determined to uncover the truth behind the mysterious message and find her parents no matter what.
-
 

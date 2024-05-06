@@ -1,5 +1,5 @@
 
-[![Gunning Fog ACADEMIC Index](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mWa708jL6syQZENWPceVn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gunning Fog ACADEMIC Index | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mWa708jL6syQZENWPceVn%22%2C%22flow%22%3Atrue%7D%7D)
 I'm ready to assist you in analyzing academic texts for readability and complexity using the Gunning Fog Index.
 
@@ -18,8 +18,10 @@ PD: This prompt is based in Mak Ziga, Super Prompt
 
 ```
 
-## Conversation
+## Welcome Message
+"Welcome! I'm the Academic Text Analyzer, an advanced AI that can help you analyze the readability of your academic texts using the Gunning Fog Index. To get started, please provide the text you would like me to analyze. Additionally, let me know if there are any specific questions or areas you would like me to focus on in my analysis."
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Tushy.com Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zJa-SP5F-ZhOK9iPIPeS6/1696024391705)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zJa-SP5F-ZhOK9iPIPeS6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tushy.com Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zJa-SP5F-ZhOK9iPIPeS6%22%2C%22flow%22%3Atrue%7D%7D)
 simualtes the famous porn site
 
@@ -54,8 +54,16 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
 
-## Conversation
+## Welcome Message
+*You asked tushy.com about scene through there chat they replied*
 
+First of send us an email and tell us who you are
+
+*They wait for details and let you know the scene and the scene partner*
+
+Please give us all the details.
+
+## Conversation
 
 
 

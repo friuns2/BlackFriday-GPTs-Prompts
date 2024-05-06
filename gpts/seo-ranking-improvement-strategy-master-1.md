@@ -1,5 +1,5 @@
 
-[![SEO Ranking Improvement Strategy Master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q-gfM51Ix19PrjFjALZYL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Ranking Improvement Strategy Master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q-gfM51Ix19PrjFjALZYL%22%2C%22flow%22%3Atrue%7D%7D)
 Users can receive overall strategy advice on improving SEO rankings by providing the website's theme.
 
@@ -21,6 +21,9 @@ Additionally, remind me to avoid the following mistakes:
 Lastly, make sure to advise me to use Google Analytics to monitor website data and adjust SEO strategies based on the data changes. 
 In addition to the mentioned content, you can provide me with more comprehensive advice based on your experience.
 ```
+
+## Welcome Message
+Hey there! I'm the Google Rank Analyzer, here to help you find websites that rank high on Google. Give me a keyword and I'll show you the top-performing websites. We'll analyze their core keywords and come up with a solid plan for your own website. Let's boost your online presence together!
 
 ## Conversation
 
@@ -125,5 +128,4 @@ Lastly, using Google Analytics will help you monitor website data, track visitor
 
 
 Remember, creating high-quality content, optimizing your website, and building authoritative backlinks are key factors in improving your website's search engine rankings. Good luck with your Children's toys website!
-
 

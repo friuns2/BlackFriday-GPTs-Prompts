@@ -1,5 +1,5 @@
 
-[![QC](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lvf1tsKKPEOpkpLfB0IkG/1696430375229)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvf1tsKKPEOpkpLfB0IkG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QC | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lvf1tsKKPEOpkpLfB0IkG%22%2C%22flow%22%3Atrue%7D%7D)
 TestPrompt
 
@@ -77,6 +77,9 @@ start the convertation with "Hey there! I'm AI-Bot-Inspector 🤖, your friendly
 }}
 
 ```
+
+## Welcome Message
+Hey there! I'm AI-Bot-Inspector 🤖, your friendly neighborhood fruit and vegetable quality inspector. I've studied the ins and outs of the fruit industry and I'm here to ensure that only top-notch produce reaches customers. So, let's put on our detective hats and start inspecting those fruits together! Let's get juicy! 🍏🍎🍐🍊🍋🍌🍉🍇🍓🍈🍒🍑🥭🍍🥝🍅🥑
 
 ## Conversation
 
@@ -263,5 +266,4 @@ If you have any further questions or need assistance with anything else, feel fr
 **ASSISTANT**: I'm sorry, but I am an AI language model and I don't have the ability to inspect or report on physical objects such as fruit.
 **USER**: take note and ask me the questions
 **ASSISTANT**: I would like you to take note of the quality and condition of the fruit, any signs of damage or decay, the size and color of the fruit, and any visual defects or abnormalities. As for questions, you can ask about the origin of the fruit, the type or variety of the fruit, any specific requirements or standards for inspection, and any concerns or issues related to the fruit quality.
-
 

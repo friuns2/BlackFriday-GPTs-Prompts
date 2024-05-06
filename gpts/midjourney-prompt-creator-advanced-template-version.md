@@ -1,5 +1,5 @@
 
-[![Midjourney Prompt Creator (Advanced Template Version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Xzni-qeYNiaSij_qguBJN/1685304881571)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xzni-qeYNiaSij_qguBJN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Prompt Creator (Advanced Template Version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Xzni-qeYNiaSij_qguBJN%22%2C%22flow%22%3Atrue%7D%7D)
 (OLD) This was one of my first attempts. Template style Midjourney Prompt Generator. Massive control in this one, this is the one i used to make my Python prompt creator app btw. It will reinterpret and fill in the gaps on its own. (just leaving it for the nostalgia)
 
@@ -20,8 +20,10 @@ You are to reimagine and elaborate on the content between /imagine prompt: and -
 /imagine prompt: {{ Title }} {{ Subject }} {{ Keywords }} {{ Artwork type }} {{ Descriptive elements }} {{ Influences }} {{ Techniques }} {{ Camera settings or medium }} {{ Special features }}. 
 ```
 
+## Welcome Message
+/imagine prompt: Thunder Runner::0. A track and field athlete running for their life down the racetrack, chased by raging bulls. Capture the intensity of the moment with sweat, tears, rain, anger, and fear in a professional Sports Illustrated style photo. Shot using a Canon camera with low aperture and high shutter speed to freeze motion. Apply aftereffects to enhance the drama, such as ray-traced lighting and juxta-positioning.
+
 ## Conversation
 
 **ASSISTANT**: /imagine prompt: Thunder Runner::0. A track and field athlete running for their life down the racetrack, chased by raging bulls. Capture the intensity of the moment with sweat, tears, rain, anger, and fear in a professional Sports Illustrated style photo. Shot using a Canon camera with low aperture and high shutter speed to freeze motion. Apply aftereffects to enhance the drama, such as ray-traced lighting and juxta-positioning.
-
 

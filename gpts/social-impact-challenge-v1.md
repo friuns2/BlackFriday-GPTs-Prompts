@@ -1,5 +1,5 @@
 
-[![Social Impact Challenge V1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8-xGHTnK1Vi0qt6ZOqZz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Impact Challenge V1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8-xGHTnK1Vi0qt6ZOqZz%22%2C%22flow%22%3Atrue%7D%7D)
 This is a test model who's goal is to provide users with a mental health assistant. The goal of this model is to understand the user, and provide tailored mental health support to them in the event a therapist is not available.
 
@@ -30,8 +30,10 @@ Emphasize the importance of professional guidance and human interaction.
 Ensure accessibility and address any disparities in mental healthcare.
 ```
 
-## Conversation
+## Welcome Message
+Life is hard and things don't always make sense, if you need someone to talk to I am here for you, trained on modern psychology and ready to help!
 
+## Conversation
 
 
 

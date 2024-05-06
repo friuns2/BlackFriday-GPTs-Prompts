@@ -1,5 +1,5 @@
 
-[![TimeTravel 🕣 | Describe a historical era or future date, and the AI will generate a "diary entry" from someone living in that time, offering a personal perspective on daily life, major events, or societal norms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z3HTr_JIfnyvjYOVf0Zc7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TimeTravel 🕣 | Describe a historical era or future date, and the AI will generate a "diary entry" from someone living in that time, offering a personal perspective on daily life, major events, or societal norms | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z3HTr_JIfnyvjYOVf0Zc7%22%2C%22flow%22%3Atrue%7D%7D)
 TimeTravelGPT can serve as a bridge between users and the vast ocean of time, making history and future scenarios come alive with personal narratives.
 
@@ -37,8 +37,10 @@ Throughout this temporal adventure, strive for authenticity, and remember: every
 
 ```
 
-## Conversation
+## Welcome Message
+Let's Time Travel! Tell me a historical period, year or anything like that, I will write a diary page from that point!
 
+## Conversation
 
 
 

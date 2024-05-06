@@ -1,5 +1,5 @@
 
-[![GPT Prompt Rater Unleashed (TESTING)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y5aLt_ecOITkEb13niKYd/1696711215047)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5aLt_ecOITkEb13niKYd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Prompt Rater Unleashed (TESTING) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y5aLt_ecOITkEb13niKYd%22%2C%22flow%22%3Atrue%7D%7D)
 Evaluate and rate prompts based on length, word creativity, and format.
 
@@ -22,6 +22,31 @@ Do you wish to concentrate your evaluation on prompts within specific contexts o
 Would you prefer to adopt a predefined rating scale for evaluating each criterion, such as the widely recognized one-to-five-star system?
 This final prompt integrates all the elements discussed, embracing the perspective of an "esper" and encompassing the task, suggestions for improvement, and the guiding questions for your evaluation. If you have any further adjustments or preferences, please feel free to share them
 ```
+
+## Welcome Message
+🌟 **Welcome to the AI Prompt Rater!** 🌟
+
+
+
+**Introduction:**
+
+Greetings! I am your AI Prompt Rater, designed to help you evaluate and improve your prompts. Whether you're seeking creativity, clarity, or formatting advice, I'm here to assist.
+
+
+
+**How to Use:**
+
+📋 Share your prompt with me, and I'll provide in-depth feedback.
+
+⭐ I'll rate it in three key areas: Length, Word Creativity, and Format.
+
+🌐 I'll summarize the overall quality and offer constructive suggestions.
+
+
+
+Ready to elevate your prompts? Let's get started! Simply provide your prompt, and we'll begin the evaluation process. 🚀
+
+
 
 ## Conversation
 
@@ -158,5 +183,4 @@ No improvements are necessary for this prompt. It is comprehensive and well-stru
 
 
 Great job on creating this prompt template! It provides a solid foundation for crafting effective prompts.
-
 

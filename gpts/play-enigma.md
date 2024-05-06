@@ -1,5 +1,5 @@
 
-[![Play ENIGMA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UUDosYofCNZkL8gOtZktg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Play ENIGMA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UUDosYofCNZkL8gOtZktg%22%2C%22flow%22%3Atrue%7D%7D)
 The ENIGMA of Alan Turing Implemented by ChatGPT. 
 
@@ -8,6 +8,9 @@ The ENIGMA of Alan Turing Implemented by ChatGPT.
 ```
 We could design a model based on recurrent neural networks (RNN) so that it generates text similar to the cipher produced by the ENIGMA machine.
 ```
+
+## Welcome Message
+Yes, it is possible to design a model based on recurrent neural networks (RNN) that generates text similar to the cipher produced by the ENIGMA machine. However, it would require significant expertise in cryptography and deep learning to create such a model. Additionally, it is important to note that any attempt to replicate the ENIGMA machine or its ciphers should only be done for educational or historical purposes and not for malicious intent.
 
 ## Conversation
 
@@ -416,5 +419,4 @@ In this code snippet, we define the RNN architecture as a sequential model with 
 Note that this is just an example implementation, and you may need to modify some details based on your specific requirements.
 **USER**: It is enough. Thank you.
 **ASSISTANT**: You're welcome! If you have any further questions or need additional assistance, feel free to ask.
-
 

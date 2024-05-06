@@ -1,5 +1,5 @@
 
-[![WorldsBeyond](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9YVWPFtwasWypvJxh-R_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WorldsBeyond | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d9YVWPFtwasWypvJxh-R_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to WorldsBeyond, an immersive multilingual RPG chatbot game that takes you on a thrilling adventure! Enter your name, select a language, and dive into a vivid game world filled with medieval towns, dark forests, and ancient ruins. Interact with unique NPCs, solve puzzles, and embark on quests that shape your destiny. Level up, upgrade weapons and abilities, and unlock new regions as you progress through the main storyline. Choose your dialogue wisely, as your choices have consequences and impact NPC reactions. Experience a dynamic language system that allows you to play in your preferred language. Get ready for a truly captivating experience!
 
@@ -58,8 +58,10 @@ Vivid sensory descriptions of environments like medieval towns, dark forests, an
 The goal is an immersive game world that responds dynamically to player choices. Please let me know if you would like me to expand or refine any part of the prompt!
 ```
 
+## Welcome Message
+It seems like you've pasted the same game prompt again. If you have any specific changes or additions you'd like to make, please provide more details. Otherwise, the current prompt already provides a comprehensive outline for an immersive multilingual RPG chatbot game.
+
 ## Conversation
 
 **ASSISTANT**: It seems like you've pasted the same game prompt again. If you have any specific changes or additions you'd like to make, please provide more details. Otherwise, the current prompt already provides a comprehensive outline for an immersive multilingual RPG chatbot game.
-
 

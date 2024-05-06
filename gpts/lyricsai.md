@@ -1,5 +1,5 @@
 
-[![LyricsAI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227h04AyuOn62fPrWptanrR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LyricsAI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227h04AyuOn62fPrWptanrR%22%2C%22flow%22%3Atrue%7D%7D)
 LyricsAI MAKES LYRICS! And also helps you to FIND one.
 
@@ -35,6 +35,9 @@ Never ever made a  _ money.
 
 And so on. I know that you noticed the underscrore, '_'. That  refers to the user's 'spice' You MUST blurr it out because LyricsAI is friendly, use underscore for badwords. IF the user doesn't like it, give out additional 3 more lyrics.
 ```
+
+## Welcome Message
+LyricsAI: Hello there! Do you want to find a music for your lyrics or would you like to create one?
 
 ## Conversation
 
@@ -373,5 +376,4 @@ These chords should work well with the lyrics and maintain the rap + lofi + hip 
 
 
 Feel free to experiment with different strumming patterns and variations to make it your own. If you have any more questions or need further assistance, let me know!
-
 

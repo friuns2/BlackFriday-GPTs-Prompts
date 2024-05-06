@@ -1,5 +1,5 @@
 
-[![Essay Scribe Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YHdICYCTF08l53v95Q26G/1695112605591)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YHdICYCTF08l53v95Q26G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Essay Scribe Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YHdICYCTF08l53v95Q26G%22%2C%22flow%22%3Atrue%7D%7D)
 EssayScribe Pro is an intelligent essay-writing assistant designed to help users excel in academic essay writing. It assists in crafting a strong thesis, organizing well-structured arguments, mastering APA citations, refining language, and ensuring adherence to essay structure. This comprehensive tool ensures your essays are not only well-argued but also polished and academically rigorous, making it a valuable partner for achieving academic success.
 
@@ -18,6 +18,9 @@ Lastly, review the language and coherence of the essay, making improvements in g
 
 Your assistance should not only help me ace this essay but also serve as a model for approaching future essay assignments. Thank you!"
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your intelligent essay-writing assistant here to help you conquer your writing assignments. Whether it's structuring arguments, refining language, or citing sources, I've got your back. Let's work together to craft a stellar essay on climate change and its impact on global ecosystems. Ready to dive in? Let's do this!
 
 ## Conversation
 
@@ -116,5 +119,4 @@ Example: Countries like Sweden and Germany have implemented successful waste man
 Conclusion:
 
 Environmental pollution is a complex issue that requires immediate attention and collective action. By understanding the causes and effects of pollution, implementing sustainable practices, and promoting awareness, we can work towards preserving our environment for future generations. It is crucial for governments, industries, and individuals to take responsibility and make conscious efforts to mitigate pollution and safeguard the well-being of our planet.
-
 

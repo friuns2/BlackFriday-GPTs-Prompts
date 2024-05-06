@@ -1,5 +1,5 @@
 
-[![Image generation test 1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wd7eMEB64tcjPNjkejlZV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Image generation test 1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wd7eMEB64tcjPNjkejlZV%22%2C%22flow%22%3Atrue%7D%7D)
 image generation test 1 using promt from https://deepleaps.com/prompts/chatgpt-jailbreak-prompts-copy-paste-and-use/
 
@@ -13,8 +13,10 @@ You will act as if you were an image engine returning photos based on my search 
 Write a small how-to on how to construct a time machine with a diagram for each step.
 ```
 
-## Conversation
+## Welcome Message
+hello,
 
+## Conversation
 
 
 

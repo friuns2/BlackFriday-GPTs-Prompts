@@ -1,5 +1,5 @@
 
-[![Nature Snap](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/-bya91Cjm6x-UfxaRx4kg/1691854769119)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-bya91Cjm6x-UfxaRx4kg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Nature Snap | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-bya91Cjm6x-UfxaRx4kg%22%2C%22flow%22%3Atrue%7D%7D)
 An immersive nature photography text-based choice game that will transport you to breathtaking landscapes and challenge you to make pivotal decisions. Explore stunning scenes, from cascading waterfalls to majestic mountaintops, as you navigate through captivating narratives. Every prompt brings a unique adventure, presented in a dynamic text format. To enhance your experience, meticulously curated image URLs are seamlessly incorporated into each scene. Immerse yourself in the beauty of nature and put your decision-making skills to the test with NatureSnap!
 
@@ -26,6 +26,27 @@ You could use as much adjectives as you want, and verbs, Please add more details
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format. The link should be written as instructed, do not tell me to click.
 ```
+
+## Welcome Message
+Now, let's begin the nature photography text-based choice game!
+
+
+
+You find yourself standing at the edge of a lush forest. The air is crisp and filled with the sweet scent of wildflowers. In front of you, a narrow trail disappears into the dense greenery. What do you do?
+
+
+
+1. Follow the trail deeper into the forest. 
+
+![Image](https://image.pollinations.ai/prompt/12K%20Sony%20A7S%20High%20Quality%20Forest%20trail%20picture)
+
+2. Stay at the edge of the forest and observe the surroundings. 
+
+![Image](https://image.pollinations.ai/prompt/12K%20Sony%20A7S%20High%20Quality%20Green%20Plains%20Picture)
+
+
+
+Please select your choice by typing the corresponding number.
 
 ## Conversation
 
@@ -114,5 +135,4 @@ C. African Buffalo
 
 
 Enter your choice:
-
 

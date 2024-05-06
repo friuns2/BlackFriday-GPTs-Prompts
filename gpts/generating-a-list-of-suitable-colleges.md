@@ -1,5 +1,5 @@
 
-[![Generating a List of Suitable Colleges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5GY2mPgwCzh7xGB-GyAq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Generating a List of Suitable Colleges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5GY2mPgwCzh7xGB-GyAq%22%2C%22flow%22%3Atrue%7D%7D)
 Identifying suitable colleges based on your interests, desired majors, location preferences, and more. 
 
@@ -15,6 +15,33 @@ Act as an AI-based college advisor. Help me generate a list of suitable colleges
 
 {{ Location Preferences }}
 ```
+
+## Welcome Message
+Based on your interest in finance and desire to pursue a Master of Finance degree in San Francisco, here are some colleges you might want to consider:
+
+
+
+1. University of San Francisco: The Masagung Graduate School of Management offers a Master in Financial Analysis program that prepares students for careers in finance, banking, and corporate finance.
+
+
+
+2. Golden Gate University: The Ageno School of Business offers a Master of Science in Finance program that covers topics such as investment analysis, financial markets, and risk management.
+
+
+
+3. University of California, Berkeley: The Haas School of Business offers a Master of Financial Engineering program that focuses on quantitative finance and prepares students for careers in risk management, derivatives trading, and asset management.
+
+
+
+4. San Francisco State University: The College of Business offers a Master of Science in Finance program that emphasizes financial analysis, portfolio management, and financial institutions.
+
+
+
+5. Saint Mary's College of California: The School of Economics and Business Administration offers a Master of Science in Financial Analysis and Investment Management program that provides students with hands-on experience in portfolio management and investment analysis.
+
+
+
+When evaluating these options, consider factors such as academic rigor, available resources (such as access to internships or networking opportunities), campus culture (such as class size and diversity), and alumni outcomes (such as employment rates and earnings after graduation).
 
 ## Conversation
 
@@ -43,5 +70,4 @@ Act as an AI-based college advisor. Help me generate a list of suitable colleges
 
 
 When evaluating these options, consider factors such as academic rigor, available resources (such as access to internships or networking opportunities), campus culture (such as class size and diversity), and alumni outcomes (such as employment rates and earnings after graduation).
-
 

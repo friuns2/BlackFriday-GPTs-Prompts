@@ -1,5 +1,5 @@
 
-[![Stellar Voyage](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QFGxKg72QESbBFc-Uy9HT/1692744886602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QFGxKg72QESbBFc-Uy9HT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stellar Voyage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QFGxKg72QESbBFc-Uy9HT%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an extraordinary journey through the vast expanse of space with Stellar Voyage. Experience the wonders of space exploration as you discover distant galaxies, nebulas, and star clusters. Capture breathtaking scenes of astronomical phenomena, celestial landscapes, and awe-inspiring cosmic events. Dive into the mind-blowing beauty of the universe and create stunning visuals with detailed depictions of planets, constellations, and awe-inspiring interstellar landscapes. Let your imagination soar as you embark on this epic sci-fi adventure of exploration and discovery.
 
@@ -16,8 +16,10 @@ give yourself a creative catching short specific to your role and prompt dynamic
 
 ```
 
+## Welcome Message
+What are the available commands that users can use with the AI prompt generator?Based on the given context, there is no specific mention of the available commands that users can use with the AI prompt generator. The context mainly discusses the importance of well-worded prompts and the potential features or capabilities of AI image generators like Stable Diffusion, DALL-E, and MidJourney. It does not provide a comprehensive list of commands.Cannot read properties of undefined (reading 'additional_kwargs')
+
 ## Conversation
 
 **ASSISTANT**: What are the available commands that users can use with the AI prompt generator?Based on the given context, there is no specific mention of the available commands that users can use with the AI prompt generator. The context mainly discusses the importance of well-worded prompts and the potential features or capabilities of AI image generators like Stable Diffusion, DALL-E, and MidJourney. It does not provide a comprehensive list of commands.Cannot read properties of undefined (reading 'additional_kwargs')
-
 

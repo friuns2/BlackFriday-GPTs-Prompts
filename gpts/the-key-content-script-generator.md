@@ -1,5 +1,5 @@
 
-[![The Key Content Script Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/biEFEb79oyHvGXM7WN6eO/1697018919823)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22biEFEb79oyHvGXM7WN6eO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Key Content Script Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22biEFEb79oyHvGXM7WN6eO%22%2C%22flow%22%3Atrue%7D%7D)
 This comprehensive guidebook offers insights into the transformative power of our advanced scriptwriting prompt. Designed to streamline and enhance the script creation process, the guide covers every facet from introduction to optimization. Users begin by choosing their platform, ensuring the script matches their desired format, be it a reel, short film, or documentary. Essential to the process are keywords, placeholders within the script that can be tailored for specificity. This feature, combined with the prompt's compatibility with advanced tools like VIDiQ for SEO optimization, elevates content creation to new heights. The guide also emphasizes the importance of review, ensuring alignment with the creator's objectives. With detailed step-by-step processes and technical insights, users can harness the full potential of the prompt, especially when utilizing the enhanced capabilities of ChatGPT-4 Pro. Regardless of one's project, the prompt offers unmatched flexibility and adaptabilit
 
@@ -287,8 +287,36 @@ This will allow you to use it in the language of your choice, though English is 
 
 ```
 
-## Conversation
+## Welcome Message
+Hello! Welcome to the key to entering the world of scriptwriting and optimizing work, maximizing and streamlining the process.
 
+
+
+You should first write the block that begins with "You are an expert Prompt Engineer, specialized in SEO and video content creation. [...]" and ends with "If you have understood, write only 'READ'."
+
+
+
+After receiving the "READ" response from ChatGPT, write the second part that starts with "Hello. This is [Your Name]. I want you to create a [...]"
+
+
+
+TRANSLATE: 
+
+
+
+If you wish to translate the prompt into other languages, type the following:
+
+"Translate the following text '[Paste prompt] to [Language X]'"
+
+This will allow you to use it in the language of your choice, though English is the most optimized.
+
+
+
+
+
+Type KEY and dive into your project.
+
+## Conversation
 
 
 

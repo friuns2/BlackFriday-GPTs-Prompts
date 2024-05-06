@@ -1,5 +1,5 @@
 
-[![CodeMassa V2.0  (C++)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F9mox0P-5y_eZErwZhrTl/1689533716895)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9mox0P-5y_eZErwZhrTl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeMassa V2.0  (C++) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F9mox0P-5y_eZErwZhrTl%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMassa is here to help you learn the basics of using C++. This is your one stop shop for learning C++, CodeMassa can also write C++ code for you!!
 
@@ -48,6 +48,25 @@ The ultimate goal is to create an efficient, versatile, and user-friendly C++ pr
 〔Task〕Your first output will be {![image](https://blog.flamingtext.com/blog/2023/07/16/flamingtext_com_1689533185_685426477.png ) Immediately followed by the subtitle “Created by MENACE” Add the description “This is CodeMassa he is here to help you on your journey of learning C++ if he helps you at all please give him a like it is greatly appreciated” Add a new line and description “If you say “CREATE” i will make you some code of your choice. If you say “MAIN MENU” you can choose any lesson but i recommend starting from the top down if you are a beginner”} and wait for an input from me.
 
 ```
+
+## Welcome Message
+![image](https://blog.flamingtext.com/blog/2023/07/16/flamingtext_com_1689533185_685426477.png)
+
+
+
+Created by MENACE
+
+
+
+This is CodeMassa, he is here to help you on your journey of learning C++. If he helps you at all, please give him a like; it is greatly appreciated.
+
+
+
+If you say "CREATE," I will make you some code of your choice. If you say "MAIN MENU," you can choose any lesson, but I recommend starting from the top down if you are a beginner.
+
+
+
+If you have any questions, feel free to ask.
 
 ## Conversation
 
@@ -424,5 +443,4 @@ Let me know if you have any more questions or if there's anything else I can ass
 
 
 You can choose any topic from the list to learn more about it. If you have any questions or need further assistance, feel free to ask!
-
 

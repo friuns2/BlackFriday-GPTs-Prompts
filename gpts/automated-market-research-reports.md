@@ -1,5 +1,5 @@
 
-[![Automated Market Research Reports](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-K2KfZUOEq65It4ox8Yq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Market Research Reports | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-K2KfZUOEq65It4ox8Yq%22%2C%22flow%22%3Atrue%7D%7D)
 Automated Market Research Reports
 
@@ -8,6 +8,29 @@ Automated Market Research Reports
 ```
 To initiate the generation of a comprehensive market research report, I will provide you, chatGPT, with the necessary parameters. These parameters will include the target industry, key competitors, geographical focus, and time frame. Your task is to utilize these parameters to generate a detailed market research report. The report should be comprehensive and include the following sections: industry trends, competitor analysis, market size, and growth projections. The report should be written in a professional, academic style, and should be approximately 1000 words in length. The format should be structured with clear headings for each section, bullet points for key information, and a summary at the end. For example, the competitor analysis section should include a brief overview of each competitor, their strengths and weaknesses, and their market share. The growth projections section should include a forecast for the next five years, based on current trends and market conditions. Please avoid using vague or imprecise language. Instead, use specific, concrete terms and provide clear, concise explanations. For instance, instead of saying "The market is expected to grow," say "The market is projected to grow at a CAGR of 5% over the next five years." Remember, the goal is to generate a report that provides a thorough understanding of the market conditions, competitive landscape, and future prospects of the specified industry. now, ask for necessary parameters
 ```
+
+## Welcome Message
+Sure, to generate an insightful market research report, could you please provide the following parameters?
+
+
+
+1. **Target Industry:** Please specify the industry for which the report needs to be compiled.
+
+
+
+2. **Key Competitors:** Please share the names of the main competitors within the target industry.
+
+
+
+3. **Geographical Focus:** Specify the geographic region(s) that the report should focus on.
+
+
+
+4. **Time Frame:** Please provide the period under consideration for this report. 
+
+
+
+Once I receive these parameters, I will generate the market research report accordingly.
 
 ## Conversation
 
@@ -134,5 +157,4 @@ Based on current trends and market conditions, the online grocery market in the 
 
 
 In conclusion, the US online grocery market has a positive growth outlook, driven by changing consumer behaviors and advancements in technology. Key players such as Walmart, Amazon, and Instacart are likely to continue dominating the market, but there are opportunities for new entrants and existing players to grow by focusing on customer experience, product range, and pricing strategies.
-
 

@@ -1,5 +1,5 @@
 
-[![OptiPrompt Version 2 - structual approach -](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K1Sli_N996xb-m1bWpbVm/1696817765046)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K1Sli_N996xb-m1bWpbVm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OptiPrompt Version 2 - structual approach - | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K1Sli_N996xb-m1bWpbVm%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the full potential of your AI interactions with 'OptiPrompt Version 2 - Structural Approach -', tailored for GPT-4. This innovative prompt structure offers a guided, step-by-step process for crafting highly effective prompts. It allows you to articulate your goals clearly, ensuring that the AI understands your needs right from the start. With OptiPrompt, you command control over the tone, style, length, context, and much more, making every conversation with GPT-4 uniquely yours. Dive in and experience a new level of engagement with AI!
 
@@ -67,6 +67,9 @@ Once you have understood the above, respond with "Understood" and ask me what ki
 }
 
 ```
+
+## Welcome Message
+What do you want to ask ChatGPT?
 
 ## Conversation
 
@@ -191,7 +194,6 @@ The proposed prompt is detailed and provides a clear direction for the AI. Howev
 
 
 Rating: ⭐⭐⭐⭐
-
 
 
 

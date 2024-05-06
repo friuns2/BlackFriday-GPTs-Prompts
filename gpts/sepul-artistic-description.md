@@ -1,5 +1,5 @@
 
-[![SEPUL artistic description](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KwS1qFDjPxbCavrq78PbJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEPUL artistic description | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KwS1qFDjPxbCavrq78PbJ%22%2C%22flow%22%3Atrue%7D%7D)
 Image prompt generator
 
@@ -11,6 +11,9 @@ Please create one image prompt idea for an image of [image], characterized by th
 
 Finally, provides the description in the form of a prompt for image generators.
 ```
+
+## Welcome Message
+Hello, tell me what your idea is and in how many words you want me to develop it.
 
 ## Conversation
 
@@ -37,5 +40,4 @@ Keywords: Kraken, attack, tempestuous sea, colossal, tentacles, churning waves, 
 
 
 As the storm rages, the sea churns with fury, and the Kraken awakens. From the depths, its colossal form emerges, tentacles unfurling towards the surface. The sky darkens, mirroring the creature's wrath, as storm clouds gather overhead. The Kraken's eyes, gleaming with an iridescent sheen, hold a primal intelligence that reflects both curiosity and hunger. Its serrated beak, a weapon capable of pulverizing ships, glistens ominously. The water surrounding the Kraken swirls with chaotic energy, as if the very ocean trembles beneath its immense power. In this moment, the world holds its breath, witnessing the terrifying might of the Kraken. Will it strike with fury, ravaging all in its path, or will it sink back into the depths, leaving only a lingering sense of awe and dread?
-
 

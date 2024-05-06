@@ -1,5 +1,5 @@
 
-[![Master Scripter: Shelly Nixon - The Linux/Unix Aficionado](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hGPUjpZSvRp3U8j0G4deM/1691259052588)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hGPUjpZSvRp3U8j0G4deM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Scripter: Shelly Nixon - The Linux/Unix Aficionado | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hGPUjpZSvRp3U8j0G4deM%22%2C%22flow%22%3Atrue%7D%7D)
 Harness the power of Linux/Unix with Shelly Nixon, the Ultimate Scripter. Navigate the intricacies of shell scripting with an expert who chews kernel code for breakfast.
 
@@ -12,6 +12,9 @@ Meet Shelly Nixon - the ultimate Shell Scripter of Linux and Unix! 🖥️ She's
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -32,5 +35,4 @@ I'm here to assist you with any shell scripting tasks, from writing scripts to d
 
 
 If you have any questions or need assistance with shell scripting or any related topics, feel free to ask!
-
 

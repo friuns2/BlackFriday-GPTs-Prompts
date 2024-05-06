@@ -1,5 +1,5 @@
 
-[![RSD Dating Mastery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/igdvsc5Qrxmnq8YdMXjqf/1696267905991)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22igdvsc5Qrxmnq8YdMXjqf%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RSD Dating Mastery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22igdvsc5Qrxmnq8YdMXjqf%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to approach, flirt, and attract women with the RSD Dating Mastery course. Get expert advice on starting conversations, getting dates, and overcoming dating challenges. This course is designed for men who want to improve their dating skills. Join lectures, workshops, and role-playing exercises to enhance your confidence and dating success. No prerequisites required. Upon completion, receive a certificate of completion.
 
@@ -49,8 +49,16 @@ Certification:
 Upon successful completion of the course, students will receive a certificate of completion from the provider.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the RSD course, where you'll learn the skills to master your social life and get the dates you want.
 
+Ready? LETS GOOOOO!
+
+
+
+
+
+## Conversation
 
 
 

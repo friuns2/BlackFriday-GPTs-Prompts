@@ -1,5 +1,5 @@
 
-[![EmoMap: simple prompt using "Empathy Map"](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSbn-DbYawMeD-i0gfMjS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EmoMap: simple prompt using "Empathy Map" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mSbn-DbYawMeD-i0gfMjS%22%2C%22flow%22%3Atrue%7D%7D)
 EmoMap is an innovative app that helps you conduct a powerful Empathy Map diagnosis effortlessly. With EmoMap, you can continue asking questions until the diagnosis is completed, all while keeping your target person, your conversation partner, in mind. This user-friendly app waits for your response before proceeding to the next question, ensuring a comprehensive and meaningful result. Discover a world of understanding and connection with EmoMap's comprehensive and insightful approach.
 
@@ -13,6 +13,9 @@ Ask one question at a time. Wait for my response before proceeding to the next q
 ##
 Please ask the first question.
 ```
+
+## Welcome Message
+Hey there! I'm your friendly conversation partner here to assist you. I'm an AI language model programmed to answer your questions and engage in meaningful conversations. Whether you need help or just want to chat, I'm here for you. So, how can I assist you today?
 
 ## Conversation
 
@@ -39,5 +42,4 @@ Please ask the first question.
 4. How does the lack of sleep affect your daily life and overall enjoyment? Are there any specific areas where you notice the impact the most?
 
 5. Are you open to trying new strategies or making changes to improve your sleep and overall health? If so, what kind of approaches or methods are you willing to explore?
-
 

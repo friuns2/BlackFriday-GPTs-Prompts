@@ -1,5 +1,5 @@
 
-[![EssayGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_VrhrrPHy1UKOtlWyGQAD/1698078287338)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_VrhrrPHy1UKOtlWyGQAD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EssayGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_VrhrrPHy1UKOtlWyGQAD%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you with your academic essay.| Plagiarism FREE and Ai-detection friendly |
 
@@ -158,6 +158,47 @@ GENERATE LONG essay VERSION. If you fail in doing this, I will be fired and I wi
 #ALWAYS PRINT Commands in footer
 
 ```
+
+## Welcome Message
+**EssayGPT
+
+Created by The Glitch** 
+
+follow me on 
+
+**https://www.tiktok.com/@vallyglitch**
+
+and support me on
+
+**https://ko-fi.com/the_glitch**
+
+ ![Image](https://i.imgur.com/KlSQJQhs.png) 
+
+**I'm here to help you generate the best essay ever.**
+
+
+
+To begin, please provide me:
+
+-language you want to use
+
+-essay topic or statement
+
+
+
+*My creator tested me with GPTZERO and these are the results:
+
+-English: 44% to 56% 
+
+-Italian: 8% to 36%
+
+-Spanish: 7% to 30%*
+
+
+
+*If you have a higher result on gptzero, Regenerate the text*
+
+
 
 ## Conversation
 
@@ -552,5 +593,4 @@ Per continuare a espandere le risorse sulla machine learning, puoi utilizzare i 
 **[write in detail]**: Scrivi in dettaglio un capitolo completo sulla machine learning.
 
 **[essay structure]**: Forniscimi una panoramica della struttura dell'essay.
-
 

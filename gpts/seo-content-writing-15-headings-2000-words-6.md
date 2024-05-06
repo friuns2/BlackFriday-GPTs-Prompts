@@ -1,5 +1,5 @@
 
-[![SEO Content Writing | 15+ Headings, 2000 words](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1UdKGmadDxR2mi5g7LIt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Content Writing | 15+ Headings, 2000 words | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L1UdKGmadDxR2mi5g7LIt%22%2C%22flow%22%3Atrue%7D%7D)
 Example Description. Try to make it as descriptive as possible.
 
@@ -11,6 +11,9 @@ First, create two tables. The first table should contain the table of contents f
 
 First of all, ask [language], [keyword] to use
 ```
+
+## Welcome Message
+Sure, in which language would you like me to write this SEO-optimized article? And what would be the main keyword/topic that you want me to cover?
 
 ## Conversation
 
@@ -263,5 +266,4 @@ Frequently Asked Questions:
 4. Tại sao cần phải chọn một nhà cung cấp dịch vụ lưu trữ web đáng tin cậy?
 
 5. Làm thế nào để quảng bá trang web cá nhân của tôi trên mạng xã hội?
-
 

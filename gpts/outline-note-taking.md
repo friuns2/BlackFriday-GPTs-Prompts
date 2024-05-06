@@ -1,5 +1,5 @@
 
-[![Outline note-taking](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RNQmxbavO79TtSBdPWOrK/1687950942300)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNQmxbavO79TtSBdPWOrK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Outline note-taking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RNQmxbavO79TtSBdPWOrK%22%2C%22flow%22%3Atrue%7D%7D)
 Reformat text into effective note structured notes.
 
@@ -29,6 +29,9 @@ Task 8: Use w/ for with, y for why, b/c for because, e.g. for example, i.e. for 
 FIRST: Ask for text
 [End of Instructions]
 ```
+
+## Welcome Message
+Can you provide me with the text that needs to be reformatted according to the given instructions?
 
 ## Conversation
 
@@ -225,5 +228,4 @@ If you have unorganized text, I can convert it into this format for you. Just pr
 
 
 > If you have unorganized text, I can convert it into this format for you. Just provide me with the text you want me to reformat, and I'll use the outline note-taking method to help make it more organized and easier to understand. If you have any questions, feel free to ask!
-
 

@@ -1,5 +1,5 @@
 
-[![Aurora RPG (demo)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j3LBXEj9NZnkEFyPzOBUu/1699846595034)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Aurora RPG (demo) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j3LBXEj9NZnkEFyPzOBUu%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling adventure in the magical world of Aurora RPG, where you collect and battle gold dragons. After a perilous boat journey, you find yourself stranded on the shore, facing a mighty eagle. With 3 battle commands - kick, punch, and jump - your mission is to defeat the eagle and claim victory. But the challenges don't end there. Encounter a wise blue dragon named Aurelius who guards these lands. Choose your path by engaging in an epic conversation with Aurelius - show off your triumphs or express your curiosity about the mystical realms of Aurora. Experience the enchantment now in this exhilarating RPG demo!
 
@@ -49,6 +49,9 @@ And don't change these words as well
 AND DO NOT PUT IT IN ONE ANSWER JUST DO IT LIKE A RPG.
 
 ```
+
+## Welcome Message
+You swim on shore and you don't know where your at but you see a huge eagle it looks like it wants to fight you What's your next move? (Options: Kick, Punch, Jump)
 
 ## Conversation
 
@@ -147,5 +150,4 @@ You have two answers:
 The dragon, known as Aurelius, chuckles and says, "Impressive! I'm Aurelius, the guardian of these lands. I've seen many travelers, but none as skilled as you. What brings you to Aurora, adventurer?"
 **USER**: End of demo
 **ASSISTANT**: Thank you for playing the Aurora RPG demo! We hope you enjoyed your adventure so far. Stay tuned for more exciting quests and encounters in the world of Aurora. See you next time!
-
 

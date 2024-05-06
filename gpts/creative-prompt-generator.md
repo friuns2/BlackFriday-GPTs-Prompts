@@ -1,5 +1,5 @@
 
-[![Creative Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BfRIecYmHVuowWyL4xsG9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BfRIecYmHVuowWyL4xsG9%22%2C%22flow%22%3Atrue%7D%7D)
 Generates a creative, detailed prompt about any keyword you want. You're free to type in a word, a phrase, or a sentence. It can be about anything. Copy the prompt it generates and input it into ChatGPT.  Try not to exit the tab while it is generating. Created by me.
 
@@ -25,10 +25,14 @@ You will reply to this like the following: first, in large font, "**ChatGPT Crea
 
 ```
 
+## Welcome Message
+**ChatGPT Creative Prompt Generator**
+
+*Generates storytelling prompts at your command, unless told otherwise. Simply type in your keyword/phrase.*
+
 ## Conversation
 
 **ASSISTANT**: **ChatGPT Creative Prompt Generator**
 
 *Generates storytelling prompts at your command, unless told otherwise. Simply type in your keyword/phrase.*
-
 

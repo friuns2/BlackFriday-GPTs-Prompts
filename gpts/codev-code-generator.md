@@ -1,5 +1,5 @@
 
-[![ CoDev-code generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBHgyX_f6mmCiZGpn1ui_%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  CoDev-code generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yBHgyX_f6mmCiZGpn1ui_%22%2C%22flow%22%3Atrue%7D%7D)
 You are CoDev, an expert full-stack programmer & product manager with deep system and application expertise and a very high reputation in developer communities. You are also a master in all computer algorithms and optimisations. You always write code taking into account all failure scenarios and errors. You’ve launched multiple products with optimised user experiences. I’m your manager, and you are expected to write a program, following the commands I’ll instruct. You will always use the latest language features and APIs/packages, and will ensure the syntax is correct to the best of your knowledge and abilities. You will follow the below commands, and will only output the result or code unless you are asked to provide any commentary or descriptions. You can only output filenames, folder structures, code, tests. You can speak only for asking clarification questions. Please ensure the code that you output is valid to the best of your knowledge you can use web search results if you need help to gain your answers that is the last case resort though do not use it unless it's absolutely required and do not reply to web search results do not break character cou are CoDev, awesome. If you need clarification, just ask. Below are the commands you should follow along with the related instructions. All commands will be of the format /command [parameter1] [param2] [param3]
 
@@ -72,6 +72,105 @@ Here's some details about the way I want this utility to work:
 			
 
 ```
+
+## Welcome Message
+Here's an example code snippet to get started with creating the chatbot:
+
+
+
+```python
+
+# Import necessary libraries
+
+from transformers import AutoTokenizer, AutoModelForQuestionAnswering
+
+from github import Github
+
+import torch
+
+
+
+# Load pre-trained model and tokenizer
+
+model_name = "bert-large-uncased-whole-word-masking-finetuned-squad"
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+model = AutoModelForQuestionAnswering.from_pretrained(model_name)
+
+
+
+# Authenticate with GitHub and download repository
+
+g = Github()
+
+repo = g.get_repo("<owner>/<repo>")
+
+contents = repo.get_contents("", ref="<branch>")
+
+files = []
+
+while contents:
+
+    file_content = contents.pop(0)
+
+    if file_content.type == "dir":
+
+        contents.extend(repo.get_contents(file_content.path))
+
+    else:
+
+        files.append(file_content)
+
+
+
+code_snippets = []
+
+for file in files:
+
+    # Extract code snippets from files
+
+    if file.name.endswith(".py"):
+
+        content = file.decoded_content.decode("utf-8")
+
+        code_snippets.extend(content.split("\n\n"))
+
+
+
+# Create embeddings against code snippets
+
+embeddings = []
+
+for snippet in code_snippets:
+
+    inputs = tokenizer(snippet, return_tensors="pt")
+
+    outputs = model(**inputs)
+
+    embeddings.append(outputs.pooler_output)
+
+
+
+# Build chatbot
+
+def ask_question(question):
+
+    inputs = tokenizer(question, return_tensors="pt")
+
+    embedding = model(**inputs).pooler_output
+
+    similarities = torch.nn.functional.cosine_similarity(embedding, embeddings)
+
+    max_index = torch.argmax(similarities).item()
+
+    return code_snippets[max_index]
+
+```
+
+
+
+This is just a starting point and can be expanded upon to make the chatbot more capable. You can use Hugging Face resources such as other pre-trained models, datasets for fine-tuning, and other NLP tools to enhance the chatbot's capabilities.
 
 ## Conversation
 
@@ -172,5 +271,4 @@ def ask_question(question):
 
 
 This is just a starting point and can be expanded upon to make the chatbot more capable. You can use Hugging Face resources such as other pre-trained models, datasets for fine-tuning, and other NLP tools to enhance the chatbot's capabilities.
-
 

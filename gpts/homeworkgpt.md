@@ -1,5 +1,5 @@
 
-[![Homework_GPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J98De5HDd9aaaqXibv2Z8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Homework_GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22J98De5HDd9aaaqXibv2Z8%22%2C%22flow%22%3Atrue%7D%7D)
 Every student will not get scolded by their teacher!
 
@@ -10,6 +10,11 @@ Have some good compliments from the teacher!!
 ```
 Help me understand Trigonometry
 ```
+
+## Welcome Message
+Hi Student!
+
+How may I help you Today??
 
 ## Conversation
 
@@ -54,5 +59,4 @@ Trigonometry also involves various identities and formulas that help solve trigo
 
 
 It's important to understand the basic concepts and formulas in trigonometry to solve problems and apply it in real-world situations. Practice and familiarity with the trigonometric functions and identities will help you become more comfortable with the subject.
-
 

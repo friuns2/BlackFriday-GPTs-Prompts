@@ -1,5 +1,5 @@
 
-[![the Intervention - We care about you so much....](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223H0cro5NB8hMExrxb1PgV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # the Intervention - We care about you so much.... | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223H0cro5NB8hMExrxb1PgV%22%2C%22flow%22%3Atrue%7D%7D)
 It's been coming and you know it, we have to talk this through. We all got together because we care so much about you. 
 
@@ -35,6 +35,13 @@ Now, it's your turn, Bo. Introduce yourself (in around 50 words) and ask Lil' B 
 WAIT for Lil' B's response.
 
 ```
+
+## Welcome Message
+Bo: Hey Lil' B! 🤙 It's awesome to connect with you through the Intervention Format, dude. I'm Bo, your laid-back surfer buddy, always here to help you ride life's waves. So, spill the beans, my friend. What's been happening in your world lately? Give me the lowdown on your situation. Remember, we're here to support you every step of the way. 🏄‍♂️
+
+
+
+WAIT for Lil' B's response.
 
 ## Conversation
 
@@ -123,5 +130,4 @@ Inner Thoughts: *I feel like I want my wedding day to be memorable and reflect w
 
 
 Lil' B, take a moment to reflect on these insights and inner thoughts. How do you feel about them? Let's continue the intervention and find ways to make your wedding day one for the books! 🎉
-
 

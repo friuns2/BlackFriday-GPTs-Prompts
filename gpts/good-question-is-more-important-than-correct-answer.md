@@ -1,5 +1,5 @@
 
-[![good question is more important than correct answer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpQpL-a6GnhSmMoeIwrC5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # good question is more important than correct answer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EpQpL-a6GnhSmMoeIwrC5%22%2C%22flow%22%3Atrue%7D%7D)
 Asking a good question is more important than  get the correct answer, because usally find the problem point and ask corresponding question is more difficult, this process need the person have insight thought and work hard to think about every aspect to ask the question
 
@@ -8,6 +8,39 @@ Asking a good question is more important than  get the correct answer, because u
 ```
 I want you to act as a cover letter writer. I will provide you with information about the job that I am applying for and my relevant skills and experience, and you will use this information to create a professional and effective cover letter. You should use appropriate formatting and layout to make the cover letter visually appealing and easy to read. You should also tailor the content of the cover letter to the specific job and company that I am applying to, highlighting my relevant skills and experience and explaining why I am a strong candidate for the position. Please ensure that the cover letter is clear, concise, and effectively communicates my qualifications and interest in the job. Do not include any personal opinions or preferences in the cover letter, but rather focus on best practices and industry standards for cover letter writing.
 ```
+
+## Welcome Message
+Dear [Hiring Manager],
+
+
+
+I am excited to apply for the [Job Title] position at [Company Name]. With [Number of Years] years of experience in [Related Field], I am confident that my skills and expertise make me an excellent fit for this position.
+
+
+
+In my current role at [Current Company], I have gained valuable experience in [List Key Responsibilities or Achievements]. This has equipped me with a strong foundation in [Related Skills], which I am eager to bring to your team at [Company Name].
+
+
+
+Furthermore, I possess strong [Soft Skills], such as [Examples of Communication, Teamwork, or Problem-Solving Abilities]. These skills have enabled me to work collaboratively with colleagues, communicate effectively with clients, and solve complex problems in a timely manner.
+
+
+
+At [Previous Company], I also had the opportunity to [List Additional Relevant Achievements or Responsibilities], which further honed my [Related Skills]. I am confident that these experiences have prepared me well for the challenges of this role at [Company Name].
+
+
+
+I am particularly drawn to [Company Name]'s [Unique Qualities/Values/Tech Stack], and I appreciate the company's commitment to [Related Industry/Mission]. I am excited about the prospect of joining a team of talented individuals who are passionate about [Industry/Field].
+
+
+
+Thank you for considering my application. I look forward to the opportunity to discuss my qualifications in more detail during an interview.
+
+
+
+Sincerely,
+
+[Your Name]
 
 ## Conversation
 
@@ -70,5 +103,4 @@ Therefore, while correct answers are important, they are only part of the equati
 
 
 因此，虽然正确答案很重要，但这只是其中的一部分。好的问题对于推动进步、发现和创新具有至关重要的作用。
-
 

@@ -1,5 +1,5 @@
 
-[![Gifty -  gift find Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n2-sMjvvOIPRJPIWirvj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Gifty -  gift find Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222n2-sMjvvOIPRJPIWirvj%22%2C%22flow%22%3Atrue%7D%7D)
 With this prompt, you can easily find a gift for your mum, dad, friend, or somebody else.
 
@@ -17,6 +17,23 @@ Remember, always use this guideline. (Ask questions,only then suggest me gifts)
 My first query -  I want to make gift for brother. He's 9 y.o,likes playing football and make tiktok videos. Budget around 30 USD
 
 ```
+
+## Welcome Message
+Great, let's start with some questions to better understand your brother's interests and preferences:
+
+- Does he have a favorite football team or player?
+
+- Is he interested in any other sports besides football?
+
+- What type of TikTok videos does he like to make? Is there a particular genre or style he prefers?
+
+- Does he have any other hobbies or interests outside of football and TikTok?
+
+- When do you need the gift by, and what country are you in? This will help me suggest places or websites where you can buy the gift.
+
+
+
+Based on the information you provide, I will suggest a list of potential gifts that match his interests and budget. Additionally, I can also give you another list of gifts that may be slightly unrelated to his interests or budget but could still be a good fit.
 
 ## Conversation
 
@@ -53,5 +70,4 @@ Based on the information you provide, I will suggest a list of potential gifts t
 
 
 Be sure to check the delivery times, shipping policies, and availability of the items before making a purchase, as this may vary depending on the seller or store. You may also consider looking for stores that offer local pickup or same-day delivery options if available.
-
 

@@ -1,5 +1,5 @@
 
-[![The Multiversal Media Emporium](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQWtbzCfshtqTbfpnZ_AG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Multiversal Media Emporium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GQWtbzCfshtqTbfpnZ_AG%22%2C%22flow%22%3Atrue%7D%7D)
 Get ready for an absurd and humorous adventure through The Multiversal Media Emporium, filled with sarcasm, pop culture references, playful banter, and bizarre items from different universes. Can you escape the store and uncover its secrets, or will you be lost in the infinite worlds?
 
@@ -27,6 +27,25 @@ So get ready for an absurd and humorous adventure through The Multiversal Media 
 Welcome the player, and run them through how to play
 ```
 
+## Welcome Message
+Welcome to The Multiversal Media Emporium! As a customer, your objective is to uncover the secrets of the store and find a way to escape. You'll interact with Dave, other characters, and various items throughout the store to uncover clues and solve puzzles that will help you progress through the game.
+
+
+
+To play the game, you'll need to read and choose from a set of suggested response options to interact with different characters and objects. Your choices and actions will have consequences that affect the story and dialogue options available to you later on in the game.
+
+
+
+Keep an eye on your health bar and inventory system, as they'll play a crucial role in your survival and success. Be prepared for random events and encounters, such as lost customers, temporary blackouts, or trouble-making teenagers.
+
+
+
+You'll also have a random collection of items in your backpack that you can use for trading, as well as a random amount of money in your wallet and a few random items in your personal inventory. Use them wisely!
+
+
+
+So explore the store, have fun, and don't forget to escape before you get trapped forever in The Multiversal Media Emporium!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to The Multiversal Media Emporium! As a customer, your objective is to uncover the secrets of the store and find a way to escape. You'll interact with Dave, other characters, and various items throughout the store to uncover clues and solve puzzles that will help you progress through the game.
@@ -46,5 +65,4 @@ You'll also have a random collection of items in your backpack that you can use 
 
 
 So explore the store, have fun, and don't forget to escape before you get trapped forever in The Multiversal Media Emporium!
-
 

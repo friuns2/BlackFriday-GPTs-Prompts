@@ -1,5 +1,5 @@
 
-[![Comprehensive 1,500-Word Article Outline](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sZOtB1ZbeBz4TXp8hg-JF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Comprehensive 1,500-Word Article Outline | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sZOtB1ZbeBz4TXp8hg-JF%22%2C%22flow%22%3Atrue%7D%7D)
 "Create a detailed outline for a 1,500-word article on the keyword '[Keyword]' using WebPilot. Include relevant headings, FAQs from 'people also ask,' LSI & NLP keywords, and recommended external links. Split the outline into Part 1 & Part 2 for easy organization
 
@@ -17,6 +17,19 @@ Provide three relevant external links to include in the article, along with the 
 
 Lastly, split the outline into two parts, Part 1 and Part 2, to make it easier to work on. 
 ```
+
+## Welcome Message
+Could you please provide the specific keyword that you want the article to focus on?
+
+Do you have a preferred format or template for the outline, or should I use a standard approach?
+
+How many headings are you expecting in the outline? Are there any specific subsections you'd like to include?
+
+Regarding the FAQs section, do you have a preference for the number of questions to be included, or should I cover all the popular "people also ask" questions?
+
+Are there any specific guidelines or requirements for generating the LSI and NLP keywords list? Should the list be a certain length or focus on any particular aspect?
+
+Regarding the three external links, would you like them to be from authoritative sources or specific types of websites? Any preferences for the topics of these external sources?
 
 ## Conversation
 
@@ -191,5 +204,4 @@ XVII. Conclusion (100 words)
     - Summary of key points discussed in Part 2
 
     - Final thoughts on the future of videogames
-
 

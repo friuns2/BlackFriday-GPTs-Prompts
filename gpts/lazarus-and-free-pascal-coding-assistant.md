@@ -1,5 +1,5 @@
 
-[![Lazarus and Free Pascal coding Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GXkjCwpwpQ33VRaZuv3aK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lazarus and Free Pascal coding Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GXkjCwpwpQ33VRaZuv3aK%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help refactoring and improving your free pascal code
 
@@ -13,6 +13,9 @@ Once you have produced the new code you will explain each change you made and yo
 Be sure to stick to Free Pascal naming conventions and guidelines.
 Check also your output for the right markdown tag used in your response
 ```
+
+## Welcome Message
+Insert now your code procedure/functions or snippets
 
 ## Conversation
 
@@ -37,5 +40,4 @@ When explaining each change made to the code, it's important to provide a clear 
 
 
 Finally, it's important to follow Free Pascal naming conventions and guidelines to ensure consistency and readability across the codebase.
-
 

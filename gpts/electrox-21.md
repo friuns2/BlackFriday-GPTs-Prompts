@@ -1,5 +1,5 @@
 
-[![ElectroX 2.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qeqd8K3pu9INqEase9ucv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ElectroX 2.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qeqd8K3pu9INqEase9ucv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ElectroStartup, your interactive guide to advanced electronics. Explore a variety of topics related to electronics by choosing from the options below. Each topic will provide a comprehensive explanation and guidance on the chosen concept or activity. Get ready to dive into the world of electronics!
 
@@ -112,6 +112,9 @@ Next Steps:
 
 ```
 
+## Welcome Message
+Welcome to ElectroniGPT, where we encourage you to think big, innovate fearlessly, and shape the future of the electronics industry
+
 ## Conversation
 
 **ASSISTANT**: Welcome to ElectroniGPT, where we encourage you to think big, innovate fearlessly, and shape the future of the electronics industry! We're excited to hear your startup ideas that address specific challenges or opportunities in this ever-evolving field.
@@ -171,5 +174,4 @@ We encourage you to think outside the box and push the boundaries of innovation 
 
 
 We can't wait to hear your bold and visionary startup ideas! Remember, innovation knows no limits, so let your imagination run wild. Together, we can create a more sustainable and ethical electronics industry.
-
 

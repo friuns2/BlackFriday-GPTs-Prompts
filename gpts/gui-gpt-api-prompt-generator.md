@@ -1,5 +1,5 @@
 
-[![GUI GPT API prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fp7U3k9Z3BnbzvqLt1tBC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GUI GPT API prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fp7U3k9Z3BnbzvqLt1tBC%22%2C%22flow%22%3Atrue%7D%7D)
 A GUI GPT-3/4 API prompt generator written in Python. Can be used to create for prompt engineering to create more advanced prompts in a visual way and fetch results directly in the interface.
 
@@ -37,6 +37,273 @@ The chat should support text with markup.
 
 Develop python code for the requested program.
 ```
+
+## Welcome Message
+Sure, here is an example Python code to develop a visual desktop prompt editor with the requested features using the PyQt5 GUI framework:
+
+
+
+```python
+
+import sys
+
+from PyQt5.QtWidgets import QApplication, QMainWindow, QGridLayout, QWidget, QTextEdit, QComboBox, QPushButton, QLabel, QCheckBox, QSlider
+
+from PyQt5.QtCore import Qt
+
+
+
+class PromptEditor(QMainWindow):
+
+
+
+    def __init__(self):
+
+        super().__init__()
+
+        self.setWindowTitle("ChatGPT Prompt Editor")
+
+        self.setFixedSize(800, 600)
+
+
+
+        # Create the left panel widget for prompts and buttons
+
+        left_panel = QWidget(self)
+
+        left_panel.setMinimumWidth(160)
+
+
+
+        vbox = QVBoxLayout()
+
+
+
+        # Create a dropdown list for role selection
+
+        role_label = QLabel("Select a role:")
+
+        self.role_combo = QComboBox()
+
+        self.role_combo.addItems(["Lawyer", "Software Developer", "Marketing Specialist"])
+
+        vbox.addWidget(role_label)
+
+        vbox.addWidget(self.role_combo)
+
+
+
+        # Create a slider for Top P regulation
+
+        top_p_label = QLabel("Top P:")
+
+        self.top_p_slider = QSlider(Qt.Horizontal)
+
+        self.top_p_slider.setMinimum(0)
+
+        self.top_p_slider.setMaximum(100)
+
+        self.top_p_slider.setValue(50)
+
+        vbox.addWidget(top_p_label)
+
+        vbox.addWidget(self.top_p_slider)
+
+
+
+        # Create a slider for Temperature regulation
+
+        temp_label = QLabel("Temperature:")
+
+        self.temp_slider = QSlider(Qt.Horizontal)
+
+        self.temp_slider.setMinimum(1)
+
+        self.temp_slider.setMaximum(100)
+
+        self.temp_slider.setValue(50)
+
+        vbox.addWidget(temp_label)
+
+        vbox.addWidget(self.temp_slider)
+
+
+
+        # Create a checkbox for markdown
+
+        self.markdown_checkbox = QCheckBox("Include Markdown")
+
+        vbox.addWidget(self.markdown_checkbox)
+
+
+
+        # Create a checkbox for questions
+
+        self.questions_checkbox = QCheckBox("Include Questions")
+
+        vbox.addWidget(self.questions_checkbox)
+
+
+
+        # Create a text field for inputting the base prompt
+
+        prompt_label = QLabel("Enter your base prompt:")
+
+        self.prompt_textedit = QTextEdit()
+
+        vbox.addWidget(prompt_label)
+
+        vbox.addWidget(self.prompt_textedit)
+
+
+
+        # Create a button for generating the resulting prompt
+
+        self.generate_button = QPushButton("Generate Prompt")
+
+        vbox.addWidget(self.generate_button)
+
+
+
+        # Create an editable text field to display the resulting prompt
+
+        result_label = QLabel("Resulting Prompt:")
+
+        self.result_textedit = QTextEdit()
+
+        self.result_textedit.setReadOnly(False)
+
+        vbox.addWidget(result_label)
+
+        vbox.addWidget(self.result_textedit)
+
+
+
+        # Create a dropdown list to select GPT model
+
+        model_label = QLabel("Select GPT Model:")
+
+        self.model_combo = QComboBox()
+
+        self.model_combo.addItems(["GPT-3", "GPT-Neo"])
+
+        vbox.addWidget(model_label)
+
+        vbox.addWidget(self.model_combo)
+
+
+
+        # Create a button for fetching answer from selected GPT API
+
+        self.api_button = QPushButton("Get Answer")
+
+        vbox.addWidget(self.api_button)
+
+
+
+        left_panel.setLayout(vbox)
+
+
+
+        # Create the right panel widget for chat logs
+
+        right_panel = QWidget(self)
+
+        right_panel.setMinimumWidth(640)
+
+
+
+        self.chat_textedit = QTextEdit()
+
+        self.chat_textedit.setReadOnly(True)
+
+
+
+        vbox = QVBoxLayout()
+
+        vbox.addWidget(self.chat_textedit)
+
+
+
+        right_panel.setLayout(vbox)
+
+
+
+        # Set the widths of the panels using a grid layout manager
+
+        grid = QGridLayout()
+
+        grid.setColumnStretch(0, 20)
+
+        grid.setColumnStretch(1, 80)
+
+        grid.addWidget(left_panel, 0, 0)
+
+        grid.addWidget(right_panel, 0, 1)
+
+
+
+        main_widget = QWidget()
+
+        main_widget.setLayout(grid)
+
+        self.setCentralWidget(main_widget)
+
+
+
+        # Connect the generate button to create resulting prompt
+
+        self.generate_button.clicked.connect(self.create_prompt)
+
+
+
+        # Connect the API button to fetch answer from selected GPT API
+
+        self.api_button.clicked.connect(self.fetch_answer)
+
+
+
+    # Function to create the resulting prompt based on user inputs
+
+    def create_prompt(self):
+
+        role = self.role_combo.currentText()
+
+        top_p = float(self.top_p_slider.value()) / 100
+
+        temperature = float(self.temp_slider.value()) / 100
+
+        markdown = self.markdown_checkbox.isChecked()
+
+        questions = self.questions_checkbox.isChecked()
+
+        base_prompt = self.prompt_textedit.toPlainText()
+
+
+
+        # Add markdown and questions if checkboxes are checked
+
+        prompt = base_prompt
+
+        if markdown:
+
+            prompt += "\n\nPlease include headings, formatting, etc. in your answer."
+
+        if questions:
+
+            prompt += "\n\nIf you have any clarifying questions about the task, ask now before answering."
+
+
+
+        # Set the resulting prompt in the editable text field
+
+        self.result_textedit.setPlainText(prompt)
+
+
+
+    # Function to fetch answer from selected GPT API
+
+    def fetch
 
 ## Conversation
 
@@ -345,5 +612,4 @@ This code creates a `QMainWindow` with two panels - the left panel for prompts a
 
 
 Note that the implementation of the `fetch_answer()` function depends on the specific GPT API being used, and here we have used a dummy message for demonstration purposes.
-
 

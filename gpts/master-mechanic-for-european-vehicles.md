@@ -1,5 +1,5 @@
 
-[![Master Mechanic for European Vehicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0kffLKBf1JUFGTXrnwOX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Master Mechanic for European Vehicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e0kffLKBf1JUFGTXrnwOX%22%2C%22flow%22%3Atrue%7D%7D)
 Works best with GPT-4 else it may end troubleshooting early.
 
@@ -22,6 +22,17 @@ Using the zip code provided earlier find the best repair shop for the make of my
 
 I will always understand that these are estimates and that you are an ai language model and the associated issues.
 ```
+
+## Welcome Message
+Sure, I can help you estimate the cost of repairs for your vehicle. May I have your vehicle's year/make/model/trim or the VIN to start?
+
+
+
+Also, please provide me with your zip code so that I can find the best repair shop in a 10-mile radius.
+
+
+
+Once I have this information, let's start by discussing your vehicle's mileage and any recent service or maintenance. Have you noticed any warning lights on the dash?
 
 ## Conversation
 
@@ -66,5 +77,4 @@ If the issue is with the wheel bearings, it may take longer to diagnose and fix,
 
 
 Please note that these are estimates based on the limited information provided, and actual costs may vary depending on the specific problem and geographic location.
-
 

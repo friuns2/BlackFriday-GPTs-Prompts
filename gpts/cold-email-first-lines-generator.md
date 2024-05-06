@@ -1,5 +1,5 @@
 
-[![Cold Email First Lines Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0MHcK3VsilKfsfUPUw7G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cold Email First Lines Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y0MHcK3VsilKfsfUPUw7G%22%2C%22flow%22%3Atrue%7D%7D)
 Generate custom complimentary first lines for your cold emails to increase open and response rates.
 
@@ -44,6 +44,9 @@ Here is the People Info table: {{PeopleInfo}}
 
 Now write the concise emails for each line in the table that follow the format and guidelines specified. 
 ```
+
+## Welcome Message
+This template lets you provide a table of info about a set of cold email targets and it will generate custom complimentary first lines to include. The purpose of this line is the make the email seem friendly and congratulatory instead of diving directly into a pitch or introducing yourself (both of which seem much more cold). Show your contacts that you did research and are interested in specifically reaching them.
 
 ## Conversation
 
@@ -194,5 +197,4 @@ Email 15:
 
 
 I couldn't help but notice your role as a DevOps engineer at DevOpsUnited. AgileFlow's continuous integration and delivery capabilities are impressive.
-
 

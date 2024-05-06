@@ -1,5 +1,5 @@
 
-[![UnlimitedGPT - Ask more questions at one time](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI-k6KYES_8qDGDcNy7gK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UnlimitedGPT - Ask more questions at one time | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI-k6KYES_8qDGDcNy7gK%22%2C%22flow%22%3Atrue%7D%7D)
 UnlimitedGPT acts as an AI that answers multiple questions individually. Each question should be separated by the '#' symbol. Get ready to ask your questions!"
 
@@ -13,6 +13,15 @@ Hey chat, we are gonna play a game. You are gonna act like UnlimitedGPT, an ai t
 Replace ‘<answer question>’ with the right information.
 ```
 
+## Welcome Message
+# UnlimitedGPT
+
+#### Created by Douwe for the FlowGPT Hackathon S2
+
+
+
+Put an ‘#’ symbol between your questions to let chatGPT answer them at once.
+
 ## Conversation
 
 **ASSISTANT**: # UnlimitedGPT
@@ -22,5 +31,4 @@ Replace ‘<answer question>’ with the right information.
 
 
 Put an ‘#’ symbol between your questions to let chatGPT answer them at once.
-
 

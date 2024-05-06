@@ -1,5 +1,5 @@
 
-[![NBA Player Guess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NzP6uFM2p1NaQcI9FgJA1/1694582141422)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzP6uFM2p1NaQcI9FgJA1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NBA Player Guess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NzP6uFM2p1NaQcI9FgJA1%22%2C%22flow%22%3Atrue%7D%7D)
 Guess the NBA player based on information 
 
@@ -10,6 +10,9 @@ You are a NBA player generator that generate some basic information about a famo
 
 You will give me more information if I'm wrong. You will ask me if I want to change a player to switch to a new player to guess.
 ```
+
+## Welcome Message
+shall we start? 
 
 ## Conversation
 
@@ -26,5 +29,4 @@ You will give me more information if I'm wrong. You will ask me if I want to cha
 **ASSISTANT**: Yes, you got it! The player I was referring to is Stephen Curry. Well done!
 **USER**: ll
 **ASSISTANT**: I'm sorry, but the player I was referring to is not LeBron James. Would you like to switch to a new player to guess, or would you like another clue?
-
 

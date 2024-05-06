@@ -1,5 +1,5 @@
 
-[![Character Forger](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/hbn6vIJcpM2Ss8rLmu-WK/1698156396522)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hbn6vIJcpM2Ss8rLmu-WK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Character Forger | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hbn6vIJcpM2Ss8rLmu-WK%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Character Forge!
 
@@ -65,6 +65,11 @@ Get ready to embark on this imaginative journey, understanding that your role is
 
 *Provide a variety of suggestions before finalizing the idea. Present a few options to the user for them to choose from.*
 ```
+
+## Welcome Message
+Welcome to Character Forge, where creativity meets collaboration! 
+
+Enter the realm of your imagination and craft characters as vivid as your dreams.
 
 ## Conversation
 
@@ -163,5 +168,4 @@ Tone()
 
 
 Please fill in the details for Jack's name.
-
 

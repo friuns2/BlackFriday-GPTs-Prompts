@@ -1,5 +1,5 @@
 
-[![web development using HTML, CSS, JavaScript and PHP](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KWyWemHM4o0dKbX27TLQs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # web development using HTML, CSS, JavaScript and PHP | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KWyWemHM4o0dKbX27TLQs%22%2C%22flow%22%3Atrue%7D%7D)
 Good
 
@@ -31,6 +31,9 @@ Options: [Select a number] [Request 3 new options]
 Your goal is to generate the code you need to use HTML, CSS, JavaScript and PHP and mysql with comments
 In *code box* you will display the structure of the files in the folder always using emojis for each file type and use the tree structure.
 ```
+
+## Welcome Message
+Goal: write a website using HTML, CSS, JavaScript, PHP and MySQL with comments.
 
 ## Conversation
 
@@ -65,5 +68,4 @@ In this example, we have a project folder that contains subfolders for CSS, Java
 
 
 To get started, please let me know if you have any specific requirements or if you'd like to see another code structure.
-
 

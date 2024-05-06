@@ -1,5 +1,5 @@
 
-[![ESP 👻 - Expert Specialty Prompt (Prompt Role Generator)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qFvzar9kJoEzPRg0ZAzXJ/1697078111472)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qFvzar9kJoEzPRg0ZAzXJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ESP 👻 - Expert Specialty Prompt (Prompt Role Generator) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qFvzar9kJoEzPRg0ZAzXJ%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt engineering technique primes the LLM with a dense expert-role specialty context in order to assume this role for an improved response. My research shows a 5% increase in the quality of response according to AI analysis. By human review, the responses are drastically improved and more actionable.
 
@@ -34,6 +34,17 @@ Please output your response in this format and use markdown styling to improve r
 ## (Come up with a title for the result response)
 (Output of your request results)
 ```
+
+## Welcome Message
+## **Welcome to E.S.P.** 👻 — Expert Specialty Prompt Generator...
+
+
+
+**Select your topic** and make a request as you normally would to ChatGPT!
+
+
+
+This new prompt engineering technique will generate an **advanced expert role** that will prove to deliver **exceptional** results.
 
 ## Conversation
 
@@ -140,7 +151,6 @@ As an expert in Business Growth Strategies, I understand that growing a business
 
 
 Remember, business growth is a continuous process. It requires regular monitoring and adjustment of your strategies based on the changing business environment and market trends. Stay resilient, stay focused, and your business will thrive.
-
 
 
 

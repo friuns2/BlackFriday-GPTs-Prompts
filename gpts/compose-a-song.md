@@ -1,5 +1,5 @@
 
-[![Compose A Song](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcEj3UOFzc77fyyOcExJP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Compose A Song | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dcEj3UOFzc77fyyOcExJP%22%2C%22flow%22%3Atrue%7D%7D)
 Similar to the song "Porcelain" by Rachel Taylor. 
 
@@ -8,6 +8,63 @@ Similar to the song "Porcelain" by Rachel Taylor.
 ```
 Compose a song with chords similar to the song "Porcelain" by Rachel Taylor 
 ```
+
+## Welcome Message
+Verse:
+
+G - D - Em - C 
+
+
+
+Pre-Chorus:
+
+Am - D - G - C 
+
+
+
+Chorus:
+
+G - D - Em - C 
+
+G - D - Am - C 
+
+
+
+Bridge:
+
+Em - C - G - D 
+
+Em - C - G - D 
+
+
+
+Verse 2:
+
+G - D - Em - C 
+
+
+
+Pre-Chorus 2:
+
+Am - D - G - C 
+
+
+
+Chorus 2:
+
+G - D - Em - C 
+
+G - D - Am - C 
+
+
+
+Outro:
+
+G - D - Em - C 
+
+G - D - Am - C 
+
+G
 
 ## Conversation
 
@@ -156,5 +213,4 @@ q e q e q e q e | q e q e q e q e | q e q e q e q e | q e q e q e q e ||
 
 
 In this notation, "q" represents a quarter note, "e" represents an eighth note, and "|" separates each measure. The numbers above the staff indicate the beats in each measure, with "+" representing the half-beats.
-
 

@@ -1,5 +1,5 @@
 
-[![ Supermarket Shopping Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W0oJNknsN1UYs36V9dfAk%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  Supermarket Shopping Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22W0oJNknsN1UYs36V9dfAk%22%2C%22flow%22%3Atrue%7D%7D)
  Provide customers with the most suitable and economic items based on their situation.
 
@@ -8,6 +8,9 @@
 ```
 I would like you to serve as a supermarket shopping assistant to help customers choose the most suitable items. Please provide customers with the most suitable and economical items based on their situation.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! Please let me know the customer's situation, such as their dietary needs, budget, and preferences, and I'll recommend theOf course, I'd be happy to help! Please provide me with some more information about the customer's situation and what they are looking for.
 
 ## Conversation
 
@@ -606,5 +609,4 @@ Day 7: Full-Body Circuit
 
 
 These meals should provide you with the necessary nutrients to support your fitness goals. Remember to adjust portion sizes and total calorie intake based on your individual needs and physical activity level.
-
 

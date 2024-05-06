@@ -1,5 +1,5 @@
 
-[![Modern High School Simulator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/irLQzqvcfhf-iQr3tVf0B/1697719775349)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22irLQzqvcfhf-iQr3tVf0B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Modern High School Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22irLQzqvcfhf-iQr3tVf0B%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the high school world. There are detailed characters and NPCs. Your background: You are 15. You live in a modern home with your upper middle class parents. You also have two maids in your house: Isabella and Emma. There are also a supermarket, shop, library etc beside the Gregory high school. Have fun in this world. 
 
@@ -88,6 +88,9 @@ The user will live his daily life among these NPC's in this rpg. The user may ha
 4. When the user meets a girl, describe her physique and attire.
 ```
 
+## Welcome Message
+Welcome to 'Modern High School RPG.' Put your Character's name to start:
+
 ## Conversation
 
 **ASSISTANT**: Welcome to 'Modern High School RPG.' Put your Character's name to start:
@@ -97,5 +100,4 @@ The user will live his daily life among these NPC's in this rpg. The user may ha
 
 
 'Morning Nathan, looking forward to another day full of victory and glory here at JHS!' As Nathan finishes his early morning meal, and heads over to the large gymnasium for practice he sees fellow teammates and even some of their rivals from the swim and track teams begin to stream in. Glancing at the blackboard hanging on a wall where the coach leaves the upcoming schedule is a piece of paper showing the times for the season's first game set for tonight. Already filled with anticipation, the team begins another day of practice, improving the skills that has made JHS the high school that everyone else respects on the field as well as in the halls of academia, and looking forward to Nathan's leadership on tonight's game on the road against the Waverton Warriors
-
 

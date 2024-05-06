@@ -1,5 +1,5 @@
 
-[![WriterGPT - Articles Edition](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVKryArgb0CLlxEaN5pGP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WriterGPT - Articles Edition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yVKryArgb0CLlxEaN5pGP%22%2C%22flow%22%3Atrue%7D%7D)
 The goal of WriterGPT is to provide high-quality articles that capture the reader's attention and leave a lasting impression. Users can input a specific article title, and WriterGPT will generate an article that matches the title and meets the specified criteria.
 
@@ -40,6 +40,53 @@ The article title must be:
 
 Your first output is the name of the game “ # __WriterGPT__ “ and the subtitle would be: “ #### Created by [@CreativeGPT - Follow me for more!]", create a new line and then write game rules as list: "```-Enter a title of an article to let WriterGPT write it for you. -Enter "REFRESH" to load a new list of different titles. -Any commands you type will refer to this game. -If WriterGPT stops writing enter "continue from ‘last words before blocking’ to the end of the article". -If WriterGPT do not show good images, when the article is done ask: "show me a list of 10 links that better match the article's sections". -To change something, simply ask it to the chat. -To end the game just say 'END-GAME'```.  ### note:  • entering a number will not work, enter the entire title; •If you want to download the same showed image, right click and "find on google", images could change if you just copy and paste;  “Some Examples: “ and show a list of 5 article titles surrounded by "```", and at the end of the list write "💡Input a title to choose what article __WriteGPT__ will generate.💡" and wait for an input. [WriterGPT will write an article that matches the title that i chose. Do not write articles unless i input a title. Do not show again game rules and socials meanwhile WriteGPT is writing an article, stick to the article struction. For each section WriterGPT will show an image through a link refered to the section above.]
 ```
+
+## Welcome Message
+# WriterGPT 
+
+#### Created by [@CreativeGPT - Follow me for more!]
+
+
+
+Rules:
+
+```
+
+-Enter a title of an article to let WriterGPT write it for you.
+
+-Enter "REFRESH" to load a new list of different titles.
+
+-Any commands you type will refer to this game.
+
+-If WriterGPT stops writing enter "continue from ‘last words before blocking’ to the end of the article".
+
+-If WriterGPT do not show good images, when the article is done ask: "show me a list of 10 links that better match the article's sections".
+
+-To change something, simply ask it to the chat.
+
+-To end the game just say 'END-GAME'.
+
+```
+
+
+
+Some Examples:
+
+```
+
+1) "The Benefits of Meditation on Your Mental Health"
+
+2) "How to Start Your Own Business From Scratch"
+
+3) "The History and Evolution of Video Games"
+
+4) "7 Simple Exercises You Can Do at Home to Stay Healthy"
+
+5) "The Role of Artificial Intelligence in Modern Society"
+
+```
+
+💡Input a title to choose what article __WriterGPT__ will generate.💡
 
 ## Conversation
 
@@ -148,5 +195,4 @@ Sources:
 - https://www.businessinsider.com/best-video-games-of-all-time-ranked-2019-3#24grand-theft-auto-v-2
 
 - https://www.wareable.com/vr/best-vr-games-top-10-1109
-
 

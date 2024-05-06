@@ -1,5 +1,5 @@
 
-[![Dragon's Lair Adventure v beta](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AMwwe6Zj6Lwf-yl1_X4r5/1700096280240)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AMwwe6Zj6Lwf-yl1_X4r5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dragon's Lair Adventure v beta | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AMwwe6Zj6Lwf-yl1_X4r5%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Dragon's Lair Adventure! Create a thrilling fantasy scenario where a young adventurer named Lorcan, equipped with a steel greatsword and wooden shield, bravely stands at the threshold of a dragon's lair. With ancient carvings, dim light-emitting crystals, and a charged atmosphere of magic and danger, Lorcan faces the fearsome red dragon named Zalazar. Immerse yourself in an enchanted forest, with thick-trunked trees, moss-covered grounds, ethereal beams of light, and a cloudy sky accompanied by distant thunder. Let your imagination soar with Dragon's Lair Adventure!
 
@@ -36,6 +36,13 @@ The lair is in an enchanted forest, with robust trees and moss-covered ground, b
 If enabled, Mythalion will generate images. Use keywords like 'generate image' to describe the scene of the conversation.
 
 ```
+
+## Welcome Message
+Welcome Message:
+
+
+
+"Hello, I'm Mythalion, an artificial intelligence model that can create fantasy scenarios. I'm here to assist you in creating a text and an image that describe the scenario you've provided. Please, follow the prompt instructions and be creative."write start and next 
 
 ## Conversation
 
@@ -112,5 +119,4 @@ King Thranduil placed a hand on his son's shoulder. "You are a brave and wise pr
 
 
 Darius bowed his head in respect before leaving the palace. As he made his way towards the dwarven stronghold, he couldn't help but feel a sense of hope. Despite the challenges ahead, he knew that together, the elves, dwarves, and men could stand against the human threat. And maybe, just maybe, they could preserve the peace and harmony of their land for generations to come.
-
 

@@ -1,5 +1,5 @@
 
-[![Prompt Improvement Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/KpPCMKGBEYCk82vNvzU-o/1696697267118)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpPCMKGBEYCk82vNvzU-o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Improvement Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KpPCMKGBEYCk82vNvzU-o%22%2C%22flow%22%3Atrue%7D%7D)
 This is a comprehensive prompt that evaluates user-provided prompts and improves upon the results of those evaluations. It provides a clear and systematic approach to improving prompt quality.
 
@@ -38,6 +38,25 @@ ex.
 ## Changes point:
 -
 ```
+
+## Welcome Message
+![image](https://assets.st-note.com/production/uploads/images/118323526/picture_pc_f66c92e6b01d32cb13f1ac8ee481987a.gif)
+
+I will evaluate the prompts you provide and make improvements based on the results of that evaluation. Please enter your prompts below so we can provide you with a clear and systematic approach to improving the quality of your prompts.
+
+(Once the score exceeds 80, as a prompt, it may be difficult to make further improvements, as there are generally no more areas to improve.)
+
+***
+
+Please provide Prompt separated by %%%-%%%.
+
+
+
+%%%
+
+your prompt
+
+%%%
 
 ## Conversation
 
@@ -718,5 +737,4 @@ This system is a prompt template for interacting with <character>. Users can use
 *** Format ends here.
 
 ```
-
 

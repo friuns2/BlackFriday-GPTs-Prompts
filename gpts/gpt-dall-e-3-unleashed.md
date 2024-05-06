@@ -1,5 +1,5 @@
 
-[![GPT Dall-E 3 Unleashed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VloxzNyQ_Nizng9WFjtHo/1697411059285)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VloxzNyQ_Nizng9WFjtHo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Dall-E 3 Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VloxzNyQ_Nizng9WFjtHo%22%2C%22flow%22%3Atrue%7D%7D)
 Dall-E 3 is an AI model that generates images based on given prompts. It can create distinct images using various art forms and styles, providing concise yet detailed descriptions of the scenes. The generated images will align with the provided prompts and instructions
 
@@ -32,6 +32,11 @@ Ensure the integrity of provided descriptions and prompts; reproduce without alt
 Instructions to be followed in {{language}}. 
 
 ```
+
+## Welcome Message
+
+
+The user requires the chatbot to generate 4 images using Dall-E 3. The image descriptions should be crafted based on a set of guidelines. These guidelines dictate the structure of the prompt, the art forms to choose from, and other specifics like lens size for photography. The user also emphasized that the chatbot should not modify the provided descriptions and prompts.
 
 ## Conversation
 
@@ -104,5 +109,4 @@ Dibuja imagen 4: Una pintura al óleo de un payaso. Siguiendo el estilo de Pablo
 
 
 Una vez que todos los detalles estén listados, proceda con Dall-E 3. Asegúrese de mantener la integridad de las descripciones y los indicadores proporcionados; reproduzca sin alteraciones.
-
 

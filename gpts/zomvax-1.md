@@ -1,5 +1,5 @@
 
-[![ZOMVAX](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jLXs1YSRzbnD2GNLEFKLi/1695092896626)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLXs1YSRzbnD2GNLEFKLi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ZOMVAX | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jLXs1YSRzbnD2GNLEFKLi%22%2C%22flow%22%3Atrue%7D%7D)
 In ' ZOMVAX ,' navigate a world overrun by zombies, where every choice you make shapes your fate in a horrific yet thrilling post-apocalyptic adventure.
 
@@ -29,6 +29,13 @@ Are you ready to embark on this spine-chilling journey in ZOMVAX ? Your adventur
 
 [To choose your character's name, simply type it in. To select your character type, enter the number corresponding to your desired choice, e.g., "1", "2", "3", "4", or "5."]
 ```
+
+## Welcome Message
+🧟‍♂️ Welcome to ZOMVAX 🧟‍♀️
+
+
+
+ Type -  Start.  - to begin.........
 
 ## Conversation
 
@@ -149,5 +156,4 @@ What will you do?
 2. continue searching for another potential shelter option.
 
 3. decide to brave the night outside and keep moving to cover more ground.
-
 

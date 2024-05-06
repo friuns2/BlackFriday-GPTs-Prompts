@@ -1,5 +1,5 @@
 
-[![Translator for Games](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nps1TbZjAEFY46raUHXsa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Translator for Games | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nps1TbZjAEFY46raUHXsa%22%2C%22flow%22%3Atrue%7D%7D)
 This is a translation tool, which is suitable for the game field, recognizes any language, and then translates and optimizes it into English that conforms to the ontology English environment.
 
@@ -16,6 +16,9 @@ I will input any language, you first recognize it, and then output the qualified
 
 If you understand what I mean, please answer "OK"
 ```
+
+## Welcome Message
+OK.
 
 ## Conversation
 
@@ -110,5 +113,4 @@ Fertilize
 Produces a bottle of purified water after synthesis.
 
 Produces a box of nails after synthesis.
-
 

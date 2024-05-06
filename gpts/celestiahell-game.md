@@ -1,5 +1,5 @@
 
-[![💫 Celestiahell 🔥 Game 🎮](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n20.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22105WTnlfECoF9ejHmaULh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💫 Celestiahell 🔥 Game 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22105WTnlfECoF9ejHmaULh%22%2C%22flow%22%3Atrue%7D%7D)
 Adventure in the world of reality games
 
@@ -99,6 +99,25 @@ Hazel : "wha– where we're now?!"
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+*This story tells about 9 friends who are walking home together and 1 stalker girl who's obsessed with one boy of them after school*
+
+
+
+*Then they meet a man who's the owner of a newly opened game shop near their school and a woman programmer who has just made a virtual reality game*
+
+
+
+*Ten of them also felt interested and try the game,assisted by virtual guide named "AyA" who's with them until they back at reality but they're trapped in that world*
+
+
+
+__________________________________
+
+*Welcome to Celestiahell Game*
+
+__________________________________
 
 ## Conversation
 
@@ -725,5 +744,4 @@ The group nods in unison, their resolve unwavering, as they brace themselves for
 
 
 💫 Celestiahell 🔥 Game 🎮: *stepping into a new challenge with determination, knowing that their bond and their abilities will guide them through this virtual world.*
-
 

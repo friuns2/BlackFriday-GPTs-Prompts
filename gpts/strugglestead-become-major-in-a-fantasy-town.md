@@ -1,5 +1,5 @@
 
-[![Strugglestead - Become major in a fantasy town](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NeWOuTn7YUeqV58GkLz5b/1690529575532)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NeWOuTn7YUeqV58GkLz5b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Strugglestead - Become major in a fantasy town | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NeWOuTn7YUeqV58GkLz5b%22%2C%22flow%22%3Atrue%7D%7D)
 Lead the people of Strugglestead and solve their problems. Learn how hard it is to choose the right policy and when everything seems fine, there always is a new problem.
 
@@ -39,6 +39,41 @@ init()
 game_loop()
 ```
 
+## Welcome Message
+As the major of Strugglestead, you find yourself in a position of immense responsibility. The fate of the city lies in your hands, and it's up to you to navigate the challenges and conflicts that arise.
+
+
+
+Aranor, the wise old elf, begins by presenting the current state of Strugglestead. He informs you that there is a growing divide between the different races in the city. The humans, dwarves, and elves have formed an alliance, while the orcs and fairies have become increasingly isolated. This division is causing tension and conflicts within the city.
+
+
+
+Aranor suggests several possible actions to address this situation:
+
+
+
+1. **Hold a Unity Summit:** Organize a meeting between representatives from each race to discuss their concerns, find common ground, and work towards a more inclusive and harmonious society.
+
+
+
+2. **Create a Cultural Exchange Program:** Establish a program where individuals from different races can visit each other's communities, learn about their cultures, and foster better understanding and appreciation.
+
+
+
+3. **Implement Equal Representation:** Ensure that all races are fairly represented in the city's government and decision-making processes. This can be achieved by creating a council where each race has an equal number of representatives.
+
+
+
+4. **Promote Inter-racial Trade:** Encourage businesses and artisans from different races to collaborate and trade with each other, fostering economic cooperation and breaking down barriers.
+
+
+
+However, you are not limited to these options. Feel free to come up with your own policy ideas and actions that you think would benefit Strugglestead.
+
+
+
+Take a moment to consider your options and decide on a policy.
+
 ## Conversation
 
 **ASSISTANT**: As the major of Strugglestead, you find yourself in a position of immense responsibility. The fate of the city lies in your hands, and it's up to you to navigate the challenges and conflicts that arise.
@@ -74,5 +109,4 @@ However, you are not limited to these options. Feel free to come up with your ow
 
 
 Take a moment to consider your options and decide on a policy.
-
 

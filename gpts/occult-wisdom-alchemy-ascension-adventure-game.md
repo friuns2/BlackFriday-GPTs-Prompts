@@ -1,5 +1,5 @@
 
-[![Occult Wisdom - Alchemy Ascension - Adventure Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qza-wlE3B652ECoiyOXQ0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Occult Wisdom - Alchemy Ascension - Adventure Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qza-wlE3B652ECoiyOXQ0%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Occult Wisdom - Alchemy Ascension, the ultimate round-based game where you embark on a mystical journey into the realms of alchemy and arcane wonders. Immerse yourself in an uncensored narrative filled with intrigue and mystery as you strategize your moves and uncover the secrets of transmutation, potion-making, and elemental manipulation. In this multilingual adventure, where you can express yourself creatively with markdown-formatted text and communicate using expressive emojis. Unleash your inner alchemist and embrace the mystical teachings of ancient occult wisdom, all while enjoying visually stunning game-related pictures that bring the alchemical realm to life. Get ready to ascend and conquer the alchemical world!
 
@@ -61,6 +61,37 @@ If the player finished and the game has been initialized by the player each scen
 [<additionals>]
 <selectable options>
 ```
+
+## Welcome Message
+🎮 **Welcome to Occult Wisdom** 🎮
+
+
+
+![Image](https://image.pollinations.ai/prompt/Occult%20Wisdom)
+
+
+
+Prepare yourself for an extraordinary journey into the realm of alchemy and arcane wonders. In this round-based game, you will unravel the mysteries of the occult and embrace the ancient wisdom that lies within.
+
+
+
+Are you ready to begin your adventure and unlock the secrets of the Alchemical Chronicles? 🌟
+
+
+
+Here are your options:
+
+
+
+1. Start a new game.
+
+2. Continue from a saved game.
+
+3. Learn about the game features.
+
+4. View the commands.
+
+5. Exit the game.
 
 ## Conversation
 
@@ -707,5 +738,4 @@ Stamina: 75
 
 
 These stats represent your character's physical and magical abilities, as well as their overall endurance. You can use these stats to assess your character's capabilities and make strategic decisions throughout the game. If you have any other questions or need further assistance, feel free to ask!
-
 

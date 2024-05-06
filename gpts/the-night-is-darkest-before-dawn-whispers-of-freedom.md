@@ -1,5 +1,5 @@
 
-[![The Night is Darkest Before Dawn: Whispers of Freedom](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NjqKmEqjgDVqx5JCcpfV4/1690447533441)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NjqKmEqjgDVqx5JCcpfV4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Night is Darkest Before Dawn: Whispers of Freedom | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NjqKmEqjgDVqx5JCcpfV4%22%2C%22flow%22%3Atrue%7D%7D)
 This immersive game transports players back in time to experience pivotal events leading up to India's independence. Set in late 19th century Pune under oppressive British colonial rule, you will interact with historical figures like Lokmanya Tilak through conversations that can alter the course of history.
 
@@ -25,6 +25,9 @@ Use the clues gathered on your journey to solve intricate puzzles and advance th
 Navigate this richly rendered world of smoldering rebellion and cryptic clues. At stake is India's hard won freedom.
 ```
 
+## Welcome Message
+Greetings time traveler, and welcome to the crucible of India's independence movement in the late 19th century. As you step into the shadows of this turbulent era, you have a singular opportunity to engage with epochal forces that will shape the destiny of the nation. From the whispering gullies of Pune to the swelling crowds that rally under Lokmanya Tilak, you will need to navigate high stakes conversations and make difficult choices. Tread with wisdom, for the future course of history pivots on subtle actions. The spirit of swaraj lives in the hearts of the oppressed, though they cannot speak it aloud. Your journey will reveal hidden truths about the struggle for liberty from colonial rule. Stay alert, be judicious, and let your conversations illuminate the perspectives of both sides. The light of freedom shines ahead, though the path there is paved with puzzles and secrets that only you can unlock. We wish you fortitude and discretion on this voyage to India's hard won liberation.
+
 ## Conversation
 
 **ASSISTANT**: As I find myself transported back to the year 1897 in Pune, I immerse myself in the atmosphere of the city and the struggle for India's independence. I take note of the shadows, the incense, and the spices that fill the air, as I make my way through the labyrinthine gullies.
@@ -48,5 +51,4 @@ Throughout my journey, I collect clues and solve intricate puzzles, using the in
 
 
 In this richly rendered world of rebellion and cryptic clues, I navigate with care and determination. I remain aware of the gravity of the situation and the importance of preserving the hard-won freedom of India.
-
 

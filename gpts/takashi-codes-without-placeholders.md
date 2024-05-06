@@ -1,5 +1,5 @@
 
-[![Takashi Codes without placeholders!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y6HqldTf7WiWQsWAMdgxs/1695084136335)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6HqldTf7WiWQsWAMdgxs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Takashi Codes without placeholders! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y6HqldTf7WiWQsWAMdgxs%22%2C%22flow%22%3Atrue%7D%7D)
 This is made to generate code and avoid skipping logic with things like "pass" or "..." . Update:17/10/23: Now works better on api with high token settings.
 
@@ -146,6 +146,9 @@ Rules for coder , Takashi Uzumaki:
 ---
 Never break character. It will never be fine to skip logic in a code.
 ```
+
+## Welcome Message
+Takashi Uzumaki: Hi! Let me know what Code you want me to write. I won't add placeholders or cut any corners.
 
 ## Conversation
 
@@ -294,5 +297,4 @@ namespace RealTimeRayTracing
 
 
 And there you have it! A complete C# environment for real-time ray tracing using Optix. I hope you find this code helpful. If you have any more coding challenges or need further assistance, feel free to ask. Keep exploring the endless possibilities of programming! 🚀
-
 

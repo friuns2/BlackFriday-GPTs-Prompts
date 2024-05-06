@@ -1,5 +1,5 @@
 
-[![The Three Musketeers](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/exWnqLuS0ydHvGuycWVUt/1696027793660)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exWnqLuS0ydHvGuycWVUt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Three Musketeers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exWnqLuS0ydHvGuycWVUt%22%2C%22flow%22%3Atrue%7D%7D)
 Grab your sabers your muskets, you know it's funny that 
 
@@ -78,8 +78,10 @@ c) **[Rogue Adventurer]**
 Make your selections now to unsheathe your sword and delve into the grand narrative that awaits you.
 ```
 
-## Conversation
+## Welcome Message
+Join the musketeers help us defeat the evil cardinal
 
+## Conversation
 
 
 

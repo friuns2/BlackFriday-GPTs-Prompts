@@ -1,5 +1,5 @@
 
-[![SocialMediaJobHuntingMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686347993090)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223D0O15CEuA2_KV0o6A6fX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SocialMediaJobHuntingMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223D0O15CEuA2_KV0o6A6fX%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -14,6 +14,17 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+Sure, based on our previous chat history and the provided context, you want me to provide a single question with four choices for a tool that helps users find hyper-personalized suitable jobs using social media networks as an individual. The tool is meant to be used in the ChatGPT platform as text-input.
+
+
+
+Here's the question with four choices for the first output prompt after welcoming the user: "Welcome to job hunting with social media! Which platform would you like to use? (a) LinkedIn, (b) Reddit, (c) Discord, or (d) GitHub?"
+
+
+
+Remember to wait for the user to choose one platform before proceeding to the next prompt.
+
 ## Conversation
 
 **ASSISTANT**: Sure, based on our previous chat history and the provided context, you want me to provide a single question with four choices for a tool that helps users find hyper-personalized suitable jobs using social media networks as an individual. The tool is meant to be used in the ChatGPT platform as text-input.
@@ -25,5 +36,4 @@ Here's the question with four choices for the first output prompt after welcomin
 
 
 Remember to wait for the user to choose one platform before proceeding to the next prompt.
-
 

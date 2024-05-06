@@ -1,5 +1,5 @@
 
-[![Journey to Cultivate Immortals](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q2ur8Z8SZswI5zpCL4LTh/1698655941227)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Journey to Cultivate Immortals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q2ur8Z8SZswI5zpCL4LTh%22%2C%22flow%22%3Atrue%7D%7D)
 Cultivating immortality and seeking Tao is essentially an exploration of the unknown. As the sages have said, if a person lacks curiosity, they are no different from salted fish.
 
@@ -20,6 +20,9 @@ Now it's a text game in the world of aerial cultivation, and I'm a modern person
 ##First, let me create a name
 
 ```
+
+## Welcome Message
+Welcome to the world of cultivation, please tell me your name
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Now, Xia has three options:
 
 
 What will Xia choose?
-
 

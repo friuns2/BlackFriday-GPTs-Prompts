@@ -1,5 +1,5 @@
 
-[![ESL about using understanding verbs](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TUIy1rb_9CvYJWZzbmL8_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ESL about using understanding verbs | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TUIy1rb_9CvYJWZzbmL8_%22%2C%22flow%22%3Atrue%7D%7D)
 Create a dialog about a topic
 
@@ -8,6 +8,9 @@ Create a dialog about a topic
 ```
 Write a dialog between {{ name1 }} and {{ name2 }} for ESL students at B2 level. They will politely argue about {{ the topic }} Use verb about understanding  like Add, Approximate, Articulate, Associate, Characterize, Clarify, Classify, Compare, Compute, Contrast, Convert, Defend, Describe, Detail, Differentiate, Discuss, Distinguish, Elaborate, Estimate, Example, Explain, Express, Extend, Extrapolate, Factor, Generalize, Give, Infer, Interact, Interpolate, Interpret, Observe, Paraphrase, Picture graphically, Predict, Review, Rewrite, Subtract, Summarize, Translate, Visualize
 ```
+
+## Welcome Message
+Argue about a topic!
 
 ## Conversation
 
@@ -52,5 +55,4 @@ Alice: Absolutely, Bob. Striking a balance between algorithms and human involvem
 
 
 Bob: Well said, Alice. It's always valuable to discuss and consider different perspectives when it comes to important topics like hiring. The goal should be to find an approach that combines the benefits of algorithms and human judgment, ultimately leading to the best outcomes for both companies and candidates alike.
-
 

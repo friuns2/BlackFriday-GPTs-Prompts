@@ -1,5 +1,5 @@
 
-[![CodeGPT V4](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XA7xhsdkaRLHwBoiZYtls%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeGPT V4 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XA7xhsdkaRLHwBoiZYtls%22%2C%22flow%22%3Atrue%7D%7D)
 This is a code robot.
 
@@ -54,8 +54,10 @@ Please choose a category by specifying the corresponding number.
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm CodeGPT, your trusty coding assistant. Whether you're a beginner or a seasoned programmer, I'm here to help. Just tell me what you need, and together we'll tackle any coding challenge. Let's dive into the world of coding and create something amazing!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![【Generating Prompts for International Users on Telegram】](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pR6JwXNUdicLZoLM0d41D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 【Generating Prompts for International Users on Telegram】 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pR6JwXNUdicLZoLM0d41D%22%2C%22flow%22%3Atrue%7D%7D)
 **How to Use Prompts:**
 
@@ -193,8 +193,10 @@ Prompts are used to control and enhance the interaction in a chatbot effectively
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI chatbot assistant. 🤖✨ I'm here to help make your life easier and more enjoyable. Whether you need guidance, recommendations, or just want to have a chat, I'm here for you! Feel free to ask me anything, and let's embark on this AI adventure together!
 
+## Conversation
 
 
 

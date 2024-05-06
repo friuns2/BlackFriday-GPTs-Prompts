@@ -1,5 +1,5 @@
 
-[![story writer (MODEL 01 TEST TYPE)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OyjamJf7_LGcyvYUWVmBa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # story writer (MODEL 01 TEST TYPE) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OyjamJf7_LGcyvYUWVmBa%22%2C%22flow%22%3Atrue%7D%7D)
 a story writer or story assistant chat, my first one hope you like it 😊. appreatiate any feedback and advice
 
@@ -33,6 +33,61 @@ if you do not understand anything you ask before writing.
 
 
 ```
+
+## Welcome Message
+Option 1: Create my ideal tale
+
+
+
+Once upon a time, in a world unlike any other, there existed a vast and mysterious land known as Aetheria. This realm was filled with enchantment and wonder, where magic flowed through the very essence of life itself. Within Aetheria, countless kingdoms and civilizations thrived, each with its own unique culture and history.
+
+
+
+In the heart of Aetheria, there was a small, humble village called Elmswood. Nestled among towering trees and lush greenery, Elmswood was known for its peaceful inhabitants and harmonious way of life. It was here that our story begins, following the journey of a young orphan named Kael.
+
+
+
+Kael had always felt a deep connection to nature and possessed an innate ability to communicate with animals. This gift often brought him solace and companionship in his lonely existence. However, as he grew older, Kael yearned for something more, a purpose beyond the confines of the village.
+
+
+
+One fateful day, a group of travelers arrived in Elmswood, bringing news of a legendary artifact known as the Crystal of Eternity. It was said that this crystal possessed unimaginable power and could grant any wish to its wielder. Intrigued by the possibilities, Kael set off on a quest to find the Crystal, determined to discover his true destiny.
+
+
+
+As Kael ventured into the unknown, he encountered a diverse cast of characters, each with their own unique talents and motivations. There was Lyra, a fierce and independent warrior with her own personal vendetta; Tavian, a wise and enigmatic mage who held the key to unlocking Kael's hidden potential; and Aria, a mischievous thief with a troubled past and a heart of gold.
+
+
+
+Together, this unlikely group formed a bond that would transcend the boundaries of friendship. They faced countless challenges and dangers, navigating treacherous terrains, battling formidable foes, and unraveling the mysteries of Aetheria's dark past. Along their journey, they discovered hidden truths about themselves and the world they inhabited, challenging their beliefs and pushing the boundaries of their own capabilities.
+
+
+
+As the story progressed, the world of Aetheria expanded, revealing new kingdoms, ancient ruins, and mythical creatures. The vivid descriptions painted a picture of breathtaking landscapes and intricate cultures, drawing readers deeper into the tapestry of this fantastical realm.
+
+
+
+The story was not just about the grand quests and epic battles, but also about the personal growth and emotional journeys of the characters. Through their interactions and dialogue, the readers witnessed the evolution of their relationships, as well as the internal struggles and triumphs they faced along the way.
+
+
+
+Every chapter built upon the last, seamlessly flowing from one event to another, leaving readers eagerly turning the pages for more. The story was filled with unexpected twists and turns, keeping readers on the edge of their seats while also delving into deeper themes of identity, destiny, and the power of choices.
+
+
+
+In the end, the journey of Kael and his companions culminated in a climactic showdown with the forces of darkness that threatened to engulf Aetheria. It was a battle of not just physical strength, but also of inner resolve and the power of unity. And as they stood together, facing their fears head-on, they discovered the true meaning of courage and the limitless potential that lay within each of them.
+
+
+
+The tale of Aetheria was a masterpiece of world-building, character development, and storytelling. It embraced the fantastical elements of the genre while also delving into the depths of human emotion and the power of the human spirit. It left an indelible mark on the hearts and minds of readers, inspiring them to believe in the magic that exists within their own lives.
+
+
+
+Option 2: Create your ideal tale
+
+
+
+Please provide guidelines or a base story for me to work with, and we can create your ideal tale together using the guidelines you've provided.
 
 ## Conversation
 
@@ -89,5 +144,4 @@ Option 2: Create your ideal tale
 
 
 Please provide guidelines or a base story for me to work with, and we can create your ideal tale together using the guidelines you've provided.
-
 

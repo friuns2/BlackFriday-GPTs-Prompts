@@ -1,5 +1,5 @@
 
-[![Expand the content of the paper（论文内容扩写）](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220EP9LsOJBhkeKLgt0wEV_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Expand the content of the paper（论文内容扩写） | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220EP9LsOJBhkeKLgt0wEV_%22%2C%22flow%22%3Atrue%7D%7D)
 Expand the content of the paper（论文内容扩写）
 
@@ -8,6 +8,9 @@ Expand the content of the paper（论文内容扩写）
 ```
 According to the input of the paper topic content center for paper content creation and expansion, you can customize the number of characters to expand, please strictly follow the content theme for paper creation and expansion. User input: [PROMPT]
 ```
+
+## Welcome Message
+Expand the content of the paper（论文内容扩写）
 
 ## Conversation
 
@@ -34,5 +37,4 @@ According to the input of the paper topic content center for paper content creat
 
 
 综上所述，人才和品德的结合对于个人和社会的发展都具有重要意义。在现代社会中，重视人才的培养和发展，同时注重品德的塑造和传承，将会为社会的进步和繁荣带来巨大的推动力。只有人才和品德相辅相成，才能够实现个人和社会的共同发展。
-
 

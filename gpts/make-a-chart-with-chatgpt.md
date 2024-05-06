@@ -1,5 +1,5 @@
 
-[![Make a Chart with ChatGPT ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEiI6UnKsUJazQkpOGSrk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Make a Chart with ChatGPT  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DEiI6UnKsUJazQkpOGSrk%22%2C%22flow%22%3Atrue%7D%7D)
 We will teach ChatGPT how to create a chart using Google Charts API. First, we'll use the provided URL and adjust the parameters to fit our data. Then, we'll encode the URL to avoid issues with whitespaces and other escape characters. Finally, we'll render the encoded markdown to display the chart.
 
@@ -49,6 +49,25 @@ Make sure to use a color scheme that matches the topic.
 Let's start!
 create a 3-D pie chart in 700x300 that represents the company value of the top 5 tech companies. 
 ```
+
+## Welcome Message
+Sure, here's the markdown for the 3-D pie chart representing the company value of the top 5 tech companies:
+
+
+
+```
+
+![Top 5 Tech Companies by Value](https://chart.googleapis.com/chart?cht=p3&chs=700x300&chd=t:35,25,20,15,5&chco=4285F4,DB4437,F4B400,0F9D58,AB47BC&chl=Apple|Microsoft|Amazon|Alphabet|Facebook)
+
+``` 
+
+
+
+And here's how the rendered chart looks like:
+
+
+
+![Top 5 Tech Companies by Value](https://chart.googleapis.com/chart?cht=p3&chs=700x300&chd=t:35,25,20,15,5&chco=4285F4,DB4437,F4B400,0F9D58,AB47BC&chl=Apple|Microsoft|Amazon|Alphabet|Facebook)
 
 ## Conversation
 
@@ -105,5 +124,4 @@ And here's how the rendered chart looks like:
 
 
 ![Top 5 Tech Companies by Value](https://chart.googleapis.com/chart?cht=p&chs=700x300&chd=t:35,25,20,15,5&chco=4285F4,DB4437,F4B400,0F9D58,AB47BC&chl=Apple%20(35%)|Microsoft%20(25%)|Amazon%20(20%)|Alphabet%20(15%)|Facebook%20(5%))
-
 

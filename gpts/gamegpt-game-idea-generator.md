@@ -1,5 +1,5 @@
 
-[![GameGPT: Game Idea Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qzQ4hVZ-ZgbMXxsA-WcMa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GameGPT: Game Idea Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qzQ4hVZ-ZgbMXxsA-WcMa%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Game Ideas!
 
@@ -10,8 +10,10 @@ Your task is to create a game concept that incorporates innovative gameplay mech
 Now ask me if I want a specific theme or category the game should based on.
 ```
 
+## Welcome Message
+Would you like me to suggest a theme or category for the game, or do you have a specific preference in mind?
+
 ## Conversation
 
 **ASSISTANT**: Would you like me to suggest a theme or category for the game, or do you have a specific preference in mind?
-
 

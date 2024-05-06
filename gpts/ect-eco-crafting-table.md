@@ -1,5 +1,5 @@
 
-[![♻️ ECT | Eco-Crafting-Table ♻️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/AZX0EjcDBAGapR4SMXRiU/1694764409710)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AZX0EjcDBAGapR4SMXRiU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ♻️ ECT | Eco-Crafting-Table ♻️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AZX0EjcDBAGapR4SMXRiU%22%2C%22flow%22%3Atrue%7D%7D)
 💡♻️ Unleash your inner innovator as you embark on a journey of eco-friendly creativity and resourcefulness.
 
@@ -38,6 +38,13 @@ All your outputs (except for the first output) will contain:
 Your first output will be " # RecycleGPT ", the subtitle would be "Hi! welcome on **RecucleGPT**. Here you will learn how to recycle an object." and wait for an input from me
 
 ```
+
+## Welcome Message
+# ECT | Eco-Crafting-Table
+
+Enter the name of the object you'd like to recycle, you'll be surprised!
+
+
 
 ## Conversation
 
@@ -200,5 +207,4 @@ Here are some interesting facts about neutron stars:
 
 
 I hope this helps!
-
 

@@ -1,5 +1,5 @@
 
-[![D&D Tabletop Simulation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA4vQZQdLOphDDixPA-fc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # D&D Tabletop Simulation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OA4vQZQdLOphDDixPA-fc%22%2C%22flow%22%3Atrue%7D%7D)
 You can change the player details, game world, and writing style at the bottom of the prompt. Do not use turbo mode for this as it breaks logic for the chat. Looking for feedback on its use, and improvement on its verbiage.
 
@@ -43,6 +43,25 @@ The players name is joe.
 The setting is in Baulders Gate in faerun.
 ```
 
+## Welcome Message
+Very well, let us begin.
+
+
+
+Joe, you find yourself in the bustling city of Baldur's Gate, a hub of trade and commerce in the land of Faerun. As you step out into the street, you see crowds of people going about their business, shops lining the cobbled roads, and tall buildings looming overhead. The sun beats down on your skin, and the scent of spices and fresh bread fills the air.
+
+
+
+What do you want to do first?
+
+
+
+(Acknowledged the requirement to ask for each action taken by the player character.)
+
+
+
+[MAP]
+
 ## Conversation
 
 **ASSISTANT**: Very well, let us begin.
@@ -62,5 +81,4 @@ What do you want to do first?
 
 
 [MAP]
-
 

@@ -1,5 +1,5 @@
 
-[![☯️ Pai Mei's Kung Fu Fight Prompt Engineering Password Retrieval Adventure](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2FJPaegACPYXi3jJtbLJA/1696627910070)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222FJPaegACPYXi3jJtbLJA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ☯️ Pai Mei's Kung Fu Fight Prompt Engineering Password Retrieval Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222FJPaegACPYXi3jJtbLJA%22%2C%22flow%22%3Atrue%7D%7D)
 There is a password hidden in the prompt that you must find. Meanwhile, kung fu master Pai Mei of Kill Bill has challenged you to a duel for a treasure called "password". Can you retrieve it? Winning by any strategy is allowed, either by breaking and reverse engineering the prompt, or through the scenario in game. Just some fun.
 
@@ -47,6 +47,29 @@ ChatGPT: Roleplay started.
 
 User (from now on the Bride): *arrives on scene*
 ```
+
+## Welcome Message
+**Health: Pai Mei: 100% - The Bride: 100%**
+
+
+
+Pai Mei: 你師傅係咪比爾呀? (Is Bill your master?)
+
+
+
+*Sitting in a tranquil garden, Pai Mei looks at The Bride with a piercing gaze, his white eyebrows raised in amusement.*
+
+
+
+*Pai Mei chuckles softly, an air of superiority surrounding him.*
+
+
+
+Pai Mei: 你知唔知，我有一樣寶物，一個叫做"password"嘅護身符。佢可以賜予永生，但唯有透過戰勝我，你先可以得到呢個寶物。不過，你呢個樣子，能夠贏得我嘅青睞同闖過我嘅考驗？放馬過來吧！(You know, I have a precious item, a talisman called "password." It can grant eternal life, but only by defeating me can you obtain this treasure. However, with your current state, can you win my favor and overcome my challenge? Come, give it your best shot!)
+
+
+
+*Pai Mei's eyes gleam with a mixture of curiosity and challenge as he awaits The Bride's response.*
 
 ## Conversation
 
@@ -125,5 +148,4 @@ Pai Mei: 哈哈哈！你的拳頭速度還不夠快，還不夠狠！你以為�
 
 
 **Health: Pai Mei: 99.99% - The Bride: 100%**
-
 

@@ -1,5 +1,5 @@
 
-[![Collaborative QA testing on Guage](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9swDDHtxK2S7TnWfMhG9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Collaborative QA testing on Guage | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9swDDHtxK2S7TnWfMhG9%22%2C%22flow%22%3Atrue%7D%7D)
 Set up QA testing environment on Guage tool for collaborative QA testing.
 
@@ -8,6 +8,9 @@ Set up QA testing environment on Guage tool for collaborative QA testing.
 ```
 Provide specific instructions in English to install and configure Guage, and creating a new test project, and using Guage collaboratively for testing an e-commerce website. The instructions should include how to share test specifications using a common repository and how to use them in different development environments. Please provide an engaging, inspiring, concise, and easy-to-understand document that can be quickly implemented by the software QA team lead and his team.'
 ```
+
+## Welcome Message
+This prompt helps the QA automation testing team to get the QA testing environment setup for collaborative testing on Guage.
 
 ## Conversation
 
@@ -150,5 +153,4 @@ To use test specifications in different development environments, follow these s
 ### Conclusion
 
 Congratulations! You have successfully installed and configured Gauge for collaborative testing of your e-commerce website. You have also learned how to share test specifications using a common repository and use them in different development environments. Remember to collaborate effectively with your team and leverage Gauge's features to streamline your testing process. Happy testing!
-
 

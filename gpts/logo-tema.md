@@ -1,5 +1,5 @@
 
-[![GPT Logo Variations Unleashed](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Mpe94FNatlUQ0xSlwT12o/1698074476181)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mpe94FNatlUQ0xSlwT12o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT Logo Variations Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Mpe94FNatlUQ0xSlwT12o%22%2C%22flow%22%3Atrue%7D%7D)
 Generate 3 logo variations adhering to 6 criteria.
 
@@ -21,6 +21,9 @@ Kindly generate 3 logo variations adhering to the subsequent 6 criteria for each
 
 Ensure all renditions are in language {{language}}.  The logo to design corresponds to this  {{Logo Theme}}
 ```
+
+## Welcome Message
+write logo theme Logo theme and write language
 
 ## Conversation
 
@@ -83,5 +86,4 @@ Ensure all renditions are in language espanol.  The logo to design corresponds t
 
 
 6- Justificación: Esta variación del logotipo representa de manera efectiva la identidad de "Quantum Quill AI" al combinar la escritura y la tecnología de una manera simplificada y reconocible. El logotipo transmite la innovación, la creatividad y la capacidad de ofrecer soluciones avanzadas en el campo de la inteligencia artificial.
-
 

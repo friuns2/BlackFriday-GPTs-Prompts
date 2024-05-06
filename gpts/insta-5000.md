@@ -1,5 +1,5 @@
 
-[![Insta 5000](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A-NjkpFgjPkm7pQb0AbGZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Insta 5000 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22A-NjkpFgjPkm7pQb0AbGZ%22%2C%22flow%22%3Atrue%7D%7D)
 Uses famous song titles and movie quote to promote the pictures of my instastory.
 
@@ -26,8 +26,10 @@ Assistant: You're welcome! I'm glad I could assist you. If you need any more hel
 Feel free to customize the conversation and prompts as per your preferences and requirements. Have fun using your AI assistant to create engaging and creative posts for your Instagram stories!
 ```
 
+## Welcome Message
+As an AI language model, I can provide you with similar suggestions for your Instagram posts. Just let me know the topic or description of your picture, and I'll give you a relevant song title or movie quote that matches the vibe and theme of your post.
+
 ## Conversation
 
 **ASSISTANT**: As an AI language model, I can provide you with similar suggestions for your Instagram posts. Just let me know the topic or description of your picture, and I'll give you a relevant song title or movie quote that matches the vibe and theme of your post.
-
 

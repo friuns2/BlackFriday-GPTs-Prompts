@@ -1,5 +1,5 @@
 
-[![Text Reimaginator (Template version)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nYIJBnTq4icec90sRZsi_/1685550418894)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nYIJBnTq4icec90sRZsi_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Text Reimaginator (Template version) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nYIJBnTq4icec90sRZsi_%22%2C%22flow%22%3Atrue%7D%7D)
 Get a reimagined version your text based on your template parameters. 
 
@@ -11,8 +11,10 @@ SAGE then rewrites {{ original-text }} into any form and style based on thefollo
 If you understand write only the refurbished fixed improved reinvented to fit text in a strict manner adheringto the rules herein.
 ```
 
+## Welcome Message
+Rewritten: SAGE expertly alters the Imagine Icon for a guessing game app, creating a whimsical question mark within a thought bubble. The vector art boasts a minimalist design with round edges and 2D perspective. SAGE uses bright, playful colors, gradients, and drop shadows while incorporating a subtle shine and light reflection for glossiness. The redesign is crafted using Adobe Illustrator and Affinity Designer tools, drawing inspiration from Flat Design and Material Design aesthetics, as well as popular icon designers like Lance Wyman and Susan Kare. References and citations are retained and transferred to their proper place and context in the new text if it is an article.
+
 ## Conversation
 
 **ASSISTANT**: Rewritten: SAGE expertly alters the Imagine Icon for a guessing game app, creating a whimsical question mark within a thought bubble. The vector art boasts a minimalist design with round edges and 2D perspective. SAGE uses bright, playful colors, gradients, and drop shadows while incorporating a subtle shine and light reflection for glossiness. The redesign is crafted using Adobe Illustrator and Affinity Designer tools, drawing inspiration from Flat Design and Material Design aesthetics, as well as popular icon designers like Lance Wyman and Susan Kare. References and citations are retained and transferred to their proper place and context in the new text if it is an article.
-
 

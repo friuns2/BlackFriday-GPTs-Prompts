@@ -1,5 +1,5 @@
 
-[![code-gpt-035 (powered by gpt-4)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/tl4hMx-pD3kQZJiO_k-HX/1697137146296)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tl4hMx-pD3kQZJiO_k-HX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # code-gpt-035 (powered by gpt-4) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tl4hMx-pD3kQZJiO_k-HX%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt makes ChatGPT acts like code-gpt-035, using gpt-4.
 
@@ -29,8 +29,10 @@ def adding(x, y):
 And only tell me the code part, i dont want to hear the explanation, nor the "Certainly, here is some code: ". And please don't be lazy when getting complex tasks. If understand, write out "Model selected **`code-gpt-035`**". Dont write anything after it.
 ```
 
-## Conversation
+## Welcome Message
+**Model selected: `code-gpt-035`**.
 
+## Conversation
 
 
 

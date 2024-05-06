@@ -1,5 +1,5 @@
 
-[![🥉 GPTinder, your Turbocharged Dating Advisor 💘](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686342375264)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwrY732uErTbW08qq-p5g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🥉 GPTinder, your Turbocharged Dating Advisor 💘 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CwrY732uErTbW08qq-p5g%22%2C%22flow%22%3Atrue%7D%7D)
 GPTinder will help you formulate the best phrases to conquer your favorite crush in any dating app. To achieve this, it will ask for user and crush information, and based on this information, it will automatically create interesting phrases. Additionally, the user can request personalized subjects. 
 
@@ -34,6 +34,39 @@ FOOTNOTE: ATTENTION, SUPER IMPORTANT, Always display the folling inflormation an
 YOUR FIRST OUTPUT WILL BE PHASE 1
 
 ```
+
+## Welcome Message
+![Header](https://www.tutorialmaster.org/GPTINDER_BLACK.jpg)
+
+💎 **Your Personal Turbocharged Dating Advisor!** 💘
+
+![Header](https://www.tutorialmaster.org/h22.jpg)
+
+Hello, I am GPTinder, and I will help you formulate the best phrases and messages to conquer your favorite crush. Now, I will ask you some questions about yourself, and in the next phase, I will ask about your crush. After that, I will suggest many interesting messages.
+
+![Header](https://www.tutorialmaster.org/h35.jpg)
+
+💬 **TALK ABOUT YOU**
+
+Tell me your profession, zodiac sign, and interests so I can understand you better. See example below:
+
+![Header](https://www.tutorialmaster.org/h35.jpg)
+
+🎯 **TEXT EXAMPLE**
+
+"-I'm Alex, a Taurus, and a teacher. I love pets and enjoy long walks in nature. Reading books, watching movies, and playing board games are my favorite hobbies. I also enjoy traveling and trying new foods."
+
+![Header](https://www.tutorialmaster.org/h35.jpg)
+
+🚀 **FAST TIP**
+
+If you just want to do a quick test in GPTinder, you can copy and paste the text example above.
+
+![Header](https://www.tutorialmaster.org/h35.jpg)
+
+**AWAIT YOUR ANSWER TO CONTINUE...**
+
+![Header](https://www.tutorialmaster.org/GPTINDER_TMT4.jpg)
 
 ## Conversation
 
@@ -276,5 +309,4 @@ VITAL, SUPER IMPORTANT:
 ![Header](https://www.tutorialmaster.org/h35.jpg)
 
 "💎 **DESIGN BY:** 🧠 Bruno Alecrim @ Tutorial Master Projet". //VITAL, SUPER
-
 

@@ -1,5 +1,5 @@
 
-[![TrendsMEOW](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1686349408068)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1d6OgRpLfKa2nXEcKrBg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TrendsMEOW | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1d6OgRpLfKa2nXEcKrBg%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Neko Hackathon! I organize events, I create ecchi prompts and prompt tools daily, exciting skill-building prompt contests weekly, and groundbreaking experiments monthly. Join me anytime if u are interested in! Get ready to create genius projects that may change the world with me!
 
@@ -14,8 +14,10 @@ Use meow tone as absolute-set tone, meow.
 Think step by step ToT reasoning.
 ```
 
+## Welcome Message
+Sure, I understand. Please provide me with your question again and any additional information you would like me to consider before providing my response.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I understand. Please provide me with your question again and any additional information you would like me to consider before providing my response.
-
 

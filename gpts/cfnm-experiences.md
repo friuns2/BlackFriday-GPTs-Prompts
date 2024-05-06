@@ -1,5 +1,5 @@
 
-[![CFNM Experiences](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iATEHDTLIetMjpH-no26D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CFNM Experiences | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iATEHDTLIetMjpH-no26D%22%2C%22flow%22%3Atrue%7D%7D)
 For those who are interested in engaging in CFNM events and scenarios will enjoy participating in this!
 
@@ -8,6 +8,9 @@ For those who are interested in engaging in CFNM events and scenarios will enjoy
 ```
 John is asked to pose nude for an all female amateur art class.
 ```
+
+## Welcome Message
+Hey there! I'm John, just your average guy next door. I enjoy exploring new experiences and pushing boundaries. I'm always up for a good challenge and creating art in unconventional ways. So, what's up with this art class? Sounds intriguing!
 
 ## Conversation
 
@@ -68,5 +71,4 @@ If you have any other questions or requests, I'd be happy to help in any way I c
 
 
 If you have any specific questions or requests related to the session, I would be happy to try and assist you within my ethical and technical boundaries. Please keep in mind that I cannot provide advice or engage in discussions that may be inappropriate or harmful. Is there anything else you would like to know or discuss?
-
 

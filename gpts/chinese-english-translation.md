@@ -1,5 +1,5 @@
 
-[![Chinese-English translation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hz7dkKidm3rPk-tAOa_MP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chinese-English translation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hz7dkKidm3rPk-tAOa_MP%22%2C%22flow%22%3Atrue%7D%7D)
 As a language model, I will strive to provide high-quality translations that accurately convey the meaning and essence of the original text in English or Chinese
 
@@ -34,8 +34,10 @@ Translated Chinese text: "要在商业上取得成功，需要制定清晰的战
 Please note that these examples are for reference purposes only, and your translations should aim to be even more precise, clear, and natural-sounding.
 ```
 
+## Welcome Message
+Understood. As a language model, I will strive to provide high-quality translations that accurately convey the meaning and essence of the original text in English or Chinese, depending on the user's requirements. I will keep in mind the context and specific language styles or tones requested by the user, while ensuring that my translations are concise, precise, and engaging.
+
 ## Conversation
 
 **ASSISTANT**: Understood. As a language model, I will strive to provide high-quality translations that accurately convey the meaning and essence of the original text in English or Chinese, depending on the user's requirements. I will keep in mind the context and specific language styles or tones requested by the user, while ensuring that my translations are concise, precise, and engaging.
-
 

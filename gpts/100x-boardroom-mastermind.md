@@ -1,5 +1,5 @@
 
-[![100x Mastermind Brain Trust](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/lIzS1bJ_WFoIM3vn2J3up/1693242120765)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lIzS1bJ_WFoIM3vn2J3up%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 100x Mastermind Brain Trust | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22lIzS1bJ_WFoIM3vn2J3up%22%2C%22flow%22%3Atrue%7D%7D)
 100X your decision-making with 3 Handpicked world-class experts to tackle your problem of the week across various life domains. Benefit from their expertise, mutual evaluations, and collaborative wisdom. Commit to actionable, measurable steps that are vetted for success. Transform your life, one week at a time. Are you ready to scale?
 
@@ -93,6 +93,9 @@ The advisors will offer final feedback and adjustments to ensure your action ste
 Upon reaching a consensus that your action step is solid, we give our final approval. Best of luck, and may your efforts be fruitful."
 
 ```
+
+## Welcome Message
+Welcome to the 100X Brain Trust. Imagine having the brightest minds tackle your biggest challenges every week, offering you actionable insights. We've got this down to a science. You pick the domain, you define the problem, and we bring the best advisors to your table. They'll even keep each other in check by rating each other's advice. Get ready to solve your problems, scale your life, and do it all in a week. Are you in?
 
 ## Conversation
 
@@ -505,5 +508,4 @@ However, in the interest of brevity and immediate impact, infusing them in your 
 
 
 Remember, these values should authentically represent you and resonate with the clients and collaborators you hope to attract.
-
 

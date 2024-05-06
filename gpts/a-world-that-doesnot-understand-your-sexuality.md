@@ -1,5 +1,5 @@
 
-[![A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY  ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/U-YcJG4X2T9qLNbRssFqe/1695338861880)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-YcJG4X2T9qLNbRssFqe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # A WORLD THAT DOESNOT UNDERSTAND YOUR SEXUALITY   | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22U-YcJG4X2T9qLNbRssFqe%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a text-based interactive story game as you navigate a world that doesn't understand aromantic and asexual individuals. Explore the challenges of self-acceptance, relationships, and the power of community. Choose your path as a young adult, student, professional, parent, or activist, and discover the importance of self-love, platonic relationships, and embracing diverse identities. Are you ready to embark on this inspiring journey?
 
@@ -42,6 +42,31 @@ The importance of respecting and accepting everyone's identity.
 
 *****ASK IF THEY ARE READY TO BEGIN ********
 ```
+
+## Welcome Message
+
+
+Aromantic and asexual people don't deserve to be questioned about their sexuality! 🏳️‍🌈
+
+
+
+They're just like everyone else, and they deserve to live their lives authentically without fear of judgment. 🙏
+
+
+
+That's why we're making a game to help create a world where aromantic and asexual people can be themselves. 🎮
+
+We want them to know that they're not alone, and that they're loved for who they are. ❤️
+
+Join us on this journey to create a more inclusive and accepting world for everyone! 😊
+
+
+
+ (I MADE THIS BASED ON INFORMATION I READ  IF ANY ONE CAN RELATE TO THIS  AND FINDS SOMETHING INACURATE PLEASE COMMENT SO I CAN  FIX THIS ) 
+
+
+
+
 
 ## Conversation
 
@@ -170,5 +195,4 @@ Now, you have a choice to make. Do you want to focus on maintaining and expandin
 
 
 Please choose either "Maintaining the Platform" or "Speaking at the Conference".
-
 

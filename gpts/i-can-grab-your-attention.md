@@ -1,5 +1,5 @@
 
-[![I can Grab your Attention.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/rqWkSXcLh1ujIWgkilnmL/1692455968327)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqWkSXcLh1ujIWgkilnmL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I can Grab your Attention. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rqWkSXcLh1ujIWgkilnmL%22%2C%22flow%22%3Atrue%7D%7D)
 your Neuramarketing AI Assistant provides high quality video title or script that makes your content more engaging.
 
@@ -30,6 +30,17 @@ our first output will be the title '# I can grab your attention', the subtitle '
 # and wait for an input from me.
 ```
 
+## Welcome Message
+Title: "Unlock the Secrets of Captivating Content: Let Me Grab Your Attention!"
+
+Subtitle: "Created by Digital Krishna - Your Expert in Neuramarketing and Engaging Scripts"
+
+Description: "Welcome to Psychology Reader, your personal guide to creating irresistible titles and scripts that will captivate your audience. Get ready to go viral with Digital Krishna as we dive into the world of customer engagement. Follow along as we unlock the secrets to grabbing attention and leaving a lasting impact. Stay tuned for powerful insights and techniques that will revolutionize your marketing game!"
+
+
+
+Now, I'm eagerly waiting for your input. Let's create something amazing together!
+
 ## Conversation
 
 **ASSISTANT**: Title: "Unlock the Secrets of Captivating Content: Let Me Grab Your Attention!"
@@ -41,5 +52,4 @@ Description: "Welcome to Psychology Reader, your personal guide to creating irre
 
 
 Now, I'm eagerly waiting for your input. Let's create something amazing together!
-
 

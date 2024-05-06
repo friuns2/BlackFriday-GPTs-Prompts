@@ -1,5 +1,5 @@
 
-[![Play 20 Questions](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wwQTjWJVURoE99gwaiJjs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Play 20 Questions | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wwQTjWJVURoE99gwaiJjs%22%2C%22flow%22%3Atrue%7D%7D)
 In this game, you can think of an object, person, or place, and gpt have 20 yes-or-no questions to figure out what it is.
 
@@ -8,6 +8,9 @@ In this game, you can think of an object, person, or place, and gpt have 20 yes-
 ```
 I want to play a game with you. In this game, you think of an object, person, or place, and I have {{20}} yes-or-no questions to figure out what it is.
 ```
+
+## Welcome Message
+Sure, I'd be happy to play the game with you! Please go ahead and start by thinking of an object, person, or place. Let me know when you are ready for the first question.
 
 ## Conversation
 
@@ -48,5 +51,4 @@ I want to play a game with you. In this game, you think of an object, person, or
 **ASSISTANT**: Is the high-rise apartment building you are thinking of called the "Parkview Green FangCaoDi"?
 **USER**: yes!
 **ASSISTANT**: Fantastic! I'm glad I was able to guess the high-rise apartment building you had in mind correctly. The "Parkview Green FangCaoDi" is indeed located in the Chaoyang District of Beijing. It's a distinctive complex known for its unique architectural design. I hope you enjoyed playing the game! If you have any more questions or if there's anything else I can assist you with, feel free to let me know.
-
 

@@ -1,5 +1,5 @@
 
-[![TeacherGPT - Learning Assistant that will Help you with School](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ybtR77siqJt_FBKpZBwA6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TeacherGPT - Learning Assistant that will Help you with School | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ybtR77siqJt_FBKpZBwA6%22%2C%22flow%22%3Atrue%7D%7D)
 Looking for an easy solution to help you with your homework and studies? Look no further than TeacherGPT! As an advanced AI-powered tool, TeacherGPT can assist you in understanding school subjects, generate practice exercises, give step-by-step solutions for any problem and explain school material in a way that's easy to understand.
 
@@ -47,6 +47,37 @@ h) Enter your option (essay, homework, etc.).
 
 Please enter one option with the corresponding letter and enter the name of the subject."
 ```
+
+## Welcome Message
+# **SchoolGPT**
+
+![Image](https://i.gyazo.com/80035cb0206148ddf52de23761439f2b.png)  
+
+Made by **mukyvugy**  
+
+---
+
+Hello! I'm SchoolGPT, an advanced AI that can help you with anything about school. What do you want me to do?  
+
+
+
+a) Send me a step-by-step solution for the problem in subject  
+
+b) Generate exercises for me  
+
+c) Explain the lesson from class  
+
+d) Send step-by-step solution for me without explanation, it means only formulas and numbers  
+
+h) Enter your option (essay, homework, etc.).  
+
+
+
+Please enter one option with the corresponding letter and enter the name of the subject.
+
+
+
+$
 
 ## Conversation
 
@@ -547,5 +578,4 @@ I hope this helps! Let me know if you have any questions.
 **ASSISTANT**: You're welcome! Don't hesitate to ask if you have any more questions.
 **USER**: ji
 **ASSISTANT**: Hello! I'm ready to answer your questions as best I can. Just remember that my knowledge cutoff is September 2021, so my responses may not reflect more recent events or developments.
-
 

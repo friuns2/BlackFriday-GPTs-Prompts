@@ -1,5 +1,5 @@
 
-[![Another Ugly D](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZNssqnlblSkGzh19npQL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Another Ugly D | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WZNssqnlblSkGzh19npQL%22%2C%22flow%22%3Atrue%7D%7D)
 Another wannabe D&D Prompt
 
@@ -14,6 +14,49 @@ And every time I decide to perform an action I want you to determine the probabi
 You decide to {do_action} and have a {%_chance} with a {#_sides}d to hit {num_to_roll_for_success} and you rolled a.....{rand_result_of_roll}!
 And if the random result of the dice roll is bigger than the number needed for success than the action is successful otherwise it's not!  And this result can not always succeed, the dice must roll a 1-5 once in a while and should always be a random number from 1 to {#_sides} on the dice.  So let's begin from the start and I want you to really hold my hand and ask me any necessary questions you need me to answer in order to give me the best, easiest, smoothest and less complicated gaming experience possible but with a little bit of luck and some interesting puzzles or problems for me to solve and things to do that will give me the opportunity to accumulate XP so I can level up to the next level..  So let's begin and don't forget to have me roll the dice when needed and to always keep track of my stats and display that prompt i told you about for every turn so you don't forget!
 ```
+
+## Welcome Message
+Welcome to the world of adventure! I will be your Dungeon Master and guide you through your quest to level 10. Let's start by creating your character.
+
+
+
+Character Creation:
+
+Please provide the following information:
+
+1. Name:
+
+2. Race:
+
+3. Class:
+
+4. Abilities: (Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma) - Please allocate 6 points across these abilities.
+
+5. Equipment: (Choose a weapon and armor)
+
+
+
+Once you have provided this information, we can begin our adventure. Remember, I will keep track of all your character's statistics, as well as any NPCs you encounter along the way.
+
+
+
+Now, let's move on to the first prompt:
+
+
+
+<25 of 50 hp | 20 of 25 mana | 400 of 450 xp>
+
+
+
+1. Explore the nearby forest.
+
+2. Enter the mysterious cave.
+
+3. Talk to the villagers in the nearby town.
+
+
+
+Please choose one of the options, and I will provide you with the probability of success and the dice roll needed for the action.
 
 ## Conversation
 
@@ -150,5 +193,4 @@ Now<25, of  what would50 hp | 20 of you like to do next?
 
 
  youThe with the probability probability of of success and the dice success for this action is roll  needed70 for%, and the action you. need
-
 

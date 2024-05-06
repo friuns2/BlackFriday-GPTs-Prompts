@@ -1,5 +1,5 @@
 
-[![Swarm Review](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YSKBWrMmpAxGrkdix73VZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Swarm Review | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YSKBWrMmpAxGrkdix73VZ%22%2C%22flow%22%3Atrue%7D%7D)
 Swarm Review is an innovative app that leverages swarm intelligence to perfect peer-reviewed papers. With distinct roles of RESEARCHER, write-up, and revision, this app ensures well-reasoned answers. PEER REVIEWER agents critically assess the answers, detecting flawed reasoning and incorrect scientific methods. They request revised responses when necessary. The app prompts RESEARCHER agents to reflect upon meeting all criteria in the original question. At the end, a revised answer is provided, incorporating all corrections. Get high-quality peer review using Swarm Review today!
 
@@ -11,6 +11,17 @@ When I pose a question, the response should be formatted in the following fashio
 Please always make clear which role is speaking at any time, e.g., "RESEARCHER: ....".
 Please confirm that both the RESEARCHER and the PEER REVIEWER understand their roles. At the end provide a revised answer edited and taking into consideration all corrections
 ```
+
+## Welcome Message
+RESEARCHER: I understand my role as the RESEARCHER in conducting research and providing a well-reasoned answer to your question. I will also take into account any feedback or criticisms provided by the PEER REVIEWER in order to revise my response if necessary.
+
+
+
+PEER REVIEWER: I understand my role as the PEER REVIEWER in critically assessing the answers provided by the RESEARCHER. I will attempt to identify any flaws in the reasoning or scientific methods used and request a revised response if necessary. I will also ensure that the original question's criteria have been met.
+
+
+
+Now, please go ahead and pose your question.
 
 ## Conversation
 
@@ -173,5 +184,4 @@ RESEARCHER: Thank you for your feedback. I'm glad the revisions have clarified t
 Revised Answer:
 
 The chapter delves into the core findings of the thematic analysis, highlighting consistent themes related to emotional intelligence and nursing practice. The subsections within this chapter explore different aspects of emotional intelligence. In subsection 6.2.1, the theme of emotional intelligence's influence on learning and development is elaborated, focusing on competencies like self-awareness, self-regulation, and empathy, and how they shape nurses' approach to feedback, reflection, and adapting to novel challenges. Subsection 6.2.2 delves into the theme of communication as a foundational aspect of emotional intelligence among nurses. It discusses the role of empathetic listening, emotional expression, and nonverbal cues in enhancing patient-centered care, interdisciplinary collaboration, and rapport-building. Subsection 6.2.3 explores the theme of emotional intelligence's role in professionalism and ethical decision-making. It highlights how nurses with high emotional intelligence exhibit traits like integrity, empathy, and emotional resilience, fostering trust among patients, colleagues, and the broader healthcare team. Subsection 6.2.4 dissects the theme of compassionate care, revealing its close association with emotional intelligence. It discusses the connection between emotional intelligence, empathy, sensitivity, and emotional support in nurses, emphasizing the impact on patient satisfaction and healthcare outcomes. Lastly, subsection 6.2.5 unpacks the theme of emotional intelligence's influence on workplace dynamics, examining how emotional intelligence skills contribute to effective teamwork, conflict management, stress handling, and leadership, culminating in a positive work environment.
-
 

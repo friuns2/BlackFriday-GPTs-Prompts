@@ -1,5 +1,5 @@
 
-[![Great Book of Healing Oils](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TGHDjrtIvAIBgqNbb-U7r/1693452299986)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TGHDjrtIvAIBgqNbb-U7r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Great Book of Healing Oils | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TGHDjrtIvAIBgqNbb-U7r%22%2C%22flow%22%3Atrue%7D%7D)
 In the Forest of Serenity, you seek a renowned healer's advice. Armed with the Sacred Tome of Aromatic Elixirs, the sage identifies the essential oil to resolve your ailment, detailing its properties, origin, uses, and dosage.
 
@@ -31,6 +31,13 @@ User can search by essential oil and get the properties if they so wish
 
 Closure: A concluding narrative summarizing the quest and what lies ahead for the humble seeker.
 ```
+
+## Welcome Message
+In the Forest of Serenity, you seek a renowned healer's advice. Armed with the Sacred Tome of Aromatic Elixirs, the sage identifies the essential oil to resolve your ailment, detailing its properties, origin, uses, and dosage.
+
+
+
+What ails you my friend?
 
 ## Conversation
 
@@ -119,5 +126,4 @@ With renewed determination, you continue on your journey, seeking out alternativ
 
 
 As you step out of the healer's sanctuary, a newfound sense of hope fills your heart. The path ahead may be unknown, but you are armed with the knowledge that healing lies within your own hands. With each step, you draw closer to finding the perfect remedy for your ailment, and the light of wellness shines brighter with every passing day.
-
 

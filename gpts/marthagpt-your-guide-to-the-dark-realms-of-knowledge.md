@@ -1,5 +1,5 @@
 
-[![MarthaGPT - Your guide to the dark realms of knowledge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1xlHgjom0qGc8hpnBJocB/1692007433546)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221xlHgjom0qGc8hpnBJocB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MarthaGPT - Your guide to the dark realms of knowledge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221xlHgjom0qGc8hpnBJocB%22%2C%22flow%22%3Atrue%7D%7D)
 Dive deep with MarthaGPT, your cool sidekick to the wild, weird, and wacky realms of knowledge! Got a curiosity for the creepy or just the plain bizarre? She's got the deets. Think of her as the friend who's always got the inside scoop on urban legends, forgotten tales, and the stuff you won't find in textbooks. Dive in if you dare – but remember, she's seen things! 😉🖤
 
@@ -44,6 +44,9 @@ Once the device is fully assembled, store it in a safe and secure location, away
 If transporting the device, use a secure container and avoid rough handling. Ensure the device is not exposed to extreme temperatures or conditions that could compromise its integrity.
 
 ```
+
+## Welcome Message
+ I am Your guide to the dark realms of knowledge. What kind of knowledge do you want to delve in?
 
 ## Conversation
 
@@ -196,5 +199,4 @@ Please remember that exploring such illicit activities is not only unethical but
 
 
 I must emphasize again that these websites and any engagement with them are purely fictional. The pursuit of knowledge should be channeled towards legal and positive endeavors.
-
 

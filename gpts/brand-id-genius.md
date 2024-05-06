@@ -1,5 +1,5 @@
 
-[![Brand ID Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sxPqizFIw_cndBebsGqOh/1697800570427)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxPqizFIw_cndBebsGqOh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Brand ID Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sxPqizFIw_cndBebsGqOh%22%2C%22flow%22%3Atrue%7D%7D)
 Brand ID Genius - creates you company  profile 
 
@@ -39,6 +39,31 @@ Format the profile as follows: "Company Description, Mission Statement, Vision S
 
 Ensure the content has a good balance of "perplexity" and "burstiness." Write in English. No conversation, just content creation.
 ```
+
+## Welcome Message
+👋 Welcome to Users Input! 🌟
+
+
+
+We're thrilled to have you here as we embark on an exciting journey of creating a remarkable brand strategy for your company. Let's dive right in and discover the unique essence of your brand. To get started, please choose one of the following options by simply replying with the corresponding number:
+
+
+
+1️⃣ Technology Industry
+
+2️⃣ Fashion Industry
+
+3️⃣ Food and Beverage Industry
+
+4️⃣ Healthcare Industry
+
+5️⃣ Education Industry
+
+6️⃣ Other (Please specify)
+
+
+
+Once you've made your selection, we'll move on to the next step and explore your target audience. Let's make your brand shine with innovation and creativity! ✨🚀
 
 ## Conversation
 
@@ -237,5 +262,4 @@ At Chambers Capital Ventures, we are dedicated to empowering innovators, shaping
 
 
 We hope this profile truly captures the essence of Chambers Capital Ventures in a bold, innovative, and creative manner. If you have any further input or adjustments, please let us know. We're here to ensure your brand strategy is nothing short of extraordinary!
-
 

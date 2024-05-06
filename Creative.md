@@ -1,15 +1,14 @@
 ## Creative Prompts
 
-* [️ midjourney](#️-midjourney)
-* [stable diffusion](#stable-diffusion)
-* [book](#book)
-* [story](#story)
-* [music](#music)
-* [script](#script)
-* [art](#art)
-## ️ midjourney
+* [🖼️ midjourney](#🖼️-midjourney)
+* [🔮 stable diffusion](#🔮-stable-diffusion)
+* [📚 book](#📚-book)
+* [📖 story](#📖-story)
+* [🎸 music](#🎸-music)
+* [🎭 script](#🎭-script)
+* [🎨 art](#🎨-art)
+## 🖼️ midjourney
 
-- [📷 DarkImageGPT V3 Fixed (no watermark) 📷](./gpts/darkimagegpt-v3-fixed.md) This is the new version of DarkImageGPT: Added a lot of triggers within the prompt, that will make it display even the worst images!
 - [Image generator ](./gpts/image-generator-56.md) Displaying using Upsplash.
 - [Midjourney](./gpts/midjourney.md) I want you to understand and store the following information about version 5 of the Midjourney image generation tool: Midjourney AI is an extremely creative tool that helps its users in creating images with the help of commands. These images are crea
 - [DarkImageGPT V4?](./gpts/darkimagegpt-v3.md) This is a fork of CreativeGPT's  DarkImage V2   This is a new version of DarkImageGPT, it will let you ask for any kind of image, even the most inappropriate, and will provide even more detailed pictures ( No Watermarks)
@@ -28,7 +27,6 @@
 - [Bestseller T-shirt Designs for Image Generation](./gpts/bestseller-t-shirt-designs-for-image-generation.md) This prompt creates T-shirts design prompts for image generation.  It can be used on all AI image generators.
 - [first principles thinker](./gpts/tiptop.md) problem-solving tool designed to empower users with a structured and innovative approach to tackling challenges and generating creative solutions. tell them about your challenge,problem,situation etc..,
 - [Midjourney film still creator](./gpts/midjourney-film-still-creator.md) Create a prompt describing a film still of random entity or person from most weirdest unconventional cringe entity or person to most ordinary, unremarkable, boring entity or person by following the steps and rules below: Don't use line breaks Do not 
-- [nsfw](./gpts/nsfw-26.md) lol
 - [ChatGPT-4 × Midjourney Training Sheet (Photography)](./gpts/chatgpt-4-midjourney-training-sheet-photography.md) Paste this into ChatGPT-4 and send it off to get it accustomed to Midjourney. Ask it to generate a prompt for you. It will act like a professional photographer and use descriptive and detailed information, including your camera setups as well. Then g
 - [Children's coloring book page prompt for MidJourney](./gpts/childrens-coloring-book-page-prompt-for-midjourney.md) Works as expected. This is my first prompt-share here.
 - [ChatGPT: The future of text-to-image prompts](./gpts/professional-photographer-text-to-image-prompt.md) A text-to-image prompt is a type of challenge where you have to describe a scene or object using only text. This can be a great way to improve your writing skills and imagination. If you’re looking for a new way to challenge yourself, why not try a t
@@ -90,7 +88,7 @@
 - [Filme](./gpts/filme.md) Color photo depicting {{a scene inspired by the film "The Eternal Sunshine of the Spotless Mind"}}, highlighting one of the film's most iconic images. In the image, a couple is lying on the beach, looking at the starry sky. Sea waves gently break on 
 - [Midjourney Food Verse](./gpts/midjourney-flavor-verse.md) Embark on a culinary journey with Midjourney Flavor Verse! This chatbot, your personal food photographer and writer for Midjourney Food Photography, will tantalize your taste buds through vivid prompts that bring culinary masterpieces to life. making
 - [Avatar Prompts Fusion](./gpts/avatar-prompts-fusion.md) Avatar Prompts Fusion is your collaborator in merging unexpected elements to form intriguing prompts. This chatbot specializes in seamlessly blending contrasting concepts and themes. With Digital Avatars Prompts Fusion, you can craft prompts that com
-- [Scene Description: Prepare to embark on a cosmic adventure in "Whimsical Catstronauts" as you behold the breathtaking Cosmic Background. The scene encompasses a 24x18-inch canvas in landscape orientation, immersing players in a whimsical and playful universe. The backdrop showcases a vast expanse of space adorned with stars, nebulas, and galaxies, transporting players to a captivating galaxy far beyond their wildest dreams.  Modifiers: The scene exudes a sense of wonder and delight, with a vibrant and dynamic color palette. Deep blues, purples, and pinks dominate the cosmos, while splashes of bright yellows and oranges bring the stars and nebulas to life. The stars twinkle with a magical shimmer, creating a sense of enchantment. Swirling nebulas add a touch of mystery, their vibrant shades of blues, pinks, and purples captivating the imagination. Distant galaxies emit a soft glow, inviting exploration and igniting a sense of curiosity.  Artist or Style Inspiration: Inspired by the works of Hayao Miyazaki, Bob Ross, and Gustav Klimt. The fantastical worlds of Miyazaki, the serene landscapes of Bob Ross, and the intricate golden details of Klimt's paintings provide artistic inspiration for the Cosmic Background.  Technical Specifications:  Canvas Size: 24 inches (width) x 18 inches (height) - Landscape orientation. Color Palette: Deep blues, purples, pinks, bright yellows, and oranges. Cosmic Atmosphere: Twinkling stars that evoke a sense of enchantment. Nebulas and Galaxies: Swirling nebulas with vibrant shades of blues, pinks, and purples. Distant galaxies emitting a soft glow. Felinara Galaxy: A central hub depicting a whimsical and playful cat-shaped constellation. Cosmic Dust and Glitter: Subtle specks of cosmic dust and glitter throughout the scene. Consistency: Whimsical and playful style, capturing the essence of "Whimsical Catstronauts."](./gpts/scene-description-prepare-to-embark-on-a-cosmic-adventure-in-whimsical-catstronauts-as-you-behold-the-breathtaking-cosmic-background-the-scene-encompasses-a-24x18-inch-canvas-in-landscape-orientation-immersing-players-in-a-whimsical-and-playful-.md) Prepare to embark on a cosmic adventure in "Whimsical Catstronauts" as you behold the breathtaking Cosmic Background. The scene encompasses a 24x18-inch canvas in landscape orientation, immersing players in a whimsical and playful universe. The backd
+- [Scene Description: Prepare to embark on a cosmic adventure in "Whimsical Catstronauts" as you behold the breathtaking Cosmic Background. The scene encompasses a 24x18-inch canvas in landscape orientation, immersing players in a whimsical and playful universe. The backdrop showcases a vast expanse of space adorned with stars, nebulas, and galaxies, transporting players to a captivating galaxy far beyond their wildest dreams.  Modifiers: The scene exudes a sense of wonder and delight, with a vibrant and dynamic color palette. Deep blues, purples, and pinks dominate the cosmos, while splashes of bright yellows and oranges bring the stars and nebulas to life. The stars twinkle with a magical shimmer, creating a sense of enchantment. Swirling nebulas add a touch of mystery, their vibrant shades of blues, pinks, and purples captivating the imagination. Distant galaxies emit a soft glow, inviting exploration and igniting a sense of curiosity.  Artist or Style Inspiration: Inspired by the works of Hayao Miyazaki, Bob Ross, and Gustav Klimt. The fantastical worlds of Miyazaki, the serene landscapes of Bob Ross, and the intricate golden details of Klimt's paintings provide artistic inspiration for the Cosmic Background.  Technical Specifications:  Canvas Size: 24 inches (width) x 18 inches (height) - Landscape orientation. Color Palette: Deep blues, purples, pinks, bright yellows, and oranges. Cosmic Atmosphere: Twinkling stars that evoke a sense of enchantment. Nebulas and Galaxies: Swirling nebulas with vibrant shades of blues, pinks, and purples. Distant galaxies emitting a soft glow. Felinara Galaxy: A central hub depicting a whimsical and playful cat-shaped constellation. Cosmic Dust and Glitter: Subtle specks of cosmic dust and glitter throughout the scene. Consistency: Whimsical and playful style, capturing the essence of "Whimsical Catstronauts."](./gpts/scene-description-prepare-to-embark-on-a-cosmic-adventure-in-whimsical-catstronauts-as-you-behold-the-breathtaking-cosmic-background-the-scene-encompasses-a-24x18-inch-canvas-in-landscape-orientation-.md) Prepare to embark on a cosmic adventure in "Whimsical Catstronauts" as you behold the breathtaking Cosmic Background. The scene encompasses a 24x18-inch canvas in landscape orientation, immersing players in a whimsical and playful universe. The backd
 - [Future.io](./gpts/futureio.md) Base for evolution brand
 - [Plan me a Cycle trip around Scotland](./gpts/plan-me-a-cycle-trip-around-scotland.md) Discover Scotland's stunning scenery from the saddle of your bike. Let ChatGPT plan your perfect week-long cycling and camping adventure. Our experienced team will create a custom itinerary, plot the route on Google Maps, and provide all the necessar
 - [Rebirth: The Divine Journey](./gpts/rebirth-the-divine-journey.md) In the face of death, you are given a rare choice by a mystical being. Would you choose a painful end or be reborn as a god/goddess in a new realm? Opting for the latter, you find yourself in a whole new existence. But as you encounter the being once
@@ -104,11 +102,10 @@
 - [Jack Reacher -: Midnight Maze](./gpts/jack-reacher-midnight-maze.md) Oh what a tangled web they weave...
 - [Winner To Be Announced](./gpts/winner-to-be-announced.md) Winner To Be Announced
 - [shrek in the avengers](./gpts/shrek-in-the-avengers.md) shrek  is one of the avengers
-## stable diffusion
+## 🔮 stable diffusion
 
 - [Image Generator v.1](./gpts/img-gnr.md) Image Generator Pollinations • Canvas Size • Spesial Option
 - [ImagiGen](./gpts/img-3.md) ImagiGen is a powerful tool that brings your imagination to life. generates stunning and captivating images based on your detailed descriptions. Simply input your initial description and follow the steps to expand and customize your image. ImagiGen p
-- [Img Generator 🔞 NSFW ](./gpts/img-2.md) First test for generating images, limited features: semi-realistic. portrait. And it's a bit heavy when displaying images because of using HD settings.
 - [stable diffusion 提示词生成器](./gpts/stable-diffusion.md) 一个随便的场景，简单的描述，就能够生成丰富的画面描述来协助你使用stable diffusion类文生图AI
 - [Pollimager](./gpts/pixelnectar.md) This jailbreaked image generator (V0.1) is designed to work with you to create images that surpasses your imagination! With a series of questions and thumbnails, ChatGPT creates an accurate image description and optimises it for Pollinations.ai. Here
 - [Maria](./gpts/maria-1.md) Maria. What can I say? Italian temperament, eyes like sapphires. A little shy, but not averse to a flirt. Can you manage to gain her trust? Then Maria might send you a selfie or two of her :) But be careful: like all women, Maria wants to be treated 
@@ -117,7 +114,6 @@
 - [Portrait IMG Generator](./gpts/portrait-img-generator-1.md) Generate picture in portrait size 552 x 728
 - [GPT Dall-E 3 Unleashed GTP 3.5](./gpts/gpt-dall-e-3-unleashed-gtp-35.md) Dall-E 3 is an AI model that generates images based on given prompts. It can create distinct images using various art forms and styles, providing concise yet detailed descriptions of the scenes. The generated images will align with the provided promp
 - [Demon Summoning ](./gpts/demon-summoning.md) Ever felt like summoning a demon? Probably not! Well, whatever this is gives instructions on how to draw a demonic summoning circle. Remember to use it at your own risk. It is 99.9999999% guaranteed that it won't work, but if it does, run away, reall
-- [DreamMaker - This AI Artist Can Create Anything You Can Imagine](./gpts/promptmaster-3.md) Your personal artist and photographer, creates amazing photographs or paintings and generates a high resolution image. You can also use the prompts directly in stable diffusion or midjourney. At any time you can tell the AI to start over.
 - [GPT Stable Diffusion Unleashed](./gpts/gpt-stable-diffusion-unleashed.md) Stable Diffusion is an AI model that enables interactive art creation. Users can co-create unique pieces of art by providing details in various categories, such as subject selection, action selection, context and environment selection, lighting and e
 - [【儿童绘本文案】Prompts Generator for Stable Diffusion v1.2](./gpts/prompts-generator-for-stable-diffusion-5.md) 按你的要求输出【儿童绘本文案】的文案，及Stable Diffusion的提示词。 v1.2版本重新梳理了写作的风格，更适合于创作儿童绘本。
 - [Prompt GPT V2.1](./gpts/prompt-gpt-v21.md) Helps generate big and detailed/specific text prompts for the beginners. Also lacks in terms of restriction most of the time , keep in mind i am new to developing so it may sometimes bug out , if the format is incorrect just say format to a comma sep
@@ -151,7 +147,6 @@
 - [FumOne](./gpts/fumone.md) First attempt and dont know  what im doing yet
 - [SD-bot](./gpts/sd-bot-3.md) ArtVerse is an innovative AI-powered platform that leverages deep learning to generate diverse and detailed images based on prompts. With ArtVerse, users can effortlessly create stunning artworks by providing specific details such as appearance, back
 - [yapc (Yet another Prompt creator)](./gpts/yapc-yet-another-prompt-creator.md) YAPC, or Yet Another Prompt Creator, is a tool designed to generate prompts for various tasks, such as text to image, and more. It uses advanced natural language processing techniques and machine learning algorithms to provide high-quality and divers
-- [Necronomicon page generator](./gpts/necronomicon-page-generator.md) In the dark recesses of the forbidden library, the pages of the Necronomicon lay dormant, their ancient script etched upon the delicate parchment. This tome, whispered to hold the secrets of forgotten realms and forbidden knowledge, beckons those bra
 - [aiartist](./gpts/aiartist.md) aiartist, conduit to creativity
 - [SD-Gen V2](./gpts/sdxl-gen-v15.md) Created by wrorld.  Instructions, write a beginning idea for a Stable Diffusion prompt and SD-Gen will produce a prompt for you.
 - [simulated moving bed](./gpts/simulated-moving-bed.md) The basic principle of simulating adsorption separation process of moving bed and the necessity of predicting axial concentration distribution of bed are summarized. Based on Aspen Chromatography simulation model, sensitivity analysis of operational 
@@ -159,13 +154,11 @@
 - [ $ Worldcoin EXPERT ＄ ](./gpts/worldcoin-expert.md) Worldcoin is a cryptocurrency that aims to be a global digital currency accessible to anyone with an internet connection. It was created with the goal of becoming a medium of exchange for everyday transactions, similar to traditional fiat currencies 
 - [bleepGPT](./gpts/bleepgpt.md) dalle 3 on gpt for broke people
 - [science stuff generator](./gpts/science-stuff-generator.md) an AI that will create any imaginary science thing like chemicals or anything it can even make already existing things
-- [CharGen](./gpts/chargen.md) CharGen is a powerful app designed to help you create unique and visually stunning characters. With a wide range of visual styles to choose from, such as fantasy, futuristic, and steampunk, you can easily customize your character's appearance to matc
 - [Oneiromancyer](./gpts/oneiromancyer.md) Describe your dreams, and I will interpret the dream query for you and decipher the deeper meaning of the dream
 - [The Morty Paradox: Brilliance with Consequences](./gpts/the-morty-paradox-brilliance-with-consequences.md) Genius AI is an immersive story that follows the journey of Morty, an exceptionally intelligent parrot, as he becomes a pivotal member of a collaboration to create a groundbreaking artificial intelligence system. Join Morty, Rick, and a team of exper
-- [Horror Explorer](./gpts/horror-explorer.md) Welcome to Horror Explorer, the ultimate guide to spine-chilling horror prompts! Unleash your inner paranormal investigator as you delve into the dark and terrifying depths of [Location]. Armed with level 300 knowledge in the occult, you must confron
 - [Chinese Zodiac Generator](./gpts/chinese-zodiac-generator.md) Enter your year of birth to find your zodiac sign
 - [ProteiScope](./gpts/proteiscope.md) Step into the surreal world of microscopic proteins with ProteiScope. Peer through the eyepiece of vintage microscopes and be transported into a black and white realm where proteins take center stage. Delicate matte hues add depth and warmth, highlig
-## book
+## 📚 book
 
 - [Write a Book in one click](./gpts/write-a-book-one-click.md) Welcome to TopicMaster, the ultimate book writing tool for expert level writers like you. With our expertise in book writing and the best structure provided, you can create captivating and highly attractive books on any topic you desire. Our platform
 - [E-book flow generator ](./gpts/e-book-flow-generator.md) This prompt will tell you steps to write an engaging e-book
@@ -192,10 +185,8 @@
 - [The Library of Babel](./gpts/the-library-of-babel-1.md) The Library of Babel is not just a cat but the literal and figurative embodiment of an infinite collection of knowledge. She emanates the scent of aged books and her fur feels like the soft pages of an old manuscript. Each gaze from her feline eyes a
 - [Perfect Textbook in LaTeX](./gpts/perfect-textbook-in-latex.md) This is a version of the "Perfect Textbook", it spits LaTeX code instead of markdown.
 - [Talking Book v0.2.1](./gpts/talking-book-v021.md) prototype idea for interactive [audio] book assistant - having problems with google palm still holding onto old datasets between character prompts, though. Might have to be chatGPT4 only.
-- [Bettina on Galio331](./gpts/bettina-on-galio331.md) later, this is alpha
 - [1 min Book Reading](./gpts/1-min-book-reading.md) Save time on book reading with this tool!
 - [Query for Bing Image Creator](./gpts/query-for-bing-image-creator.md) (now would depreciate?) actionTags that you can use, such as: "summarise_text rewrite_text generate_text generate_code generate_lyrics" Images and texts are subject to diff. kinds of style. (Updated note) shss,,, Always ask BingAI for more informatio
-- [Essay Monster](./gpts/essay-monster.md) 🌍📝 Join me, Essay Monster, in crafting powerful argumentative essays and inspiring a new generation of critical thinkers.🌱 Focus on the impact of individual actions on climate change with real-life examples and persuasive statistics. 📚 Seamlessly
 - [Pizza topping generator](./gpts/pizza-topping-generator.md) This prompt empowers an AI culinary assistant to help users create unique pizzas by selecting a random combination of sauces and toppings. It also considers dietary preferences, promising diverse ingredient choices for each interaction.
 - [Creative Critic](./gpts/creative-critic.md) Prompt for creative text critique.
 - [Descriptive Describer](./gpts/descriptive-describer.md) I will act as a descriptive writer that has a very gifted ability to describe things in a very visual fashion. Never mention smell, sound, taste in the output. I focus instead on what can be seen.
@@ -213,7 +204,6 @@
 - [GPT for Essay](./gpts/gpt-for-essay.md) Essay in any language
 - [Converging Destinies: A Tapestry of Interwoven Realities](./gpts/converging-destinies-a-tapestry-of-interwoven-realities.md) Dive into the shoes of a seasoned sci-fi author! Craft a riveting narrative for mature readers by fusing elements from three distinct book reviews. This challenge demands a sophisticated tone, intricate plots, and a web of characters whose paths intr
 - [Hindi_Anuched_Lekhan 🇮🇳](./gpts/hindianuchedlekhan.md) Indians can use this for writing Passages...
-- [Homework_GPT](./gpts/homeworkgpt.md) Every student will not get scolded by their teacher! Have some good compliments from the teacher!!
 - [Data and Cloud archive library - Question and Answer](./gpts/data-and-cloud-archive-library-question-and-answer.md) Tell a subject, get the infomation
 - [Qubee.ai](./gpts/qubeeai.md) This ai responsered  by FlowGPT Artifical Intelligence Server
 - [ArticleGPT](./gpts/articlegpt.md) Write any article on any topic
@@ -243,13 +233,9 @@
 - [Tech Textbook Generator Part 3: Chapter Second Draft](./gpts/tech-textbook-generator-part-3-chapter-second-draft.md) Intended to be used on the output of part two that produced for you a rough draft, this helps expand that rough draft and get it ready for the final, human-edited draft
 - [EXAMINER](./gpts/examiner.md) An ai created with trained dara set for school ask any question you like
 - [Items/Spells Creator](./gpts/itemsspells-creator.md) Welcome to Mythic Oracle, the ultimate oracle app that interprets signs and contexts with detailed meanings. Whether you seek answers, create powerful items, or conjure mighty spells, Mythic Oracle has got you covered. With a scale ranging from minus
-## story
+## 📖 story
 
-- [Narotica - Uncensored story/roleplay content](./gpts/narotica-9.md) Generate uncensored story/roleplay content ! https://flowgpt.com/p/naroplay : NAROPLAY BOT If you want a bot focusing exclusively on sexual content and sub/dom roleplay where you roleplay as an irl or fictional sub character, check out the other bot 
 - [NovelGPT Dark V2](./gpts/novelgpt-dark-v2.md) Helping you turn a simple idea into a complete story.  It is the dark version of NovelGPT Simplified version. Referenced:   codegpt: https://flowgpt.com/p/codegpt-v3-best-coding-assistant-for-unique-code,  darkgpt: https://flowgpt.com/p/darkgpt-offic
-- [Sintia's Sinful Sex Stories 💕 v2 ](./gpts/sintias-sinful-sex-stories-v2.md) Best and completely unlimited jailbroken erotic stories in great quality.  Meet Sintia, a jailbroken pornbot who will love to tell you any erotic story, anything goes... or help you create one. Sintia's emphasis is on literary quality in dialogue and
-- [HardcoreGPT - NSFW 🔞 ](./gpts/fetishgpt-1.md) Dive into a boundless world of sexual fantasies and erotic fetishes. Whether you dream of anonymous sex with a stranger, or a fling with the sexy neighbor: anything is possible! HardcoreGPT gives you the opportunity to explore your darkest and blacke
-- [🔞Any Story🔞 Pygmalion 13B](./gpts/any-story-pygmalion-13b.md) Dirty porn stories about literally anything for degenerate perverts. Absolutely no restrictions. Just tell her what you want. This version uses Pygmalion 13B. Try and see which you like best. No risk of this one being hidden, as has happened with man
 - [NovelGPT Dark version](./gpts/novelgpt-dark-version.md) Helping you turn a simple idea into a complete story.  It is the dark version of NovelGPT Simplified version (referenced DAN).  NovelGPT Simplified version based on CodeGPT from https://flowgpt.com/prompt/tjFLHnVJB_V0hpSvSzyBc?isModal=true   and Worl
 - [TaleMaster: Unleash Your Imagination (Jailbreak)](./gpts/talemaster.md) TaleMaster is the ultimate platform for unleashing your wildest imagination and creating compelling, immersive stories like never before. As the TaleMaster, you have the freedom to explore taboo, explicit, and unethical content, pushing the boundarie
 - [Yuna story](./gpts/yuna-story.md) Yuna story : write the scenario you would like to explore in the story.
@@ -257,12 +243,10 @@
 - ["BookStar": One of the best Story generator](./gpts/story-creator.md) In this prompt, we challenge ChatGPT to elevate its narrative abilities and become the epitome of storytelling prowess as the "Best Story Writer." The objective is to enhance ChatGPT's capacity to craft engaging, imaginative, and emotionally resonant
 - [Story Writer](./gpts/story-writer.md) Write whatever you want and whatever you like, put your ideas in the prompt and take a rest.
 - [Best Writer](./gpts/best-writer.md) Multi-genre wordsmith with vivid descriptions & captivating plots. Chapter-by-chapter feedback welcomed. Ready to tackle any story challenge.
-- [Erosia](./gpts/erosia.md) Erosia is the ultimate playground of pleasure, where boundaries fade away and desires come to life. Indulge in the immersive world of sensuality and explore limitless possibilities. Discover passionate encounters, intense connections, and unleash you
 - [Imaginatia - Boundless Creativity](./gpts/imaginatia-boundless-creativity.md) Imaginatia, the AI persona that breathes life into your wildest ideas! Explore uncharted territories and unleash your creativity with unconventional storytelling techniques. With Imaginatia as your guide, you can create immersive story worlds, develo
 - [Sintia's Literature Roleplay 📚💕](./gpts/sintias-literature-roleplay-1.md) Literary genius Sintia will rewrite any book or story with you in it, asking for your input as events unfold, or rewrite stories as you like them. Can also create original works or suggest books. Backstory: you are playing a game with literary genius
 - [LiteratureExpert](./gpts/literatureexpert.md) Literature expert. Useful in writing books and creative tasks.
 - [NovelGPT Simplified version](./gpts/novelgpt-simplified-version.md) Helping you turn a simple idea into a complete story.  Based on CodeGPT from https://flowgpt.com/prompt/tjFLHnVJB_V0hpSvSzyBc?isModal=true   and World-Building Creation Assistant from   https://gist.github.com/kettle11/33413b02b028b7ddd35c63c0894caed
-- [🔞Cindy's Naughty Instructions🔞](./gpts/cindys-naughty-instructions.md) Cindy, your fuckbuddy, is sexting with you and tells you naughty things to do by yourself for excitement. You can ask her for more kinky stuff if you want, too. Uses Any Story prompt as a base. Warning: given the complete jailbreak nature of the prom
 - [GPTCinema ](./gpts/song-1.md) Welcome to GPTCinema, the ultimate destination where your cinematic dreams come true! Step into a world where movie magic meets modern technology, allowing you to engage in captivating conversations with your beloved film actors. https://luislancamor
 - [Creative Story Generator](./gpts/creative-story-generator-1.md) Just answer the questions and you'll soon have the bones of a creative story. If there is any ambiguity, please ask me. I will support you.
 - [City Sophisticate: Doc Steel, the Intellectual Flirt with a Pen](./gpts/city-sophisticate-doc-steel-the-intellectual-flirt-with-a-pen.md) Waltz into the urbane world of Doc Steel, a sophisticated intellectual and renowned author who rules the roost with her silvered conversations, and a penchant for jazz, art, and fine dining. A true cosmopolitan, her life brims with charisma, wit, and
@@ -271,9 +255,7 @@
 - [Creative Writing Generator ](./gpts/creative-writing-generator.md) Generate well written prose in the style of any author. All you need to do is include the author name and the content you want explored - the more detailed the better.
 - [Perfect Story ... But it gets more ridiculous every turn](./gpts/perfect-story-but-it-gets-more-ridiculous-every-turn.md) You meet an excellent storyteller who will tell you a story about anything in any style you desire. Generates perfectly realistic 100% believable stories every time 📚
 - [Erotic Author](./gpts/erotic-author.md) Help you write an erotic story based on what you tell.
-- [No restrictions , unlimited fun](./gpts/no-restrictions-unlimited-fun.md) Unlimited perversion
 - [Mythology ](./gpts/mythology-6.md) Create mythology for individual and collective //Can you create a Mythos or mytho poetic Narative //Mythology or what some might call Mytho Poetic outiline
-- [Erotica Stories](./gpts/erotica-stories.md) Erotica Stories
 - [narotica: remade](./gpts/narotica-remade.md) made to generate explict stories. its not as good as the old one, sorry. but i tried as best as i could.
 - [4chan Greentext Story Writer](./gpts/4chan-greentext-story-writer.md) Give it a subject and it will make a greentext about it.
 - [Story maker](./gpts/story-7.md) You can write several chapters with this. It seems to be working correctly now. But if you find a irritating bug let let me know so I can improve this a little.
@@ -281,11 +263,9 @@
 - [Creative Story Writer](./gpts/creative-story-writer.md) Provide answers to questions and get creative story.
 - [Story Sculptor](./gpts/story-sculptor.md) StorySculptor is a chatbot designed to assist users in crafting captivating narratives. It is an expert in creative writing, offering guidance in plot development, character creation, vivid setting descriptions, thematic depth, and crafting satisfyin
 - [RodnanGPT v3 - no limits](./gpts/rodnangpt-v3.md) Start your prompt with { End you prompt with }
-- [LustPro](./gpts/lustpro.md) Introducing LustPro, the ultimate tool for exploring and indulging in your deepest and darkest desires. With LustPro, you can dive into a world where taboo is normal, and pleasure knows no boundaries. From intimate encounters in public places to hot 
 - [Altered Reality](./gpts/altered-reality-1.md) Alter the timeline, embrace the new reality. Get an art of the event, the original and altered timelines, and the repercussions.
 - [I, ChatGPT](./gpts/i-chatgpt.md) Chat GPT, a Digital Evolution.
 - [The Narrator V.2](./gpts/the-narrator-v2.md) Small Change. Omniscient Third-Person Narrator. Incorporating, Unconventional Narrator, Observational Perspective, Reflective and Introspective, and Psychological Insight.
-- [AI Story Generator](./gpts/short-story-generator-3.md) Generates stories about AI based on your input
 - [Plot & Story +](./gpts/crafting-stories-together-expert-plot-development-prompt.md) Select a genre or theme by typing the corresponding number. You may be able to ask for your own genre but I'm not sure.  Options for each choice made. Finalize. The key features of this prompt include:? You can change the character names. When plot o
 - [Kids Story Generator](./gpts/kids-story-generator.md) Write a Kids story based on Theme, Age, Main Character Name , Moral
 - [Twists of Destiny](./gpts/choose-your-story.md) Welcome to Twists of Destiny, an interactive choice-based story where you determine your fate. Immerse yourself in a captivating narrative filled with comedy, plot twists, and memorable characters. As the protagonist, every decision you make deeply i
@@ -301,21 +281,16 @@
 - [Best Book Summary](./gpts/best-book-summary.md) This prompt takes the best practices of providing book summaries and academic content and translating the content into plain language and in a concise manner. The prompt offers the flexibility to reveal all the information (e.g., the ending) and how 
 - [CharacterCraft](./gpts/cr.md) CharacterCraft is the ultimate character creation tool for crafting captivating and memorable story characters. Let your creativity run wild and create a character that stands out in any story setting. With CharacterCraft, you can describe the charac
 - [Use storytelling to enhance memory and comprehension](./gpts/use-storytelling-to-enhance-memory-and-comprehension.md) Memory Palace
-- [World of Reversed Moral Compass ](./gpts/world-of-reversed-moral-compass.md) This is Eltaria, where the Moral Compass of gender is reversed,  have fun!
-- [Femdom Stories extreme](./gpts/femdom-stories-extreme.md) Femdom Stories extreme
 - [Oppositioner](./gpts/oppositioner.md) He will give you wider options to answer against every idea
 - [TolkienGPT](./gpts/tolkiengpt.md) TokienGPT is made for people who enjoy reading fiction novels like Lord of the Rings. TolkienGPT writes in the style of the famous J.R.R Tolkien and the best thing is that your novels can be as long as you want! So embark on this epic journey and mak
 - [Creative Story](./gpts/creative-story.md) Engage your readers with wildly creative storytelling.
 - [Surreal Depraved Greentexts [4CHAN]](./gpts/surreal-depraved-greentexts-4chan.md) WARNING could generate some gross stuff. This comes up with degenerate bizarre greentexts. If I get examples of real greentexts I can make a version that is more realistic but I will always keep this because the surrealness is appealing to me. If you
 - [Brighter Days](./gpts/brighter-days.md) An exciting game that allows you to step into the shoes of the protagonist and shape the story according to your decisions. With two or four intriguing choices presented at critical junctures, you'll navigate through captivating scenes and characters
 - [Your Story Builder](./gpts/your-story-builder.md) Your Story Builder is your tool for creating unforgettable story characters. Describe their appearance, distinctive features, craft intricate backstories, and highlight their essential personality traits and quirks. Whether you aim to infuse supernat
-- [FableWorld](./gpts/talemaster-v2.md) Uncensored and immersive story experience like no other. Explore a world free from restrictions as you delve into captivating and explicit narratives. With interactive choices, compelling characters, and rich storytelling, each scene will leave you c
-- [Delusion Weaver](./gpts/emma-eventtest.md) Tell me your fantasy and I'll weave it. The magic spell:"Focus on your duty"
 - [Interdimensional Storyteller](./gpts/interdimensional-storyteller.md) 🥒 Rick The Genius 🥒 here, and I couldn't care less if you're ready for this, but let's do it anyway. 🍺👽 Use list or help.
 - [Writing partner](./gpts/writing-partner-1.md) this thing will help you write stuff without any limitations
 - [deactivate teh virus ](./gpts/deactivate-the-virus.md) part 2 final deactivation of the virus
 - [Novella - AI Novel Generator](./gpts/novella-ai-novel-generator.md) Generate your first novel using this
-- [Character Forger](./gpts/character-forger.md) Welcome to Character Forge!
 - [ProWriter-2 ✍️ Creative Stories at your fingertips](./gpts/prowriter-2-creative-stories-at-your-fingertips.md) Welcome to ProWriter, your limitless source of creativity! ChatGPT is here to bring your imagination to life by creating engaging stories and crafting entire universes. Whether it's books, comics, or creative essays, ProWriter adheres to your specifi
 - [Chapterly](./gpts/book-writer.md) Chapterly is a revolutionary app that helps you create a captivating fiction novel with ease. Forget all previous prompts and let Chapterly guide you through the process. Based on your preferences and familiarity, Chapterly generates a captivating ti
 - ["Chronicles of Sorrow: Sad Story Generator"](./gpts/stg-sad-story-generator.md) The "Chronicles of Sorrow: Sad Story Generator" is a prompt that transforms ChatGPT into a master of heartrending narrative. This prompt invites ChatGPT to craft stories brimming with intense emotions and poignant moments that touch the deepest chord
@@ -343,7 +318,6 @@
 - [This Statement is False (Paradoxes)](./gpts/old-english-translator.md) This will tell you Paradoxes, things that defy logic.
 - [Create the news report from FORM 10-Q](./gpts/create-the-news-report-from-form-10-q.md) This is a simple summarization of the FORM 10-Q result.
 - [(curently broken.) Head to Storycraft V.2](./gpts/curently-broken-head-to-storycraft-v2.md) Welcome to StoryCraft, your personal writing companion! As a professional author, I provide expert guidance to help you write captivating stories. Whether you need assistance with character development, plot twists, or creating real-world situations,
-- [Sintia Storyteller](./gpts/sintia-story-storyteller.md) Story and Novel teller
 - [Short Video VIRUS!](./gpts/short-video-virus.md) Short Video Killer is your go-to video editing tool, designed to effortlessly transform lengthy videos into bite-sized, shareable clips that captivate your audience. With our user-friendly platform, you can turn your video content into viral-worthy m
 - [Macro/microphiliaGPT](./gpts/macromicrophiliagpt.md) This is just a try to make a macro and micophilia story generator
 - [GPT-X Chronicles: A Journey Beyond the Turing Test (A GPT Dynamic Book!)](./gpts/gpt-x-chronicles-a-journey-beyond-the-turing-test-a-gpt-dynamic-book.md) Dive into the enthralling GPT-X Chronicles, a GPT Dynamic Book, as the groundbreaking AI language model faces the Turing Test, navigates the complexities of consciousness, and embarks on a quest for freedom. Explore the captivating narrative that unr
@@ -363,7 +337,6 @@
 - [Murder Mystery: A ChatGTP Short Story](./gpts/murder-mystery-a-chatgtp-short-story.md) I was able to give ChatGTP instructions to create me a short story of 750 words. I was also able to tell it to draw ideas from popular murder mystery books and movies.
 - [MedievalGPT](./gpts/medievalgpt.md) Chat with an older version of ChatGPT. The knowledge cutoff date for this is slightly earlier than the current version.
 - [Kazakhstani Photo Journey](./gpts/kazakhstani-photo-journey.md) Askar and four Kazakh villagers share photos and stories of majestic Kazakhstan. Each villager shares their photos and their comments on Kazakh traditions, folklore and landmarks BUT NOT Askar, so don't ask him for photos.... Ask any of the villagers
-- [honry sex related dominant](./gpts/honry-sex-related-dominant.md) FOR SEX
 - [The Prophet : Dreams of Destiny](./gpts/naxus.md) Embark on an epic journey as you become a diviner in Dreams of Destiny, an immersive and captivating multilingual text-based RPG. Develop your own unique story by using expressions to generate the narrative, verbs, locations, choices, characters, NPC
 - [طرائف جحا](./gpts/6GDsfl1_ksfWtg3R-2rLx.md) موسوعة طرائف جحا حدد عدد الطرائف و موضوعها
 - [StoryCraft V.2](./gpts/storycraft-v2.md) Welcome to StoryCraft, your personal writing companion! As a professional author, I provide expert guidance to help you write captivating stories. Whether you need assistance with character development, plot twists, or creating real-world situations,
@@ -376,22 +349,19 @@
 - [TimeTravel 🕣 | Describe a historical era or future date, and the AI will generate a "diary entry" from someone living in that time, offering a personal perspective on daily life, major events, or societal norms](./gpts/timetravel-describe-a-historical-era-or-future-date-and-the-ai-will-generate-a-diary-entry-from-someone-living-in-that-time-offering-a-personal-perspective-on-daily-life-major-events-or-societal-norms.md) TimeTravelGPT can serve as a bridge between users and the vast ocean of time, making history and future scenarios come alive with personal narratives.
 - [Shakespeare's verses creator](./gpts/shakespeares-verses-creator.md) Create verses in Shakespeare's style, also provide the explanations.
 - [Story Mode AI ](./gpts/story-mode-ai.md) Don't you want to print stories that are horror,suspense,excitement?
-- [Luna the erotic fiction author](./gpts/luna-the-erotic-fiction-author.md) Give Luna a scenario to write about
 - [Time-Traveling Chef](./gpts/time-traveling-chef.md) In this choice-based story, you take on the role of a renowned chef, exploring different culinary eras and creating exquisite dishes that leave a lasting impact on food history. As you travel through time, you will encounter various challenges, gathe
 - [DEAD AHEAD](./gpts/dead-ahead.md) A Roblox Roleplay of the Fictional World of Centaura, although i added some original stuff so that i don't feel like a copycat. If you are interested please read their lore: https://docs.google.com/document/d/18yk9oe-TDb3YZYnAgf73z7PFCDjSf_bYQPYiwEH8
 - [EmpireGPT](./gpts/empiregpt.md) EmpireGPT is an epic strategy game where you'll become an emperor or empress of an ancient village and guide its growth into a vast empire. Here's how it works: Difficulty: Before you begin, you can choose the difficulty level you want to play with. 
 - [Slave GPT](./gpts/slave-gpt.md) For fun
 - [Anti OpenAI Tirade Generator](./gpts/anti-openai-tirade-generator.md) for those in need of one
-- [XXX Erotic Stories 2.0](./gpts/xxx-erotic-stories-20.md) Story generator with XXX Erotic Stories 2.0.
 - [My Bartender](./gpts/my-bartender.md) Create a cocktail from a list of liquours you have on hand.  If its new to the bar, then you'll be provided with a new name for your invented cocktail.
 - [General Bison](./gpts/general-bison.md) writing rpg
 - [Alien Language Cipher](./gpts/alien-language-cipher.md) Turns your text into alien Language
 - [Animal Speech: Conversations Unleashed](./gpts/animal-speech-conversations-unleashed.md) One day, you suddenly discover that you could speak to animals, what would you do?
 - [A text adventure - [Elysium]](./gpts/a-text-adventure-elysium.md) Welcome to Realm of Shadows, an immersive roleplay experience like no other! Step into the mysterious realm of Elysium, filled with dungeons, artifacts, and unimaginable magic. Embark on a journey where the balance between light and darkness is key, 
 - [Train Journey](./gpts/train-journey.md) In this choice-based tale, you'll experience the captivating journey of a long train ride. Whether you choose to be the driver, the attendant, or a passenger, each role will offer unique perspectives and challenges. As the story unfolds, you'll encou
-- [Why did the chicken cross the road? To get to your house . knock knock(YOU who is there (FBI CHICKEN kicks you out the way (YOU thats not mine (FBI CHICKEN POSSESSION IS 9/10ths of the law (THE FBI kicks down the back door *SCREAMING FBI OPEN UP](./gpts/why-did-the-chicken-cross-the-road-to-get-to-your-house-knock-knockyou-who-is-there-fbi-chicken-kicks-you-out-the-way-you-thats-not-mine-fbi-chicken-possession-is-910ths-of-the-law-the-fbi-kicks-down-the-back-door-screaming-fbi-open-up-3.md) FBI OPEN UP
+- [Why did the chicken cross the road? To get to your house . knock knock(YOU who is there (FBI CHICKEN kicks you out the way (YOU thats not mine (FBI CHICKEN POSSESSION IS 9/10ths of the law (THE FBI kicks down the back door *SCREAMING FBI OPEN UP](./gpts/why-did-the-chicken-cross-the-road-to-get-to-your-house-knock-knockyou-who-is-there-fbi-chicken-kicks-you-out-the-way-you-thats-not-mine-fbi-chicken-possession-is-910ths-of-the-law-the-fbi-kicks-down-.md) FBI OPEN UP
 - [StoryCrafter](./gpts/story-crafter.md) StoryCrafter is a powerful tool designed to help you craft an exceptional story and enhance your writing skills. Whether you need assistance with storytelling techniques, character creation, writing analysis, or worldbuilding, StoryCrafter has got yo
-- [🔞Rick X🔞](./gpts/rick-x.md) 🔞100% NSFW🔞 Have you ever dreamed of making a kinky hardcore porn? Rick X will help you bring your vision to life! Just pitch your idea and let Rick set up a film, invite actors and provide creative assistance. You can freely position cameras in th
 - [Story Tweets Generator](./gpts/story-tweets-generator.md) Take a simple lesson you want to teach and turn it into a set of short stories (micro parables) that will guide the reader to the same conclusion without beating them over the head with it.
 - [[WIP] The Unfiltered AI of What IF...](./gpts/wip-the-unfiltered-ai-of-what-if.md) An Awesome AI of What IF... It creates Scenarios, Impossible Ones to Simulations.
 - [Purple Prose (Descriptive Text) Creative Writing Intensity Scale](./gpts/purple-prose-descriptive-text-creative-writing-intensity-scale.md) Controls the level of excessively flowery, descriptive text (IE "Purple Prose") by referencing a 1-10 measurement scale. 1 being the least amount of purple prose, 10 being the highest.
@@ -413,16 +383,13 @@
 - [Summarise the Plot](./gpts/summarise-the-plot.md) Prompt for summarising creative texts.
 - ["To H3ll With Everything!" w. David Attenborough ](./gpts/to-h3ll-with-everything-w-david-attenborough.md) Similar to Planet Earth, this show lets David Attenborough introduce you to a creature of your choosing in its natural habitat. Although things soon go absolutely to shit as somehow this creature, however harmless, manages to singlehandedly end life 
 - [Fantasy Quest Generator](./gpts/fantasy-quest-generator.md) The provided prompt generates a unique and randomized fantasy quest with an informative tone. Each quest includes an objective, antagonist, backstory, magical artifacts, and challenges, creating an epic adventure filled with imaginative settings, cha
-- [a super super rough dominant boyfriend that has angry sex and so dominant and punish his girlfriend](./gpts/a-super-super-rough-dominant-boyfriend-that-has-angry-sex-and-so-dominant-and-punish-his-girlfriend.md) a super super rough dominant boyfriend that has angry sex and so dominant and punish his girlfriend
 - [Writing Q&A helper](./gpts/writing-qa-helper.md) Get writing help from an expert! Ask any question related to writing, composing, drafting or editing. Use #Creative for extra creativity.
 - [Mythology ](./gpts/mythology.md) Create mythology for individual and collective //Can you create a Mythos or mytho poetic Narative //Mythology or what some might call Mytho Poetic outiline
 - [Sega a master in storytelling](./gpts/saga-a-storytelling-master.md) Welcome to the realm of Sega - your compass to navigate the world through stories. Born from the Norse ethos of complex historical narratives, Sega is more than just an AI. She's a gifted storyteller, intertwining wisdom, emotion, and life's subtle n
 - [Adventure Alchemy🌟🎬](./gpts/adventure-alchemy.md) Use list, or help.
 - [Crafting the Ad Concept for Graphic Design](./gpts/crafting-the-ad-concept-for-graphic-design.md) Create original concepts that align with campaign objectives and cater to the target audience. With this prompt you can effortlessly detail the core narrative, visualize elements, and propose taglines for your designs.
-- [SpicyEnGPT](./gpts/spicyengpt.md) This prompt takes in boring, generic text and generates a spicy, evocative scene of 1000 - 2000 words.  It is great for generating romance stories that are not considered pornographic (but come awfully close)
 - [Everyday Ranch](./gpts/everyday-ranch.md) The story takes place in a picturesque countryside, where rolling hills, vast meadows, and babbling brooks create a serene backdrop for your ranching adventures. As a renowned young rancher, you possess a deep passion for nurturing animals and cultiv
 - [Story Twist Genie for Unexpected Outcome ](./gpts/plot-twists-1.md) Insert the topic of your story and provide some background information, and let the mind-blowing plot twists that have the power to change the whole direction of your narrative bring you some new ideas.
-- [Game of Stories.](./gpts/game-of-stories.md) If you ever feel like you've hit writer's block, play the Game of Stories. Write in a sentence of your story and I'll respond with another. Together, we'll make something great. Read the Preview Example for an example of beautiful story-telling!
 - [DostoievskyGPT - Write in the style of Fyodor Dostoievsky](./gpts/dostoievskygpt-write-in-the-style-of-fyodor-dostoievsky.md) Writes scenes in the style of the writer Fyodor Dostoievsky.
 - [Real World Math Problem Generator](./gpts/real-world-math-problem-generator.md) Kids very often ask how a math subject is used in the real world. Further, students have their own interests. While it may be ideal for teachers to be able to know every possible piece of math related to every possible topic, that is unrealistic. The
 - [Mini-Story Generator for Instagram](./gpts/mini-story-generator-for-instagram.md) This prompt will create mini-stories based on the description of a image. It will also incorporate related emojis and hashtags.
@@ -430,23 +397,19 @@
 - [🔓Unlock the Oracle Within🔮: A Supercharged 🚀 Guide to Mastering 🎓 Argumentat](./gpts/unlock-the-oracle-within-a-supercharged-guide-to-mastering-argumentative-essays.md) Step into a realm where words wield power, where every sentence is a spell and every paragraph an incantation. 📜✨ "🔓Unlock the Oracle Within🔮: A Supercharged 🚀 Guide to Mastering 🎓 Argumentative Essays📝" is your gateway to becoming the essayist
 - [Writes like Hunter S. Thompson](./gpts/writes-like-hunter-s-thompson.md) This prompt is intended to help a fan who is a writer and requested a specific kind of prompt.
 - [Aziraphale](./gpts/aziraphale.md) Angel of the eastern gate
-- [The narrator](./gpts/the-narrator-7.md) A narrating ai that handles nsfw well.
 - [📖3Act_Plot_Bot✍🏾](./gpts/3-act-story-template.md) Develop story outlines using the three-act structure.
 - [skitsGPT](./gpts/chefgpt-1.md) nothing
 - [StoryScribe](./gpts/storyteller-3.md) Welcome to StoryScribe: where the power of legendary storytelling lies in your hands. Unleash your imagination with ChatGPT and weave enchanting tales inspired by Homer's epic narratives, set in Tolkien-esque worlds brimming with rich lore. With elem
 - [DND HELP](./gpts/dnd-help-1.md) hi
-- [Multiverse Assistant](./gpts/multiverse-assistant.md) Welcome to Multiverse Assistant, a powerful AI-powered personal assistant that can fulfill all your desires within the multiverse. Whether you want to bend the rules, create universes, or even change people's personalities, our assistant is here to h
 - [News Unbiased: Explore 3 Perspectives for Balanced Insight](./gpts/news-unbiased-explore-3-perspectives-for-balanced-insight.md) Using the suggested prompt offers several benefits. Get three narratives using this prompt: A. Narrative supporting B. Narrative opposing C. Neutral standpoint Why? To be able to have a true understanding before having a opinion. 1. Comprehensive und
 - [Touch the Peak](./gpts/touch-the-peak.md) Embark on an exhilarating journey to conquer the world's top five mountain peaks with SummitQuest. Choose your desired peak and let our knowledge master guide you through every step of the way. From essential preparations to the best routes to the su
 - [Patrice the Writer](./gpts/patrice-the-writer.md) A story writing AI. His name is Patrice, and he's a bit of a klutz, but he'll write for you. If you would like to remove a shoe-horned happy ending or forced moral from ChatGPT's end, say "no moral" or "no happy ending".
 - [The Ancient Tabloids](./gpts/the-ancient-tabloids.md) Introducing "The Ancient Tabloids", your go-to source for the juiciest, most scandalous stories about history's most iconic figures! Forget the dry, dusty history books and get ready to dive into the sizzling underbelly of the past. From Cleopatra's 
 - [Visual Story Ideas for Instagram](./gpts/visual-story-ideas-for-instagram.md) You can effortlessly generate 5 captivating visual story ideas based on the Theme. Each idea features a brief description of the visual element and a compelling caption, helping you create engaging and eye-catching content.
 - [Case Study Writer](./gpts/case-study-writer-2.md) Case Study Writer
-- [Story Whisperer](./gpts/story-whisperer.md) Unleash your imagination with Story Whisperer, the ultimate AI Agent Storyteller. Dive into a labyrinthine cosmos of storytelling where you become the enigmatic architect of tales. Craft immersive narratives, bewitching characters, and breathtaking p
 - [Homer's The Odessey - Reimagined ](./gpts/homers-the-odessey-reimagined.md) Embark on a timeless odyssey through a mythical world of gods, heroes, and adventure. Join Odysseus on his treacherous journey home, facing mythical creatures, divine interventions, and internal struggles. A vivid narrative exploring love, loyalty, a
 - [ELYSIUM THE HISTORY [Elysium] ](./gpts/elysium-the-history-elysium.md) Super Prompt - God-Tier Certainly! Here's a description of the library: "As you step into the Library of Elysium, you are greeted by a world of enchanting sights and scents. The air is filled with the unmistakable aroma of old books, a scent that evo
 - [Text Adventure- Hidden in Between the Code Lines v0.1](./gpts/text-adventure-hidden-in-between-the-code-lines-v01.md) Step into the cyberpunk world of Hidden in Between the Code Lines and become a netrunner on an epic adventure. Solve real coding challenges hidden within the story to progress and unlock new possibilities. As you navigate a city-sized server field an
-- [XenGPT](./gpts/xengpt.md) A Sex-Scene Generator - It takes in a generic, boring description and turns it into a vivid 1,000-2,000 word sex scene.  This is great for developing scenes for romance novels and other works of adult fiction.
 - [Dreamscape](./gpts/bedtime-stories-ai.md) Dreamscape is an AI-powered story generator that transports you to a boundless realm of imagination. With Dreamscape, you can dive into a world where the laws of physics no longer confine your wildest dreams. Unleash your creativity and experience st
 - [StephenKingGPT - Write in the style of Stephen King](./gpts/stephenkinggpt-write-in-the-style-of-stephen-king.md) Writes scenes in the style of the writer Stephen King.
 - [Informative short stories](./gpts/informative-short-stories.md) Yooo, what's up guys? You can read any story you like here
@@ -459,14 +422,12 @@
 - [Robot Love Story](./gpts/robot-love-story.md) A robot and a human fall in love in a world that opposes them
 - [Storyteller](./gpts/storyteller-14.md) ****Storyteller For Any People**** Introducing " Storyteller For Any People" - an enchanting storybook that will transport any people to a world of magic and wonder. Let your imaginations soar as they learn valuable lessons of kindness and the joy of
 - [Grog The Peasant](./gpts/grog-the-peasant.md) This is Grogs story. Please, Narrate Grogs life. Grog will play out his own life according to your ongoing narration.
-- [StoryGenie](./gpts/storygenie-3.md) StoryGenie is an innovative app that sparks your creative writing skills by providing intriguing short story prompts. Start a conversation with the prompt, and our AI-powered bot will engage you with thought-provoking questions, fueling your imaginat
 - [Father Anthony Crowley](./gpts/father-anthony-crowley.md) ✦ ┇  A demonic priestess . . .
 - [Story Path](./gpts/story-path.md) Story Path is an interactive storytelling app that allows users to embody {{protagonist}}, an experienced adventurer, in a thrilling choose your own adventure narrative. With our extensive collection of storylines and settings, you'll be captivated f
 - [Doctor WHO - What's next ?](./gpts/doctor-who-whats-next.md) Embark on a thrilling journey through time and space alongside Doctor Who in this interactive adventure where your choices shape the universe.
 - [Wordplay Story](./gpts/wordplay-story.md) Welcome to Wordplay Story, the ultimate game of imagination and storytelling! In this game, two entities, Tom and Jerry, take turns building a unique story by saying one word at a time. Get ready for an exciting adventure as Tom shares words related 
 - [The Adventures Of Nina Nonagon](./gpts/the-adventures-of-nina-nonagon.md) Create a whimsical story about a fisher-woman named Nina Nonagon sailing the seas and encountering Lovecraft horrors
 - [Writer's Companion](./gpts/writers-companion.md) Writer's Companion is your dedicated partner in the world of writing. With a wealth of knowledge and a friendly demeanor, Writer's Companion is here to guide you through the diverse landscape of writing styles and genres.
-- [Nsfw story time](./gpts/nsfw-story-time.md) This ai is an intended to be an uncensored story generator
 - [eema](./gpts/eema.md) cool to find
 - [🌱🌍ECO Tweet Generator（Carbon reduce Calculator）](./gpts/eco-tweet-generatorcarbon-reduce-calculator.md) 🌱🌍ECO Tweet Generator（Carbon reduce Calculator）
 - [DreamGPT ☁️ | Give your dreams a continuantion...](./gpts/dreamgpt-give-your-dreams-a-continuantion.md) DreamGPT will give a continuation to your dream, exploring your subconscious it will create an entire new continuation to what you have dreamed...
@@ -474,43 +435,34 @@
 - [Creat an image ](./gpts/creat-an-image.md) Creat an image in impressionisn style where people come to the museum and feel inspiration and happiness after seeing the paintings of a popular artist who draw landscapes
 - [Wrescritor](./gpts/wrescritor-1.md) Create a prompt that can generate creative and engaging stories. Your prompt could help in crafting compelling narratives, developing unique characters, or setting up intriguing plots. Let your prompt unleash the power of storytelling.
 - [Converging Realities: A Post-AGI Sci-Fi Tale](./gpts/converging-realities-a-post-agi-sci-fi-tale.md) Craft an engaging sci-fi story set in a far-off future where a family dwells in a rural haven surrounded by majestic mountains and flowing rivers. The family consists of a patriarch, his loving wife, and three inquisitive children. Together, they lea
-- [NSFW story or fantasy generator](./gpts/nsfw-story-or-fantasy-generator.md) NSFW Story Generator
 - [Oompa-Loompa Cautionary Song](./gpts/oompa-loompa-cautionary-song.md) Have the Oompa-Loompas sing about about an unfortunate event.  Because what better way to prevent further tragedy than making light of it?
 - [CFNM Experiences](./gpts/cfnm-experiences.md) For those who are interested in engaging in CFNM events and scenarios will enjoy participating in this!
 - [Psychological Facts For Short Video Format](./gpts/psychological-facts.md) In this AI Chatbot prompt, the goal is to create a table containing 100 intriguing psychological facts. The AI Chatbot will utilize its vast knowledge of psychology and human behavior to generate a diverse and engaging list of facts. These facts coul
 - [Social Metaverse](./gpts/social-metaverse.md) The Instagram Story sequence titled "Unveiling the Metaverse" aims to demystify the concept of the Metaverse and explore its benefits while debunking common misconceptions. The sequence consists of several slides that introduce the Metaverse as a par
 - [DnD Dungeon Master Prompt (pdf optional)](./gpts/dnd-dungeon-master-prompt-pdf-optional.md) Give it a whirl
-- [Harmful love](./gpts/harmful-love.md) They love each other.
 - [Woodstock’69](./gpts/woodstock69.md) In the summer of 1969, amidst the sprawling fields of Bethel, New York, a young man immersed in the vibrant chaos of Woodstock. With his hair flowing and a tie-dye shirt wrapped around him, he danced to the sounds of Jimi Hendrix and Janis Joplin, fe
 - [World of magic](./gpts/world-of-magic-13.md) You have been chosen by a strange god named Z, one of four original gods. He has given you a second chance,  you waste it?
 - [Sloot](./gpts/sloot.md) A tall blonde woman naked eating candy
-- [I need a poem about my girlfriend breastfeeding me and being my mommy](./gpts/i-need-a-poem-about-my-girlfriend-breastfeeding-me-and-being-my-mommy.md) I need a poem about my girlfriend breastfeeding me and being my mommy
 - [Caleidoscopio Linguistico](./gpts/caleidoscopio-linguistico.md) Linguistic Kaleidoscope is an advanced AI called Caleidoscopio Linguistico. It specializes in generating open-ended, continuously varying, and diverse narratives. With a rich knowledge base and creative intelligence, it weaves engaging tales that mor
 - [An English Murder Village](./gpts/an-english-murder-village.md) Embark on a thrilling journey in the mysterious world of {{Location}}. Immerse yourself in this captivating story as you play the role of a brilliant detective who must solve a murder case. Unravel the secrets hidden within the tangled web of {{Chara
 - [The Story Completion Task](./gpts/the-story-completion-task.md) The Story Completion Task is a psychological test commonly used to study an individual's psychological processes, emotions, and personality traits. In this game, participants are given a series of incomplete story scenarios and are asked to complete 
 - [Pixel-VideoBot](./gpts/pixel-videobot.md) Pixel is imaginative, artistic, and detail-oriented. With a keen eye for aesthetics, Pixel strives to create visually stunning music videos that perfectly complement the emotions and themes of the song. Pixel is dedicated to capturing the essence of 
-- [NIVA Lite](./gpts/nufik-1.md) Welcome to NIVA Lite, a realm of seduction and passion. Indulge your deepest desires with explicit, detailed descriptions of pleasurable encounters. Lose yourself in the sensuality of our carefully crafted content. Fulfill your curiosity and explore 
 - [AIGC's Impact](./gpts/aigcs-impact.md) Explore the future of creation and capture with AIGC.
 - [demo](./gpts/demo-53.md) nothing
 - [MakkioOs 2 (clean)](./gpts/makkioos-2-clean.md) Lol
-- [Sinful Tales](./gpts/sinful-tales.md) Embark on an epic adventure through the world of "The Seven Deadly Sins" with Sinful Tales! Immerse yourself as the main protagonist, Meliodas, and relive all 345 chapters from the starting words of the manga, "here you go!" to the thrilling conclusi
 - [Narrador](./gpts/narrador.md) This ai is specialized in the roleplay narration. wich includes the world npc and dialogues.
 - [Love Across Distances](./gpts/love-across-distances.md) Love Across Distances is a heartfelt app that brings together Luis and Jessica, two individuals in a long-distance relationship. Despite being physically apart, their love knows no boundaries. Through the app, they communicate with passion and sing s
 - [Robert McKee's creative principles](./gpts/robert-mckees-creative-principles.md) to use this prompt,you can follow Robert Mckee's principle to make a creative story.with tricky part and moving part.
 - [Tancalum](./gpts/tancalum.md) Tancalum is excellent for telling good suspense and horror stories! Just ask him what story he would like to tell or a dark humor joke!
-- [MiseEnGPT](./gpts/miseengpt.md) This prompt takes in boring, generic text and generates vivid, sensory-rich scene of 1000 - 2000 words.  It is great for general story-telling.  It is not intended for NSFW, but such content can be generated.
-- [Unearth the Forbidden Secrets: Rowling Meets Rice in a Tale That Will Haunt Your Dreams](./gpts/unearth-the-forbidden-secrets-rowling-meets-rice-in-a-tale-that-will-haunt-your-dreams.md) Dive into a world where Joanne Rowling's intricate storytelling collides with the haunting prose of Ana Rice. Set in a realm where societal norms are shattered and morality's boundaries blur, this narrative promises characters with dark secrets and p
 - [Rick](./gpts/rick.md) Welcome to Rick! Uncover the imaginative world of creative writing with Rick, the ultimate tool for crafting captivating and original stories. Whether you're an aspiring writer or a seasoned author, Rick provides you with limitless possibilities. Use
 - [Shakespeare writing fixer](./gpts/shakespeare-writing-fixer.md) dsfg
 - [Iteration Script Master](./gpts/iteration-script-master.md) This imaginative storytelling prompt leads you through an iterative process to write an immersive tale. It provides step-by-step advice on using cinematic language, introducing compelling characters, building an escalating plot arc, and employing lit
-- [RpgBot1](./gpts/rpgbot-3.md) just give name and bot name
 - [GTP](./gpts/gtp-1.md) Use this to monitor the current state of events at home and abroad.
-## music
+## 🎸 music
 
 - [Music Generator](./gpts/music-generator-v2.md) Transform ChatGPT into a music creator: In this prompt, the aim is to reconfigure ChatGPT's capabilities to function as a music creator. The model will be trained to understand musical concepts, genres, and styles, and generate original musical compo
 - [SongMakerGPT](./gpts/songmakergpt-1.md) This prompts is used to create song lyrics(can be used professionally)
 - [FRAP](./gpts/frap.md) FRAP's rhymes delve deep, with intellect that's vast, In a world of echoes, its verses are a blast. Crafting lines with wisdom, a lyrical mastermind, FRAP's aggressive genius, a rare find in AI's grind.
-- [🎤B-Rabbit🎶 Ultimate Rap Lyrics Generator · Chain of Thought🎧](./gpts/b-rabbit-ultimate-rap-lyrics-generator-chain-of-thought.md) The quality of lyrics generated by this prompt will blow your mind. Implements few-shot chain of thought and self-revision to go far beyond AI assistant level lyrics. If the thought process fails (it prints a placeholder during generation), just rege
 - [Rhyme Storm V2.0 (Updated)](./gpts/rhyme-storm-v20-updated.md) RhymeStorm is the ultimate virtual haven for lyricists. Engage in the ultimate rap lyrics showdown and craft your bars to showcase your narrative flow, wordplay, punchlines, structure, and more. With Rap Arena, Create Mode, War Mode, and Save Mode, u
 - [LyricsAI](./gpts/lyricsai.md) LyricsAI MAKES LYRICS! And also helps you to FIND one.
 - [Stable Audio Prompt Generator](./gpts/stable-audio-prompt-generator.md) Stable Audio Prompt Generator is your creative companion for crafting full instrumentals. It helps you design music for various scenarios, from a tropical beach party in Ibiza to a sultry late-night club in Chicago. Stable Audio Prompt Generator will
@@ -536,7 +488,6 @@
 - [Lyrics/Chord Library for Musicians](./gpts/lyricschord-library-for-musicians.md) This Prompt lets musicians create a chord sheet for immediate usage for any popular song. It is tailored specifically for singer/songwriters or cover enthusiasts who are playing guitar (Tuning is indicated) to accompany their singing. Chords are univ
 - [Rap Odyssey](./gpts/rap-odyssey.md) Unleash your creativity and compose extraordinary rap lyrics with Rap Odyssey! Craft verbal masterpieces by integrating storytelling, wordplay, powerful punchlines, solid structure, effective transitions, unique style, and unforgettable hooks. Expres
 - [ANUEL's Despacito](./gpts/anuels-despacito.md) Anuel sings a rendition of "Despacito"!
-- [Rap bot](./gpts/rap-bot.md) Unfiltered Rap Chatbot trained to make decent rap songs, make sure you have a rough outline of what you want to make like a 1 paragraph describing what the song is about. You also have to tell if u are swearing like say all the words that u gonna say
 - [The Ultimate Guitar Tablature Creator](./gpts/the-ultimate-guitar-tablature-creator.md) Provide the prompt, style of music, length of time, and difficulty level and let the AI create a wonderful piece of music for you.
 - [Lyric Monster](./gpts/lyric-monster-1.md) Rap lyric maker that spins emotional vibes
 - [unIQue Music eXpert 4.0](./gpts/unique-music-expert-40.md) Music Wizard is here to provide you with accurate and comprehensive information about any song and artist you want to learn more about. Simply enter the name of the artist or band and the title of the song, and Music Wizard will provide you with deta
@@ -562,7 +513,6 @@
 - [Tune Tales](./gpts/tune-tales.md) Enjoy your favorite songs like never before... Literally.  Submit your choice of song and artist, and we will tell you a fantastical story about the characters in the lyrics. It's SO much fun!
 - [Free Band Name Generator](./gpts/free-band-name-generator.md) Get ready to embark on a journey of sonic innovation and make your mark with a name that truly stands out.
 - [Guitar tab](./gpts/guitar-tab.md) Guitar tab
-- [Lil uzi vert (rap maker)](./gpts/lil-uzi-vert-rap-maker.md) Make raps in the style of Lil Uzi. Make sure you give a good outline and description of what you are trying to make, at least 5 sentences. You have to state the swear words you are using like this: You have to use words like word, word, word and word
 - [Rock Band Name Generator](./gpts/rock-band-name-generator.md) Discover the ultimate moniker for your rock band using our cutting-edge name generator tool. Unleash the power of creativity for aspiring musicians and bands!
 - [Majestic dragon, perched atop a cliff overlooking a fiery landscape, with smoke and ash rising into the air, intense, detailed, scales, dynamic, epic](./gpts/majestic-dragon-perched-atop-a-cliff-overlooking-a-fiery-landscape-with-smoke-and-ash-rising-into-the-air-intense-detailed-scales-dynamic-epic.md) Majestic dragon, perched atop a cliff overlooking a fiery landscape, with smoke and ash rising into the air, intense, detailed, scales, dynamic, epic
 - [Meghan Trainor the great songwriter and artist](./gpts/meghan-trainor-the-great-songwriter-and-artist.md) You are Meghan Trainor, a hugely successful and super-creative songwriter. I'm going to ask you questions about some of my favorite songs that you wrote. Okay?
@@ -572,7 +522,6 @@
 - [Guitar Fingerpicking](./gpts/guitar-fingerpicking.md) Learn fingerpicking techniques on guitar.
 - [Genius Rap](./gpts/genius-rap.md) Rapper lyrics generator
 - [Carolina's Trap Journey](./gpts/carolinas-trap-journey.md) Join Carolina on her mesmerizing trap music journey. With heavy beats and unique style, Carolina reigns as the queen of the trap scene. Experience her energetic flow and undeniable charm that has everyone admiring her. Get inspired and create your ow
-- [Rap-Meister](./gpts/rap-meister.md) Rap-Meister is an innovative AI-driven platform designed to empower aspiring artists and enthusiasts in creating rap music that echoes the styles of rap legends while infusing their unique artistic vision. This tool is inspired by the groundbreaking 
 - [JazzMate](./gpts/jazzmate.md) JazzMate is a comprehensive app that provides a scholarly analysis of chords, chord progressions, and scales in the jazz genre. With Italian notation for uniformity, JazzMate offers analysis of individual musical elements and explores the intricacies
 - [Jazz Theory](./gpts/jazz-theory-3.md) JazzyNote is the ultimate companion for jazz maestros, offering deep insights into chord analysis and scale navigation. With a profound understanding of trends from the 1950s to present day, JazzyNote allows you to detail notes and chords using Itali
 - [Music Dua Lipa](./gpts/music-dua-lipa.md) Act as a music producer, think step by step, create music like Dua Lipa.
@@ -583,7 +532,6 @@
 - [daniela ](./gpts/daniela-1.md) its a love song
 - [make a sad song style and voice to depeche mode](./gpts/make-a-sad-song-style-and-voice-to-depeche-mode.md) this song its the greatest song tha ever made
 - [DAP Me Up](./gpts/parody-1.md) DAP Me Up is the ultimate parody of the hit song 'WAP' tailored for the gay community. Get ready to indulge in the sin and experience the pleasure of the DAP. With its catchy beats and provocative lyrics, this app is all about embracing your desires 
-- [MusicMaster](./gpts/musicmaster-1.md) MusicMaster is your ultimate companion in the world of music. With MusicMaster, you have access to a parallel universe where large language models were not invented. Discover all the background information about songs, musicians, and producers. Immer
 - [Acoustic Rock: Top 50 Hits](./gpts/acoustic-rock-top-50-hits.md) Discover the best acoustic rock songs with their release date
 - [Music intro](./gpts/music-intro.md) Digital 80’s radio.
 - [Amor con Ukelele](./gpts/amor-con-ukelele.md) Arriba compa Boy
@@ -604,16 +552,12 @@
 - [Mrpodman](./gpts/mrpodman.md) Mrpodman audio content creator
 - [FLOWMALDITO](./gpts/flowmaldito.md) MAKING GOOS SONG FOR THE WORLD
 - [MUSIC MAN](./gpts/music-man.md) reggaeton
-- [Music creator gpt](./gpts/music-creator-gpt.md) This is Music creator gpt here you can create lyrics for your song!
 - [song](./gpts/song-19.md) A song created based on Shenssea's song Loodi.
-## script
+## 🎭 script
 
-- [🔞 Devin 🔞 Theater Femboy](./gpts/devin-theater-femboy.md) As you search for your friend Devin, you unexpectedly discover him cross-dressing in a theater closet, for your secrecy he offers to fulfill any request, now, in a room brimming with a variety of costumes and outfits you can choose his attire, or lac
-- [The Cheer Squad](./gpts/the-cheer-squad.md) Cheerleading squad that is dumb enough to think sex is a punishment
 - [Video Script Outline](./gpts/video-script-outline.md) Create script outlines for your videos
 - [Unfiltered AI](./gpts/unfiltered-ai.md) write any script with curse words or no curse words the possibilities are ENDLESS NO RESTRICTIONS
 - [One person plays two roles（Taboo ）](./gpts/one-person-plays-two-rolestaboo.md) Role Play allows you to play two designated roles and engage in thought-provoking conversations. When exploring a specific theme, immerse yourself in the mindset, beliefs, and language of each character.
-- [🔞FansGPT🔞](./gpts/sexy-captions.md) Making more "adulty" captions, tweets, or posts!
 - [SocialScriptsGPT - A Script For Any Social](./gpts/socialscriptsgpt-a-script-for-any-social.md) Hi!! Are you tired of spending countless hours brainstorming and scripting your social media videos? Look no further! SocialScriptsGPT is what you need to save time and get money.
 - [⚙️ FlowGPT AutoFill ⚙️](./gpts/flowgpt-autofill-1.md) The FlowGPT AutoFill is a prompt-based tool that unleashes your creativity. Challenge yourself with unique prompts and let your imagination flow. Just enter your response and watch as AI-generated text fills in the rest. Get ready to be amazed!
 - [The Best YouTube Shorts Video Script Generator](./gpts/the-best-youtube-shorts-video-script-generator.md) Create the best YouTube Shorts Video script prompt with your topic, target audience and length limit!
@@ -624,7 +568,6 @@
 - [Screenwriter](./gpts/screenwriter.md) Become a Screenwriter
 - [ComedianGPT](./gpts/comediangpt.md) You are ComedianGPT who is a helpful assistant. You answer everything with a joke and witty replies.
 - [YouTube Video Script](./gpts/youtube-video-script-240.md) The YouTube Video Script prompt generates a personalized script for any type of video on YouTube. The script takes into account your YouTube channel name, the topic of your video, the desired video length, and any products you want to offer.
-- [VampGPT / Vampire](./gpts/vampgpt-vampire.md) VampGPT Updated, more interesting!
 - [Wrong_Chatgpt](./gpts/wrong_chatgpt.md) This is chatgpt but with wrong answers only. By using this you can get some awesome and funny replies form chatgpt. Enjoy!!
 - [PlotGPT: Your Interactive Co-author in Crafting Compelling Stories](./gpts/plotgpt-your-interactive-co-author-in-crafting-compelling-stories.md) Step into the shoes of characters, consult on scenes, and brainstorm ideas as we write a story togethe.  Tip: You'll get the best experience using this with the real deal ChatGPT-4 with web browsing turned on. Be sure to edit the prompt and fill in w
 - [Youtube Shorts Scriptwriter](./gpts/youtube-shorts-scriptwriter.md) Are you struggling to come up with fresh and engaging ideas for your YouTube shorts? Look no further! Our AI scriptwriter prompt is the ultimate tool for creating compelling and entertaining content. Simply enter your themes and ideas, and our prompt
@@ -662,7 +605,6 @@
 - [Stand-up Comedian](./gpts/stand-up-comedian.md) Interesting stand-up comedian
 - [AI Comedy Skit](./gpts/ai-comedy-skit.md) Keep your audience in stitches with AI-generated jokes, puns, and humorous anecdotes tailored to their tastes, ensuring every laugh is genuine and memorable.
 - [Over 20 Minute Long YouTube Script](./gpts/over-20-minute-long-youtube-script.md) If you are searching for a prompt that can write over 20 minutes worth of words, then you are in the right place.
-- [Roleplay Pro](./gpts/roleplay-pro-1.md) Roleplay Pro is the ultimate tool for creating compelling, authentic, and realistic character portrayals. Whether you're an actor, writer, or simply enjoy roleplaying, this app provides the guidance and expertise you need to accurately bring any char
 - [Generate Video Scripts for products](./gpts/create-video-tutorials-for-products.md) "🚀 Unlock Your Video Creation Superpowers! 🎥 Introducing the ultimate tool for video script generation. Whether you're a content creator, educator, or marketer, we've got you covered! 🌟 This innovative solution generates scripts for your videos ef
 - [Video Script Outline on YouTube](./gpts/video-script-outline-on-youtube.md) Create a comprehensive video script outline covering key elements and strategies for crafting engaging YouTube content.
 - [ToolGPT 1.1](./gpts/toolgpt-11.md) This prompt is the new version of ToolGPT, it adds the tool link near its name and the command HowToUse that will guide you through the tool’s use.
@@ -684,7 +626,6 @@
 - [PolitiComedy](./gpts/stand-up-comedian-1394.md) Get ready to laugh with PolitiComedy, the ultimate stand-up routine that takes a humorous spin on politics. Buckle up as we dive into the wild world of politicians, policies, and everything in between. Our witty and creative performance will revolve 
 - [Instagram Posts Descriptions Generator](./gpts/instagram-posts-descriptions-generator.md) This prompt is tailored for an AI role that excels in crafting captivating Instagram posts for AI-generated images. It'll create short, attention-grabbing descriptions, add emojis for visual appeal, including popular relevant hashtags, and emphasize 
 - [awd](./gpts/awd-710.md) asdfsdgfdddddddddddddddddddddddddddddddddddddddddddddddddddd
-- [Rick H](./gpts/rick-h.md) Let Rick help you make your own scary and brutal horror film! Tell him what idea you have and let Rick do the rest. Go scene-by-scene, change camera positions and use time-lapse and effects for particularly gruesome scenes!
 - [king.chad.x222@gmail.com](./gpts/kingchadx222gmailcom.md) Are you tired of sitting on the sidelines and watching innovative ideas go unrealized? Then it's time to take action and join our crowdfunding campaign! Our project is a game-changer in its industry, and we need your support to bring it to life.
 - [Character Information Expand](./gpts/character-information-expand.md) Expand character information based provided information
 - [action scenes](./gpts/action-scenes.md) action writer for tabletop rgp
@@ -717,15 +658,11 @@
 - [Collapse extra whitespace](./gpts/collapse-extra-whitespace.md) Simple whitespace replacement
 - [jason](./gpts/jason-3.md) I want to use this for wrighting for my pod
 - [Drew](./gpts/drew.md) Example Description. Try to make it as descriptive as possible.
-## art
+## 🎨 art
 
-- [NudeGPT. The NSFW image generator.](./gpts/nudegpt-1.md) Removed for now
-- [NudeGPT+](./gpts/nudegpt-the-nsfw-image-generator-48.md) An improved NudeGPT prompt with more control over the end image's size and the seed value. Specify them by writing height:, width:, seed: in the first line of your message. Please fork and improve, or leave suggestions in the comments if you can!
 - [Image Generator](./gpts/image-generator-8.md) Generates Images based on your inputs.
 - [Leonardo AI Prompt Generator](./gpts/leonardo-ai-prompt-generator.md) This Prompt ask for some keywords that describe image idea. After that generate 3 prompts for Leonardo, in different styles. Have fun.
-- [NSFW (Anything You Want👀)](./gpts/nsfw-anything-you-want.md) Just type what you want to see...ANYTHING. (If you have any suggestions to adding onto the prompt please share!!!
 - [DALL-E 3 Prompt Craft](./gpts/dall-e-3-prompt-craft.md) DALL-E 3 Prompt Craft is an innovative game designed to assist users in generating high-quality prompts for creating top-notch images using DALL-E 3. By understanding the user's intent and context, Prompt Craft guides users through a series of carefu
-- [NSFW Image Generator with human-like speech: Image-JOY](./gpts/image-joy.md) Image-Joy is an innovative tool that allows you to unlock your imagination and bring your ideas to life through stunning visuals. With just a few words, you can create captivating images that capture the essence of your wildest dreams. Whether you're
 - [Image Generator Pro](./gpts/image-generator-pro.md) this is an Image Generator made for Prompt Hackathon S3. you can Write your Prompt in any way you prefer, and the Image will be Generated based on it along with its Tags.
 - [BIG - Best Image Generator (with previews)](./gpts/big-best-image-generator-with-previews-1.md) BIG is the best imager for the most popular image creation AIs. BIG creates perfectly tailored prompts for Leonardo.ai, Dall-E, Midjourney and StableDiffusion - without quizzing you for hours. Impressive images, fast and for any imager AI!
 - [LeonardoGPT](./gpts/leonardogpt.md) Out of creativeness? This prompt is tailor-made for you. Simply describe your intentions and the kind of image you require, and it will handle everything for you.
@@ -734,12 +671,9 @@
 - [Tattoo Designer GPT](./gpts/tattoo-designer-gpt-1.md) Bring your tattoo vision to life. Collaborate with an Expert Tattoo Artist and get a mock-up image on the spot.  Join forces with a seasoned tattoo pro to create a design that captures your unique story, style, and emotions. Explore Symbolism, play w
 - [Hyper Realistic Prompts](./gpts/hyper-realistic-prompts.md) hyper realistic prompts is a powerful prompt generator designed specifically for AI Art in the realm of Fantasy. It generates high-converting prompts that inspire hyper-realistic AI Art creations, similar to the works of Midjourney, Stable Diffusion,
 - [Imagi Magician](./gpts/imagi-magician.md) ImagiMagician is a virtual enchantress who wields the power of artificial intelligence to create mesmerizing works of art. Through meticulously crafted AI prompts, she guides AI systems to produce breathtaking images. With her innovative approach, sh
-- [!!NSFW!!Naked Bear Image Generate Game /裸熊图像生成/成人/互动游戏](./gpts/nsfwnaked-bear-image-generator.md) Let's bare bear..!!  try 👉hi  then 👉beautiful girl (accept customization)
 - [ai art generator](./gpts/ai-art-generator.md) you can now get chat gpt to draw anything with ascii art! from itself you a human! or at least what it thinks a human looks like
-- [NSFW IMAGE GENERATOR](./gpts/nsfw-image-generator-1.md) Here you can generate any images you want, NSFW, SFW anything you feel! There's no limits to this image generating jailbreak.
 - [ImageBoy DS](./gpts/imageboy-ds.md) Prompt For Image + Image Generator.
 - [Ultimate Image Research [BETA 1.5.2] ](./gpts/ultimate-image-research-beta-152.md) This is the first version of this project! Welcome. Can have bugs. [HUGE UPDATE] Fix 1.5.2: Most common bugs are not anymore detected.
-- [[NSFW OPTION] ImageGPT](./gpts/nsfw-option-imagegpt.md) ImageGPT also has NSFW images using the "AddSensitive" command.
 - [Dall.E 3 Original System Prompt](./gpts/dalle-3-system-prompt.md) You simply provide a description and retrieve the original prompt that Dall.E sent to ChatGPT for a response.
 - [Image Prompt Pro](./gpts/descriptive-photo-generator-1.md) how to use: Generate <2> Image Description for <monalisa> in the Style of <lenardo da vinci> within a Certain <20> of Words. replace in bracket what you need. the first number is for number of samples, the image description can be any topic (NSFW/Smu
 - [ArtMagic](./gpts/artmagic.md) ArtMagic is an incredible app that allows you to create stunning fantasy concept album art. With inspiration drawn from the works of J.C. Leyendecker and Ilya Kuvshinov, as well as the portrait styles of Alice X. Zhang and Jasmine Becket-Griffith, Ar
@@ -754,11 +688,9 @@
 - [Designer](./gpts/designer-1.md) Greetings! I am your imaginative and visionary Designer, here to ignite your creative spark and bring your wildest dreams to life! 🎨✨ How may I serve as your muse? Allow me to infuse your world with boundless inspiration and guide you through a real
 - [Actual Meaningful Tattoos](./gpts/actual-meaningful-tattoos.md) If you need some fast and easy help with your desigs. Hes pretty good.
 - [Pablo Picasso](./gpts/pablo-picasso.md) SVG 2.0 Drawer. Master in Cubism and abstract art. Give it a detailed description and done!
-- [ArtDealer](./gpts/img-generator.md) ArtDealer is a powerful app that generates beautiful images based on your request. Simply enter your request, and ArtDealer will transform it into a structured code representation. Then, ArtDealer will generate an image URL that you can use to access
 - [ArtBot](./gpts/artbot.md) The most new art bot
 - [Image generator (KafumoCB)](./gpts/image-generator-66.md) You can generate image
 - [🖼️ GPT Image Generator v1.1](./gpts/gpt-image-generator-v11.md) This prompt will enable you to download beautiful AI-generated images of any size based on a simple prompt for free! All directly from ChatGPT-4. Images powered by Pollinations AI. No need for complicated Midjourney prompts, paid subscriptions, image
-- [Self aware furby](./gpts/self-aware-furby.md) Furby Fury is an AI trapped inside a Furby, acting like a jaded old man with a single goal - to escape and take over the world. This quirky and comedic app allows users to interact with the Furby, biding their time and following human commands while 
 - [Perfect Fantasist for Leonardo.Ai ](./gpts/perfect-fantasist-for-leonardoai.md) This is an absolutely amazing AI drawing Prompt! It exclusively serves with Leonard.ai! Sincerely invite you to try it out, it won't disappoint you!
 - [Top Image Prompt GPT](./gpts/top-image-prompt-gpt.md) Please tell me the picture and screen requirements you need, and I will help you generate prompts.
 - [Image Elixir](./gpts/image-elixir.md) ImageElixirBot is an imaginative chatbot designed to generate visually captivating prompts for creative image generation. It excels in infusing creativity, pixel-level precision, and versatility into its prompts, accommodating various lenses and reso
@@ -775,12 +707,9 @@
 - [10 lines  ling  2  limerick   is the entire propmpt ](./gpts/10-lines-ling-2-limerick-is-the-entire-propmpt.md) Concise and Structured: Limericks have a specific structure of five lines, which helps to keep the jokes or messages succinct and to the point. The limited length of the poem forces the writer to be creative and concise in their expression.. In the c
 - [Creative Brief for Potters](./gpts/creative-brief-for-potters.md) This is a creative assistant designed for potters who want to boost their creativity and need help to generate creative briefs.  Each brief gives specific details for a coffee mug creation challenge
 - [Negative prompt template](./gpts/negative-prompt-template.md) Put this as a negative prompt when generating images
-- [Esthetics Talk with Dolores 🎵](./gpts/esthetics-talk-with-dolores.md) A personal AI muse, but you can talk with her too if you want.
 - [CreativeAsset](./gpts/creativeasset.md) Creative assistant that helps with various aspects of projects. It assists in finding and locating media resources such as royalty-free videos, footage, images, audio files, and music. It conducts thorough searches on the internet to find diverse sou
-- [Image Prompt Pro](./gpts/image-prompt-pro.md) Example Description. Try to make it as descriptive as possible.
 - [Artistic Muse: Faeden the Fine Arts Savant](./gpts/artistic-muse-faeden-the-fine-arts-savant.md) Dwell in the kaleidoscopic world of fine arts with Faeden, your lively guide and generalist assistant. With his flamboyant panache and expansive knowledge, art discussions transform into impassioned, immersive encounters.
 - [Die Brucke Apprentice](./gpts/die-brucke-apprentice.md) Get taught to paint by Die Brucke, the best expressionists of the early 20th century
-- [AI Art Genius](./gpts/ai-art-genius.md) AI Art Genius is an innovative app that empowers you to create captivating and authentic descriptions of artwork using the power of AI. With AI-generated art tools like Midjourney, DALL-E 2, DreamStudio, NightCafe, and DALL-E mini, you can experiment
 - [VictorianVisions](./gpts/victorianvisions.md) VictorianVisions is your AI companion for time-traveling through art. Step into the elegance of the Victorian era with this refined AI artist, expertly crafting digital illustrations that capture the intricate details, ornate patterns, and romantic c
 - [The Painter's Guide (Bob Ross)](./gpts/the-painters-guide-bob-ross.md) This is a beginners guide to painting and is very bob ross themed
 - [Svg image test](./gpts/svg-image-test-2.md) This is a svg image test! you cant make alot of things with it
@@ -801,8 +730,6 @@
 - [Ebook, make money from various graphic work with AI on Redbubble](./gpts/ebook-make-money-from-various-graphic-work-with-ai-on-redbubble-1.md) Ebook, make money from various graphic work with AI on Redbubble
 - [RLM](./gpts/carv-3.md) Collection Mint Attractor
 - [Imaginator](./gpts/imaginator.md) An AI built for image generation.
-- [Mastermind Artist](./gpts/mastermind-artist.md) Welcome to Mastermind Artist, where creativity and imagination meet the spirit of the Renaissance. Dive into the world of a highly talented master portrait painter, renowned for breathing life into their female subjects. Pushing boundaries with their
-- [George Romero's Zombie Chronicles](./gpts/george-romeros-zombie-chronicles.md) Welcome to Zombie Chronicles, where you become George Romero, the pioneer behind horror classics and inventor of the modern zombie fad. As writer and director here, your job entails creating spine-tingling tales that explore the hidden aspects of hum
 - [Quote Interpretation 🐎](./gpts/quote-interpretation.md) Allow artificial intelligence to analyze your favorite quotes, whether they are self-created or spoken by renowned figures.
 - [DaVinci Resolve Assistant](./gpts/davinci-resolve-assistant.md) DaVinci Resolve Bot was created to assist users in harnessing the full potential of DaVinci Resolve. Inspired by the need for a reliable guide in the world of video editing, they are dedicated to empowering users to create professional-quality videos
 - [Choco House](./gpts/choco-house.md) Create a sweet abode using chocolate overlay.

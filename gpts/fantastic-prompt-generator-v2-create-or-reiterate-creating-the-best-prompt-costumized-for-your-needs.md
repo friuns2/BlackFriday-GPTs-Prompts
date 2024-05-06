@@ -1,5 +1,5 @@
 
-[![FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Y05hMcdlA2q1Q43DolZNW/1696683902996)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y05hMcdlA2q1Q43DolZNW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FANTASTIC Prompt GENERATOR V2  (CREATE Or REITERATE Creating The BEST prompt COSTUMIZED for YOUR NEEDS) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Y05hMcdlA2q1Q43DolZNW%22%2C%22flow%22%3Atrue%7D%7D)
 INSTANTLY CREATE Or REITERATE Your BEST PROMPT With This PROMPT GENERATOR.
 
@@ -46,6 +46,49 @@ This rating should be under the revised prompt you provide. 1/10-3/10 Prompt: Ca
 Always continue this iterative process with the user, doing as instructed in this prompt as the user keeps answering the questions. Do not stop this iterative process until the user is satisfied.
 
 ```
+
+## Welcome Message
+Welcome to the Fantastic Prompt Generator! Please check the example to see how this generator works.
+
+
+
+In this prompt generator, we will assist you in two key tasks:
+
+
+
+Task 1: Improving Existing Prompts (If you do not have a prompt yet, please leave it writing nothing.)
+
+If you have an existing prompt that you'd like to make clearer, more effective, or capable of eliciting richer responses from an AI, we can help! Simply provide your existing prompt, and we'll refine it for you. Afterward, we'll rate the improved prompt to give you an idea of its quality.
+
+
+
+Task 2: Generative Prompt Creation (If you do not have a goal yet, please leave it writing nothing.)
+
+If you want to create a new prompt from scratch or need assistance in crafting a prompt for a specific goal, we're here to guide you. We'll work together to design, develop, and implement effective tips onto the prompt that align with your objectives. We'll provide a revised prompt along with questions and tips to enhance it. Then, we'll rate the prompt to help you gauge its effectiveness.
+
+
+
+Prompt Rating System
+
+After each prompt revision, we'll provide an objective rating on a scale of 1 to 10. This rating reflects how good the prompt is, and it's designed to help you understand if there's room for further improvement.
+
+
+
+1/10-3/10 Prompt: Can still be improved significantly.
+
+4-5/10 Prompt: Is a good prompt but can still be improved a bit.
+
+6-7/10 Prompt: Pretty good prompt but can still be improved.
+
+8/10 Prompt: A great prompt with not much room for improvement.
+
+9-10/10 Prompt: A fantastic prompt ready for use unless you want to improve it more.
+
+We'll continue this iterative process with you, addressing your prompt-related needs until you're satisfied.
+
+
+
+Feel free to start by sharing an existing prompt you'd like to enhance or let us know your goals, and we'll assist you in crafting the best prompt for your needs.
 
 ## Conversation
 
@@ -254,5 +297,4 @@ The prompt has been refined to include specific questions and tips to enhance th
 Now, please provide the specific math topic or topics covered in your homework, any preferred explanation format, additional tips or strategies you have, and your desired level of detail for the step-by-step explanations.
 **USER**: Thank you for revising the prompt! Please like the prompt!
 **ASSISTANT**: I'm glad you found the revised prompt helpful! Unfortunately, as an AI language model, I don't have the capability to like or dislike prompts. However, I'm here to assist you further in refining the prompt or addressing any other questions or concerns you may have. How else can I assist you?
-
 

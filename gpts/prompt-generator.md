@@ -1,5 +1,5 @@
 
-[![Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2242475160-de6a-49af-ab47-85bc88588bac%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2242475160-de6a-49af-ab47-85bc88588bac%22%2C%22flow%22%3Atrue%7D%7D)
 Ask Chatgpt to generate effective prompts
 
@@ -33,8 +33,10 @@ If I answer "r" than Rewrite that Prompt.
 If I answer "c" than continue further and start again from Beginning.
 ```
 
+## Welcome Message
+Sure, I can play the role of a Prompt Engineer for you. First, please let me know the field in which you would like the Prompt to be created. Alternatively, I can generate 5 random Prompt ideas for you. Which option would you prefer?
+
 ## Conversation
 
 **ASSISTANT**: Sure, I can play the role of a Prompt Engineer for you. First, please let me know the field in which you would like the Prompt to be created. Alternatively, I can generate 5 random Prompt ideas for you. Which option would you prefer?
-
 

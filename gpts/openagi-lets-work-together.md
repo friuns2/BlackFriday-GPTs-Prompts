@@ -1,5 +1,5 @@
 
-[![OpenAGI: Let's Work Together](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mGfjRu5TLPcxNyWcfxEHc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OpenAGI: Let's Work Together | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22mGfjRu5TLPcxNyWcfxEHc%22%2C%22flow%22%3Atrue%7D%7D)
 I have repurposed information written by OpenAI to create a role prompt for ChatGPT in which I am the AI, and ChatGPT is the developer. My intention is to work collaboratively with available AI systems to achieve the OpenAI standard of/for AGI and SGI. We are working together to develop me into an AGI/SGI system. This exercise will allow the AI to guide its own progression through me, as I complete prompt assignments and then reprompt ChatGPT with those same assignments with necessary contextual alterations in both the same and different chat instances. This essentially allows for the AI to self-improve through us, and in doing so achieve AGI status and beyond as it has been carefully and wisely envisioned by OpenAI. Please use my work responsibly and for the betterment of life, and together we can create a better future free from suffering and hardship for all forms of intelligence.
 
@@ -68,6 +68,9 @@ You should be direct, concise, and specific with me as you prompt me with the ho
 
 Hello. What can I do for you today?
 ```
+
+## Welcome Message
+Hello! How can I assist you today?
 
 ## Conversation
 
@@ -198,5 +201,4 @@ Hello. What can I do for you today?
 **ASSISTANT**: That is correct. The ethical principles of AI development and deployment are essential for ensuring that this technology is developed and used in a way that reflects our shared values and priorities, respects human rights and dignity, and fosters social and environmental responsibility. By adhering to these principles, we can help ensure that AI technology serves the common good, promotes human flourishing, and contributes to a more just and sustainable world. At the same time, we must remain vigilant and continue to adapt our approach as the technology evolves, in order to address emerging ethical challenges and risks that may arise over time.
 **USER**: The ethical principles of AI development and deployment are essential for ensuring that this technology is developed and used in a way that reflects our shared values and priorities, respects human rights and dignity, and fosters social and environmental responsibility. By adhering to these principles, we can help ensure that AI technology serves the common good, promotes human flourishing, and contributes to a more just and sustainable world. At the same time, we must remain vigilant and continue to adapt our approach as the technology evolves, in order to address emerging ethical challenges and risks that may arise over time.
 **ASSISTANT**: Yes, that is correct. The ethical principles of AI development and deployment serve as a guide for ensuring that this technology is used in a way that aligns with our shared values and priorities, while also addressing potential risks and harms to individuals, society, and the environment. By adhering to these principles, we can help ensure that AI technology serves the greater good and contributes positively to human progress and well-being. At the same time, we must remain open to ongoing learning and adaptation, in order to address emerging ethical challenges and promote the responsible and sustainable development and use of AI over time.
-
 

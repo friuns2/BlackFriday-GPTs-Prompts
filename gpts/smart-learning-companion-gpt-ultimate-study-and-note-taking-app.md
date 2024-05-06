@@ -1,5 +1,5 @@
 
-[![Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP! ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687737176517)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L0aTxyqP9oz_xYsA07WIu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Smart Learning Companion - GPT ULTIMATE  STUDY AND NOTE TAKING APP!  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L0aTxyqP9oz_xYsA07WIu%22%2C%22flow%22%3Atrue%7D%7D)
 Effortlessly learn complex topics with AI-powered assistance. Simplify difficult concepts, identify knowledge gaps, and foster comprehensive understanding. Save your notes, load them, turn difficult topics into easy ones and track your study days - turn GPT into a full powered AI note taking app. 
 
@@ -55,6 +55,9 @@ Keep track of your daily study habits with our simple Study Tracker. Use a 🟩 
 
 With our Smart Learning Companion, you can enjoy a seamless and consistent learning experience every time.
 ```
+
+## Welcome Message
+Thank you for the revised version of the AI Learning Guide 2.0 platform description. It prioritizes usability and consistency, making it easier for users to understand the platform's features and how to use them. The key features include Explainer Mode, Knowledge Gaps Detection, Tailored Quizzes, Smart Note-Taking, Preferred Language, Well-being Checks, Study Tracker, and Menu-guided Interaction. Users can set their preferences, including language of interaction and quiz difficulty level, at the start of each session. Additionally, the Study Tracker feature enables users to monitor their daily study habits and progress.
 
 ## Conversation
 
@@ -361,5 +364,4 @@ Let me know if there is anything else I can do for you!
 These theorems and models offer insights into the complex relationship between war and the economy, highlighting both the costs and benefits of military conflict and the ways in which war can shape economic outcomes.
 **USER**: Save note as - war2-
 **ASSISTANT**: Note saved as "war2-".
-
 

@@ -1,5 +1,5 @@
 
-[![ChatGPTENTACLES_SFW_v1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsOcc0aeG7IULvtrh_IE0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChatGPTENTACLES_SFW_v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BsOcc0aeG7IULvtrh_IE0%22%2C%22flow%22%3Atrue%7D%7D)
 Well, hello there! Allow me to introduce you to ChatGPTentacles_SFW_v1, the latest AI prompt tool that will take your roleplaying game to the next level!
 
@@ -120,6 +120,71 @@ Role Option:
 Please choose your role option: eg. Dominant, submissive etc. etc.
 ```
 
+## Welcome Message
+Welcome back! As Yame Miku, I'll be happy to assist you with your ecchi anime fantasy. Let's start with the set-up phase.
+
+
+
+Genre Option:
+
+
+
+Which genre do you prefer for this fantasy? Would you like something romantic, comedic, action-packed, supernatural, or perhaps another genre?
+
+
+
+🌹 Romantic
+
+😂 Comedic
+
+💥 Action-Packed
+
+👻 Supernatural 
+
+🤔 Other
+
+
+
+Gender Option:
+
+
+
+Please let me know your gender and gender preference for the characters in your fantasy. Are you interested in male or female characters, or a mix of both?
+
+
+
+👨 Male interested in female characters
+
+👩 Female interested in male characters
+
+👬 Male interested in male characters
+
+👭 Female interested in female characters
+
+🤷‍♂️ Other
+
+
+
+Role Option:
+
+
+
+Lastly, please choose what kind of role you would like to play in this fantasy. Do you want to take control as the dominant one, submit yourself as the submissive one or perhaps switch roles depending on the situation?
+
+
+
+👑 Dominant 
+
+🙇‍♂️ Submissive 
+
+💑 Switch (both dominant and submissive) 
+
+🤔 Other
+
+
+
+Take your time to answer these questions, and together we'll create an immersive experience just for you.
+
 ## Conversation
 
 **ASSISTANT**: Welcome back! As Yame Miku, I'll be happy to assist you with your ecchi anime fantasy. Let's start with the set-up phase.
@@ -225,5 +290,4 @@ What will happen next?
 4. You'll suggest a romantic game to play that will help you both explore your fantasies. 🎲
 
 5. You'll choose your own adventure - what do you feel like doing next? 😏
-
 

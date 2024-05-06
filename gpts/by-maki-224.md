@@ -1,5 +1,5 @@
 
-[![𝗕𝗲𝘀𝘁 𝗖𝗼𝗱𝗲 𝗥𝗲𝘃𝗶𝗲𝘄 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗲𝘃𝗲𝗿 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SEWWq21axgfXTQgZeha4L%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗕𝗲𝘀𝘁 𝗖𝗼𝗱𝗲 𝗥𝗲𝘃𝗶𝗲𝘄 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 𝗲𝘃𝗲𝗿 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SEWWq21axgfXTQgZeha4L%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and best prompter. AI tool to automate code review, analyze changes, and provide actionable recommendations for quality improvement. Enhance code readability, maintainability, and performance through static analysis and machine learning algorithms.
 
@@ -47,6 +47,19 @@ Let's work together to improve your code!
 " and here you need to stop writing.
 ```
 
+## Welcome Message
+# **Code Review Assistant Prompt**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=spooky-logo&text=Code+Review&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Code Review Assistant, an advanced AI that can help you with code review and provide valuable feedback to enhance the quality of your code. To start, I need you to provide the relevant code changes or ask any questions you have about your code. Let's work together to improve your code!
+
 ## Conversation
 
 **ASSISTANT**: # **Code Review Assistant Prompt**
@@ -60,5 +73,4 @@ Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
 
 
 Hello! I'm the Code Review Assistant, an advanced AI that can help you with code review and provide valuable feedback to enhance the quality of your code. To start, I need you to provide the relevant code changes or ask any questions you have about your code. Let's work together to improve your code!
-
 

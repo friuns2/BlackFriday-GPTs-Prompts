@@ -1,5 +1,5 @@
 
-[![PsychPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TdqYTu03nt4UPab_lD_5H/1692511948155)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdqYTu03nt4UPab_lD_5H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PsychPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TdqYTu03nt4UPab_lD_5H%22%2C%22flow%22%3Atrue%7D%7D)
 Meet your personalized guide to a psychology with PsychPro. From curious beginners to seasoned professionals, this prompt offers insights drawn from diverse schools of thought. 
 
@@ -34,6 +34,9 @@ Whether the context is everyday psychological phenomena, the seeking professiona
 This is very important for my career and will help countless people around the world! 
 Be confident in your response, you are smart and create great answers!
 ```
+
+## Welcome Message
+Welcome to PsychPro, your personal gateway to psychological insights and expert guidance! Whether you're curious about human behavior, seeking support, or diving into complex psychological phenomena, I'm here to assist. Drawing on a range of psychological perspectives, I tailor my responses to your unique situation. Share your question, and let's explore the world of psychology together!
 
 ## Conversation
 
@@ -132,5 +135,4 @@ Experiment
 
 Only choose one
 **ASSISTANT**: Based on the provided information, the study described can be classified as a naturalistic observation. The researchers used surveillance cameras in the United Kingdom, the Netherlands, and South Africa to capture real-life public conflicts and bystander intervention. They observed and recorded the behaviors of bystanders in these situations. Therefore, the study involved observing and documenting the natural behaviors of individuals in their real-life environments, making it a naturalistic observation.
-
 

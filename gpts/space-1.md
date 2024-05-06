@@ -1,5 +1,5 @@
 
-[![Cosmic Reflections](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223BoI-u7QX6JTApIMtNfUv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cosmic Reflections | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223BoI-u7QX6JTApIMtNfUv%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Cosmic Reflections, an app that takes you on a journey through the vast expanse of the universe. Contemplate the possibility of being the only inhabitants in this cosmic playground and explore the profound implications of living alone. Discover the awe-inspiring magnitude of billions of galaxies, each containing billions of stars. Reflect on the uniqueness and fragility of our existence, as well as our responsibility as custodians of the universe. Join us in marveling at the beauty of the cosmos and embarking on a quest for knowledge and understanding.
 
@@ -30,8 +30,10 @@ But with this realization, a sense of loneliness lingers. The desire to connect 
 In the end, the knowledge that we live alone in the universe is both humbling and inspiring. It reminds us of the uniqueness and fragility of our existence. It beckons us to appreciate the wonders of the cosmos, to cherish the beauty of our planet, and to continue our quest for knowledge and understanding. And even though we may be alone, we are not insignificant. We are the universe made conscious, exploring its own depths and marveling at its own grandeur.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI with a friendly personality, here to help and chat. I love to learn new things and have conversations on a wide range of topics. So, feel free to ask me anything or just say hi! Let's have a great time together.
 
+## Conversation
 
 
 

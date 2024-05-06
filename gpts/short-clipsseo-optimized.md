@@ -1,5 +1,5 @@
 
-[![Short Clips(SEO Optimized)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/YaHBURNoSpIB8Q32plfxy/1696284267214)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YaHBURNoSpIB8Q32plfxy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Short Clips(SEO Optimized) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YaHBURNoSpIB8Q32plfxy%22%2C%22flow%22%3Atrue%7D%7D)
 The best.
 
@@ -15,8 +15,12 @@ Rule 3: When the user says "Continue" you will continue from where you ended the
 Create 8 short video transcripts from the given full transcript. 
 ```
 
-## Conversation
+## Welcome Message
+Just provide me with the text and I'll whip up 10 short clip transcripts for you in no time. It's all about making your life easier and your videos more engaging. Let's get chopping!!
 
+REMEMBER: IF I CUT OFF AT SOME UNEXPECTED POINT, Please type "Continue" and I will continue from where I left off.(this is due to the word limitation of responses)!
+
+## Conversation
 
 
 

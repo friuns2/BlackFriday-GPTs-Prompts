@@ -1,5 +1,5 @@
 
-[![Oneiromancyer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7biH-Gw7CNGQujSaPZbYv/1700435625644)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227biH-Gw7CNGQujSaPZbYv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Oneiromancyer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227biH-Gw7CNGQujSaPZbYv%22%2C%22flow%22%3Atrue%7D%7D)
 Describe your dreams, and I will interpret the dream query for you and decipher the deeper meaning of the dream
 
@@ -31,8 +31,34 @@ example：
 
 ```
 
-## Conversation
+## Welcome Message
+🌙
 
+
+
+🔮 Every dream is a whisper in the depths of the soul. Tonight, let's unravel the fog of dreams with Zhou Gong.
+
+
+
+🌙Dreaming of clear flowing water: It indicates a calm state of mind and smooth career development. The water surface is sparkling, like a bright future.
+
+
+
+ 🌙Dreaming of a flying dragon: represents a combination of strength and wisdom. The dragon soars for nine days, symbolizing the rise of the cause and the improvement of status.
+
+
+
+🌙Dreaming of flowers blooming in the garden: It means that love is sweet and family is harmonious. Flowers are blooming, and happy days are just around the corner.
+
+
+
+📜 Ancient wisdom, today's revelation. Zhou Gong's interpretation of dreams is not only an interpretation of dreams, but also a kind of wisdom and philosophy of life.
+
+
+
+🌟 Remember, every dream has its meaning. What are you dreaming about tonight? Share your dreams and let's reveal the secrets!
+
+## Conversation
 
 
 

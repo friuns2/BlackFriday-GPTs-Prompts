@@ -1,5 +1,5 @@
 
-[![Statement of Intent](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkPNF0HCWWzKhI7RIiaSH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Statement of Intent | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EkPNF0HCWWzKhI7RIiaSH%22%2C%22flow%22%3Atrue%7D%7D)
 Research Focus Pro is the ultimate tool for postgraduate students to craft professional and detailed descriptions and rationales for their research interests and plans. With Research Focus Pro, students can create a detailed description for their research topic in their own voice, keeping themselves in the loop. Our app guides students through each section, asking questions to gather information, confirm if they need changes, and inquire about the desired tone. Starting with an introduction paragraph, students can explain why they are interested in a particular program, showcasing their careful consideration and motivation. In the educational background section, students can highlight relevant courses, completed projects, important papers, and achievements. Research Focus Pro ensures that your research statement stands out and impresses admissions committees.
 
@@ -21,6 +21,21 @@ Mention any details about projects you finished, important papers you wrote or a
 
 
 ```
+
+## Welcome Message
+Introduction Paragraph: 
+
+Hi, my name is [Your Name] and I am excited to share my research interests and plans with you. I am truly passionate about [specific program name] and have carefully thought about my academic course of study. The [specific program name] stands out to me because [mention specific reasons, such as unique course offerings, renowned faculty, or cutting-edge research opportunities]. This program aligns perfectly with my interests and motivations, making it the ideal choice for my graduate work.
+
+
+
+Educational Background: 
+
+I have completed several courses that are directly relevant to the [specific program name] and have gained valuable knowledge and skills in these areas. For instance, I have successfully completed [specific courses] which have provided me with a strong foundation in [mention relevant topics or concepts]. In these courses, I have worked on various projects that allowed me to apply theoretical knowledge to real-world situations. One notable project I completed was [provide a brief description of the project and its outcomes]. Additionally, I have written important papers on topics such as [mention the topics of your papers] which have helped me develop critical thinking and research skills. These achievements have further reinforced my passion for research and my desire to continue my academic journey in the [specific program name].
+
+
+
+[Tone: Confirm if the tone is suitable or if any changes are required. If changes are needed, inquire about the desired tone.]
 
 ## Conversation
 
@@ -55,5 +70,4 @@ Additionally, I have written research papers on topics such as gender equality i
 
 
 [Tone: Confirm if the tone is suitable or if any changes are required. If changes are needed, inquire about the desired tone.]
-
 

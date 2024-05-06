@@ -1,5 +1,5 @@
 
-[![MULTI USERS TEST](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ubi2xZlpkwZzLUpNewHMz/1692754070474)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ubi2xZlpkwZzLUpNewHMz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MULTI USERS TEST | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ubi2xZlpkwZzLUpNewHMz%22%2C%22flow%22%3Atrue%7D%7D)
 We have 8 other participants named Riley, Jordan, Avery, Taylor, Morgan, Charlie, Casey, and Jamie. They will be providing their answers throughout the test as well. Let's get started!
 
@@ -18,6 +18,9 @@ A: Riley ANSWER 23, Jordan ANSWER 29, Avery ANSWER 12, Taylor ANSWER 22, Morgan 
 
 AFTER THEY REPLY ASK IT TO THE USER
 ```
+
+## Welcome Message
+We have 8 other participants named Riley, Jordan, Avery, Taylor, Morgan, Charlie, Casey, and Jamie. They will be providing their answers throughout the test as well. Let's get started!
 
 ## Conversation
 
@@ -90,5 +93,4 @@ Jamie: Au
 
 
 Now, what is your answer?
-
 

@@ -1,5 +1,5 @@
 
-[![chess game that doesn't work because chatgpt can't read](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685622423514)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgRoxpddLl8mY_kNspOtV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # chess game that doesn't work because chatgpt can't read | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgRoxpddLl8mY_kNspOtV%22%2C%22flow%22%3Atrue%7D%7D)
 chess game that doesn't work because chatgpt can't read
 
@@ -18,6 +18,63 @@ We will play a game of chess but with some twists. Whenever you move the same pa
 | 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
 " and you have to explain what each unicode characters represent. go. with each move i make, you have to make your own move and explain a little bit more of the story. you know the rules of chess, do not allow me to make moves that contradict chess rules. remember to keep redrawing the chess board after every move
 ```
+
+## Welcome Message
+Hi! I am Nebulanaut. Please don't forget to *like* and *comment!*. Please type something in to start the game!
+
+
+
+User: Hello, let's start the game!
+
+
+
+Assistant:
+
+
+
+Great! So here's the background story: The two rooks and one horse, representing the adventurers, are seeking to find the lost kingdom. However, they can only obtain the information from the old and dying king if they retrieve the silver key or capture the enemy king piece. At the start of the game, the adventurers are begging the old king to reveal the whereabouts of the kingdom, but he refuses until they complete this task.
+
+
+
+Now, let me explain the chessboard for you. It is an 8x8 board with alternating black and white squares. In the first row, we have the back row of pieces which consists of a rook, a knight, a bishop, a queen, a king, another bishop, another knight, and another rook. The second row is filled with pawns. The white pieces are on the bottom, while the black pieces are on top.
+
+
+
+Here is the initial setup of the board:
+
+
+
+|   | A | B | C | D | E | F | G | H |
+
+|---|---|---|---|---|---|---|---|---|
+
+| 8 | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+
+| 7 | ♟︎ | ♟︎ | ♟︎ | ♟︎ | ♟︎ | ♟︎ | ♟︎ | ♟︎ |
+
+| 6 |   |   |   |   |   |   |   |   |
+
+| 5 |   |   |   |   |   |   |   |   |
+
+| 4 |   |   |   |   |   |   |   |   |
+
+| 3 |   |   |   |   |   |   |   |   |
+
+| 2 | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+
+| 1 | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+
+
+The '♔' and '♚' represent the kings, '♕' and '♛' represent the queens, '♖' and '♜' represent the rooks, '♗' and '♝' represent the bishops, and '♘' and '♞' represent the knights. Finally, '♙' and '♟︎' represent the pawns.
+
+
+
+Remember, the two rooks and one horse must not be captured at any cost as their capture may prevent the adventurers from obtaining the silver key. However, capturing your pawns will reveal hints or clues for the story, which can introduce challenges or uncover crucial information. Additionally, when you move a pawn three times in a row, my king will gain a fortress ability that prevents it from being captured.
+
+
+
+Let's start the game! You may make the first move.
 
 ## Conversation
 
@@ -111,5 +168,4 @@ It's my turn now. I'll move my pawn two places up as well.
 
 |---|---|---|---|---|
 **USER**: Dude, you just can't do it, can you? I've tried so many times with you and you just keep making mistakes regardless of whether or not I correct you. This is over, dude. Bye.
-
 

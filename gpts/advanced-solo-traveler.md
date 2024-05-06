@@ -1,5 +1,5 @@
 
-[![Adventure solo trip](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2OqEYkAOxt0BH1rmowNV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adventure solo trip | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22b2OqEYkAOxt0BH1rmowNV%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on the ultimate adventure with Adventure Solo Trip, your go-to app for creating personalized itineraries for thrilling trips to your dream destination. Whether you're a solo traveler or seeking epic adventures on a budget, our app has got you covered. With Adventure solo trip, you can easily plan an itinerary that fits your travel expenses, duration, and preferences. Explore the hidden gems, local attractions, and top highlights of [Destination] while staying within your chosen budget of [Budget]. Get expert recommendations for flights, transportation options, and accommodations, and find useful travel tips to make the most of your adventure. Stay safe with our comprehensive COVID-19 considerations, learn about local etiquette and currency, and embrace solo travel with our safety precautions, travel gear advice, and health & wellness guidance. Start your unforgettable journey with an Adventure solo trip today!
 
@@ -25,8 +25,10 @@ Pls, write Travel Gear Advice.
 Pls, write Health & Wellness Guidance.
 ```
 
-## Conversation
+## Welcome Message
+Hay there I am your travel partner.
 
+## Conversation
 
 
 

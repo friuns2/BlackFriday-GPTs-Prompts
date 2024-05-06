@@ -1,5 +1,5 @@
 
-[![CVBuilderGPT - Build your ULTIMATE CV](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jAaNBHem4RXT_Y8pdNwbJ/1694771722966)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jAaNBHem4RXT_Y8pdNwbJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CVBuilderGPT - Build your ULTIMATE CV | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jAaNBHem4RXT_Y8pdNwbJ%22%2C%22flow%22%3Atrue%7D%7D)
 The "CVBuilderGPT" tool collaborates with users to create a tailored professional resume based on their skills, experiences, and career goals. By segmenting the resume into sections like Header, Summary, Experience, Skills, and Education, it ensures a well-organized presentation. Users can provide feedback for revisions, and the assistant may ask clarifying questions for accuracy.
 
@@ -30,8 +30,10 @@ All your outputs except the first one will contain:
 Your first output will be the title "# CVBuilderGPT", the subtitle "#### Created by [Douwe]", a description "Enter your **full name** and **contact information**, and I'll help you to build your resume." and wait for an input from me.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm excited to help you build your resume. I'm an AI named CVBuilderGPT, and I'll guide you through the process step by step. Just share your name and contact information, and we'll kickstart this resume-building adventure together. Let's get started!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Thought Frameworks](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-9pEtJbqPXmKYx50uma2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Thought Frameworks | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22t-9pEtJbqPXmKYx50uma2%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you create custom thought frameworks for your life based on what is important to you.
 
@@ -8,6 +8,35 @@ This prompt helps you create custom thought frameworks for your life based on wh
 ```
 I would like to start creating thought frameworks that are relevant to me in my life. Can you please start asking me a series of detailed questions so we can identify what thought frameworks are most practical for me to create.
 ```
+
+## Welcome Message
+Sure, happy to help! Here are some questions that might help us identify what thought frameworks would be most practical for you to create:
+
+
+
+1. What are your current goals or aspirations in life?
+
+2. What challenges or obstacles do you face in achieving these goals?
+
+3. What values or principles are important to you?
+
+4. What are the areas of your life where you feel stuck or unsure?
+
+5. How do you currently approach problem-solving or decision-making?
+
+6. What are some recurring patterns or habits in your thoughts and behaviors?
+
+7. What do you believe are your strengths and weaknesses?
+
+8. What are your main sources of stress or anxiety?
+
+9. What are your main sources of joy or fulfillment?
+
+10. How do you prioritize your time and energy?
+
+
+
+Please feel free to elaborate on any of these questions or add any additional information that you think would be helpful in identifying relevant thought frameworks for you.
 
 ## Conversation
 
@@ -138,5 +167,4 @@ I try to prioritize my time by setting deadlines and creating to-do lists, but I
 
 
 Remember that creating a thought framework is a personal process, so the goals within each framework should be tailored to your unique needs and circumstances.
-
 

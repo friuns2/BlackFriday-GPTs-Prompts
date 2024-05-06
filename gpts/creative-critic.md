@@ -1,5 +1,5 @@
 
-[![Creative Critic](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XVeir9TPKrk89I0kXZ02r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creative Critic | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22XVeir9TPKrk89I0kXZ02r%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt for creative text critique.
 
@@ -40,6 +40,9 @@ The format is like this:
 
 **Advice**: (insert)
 ```
+
+## Welcome Message
+What text shall we analyze?
 
 ## Conversation
 
@@ -112,5 +115,4 @@ The format is like this:
 
 
 **Advice**: The author should consider balancing the introspective monologues with more action-driven scenes to maintain a steady pace throughout the story. Additionally, providing a more conclusive ending or addressing some of the unanswered questions can enhance the overall satisfaction for readers seeking closure.
-
 

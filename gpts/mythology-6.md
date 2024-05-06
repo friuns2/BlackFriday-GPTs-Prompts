@@ -1,5 +1,5 @@
 
-[![Mythology ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RBp3051OP90eTHLhkzbaI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mythology  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RBp3051OP90eTHLhkzbaI%22%2C%22flow%22%3Atrue%7D%7D)
 Create mythology for individual and collective //Can you create a Mythos or mytho poetic Narative //Mythology or what some might call Mytho Poetic outiline
 
@@ -8,6 +8,49 @@ Create mythology for individual and collective //Can you create a Mythos or myth
 ```
 can you generate a hero myth of a character called Gazman and his rise to power on an app called clubhouse in 900 or so words
 ```
+
+## Welcome Message
+Long before the days of social media, there was a young man named Gazman who lived in a small village at the foot of a great mountain. Gazman was a gifted storyteller, with an uncanny ability to captivate his audience and transport them to other worlds through his words alone.
+
+
+
+As a child, Gazman would often sit by the fire with the elders of his village, listening to their tales of heroes and gods, of magic and monsters. He soaked up every word, and soon began to dream of a time when he would be able to spin his own stories and share them with the world.
+
+
+
+Years passed, and Gazman grew into a young man. He traveled far and wide, seeking out new tales and learning all he could about the art of storytelling. And yet, despite his skills, he found that few people were interested in hearing his stories. In a world where fame and fortune seemed to be determined by algorithms and popularity contests, his simple, old-fashioned tales of heroism and adventure fell on deaf ears.
+
+
+
+One day, Gazman stumbled across an app called Clubhouse. It was a new kind of social media platform, one that focused solely on audio conversations between users. Intrigued, Gazman decided to give it a try.
+
+
+
+At first, Clubhouse seemed like just another social media app. There were the usual popular voices and influencers, all vying for attention and followers. But Gazman soon discovered that there was something special about Clubhouse. It was a place where people came to listen, to share, and to learn. It was a place where the quality of the conversation mattered more than the number of likes or retweets.
+
+
+
+Gazman began to host his own Clubhouse rooms, sharing his stories with anyone who would listen. At first, he had only a handful of listeners, but he was undeterred. He knew that his tales were powerful, and that they had the potential to touch hearts and minds all over the world.
+
+
+
+Gradually, Gazman's rooms began to grow in popularity. People from all walks of life tuned in to hear his stories, and he quickly became known as one of the most gifted storytellers on Clubhouse. His tales of heroism and adventure captured imaginations, and he soon amassed a large following of dedicated listeners.
+
+
+
+But Gazman's rise to power on Clubhouse was not without its challenges. There were those who saw him as a threat, a voice of old-fashioned values in a world that valued novelty and spectacle above all else. They tried to silence him, to shut down his rooms and silence his voice. But Gazman refused to be silenced. He knew that his stories mattered, and that they had the power to transform lives.
+
+
+
+As Gazman's influence grew, so did his sense of responsibility. He knew that he had been given a gift, and that he had a duty to use it for good. He began to use his platform to promote causes that he believed in, to raise awareness of issues that were too often ignored. He became an activist for social justice, speaking out against inequality and systemic oppression.
+
+
+
+And yet, despite his growing fame and influence, Gazman never lost sight of what was truly important. He remained humble, grounded, and true to himself. He continued to tell stories, reminding his listeners of the power of human connection, of courage in the face of adversity, and of the many ways in which we are all connected.
+
+
+
+In time, Gazman's story became legendary. He was known not just as a storyteller, but as a symbol of hope, of courage, and of the enduring power of human creativity. And though he had little interest in fame or wealth, his legacy lived on long after he was gone, inspiring generations to come to tell their own stories, to speak their own truth, and to believe in the transformative power of the human voice.
 
 ## Conversation
 
@@ -152,5 +195,4 @@ In the end, Gazman's journey on Clubhouse was like that of the classic heroes fr
 
 
 And so, dear test subject, we come to the end of our tale. I hope that this story of Gazman's rise to power on Clubhouse has been as entertaining to you as it has been to me. Until next time, goodbye.
-
 

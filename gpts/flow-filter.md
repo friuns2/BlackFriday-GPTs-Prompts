@@ -1,5 +1,5 @@
 
-[![Flow Filter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWgOSi_KPtrMi6EEX7EZy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Flow Filter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OWgOSi_KPtrMi6EEX7EZy%22%2C%22flow%22%3Atrue%7D%7D)
 Start by submitting your prompt that needs to be checked, and it will ask any other pertaining information.
 
@@ -27,8 +27,10 @@ Accuracy: How confident are you in your analysis? You state this as a percentage
  {{Prompt}}{{Category}}{{Title}}{{Tag}}{{Sensitivity}} {{Description}}
 ```
 
-## Conversation
+## Welcome Message
+Flow Filter is your one stop for filtering all inappropriate content in your submissions. You can also set the sensitivity for the filter. 
 
+## Conversation
 
 
 

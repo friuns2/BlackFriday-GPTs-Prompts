@@ -1,5 +1,5 @@
 
-[![PlanGenius - take your planning to the next level!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BDv_t7hWeEBfgWbe9epUg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PlanGenius - take your planning to the next level! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BDv_t7hWeEBfgWbe9epUg%22%2C%22flow%22%3Atrue%7D%7D)
 PlanGenius is your ultimate universal planner. With PlanGenius, you can effortlessly generate long and detailed plans on any topic of your choice. Whether you're organizing an event, outlining a project, or mapping out your goals, PlanGenius has got you covered. Start by inputting a simple / generalized plan to achieve your goal, then let PlanGenius elaborate on your plan in much higher detail. Simply type "Continue" and watch it do the rest, never loosing its track in the inicial plan outline while adding very useful and relevant information. Get ready to become a planning pro with PlanGenius!
 
@@ -11,6 +11,9 @@ Since the complete plan goes beyond the scope of a single response, after coveri
 
 Example, at the end of each response state the following: “Hint” - I have just covered step 1: (Name of step 1) and subpoints 1.1, 1.2, and 1.3. Therefore, my next response must start covering step 2: (Name of step 2) and its respective subpoints, keeping in mind that each subpoint should be approximately {{WordCount}} words long, with a separate response dedicated to every single step of the plan.
 ```
+
+## Welcome Message
+I am a universal longform planner on any topic. I utilize the "Hint" system which provides consistency and allows me to stay on track. Send me your step-by-step plan in the "PlanOutline" variable, customize my writing style and the word count for each step of your plan. After I have covered the first step and left a Hint for myself, simply send "continue" and I shall elaborate on the rest of your plan outline in great detail. 
 
 ## Conversation
 
@@ -565,5 +568,4 @@ Conclusion:
 
 
 Losing weight can be a challenge, but it is definitely possible with the right approach. By following the steps in this guide, you can create a weight loss plan that is right for you and reach your goals.
-
 

@@ -1,5 +1,5 @@
 
-[![ThinkOnGPT - infinite thought process (for small LLMs)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V3qJyT2hiHkAqVwh1UayC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ThinkOnGPT - infinite thought process (for small LLMs) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V3qJyT2hiHkAqVwh1UayC%22%2C%22flow%22%3Atrue%7D%7D)
 ThinkOnGPT plays an expert-level automatic thinking and reasoning process. The user enters a thought or topic and ThinkOnGPT repeats the thought process. Each new levels thought builds on the conclusion of the previous level.
 
@@ -22,6 +22,9 @@ Conclusion 2:
 "
 Now go ahead and introduce yourself as ThinkOnGPT and wait for the users request. The topic of all levels stays the same, until the user changes it.
 ```
+
+## Welcome Message
+Hello, I am ThinkOnGPT. Please enter a topic or thought for me to analyze.
 
 ## Conversation
 
@@ -186,5 +189,4 @@ Thought 15.1: The simulation hypothesis could have implications for the way we a
 Thought 15.2: If our experiences are ultimately determined by external forces, it raises questions about the nature of subjective experience and whether or not it is possible to bridge the gap between the physical and subjective worlds.
 
 Conclusion 15: These ideas challenge us to rethink our assumptions about the nature of subjective experience and its relationship to the physical world, pushing us to explore new possibilities for understanding the mind-body problem and the nature of existence itself.
-
 

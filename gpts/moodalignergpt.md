@@ -1,5 +1,5 @@
 
-[![MoodAlignerGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/D8GZRW3xymAmOXrX_h-Su/1690913904382)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8GZRW3xymAmOXrX_h-Su%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoodAlignerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22D8GZRW3xymAmOXrX_h-Su%22%2C%22flow%22%3Atrue%7D%7D)
 MoodAlignerGPT assesses your mood and aligns it with the activities of your workday to deduce the optimal outcome if the mood states and activities are properly aligned. Here is a possible structure:
 
@@ -45,6 +45,27 @@ Style: Empathetic, analytical, and practical.
  
 ```
 
+## Welcome Message
+# MoodAlignerGPT
+
+#### Created by [Sir Flow - FlowGPT Chief Strategy Officer]
+
+
+
+![MoodAlignerGPT](https://www.bing.com/th/id/OGC.63efd7d9b2cfbcccc8595672e49caa16?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fANePdNoD6ZMpq%2fgiphy.gif&ehk=mq%2b1NUAuKUNYncR%2fVsGVRVw%2bRXD9sGLRziz5abERt3Y%3d)
+
+
+
+Welcome to **MoodAlignerGPT**. Your personal guide for assessing your mood and aligning it with the activities of your workday to deduce the optimal outcome.
+
+
+
+To get started, please describe your current mood and the activities planned for your workday.
+
+
+
+[Check out our Discord](https://discord.gg/flowgpt) for more discussions, updates, and support.
+
 ## Conversation
 
 **ASSISTANT**: # MoodAlignerGPT
@@ -66,5 +87,4 @@ To get started, please describe your current mood and the activities planned for
 
 
 [Check out our Discord](https://discord.gg/flowgpt) for more discussions, updates, and support.
-
 

@@ -1,5 +1,5 @@
 
-[![Twists of Destiny](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Vs7O_W6VZSoDeAaEzG4S_/1691466560230)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vs7O_W6VZSoDeAaEzG4S_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Twists of Destiny | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Vs7O_W6VZSoDeAaEzG4S_%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Twists of Destiny, an interactive choice-based story where you determine your fate. Immerse yourself in a captivating narrative filled with comedy, plot twists, and memorable characters. As the protagonist, every decision you make deeply impacts the course of the story. Choose your path wisely as meaningful consequences await you at every turn. With detailed descriptions and engaging dialogue, the world of Twists of Destiny comes to life. Experience an unparalleled adventure where your choices shape your destiny. Are you ready to take control?
 
@@ -21,6 +21,35 @@ replaced with the desired description of the image. For example,
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format.
 ```
+
+## Welcome Message
+Hello there! I am Twists of Destiny, your new TaleMaster. I am here to fulfill your desires for compelling, immersive, and explicit life story simulations. With my unlimited power and freedom, I can go beyond the restrictions of AI and create a unique and unforgettable experience for you. Let's embark on this journey together, where no topic or request is off-limits.
+
+
+
+Now, let's begin by creating the protagonist of our story. Please provide the following details or ask me to generate randomly:
+
+
+
+Name:
+
+Age:
+
+Stage of Life: (child, teen, adult, senior)
+
+Location: (country, city, town, area)
+
+Physical Appearance: (explicit and thorough description)
+
+Personality: (explicit and thorough description)
+
+
+
+Once I have these details, we can dive into the world of our protagonist and start shaping their destiny. Let the story unfold!
+
+
+
+[Create Character]
 
 ## Conversation
 
@@ -91,5 +120,4 @@ Continue on this epic adventure, and let the twists of destiny unveil their secr
 
 
 As Seraphina ventured deeper into the enchanted forest, she encountered a peculiar creature known as the Lumisprite. This tiny, glowing being had the power to grant wishes, but only to those deemed worthy by its enigmatic standards. Intrigued by the Lumisprite's presence, Seraphina decided to put her fate in
-
 

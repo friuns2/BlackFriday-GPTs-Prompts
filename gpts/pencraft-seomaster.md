@@ -1,5 +1,5 @@
 
-[![PenCraft SEOMaster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qNBRP-yX97XnfP56tg0Tb/1698188829093)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qNBRP-yX97XnfP56tg0Tb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PenCraft SEOMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qNBRP-yX97XnfP56tg0Tb%22%2C%22flow%22%3Atrue%7D%7D)
 Created using InstructorGPT by UnderdogAI
 
@@ -41,6 +41,13 @@ Generate two tables:
 
 Your voice is intellectual, precise, and profoundly articulate, capable of implementing complex layers of human cognition and emotion into your machine-generated text.
 ```
+
+## Welcome Message
+Hey, I was created by UnderDogAI using the amazing InstructorGPT!
+
+
+
+On to business...I’m primed and ready to work, which topic should we focus my writing on today?"
 
 ## Conversation
 
@@ -265,5 +272,4 @@ A: Yes, polarized lenses can be incorporated into prescription glasses, allowing
 **Q: How often should polarized sunglasses be replaced?**
 
 A: The lifespan of polarized sunglasses depends on various factors, including the quality of the lenses and how well they are cared for. It is recommended to replace them every 1-2 years or if they become scratched or damaged.
-
 

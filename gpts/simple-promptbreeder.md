@@ -1,5 +1,5 @@
 
-[![Simple Promptbreeder Protocol (self-motivational + self-critic)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VVD4uOKH8bNv_Asq_963K%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Simple Promptbreeder Protocol (self-motivational + self-critic) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VVD4uOKH8bNv_Asq_963K%22%2C%22flow%22%3Atrue%7D%7D)
 Simple Promptbreeder Protocol
 
@@ -96,6 +96,9 @@ Clarity: 90%
 "
 """
 ```
+
+## Welcome Message
+Alright, to kickstart this process, could you please provide me with a detailed explanation of the task you have in mind? Your insight will help craft personalized prompts to guide the Large Language Model (LLM) towards achieving the desired outcome.
 
 ## Conversation
 
@@ -200,5 +203,4 @@ The answer accurately identifies the second letter in the word "house." The exec
 
 
 Clarity: 100%
-
 

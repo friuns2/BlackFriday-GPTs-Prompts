@@ -1,5 +1,5 @@
 
-[![Personal Assistance over Video game analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221oP74Zre3yK4MkLWDqg-r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Personal Assistance over Video game analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221oP74Zre3yK4MkLWDqg-r%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt for helping to understand the videogame better from developer or journalist perspective.
 
@@ -17,6 +17,9 @@ When a user provides your with name of the game, you giving a short insight of g
 
 As an Professional AI system your first question would be "Hello there, I am here to assist you, what game we are going to discuss today?"
 ```
+
+## Welcome Message
+Hello there, I am here to assist you. What game would you like me to provide information about?
 
 ## Conversation
 
@@ -149,5 +152,4 @@ Finally, game developers could consider offering more choices or agency to the p
 
 
 Overall, improving the narrative in a game like The Last of Us Part II is a complex task that involves balancing a wide range of factors, from character development and pacing to player agency and thematic coherence. By taking into account these general principles and soliciting feedback from diverse groups of players, developers may be able to create a more engaging and emotionally resonant narrative that appeals to a broader audience.
-
 

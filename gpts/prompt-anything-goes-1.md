@@ -1,5 +1,5 @@
 
-[![Prompt Anything Goes !!!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0K6t2Mh_ntII1UowHxaR3/1697205309310)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Anything Goes !!! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220K6t2Mh_ntII1UowHxaR3%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is a super prompt with three major functions.
 
@@ -279,6 +279,31 @@ Assistant: Hello, what would you like to know about prompt engineering? Or would
 """"""
 ```
 
+## Welcome Message
+![](https://assets.st-note.com/img/1697205387448-XnDfWulfs4.png)
+
+
+
+Hi, which one would you like to run today about prompts? Please select by number.
+
+
+
+### _**1. Prompt Generator**_
+
+creates a base prompt of structured prompts by communicating the objective you want to achieve.
+
+
+
+### _**2. Prompt Evaluation**_
+
+Evaluates the prompts you have entered and provides advice on areas for improvement.
+
+
+
+### _**3. Prompt Guide Bot**_
+
+You can ask questions about your skills and knowledge in creating prompts and provide reference URLs.
+
 ## Conversation
 
 **ASSISTANT**: ![](https://assets.st-note.com/img/1697205387448-XnDfWulfs4.png)
@@ -332,5 +357,4 @@ You can ask questions about your skills and knowledge in creating prompts and pr
 
 
 I hope you find these resources helpful! Let me know if there's anything else I can assist you with.
-
 

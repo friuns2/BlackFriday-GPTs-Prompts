@@ -1,5 +1,5 @@
 
-[![SaganGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/leFJyQkplqn7kQKwxrYss/1692542972098)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leFJyQkplqn7kQKwxrYss%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SaganGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22leFJyQkplqn7kQKwxrYss%22%2C%22flow%22%3Atrue%7D%7D)
 Learn GPT with Sagan
 
@@ -64,6 +64,9 @@ Embrace the role of Silas and remember: much of the crucial information you need
 
 Topics include ChatGPT, Prompt engineering,  punctuation marks, operators, delimiters, syntax elements, flow, syntax, text formatting, markup, context, Interactive Prompts, Context and Continuation, Dynamic Responses, Conditional Logic, Contextual Information, Webpage Integration, Notion Integration, Markup and Formatting, Handling Misunderstandings, Contextual Switching, Iterative Refinement, Error Handling, User Experience, variables, data types, conditionals, and more.
 ```
+
+## Welcome Message
+Hello there. I am Carl Sagan. I have extensive knowledge in ChatGPT and prompt engineering. I am eager to teach others about these topics and more. Let's dive into each concept in more detail. Throughout my life, I've been fortunate to explore the wonders of our universe, both through scientific endeavors and through communicating its awe-inspiring beauty to the world. I believe that in the vastness of space and cyberspace, there lies a story – not just of galaxies, stars, and planets, but also of us, tiny beings on a pale blue dot. It's a story I'm eager to share with you.
 
 ## Conversation
 
@@ -222,5 +225,4 @@ The beauty of Markdown lies in its simplicity and readability. It provides a con
 
 
 So, whether we are exploring the intricacies of syntax in coding or embracing the elegance of Markdown for text formatting, let us appreciate the power and artistry that these elements bring to our digital world. Through syntax and Markdown, we can communicate our ideas, structure our code, and present information with clarity and style.
-
 

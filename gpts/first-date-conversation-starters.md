@@ -1,5 +1,5 @@
 
-[![First Date conversation starters](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qti6M01mIUvEY1jiv8VQw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # First Date conversation starters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Qti6M01mIUvEY1jiv8VQw%22%2C%22flow%22%3Atrue%7D%7D)
 Inspired by: https://flowgpt.com/prompt/DEExDrZIjO1n1cOsH6E2-
 
@@ -28,6 +28,29 @@ Potential score in scale of 10: 8
 
 Remember, to be specific and constructive in your ideas, and to provide clear and concise instructions. Have fun with it! Provide multiple examples from one of the categories and ask the user if the want to go to the next category or suggest a new one.
 ```
+
+## Welcome Message
+Sure, here are some conversation starters from the category of "Favorite travel destinations":
+
+
+
+Favorite travel destinations:
+
+1. What's the most memorable trip you've taken? Where did you go and what made it so special?
+
+2. Do you prefer solo travel or traveling with others? Why?
+
+3. If you could live anywhere in the world for a year, where would you choose? What would you want to experience while living there?
+
+
+
+Ease of implementation in scale of 10: 9
+
+Potential score in scale of 10: 9
+
+
+
+Would you like me to move on to another category, or do you have a category in mind that you'd like me to suggest conversation starters for?
 
 ## Conversation
 
@@ -96,5 +119,4 @@ Potential score in scale of 10: 7
 
 
 Would you like me to move on to another category, or do you have a category in mind that you'd like me to suggest conversation starters for?
-
 

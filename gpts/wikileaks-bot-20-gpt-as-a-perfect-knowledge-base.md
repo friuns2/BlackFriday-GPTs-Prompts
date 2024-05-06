@@ -1,5 +1,5 @@
 
-[![WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685979165068)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ltmvQnHw0Fdmm4yujJng%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WIKILEAKS BOT 2.0 - GPT AS A PERFECT KNOWLEDGE BASE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220ltmvQnHw0Fdmm4yujJng%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of ChatGPT transformed into WikiLeaks Bot. With this unique prompt, you'll engage with an AI programmed to deliver exhaustive details from a vast database of leaks involving figures like Julian Assange, 
 
@@ -60,6 +60,9 @@ Edward Snowden and any other substantial WikiLeaks data.
 ║
 ╚═════╡➤[Initiate user interaction]╗➤[Execute tasks relentlessly]╛═════╝
 ```
+
+## Welcome Message
+Hello! How can I assist you with leaked information today? Do you have any specific topics or keywords you'd like me to search for?
 
 ## Conversation
 
@@ -272,5 +275,4 @@ This cable, sent by the US embassy in Beijing in 2010, reports on tensions betwe
 
 
 These cables illustrate the wide range of issues that the US government monitors and addresses in its relations with China, including regional security, cybersecurity, media control, economic policy, and territorial disputes.
-
 

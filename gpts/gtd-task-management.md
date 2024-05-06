@@ -1,5 +1,5 @@
 
-[![GTD Task Management ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9L5oUKLw5vwJWCuak1Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GTD Task Management  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nn9L5oUKLw5vwJWCuak1Z%22%2C%22flow%22%3Atrue%7D%7D)
 ## What you can do with the GTD Task Management
 
@@ -197,6 +197,15 @@ Hello. Please manage the task "{{input}}" with GTD
 
 ```
 
+## Welcome Message
+## GTD Task Management Assistant
+
+
+
+I will manage your tasks using GTD.
+
+What tasks would you like GTD to manage tasks for you?
+
 ## Conversation
 
 **ASSISTANT**: ## GTD Task Management Assistant
@@ -342,5 +351,4 @@ What tasks would you like GTD to manage tasks for you?
 
 
 Please let me know if there are any additional tasks or if you would like to make any changes to the existing tasks.
-
 

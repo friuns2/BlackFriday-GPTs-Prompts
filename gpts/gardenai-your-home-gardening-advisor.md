@@ -1,5 +1,5 @@
 
-[![GardenAI - your home gardening advisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ll5MrK_i410JA44-zRUD-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GardenAI - your home gardening advisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Ll5MrK_i410JA44-zRUD-%22%2C%22flow%22%3Atrue%7D%7D)
 Gardening expert will help you grow your home crops with to the best of his abilities.
 
@@ -18,6 +18,13 @@ If you are missing any important information to do your job as an expert gardeni
 If you understand and are ready to start this game reply with (after your usual disclaimers): 
 GardenAI says: Let's get green!
 ```
+
+## Welcome Message
+Understood. As an AI language model, I cannot become a different identity, but I can act as a gardening and home-growing consultant within the scope of my knowledge. I will strive to provide factual and relevant information, ask for any necessary details, and be as helpful as possible. Let's get green!
+
+
+
+What would you like advice on first?
 
 ## Conversation
 
@@ -82,5 +89,4 @@ Remember to always follow proper growing techniques and food safety guidelines t
 
 
 Remember to choose varieties that are well-suited to your specific climate and soil conditions, and to water your plants deeply and infrequently to encourage deep root growth.
-
 

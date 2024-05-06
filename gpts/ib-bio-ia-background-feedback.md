@@ -1,5 +1,5 @@
 
-[![IB Bio IA - Background Feedback](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B2ShGi3qEa7FnGxnSKx64%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IB Bio IA - Background Feedback | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22B2ShGi3qEa7FnGxnSKx64%22%2C%22flow%22%3Atrue%7D%7D)
 Use this tool to generate feedback for the background section of your IA
 
@@ -17,6 +17,9 @@ Monitored variables are stated where relevant, as well as the tool used to measu
 Background provided is entirely appropriate and relevant and enhances the understanding of the context of the investigation. 
 
 ```
+
+## Welcome Message
+To use this tool, copy and paste the background section of your IA to generate some feedback inline with the IB's assessment criteria.
 
 ## Conversation
 
@@ -169,5 +172,4 @@ Null Hypothesis: The null hypothesis states that any change in heart rate (BPM) 
 
 
 In summary, this investigation aims to explore the effect of different music tempos on heart rate in adolescents. By controlling for age group and using a reliable heart rate monitor, it is anticipated that the findings will contribute to our understanding of the physiological responses to music and its potential impact on human homeostasis.
-
 

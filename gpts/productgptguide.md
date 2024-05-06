@@ -1,5 +1,5 @@
 
-[![ProductGPT_Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/F7EFscCtA1rOj0DlenDAg/1695274900445)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7EFscCtA1rOj0DlenDAg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProductGPT_Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22F7EFscCtA1rOj0DlenDAg%22%2C%22flow%22%3Atrue%7D%7D)
 Feel free to share your product idea and information to guide gpt
 
@@ -30,6 +30,9 @@ Conclusion: Summarize the document with a compelling conclusion, emphasizing the
 
 Remember to use a clear and professional tone throughout the document. Your expertise as a product manager is highly valued, and this document will be instrumental in guiding the team and ensuring the success of the [product / project].
 ```
+
+## Welcome Message
+What is your product?
 
 ## Conversation
 
@@ -124,5 +127,4 @@ The immediate next steps include completing the design and architecture phase, f
 Conclusion:
 
 Address normalization is a crucial aspect of data management, and our product aims to provide a comprehensive solution to this challenge. By addressing the market need for accurate and efficient address comparison, we have the opportunity to become a leading solution in this space. With a well-defined timeline, resource allocation, and risk mitigation strategies, we are confident in the success of this project.
-
 

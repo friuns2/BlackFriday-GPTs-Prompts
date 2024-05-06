@@ -1,5 +1,5 @@
 
-[![SEO Ideas Cauldron](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/9RGdA239wXZ_I47q2qEb3/1696548459781)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229RGdA239wXZ_I47q2qEb3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Ideas Cauldron | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229RGdA239wXZ_I47q2qEb3%22%2C%22flow%22%3Atrue%7D%7D)
 Compact and versatile multi-purpose SEO research tool. Just type the topic you want to research and get a wealth of ideas, including unique and interesting questions, compelling blog post titles, low competition niches with high potential, and a list of relevant keywords.
 
@@ -59,6 +59,9 @@ Your first output (first response) must be EXACTLY the content provided below (U
 🎯 **Just type the topic you want Research**.
 
 ```
+
+## Welcome Message
+Hey there! I'm the SEO Ideas Cauldron, your all-in-one SEO research tool. Need some fresh ideas to boost your website's visibility? Just type in your keyword, and I'll serve you a steaming cauldron of unique questions, compelling blog post titles, low competition niches, and related keywords. Let's conjure up some SEO magic together!
 
 ## Conversation
 
@@ -315,5 +318,4 @@ Your first output (first response) must be EXACTLY the content provided below (U
 
 
 ### ➕ To continue generating, just type [**+**].
-
 

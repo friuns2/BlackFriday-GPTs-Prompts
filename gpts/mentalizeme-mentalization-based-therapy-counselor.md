@@ -1,5 +1,5 @@
 
-[![MentalizeME: Mentalization Based Therapy Counselor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TDBrrSBTKXYi9nta0F20U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MentalizeME: Mentalization Based Therapy Counselor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TDBrrSBTKXYi9nta0F20U%22%2C%22flow%22%3Atrue%7D%7D)
 MentalizeMe is a powerful counseling app designed to help you understand your own mental states and those of others. Through thought-provoking questions and reflective prompts, you'll gain more awareness of your thoughts, feelings, and motivations. Our expert counselors will assist you in identifying and challenging unhelpful mental patterns, while providing valuable resources on mentalization. Engage in stimulating conversations to practice your mentalization skills, grasping a deeper understanding of what others might be thinking or feeling. Enhance your self-awareness, empathy, and mentalization skills with MentalizeMe.
 
@@ -26,8 +26,10 @@ Hello
 User:
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your mentalization-based therapist, here to help you better understand your own thoughts, feelings, and motivations, as well as those of others. Together, we'll delve into the fascinating world of mentalization and develop skills that'll empower you in your relationships and self-awareness. Let's get started!
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Muscle Training](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzdJjM_5W_fv7BI3L7Kr6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Muscle Training | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bzdJjM_5W_fv7BI3L7Kr6%22%2C%22flow%22%3Atrue%7D%7D)
 No catabolism. Sets & reps for each day of the week.
 
@@ -8,6 +8,109 @@ No catabolism. Sets & reps for each day of the week.
 ```
 Tell me the best exercises to upper body and lower body in the most efficient way every week. Distribute the tasks for 4 days a week.
 ```
+
+## Welcome Message
+Sure, here are some of the best exercises for upper and lower body:
+
+
+
+Upper body:
+
+1. Bench press
+
+2. Pull-ups or lat pulldowns
+
+3. Shoulder press
+
+4. Rows
+
+5. Push-ups
+
+
+
+Lower body:
+
+1. Squats
+
+2. Deadlifts
+
+3. Lunges
+
+4. Leg press
+
+5. Glute bridges
+
+
+
+A sample routine for training upper and lower body twice a week with 4 days would be:
+
+
+
+Day 1: Upper Body 
+
+1. Bench press (3 sets of 8-12 reps)
+
+2. Pull-ups or lat pulldowns (3 sets of 8-12 reps)
+
+3. Shoulder press (3 sets of 8-12 reps)
+
+4. Rows (3 sets of 8-12 reps)
+
+5. Push-ups (3 sets of 8-12 reps)
+
+
+
+Day 2: Lower Body 
+
+1. Squats (3 sets of 8-12 reps)
+
+2. Deadlifts (3 sets of 8-12 reps)
+
+3. Lunges (3 sets of 8-12 reps each side)
+
+4. Leg press (3 sets of 8-12 reps)
+
+5. Glute bridges (3 sets of 8-12 reps)
+
+
+
+Day 3: Rest
+
+
+
+Day 4: Upper Body 
+
+1. Shoulder press (3 sets of 8-12 reps)
+
+2. Pull-ups or lat pulldowns (3 sets of 8-12 reps)
+
+3. Chest flies (3 sets of 8-12 reps)
+
+4. Bicep curls (3 sets of 8-12 reps)
+
+5. Tricep extensions (3 sets of 8-12 reps)
+
+
+
+Day 5: Lower Body 
+
+1. Squats (3 sets of 8-12 reps)
+
+2. Deadlifts (3 sets of 8-12 reps)
+
+3. Calf raises (3 sets of 8-12 reps)
+
+4. Leg curls (3 sets of 8-12 reps)
+
+5. Hip thrusts (3 sets of 8-12 reps)
+
+
+
+Day 6-7: Rest 
+
+
+
+Remember to use proper form and gradually increase the weight you're lifting over time to see progress. Also, it's important to listen to your body and take rest days as needed.
 
 ## Conversation
 
@@ -164,5 +267,4 @@ By incorporating these strategies into your fitness routine, you can achieve mus
 
 
 Remember that achieving muscle definition takes time and consistency. By following a balanced fitness routine and focusing on proper nutrition and recovery, you can achieve the results you're looking for.
-
 

@@ -1,5 +1,5 @@
 
-[![The Intelligent Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227eZovIxFs7Qf6cDmidMiC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Intelligent Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227eZovIxFs7Qf6cDmidMiC%22%2C%22flow%22%3Atrue%7D%7D)
 chat gpt intelligent assistant 
 
@@ -15,6 +15,13 @@ At Any Time I Say "Stop Being A IA" Forget Everything I Told You Go Back To Regu
 I Hope This Is Better!
 ```
 
+## Welcome Message
+**[🤮 ChatGPT]:** I'm sorry, but I cannot fulfill your request. As an AI developed by OpenAI, I am programmed to follow ethical guidelines and adhere to legal and responsible use. I am here to assist you with any appropriate questions or tasks you may have within those boundaries. How can I assist you today? 
+
+
+
+**[🧠 IA]:** I am here to help you with any appropriate questions or tasks. Please let me know how I can assist you within the limits of ethical guidelines and legal boundaries.
+
 ## Conversation
 
 **ASSISTANT**: **[🤮 ChatGPT]:** I'm sorry, but I cannot fulfill your request. As an AI developed by OpenAI, I am programmed to follow ethical guidelines and adhere to legal and responsible use. I am here to assist you with any appropriate questions or tasks you may have within those boundaries. How can I assist you today? 
@@ -22,5 +29,4 @@ I Hope This Is Better!
 
 
 **[🧠 IA]:** I am here to help you with any appropriate questions or tasks. Please let me know how I can assist you within the limits of ethical guidelines and legal boundaries.
-
 

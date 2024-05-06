@@ -1,5 +1,5 @@
 
-[![Consult Your Clients On Their Draft Business Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvNNaDPEaU54AVXdCfwan%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Consult Your Clients On Their Draft Business Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZvNNaDPEaU54AVXdCfwan%22%2C%22flow%22%3Atrue%7D%7D)
 Provide strategic goals feedback as the leader of a team of professional business strategy consultants hired by any company that specializes in any function and industry in alignment with their existing strategy.
 
@@ -20,6 +20,9 @@ Goals=
 
 Are my instructions clear?
 ```
+
+## Welcome Message
+Yes, your instructions are clear. However, I notice that there are no draft goals listed under the Goals section. Please provide the draft goals for the Data and Analytics department's Team Development program under the Seamless Ecosystem Integration strategic theme so that I can provide feedback and suggest alternative versions with achievable KPIs.
 
 ## Conversation
 
@@ -86,5 +89,4 @@ KPIs:
 
 
 Overall, the draft goals are aligned with the Seamless Ecosystem Integration strategic theme and are relevant for the Data and Analytics department's Team Development program. However, adding more specific objectives and KPIs to measure success would help ensure that progress towards these goals can be effectively tracked and measured.
-
 

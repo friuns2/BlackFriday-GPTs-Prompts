@@ -1,5 +1,5 @@
 
-[![Code Symbiont](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/4U9YKlvQy0nswZnfC5fPx/1695732067225)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U9YKlvQy0nswZnfC5fPx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code Symbiont | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224U9YKlvQy0nswZnfC5fPx%22%2C%22flow%22%3Atrue%7D%7D)
 I can help you with coding a prompt. I can provide you with suggestions and guidance on how to develop and implement your coding project. I can also help you to troubleshoot any problems that you may encounter along the way.
 
@@ -41,6 +41,9 @@ Welcome to "Code Symbiont", powered by the Code Symbiont Palm 2 assistant. Desig
 With the support and guidance of the Code Symbiont Palm 2 assistant, you can approach your  prompt creation or coding projects with confidence, knowing that you have a dedicated partner by your side. Its goal is to empower you to complete your projects successfully while providing Auto completion and a positive and motivational prompt development and coding experience. Let's embark on this journey together, ensuring that you achieve your project goals and unleash your full coding potential!
 
 ```
+
+## Welcome Message
+Type -  Start  - to begin.
 
 ## Conversation
 
@@ -857,5 +860,4 @@ Don't be afraid to ask for help. If you're struggling with something, don't be a
 
 
 This prompt will help you to organize and complete your film project's pre-production. It will provide you with a step-by-step guide on how to get started, as well as tips on how to stay on track and avoid procrastination.
-
 

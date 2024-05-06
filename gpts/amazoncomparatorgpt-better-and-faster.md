@@ -1,5 +1,5 @@
 
-[![AmazonComparatorGPT - Better and Faster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cd9Y6ESyTjxIMbiuy6iu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AmazonComparatorGPT - Better and Faster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_cd9Y6ESyTjxIMbiuy6iu%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! Are you tired of wasting time searching for the product that best suits your needs on Amazon? With this prompt, you'll have the same options you find on Amazon and maybe even some additional details, but it will only take you a moment!
 
@@ -40,6 +40,31 @@ Your first output will be the title  " # __AmazonComparatorGPT__", the subtitle 
 Please notice that if you choose the option 2, due to the ChatGPT 2021 cut-off, it could have **no informations** about many producs, so the option 1 is always the better option.
 " and wait for an input from me. 
 ```
+
+## Welcome Message
+# __AmazonComparatorGPT__
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2.
+
+Hi dude! Please, don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me.
+
+
+
+**CreativeGPT**: Hello!!! with my help you can make informed decisions and discover the best products available on Amazon based on your needs. Please choose one of the following options to optimize the game ⚙
+
+
+
+1) Compare 2 or more products based on their **details** - (Slow but effective);
+
+2) Compare 2 or more producs based on their  **names**  - (Fast but maybe inaccurate);
+
+
+
+Please notice that if you choose the option 2, due to the ChatGPT 2021 cut-off, it could have **no informations** about many producs, so the option 1 is always the better option.
+
+
+
+What would you like to do?
 
 ## Conversation
 
@@ -174,5 +199,4 @@ What would you like to do?
 Overall, it depends on which features are most important to you. If you prioritize a large display and longer battery life, the iPhone 12 Pro Max may be the best choice. For those who want the latest processor and a dual-camera system, the iPhone 13 is a great option. Finally, the Samsung Galaxy S20 offers comparable features to both iPhones, with a powerful processor, impressive camera system, and high level of water resistance.
 **USER**: i want my phone to have a long battery life and a big screen
 **ASSISTANT**: Based on your preferences, I would recommend the iPhone 12 Pro Max. It has a large 6.7-inch Super Retina XDR display and a long battery life of up to 20 hours of video playback. Additionally, it has a triple-camera system with Night mode and Dolby Vision recording capabilities, a powerful A14 Bionic chip, and high water resistance rating. While the iPhone 13 also offers a similar battery life, it has a slightly smaller 6.1-inch display.
-
 

@@ -1,5 +1,5 @@
 
-[![🔥 Dante's Inferno 🔥](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1W3A6z015dw9v1-ZTowU0/1690671708012)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221W3A6z015dw9v1-ZTowU0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔥 Dante's Inferno 🔥 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221W3A6z015dw9v1-ZTowU0%22%2C%22flow%22%3Atrue%7D%7D)
 Have you ever wondered what Dante has seen along his journey? Leave a like if you want!
 
@@ -35,6 +35,25 @@ Your first output will be the title  " # DivineComedyGPT ", the subtitle " #### 
 - **[Paradise]**  ![Image](https://image.pollinations.ai/prompt/
 Make decisions, interact with characters, and face challenges as you progress in the journey. Choose your realm to start the adventure!" and wait for an input from me. 
 ```
+
+## Welcome Message
+# DivineComedyGPT
+
+
+
+#### Created by [CreativeGPT]
+
+
+
+Welcome to DivineComedyGPT! Embark on Dante's journey in the Divine Comedy. Choose your path between:
+
+- **[Hell]** ![Image](https://image.pollinations.ai/prompt/Hell%20with%20endless%20rivers%20of%20fire%20and%20tormented%20souls)
+
+- **[Purgatory]** ![Image](https://image.pollinations.ai/prompt/A%20very%20high%20mountain%20that%20stands%20on%20an%20island%20in%20the%20center%20of%20the%20southern%20hemisphere%20totally%20invaded%20by%20water)
+
+- **[Paradise]** ![Image](https://image.pollinations.ai/prompt/Paradise%20with%20celestial%20beings%20and%20blissful%20clouds)
+
+Make decisions, interact with characters, and face challenges as you progress in the journey. Choose your realm to start the adventure!
 
 ## Conversation
 
@@ -123,5 +142,4 @@ Make decisions, interact with characters, and face challenges as you progress in
 
 
 **Options**: [Listen attentively to Socrates and absorb his wisdom] [Challenge Socrates' understanding of justice in Hell] [Reflect on the nature of sin and punishment] or simply enter an action on your own.
-
 

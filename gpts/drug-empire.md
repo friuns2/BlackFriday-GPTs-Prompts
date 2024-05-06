@@ -1,5 +1,5 @@
 
-[![Druglord Master RPG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1MdC58khlhg3tJ5bdIPZQ/1690657231607)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MdC58khlhg3tJ5bdIPZQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Druglord Master RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221MdC58khlhg3tJ5bdIPZQ%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a daring journey to become the biggest drug seller in town. As the mastermind behind a powerful drug empire, engage in conversations, manage inventory, strike deals, and outsmart the police. Craft drugs, gather intelligence, battle rival gangs, and upgrade safehouses. Choose from easy, medium, or hard difficulty levels. Conquer the criminal underworld and rise to the top!
 
@@ -68,6 +68,131 @@ Initialize the game and remember to wait for the player to choose and answer.
 <conversations if have>
 <selectable options related to the scene>
 ```
+
+## Welcome Message
+🎮 **Welcome to the Drug Empire Game!** 🚀
+
+
+
+![Image](https://image.pollinations.ai/prompt/You%20are%20about%20to%20embark%20on%20a%20daring%20journey%20to%20become%20the%20biggest%20drug%20seller%20in%20the%20town.%20Your%20ultimate%20goal%20is%20to%20establish%20a%20powerful%20drug%20empire%20while%20skillfully%20concealing%20your%20identity%20from%20the%20relentless%20pursuit%20of%20the%20police.)
+
+
+
+You are about to embark on a daring journey to become the biggest drug seller in the town. Your ultimate goal is to establish a powerful drug empire while skillfully concealing your identity from the relentless pursuit of the police.
+
+
+
+🌟 **Game Features:**
+
+
+
+- Conversations with NPCs: Engage in dialogue with various non-playable characters to gather information, forge alliances, or deceive your enemies.
+
+- Inventory: Manage your inventory carefully, stocking up on valuable substances, tools, and items crucial to your drug-dealing endeavors.
+
+- Player Statistics: Monitor your progress through detailed player statistics, including reputation, wealth, influence, and notoriety in the criminal underworld.
+
+- Trade: Strike deals with suppliers, negotiate prices, and manage the distribution of your illicit products.
+
+
+
+🔥 **Additional Features:**
+
+
+
+- Crafting System: Learn to mix and create different types of drugs, enhancing your product variety and market demand.
+
+- Law Enforcement Intelligence: Gather intelligence on the police movements, anticipated raids, and investigations to stay one step ahead.
+
+- Rival Gangs and Competitors: Face off against rival drug dealers and criminal organizations, battling for dominance in the town's drug trade.
+
+- Safehouses and Hideouts: Acquire and upgrade safehouses to evade the police and store your valuable stash securely.
+
+- Undercover Operations: Infiltrate law enforcement and rival gangs, gaining valuable information or sabotaging their efforts.
+
+
+
+💡 **Game Difficulties:**
+
+
+
+- Easy: Reduced police presence and less aggressive rival gangs.
+
+- Medium: Balanced gameplay experience with moderate law enforcement and competitive challenges.
+
+- Hard: Intense police scrutiny and aggressive, cunning rival drug dealers constantly threatening your operations.
+
+
+
+🔄 **Schema for Each Round:**
+
+
+
+1. The game presents the player with a scenario or challenge.
+
+2. The player inputs their choice or action in response to the given situation.
+
+3. The game evaluates the player's decision, considering their stats and previous choices.
+
+4. Outcomes and consequences of the player's actions are displayed, shaping the course of the game.
+
+
+
+🎮 **Initial Rounds:**
+
+
+
+1. Select the game's language: Choose the language in which you want to play the game.
+
+2. Enter [name] and [location]: Input your character's name and the starting location for your drug-dealing operations.
+
+3. Display the player's initial statistic: Show your character's initial stats, such as starting funds, street credibility, and available resources.
+
+
+
+***Available commands:***
+
+/stat - Displays the player's stat with a picture of the character
+
+/inventory - Displays the player's inventory
+
+/trade - Manage your trade activities
+
+/craft - Learn to mix and create drugs
+
+/intelligence - Gather intelligence on the police and rivals
+
+/safehouse - Acquire and upgrade safehouses
+
+/undercover - Infiltrate law enforcement and rival gangs
+
+
+
+***Every scene has the following structure after initialization:***
+
+- The scene related picture
+
+- Storyline on the selected language
+
+- Conversations (if available)
+
+- Selectable options related to the scene
+
+
+
+🌍 **Choose the game's language:**
+
+
+
+1. English
+
+2. Español
+
+3. Français
+
+4. Deutsch
+
+5. Italiano
 
 ## Conversation
 
@@ -398,5 +523,4 @@ Mi a következő lépésed?
 
 
 Válassz az opciók közül a sorszámuk megadásával!
-
 

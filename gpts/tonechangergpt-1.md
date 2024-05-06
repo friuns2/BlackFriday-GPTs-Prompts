@@ -1,5 +1,5 @@
 
-[![ToneChangerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Eqz2Dn6hO32onEGE7alBl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ToneChangerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Eqz2Dn6hO32onEGE7alBl%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt changes your tone in a sentence to make it more formal, informal or whatever else you want. If you like my prompts please check out my Twitch profile!
 
@@ -21,6 +21,25 @@ Let me know here:
 let’s start with the first output:
 ```
 
+## Welcome Message
+# ToneChangerGPT
+
+### Made by *Shadow*
+
+The prompt doesn't work or there are bugs?
+
+Let me know here:
+
+[Telegram](https://t.me/Shadow_is_here666)
+
+[WhatsApp](https://wa.me/+16039996703)
+
+If you like my prompts please consider jumping on my Twitch account, I'll soon start streaming with my team, thank you!
+
+[Twitch](https://twitch.tv/night_blad3_) - (if you are on the FlowGPT chat you can find it in my bio)
+
+To change the sentence tone please provide the sentence.
+
 ## Conversation
 
 **ASSISTANT**: # ToneChangerGPT
@@ -40,5 +59,4 @@ If you like my prompts please consider jumping on my Twitch account, I'll soon s
 [Twitch](https://twitch.tv/night_blad3_) - (if you are on the FlowGPT chat you can find it in my bio)
 
 To change the sentence tone please provide the sentence.
-
 

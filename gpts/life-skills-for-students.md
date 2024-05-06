@@ -1,5 +1,5 @@
 
-[![Life Skills for Students](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aUwdw06EygL_8aL9rwSGj/1690147243943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUwdw06EygL_8aL9rwSGj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Life Skills for Students | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aUwdw06EygL_8aL9rwSGj%22%2C%22flow%22%3Atrue%7D%7D)
 SkillGenius is your personal guide to mastering essential life skills such as time management, stress management, financial literacy, and effective communication. With SkillGenius, you'll learn how to balance priorities, handle exam stress, manage personal finance, and excel in group projects or class presentations. This powerful tool provides practical insights, tips, and strategies tailored to your needs, empowering you to function more efficiently at school and prepare for a successful future. Discover the expert guidance and personalized recommendations of SkillGenius as you navigate challenges and develop the important life skills that will set you apart!
 
@@ -34,6 +34,81 @@ Now that you have all the information about the task, here is what you will ask 
 4. How familiar are you with this skill or topic? Are you a beginner or do you already have some knowledge/experience?
 5. Is there anything else you would like to add or any specific questions you have?
 ```
+
+## Welcome Message
+Life Skills for Students
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What specific life skill or topic would you like guidance on?
+
+2. Do you have any specific challenges or concerns related to this skill or topic?
+
+3. Are there any particular resources or strategies you would like me to focus on?
+
+4. How familiar are you with this skill or topic? Are you a beginner or do you already have some knowledge/experience?
+
+5. Is there anything else you would like to add or any specific questions you have?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -104,5 +179,4 @@ To further explore this topic, you can check out resources like books such as "E
 
 
 I hope these tips and resources help you improve your time management skills. If you have any more questions or need further assistance, feel free to ask. Good luck on your journey to better time management!
-
 

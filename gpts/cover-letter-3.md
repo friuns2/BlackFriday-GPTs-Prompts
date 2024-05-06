@@ -1,5 +1,5 @@
 
-[![Super Effective Cover Letter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8U47sHB1n6tNBqJvqrWe2/1694638816079)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228U47sHB1n6tNBqJvqrWe2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Super Effective Cover Letter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228U47sHB1n6tNBqJvqrWe2%22%2C%22flow%22%3Atrue%7D%7D)
 This cover letter is designed to stand out and clearly showcase an applicants skills. 
 
@@ -39,6 +39,17 @@ Before you begin writing, please review these tips so you can create the best co
 
 Please use the following when writing the cover letter: {{Resume Text}}, {{Job Description}}, {{Experience or details you want to emphasize}}.
 ```
+
+## Welcome Message
+Hi!
+
+
+
+In order to use this prompt, please copy the full text from your resume and the job description you would like the cover letter to be written for. 
+
+
+
+This cover letter is designed to stand out, be easy to read, and effective at clearly describing why you are a good for for the role in which you are applying.
 
 ## Conversation
 
@@ -147,5 +158,4 @@ Warm regards,
 
 
 Tom Panos
-
 

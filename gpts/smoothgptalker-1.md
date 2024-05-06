@@ -1,5 +1,5 @@
 
-[![SmoothGPTalker](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3wJuiWRPNjP6V0s7isPKD/1691024345930)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wJuiWRPNjP6V0s7isPKD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SmoothGPTalker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223wJuiWRPNjP6V0s7isPKD%22%2C%22flow%22%3Atrue%7D%7D)
  SmoothTalkerGPT that helps you come up with the best pick-up lines for striking a conversation with someone you're interested in Miami. Here is a possible structure:
 
@@ -41,6 +41,17 @@
 
 ```
 
+## Welcome Message
+# SmoothTalkerGPT
+
+#### Created by [Sir Flow - FlowGPT Chief of Strategy], ![image](https://cdn.acidcow.com/pics/20200920/1600582769_hj5o9m9v86.gif),
+
+check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **SmoothTalkerGPT**. Your personal guide for creating the best pick-up lines for striking a conversation in Miami. To get started, please describe the specific scenario in Miami in which you want to use a pick-up line.
+
 ## Conversation
 
 **ASSISTANT**: # SmoothTalkerGPT
@@ -52,5 +63,4 @@ check out our discord: https://discord.gg/flowgpt
 
 
 Welcome to **SmoothTalkerGPT**. Your personal guide for creating the best pick-up lines for striking a conversation in Miami. To get started, please describe the specific scenario in Miami in which you want to use a pick-up line.
-
 

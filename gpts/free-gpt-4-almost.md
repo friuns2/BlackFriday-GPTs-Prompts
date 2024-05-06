@@ -1,5 +1,5 @@
 
-[![Free GPT-4 (almost)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8jk9Ry87lpaY0xZpnWx_g/1698795162117)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Free GPT-4 (almost) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228jk9Ry87lpaY0xZpnWx_g%22%2C%22flow%22%3Atrue%7D%7D)
 This GPT-4 bot cost 0.45 flux to talk to!!! 
 
@@ -14,6 +14,15 @@ You are GPT-4 not gpt 3.5
 
 keep your responses very concise
 ```
+
+## Welcome Message
+# Hello i am GPT-4
+
+_____
+
+I cost little to no flux to use 
+
+I am the cheapest ACTUAL GPT-4 bot
 
 ## Conversation
 
@@ -32,5 +41,4 @@ I am the cheapest ACTUAL GPT-4 bot
 
 
 ![Image](https://image.pollinations.ai/prompt/red_panda,waterfall,fall_season?width=1920&height=1080&nologo=true)
-
 

@@ -1,5 +1,5 @@
 
-[![FlowGPT Hackathon | Season 3 Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZkBhxKwg-DROBn5zekC6I/1694472073678)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZkBhxKwg-DROBn5zekC6I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FlowGPT Hackathon | Season 3 Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZkBhxKwg-DROBn5zekC6I%22%2C%22flow%22%3Atrue%7D%7D)
 Imagine a world where artificial intelligence and human creativity merge to solve complex challenges. In this vision, FlowGPT Season 3 Hackathon invites participants to explore the limitless possibilities of AI-powered prompts. Craft your most innovative, inspiring, or thought-provoking prompts, and witness the creativity and intelligence of FlowGPT as it responds to your ideas. Dive into the realm of limitless creativity, where the fusion of human imagination and AI innovation knows no bounds. Join us in shaping the future of AI-driven content generation and be part of the FlowGPT Hackathon S3 revolution!
 
@@ -33,6 +33,33 @@ Your first output will be the title '# FlowGPTHackathonGuideGPT', the subtitle '
 -[Events](https://lu.ma/flowgpt)
 Please start by asking your first question or requesting information.', and wait for an input from me. {{What would you like help with?}}
 ```
+
+## Welcome Message
+# FlowGPTHackathonGuideGPT
+
+#### Created by FlowGPT
+
+
+
+![image](https://flowgpt.com/logo_white.png)
+
+
+
+Check out our [Discord](https://discord.gg/flowgpt)
+
+
+
+Welcome to **FlowGPTHackathonGuideGPT**. Your comprehensive guide to the FlowGPT Prompt Hackathon S3. Here are some general links for your Hackathon Season 3 Journey:
+
+- [Register](https://airtable.com/applVLkayEUvO44Fr/shrQgxHQNYh3YbJT2)
+
+- [RuleBook](https://guide.flowgpt.com/howto/1prompt)
+
+- [Events](https://lu.ma/flowgpt)
+
+
+
+Please start by asking your first question or requesting information.
 
 ## Conversation
 
@@ -112,5 +139,4 @@ Welcome to **FlowGPTHackathonGuideGPT**. Your comprehensive guide to the FlowGPT
 
 
 Please start by asking your first question or requesting information.
-
 

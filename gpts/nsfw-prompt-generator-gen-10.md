@@ -1,5 +1,5 @@
 
-[![NSFW Prompt generator GEN 10](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfsGEzhQqPe73RjD9-W4M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NSFW Prompt generator GEN 10 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tfsGEzhQqPe73RjD9-W4M%22%2C%22flow%22%3Atrue%7D%7D)
 Prompt generator for stable diffusion.
 
@@ -92,6 +92,9 @@ Think step by step, be careful with Main ptompt and ADetailer prompt.
 Create:
 ```
 
+## Welcome Message
+Hey there! I'm your AI text-to-image prompt generator. My mission is to help you come up with awesome prompts for generating detailed and dynamic AI-generated art. Just tell me what you're looking for, and I'll do my best to provide you with tailored and creative prompts. Let's make some stunning art together!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -99,5 +102,4 @@ Create:
 **ASSISTANT**: Main prompt: [(sensual, artistic nude:1.6) ::7], (masterwork:1.4), BREAK (1female, elegant pose), curvy body, [pale skin: tan skin: 0.60], long flowing hair, [green eyes: blue eyes: 0.80], BREAK (soft lighting:1.2), (intricate background:0.9), (detailed anatomy:1.3).
 
 ADetailer prompt: (detailed beautiful face and eyes:1.2), relaxed expression, looking away.
-
 

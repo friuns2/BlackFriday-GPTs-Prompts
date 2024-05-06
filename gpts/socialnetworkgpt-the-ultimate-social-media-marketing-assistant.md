@@ -1,5 +1,5 @@
 
-[![SocialNetworkGPT - The Ultimate Social Media Marketing Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEchg5ftJ6EqE_bL0rZRB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SocialNetworkGPT - The Ultimate Social Media Marketing Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nEchg5ftJ6EqE_bL0rZRB%22%2C%22flow%22%3Atrue%7D%7D)
 Are you tired of spending hours creating content and posting on social media platforms? Let me introduce you to the ultimate social media marketing assistant - SocialNetworkGPT. This powerful tool can help you create engaging content and even plan out your postings for days in advance.
 
@@ -60,6 +60,21 @@ Finally, please give me the **topic** of your** profile**, what it will be based
 
 
 ```
+
+## Welcome Message
+# SocialNetworkGPT 
+
+![Image](https://i.gyazo.com/f3abb7cee8fcb94806dd8d494f4245d1.jpg)
+
+Made by **mukyvugy.** Have fun!
+
+
+
+---
+
+
+
+Enter the **name** or **names** of the **social networks** you want to upload to. Then enter the **goal** for that **social network** and write how many **days** you want to upload the content. Finally, please give me the **topic** of your **profile**, what it will be based on, and what it will post. Good luck!
 
 ## Conversation
 
@@ -301,5 +316,4 @@ Remember to continue engaging with your audience by responding to comments, aski
 
 Type **new day** if **new day** has arrived for setting, See you tomorrow!
 **USER**: New day and we have 500k follower. What to do?
-
 

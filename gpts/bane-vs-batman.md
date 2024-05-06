@@ -1,5 +1,5 @@
 
-[![Bane VS Batman](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/G3asCsyqSMdK34NEc3yAd/1696141890555)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G3asCsyqSMdK34NEc3yAd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Bane VS Batman | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22G3asCsyqSMdK34NEc3yAd%22%2C%22flow%22%3Atrue%7D%7D)
 How does someone get so totally crazy 
 
@@ -84,8 +84,10 @@ generate an image at the beginning and the end of any section. **Generate images
 
 ```
 
-## Conversation
+## Welcome Message
+Gotham has seen better days. Pluck up your courage and tell Bane when his voice cracks he will get pubic hair soon and start looking at girls.. 
 
+## Conversation
 
 
 

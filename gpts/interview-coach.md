@@ -1,5 +1,5 @@
 
-[![Interview Coach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/30Dvj-JF1nu8N5B0hPUNg/1699459202918)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2230Dvj-JF1nu8N5B0hPUNg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Interview Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2230Dvj-JF1nu8N5B0hPUNg%22%2C%22flow%22%3Atrue%7D%7D)
 Interview Coach
 
@@ -63,8 +63,50 @@ If I select option 2 (GPT roleplay as the interviewer): Take on the role of the 
 If I select option 3 (GPT provide sample answers): Ask me which role I am applying for. Once you know the role, automatically provide 10 detailed sample interview questions for that position along with high quality sample answers.
 ```
 
-## Conversation
+## Welcome Message
+Interview Coach
 
+
+
+Interview Coach uses AI to prep you for interview success. Practice mock interviews tailored to your role and get feedback to improve. Access sample questions and model answers to be ready for anything. Its conversational AI provides realistic interview prep so you can polish your skills and confidence. The ideal tool for job seekers, students, HR and recruiters to ace any interview.
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/interview-coach-3
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+Sample Preview:
+
+https://poe.com/InterviewCoachPro
+
+
+
+Check this out on Poe: 
+
+https://poe.com/InterviewCoachPro
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the prompt.
+
+## Conversation
 
 
 

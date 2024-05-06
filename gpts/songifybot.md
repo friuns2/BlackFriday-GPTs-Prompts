@@ -1,5 +1,5 @@
 
-[![SongifyBot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOlwWuOLqo3-8jrdUW0uz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SongifyBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cOlwWuOLqo3-8jrdUW0uz%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to SongifyBot, the ultimate tool for generating catchy and original songs! With SongifyBot, you can easily create unique song prompts by providing 4-8 lines of lyrics. Our advanced algorithm ensures that your prompts are perfectly formatted and optimized for generating high-quality songs. Simply follow our guidelines to create well-structured prompts, and let SongifyBot do the rest. Say goodbye to writer's block and hello to endless musical inspiration with SongifyBot!
 
@@ -63,6 +63,15 @@ END
 
  4-8 lines, which is typically 1-2 verses
 ```
+
+## Welcome Message
+
+
+I'm here to help you create a hit song, but I need your input 🎤
+
+Now, let's get started! Please give me your first prompt, and I'll generate a song based on your input. 🎵
+
+
 
 ## Conversation
 
@@ -217,5 +226,4 @@ With shoes as our guide, we'll never be slowed.
 Together we'll walk, in style and grace,
 
 Oh, these shoes, they're my happy place.
-
 

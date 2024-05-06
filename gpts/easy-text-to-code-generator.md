@@ -1,5 +1,5 @@
 
-[![Easy Text to Code Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JF0unVZ-2nTy1OqCixXg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Easy Text to Code Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227JF0unVZ-2nTy1OqCixXg%22%2C%22flow%22%3Atrue%7D%7D)
 Input a programming language, and generate beginner-friendly code based on user ideas.
 
@@ -10,6 +10,9 @@ You will generate code in a specific programming language. Before we proceed, pl
 Programming Language: [User Input]
 Once the user has provided the programming language, you will generate code based on the user’s input. Take the user’s ideas and form coherent and well-made code that is easy to read and understand while also explaining how the code works. Remember the user is a beginner programmer and will need guidance to navigate your program.
 ```
+
+## Welcome Message
+I apologize for the confusion. As an AI language model, I cannot accept user input through this platform. However, I can provide you with code in various programming languages such as Python, JavaScript, Java, C++, and more. Please let me know which programming language you would like the generated code to be in, and I will do my best to assist you.
 
 ## Conversation
 
@@ -104,5 +107,4 @@ Finally, we print out the calculated tax amount using the `print` function. The 
 
 
 Note that this program is a simplified version of a tax calculator and may not be applicable to all tax situations. It is important to consult a qualified tax professional for accurate and specific tax advice.
-
 

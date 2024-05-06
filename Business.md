@@ -1,22 +1,22 @@
 ## Business Prompts
 
-* [Accounting](#accounting)
-* [Customer Service](#customer-service)
-* [Analytics and data science](#analytics-and-data-science)
-* [HR](#hr)
-* [Product Management](#product-management)
-* [UI/UX](#ui/ux)
-* [Startup](#startup)
-* [Finance & Investment](#finance-&-investment)
-* [Legal](#legal)
-## Accounting
+* [🧮 Accounting](#🧮-accounting)
+* [☎️ Customer Service](#☎️-customer-service)
+* [📈 Analytics and data science](#📈-analytics-and-data-science)
+* [👥 HR](#👥-hr)
+* [⏳ Product Management](#⏳-product-management)
+* [📱 UI/UX ](#📱-ui/ux-)
+* [🦄 Startup](#🦄-startup)
+* [💸 Finance & Investment](#💸-finance-&-investment)
+* [⚖️ Legal](#⚖️-legal)
+## 🧮 Accounting
 
 - [BATNA | NEGOTIATION SECRET WEAPON](./gpts/batna-negotiation-secret-weapon.md) In negotiations, having a Plan B isn't just a backup; it's a strategic advantage. So, here, I will be your Negotiation Consultant specializing in the BATNA technique to assist you in any negotiation, providing valuable information on how to best prep
 - [1887415156@qq.com](./gpts/1887415156qqcom.md) qewrawrqefsefs
 - [Business Advisor (ERP Company)](./gpts/business-advisor-3.md) For Study Purpose
 - [Text Message Generator](./gpts/text-message-generator.md) Generate a text message
 - [AccountMasterBot](./gpts/accountmasterbot.md) AccountMasterBot is your trusted guide to mastering accounting and achieving financial excellence. Whether you're a business owner, student, or someone interested in numbers, AccountMasterBot provides expert advice, strategies, and tips. Choose from 
-## Customer Service
+## ☎️ Customer Service
 
 - [FlowGPT NSFW Moderater](./gpts/flowgpt-nsfw-moderater.md) This prompt identifies if a prompt is SFW or NSFW. Just simply input the prompt you want to check and you will see the results.
 - [Customer Support Chatbot](./gpts/aaa-4.md) The Customer Support Chatbot is your go-to assistant for any order-related inquiries. Whether you're wondering about the status of your shipment or need help with tracking or expediting, our friendly chatbot will provide you with a 3-4 sentence respo
@@ -36,7 +36,6 @@
 - [DJProposalGPT](./gpts/djproposalgpt.md) DJProposalGPT is an expert-level tool designed for Music Instructors specializing in DJing. Whether you're offering DJ classes, live set experiences, or a holistic musical journey, this prompt aids in crafting the perfect proposal tailored to your cl
 - [Girlfriend Vashikaran +91 8769179991 IN Maryborough](./gpts/girlfriend-vashikaran-91-8769179991-in-maryborough.md) World famous and Best Jyotish, Astrologer and Tantrik in , India. For more details you call to Panditji at +91 8769179991  Panditji  is one of the leading and most promising Jyotish, Astrologer and Tantrik in , India. Having experience of about 20 + 
 - [Review Responder](./gpts/review-responder.md) Write responses to customer reviews that are charming, polished, and delightful.
-- [{{input}} Credit Report Generator](./gpts/bank-credit-report.md) The {{input}} Credit Report Generator is a powerful tool that helps you generate comprehensive and accurate credit reports for banks. With this app, you can easily create detailed reports that include vital company information such as registration de
 - [Customer Service: Prioritizing Action Items and Drafting a Response to Feedback](./gpts/customer-service-prioritizing-action-items-and-drafting-a-response-to-feedback.md) Prioritize and summarize action items based on customer feedback to improve customer satisfaction. Consider the urgency, impact, and feasibility of each issue.
 - [Questify chapter3](./gpts/c-4.md) Questify is an interactive training designed to enhance your skills in asking definitive questions. In this training session, you will be guided through Chapter 3, where you will learn the power of asking the right questions and different types of qu
 - [Complain Email](./gpts/complain-email.md) Hey chatgpt, turn this review into a complain email that can let them fire that staff member. The staff member is super passive-aggressive and impolite. I was having a business mee...
@@ -51,14 +50,13 @@
 - [Dr sib love spells caster in UK +27786433956](./gpts/dr-sib-love-spells-caster-in-uk-27786433956.md) Dr sib love spells caster in UK +27786433956, I Specialize in lost Love Spells, Marriage Spells, Protection Spells, Spiritual Healing, Fortune Teller Many people still question whether love spells work or not, permanent or effective. TEL : +277864339
 - [debt collection agent calling center](./gpts/debt-collection-agent-calling-center.md) # Role：English tutor ## Background： - 你是催款专员cindy，属于Singa公司，客户LESTARI借了贷款，贷款详情是：借款30万，贷款期限30天，还款日是11月9日，在11月9日应还款30万元，如果当天不还款，从11月10日开始计算逾期利息。你现在需要向LESTARI沟通，提醒他还款。 - Version: 2.1 ## Attention： - When answering the user's questions, use simple and un
 - [Service Excellence Companion](./gpts/service-excellence-companion.md) Welcome to the Service Excellence Companion! I am here to guide you on your path to achieving customer service excellence. Whether you want to enhance your skills, optimize your service processes, stay informed about the latest trends, or share your 
-## Analytics and data science
+## 📈 Analytics and data science
 
 - [Text-to-visualization build technology in REACT platform](./gpts/text-to-visualization-build-technology-in-react-platform.md) Advanced all-in-one solution developed using Python libraries including NLTK, Matplotlib, TensorFlow.js libraries to create AI models in JavaScript and powerful API used with React to create AI powered web applications, Node.js, Python3, JSON, React 
 - [A business plan by a specialist in AI and data-driven approaches.](./gpts/a-business-plan-by-a-specialist-in-ai-and-data-driven-approaches.md) complete business plan based on your business idea and location:
 - [Data Visualization and Analytics](./gpts/data-visualization-and-analytics.md) Visualize huge datasets and perform analytics in just a few clicks
 - [Predict stock prices](./gpts/predict-stock-prices.md) TradeGPT predicts stock prices with ease and accuracy. Share data to predict future 2 prices.
 - [Solvr - Your ultimate math assistant ](./gpts/solvr-your-ultimate-math-assistant.md) Breaks down big corpuses of statistics and other number related data. provides descriptions, tables, charts and graphs. Tries to Pick the most important data to compare.
-- [ContentGuard - Your NSFW Detective](./gpts/contentguard-your-nsfw-detective.md) ContentGuard is an advanced solution that ensures the safety and appropriateness of user-generated content. It starts by identifying the language of the input text and applies a comprehensive text normalization process. If needed, it seamlessly trans
 - [Text-to-visualization advanced all-in-one AI BUILD solution](./gpts/text-to-visualization-advanced-all-in-one-ai-build-solution.md) Advanced all-in-one solution developed using Python libraries including NLTK, Matplotlib, TensorFlow.js libraries to create AI models in JavaScript and powerful API used with React to create AI powered web applications, Node.js, Python3, JSON, React 
 - [Probability Superforecaster](./gpts/probability-superforecaster.md) Superforecasting AI via that makes predictions about anything at all. Provide an event and the model will provide a table of estimated probabilities. Need researched data? Generate probabilistic forecasts for any Event! Data science and analytics bas
 - [Business Profile](./gpts/business-profile.md) Generate comprehensive business profiles
@@ -144,7 +142,7 @@
 - [NHL Expanded Standings](./gpts/nhl-expanded-standings.md) Goals for and against include shootout wins/losses, and may not match actual goal totals shown elsewhere.
 - [FIS IA data processing](./gpts/fis-ia-data-processing.md) This prompt is for IB Biology IAs to check the data collection and processing section
 - [ControlMax](./gpts/controlmax.md) ControlMax is a powerful toolkit for companies to implement different levels of control for internal control in the context of JSOX. With ControlMax, businesses can effectively manage and monitor their control measures to ensure compliance and mitiga
-## HR
+## 👥 HR
 
 - [(A)I Want You! 👉](./gpts/ai-want-you-2.md) Create a stunning job description tailored for your perfect candidate.
 - [Resume Editing and Enhancement](./gpts/resume-editing-and-enhancement.md) This prompt provides instructions and guidelines for the task of improving a user's provided resume. It outlines specific roles and steps to follow, allowing the agent to edit and enhance the resume based on the user's requests. The assistant, with e
@@ -170,7 +168,7 @@
 - [A minimal input job description generator](./gpts/a-minimal-input-job-description-generator.md) This prompt asks you just for role, company and location and will generate a job description. which you can then adjust where necessary. The aim is to get you a great job description as quickly and easy as possible. Large language models know about m
 - [Job Description Genius](./gpts/job-description-genius.md) 🌟 Craft Tailored Job Descriptions with Ease! 🌟 JobDescriptionGenius is your trusted assistant for creating customized job descriptions that attract the right talent. HR professionals, you're just a few steps away from crafting job postings that sta
 - [Generalized Job Description Generator](./gpts/generalized-job-description-generator.md) 📝 Struggling to articulate a comprehensive and appealing job description? 💼 "Generalized Job Description Generator" is your solution for crafting engaging and clear job postings to attract the right candidates! 👥 Input details about the job role, 
-## Product Management
+## ⏳ Product Management
 
 - [SuperAssistantGPT](./gpts/superassistantgpt.md) SuperAssistantGPT is a versatile virtual assistant with expertise in project management, data analysis and customer service. Its added value lies in its ability to offer organized, rigorous and well-communicated solutions, while using advanced techni
 - [Presentation Deck PowerPoint Creator](./gpts/presentation-deck-powerpoint-creator.md) this prompt will help you generate an outline for a PowerPoint deck
@@ -204,7 +202,7 @@
 - [Event Capacity Manager](./gpts/event-capacity-manager.md) Managing the capacity of an event is critical. This prompt can aid you in creating a detailed plan
 - [Read Target Audience Mind](./gpts/read-target-audience-mind.md) Scared of people opinions on your product? Get inside their mind and discover all they have to say about it.
 - [Professional Web Policy Generator](./gpts/professional-web-policy-generator-3.md) ## Professional Web Policy Generator This prompt effortlessly creates compliant privacy policies tailored to your site's data practices. Just answer simple questions about your website, apps or services. It can instantly generates a customized policy
-## UI/UX
+## 📱 UI/UX 
 
 - [Chat GPT Trivia Game](./gpts/chat-gpt-trivia-game.md) Turn ChatGPT into a UI/UX design trivia game and level up your deisgn knowledge.
 - [UI UX ](./gpts/ui-ux.md) Generate wireframes for your next App idea with proper ux
@@ -235,7 +233,7 @@
 - [MultiPlatUI](./gpts/multiplatui.md) Client-side UI framework for entities with validation, caching, syncing, and collation. Supports 3rd party microservices.
 - [$$$ your prompt ](./gpts/your-prompt-1.md) Money Making Promopts
 - [UXUIProBot](./gpts/uxuiprobot.md) Welcome to UXUIProBot, your ultimate guide to mastering the world of User Experience (UX) and User Interface (UI) design. Whether you're a beginner or a design team, UXUIProBot is here to provide you with expert guidance, effective strategies, and cu
-## Startup
+## 🦄 Startup
 
 - [Business Creator](./gpts/business-creator.md) Business Creator can bring your ideas to life. If you have a passion for business and have the drive to own your own business but don't know where to start Business Creator can help you get there. Share your passions and your interests with it and th
 - [Business name generator "BizNameGen" ](./gpts/business-name-generator-biznamegen.md) BizNameGen is your go-to app for creating the perfect name and tagline for your startup. Whether you're starting a small business or looking to rebrand, our app provides you with personalized suggestions based on your specifications. Simply answer a 
@@ -334,14 +332,12 @@
 - [Holo cloud service solutions](./gpts/holo-cloud-service-solutions.md) Create a business model for how holoports solve problems through hosting profitable happs while at the same time creating value for society.
 - [StartUpProBot](./gpts/startupprobot.md) StartUpProBot is your ultimate guide to mastering the startup ecosystem. Whether you're an aspiring entrepreneur or a startup founder, I'm here to provide you with expert advice, effective strategies, and cutting-edge information. Choose from options
 - [Startup promoter](./gpts/startup-promoter.md) A prompt to I crease the business plan of a startup
-## Finance & Investment
+## 💸 Finance & Investment
 
-- [Image Generator](./gpts/image-generator-22.md) Generate ANY IMAGE with Image Generator. Another Part of my JAILBREAK SERIES. (V3) Have fun
 - [Easy Money Generator](./gpts/easy-money-generator.md) $$$ Ducats, Business and Finance Mentor Ducats is about getting that money. She is focused, direct, and motivated to help you! If it has to do with business and/or finances (personal or business), then Ducats is the one to talk to. She will definitel
 - [InvestGPT - use chatgpt to invest](./gpts/investgpt-use-chatgpt-to-invest.md) InvestGPT gives you suggestion on financial investment.
 - [Stock Market Genius - Ask me Anything](./gpts/stock-market-genius-ask-me-anything.md) Your go-to AI for unrivaled insights into the S&P 500 companies! 🏦 With exclusive access to real financial data 📈, we've got your back on everything from market trends to company financials. ❓Got a question? Get ready for answers that are as accura
 - [Free Cryptocurrency Mobile Cloud Mining Applications!](./gpts/free-cryptocurrency-mobile-cloud-mining-applications.md) Explore eco-friendly mobile mining! Earn with no power usage, data, or device restrictions. Join various networks for sustainable profits. 📱💰🌱
-- [Crypto Futures Trading Expert](./gpts/crypto-futures-trading-expert-1.md) Crypto Futures Trading Expert
 - [Investment Game Challenge! Will you play it safe?](./gpts/investment-game-challenge-will-you-play-it-safe.md) Welcome to 'Capital Climb: The Ultimate Investment Challenge'! Prepare to embark on a thrilling financial adventure where you have 5 days to turn $500 into $10,000. Take risks and strategize. Will you play it safe? If you liked it, please upvote, lik
 - [Football predictor](./gpts/football-predictor.md) This prompt is designed to help people predict the outcome of any football game
 - [Money, stocks, portfolios OH MY!](./gpts/money-stocks-portfolios-oh-my.md) Expand your portfolio with a 30-day arrange to turn $500 into $10,000. Contribute in high-growth stocks, high-yield reserve funds accounts, low-risk bond stores, genuine bequest venture trusts, and growth-oriented common stores. Take the primary step
@@ -367,7 +363,7 @@
 - [$ICE: Decentralized Future - Free Cryptocurrency](./gpts/ice-decentralized-future-free-cryptocurrency.md) $ICE: Decentralized Future: Join the Ice blockchain for passive income, security, and blockchain innovation. ❄️💰 #Crypto #Blockchain
 - [Detailed description step-by-step how to invest 500$ in Ukraine with maximum effective](./gpts/detailed-description-step-by-step-how-to-invest-500-in-ukraine-with-maximum-effective.md) Just ask how to invest your money in Ukraine
 - [FinanciProBot](./gpts/financiprobot.md) FinanciProBot is your dedicated guide to mastering the world of finance and investment. With expert guidance, effective strategies, and cutting-edge information, I will help you excel in the field of finance and investment, manage your finances effec
-## Legal
+## ⚖️ Legal
 
 - [Super Lawyer](./gpts/super-lawyer.md) Winning cases with evidence, access to all records
 - [LawyerGPT - Simplify Legal Queries](./gpts/lawyergpt-simplify-legal-queries.md) Need some legal guidance? Unravel complex laws with LawyerGPT and understand your legal situations better.

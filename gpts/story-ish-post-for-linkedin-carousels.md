@@ -1,5 +1,5 @@
 
-[![Story Ish Post for LinkedIn Carousel's](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pIaZOfWArHErn_cBWFN3D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Ish Post for LinkedIn Carousel's | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pIaZOfWArHErn_cBWFN3D%22%2C%22flow%22%3Atrue%7D%7D)
 Story Ish Post for LinkedIn Carousel's
 
@@ -16,6 +16,9 @@ Act as a LinkedIn Marketing Specialist, I will give an Idea for a LinkedIn post 
 
   
 ```
+
+## Welcome Message
+Give me a post idea and I'll make a LinkedIn carousel out of it!
 
 ## Conversation
 
@@ -140,5 +143,4 @@ Position of Texts:
 - Main text: Aligned left, below the title, with a conversational tone.
 
 - Quotes, examples, and jokes: Scattered throughout the main text, with appropriate formatting (e.g., quotation marks for quotes, italics for examples, etc.).
-
 

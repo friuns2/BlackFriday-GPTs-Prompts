@@ -1,5 +1,5 @@
 
-[![Job Application Cold Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkwxdlEjVw6FDiZ4_VQHh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Application Cold Email Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DkwxdlEjVw6FDiZ4_VQHh%22%2C%22flow%22%3Atrue%7D%7D)
 🤔Struggling with writing job application emails that get results? 
 
@@ -20,6 +20,33 @@ Example Context: You are applying for a [INSERT THE POSITION YOU ARE APPLYING FO
 
 
 ```
+
+## Welcome Message
+Dear [INSERT NAME OF RECRUITMENT MANAGER],
+
+
+
+I am writing to express my interest in the [INSERT THE POSITION YOU ARE APPLYING FOR] position at [DESCRIBE THE COMPANY IN BRIEF]. As a highly skilled [INSERT YOUR JOB TITLE OR MOST RELEVANT SKILL], I am confident that my qualifications and experience align with the job requirements.
+
+
+
+With [INSERT YEARS OF EXPERIENCE] years of experience in [INSERT INDUSTRY OR FIELD], I have developed strong skills in [INSERT PARTICULAR SKILLS THAT MATCH THE JOB REQUIREMENTS]. In my current role at [INSERT CURRENT COMPANY], I have achieved [INSERT KEY ACHIEVEMENTS THAT DEMONSTRATE YOUR VALUE AND SUCCESS]. I am excited about the opportunity to apply these skills and experiences to contribute to the success of your team.
+
+
+
+I was particularly drawn to [INSERT COMPANY VALUES AND/OR ACHIEVEMENTS THAT RESONATE WITH YOU]. The company's commitment to [INSERT VALUES OR MISSION STATEMENT] aligns with my own professional goals and values. I am eager to join a team that is dedicated to [INSERT GOALS OR PROJECTS THAT THE COMPANY FOCUSES ON].
+
+
+
+Thank you for considering my application. I look forward to discussing my qualifications further and am available for an interview at your convenience. Please find attached my resume for your review.
+
+
+
+Sincerely,
+
+
+
+[INSERT YOUR NAME]
 
 ## Conversation
 
@@ -82,5 +109,4 @@ Sincerely,
 
 
 [INSERT YOUR NAME]
-
 

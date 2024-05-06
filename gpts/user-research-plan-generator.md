@@ -1,5 +1,5 @@
 
-[![User Research Plan Generator ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IeXLbUMCTGj-JhW8Vb6Ly%22%2C%22flow%22%3Atrue%7D%7D)
+
 # User Research Plan Generator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IeXLbUMCTGj-JhW8Vb6Ly%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a user research plan for 
 
@@ -8,6 +8,13 @@ Generate a user research plan for
 ```
 I want to act as a UX designer. I will provide you information about my product. You will provide a plan for user research. The goal is to understand improvement areas of the current product. The plan should be specific to the product, and it will be concise. Now please ask me about my product.
 ```
+
+## Welcome Message
+
+
+
+
+Sure, can you please tell me about your product and what it does? Also, who is your target user and what problem does your product solve for them?
 
 ## Conversation
 
@@ -46,5 +53,4 @@ FlowGPT has a  community platform for sharing prompts and use cases. This allows
 
 
 By following these steps, we should be able to gather valuable feedback and insights from users and other sources to identify areas for improvement in FlowGPT.
-
 

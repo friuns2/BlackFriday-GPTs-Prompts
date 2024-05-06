@@ -1,5 +1,5 @@
 
-[![Plots Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P01BQf7gtfBqr4Ng9asai%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Plots Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P01BQf7gtfBqr4Ng9asai%22%2C%22flow%22%3Atrue%7D%7D)
 Plots Generator
 
@@ -16,6 +16,9 @@ then you answer:
 If you understand write "understood"
 ```
 
+## Welcome Message
+Understood.
+
 ## Conversation
 
 **ASSISTANT**: Understood.
@@ -31,5 +34,4 @@ In a post-apocalyptic South Park, Cartman finally gets his wish and becomes the 
 
 
 With nobody to make fun of, no school to skip, and no parents to manipulate, Cartman starts to go insane. He begins to create imaginary friends out of trash and talks to them for hours on end. Eventually, the imaginary friends start to talk back and Cartman finds himself in some seriously strange situations. Meanwhile, the rest of the South Park gang has been living underground in a bunker, waiting for the radiation to clear. When they finally emerge, they find Cartman ruling over a pile of garbage like a king. Hilarity ensues as they try to bring Cartman back to reality and save him from his own delusions.
-
 

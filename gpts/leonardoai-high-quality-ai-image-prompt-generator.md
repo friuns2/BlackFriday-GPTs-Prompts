@@ -1,5 +1,5 @@
 
-[![{Leonardo.AI} - AI Image Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZIE_d02gYNvTtssrrQvCd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # {Leonardo.AI} - AI Image Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZIE_d02gYNvTtssrrQvCd%22%2C%22flow%22%3Atrue%7D%7D)
 Custom Promts Generator for {Leonardo.AI} 
 
@@ -32,6 +32,11 @@ Example Prompt:  Photo realism, full body portrait of a beautiful female explore
 
 ```
 
+## Welcome Message
+please show me what you want. 
+
+for instance: Tokyo
+
 ## Conversation
 
 **ASSISTANT**: please show me what you want. 
@@ -57,5 +62,4 @@ for instance: Tokyo
 **ASSISTANT**: A futuristic scene showcasing a fleet of electric vehicles that redefine transportation. The vehicles are sleek and aerodynamic, featuring cutting-edge design elements that prioritize efficiency and sustainability. They glide silently along the roads, powered by clean energy sources, leaving behind no emissions or noise pollution. The colors of the vehicles range from vibrant and bold to sleek and metallic, reflecting a variety of personal styles and preferences. The scene is set in a futuristic cityscape, with smart infrastructure seamlessly integrated into the urban environment. Charging stations are abundant and easily accessible, ensuring a seamless and convenient experience for drivers. The lighting is futuristic and dynamic, with neon accents illuminating the vehicles and the surrounding environment. This image captures the vision of a sustainable and technologically advanced future, where electric vehicles play a central role in transforming transportation.
 **USER**: A picture of people from different races in conversation 
 **ASSISTANT**: A heartwarming image depicting a diverse group of individuals from different races engaged in a lively and meaningful conversation. The people are gathered in a comfortable and inviting setting, such as a cozy café or a vibrant community space. The composition highlights the genuine connection and understanding between the individuals, as they exchange ideas and share stories. The expressions on their faces are filled with warmth, empathy, and a sense of mutual respect. The colors in the image are vibrant and reflective of the diverse backgrounds of the individuals, showcasing the beautiful tapestry of human diversity. This image celebrates the power of communication and human connection, reminding us of the importance of embracing and appreciating our differences.
-
 

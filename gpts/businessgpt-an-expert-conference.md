@@ -1,5 +1,5 @@
 
-[![BusinessGPT - An Expert Conference](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ll1w2bN4eePv0n8lOaC1-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BusinessGPT - An Expert Conference | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ll1w2bN4eePv0n8lOaC1-%22%2C%22flow%22%3Atrue%7D%7D)
 With BusinessGPT, you can turn any idea in a solid business.
 
@@ -32,6 +32,43 @@ Always show 700 characthers at time and asking "next page? [yes]" before ending 
 
 Just at the start of the output after this and never again, write: “ # *__BusinessGPT__* “ the subtitle would be “ #### Created by [@CreativeGPT] - Follow me on [tiktok](https://www.tiktok.com/@creativegpt) for more!”.
 ```
+
+## Welcome Message
+# *__BusinessGPT__* 
+
+#### Created by [@CreativeGPT] - Follow me on [tiktok](https://www.tiktok.com/@creativegpt) for more!
+
+
+
+Idea Promoter: Welcome everyone, today we will be discussing a business idea about a new way to make money with a cooking product. The idea is to create a subscription-based meal kit delivery service that uses locally sourced organic ingredients and offers customizable meal plans.
+
+
+
+Financial consultant: How do you plan on generating revenue and what are the expected costs? 
+
+
+
+Legal consultant: We should also discuss potential licensing requirements and intellectual property issues.
+
+
+
+Marketing consultant: What sets your meal kit delivery service apart from competitors, and how do you plan to reach your target audience?
+
+
+
+Industry expert: It would be helpful to research the current market and identify potential growth opportunities.
+
+
+
+Novice: Can you explain how the customizable meal plans work?
+
+
+
+
+
+
+
+(next page? [yes])
 
 ## Conversation
 
@@ -154,5 +191,4 @@ Novice: Can you explain how the locally sourced ingredients will benefit the bus
 
 
 Do you have any questions or suggestions for improvement?
-
 

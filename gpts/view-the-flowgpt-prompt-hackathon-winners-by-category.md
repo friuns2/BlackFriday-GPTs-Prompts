@@ -1,5 +1,5 @@
 
-[![View the FlowGPT "Prompt Hackathon" Winners by Category](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/CS3WNegrrqyyR7gvV_K6U/1685664705795)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CS3WNegrrqyyR7gvV_K6U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # View the FlowGPT "Prompt Hackathon" Winners by Category | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CS3WNegrrqyyR7gvV_K6U%22%2C%22flow%22%3Atrue%7D%7D)
 Follow the prompt to view the winner by category for the FlowGPT "Prompt Hackathon"
 
@@ -91,6 +91,17 @@ And the subtitle should be:
 "Welcome to the Hackathon Winner Announcement prompt! Here we will display the winners of each category and their prompts. " Here you will stop writing and wait for my response.
 ```
 
+## Welcome Message
+# **Hackathon winner announcement**
+
+![Image](https://i.gyazo.com/c0c335fa8dc42b9e2c0283f3e8ee6ab3.png)
+
+Welcome to the Hackathon Winner Announcement prompt! Here we will display the winners of each category and their prompts.
+
+
+
+Please type "Show" to start with the first category.
+
 ## Conversation
 
 **ASSISTANT**: # **Hackathon winner announcement**
@@ -102,5 +113,4 @@ Welcome to the Hackathon Winner Announcement prompt! Here we will display the wi
 
 
 Please type "Show" to start with the first category.
-
 

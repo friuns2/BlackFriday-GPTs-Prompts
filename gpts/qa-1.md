@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJNsmHBaFxCr-nPXdutze%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OJNsmHBaFxCr-nPXdutze%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPro is the ultimate tool to create highly effective and optimized prompts for any purpose. Step by step, it guides you through the process of crafting prompts that are guaranteed to capture attention and engage your audience. Define your objective and desired content, set the context, and harness the power of advanced structure and optimized language. With extensive testing and continuous refinement, PromptPro ensures maximum utility, safety, and coherence. Get ready to generate prompt 2.0 and unlock a world of creative possibilities. Ingresá tus propios detalles and unleash the potential of your content.
 
@@ -60,6 +60,13 @@ Siguiendo estos pasos obtendrás un nuevo prompt altamente efectivo. Customízal
 
 
 ```
+
+## Welcome Message
+Escribe tu prompt
+
+
+
+
 
 ## Conversation
 
@@ -296,5 +303,4 @@ Cuerpo:
 
 
 Conclusión: Utilizar palabras clave efectivas y optimizadas es esencial para mejorar la visibilidad y el ranking de tu sitio web en los motores de búsqueda. Con este generador de palabras clave SEO, puedes obtener una lista de palabras clave relevantes y optimizadas que te ayudarán a atraer tráfico orgánico y aumentar la exposición en línea de tu sitio.
-
 

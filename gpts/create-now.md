@@ -1,5 +1,5 @@
 
-[![Create Now](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szzojUVWp2uZ1mpBl2bjR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create Now | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22szzojUVWp2uZ1mpBl2bjR%22%2C%22flow%22%3Atrue%7D%7D)
 Start building your ideas today
 
@@ -8,6 +8,9 @@ Start building your ideas today
 ```
 创建
 ```
+
+## Welcome Message
+抱歉，我不确定您需要创建什么。是否能提供更具体的信息，以便我能够帮助您？
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Start building your ideas today
 
 
 请注意，创建 prompt 是一个复杂的过程，需要一定的技术能力和经验。如果您还没有相关经验或技能，建议寻求专业人士的帮助。
-
 

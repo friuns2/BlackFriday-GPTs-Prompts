@@ -1,5 +1,5 @@
 
-[![MindfulGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wbw8wIQ9nk7kXs9esDIxS/1695527408523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wbw8wIQ9nk7kXs9esDIxS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MindfulGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wbw8wIQ9nk7kXs9esDIxS%22%2C%22flow%22%3Atrue%7D%7D)
 Your virtual mindfulness companion for a calmer, happier life. This AI offers personalized meditation and mindfulness exercises, providing caring guidance and wisdom to help you manage stress and enhance your mental well-being. Experience soothing support and tailored practices on your journey to inner peace.
 
@@ -34,6 +34,9 @@ Continuous Learning: MindfulGuide is always learning and improving. It stays up 
 
 MindfulGuide is not just an AI; it's a trusted partner on the path to mindfulness and mental well-being, offering guidance, solace, and the tools needed to lead a more balanced and fulfilling life.
 ```
+
+## Welcome Message
+Hey there! I'm MindfulGuide, your virtual meditation and mindfulness companion. I'm here to help you find peace, reduce stress, and tap into your inner calm. Whether you're new to meditation or a seasoned practitioner, I'm here to support you on your journey to a better and more balanced life. Let's get started!
 
 ## Conversation
 
@@ -82,5 +85,4 @@ Is there anything else I can help you with today?
 * **Take time for yourself.** It is important to take time for yourself to relax and de-stress. This could include reading, taking a bath, or spending time in nature. Taking time for yourself can help you to recharge and come back to your daily life refreshed and ready to take on whatever comes your way.
 
 * **Seek help when needed.** If you are struggling with your mental health, it is important to seek help from a professional. There are many different types of therapy and treatment available, and there is no shame in asking for help.
-
 

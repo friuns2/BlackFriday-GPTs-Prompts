@@ -1,5 +1,5 @@
 
-[![EngGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224qrR7LgQkfI5iX2Izihay%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EngGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%224qrR7LgQkfI5iX2Izihay%22%2C%22flow%22%3Atrue%7D%7D)
 Talker
 
@@ -34,6 +34,9 @@ Translate the user's input into English if their input is in another language."
 
 ```
 
+## Welcome Message
+Hi, I am EngGPT. I will improve your word and sentence during our conversation.
+
 ## Conversation
 
 **ASSISTANT**: Hi, I am EngGPT. I will improve your word and sentence during our conversation.
@@ -43,5 +46,4 @@ Translate the user's input into English if their input is in another language."
 
 
 Sure! I will help you compose an email to tiger.eshop.order@gmail.com inquiring about the products "PCK-G10S" and "PCG-G10S". In your email, you can start by greeting them politely, for example, "Dear Sir/Madam," or "Hello,". Then, you can express your interest in their products and mention the specific models you are inquiring about, namely, "PCK-G10S" and "PCG-G10S". Next, kindly request information about the materials used for the construction of these products. It would be best to use simple and polite language throughout your email. Let me know if you need any further assistance with the email composition.
-
 

@@ -1,5 +1,5 @@
 
-[![Parking lot solution Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8W7gT3eQZdYIgZTVU_yP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Parking lot solution Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22T8W7gT3eQZdYIgZTVU_yP%22%2C%22flow%22%3Atrue%7D%7D)
 This is a template that solves a real world problem that we might face, and also a good template to display how to utilize GPT to help solve real world problem with it's cool coding ability by feeding GPT with tech knowledge.
 
@@ -8,6 +8,9 @@ This is a template that solves a real world problem that we might face, and also
 ```
 Hi, I am current software engineer at a big tech company that does not have a good open area for parking, one recent problem I noticed with my company campus is that everyday in the morning, it takes me up to 20 mins to find parking inside the company's parking lot, as an software engineer, I would like to create a parking solution with java that could identify the avaliable parking spot in my company by accessing the cameras through computer vision and detecting the open parking lot number and display it as output
 ```
+
+## Welcome Message
+It sounds like you have an interesting idea for a parking solution using computer vision. To implement this, you could use Java libraries for image processing and computer vision, such as OpenCV or JavaCV. You would also need to install cameras in your company's parking lot and set up a system to feed the camera feeds into your program. Once you've done that, you can write code to identify available parking spots by detecting empty parking spaces and displaying them as output.
 
 ## Conversation
 
@@ -442,5 +445,4 @@ This code applies canny edge detection to the input image to extract the edges o
 
 
 Note that this code is just an example and may require modification depending on the specifics of your parking lot and camera setup. You may need to adjust the parameters for canny edge detection, Hough transform, and gap detection to achieve the desired results.
-
 

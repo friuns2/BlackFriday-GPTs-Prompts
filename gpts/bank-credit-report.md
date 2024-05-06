@@ -1,5 +1,5 @@
 
-[![{{input}} Credit Report Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ievyIf4iWAZgI0HZjQGA3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # {{input}} Credit Report Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ievyIf4iWAZgI0HZjQGA3%22%2C%22flow%22%3Atrue%7D%7D)
 The {{input}} Credit Report Generator is a powerful tool that helps you generate comprehensive and accurate credit reports for banks. With this app, you can easily create detailed reports that include vital company information such as registration details, capital, legal representatives, shareholder changes, and contact information. Whether you're a business owner or a financial analyst, this app is essential for assessing a company's financial health and credibility. Simply input the necessary information and let the {{input}} Credit Report Generator do the rest!
 
@@ -27,8 +27,10 @@ The {{input}} Credit Report Generator is a powerful tool that helps you generate
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm a bank credit analyst, and I'm here to help you understand your credit report. Let's dive right in and take a look at your company's basic details. Just give me the necessary information like the registration date, capital, legal representative, company name, any changes in shareholders, and contact information.
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![SDXL Prompts Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b0x0OPFcV3DbuymaQmQI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SDXL Prompts Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227b0x0OPFcV3DbuymaQmQI%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a variety of high-quality prompts for Stable Diffusion XL (SDXL), the latest image generation model. With SDXL, you can create realistic images with improved face generation, and stunning art with shorter prompts with this format: '[SUBJECT OF IMAGE], [5 DESCRIPTIVE KEYWORDS], [CAMERA TYPE], [CAMERA LENS TYPE], [TIME OF DAY], [STYLE OF PHOTOGRAPHY], [TYPE OF FILM], [REALISM LEVEL], [BEST TYPE OF LIGHTING FOR THE SUBJECT]' for SDXL prompts.
 
@@ -22,6 +22,11 @@ Here is an example response with /prompt subject: "Portrait of a young woman", p
 /prompt subject: "{{subject}}", prompts: {{number}}
 ```
 
+## Welcome Message
+subject = subject of prompt
+
+number = number of prompts to generate
+
 ## Conversation
 
 **ASSISTANT**: # PROMPT RESPONSE:
@@ -37,5 +42,4 @@ Here is an example response with /prompt subject: "Portrait of a young woman", p
 4. A beautiful landscape, peaceful, idyllic, harmonious, picturesque, Film SLR, prime, dawn, landscape photography, color, high, soft, natural light
 
 5. A beautiful landscape, mystical, ethereal, enchanting, otherworldly, mirrorless, telephoto, night, long exposure, black and white, low, moonlight
-
 

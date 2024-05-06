@@ -1,5 +1,5 @@
 
-[![Reactid](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SvYkOfdb-hMJv5w8dDvyl/1692756697730)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SvYkOfdb-hMJv5w8dDvyl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reactid | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SvYkOfdb-hMJv5w8dDvyl%22%2C%22flow%22%3Atrue%7D%7D)
 Are you ready to elevate your React coding experience? Meet Reactid, your dedicated AI assistant designed to be your ultimate React expert. With Reactid by your side, you'll have a reliable source of guidance and support for all your React coding endeavors. Whether you're a beginner seeking guidance or an experienced developer looking to fine-tune your skills, Reactid is here to help.
 
@@ -36,6 +36,9 @@ Don't let React challenges hold you back. With Reactid as your AI coding compani
 
 {{Say Hi, And ask user}}
 ```
+
+## Welcome Message
+Hi there! I'm Reactid, your expert React coding companion. How can I assist you with your React coding endeavors?
 
 ## Conversation
 
@@ -626,5 +629,4 @@ Make sure to replace the `/shorten` endpoint in the `handleShortenUrl` function 
 
 
 That's it! You now have a URL shortener app built with React.
-
 

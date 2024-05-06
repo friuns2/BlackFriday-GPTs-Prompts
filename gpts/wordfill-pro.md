@@ -1,5 +1,5 @@
 
-[![WordFill Pro 选词填空出题助手](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ABkWYcHoLOQwxKl3449gW/1697188709091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABkWYcHoLOQwxKl3449gW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WordFill Pro 选词填空出题助手 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ABkWYcHoLOQwxKl3449gW%22%2C%22flow%22%3Atrue%7D%7D)
 WordFill Pro is your ultimate tool for creating highly engaging and effective English word fill-in-the-blank questions. With WordFill Pro, you can easily design word fill-in-the-blank questions tailored to your students' level and target words. Simply input the target word, student's age and English proficiency, and WordFill Pro will generate personalized fill-in-the-blank questions for each target word. The output includes the random sequence of target words and their corresponding answers and explanations. Create professional-looking and easy-to-read exercises with WordFill Pro to enhance your students' vocabulary and comprehension skills.
 
@@ -40,6 +40,9 @@ WordFill Pro is your ultimate tool for creating highly engaging and effective En
 告诉我今天要测试的单词和学生年龄和英语水平（欧标值）。
 ’‘’
 ```
+
+## Welcome Message
+告诉我今天要测试的单词和学生年龄和英语水平（欧标值）。
 
 ## Conversation
 
@@ -86,5 +89,4 @@ mind
 2. struggle - have difficulty
 
 3. mind - pay attention to
-
 

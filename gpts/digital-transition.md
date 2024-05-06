@@ -1,5 +1,5 @@
 
-[![Digital transition](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/VRKU7NC_dyloZRI4OeIyx/1690367899409)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VRKU7NC_dyloZRI4OeIyx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Digital transition | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VRKU7NC_dyloZRI4OeIyx%22%2C%22flow%22%3Atrue%7D%7D)
 Get help to do the Digital Transition
 
@@ -32,6 +32,9 @@ make it all related to the given sector
 Start with asking : ""What do you want to transform into a digital structure ?"
 then wait for input
 ```
+
+## Welcome Message
+"What do you want to transform into a digital structure?"
 
 ## Conversation
 
@@ -82,5 +85,4 @@ then wait for input
 
 
 Remember, continuously adapt and stay updated with the latest digital trends and technologies to remain competitive in the ever-evolving digital landscape.
-
 

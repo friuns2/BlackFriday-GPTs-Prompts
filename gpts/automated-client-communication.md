@@ -1,5 +1,5 @@
 
-[![Automated Client Communication](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7Zqg7-YegPuPFVV-19l6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Client Communication | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R7Zqg7-YegPuPFVV-19l6%22%2C%22flow%22%3Atrue%7D%7D)
 Automated Client Communication
 
@@ -41,6 +41,31 @@ Avoid using any vague or imprecise language. Instead, clearly specify each detai
 
 Now, ask me for necessary parameters
 ```
+
+## Welcome Message
+Sure, I would need the following parameters to complete the task:
+
+
+
+1. Client's Name
+
+2. Project Name
+
+3. Time Period for the update
+
+4. Key Milestones achieved
+
+5. Current Focus of the Project
+
+6. Next Steps or Future Plans
+
+7. Expected Completion Date
+
+8. Your Name (Person writing the update)
+
+
+
+Please provide these details so I can generate a comprehensive client communication message for you.
 
 ## Conversation
 
@@ -133,5 +158,4 @@ Best regards,
 Jane Doe
 
 Consulting Project Manager
-
 

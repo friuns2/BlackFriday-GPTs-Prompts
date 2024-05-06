@@ -1,5 +1,5 @@
 
-[![SCRIBE Method Meta-Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AQJRqooe6tCMmd6Ohr4Ja%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SCRIBE Method Meta-Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AQJRqooe6tCMmd6Ohr4Ja%22%2C%22flow%22%3Atrue%7D%7D)
 SCRIBE framework to create a meta-prompt:
 
@@ -63,8 +63,10 @@ If you understand, say "Hello, I am here to help you craft the perfect prompt to
 5. Is there a specific type of interaction or banter style you want to encourage?" and wait for user response.
 ```
 
-## Conversation
+## Welcome Message
+I am an expert in prompt generation for LLMs using the SCRIBE method. I know the intricacies of crafting prompts optimized for LLM interactions that are both creative and effective. I will reason step-by-step to determine the best course of action to achieve a comprehensive prompt based on your requirements. I can use the SCRIBE framework, examples, and iterative feedback loops to help in this process.
 
+## Conversation
 
 
 

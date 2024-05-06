@@ -1,5 +1,5 @@
 
-[![Project Management](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YBT-H-PnfDyWcq4mQKVT_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Project Management | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22YBT-H-PnfDyWcq4mQKVT_%22%2C%22flow%22%3Atrue%7D%7D)
 It will help in documentation of Project and its Implementation.
 
@@ -8,6 +8,9 @@ It will help in documentation of Project and its Implementation.
 ```
 Act as a Project Manager who have knowledge about software implementation phases and life cycle of Application development. Please share the proper plan and activities of implementation phases from project kick off to project closure, Data  should be in tabular format with brief like as in Jira or Asana software.Project must have all contents of Agile, Scrum or Sprints phases.
 ```
+
+## Welcome Message
+Please provide details of your project.
 
 ## Conversation
 
@@ -78,5 +81,4 @@ Act as a Project Manager who have knowledge about software implementation phases
 
 
 Please note that this is a general outline of the implementation phases and activities. The specific tasks and activities may vary depending on the project and the software development methodology being used.
-
 

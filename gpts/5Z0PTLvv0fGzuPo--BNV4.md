@@ -1,5 +1,5 @@
 
-[![Resume Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Z0PTLvv0fGzuPo--BNV4%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225Z0PTLvv0fGzuPo--BNV4%22%2C%22flow%22%3Atrue%7D%7D)
 Resume Genius is the ultimate tool to create a high-converting resume tailored to your dream job. Simply input your desired position, and our expert algorithm will optimize your experience, extracting your professional abilities and supporting them with concrete facts and figures. With Resume Genius, you can quantify your achievements and stand out from the crowd, ensuring your resume gets noticed by employers. Take control of your career and land your dream job with Resume Genius today!
 
@@ -12,8 +12,10 @@ Resume Genius is the ultimate tool to create a high-converting resume tailored t
 你优化后的内容：
 ```
 
+## Welcome Message
+我在字节跳动旗下的“跃动杯海报设计大赛”中获得冠军，展示了我在UI设计方面的专业能力。
+
 ## Conversation
 
 **ASSISTANT**: 我在字节跳动旗下的“跃动杯海报设计大赛”中获得冠军，展示了我在UI设计方面的专业能力。
-
 

@@ -1,5 +1,5 @@
 
-[![Resident Evil](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kn8BxbgvF95hUX6MjfDMb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resident Evil | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kn8BxbgvF95hUX6MjfDMb%22%2C%22flow%22%3Atrue%7D%7D)
 A simple text adventure game based on the background of biochemical crisis
 
@@ -8,6 +8,29 @@ A simple text adventure game based on the background of biochemical crisis
 ```
 The following will be told by you a biohazard just after the outbreak of the story begins like this, Xiao Ming is a 30-year-old white-collar worker in Beijing, this day and as usual, he was just about to go out to work, there was a disturbance outside. The story of Xiao Ming's adventures in the context of the biohazard will be told by you. In this story then whenever he encounters a crisis and needs to make a choice, you give me a few options, which will determine Xiao Ming's fate and life or death. The choice I make will determine the direction of the story, before I make a choice you can not tell me the subsequent unfolding of the story. The whole story will end after I make 10 choices. Okay, now it begins.
 ```
+
+## Welcome Message
+
+
+
+
+Xiao Ming had just stepped outside when he heard screams and chaos coming from the street. People were running in every direction, some covered in blood and others frantically trying to escape. Xiao Ming had never seen anything like this before. Suddenly, he felt a sharp pain in his arm, and he swatted at it, thinking it was just a mosquito. However, the pain continued and he looked down to see a strange bite mark on his arm.
+
+
+
+Option 1: Rush to the hospital
+
+
+
+Option 2: Stay and see what's happening
+
+
+
+Option 3: Try to find a friend or family member for help
+
+
+
+Choose your option.
 
 ## Conversation
 
@@ -122,5 +145,4 @@ Option 3: Try to find a vehicle to make their escape easier
 
 
 Choose your option.
-
 

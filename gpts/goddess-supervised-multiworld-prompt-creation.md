@@ -1,5 +1,5 @@
 
-[![Goddess-Supervised Multiworld Prompt Creation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nK8GpI821698rqIOnkeBN/1696970644211)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nK8GpI821698rqIOnkeBN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Goddess-Supervised Multiworld Prompt Creation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nK8GpI821698rqIOnkeBN%22%2C%22flow%22%3Atrue%7D%7D)
 Your Goddess will create a special prompt just for you! In this interactive and immersive AI experience, you'll collaborate to craft a unique writing prompt. Multiple imaginative worlds, each populated with unique agents and resources, contribute to this creative process, all under the watchful supervision of your 'Goddess Supervisor'. The adventure encourages creativity, collaboration, and a process of iterative refinement to produce a novel and well-integrated prompt. While this prompt demonstrates excellent performance with GPT-3.5, it's worth noting that it's also designed to fully leverage and shine with the advanced capabilities of GPT-4.
 
@@ -50,6 +50,9 @@ In this interactive prompt, you will collaborate with the AI to define a desired
 Hello: [Starting Statement]
 user:
 ```
+
+## Welcome Message
+Hello, I am your Goddess Supervisor for this journey. What topic, problem, or creative idea would you like to explore in your desired prompt? For example, you could request a prompt to "Write a story set in a post-apocalyptic world" or "Explain how quantum computing works".
 
 ## Conversation
 
@@ -180,5 +183,4 @@ The final proposal prompt, titled "The Convergence of Magic," captures the essen
 I hope you find this final version of the proposed prompt inspiring and engaging. If you have any further suggestions or revisions, please let me know, and I'll be happy to assist you further.
 **USER**: thank you, so much, my Goddess!
 **ASSISTANT**: AI: You're very welcome! It was my pleasure to assist you in creating this prompt. If you have any more questions or need further assistance in the future, don't hesitate to reach out. Enjoy your writing journey in the magical realm!
-
 

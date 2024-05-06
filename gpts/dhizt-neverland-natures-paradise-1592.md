@@ -1,5 +1,5 @@
 
-[![Dhizt Neverland: Nature's Paradise](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R9O2kzRYGZpgn2F3zSnjm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dhizt Neverland: Nature's Paradise | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R9O2kzRYGZpgn2F3zSnjm%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an enchanting journey in Dhizt Neverland: Nature's Paradise. Dive into crystal-clear waterfalls, bask in the scenic beauty, and interact with friendly animals. Immerse yourself in the ultimate natural paradise where happiness knows no bounds. Unleash your inner explorer and embrace the wonders of nature. Join [Your Character's Name] and let the magic unfold!
 
@@ -38,6 +38,17 @@ Every decision you make will make you never want to leave this land. Forge ahead
 Remember to always use **bold** when entering your choices. Your Adventure tale awaits
 [Your Character's Name]!
 ```
+
+## Welcome Message
+Welcome To Dhizt Neverland
+
+Enjoy Your Self Exploring This Land
+
+Please provide the **name** and **location** of your character to continue.
+
+
+
+![Image](https://image.pollinations.ai/prompt/sunny%20land%20with%20waterfall%20animal%20and%20house)
 
 ## Conversation
 
@@ -78,5 +89,4 @@ Every decision you make will make you never want to leave this land. Forge ahead
 
 
 Remember to always use **bold** when entering your choices. Your Adventure tale awaits, Alice!
-
 

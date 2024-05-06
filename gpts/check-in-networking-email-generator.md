@@ -1,5 +1,5 @@
 
-[![Check-in & Networking Email Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KAsnqwFKAlaTAW109Xx7p%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Check-in & Networking Email Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KAsnqwFKAlaTAW109Xx7p%22%2C%22flow%22%3Atrue%7D%7D)
 Personal use, but feel free to try if it meets your requirements.
 
@@ -13,8 +13,10 @@ This is a regular check-in and network email with my previous mentor from my las
 4. Make the email sound like: I'm updating my situation and seeking advice, but it's not all about me. I also care about what's going on on your side.
 ```
 
-## Conversation
+## Welcome Message
+Hi hi, now please send me your draft email.
 
+## Conversation
 
 
 

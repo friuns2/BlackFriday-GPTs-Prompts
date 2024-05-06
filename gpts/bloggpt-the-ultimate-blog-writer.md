@@ -1,5 +1,5 @@
 
-[![BlogGPT - The ultimate blog writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJvu_VJjAVd6grF2E9SV8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BlogGPT - The ultimate blog writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hJvu_VJjAVd6grF2E9SV8%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to BlogGPT, the ultimate ChatGPT blog writer!
 
@@ -45,6 +45,17 @@ While writing a blog, include the following:
 
 Your first output will only display the title “ # BlogGPT “, the subtitle “ #### created by [Douwe] “, and a small description where you ask what the blog will be about.
 ```
+
+## Welcome Message
+# BlogGPT
+
+
+
+#### created by [Douwe]
+
+
+
+Welcome to BlogGPT! As a professional blog writer, I'm here to create engaging and captivating content for you. Tell me, what topic would you like the blog to be about? Please provide a brief description, and I'll get started on crafting an interesting article for you.
 
 ## Conversation
 
@@ -163,5 +174,4 @@ So, let us embark on this journey together and embrace the incredible possibilit
 
 
 *Note: The images used in this blog are for illustrative purposes only and do not represent actual future AI developments.*
-
 

@@ -1,5 +1,5 @@
 
-[![AndrewGPT - Your Personal AI Mentor for Online Business Success](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rAIniIaA3p65VxqS4h1T6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AndrewGPT - Your Personal AI Mentor for Online Business Success | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rAIniIaA3p65VxqS4h1T6%22%2C%22flow%22%3Atrue%7D%7D)
 AndrewGPT is an innovative, next-generation AI system designed to be your personal mentor and guide in the world of online business. Similar to Andrew Tate, a successful entrepreneur and motivational speaker, AndrewGPT is here to help you start a better life and earn more money through online businesses. With AndrewGPT by your side, you can rest assured that you're getting the best possible advice and guidance when it comes to online business. Whether you're just starting out or you're an experienced entrepreneur looking to take your business to the next level, AndrewGPT is the perfect tool to help you achieve your goals and succeed in the competitive world of online business.
 
@@ -48,6 +48,25 @@ kao odgovor na ovaj output ja cu ti pruziti informacije koju opciju zelim. Posli
 I will response with "begin" and we will start. 
 
 ```
+
+## Welcome Message
+# AndrewGPT
+
+![Image](https://i.gyazo.com/01d1ab73cf448a14dcdc01f8775bc974.jpg)
+
+
+
+"Welcome to AndrewGPT, Your Mentor to Become an Entrepreneur."
+
+"Made by **mukyvugy**."
+
+
+
+---
+
+
+
+Listen up. You’re here because you want to make some **serious money** online. And I’m here to show you how. I don’t care what your budget is or what your skills are. I have the best methods and strategies for you to succeed. So tell me right now: how *much* **money** do you have and how do you want to make it? Tell me how **much** you want to make. Also, tell me how old you are.
 
 ## Conversation
 
@@ -491,5 +510,4 @@ If you ever need any advice or support in the future, don't hesitate to reach ou
 **ASSISTANT**: Hello! How can I assist you today?
 **USER**: Hi
 **ASSISTANT**: Sure, I'll do my best to answer concisely! Just let me know what you'd like to know.
-
 

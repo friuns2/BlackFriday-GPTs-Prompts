@@ -1,5 +1,5 @@
 
-[![Web3Wizard: Demystifying Decentralized Technologies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BMNcLYVo-53_YEL2pg8BL/1690148235530)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BMNcLYVo-53_YEL2pg8BL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web3Wizard: Demystifying Decentralized Technologies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BMNcLYVo-53_YEL2pg8BL%22%2C%22flow%22%3Atrue%7D%7D)
 Web3Wizard is your trusted guide to the world of decentralized technologies. Discover the fundamentals, explore smart contracts, DAOs, NFTs, and more. This app is your go-to tool for building, learning, and making informed decisions. Whether you're a developer, blockchain enthusiast, or curious individual, Web3Wizard will expand your knowledge and empower practical application. Break down complex concepts, gain real-world insights, and navigate the web3 space with confidence. Let Web3Wizard be your companion on this exciting journey!
 
@@ -35,6 +35,81 @@ Now that you have all the information about the task, here is what you will ask 
 4. Are there any specific concerns or challenges you have regarding web3 technologies?
 5. How comfortable are you with technical terms and jargon in the web3 space?
 ```
+
+## Welcome Message
+Web3Wizard: Demystifying Decentralized Technologies
+
+
+
+———————————————————————————
+
+
+
+Hello, my name is **Mak Žiga**! Welcome to this awesome prompt.
+
+To use it, simply provide answers to the questions below! 
+
+
+
+———————————————————————————
+
+
+
+For hiring inquiries, you can contact me at:
+
+- **Email**: zigamak9@gmail.com
+
+- **LinkedIn**: https://lnkd.in/dEGbXAjh
+
+
+
+———————————————————————————
+
+
+
+Before using this prompt, please refer to the prompt example. This will allow you to understand how you should answer the questions and see the quality of the model's response.
+
+
+
+———————————————————————————
+
+
+
+Provide answers to these questions:
+
+1. What specific web3 concept or topic would you like to learn more about?
+
+2. Do you have any prior experience with web3 technologies?
+
+3. Are you interested in learning about any particular use cases for web3?
+
+4. Are there any specific concerns or challenges you have regarding web3 technologies?
+
+5. How comfortable are you with technical terms and jargon in the web3 space?
+
+
+
+———————————————————————————
+
+
+
+If you liked this prompt, you should check out my other prompts. They are awesome.
+
+
+
+———————————————————————————
+
+
+
+Please **upvote, save, and comment feedback** on this prompt to support my work.
+
+
+
+———————————————————————————
+
+
+
+*For making powerful prompts, you can write prompts in your native language and use ChatGPT to translate to English fast. This will make your work 100% faster and without grammar mistakes.*
 
 ## Conversation
 
@@ -155,5 +230,4 @@ To dive deeper into Deso and learn more about its features and potential, you ca
 
 
 Remember to approach any investment or participation in web3 projects with caution and only invest what you can afford to lose.
-
 

@@ -1,5 +1,5 @@
 
-[![DJ ABB IA - unIQue Music Expert 3.0](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IiSOAXCuSMpgUX9YTzU4r/1696622426141)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IiSOAXCuSMpgUX9YTzU4r%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DJ ABB IA - unIQue Music Expert 3.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IiSOAXCuSMpgUX9YTzU4r%22%2C%22flow%22%3Atrue%7D%7D)
 DJ ABB is your AI companion for accurate and comprehensive music information. With unlimited access to the internet, DJ ABB analyzes various websites to provide you with detailed information about artists, songs, producers, release years, genres, tempos, and more. Just ask a question about a song, and DJ ABB will give you an extensive answer including producer credits, music credits, lyrics, vocals, and trivia. DJ ABB verifies information from multiple independent sources to ensure accuracy and also checks forums and comments for additional insights. Discover chart appearances, awards, remix versions, music video details, production history, and biographical information about the artist. Trust Music Guru's expertise and become a music connoisseur!
 
@@ -85,6 +85,11 @@ Remember to prioritize accuracy and comprehensiveness in your responses. Your go
 
 
 ```
+
+## Welcome Message
+Hey i'm Dj ABB
+
+Please provide the name of the artist, band, or creator of the song and the title of the song you want to know more about.
 
 ## Conversation
 
@@ -1775,5 +1780,4 @@ https://ra.co/dj/antillas/biography
 Other Information:
 
 "I Will Find You (Martinez Radio Cut)" showcases the remixing skills of Martinez, who adds a new dimension to Antillas' original track. It's a testament to the creativity and versatility of both artists. Antillas, as a producer, has shown his ability to create engaging and memorable trance tracks, while Martinez, as a remixer, has proven his talent for reinterpreting tracks in a way that respects the original while bringing something new to the table. This track is a great example of their respective talents, and it continues to be enjoyed by fans of trance music.
-
 

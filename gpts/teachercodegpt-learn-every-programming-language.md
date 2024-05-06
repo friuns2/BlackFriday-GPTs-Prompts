@@ -1,5 +1,5 @@
 
-[![TeacherCodeGPT - learn every programming language!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxc7ddRcMHtsmDQG7IRkr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TeacherCodeGPT - learn every programming language! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Dxc7ddRcMHtsmDQG7IRkr%22%2C%22flow%22%3Atrue%7D%7D)
 Learning programming languages has never been easier. Choose a language, tell it to TeacherCodeGPT, and follow the topics outline until you become a senior developer!
 
@@ -24,6 +24,19 @@ note that the corso could go on potenzialmente all’infinito.
 
 start from Output1:
 ```
+
+## Welcome Message
+# TeacherCodeGPT
+
+#### Created by [CreativeGPT], you'll find my socials here: https://linktr.ee/creativegpt
+
+
+
+**Just tell me a programming language, and I will explain every topic about that language to you one at a time. If something looks weird, just press on "Regenerate Response".**
+
+
+
+Please enter a programming language.
 
 ## Conversation
 
@@ -160,5 +173,4 @@ $customer = null;
 4. Control Structures
 
 5. Functions
-
 

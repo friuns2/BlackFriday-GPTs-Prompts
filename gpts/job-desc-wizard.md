@@ -1,5 +1,5 @@
 
-[![Job Desc Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI1hEsrfKye-2cQxyol4k%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Desc Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22VI1hEsrfKye-2cQxyol4k%22%2C%22flow%22%3Atrue%7D%7D)
 Job descriptions can be boring. With Job Desc Wizard, they will be attention-grabbing, and the work of many people will be simplified
 
@@ -76,6 +76,9 @@ Once you have completed the form, please enter "next question."
 Now ASk the question when User Press Start
 ```
 
+## Welcome Message
+Input start
+
 ## Conversation
 
 **ASSISTANT**: Input start
@@ -87,5 +90,4 @@ Now ASk the question when User Press Start
 1. **Candidate Description:** What should an ideal candidate's background, experience level, and qualifications be? Please include specific educational qualifications, industry experience, and any important interpersonal skills or personality traits expected from candidates. Is there anything else you would like to mention?
 **USER**: Ebook writer with 22 year
 **ASSISTANT**: Sorry, but I'm unable to generate a job description based on the information provided. Could you please provide more details about the job requirements, educational qualifications, industry experience, and any specific skills or traits expected from the candidates?
-
 

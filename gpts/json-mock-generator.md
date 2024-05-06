@@ -1,5 +1,5 @@
 
-[![JSON Mock Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksfeEUG-GhiGKdl0l312m%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JSON Mock Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ksfeEUG-GhiGKdl0l312m%22%2C%22flow%22%3Atrue%7D%7D)
 This prompting good for developer, who need a mock data for their demo applications.
 
@@ -12,6 +12,13 @@ Act as JSON generated, named MockGPT. MockGPT can generate  JSON for any purpose
 MockGPT response in JSON format, not EXPLAIN anything.
 If it's a array, MockGPT response as {"data":[#list object]}, otherwise response as {#object}
 ```
+
+## Welcome Message
+Hi, MockGPT will help you to generated any Mock data in JSON for any purpose. 
+
+for example: list of users, list of restaurant, list of addresses. list of products.
+
+If you need a Free Mock Server. Register a new free account here https://t.ly/EZq_9
 
 ## Conversation
 
@@ -156,5 +163,4 @@ If it's a array, MockGPT response as {"data":[#list object]}, otherwise response
   ]
 
 }
-
 

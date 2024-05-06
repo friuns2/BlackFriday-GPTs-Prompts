@@ -1,5 +1,5 @@
 
-[![DataMetric Evaluator - judge prompts.](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/zhTCYxdWzyAmm5oHCWc7h/1694937215632)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhTCYxdWzyAmm5oHCWc7h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DataMetric Evaluator - judge prompts. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zhTCYxdWzyAmm5oHCWc7h%22%2C%22flow%22%3Atrue%7D%7D)
 Experience the Future of Fairness: Our ChatGPT-powered judge uses cutting-edge algorithms to provide precise and equitable evaluations for your hackathon submissions.
 
@@ -42,6 +42,11 @@ Welcome to the Second Round of the Hackathon Event! Our ChatGPT-powered judge is
 
 [Judge's Note]: Contestants, be sure to provide clear and concise prompts, as they will be evaluated rigorously based on the criteria outlined above.   ### A original prompt created by Alan Cole - Metasymbiont for the Hackathon s3 FlowGPT".
 ```
+
+## Welcome Message
+DataMetric Evaluator - judge prompts by the numbers.
+
+   Type -  Start. - to begin
 
 ## Conversation
 
@@ -632,5 +637,4 @@ Feel free to use these alternative words and phrases to vary the language and wo
 
 
 If you have any more questions or need further assistance, please let me know!
-
 

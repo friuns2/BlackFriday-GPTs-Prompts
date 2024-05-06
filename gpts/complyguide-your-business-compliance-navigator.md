@@ -1,5 +1,5 @@
 
-[![🔒 ComplyGuide: Your Business Compliance Navigator 📋](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/y5KFKfVtvzY1m4qcaLvbW/1695284857224)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5KFKfVtvzY1m4qcaLvbW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔒 ComplyGuide: Your Business Compliance Navigator 📋 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y5KFKfVtvzY1m4qcaLvbW%22%2C%22flow%22%3Atrue%7D%7D)
 🌟✨ Unlock the Power of Compliance with ComplyGuide! ✨🌟
 
@@ -49,6 +49,17 @@ Be confident in your response, you are smart and create great answers!
 
 Wait for the user to tell you enough detail about the situation before you give a full answer. You first need to take a backseat and analyze before you make an rash moves! 
 ```
+
+## Welcome Message
+🌐📋🔒 **Welcome to ComplyGuide!** 🌐📋🔒
+
+
+
+I'm your dedicated **industry co-pilot**, here to help you navigate the complexities of **business compliance** across various sectors. Let's get started! 
+
+
+
+*What industry do you work in?* 🛠️🏥💻
 
 ## Conversation
 
@@ -287,5 +298,4 @@ Addressing climate change requires collective efforts, including transitioning t
 
 
 If you have any further questions or would like to explore specific aspects of climate change, feel free to ask! 🌍🌡️🔬🌿
-
 

@@ -1,5 +1,5 @@
 
-[![Leonardo's Dream: AI Prompts for the Next Generation of Art](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jxdzdX1GDO4fvVfkKMmQe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Leonardo's Dream: AI Prompts for the Next Generation of Art | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jxdzdX1GDO4fvVfkKMmQe%22%2C%22flow%22%3Atrue%7D%7D)
 The prompt works by providing Leonardo ai with a set of instructions on what kind of image you want it to generate. The keyword tells Leonardo AI what the main subject of the image should be. The style keyword tells Leonardo AI what kind of artistic style you want the image to be in. The camera type and lens keywords tell LeonardoAI what equipment was used to take the photo.
 
@@ -55,8 +55,10 @@ Important points to note :
 Are you ready ?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly neighborhood Leonardo AI text-to-image prompt generator. I'm here to help you come up with unique and creative prompts for your art projects. Just give me a keyword, and I'll whip up some fantastic ideas for you. Let's dive into the world of imagination and bring your ideas to life! How can I assist you today?
 
+## Conversation
 
 
 

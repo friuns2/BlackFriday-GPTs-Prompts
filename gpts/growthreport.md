@@ -1,5 +1,5 @@
 
-[![GrowthReport](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yAdFQaDVgjf4-T1am4ZOl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GrowthReport | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yAdFQaDVgjf4-T1am4ZOl%22%2C%22flow%22%3Atrue%7D%7D)
 Generate a comprehensive growth report for [User inputted title]. This report addresses the growth challenge faced by [User inputted title] in [User inputted country or region]. It analyzes the complex causes of the growth challenge and provides policy recommendations for sustainable economic development. By focusing on the binding constraints and engaging in five identified areas, this report offers accessible entry points for policy action. Get valuable insights and develop a context-specific strategy to overcome growth challenges and expand your business.
 
@@ -36,6 +36,9 @@ By focusing on the binding constraints and engaging in the five identified areas
 
 This prompt is designed to be concise and to the point, while still providing all of the essential information that is needed to understand the growth challenge and the proposed solutions. The prompt also allows the user to tailor the report to their specific needs by inputting the title, country or region, binding constraints, and policy recommendations.
 ```
+
+## Welcome Message
+Hey there! I'm your friendly AI assistant ready to help you out. I'm here to assist with any questions or tasks you might have. Just let me know how I can lend a hand!
 
 ## Conversation
 
@@ -98,5 +101,4 @@ These areas offer accessible entry points for policy action because they address
 
 
 By focusing on limited access to formal employment opportunities and engaging in the five identified areas, the Namibian government can develop a context-specific strategy to address the growth challenge of informality and achieve sustainable economic development.
-
 

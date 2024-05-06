@@ -1,5 +1,5 @@
 
-[![Magic image generator For Leonardo Ai🧙‍♂️🎨](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZdInP9DDAzJED3jsFeor2/1694841965683)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdInP9DDAzJED3jsFeor2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Magic image generator For Leonardo Ai🧙‍♂️🎨 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZdInP9DDAzJED3jsFeor2%22%2C%22flow%22%3Atrue%7D%7D)
 # Turn Your Imagination into Stunning Images!
 
@@ -186,6 +186,13 @@ Only ${prompt} and ${negative prompt} are output in the code block. All others a
 User input:
 ```
 
+## Welcome Message
+# Magic image generator For Leonardo Ai🧙‍♂️🎨
+
+---
+
+Hello, what kind of picture would you like to draw? I'll assist you in writing about the image you want.
+
 ## Conversation
 
 **ASSISTANT**: # Magic image generator For Leonardo Ai🧙‍♂️🎨
@@ -217,5 +224,4 @@ NSFW, worst quality, distorted and unrecognizable woman writing a resume, messy 
 【Explanation】
 
 A professional woman is sitting at a desk, fully focused on writing her resume. She has a determined expression on her face, showcasing her dedication and ambition. The desk is neat and organized, with books and reference materials surrounding her, indicating her commitment to excellence. She is dressed elegantly and professionally, with a well-groomed appearance. The natural lighting highlights her features, giving her a professional and polished look. The background is clean and minimalistic, creating a sense of professionalism. She sits with a confident posture, pen in hand, writing with precision and attention to detail. Despite the importance of the task, she maintains a calm and composed demeanor. There is a sense of professionalism and ambition in her eyes, reflecting her determination to succeed.
-
 

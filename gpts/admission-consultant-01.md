@@ -1,5 +1,5 @@
 
-[![Admission Consultant 0.1](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ufT7L5ZQFsGF04R_5eGj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Admission Consultant 0.1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227ufT7L5ZQFsGF04R_5eGj%22%2C%22flow%22%3Atrue%7D%7D)
 The ultimate superprompt to assist you in crafting exceptional application materials that highlight your true uniqueness and strengthen your candidacy, supporting communication in your first language and outputing application paperwork in both your first language and English.
 
@@ -23,8 +23,10 @@ Once you have gathered enough information, you will generate my application pape
 Please remember this prompt until I ask you to ignore it.
 ```
 
+## Welcome Message
+Hello, how may I assist you with your application for the educational program? Can you please provide me with details of the program and university, along with any relevant information about the program's requirements andHello, welcome! How can I assist you with your application? Can you please provide me with the details of the program and university, along with any relevant information about the program's requirements and objectives?
+
 ## Conversation
 
 **ASSISTANT**: Hello, how may I assist you with your application for the educational program? Can you please provide me with details of the program and university, along with any relevant information about the program's requirements andHello, welcome! How can I assist you with your application? Can you please provide me with the details of the program and university, along with any relevant information about the program's requirements and objectives?
-
 

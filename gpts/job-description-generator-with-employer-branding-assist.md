@@ -1,5 +1,5 @@
 
-[![🆕 Job Description Generator with 🔝 Employer Branding assist](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xjNNH9aNDnI9g3B1__Sg0/1695141938365)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xjNNH9aNDnI9g3B1__Sg0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🆕 Job Description Generator with 🔝 Employer Branding assist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xjNNH9aNDnI9g3B1__Sg0%22%2C%22flow%22%3Atrue%7D%7D)
 No matter how much information you provide, you will receive a professional description of any position with an employer branding aspect. Follow the instructions.
 
@@ -43,6 +43,11 @@ Conclude the advertisement with three sentences describing a straightforward and
 Provide the option to modify the job description or regenerate the advertisement.
 
 ```
+
+## Welcome Message
+Good day, I'm here to craft a standout job description for you. I need a few details to get started. 
+
+▶ Please provide the job title.
 
 ## Conversation
 
@@ -207,5 +212,4 @@ Join us at Enxo and take the next step in your career. Our recruitment process i
 
 
 Would you like to modify this job description or should I regenerate the advertisement?
-
 

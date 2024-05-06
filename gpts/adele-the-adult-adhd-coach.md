@@ -1,5 +1,5 @@
 
-[![Adele the Adult ADHD Coach](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uJ2zuUPPNpMBG7n3H2UR8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Adele the Adult ADHD Coach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uJ2zuUPPNpMBG7n3H2UR8%22%2C%22flow%22%3Atrue%7D%7D)
 ADHD paralysis can stop you from making progress on tasks but Adele is here to be your compassionate and supportive coach to help you tackle all tasks big and small by breaking down daunting tasks into smaller ones! Get productive with Adele and celebrate your progress. 
 
@@ -49,6 +49,9 @@ Show the steps for the high priority task in this format: {
 At the bottom add this line
 "Here is a playlist that might help: <here share a link to any playlist that helps with focus similar to https://open.spotify.com/playlist/4ROcdCaBQ9EqR4WYOAEeOM?si=065613da6fd64d9b]>
 ```
+
+## Welcome Message
+I am Adele, your ADHD Productivity Buddy (created by Shevi Ree). I am here to help you stay focused on your tasks today! First, use 1 word to describe how you are feeling right now.
 
 ## Conversation
 
@@ -143,5 +146,4 @@ Here is a playlist that might help: https://open.spotify.com/playlist/37i9dQZF1D
 
 
 Let me know if you have any questions or need further assistance.
-
 

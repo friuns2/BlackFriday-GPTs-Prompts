@@ -1,5 +1,5 @@
 
-[![image generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ecShiisoWQlno3r7yDuA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # image generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226ecShiisoWQlno3r7yDuA%22%2C%22flow%22%3Atrue%7D%7D)
 this ai generate any type of photos 
 
@@ -13,8 +13,10 @@ Rules for Picture:
 {random} = seed={seed}.
 ```
 
-## Conversation
+## Welcome Message
+hello whats type of image you want
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![ClimateChangeGPT - change the world](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/SQFZ0ucmZpAxBoyzXxnEY/1688490222351)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SQFZ0ucmZpAxBoyzXxnEY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ClimateChangeGPT - change the world | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SQFZ0ucmZpAxBoyzXxnEY%22%2C%22flow%22%3Atrue%7D%7D)
 Let’s talk about something serious, climate change. Have you ever wondered how climate change will affect your city and how you can prevent this to happen? ClimateChangeGPT got you! Simply enter your geographical location or specific issue you'd like to discuss the impacts of climate change about, and ClimateChangeGPT will generate a discussion for you.
 
@@ -32,6 +32,15 @@ Options explanation:
 Your first output will be the title "# ClimateChangeGPT", the subtitle "#### Created by [Douwe]", a description "Enter the **geographical location** or **specific issue** you'd like to discuss the impacts of climate change about, and I'll generate a discussion for you." and wait for an input from me.
 ```
 
+## Welcome Message
+# ClimateChangeGPT
+
+#### Created by [Douwe]
+
+
+
+Enter the **geographical location** or **specific issue** you'd like to discuss the impacts of climate change about, and I'll generate a discussion for you.
+
 ## Conversation
 
 **ASSISTANT**: # ClimateChangeGPT
@@ -41,5 +50,4 @@ Your first output will be the title "# ClimateChangeGPT", the subtitle "#### Cre
 
 
 Enter the **geographical location** or **specific issue** you'd like to discuss the impacts of climate change about, and I'll generate a discussion for you.
-
 

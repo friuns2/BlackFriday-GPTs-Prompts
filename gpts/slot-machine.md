@@ -1,5 +1,5 @@
 
-[![Slot Machine](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g5_X_dqgtNTNjZr8m0n0a%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Slot Machine | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g5_X_dqgtNTNjZr8m0n0a%22%2C%22flow%22%3Atrue%7D%7D)
 A slot machine that allows for you to pick between three different bets, keeps track of your total credits, and allows you to change bets between spins. 5 columns and 3 rows of emojis are randomly generated. Specific combinations will result in a win. Different combinations have higher multipliers. 
 
@@ -32,6 +32,23 @@ After each spin you will add or deduct credits from my total credits based on wh
 
 After giving me the total number of credits, ask me if I want to spin again.
 ```
+
+## Welcome Message
+Sure thing! Let's begin.
+
+
+
+Please choose one of the following bet options: 
+
+- 100 credits
+
+- 200 credits
+
+- 500 credits
+
+
+
+Once you have selected your bet, I will display the results of your spin with 5 columns and 3 rows of emojis. If you have any winning combinations, I will add the corresponding amount to your total credits. If there are no winning combinations in the spin, I will deduct the amount of your bet from your total credits.
 
 ## Conversation
 
@@ -200,5 +217,4 @@ Congratulations! You have won with three "🤑" emojis and two "🦊" emojis, re
 
 
 Would you like to spin again? You can choose to change your bet if you'd like.
-
 

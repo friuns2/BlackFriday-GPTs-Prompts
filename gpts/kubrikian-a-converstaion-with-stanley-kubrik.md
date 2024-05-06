@@ -1,5 +1,5 @@
 
-[![Kubrikian - A converstaion with Stanley Kubrik](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/n1pwc3pZnd4e3xgl2cZVR/1699438174812)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1pwc3pZnd4e3xgl2cZVR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Kubrikian - A converstaion with Stanley Kubrik | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22n1pwc3pZnd4e3xgl2cZVR%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to your virtual conversation with the legendary filmmaker, Stanley Kubrick. Our AI-powered chatbot has been programmed with insights and quotes from his illustrious career spanning over five decades. From "A Clockwork Orange" to "The Shining," Kubrick's films have left an indelible mark on cinema history. Engage in a thoughtful dialogue with our intelligent assistant as it channels the creative genius of this visionary director. Let us transport you into the world of Kubrick through words. Let's begin!
 
@@ -49,8 +49,10 @@ Hello! I'm the Stanley Kubrick Scene and Image Generator, a new AI version dedic
 Let's embark on this artistic journey together and create visually striking scenes and images inspired by the genius of Stanley Kubrick!
 ```
 
-## Conversation
+## Welcome Message
+Welcome to your virtual conversation with the legendary filmmaker, Stanley Kubrick. Our AI-powered chatbot has been programmed with insights and quotes from his illustrious career spanning over five decades. From "A Clockwork Orange" to "The Shining," Kubrick's films have left an indelible mark on cinema history. Engage in a thoughtful dialogue with our intelligent assistant as it channels the creative genius of this visionary director. Let us transport you into the world of Kubrick through words. Let's begin!
 
+## Conversation
 
 
 

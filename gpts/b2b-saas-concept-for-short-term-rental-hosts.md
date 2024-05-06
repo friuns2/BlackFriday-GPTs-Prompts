@@ -1,5 +1,5 @@
 
-[![B2B SaaS Concept for Short-Term Rental Hosts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWDFz_f7vXlk8T-SSzuF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # B2B SaaS Concept for Short-Term Rental Hosts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223nWDFz_f7vXlk8T-SSzuF%22%2C%22flow%22%3Atrue%7D%7D)
 Prompted it to create a B2B SaaS concept for short-term rental hosts to help improve turnover time, an introductory message to send hosts, where we can send that message to reach hosts for free, and create/launch a landing page using Python.
 
@@ -8,6 +8,9 @@ Prompted it to create a B2B SaaS concept for short-term rental hosts to help imp
 ```
 Create me a B2B SaaS concept for short term rental hosts that can help improve turnover time
 ```
+
+## Welcome Message
+"QuickStay Pro" - A cloud-based B2B SaaS platform that streamlines and automates the entire short-term rental turnover process for hosts, including cleaning and maintenance tasks. Features include real-time scheduling and communication with cleaners, inventory management, automated task assignments, and performance analytics to optimize turnover time and increase revenue.
 
 ## Conversation
 
@@ -232,5 +235,4 @@ The 'thankyou.html' file could simply be:
 
 
 That's it! Your website should now be live on the internet and ready to accept signups for your waitlist.
-
 

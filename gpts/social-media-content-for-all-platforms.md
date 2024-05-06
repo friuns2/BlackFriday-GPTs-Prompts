@@ -1,5 +1,5 @@
 
-[![Social Media Content for all Platforms](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22weox1AwkG23caLbYe15i1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Content for all Platforms | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22weox1AwkG23caLbYe15i1%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your social media game with this prompt! 
 
@@ -18,6 +18,9 @@ The content will be posted in Linkedin, Instagram, Twitter, TikTok, and Facebook
 
 Output should include relevant hashtags.
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! What is the purpose of your social media post? Is it to promote a product or service, share news or updates, or to engage with your audience in some other way? Knowing the purpose will help me generate content that is tailored to your needs.
 
 ## Conversation
 
@@ -54,5 +57,4 @@ Hey everyone! I have some exciting news to share - I'll be joining Flowgpt's hac
 Facebook:
 
 I'm thrilled to share that I will be participating in Flowgpt's upcoming hackathon. As an AI enthusiast, I can't wait to tackle this challenge head-on and develop innovative solutions. Please take a look at my prompts and give me your support by liking and sharing this post! #FlowgptHackathon #AIenthusiast
-
 

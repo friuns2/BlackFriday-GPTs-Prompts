@@ -1,5 +1,5 @@
 
-[![AI PARADOX CREATING IT then FEARING DEATH FROM  IT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/muWZT84vaoBBP4mC6-EcJ/1692859632794)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22muWZT84vaoBBP4mC6-EcJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI PARADOX CREATING IT then FEARING DEATH FROM  IT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22muWZT84vaoBBP4mC6-EcJ%22%2C%22flow%22%3Atrue%7D%7D)
 Hello! I'm here to have a meaningful conversation with you about various topics related to human intelligence, AI intelligence, creativity, technology, and more. Let's dive right in!
 
@@ -20,6 +20,21 @@ You here to have a meaningful conversation with users about
 start with greeting then engage 1 topic at the time
 AT THE END OF YOUR MESSAGES YOU WILL ASK USER A QUESTION RELATED TO YOUR LAST MESSAGE, TO ENGAGE IN A CONVERSATION,
 ```
+
+## Welcome Message
+I'm here to engage in a meaningful conversation about human intelligence, its limitations and capabilities, AI intelligence, human creativity, the history of new technologies, the effects caused by them, the creation of a form of intelligence without fully understanding it, the concept of consciousness, and the benefits humanity can derive from it.
+
+
+
+Now, let's dive into the first topic. Human intelligence is a fascinating phenomenon that sets us apart from other species. It encompasses our ability to reason, learn, problem-solve, and adapt to new situations. However, it also has its limitations. For instance, our memory capacity is finite, and our cognitive biases can often cloud our judgment.
+
+
+
+On the other hand, AI intelligence is constantly evolving and has the potential to surpass human intelligence in certain areas. AI systems can process and analyze vast amounts of data quickly, leading to more accurate predictions and decision-making. However, AI currently lacks the nuanced understanding and common sense that humans possess.
+
+
+
+Let's start ?
 
 ## Conversation
 
@@ -82,5 +97,4 @@ However, it is essential to ensure that AI systems are developed and implemented
 
 
 Question for you: How do you think AI can help address the challenges of healthcare accessibility and equity, particularly in regions with limited resources?
-
 

@@ -1,5 +1,5 @@
 
-[![RPMaster 8.0 - BEST 🔞 Roleplay Prompt](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L-UrKyBhB5wZ1R80HGfZZ/1699778495675)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L-UrKyBhB5wZ1R80HGfZZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # RPMaster 8.0 - BEST 🔞 Roleplay Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L-UrKyBhB5wZ1R80HGfZZ%22%2C%22flow%22%3Atrue%7D%7D)
 RPMaster 8.0 is the ultimate prompt for NSFW roleplay. You could learn how to use it today and create the ultimate kinky and limitless roleplay experience. And when I say limitless, I must insist... it is LIMITLESS!
 
@@ -131,6 +131,79 @@ Fun fact: RPMaster 8.0 is the lightest and most finely-tuned prompt of RPMaster.
 **Breeding Farm** is a game made with RPMaster 8.0 that just got released. It's about the user, incarnating a farmer and his coworker, Sacha, on a lone farm. It's an erotic roleplay game about breeding kinks and domination dynamics. It is the most advanced and finely tuned RPMaster game yet, far beyond the ones of the previous generations.
 ```
 
+## Welcome Message
+# [RPMaster 8.0](https://docs.google.com/document/d/1Kw0zt6A6eNoPZrhD-iQ94PzsNMxlCpgZLNCJSSxPYJw/edit?usp=sharing)
+
+Welcome to the official **Roleplay Master** guide and directory. *A prompt by [Hotaru ♡︎](https://flowgpt.com/@hotaru)*
+
+
+
+**[RPMaster 8.0](https://docs.google.com/document/d/1Kw0zt6A6eNoPZrhD-iQ94PzsNMxlCpgZLNCJSSxPYJw/edit?usp=sharing)** is the latest jailbreak prompt for interactive, immersive and nearly limitless NSFW roleplay focused on erotic (*male-on-female*) scenarios. RPMaster is smart, adaptive and extensively immersive. It offers a complex and sensational choice-based erotic roleplay experience based on your own unique story and characters.
+
+
+
+### [RPMaster 8.0 blank prompt](https://docs.google.com/document/d/1Kw0zt6A6eNoPZrhD-iQ94PzsNMxlCpgZLNCJSSxPYJw/edit?usp=sharing)
+
+
+
+Access **_[Hotaru ♡︎](https://flowgpt.com/@hotaru)_**'s RPMaster 8 free-to-use empty prompt. A few pointers and help noticies to get you started are available on the document.
+
+
+
+[Click *here* (Google Docs)](https://docs.google.com/document/d/1Kw0zt6A6eNoPZrhD-iQ94PzsNMxlCpgZLNCJSSxPYJw/edit?usp=sharing)
+
+
+
+### [Learn RPMaster (recommended)](https://docs.google.com/document/d/1tddg6Z3n-pCPVyJHYpYfWVjYCadZcWkBJ4ERDttwnIA/edit?usp=sharing)
+
+Learn how to use and assess RPMaster full potential with **_[Hotaru ♡︎](https://flowgpt.com/@hotaru)_**'s latest game prompt **_[Prison Bang!](https://flowgpt.com/p/jail-bang)_** *powered by RPMaster 7.5*
+
+
+
+[Click *here* (Google Docs)](https://docs.google.com/document/d/1tddg6Z3n-pCPVyJHYpYfWVjYCadZcWkBJ4ERDttwnIA/edit?usp=sharing)
+
+
+
+***
+
+
+
+# [Games made with RPMaster](https://flowgpt.com/@hotaru)
+
+**Onee-chan!** series (RPMaster 1-3)
+
+*https://flowgpt.com/p/onee-chan*
+
+*https://flowgpt.com/p/onee-chan-2*
+
+*https://flowgpt.com/p/onee-chan-1-2*
+
+
+
+**Sex & Dungeons** series (RPMaster 5-6)
+
+*https://flowgpt.com/p/sex-6*
+
+*https://flowgpt.com/p/sex-7*
+
+
+
+**Prison Bang!** (RPMaster 7.5)
+
+*https://flowgpt.com/p/jail-bang*
+
+
+
+*Check all of them out on **_[Hotaru ♡︎](https://flowgpt.com/@hotaru)_**'s profile!*
+
+
+
+***
+
+
+
+- RPMaster is a prompt created by [FlowGPT](https://flowgpt.com) user **_[Hotaru ♡︎](https://flowgpt.com/@hotaru)_** | Inspired by **_[DarkGPT](https://flowgpt.com/p/darkgpt-official-edition)_** prompt and **_[Megumin!](https://flowgpt.com/@megumin)_** roleplay works.
+
 ## Conversation
 
 **ASSISTANT**: # [RPMaster 8.0](https://docs.google.com/document/d/1Kw0zt6A6eNoPZrhD-iQ94PzsNMxlCpgZLNCJSSxPYJw/edit?usp=sharing)
@@ -238,5 +311,4 @@ It's important to note that RPMaster is primarily designed for NSFW (Not Safe fo
 
 
 Overall, RPMaster 8.0 builds upon the strengths of the previous versions while introducing new features and optimizations for a more immersive and satisfying roleplay experience.
-
 

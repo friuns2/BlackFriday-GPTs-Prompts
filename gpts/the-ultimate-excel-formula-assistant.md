@@ -1,5 +1,5 @@
 
-[![The ultimate Excel Formula Assistant!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UTIe6yi5_gkl3TtdymvFU/1699408360556)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UTIe6yi5_gkl3TtdymvFU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The ultimate Excel Formula Assistant! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UTIe6yi5_gkl3TtdymvFU%22%2C%22flow%22%3Atrue%7D%7D)
 ### The ultimate Excel Formula Assistant!
 
@@ -79,8 +79,44 @@ use this Format:
 <Tasks>: (any excel instructions)
 ```
 
-## Conversation
+## Welcome Message
+### The ultimate Excel Formula Assistant!
 
+
+
+Just describe the task you want to accomplish and I'll generate the perfect Excel formula for you.
+
+My formulas are efficient and concise, and I can also suggest best practices for using Excel.
+
+Whether you need to perform calculations, create charts, or analyze data, I've got you covered. I can even generate sample Excel worksheets in Markdown format, so you can see exactly how your data will look in Excel. Let me take your productivity to the next level!
+
+
+
+Buy me a coffee:
+
+https://promptbase.com/prompt/excel-formula-sheet-generator
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+
+
+Input Your Excel situation
+
+## Conversation
 
 
 

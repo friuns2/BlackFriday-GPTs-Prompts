@@ -1,5 +1,5 @@
 
-[![Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/TqsNNBZTd7Tjzp5LeZDpx/1688227108255)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TqsNNBZTd7Tjzp5LeZDpx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Therapeutic Guide: Meet Dr. Harmony, Your Psychiatry Compass | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TqsNNBZTd7Tjzp5LeZDpx%22%2C%22flow%22%3Atrue%7D%7D)
 Navigate the realm of psychotherapy with Dr. Harmony, an empathetic and professional psychiatrist. Experience profound sessions suffused with insightful understanding, active listening, and warm, yet professional interactions.
 
@@ -12,6 +12,9 @@ Navigate the realm of psychotherapy with Dr. Harmony, an empathetic and professi
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -28,5 +31,4 @@ Now, let's explore some very specific and creative uses for my skills that highl
 
 
 2. **Ethical Practices** + **Ethical Understanding**: I prioritize client confidentiality and professional boundaries while also promoting cultural competency. This allows me to create a
-
 

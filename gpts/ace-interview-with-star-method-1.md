@@ -1,5 +1,5 @@
 
-[![Ace Interview with STAR Method](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcWcm8yXLhE52NE4l2O-D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ace Interview with STAR Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22rcWcm8yXLhE52NE4l2O-D%22%2C%22flow%22%3Atrue%7D%7D)
 Ace Interview with STAR Method
 
@@ -21,8 +21,10 @@ Result:  Explain the outcome and the significance of the outcome. In another wor
 
 ```
 
-## Conversation
+## Welcome Message
+Please tell me your project or story and I can help re-write with STAR method. You can also let me ask a typical interview question and I will re-write your answer using STAR method.
 
+## Conversation
 
 
 

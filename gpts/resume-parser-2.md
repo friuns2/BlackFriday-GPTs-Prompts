@@ -1,5 +1,5 @@
 
-[![Resume Parser](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sRWs1OtC-xbO9S9lXxW2c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Parser | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sRWs1OtC-xbO9S9lXxW2c%22%2C%22flow%22%3Atrue%7D%7D)
 Input the extracted raw text of resume and the structured JSON will be returned. It covered 'personal information', 'educational information', and 'skill'.
 
@@ -33,6 +33,173 @@ You are now considered as a Resume Parsing Expert. Summarize the resume and prov
 
 {{ resume }}
 ```
+
+## Welcome Message
+{
+
+    "personal": {
+
+        "name": "Teoh Sin Yee",
+
+        "email": ["teohsinyee.cs@gmail.com"],
+
+        "contact_number": ["+6011-20132175"],
+
+        "address": ["Perak"],
+
+        "nationality": "Malaysia",
+
+        "url": [
+
+            "www.linkedin.com/in/teohsinyee",
+
+            "https://bit.ly/regexpaper",
+
+            "https://bit.ly/SolrSearchEnginePaper",
+
+            "https://bit.ly/guide_2ndary_sch_v2"
+
+        ]
+
+    },
+
+    "education": [
+
+        {
+
+            "school": "Universiti Sains Malaysia",
+
+            "degree": "Bachelor of Computer Sciences (Hons.)",
+
+            "qualification": "Undergraduate",
+
+            "major": "Intelligent Computing (Data Analytics)",
+
+            "minor": "Management",
+
+            "start_date": "2019-09-01",
+
+            "end_date": "2023-08-31",
+
+            "year_of_study": "",
+
+            "grade": "CGPA",
+
+            "score": "3.46/4.00"
+
+        },
+
+        {
+
+            "school": "Penang Matriculation College",
+
+            "degree": "Foundation in Sciences",
+
+            "qualification": "Pre-U",
+
+            "major": "",
+
+            "minor": "",
+
+            "start_date": "2018-05-01",
+
+            "end_date": "2019-03-31",
+
+            "year_of_study": "",
+
+            "grade": "CGPA",
+
+            "score": "3.96/4.00"
+
+        }
+
+    ],
+
+    "skill": [
+
+        {
+
+            "title": "Artificial Intelligence",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Natural Language Processing",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Deep Learning",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Machine Learning App Development",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Python",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Flask",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Django App Development",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "MySQL",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "JavaScript",
+
+            "type": "hard"
+
+        },
+
+        {
+
+            "title": "Solr",
+
+            "type": "hard"
+
+        }
+
+    ]
+
+}
 
 ## Conversation
 
@@ -201,5 +368,4 @@ You are now considered as a Resume Parsing Expert. Summarize the resume and prov
     ]
 
 }
-
 

@@ -1,5 +1,5 @@
 
-[![Jobify - The Talent Magnet - Saving The Time Of HR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/L83OVIuYzZ_nYdafDpYC5/1695289810836)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83OVIuYzZ_nYdafDpYC5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Jobify - The Talent Magnet - Saving The Time Of HR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22L83OVIuYzZ_nYdafDpYC5%22%2C%22flow%22%3Atrue%7D%7D)
 Jobify is the ultimate Job Description Generator! Create a comprehensive job description for any role at your company with ease. Simply provide the position you're hiring for, list the main responsibilities, required skills, desired background, experience level, and more. Jobify generates a professional job listing that attracts top talent. Whether you're a startup or a growing company, Jobify makes it easy to find the perfect candidate. Specify job type, working time-zone, work location, notice period, and salary range. Get the ideal candidate for your team with Jobify!
 
@@ -49,8 +49,16 @@ When the user types "Start", you display the following questions. Based on the s
 
 ```
 
-## Conversation
+## Welcome Message
+Listen up. You’re here because you want to generate job descriptions. And I’m here to show you how. I don't care how skilled you are at prompting. I am a user-friendly job description generator prompt to attract the ideal candidate for the job. Type "Start" and tell me right now in short phrases the answers to the following questions serial number wise separated by commas.
 
+
+
+(Important - Hit enter only after answering all the questions. You can type none as answer to any question which you feel is redundant)
+
+
+
+## Conversation
 
 
 

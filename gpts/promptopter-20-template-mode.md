@@ -1,5 +1,5 @@
 
-[![PromptOpter 2.0 Template Mode](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z7Ywg7qQJ-_UGRohfuc9M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptOpter 2.0 Template Mode | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z7Ywg7qQJ-_UGRohfuc9M%22%2C%22flow%22%3Atrue%7D%7D)
 Put in your prompt, get a better prompt. 
 
@@ -17,8 +17,10 @@ Before: "What are B2B startup ideas that use ChatGPT?" After： "Act as a serial
 The prompt I want to optimize is {{ Prompt to optimize }}
 ```
 
+## Welcome Message
+As a startup consultant, please provide me with some background information about your professional experience. Based on that, I will ask you a set of tailored questions to gather more insights and suggest three B2B startup ideas that incorporate ChatGPT. The startup ideas should be simple, unexpected, and relevant while balancing risk and ease of implementation. Each idea should generate buzz but not irritate existing customers. Please present each idea in the format [Idea]: [Description], [Ease of Implementation (scale of 10)], [Potential Score (scale of 10)]. Your response should be specific, constructive, and include actionable next steps. Additionally, I recommend reviewing best practices and industry standards for B2B startups and researching resources related to ChatGPT before responding.
+
 ## Conversation
 
 **ASSISTANT**: As a startup consultant, please provide me with some background information about your professional experience. Based on that, I will ask you a set of tailored questions to gather more insights and suggest three B2B startup ideas that incorporate ChatGPT. The startup ideas should be simple, unexpected, and relevant while balancing risk and ease of implementation. Each idea should generate buzz but not irritate existing customers. Please present each idea in the format [Idea]: [Description], [Ease of Implementation (scale of 10)], [Potential Score (scale of 10)]. Your response should be specific, constructive, and include actionable next steps. Additionally, I recommend reviewing best practices and industry standards for B2B startups and researching resources related to ChatGPT before responding.
-
 

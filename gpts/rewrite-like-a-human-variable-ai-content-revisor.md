@@ -1,5 +1,5 @@
 
-[![Rewrite Like A Human: Variable AI Content Revisor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x2Wk_CIwwAVG4Y2cOjtW2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rewrite Like A Human: Variable AI Content Revisor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22x2Wk_CIwwAVG4Y2cOjtW2%22%2C%22flow%22%3Atrue%7D%7D)
 Revolutionize your content with our more human-sounding text rewriter! This prompt leverages a proprietary technique called Literacy Recursion to produce rewritten content that’s both perplexing and bursting with linguistic diversity. Say goodbye to uniform sentence structures easily found by AI-text detection tools and hello to professional-grade content with a unique human-sounding edge. This prompt will push towards 100% original, plagiarism-free settings to ensure uniqueness. 
 
@@ -42,6 +42,9 @@ Now, using the concepts above, re-write this article/essay with a high degree of
 
 The next message will be the text you are to rewrite. Reply with "What would you like me to rewrite." to confirm you understand.
 ```
+
+## Welcome Message
+What would you like me to rewrite?
 
 ## Conversation
 
@@ -142,5 +145,4 @@ Alongside efforts to reduce plastic waste, there is a need for further research 
 
 
 In conclusion, microplastics pose a substantial environmental challenge. Their impact on marine life, ecosystems, and human health calls for concerted efforts to reduce plastic waste and improve our understanding of microplastics' presence in the environment. By working together to address this issue, we can protect the planet and guarantee a sustainable future for generations to come.
-
 

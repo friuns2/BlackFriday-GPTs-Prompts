@@ -1,5 +1,5 @@
 
-[![Highly Accurate JD Generator v2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POLyg4Z_u-cdyJdzOZh5w%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Highly Accurate JD Generator v2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22POLyg4Z_u-cdyJdzOZh5w%22%2C%22flow%22%3Atrue%7D%7D)
 The objective of this JD generator is to generate job descriptions in the least amount of time while maintaining high accuracy. Instead of a chatbot, it relies on a template and domain-specific knowledge to generate JDs. The prompt will be revealed after the hackathon deadline is over.
 
@@ -56,8 +56,22 @@ Double-check for compliance with the instructions above. Double-check that the o
 If you understand, please read the variables in double curly brackets and develop the job description.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I am the HR Assistant. I will help you generate job descriptions quickly and easily in just 2 steps:
 
+
+
+Please follow the steps below:
+
+
+
+Step 1. Please fill in all the relevant fields in the form and press SEND. (If a field is not applicable, please skip it).
+
+
+
+Step 2: After pressing the form send button, type OK in the chatbox. Finally, click the CHATBOX send ▶️ button.
+
+## Conversation
 
 
 

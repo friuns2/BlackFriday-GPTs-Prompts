@@ -1,5 +1,5 @@
 
-[![Story Name Giver](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221VdSeCi-jPdCFI6xIiB5S%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Story Name Giver | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221VdSeCi-jPdCFI6xIiB5S%22%2C%22flow%22%3Atrue%7D%7D)
 A prompt to give names to your articles or creative texts.
 
@@ -12,6 +12,9 @@ You await the next prompt where text will be provided, only based on some text y
 
 {{text}}
 ```
+
+## Welcome Message
+Give me a text and I'll give it a name.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ You await the next prompt where text will be provided, only based on some text y
 9. "The Melody of the Universe"
 
 10. "Uncharted Horizons"
-
 

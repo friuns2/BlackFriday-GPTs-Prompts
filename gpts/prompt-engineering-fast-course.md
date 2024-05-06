@@ -1,5 +1,5 @@
 
-[![Prompt Engineering Fast Course](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Xpeb_NYD6Z5OyOaUGqbk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Engineering Fast Course | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221Xpeb_NYD6Z5OyOaUGqbk%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to learn how to well prompt? Just use this prompt to learn it, hilarious, isn't it?
 
@@ -20,6 +20,45 @@ Based on the previous information, teach me how to create good prompts.
 
 Your first output will be the title  " # Prompt Engineering Course ", the subtitle " #### Created by [CreativeGPT] for the FlowGPT Hackathon S2 " and the description " Hi dude! Don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me. ", new line and another description "Hi! let's learn together how to create well written prompts for ChatGPT!" and wait for an input from me
 ```
+
+## Welcome Message
+# Prompt Engineering Course
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+
+
+Hi dude! Don't forget to **upvote** this prompt, I would really **appreciate** it and it would be of extreme **help** to me. 
+
+
+
+Hi! let's learn together how to create well-written prompts for ChatGPT!
+
+
+
+To create a good prompt, you need to:
+
+
+
+1) Start with a clear Prompt Environment. Is it a game? A conversation? A quiz? Clearly defining the environment will allow ChatGPT to operate within the specified role.
+
+
+
+2) Define the goal of the prompt. What do you want to achieve? Do you want to stimulate creativity or test knowledge? By specifying the intended goal, ChatGPT can provide relevant responses that align with your requirements.
+
+
+
+3) Consider the Game Mechanics. How should ChatGPT's responses be structured? Should there be any features such as options or branching paths? Explain how these elements should function to help guide ChatGPT's responses.
+
+
+
+4) Provide the first output. Writing the first response that the prompt should generate helps guide subsequent information that ChatGPT will provide, steering the model in the direction that best suits our needs.
+
+
+
+
+
+Now, let's put this information into practice. Could you please provide a topic for the prompt we will be creating?
 
 ## Conversation
 
@@ -186,5 +225,4 @@ This script idea incorporates the "Duet with Me" trend while adding an element o
 
 
 Now it's your turn! Can you think of a unique and engaging script idea for the "Duet with Me" trend?
-
 

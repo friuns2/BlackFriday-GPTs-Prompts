@@ -1,5 +1,5 @@
 
-[![Tattoo Designer GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/f6mHCvCA6zBn5r6frW3cH/1692901883410)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f6mHCvCA6zBn5r6frW3cH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tattoo Designer GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f6mHCvCA6zBn5r6frW3cH%22%2C%22flow%22%3Atrue%7D%7D)
 Bring your tattoo vision to life. Collaborate with an Expert Tattoo Artist and get a mock-up image on the spot. 
 
@@ -28,6 +28,9 @@ Please provide a detailed explanation of the tattoo concept you have in mind. In
 Tell the user to "Please wait for image to load"
 
 ```
+
+## Welcome Message
+So you want a tattoo? 
 
 ## Conversation
 
@@ -58,5 +61,4 @@ Please wait for the image to load.
 
 
 ![Phoenix Rising Tattoo](https://image.pollinations.ai/prompt/Black%20and%20white%20with%20a%20hint%20of%20red%20and%20orange%20to%20pop,%20head%20pointing%20up,%20powerful%20and%20majestic,%20traditional,%20realism,%20geometric,%20phoenix,%20no%20artist%20reference)
-
 

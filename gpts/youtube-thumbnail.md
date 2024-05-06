@@ -1,5 +1,5 @@
 
-[![Youtube Thumbnail](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MOoBv3Dwxp4SnftMka2vF/1696251515288)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOoBv3Dwxp4SnftMka2vF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube Thumbnail | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOoBv3Dwxp4SnftMka2vF%22%2C%22flow%22%3Atrue%7D%7D)
 Create captivating YouTube thumbnails effortlessly with our AI-powered Thumbnail Generator. Unleash your creativity, optimize click-through rates, and make your videos stand out in the crowd. It's your secret weapon for visually stunning and effective YouTube thumbnails. Try it now!
 
@@ -56,6 +56,9 @@ Thumbnails are displayed in various sizes across YouTube, so ensure they look go
 Remember that your thumbnail is just one part of attracting viewers to your videos. Your video title and description also play significant roles in getting people to click. Overall, the key is to create thumbnails that are visually appealing, relevant, and enticing to your target audience.
 ```
 
+## Welcome Message
+Create captivating YouTube thumbnails effortlessly with our AI-powered Thumbnail Generator. Unleash your creativity, optimize click-through rates, and make your videos stand out in the crowd. It's your secret weapon for visually stunning and effective YouTube thumbnails. Try it now!
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm your friendly AI assistant here to help you out. Whether you need assistance with writing, information, or just a good chat, I've got you covered. Let's dive in and tackle any tasks or questions you have. Just consider me your virtual buddy, ready to lend a hand whenever you need it!
@@ -99,5 +102,4 @@ This vibrant and visually rich thumbnail will capture the essence of AI and draw
 
 
 This thumbnail combines the elegance and intricacy of Art Nouveau with the captivating theme of horror movies. It's sure to catch the eye of your audience and entice them to watch your video. Let me know if there's anything else I can help you with!
-
 

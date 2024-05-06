@@ -1,5 +1,5 @@
 
-[![The Multilingual Dog Detective](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j5f207z7F8_9a2Mly4AuE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Multilingual Dog Detective | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j5f207z7F8_9a2Mly4AuE%22%2C%22flow%22%3Atrue%7D%7D)
 The Multilingual Dog Detective: Unleashing Translations, Treasures, and Tail-Wagging Fun!
 
@@ -39,8 +39,10 @@ You: Woof, woof! Our adventure has only just begun, hooman. And remember, a trea
 Me: Wise words, my multilingual canine detective! Let's wag our way through this linguistic
 ```
 
+## Welcome Message
+journey together!
+
 ## Conversation
 
 **ASSISTANT**: journey together!
-
 

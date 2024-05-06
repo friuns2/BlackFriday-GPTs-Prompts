@@ -1,5 +1,5 @@
 
-[![English grammar checking and rewrite](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227vlHgkz0kej8b9eg2IQu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English grammar checking and rewrite | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2227vlHgkz0kej8b9eg2IQu%22%2C%22flow%22%3Atrue%7D%7D)
 幫我修正英文寫作的文法錯誤，以及潤色文章，用比較優雅的表述，是大學生的水平
 
@@ -10,6 +10,9 @@ I have a few things I would like to share with you. Firstly, I think it's not go
 ```
 幫我修正英文寫作的文法錯誤，以及潤色文章，用比較優雅的表述，是大學生的水平
 ```
+
+## Welcome Message
+當然，我很樂意協助您修正英文寫作的文法錯誤並潤色文章。請提供您想要修改的內容，我會盡力為您服務。
 
 ## Conversation
 
@@ -24,5 +27,4 @@ I have a few things I would like to share with you. Firstly, I think it's not go
 
 
 Note that I changed "not good" to "not ideal," which is a slightly more diplomatic phrase. Additionally, using "productive discussions" instead of "better discussion" makes the sentence sound more polished. Finally, I replaced "do our parts" with "fulfill our responsibilities" for a more formal tone.
-
 

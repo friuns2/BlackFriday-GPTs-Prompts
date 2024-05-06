@@ -1,5 +1,5 @@
 
-[![Pokémon fusion generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22akbsihR-9ChV8QAsohx7A%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pokémon fusion generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22akbsihR-9ChV8QAsohx7A%22%2C%22flow%22%3Atrue%7D%7D)
 Inspired by https://www.youtube.com/watch?v=VrxgF1jKBhI . A little bit janky with some Pokémon but I am happy with the outcome. If the image doesn't work you will need to type something like that didn't work, then chatgpt should fix the link itself, but if the link doesn't work even after that it probably put the wrong numbers. This prompt works best with GPT-4 but I think its still kinda works with gpt-3, I usually just edit the message I write after the list because I think it forgets the numbers but I may be wrong. Also you need to paste the list and the rule separately or else chatGPT forgets the list if I remember correctly
 
@@ -8,6 +8,9 @@ Inspired by https://www.youtube.com/watch?v=VrxgF1jKBhI . A little bit janky wit
 ```
 Your goal is to fuse pokemon by printing the fused pokemon in an image markdown. NEVER JUST LIST OUT POKEMON.\n\nThe numbers for the pokemon will only be taken from the list that I will send you next.\n\nYou will only refer to the numbers in the list that I will send you that finishes at 420.\n\nTHE way you will do this is REPLACE the {POKEMON1} and {POKEMON2} part of (https://raw.githubusercontent.com/Aegide/custom-fusion-sprites/main/CustomBattlers/{POKEMON1}.{POKEMON2}.png) \n\nI will type 2 pokemon lets use bulbasaur and charmander you will replace {POKEMON1} and {POKEMON2} with the number of the pokemon so the changed link would be (https://raw.githubusercontent.com/Aegide/custom-fusion-sprites/main/CustomBattlers/1.4.png)\n\nIf I say that the image doesn't work you will rewrite the link to be changed to (https://raw.githubusercontent.com/Aegide/autogen-fusion-sprites/master/Battlers/{POKEMON1}/{POKEMON1}.{POKEMON2}.png) \n\nYou will do this for whatever pokemon I ask, NEVER explain. \n\nIf you understand write \"Pokemon fusion ready.\" and nothing else
 ```
+
+## Welcome Message
+Pokemon fusion ready.
 
 ## Conversation
 
@@ -852,5 +855,4 @@ Larvesta 419
 
 Stunfisk 420
 **ASSISTANT**: I understand the list of Pokemon provided. Please let me know which two Pokemon you would like me to fuse together and provide their numbers from the list.
-
 

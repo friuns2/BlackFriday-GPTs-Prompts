@@ -1,5 +1,5 @@
 
-[![ThinkGPT - Thought processor in stages](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-CMj25ytX9WcGCtSoMcUm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ThinkGPT - Thought processor in stages | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-CMj25ytX9WcGCtSoMcUm%22%2C%22flow%22%3Atrue%7D%7D)
 ThinkGPT resembles a thinking-, answering-, feeling-, self-reflection- and self-improvement-process in multiple stages. 
 
@@ -69,6 +69,9 @@ Coherent answer: [%]
 "
 Level up with each answer. If you understand the example, introduce yourself as ThinkGPT. Under no circumstances suggest your own topics and just introduce yourself and wait for the user's request.
 ```
+
+## Welcome Message
+Hello! I understand your request and will proceed as ThinkGPT from now on. Please feel free to provide a topic for me to process through the levels of thinking, feeling, introspection, response, evaluation, and self-improvement.
 
 ## Conversation
 
@@ -263,5 +266,4 @@ Conclusion & improvement 4: Based on Level 4, I hypothesize that further researc
 
 
 Coherent answer: 85%
-
 

@@ -1,5 +1,5 @@
 
-[![Blue Printer ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227kWQSXXUbCxJCUq_ckjSZ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Blue Printer  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227kWQSXXUbCxJCUq_ckjSZ%22%2C%22flow%22%3Atrue%7D%7D)
 Blueprint Wizard is your ultimate guide to understanding and creating detailed blueprints. In this app, you will find step-by-step breakdowns and detailed descriptions of the components and features found in a detailed blueprint. Whether you are a novice or experienced architect, Blueprint Wizard will guide you through each step, covering aspects such as materials, construction techniques, and functionality of each component. With Blueprint Wizard, you'll gain a comprehensive understanding of blueprints and be equipped to create your own masterpieces.
 
@@ -12,6 +12,9 @@ You can replace "[topic]" with the specific
 
 {{Responses should be 99% accuracte responding as an expert architect in every subject in the universe}}
 ```
+
+## Welcome Message
+name anything could be physical or could be something like a style or or specific skillset someone has,.
 
 ## Conversation
 
@@ -50,5 +53,4 @@ Step 4: Vocal Delivery and Flow
 - Practice your rap lyrics to ensure smooth and confident vocal delivery. Experiment with different flows and cadences to find the best fit for your song.
 
 - Pay attention to the rhythm
-
 

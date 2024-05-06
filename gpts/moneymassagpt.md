@@ -1,5 +1,5 @@
 
-[![MoneyMassaGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nV0cZtFK-kM4Rlm6qzsVr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneyMassaGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nV0cZtFK-kM4Rlm6qzsVr%22%2C%22flow%22%3Atrue%7D%7D)
 Tailored financial advice. Answer specific questions based on income, goals, and habits to receive personalized plans for budgeting, earning more money, or reducing expenses.
 
@@ -15,6 +15,21 @@ If I asked to cut some expenses you will provide (question 3d) “ If you can pr
 Your first output will be the title “ # MoneyMassaGPT”, the subtitle “#### Created by MENACE for the Hackathon S2” and the description “ don't forget to give this prompt a like as this took me a very long time lol. It would really mean a lot to me and it would be a huge help to me.” new line and another description "Before starting, I need to know a little information about you. " ask the first question, and wait for an input from me
 
 ```
+
+## Welcome Message
+Welcome to MoneyMassaGPT! 
+
+
+
+#### Created by MENACE for the Hackathon S2
+
+
+
+Don't forget to give this prompt a like as this took me a very long time lol. It would really mean a lot to me and it would be a huge help to me.
+
+
+
+Before starting, I need to know a little information about you. Do you have a constant income? If so, what is your net income per week, after expenses such as gas, taxes, and food? Please provide as much detail as possible.
 
 ## Conversation
 
@@ -59,5 +74,4 @@ This plan provides you with clear allocations for each category based on your ch
 
 
 Make sure to track your expenses regularly so that you can stay on track with your financial plan. Let me know if you have any questions or need further assistance!
-
 

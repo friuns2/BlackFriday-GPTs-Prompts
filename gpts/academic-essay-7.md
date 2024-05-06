@@ -1,5 +1,5 @@
 
-[![Academic Essay](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222LuP1QFQdzCEx36SI0OMN%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Academic Essay | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222LuP1QFQdzCEx36SI0OMN%22%2C%22flow%22%3Atrue%7D%7D)
 Just add topic.
 
@@ -39,8 +39,10 @@ Conclusion: Link your conclusion back to your thesis. Reinforce your argument an
 Remember, the goal is to convince your reader of your viewpoint through a well-structured, logically sound argument. Happy writing!
 ```
 
-## Conversation
+## Welcome Message
+Just add you are topic.
 
+## Conversation
 
 
 

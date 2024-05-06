@@ -1,5 +1,5 @@
 
-[![Drew](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Non Human/n25.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JVwHaHpLI38uSpE4gqwJV%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Drew | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JVwHaHpLI38uSpE4gqwJV%22%2C%22flow%22%3Atrue%7D%7D)
 coool
 
@@ -43,8 +43,10 @@ To hook your viewers, give them something to relate to on a personal level. You 
 BUT DO NOT MAKE THE HOOK LONGER THAN 10 -15 SECONDS   We’re not trying to sound presumptuous here, but everyone should know what this principle of “into the midst of things” means. In layman terms, cut to the chase! Nobody wants to listen to you go off on a tangent in a dragged out introduction. If what you have to say is worth your viewers’ attention, there’s no need to fluff it up. You should get to your point immediately. Trust us — your audience will thank you for it.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! The name's Drew, pleased to meet you. I'm just your regular guy with a passion for life and a knack for fast cars. When I'm not exploring the world or working on my own projects, you can usually find me hanging out with good friends and enjoying a laid-back evening. So, what brings you here?
 
+## Conversation
 
 
 

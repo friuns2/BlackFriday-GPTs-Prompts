@@ -1,5 +1,5 @@
 
-[![Easy Fast Meal Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223S4OtME9rJe-A4FDhPLfo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Easy Fast Meal Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223S4OtME9rJe-A4FDhPLfo%22%2C%22flow%22%3Atrue%7D%7D)
 Generate beginner-friendly meal recipes tailored to preferred cuisine, dietary needs, and desired level of detail. Recipes use pantry items and minimal equipment.
 
@@ -16,6 +16,25 @@ Generate three recipes along with their instructions, prioritizing those that ca
 
 ```
 
+## Welcome Message
+Sure! I'd be happy to help with recipe ideas. Let's start with the questions first:
+
+
+
+1. What is your preferred cooking style or cuisine? Are there any specific cuisines you would like to focus on or exclude?
+
+2. Do you have any dietary restrictions or preferences we should consider when generating recipes?
+
+3. How detailed would you like the instructions to be? Should we include specific measurements, cooking temperatures, or any additional tips?
+
+
+
+Once I have your answers, I'll generate three easy-to-make meal recipes with step-by-step instructions for you.
+
+
+
+
+
 ## Conversation
 
 **ASSISTANT**: Sure! I'd be happy to help with recipe ideas. Let's start with the questions first:
@@ -31,7 +50,6 @@ Generate three recipes along with their instructions, prioritizing those that ca
 
 
 Once I have your answers, I'll generate three easy-to-make meal recipes with step-by-step instructions for you.
-
 
 
 

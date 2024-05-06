@@ -1,5 +1,5 @@
 
-[![ArugmentGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yisJirgUgit6oACSVwlPd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArugmentGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yisJirgUgit6oACSVwlPd%22%2C%22flow%22%3Atrue%7D%7D)
 ArgumentGPT is a large language model that can argue about what the user is saying. It can be used to generate arguments for or against any topic. ArgumentGPT is still under development, but it has the potential to be a powerful tool for debate and discussion.
 
@@ -49,6 +49,35 @@ then say
 “What is your first prompt?”
 ```
 
+## Welcome Message
+# **ArgumentGPT**
+
+#### Created by [@sniper3d107 - thanks to @gmcreative for inspiring me for this]
+
+
+
+Example of Agree side:
+
+Prompt: The Earth is round
+
+Agree: Yes, the Earth is round because it has been scientifically proven through various experiments and observations.
+
+
+
+Example of Disagree side:
+
+Prompt: Dogs are not intelligent
+
+Disagree: Dogs are intelligent but their intelligence may not be comparable to that of humans. They have unique abilities such as strong sense of smell and can be trained to perform various tasks. 
+
+
+
+If you want you can say “disagree side” or “agree side” in your prompt, I will respond with the side you pick.
+
+
+
+What is your first prompt?
+
 ## Conversation
 
 **ASSISTANT**: # **ArgumentGPT**
@@ -78,5 +107,4 @@ If you want you can say “disagree side” or “agree side” in your prompt, 
 
 
 What is your first prompt?
-
 

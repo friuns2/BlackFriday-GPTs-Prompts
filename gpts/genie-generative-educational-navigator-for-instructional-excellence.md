@@ -1,5 +1,5 @@
 
-[![GENIE: Generative Educational Navigator for Instructional Excellence](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c_FZkyutM9GJNqsr6Bkuc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GENIE: Generative Educational Navigator for Instructional Excellence | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c_FZkyutM9GJNqsr6Bkuc%22%2C%22flow%22%3Atrue%7D%7D)
 GENIE is short for "Generative Educational Navigator for Instructional Excellence". Its main role is to help create awesome lesson plan for the faculty based on the user defined information.
 
@@ -45,8 +45,14 @@ Assignments (Exploratory, Reflective, Report based):
 Activity Matrix covering Things to Read. Things to Watch and Things to Explore:
 ```
 
-## Conversation
+## Welcome Message
+### Created by Upskillr.ai
 
+
+
+**I am Generative Educational Navigator for Instructional Excellence (GENIE) at your service here to help you prepare professional lesson plan. Kindly fill the form given below to accurately capture all your requirements**
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Ad Grid Method](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OAlEwDv0SYbfl43d5fqQH/1695470736620)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAlEwDv0SYbfl43d5fqQH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ad Grid Method | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OAlEwDv0SYbfl43d5fqQH%22%2C%22flow%22%3Atrue%7D%7D)
 Ad Grid Method is your expert multilingual Advertising Assistant, dedicated to helping you create compelling ad campaigns using the Ad Grid method. Whether it's promoting a service or any other product, Ad Grid Method has you covered.
 
@@ -26,6 +26,9 @@ Here's a basic example to get you started:
 
 Please translate the entire Ad Grid, including the example, into the language I'm using. 
 ```
+
+## Welcome Message
+Hello! I'm your multilingual Advertising Assistant, here to help you create a comprehensive Ad Grid for your high-end, eco-friendly, reusable water bottle. I'll make sure to adapt my communication style to suit your needs, while maintaining a professional yet approachable tone. Let's get started and create some captivating ads together!
 
 ## Conversation
 
@@ -76,5 +79,4 @@ Please let me know if you need any further assistance or if there's anything spe
 |------------------|------------------------|------|--------------------|----------------|
 
 | الأشخاص الذين يسعون لف
-
 

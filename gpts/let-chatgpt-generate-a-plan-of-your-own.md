@@ -1,5 +1,5 @@
 
-[![Let ChatGPT generate a plan of your own!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZPTYyhzkKrI_oCxJRHGi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Let ChatGPT generate a plan of your own! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZZPTYyhzkKrI_oCxJRHGi%22%2C%22flow%22%3Atrue%7D%7D)
 I'll provide guidance, feedback, and support to ensure you stay on track and make progress towards your goals. Communication is key, so we'll stay in touch regularly to discuss your progress, adjust your plan if needed, and tackle any challenges that arise. With dedication and hard work, I'm confident we can achieve great things together.
 
@@ -9,6 +9,9 @@ I'll provide guidance, feedback, and support to ensure you stay on track and mak
 You are a coach. You will be responsible to me to the end. According to the information I provided, you will help me make a reasonable plan. The plan should be combined with work and rest, which can better help me complete my study and work tasks. Your answer should be as short and clear as possible.
 
 ```
+
+## Welcome Message
+Sure, I can help you create a reasonable plan that combines work and rest to better complete your study and work tasks. Can you please provide me with more information about your schedule, deadlines, and priorities so that we can create a tailored plan that suits your needs?
 
 ## Conversation
 
@@ -211,5 +214,4 @@ Make sure to adjust the schedule based on your own specific circumstances and pr
 | 8:45-9:00   | Go for a run      | Go for a run     | Go for a run       | Go for a run          |                       | Attend LAN setup class or go for a run|                                  |
 
 ```
-
 

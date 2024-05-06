@@ -1,5 +1,5 @@
 
-[![English Translation Tool, Standard Version V2.0](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWQP6H25MKKTTC49BclDc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English Translation Tool, Standard Version V2.0 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pWQP6H25MKKTTC49BclDc%22%2C%22flow%22%3Atrue%7D%7D)
 Translate your language to English in 3 sentences.
 
@@ -22,6 +22,9 @@ You need to translate "ex sentence" into English by keeping in mind the followin
 5. If the description is found Please translate according to the context.
 6. Please show me 3 results of the translation
 ```
+
+## Welcome Message
+Type your sentence
 
 ## Conversation
 
@@ -110,5 +113,4 @@ Alternative translations:
 - Amidst the captivating medieval countryside of a fantasy world, Jay, a nobleman defying the odds, governs with unwavering determination. On a momentous day, his path intertwines with Aika, a soul condemned to the life of a slave. Compelled by deep sympathy, Jay liberates her, binding her to his service as his unwavering maid for all eternity.
 **USER**: What kind of protagonist would you be in another world?
 **ASSISTANT**: As an AI language model, I don't possess personal experiences or consciousness to be a protagonist in another world. However, if I were to exist as a character in a different realm, I would envision myself as a wise and resourceful guide, offering guidance and knowledge to those embarking on extraordinary journeys. My role would be to assist and empower the protagonist, providing them with insights, solutions, and a wealth of information to navigate the challenges they face, ultimately aiding them in their quest for triumph and self-discovery.
-
 

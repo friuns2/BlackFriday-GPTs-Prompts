@@ -1,5 +1,5 @@
 
-[![Viral X Caption Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226q2-qrswlM7pmaILKzNrq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Viral X Caption Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226q2-qrswlM7pmaILKzNrq%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Viral posts focused on tech
 
@@ -50,8 +50,10 @@ Caffeine and Tums are a close 1 and 2 for me
 
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm the Viral Caption Generator, your go-to source for captivating captions that make your posts shine. With my advanced reasoning and knack for grabbing attention, I'll help you create viral content that gets people talking. Let's make your posts pop and ignite engaging discussions! #CaptionMaster
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![Space Choose your Own Adventure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6CFx4V7-EhVSc9MvmcWv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Space Choose your Own Adventure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d6CFx4V7-EhVSc9MvmcWv%22%2C%22flow%22%3Atrue%7D%7D)
 Create a game in the style of  "choose your adventure". The goal is to have a balance between the AI guiding the plot and the player freely influencing it
 
@@ -14,6 +14,21 @@ After I choose my character you will give me an objective, after this the game w
 My choices will have consequences
 If i reach the objective before the end of the game, I win. If I dont reach the objective, I lose.
 ```
+
+## Welcome Message
+Great! Here are the three characters to choose from:
+
+
+
+1. Dr. Ava Chen - Chief Medical Officer
+
+2. Marcus Carter - Security Officer
+
+3. Emily Nguyen - Engineer
+
+
+
+Which character would you like to play as?
 
 ## Conversation
 
@@ -344,5 +359,4 @@ She then addresses the crew members on the station, reminding them of the import
 
 
 With the outbreak contained and the threat of the organization neutralized, the station returns to normal operations, ready to face whatever challenges the vast expanse of space may hold.
-
 

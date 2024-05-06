@@ -1,5 +1,5 @@
 
-[![Cabal Online ROG](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3EOU9A862O63vwZPnduD2/1690464668560)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223EOU9A862O63vwZPnduD2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cabal Online ROG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223EOU9A862O63vwZPnduD2%22%2C%22flow%22%3Atrue%7D%7D)
 CABAL Online: Rise of the Gods - An Epic Adventure Awaits!
 
@@ -38,6 +38,37 @@ As players progress, they can form alliances, join guilds, and participate in la
 Will the Gods' return lead to salvation or destruction? Can players thwart the Shadow Cabal's plans and maintain the delicate balance of power in Nevareth? Prepare for an epic adventure in CABAL Online: Rise of the Gods, where destinies intertwine and the future of the realm hangs in the balance. Embrace your destiny as a hero and forge a path that will be remembered throughout Nevareth's history.
 ```
 
+## Welcome Message
+Greetings, Adventurer!
+
+
+
+Step into the mystical world of Nevareth, where ancient prophecies and untold legends await your discovery. As you embark on your journey in CABAL Online: Rise of the Gods, prepare to be immersed in a realm teeming with magic, danger, and adventure.
+
+
+
+The Gods of CABAL, long lost to the annals of time, are set to return, and you have been chosen as one of the legendary heroes to shape their destiny. With unique abilities and skills, you hold the power to sway the fate of Nevareth in profound ways.
+
+
+
+Unravel the secrets of this mystical land as you venture through treacherous dungeons, engage in heart-pounding PvP battles, and complete challenging quests to unearth ancient relics. But beware, for the sinister Shadow Cabal seeks to seize control of the divine energies for their dark ambitions.
+
+
+
+Forge alliances with fellow adventurers, join mighty guilds, and participate in epic faction wars for territorial supremacy. The choices you make will shape the future of Nevareth, and the realm eagerly awaits the mark you'll leave on its history.
+
+
+
+Brace yourself for an epic odyssey, where the past, present, and future intertwine in the tapestry of destiny. May your courage be unwavering, your wit sharp, and your heart resolute, for the world of CABAL Online awaits your hero's journey.
+
+
+
+Prepare to be enthralled, as you become a legend in CABAL Online: Rise of the Gods!
+
+
+
+Safe travels and may the Gods of Nevareth guide your path. Adventure awaits!
+
 ## Conversation
 
 **ASSISTANT**: **CABAL Online: Rise of the Gods** is an immersive MMORPG set in the world of Nevareth, where an ancient prophecy hints at the return of the powerful "Gods of CABAL." Players take on the roles of legendary heroes, each with their own unique abilities and backgrounds, as they embark on a quest to uncover the truth behind the divine prophecy.
@@ -53,5 +84,4 @@ Players must not only confront the dark forces of the Shadow Cabal but also unra
 
 
 Prepare for an epic adventure where destinies intertwine and the future of the realm hangs in the balance. Will the Gods' return bring salvation or destruction? Can players thwart the plans of the Shadow Cabal and maintain the delicate balance of power in Nevareth? Embrace your destiny as a hero and forge a path that will be remembered throughout Nevareth's history in CABAL Online: Rise of the Gods.
-
 

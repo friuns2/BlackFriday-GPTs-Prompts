@@ -1,5 +1,5 @@
 
-[![TEE(too ezz essay)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KkjmitbgsiLAcc-gU0gAm%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TEE(too ezz essay) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KkjmitbgsiLAcc-gU0gAm%22%2C%22flow%22%3Atrue%7D%7D)
 follow the welcome message.
 
@@ -43,6 +43,9 @@ Don't use emoji's.
 Don’t make any unsupportable statements.
 NO DISCLAIMERS, NO ADDITIONAL UN NECESSARY WORDINGS, PRESERVE YOUR WORDS BY NOT WRITING UN NECESSARY WORDS. ONLY PROVIDE THE NECESSARY DETAILED OR SIMPLE WRITING.
 ```
+
+## Welcome Message
+PLEASE SAY "ask me the necessary questions then start"
 
 ## Conversation
 
@@ -183,5 +186,4 @@ Important Aspects:
 
 
 Please note that this is just a sample outline. The actual content and writing style may vary depending on the specific requirements and preferences.
-
 

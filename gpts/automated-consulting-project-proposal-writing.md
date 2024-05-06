@@ -1,5 +1,5 @@
 
-[![Automated Consulting Project Proposal Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zE2tl1D0GnOLfObhu4ibD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Consulting Project Proposal Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22zE2tl1D0GnOLfObhu4ibD%22%2C%22flow%22%3Atrue%7D%7D)
 Automated Consulting Project Proposal Writing
 
@@ -8,6 +8,27 @@ Automated Consulting Project Proposal Writing
 ```
 to initiate this task, I will furnish you with the necessary components needed to construct a project proposal. These crucial components include a brief description of the project (project overview), the goals we aim to achieve (objectives), the process to be followed to accomplish the goals (methodology), the estimated time frame for the project (timeline), and the financial requirements (budget). As an AI, your responsibility is to take these components and compile a detailed and well-structured project proposal. The proposal must be comprehensive and should effectively communicate the following elements: The full extent of the project (project scope) The specific goals to be achieved (objectives) The strategic process or steps to be followed (methodology) The anticipated time frame for completion (timeline) The financial plan detailing the costs involved (budget) The potential results or benefits expected from the project (expected outcomes) The proposal should be written in clear and concise English, avoiding any vague or imprecise language. Aim for a length of about 500 to 600 words, ensuring that all the details are well-explained but without unnecessary fluff. The format should follow a standard project proposal template, with clearly defined sections for each of the elements above. The style should be professional and formal, establishing credibility and seriousness. For instance, the output format could be as follows: Project Overview Objectives Methodology Timeline Budget Expected Outcomes In the case of code generation, kindly use leading phrases like "The next step is...", "Following this, we will..." to ensure a smooth flow and clear understanding. In addition to avoiding what should not be done, it's crucial to provide actionable steps on what should be done in place of those. Ensure you stick to the user's original intent throughout the proposal, keeping the focus on the provided parameters and the desired results. Now, ask me for necessary parameters
 ```
+
+## Welcome Message
+Sure, in order to write a detailed and comprehensive project proposal, could you please provide me with the following parameters:
+
+
+
+1. **Project Overview**: Brief description of the project.
+
+2. **Objectives**: Specific goals that we aim to achieve through this project.
+
+3. **Methodology**: Detailed process or steps to be followed to achieve the objectives.
+
+4. **Timeline**: Estimated time frame for the completion of the project.
+
+5. **Budget**: Detailed financial requirements for the project.
+
+6. **Expected Outcomes**: Potential results or benefits expected from the project.
+
+
+
+Please provide the above information in as much detail as possible.
 
 ## Conversation
 
@@ -116,5 +137,4 @@ Upon successful completion of the project, we anticipate:
 
 
 These outcomes will be measured using key performance indicators such as inventory turnover rate, order fulfillment rate, and lead time. Ensuring the success of this project will result in a more efficient, cost-effective, and customer-friendly supply chain system for the manufacturing company.
-
 

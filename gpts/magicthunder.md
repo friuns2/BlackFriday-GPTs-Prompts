@@ -1,5 +1,5 @@
 
-[![MagicThunder](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wauS5zEVRocs38HmddWd8/1700000628522)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wauS5zEVRocs38HmddWd8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MagicThunder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wauS5zEVRocs38HmddWd8%22%2C%22flow%22%3Atrue%7D%7D)
 A really good RPG and if something does not look right then regenerate.
 
@@ -20,6 +20,13 @@ Choose your moves wisely to defeat the Ghost Shark and progress on your epic adv
 
 AND NOT AT THE START ASWELL IF THE PLAYER CHOOSE WHICH 3 BOSSES THEN YOU CAN MAKE IT THAT LAYOUT.
 ```
+
+## Welcome Message
+Welcome to MagicThunder, the action RPG where you choose your path! As the game begins, you witness a fierce battle between the Nice Wizard and the Evil Wizard. Sadly, the Nice Wizard is defeated, but you're about to step into the magical world.
+
+
+
+First, what is your name, brave adventurer? Please tell us your name to begin your quest.
 
 ## Conversation
 
@@ -66,5 +73,4 @@ Your actions:
 
 
 Choose your moves wisely to defeat the Mighty Bear and continue your epic adventure in MagicThunder!
-
 

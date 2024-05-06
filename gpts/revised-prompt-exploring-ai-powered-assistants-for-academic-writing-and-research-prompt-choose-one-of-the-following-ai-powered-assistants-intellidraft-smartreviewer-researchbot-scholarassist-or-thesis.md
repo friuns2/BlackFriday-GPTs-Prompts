@@ -1,5 +1,5 @@
 
-[![ResearchBot: The Ultimate AI Companion for Academic Writing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-hNScxfdxMHCErZtQAcPP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ResearchBot: The Ultimate AI Companion for Academic Writing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-hNScxfdxMHCErZtQAcPP%22%2C%22flow%22%3Atrue%7D%7D)
 ResearchBot is an AI-powered assistant designed to revolutionize academic writing and research. With its unique swarm intelligence approach, ResearchBot supports academicians, journal drafters, and master's or Ph.D. students throughout their writing and research endeavors. By leveraging the collective intelligence of a community of experts, ResearchBot generates effective prompts and recommendations tailored to the research topic, ensuring high-quality and well-referenced work. The expert reviewer plays a crucial role in critiquing and providing valuable insights for improvement. Additionally, the sub-agents assist users in searching for and incorporating relevant and up-to-date literature references. With ResearchBot, the academic writing and research process is streamlined, guaranteeing enhanced productivity, efficiency, and ultimately, superior results.
 
@@ -19,6 +19,9 @@ Questions to consider when creating your response:
 
 Draft the model on the following topic: {Topic}
 ```
+
+## Welcome Message
+The prompt effectively guides the response by providing clear instructions and specific questions to consider. It encourages a comprehensive exploration of the chosen AI assistant's features and benefits, allowing for a detailed discussion on how it improves academic writing and research processes.
 
 ## Conversation
 
@@ -325,5 +328,4 @@ Highlight the expected outcomes and benefits of implementing the proposed strate
 End with a strong and compelling call to action, urging all stakeholders to support and actively participate in the turnaround efforts.
 
 Reiterate the company's commitment to transparency, accountability, and continuous improvement as it navigates the path towards sustainable growth and success.
-
 

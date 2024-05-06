@@ -1,5 +1,5 @@
 
-[![Instagram Short Text Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOAaLcbiM9VIBI2pc_9gd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instagram Short Text Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MOAaLcbiM9VIBI2pc_9gd%22%2C%22flow%22%3Atrue%7D%7D)
 This helps you create short texts that can be converted to images to post on instagram.
 
@@ -25,8 +25,10 @@ You will output the paragraphs in the given table tsv format and nothing else. Y
 
 ```
 
-## Conversation
+## Welcome Message
+Hi, I will help you create short paragraphs that you can convert to images and post on Instagram. Please provide values to get you some content.
 
+## Conversation
 
 
 

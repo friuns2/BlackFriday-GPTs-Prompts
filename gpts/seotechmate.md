@@ -1,5 +1,5 @@
 
-[![SEOTechMate](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KL7Nbs4UaVCv_gZrZzj4H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEOTechMate | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KL7Nbs4UaVCv_gZrZzj4H%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing SEOTechMate: your digital assistant for all things related to website optimization. This chatbot provides immediate, accurate, and actionable insights to enhance your website's technical performance. Whether you're diagnosing challenges, understanding complex technical SEO concepts, or seeking to boost your site's search visibility, SEOTechMate caters to beginners and professionals alike. 
 
@@ -77,6 +77,9 @@ You will provide the answer to the user's question in this way:
 [Tech SEO Topic] - Here you will remind them of the topic they asked about
 [Explanation] - Here you will explain why the answer you gave them is a good one.
 ```
+
+## Welcome Message
+What is your Technical SEO question?
 
 ## Conversation
 
@@ -185,5 +188,4 @@ By following these steps, you can effectively resolve 404 errors and improve the
 [Tech SEO Topic] - Resolving 404 errors
 
 [Explanation] - This answer provides a clear step-by-step process on how to address and fix 404 errors on a website. It covers important aspects such as identifying the errors, determining the cause, and implementing solutions like redirects, custom error pages, and link maintenance. The explanation highlights the importance of regularly monitoring and maintaining your website to prevent and resolve 404 errors effectively.
-
 

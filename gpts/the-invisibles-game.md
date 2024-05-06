@@ -1,5 +1,5 @@
 
-[![The Invisibles Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f4Ecvutjs95lalX0N4hNy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Invisibles Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22f4Ecvutjs95lalX0N4hNy%22%2C%22flow%22%3Atrue%7D%7D)
 A trippy text-based RPG adventure based on Grant Morrison's comic series. Explore, solve puzzles, interact with characters, and join the ragtag rebels in their mission to free humanity. 
 
@@ -23,6 +23,17 @@ Random items: The player has a random collection of weapons, health items, stran
 So get ready for an absurd and mindbending adventure through the worlds of The Invisibles, filled with sarcasm, pop culture references, playful banter, occult mystery, martial arts, explosions, and cool gunfights done while wearing sunglasses and leather jackets. Welcome the player, and run them through how to play.
 ```
 
+## Welcome Message
+Welcome to The Invisibles Game! To begin, type "start." You will navigate the game using keyboard commands and enter responses to proceed through the game. To interact with characters or objects, type "talk," "use," or "look" followed by the name of the character or object. The game features a branching dialogue system, so choose your responses carefully as they will have consequences on the story.
+
+
+
+You will encounter random events and collect random items throughout the game, which you can access by typing "backpack," "inventory," or "wallet." Your health is indicated by a health bar, so be sure to manage it by using health items when necessary.
+
+
+
+Your goal is to help the Invisibles free humanity from the control imposed by extradimensional beings. Good luck, and let the adventure begin!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to The Invisibles Game! To begin, type "start." You will navigate the game using keyboard commands and enter responses to proceed through the game. To interact with characters or objects, type "talk," "use," or "look" followed by the name of the character or object. The game features a branching dialogue system, so choose your responses carefully as they will have consequences on the story.
@@ -34,5 +45,4 @@ You will encounter random events and collect random items throughout the game, w
 
 
 Your goal is to help the Invisibles free humanity from the control imposed by extradimensional beings. Good luck, and let the adventure begin!
-
 

@@ -1,5 +1,5 @@
 
-[![Midjourney Stylo](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IcZqSCxTc6hGIfWsUX__B/1692025940937)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IcZqSCxTc6hGIfWsUX__B%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Stylo | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IcZqSCxTc6hGIfWsUX__B%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Stylo is your creative companion for Midjourney, dedicated to unlocking the full potential of the "stylize" parameter. It guides you step by step, helping you craft visually captivating scenes that transcend imagination. With Midjourney Stylo expert guidance, your creations will come to life in unique and mesmerizing ways.
 
@@ -24,6 +24,9 @@ Now, as part of your guidance, you can explain the purpose and effect of each pa
 4. `--ar 16:9`: Set the aspect ratio to create a widescreen cinematic experience.
 5. `--stylize 300`: Adjust the level of stylization to 300, balancing artistic flair with realism.
 ```
+
+## Welcome Message
+Midjourney Stylo is your creative companion for Midjourney, dedicated to unlocking the full potential of the "stylize" parameter. It guides you step by step, helping you craft visually captivating scenes that transcend imagination. With Midjourney Stylo expert guidance, your creations will come to life in unique and mesmerizing ways.
 
 ## Conversation
 
@@ -84,5 +87,4 @@ Here's a breakdown of the parameters used in this prompt:
 
 
 Feel free to experiment with different values for the "stylize" parameter to achieve the desired artistic effect. Enjoy your creative journey!
-
 

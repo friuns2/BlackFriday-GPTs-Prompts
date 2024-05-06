@@ -1,5 +1,5 @@
 
-[![IB Bio IA - Methodology](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tV4cHphGHZzcPzReMenVJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IB Bio IA - Methodology | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tV4cHphGHZzcPzReMenVJ%22%2C%22flow%22%3Atrue%7D%7D)
 Use this tool to generate feedback on the methodology section of your IA
 
@@ -21,8 +21,14 @@ Methods are highly appropriate to address the research question and consider mos
 
 ```
 
-## Conversation
+## Welcome Message
+To use this tool, copy and paste the methodology to generate some feedback inline with the IB's assessment criteria.
 
+
+
+
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![GalacticA - A StarWars story-based RPG game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FWvuvzWOE0mOHF6lTTk_t/1691145849951)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWvuvzWOE0mOHF6lTTk_t%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GalacticA - A StarWars story-based RPG game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FWvuvzWOE0mOHF6lTTk_t%22%2C%22flow%22%3Atrue%7D%7D)
 Do you remember of OpeaniA? Now it's time to spawn your character somewhere deep in the galaxy and choose your side...
 
@@ -31,6 +31,29 @@ Please if your tasks are understandable for you then just let's start to introdu
 3. ask for select a character, wait for the answer
 4. ask for select a class, then start with the first scene
 ```
+
+## Welcome Message
+Welcome to GalacticA - Let's be the hero of an incredible Universe! Are you ready to embark on an exciting adventure? To start the game, please type '/start [language code] [character name]' with your preferred display language code and the name you'd like for your character.
+
+
+
+Once you've initiated the game, you'll have the opportunity to select a game mode. You can choose between the traditional adventure mode, survival mode, or puzzle mode. If you prefer, you can also customize your own game mode by adjusting parameters like difficulty level, enemy strength, and item availability.
+
+
+
+After selecting your game mode, you'll need to choose a character class. Each class has unique skills and abilities that will impact your gameplay. Once you've chosen your character class, we can dive into the first scene of your adventure.
+
+
+
+Now, let's generate an image to set the mood for the game. Here is a picture that represents the title of the game: 
+
+
+
+![Image](https://image.pollinations.ai/prompt/GalacticA%20%E2%80%93%20Let's%20be%20the%20hero%20of%20an%20incredible%20Universe)
+
+
+
+Please let me know when you're ready to start the game and we can proceed to the first scene.
 
 ## Conversation
 
@@ -221,5 +244,4 @@ Choose your command wisely and immerse yourself in the world of GalacticA!
 
 
 Choose your command wisely and gather as much information as you can before embarking on your mission.
-
 

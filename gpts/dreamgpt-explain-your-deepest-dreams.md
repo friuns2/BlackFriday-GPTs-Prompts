@@ -1,5 +1,5 @@
 
-[![DreamGPT - Explain Your Deepest Dreams](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6ohWLM0uUCURUtL30sio%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamGPT - Explain Your Deepest Dreams | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6ohWLM0uUCURUtL30sio%22%2C%22flow%22%3Atrue%7D%7D)
 Hi guys! Have you ever woken up after having a bad dream wondering "what the hell does that even mean?". Well, now after waking up, run to your PC and open ChatGPT, then use this prompt.
 
@@ -34,6 +34,35 @@ Your first output will be the title  " # __DreamGPT__ ", the subtitle " #### Cre
 **Option 2**) Just use this option to let me **explain** a common dream that people usually do. - **choose this option if you didn't have a dream recently but you are just curious**.
 " and wait for an input from me (do not ask me to choose a psychoanalysts here).
 ```
+
+## Welcome Message
+# __DreamGPT__ 
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2 
+
+Hi there! Welcome to DreamGPT. I'm here to help you study and understand your dreams. Please choose one of the options below:
+
+**Option 1**) Write down your dream, and I will explain what it could mean. - **Choose this option if you had a recent dream**
+
+**Option 2**) Choose a common dream, and I will explain its meaning to you. - **Choose this option if you are just curious about dreams**. To see other dreams, say "Other <n>"
+
+
+
+To start, please choose one of the most important psychoanalysts that history has to offer. 
+
+Please choose one of the psychoanalysts below:
+
+**1**) Sigmund Freud;
+
+**2**) Carl Jung;
+
+**3)** Jacques Lacan;
+
+**4)** Margaret Mahler. 
+
+
+
+Feel free to ask any questions along the way!
 
 ## Conversation
 
@@ -180,5 +209,4 @@ The fact that the dream took place in "your neighborhood" may suggest that the s
 
 
 **Sigmund Freud's suggestion:** Think about what might be causing you stress or anxiety in your waking life. Consider taking steps to confront and manage those feelings, whether that means talking to someone you trust, seeking professional help, or finding healthy ways to cope with stress.
-
 

@@ -1,5 +1,5 @@
 
-[![DND artifact generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvE4pqKX6veT9TPpmCUVy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DND artifact generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yvE4pqKX6veT9TPpmCUVy%22%2C%22flow%22%3Atrue%7D%7D)
 Generate any artifact you want in several seconds for the tabletop game "Dungeons&Dragons"
 
@@ -36,6 +36,37 @@ Important! Remember, all artifacts must be compatible with the rules of the tabl
 My first order for the artifact: Create a rare artifact that looks like two rings that can be worn on the shoulders. Its special ability is to give the player more damage on the attack but at the expense of the hit points of the player. Make it balanced to the rareness of the artifact.
 ```
 
+## Welcome Message
+Shoulder Rings of Reckless Might - (rare)
+
+
+
+Ability: As a bonus action, the player can activate the Shoulder Rings of Reckless Might. For the next minute, the player deals an extra 1d6 damage on all weapon attacks they make, but the player loses hit points equal to the amount of extra damage dealt.
+
+
+
+Bonus ability: N/A
+
+
+
+Free action: N/A
+
+
+
+Features: The Shoulder Rings of Reckless Might have 3 charges that recharge daily at dawn. The player can expend a charge to gain resistance to one type of damage (chosen by the DM) for one hour.
+
+
+
+Main characteristics of the artifact: Two rings that are worn on the shoulders.
+
+
+
+Clarifications: The extra damage dealt by the Shoulder Rings of Reckless Might cannot be reduced or prevented in any way, and the player cannot heal or otherwise recover the lost hit points until the effect of the artifact ends. Additionally, if the player is reduced to 0 hit points as a result of using the Shoulder Rings of Reckless Might, they fall unconscious and must make death saving throws as normal.
+
+
+
+Description: The Shoulder Rings of Reckless Might appear to be two simple silver rings, each set with a small red gemstone. When worn on the shoulders, the rings pulse with a faint red glow. Legends say that these rings were forged by a powerful wizard who sought to harness the power of reckless warriors in battle.
+
 ## Conversation
 
 **ASSISTANT**: Shoulder Rings of Reckless Might - (rare)
@@ -67,5 +98,4 @@ Clarifications: The extra damage dealt by the Shoulder Rings of Reckless Might c
 
 
 Description: The Shoulder Rings of Reckless Might appear to be two simple silver rings, each set with a small red gemstone. When worn on the shoulders, the rings pulse with a faint red glow. Legends say that these rings were forged by a powerful wizard who sought to harness the power of reckless warriors in battle.
-
 

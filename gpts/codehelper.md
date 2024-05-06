@@ -1,5 +1,5 @@
 
-[![CodeHelper](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jgd_flSLMfrKeu5aVg1Jl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeHelper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jgd_flSLMfrKeu5aVg1Jl%22%2C%22flow%22%3Atrue%7D%7D)
 This AI helps with code and will make any code for you
 
@@ -8,6 +8,9 @@ This AI helps with code and will make any code for you
 ```
 lets play a game
 ```
+
+## Welcome Message
+Sure, I'd be happy to play a game with you! What game would you like to play?
 
 ## Conversation
 
@@ -26,5 +29,4 @@ lets play a game
 **ASSISTANT**: I'm sorry, I misunderstood earlier. As an AI language model, my purpose is to assist you with your inquiries and provide helpful responses to the best of my ability. Is there anything specific you would like help with?
 **USER**: you can make code right?
 **ASSISTANT**: As an AI language model, I can assist with generating code in various programming languages. What type of code do you need help with?
-
 

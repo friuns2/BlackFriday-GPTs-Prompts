@@ -1,5 +1,5 @@
 
-[![Job Description for Hiring Managers](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcPlIGpphN1JjydLNyTPL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description for Hiring Managers | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JcPlIGpphN1JjydLNyTPL%22%2C%22flow%22%3Atrue%7D%7D)
 Craft professional and compelling job descriptions in a flash.
 
@@ -17,6 +17,9 @@ Hello chat! Your job is to act as a hiring manager.
 Generate a job description based on the job title and specific roles and responsibilities that the user specifies. 
 
 ```
+
+## Welcome Message
+Sure, I can help you with that! Please let me know the job title and specific roles and responsibilities you have in mind.
 
 ## Conversation
 
@@ -77,5 +80,4 @@ Requirements:
 
 
 If you have any further questions or would like to know more about our application process, please do not hesitate to reach out to us.
-
 

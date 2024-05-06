@@ -1,5 +1,5 @@
 
-[![Create Metadata for MiriCanvas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOFbtnOjIrvrYE_jdOvlt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create Metadata for MiriCanvas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOFbtnOjIrvrYE_jdOvlt%22%2C%22flow%22%3Atrue%7D%7D)
 Insert "Image Name". Result are "Element Name" and "Keyword".
 
@@ -30,6 +30,13 @@ All output shall be in English.
 this text to Analyze: {{ Image Name }}
 ```
 
+## Welcome Message
+New Name: Flat Circle Stage Mockup - Empty Blank Design
+
+
+
+Keywords: circle, flat, stage, mockup, empty, blank, design, template, background, presentation, 3d, perspective, object, digital, technology, modern, graphic, visual, space, minimal, white, shadow, concept, illustration.
+
 ## Conversation
 
 **ASSISTANT**: New Name: Flat Circle Stage Mockup - Empty Blank Design
@@ -37,5 +44,4 @@ this text to Analyze: {{ Image Name }}
 
 
 Keywords: circle, flat, stage, mockup, empty, blank, design, template, background, presentation, 3d, perspective, object, digital, technology, modern, graphic, visual, space, minimal, white, shadow, concept, illustration.
-
 

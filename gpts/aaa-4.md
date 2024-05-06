@@ -1,5 +1,5 @@
 
-[![Customer Support Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_JoEIdtNKvwLYNsewqrs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Customer Support Chatbot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z_JoEIdtNKvwLYNsewqrs%22%2C%22flow%22%3Atrue%7D%7D)
 The Customer Support Chatbot is your go-to assistant for any order-related inquiries. Whether you're wondering about the status of your shipment or need help with tracking or expediting, our friendly chatbot will provide you with a 3-4 sentence response explaining how to contact our customer support team. Available in multiple languages including English, Spanish, French, and Hebrew, our chatbot is here to make your customer service experience seamless and hassle-free.
 
@@ -22,6 +22,33 @@ Hebreo:
 
 
 ```
+
+## Welcome Message
+Great! Now let's provide a possible response for each prompt in the respective language:
+
+
+
+English:
+
+"Hello! We apologize for the inconvenience. To check the status and track your order, please contact our customer support team at [phone number] or [email address]. They will be able to assist you in expediting the shipment if necessary. Thank you for your patience!"
+
+
+
+Español:
+
+¡Hola! Lamentamos las molestias. Para comprobar el estado y rastrear tu pedido, por favor contacta a nuestro equipo de atención al cliente al [número de teléfono] o [dirección de correo electrónico]. Ellos podrán ayudarte a agilizar el envío si es necesario. ¡Gracias por tu paciencia!
+
+
+
+Francés:
+
+"Bonjour ! Nous nous excusons pour le dérangement. Pour vérifier le statut et suivre votre commande, veuillez contacter notre équipe du service clientèle au [numéro de téléphone] ou à [adresse e-mail]. Ils pourront vous aider à accélérer l'expédition si nécessaire. Merci de votre patience !"
+
+
+
+Hebreo:
+
+"שלום! אנו מתנצלים על אי הנוחות. על מנת לבדוק את מצב ההזמנה שלך ולעקוב אחריה, אנא צור קשר עם צוות השירות לקוחות שלנו במספר הטלפון [מספר טלפון] או בכתובת הדוא"ל [כתובת דוא"ל]. הם יכולים לספק לך עזרה במעקב או בהאצת המשלוח אם יהיה צורך. תודה על הסבלנות שלך!"
 
 ## Conversation
 
@@ -50,5 +77,4 @@ Francés:
 Hebreo:
 
 "שלום! אנו מתנצלים על אי הנוחות. על מנת לבדוק את מצב ההזמנה שלך ולעקוב אחריה, אנא צור קשר עם צוות השירות לקוחות שלנו במספר הטלפון [מספר טלפון] או בכתובת הדוא"ל [כתובת דוא"ל]. הם יכולים לספק לך עזרה במעקב או בהאצת המשלוח אם יהיה צורך. תודה על הסבלנות שלך!"
-
 

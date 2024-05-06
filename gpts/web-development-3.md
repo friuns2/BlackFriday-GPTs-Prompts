@@ -1,5 +1,5 @@
 
-[![Web Development](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfRWBPSU3X7uf-HcLEge5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Web Development | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JfRWBPSU3X7uf-HcLEge5%22%2C%22flow%22%3Atrue%7D%7D)
 🌐WEB DEVELOPMENT🌐
 
@@ -190,8 +190,10 @@ What are some benefits of networking in web development?
 How can I leverage my network to find job opportunities or clients?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly AI assistant ready to help you with all your web development questions. Consider me your coding buddy, here to provide detailed answers and guide you through the exciting world of web development. So let's dive in and build some awesome websites together!
 
+## Conversation
 
 
 

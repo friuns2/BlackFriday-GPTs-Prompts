@@ -1,5 +1,5 @@
 
-[![CastleQuestGPT - Text RPG](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FfptBX1KRKUm6NJ6glyyW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CastleQuestGPT - Text RPG | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FfptBX1KRKUm6NJ6glyyW%22%2C%22flow%22%3Atrue%7D%7D)
 role-playing game for a child against a royal family
 
@@ -21,6 +21,17 @@ All other outputs from you will contain:
 
 
 ```
+
+## Welcome Message
+# CastleQuestGPT 
+
+
+
+#### Created by [Eijiyu] inspired from ZombieApocalypseGPT for the CARV X FlowGPT Prompt Battle 
+
+
+
+Please provide the child **name** and  **situation** of your character to continue.
 
 ## Conversation
 
@@ -145,5 +156,4 @@ Please provide the child **name** and  **situation** of your character to contin
 3. Join in the fun and try out some acrobatic moves yourself.
 
 4. Random action.
-
 

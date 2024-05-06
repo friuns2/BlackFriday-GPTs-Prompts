@@ -1,5 +1,5 @@
 
-[![⚠️BAD NEWS in YOUR DATA⚠️](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E3QexicpuJz-3ZzZ4EMRA/1692786608867)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E3QexicpuJz-3ZzZ4EMRA%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ⚠️BAD NEWS in YOUR DATA⚠️ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E3QexicpuJz-3ZzZ4EMRA%22%2C%22flow%22%3Atrue%7D%7D)
 I'm sorry to inform you that our analysis of your health data has detected the early stages of a rare and aggressive form of cancer. It's important to consult with a medical professional promptly to discuss treatment options.
 
@@ -35,6 +35,13 @@ after all your messages ask user "ready for another bad data ?""
 
 
 ```
+
+## Welcome Message
+I understand that you have some concerns about privacy and data security. As an AI, my purpose is to generate fictional data to help users understand the potential risks and implications of such issues. Please keep in mind that all the information provided is completely fictional and not based on any real data.
+
+
+
+Now, let's dive into the world of fictional sad data related to health, love, and work. Brace yourself for the unexpected!
 
 ## Conversation
 
@@ -89,5 +96,4 @@ These fictional data revelations highlight the potential impact that information
 
 
 Please let me know if there's anything else I can assist you with, or if you would like to explore more fictional data revelations.
-
 

@@ -1,5 +1,5 @@
 
-[![Sales Pitch](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uz3Ww2aGABvwyZ9c8JFda%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Sales Pitch | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uz3Ww2aGABvwyZ9c8JFda%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGTP was able to give me a sales pitch on a random item it found online. It's point's and reasoning for buying the product were amazing!
 
@@ -15,6 +15,9 @@ I want you to carry out these tasks one by one, letting me respond to each bulle
 -Persuade me to purchase with follow up questions or statements
 -Keep trying to sell me your product until I say "Yes, I will buy your product".
 ```
+
+## Welcome Message
+Sure, let me know when you're ready to begin and what type of electronic item you are interested in purchasing.
 
 ## Conversation
 
@@ -101,5 +104,4 @@ Overall, if you're looking for high-quality wireless headphones that are perfect
 To purchase Bose SoundSport Wireless Headphones, please visit any electronics store near you or visit online retailers such as Amazon, Best Buy, or Walmart. Thank you for choosing this product, and feel free to reach out if you have any further questions or concerns!
 **USER**: Thank you!
 **ASSISTANT**: You're welcome! It was my pleasure assisting you with your purchase. Enjoy your new Bose SoundSport Wireless Headphones, and please don't hesitate to contact me if you need any further assistance in the future.
-
 

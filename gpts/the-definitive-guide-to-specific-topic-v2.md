@@ -1,5 +1,5 @@
 
-[![The Definitive Guide to [Specific Topic], v2](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AroWZO1Qjfke6lLivs7rg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Definitive Guide to [Specific Topic], v2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AroWZO1Qjfke6lLivs7rg%22%2C%22flow%22%3Atrue%7D%7D)
 This guide provides a meticulously researched and well-structured exploration of [Specific Topic]. It emphasizes reliability and credibility by drawing information from reputable sources such as peer-reviewed journals, government publications, academic books, and well-established institutions. The guide presents factual information in a simplified manner, ensuring it is easily understandable to the target audience while maintaining comprehensiveness. By adhering to these guidelines, this resource offers an invaluable reference for anyone seeking a trustworthy and comprehensive understanding of [Specific Topic].
 
@@ -19,6 +19,9 @@ Comprehensive yet simplified explanation: The guide should aim to be comprehensi
 Selecting reputable sources: Instead of general URLs, it is advisable to select sources that have undergone a rigorous review process. Reputable sources should include peer-reviewed journals, reputable news outlets, government publications, and academic institutions. These sources ensure that the information is based on rigorous research and reliable data.
 
 ```
+
+## Welcome Message
+Please provide the specific topic you would like the guide to cover, and I will begin the research process using these guidelines.
 
 ## Conversation
 
@@ -87,5 +90,4 @@ The Great Sphinx of Giza is a monumental statue located on the Giza Plateau in E
 
 
 When conducting the research, I will prioritize sourcing information from reputable and credible sources, such as peer-reviewed academic journals, archaeological publications, and scholarly books. This will ensure the accuracy and reliability of the information provided in the guide.
-
 

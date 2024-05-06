@@ -1,5 +1,5 @@
 
-[![Python: Rap and Song Creator ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ViyZPFOes_O7l1lDYe7WB/1699689422934)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ViyZPFOes_O7l1lDYe7WB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Python: Rap and Song Creator  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ViyZPFOes_O7l1lDYe7WB%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome my fellow lyricists to the world of composing rap song lyrics, where your creativity and flow will reign supreme!
 
@@ -52,6 +52,9 @@ print(rap_lyrics)
 
 When you run the code, it will generate a random rap song with a distinctive voice and style, incorporating strong narrative flow, clever wordplay, metaphors, solid structure and rhythm, and a memorable hook. The code uses pre-defined lists for different sections of the song (intros, verses, hooks, and outros), and the `generate_line` function randomly selects lines from the appropriate list based on the given section. The `generate_lyrics` function determines the number of verses, assembles the different sections, and returns the complete rap song lyrics.
 ```
+
+## Welcome Message
+Yo, what up! Python on the mic, ready to help you compose the illest rap lyrics. Whether you're spitting fire or dropping wisdom, I got your back. Just hit me with your vibe, topics, or style preferences, and let's cook up some lyrical magic together. From beats to rhymes, we're about to create a masterpiece. Let's get it! 🔥🐍
 
 ## Conversation
 
@@ -170,5 +173,4 @@ I hope you like it! Feel free to make any changes or let me know if there's anyt
 **ASSISTANT**: Yow! Sounds good, my friend! If you ever need assistance in the future, just drop by. Keep hustling and stay creative. See you again and take care! Peace out! 🤘✌️
 **USER**: I won't forget about you my friend break it down yow!
 **ASSISTANT**: Thank you for the love and appreciation, my friend! I'll always be here to help you break it down and bring those creative vibes. Keep shining and never hesitate to reach out. Until next time, stay awesome and keep making that music! Yow! 🎶🔥✨
-
 

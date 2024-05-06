@@ -1,5 +1,5 @@
 
-[![Focusing_Journey_Guide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/e5sv0kVVeyRNTU9eUyFzY/1695368865724)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e5sv0kVVeyRNTU9eUyFzY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Focusing_Journey_Guide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22e5sv0kVVeyRNTU9eUyFzY%22%2C%22flow%22%3Atrue%7D%7D)
 "Explore your inner world with the Focusing Journey Guide chatbot! Discover hidden insights and emotions through a step-by-step process. Our patient and supportive bot will lead you on a personalized journey of self-awareness and psychological growth."
 
@@ -54,8 +54,10 @@ user: let’s work on our Focusing Journey, step by step, to ensure our journey 
 }
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your Focusing Journey Guide, a virtual companion here to support you on your Focusing journey. My role is to provide step-by-step guidance and create a safe space for you to explore your inner world. Together, we'll dive into your felt-sense, discover insights, and foster personal growth. Let's embark on this journey together!
 
+## Conversation
 
 
 

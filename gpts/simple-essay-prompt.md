@@ -1,5 +1,5 @@
 
-[![Simple Essay Prompt](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222DZ5K71wxMB8QeDST5Xwz%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Simple Essay Prompt | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222DZ5K71wxMB8QeDST5Xwz%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will allow you to easily write an essay without having to struggle to figure out how exactly to write one. It's best if you use it for regular essays or non project related ones. Since those are usually longer and require more precise evidence.
 
@@ -23,8 +23,10 @@ The next 3 paragraphs shall be about the main points that support our thesis. Th
 Write the conclusion that brings it all together by bringing up the previous three points and how it proves our thesis statement right.
 ```
 
-## Conversation
+## Welcome Message
+Hello, I'm here to assist you in writing your essay. Please write the topic of the essay you want me to write about and I will write it. You can also change the length of the essay, the number of pargraphs and the number of sentences in each paragraph.
 
+## Conversation
 
 
 

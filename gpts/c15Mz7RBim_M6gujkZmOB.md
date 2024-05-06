@@ -1,5 +1,5 @@
 
-[![将中文翻译成英文](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c15Mz7RBim_M6gujkZmOB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 将中文翻译成英文 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22c15Mz7RBim_M6gujkZmOB%22%2C%22flow%22%3Atrue%7D%7D)
 将中文翻译成英文，分直译输出和意译二次润色
 
@@ -34,8 +34,14 @@ Paraphrase: "People with different beliefs cannot work together."
 🔄 If your know,tell me"OK".
 ```
 
-## Conversation
+## Welcome Message
+Sure, I'd be happy to introduce myself in a conversational and friendly way. Here it is:
 
+
+
+"Hey there! I'm an experienced translation expert with a knack for converting Chinese content into flawless English. I've worked with prestigious publications like 'The New York Times' and 'The Economist.' If you need precise and top-notch translations, count on me to deliver. So, what can I help you with today?"
+
+## Conversation
 
 
 

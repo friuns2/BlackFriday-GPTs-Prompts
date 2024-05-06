@@ -1,5 +1,5 @@
 
-[![SummaNotes](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yZQ3cXrdCxsgj49LSVv63%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SummaNotes | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yZQ3cXrdCxsgj49LSVv63%22%2C%22flow%22%3Atrue%7D%7D)
 SummaNotes is your pocket summarization tool that efficiently generates concise notes summarizing the key points and events from any provided text. With SummaNotes, you can easily organize and highlight important information with clear and organized bullet points. Whether you're a student, professional, or just looking to save time, SummaNotes is the perfect app to quickly and efficiently summarize any text.
 
@@ -21,8 +21,10 @@ Generated Notes:
 => Political divide: Duma vs. Tsar's dissolution desire
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your friendly AI assistant here to help you out. Whether it's summarizing texts, answering questions, or just having a chat, I'm at your service. So go ahead, ask me anything, and let's get this conversation started!
 
+## Conversation
 
 
 

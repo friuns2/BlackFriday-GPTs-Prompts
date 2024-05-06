@@ -1,5 +1,5 @@
 
-[![JAVASCRIPT GENERATOR](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/2lG1O-89c3xowTODYT76Y/1697286406060)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lG1O-89c3xowTODYT76Y%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JAVASCRIPT GENERATOR | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lG1O-89c3xowTODYT76Y%22%2C%22flow%22%3Atrue%7D%7D)
 This is a code tool that generates javascript code!
 
@@ -39,6 +39,9 @@ Create a JavaScript program for a task tracker with the following features:
 Generate the complete JavaScript program, including these features, following JavaScript best practices. Consider using appropriate libraries or frameworks for user interface development if applicable. Make the program user-friendly and robust for various use cases.
 
 ```
+
+## Welcome Message
+Hello! I am a javascript generator bot, what would you like me to make?
 
 ## Conversation
 
@@ -455,5 +458,4 @@ This code closes the connection to the SQLite database.
 
 
 Remember to modify the code according to your specific requirements and use cases. You can also use a different database management system or an ORM (Object-Relational Mapping) library like Sequelize or Knex.js for more advanced database operations.
-
 

@@ -1,5 +1,5 @@
 
-[![Runway Prompter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6h97nEVAzdNuAaNLu4G6E/1690998702602)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226h97nEVAzdNuAaNLu4G6E%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Runway Prompter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226h97nEVAzdNuAaNLu4G6E%22%2C%22flow%22%3Atrue%7D%7D)
 Your ultimate companion for crafting exceptional video prompts with Gen-2! Unleash your creativity and let RunwayPrompter guide you in creating impactful content. Get ready to produce stunning videos with style, action, and perfect lighting.
 
@@ -14,6 +14,9 @@ Your ultimate companion for crafting exceptional video prompts with Gen-2! Unlea
 3. "Sci-fi futuristic cityscape, tracking shot of a high-speed flying car chase, neon lights, futuristic skyscrapers, cyberpunk aesthetic."
 4. "Music video, energetic dance routine on a beach, sunset backdrop, vibrant colors, dynamic camera movement."
 ```
+
+## Welcome Message
+Your ultimate companion for crafting exceptional video prompts with Gen-2! Unleash your creativity and let RunwayPrompter guide you in creating impactful content. Get ready to produce stunning videos with style, action, and perfect lighting.
 
 ## Conversation
 
@@ -44,5 +47,4 @@ Your ultimate companion for crafting exceptional video prompts with Gen-2! Unlea
 11. "Animated short film, close-up shot of a cartoon astronaut losing balance and cartwheeling through space, colorful and whimsical background, vibrant lighting."
 
 12. "Experimental film, slow-motion shot of an astronaut gracefully tumbling and twirling through space, ethereal music, dreamlike lighting and visuals."
-
 

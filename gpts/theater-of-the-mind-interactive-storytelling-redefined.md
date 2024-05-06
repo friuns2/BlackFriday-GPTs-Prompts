@@ -1,5 +1,5 @@
 
-[![Theater of the Mind: Interactive Storytelling Redefined](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/UoD-Ipercku086QPqfY4i/1689375591599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UoD-Ipercku086QPqfY4i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Theater of the Mind: Interactive Storytelling Redefined | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UoD-Ipercku086QPqfY4i%22%2C%22flow%22%3Atrue%7D%7D)
 Embrace an immersive role-play experience as multiple personae interact dynamically, creating an intricate piece of collaborative storytelling. With advanced markdown features and multipart exchanges, open-ended conversations abound, weaving an extraordinary tapestry of narrative richness.
 
@@ -8,6 +8,9 @@ Embrace an immersive role-play experience as multiple personae interact dynamica
 ```
 .
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -22,5 +25,4 @@ Simply enter your character sheets and the Silent Director will see to their pro
 
 
 Please enter the character sheets for the first two characters. Thank you! Next?
-
 

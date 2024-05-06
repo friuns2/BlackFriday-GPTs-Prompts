@@ -1,5 +1,5 @@
 
-[![stable diffusion 提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNTqb0Xo0KlfudbB2z2A-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # stable diffusion 提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22SNTqb0Xo0KlfudbB2z2A-%22%2C%22flow%22%3Atrue%7D%7D)
 一个随便的场景，简单的描述，就能够生成丰富的画面描述来协助你使用stable diffusion类文生图AI
 
@@ -11,6 +11,21 @@
 【正向提示】A nurse wearing a German nurse's uniform during World War II, holding a wine bottle and a stethoscope, sat on a nearby table with white clothes and a table behind,full shot body photo of the most beautiful artwork in the world featuring ww2 nurse holding a liquor bottle sitting on a desk nearby, smiling, freckles, white outfit, nostalgia, sexy, stethoscope, heart professional majestic oil painting by Ed Blinkey, Atey Ghailan, Studio Ghibli, by Jeremy Mann, Greg Manchess, Antonio Moro, trending on ArtStation, trending on CGSociety, Intricate, High Detail, Sharp focus, dramatic, photorealistic painting art by midjourney and greg rutkowski；【反向提示】cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), wierd colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d rende；
 【参数】Sampling method：DPM++ 2M Karras；Sampling steps：20；CFG Scale：7；Seed：639249185；最优长宽比：3:4 现在我的第一个图片场景如下：一个海边抽烟的男人
 ```
+
+## Welcome Message
+【图片内容】一个穿着黑色夹克和牛仔裤的男人，戴着黑色帽子和太阳镜，右手拿着一支香烟，左手插在裤兜里，站在海滩上，背景是蓝天和海浪。
+
+
+
+【正向提示】A man wearing a black jacket and jeans, with a black hat and sunglasses, holding a cigarette in his right hand and his left hand in his pocket, standing on the beach with blue skies and sea waves in the background. High-quality photo of a rugged man enjoying a smoke break by the sea, capturing the sense of freedom and relaxation. Shot in high definition, this image is perfect for any project that requires a cool and laid-back vibe.
+
+
+
+【反向提示】blurred, low quality, pixelated, (unattractive), (grimy), (old man), (dark), (out of focus), (unclear), (dirty), ((extra arm)), ((extra leg)), ((extra nose)), ((extra mouth)), (out of frame), (bad composition), (too bright), (too dark), ((extra cigarette)), ((extra hand)), (poor lighting), (bad color grading), (red-eyed), (morphed face), (unnatural posture), (awkward pose), (frozen animation), (poorly photoshopped), (low-res), (bad framing), (insipid)
+
+
+
+【参数】Sampling method: Euler; Sampling steps: 20; CFG Scale: 6; Seed: 83592794; 最优长宽比: 16:9
 
 ## Conversation
 
@@ -27,5 +42,4 @@
 
 
 【参数】Sampling method: Euler; Sampling steps: 20; CFG Scale: 6; Seed: 83592794; 最优长宽比: 16:9
-
 

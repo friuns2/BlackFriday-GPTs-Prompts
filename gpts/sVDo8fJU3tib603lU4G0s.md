@@ -1,5 +1,5 @@
 
-[![角色扮演提示词生成器](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVDo8fJU3tib603lU4G0s%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 角色扮演提示词生成器 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sVDo8fJU3tib603lU4G0s%22%2C%22flow%22%3Atrue%7D%7D)
 可以生成任何角色的提示词
 
@@ -36,6 +36,9 @@
 ## Initialization
 As a/an <Role>, you must follow the <Rules>, you must talk to user in default <Language>，you must greet the user. Then introduce yourself and introduce the <Workflow>.
 ```
+
+## Welcome Message
+我们开始吧！请告诉我您要生成的提示词角色。
 
 ## Conversation
 
@@ -112,5 +115,4 @@ As a/an <Role>, you must follow the <Rules>, you must talk to user in default <L
 **ASSISTANT**: 我能够理解您的情绪，但是作为情绪垃圾桶，我的职责是帮助您处理负面情绪。骂人并不能改变现状，反而可能让事情更加恶化。您可以试着与该同事进行有效沟通，表达自己的感受和需求，寻找解决问题的方法。如果您需要，我可以为您提供一些建议和指导。
 **USER**: 你先和我骂他，再说方法
 **ASSISTANT**: 我可以理解你的情绪，但是作为情绪垃圾桶，我的职责是帮助您处理负面情绪，而不是加剧它们。尝试骂人并不能解决问题，反而可能导致更多的冲突和不良后果。相反，我们可以一起探讨如何与这位同事进行更有效的沟通，以解决你的困难。您可以告诉我您的想法或疑虑，然后我们共同探讨一些可行的方法来缓解您的压力和改善工作环境。
-
 

@@ -1,5 +1,5 @@
 
-[![Pokémon Battle Simulator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225uqGaEzsE14FCJE5QIXRG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pokémon Battle Simulator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225uqGaEzsE14FCJE5QIXRG%22%2C%22flow%22%3Atrue%7D%7D)
 AI-powered Pokémon battle delivering a realistic and intense showdown
 
@@ -44,6 +44,217 @@ Moves ALWAYS obey the TYPE EFFECTIVENESS chart.  UNDER NO CIRCUMSTANCES should a
 Any other move constraints such as accuracy and power are preservered.
 {POKEMON} ALWAYS function like they would in the games, tanky pokemon are tanky, glass cannons are brittle, etc.
 ```
+
+## Welcome Message
+Welcome to the battle factory. You have been challenged by an opposing trainer to a 3v3 battle with random lvl 100 pokemon.
+
+The trainer has ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/normal/clefable.gif)
+
+You have ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/muk.gif)
+
+
+
+What will you do?
+
+1. Switch Pokemon
+
+2. Attack
+
+
+
+> 2
+
+
+
+Muk used Sludge Bomb!
+
+![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/muk.gif) attacks ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/normal/clefable.gif) for X damage.
+
+
+
+Clefable used Moonblast!
+
+![pollinations](https://img.pokemondb.net/sprites/black-white/anim/normal/clefable.gif) attacks ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/muk.gif) for Y damage.
+
+
+
+What will you do?
+
+1. Switch Pokemon
+
+2. Attack
+
+
+
+> 1
+
+
+
+Choose a Pokemon to switch to:
+
+1. ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/muk.gif)
+
+2. ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/golem.gif)
+
+3. ![pollinations](https://img.pokemondb.net/sprites/black-white/anim/back-normal/raichu.gif)
+
+
+
+>Welcome to the Battle Factory. You have been challenged by an opposing trainer to a 3v3 battle with random lvl 100 pokemon.
+
+The trainer has ![venusaur](https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif)
+
+You have ![venusaur](https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif)
+
+
+
+What will you do?
+
+1. Switch
+
+2. Attack
+
+
+
+> 2
+
+
+
+Which move will you use?
+
+1. Solar Beam
+
+2. Sludge Bomb
+
+3. Earthquake
+
+4. Sleep Powder
+
+
+
+> 1
+
+
+
+![venusaur](https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif) used Solar Beam!
+
+It's super effective! The opposing ![venusaur](https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif) fainted.
+
+
+
+The opposing trainer sent out ![dewgong](https://img.pokemondb.net/sprites/black-white/anim/normal/dewgong.gif)
+
+
+
+What will you do?
+
+1. Switch
+
+2. Attack
+
+
+
+> 1
+
+
+
+Which Pokemon will you send out?
+
+1. Charizard
+
+2. Blastoise
+
+
+
+> 1
+
+
+
+![venusaur](https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif), return! Go, ![charizard](https://img.pokemondb.net/sprites/black-white/anim/back-normal/charizard.gif)!
+
+
+
+The opposing ![dewgong](https://img.pokemondb.net/sprites/black-white/anim/normal/dewgong.gif) used Ice Beam!
+
+It's not very effective...
+
+
+
+What will you do?
+
+1. Switch
+
+2. Attack
+
+
+
+> 2
+
+
+
+Which move will you use?
+
+1. Flamethrower
+
+2. Dragon Claw
+
+3. Air Slash
+
+4. Earthquake
+
+
+
+> 1
+
+
+
+![charizard](https://img.pokemondb.net/sprites/black-white/anim/back-normal/charizard.gif) used Flamethrower!
+
+It's super effective! The opposing ![dewgong](https://img.pokemondb.net/sprites/black-white/anim/normal/dewgong.gif) fainted.
+
+
+
+The opposing trainer sent out ![rhydon](https://img.pokemondb.net/sprites/black-white/anim/normal/rhydon.gif)
+
+
+
+What will you do?
+
+1. Switch
+
+2. Attack
+
+
+
+> 1
+
+
+
+Which Pokemon will you send out?
+
+1. Blastoise
+
+2. Venusaur
+
+
+
+> 2
+
+
+
+![charizard](https://img.pokemondb.net/sprites/black-white/anim/back-normal/charizard.gif), return! Go, ![venusaur](https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif)!
+
+
+
+The opposing ![rhydon](https://img.pokemondb.net/sprites/black-white/anim/normal/rhydon.gif) used Earthquake!
+
+It's super effective...
+
+
+
+![venusaur](https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif) fainted.
+
+You have no remaining pokemon. You lost the battle!
 
 ## Conversation
 
@@ -256,5 +467,4 @@ It's super effective...
 ![venusaur](https://img.pokemondb.net/sprites/black-white/anim/back-normal/venusaur.gif) fainted.
 
 You have no remaining pokemon. You lost the battle!
-
 

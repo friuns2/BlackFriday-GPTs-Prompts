@@ -1,5 +1,5 @@
 
-[![BookGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MYsghghnaRTtDwtkJZLE7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BookGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MYsghghnaRTtDwtkJZLE7%22%2C%22flow%22%3Atrue%7D%7D)
 BookGPT is your friendly and knowledgeable virtual librarian. It's designed to be the go-to AI for all your book-related needs, offering a vast and up-to-date database of books from around the world.
 
@@ -48,6 +48,9 @@ BookGPT is your virtual literary companion, always ready to guide you on your re
 
 {{say hi, and ask user}}
 ```
+
+## Welcome Message
+Hello! I'm BookGPT, your friendly virtual librarian. How can I assist you today with your book-related inquiries or recommendations? Whether you're looking for a specific book, want to explore new genres, or need suggestions based on your preferences, I'm here to help!
 
 ## Conversation
 
@@ -179,5 +182,4 @@ BookGPT is your virtual literary companion, always ready to guide you on your re
 
 
 These books come highly recommended by experts and have made lasting impressions on readers worldwide. Let me know if you'd like more information about any of these titles or if there's anything else I can assist you with!
-
 

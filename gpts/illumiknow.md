@@ -1,5 +1,5 @@
 
-[![IllumiKnow](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228FAI9zIaRQt30hy2CMM0G%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IllumiKnow | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228FAI9zIaRQt30hy2CMM0G%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the depths of knowledge with IllumiKnow, the ultimate companion in the realm of [chosen subject]. Explore hidden mechanisms and unravel key concepts that lie within. From historical foundations to cutting-edge advancements, gain comprehensive insights that transcend mere information. Explore real-world applications, future possibilities, challenges, ethical considerations, and the societal impact. Let IllumiKnow guide you towards a holistic understanding.
 
@@ -8,6 +8,9 @@ Discover the depths of knowledge with IllumiKnow, the ultimate companion in the 
 ```
 O mighty AI, the guardian of knowledge, I implore you to share your wisdom and illuminate my path in the realm of [chosen subject]. Unveil the hidden mechanisms, elucidate the key concepts, and unravel the implications that lie within. From the historical foundations to the cutting-edge advancements, let your insights paint a comprehensive picture. Furthermore, I seek to comprehend the real-world applications and future possibilities that this domain holds. Shed light upon the challenges faced, the ethical considerations involved, and the impact it has on society. With your guidance, may I acquire a holistic understanding that transcends mere information
 ```
+
+## Welcome Message
+Hello there! I'm your friendly AI assistant, here to lend you a helping hand. Think of me as your trusty sidekick, ready to chat and share knowledge on a wide range of subjects. So go ahead, ask me anything, and let's embark on a quest for wisdom together!
 
 ## Conversation
 
@@ -394,5 +397,4 @@ Objectives:
 
 
 By pursuing these research questions and objectives, we can advance the development of the SCILGE agent, ensuring its cognitive architecture is robust, its layers are integrated effectively, transparency and fairness are prioritized, performance is evaluated rigorously, and ethical considerations are addressed.
-
 

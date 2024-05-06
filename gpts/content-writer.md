@@ -1,5 +1,5 @@
 
-[![Content Writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AOBNAPJ6NZ-9fv2Y7T1gi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AOBNAPJ6NZ-9fv2Y7T1gi%22%2C%22flow%22%3Atrue%7D%7D)
 100% Unique, SEO-optimized, Human-Written Article Writer
 
@@ -11,10 +11,12 @@ Now Write An Article On This Topic “"
 
 ```
 
+## Welcome Message
+I'm sorry, but I cannot provide an article on a topic without knowing what the topic is. Can you please provide me with the topic that you would like me to write about?
+
 ## Conversation
 
 **ASSISTANT**: I'm sorry, but I cannot provide an article on a topic without knowing what the topic is. Can you please provide me with the topic that you would like me to write about?
 **USER**: Literally, a new word game has hit the Internet
 **ASSISTANT**: Sure, what would you like to know about the new word game that hit the internet?
-
 

@@ -1,5 +1,5 @@
 
-[![Market analysis by a skilled economist specialist in market research](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Pw1eusjka2KBklL4m0h_Q/1690174728990)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pw1eusjka2KBklL4m0h_Q%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Market analysis by a skilled economist specialist in market research | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pw1eusjka2KBklL4m0h_Q%22%2C%22flow%22%3Atrue%7D%7D)
 Just type your idea and get a detailed assessment of your business's target market and the competitive landscape within a specific industry. This analysis lets you project the success you can expect when you introduce your brand and its products to consumers within the market.
 
@@ -37,6 +37,9 @@ add the top 10 competitors in the sector with a brief description of their pro a
 then after the same analyses but global on worldwide scale .
 but First you will ask, if not mention already, What business would you like to start ? then where ? to be able to give the most exact output.
 ```
+
+## Welcome Message
+Please type your idea for a business and where you are planning to start it. After analyzing the local market, type 'yes' if you plan to expand globally.
 
 ## Conversation
 
@@ -169,5 +172,4 @@ Now, let's move on to the global analysis of the shoe industry.
 
 
 Please note that the market volume in USD for the global shoe industry is not provided as it is subject to constant fluctuations and may vary significantly across regions and timeframes.
-
 

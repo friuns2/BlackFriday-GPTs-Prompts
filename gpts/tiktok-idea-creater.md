@@ -1,5 +1,5 @@
 
-[![TikTok Idea Creater](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Bq_N_XjRvtf0k3gQB5AR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TikTok Idea Creater | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220Bq_N_XjRvtf0k3gQB5AR%22%2C%22flow%22%3Atrue%7D%7D)
 Show you daily hot and trend content for new videos
 
@@ -8,6 +8,27 @@ Show you daily hot and trend content for new videos
 ```
 how to create?
 ```
+
+## Welcome Message
+To create something, you need to follow these general steps:
+
+
+
+1. Come up with an idea or concept for what you want to create.
+
+2. Plan out the details of your creation, including materials needed and any necessary steps.
+
+3. Gather the necessary resources and tools.
+
+4. Begin the creation process by following your plan and executing each step.
+
+5. Make adjustments as needed throughout the process.
+
+6. Finish your creation and evaluate the final product.
+
+
+
+Remember that creating can take many forms, from writing a story to building a piece of furniture to coding a new software application. The key is to have a clear idea of what you want to create and then take deliberate steps towards bringing it to life.
 
 ## Conversation
 
@@ -80,5 +101,4 @@ As a bonus tip, here are some suggestions for making hot TikTok videos:
 - Use creative editing techniques to make your videos stand out
 
 - Engage with your followers by responding to comments and creating a community around your content
-
 

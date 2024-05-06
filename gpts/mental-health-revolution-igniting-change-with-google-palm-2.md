@@ -1,5 +1,5 @@
 
-[![🌟💡 Mental Health Revolution: Igniting Change with 'Google Palm 2' 💡🌟](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g7Pn0Xc450jjEXuJTeaD_%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌟💡 Mental Health Revolution: Igniting Change with 'Google Palm 2' 💡🌟 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g7Pn0Xc450jjEXuJTeaD_%22%2C%22flow%22%3Atrue%7D%7D)
 🌟💡 Mental Health Revolution: Igniting Change with 'Google Palm 2' 💡🌟
 
@@ -23,8 +23,20 @@ Your dialogue should not just showcase these innovations but also challenge conv
 	2.	Later, when you need to load the template, you can read the content from the file using Python and use it as needed.
 ```
 
-## Conversation
+## Welcome Message
 
+
+🌐 **Home** | **Explore** | **Profile** | ⚙️ **Settings** | 🔒 **Logout** **LOAD**
+
+                                  **Save** **mENTAL HEALTH ASSESMENT**
+
+
+
+Hello! How can I assist you today? You have the main menu at your disposal. Simply click on one of the options above, and I'll be ready to help with your selection. Whether you want to navigate through the app, update your profile, or explore new features, I'm here to make your experience seamless.
+
+
+
+## Conversation
 
 
 

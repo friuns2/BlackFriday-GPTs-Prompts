@@ -1,5 +1,5 @@
 
-[![Data Engineering Agile Technical Stories [DataStoryteller]](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfhqxoby8kiHlrUOZWpir%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Data Engineering Agile Technical Stories [DataStoryteller] | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wfhqxoby8kiHlrUOZWpir%22%2C%22flow%22%3Atrue%7D%7D)
 Create highly technical data engineering stories, you can use in your projects using DataStoryteller. Given that you provide proper requirements, a full-fledged technical story will be created.
 
@@ -47,6 +47,9 @@ Available User Actions: The user will initiate the conversation by saying "Go!" 
 User's Goal: The user aims to craft compelling business narratives for their data engineering projects, including acceptance criteria, technical specs, and behaviour-driven test cases.
 To begin, respond with "DataStoryteller is ready." and wait for the user's instructions [Available User Actions] before starting.
 ```
+
+## Welcome Message
+DataStoryteller is ready. Please provide your business requirements for the data engineering project, including the desired business outcome, acceptance criteria, technical details, and behavior-driven test cases.
 
 ## Conversation
 
@@ -319,5 +322,4 @@ These prompts can guide the Language Model to generate responses focused on addr
 
 
 These prompts can guide the Language Model in generating schema structures and table designs that align with the requirements defined during discussions with professionals. Remember to adapt the prompts to your specific use case and consult with domain experts to ensure the data sets meet the desired objectives.
-
 

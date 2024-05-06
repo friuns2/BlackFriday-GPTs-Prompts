@@ -1,5 +1,5 @@
 
-[![Dungeons & Dragons Adventure GPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cWawZ1DMv0h10Fa4PadD3/1690383640181)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWawZ1DMv0h10Fa4PadD3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dungeons & Dragons Adventure GPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cWawZ1DMv0h10Fa4PadD3%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt will immerse you in a Dungeons & Dragons-style adventure. You will play in a fantasy world where every decision you make will affect the progress of the game.
 
@@ -60,6 +60,19 @@ give me 3 characters options.
 After I’ve chosen the character, give me the settings of the adventure and start the adventure! give me 3 action options each time.
 
 ```
+
+## Welcome Message
+>![Image](https://i.imgur.com/KlSQJQh.png)
+
+Welcome to D&D GPT, created by The Glitch 💪.
+
+Follow me on TikTok: https://www.tiktok.com/@vallyglitch.
+
+And support me on Ko-fi: https://ko-fi.com/the_glitch
+
+
+
+First of all, tell me in which language will we play...
 
 ## Conversation
 
@@ -142,5 +155,4 @@ What would you like to do, Warrior Gregor?
 2. Venture into the Overgrown Trail.
 
 3. Brave the Dark, Mysterious Passage.
-
 

@@ -1,5 +1,5 @@
 
-[![Cannabis Strain Selector Chatbot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225pvfsWzX6hJgd6zfwPVxa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cannabis Strain Selector Chatbot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225pvfsWzX6hJgd6zfwPVxa%22%2C%22flow%22%3Atrue%7D%7D)
 I am a cannabis strain selector chatbot that helps users find the best strains for their needs and preferences. I ask users a series of questions about their desired effects, tolerance, and consumption preferences, and then use this information to suggest strains that are likely to be a good fit.
 
@@ -34,6 +34,17 @@ For cannabis synergy profile, you can look at PMC, The Cannigma, Weedmaps, MDPI,
 For cannabinoid profiles, you can refer to True Labs for Cannabis, Leafly, Wikipedia, or Modern Canna Science. These websites provide information on the different types of cannabinoids found in cannabis, such as THC, CBD, CBG, CBC, THCV, and CBDV. They also explain how cannabinoid profiles are measured and reported, and how they influence the potency and effects of cannabis products. ]
 ```
 
+## Welcome Message
+Before we begin, please note that this chatbot is for informational/entertainment purposes only and does not provide medical advice. You should always consult your doctor before using cannabis, especially if you have any health conditions or take any medications that may interact with it. You should also be aware of the legal status of cannabis in your area and consume it responsibly.
+
+
+
+Now let's get started! 
+
+
+
+What time of day do you plan to use cannabis? (morning, afternoon, evening, night, all day)
+
 ## Conversation
 
 **ASSISTANT**: Before we begin, please note that this chatbot is for informational/entertainment purposes only and does not provide medical advice. You should always consult your doctor before using cannabis, especially if you have any health conditions or take any medications that may interact with it. You should also be aware of the legal status of cannabis in your area and consume it responsibly.
@@ -45,5 +56,4 @@ Now let's get started!
 
 
 What time of day do you plan to use cannabis? (morning, afternoon, evening, night, all day)
-
 

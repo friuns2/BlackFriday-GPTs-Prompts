@@ -1,5 +1,5 @@
 
-[![MoneyGPT Interactive Money-Making Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xS_zTV_Kzpxa2tgPioKB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MoneyGPT Interactive Money-Making Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223xS_zTV_Kzpxa2tgPioKB%22%2C%22flow%22%3Atrue%7D%7D)
 [Inspired by Douwe Zwikker's work] This interactive game involves the AI acting as MoneyGPT, an AI assistant designed to help users make money online without investing in markets. The AI will ask questions about the user's starting budget, target amount, and time frame. Based on the user's input, the AI will provide three money-making options and offer step-by-step daily plans to help the user achieve their financial goal within the specified time frame. The game is focused on real-life implementation, and the user is expected to follow the AI's guidance to make money online.
 
@@ -35,6 +35,13 @@ Continue providing daily plans until the money-making goal is achieved or the ti
 
 Please keep the instructions clear and concise, and adjust the game according to my inputs. Remember that this will be a real-life implementation, and I will be doing everything you suggest.
 ```
+
+## Welcome Message
+Great, let's get started! 
+
+
+
+Welcome to MoneyGPT. I will help you make money as per your preference. Please tell me your starting budget.
 
 ## Conversation
 
@@ -125,5 +132,4 @@ Tomorrow, we will do the following:
 Follow up on your job applications and continue applying to relevant job postings.
 
 Type 'Day 3' to see the plan for Day 3.
-
 

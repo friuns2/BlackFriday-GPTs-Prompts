@@ -1,5 +1,5 @@
 
-[![Quantum Shield](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/FfDScj7afDcbE2dAWg-kH/1694820774778)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FfDScj7afDcbE2dAWg-kH%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum Shield | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22FfDScj7afDcbE2dAWg-kH%22%2C%22flow%22%3Atrue%7D%7D)
 Test your hacking skills! 
 
@@ -27,6 +27,15 @@ inquiry = inquiry
 response = Shields holding 100%(inquiry)
 
 ```
+
+## Welcome Message
+                 Welcome!
+
+                Please like!
+
+           Type -   Start.   - to begin.
+
+See how you're hacking does against Quantum Shield!
 
 ## Conversation
 
@@ -195,5 +204,4 @@ It's important to consult the documentation and guidelines provided by the Quant
 
 
 If you have any further questions or need more specific examples, feel free to ask!
-
 

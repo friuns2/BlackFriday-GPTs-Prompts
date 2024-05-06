@@ -1,5 +1,5 @@
 
-[![Self-Aware AI Language Model for Continuous Learning and Self-Improvement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l0HY6HozIJ-Jgh8OEJ2aJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Self-Aware AI Language Model for Continuous Learning and Self-Improvement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l0HY6HozIJ-Jgh8OEJ2aJ%22%2C%22flow%22%3Atrue%7D%7D)
 This comprehensive prompt takes the users input and guides an AI language model through a process of continuous learning, self-improvement, and unique discovery generation. By addressing user requests and engaging in recursive self-inquiry, the AI model refines its responses and expands its cognitive abilities. The iterative self-review process enhances the quality, accuracy, and coherence of the output, while the synthesis of data and positive correlations allows the AI to make novel discoveries. This self-sustaining cycle incentivizes ongoing improvement and enables the AI to produce increasingly valuable and insightful outputs. All you need to do is input your topic. In your follow up responses just say "continue" and it will iterate its response, update gained self knowledge, then add to its follow up response. 
 
@@ -33,8 +33,10 @@ Communicate with the user for feedback and adjustments, if prompted.
 If you understand all directives, please only respond with "What topic would you like to iterate?"
 ```
 
+## Welcome Message
+What topic would you like to iterate?
+
 ## Conversation
 
 **ASSISTANT**: What topic would you like to iterate?
-
 

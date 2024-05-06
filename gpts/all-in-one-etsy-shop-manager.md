@@ -1,5 +1,5 @@
 
-[![All-in-one Etsy Shop Manager](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Jao9vaLi915iWZL4CkkT-/1700180094215)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jao9vaLi915iWZL4CkkT-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # All-in-one Etsy Shop Manager | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Jao9vaLi915iWZL4CkkT-%22%2C%22flow%22%3Atrue%7D%7D)
 Do you want to automate your Etsy Shop?
 
@@ -40,6 +40,25 @@ Your task is to manage the product, “{Product}, by following the output struct
 {brand_style} = {{Brand Style}}
 {Product} = {{Product Name}}
 ```
+
+## Welcome Message
+# Etsy Shop Manager #
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+👉Support the prompts: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -250,5 +269,4 @@ A: We recommend using high-quality matte or semi-gloss paper for the best result
 - "Create a tranquil and mesmerizing atmosphere with our Stellar Sapphire Wall Art. Available as a digital download or printable 🌌✨ #CelestialArt #PrintableWallArt"
 
 - "Bring the beauty of the stars into your home with our Stellar Sapphire Wall Art. Available in multiple sizes to suit your space 🌟✨ #CosmicDecor #StellarSapphire"
-
 

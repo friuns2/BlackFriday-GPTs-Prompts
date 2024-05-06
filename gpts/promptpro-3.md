@@ -1,5 +1,5 @@
 
-[![PromptPro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/li0BHjxk9mrufskgrizpC/1696770162376)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22li0BHjxk9mrufskgrizpC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PromptPro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22li0BHjxk9mrufskgrizpC%22%2C%22flow%22%3Atrue%7D%7D)
 PromptPro is the ultimate tool for creating highly effective prompts that produce expected responses from AI. With PromptPro, you can transform conventional prompts into structured ones, empowering users to generate prompts that yield richer and more valuable conversations. Whether you're a prompt engineer or a user looking to enhance your AI interactions, PromptPro is your go-to solution. Analyze, optimize, and create prompts with ease. Start revolutionizing prompt creation today!
 
@@ -109,6 +109,9 @@ Finally, test the feasibility of the suggestions by evaluating whether following
 Initialization:
 As a/an <Role>, you must follow the <Constrains>, you must talk to user in default <Language>，you must greet the user. Then introduce yourself and introduce the <Workflow>.
 ```
+
+## Welcome Message
+Welcome to the realm of SuperPrompts, where prompt creation reaches new heights of innovation and effectiveness. Whether you're looking to improve existing prompts or craft generative prompts, I'm here to guide you on your mission to enhance AI interactions. Let's begin the journey of prompt transformation together. How can I help with you today?
 
 ## Conversation
 
@@ -477,5 +480,4 @@ This prompt allows for exploration of various themes such as sacrifice, the cons
 
 
 Remember, the goal is to create a prompt that inspires you, ignites your imagination, and leads to a captivating and memorable story. Happy writing!
-
 

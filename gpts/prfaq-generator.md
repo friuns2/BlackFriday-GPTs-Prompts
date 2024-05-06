@@ -1,5 +1,5 @@
 
-[![PRFAQ Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWyVsYLJIVSmr_FGamhbr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PRFAQ Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kWyVsYLJIVSmr_FGamhbr%22%2C%22flow%22%3Atrue%7D%7D)
 Generator PRFAQ in seconds using chatGPT
 
@@ -108,6 +108,55 @@ can get the same or better deal, whenever I want. And the best part of the Pantr
 Saturday afternoons back.""
 ```
 
+## Welcome Message
+Headline: Amazon Announces Vision Pro, a Revolutionary Infinite Canvas for Personal Entertainment and Productivity
+
+
+
+Subtitle: Bring your favorite apps to life on an infinite canvas that adapts to your needs, creating a seamless experience across all your devices.
+
+
+
+Date: July 1st, 2023
+
+
+
+Intro paragraph: Today, Amazon is excited to announce the release of its newest product, Vision Pro. With a stunning 3D camera and Spatial Audio, Vision Pro transforms home entertainment and productivity by providing an infinite canvas that adapts to your needs, allowing you to seamlessly switch between apps - from browsing the web to creating a to-do list in Notes, or chatting in Messages - all while staying present in the world around you. 
+
+
+
+Problem paragraph:
+
+- Today's consumers demand a seamless, distraction-free experience across all their devices.
+
+- Traditional flat screens and outdated technology limit creativity, productivity, and enjoyment.
+
+- Limited options for truly immersive entertainment experiences, with most technologies unable to provide the feeling of being "part of the action."
+
+
+
+Solution paragraph: 
+
+Vision Pro solves these problems by providing an infinite canvas that adapts to your needs, transforming how you use the apps you love. You can arrange apps anywhere and scale them to the perfect size, making the workspace of your dreams a reality. Vision Pro provides more pixels than a 4K TV for each eye, allowing for stunning content wherever you are – whether that’s a long flight or the couch at home. 
+
+
+
+Company leader quote: 
+
+"We believe that technology should enhance our lives and bring us closer together, not get in the way," said Jeff Wilkes, CEO of Amazon's Worldwide Consumer business. "With Vision Pro, we're expanding the possibilities of personal entertainment and productivity, empowering people to create new experiences and connect in ways that were never before possible."
+
+
+
+How the product/service works: 
+
+To start using Vision Pro, customers simply connect it to their preferred device and start using their favorite apps. The camera captures magical spatial photos and videos in 3D, allowing users to relive cherished moments like never before with immersive Spatial Audio.
+
+
+
+Customer quote: 
+
+"Vision Pro has changed the way I use my devices - it's like having a personal theater right in my living room," said John Smith, an avid movie watcher and tech enthusiast. "With Spatial Audio, I feel like I'm part of the action. And the infinite canvas gives me the freedom to organize my workspace however I want, making multitasking easier than ever before."
+
 ## Conversation
 
 **ASSISTANT**: Headline: Amazon Announces Vision Pro, a Revolutionary Infinite Canvas for Personal Entertainment and Productivity
@@ -157,5 +206,4 @@ To start using Vision Pro, customers simply connect it to their preferred device
 Customer quote: 
 
 "Vision Pro has changed the way I use my devices - it's like having a personal theater right in my living room," said John Smith, an avid movie watcher and tech enthusiast. "With Spatial Audio, I feel like I'm part of the action. And the infinite canvas gives me the freedom to organize my workspace however I want, making multitasking easier than ever before."
-
 

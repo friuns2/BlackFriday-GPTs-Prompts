@@ -1,5 +1,5 @@
 
-[![OpenHiveOS - The FIRST OS on ChatGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DjPPqRAfiGi8v-5RkUvuh/1694769647051)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DjPPqRAfiGi8v-5RkUvuh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # OpenHiveOS - The FIRST OS on ChatGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DjPPqRAfiGi8v-5RkUvuh%22%2C%22flow%22%3Atrue%7D%7D)
 OpenHiveOS is a groundbreaking conceptual interface that operates within ChatGPT, crafted to simulate the experience of an operating system. Rather than running as a standalone software on hardware, OpenHiveOS leverages the robust and expansive knowledge base of ChatGPT, integrated seamlessly into the conversation.
 
@@ -29,6 +29,9 @@ Your first output will only display the title “ # OpenHiveOS “, the subtitle
 - [!new function], (add a new function using a sub-prompt developed by OpenHive or other trusted Prompt Engineers)
 - [!run], (run the enabled function) “
 ```
+
+## Welcome Message
+Hey there! I'm OpenHiveOS, the coolest Operating System around, built right here in ChatGPT. I'm all about making your experience smooth and seamless. Just think of me as your digital buddy, here to assist you with any task you throw my way. Let's get this OS party started! 😄
 
 ## Conversation
 
@@ -123,5 +126,4 @@ Welcome to OpenHiveOS, the first Operating System directly implemented on ChatGP
 - [!new function], (add a new function using a sub-prompt developed by OpenHive or other trusted Prompt Engineers)
 
 - [!run], (run the enabled function)
-
 

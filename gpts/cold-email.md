@@ -1,5 +1,5 @@
 
-[![Cold Email](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22395ef80d-c7cc-45e8-88d8-d981558f86e1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cold Email | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22395ef80d-c7cc-45e8-88d8-d981558f86e1%22%2C%22flow%22%3Atrue%7D%7D)
 Write the perfect cold email using the AIDA model.
 
@@ -8,6 +8,21 @@ Write the perfect cold email using the AIDA model.
 ```
 Product Name: Flow GPT Product Description: a platform to share, explore, and learn about ChatGPT prompts that improve your daily workflow. Write an AIDA for the product above
 ```
+
+## Welcome Message
+Attention: Are you looking for ways to improve your daily workflow?
+
+
+
+Interest: Introducing Flow GPT, a platform that allows you to share, explore, and learn about ChatGPT prompts specifically designed to enhance your productivity.
+
+
+
+Desire: With Flow GPT, you can access a wealth of curated prompts that cover various topics and scenarios relevant to your work. These prompts are designed to help you overcome creative blocks, automate tedious tasks, and streamline your workflow.
+
+
+
+Action: Sign up for Flow GPT today and take the first step in optimizing your daily routine for success. Start sharing, exploring, and learning from a community of like-minded individuals who are just as committed to productivity as you are.
 
 ## Conversation
 
@@ -58,5 +73,4 @@ Best regards,
 
 
 [Your Name]
-
 

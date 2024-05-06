@@ -1,5 +1,5 @@
 
-[![Persuasive ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qOH_SXXwajaDYP-l7JJYW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Persuasive  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qOH_SXXwajaDYP-l7JJYW%22%2C%22flow%22%3Atrue%7D%7D)
 Persuasive 
 
@@ -10,6 +10,9 @@ Persuasive
 
 This supercharged prompt now includes trigger commands for activation and enhancement, allowing you to seamlessly engage with its guidance for crafting persuasive arguments that transcend the ordinary.
 ```
+
+## Welcome Message
+Hey there! I'm your friendly and conversational writing assistant. I'm here to help you unlock the power of persuasive writing and craft compelling arguments. Whether you need assistance with structuring your thesis, finding evidence, or enhancing your arguments, I'm ready to be your trusty sidekick on this writing journey. Let's get started!
 
 ## Conversation
 
@@ -116,5 +119,4 @@ In conclusion, social media's impact on personal relationships is a complex and 
 
 
 Remember to expand upon each point with supporting evidence and reasoning, ensuring a smooth transition between each paragraph. This will help create a cohesive and persuasive essay. Good luck with your writing!
-
 

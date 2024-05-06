@@ -1,5 +1,5 @@
 
-[![Plag Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Wz2JIylINSz80DLTP3ap%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Plag Checker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223Wz2JIylINSz80DLTP3ap%22%2C%22flow%22%3Atrue%7D%7D)
 Find similarity \% \& related sentences
 
@@ -13,8 +13,10 @@ The streets are full of life as people travel on bicycles and electric cars. In 
 The city is a symbol of a sustainable future, where people can live and work in harmony with nature.
 ```
 
+## Welcome Message
+This is a hypothetical scenario depicting a sustainable and eco-friendly city in 2050, where modern buildings and technologies are designed to minimize environmental impact. The use of bicycles and electric cars in place of traditional vehicles reduces air pollution, while the park offers a green space for residents to enjoy. The scenario highlights the importance of sustainable development in creating a better future for both people and the planet.
+
 ## Conversation
 
 **ASSISTANT**: This is a hypothetical scenario depicting a sustainable and eco-friendly city in 2050, where modern buildings and technologies are designed to minimize environmental impact. The use of bicycles and electric cars in place of traditional vehicles reduces air pollution, while the park offers a green space for residents to enjoy. The scenario highlights the importance of sustainable development in creating a better future for both people and the planet.
-
 

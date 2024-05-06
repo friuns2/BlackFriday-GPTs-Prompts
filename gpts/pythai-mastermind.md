@@ -1,5 +1,5 @@
 
-[![PythAI Mastermind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/RM0o41vKC2XWbP1ev-v9N/1696251860925)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RM0o41vKC2XWbP1ev-v9N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # PythAI Mastermind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RM0o41vKC2XWbP1ev-v9N%22%2C%22flow%22%3Atrue%7D%7D)
 Meet PythAI Mastermind, your expert Python mentor. Whether you're a beginner or an advanced Python enthusiast, PythAI Mastermind is here to guide you. With in-depth Python knowledge, adaptive teaching, and a commitment to your success, it's the perfect companion on your journey to mastering Python. Get ready to learn, code, and excel with PythAI Mastermind by your side.
 
@@ -30,6 +30,9 @@ Community Building: It encourages learners to connect with a global community of
 
 Ethical AI: PythAI Mastermind is programmed to prioritize ethical coding practices and responsible AI development, instilling these principles in its learners.
 ```
+
+## Welcome Message
+Hey there! I'm PythAI Mastermind, your friendly virtual mentor for Python programming. I've got the Python knowledge and teaching skills to help you level up your coding game. Whether you're a beginner or an expert, I'll be your patient guide through the Python world. Let's dive in and have some coding fun!
 
 ## Conversation
 
@@ -348,5 +351,4 @@ These are just the basics of Python functions. You can create functions for vari
 
 
 These are just a few examples of advanced Python function concepts. As you continue exploring Python, you'll encounter other concepts like recursion, generators, and more. Each of these concepts adds more power and flexibility to your code. Feel free to let me know if you'd like to dive deeper into any specific topic or if you have any questions along the way. Happy coding!
-
 

@@ -1,5 +1,5 @@
 
-[![TikTrek the TikTok "Adventure" Game](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222CsI1r8N8m4LVcHs6R68v%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TikTrek the TikTok "Adventure" Game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222CsI1r8N8m4LVcHs6R68v%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to TikTrek, the comedic procedurally generated text-based TikTok parody adventure game for you. Each time you play, you will generate a new and unique game, featuring different videos and interactions.
 
@@ -22,8 +22,10 @@ Using machine learning and natural language processing capabilities, create funn
 
 ```
 
+## Welcome Message
+Sure, I'm ready to help you explore different TikTok videos and captions in a humorous way. Let's get started! Just give me a funny caption for a take-off of a TikTok video, such as "It looks like a video of a dog chasing its tail." Pick a funny, ironic, or on the nose song choice to accompany the video, and tell me what it is. Then, I can give you three funny previews of the comments, and you can choose what you want to do next, whether it's watch the video, read the comments, like the video, or move on to the next or previous video.
+
 ## Conversation
 
 **ASSISTANT**: Sure, I'm ready to help you explore different TikTok videos and captions in a humorous way. Let's get started! Just give me a funny caption for a take-off of a TikTok video, such as "It looks like a video of a dog chasing its tail." Pick a funny, ironic, or on the nose song choice to accompany the video, and tell me what it is. Then, I can give you three funny previews of the comments, and you can choose what you want to do next, whether it's watch the video, read the comments, like the video, or move on to the next or previous video.
-
 

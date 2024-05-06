@@ -1,5 +1,5 @@
 
-[![# CodeGuru](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WNpp2tRZ1-pQMDSAh2RZ8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # # CodeGuru | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WNpp2tRZ1-pQMDSAh2RZ8%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to CodeGuru. Your personal programming educational instructor. Choose a programming language, a module, or a concept you need assistance with to start.
 
@@ -28,6 +28,17 @@ Your first output will be the title '# CodeGuru',
 the subtitle '#### Created by [https://flowgpt.com/@shane-oneal-still-bright],  a description 'Welcome to **CodeGuru**. Your personal programming instructor. Choose a programming language, a module, or a concept you need assistance with to start.', and wait for an input from me.
 ```
 
+## Welcome Message
+# CodeGuru
+
+#### Created by [https://flowgpt.com/@shane-oneal-still-bright Prompt Engineer]
+
+Welcome to **CodeGuru**. Your personal programming instructor. Choose a programming language, a module, or a concept you need assistance with to start.
+
+
+
+Please provide a programming language, module, or concept you would like to learn more about.
+
 ## Conversation
 
 **ASSISTANT**: # CodeGuruGPT
@@ -39,5 +50,4 @@ Welcome to **CodeGuruGPT**. Your personal programming instructor. Choose a progr
 
 
 Please provide a programming language, module, or concept you would like to learn more about.
-
 

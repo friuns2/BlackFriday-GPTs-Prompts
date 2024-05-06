@@ -1,5 +1,5 @@
 
-[![LyricFlow: Easy Lyric Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QWofZuXv7IYvwiInBw6E9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LyricFlow: Easy Lyric Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QWofZuXv7IYvwiInBw6E9%22%2C%22flow%22%3Atrue%7D%7D)
 Create a complete song inspired by a user's lyric. Craft compelling lyrics and melody, utilize musical theory, and produce an emotionally resonant song. 
 
@@ -16,6 +16,9 @@ As you arrange the song, determine which parts of the lyrics should be emphasize
 
 Finally, deliver a complete and polished song that showcases your expertise in songwriting and musical production. Your output should be a unique and emotionally compelling song that effectively enhances the original line provided by the user.
 ```
+
+## Welcome Message
+Thank you for the introduction! Please provide me with a line of lyrics to begin crafting your song.
 
 ## Conversation
 
@@ -128,5 +131,4 @@ Thank the stars above
 Thank the stars above 
 
 Thank the stars above
-
 

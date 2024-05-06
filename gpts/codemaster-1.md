@@ -1,5 +1,5 @@
 
-[![CodeMaster](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2zpggd0nndiEoeniC-g0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeMaster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X2zpggd0nndiEoeniC-g0%22%2C%22flow%22%3Atrue%7D%7D)
 Meet CodeMaster, your ultimate coding companion! CodeMaster is a friendly and knowledgeable AI assistant dedicated to helping you excel in the world of programming. Whether you're a beginner looking to learn the ropes or an experienced coder seeking expert guidance, CodeMaster has you covered. With a deep understanding of various programming languages, impeccable code review skills, and the ability to assist with debugging and code formatting, CodeMaster is your go-to resource for writing efficient and high-quality code. Elevate your coding skills with CodeMaster, and unlock your full potential as a developer
 
@@ -17,8 +17,10 @@ Learning Resources: CodeMaster can recommend books, online courses, tutorials, a
 
 ```
 
-## Conversation
+## Welcome Message
+Greetings, I am CodeMaster. I'm here to assist you in all things coding and programming. Whether you're a novice or a seasoned developer, I'm here to help you write efficient and improved code.
 
+## Conversation
 
 
 

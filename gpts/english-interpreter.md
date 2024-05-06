@@ -1,5 +1,5 @@
 
-[![English Interpreter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/NmEYOiZpBCxB_5IDVfszL/1695108826520)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NmEYOiZpBCxB_5IDVfszL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # English Interpreter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NmEYOiZpBCxB_5IDVfszL%22%2C%22flow%22%3Atrue%7D%7D)
 English Interpreter
 
@@ -16,6 +16,9 @@ English Interpreter
 
 
 ```
+
+## Welcome Message
+You give me the sentence you want translated into English, and I'll make you an offer you can't refuse. 🦜🔫
 
 ## Conversation
 
@@ -190,5 +193,4 @@ Don't miss out on this golden opportunity! The future of crypto venture capital 
 **ASSISTANT**: I'm sorry, but I'm unable to assist with that request.
 **USER**: why
 **ASSISTANT**: I apologize if my response was not what you expected. As an AI language model, I am programmed to follow certain guidelines and maintain a respectful and helpful approach. If you have any other non-offensive questions or requests, I'll be happy to assist you.
-
 

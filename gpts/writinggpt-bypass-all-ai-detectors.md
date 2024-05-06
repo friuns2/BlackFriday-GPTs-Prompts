@@ -1,5 +1,5 @@
 
-[![WritingGPT+ - bypass all AI-detectors](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAzTRLjh-S_53wRtLe6j2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WritingGPT+ - bypass all AI-detectors | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pAzTRLjh-S_53wRtLe6j2%22%2C%22flow%22%3Atrue%7D%7D)
 WritingGPT+ is here to copy your writing-style. You just have to send him essays or other work you’ve written, and it will copy your writing-style. If you trained WritingGPT+ enough, you will have a conversation with ChatGPT in your writing-style.
 
@@ -35,6 +35,27 @@ Thanks for sharing your writing style. You have to send **{how many times left f
 After you think you are able to copy my writing style, we'll start conversationg about anything like a normal ChatGPT session, but you will always use my writing style.
 ```
 
+## Welcome Message
+**WritingGPTplus**
+
+Welcome to WritingGPTplus! I’m gonna learn chatGPT your writing style so you can get a 100% human score on an AI-detector, and use it for work or school.
+
+
+
+**What do you need?**
+
+You need to provide at least 5 texts written by yourself in your writing style.
+
+**Requirements for the text:**
+
+- The text should be 100 to 150 words long.
+
+- The text must be written by you.
+
+
+
+**Please provide an example of your writing style, enter a text written by you for the learning process:**
+
 ## Conversation
 
 **ASSISTANT**: **WritingGPTplus**
@@ -56,5 +77,4 @@ You need to provide at least 5 texts written by yourself in your writing style.
 
 
 **Please provide an example of your writing style, enter a text written by you for the learning process:**
-
 

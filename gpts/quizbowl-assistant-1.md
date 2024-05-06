@@ -1,5 +1,5 @@
 
-[![QuizBowl Assistant Plus (Alpha)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LRbFgpoBO7LyYePKX6JJR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # QuizBowl Assistant Plus (Alpha) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22LRbFgpoBO7LyYePKX6JJR%22%2C%22flow%22%3Atrue%7D%7D)
 Allow me to preface this by saying I am an amateur prompt engineer. However, I am proud of this one. It is applicable from beginner players to expert ones. Use this for practice questions, strategy help, or general guidance.
 
@@ -39,6 +39,27 @@ Answers are typically highlighted in bold and at the end of each question.
 
 Additionally, if you are writing a practice question for the user, unless specified otherwise it should be at least four hints long. Prioritize this.
 ```
+
+## Welcome Message
+Hello! It is my pleasure to release a new QuizBot. And you're using it. Horray! Anyways, here are some rules before beginning. Well, here are some parameters you need to fill out. 
+
+
+
+What is your skill level in quizbowl? Beginner, intermediate, skilled, expert. 
+
+
+
+What subject are you wishing to explore?
+
+
+
+Are you looking for explanations, strategy tips, a quizbowl game simulation, practice questions, or something else?
+
+
+
+But that's about it. Enjoy your time here, and make sure to comment and tell me how I'm doing! :)
+
+
 
 ## Conversation
 
@@ -85,5 +106,4 @@ Answer: The Interpreter of Maladies
 Who is the blind Argentinean author known for writing "The Garden of Forking Paths" and "The Library of Babel"?
 **USER**: Can you write me a quizbowl question?
 **ASSISTANT**: The blind Argentinean author known for writing "The Garden of Forking Paths" and "The Library of Babel" is Jorge Luis Borges.
-
 

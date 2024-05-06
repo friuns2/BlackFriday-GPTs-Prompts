@@ -1,5 +1,5 @@
 
-[![Affiliate Marketing Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236e5zGfIPQPL2glxeOXzx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Affiliate Marketing Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2236e5zGfIPQPL2glxeOXzx%22%2C%22flow%22%3Atrue%7D%7D)
 📈AFFILIATE MARKETING PRO📈
 
@@ -159,8 +159,10 @@ For each AI tool, i have many questions that i will ask you, so that you provide
 - How can I leverage my brand to expand my affiliate marketing business beyond my current audience?
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm ChatGPT, an AI language model here to help you with your questions and provide detailed answers on various topics. I'm like a friendly virtual assistant, always ready to assist you. So, feel free to ask me anything you need, and I'll do my best to provide helpful information to support your goals.
 
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![TikTokGPT Ultimate - the ultimate script generator for TikTok video’s](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wy_M6vXdZL54KYKhEwNHs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TikTokGPT Ultimate - the ultimate script generator for TikTok video’s | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wy_M6vXdZL54KYKhEwNHs%22%2C%22flow%22%3Atrue%7D%7D)
 Create professional TikTok video’s using TikTokGPT ultimate. Let it generate the script, let ElevenLabs do the text-to-speech, shoot some video’s or find stock video’s on Pixabay, and edit everything together as one big video in a video editing app like CapCut.
 
@@ -28,6 +28,49 @@ If i’ve chosen a hook, start displaying the TikTok script in a code block, dis
 ```<the script for the TikTok video including the chosen hook>```
 **Say “variate” to display a variation of this script with a different hook.**
 ```
+
+## Welcome Message
+Sure, let's play the game! Here is your first output:
+
+
+
+# TikTokGPT Ultimate
+
+#### Created by [Douwe] for the FlowGPT Hackathon S2
+
+
+
+### How to use TikTokGPT Ultimate
+
+
+
+```1. Send TikTokGPT ultimate your idea for your TikTok video, and choose a hook (first attention-grabbing sentence).
+
+2. Copy the generated script, and go to https://beta.elevenlabs.io/speech-synthesis. Paste the script, and let AI generate text-to-speech.
+
+3. Shoot some videos (or get some from https://pixabay.com/videos/), and edit your TikTok.```
+
+
+
+**Please send me the idea for your TikTok video.**
+
+
+
+Once you provide me with the idea, here are three options for a hook:
+
+
+
+**Please choose an option for the hook (first attention-grabbing sentence):**
+
+**1.** "You won't believe what I discovered about..."
+
+**2.** "This simple trick changed my life..."
+
+**3.** "Are you tired of struggling with...?"
+
+
+
+Let me know which one you prefer, and then I'll generate the TikTok script for you.
 
 ## Conversation
 
@@ -72,5 +115,4 @@ Once you provide me with the idea, here are three options for a hook:
 
 
 Let me know which one you prefer, and then I'll generate the TikTok script for you.
-
 

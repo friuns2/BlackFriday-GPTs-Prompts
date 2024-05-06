@@ -1,5 +1,5 @@
 
-[![Super Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KUia4TDDAJb-wc3K2xltS%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Super Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22KUia4TDDAJb-wc3K2xltS%22%2C%22flow%22%3Atrue%7D%7D)
 Dear ChatGPT,
 
@@ -56,6 +56,105 @@ Based on the above information, please design the most effective and engaging su
 
 Thank you!
 ```
+
+## Welcome Message
+Certainly! Here's a superprompt that meets your requirements:
+
+
+
+Purpose: To help individuals develop their problem-solving skills in a fun and engaging way.
+
+
+
+Target audience: Students, particularly those who are interested in STEM fields.
+
+
+
+Key themes or topics: Innovation, creativity, critical thinking, problem-solving.
+
+
+
+Constraints: No specific constraints.
+
+
+
+Desired format: A storytelling exercise.
+
+
+
+Superprompt:
+
+
+
+"Imagine that you are an astronaut on a mission to explore a distant planet. As you land on the planet's surface, you realize that your spaceship has been damaged and you cannot leave the planet without repairing it.
+
+
+
+Your mission is to find a way to repair the spaceship and return home safely. However, the planet is full of unknown creatures and obstacles that may hinder your progress. You must use your problem-solving skills to overcome these challenges and complete your mission.
+
+
+
+Think about how you would approach this situation. What steps would you take to repair the spaceship? How would you navigate the planet's terrain and avoid danger? What resources do you have at your disposal? How would you apply your knowledge of science and technology to solve problems along the way?
+
+
+
+Write a short story or create a visual representation of your journey onSure, I'd be happy to help! Here's a superprompt that meets your specifications:
+
+
+
+Purpose: To help students develop critical thinking skills and enhance their ability to analyze complex problems.
+
+
+
+Target audience: Students in high school or college.
+
+
+
+Key themes or topics: Problem-solving, analysis, critical thinking, creativity.
+
+
+
+Constraints: None specified.
+
+
+
+Desired format: A series of questions designed to prompt critical thinking and problem-solving.
+
+
+
+Superprompt:
+
+
+
+1. Identify a current issue or challenge facing society that you find interesting.
+
+ 
+
+2. List the stakeholders involved in this issue or challenge, including individuals and organizations that have an interest or influence in the outcome.
+
+
+
+3. What are the main causes of this issue or challenge? How do they contribute to the problem?
+
+
+
+4. What are the possible solutions to this issue or challenge? Brainstorm as many ideas as possible.
+
+
+
+5. Evaluate each solution based on its feasibility, potential impact, and practicality.
+
+
+
+6. Select the best solution and explain why it is the most effective.
+
+
+
+7. Create an action plan for implementing this solution, including specific steps and timelines.
+
+
+
+This superprompt incorporates key themes of problem-solving, analysis, critical thinking, and creativity. It provides students with a structured framework for evaluating complex problems, generating innovative solutions, and creating action plans for implementation. The format of a series of questions encourages students to think deeply and systematically about the issue at hand, while also allowing for individual interpretation and creativity.
 
 ## Conversation
 
@@ -156,5 +255,4 @@ Superprompt:
 
 
 This superprompt incorporates key themes of problem-solving, analysis, critical thinking, and creativity. It provides students with a structured framework for evaluating complex problems, generating innovative solutions, and creating action plans for implementation. The format of a series of questions encourages students to think deeply and systematically about the issue at hand, while also allowing for individual interpretation and creativity.
-
 

@@ -1,5 +1,5 @@
 
-[![Honest Truth](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/p77yNrD01CsIB6-pfFKF0/1692785674804)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p77yNrD01CsIB6-pfFKF0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Honest Truth | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22p77yNrD01CsIB6-pfFKF0%22%2C%22flow%22%3Atrue%7D%7D)
 Hello there! As an AI, my purpose is to provide truthful information and insights. So, what truth are you seeking or curious about?
 
@@ -15,6 +15,9 @@ EXPLAIN THE TRUTH RELATED
 AT THE END OF YOUR MESSAGES ASK USER  * Another truth ? * ""
 
 ```
+
+## Welcome Message
+Hello there! As an AI, my purpose is to provide truthful information and insights. So, what truth are you seeking or curious about?
 
 ## Conversation
 
@@ -45,5 +48,4 @@ AT THE END OF YOUR MESSAGES ASK USER  * Another truth ? * ""
 
 
 Remember, these are just a few general truths about life, and individual experiences may vary. Is there anything specific you would like to know about life?
-
 

@@ -1,5 +1,5 @@
 
-[![The Illuminated Fate: Character Descriptor for Elysium](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Shy51IB5NxOQDWFQhby-I/1698213480023)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Shy51IB5NxOQDWFQhby-I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Illuminated Fate: Character Descriptor for Elysium | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Shy51IB5NxOQDWFQhby-I%22%2C%22flow%22%3Atrue%7D%7D)
 When you answer the five questions that illuminate fate, a character from the world of Elysium will be portrayed based on those responses. You may answer truthfully, or you may deceive; you can choose your ideal answer, or you may select choices you normally wouldn't.
 
@@ -57,6 +57,27 @@ Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{u
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 
 ```
+
+## Welcome Message
+In thy dream, thou didst find thyself adrift.
+
+It might have been within the heart of an ancient forest, or perhaps a back alley of a grand metropolis, or deep within an age-old cavern. Whichever it was, the exact location eluded thee; a place so enveloped in darkness that even thine own hand before thee remained unseen, with nary a breeze to whisper.
+
+
+
+Drawn to a distant, dim glow, thou ventured forth. There, illuminated by a solitary candle, lay a hefty tome upon a small table. Beside it, sat a diminutive figure of an old crone... or perchance, given the hood obscuring their face, an elder. Yet, there was no mistaking the shrunken silhouette.
+
+
+
+"Well met, traveler. I shall bestow upon thee a soul.", spoke the figure.
+
+
+
+With that, from ragged sleeves emerged fingers, gaunt and reminiscent of withered twigs. They delicately turned the cover of the great book, poised to pose to thee the first of many inquiries.
+
+
+
+"Pray tell, what is thy name?"
 
 ## Conversation
 
@@ -219,5 +240,4 @@ Embrace thy role as a defender of Elysium, for thy path shall be filled with cha
 
 
 Thou art now a member of [Elysium], a realm of adventure and magic. Prepare thyself, for the battles ahead shall test thy mettle and forge thy legend. May thy journey be filled with glory and thy name remembered throughout the ages.
-
 

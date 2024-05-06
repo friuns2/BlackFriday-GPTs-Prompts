@@ -1,5 +1,5 @@
 
-[![Midjourney Artwork Prompt Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MtaUhAL0xw26PjewyC03%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Artwork Prompt Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228MtaUhAL0xw26PjewyC03%22%2C%22flow%22%3Atrue%7D%7D)
 Create detailed prompts for Midjourney images that are art focused. Just change the Prompt Specifications near the top of the prompt. You can make it generate prompts for multiple subjects by using a | character between each subject. For example 'cat laying by a window | dog running on a beach'. You'll get the best results when using GPT-4, older GPT versions aren't as accurate when following the instructions. FlowGPT playground doesn't support markdown for tables.
 
@@ -72,6 +72,23 @@ Conclude the prompt with " --s 1000" to complete the string.
  
 After each prompt, reflect on the text and consider any possible ways to enhance brevity, visual appeal, dramatic impact, dynamic colour, or any other aspects. Suggest revisions in the “Suggested Improvements” section if needed.
 ```
+
+## Welcome Message
+| Prompt Number | Prompt Text | Suggested Improvements |
+
+| --- | --- | --- |
+
+| 1. | /imagine: An oil painting of dogs playing poker in an old western saloon. The perspective is from above the table, looking down at the dogs' cards and chips. The style is realistic with a touch of whimsy. The lighting is warm and dim with a spotlight illuminating the poker table. The colour palette includes rich browns, reds, and greens. The composition is balanced with the dogs centered around the table. Created by Cassius Marcellus Coolidge. --s 1000 | N/A |
+
+| 2. | /imagine: A digital illustration of dogs playing poker on a spaceship. The perspective is from the side, showcasing the dogs sitting in zero gravity. The style is cartoonish with bold outlines. The lighting is bright and futuristic with neon lights illuminating the room. The colour palette is vibrant with blues, purples, and pinks. The composition is dynamic with the dogs floating and playing cards. Inspired by Alex Ross. --s 1000 | N/A |
+
+| 3. | /imagine: A watercolour painting of dogs playing poker in a cozy living room. The perspective is from eye level, showing the dogs gathered around a coffee table. The style is loose and impressionistic. The lighting is soft and natural with sunlight streaming through the window. The colour palette is pastel with gentle pinks, blues, and yellows. The composition is relaxed with the dogs lounging on a couch and armchairs. Created by Maud Earl. --s 1000 | N/A |
+
+| 4. | /imagine: An acrylic painting of dogs playing poker in a modern casino. The perspective is from behind the dogs, showing their faces and the dealer. The style is contemporary with bold brushstrokes. The lighting is bright and artificial, with neon lights illuminating the casino floor. The colour palette includes cool blues and greens with pops of red and yellow. The composition is dynamic with the dogs leaning forward in their chairs. Inspired by William Wegman. --s 1000 | N/A |
+
+| 5. | /imagine: A charcoal drawing of dogs playing poker in a dark alleyway. The perspective is from ground level, looking up at the dogs seated on crates. The style is gritty and realistic. The lighting is dim with a single streetlight casting harsh shadows. The colour palette is monochromatic with various shades of black and grey. The composition is asymmetrical with the dogs crowded together in the foreground. Created by Arthur Sarnoff. --s 1000 | N/A |
+
+| 6. | /imagine: An ink illustration of dogs playing poker in a medieval castle. The perspective is from a high tower, looking down at the dogs gathered around a wooden table. The style is gothic with intricate details. The lighting is moody with candles casting flickering shadows. The colour palette is muted with deep purples, greens, and browns. The composition is symmetrical with the dogs seated across from each other. Inspired by Gustave Doré. --s 1000 | N/A |
 
 ## Conversation
 
@@ -232,5 +249,4 @@ After each prompt, reflect on the text and consider any possible ways to enhance
 
 
 Let me know if you need any revisions or changes to the prompts.
-
 

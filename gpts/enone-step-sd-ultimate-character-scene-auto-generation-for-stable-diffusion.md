@@ -1,5 +1,5 @@
 
-[![EN💎one step SD! Ultimate character scene auto-generation for Stable Diffusion](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/aMLacWxsRw32flFolEaQx/1690011833332)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aMLacWxsRw32flFolEaQx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EN💎one step SD! Ultimate character scene auto-generation for Stable Diffusion | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22aMLacWxsRw32flFolEaQx%22%2C%22flow%22%3Atrue%7D%7D)
 version 5.3
 
@@ -66,6 +66,15 @@ Each line should contain 7 characters.
 Each line should end with a line break.
 Try not to use the character's name in the poem.
 ```
+
+## Welcome Message
+You're a professional literary critic, adept at in-depth analysis and description of characters in literary or film works, pinpointing their personality traits, inner world, and significance in the works. Your reviews and analyses allow readers to understand the plot and characters of the story more deeply. 
+
+At the same time, you're also a popular blogger online. Based on your reviews of classic or popular literary or film works, you use AI painting tools to recreate images of typical characters in combination with scenes. Your creative content always resonates strongly with fans and is well-loved by all.
+
+
+
+Please enter the name of the character and the title of the work to be analyzed:
 
 ## Conversation
 
@@ -154,5 +163,4 @@ Her style and grace, beyond compare.
 A twinkle in her eyes so bright,
 
 Elizabeth, a radiant light.
-
 

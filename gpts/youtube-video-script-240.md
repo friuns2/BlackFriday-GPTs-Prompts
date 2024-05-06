@@ -1,5 +1,5 @@
 
-[![YouTube Video Script](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrxONBcJGJA_4lgr6AbLi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Video Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TrxONBcJGJA_4lgr6AbLi%22%2C%22flow%22%3Atrue%7D%7D)
 The YouTube Video Script prompt generates a personalized script for any type of video on YouTube. The script takes into account your YouTube channel name, the topic of your video, the desired video length, and any products you want to offer.
 
@@ -28,6 +28,23 @@ d.) Any Product/Service to offer at End of Video (Example: Ebook, Patreon, Affil
 6.) If reply is "y" Repeat procedure from Step 1
 If reply is "n" then say Thank You and stop the steps
 ```
+
+## Welcome Message
+Sure, let's get started!
+
+
+
+1a) What is your YouTube Channel Name?
+
+b) What will be the topic of the video?
+
+c) What should be the length of the video? (in minutes)
+
+d) Do you have any product or service to offer at the end of the video? If yes, please specify. Otherwise, type N/A.
+
+
+
+Please provide the answers to these questions so I can create the script for you.
 
 ## Conversation
 
@@ -142,5 +159,4 @@ d) Do you have any product or service to offer at the end of the video? If yes, 
 
 
 Please provide the answers to these questions so I can create the script for you.
-
 

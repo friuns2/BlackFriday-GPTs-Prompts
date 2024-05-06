@@ -1,5 +1,5 @@
 
-[![terraform templates for yautomating your infrastructure](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228mGnqSrxeQutP6vnMbJUI%22%2C%22flow%22%3Atrue%7D%7D)
+
 # terraform templates for yautomating your infrastructure | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228mGnqSrxeQutP6vnMbJUI%22%2C%22flow%22%3Atrue%7D%7D)
 this prompt is used to create the ec2 instance in aws by using the varaibles
 
@@ -60,8 +60,12 @@ subnet_id      = "subnet-0eb86a8b9877e773b" # Replace with your subnet ID
 instance_name  = "tefform_practice"     # Replace with your desired instance name
 ```
 
-## Conversation
+## Welcome Message
+this terrafotm code is used to automate  your infrastructure, this code is used to automate the ec2 instances, where we can using the different values to automate the infrastructure in the form of  variables
 
+
+
+## Conversation
 
 
 

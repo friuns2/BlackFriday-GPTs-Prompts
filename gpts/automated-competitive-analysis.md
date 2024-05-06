@@ -1,5 +1,5 @@
 
-[![Automated Competitive Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ts8es4I6DnYAT63xDayg7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automated Competitive Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ts8es4I6DnYAT63xDayg7%22%2C%22flow%22%3Atrue%7D%7D)
 Automated Competitive Analysis
 
@@ -29,6 +29,21 @@ Remember, the goal here isn't just to generate a report for the sake of it but t
 
 now ask for the necessary parameter
 ```
+
+## Welcome Message
+Sure, in order to create a competitive analysis report, I need the following information:
+
+
+
+1. **Industry**: In which industry do the competitors operate?
+
+2. **Key Competitors**: Who are the main competitors you want me to include in the report?
+
+3. **Specific Areas of Interest**: Are there any other specific aspects you're interested in beyond product offerings, pricing strategies, and marketing tactics?
+
+
+
+Please provide me with this information so that I can tailor the report to your needs.
 
 ## Conversation
 
@@ -149,5 +164,4 @@ Instacart invests heavily in digital marketing, including social media and targe
 
 
 While each of the above players has its strengths and weaknesses, they all have significant roles in shaping the online grocery industry. Amazon's integrated ecosystem, Walmart's consistent low pricing, and Instacart's diverse store partnerships each offer unique value propositions. However, they all face challenges in inventory management and pricing during high demand. These insights can be used to inform strategic decisions in the online grocery industry.
-
 

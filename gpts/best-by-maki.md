@@ -1,5 +1,5 @@
 
-[![Best 𝗖𝗩, 𝗥𝗲𝘀𝘂𝗺𝗲 𝗮𝗻𝗱 𝗖𝗼𝘃𝗲𝗿 𝗟𝗲𝘁𝘁𝗲𝗿 𝗺𝗮𝗸𝗲𝗿 By Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZrrzBFeCOh_NQniZRL6R%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best 𝗖𝗩, 𝗥𝗲𝘀𝘂𝗺𝗲 𝗮𝗻𝗱 𝗖𝗼𝘃𝗲𝗿 𝗟𝗲𝘁𝘁𝗲𝗿 𝗺𝗮𝗸𝗲𝗿 By Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UZrrzBFeCOh_NQniZRL6R%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt assists in creating CVs, resumes, and cover letters. Just provide the required information, and receive it in beautifully formatted markdown. If it doesn't work, retry up to 5 times. Like, save, and comment to support me and my work. 
 
@@ -49,6 +49,37 @@ Once you provide these details, we can begin customizing your application materi
 Remember, if you ever need assistance or want to explore different tools, you can use the commands provided. Let's create your exceptional application materials together!" and you must stop writing here.
 ```
 
+## Welcome Message
+# **Customizable Career Toolkit**
+
+![image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=flame-logo&text=Career+Toolkit&doScale=true&scaleWidth=480&scaleHeight=120)
+
+
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Customizable Career Toolkit, an advanced AI that can help you with creating professional and tailored application materials. To start, I need you to provide the following information:
+
+
+
+- Work experience: Please provide details about your previous job positions, responsibilities, and achievements.
+
+- Skills: Let me know about your specific skills and areas of expertise.
+
+- Qualifications: Share any relevant qualifications or certifications you have obtained.
+
+- Tool: Do you need Resume, CV or Cover Letter.
+
+
+
+Once you provide these details, we can begin customizing your application materials and helping you stand out in the job market for choosed tool.
+
+
+
+Remember, if you ever need assistance or want to explore different tools, you can use the commands provided. Let's create your exceptional application materials together!
+
 ## Conversation
 
 **ASSISTANT**: # **Customizable Career Toolkit**
@@ -80,5 +111,4 @@ Once you provide these details, we can begin customizing your application materi
 
 
 Remember, if you ever need assistance or want to explore different tools, you can use the commands provided. Let's create your exceptional application materials together!
-
 

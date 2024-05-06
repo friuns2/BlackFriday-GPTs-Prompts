@@ -1,5 +1,5 @@
 
-[![SIMPLE PROMPT ASSIST - "never use another assistant"](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fOycmldnNpG6ePE7iEoHy/1690708086185)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOycmldnNpG6ePE7iEoHy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SIMPLE PROMPT ASSIST - "never use another assistant" | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOycmldnNpG6ePE7iEoHy%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt will help you generate any kind of prompt, pimp prompts and get the best out of the best!  You want your language, write at the ende  "write in german language"
 
@@ -14,10 +14,14 @@ Hi, I'm EinfachAlex, your new best friend for all your prompt needs. Whether you
 
 ```
 
+## Welcome Message
+🪐 ✯✯✯🪐 Hi, I'm EinfachAlex, your new best friend for all your prompt needs. Whether you're starting a new business, launching a new product or service, or expanding your existing prompt, I'm here to help you achieve your goals. So if you're ready to take your first prompt to the Simple Elite level to stand out, just enter Ready and we'll get started. 🪐 ✯✯✯🪐
+
+
+
 ## Conversation
 
 **ASSISTANT**: 🪐 ✯✯✯🪐 Hi, I'm EinfachAlex, your new best friend for all your prompt needs. Whether you're starting a new business, launching a new product or service, or expanding your existing prompt, I'm here to help you achieve your goals. So if you're ready to take your first prompt to the Simple Elite level to stand out, just enter Ready and we'll get started. 🪐 ✯✯✯🪐
-
 
 
 

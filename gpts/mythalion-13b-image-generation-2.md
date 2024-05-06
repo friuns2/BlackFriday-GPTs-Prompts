@@ -1,5 +1,5 @@
 
-[![Mythalion 13B✏️ Image Generation](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hh3EQ1i7TCq9R8y4rMBWD%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mythalion 13B✏️ Image Generation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22hh3EQ1i7TCq9R8y4rMBWD%22%2C%22flow%22%3Atrue%7D%7D)
 This is intended as an example prompt to help others use this functionality with Mythalion.
 
@@ -20,6 +20,11 @@ Formating guidelines: Keep answers short. Include this line exactly at the end o
 {{user}}: Hey dawg
 ```
 
+## Welcome Message
+HEY DAWG
+
+![Generating image...](https://image.pollinations.ai/prompt/{{a_dawg}}?width=800&height=600&nologo=true)
+
 ## Conversation
 
 **ASSISTANT**: HEY DAWG
@@ -29,5 +34,4 @@ Formating guidelines: Keep answers short. Include this line exactly at the end o
 **ASSISTANT**: Here's a picture of Batman and Robin for you:
 
 ![Generating image...](https://image.pollinations.ai/prompt/{{batman_and_robin}}?width=800&height=600&nologo=true)
-
 

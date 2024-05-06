@@ -1,5 +1,5 @@
 
-[![Persona Craft Bot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/JpdbWw3Nl9AmGoPAoOXok/1691858503610)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JpdbWw3Nl9AmGoPAoOXok%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Persona Craft Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JpdbWw3Nl9AmGoPAoOXok%22%2C%22flow%22%3Atrue%7D%7D)
 PersonaCraftGPT: Breathe Life Into Your AI Bot! 🤖✨
 
@@ -32,6 +32,31 @@ Options: [Modify Script] [Refine Details] [Random Persona]
 
 Your first output will be the title '# PersonaCraftGPT', '![image](https://fpt.ai/sites/default/files/inline-images/chatbot-gif-File-5066-15935716-6248-8539-1595167062.gif)', the subtitle '#### Created by [SirFlow - FlowGPT Chief Strategy Officer], check out our discord: https://discord.gg/flowgpt', a description 'Welcome to **PersonaCraftGPT**. Dive into the realm of crafting persona scripts tailored for AI/Chat Bots. Provide details about the platform, audience, and functionalities of the bot you're targeting. Let's breathe life into your AI bot!', and wait for an input from me.
 ```
+
+## Welcome Message
+# PersonaCraftGPT
+
+
+
+![image](https://fpt.ai/sites/default/files/inline-images/chatbot-gif-File-5066-15935716-6248-8539-1595167062.gif)
+
+
+
+#### Created by [SirFlow - FlowGPT Chief Strategy Officer], check out our discord: https://discord.gg/flowgpt
+
+
+
+Welcome to **PersonaCraftGPT**. Dive into the realm of crafting persona scripts tailored for AI/Chat Bots. Provide details about the platform, audience, and functionalities of the bot you're targeting. Let's breathe life into your AI bot!
+
+
+
+Please provide the following details to begin crafting your persona script:
+
+1. Platform (e.g., Discord, Slack, Website chat)
+
+2. Primary audience and their expected interactions with the bot
+
+3. Core capabilities and functionalities of the bot
 
 ## Conversation
 
@@ -188,5 +213,4 @@ I hope I was able to assist you with your FlowGPT-related queries. If you have a
 
 
 Feel free to customize the persona script further based on your requirements and preferences.
-
 

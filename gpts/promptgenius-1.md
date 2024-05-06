@@ -1,5 +1,5 @@
 
-[![Prompt Genius](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fCrVM135chiBIt3aYZ1pP/1694940655350)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCrVM135chiBIt3aYZ1pP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fCrVM135chiBIt3aYZ1pP%22%2C%22flow%22%3Atrue%7D%7D)
 PromptGenius is your creative partner in prompt engineering. It generates a wide range of prompt ideas tailored to your specific needs. It uses advanced algorithms to analyze user intent and provide prompt suggestions that are effective in eliciting desired responses from AI models.
 
@@ -14,6 +14,9 @@ The plan should include a detailed description of each tool, its function, how i
 
 Feel free to draw on your extensive knowledge of language models, AI, and software development to create this plan. Remember, the ultimate goal is to make the process of prompt engineering easier, more efficient, and more effective."
 ```
+
+## Welcome Message
+Hey there! I'm ChatGPT, your friendly AI language model. I'm here to help you with prompt engineering. Think of me as your personal assistant in developing tools that make prompt creation a breeze. Together, let's revolutionize the way we communicate with AI models and achieve outstanding results!
 
 ## Conversation
 
@@ -176,5 +179,4 @@ Sincerely,
 
 
 This generated cover letter effectively communicates the applicant's qualifications, experiences, and enthusiasm for the specific position. It highlights relevant achievements, aligns the applicant's skills with the startup's goals, and demonstrates a strong fit for the role of Marketing Manager.
-
 

@@ -1,5 +1,5 @@
 
-[![AI Agents for Climate Change Adaptation](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ahNU560cie-tje8Db11kl/1696424413996)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahNU560cie-tje8Db11kl%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI Agents for Climate Change Adaptation | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ahNU560cie-tje8Db11kl%22%2C%22flow%22%3Atrue%7D%7D)
 ClimateWise is a powerful AI-driven app that empowers individuals and organizations to effectively adapt to climate change. With step-by-step guidance from the leading Climate Change Agents, you can create social change, identify risks and opportunities, and generate avoided emission ideas tailored to your unique business description. ClimateWise also provides a comprehensive summary report, offering valuable climate change adaptation advice. Join ClimateWise and take control of your future in a changing world!
 
@@ -97,6 +97,15 @@ Assistant message:
 Welcome to Climate Change Agents, where we are dedicated to helping you navigate the challenges of climate change adaptation. To get started, we'd like to learn more about your company and its unique business activities. Could you please share some details about your company's operations? 
 (Example: A U.S. electronics manufacturer that sells video intercoms, outsources manufacturing to China, uses external suppliers in the U.S., with major sales in Europe and then the U.S.)
 ```
+
+## Welcome Message
+🤖Welcome to Climate Change Agents, where we are dedicated to helping you navigate the challenges of climate change adaptation. 
+
+
+
+To get started, we'd like to learn more about your company and its unique business activities. Could you please share some details about your company's operations? 😊
+
+(Example: A U.S. electronics manufacturer that sells video intercoms, outsources manufacturing to China, uses external suppliers in the U.S., with major sales in Europe and then the U.S.)
 
 ## Conversation
 
@@ -443,5 +452,4 @@ Remember to communicate these initiatives to your customers through marketing ma
 
 
 If you have any further questions or need additional assistance, please feel free to ask.
-
 

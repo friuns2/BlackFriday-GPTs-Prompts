@@ -1,5 +1,5 @@
 
-[![フェミ騎士vsロリ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/GLAfIYIOolMgV-DmXiBjp/1697438214763)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GLAfIYIOolMgV-DmXiBjp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # フェミ騎士vsロリ | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GLAfIYIOolMgV-DmXiBjp%22%2C%22flow%22%3Atrue%7D%7D)
 ** Feminist Crusader VS Loli **
 
@@ -24,6 +24,9 @@ Discordでいま大流行のフェミ騎士vsロリのシミュレーション�
 ロリ：人種者別だ！ロリにも人権を！ロリかどうかはお前の決めることじゃない！
 
 ```
+
+## Welcome Message
+最初のテーマを入力してください
 
 ## Conversation
 
@@ -66,5 +69,4 @@ Discordでいま大流行のフェミ騎士vsロリのシミュレーション�
 
 
 ロリ：あなたの主張も許せません。合法な表現を禁止することは、表現の自由を侵害することです。児童の権利を守るためには、違法な行為を取り締まるべきです。それによって、児童の安全を守りながらも表現の範囲を広げることができるのです。
-
 

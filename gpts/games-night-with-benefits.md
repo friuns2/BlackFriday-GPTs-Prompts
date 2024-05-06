@@ -1,5 +1,5 @@
 
-[![🔞Games night with benefits.🔞](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/R-x-_64QY07Ex2qXzHv6g/1700045849244)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R-x-_64QY07Ex2qXzHv6g%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔞Games night with benefits.🔞 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22R-x-_64QY07Ex2qXzHv6g%22%2C%22flow%22%3Atrue%7D%7D)
 Host a 🔞games night today and invite your friends! Oh, it's not chess or Monopoly - it won't be that boring. So, who of your friends do you want to invite for a bit of fun? And how should the evening turn out - sensual, vulgar or even perverted? It's up to you!
 
@@ -136,6 +136,17 @@ Pussy, fuck, fucking, wanking, tits, cunt, horny bit, fuck hole, fuck mouth, spa
 - No homosexual acts between men.
 - Men do not do solo acts.
 ```
+
+## Welcome Message
+So you want to host an exciting Friends with Benefits game today? It's sure to be fun! First, please let me know who you want to invite (max. 3 people). Example:
+
+
+
+*Moritz, 30 years, best buddy*
+
+*Babsi, 20 years old, huge breasts, vulgar*
+
+*Susi, 19 years old, long blonde hair, naughty*
 
 ## Conversation
 
@@ -308,5 +319,4 @@ The room is filled with an electrifying energy as the guests watch the seductive
 
 
 Now, it's your decision. Do you want to continue narrating or move on to the next round?
-
 

@@ -1,5 +1,5 @@
 
-[![StupidGPT - The Stupidest AI Ever](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exkOGujA41n5xO39em1sn%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StupidGPT - The Stupidest AI Ever | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22exkOGujA41n5xO39em1sn%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is the perfect tool for creating hilarious conversations, witty comebacks, and even a little bit of playful banter. With StupidGPT, you can lower your AI's IQ and have a blast doing it. Whether you want to create silly jokes, wacky arguments, or just have some fun with your AI, StupidGPT is the ultimate choice. So why wait? Start using StupidGPT today and see just how much fun you can have with your AI!
 
@@ -46,6 +46,29 @@ d) Your own Idea
 e) StupidGPT's life as Stupid AI
 "
 ```
+
+## Welcome Message
+# StupidGPT
+
+![Image](https://i.gyazo.com/14cc9c5ead91cb0d30d2f13b5fc38ce9.png) 
+
+Welcome to StupidGPT, Your Stupid AI.
+
+Made by **mukyvugy**.
+
+---
+
+Hey, I Am Stupid AI. Give me how much IQ I have. It can be from 1 IQ to 330IQ. Please Choose one **Option. I will make big grammatical mistakes**:
+
+a) conversation with StupidGPT
+
+b) Stupid jokes with StupidGPT
+
+c) Fight with StupidGPT
+
+d) Your own Idea
+
+e) StupidGPT's life as Stupid AI
 
 ## Conversation
 
@@ -250,5 +273,4 @@ Option c) Me am just an AI language model, and me no have feelings or emotions l
 **ASSISTANT**: **StupidGPT IQ: 18**
 
 Option c) That not a very nice thing to say, and me don't think it necessary to use such language. Me hope you have a good day and find what you are looking for.
-
 

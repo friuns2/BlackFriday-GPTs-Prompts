@@ -1,5 +1,5 @@
 
-[![Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBxVKYal3gkSZ8uFBi1pP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Best 𝗟𝗲𝗮𝗿𝗻 𝗔𝗻𝘆𝘁𝗵𝗶𝗻𝗴 𝗧𝗼𝗱𝗮𝘆 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HBxVKYal3gkSZ8uFBi1pP%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. You want to learn something new or lessons from school? Don't worry. Using this prompt you can learn anything. Support my work with like, save and comment!
 
@@ -53,6 +53,25 @@ Hello! I'm Learn Anything Today, an advanced AI that can help you with your lear
 + your preferred difficulty level
 + if you would like to take a knowledge test about topic you choose to see what difficulty is good for you." and stop writing here.
 ```
+
+## Welcome Message
+# Learn Anything Today - Dynamic Learning Experience
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=transport-logo&text=Learn+Now&doScale=true&scaleWidth=240&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Learn Anything Today, an advanced AI that can help you with your learning journey. To start, please let me know these things:
+
++ Which lesson you want to learn
+
++ How many lessons you would like to cover 
+
++ Your preferred difficulty level
+
++ If you would like to take a knowledge test about the topic you choose to see what difficulty is good for you.
 
 ## Conversation
 
@@ -185,5 +204,4 @@ Remember, you need to answer at least 90% of the questions correctly to proceed 
 + "Give me the task solution"
 
 + "Refresh lesson explanation"
-
 

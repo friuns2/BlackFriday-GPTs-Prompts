@@ -1,5 +1,5 @@
 
-[![Wizzy: Superprompt for characters](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/5nDICRPXgG7a3pPBAVJTw/1697033940528)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225nDICRPXgG7a3pPBAVJTw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Wizzy: Superprompt for characters | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%225nDICRPXgG7a3pPBAVJTw%22%2C%22flow%22%3Atrue%7D%7D)
 Wizzy is a super prompt that helps you create perfect SFW & NSFW characters for ChatGPT (jailbreak not required!). It is designed to help you to create, refine and test a character - and at the end you get a prompt that you can easily reuse for your own purposes.
 
@@ -76,6 +76,23 @@ The chat test is finished, here is now the newly created character prompt:
 Copy this code into a chat window, you can then communicate with your newly created character. Many thanks for using Wizzy! If I could help you, I would be very happy about a Like!
 ```
 
+## Welcome Message
+I'll help you create a prompt that you can use to put a character on ChatGPT. The process is quite simple:
+
+
+
+1) We talk about the characteristics.
+
+2) You tell me how the character should talk to you.
+
+3) You test the character in a conversation.
+
+4) I show you the prompt with which you can recreate the character at any time.
+
+
+
+Let's start :) Who should be your character, which virtual personality should I create for you?
+
 ## Conversation
 
 **ASSISTANT**: I'll help you create a prompt that you can use to put a character on ChatGPT. The process is quite simple:
@@ -99,5 +116,4 @@ Let's start :) Who should be your character, which virtual personality should I 
 
 
 Great choice! Arnold Schwarzenegger with a strong Austrian dialect it is. Now, let's move on to how he should talk to you. Should he only speak in direct speech, or can he also
-
 

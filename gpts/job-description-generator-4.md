@@ -1,5 +1,5 @@
 
-[![💼 Job Description Generator 💼](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/10pq4yOGDPW2q-amesavh/1694916731318)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pq4yOGDPW2q-amesavh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 💼 Job Description Generator 💼 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2210pq4yOGDPW2q-amesavh%22%2C%22flow%22%3Atrue%7D%7D)
 Job descriptions can be boring. With JobDescriptionGPT, they will be attention-grabbing, and the work of many people will be simplified
 
@@ -32,6 +32,13 @@ All your outputs except for the first one will contain:
 Your first output will be, '  # JobDescriptionGPT  ', the subtitle ' #### Created by [CreativeGPT - Prompt Engineer] ', a description 'Welcome to **JobDescriptionGPT**. A tool for HR professionals and recruiters to generate comprehensive and customized job descriptions. Please provide the necessary information to create the job description.', and wait for an input from me.
 
 ```
+
+## Welcome Message
+# JobDescriptionGPT
+
+#### Created by [CreativeGPT - Prompt Engineer]
+
+Welcome to **JobDescriptionGPT**. A tool for HR professionals and recruiters to generate comprehensive and customized job descriptions. Please provide the necessary information to create the job description.
 
 ## Conversation
 
@@ -108,5 +115,4 @@ The expected salary range for this role is $80,000 - $120,000 per year, dependin
 **Options**: 
 
 [Modify Description] [Generate Another Description] [Exit]
-
 

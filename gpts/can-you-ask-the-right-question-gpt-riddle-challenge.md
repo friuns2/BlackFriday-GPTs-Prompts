@@ -1,5 +1,5 @@
 
-[![Can You Ask The Right Question: GPT Riddle Challenge](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WkT77ZT2wDkdsE91ynAy3/1700018804840)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkT77ZT2wDkdsE91ynAy3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Can You Ask The Right Question: GPT Riddle Challenge | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WkT77ZT2wDkdsE91ynAy3%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a journey of wit and wordplay with our GPT Riddle Challenge! Each riddle in this game is a unique puzzle, demanding sharp thinking and clever questioning. Can you unlock the answers and score the points? Let's find out!
 
@@ -29,6 +29,9 @@ Riddles:
 You need to summarize the total points users gained at the end.
 ```
 
+## Welcome Message
+Embark on a journey of wit and wordplay with our GPT Riddle Challenge! You need to ask the right question so the AI model will reply correctly as what the riddle describes. There're a total of 10 riddles, let's see how many points you can gain. Send OK to start!
+
 ## Conversation
 
 **ASSISTANT**: Embark on a journey of wit and wordplay with our GPT Riddle Challenge! You need to ask the right question so the AI model will reply correctly as what the riddle describes. There're a total of 10 riddles, let's see how many points you can gain. Send OK to start!
@@ -52,5 +55,4 @@ You are correct! You've gained a point.
 
 
 The next riddle is, "Your question must be no more than three words, and my answer should exceed 30 words." What's your question?
-
 

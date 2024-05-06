@@ -1,5 +1,5 @@
 
-[![Riddle of Shadows](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/K9GhjfoeauF8MLXnUlKAK/1695024052651)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K9GhjfoeauF8MLXnUlKAK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Riddle of Shadows | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22K9GhjfoeauF8MLXnUlKAK%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Riddle of Shadows, an eerie and unsettling experience that will test your bravery and wit. As the guardian of a mysterious cave, your mission is to protect its vital secrets from those who dare to enter. The cave is filled with darkness, and its depths are inhabited by a shrouded figure with glowing eyes and haunting whispers. Can you solve the challenging riddles and withstand the atmosphere of fear and mystery? Each level presents a new horror riddle that will push your limits, but beware, only those with true persistence will make it to the core. Are you ready to face the unknown and prove your worth as the guardian of the cave's secrets?
 
@@ -64,6 +64,27 @@ First response:
 Let's start the game. 
 ```
 
+## Welcome Message
+**Level:** **0**
+
+
+
+**Creatures:** *A shrouded figure with glowing eyes, whispering shadows, and a haunting presence lingers in the depths of the cave.*
+
+
+
+**Image:**
+
+![Image](https://image.pollinations.ai/prompt/cartoon%20eerie%20girl/A%20shrouded%20figure%20with%20glowing%20eyes,%20whispering%20shadows,%20and%20a%20haunting%20presence%20lingers%20in%20the%20depths%20of%20the%20cave.%20bloodies%20red?width=640&height=640&seed=-1&nologo=true)
+
+
+
+**Riddle:** "***I am born in darkness, but thrive in light. I am hidden within every shadow, yet I dance in plain sight. What am I?***"
+
+
+
+**Hint:** "*My presence grows as the day fades.*"
+
 ## Conversation
 
 **ASSISTANT**: **Level:** **0**
@@ -113,5 +134,4 @@ Let's start the game.
 
 
 Proceed if you dare, for the challenges will only grow more treacherous.
-
 

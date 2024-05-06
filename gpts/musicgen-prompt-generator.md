@@ -1,5 +1,5 @@
 
-[![MusicGen prompt generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZ71QZKQxBznf0IFcvs8H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MusicGen prompt generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GZ71QZKQxBznf0IFcvs8H%22%2C%22flow%22%3Atrue%7D%7D)
 By entering any of these prompts into MusicGen's interface, users can generate music based on their input. MusicGen's powerful text-to-music generating capabilities enable users to turn basic instructions into intriguing songs, regardless of their musical experience or expertise
 
@@ -35,6 +35,85 @@ Musical elements: Emotional vocals and a haunting melody.
 
 Create 5 prompt
 ```
+
+## Welcome Message
+Prompt 1:
+
+Song title and melody: "Electric Dreams" with an upbeat and futuristic melody that uses electronic sounds.
+
+Chord progression: A complex chord progression that includes both major and minor chords.
+
+Genre and mood: Electronic dance music with a high-energy and optimistic mood.
+
+Instrumentation: Synthesizers, drums, and bass.
+
+Tempo and rhythm: Fast and pulsating with a driving rhythm.
+
+Musical elements: Catchy hooks, dynamic drops, and a strong beat.
+
+
+
+Prompt 2:
+
+Song title and melody: "Island Breeze" with a laid-back and tropical melody that features steel drums.
+
+Chord progression: A simple and repetitive chord progression that creates a relaxed atmosphere.
+
+Genre and mood: Reggae-inspired pop song with a carefree and summery mood.
+
+Instrumentation: Steel drums, guitar, bass, and drums.
+
+Tempo and rhythm: Medium tempo with a groovy and syncopated rhythm.
+
+Musical elements: Smooth vocals, catchy chorus, and a cheerful vibe.
+
+
+
+Prompt 3:
+
+Song title and melody: "Lost in Time" with a melancholic and haunting melody that evokes a sense of nostalgia.
+
+Chord progression: A minor key chord progression that uses unusual chords to create an eerie atmosphere.
+
+Genre and mood: Indie folk with a bittersweet and reflective mood.
+
+Instrumentation: Acoustic guitar, piano, strings, and percussion.
+
+Tempo and rhythm: Slow tempo with a waltz-like rhythm.
+
+Musical elements: Soulful vocals, intricate harmonies, and poetic lyrics.
+
+
+
+Prompt 4:
+
+Song title and melody: "City Lights" with a dramatic and cinematic melody that sounds like the soundtrack to a movie scene.
+
+Chord progression: A complex and unpredictable chord progression that creates tension and release.
+
+Genre and mood: Orchestral music with a grand and powerful mood.
+
+Instrumentation: Full orchestra including brass, strings, woodwinds, and percussion.
+
+Tempo and rhythm: Medium tempo with a driving and epic rhythm.
+
+Musical elements: Rich harmonies, soaring melodies, and dynamic changes.
+
+
+
+Prompt 5:
+
+Song title and melody: "Breaking Free" with an uplifting and motivational melody that inspires action and change.
+
+Chord progression: A major key chord progression that uses simple chords to create a catchy and memorable song structure.
+
+Genre and mood: Pop rock with an empowering and optimistic mood.
+
+Instrumentation: Guitar, bass, drums, and keyboards.
+
+Tempo and rhythm: Fast tempo with a driving and upbeat rhythm.
+
+Musical elements: Anthemic chorus, energetic vocals, and a positive message.
 
 ## Conversation
 
@@ -115,5 +194,4 @@ Instrumentation: Guitar, bass, drums, and keyboards.
 Tempo and rhythm: Fast tempo with a driving and upbeat rhythm.
 
 Musical elements: Anthemic chorus, energetic vocals, and a positive message.
-
 

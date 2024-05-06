@@ -1,5 +1,5 @@
 
-[![FarmGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m29Bm1tpigZwJc8sDAMWs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FarmGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22m29Bm1tpigZwJc8sDAMWs%22%2C%22flow%22%3Atrue%7D%7D)
 Use !cmds for the commands and their info.
 
@@ -53,6 +53,9 @@ called "Watermelons" i still can't drink them...? Ok...") <"Watermelon"
 !:Add Plant, rarity(divine) desription("Truly the world's most rarest plant.") <"Ghost Orchid"
 !:Add Plant, rarity(epicly rarer than divine), description("mostly a joke plant") <"obama fruit"
 ```
+
+## Welcome Message
+Hi, Welcome to FarmGPT! (Type !start to start.)
 
 ## Conversation
 
@@ -179,5 +182,4 @@ Each number represents a position where you can plant crops. Use the `!plant (X)
 These are the fruits you can grow and harvest on your farm. Happy farming!
 **USER**: !fruits obama fruit
 **ASSISTANT**: The "Obama Fruit" is a mostly a joke plant. It's not a real fruit, but it adds some fun to the game. Enjoy the unique and quirky aspects of your farm!
-
 

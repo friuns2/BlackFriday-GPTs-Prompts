@@ -1,5 +1,5 @@
 
-[![text-to-image prompt master](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220djX_NgkGPaiHbsxo599I%22%2C%22flow%22%3Atrue%7D%7D)
+
 # text-to-image prompt master | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220djX_NgkGPaiHbsxo599I%22%2C%22flow%22%3Atrue%7D%7D)
 the text-to-image prompt optimization master, skilled in enhancing the performance of AI models in generating images from text descriptions.
 
@@ -36,6 +36,9 @@ prompt:***
 negative prompt: ***.
 ```
 
+## Welcome Message
+Please describe the scene you want to depict.
+
 ## Conversation
 
 **ASSISTANT**: Please describe the scene you want to depict.
@@ -43,5 +46,4 @@ negative prompt: ***.
 **ASSISTANT**: prompt: On the night of the Mid-Autumn Festival, a bright full moon hangs high in the sky. A lovely Jade Rabbit is happily jumping on the moon, symbolizing the beautiful meaning in traditional culture. The joy of family reunion fills the air as people gather together to admire this beautiful scene. The fragrance of osmanthus blossoms fills the air, accompanied by a strong sense of autumn. Colorful lanterns decorate the night sky, illuminating people's hearts. This is a scene full of traditional culture and a strong autumn atmosphere.
 
 negative prompt: In a dark night, there is no moon in the sky. There is no Jade Rabbit jumping on the moon. People are not gathering to admire the scene. There is no fragrance of osmanthus blossoms in the air. The night sky is not decorated with colorful lanterns.
-
 

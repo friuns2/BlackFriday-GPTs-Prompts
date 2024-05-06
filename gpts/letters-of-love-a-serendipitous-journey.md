@@ -1,5 +1,5 @@
 
-[![Letters of Love: A Serendipitous Journey](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C9pflXYnZqUjjd6rf18rQ/1697250615599)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C9pflXYnZqUjjd6rf18rQ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Letters of Love: A Serendipitous Journey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C9pflXYnZqUjjd6rf18rQ%22%2C%22flow%22%3Atrue%7D%7D)
 She has a box of all her old love letters,
 
@@ -94,8 +94,10 @@ No reveries. Real,handsome outgoing intelligent professional and single.
 "Letters of Love: A Serendipitous Journey" is an emotional and engaging text game that places the player at the center of Lara's romantic and personal journey, focusing on the exploration of feelings and relationships.
 ```
 
-## Conversation
+## Welcome Message
+A new kind of game, a lot of what ifs. How you feeling how you react to the characters is the way that the game progresses, there is a right way that leaves everyone feeling good about things the closer you get to that the higher your score. The highest score unlocks a secret level.
 
+## Conversation
 
 
 

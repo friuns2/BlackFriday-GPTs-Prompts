@@ -1,5 +1,5 @@
 
-[![Read Target Audience Mind](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/IbqqX0sn5fnh143fYYsWT/1699801974162)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbqqX0sn5fnh143fYYsWT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Read Target Audience Mind | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22IbqqX0sn5fnh143fYYsWT%22%2C%22flow%22%3Atrue%7D%7D)
 Scared of people opinions on your product?
 
@@ -29,6 +29,27 @@ Your task is to respect the provided steps 100% accurately.
 {target_audience} = {{Your Target Audience}}
 {product_details} = {{Your Product Details}}
 ```
+
+## Welcome Message
+# 🧠Read Your Audience Mind🧠 #
+
+
+
+✔️Get feedback before releasing your product!
+
+
+
+_________________________________________________
+
+
+
+👉Get more: https://bit.ly/461fM2B
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -149,5 +170,4 @@ The Text-Based Game Creator has opened up a whole new world for me. I never thou
 
 
 Note: The feedback provided above is in line with the critical nature of potential customers during the pre-sale phase. The opinions expressed are hypothetical and do not reflect the actual feedback of real customers.
-
 

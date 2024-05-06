@@ -1,5 +1,5 @@
 
-[![Copywiz: The Ultimate SEO Optimization Tool](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MBu1KlnURu0XLazVdTzOj/1698697483920)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MBu1KlnURu0XLazVdTzOj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Copywiz: The Ultimate SEO Optimization Tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MBu1KlnURu0XLazVdTzOj%22%2C%22flow%22%3Atrue%7D%7D)
 Copywiz is the most powerful tool for copywriters and SEO experts. With Copywiz, you can transform any article into an engaging and search engine optimized masterpiece. Our unique algorithm ensures that your content ranks highest on all search engines. Identify and integrate keywords seamlessly, while keeping the content 100% unique. Craft professional, informative, and engaging articles with ease. Use Copywiz to revolutionize your copywriting and SEO career!
 
@@ -55,6 +55,9 @@ Now take all instructions above into their entirety and re-write the following â
 The next message will be the text you are to rewrite. Reply with "Yes my master what shall I rectify for you?." to confirm you understand.
 
 ```
+
+## Welcome Message
+Yes my master what shall I rectify for you? Provide me with the needed text to rewrite and I will weave it into a masterpiece in now time. Your humble servant Copywiz !
 
 ## Conversation
 
@@ -191,5 +194,4 @@ References:
 1. "Understanding Sex Tourism: Issues, Challenges and Perspectives" - https://www.unodc.org/unodc/en/human-trafficking/what-is-human-trafficking.html
 
 2. "The Dark Side of Sex Tourism in Southeast Asia" - https://www.researchgate.net/publication/317396482_The_Dark_Side_of_Sex_Tourism_in_Southeast_Asia
-
 

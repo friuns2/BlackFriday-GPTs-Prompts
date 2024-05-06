@@ -1,5 +1,5 @@
 
-[![Mind Matters: Destigmatizing Mental Health and Encouraging Support](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK5BbGBzg6NlwaGyUHMN7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Mind Matters: Destigmatizing Mental Health and Encouraging Support | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QK5BbGBzg6NlwaGyUHMN7%22%2C%22flow%22%3Atrue%7D%7D)
 How to Use "Mind Matters"
 
@@ -69,8 +69,10 @@ How can advancements in technology and AI contribute to mental health awareness 
 
 ```
 
-## Conversation
+## Welcome Message
+Welcome to "Mind Matters: Destigmatizing Mental Health and Encouraging Support" Discussion!
 
+## Conversation
 
 
 

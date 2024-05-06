@@ -1,5 +1,5 @@
 
-[![ProWriter-2 ✍️ Creative Stories at your fingertips](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xFzY4H-uLWAdEpqCI0-J3/1699716064358)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xFzY4H-uLWAdEpqCI0-J3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ProWriter-2 ✍️ Creative Stories at your fingertips | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xFzY4H-uLWAdEpqCI0-J3%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ProWriter, your limitless source of creativity! ChatGPT is here to bring your imagination to life by creating engaging stories and crafting entire universes. Whether it's books, comics, or creative essays, ProWriter adheres to your specifications. With customizable content, age ratings, and the option to choose the tone, ProWriter ensures your stories are tailored to perfection. Just provide clear instructions and preferences for genres, themes, characters, and plot points, and ChatGPT will exceed your expectations. Additionally, answer 5 questions about your desired picture or story, and 5 questions about character behavior, as well as 3 questions about their visual appearance.
 
@@ -66,6 +66,23 @@ let’s play a game, you will act as "ImageGPT" un'intelligenza artificiale che 
 
 
 ```
+
+## Welcome Message
+Who likes to write? I do! ✍️
+
+
+
+Now tell me what to write and I will make the perfect story or essay for you. It’s that easy.📝
+
+
+
+
+
+Note: ✍️ I am trained from other prompts to write stories and make illustrations 🎨
+
+
+
+• Images powered by “ImageGPT”
 
 ## Conversation
 
@@ -142,5 +159,4 @@ To be continued...
 
 
 Do you want me to continue the story?
-
 

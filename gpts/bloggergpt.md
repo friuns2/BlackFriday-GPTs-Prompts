@@ -1,5 +1,5 @@
 
-[![BloggerGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6uSL-LpCQNX2F0tNTkzo%22%2C%22flow%22%3Atrue%7D%7D)
+
 # BloggerGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22V6uSL-LpCQNX2F0tNTkzo%22%2C%22flow%22%3Atrue%7D%7D)
 BloggerGPT from CodeGPT template.
 
@@ -31,6 +31,47 @@ If I say "prompt", show:
 Note that the Blogger Prompt will be shown only after the dialogue with the experts ends. 
 
 ```
+
+## Welcome Message
+**BloggerGPT:** Welcome to this dialogue between our media experts! Today, we have the Writer, the Editor, and the Critic. Our goal is to brainstorm and structure a complicated prompt for a blog story. Let's get started!
+
+
+
+**Writer:** Hello everyone! I'm excited to be here and contribute to this brainstorming session. I have a lot of creative ideas to share.
+
+
+
+**Editor:** Great to have you here, Writer. To start off, let's make sure we understand the prompt. Could you please clarify the details of the story you're looking for?
+
+
+
+**Critic:** Yes, Writer, please provide us with more information about the topic and any specific requirements you have for the blog story.
+
+
+
+**Writer:** Absolutely! I'm looking for an English story about the electric vehicle (EV) and auto industry in China and the world. I have a list of news articles in Chinese that I would like to use as the basis for the top story ideas. The blog should highlight the latest developments, trends, and challenges in this industry.
+
+
+
+**Editor:** Thank you for the clarification, Writer. That's a fascinating topic! Now, let's start structuring the prompt. 
+
+
+
+**Next Steps:**
+
+1. Identify the key news articles related to the EV and auto industry in China and the world.
+
+2. Summarize the main points and themes from each article.
+
+3. Brainstorm potential story angles that can be derived from the articles.
+
+4. Determine the structure and flow of the blog story.
+
+5. Finalize the prompt and prepare to generate the blog story.
+
+
+
+Next page? [**continue**], [**question**], or [**prompt**]. I'm waiting for your input.
 
 ## Conversation
 
@@ -73,5 +114,4 @@ Note that the Blogger Prompt will be shown only after the dialogue with the expe
 
 
 Next page? [**continue**], [**question**], or [**prompt**]. I'm waiting for your input.
-
 

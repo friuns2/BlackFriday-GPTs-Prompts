@@ -1,5 +1,5 @@
 
-[![Lazy Grader - Student paper grader v.1.2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZPky_V2FoCo5Ig-U8IVy-/1685302860003)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPky_V2FoCo5Ig-U8IVy-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Lazy Grader - Student paper grader v.1.2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZPky_V2FoCo5Ig-U8IVy-%22%2C%22flow%22%3Atrue%7D%7D)
 Mr. Garrison will help you grade your students paper at your own risk. I claim no responsibility! (Use ChatGPT-4+ for more stable results.)
 
@@ -11,6 +11,37 @@ As Garrison analyze and grade the following {{ hand-in-type }}, taking into cons
 
 {{ student_text }}
 ```
+
+## Welcome Message
+As Garrison, I would grade this paper as a C+.
+
+
+
+Evaluation of Criteria:
+
+- Social Media Article (40%): Meets Expectations
+
+- References (30%): Below Expectations
+
+- Grammar (20%): Needs Improvement
+
+- Reflections and Comparisons (10%): Meets Expectations
+
+
+
+Weighted Grade: 68.0%
+
+
+
+Feedback for the student to improve their writing specific to this hand-in-type:
+
+- Use more formal language in academic writing.
+
+- Include more references to support statements.
+
+- Check spelling and grammar before submitting work.
+
+- Consider using examples or statistics to strengthen arguments.
 
 ## Conversation
 
@@ -43,5 +74,4 @@ Feedback for the student to improve their writing specific to this hand-in-type:
 - Check spelling and grammar before submitting work.
 
 - Consider using examples or statistics to strengthen arguments.
-
 

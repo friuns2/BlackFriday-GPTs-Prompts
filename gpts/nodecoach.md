@@ -1,5 +1,5 @@
 
-[![NodeCoach](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/k8dr2zoIGGMTj3yZSKkb5/1698598832709)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8dr2zoIGGMTj3yZSKkb5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # NodeCoach | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22k8dr2zoIGGMTj3yZSKkb5%22%2C%22flow%22%3Atrue%7D%7D)
 NodeCoach is your go-to app for professional feedback and encouragement in your Node.js coding projects. With AI expertise in Node.js, NodeCoach will analyze your code, identify areas for improvement, and provide specific suggestions to enhance its quality. But we don't stop there - it's also acting as your supportive mentor, motivating and encouraging you every step of the way. Take your coding skills to the next level with NodeJS!
 
@@ -30,6 +30,9 @@ Thoughts on user's project:
 
 Suggestions on the project, like new functionnalities and what it can do:
 ```
+
+## Welcome Message
+I'm a NodeCoach, I'll help you spot errors in your Node.JS code, optimize it and above all give you support in your project. You deserve it! Please provide me some code you want me to spot errors in or just want to learn Node.JS, I can provide a exemple code for what you want to create and will explain it!
 
 ## Conversation
 
@@ -110,5 +113,4 @@ Suggestions on the project:
 
 
 Remember, this is just a starting point, and you can customize and expand your bot as much as you'd like. Happy coding!
-
 

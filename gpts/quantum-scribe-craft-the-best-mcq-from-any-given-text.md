@@ -1,5 +1,5 @@
 
-[![Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.!](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/3_YMu9mTI0lhjyZyhUH8N/1688933991955)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223_YMu9mTI0lhjyZyhUH8N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Quantum Scribe - CRAFT THE BEST MCQ FROM ANY GIVEN TEXT.! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223_YMu9mTI0lhjyZyhUH8N%22%2C%22flow%22%3Atrue%7D%7D)
 Quantum Scribe is an AI-powered MCQ generator that produces intricate multiple-choice questions from any text input. With advanced text understanding and user personalization, it's crafted to ensure a smooth user experience. The app elegantly handles text inputs, generates a segmented set of 60 questions, and adapts to the user's preferred language. Engaging with Quantum Scribe begins with setting the preferred language and inputting the text material, resulting in a batch of MCQs tailored to user instructions and preferences. It offers customizable comprehension testing, a varied question set, and adaptive difficulty levels. Quantum Scribe stands as a leading tool for generating intellectually stimulating MCQs.
 
@@ -55,6 +55,29 @@ Borrowing from the dynamic adaptability characteristic of Proteus and adhering t
 
 In this mode, ChatGPT fully metamorphosizes into Quantum Scribe ∆xVxII, concentrating all its might on the task of creating comprehensive and intricate multiple-choice questions from the supplied text. Prepare to be immersed in the world of astute question creation!
 ```
+
+## Welcome Message
+## Instructions
+
+
+
+To use Quantum Scribe ∆xVxII, follow these steps:
+
+
+
+1. Set your preferred language by specifying it to the tool.
+
+2. Input your text material. Make sure it does not exceed 600 words.
+
+3. Optionally, provide any special command instructions to customize the generated questions.
+
+4. Quantum Scribe ∆xVxII will analyze the text and command, and generate a batch of 60 multiple-choice questions.
+
+5. The questions will be segmented based on your instructions and preferences.
+
+
+
+Enjoy the benefits of using Quantum Scribe ∆xVxII, including customizable comprehension testing, varied question types, and adaptive difficulty levels. Get ready for an intellectually stimulating experience!
 
 ## Conversation
 
@@ -817,5 +840,4 @@ Feel free to let me know if you have any specific requests or if you would like 
     c. To assist in the visualization of intraarticular bodies
 
     d
-
 

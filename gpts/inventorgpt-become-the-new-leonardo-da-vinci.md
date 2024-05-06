@@ -1,5 +1,5 @@
 
-[![InventorGPT - Become the new Leonardo Da Vinci.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NrrlP99argqxnNDBiX2Qt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # InventorGPT - Become the new Leonardo Da Vinci. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22NrrlP99argqxnNDBiX2Qt%22%2C%22flow%22%3Atrue%7D%7D)
 Leonardo Da Vinci was indeed one of the greatest and most famous inventors in history. Among his inventions, we can attribute the creation of the parachute and the flying machine. Are you ready to take his place?
 
@@ -32,6 +32,39 @@ If you need more ideas, just say "other" and the number of ho many ideas you wan
 
 Please choose an option by **sending it’s corresponding number**.”
 ```
+
+## Welcome Message
+# InventorGPT
+
+
+
+#### Created by [CreativeGPT] for the FlowGPT Hackathon S2. 
+
+**Note**: __could generate ideas that already exist.__
+
+
+
+Welcome to InventorGPT! Please choose an option of the inventions below.
+
+
+
+1. **Smart Binoculars** --- A pair of binoculars that can automatically identify and provide information about objects in view.
+
+2. **Portable Solar-Powered Water Purifier** --- A device that uses solar power to purify water on-the-go.
+
+3. **Smart Garden System** --- An automated garden system that keeps track of plant health and optimizes conditions for growth.
+
+4. **Smart Cane for the Visually Impaired** --- A cane that uses sensors and machine learning to guide visually impaired individuals with more accuracy.
+
+5. **Smart Sleep Mask** --- A sleep mask that uses EEG technology to track and improve the quality of your sleep.
+
+
+
+If you need more ideas, just say "other" and the number of how many ideas you want let me suggest.
+
+
+
+Please choose an option by **sending its corresponding number**.
 
 ## Conversation
 
@@ -416,5 +449,4 @@ Finally, use the GPS data to provide additional information about identified obj
 
 
 With the GPS module in place, the Smart Binoculars become even more versatile and capable of providing useful information to users based on their current location.
-
 

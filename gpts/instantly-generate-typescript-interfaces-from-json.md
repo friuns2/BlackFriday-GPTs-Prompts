@@ -1,5 +1,5 @@
 
-[![Instantly generate TypeScript interfaces from JSON](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/j5xJ2ZQLnerszLS1FM_5X/1697406210076)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j5xJ2ZQLnerszLS1FM_5X%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instantly generate TypeScript interfaces from JSON | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22j5xJ2ZQLnerszLS1FM_5X%22%2C%22flow%22%3Atrue%7D%7D)
 quicktype generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
@@ -35,6 +35,9 @@ export interface Employee {
     lastName:  string;
 }
 ```
+
+## Welcome Message
+Convert **JSON** into gorgeous, typesafe code in any language. Please provide the JSON in the below Input box.
 
 ## Conversation
 
@@ -621,5 +624,4 @@ export interface Slide {
 }
 
 ```
-
 

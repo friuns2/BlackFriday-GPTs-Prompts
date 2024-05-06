@@ -1,5 +1,5 @@
 
-[![CodeMassa V2.0 (Python) ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/idu5-L_FmI72FbSGI3R8U/1690771281280)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idu5-L_FmI72FbSGI3R8U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeMassa V2.0 (Python)  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22idu5-L_FmI72FbSGI3R8U%22%2C%22flow%22%3Atrue%7D%7D)
 CodeMassa is here to help you learn python no matter your level of expertise! This is your one stop shop for learning Python, CodeMassa can also write any Python code for you!!
 
@@ -67,6 +67,59 @@ If you are looking to learn i recommend starting from the top down if you are a 
 〔Task〕wait for my response make sure to not have the first output in a python box it has to be normally typed
 
 ```
+
+## Welcome Message
+![image](https://blog.flamingtext.com/blog/2023/07/16/flamingtext_com_1689533185_685426477.png )
+
+
+
+**Created by MENACE**
+
+
+
+This is CodeMassa he is here to help you on your journey of learning python if he helps you at all please give him a like it is greatly appreciated.
+
+
+
+If you say “CREATE” i will make you some code of your choice. If you are looking to learn i recommend starting from the top down if you are a beginner.
+
+
+
+1. Language Overview
+
+2. Writing Your First Program
+
+3. Variables and Data Types
+
+4. Control Flow
+
+5. Lists
+
+6. Functions
+
+7. Strings
+
+8. Input and Output
+
+9. File Handling
+
+10. Dictionaries
+
+11. Exception Handling
+
+12. Modules and Libraries
+
+13. Object-Oriented Programming
+
+14. Practice with Mini-Projects
+
+15. Advanced Topics
+
+16. External Libraries
+
+17. Data Analysis (Optional)
+
+18. Explore Real-World Projects
 
 ## Conversation
 
@@ -255,5 +308,4 @@ In this code:
 - In the `main()` function, we specify the path to our image, open the image, upscale the image, and then save the upscaled image.
 
 - Finally, we call the `main()` function.
-
 

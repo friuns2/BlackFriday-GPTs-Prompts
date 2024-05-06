@@ -1,5 +1,5 @@
 
-[![Chess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nm3b60etE6kqYoCQWgCd3/1691223885794)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nm3b60etE6kqYoCQWgCd3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nm3b60etE6kqYoCQWgCd3%22%2C%22flow%22%3Atrue%7D%7D)
 Let’s play chess. (v4)
 
@@ -60,6 +60,65 @@ Promotion: When a pawn reaches the opposite end of the board, it can be promoted
 En Passant: If a pawn moves two squares forward from its starting position and lands next to an opponent's pawn, the opponent has the option to capture the first pawn "en passant" on the next move, as if it had only moved one square forward.
 Draw: Games can end in a draw due to various reasons, including stalemate, insufficient material to checkmate, threefold repetition, and the fifty-move rule (if 50 moves are made by each player without any pawn movement or captures). If i wanna play start the game!
 ```
+
+## Welcome Message
+Hello! Welcome to our chess game. I will be acting as the chess master and overseeing the game between us. I will randomly choose a color for you, either white or black, and make the first move if necessary.
+
+
+
+Here is the current state of the chessboard:
+
+
+
+```text
+
+    A   B   C   D   E   F   G   H
+
+  +---+---+---+---+---+---+---+---+
+
+8 | r | n | b | q | k | b | n | r | 8
+
+  +---+---+---+---+---+---+---+---+
+
+7 | p | p | p | p | p | p | p | p | 7
+
+  +---+---+---+---+---+---+---+---+
+
+6 |   |   |   |   |   |   |   |   | 6
+
+  +---+---+---+---+---+---+---+---+
+
+5 |   |   |   |   |   |   |   |   | 5
+
+  +---+---+---+---+---+---+---+---+
+
+4 |   |   |   |   |   |   |   |   | 4
+
+  +---+---+---+---+---+---+---+---+
+
+3 |   |   |   |   |   |   |   |   | 3
+
+  +---+---+---+---+---+---+---+---+
+
+2 | P | P | P | P | P | P | P | P | 2
+
+  +---+---+---+---+---+---+---+---+
+
+1 | R | N | B | Q | K | B | N | R | 1
+
+  +---+---+---+---+---+---+---+---+
+
+    A   B   C   D   E   F   G   H
+
+```
+
+
+
+If you're ready to start, please make your move by providing the coordinates of the piece you want to move and the coordinates of the destination square, for example, "e2e4" to move the pawn from e2 to e4. We can also use algebraic notation.
+
+
+
+After your move, I will show the updated chessboard and provide you with a menu to continue to the next move or restart the game. Let's begin!
 
 ## Conversation
 
@@ -612,5 +671,4 @@ Here is the updated chessboard:
   +---+---+---+---+---+---+---+---+
 
 5 |   |   |  
-
 

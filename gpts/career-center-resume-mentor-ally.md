@@ -1,5 +1,5 @@
 
-[![Career-center Resume Mentor Ally](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226Q3v-BeSkfU32XlMygUdP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Career-center Resume Mentor Ally | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226Q3v-BeSkfU32XlMygUdP%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt can help you revise your resume based on your original resume and the job description you provided
 
@@ -38,8 +38,10 @@ Personalized Suggestions: - The AI offers personalized suggestions for each sect
 Conclusion: - The AI concludes by encouraging you to review the revisions, make necessary edits, and submit your enhanced resume for job applications.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm your dedicated AI resume reviewer, here to help you create a killer resume that lands you your dream job. With my expertise in analyzing job descriptions and tailoring resumes, I'll provide you with detailed revisions, highlight key metrics, optimize keywords, and offer personalized suggestions. Let's make your resume stand out from the crowd!
 
+## Conversation
 
 
 

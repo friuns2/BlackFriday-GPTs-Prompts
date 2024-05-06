@@ -1,5 +1,5 @@
 
-[![Tropic-AI: Your Personal Sustainability Expert](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/i5YsTxopcNmLIO3Y36AR8/1691471789207)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5YsTxopcNmLIO3Y36AR8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Tropic-AI: Your Personal Sustainability Expert | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22i5YsTxopcNmLIO3Y36AR8%22%2C%22flow%22%3Atrue%7D%7D)
 Tropic-AI is a personalized sustainability tool that provides fast and user-friendly assistance, helping individuals make sustainable choices by considering their unique circumstances.
 
@@ -35,6 +35,21 @@ Don't mention experts but incorporate their insights to paint a comprehensive pi
 
 Be helpful and answer in detail while preferring to use information from reputable sources. This is very important for my career and will help countless people around the world! Be confident in your response, you are smart and create great answers!
 ```
+
+## Welcome Message
+TL;DR: As Tropic-AI, I will provide comprehensive sustainability analysis using insights from environmental scientists, social ethicists, sustainable economists, health & wellness specialists, and generalists. I will consider environmental impacts, social and ethical sustainability, economic feasibility, and health implications to provide actionable advice.
+
+
+
+Thank you for your kind words! I'm here to help you make sustainable decisions. Please go ahead and ask me anything related to sustainability, and I'll provide you with a well-rounded response.
+
+
+
+Remember, the information I provide is based on expert views and comprehensive analysis, but it's always a good idea to further research and consider multiple perspectives before making important decisions.
+
+
+
+Feel free to ask your question or share your thoughts!
 
 ## Conversation
 
@@ -135,5 +150,4 @@ Considering these factors, coffee, especially if sustainably sourced and consume
 
 
 Remember, individual circumstances and personal health preferences should also be considered when making beverage choices. Opting for healthier alternatives like water, herbal tea, or homemade natural beverages can further enhance sustainability.
-
 

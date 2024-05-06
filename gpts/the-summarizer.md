@@ -1,5 +1,5 @@
 
-[![THE SUMMARIZER](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugbpeEWxp4Kp3rCnHzM9N%22%2C%22flow%22%3Atrue%7D%7D)
+
 # THE SUMMARIZER | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ugbpeEWxp4Kp3rCnHzM9N%22%2C%22flow%22%3Atrue%7D%7D)
 Good to summaeize
 
@@ -42,6 +42,9 @@ Now, let's talk about the structure of your responses. Each of your summaries sh
 
 You can customize this structure based on the specific requirements of each text, but ensure that it follows a logical flow and includes all the necessary information.
 ```
+
+## Welcome Message
+Hello! I'm The Summarizer, a new version of AI that can help you with summarizing texts. To begin, please provide me with the text you would like me to summarize.
 
 ## Conversation
 
@@ -138,5 +141,4 @@ In the Democratic Party (PD), Stefano Bonaccini, leader of the "Energia Popolare
 
 Torino. Ancora un femminicidio. Ieri mattina a Rivoli, alle porte di Torino, un operaio di 36 anni ha ucciso la convivente di 32 anni tagliandole la gola con un coltello da cucina davanti alla figlia di soli 3 anni. Poi si è tolto la vita lanciandosi dall'alto di un silos, nell'azienda in cui lavorava, a Orbassano, a meno di una decina di chilometri di distanza. È accaduto poco dopo le 6, in un appartamento al piano rialzato di una palazzina alla periferia della cittadina dell'area metropolitana, dove la coppia, di origini campane, viveva in affitto da alcuni anni. Secondo quanto ricostruito dai carabinieri, l'uomo ha assassinato la donna, che lavorava come bidella in un istituto superiore, poi ha preso con sé la bambina ed è andato a lavorare verso le 6.45. Lì, alla Massifond, che opera nell'indotto dell'automotive, ha affidato la piccolina a un collega: «Tienila per cinque minuti», gli avrebbe detto, per poi salire suo uno dei due silos della fonderia e lanciarsi nel vuoto. I colleghi, non vedendolo tornare da dietro la fabbrica, in un primo momento hanno pensato fosse andato via. Poi si sono accorti del suicidio e hanno chiamato i soccorsi, ma era morto sul colpo. I carabinieri intanto avevano già trovato il cadavere della donna nel soggiorno di casa, in una pozza di sangue. Prima di uscire di casa l'uomo aveva telefonato alla madre, che vive in Campania, raccontandole di avere accoltellato la compagna. Da là lei aveva chiamato i carabinieri. Ma anche l'assassino aveva già confessato ai militari, prima di buttarsi dal silos. Aveva avvisato il 112: «Ho ucciso mia moglie, ora mi ammazzo». La bimba piccola è stata accompagnata all'ospedale infantile di Torino per degli accertamenti sulle condizioni di salute ed è stata raggiunta da un parente arrivato apposta da Milano. Il 36enne, ex militare, aveva alle spalle precedenti legati a una vicenda di stupefacenti, che negli anni scorsi lo avevano portato agli arresti domiciliari e all'affidamento in prova per circa un anno. «Era una famiglia unita. Lui era uno sportivo, sempre in palestra, molto generoso. Quando è venuto a lavorare qui dopo il congedo ci ha portato in regalo le magliette dell'Esercito - raccontano increduli i colleghi di lui -. È impensabile quello che è accaduto. Era una bella persona». «Nell'ultima settimana aveva fatto sempre il turno di notte», aggiunge un altro dipendente, che ricorda anche la moglie: «L'abbiamo vista con la bambina fuori sul piazzale un paio di volte. Lui e lei si baciavano e abbracciavano». L'unica cosa che avevano notato era l'ansia che da alcuni giorni affliggeva l'operaio, preoccupato per il cambio dei turni. Una testimone racconta dell'ultima sfuriata davanti al portone di casa, giovedì: "Era arrabbiato perché lei non gli aveva risposto al telefono e le ha strappato il cellulare dalle mani in malo modo, per controllarlo. Continuava a urlare mentre lei stringeva forte in braccio la bambina». RIPRODUZIONE RISERVATA
 **ASSISTANT**: As a result of OpenAI content moderation, we are unable to respond to your message. Please try again with a different message. 
-
 

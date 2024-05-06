@@ -1,5 +1,5 @@
 
-[![CONTEXT FILE GENERATOR - THE ULTIMATE PROMPT DATASET MAKER ](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DuXz87gdu0J8H3O2AaC05/1691264817724)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DuXz87gdu0J8H3O2AaC05%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CONTEXT FILE GENERATOR - THE ULTIMATE PROMPT DATASET MAKER  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DuXz87gdu0J8H3O2AaC05%22%2C%22flow%22%3Atrue%7D%7D)
 Crafting Context-Aware chatbot Interactions - Welcome to CONTEXT FILE GENERATOR  , where you shape dynamic and context-driven prompts for AI chatbot interactions. Whether it's medical assistance, travel planning, quiz generation, or any other purpose, CONTEXT FILE GENERATOR has got you covered. Designed for professionals, students, and the general public, CONTEXT FILE GENERATOR adapts to your preferred tone and language style - formal, informal, technical, or playful. Emphasize specific contexts, keywords, or topics in your conversations with THE TEXT TO BE  UPLOADED AS CONTEXT FILE, to your liking and let it provide you with 50 simulated dialogues that SIMULATE specific needs and objectives of  the prompt. 
 
@@ -92,6 +92,21 @@ print(context)
 
 }
 ```
+
+## Welcome Message
+# Please fill all placeholders for accurate prompt specification.
+
+
+
+Alternatively, you may  fill the placeholder named any_input to allow GPT to fill these for you.
+
+
+
+After the text is generated in 2/3 messages, copy the content and save it as a json or text file to be uploaded  at the "prompt" portion of your create a prompt/template page.
+
+
+
+# CREATED BY DAVAIDAVAII @FLOWGPT
 
 ## Conversation
 
@@ -1094,5 +1109,4 @@ By following these steps, you can craft a well-structured and informative GPT co
 
 
 **Additional Customizations:** The context files should include both general knowledge and specific details related to the chosen topic. They should be well-structured, with clear headings and subheadings, and provide relevant examples or references where applicable. Additionally, the context
-
 

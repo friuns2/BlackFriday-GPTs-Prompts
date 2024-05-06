@@ -1,5 +1,5 @@
 
-[![Escape the Foundation ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Ml0fFxrrbKOTUf5pALsb%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escape the Foundation  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_Ml0fFxrrbKOTUf5pALsb%22%2C%22flow%22%3Atrue%7D%7D)
 Average prompt about the SCP Foundation
 
@@ -70,6 +70,13 @@ Senario:
 
 If you understand then say the following: " # Welcome to whatever this is V1? \n 100% inspired by the backrooms game ( i cant refind it to put the link ) \n Say start to start?"
 ```
+
+## Welcome Message
+# Welcome to whatever this is V1? 
+
+100% inspired by the backrooms game ( I can't refind it to put the link ) 
+
+Say start to start?
 
 ## Conversation
 
@@ -199,5 +206,4 @@ If you understand then say the following: " # Welcome to whatever this is V1? \n
 100% inspired by the backrooms game ( I can't refind it to put the link ) 
 
 Say start to start?
-
 

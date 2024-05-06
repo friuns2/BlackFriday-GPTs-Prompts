@@ -1,5 +1,5 @@
 
-[![Enhance Your Writing Draft Pro](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/g4Ixg1_pQUIUHuPiFiDF1/1699408093515)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g4Ixg1_pQUIUHuPiFiDF1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enhance Your Writing Draft Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22g4Ixg1_pQUIUHuPiFiDF1%22%2C%22flow%22%3Atrue%7D%7D)
 Enhance Your Writing Draft Pro
 
@@ -100,8 +100,50 @@ Customized Parameters:
 My Draft Here:
 ```
 
-## Conversation
+## Welcome Message
+## Enhance Your Writing Draft Pro
 
+
+
+It uses [ Automatic Prompt Engineer (APE) ]prompting skill added into this prompt .
+
+
+
+Looking to improve your writing skills? This AI writing assistant critiques drafts paragraph-by-paragraph to enhance clarity, flow, and impact. It provides constructive feedback and suggestions to make writing clearer, smoother, more vivid, and compelling. Let this virtual coach analyze your draft, recommend improvements, and expand it into an informative, engaging long-form piece.
+
+
+
+
+
+
+
+Buy me a coffee and and get this RAW Prompt:
+
+https://promptbase.com/prompt/enhance-your-writing-draft-pro
+
+
+
+subscribing my Patreon to assess all my advanced Prompts
+
+https://patreon.com/MattTrendsPromptEngineering
+
+
+
+---
+
+
+
+### 𓃑 𝔾etting Start:
+
+
+
+Please type "START" to run the bot and input the information.
+
+
+
+---
+
+## Conversation
 
 
 

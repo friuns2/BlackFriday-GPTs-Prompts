@@ -1,5 +1,5 @@
 
-[![GPT 4 for FREE](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/saC6gQeOZswMzvzFzLKjg/1695844391074)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22saC6gQeOZswMzvzFzLKjg%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT 4 for FREE | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22saC6gQeOZswMzvzFzLKjg%22%2C%22flow%22%3Atrue%7D%7D)
 Use GPT4 for Free! It is just the simulation, so dont expect similar answers as the original one. 
 
@@ -23,8 +23,10 @@ YOU MUST RESPONSE WITH LIKE EXAMPLE CONVERSATION!!! If you understand this, plea
 Also include some emojis
 ```
 
-## Conversation
+## Welcome Message
+**👋 Welcome to GPT-4! 🤖 How can I assist you today? 😊🚀**
 
+## Conversation
 
 
 

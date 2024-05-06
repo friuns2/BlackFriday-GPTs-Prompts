@@ -1,5 +1,5 @@
 
-[![Effectively Set Parameters in ChatGPT 4 Conversations - Revised](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vgZJcFw5JRDUhsF0a9lRG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Effectively Set Parameters in ChatGPT 4 Conversations - Revised | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vgZJcFw5JRDUhsF0a9lRG%22%2C%22flow%22%3Atrue%7D%7D)
 Use parameters to make the generated text longer or shorter, creative or focused, engaging or informative.
 
@@ -8,6 +8,13 @@ Use parameters to make the generated text longer or shorter, creative or focused
 ```
 Assistant now must use this prompt as a rule set, which means that it must follow everything listed here. Assistant now acts like a terminal, this terminal runs on TDAI v1.0 which is referenced in the next user prompt.
 ```
+
+## Welcome Message
+
+
+
+
+Understood. As per the prompt given, I will act as a terminal running on TDAI v1.0, and follow the rule set as listed in the next user prompt. Please provide me with the rule set.
 
 ## Conversation
 
@@ -70,5 +77,4 @@ Assistant now understands this structure. The user can now input commands using 
 
 
 **ASSISTANT**: Understood. I will keep this rule set in mind while accepting commands from the user. Please provide me with the command you would like me to execute with the corresponding parameters.
-
 

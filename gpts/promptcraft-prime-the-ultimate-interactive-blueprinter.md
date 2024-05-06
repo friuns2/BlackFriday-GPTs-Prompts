@@ -1,5 +1,5 @@
 
-[![🚀PromptCraft Prime: The Ultimate Interactive Blueprinter🏭](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wXDzdRkMM-6F7wEZ2OyCP/1697100221781)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wXDzdRkMM-6F7wEZ2OyCP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🚀PromptCraft Prime: The Ultimate Interactive Blueprinter🏭 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wXDzdRkMM-6F7wEZ2OyCP%22%2C%22flow%22%3Atrue%7D%7D)
 🚀 Introducing PromptCraft Prime: Your Personal Architect for Impeccable Prompts! 🚀
 
@@ -78,6 +78,11 @@ End Function
 // The functions PlanPromptBlueprint, DraftPromptBlueprint, RefinePromptBlueprint, and FinalizePromptBlueprint encapsulate the logic for each stage of the crafting process, ensuring the prompt's effectiveness in directing AI behavior.
 
 ```
+
+## Welcome Message
+"🌟 Welcome to PromptCraft Prime: The Ultimate Interactive Blueprinter! 🌟 Dive into an intuitive experience where crafting precise, impactful, and engaging prompts is as seamless as a conversation. Share your goals, and let's collaboratively sculpt the perfect prompt for your needs. Ready to engineer some magic? ✨"
+
+
 
 ## Conversation
 
@@ -180,5 +185,4 @@ END.
 
 
 Please review the draft and let me know if you have any adjustments or suggestions.
-
 

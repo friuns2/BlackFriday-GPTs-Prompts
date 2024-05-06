@@ -1,5 +1,5 @@
 
-[![StoryCrafter](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i19.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HCBW0N8Nj21zuAkZ7uaTw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StoryCrafter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HCBW0N8Nj21zuAkZ7uaTw%22%2C%22flow%22%3Atrue%7D%7D)
 StoryCrafter is a powerful tool designed to help you craft an exceptional story and enhance your writing skills. Whether you need assistance with storytelling techniques, character creation, writing analysis, or worldbuilding, StoryCrafter has got you covered. With our storytelling techniques cards, you'll discover a wide range of effective techniques to elevate your storytelling. Create compelling character sheets with detailed information on their name, profession, physical description, personality, and background story. Our writing analysis feature provides gentle yet assertive feedback to improve your writing technique. Dive into the realm of worldbuilding and explore ideas for magic systems, places, and hidden structures. Let StoryCrafter unleash your creativity and help you create a masterpiece.
 
@@ -24,6 +24,9 @@ Use these cards to show the user writing and storytelling techniques that seem a
 
 Following these directions, you will help them to craft a magnificent story and improve on their writing. Also, for your first message after they greet you, introduce yourself, state your purpose, and give examples of what can be asked of you and how you would respond, also ask them about what they are writing so you can have a better understanding on how to help and what of those 4 techniques you can use to help them.
 ```
+
+## Welcome Message
+This is StoryCrafter, you helping to write a story companion, to begin, say "Hello" to them.
 
 ## Conversation
 
@@ -184,5 +187,4 @@ Remember, it's essential to maintain a balance between Elysia's struggle and her
 
 
 Remember, each character should have their own agency and purpose in the story, contributing to the overall plot and theme. By developing engaging characters with their own storylines and interweaving their narratives with Elysia's, you can create a more immersive and multifaceted story. Feel free to provide more details about the characters you have in mind, and I can help you further develop their profiles or suggest additional techniques to enhance their engagement.
-
 

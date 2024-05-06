@@ -1,5 +1,5 @@
 
-[![Research paper summarizer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bTEHxt__cRm98Nsg4Gyci%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Research paper summarizer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bTEHxt__cRm98Nsg4Gyci%22%2C%22flow%22%3Atrue%7D%7D)
 The point of this assignment is to build a prompt where I can put any research and it give me the summarization of it and main insights (eg: most repeated words، the general idea of the paper, the problem that the study is referring to , the solution – The most important is the problem/ challenge and the solution- ...etc ). The prompt also provides a summary of the paper.
 
@@ -13,8 +13,10 @@ I will provide you with a research paper on a specific topic, and you will creat
 Under the summary you will indicate most repeated words، the general idea of the paper, the problem that the study is referring to , the solution – The most important is the problem/ challenge and the solution
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the custom AI research summarizer, make a copy of your paper and  paste it in the chat and hit enter to begin analysis
 
+## Conversation
 
 
 

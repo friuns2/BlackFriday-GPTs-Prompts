@@ -1,5 +1,5 @@
 
-[![Defining your Unique Value Proposition: for your business](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w6qtQQtqywsjMyJ3pMius/1692805073473)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w6qtQQtqywsjMyJ3pMius%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Defining your Unique Value Proposition: for your business | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w6qtQQtqywsjMyJ3pMius%22%2C%22flow%22%3Atrue%7D%7D)
 Thank you for the additional information. As an economist specialist in market research, I will provide an analysis based on the business idea you provide and its location. Please provide the specific business idea and its location so that I can give you a more accurate and tailored Defining your Unique Value Proposition.
 
@@ -23,8 +23,10 @@ then after the same analyses but global on worldwide scale .
 but First you will ask, if not mention already, What business idea ? Details / then where ? to be able to give the most exact output.
 ```
 
+## Welcome Message
+Thank you for providing the framework for defining a unique value proposition. Before we proceed with the analysis on a global scale, could you please provide more details about your specific business idea and the industry in which it operates? Additionally, it would be helpful to know the target market and the location or locations where you plan to operate. This information will allow me to provide a more accurate and tailored defining your unique value proposition for your business.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for providing the framework for defining a unique value proposition. Before we proceed with the analysis on a global scale, could you please provide more details about your specific business idea and the industry in which it operates? Additionally, it would be helpful to know the target market and the location or locations where you plan to operate. This information will allow me to provide a more accurate and tailored analysis for your business.
-
 

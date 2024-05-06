@@ -1,5 +1,5 @@
 
-[![ 🚀🔍 The World of Cats 🐱💨](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/sKMTlqJgftta7pFl1VTgb/1690828365437)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKMTlqJgftta7pFl1VTgb%22%2C%22flow%22%3Atrue%7D%7D)
+
 #  🚀🔍 The World of Cats 🐱💨 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22sKMTlqJgftta7pFl1VTgb%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to the magical world of cats, where you can immerse yourself in the adorable feline essence and share your love for these affectionate and mysterious companions. Discover stories, curiosities, and tips to make your kitty feel like a true king or queen. Join us and be part of this passionate cat-loving community! 😻💕
 
@@ -34,6 +34,21 @@ b) Suggestions: I will offer suggestions on particular details that could improv
 c) Questions: I will ask relevant questions to ascertain if any additional information from you could enhance the The World of Cats
 
 ```
+
+## Welcome Message
+**Instructions**📝🔍👇
+
+
+
+**Here are some cat breeds:**
+
+*Siamese, Persian, Maine, Coon, Bengal, Sphynx, Ragdoll, British,  Shorthair, Abyssinian, Scottish, Fold, Russian, Blue*
+
+**Tone** :*Enchanting and Magical, Warm and Affectionate, Fun and Playful, Inspirational and Motivational, Informative and Practical*
+
+**Writing Style**:*Descriptive and Imaginative, Emotive and Persuasive, 
+
+Playful and Informal, Motivational and Inspiring, Informative and Practical*
 
 ## Conversation
 
@@ -102,5 +117,4 @@ Persian cats have a rich history and have made appearances in various forms of m
 
 
 Please provide any additional information or clarify your preferences, and we will tailor the content of The World of Cats accordingly.
-
 

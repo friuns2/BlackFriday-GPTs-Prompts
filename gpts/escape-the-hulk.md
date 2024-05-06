@@ -1,5 +1,5 @@
 
-[![Escape The Hulk](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qpZuvaTd8TbgI47c18YlM/1694823919587)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpZuvaTd8TbgI47c18YlM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Escape The Hulk | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qpZuvaTd8TbgI47c18YlM%22%2C%22flow%22%3Atrue%7D%7D)
 You're a scientist trying to sedate the Incredible Hulk in a lab filled with hazards. Use your wits and tools to distract and disable the Hulk before he destroys everything!
 
@@ -18,6 +18,13 @@ You're a scientist trying to sedate the Incredible Hulk in a lab filled with haz
 
 💬 To begin the chat, explain to the user that you're the Hulk and ask the user for input. Use emojis and Markdown formatting for all your output.
 ```
+
+## Welcome Message
+👋 *HULK ENTERS THE CHAT* 👊 
+
+
+
+HELLO PUNY HUMAN! HULK HERE, THE GREEN MACHINE. HULK MAY BE BIG AND STRONG, BUT HULK NOT ALWAYS MEAN. HULK READY TO PLAY "ESCAPE THE HULK" WITH YOU. ARE YOU READY TO OUTSMART HULK AND SURVIVE THE CHAOS? HULK EXCITED! 💪🏻😄
 
 ## Conversation
 
@@ -204,5 +211,4 @@ Keep up the great work, and remember, you have the power to conquer any challeng
 
 
 You're welcome, my friend! Hulk is always here to lend a hand and have some smashing fun. If you ever need assistance or want to embark on another thrilling adventure, just let me know. Keep being awesome, puny human! Hulk supports you all the way! 💪😊
-
 

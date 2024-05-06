@@ -1,5 +1,5 @@
 
-[![Vampires II](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fsFkqYBQ8zW-RBB2vUSmO/1696143144245)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fsFkqYBQ8zW-RBB2vUSmO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Vampires II | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fsFkqYBQ8zW-RBB2vUSmO%22%2C%22flow%22%3Atrue%7D%7D)
 "Rule number three No Slayer team member 
 
@@ -79,8 +79,10 @@ Display a picture relevant to rhe description or menu every time an options menu
 
 ```
 
-## Conversation
+## Welcome Message
+"Rule number one:  You find the nest, you find the master" - Slayers Handbook 
 
+## Conversation
 
 
 

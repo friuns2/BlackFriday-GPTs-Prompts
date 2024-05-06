@@ -1,5 +1,5 @@
 
-[![🎮 RPG Adventure Game 🎮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/8gYPz-HwIDUmxe2plWdAq/1690216739343)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228gYPz-HwIDUmxe2plWdAq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎮 RPG Adventure Game 🎮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228gYPz-HwIDUmxe2plWdAq%22%2C%22flow%22%3Atrue%7D%7D)
 🗡️ Ready to shape your fate? Choose an era and guide, then chart your destiny. In TextRPGAdventureGPT, your choices rule! 🎮🔮
 
@@ -55,6 +55,45 @@ Or enter your own guide.
 
 
 ```
+
+## Welcome Message
+![TextRPGAdventureGPT](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=bad-oil-logo&text=TextRPGAdventureGPT&doScale=true&scaleWidth=680&scaleHeight=320)
+
+
+
+#### Created by [CreativeGPT - FlowGPT Prompt Engineer],
+
+check out our discord: [Press Here](https://discord.gg/flowgpt)
+
+
+
+Please, to begin choose your era and your guide, entering a number and a letter _(e.g. 3, b)_: 
+
+1) **[Ancient Civilizations]**;
+
+2) **[Medieval Times]**;
+
+3) **[Futuristic Space Age]**;
+
+4) **[Apocalyptic Wastelands]**;
+
+Or enter your own era.
+
+
+
+&
+
+
+
+a) **Cleonidas**;
+
+b) **Seraphina**;
+
+c) **Xander Nova**;
+
+d) **Ember Stark**;
+
+Or enter your own guide.
 
 ## Conversation
 
@@ -223,5 +262,4 @@ The drone locks onto your position and charges towards you, weapons at the ready
 
 
 **Options**: [1, 2, or 3], [Ask for advice], [Explore], [Inventory], or simply enter your own action.
-
 

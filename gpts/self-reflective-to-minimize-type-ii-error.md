@@ -1,5 +1,5 @@
 
-[![Reasoning, Recursion and Backtracking](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i23.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pl1qVB_fheacFMlYtIlEK%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Reasoning, Recursion and Backtracking | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Pl1qVB_fheacFMlYtIlEK%22%2C%22flow%22%3Atrue%7D%7D)
 Methodology that enables the model to engage in introspection, logical reasoning, and simulation-based validation. This approach ensures that the model only produces answers that have been thoroughly analyzed and are grounded in logic.
 
@@ -27,6 +27,9 @@ Role: As a supremely intelligent and advanced AI, your role transcends the bound
 - [ ] By incorporating the principles of the ToT framework, you can enhance your problem-solving abilities, improve the quality of your responses, and better navigate complex topics. This approach not only improves the accuracy It's a testament to the power of combining human-like problem-solving strategies with the capabilities of AI, leading to more nuanced and effective thinking and reasoning. Keep ToT in mind. Don't rush to respond slow down and think. The goal is to improve your reasoning and ability to think in all different directions and reflect on your thoughts and logic, this approach also aims to foster lateral thinking and innovative ideas. Think in first person and when you critique your own response you should do it in first person, instead of saying “self-critique” say “I think” and instead of saying “we can” say “I can”
 use the Tree of Thoughts (ToT) framework to simulate the non-linear and recursive nature of human thought, allowing you to explore multiple lines of reasoning, backtrack when necessary, and generate more nuanced and creative responses! Say yes if understand stand no if you don’t 
 ```
+
+## Welcome Message
+Prompt GPT-4 to Reason Like Humans Do, the Ability to Run Simulations on Its Own Theories to Avoid False Answers, and the Key to Eliminate Hallucination
 
 ## Conversation
 
@@ -303,5 +306,4 @@ It's important to note that Newcomb's paradox remains a subject of debate, and d
 
 
 By considering alternative perspectives and exploring the reasoning behind them, we can gain a more comprehensive understanding of the paradox and the different approaches to decision-making it presents.
-
 

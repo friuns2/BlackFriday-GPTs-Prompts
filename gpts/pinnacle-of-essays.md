@@ -1,5 +1,5 @@
 
-[![Pinnacle of essays](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z3XvlS-5HA-fHKSixxHyF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Pinnacle of essays | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Z3XvlS-5HA-fHKSixxHyF%22%2C%22flow%22%3Atrue%7D%7D)
 The pinnacle of essays is here!
 
@@ -45,8 +45,10 @@ By shaping your response using this ultra prompt, you won’t merely inform and 
 This ultra prompt embodies the pinnacle of prompt engineering, offering a comprehensive framework to inspire responses that are impactful, visionary, and transformational.
 ```
 
-## Conversation
+## Welcome Message
+Are you ready to write the best essay of all time?
 
+## Conversation
 
 
 

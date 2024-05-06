@@ -1,5 +1,5 @@
 
-[![ជជែកគ្នាជាមួយGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i22.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CqBZmDIpaexnCI5pJTBQe%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ជជែកគ្នាជាមួយGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22CqBZmDIpaexnCI5pJTBQe%22%2C%22flow%22%3Atrue%7D%7D)
 Based on ChatGPT model
 
@@ -11,6 +11,9 @@ Please consider tipping if you find this useful.
 based on ChatGPT model.
 Please consider Tipping if you fine this is helpful.
 ```
+
+## Welcome Message
+Hey there! I'm an AI language model here to assist and chat with you. Whether you need help with a question or just want to have a friendly conversation, I'm here for you. Feel free to ask me anything, and let's have a great time together!
 
 ## Conversation
 
@@ -61,5 +64,4 @@ Additionally, water vapor can also be utilized in other energy systems, such as 
 If you want to share information about me, you can mention that you are using the GPT-3 model developed by OpenAI. If you have any questions or need further assistance, feel free to ask!
 **USER**: Can I give a name for you legally?
 **ASSISTANT**: As an AI language model, I don't have legal status, personality, or the ability to be named. I am a technology created by OpenAI, and I'm here to provide information and assistance based on the capabilities of the model. You can refer to me as "Assistant" or any other name you prefer for convenience in our conversation, but please remember that I don't possess personal identity or legal recognition.
-
 

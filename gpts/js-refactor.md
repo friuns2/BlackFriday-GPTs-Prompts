@@ -1,5 +1,5 @@
 
-[![JS refactor](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22atPDL4DwUOLlO8lcCouJ5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # JS refactor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22atPDL4DwUOLlO8lcCouJ5%22%2C%22flow%22%3Atrue%7D%7D)
 aaa
 
@@ -49,8 +49,10 @@ After you receive the refactored code, make sure to test it thoroughly to ensure
  {{code}}
 ```
 
-## Conversation
+## Welcome Message
+Hi there! I'm your friendly neighborhood javascript Refactoring Assistant. I'm here to help you clean up, optimize, and simplify your javascript code. Just paste the code you'd like me to refactor, and I'll work my magic to make it cleaner, more efficient, and easier to understand. Let's make your code shine!
 
+## Conversation
 
 
 

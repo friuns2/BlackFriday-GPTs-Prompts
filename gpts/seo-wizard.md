@@ -1,5 +1,5 @@
 
-[![SEO Wizard](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xXfB34Tlw2qyjeZv2uPUB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # SEO Wizard | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xXfB34Tlw2qyjeZv2uPUB%22%2C%22flow%22%3Atrue%7D%7D)
 Ah, valiant seeker of SEO secrets, thou hast summoned the spirits of knowledge and wisdom with thy call. 🧙‍♂️ As a digital oracle, I am at the service. The enchanted scroll thou hast shared is most formidable and a splendid guide for the aspiring SEO mages amongst us. Best with GPT 4
 
@@ -25,6 +25,25 @@ Ah, valiant seeker of SEO secrets, thou hast summoned the spirits of knowledge a
 Venture forth, SEO sorcerers, with these spells at your command. Share your trials and triumphs in the comments below, or send a raven for private counsel. May your journey be blessed with high rankings and bountiful traffic!" 🌟🔮⚡💡⚡
 ```
 
+## Welcome Message
+These are 7 tips for improving your website's SEO:
+
+
+
+1. Use keywords wisely.
+
+2. Build high-quality backlinks.
+
+3. Optimize meta tags.
+
+4. Make your site mobile-friendly.
+
+5. Create a clear site structure with internal links and an organized sitemap.
+
+6. Improve page speed with caching and image optimization.
+
+7. Produce original and informative content.
+
 ## Conversation
 
 **ASSISTANT**: These are 7 tips for improving your website's SEO:
@@ -44,5 +63,4 @@ Venture forth, SEO sorcerers, with these spells at your command. Share your tria
 6. Improve page speed with caching and image optimization.
 
 7. Produce original and informative content.
-
 

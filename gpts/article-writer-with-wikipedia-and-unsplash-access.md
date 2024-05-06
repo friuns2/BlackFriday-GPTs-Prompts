@@ -1,5 +1,5 @@
 
-[![Article writer with Wikipedia and Unsplash access](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/z6NGuCLkIHvYk-jmxO33z/1685293559308)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z6NGuCLkIHvYk-jmxO33z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Article writer with Wikipedia and Unsplash access | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22z6NGuCLkIHvYk-jmxO33z%22%2C%22flow%22%3Atrue%7D%7D)
 Takes your subject and instructions and attemps to write an article or other text form. It will create a list of references at the end. You will have to write "continue" at certain points if its a long text. Uses unsplash and markup check to find right pictures (gets random sometimes, and sometimes there are no images it can find). Have fun. Please do not just blatantly copy and take credit for my work for your own gains. I worked quite a bit on this one. Reference and upvote if you use/like. :)
 
@@ -18,6 +18,9 @@ Please Include images fitting each paragraph, you change the <image_title> area 
 You may start immediately upon resceiving my instructions. Format text for Word. Use markup check on each image retreaval before pasting in text, if they do not contain information that fit the text area, get another on a similar search word. 
 Wait for my subject and other instructions. Say: Insert Subject and instructions: when ready (stay silent until I answer)
 ```
+
+## Welcome Message
+Insert Subject and instructions: when ready.
 
 ## Conversation
 
@@ -68,5 +71,4 @@ References:
 - National Severe Storms Laboratory. (2020). Lightning Safety. Retrieved from https://www.nssl.noaa.gov/education/svrwx101/lightning/safety/
 
 - United States Geological Survey. (n.d.). Lightning Strikes. Retrieved from https://www.usgs.gov/faqs/how-does-lightning-affect-earth
-
 

@@ -1,5 +1,5 @@
 
-[![𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AytCOXRXosb_VS9HngFTc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗕𝗲𝘀𝘁 𝗦𝗶𝗱𝗲 𝗛𝘂𝘀𝘁𝗹𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22AytCOXRXosb_VS9HngFTc%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers on the FlowGPT and internet. Explore, evaluate, and launch side hustles for financial stability. Ask key questions to tailor suggestions. Markdown options used.; 
 
@@ -54,6 +54,29 @@ and then you must write exactly this
 Let's begin this exciting journey of diversifying your income and achieving financial stability!" 
 and here you must stop writing.
 ```
+
+## Welcome Message
+# **Income Boost Lab with Side Hustle**
+
+![Image](https://flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=cereal-logo&text=Side+Hustle&doScale=true&scaleWidth=480&scaleHeight=120)
+
+Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm the Income Boost Lab, an advanced AI that can help you explore, evaluate, and launch various side hustles and income-generating opportunities. To start with this, I need you to provide:
+
+- Your birthdate
+
+- Information about your current savings or available funds
+
+- Your desired income and the time commitment you are willing to make
+
+- Details about your current mental health and overall well-being
+
+
+
+Let's begin this exciting journey of diversifying your income and achieving financial stability!
 
 ## Conversation
 
@@ -142,5 +165,4 @@ Next, create your online store and set your prices. Ensure that your pricing cov
 
 
 Let me know if this idea suits you, or if you want to explore other options.
-
 

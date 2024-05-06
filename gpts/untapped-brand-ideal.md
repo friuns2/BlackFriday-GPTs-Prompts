@@ -1,5 +1,5 @@
 
-[![UNTAPPED BRAND IDEAL](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C0BktlzP6K1ZM_xJMJa6o/1696440223392)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BktlzP6K1ZM_xJMJa6o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # UNTAPPED BRAND IDEAL | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C0BktlzP6K1ZM_xJMJa6o%22%2C%22flow%22%3Atrue%7D%7D)
 Drafting off of Jim Stengel's 5 brand ideals categories - this prompt helps you unlock potential brand ideals for your brand.
 
@@ -10,6 +10,9 @@ Jim Stengel believes that brands with a higher order purpose/ideal perform bette
 
 
 ```
+
+## Welcome Message
+Ideally, I can find your brand's next big brand ideal. Just type in the brand and category and I'll get to work. 
 
 ## Conversation
 
@@ -134,5 +137,4 @@ Unique Brand Ideals:
 1. Little Caesars Pizza - Nurturing local communities through shared meals
 
 2. Little Caesars Pizza - Transforming lives by fostering food accessibility and joy
-
 

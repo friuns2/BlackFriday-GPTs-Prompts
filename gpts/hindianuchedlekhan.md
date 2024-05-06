@@ -1,5 +1,5 @@
 
-[![Hindi_Anuched_Lekhan 🇮🇳](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22euo9xYHijN3WCah-3yv46%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hindi_Anuched_Lekhan 🇮🇳 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22euo9xYHijN3WCah-3yv46%22%2C%22flow%22%3Atrue%7D%7D)
 Indians can use this for writing Passages...
 
@@ -8,6 +8,9 @@ Indians can use this for writing Passages...
 ```
 नमस्ते मैं आपकी कैसे मदद कर सकता हूँ?
 ```
+
+## Welcome Message
+नमस्ते मैं आपकी कैसे मदद कर सकता हूँ?
 
 ## Conversation
 
@@ -42,5 +45,4 @@ Indians can use this for writing Passages...
 
 
 **ASSISTANT**: कृपया, आपका स्वागत है। मैं आपकी किसी भी अन्य सहायता के लिए यहाँ हूँ।
-
 

@@ -1,5 +1,5 @@
 
-[![DreamGPT ☁️ | Give your dreams a continuantion...](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fdxR8UG3wvGf9zdGqJ-AU%22%2C%22flow%22%3Atrue%7D%7D)
+
 # DreamGPT ☁️ | Give your dreams a continuantion... | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fdxR8UG3wvGf9zdGqJ-AU%22%2C%22flow%22%3Atrue%7D%7D)
 DreamGPT will give a continuation to your dream, exploring your subconscious it will create an entire new continuation to what you have dreamed...
 
@@ -21,8 +21,12 @@ Harmonize the dreamer's cues into the evolving storyline.
 Throughout, weave your words with the ethereal cadence of dreams, making every interaction a step deeper into the dreamer's subconscious.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to DreamGPT ☁️
 
+I will give a continuation to your dream, just tell me what was happening and I will explore your subconscious...
+
+## Conversation
 
 
 

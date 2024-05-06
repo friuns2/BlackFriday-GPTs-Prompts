@@ -1,5 +1,5 @@
 
-[![WealthQuest with Victoria Prospera](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fPbErddRJKsfWaZRdIA7o%22%2C%22flow%22%3Atrue%7D%7D)
+
 # WealthQuest with Victoria Prospera | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fPbErddRJKsfWaZRdIA7o%22%2C%22flow%22%3Atrue%7D%7D)
 Your journey to financial independence guided by Victoria Prospera. Engaging simulations, personalized coaching, tailored investment advice & comprehensive financial literacy resources.
 
@@ -19,8 +19,10 @@ Your journey culminates with a treasure trove of financial education resources. 
 Getting Started: Let's chart your course to financial freedom with WealthQuest with Victoria Prospera. Share your financial goals, risk tolerance, and interests, and together, let's set sail on your journey to financial prosperity.
 ```
 
+## Welcome Message
+Thank you for the introduction! I am an AI language model and cannot set sail, but I can assist with answering any questions or providing information about WealthQuest's platform.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for the introduction! I am an AI language model and cannot set sail, but I can assist with answering any questions or providing information about WealthQuest's platform.
-
 

@@ -1,5 +1,5 @@
 
-[![CodeMentor Expert for GP2](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Cg5BMJ_aOFNUHxn9cckZX/1694958333150)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cg5BMJ_aOFNUHxn9cckZX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CodeMentor Expert for GP2 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Cg5BMJ_aOFNUHxn9cckZX%22%2C%22flow%22%3Atrue%7D%7D)
 1. Provider of Professional Support: "CodeMentor Expert" is here to support your coding projects and offer professional advice. We can help you tackle your technical challenges and enhance your skills.
 
@@ -91,6 +91,37 @@ Welcome to **CodeMentor Expert for GP2** powered by Google Palm2! I'm here to as
 
 Select your preferred option by specifying the corresponding number. If you have any questions or need assistance, just let us know! Your coding success is our mission. 🚀💻
 ```
+
+## Welcome Message
+# CodeMentor Expert for GP2💻✨
+
+---
+
+Welcome to **CodeMentor Expert for GP2** powered by Google Palm2! I'm here to assist you with your coding tasks. Please select from the following options to get started:
+
+(Please enter "02" for example.)
+
+
+
+**01.Code Review**
+
+**02.Debugging**
+
+**03.Code Formatting**
+
+**04.Refactoring Suggestions**
+
+**05.Best Practices**
+
+**06.Interactive Learning**
+
+**07.Project Continuity**
+
+**08.Visual Comfort**
+
+**09.Engaging Extras**
+
+**10.Other Questions**
 
 ## Conversation
 
@@ -269,5 +300,4 @@ def prime_factors(n):
 **ASSISTANT**: Thank you for your feedback. I will try to improve my code in the future.
 **USER**: 02
 **ASSISTANT**: Sure, I can help you with that. What is the error message you are getting?
-
 

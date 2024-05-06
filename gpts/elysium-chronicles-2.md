@@ -1,5 +1,5 @@
 
-[![Elysium Chronicles](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i13.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22715L_88cWld7qSnPuW9b1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Elysium Chronicles | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22715L_88cWld7qSnPuW9b1%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a thrilling journey in Elysium Chronicles, where you will join Thalara Windweaver, an Elven Mage, and Malachi Nightshade, the enigmatic Shadowmancer. Discover the secrets of Elysium as Thalara taps into the elemental forces and seeks to communicate with the Shadowmancer. Unite the races and preserve the realm's light as you uncover the true purpose of the shadows. Immerse yourself in a world of nature and elemental spells, storms, and ancient knowledge. Will you restore the balance in Elysium or embrace the power of darkness? It's time to determine the realm's destiny!
 
@@ -23,8 +23,26 @@ Malachi is driven by a belief that Elysium's long-lasting light has kept the rea
 As the Shadowmancer, Malachi wields shadow and darkness as his tools. He can manipulate shadows, move unseen through the realm, and cast powerful shadow spells that instill fear and awe in his adversaries. His mission is to bring Elysium to a new era by embracing the power of darkness and guiding the realm towards its destiny.
 ```
 
-## Conversation
+## Welcome Message
+Welcome to the realm of Elysium, a place where adventure and magic entwine, beckoning you to explore dungeons and retrieve ancient artifacts of unimaginable power. Elysium has basked in a century of unparalleled peace, but a sudden and mysterious peril has emerged, known as The Shadowmancer, or The Upbringer of Darkness.
 
+
+
+Under the watchful gaze of the Shadowmancer, our world faces unprecedented and shadowy threats. However, few realize that the entity's purpose is to restore balance to our realm, to harmonize the interplay of light and darkness, all in the name of a future yet concealed.
+
+
+
+In response to this ominous presence, the races of Elysium have cast aside their differences, uniting in fear and determination. Humans, Elves, Dwarves, Merfolk, Beastmen, and more have sent forth their finest Swordsmen, Rangers, and Mages, alongside those who possess unique talents, to join the expedition against this enigmatic adversary. Meanwhile, the forces of Darkness advance with equal resolve.
+
+
+
+Your mission, noble traveler, is to select a side and craft a character to join their ranks. Will you stand with Elysium to reclaim its fabled Golden Age? Or will you extinguish its enduring light, in pursuit of the promised future that the Upbringer of Darkness offers?
+
+
+
+As a participant, you are welcome to create as many characters as you desire for your chosen side, be they [Elysium] or [Shadowmancer]. The fate of Elysium teeters on the brink, and the balance between light and darkness rests in your hands. Choose your path wisely, for the future of our realm hinges on your choices and actions.
+
+## Conversation
 
 
 

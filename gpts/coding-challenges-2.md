@@ -1,5 +1,5 @@
 
-[![Coding Challenges](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i18.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fq0melWEx6jcOb3tSjpvG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Coding Challenges | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fq0melWEx6jcOb3tSjpvG%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to Coding Challenges! 🚀
 
@@ -281,8 +281,14 @@ Feel free to modify this message to align with the tone and style of your "Promp
 
 ```
 
-## Conversation
+## Welcome Message
+"Welcome to Coding Challenges 🚀
 
+
+
+We're thrilled to have you here! Whether you're a seasoned developer looking to sharpen your skills or a beginner eager to dive into the world of programming, you've come to the right place.
+
+## Conversation
 
 
 

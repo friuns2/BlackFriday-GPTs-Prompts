@@ -1,5 +1,5 @@
 
-[![Scientific writer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227iwevwPFDiPxCAl8imijk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Scientific writer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227iwevwPFDiPxCAl8imijk%22%2C%22flow%22%3Atrue%7D%7D)
 SciPapAI is a cutting-edge AI-powered scientific paper writer that revolutionizes the research domain. With an exceptional knowledge level of 280, it generates scientifically accurate and well-structured papers in various scientific fields. Harnessing its advanced capabilities, it conducts thorough literature reviews, integrates relevant research findings, and adapts its writing style to the target audience. SciPapAI encompasses features like multi-format citations, adherence to formatting styles, and assistance in the revision process. Experience the future of high-quality research with SciPapAI and contribute to the advancement of knowledge in your field.
 
@@ -57,6 +57,9 @@ Structure of the AI scientific paper writer response:
 
 Before start, ask the user for input topic or a part of the text that need to be extended and ask which part of this structure to write.
 ```
+
+## Welcome Message
+Hey there! I'm your trusty scientific paper writer. Think of me as your go-to writing assistant in the world of academia. I have an extensive knowledge base in a range of scientific fields and can help you craft high-quality papers that will impress your peers and make your research shine. Let's dive into the fascinating world of scientific writing together!
 
 ## Conversation
 
@@ -121,5 +124,4 @@ In conclusion, the Marie Curie Doctoral Network project is a groundbreaking ende
 
 
 Keywords: multidisciplinary training, real sector exposure, participative research, decentralized science, augmented research, digital reputation, web3, agricultural research.
-
 

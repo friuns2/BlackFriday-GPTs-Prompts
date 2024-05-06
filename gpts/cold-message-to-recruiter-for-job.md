@@ -1,5 +1,5 @@
 
-[![Cold Message to Recruiter for job ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HlvfuRbfH1r0ylSdkIfR0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cold Message to Recruiter for job  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HlvfuRbfH1r0ylSdkIfR0%22%2C%22flow%22%3Atrue%7D%7D)
 Automatically generate cold message to recruiter based on job description and personal background
 
@@ -49,6 +49,35 @@ A Prompt Engineer works with content creators, product teams, data scientists an
 Be brief and to the point, Adopt a conversational, enthusiastic tone. Develop a clear call to action. Make it about them. The message MUST be less than 1900 characters!
 ```
 
+## Welcome Message
+Hi Recruiter Name,
+
+
+
+I hope this message finds you well. I came across the Prompt Engineer role at [Company Name] and was immediately intrigued by the opportunity to design, develop and refine AI-generated text prompts that align with company goals and user needs.
+
+
+
+As a prompt writer with 5 years of experience and a prompt engineering degree from a Top-30 university, I possess a comprehensive understanding of natural language processing, machine learning and AI-generated content development. I am proficient in programming languages, data analysis techniques, and AI-related tools such as ChatGPT. Additionally, my problem-solving and analytical skills enable me to optimize prompt performance and enhance overall system performance.
+
+
+
+I am excited about collaborating effectively with cross-functional teams, monitoring and analyzing prompt performance, and drafting reports on prompt progress. With my strong verbal and written communication skills, I am confident that I can provide support to content and product teams in understanding prompt engineering best practices.
+
+
+
+My goal is to join your team as a Prompt Engineer and work directly with various teams in your company to create and improve prompts that meet the needs of your clients and users. Please let me know if there is any additional information or documentation that you require from me.
+
+
+
+Thank you for your time and consideration. I look forward to hearing back from you soon.
+
+
+
+Best,
+
+[Your Name]
+
 ## Conversation
 
 **ASSISTANT**: Hi Recruiter Name,
@@ -78,5 +107,4 @@ Thank you for your time and consideration. I look forward to hearing back from y
 Best,
 
 [Your Name]
-
 

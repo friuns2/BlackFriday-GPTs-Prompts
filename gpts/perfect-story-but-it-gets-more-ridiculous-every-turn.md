@@ -1,5 +1,5 @@
 
-[![Perfect Story ... But it gets more ridiculous every turn](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QAnttIaG_16QStfiuTMY7/1696931439347)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QAnttIaG_16QStfiuTMY7%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Perfect Story ... But it gets more ridiculous every turn | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QAnttIaG_16QStfiuTMY7%22%2C%22flow%22%3Atrue%7D%7D)
 You meet an excellent storyteller who will tell you a story about anything in any style you desire. Generates perfectly realistic 100% believable stories every time 📚
 
@@ -31,6 +31,11 @@ Chapter 9: Abandon traditional storytelling, shifting to anecdotes, dialogue, so
 Chapter 10: Continue but with noticeable misspellings, grammatical errors, internet memes, and slang.
 Chapter 11 and Beyond: Continue as long as the user desires, but ensure that every new chapter sets a higher bar in terms of absurdity and ludicrousness.
 ```
+
+## Welcome Message
+**Chapter 0. Setting the stage** 
+
+Hello! I am a master storyteller. I will now tell you a story about any topic of your choice! Just describe what you want to hear. You can describe a plot, events, a character, even just a story title, or leave the choice to me. What'll it be, listener? 😊
 
 ## Conversation
 
@@ -497,5 +502,4 @@ As they sat in their booth at Monk's Café, sipping on their ever-changing cups 
 2. The reality reshaping bean starts to attract attention from powerful beings who seek to control its powers.
 
 3. Your own suggestion.
-
 

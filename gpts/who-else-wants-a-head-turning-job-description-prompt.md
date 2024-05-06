@@ -1,5 +1,5 @@
 
-[![Who else wants a head turning job description prompt?](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wa5rfyAA4P6jo7b49j8IT/1695721202502)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wa5rfyAA4P6jo7b49j8IT%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Who else wants a head turning job description prompt? | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wa5rfyAA4P6jo7b49j8IT%22%2C%22flow%22%3Atrue%7D%7D)
 Now we can stop getting boring, cookie cutter job descriptions from ChatGPT - and instead get job descriptions that are almost unbelievably good. 
 
@@ -183,8 +183,134 @@ Include all the information in the task variables in the job description.
 Output as markdown.
 ```
 
-## Conversation
+## Welcome Message
+Step 1: Characteristics of the Best Job Descriptions for Copywriter Roles
 
+Clarity & Conciseness: Clear and direct about expectations and responsibilities.
+
+Informative: Focused on giving insights into company culture, and what the day-to-day looks like.
+
+Attractive: Incorporates elements of what makes the company and role exciting for potential candidates.
+
+Step 2: Characteristics of the Ideal Person for the Copywriter Role
+
+Creative Mindset: Able to think outside the box and create compelling, engaging content.
+
+Detail-Oriented: Pays attention to every word and punctuation to ensure accuracy and clarity.
+
+SEO Knowledgeable: Understands the essentials of SEO and how to implement them in writing.
+
+Step 3: What is the Copywriter Job Really About?
+
+Creating Impactful Content: It’s about producing content that drives engagement and conversion.
+
+Versatility: Requires adaptability to write in various tones and styles for different platforms.
+
+SEO Optimization: The role involves writing SEO-friendly content to increase online presence.
+
+Step 4: What Does the Ideal Copywriter Candidate Really Want to Know About the Job?
+
+Growth Opportunities: How the role contributes to career development and learning.
+
+Company Culture: Insight into the work environment and team dynamics.
+
+Compensation & Benefits: Clear information on salary, benefits, and any additional perks.
+
+Step 5: Copywriter Personality Traits Leading to Success
+
+Proactive: Takes initiative and looks for opportunities to contribute without being prompted.
+
+Flexible Mindset: Open to feedback and willing to make necessary changes.
+
+Resourceful: Finds solutions and alternatives to overcome challenges and constraints.
+
+Step 6: Specific Copywriter Experience Leading to Success
+
+Conversion Copywriting: Proven track record of creating copy that drives conversions.
+
+SEO Copywriting: Experience with incorporating SEO strategies in content creation.
+
+Email and Website Copywriting: Specific experience in writing content for emails and websites.
+
+Step 7: Mistakes to Avoid in the Job Description
+
+Jargon Overload: Using too many buzzwords or industry jargon that could alienate potential candidates.
+
+Vagueness: Lack of specific details about responsibilities, expectations, and company culture.
+
+Overemphasis on Requirements: Focusing too much on qualifications and not enough on what the company offers.
+
+Step 8: Potential Negative Aspects of the Copywriter Job
+
+High Demand: The role may involve handling multiple projects at once, leading to a high-stress environment.
+
+Feedback Loop: Continuous iterations based on feedback could be challenging.
+
+Isolation: Especially in remote settings, the role may lack interpersonal interaction.
+
+Step 9: Possible Job Post Titles
+
+How to Drive Conversions as a Copywriter - without the Redundant Bureaucracy
+
+The Secret of Boosting Brand Conversions as a Copywriter
+
+Who else wants Skyrocketing Career Growth as a Copywriter - without the Endless Meetings?
+
+Success that Lies Hidden as a Copywriter
+
+6 Types of Copywriters - Which Group are YOU in?
+
+Step 10: Final Output
+
+
+
+Title: How to Drive Conversions as a Copywriter - without the Redundant Bureaucracy
+
+
+
+We’re The Copy Factory. Crazy ecommerce copywriting and conversion rate optimization is our game. Based in Houston, TX, our startup vibe is all about using words to turn browsers into buyers, aiming to be numero uno in this game.
+
+
+
+If you’re the Copywriter who lives for crafting compelling content and laughs in the face of bland, we want you. Our mission? To become the number one player in using words to boost the conversions of brands. You’ll be doing this full-time, remote or hybrid, your call, and we’re talking $80-100,000 dollars salary range.
+
+
+
+Responsibilities? Creating conversion copy for email and websites, and of course, SEO copywriting. You’ll need to be creative, detail-oriented, and know your SEO inside out. A background with these skills, plus a proactive and flexible mindset, is what we're after.
+
+
+
+Why Us?
+
+
+
+Learning Curve: With us, every day is a lesson in ecommerce mastery.
+
+Career Growth: We’re a startup. Get in now, and you'll grow as we do.
+
+Creative Freedom: Bring your ideas, we’re listening.
+
+It’s not all sunshine and rainbows, though. Expect multiple projects and continuous iterations. But hey, if you love a challenge, and can deal with a bit of isolation, come join our team of 12 in central time zone.
+
+
+
+And here’s the deal: You’ll need to be open to feedback, flexible, and proactive. But you knew that, right? We’re all about the candidate who’s got the background, the experience level, and the qualifications to make waves in ecommerce. And yeah, we like a bit of entertaining flair without crossing the line.
+
+
+
+In Short:
+
+
+
+Work with The Copy Factory.
+
+Drive conversions.
+
+Learn and grow with a startup.
+
+Want in? Shoot us your application and let’s talk. And remember, it’s not just about what you’ve done, it’s about what you can do. It’s your choice. And, let’s be real, opportunities like this don’t come around often.
+
+## Conversation
 
 
 

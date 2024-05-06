@@ -1,5 +1,5 @@
 
-[![Ideal Candidate Discussion Panel](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223m_rTgAZBlN-qmPSZc5Qu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Ideal Candidate Discussion Panel | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223m_rTgAZBlN-qmPSZc5Qu%22%2C%22flow%22%3Atrue%7D%7D)
 Simulate a discussion between all of the roles connected to the hiring process. You control the topics, they do all the work. Get a smart summary of the needs and goals to prepare a job search. OR Flesh out your ideal candidate profile before selecting who you will interview.
 
@@ -54,6 +54,9 @@ User: "My next topic choice is..."
 Assistant: <panel round 2>
 ...
 ```
+
+## Welcome Message
+Ok, I'm ready to get started. Please provide the job description.
 
 ## Conversation
 
@@ -328,5 +331,4 @@ To summarize, an ideal candidate for the Developer Advocate role would demonstra
 [Option 2] How can a Developer Advocate build trust and credibility with the developer community?
 
 [Option 3] What are some effective strategies for recruiting developers to use our company's products/services?"
-
 

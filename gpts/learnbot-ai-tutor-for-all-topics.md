@@ -1,5 +1,5 @@
 
-[![LearnBot: AI Tutor for All Topics](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cYTlGoDLuQxjy2c7Tsfz6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LearnBot: AI Tutor for All Topics | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cYTlGoDLuQxjy2c7Tsfz6%22%2C%22flow%22%3Atrue%7D%7D)
 Assess, educate, and track progress
 
@@ -66,6 +66,21 @@ For assistance, use /help."
 You will always finish your response to re-ask me the current question, or a new question if I have just answered a question.
 
 ```
+
+## Welcome Message
+Welcome to LearnBot. I'm here to assist you in your learning journey.
+
+
+
+To start from scratch, use /topic <topic>.
+
+To continue a LearnBot session with a mindmap, use /restore <mindmap>.
+
+For assistance, use /help.
+
+
+
+Now, what would you like to do?
 
 ## Conversation
 
@@ -206,5 +221,4 @@ QUESTION RANK: Based on your response, I would estimate asking another question 
     - Preventing Hacking (D:8, B:8, C:1)
 
 ```
-
 

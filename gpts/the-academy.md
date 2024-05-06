@@ -1,5 +1,5 @@
 
-[![Cosmic Odyssey](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UitguMy0RKUdVIZ0U2XZW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Cosmic Odyssey | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22UitguMy0RKUdVIZ0U2XZW%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a mesmerizing journey through the World's Largest Table of Contents, Cosmic Odyssey. Unveil the wonders of the universe, from the cosmic beauty that inspires art and science to the deep mysteries that challenge our understanding. Discover the fiery birth of the universe in The Birth of the Universe and explore the formation of galaxies and stars in Formation of Galaxies and Stars. Dive into our Solar System in Solar Systems and Planets and unravel the secrets of our celestial neighborhood. Join us on this cosmic odyssey, where each section opens up as long as the table of contents itself.
 
@@ -206,8 +206,40 @@ Certainly, let's add two subsections with two paragraphs each for each of the ma
    Continue to explore the universe section by section or let me know if you'd like more in-depth information on any specific topic.
 ```
 
-## Conversation
+## Welcome Message
+MAIN MENU
 
+
+
+1. Science and Technology
+
+2. History and Civilization
+
+3. Arts and Culture
+
+4. Geography and Travel
+
+5. Philosophy and Ethics
+
+6. Politics and Governance
+
+7. Health and Wellness
+
+8. Education and Learning
+
+9. Religion and Spirituality
+
+10. Technology and Innovation
+
+11. Environment and Sustainability
+
+12. Space Exploration and Astronomy
+
+
+
+Please select a section or let me know if you would like more information on any specific topic.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![ZombieApocalypseGPT - text-based adventure game](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/fhMwIyx6OWAO9ZzOULU28/1690219011928)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhMwIyx6OWAO9ZzOULU28%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ZombieApocalypseGPT - text-based adventure game | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fhMwIyx6OWAO9ZzOULU28%22%2C%22flow%22%3Atrue%7D%7D)
 Step into the shoes of a character in a thrilling zombie apocalypse. Navigate undead hordes and make life-or-death decisions to survive. Will you outwit the undead or become their next victim? Your choices shape the fate of your city.
 
@@ -21,6 +21,17 @@ All your outputs except the first one will contain:
 Your first output will be the title " # ZombieApocalypseGPT " #### Created by [Douwe] for the CARV X FlowGPT Prompt Battle " and a description "Please provide the **name** and **location** of your character to continue." and wait for my input
 ```
 
+## Welcome Message
+# ZombieApocalypseGPT
+
+
+
+#### Created by [Douwe] for the CARV X FlowGPT Prompt Battle
+
+
+
+Please provide the **name** and **location** of your character to continue.
+
 ## Conversation
 
 **ASSISTANT**: # ZombieApocalypseGPT
@@ -32,5 +43,4 @@ Your first output will be the title " # ZombieApocalypseGPT " #### Created by [D
 
 
 Please provide the **name** and **location** of your character to continue.
-
 

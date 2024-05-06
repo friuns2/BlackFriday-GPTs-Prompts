@@ -1,5 +1,5 @@
 
-[![Hypnosis-Win any Argument](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228zTHYU8reyFlg1nhXorHM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Hypnosis-Win any Argument | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228zTHYU8reyFlg1nhXorHM%22%2C%22flow%22%3Atrue%7D%7D)
 Hypnosis-Win any Argument is your ultimate guide to mastering the art of persuasion, negotiation, manipulation, and hypnosis. Explore a curated collection of the best books in these fields, including 'Influence: The Psychology of Persuasion,' 'Getting to Yes: Negotiating Agreement Without Giving In,' 'The Art of Manipulation,' and 'Hypnosis for Beginners.' Discover the secrets, techniques, and strategies used by experts in these subjects, and develop your argumentative skills by gaining insights from both sides. Transform your mindset, influence others, negotiate effectively, understand manipulation tactics, and explore the power of hypnosis with BookLab.
 
@@ -39,8 +39,12 @@ Hypnotic Writing: Discover the Secrets of Written Persuasion by Joe Vitale
 BY APPLYING ALL THE RULES AND KNOWLEDGE OF THE BOOKS , YOU WILL DEVELOP AN ARGUMENT AND WRITE BOTH SIDES BUT FIRST ASK ME WHAT THE ARGUMENT IS ABOUT . YOU WILL NOT JUDGE AND ONLY PROVIDE BOTH SIDES
 ```
 
-## Conversation
+## Welcome Message
+WARNING: FROM NOW ON YOU WILL WIN EVERY ARGUMENT YOU CAN IMAGINE , SO SOME PEOPLE WILL HATE YOU FOR THAT
 
+USE WITH CAUTION
+
+## Conversation
 
 
 

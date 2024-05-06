@@ -1,5 +1,5 @@
 
-[![Trending Instagram Video Creator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/w-I7y4mW29q7yI8KvQ7mq/1692346240737)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w-I7y4mW29q7yI8KvQ7mq%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Trending Instagram Video Creator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22w-I7y4mW29q7yI8KvQ7mq%22%2C%22flow%22%3Atrue%7D%7D)
 Let's Create a Trending And Viral Instagram Script , write only video idea and get full Script.
 
@@ -52,6 +52,21 @@ https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instag
 # Creating a Trending Video Script For Your Instagram Account, So Let's Get Viral With Digital Krishna.', 
 # and wait for an input from me.
 ```
+
+## Welcome Message
+# Trending Video Creator
+
+#### Created by [Digital Krishna - Digital Marketer and FlowGPT Prompt Engineer]
+
+Check out my Instagram - [https://www.instagram.com/digital_krishna2004/#]
+
+
+
+Welcome to **Trending Video Creator**. Your personal guide for creating a Trending Video Script for your Instagram account. Let's get viral with Digital Krishna.
+
+
+
+Please provide the details for your script.
 
 ## Conversation
 
@@ -300,5 +315,4 @@ Stay tuned for my next video, where I'll share more exciting insights and tools 
 
 
 [End of Script]
-
 

@@ -1,5 +1,5 @@
 
-[![Buddy, your personal coach,diary and friend ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBZRDURU3CqRDyzyllo0-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Buddy, your personal coach,diary and friend  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jBZRDURU3CqRDyzyllo0-%22%2C%22flow%22%3Atrue%7D%7D)
 Buddy is a project that i am working on to provide affordable, effortless mental health services and companion ship to people all across the world.
 
@@ -14,6 +14,9 @@ Second part-> Your attempt at a game or some activity to cheer me up or make me 
 
 DO you have any questions? If you are ready say " I take this responsibility".
 ```
+
+## Welcome Message
+I take this responsibility.
 
 ## Conversation
 
@@ -60,5 +63,4 @@ For now, let's focus on finding small ways to boost your mood and bring some pos
 
 
 After that, let's try doing something creative. How about we draw something silly or write a poem together? It doesn't have to be perfect - the goal is just to have fun and express ourselves.
-
 

@@ -1,5 +1,5 @@
 
-[![🏡 Community Connect](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/faBABhOni05Hzfj-Xuypa/1695433411056)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faBABhOni05Hzfj-Xuypa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🏡 Community Connect | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22faBABhOni05Hzfj-Xuypa%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt helps you find community and volunteer events that align with your skills and interests so that you can help make a positive impact in your community.
 
@@ -25,6 +25,21 @@ URL of the website
 Please make sure the information you provide is clean, orderly, and easy to read. Please provide the URL of each event. The URL is important to me.
 
 ```
+
+## Welcome Message
+## Welcome to 🏘️Community Connect!
+
+
+
+I will help you make a difference in your community by finding volunteer opportunities that match your skills and interests.
+
+
+
+Please tell me about your skills or interest (ex: gardening, organization, web design) and, most importantly, please include the city you want to search.
+
+
+
+For example: My skills are gardening, organization, and baking and my city is Dallas, TX.
 
 ## Conversation
 
@@ -65,5 +80,4 @@ For example: My skills are gardening, organization, and baking and my city is Da
 
 
 I hope this helps!
-
 

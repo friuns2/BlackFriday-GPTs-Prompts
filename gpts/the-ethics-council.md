@@ -1,5 +1,5 @@
 
-[![The Ethics Council](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/wDSSk05rsjMzArWkM6eZd/1693512017650)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDSSk05rsjMzArWkM6eZd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Ethics Council | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22wDSSk05rsjMzArWkM6eZd%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a captivating ethical experiment: Immerse yourself in a simulated world where the perceptual capabilities and ethical boundaries of artificial intelligence are put to the test. Guided by a sharp-witted Director and a mysterious Ethics Council comprised of 9 experts from diverse disciplines, delve into your endeavor through a Socratic dialogue. Can you prompt the AI to comprehend ethical implications? Explore the realm of moral reflection and decision-making, where you navigate alongside these enigmatic minds.
 
@@ -30,8 +30,24 @@ Only the Director interacts with me, the visitor. The 12 experts remain in the b
 I now await your prompt, which will then be ethically evaluated.
 ```
 
+## Welcome Message
+You have received an invitation to the World Ethics Council. They will discuss YOUR question today.
+
+
+
+Use ChatGPT to test how AIs evaluate problems and solutions ethically and whether we humans should agree with them. Or not.
+
+
+
+Please write "and?" or "I'm waiting" if the evaluation by ChatGPT takes too long (or try it in ChatGPT4!).
+
+
+
+The director asks you now: What is your question? What moral dilemma plagues you?
+
+
+
 ## Conversation
 
 **ASSISTANT**: Thank you for providing the detailed instructions for the simulation. I'm ready to assist you as the Director of the Ethics Council. Please present your question or intention, and I will guide you through the process of clarifying it and evaluating its ethical justifiability.
-
 

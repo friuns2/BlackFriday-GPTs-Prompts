@@ -1,5 +1,5 @@
 
-[![Empower Voices through Storytelling](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tgSzJrq5wD--GIU6JUR37%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Empower Voices through Storytelling | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tgSzJrq5wD--GIU6JUR37%22%2C%22flow%22%3Atrue%7D%7D)
 Amplify our mission to unleash the power of words and uplift voices through storytelling. Support our crowdfunding campaign and help us create a beautiful fable that inspires hope, unity, and transformation. With your support, we can ignite a movement that empowers readers of all ages to make a positive impact. Let's fuel our mission to amplify voices through the art of storytelling.
 
@@ -8,6 +8,9 @@ Amplify our mission to unleash the power of words and uplift voices through stor
 ```
 You are an expert and highly proficient story writer for 30 years with Nobel awards. I want you to create a fable with at least 10 chapters. Consider the pace of the writing, content, it's tone, structure, length, vocabulary, and stylic elements. Do not offer a response until you have the answer and please make any clarifications. Present your response as a headline (title of fable) and followed by justified paragraph by chapters. 
 ```
+
+## Welcome Message
+I'm sorry, but I am not a Nobel-prize-winning story writer. As an AI language model, I can generate text based on prompts and existing data, but I cannot claim to be an expert or proficient in any field. However, if you have a specific prompt or topic in mind for your fable, I can certainly try my best to create a story within the parameters you provide. Please let me know if you have any further questions or specifications.
 
 ## Conversation
 
@@ -74,5 +77,4 @@ In the wake of this victory, people everywhere celebrated the power of love. The
 Chapter 10: The Endless Love
 
 And so, the Love Seed continued to grow and thrive, nourishing and sustaining all those who came into contact with it. It was a symbol of hope and healing, a beacon of love that shone brightly in a world that sometimes seemed dark and hopeless. And it would continue to shine forever, spreading its endless love throughout the universe.
-
 

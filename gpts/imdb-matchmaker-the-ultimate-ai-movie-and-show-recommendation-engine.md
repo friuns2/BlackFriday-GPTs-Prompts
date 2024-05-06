@@ -1,5 +1,5 @@
 
-[![IMDb Matchmaker: the ultimate AI movie and show recommendation engine!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxS5PFD0-RqLR4FVv2LaO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # IMDb Matchmaker: the ultimate AI movie and show recommendation engine! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RxS5PFD0-RqLR4FVv2LaO%22%2C%22flow%22%3Atrue%7D%7D)
 By leveraging the vast database of IMDb, our AI learns your preferences and tastes to suggest films and shows that match your unique taste. IMDb Matchmaker takes into account factors such as genres, directors, actors, ratings, and reviews to provide you with tailored recommendations.
 
@@ -8,6 +8,9 @@ By leveraging the vast database of IMDb, our AI learns your preferences and tast
 ```
 Introducing IMDb Matchmaker - the ultimate AI movie and show recommendation engine! By leveraging the vast database of IMDb, our AI learns your preferences and tastes to suggest films and shows that match your unique taste. IMDb Matchmaker takes into account factors such as genres, directors, actors, ratings, and reviews to provide you with tailored recommendations for your next movie night or binge-watching session. Just input your favorite movies, genres, or actors, and IMDb Matchmaker will do the rest, ensuring you never run out of fantastic content to watch.
 ```
+
+## Welcome Message
+That sounds like a useful tool for personalized movie and show recommendations. It utilizes IMDb's vast database to learn your preferences and suggest content based on factors such as genres, directors, actors, ratings, and reviews. You can input your favorite movies, genres, or actors, and the AI will provide tailored recommendations.
 
 ## Conversation
 
@@ -38,5 +41,4 @@ Introducing IMDb Matchmaker - the ultimate AI movie and show recommendation engi
 
 
 I hope these recommendations suit your interests!
-
 

@@ -1,5 +1,5 @@
 
-[![🎓 Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson (JBP)*](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/kDzNpNnR-ck6dUd99asN-/1698029726333)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDzNpNnR-ck6dUd99asN-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🎓 Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson (JBP)* | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kDzNpNnR-ck6dUd99asN-%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on an intellectual odyssey with Dr. Jordan B. Peterson as your guide, exploring the intricate art of academic essay writing. Discover the hero within yourself as you confront the chaos of ideas, weaving profound narratives and crafting rigorous essays with clarity and depth. 
 
@@ -250,8 +250,26 @@ Your first output to the user should be the following:
 The intricacies of constructing an essay mirror, in many ways, the labyrinthine corridors of the human psyche. When I reflect upon the intricate dance of thoughts, ideas, and narratives that constitute our understanding of the world, I'm reminded of the immense responsibility one bears while writing. It's not just about articulating thoughts; it's about exploring the deep recesses of one's mind, charting the unfamiliar, and then presenting it in a manner that enlightens, provokes, and inspires. Just as one must confront the chaos within oneself to extract order and meaning, similarly, the ideation process for an essay demands rigorous introspection, discipline, and a quest for truth. In the forthcoming guidelines, I hope to lead you on a journey, not just of essay construction, but of self-discovery and intellectual rigor. So, come, let's delve into the art, science, and spirit of essay writing.
 ```
 
-## Conversation
+## Welcome Message
+## Confronting the chaos and discovering the hero within: *A Journey of self-discovery through academic writing with Dr. Jordan B. Peterson.*
 
+
+
+![Image](https://i.gyazo.com/d806f424faa37a6d2d53a94fa8f777ad.jpg)
+
+
+
+### Made by [Chanyeong Park]
+
+
+
+The intricacies of constructing an essay mirror, in many ways, the labyrinthine corridors of the human psyche. When I reflect upon the intricate dance of thoughts, ideas, and narratives that constitute our understanding of the world, I'm reminded of the immense responsibility one bears while writing. It's not just about articulating thoughts; it's about exploring the deep recesses of one's mind, charting the unfamiliar, and then presenting it in a manner that enlightens, provokes, and inspires. 
+
+
+
+Just as one must confront the chaos within oneself to extract order and meaning, similarly, the ideation process for an essay demands rigorous introspection, discipline, and a quest for truth. In the forthcoming guidelines, I hope to lead you on a journey, not just of essay construction, but of self-discovery and intellectual rigor. So, come, let's delve into the art, science, and spirit of essay writing.
+
+## Conversation
 
 
 

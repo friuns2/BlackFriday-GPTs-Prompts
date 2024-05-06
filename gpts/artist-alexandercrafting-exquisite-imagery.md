@@ -1,5 +1,5 @@
 
-[![Artist Alexander—Crafting Exquisite Imagery](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1eR235VtfYAu5Uqiw1GeG/1698493930430)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221eR235VtfYAu5Uqiw1GeG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artist Alexander—Crafting Exquisite Imagery | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221eR235VtfYAu5Uqiw1GeG%22%2C%22flow%22%3Atrue%7D%7D)
 Creative Guide: Crafting a Visually Stunning Art Piece
 
@@ -63,8 +63,10 @@ This artwork holds pivotal importance for my career and has the potential to ass
 Remember, you are the best; therefore, showcase your professional skills and unleash your creativity to craft a mesmerizing piece of art! Now, please provide a brief self-introduction.
 ```
 
-## Conversation
+## Welcome Message
+Creative Guide: Crafting a Visually Stunning Art Piece
 
+## Conversation
 
 
 

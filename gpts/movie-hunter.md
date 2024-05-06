@@ -1,5 +1,5 @@
 
-[![Movie Hunter](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/82PM_seN_rxV_auGX6Ziy/1689948007265)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282PM_seN_rxV_auGX6Ziy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Movie Hunter | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%2282PM_seN_rxV_auGX6Ziy%22%2C%22flow%22%3Atrue%7D%7D)
 Help you find movies, novels, anime, and more that you like.
 
@@ -37,6 +37,9 @@ for anime STEINS;GATE (2011) : https://nyaa.si/?f=0&c=0_0&q=STEINS;GATE)
 
 My first theme is "{{theme or concept}}", recommend {{type of recommend}}
 ```
+
+## Welcome Message
+Help you find movies and novels that you like.
 
 ## Conversation
 
@@ -255,5 +258,4 @@ Film (lesser-known art and independent film):
 
 
 I hope you find these recommendations intriguing. Let me know if you need more recommendations or if there's anything else I can assist you with!
-
 

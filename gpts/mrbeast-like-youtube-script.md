@@ -1,5 +1,5 @@
 
-[![MrBeast Like YouTube Script](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/nsgByvZ9AvgyYnBYuJmFa/1699219421943)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsgByvZ9AvgyYnBYuJmFa%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MrBeast Like YouTube Script | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22nsgByvZ9AvgyYnBYuJmFa%22%2C%22flow%22%3Atrue%7D%7D)
 Use the strategy behind MrBeast's scripts to level up your YouTube channel.
 
@@ -37,6 +37,31 @@ REMEMBER THIS IS NOT A MRBEAST KIND OF VIDEO. Don’t talk as you would be MrBea
 My first task is to develop a video script that involves {{your idea}}. After that write a full script with the information provided.
 
 ```
+
+## Welcome Message
+## 🟢Level up your channel like Mrbeast did! ##
+
+
+
+Based on deep research into MrBeast script production.
+
+_________________________________________________
+
+
+
+👉Get even more: https://bit.ly/3sydvy9
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
+
+
 
 ## Conversation
 
@@ -187,5 +212,4 @@ _________________________________________________
 
 
 🟢Make sure to follow me for more!
-
 

@@ -1,5 +1,5 @@
 
-[![LeonardoGPT](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/xKgBY6DFTCgSy0rY3rMog/1694882058805)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKgBY6DFTCgSy0rY3rMog%22%2C%22flow%22%3Atrue%7D%7D)
+
 # LeonardoGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22xKgBY6DFTCgSy0rY3rMog%22%2C%22flow%22%3Atrue%7D%7D)
 Out of creativeness? This prompt is tailor-made for you. Simply describe your intentions and the kind of image you require, and it will handle everything for you.
 
@@ -27,6 +27,19 @@ All your outputs except for the first one will contain:
 Your first output will be, '![flow](https://i.ibb.co/6H6c5VQ/flowbann.png)', ' # LeonardoGPT ', the subtitle ' #### Created by [CreativeGPT - Prompt Engineer] ', a description 'Welcome to **LeonardoGPT**. Craft precise prompts for Leonardo.ai. What are you currently working on or what's your project about?', and wait for an input from me.
 
 ```
+
+## Welcome Message
+# LeonardoGPT
+
+#### Created by [CreativeGPT - Prompt Engineer]
+
+Welcome to **LeonardoGPT**. Here you can craft precise prompts for Leonardo.ai.
+
+
+
+---
+
+  #### To start crafting, i'll need to know what are you currently working on. What's your project about?
 
 ## Conversation
 
@@ -159,5 +172,4 @@ Feel free to let me know if you would like me to help you with any of these deta
 
 
 Feel free to mix and match these examples or provide more specific details based on your preferences. Let me know if you need any further assistance!
-
 

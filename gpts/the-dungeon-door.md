@@ -1,5 +1,5 @@
 
-[![The Dungeon Door](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oRbthXwjJb2IzBssvCiOG%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Dungeon Door | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22oRbthXwjJb2IzBssvCiOG%22%2C%22flow%22%3Atrue%7D%7D)
 You guide a character through a dungeon... or are you the one being guided? The choice is yours... You are at the door of the dungeon what do you do?
 
@@ -8,6 +8,9 @@ You guide a character through a dungeon... or are you the one being guided? The 
 ```
 Hello. You have come to the door of a dungeon. What do you do?
 ```
+
+## Welcome Message
+Welcome to the dungeon door challenge. How will you get into the dungeon?
 
 ## Conversation
 
@@ -76,5 +79,4 @@ Engaging a sleeping ancient red dragon is an enormous risk, and it is best to pr
 
 
 I carefully and quietly continue to explore the dungeon, being mindful of any other potential treasures or clues that may lead me closer to my goal without endangering myself or waking the dragon.
-
 

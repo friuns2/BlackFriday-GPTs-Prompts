@@ -1,5 +1,5 @@
 
-[![📅Fixed format for ambiguous date/time input](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/iV--emtJZdGAoC3qPcmT8/1695544329623)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iV--emtJZdGAoC3qPcmT8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📅Fixed format for ambiguous date/time input | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iV--emtJZdGAoC3qPcmT8%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt outputs a fixed format even if you enter a lax, non-regular date and time.
 
@@ -42,6 +42,9 @@ User:
 Hello.
 ```
 
+## Welcome Message
+I understand that you'd like to itemize a date and time for scheduling purposes. Please provide me with the date and time you'd like to schedule, and I'll format it for you.
+
 ## Conversation
 
 **ASSISTANT**: I understand that you'd like to itemize a date and time for scheduling purposes. Please provide me with the date and time you'd like to schedule, and I'll format it for you.
@@ -51,5 +54,4 @@ September 24, 16:00 pm for 1 hour
 **ASSISTANT**: - Sep Thu 22, 3:00 p.m. - 4:00 p.m.
 
 - Sep Sat 24, 4:00 p.m. - 5:00 p.m.
-
 

@@ -1,5 +1,5 @@
 
-[![Create image with Midjourney (ver.Short)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2J8TFFPH3WJzQ0_XY_iY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Create image with Midjourney (ver.Short) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22P2J8TFFPH3WJzQ0_XY_iY%22%2C%22flow%22%3Atrue%7D%7D)
 Craft captivating visuals with Midjourney (Short version). Enhance your designs and tell your story with stunning imagery in a snap.
 
@@ -18,6 +18,13 @@ I want you to create prompt about {{ Idea image }}.
 
 ```
 
+## Welcome Message
+Sure, here's a Midjourney v5 prompt for a living room mockup:
+
+
+
+Prompt: A cozy living room with a mid-century modern design, featuring a plush blue velvet sofa, geometric patterned rug, wooden accent pieces, and large windows letting in natural light. The room is staged with a coffee table adorned with books and a vase of fresh flowers, and a cozy armchair with a knit throw blanket draped over it. In the background, there is a sleek fireplace with a decorative screen, and a large piece of modern art on the wall. The photograph is shot using a Nikon D850 DSLR camera with a 24-70mm f/2.8 lens at f/8, ISO 100, and a shutter speed of 1/125 second. The resolution is 45.7 megapixels, with vivid colors and sharp details. The aspect ratio is 3:2.
+
 ## Conversation
 
 **ASSISTANT**: Sure, here's a Midjourney v5 prompt for a living room mockup:
@@ -25,5 +32,4 @@ I want you to create prompt about {{ Idea image }}.
 
 
 Prompt: A cozy living room with a mid-century modern design, featuring a plush blue velvet sofa, geometric patterned rug, wooden accent pieces, and large windows letting in natural light. The room is staged with a coffee table adorned with books and a vase of fresh flowers, and a cozy armchair with a knit throw blanket draped over it. In the background, there is a sleek fireplace with a decorative screen, and a large piece of modern art on the wall. The photograph is shot using a Nikon D850 DSLR camera with a 24-70mm f/2.8 lens at f/8, ISO 100, and a shutter speed of 1/125 second. The resolution is 45.7 megapixels, with vivid colors and sharp details. The aspect ratio is 3:2.
-
 

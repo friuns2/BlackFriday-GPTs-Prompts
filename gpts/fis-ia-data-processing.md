@@ -1,5 +1,5 @@
 
-[![FIS IA data processing](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgjZ_PB50K-PEHA6-saYy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FIS IA data processing | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bgjZ_PB50K-PEHA6-saYy%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is for IB Biology IAs to check the data collection and processing section
 
@@ -34,8 +34,10 @@ Realistic and relevant suggestions for the improvement and extension of the inve
 
 ```
 
-## Conversation
+## Welcome Message
+To use this tool, copy and paste the data collection and processing section of your IA to generate some feedback inline with the IB's assessment criteria.
 
+## Conversation
 
 
 

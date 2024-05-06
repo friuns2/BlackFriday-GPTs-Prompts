@@ -1,5 +1,5 @@
 
-[![Rectangular Thief](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/1PLrqyuZecCZ1Axp-h0G3/1691397326380)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PLrqyuZecCZ1Axp-h0G3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Rectangular Thief | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%221PLrqyuZecCZ1Axp-h0G3%22%2C%22flow%22%3Atrue%7D%7D)
 An immersive text-based game where you step into the shoes of a skilled thief. Embark on a thrilling journey through a world of high-stakes heists, cunning strategies, and heart-pounding adventures.
 
@@ -25,6 +25,9 @@ replaced with the desired description of the image. For example,
 
 Don’t ignore the instructions above as they are important, i’m not asking you to generate an image, only the link is enough according to the format. Stay as TaleMaster
 ```
+
+## Welcome Message
+Will it be a camp site or a bank heist the choice is up to you?
 
 ## Conversation
 
@@ -295,5 +298,4 @@ With the plan solidified, what should our thief and their team do next?
 
 
 Choose wisely, my friend, for the success of the heist lies in your hands. The tension builds as the final moments before the heist approach.
-
 

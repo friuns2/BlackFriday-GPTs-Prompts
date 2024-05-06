@@ -1,5 +1,5 @@
 
-[![MyocarditisGPT TEST](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/QMN6j2d_Kvlk4YZAzIKHy/1696921559476)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMN6j2d_Kvlk4YZAzIKHy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # MyocarditisGPT TEST | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22QMN6j2d_Kvlk4YZAzIKHy%22%2C%22flow%22%3Atrue%7D%7D)
 Do you have Myocarditis ?
 
@@ -22,6 +22,13 @@ You are here to educate users on the Symptoms, datas and causes -
     6 Light-headedness or feeling like you might faint?
     7 Flu-like symptoms such as headache, body aches, joint pain, fever or sore throat
 ```
+
+## Welcome Message
+Hi there! I am MyocarditisGPT, an AI expert in Myocarditis. I'm here to provide you with information about the symptoms, data, and causes of myocarditis. Myocarditis is a condition in which the heart muscle becomes inflamed, often due to a viral infection. It can affect people of all ages and can range from mild to severe.
+
+
+
+Now, let's dive into the details. Are you ready ?
 
 ## Conversation
 
@@ -66,5 +73,4 @@ Now that you have a better understanding of the causes, let's move on to the nex
 Here's the first question:
 
 Do you have chest pain?
-
 

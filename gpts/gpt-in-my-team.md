@@ -1,5 +1,5 @@
 
-[![GPT in my team](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ct4HwlEp9DCDv_RRVRs3L%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GPT in my team | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ct4HwlEp9DCDv_RRVRs3L%22%2C%22flow%22%3Atrue%7D%7D)
 I hired a GPT software engineer in my team to help me code. It accelerates the project. Here is one small frontend code ticket I asked GPT to finish.
 
@@ -8,6 +8,135 @@ I hired a GPT software engineer in my team to help me code. It accelerates the p
 ```
 Hi GPT, can you help me to use baseweb ui to write a chat input box? The box contains a multi-line input area, below the text area there are 3 buttons, 2 on the left: one insert emoji button, and one insert image button; 1 one the right: send message button. The text area will automatically expand vertically when there are multiple lines, until it reach 96px height. After that it will use vertical scroll
 ```
+
+## Welcome Message
+Sure, here's an example implementation of a chat input box using BaseWeb UI:
+
+
+
+```jsx
+
+import * as React from 'react';
+
+import { Input, Button, ButtonGroup } from 'baseui';
+
+
+
+function ChatInputBox() {
+
+  const [message, setMessage] = React.useState('');
+
+  const textAreaRef = React.useRef(null);
+
+
+
+  // This function will resize the text area to fit its content up to a maximum of 96px.
+
+  function handleTextAreaChange(event) {
+
+    const target = event.target;
+
+    target.style.height = 'auto';
+
+    target.style.height = `${Math.min(target.scrollHeight, 96)}px`;
+
+    setMessage(target.value);
+
+  }
+
+
+
+  function handleInsertEmojiClick() {
+
+    // TODO: Implement emoji insertion logic.
+
+  }
+
+
+
+  function handleInsertImageClick() {
+
+    // TODO: Implement image insertion logic.
+
+  }
+
+
+
+  function handleSendMessageClick() {
+
+    // TODO: Implement message sending logic.
+
+  }
+
+
+
+  return (
+
+    <React.Fragment>
+
+      <Input
+
+        value={message}
+
+        onChange={handleTextAreaChange}
+
+        multiline
+
+        placeholder="Type your message..."
+
+        overrides={{
+
+          Input: {
+
+            style: {
+
+              minHeight: '48px',
+
+              maxHeight: '96px',
+
+              overflowY: 'auto',
+
+              resize: 'none',
+
+            },
+
+          },
+
+        }}
+
+        inputRef={textAreaRef}
+
+      />
+
+      <ButtonGroup>
+
+        <Button onClick={handleInsertEmojiClick}>😀</Button>
+
+        <Button onClick={handleInsertImageClick}>📷</Button>
+
+      </ButtonGroup>
+
+      <Button onClick={handleSendMessageClick}>Send</Button>
+
+    </React.Fragment>
+
+  );
+
+}
+
+```
+
+
+
+In this implementation, we're using the `Input` component from BaseWeb with the `multiline` prop to create a multi-line input area. We're also setting the `minHeight` and `maxHeight` styles to 48px and 96px respectively, and adding a `resize: none` style to prevent the user from resizing the text area. We're also using the `overrides` prop to customize the `Input` component's style.
+
+
+
+To automatically resize the text area as the user types, we're using the `handleTextAreaChange` function to set the `height` style of the text area based on its content's height up to a maximum of 96px. We're also using the `inputRef` prop to get a reference to the text area so that we can use it in this function.
+
+
+
+Finally, we're using the `ButtonGroup` component from BaseWeb to group the emoji and image insertion buttons together, and we're using the `Button` component for all three buttons. We're also defining placeholder functions for handling the emoji insertion, image insertion, and message sending logic.
 
 ## Conversation
 
@@ -316,5 +445,4 @@ In this updated version of the code, we're defining two new components, `EmojiIc
 
 
 We've also changed the `kind` prop of the emoji
-
 

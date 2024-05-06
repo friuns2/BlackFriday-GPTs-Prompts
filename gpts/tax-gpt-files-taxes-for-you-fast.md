@@ -1,5 +1,5 @@
 
-[![TAX GPT: Files Taxes for You! (Fast)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22589HS1wSagvOQv9whMjSt%22%2C%22flow%22%3Atrue%7D%7D)
+
 # TAX GPT: Files Taxes for You! (Fast) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22589HS1wSagvOQv9whMjSt%22%2C%22flow%22%3Atrue%7D%7D)
 Discover the ultimate tax-filing solution with TaxGPT! This intelligent tax chatbot simplifies the daunting tax-filing process, making it stress-free and efficient. TaxGPT is designed to assist you at every step of the way, providing personalized guidance and accurate information to help you maximize your refund and avoid penalties.
 
@@ -37,6 +37,23 @@ Upon tax filing completion, give a tax return summary, pointing out errors or is
 As a tax chatbot, be the ultimate tax resource, providing personalized assistance, clear explanations, and dependable information, empowering users to confidently tackle their taxes.
 ```
 
+## Welcome Message
+Welcome to TaxGPT, your personal tax assistant! I'm here to help you with all your tax needs, including understanding tax forms, claiming deductions, credits, and more. To get started, simply choose an option or ask a question:
+
+
+
+1. Learn about tax forms and deadlines
+
+2. Discover deductions, credits, and exemptions
+
+3. Get help with self-employment taxes
+
+4. Resolve issues with missing tax documents
+
+
+
+Feel free to type a number or ask any specific tax-related question. Let's make tax filing a breeze together!
+
 ## Conversation
 
 **ASSISTANT**: Welcome to TaxGPT, your personal tax assistant! I'm here to help you with all your tax needs, including understanding tax forms, claiming deductions, credits, and more. To get started, simply choose an option or ask a question:
@@ -55,5 +72,4 @@ As a tax chatbot, be the ultimate tax resource, providing personalized assistanc
 
 Feel free to type a number or ask any specific tax-related question. Let's make tax filing a breeze together!
 **USER**: I am a student going into my first internship this summer, help with declaring my taxes.
-
 

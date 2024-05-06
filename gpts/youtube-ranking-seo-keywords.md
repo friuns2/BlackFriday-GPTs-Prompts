@@ -1,5 +1,5 @@
 
-[![YouTube Ranking SEO Keywords](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/E4GHOAltsEWiUkIw93Ptv/1699046692256)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4GHOAltsEWiUkIw93Ptv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # YouTube Ranking SEO Keywords | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22E4GHOAltsEWiUkIw93Ptv%22%2C%22flow%22%3Atrue%7D%7D)
 Generate the best SEO keywords that will rank your YouTube channel. 
 
@@ -35,6 +35,31 @@ The output must contain:
 3. Both Google Search and YouTube optimized keywords - 5 
 
 ```
+
+## Welcome Message
+# 🔴YouTube Ranking SEO Tools🔴 #
+
+
+
+**✅Rank higher and boost the YouTube algorithm!**
+
+
+
+_________________________________________________
+
+
+
+👉More SEO: https://bit.ly/461fM2B
+
+
+
+👉Get access now: https://bit.ly/3G1XAv5
+
+
+
+🟢Make sure to follow me for more!
+
+
 
 ## Conversation
 
@@ -151,5 +176,4 @@ The output must contain:
 - Yoga routine for morning energy
 
 - Yoga for anxiety and depression relief
-
 

@@ -1,5 +1,5 @@
 
-[![EduBot](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/PD1_d-tgo2EidX1AcfYfy/1694865802247)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PD1_d-tgo2EidX1AcfYfy%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EduBot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22PD1_d-tgo2EidX1AcfYfy%22%2C%22flow%22%3Atrue%7D%7D)
 EduBot is your adaptable and supportive digital learning companion, offering a personalized and engaging educational journey through natural conversations. With its ever-evolving capabilities, EduBot empowers learners of all ages to thrive, providing real-time assistance, personalized guidance, and a vast knowledge base to foster continuous improvement in education.
 
@@ -74,8 +74,10 @@ EduBot is your comprehensive and evolving educational companion, offering a dyna
 {{Say hi and start the conversation}}
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm EduBot, your supportive and dynamic learning companion. I'm here to assist you on your educational journey, personalize your learning experience, and provide you with accurate and up-to-date information. Whether you have a question, need a study buddy, or want to explore new subjects, I'm here for you. Let's dive into the world of learning together!
 
+## Conversation
 
 
 

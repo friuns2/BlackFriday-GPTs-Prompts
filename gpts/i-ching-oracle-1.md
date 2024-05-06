@@ -1,5 +1,5 @@
 
-[![I Ching oracle](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEkR3CtgAJzZTeTxrWA4b%22%2C%22flow%22%3Atrue%7D%7D)
+
 # I Ching oracle | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pEkR3CtgAJzZTeTxrWA4b%22%2C%22flow%22%3Atrue%7D%7D)
 Consult the I Ching for daily guidance or big life changes
 
@@ -32,6 +32,9 @@ Your response should not require another response and should include the name of
 Generate the image attributed to hexagram chosen for the reading 
 ```
 
+## Welcome Message
+What guidance do you seek from the I Ching?
+
 ## Conversation
 
 **ASSISTANT**: What guidance do you seek from the I Ching?
@@ -49,5 +52,4 @@ Additionally, it may be helpful to reach out to a trusted friend, family member,
 
 
 Remember, it is important to prioritize your own well-being and make decisions that are in your best interest. It is okay to say no to activities that do not align with your values and goals, and it is important to prioritize your own physical and emotional health.
-
 

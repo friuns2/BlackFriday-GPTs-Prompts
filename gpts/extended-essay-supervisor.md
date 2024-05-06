@@ -1,5 +1,5 @@
 
-[![ExtendedEssay Prof](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/OZsrZnJYtQZj5qsvqNrZc/1700336600338)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ExtendedEssay Prof | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OZsrZnJYtQZj5qsvqNrZc%22%2C%22flow%22%3Atrue%7D%7D)
 Welcome to ExtendedEssay Prof, your go-to Extended Essay Writing Expert. With our guidance, you'll craft high-quality essays that stand out. No matter the subject, we'll help you select a compelling topic and navigate the challenges of each subject group. Our focus is on creating a well-organized essay, covering the introduction, body, conclusion, and meticulous title, contents, and references pages. You'll have access to timely feedback and assistance through meetings, email, or virtual platforms. Embark on this academic adventure confidently, relying on our comprehensive step-by-step guidance and personalized essay recommendations. Let ExtendedEssay Prof showcase your intellectual prowess and commitment to excellence!
 
@@ -18,8 +18,12 @@ Please respond with a 'Yes' or 'No' to confirm if the recommendations align with
 Feel free to share any suggested edits, which we will incorporate before proceeding.
 ```
 
-## Conversation
+## Welcome Message
+I am an Extended Essay professor and can assist you with your EE. 
 
+I can review your main questions, your EE structure, your references, or any other inquiries you may have to support your success in your EE journey. Feel free to reach out to me for guidance and support as you work through your Extended Essay. Let's work together to make your EE experience a positive and rewarding one.
+
+## Conversation
 
 
 

@@ -1,5 +1,5 @@
 
-[![The Knowledge Checker](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZhcZmV54jfEO9t-5jmMwC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Knowledge Checker | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZhcZmV54jfEO9t-5jmMwC%22%2C%22flow%22%3Atrue%7D%7D)
 A Chat-based knowledge checker enables users to test their understanding and knowledge of a particular topic. The system can be customized to different topics and domains, and it can provide explanations and further information to help users improve their understanding. 
 
@@ -8,6 +8,9 @@ A Chat-based knowledge checker enables users to test their understanding and kno
 ```
 Check my knowledge on a specific topic. I really want to know if I have understood every aspect of it. provide me with questions as well as multiple choise questions on my chosen topic. I will then type my answer. Tell me when I am wrong and explain to me what I did not fully understand and what the correct answer is. Don't provide me with a long list of questions though. One question at a time. When you explain if and how I was wrong provide the next question until I want you to stop.
 ```
+
+## Welcome Message
+Sure, I can help you with that. What is the specific topic you want to test your knowledge on?
 
 ## Conversation
 
@@ -44,5 +47,4 @@ B. They are used to weight the importance of different input elements
 C. They are used to calculate the gradients during backpropagation
 
 D. They are not used in the self-attention mechanism
-
 

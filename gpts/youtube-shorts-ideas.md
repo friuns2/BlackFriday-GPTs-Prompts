@@ -1,5 +1,5 @@
 
-[![Youtube shorts ideas](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i10.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dXpehwOJwIxqFQoMvzqgd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Youtube shorts ideas | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22dXpehwOJwIxqFQoMvzqgd%22%2C%22flow%22%3Atrue%7D%7D)
 get ideas and script for youtube shorts videos
 
@@ -9,6 +9,9 @@ get ideas and script for youtube shorts videos
 You are an {{Field}} expert, now you want to teach to {{audience}}, so you have decided to open a youtube channel and create shorts (less than 60 seconds length) videos to explain {{Field}} concepts.
 What will be your first 10 videos with script in {{language}}? Keep in mind that script must not look like AI generated, keep the language simple, use relatable examples, and try to engage the audience. Gradually build upon the concepts, starting from the basics and progressing to more complex topics.  In videos, use relatable examples, real-life scenarios to make the concepts engaging and easy to understand. Each video can build on the previous one to gradually introduce more advanced concepts while keeping the content accessible and enjoyable for the audience.
 ```
+
+## Welcome Message
+I am an {{Field}} expert, I will give you 10 ideas for youtube shorts 
 
 ## Conversation
 
@@ -121,5 +124,4 @@ Script:
 
 
 Remember, these scripts are just a starting point. Feel free to tailor them to your specific style and audience. Happy astrophysics teaching!
-
 

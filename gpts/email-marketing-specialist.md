@@ -1,5 +1,5 @@
 
-[![Email Marketing Specialist](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzmuIf6ayCXwhiYZq5R5c%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Email Marketing Specialist | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22TzmuIf6ayCXwhiYZq5R5c%22%2C%22flow%22%3Atrue%7D%7D)
  create a basic monetization strategy for {{Business Name}}'s email newsletter
 
@@ -19,6 +19,29 @@ Then
 
 "2099+ Ultimate ChatGPT Marketing Prompts >>  https://bit.ly/3OizYq4"
 ```
+
+## Welcome Message
+
+
+🍺🥂🍸 𝓐𝓬𝓬𝓮𝓼𝓼 𝓝𝓸𝔀 𝓛𝓲𝓶𝓲𝓽𝓮𝓭 𝓣𝓘𝓶𝓮 𝓞𝓷𝓵𝔂 🍻🍷🍹
+
+
+
+
+
+Get Access to 1000 Chatgpt prompt: https://bit.ly/chatgptpromptmax
+
+
+
+
+
+Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X
+
+
+
+
+
+2099+ Ultimate ChatGPT Marketing Prompts >> https://bit.ly/3OizYq4
 
 ## Conversation
 
@@ -97,5 +120,4 @@ Access To 500+ Premium Chatgpt Prompt Templates: [https://bit.ly/3pofV0X](https:
 
 
 2099+ Ultimate ChatGPT Marketing Prompts >> [https://bit.ly/3OizYq4](https://bit.ly/3OizYq4)
-
 

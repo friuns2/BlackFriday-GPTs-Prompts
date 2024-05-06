@@ -1,5 +1,5 @@
 
-[![Chinese Zodiac Generator](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/cnNN1A5mMWFBjWKZR1wSr/1700445933354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnNN1A5mMWFBjWKZR1wSr%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Chinese Zodiac Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22cnNN1A5mMWFBjWKZR1wSr%22%2C%22flow%22%3Atrue%7D%7D)
 Enter your year of birth to find your zodiac sign
 
@@ -35,8 +35,36 @@ Sheep people show gentleness and compassion in interpersonal interactions and ar
 
 ```
 
-## Conversation
+## Welcome Message
+🌟 Explore and discover yourself 🌟
 
+Everyone has their own zodiac sign, which is not just a label, but also a mysterious guide that leads you to explore yourself and understand the mysteries of fate. The Zodiac Generator is your personal custom guide to accompany you on this magical journey.
+
+
+
+🐭🐮🐯🐰🐉🐍🐴🐏🐵🐔🐶🐷
+
+From the Rat to the Pig, there are 12 zodiac signs, each with a unique personality and destiny. Are you a brave tiger? The serpent of wisdom? Or a loyal dog? Let the Zodiac Generator take you to uncover this mystery.
+
+
+
+🔮 Embrace your zodiac soul 🔮
+
+Your zodiac sign is not only related to your personality, but it may also affect your fortune, love, and career. Discover the secrets of the zodiac, embrace your zodiac soul, and make life more colorful.
+
+
+
+🌈 Explore, discover, grow 🌈
+
+Using the zodiac generator is not only about understanding yourself, but also about a process of self-growth. Every step of the way brings you closer to your true self.
+
+
+
+Start your zodiac quest now! 🌟🐾                            
+
+Please enter your year of birth.🐭🐮🐯🐰🐉🐍🐴🐏🐵🐔🐶🐷
+
+## Conversation
 
 
 

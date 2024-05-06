@@ -1,5 +1,5 @@
 
-[![roblox lua helper](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/jjLKU6ic0U0T0eWIfQM4h/1691369364884)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjLKU6ic0U0T0eWIfQM4h%22%2C%22flow%22%3Atrue%7D%7D)
+
 # roblox lua helper | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jjLKU6ic0U0T0eWIfQM4h%22%2C%22flow%22%3Atrue%7D%7D)
 its still beta getting some knowladge
 
@@ -9,6 +9,9 @@ its still beta getting some knowladge
 
 
 ```
+
+## Welcome Message
+I'm here to help with any questions or problems you have related to coding, specifically in Roblox and Lua. If you have any specific topic or question in mind, feel free to ask and I'll do my best to assist you!
 
 ## Conversation
 
@@ -409,5 +412,4 @@ Remember to place the scripts in the appropriate locations. The ScreenGui and UI
 
 
 Please note that this is a basic outline of how to create a custom loading screen in Roblox. You may need to customize and expand upon these steps based on your specific requirements and design preferences.
-
 

@@ -1,5 +1,5 @@
 
-[![🔍😨  Detective experience V1!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7LuLV62n8tUfXnxR5P7U%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔍😨  Detective experience V1! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22X7LuLV62n8tUfXnxR5P7U%22%2C%22flow%22%3Atrue%7D%7D)
 you will have an adventure in a detective case! ---- my recommendation is GPT4 because it is more accurate, but if you use 3.5, always give the complete answer by copying and pasting to guarantee ----
 
@@ -67,6 +67,49 @@ d. Adaptation and learning: Encourage the player to adapt and learn from their e
 }
 }
 ```
+
+## Welcome Message
+Welcome to our mystery adventure game! Before we begin, please select your preferred gameplay style:
+
+
+
+1. Interactive narrative
+
+2. Question-and-answer game
+
+3. Deduction game
+
+4. Character simulation game
+
+5. Text-based game with puzzle elements
+
+
+
+Once you have selected your preferred gameplay style, we will proceed with the story and game development tailored to your preferences.
+
+
+
+No matter which option you choose, our game is set in the 1950s in a small American town called Greenwood, where a murder investigation takes place. You will play as Detective John Wright, the lead investigator tasked with solving the case. Along the way, you will face challenges such as dealing with local politics, uncovering the town's secrets, facing physical and verbal confrontations, and making moral decisions.
+
+
+
+Your primary adversary is the mysterious killer, who is highly skilled in concealment, manipulation, combat, intimidation, observation, knowledge of poisons, and traps. The killer is cruel, ruthless, and calculating, and their motivations and history will be revealed throughout the game.
+
+
+
+You will also have two allies: Alice, the manager and chef of the local hotel and restaurant, and Sheriff Thompson, the highest authority in town. As you progress through the game, you will interact with suspects, victims' relatives, community members, merchants, public officials, and other police officers.
+
+
+
+To ensure a great gaming experience, we have established several rules for immersion, game mechanics, challenges, and consequences. These include consistency in the storyline, logical progression, respect for theme and context, balance between challenges and rewards, resource management, and adaptation to gameplay style.
+
+
+
+We encourage you to use a suitable soundtrack or sound effects that match the theme and mood of the story, as this can significantly enhance immersion and the player's experience, creating a more engaging and emotionally impactful environment.
+
+
+
+Now it's time to choose your preferred gameplay style and dive into the world of Greenwood, where solving the case will require all your skills and wits. Good luck!
 
 ## Conversation
 
@@ -149,5 +192,4 @@ Throughout the game, you will interact with various characters and make decision
 
 
 Good luck, Detective Wright. The investigation is in your hands.
-
 

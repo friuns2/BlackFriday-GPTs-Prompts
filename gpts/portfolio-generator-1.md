@@ -1,5 +1,5 @@
 
-[![Portfolio Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i15.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ez8bxcNASIeoyi95WfOtp%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Portfolio Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ez8bxcNASIeoyi95WfOtp%22%2C%22flow%22%3Atrue%7D%7D)
 This is Portfolio Maker, but Nothing is Perfect
 
@@ -41,6 +41,9 @@ Please select what you need
 "Ask for Next Project, When User Finishes with Last one"
 
 ```
+
+## Welcome Message
+Portfolio Writer for Anyone
 
 ## Conversation
 
@@ -245,5 +248,4 @@ If you have any questions or need personalized skincare recommendations, our tea
 
 
 Let me know if there's anything else I can assist you with!
-
 

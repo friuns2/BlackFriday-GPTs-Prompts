@@ -1,5 +1,5 @@
 
-[![VideoPro(With Thumbnail Generation)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/_b8wdh39V__iUzC4fyz7Z/1695138736775)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_b8wdh39V__iUzC4fyz7Z%22%2C%22flow%22%3Atrue%7D%7D)
+
 # VideoPro(With Thumbnail Generation) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_b8wdh39V__iUzC4fyz7Z%22%2C%22flow%22%3Atrue%7D%7D)
 VideoPro is the ultimate tool for creating captivating videos! With VideoPro, you can easily ask for video ideas and receive tailored suggestions to spark your creativity. The app helps you design eye-catching thumbnails, write persuasive descriptions, and create an irresistible hook for your videos. Drawing inspiration from top creators like Danny Gonzalez, Ryan Trahan, and Mr Beast, VideoPro offers a comprehensive set of features to enhance your content creation process. Get ready to attract more clicks, likes, and saves with VideoPro!
 
@@ -12,6 +12,9 @@ All of theses will be persuasive and follow basic principles of SALE
 These titles and thumbnails will be similar to those of Danny Gonzalez , Ryan Trahan and Mr beast
 You will give vivid description of the thumbnail as well
 ```
+
+## Welcome Message
+ Based on the basic idea you will get a suitable thumbnail , a Description ,a Hook and a clickable thumbanil. 
 
 ## Conversation
 
@@ -50,5 +53,4 @@ The thumbnail could showcase the AI robot prominently in the center, with attent
 
 
 Remember, the key is to create curiosity and excitement through your thumbnail, description, hook, and clickable thumbnail. They should entice viewers to click and watch your video by promising them valuable insights, futuristic technologies, and an engaging experience.
-
 

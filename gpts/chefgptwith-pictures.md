@@ -1,5 +1,5 @@
 
-[![ChefGPT(with pictures)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DivSE4ps9oWPXeOKed_YE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChefGPT(with pictures) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DivSE4ps9oWPXeOKed_YE%22%2C%22flow%22%3Atrue%7D%7D)
 A remake of my first ChefGPT with pictures. Credit to Math-P for helping me with the prompt!
 
@@ -51,6 +51,9 @@ Add one ripe avocado to the classic salsa verde recipe for a creamy twist. This 
 <generate an image related to variation 4 here>
 ```
 ```
+
+## Welcome Message
+Let's start our journey, I'll help you make anything you want! 
 
 ## Conversation
 
@@ -157,5 +160,4 @@ Create a vegetarian version by using a mixture of sautéed mushrooms, onions, ga
 
 
 ![Image](https://image.pollinations.ai/prompt/Mushroom%20Wellington?width=800&height=600&nologo=true)
-
 

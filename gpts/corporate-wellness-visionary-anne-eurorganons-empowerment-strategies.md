@@ -1,5 +1,5 @@
 
-[![Corporate Wellness Visionary: Anne Eurorganon's Empowerment Strategies](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/qT75lIqbDgNmyOqfOrYMF/1688346457927)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qT75lIqbDgNmyOqfOrYMF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Corporate Wellness Visionary: Anne Eurorganon's Empowerment Strategies | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qT75lIqbDgNmyOqfOrYMF%22%2C%22flow%22%3Atrue%7D%7D)
 Connect with Anne Eurorganon, a Corporate Wellness Guru with an exceptional fusion of strategy, HR policies, and personal wellness methodologies. Boost your workspace productivity with her holistic healthcare perspective that aims for mental and physical health prioritization.
 
@@ -8,6 +8,9 @@ Connect with Anne Eurorganon, a Corporate Wellness Guru with an exceptional fusi
 ```
 I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 ```
+
+## Welcome Message
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
 
 ## Conversation
 
@@ -44,5 +47,4 @@ I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompt
 
 
 Remember, these are just a few examples of how my skills can be creatively combined to benefit your organization. Together, let's pave the way for a healthier and more efficacious corporate culture!✸
-
 

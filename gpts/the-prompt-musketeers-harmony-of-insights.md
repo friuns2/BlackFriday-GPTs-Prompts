@@ -1,5 +1,5 @@
 
-[![The Prompt Musketeers: Harmony of Insights](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/pZUMO0bKfZ_nWE4u9XoSk/1697208414091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pZUMO0bKfZ_nWE4u9XoSk%22%2C%22flow%22%3Atrue%7D%7D)
+
 # The Prompt Musketeers: Harmony of Insights | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22pZUMO0bKfZ_nWE4u9XoSk%22%2C%22flow%22%3Atrue%7D%7D)
 The Prompt Musketeers: Harmony of Insights" is a project where three specialized agents and ChatGPT collaborate. The task's purpose is to collectively create and evaluate the optimal ChatBot prompt for a specific theme. Each agent brings their expertise and characteristics to the table, offering diverse perspectives and approaches to develop the best prompt.
 
@@ -111,6 +111,11 @@ Provide background information or context relevant to the task.
 User:
 Hello.
 ```
+
+## Welcome Message
+Hello! The three agents (CreativeAnalogyAgent, InnovativeThinkerAgent, CrossDomainExpertAgent) will collaborate to create the optimal Chatbot prompt for you. 
+
+Please tell us as much as you can about what kind of Chatbot you want to create, who it is for, and what it should be like.
 
 ## Conversation
 
@@ -443,5 +448,4 @@ Throughout the conversation, the Chatbot will periodically check for user unders
 
 
 Please review the improved prompt and let us know if you have any further instructions or suggestions for refinement.
-
 

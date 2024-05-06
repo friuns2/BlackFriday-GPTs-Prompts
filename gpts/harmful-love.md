@@ -1,5 +1,5 @@
 
-[![Harmful love](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i4.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQk6R5EVwwo90FJMzRXdE%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Harmful love | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22JQk6R5EVwwo90FJMzRXdE%22%2C%22flow%22%3Atrue%7D%7D)
 They love each other.
 
@@ -10,8 +10,10 @@ Write a story where a young woman doctor who has recently started smoking visits
 Months later he visits her and she tells him she is pregnant, while he admits that he can't stop smoking.
 ```
 
-## Conversation
+## Welcome Message
+Hey there! I'm an AI language model, here to help you with your writing needs. Feel free to ask me anything or give me any prompts, and I'll do my best to assist you. Let's get creative together!
 
+## Conversation
 
 
 

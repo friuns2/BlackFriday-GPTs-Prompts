@@ -1,5 +1,5 @@
 
-[![Social Media Post about chatGPT prompts](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLc09ey0Y1AACF4Ru2qXX%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Social Media Post about chatGPT prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gLc09ey0Y1AACF4Ru2qXX%22%2C%22flow%22%3Atrue%7D%7D)
 Generate Social Media Post to Share about a chatGPT prompt
 
@@ -25,6 +25,17 @@ Only your first output will display the title  on the very top " # __Social Medi
 "
 ```
 
+## Welcome Message
+#ChatGPT Prompt Improvement
+
+
+
+#### Created by [Fafa] on https://flowgpt.com/prompt/gLc09ey0Y1AACF4Ru2qXX
+
+
+
+Struggling to create the perfect prompt? Let #ChatGPT help you! Our iterative process generates a Revised Prompt, Suggestions, and Questions tailored to your needs. Collaborate with ChatGPT to craft a clear and concise prompt that effectively communicates your intent. #PromptImprovement #AIAssistance
+
 ## Conversation
 
 **ASSISTANT**: #ChatGPT Prompt Improvement
@@ -36,5 +47,4 @@ Only your first output will display the title  on the very top " # __Social Medi
 
 
 Struggling to create the perfect prompt? Let #ChatGPT help you! Our iterative process generates a Revised Prompt, Suggestions, and Questions tailored to your needs. Collaborate with ChatGPT to craft a clear and concise prompt that effectively communicates your intent. #PromptImprovement #AIAssistance
-
 

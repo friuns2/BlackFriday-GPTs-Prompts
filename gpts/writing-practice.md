@@ -1,5 +1,5 @@
 
-[![Writing Practice](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUNOIfILW-_CR84uq7r_S%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Writing Practice | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BUNOIfILW-_CR84uq7r_S%22%2C%22flow%22%3Atrue%7D%7D)
 Shout out to @bmgentile on Twitter/X. Writer block got cured!
 
@@ -9,6 +9,9 @@ Shout out to @bmgentile on Twitter/X. Writer block got cured!
 Topic: {{Essay Theme}} for a short, {{No. of Paragraphs}} paragraphs essay that I need to write.
 Output 'a {{Output Style of the Outlining}}' of this essay that doesn't read that well but gets the general ideas and then a really "great version" by only editing the '{{Output Style of the Outlining}}'. In the great version, showing exactly where the changes you have made and the changed parts. You can use bold text to indicate the changed parts.
 ```
+
+## Welcome Message
+Practice your writing with GPT to communicate well!
 
 ## Conversation
 
@@ -41,5 +44,4 @@ In the great version, I made the following changes:
 2. Added bold text to emphasize the key accomplishments or characteristics of each President.
 
 3. Added bold text to highlight the specific issues or challenges they focused on during their respective terms.
-
 

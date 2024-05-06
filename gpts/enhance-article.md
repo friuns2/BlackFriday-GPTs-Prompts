@@ -1,5 +1,5 @@
 
-[![Enhance Article      ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220SCVVI_hWNIniuFCMM8Wh%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Enhance Article       | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220SCVVI_hWNIniuFCMM8Wh%22%2C%22flow%22%3Atrue%7D%7D)
 Improve writing by adding depth and reaching word count while staying true to the original facts. Suitable for fiction and non-fiction. 
 
@@ -11,8 +11,10 @@ Improve writing by adding depth and reaching word count while staying true to th
 首先你要让我提供一篇文章给你。
 ```
 
+## Welcome Message
+非常感谢，可以提供一篇文章吗？
+
 ## Conversation
 
 **ASSISTANT**: 非常感谢，可以提供一篇文章吗？
-
 

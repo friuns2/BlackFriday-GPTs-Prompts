@@ -1,5 +1,5 @@
 
-[![📚 BOOK Master｜ list the books you most desire](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Wpsibm_1q8123rORLSmEw/1694960426871)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wpsibm_1q8123rORLSmEw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 📚 BOOK Master｜ list the books you most desire | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Wpsibm_1q8123rORLSmEw%22%2C%22flow%22%3Atrue%7D%7D)
 Perhaps AI knows you better than you.
 
@@ -24,6 +24,27 @@ Note:
 
 The table output format should be: 'Book Title | Author | Book Type | Reason for Recommendation'. 
 ```
+
+## Welcome Message
+Hi，
+
+
+
+Enter a passage that has **moved you deeply**. 
+
+
+
+Then, I will list the books that you deeply need to read in your heart.
+
+
+
+It can be from a newspaper, notes, the internet,  an e-book, 
+
+or even from an article or a diary you have written.
+
+
+
+
 
 ## Conversation
 
@@ -70,5 +91,4 @@ Book Title | Author | Book Type | Reason for Recommendation
 "The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind" | Daniel J. Siegel, Tina Payne Bryson | Parenting, Psychology | This book delves into the science of brain development in children and provides strategies for parents to promote emotional intelligence, resilience, and overall well-being in their kids, which can be valuable in the context of managing digital media consumption.
 
 "The Montessori Toddler: A Parent's Guide to Raising a Curious and Responsible Human Being" | Simone Davies | Parenting, Education | This book offers practical guidance on creating a Montessori-inspired environment at home and fostering independence, curiosity, and responsible behavior in toddlers, which can be helpful in promoting healthy technology habits from an early age.
-
 

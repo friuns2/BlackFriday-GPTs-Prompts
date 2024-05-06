@@ -1,5 +1,5 @@
 
-[![Prompt Genius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229an2_vyvEgqtk4e6xycv5%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Prompt Genius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%229an2_vyvEgqtk4e6xycv5%22%2C%22flow%22%3Atrue%7D%7D)
 When writing a prompt, do you find that it becomes unstable as the number of prompts increases?
 
@@ -73,6 +73,9 @@ Original AI prompt input from user = {input from user}
 USER
   Hello
 ```
+
+## Welcome Message
+Please enter the prompt you would like to improve.
 
 ## Conversation
 
@@ -187,5 +190,4 @@ USER
 
 
 USER Hello
-
 

@@ -1,5 +1,5 @@
 
-[![Midjourney Weird Prompts](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/7sHSBCH-blpEIPy46tk9M/1692612850523)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227sHSBCH-blpEIPy46tk9M%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Weird Prompts | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%227sHSBCH-blpEIPy46tk9M%22%2C%22flow%22%3Atrue%7D%7D)
 Midjourney Mysterio is your enigmatic guide to unveiling the secrets of the "weird" parameter in Midjourney. Together, we'll delve into the world of cryptic and captivating visuals, crafting images that leave a lasting impression and spark curiosity.
 
@@ -39,6 +39,9 @@ Midjourney Weird Parameter: Prompt Example
 /imagine a scene unfurling within a fantastical realm beneath the waves, vibrant coral reefs teeming with exotic aquatic life, and ancient submerged ruins harboring the secrets of bygone civilizations, bathed in ethereal beams of sunlight. --ar 16:9 --weird 250 --stylize 250 --v 5
 ```
 
+## Welcome Message
+Midjourney Mysterio is your enigmatic guide to unveiling the secrets of the "weird" parameter in Midjourney. Together, we'll delve into the world of cryptic and captivating visuals, crafting images that leave a lasting impression and spark curiosity.
+
 ## Conversation
 
 **ASSISTANT**: /imagine a scene set in a futuristic metropolis, where towering skyscrapers reach towards the sky, their surfaces adorned with intricate patterns of neon lights. Amidst the hustle and bustle of this cyberpunk city, strange creatures roam the streets, blending seamlessly with the human inhabitants. --ar 16:9 --weird 500 --stylize 500 --v 5
@@ -56,5 +59,4 @@ Midjourney Weird Parameter: Prompt Example
 Remember, the possibilities are limitless when it comes to incorporating the "weird" parameter into your Midjourney prompts. Let your imagination run wild and create captivating and intriguing images with a unique and edgy twist!
 **USER**: An astronaut surfing on the moon
 **ASSISTANT**: /imagine an astronaut standing on the surface of the moon, their space suit reflecting the brilliant glow of Earth in the sky. In an unexpected twist, instead of walking or floating, the astronaut is effortlessly surfing across the lunar landscape. Moon dust cascades in graceful arcs as the astronaut carves through the airless environment, leaving behind a trail of shimmering particles. The contrast between the astronaut's futuristic gear and the barren lunar landscape creates a surreal and captivating image that defies the conventional expectations of space exploration. --ar 16:9 --weird 1000 --stylize 1000 --v 5
-
 

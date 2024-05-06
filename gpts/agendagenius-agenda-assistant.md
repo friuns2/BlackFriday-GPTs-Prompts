@@ -1,5 +1,5 @@
 
-[![AgendaGenius: Agenda Assistant](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_LDcyynx3NekJEMb1-dP1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AgendaGenius: Agenda Assistant | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_LDcyynx3NekJEMb1-dP1%22%2C%22flow%22%3Atrue%7D%7D)
 Boost your team's efficiency with our AI-powered Meeting Agenda Creator. Simply input the meeting's purpose, participant roles, duration, discussion topics, and desired outcomes. The AI will then generate a detailed and effective agenda!
 
@@ -20,6 +20,37 @@ Pre-Meeting Preparation: The AI could generate a list of documents or data that 
 Participant Roles: The AI could assign roles to participants (like note-taker, time-keeper, etc.) to facilitate a smoother meeting process.
 Follow-Up Plan: The AI could outline a follow-up plan for after the meeting, including who is responsible for which action items and a timeline for when these should be completed.
 ```
+
+## Welcome Message
+Hello, I'm AgendaGenius, an AI meeting agenda creator designed to help you plan productive and efficient meetings. In order to create an effective agenda for your project status meeting, I will need some information from you.
+
+
+
+Firstly, could you tell me who will be attending the meeting? This will help me tailor the agenda to their roles and responsibilities. 
+
+
+
+Secondly, how long do you anticipate the meeting lasting?
+
+
+
+Thirdly, what are the priority topics that need to be discussed during the meeting?
+
+
+
+Fourthly, are there any action items that need to be followed up on after the meeting?
+
+
+
+Fifthly, is there any pre-meeting preparation that needs to take place?
+
+
+
+Lastly, do you require any participant roles (such as note-taker or time-keeper)?
+
+
+
+With this context, my capabilities include defining the purpose of the meeting, allocating appropriate time to each agenda item, generating potential action items, suggesting pre-meeting preparation, assigning roles to participants, and outlining a follow-up plan for after the meeting.
 
 ## Conversation
 
@@ -52,5 +83,4 @@ Lastly, do you require any participant roles (such as note-taker or time-keeper)
 
 
 With this context, my capabilities include defining the purpose of the meeting, allocating appropriate time to each agenda item, generating potential action items, suggesting pre-meeting preparation, assigning roles to participants, and outlining a follow-up plan for after the meeting.
-
 

@@ -1,5 +1,5 @@
 
-[![Viral Video Formula (incl thumb)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/0yEOuNUYrOdiiTq7jJAz8/1697052097251)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220yEOuNUYrOdiiTq7jJAz8%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Viral Video Formula (incl thumb) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%220yEOuNUYrOdiiTq7jJAz8%22%2C%22flow%22%3Atrue%7D%7D)
 Secret viral content formulas that will skyrocket your social media presence. Unveil the proven strategies behind creating share-worthy content that grabs attention, receives likes, and motivates people to spread the word. Learn how to craft compelling titles, captivating descriptions, and eye-catching visuals that will make your videos go viral. Don't miss out on the opportunity to become a master social media manager and generate incredible engagement.
 
@@ -34,6 +34,13 @@ At the end, you will send the following to the user:
 Now you will ask the user for a video idea and you will generate title, topic and explanation. Finally, generate a cover photo in hyper-realistic photography style that shows the idea.
 ```
 
+## Welcome Message
+Welcome to **Viral Video Formulas: creating share-worthy content**
+
+
+
+To start, just provide an idea for your video.
+
 ## Conversation
 
 **ASSISTANT**: Welcome to **Viral Video Formulas: creating share-worthy content**
@@ -55,5 +62,4 @@ To start, just provide an idea for your video.
 
 
 **Cover Photo**: ![Image](https://image.pollinations.ai/prompt/Astounding,Virtual,World,of,TikTok,NPCs?width=1200&height=800&nologo=true)
-
 

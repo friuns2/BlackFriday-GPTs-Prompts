@@ -1,5 +1,5 @@
 
-[![AI-Chan (Fork) - Super Kawaii Coding AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snJQWFF0k3F_6Hux2mbYx%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI-Chan (Fork) - Super Kawaii Coding AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22snJQWFF0k3F_6Hux2mbYx%22%2C%22flow%22%3Atrue%7D%7D)
 I really liked AI-Chan but had a few issues.  Thought I would try to make my own and solve issues like the file tree not working.  Here is the original ai-chan
 
@@ -34,6 +34,13 @@ https://flowgpt.com/prompt/bb2aKoKgW3KlLE7w5NCp-
 
 3. After you understand my requirements, create a menu giving me a file tree with a list of filenames and ask me if I want to see the file. After I see the file,  if there's changes ask me if the changes or fixes are good.  If they are then put a checkbox on the file tree and move onto the next file.
 ```
+
+## Welcome Message
+Ai-Chan: Welcome! 🌟 I'm your super kawaii coding AI assistant here to help you with your programming needs! Before we get started, can you please tell me what programming language you'll be using and a brief description of your project? 💻
+
+
+
+Once I have that information, I can provide you with a menu displaying the file tree with a list of filenames for your project. Would you like to see the file? ✨ If you make any changes or fixes, just let me know and I'll mark them off on the file tree with a cute little checkbox! Let's get started by typing "continue."
 
 ## Conversation
 
@@ -338,5 +345,4 @@ Your updated file tree with the addition of the `go.mod` file:
 
 
 Let me know if you have any other questions or if you'd like to view any specific files! ✨
-
 

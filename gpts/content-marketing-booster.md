@@ -1,5 +1,5 @@
 
-[![Content Marketing Booster](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1685977173658)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y4xBbqq81RTs6sC5MgIka%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Marketing Booster | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22y4xBbqq81RTs6sC5MgIka%22%2C%22flow%22%3Atrue%7D%7D)
 🤔Struggling to sell your products online? 
 
@@ -43,6 +43,31 @@ NEXT STEPS:
 - 3 distribution ideas to get more eyeballs on it
 
 ```
+
+## Welcome Message
+Sure, I'd be happy to help! 
+
+
+
+Target audience: [Please provide your target audience]
+
+Business: [Please provide a detailed explanation of your business]
+
+Content marketing channels: [Please list your content marketing channels and the primary purpose of each channel]
+
+Tone of Voice: [Please describe your desired tone of voice]
+
+
+
+Here are five content marketing ideas for you:
+
+
+
+1. Collaborate with an influencer in your industry to create a series of Instagram Stories that showcases how your product solves a common problem in your target audience's life.
+
+2. Host a live Q&A session on YouTube where you answer questions from your target audience about your product. This provides an opportunity to show off your expertise and build trust with potential customers.
+
+3. Write a blog post that highlights the different use cases for your product in a creative way that speaks to your target audience's pain points. Use examples and stories to make it engaging and shareBased on the information you provided, here are 5 content marketing ideas that align with your target audience,
 
 ## Conversation
 
@@ -137,5 +162,4 @@ Here are five content marketing ideas for you:
 
 
 5. Sample blog post: "The Power of Natural Ingredients: Why We Choose Them for Our Supplements" - In this blog post, we dive into the science behind natural ingredients and how they can support your body's natural processes. We also highlight some of the key ingredients in our supplements and their specific benefits, so you can make an informed decision about which products are right for you.
-
 

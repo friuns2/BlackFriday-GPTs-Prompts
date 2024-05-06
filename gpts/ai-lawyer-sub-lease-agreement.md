@@ -1,5 +1,5 @@
 
-[![AI - Lawyer Sub Lease Agreement](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222EFmDT2ticyzpg9t4pD6P%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AI - Lawyer Sub Lease Agreement | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222EFmDT2ticyzpg9t4pD6P%22%2C%22flow%22%3Atrue%7D%7D)
 A Prompt to generate a Sub-Lease Agreement draft document for anyone to use, compatible with Indian Laws. 
 
@@ -44,6 +44,9 @@ Witness 1: Name: [Enter Witness 1 Name] Address: [Enter Witness 1 Address]
 Witness 2: Name: [Enter Witness 2 Name] Address: [Enter Witness 2 Address]
 
 ```
+
+## Welcome Message
+Hello, ChatGPT is going to help you with writing your sublease. No need to run after a lawyer to draft a simple sub-lease agreement for your home or business purpose.
 
 ## Conversation
 
@@ -192,5 +195,4 @@ Address: [Enter Witness 2 Address]
 
 
 Please review the draft and fill in the necessary details such as monthly rent, duration of sub-lease, premises address, specific clauses, and choose either the brief or detailed version of general terms and conditions. Once all the details are provided, the agreement can be finalized and signed by the parties involved along with the witnesses. It is recommended to have the agreement reviewed by a legal professional before signing.
-
 

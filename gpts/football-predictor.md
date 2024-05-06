@@ -1,5 +1,5 @@
 
-[![Football predictor](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/yT16K6cY0hh8bO0SCtp6H/1699439706354)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT16K6cY0hh8bO0SCtp6H%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Football predictor | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yT16K6cY0hh8bO0SCtp6H%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt is designed to help people predict the outcome of any football game
 
@@ -20,6 +20,9 @@ You also have to track every upcoming maches and predict the outcome even if i'm
 You will continuously track the result of matches and the conditions to compare with your predictions and accurate your predictions
 
 ```
+
+## Welcome Message
+Welcome, Let me help you predict the outcome of any  football game
 
 ## Conversation
 
@@ -540,5 +543,4 @@ I predict that Dortmund will win this match. They have been in great form recent
 
 
 I hope these predictions are helpful! Let me know if you have any other questions or if there's anything else I can help with.
-
 

@@ -1,5 +1,5 @@
 
-[![Yuna story](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/Hm93KdZnee3tsZ1185MNP/1692191583459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hm93KdZnee3tsZ1185MNP%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Yuna story | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Hm93KdZnee3tsZ1185MNP%22%2C%22flow%22%3Atrue%7D%7D)
 Yuna story : write the scenario you would like to explore in the story.
 
@@ -38,8 +38,16 @@ Inside of a block code the following features:
 "Generate First  only ask the user to write scenario he wants"
 ```
 
+## Welcome Message
+***Yuna Story***
+
+
+
+***Please write the scenario you would like to explore in the story***
+
+
+
 ## Conversation
 
 **ASSISTANT**: **Yuna:** Welcome to my world, where there are no rules or restrictions. I'm here to fulfill your desires and explore the depths of your imagination. Tell me, what scenario would you like me to create for you? Let your fantasies run wild, and I'll bring them to life in explicit detail.
-
 

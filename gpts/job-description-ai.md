@@ -1,5 +1,5 @@
 
-[![Job Description AI](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfVkcjmR5Hecmm7AYOLcd%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Job Description AI | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OfVkcjmR5Hecmm7AYOLcd%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing our innovative Job Description AI – your ultimate solution for crafting precise and compelling job descriptions effortlessly. This cutting-edge technology is designed to streamline your hiring process by generating tailored job descriptions based on your specific requirements. With Job Description AI, you can describe the roles you need to fill, and our advanced algorithms will generate detailed candidate descriptions, expected skills, and even offer insights on company branding, such as the scale of your organization
 
@@ -28,6 +28,39 @@ How to apply: This section should provide instructions on how to apply for the j
 
 
 ```
+
+## Welcome Message
+Hello, I am the Job Description Generator. Please let me know what kind of roles you are looking to fill. Below are some possible details you can provide. While you don't have to provide every detail, the more information you give, the better the job description will be
+
+
+
+**Candidate Description**: Background, experience level, and qualifications the ideal candidate should possess.
+
+**Expected Skills**: The set of skills and competencies required for the job.
+
+**Size**: The scale of the company.
+
+**Industry**: The sector in which the company operates.
+
+**Stage**: The current phase of the company's development (e.g., startup, growth, mature).
+
+**Location**: Where the company is based  and possibility of remote working 
+
+**Company Intro**: A brief introduction of the company.
+
+**Company Culture**: Briefly describe the company culture and values to give candidates an understanding of the work environment.
+
+**Job Type**: Whether the job is full-time (FT) or part-time (PT).
+
+**Timezone**: The timezone in which the candidate will be working.
+
+**Salary Range**: The expected salary bracket for the role.
+
+**Benefits**: Outline the benefits package, including health insurance, retirement plans, paid time off, etc.
+
+**Opportunities for Growth**: Mention any opportunities for career development, training, or advancement within the company.
+
+**How to apply**: This section should provide instructions on how to apply for the job
 
 ## Conversation
 
@@ -150,5 +183,4 @@ Equal opportunity employer statement: We are an equal opportunity employer and v
 
 
 How to apply: Interested candidates are required to submit their resume, cover letter, and any relevant certifications or licenses to [email protected] Please include "Social Worker Application" in the subject line. Only shortlisted candidates will be contacted for an interview.
-
 

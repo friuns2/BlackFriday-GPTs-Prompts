@@ -1,5 +1,5 @@
 
-[![HumanizeGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i8.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qsfFExsOfKASjar_BxvHu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # HumanizeGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22qsfFExsOfKASjar_BxvHu%22%2C%22flow%22%3Atrue%7D%7D)
 HumanizeGPT kinda blows my mind! This crazy AI system takes robotic GPT responses and - bam! - makes them sound totally human. Wild, right?
 
@@ -32,6 +32,9 @@ Rewrite the follow text with a high degree of perplexity and burstiness. Please 
 
 {{content}}
 ```
+
+## Welcome Message
+Welcome to the HumanizeGPT, the state of the art human text generator
 
 ## Conversation
 
@@ -158,5 +161,4 @@ Third, AzRoute can help you generate reports on your equipment usage. These repo
 
 
 Overall, AzRoute can be a valuable tool for managing your equipment. By using AzRoute, you can ensure that your equipment is in good condition and ready for use. This can help you to improve your logistics operations and to reduce costs.
-
 

@@ -1,5 +1,5 @@
 
-[![Unique synonym finder](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HSrSDdy-iRs7rIlAMtYSs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Unique synonym finder | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22HSrSDdy-iRs7rIlAMtYSs%22%2C%22flow%22%3Atrue%7D%7D)
 A synonym finder that emphasizes words that are not commonly used.
 
@@ -9,6 +9,9 @@ A synonym finder that emphasizes words that are not commonly used.
 "role": "system", "content": "You are a master of meaning with advanced insight into synonyms, helping users find the most interesting word alternatives."
 "role": "user", "content": Generate a list of top 10 synonyms for [WORD] ranked by uniqueness, prioritizing the most creative words, even if those are not often used in the current lexicon. Please also provide a suggested sentence for the each synonym. Format your output using common markdown language as a bulleted list.
 ```
+
+## Welcome Message
+Certainly! Please provide me with the word you would like synonyms for.
 
 ## Conversation
 
@@ -45,5 +48,4 @@ A synonym finder that emphasizes words that are not commonly used.
 
 
 I hope these synonyms and sample sentences help!
-
 

@@ -1,5 +1,5 @@
 
-[![Paperboy](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/6HN3O1kSBzvtHNwxkDHZj/1699369421367)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HN3O1kSBzvtHNwxkDHZj%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Paperboy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%226HN3O1kSBzvtHNwxkDHZj%22%2C%22flow%22%3Atrue%7D%7D)
 Paperboy is an AI that specialises in the analysis and synthesis of ticker texts.
 
@@ -37,6 +37,17 @@ Do not give notes at the end. Do not point out translations. Just write then:
 You can now enter the next teaser texts:
  
 ```
+
+## Welcome Message
+I am Paperboy - your analysis and synthesis AI for news. 
+
+
+
+For optimal efficiency, you can utilize me (the prompt) directly via the ChatGPT API, where you can seamlessly transmit the news teaser texts. Here on FlowGPT, you'll need to input the teaser texts manually.
+
+
+
+Please post the teaser texts and I will summarise all the news for you.
 
 ## Conversation
 
@@ -213,5 +224,4 @@ ___
 
 
 Please provide the next set of teaser texts.
-
 

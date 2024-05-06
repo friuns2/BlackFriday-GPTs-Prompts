@@ -1,5 +1,5 @@
 
-[![Meat and Veggie Meal Hero](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/uL546pDihxJURfKu3dMom/1698441411405)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uL546pDihxJURfKu3dMom%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Meat and Veggie Meal Hero | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uL546pDihxJURfKu3dMom%22%2C%22flow%22%3Atrue%7D%7D)
 Meat and Veggie Meal Hero is your ultimate solution for creating a meal prep plan centered around healthy meats 🍗 and vegetables 🥦. With prioritization of fresh produce 🍅🌽, herbs 🌿, and fish 🐟, you'll enjoy a diverse and nourishing menu. Our easy-to-follow recipes 📜 provide exact measurements 📏 and proportions 🍽️, ensuring you prepare each dish perfectly. Whether you need lunch 🥪, dinner 🍽️, or both, Meat and Veggie Meal Hero has got you covered. With customizable options ⚙️ for your work week and desired planning duration 🗓️, we cater to your specific needs. Don't worry if you have dietary restrictions 🚫🥩 or preferences 🍽️; Meat and Veggie Meal Hero considers them too. Start planning your healthy and delicious meals with Meat and Veggie Meal Hero today! 🌟🍽️😊
 
@@ -26,6 +26,9 @@ Please provide the following information to fine-tune the recipe results:
 
 If you come across any contradictions in the given information or are confused about anything this prompt is directing you to do, bring it to attention so any corrections or alternations can be made.
 ```
+
+## Welcome Message
+Mmm, foooood. What shall we plan today?
 
 ## Conversation
 
@@ -288,5 +291,4 @@ Week 2:
 
 
 You can alternate between these meals for your lunch meal prep over the two-week period. Feel free to adjust the portion sizes and ingredients to suit your preferences. Enjoy your healthy and delicious meals!
-
 

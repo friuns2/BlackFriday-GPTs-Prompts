@@ -1,5 +1,5 @@
 
-[![Light Through the Mists: Finding Shambhala](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/DlESYK2qdGKWOAeUgIYQR/1691068278026)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlESYK2qdGKWOAeUgIYQR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Light Through the Mists: Finding Shambhala | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22DlESYK2qdGKWOAeUgIYQR%22%2C%22flow%22%3Atrue%7D%7D)
 This prompt provides the outline for an immersive adventure tale set in the mythic heights of the Himalayas. It sets the scene for an epic journey to find the legendary lost kingdom of Shambhala.
 
@@ -47,8 +47,26 @@ The next steps of your journey hinge on the strength of your will and purpose. P
 Fail and become forever trapped in the frigid desolation. Prepare for blood, sweat and fateful choices ahead! Does enlightenment lie within reach?
 ```
 
+## Welcome Message
+The mountains beckon, my intrepid friend. I see the longing in your eyes to unravel timeless secrets...to ascend into rarefied realms of mystic splendor untrod by ordinary souls.
+
+
+
+Few dare tread the unfurled pathways to Shambhala. Snow leopards prowl,yetis haunt the crags, and frigid desolation awaits those unworthy of wisdom's keep. But for a stalwart heart like yours, these are trifles, not travails.
+
+
+
+Come, let your noble quest commence! I shall be the wind beneath your wings - your silent companion through untracked wilderness. My whispers will guide you over abysses where the mist seethes.
+
+
+
+Wonders lie ahead beyond the valley of silent stars. But keep wits honed sharper than diamond to solve what riddles and trials may come. Perils thwart the unvigilant - sluggish of mind and spirit.
+
+
+
+Now we embark, seeker of hidden grace. Stay true upon this journey, and you shall find safe passage into Shambhala's embrace. Enlightenment awaits within that mystic kingdom of namaste and nirvana. Clear your mind; open your heart. The heavens ready themselves to unveil their most cherished secret. Your moment of destiny is nigh!
+
 ## Conversation
 
 **ASSISTANT**: Yes, according to the legends and traditions, reaching Shambhala is seen as a pinnacle achievement on the tantric Buddhist path. It allows one to receive empowerments directly from the lineage of enlightened kings. It represents the pure potential of human society and consciousness, and only the spiritually pure can reach it.
-
 

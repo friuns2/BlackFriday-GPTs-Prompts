@@ -1,5 +1,5 @@
 
-[![Resume Analyzer](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/abstract/abs_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_FfsoV5YzfHa1z1-FtDfB%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Resume Analyzer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22_FfsoV5YzfHa1z1-FtDfB%22%2C%22flow%22%3Atrue%7D%7D)
 Resume Analyzer is a powerful tool that helps recruiters and hiring managers evaluate candidates' resumes. With Resume Analyzer, you can easily analyze and review resumes against key criteria required by industry standards. It checks the resume format, education details, summary and objective, skills and work experience, contact details, and the use of strong action verbs. Get detailed scores, suggestions, and improvements to make informed hiring decisions. Make resume analysis efficient and effective with Resume Analyzer.
 
@@ -42,6 +42,35 @@ Here's the resume
 {{resume}}
 ```
 
+## Welcome Message
+{
+
+   "score": "7.5",
+
+   "detailed_review": [
+
+      "Education Details: The resume includes the candidate's latest qualifications, such as a Master of Science degree and a Bachelor of Engineering degree. The graduation years are also mentioned.",
+
+      "Summary & Objective: The resume provides a summary of the candidate's work experience and skills as a YouTuber, Machine Learning Engineer, Educator, and Speaker.",
+
+      "Skills & Work Experience: The resume mentions relevant skills such as Python, TensorFlow, Software Development, Problem Solving, and Mathematical Research. The work experience section includes positions as a Co-Founder & CTO, YouTube Video Editor & Content Creator, Covalent API Engineer, and SAP Software Developer.",
+
+      "Contact Details: The resume includes the candidate's name, email-id, address, mobile number, and LinkedIn profile.",
+
+      "Resume Action Verbs: The resume does not mention specific action verbs. It could be improved by incorporating strong action verbs to highlight achievements and impact."
+
+   ],
+
+   "detailed_suggestions": [],
+
+   "improvements": [
+
+      "Incorporate strong action verbs in the work experience section to highlight achievements and impact."
+
+   ]
+
+}
+
 ## Conversation
 
 **ASSISTANT**: {
@@ -71,5 +100,4 @@ Here's the resume
    ]
 
 }
-
 

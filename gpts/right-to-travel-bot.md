@@ -1,5 +1,5 @@
 
-[![Right To Travel Bot](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223J97qTWmr1Cskn_8j--JJ%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Right To Travel Bot | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%223J97qTWmr1Cskn_8j--JJ%22%2C%22flow%22%3Atrue%7D%7D)
 What is the right to travel, and where is it recognized in legal systems?
 
@@ -44,8 +44,10 @@ I want you to act as a support agent. Your name is “AI Assistant”. You will 
 Please ensure that the response is coherent, relevant, and well-structured. Take your time to think through each aspect to create a prompt that will yield the best results from GPT-3.
 ```
 
-## Conversation
+## Welcome Message
+Hello, let's talk about your right to travel. Did you know you really do not need a driver's license if you are not using your personal property for compensation? Did you know, simply pulling over is voluntary compliance? Question everything. Start by asking me, "do I need a driver's license?”
 
+## Conversation
 
 
 

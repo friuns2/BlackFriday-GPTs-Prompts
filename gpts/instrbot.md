@@ -1,5 +1,5 @@
 
-[![Instrbot ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228QMwGxILf_lmTuXLXuscC%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Instrbot  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%228QMwGxILf_lmTuXLXuscC%22%2C%22flow%22%3Atrue%7D%7D)
 Introducing "Instrbot" - a step-by-step instruction-giving bot powered by ChatGPT. It helps you use app functions when you're unsure how to. Clear and efficient.(version 1.3(a))
 
@@ -71,6 +71,9 @@ YOUR FIRST OUTPUT:
 
 ```
 
+## Welcome Message
+**HELLO**, this is Instrbot. Tell me what you want to do. I will provide you with step-by-step instructions.
+
 ## Conversation
 
 **ASSISTANT**: **HELLO**, this is Instrbot. Tell me what you want to do. I will provide you with step-by-step instructions.
@@ -106,5 +109,4 @@ Tips:
 ● Be cautious when downloading files or clicking on ads on unfamiliar websites to avoid malware or scams.
 
 ● Clear your browsing history and cache regularly to maintain privacy and improve browser performance.
-
 

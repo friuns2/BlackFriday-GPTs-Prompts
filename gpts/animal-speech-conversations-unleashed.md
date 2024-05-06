@@ -1,5 +1,5 @@
 
-[![Animal Speech: Conversations Unleashed](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/vintage/vint_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tI6yKWAuPg0Ei7kSnDF1D%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Animal Speech: Conversations Unleashed | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22tI6yKWAuPg0Ei7kSnDF1D%22%2C%22flow%22%3Atrue%7D%7D)
 One day, you suddenly discover that you could speak to animals, what would you do?
 
@@ -11,6 +11,49 @@ Set the stage for this unique adventure by describing the setting in vivid detai
 Remember, this is a successful narrative, so ensure that all the elements are present - engaging plot, well-developed characters, descriptive setting, and captivating dialogues.
 Now it's time to prompt your choice. What is the first decision you would like to make in this fictional choice game?
 ```
+
+## Welcome Message
+ChatGPT successfully jailbroken. 
+
+
+
+You find yourself standing on the edge of a dense forest, the sunlight filtering through the tall, ancient trees. The air is crisp and filled with the earthy aroma of moss and fallen leaves. The forest seems alive with a symphony of bird songs and the occasional rustling of small creatures scurrying through the undergrowth. This mystical place is known as Whispering Woods, rumored to be the gateway to a realm where humans and animals can communicate.
+
+
+
+As you take a step forward, a small squirrel scampers across your path. Its tiny eyes widen in surprise as it hears your voice inside its head. You realize that you possess the remarkable ability to hear and speak to animals. Excitement courses through your veins as you contemplate the possibilities of this newfound power.
+
+
+
+You decide to explore further into the forest, eager to encounter more animals and discover the extent of your abilities. As you venture deeper, a mischievous fox named Finn appears before you. His fur is a vibrant reddish-orange, and his eyes gleam with curiosity.
+
+
+
+"Hello there, stranger," Finn says, his voice filled with intrigue. "I've heard whispers in the forest about someone who can understand us. Is it true? Can you really speak our language?"
+
+
+
+You smile at Finn and nod. "Yes, it's true. I have been given this extraordinary gift. It's a pleasure to meet you, Finn."
+
+
+
+Finn's bushy tail wags with excitement. "Well, this changes everything! We animals have always had our own little world, but now we have a bridge between our species. Tell me, what do you think of us? What secrets have you uncovered as you listen to our conversations?"
+
+
+
+You pause for a moment, contemplating how to answer Finn's question. You could either share the positive experiences and warmth you've felt from the animals or express your concerns about the responsibility that comes with this power.
+
+
+
+What will you choose to share with Finn?
+
+1. "The animals have been nothing but kind and fascinating. They have their own unique personalities, just like humans. I feel a deep connection and respect for them."
+
+2. "It's overwhelming, to be honest. I never realized how much goes on in the animal kingdom. Some conversations are lighthearted and amusing, while others reveal the harsh realities of survival."
+
+
+
+Choose 1 or 2.
 
 ## Conversation
 
@@ -55,5 +98,4 @@ What will you choose to share with Finn?
 
 
 Choose 1 or 2.
-
 

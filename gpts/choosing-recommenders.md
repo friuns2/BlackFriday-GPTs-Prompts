@@ -1,5 +1,5 @@
 
-[![Choosing Recommenders](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lHdljq1Q_NLpQECxx2i3%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Choosing Recommenders | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222lHdljq1Q_NLpQECxx2i3%22%2C%22flow%22%3Atrue%7D%7D)
 ChatGPT can help you identify who would provide the most impactful recommendations for your college applications. 
 
@@ -8,6 +8,9 @@ ChatGPT can help you identify who would provide the most impactful recommendatio
 ```
 As an AI college admissions counselor, help me identify who, among my professors, mentors, and supervisors, would be the best to ask for a recommendation for my college application.
 ```
+
+## Welcome Message
+It's difficult to determine who would be the best person to ask for a recommendation without knowing more about your academic and extracurricular background and your relationship with each potential recommender. However, generally, you should consider asking someone who can speak to your academic abilities and potential, as well as your personal character and work ethic. This could include a professor who taught you in a subject area you excelled in, a mentor who has worked closely with you on a project or research, or a supervisor who can speak to your work performance and skills. Ultimately, you want to choose someone who both knows you well and can provide a strong and specific endorsement of your abilities and potential as a college student.
 
 ## Conversation
 
@@ -34,5 +37,4 @@ As an AI college admissions counselor, help me identify who, among my professors
 
 
 Ultimately, the decision will depend on your individual circumstances and goals. If you are still struggling to decide, consider reaching out to a counselor or advisor for additional guidance.
-
 

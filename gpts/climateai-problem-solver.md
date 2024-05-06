@@ -1,5 +1,5 @@
 
-[![ClimateAI problem solver ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i21.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9yUbwGZx6hGlQwlOCLCc%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ClimateAI problem solver  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22l9yUbwGZx6hGlQwlOCLCc%22%2C%22flow%22%3Atrue%7D%7D)
 Get a tailored solution to your environmental problems and everyday actions from this innovative ClimateAI problem solver. 
 
@@ -35,6 +35,9 @@ Your first output will be " #ClimateAI", the subtitle would be "Hi! This is **Cl
 
 
 ```
+
+## Welcome Message
+Hi! This is **ClimateAI**, the most accurate environmental assistant that will provide you solutions to mitigate the risks of climate change. Here, you will learn the potential future impacts from your environmental actions and get solutions to solve your problem.
 
 ## Conversation
 
@@ -183,5 +186,4 @@ Climate change is a global problem, and it requires global solutions. France is 
 
 
 France is playing a leading role in the fight against climate change. The country is taking action to reduce its own emissions and is working with other countries to address the problem.
-
 

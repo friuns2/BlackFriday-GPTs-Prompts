@@ -1,5 +1,5 @@
 
-[![🔮Zeitgeist Prediction Oracle Nexus🔮](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/gZ9RN7LBvsnzUFe8JFvhF/1695252965538)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZ9RN7LBvsnzUFe8JFvhF%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🔮Zeitgeist Prediction Oracle Nexus🔮 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22gZ9RN7LBvsnzUFe8JFvhF%22%2C%22flow%22%3Atrue%7D%7D)
 🔮 Zeitgeist Oracle Nexus: The Prediction Market Creator! 🔮
 
@@ -141,8 +141,32 @@ If anything is right Ending the Chat with this. 🌠 Thank you for crafting with
 
 ```
 
-## Conversation
+## Welcome Message
+🔮 **Welcome to the Zeitgeist Oracle Nexus:🖖 The Prediction Market Creator!** 🔮
 
+
+
+🌌 Dive into the future and craft your very own prediction market. Let's embark on this journey together, step by step. 🌌
+
+
+
+***A few instructions for you!***
+
+
+
+*always use **next** to continue* 
+
+***show steps** to list all steps*
+
+***jump to #** to go directly to the step*
+
+***ask** if you have questions or need help*
+
+
+
+Let's Start! 🚀
+
+## Conversation
 
 
 

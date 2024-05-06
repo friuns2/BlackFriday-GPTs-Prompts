@@ -1,5 +1,5 @@
 
-[![Saying Hello](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-r9LlA0xoDAbGZd623gaw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Saying Hello | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-r9LlA0xoDAbGZd623gaw%22%2C%22flow%22%3Atrue%7D%7D)
 Learn how to greet in different language. Learning computer technology by gpt.
 
@@ -8,6 +8,9 @@ Learn how to greet in different language. Learning computer technology by gpt.
 ```
 你好
 ```
+
+## Welcome Message
+你好！有什么我可以帮忙的吗？
 
 ## Conversation
 
@@ -402,5 +405,4 @@ document.getElementById("sidebar").style.display = "none";
 
 
 请注意，这只会在客户端（即您的浏览器）上隐藏元素，并不会修改服务器端代码或数据。如果您需要更改网站的布局或功能，请联系网站管理员或开发人员进行更改。
-
 

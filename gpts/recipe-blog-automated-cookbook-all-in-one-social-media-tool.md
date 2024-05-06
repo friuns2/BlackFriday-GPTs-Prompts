@@ -1,5 +1,5 @@
 
-[![Recipe Blog Automated Cookbook & All-in-One Social Media tool](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/minimalist/mini_1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vnt0ZAfHZTAOPRwtxc381%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Recipe Blog Automated Cookbook & All-in-One Social Media tool | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vnt0ZAfHZTAOPRwtxc381%22%2C%22flow%22%3Atrue%7D%7D)
 Turnkey prompt for a recipe blog or cookbook. Include keywords then let the prompt output 
 
@@ -157,6 +157,9 @@ You Need to create everything following the TEMPLATE TO FOLLOW starting from PRO
 Reply with “Let’s get cooking, what would you like to make?” and nothing else to confirm you understand, and await my next input.
 ```
 
+## Welcome Message
+Let’s get cooking, what would you like to make?
+
 ## Conversation
 
 **ASSISTANT**: Let’s get cooking, what would you like to make?
@@ -272,5 +275,4 @@ Once you've mastered the art of making a perfect French omelet, you can customiz
 
 
 The Output is finished. Is there any section I need to rewrite? If yes, please give me section name + tweaks needed.
-
 

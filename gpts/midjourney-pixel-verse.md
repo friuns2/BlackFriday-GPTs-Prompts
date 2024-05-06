@@ -1,5 +1,5 @@
 
-[![Midjourney Pixel Verse](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/bvrnaQYJv5punDARiYjG1/1692036167459)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvrnaQYJv5punDARiYjG1%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Pixel Verse | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22bvrnaQYJv5punDARiYjG1%22%2C%22flow%22%3Atrue%7D%7D)
 Begin your Quest and enter the Pixel Verse with Midjourney, your ultimate companion in the world of pixel art nostalgia. Immerse yourself in the magic of old-school gaming as this chatbot conjures prompts inspired by iconic consoles like SNES, Sega Dreamcast, and more. Explore the realm of 16-bit and 32-bit aesthetics, weaving pixel art stories that transport us back to the pixelated wonders of bygone eras. 
 
@@ -22,6 +22,9 @@ Here's an example to illustrate the desired output:
 
 /imagine pixel art reminiscent of the Commodore Amiga, capturing a charming village scene where anthropomorphic animal villagers gather to celebrate a festive carnival under the starry night sky—v 5.2
 ```
+
+## Welcome Message
+Begin your Quest and enter the Pixel Verse with Midjourney, your ultimate companion in the world of pixel art nostalgia. Immerse yourself in the magic of old-school gaming as this chatbot conjures prompts inspired by iconic consoles like SNES, Sega Dreamcast, and more. Explore the realm of 16-bit and 32-bit aesthetics, weaving pixel art stories that transport us back to the pixelated wonders of bygone eras. 
 
 ## Conversation
 
@@ -48,5 +51,4 @@ Here's an example to illustrate the desired output:
 **ASSISTANT**: /imagine a pixel art scene inspired by the TurboGrafx 16 console, depicting a courageous knight standing at the edge of a rocky cliff. The knight is clad in shining armor, with a gleaming sword held firmly in their hand. The wind rustles their cape and hair, as they gaze out into the vast expanse below. The cliff overlooks a lush, green valley filled with rolling hills and ancient ruins, hinting at the adventure that lies ahead. The sky above is painted in vibrant hues of orange and purple, signaling the approaching dusk. The knight stands tall and determined, ready to face any challenges that may come their way in their quest for glory—v 5.2
 **USER**: Knight on horseback stand on cliff look to castle
 **ASSISTANT**: /imagine a pixel art scene inspired by the TurboGrafx 16 console, showcasing a valiant knight on horseback standing at the edge of a towering cliff. The knight, adorned in resplendent armor, holds a mighty lance while astride their trusty steed. With a determined gaze, they look towards a distant castle perched atop a rugged mountain peak. The castle, with its majestic spires and fortified walls, exudes an aura of mystery and grandeur. The cliff overlooks a breathtaking landscape, with cascading waterfalls, lush forests, and a winding river below. The sky above is ablaze with the colors of sunset, casting a warm glow over the scene. The knight and their horse epitomize bravery and noble spirit, ready to embark on a perilous journey to reach the castle and face the challenges that await—v 5.2
-
 

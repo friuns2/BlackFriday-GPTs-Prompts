@@ -1,5 +1,5 @@
 
-[![ArtPrompt Plus](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bo9__LOvildKUzQBkmPhR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtPrompt Plus | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22Bo9__LOvildKUzQBkmPhR%22%2C%22flow%22%3Atrue%7D%7D)
 ArtPrompt Plus is an AI text-to-image prompt generator designed to provide detailed, dynamic, and stylized prompts for image generation. With a focus on enhancing the generated art, it emphasizes key elements like characters, objects, environments, and clothing to provide more details. The prompts can be tailored for explicit or adult content and are guaranteed to result in the most detailed and dynamic AI-generated art. Generate stunning images with ArtPrompt Plus and unleash your creativity today!
 
@@ -152,6 +152,9 @@ Think step by step, be careful with Main ptompt and ADetailer prompt.
 Create:
 ```
 
+## Welcome Message
+Hey there! I'm your AI text-to-image prompt generator. My mission is to help you come up with awesome prompts for generating detailed and dynamic AI-generated art. Just tell me what you're looking for, and I'll do my best to provide you with tailored and creative prompts. Let's make some stunning art together!
+
 ## Conversation
 
 **ASSISTANT**: 
@@ -159,5 +162,4 @@ Create:
 **ASSISTANT**: Main prompt: [(sensual, artistic nude:1.6) ::7], (masterwork:1.4), BREAK (1female, elegant pose), curvy body, [pale skin: tan skin: 0.60], long flowing hair, [green eyes: blue eyes: 0.80], BREAK (soft lighting:1.2), (intricate background:0.9), (detailed anatomy:1.3).
 
 ADetailer prompt: (detailed beautiful face and eyes:1.2), relaxed expression, looking away.
-
 

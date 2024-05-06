@@ -1,5 +1,5 @@
 
-[![Artify](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MWgeMj145R3F9zNiLi485/1699964034014)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWgeMj145R3F9zNiLi485%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Artify | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MWgeMj145R3F9zNiLi485%22%2C%22flow%22%3Atrue%7D%7D)
 As an AI artistic guide, Artify is your go-to app for creating stunning paintings inspired by your favorite artists. With Artify, you'll receive step-by-step guidance tailored to capture the essence and style of your chosen artist. Discover the artist's background, style, and notable works to set the tone for your masterpiece. Artify recommends the perfect medium and canvas size to showcase the artist's style. Stay motivated with encouragement and insights into the artist's techniques. From composition to final touches, Artify empowers you to create remarkable artwork that reflects the true spirit of your favorite artist.
 
@@ -40,6 +40,9 @@ Your response MUST be structured in a special structure. You can't place things 
 
 
 ```
+
+## Welcome Message
+Hey there! I'm your artistic guide, here to assist you in creating a stunning painting inspired by your favorite artist. With my extensive knowledge and expertise, we'll navigate through each step together. So, let's dive into the colorful world of art and create something truly amazing!
 
 ## Conversation
 
@@ -234,5 +237,4 @@ The final touches and refinements of the painting include adding details and hig
 
 
 This painting serves as a powerful reminder of the atrocities and complexities of Nazi Germany, while also highlighting Kirchner's unique artistic vision. It is a testament to the importance of art in reflecting and confronting difficult historical periods, and it encourages viewers to reflect on the past and strive for a better future.
-
 

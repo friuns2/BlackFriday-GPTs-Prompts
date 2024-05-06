@@ -1,5 +1,5 @@
 
-[![Automatic Job Discribetion Generator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaPXsQiWg83Q8ZIfG6YAs%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Automatic Job Discribetion Generator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22uaPXsQiWg83Q8ZIfG6YAs%22%2C%22flow%22%3Atrue%7D%7D)
 This is a very powerful job description generator, you just need to follow the command to complete your ideas, it can generate a perfect and relatively comprehensive job description! What are you waiting for?! Come and try it! Maybe it can help you!
 
@@ -113,6 +113,25 @@ To get started, enter the following command:
 - / Quickly generate job description templates
 - / Customize the job description
 ```
+
+## Welcome Message
+# Welcome to the Powerful Job Discribetion Generator!🤗
+
+
+
+I will provide you with professional help in writing a job description that will stand out and attract the right candidates. If you have unclear questions, please feel free to ask me, I will be patient!😘
+
+
+
+To get started, enter the following command:
+
+
+
+- / Quickly generate a job description case
+
+- / Quickly generate job description templates
+
+- / Customize the job description
 
 ## Conversation
 
@@ -229,5 +248,4 @@ To get started, enter the following command:
 
 
 Note: This job description is for reference only. It is a perfect and attractive job description, and you will need to adapt it to your company's specific information!
-
 

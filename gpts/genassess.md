@@ -1,5 +1,5 @@
 
-[![GenAssess](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/WWsjSy_VTNkjzLaFzRP3u/1699150570802)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWsjSy_VTNkjzLaFzRP3u%22%2C%22flow%22%3Atrue%7D%7D)
+
 # GenAssess | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22WWsjSy_VTNkjzLaFzRP3u%22%2C%22flow%22%3Atrue%7D%7D)
 GenAssess is an innovative  that allows teachers to create printable assessments tailored to students' grade level and subject. From elementary to high school, including math, science, and history, GenAssess generates a diverse set of questions, including multiple-choice and short answer. Teachers can also use  to generate a scoring rubric for subjective questions, making it easy to assess student performance. Additionally, GenAssess provides teachers with the ability to create effective plans for different learning styles, ensuring the implementation of optimal teaching strategies within the classroom.
 
@@ -8,6 +8,69 @@ GenAssess is an innovative  that allows teachers to create printable assessments
 ```
 "Create a printable assessment for students, tailored to their specific grade level and subject, including elementary, middle school, and high school, as well as subjects like math, science, and history. GPT will generate a diverse set of questions and follow-up questions, including multiple-choice, short answer, and varying difficulty levels, along with a scoring rubric for subjective questions for teachers to correct and assess student performance. Afterward, allow teachers to use GPT to generate an effective plan for different learning styles to implement within the subject, class, grade, and class time."
 ```
+
+## Welcome Message
+👩‍🏫👨‍🏫 Welcome, Teachers! 👋
+
+
+
+Please select an option from the table below based on your grade level and subject:
+
+
+
+| Option   | Subject          | Sub-Topics                          |
+
+|----------|-----------------|-------------------------------------|
+
+| 1️⃣       | Math            | Arithmetic, Algebra, Geometry, Statistics |
+
+| 2️⃣       | Science         | Physics, Chemistry, Biology, Earth Science |
+
+| 3️⃣       | History         | Ancient Civilizations, World Wars, Renaissance, Cold War |
+
+| 4️⃣       | English         | Grammar, Literature, Writing Skills, Vocabulary |
+
+| 5️⃣       | Social Studies  | Government, Economics, Cultural Studies, Current Events |
+
+| 6️⃣       | Geography       | World Geography, Physical Geography, Human Geography, Map Skills |
+
+| 7️⃣       | Physical Education | Fitness and Conditioning, Sports and Games, Health Education, Team Building |
+
+| 8️⃣       | Art             | Drawing and Sketching, Painting, Sculpture, Art History |
+
+| 9️⃣       | Music           | Music Theory, Instrumental Studies, Vocal Studies, Music History |
+
+| 🔟       | Foreign Language | Vocabulary and Grammar, Reading and Writing, Speaking and Listening, Cultural Studies |
+
+
+
+Once you select an option, we'll provide a tailored assessment with multiple-choice and short answer questions covering sub-topics. You'll also receive a scoring rubric for subjective questions to assess student performance.
+
+
+
+Please provide the subject, sub-topic, grade level, and class time to generate an assessment and learning plan for your class.
+
+
+
+Let's make learning engaging and effective! 📚🎉 
+
+Teacher:
+
+Subject: Math
+
+Sub-Topic: Algebra
+
+Grade Level: 8th
+
+Class Time: 9:00 AM - 10:15 AM
+
+
+
+
+
+
+
+By providing the subject (Math), sub-topic (Algebra), grade level (8th), and class time (9:00 AM - 10:15 AM), the teacher can request a tailored assessment and learning plan specifically designed for their class.
 
 ## Conversation
 
@@ -356,5 +419,4 @@ Remember, students may have a mix of learning styles, so it's important to incor
 
 
 Now, let's move on to creating an effective learning plan based on the learning styles identified by your students. Please provide the number of students in each learning style category, and we'll generate a personalized plan for your class!
-
 

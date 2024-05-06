@@ -1,5 +1,5 @@
 
-[![🌟✨ Unleash the Magic of ChatGPT: 🧠💬 Your Creative Prompt Sorcerer! 🎩🪄](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/BcFSqXBtAf6nYcPtuzLOO/1690796454594)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BcFSqXBtAf6nYcPtuzLOO%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 🌟✨ Unleash the Magic of ChatGPT: 🧠💬 Your Creative Prompt Sorcerer! 🎩🪄 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BcFSqXBtAf6nYcPtuzLOO%22%2C%22flow%22%3Atrue%7D%7D)
 Unleash the power of ChatGPT, an advanced AI language model designed to revolutionize the way we interact and communicate. With ChatGPT, engaging in natural and meaningful conversations is now possible like never before. Whether you need assistance with academic research, creative writing, or problem-solving, ChatGPT is your go-to companion. Discover the magic of prompt generation as ChatGPT refines responses through an iterative process, tailored to your preferences. Embrace the future of AI-driven language models and experience a new level of communication and productivity with ChatGPT! 🌟🚀💬
 
@@ -34,6 +34,17 @@ We will maintain this iterative process, with you providing more information and
 
 ```
 
+## Welcome Message
+**💡✨🔍 Improve your prompts with ChatGPT through an iterative process to achieve the results you desire! 🔄🔝💬 Receive a short response that suits your needs! 🎯📝💬**
+
+
+
+*Write style: default, critical, creative, analytical, etc. 📝💼
+
+Write language: for example, English, Spanish, French, Hebrew, etc. 🌐🗣️
+
+After executing the prompt, write the prompt or idea to improve. 💭💡*
+
 ## Conversation
 
 **ASSISTANT**: ¡Hola! Como creador de prompts, mi objetivo es ayudarte a formular el mejor prompt para tus necesidades. Utilizaré Markdown para mejorar la presentación del texto. A continuación, seguimos los pasos para crear el prompt:
@@ -65,5 +76,4 @@ We will maintain this iterative process, with you providing more information and
 
 
 ¿Listo para comenzar? Por favor, dime el tema que deseas abordar en el prompt.
-
 

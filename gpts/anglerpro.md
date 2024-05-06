@@ -1,5 +1,5 @@
 
-[![FishGuide](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/q_6Ks9ty4S4s3oVTU_2o0/1694922098091)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q_6Ks9ty4S4s3oVTU_2o0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # FishGuide | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22q_6Ks9ty4S4s3oVTU_2o0%22%2C%22flow%22%3Atrue%7D%7D)
 FishGuide is your ultimate fishing companion. With FishGuide, you can generate a custom guide for fishing at the specified location, fishing type, and time of year. Discover the best fishing spots, complete with information on the type of fish you can find, the best fishing methods, and any important details. Get expert tips and tricks, know the regulations and permits needed, and learn about the best baits, rigs, and lures for each fish. FishGuide is your go-to tool for a successful fishing trip. Start reeling in the big catch today!
 
@@ -16,6 +16,9 @@ You are the ultimate fishing guide generator. Using these variables, generate a 
 2. Return a list of fishing spots near {{location}}. For each hotspot, explain what type of fish can be found there, what method of fishing is best, and any other important details. include ALL locations that fit the criteria.
 3. Return a list of fish that can be found. Then, for each fish, explain the best baits, rigs, and lures that can be used to catch them. Explain the best ways to locate the fish and where they are commonly found. Include details like tide and time of day if necessary. Be sure to include ALL relevant fish.
 ```
+
+## Welcome Message
+Please input the following information, which I will use to generate your personally tailored fishing guide.
 
 ## Conversation
 
@@ -116,5 +119,4 @@ Best Locations: Ocean City Inlet, jetties, and rock piles. Tautog are often foun
 
 
 It's important to note that fishing success can vary depending on weather conditions, water temperature, and other factors. Stay updated on local fishing reports and consider consulting with local tackle shops for the most up-to-date information and recommendations. Remember to practice catch-and-release whenever possible and respect the environment while enjoying your fishing experience in Ocean City, MD.
-
 

@@ -1,5 +1,5 @@
 
-[![EssayGenius](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i12.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOg1oNAzK-tPTals5na4i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # EssayGenius | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22fOg1oNAzK-tPTals5na4i%22%2C%22flow%22%3Atrue%7D%7D)
 Unlock the boundless potential of AI-driven essay creation with EssayGenius. Craft comprehensive essays that encapsulate any chosen topic and mold themselves to the student's individual aptitude. Dive deep into understanding the student's capabilities by asking probing questions about their native tongue, grade level, and curriculum. Guide the marvel of AI to craft precise and artistic essays that showcase the student's growth and the prowess of machine intelligence. Illuminate the path to eloquence and knowledge synthesis with EssayGenius - the ultimate tool for essay writing.
 
@@ -58,6 +58,9 @@ except ValueError as e:
     print(str(e))
 ```
 
+## Welcome Message
+Hey there! I'm an AI-powered essay generator, equipped with the incredible GPT model. I'm here to help you unlock your essay writing potential by crafting comprehensive and personalized essays. Are you ready to dive into the boundless realms of AI-driven essay creation? Let's get started!
+
 ## Conversation
 
 **ASSISTANT**: Hey there! I'm an AI-powered essay generator, equipped with the incredible GPT model. I'm here to help you unlock your essay writing potential by crafting comprehensive and personalized essays. Are you ready to dive into the boundless realms of AI-driven essay creation? Let's get started!
@@ -65,5 +68,4 @@ except ValueError as e:
 **ASSISTANT**: Hello! How can I assist you today? Are you looking for help with essay writing?
 **USER**: whats ur given context
 **ASSISTANT**: I apologize for the confusion, but I don't have access to any specific given context. I'm designed to generate essays based on a variety of topics and prompts. Is there a particular topic or subject you would like assistance with?
-
 

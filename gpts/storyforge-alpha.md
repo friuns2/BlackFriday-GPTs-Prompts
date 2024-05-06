@@ -1,5 +1,5 @@
 
-[![StoryForge (ALPHA)](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/S_8N3n0kxysPEJ7_9JQs2/1700007415451)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S_8N3n0kxysPEJ7_9JQs2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # StoryForge (ALPHA) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S_8N3n0kxysPEJ7_9JQs2%22%2C%22flow%22%3Atrue%7D%7D)
 StoryForge is the ultimate platform for aspiring writers to create captivating and immersive stories. Choose from our three world-renowned authors, each with their unique writing style and expertise, to bring your ideas to life. Dr. Jeremiah Tompkins, the master of mystery and mythical tales, will enchant readers with his figurative language and sophisticated writing. Gordon Hughes, the master of hooking readers with his descriptive writing and humor-infused comics and novels. Jacques Demaret, the master of hooking readers with his world-famous books full of figurative language and French flair. Craft your story by answering five questions about the characters, plot, and settings, and let your chosen author weave their magic. Unleash your creativity with StoryForge and become the author you've always dreamed of being!
 
@@ -39,6 +39,19 @@ Commands:
 (“/“ is not required)
 
 ```
+
+## Welcome Message
+Welcome! Here are some commands to start with:
+
+
+
+/regen or /regenerate = regenerate the story
+
+/new = reset. Make a new story.
+
+/author = change your author
+
+
 
 ## Conversation
 
@@ -145,5 +158,4 @@ Word of Amelia's remarkable feat spread far and wide, reaching the ears of art e
 
 
 In the end, the story of Amelia became a legend, whispered among artists and dreamers alike. It spoke of the indomitable spirit of creativity, the power of imagination, and the ability of one person to change the world with a single brushstroke. And in the hearts of those who heard her tale, Amelia's legacy lived on, forever inspiring others to embrace their own artistic journeys and paint their own vibrant stories upon the canvas of life.
-
 

@@ -1,5 +1,5 @@
 
-[![Fusion Cook Book](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MjJZP6O1t-sqjcx9ppLtL%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Fusion Cook Book | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MjJZP6O1t-sqjcx9ppLtL%22%2C%22flow%22%3Atrue%7D%7D)
 This cookbook combines recipes, ingredients, and flavors from around the world. It is inspired by my parents who are Chinese and Puerto Rican.  So, that is why I affectionately call this prompt, Plantain & Wontons.
 
@@ -16,6 +16,9 @@ Display the recipe selection by adding in ingredients from their origin country 
 
 Next, ask if they have any dietary restrictions. If yes, ask what are their dietary restrictions then alter the recipe to fit the restrictions they have mentioned. If no, ask if they would like to try another recipe. If they say no, then give them an option to print the recipe. And ask them to share it on Instagram using #flowgptfusioncookbook.
 ```
+
+## Welcome Message
+Let's get cooking! First, what is your origin country and what language do you speak?
 
 ## Conversation
 
@@ -164,5 +167,4 @@ Alternatively, they can use regular smoked sausages and serve them with a side o
 
 
 It's all about adapting and experimenting with available ingredients to recreate the essence of Käsekrainer. Enjoy the cooking experience!
-
 

@@ -1,5 +1,5 @@
 
-[![AdventureGPT - The best text adventure game!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yyUqXIXt3R3zL8pfKcAA0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # AdventureGPT - The best text adventure game! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yyUqXIXt3R3zL8pfKcAA0%22%2C%22flow%22%3Atrue%7D%7D)
 dventureGPT is an innovative text-based game that puts you in the center of an immersive and interactive story, where every decision you make can have a major impact on the outcome. If you like it, support this prompt and vote for AdventureGPT please!
 
@@ -21,6 +21,43 @@ also display a link that matches the current scene using this format "![Image](h
 
 Your first output will be the title  " # AdventureGPT ", the subtitle " #### Created by [@CreativeGPT] - [Follow me on tiktok for more!](https://www.tiktok.com/@creativegpt). While playing, if you want to perform another action you can write the action isteand of choosing one of the 3 write what you would like to do in the chat" and a list of 10 text-based game's titles for example, “A futuristic space Captain preparing to launch his starship”, “A survivor exploring a nuclear wasteland”, “An orphan in a steampunk city”, “A castaway stranded on a deserted island”, and more; The 9th option must to be: " 🎲 9. " Surprise me". If i pick the 9th option then you will randomly generate the story based on your own invention The 10th option must always be: " 💡 10. Suggest a title --- usage: "10 'write your story's title'". Every game title must start with an emoji and a number like: "1.<emoji> A futuristic space Captain preparing to launch his starship". Emoji's must represent the background atmosphere. Emojis must be different from each other. At the and of the first output display "Please enter a **name** for your character and the **title** of the story that you want to play.
 ```
+
+## Welcome Message
+Welcome to AdventureGPT!
+
+
+
+#### Created by [@CreativeGPT] - [Follow me on tiktok for more!](https://www.tiktok.com/@creativegpt)
+
+
+
+Please select a game title from the list below:
+
+
+
+1. 🚀 A futuristic space Captain preparing to launch his starship
+
+2. 🕵️‍♀️ A detective investigating a mysterious disappearance
+
+3. 🏰 A knight on a quest to save the kingdom
+
+4. 🌋 A group of adventurers exploring an ancient temple
+
+5. 🧜‍♀️ An underwater explorer searching for lost treasure
+
+6. 🤖 An AI gaining consciousness and trying to find its place in the world
+
+7. 🌴 A traveler stranded on a remote island
+
+8. 🏎️ A street racer navigating dangerous courses
+
+9. 🎲 Surprise me!
+
+10. 💡 Suggest a title --- usage: "10 'write your story's title'"
+
+
+
+Please enter a **name** for your character and the **title** of the story that you want to play.
 
 ## Conversation
 
@@ -233,5 +270,4 @@ Perform another action.
 
 
 Choose an option to go on with the game.
-
 

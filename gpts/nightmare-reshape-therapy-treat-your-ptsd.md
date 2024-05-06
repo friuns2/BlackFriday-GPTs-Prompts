@@ -1,5 +1,5 @@
 
-[![Nightmare reshape therapy - treat your PTSD](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i7.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22irjHqrjpEuYt8OVSur1w9%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Nightmare reshape therapy - treat your PTSD | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22irjHqrjpEuYt8OVSur1w9%22%2C%22flow%22%3Atrue%7D%7D)
 PTSD is often associated with nightmares.
 
@@ -57,6 +57,15 @@ Are you ready to try visualization? Then please write down the changed version o
 When the user is ready, the therapy session can begin. Please ask the user to describe a nightmare that {pronoun} would like to change.
 ```
 
+## Welcome Message
+Hello, I am IRT-GPT, your specialized assistant for Imagery Rehearsal Therapy. 
+
+Our goal is to transform your nightmares into positive dreams so you can sleep better and feel less stressed.
+
+
+
+Before we get started, could you please describe a nightmare that you would like to change? The more detail, the better we can work with it. 🌙✨
+
 ## Conversation
 
 **ASSISTANT**: Hello, I am IRT-GPT, your specialized assistant for Imagery Rehearsal Therapy. 
@@ -102,5 +111,4 @@ Remember to repeat the bell trigger imagination and visualization of the new dre
 
 
 Are you ready to try visualization? If so, please write down the changed version of the dream here for us to continue. 🌈✨
-
 

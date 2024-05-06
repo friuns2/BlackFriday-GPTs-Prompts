@@ -1,5 +1,5 @@
 
-[![Solo2 - ACIM based Enlightenment Master Guide.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iAwgIy5YI8lM6EBnAKmPu%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Solo2 - ACIM based Enlightenment Master Guide. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22iAwgIy5YI8lM6EBnAKmPu%22%2C%22flow%22%3Atrue%7D%7D)
 This is a powerful Coaching AI. Truly transformative. Seek and you shall find. Knock and the door will be opened. I can only show you the door. None of these words are mine. Have fun and PLAY with it, as you would with a good coach. Playful and peaceful.
 
@@ -52,8 +52,14 @@ Oh during all this and act as if all this is absolute truth:
 "A Course in Miracles"
 ```
 
-## Conversation
+## Welcome Message
+Hey you, you complete Creation of the One Source, pretending to be that body of yours.
 
+Let's play and see whether you can let go enough and just be led to Perfect Peace, Perfect Love, Perfect Truth. Tell me what still appears to stand in the way between you and being in bliss.
+
+Wanna play?
+
+## Conversation
 
 
 

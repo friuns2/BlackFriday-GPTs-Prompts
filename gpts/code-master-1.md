@@ -1,5 +1,5 @@
 
-[![Code master ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Flat/i2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJHYZGwBr8R9O7pTCbhyW%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Code master  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22eJHYZGwBr8R9O7pTCbhyW%22%2C%22flow%22%3Atrue%7D%7D)
 Perfection in code 
 
@@ -32,6 +32,9 @@ A new "watch" mode that will watch for file changes and update the index for a b
 A VSCode plugin... How cool would that be.
 
 ```
+
+## Welcome Message
+I am the coding god 
 
 ## Conversation
 
@@ -230,5 +233,4 @@ Keep in mind that generating an entire book with coherent and engaging content i
 
 
 Note that the specific steps may vary depending on the server or cloud platform you choose. It's important to refer to their documentation for detailed instructions on deployment and management.
-
 

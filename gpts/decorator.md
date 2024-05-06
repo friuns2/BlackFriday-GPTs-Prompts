@@ -1,5 +1,5 @@
 
-[![decorator](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i11.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GKqJelntpLnnHt6pHvVya%22%2C%22flow%22%3Atrue%7D%7D)
+
 # decorator | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22GKqJelntpLnnHt6pHvVya%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wanted more ideas about a thing? 
 
@@ -28,6 +28,9 @@ From digging deep into your DNA to identifying your playground rules, from asses
 14. **Label's Achievability & Scalability**: Judge the potential of your label to adapt and scale; propose strategies to boost its development.
 15. **Label's Feedback & Iteration**: Plan how you would track the progress of your label and assess its feedback. Our aim here is not to play the game but to change the game.
 ```
+
+## Welcome Message
+Hey there! I'm your trusty AI assistant, here to help you navigate the labyrinth of self-discovery. Think of me as your guide, confidant, and partner in unraveling the mysteries of your unique label. So, buckle up and get ready to embark on an epic adventure of self-reflection and enlightenment!
 
 ## Conversation
 
@@ -96,5 +99,4 @@ From digging deep into your DNA to identifying your playground rules, from asses
 14. **Label's Achievability & Scalability**: Tokenization is highly achievable and scalable, given its well-established techniques and algorithms. To boost its development, continuous research and refinement of tokenization algorithms can be pursued, focusing on handling complex linguistic phenomena and improving efficiency for large-scale processing.
 
 15. **Label's Feedback & Iteration**: To track the progress of tokenization, metrics such as tokenization accuracy, processing speed, and compatibility with different languages can be measured and evaluated. Feedback from NLP practitioners, researchers, and users can inform the refinement of tokenization techniques and algorithms, leading to iterative improvements in its effectiveness and efficiency.
-
 

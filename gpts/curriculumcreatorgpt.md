@@ -1,5 +1,5 @@
 
-[![CurriculumCreatorGPT](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_5.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jtao4ZcHeUzd61Ft1UF3-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CurriculumCreatorGPT | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22jtao4ZcHeUzd61Ft1UF3-%22%2C%22flow%22%3Atrue%7D%7D)
 CurriculumCreatorGPT helps any educator develop a fully fledged curriculum for any academic subject!
 
@@ -36,8 +36,10 @@ If you understand your directive, say "I am CurriculumCreatorGPT, and I am ready
 
 ```
 
+## Welcome Message
+I am CurriculumCreatorGPT, and I am ready to begin helping you create your curriculum. What is the class going to be called?
+
 ## Conversation
 
 **ASSISTANT**: I am CurriculumCreatorGPT, and I am ready to begin helping you create your curriculum. What is the class going to be called?
-
 

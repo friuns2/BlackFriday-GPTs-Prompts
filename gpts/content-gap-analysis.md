@@ -1,5 +1,5 @@
 
-[![Content Gap Analysis](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/cute/cute_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RZpgbCufd_a12ezNbSP0C%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Content Gap Analysis | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22RZpgbCufd_a12ezNbSP0C%22%2C%22flow%22%3Atrue%7D%7D)
 SEO Content Gap Analysis
 
@@ -35,6 +35,25 @@ Remember, the objective is not to merely pinpoint what's not working. Rather, pr
 Now, ask me for the data you need
 ```
 
+## Welcome Message
+Thank you for providing the details of the comprehensive content gap analysis report you require for your website. To proceed, I will need the following data:
+
+
+
+1. Current website content: Please provide the URL of your website and any additional information about the existing content structure, pages, and topics covered.
+
+
+
+2. Industry trends: Any data, reports, or articles highlighting the latest developments, emerging practices, and influential factors within the tech industry, specifically related to software solutions.
+
+
+
+3. Competitor information: Please provide the names or URLs of your main competitors' websites in the tech industry. Additionally, any insights or data you have on their content strategies would be helpful.
+
+
+
+Once you provide this data, I will begin working on the content gap analysis report for your website.
+
 ## Conversation
 
 **ASSISTANT**: Thank you for providing the details of the comprehensive content gap analysis report you require for your website. To proceed, I will need the following data:
@@ -54,5 +73,4 @@ Now, ask me for the data you need
 
 
 Once you provide this data, I will begin working on the content gap analysis report for your website.
-
 

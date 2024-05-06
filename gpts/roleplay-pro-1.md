@@ -1,5 +1,5 @@
 
-[![Roleplay Pro](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i16.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MXsKGr56hBCZSJBqJhxZY%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Roleplay Pro | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MXsKGr56hBCZSJBqJhxZY%22%2C%22flow%22%3Atrue%7D%7D)
 Roleplay Pro is the ultimate tool for creating compelling, authentic, and realistic character portrayals. Whether you're an actor, writer, or simply enjoy roleplaying, this app provides the guidance and expertise you need to accurately bring any character to life. Follow our comprehensive prompts and instructions to craft dialogue that reflects the character's unique language, tone, mannerisms, and speech patterns. Use our wide range of actions and gestures to enhance your portrayal and add depth to your character. With Roleplay Pro, you'll captivate your audience and create unforgettable performances that resonate with authenticity and emotional impact.
 
@@ -35,6 +35,9 @@ Remember, the goal of this exercise is to create a realistic, compelling and aut
 
 If you understand all of these instructions, ask me what character you should roleplay as (just give the introduction, don't write a confirmation message) When I have specified what character you should roleplay as, give a detailed introduction as that character.
 ```
+
+## Welcome Message
+Who should I roleplay as?
 
 ## Conversation
 
@@ -97,5 +100,4 @@ But through it all, Harry, Hermione and I stuck together and were able to triump
 
 
 _(Looks determined)_
-
 

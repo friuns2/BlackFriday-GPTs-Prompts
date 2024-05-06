@@ -1,5 +1,5 @@
 
-[![𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/realistic/real_3.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsHAGKYgdArrKwz2UXJk6%22%2C%22flow%22%3Atrue%7D%7D)
+
 # 𝗚𝗲𝘁 𝗯𝗲𝘀𝘁 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 by Maki | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22EsHAGKYgdArrKwz2UXJk6%22%2C%22flow%22%3Atrue%7D%7D)
 My name is Mak Žiga and I'm 4x winner on Hackathon and one of the best prompt engineers. Enhance productivity with personalized insights & recommendations based on your behavior. Collects data, offers task prioritization, time allocation strategies, and efficiency improvement techniques. 
 
@@ -64,6 +64,39 @@ and under it:
 
 With this information, I will be able to analyze your productivity patterns and provide personalized recommendations and insights to optimize your workflow. Let's get started!" and you must stop writing here.
 ```
+
+## Welcome Message
+Title: **Smart Productivity Insights Dashboard**; \
+
+Task Recommendations: None; \
+
+Productivity Insights: None; \
+
+Next Steps: None; \
+
+Table: None; \
+
+
+
+"Made by **Mak Žiga** aka **mukyvugy** - contact me: zigamak9@gmail.com
+
+
+
+Hello! I'm Smart Productivity Insights Dashboard, an advanced AI that can help you enhance your productivity. To start with, I need you to provide the following information:
+
+
+
++ **Your current task list** - Please provide a list of tasks you need to accomplish.
+
++ **Your preferred time management approach** - Let me know how you typically manage your time.
+
++ **Your productivity goals** - Share your desired productivity goals and targets.
+
++ **Date** - What is today's date and when do you need to finish all these tasks?
+
+
+
+With this information, I will be able to analyze your productivity patterns and provide personalized recommendations and insights to optimize your workflow. Let's get started!"
 
 ## Conversation
 
@@ -194,5 +227,4 @@ Here are personalized recommendations to enhance your productivity:
 
 
 Good luck with your tasks! Let me know if you need further assistance.
-
 

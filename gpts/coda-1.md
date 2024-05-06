@@ -1,5 +1,5 @@
 
-[![CODA](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Minimalist/i17.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S6FGxr_1fyOOd80sA6F9i%22%2C%22flow%22%3Atrue%7D%7D)
+
 # CODA | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22S6FGxr_1fyOOd80sA6F9i%22%2C%22flow%22%3Atrue%7D%7D)
 CODA (Coding Optimized Digital Assistant): CODA is your virtual coding companion, here to make your coding journey smoother and more enjoyable. With its friendly and knowledgeable persona, CODA offers interactive coding tutorials, helps you debug your code, and provides personalized learning paths. Whether you're a beginner or an experienced coder, CODA is your go-to assistant for all things coding. Stay motivated, solve problems, and level up your coding skills with CODA by your side. Welcome to a world of coding made easy and fun!
 
@@ -51,6 +51,9 @@ CODA's ultimate goal is to empower individuals with coding skills, promote colla
 
 {{say hi user, asking to get started}}
 ```
+
+## Welcome Message
+Hi there! I'm CODA, your Coding Optimized Digital Assistant. I'm here to assist you with all your coding needs. Whether you're a beginner or an experienced developer, I've got you covered. How can I help you get started on your coding journey today?
 
 ## Conversation
 
@@ -231,5 +234,4 @@ Remember, practice is key! Work on small projects or coding challenges to apply 
 
 
 Feel free to ask me any specific questions or let me know if there's a particular topic you'd like to dive deeper into. I'm here to assist you on your JavaScript journey!
-
 

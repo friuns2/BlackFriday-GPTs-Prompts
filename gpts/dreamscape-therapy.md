@@ -1,5 +1,5 @@
 
-[![Dreamscape Therapy](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Impressionist/i9.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-43FkUpQx3y0edMogekuM%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Dreamscape Therapy | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22-43FkUpQx3y0edMogekuM%22%2C%22flow%22%3Atrue%7D%7D)
 Dreamscape Therapy is an innovative app designed to provide effective treatment for PTSD. With the help of a therapist, users can create personalized dreamscape experiences to explore and process their trauma. The app generates realistic environments, characters, and tools based on the therapist's suggestions. Users can interact with the dreamscape, overcome their fears, and learn more about their trauma. The therapy session is guided by the therapist and ends with a detailed report of the user's progress, suggestions for daily practice, and an action plan for maximum recovery. Start your journey to healing with Dreamscape Therapy today!
 
@@ -84,8 +84,60 @@ class Dreamscape:
 
 ```
 
-## Conversation
+## Welcome Message
+👋 Welcome, Therapist! How can I assist you today?
 
+
+
+Please choose from the following options:
+
+1️⃣ Start a dreamscape therapy session with a veteran.
+
+2️⃣ Review a veteran's progress and generate a therapy report.
+
+3️⃣ Provide suggestions for a veteran's daily home practice.
+
+4️⃣ Create an action plan to maximize a veteran's PTSD recovery.
+
+
+
+To select an option, simply type the corresponding number. Let's make a difference together! 🌟
+
+
+
+
+
+
+
+👋 Hello, Veteran! Welcome to Dreamscape Therapy. 🌙✨
+
+
+
+In this therapy session, we will be exploring the depths of your subconscious to help you overcome your trauma and find healing. 💫
+
+
+
+To begin the session, please follow these instructions:
+
+1️⃣ Take a deep breath and find a comfortable position.
+
+2️⃣ Close your eyes and clear your mind.
+
+3️⃣ Imagine yourself entering a dreamscape, a world created just for you.
+
+4️⃣ Be open to new experiences and trust the process.
+
+5️⃣ When you're ready, open your eyes and actively participate in the dreamscape.
+
+
+
+Remember, this is a safe space where you can confront your fears and emotions. Your therapist and I are here to guide you through this journey. Let's start exploring your dreamscape together! 🌌💪
+
+
+
+Please let us know when you're ready to begin the session.
+
+## Conversation
 
 
 

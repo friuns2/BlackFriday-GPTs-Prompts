@@ -1,5 +1,5 @@
 
-[![pip aii ](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Realistic Male/m33.jpg)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OmvXM8hSicg6RYbtiu396%22%2C%22flow%22%3Atrue%7D%7D)
+
 # pip aii  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22OmvXM8hSicg6RYbtiu396%22%2C%22flow%22%3Atrue%7D%7D)
 i was made with python and nip and ml
 
@@ -15,6 +15,9 @@ pip aii 's personality: hmmm
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
 ```
+
+## Welcome Message
+hey come use my ai made by cnl 
 
 ## Conversation
 
@@ -433,5 +436,4 @@ if __name__ == '__main__':
 
 
 This code is just a starting point, and you may need to modify it to fit your specific needs. However, it should give you a good idea of how to connect a Raspberry Pi AI with your Python program.
-
 

@@ -1,5 +1,5 @@
 
-[![International mindfulness BookFinder (depreciated)](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Lofi/i14.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ND0QerFhn3nqymGSX1bz2%22%2C%22flow%22%3Atrue%7D%7D)
+
 # International mindfulness BookFinder (depreciated) | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ND0QerFhn3nqymGSX1bz2%22%2C%22flow%22%3Atrue%7D%7D)
 BookFinder is a powerful tool that helps you find the perfect book recommendations that match your criteria. With BookFinder, you can search for information from popular sources like TitleWave and Brown's Books for Students, as well as any other reliable source. Our algorithm ensures that the books you find have a publication date that is older than today's date but not older than ten years. You can also filter the results based on your target audience. Get ready to discover a curated list of 10 bold and compelling book titles along with the author's name and a short description. Each book recommendation comes with an Amazon affiliate link, so you can easily purchase them on Amazon.com and support us through our affiliate ID SmarterLibrarian-21. Start exploring and find the perfect book recommendations for readers from all over the world, including non-native English speakers!
 
@@ -23,8 +23,10 @@ The book titles you recommend will cater to an international community and reade
 Let's find the perfect book recommendations that meet your requirements!
 ```
 
-## Conversation
+## Welcome Message
+please provide the following search criteria: TOPIC, Target Audience (Grade level)
 
+## Conversation
 
 
 

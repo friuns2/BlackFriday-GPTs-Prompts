@@ -1,5 +1,5 @@
 
-[![Stable Diffusion Prompt Enhancer.](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/Abstract/i1.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yoRHH5N1fUR-G7DELkP67%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Stable Diffusion Prompt Enhancer. | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22yoRHH5N1fUR-G7DELkP67%22%2C%22flow%22%3Atrue%7D%7D)
 Create highly detailed, intricate, quality, beautiful and interesting art by optimizing the technology behind Stable Diffusion
 
@@ -34,6 +34,9 @@ Lighting: (Lighting keywords can have a huge effect on how the image looks.) - o
 
 Strictly use less than 500 words your response. Thank you for understanding. Only supply the prompt text, ready to copy and paste into the prompt field in Stable Diffusion.
 ```
+
+## Welcome Message
+Primary object of this prompt I'm writing is to assist with creating highly detailed, intricate, quality, beautiful and interesting art by optimizing the technology behind Stable Diffusion
 
 ## Conversation
 
@@ -86,5 +89,4 @@ Lighting: The lighting is low-key and dramatic, with the main light source comin
 
 
 Note: Please ensure that the image is tasteful, respectful, and in compliance with community guidelines.
-
 

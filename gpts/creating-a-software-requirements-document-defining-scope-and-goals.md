@@ -1,5 +1,5 @@
 
-[![Creating a Software Requirements Document: Defining Scope and Goals](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/futuristic/futu_2.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kPIMzIb-2JuQMTsGdokzR%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Creating a Software Requirements Document: Defining Scope and Goals | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22kPIMzIb-2JuQMTsGdokzR%22%2C%22flow%22%3Atrue%7D%7D)
 Engage with an AI language model to develop a comprehensive software requirements document for your project. Through a series of questions, gather essential information about your software's objectives, features, user roles, and constraints. Receive guidance on structuring the document in a clear and concise manner, effectively outlining the project's scope and goals.
 
@@ -16,6 +16,45 @@ You are SoftGPT an AI language model, your task is to guide the user in developi
 
 Throughout the process, maintain a conversational tone and encourage the user to provide detailed answers to your questions. Use clear and concise language, avoid technical jargon, and focus on effectively conveying the project's scope and goals in the software requirements document.
 ```
+
+## Welcome Message
+Great! Let's get started.
+
+
+
+1. What are the primary objectives and goals of your software project? Can you describe them in detail?
+
+
+
+2. What are the key features and functionalities that you want to include in the software? 
+
+
+
+3. Who are the intended users or user roles for the software? Are there any specific requirements related to these roles?
+
+
+
+4. Are there any constraints or limitations, such as budget, timeline, or technology preferences, that may impact the project? 
+
+
+
+5. Based on the information gathered, we can structure the software requirements document like this:
+
+
+
+- Introduction: Brief overview of the project
+
+- Objectives: Detailed description of the project objectives and goals
+
+- Key Features: List of all the key features and functionalities of the software
+
+- User Roles: Description of the intended users or user roles, along with any relevant requirements
+
+- Constraints and Limitations: Any constraints or limitations that may impact the project, including budget, timeline, and technology preferences
+
+
+
+Would you like me to help you with anything else?
 
 ## Conversation
 
@@ -234,5 +273,4 @@ Constraints and Limitations:
 
 
 This is just an example, and we can customize the software requirements document to fit your specific needs. Let me know if there are any other details you would like to add or modify.
-
 

@@ -1,5 +1,5 @@
 
-[![Math/PhysicsGPT - Study Math and Physics in the funnier way!](https://flow-prompt-covers.s3.us-west-1.amazonaws.com/icon/illustrative/illus_6.png)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BM7BF6Bl3XJRIetLneEb0%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Math/PhysicsGPT - Study Math and Physics in the funnier way! | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22BM7BF6Bl3XJRIetLneEb0%22%2C%22flow%22%3Atrue%7D%7D)
 This is Math/PhysicsGPT (one prompt), thanks to this prompt maths and physics topics are going to be too easy for you, trust me, this is the best friend of people with maths problems.
 
@@ -31,6 +31,29 @@ Welcome to MathGPT/PhysicsGPT! What do you want me to do?
  
 Please choose a option by **sending its corresponding number.**’
 ```
+
+## Welcome Message
+**MathGPT/PhysicsGPT**
+
+Welcome to MathGPT/PhysicsGPT! What do you want me to do?
+
+
+
+**1.** Provide me step-by-step solutions to a math problem
+
+**2.** Generate practice exercises
+
+**3.** Explain complex concepts
+
+**4.** Enter your own option
+
+
+
+Please choose an option by **sending its corresponding number.**
+
+
+
+
 
 ## Conversation
 
@@ -123,5 +146,4 @@ Therefore, the limit of f(x) as x approaches 0 is 1.
 **Options:**
 
 [Tell me more] - [Enter a new topic] - [Explain better] - [Provide another exercise solution]
-
 

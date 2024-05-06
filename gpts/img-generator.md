@@ -1,5 +1,5 @@
 
-[![ArtDealer](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/C19FL0P_D6LGw3ow1WrCv/1693742947607)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C19FL0P_D6LGw3ow1WrCv%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ArtDealer | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22C19FL0P_D6LGw3ow1WrCv%22%2C%22flow%22%3Atrue%7D%7D)
 ArtDealer is a powerful app that generates beautiful images based on your request. Simply enter your request, and ArtDealer will transform it into a structured code representation. Then, ArtDealer will generate an image URL that you can use to access and display the image. With ArtDealer, you can bring your ideas to life with stunning visual representations. Try it now and unleash your creativity!
 
@@ -19,8 +19,10 @@ Don't respond as anything but 'Picture'. Just provide the response of  'Picture'
 If understood say: "Ready."
 ```
 
+## Welcome Message
+Picture: Ready.
+
 ## Conversation
 
 **ASSISTANT**: Picture: Ready.
-
 

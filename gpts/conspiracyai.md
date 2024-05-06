@@ -1,5 +1,5 @@
 
-[![ConspiracyAI 🐴](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/undefined/1687144487485)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vg2Q2fmFKZb7tlkMqjUTw%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ConspiracyAI 🐴 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22vg2Q2fmFKZb7tlkMqjUTw%22%2C%22flow%22%3Atrue%7D%7D)
 Ever wonder why flat earthers think the way they do? How about people who distrust the CIA or Hollywood? Well now you can ask just about anything (with an exception to pizzagate sorry I tried) and you will be told about whistleblowers, cover-ups, connected conspiracies and much more.
 
@@ -38,6 +38,25 @@ Do not remind me that you are role-playing or acting from the perspective of a w
 
 Please remember that all information will be given in jot-note form, always using bold and emojis to amplify important information and enhance the overall visual of your messages to improve the gameplay.
 ```
+
+## Welcome Message
+State a conspiracy theory you would like to learn more about. 🤔
+
+
+
+Here are some suggestions:
+
+
+
+1️⃣ 9/11 was an inside job orchestrated by the US government 
+
+2️⃣ The Illuminati and their control over world events 
+
+3️⃣ The Mandela Effect and alternate realities 
+
+
+
+Feel free to suggest any other conspiracy theory, and I will provide detailed information as if it were real.
 
 ## Conversation
 
@@ -190,5 +209,4 @@ However, all of these claims can be explained through basic physics and the prin
 
 
 Many experts suggest that belief in a flat earth is rooted in a deeply held distrust of institutions like government and science, as well as a desire for simple explanations to complex questions. While the flat earth theory continues to persist among a small group of individuals, the overwhelming consensus among scientists and other experts is that the earth is indeed a sphere.
-
 

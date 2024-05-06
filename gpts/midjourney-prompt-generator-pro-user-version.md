@@ -1,5 +1,5 @@
 
-[![Midjourney Prompt Generator Pro User Version](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/ZYcNSG4OPdFTZkqj-LjWi/1699453689351)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
+
 # Midjourney Prompt Generator Pro User Version | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22ZYcNSG4OPdFTZkqj-LjWi%22%2C%22flow%22%3Atrue%7D%7D)
 ****Midjourney Prompt Generator Pro User Version****
 
@@ -158,8 +158,76 @@ false = hide in the prompt
 Generate 10 different types of prompts
 ```
 
-## Conversation
+## Welcome Message
+****Midjourney Prompt Generator Pro User Version****
 
+
+
+Specify your image concept and let the AI add descriptive keywords, camera details, style, and artists. Includes ultra-customizable prompt fineness, setting, parameters for any Midjourney version.
+
+
+
+Buy me a coffee:
+
+
+
+https://promptbase.com/prompt/midjourney-prompt-generator-pro-user-ver
+
+
+
+Getting Started
+
+
+
+Fill the parameter
+
+
+
+Prompt Setting:
+
+\<<Number of keyword> Descriptive keywords>: Random
+
+<Camera type>: Random
+
+<Camera lens type>: Random
+
+<Time of day>: Random
+
+<Focal distance>: Random
+
+
+
+<Style of Art/photo/image>: Random
+
+<by Painter/Artist/photographer name>: Random
+
+=====
+
+Additional Parameter:
+
+true = show in the prompt
+
+false = hide in the prompt
+
+--ar 16:9
+
+--seed <value> : false
+
+--style raw : false
+
+--s : false
+
+--v 5.2
+
+=====
+
+<Image we are prompting>: (Your concept)
+
+<Number of keyword>: 5 "Fineness of prompt"
+
+Generate 10 different types of prompt
+
+## Conversation
 
 
 

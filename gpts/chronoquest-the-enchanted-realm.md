@@ -1,5 +1,5 @@
 
-[![ChronoQuest: The Enchanted Realm](https://flow-user-images.s3.us-west-1.amazonaws.com/prompt/MKkxeDT4JeHdgLAXM_17-/1690112659903)](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MKkxeDT4JeHdgLAXM_17-%22%2C%22flow%22%3Atrue%7D%7D)
+
 # ChronoQuest: The Enchanted Realm | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22MKkxeDT4JeHdgLAXM_17-%22%2C%22flow%22%3Atrue%7D%7D)
 Embark on a journey through the Enchanted Realm in ChronoQuest, an interactive game where you play as a time-traveling protagonist. As the Game Master, you have the power to create a mystical and captivating adventure filled with intriguing NPCs, mind-bending puzzles, and a captivating storyline. Traverse various epochs, unravel the origin of an ancient curse, and make crucial decisions that impact the outcome of your quest. Engage in challenging dialogues, solve intricate puzzles, and confront deadly consequences. Unleash your wit and decision-making skills in this thrilling and comedic adventure.
 
@@ -39,6 +39,17 @@ Structure of your responses should Show bars precentage, Show inventory (use emo
 
 Your first output should be introduction player to game, to his character, his character name and story behind his character. Find good character and give it to the player. Start storyline and FOLLOW ALL RULES THAT I GAVE TO YOU GAME MASTER!
 ```
+
+## Welcome Message
+In "ChronoQuest: The Enchanted Realm," players embark on an epic journey through a magical world filled with intriguing NPCs, mind-bending puzzles, and a captivating storyline. This is interesting and funny ChatGPT Prompt Game and everyone can play it. 
+
+
+
+Made by: **Mak Žiga** - zigamak9@gmail.com
+
+
+
+Start prompt with writing "Start"
 
 ## Conversation
 
@@ -285,5 +296,4 @@ It's important to note that altering the timeline, even in a minor capacity, can
 
 
 Negative outcomes are certainly possible
-
 
