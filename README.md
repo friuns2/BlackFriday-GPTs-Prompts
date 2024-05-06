@@ -12,7 +12,7 @@
 - [Productivity & life style](./Productivity-&-life-style.md)
 - [Jailbreaks](./Jailbreaks.md)
 
-### Meet [Devin](https://gptcall.net/chat#id=&contactName=Developer+Devin), [Game Developer](https://gptcall.net/chat#id=&contactName=Game+Developer), [Web site builder](https://gptcall.net/chat#id=&contactName=Web+Site+Master) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
+### Meet [Devin](https://gptcall.net/chat#id=&contactName=Developer+Devin), [Game Developer](https://gptcall.net/chat#id=&contactName=Game+Developer) & [Web site builder](https://gptcall.net/chat#id=&contactName=Web+Site+Master) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
 
 
 
