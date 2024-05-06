@@ -1,5 +1,6 @@
 # GPTs Prompts And Jailbreaks
 
+- [2024 May Update](./2024-May-Update.md)
 - [Programming](./Programming.md)
 - [Marketing](./Marketing.md)
 - [Academic](./Academic.md)
