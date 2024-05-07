@@ -22,4 +22,4 @@ https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/dbd3d7cb-7aa
 
 https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/c172af20-9bd6-4fb3-a717-16ff4f822056
 # Demo Videos 
-**Game developer demo**: https://youtube.com/clip/UgkxNbTCRWGeiOCQUhcm1KNW_izCP_-64-h8
+**Android self-coding app builder | 01 mobile first try**: https://youtube.com/clip/UgkxNbTCRWGeiOCQUhcm1KNW_izCP_-64-h8
