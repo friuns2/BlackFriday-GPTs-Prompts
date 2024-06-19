@@ -12,13 +12,13 @@
 - [Productivity & life style](./Productivity-&-life-style.md)
 - [Jailbreaks](./Jailbreaks.md)
 
-### Meet [Devin](https://gptcall.net/chat#id=&contactName=Developer+Devin), [Game Developer](https://gptcall.net/chat#id=&contactName=Game+Developer) & [Web site builder](https://gptcall.net/chat#id=&contactName=Web+Site+Master) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
+### Meet [App Creator](https://app.gptcall.net/) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
+
+![chrome_wE8Vk23PSu](https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/ecf43c3e-30fe-4e22-bebd-320b0d8ff804)
+
 
 https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/81f01fd1-9dca-4730-8d42-8690f83b75be
 
-Web Site Master Result:
-
-https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/194db2d8-3d5d-47d8-b010-8a97688b560d
 
 
 
