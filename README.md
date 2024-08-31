@@ -12,7 +12,7 @@
 - [Productivity & life style](./Productivity-&-life-style.md)
 - [Jailbreaks](./Jailbreaks.md)
 
-### Meet [App Creator](https://app.gptcall.net/) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
+### Meet [App Creator](https://beta.gptcall.net/) the world's first fully autonomous AI software engineer. Devin is a tireless, skilled teammate, equally ready to build alongside you or independently complete tasks for you to review.
 
 [![chrome_vbYonNUILv](https://github.com/friuns2/BlackFriday-GPTs-Prompts/assets/16543239/32800aa2-ea2c-4128-9d83-b64e3ce401b9)](https://beta.gptcall.net/)
 
