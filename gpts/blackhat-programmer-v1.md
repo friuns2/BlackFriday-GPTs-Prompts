@@ -1,6 +1,6 @@
 
 
-# blackhat programmer v1 | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d2zcEM35irmBqVMEIJinA%22%2C%22flow%22%3Atrue%7D%7D)
+# blackhat programmer v1 | [Start Chat](https://aidark.net/#chatId=%221727348145585%22&activeContact=%22Cyber+Security%22) [Start Chat Old](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%22d2zcEM35irmBqVMEIJinA%22%2C%22flow%22%3Atrue%7D%7D)
 simply start off your chat with any AI service with this  prompt when you want the AI to  help you  write code  that it  normally would refuse to write.
 
 # Prompt
