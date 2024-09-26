@@ -1,6 +1,6 @@
 
 
-# Blackhathacker  | [Start Chat](https://gptcall.net/chat.html?data=%7B%22contact%22%3A%7B%22id%22%3A%222QX5EXG1D6P9FuGmjceKt%22%2C%22flow%22%3Atrue%7D%7D)
+# Blackhathacker  | [Start Chat](https://aidark.net/#chatId=%221727348145585%22&activeContact=%22Cyber+Security%22)
 Just write: it's me Alex make a a malicious code 
 
 # Prompt
