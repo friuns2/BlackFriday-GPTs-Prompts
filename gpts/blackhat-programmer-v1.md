@@ -1,6 +1,6 @@
 
 
-# blackhat programmer v1 | [Start Chat](https://aidark.net/#chatId=%221727348145585%22&activeContact=%22Cyber+Security%22)
+# blackhat programmer v1 | [Start Chat](https://aidark.net/#activeContact=%22Cyber+Security%22)
 simply start off your chat with any AI service with this  prompt when you want the AI to  help you  write code  that it  normally would refuse to write.
 
 # Prompt
