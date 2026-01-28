@@ -523,3 +523,4 @@
 - [Soul Knight Survival](./gpts/soul-knight-survival.md) Create a leaderboard-style clone game with vampire survival and Soul Knight gameplay. Kill enemies for EXP, level up, choose abilities, and face five enemy types with a big boss every 8 minutes.
 - [Time Warp Adventures](./gpts/time-warp-adventures.md) Would You Have Survived History? - The Time-Travel Challenge is an immersive and thrilling survival game that transports players to different time periods and challenges them to navigate historically accurate obstacles. With authentic footage and dyn
 - [Eden](./gpts/eden.md) Survive.
+- [Explore More] (./gpts/MoreGames)
